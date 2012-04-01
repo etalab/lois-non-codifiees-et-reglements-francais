@@ -1,3 +1,17 @@
 # Article 218
 
-La Caisse autonome nationale exerce une action sanitaire et sociale de nature à améliorer l'état de santé des ressortissants du régime de sécurité sociale dans les mines. Le 2° de l'article R. 262-1, le premier alinéa de l'article R. 262-4 et les articles R. 262-5 à R. 262-10 du code de la sécurité sociale sont applicables à cette action sanitaire et sociale. Pour leur application, les références à la Caisse nationale d'assurance maladie, aux caisses d'assurance retraite et de la santé au travail et aux caisses sont remplacées par la référence à la Caisse autonome nationale.
+L'Agence nationale pour la garantie des droits des mineurs fixe, coordonne et contrôle, pour le compte du régime minier, l'ensemble des actions engagées en matière de politique d'action sanitaire et sociale, mentionnées au dernier alinéa du I de l'article 15.
+
+L'Agence nationale pour la garantie des droits des mineurs élabore :
+
+1° Un schéma directeur national d'action sanitaire et sociale pluriannuel ;
+
+2° Un règlement national d'action sanitaire et sociale qui précise la nature et les critères d'attribution des prestations servies ;
+
+3° Un plan national d'orientations du service social qui détermine le rôle, les missions et l'organisation du service social.
+
+Ces documents sont soumis au conseil d'administration de l'Agence nationale pour la garantie des droits des mineurs ainsi qu'à l'approbation des ministres chargés des mines, de la sécurité sociale et du budget.
+
+L'action sanitaire et sociale exercée par l'Agence nationale pour la garantie des droits des mineurs en faveur de la population âgée ressortissant au régime minier participe notamment au maintien à domicile et à la préservation de l'autonomie des personnes concernées.
+
+Le conseil d'administration de l'Agence nationale pour la garantie des droits des mineurs peut autoriser, dans le respect des crédits budgétaires prévus à l'article 219, la création de nouvelles prestations ou la mise en place de nouveaux modes d'intervention qui doivent faire l'objet d'une approbation expresse des mêmes ministres.

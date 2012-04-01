@@ -1,6 +1,6 @@
 # Article 98
 
-Sous réserve des dispositions du dernier alinéa du I de l'article 15, la Caisse autonome nationale assure la gestion :
+Sous réserve des dispositions  des deux derniers alinéas du I de l'article 15, la Caisse autonome nationale assure la gestion :
 
 1° Des branches énumérées à l'article 1er bis ;
 

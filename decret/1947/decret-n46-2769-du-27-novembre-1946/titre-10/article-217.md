@@ -1,19 +1,7 @@
 # Article 217
 
-Conformément à l'article 15, la Caisse autonome nationale fixe, coordonne et contrôle l'ensemble des actions engagées en matière de politique d'action sanitaire et sociale, et de prévention et promotion de la santé par les organismes du régime minier.
+La Caisse autonome nationale fixe, coordonne et contrôle l'ensemble des actions engagées en matière de politique de prévention et promotion de la santé et de politique d'action sanitaire et sociale mentionnée au 5° du I de l'article 15.
 
-Elle conduit, suivant les programmes prioritaires nationaux définis par l'article L. 1417-2 du code de la santé publique, la politique de prévention, d'information et d'éducation pour la santé du régime minier conformément aux principes posés par l'article L. 1417-1 du code précité.
+Elle conduit, suivant les programmes prioritaires nationaux définis par l'article L. 1417-2 du code de la santé publique, la politique de prévention, d'information et d'éducation pour la santé du régime minier, conformément aux principes énoncés par l'article L. 1417-1 du même code.
 
-Elle élabore :
-
-1° Un schéma directeur national d'action sanitaire et sociale et de prévention pluriannuel qui fixe les priorités nationales à suivre ;
-
-2° Un règlement national d'action sanitaire et sociale qui précise la nature et les critères d'attribution des prestations servies ;
-
-3° Un plan national d'orientations du service social qui fixe le rôle et les missions du service social.
-
-Ces documents sont soumis au conseil d'administration de la Caisse autonome nationale pour approbation et sont soumis à l'approbation des ministres chargés de la sécurité sociale et du budget.
-
-Le conseil d'administration de la Caisse autonome nationale peut autoriser la création de nouvelles prestations ou la mise en place de nouveaux modes d'intervention qui doivent faire l'objet d'une approbation des ministres précités.
-
-La caisse autonome nationale peut exercer une action sanitaire et sociale en faveur des victimes d'accidents du travail ou de maladies professionnelles ainsi qu'en faveur des personnes âgées. Elle peut attribuer des secours aux personnes qui étaient, au cours des trois années précédant le décès de l'affilié, à la charge de celui-ci et qui ne peuvent pas prétendre aux pensions de réversion et d'orphelins prévues au titre IV. Ces actions doivent s'exercer dans le cadre du schéma directeur et du règlement national d'action sanitaire et sociale définis aux 1° et 2° du présent article.
+Le 2° de l'article R. 262-1, le premier alinéa de l'article R. 262-4, les articles R. 262-5 à R. 262-8 et l'article R. 262-10 du code de la sécurité sociale sont applicables à ces actions. Pour cette application, les références à la Caisse nationale d'assurance maladie, aux caisses d'assurance retraite et de la santé au travail et aux caisses primaires d'assurance maladie sont remplacées par des références à la Caisse autonome nationale.

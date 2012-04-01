@@ -16,6 +16,8 @@ I.-Les ressources du Fonds national d'action sanitaire et sociale sont constitu�
 
 II.-Les charges du Fonds national d'action sanitaire et sociale sont constituées par :
 
-1° Les charges d'action sanitaire et sociale de la Caisse autonome nationale prévues au titre X ;
+1° Les charges d'action sanitaire et sociale de la Caisse autonome nationale prévues à l'article 217 ;
 
-2° Les prêts alloués par le fonds au titre de son action immobilière en faveur des établissements sanitaires et sociaux du régime minier.
+2° Les charges d'action sanitaire et sociale de l'Agence nationale pour la garantie des droits des mineurs prévues aux articles 218, 219 et 222 ;
+
+3° Les prêts alloués par le fonds au titre de son action immobilière en faveur des établissements sanitaires et sociaux du régime minier.

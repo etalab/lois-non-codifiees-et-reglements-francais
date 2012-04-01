@@ -22,13 +22,15 @@ Dans ce cadre :
 
 Pour le compte de la Caisse autonome nationale, la Caisse des dépôts et consignations recouvre les cotisations et gère l'assurance vieillesse et invalidité du régime minier. La Caisse des dépôts et consignations fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes.
 
+Pour le compte du régime minier, l'Agence nationale pour la garantie des droits des mineurs détermine les orientations de la politique d'action sanitaire et sociale individuelle et en assure la gestion dans les conditions définies aux articles 218, 219 et 222. L'agence nationale fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes.
+
 II.-Le conseil d'administration de la Caisse autonome nationale détermine :
 
 1° Les orientations relatives à la mise en œuvre de la politique de santé ainsi qu'à l'organisation du système de soins et au bon usage de la prévention et des soins ;
 
 2° Les orientations de la politique de gestion du risque et les objectifs prévus pour sa mise en œuvre ;
 
-3° Les orientations de la politique de prévention et d'action sanitaire et sociale ;
+3° Les orientations de la politique de prévention et d'action sanitaire et sociale collective ;
 
 4° Les budgets nationaux de gestion et d'intervention.
 
