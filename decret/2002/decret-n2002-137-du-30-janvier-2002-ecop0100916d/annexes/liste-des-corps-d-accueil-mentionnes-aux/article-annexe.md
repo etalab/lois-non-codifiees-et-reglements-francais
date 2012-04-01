@@ -2,36 +2,36 @@
 
 Corps de catégorie A :
 
-- personnels de catégorie A des services déconcentrés de la direction générale des impôts ;
+-personnels de catégorie A des services déconcentrés de la direction générale des impôts ;
 
-- agents de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects ;
+-agents de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects ;
 
-- inspecteurs de la concurrence, de la consommation et de la répression des fraudes ;
+-inspecteurs de la concurrence, de la consommation et de la répression des fraudes ;
 
-- chargés de mission de l'Institut national de la statistique et des études économiques ;
+-chargés de mission de l'Institut national de la statistique et des études économiques ;
 
-- attachés économiques ;
+-attachés économiques ;
 
-- ingénieurs de l'industrie et des mines ;
+-ingénieurs de l'industrie et des mines ;
 
-- ingénieurs-économistes de la construction ;
+-ingénieurs-économistes de la construction ;
 
-- traducteurs du ministère de l'économie, des finances et de l'industrie.
+-traducteurs du ministère de l'économie, des finances et de l'industrie.
 
 Corps de catégorie B :
 
-- contrôleurs des finances publiques ;
+-contrôleurs des finances publiques ;
 
-- contrôleurs des douanes et droits indirects ;
+-contrôleurs des douanes et droits indirects ;
 
-- contrôleurs de l'Institut national de la statistique et des études économiques ;
+-contrôleurs de l'Institut national de la statistique et des études économiques ;
 
-- techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie ;
+-                techniciens de laboratoire relevant des ministres chargés de l'économie et du budget ;
 
-- dessinateurs-projeteurs du ministère des finances.
+-dessinateurs-projeteurs du ministère des finances.
 
 Corps de catégorie C :
 
-- agents de constatation ou d'assiette des impôts ;
+-agents de constatation ou d'assiette des impôts ;
 
-- agents de constatation des douanes.
+-agents de constatation des douanes.

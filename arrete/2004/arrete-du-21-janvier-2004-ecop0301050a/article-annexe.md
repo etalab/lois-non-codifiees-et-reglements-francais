@@ -59,8 +59,10 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td width="42"/>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -85,8 +87,10 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td rowspan="2" width="42"/>
 <td rowspan="2">
 <br/>
+<br/>
 </td>
 <td rowspan="2">
+<br/>
 <br/>
 </td>
 </tr>
@@ -307,6 +311,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td rowspan="2" width="98">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -429,6 +434,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td width="98">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -437,11 +443,14 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td width="108">
 <br/>
+<br/>
 </td>
 <td width="96">
 <br/>
+<br/>
 </td>
 <td width="98">
+<br/>
 <br/>
 </td>
 </tr>
@@ -541,7 +550,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie</p>
+<p>Techniciens de laboratoire relevant des ministres chargés de l'économie et du budget</p>
 </td>
 </tr>
 <tr>
@@ -639,6 +648,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">15,00</p>
 </td>
 <td width="98">
+<br/>
 <br/>
 </td>
 </tr>

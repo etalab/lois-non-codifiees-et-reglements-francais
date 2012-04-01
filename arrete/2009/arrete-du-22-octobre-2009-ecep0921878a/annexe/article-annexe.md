@@ -809,7 +809,7 @@ SERVICES DÉCONCENTRÉS
 </td>
 </tr>
 <tr>
-<td align="center">Corps des techniciens de laboratoire du ministère de l'économie, <br/>des finances et de l'industrie <br/>(décret n° 96-273 du 26 mars 1996) <br/>
+<td align="center">Corps des <br/>techniciens de laboratoire relevant des ministres chargés de l'économie et du budget <br/>(         décret n° 2012-379 du 19 mars 2012) <br/>
 </td>
 <td align="center">
 <br/>
@@ -1053,7 +1053,7 @@ SERVICES DÉCONCENTRÉS
 </td>
 </tr>
 <tr>
-<td align="center">Corps des techniciens de laboratoire des écoles des mines <br/>(décret n° 96-273 du 26 mars 1996) <br/>
+<td align="center">Corps des techniciens de laboratoire des écoles des mines <br/>(         décret n° 2012-379 du 19 mars 2012) <br/>
 </td>
 <td align="center">
 <br/>

@@ -227,7 +227,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <td valign="top" width="454">Techniciens de l'industrie et des mines (corps). </td>
 </tr>
 <tr>
-<td valign="top" width="454">Techniciens du ministère de l'économie, des finances et de l'industrie (corps). </td>
+<td valign="top" width="454">Techniciens de laboratoire relevant des ministres chargés de l'économie et du budget (corps). </td>
 </tr>
 </tbody>
 </table>

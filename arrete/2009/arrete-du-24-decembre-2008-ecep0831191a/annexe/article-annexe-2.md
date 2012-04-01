@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-**CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DE L'ANNÉE 2009, 2010 et 2011**
+**CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DE L'ANNÉE 2009,2010 et 2011**
 
 -corps des maîtres-assistants des écoles des mines, et corps des professeurs des écoles des mines, régis par le décret n° 2007-468 du 28 mars 2007 portant statut particulier des personnels enseignants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
 
@@ -12,7 +12,7 @@
 
 -corps des secrétaires administratifs du ministère de l'économie, des finances et de l'industrie, régi par le décret n° 94-1017 du 18 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues ;
 
--le corps des techniciens de laboratoire des écoles nationales des mines, régi par le décret n° 96-273 du 26 mars 1996 fixant les dispositions statutaires communes applicables aux techniciens de laboratoire des administrations de l'Etat et de ses établissements publics ;
+-le corps des techniciens de laboratoire des écoles nationales des mines, régi par le         décret n° 2012-379 du 19 mars 2012 portant statut particulier des techniciens de laboratoire relevant des ministres chargés de l'économie et du budget ;
 
 -corps des dessinateurs projeteurs du ministère des finances, régi par le décret n° 61-1145 du 13 octobre 1961 portant statut particulier du corps des dessinateurs projeteurs du ministère des finances ;
 

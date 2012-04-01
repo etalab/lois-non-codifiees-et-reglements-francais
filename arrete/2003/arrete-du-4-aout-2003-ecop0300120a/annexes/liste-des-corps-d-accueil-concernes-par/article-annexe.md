@@ -26,7 +26,7 @@ Contrôleurs des douanes et droits indirects.
 
 Contrôleurs de l'Institut national de la statistique et des études économiques.
 
-Techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie.
+Techniciens de laboratoire relevant des ministres chargés de l'économie et du budget.
 
 Dessinateurs-projeteurs du ministère des finances.
 
