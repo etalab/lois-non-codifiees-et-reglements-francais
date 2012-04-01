@@ -2,9 +2,7 @@
 
 Cette commission comprend :
 
-- le trésorier-payeur général ou, pour Paris, le receveur général des finances de Paris, président ;
-
-- le directeur des services fiscaux ;
+- le directeur départemental ou, le cas échéant, régional des finances publiques, président ;
 
 - le directeur régional des affaires sanitaires et sociales, le directeur interrégional de la sécurité sociale ou le directeur départemental de la sécurité sociale, selon le cas ;
 
