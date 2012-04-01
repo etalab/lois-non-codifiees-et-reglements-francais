@@ -8,8 +8,6 @@ La sous-direction de la formation, des compétences et des qualifications :
 
 - anime la politique de développement des compétences et des qualifications ;
 
-- coordonne et anime les centres interrégionaux de formation professionnelle du ministère, oriente leur activité et en assure le pilotage technique et organisationnel ;
-
 - assure l'évaluation de l'activité de formation des maîtrises d'ouvrage métier et veille à leur professionnalisation ;
 
 - assure l'animation des instances nationales de concertation en matière de formation.
@@ -22,6 +20,4 @@ Elle comprend :
 
 - le bureau de l'animation des services de la formation ;
 
-- les cellules de gestion unifiée et partagée des ressources humaines (GUEPARH).
-
-Le centre d'évaluation, de documentation et d'innovation pédagogiques, service à compétence national, lui est rattaché.
+Le centre ministériel de valorisation des ressources humaines, service à compétence national, lui est rattaché.
