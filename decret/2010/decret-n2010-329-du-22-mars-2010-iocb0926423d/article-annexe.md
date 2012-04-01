@@ -9,3 +9,5 @@ Chefs de service de police municipale.
 Educateurs territoriaux des activités physiques et sportives.
 
 Techniciens territoriaux.
+
+Assistants territoriaux d'enseignement artistique.

@@ -8,7 +8,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus le
 
 3° Pour la spécialité Arts plastiques, à un concours externe sur titres avec épreuves ouvert aux candidats titulaires d'un diplôme national sanctionnant un second cycle d'études supérieures figurant sur une liste établie par décret ou d'un titre ou diplôme de niveau équivalent figurant sur la liste susmentionnée ;
 
-4° A un concours interne ouvert, pour 20 % des postes à pourvoir, dans l'une ou l'autre des spécialités mentionnées à l'article 2 et, le cas échéant, dans l'une des disciplines mentionnées au sixième alinéa du même article, aux assistants spécialisés d'enseignement artistique et aux assistants d'enseignement artistique justifiant, au 1er janvier de l'année du concours, de trois années au moins de services publics effectifs, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un grade de la fonction publique.
+4° A un concours interne ouvert, pour 20 % des postes à pourvoir, dans l'une ou l'autre des spécialités mentionnées à l'article 2 et, le cas échéant, dans l'une des disciplines mentionnées au sixième alinéa du même article aux assistants d'enseignement artistique justifiant, au 1er janvier de l'année du concours, de trois années au moins de services publics effectifs, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un grade de la fonction publique.
 
 Dans la spécialité arts plastiques, le concours mentionné au 4° est un concours sur épreuves et, dans les autres spécialités mentionnées à l'article 2, un concours sur titres et épreuves.
 
@@ -18,6 +18,6 @@ Les concours externes et internes sont également ouverts, pour l'enseignement d
 
 Les concours sont organisés par les centres de gestion dans les conditions fixées par la charte prévue à l'article 14 de la loi du 26 janvier 1984 susvisée ou, en l'absence de charte, par le centre de gestion coordonnateur mentionné à la seconde phrase de l'avant-dernier alinéa du même article. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 
-Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre de places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 des places offertes à l'un ou l'autre des concours ou d'une place au moins.
+Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre de places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 % des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 
 Les concours sur épreuves comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités et le contenu sont fixés par décret et les programmes par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture.
