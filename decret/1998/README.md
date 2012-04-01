@@ -341,7 +341,6 @@
 - [Décret n°98-821 du 14 septembre 1998 (AGRS9801252D)](decret-n98-821-du-14-septembre-1998-agrs9801252d)
 - [Décret n°98-822 du 14 septembre 1998 (MESH9822122D)](decret-n98-822-du-14-septembre-1998-mesh9822122d)
 - [Décret n°98-828 du 14 septembre 1998 (EQUS9800591D)](decret-n98-828-du-14-septembre-1998-equs9800591d)
-- [Décret n°98-829 du 14 septembre 1998 (EQUP9800079D)](decret-n98-829-du-14-septembre-1998-equp9800079d)
 - [Décret n°98-836 du 14 septembre 1998 (INTM9800017D)](decret-n98-836-du-14-septembre-1998-intm9800017d)
 - [Décret n°98-838 du 14 septembre 1998 (ECOR9804379D)](decret-n98-838-du-14-septembre-1998-ecor9804379d)
 - [Décret n°98-922 du 14 octobre 1998 (PRMX9800145D)](decret-n98-922-du-14-octobre-1998-prmx9800145d)
