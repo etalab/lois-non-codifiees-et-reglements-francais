@@ -1,0 +1,3 @@
+# Article 91-1
+
+La notification d'une violation des données à caractère personnel prévue au premier alinéa du II de l'article 34 bis de la loi du 6 janvier 1978 susvisée est adressée à la Commission nationale de l'informatique et des libertés par lettre remise contre signature qui précise la nature et les conséquences de la violation des données à caractère personnel, les mesures déjà prises ou proposées par le fournisseur de services de communications électroniques accessibles au public pour y remédier et les personnes auprès desquelles des informations supplémentaires peuvent être obtenues et, lorsque cela est possible, une estimation du nombre de personnes susceptibles d'être impactées par la violation en cause.

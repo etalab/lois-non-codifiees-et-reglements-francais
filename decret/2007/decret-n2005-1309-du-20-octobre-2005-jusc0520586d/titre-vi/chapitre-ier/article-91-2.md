@@ -1,0 +1,5 @@
+# Article 91-2
+
+La notification d'une violation des données à caractère personnel prévue au deuxième alinéa du II de l'article 34 bis de la loi du 6 janvier 1978 est adressée à la personne intéressée par tout moyen permettant au fournisseur de services de communications électroniques accessibles au public d'apporter la preuve de l'accomplissement de cette formalité. Cette notification précise la nature de la violation de données à caractère personnel, les personnes auprès desquelles des informations supplémentaires peuvent être obtenues ainsi que les mesures que le fournisseur recommande à la personne intéressée de prendre pour atténuer les conséquences négatives de cette violation.
+
+Cette notification n'est toutefois pas nécessaire si la Commission nationale de l'informatique et des libertés a constaté que les mesures de protection appropriées au sens de l'article 91-3 et sur lesquelles elle s'est prononcée dans les conditions prévues aux articles 91-4 et 91-5 ont été mises en œuvre par le fournisseur et efficacement appliquées aux données concernées par cette violation.
