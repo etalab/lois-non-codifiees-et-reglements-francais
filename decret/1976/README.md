@@ -56,5 +56,6 @@
 - [Décret n°76-492 du 28 mai 1976](decret-n76-492-du-28-mai-1976)
 - [Décret n°76-1085 du 29 novembre 1976](decret-n76-1085-du-29-novembre-1976)
 - [Décret n°76-1102 du 29 novembre 1976](decret-n76-1102-du-29-novembre-1976)
+- [Décret n°75-1339 du 31 décembre 1975](decret-n75-1339-du-31-decembre-1975)
 - [Décret n°75-1370 du 31 décembre 1975](decret-n75-1370-du-31-decembre-1975)
 - [Décret n°76-288 du 31 mars 1976](decret-n76-288-du-31-mars-1976)
