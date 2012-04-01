@@ -2,7 +2,7 @@
 
 La liste des emplois de chef de services administratifs et financiers de la Caisse des dépôts et consignations est fixée comme suit :
 
-_Direction générale et secrétariat général_
+Direction générale et secrétariat général
 
 Directeur des relations sociales de l'établissement public et du groupe.
 
@@ -18,13 +18,13 @@ Responsable des affaires générales et des partenariats extérieurs à la direc
 
 Adjointe au directeur du budget, du contrôle de gestion et performance économique.
 
-_Direction bancaire_
+Direction bancaire
 
 Responsable des consignations département Agence bancaire et consignations.
 
-Directeur (trice) qualité, responsable des clientèles " professions juridiques et majeurs vulnérables ", adjoint (e) du directeur des clientèles
+Directeur (trice) qualité, responsable des clientèles "professions juridiques et majeurs vulnérables", adjoint (e) du directeur des clientèles .
 
-_Direction des retraites_
+Direction des retraites
 
 Adjoint au directeur d'établissement, directeur des gestions et des prestations clients (Angers).
 
@@ -42,7 +42,7 @@ Directeur de la solidarité et des risques professionnels à l'établissement de
 
 Responsable de la direction du pilotage et de la coordination à l'établissement d'Angers.
 
-_Direction du développement territorial_
+Direction du développement territorial
 
 Directeur interrégional adjoint de la Caisse des dépôts pour l'interrégion Est.
 
@@ -50,12 +50,18 @@ Directeur régional de la Caisse des dépôts pour la région Champagne-Ardenne.
 
 Directeur régional de la CDC pour l'océan Indien.
 
-Directeur interrégional adjoint opérationnel de la CDC pour l'interrégion Provence-Alpes-Côte d'Azur ;
+Directeur interrégional adjoint opérationnel de la CDC pour l'interrégion Provence-Alpes-Côte d'Azur.
 
-Directeur régional de la CDC pour la Franche-Comté ;
+Directeur régional de la CDC pour la Franche-Comté.
 
 Directeur régional de la CDC pour la région Poitou-Charentes.
 
-_Caisse générale, direction des back-offices_
+Secrétaire général de la direction du développement territorial et du réseau.
 
-Responsable des relations de place instruments financiers
+Caisse générale, direction des back-offices
+
+Responsable des relations de place instruments financiers.
+
+Pôle finances, stratégie, filiales et international
+
+Responsable du support contrôle de gestion financière à la direction des finances.
