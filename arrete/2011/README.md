@@ -191,7 +191,6 @@
 - [Arrêté du 4 avril 2011 (BCRE1110198A)](arrete-du-4-avril-2011-bcre1110198a)
 - [Arrêté du 4 avril 2011 (DEVL1100401A)](arrete-du-4-avril-2011-devl1100401a)
 - [Arrêté du 4 avril 2011 (DEVS1105203A)](arrete-du-4-avril-2011-devs1105203a)
-- [Arrêté du 4 avril 2011 (DEVT1108738A)](arrete-du-4-avril-2011-devt1108738a)
 - [Arrêté du 4 avril 2011 (ETSH1109649A)](arrete-du-4-avril-2011-etsh1109649a)
 - [Arrêté du 4 avril 2011 (ETSO1106459A)](arrete-du-4-avril-2011-etso1106459a)
 - [Arrêté du 4 avril 2011 (ETSS1109590A)](arrete-du-4-avril-2011-etss1109590a)

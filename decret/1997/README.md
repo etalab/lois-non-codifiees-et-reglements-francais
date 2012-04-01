@@ -610,7 +610,6 @@
 - [Décret n°97-880 du 26 septembre 1997 (MENL9702146D)](decret-n97-880-du-26-septembre-1997-menl9702146d)
 - [Décret n°97-881 du 26 septembre 1997 (ECOC9700106D)](decret-n97-881-du-26-septembre-1997-ecoc9700106d)
 - [Décret n°97-882 du 26 septembre 1997 (ECOB9730040D)](decret-n97-882-du-26-septembre-1997-ecob9730040d)
-- [Décret n°97-893 du 26 septembre 1997 (FPPA9700091D)](decret-n97-893-du-26-septembre-1997-fppa9700091d)
 - [Décret n°97-524 du 26 mai 1997 (JUSF9750004D)](decret-n97-524-du-26-mai-1997-jusf9750004d)
 - [Décret n°97-525 du 26 mai 1997 (JUSD9730072D)](decret-n97-525-du-26-mai-1997-jusd9730072d)
 - [Décret n°97-527 du 26 mai 1997 (MAEJ9730035D)](decret-n97-527-du-26-mai-1997-maej9730035d)
