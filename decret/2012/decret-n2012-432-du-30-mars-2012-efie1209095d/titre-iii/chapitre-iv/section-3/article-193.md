@@ -1,0 +1,3 @@
+# Article 193
+
+Le professionnel de la comptabilité dont l'appel n'est pas accueilli est tenu au paiement des frais résultant de son appel et dont le montant est fixé par le Conseil supérieur à un chiffre forfaitaire et uniforme pour tous les appelants. Le paiement des frais reste dû lorsque le renvoi de l'affaire est accordé, sans examen au fond, sur la demande de l'intéressé, si celle-ci est présentée moins de huit jours avant la date fixée pour la séance et si la confirmation de la sanction est ultérieurement prononcée. Le conseil régional dont relève l'appelant assure le recouvrement de ces frais qui sont reversés au Conseil supérieur.

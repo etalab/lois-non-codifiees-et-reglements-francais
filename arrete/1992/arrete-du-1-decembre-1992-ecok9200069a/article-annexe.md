@@ -311,7 +311,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>22 <br/>
+<br/>23 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -403,13 +403,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Assistant de contrôle budgétaire et/ ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière <br/>
+<br/>Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>37 <br/>
+<br/>36 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -493,7 +493,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>11 <br/>
+<br/>10 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -703,7 +703,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>162 <br/>
+<br/>164 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>

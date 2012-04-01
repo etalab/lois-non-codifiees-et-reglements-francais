@@ -1,0 +1,5 @@
+# Article 19
+
+I. ― A la date d'entrée en vigueur du présent décret, les fonctionnaires détachés dans leurs anciens cadres d'emplois des assistants territoriaux d'enseignement artistique et des assistants territoriaux spécialisés d'enseignement artistique régis respectivement par les décrets n° 91-861 du 2 septembre 1991 portant statut particulier du cadre d'emplois des assistants territoriaux d'enseignement artistique et n° 91-859 du 2 septembre 1991 portant statut particulier du cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique sont placés en position de détachement dans le cadre d'emplois des assistants territoriaux d'enseignement artistique régi par le présent décret pour la durée de leur détachement restant à courir. Ils sont respectivement classés conformément aux tableaux de correspondance figurant aux articles 17 et 18.
+
+II. ― Les services accomplis par les intéressés en position de détachement dans leurs précédents cadres d'emplois et grade sont assimilés à des services accomplis en position de détachement dans leur cadre d'emplois et grade d'intégration.

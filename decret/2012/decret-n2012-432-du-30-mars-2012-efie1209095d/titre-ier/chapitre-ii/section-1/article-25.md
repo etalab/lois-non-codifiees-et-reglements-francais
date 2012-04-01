@@ -1,0 +1,5 @@
+# Article 25
+
+Lorsque le budget d'un conseil de l'ordre n'est pas voté en temps voulu ou en cas de non-approbation du budget, les crédits ouverts par le dernier budget approuvé sont provisoirement reconduits, sous réserve, le cas échéant, des modifications acceptées par le commissaire du Gouvernement, et les cotisations correspondantes sont mises de droit en recouvrement.
+
+En cas de carence totale ou partielle dans l'accomplissement des missions dévolues aux conseils de l'ordre, constatée par le commissaire du Gouvernement près le conseil intéressé, les mesures nécessaires sont prises par décret pris sur le rapport des ministres chargés du budget et de l'économie, sauf dans les cas régis par l'article 12, le troisième alinéa de l'article 177 et le premier alinéa du présent article. Constitue une faute professionnelle justiciable de la procédure disciplinaire l'inexécution de l'une de ces mesures par les professionnels ou membres de l'ordre chargés, à titre personnel ou ès qualités, de leur exécution.

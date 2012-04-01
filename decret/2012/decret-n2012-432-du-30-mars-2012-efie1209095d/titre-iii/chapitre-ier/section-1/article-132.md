@@ -1,0 +1,13 @@
+# Article 132
+
+Le nombre maximum de comptables salariés dont un membre de l'ordre, personne physique ou un salarié d'une association de gestion et de comptabilité autorisé à exercer la profession en vertu des articles 83 ter ou 83 quater de l'ordonnance du 19 septembre 1945 susvisée, peut utiliser les services, directement ou indirectement, est fixé à quinze.
+
+Le nombre maximum de comptables salariés dont les services peuvent être utilisés, directement ou indirectement, par une société membre de l'ordre est fixé à quinze fois le nombre de membres de l'ordre associés ou salariés, exerçant de manière effective et régulière au sein de cette société.
+
+Le nombre maximum de comptables salariés dont les services peuvent être utilisés, directement ou indirectement, par une association de gestion et de comptabilité est fixé à quinze fois le nombre de membres de l'ordre ou de salariés autorisés à exercer la profession en vertu des articles 83 ter ou 83 quater de l'ordonnance du 19 septembre 1945 susvisée, exerçant de manière effective et régulière au sein de cette association.
+
+Toutefois, lorsque dans les associations de gestion et de comptabilité, le nombre de comptables salariés excède quinze, ce ratio est considéré comme respecté si, outre un expert-comptable ou un salarié autorisé à exercer la profession, les comptables salariés sont encadrés par un ou plusieurs salariés antérieurement désignés en qualité de responsables des services comptables d'un centre de gestion agréé et habilité dans le cadre de l'habilitation prévue à l'article 1649 quater D du code général des impôts, exerçant de manière effective et régulière au sein de ladite association. Dans cette hypothèse, le nombre maximum de salariés susceptibles d'être encadrés par un salarié antérieurement désignés en qualité de responsables des services comptables d'un centre de gestion agréé et habilité dans le cadre de l'habilitation prévue à l'article 1649 quater D du code général des impôts est également fixé à quinze.
+
+Pour apprécier ce ratio, il convient de prendre en compte les seuls salariés qui participent à la réalisation des missions définies aux alinéas 1 à 5 de l'article 2 de l'ordonnance du 19 septembre 1945 susvisée.
+
+Le nombre tant des professionnels de l'expertise comptable encadrant que des comptables salariés visés dans les alinéas précédents s'apprécie à partir d'un plein temps de travail ou de son équivalent, étant précisé que le nombre de salariés travaillant à temps partiel ne pourra excéder le double du nombre maximum de salariés travaillant à temps plein, susceptibles d'être encadrés, selon la limite fixée aux trois premiers alinéas du présent article.
