@@ -1,9 +1,13 @@
 # Article 13
 
-Le préfet agrée la demande de classement par un arrêté qui précise :
+Le classement d'un réseau de chaleur ou de froid, existant ou à créer, est prononcé par délibération d'une collectivité territoriale ou d'un groupement de collectivités territoriales, le cas échéant après avoir recueilli l'avis de la commission consultative des services publics locaux prévue à l'article L. 1413-1 du code général des collectivités territoriales. La décision de classement précise :
 
-- la zone de desserte du réseau, ainsi que la ou les parties de cette zone où les périmètres de développement prioritaire peuvent être définis ;
+- l'identité du propriétaire du réseau et, le cas échéant, de la société à laquelle la gestion de ce réseau a été confiée ;
 
-- la durée du classement qui ne peut excéder trente ans.
+- la durée du classement ;
 
-Un refus de classement fait l'objet d'un arrêté motivé.
+- la définition d'un ou de plusieurs périmètres de développement prioritaire ;
+
+- pour chaque périmètre de développement prioritaire, les conditions économiques de raccordement et de tarif au-delà desquelles une dérogation à l'obligation de raccordement peut être accordée.
+
+La décision de classement est publiée au recueil des actes administratifs de la collectivité territoriale ou du groupement concerné. Elle fait l'objet d'une mention dans deux journaux régionaux ou locaux diffusés sur le territoire concerné.

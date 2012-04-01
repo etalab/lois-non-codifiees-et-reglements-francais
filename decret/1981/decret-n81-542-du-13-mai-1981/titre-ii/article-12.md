@@ -1,3 +1,3 @@
 # Article 12
 
-Une enquête publique est organisée dans les formes prévues aux articles R. 11-4 à R. 11-14 et R. 11-15 à R. 11-8 du code de l'expropriation pour cause d'utilité publique.
+Le dossier de demande de classement d'un réseau à créer comprend une étude de faisabilité portant sur les éléments mentionnés aux 1° à 14° de l'article 11 et sur les indicateurs relatifs aux objectifs de performances techniques et économiques du réseau.

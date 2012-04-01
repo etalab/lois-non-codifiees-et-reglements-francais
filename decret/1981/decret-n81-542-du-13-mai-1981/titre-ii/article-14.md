@@ -1,5 +1,3 @@
 # Article 14
 
-L'arrêté agréant la demande de classement est publié au Recueil des actes administratifs de la préfecture. Il fait l'objet d'une mention en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
-
-L'arrêté et ses annexes sont tenus à la disposition du public à la préfecture et dans les mairies des communes intéressées.
+La décision de classement d'un réseau de chaleur ou de froid est portée à la connaissance des collectivités compétentes en matière d'urbanisme du territoire concerné, en vue du report du ou des périmètres de développement prioritaire dans les documents d'urbanisme.

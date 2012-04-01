@@ -1,4 +1,4 @@
-# Titre II : Des réseaux classés de distribution de chaleur et de froid
+# Titre II : Classement des réseaux de chaleur et de froid
 
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)

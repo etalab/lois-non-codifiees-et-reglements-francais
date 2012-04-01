@@ -1,11 +1,7 @@
 # Article 18
 
-La collectivité territoriale ou le groupement de collectivités territoriales bénéficiaire d'un classement adresse chaque année au préfet un rapport permettant de vérifier que les conditions prévues par l'article 9 du présent décret ont été effectivement respectées lors de l'exercice écoulé.
+Lorsque le réseau de chaleur ou de froid n'a plus été alimenté à plus de 50 % en moyenne pendant trois années consécutives par une énergie renouvelable ou de récupération, la collectivité ou le groupement de collectivités concerné abroge la décision de classement après avoir mis à même l'exploitant de présenter ses observations.
 
-Ce rapport comprend :
+La décision d'abrogation est publiée dans les formes prévues à l'article 13 du présent décret.
 
-- le bilan annuel des énergies utilisées selon leur origine ;
-
-- le compte de résultats en recettes et dépenses et, le cas échéant, l'analyse des écarts constatés par rapport au compte prévisionnel figurant dans le dossier de demande de classement ;
-
-- l'état des conditions tarifaires consenties aux différentes catégories d'abonnés.
+Lorsqu'une décision de classement est abrogée, les périmètres de développement prioritaire correspondants cessent de recevoir application.
