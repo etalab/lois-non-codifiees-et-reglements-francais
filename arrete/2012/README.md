@@ -879,6 +879,7 @@
 - [Arrêté du 30 décembre 2011 (ETSH1135849A)](arrete-du-30-decembre-2011-etsh1135849a)
 - [Arrêté du 30 décembre 2011 (ETSO1118805A)](arrete-du-30-decembre-2011-etso1118805a)
 - [Arrêté du 30 décembre 2011 (ETSS1200071A)](arrete-du-30-decembre-2011-etss1200071a)
+- [Arrêté du 30 décembre 2011 (IOCE1117012A)](arrete-du-30-decembre-2011-ioce1117012a)
 - [Arrêté du 30 décembre 2011 (JUSB1133991A)](arrete-du-30-decembre-2011-jusb1133991a)
 - [Arrêté du 30 décembre 2011 (SCSS1134434A)](arrete-du-30-decembre-2011-scss1134434a)
 - [Arrêté du 30 décembre 2011 (SCSS1134448A)](arrete-du-30-decembre-2011-scss1134448a)
