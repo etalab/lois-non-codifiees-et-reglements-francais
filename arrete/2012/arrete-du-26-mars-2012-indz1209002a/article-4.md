@@ -1,0 +1,3 @@
+# Article 4
+
+La personnalité qualifiée instituée par l'article L. 34-1-1 du code des postes et communications électroniques, placée auprès du ministère de l'intérieur, de l'outre mer, des collectivités territoriales et de l'immigration, le haut fonctionnaire de défense et de sécurité auprès du ministre de l'économie, des finances et de l'industrie et de la ministre du budget, des comptes publics et de la réforme de l'Etat et le directeur général des finances publiques du ministère du budget, des comptes publics et de la réforme de l'Etat sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
