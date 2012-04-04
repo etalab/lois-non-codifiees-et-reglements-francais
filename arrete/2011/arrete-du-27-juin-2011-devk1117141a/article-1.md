@@ -22,8 +22,6 @@ Ecole nationale supérieure maritime ;
 
 Etablissement national des invalides de la marine ;
 
-Institut national de l'information géographique et forestière ;
-
 Météo-France ;
 
 Office national de l'eau et des milieux aquatiques ;
