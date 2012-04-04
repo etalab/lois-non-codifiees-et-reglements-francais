@@ -1,93 +1,114 @@
 # Article 
 
-CONTINGENTS (*) DE PUISSANCE ET DE JAUGE
+CONTINGENTS (*) DE PUISSANCE ET DE JAUGE EN FONCTION
 
-EN FONCTION DES RÉGIONS ET DES CATÉGORIES DE PME
+DES RÉGIONS ET DES CATÉGORIES DE PME
 
-Tableau 1
-
-Renouvellement de navires sans augmentation de capacité ou 1 pour 1
+Tableau 1. - Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 
 <table>
 <tbody>
 <tr>
-<th>RÉGIONS<br/>
+<th>
+<br/>RÉGIONS <br/>
 </th>
-<th>JAUGE UMS<br/>
+<th>
+<br/>JAUGE UMS <br/>
 </th>
-<th>PUISSANCE kW<br/>
+<th>
+<br/>PUISSANCE kW <br/>
 </th>
-<th>UMS'S<br/>
+<th>
+<br/>UMS'S <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Plus de 25 m</p>
+<p align="left">
+<br/>Plus de 25 mètres </p>
 </td>
 <td align="center">
-<p align="center">311</p>
+<br/>311 <br/>
 </td>
 <td align="center">
-<p align="center">888</p>
+<br/>888 <br/>
 </td>
 <td align="center">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Moins de 25 m</p>
-</td>
-<td align="center">
-<p align="center">16,94</p>
-</td>
-<td align="center">
-<p align="center">344</p>
-</td>
-<td align="center">
-<p align="center">0</p>
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Aquitaine</p>
+<p align="left">
+<br/>Moins de 25 mètres </p>
 </td>
 <td align="center">
-<p align="center">1,87</p>
+<br/>18,77 <br/>
 </td>
 <td align="center">
-<p align="center">51</p>
+<br/>439 <br/>
 </td>
 <td align="center">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Basse-Normandie</p>
-</td>
-<td align="center">
-<p align="center">6,43</p>
-</td>
-<td align="center">
-<p align="center">162</p>
-</td>
-<td align="center">
-<p align="center">0</p>
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Pays de la Loire</p>
+<p align="left">
+<br/>Aquitaine </p>
 </td>
 <td align="center">
-<p align="center">8,64</p>
+<br/>1,87 <br/>
 </td>
 <td align="center">
-<p align="center">131</p>
+<br/>51 <br/>
 </td>
 <td align="center">
-<p align="center">0</p>
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Basse-Normandie </p>
+</td>
+<td align="center">
+<br/>6,43 <br/>
+</td>
+<td align="center">
+<br/>162 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Pays de la Loire </p>
+</td>
+<td align="center">
+<br/>8,64 <br/>
+</td>
+<td align="center">
+<br/>131 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Corse </p>
+</td>
+<td align="center">
+<p align="center">1,83 </p>
+</td>
+<td align="center">
+<p align="center">95 </p>
+</td>
+<td align="center">
+<p align="center">0 </p>
 </td>
 </tr>
 </tbody>
@@ -154,62 +175,82 @@ Permis de mise en exploitation "autre"
 </tbody>
 </table>
 
-Tableau 3
-
-Permis de mise en exploitation "de Droit"
+Tableau 3. - Permis de mise en exploitation "de Droit"
 
 <table>
 <tbody>
 <tr>
-<th>RÉGIONS<br/>
+<th>
+<br/>RÉGIONS <br/>
 </th>
-<th>JAUGE UMS<br/>
+<th>
+<br/>JAUGE UMS <br/>
 </th>
-<th>PUISSANCE kW<br/>
+<th>
+<br/>PUISSANCE kW <br/>
 </th>
-<th>UMS'S<br/>
+<th>
+<br/>UMS'S <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Moins de 25 m</p>
+<p align="left">
+<br/>Moins de 25 mètres </p>
 </td>
 <td align="center">
-<p align="center">61,42</p>
+<br/>68,44 <br/>
 </td>
 <td align="center">
-<p align="center">326</p>
+<br/>418 <br/>
 </td>
 <td align="center">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Aquitaine</p>
-</td>
-<td align="center">
-<p align="center">1,42</p>
-</td>
-<td align="center">
-<p align="center">66</p>
-</td>
-<td align="center">
-<p align="center">0</p>
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Basse-Normandie</p>
+<p align="left">
+<br/>Aquitaine </p>
 </td>
 <td align="center">
-<p align="center">60</p>
+<br/>1,42 <br/>
 </td>
 <td align="center">
-<p align="center">260</p>
+<br/>66 <br/>
 </td>
 <td align="center">
-<p align="center">0</p>
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Basse-Normandie </p>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>260 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Corse </p>
+</td>
+<td align="center">
+<br/>7,02 <br/>
+</td>
+<td align="center">
+<br/>92 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 </tbody>
