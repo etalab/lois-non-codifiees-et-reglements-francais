@@ -8,6 +8,6 @@ Sept représentants du secteur production ;
 
 Cinq représentants du secteur négoce.
 
-Son siège est fixé à Eauze.
+Son siège est fixé à Pau.
 
 La liste des appellations qui lui sont rattachées figure en annexe VI du présent arrêté.

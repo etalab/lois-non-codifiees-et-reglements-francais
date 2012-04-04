@@ -2,16 +2,18 @@
 
 Comité régional Armagnac
 
-I. - Eaux-de-vie d'appellations d'origine contrôlées
+I. ― Eaux-de-vie d'appellations d'origine contrôlées
 
-Armagnac .
+"Armagnac".
 
-Bas Armagnac .
+"Armagnac-Ténarèze".
 
-Haut Armagnac .
+"Bas Armagnac".
 
-Armagnac-Ténarèze .
+"Blanche Armagnac"
 
-II. - Vin de liqueur
+"Haut Armagnac".
 
-Floc de Gascogne .
+II. ― Vin de liqueur
+
+"Floc de Gascogne".

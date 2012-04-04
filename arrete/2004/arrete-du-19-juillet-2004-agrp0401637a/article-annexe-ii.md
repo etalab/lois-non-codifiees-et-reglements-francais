@@ -2,16 +2,16 @@
 
 Comité régional Champagne
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Champagne .
+"Champagne".
 
-Coteaux champenois .
+"Coteaux champenois".
 
-Rosé des Riceys .
+"Rosé des Riceys".
 
-II. - Eaux-de-vie réglementées
+II. ― Eaux-de-vie réglementées
 
-Eaux-de-vie de vin de la Marne.
+"Eaux-de-vie de vin de la Marne".
 
-Eaux-de-vie de marc de champagne ou marc de champagne.
+"Eaux-de-vie de marc de champagne ou marc de champagne".

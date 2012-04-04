@@ -2,158 +2,116 @@
 
 Comité régional du Val de Loire
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Anjou .
+"Anjou".
 
-Anjou-Coteaux de la Loire .
+"Anjou-Coteaux de la Loire".
 
-Anjou Gamay .
+"Anjou Villages".
 
-Anjou pétillant .
+"Anjou Villages Brissac".
 
-Anjou mousseux .
+"Bourgueil".
 
-Anjou Villages .
+"Bonnezeaux".
 
-Anjou Villages Brissac .
+"Cabernet d'Anjou".
 
-Blanc fumé de Pouilly .
+"Cabernet de Saumur".
 
-Bourgueil .
+"Châteaumeillant".
 
-Bonnezeaux .
+"Cheverny".
 
-Cabernet d'Anjou .
+"Chinon".
 
-Cabernet de Saumur .
+"Coteaux d'Ancenis"
 
-Chaume 1er cru des Coteaux du Layon .
+"Coteaux de l'Aubance".
 
-Cheverny .
+"Coteaux du Giennois".
 
-Chinon .
+"Coteaux du Layon".
 
-Coteaux de l'Aubance .
+"Coteaux du Loir".
 
-Coteaux du Giennois .
+"Coteaux de Saumur".
 
-Coteaux du Layon .
+"Coteaux du Vendômois".
 
-Coteaux du Layon , suivie d'un nom de commune.
+"Côtes d'Auvergne".
 
-Coteaux du Loir .
+"Cour-Cheverny".
 
-Coteaux de Saumur .
+"Crémant de Loire".
 
-Coteaux du Vendômois .
+"Fiefs Vendéens".
 
-Cour-Cheverny .
+"Gros Plant du Pays nantais".
 
-Crémant de Loire .
+"Haut-Poitou".
 
-Jasnières .
+"Jasnières".
 
-Menetou Salon .
+"Menetou-Salon".
 
-Montlouis-sur-Loire .
+"Montlouis-sur-Loire".
 
-Montlouis-sur-Loire pétillant .
+"Muscadet".
 
-Montlouis-sur-Loire mousseux .
+"Muscadet Côtes de Grandlieu".
 
-Muscadet .
+"Muscadet Coteaux de la Loire".
 
-Muscadet Côtes de Grandlieu .
+"Muscadet Sèvre et Maine".
 
-Muscadet Coteaux de la Loire .
+"Orléans".
 
-Muscadet Sèvre-et-Maine .
+"Orléans-Cléry".
 
-Pouilly-sur-Loire .
+"Pouilly-sur-Loire".
 
-Pouilly fumé .
+"Pouilly Fumé" ou "Blanc Fumé de Pouilly.
 
-Quarts de Chaume .
+"Quarts de Chaume".
 
-Quincy .
+"Quincy".
 
-Reuilly .
+"Reuilly".
 
-Rosé d'Anjou .
+"Rosé d'Anjou".
 
-Rosé d'Anjou pétillant .
+"Rosé de Loire".
 
-Rosé de Loire .
+"Sancerre".
 
-Sancerre .
+"Saint-Nicolas-de-Bourgueil".
 
-Saint-Nicolas-de-Bourgueil .
+"Saint-Pourçain".
 
-Saumur .
+"Saumur".
 
-Saumur Champigny .
+"Saumur-Champigny".
 
-Saumur pétillant .
+"Savennières".
 
-Saumur mousseux .
+"Savennières Coulée de Serrant".
 
-Savennières .
+"Savennières Roche aux Moines".
 
-Savennières Coulée de Serrant .
+"Touraine".
 
-Savennières Roche aux Moines .
+"Touraine Noble Joué".
 
-Touraine .
+"Valençay".
 
-Touraine Azay-le-Rideau .
+"Vouvray".
 
-Touraine Amboise .
+II. ― Eaux-de-vie réglementées
 
-Touraine Mesland .
+"Marc d'Auvergne".
 
-Touraine Noble Joué .
+"Eaux-de-vie de marc originaires des coteaux de la Loire".
 
-Touraine pétillant .
-
-Touraine mousseux .
-
-Valençay .
-
-Vouvray .
-
-Vouvray pétillant .
-
-Vouvray mousseux .
-
-II. - Vins délimités de qualité supérieure
-
-Châteaumeillant .
-
-Coteaux d'Ancenis , suivi obligatoirement du nom du  cépage : pineau de la Loire, chenin blanc, malvoisie, pinot beurot,  gamay, cabernet.
-
-Côtes d'Auvergne .
-
-Côtes d'Auvergne , suivi du nom de la commune d'origine : Boudes, Chanturgue, Châteaugay, Corent, Madargues.
-
-Fiefs vendéens , suivi obligatoirement de l'un des noms : Mareuils, Brem, Pissotte, Vix.
-
-Gros plant  ou  Gros Plant du Pays nantais .
-
-Haut Poitou .
-
-Orléans .
-
-Orléans-Cléry .
-
-Saint-Pourçain .
-
-Vin du Thouarsais .
-
-III. - Eaux-de-vie réglementées
-
-Marc d'Auvergne.
-
-Eaux-de-vie de marc originaires des coteaux de la Loire.
-
-Eaux-de-vie de vin originaires des coteaux de la Loire.
+"Eaux-de-vie de vin originaires des coteaux de la Loire".

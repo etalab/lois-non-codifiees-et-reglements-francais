@@ -2,46 +2,124 @@
 
 Comité régional Alsace-Est
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Alsace  ou  Vin d'Alsace .
+"Alsace" ou "Vin d'Alsace".
 
-Alsace Grand Cru .
+"Alsace grand cru Altenberg de Bergheim".
 
-Alsace Grand Cru  suivi d'un nom de lieudit.
+"Alsace grand cru Brand".
 
-Alsace  ou  Vin d'Alsace edelzwiker .
+"Alsace grand cru Eichberg".
 
-Alsace  ou  Vin d'Alsace  suivi de klevener de Heiligenstein.
+"Alsace grand cru Florimont".
 
-Alsace  ou  Vin d'Alsace  suivi de gewurztraminer.
+"Alsace grand cru Froehn".
 
-Alsace  ou  Vin d'Alsace  suivi de riesling.
+"Alsace grand cru Furstentum".
 
-Alsace  ou  Vin d'Alsace  suivi de pinot gris (ou tokay d'Alsace).
+"Alsace grand cru Geisberg".
 
-Alsace  ou  Vin d'Alsace  suivi de muscat.
+"Alsace grand cru Gloeckelberg".
 
-Alsace  ou  Vin d'Alsace  suivi de pinot ou klevner.
+"Alsace grand cru Goldert".
 
-Alsace  ou  Vin d'Alsace  suivi de sylvaner.
+"Alsace grand cru Hatschbourg".
 
-Alsace  ou  Vin d'Alsace  suivi de chasselas ou gutedel.
+"Alsace grand cru Hengst".
 
-Alsace  ou  Vin d'Alsace  suivi de pinot noir.
+"Alsace grand cru Kaefferkopf".
 
-Crémant d'Alsace .
+"Alsace grand cru Kanzlerberg".
 
-Côtes de Toul .
+"Alsace grand cru Kessler".
 
-II. - Vins délimités de qualité supérieure
+"Alsace grand cru Kirchberg de Ribeauvillé".
 
-Moselle .
+"Alsace grand cru Kitterlé".
 
-III. - Eaux-de-vie réglementées
+"Alsace grand cru Mambourg".
 
-Marc d'Alsace gewurztraminer .
+"Alsace grand cru Mandelberg".
 
-Mirabelle de Lorraine .
+"Alsace grand cru Marckrain".
 
-Marc de Lorraine .
+"Alsace grand cru Ollwiller".
+
+"Alsace grand cru Osterberg".
+
+"Alsace grand cru Pfersigberg".
+
+"Alsace grand cru Pfingstberg".
+
+"Alsace grand cru Rangen".
+
+"Alsace grand cru Rosacker".
+
+"Alsace grand cru Saering".
+
+"Alsace grand cru Schlossberg".
+
+"Alsace grand cru Schoenenbourg".
+
+"Alsace grand cru Sommerberg".
+
+"Alsace grand cru Sonnenglanz".
+
+"Alsace grand cru Spiegel".
+
+"Alsace grand cru Sporen".
+
+"Alsace grand cru Steinert",
+
+"Alsace grand cru Steingrubler".
+
+"Alsace grand cru Vorbourg".
+
+"Alsace grand cru Wineck-Schlossberg".
+
+"Alsace grand cru Zinnkoepflé".
+
+"Alsace grand cru Altenberg de Bergbieten".
+
+"Alsace grand cru Altenberg de Wolxheim".
+
+"Alsace grand cru Bruderthal".
+
+"Alsace grand cru Engelberg".
+
+"Alsace grand cru Frankstein".
+
+"Alsace grand cru Kastelberg".
+
+"Alsace grand cru Kirchberg de Barr".
+
+"Alsace grand cru Moenchberg".
+
+"Alsace grand cru Muenchberg".
+
+"Alsace grand cru Praelatenberg".
+
+"Alsace grand cru Steinklotz".
+
+"Alsace grand cru Wiebelsberg".
+
+"Alsace grand cru Winzenberg".
+
+"Alsace grand cru Zotzenberg".
+
+"Crémant d'Alsace".
+
+"Côtes de Toul".
+
+"Moselle".
+
+II. ― Eaux-de-vie d'appellations d'origine contrôlées
+
+"Marc d'Alsace" suivie de la dénomination "Gewurztraminer".
+
+III. ― Eaux-de-vie réglementées
+
+"Mirabelle de Lorraine".
+
+"Marc de Lorraine".

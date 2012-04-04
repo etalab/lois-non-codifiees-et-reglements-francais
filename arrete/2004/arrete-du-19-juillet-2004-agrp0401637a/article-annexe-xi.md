@@ -2,64 +2,68 @@
 
 Comité régional Vallée du Rhône
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Château Grillet .
+"Beaumes de Venise".
 
-Châteauneuf-du-Pape .
+"Château Grillet".
 
-Châtillon-en-Diois .
+"Châteauneuf-du-Pape".
 
-Clairette de Die .
+"Châtillon-en-Diois".
 
-Condrieu .
+"Clairette de Bellegarde".
 
-Cornas .
+"Clairette de Die".
 
-Côte Rôtie .
+"Condrieu".
 
-Coteaux de Die .
+"Cornas".
 
-Coteaux de Pierrevert .
+"Côte Rôtie".
 
-Coteaux du Tricastin .
+"Coteaux de Die".
 
-Côtes du Lubéron .
+"Pierrevert".
 
-Côtes du Rhône .
+"Grignan-lès-Adhémar
 
-Côtes du Rhône Villages .
+"Côtes du Rhône".
 
-Côtes du Rhône Villages  suivi d'un nom géographique.
+"Côtes du Rhône Villages".
 
-Côtes du Ventoux .
+"Côtes du Vivarais".
 
-Côtes du Vivarais .
+"Costières de Nîmes".
 
-Costières de Nîmes .
+"Crémant de Die".
 
-Crémant de Die .
+"Crozes-Hermitage" ou "Crozes-Ermitage".
 
-Crozes-Hermitage  ou  Crozes-Ermitage .
+"Gigondas".
 
-Gigondas .
+"Hermitage" ou "Ermitage".
 
-Hermitage  ou  Ermitage .
+"Lirac".
 
-Lirac .
+"Luberon".
 
-Saint-Joseph .
+"Rasteau".
 
-Saint-Péray .
+"Saint-Joseph".
 
-Saint-Péray mousseux .
+"Saint-Péray".
 
-Tavel .
+"Tavel".
 
-Vacqueyras .
+"Vacqueyras".
 
-II. - Eaux-de-vie réglementées
+"Ventoux".
 
-Eaux-de-vie de vin des Côtes du Rhône.
+"Vinsobres".
 
-Eaux-de-vie de marc des Côtes du Rhône.
+II. ― Eaux-de-vie réglementées
+
+"Eaux-de-vie de vin des Côtes du Rhône".
+
+"Eaux-de-vie de marc des Côtes du Rhône".

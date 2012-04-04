@@ -2,56 +2,40 @@
 
 Comité régional Toulouse-Pyrénées
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Béarn .
+"Béarn".
 
-Béarn-Bellocq .
+"Brulhois".
 
-Cahors .
+"Cahors".
 
-Côtes du Frontonnais .
+"Côtes de Millau".
 
-Côtes du Frontonnais Fronton .
+"Coteaux du Quercy".
 
-Côtes du Frontonnais Villaudric .
+"Entraygues-Le Fel".
 
-Gaillac .
+"Estaing".
 
-Gaillac doux .
+"Fronton".
 
-Gaillac mousseux .
+"Gaillac".
 
-Gaillac Premières Côtes .
+"Gaillac Premières Côtes".
 
-Irouléguy .
+"Irouléguy".
 
-Jurançon .
+"Jurançon".
 
-Jurançon sec .
+"Madiran".
 
-Madiran .
+"Marcillac".
 
-Marcillac .
+"Pacherenc du Vic Bilh".
 
-Pacherenc du Vic Bilh .
+"Saint-Mont".
 
-Pacherenc du Vic Bilh sec .
+"Saint-Sardos".
 
-II. - Vins délimités de qualité supérieure
-
-Côtes du Brulhois .
-
-Vins d'Entraygues et du Fel .
-
-Vins d'Estaing .
-
-Vins de Lavilledieu .
-
-Côtes de Millau .
-
-Côtes de Saint-Mont .
-
-Tursan .
-
-Coteaux du Quercy .
+"Tursan".

@@ -2,62 +2,44 @@
 
 Comité régional Languedoc-Roussillon
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Blanquette de Limoux .
+"Cabardès".
 
-Blanquette méthode ancestrale .
+"Clairette du Languedoc".
 
-Cabardès .
+"Collioure".
 
-Clairette de Bellegarde .
+"Côtes du Roussillon".
 
-Clairette du Languedoc .
+"Côtes du Roussillon Villages".
 
-Collioure .
+"Corbières".
 
-Côtes du Roussillon .
+"Corbières-Boutenac".
 
-Côtes du Roussillon complété du nom Les Aspres .
+"Crémant de Limoux".
 
-Côtes du Roussillon Villages .
+"Fitou".
 
-Côtes du Roussillon Villages Caramany .
+"Faugères".
 
-Côtes du Roussillon Villages Latour de France .
+"Languedoc".
 
-Côtes du Roussillon Villages Lesquerde .
+"Limoux".
 
-Côtes du Roussillon Villages Tautavel .
+"Malepère".
 
-Coteaux du Languedoc .
+"Minervois".
 
-Coteaux du Languedoc  suivi des noms géographiques :  Cabrières, Grès de Montpellier, La Méjanelle, Saint-Christol,  Vérargues, Saint-Drézery, Saint-Georges-d'Orques, Saint-Saturnin, La  Clape, Quatourze, Montpeyroux, Pic-Saint-Loup, Picpoul-de-Pinet.
+"Minervois-La Livinière".
 
-Corbières .
+"Saint-Chinian".
 
-Crémant de Limoux .
+II. ― Eaux-de-vie réglementées
 
-Fitou .
+"Eaux-de-vie de Faugères".
 
-Faugères .
+"Eaux-de-vie de vin originaires du Languedoc".
 
-Limoux .
-
-Minervois .
-
-Minervois - La Livinière .
-
-Saint-Chinian .
-
-II. - Vins délimités de qualité supérieure
-
-Côtes de la Malepère .
-
-III. - Eaux-de-vie réglementées
-
-Faugères ou eaux-de-vie de Faugères.
-
-Eaux-de-vie de vin originaires du Languedoc.
-
-Eaux-de-vie de marc originaires du Languedoc.
+"Eaux-de-vie de marc originaires du Languedoc".

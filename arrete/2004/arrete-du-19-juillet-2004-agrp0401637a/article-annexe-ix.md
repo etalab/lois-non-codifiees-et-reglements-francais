@@ -2,366 +2,248 @@
 
 Comité régional Bourgogne
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Aloxe Corton .
+"Aloxe Corton".
 
-Arbois .
+"Arbois".
 
-Arbois mousseux .
+"Auxey Duresses".
 
-Arbois Pupillin .
+"Bâtard Montrachet".
 
-Arbois mousseux Pupillin .
+"Beaujolais".
 
-Auxey Duresses .
+"Beaune".
 
-Bâtard Montrachet .
+"Bienvenues Bâtard Montrachet".
 
-Beaujolais .
+"Blagny".
 
-Beaujolais , suivie d'un nom de commune.
+"Bonnes Mares".
 
-Beaujolais supérieur .
+"Bourgogne".
 
-Beaujolais Villages .
+"Bourgogne aligoté".
 
-Beaune .
+"Coteaux Bourguignons".
 
-Bienvenues Bâtard Montrachet .
+"Bourgogne mousseux".
 
-Blagny .
+"Bourgogne passe-tout-grain".
 
-Bonnes Mares .
+"Bouzeron".
 
-Bourgogne .
+"Brouilly".
 
-Bourgogne aligoté .
+"Bugey".
 
-Bourgogne clairet .
+"Chablis".
 
-Bourgogne clairet Hautes Côtes de Beaune .
+"Chablis grand cru".
 
-Bourgogne clairet Hautes Côtes de Nuits  ou  Bourgogne clairet vins fins des Hautes Côtes de Nuits .
+"Chambertin".
 
-Bourgogne clairet Côtes d'Auxerre .
+"Chambertin Clos de Bèze".
 
-Bourgogne clairet Côte chalonnaise .
+"Chambolle Musigny".
 
-Bourgogne Côte chalonnaise .
+"Chapelle Chambertin".
 
-Bourgogne Côtes d'Auxerre .
+"Charlemagne".
 
-Bourgogne Côtes du Couchois .
+"Charmes Chambertin".
 
-Bourgogne grand ordinaire .
+"Chassagne-Montrachet".
 
-Bourgogne grand ordinaire clairet .
+"Château-Chalon".
 
-Bourgogne grand ordinaire rosé .
+"Chénas".
 
-Bourgogne Hautes Côtes de Beaune .
+"Chevalier Montrachet".
 
-Bourgogne Hautes Côtes de Nuits .
+"Chiroubles".
 
-Bourgogne mousseux .
+"Chorey-lès-Beaune".
 
-Bourgogne ordinaire .
+"Clos des Lambrays".
 
-Bourgogne ordinaire clairet .
+"Clos de la Roche".
 
-Bourgogne ordinaire rosé .
+"Clos de Tart".
 
-Bourgogne passe-tout-grain .
+"Clos de Vougeot".
 
-Bourgogne rosé .
+"Clos Saint-Denis".
 
-Bourgogne rosé Côtes d'Auxerre .
+"Corton".
 
-Bourgogne rosé Côte chalonnaise .
+"Coteaux du Lyonnais".
 
-Bourgogne rosé Hautes Côtes de Beaune .
+"Corton Charlemagne".
 
-Bourgogne rosé Hautes Côtes de Nuits  ou  Bourgogne rosé vins fins des Hautes Côtes de Nuits .
+"Côte de Beaune".
 
-Bourgogne Vézelay .
+"Côte de Beaune Villages".
 
-Bourgogne Côte Saint-Jacques .
+"Côte de Brouilly".
 
-Bourgogne Chitry .
+"Côtes de Nuits Villages" ou "Vins fins de la Côte de Nuits".
 
-Bourgogne Coulanges-la-Vineuse .
+"Côtes du Forez".
 
-Bourgogne Epineuil .
+"Côtes du Jura".
 
-Bourgogne La Chapelle Notre-Dame .
+"Côte roannaise".
 
-Bourgogne La Chapelle Notre-Dame rosé .
+"Crémant de Bourgogne".
 
-Bourgogne La Chapelle Notre-Dame clairet .
+"Crémant du Jura".
 
-Bourgogne le Chapitre .
+"Criots Bâtard Montrachet".
 
-Bourgogne le Chapitre rosé .
+"Echezeaux".
 
-Bourgogne le Chapitre clairet .
+"Fixin".
 
-Bourgogne Montrecul .
+"Fleurie".
 
-Bourgogne Montrecul rosé .
+"Gevrey-Chambertin".
 
-Bourgogne Montrecul clairet .
+"Givry".
 
-Bouzeron .
+"Grands Echezeaux".
 
-Brouilly .
+"Griotte Chambertin".
 
-Chablis .
+"Irancy"
 
-Chablis grand cru .
+"Juliénas".
 
-Chablis premier cru .
+"Ladoix".
 
-Chambertin .
+"La Grande Rue".
 
-Chambertin Clos de Bèze .
+"La Romanée".
 
-Chambolle Musigny .
+"La Tâche".
 
-Chapelle Chambertin .
+"Latricières Chambertin".
 
-Charlemagne .
+"L'Etoile".
 
-Charmes Chambertin .
+"Mâcon".
 
-Chassagne-Montrachet .
+"Maranges".
 
-Château-Chalon .
+"Marsannay".
 
-Chenas .
+"Mazis Chambertin".
 
-Chevalier Montrachet .
+"Mazoyères Chambertin".
 
-Chiroubles .
+"Mercurey".
 
-Chorey-lès-Beaune .
+"Meursault".
 
-Clos des Lambrays .
+"Montagny".
 
-Clos de la Roche .
+"Monthélie".
 
-Clos de Tart .
+"Montrachet".
 
-Clos de Vougeot .
+"Morey-Saint-Denis".
 
-Clos Saint-Denis .
+"Morgon".
 
-Corton .
+"Moulin à Vent".
 
-Coteaux du Lyonnais .
+"Musigny".
 
-Corton Charlemagne .
+"Nuits" ou "Nuits-Saint-Georges".
 
-Côte de Beaune .
+"Pernand-Vergelesses".
 
-Côte de Beaune , précédée d'un nom de commune.
+"Petit Chablis".
 
-Côte de Beaune Villages .
+"Pommard".
 
-Côte de Brouilly .
+"Pouilly Fuissé".
 
-Côtes de Nuits Villages  ou  Vins fins de la Côte de Nuits .
+"Pouilly Loché".
 
-Côtes du Forez .
+"Pouilly-Vinzelles".
 
-Côtes du Jura .
+"Puligny-Montrachet".
 
-Côte du Jura mousseux .
+"Régnié".
 
-Côte roannaise .
+"Richebourg".
 
-Crémant de Bourgogne .
+"Romanée Conti".
 
-Crépy .
+"Romanée Saint Vivant".
 
-Crémant du Jura .
+"Roussette du Bugey".
 
-Criots Bâtard Montrachet .
+"Roussette de Savoie".
 
-Echezeaux .
+"Ruchottes Chambertin".
 
-Fixin .
+"Rully".
 
-Fleurie .
+"Saint-Amour".
 
-Gevrey-Chambertin .
+"Saint-Aubin".
 
-Givry .
+"Saint-Bris".
 
-Grands Echezeaux .
+"Saint-Romain".
 
-Griotte Chambertin .
+"Saint-Véran".
 
-Irancy
+"Santenay".
 
-Juliénas .
+"Savigny" ou "Savigny-lès-Beaune".
 
-La Grande Rue .
+"Seyssel".
 
-Ladoix .
+"Vin de Savoie" ou "Savoie".
 
-Latricières Chambertin .
+"Viré-Clessé".
 
-L'Etoile .
+"Volnay".
 
-L'Etoile mousseux .
+"Vosne-Romanée".
 
-Mâcon .
+"Vougeot".
 
-Mâcon Villages .
+II. ― Vins de liqueur
 
-Mâcon supérieur .
+"Macvin du Jura".
 
-Mâcon , suivie d'un nom de commune.
+III. ― Eaux-de-vie d'appellations d'origine contrôlées
 
-Maranges .
+"Fine de Bourgogne".
 
-Marsannay .
+"Kirsh de Fougerolles".
 
-Marsannay rosé .
+"Marc de Bourgogne".
 
-Mazis Chambertin .
+IV. ― Eaux-de-vie réglementées
 
-Mazoyères Chambertin .
+"Eaux-de-vie de marc originaires du Bugey ou marc du Bugey".
 
-Mercurey .
+"Eaux-de-vie de vin du Bugey".
 
-Meursault .
+"Eau-de-vie de marc du Centre-Est".
 
-Montagny .
+"Eau-de-vie de vin originaire du Centre-Est".
 
-Monthélie .
+"Eaux-de-vie de marc originaires de Franche-Comté".
 
-Montrachet .
+"Eaux-de-vie de vin originaires de Franche-Comté".
 
-Morey-Saint-Denis .
+"Eau-de-vie de vin de Savoie".
 
-Morgon .
-
-Moulin à Vent .
-
-Mousseux de Savoie .
-
-Musigny .
-
-Nuits  ou  Nuits-Saint-Georges .
-
-Pernand-Vergelesses .
-
-Petit Chablis .
-
-Pétillant de Savoie .
-
-Pinot Chardonnay-Mâcon .
-
-Pommard .
-
-Pouilly Fuissé .
-
-Pouilly Loché .
-
-Pouilly-Vinzelles .
-
-Puligny-Montrachet .
-
-Régnié .
-
-Richebourg .
-
-Romanée (La) .
-
-Romanée Conti .
-
-Romanée Saint Vivant .
-
-Roussette de Savoie .
-
-Roussette de Savoie , suivie d'un nom de cru : Frangy, Marestel ou Marestel Altesse, Monterminod, Monthoux.
-
-Ruchottes Chambertin .
-
-Rully .
-
-Saint-Amour .
-
-Saint-Aubin .
-
-Saint-Bris .
-
-Saint-Romain .
-
-Saint-Véran .
-
-Santenay .
-
-Savigny  ou  Savigny-lès-Beaune .
-
-Seyssel .
-
-Seyssel mousseux .
-
-Tâche (La) .
-
-Vin de Savoie , suivie d'un nom de cru : Abymes,  Apremont, Arbin, Ayze, Charpignat, Chautagne, Chignin, Chignin Bergeron  ou Bergeron, Cruet, Jongieux, Marignan, Marin, Montmélian, Ripaille,  Saint-Jean-de-la-Porte, Saint-Geoire Prieuré, Sainte-Marie-d'Alloix.
-
-Vin de Savoie mousseux .
-
-Vin de Savoie pétillant .
-
-Vin de Savoie Ayze mousseux .
-
-Vin de Savoie Ayze pétillant .
-
-Viré-Clessé .
-
-Volnay .
-
-Vosne-Romanée .
-
-Vougeot .
-
-II. - Vins délimités de qualité supérieure
-
-Roussette du Bugey .
-
-Roussette du Bugey , suivi d'un nom géographique.
-
-Bugey .
-
-Bugey  suivi d'un nom géographique.
-
-III. - Eaux-de-vie réglementées
-
-Eaux-de-vie de marc de Bourgogne ou marc de Bourgogne.
-
-Eau-de-vie de vin de Bourgogne.
-
-Eau-de-vie de marc du Centre-Est.
-
-Eau-de-vie de vin originaire du Centre-Est.
-
-Eaux-de-vie de marc originaires de Franche-Comté.
-
-Eaux-de-vie de vin originaires de Franche-Comté.
-
-Eaux-de-vie de marc originaires du Bugey ou marc du Bugey.
-
-Eaux-de-vie de vin du Bugey.
-
-Eau-de-vie de vin de Savoie.
-
-Eau-de-vie de marc originaire de Savoie ou marc de Savoie.
-
-IV. - Vin de liqueur
-
-Macvin du Jura.
+"Eau-de-vie de marc originaire de Savoie ou marc de Savoie".

@@ -2,140 +2,114 @@
 
 Comité régional Sud-Ouest
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Barsac .
+"Barsac".
 
-Bergerac .
+"Bergerac".
 
-Bergerac sec .
+"Blaye".
 
-Blaye .
+"Bordeaux".
 
-Bordeaux .
+"Bordeaux supérieur".
 
-Bordeaux Clairet .
+"Bourg ou Bourgeais ou Côtes de Bourg".
 
-Bordeaux Côtes de Francs .
+"Buzet".
 
-Bordeaux Haut-Benauge .
+"Cadillac".
 
-Bordeaux mousseux .
+"Cérons".
 
-Bordeaux rosé .
+"Canon Fronsac".
 
-Bordeaux sec .
+"Côtes de Bergerac".
 
-Bordeaux supérieur .
+"Côtes de Blaye".
 
-Bourg ou Bourgeais .
+"Côtes de Bordeaux"
 
-Buzet .
+"Côtes de Bordeaux-Saint-Macaire".
 
-Cadillac .
+"Côtes de Duras".
 
-Cérons .
+"Côtes du Marmandais".
 
-Côtes Canon - Fronsac  ou  Canon - Fronsac .
+"Côtes de Montravel".
 
-Côtes de Bergerac .
+"Crémant de Bordeaux".
 
-Côtes de Bergerac moelleux .
+"Entre-deux-Mers".
 
-Côtes de Blaye .
+"Fronsac".
 
-Côtes de Bourg .
+"Graves".
 
-Côtes de Bordeaux Saint-Macaire .
+"Graves supérieures".
 
-Côtes de Castillon .
+"Graves de Vayres".
 
-Côtes de Duras .
+"Haut-Médoc".
 
-Côtes du Marmandais .
+"Haut-Montravel".
 
-Côtes de Montravel .
+"Lalande-de-Pomerol".
 
-Crémant de Bordeaux .
+"Listrac-Médoc".
 
-Entre-Deux-Mers .
+"Loupiac".
 
-Entre-Deux-Mers - Haut-Benauge .
+"Lussac Saint-Emilion".
 
-Fronsac .
+"Margaux".
 
-Graves .
+"Médoc".
 
-Graves supérieurs .
+"Monbazillac".
 
-Graves de Vayres .
+"Montagne-Saint-Emilion".
 
-Haut-Médoc .
+"Montravel".
 
-Haut-Montravel .
+"Moulis" ou "Moulis-en-Médoc".
 
-Lalande de Pomerol .
+"Pauillac".
 
-Listrac-Médoc .
+"Pécharmant".
 
-Loupiac .
+"Pessac-Léognan".
 
-Lussac - Saint-Emilion .
+"Pomerol".
 
-Margaux .
+"Premières Côtes de Bordeaux".
 
-Médoc .
+"Puisseguin Saint-Emilion".
 
-Monbazillac .
+"Rosette".
 
-Montagne - Saint-Emilion .
+"Sainte-Croix-du-Mont".
 
-Montravel .
+"Saint-Emilion".
 
-Moulis  ou  Moulis-en-Médoc .
+"Saint-Emilion Grand Cru".
 
-Néac .
+"Saint-Estèphe".
 
-Pauillac .
+"Sainte-Foy-Bordeaux".
 
-Pécharmant .
+"Saint-Georges-Saint-Emilion".
 
-Pessac-Léognan .
+"Saint-Julien".
 
-Pomerol .
+"Saussignac".
 
-Premières Côtes de Blaye .
+"Sauternes".
 
-Premières Côtes de Bordeaux .
+II. ― Eaux-de-vie réglementées
 
-Premières Côtes de Bordeaux  suivie d'un nom de commune.
+"Eaux-de-vie de vin originaires d'Aquitaine".
 
-Puisseguin Saint-Emilion .
+"Eaux-de-vie de marc d'Aquitaine".
 
-Rosette .
-
-Sainte-Croix-du-Mont .
-
-Saint-Emilion .
-
-Saint-Emilion Grand Cru .
-
-Saint-Estèphe .
-
-Sainte-Foy - Bordeaux .
-
-Saint-Georges - Saint-Emilion .
-
-Saint-Julien .
-
-Saussignac .
-
-Sauternes .
-
-II. - Eaux-de-vie réglementées
-
-Eaux-de-vie de vin originaires d'Aquitaine.
-
-Eaux-de-vie de marc d'Aquitaine.
-
-Fine Bordeaux.
+"Fine Bordeaux".

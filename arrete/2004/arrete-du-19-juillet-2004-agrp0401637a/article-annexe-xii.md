@@ -2,44 +2,34 @@
 
 Comité régional Provence-Corse
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Ajaccio .
+"Ajaccio".
 
-Bandol  ou  Vin de Bandol .
+"Bandol" ou "Vin de Bandol".
 
-Bellet  ou  Vin de Bellet .
+"Bellet" ou "Vin de Bellet".
 
-Cassis .
+"Cassis".
 
-Coteaux d'Aix-en-Provence .
+"Coteaux d'Aix-en-Provence".
 
-Coteaux varois .
+"Coteaux varois en Provence".
 
-Côtes de Provence .
+"Côtes de Provence".
 
-Les Baux de Provence .
+"Les Baux de Provence".
 
-Muscat du Cap Corse .
+"Muscat du Cap Corse".
 
-Palette .
+"Palette".
 
-Patrimonio .
+"Patrimonio".
 
-Vin de Corse  ou  Corse .
+"Vin de Corse" ou "Corse".
 
-Vin de Corse-Sartène  ou  Corse-Sartène .
+II. ― Eaux-de-vie réglementées
 
-Vin de Corse-Calvi  ou  Corse-Calvi .
+"Eaux-de-vie de vin originaires de Provence".
 
-Vin de Corse-Coteaux du Cap Corse  ou  Corse-Coteaux du Cap Corse .
-
-Vin de Corse-Figari  ou  Corse-Figari .
-
-Vin de Corse - Porto-Vecchio  ou  Corse - Porto-Vecchio .
-
-II. - Eaux-de-vie réglementées
-
-Eaux-de-vie de vin originaires de Provence.
-
-Eaux-de-vie de marc originaires de Provence.
+"Eaux-de-vie de marc originaires de Provence".

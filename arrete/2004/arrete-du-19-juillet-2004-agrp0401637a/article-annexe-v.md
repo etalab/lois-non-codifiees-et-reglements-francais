@@ -2,42 +2,28 @@
 
 Comité régional vins doux naturels
 
-I. - Appellations d'origine contrôlées
+I. ― Appellations d'origine contrôlées
 
-Banyuls .
+"Banyuls".
 
-Banyuls Rancio .
+"Banyuls grand cru".
 
-Banyuls grand cru .
+"Grand Roussillon".
 
-Banyuls grand cru Rancio .
+"Maury".
 
-Frontignan .
+"Muscat de Beaumes-de-Venise".
 
-Grand Roussillon .
+"Muscat de Frontignan" ou "Frontignan" ou "Vin de Frontignan".
 
-Grand Roussillon Rancio .
+"Muscat de Lunel".
 
-Maury .
+"Muscat de Mireval".
 
-Maury Rancio .
+"Muscat de Rivesaltes".
 
-Muscat de Beaumes-de-Venise .
+"Muscat de Saint-Jean-de-Minervois".
 
-Muscat de Frontignan .
+"Rasteau".
 
-Muscat de Lunel .
-
-Muscat de Mireval .
-
-Muscat de Rivesaltes .
-
-Muscat de Saint-Jean-de-Minervois .
-
-Rasteau .
-
-Rasteau Rancio .
-
-Rivesaltes .
-
-Vin de Frontignan .
+"Rivesaltes".
