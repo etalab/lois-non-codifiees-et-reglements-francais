@@ -14,8 +14,8 @@ Sont dispensés de la formation théorique et pratique et du certificat d'aptitu
 
 6° Les juristes salariés d'un avocat, d'une association ou d'une société d'avocats, d'un office d'avoué ou d'avocat au Conseil d'Etat et à la Cour de cassation, justifiant de huit ans au moins de pratique professionnelle en cette qualité postérieurement à l'obtention du titre ou diplôme mentionné au 2° de l'article 11 de la loi du 31 décembre 1971 susvisée ;
 
-7° Les personnes agréées par le président de la chambre d'appel de Mamoudzou dans la collectivité départementale de Mayotte justifiant de huit ans au moins de pratique professionnelle ;
+7° Les personnes mentionnées à l'article 22 de la loi n° 2011-94 du 25 janvier 2011 portant réforme de la représentation devant les cours d'appel ;
 
-Les personnes mentionnées aux 3°, 4°, 5° et 6° peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.
+8° Les collaborateurs de député ou assistants de sénateur justifiant avoir exercé une activité juridique à titre principal avec le statut de cadre pendant au moins huit ans dans ces fonctions ;
 
-8° Les personnes mentionnées à l'article 22 de la loi n° 2011-94 du 25 janvier 2011 portant réforme de la représentation devant les cours d'appel.
+Les personnes mentionnées aux 3°, 4°, 5°, 6° et 8° peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.

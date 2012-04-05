@@ -16,7 +16,7 @@ L'obligation de formation continue est satisfaite :
 
 5° Par la publication de travaux à caractère juridique.
 
-Au cours des deux premières années d'exercice professionnel, cette formation inclut dix heures au moins portant sur la déontologie. Toutefois, au cours de cette même période, les personnes mentionnées à l'article 98 doivent consacrer la totalité de leur obligation de formation à des enseignements portant sur la déontologie et le statut professionnel.
+Au cours des deux premières années d'exercice professionnel, cette formation inclut dix heures au moins portant sur la déontologie. Toutefois, au cours de cette même période, les personnes mentionnées aux articles 97-1 et 98 doivent consacrer la totalité de leur obligation de formation à des enseignements portant sur la déontologie et le statut professionnel.
 
 Sauf lorsqu'ils relèvent de l'obligation de formation mentionnée dans la seconde phrase de l'alinéa précédent, les titulaires d'un certificat de spécialisation prévu à l'article 86 consacrent la moitié de la durée de leur formation continue à ce ou ces domaines de spécialisation. S'ils sont titulaires de deux certificats de spécialisation, ils accomplissent dix heures au moins de formation dans chacun de ces domaines de spécialisation, soit vingt heures au cours d'une année civile et quarante heures au cours de deux années consécutives.
 

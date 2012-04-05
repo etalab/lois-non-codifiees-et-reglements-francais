@@ -1,6 +1,6 @@
 # Article 97
 
-Sont dispensés de la condition de diplôme prévue à l'article 11 (2°) de la loi du 31 décembre 1971 précitée, de la formation théorique et pratique, du certificat d'aptitude à la profession d'avocat et du stage :
+Sont dispensés de la condition de diplôme prévue à l'article 11 (2°) de la loi du 31 décembre 1971 précitée, de la formation théorique et pratique, du certificat d'aptitude à la profession d'avocat :
 
 1° Les membres et anciens membres du Conseil d'Etat et les membres et anciens membres du corps des tribunaux administratifs et des cours administratives d'appel ;
 
