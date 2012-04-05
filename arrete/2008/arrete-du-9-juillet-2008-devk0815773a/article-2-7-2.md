@@ -26,4 +26,6 @@ Elle comprend :
 
 ― le bureau du soutien informatique et bureautique de l'administration centrale ;
 
-― le bureau de la programmation et de l'analyse de gestion des moyens de fonctionnement de l'administration centrale.
+― le bureau de la programmation et de l'analyse de gestion des moyens de fonctionnement de l'administration centrale ;
+
+― le département de gestion du site de Saint-Germain.

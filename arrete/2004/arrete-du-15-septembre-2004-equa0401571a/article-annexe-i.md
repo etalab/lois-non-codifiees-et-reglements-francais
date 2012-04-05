@@ -12,7 +12,7 @@ Paris-Mayotte.
 
 2. Liaisons internationales extracommunautaires
 
-2.1. De/ vers la France métropolitaine
+2.1. De/vers la France métropolitaine
 
 Afrique du Sud (jusqu'au 31 décembre 2012)
 
@@ -588,14 +588,6 @@ République populaire de Chine (jusqu'au 31 décembre 2012)
 
 Paris-Canton.
 
-Paris-Nankin.
-
-Paris-Pékin.
-
-Paris-Shanghai.
-
-Paris-Wuhan.
-
 Paris-Changchun.
 
 Paris-Changsha.
@@ -618,13 +610,25 @@ Paris-Hangzhou.
 
 Paris-Harbin.
 
+Paris-Hefei.
+
+Paris-Jinan.
+
+Paris - Nanchang.
+
+Paris-Nankin.
+
 Paris-Nanning.
 
 Paris-Ningbo.
 
+Paris-Pékin.
+
 Paris-Qingdao.
 
 Paris-Sanya.
+
+Paris-Shanghai.
 
 Paris-Shantou.
 
@@ -632,9 +636,15 @@ Paris-Shenyang.
 
 Paris-Shenzhen.
 
+Paris-Taiyuan.
+
+Paris-Wuhan.
+
 Paris-Xi'an.
 
 Paris-Yantai.
+
+Paris - Yinchuan.
 
 Paris-Yiwu.
 
@@ -778,7 +788,15 @@ Toulouse - Istanbul.
 
 Ukraine (jusqu'au 31 décembre 2012)
 
+Paris-Dnipropetrovsk.
+
+Paris-Donetsk.
+
 Paris-Kiev.
+
+Paris-Lviv.
+
+Paris-Simferopol.
 
 Uruguay (jusqu'au 31 décembre 2012)
 

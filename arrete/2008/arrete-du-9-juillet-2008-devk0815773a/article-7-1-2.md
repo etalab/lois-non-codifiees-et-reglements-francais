@@ -1,6 +1,6 @@
 # Article 7.1.2
 
-La sous-direction des politiques de l'habitat propose les politiques publiques relatives au logement locatif social, aux interventions sur le parc privé dégradé et à l'accueil et au logement des gens du voyage. Elle élabore les outils et les méthodes opérationnelles correspondants et s'assure de leur mise en œuvre au niveau local.
+La sous-direction des politiques de l'habitat propose les politiques publiques relatives au logement locatif social, aux interventions sur le parc privé dégradé et à l'accueil et au logement des gens du voyage. Elle participe à l'élaboration de la réglementation des aides de l'Etat à la construction, l'acquisition ou l'amélioration des logements locatifs sociaux. Elle élabore les outils et les méthodes opérationnelles correspondants et s'assure de leur mise en œuvre au niveau local.
 
 Elle favorise le renouvellement des pratiques et des savoir-faire des services de l'Etat, des collectivités locales et de leurs groupements et des autres acteurs dans la mise en œuvre et l'évaluation des politiques du logement.
 
@@ -14,10 +14,10 @@ Elle contribue à l'élaboration et à la mise en œuvre des politiques de lutte
 
 Elle comprend :
 
-― le bureau des politiques sociales du logement ;
+- le bureau des politiques sociales du logement ;
 
-― le bureau des politiques locales de l'habitat, de la programmation et du renouvellement urbain ;
+- le bureau des politiques locales de l'habitat, de la programmation et du renouvellement urbain ;
 
-― le bureau du parc privé ;
+- le bureau du parc privé ;
 
-― le bureau de la connaissance sur le logement et l'habitat.
+- le bureau de la connaissance sur le logement et l'habitat.

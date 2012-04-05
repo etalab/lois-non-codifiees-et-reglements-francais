@@ -1,6 +1,8 @@
 # Article 
 
-CAHIER DES CHARGES D'HOMOLOGATION DES SYSTÈMES DE CONTRÔLE AUTOMATISÉ DE FRANCHISSEMENT D'UNE SIGNALISATION LUMINEUSE FIXE OU CLIGNOTANTE
+CAHIER DES CHARGES D'HOMOLOGATION DES SYSTÈMES DE CONTRÔLE AUTOMATISÉ
+
+DE FRANCHISSEMENT D'UNE SIGNALISATION LUMINEUSE FIXE OU CLIGNOTANTE
 
 Chapitre Ier
 
@@ -124,7 +126,7 @@ Vérification primitive
 
 La vérification primitive des instruments est l'opération de contrôle à l'unité attestant que les instruments neufs ou réparés respectent les exigences du présent arrêté et celles définies dans le certificat d'homologation de l'instrument concerné.
 
-La vérification primitive peut être réalisée par le fabricant ou le réparateur de SCF sous couvert d'un système d'assurance de la qualité approuvé suivant les dispositions de l'article 9 du présent cahier des charges.
+La vérification primitive peut être réalisée par le fabricant ou le réparateur de SCF sous couvert d'un système d'assurance de la qualité approuvé suivant les dispositions de l'article 10 du présent cahier des charges.
 
 Le fabricant ou le réparateur peut également faire effectuer la vérification primitive sous la forme d'un contrôle de ses instruments par un organisme agréé par le ministre chargé des transports, conformément aux dispositions de l'article 15.
 
@@ -138,9 +140,9 @@ Article 10
 
 Modalités de délivrance de l'approbation du système d'assurance de la qualité
 
-Tout fabricant/ réparateur peut faire approuver son système d'assurance de la qualité conformément aux dispositions de l'annexe IV du présent cahier des charges.
+Tout fabricant/ réparateur peut faire approuver son système d'assurance de la qualité conformément aux dispositions de l'annexe 5 du présent cahier des charges.
 
-L'approbation du système d'assurance de la qualité est réalisée et délivrée par l'organisme désigné à l'article 14. Le bénéficiaire de cette approbation doit se prêter à la surveillance annuelle de son système d'assurance de la qualité par l'organisme l'ayant approuvé (voir annexe IV).
+L'approbation du système d'assurance de la qualité est réalisée et délivrée par l'organisme désigné à l'article 14. Le bénéficiaire de cette approbation doit se prêter à la surveillance annuelle de son système d'assurance de la qualité par l'organisme l'ayant approuvé (voir annexe 5).
 
 La validité de l'approbation du système d'assurance de la qualité est de trois ans et peut être renouvelée pour des périodes n'excédant pas trois ans chacune.
 
@@ -552,110 +554,170 @@ Annexe 1
 
 GLOSSAIRE
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="center">Armoire <br/>
+<td align="left" valign="top">
+<p align="left">Armoire <br/>
+</p>
 </td>
-<td align="center">Le mot armoire, enveloppe et coffret sont utilisés indifféremment pour désigner le contenant qui abrite tout ou partie des SCF. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Candidat <br/>
-</td>
-<td align="center">Personne physique ou morale présentant un SCF pour homologation. <br/>
+<td align="left" valign="top">
+<p align="left">Le mot armoire, enveloppe et coffret sont utilisés indifféremment pour désigner le contenant qui abrite tout ou partie des SCF. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Centre d'exploitation <br/>
+<td align="left" valign="top">
+<p align="left">Candidat <br/>
+</p>
 </td>
-<td align="center">Centre qui pilote les SCF et en exploite les données. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Conditions météorologiques normales <br/>
-</td>
-<td align="center">Situation météorologique ne comportant aucune perturbation. <br/>
+<td align="left" valign="top">
+<p align="left">Personne physique ou morale présentant un SCF pour homologation. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Conditions météorologiques normalement dégradées <br/>
+<td align="left" valign="top">
+<p align="left">Centre d'exploitation <br/>
+</p>
 </td>
-<td align="center">Perturbations météorologiques de tout type dont la nature, la durée et l'intensité peuvent être considérées comme usuelles pour le site considéré, c'est-à-dire dont il est attesté qu'elles sont rencontrées plusieurs fois chaque année et qui ne nécessitent pas d'actions particulières de la part des pouvoirs publics pour la sauvegarde des personnes et des biens. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">COFRAC <br/>
-</td>
-<td align="center">Comité français d'accréditation. <br/>
+<td align="left" valign="top">
+<p align="left">Centre qui pilote les SCF et en exploite les données. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CONSUEL <br/>
+<td align="left" valign="top">
+<p align="left">Conditions météorologiques normales <br/>
+</p>
 </td>
-<td align="center">Comité national pour la sécurité des usagers de l'électricité. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Ligne d'effet des feux <br/>
-</td>
-<td align="center">La ligne d'effet des feux est matérialisée sur la chaussée. Lorsqu'elle n'est pas matérialisée, elle se situe avant le passage pour piétons s'il précède les feux et, dans les autres cas, dans un plan perpendiculaire à l'axe de la voie et passant par les feux. <br/>
+<td align="left" valign="top">
+<p align="left">Situation météorologique ne comportant aucune perturbation. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Ligne des feux <br/>
+<td align="left" valign="top">
+<p align="left">Conditions météorologiques normalement dégradées <br/>
+</p>
 </td>
-<td align="center">La ligne des feux est la droite perpendiculaire à l'axe de circulation passant par le feu. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Outils d'exploitation (du SCF) <br/>
-</td>
-<td align="center">Logiciels et matériels présents au centre d'exploitation et permettant le dialogue avec les SCF et l'exploitation des données. <br/>
+<td align="left" valign="top">
+<p align="left">Perturbations météorologiques de tout type dont la nature, la durée et l'intensité peuvent être considérées comme usuelles pour le site considéré, c'est-à-dire dont il est attesté qu'elles sont rencontrées plusieurs fois chaque année et qui ne nécessitent pas d'actions particulières de la part des pouvoirs publics pour la sauvegarde des personnes et des biens. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Réseau de télé-transmission <br/>
+<td align="left" valign="top">
+<p align="left">COFRAC <br/>
+</p>
 </td>
-<td align="center">Réseau permettant d'acheminer vers un centre d'exploitation les informations recueillies in situ et permettant aussi une communication avec l'équipement. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Signal lumineux <br/>
-</td>
-<td align="center">Signal fixe ou clignotant imposant un arrêt des véhicules lorsque ce dernier est de couleur rouge. <br/>
+<td align="left" valign="top">
+<p align="left">Comité français d'accréditation. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Rappel du signal lumineux <br/>
+<td align="left" valign="top">
+<p align="left">CONSUEL <br/>
+</p>
 </td>
-<td align="center">Lorsque le signal lumineux est clignotant, ce dernier est rappelé par un autre signal lumineux qui clignote en alternance. La position du signal lumineux de rappel est à définir en fonction du site. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Site protégé <br/>
-</td>
-<td align="center">Site de test reproduisant la configuration d'un site équipé de signalisation lumineuse mais protégé de la circulation générale. Sur ce site des véhicules de test circulent selon des scénarios prédéfinis. <br/>
+<td align="left" valign="top">
+<p align="left">Comité national pour la sécurité des usagers de l'électricité. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Véhicule <br/>
+<td align="left" valign="top">
+<p align="left">Ligne d'effet des feux <br/>
+</p>
 </td>
-<td align="center">Mobile pouvant être contrôlé par le SCF : VL, PL et 2 roues immatriculés. <br/>
+<td align="left" valign="top">
+<p align="left">La ligne d'effet des feux est matérialisée sur la chaussée. Lorsqu'elle n'est pas matérialisée, elle se situe avant le passage pour piétons s'il précède les feux et, dans les autres cas, dans un plan perpendiculaire à l'axe de la voie et passant par les feux. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité logique <br/>
+<td align="left" valign="top">
+<p align="left">Ligne des feux <br/>
+</p>
 </td>
-<td align="center">Ensemble des dispositifs matériels rassemblés au sein d'une enveloppe. Les appareils de prise de vue peuvent, suivant les systèmes, être extérieurs ou intérieurs à l'enveloppe. <br/>
+<td align="left" valign="top">
+<p align="left">La ligne des feux est la droite perpendiculaire à l'axe de circulation passant par le feu. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Outils d'exploitation (du SCF) <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Logiciels et matériels présents au centre d'exploitation et permettant le dialogue avec les SCF et l'exploitation des données. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Réseau de télé-transmission <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Réseau permettant d'acheminer vers un centre d'exploitation les informations recueillies in situ et permettant aussi une communication avec l'équipement. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Signal lumineux <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Signal fixe ou clignotant imposant un arrêt des véhicules lorsque ce dernier est de couleur rouge. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Rappel du signal lumineux <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lorsque le signal lumineux est clignotant, ce dernier est rappelé par un autre signal lumineux qui clignote en alternance. La position du signal lumineux de rappel est à définir en fonction du site. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Site protégé <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Site de test reproduisant la configuration d'un site équipé de signalisation lumineuse mais protégé de la circulation générale. Sur ce site des véhicules de test circulent selon des scénarios prédéfinis. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Véhicule <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mobile pouvant être contrôlé par le SCF : VL, PL et 2 roues immatriculés. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Unité logique <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ensemble des dispositifs matériels rassemblés au sein d'une enveloppe. Les appareils de prise de vue peuvent, suivant les systèmes, être extérieurs ou intérieurs à l'enveloppe. <br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 Annexe 2
 
@@ -707,7 +769,9 @@ Remplir un dossier par usine :
 
 ― description du système qualité mis en place.
 
-Opérations de contrôle en usine Indications générales
+Opérations de contrôle en usine
+
+Indications générales
 
 Organisation des contrôles (préciser la méthode retenue et le rattachement de la personne ou du service responsable du contrôle) ;
 
@@ -789,7 +853,9 @@ Pour chaque matériel ou gamme de matériel soumis à l'homologation, le dossier
 
 Annexe 4
 
-DOSSIER DE DEMANDE D'ATTESTATION D'ÉQUIVALENCE POUR LES DEMANDEURS ORIGINAIRES DE L'UNION EUROPÉENNE ET DE L'ESPACE ÉCONOMIQUE EUROPÉEN
+DOSSIER DE DEMANDE D'ATTESTATION D'ÉQUIVALENCE POUR LES DEMANDEURS
+
+ORIGINAIRES DE L'UNION EUROPÉENNE ET DE L'ESPACE ÉCONOMIQUE EUROPÉEN
 
 Les demandeurs établis dans les Etats membres de l'Union européenne et de l'Espace économique européen qui choisissent de présenter des produits fabriqués conformément aux normes ou règles techniques de l'Etat d'origine (procédure de reconnaissance mutuelle) fournissent un dossier comportant :
 
@@ -809,7 +875,7 @@ Annexe 5
 
 EXIGENCES APPLICABLES AU SYSTÈME QUALITÉ DES FABRICANTS ET RÉPARATEURS DE SYSTÈMES AUTOMATIQUES DE CONTRÔLE DE FRANCHISSEMENT (SCF) D'UNE SIGNALISATION LUMINEUSE FIXE OU CLIGNOTANTE
 
-Tout fabricant/ réparateur peut obtenir la certification de son système de management de la qualité par un organisme certificateur accrédité (OCA) de son choix pour attester de la conformité de son système qualité à la norme ISO 9001 : 2008.
+Tout fabricant/réparateur peut obtenir la certification de son système de management de la qualité par un organisme certificateur accrédité (OCA) de son choix pour attester de la conformité de son système qualité à la norme ISO 9001 : 2008.
 
 Le référentiel applicable pour ce qui concerne l'approbation des systèmes d'assurance de la qualité (SAQ) des fabricants et réparateurs au titre du présent cahier des charges est la norme ISO 9001 : 2008 à laquelle s'ajoutent les exigences complémentaires définies dans le tableau ci-après.
 
@@ -817,563 +883,879 @@ Pour l'approbation de son SAQ dans le cadre du présent arrêté, deux cas peuve
 
 Cas n° 1. Le fabricant/ réparateur ne dispose pas d'une certification de son système de management de la qualité.
 
-Dans ce cas, l'approbation et la surveillance du système de management de la qualité sont assurées, au regard de la norme ISO 9001 : 2008 complétée par les exigences complémentaires définies dans le tableau ci-après, par l'organisme désigné à l'article 13 du présent cahier des charges, agissant seul.
+Dans ce cas, l'approbation et la surveillance du système de management de la qualité sont assurées, au regard de la norme ISO 9001 : 2008 complétée par les exigences complémentaires définies dans le tableau ci-après, par l'organisme désigné à l'article 14 du présent cahier des charges, agissant seul.
 
 Cas n° 2. Le fabriquant/ réparateur dispose déjà d'une approbation de son système de management de la qualité au regard de la norme ISO 9001 : 2008 réalisée par un OCA.
 
-Dans ce cas, seule l'évaluation technico-réglementaire du système qualité au regard des exigences complémentaires définies dans le tableau ci-après est réalisée par l'organisme désigné à l'article 13 du présent cahier des charges.
+Dans ce cas, seule l'évaluation technico-réglementaire du système qualité au regard des exigences complémentaires définies dans le tableau ci-après est réalisée par l'organisme désigné à l'article 14 du présent cahier des charges.
 
 Ce dernier prend ou non la décision d'approbation au vu des résultats de son propre audit et au vu du rapport d'audit de l'OCA qui doit lui avoir été adressé au préalable par le demandeur.
 
 Les certifications de systèmes qualité émises par des organismes certificateurs non accrédités ne sont pas reconnues.
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>CHAPITRE <br/>ISO 9001 : 2008 <br/>
-</th>
-<th>FABRICANT/ RÉPARATEUR DE SCF <br/>
-</th>
-</tr>
-<tr>
-<td align="center">1. Domaine d'application <br/>
+<td align="left" valign="top">
+<p align="center">CHAPITRE <br/>ISO 9001 : 2008</p>
 </td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="center">FABRICANT/RÉPARATEUR DE SCF </p>
 </td>
 </tr>
 <tr>
-<td align="center">1.1. Généralités <br/>
+<td align="left" valign="top">
+<p align="left">1. Domaine d'application <br/>
+</p>
 </td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">1.2. Périmètre d'application <br/>
-</td>
-<td align="center">Lorsque des exclusions sont faites, les demandes de conformité au présent référentiel ne sont acceptables que si ces exclusions se limitent aux exigences de l'article 7.3 (conception et développement) et qu'elles n'affectent pas l'aptitude du fabricant ou du réparateur à fournir des instruments conformes au type certifié et aux exigences réglementaires applicables, ni ne le dégagent de cette responsabilité. <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">2. Référence normative <br/>
+<td align="left" valign="top">
+<p align="left">1.1. Généralités <br/>
+</p>
 </td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">3. Termes et définitions <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">4. Système de management de la qualité <br/>
+<td align="left" valign="top">
+<p align="left">1.2. Périmètre d'application <br/>
+</p>
 </td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">4.1. Exigences générales <br/>
-</td>
-<td align="center">L'externalisation de processus ayant une incidence sur la conformité des instruments aux exigences réglementaires, lorsqu'elle concerne la réalisation du produit (§ 7), ou les mesures analyse et amélioration (§ 8), doit être maîtrisée. Le fabricant/ réparateur doit pouvoir démontrer qu'il dispose, de manière continue, de la capacité à piloter le ou les processus externalisés, même en cas de défaillance de son ou ses sous-traitants. <br/>
+<td align="left" valign="top">
+<p align="left">Lorsque des exclusions sont faites, les demandes de conformité au présent référentiel ne sont acceptables que si ces exclusions se limitent aux exigences de l'article 7.3 (conception et développement) et qu'elles n'affectent pas l'aptitude du fabricant ou du réparateur à fournir des instruments conformes au type certifié et aux exigences réglementaires applicables, ni ne le dégagent de cette responsabilité. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">4.2. Exigences relatives à la documentation <br/>
+<td align="left" valign="top">
+<p align="left">2. Référence normative <br/>
+</p>
 </td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">4.2.1. Généralités <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">4.2.2. Manuel qualité <br/>
+<td align="left" valign="top">
+<p align="left">3. Termes et définitions <br/>
+</p>
 </td>
-<td align="center">Si le domaine d'application du système de management de la qualité n'est pas limité à la production ou la réparation de SCF, il convient que la description des interactions entre les processus du système de management de la qualité permette de définir facilement les processus relatifs à ces systèmes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">4.2.3. Maîtrise des documents <br/>
-</td>
-<td align="center">La réglementation applicable aux SCF fait partie des documents requis qui doivent être maîtrisés. Les documents de définition des SCF permettent d'assurer la conformité au type certifié, ils doivent être tenus à jour. L'évolution des documents de définition des SCF doit être soumise à l'accord préalable de l'organisme désigné pour l'examen de type, chaque fois que cette évolution concerne les caractéristiques et/ ou les performances et/ ou l'intégrité du système. <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">4.2.4. Maîtrise des enregistrements <br/>
+<td align="left" valign="top">
+<p align="left">4. Système de management de la qualité <br/>
+</p>
 </td>
-<td align="center">Les enregistrements des processus permettant d'établir la conformité des SCF au type certifié et aux dispositions qui les concernent, doivent être décrits dans les documents qualité et leur archivage doit être défini. <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">4.1. Exigences générales <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">L'externalisation de processus ayant une incidence sur la conformité des instruments aux exigences réglementaires, lorsqu'elle concerne la réalisation du produit (§ 7), ou les mesures analyse et amélioration (§ 8), doit être maîtrisée. Le fabricant/ réparateur doit pouvoir démontrer qu'il dispose, de manière continue, de la capacité à piloter le ou les processus externalisés, même en cas de défaillance de son ou ses sous-traitants. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">4.2. Exigences relatives à la documentation <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">4.2.1. Généralités <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">4.2.2. Manuel qualité <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Si le domaine d'application du système de management de la qualité n'est pas limité à la production ou la réparation de SCF, il convient que la description des interactions entre les processus du système de management de la qualité permette de définir facilement les processus relatifs à ces systèmes. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">4.2.3. Maîtrise des documents <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">La réglementation applicable aux SCF fait partie des documents requis qui doivent être maîtrisés. Les documents de définition des SCF permettent d'assurer la conformité au type certifié, ils doivent être tenus à jour. L'évolution des documents de définition des SCF doit être soumise à l'accord préalable de l'organisme désigné pour l'examen de type, chaque fois que cette évolution concerne les caractéristiques et/ ou les performances et/ ou l'intégrité du système. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">4.2.4. Maîtrise des enregistrements <br/>
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">Cet archivage doit permettre d'identifier rapidement et sûrement les contrôles subis par le système ainsi que les résultats et sanctions de ces contrôles. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">Un registre relatif aux marques apposées sur les SCF à l'issue de la fabrication/ réparation sur les systèmes (nombre et identification) doit être tenu à jour. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">Les dossiers de qualification des logiciels et transferts de données doivent faire partie des enregistrements maîtrisés. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">Si des enregistrements sont effectués sous forme électronique, les logiciels et transferts de données relatifs à ces enregistrements doivent être qualifiés sous la responsabilité du fabricant/ réparateur. La durée de conservation des enregistrements relatifs à la qualité est d'au moins un an ; ils doivent être conservés d'un audit à l'autre. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5. Responsabilité de la direction <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">Les enregistrements des processus permettant d'établir la conformité des SCF au type certifié et aux dispositions qui les concernent, doivent être décrits dans les documents qualité et leur archivage doit être défini. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.1. Engagement de la direction <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.2. Ecoute client <br/>
-</td>
-<td align="center">Les autorités administratives en charge de la réglementation des SCF et l'organisme désigné sont à considérer comme faisant partie des clients. <br/>
+<td align="left" valign="top">
+<p align="left">Cet archivage doit permettre d'identifier rapidement et sûrement les contrôles subis par le système ainsi que les résultats et sanctions de ces contrôles. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.3. Politique qualité <br/>
-</td>
-<td align="center">La politique qualité doit notamment viser la conformité des SCF fabriqués ou réparés à toutes les exigences réglementaires qui leur sont applicables. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.4. Planification <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">Un registre relatif aux marques apposées sur les SCF à l'issue de la fabrication/ réparation sur les systèmes (nombre et identification) doit être tenu à jour. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.4.1. Objectifs qualité <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.4.2. Planification du système de management de la qualité <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Les dossiers de qualification des logiciels et transferts de données doivent faire partie des enregistrements maîtrisés. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.5. Responsabilité, autorité et communication <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.5.1. Responsabilité et autorité <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Si des enregistrements sont effectués sous forme électronique, les logiciels et transferts de données relatifs à ces enregistrements doivent être qualifiés sous la responsabilité du fabricant/ réparateur. La durée de conservation des enregistrements relatifs à la qualité est d'au moins un an ; ils doivent être conservés d'un audit à l'autre. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.5.2. Représentant de la direction <br/>
+<td align="left" valign="top">
+<p align="left">5. Responsabilité de la direction <br/>
+</p>
 </td>
-<td align="center">Ce représentant de la direction est également responsable de la définition et du suivi des processus d'achat ou d'approvisionnement, de conservation, d'apposition et de destruction des marques apposées sur les SCF. <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">5.1. Engagement de la direction <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.2. Ecoute client <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les autorités administratives en charge de la réglementation des SCF et l'organisme désigné sont à considérer comme faisant partie des clients. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.3. Politique qualité <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">La politique qualité doit notamment viser la conformité des SCF fabriqués ou réparés à toutes les exigences réglementaires qui leur sont applicables. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.4. Planification <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.4.1. Objectifs qualité <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.4.2. Planification du système de management de la qualité <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.5. Responsabilité, autorité et communication <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">5.5.1. Responsabilité et autorité <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="left">5.5.2. Représentant de la direction <br/>
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">Des procédures descriptives de ces processus doivent être établies. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">L'apposition de la marque de vérification primitive engage la responsabilité du fabricant/ réparateur. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">La même personne doit être nommément désignée responsable des relations courantes avec les autorités administratives en charge de la réglementation des SCF et l'organisme désigné. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.5.3. Communication interne <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Ce représentant de la direction est également responsable de la définition et du suivi des processus d'achat ou d'approvisionnement, de conservation, d'apposition et de destruction des marques apposées sur les SCF. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.6. Revue de direction <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.6.1. Généralités <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Des procédures descriptives de ces processus doivent être établies. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">5.6.2. Eléments d'entrée de la revue <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">5.6.3. Eléments de sortie de la revue <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">L'apposition de la marque de vérification primitive engage la responsabilité du fabricant/ réparateur. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">6. Management des ressources <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">6.1. Mise à disposition des ressources <br/>
-</td>
-<td align="center">Le fabricant ou le réparateur doit assurer que les ressources nécessaires à l'obtention de la conformité réglementaire des SCF sont disponibles en permanence. <br/>
+<td align="left" valign="top">
+<p align="left">La même personne doit être nommément désignée responsable des relations courantes avec les autorités administratives en charge de la réglementation des SCF et l'organisme désigné. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">6.2. Ressources humaines <br/>
+<td align="left" valign="top">
+<p align="left">5.5.3. Communication interne <br/>
+</p>
 </td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">6.2.1. Généralités <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">6.2.2. Compétence, sensibilisation et formation <br/>
+<td align="left" valign="top">
+<p align="left">5.6. Revue de direction <br/>
+</p>
 </td>
-<td align="center">Le personnel chargé du contrôle des SCF doit connaître les prescriptions réglementaires applicables à ces instruments et à leur contrôle. Sa compétence technique doit être assurée (enregistrement des formations initiales et continues et des qualifications). <br/>
-</td>
-</tr>
-<tr>
-<td align="center">6.3. Infrastructures <br/>
-</td>
-<td align="center">Lorsque certaines caractéristiques des infrastructures peuvent avoir une incidence sur la réalisation, la surveillance ou la mesure du produit, les conditions d'obtention de ces caractéristiques doivent être déterminées (qualification des infrastructures) et les enregistrements adéquats doivent être réalisés. <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">6.4. Environnement de travail <br/>
+<td align="left" valign="top">
+<p align="left">5.6.1. Généralités <br/>
+</p>
 </td>
-<td align="center">Ceci concerne en particulier l'obtention des paramètres d'environnement ayant une influence sur les mesures, comme les vibrations, les perturbations électromagnétiques, etc. Les enregistrements adéquats doivent être réalisés. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7. Réalisation du produit <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.1. Planification de la réalisation du produit <br/>
+<td align="left" valign="top">
+<p align="left">5.6.2. Eléments d'entrée de la revue <br/>
+</p>
 </td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.2. Processus relatifs aux clients <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.2.1. Détermination des exigences relatives au produit <br/>
+<td align="left" valign="top">
+<p align="left">5.6.3. Eléments de sortie de la revue <br/>
+</p>
 </td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.2.2. Revue des exigences relatives au produit <br/>
-</td>
-<td align="center">Les réglementations applicables aux SCF, leurs évolutions éventuelles, leurs modalités d'application et les procédures d'essais doivent faire partie de la revue. <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.2.3. Communication avec les clients <br/>
+<td align="left" valign="top">
+<p align="left">6. Management des ressources <br/>
+</p>
 </td>
-<td align="center">Le secret professionnel n'est pas opposable aux autorités administratives ni à l'organisme désigné, pour tout ce qui concerne directement ou indirectement les systèmes réglementés. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.3. Conception et développement <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.3.1. Planification de la conception et du développement <br/>
+<td align="left" valign="top">
+<p align="left">6.1. Mise à disposition des ressources <br/>
+</p>
 </td>
-<td align="center">Non obligatoire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.3.2. Eléments d'entrée de la conception et du développement <br/>
-</td>
-<td align="center">Non obligatoire. <br/>
+<td align="left" valign="top">
+<p align="left">Le fabricant ou le réparateur doit assurer que les ressources nécessaires à l'obtention de la conformité réglementaire des SCF sont disponibles en permanence. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.3.3. Eléments de sortie de la conception et du développement <br/>
+<td align="left" valign="top">
+<p align="left">6.2. Ressources humaines <br/>
+</p>
 </td>
-<td align="center">Non obligatoire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.3.4. Revue de la conception et du développement <br/>
-</td>
-<td align="center">Non obligatoire. <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.3.5. Vérification de la conception et du développement <br/>
+<td align="left" valign="top">
+<p align="left">6.2.1. Généralités <br/>
+</p>
 </td>
-<td align="center">Non obligatoire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.3.6. Validation de la conception et du développement <br/>
-</td>
-<td align="center">Non obligatoire. <br/>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.3.7. Maîtrise des modifications de la conception et du développement <br/>
+<td align="left" valign="top">
+<p align="left">6.2.2. Compétence, sensibilisation et formation <br/>
+</p>
 </td>
-<td align="center">Non obligatoire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.4. Achats <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">Le personnel chargé du contrôle des SCF doit connaître les prescriptions réglementaires applicables à ces instruments et à leur contrôle. Sa compétence technique doit être assurée (enregistrement des formations initiales et continues et des qualifications). <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.4.1. Processus d'achat <br/>
+<td align="left" valign="top">
+<p align="left">6.3. Infrastructures <br/>
+</p>
 </td>
-<td align="center">Chapitre applicable aux prestations, contrôles, essais, étalonnages et vérifications sous-traités, sans transfert aux sous-traitants de la responsabilité du fabricant ou réparateur des systèmes. <br/>
+<td align="left" valign="top">
+<p align="left">Lorsque certaines caractéristiques des infrastructures peuvent avoir une incidence sur la réalisation, la surveillance ou la mesure du produit, les conditions d'obtention de ces caractéristiques doivent être déterminées (qualification des infrastructures) et les enregistrements adéquats doivent être réalisés. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">6.4. Environnement de travail <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ceci concerne en particulier l'obtention des paramètres d'environnement ayant une influence sur les mesures, comme les vibrations, les perturbations électromagnétiques, etc. Les enregistrements adéquats doivent être réalisés. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7. Réalisation du produit <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.1. Planification de la réalisation du produit <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.2. Processus relatifs aux clients <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.2.1. Détermination des exigences relatives au produit <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.2.2. Revue des exigences relatives au produit <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les réglementations applicables aux SCF, leurs évolutions éventuelles, leurs modalités d'application et les procédures d'essais doivent faire partie de la revue. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.2.3. Communication avec les clients <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Le secret professionnel n'est pas opposable aux autorités administratives ni à l'organisme désigné, pour tout ce qui concerne directement ou indirectement les systèmes réglementés. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3. Conception et développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.1. Planification de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.2. Eléments d'entrée de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.3. Eléments de sortie de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.4. Revue de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.5. Vérification de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.6. Validation de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.3.7. Maîtrise des modifications de la conception et du développement <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Non obligatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.4. Achats <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">7.4.1. Processus d'achat <br/>
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">Les exigences d'achat spécifiées doivent inclure la conformité réglementaire au type lorsque les achats concernent des sous-ensembles de systèmes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.4.2. Informations relatives aux achats <br/>
-</td>
-<td align="center">Chapitre applicable aux contrôles, essais, étalonnages et vérifications externes. Pour ce qui concerne les sous-ensembles d'instrument, les informations relatives aux achats doivent comprendre la conformité réglementaire. <br/>
+<td align="left" valign="top">
+<p align="left">Chapitre applicable aux prestations, contrôles, essais, étalonnages et vérifications sous-traités, sans transfert aux sous-traitants de la responsabilité du fabricant ou réparateur des systèmes. </p>
 </td>
 </tr>
 <tr>
-<td align="center">7.4.3. Vérification du produit acheté <br/>
-</td>
-<td align="center">L'existence d'une certification de produit ne dispense pas d'un contrôle de réception si le produit approvisionné revêt une importance particulière pour la qualité des systèmes fabriqués ou réparés et ceux pour lesquels la conformité réglementaire a été demandée. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.5. Production et préparation du service <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">Les exigences d'achat spécifiées doivent inclure la conformité réglementaire au type lorsque les achats concernent des sous-ensembles de systèmes. </p>
 </td>
 </tr>
 <tr>
-<td align="center">7.5.1. Maîtrise de la production et de la préparation du service <br/>
+<td align="left" valign="top">
+<p align="left">7.4.2. Informations relatives aux achats <br/>
+</p>
 </td>
-<td align="center">Il doit exister des procédures écrites définissant de façon claire les activités de fabrication ou réparation, de contrôles et de vérifications ainsi que les équipements utilisés et les personnels impliqués. <br/>
+<td align="left" valign="top">
+<p align="left">Chapitre applicable aux contrôles, essais, étalonnages et vérifications externes. Pour ce qui concerne les sous-ensembles d'instrument, les informations relatives aux achats doivent comprendre la conformité réglementaire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">7.4.3. Vérification du produit acheté <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">L'existence d'une certification de produit ne dispense pas d'un contrôle de réception si le produit approvisionné revêt une importance particulière pour la qualité des systèmes fabriqués ou réparés et ceux pour lesquels la conformité réglementaire a été demandée. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.5. Production et préparation du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">7.5.1. Maîtrise de la production et de la préparation du service <br/>
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">La fourniture des documents nécessaires au bon fonctionnement des SCF et au maintien de leur conformité (mode d'emploi, etc.) doivent faire partie du service. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.5.1. f <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Il doit exister des procédures écrites définissant de façon claire les activités de fabrication ou réparation, de contrôles et de vérifications ainsi que les équipements utilisés et les personnels impliqués. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.5.2. Validation des processus de production et de préparation du service <br/>
-</td>
-<td align="center">Le fabricant/ réparateur doit, en particulier, valider tous les processus de production qui comprennent la mise en œuvre d'un logiciel, et réviser périodiquement cette validation en tenant compte des éléments issus de ses processus de surveillance, de mesure et d'analyse. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.5.3. Identification et traçabilité <br/>
-</td>
-<td align="center">Des procédures doivent être appliquées à chaque système produit/ réparé. <br/>Des processus documentés doivent permettre, a posteriori, pour tout système susceptible d'être prélevé en cours ou en fin de fabrication/ réparation, de déterminer : <br/>― son identification (certificat d'homologation ou documents de définition du type certifié et enregistrements pour démontrer la conformité à ce type, y compris pour ce qui concerne les logiciels implantés dans les systèmes) ; <br/>
+<td align="left" valign="top">
+<p align="left">La fourniture des documents nécessaires au bon fonctionnement des SCF et au maintien de leur conformité (mode d'emploi, etc.) doivent faire partie du service. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">7.5.1. f <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.5.2. Validation des processus de production et de préparation du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Le fabricant/ réparateur doit, en particulier, valider tous les processus de production qui comprennent la mise en œuvre d'un logiciel, et réviser périodiquement cette validation en tenant compte des éléments issus de ses processus de surveillance, de mesure et d'analyse. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">7.5.3. Identification et traçabilité <br/>
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">― sa composition (notamment origine des éléments sous-traités) ; <br/>― les contrôles qu'il a subis ; <br/>― et les sanctions de ces contrôles. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.5.4. Propriété du client <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Des procédures doivent être appliquées à chaque système produit/ réparé. <br/>Des processus documentés doivent permettre, a posteriori, pour tout système susceptible d'être prélevé en cours ou en fin de fabrication/ réparation, de déterminer : <br/>― son identification (certificat d'homologation ou documents de définition du type certifié et enregistrements pour démontrer la conformité à ce type, y compris pour ce qui concerne les logiciels implantés dans les systèmes) ; <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">7.5.5. Préservation du produit <br/>
-</td>
-<td align="center">Les conditions particulières de stockage devront être définies en relation étroite avec l'analyse des points sensibles pour la qualité finale des instruments fabriqués/ réparés. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">7.6. Maîtrise des dispositifs de surveillance et de mesure <br/>
-</td>
-<td align="center">La norme NF EN ISO 10 012 constitue le référentiel pour la gestion de la fonction métrologique du fabricant/ réparateur. <br/>De plus, pour les moyens de contrôles finals, la mise en œuvre de l'une des deux possibilités suivantes est obligatoire, au choix du fabricant/ réparateur : <br/>― raccordement direct de ces moyens par un laboratoire accrédité par le COFRAC ― étalonnage ou par un signataire de l'accord EA, avec des incertitudes spécifiées par le fabricant et compatibles avec les incertitudes globales d'utilisation de ces moyens (la capabilité souhaitée pour ces moyens doit être définie) ; <br/>
+<td align="left" valign="top">
+<p align="left">― sa composition (notamment origine des éléments sous-traités) ; <br/>― les contrôles qu'il a subis ; <br/>― et les sanctions de ces contrôles. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">7.5.4. Propriété du client <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.5.5. Préservation du produit <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les conditions particulières de stockage devront être définies en relation étroite avec l'analyse des points sensibles pour la qualité finale des instruments fabriqués/ réparés. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="left">7.6. Maîtrise des dispositifs de surveillance et de mesure <br/>
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">― raccordement des étalons de référence du fabricant par un laboratoire accrédité par le COFRAC ― étalonnage ou par un signataire de l'accord EA, avec des incertitudes spécifiées par le fabricant, puis raccordement en interne des moyens de contrôles finals, et des incertitudes estimées par le fabricant, compatibles avec les incertitudes globales d'utilisation de ces moyens (la capabilité souhaitée pour ces moyens doit être définie). <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
-</td>
-<td align="center">Dans les domaines de mesure où il n'existe pas de chaîne d'étalonnage COFRAC, le raccordement doit apporter une confiance dans les mesurages en établissant la traçabilité à des étalons de mesure appropriés tels que l'utilisation de méthodes spécifiées et/ ou d'étalons consensuels qui doivent être clairement décrits et validés par des intercomparaisons avec les moyens de laboratoires reconnus au plan national. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">Tous les logiciels et transferts de données utilisés pour le pilotage et/ ou l'exploitation des contrôles et des mesures doivent faire l'objet d'une qualification initiale puis périodique programmée. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">8. Mesures, analyse et amélioration <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">La norme NF EN ISO 10 012 constitue le référentiel pour la gestion de la fonction métrologique du fabricant/ réparateur. <br/>De plus, pour les moyens de contrôles finals, la mise en œuvre de l'une des deux possibilités suivantes est obligatoire, au choix du fabricant/ réparateur : <br/>― raccordement direct de ces moyens par un laboratoire accrédité par le COFRAC ― étalonnage ou par un signataire de l'accord EA, avec des incertitudes spécifiées par le fabricant et compatibles avec les incertitudes globales d'utilisation de ces moyens (la capabilité souhaitée pour ces moyens doit être définie) ; <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.1. Généralités <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">8.2. Surveillance et mesures <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
+<td align="left" valign="top">
+<p align="left">― raccordement des étalons de référence du fabricant par un laboratoire accrédité par le COFRAC ― étalonnage ou par un signataire de l'accord EA, avec des incertitudes spécifiées par le fabricant, puis raccordement en interne des moyens de contrôles finals, et des incertitudes estimées par le fabricant, compatibles avec les incertitudes globales d'utilisation de ces moyens (la capabilité souhaitée pour ces moyens doit être définie). <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.2.1. Satisfaction du client <br/>
-</td>
-<td align="center">Au titre de la surveillance des informations relatives à la satisfaction du client, le fabricant/ réparateur devrait mettre en œuvre des méthodes permettant d'obtenir des informations de la part des installateurs, réparateurs et vérificateurs. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">8.2.2. Audit interne <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Dans les domaines de mesure où il n'existe pas de chaîne d'étalonnage COFRAC, le raccordement doit apporter une confiance dans les mesurages en établissant la traçabilité à des étalons de mesure appropriés tels que l'utilisation de méthodes spécifiées et/ ou d'étalons consensuels qui doivent être clairement décrits et validés par des intercomparaisons avec les moyens de laboratoires reconnus au plan national. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.2.3. Surveillance et mesures des processus <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">8.2.4. Surveillance et mesure du produit <br/>
-</td>
-<td align="center">Les procédures de contrôles finals et leurs modifications sont soumise à l'accord préalable de l'organisme désigné. <br/>
+<td align="left" valign="top">
+<p align="left">Tous les logiciels et transferts de données utilisés pour le pilotage et/ ou l'exploitation des contrôles et des mesures doivent faire l'objet d'une qualification initiale puis périodique programmée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.3. Maîtrise du produit non conforme <br/>
+<td align="left" valign="top">
+<p align="left">8. Mesures, analyse et amélioration <br/>
+</p>
 </td>
-<td align="center">Il ne peut exister aucune dérogation aux critères réglementaires applicables aux SCF. <br/>Le fabricant doit tenir à jour un enregistrement des suites données au refus en contrôle final d'un système. <br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">8.1. Généralités <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.2. Surveillance et mesures <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.2.1. Satisfaction du client <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Au titre de la surveillance des informations relatives à la satisfaction du client, le fabricant/ réparateur devrait mettre en œuvre des méthodes permettant d'obtenir des informations de la part des installateurs, réparateurs et vérificateurs. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.2.2. Audit interne <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.2.3. Surveillance et mesures des processus <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.2.4. Surveillance et mesure du produit <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les procédures de contrôles finals et leurs modifications sont soumise à l'accord préalable de l'organisme désigné. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">8.3. Maîtrise du produit non conforme <br/>
+</p>
+<p align="left">
 <br/>
+</p>
 </td>
-<td align="center">Les processus de correction d'un système non conforme doivent être définis. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">8.4. Analyse des données <br/>
-</td>
-<td align="center">L'utilisation des normes de la statistique est recommandée. Cette utilisation ne dispense pas d'une claire définition des critères de refus et de l'accord préalable de l'organisme désigné. <br/>
+<td align="left" valign="top">
+<p align="left">Il ne peut exister aucune dérogation aux critères réglementaires applicables aux SCF. <br/>Le fabricant doit tenir à jour un enregistrement des suites données au refus en contrôle final d'un système. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.5. Amélioration <br/>
-</td>
-<td align="center">(titre uniquement) <br/>
-</td>
-</tr>
-<tr>
-<td align="center">8.5.1. Amélioration continue <br/>
-</td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">Les processus de correction d'un système non conforme doivent être définis. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.5.2. Action corrective <br/>
+<td align="left" valign="top">
+<p align="left">8.4. Analyse des données <br/>
+</p>
 </td>
-<td align="center">Applicable sans exigence complémentaire. <br/>
+<td align="left" valign="top">
+<p align="left">L'utilisation des normes de la statistique est recommandée. Cette utilisation ne dispense pas d'une claire définition des critères de refus et de l'accord préalable de l'organisme désigné. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">8.5.3. Action préventive <br/>
+<td align="left" valign="top">
+<p align="left">8.5. Amélioration <br/>
+</p>
 </td>
-<td align="center">Applicable sans exigence complémentaire.<br/>
+<td align="left" valign="top">
+<p align="left">(titre uniquement) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.5.1. Amélioration continue <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.5.2. Action corrective <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.5.3. Action préventive <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Applicable sans exigence complémentaire.<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
