@@ -1,4 +1,4 @@
-# Arrêté du 5 mai 2009 fixant les modalités d'identification et de traçabilité des produits explosifs à usage civil
+# Arrêté du 19 mars 2012 fixant pour l'année 2012 la répartition budgétaire pour la mesure d'aide à l'importation d'animaux vivants pour les départements d'outre-mer
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,6 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Annexe](annexe)
