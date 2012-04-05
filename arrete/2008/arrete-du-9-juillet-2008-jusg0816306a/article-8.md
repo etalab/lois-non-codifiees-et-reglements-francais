@@ -4,6 +4,8 @@ La sous-direction de la synthèse budgétaire et comptable anime et coordonne, d
 
 Elle pilote et anime la politique d'achat du ministère de la justice, en établissant une stratégie ministérielle, en coordonnant, en liaison avec les instances compétentes et les directions et services du ministère, les actions à conduire.
 
+Elle coordonne la passation des marchés d'administration centrale en lien avec les services gestionnaires et passe les marchés du programme "conduite et pilotage de la politique de la justice" en cohérence avec la politique ministérielle d'achat.
+
 Elle anime et coordonne le contrôle interne comptable du ministère et diffuse les normes comptables transmises par le ministère chargé du budget et de la comptabilité publique. Elle assure le pilotage, l'harmonisation et la synthèse du contrôle de gestion des programmes.
 
 Elle participe à la conception, au déploiement et aux évolutions des systèmes d'information budgétaires, financiers et comptables et assure la représentation du ministère dans les instances interministérielles relevant de cette compétence.
@@ -12,6 +14,10 @@ Elle assure la tutelle des établissements publics et organismes rattachés au s
 
 La sous-direction de la synthèse budgétaire et comptable comprend :
 
-― le bureau de la stratégie et de la programmation budgétaire ;
+- le bureau de la stratégie et de la programmation budgétaire ;
 
-― le bureau du suivi budgétaire et du contrôle interne comptable.
+- le bureau du contrôle de gestion et de la qualité comptable ;
+
+- la mission achats ;
+
+- la mission "Chorus et centres de services partagés interrégionaux".

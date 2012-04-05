@@ -1,6 +1,6 @@
 # Article 16
 
-Les antennes régionales du système d'information et des télécommunications apportent assistance et soutien aux juridictions et services déconcentrés. A ce titre, elles :
+Les départements de l'informatique et des télécommunications des plates-formes interrégionales du ministère de la justice apportent assistance et soutien aux juridictions et aux services déconcentrés. A ce titre, ils :
 
 ― conseillent les juridictions et services déconcentrés du ministère, en particulier dans le domaine des réseaux locaux, des moyens de télécommunication, des expérimentations pilotées au plan national ou de l'assistance à l'industrialisation locale des travaux autour du poste de travail ;
 

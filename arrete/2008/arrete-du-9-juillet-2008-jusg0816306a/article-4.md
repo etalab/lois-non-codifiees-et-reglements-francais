@@ -12,4 +12,4 @@ Le bureau des politiques ministérielles :
 
 ― assure le pilotage du réseau des cellules de gestion personnalisée des carrières ;
 
-― définit, pilote et met en œuvre la politique de formation professionnelle du ministère, en collaboration avec les services en charge de la formation au sein de chaque direction.
+― définit, pilote et met en œuvre la politique de formation professionnelle du ministère, en collaboration avec les services en charge de la formation au sein de chaque direction et avec les départements des ressources humaines et de l'action sociale des plates-formes interrégionales du ministère de la justice.

@@ -12,4 +12,6 @@ d) Le service des affaires européennes et internationales ;
 
 e) Le service de l'accès au droit et à la justice et de l'aide aux victimes ;
 
-f) La délégation aux interceptions judiciaires.
+f) La délégation aux interceptions judiciaires ;
+
+g) Les plates-formes interrégionales du ministère de la justice.

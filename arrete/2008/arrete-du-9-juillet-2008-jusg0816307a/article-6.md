@@ -1,6 +1,6 @@
 # Article 6
 
-Les antennes régionales de l'équipement apportent assistance et soutien aux juridictions et services déconcentrés. A ce titre, elles :
+Les départements de l'immobilier des plates-formes interrégionales du ministère de la justice apportent assistance et soutien aux juridictions et aux services déconcentrés. A ce titre, ils :
 
 ― assurent le pilotage des opérations d'investissement immobilier qui leur sont confiées et rendent compte de leur avancement ;
 

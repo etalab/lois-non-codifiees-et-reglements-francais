@@ -1,12 +1,12 @@
 # Article 10
 
-Le bureau du suivi budgétaire et du contrôle interne comptable :
+Le bureau du contrôle de gestion et de la qualité comptable :
 
 ― anime et coordonne le contrôle interne comptable du ministère ;
 
 ― diffuse les normes comptables transmises par le ministère chargé du budget et de la comptabilité publique ;
 
-― assure le pilotage, l'harmonisation et la synthèse de la politique ministérielle des achats et du contrôle de gestion des programmes ;
+― assure le pilotage, l'harmonisation et la synthèse du contrôle de gestion des différents programmes de la mission "justice" ;
 
 ― participe à la conception, au déploiement et aux évolutions des systèmes d'information comptables ;
 

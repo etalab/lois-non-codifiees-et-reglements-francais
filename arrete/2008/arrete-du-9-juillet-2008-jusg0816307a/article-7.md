@@ -18,7 +18,7 @@ Elle gère l'exploitation des systèmes informatiques non autonomes et apporte s
 
 Elle travaille en étroite relation avec les organes de gouvernance du système d'information et de télécommunication du ministère et représente celui-ci vis-à-vis des organismes interministériels, européens et internationaux compétents en matière de systèmes d'information et de réseaux de télécommunication.
 
-Dans la conduite de ses missions, elle dispose des antennes régionales du système d'information et des télécommunications.
+Dans la conduite de ses missions, elle dispose des départements de l'informatique et des télécommunications des plates-formes interrégionales du ministère de la justice.
 
 La sous-direction de l'informatique et des télécommunications comprend :
 
@@ -30,4 +30,4 @@ La sous-direction de l'informatique et des télécommunications comprend :
 
 ― le département de l'administration et de la valorisation des ressources.
 
-Le sous-directeur est assisté d'un adjoint. Des chargés de mission (adjoints fonctionnels) assurent la coordination et garantissent la transversalité de l'action de la sous-direction vis-à-vis des services utilisateurs du système d'information justice.
+Le sous-directeur est assisté d'un adjoint. Des chargés de mission (adjoints fonctionnels) assurent la coordination et garantissent la transversalité de l'action de la sous-direction vis-à-vis des services utilisateurs du système d'information justice. Le sous-directeur conserve sous son autorité directe le domaine de la qualité, de la méthodologie et du contrôle de gestion.

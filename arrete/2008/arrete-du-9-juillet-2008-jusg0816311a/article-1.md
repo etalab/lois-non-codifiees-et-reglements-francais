@@ -6,7 +6,7 @@ a) Le département des ressources humaines ;
 
 b) Le département de l'information et de la communication ;
 
-c) Le département de la programmation budgétaire, des achats et de la comptabilité ;
+c) Le département de la programmation budgétaire et de la comptabilité ;
 
 d) Le département des moyens généraux ;
 
