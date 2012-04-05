@@ -1,13 +1,9 @@
 # Article 1
 
-Domaine d'application.
+Champ d'application.
 
-En application des dispositions des articles 3, 5, 6 et 7 du décret susvisé, le présent arrêté fixe, pour les produits soumis aux dispositions de ces articles :
+En application des dispositions des articles R. 2352-22, R. 2352-81, R. 2352-82 et R. 2352-87 du code de la défense, le présent arrêté fixe les modalités d'établissement des autorisations d'utilisation dès réception et la procédure des habilitations à l'emploi des produits explosifs qui n'en sont pas exemptés conformément aux articles cités ci-dessus, en vue d'éviter qu'ils ne notent détournés de leur utilisation normale.
 
-Les modalités de délivrance de l'autorisation de transport, d'établissement et d'utilisation des titres d'accompagnement.
+Les masses mentionnées dans le présent arrêté correspondent à la quantité nette de matières explosives contenue dans les emballages et conditionnement.
 
-Les conditions de transports.
-
-Les masses mentionnées dans le présent arrêté correspondent à la quantité nette de matière explosive contenue dans les emballages et conditionnements.
-
-Les produits explosifs sont désignés par "explosifs" dans les articles ci-dessous.
+Les produits explosifs sont désignés par " explosifs " dans les articles ci-dessous.

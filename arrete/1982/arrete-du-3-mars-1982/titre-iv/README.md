@@ -1,4 +1,4 @@
-# Titre IV : Conditions de transport
+# Titre IV : Utilisation dans des cas particuliers.
 
 - [Section 1 : Conditions générales.](section-1)
 - [Section 2 : Transport des explosifs.](section-2)
