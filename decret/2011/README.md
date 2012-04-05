@@ -9,7 +9,6 @@
 - [Décret n°2011-1047 du 2 septembre 2011 (SCSA1030095D)](decret-n2011-1047-du-2-septembre-2011-scsa1030095d)
 - [Décret n°2011-1421 du 2 novembre 2011 (ETSD1127577D)](decret-n2011-1421-du-2-novembre-2011-etsd1127577d)
 - [Décret n°2011-1425 du 2 novembre 2011 (PRMX1118649D)](decret-n2011-1425-du-2-novembre-2011-prmx1118649d)
-- [Décret n°2011-1426 du 2 novembre 2011 (DEVX1129293D)](decret-n2011-1426-du-2-novembre-2011-devx1129293d)
 - [Décret n°2011-1427 du 2 novembre 2011 (ETSD1123446D)](decret-n2011-1427-du-2-novembre-2011-etsd1123446d)
 - [Décret n°2011-1712 du 2 décembre 2011 (DEFH1131912D)](decret-n2011-1712-du-2-decembre-2011-defh1131912d)
 - [Décret n°2011-1715 du 2 décembre 2011 (ETSP1127575D)](decret-n2011-1715-du-2-decembre-2011-etsp1127575d)
