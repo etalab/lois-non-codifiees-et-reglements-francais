@@ -1,15 +1,13 @@
 # Article 4
 
-Le transit des bateaux par la mer entre l'accès nord du port du Havre et Port 2000 est interdit lorsque l'une au moins des conditions suivantes n'est pas remplie :
+Le transit des bateaux par la mer entre l'accès nord du port du Havre et Port 2000 est interdit lorsque l'une au moins des circonstances suivantes est rencontrée :
 
-- hauteur de houle maximale : 1,20 mètre ;
+1° Hauteur de houle significative H1/3 supérieure ou égale à 1,20 mètre ;
 
-- vitesse du vent maximale : 21 noeuds ;
+2° Vitesse maximale du vent (rafales) supérieure ou égale à 21 nœuds ;
 
-- visibilité à partir du bateau minimale : 2 milles nautiques ;
+3° Visibilité à partir du bateau inférieure à 2 milles nautiques.
 
-- visibilité totale des deux chenaux d'accès au port, à partir de la vigie du port.
+L'entrée effective du bateau dans la zone exposée, entre l'accès nord du port du Havre et Port 2000, à l'extérieur des limites administratives du grand port maritime du Havre, est subordonnée à l'état réel des conditions nautiques à l'instant considéré, telles que mentionnées ci-dessus.
 
-L'entrée effective du bateau dans la zone exposée est subordonnée, d'une part, à l'autorisation de l'autorité investie du pouvoir de police portuaire du port du Havre, en application du code des ports maritimes, et notamment de son article L. 302-6, et, d'autre part, à l'état réel des conditions nautiques à l'instant considéré, telles que mentionnées ci-dessus.
-
-Le trajet en mer doit être réalisé d'une seule traite, sans mouillage.
+Le trajet en mer doit être réalisé d'une seule traite et sans mouillage, sauf cas de force majeure.
