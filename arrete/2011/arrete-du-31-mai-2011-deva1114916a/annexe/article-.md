@@ -4,164 +4,166 @@ LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 Jusqu'au 30 septembre 2016
 
-Lyon―Sétif (Algérie).
+Lyon-Sétif (Algérie).
 
-Marseille―Chlef (Algérie).
+Marseille-Chlef (Algérie).
 
-Marseille―Sétif (Algérie).
+Marseille-Sétif (Algérie).
 
-Paris―Sétif (Algérie).
+Paris-Sétif (Algérie).
 
-Jusqu'au 1er mars 2012
+Jusqu'au 1er mars 2012 :
 
-Paris―Biskra (Algérie).
+Paris-Fès (Maroc) ;
 
-Paris―Fès (Maroc).
+Paris-Rabat (Maroc) ;
 
-Paris―Rabat (Maroc).
+Paris-Tanger (Maroc).
 
-Paris―Tanger (Maroc).
+Jusqu'au 1er mars 2017 :
+
+Paris-Biskra (Algérie).
 
 Jusqu'au 1er mai 2012
 
-Marseille―Praia (Cap-Vert).
+Marseille-Praia (Cap-Vert).
 
-Marseille―Sal (Cap-Vert).
+Marseille-Sal (Cap-Vert).
 
 Jusqu'au 30 septembre 2012
 
-Marseille―Bamako (Mali).
+Marseille-Bamako (Mali).
 
-Paris―Bamako (Mali).
+Paris-Bamako (Mali).
 
 Jusqu'au 31 décembre 2012
 
-Lyon―Oujda (Maroc).
+Lyon-Oujda (Maroc).
 
 Jusqu'au 31 mars 2013
 
-Lille―Alger (Algérie).
+Lille-Alger (Algérie).
 
-Lyon―Alger (Algérie).
+Lyon-Alger (Algérie).
 
-Lyon―Constantine (Algérie).
+Lyon-Constantine (Algérie).
 
-Mulhouse―Sétif (Algérie).
+Mulhouse-Sétif (Algérie).
 
-Paris―Alger (Algérie).
+Paris-Alger (Algérie).
 
-Paris―Annaba (Algérie).
+Paris-Annaba (Algérie).
 
-Paris―Béjaïa (Algérie).
+Paris-Béjaïa (Algérie).
 
-Paris―Constantine (Algérie).
+Paris-Constantine (Algérie).
 
-Paris―Djanet (Algérie).
+Paris-Djanet (Algérie).
 
-Paris―Oran (Algérie).
+Paris-Oran (Algérie).
 
-Paris―Tamanghasset (Algérie).
+Paris-Tamanghasset (Algérie).
 
-Paris―Tlemcen (Algérie).
+Paris-Tlemcen (Algérie).
 
 Jusqu'au 31 octobre 2013
 
-Lyon―Oran (Algérie).
+Lyon-Oran (Algérie).
 
-Marseille―Constantine (Algérie).
+Marseille-Constantine (Algérie).
 
-Marseille―Oran (Algérie).
+Marseille-Oran (Algérie).
 
-Mulhouse―Alger (Algérie).
+Mulhouse-Alger (Algérie).
 
-Mulhouse―Constantine (Algérie).
+Mulhouse-Constantine (Algérie).
 
-Paris―Hassi Messaoud (Algérie).
+Paris-Hassi Messaoud (Algérie).
 
-Toulouse―Alger (Algérie).
+Toulouse-Alger (Algérie).
 
-Toulouse―Oran (Algérie).
+Toulouse-Oran (Algérie).
 
 Jusqu'au 31 janvier 2014
 
-Lille―Oran (Algérie).
+Lille-Oran (Algérie).
 
-Paris―Abidjan (Côte d'Ivoire).
+Paris-Abidjan (Côte d'Ivoire).
 
 Jusqu'au 31 mai 2014
 
-Paris―Beyrouth (Liban).
+Paris-Beyrouth (Liban).
 
 Jusqu'au 30 novembre 2014
 
-Lyon―Béjaïa (Algérie).
+Lyon-Béjaïa (Algérie).
 
-Marseille―Tlemcen (Algérie).
+Marseille-Tlemcen (Algérie).
 
 Jusqu'au 31 décembre 2014
 
-Lille―Béjaïa (Algérie).
+Lille-Béjaïa (Algérie).
 
-Lille―Sétif (Algérie).
+Lille-Sétif (Algérie).
 
-Lille―Tlemcen (Algérie).
+Lille-Tlemcen (Algérie).
 
-Lyon―Tlemcen (Algérie).
+Lyon-Tlemcen (Algérie).
 
-Mulhouse―Oran (Algérie).
+Mulhouse-Oran (Algérie).
 
 Jusqu'au 1er mars 2015
 
-Paris―Agadir (Maroc).
+Paris-Agadir (Maroc).
 
-Paris―Djerba (Tunisie).
+Paris-Djerba (Tunisie).
 
-Paris―Monastir (Tunisie).
+Paris-Monastir (Tunisie).
 
 Jusqu'au 15 mars 2015
 
-Paris―Dakar (Sénégal).
+Paris-Dakar (Sénégal).
 
 Jusqu'au 31 août 2015
 
-Paris―Batna (Algérie).
+Paris-Batna (Algérie).
 
 Jusqu'au 1er octobre 2015
 
-Mulhouse―Béjaïa (Algérie).
+Mulhouse-Béjaïa (Algérie).
 
 Jusqu'au 15 octobre 2015
 
-Paris―Bagdad (Irak).
+Paris-Bagdad (Irak).
 
 Jusqu'au 31 décembre 2015
 
-Bordeaux―Alger (Algérie).
+Bordeaux-Alger (Algérie).
 
-Marseille―Annaba (Algérie).
+Marseille-Annaba (Algérie).
 
-Marseille―Béjaïa (Algérie).
+Marseille-Béjaïa (Algérie).
 
-Nice―Alger (Algérie).
+Nice-Alger (Algérie).
 
-Paris―Ouagadougou (Burkina Faso).
+Paris-Ouagadougou (Burkina Faso).
 
 Jusqu'au 30 avril 2016
 
-Marseille―Alger (Algérie).
+Marseille-Alger (Algérie).
 
 Jusqu'au 31 mai 2016
 
-Paris―Tunis (Tunisie).
+Paris-Tunis (Tunisie).
 
 Jusqu'au 20 novembre 2016 :
 
-Paris―Kayes (Mali)
+Paris-Kayes (Mali)
 
 Jusqu'au 6 janvier 2017 :
 
-Paris―Tripoli (Libye).
+Paris-Tripoli (Libye).
 
 Jusqu'au 23 février 2017 :
 
-Strasbourg ― Alger (Algérie).
+Strasbourg - Alger (Algérie).
