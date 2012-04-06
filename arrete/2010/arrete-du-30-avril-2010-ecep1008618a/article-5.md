@@ -1,29 +1,41 @@
 # Article 5
 
-I. ― La sous-direction des ressources humaines de l'administration centrale assure la gestion des personnels appartenant aux corps d'administration centrale et celle des personnels non titulaires de l'administration centrale ; elle détermine le volume des recrutements. Elle assure ou participe à la gestion d'autres personnels. Sous réserve des attributions de la délégation à l'encadrement supérieur, elle élabore la politique de formation pour l'administration centrale, anime et coordonne les travaux de gestion prévisionnelle des emplois, des effectifs et des compétences pour les personnels dont elle assure la gestion et définit, dans son champ de compétence, les règles générales de gestion en veillant à leur respect par les directions et services. Elle favorise les évolutions professionnelles des agents.
+I. - La sous-direction de la gestion des personnels et des parcours professionnels assure la gestion des personnels relevant des corps et emplois d'administration centrale et celle des agents contractuels recrutés par la direction ; elle détermine la nature et le volume des recrutements. Elle gère ou participe à la gestion d'autres personnels ; la liste des services, corps et emplois concernés est fixée par les annexes 1 et 2 de l'arrêté portant création d'un centre de services des ressources humaines au sein du secrétariat général des ministères économique et financier. Sous réserve des attributions de la délégation à l'encadrement supérieur, elle élabore la politique de formation pour l'administration centrale, anime et coordonne les travaux de gestion prévisionnelle des emplois, des effectifs et des compétences pour les personnels appartenant aux corps d'administration centrale, pour les personnels relevant de l'annexe 1 précitée et les agents contractuels recrutés par la direction et définit, dans son champ de compétence, les règles générales de gestion en veillant à leur respect par les directions et services. Elle favorise les évolutions professionnelles des agents.
 
-II. ― La sous-direction comprend :
+II. - La sous-direction de la gestion des personnels et des parcours professionnels comprend :
 
-Le bureau  cadres supérieurs
+Le bureau du recrutement et de la valorisation
 
-Il assure la gestion administrative de l'encadrement supérieur.
+des cadres supérieurs et des contractuels
 
-Le bureau  personnels de catégorie A et personnels non titulaires
+Il est chargé du pilotage des corps et emplois et de la valorisation des compétences des administrateurs civils et administrateurs financiers de la Caisse nationale de crédit agricole, des membres du corps du contrôle général économique et financier et des titulaires de l'emploi de chef de mission de contrôle, des titulaires des emplois de direction et des agents contractuels recrutés par la direction. Il est chargé de développer une gestion prévisionnelle et individualisée de ces personnels. Il participe à la gestion de grands corps techniques. Il est en charge du suivi des experts nationaux détachés mis à disposition des institutions européennes par les ministères économique et financier.
 
-Il assure la gestion des personnels de catégorie A, administratifs et techniques, et des personnels non titulaires de l'administration centrale. Il est chargé de développer une gestion individualisée de ces personnels. Il participe à l'élaboration de la politique de rémunération. Il est chargé des questions relatives à la discipline de l'ensemble des personnels titulaires et non titulaires gérés par la sous-direction.
+Le bureau du recrutement et de la valorisation
 
-Le bureau  personnels de catégories B et C et évaluation
+des personnels de catégories A, B et C
 
-Il assure la gestion des personnels des catégories B et C, administratifs et techniques, de l'administration centrale. Il est chargé de développer une gestion individualisée de ces personnels. Il conçoit les procédures d'évaluation de l'ensemble des agents, à l'exception de l'encadrement supérieur et dirigeant, et en suit l'application.
+Il est chargé du pilotage des corps et emplois et de la valorisation des compétences des personnels de catégories A, B et C, administratifs et techniques, de l'administration centrale ainsi que de ceux mentionnés à l'annexe 1 précitée, exception faite de ceux relevant du précédent bureau. Il est chargé de développer une gestion prévisionnelle et individualisée de ces personnels.
 
-Le bureau  politique de l'emploi et développement des ressources humaines
+Le bureau du pilotage
 
-Il conçoit la politique d'emploi en administration centrale et veille à sa mise en œuvre, en relation avec les gestionnaires des personnels. Il anime et coordonne les travaux de gestion prévisionnelle des emplois, des effectifs et des compétences pour les personnels dont la sous-direction assure la gestion. Il organise les concours et examens professionnels pour l'administration centrale et, le cas échéant, pour le compte d'autres directions et services des ministères. Il coordonne les questions relatives à l'organisation du travail des personnels en fonction à l'administration centrale. Il anime le réseau des gestionnaires de ressources humaines d'administration centrale.
+et de la gouvernance des ressources humaines
 
-Le bureau  rémunérations et affaires communes
+Pour le compte de l'ensemble de la direction, il assure la gestion de proximité des personnels, assure le suivi des effectifs et de la masse salariale, est chargé du contrôle de gestion en matière de gestion des ressources humaines et suit les questions relatives au cadre de vie et à la qualité de vie au travail.
 
-Il prépare les rémunérations des personnels relevant de l'administration centrale. Il est chargé de l'élaboration et du suivi de la masse salariale et de la dotation en emplois du programme budgétaire où sont inscrits les moyens du secrétariat général, et apporte son appui aux directions et services d'administration centrale dans ce domaine. Il suit les effectifs des corps dont la sous-direction assure la gestion. Il traite des questions de retraite. Il instruit les dossiers relatifs à la médecine de contrôle ainsi qu'aux accidents de service. Il assure la tenue des dossiers administratifs.
+Pour le compte de la sous-direction, il est chargé de l'informatique, de la logistique et de la bureautique et suit les questions relatives à la qualité de service.
 
-La mission  suivi personnalisé et parcours professionnels
+Le bureau des concours,
+
+du développement des ressources humaines et de la formation
+
+Il conçoit la politique d'emploi en administration centrale et veille à sa mise en œuvre, en relation avec les gestionnaires des personnels. Il organise les concours et examens professionnels pour l'administration centrale et, le cas échéant, pour le compte d'autres directions et services des ministères. Il vise à optimiser et à favoriser le développement d'une gestion qualitative des ressources humaines et de la formation professionnelle. Dans ce cadre, il anime et coordonne les travaux de gestion prévisionnelle des emplois, des effectifs et des compétences pour les personnels appartenant aux corps d'administration centrale, pour les personnels relevant de l'annexe 1 précitée et les agents contractuels recrutés par la direction. Il coordonne également les questions relatives à l'organisation du travail et à la qualité de vie au travail des personnels en fonction à l'administration centrale. Il anime le réseau des correspondants de gestion des ressources humaines d'administration centrale.
+
+Le centre de services des ressources humaines
+
+Il assure la gestion administrative et prépare les rémunérations pour les personnels relevant des corps et emplois d'administration centrale ainsi que pour d'autres catégories de personnels.
+
+L'arrêté précité précise les attributions et le périmètre de compétence du centre.
+
+La mission "suivi personnalisé et parcours professionnels"
 
 Elle favorise les évolutions professionnelles des agents, notamment à l'occasion de réorganisations, et pilote la mise en place des bilans professionnels.
