@@ -8,6 +8,8 @@ Les épreuves classantes nationales comportent quatre épreuves rédactionnelles
 
 Toutes les épreuves font l'objet d'une double correction indépendante et anonyme. Une troisième correction est effectuée lorsqu'un écart supérieur ou égal à cinq points est constaté entre deux correcteurs. Dans ce cas, la note qui en résulte est retenue.
 
+En cas d'écart inférieur à cinq points, la moyenne des deux notes est retenue.
+
 Les ex aequo sont départagés selon les modalités suivantes :
 
 1. Par la meilleure note obtenue au premier dossier de la première épreuve. S'il reste des ex aequo, la même règle est appliquée, dans l'ordre des dossiers suivants, pour les départager ;

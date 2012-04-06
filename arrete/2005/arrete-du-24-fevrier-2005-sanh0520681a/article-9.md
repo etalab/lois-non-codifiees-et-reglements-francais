@@ -8,6 +8,6 @@ Le remplacement des titulaires par les suppléants se fait dans l'ordre du tirag
 
 Doivent être récusés les membres du jury qui ont un lien de parenté en ligne directe ou en ligne collatérale, jusqu'au deuxième degré compris, avec l'un des candidats, les membres du conseil scientifique, les personnes ayant des charges électives nationales.
 
-Un membre du jury titulaire ne peut pas être tiré au sort deux années consécutives.
+Un membre du jury titulaire, ayant effectivement siégé, ne peut pas être tiré au sort deux années consécutives.
 
 La liste des membres du jury tirés au sort est publiée au Bulletin officiel Santé - Protection sociale - Solidarité.

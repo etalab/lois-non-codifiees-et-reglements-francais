@@ -10,4 +10,8 @@ Des comités d'experts constitués à l'initiative du conseil scientifique véri
 
 La gestion de cette banque de questions est assurée par le conseil scientifique.
 
-Chaque année, le président du conseil scientifique fait tirer au sort neuf dossiers de cas cliniques et / ou thérapeutiques ainsi que trois dossiers de réserve.
+Chaque année, le président du conseil scientifique fait tirer au sort :
+
+Neuf dossiers de cas cliniques et/ ou thérapeutiques ainsi que trois dossiers de réserve ;
+
+Le sujet correspondant à l'épreuve de lecture critique d'un ou plusieurs articles scientifiques et un sujet de réserve.
