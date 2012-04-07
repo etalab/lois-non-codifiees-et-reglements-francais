@@ -1,7 +1,5 @@
 # Chapitre II : Liste des titres et certificats internationaux
 
-- [Article 120-1.03](article-120-1-03.md)
-- [Article 120-1.04](article-120-1-04.md)
 - [Article 120.3](article-120-3.md)
 - [Article 120.4](article-120-4.md)
 - [Article 120.5](article-120-5.md)

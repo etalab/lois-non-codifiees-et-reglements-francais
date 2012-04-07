@@ -1694,7 +1694,6 @@
 - [Arrêté du 19 juin 2011 (ETSR1121177A)](arrete-du-19-juin-2011-etsr1121177a)
 - [Arrêté du 19 juin 2011 (SCSR1121234A)](arrete-du-19-juin-2011-scsr1121234a)
 - [Arrêté du 19 juin 2011 (SCSR1121247A)](arrete-du-19-juin-2011-scsr1121247a)
-- [Arrêté du 19 mars 2009 (DEVT0770280A)](arrete-du-19-mars-2009-devt0770280a)
 - [Arrêté du 19 novembre 1997 (DEFE9801095A)](arrete-du-19-novembre-1997-defe9801095a)
 - [Arrêté du 19 octobre 2011 (AGRE1128333A)](arrete-du-19-octobre-2011-agre1128333a)
 - [Arrêté du 19 octobre 2011 (AGRG1128680A)](arrete-du-19-octobre-2011-agrg1128680a)
