@@ -4,7 +4,7 @@ Les catégories de données à caractère personnel enregistrées dans l'applica
 
 1° En ce qui concerne les personnes physiques :
 
-- état civil ;
+- état civil et nationalité ;
 
 - domicile ;
 
@@ -18,15 +18,19 @@ Les catégories de données à caractère personnel enregistrées dans l'applica
 
 - adresse ;
 
-3° En ce qui concerne les autorisations et déclarations d'acquisition et de détention :
+- état civil et nationalité du représentant de la personne morale ;
+
+3° En ce qui concerne les autorisations, déclaration et enregistrement d'acquisition et de détention :
 
 - caractéristiques de l'arme ;
 
-- date de la délivrance de l'autorisation ou du récépissé de déclaration ;
+- date de la délivrance de l'autorisation ou du récépissé de déclaration ou d'enregistrement  ;
 
 - date d'expiration de l'autorisation ;
 
-4° En ce qui concerne la décision de refus de délivrance d'une autorisation d'acquisition et de détention d'arme ou d'un récépissé de déclaration de détention d'arme :
+- qualité du demandeur ;
+
+4° En ce qui concerne la décision de refus de délivrance d'une autorisation d'acquisition et de détention d'arme ou d'un récépissé de déclaration ou d'enregistrement d'acquisition et  de détention d'arme :
 
 - données prévues au 1° ou 2° du présent article ;
 
