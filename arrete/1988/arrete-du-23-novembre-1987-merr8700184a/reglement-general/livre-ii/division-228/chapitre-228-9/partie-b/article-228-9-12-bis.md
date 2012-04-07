@@ -1,6 +1,6 @@
 # Article 228-9.12 bis
 
-Source d'énergie - prescriptions supplémentaires
+Source d'énergie-prescriptions supplémentaires
 
 Nonobstant les dispositions de l'article 228-9.12, il est fait application des prescriptions supplémentaires ci-dessous.
 
@@ -8,11 +8,11 @@ Nonobstant les dispositions de l'article 228-9.12, il est fait application des p
 
 Les équipements obligatoires, y compris ceux de duplication, le Navtex et le système de radio-positionnement sont alimentés par :
 
--La source principale d'énergie électrique ;
+- La source principale d'énergie électrique ;
 
--La source d'énergie électrique de secours ;
+- La source d'énergie électrique de secours ;
 
--La source d'énergie électrique de réserve provenant de la batterie radio.
+- La source d'énergie électrique de réserve provenant de la batterie radio.
 
 Il doit exister une commutation automatique entre les sources d'énergie, sans qu'il y ait perte des données pendant la période de commutation, afin d'alimenter en permanence l'installation radioélectrique obligatoire.
 
@@ -22,7 +22,7 @@ La source d'énergie principale est fournie par l'intermédiaire du tableau éle
 
 La source d'énergie de secours est fournie par l'intermédiaire du tableau de secours.
 
-La source d'énergie de réserve est constituée de batteries d'accumulateurs spécifiques, Ces batteries ne doivent pas être placées au-dessous du niveau du local où sont installés les appareils constituant l'installation radioélectrique, sauf dérogation accordée par l'Administration. En aucun cas elles ne devront être placées en-dessous du pont principal.
+La source d'énergie de réserve est constituée de batteries d'accumulateurs spécifiques, Ces batteries ne doivent pas être placées au-dessous du niveau du local où sont installés les appareils constituant l'installation radioélectrique, sauf dérogation accordée par l'autorité compétente . En aucun cas elles ne devront être placées en-dessous du pont principal.
 
 Cette source d'énergie de réserve ne doit alimenter l'équipement radio obligatoire qu'en cas d'absence des sources d'énergie principales et de secours.
 
@@ -32,7 +32,7 @@ Ils doivent être conçus conformément aux normes en vigueur et leur structure 
 
 Les câbles et fils de blindage doivent être au moins du type non propagateur de flamme.
 
-3. Onduleurs - convertisseurs
+3. Onduleurs-convertisseurs
 
 Si des équipements nécessitent une modification de leur tension d'alimentation, les convertisseurs, onduleurs et autres seront dédiés à ces équipements et leurs connexes. Ceux-ci devront être conçus de manière à faire fonctionner les équipements de manière satisfaisante et ne pas engendrer de perturbations à l'environnement. Ils seront disposés afin d'être convenablement ventilés et accessibles.
 
@@ -50,9 +50,9 @@ Les appareils sont alimentés par l'intermédiaire de tableaux de distribution d
 
 Il doit exister un tableau par tension regroupant :
 
--Les contrôles de tension et d'intensité de départ vers les appareils ;
+- Les contrôles de tension et d'intensité de départ vers les appareils ;
 
--Les sécurités protégeant les appareils.
+- Les sécurités protégeant les appareils.
 
 Chaque équipement, et ceux associés, doit avoir son propre circuit d'alimentation facilement repérable. Les tableaux doivent être placés le plus près possible de l'installation radioélectrique et être facilement accessibles.
 
@@ -94,7 +94,7 @@ Pour déterminer la charge électrique que la source d'énergie de réserve doit
 
 + consommation de courant de toutes charges additionnelles
 
-Pour les navires assurant la maintenance par duplication de matériel, la source d'énergie de réserve doit avoir une capacité augmentée de 30%.
+Pour les navires assurant la maintenance par duplication de matériel, la source d'énergie de réserve doit avoir une capacité augmentée de 30 %.
 
 7.3 Maintenance
 

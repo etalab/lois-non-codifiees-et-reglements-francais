@@ -1,552 +1,470 @@
-# Article Annexe 130.A.2 Parties 3, 4
+# Article Annexe 130-A.2 Parties 3, 4
 
-**Liste des points examinés en commission centrale de sécurité
+Partie 3. - Navires de pêche étudiés en CCS
 
-Références réglementaires
+I. - Renseignements généraux.
 
-Documents à fournir**
+Renseignements à fournir, en vue de déterminer en particulier les règles applicables :
 
-**PARTIE 3**
+1. Nom du navire ou numéro de coque pour un navire neuf et pavillon d'origine et/ou précédent pour un navire d'occasion.
 
-Navires de pêche étudiés en CCS
+2. Détail du ou des type(s) de métier(s) pratiqué(s).
 
-**I. RENSEIGNEMENTS GENERAUX**
+3. Le cas échéant, numéro OMI.
 
-Renseignement à fournir, en vue de déterminer en particulier les règles applicables
+4. Port d'immatriculation.
 
-1. Nom du navire ou numéro de coque pour un navire neuf et Pavillon d'origine et/ou précédent pour un navire d'occasion
+5. Exploitant du navire : nom, adresse, téléphone, télécopie, personne en charge du dossier, adresse de messagerie électronique.
 
-2. Détail du ou des type(s) de métier(s) pratiqué(s)
+6. Chantier de construction : mêmes renseignements.
 
-3. Le cas échéant, N° OMI
+7. Date de signature du contrat.
 
-4. Port d'immatriculation
+8. Date de déclaration de mise en chantier.
 
-5. Armateur : nom, adresse, téléphone, télécopie, personne en charge du dossier, adresse de messagerie électronique
+9. Date de pose de la quille.
 
-6. Chantier de construction : mêmes renseignements
+10. Date prévue de mise à l'eau.
 
-7. Date de signature du contrat
+11. Date souhaitée de visite de mise en service.
 
-8. Date de déclaration de mise en chantier
+12. Date souhaitée de délivrance des titres de sécurité.
 
-9. Date de pose de la quille
+13. Société de classification.
 
-10. Date prévue de mise à l'eau
+14. Numéro au registre de la société de classification.
 
-11. Date souhaitée de visite de mise en service
+15. Attestation de la société de classification (cotes et marques).
 
-12. Date souhaitée de délivrance des titres de sécurité
+16. Longueur hors tout.
 
-13. Société de classification
+17. Longueur entre perpendiculaires.
 
-14. N° au registre de la société de classification
+18. Largeur.
 
-15. Attestation de la société de classification telle que définie à l'article 130.03 (cotes et marques)
+19. Creux.
 
-16. Longueur hors tout
+20. Jauge (brute, nette).
 
-17. Longueur entre perpendiculaires
+21. Port en lourd (été).
 
-18. Largeur
+22. Franc-bord et tirants d'eau correspondants (été, hiver).
 
-19. Creux
+23. Mode de propulsion.
 
-20. Jauge (brute, nette)
+24. Puissance propulsive.
 
-21. Port en lourd (été)
+25. Nombre et type des hélices.
 
-22. Franc-Bord et Tirants d'eau correspondants (été, hiver)
+26. Puissances auxiliaires.
 
-23. Mode de propulsion
+27. Vitesse en service.
 
-24. Puissance propulsive
+28. Nombre maximal de personnes prévues à bord (équipage, passagers).
 
-25. Nombre et type des hélices
+29. Catégorie de navigation.
 
-26. Puissances auxiliaires
+30. Type de navigation (nationale ou internationale).
 
-27. Vitesse en service
+31. Zone océanique système mondial de détresse et de sécurité en mer.
 
-28. Nombre maximal de personnes prévues à bord (équipage, passagers)
+32. Indicatif radio.
 
-29. Catégorie de navigation
+33. Numéro MMSI.
 
-30. Type de navigation (nationale ou internationale)
+34. Centre de sécurité des navires chargé des visites du navire en exploitation postérieures à la visite de mise en service.
 
-31. Zone océanique système Mondial de Détresse et de Sécurité en Mer
+35. Zones d'exploitation.
 
-32. Indicatif radio
+36. Intentions éventuelles de l'exploitant du navire relatives au quart réduit.
 
-33. Numéro MMSI
+Fournir en outre :
 
-34. Centre de Sécurité des Navires chargé de la visite de mise en service
+- une copie des titres de sécurité définitifs en cours de validité pour un navire d'occasion ;
 
-35. Centre de Sécurité des Navires chargé des visites du navire en exploitation postérieures à la visite de mise en service
+- une copie de la déclaration de mise en chantier ;
 
-36. Zones d'exploitation
+- un plan général du navire, en une ou plusieurs feuilles au format A4 ;
 
-37. Intentions éventuelles de l'armateur relatives au quart réduit
+- la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-FOURNIR EN OUTRE :
+- en fin d'étude du dossier : les plans du navire "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 
-- Une copie des titres de sécurité définitifs en cours de validité pour un navire d'occasion ;
-
-- Une copie de la déclaration de mise en chantier ;
-
-- Un plan général du navire, en une ou plusieurs feuilles au format A4 ;
-
-- La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
-
-- En fin d'étude du dossier : les plans du navire tel que construit (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS) si possible sous format informatique, en précisant les modifications apportées.
-
-**II - CONSTRUCTION - COMPARTIMENTAGE - FRANC-BORD**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-- L'attestation de visite de la société de classification prévue par l'article 228-2.01.8 ;
-
-- Un schéma d'ensemble montrant la position des ponts, des cloisons, des superstructures ou roufs, la ligne de charge au déplacement maximum, les échappées, les hublots. Ce plan doit clairement montrer et désigner le pont de travail ;
-
-- Toute demande d'exemption au règlement quant aux conditions d'assignation du franc-bord, avec l'avis préliminaire de la société de classification ;
-
-- Un schéma des portes de chargement et des autres ouvertures dans le bordé avec leurs moyens de fermeture ;
-
-- Un schéma des cloisons transversales indiquant les ouvertures et leurs moyens de fermeture ;
-
-- Le descriptif, le fonctionnement et les consignes d'utilisation des portes étanches ;
-
-- Un schéma des panneaux d'écoutilles
-
-- Un récapitulatif des dispositifs d'étanchéité de la timonerie comprenant les calculs d'épaisseur des vitres suivant les dispositions de l'article 228-2.12 renvoyant à l'annexe 228-2.A.3 ;
-
-- Un schéma de disposition des sabords de décharge sur le pont de travail et les ponts de superstructures ;
-
-- Une attestation de non-présence d'amiante, délivrée par le chantier, incluant les produits sous-traités.
-
-NOTA : En application de la division 140 les études relatives à la délivrance du certificat de Franc-Bord sont déléguées aux sociétés de classification agréées et ne sont pas présentées à la commission.
-
-Toutefois, en cas de demande d'exemption au règlement applicable, en application de l'article 130.10, celle ci est présentée à la commission accompagnée de l'avis de la société de classification.
-
-**III- STABILITE**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Les dossiers sont accompagnés du rapport d'examen de la société de classification.
-
-STABILITE A L'ETAT INTACT
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Le dossier de stabilité établi d'apres les dispositions applicables des chapitres 211-2 et 228-3.
-
-Cas d'utilisation d'engins de levage avec bras de levier transversal
-
-STABILITE APRES AVARIE
-
-Si le navire y est astreint : en application de la division 228, fournir les calculs conformes aux orientations de la recommandation 6 du document joint à l'acte final de la Convention internationale de Torremolinos sur la sécurité des navires de pêche.
-
-POINTS ETUDIES
-
-Cas de chargement soumis et critères pris en compte - résultats de calcul - instructions au capitaine.
-
-**IV- MACHINES & AUXILIAIRES - INSTALLATIONS ELECTRIQUES**
-
-A- MACHINES ET AUXILIAIRES
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-1 - Installations de machines
-
-- Un schéma général de l'installation de machines ;
-
-- La liste des principaux matériels et équipements ainsi que leurs caractéristiques principales ;
-
-- Les schémas des circuits de combustible, graissage, refroidissement, air comprimé, vapeur, eau douce ;
-
-- La description des alarmes au sens des articles 228- 4.14 et 228-4.22 (la description des dispositifs de communication est également exigible, voir Installations électriques).
-
-2 - Assèchement
-
-- Un schéma unique regroupant les informations sur les différents dispositifs d'assèchement. Sur ce plan devront être indiquées : le nombre et localisation des pompes, les alarmes de niveau et de montée d'eau, les positions des commandes des vannes de coque, ainsi que la ou les pompes alimentées par le tableau de secours ou par une énergie autre que celle venant du tableau électrique principal ;
-
-- Les calculs justificatifs de l'installation, y compris les débits des installations de lavage relatif au traitement des captures.
-
-3- Appareil à gouverner
-
-- Un schéma synoptique de l'installation ;
-
-- La description des liaisons avec la passerelle ;
-
-- La description du fonctionnement en secours.
-
-4- Installations frigorifiques
-
-- Un schéma synoptique de l'installation ;
-
-- Les caractéristiques du fluide frigorifique utilisé ;
-
-- La description du dispositif de détection de fuites d'ammoniac 228-4.15, si requis ;
-
-- La description des combinaisons de protection contre l'ammoniac 228-4.15, si requis.
-
-5- Installations hydrauliques
-
-- La description de l'installation et ses caractéristiques (puissance et pression de travail).
-
-6- Chaudieres à fluide caloporteur
-
-- Une demande d'autorisation de mise à bord ;
-
-- Un schéma de l'installation ;
-
-- La description du fonctionnement, des alarmes, et des sécurités ;
-
-- La description des protections contre les fuites ;
-
-- Les caractéristiques de l'huile.
-
-B- INSTALLATIONS ELECTRIQUES
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-1- Sources électriques principale et secours
-
-- Un schéma unifilaire ;
-
-- Les caractéristiques des groupes et des jeux de batteries, les services assurés par les tableaux principal et secours. Indiquer les emplacements ;
-
-- Les bilans électriques sur source de secours ;
-
-- Le calcul justificatif de l'autonomie en secours ;
-
-- La description des dispositifs de délestage ;
-
-- La description des alimentations des pompes d'incendie et d'assèchement ;
-
-- La description et l'implantation des moyens de surveillance des isolements ;
-
-- La description des moyens de démarrage du groupe électrogène de secours, s'il existe ;
-
-- La description des protections contre les électrocutions, l'incendie et autres accidents d'origine électrique.
-
-2- Réseaux d'alarme et de communication
-
-Fournir la description des moyens de communication au sens des articles 228-4.07, 228-4.14, 228-4.21, et 228-4.22.
-
-**V- PREVENTION, DETECTION ET LUTTE CONTRE L'INCENDIE**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Fournir un plan de lutte contre l'incendie conforme aux résolutions OMI A.654(16) et A.952(23).
-
-A - PREVENTION
-
-1- Cloisonnement
-
-- Les plans de cloisonnement incendie comportant les renseignements suivants :
-
-• intégrité au feu des portes, cloisons et ponts ;
-
-• classement des locaux ;
-
-• dispositifs de passage de cloisons.
-
-- Le dossier matériaux visé de la société de classification contenant les certificats d'approbation des équipements marins.
-
-2- Evacuation
-
-- Un schéma général des chemins d'évacuation conforme à la résolution OMI A.952(23) ;
-
-- Les dimensions des escaliers et coursives.
-
-3- Ventilation et conditionnement d'air
-
-- Un schéma unifilaire général ;
-
-- Un schéma des conduits de ventilation des cuisines ;
-
-- Les calculs des taux de renouvellement d'air, notamment dans les espaces de traitement des captures et les locaux machines ;
-
-- La description des arrêts à distance et leurs emplacements ;
-
-- La description des ventelles, volets coupe-feu, des dispositifs de passage de cloisons, ainsi que leurs emplacements ainsi que les certificats équipements marins
-
-correspondants.
-
-4- Dispositions relatives aux combustibles liquides, à l'huile de graissage et aux autres liquides inflammables
-
-- La description du stockage des différents fluides ;
-
-- La description des circuits ;
-
-- La description des moyens de sondage ;
-
-- Les caractéristiques des tuyautages.
-
-B - DETECTION
-
-- Un schéma des installations ;
-
-- Un descriptif des boucles ;
-
-- Les emplacements et caractéristiques des détecteurs ;
-
-- Les certificats d'approbation de la centrale et des détecteurs.
-
-C - EXTINCTION
-
-1- Collecteur incendie
-
-- Un schéma des tuyautages et des emplacements des bouches incendie ;
-
-- Les caractéristiques, emplacements, alimentation, et moyens de démarrage des pompes ;
-
-- Le nombre des manches et leurs longueurs ;
-
-- Les certificats d'approbation des manches et lances.
-
-2- Dispositifs de détection et d'extinction automatiques par eau diffusée
-
-- Un schéma de l'installation avec l'indication des locaux protégés ;
-
-- Les calculs justificatifs du dimensionnement des installations ;
-
-- Les caractéristiques, emplacements, alimentations des pompes ;
-
-- La description du dispositif de maintien sous pression ;
-
-- La description des alarmes ;
-
-- Les certificats d'approbation.
-
-3- Dispositifs fixes d'extinction par le gaz
-
-- Un schéma de l'installation avec l'indication des locaux protégés, des organes de commande et de maintenance ;
-
-- Les calculs justificatifs du dimensionnement des installations ;
-
-- La description des dispositifs d'alarme sonore et lumineuse ;
-
-- La description des moyens de renouvellement de l'atmosphère ;
-
-- Les certificats d'approbation.
-
-4- Dispositifs fixes d'extinction par la mousse
-
-- Un schéma de l'installation avec l'indication des locaux protégés, des organes de commande et de maintenance ;
-
-- Les calculs justificatifs du dimensionnement des installations ;
-
-- La description des dispositifs d'alarme sonore et lumineuse ;
-
-- la description des moyens de renouvellement de l'atmosphère ;
-
-- Les certificats d'approbation.
-
-D - MOYENS MOBILES
-
-- Les caractéristiques et les emplacements des extincteurs et équipements de pompier ;
-
-- Les certificats d'approbation.
-
-**VI- PROTECTION DE L'EQUIPAGE**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Apparaux de levage y compris les apparaux de pêche
-
-Registre établi et visé par la société de classification, présenté à la commission de visite de mise en service ou au centre de sécurité des navires
-
-Division 214 du règlement
-
-En outre, pour les apparaux de pêche, il est présenté à la commission d'étude un dossier précisant les dispositifs de commande et d'arrête d'urgence.
-
-règle 228-6.05
-
-Système DAHMAS
-
-Conformément à la division 332, les plans et documents requis pour l'installation de tout dispositif d'alarme d'homme à la mer et d'action de sauvetage (DAHMAS) sont transmis à la commission d'étude.
-
-**VII- ENGINS ET DISPOSITIFS DE SAUVETAGE**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Fournir un schéma d'implantation des moyens de sauvetage.
-
-A- DROME - MOYENS COLLECTIFS
+II. - Construction, compartimentage, franc-bord.
 
 Fournir :
 
-- Le nombre, la capacité, les emplacements des embarcations et des radeaux de sauvetage ;
+- un schéma d'ensemble montrant la position des ponts, des cloisons, des superstructures ou roufs, la ligne de charge au déplacement maximum, les échappées, les hublots. Ce plan doit clairement montrer et désigner le pont de travail ;
 
-- Les caractéristiques et l'emplacement du ou des canot(s) de secours et son (leurs) moyen(s) de mise à l'eau ;
+- un schéma des portes de chargement et des autres ouvertures dans le bordé avec leurs moyens de fermeture ;
 
-- Les caractéristiques et l'emplacement de l'appareil lance-amarre et des signaux de détresse ;
+- un schéma des cloisons transversales indiquant les ouvertures et leurs moyens de fermeture ;
 
-- Une copie des certificats d'approbation équipements marins.
+- le descriptif, le fonctionnement et les consignes d'utilisation des portes étanches ;
 
-B- MOYENS INDIVIDUELS
+- un schéma des panneaux d'écoutilles ;
 
-Fournir :
+- un récapitulatif des dispositifs d'étanchéité de la timonerie comprenant les calculs d'épaisseur des vitres ;
 
-- Le nombre, la description, et la localisation des bouées de sauvetage ;
+- un schéma de disposition des sabords de décharge sur le pont de travail et les ponts de superstructures.
 
-- Le nombre, la description, et la localisation des brassières ;
+Nota. - En application de la division 140, les études relatives à la délivrance du certificat de franc-bord sont déléguées aux sociétés de classification habilitées et ne sont pas présentées à la commission.
 
-- Le nombre, la description, et la localisation des combinaisons d'immersion ;
+Toutefois, en cas de demande d'exemption au règlement applicable, celle-ci est présentée à la commission accompagnée de l'avis de la société de classification.
 
-- Une copie des certificats d'approbation équipements marins.
+III. - Stabilité :
 
-**VIII- CONSIGNES EN CAS D'URGENCE, RÔLE D'APPEL ET EXERCICES**
+Les dossiers de stabilité sont accompagnés du rapport d'examen de la société de classification.
 
-Le contrôle des dispositions du chapitre 8 de la division 228 est effectué par la commission de visite de mise en service.
+Stabilité à l'état intact :
 
-**IX- RADIOCOMMUNICATIONS**
+Le dossier de stabilité établi d'après les dispositions applicables des divisions 228 et 211.
 
-Renseignements à fournir, points étudiés et références réglementaires
+Stabilité après avarie :
 
-- La liste des matériels avec copies des certificats d'approbation équipements marins ;
+Si le navire y est astreint : en application de la division 228, fournir les calculs conformes aux orientations de la recommandation 5 du document 3 joint à l'acte final de la convention internationale de Torremolinos sur la sécurité des navires de pêche.
 
-- Un schéma d'implantation du matériel ;
+IV. - Machines et auxiliaires, installations électriques.
 
-- Un plan des antennes ;
+A. - Machines et auxiliaires :
 
-- Un schéma synoptique des alimentations électriques ;
+1. Installations de machines :
 
-- L'implantation des jeux de batteries ;
+Un schéma général de l'installation de machines ;
 
-- Le bilan électrique et autonomie sur batteries ;
+La liste des principaux matériels et équipements ainsi que leurs caractéristiques principales ;
 
-- L'indication de la méthode d'entretien prévue.
+Les schémas des circuits de combustible, graissage, refroidissement, air comprimé, vapeur, eau douce ;
 
-**X- SECURITE DE LA NAVIGATION**
+La description des alarmes.
 
-Renseignements à fournir, points étudiés et références réglementaires
+2. Assèchement :
 
-A- PREVENTION DES ABORDAGES
+Un schéma regroupant les informations sur les différents dispositifs d'assèchement. Sur ce plan devront être indiqués : le nombre et la localisation des pompes, les alarmes de niveau et de montée d'eau, les positions des commandes des vannes de coque, ainsi que la ou les pompes alimentées par le tableau de secours ou par une énergie autre que celle venant du tableau électrique principal ;
 
-- Un schéma récapitulant les angles horizontaux et verticaux de la visibilité à la passerelle ;
+Les calculs justificatifs de l'installation, y compris les débits des installations de lavage relatif au traitement des captures dans l'atelier.
 
-- Un schéma indiquant les emplacements des feux de navigation ;
+3. Appareil à gouverner :
 
-- La description des alimentations, commandes, alarmes des feux de navigation ;
+Un schéma synoptique de l'installation ;
 
-- Les certificats d'approbation des feux.
+La description des liaisons avec la passerelle ;
 
-B- APPAREILS DE NAVIGATION
+La description du fonctionnement en secours.
 
-- Liste, plan d'implantation en passerelle et références d'approbation.
+4. Installations frigorifiques :
 
-C- MOYENS D'EMBARQUEMENT DU PILOTE
+Un schéma synoptique de l'installation ;
+
+Les caractéristiques du fluide frigorifique utilisé ;
+
+La description des systèmes de prévention des risque dus à l'ammoniac, si requis.
+
+5. Installations hydrauliques :
+
+La description de l'installation et ses caractéristiques (puissance, pression de travail, localisation des centrales hydrauliques).
+
+6. Chaudières à fluide caloporteur :
+
+Une demande d'autorisation de mise à bord ;
+
+Un schéma de l'installation ;
+
+La description du fonctionnement, des alarmes et des sécurités ;
+
+La description des protections contre les fuites ;
+
+Les caractéristiques de l'huile.
+
+B. - Installations électriques.
+
+1. Sources électriques principale et secours :
+
+Un schéma unifilaire ;
+
+Les caractéristiques (puissances, emplacements) des groupes et des jeux de batteries, les services assurés par les tableaux principal et secours ;
+
+Les services alimentés et les bilans électriques sur source de secours ;
+
+Le calcul justificatif de l'autonomie en secours ;
+
+La description des dispositifs de délestage ;
+
+La description et l'implantation des moyens de surveillance des isolements ;
+
+La description des moyens de démarrage du groupe électrogène de secours, s'il existe ;
+
+La description des protections contre les électrocutions, l'incendie et autres accidents d'origine électrique.
+
+2. Réseaux d'alarme et de communication :
+
+Fournir la description des systèmes de communication intérieure et de diffusion des signaux d'alarme.
+
+V. - Prévention, détection et lutte contre l'incendie :
+
+Fournir un plan de lutte contre l'incendie utilisant les symboles graphiques préconisés par l'OMI.
+
+Préciser la méthode générale de protection utilisée (IF, IIF ou IIIF).
+
+A. - Prévention.
+
+1. Cloisonnement.
+
+Les plans de cloisonnement incendie comportant les renseignements suivants :
+
+- intégrité au feu des portes, cloisons et ponts ;
+
+- classement des locaux ;
+
+- dispositifs de passage de cloisons.
+
+Le dossier matériaux contenant les certificats d'approbation des équipements marins.
+
+2. Evacuation :
+
+Un schéma général des chemins d'évacuation ;
+
+Les dimensions des escaliers et coursives.
+
+3. Ventilation et conditionnement d'air :
+
+Un schéma unifilaire général ;
+
+Un schéma des conduits de ventilation des cuisines ;
+
+La description des arrêts à distance et leurs emplacements ;
+
+La description des ventelles, volets coupe-feu, des dispositifs de passage de cloisons, ainsi que leurs emplacements et les certificats équipements marins requis.
+
+4. Dispositions relatives aux combustibles liquides, a l'huile de graissage et aux autres liquides inflammables :
+
+La description du stockage des différents fluides ;
+
+La description des circuits ;
+
+La description des moyens de sondage ;
+
+Les caractéristiques des tuyautages.
+
+B. - Détection :
+
+Un schéma des installations ;
+
+Un descriptif des boucles ;
+
+Les emplacements et caractéristiques des détecteurs ;
+
+Les certificats d'approbation de la centrale et des détecteurs.
+
+C. - Extinction.
+
+1. Collecteur incendie :
+
+Un schéma des tuyautages et des emplacements des bouches incendie ;
+
+Les caractéristiques, emplacements, alimentation, et moyens de démarrage des pompes ;
+
+Le nombre des manches et leur longueur ;
+
+Les calculs justificatifs de pression aux bouches ;
+
+Les certificats d'approbation des manches et lances.
+
+2. Dispositifs de détection et d'extinction automatiques par eau diffusée :
+
+Un schéma de l'installation avec l'indication des locaux protégés ;
+
+Les calculs justificatifs du dimensionnement des installations ;
+
+Les caractéristiques, emplacements, alimentations des pompes ;
+
+La description du dispositif de maintien sous pression ;
+
+La description des alarmes ;
+
+Les certificats d'approbation.
+
+3. Dispositifs fixes d'extinction par le gaz :
+
+Un schéma de l'installation avec l'indication des locaux protégés, des organes de commande et de maintenance ;
+
+Les calculs justificatifs du dimensionnement des installations ;
+
+La description des dispositifs d'alarme sonore et lumineuse ;
+
+La description des moyens de renouvellement de l'atmosphère ;
+
+Les certificats d'approbation.
+
+4. Dispositifs fixes d'extinction par la mousse :
+
+Un schéma de l'installation avec l'indication des locaux protégés, des organes de commande et de maintenance ;
+
+Les calculs justificatifs du dimensionnement des installations ;
+
+La description des dispositifs d'alarme sonore et lumineuse ;
+
+La description des moyens de renouvellement de l'atmosphère ;
+
+Les certificats d'approbation.
+
+D. - Moyens mobiles :
+
+Les caractéristiques et les emplacements des équipements ;
+
+Les certificats d'approbation.
+
+VI. - Protection de l'équipage.
+
+Apparaux de pêche :
+
+Pour les apparaux de pêche, il est présenté à la commission d'étude un dossier précisant les dispositifs de commande et d'arrêt d'urgence.
+
+Système DAHMAS :
+
+Les plans et documents requis pour l'installation de tout dispositif d'alarme d'homme à la mer et d'action de sauvetage (DAHMAS) sont transmis à la commission d'étude.
+
+VII. - Engins et dispositifs de sauvetage.
+
+Fournir un schéma d'implantation des moyens de sauvetage, utilisant les symboles graphiques recommandés par l'OMI.
+
+A. - Drome, moyens collectifs :
+
+Le nombre, la capacité, les emplacements des embarcations et des radeaux de sauvetage ;
+
+Les caractéristiques et l'emplacement du (ou des) canot(s) de secours et son (leurs) moyen(s) de mise à l'eau, si requis ;
+
+Les certificats d'approbation des équipements marins.
+
+B. - Moyens individuels :
+
+Le nombre, la description et la localisation des équipements installés (bouées de sauvetage, brassières, combinaisons d'immersion, signaux de détresse...) ;
+
+Les certificats d'approbation des équipements marins.
+
+VIII. - Consignes en cas d'urgence, rôle d'appel et exercices.
+
+Le contrôle des consignes en cas d'urgence, du rôle d'appel et du programme d'exercices est effectué par la commission de visite de mise en service.
+
+IX. - Radiocommunications :
+
+La liste des matériels avec copies des certificats d'approbation équipements marins ;
+
+Un schéma d'implantation du matériel ;
+
+Un plan des antennes ;
+
+Un schéma synoptique des alimentations électriques ;
+
+L'implantation des jeux de batteries ;
+
+Le bilan électrique et autonomie sur batteries ;
+
+L'indication de la méthode d'entretien prévue.
+
+X. - Sécurité de la navigation.
+
+A. - Prévention des abordages :
+
+Un schéma récapitulant les angles horizontaux et verticaux de la visibilité à la passerelle ;
+
+Un schéma indiquant les emplacements des feux de navigation ;
+
+La description des alimentations, commandes, alarmes des feux de navigation ;
+
+Les certificats d'approbation des feux.
+
+B. - Appareils de navigation :
+
+Liste, plan d'implantation en passerelle et certificats d'approbation des équipements.
+
+C. - Moyens d'embarquement du pilote :
 
 Le contrôle des dispositions pertinentes est effectué par la commission de visite de mise en service.
 
-D- MOUILLAGE AMARRAGE
+D. - Mouillage, amarrage :
 
-- Les schémas montrant les emplacements des équipements visés de la société de classification.
+Les schémas montrant les emplacements des équipements.
 
-division 228 article 228-2.15
+XI. - Hygiène, habitabilité :
 
-**XI- HYGIENE - HABITABILITÉ**
+Plans des emménagements ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+Les surfaces des locaux d'habitation ;
 
-- Un schéma des emménagements ;
+La description des moyens de chauffage, de ventilation et, le cas échéant, de climatisation ;
 
-- Les surfaces des locaux d'habitation ;
+La description des moyens d'éclairage ;
 
-- La description des moyens de chauffage, de ventilation et le cas échéant de climatisation ;
+La description des moyens de production et de stockage de l'eau potable et des circuits de distribution.
 
-- La description des moyens d'éclairage ;
+XII. - Prévention de la pollution.
 
-- La description des moyens de production et de stockage de l'eau potable et des circuits de distribution.
+Annexe I
 
-Examen de la conformité à la division 215 du règlement.
+Prévention de la pollution par les hydrocarbures
 
-**XII- PREVENTION DE LA POLLUTION**
+Description, emplacement et caractéristiques des installations ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+Un schéma des circuits de décharge ;
 
-Voir la division 213 du règlement.
+Le certificat d'approbation du séparateur et du dispositif d'alarme.
 
-ANNEXE I - "PREVENTION DE LA POLLUTION PAR LES HYDROCARBURES"
+Nota. - Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires.
 
-Fournir :
+Annexe IV
 
-- La description, l'emplacement et les caractéristiques des installations ;
+Prévention de la pollution par les eaux usées
 
-- Un schéma des circuits de décharge ;
+Description, emplacement et caractéristiques des installations ;
 
-- Le certificat d'approbation du séparateur et du dispositif d'alarme.
+Un schéma des circuits de décharge ;
 
-NOTA : Le manuel SOPEP (MARPOL Annexe I règle 37 ex 26) est approuvé et visé par le centre de sécurité des navires.
+Le certificat d'approbation du dispositif de traitement ou le calcul justificatif des capacités de rétention.
 
-ANNEXE IV - "PREVENTION DE LA POLLUTION PAR LES EAUX USEES"
+Annexe V
 
-Fournir :
+Prévention de la pollution par les ordures
 
-- La description, l'emplacement et les caractéristiques des installations ;
+Le manuel de gestion des ordures est contrôlé et visé par le centre de sécurité des navires.
 
-- Un schéma des circuits de décharge ;
+Annexe VI
 
-- Le certificat d'approbation du dispositif de traitement ou le calcul justificatif des capacités de rétention.
+Prévention de la pollution de l'air par les navires
 
-Application de MARPOL Annexe IV telle qu'amendée par la résolution OMI MEPC.115(51).
+Certificats EIAPP des moteurs ;
 
-Division 213 chapitre 4.
+Le cas échéant, certificat d'approbation et manuel d'exploitation de l'incinérateur.
 
-ANNEXE V - "PREVENTION DE LA POLLUTION PAR LES ORDURES"
+XIII. - Dispositifs de nature à simplifier la conduite et l'exploitation.
 
-Le manuel de gestion des ordures est visé par le centre de sécurité des navires.
+A. - Passerelle :
 
-ANNEXE VI "PREVENTION DE LA POLLUTION DE L'AIR PAR LES NAVIRES"
+Veille de jour par un homme seul en sus de l'officier de quart ;
 
-Le cas échéant, certificat d'approbation de l'incinérateur.
+Disposition passerelle ;
 
-Les attestations délivrées par la société de classification sont présentées au centre de sécurité des navires.
+Commande et fonctionnement de l'appareil à gouverner.
 
-SYSTÈME ANTISALISSURE - CONVENTION AFS (RENDUE APPLICABLE PAR LE RÈGLEMENT (CE) N° 782/2003)
+Veille passerelle par un officier seul de jour ;
 
-L'attestation délivrée par la société de classification est présentée au centre de sécurité des navires.
+Les points ci-dessus, plus la description du dispositif automatique d'alarme de vigilance de quart à la passerelle.
 
-**XIII. DISPOSITIFS DE NATURE A SIMPLIFIER LA CONDUITE ET L'EXPLOITATION**
+B. - Machine :
 
-A- PASSERELLE
+Les documents et justificatifs mentionnés par la partie A de l'annexe 228-4.A.1.
 
-Veille de jour par un homme seul en sus de l'officier de quart
+XIV. - Equipements marins :
 
-Renseignements à fournir, points étudiés et règles correspondantes
+La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-Disposition passerelle (Article 212-2.01)
+Les certificats d'approbation "équipements marins" requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
 
-Commande et fonctionnement de l'appareil à gouverner (Article 212-2.02 ou 212-2.05)
+XV. - Bilan d'étude en CCS.
 
-Matériel nautique (Article 212-2.03 ou 212-2.05)
+Avant la visite de mise en service, en vue de la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable (éventuellement assorti de réserves) ou non favorable.
 
-Veille passerelle par un officier seul de jour
-
-Les trois points ci-dessus plus dispositif automatique d'alarme
-
-(Article 212-2.03 bis) pour les navires de longueur égale ou supérieure à 100 mètres
-
-B- MACHINE
-
-Renseignements à fournir, points étudiés et règles correspondantes
-
-Les documents mentionnés par la partie A de l'annexe 228-4.A.1. Les rapports d'essais peuvent être renseignés à la mise en service du navire.
-
-**XIV. BILAN D'ETUDE EN CCS**
-
-Avant la visite de mise en service, en vue de la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable, éventuellement assorti de réserves, ou non favorable.
-
-Les critères de l'annexe 130.A.5 de la division 130 sont pris en compte.
-
-Référence : Article 130.12 § 5.
-
-**PARTIE 4**
-
-Navires sous-marins
+Partie 4. - Navires sous-marins
 
 Renseignements, plans et documents du dossier défini à l'article 233-1.02.
 

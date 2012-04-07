@@ -54,9 +54,9 @@ Tous les espaces affectés à la cargaison, y compris les citernes à cargaison 
 
 2.2.9. Locaux de service présentant un risque élevé d'incendie (9)
 
-Cuisines, offices contenant des appareils de cuisson, magasins à peinture, lampisteries, armoires de service et magasins ayant une surface égale ou supérieure à 2 m², et ateliers autres que ceux qui sont situés dans les locaux de machines.
+Cuisines, offices contenant des appareils de cuisson, magasins à peinture, lampisteries, armoires de service et magasins ayant une surface égale ou supérieure à 2 m ², et ateliers autres que ceux qui sont situés dans les locaux de machines.
 
-2.2.10.Ponts découverts (10)
+2.2.10. Ponts découverts (10)
 
 Espaces de ponts découverts, promenades couvertes, espaces de traitement du poisson brut, espaces de lavage du poisson et espaces analogues qui ne présentent pas de risque d'incendie. Espaces découverts situés en dehors des superstructures et des roufs.
 
@@ -78,72 +78,72 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <tbody>
 <tr>
 <td width="214">
-<p align="center">Locaux</p>
+<p align="center">Locaux </p>
 </td>
 <td width="42">
-<p align="center">(1)</p>
+<p align="center">(1) </p>
 </td>
 <td width="42">
-<p align="center">(2)</p>
+<p align="center">(2) </p>
 </td>
 <td width="44">
-<p align="center">(3)</p>
+<p align="center">(3) </p>
 </td>
 <td width="49">
-<p align="center">(4)</p>
+<p align="center">(4) </p>
 </td>
 <td width="49">
-<p align="center">(5)</p>
+<p align="center">(5) </p>
 </td>
 <td width="49">
-<p align="center">(6)</p>
+<p align="center">(6) </p>
 </td>
 <td width="50">
-<p align="center">(7)</p>
+<p align="center">(7) </p>
 </td>
 <td width="45">
-<p align="center">(8)</p>
+<p align="center">(8) </p>
 </td>
 <td width="52">
-<p align="center">(9)</p>
+<p align="center">(9) </p>
 </td>
 <td width="42">
-<p align="center">(10)</p>
+<p align="center">(10) </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Postes de   sécurité (1) </p>
+<p>Postes de sécurité (1) </p>
 </td>
 <td width="42">
-<p align="center">A-0e</p>
+<p align="center">A-0e </p>
 </td>
 <td width="42">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="44">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="49">
-<p align="center">A-15</p>
+<p align="center">A-15 </p>
 </td>
 <td width="49">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="50">
-<p align="center">A-15</p>
+<p align="center">A-15 </p>
 </td>
 <td width="45">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="52">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
@@ -154,36 +154,36 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="42">
-<p align="center">C</p>
+<p align="center">C </p>
 </td>
 <td width="44">
-<p align="center">B-0</p>
+<p align="center">B-0 </p>
 </td>
 <td width="49">
-<p align="center">A-0c B-0</p>
+<p align="center">A-0c B-0 </p>
 </td>
 <td width="49">
-<p align="center">B-0</p>
+<p align="center">B-0 </p>
 </td>
 <td width="49">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="50">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="45">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="52">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Locaux   d'habitation (3) </p>
+<p>Locaux d'habitation (3) </p>
 </td>
 <td width="42">
 <br/>
@@ -192,28 +192,28 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="44">
-<p align="center">C a,b</p>
+<p align="center">C a, b </p>
 </td>
 <td width="49">
-<p align="center">A-0c B-0</p>
+<p align="center">A-0c B-0 </p>
 </td>
 <td width="49">
-<p align="center">B-0</p>
+<p align="center">B-0 </p>
 </td>
 <td width="49">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="50">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="45">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="52">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
@@ -230,30 +230,30 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="49">
-<p align="center">A-0c B-0</p>
+<p align="center">A-0c B-0 </p>
 </td>
 <td width="49">
-<p align="center">A-0c B-0</p>
+<p align="center">A-0c B-0 </p>
 </td>
 <td width="49">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="50">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="45">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="52">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Locaux de   service présentant un faible risque d'incendie (5) </p>
+<p>Locaux de service présentant un faible risque d'incendie (5) </p>
 </td>
 <td width="42">
 <br/>
@@ -268,62 +268,27 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="49">
-<p align="center">C</p>
+<p align="center">C </p>
 </td>
 <td width="49">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="50">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="45">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="52">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Locaux de   machines de la catégorie A (6) </p>
-</td>
-<td width="42">
-<br/>
-</td>
-<td width="42">
-<br/>
-</td>
-<td width="44">
-<br/>
-</td>
-<td width="49">
-<br/>
-</td>
-<td width="49">
-<br/>
-</td>
-<td width="49">
-<p align="center">*</p>
-</td>
-<td width="50">
-<p align="center">A-0</p>
-</td>
-<td width="45">
-<p align="center">A-0</p>
-</td>
-<td width="52">
-<p align="center">A-60</p>
-</td>
-<td width="42">
-<p align="center">*</p>
-</td>
-</tr>
-<tr>
-<td width="214">
-<p>Autres   locaux de machines (7) </p>
+<p>Locaux de machines de la catégorie A (6) </p>
 </td>
 <td width="42">
 <br/>
@@ -341,24 +306,24 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="49">
-<br/>
+<p align="center">* </p>
 </td>
 <td width="50">
-<p align="center">A-0d</p>
+<p align="center">A-0 </p>
 </td>
 <td width="45">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="52">
-<p align="center">A-0</p>
+<p align="center">A-60 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Espaces à   cargaison (8) </p>
+<p>Autres locaux de machines (7) </p>
 </td>
 <td width="42">
 <br/>
@@ -379,21 +344,21 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="50">
-<br/>
+<p align="center">A-0d </p>
 </td>
 <td width="45">
-<p align="center">*</p>
+<p align="center">A-0 </p>
 </td>
 <td width="52">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Locaux de   service présentant un risque élevé d'incendie (9) </p>
+<p>Espaces à cargaison (8) </p>
 </td>
 <td width="42">
 <br/>
@@ -417,18 +382,53 @@ Table 1 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <br/>
 </td>
 <td width="45">
-<br/>
+<p align="center">* </p>
 </td>
 <td width="52">
-<p align="center">A-0d</p>
+<p align="center">A-0 </p>
 </td>
 <td width="42">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td width="214">
-<p>Ponts   découverts (10) </p>
+<p>Locaux de service présentant un risque élevé d'incendie (9) </p>
+</td>
+<td width="42">
+<br/>
+</td>
+<td width="42">
+<br/>
+</td>
+<td width="44">
+<br/>
+</td>
+<td width="49">
+<br/>
+</td>
+<td width="49">
+<br/>
+</td>
+<td width="49">
+<br/>
+</td>
+<td width="50">
+<br/>
+</td>
+<td width="45">
+<br/>
+</td>
+<td width="52">
+<p align="center">A-0d </p>
+</td>
+<td width="42">
+<p align="center">* </p>
+</td>
+</tr>
+<tr>
+<td width="214">
+<p>Ponts découverts (10)</p>
 </td>
 <td width="42">
 <br/>
@@ -476,89 +476,89 @@ d) Lorsque des locaux appartiennent à la même catégorie numérique et que l'i
 
 e) Les cloisons qui séparent la timonerie, la chambre des cartes et les locaux contenant le matériel radioélectrique les uns des autres peuvent être du type "B-0". Lorsqu'un astérisque apparaît dans la table, le cloisonnement doit être en acier ou en matériau équivalent sans être tenu d'être du type "A".
 
-f) Il n'est pas nécessaire de mettre en place une isolation contre l'incendie lorsque, de l'avis de l'administration, les risques d'incendie dans un local de machines de la catégorie (7) sont faibles ou inexistants.
+f) Il n'est pas nécessaire de mettre en place une isolation contre l'incendie lorsque, de l'avis de l'autorité compétente , les risques d'incendie dans un local de machines de la catégorie (7) sont faibles ou inexistants.
 
 g) Lorsqu'une astérisque apparaît dans la table, le cloisonnement doit être en acier ou en matériau équivalent, sans devoir être du type "A".
 
 Lorsqu'un pont est percé pour laisser passer des câbles électriques, des tuyaux et des conduits de ventilation, les points de passage doivent être hermétiques afin d'empêcher le passage des flammes et de la fumée.
 
-Table 2 - Intégrité au feu des ponts  qui séparent des locaux adjacents
+Table 2 - Intégrité au feu des ponts qui séparent des locaux adjacents
 
 <table>
 <tbody>
 <tr>
 <td width="122">
-<p align="center">Locaux au-dessous</p>
-<p align="center">↓</p>
+<p align="center">Locaux au-dessous </p>
+<p align="center">↓ </p>
 </td>
 <td width="81">
-<p align="center">Locaux au-dessus</p>
-<p align="center">→</p>
+<p align="center">Locaux au-dessus </p>
+<p align="center">→ </p>
 </td>
 <td width="46">
-<p align="center">(1)</p>
+<p align="center">(1) </p>
 </td>
 <td width="49">
-<p align="center">(2)</p>
+<p align="center">(2) </p>
 </td>
 <td width="40">
-<p align="center">(3)</p>
+<p align="center">(3) </p>
 </td>
 <td width="40">
-<p align="center">(4)</p>
+<p align="center">(4) </p>
 </td>
 <td width="40">
-<p align="center">(5)</p>
+<p align="center">(5) </p>
 </td>
 <td width="46">
-<p align="center">(6)</p>
+<p align="center">(6) </p>
 </td>
 <td width="46">
-<p align="center">(7)</p>
+<p align="center">(7) </p>
 </td>
 <td width="46">
-<p align="center">(8)</p>
+<p align="center">(8) </p>
 </td>
 <td width="46">
-<p align="center">(9)</p>
+<p align="center">(9) </p>
 </td>
 <td width="56">
-<p align="center">(10)</p>
+<p align="center">(10) </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Postes de   sécurité (1) </p>
+<p>Postes de sécurité (1) </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
@@ -566,69 +566,69 @@ Table 2 - Intégrité au feu des ponts  qui séparent des locaux adjacents
 <p>Coursives (2) </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="49">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Locaux   d'habitation (3) </p>
+<p>Locaux d'habitation (3) </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
@@ -636,235 +636,235 @@ Table 2 - Intégrité au feu des ponts  qui séparent des locaux adjacents
 <p>Escaliers (4) </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Locaux de   service présentant un faible risque d'incendie (5) </p>
+<p>Locaux de service présentant un faible risque d'incendie (5) </p>
 </td>
 <td width="46">
-<p align="center">A-15</p>
+<p align="center">A-15 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Locaux de   machines de la catégorie A (6) </p>
+<p>Locaux de machines de la catégorie A (6) </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="49">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="40">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="40">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="40">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="46">
-<p align="center">A-30</p>
+<p align="center">A-30 </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Autres   locaux de machines (7) </p>
+<p>Autres locaux de machines (7) </p>
 </td>
 <td width="46">
-<p align="center">A-15</p>
+<p align="center">A-15 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Espaces à   cargaison (8) </p>
+<p>Espaces à cargaison (8) </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Locaux de   service présentant un risque élevé d'incendie (9) </p>
+<p>Locaux de service présentant un risque élevé d'incendie (9) </p>
 </td>
 <td width="46">
-<p align="center">A-60</p>
+<p align="center">A-60 </p>
 </td>
 <td width="49">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="40">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0</p>
+<p align="center">A-0 </p>
 </td>
 <td width="46">
-<p align="center">A-0d</p>
+<p align="center">A-0d </p>
 </td>
 <td width="56">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="203">
-<p>Ponts   découverts (10) </p>
+<p>Ponts découverts (10) </p>
 </td>
 <td width="46">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="49">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="40">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
-<p align="center">*</p>
+<p align="center">* </p>
 </td>
 <td width="46">
 <p align="center">*</p>
@@ -879,6 +879,6 @@ Table 2 - Intégrité au feu des ponts  qui séparent des locaux adjacents
 </tbody>
 </table>
 
-5. Les cloisonnements extérieurs qui doivent être en acier ou autre matériau équivalent aux termes des dispositions du paragraphe 1 de l'article 228-5.03 peuvent être percés en vue de l'installation de fenêtres et de hublots s'il n'existe pas, ailleurs dans la présente partie, de dispositions exigeant que les cloisonnements en question aient une intégrité au feu du type "A". De même, les portes pratiquées dans les cloisonnements extérieurs qui ne sont pas tenus d'avoir une intégrité au feu du type "A" peuvent être construites en matériaux jugés satisfaisants par l'administration.
+5. Les cloisonnements extérieurs qui doivent être en acier ou autre matériau équivalent aux termes des dispositions du paragraphe 1 de l'article 228-5.03 peuvent être percés en vue de l'installation de fenêtres et de hublots s'il n'existe pas, ailleurs dans la présente partie, de dispositions exigeant que les cloisonnements en question aient une intégrité au feu du type "A". De même, les portes pratiquées dans les cloisonnements extérieurs qui ne sont pas tenus d'avoir une intégrité au feu du type "A" peuvent être construites en matériaux jugés satisfaisants par l'autorité compétente.
 
-6. Il n'est pas nécessaire de mettre en place une isolation contre l'incendie lorsque, de l'avis de l'administration, les risques d'incendie dans un local de machines de la catégorie (7) sont faibles ou inexistants.
+6. Il n'est pas nécessaire de mettre en place une isolation contre l'incendie lorsque, de l'avis de l'autorité compétente , les risques d'incendie dans un local de machines de la catégorie (7) sont faibles ou inexistants.

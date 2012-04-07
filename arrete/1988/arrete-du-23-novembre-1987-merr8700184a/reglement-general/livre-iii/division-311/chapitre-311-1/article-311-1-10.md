@@ -16,8 +16,8 @@ c) à des défauts inhérents aux normes d'essai elles-mêmes.
 
 2. La Commission engage dans les meilleurs délais des consultations avec les parties concernées. Lorsque, à l'issue de ces consultations, la Commission conclut que :
 
-- les mesures sont justifiées, elle en informe immédiatement l'administration et les autres Etats membres. Lorsque la décision visée au paragraphe 1 est motivée par des défauts inhérents aux normes d'essai, la Commission, après avoir consulté les parties concernées, saisit le comité institué à l'article 18 de la directive 96/98./CE dans un délai de deux mois, si l'administration a l'intention de maintenir sa décision, et elle engage la procédure visée à cet article 18 ;
+- les mesures sont justifiées, elle en informe immédiatement l'administration et les autres Etats membres. Lorsque la décision visée au paragraphe 1 est motivée par des défauts inhérents aux normes d'essai, la Commission, après avoir consulté les parties concernées, saisit le comité institué à l'article 18 de la directive 96/98/CE dans un délai de deux mois, si l'administration a l'intention de maintenir sa décision, et elle engage la procédure visée à cet article 18 ;
 
 - les mesures sont injustifiées, elle en informe immédiatement l'administration et le fabricant ou son mandataire agréé établi dans la Communauté.
 
-3. L'administration prend les mesures appropriées lorsqu'un équipement, portant le marquage apposé par ou sous le contrôle d'un organisme notifié relevant de son autorité, se révèle non conforme. Elle en informe la Commission et les autres Etats membres.
+3. L'administration prend les mesures appropriées lorsqu'un équipement, portant le marquage apposé par ou sous le contrôle d'un organisme habilité relevant de son autorité, se révèle non conforme. Elle en informe la Commission et les autres Etats membres.

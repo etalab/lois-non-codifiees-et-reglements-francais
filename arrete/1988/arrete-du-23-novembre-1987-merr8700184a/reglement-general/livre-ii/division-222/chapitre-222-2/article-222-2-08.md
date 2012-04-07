@@ -10,9 +10,9 @@ Stabilité à l'état intact
 
 1.1.2. Les informations sur la stabilité à l'usage du capitaine doivent être en permanence à bord du navire. 1.2. Expérience de stabilité :
 
-1.2.1. Un plan faisant apparaître les tirants d'eau ou la position des repères d'enfoncement tels que requis par l'article 222-2.01 (§ 6) doit être communiqué au centre de sécurité, puis classé ensuite au dossier du navire prévu à l'article 120-4.01 du présent règlement.
+1.2.1. Un plan faisant apparaître les tirants d'eau ou la position des repères d'enfoncement tels que requis par l'article 222-2.01 (§ 6) doit être communiqué au centre de sécurité, puis classé ensuite au dossier du navire prévu par la division 130 du présent règlement.
 
-1.2.2. Les calculs d'ordinateur, visés par la société de classification qui délivre le franc-bord pour les navires de longueur hors tout supérieure ou égale à 12 mètres et donnant la position de la ligne de base, les éléments hydrostatiques et la stabilité à l'état intact doivent être fournis au centre de sécurité concerné. Ce document est à joindre au dossier du navire prévu à l'article 120-4.01 du présent règlement.
+1.2.2. Les calculs d'ordinateur, visés par la société de classification qui délivre le franc-bord pour les navires de longueur hors tout supérieure ou égale à 12 mètres et donnant la position de la ligne de base, les éléments hydrostatiques et la stabilité à l'état intact doivent être fournis au centre de sécurité concerné. Ce document est à joindre au dossier du navire prévu par la division 130 du présent règlement.
 
 1.2.3. Les navires doivent subir, après leur achèvement et, dans toute la mesure du possible, navire terminé, engins de sauvetage à leur poste, une expérience de stabilité destinée à déterminer le déplacement réel du navire à l'état lège et les coordonnées de son centre de gravité.
 

@@ -10,11 +10,11 @@ Moyens d'évacuation
 
 1.2.2. Au-dessus du pont découvert, les moyens d'évacuation doivent être constitués par des escaliers ou des portes donnant accès à un pont exposé ou par une combinaison des deux. Lorsqu'il n'est pas possible de prévoir d'escalier ou de porte, l'un de ces moyens d'évacuation peut être constitué par des hublots ou des écoutilles de dimensions convenables, protégés si nécessaire contre l'accumulation de glace ;
 
-1.3. L'administration peut, à titre exceptionnel, autoriser qu'il n'y ait qu'un seul moyen d'évacuation, compte tenu de la nature et de l'emplacement des locaux ainsi que du nombre de personnes qui peuvent normalement y habiter ou y travailler ;
+1.3. L'autorité compétente peut, à titre exceptionnel, autoriser qu'il n'y ait qu'un seul moyen d'évacuation, compte tenu de la nature et de l'emplacement des locaux ainsi que du nombre de personnes qui peuvent normalement y habiter ou y travailler ;
 
 1.4. Une coursive ou une partie de coursive qui n'offre qu'une échappée doit, de préférence, avoir une longueur qui n'est pas supérieure à 2,5 mètres et qui, en aucun cas, n'excède 5 mètres ;
 
-1.5. La largeur et la continuité des moyens d'évacuation doivent être jugées satisfaisantes par l'administration ; et
+1.5. La largeur et la continuité des moyens d'évacuation doivent être jugées satisfaisantes par l'autorité compétente ; et
 
 2. On doit prévoir, à partir de chaque local de machines de la catégorie A, deux moyens d'évacuation aussi éloignés que possible l'un de l'autre. Les moyens d'évacuation verticaux doivent être constitués par des échelles en acier. Lorsque la dimension de ces locaux ne permet pas l'application du présent article, un de ces moyens d'évacuation peut être omis. En pareil cas, il convient de porter une attention particulière à l'autre issue.
 

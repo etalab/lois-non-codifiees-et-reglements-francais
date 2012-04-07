@@ -2,7 +2,7 @@
 
 Dispositifs de sonde
 
-1. Des dispositifs de sonde jugés satisfaisants par l'administration doivent être installés :
+1. Des dispositifs de sonde jugés satisfaisants par l'autorité compétente doivent être installés :
 
 1.1 dans les bouchains des compartiments qui ne sont pas facilement accessibles en permanence pendant le voyage ; et
 

@@ -21,6 +21,5 @@
 - [Article 228-2.19](article-228-2-19.md)
 - [Article 228-2.20](article-228-2-20.md)
 - [Article 228-2.21](article-228-2-21.md)
-- [Article Annexe 228-2.A.1](article-annexe-228-2-a-1.md)
 - [Article Annexe 228-2.A.2](article-annexe-228-2-a-2.md)
 - [Article Annexe 228-2.A.3](article-annexe-228-2-a-3.md)

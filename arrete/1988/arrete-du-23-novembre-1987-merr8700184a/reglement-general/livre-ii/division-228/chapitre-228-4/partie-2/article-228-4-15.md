@@ -2,9 +2,9 @@
 
 Installations frigorifiques pour la conservation de la prise
 
-1. Les installations frigorifiques doivent être conçues, construites, soumises à des essais et mises en place de manière à ce qu'il soit tenu compte de la sécurité de l'installation ainsi que des émissions de chlorofluorocarbone (CFC) ou autres substances appauvrissant la couche d'ozone en provenance de l'agent réfrigérant dont la quantité ou la concentration présente des risques pur la santé de l'homme ou pour l'environnement ; elles doivent être jugées satisfaisantes par l'administration.
+1. Les installations frigorifiques doivent être conçues, construites, soumises à des essais et mises en place de manière à ce qu'il soit tenu compte de la sécurité de l'installation ainsi que des émissions de chlorofluorocarbone (CFC) ou autres substances appauvrissant la couche d'ozone en provenance de l'agent réfrigérant dont la quantité ou la concentration présente des risques pur la santé de l'homme ou pour l'environnement ; elles doivent être jugées satisfaisantes par l'autorité compétente .
 
-2. Les agents réfrigérants utilisés dans les installations frigorifiques doivent être jugés satisfaisants par l'administration. Toutefois, le chlorure de méthyle ou les CFC dont le potentiel d'appauvrissement de la couche d'ozone est supérieur à 5 pour cent de CFC-11 ne doivent pas être utilisés comme agents réfrigérants.
+2. Les agents réfrigérants utilisés dans les installations frigorifiques doivent être jugés satisfaisants par l'autorité compétente . Toutefois, le chlorure de méthyle ou les CFC dont le potentiel d'appauvrissement de la couche d'ozone est supérieur à 5 pour cent de CFC-11 ne doivent pas être utilisés comme agents réfrigérants.
 
 3.1 Les installations frigorifiques doivent être protégées de manière efficace contre les vibrations, les chocs, la dilatation, la compression, etc., et être pourvues d'un dispositif automatique de sécurité afin d'empêcher une hausse dangereuse de température et de pression.
 
@@ -40,7 +40,7 @@ Les installations de conditionnement d'air à détente directe utilisant l'ammon
 
 7.2. Prescriptions particulières aux installations de congélation du poisson :
 
-Les installations de congélation du poisson doivent répondre au règlement d'une société de classification reconnue pour ce qui concerne leur conception et leurs équipements.
+Les installations de congélation du poisson doivent répondre au règlement d'une société de classification habilitée pour ce qui concerne leur conception et leurs équipements.
 
 Les serpentins des cuves de congélation doivent être conçus de manière à ce que les opérations de chargement ou de déchargement de ces cuves ne les exposent pas à être endommagés.
 

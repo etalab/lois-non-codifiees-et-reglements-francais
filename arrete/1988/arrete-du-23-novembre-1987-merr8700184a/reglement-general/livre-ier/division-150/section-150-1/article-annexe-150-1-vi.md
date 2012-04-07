@@ -4,7 +4,11 @@ PROCÉDURES POUR LE CONTRÔLE DES NAVIRES
 
 (visés à l'article 150-1.15, §1)
 
-Annexe 1. - "Directives pour les inspecteurs du contrôle par l'Etat du port" du mémorandum d'entente de Paris, et instructions ci-après du mémorandum d'entente de Paris, dans leur version actualisée :
+1. Annexes du protocole d'entente du mémorandum d'entente de Paris.
+
+2. Instructions ci-après du mémorandum d'entente de Paris, dans leur version actualisée :
+
+Annexe 1. "Directives pour les inspecteurs du contrôle par l'Etat du port" du mémorandum d'entente de Paris, et instructions ci-après du mémorandum d'entente de Paris, dans leur version actualisée :
 
 - instruction 33/2000/02 : Operational Control on Ferries and Passenger Ships (instruction 33/2000/02 : Contrôle opérationnel des transbordeurs et navires à passagers) ;
 
@@ -18,7 +22,7 @@ Annexe 1. - "Directives pour les inspecteurs du contrôle par l'Etat du port" du
 
 - instruction 37/2004/10 : Guidelines for Port State Control Officers on Security Aspects (instruction 37/2004/10 : Directives pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant les aspects liés à la sécurité) ;
 
-- instruction 38/2005/02 : Guidelines for PSCO's Checking a Voyage Data Recorder (VDR) [instruction 38/2005/02 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant la vérification de l'enregistreur des données du voyage (VDR)] ;
+- instruction 38/2005/02 : Guidelines for PSCOs Checking a Voyage Data Recorder (VDR) [instruction 38/2005/02 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant la vérification de l'enregistreur des données du voyage (VDR)] ;
 
 - instruction 38/2005/05 : Guidelines on Marpol 73/78 Annex I (instruction 38/2005/05 : Orientations relatives à la convention Marpol 73/78, annexe I) ;
 

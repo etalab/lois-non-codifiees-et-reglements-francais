@@ -40,7 +40,7 @@ Lorsque ces pompes aspirent au collecteur d'assèchement, leur débit doit satis
 
 2.3. Chaque pompe d'assèchement exigée, à l'exception des pompes supplémentaires qui peuvent être prévues pour les coquerons seulement, doit être disposée de manière à pouvoir aspirer dans un compartiment quelconque pour lequel l'assèchement est exigé en application des dispositions de l'alinéa 1.1 ci-dessus.
 
-2.4. Chaque pompe d'assèchement mue par une source d'énergie doit être capable de pomper l'eau dans le collecteur principal d'assèchement prescrit à une vitesse d'au moins 2 m/s. Les pompes d'assèchement indépendantes actionnées par une source d'énergie et placées dans des locaux de machines doivent avoir des aspirations directes dans ces locaux, avec cette réserve qu'il ne peut être exigé plus de deux aspirations pour l'un quelconque de ces locaux. Lorsque de telles aspirations sont au nombre de deux ou plus, on doit en prévoir au moins une de chaque bord du navire.
+2.4. Chaque pompe d'assèchement mue par une source d'énergie doit être capable de pomper l'eau dans le collecteur principal d'assèchement prescrit à une vitesse d'au moins 2 m/ s. Les pompes d'assèchement indépendantes actionnées par une source d'énergie et placées dans des locaux de machines doivent avoir des aspirations directes dans ces locaux, avec cette réserve qu'il ne peut être exigé plus de deux aspirations pour l'un quelconque de ces locaux. Lorsque de telles aspirations sont au nombre de deux ou plus, on doit en prévoir au moins une de chaque bord du navire.
 
 Les aspirations directes doivent être convenablement disposées et celles qui sont situées dans un local de machines doivent être d'un diamètre au moins égal à celui qui est exigé pour le collecteur principal d'assèchement.
 
@@ -54,7 +54,7 @@ Les aspirations directes doivent être convenablement disposées et celles qui s
 
 2.7. Le diamètre du collecteur principal doit être calculé à partir de la formule suivante. Toutefois, le diamètre intérieur réel du collecteur principal peut être arrondi à la valeur normalisée la plus proche jugée acceptable par l'autorité compétente.
 
-d = 25 + 1,68 √L(B+D)
+d = 25 + 1,68 √ L (B + D)
 
 dans cette formule :
 
@@ -62,11 +62,11 @@ d est le diamètre intérieur du collecteur principal, en millimètres ;
 
 L et B sont respectivement la longueur et la largeur du navire en mètres, au sens de la définition de l'article 229-II-1.01 ; et
 
-D est le creux sur quille du navire mesuré au pont de franc-bord (en mètres) ; toutefois, sur un navire ayant un espace à cargaison fermé situé sur le pont de franc-bord, asséché vers l'intérieur conformément aux dispositions du paragraphe 1.6.2 et s'étendant sur toute la longueur du navire, D est mesuré au pont situé immédiatement au-dessus du pont de franc-bord. Lorsque les espaces à cargaison fermés ont une longueur inférieure, D est pris égal à la valeur du creux sur quille mesuré au pont de franc-bord, à laquelle on ajoute le facteur l.h/L, l et h étant respectivement la longueur et la hauteur totales de ces espaces (en mètres).
+D est le creux sur quille du navire mesuré au pont de franc-bord (en mètres) ; toutefois, sur un navire ayant un espace à cargaison fermé situé sur le pont de franc-bord, asséché vers l'intérieur conformément aux dispositions du paragraphe 1.6.2 et s'étendant sur toute la longueur du navire, D est mesuré au pont situé immédiatement au-dessus du pont de franc-bord. Lorsque les espaces à cargaison fermés ont une longueur inférieure, D est pris égal à la valeur du creux sur quille mesuré au pont de franc-bord, à laquelle on ajoute le facteur l. h/ L, l et h étant respectivement la longueur et la hauteur totales de ces espaces (en mètres).
 
 2.8. Le diamètre des dérivations est calculé à partir de la formule suivante :
 
-d1 = 25 + 2,16 √L1 (B + D)
+d1 = 25 + 2,16 √ L1 (B + D)
 
 dans cette formule :
 
@@ -78,7 +78,7 @@ B et D ayant respectivement la même signification que dans la formule prescrite
 
 2.9. Outre le respect des prescriptions des alinéas 1.1. à 2.8. ci-dessus, sur les navires de longueur supérieure à 100 mètres, des mesures doivent être prises pour qu'un compartiment desservi par une aspiration d'assèchement ne puisse être envahi dans l'hypothèse où le tuyau correspondant viendrait à être fracturé ou endommagé dans un autre compartiment à la suite d'un abordage ou d'échouement. A cette fin, lorsque le tuyau en question se trouve, en une partie quelconque du navire, à une distance du bordé inférieure à un cinquième de la largeur du navire (telle que définie à l'article 229-II-1.01 et mesurée perpendiculairement au plan longitudinal au niveau de la ligne de charge maximale de compartimentage) ou lorsqu'il se trouve dans un tunnel de quille, il doit être pourvu d'un clapet de non-retour dans le compartiment contenant l'aspiration.
 
-3. A bord des navires-citernes, la formule figurant à l'alinéa 2.7. ci-dessus, à partir de laquelle est calculé le diamètre du collecteur principal d'assèchement, peut être remplacée par la formule utilisée par une société de classification agréée, sous réserve que :
+3. A bord des navires-citernes, la formule figurant à l'alinéa 2.7. ci-dessus, à partir de laquelle est calculé le diamètre du collecteur principal d'assèchement, peut être remplacée par la formule utilisée par une société de classification habilitée, sous réserve que :
 
 .1 la formule figure explicitement dans le règlement de la société de classification ; et
 

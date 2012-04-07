@@ -11,4 +11,3 @@
 - [Article 222-2.09](article-222-2-09.md)
 - [Article 222-2.10](article-222-2-10.md)
 - [Article 222-2.11](article-222-2-11.md)
-- [Article Annexe 222-2.A.1](article-annexe-222-2-a-1.md)

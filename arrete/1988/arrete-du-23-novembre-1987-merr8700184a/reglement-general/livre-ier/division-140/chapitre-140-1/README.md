@@ -10,5 +10,3 @@
 - [Article 140-1.08](article-140-1-08.md)
 - [Article Annexe 140-1.A.1](article-annexe-140-1-a-1.md)
 - [Article Annexe 140-1.A.2](article-annexe-140-1-a-2.md)
-- [Article Annexe 140-1.A.3](article-annexe-140-1-a-3.md)
-- [Article Annexe 140-1.A.4](article-annexe-140-1-a-4.md)

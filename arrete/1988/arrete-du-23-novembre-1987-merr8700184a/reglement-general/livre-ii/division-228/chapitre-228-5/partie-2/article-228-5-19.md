@@ -2,7 +2,7 @@
 
 Bouches d'incendie, manches et ajutages
 
-1.1. Il doit être prévu un nombre de manches d'incendie égal au nombre de bouches d'incendie répondant aux dispositions du paragraphe 2 plus une manche supplémentaire. Dans ce nombre ne sont pas comprises les manches d'incendie prescrites pour les chambres des machines et les chaufferies. L'administration peut augmenter le nombre des manches d'incendie prescrites afin qu'à tout moment le nombre des manches disponibles et accessibles soit suffisant compte tenu des dimensions du navire.
+1.1. Il doit être prévu un nombre de manches d'incendie égal au nombre de bouches d'incendie répondant aux dispositions du paragraphe 2 plus une manche supplémentaire. Dans ce nombre ne sont pas comprises les manches d'incendie prescrites pour les chambres des machines et les chaufferies. L'autorité compétente peut augmenter le nombre des manches d'incendie prescrites afin qu'à tout moment le nombre des manches disponibles et accessibles soit suffisant compte tenu des dimensions du navire.
 
 1.2. Les manches d'incendie doivent être en matériaux approuvés, elles doivent être d'une longueur suffisante pour permettre de diriger un jet d'eau sur l'un quelconque des points où leur utilisation peut être rendue nécessaire. Leur longueur maximale doit être de 20 m. Chaque manche d'incendie doit être pourvue d'un ajutage et des raccords nécessaires. Les manches d'incendie ainsi que les outils et accessoires nécessaires doivent être constamment prêts à être utilisés. Ils doivent être placés en évidence à proximité des bouches ou raccords d'incendie.
 
@@ -14,7 +14,7 @@ Bouches d'incendie, manches et ajutages
 
 4. Un robinet ou une soupape doit être prévu pour chaque manche d'incendie de manière qu'une quelconque de ces manches puisse être débranchée pendant que les pompes d'incendie fonctionnent.
 
-5.1. Les ajutages des lances doivent avoir des diamètres normalisés de 12 mm, 16 mm et 19 mm ou des diamètres aussi proches que possible de ces valeurs. L'administration peut à sa discrétion autoriser des ajutages de diamètre supérieur.
+5.1. Les ajutages des lances doivent avoir des diamètres normalisés de 12 mm, 16 mm et 19 mm ou des diamètres aussi proches que possible de ces valeurs. L'autorité compétente peut à sa discrétion autoriser des ajutages de diamètre supérieur.
 
 5.2. Il n'est pas nécessaire d'utiliser des ajutages d'un diamètre supérieur à 12 mm pour les locaux d'habitation et les locaux de service.
 

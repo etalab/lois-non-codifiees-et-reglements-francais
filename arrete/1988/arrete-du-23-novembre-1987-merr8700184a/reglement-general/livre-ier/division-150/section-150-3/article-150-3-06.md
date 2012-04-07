@@ -6,4 +6,4 @@ Procédures de suivi et droit de recours.
 
 2. Les dispositions de l'article 150-1.17 "Rapport d'inspection au capitaine" de la présente division sont applicables au présent chapitre.
 
-3. Les dispositions des paragraphes 6, 7 et 8 de l'article 150-1.19 de la présente division portant sur les éventuelles dispositions conventionnelles des procédures de notification et des rapports de visite ainsi que les immobilisations ou les retards indûment imposés au titre du contrôle des dispositions relatives à la durée du travail des gens de mer à bord des navires visés par le présent chapitre sont applicables.
+3. Les dispositions des paragraphes 7, 8, 9 et 12 de l'article 150-1.19 de la présente division portant sur les éventuelles dispositions conventionnelles des procédures de notification et des rapports de visite, ainsi que les immobilisations ou les retards indûment imposés au titre du contrôle des dispositions relatives à la durée du travail des gens de mer à bord des navires visés par le présent chapitre sont applicables.

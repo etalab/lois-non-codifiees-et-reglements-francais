@@ -4,7 +4,7 @@ Etanchéité
 
 1. Généralités :
 
-L'étanchéité de la construction et du cloisonnement est vérifiée par la société de classification agréée dans le cadre de la délivrance du certificat de franc-bord.
+L'étanchéité de la construction et du cloisonnement est vérifiée par la société de classification habilitée dans le cadre de la délivrance du certificat de franc-bord.
 
 2. Construction et épreuves initiales des cloisons étanches à l'eau
 
@@ -28,7 +28,7 @@ L'étanchéité de la construction et du cloisonnement est vérifiée par la soc
 
 3.2. Les tambours, tunnels et manches de ventilation étanches à l'eau sont soumis à une épreuve d'étanchéité à la lance après leur construction ; l'essai des ponts étanches peut être effectué soit à la lance, soit en les recouvrant d'eau.
 
-Lorsque les essais sont effectués à la lance, la pression doit être au moins de 0,2 N/mm2 effectifs à l'entrée de la lance.
+Lorsque les essais sont effectués à la lance, la pression doit être au moins de 0,2 N/ mm2 effectifs à l'entrée de la lance.
 
 4. Traversée des cloisons, des ponts et des autres éléments structurels étanches à l'eau :
 

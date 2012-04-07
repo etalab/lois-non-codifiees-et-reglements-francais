@@ -2,4 +2,4 @@
 
 Autorités compétentes
 
-L'organisme notifié envoie au Ministre chargé de la marine marchande copie de toutes les approbations émises en son nom.
+L'organisme habilité envoie au Ministre chargé de la mer copie de toutes les approbations émises en son nom.

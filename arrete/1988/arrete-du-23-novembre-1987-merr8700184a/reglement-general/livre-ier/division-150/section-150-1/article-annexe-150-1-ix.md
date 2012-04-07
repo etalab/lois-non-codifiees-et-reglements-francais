@@ -12,11 +12,11 @@ Le point 3 contient des exemples d'anomalies qui peuvent en elles-mêmes justifi
 
 Les dommages accidentels subis par un navire en route vers un port ne constituent pas un motif d'immobilisation, pour autant :
 
-a) Que les dispositions contenues dans la règle I-11 (c) de la convention SOLAS 74 concernant la notification à l'administration de l'Etat du pavillon, à l'inspecteur désigné ou à l'organisme agréé chargé de délivrer le certificat approprié aient été dûment prises en compte ;
+a) Que les dispositions contenues dans la règle I-11(c) de la convention SOLAS 74 concernant la notification à l'administration de l'Etat du pavillon, à l'inspecteur désigné ou à l'organisme agréé chargé de délivrer le certificat appropriéaient été dûment prises en compte ;
 
 b) Qu'avant que le navire n'entre dans le port, le capitaine ou le propriétaire du navire ait fourni à l'autorité chargée du contrôle par l'Etat du port des précisions sur les circonstances de l'accident et les dommages subis et des informations concernant la notification obligatoire à l'administration de l'Etat du pavillon ;
 
-c) Que le navire fasse l'objet des mesures correctives appropriées, à la satisfaction de l'autorité ; et.
+c) Que le navire fasse l'objet des mesures correctives appropriées, à la satisfaction de l'autorité ; et
 
 d) Que l'autorité, une fois informée de l'exécution des mesures correctives, se soit assurée que les anomalies présentant un danger manifeste pour la sécurité, la santé ou l'environnement ont été effectivement corrigées.
 
@@ -24,11 +24,11 @@ d) Que l'autorité, une fois informée de l'exécution des mesures correctives, 
 
 Pour déterminer si un navire doit ou non être immobilisé, l'inspecteur doit, dans le cadre de son jugement professionnel, appliquer les critères suivants.
 
-Séquence.
+Séquence :
 
 Les navires qui ne sont pas aptes à prendre la mer doivent être immobilisés lors de la première inspection, quel que soit le temps que le navire passe au port.
 
-Critère.
+Critère :
 
 Le navire est immobilisé si ses anomalies sont suffisamment graves pour qu'un inspecteur doive retourner au navire pour s'assurer qu'elles ont été corrigées avant l'appareillage du navire.
 
@@ -38,39 +38,39 @@ La nécessité pour l'inspecteur de retourner au navire est une indication de la
 
 Pour décider si les anomalies constatées sur un navire sont suffisamment graves pour justifier l'immobilisation du navire, l'inspecteur doit vérifier si :
 
-1. Le navire dispose des documents appropriés en cours de validité ;
+1. Le navire dispose des documents appropriés en cours de validité.
 
 2. Le navire a l'équipage requis dans le document spécifiant les effectifs minimaux de sécurité.
 
 Au cours de l'inspection, l'inspecteur doit en outre vérifier si le navire et/ou l'équipage présente les capacités suivantes :
 
-3. Effectuer sans danger son prochain voyage ;
+3. Effectuer sans danger son prochain voyage.
 
-4. Assurer, dans des conditions de sécurité, la manutention, le transport et la surveillance de la cargaison pendant tout le prochain voyage ;
+4. Assurer, dans des conditions de sécurité, la manutention, le transport et la surveillance de la cargaison pendant tout le prochain voyage.
 
-5. Assurer le bon fonctionnement de la salle des machines pendant tout le prochain voyage ;
+5. Assurer le bon fonctionnement de la salle des machines pendant tout le prochain voyage.
 
-6. Assurer correctement la propulsion et la conduite pendant tout le prochain voyage ;
+6. Assurer correctement la propulsion et la conduite pendant tout le prochain voyage.
 
-7. Lutter efficacement contre l'incendie dans toute partie du navire si cela s'avère nécessaire lors du prochain voyage ;
+7. Lutter efficacement contre l'incendie dans toute partie du navire si cela s'avère nécessaire lors du prochain voyage.
 
-8. Quitter le navire rapidement et sans danger et effectuer un sauvetage si cela s'avère nécessaire lors du prochain voyage ;
+8. Quitter le navire rapidement et sans danger et effectuer un sauvetage si cela s'avère nécessaire lors du prochain voyage.
 
-9. Prévenir la pollution de l'environnement pendant tout le prochain voyage ;
+9. Prévenir la pollution de l'environnement pendant tout le prochain voyage.
 
-10. Maintenir une stabilité adéquate pendant tout le prochain voyage ;
+10. Maintenir une stabilité adéquate pendant tout le prochain voyage.
 
-11. Maintenir une étanchéité adéquate pendant tout le prochain voyage ;
+11. Maintenir une étanchéité adéquate pendant tout le prochain voyage.
 
-12. Communiquer dans des situations de détresse si cela s'avère nécessaire pendant le prochain voyage ;
+12. Communiquer dans des situations de détresse si cela s'avère nécessaire pendant le prochain voyage.
 
-13. Assurer des conditions de sécurité et d'hygiène à bord pendant tout le prochain voyage ;
+13. Assurer des conditions de sécurité et d'hygiène à bord pendant tout le prochain voyage.
 
 14. Fournir le plus d'informations possible en cas d'accident.
 
 Si la réponse à l'une de ces vérifications est négative, compte tenu de toutes les anomalies constatées, il faut sérieusement envisager d'immobiliser le navire. Une combinaison d'anomalies moins graves peut également justifier l'immobilisation du navire.
 
-43. Pour aider l'inspecteur à utiliser les présentes directives, on trouvera ci-après une liste des anomalies, regroupées selon la convention et/ou le code applicables, dont le caractère de gravité est tel qu'il peut justifier l'immobilisation du navire concerné. Cette liste ne se veut pas exhaustive.
+3. Pour aider l'inspecteur à utiliser les présentes directives, on trouvera ci-après une liste des anomalies, regroupées selon la convention et/ou le code applicables, dont le caractère de gravité est tel qu'il peut justifier l'immobilisation du navire concerné. Cette liste ne se veut pas exhaustive.
 
 3.1. Généralités.
 
@@ -148,7 +148,7 @@ Absence des certificats et documents en cours de validité requis par les instru
 
 11. Transport de substances à inhiber sans certification d'accompagnement valable.
 
-3.5. Domaines relevant de la convention LL. 66.
+3.5. Domaines relevant de la convention LL 66.
 
 1. Avaries ou corrosion étendues, corrosion des tôles ou des raidisseurs sur ponts ou sur coque, affectant l'aptitude à la navigation ou la résistance à des charges localisées, sauf si des réparations temporaires appropriées ont été effectuées pour permettre au navire de se rendre dans un port afin d'y subir des réparations définitives.
 
@@ -172,9 +172,9 @@ Absence des certificats et documents en cours de validité requis par les instru
 
 4. Montage illicite d'une dérivation de rejet.
 
-5. Dossier des rapports de visites absent ou non conforme à la règle 13 G (3) (b) de la convention MARPOL 73/78.
+5. Dossier des rapports de visites absent ou non conforme à la règle 13 G (3) (b) de la convention Marpol 73/78.
 
-3.7. Domaines relevant de la convention MARPOL 73/78, annexe II.
+3.7. Domaines relevant de la convention Marpol 73/78, annexe II.
 
 1. Absence du manuel P & A.
 
@@ -186,7 +186,7 @@ Absence des certificats et documents en cours de validité requis par les instru
 
 5. Montage illicite d'une dérivation de rejet.
 
-3.8. Domaines relevant de la convention MARPOL 73/78, annexe V.
+3.8. Domaines relevant de la convention Marpol 73/78, annexe V.
 
 1. Absence de plan de gestion des ordures.
 
@@ -194,7 +194,7 @@ Absence des certificats et documents en cours de validité requis par les instru
 
 3. Personnel navigant ne connaissant pas les dispositions du plan de gestion en matière d'élimination et d'évacuation des ordures.
 
-3.9. Domaines relevant de la convention STCW 78/95 et de la directive 2008/106/CE.
+3.9. Domaines relevant de la convention STCW 78/95 et de la directive n° 2008/106/CE.
 
 1. Les gens de mer tenus d'être titulaires d'un brevet ne possèdent pas de brevet approprié ou de dispense valide, ou ne fournissent pas de documents prouvant qu'une demande de visa a été soumise à l'administration de l'Etat du pavillon.
 

@@ -8,7 +8,7 @@ Machines à combustion interne
 
 2.1. Dans le cas où ce démarrage est assuré au moyen d'air comprimé, l'installation comporte un système d'au moins 2 compresseurs d'air refoulant dans 2 réservoirs au moins.
 
-Toutefois, l'administration peut donner son accord pour qu'un des deux compresseurs d'air soit remplacé par un dispositif jugé équivalent.
+Toutefois, l'autorité compétente peut donner son accord pour qu'un des deux compresseurs d'air soit remplacé par un dispositif jugé équivalent.
 
 Le dispositif équivalent à l'un des deux compresseurs exigés peut être, par exemple, un démarreur rapide offrant toute garantie de sécurité.
 
@@ -18,7 +18,7 @@ Le volume total des réservoirs d'air d'une installation de démarrage de machin
 
 Un second dispositif de démarrage, qui peut être soit une autre batterie d'accumulateurs pouvant être affectée au service général, soit un démarreur rapide offrant toute garantie de sécurité est exigé.
 
-Les éléments de ces batteries doivent être disposés conformément aux prescriptions de l'article 228-4.18 §9.
+Les éléments de ces batteries doivent être disposés conformément aux prescriptions de l'article 228-4.18 § 9.
 
 3. Pour les installations de propulsion comportant des moteurs suralimentés, des dispositions sont prévues pour qu'en cas d'avarie d'une turbosoufflante de suralimentation les moteurs puissent continuer à fonctionner dans les conditions précisées à l'article 228-4.03 § 3.1).
 

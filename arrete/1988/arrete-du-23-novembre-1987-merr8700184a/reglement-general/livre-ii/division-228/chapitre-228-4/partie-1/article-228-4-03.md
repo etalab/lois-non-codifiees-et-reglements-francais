@@ -22,13 +22,13 @@ compris les hélices à pales orientables ;
 
 .5 le compresseur et le réservoir d'air utilisés pour le lancement ou les commandes.
 
-Toutefois, l'administration peut, compte tenu des considérations globales de sécurité, admettre une réduction
+Toutefois, l'autorité compétente peut, compte tenu des considérations globales de sécurité, admettre une réduction
 
 partielle du rendement par rapport au fonctionnement normal.
 
 3.2 Il doit être prévu des moyens permettant de mettre en marche les machines sans aide extérieure lorsque le navire est à l'arrêt complet.
 
-4. L'appareil propulsif principal et tous les dispositifs auxiliaires essentiels à la propulsion et à la sécurité du navire doivent pouvoir fonctionner tels qu'ils ont été installés, que le navire soit en position droite ou qu'il ait une inclinaison inférieure ou égale à 15 degrés d'un bord ou de l'autre en condition statique et à 22,5 degrés d'un bord ou de l'autre en condition dynamique, c'est-à-dire qu'il roule d'un bord ou de l'autre et tangue, simultanément, selon un angle d'assiette maximal de ±7,5 degrés en condition dynamique. L'administration peut autoriser une modification de ces angles en tenant compte du type, de la dimension et des conditions de service du navire.
+4. L'appareil propulsif principal et tous les dispositifs auxiliaires essentiels à la propulsion et à la sécurité du navire doivent pouvoir fonctionner tels qu'ils ont été installés, que le navire soit en position droite ou qu'il ait une inclinaison inférieure ou égale à 15 degrés d'un bord ou de l'autre en condition statique et à 22,5 degrés d'un bord ou de l'autre en condition dynamique, c'est-à-dire qu'il roule d'un bord ou de l'autre et tangue, simultanément, selon un angle d'assiette maximal de ± 7,5 degrés en condition dynamique. L'autorité compétente peut autoriser une modification de ces angles en tenant compte du type, de la dimension et des conditions de service du navire.
 
 5. On doit accorder une attention particulière à la conception, à la construction et à l'installation des circuits de l'appareil propulsif de telle sorte que leurs vibrations, quelle qu'en soit l'amplitude, n'exercent pas de contraintes excessives sur ces circuits de l'appareil propulsif dans les conditions normales de fonctionnement.
 
@@ -44,21 +44,21 @@ Installations électriques :
 
 6.3 la protection de l'équipage et du navire contre les accidents d'origine électrique.
 
-7. L'administration doit veiller à ce que les articles 228-4.16 à 228-4.18 soient mis en œuvre et appliqués de manière uniforme, et conformément aux règles d'un organisme reconnu (1).
+7. L'autorité compétente doit veiller à ce que les articles 228-4.16 à 228-4.18 soient mis en œuvre et appliqués de manière uniforme, et conformément aux règles d'un organisme reconnu (1).
 
 Locaux de machines exploités sans présence permanente de personnel :
 
 8. Les articles 228-4.19 à 228-4.24 s'appliquent aux navires ayant des locaux de machines exploités sans présence permanente de personnel en plus des articles 228-4.03 à 228-4.18 et 228-5.01 à 228-5.44.
 
-9. Il convient de prendre les mesures jugées satisfaisantes par l'administration pour assurer le bon fonctionnement de tout le matériel dans toutes les conditions d'exploitation, y compris pendant la manœuvre, et de prendre des dispositions conformes aux règles d'un organisme reconnu pour s'assurer, grâce à des inspections régulières et à des essais de routine, que ce matériel continue à fonctionner correctement.
+9. Il convient de prendre les mesures jugées satisfaisantes par l'autorité compétente pour assurer le bon fonctionnement de tout le matériel dans toutes les conditions d'exploitation, y compris pendant la manœuvre, et de prendre des dispositions conformes aux règles d'un organisme reconnu pour s'assurer, grâce à des inspections régulières et à des essais de routine, que ce matériel continue à fonctionner correctement.
 
 10. Les navires doivent être munis de documents conformes aux règles d'un organisme reconnu et attestant qu'ils peuvent être exploités sans présence permanente de personnel dans les locaux de machines.
 
 11.1. Un navire d'une longueur inférieure à 45 m réunit les conditions d'application des articles 5 et 6 du décret n° 77-794 du 8 juillet 1977 s'il est conforme aux dispositions des parties 1,2,3 et 5 du présent chapitre.
 
-Les modalités pratiques d'application de la présente partie, ainsi que les contrôles et essais à effectuer sont fixés par l'annexe 228-4.A.1.
+Les modalités pratiques d'application de la présente partie, ainsi que les contrôles et essais à effectuer sont fixés par l'annexe 228-4. A. 1.
 
-Les documents à soumettre doivent recevoir, préalablement à leur soumission, le visa d'une société de classification reconnue.
+Les documents à soumettre doivent recevoir, préalablement à leur soumission, le visa d'une société de classification habilitée.
 
 11.2. La 4e partie du présent titre décrit les dispositions supplémentaires qui s'appliquent aux navires d'une longueur supérieure à 45 mètres dont l'armateur demande que les locaux de machine soient exploités sans présence permanente de personnel.
 

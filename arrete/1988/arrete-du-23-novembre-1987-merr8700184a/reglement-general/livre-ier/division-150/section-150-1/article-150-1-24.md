@@ -7,3 +7,5 @@ Base de données des inspections.
 2. Dans un délai maximal de soixante-douze heures, l'inspecteur veille à ce que les informations transférées à la base de données des inspections soient validées à des fins de publication.
 
 3. Les fonctionnalités du système d'information sont détaillées dans l'annexe 150-1.XI.
+
+4. Pour les anomalies qui relèvent exclusivement de la réglementation communautaire, le rapport distinct est conservé au CSN.

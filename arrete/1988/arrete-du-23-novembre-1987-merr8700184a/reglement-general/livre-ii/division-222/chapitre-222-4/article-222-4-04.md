@@ -2,7 +2,7 @@
 
 Dispositif d'extinction par le gaz
 
-1. L'utilisation d'un agent d'extinction qui, de l'avis du ministre chargé de la marine marchande, émet soit spontanément, soit dans les conditions d'utilisation prévues des gaz toxiques en quantité telle qu'ils constituent un danger pour les personnes à bord, n'est pas autorisée.
+1. L'utilisation d'un agent d'extinction qui, de l'avis du ministre chargé de la mer, émet soit spontanément, soit dans les conditions d'utilisation prévues des gaz toxiques en quantité telle qu'ils constituent un danger pour les personnes à bord, n'est pas autorisée.
 
 La mise en œuvre du dispositif d'extinction doit résulter d'une manœuvre manuelle intentionnelle.
 
@@ -38,7 +38,7 @@ Un signal sonore et lumineux doit annoncer l'envoi de l'agent d'extinction dans 
 
 Ils doivent pouvoir être alimentés par la source d'énergie de secours et être distincts de toute autre alarme.
 
-Le temps séparant le déclenchement de l'alarme de l'arrivée du gaz dans l'espace protégé doit permettre l'évacuation du personnel présent dans l'espace protégé. Le bon fonctionnement de l'installation doit être vérifié périodiquement. Pour les navires de longueur (L<sub>r</sub>) inférieure à 24 mètres, le signal lumineux n'est pas exigé.
+Le temps séparant le déclenchement de l'alarme de l'arrivée du gaz dans l'espace protégé doit permettre l'évacuation du personnel présent dans l'espace protégé. Le bon fonctionnement de l'installation doit être vérifié périodiquement. Pour les navires de longueur (<sub>Lr</sub>) inférieure à 24 mètres, le signal lumineux n'est pas exigé.
 
 6. Les moyens de commande de tout dispositif fixe d'extinction par le gaz doivent être aisément accessibles, faciles à mettre en œuvre, être groupés en des endroits où ils ne risquent pas d'être isolés par un incendie dans l'espace protégé et posséder des instructions claires sur le fonctionnement du dispositif pour la sécurité du personnel.
 
@@ -74,7 +74,7 @@ Les dispositions doivent être telles qu'elles assurent une arrivée des deux ti
 
 12.3. Le dispositif de décharge doit être conçu de manière à pouvoir assurer l'arrivée d'une partie substantielle de la quantité minimale d'agent prescrite au paragraphe 12.6 dans un temps nominal d'au plus 20 secondes sur la base de la décharge de la phase liquide.
 
-12.4. Le système doit être conçu pour fonctionner dans une gamme de températures allant de 0°C à 55°C.
+12.4. Le système doit être conçu pour fonctionner dans une gamme de températures allant de 0° C à 55° C.
 
 12.5. L'arrivée de l'agent d'extinction dans un local ne doit pas constituer un danger pour le personnel chargé de l'entretien des machines et du matériel, ou qui utilise les échelles d'accès normales ou les échappées desservant le local. Ceci implique en particulier le respect de la concentration maximale précisée au paragraphe 12.6.
 
@@ -86,35 +86,35 @@ La quantité d'agent d'extinction pour les locaux de machine doit être calculé
 <tbody>
 <tr>
 <td width="175">
-<p align="center">Halon</p>
+<p align="center">Halon </p>
 </td>
 <td width="140">
-<p align="center">Minimum</p>
+<p align="center">Minimum </p>
 </td>
 <td width="135">
-<p align="center">Maximum</p>
+<p align="center">Maximum </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="175">
-<p align="center">1301</p>
+<p align="center">1301 </p>
 </td>
 <td valign="top" width="140">
-<p align="center">4,25 %</p>
+<p align="center">4,25 % </p>
 </td>
 <td valign="top" width="135">
-<p align="center">7 %</p>
+<p align="center">7 % </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="175">
-<p align="center">1211</p>
+<p align="center">1211 </p>
 </td>
 <td valign="top" width="140">
-<p align="center">4,25 %</p>
+<p align="center">4,25 % </p>
 </td>
 <td valign="top" width="135">
-<p align="center">5,5 %</p>
+<p align="center">5,5 % </p>
 </td>
 </tr>
 </tbody>
@@ -148,7 +148,7 @@ Les dispositifs qui produisent la pression pneumatique ou hydraulique doivent ê
 
 12.7.8. Chaque réservoir sous pression ne doit pas être muni de plus de deux ajutages de décharge.
 
-La quantité maximale d'agent d'extinction par réservoir doit être jugée satisfaisante par le ministre chargé de la marine marchande eu égard à la nécessité de répartir uniformément l'agent dans l'ensemble du local.
+La quantité maximale d'agent d'extinction par réservoir doit être jugée satisfaisante par le ministre chargé de la mer eu égard à la nécessité de répartir uniformément l'agent dans l'ensemble du local.
 
 12.7.9. Les réservoirs doivent être munis de moyens permettant de détecter les baisses de pression dues à des fuites ou à des émissions.
 

@@ -54,7 +54,7 @@ Les tuyautages de combustible sont repérés par des marques aux couleurs conven
 
 Les organes de sectionnement sont munis de plaques indicatrices précisant les appareils ou circuits qu'ils desservent à moins que, du fait de leur disposition à bord, il ne puisse y avoir de doute sur leur destination. Ces plaques ne doivent pas être fixées sur la partie mobile du sectionnement considéré, sauf si elles sont d'un modèle approprié.
 
-9 Les joints de dilatation non métalliques dans les systèmes de tuyautages doivent, s'ils sont situés dans un système qui traverse le bordé du navire et si le passage et le joint de dilatation non métallique se trouvent au-dessous de la ligne de charge maximale, être inspectés dans le cadre des visites prescrites par la division 120 du présent Règlement et remplacés selon les besoins ou à des intervalles recommandés par le fabricant.
+9. Les joints de dilatation non métalliques dans les systèmes de tuyautages doivent, s'ils sont situés dans un système qui traverse le bordé du navire et si le passage et le joint de dilatation non métallique se trouvent au-dessous de la ligne de charge maximale, être inspectés dans le cadre des visites prescrites par la division 130 du présent règlement et remplacés selon les besoins ou à des intervalles recommandés par le fabricant.
 
 10 Les consignes d'exploitation et d'entretien et les descriptifs des machines du navire et de I'équipement essentiel à la sécurité de l'exploitation du navire doivent être rédigés dans une langue que peuvent comprendre les officiers et les membres de l'équipage qui ont besoin de comprendre les renseignements en question pour s'acquitter de leurs fonctions.
 

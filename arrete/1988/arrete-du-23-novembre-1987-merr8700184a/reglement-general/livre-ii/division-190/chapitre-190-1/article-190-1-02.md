@@ -56,7 +56,7 @@ Au sens de la présente division, on entend par :
 
 15. "Espaces publics" : les halls, salles à manger, salons, bars, buvettes, locaux sanitaires, cabines, hôpitaux, cinémas, salles de jeux et de loisirs, coursives et allées, salons de coiffure, saunas et locaux de même nature. Sont exclus de cette définition les locaux réservés à l'équipage.
 
-16. "Navire à voile" : un navire dont la voilure constitue le mode principal de propulsion tel que défini par l'article 110-1.02 de la division 110 du présent règlement.
+16. " Navire à voile " : un navire dont la voilure constitue le mode principal de propulsion tel que défini par la division 110 du présent règlement.
 
 17. "Coursive" : une zone de circulation horizontale limitée latéralement par des cloisons.
 

@@ -2,7 +2,7 @@
 
 Connaissance des consignes en cas de situation critique
 
-L'administration doit prendre les mesures qu'elle juge appropriées pour que l'équipage soit suffisamment entraîné aux fonctions qu'il doit remplir en cas de situation critique. Cet entraînement doit porter, selon le cas, sur ce qui suit :
+L'autorité compétente doit prendre les mesures qu'elle juge appropriées pour que l'équipage soit suffisamment entraîné aux fonctions qu'il doit remplir en cas de situation critique. Cet entraînement doit porter, selon le cas, sur ce qui suit :
 
 1.1 types de situations critiques pouvant se produire, telles qu'abordage, incendie et perte par le fond ;
 
@@ -78,7 +78,7 @@ L'administration doit prendre les mesures qu'elle juge appropriées pour que l'�
 
 1.16 principaux dangers auxquels sont exposés les survivants et principes généraux de survie, y compris :
 
-1.16.1 précautions à prendre dans les climats froids ,
+1.16.1 précautions à prendre dans les climats froids,
 
 1.16.2 précautions à prendre dans les climats tropicaux ;
 

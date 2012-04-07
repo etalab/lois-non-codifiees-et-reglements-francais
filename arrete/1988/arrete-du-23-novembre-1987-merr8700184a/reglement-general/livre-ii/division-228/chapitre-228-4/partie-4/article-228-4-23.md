@@ -4,7 +4,7 @@ Dispositions spéciales applicables aux machines, aux chaudières et aux install
 
 1. A bord des navires d'une longueur égale ou supérieure à 75 mètres, la source principale d'énergie électrique doit répondre aux conditions suivantes :
 
-1.1 lorsque l'énergie électrique peut normalement être fournie par une seule génératrice, il convient de prévoir des mesures de délestage appropriées pour garantir la continuité de l'alimentation des services nécessaires à la propulsion et à la conduite du navire ainsi qu'à sa sécurité. Pour remédier aux cas de panne de la génératrice, ou de toute défaillance conduisant à la disjonction générale, il convient de prévoir la mise en marche et le branchement automatique au tableau principal d'une génératrice de réserve d'une puissance suffisante pour permettre la propulsion et la conduite du navire ainsi que le redémarrage automatique des appareils auxiliaires essentiels, qui doit être programmé s'il y a lieu. L'administration peut autoriser l'utilisation de dispositifs de mise en marche commandés à distance (manuels) et le branchement de la génératrice de réserve au tableau principal ainsi qu'un dispositif de redémarrage automatique des appareils auxiliaires essentiels ; et
+1.1 lorsque l'énergie électrique peut normalement être fournie par une seule génératrice, il convient de prévoir des mesures de délestage appropriées pour garantir la continuité de l'alimentation des services nécessaires à la propulsion et à la conduite du navire ainsi qu'à sa sécurité. Pour remédier aux cas de panne de la génératrice, ou de toute défaillance conduisant à la disjonction générale, il convient de prévoir la mise en marche et le branchement automatique au tableau principal d'une génératrice de réserve d'une puissance suffisante pour permettre la propulsion et la conduite du navire ainsi que le redémarrage automatique des appareils auxiliaires essentiels, qui doit être programmé s'il y a lieu. L'autorité compétente peut autoriser l'utilisation de dispositifs de mise en marche commandés à distance (manuels) et le branchement de la génératrice de réserve au tableau principal ainsi qu'un dispositif de redémarrage automatique des appareils auxiliaires essentiels ; et
 
 1.2 lorsque l'énergie électrique est normalement fournie par plusieurs génératrices fonctionnant simultanément, il convient de prévoir des mesures, par exemple un délestage, qui garantissent qu'en cas de panne de l'une des génératrices, les autres continuent à fonctionner sans surcharge pour permettre la propulsion et la conduite du navire.
 
@@ -24,7 +24,7 @@ Sauf exception justifiée, les dispositions mentionnées à l'annexe 228-4.A.1 e
 
 3.4 les tableaux d'alarme ainsi que les instruments destinés à indiquer les défaillances ayant déclenché une alarme doivent être installés, quand ils sont nécessaires, à un emplacement central approprié.
 
-4. Les conduits d'échappement et tous les organes susceptibles d'être portés à des températures supérieures à 220°C doivent être entièrement calorifugés ou protégés. Le calorifugeage doit être efficace et à l'abri des risques d'imprégnation par des hydrocarbures là où ces risques existent.
+4. Les conduits d'échappement et tous les organes susceptibles d'être portés à des températures supérieures à 220° C doivent être entièrement calorifugés ou protégés. Le calorifugeage doit être efficace et à l'abri des risques d'imprégnation par des hydrocarbures là où ces risques existent.
 
 5. L'arrêt des ventilateurs desservant les locaux de machines doit pouvoir être commandé depuis la passerelle.
 

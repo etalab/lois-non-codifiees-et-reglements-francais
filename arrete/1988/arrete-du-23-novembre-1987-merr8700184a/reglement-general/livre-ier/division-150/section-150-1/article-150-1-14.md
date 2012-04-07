@@ -2,15 +2,15 @@
 
 Inspections renforcées.
 
-1. Les navires des catégories ci-après sont susceptibles d'être soumis à une inspection renforcée conformément à l'annexe 150-1.I, partie II, points 3.A et 3.B :
+1. Les navires des catégories ci-après sont susceptibles d'être soumis à une inspection renforcée, conformément à l'annexe 150-1. I, partie II, points 3.A et 3.B :
 
-- les navires qui présentent un profil de risque élevé ;
+a) Les navires qui présentent un profil de risque élevé ;
 
-- les navires à passagers, les pétroliers, les navires-citernes pour gaz ou produits chimiques ou les vraquiers, de plus de douze ans ;
+b) Les navires à passagers, les pétroliers, les navires-citernes pour gaz ou produits chimiques ou les vraquiers de plus de douze ans ;
 
-- les navires qui présentent un profil de risque élevé ou les navires à passagers, les pétroliers, les navires-citernes pour gaz ou produits chimiques ou les vraquiers, de plus de douze ans, dans les cas où des facteurs prépondérants ou imprévus se manifestent ;
+c) Les navires qui présentent un profil de risque élevé ou les navires à passagers, les pétroliers, les navires-citernes pour gaz ou produits chimiques ou les vraquiers de plus de douze ans, dans les cas où des facteurs prépondérants ou imprévus se manifestent ;
 
-- les navires soumis à une nouvelle inspection après une mesure de refus d'accès prise conformément à l'article 150-1.16.
+d) Les navires soumis à une nouvelle inspection après une mesure de refus d'accès prise conformément à l'article 150-1.16.
 
 2. L'exploitant ou le capitaine du navire veille à ce que le programme des opérations prévoie suffisamment de temps pour que l'inspection renforcée soit menée.
 

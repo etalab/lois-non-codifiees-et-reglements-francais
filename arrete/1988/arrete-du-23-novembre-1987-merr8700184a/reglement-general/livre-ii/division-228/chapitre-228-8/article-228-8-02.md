@@ -24,7 +24,7 @@ Système d'alarme générale en cas de situation critique, rôle d'appel et cons
 
 5.6 les effectifs des équipes d'incendie chargées de lutter contre les incendies.
 
-6. Dans le cas des navires d'une longueur inférieure à 45 mètres, l'administration peut accorder une dérogation aux dispositions du paragraphe 5 si elle estime qu'en raison du nombre réduit des membres de l'équipage, un rôle d'appel n'est pas nécessaire.
+6. Dans le cas des navires d'une longueur inférieure à 45 mètres, l'autorité compétente peut accorder une dérogation aux dispositions du paragraphe 5 si elle estime qu'en raison du nombre réduit des membres de l'équipage, un rôle d'appel n'est pas nécessaire.
 
 7. Le rôle d'appel doit indiquer quels sont les officiers auxquels incombe la responsabilité de veiller à ce que les engins de sauvetage et dispositifs de lutte contre l'incendie soient maintenus en bon état de fonctionnement et puissent être employés immédiatement.
 

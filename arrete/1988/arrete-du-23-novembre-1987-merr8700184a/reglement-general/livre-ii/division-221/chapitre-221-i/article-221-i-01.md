@@ -2,9 +2,9 @@
 
 Application
 
-1 Sauf dispositions expresses contraires, la présente division s'applique :
+1. Sauf dispositions expresses contraires, la présente division s'applique :
 
-- aux navires à passagers effectuant des voyages internationaux quelle que soit la jauge brute, à l'exception de ceux définis à l'article 110-1.04 alinéa 5 du présent règlement ; et
+- aux navires à passagers effectuant des voyages internationaux quelle que soit la jauge brute, à l'exception de ceux définis à l'article 110-6 alinéa 7 du présent règlement ; et
 
 - aux navires de charge de jauge brute égale ou supérieure à 500 effectuant des voyages internationaux ou nationaux, à l'exception des navires visés par le division 229 du présent règlement.
 

@@ -24,7 +24,7 @@ Prescriptions relatives à l'entretien
 
 7 A bord des navires qui effectuent des voyages dans les zones océaniques A3 et A4, la disponibilité doit être assurée en appliquant une combinaison d'au moins deux méthodes comme l'installation en double du matériel, un entretien à terre ou une capacité d'entretien électronique de mer telles qu'elles peuvent être approuvées par l'Administration, compte tenu des recommandations de l'Organisation (2).
 
-Toutefois, l'administration peut exempter un navire de l'obligation d'utiliser deux méthodes et autoriser l'utilisation d'une seule méthode, compte tenu du type de navire et de son mode d'exploitation.
+Toutefois, l'autorité compétente peut exempter un navire de l'obligation d'utiliser deux méthodes et autoriser l'utilisation d'une seule méthode, compte tenu du type de navire et de son mode d'exploitation.
 
 8 Alors que toutes les mesures raisonnables doivent être prises pour maintenir le matériel en bon état de marche afin qu'il puisse assurer toutes les fonctions spécifiées à l'article 228-9.04, on ne doit pas considérer le mauvais fonctionnement du matériel destiné à assurer les radiocommunications d'ordre général prescrites à l'article 228-9.04.8 comme rendant un navire inapte à prendre la mer ou comme une raison suffisante pour le retenir dans un port ou il n'est guère facile de procéder à la réparation, sous réserve que ce navire soit capable d'assurer toutes les fonctions de détresse et de sécurité.
 

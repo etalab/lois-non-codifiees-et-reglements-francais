@@ -2,4 +2,4 @@
 
 Autorité compétente
 
-Dans les articles de la présente division les termes, autorité compétente désigne selon le cas le chef du centre de sécurité des navires, le    directeur interrégional de la mer, le ministre chargé de la marine marchande, comme il est indiqué dans le décret n° 84-810 du 30 août 1984 modifié publié dans le volume 1 du présent règlement.
+Dans les articles de la présente division les termes, autorité compétente désigne selon le cas le chef du centre de sécurité des navires, le directeur interrégional de la mer, le ministre chargé de la mer, comme il est indiqué dans le décret n° 84-810 du 30 août 1984 modifié publié dans le volume 1 du présent règlement.

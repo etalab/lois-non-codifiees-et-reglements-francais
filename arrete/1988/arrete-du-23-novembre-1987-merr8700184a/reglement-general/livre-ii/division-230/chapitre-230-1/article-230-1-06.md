@@ -2,11 +2,7 @@
 
 Visites périodiques
 
-1. Tout navire aquacole neuf ou existant doit subir une visite de renouvellement des titres de sécurité selon une périodicité ne dépassant pas les durées suivantes :
-
-- navires de moins de douze mètres exploités en 4e et 5e catégorie de navigation : quatre ans ;
-
-- autres navires : un an.
+1. Tout navire aquacole neuf ou existant doit subir une visite de renouvellement des titres de sécurité selon une périodicité ne dépassant pas cinq ans conformément aux articles 130.8 et 130.9 de la division 130 du présent règlement.
 
 2.1. Tout navire de moins de douze mètres doit subir une visite à sec de sa carène selon une périodicité maximale de quatre ans. Lors de cette visite périodique, le navire doit être présenté de manière telle que l'examen détaillé des œuvres vives ainsi que des prises d'eau, du gouvernail et de la ligne d'arbres puisse être effectué dans les meilleures conditions.
 

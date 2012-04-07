@@ -4,7 +4,7 @@ Fiche synoptique continue
 
 1. Une fiche synoptique continue doit être délivrée à tout navire auquel s'applique la présente division, à l'exception des navires de charge d'une jauge brute supérieure ou égale à 500 faisant des voyages nationaux.
 
-1 bis. La délivrance de la fiche synoptique continue est du ressort du centre de sécurité des navires compétent au sens de l'article 130-0.02.
+1 bis. La délivrance de la fiche synoptique continue est du ressort du centre de sécurité des navires compétent au sens de la division 130.
 
 2.1. La fiche synoptique continue vise à fournir un dossier de bord des antécédents du navire en ce qui concerne les renseignements qui y sont consignés.
 

@@ -8,6 +8,6 @@ Certificat EIAPP.
 
 3. Le certificat EIAPP et le dossier technique sont valables durant toute la vie du moteur, sous réserve de ne subir aucune modification importante.
 
-4. Toute évolution apportée par le fabricant au dossier technique doit être approuvée par un organisme agréé.
+4. Toute évolution apportée par le fabricant au dossier technique doit être approuvée par une société de classification habilitée.
 
-5. L'organisme agréé envoie au ministre chargé de la marine marchande copie de tous les certificats émis en son nom.
+5. La société de classification habilitée envoie au     ministre chargé de la mer  copie de tous les certificats émis en son nom.

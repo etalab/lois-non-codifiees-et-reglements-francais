@@ -6,10 +6,10 @@ Signe distinctif d'approbation
 
 2. Il comprend au minimum :
 
-2.1 le numéro de l'organisme notifié ;
+2.1 le numéro de l'organisme habilité ;
 
 2.2 le sigle "MMF" ;
 
 2.3 les deux derniers chiffres de l'année de fabrication.
 
-3. Le sigle distinctif d'approbation des sifflets, des cloches et des gongs peut ne pas comporter le numéro de l'organisme notifié.
+3. Le sigle distinctif d'approbation des sifflets, des cloches et des gongs peut ne pas comporter le numéro de l'organisme habilité.

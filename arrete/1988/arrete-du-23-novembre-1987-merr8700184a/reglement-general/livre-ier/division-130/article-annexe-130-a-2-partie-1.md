@@ -1,224 +1,174 @@
-# Article Annexe 130.A.2 Partie 1
+# Article Annexe 130-A.2 Partie 1
 
-**Liste des points examinés en commission centrale de sécurité
+PLANS ET DOCUMENTS À FOURNIR POUR LES NAVIRES DONT L'ÉTUDE EST DE LA COMPÉTENCE
 
-Références réglementaires
+DE LA COMMISSION CENTRALE DE SÉCURITÉ
 
-Documents à fournir**
+Partie 1. - Navires étudiés suivant la division 221 et la division 223A
 
-**PARTIE 1**
+I. - Renseignements généraux.
 
-Navires étudiés suivant la division 221 et la division 223a
+Renseignements à fournir, en vue de déterminer en particulier les règles applicables :
 
-NOTA : Les références réglementaires sont applicables aux navires neufs ; pour les autres navires, les règles pertinentes sont applicables
+1. Nom du navire ou numéro de coque pour un navire neuf et pavillon d'origine et/ou précédent pour un navire d'occasion.
 
-Pour les navires 223a, les chapitres sont les mêmes mais les références réglementaires différentes.
+2. Type du navire.
 
-Signification des sigles :
+3. Numéro OMI.
 
-ArI = résolution OMI A.997(25) annexe 1 § 1.1 "visites initiales" requises pour la délivrance du certificat de sécurité du matériel d'armement pour navire de charge
+4. Port d'immatriculation.
 
-CI = résolution OMI A.997(25) annexe 1 § 2.1 "visites initiales" requises pour la délivrance du certificat de sécurité de construction pour navire de charge
+5. Exploitant du navire : nom, adresse, téléphone, télécopie, personne en charge du dossier, adresse de messagerie électronique.
 
-RI = résolution OMI A.997(25) annexe 1 § 4.1 "visites initiales" requises pour la délivrance du certificat de sécurité radioélectrique pour navire de charge
+6. Chantier de construction : mêmes renseignements.
 
-PI = résolution OMI A.997(25) annexe 1 § 5.1 "visites initiales" requises pour la délivrance du certificat de sécurité pour navire à passagers
+7. Date de signature du contrat.
 
-HI = résolution OMI A.997(25) annexe 3 § 1.1 "visites initiales" requises pour la délivrance du certificat international de prévention de la pollution par les hydrocarbures
+8. Date de déclaration de mise en chantier.
 
-NI = résolution OMI A.997(25) annexe 3 § 2.1 "visites initiales" requises pour la délivrance du certificat international de prévention de la pollution liée au transport de substances nocives en vrac
+9. Date de pose de la quille.
 
-DI = résolution OMI A.997(25) annexe 4 § 1.1 "visites initiales" requises pour la délivrance du certificat international d'aptitude au transport de produits chimiques dangereux en vrac
+10. Date prévue de mise à l'eau.
 
-GI = résolution OMI A.997(25) annexe 4 § 2.1 "visites initiales" requises pour la délivrance du certificat international d'aptitude au transport de gaz liquéfiés en vrac
+11. Date souhaitée de visite de mise en service.
 
-**I. RENSEIGNEMENTS GENERAUX**
+12. Date souhaitée de délivrance des titres de sécurité.
 
-Renseignements à fournir, en vue de déterminer en particulier les règles applicables
+13. Société de classification.
 
-1. Nom du navire ou numéro de coque pour un navire neuf et pavillon d'origine et/ou précédent pour un navire d'occasion
+14. Numéro au registre de la société de classification.
 
-2. Type du navire
+15. Attestation de la société de classification (cotes et marques).
 
-3. N° OMI
+16. Longueur hors tout.
 
-4. Port d'immatriculation
+17. Longueur entre perpendiculaires.
 
-5. Armateur : Nom, adresse, téléphone, télécopie, personne en charge du dossier, adresse de messagerie électronique
+18. Largeur.
 
-6. Chantier de construction : Mêmes renseignements
-
-7. Date de signature du contrat
-
-8. Date de déclaration de mise en chantier
-
-9. Date de pose de la quille
-
-10. Date prévue de mise à l'eau
-
-11. Date souhaitée de visite de mise en service
-
-12. Date souhaitée de délivrance des titres de sécurité
-
-13. Société de classification
-
-14. N° au registre de la société de classification
-
-15. Attestation de la société de classification, telle que définie à l'article 130.03 (cotes et marques)
-
-16. Longueur hors tout
-
-17. Longueur entre perpendiculaires
-
-18. Largeur
-
-19. Creux
+19. Creux.
 
 20. Jauge :
 
-• brute
+- brute ;
 
-• nette
+- nette.
 
-21. Port en lourd (été)
+21. Port en lourd (été).
 
-22. Franc-Bord et Tirants d'eau correspondants :
+22. Franc-bord et tirants d'eau correspondants :
 
-• été
+- été ;
 
-• hiver
+- hiver.
 
-23. Mode de propulsion
+23. Mode de propulsion.
 
-24. Puissance propulsive
+24. Puissance propulsive.
 
-25. Nombre et type des hélices
+25. Nombre et type des hélices.
 
-26. Puissances auxiliaires
+26. Puissances auxiliaires.
 
-27. Vitesse en service
+27. Vitesse en service.
 
 28. Nombre maximal de personnes prévues à bord :
 
-• équipage
+- équipage ;
 
-• passagers
+- passagers.
 
-29. Catégorie de navigation
+29. Catégorie de navigation.
 
-30. Type de navigation (internationale ou nationale)
+30. Type de navigation (internationale ou nationale).
 
-31. Zone océanique système Mondial de Détresse et de Sécurité en Mer 32. Indicatif Radio
+31. Zone océanique système mondial de détresse et de sécurité en mer.
 
-33. Numéro MMSI
+32. Indicatif radio.
 
-34. Centre de sécurité des navires chargé de la visite de mise en service
+33. Numéro MMSI.
 
-35. Centre de sécurité des navires chargé des visites du navire postérieures à la visite de mise en service
+34. Centre de sécurité des navires chargé de la visite de mise en service.
 
-36. Intentions éventuelles de l'armateur relatives au quart réduit
+35. Centre de sécurité des navires chargé des visites du navire postérieures à la visite de mise en service.
 
-FOURNIR EN OUTRE :
+36. Intentions éventuelles de l'exploitant du navire relatives au quart réduit.
 
-- Une copie des titres de sécurité définitifs en cours de validité pour un navire d'occasion ;
+Fournir en outre :
 
-- Une copie de la déclaration de mise en chantier ;
+- une copie des titres de sécurité définitifs en cours de validité pour un navire d'occasion ;
 
-- Un plan général du navire, en une ou plusieurs feuilles au format A4 ;
+- une copie de la déclaration de mise en chantier ;
 
-- La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
+- un plan général du navire, en une ou plusieurs feuilles au format A4 ;
 
-- En fin d'étude du dossier : les plans du navire "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS) si possible sous format informatique, en précisant les modifications apportées.
+- la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-TYPE DE NAVIRE :
+- en fin d'étude du dossier : les plans du navire "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 
-Navire à passagers non roulier
+Type de navire :
 
-Navire roulier à passagers
+Navire à passagers non roulier ;
+
+Navire roulier à passagers ;
 
 Navire de charge :
 
-Roulier
+- roulier ;
 
-Porte conteneur
+- porte-conteneur ;
 
-Vraquier
+- vraquier ;
 
-Dragues
+- dragues ;
 
-Navire-citernes :
+- navire-citernes :
 
-Transport de pétrole brut
+- transport de pétrole brut ;
 
-Transport de produits pétroliers
+- transport de produits pétroliers ;
 
-Citernes à cargaison de point éclair > 60°C
+- citernes à cargaison de point éclair > 60 °C ;
 
-Citernes de produits pétroliers de point éclair > 60°C
+- citernes de produits pétroliers de point éclair > 60 °C ;
 
-Transport de produits chimiques
+- transport de produits chimiques ;
 
-Transport de gaz
+- transport de gaz ;
 
-Navire spécial (les points étudiés seront ceux mentionnés ci-après pour les navires de charge ou à passagers selon les prescriptions applicables à ce type de navire)
+- navire spécial (les points étudiés seront ceux mentionnés ci-après pour les navires de charge ou à passagers selon les prescriptions applicables à ce type de navire) ;
 
-Navire ravitailleur
+- navire ravitailleur ;
 
-Autres navires
+- autres navires.
 
-**II. 1 - CONSTRUCTION - STRUCTURE - FRANC BORD -COMPARTIMENTAGE - STABILITE - MACHINES - INSTALLATIONS ELECTRIQUES**
+II. - 1. Construction, structure, franc-bord, compartimentage, stabilité, machines, installations électriques.
 
 Fournir un plan général du navire.
 
-A - STRUCTURE DU NAVIRE
+A. - Structure du navire.
 
-1) PRESCRIPTIONS D'ORDRE STRUCTUREL, MECANIQUE, ELECTRIQUE
+1. Prescriptions d'ordre structurel, mécanique, électrique :
 
-Références résolution OMI A.997(25).
+Présentation du certificat de classe.
 
-Réf. CI 1.17 règle SOLAS (221-) II-1/03-1
-
-Renseignements à fournir et points étudiés
-
-Fournir l'attestation de la société de classification.
-
-2) PROTECTION CONTRE LA CORROSION DES CITERNES BALLASTEES A L'EAU DE MER.
-
-Références résolution OMI A.997(25).
-
-Réf. CI 1.18 Règle SOLAS (221-)II-1/03-2.
-
-Renseignements à fournir et points étudiés.
+2. Protection contre la corrosion des citernes ballastées à l'eau de mer :
 
 Description du système.
 
-Conformité à la résolution de l'OMI A.798(19) de la procédure de sélection, d'application et de maintenance du système.
+Conformité de la procédure de sélection, d'application et de maintenance du système.
 
-Conformité à la résolution MSC215(82) normes de comportement des revêtements de protection des citernes spécialisées ballastées à l'eau de mer de tous les types de navires et des espaces de double muraille des vraquiers.
+Conformité aux normes de comportement, des revêtements de protection des citernes spécialisées ballastées à l'eau de mer, de tous les types de navires et des espaces de double muraille des vraquiers.
 
-3) SECURITE DE L'ACCES A L'ETRAVE DES NAVIRES CITERNES
-
-Références résolution OMI A.997(25).
-
-Réf. CI 2.5 Règle SOLAS (221-)II-1/03-3 pour les navires citernes
-
-Renseignements à -fournir
+3. Sécurité de l'accès à l'étrave des navires citernes :
 
 Plan de l'installation montrant les passages libres et abris.
 
-Points étudiés
+4. Dispositif de remorquage d'urgence :
 
-Passages libres, abris : conformité à la résolution de l'OMI MSC.62(67).
+Descriptif simple du dispositif de remorquage d'urgence pour les navires citernes d'un port en lourd ≥ 20 000 tonnes.
 
-4) DISPOSITIF DE REMORQUAGE D'URGENCE
-
-Renseignements à fournir, points étudiés et références résolution OMI A.997(25).
-
-Descriptif simple.
-
-Réf. CI 2.6 Règle SOLAS (221-)II-1/03-4 dispositif de remorquage d'urgence pour les navires citernes d'un port en lourd 20 000 tonnes.
-
-Règle SOLAS (221-)II-1/03-4 procédure de remorquage d'urgence pour les navires :
+Procédure de remorquage d'urgence pour les navires :
 
 - navires à passagers, au plus tard le 1er janvier 2010 ;
 
@@ -226,1228 +176,688 @@ Règle SOLAS (221-)II-1/03-4 procédure de remorquage d'urgence pour les navires
 
 - navires de charge construits avant le 1er janvier 2010, au plus tard le 1er janvier 2012.
 
-5) INTERDICTION DE PRESENCE D'AMIANTE
+B. - Franc-bord, compartimentage, stabilité.
 
-Renseignements à -fournir, points étudiés et références résolution OMI A.997(25)
+1. Franc-bord :
 
-Conformité à la règle SOLAS (221-)-II-1/03-5 et aux décrets n° 96-1133 du 24 décembre 1996 et 98-332 du 29 avril 1998.
+En application de la division 140 du présent règlement, les études relatives à la délivrance du certificat de franc-bord sont déléguées aux sociétés de classification habilitées et ne sont pas présentées à la commission.
 
-Attestation de non présence d'amiante, délivrée par le chantier, incluant les produits sous-traités.
+Toutefois, en cas de demande d'exemption à la convention internationale sur les lignes de charge, celle-ci est présentée à la commission accompagnée de l'avis de la société de classification.
 
-B - FRANC-BORD - COMPARTIMENTAGE - STABILITE
+2. Compartimentage :
 
-1) FRANC-BORD
+Position de la cloison d'abordage : calcul justificatif/plan ;
 
-En application de la division 140 du présent règlement, les études relatives à la délivrance du certificat de Franc-Bord sont déléguées aux sociétés de classification agréées et ne sont pas présentées à la Commission.
+Plan et calcul du double-fond, y compris la protection des citernes à cargaison et des soutes combustibles lorsque requis par l'annexe I de la convention MARPOL ;
 
-Toutefois, en cas de demande d'exemption à la Convention internationale sur les lignes de charge, en application de l'article 130.10, celle ci est présentée à la commission accompagnée de l'avis de la société de classification.
+Rampe navires rouliers : calcul justificatif/plan ;
 
-2) COMPARTIMENTAGE
+Manuel ou procédure d'accès aux espaces de la tranche cargaison des pétroliers et des vraquiers ;
 
-Renseignements à fournir, points étudiés et références résolution
+Portes étanches : descriptif/fonctionnement/consignes d'utilisation ;
 
-Position de la cloison d'abordage - calcul justificatif :
+Etanchéité de la coque et des superstructures des navires rouliers à passagers : description/localisation des moyens utilisés ;
 
-Réf. PI 1.3 Règle SOLAS (221-)II-1/10 pour les navires à passagers
+Système de surveillance par télévision (navires rouliers à passagers).
 
-Réf. CI 1.1 Règle SOLAS (221-)II-1/11 pour les navires de charge
+3. Stabilité :
 
-Double-fond :
+Ces dossiers sont accompagnés du rapport d'examen de la société de classification.
 
-Réf. PI 1.4 Règle SOLAS (221-)II-1/12 pour les navires à passagers
+a) Stabilité à l'état intact :
 
-Réf. CI 1.1 Règle SOLAS (221-)II-1/12-1 pour les navires de charge
+- recueil des cas de chargement ;
 
-Rampe navires rouliers => Calcul justificatif / Plan :
+- plan des capacités ;
 
-Réf. PI 1.3 Règle SOLAS (221-)II-1/10 pour les navires à passagers
+- instructions au capitaine ;
 
-Réf. CI 1.1 Règle SOLAS (221-)II-1/11 pour les navires de charge
+- critères de stabilité (dont critère météorologique de roulis et de vent fort) ;
 
-Acces aux espaces de la tranche cargaison des pétroliers et des vraquiers :
+- cas d'utilisation d'engins de levage avec bras de levier transversal ;
 
-Réf. CI 2.7 Règle SOLAS (221-)II-1/12-2 annulée et remplacée par la Regle
+- conformité à l'annexe I de la convention MARPOL.
 
-SOLAS (221-)II-1/03-6
+b) Stabilité après avarie :
 
-Portes étanches => Descriptif / Fonctionnement / Consignes d'utilisation :
+- dossier de calcul ;
 
-Réf. PI 1.3 Règle SOLAS (221-)II-1/15 pour les navires à passagers
+c) Instructions au capitaine :
 
-Réf. CI 1.1 Règle SOLAS (221-)II-1/25-9 pour les navires de charge
+- instructions au capitaine ;
 
-Etanchéité de la coque et des superstructures des navires rouliers à passagers
+- plan de maîtrise des avaries.
 
-Description / Localisation des moyens utilisés :
+4. Assèchement :
 
-Réf. PI 1.7 Règle SOLAS (221-)II-1/23-2
+Plan du collecteur ;
 
-Système de surveillance par télévision (navires rouliers à passagers ) :
+Nombre et localisation des pompes ;
 
-Réf. PI 1.7 Règle SOLAS (221-)II-1/23-2.2 et 3
+Calculs justificatifs de l'installation ;
 
-3) STABILITE
+Alarmes de niveau ;
 
-Renseignements à fournir, références résolution OMI A.997(25) et règles applicables
+Position des commandes des vannes de coque.
 
-a) Stabilité à l'état intact
+Il est fourni un plan unique, regroupant toutes les informations sur les différents dispositifs d'assèchement. Sur ce plan devront être indiquées la ou les pompes alimentées par le tableau de secours ou par une énergie autre que celle venant du tableau électrique principal.
 
-Recueil des cas de chargement
+C. - Installations de machines.
 
-Criteres de stabilité (dont critere météorologique de roulis et de vent fort)
+1. Machines principales et auxiliaires :
 
-Cas d'utilisation d'engins de levage avec bras de levier transversal
+Plan général de l'installation ;
 
-Tous navires Division 211 - Résolution A.749(18) telle qu'amendée
+Liste des principaux matériels et équipements ;
 
-Dragues Division 231
+Schémas des circuits principaux ;
 
-Navires spéciaux Division 234 - Résolution A.534(13) telle qu'amendée
+Calcul et plan des capacités des caisses journalières ;
 
-Navires ravitailleurs Division 235 (Résolution A.469(XII)) telle qu'amendée
+Description de la redondance des auxiliaires (combustible, graissage, réfrigération, eau douce) ;
 
-Pétroliers TPL ≥_ 5000 tonnes MARPOL Annexe I règles 1.28.7 et 27
+Schéma de graissage ;
 
-b) Stabilité après avarie
+Schéma et calcul du réseau d'air comprimé ;
 
-Réf. PI 1.1 Règle SOLAS (221-)II-1/08 pour les navires à passagers
+Schéma de l'installation vapeur.
 
-Réf. CI 1.3 Règle SOLAS (221-)II-1/25 pour les navires de charge et règle SOLAS (221-)II-1/23-1 pour les vraquiers (et 221-XII/04)
+2. Installations frigorifiques :
 
-Rouliers à passagers Division 211-3 (application de l'accord de Stockholm)
+Description succincte de l'installation ;
 
-Navire de charge Règle SOLAS (221-)II-1/25-1 à 25-8
+Fluide frigorifique utilisé, caractéristiques ;
 
-Dragues Division 231 (selon valeur du Franc-Bord)
+Dispositions spécifiques en cas d'installation à l'ammoniac.
 
-Navires spéciaux Division 234 - Résolution A.534(13) telle qu'amendée
+3. Chaudières à fluide caloporteur :
 
-Navires ravitailleurs Division 235 - Résolution A.469(XII) telle qu'amendée
+L'existence d'une telle installation doit être indiquée à la commission au plus tard lors de la déclaration de la mise en chantier du navire.
 
-Pétroliers MARPOL Annexe I Chap. 4 règle 28
+Demande formelle d'autorisation de mise à bord ;
 
-Transports de gaz Recueil IGC Chap. 2
+Circuit de l'installation ;
 
-Transports de produits chimiques Recueil IBC Chap. 2
+Fonctionnement/alarmes/sécurités ;
 
-Ces dossiers sont accompagnés du rapport d'examen de la société de classification
+Protection contre les fuites ;
 
-c) Instructions au Capitaine
+Caractéristiques du fluide.
 
-Mesures à prendre en cas d'avarie
+4. Centrales hydrauliques :
 
-Réf. CI 1.3 et PI 3.1 règles SOLAS (221-)II-1/22, 23 et 23-1
+Descriptif de l'installation, emplacement, caractéristiques (localisation, puissance, pression de travail).
 
-Points étudiés
+5. Appareil à gouverner :
 
-Cas de chargement soumis et critères pris en compte - résultats de calcul - instructions au capitaine.
+Description de l'installation ;
 
-4) ASSÈCHEMENT
+Plan de fonctionnement/isolation des circuits ;
 
-Références résolution OMI A.997(25).
+Possibilité de remplissage rapide des circuits ;
 
-Réf. CI 1.2 et PI 1.6 règle SOLAS (221-)II-1/21 pour tous navires
+Liaisons avec la passerelle ;
 
-et SOLAS (221)-II-1/39 pour navires à passagers
+Fonctionnement en secours.
 
-Renseignements à -fournir et points étudiés_
+D. - Installations électriques.
 
-Plan du collecteur, nombre et localisation des pompes, alarmes de niveau, position des commandes des vannes de coque. Calculs justificatifs de l'installation.
+1. Puissance installée :
 
-Il est fourni un plan unique regroupant toutes les informations sur les différents dispositifs d'assèchement. Sur ce plan devront être indiquées la ou les pompes alimentées par le tableau de secours ou par une énergie autre que celle venant du tableau électrique principal.
+Description de la source principale ;
 
-C - INSTALLATIONS DE MACHINES
+Description de la source secours ;
 
-Références résolution OMI A.997(25).
+Description de la source sauvegarde ;
 
-Réf. CI 1.4 et PI 1.8 Règles SOLAS (221-)II-1/26 à 36
+Emplacement des groupes électrogènes et des batteries.
 
-Réf. CI 2.1 Règle SOLAS (221-)II-1/29 pour navires citernes
+2. Plans et documents :
 
-Renseignements à -fournir, points étudiés et règles correspondantes
+Schéma unifilaire ;
 
-1) MACHINES PRINCIPALES ET AUXILIAIRES
+Emplacement des tableaux principal et secours (tous navires) et du tableau de sauvegarde (navires à passagers) ;
 
-Plan général de l'installation.
+Répartition des services sur les barres principales ;
 
-Liste des principaux matériels et équipements.
+Bilan électrique, alimentation principale (tous navires) ;
 
-Circuits principaux
+Services alimentés par le secours ;
 
-Capacité des caisses journalieres Article 221-II-1/26.11
+Bilan électrique et alimentation de secours ;
 
-Redondance des auxiliaires Article 221-II-1/26.3 (Combustible, Graissage, Réfrigération, Eau douce)
+Services alimentés par la source de sauvegarde ;
 
-Graissage Article 221-II-1/27 quater
+Bilan électrique et alimentation de sauvegarde ;
 
-Air comprimé Article 221-II-1/34
+Caractéristiques et certificats de sécurité des appareils électriques installés dans les zones dangereuses ;
 
-Vapeur Article 221-II-1/32
+Systèmes de démarrage du groupe de secours et calcul justificatif du nombre de démarrages ;
 
-2) INSTALLATIONS FRIGORIFIQUES
+Capacité de la caisse à combustible du groupe de secours, calculs justificatifs ;
 
-Description succincte de l'installation.
+Eclairage de secours supplémentaire pour les navires rouliers à passagers.
 
-Fluide frigorifique utilisé - Caractéristiques règlement (CE) n° 2037/2000 relatif aux substances qui appauvrissent la couche d'ozone (halons, fréons ...))
+E. - Dispositifs de nature à simplifier la conduite et l'exploitation.
 
-Spécificité en cas d'installation à l'ammoniac Article 221-II-1/27 ter
+a) Passerelle :
 
-3) CHAUDIERES à FLUIDE CALOPORTEUR
+Veille de jour par un homme seul en sus de l'officier de quart :
 
-Demande d'autorisation de mise à bord
+- disposition passerelle ;
 
-L'existence d'une telle installation doit être indiquée à la Commission au plus tard lors de la déclaration de la mise en chantier du navire.
-
-Circuit de l'installation
-
-Fonctionnement/alarmes/sécurités
-
-Protection contre les fuites
-
-Caractéristiques du fluide
-
-Article 221-II-1/32 bis
-
-4) CENTRALES HYDRAULIQUES
-
-Descriptif de l'installation, emplacement, caractéristiques (puissance, pression de travail):
-
-Article 221-II-1/53.5 (cas du quart réduit à la machine)Article 221-II-2/5.2.3.2 (arrêt à distance)
-
-5) APPAREIL A GOUVERNER
-
-Justification de la conformité aux articles 221-II-1/29 et 221-II-1/30
-
-Application des paragraphes 15 à 20 de l'article 221-II-1/29 aux navires-citernes
-
-Plan de fonctionnement / Isolation des circuits
-
-Possibilité de remplissage rapide des circuits
-
-Liaisons avec la passerelle
-
-Fonctionnement en secours
-
-D - INSTALLATIONS ELECTRIQUES
-
-Références résolution OMI A.997(25)
-
-Réf. PI 1.9, 1.10 et 1.25 Règles SOLAS (221-)II-1/39 à 42 et 44 pour navires à passagers
-
-Réf. CI 1.5 et ArI 1.20 Règles SOLAS (221-)II-1/40, 41, 43 et 44 pour les navires de charge
-
-règle SOLAS (221-)II-1/43 pour navires-citernes
-
-Renseignements à fournir, points étudiés et règles correspondantes
-
-1) PUISSANCE INSTALLEE
-
-Principale
-
-Secours
-
-Sauvegarde
-
-Emplacement des groupes électrogènes et des batteries
-
-2) PLANS ET DOCUMENTS
-
-Schéma unifilaire
-
-Emplacement des tableaux principal et secours (tous navires) et du tableau de sauvegarde (navires à passagers )
-
-Répartition des services sur les barres principales
-
-Article 221-II-1/41.4 (tous navires)
-
-Bilan électrique - Alimentation principale (tous navires)
-
-Articles 221-II-1/40 et 41
-
-Services alimentés par le secours
-
-Bilan électrique et alimentation de secours
-
-Articles 221-II-1/40 et 42 (navires à passagers ) ou 43 (navires de charge)
-
-Services alimentés par la source de sauvegarde
-
-Bilan électrique et alimentation de sauvegarde
-
-Article 221-II-1/42.4 navires à passagers
-
-Caractéristiques et certificats de sécurité des appareils électriques installés dans les zones dangereuses
-
-Article 221-II-1/45.10 tous navires
-
-Article 221-II-2/20 locaux à véhicules, rouliers et de catégorie spéciale
-
-Systèmes de démarrage du groupe de secours et calcul justificatif du nombre de démarrage
-
-Article 221-II-1/44 tous navires
-
-Capacité de la caisse à combustible du groupe de secours - Calculs justificatifs.
-
-Articles 221-II-1/40 et 42 (navires à passagers ) ou 43 (navires de charge)
-
-Eclairage de secours supplémentaire pour les navires rouliers à passagers
-
-Article 221-II-1/42-1
-
-Formation prévue pour le personnel d'intervention sur les installations moyenne tension
-
-Article 221-II-1/45
-
-E - DISPOSITIFS DE NATURE A SIMPLIFIER LA CONDUITE ET L'EXPLOITATION
-
-A) PASSERELLE
-
-Veille de jour par un homme seul en sus de l'officier de quart
-
-Renseignements à fournir, points étudiés et règles correspondantes
-
-Disposition passerelle :
-
-(Article 212-2.01)
-
-Commande et fonctionnement de l'appareil à gouverner :
-
-(Article 212-2.02 ou 212-2.05)
-
-Matériel nautique :
-
-(Article 212-2.03 ou 212-2.05)
+- commande et fonctionnement de l'appareil à gouverner.
 
 Veille passerelle par un officier seul de jour :
 
-Les trois points ci-dessus plus dispositif automatique d'alarme
+Les points ci-dessus plus dispositif automatique d'alarme.
 
-(Article 212-2.03 bis)
-
-B) MACHINE
-
-Références résolution OMI A.997(25).
-
-Réf. CI 1.6 Règles 221-II-2/4.2.5 et 221-II-1/46 à 53 pour les navires de charge
-
-Réf. PI 1.8 Règle 221-II-1/54 pour les navires à passagers
-
-Renseignements à fournir, points étudiés et règles correspondantes
+b) Machine :
 
 Navires avec quart réduit à la machine :
 
-Condition de fonctionnement automatique du système d'extinction à usage local
+- condition de fonctionnement automatique du système d'extinction à usage local ;
 
-Marque d'automatisation délivrée par société de classification agréée
+- marque d'automatisation délivrée par société de classification habilitée ;
 
-Questionnaire de l'annexe 221-II-1/A.1 partie B à présenter, visé par une société de classification agréée
+- questionnaire de l'annexe 221-II-1/A.1, partie B, à présenter, visé par une société de classification habilitée ;
 
-Justificatifs de conformité aux articles
+- justificatifs de conformité aux articles :
 
-221-II-1/31.3 (indisponibilité de l'officier, renvoi à la passerelle)
+- 221-II-1/31.3 (indisponibilité de l'officier, renvoi à la passerelle) ;
 
-221-II-1/48.3 (alarme d'envahissement distincte des autres alarmes, et individualisée pour chaque local)
+- 221-II-1/48.3 (alarme d'envahissement distincte des autres alarmes, et individualisée pour chaque local) ;
 
-221-II-1/49.1.1 (programmation des allures)
+- 221-II-1/49.1.1 (programmation des allures) ;
 
-221-II-1/51.1.1 (alarmes machines)
+- 221-II-1/51.1.1 (alarmes machines) ;
 
-221-II-1/53.4.1 (obligation de verrouillage)
+- 221-II-1/53.4.1 (obligation de verrouillage) ;
 
-221-II-1/53.5 (localisation des centrales hydrauliques)
+- 221-II-1/53.5 (localisation des centrales hydrauliques) ;
 
-221-II-2/5.2.3.2 (Arrêt des ventilateurs et des centrales hydrauliques)
+- 221-II-2/5.2.3.2 (arrêt des ventilateurs et des centrales hydrauliques) ;
 
-221-II-2/7.4.1 et 7.4.2 (essai de détection, répétition d'alarme)
+- 221-II-2/7.4.1 et 221-II-2/7.4.2 (essai de détection, répétition d'alarme).
 
-**II. 2 - PROTECTION CONTRE L'INCENDIE**
+II. - 2. Protection contre l'incendie.
 
-A - PREVENTION
+A. - Prévention.
 
-Références résolution OMI A.997(25).
+1. Cloisonnement :
 
-Réf. PI 1.14 et 15 Règles SOLAS (221-)II-2/4, 5, 6, 8, 9, 11, 17, 20 pour les navires à passagers
+Méthode utilisée (navires de charge) ;
 
-Réf. CI 1.7 Règles SOLAS (221-)II-2/4, 5, 6, 8, 9, 11, 17 pour les navires de charge
+Tranches principales d'incendie, longueur, limites (navires à passagers) ;
 
-Réf. CI 1.8 Règles SOLAS (221-)II-2/5, 11, 20.2.1 et 20.2.3 pour les navires de charge
+Définition des locaux par catégorie, intégrité au feu des cloisons et ponts ;
 
-Réf. ArI 1.5 Règles SOLAS (221-)2/5.2, 8.3 et 9.5 pour les navires de charge
+Ouvertures pratiquées dans les cloisonnements de type A ;
 
-Réf. ArI 1.11 Règles SOLAS (221-)II-2/20 pour les navires de charge
+Ouvertures pratiquées dans les cloisonnements de type B ;
 
-CI 2.3 Règles SOLAS (221-)II-2/1.6, 4.5.1, 4.5.2, 9.2.4 pour navires-citernes
+Ouvertures pratiquées dans les cloisonnements des locaux de machines ;
 
-CI 2.4 Règles SOLAS (221-)II-2/4.5.3, 4.5.4, 4.5.6, 4.5.8, 11.6 et 16.3 pour navires-citernes
+Cloisonnements constituant les limites des espaces à cargaison ;
 
-Renseignements à fournir, points étudiés et règles correspondantes
+Fournir le dossier de matériaux :
 
-1) CLOISONNEMENT
+Utilisation restreinte des matériaux combustibles (fournir justificatifs et/ou calculs) ;
 
-Méthode utilisée (navires de charge) Article 221-II-2/5.3.1.2.2
+Potentiel de dégagement de fumée et toxicité ;
 
-Tranches principales d'incendie - Longueur - Limites (navires à passagers )
-
-Article 221-II-2/9.2.2.1
-
-Article 221-II-2/20 locaux rouliers et de catégorie spéciale
-
-Définition des locaux par catégorie - Intégrité au feu des cloisons et ponts
-
-Article 221-II-2/9.2.2.3 navires à passagers
-
-Article 221-II-2/9.2.2.4 navires ne transportant pas plus de 36 passagers
-
-Article 221-II-2/9.2.3.3 navires de charge
-
-Article 221-II-2/9.2.4.2 navires-citernes
-
-Ouvertures pratiquées dans les cloisonnements de type A
-
-Article 221-II-2/9.4.1.1 navires à passagers
-
-Article 221-II-2/9.4.2 navires de charge
-
-Ouvertures pratiquées dans les cloisonnements de type B
-
-Article 221-II-2/9.4.1.2 navires à passagers
-
-Article 221-II-2/9.4.2 navires de charge
-
-Ouvertures pratiquées dans les cloisonnements des locaux de machines
-
-Article 221-II-2/9.5
-
-Cloisonnements constituant les limites des espaces à cargaison
-
-Article 221-II-2/9.6
-
-Fournir le dossier de matériaux visé par la société de classification agréée :
-
-- Matériaux de construction (Référence d'approbation des matériaux, marquage
-
-conformément à la Directive Equipements Marins) Article 221-II-2/11.2
-
-- Utilisation restreinte des matériaux combustibles (Fournir justificatifs et/ou
-
-calculs) Article 221-II-2/5.3.2
-
-- Potentiel de dégagement de fumée et toxicité Article 221-II-2/6
-
-- Fournir photocopies des certificats d'approbation par type.
+Fournir photocopies des certificats d'approbation par type.
 
 Les déclarations de conformité peuvent être demandées.
 
-2) VENTILATION
+2. Ventilation :
 
-Renseignements à fournir
+Plan général, caractéristiques, plan unifilaire ;
 
-Plan général - Caractéristiques - Plan unifilaire
+Taux de renouvellement ;
 
-Taux de renouvellement
+Arrêts à distance ;
 
-Arrêts à distance
+Volets coupe-feu : emplacements et commandes ;
 
-Volets coupe feu : emplacements, commandes et certificats d'approbation MED
+Conduits d'évacuation des cuisines.
 
-Conduits d'évacuation des cuisines
+3. Dispositions relatives aux combustibles liquides, à l'huile de graissage et aux autres liquides inflammables :
 
-Règles correspondantes
+Combustibles utilisés :
 
-Articles 221-II-2/5.2, 8 et 9.7 pour tous navires
+- stockage ;
 
-Article 221-II-2/20 locaux à véhicules, des locaux de catégorie
+- emplacement des circuits ;
 
-spéciale et espaces rouliers
+- moyens de sondage ;
 
-Points étudiés
+- pression maximale de service ;
 
-Principales règles de ségrégation, dispositifs de commande, protection des hottes cuisines
+- isolation circuits combustibles moteurs ;
 
-3) DISPOSITIONS RELATIVES AUX COMBUSTIBLES LIQUIDES, A l'HUILE DE GRAISSAGE ET AUX AUTRES LIQUIDES INFLAMMABLES
+- commande à distance des soupapes (fermeture rapide) ;
 
-Renseignements à fournir, points étudiés et règles correspondantes
+- moyens de commande à distance ;
 
-Combustibles utilisés Article 221-II-2/4.2
+- combustibles gazeux utilisés à des fins domestiques ;
 
-Stockage
+Locaux peinture ;
 
-Emplacement des circuits
+Schéma et calculs du dispositif fixe d'extinction.
 
-Moyens de sondage Article 221-II-2/4.2.2.3.5
+4. Dispositions relatives aux équipements électriques :
 
-Pression maximale de service Article 221-II-2/4.2.2.5.4 et MSC/Circ.851
+Liste et certificats EEX des matériels électriques dans les locaux de catégorie spéciale.
 
-(Directives relatives aux circuits de combustible)
+5. Tranches de la cargaison des navires-citernes :
 
-Isolation circuits combustibles moteurs Article 221-II-2/4.2.2.5.5
+Séparation des citernes à cargaison d'hydrocarbures ;
 
-Commande à distance des soupapes (fermeture rapide)
+Ouvertures dans les cloisons d'entourage ;
 
-Réf. PI 1.14 et ArI 1.8 Article II-2/4.2.2.3.4
+Dégagement des gaz des citernes à cargaison ;
 
-Moyens de commande à distance Articles 221-2-II/5 § 2.2.3 à 2.2.5 et 2.3
+Ventilation des chambres des pompes à cargaison ;
 
-Combustibles gazeux utilisés à des fins domestiques
+Dispositif à gaz inerte, schéma de l'installation, calculs, production, contrôle ;
 
-Réf. CI 1.10 Règle SOLAS (221-)II-2/4.3
+Alarmes, sécurités ;
 
-Locaux peinture.
+Alimentation en air des espaces de double-coque et de double-fond ;
 
-Réf. PI 1.15 et ArI 1.8 Règle II-2/10.6.3
+Protection de la structure des citernes : pression, niveau ;
 
-Schéma et calculs du dispositif fixe d'extinction
+Exploitation, prescriptions supplémentaires.
 
-4) DISPOSITIONS RELATIVES AUX EQUIPEMENTS ELECTRIQUES
+B. - Détection.
 
-Renseignements à fournir, points étudiés et règles correspondantes
+1. Détection incendie :
 
-Article 221-II-2/4.2 Radiateurs électriques
+Schéma de l'installation ;
 
-Article 221-II-2/20.3.2 Matériels électriques dans les locaux de catégorie spéciale
+Schéma des boucles ;
 
-5) TRANCHES DE LA CARGAISON DES NAVIRES-CITERNES
+Emplacements et caractéristiques des détecteurs.
 
-Renseignements à fournir, points étudiés et règles correspondantes
+2. Détection de gaz :
 
-Article 221-II-2/1.6 Application des prescriptions aux navires-citernes
+Schémas et description de l'installation ;
 
-Article 221-II-2/4.5.1 Séparation des citernes à cargaison d'hydrocarbures
+Dispositif de mesure des gaz ;
 
-Article 221-II-2/4.5.2 Ouvertures dans les cloisons d'entourage
+Raccords pour approvisionnement en air des doubles-coques et des doubles-fonds.
 
-Article 221-II-2/4.5.3 Dégagement des gaz des citernes à cargaison
+C. - Extinction.
 
-Article 221-II-2/4.5.4 Ventilation des chambres des pompes à cargaison
+1. Collecteur incendie :
 
-Article 221-II-2/4.5.5 Dispositif à gaz inerte, schéma de l'installation, calculs, production, contrôle Alarmes - Sécurités
+Schéma du collecteur ;
 
-Article 221-II-2/4.5.8 Alimentation en air des espaces de double coque et de double-fond
+Calcul justificatif ;
 
-Article 221-II-2/11.6 Protection de la structure des citernes : pression, niveau
+Emplacement des bouches et sectionnements ;
 
-Article 221-II-2/16.3 Exploitation - Prescriptions supplémentaires
+Pompes (caractéristiques, emplacement, alimentation, démarrage) ;
 
-B - DETECTION
+Dispositif de mise en pression ;
 
-1) DETECTION INCENDIE
+Nombre de manches et longueurs.
 
-Références résolution OMI A.997(25).
+2. Dispositif de détection et d'extinction automatiques par eau diffusée (sprinkler) :
 
-Réf. PI 1.15, ArI 1.6 et 7
+Schéma de l'installation ;
 
-CI 1.7 Règle SOLAS (221-)II-2/7 pour tous navires
+Locaux protégés ;
 
-Réf. PI 1.15 et ArI 1.11 Règle SOLAS (221-)II-2/20 locaux à véhicules, de catégorie spéciale et espaces rouliers
+Calculs justificatifs ;
 
-Renseignements à fournir, points étudiés et règles correspondantes
+Pompes (caractéristiques, emplacement, alimentation) ;
 
-Schéma de l'installation
+Dispositif de maintien sous pression ;
 
-Schéma des boucles
+Alarmes.
 
-Emplacements et caractéristiques des détecteurs
+3. Dispositif fixe d'extinction par eau diffusée (drencher + usage local) :
 
-Conformité au Recueil FSS Chapitre 9 - Chapitre 10
+Schéma de l'installation ;
 
-Certificats d'approbation de la centrale et des détecteurs
+Zones protégées ;
 
-2) DETECTION DE GAZ
+Calculs justificatifs ;
 
-Renseignements à fournir, points étudiés et règles correspondantes
+Pompes (caractéristiques, emplacement, alimentation, démarrage) ;
 
-Examen de la conformité aux règles :
+Type de diffuseurs ;
 
-Article 221-II-2/4.5.7 navires-citernes
+Nettoyage de l'installation ;
 
-Recueil IBC Chap.13 transports de produits chimiques
+Extinction des ponts rouliers ;
 
-Recueil IGC Chap.13 transports de gaz
+Extinction globale machine ;
 
-Article 221-II-2/4.5.10.3 chambre des pompes
+Extinction à usage local machines, démarrage automatique ou manuel.
 
-Article 221-II-2/4.5.4.2 transporteurs mixtes (hydrocarbures et vrac solide)
+4. Dispositif fixe d'extinction par le gaz :
 
-Article 221-II-2/4.5.7 mesure des gaz
+Schéma de l'installation ;
 
-Article 221-II-2/4.5.8 raccords pour approvisionnement en air des doubles-coques et des doubles-fonds
+Locaux protégés ;
 
-Certificats d'approbation des dispositifs portatifs.
+Accès, ventilation, isolation ;
 
-C - EXTINCTION
+Préalarme sonore et lumineuse ;
 
-Référenes résolution OMI A.99725)
+Moyens de vérification des niveaux des capacités ;
 
-Réf. PI 1.11 pour les locaux machines des navires à passagers
+Renouvellement de l'atmosphère.
 
-Réf. PI 1.13 et ArI 1.1 Règle SOLAS (221-)II-2/10.2 tous navires
+5. Extinction par mousse :
 
-Réf. PI 1.15 règles SOLAS (221-)II-2/10.6 et /20 pour les navires à passagers
+Schéma de l'installation ;
 
-Réf. ArI 1.4 Règles SOLAS (221-)II-2/10.4 et .5 pour les locaux machines des navires de charge
+Zones ou locaux protégés ;
 
-Réf. ArI 1.7 pour navires de charge (cas d'extinction automatique par eau diffusée)
+Type de mousse (haut/bas foisonnement) ;
 
-Réf. PI 1.15 et ArI 1.11 Règle SOLAS (221-)II-2/20 locaux à véhicules, locaux de catégorie spéciale et espaces rouliers
+Calculs justificatifs ;
 
-Réf. ArI 1.10 Règle SOLAS (221-)II-2/10.7 protection des espaces à cargaison
+Type d'émulseur, certificats d'approbation si requis ;
 
-Réf. DI 1.2 Chapitre 11 du Recueil IBC
+Certificat d'approbation du dispositif si requis ;
 
-Réf. GI 1.10 Chapitre 11 du Recueil IGC
+Pompes (caractéristiques, emplacements) ;
 
-1) COLLECTEUR INCENDIE
+Sectionnements ;
 
-Renseignements à fournir
+Possibilités d'essais.
 
-Schéma du collecteur
+6. Dispositif d'extinction par poudre :
 
-Emplacement des bouches
+Schéma de l'installation ;
 
-Pompes (caractéristiques, emplacement, alimentation, démarrage)
+Zones protégées ;
 
-Dispositif de mise en pression
+Type de poudre ;
 
-Nombre de manches et longueurs
+Calculs justificatifs ;
 
-Certificats d'approbation des manches et lances
+Emplacement.
 
-Règles applicables
+7. Manuel d'exploitation pour la sécurité incendie.
 
-Article 221-II-1/39 (emplacement) Navires à passagers
+D. - Evacuation :
 
-Article 221-II-2/10.2 (collecteur) Tous navires
+Plan général des chemins d'évacuation ;
 
-Recueil FSS chapitre 12 (pompe de secours ) ) Navires de charge - Navires à passagers de jauge brute inférieure à 1000
+Calculs justificatifs largeur d'escaliers, des coursives ;
 
-Recueil IGC règle 11.2 Transports de gaz
+Fléchage, éclairage faible hauteur.
 
-Recueil IBC règle 11 Transports de produits chimiques
+E. - Transports de marchandises dangereuses :
 
-Points étudiés
+Liste des catégories de marchandises dangereuses prévues ;
 
-Nombre et emplacements des pompes - Débits - Pression aux bouches - Isolation de la partie du collecteur qui alimente le local des machines qui contient la ou les pompes - Evaluation de la possibilité d'atteindre par les lances toute partie du navire requise - Longueurs des manches
+Espaces à cargaisons prévus pour chaque catégorie ;
 
-2) DISPOSITIF DE DETECTION ET D'EXTINCTION AUTOMATIQUES PAR EAU DIFFUSEE
+Appendice au modèle de certificat complété ;
 
-Points étudiés
+Schéma et calculs des moyens d'extinction fixe ;
 
-Schéma de l'installation
+Nombre et localisation des moyens mobiles ;
 
-Locaux protégés
+Description et certificats du dispositif de ventilation ;
 
-Calculs justificatifs
+Schéma et calculs de l'assèchement ;
 
-Pompes (caractéristiques, emplacement, alimentation)
+Schémas et certificats du dispositif de détection ;
 
-Dispositif de maintien sous pression
+Certificats EEX des équipements.
 
-Alarmes
+F. - Moyens mobiles :
 
-Approbations des systèmes, des diffuseurs
+Nombre et localisation des extincteurs ;
 
-Règles correspondantes,
+Nombre et localisation des équipements de pompier ;
 
-Article 221-II-2/10.6
+Plan concernant la lutte contre l'incendie ;
 
-Résolution OMI A.800(19)
+Emplacement des armoires incendie.
 
-Recueil FSS Chapitre 8
+G. - Moyens spécifiques :
 
-Article 221 II-2/20-1 (incinérateurs)
+Description des moyens de protection incendie du matériel de friture.
 
-3) DISPOSITIF FIXE D'EXTINCTION PAR EAU DIFFUSEE
+H. - Installation pour hélicoptère :
 
-Points étudiés
+Conformité à la règle.
 
-Schéma de l'installation
+III. - Engins et dispositifs de sauvetage.
 
-Zones protégées
+Plan général ;
 
-Calculs justificatifs
+Manuel de formation SOLAS.
 
-Pompes (caractéristiques, emplacement, alimentation, démarrage)
+3.1. Drome (moyens collectifs) :
 
-Type de diffuseurs (approbation)
+Nombre maximum de personnes prévues à bord ;
 
-Nettoyage de l'installation
+Embarcations : nombre, capacité, emplacements ;
 
-Extinction des ponts rouliers
+Radeaux : nombre, capacité, emplacements ;
 
-Extinction globale machine
+Canot de secours ;
 
-Extinction à usage local machines - Démarrage automatique ou manuel
+Canot de secours rapide ;
 
-Règles correspondantes,
+Moyens de récupération ;
 
-Article 221-II-2/10.5 } Navires à passagers
+Dispositifs de mise à l'eau ;
 
-Résolution OMI A.123(V) }
+Calcul justificatif de la capacité ;
 
-Article 221-II-2/10.5 Navires de charge
+Certificats d'approbation ;
 
-Recueil IGC règle 11.3 Transports de gaz
+Manuel de formation et aides à la formation à bord.
 
-4) DISPOSITIF FIXE D 'EXTINCTION PAR LE GAZ
+3.2. Moyens individuels :
 
-Points étudiés
+Bouées : nombre, type, localisation ;
 
-Schéma de l'installation
+Brassières : nombre, type, localisation ;
 
-Locaux protégés
+Combinaisons d'immersion : nombre, type ;
 
-Acces, ventilation, isolation
+Manuel de formation et aides à la formation à bord.
 
-Pré-alarme sonore et lumineuse
-
-Moyens de vérification des niveaux des capacités
-
-Renouvellement de l'atmosphère
-
-Règles correspondantes,
-
-Recueil FSS Chapitre 5
-
-Recueil IBC règle 11.2 Transports de produits chimiques
-
-Recueil IGC règle 11.5 Transports de gaz
-
-Article 221-II-2/20 Locaux à véhicules, locaux de catégorie spéciale et espaces rouliers
-
-Article 221-II-2/10.4.2 Dispositifs de fermeture
-
-5) EXTINCTION PAR MOUSSE
-
-Points étudiés
-
-Schéma de l'installation
-
-Zones ou locaux protégés
-
-Type de mousse (haut/bas foisonnement)
-
-Calculs justificatifs
-
-Type d'émulseur - Certificats d'approbation si requis
-
-Certificat d'approbation du dispositif si requis
-
-Pompes (caractéristiques, emplacements)
-
-Sectionnements
-
-Possibilités d'essais
-
-Règles correspondantes
-
-Article 221-II-2/10.4.1.1
-
-Article 221-II-2/10.5.1
-
-Article 221-II-2/10.9.1.2
-
-Recueil FSS Chapitre 6
-
-Article 221-II-2/10.8 Dispositif à mousse sur pont
-
-Recueil IBC règle 11.3 Transports de produits chimiques
-
-Article 221-II-2/1.6.4 Navires-citernes
-
-6) DISPOSITIF D'EXTINCTION PAR POUDRE
-
-Points étudiés
-
-Schéma de l'installation
-
-Zones protégées
-
-Type de poudre
-
-Calculs justificatifs
-
-Emplacement
-
-Règles correspondantes
-
-Recueil IGC règle 11.4 Transports de gaz
-
-7) MANUEL D'EXPLOITATION POUR LA SECURITE INCENDIE
-
-Points étudiés et règle correspondante
-
-Examen de conformité du manuel
-
-Article 221-II-2/16
-
-D - EVACUATION
-
-Références résolution OMI A.997(25)
-
-Réf. PI 1.15 règle SOLAS (221-)II-2/13, Recueil FSS chapitres 13.1 et 13.2 pour les navires à passagers
-
-Réf. CI 1.9 Règle SOLAS (221-)II-2/13, Recueil FFS chapitre 13 3 pour les navires de charge
-
-Réf. ArI 1.3 Pour les appareils respiratoires pour l'évacuation d'urgence (EEBD), tous navires
-
-Points étudiés
-
-Plan général des chemins d'évacuation
-
-Calculs justificatifs largeur d'escaliers, des coursives
-
-Fléchage - éclairage faible hauteur
-
-Règles correspondantes
-
-Article 221-II-2/13 Tous navires
-
-Recueil FSS Chapitre 13 Tous navires
-
-Résolution OMI A.757(18) Navires à passagers
-
-Article 221-II-2/13.7 Navires rouliers à passagers
-
-E - TRANSPORTS de MARCHANDISES DANGEREUSES
-
-Références résolution OMI A.997(25).
-
-Réf. PI 1.18 Règle SOLAS (221-)II-2/19 pour les navires à passagers
-
-Réf. ArI 1.10, 13 et CI 1.8 Règle SOLAS (221-)II-2/19 pour les navires de charge
-
-Points étudiés et règles correspondantes.
-
-Liste des catégories de marchandises dangereuses prévues
-
-Espaces à cargaisons prévus pour chaque catégorie
-
-Appendice au modele de certificat complété
-
-Moyens d'extinction
-
-Ventilation
-
-Assèchement
-
-Détection
-
-Equipement
-
-Article 221-II-2/19, MSC/Circ.1027 et MSC/Circ.1148
-
-F - MOYENS MOBILES
-
-Références résolution OMI A.997(25).
-
-Réf. PI 1.12 pour les navires à passagers
-
-Réf. ArI 1.2, 1.3 pour les navires de charge
-
-Réf. PI 1.15 et ArI 1.11 Règle SOLAS (221-)II-2/20 locaux à véhicules, locaux de catégorie spéciale et espaces rouliers (tous navires)
-
-Points étudiés et règles correspondantes.
-
-Article 221-II-2/10.3 Extincteurs
-
-Article 221-II-2/10.10 Equipements de pompier
-
-Article 221-II-2/15.3.2 Plan concernant la lutte contre l'incendie Armoires incendie.
-
-Pour les navires transportant plus de 36 passagers, le plan concernant la lutte contre l'incendie doit être conforme à la résolution OMI A.756(18) et ne doit pas comporter de renseignements sur les engins et dispositifs de sauvetage
-
-G - MOYENS SPECIFIQUES
-
-Références résolution OMI A.997(25) et points étudiés
-
-Réf. PI 1.15 et ArI 1.8 Règle SOLAS (221-)II-2/10.6.4 pour tous navires
-
-Protection incendie du matériel de friture
-
-H - INSTALLATION POUR HELICOPTERE
-
-Références résolution OMI A.997(25) et points étudiés
-
-Réf. ArI 1.12 et CI 1.11 Règle SOLAS (221)-II-2/18
-
-Conformité à la règle
-
-**III. ENGINS ET DISPOSITIFS DE SAUVETAGE**
-
-Renseignements à fournir, points étudiés, références résolution OMI A.997(25) et règles applicables
-
-Plan général
-
-3.1. DROME (MOYENS COLLECTIFS)
-
-Nombre maximum de personnes prévues à bord
-
-Embarcations : nombre, capacité, emplacements
-
-Radeaux : nombre, capacité, emplacements
-
-Canot de secours
-
-Canot de secours rapide
-
-Moyens de récupération
-
-Dispositifs de mise à l'eau
-
-Calcul justificatif de la capacité
-
-Manuel de formation et aides à la formation à bord
-
-Navires à passagers :
-
-Réf. PI 1.19 Règles SOLAS (221-)III/11 à 17, 21 et 24
-
-Règle SOLAS (221-)III/26 pour les navires rouliers à passagers
-
-Navires de charge :
-
-Réf. ArI 1.14 Règles SOLAS (221-)III/11 à 16, 31 et 33
-
-Tous navires
-
-Réf. ArI 1.18 et PI 1.23 Règles SOLAS (221-)III/06 et 18
-
-Fusées à parachutes, feux à main et appareil lance-amarres
-
-Réf. ArI 1.15, 16 et PI 1.20, 21, 23
-
-Références d'approbation des matériels suivant
-
-Directive Européenne Equipements Marins : fournir copie des certificats d'approbation par type
-
-Règle SOLAS III/35
-
-3.2. MOYENS INDIVIDUELS
-
-Bouées : nombre, type, localisation
-
-Brassières : nombre, type, localisation
-
-Combinaisons d'immersion : nombre, type
-
-Réf. PI 1.24 Règles SOLAS (221-)III/07 et 22 pour les navires à passagers
-
-Réf. ArI 1.19 Règles SOLAS (221-)III/07 et 32 pour les navires de charge
-
-Réf. ArI 1.19 et PI 1.24 Références d'approbation des matériels suivant Directive Européenne Equipements Marins : fournir copie des certificats d'approbation par type
-
-3.3. COMMUNICATIONS
-
-Réf. ArI 1.18 et PI 1.23 Règle SOLAS (221-)III/06
+3.3. Communications :
 
 Schémas et descriptif du :
 
-- Système de communications à bord et systèmes d'alarmes (communications bilatérales, alarme générale et communication avec le public)
+- système de communications à bord et systèmes d'alarmes (communications bilatérales, alarme générale et communication avec le public) ;
 
-Article 221-III/06.4
+- dispositif de communication avec le public à bord des navires à passagers.
 
-- Dispositif de communication avec le public à bord des navires à passagers
+IV. - Radiocommunications :
 
-Article 221-III/06.5
+Zone de navigation ;
 
-**IV. RADIOCOMMUNICATIONS**
+Liste des matériels avec copies des certificats d'approbation ;
 
-Références réglementaires
+Schéma d'implantation du matériel ;
 
-Réf. ArI 1.17 et PI 1.22
+Plan des antennes ;
 
-Règle SOLAS (221-)III/06 émetteurs-récepteurs à ondes métriques et récepteurs radars
+Schéma d'alimentation électrique ;
 
-Réf. PI 1.32 à 36 Règles SOLAS II-1/42 et IV/1 à 16 de SOLAS 74/88
+Implantation des batteries ;
 
-Réf. ArI 1 à 22 Chapitre IV de SOLAS 74/88
+Bilan électrique et calcul justificatif de la capacité des batteries ;
 
-Réf. ArI.23 et PI 1.28 pour l'AIS
+Méthode d'entretien prévue, copie du contrat d'entretien (si entretien à terre).
 
-Points étudiés et règles applicables
+V. - Sécurité de la navigation.
 
-Zone de navigation
+1. Prévention des abordages :
 
-Liste des matériels avec copies des certificats d'approbation
+Schéma de visibilité passerelle ;
 
-Schéma d'implantation du matériel
+Feux de navigation : implantation, références, alimentations, commandes, alarmes.
 
-Plan des antennes
+2. Appareils de navigation :
 
-Schéma d'alimentation électrique
+Liste, nombre ;
 
-Implantation des batteries
+Références.
 
-Bilan électrique et calcul justificatif de la capacité des batteries
+3. Moyens d'embarquement du pilote :
 
-Méthode d'entretien prévue - Copie du contrat d'entretien (si entretien à terre)
+Emplacement ;
 
-Références d'approbation des matériels suivant Directive Européenne Equipements Marins
+Description.
 
-Fournir copie des certificats d'approbation par type
+4. Mouillage, amarrage :
 
-Divisions 221 du règlement annexé à l'Arrêté du 23 novembre 1987 modifié
+Plans et description de l'installation.
 
-AIS : Article 221-V/19.5
+5. Limites d'exploitation.
 
-Résolution OMI MSC.74(69) annexe 3
+6. Enregistreur des données du voyage :
 
-Résolution OMI A.917(22) telle qu'amendée
+Liste des données enregistrées ;
 
-**V. SECURITE DE LA NAVIGATION**
+Références.
 
-1) PREVENTION DES ABORDAGES
+VI. - Transport de cargaison.
 
-Références réglementaires
+A. - Dispositions générales :
 
-Réf. PI 1.30 Règle V/22
+Manuel d'assujettissement.
 
-Réf. ArI 1.21 et PI 1.26 Convention COLREG telle qu'amendée
+B. - Cargaisons en vrac autres que le grain :
 
-Points étudiés et règles applicables
+Manuel de chargement/déchargement ;
 
-Visibilité passerelle Article 221-V/22
+Manuel d'exploitation et d'entretien des détecteurs de niveau d'eau ;
 
-Feux de navigation : implantation, références et certificats d'approbation, alimentations, commandes, alarmes Division 212 du règlement
+Appareil de détection de gaz.
 
-2) APPAREILS DE NAVIGATION
+C. - Transport de grains :
 
-Renseignements à fournir, points étudiés et références réglementaires
+Dossier grains.
 
-Réf. ArI 1.22 et 23
+VII. - Transport de marchandises dangereuses.
 
-et PI 1.27 et 28 Règles SOLAS (221-)V/15 et 19
+A. - Transport de marchandises dangereuses en colis ou sous forme solide en vrac :
 
-Division 212
+Manuel d'assujettissement.
 
-Liste, nombre
+B. - Construction et équipement des navires transportant des produits chimiques liquides dangereux en vrac :
 
-Références et certificats d'approbation suivant Directive Européenne Marins
+Liste des produits ;
 
-3) MOYENS D'EMBARQUEMENT DU PILOTE
+Description de la conformité du navire au recueil IBC.
 
-Renseignements à fournir, points étudiés et références réglementaires
+C. - Construction et équipement des navires transportant des gaz liquéfiés en vrac :
 
-Réf. ArI 1.25 et PI 1.31 Règle SOLAS (221-)V/23
+Liste des produits ;
 
-Emplacement
+Description de la conformité du navire au recueil IGC.
 
-Description
+D. - Transport de combustible nucléaire irradié, de plutonium et de déchets hautement radioactifs en colis :
 
-Certificat d'approbation si requis
+Description de la conformité du navire au recueil INF.
 
-4) MOUILLAGE - AMARRAGE
+IX. - Hygiène, habitabilité :
 
-Renseignements à fournir, points étudiés et références réglementaires
+Plans des emménagements ;
 
-Plans }
+Implantation ;
 
-Lignes de mouillage, étalingure } Article 221-V/28Ter
+Surfaces et volumes ;
 
-5) LIMITES d'EXPLOITATION
+Chauffage, ventilation ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+Eclairage ;
 
-Navires à passagers
+Infirmerie ;
 
-Réf. PI 1.37 Règle SOLAS (221-)V/30
+Eau potable (circuit, stockage...).
 
-6) ENREGISTREUR DES DONNEES DU VOYAGE
+X. - Prévention de la pollution.
 
-Renseignements à fournir, points étudiés et références réglementaires
+Annexe I
 
-Réf. ArI 1.24 et PI 1.29 Règle SOLAS (221-)V/20
+Prévention de la pollution par les hydrocarbures
 
-Résolution OMI A.861(20), Résolution MSC.163(78) (S-VDR)
+Tranche machine :
 
-Norme CEI 61996
+- description et schémas ;
 
-Liste des données enregistrées
+- séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement ;
 
-Références et certificats d'approbation suivant Directive Européenne Equipements Marins
+Tranche cargaison :
 
-**VI. TRANSPORT DE CARGAISON**
+- lavage au pétrole brut, manuel ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+- rejets, alarmes... ;
 
-A) DISPOSITIONS GENERALES
+- manuel d'exploitation ODME, certificat d'approbation ;
 
-Réf. CI 1.12 Règle SOLAS (221-)VI/05 Manuel d'assujettissement
+- plan de gestion des COV ;
 
-B) CARGAISONS EN VRAC AUTRES QUE LE GRAIN
+- registre des substances qui appauvrissent la couche d'ozone ;
 
-Manuel de chargement/déchargement
+- plan d'opérations STS ;
 
-Réf. CI 1.13 Règle SOLAS (221-)VI/07
+- SOPEP. Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires ; ou
 
-Article 221-XII/08
+- SMPEP. Le manuel SMPEP est approuvé et visé par le centre de sécurité des navires.
 
-Manuel d'exploitation et d'entretien des détecteurs de niveau d'eau
+Annexe II
 
-Résolution OMI MSC.188(79)
+Prévention de la pollution
 
-Appareil de détection de gaz Article 221-VI/03
+par les substances liquides nocives transportées en vrac
 
-C) TRANSPORT DE GRAINS
+Systèmes de lavage ;
 
-Règle SOLAS (221-)VI/06 et 09 Dossier grains
+Rejets ;
 
-**VII. TRANSPORT DE MARCHANDISES DANGEREUSES**
+Manuel sur les méthodes et dispositifs de rejet ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+MARPOL, annexe II, appendice 4, ex-appendice D.
 
-A) TRANSPORT DE MARCHANDISES DANGEREUSES EN COLIS OU SOUS FORME SOLIDE EN VRAC
+Annexe IV
 
-Manuel d'assujettissement : voir chapitre VI ci-dessus.
+Prévention de la pollution par les eaux usées
 
-Voir chapitre II-2 E) ci-dessus pour les dispositions constructives applicables au navire.
+Schéma et descriptif de l'installation ;
 
-B) CONSTRUCTION ET EQUIPEMENT DES NAVIRES TRANSPORTANT DES PRODUITS CHIMIQUES LIQUIDES DANGEREUX EN VRAC
+Calcul justificatif.
 
-Réf. DI 1.1 à 7 Chapitres 2 à 15 et 17 du Recueil IBC
+Annexe VI
 
-(DI 1.7 renvoie à NI 1.1 et aux règles 11 et 12 A de l'annexe II à la Convention MARPOL, soit les règles 7 à 10 de l'annexe II révisée)
+Prévention de la pollution de l'air par les navires
 
-Liste des produits
+Certificat d'approbation et manuel d'exploitation de l'incinérateur ;
 
-Conformité du navire au Recueil IBC (dont manuel d'exploitation règle 16.2.3)
+Certificats EIAPP.
 
-C) CONSTRUCTION ET EQUIPEMENT DES NAVIRES TRANSPORTANT DES GAZ LIQUÉFIES EN VRAC
+XII. - Mesures de sécurité supplémentaires applicables aux vraquiers :
 
-Réf. DI 1.1 à 13 Chapitres 2 à 17 et 19 du Recueil IGC
+Calculateur de chargement (certificat d'approbation) ;
 
-Liste des produits
+Avertisseurs de niveau d'eau ;
 
-Conformité du navire au Recueil IGC (dont manuel d'exploitation règle 18.1.1)
+Structure (attestation de classe).
 
-D) TRANSPORT DE COMBUSTIBLE NUCLEAIRE IRRADIE, DE PLUTONIUM ET DE DECHET HAUTEMENT RADIOACTIFS EN COLIS
+XIII. - Equipements marins :
 
-Article 221-VII/01
+La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-Résolution OMI A.748(18) modifiée par la résolution OMI A.853(20) (Recueil INF)
+Les certificats d'approbation "équipements marins" requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
 
-**VIII. APPARAUX DE LEVAGE**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Registre établi et visé par la société de classification, présenté à la commission de visite de mise en service ou au centre de sécurité des navires
-
-Division 214 du règlement
-
-**IX. HYGIENE - HABITABILITE**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Plans des emménagements
-
-Implantation
-
-Surfaces et volumes
-
-Chauffage - ventilation
-
-Eclairage
-
-Infirmerie
-
-Eau potable (circuit, stockage...)
-
-Division 215 du règlement
-
-**X. PREVENTION DE LA POLLUTION**
-
-CONVENTION MARPOL
-
-Division 213 du règlement
-
-ANNEXE I "PREVENTION DE LA POLLUTION PAR LES HYDROCARBURES"
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Réf. HI 1.1 à 4 règles 9, 10, 14, 16, 17 et 19 de l'annexe I à la Convention MARPOL pour tous navires, soit les règles 1, 12, 13, 14, 15, 16 et 34 de l'annexe I révisée
-
-Réf. HI 2.1 à 8 règles 9, 10, 13, 13B, 13F, 13E, 15, 18, 22 à 25 et 26 de l'annexe I à la Convention MARPOL pour les navires pétroliers, soit les règles 1, 15, 18, 19, 24 à 26, 28, 29, 30, 33, 34, 35 et 37 de l'annexe I révisée
-
-Tranche machine
-
-Description
-
-Séparateur d'eaux mazouteuses, alarme, dispositif d'Arrêt automatique, fonctionnement
-
-Certificat d'approbation suivant la Directive Européenne Equipements Marins
-
-Tranche Cargaison
-
-Lavage au pétrole brut, manuel
-
-Règle 35.1 ex 13B 5)
-
-Rejets, alarmes...
-
-Manuel d'exploitation ODME - Certificat d'approbation
-
-Règle 31.4 ex 15 3) c)
-
-SOPEP (MARPOL Annexe I règle 37 ex 26). Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires ; ou
-
-SMPEP (MARPOL Annexe I règle 37 ex 26 et Annexe II règle 17 ex 16). Le manuel SMPEP est approuvé et visé par le centre de sécurité des navires.
-
-ANNEXE II "PREVENTION DE LA POLLUTION PAR LES SUBSTANCES LIQUIDES NOCIVES TRANSPORTEES EN VRAC"
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Réf. NI 1.1 à 8 règles 5A, 11, 12A, et normes relatives aux méthodes et dispositifs de rejet de l'Annexe II à la Convention MARPOL soit les règles 7 à 10, 12 de l'annexe II révisée
-
-Systèmes de lavage
-
-Rejets
-
-Manuel sur les méthodes et dispositifs de rejet
-
-MARPOL Annexe II Appendice 4 ex-appendice D
-
-ANNEXE IV "PREVENTION DE LA POLLUTION PAR LES EAUX USEES"
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Descriptif de l'installation
-
-Certificats d'approbation suivant la Directive Européenne Equipements Marins ou calcul justificatif des capacités
-
-MARPOL Annexe IV telle qu'amendée par la résolution OMI MEPC.115(51)
-
-Division 213 chapitre 4
-
-ANNEXE V "PREVENTION DE LA POLLUTION PAR LES ORDURES"
-
-Renseignements à fournir, points étudiés
-
-Le manuel de gestion des ordures est visé par le centre de sécurité des navires.
-
-ANNEXE VI "PREVENTION DE LA POLLUTION DE L'AIR PAR LES NAVIRES"
-
-Le cas échéant certificat d'approbation de l'incinérateur.
-
-Les attestations délivrées par la société de classification sont présentées au centre de sécurité des navires.
-
-SYSTÈME ANTISALISSURE - CONVENTION AFS (rendue applicable par le règlement (CE) n° 782/2003)
-
-L'attestation délivrée par la société de classification est présentée au centre de sécurité des navires.
-
-**XII. MESURES DE SECURITE SUPPLEMENTAIRES APPLICABLES AUX VRAQUIERS**
-
-Renseignements à fournir, points étudiés et références réglementaires
-
-Réf. CI 1.14 Règle SOLAS (221-)XII/11 Calculateur de chargement (certificat d'approbation)
-
-Réf. CI 1.16 Règles SOLAS (221-)XII/09 et 12 Avertisseurs de niveau d'eau
-
-Réf. CI 1.15 Règle SOLAS (221-)XII/05 Structure (attestation de classe)
-
-**XIII. BILAN D'ETUDE EN CCS**
+XIII. - Bilan d'étude en CCS.
 
 Préalablement à la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable, éventuellement assorti de réserves, ou non favorable.
-
-Les critères de l'annexe 130.A.5 de la division 130 sont pris en compte.
-
-Référence : Article 130.12 § 5.

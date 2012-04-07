@@ -8,9 +8,9 @@ Avant que le navire ne quitte le port et à tout moment pendant le voyage, tous 
 
 2. Entretien :
 
-2.1 Des consignes pour l'entretien à bord du navire des engins de sauvetage approuvés par l'administration doivent être fournies et l'entretien doit être effectué de la manière recommandée dans ces consignes.
+2.1 Des consignes pour l'entretien à bord du navire des engins de sauvetage approuvés par l'autorité compétente doivent être fournies et l'entretien doit être effectué de la manière recommandée dans ces consignes.
 
-L'administration peut accepter, à la place des consignes prescrites à l'alinéa 1, un programme d'entretien planifié de bord.
+L'autorité compétente peut accepter, à la place des consignes prescrites à l'alinéa 1, un programme d'entretien planifié de bord.
 
 3. Entretien des garants :
 
@@ -38,7 +38,7 @@ Tous les mois, les engins de sauvetage, y compris l'armement des embarcations de
 
 7.1 Chaque radeau de sauvetage gonflable et chaque brassière de sauvetage gonflable doit faire l'objet d'un entretien :
 
-7.1.1 à des intervalles qui ne dépassent pas 12 mois. Lorsque cela semble approprié et raisonnable, l'administration peut toutefois autoriser un intervalle de 17 mois ;
+7.1.1 à des intervalles qui ne dépassent pas 12 mois. Lorsque cela semble approprié et raisonnable, l'autorité compétente peut toutefois autoriser un intervalle de 17 mois ;
 
 7.1.2 dans une station d'entretien approuvée qui est compétente pour l'entretenir, dispose d'installations d'entretien appropriées et emploie seulement du personnel dûment formé.
 
@@ -48,8 +48,8 @@ Tous les mois, les engins de sauvetage, y compris l'armement des embarcations de
 
 Les dispositifs de largage hydrostatique non réutilisables doivent être remplacés lorsque leur date d'expiration est dépassée. S'ils sont réutilisables, les dispositifs de largage hydrostatique doivent faire l'objet d'un entretien :
 
-8.1 à des intervalles qui ne dépassent pas 12 mois. Lorsque cela semble approprié et raisonnable, l'administration peut toutefois autoriser un intervalle de 17 mois ;
+8.1 à des intervalles qui ne dépassent pas 12 mois. Lorsque cela semble approprié et raisonnable, l'autorité compétente peut toutefois autoriser un intervalle de 17 mois ;
 
 8.2 dans une station d'entretien qui est compétente pour les entretenir, dispose d'installations d'entretien appropriées et emploie seulement du personnel dûment formé.
 
-9. Dans le cas des navires dont les opérations de pêche sont de nature à pouvoir rendre difficile le respect des prescriptions des paragraphes 7 et 8, l'administration peut permettre que l'intervalle séparant deux entretiens soit porté à 24 mois si elle est convaincue que les dispositifs sont fabriqués et installés de manière à rester dans un état satisfaisant jusqu'au prochain service.
+9. Dans le cas des navires dont les opérations de pêche sont de nature à pouvoir rendre difficile le respect des prescriptions des paragraphes 7 et 8, l'autorité compétente peut permettre que l'intervalle séparant deux entretiens soit porté à 24 mois si elle est convaincue que les dispositifs sont fabriqués et installés de manière à rester dans un état satisfaisant jusqu'au prochain service.

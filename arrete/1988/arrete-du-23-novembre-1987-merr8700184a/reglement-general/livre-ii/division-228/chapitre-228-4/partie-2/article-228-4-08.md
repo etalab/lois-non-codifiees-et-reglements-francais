@@ -10,19 +10,19 @@ Commande de l'appareil propulsif à partir de la timonerie
 
 1.3 L'appareil propulsif principal doit être muni, à la timonerie, d'un dispositif qui permette d'arrêter la machine en cas d'urgence et qui soit indépendant du système de commande à la timonerie visé à l'alinéa 1.1.
 
-1.4 L'appareil propulsif ne doit pouvoir être commandé à distance qu'à partir d'un seul poste à la fois, l'installation de dispositifs de commande interconnectés peut être autorisée à l'intérieur d'un même poste. Chaque poste doit être muni d'un dispositif indiquant le poste qui commande l'appareil propulsif. Le transfert de la commande entre la timonerie et les locaux de machines ne doit être possible qu'à partir de la tranche des machines ou de la salle de commande des machines. A bord des navires d'une longueur inférieure à 45 mètres, l'administration peut accepter que le poste de contrôle du local de machines ne soit qu'un poste de secours, à condition que la surveillance et la commande à partir de la timonerie soient satisfaisantes.
+1.4 L'appareil propulsif ne doit pouvoir être commandé à distance qu'à partir d'un seul poste à la fois, l'installation de dispositifs de commande interconnectés peut être autorisée à l'intérieur d'un même poste. Chaque poste doit être muni d'un dispositif indiquant le poste qui commande l'appareil propulsif. Le transfert de la commande entre la timonerie et les locaux de machines ne doit être possible qu'à partir de la tranche des machines ou de la salle de commande des machines. A bord des navires d'une longueur inférieure à 45 mètres, l'autorité compétente peut accepter que le poste de contrôle du local de machines ne soit qu'un poste de secours, à condition que la surveillance et la commande à partir de la timonerie soient satisfaisantes.
 
 1.5 La timonerie doit être munie d'appareils indiquant :
 
-.1 la vitesse et le sens de rotation de l'hélice lorsque celle-ci est à pales fixes ;
+. 1 la vitesse et le sens de rotation de l'hélice lorsque celle-ci est à pales fixes ;
 
-.2 la vitesse et l'orientation des pales de l'hélice lorsque celle-ci est à pales orientables ; et
+. 2 la vitesse et l'orientation des pales de l'hélice lorsque celle-ci est à pales orientables ; et
 
-.3 la pré-alerte prescrite au paragraphe 5 de l'article 228-4.04.
+. 3 la pré-alerte prescrite au paragraphe 5 de l'article 228-4.04.
 
 1.6 Il doit être possible de commander l'appareil propulsif au niveau de cet appareil, même en cas de défaillance d'une partie quelconque du dispositif de commande à distance.
 
-1.7 Le dispositif de commande à distance doit être conçu de telle manière qu'en cas de défaillance, l'alarme soit donnée et que la vitesse et le sens de poussée fixés à l'avance pour l'hélice soient maintenus jusqu'au moment où la commande locale entre en action, à moins que l'administration ne juge cette disposition impossible en pratique.
+1.7 Le dispositif de commande à distance doit être conçu de telle manière qu'en cas de défaillance, l'alarme soit donnée et que la vitesse et le sens de poussée fixés à l'avance pour l'hélice soient maintenus jusqu'au moment où la commande locale entre en action, à moins que l'autorité compétente ne juge cette disposition impossible en pratique.
 
 1.8 Des mesures particulières doivent être prises pour que le démarrage automatique n'épuise pas les possibilités de démarrage. Il faut prévoir un avertisseur qui se déclenche lorsque la pression de l'air de démarrage atteint un niveau bas qui permet encore des démarrages de la machine principale.
 
@@ -54,7 +54,7 @@ Les dispositifs de programmation de montée et de descente en allure utilisés �
 
 7.2 Les commandes locales doivent être aussi directes que possible, présenter une grande sécurité de fonctionnement et être indépendantes de l'installation de télécommande de la passerelle. Elles peuvent se trouver dans un poste de commande situé dans le local des machines. Chaque poste de commande même partiel (cas des postes de commande sur place des hélices orientables, des embrayages, par exemple) doit comporter un dispositif de communication avec la timonerie. Ce dispositif doit être indépendant des organes de télécommande de l'appareil propulsif et utilisable en cas de disjonction générale.
 
-8. Le dispositif automatique de commande à distance doit être conçu de telle manière qu'en cas de défaillance, l'alarme soit donnée. A moins que l'administration ne juge ces dispositions impossibles en pratique, la vitesse et le sens de poussée de l'hélice doivent rester ceux existant avant cette défaillance jusqu'au moment où la commande locale entre en action.
+8. Le dispositif automatique de commande à distance doit être conçu de telle manière qu'en cas de défaillance, l'alarme soit donnée. A moins que l'autorité compétente ne juge ces dispositions impossibles en pratique, la vitesse et le sens de poussée de l'hélice doivent rester ceux existant avant cette défaillance jusqu'au moment où la commande locale entre en action.
 
 Cette alarme doit être individualisée à la passerelle.
 

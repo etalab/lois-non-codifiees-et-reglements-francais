@@ -14,4 +14,4 @@ Pour l'application du livre 3 du présent règlement, hors la division 311 :
 
 5. un Etat membre est un Etat membre de l'espace économique européen ;
 
-6. un organisme notifié est un organisme notifié dans le cadre de la division 311 ayant reçu délégation pour délivrer des approbations au nom du Ministre chargé de la marine marchande. La liste de ces organismes notifiés figure en annexe du chapitre 140-2.
+6. un organisme habilité est un organisme habilité dans le cadre de la division 311 ayant reçu délégation pour délivrer des approbations au nom du Ministre chargé de la mer. La liste de ces organismes notifiés figure en annexe du chapitre 140-2.

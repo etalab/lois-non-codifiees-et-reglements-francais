@@ -1,0 +1,31 @@
+# Article 140.6
+
+Relations de travail.
+
+En application des articles 42 et 42-1 du décret n° 84-810 du 30 août 1984 modifié, les relations de travail sont définies selon les modalités suivantes :
+
+1. La société de classification habilitée tient confidentiels les renseignements qu'elle peut être amenée à connaître de par son habilitation.
+
+2. L'administration porte à la connaissance des sociétés de classification habilitées les modifications au présent règlement.
+
+3. Les sociétés de classification habilitées fournissent à l'administration toute information concernant la classification de la flotte inscrite dans leurs registres de classification, les transferts, les changements, les suspensions ou les retraits de classe, pour les navires battant pavillon français. De plus les sociétés de classification habilitées notifient annuellement au ministre chargé de la mer la liste des navires battant pavillon français inscrits sur leur registre de classification.
+
+4. Les sociétés de classification habilitées notifient sans délai à l'administration, dès qu'elles en ont connaissance, toute modification substantielle, suspension ou retrait de classe.
+
+5. Les sociétés de classification habilitées ne délivrent, ne visent et ne renouvellent de certificat au nom de l'Etat pour un navire qui a fait l'objet d'un retrait de classe ou qui a changé de classe pour des motifs de sécurité sans donner au préalable à l'administration la possibilité d'exprimer son avis dans un délai de trois mois afin de déterminer si une inspection complète est nécessaire. Lorsque les conditions d'attribution sont modifiées de manière substantielles, la société de classification habilitée consulte également l'administration préalablement à la délivrance du certificat.
+
+6. La société de classification habilitée coopère avec les administrations chargées du contrôle par l'Etat du port lorsqu'un navire français inscrit à son registre est concerné, notamment afin de faciliter la correction des anomalies constatées ou d'autres insuffisances.
+
+7. La société de classification habilitée consulte formellement l'administration chaque fois que nécessaire en matière d'équivalence ou d'interprétation du présent règlement.
+
+8. La société de classification habilitée informe sans délai le chef de centre de sécurité des navires compétent lorsqu'elle décide d'une mesure de suspension ou de retrait en application des articles 8-1 et 9 du décret n° 84-810 du 30 août 1984 modifié.
+
+9. La société de classification habilitée donne aux représentants de l'administration un accès gratuit à toutes les informations pertinentes concernant les navires français pour lesquels elle délivre des certificats, ou tout autre document, au nom de l'Etat. Ceci comprend notamment l'accès direct aux documents et rapports de visites appropriés de la société de classification habilitée.
+
+10. La société de classification habilitée qui inscrit un navire français existant à son registre s'assure qu'elle a obtenu la totalité des renseignements qui, à sa connaissance, sont nécessaires en ce qui concerne la situation du navire en matière de visites. Ceci concerne également les limitations structurelles et opérationnelles. A ce titre, en cas de transfert de classe d'une société de classification habilitée vers une autre, l'ancienne société de classification habilitée informe la nouvelle société de classification habilitée de tous les retards dans l'exécution des visites ou la mise en œuvre des recommandations, des conditions de classe, des conditions d'exploitation ou des restrictions d'exploitation établies à l'encontre du navire. Lors du transfert, l'ancienne société de classification habilitée communique le dossier complet du navire à la nouvelle société de classification habilitée. Les certificats du navire ne peuvent être délivrés par la nouvelle société de classification habilitée qu'après que toutes les visites en retard ont été dûment effectuées et que les recommandations et les conditions de classe inobservées précédemment établies à l'encontre du navire ont été respectées conformément aux spécifications de l'ancienne société de classification habilitée. Lors de la délivrance des certificats, la nouvelle société de classification habilitée doit aviser l'ancienne société de classification habilitée de la date de délivrance des certificats et confirmer la date, le lieu et les mesures prises pour remédier à tous les retards dans l'exécution des visites ou la mise en œuvre des recommandations et des conditions de classe. Les sociétés de classification habilitées coopèrent pour mettre en œuvre adéquatement les dispositions du présent paragraphe.
+
+11. La société de classification habilitée s'assure que les éventuelles recommandations formulées par la société de classification habilitée précédente et dont elle a eu connaissance sont mises en œuvre dans les délais fixés par cette société.
+
+12. La société de classification habilitée, après la visite initiale ou chaque visite périodique d'un navire dont elle délivre les titres et certificats en application du paragraphe I-1° de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, transmet à l'Agence nationale des fréquences, dans un délai d'un mois, à compter de chaque visite le formulaire visé par l'annexe 140-A. 2 dûment renseigné.
+
+13. Pour les navires dont les titres et certificats sont délivrés par une société de classification habilitée au titre du paragraphe I-1° de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié et en application de l'article 30 du décret n° 84-810 du 30 août 1984 modifié, toute visite d'un navire fait l'objet d'un rapport qui désigne nommément les représentants de la société de classification habilitée et mentionne sommairement toutes les constatations faites au cours de la visite ainsi que les observations et les prescriptions qui en découlent. Si ce rapport comporte des prescriptions de mise en conformité aux dispositions réglementaires, celles-ci doivent être assorties de délais aussi brefs que possible pour leur exécution. Les prescriptions doivent faire référence aux dispositions en vertu desquelles elles sont formulées. Le représentant de la société de classification habilitée, mentionne sur le rapport les décisions prises. Une copie des rapports de visite est adressée au centre de sécurité des navires compétent.

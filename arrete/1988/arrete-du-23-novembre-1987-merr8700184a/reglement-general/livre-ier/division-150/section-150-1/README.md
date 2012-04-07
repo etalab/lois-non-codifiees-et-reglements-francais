@@ -28,6 +28,7 @@
 - [Article 150-1.26](article-150-1-26.md)
 - [Article 150-1.27](article-150-1-27.md)
 - [Article 150-1.28](article-150-1-28.md)
+- [Article 150-1.29](article-150-1-29.md)
 - [Article Annexe 150-1.I](article-annexe-150-1-i.md)
 - [Article Annexe 150-1.II](article-annexe-150-1-ii.md)
 - [Article Annexe 150-1.III](article-annexe-150-1-iii.md)

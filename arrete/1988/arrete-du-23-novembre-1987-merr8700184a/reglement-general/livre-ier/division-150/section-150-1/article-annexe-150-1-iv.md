@@ -22,9 +22,9 @@ LISTES DE CERTIFICATS ET DOCUMENTS
 
 9. Fiche synoptique continue.
 
-10. Certificat d'aptitude au transport de gaz liquéfiés en vrac.
+10. Certificat international d'aptitude au transport de gaz liquéfiés en vrac.
 
-11. Certificat international d'aptitude au transport de gaz liquéfiés en vrac.
+11. Certificat d'aptitude au transport de gaz liquéfiés en vrac.
 
 12. Certificat international d'aptitude au transport de produits chimiques dangereux en vrac.
 
@@ -100,12 +100,14 @@ LISTES DE CERTIFICATS ET DOCUMENTS
 
 48. Certificat d'assurance ou autre garantie financière concernant la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures (convention internationale sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, 1992).
 
-49. Certificats exigés par la directive 2009/20/CE du Parlement européen et du Conseil du 23 avril 2009 relative à l'assurance des propriétaires de navires pour les créances maritimes [1].
+49. Certificats exigés par la directive n° 2009/20/CE du Parlement européen et du Conseil du 23 avril 2009 relative à l'assurance des propriétaires de navires pour les créances maritimes (1).
 
-50. Certificats exigés par le règlement (CE) n° 392/2009 du Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des entreprises assurant le transport de personnes par mer en cas d'accident [2].
+50. Certificats exigés par le règlement (CE) n° 392/2009 du Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des entreprises assurant le transport de personnes par mer en cas d'accident (2).
 
 51. Certificat international de prévention de la pollution de l'atmosphère.
 
 52. Certificat international de prévention de la pollution par les eaux résiduaires.
 
-(1) A partir de la date d'application de la directive 2009/20/CE. (2) A partir de la date d'application du réglement (CE) n° 392/2009.
+(1) A partir de la date d'application de la directive n° 2009/20/CE ;
+
+(2) A partir de la date d'application du règlement (CE) n° 392/2009.

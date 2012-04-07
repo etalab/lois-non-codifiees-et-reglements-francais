@@ -1,10 +1,6 @@
 # Article ANNEXE 230-2.A.2
 
-CALCUL DE L'ÉPAISSEUR MINIMALE
-
-DES VITRES ET DES HUBLOTS
-
-(article 230-2.16)
+Liste des plans et documents à soumettre à la société de classification habilitée (art. 230-2.08) en complément des documents mentionnés par l'article 130.26.2.
 
 1. L'épaisseur minimale des vitres ou des hublots est fonction :
 
@@ -86,73 +82,54 @@ APPENDICE I
 <tbody>
 <tr>
 <td>
-<p align="center">ÉLÉMENTS</p>
+<p align="center">ÉLÉMENTS<br/>
+</p>
 </td>
 <td>
-<p align="center">FAÇADES<br/>avant</p>
+<p align="center">FAÇADES<br/>avant<br/>
+</p>
 </td>
 <td>
-<p align="center">PAROIS<br/>latérales</p>
+<p align="center">PAROIS<br/>latérales<br/>
+</p>
 </td>
 <td>
-<p align="center">FAÇADES<br/>arrière</p>
+<p align="center">FAÇADES<br/>arrière<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">X/L ≤ 0,2</p>
 </td>
-<td align="center">
-<p align="center">3,00</p>
-</td>
-<td align="center">
-<p align="center">0,96</p>
-</td>
-<td align="center">
-<p align="center">0,84</p>
-</td>
+<td align="center">3,00</td>
+<td align="center">0,96</td>
+<td align="center">0,84</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">0,2 &lt; X/L ≤ 0,5</p>
 </td>
-<td align="center">
-<p align="center">2,75</p>
-</td>
-<td align="center">
-<p align="center">0,88</p>
-</td>
-<td align="center">
-<p align="center">0,55</p>
-</td>
+<td align="center">2,75</td>
+<td align="center">0,88</td>
+<td align="center">0,55</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">0,5 &lt; X/L ≤ 0,8</p>
 </td>
-<td align="center">
-<p align="center">2,75</p>
-</td>
-<td align="center">
-<p align="center">0,88</p>
-</td>
-<td align="center">
-<p align="center">0,33</p>
-</td>
+<td align="center">2,75</td>
+<td align="center">0,88</td>
+<td align="center">0,33</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">0,8 &lt; X/L</p>
 </td>
-<td align="center">
-<p align="center">3,75</p>
+<td align="center">3,75</td>
+<td align="center">1,20<br/>
 </td>
-<td align="center">
-<p align="center">1,20<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">0,3</p>
+<td align="center">0,3<br/>
 </td>
 </tr>
 </tbody>

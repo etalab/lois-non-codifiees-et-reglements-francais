@@ -172,7 +172,7 @@ Les locaux de machines incluent également les locaux de l'appareil à gouverner
 
 47 Un essai au feu standard est un essai au cours duquel des échantillons de cloisons et de ponts sont soumis, dans un four d'essai, à des températures correspondant approximativement à la courbe standard température-temps. Les méthodes d'essai doivent être conformes au Code des méthodes d'essai au feu.
 
-48 Un navire-citerne est un navire tel que défini à l'article 110-1.02.
+48. Un navire-citerne est un navire tel que défini au chapitre 213-2 de la division 213 du présent réglement.
 
 49 Les locaux à véhicules sont des espaces à cargaison destinés au transport de véhicules automobiles ayant dans leur réservoir le carburant nécessaire à leur propre propulsion.
 

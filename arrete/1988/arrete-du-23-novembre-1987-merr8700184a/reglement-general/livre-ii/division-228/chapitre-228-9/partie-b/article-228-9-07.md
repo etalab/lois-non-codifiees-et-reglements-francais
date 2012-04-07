@@ -1,6 +1,6 @@
 # Article 228-9.07
 
-Matériel radioélectrique - Zone océanique A 1
+Matériel radioélectrique-Zone océanique A 1
 
 1 Outre qu'il doit satisfaire aux prescriptions de l'article 228-9.06, tout navire qui effectue des voyages exclusivement dans la zone océanique A1 doit être pourvu d'une installation radioélectrique qui puisse déclencher l'émission d'alertes de détresse, dans le sens navire station côtière, depuis le poste de navigation habituel du navire, et qui fonctionne :
 
@@ -32,4 +32,4 @@ Matériel radioélectrique - Zone océanique A 1
 
 .5 pouvoir être déclenchée manuellement.
 
-4 En application de la Directive 1999/19/CE, et par dérogation aux dispositions de l'article 228-9.04.1.1, l'administration peut exempter les navires de pêche neufs d'une longueur comprise entre 24 et 45 mètres et opérant exclusivement dans la zone océanique A1 des obligations imposées par l'article 228-9.06.1.6 et par l'article 228-9.07.3, à condition qu'ils soient équipés d'une installation radio VHF comme prescrit par l'article 228-9.06.1.1, complétée par une installation radio VHF utilisant le système de l'appel sélectif numérique pour la transmission d'appels de détresse navire-terre comme prévu par l'article 228-9.07.1.1.
+4 En application de la Directive 1999/19/ CE, et par dérogation aux dispositions de l'article 228-9.04.1.1, l'autorité compétente peut exempter les navires de pêche neufs d'une longueur comprise entre 24 et 45 mètres et opérant exclusivement dans la zone océanique A1 des obligations imposées par l'article 228-9.06.1.6 et par l'article 228-9.07.3, à condition qu'ils soient équipés d'une installation radio VHF comme prescrit par l'article 228-9.06.1.1, complétée par une installation radio VHF utilisant le système de l'appel sélectif numérique pour la transmission d'appels de détresse navire-terre comme prévu par l'article 228-9.07.1.1.

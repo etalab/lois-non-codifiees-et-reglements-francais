@@ -1,803 +1,707 @@
-# Article Annexe 130.A.1
+# Article Annexe 130-A.1
 
-**Plans et documents à fournir pour les navires dont l'étude est de la compétence de la commission régionale de sécurité ou du chef de centre**
+PLANS ET DOCUMENTS À FOURNIR POUR LES NAVIRES DONT L'ÉTUDE EST DE LA COMPÉTENCE
 
-**PARTIE 1**
+DE LA COMMISSION RÉGIONALE DE SÉCURITÉ
 
-Liste des documents à fournir pour l'examen des dossiers de demande de titres de sécurité pour les navires autres que les navires à passagers.
+Partie 1. - Liste des documents à fournir pour l'examen des dossiers de demande de titres de sécurité pour les navires autres que les navires à passagers
 
-Les plans et documents à fournir dans le cas de navires de charge à navigation internationale sont ceux listés dans l'annexe 130.A. 2 partie 1.
+Les plans et documents à fournir dans le cas de navires de charge à navigation internationale sont ceux listés dans l'annexe 130.A.2 partie 1.
 
-_Article 1. 01_
+Art. 1.01. - Renseignements généraux.
 
-Renseignements généraux
+Un descriptif indique notamment tous les renseignements prévisionnels ainsi que les numéros d'approbation ou d'homologation de matériels, tels qu'ils sont prévus aux chapitres :
 
-Un descriptif indique notamment tous les renseignements prévisionnels ainsi que les numéros d'approbation ou d'homologation de matériels tels qu'ils sont prévus dans l'imprimé de Procès-verbal de visite de mise en service aux chapitres :
+- description du navire ;
 
-• Description du navire ;
+- appareils de propulsion et auxiliaires ;
 
-• Appareils de propulsion et auxiliaires ;
+- protection contre l'incendie ;
 
-• Protection contre l'incendie ;
+- engins de sauvetage ;
 
-• Engins de sauvetage ;
-
-• Installations radioélectriques.
+- installations radioélectriques.
 
 Il précise en outre :
 
-• Les particularités du navire et utilisation envisagée et, dans le cas d'un navire existant ou subissant une modification importante, l'origine du navire ;
+- les particularités du navire et utilisation envisagée et, dans le cas d'un navire existant ou subissant une modification importante, l'origine du navire ;
 
-• La date de signature du contrat de construction ou d'achat ;
+- la date de signature du contrat de construction ou d'achat ;
 
-• La date prévue de lancement ;
+- la date prévue de pose de quille ;
 
-• La date prévue de mise en service ;
+- la date prévue de lancement ;
 
-• Le nombre maximum de personnes pouvant être logées à bord (ce chiffre ne préjuge pas de l'effectif résultant de l'application des règlements).
+- la date prévue de mise en service ;
 
-Attestation de non présence d'amiante, délivrée par le chantier, incluant les produits sous-traités.
+- le nombre maximum de personnes pouvant être logées à bord (ce chiffre ne préjuge pas de l'effectif résultant de l'application des règlements).
 
-_Article 1. 02_
+Art. 1.02. - Stabilité.
 
-Stabilité
+Plans et documents :
 
-Plans et documents
+- capacités ;
 
-• Capacités ;
+- données hydrostatiques ;
 
-• Données hydrostatiques ;
+- données pantocarènes ;
 
-• Données pantocarènes ;
+- courbes des bras de levier de redressement ;
 
-• Courbes des bras de levier de redressement ;
+- courbes de sondes des caisses et ballasts. Position des centres de gravité selon les hauteurs et valeur des pertes de stabilité par carènes liquides ;
 
-• Courbes de sondes des caisses et ballasts. Position des centres de gravité selon les hauteurs et valeur des pertes de stabilité par carènes liquides ;
+- valeur de l'angle d'envahissement qf ;
 
-• Valeur de l'angle d'envahissement Of ;
+- dispositifs de fermeture des cols de cygne et autres ouvertures jusqu'à l'angle qf ;
 
-• Dispositifs de fermeture des cols de cygne et autres ouvertures jusqu'à l'angle Of ;
+- recueil des cas de chargement(s) et informations pour le capitaine ;
 
-• Recueil des cas de chargements et informations pour le capitaine ;
+- rapport d'examen de la société de classification habilitée ;
 
-• Rapport d'examen de la société de classification agréée ;
+- procès-verbal de l'expérience de stabilité ou de pesée le cas échéant ;
 
-• Procès-verbal de l'expérience de stabilité ou de pesée le cas échéant ;
+- l'exemplaire des "cas de chargement(s) et informations pour le capitaine" prévu pour être mis à bord est rédigé dans la langue de travail du bord ;
 
-• L'exemplaire des " cas de chargement et informations pour le capitaine " prévu pour être mis à bord est rédigé dans la langue de travail du bord ;
+- le dossier est visé par une société de classification habilitéée et accompagné de la note d'examen.
 
-• Le dossier est visé par une société de classification agréée.
+Nota. - Sans attendre les résultats de l'expérience de stabilité, l'exploitant du navire peut soumettre à la commission de sécurité compétente un dossier prévisionnel établi avec le déplacement et le centre de gravité du navire lège calculés à partir du devis de poids. Le dossier prévisionnel est visé par une société de classification habilitée.
 
-NOTA : Sans attendre les résultats de l'expérience de stabilité l'armateur peut soumettre à la commission de sécurité compétente un dossier prévisionnel établi avec le déplacement et le centre de gravité du navire lège calculés à partir du devis de poids. Le dossier prévisionnel est visé par une société de classification agréée.
+Ce dossier prévisionnel, complété des éléments de stabilité mesurés, pourra être considéré comme représentant le dossier de stabilité du navire, si la commission qui statue estime que les déplacements et position du centre de gravité pris en compte sont en accord avec ces éléments.
 
-Ce dossier prévisionnel complété des éléments de stabilité mesurés pourra être considéré comme représentant le dossier de stabilité du navire si la commission qui statue estime que les déplacements et position du centre de gravité pris en compte sont en accord avec ces éléments.
+Art. 1.03. - Coque - Franc-bord.
 
-_Article 1. 03_
+En application de la division 140 du présent règlement, les études relatives à la délivrance du certificat de franc-bord sont déléguées aux sociétés de classification habilitées et ne sont pas présentées à la commission.
 
-Coque-Franc-Bord
+Toutefois, en cas de demande d'exemption à la convention internationale sur les lignes de charge, celle-ci est présentée à la commission accompagnée de l'avis de la société de classification.
 
-Plans et documents
+Plans et documents :
 
-• Plan général : compartimentage, échappées, etc. ;
+- Plan général : compartimentage, échappées, etc. ;
 
-• Moyen d'accès, de circulation et d'évacuation ;
+- moyen d'accès, de circulation et d'évacuation ;
 
-• Assèchement machine ;
+- assèchement machine ;
 
-• Assèchement cales et ballasts ;
+- assèchement cales et ballasts ;
 
-• Dalotage ;
+- dalotage ;
 
-• Tuyaux de sonde et dégagements d'air précisant les dispositifs de fermeture et hauteurs de surbaux et leur emplacement ;
+- tuyaux de sonde et dégagements d'air précisant les dispositifs de fermeture et hauteurs de surbaux et leur emplacement ;
 
-• Indication des ouvertures sur bordé et leur mode de fermeture ;
+- indication des ouvertures sur bordé et leur mode de fermeture ;
 
-• Tirants d'eau ou repères d'enfoncement.
+- tirants d'eau ou repères d'enfoncement.
 
-Renseignements
+Renseignements :
 
-• Type et nombre des panneaux d'écoutilles, hauteur des surbaux d'écoutilles ;
+- type et nombre des panneaux d'écoutilles, hauteur des surbaux d'écoutilles ;
 
-• Type et caractéristiques des pompes et éjecteurs servant à l'assèchement ;
+- type et caractéristiques des pompes et éjecteurs servant à l'assèchement ;
 
-• Cloisons d'abordage, cloisons étanches, portes étanches ;
+- cloisons d'abordage, cloisons étanches, portes étanches ;
 
-• Demande d'exemption ou de dérogation. Cette demande est, le cas échéant, accompagnée de l'avis de la société de classification agréée.
+- demande d'exemption ou de dérogation.
 
-_Article 1. 04_
+Art. 1.04. - Machine.
 
-Machine
+Plans et documents :
 
-Plans et documents
+- transfert et alimentation en combustible ;
 
-• Transfert et alimentation en combustible ;
+- circuits de réfrigération ;
 
-• Circuits de réfrigération ;
+- circuit d'eau douce sanitaire ;
 
-• Circuit d'eau douce sanitaire ;
+- circuits d'huile de graissage ;
 
-• Circuits d'huile de graissage ;
+- circuit d'air comprimé ;
 
-• Circuit d'air comprimé ;
+- circuits hydrauliques haute pression.
 
-• Circuits hydrauliques haute pression.
+Nota. - Les sécurités et alarmes sont indiquées sur les schémas.
 
-NOTA : Les sécurités et alarmes sont indiquées sur les schémas.
+Renseignements :
 
-Renseignements
+- pression et température de la vapeur ;
 
-• Pression et température de la vapeur ;
+- type de propulseur ;
 
-• Type de propulseur ;
+- propulseurs transversaux ;
 
-• Propulseurs transversaux ;
+- description et caractéristiques de l'appareil à gouverner ;
 
-• Description et caractéristiques de l'appareil à gouverner ;
+- moyens de stockage et de rejet des eaux de cale machine.
 
-• Moyens de stockage et de rejet des eaux de cale machine.
+Art. 1.05. - Protection contre l'incendie.
 
-_Article 1. 05_
+Plans et documents :
 
-Protection contre l'incendie
+- plan de sécurité utilisant les symboles des résolutions de l'OMI ;
 
-Plans et documents
+- cloisonnement d'incendie avec toutes indications utiles concernant la position et le type des cloisons et ponts, les entourages des escaliers, des puits, des tambours, etc. ;
 
-• Plan de sécurité utilisant les symboles de l'annexe à la résolution OMI A. 654 (16), telle que modifiée par la résolution OMI A. 952 (23) ;
+- plan des ouvertures dans les cloisonnements d'incendie avec leurs moyens de fermeture ;
 
-• Cloisonnement d'incendie avec toutes indications utiles concernant la position et le type des cloisons et ponts, les entourages des escaliers, des puits, des tambours, etc. ;
+- circuit d'extinction par eau sous pression comprenant l'emplacement et les caractéristiques des pompes d'incendie ;
 
-• Plan des ouvertures dans les cloisonnements d'incendie avec leurs moyens de fermeture ;
+- installations fixes d'extinction des locaux de machine ;
 
-• Circuit d'extinction par eau sous pression comprenant l'emplacement et les caractéristiques des pompes d'incendie ;
+- installations fixes d'extinction des emménagements et des locaux à marchandises ;
 
-• Installations fixes d'extinction des locaux de machine ;
+- réalisation des ensembles d'alimentation et de mise en œuvre des installations fixes d'extinction ;
 
-• Installations fixes d'extinction des emménagements et des locaux à marchandises ;
+- installations de détection ;
 
-• Réalisation des ensembles d'alimentation et de mise en oeuvre des installations fixes d'extinction ;
+- manuel d'exploitation.
 
-• Installations de détection ;
+Renseignements :
 
-• Manuel d'exploitation.
+- calculs justificatifs des caractéristiques des installations fixes d'extinction ;
 
-Renseignements
+- dispositif de renouvellement de l'air après décharge du gaz inerte dans les locaux de machines. Source et parcours du câblage d'alimentation du dispositif ;
 
-• Références d'approbation ou, à défaut, copie des procès-verbaux d'essai des cloisons, portes et ponts d'incendie de chaque type ;
+- ventilation des locaux de stockage des bouteilles de gaz inerte ;
 
-• Références d'approbation ou, à défaut, copie des procès-verbaux d'essais des matériaux, revêtements de pont, objets d'ameublement ;
+- dispositifs d'extinction pour les plates-formes hélicoptères ou zones d'hélitreuillage.
 
-• Références d'approbation ou, à défaut, copie des procès-verbaux d'essais des matériels de détection d'incendie et de lutte contre l'incendie ;
+Art. 1.06. - Electricité.
 
-• Calculs justificatifs des caractéristiques des installations fixes d'extinction ;
+Plans et documents :
 
-• Dispositif de renouvellement de l'air après décharge du gaz inerte dans les locaux de machines. Source et parcours du câblage d'alimentation du dispositif ;
+- schéma général unifilaire précisant : nombre, type, mode d'entraînement, tensions et puissances des machines génératrices ;
 
-• Ventilation des locaux de stockage des bouteilles de gaz inerte ;
+- schéma des tableaux électriques (principal et secours) précisant les caractéristiques des appareils de protection contre les surintensités et les courts-circuits ;
 
-• Dispositifs d'extinction pour les plates-formes hélicoptères ou zones d'hélitreuillage.
+- dispositions prises pour l'alimentation des pompes d'assèchement et d'incendie ;
 
-_Article 1. 06_
+- bilans électriques (énergie principale et énergie de secours).
 
-Electricité
+Renseignements :
 
-Plans et documents
+- moyens d'arrêt à distance ;
 
-• Schéma général unifilaire précisant : nombre, type, mode d'entraînement, tensions et puissances des machines génératrices ;
+- moyens de surveillance des isolements ;
 
-• Schéma des tableaux électriques (principal et secours), précisant les caractéristiques des appareils de protection contre les surintensités et les courts-circuits ;
+- emplacement et autonomie des groupes de secours ;
 
-• Dispositions prises pour l'alimentation des pompes d'assèchement et d'incendie ;
+- emplacement, caractéristiques et autonomie des batteries d'accumulateurs ;
 
-• Bilans électriques (énergie principale et énergie de secours).
+- moyens d'aération des locaux des batteries d'accumulateurs sur les navires construits en dehors de la surveillance d'une société de classification habilitée, références d'homologation des conducteurs ;
 
-Renseignements
+- dispositions relatives à l'incendie.
 
-• Moyens d'arrêt à distance ;
+Art. 1.07. - Navigation.
 
-• Moyens de surveillance des isolements ;
+Plans :
 
-• Références d'approbation des appareils de chauffage électrique ;
+- visibilité sur l'avant dans les conditions les plus défavorables ;
 
-• Emplacement et autonomie des groupes de secours ;
+- implantation des feux réglementaires.
 
-• Emplacement, caractéristiques et autonomie des batteries d'accumulateurs ;
+Renseignements :
 
-• Moyens d'aération des locaux des batteries d'accumulateurs sur les navires construits en dehors de la surveillance d'une société de classification agréée,
+- liste et caractéristiques des principaux appareils de navigation ;
 
-références d'homologation des conducteurs ;
+- installation et spécifications des échelles de pilote et des appareils de hissage ou des dispositifs de transfert du pilote.
 
-• Dispositions relatives à l'incendie.
+Art. 1.08. - Moyens de sauvetage.
 
-_Article 1. 07_
+Plans et documents :
 
-Navigation
+- implantation de la drome de sauvetage ;
 
-Plans
+- amenage avec 20° de gîte et 10° d'assiette ;
 
-• Visibilité sur l'avant dans les conditions les plus défavorables ;
+- plan des emplacements des combinaisons d'immersion et des brassières de sauvetage ;
 
-• Implantation des feux réglementaires.
+- éclairage des postes de rassemblement et d'embarquement et des coursives, escaliers et issues donnant accès à ces postes et alimentation électrique fournie par la source d'énergie de secours.
 
-Renseignements
+Renseignements :
 
-• Liste et caractéristiques des principaux appareils de navigation ;
+- composition de la drome ;
 
-• Installation et spécifications des échelles de pilote et des appareils de hissage ou des dispositifs de transfert du pilote.
+- description des dispositifs d'amenage des embarcations et de largage des radeaux.
 
-_Article 1. 08_
+Art. 1.09. - Emménagements.
 
-Moyens de sauvetage
+Plans et documents :
 
-Plans et documents
+- emménagements avec indication des surfaces et volumes des locaux équipage ;
 
-• Implantation de la drome de sauvetage ;
+- chauffage et ventilation ;
 
-• Amenage avec 20° de gîte et 10° d'assiette ;
+- éclairage ;
 
-• Plan des emplacements des combinaisons d'immersion et des brassières de sauvetage ;
+- circuit d'eau potable ;
 
-• Eclairage des postes de rassemblement et d'embarquement et des coursives, escaliers et issues donnant accès à ces postes, et alimentation électrique fournie par la source d'énergie de secours.
+- rapport sur les mesures de bruit.
 
-Renseignements
+Art. 1.10. - Dispositions techniques pour la veille réduite à la passerelle et les conditions de quart à la machine.
 
-• Composition de la drome et références d'approbation du matériel ;
+Plans et documents :
 
-• Description des dispositifs d'amenage des embarcations et de largage des radeaux.
+- champ de visibilité horizontale à la passerelle.
 
-_Article 1. 09_
+Renseignements :
 
-Emménagements
+- justification point par point que les exigences de l'article 212-1.02 sont remplies ;
 
-Plans et documents
+- le cas échéant, le questionnaire de l'annexe 221-II-1/A.1, partie B, rempli à la diligence de l'exploitant du navire ;
 
-• Emménagements avec indication des surfaces et volumes des locaux équipage ;
+- le cas échéant, le dossier justifiant la conformité du navire aux dispositions énumérées à l'article 212-1.03.
 
-• Chauffage et ventilation ;
+Art. 1.11. - Cargaisons.
 
-• Eclairage ;
+Documents :
 
-• Circuit d'eau potable ;
+- manuel de chargement de grains et rapport d'examen par la société de classification habilitée. Les exemplaires du manuel de chargement de grains sont visés par la société de classification qui a établi le rapport ;
 
-• Rapport sur les mesures de bruit.
-
-_Article 1. 10_
-
-Dispositions techniques pour la veille réduite a la passerelle
-
-et les conditions de quart à la machine
-
-Plans et documents
-
-• Champ de visibilité horizontale à la passerelle.
-
-Renseignements
-
-• Justification point par point que les exigences de l'article 212-1. 02 sont remplies ;
-
-• Le cas échéant, le questionnaire de l'annexe 221-II-1 / A. 1, partie B, rempli à la diligence de l'armateur visé par la société de classification ;
-
-• Le cas échéant, le dossier justifiant la conformité du navire aux dispositions énumérées à l'article 212-1. 03, visé par une société de classification agréée.
-
-_Article 1. 11_
-
-Cargaisons
-
-Documents
-
-• Manuel de chargement de grains et rapport d'examen par la société de classification agréée. Les exemplaires du manuel de chargement de grains sont
-
-visés par la société de classification qui a établi le rapport ;
-
-• Manuels prescrits par les divisions du livre quatrième (divisions 401 a 403).
+- manuels prescrits par les divisions du livre quatrième (divisions 401 à 403).
 
 Les manuels prévus pour être mis à bord sont rédigés dans la langue de travail du bord.
 
-_Article 1. 12_
+Art. 1.12. - Navires-citernes transportant des hydrocarbures.
 
-Navires-citernes transportant des hydrocarbures
+Plans et documents :
 
-Plans et documents
+- dispositif à gaz inerte ;
 
-• Dispositif à gaz inerte ;
+- dispositif fixe à mousse sur le pont ;
 
-• Dispositif fixe à mousse sur le pont ;
+- dispositifs de dégagement des gaz, du balayage et du dégazage des citernes à cargaison et des autres systèmes de ventilation ;
 
-• Dispositifs de dégagement des gaz, du balayage et du dégazage des citernes à cargaison et des autres systèmes de ventilation ;
+- dispositions relatives au lavage au pétrole brut, y compris les schémas des surfaces masquées et le manuel sur l'équipement et l'exploitation ;
 
-• Dispositions relatives au lavage au pétrole brut, y compris les schémas des surfaces masquées et le manuel sur l'équipement et l'exploitation ;
+- protection des citernes à cargaison ;
 
-• Protection des citernes à cargaison ;
+- protection des chambres des pompes à cargaison ;
 
-• Protection des chambres des pompes à cargaison ;
+- dispositions relatives aux citernes à ballast séparé ;
 
-• Dispositions relatives aux citernes à ballast séparé ;
+- dispositions relatives au contrôle des rejets d'hydrocarbures et à la conservation des hydrocarbures à bord ;
 
-• Dispositions relatives au contrôle des rejets d'hydrocarbures et à la conservation des hydrocarbures a bord ;
+- dispositions relatives à l'exploitation dans les zones spéciales ;
 
-• Dispositions relatives à l'exploitation dans les zones spéciales ;
+- s'il y a lieu, dispositions relatives à la prévention de la pollution par les hydrocarbures en cas d'abordage ou d'échouement ;
 
-• S'il y a lieu, dispositions relatives à la prévention de la pollution par les hydrocarbures en cas d'abordage ou d'échouement ;
+- dispositions relatives à la localisation défensive des espaces à ballast séparé et celles visant à réduire la pollution due à des avaries de bordé ou de fond ;
 
-• Dispositions relatives à la localisation défensive des espaces à ballast séparé et celles visant à réduire la pollution due à des avaries de bordé ou de fond ;
+- installations de pompage et de rejet, tuyautage ;
 
-• Installations de pompage et de rejet, tuyautage ;
+- plan d'urgence de bord contre la pollution par les hydrocarbures.
 
-• Plan d'urgence de bord contre la pollution par les hydrocarbures.
+Renseignements :
 
-Renseignements
+- caractéristiques de l'installation à gaz inerte ;
 
-• Caractéristiques de l'installation à gaz inerte ;
+- moyens de mesure des concentrations en oxygène ;
 
-• Moyens de mesure des concentrations en oxygène ;
+- calcul justificatif du dispositif fixe à mousse sur le pont ;
 
-• Calcul justificatif du dispositif fixe à mousse sur le pont ;
+- équipement de prévention de la pollution par les hydrocarbures.
 
-• Equipement de prévention de la pollution par les hydrocarbures.
+Art. 1.13. - Navires transportant des gaz liquéfiés en vrac.
 
-_Article 1. 13_
+Plans et documents :
 
-Navires transportant des gaz liquéfiés en vrac
+- étude de stabilité au chargement et au déchargement et étude de stabilité après avarie (ces documents sont visés par une société de classification habilitée) ;
 
-Plans et documents
+- dispositif à gaz inerte ;
 
-• Etude de stabilité au chargement et au déchargement et étude de stabilité après avarie (ces documents sont visés par une société de classification agréée) ;
+- dispositif de projection d'eau diffusée ;
 
-• Dispositif à gaz inerte ;
+- dispositif d'extinction par poudre sèche ;
 
-• Dispositif de projection d'eau diffusée ;
+- détection fixe de gaz ;
 
-• Dispositif d'extinction par poudre sèche ;
+- rapport de la société de classification habilitée, le cas échéant ;
 
-• Détection fixe de gaz ;
+- réservoirs de traitement sous pression, circuits de liquides et de gaz et circuits sous pression ;
 
-• Rapport de la société de classification agréée, le cas échéant ;
+- contrôle de la pression et de la température de la cargaison ;
 
-• Réservoirs de traitement sous pression, circuits de liquides et de gaz et circuits sous pression ;
+- contrôle de l'atmosphère ;
 
-• Contrôle de la pression et de la température de la cargaison ;
+- ventilation mécanique de la tranche cargaison ;
 
-• Contrôle de l'atmosphère ;
+- instrumentation ;
 
-• Ventilation mécanique de la tranche cargaison ;
+- s'il y a lieu, utilisation de la cargaison comme combustible.
 
-• Instrumentation ;
+Renseignements :
 
-• S'il y a lieu, utilisation de la cargaison comme combustible.
+- caractéristiques des dispositifs de gaz inerte ;
 
-Renseignements
+- caractéristiques du dispositif d'extinction à poudre sèche, débit et autonomie des canons et lances.
 
-• Caractéristiques des dispositifs de gaz inerte ;
+Art. 1.14. - Navires transportant des produits chimiques dangereux en vrac.
 
-• Caractéristiques du dispositif d'extinction à poudre sèche, débit et autonomie des canons et lances.
+Plans et documents :
 
-_Article 1. 14_
+- étude de stabilité après avarie (ce document doit avoir été visé par une société de classification habilitée) ;
 
-Navires transportant des produits chimiques dangereux en vrac
+- dispositif de gaz inerte ;
 
-Plans et documents
+- moyens fixes d'extinction de l'incendie ;
 
-• Etude de stabilité après avarie (ce document doit avoir été visé par une société de classification agréée) ;
+- rapport de la société de classification habilitée, le cas échéant ;
 
-• Dispositif de gaz inerte ;
+- contrôle de la température de la cargaison ;
 
-• Moyens fixes d'extinction de l'incendie ;
+- contrôle de l'atmosphère ;
 
-• Rapport de la société de classification agréée, le cas échéant ;
+- instrumentation.
 
-• Contrôle de la température de la cargaison ;
+Renseignements :
 
-• Contrôle de l'atmosphère ;
+- caractéristiques du dispositif de gaz inerte ;
 
-• Instrumentation.
+- caractéristiques des dispositifs fixes d'extinction de l'incendie ;
 
-Renseignements
+- caractéristiques des installations de pompage, de tuyautage et de déchargement ;
 
-• Caractéristiques du dispositif de gaz inerte ;
+- spécifications et arrimage du matériel de protection du personnel.
 
-• Caractéristiques des dispositifs fixes d'extinction de l'incendie ;
+Art. 1.15. - Remorqueurs.
 
-• Caractéristiques des installations de pompage, de tuyautage et de déchargement ;
+Plans et documents :
 
-• Spécifications et arrimage du matériel de protection du personnel.
+- ensemble du croc précisant l'implantation et le type des dispositifs de largage.
 
-_Article 1. 15_
+Art. 1.17. - Radiocommunications SMDSM.
 
-Remorqueurs
+Liste et descriptif des matériels constituant les installations radioélectriques, y compris les équipements de navigation et informatiques associés, les chargeurs et les onduleurs ;
 
-Plans et documents
+Schéma d'implantation du matériel ci-dessus ;
 
-• Ensemble du croc précisant l'implantation et le type des dispositifs de largage.
+Schéma d'implantation des antennes ;
 
-_Article 1. 16_
+Liste des matériels de rechange et de contrôle ;
 
-Engins de levage
+Dossier explicitant la (ou les) méthode(s) de maintenance envisagée(s).
 
-Plans et documents
+Art. 1.18. - Prévention de la pollution.
 
-• Plan d'implantation des appareils sur le navire ;
+Documents permettant de vérifier la conformité aux dispositions réglementaires pertinentes de la division 213.
 
-• Implantation des appareils sur le navire avec, pour les appareils de mécanisation des cales des navires de pêche, un descriptif précisant leur CMU et leur charge d'épreuve ainsi que les sécurités.
+Art. 1.18. - Equipements marins.
 
-Pour chaque appareil :
+La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-• Schéma descriptif ;
+Les certificats d'approbation équipements marins requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
 
-• Epures des forces ou document équivalent ;
+Partie 2. - Liste des documents à fournir pour l'examen des dossiers de demande de titres de sécurité pour navires à passagers
 
-• Liste des accessoires mobiles, mentionnant leur CMU et leur charge d'épreuve.
+Art. 2.01. - Renseignements généraux.
 
-_Article 1. 17_
+Un descriptif indique notamment tous les renseignements prévisionnels ainsi que les numéros d'approbation ou d'homologation de matériels, tels qu'ils sont prévus aux chapitres :
 
-Radiocommunications SMDSM
+1. Description du navire.
 
-• Liste et descriptif des matériels constituant les installations radioélectriques, y compris les équipements de navigation et informatiques associés, les chargeurs et les onduleurs ;
+3. Appareils de propulsion et auxiliaires.
 
-• Schéma d'implantation du matériel ci-dessus ;
+4. Protection contre l'incendie.
 
-• Schéma d'implantation des antennes ;
-
-• Liste des matériels de rechange et de contrôle ;
-
-• Dossier explicitant la (ou les) méthode (s), de maintenance envisagée (s).
-
-_Article 1. 18_
-
-Prévention de la pollution
-
-Documents permettant de vérifier la conformité aux dispositions réglementaires pertinentes de la Convention MARPOL.
-
-**PARTIE 2**
-
-Liste des documents à fournir pour l'examen des dossiers de demande de titres de sécurité pour navires à passagers.
-
-_Article 2. 01_
-
-Renseignements généraux
-
-Un descriptif indique notamment tous les renseignements prévisionnels ainsi que les numéros d'approbation ou d'homologation de matériels tels qu'ils sont prévus dans l'imprimé de procès-verbal de visite de mise en service aux chapitres :
-
-1. Description du navire ;
-
-3. Appareils de propulsion et auxiliaires ;
-
-4. Protection contre l'incendie ;
-
-7. Engins de sauvetage ;
+7. Engins de sauvetage.
 
 8. Installations radioélectriques.
 
 Il précise en outre :
 
-• Les particularités du navire et, dans le cas d'un navire existant ou d'une modification importante, l'origine du navire et l'utilisation envisagée ;
+- les particularités du navire et, dans le cas d'un navire existant ou d'une modification importante, l'origine du navire et l'utilisation envisagée ;
 
-• La date de signature du contrat de construction ou d'achat ;
+- la date de signature du contrat de construction ou d'achat ;
 
-• La date prévue de lancement ;
+- la date prévue de pose de quille ;
 
-• La date prévue de mise en service ;
+- la date prévue de lancement ;
 
-• Le nombre maximum de personnes pouvant être logées à bord (ce chiffre en ce qui concerne l'équipage ne préjuge pas de l'effectif résultant de l'application des règlements) ;
+- la date prévue de mise en service ;
 
-• Le nombre maximum de passagers envisagé.
+- le nombre maximum de personnes pouvant être logées à bord (ce chiffre en ce qui concerne l'équipage ne préjuge pas de l'effectif résultant de l'application des règlements) ;
 
-Attestation de non présence d'amiante, délivrée par le chantier, incluant les produits sous-traités.
+- le nombre maximum de passagers envisagé.
 
-_Article 2. 02_
-
-Stabilité
+Art. 2.02. - Stabilité.
 
 1. Stabilité à l'état intact :
 
-• Plan de capacité ;
+- plan de capacité ;
 
-• Données hydrostatiques jusqu'à la ligne de surimmersion ;
+- données hydrostatiques jusqu'à la ligne de surimmersion ;
 
-• Données pantocarenes ;
+- données pantocarènes ;
 
-• Courbes de sondes des caisses et ballasts. Position des centres de gravité selon les hauteurs et valeur des pertes de stabilité par carenes liquides ;
+- courbes de sondes des caisses et ballasts. Position des centres de gravité selon les hauteurs et valeur(s) des pertes de stabilité par carènes liquides ;
 
-• Valeur de l'angle d'envahissement 9f ;
+- valeur de l'angle d'envahissement qf ;
 
-• Dispositifs de fermeture des cols de cygnes et autres ouvertures jusqu'à l'angle 9f ;
+- dispositifs de fermeture des cols de cygnes et autres ouvertures jusqu'à l'angle qf ;
 
-• Recueil des cas de chargements et informations pour le capitaine ;
+- recueil des cas de chargements et informations pour le capitaine ;
 
-• Rapport d'examen de la société de classification agréée ;
+- rapport d'examen de la société de classification habilitée ;
 
-• Procès-verbal de l'expérience de stabilité.
+- procès-verbal de l'expérience de stabilité.
 
 En outre, pour les navires d'une jauge brute inférieure à 500, pour autant qu'ils soient concernés :
 
-• Action du vent ;
+- action du vent ;
 
-• Effets du tassement des passagers ;
+- effets du tassement des passagers ;
 
-• Action simultanée du vent et du tassement des passagers.
+- action simultanée du vent et du tassement des passagers.
 
-L'exemplaire des cas de chargement et informations pour le capitaine prévu pour être mis à bord est rédigé dans la langue de travail du bord.
+L'exemplaire des "cas de chargement" et "informations pour le capitaine" prévu pour être mis à bord est rédigé dans la langue de travail du bord.
 
-Le dossier est visé par une société de classification agréée.
+Le dossier est visé par une société de classification habilitée.
 
 2. Stabilité après avarie :
 
-• Calcul du critérium de service et de la perméabilité des différents compartiments et capacités ;
+- calcul du critérium de service et de la perméabilité des différents compartiments et capacités ;
 
-• Tracés précis et cotes de la ligne de surimmersion ;
+- tracés précis et cotes de la ligne de surimmersion ;
 
-• Tracé du double fond ;
+- tracé du double fond ;
 
-• Lignes de charge de compartimentage ;
+- lignes de charge de compartimentage ;
 
-• Courbes des longueurs admissibles et des longueurs envahissables ;
+- courbes des longueurs admissibles et des longueurs envahissables ;
 
-• Plan d'ensemble des cloisons étanches, ponts, roufs, superstructures ;
+- plan d'ensemble des cloisons étanches, ponts, roufs, superstructures ;
 
-• Rapport d'examen de la société de classification agréée.
+- rapport d'examen de la société de classification habilitée.
 
-NOTA : Sans attendre les résultats de l'expérience de stabilité l'armateur peut soumettre à la commission de sécurité compétente un dossier prévisionnel établi avec le déplacement et le centre de gravité du navire lège calculés à partir du devis de poids, ou estimés. Le dossier prévisionnel est visé par une société de classification agréée.
+Nota. - Sans attendre les résultats de l'expérience de stabilité, l'exploitant du navire peut soumettre à la commission de sécurité compétente un dossier prévisionnel établi avec le déplacement et le centre de gravité du navire lège, calculés à partir du devis de poids, ou estimés. Le dossier prévisionnel est visé par une société de classification habilitée.
 
-Ce dossier prévisionnel complété des éléments de stabilité mesurés pourra être considéré comme représentant le dossier de stabilité du navire si la commission estime que les déplacements et position du centre de gravité pris en compte sont en accord avec ces éléments.
+Ce dossier prévisionnel complété des éléments de stabilité mesurés pourra être considéré comme représentant le dossier de stabilité du navire, si la commission estime que les déplacements et position du centre de gravité pris en compte sont en accord avec ces éléments.
 
-_Article 2. 03_
+Art. 2.03. - Coque - franc-bord.
 
-Coque-Franc-bord
+En application de la division 140 du présent règlement, les études relatives à la délivrance du certificat de franc-bord sont déléguées aux sociétés de classification habilitées et ne sont pas présentées à la commission.
 
-Plans et documents
+Toutefois, en cas de demande d'exemption à la convention internationale sur les lignes de charge, celle-ci est présentée à la commission accompagnée de l'avis de la société de classification.
 
-• Plan général, compartimentage, échappées, etc. ;
+Plans et documents :
 
-• Moyens d'accès de circulation et d'évacuation ;
+- plan général, compartimentage, échappées, etc. ;
 
-• Assèchement cales et ballasts ;
+- moyens d'accès de circulation et d'évacuation ;
 
-• Dalotage ;
+- assèchement cales et ballasts ;
 
-• Tuyaux de sonde et dégagements d'air précisant les dispositifs de fermeture, de circulation et d'évacuation et leur emplacement ;
+- dalotage ;
 
-• Indication des ouvertures sur bordé et de leur mode de fermeture ;
+- tuyaux de sonde et dégagements d'air précisant les dispositifs de fermeture, de circulation et d'évacuation et leur emplacement ;
 
-• Ouvertures dans les cloisons étanches de compartimentage ;
+- indication des ouvertures sur bordé et de leur mode de fermeture ;
 
-• Disposition des portes étanches avec indication des commandes à distances ;
+- ouvertures dans les cloisons étanches de compartimentage ;
 
-• Schéma de chaque type de porte étanche.
+- disposition des portes étanches avec indication des commandes à distances ;
 
-Renseignements
+- schéma de chaque type de porte étanche.
 
-• Type et nombre des panneaux d'écoutilles-hauteur des surbaux d'écoutilles-hauteur des surbaux des portes extérieures ;
+Renseignements :
 
-• Type et caractéristiques des pompes et éjecteurs servant à l'assèchement ; entrées et sorties d'eau de mer ;
+- type et nombre des panneaux d'écoutilles, hauteur des surbaux d'écoutilles, hauteur des surbaux des portes extérieures ;
 
-• Diamètre des collecteurs d'assèchement principaux ;
+- type et caractéristiques des pompes et éjecteurs servant à l'assèchement ; entrées et sorties d'eau de mer ;
 
-• Nature et emplacement des sectionnements et accessoires du circuit d'assèchement ;
+- diamètre des collecteurs d'assèchement principaux ;
 
-• Commandes à distance, éventuellement ;
+- nature et emplacement des sectionnements et accessoires du circuit d'assèchement ;
 
-• Calcul justificatif de la largeur des escaliers ;
+- commandes à distance, éventuellement ;
 
-• Moyens prévus pour indiquer l'état d'ouverture, de fermeture et de verrouillage de toute porte d'étrave ou de bordé.
+- calcul justificatif de la largeur des escaliers ;
 
-• Demande d'exemption ou de dérogation. Cette demande est, le cas échéant, accompagnée de l'avis de la société de classification agréée.
+- moyens prévus pour indiquer l'état d'ouverture, de fermeture et de verrouillage de toute porte d'étrave ou de bordé.
 
-_Article 2. 04_
+- demande d'exemption ou de dérogation.
 
-Machine
+Art. 2.04. - Machine.
 
-Plans et documents
+Plans et documents :
 
-• Transfert et alimentation en combustible ;
+- transfert et alimentation en combustible ;
 
-• Circuits de réfrigération ;
+- circuits de réfrigération ;
 
-• Circuit d'eau douce sanitaire ;
+- circuit d'eau douce sanitaire ;
 
-• Circuits d'huile et lubrification ;
+- circuits d'huile et lubrification ;
 
-• Circuit d'air comprimé ;
+- circuit d'air comprimé ;
 
-• Circuits hydrauliques haute pression.
+- circuits hydrauliques haute pression.
 
-NOTA : Les sécurités et alarmes sont indiquées sur les schémas.
+Nota. - Les sécurités et alarmes sont indiquées sur les schémas.
 
-Renseignements
+Renseignements :
 
-• Pression et température de la vapeur ;
+- pression et température de la vapeur ;
 
-• Type de propulseur ;
+- type de propulseur ;
 
-• Propulseurs transversaux ;
+- propulseurs transversaux ;
 
-• Description et caractéristiques de l'appareil à gouverner ;
+- description et caractéristiques de l'appareil à gouverner ;
 
-• Moyen de stockage et de rejet des eaux de cale machine.
+- moyen de stockage et de rejet des eaux de cale machine.
 
-_Article 2. 05_
+Art. 2.05. - Protection contre l'incendie.
 
-Protection contre l'incendie
+Plans et documents :
 
-Plans et documents
+- plan de sécurité utilisant les symboles de l'annexe à la résolution OMI A.654(16), telle que modifiée par la résolution OMI A.952(23) ;
 
-• Plan de sécurité utilisant les symboles de l'annexe a la résolution OMI A. 654 (16), telle que modifiée par la résolution OMI A. 952 (23) ;
+- cloisonnement d'incendie avec toutes indications utiles concernant la ou les variantes employées, la destination des locaux, la superficie des grands locaux, la position et le type des cloisons et ponts, les entourages des escaliers, des puits, des tambours, etc. ;
 
-• Cloisonnement d'incendie avec toutes indications utiles concernant la ou les variantes employées, la destination des locaux, la superficie des grands locaux, la position et le type des cloisons et ponts, les entourages des escaliers, des puits, des tambours, etc. ;
+- plan des ouvertures dans les cloisonnements d'incendie avec leurs moyens de fermetures ;
 
-• Plan des ouvertures dans les cloisonnements d'incendie avec leurs moyens de fermetures ;
+- ventilation ;
 
-• Ventilation ;
+- circuit d'extinction par eau sous pression comprenant l'emplacement et les caractéristiques des pompes d'incendie ;
 
-• Circuit d'extinction par eau sous pression comprenant l'emplacement et les caractéristiques des pompes d'incendie ;
+- installations fixes d'extinction des locaux de machines ;
 
-• Installations fixes d'extinction des locaux de machines ;
+- installations fixes d'extinction des emménagements et des locaux à marchandises ;
 
-• Installations fixes d'extinction des emménagements et des locaux à marchandises ;
+- réalisation des ensembles d'alimentation et de mise en œuvre des installations fixes d'extinction ;
 
-• Réalisation des ensembles d'alimentation et de mise en oeuvre des installations fixes d'extinction ;
+- installations de détection ;
 
-• Installations de détection ;
+- manuel d'exploitation.
 
-• Manuel d'exploitation.
+Renseignements :
 
-Renseignements
+- calcul justificatif des caractéristiques des installations fixes d'extinction ;
 
-• Références d'approbation ou, à défaut, copie des procès-verbaux d'essais des cloisons, portes et pont d'incendie de chaque type ;
+- dispositif de renouvellement de l'air après décharge de gaz inerte dans les locaux de machines. Source et parcours du câblage d'alimentation du dispositif ;
 
-• Références d'approbation ou, à défaut, copie des procès-verbaux d'essais des matériaux, revetements de pont, objets d'ameublement ;
+- ventilation des locaux de stockage des bouteilles de gaz inerte ;
 
-• Références d'approbation ou, à défaut, copie des procès-verbaux d'essais des matériels de détection de l'incendie et de lutte contre l'incendie ;
+- source d'énergie des pompes d'alimentation des réseaux d'extinction ;
 
-• Calcul justificatif des caractéristiques des installations fixes d'extinction ;
+- dispositifs d'extinction pour les plates-formes hélicoptères ou zones d'hélitreuillage.
 
-• Dispositif de renouvellement de l'air après décharge de gaz inerte dans les locaux de machines. Source et parcours du câblage d'alimentation du dispositif ;
+Art. 2.06. - Electricité.
 
-• Ventilation des locaux de stockage des bouteilles de gaz inerte ;
-
-• Source d'énergie des pompes d'alimentation des réseaux d'extinction ;
-
-• Dispositifs d'extinction pour les plates-formes hélicoptères ou zones d'hélitreuillage.
-
-_Article 2. 06_
-
-Electricité
-
-Plans et documents
+Plans et documents.
 
 Schéma général de l'installation précisant notamment :
 
-• Les nombres, type, tension, puissance et emplacement des sources principales et de secours ;
+- les nombres, type, tension, puissance et emplacement des sources principales et de secours ;
 
-• Le type, la tension et la capacité de la batterie de sauvegarde ;
+- le type, la tension et la capacité de la batterie de sauvegarde ;
 
-• Le schéma du tableau principal montrant l'alimentation des barres principales ;
+- le schéma du tableau principal montrant l'alimentation des barres principales ;
 
-• Le schéma du tableau de secours montrant l'alimentation des barres de secours ;
+- le schéma du tableau de secours montrant l'alimentation des barres de secours ;
 
-• Le schéma du tableau de sauvegarde ;
+- le schéma du tableau de sauvegarde ;
 
-• La vue longitudinale du navire indiquant la division en tranches d'incendie, la position du pont de cloisonnement, etc. et, en outre, la position :
+- la vue longitudinale du navire indiquant la division en tranches d'incendie, la position du pont de cloisonnement, etc. et, en outre, la position :
 
-• des artères principales : lumière, force, ventilation, chauffage, etc. ;
+- des artères principales : lumière, force, ventilation, chauffage, etc. ;
 
-• des artères de secours ;
+- des artères de secours ;
 
-• des principaux tableaux divisionnaires ;
+- des principaux tableaux divisionnaires ;
 
-• du tableau de secours et de ses liaisons avec le tableau principal ;
+- du tableau de secours et de ses liaisons avec le tableau principal ;
 
-• des organes d'Arrêt à distance ;
+- des organes d'arrêt à distance ;
 
-• éventuellement du tableau de sauvegarde ;
+- éventuellement du tableau de sauvegarde ;
 
-• Les dispositions prises pour l'alimentation des pompes d'assèchement et d'incendie ;
+- Les dispositions prises pour l'alimentation des pompes d'assèchement et d'incendie ;
 
-• Les bilans électriques (énergie principale et énergie de secours).
+- Les bilans électriques (énergie principale et énergie de secours).
 
-Renseignements
+Renseignements :
 
-• Caractéristiques des circuits et appareillage d'alimentation et de départ. En particulier, les calculs justificatifs des pouvoirs de coupure sont fournis ;
+- caractéristiques des circuits et appareillage d'alimentation et de départ. En particulier, les calculs justificatifs des pouvoirs de coupure sont fournis ;
 
-• Moyens de surveillance des isolements ;
+- moyens de surveillance des isolements ;
 
-• Références d'approbation des appareils de chauffage électriques ;
+- emplacement et autonomie des groupes de secours ;
 
-• Emplacement et autonomie des groupes de secours ;
+- emplacement, caractéristiques et autonomie des batteries d'accumulateurs ;
 
-• Emplacement, caractéristiques et autonomie des batteries d'accumulateurs ;
+- moyens d'aération des locaux des batteries d'accumulateurs ;
 
-• Moyens d'aération des locaux des batteries d'accumulateurs ;
+- sur les navires n'ayant pas fait l'objet d'intervention par une société de classification habilitée, références d'homologation des conducteurs ;
 
-• Sur les navires n'ayant pas fait l'objet d'intervention par une société de classification agréée, références d'homologation des conducteurs ;
+- dispositions relatives à l'incendie.
 
-• Dispositions relatives à l'incendie.
+Art. 2.07. - Navigation.
 
-_Article 2. 07_
+Plans :
 
-Navigation
+- implantation des feux réglementaires ;
 
-Plans
+- visibilité sur l'avant dans les conditions les plus défavorables ;
 
-• Implantation des feux réglementaires ;
+Renseignements :
 
-• Visibilité sur l'avant dans les conditions les plus défavorables ;
+- liste et caractéristiques des principaux appareils de navigation.
 
-Renseignements
+Art. 2.08. - Moyens de sauvetage.
 
-• Liste et caractéristiques des principaux appareils de navigation.
+Plans et documents :
 
-_Article 2. 08_
+- plans d'implantation de la drome de sauvetage ;
 
-Moyens de sauvetage
+- plan d'amenage avec 20° de gîte et 10° d'assiette ;
 
-Plans et documents
+- plan des emplacements à bord des combinaisons d'immersion, des brassières de sauvetage.
 
-• Plans d'implantation de la drome de sauvetage ;
+Renseignements :
 
-• Plan d'amenage avec 20° de gîte et 10° d'assiette ;
+- composition de la drome ;
 
-• Plan des emplacements à bord des combinaisons d'immersion, des brassieres de sauvetage.
+- description des dispositifs d'amenage des embarcations et de largage des radeaux.
 
-Renseignements
+Art. 2.09. - Emménagements.
 
-• Composition de la drome et références d'approbation du matériel ;
+Plans et documents :
 
-• Description des dispositifs d'amenage des embarcations et de largage des radeaux.
+- plans des emménagements avec indication des surfaces et volumes des locaux équipage ;
 
-_Article 2. 09_
+- chauffage, ventilation et éclairage des locaux équipage ;
 
-Emménagements
+- circuit d'eau potable ;
 
-Plans et documents
+- rapport sur les mesures de bruit ;
 
-• Plans des emménagements avec indication des surfaces et volumes des équipage ;
+- calcul du volume des emménagements destinés aux passagers en cabine ;
 
-• Chauffage, ventilation et éclairage des locaux équipage ;
+- calcul des surfaces destinées aux passagers sans cabine.
 
-• Circuit d'eau potable ;
+Art. 2.10. - Dispositions techniques pour la veille réduite à la passerelle et les conditions de quart à la machine.
 
-• Rapport sur les mesures de bruit ;
+Les plans, documents et renseignements à fournir sont fixés dans chaque cas par le ministre chargé de la mer ou le directeur régional des affaires maritimes, sur proposition de la commission de sécurité compétente.
 
-• Calcul du volume des emménagements destinés aux passagers en cabine ;
+Art. 2.12. - Radiocommunications SMDSM.
 
-• Calcul des surfaces destinées aux passagers sans cabine.
+Liste et descriptif des matériels constituant les installations radioélectriques, y compris les équipements de navigation et informatiques associés, les chargeurs et les onduleurs ;
 
-_Article 2. 10_
+Schéma d'implantation du matériel ci-dessus ;
 
-Dispositions techniques pour la veille réduite à la passerelle et les conditions de quart à la machine
+Schéma d'implantation de antennes ;
 
-Les plans, documents et renseignements à fournir sont fixés dans chaque cas par le ministre chargé de la marine marchande ou le    directeur interrégional de la mer sur proposition de la commission de sécurité compétente.
+Liste des matériels de rechange et de contrôle ;
 
-_Article 2. 11_
+Dossier explicitant la (ou les) méthode(s) de maintenance envisagée(s).
 
-Apparaux de levage
+Art. 2.13. - Prévention de la pollution.
 
-Plans et documents
+Documents permettant de vérifier la conformité, aux dispositions réglementaires pertinentes de la division 213.
 
-• Plan d'implantation des appareils sur le navire.
+Art. 2.14. - Equipements marins.
 
-Pour chaque appareil
+La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-• Schéma descriptif ;
-
-• Epures des forces ou document équivalent ;
-
-• Liste des accessoires mobiles, mentionnant leur CMU et leur charge d'épreuve.
-
-_Article 2. 12_
-
-Radiocommunications SMDSM
-
-• Liste et descriptif des matériels constituant les installations radioélectriques, y compris les équipements de navigation et informatiques associés, les chargeurs et les onduleurs ;
-
-• Schéma d'implantation du matériel ci-dessus ;
-
-• Schéma d'implantation des antennes ;
-
-• Liste des matériels de rechange et de contrôle ;
-
-• Dossier explicitant la (ou les) méthode (s) de maintenance envisagée (s).
-
-_Article 2. 13_
-
-Prévention de la pollution
-
-Documents permettant de vérifier la conformité aux dispositions réglementaires pertinentes de la Convention MARPOL.
+Les certificats d'approbation équipements marins requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.

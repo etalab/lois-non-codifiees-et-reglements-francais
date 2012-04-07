@@ -12,7 +12,7 @@ A. - Exemples de motifs évidents justifiant une inspection détaillée.
 
 3. Des inexactitudes ont été constatées lors de l'examen des certificats et autres documents de bord.
 
-4. Des éléments indiquent que les membres de l'équipage ne sont pas à même de satisfaire aux exigences en matière de communication à bord définies à l'article 18 de la directive 2008/106/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant le niveau minimal de formation des gens de mer.
+4. Des éléments indiquent que les membres de l'équipage ne sont pas à même de satisfaire aux exigences en matière de communication à bord définies à l'article 18 de la directive n° 2008/106/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant le niveau minimal de formation des gens de mer.
 
 5. Un brevet a été obtenu d'une manière frauduleuse ou la personne qui possède un brevet n'est pas celle à laquelle ce brevet avait été initialement délivré.
 
@@ -36,7 +36,7 @@ A. - Exemples de motifs évidents justifiant une inspection détaillée.
 
 15. Absence de tableau précisant l'organisation du travail à bord ou de registres des heures de travail et de repos des marins.
 
-B. - Exemples de motifs évidents justifiant le contrôle de la sûreté des navires.
+B. - Exemples de motifs évidents justifiant le contrôle de la sûreté des navires
 
 1. L'inspecteur peut estimer qu'il existe des motifs évidents d'arrêter des mesures de contrôle supplémentaires en matière de sûreté lors de l'inspection initiale dans le cadre du contrôle par l'Etat du port dans les circonstances suivantes :
 

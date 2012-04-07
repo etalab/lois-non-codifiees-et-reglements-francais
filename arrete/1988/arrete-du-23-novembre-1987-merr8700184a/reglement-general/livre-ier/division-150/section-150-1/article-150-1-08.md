@@ -1,6 +1,6 @@
 # Article 150-1.08
 
-Report des inspections et circonstances exceptionnelles.
+Report des inspections et circonstances exceptionnelles
 
 1. L'inspection d'un navire de "priorité I" peut être reportée dans les circonstances exceptionnelles et sous réserve du respect des dispositions suivantes :
 

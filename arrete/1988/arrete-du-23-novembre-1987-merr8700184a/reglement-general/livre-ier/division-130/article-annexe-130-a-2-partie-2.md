@@ -1,667 +1,611 @@
-# Article Annexe 130.A.2 Partie 2
+# Article Annexe 130-A.2 Partie 2
 
-**Liste des points examinés en commission centrale de sécurité
+Partie 2. - Engins étudiés en CCS suivant le chapitre X de la division 221 ou 223A (recueil HSC)
 
-Références réglementaires
+A. - Renseignements généraux :
 
-Documents à fournir**
+1. Nom de l'engin ou numéro de coque pour un engin neuf et pavillon d'origine et/ou précédent pour un engin d'occasion.
 
-**PARTIE 2**
+2. Type de l'engin, catégorie (A ou B).
 
-Engins étudiés en CCS suivant le chapitre X de la division 221 ou 223a (Recueil HSC)
+3. Numéro OMI.
 
-**A. RENSEIGNEMENTS GENERAUX**
+4. Port d'immatriculation.
 
-1. Nom du engin ou numéro de coque pour un engin neuf et pavillon d'origine et/ou précédent pour un engin d'occasion
+5. Exploitant du navire : nom, adresse, téléphone, télécopie, personne en charge du dossier, adresse de messagerie électronique.
 
-2. Type de l'engin, Catégorie (A ou B)
+6. Chantier de construction : mêmes renseignements.
 
-3. N° OMI
+7. Date de signature du contrat.
 
-4. Port d'immatriculation
+8. Date de déclaration de mise en chantier.
 
-5. Armateur : Nom, adresse, téléphone, télécopie, personne en charge du dossier, adresse de messagerie électronique
+9. Date de pose de la quille.
 
-6. Chantier de construction : mêmes renseignements
+10. Date prévue de mise à l'eau.
 
-7. Date de signature du contrat
+11. Date souhaitée de mise en service.
 
-8. Date de déclaration de mise en chantier
+12. Date souhaitée de délivrance des titres de sécurité.
 
-9. Date de pose de la quille
+13. Société de classification.
 
-10. Date prévue de mise à l'eau
+14. Numéro au registre de la société de classification.
 
-11. Date souhaitée de mise en service
+15. Attestation de la société de classification, (cotes et marques).
 
-12. Date souhaitée de délivrance des titres de sécurité
+16. Longueur hors tout.
 
-13. Société de classification
+17. Longueur entre perpendiculaires.
 
-14. N° au registre de la société de classification
+18. Largeur.
 
-15. Attestation de la société de classification, telle que définie à l'article 130.03 (cotes et marques)
+19. Creux.
 
-16. Longueur hors tout
+20. Jauge :
 
-17. Longueur entre perpendiculaires
+- brute ;
 
-18. Largeur
+- nette.
 
-19. Creux
+21. Port en lourd (été).
 
-20. Jauge
+22. Franc-bord et tirants d'eau correspondants :
 
-• brute
+- été ;
 
-• nette
+- hiver.
 
-21. Port en lourd (été)
+23. Mode de propulsion.
 
-22. Franc-Bord et Tirants d'eau correspondants :
+24. Puissance propulsive.
 
-• été
+25. Nombre et type des hélices.
 
-• hiver
+26. Puissances auxiliaires.
 
-23. Mode de propulsion
+27. Vitesse en service.
 
-24. Puissance propulsive
+28. Accélération en cas d'abordage.
 
-25. Nombre et type des hélices
+29. Nombre maximal de personnes prévues à bord :
 
-26. Puissances auxiliaires
+- équipage ;
 
-27. Vitesse en service
+- passagers.
 
-28. Accélération en cas d'abordage
+30. Trajets prévus.
 
-29. Nombre maximal de personnes prévues à bord
+31. Zone océanique système mondial de détresse et de sécurité en mer (SMDSM).
 
-• équipage
+32. Indicatif radio.
 
-• passagers
+33. Numéro MMSI.
 
-30. Trajets prévus
+34. Centre de sécurité des navires chargé de la visite de mise en service.
 
-31. Zone océanique système Mondial de Détresse et de Sécurité en Mer (SMDSM)
+35. Centre de sécurité des navires chargé des visites de l'engin postérieures à la visite de mise en service.
 
-32. Indicatif Radio
+36. Intentions éventuelles de l'exploitant du navire relatives au quart réduit.
 
-33. Numéro MMSI
+Fournir en outre :
 
-34. Centre de sécurité des navires chargé de la visite de mise en service
+- une copie des titres de sécurité définitifs en cours de validité pour un engin d'occasion ;
 
-35. Centre de sécurité des navires chargé des visites de l'engin postérieures à la visite de mise en service
+- une copie de la déclaration de mise en chantier ;
 
-36. Intentions éventuelles de l'armateur relatives au quart réduit
+- le plan général de l'engin, en une ou plusieurs feuilles au format A4 ;
 
-FOURNIR EN OUTRE :
+- la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-- Une copie des titres de sécurité définitifs en cours de validité pour un engin d'occasion ;
+- en fin d'étude du dossier : les plans de l'engin "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 
-- Une copie de la déclaration de mise en chantier ;
+B. - Conformité au recueil HSC :
 
-- Le plan général de l'engin, en une ou plusieurs feuilles au format A4 ;
+Points étudiés : conformité à la résolution OMI MSC.97(73) engins à grande vitesse.
 
-- La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
+I. - Généralités :
 
-- En fin d'étude du dossier : les plans de l'engin "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS) si possible sous format informatique, en précisant les modifications apportées.
+Champs d'application ;
 
-**B. CONFORMITE AU RECUEIL HSC**
+Eloignement maximum du lieu de refuge ;
 
-POINTS ETUDIES : CONFORMITE A LA RESOLUTION OMI MSC.97(73) ENGINS A GRANDE VITESSE
+Type d'engin à passagers : A ou B ;
 
-I - GENERALITES
+Justification de la vitesse.
 
-Champs d'application
-
-Eloignement maximum du lieu de refuge (Règle 1.3.4)
-
-Type d'engin à passagers : A ou B (Règles 1.4.12 et 1.4.13)
-
-Justification de la vitesse (Règle 1.4.30)
-
-II - FLOTTABILITE, STABILITE, COMPARTIMENTAGE
+II. - Flottabilité, stabilité, compartimentage :
 
 Dossier de stabilité :
 
-Flottabilité à l'état intact
+Flottabilité à l'état intact ;
 
-Stabilité à l'état intact
+Stabilité à l'état intact ;
 
-Stabilité après avarie
+Stabilité après avarie ;
 
-Distance entre coques pour les multicoques
+Distance entre coques pour les multicoques ;
 
-Rapport d'examen de la Société de classification
+Rapport d'examen de la société de classification ;
 
-Portes d'étraves (Règle 2.2.3)
+Portes d'étraves ;
 
-Portes étanches (Règle 2.2.2)
+Portes étanches ;
 
-Dispositions applicables aux engins rouliers (Règle 2.2.4)
+Dispositions applicables aux engins rouliers ;
 
-Système de surveillance par télévision (Règle 2.2.5)
+Système de surveillance par télévision.
 
-III - STRUCTURES
+III. - Structures :
 
 Fournir le certificat de la société de classification à la commission de visite de mise en service.
 
 Conditions limites d'exploitation.
 
-IV - LOCAUX HABITES ET MESURES D'EVACUATION
+IV. - Locaux habités et mesures d'évacuation :
 
-4.1. GENERALITES
+4.1. Généralités :
 
-Type de fenêtres des locaux à passagers ,
+Type de fenêtres des locaux à passagers, description, résistance, bris.
 
-description, résistance, bris, (Règle 4.1.4)
+4.2. Système d'information et de communication avec le public :
 
-4.2. SYSTEME D'INFORMATION ET DE COMMUNICATION AVEC LE PUBLIC
+Description, fonctionnement.
 
-Description, fonctionnement (Règles 4.2.1 et 4.2.2)
+4.3. Niveaux d'accélération :
 
-4.3. NIVEAUX D'ACCELERATION
+Calcul avec visa de la société classification.
 
-Calcul avec visa de la société classification
+4.4. Conception des locaux d'habitation :
 
-4.4. CONCEPTION DES LOCAUX D'HABITATION
+Situation en fonction niveaux d'accélération ;
 
-Situation en fonction niveaux d'accélération (Règle 4.3)
+Description tableau.
 
-Description tableau (Règle 4.4.2)
+4.5. Construction des sièges :
 
-4.5. CONSTRUCTION DES SIEGES
+Nombre de sièges ;
 
-Nombre de sièges
+Essais ;
 
-Essais
+Fixation.
 
-Fixation (Annexe 10 du recueil)
+4.6. Ceintures de sécurité :
 
-4.6. CEINTURES DE SECURITE
+Plan d'implantation des sièges équipés.
 
-Plan d'implantation des sièges équipés
+4.7. Issues et moyens d'évacuation :
 
-4.7. ISSUES ET MOYENS D'EVACUATION
+Description.
 
-Description
+4.8. Délai d'évacuation :
 
-4.8. DÉLAI D'EVACUATION
+Calcul ;
 
-Calcul
+Méthode d'évacuation ;
 
-Méthode d'évacuation
+Essais.
 
-Essais
+4.9. Soutes à bagages, magasins, boutiques, locaux à marchandises :
 
-4.9. SOUTES A BAGAGES, MAGASINS, BOUTIQUES, LOCAUX A MARCHANDISES
+Description, limite de chargement, saisissage, manuel d'assujettissement.
 
-Description, limite de chargement, saisissage, manuel d'assujettissement
-
-4.10. NIVEAUX DE BRUIT
+4.10. Niveaux de bruit :
 
 Mesure.
 
-4.11. PROTECTION DE L'ÉQUIPAGÉ ET DES PASSAGERS
+4.11. Protection de l'équipage et des passagers.
 
-V - SYSTEME DE CONDUITE
+V. - Système de conduite :
 
-Description
+Description ;
 
-Analyse de défaillance
+Analyse de défaillance ;
 
-Poste de commande
+Poste de commande.
 
-VI - MOUILLAGE, REMORQUAGE, ACCOSTAGE
+VI. - Mouillage, remorquage, accostage :
 
-Description
+Description.
 
-VII - PROTECTION CONTRE L'INCENDIE
+VII. - Protection contre l'incendie :
 
-1).CLASSEMENT DES LOCAUX
+1. Classement des locaux.
 
-(Règle 7.3)
+2. Protection contre l'incendie (cloisonnement et matériaux).
 
-2) PROTECTION CONTRE L'INCENDIE (CLOISONNEMENT ET MATÉRIAUX)
+Fournir le dossier matériau visé par la société de classification habilitée :
 
-Fournir le dossier matériau visé par la société de classification agréée
+a) Cloisonnement :
 
-a) Cloisonnement (tableau 7.4.1 ou 7.4.2)
+Certificats d'approbation des matériaux ;
 
-Certificats d'approbation des matériaux
+b) Utilisation restreinte des matériaux combustibles :
 
-b) Utilisation restreinte des matériaux combustibles (Règle 7.4.3)
+Meubles et éléments d'ameublements, caractéristiques ;
 
-Meubles et éléments d'ameublements, caractéristiques (Règle 7.4.3.3)
+Revêtement de surface.
 
-Revêtement de surface
+3. Citernes et circuits de combustible et autres fluides inflammables :
 
-3) CITERNES ET CIRCUITS DE COMBUSTIBLE ET AUTRES FLUIDES INFLAMMABLES
+Description ;
 
-(Règle 7.5)
+Fluides utilisés ;
 
-Description
+Matériaux utilisés.
 
-Fluides utilisés
+4. Ventilation :
 
-Matériaux utilisés
+Description ;
 
-4) VENTILATION
+Schéma unifilaire ;
 
-Description (Règle 7.6)
+Volets coupe-feu (certificats d'approbation et moyens de fermeture) ;
 
-Schéma unifilaire
+Dispositifs de commande/volets, ventilateurs.
 
-Volets coupe feu (certificats d'approbation et moyens de fermeture)
+5. Détection incendie :
 
-Dispositifs de commande/volets, ventilateurs)
+Description ;
 
-5) DETECTION INCENDIE
+Locaux protégés ;
 
-(Règles 7.7.1 à 7.7.2)
+Certificats d'approbation ;
 
-Description
+Schéma unifilaire ;
 
-Locaux protégés
+Avertisseurs manuels.
 
-Certificats d'approbation
+6. Extinction de l'incendie :
 
-Schéma unifilaire
+Prescriptions générales :
 
-Avertisseurs manuels
+a) Collecteur incendie :
 
-6) EXTINCTION DE L'INCENDIE
+Schéma ;
 
-Prescriptions générales (Règle 7.7.3.2)
+Calcul justificatif ;
 
-a) Collecteur Incendie (Règle 7.7.8)
+Nombre de pompes ;
 
-Schéma
+Commande ;
 
-Calcul justificatif
+Lances/manches (certificats d'approbation) ;
 
-Nombre de pompes
+b) Extinction par CO2 :
 
-Commande
+Description ;
 
-Lances/manches (certificats d'approbation)
+Fonctionnement ;
 
-b) Extinction par CO2 (Règle 7.7.3.3)
+Calcul ;
 
-Description
+c) Locaux de catégorie spéciale :
 
-Fonctionnement
+1. Construction :
 
-Calcul
+Cloisonnement (voir 2.a) ;
 
-c) Locaux de catégorie spéciale (Règle 7.8)
+Indicateur fermeture de porte ;
 
-1) Construction
+2. Dispositifs fixes d'extinction :
 
-Cloisonnement (voir 2) a)
+Description ;
 
-Indicateur fermeture de porte (Règle 7.8.1.2)
+Calcul justificatif ;
 
-2) Dispositifs fixe d'extinction
+Commandes.
 
-Description
+3. Rondes et détection incendie :
 
-Calcul justificatif (Règle 7.8.2)
+Moyens utilisés.
 
-Commandes (résolution OMI A.123 [V])
+4. Matériel d'extinction incendie :
 
-3) Rondes et détection incendie
+Liste.
 
-Moyens utilisés (Règle 7.8.3)
+5. Dispositif de ventilation :
 
-4) Matériel d'extinction incendie.
+Description ;
 
-Liste (Règle 7.8.4)
+Renouvellement d'air ;
 
-5) Dispositif de ventilation
+Contrôle du débit ;
 
-Description
+Commandes.
 
-Renouvellement d'air (Règle 7.8.5)
+6. Dalots, assèchement :
 
-Contrôle du débit
+Description ;
 
-Commandes
+Calcul.
 
-6) Dalots - Assèchement
+7. Vapeurs inflammables :
 
-Description (Règle 7.8.6)
+Dispositions prises.
 
-Calcul
+d) Divers :
 
-7) Vapeurs inflammables
+1) Plans.
 
-Dispositions prises (Règle 7.8.7)
+2. Ouvertures pratiquées dans les cloisonnements incendie :
 
-d) Divers
+Description ;
 
-1) Plans (Règle 7.9.1)
+Mode de fermeture ;
 
-2) Ouvertures pratiquées dans les cloisonnements incendie
+3. Equipements de pompier :
 
-Description (Règle 7.9.3)
+Nombre, localisation ;
 
-Mode de fermeture
-
-3) Equipements de pompier
-
-Nombre, localisation (Règle 7.10)
-
-Approbation
-
-***
+Approbation.
 
 Les paragraphes ci-dessus devront être complétés en tant que besoin :
 
-- soit des prescriptions de la partie B du chapitre 7 du Recueil (Prescriptions applicables aux engins à passagers ) ;
+- soit des prescriptions de la partie B du chapitre 7 du recueil (Prescriptions applicables aux engins à passagers) ;
 
-- soit des prescriptions de la partie C du chapitre 7 du Recueil (Prescriptions applicables aux engins à cargaisons) ;
+- soit des prescriptions de la partie C du chapitre 7 du recueil (Prescriptions applicables aux engins à cargaisons) ;
 
-- soit les prescriptions applicables aux engins et aux espaces destinés au transport de marchandises dangereuses (Article 7.17).
+- soit les prescriptions applicables aux engins et aux espaces destinés au transport de marchandises dangereuses (article 7.17).
 
-VIII. ENGINS et DISPOSITIFS de SAUVETAGE
+VIII. - Engins et dispositifs de sauvetage.
 
-A - COMMUNICATIONS
+A. - Communications :
 
-Liste du matériel : (Règle 8.2)
+Liste du matériel :
 
-- de communication
+- de communication ;
 
-- de signalisation
+- de signalisation.
 
-B - ENGINS INDIVIDUELS
+B. - Engins individuels :
 
-Bouées (Règle 8.3)
+Bouées ;
 
-Brassieres
+Brassières ;
 
-Nombre, localisation, certificats d'approbation
+Nombre, localisation, certificats d'approbation.
 
-C - RÔLE D'APPEL
+C. - Rôle d'appel :
 
-Consignes en cas de situation critique
+Consignes en cas de situation critique ;
 
-Rôle d'appel
+Rôle d'appel ;
 
-Illustrations et consignes (Règle 8.4)
+Illustrations et consignes ;
 
-Manuel de formation
+Manuel de formation ;
 
-Postes de rassemblement
+Postes de rassemblement.
 
-D - CONSIGNES d'EXPLOITATION
+D. - Consignes d'exploitation :
 
 Affiches, panneaux (sur et à proximité) :
 
-- des embarcations, radeaux,
+- des embarcations, radeaux ;
 
-- commandes (Règle 8.5)
+- commandes.
 
-E - ARRIMAGE DES EMBARCATIONS ET RADEAUX
+E. - Arrimage des embarcations et radeaux :
 
-Descriptif (Règle 8.6)
+Descriptif.
 
-F - DISPOSITIFS D'EMBARQUEMENT
+F. - Dispositifs d'embarquement :
 
-Descriptif(Règle 8.7)
+Descriptif ;
 
-Eclairage
+Eclairage.
 
-G - EMBARCATIONS, RADEAUX de SAUVETAGE, CANOT de SECOURS
+G. - Embarcations, radeaux de sauvetage, canots de secours :
 
-Nombre, capacité (Règle 8.10)
+Nombre, capacité ;
 
-Nombre maximum de personnes à bord
+Nombre maximum de personnes à bord ;
 
-Certificats d'approbation
+Certificats d'approbation.
 
-H. - AIRE D'EVACUATION PAR HÉLICOPTERE
+H. - Aire d'évacuation par hélicoptère.
 
-(Règle 8.11)
+IX. - Machines :
 
-IX. MACHINES
+Description ;
 
-Description
+Dispositifs de sécurité ;
 
-Dispositifs de sécurité (Règle 9.2)
+Turbines à gaz ;
 
-Turbines à gaz (Règle 9.3)
+Alimentation/trop-plein combustible ;
 
-Alimentation/trop plein combustible
+Prescriptions applicables aux engins à passagers ;
 
-Prescriptions applicables aux engins à passagers (Chapitre 9, partie B)
+Prescriptions applicables aux engins à cargaisons.
 
-Prescriptions applicables aux engins à cargaisons (Chapitre 9, partie C)
+X. - Dispositifs auxiliaires.
 
-X. DISPOSITIFS AUXILIAIRES
+A. - Description des installations de combustibles liquides, d'huile de graissage et autres huiles.
 
-A) DESCRIPTION DES INSTALLATIONS DE COMBUSTIBLES LIQUIDES, D'HUILE DE GRAISSAGE ET AUTRES HUILES
+B. - Circuit d'assèchement :
 
-Conformité aux prescriptions de la règle 10.2
+Description ;
 
-B) CIRCUIT D'ASSÈCHEMENT
+Calcul justificatif ;
 
-Description
+Commandes ;
 
-Calcul justificatif (Règle 10.3)
+Prescriptions applicables aux engins à passagers ;
 
-Commandes
+Prescriptions applicables aux engins à cargaisons.
 
-Prescriptions applicables aux engins à passagers (Chapitre 10, partie B)
+C. - Autres circuits machines :
 
-Prescriptions applicables aux engins à cargaisons (Chapitre 10, partie C)
+Description et conformité.
 
-C) AUTRES CIRCUITS MACHINES
-
-Description et conformité (Règle 10.4)
-
-(Règle 10.5)
-
-(Règle 10.6)
-
-(Règle 10.7)
-
-(Règle 10.8)
-
-XI. DISPOSITIFS DE COMMANDE A DISTANCE D'ALARME ET DE SECURITE
+XI. - Dispositifs de commande à distance d'alarme et de sécurité :
 
 Les prescriptions relatives à la protection contre l'incendie, aux installations machines, aux installations électriques sont examinées aux chapitres correspondants.
 
-XII. EQUIPEMENT ELECTRIQUE
+XII. - Equipement électrique.
 
 Description de l'installation :
 
-puissance, localisation, tableaux électriques
+- puissance, localisation, tableaux électriques ;
 
-source principale
+- source principale ;
 
-source de secours
+- source de secours ;
 
-fonctionnement
+- fonctionnement ;
 
-système de démarrage des groupes de secours
+- système de démarrage des groupes de secours ;
 
-bilans électriques principaux et de secours
+- bilans électriques principaux et de secours.
 
-Prescriptions applicables aux engins à passagers catégorie A et catégorie B (articles 11.3.2 et 11.3.3)
+Prescriptions applicables aux engins à passagers catégorie A et catégorie B.
 
-Prescriptions applicables aux engins à cargaisons
+Prescriptions applicables aux engins à cargaisons.
 
-XIII. APPAREILS DE NAVIGATION
+XIII. - Appareils de navigation :
 
-Liste (Chapitre 13)
+Liste ;
 
-Implantation
+Implantation ;
 
-Certificats d'approbation
+Certificats d'approbation.
 
-XIV. RADIOCOMMUNICATIONS
+XIV. - Radiocommunications :
 
-Zone de navigation
+Zone de navigation ;
 
-Liste des matériels avec numéro d'agrément
+Liste des matériels avec numéro d'agrément ;
 
-Schéma d'implantation du matériel
+Schéma d'implantation du matériel ;
 
-Plan des antennes
+Plan des antennes ;
 
-Schéma d'alimentation électrique
+Schéma d'alimentation électrique ;
 
-Implantation des batteries
+Implantation des batteries ;
 
-Bilan électrique et calcul justificatif de la capacité des batteries
+Bilan électrique et calcul justificatif de la capacité des batteries ;
 
-Méthodes d'entretien prévues
+Méthodes d'entretien prévues ;
 
-Copie du contrat d'entretien
+Copie du contrat d'entretien.
 
-Division 219 du règlement annexé à l'Arrêté du 23 novembre 1987 modifié
+XV. - Agencement du compartiment de l'équipe de conduite (passerelle) :
 
-XV. AGENCEMENT DU COMPARTIMENT DE L'EQUIPE DE CONDUITE (PASSERELLE))
+Champ visuel ;
 
-Champ visuel
+Agencement ;
 
-Agencement
+Fenêtres ;
 
-Fenêtres
+Moyens de communication.
 
-Moyens de communication
+XVI. - Systèmes de stabilisation :
 
-XVI. SYSTÈMES DE STABILISATION
+Description ;
 
-Description
+Fonctionnement ;
 
-Fonctionnement
+Systèmes de commandes.
 
-Systèmes de commandes
+XVII. - Conduite, maniabilité et fonctionnement :
 
-(Annexes 6 à 8 du Recueil)
+Renseignements à fournir dans le manuel d'exploitation.
 
-XVII. CONDUITE, MANIABILITÉ ET FONCTIONNEMENT
+XVIII. - Prescriptions relatives à l'exploitation :
 
-Renseignements à fournir dans le manuel d'exploitation
+Permis d'exploiter ;
 
-XVIII. PRESCRIPTIONS RELATIVES A L'EXPLOITATION
+Manuel d'exploitation ;
 
-Permis d'exploiter
+Manuel de route ;
 
-Manuel d'exploitation
+Manuel de formation ;
 
-Manuel de route
+Manuel d'entretien et de révision ;
 
-Manuel de formation
+Prescriptions applicables aux engins à passagers ;
 
-Manuel d'entretien et de révision
+Consignes en cas de situation critique.
 
-Prescriptions applicables aux engins à passagers
+XIX. - Analyse des types de défaillance et de leurs effets :
 
-Consignes en cas de situation critique
+Rapport d'analyse (FMEA) ;
 
-XIX. ANALYSE DES TYPES DE DÉFAILLANCE ET DE LEURS EFFETS
+Programme d'essais ;
 
-Rapport d'analyse (FMEA)
+Rapport d'essais.
 
-Programme d'essais
+C. Conformité aux autres chapitres de règlement.
 
-Rapport d'essais
+I. - Apparaux de levage :
 
-**C. CONFORMITE AUX AUTRES CHAPITRES DE RÈGLEMENT**
+Registre établi et visé par la société de classification, présenté à la commission de visite de mise en service ou au centre de sécurité des navires.
 
-I. APPARAUX DE LEVAGE
+II. - Hygiène, habitabilité :
 
-Renseignements à fournir, points étudiés et références réglementaires
+Plans des emménagements ;
 
-Registre établi et visé par la société de classification, présenté à la commission de visite de mise en service ou au centre de sécurité des navires
+Implantation ;
 
-Division 214 du règlement
+Surfaces et volumes ;
 
-II. HYGIENE - HABITABILITÉ
+Chauffage, ventilation ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+Eclairage ;
 
-Plans des emménagements
+Infirmerie ;
 
-Implantation
+Eau potable (circuit, stockage...).
 
-Surfaces et volumes
+III. - Conformité à la division 223A :
 
-Chauffage - ventilation
-
-Eclairage
-
-Infirmerie
-
-Eau potable (circuit, stockage...)
-
-Division 215 du règlement
-
-III. CONFORMITE A LA DIVISION 223A
-
-Prescriptions de sécurité pour les personnes à mobilité réduite.
+Prescriptions de sécurité pour les personnes à mobilité réduite ;
 
 Emport d'AIS et installation VDR.
 
-IV. PREVENTION DÉ LA POLLUTION
+IV. - Prévention de la pollution.
 
-CONVENTION MARPOL
+Annexe I
 
-Division 213 du règlement
+Prévention de la pollution par les hydrocarbures
 
-ANNEXE I "PREVENTION DE LA POLLUTION PAR LES HYDROCARBURES"
+Tranche machine :
 
-Renseignements à fournir, points étudiés et références réglementaires
+- description et schémas ;
 
-Réf. HI 1.1 à 4 Règles 9, 10, 14, 16, 17 et 19 de l'annexe I à la Convention MARPOL pour tous navires, soit les règles 1, 12, 13, 14, 15, 16 et 34 de l'annexe I révisée
+- séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement ;
 
-Tranche machine
+- certificat d'approbation suivant la directive européenne équipements marins.
 
-Description
+SOPEP. Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires.
 
-Séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement
+Annexe IV
 
-Certificat d'approbation suivant la Directive Européenne Equipements Marins
+Prévention de la pollution par les eaux usées
 
-SOPEP (MARPOL Annexe I règle 37 ex 26). Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires.
+Schéma et descriptif de l'installation ;
 
-ANNEXE IV "PREVENTION DE LA POLLUTION PAR LES EAUX USEES"
+Calcul justificatif ;
 
-Renseignements à fournir, points étudiés et références réglementaires
+Certificats d'approbation suivant la directive européenne équipements marins.
 
-Descriptif de l'installation
+Annexe VI
 
-Certificats d'approbation suivant la Directive Européenne Equipements Marins ou calcul justificatif des capacités
+Prévention de la pollution de l'air par les navires
 
-MARPOL Annexe IV telle qu'amendée par la résolution OMI MEPC.115(51)
+Certificat d'approbation et manuel d'exploitation de l'incinérateur ;
 
-Division 213 chapitre 4
+Certificats EIAPP.
 
-ANNEXE V "PREVENTION DE LA POLLUTION PAR LES ORDURES"
+D. - Equipements marins :
 
-Renseignements à fournir, points étudiés
+La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-Le manuel de gestion des ordures est visé par le centre de sécurité des navires.
+Les certificats d'approbation "équipements marins" requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
 
-ANNEXE VI "PREVENTION DE LA POLLUTION DE L'AIR PAR LES NAVIRES"
+E. - Bilan d'étude en CCS :
 
-Le cas échéant certificat d'approbation de l'incinérateur.
-
-Les attestations délivrées par la société de classification sont présentées au centre de sécurité des navires.
-
-SYSTÈME ANTISALISSURE - CONVENTION AFS (rendue applicable par le règlement (CE) n° 782/2003)
-
-L'attestation délivrée par la société de classification est présentée au centre de sécurité des navires.
-
-**D. BILAN D'ÉTUDE EN CCS**
-
-Préalablement la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable, éventuellement assorti de réserves, ou non favorable.
-
-Les critères de l'annexe 130.A.5 de la division 130 sont pris en compte.
-
-Référence : Article 130.12 § 5
+Préalablement à la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable, éventuellement assorti de réserves, ou non favorable.

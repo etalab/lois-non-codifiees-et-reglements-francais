@@ -2,7 +2,7 @@
 
 Source d'énergie électrique de secours
 
-1. Une source autonome d'énergie électrique de secours installée à un emplacement jugé satisfaisant par l'administration en dehors des locaux de machines doit être prévue et disposée de manière à pouvoir continuer de fonctionner en cas d'incendie ou de tout autre accident entraînant une défaillance de l'installation électrique principale.
+1. Une source autonome d'énergie électrique de secours installée à un emplacement jugé satisfaisant par l'autorité compétente en dehors des locaux de machines doit être prévue et disposée de manière à pouvoir continuer de fonctionner en cas d'incendie ou de tout autre accident entraînant une défaillance de l'installation électrique principale.
 
 2. La source d'énergie électrique de secours doit pouvoir, compte tenu du courant de démarrage et de la nature transitoire de certaines charges, alimenter simultanément pendant une durée de trois heures au moins :
 
@@ -34,9 +34,9 @@ et
 
 3. La source d'énergie électrique de secours peut être soit une génératrice, soit une batterie d'accumulateurs.
 
-4.1 Si la source d'énergie électrique de secours est une génératrice, elle doit être munie à la fois d'une alimentation en combustible indépendante et d'un dispositif de démarrage efficace jugés satisfaisants par l'administration. Sauf s'il existe un deuxième système indépendant de mise en marche de la génératrice de secours, il convient de s'assurer que le système de démarrage automatique ne déchargera pas complètement la source unique d'énergie d'accumulation.
+4.1 Si la source d'énergie électrique de secours est une génératrice, elle doit être munie à la fois d'une alimentation en combustible indépendante et d'un dispositif de démarrage efficace jugés satisfaisants par l'autorité compétente . Sauf s'il existe un deuxième système indépendant de mise en marche de la génératrice de secours, il convient de s'assurer que le système de démarrage automatique ne déchargera pas complètement la source unique d'énergie d'accumulation.
 
-4.2 Lorsque la source d'énergie électrique de secours est une batterie d'accumulateurs, celle-ci doit pouvoir supporter la charge de secours sans avoir besoin d'être rechargée et sans que les variations de sa tension pendant la période de décharge ne dépassent ± 12% de sa tension nominale. En cas de défaillance de l'alimentation principale, elle doit être reliée automatiquement au tableau de secours et alimenter immédiatement au moins les services mentionnés aux alinéas 1 et 2 du paragraphe 2. Le tableau de secours doit être muni d'un commutateur auxiliaire qui permette de brancher manuellement la batterie en cas de défaillance du système de branchement automatique.
+4.2 Lorsque la source d'énergie électrique de secours est une batterie d'accumulateurs, celle-ci doit pouvoir supporter la charge de secours sans avoir besoin d'être rechargée et sans que les variations de sa tension pendant la période de décharge ne dépassent ± 12 % de sa tension nominale. En cas de défaillance de l'alimentation principale, elle doit être reliée automatiquement au tableau de secours et alimenter immédiatement au moins les services mentionnés aux alinéas 1 et 2 du paragraphe 2. Le tableau de secours doit être muni d'un commutateur auxiliaire qui permette de brancher manuellement la batterie en cas de défaillance du système de branchement automatique.
 
 5. Le tableau de secours doit être installé aussi près que possible de la source d'énergie de secours à un emplacement qui satisfasse aux dispositions du paragraphe 1. Lorsque la source d'énergie de secours est constituée par une génératrice, le tableau de secours doit être placé dans le même local que la source d'énergie de secours, sauf au cas où une telle disposition risquerait de compromettre le fonctionnement du tableau intéressé.
 

@@ -20,4 +20,4 @@ Les schémas d'installations doivent pouvoir être produits à tout moment sur d
 
 Chaque feu de navigation est alimenté par un circuit bénéficiant d'une double arrivée de courant dont l'une provient directement d'un tableau principal et l'autre du tableau de secours, la permutation s'effectuant à la passerelle.
 
-4. Pour toutes les questions techniques non explicitement traitées dans cette partie il est fait application du règlement de la société de classification agréée choisie par l'armateur.
+4. Pour toutes les questions techniques non explicitement traitées dans cette partie il est fait application du règlement de la société de classification habilitée choisie par l'armateur.

@@ -4,7 +4,7 @@ Formation et exercices en vue de l'abandon du navire
 
 1. Appels et exercices :
 
-1.1 Tout membre de l'équipage doit participer à un exercice d'abandon du navire et un exercice d'incendie par mois au moins, Toutefois, l'administration peut modifier cette prescription dans le cas des navires d'une longueur inférieure à 45 mètres, à condition qu'un exercice d'abandon du navire et qu'un exercice d'incendie au minimum soient effectués au moins tous les trois mois. L'équipage doit effectuer ces exercices dans les 24 heures qui suivent le départ d'un port si plus de 25% des membres de l'équipage n'ont pas participé, dans le mois qui précède, à un exercice d'abandon du navire et un exercice d'incendie à bord du navire en question. L'administration peut admettre d'autres dispositions qui soient au moins équivalentes pour les catégories de navires à bord desquels cela n'est pas possible.
+1.1 Tout membre de l'équipage doit participer à un exercice d'abandon du navire et un exercice d'incendie par mois au moins, Toutefois, l'autorité compétente peut modifier cette prescription dans le cas des navires d'une longueur inférieure à 45 mètres, à condition qu'un exercice d'abandon du navire et qu'un exercice d'incendie au minimum soient effectués au moins tous les trois mois. L'équipage doit effectuer ces exercices dans les 24 heures qui suivent le départ d'un port si plus de 25 % des membres de l'équipage n'ont pas participé, dans le mois qui précède, à un exercice d'abandon du navire et un exercice d'incendie à bord du navire en question. L'autorité compétente peut admettre d'autres dispositions qui soient au moins équivalentes pour les catégories de navires à bord desquels cela n'est pas possible.
 
 1.2 Lors de chaque exercice d'abandon du navire, il faut :
 
@@ -66,7 +66,7 @@ Formation et exercices en vue de l'abandon du navire
 
 3. Mentions dans un journal de bord :
 
-Les dates auxquelles les appels ont lieu et le compte rendu des exercices d'abandon du navire, des exercices d'incendie, des exercices visant l'utilisation d'autres engins de sauvetage et des séances de formation à bord doivent être consignés par écrit dans le journal de bord prescrit par l'administration. Si l'appel, l'exercice ou la séance de formation n'ont pas intégralement lieu à la date prescrite, il est fait mention dans le journal de bord des conditions et de l'ampleur de l'appel, de l'exercice ou de la séance de formation qui a eu lieu.
+Les dates auxquelles les appels ont lieu et le compte rendu des exercices d'abandon du navire, des exercices d'incendie, des exercices visant l'utilisation d'autres engins de sauvetage et des séances de formation à bord doivent être consignés par écrit dans le journal de bord prescrit par l'autorité compétente . Si l'appel, l'exercice ou la séance de formation n'ont pas intégralement lieu à la date prescrite, il est fait mention dans le journal de bord des conditions et de l'ampleur de l'appel, de l'exercice ou de la séance de formation qui a eu lieu.
 
 4. Manuel de formation :
 
@@ -108,4 +108,4 @@ Les dates auxquelles les appels ont lieu et le compte rendu des exercices d'aban
 
 4.1.18 instructions pour les réparations d'urgence des engins de sauvetage.
 
-4.2 A bord des navires d'une longueur inférieure à 45 mètres, l'administration peut accepter qu'il soit dérogé aux prescriptions de l'alinéa 4.1, toutefois, des renseignements appropriés sur la sécurité doivent se trouver à bord.
+4.2 A bord des navires d'une longueur inférieure à 45 mètres, l'autorité compétente peut accepter qu'il soit dérogé aux prescriptions de l'alinéa 4.1, toutefois, des renseignements appropriés sur la sécurité doivent se trouver à bord.

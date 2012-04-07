@@ -30,7 +30,7 @@ Il doit être installé une mise hors service limitée à 30 minutes du disposit
 
 4.2 Ce dispositif de détection de l'incendie doit être conçu et les détecteurs doivent être disposés de manière à détecter dans un délai n'excédant pas 3 minutes un début d'incendie en n'importe quel point du compartiment et dans toutes les conditions normales d'exploitation des machines et de variations de ventilation qu'exige la gamme possible des températures ambiantes.
 
-L'essai correspondant est effectué comme indiqué en annexe 228-4.A.1 (point ID1 du questionnaire).
+L'essai correspondant est effectué comme indiqué en annexe 228-4. A. 1 (point ID1 du questionnaire).
 
 Les dispositifs de détection utilisant uniquement les détecteurs thermiques ne doivent pas être autorisés, sauf dans les locaux de hauteur limitée et lorsque leur utilisation est particulièrement appropriée.
 
@@ -40,7 +40,7 @@ A proximité de la porte d'un local normalement fermé il doit être prévu un r
 
 Les essais du dispositif sont exigés à la mer et au port si les locaux de machines sont aussi exploités au port sans présence permanente de personnel.
 
-5. Le dispositif de détection doit déclencher des alarmes à la fois sonores et visuelles - distinctes de tout dispositif n'indiquant pas un incendie - à la timonerie, à proximité des logements des mécaniciens et en un nombre d'endroits appropriés suffisants pour qu'elles soient perçues par les personnes se trouvant à bord lorsque le navire est au port.
+5. Le dispositif de détection doit déclencher des alarmes à la fois sonores et visuelles-distinctes de tout dispositif n'indiquant pas un incendie-à la timonerie, à proximité des logements des mécaniciens et en un nombre d'endroits appropriés suffisants pour qu'elles soient perçues par les personnes se trouvant à bord lorsque le navire est au port.
 
 6. Le dispositif de détection de l'incendie doit être alimenté automatiquement par une source d'énergie de secours en cas de panne de la source d'énergie principale.
 
@@ -48,7 +48,7 @@ Les essais du dispositif sont exigés à la mer et au port si les locaux de mach
 
 Lutte contre l'incendie
 
-8. Il convient de prévoir un dispositif fixe d'extinction de l'incendie jugé satisfaisant par l'administration et conforme aux dispositions des articles 228-5.22 et 228-5.40.
+8. Il convient de prévoir un dispositif fixe d'extinction de l'incendie jugé satisfaisant par l'autorité compétente et conforme aux dispositions des articles 228-5.22 et 228-5.40.
 
 9. A bord des navires d'une longueur égale ou supérieure à 75 mètres, des mesures doivent être prises pour garantir une alimentation en eau immédiate du collecteur principal d'incendie, que ce soit :
 
@@ -56,4 +56,4 @@ Lutte contre l'incendie
 
 9.2 par le maintien sous pression en permanence du collecteur principal d'incendie, compte tenu des risques de gel (1).
 
-10. L'administration doit juger satisfaisant le maintien de l'intégrité au feu des locaux de machines, le choix de l'emplacement et la centralisation des commandes de l'installation d'extinction de l'incendie, ainsi que les dispositifs d'arrêt visés par l'article 228-4.24, par exemple ventilation, pompes à combustible, etc. ; elle peut exiger des dispositifs d'extinction de l'incendie, des appareils de lutte contre l'incendie et des appareils respiratoires en plus de ceux visés par les prescriptions pertinentes du chapitre 228-5.
+10. L'autorité compétente doit juger satisfaisant le maintien de l'intégrité au feu des locaux de machines, le choix de l'emplacement et la centralisation des commandes de l'installation d'extinction de l'incendie, ainsi que les dispositifs d'arrêt visés par l'article 228-4.24, par exemple ventilation, pompes à combustible, etc. ; elle peut exiger des dispositifs d'extinction de l'incendie, des appareils de lutte contre l'incendie et des appareils respiratoires en plus de ceux visés par les prescriptions pertinentes du chapitre 228-5.

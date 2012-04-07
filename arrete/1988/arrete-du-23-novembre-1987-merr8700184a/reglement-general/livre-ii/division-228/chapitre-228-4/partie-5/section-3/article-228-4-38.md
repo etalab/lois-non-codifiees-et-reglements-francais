@@ -2,7 +2,7 @@
 
 Installations de caractère particulier
 
-1. l'administration peut exiger l'application de prescriptions appropriées, pour toute installation non prévue au présent chapitre et susceptible d'intéresser la sécurité du navire ou celle des personnes à bord. Ce sera, notamment, le cas, pour les installations comportant des éléments, réservoirs ou tuyautages contenant des fluides dangereux ou sous pression élevée, ou à température élevée, lorsque de telles installations présentent un certain développement.
+1. l'autorité compétente peut exiger l'application de prescriptions appropriées, pour toute installation non prévue au présent chapitre et susceptible d'intéresser la sécurité du navire ou celle des personnes à bord. Ce sera, notamment, le cas, pour les installations comportant des éléments, réservoirs ou tuyautages contenant des fluides dangereux ou sous pression élevée, ou à température élevée, lorsque de telles installations présentent un certain développement.
 
 Ces prescriptions doivent tenir compte de la nature et du type de l'installation considérée, de ses caractéristiques et du degré de sécurité qu'elle doit présenter dans les différentes circonstances d'exploitation.
 

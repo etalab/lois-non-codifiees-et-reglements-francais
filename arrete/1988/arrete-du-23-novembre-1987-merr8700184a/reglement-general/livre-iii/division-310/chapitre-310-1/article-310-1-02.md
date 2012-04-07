@@ -2,13 +2,13 @@
 
 Procédure d'approbation
 
-1. Pour obtenir l'approbation d'un matériel ou d'un matériau, le fabricant doit déposer une demande accompagnée d'un dossier de définition auprès d'un organisme notifié et procéder aux essais de prototype et vérifications auxquelles l'approbation est subordonnée.
+1. Pour obtenir l'approbation d'un matériel ou d'un matériau, le fabricant doit déposer une demande accompagnée d'un dossier de définition auprès d'un organisme habilité et procéder aux essais de prototype et vérifications auxquelles l'approbation est subordonnée.
 
-2. Ces essais et vérifications sont effectués dans les conditions déterminées par le présent règlement ou, en l'absence de dispositions particulières, par décision du ministre chargé de la marine marchande. Ils sont effectués :
+2. Ces essais et vérifications sont effectués dans les conditions déterminées par le présent règlement ou, en l'absence de dispositions particulières, par décision du ministre chargé de la mer. Ils sont effectués :
 
-2.1 soit dans un laboratoire reconnu par l'organisme notifié ;
+2.1 soit dans un laboratoire reconnu par l' organisme habilité ;
 
-2.2 soit en présence d'un ou plusieurs experts de l'organisme notifié.
+2.2 soit en présence d'un ou plusieurs experts de l' organisme habilité .
 
 3. Le dossier de définition est constitué :
 

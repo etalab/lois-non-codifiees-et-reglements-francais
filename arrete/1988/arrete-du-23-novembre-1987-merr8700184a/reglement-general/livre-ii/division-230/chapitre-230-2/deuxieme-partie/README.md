@@ -16,7 +16,6 @@
 - [Article 230-2.20](article-230-2-20.md)
 - [Article 230-2.21](article-230-2-21.md)
 - [Article 230-2.22](article-230-2-22.md)
-- [Article ANNEXE 230-2.A.1](article-annexe-230-2-a-1.md)
 - [Article ANNEXE 230-2.A.2](article-annexe-230-2-a-2.md)
 - [Article ANNEXE 230-2.A.3](article-annexe-230-2-a-3.md)
 - [Article ANNEXE 230-2.A.4](article-annexe-230-2-a-4.md)

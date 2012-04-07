@@ -12,6 +12,6 @@ Ce contrôle doit se limiter à la vérification de la présence sur le conteneu
 
 Si le transport ainsi autorisé se fait vers un autre pays où les mesures correctives requises pourront être prises plus facilement, le chef du centre de sécurité des navires en informe l'autorité chargée du contrôle de ce pays.
 
-4. Lorsqu'il apparaît que le conteneur ne satisfait plus aux prescriptions en matière de sécurité par suite d'un défaut d'origine, l'administration responsable de son agrément en est informée par le ministre chargé de la marine marchande sur rapport du chef du centre de sécurité des navires.
+4. Lorsqu'il apparaît que le conteneur ne satisfait plus aux prescriptions en matière de sécurité par suite d'un défaut d'origine, l'administration responsable de son agrément en est informée par le ministre chargé de la mer sur rapport du chef du centre de sécurité des navires.
 
-(3) CSC/Circ. 100 - Recommandations relatives à l'interprétation et à la mise en oeuvre harmonisées de la Convention internationale de 1972 sur la sécurité des conteneurs, telle que modifiée.
+(3) CSC/Circ. 100-Recommandations relatives à l'interprétation et à la mise en œuvre harmonisées de la Convention internationale de 1972 sur la sécurité des conteneurs, telle que modifiée.

@@ -1,18 +1,18 @@
 # Article 228-9.08
 
-Matériel radioélectrique - Zones océaniques A1 et A2
+Matériel radioélectrique-Zones océaniques A1 et A2
 
 1 Outre qu'il doit satisfaire aux prescriptions de l'article 228-9.06, tout navire qui effectue des voyages au delà de la zone océanique A1 mais qui reste à l'intérieur de la zone océanique A2 doit être pourvu :
 
 .1 d'une installation radioélectrique à ondes hectométriques permettant, aux fins de la détresse et de la sécurité, d'émettre et de recevoir sur les fréquences :
 
-.1.1. 2 187,5 kHz par ASN ; et
+.1.1.2 187,5 kHz par ASN ; et
 
-.1.2. 2 182 kHz en radiotéléphonie ;
+.1.2.2 182 kHz en radiotéléphonie ;
 
-.2 d'une installation radioélectrique permettant de maintenir une veille permanente par ASN sur la fréquence 2 187,5 kHz, qui peut être distincte de celle prescrite au paragraphe .1.1 ou y être incorporée ; et
+.2 d'une installation radioélectrique permettant de maintenir une veille permanente par ASN sur la fréquence 2 187,5 kHz, qui peut être distincte de celle prescrite au paragraphe. 1.1 ou y être incorporée ; et
 
-.3 de moyens permettant de déclencher l'émission d'alertes de détresse dans le sens navire - côtière, dans le cadre d'un service radioélectrique qui ne repose pas sur l'utilisation des ondes hectométriques et qui fonctionne :
+.3 de moyens permettant de déclencher l'émission d'alertes de détresse dans le sens navire-côtière, dans le cadre d'un service radioélectrique qui ne repose pas sur l'utilisation des ondes hectométriques et qui fonctionne :
 
 .3.1 soit sur 406 MHz dans le cadre du service par satellites sur orbite polaire ; il peut être satisfait à cette prescription en utilisant la RLS par satellite prescrite à l'article 228-9.06.1.6, laquelle peut être soit installée à proximité du poste de navigation habituel du navire, soit déclenchée à distance depuis ce poste ;
 
@@ -28,4 +28,4 @@ Matériel radioélectrique - Zones océaniques A1 et A2
 
 .2 soit une station terrienne de navire INMARSAT.
 
-4 L'Administration peut exempter de l'application des prescriptions des articles 228-9.06.1.1.1 et 228-9.06.1.2 les navires construits avant le 1er février 1997 qui effectuent des voyages exclusivement dans la zone océanique A2, à condition que ces navires, lorsque cela est possible, restent en permanence à l'écoute de la voie 16 en ondes métriques. Cette veille doit être assurée au poste de navigation habituel du navire.
+4 L'autorité compétente peut exempter de l'application des prescriptions des articles 228-9.06.1.1.1 et 228-9.06.1.2 les navires construits avant le 1er février 1997 qui effectuent des voyages exclusivement dans la zone océanique A2, à condition que ces navires, lorsque cela est possible, restent en permanence à l'écoute de la voie 16 en ondes métriques. Cette veille doit être assurée au poste de navigation habituel du navire.

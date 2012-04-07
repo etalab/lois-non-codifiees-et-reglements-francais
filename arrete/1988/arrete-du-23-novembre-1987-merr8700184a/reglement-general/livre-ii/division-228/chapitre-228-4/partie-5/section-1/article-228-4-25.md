@@ -10,7 +10,7 @@ Ces raccords flexibles doivent être entièrement parcourus par l'eau de refroid
 
 Les raccords flexibles doivent rester visibles et facilement accessibles sur tout leur parcours.
 
-Les tuyaux d'évacuation des gaz d'échappement ne doivent pas traverser des locaux destinés au couchage du personnel. Cependant l'administration peut admettre que ces tuyaux traversent de tels locaux à condition que les tuyaux en cause soient isolés, ne comportent pas de joints au passage dans ces locaux et soient enfermés dans un conduit métallique étanche muni de tapes de visites.
+Les tuyaux d'évacuation des gaz d'échappement ne doivent pas traverser des locaux destinés au couchage du personnel. Cependant l'autorité compétente peut admettre que ces tuyaux traversent de tels locaux à condition que les tuyaux en cause soient isolés, ne comportent pas de joints au passage dans ces locaux et soient enfermés dans un conduit métallique étanche muni de tapes de visites.
 
 2. Les tuyaux de l'installation motrice sont facilement repérables soit par des plaques indicatrices placées sur leurs accessoires ou à proximité de ces derniers, soit par des marques peintes aux couleurs conventionnelles définies par les normes en vigueur.
 
@@ -24,7 +24,7 @@ Les plaques indicatrices ne doivent pas être fixées sur les organes mobiles te
 
 Le fonctionnement des soupapes de sûreté ou d'un dispositif équivalent, doit pouvoir être décelé facilement par le personnel chargé de la conduite.
 
-Les brides, joints ou raccords des tuyauteries dont la pression relative interne peut dépasser 0,18 N/mm2 doivent présenter par eux-mêmes ou du fait d'une protection appropriée une sécurité satisfaisante contre les risques de projection.
+Les brides, joints ou raccords des tuyauteries dont la pression relative interne peut dépasser 0,18 N/ mm2 doivent présenter par eux-mêmes ou du fait d'une protection appropriée une sécurité satisfaisante contre les risques de projection.
 
 Toutes dispositions doivent être prises pour éviter la rupture des tuyaux de faible diamètre, tels que les tuyaux de transmission aux manomètres. Les tuyautages de refoulement des pompes d'injection des moteurs à combustion interne doivent être gainés contre les projections en cas de fuite.
 

@@ -14,4 +14,3 @@
 - [Article 229-II-1.12](article-229-ii-1-12.md)
 - [Article 229-II-1.13](article-229-ii-1-13.md)
 - [Article 229-II-1.14](article-229-ii-1-14.md)
-- [Article Annexe 229-II-1.A.1](article-annexe-229-ii-1-a-1.md)
