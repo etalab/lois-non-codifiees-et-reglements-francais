@@ -1,21 +1,23 @@
 # Article 3
 
-Ce collège, que préside le directeur général de l'Office national des anciens combattants et victimes de guerre, comprend vingt-cinq membres répartis comme suit :
+Ce collège, que préside le directeur général de l'office national des anciens combattants et victimes de guerre, comprend seize membres répartis comme suit :
 
-Les cinq membres représentant au conseil d'administration de l'office :
+1° Quatre membres représentant l'Etat, issus du premier collège du conseil d'administration de l'office national :
 
-- le ministre d'Etat, ministre de l'éducation nationale ;
+- le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
 
-- le ministre délégué au budget ;
+- le directeur du budget ou son représentant ;
 
-- le ministre de l'intérieur ;
+- le secrétaire général du ministère de l'intérieur ou son représentant ;
 
-- le ministre des affaires sociales et de l'intégration ;
+- le directeur général de l'enseignement scolaire ou son représentant ;
 
-- le secrétaire d'Etat aux anciens combattants et victimes de guerre ;
+2° Dix membres représentant les deux commissions élues au sein du conseil d'administration de l'office national :
 
-Les dix-sept membres de la commission d'action sociale de l'office ;
+- outre son président et son rapporteur, trois membres désignés par la commission de la mémoire et de la solidarité dont ils sont issus ;
 
-Trois experts désignés par le secrétaire d'Etat aux anciens combattants et victimes de guerre en raison de leurs compétences particulières.
+- outre son président et son rapporteur, trois membres désignés par la commission des affaires générales et financières dont ils sont issus ;
 
-Ce collège est renouvelable tous les quatre ans. Son mandat rend fin en même temps que celui du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Il désigne en son sein deux vice-présidents et peut faire appel à toute personne qualifiée pour l'aider dans sa mission.
+3° Deux experts désignés par le ministre chargé des anciens combattants en raison de leurs compétences particulières.
+
+Ce collège est renouvelable tous les quatre ans. Son mandat prend fin en même temps que celui du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Il désigne en son sein deux vice-présidents et peut faire appel à toute personne qualifiée pour l'aider dans sa mission.
