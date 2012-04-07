@@ -31,3 +31,5 @@ Corps des conducteurs de travaux de la distribution et de l'acheminement de La P
 Corps des assistants de service social de La Poste, régi par le décret n° 91-101 du 24 janvier 1991 modifié.
 
 Corps des infirmiers et infirmières des service médicaux de La Poste, régi par le décret n° 91-13 du 4 janvier 1991 modifié.
+
+Corps des assistants administratifs de La Poste, régi par le décret n° 92-931 du 7 septembre 1992.
