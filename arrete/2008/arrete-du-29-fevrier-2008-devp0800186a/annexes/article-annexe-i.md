@@ -20,19 +20,19 @@ La déclaration précise les mesures prises relatives aux conditions d'utilisati
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
-- le dossier de déclaration,
+-le dossier de déclaration,
 
-- les plans tenus à jour,
+-les plans tenus à jour,
 
-- le récépissé de déclaration et les prescriptions générales,
+-le récépissé de déclaration et les prescriptions générales,
 
-- les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a,
+-les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a,
 
-- les rapports des visites,
+-les rapports des visites,
 
-- les documents prévus aux points 1.5, 1.8, 2.4, 2.12, 3.3, 3.5, 3.6, 3.7, 4.1, 4.3, 4.7, 7.5 du présent arrêté,
+-les documents prévus aux points 1.5,1.8,2.4,2.12,3.3,3.5,3.6,3.7,4.1,4.3,4.7,7.5 du présent arrêté,
 
-- le dossier rassemblant des éléments relatifs aux risques (notamment les caractéristiques des produits stockés, les incompatibilités entre les produits et matériaux utilisés dans l'installation, les zones d'effets pyrotechniques et leur justification telles que prévues au point 4.1).
+-le dossier rassemblant des éléments relatifs aux risques (notamment les caractéristiques des produits stockés, les incompatibilités entre les produits et matériaux utilisés dans l'installation, les zones d'effets pyrotechniques et leur justification telles que prévues au point 4.1).
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées. Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
@@ -52,13 +52,13 @@ Lorsqu'une installation cesse l'activité au titre de laquelle elle était décl
 
 1.8. Contrôles périodiques
 
-L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement. Les exploitants d'installations mentionnées aux cinquième et sixième alinéas de l'article 1er du décret n° 2009-835 du 6 juillet 2009 relatif au premier contrôle périodique de certaines catégories d'installations classées soumises à déclaration procèdent au premier contrôle périodique de leurs installations au plus tard le 1er janvier 2013.
 
 Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions rappelées en annexe VII, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
 
 L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier " installations classées " prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné. Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
-2. Implantation - aménagement
+2. Implantation-aménagement
 
 2.1. Règles d'implantation
 
@@ -66,9 +66,9 @@ L'installation est implantée de manière que la zone d'effets Z2 définie par l
 
 En complément des dispositions précédentes, les installations de stockages d'explosifs situés dans les réserves attenantes des établissements recevant du public mentionnées au point 11 de la présente annexe sont implantées de telle sorte que :
 
-- les zones d'effets Z1 à Z5 définies par l'arrêté du 20 avril 2007 susmentionné ne touchent pas l'espace de vente de l'établissement ;
+-les zones d'effets Z1 à Z5 définies par l'arrêté du 20 avril 2007 susmentionné ne touchent pas l'espace de vente de l'établissement ;
 
-- les zones d'effets Z1 à Z4 définies par l'arrêté du 20 avril 2007 susmentionné ne touchent pas les zones accessibles au public, notamment les parkings.
+-les zones d'effets Z1 à Z4 définies par l'arrêté du 20 avril 2007 susmentionné ne touchent pas les zones accessibles au public, notamment les parkings.
 
 Dans un même bâtiment, les zones de stockage sont séparées des zones où peuvent avoir lieu des opérations de reconditionnement (par exemple opérations de prélèvements d'artifices de divertissement ou " picking ") par un dispositif assurant le découplage ainsi que la protection contre les effets d'un incendie survenant dans les locaux de reconditionnement.
 
@@ -104,13 +104,13 @@ Le sol des locaux où sont employés ou stockés les produits sus-visés par cet
 
 Sauf démonstration que cette mesure aggrave les conséquences d'un accident, les locaux de stockage de produits explosifs présentent les caractéristiques de résistance au feu minimales suivantes : murs séparatifs REI 60 (coupe-feu de degré 1 heure) dont les portes et fermetures sont EI 60 (coupe-feu de degré 1 heure).
 
-L'exploitant dispose de l'ensemble des pièces (PV de réception, avis d'expert, note technique etc.) lui permettant de justifier du comportement au feu du (des) bâtiment(s). Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe. Les conditions d'application du présent point aux stockages d'explosifs situés dans les stations de sports d'hiver sont précisées au point 12 de la présente annexe.
+L'exploitant dispose de l'ensemble des pièces (PV de réception, avis d'expert, note technique etc.) lui permettant de justifier du comportement au feu du (des) bâtiment (s). Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe. Les conditions d'application du présent point aux stockages d'explosifs situés dans les stations de sports d'hiver sont précisées au point 12 de la présente annexe.
 
 2.4.3. Toitures et couvertures de toiture
 
 Sauf démonstration que cette mesure aggrave les conséquences d'un accident, les toitures et couvertures de toiture répondent à la classe BROOF (t3).
 
-L'exploitant dispose de l'ensemble des pièces (PV de réception, avis d'expert, note technique etc.) lui permettant de justifier du comportement au feu du (des) bâtiment(s). Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe. Les conditions d'application du présent point aux stockages d'explosifs situés dans les stations de sports d'hiver sont précisées au point 12 de la présente annexe.
+L'exploitant dispose de l'ensemble des pièces (PV de réception, avis d'expert, note technique etc.) lui permettant de justifier du comportement au feu du (des) bâtiment (s). Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe. Les conditions d'application du présent point aux stockages d'explosifs situés dans les stations de sports d'hiver sont précisées au point 12 de la présente annexe.
 
 2.4.4. Désenfumage
 
@@ -118,7 +118,7 @@ Sauf démonstration que cette mesure aggrave les conséquences d'un accident, le
 
 La surface utile de ces dispositifs d'ouverture n'est pas inférieure à :
 
-2 % si la superficie à désenfumer est comprise entre 1000 et 1600 m2, à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1600 m<sup>2</sup> sans pouvoir être inférieure à 2 % de la superficie des locaux.
+2 % si la superficie à désenfumer est comprise entre 1000 et 1600 m2, à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1600 m <sup>2 </sup>sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 Les dispositifs d'évacuation naturelle de fumées et de chaleur sont adaptés aux risques particuliers de l'installation. Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
@@ -146,7 +146,7 @@ Le tableau général de distribution de chaque installation électrique comporte
 
 L'alimentation électrique de chaque local pyrotechnique peut être coupée par la manœuvre d'un organe de commande situé à proximité et à l'extérieur du local. Cet organe est aisément reconnaissable et facilement accessible. S'il s'agit d'un dispositif de commande à distance, il est conforme aux règles définies par le paragraphe 537-2 de la norme française NF C 15-100.
 
-Le trajet des canalisations enterrées est repéré en surface par des bornes ou des marques spéciales; les repères permettent en outre une identification facile des câbles enterrés.
+Le trajet des canalisations enterrées est repéré en surface par des bornes ou des marques spéciales ; les repères permettent en outre une identification facile des câbles enterrés.
 
 Dans les locaux pyrotechniques, aucun appareil ne reste sous tension en dehors des heures de travail.
 
@@ -176,9 +176,9 @@ Les matières recueillies sont de préférence récupérées et recyclées, ou e
 
 Tout stockage de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
-- 100 % de la capacité du plus grand réservoir,
+-100 % de la capacité du plus grand réservoir,
 
-- 50 % de la capacité globale des réservoirs associés.
+-50 % de la capacité globale des réservoirs associés.
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
 
@@ -242,7 +242,7 @@ Les emballages ne sont pas ouverts dans les locaux de stockage.
 
 Afin d'éviter tout confinement susceptible d'aggraver les risques, un espace libre d'au moins un mètre est laissé entre le sommet des stockages et le plafond. Les emballages contenant un reliquat de produits explosifs peuvent être réintégrés dans le dépôt à condition d'avoir été vérifiés et convenablement refermés. Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
-3. Exploitation - entretien
+3. Exploitation-entretien
 
 3.1. Surveillance de l'exploitation
 
@@ -254,7 +254,7 @@ Les personnes étrangères à l'établissement n'ont pas d'accès libre aux inst
 
 En dehors des heures de travail les locaux contenant des produits explosifs sont fermés à clef s'ils ne font pas l'objet d'une surveillance permanente.
 
-3.3. Connaissance des produits - Etiquetage
+3.3. Connaissance des produits-Etiquetage
 
 Sans préjudice des dispositions du code du travail, l'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation.
 
@@ -266,11 +266,11 @@ Pour les produits explosifs, les emballages portent en caractères très lisible
 
 Les locaux sont maintenus propres et régulièrement nettoyés notamment de manière à éviter les amas de matières dangereuses ou polluantes. Le matériel de nettoyage est adapté aux risques présentés par les produits.
 
-Par ailleurs, du fait des risques d'incendie, les abords immédiats des locaux pyrotechniques et des zones de combustion des déchets sont désherbés et débroussaillés; les produits utilisés pour le désherbage et le débroussaillage sont de nature telle qu'ils ne puissent provoquer des réactions dangereuses avec les matières utilisées dans l'enceinte pyrotechnique.
+Par ailleurs, du fait des risques d'incendie, les abords immédiats des locaux pyrotechniques et des zones de combustion des déchets sont désherbés et débroussaillés ; les produits utilisés pour le désherbage et le débroussaillage sont de nature telle qu'ils ne puissent provoquer des réactions dangereuses avec les matières utilisées dans l'enceinte pyrotechnique.
 
 Les merlons de terre sont débarrassés des herbes sèches et débroussaillés.
 
-3.5. Etat des stocks de produits dangereux/registre entrées-sorties
+3.5. Etat des stocks de produits dangereux/ registre entrées-sorties
 
 L'exploitant tient à jour en permanence un état indiquant la nature, la division de risque, le groupe de compatibilité, la date de fabrication et la quantité des produits explosifs détenus (registre entrées-sorties), auquel est annexé un plan général à jour des stockages. Cet état est tenu à la disposition de l'inspection des installations classées et des services d'incendie, de secours et de gendarmerie.
 
@@ -284,39 +284,39 @@ Toutes les installations électriques sont entretenues en bon état et sont cont
 
 Les opérations comportant des manipulations dangereuses et la conduite des installations font l'objet de consignes d'exploitation écrites.
 
-Ces consignes prévoient notamment:
+Ces consignes prévoient notamment :
 
-- les modes opératoires,
+-les modes opératoires,
 
-- les instructions de maintenance et de nettoyage,
+-les instructions de maintenance et de nettoyage,
 
-- le maintien, dans l'atelier d'emploi, des seules quantités de matières dangereuses ou combustibles nécessaires au fonctionnement de l'installation,
+-le maintien, dans l'atelier d'emploi, des seules quantités de matières dangereuses ou combustibles nécessaires au fonctionnement de l'installation,
 
-- les conditions de conservation et de stockage des produits,
+-les conditions de conservation et de stockage des produits,
 
-- l'interdiction de fumer, de porter tous articles de fumeurs ainsi que l'interdiction, sauf permis spécial, de porter des feux nus, des objets incandescents, des allumettes ou tout autre moyen de mise à feu,
+-l'interdiction de fumer, de porter tous articles de fumeurs ainsi que l'interdiction, sauf permis spécial, de porter des feux nus, des objets incandescents, des allumettes ou tout autre moyen de mise à feu,
 
-- l'interdiction de procéder dans les locaux pyrotechniques à des opérations non prévues par les instructions ou consignes en vigueur,
+-l'interdiction de procéder dans les locaux pyrotechniques à des opérations non prévues par les instructions ou consignes en vigueur,
 
-- l'interdiction de tout téléphone cellulaire sous tension,
+-l'interdiction de tout téléphone cellulaire sous tension,
 
-- les mesures à observer pour la circulation et le stationnement des véhicules de toute nature et des personnes à l'intérieur de l'enceinte pyrotechnique,
+-les mesures à observer pour la circulation et le stationnement des véhicules de toute nature et des personnes à l'intérieur de l'enceinte pyrotechnique,
 
-- les dispositions générales à prendre en cas d'incendie ou d'explosion.
+-les dispositions générales à prendre en cas d'incendie ou d'explosion.
 
 Ces consignes prévoient notamment l'interdiction d'effectuer, dans les locaux servant de dépôts, toute autre opération que les manutentions nécessaires à la mise en stockage et à la sortie des produits.
 
 La consigne relative à chaque local pyrotechnique précise notamment :
 
-- la liste limitative des opérations qui sont autorisées dans ce local et les références aux instructions de service qui y sont appliquées,
+-la liste limitative des opérations qui sont autorisées dans ce local et les références aux instructions de service qui y sont appliquées,
 
-- la nature et les quantités maximales de produits explosifs et, le cas échéant, de toutes autres matières dangereuses pouvant s'y trouver et être mis en œuvre, ainsi que leur conditionnement et les emplacements auxquels ils sont déposés,
+-la nature et les quantités maximales de produits explosifs et, le cas échéant, de toutes autres matières dangereuses pouvant s'y trouver et être mis en œuvre, ainsi que leur conditionnement et les emplacements auxquels ils sont déposés,
 
-- la nature des déchets produits, la quantité maximale de ceux-ci qui peut y être entreposée et leur mode de conditionnement,
+-la nature des déchets produits, la quantité maximale de ceux-ci qui peut y être entreposée et leur mode de conditionnement,
 
-- la conduite à tenir en cas d'incendie, en cas d'orage ou en cas de panne de lumière ou d'énergie ou à l'occasion de tout autre incident susceptible d'entraîner un risque pyrotechnique,
+-la conduite à tenir en cas d'incendie, en cas d'orage ou en cas de panne de lumière ou d'énergie ou à l'occasion de tout autre incident susceptible d'entraîner un risque pyrotechnique,
 
-- le nom du responsable d'exploitation.
+-le nom du responsable d'exploitation.
 
 4. Risques
 
@@ -340,17 +340,17 @@ Le personnel est formé à l'emploi de ces matériels. Les conditions d'applicat
 
 L'installation est équipée de moyens de lutte contre l'incendie appropriés aux risques notamment :
 
-- d'un ou de plusieurs appareils d'incendie (bouches, poteaux, etc.) publics ou privés implantés de telle sorte que tout point du bord du stockage se trouve à moins de 100 mètres d'un appareil ou de points d'eau, bassins, citernes, etc., d'une capacité en rapport avec le danger à combattre ;
+-d'un ou de plusieurs appareils d'incendie (bouches, poteaux, etc.) publics ou privés implantés de telle sorte que tout point du bord du stockage se trouve à moins de 100 mètres d'un appareil ou de points d'eau, bassins, citernes, etc., d'une capacité en rapport avec le danger à combattre ;
 
-- d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
+-d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
 
-- d'un moyen permettant d'alerter les services d'incendie et de secours ;
+-d'un moyen permettant d'alerter les services d'incendie et de secours ;
 
-- d'une réserve de sable meuble et sec en quantité adaptée au risque et de pelles ;
+-d'une réserve de sable meuble et sec en quantité adaptée au risque et de pelles ;
 
-- de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description -des dangers pour chaque local.
+-de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description-des dangers pour chaque local.
 
-- d'un système interne d'alerte incendie ;
+-d'un système interne d'alerte incendie ;
 
 Ces matériels sont maintenus en bon état et vérifiés au moins une fois par an.
 
@@ -364,7 +364,7 @@ Les gainages électriques et autres canalisations ne sont pas une cause possible
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation visées au point 4.1 présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation visées au point 4.1 présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ". Cette interdiction est affichée en caractères apparents.
 
 Par ailleurs, il est interdit de fumer dans l'enceinte pyrotechnique et de pénétrer dans le dépôt muni d'un téléphone cellulaire, au regard des possibles interférences susceptibles de présenter un risque d'amorçage des matériels comportant des dispositifs électro-pyrotechniques. Ces interdictions seront affichées en caractères apparents.
 
@@ -382,13 +382,13 @@ Il est interdit d'assurer la production d'air chaud par circulation d'air autour
 
 L'emplacement des arrivées d'air chaud est choisi de manière à éviter toute turbulence susceptible de soulever des poussières dans le local.
 
-4.6. "Permis d'intervention/Permis de feu" dans les parties de l'installation visées au point 4.1
+4.6. " Permis d'intervention/ Permis de feu " dans les parties de l'installation visées au point 4.1
 
-Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (notamment emploi d'une flamme ou d'une source chaude, purge des circuits) ne peuvent être effectués qu'après délivrance d'un "permis d'intervention" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (notamment emploi d'une flamme ou d'une source chaude, purge des circuits) ne peuvent être effectués qu'après délivrance d'un " permis d'intervention " et éventuellement d'un " permis de feu " et en respectant les règles d'une consigne particulière.
 
-Le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée.
+Le " permis d'intervention " et éventuellement le " permis de feu " et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée.
 
-Sans préjudice des dispositions prévues par le ministère en charge du travail, lorsque les travaux sont effectués par une entreprise extérieure, le "permis d'intervention" et éventuellement "permis de feu" et la consigne particulière relative à la sécurité de l'installation, sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
+Sans préjudice des dispositions prévues par le ministère en charge du travail, lorsque les travaux sont effectués par une entreprise extérieure, le " permis d'intervention " et éventuellement " permis de feu " et la consigne particulière relative à la sécurité de l'installation, sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
 
 Après la fin des travaux et avant la reprise de l'activité, une vérification des installations est effectuée par l'exploitant ou son représentant. Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
@@ -398,33 +398,33 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
-- les fiches de données de sécurité des substances ou préparations mises en œuvre ou stockées et leurs risques spécifiques,
+-les fiches de données de sécurité des substances ou préparations mises en œuvre ou stockées et leurs risques spécifiques,
 
-- l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion,
+-l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion,
 
-- l'obligation du "permis d'intervention" pour les parties de l'installation visées au point 4.1,
+-l'obligation du " permis d'intervention " pour les parties de l'installation visées au point 4.1,
 
-- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides),
+-les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides),
 
-- les précautions à prendre pour l'emploi et le stockage de produits incompatibles,
+-les précautions à prendre pour l'emploi et le stockage de produits incompatibles,
 
-- les moyens d'extinction à utiliser en cas d'incendie,
+-les moyens d'extinction à utiliser en cas d'incendie,
 
-- la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc.,
+-la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc.,
 
-- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11,
+-les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11,
 
-- l'obligation d'informer l'inspection des installations classées en cas d'accident.
+-l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
 Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an. Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
 5. Eau [*]
 
-6. Air - odeurs [*]
+6. Air-odeurs [*]
 
 7. Déchets
 
-7.1. Récupération - recyclage - élimination
+7.1. Récupération-recyclage-élimination
 
 L'exploitant élimine ou fait éliminer les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour cette élimination sont régulièrement autorisées à cet effet.
 
@@ -464,9 +464,9 @@ Le brûlage à l'air libre, dans les installations soumises au présent arrêté
 
 Outre les dispositions prévues au point 1.7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger. En particulier :
 
-- tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
+-tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
-- les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et le cas échéant décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
+-les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et le cas échéant décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
 [*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1311, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
 
@@ -476,27 +476,27 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 Les stockages momentanés de produits, en vue d'un spectacle pyrotechnique tel que défini à l'article 2 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre font l'objet de prescriptions particulières au titre de la présente annexe telles que définies dans le présent point s'ils répondent aux trois critères suivants :
 
-- l'installation est exploitée par périodes de durée maximale de quinze jours pendant l'année, comprenant le délai de quatre jours prévu au point 10.5 pour le retour des produits et l'évacuation des déchets, à raison de trois périodes d'exploitation maximales par an. Ces périodes correspondent aux dates prévues pour les spectacles, ces dates étant indiquées dans la déclaration de spectacle mentionnée à l'article 4 du décret du 31 mai 2010 susmentionné ;
+-l'installation est exploitée par périodes de durée maximale de quinze jours pendant l'année, comprenant le délai de quatre jours prévu au point 10.5 pour le retour des produits et l'évacuation des déchets, à raison de trois périodes d'exploitation maximales par an. Ces périodes correspondent aux dates prévues pour les spectacles, ces dates étant indiquées dans la déclaration de spectacle mentionnée à l'article 4 du décret du 31 mai 2010 susmentionné ;
 
-- seuls des produits affectés aux divisions de risque 3 et 4 telles que définies à l'annexe VI du présent arrêté sont stockés ;
+-seuls des produits affectés aux divisions de risque 3 et 4 telles que définies à l'annexe VI du présent arrêté sont stockés ;
 
-- l'installation est située dans un rayon maximal de 50 kilomètres du lieu du spectacle.
+-l'installation est située dans un rayon maximal de 50 kilomètres du lieu du spectacle.
 
 10.2. Exemptions
 
 Les dispositions suivantes de la présente annexe ne sont pas applicables aux installations mentionnées au point 10.1 :
 
-- sixième et septième alinéas du point 1.4 ;
+-sixième et septième alinéas du point 1.4 ;
 
-- deuxième alinéa du point 1.5 ;
+-deuxième alinéa du point 1.5 ;
 
-- premier, troisième, cinquième et dixième alinéas du point 2.1 ;
+-premier, troisième, cinquième et dixième alinéas du point 2.1 ;
 
-- points 2.2, 2.4.2, 2.4.3, 2.4.4 et 2.5 ;
+-points 2.2,2.4.2,2.4.3,2.4.4 et 2.5 ;
 
-- troisième, quatrième et huitième alinéas du point 2.7 ;
+-troisième, quatrième et huitième alinéas du point 2.7 ;
 
-- points 2.9, 2.10, 2.11, 2.14, 3.5, 4.1, 4.2, 4.3, 4.6 et 4.7.
+-points 2.9,2.10,2.11,2.14,3.5,4.1,4.2,4.3,4.6 et 4.7.
 
 Les dispositions relatives aux contrôles périodiques ne sont pas applicables aux installations mentionnées au point 10.1.
 
@@ -506,11 +506,11 @@ L'installation est implantée de façon à ce qu'aucune personne étrangère à 
 
 De plus, elle est isolée conformément aux prescriptions suivantes :
 
-- aucune habitation et aucun établissement recevant du public ne se situent à moins de 50 mètres,
+-aucune habitation et aucun établissement recevant du public ne se situent à moins de 50 mètres,
 
-- aucun immeuble de grande hauteur ne se trouve à moins de 100 mètres,
+-aucun immeuble de grande hauteur ne se trouve à moins de 100 mètres,
 
-- aucun émetteur radio ou radar, aucun relais téléphonique ou aucune ligne à haute tension ne se situent à moins de 100 mètres.
+-aucun émetteur radio ou radar, aucun relais téléphonique ou aucune ligne à haute tension ne se situent à moins de 100 mètres.
 
 Ces zones sont indiquées sur un plan tenu à jour.
 
@@ -556,17 +556,17 @@ Des consignes d'exploitation et de sécurité sont établies et clairement affic
 
 Elles prévoient notamment :
 
-- les instructions de nettoyage du local en fin de période d'exploitation (évacuation et/ou élimination des produits et des déchets présents et suppression des risques d'incendie et d'explosion notamment) ;
+-les instructions de nettoyage du local en fin de période d'exploitation (évacuation et/ ou élimination des produits et des déchets présents et suppression des risques d'incendie et d'explosion notamment) ;
 
-- l'interdiction d'apporter du feu sous une forme quelconque dans le local ;
+-l'interdiction d'apporter du feu sous une forme quelconque dans le local ;
 
-- l'interdiction de présence de tout téléphone cellulaire sous tension ;
+-l'interdiction de présence de tout téléphone cellulaire sous tension ;
 
-- les conditions de conservation et de stockage des produits, notamment les précautions à prendre pour la prévention du stockage de produits incompatibles ;
+-les conditions de conservation et de stockage des produits, notamment les précautions à prendre pour la prévention du stockage de produits incompatibles ;
 
-- les modalités de mise en œuvre des moyens de protection, d'intervention et d'alerte et les procédures à suivre en cas d'accident ;
+-les modalités de mise en œuvre des moyens de protection, d'intervention et d'alerte et les procédures à suivre en cas d'accident ;
 
-- la conduite à tenir en cas d'incendie, en cas d'orage ou en cas de panne de lumière ou d'énergie ou à l'occasion de tout autre incident susceptible d'entraîner un risque pyrotechnique.
+-la conduite à tenir en cas d'incendie, en cas d'orage ou en cas de panne de lumière ou d'énergie ou à l'occasion de tout autre incident susceptible d'entraîner un risque pyrotechnique.
 
 Par ailleurs, les travaux de réparation ou d'aménagement dans l'installation sont effectués en dehors de la période de son exploitation.
 
@@ -574,9 +574,9 @@ Par ailleurs, les travaux de réparation ou d'aménagement dans l'installation s
 
 L'installation est équipée de moyens de lutte contre l'incendie appropriés aux risques, et notamment :
 
-- d'extincteurs répartis à l'intérieur du local et sur les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
+-d'extincteurs répartis à l'intérieur du local et sur les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
 
-- d'un moyen permettant d'alerter les services d'incendie et de secours.
+-d'un moyen permettant d'alerter les services d'incendie et de secours.
 
 Ces matériels sont maintenus en bon état et sont vérifiés dans la période de deux mois précédant le début de l'exploitation.
 
@@ -586,13 +586,13 @@ Ces matériels sont maintenus en bon état et sont vérifiés dans la période d
 
 Seuls les produits suivants sont stockés dans les réserves mentionnées au présent point :
 
-- produits non détonants, mentionnés par l'arrêté du 25 février 2005 modifié fixant la liste des articles considérés comme pyrotechniques ou munitions en référence à l'article R. 2352-49 du code de la défense, et dont la vente est autorisée en application du décret n° 2010-455 du 4 mai 2010 relatif à la mise sur le marché et au contrôle des produits explosifs ;
+-produits non détonants, mentionnés par l'arrêté du 25 février 2005 modifié fixant la liste des articles considérés comme pyrotechniques ou munitions en référence à l'article R. 2352-49 du code de la défense, et dont la vente est autorisée en application du décret n° 2010-455 du 4 mai 2010 relatif à la mise sur le marché et au contrôle des produits explosifs ;
 
-- poudre noire ;
+-poudre noire ;
 
-- poudre à base de nitrocellulose destinée aux munitions de chasse ;
+-poudre à base de nitrocellulose destinée aux munitions de chasse ;
 
-- équipements entrant dans le champ d'application de la directive 96/98/CE du 20 décembre 1996 relative aux équipements marins.
+-équipements entrant dans le champ d'application de la directive 96/98/ CE du 20 décembre 1996 relative aux équipements marins.
 
 11.2. Exploitation
 
@@ -610,21 +610,21 @@ Les installations de stockage d'explosifs, destinés uniquement à la préventio
 
 12.2. Comportement au feu des bâtiments
 
-Les dispositions des points 2.4.1, 2.4.2 et 2.4.3 ne sont pas applicables aux installations mentionnées au point 12.1.
+Les dispositions des points 2.4.1,2.4.2 et 2.4.3 ne sont pas applicables aux installations mentionnées au point 12.1.
 
 Ces installations présentent les caractéristiques de réaction et de résistance au feu minimales suivantes :
 
-- matériaux : Bs2d0 ;
+-matériaux : Bs2d0 ;
 
-- structure : R 15 ;
+-structure : R 15 ;
 
-- murs extérieurs : REI 15 ;
+-murs extérieurs : REI 15 ;
 
-- murs séparatifs : REI 15 ;
+-murs séparatifs : REI 15 ;
 
-- portes et fermetures : REI 15 ;
+-portes et fermetures : REI 15 ;
 
-- toitures et couvertures de toiture C roof (t3).
+-toitures et couvertures de toiture C roof (t3).
 
 Les justificatifs attestant des propriétés de résistance au feu sont conservés et tenus à disposition de l'inspection des installations classées et des organismes mentionnés au point 1.8.
 
@@ -636,24 +636,24 @@ Uniquement dans une période allant du 1er novembre au 31 mai, en cas de non-dis
 
 Le deuxième alinéa du point 4.3 n'est pas applicable aux installations mentionnées au point 12.1 si :
 
-- aucune installation, bâtiment ou équipement présentant un risque caractérisé d'incendie, d'explosion ou toxique et aucun tiers, à l'exception de personnes présentes sur les pistes de ski, les remontées mécaniques et les chemins de randonnées, ne sont présents dans une zone de 160 mètres autour des locaux de stockage ;
+-aucune installation, bâtiment ou équipement présentant un risque caractérisé d'incendie, d'explosion ou toxique et aucun tiers, à l'exception de personnes présentes sur les pistes de ski, les remontées mécaniques et les chemins de randonnées, ne sont présents dans une zone de 160 mètres autour des locaux de stockage ;
 
-- un débroussaillage et un élagage corrects des arbres sont maintenus dans un rayon de 50 mètres autour des locaux de stockage.
+-un débroussaillage et un élagage corrects des arbres sont maintenus dans un rayon de 50 mètres autour des locaux de stockage.
 
 12.5. Transports
 
 Pour les installations régulièrement mises en service avant le 15 mai 2011 ainsi que dans la seule période allant du 1er novembre au 31 mai pour les installations déclarées après le 15 mai 2011, sans préjudice des dispositions prévues par la réglementation relative au transport de marchandises dangereuses, dans le cas où le chargement ou le déchargement des véhicules de livraison au niveau de l'installation est physiquement impossible, ceux-ci peuvent s'effectuer à partir d'une aire strictement réservée à cet effet, durant tout le temps nécessaire à l'opération, sous réserve du respect des conditions suivantes :
 
-- les produits explosifs sont transportés dans des emballages admis au transport fermés ;
+-les produits explosifs sont transportés dans des emballages admis au transport fermés ;
 
-- lors du chargement ou du déchargement sur l'aire, aucune personne étrangère à cette opération ou à l'exploitation de l'installation ne se trouve à moins d'une distance de 65 mètres ;
+-lors du chargement ou du déchargement sur l'aire, aucune personne étrangère à cette opération ou à l'exploitation de l'installation ne se trouve à moins d'une distance de 65 mètres ;
 
-- durant toute l'opération de déchargement et de transfert, une personne autorisée par l'exploitant est présente en permanence pour s'assurer du bon déroulement des opérations et donner l'alerte le cas échéant ;
+-durant toute l'opération de déchargement et de transfert, une personne autorisée par l'exploitant est présente en permanence pour s'assurer du bon déroulement des opérations et donner l'alerte le cas échéant ;
 
-- l'entreposage sur l'aire de déchargement est limité au temps strictement nécessaire à l'opération de déchargement et de transfert. En aucun cas, les explosifs ne sont laissés sans surveillance ;
+-l'entreposage sur l'aire de déchargement est limité au temps strictement nécessaire à l'opération de déchargement et de transfert. En aucun cas, les explosifs ne sont laissés sans surveillance ;
 
-- le transfert jusqu'au dépôt s'effectue par des chemins identifiés à l'avance et éloignés d'une distance suffisante de toute installation, équipement ou bâtiment présentant un risque caractérisé d'incendie ou d'explosion. Cette distance est au minimum de 30 mètres dans le cas où la quantité transportée est inférieure ou égale à 50 kg et de 40 mètres dans les autres cas ;
+-le transfert jusqu'au dépôt s'effectue par des chemins identifiés à l'avance et éloignés d'une distance suffisante de toute installation, équipement ou bâtiment présentant un risque caractérisé d'incendie ou d'explosion. Cette distance est au minimum de 30 mètres dans le cas où la quantité transportée est inférieure ou égale à 50 kg et de 40 mètres dans les autres cas ;
 
-- les personnes étrangères à l'opération de transfert ou à l'exploitation de l'installation sont tenues éloignées d'une distance suffisante des voies empruntées. Cette distance est au minimum de 30 mètres dans le cas où la quantité transportée est inférieure ou égale à 50 kg et de 40 mètres dans les autres cas ;
+-les personnes étrangères à l'opération de transfert ou à l'exploitation de l'installation sont tenues éloignées d'une distance suffisante des voies empruntées. Cette distance est au minimum de 30 mètres dans le cas où la quantité transportée est inférieure ou égale à 50 kg et de 40 mètres dans les autres cas ;
 
-- les produits incompatibles au sens de l'annexe VI du présent arrêté ne sont pas transportés ensemble.
+-les produits incompatibles au sens de l'annexe VI du présent arrêté ne sont pas transportés ensemble.
