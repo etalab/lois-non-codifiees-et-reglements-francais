@@ -292,7 +292,6 @@
 - [Arrêté du 15 février 1999 (ECOA9920010A)](arrete-du-15-fevrier-1999-ecoa9920010a)
 - [Arrêté du 15 février 1999 (MESP9920536A)](arrete-du-15-fevrier-1999-mesp9920536a)
 - [Arrêté du 15 janvier 1999 (AGRA9900328A)](arrete-du-15-janvier-1999-agra9900328a)
-- [Arrêté du 15 janvier 1999 (AGRS9900141A)](arrete-du-15-janvier-1999-agrs9900141a)
 - [Arrêté du 15 juillet 1999 (EQUH9901061A)](arrete-du-15-juillet-1999-equh9901061a)
 - [Arrêté du 15 juillet 1999 (EQUH9901064A)](arrete-du-15-juillet-1999-equh9901064a)
 - [Arrêté du 15 juillet 1999 (INTC9900354A)](arrete-du-15-juillet-1999-intc9900354a)
