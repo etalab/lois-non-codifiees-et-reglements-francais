@@ -8,7 +8,7 @@ La sous-direction du conseil juridique et du contentieux comprend :
 
 - le bureau du droit de la commande publique ;
 
-- le bureau de la fonction publique et de la protection juridique des fonctionnaires ;
+- le bureau du contentieux statutaire et de la protection juridique des fonctionnaires ;
 
 - le bureau du contentieux indemnitaire et des affaires financières ;
 

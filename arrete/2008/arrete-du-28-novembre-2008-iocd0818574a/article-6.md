@@ -7,3 +7,5 @@ A l'exception du contentieux électoral, elle gère le contentieux de l'ensemble
 Elle exerce une mission de veille des évolutions législatives, réglementaires et jurisprudentielles. Elle prépare les actions d'information et de diffusion de l'actualité du droit à l'ensemble des services du ministère ; elle gère le centre de documentation juridique.
 
 Elle est la correspondante du Défenseur des droits pour le ministère de l'intérieur.
+
+Elle exerce le contrôle de la qualité juridique des actes de la commande publique relevant des services centraux du ministère et les conseille également en cette matière, à tout moment de la procédure.
