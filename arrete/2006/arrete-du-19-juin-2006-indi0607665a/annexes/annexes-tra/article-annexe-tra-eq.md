@@ -36,76 +36,7 @@ n° 156 du 07/07/2006 texte numéro 28
 
 Opération n° TRA-EQ-02
 
-Pneus d'autobus à basse résistance au roulement
-
-1. Secteur d'application
-
-Transport collectif par autobus.
-
-2. Dénomination
-
-Montage  sur l'essieu arrière d'un autobus non articulé ou sur les deux essieux  arrières d'un autobus articulé, de pneus à bande large, à basse  résistance au roulement. Chaque pneu à bande large remplace 2 pneus  simples en monte jumelée.
-
-3. Conditions pour la délivrance de certificats
-
-Les  pneumatiques doivent avoir un gain énergétique supérieur ou égal à 4%  par rapport à l'utilisation de pneus simples en monte jumelée, validé  par un essai réalisé par l'UTAC ou tout autre service technique notifié  auprès de la Commission européenne pour la réalisation des essais  règlementaires automobiles.
-
-Fourniture d'une copie du contrat d'entretien des pneus achetés.
-
-4. Durée de vie conventionnelle
-
-Égale à la durée du contrat d'entretien.
-
-5. Montant de certificats en kWh cumac
-
-<table>
-<tbody>
-<tr>
-<td align="center" rowspan="2"> Durée du contrat (années)</td>
-<td align="center" colspan="2">Montant unitaire en kWh cumac </td>
-</tr>
-<tr>
-<td align="center">Par autobus non articulé </td>
-<td align="center"> Par autobus articulé<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 1</td>
-<td align="center"> 7 600<br/>
-</td>
-<td align="center"> 9 900<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 2</td>
-<td align="center"> 15 000<br/>
-</td>
-<td align="center"> 19 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 3</td>
-<td align="center"> 22 000<br/>
-</td>
-<td align="center"> 29 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 4</td>
-<td align="center"> 29 000<br/>
-</td>
-<td align="center"> 37 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> ≥ 5</td>
-<td align="center"> 35 000<br/>
-</td>
-<td align="center"> 46 000<br/>
-</td>
-</tr>
-</tbody>
-</table>
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -796,45 +727,41 @@ Certificats d'économies d'énergie
 
 Opération n° TRA-EQ-13
 
-Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises
+Lubrifiant économiseur d'énergie pour des véhicules de transport en commun de personnes ou de transport de marchandises
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Poids lourds, autobus et autocars.
+Transport routier professionnel.
 
-2. Dénomination
+2. Dénomination :
 
-Utilisation d'un lubrifiant économiseur d'énergie.
+Utilisation  d'un lubrifiant économiseur d'énergie dans un véhicule de transport en  commun de personnes de catégories M2 ou M3 ou dans un véhicule de  transport de marchandises de catégories N2 ou N3 selon l'article R.  311-1 du code de la route.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-La  performance  Fuel Economy  du lubrifiant (ou gain de consommation du  lubrifiant) doit avoir été mesurée selon l'essai OM501FE par un  laboratoire agréé (cf. la note explicative correspondant à cette fiche),  par rapport à une huile moteur de grade 15W-40 répondant au standard  ACEA E7. Cette performance (Y%) est mesurée en pourcentage et doit être  supérieure ou égale à 1 %.
+La  performance "Fuel Economy" du lubrifiant (ou gain de consommation du  lubrifiant) doit avoir été mesurée selon l'essai OM501 FE par un  laboratoire agréé, par rapport à une huile moteur de grade 15W-40  répondant au standard ACEA E7. Cette performance (Y %) est mesurée en  pourcentage et doit être supérieure ou égale à 1 %.
 
-Le demandeur doit établir le montant des volumes de lubrifiant économiseur d'énergie  utilisés par ses clients.
+Le demandeur doit établir le montant des volumes de lubrifiant économiseur d'énergie utilisés.
 
-Seules les actions engagées à partir du 1er janvier 2010 donnent lieu à la délivrance de certificats d'économies d'énergie.
+4. Durée de vie conventionnelle : 1 an.
 
-4. Durée de vie conventionnelle
+5. Montant de certificats en kWh cumac :
 
-1 an
+48 700*X*Y %
 
-5. Montant de certificats en kWh cumac
+Avec :
 
-48 700 * X * Y%
+X = volume de lubrifiants en m ³.
 
-avec :
+Y % : performance "Fuel Economy" du lubrifiant.
 
-X = volume des ventes de lubrifiants en m3.
+Y % = Y2 % - Y1 %.
 
-Y% : performance "Fuel Economy" du lubrifiant.
+Y1  % : économie de carburant de l'huile de référence 15W-40 ACEA E7  utilisée, mesurée par rapport à l'huile étalon de l'essai OM501 FE (Y1 :  valeur attendue négative).
 
-Y% = Y2% - Y1%
+Y2 % : économie de carburant de  l'huile à tester, mesurée par rapport à l'huile étalon de l'essai OM501  FE (Y2 : valeur attendue positive).
 
-Y1%  : économie de carburant de l'huile de référence 15W-40 ACEA E7  utilisée, mesurée par rapport à l'huile étalon de l'essai OM501FE (Y1 :  valeur attendue négative).
-
-Y2% : économie de carburant de l'huile à  tester, mesurée par rapport à l'huile étalon de l'essai OM501FE (Y2 :  valeur attendue positive).
-
-Exemple : un gain constaté de 1,5 % correspond à 48 700 * 1,5 = 73 050 kWh par mètre cube de lubrifiant vendu.
+Exemple : un gain constaté de 1,5 % correspond à 48 700 * 1,5 = 73 050 kWh par mètre cube de lubrifiant.
 
 Certificats d'économies d'énergie
 
@@ -846,7 +773,7 @@ des véhicules de flottes professionnelles
 
 1. Secteur d'application :
 
-Transports : flotte de véhicules particuliers légers.
+Flottes  professionnelles de véhicules répondant à la définition des voitures  particulières selon l'article R. 311-1 du code de la route.
 
 2. Dénomination :
 
@@ -858,35 +785,31 @@ La  personne qui procède au remplacement des véhicules d'une catégorie de  co
 
 Seuls les véhicules  renouvelés par d'autres véhicules d'une catégorie de consommation  inférieure sont éligibles à la délivrance de certificats.
 
-Le  renouvellement de la flotte est établi à partir des déclarations de  taxe sur les véhicules des sociétés (TVS) annuelle (document CERFA n°  2855, partie I) suivantes :
+Le  renouvellement de la flotte est établi à partir de la déclaration de la  taxe sur les véhicules des sociétés (TVS) annuelle (document Cerfa  numéro 2855, partie I), accompagné d'un tableau synthétique final  décrivant les cessions et acquisitions correspondantes.
 
-- celle de l'année de la vente des véhicules anciens et du rachat des véhicules neufs pour la première déclaration ;
+La  déclaration numéro 2855 permet de déterminer si un véhicule est soumis  ou non au paiement de la TVS et donc s'il est éligible à la délivrance  de certificats selon cette fiche. Notamment, les véhicules loués depuis  moins de trente jours ne paient pas la taxe et ne doivent donc pas être  pris en compte pour la délivrance de certificats.
 
--  pour les demandes ultérieures, en plus du justificatif mentionné  ci-dessus, celle de l'année de la dernière déclaration pour la  délivrance de certificats.
+Enfin, pour  limiter d'éventuelles opérations d'achats/ ventes donnant lieu à un  effet d'aubaine, les véhicules achetés ou vendus entre le 15 septembre  et le 15 octobre (inclus) ne donnent pas droit à la délivrance de  certificats.
 
-La déclaration n° 2855 permet  de déterminer si un véhicule est soumis ou non au paiement de la TVS et  donc s'il est éligible à la délivrance de certificats selon cette  fiche. Notamment, les véhicules loués depuis moins de 30 jours ne paient  pas la taxe et ne doivent donc pas être pris en compte pour la  délivrance de certificats.
-
-Enfin, pour limiter  d'éventuelles opérations d'achats/ventes donnant lieu à un effet  d'aubaine, les véhicules achetés ou vendus entre le 15 septembre et le  15 octobre (inclus) ne donnent pas droit à la délivrance de certificats.
+Si le rôle actif et incitatif du demandeur prend  effet à une date intermédiaire à celle du contenu de la déclaration,  seuls les véhicules faisant l'objet d'une transaction (mise en  circulation ou restitution) à partir de cette date sont pris en compte.
 
 4. Durée de vie conventionnelle : 3 ans (location longue durée : LLD) et 8 ans (flottes privées d'entreprises).
 
 5. Montant de certificats en kWh cumac :
 
-Pour  évaluer l'économie d'énergie réalisée, il faut établir la moyenne de la  consommation de la flotte revendue et celle de la flotte nouvellement  immatriculée. Le principe de calcul ci-dessous ne s'applique qu'à des  véhicules effectivement remplacés par d'autres véhicules de catégories  de consommation inférieures.
+Pour  évaluer l'économie d'énergie réalisée, il faut établir la moyenne de la  consommation de la flotte revendue et celle de la flotte nouvellement  immatriculée. Le principe de calcul ci-dessous ne s'applique qu'à des  véhicules effectivement remplacés par d'autres véhicules de catégories  de consommation inférieures. Soit :
 
-Soit :
-
-C = [0,60 × NA + 0,73 × NB + 0,87 × NC + ND + 1,2 × NE + 1,5 × NF + 1,83 × NG]/N
+C = [0,60 × NA + 0,73 × NB + 0,87 × NC + ND + 1,2 × NE + 1,5 × NF + 1,83 × NG]/ N
 
 Avec :
 
--  NX, le nombre de véhicules de la classe X (X varie de A à F), remplacés  par des véhicules de catégories de consommation inférieures au sein de  la flotte ;
+-  NX, le nombre de véhicules de la classe X (X varie de A à F), remplacés  par des véhicules de catégories de consommation inférieures au sein de  la flotte :
 
 - N, la somme des NX.
 
 La variation de consommation moyenne P (en %) vaut :
 
-P = [(Ci - Cf)/Ci] × 100
+P = [[Ci - Cf]/ Ci] × 100
 
 Avec :
 
@@ -894,44 +817,181 @@ Avec :
 
 - Cf, la consommation de la flotte finale nouvellement immatriculée.
 
-Le montant de certificats à attribuer est :
+Le montant de certificats à attribuer correspond au calcul suivant : 600 × P × N.
+
+Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules de  la flotte cédée comme pour ceux de la flotte acquise. Cette feuille de  calcul est disponible sur le site internet de la direction générale de  l'énergie et du climat du ministère chargé de l'énergie, elle donne le  résultat final du calcul sous cette forme (exemple pour 14 véhicules) :
 
 <table>
 <tbody>
 <tr>
-<th>MONTANT<br/>(en kWh cumac)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>POURCENTAGE<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>NOMBRE DE VÉHICULES<br/>
-</th>
+<td align="center">Cessions retenues  </td>
+<td align="center"> 0</td>
+<td align="center">0<br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">13 <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+<td align="center">0<br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">14 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">600<br/>
+<td align="center"> Acquisitions retenues </td>
+<td align="center">0 <br/>
 </td>
-<td align="center">×<br/>
+<td align="center">0 <br/>
 </td>
-<td align="center">P %<br/>
+<td align="center">13 <br/>
 </td>
-<td align="center">×<br/>
+<td align="center">1 <br/>
 </td>
-<td align="center">N<br/>
+<td align="center">0 <br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">14 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>Ci  </td>
+<td>14,2 <br/>
+</td>
+</tr>
+<tr>
+<td>Cf </td>
+<td> 12,3</td>
+</tr>
+<tr>
+<td>P % </td>
+<td> 13,3</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td align="center">kWh cumac  </td>
+<td align="center">111 803 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules de  la flotte vendue comme pour ceux de la flotte achetée. Cette feuille de  calcul est disponible sur le site internet de la direction générale de  l'énergie et du climat du ministère chargé de l'énergie.
+Pour la déclaration, il convient de prendre en compte le chiffre figurant dans la case jaune.
 
+<table>
+<tbody>
+<tr>
+<td align="center">Montant en kWh cumac  </td>
+<td align="center">Résultat final donné <br/>par la feuille de calcul  </td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-EQ-15
+
+Tracteur routier optimisé
+
+1. Secteur d'application :
+
+Transport routier professionnel.
+
+2. Dénomination :
+
+Remplacement  d'un tracteur routier pour véhicule articulé existant par un tracteur  routier pour véhicule articulé neuf optimisé (le tracteur optimisé doit  avoir un poids total roulant autorisé supérieur à 40 tonnes).
+
+3. Conditions pour la délivrance de certificats :
+
+Le  tracteur routier neuf optimisé respecte les normes environnementales en  vigueur, à savoir Euro 5, et comporte les trois technologies suivantes :
+
+- boîte de vitesse robotisée ;
+
+- équipements pour l'aérodynamisme : déflecteur toit, carénage latéral de l'interface et carénage latéral du châssis tracteur ;
+
+-  pneus basse résistance au roulement : ils doivent avoir une  classification énergétique au moins égale à C ainsi qu'une  classification en adhérence sur sol mouillé au moins égale à C  (classification au sens du règlement européen n° 1222/2009).
+
+Le demandeur présente :
+
+-  la facture d'achat du tracteur routier optimisé indiquant et détaillant  les trois technologies demandées (pneus basse résistance au roulement  de classification énergétique au moins égale à C ainsi qu'une  classification en adhérence sur sol mouillé au moins égale à C ; pack  aérodynamisme précisant les équipements installés qui sont au minimum :  déflecteur de toit, carénage latéral de l'interface et carénage latéral  du châssis tracteur ; boîte de vitesse robotisée) ;
+
+- une copie de sa nouvelle carte grise ;
+
+-  une copie de la carte grise barrée du tracteur routier remplacé et si  celui-ci a une date de première mise en circulation antérieure au 1er  janvier 1996, l'attestation de mise à la casse du véhicule.
+
+Valable pour les opérations engagées jusqu'au 30 décembre 2013 (la veille de la mise en place d'Euro 6).
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">ANNÉE DE MISE EN CIRCULATION <br/>du tracteur routier existant  </td>
+<td align="center">MONTANT <br/>en kWh cumac/ tracteur routier  </td>
+<td align="center"/>
+<td align="center">NOMBRE DE TRACTEURS ROUTIERS <br/>existants remplacés <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Jusqu'à 1992  </td>
+<td align="center">850   000  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 1993 à 1995 </td>
+<td align="center">570   000  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 1996 à 2000 </td>
+<td align="center">460   000  </td>
+<td align="center">x <br/>
+</td>
+<td align="center">N <br/>
+</td>
+</tr>
+<tr>
+<td align="center">2001 à 2005  </td>
+<td align="center">330   000  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">2006 à 2008  </td>
+<td align="center">220   000  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">2009 à 2011  </td>
+<td align="center">150   000  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
 <div>
 <br/>
 </div>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <br/>
 </div>

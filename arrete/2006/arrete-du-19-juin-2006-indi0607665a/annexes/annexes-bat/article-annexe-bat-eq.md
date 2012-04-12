@@ -1,57 +1,51 @@
 # Article Annexe BAT-EQ
 
-<div align="center"/>
-<div align="left"/>
-<div align="left"/>
-<div align="center"/>
-<div align="center"/>
-<div align="left">Certificats d'économies d'énergie </div>
-<div align="left">
-<p>Opération n° BAT-EQ-01</p>
-<p>Luminaire pour tube fluorescent T5 électronique<br/>avec ou sans dispositif de contrôle<br/>
-</p>
-</div>
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-01
+
+Luminaire pour tube fluorescent T5 électronique
+
+avec ou sans dispositif de contrôle
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux du  secteur tertiaire existants réservés à une utilisation professionnelle.
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
 
 2. Dénomination :
 
-Installation  d'un luminaire équipé de  tube(s) fluorescent(s) T5 (diamètre 16 mm) et  de ballast(s) électronique(s),  associés ou non à un dispositif de  contrôle utilisant la détection de présence  ou la variation de lumière.
+Installation  d'un luminaire équipé de tube (s) fluorescent (s) T5 (diamètre 16 mm)  et de ballast (s) électronique (s), associés ou non à un dispositif de  contrôle utilisant la détection de présence ou la variation de lumière.
 
-3. Conditions pour la délivrance de  certificats :
+3. Conditions pour la délivrance de certificats :
 
 Sans objet.
 
-4. Durée de vie  conventionnelle :
+4. Durée de vie conventionnelle :
 
 12 ans pour les commerces.
 
-15 ans  pour les bureaux, enseignement, santé.
+15 ans pour les bureaux, l'enseignement, la santé.
 
-5. Montant de certificats  en kWh cumac :
+12 ans pour les autres secteurs.
 
-<div align="center">
+5. Montant de certificats en kWh cumac :
 
+<div align="left">
+<br/>
+</div>
+<div align="left">
+<br/>
 <table>
 <tbody>
 <tr>
-<th>BRANCHE<br/>d'activité<br/>
-</th>
-<th colspan="3">MONTANT<br/>(en kWh cumac/luminaire)<br/>
-</th>
+<td align="center" rowspan="2"> SECTEUR D'ACTIVITÉ </td>
+<td align="center" colspan="3">MONTANT EN kWh CUMAC/ LUMINAIRE  </td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th>Sans gestion automatique<br/>
-</th>
-<th>kWh cumac si contrôle détection présence ou variation de lumière<br/>
-</th>
-<th>kWh cumac si contrôle détection présence + variation de lumière<br/>
-</th>
+<td align="center">Sans gestion automatique  </td>
+<td align="center"> Si contrôle détection présence <br/>ou variation de lumière </td>
+<td align="center">Si contrôle détection présence <br/>+ variation de lumière <br/>
+</td>
 </tr>
 <tr>
 <td align="center">Bureaux<br/>
@@ -84,7 +78,7 @@ Sans objet.
 </td>
 </tr>
 <tr>
-<td align="center">Etablissements de soins<br/>
+<td align="center">Santé <br/>
 </td>
 <td align="center">1 600<br/>
 </td>
@@ -93,9 +87,15 @@ Sans objet.
 <td align="center">2 300<br/>
 </td>
 </tr>
+<tr>
+<td align="center">Autres secteurs  </td>
+<td align="center"> 540</td>
+<td align="center"> 650</td>
+<td align="center">760 <br/>
+</td>
+</tr>
 </tbody>
 </table>
-
 </div>
 
 Certificats d'économies d'énergie
@@ -250,9 +250,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-08
 
-Luminaire pour lampe iodure métallique céramique
+Luminaire pour lampe iodure métallique
 
-à ballast électronique
+céramique à ballast électronique
 
 1. Secteur d'application :
 
@@ -268,17 +268,132 @@ Installation réalisée par un professionnel.
 
 4. Durée de vie conventionnelle :
 
-12 ans pour les commerces ; 15 ans pour les autres bâtiments.
+12 ans pour les commerces.
+
+15 ans pour les bureaux, l'enseignement, l'hôtellerie, la restauration et la santé.
+
+12 ans pour les autres secteurs.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="4"> INSTALLATION LUMINAIRE POUR LAMPE IODURES MÉTALLIQUES CÉRAMIQUE, <br/>avec ballast électronique, d'une puissance ≤ 35 W <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Secteur d'activité  </td>
+<td align="center"> Sans gestion de l'éclairage </td>
+<td align="center"> Si détection présence <br/>ou variation de lumière </td>
+<td align="center">Si détection présence <br/>+ variation de lumière  </td>
+</tr>
+<tr>
+<td align="center">Bureaux  </td>
+<td align="center">620  </td>
+<td align="center">750  </td>
+<td align="center">870  </td>
+</tr>
+<tr>
+<td align="center">Enseignement  </td>
+<td align="center">450  </td>
+<td align="center">540  </td>
+<td align="center">630  </td>
+</tr>
+<tr>
+<td align="center">Commerces  </td>
+<td align="center">800  </td>
+<td align="center">970  </td>
+<td align="center"> 1   100 </td>
+</tr>
+<tr>
+<td align="center">Hôtellerie, restauration  </td>
+<td align="center">750  </td>
+<td align="center">900  </td>
+<td align="center">1   000  </td>
+</tr>
+<tr>
+<td align="center">Santé  </td>
+<td align="center">1   400  </td>
+<td align="center">1   600  </td>
+<td align="center">1   900  </td>
+</tr>
+<tr>
+<td align="center"> Autres secteurs </td>
+<td align="center">450  </td>
+<td align="center">540 </td>
+<td align="center">630  </td>
+</tr>
+</tbody>
+</table>
 
-n° 303 du 31/12/2006 texte numéro 60
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 303 du 31/12/2006 texte numéro 60
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="4">INSTALLATION LUMINAIRE POUR LAMPE IODURES MÉTALLIQUES CÉRAMIQUE, <br/>avec ballast électronique, d'une puissance &gt; 35 W <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Secteur d'activité  </td>
+<td align="center"> Sans gestion de l'éclairage </td>
+<td align="center"> Si détection présence <br/>ou variation de lumière </td>
+<td align="center">Si détection présence <br/>+ variation de lumière  </td>
+</tr>
+<tr>
+<td align="center">Bureaux  </td>
+<td align="center">4   400  </td>
+<td align="center">5 300 <br/>
+</td>
+<td align="center">6 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Enseignement  </td>
+<td align="center">3   200 <br/>
+</td>
+<td align="center"> 3 900<br/>
+</td>
+<td align="center"> 4 500<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Commerces  </td>
+<td align="center">5 700 <br/>
+</td>
+<td align="center"> 6 900<br/>
+</td>
+<td align="center"> 8 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Hôtellerie, restauration  </td>
+<td align="center"> 5 300<br/>
+</td>
+<td align="center"> 6 400<br/>
+</td>
+<td align="center"> 7 500<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Santé  </td>
+<td align="center">  9 800<br/>
+</td>
+<td align="center"> 12 000<br/>
+</td>
+<td align="center"> 14 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"> Autres secteurs </td>
+<td align="center"> 3 200<br/>
+</td>
+<td align="center"> 3 900<br/>
+</td>
+<td align="center"> 4 500<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 Certificats d'économies d'énergie
 
@@ -294,7 +409,7 @@ Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une ut
 
 2. Dénomination :
 
-Installation d'un luminaire pour lampes fluorescentes compactes à ballast électronique séparé.
+Installation d'un luminaire pour lampe fluorescente compacte à ballast électronique séparé.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -304,13 +419,58 @@ Installation réalisée par un professionnel.
 
 12 ans pour les commerces.
 
-15 ans pour les bureaux, l'enseignement, la santé, l'hôtellerie-restauration.
+15 ans pour les bureaux, l'enseignement, l'hôtellerie, la restauration et la santé.
+
+12 ans pour les autres secteurs.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 303 du 31/12/2006 texte numéro 60
+<table>
+<tbody>
+<tr>
+<td align="center">SECTEUR D'ACTIVITÉ  </td>
+<td align="center">SANS AUTOMATISMES  </td>
+<td align="center"> AVEC CONTRÔLE DÉTECTION PRÉSENCE <br/>ou variation de lumière </td>
+<td align="center">AVEC CONTRÔLE DÉTECTION PRÉSENCE <br/>+ variation de lumière  </td>
+</tr>
+<tr>
+<td align="center">Bureaux  </td>
+<td align="center">700  </td>
+<td align="center">840  </td>
+<td align="center">1   000  </td>
+</tr>
+<tr>
+<td align="center"> Enseignement </td>
+<td align="center">500  </td>
+<td align="center">610  </td>
+<td align="center">710  </td>
+</tr>
+<tr>
+<td align="center">Commerces  </td>
+<td align="center">900  </td>
+<td align="center">1   100  </td>
+<td align="center">1   300  </td>
+</tr>
+<tr>
+<td align="center">Hôtellerie, restauration  </td>
+<td align="center">840  </td>
+<td align="center"> 1   000</td>
+<td align="center">1   200  </td>
+</tr>
+<tr>
+<td align="center">Santé  </td>
+<td align="center">1   500  </td>
+<td align="center">1   800  </td>
+<td align="center">2   100  </td>
+</tr>
+<tr>
+<td align="center">Autres secteurs  </td>
+<td align="center">500  </td>
+<td align="center">610  </td>
+<td align="center">710  </td>
+</tr>
+</tbody>
+</table>
 
 <div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-10</p>
 <p>Bloc autonome d'éclairage<br/>de sécurité à  faible consommation<br/>
@@ -1227,6 +1387,82 @@ Mise en place réalisée par un professionnel.
 <td>
 <p align="center">L</p>
 </td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-25
+
+Fermetures des meubles frigorifiques
+
+de vente à température négative
+
+1. Secteur d'application :
+
+Locaux   existants de distribution alimentaire de produits surgelés tels que :   hypermarchés, supermarchés, magasins de proximité, etc.
+
+2. Dénomination :
+
+Cette   opération standardisée concerne les meubles frigorifiques de vente   horizontaux à température négative dans les bâtiments existants pour les   améliorations suivantes :
+
+- installation de kits de couvercles en verre sur des meubles existants ; ou
+
+- installation de meubles neufs, équipés de couvercles en verre.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+Le   bénéficiaire fournit l'attestation que l'opération concerne des  meubles  frigorifiques de vente de type horizontaux et à température  négative et  précise :
+
+- l'architecture du meuble (simple, double, combi) ;
+
+- la position du groupe de production : soit logé soit à groupe déporté.
+
+4. Durée de vie conventionnelle : 7 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">TYPE DE MEUBLE  </td>
+<td align="center"> MONTANT EN kWh CUMAC <br/>pour un mètre </td>
+<td align="center"/>
+<td align="center" colspan="2">COEFFICIENT MULTIPLICATEUR  </td>
+<td align="center"/>
+<td align="center">LONGUEUR EN MÈTRES <br/>de meubles frigorifiques <br/>équipés de couvercles  </td>
+</tr>
+<tr>
+<td align="center">Simple  </td>
+<td align="center">27   200  </td>
+<td align="center"/>
+<td align="center">Groupe logé  </td>
+<td align="center">0,7 <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Double  </td>
+<td align="center">33   300  </td>
+<td align="center">×  </td>
+<td align="center">Groupe déporté  </td>
+<td align="center"> 1</td>
+<td align="center">x <br/>
+</td>
+<td align="center"> L</td>
+</tr>
+<tr>
+<td align="center">Combi  </td>
+<td align="center">5   800  </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>

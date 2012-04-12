@@ -1,6 +1,8 @@
 # Article Annexe BAR-TH
 
-<div align="left"/>
+<div align="left">
+<br/>
+</div>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
@@ -158,12 +160,11 @@ L'installateur doit, à la date de la réalisation de l'opération :
 PES est la production d'énergie solaire annuelle.
 
 <div align="center"/>
-
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° BAR-TH-03
 
-Pompe à chaleur de type eau/eau
+Pompe à chaleur de type eau/ eau
 
 1. Secteur d'application :
 
@@ -171,23 +172,23 @@ Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 pour une  température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La  pompe à chaleur a une certification NF PAC ou un label EHPA ou  l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou un label EHPA ou  l'Ecolabel européen ou des caractéristiques de performance et de qualité  équivalentes établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de l'European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -199,22 +200,23 @@ Pour une maison individuelle :
 <table>
 <tbody>
 <tr>
-<th>COP<br/>
+<th>COP <br/>
 </th>
 <th>ZONE<br/>climatique<br/>
 </th>
-<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
-</th>
+<th>MONTANT UNITAIRE<br/>en kWh cumac</th>
 <th>
 <br/>
 </th>
 <th>FACTEUR<br/>correctif<br/>
 </th>
-<th>SURFACE HABITABLE<br/>(m²)<br/>
+<th>SURFACE <br/>habitable (m ²)<br/>
 </th>
 </tr>
 <tr>
-<td align="center">3,5 &gt; COP ≥ 3,4<br/>
+<td align="center" rowspan="3">3,5 &gt; COP ≥ 3,4<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -229,9 +231,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">130 000<br/>
@@ -244,9 +243,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">84 000<br/>
@@ -260,7 +256,9 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">4 &gt; COP ≥ 3,5<br/>
+<td align="center" rowspan="3">4 &gt; COP ≥ 3,5<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -275,9 +273,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">130 000<br/>
@@ -291,9 +286,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">87 000<br/>
@@ -307,7 +299,9 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">COP ≥ 4<br/>
+<td align="center" rowspan="3">COP ≥ 4<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -324,9 +318,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">140 000<br/>
@@ -342,9 +333,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">91 000<br/>
@@ -375,11 +363,11 @@ Pour une maison individuelle :
 </th>
 <th>ZONE CLIMATIQUE<br/>
 </th>
-<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
-</th>
+<th colspan="4">MONTANT UNITAIRE EN kWh CUMAC </th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>3,5 &gt; COP ≥ 3,4<br/>
 <br/>
 </td>
 <td align="center">H1<br/>
@@ -388,24 +376,20 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">3,5 &gt; COP ≥ 3,4<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">53 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">35 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>4 &gt; COP ≥ 3,5<br/>
 <br/>
 </td>
 <td align="center">H1<br/>
@@ -414,24 +398,20 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">4 &gt; COP ≥ 3,5<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">54 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">36 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>COP ≥ 4<br/>
 <br/>
 </td>
 <td align="center">H1<br/>
@@ -440,17 +420,12 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">COP ≥ 4<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">57 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">38 000<br/>
@@ -482,11 +457,11 @@ Pour une maison individuelle :
 <div align="left"/>
 <div align="center"/>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° BAR-TH-04
 
-Pompe à chaleur de type air/eau
+Pompe à chaleur de type air/ eau
 
 1. Secteur d'application :
 
@@ -494,23 +469,23 @@ Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type air / eau.
+Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 pour une  température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Ecolabel européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/ CEI 17025  et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de l'European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -525,18 +500,19 @@ Pour une maison individuelle :
 </th>
 <th>ZONE<br/>climatique<br/>
 </th>
-<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
-</th>
+<th>MONTANT UNITAIRE<br/>en kWh cumac</th>
 <th>
 <br/>
 </th>
 <th>FACTEUR<br/>correctif<br/>
 </th>
-<th>SURFACE HABITABLE<br/>(m²)<br/>
+<th>SURFACE <br/>habitable (m²)<br/>
 </th>
 </tr>
 <tr>
-<td align="center">3,5 &gt; COP ≥ 3,4<br/>
+<td align="center" rowspan="3">3,5 &gt; COP ≥ 3,4<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -551,14 +527,12 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">120 000<br/>
 </td>
-<td align="center">×<br/>
+<td align="center">
+<br/>
 </td>
 <td align="center">0,4<br/>
 </td>
@@ -566,23 +540,20 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">80 000<br/>
 </td>
-<td align="center">
-<br/>
-</td>
+<td align="center"> ×</td>
 <td align="center">0,7<br/>
 </td>
 <td align="center">60 ≤ S &lt; 80<br/>
 </td>
 </tr>
 <tr>
-<td align="center">4 &gt; COP ≥ 3,5<br/>
+<td align="center" rowspan="3">4 &gt; COP ≥ 3,5<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -597,9 +568,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">120 000<br/>
@@ -613,9 +581,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">83 000<br/>
@@ -629,7 +594,9 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">COP ≥ 4<br/>
+<td align="center" rowspan="3">COP ≥ 4<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -646,9 +613,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">130 000<br/>
@@ -664,9 +628,6 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">86 000<br/>
@@ -686,8 +647,7 @@ Pour une maison individuelle :
 
 Pour un appartement :
 
-<div align="center">
-
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -695,11 +655,12 @@ Pour un appartement :
 </th>
 <th>ZONE CLIMATIQUE<br/>
 </th>
-<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+<th colspan="4">MONTANT UNITAIRE EN kWh CUMAC <br/>
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>3,5 &gt; COP ≥ 3,4<br/>
 <br/>
 </td>
 <td align="center">H1<br/>
@@ -708,24 +669,20 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">3,5 &gt; COP ≥ 3,4<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">50 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">33 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>4 &gt; COP ≥ 3,5<br/>
 <br/>
 </td>
 <td align="center">H1<br/>
@@ -734,24 +691,20 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">4 &gt; COP ≥ 3,5<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">52 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">35 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>COP ≥ 4<br/>
 <br/>
 </td>
 <td align="center">H1<br/>
@@ -760,17 +713,12 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">COP ≥ 4<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">54 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">36 000<br/>
@@ -778,7 +726,9 @@ Pour un appartement :
 </tr>
 </tbody>
 </table>
-
+</div>
+<div align="left">
+<br/>
 </div>
 
 <div align="center">
@@ -3796,11 +3746,13 @@ Le montant est exprimé par m² de Plancher Rayonnant Électrique ou de Plafond 
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
-<div align="left"/>Certificats d'économies d'énergie
+<div align="left"/>
+
+Certificats d'économies d'énergie
 
 Opération n° BAR-TH-29
 
-Pompe à chaleur de type air/air
+Pompe à chaleur de type air/ air
 
 1. Secteur d'application :
 
@@ -3808,23 +3760,23 @@ Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type air/air.
+Mise en place d'une pompe à chaleur (PAC) de type air/ air.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de Performance (COP), mesuré selon la norme EN 14511-2 : 2011 pour une  température d'évaporation de 7 °C et une température de sortie d'air de  20 °C, égal ou supérieur à 3,4.
+Coefficient  de performance (COP), mesuré selon la norme EN 14511-2 pour une  température d'évaporation de 7° C et une température de sortie d'air de  20° C, égal ou supérieur à 3,4.
 
-La pompe à chaleur a une  certification NF PAC ou Eurovent ou un label EHPA ou l'Eco-label  européen ou des caractéristiques de performance et de qualité  équivalentes établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de European co-operation for Accreditation  (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une  certification NF PAC ou Eurovent ou un label EHPA ou l'Ecolabel européen  ou des caractéristiques de performance et de qualité équivalentes  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de L'European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la date de réalisation de l'opération :
+Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-1° Être titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -3839,18 +3791,19 @@ Pour une maison individuelle :
 </th>
 <th>ZONE<br/>climatique<br/>
 </th>
-<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
-</th>
+<th>MONTANT UNITAIRE<br/>en kWh cumac</th>
 <th>
 <br/>
 </th>
 <th>FACTEUR<br/>correctif<br/>
 </th>
-<th>SURFACE CHAUFFÉE<br/>(m²)<br/>
+<th>SURFACE <br/>chauffée (m²)<br/>
 </th>
 </tr>
 <tr>
-<td align="center">3,6 &gt; COP ≥ 3,4<br/>
+<td align="center" rowspan="3">3,6 &gt; COP ≥ 3,4<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -3865,14 +3818,12 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">98 000<br/>
 </td>
-<td align="center">×<br/>
+<td align="center">
+<br/>
 </td>
 <td align="center">0,4<br/>
 </td>
@@ -3880,16 +3831,11 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">65 000<br/>
 </td>
-<td align="center">
-<br/>
-</td>
+<td align="center"> ×</td>
 <td align="center">0,7<br/>
 </td>
 <td align="center">60 ≤ S &lt; 80<br/>
@@ -3954,18 +3900,19 @@ Pour un appartement :
 </th>
 <th>ZONE<br/>climatique<br/>
 </th>
-<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
-</th>
+<th>MONTANT UNITAIRE<br/>en kWh cumac</th>
 <th>
 <br/>
 </th>
 <th>FACTEUR<br/>correctif<br/>
 </th>
-<th>SURFACE CHAUFFÉE<br/>(m²)<br/>
+<th>SURFACE <br/>chauffée (m²)<br/>
 </th>
 </tr>
 <tr>
-<td align="center">3,6 &gt; COP ≥ 3,4<br/>
+<td align="center" rowspan="3">3,6 &gt; COP ≥ 3,4<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -3980,14 +3927,12 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">38 000<br/>
 </td>
-<td align="center">×<br/>
+<td align="center">
+<br/>
 </td>
 <td align="center">0,7<br/>
 </td>
@@ -3995,23 +3940,20 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">25 000<br/>
 </td>
-<td align="center">
-<br/>
-</td>
+<td align="center"> ×</td>
 <td align="center">1<br/>
 </td>
 <td align="center">60 ≤ S &lt; 80<br/>
 </td>
 </tr>
 <tr>
-<td align="center">COP ≥ 3,6<br/>
+<td align="center" rowspan="3">COP ≥ 3,6<br/>
+<br/>
+<br/>
 </td>
 <td align="center">H1<br/>
 </td>
@@ -4026,9 +3968,6 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">40 000<br/>
@@ -4042,9 +3981,6 @@ Pour un appartement :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">H3<br/>
 </td>
 <td align="center">27 000<br/>
@@ -5272,40 +5208,49 @@ Une attestation de dépose de l'ancien climatiseur doit être fournie par le pro
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-42
 
 Accumulateur d'eau chaude à condensation
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un accumulateur d'eau chaude à condensation.
 
-3. Conditions pour la délivrance de certificats
-
-Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 21 ans.
 
-21 ans
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <div/>
 <div>
 <table>
 <tbody>
 <tr>
-<td align="center">Montant en kWh cumac pour un appartement  </td>
+<td align="center">
+<p>MONTANT EN kWh CUMAC  </p>
+<p>pour un appartement  </p>
+</td>
 <td align="center"/>
-<td align="center">Nombre d'appartements </td>
+<td align="center">
+<p>NOMBRE  </p>
+<p>d'appartements </p>
+</td>
 </tr>
 <tr>
 <td align="center"> 25 000</td>
@@ -6436,6 +6381,263 @@ Mise en place réalisée par un professionnel.
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie </div>
+
+Opération n° BAR-TH-54
+
+Récupération instantanée de chaleur sur eaux grises
+
+pour la production d'eau chaude sanitaire
+
+1. Secteur d'application :
+
+Bâtiment résidentiel existant.
+
+2. Dénomination :
+
+Mise en place d'un système de récupération instantanée de la chaleur des eaux grises pour la production d'eau chaude sanitaire.
+
+La technologie est applicable à une production d'eau chaude sanitaire collective et/ ou individuelle.
+
+3. Conditions pour la délivrance de certificats :
+
+La  technologie prescrite doit avoir un taux d'efficacité nominal Teff,  supérieur ou égal à 15 %, établi selon les conditions données par le  constructeur, par un laboratoire établi dans l'Espace économique  européen et accrédité selon la norme NF EN ISO/ CEI 17025 par le Comité  français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de l'European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur atteste que le montage de l'installation est configuré en débits égaux ou inégaux.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montage en débits inégaux :
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="6">MONTANT EN kWh CUMAC POUR UNE UNITÉ D'HABITATION  </td>
+<td align="center"/>
+<td align="center">NOMBRE <p>d'unités d'habitation </p>
+</td>
+</tr>
+<tr>
+<td align="center">Zone  </td>
+<td align="center">Source d'énergie <p>pour l'ECS </p>
+</td>
+<td align="center">15 % ≤ Teff ≤ 25 % </td>
+<td align="center">25 % &lt; Teff ≤ 50 % </td>
+<td align="center">50 % &lt; Teff ≤ 75 % </td>
+<td align="center">75 % &lt; Teff ≤ 100 % </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center" rowspan="2"> H1 </td>
+<td align="center">Combustibles  </td>
+<td align="center">3   500 <br/>
+</td>
+<td align="center">8 200 <br/>
+</td>
+<td align="center">15 200 <br/>
+</td>
+<td align="center"> 21 000<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Electricité  </td>
+<td align="center">2   300 <br/>
+</td>
+<td align="center"> 5 400<br/>
+</td>
+<td align="center"> 10 000<br/>
+</td>
+<td align="center"> 13 800<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center" rowspan="2">H2 <br/>
+</td>
+<td align="center"> Combustibles </td>
+<td align="center">3   300  </td>
+<td align="center"> 7 600<br/>
+</td>
+<td align="center"> 14 200<br/>
+</td>
+<td align="center"> 19 600<br/>
+</td>
+<td align="center">×  </td>
+<td align="center"> N </td>
+</tr>
+<tr>
+<td align="center">Electricité   <br/>
+</td>
+<td align="center">2   200  </td>
+<td align="center"> 5 000<br/>
+</td>
+<td align="center"> 9 300<br/>
+</td>
+<td align="center"> 12 900<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center" rowspan="2">H3 <br/>
+</td>
+<td align="center"> Combustibles </td>
+<td align="center">2   900  </td>
+<td align="center"> 6 800<br/>
+</td>
+<td align="center"> 12 700<br/>
+</td>
+<td align="center"> 17 500<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Electricité   <br/>
+</td>
+<td align="center">1   900  </td>
+<td align="center"> 4 500<br/>
+</td>
+<td align="center"> 8 300<br/>
+</td>
+<td align="center"> 11 500<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+<div align="center">
+
+</div>
+
+Montage en débits égaux :
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="6">MONTANT EN kWh CUMAC POUR UNE UNITÉ D'HABITATION  </td>
+<td align="center"/>
+<td align="center">NOMBRE <p>d'unités d'habitation </p>
+</td>
+</tr>
+<tr>
+<td align="center">Zone  </td>
+<td align="center">Source d'énergie <p>pour l'ECS </p>
+</td>
+<td align="center">15 % ≤ Teff ≤ 25 % </td>
+<td align="center">25 % &lt; Teff ≤ 50 % </td>
+<td align="center">50 % &lt; Teff ≤ 75 % </td>
+<td align="center">75 % &lt; Teff ≤ 100 % </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center" rowspan="2"> H1 </td>
+<td align="center">Combustibles  </td>
+<td align="center"> 4 700<br/>
+</td>
+<td align="center">  10 900<br/>
+</td>
+<td align="center">20 300 <br/>
+</td>
+<td align="center">  28 000<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Electricité  </td>
+<td align="center"> 3 100<br/>
+</td>
+<td align="center">  7 200<br/>
+</td>
+<td align="center">  13 300<br/>
+</td>
+<td align="center">  18 400<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center" rowspan="2">H2 <br/>
+</td>
+<td align="center"> Combustibles </td>
+<td align="center">   4 400<br/>
+</td>
+<td align="center">  10 200<br/>
+</td>
+<td align="center">  18 900<br/>
+</td>
+<td align="center">  26 200<br/>
+</td>
+<td align="center">×  </td>
+<td align="center"> N </td>
+</tr>
+<tr>
+<td align="center">Electricité   <br/>
+</td>
+<td align="center">   2 900<br/>
+</td>
+<td align="center">  6 700<br/>
+</td>
+<td align="center">  12 400<br/>
+</td>
+<td align="center">  17 200<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center" rowspan="2">H3 <br/>
+</td>
+<td align="center"> Combustibles </td>
+<td align="center"> 3 900<br/>
+</td>
+<td align="center">  9100</td>
+<td align="center">  16 900<br/>
+</td>
+<td align="center">  23 400<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Electricité   <br/>
+</td>
+<td align="center">  2 600<br/>
+</td>
+<td align="center">  6 000<br/>
+</td>
+<td align="center">  11 100<br/>
+</td>
+<td align="center">  15 400<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+Le  nombre d'unités d'habitation (N) représente le nombre de maisons  individuelles ou le nombre d'appartements desservis par l'installation.
+
+<div>
+<br/>
+</div>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>

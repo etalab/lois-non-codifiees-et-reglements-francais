@@ -178,11 +178,17 @@ Montant unitaire en kWh cumac/kW :
 
 P = Puissance nominale du moteur.
 
+<div align="left">
+<br clear="none"/>
+</div>
+
 Certificats d'économies d'énergie
 
 Opération n° IND-UT-04
 
-Economiseur sur les effluents gazeux de chaudière de production de vapeur
+Economiseur sur les effluents gazeux
+
+de chaudière de production de vapeur
 
 1. Secteur d'application :
 
@@ -190,22 +196,56 @@ Industrie.
 
 2. Dénomination :
 
-Installation d'un économiseur sur les effluents gazeux de chaudière de  production de vapeur de puissance comprise entre 1 et 10 MW alimentées  au gaz naturel ou au GPL (hors chaudière de secours).
+Installation  d'un économiseur sur les effluents gazeux de chaudières de production  de vapeur de puissance comprise entre 1 et 10 MW alimentées au gaz  naturel ou au GPL (hors chaudière de secours).
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-7 ans.
+4. Durée de vie conventionnelle : 7 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 303 du 31/12/2006 texte numéro 60
-
+<table>
+<tbody>
+<tr>
+<td align="center" rowspan="2">COMBUSTIBLE UTILISÉ <br clear="none"/>pour le fonctionnement <br clear="none"/>de la chaudière  </td>
+<td align="center" colspan="4"> MODE DE FONCTIONNEMENT DE "L'ATELIER" <br clear="none"/>utilisateur de la vapeur produite par la chaudière </td>
+<td align="center"/>
+<td align="center" rowspan="2"> PUISSANCE NOMINALE <br clear="none"/>de la chaudière <br clear="none"/>en kW <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center"> 1 × 8</td>
+<td align="center">2 × 8,6 j/7 </td>
+<td align="center">3 × 8 arrêt <br clear="none"/>le week-end  </td>
+<td align="center">3 × 8 sans arrêt <br clear="none"/>le week-end  </td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> Gaz naturel </td>
+<td align="center">240 <br clear="none"/>
+</td>
+<td align="center"> 540</td>
+<td align="center"> 660</td>
+<td align="center">960 <br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">GPL  </td>
+<td align="center"> 250</td>
+<td align="center"> 570</td>
+<td align="center"> 690</td>
+<td align="center"> 1 000<br clear="none"/>
+</td>
+<td align="center"> x</td>
+<td align="center">P <br clear="none"/>
+</td>
+</tr>
+</tbody>
+</table>
 <div align="center">
 <p align="left">Certificats d'économies d'énergie</p>
 <div align="left">Opération n° IND-UT-05</div>
@@ -1098,15 +1138,15 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél.
+P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél ou dans les données techniques du fabricant.
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° IND-UT-17
 
-Récupération de chaleur sur un groupe
+Récupération de chaleur
 
-de production de froid
+sur un groupe de production de froid
 
 1. Secteur d'application :
 
@@ -1118,7 +1158,7 @@ Mise  en place d'un système de récupération de chaleur sur un groupe de  prod
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle : 15 ans.
 
@@ -1162,57 +1202,61 @@ L'installation n'est pas équipée d'un refroidisseur d'huile :
 </td>
 </tr>
 </tbody>
-</table>
+</table>P<sub>compresseur(s)</sub>  est la puissance électrique indiquée sur la plaque du ou des  compresseur (s) en kWél ou dans les données techniques du fabricant.
 
-P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
-
-Si la chaleur est récupérée sur 2 ou 3 des organes du groupe froid, les certificats sont cumulables.
+Si la chaleur est récupérée sur deux ou trois des organes du groupe froid, les certificats sont cumulables.
 
 Certificats d'économies d'énergie
 
 Opération n° IND-UT-18
 
-Brûleur avec dispositif de récupération de chaleur sur four industriel
+Brûleur avec dispositif de récupération
 
-1. Secteur d'application
+de chaleur sur four industriel
+
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
-Installation  d'un ou plusieurs brûleurs intégrant un dispositif de récupération de  chaleur (autorécupérateur, auto-régénératif, paire de brûleurs  régénératifs) préchauffant l'air comburant par récupération de chaleur  sur les fumées dans un four industriel continu fonctionnant au gaz  naturel à une température de plus de 600°C.
+Installation  d'un ou plusieurs brûleurs intégrant un dispositif de récupération de  chaleur (autorécupérateur, auto-régénératif, paire de brûleurs  régénératifs) préchauffant l'air comburant par récupération de chaleur  sur les fumées dans un four industriel continu fonctionnant au gaz  naturel à une température de plus de 600° C.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les consommations spécifiques devront être justifiées sur la base :
+Les consommations spécifiques sont justifiées sur la base :
 
-- 	soit d'une campagne de mesure représentative du fonctionnement du four  (suivant les préconisations de l'annexe F du document normatif AFNOR  BPX30120 sur les bonnes pratiques du diagnostic énergétique) ;
+-  soit d'une campagne de mesure représentative du fonctionnement du four  (suivant les préconisations de l'annexe F du document normatif AFNOR BP  X30-120 sur les bonnes pratiques du diagnostic énergétique) ;
 
--	soit par la collecte des données moyennes sur 3 ans des consommations d'énergie et de la production.
+- soit par la collecte des données moyennes sur trois ans des consommations d'énergie.
+
+La production annuelle est justifiée par la collecte des données moyennes sur trois ans.
 
 La mise en place est réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
-
-11,56 x P<sub>modifiée</sub> / P<sub>installée</sub> x _Conso spécifique_ x Pr_oduction_ x _Gain préchauffage_
+11,56 × P<sub>modifiée</sub> / P<sub>installée</sub>  × Conso. spécifique × Production × Gain préchauffage
 
 Avec :
 
--	P<sub>modifiée</sub> : somme des puissances nominales des nouveaux brûleurs installés (kW)
+- P<sub>modifiée</sub> : somme des puissances nominales des nouveaux brûleurs installés (kW) ;
 
--	P<sub>installée</sub> : somme totale des puissances nominales de tous les brûleurs après modification (kW)
+- P<sub>installée</sub> : somme totale des puissances nominales de tous les brûleurs après modification (kW) ;
 
--	Conso spécifique : consommation spécifique du four avant modification (kWh / tonne)
+- Conso. spécifique : consommation spécifique du four avant modification (kWh/ tonne) ;
 
--	Production annuelle : nouvelle production annuelle (tonne / an)
+- Production : production annuelle (tonne/ an).
 
-- 	Gain préchauffage (%) : gain lié au réchauffage de l'air comburant.  C'est une fonction de la température des fumées à la sortie du four  (température d'extraction des fumées) et de la température de l'air  préchauffé (mesuré par l'abaque ci après). (schéma non reproduit  consulter le fac-similé à l'adresse suivante
+-  Gain préchauffage (%) : gain lié au réchauffage de l'air comburant.  C'est une fonction de la température des fumées à la sortie du four  (température d'extraction des fumées) et de la température de l'air  préchauffé (mesuré par l'abaque ci-après).
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110128&numTexte=10&pageDebut=01700&pageFin=01829
+Vous pouvez consulter le schéma dans le JO
+
+n° 86 du 11/04/2012 texte numéro 6 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120411&numTexte=6&pageDebut=06480&pageFin=06499
 
 La  température des fumées considérée au niveau de l'axe des abscisses est  la température d'extraction des fumées (en sortie de four) avant le  remplacement des brûleurs.
 
@@ -1298,6 +1342,127 @@ Pour l'agro-alimentaire :
 </tr>
 </tbody>
 </table>
-<div align="center">
 
-</div>
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-20
+
+Compresseur basse pression à vis
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation d'un  compresseur basse pression à vis (pression relative inférieure à 1,5 bar).
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4.  Durée de vie conventionnelle : 15 ans.
+
+5. Montant de  certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center"> PUISSANCE COMPRESSEUR <br clear="none"/>basse pression </td>
+<td align="center">MONTANT UNITAIRE <br clear="none"/>en kWhcumac/ kW  </td>
+<td align="center"/>
+<td align="center">PUISSANCE COMPRESSEUR <br clear="none"/>basse pression (kW) <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">&lt; 630 kW  </td>
+<td align="center">6   900 </td>
+<td align="center"> × </td>
+<td align="center">P  </td>
+</tr>
+<tr>
+<td align="center">≥ 630 kW </td>
+<td align="center">11   000  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-21
+
+Matelas pour l'isolation de points singuliers
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation  de matelas isolants souples, démontables pour l'isolation de points  singuliers (robinets, vannes, filtres, brides etc.) dans les réseaux de  fluides caloporteurs.
+
+3. Conditions pour la délivrance de certificats :
+
+Les matelas doivent être certifiés conforme 2.2, selon la norme NF EN 10204.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">NATURE <br clear="none"/>du fluide distribué  </td>
+<td align="center">MODE DE FONCTIONNEMENT DU SITE  </td>
+<td align="center">MONTANT UNITAIRE <br clear="none"/>de kWh cumac  </td>
+<td align="center"/>
+<td align="center">NOMBRE DE POINTS <br clear="none"/>singuliers isolés  </td>
+</tr>
+<tr>
+<td align="center">Vapeur  </td>
+<td align="center">1 × 8 heures  </td>
+<td align="center"> 19   300 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"> 3 × 8 heures avec arrêt le week-end ou 2 × 8 heures </td>
+<td align="center"> 48   300 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">3 × 8 heures sans arrêt le week-end  </td>
+<td align="center"> 77   300 </td>
+<td align="center">×  </td>
+<td align="center">N  </td>
+</tr>
+<tr>
+<td align="center">Eau chaude  </td>
+<td align="center">1 × 8 heures  </td>
+<td align="center"> 3   900 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">3 × 8 heures avec arrêt le week-end ou 2 × 8 heures  </td>
+<td align="center">9   700  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">3 × 8 heures sans arrêt le week-end  </td>
+<td align="center">15   500  </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
