@@ -1,4 +1,0 @@
-# Annexes
-
-- [Article ANNEXE II](article-annexe-ii.md)
-- [RENSEIGNEMENTS D'ORDRE SCIENTIFIQUE ET TECHNIQUE REQUIS, EN APPLICATION DES ARTICLES 1er ET 2 POUR AUTANT QU'ILS SOIENT PERTINENTS.](renseignements-d-ordre-scientifique-et)

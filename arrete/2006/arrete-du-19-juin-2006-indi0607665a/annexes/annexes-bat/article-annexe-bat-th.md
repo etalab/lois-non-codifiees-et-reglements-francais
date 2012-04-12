@@ -1886,11 +1886,11 @@ Chaufferie biomasse
 
 1. Secteur d'application :
 
-Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée inférieure à 5 000 m².
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée inférieure à 10 000 m ².
 
 2. Dénomination :
 
-Mise  en place d'une chaufferie valorisant de la biomasse comme combustible  pour des besoins de chauffage et/ou d'eau chaude sanitaire.
+Mise  en place d'une chaufferie valorisant de la biomasse comme combustible  pour des besoins de chauffage et/ ou d'eau chaude sanitaire.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -1902,7 +1902,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-11,563 × Pth (kWh/an)
+11,563 × Pth (kWh/ an)
 
 <div align="center"/>
 <div align="center"/>
@@ -3029,42 +3029,54 @@ Sans objet.
 <div align="center"/>
 <div align="center"/>
 </div>
-<div align="left">Certificats d'économies d'énergie<br clear="none"/>Opération n° BAT-TH-13<br clear="none"/>Pompe à chaleur de type eau/eau</div>
 <div align="left"/>
-<div align="left">
-<br clear="none"/>
-</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie </div>
 
 </div>
+
+Opération n° BAT-TH-13
+
+Pompe à chaleur de type eau/ eau
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants, de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants, de surface totale chauffée inférieure à 5 000 m ².
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 pour une  température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Ecolabel européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/ CEI 17025  et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de l'European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de la réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 20 ans.
 
 5. Montant de certificats en kWh cumac :
 
+<div>
+
+<br clear="none"/>
+
+</div>
 <table>
 <tbody>
 <tr>
@@ -3086,9 +3098,9 @@ Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, �
 <tr>
 <th>Secteur d'activité<br clear="none"/>
 </th>
-<th>3,4 ≤ COP<br clear="none"/>&lt; 3,5<br clear="none"/>
+<th>3,4 ≤ COP &lt; 3,5<br clear="none"/>
 </th>
-<th>3,5 ≤ COP<br clear="none"/>&lt; 4<br clear="none"/>
+<th>3,5 ≤ COP &lt; 4<br clear="none"/>
 </th>
 <th>4 ≤ COP<br clear="none"/>
 </th>
@@ -3264,43 +3276,43 @@ Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, �
 <br clear="none"/>
 </div>
 </div>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <br clear="none"/>
 </div>
 
-<div align="left"/>
-<div align="left">Certificats d'économies d'énergie<br clear="none"/>Opération n° BAT-TH-13-GT<br clear="none"/>Pompe à chaleur de type eau/eau<br clear="none"/>dans un bâtiment de grande taille</div>
-<div align="left"/>
-<div align="left">
-<br clear="none"/>
-</div>
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
+
+Opération n° BAT-TH-13-GT
+
+Pompe à chaleur de type eau/ eau
+
+dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée entre 5 000 m² et 10 000 m².
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée entre 5 000 m ² et 10 000 m  ².
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 une  température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Ecolabel européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/ CEI 17025  et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de l'European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de la réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 20 ans.
 
@@ -3327,11 +3339,11 @@ Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, �
 <tr>
 <th>Secteur d'activité<br clear="none"/>
 </th>
-<th>3,4 ≤ COP<br clear="none"/>&lt; 3,5<br clear="none"/>
+<th>3,4 ≤ COP &lt; 3,5<br clear="none"/>
 </th>
-<th>3,5 ≤ COP<br clear="none"/>&lt; 4<br clear="none"/>
+<th>3,5 ≤ COP &lt; 4<br clear="none"/>
 </th>
-<th>4 ≤ COP<br clear="none"/>
+<th>4 ≤ COP <br clear="none"/>
 </th>
 <th>
 <br clear="none"/>
@@ -3495,15 +3507,11 @@ Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, �
 <div>
 <br clear="none"/>
 </div>
-<div>
-<div align="center">
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-</div>
-<br clear="none"/>
-<br clear="none"/>
-</div>
+<div/>
+<div/>
+<div/>
+<div/>
+<div/>
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
@@ -3523,37 +3531,35 @@ Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, �
 <div align="left"/>
 <div align="left"/>
 <div align="center"/>
-<div align="center"/>
-
-Certificats d'économies d'énergie
+<div align="center"/>Certificats d'économies d'énergie
 
 Opération n° BAT-TH-14
 
-Pompe à chaleur de type air/eau
+Pompe à chaleur de type air/ eau
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants de surface totale chauffée inférieure à 5 000 m ².
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type air/eau.
+Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 pour une  température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Ecolabel européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/ CEI 17025  et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de l'European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la date de la réalisation de l'opération :
+Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de la réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 20 ans.
 
@@ -3580,11 +3586,11 @@ Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la d
 <tr>
 <th>Secteur d'activité<br clear="none"/>
 </th>
-<th>3,4 ≤ COP<br clear="none"/>&lt; 3,5<br clear="none"/>
+<th>3,4 ≤ COP &lt; 3,5<br clear="none"/>
 </th>
-<th>3,5 ≤ COP<br clear="none"/>&lt; 4<br clear="none"/>
+<th>3,5 ≤ COP &lt; 4<br clear="none"/>
 </th>
-<th>4 ≤ COP<br clear="none"/>
+<th>4 ≤ COP <br clear="none"/>
 </th>
 <th>
 <br clear="none"/>
@@ -3764,39 +3770,37 @@ Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la d
 <div align="left"/>
 <div align="left"/>
 <div align="center"/>
-<div align="center"/>
-
-Certificats d'économies d'énergie
+<div align="center"/>Certificats d'économies d'énergie
 
 Opération n° BAT-TH-14-GT
 
-Pompe à chaleur de type air/eau
+Pompe à chaleur de type air/ eau
 
 dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+Locaux du secteur tertiaire existants de surface totale chauffée comprise entre 5 000 m ² et 10 000 m ².
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type air / eau.
+Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 pour une  température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Ecolabel européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/ CEI 17025  et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de l'European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la date de la réalisation de l'opération :
+Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de la réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ; ou
 
-3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+-  disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 20 ans.
 
@@ -3823,9 +3827,9 @@ Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la d
 <tr>
 <th>Secteur d'activité<br clear="none"/>
 </th>
-<th>3,4 ≤ COP<br clear="none"/>&lt; 3,5<br clear="none"/>
+<th>3,4 ≤ COP &lt; 3,5<br clear="none"/>
 </th>
-<th>3,5 ≤ COP<br clear="none"/>&lt; 4<br clear="none"/>
+<th>3,5 ≤ COP &lt; 4<br clear="none"/>
 </th>
 <th>4 ≤ COP<br clear="none"/>
 </th>
@@ -4728,7 +4732,7 @@ Climatiseur fixe de classe A
 
 1. Secteur d'application :
 
-Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale climatisée inférieure à 5 000 m².
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale climatisée inférieure à 5 000 m ².
 
 2. Dénomination :
 
@@ -4736,24 +4740,26 @@ Remplacement  d'un climatiseur existant par un climatiseur fixe de classe A,  in
 
 3. Conditions pour la délivrance de certificats :
 
-L'appareil  a une certification Eurovent ou des caractéristiques de performance et  de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
+L'appareil  a une certification Eurovent ou des caractéristiques de performance et  de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de l'European cooperation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
 
 Pose effectuée par un professionnel (calorifugeage, unités extérieures, récupération des fluides de l'ancienne unité, etc.).
 
 Pièces à fournir :
 
-1° Une attestation de dépose de l'ancien climatiseur remplie par l'installateur ;
+1. Une attestation de dépose de l'ancien climatiseur remplie par l'installateur ;
 
-2° Un contrat de maintenance signé par un professionnel ;
+2. Un contrat de maintenance signé par un professionnel ;
 
-3° Une fiche de dimensionnement à réaliser par l'installateur.
+3. Une fiche de dimensionnement à réaliser par l'installateur.
 
 4. Durée de vie conventionnelle : 9 ans.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="center">
-
+<div align="left">
+<br clear="none"/>
+</div>
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -4788,12 +4794,8 @@ Pièces à fournir :
 <td align="center">
 <br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
+<td align="center"> H1 et H2</td>
+<td align="center"> 1</td>
 </tr>
 <tr>
 <td align="center">Commerces<br clear="none"/>
@@ -4806,10 +4808,8 @@ Pièces à fournir :
 </td>
 <td align="center">×<br clear="none"/>
 </td>
-<td align="center">H1 et H2<br clear="none"/>
-</td>
-<td align="center">1<br clear="none"/>
-</td>
+<td align="center">H3</td>
+<td align="center">2</td>
 </tr>
 <tr>
 <td align="center">Hôtellerie, restauration<br clear="none"/>
@@ -4825,32 +4825,44 @@ Pièces à fournir :
 <td align="center">
 <br clear="none"/>
 </td>
-<td align="center">H3<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">2<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
+</tr>
+<tr>
+<td align="center">Autres secteurs  </td>
+<td align="center"> 450</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 </tbody>
 </table>
-
 </div>
-<div align="center">
-
+<div align="left">
+<br clear="none"/>
 </div>
-
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
+<div align="left">
+<br clear="none"/>
+</div>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
-<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 
 Certificats d'économies d'énergie
 
@@ -4949,9 +4961,7 @@ Mise en place réalisée, à la date de la réalisation de l'opération, par un 
 <div align="left"/>
 <div align="center"/>
 <div align="center"/>
-<div align="center"/>
-
-Certificats d'économies d'énergie
+<div align="center"/>Certificats d'économies d'énergie
 
 Opération n° BAT-TH-22
 
@@ -4961,11 +4971,11 @@ Programmateur d'intermittence pour la climatisation
 
 1. Secteur d'application :
 
-Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale climatisée inférieure à 5 000 m², en  France d'outre-mer.
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale climatisée inférieure à 5 000 m ², en  France d'outre-mer.
 
 2. Dénomination :
 
-Mise  en place d'un programmateur d'intermittence à heures fixes assurant une  programmation journalière et hebdomadaire de la fourniture de froid  selon les allures suivantes : confort, réduit et arrêt.
+Mise en place d'un  programmateur d'intermittence à heures fixes assurant une programmation  journalière et hebdomadaire de la fourniture de froid selon les allures  suivantes : confort, réduit et arrêt.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -4982,7 +4992,7 @@ Installation réalisée par un professionnel.
 <tr>
 <th>SECTEUR D'ACTIVITÉ<br clear="none"/>
 </th>
-<th>MONTANT EN kWh<br clear="none"/>cumac/m²<br clear="none"/>
+<th>MONTANT EN kWh CUMAC/ m ²<br clear="none"/>
 </th>
 <th>
 <br clear="none"/>
@@ -5023,6 +5033,13 @@ Installation réalisée par un professionnel.
 <td align="center">
 <br clear="none"/>
 </td>
+</tr>
+<tr>
+<td align="center">Autres secteurs  </td>
+<td align="center">290 <br clear="none"/>
+</td>
+<td/>
+<td/>
 </tr>
 </tbody>
 </table>
@@ -5357,7 +5374,7 @@ Mise en place réalisée par un professionnel.
 <br/>
 <p align="left">Certificats d'économies d'énergie</p>
 <p align="left">Opération n° BAT-TH-24-GT</p>
-<p>Ventilation mécanique modulée à détection<br clear="none"/>de présence dans bâtiment de grande taille</p>
+<p align="left">Ventilation mécanique modulée à détection<br clear="none"/>de présence dans bâtiment de grande taille</p>
 <p align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une  ventilation mécanique modulée à détection de présence (simple flux ou double  flux).<br clear="none"/>3. Conditions pour la délivrance de certificats :<br clear="none"/>Les  systèmes de ventilation doivent bénéficier d'un avis technique  (Atec)  en cours de validité ou avoir des caractéristiques de performance et de   qualité équivalentes établies par un mode de preuve légal dans un Etat  membre de  l'Union européenne ou un Etat partie à l'accord instituant  l'Espace économique  européen ou en Turquie.<br clear="none"/>Mise en place réalisée par un  professionnel.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>16  ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
 </p>
 <div align="left">
@@ -5534,7 +5551,7 @@ simple flux autoréglable
 <br/>
 <p align="left">Certificats d'économies d'énergie</p>
 <div align="left">Opération n° BAT-TH-25-GT</div>
-<p>Ventilation mécanique contrôlée<br clear="none"/>simple flux autoréglable dans bâtiment de grande taille</p>
+<p align="left">Ventilation mécanique contrôlée<br clear="none"/>simple flux autoréglable dans bâtiment de grande taille</p>
 <div align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une  ventilation mécanique contrôlée (VMC) simple flux autoréglable.<br clear="none"/>3.  Conditions pour la délivrance de certificats :<br clear="none"/>Mise en place  réalisée par un professionnel.<br clear="none"/>4. Durée de vie conventionnelle  :<br clear="none"/>16 ans.<br clear="none"/>5. Montant de certificats en kWh cumac  :<br clear="none"/>
 </div>
 <div align="left">
@@ -5748,7 +5765,7 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 <br/>
 <p align="left">Certificats d'économies d'énergie</p>
 <p align="left">Opération n° BAT-TH-26-GT</p>
-<p>Ventilation mécanique contrôlée double flux<br clear="none"/>avec échangeur dans bâtiment de grande taille</p>
+<p align="left">Ventilation mécanique contrôlée double flux<br clear="none"/>avec échangeur dans bâtiment de grande taille</p>
 <div align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 m² et 10 000  m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une  ventilation mécanique contrôlée double flux avec échangeur.<br clear="none"/>3.  Conditions pour la délivrance de certificats :<br clear="none"/>Une  attestation  indiquant une efficacité d'échange de 65 % (calcul selon  la norme NF EN 51763)  et une consommation maxi par ventilateur (filtres  et échangeurs inclus) de 0,35  W/(m³/h) est fournie par l'installateur.<br clear="none"/>Mise en place réalisée  par un professionnel.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>16 ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
 </div>
 <div align="left">
@@ -7695,13 +7712,30 @@ Les  modalités de calcul à appliquer sont celles de l'arrêté du 17 avril  20
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
-<div align="left"/>
-<div align="left">Certificats d'économies d'énergie<br clear="none"/>Opération n° BAT-TH-39<br clear="none"/>Récupérateur de chaleur<br clear="none"/>sur un groupe de production de froid</div>
-<div align="left"/>
-<div align="left">
-<br clear="none"/>
-</div>
-<div align="left">1. Secteur d'application :<br clear="none"/>Bâtiments tertiaires : locaux de commerces de distribution alimentaire.<br clear="none"/>2. Dénomination :<br clear="none"/>Mise  en place d'un système de récupération de chaleur sur un groupe de  production de froid afin de chauffer ou préchauffer de l'eau ou de  l'air.<br clear="none"/>3. Conditions pour la délivrance de certificats :<br clear="none"/>Mise en place réalisée par un professionnel.<br clear="none"/>4. Durée de vie conventionnelle : 13 ans.<br clear="none"/>5. Montant de certificats en kWh cumac :</div>
+<div align="left"/>Certificats d'économies d'énergie
+
+Opération n° BAT-TH-39
+
+Récupération de chaleur sur un groupe
+
+de production de froid
+
+1. Secteur d'application :
+
+Bâtiments tertiaires : locaux de commerces de distribution alimentaire.
+
+2. Dénomination :
+
+Mise  en place d'un système de récupération de chaleur sur un groupe de  production de froid afin de chauffer ou préchauffer de l'eau ou de  l'air.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 13 ans.
+
+5. Montant de certificats en kWh cumac :
+
 <div align="left"/>
 <div align="left">
 <table>
@@ -7725,7 +7759,13 @@ Les  modalités de calcul à appliquer sont celles de l'arrêté du 17 avril  20
 </table>
 </div>
 <div align="left"/>
-<div align="left">Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél. </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél ou dans les données techniques du fabricant. <br clear="none"/>
+</div>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
@@ -7734,6 +7774,13 @@ Les  modalités de calcul à appliquer sont celles de l'arrêté du 17 avril  20
 <div align="left">
 <br clear="none"/>
 </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
@@ -8470,8 +8517,11 @@ Les  modalités de calcul à appliquer sont celles de l'arrêté du 17 avril  20
 <br clear="none"/>
 </div>
 <div align="center"/>
-<div align="left">
-<br clear="none"/>
-</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="center"/>
 <div align="center"/>

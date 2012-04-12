@@ -54,6 +54,17 @@ Formation des acteurs professionnels du secteur du bâtiment  aux économies d'�
 <br/>
 </div>
 
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-SE-02
@@ -66,21 +77,22 @@ Entreprises  et artisans du secteur du bâtiment effectuant des travaux de  rén
 
 2. Dénomination
 
-Élaboration de  documents techniques destinés aux entreprises et artisans du secteur du  bâtiment pour la réalisation de travaux de rénovation, de maintenance ou  de construction de bâtiments, en vue d'accompagner les entreprises et  artisans du secteur du bâtiment dans la rénovation, la maintenance et la  construction de bâtiments conformes aux objectifs énergétiques du  Grenelle de l'environnement (bâtiments neufs à basse consommation et/ou à  énergie positive, rénovation énergétique lourde des bâtiments  existants).
+Élaboration  de documents techniques destinés aux entreprises et artisans du secteur  du bâtiment pour la réalisation de travaux de rénovation, de  maintenance ou de construction de bâtiments, en vue d'accompagner les  entreprises et artisans du secteur du bâtiment dans la rénovation, la  maintenance et la construction de bâtiments conformes aux objectifs  énergétiques du Grenelle de l'environnement (bâtiments neufs à basse  consommation et/ou à énergie positive, rénovation énergétique lourde des  bâtiments existants).
 
 3. Conditions pour la délivrance de certificats
 
 Un  comité de pilotage, spécialement constitué pour cette action, détermine  une liste de documents à établir. Pour chacun de ces documents, le  comité de pilotage établit un cahier des charges et retient un  prestataire.
 
-Une fois les prestations réalisées et validées par le  comité de pilotage, celui-ci délivre une attestation de versement de  fonds aux entreprises ayant contribué financièrement au paiement des  prestations. Les certificats d'économies d'énergie sont délivrés à ces  entreprises, sur leur demande et sur présentation de l'attestation.
+Une fois les prestations réalisées et  validées par le comité de pilotage, celui-ci délivre une attestation de  versement de fonds aux entreprises ayant contribué financièrement au  paiement des prestations. Les certificats d'économies d'énergie sont  délivrés à ces entreprises, sur leur demande et sur présentation de  l'attestation.
 
-La  quantité maximale de certificats d'économies d'énergie délivrés par  document sera mentionnée dans le cahier des charges correspondant et  validée par le représentant de l'Etat au sein du comité de pilotage.
+La quantité maximale de certificats  d'économies d'énergie délivrés par document sera mentionnée dans le  cahier des charges correspondant et validée par le représentant de  l'Etat au sein du comité de pilotage.
 
 4. Durée de vie conventionnelle
 
 Sans objet
 
-5. Montant de certificats en kWh cumac
+<div align="left">5. Montant de certificats en kWh cumac<br/>
+</div>
 
 <div align="center">
 <br/>
@@ -154,7 +166,7 @@ Première demande :
 
 Cette  demande s'inscrit dans le cadre de la réalisation des opérations  standardisées d'économies d'énergie prévues par le bouquet de travaux du  CPE.
 
-La délivrance des certificats, relatifs à ces opérations,  s'effectue conformément aux conditions de délivrance fixées par les  fiches concernées.
+La délivrance des certificats, relatifs à ces  opérations, s'effectue conformément aux conditions de délivrance fixées  par les fiches concernées.
 
 En outre, la demande est  accompagnée d'un document récapitulant les caractéristiques du CPE. Sont  acceptés les CPE respectant les cinq caractéristiques suivantes :
 
@@ -218,39 +230,39 @@ Remarque :
 
 Afin  de ne pas attribuer une double bonification, la somme des montants de  CEE de chaque opération standardisée incluse dans le CPE n'intègre pas  la bonification liée à l'opération de maintenance prévue par les fiches  BAR-TH-07-SE, BAR-TH-09-SE et BAR-TH-14-SE.
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° BAR-SE-04
 
-Rééquilibrage d'une installation collective de chauffage à eau chaude du secteur résidentiel
+Rééquilibrage d'une installation collective
 
-1. Secteur d'application
+de chauffage à eau chaude du secteur résidentiel
+
+1. Secteur d'application :
 
 Appartements existants équipés d'une installation collective de chauffage à eau chaude.
 
-2. Dénomination
+2. Dénomination :
 
-Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
+Acquisition  et réglage d'organes d'équilibrage neufs destinés à assurer une  température uniforme dans tous les locaux. Une installation collective  de chauffage à eau chaude est considérée comme équilibrée si l'écart de  température entre le logement le plus chauffé et le moins chauffé d'un  même bâtiment est strictement inférieur à 2° C.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Installation et réglage d'organes d'équilibrage neufs effectués par un professionnel.
+Installation  et réglage d'organes d'équilibrage neufs, en pied de colonne et/ ou au  niveau des logements, effectués par un professionnel.
 
-Afin  de prouver que les organes d'équilibrage assurent une température  uniforme dans tous les locaux, le demandeur fournit un tableau  d'enregistrement, signé par ses soins et par le client, des températures  moyennes, avant et après l'installation de ces organes d'équilibrage.
+Afin  de prouver que les organes d'équilibrage assurent une température  uniforme dans tous les locaux, le professionnel fournit un tableau  d'enregistrement, signé par ses soins et par le client, des températures  moyennes après l'installation de ces organes d'équilibrage.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 10 ans.
 
-10 ans.
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique </td>
-<td align="center">Montant en kWh cumac par <br/>appartement </td>
+<td align="center">ZONE CLIMATIQUE  </td>
+<td align="center">MONTANT EN kWh CUMAC <br/>par appartement </td>
 <td align="center"/>
-<td align="center"> Nombre <br/>d'appartements</td>
+<td align="center"> NOMBRE D'APPARTEMENTS </td>
 </tr>
 <tr>
 <td align="center">H1 </td>

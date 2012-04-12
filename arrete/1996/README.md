@@ -942,7 +942,6 @@
 - [Arrêté du 27 septembre 1996 (MJSK9670114A)](arrete-du-27-septembre-1996-mjsk9670114a)
 - [Arrêté du 27 septembre 1996 (TASP9623575A)](arrete-du-27-septembre-1996-tasp9623575a)
 - [Arrêté du 27 septembre 1996 (TASP9623576A)](arrete-du-27-septembre-1996-tasp9623576a)
-- [Arrêté du 28 août 1996 (ENVP9650308A)](arrete-du-28-aout-1996-envp9650308a)
 - [Arrêté du 28 août 1996 (TASA9623305A)](arrete-du-28-aout-1996-tasa9623305a)
 - [Arrêté du 28 août 1996 (TASP9623236A)](arrete-du-28-aout-1996-tasp9623236a)
 - [Arrêté du 28 décembre 1995 (DEFP9502297A)](arrete-du-28-decembre-1995-defp9502297a)
