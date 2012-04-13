@@ -31,14 +31,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques <br/>
+<td align="center">Direction des affaires juridiques (supprimé à compter du 1er avril 2012)<br/>
 </td>
 <td align="center">Secrétaire technique de la commission consultative des marchés publics de l'Etat, secteur approvisionnements généraux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques <br/>
-</td>
+<td align="center">Direction des affaires juridiques </td>
 <td align="center">Chef du bureau " ressources informatiques, documentaires et de la communication interne " <br/>
 </td>
 </tr>
@@ -47,6 +46,15 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">Adjoint au chef du bureau du droit privé général <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Direction des affaires juridiques(ajouté à compter du 1er avril 2012)<br/>
+</td>
+<td align="center">Contrôleur de gestion et responsable qualité </td>
+</tr>
+<tr>
+<td align="center">Direction des affaires juridiques(ajouté à compter du 1er avril 2012)</td>
+<td align="center">Adjoint au chef du département ressources, chargé du pôle budgétaire, financier, comptable et logistique </td>
 </tr>
 <tr>
 <td align="center">Direction du budget <br/>
@@ -123,12 +131,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale du Trésor <br/>
 </td>
-<td align="center">Adjoint au chef du bureau " services bancaires et moyens de paiement " <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale du Trésor <br/>
-</td>
 <td align="center">Chef du bureau " institutions et évaluation des politiques sociales et de l'emploi " <br/>
 </td>
 </tr>
@@ -142,12 +144,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Direction générale de l'administration et de la fonction publique <br/>
 </td>
 <td align="center">Responsable du secteur " recrutement et concours " <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale de l'administration et de la fonction publique <br/>
-</td>
-<td align="center">Adjoint au chef du bureau des statuts particuliers et des parcours professionnels <br/>
 </td>
 </tr>
 <tr>
@@ -184,7 +180,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de la compétitivité, de l'industrie et des services <br/>
+<td align="center">Direction générale de la compétitivité, de l'industrie et des services (supprimé à compter du 16 septembre 2011)<br/>
 </td>
 <td align="center">Adjoint au chef du bureau de la politique des pôles de compétitivité <br/>
 </td>
@@ -328,6 +324,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
+<td align="center">Direction générale de la compétitivité, de l'industrie et des services (ajouté à compter du 16 septembre 2011)<br/>
+</td>
+<td align="center">Chargé de mission auprès du chef du service de l'industrie </td>
+</tr>
+<tr>
 <td align="center">Commission de sécurité des consommateurs <br/>
 </td>
 <td align="center">Secrétaire général<br/>
@@ -374,6 +375,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">Chargé de mission auprès du chef de service, responsable de la politique de communication <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Service du contrôle général économique et financier (ajouté à compter du 1er avril 2012)<br/>
+</td>
+<td align="center">Chargé du contrôle économique et financier d'organismes du secteur de la recherche et du développement des entreprises </td>
 </tr>
 <tr>
 <td align="center">Direction générale des douanes et droits indirects <br/>
@@ -424,14 +430,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'énergie et du climat <br/>
-</td>
+<td align="center">Direction générale de l'énergie et du climat (supprimé à compter du 1er avril 2012)</td>
 <td align="center">Chargé de mission sur la tutelle ANDRA et IRSN <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'énergie et du climat <br/>
-</td>
+<td align="center">Direction générale de l'énergie et du climat (supprimé à compter du 1er avril 2012)</td>
 <td align="center">Chef du bureau " réglementation et affaires techniques " <br/>
 </td>
 </tr>
@@ -446,6 +450,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">Chef du bureau des marchés des produits pétroliers <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Direction générale de l'énergie et du climat (ajouté à compter du 1er avril 2012)<br/>
+</td>
+<td align="center">Adjoint au chef du bureau de la reconversion minière et des affaires sociales </td>
 </tr>
 <tr>
 <td align="center">Direction générale des finances publiques <br/>
@@ -470,6 +479,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">Responsable des secteurs " expertise et veille juridiques ", " modernisation des procédures de gestion " et " animation du réseau " au bureau des opérateurs de l'Etat <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Direction générale des finances publiques (ajouté à compter du 1er novembre 2011)<br/>
+</td>
+<td align="center">Adjoint au responsable de la réforme de l'administration territoriale de l'Etat et des schémas pluriannuels de stratégie immobilière des services déconcentrés et des opérateurs à la mission politique immobilière de l'Etat au sein du service France Domaine </td>
 </tr>
 <tr>
 <td align="center">GIP assistance au développement des échanges en technologies économiques et financières <br/>
@@ -526,7 +540,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général <br/>
+<td align="center">Secrétariat général (supprimé à compter du 1er novembre 2011)<br/>
 </td>
 <td align="center">Chef de la mission " ressources communes " <br/>
 </td>
@@ -592,7 +606,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général <br/>
+<td align="center">Secrétariat général (supprimé à compter du 6 avril 2012)<br/>
 </td>
 <td align="center">Chef du bureau " rémunérations et affaires communes " <br/>
 </td>
@@ -708,6 +722,23 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">Responsable du pôle " architecture et expertise économique " <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Secrétariat général (ajouté à compter du 1er avril 2012)<br/>
+</td>
+<td align="center">Directeur des actions de modernisation à l'Institut de la gestion publique et du développement économique </td>
+</tr>
+<tr>
+<td align="center">Secrétariat général (ajouté à compter du 6 avril 2012)</td>
+<td align="center">Chef du bureau du pilotage et de la gouvernance des ressources humaines </td>
+</tr>
+<tr>
+<td align="center">Secrétariat général (ajouté à compter du 6 avril 2012)</td>
+<td align="center">Chef du bureau gestion administrative et paye </td>
+</tr>
+<tr>
+<td align="center">Secrétariat général (ajouté à compter du 27 avril 2012)</td>
+<td align="center">Responsable de la coordination à la mission Parlement européen </td>
 </tr>
 <tr>
 <td align="center">Ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration <br/>

@@ -25,8 +25,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques <br/>
-</td>
+<td align="center">Direction des affaires juridiques (supprimé à compter du 1er avril 2012)</td>
 <td align="center">Chef du bureau " ressources humaines " <br/>
 </td>
 </tr>
@@ -55,8 +54,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
-<td align="center">Service du contrôle général économique et financier <br/>
-</td>
+<td align="center">Service du contrôle général économique et financier (supprimé à compter du 1er avril 2012)</td>
 <td align="center">Chargé de mission de contrôle économique et financier de l'EPIC Réseau ferré de France à la mission des transports collectifs terrestres <br/>
 </td>
 </tr>
@@ -103,6 +101,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
+<td align="center"> Direction générale du Trésor (ajouté à compter du 16 mars 2012)<br/>
+</td>
+<td align="center"> Adjoint au chef du bureau  services bancaires et moyens de paiement </td>
+</tr>
+<tr>
 <td align="center">Service des retraites de l'Etat <br/>
 </td>
 <td align="center">Chef du bureau de l'accueil des usagers <br/>
@@ -127,8 +130,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général <br/>
-</td>
+<td align="center">Secrétariat général (supprimé à compter du 27 avril 2012)</td>
 <td align="center">Adjoint au chef de la mission " Parlement européen " <br/>
 </td>
 </tr>
