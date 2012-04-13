@@ -1,0 +1,11 @@
+# Article 9
+
+A abrogé les dispositions suivantes :
+
+> - Arrêté du 1er août 2011
+>
+> > Sct. Chapitre Ier : Définitions, typologie des frais, Art. 1, Art. 2, Sct. Chapitre II : Format de présentation et modalités de calcul des éléments présentés dans le bulletin de souscription et précisés dans la notice d'information ou le document équivalent, Art. 3, Art. 4, Sct. Chapitre III : Format de présentation et modalités de calcul des éléments présentés dans la notice d'information ou le document équivalent, Art. 5, Sct. Chapitre IV : Format de présentation et modalités de calcul des éléments présentés dans le règlement ou le document équivalent, Art. 6, Sct. Chapitre V : Format de présentation et modalités de calcul des éléments présentés dans la lettre annuelle d'information du souscripteur, Art. 7, Sct. Chapitre VI : Format de présentation et modalités de calcul des éléments mentionnés à l'article D. 214-80-8, Art. 8, Art. 10
+
+Les fonds mentionnés aux articles 199 terdecies-0 A et 885-0 V bis du code général des impôts et agréés entre le 1er janvier 2011 et le 3 août 2011 ainsi que les souscriptions à des titres de capital ou donnant accès au capital de sociétés mentionnées aux articles 199 terdecies-0 A et 885-0 V bis du code précité et effectuées entre ces mêmes dates demeurent soumis aux dispositions de l'arrêté portant application du décret n° 2010-1311 du 2 novembre 2010 relatif à l'encadrement et à la transparence des frais et commissions prélevés directement ou indirectement par les fonds et sociétés mentionnés à l'article 885-0 V bis du code général des impôts.
+
+Les fonds mentionnés aux articles 199 terdecies-0 A et 885-0 V bis du code général des impôts et agréés entre le 4 août 2011 et l'entrée en vigueur du présent arrêté ainsi que les souscriptions à des titres de capital ou donnant accès au capital de sociétés mentionnées aux articles 199 terdecies-0 A et 885-0 V bis du code précité et effectuées entre ces mêmes dates demeurent soumis aux dispositions de l'arrêté portant application du décret n° 2011-924 du 1er août 2011 relatif à l'encadrement et à la transparence des frais et commissions prélevés directement ou indirectement par les fonds et sociétés mentionnés à l'article 885-0 V bis du code général des impôts.
