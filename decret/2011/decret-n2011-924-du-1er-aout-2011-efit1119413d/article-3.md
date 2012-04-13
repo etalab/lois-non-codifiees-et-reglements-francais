@@ -1,6 +1,6 @@
 # Article 3
 
-I.-Les informations mentionnées à l'article D. 214-80-8 du code monétaire et financier et au VI de l'article 299 octies A du code général des impôts figureront dans l'annexe des comptes des fonds ou sociétés, à compter de la date d'entrée en vigueur d'un règlement de l'Autorité des normes comptables.
+I.-Les informations mentionnées à l'article D. 214-80-6 du code monétaire et financier et au VI de l'article 299 octies A de l'annexe III au code général des impôts figurent dans l'annexe des comptes des fonds ou sociétés, conformément aux modalités définies par un règlement de l'Autorité des normes comptables.
 
 II.-A abrogé les dispositions suivantes :
 
