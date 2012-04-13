@@ -114,6 +114,8 @@ Contenu de l'épreuve
 
 L'évaluation porte sur les compétences, comportements professionnels et connaissances relatifs au pilotage et à la conduite de chariot transpalettes à conducteur porté et préparateurs de commandes au sol de levée inférieure ou égale à 1 mètre. Ces compétences et comportements professionnels sont décrits dans l'activité 5 du référentiel de certification.
 
+Le candidat titulaire du certificat de capacité professionnelle (CCP) ou  des certificats d'aptitude à la conduite en sécurité de catégories 1,3  et 5 (CACES) ou de l'attestation de conduite en sécurité des chariots  automoteurs de manutention à conducteur porté, dans la limite de leur  validité, est dispensé, à sa demande, de l'évaluation de la conduite en  sécurité de chariots automoteurs de manutention à conducteur porté.
+
 Les candidats déclarés inaptes à la conduite des chariots automoteurs de manutention à conducteur porté sont dispensés de l'évaluation à la conduite de chariots automoteurs de manutention à conducteur porté.
 
 Une attestation de formation est remise au candidat qui a suivi assidûment la formation selon le modèle figurant en ANNEXE III c du présent arrêté.
