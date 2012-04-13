@@ -3110,7 +3110,6 @@
 - [Arrêté du 1er août 2011 (DEFH1121132A)](arrete-du-1er-aout-2011-defh1121132a)
 - [Arrêté du 1er août 2011 (DEVP1120448A)](arrete-du-1er-aout-2011-devp1120448a)
 - [Arrêté du 1er août 2011 (DEVP1121005A)](arrete-du-1er-aout-2011-devp1121005a)
-- [Arrêté du 1er août 2011 (EFIT1119397A)](arrete-du-1er-aout-2011-efit1119397a)
 - [Arrêté du 1er août 2011 (ETSH1113429A)](arrete-du-1er-aout-2011-etsh1113429a)
 - [Arrêté du 1er août 2011 (ETSO1118715A)](arrete-du-1er-aout-2011-etso1118715a)
 - [Arrêté du 1er août 2011 (ETSO1118769A)](arrete-du-1er-aout-2011-etso1118769a)
