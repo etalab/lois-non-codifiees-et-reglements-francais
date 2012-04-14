@@ -1,9 +1,9 @@
 # Article 3
 
-I. - Lorsque les professionnels de santé souhaitent s'engager dans un protocole qui est déjà autorisé et appliqué dans une région autre que celle où ils exercent, le directeur général de l'agence régionale de santé constate, avant d'instruire la demande d'adhésion, que le protocole répond à un besoin de santé régional et autorise, par arrêté, son application dans la région concernée.
+Un professionnel peut demander son retrait d'un protocole de coopération auquel il a adhéré, auprès du directeur général de l'agence régionale de santé, par lettre recommandée avec demande d'avis de réception adressée au moins trois mois avant la date effective du retrait. Il en informe dans le même délai et sous la même forme les professionnels de santé qui ont exprimé leur volonté mutuelle d'adhérer avec lui au protocole de coopération.
 
-A l'appui de leur demande, les professionnels de santé transmettent les pièces mentionnées à l'article 2.
+Ces derniers peuvent indiquer au directeur général de l'agence régionale de santé, dans ce délai de trois mois, le nom d'un autre professionnel de santé candidat à l'adhésion qui devra accompagner sa demande d'adhésion des pièces prévues au I de l'article 2.
 
-II. - L'arrêté autorisant le protocole est pris dans le délai mentionné au II de l'article premier.
+En cas de retrait ou de décès d'un professionnel de santé adhérant à un protocole, et à défaut d'adhésion d'un nouveau professionnel ou s'il estime que l'application de ce protocole est compromise, le directeur général de l'agence régionale de santé peut décider d'y mettre fin.
 
-La demande d'adhésion à ce protocole est enregistrée dans le délai prévu au II de l'article 2.
+Le directeur général de l'agence régionale de santé informe les instances régionales ou interrégionales des ordres concernés et l'union régionale des professions de santé des retraits d'adhésion.

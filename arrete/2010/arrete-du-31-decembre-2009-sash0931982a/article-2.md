@@ -1,6 +1,6 @@
 # Article 2
 
-I. - En application de l'article L. 4011-3 du code de la santé publique, les professionnels de santé qui demandent à adhérer à un protocole de coopération fournissent à l'agence régionale de santé les pièces dont la liste figure en annexe, en vue de faire enregistrer leur demande.
+I. - En application de l'article L. 4011-3 du code de la santé publique, les professionnels de santé qui demandent à adhérer à un protocole de coopération, déjà autorisé par le directeur général de l'agence régionale de santé, fournissent à l'agence régionale de santé les pièces dont la liste figure en annexe, en vue de faire enregistrer leur demande.
 
 Ces pièces comportent notamment :
 
@@ -16,12 +16,18 @@ Le professionnel de santé exerçant à titre salarié transmet un document four
 
 5° Lorsque le professionnel exerce en qualité de salarié, la demande qui est transmise à l'agence régionale de santé comporte l'accord de l'employeur. Celui-ci en informe les instances concernées au sein de l'établissement.
 
-II. - L'enregistrement de la demande intervient dans un délai de deux mois à compter de l'accusé de réception du dossier complet de demande d'adhésion dans une démarche de coopération. Le défaut de réponse du directeur général de l'agence régionale de santé, dans le même délai, vaut rejet de la demande.
+II. - Lorsque des professionnels de santé soumettent un protocole de coopération à l'agence régionale de santé, ils peuvent fournir parallèlement les pièces mentionnées aux 2°, 3°, 4° et 5° du I du présent article. Le directeur général de l'agence régionale de santé peut, simultanément à l'autorisation dudit protocole qui intervient après avis de la Haute Autorité de santé, procéder à l'enregistrement des adhésions des professionnels de santé concernés si les conditions prévues à l'article L. 4011-3 sont satisfaites.
+
+III. - Lorsque des professionnels de santé souhaitent s'engager dans un protocole qui est déjà autorisé dans une région autre que celle où ils exercent, ils soumettent leur demande au directeur général de l'agence régionale de santé. Celui-ci constate, avant d'instruire la demande d'adhésion, que le protocole répond à un besoin de santé régional et autorise par arrêté son application dans la région concernée dans le délai prévu au II de l'article 1er.
+
+L'avis de la Haute Autorité de santé n'est pas, dans ce cas, requis.
+
+A l'appui de leur demande, les professionnels de santé transmettent les pièces mentionnées au I du présent article.
+
+La demande d'adhésion à ce protocole est enregistrée dans le délai prévu au IV de l'article 2.
+
+IV. - L'enregistrement de la demande d'adhésion dans une démarche de coopération intervient dans un délai de deux mois à compter de l'accusé de réception du dossier complet de demande. Le défaut de réponse du directeur général de l'agence régionale de santé, dans le même délai, vaut rejet de la demande.
 
 En application de l'article 5 de la loi du 11 juillet 1979 susvisée, les motifs du rejet sont communiqués à l'intéressé à sa demande.
 
-III. ― Le directeur général de l'agence régionale de santé informe les instances régionales ou interrégionales des ordres concernés et l'union régionale des professions de santé concernée des adhésions acceptées.
-
-IV. - Le professionnel qui a adhéré à un protocole de coopération peut demander son retrait auprès du directeur général de l'agence régionale de santé par lettre recommandée avec demande d'avis de réception adressée au moins trois mois avant la date effective du retrait. Il en informe dans le même délai et sous la même forme les autres professionnels adhérents au protocole de coopération.
-
-Le directeur général de l'agence régionale de santé informe les instances régionales ou interrégionales des ordres concernés et l'union régionale des professions de santé concernée des retraits d'adhésion.
+V. ― Le directeur général de l'agence régionale de santé informe les instances régionales ou interrégionales des ordres concernés et l'union régionale des professions de santé concernée des adhésions acceptées.
