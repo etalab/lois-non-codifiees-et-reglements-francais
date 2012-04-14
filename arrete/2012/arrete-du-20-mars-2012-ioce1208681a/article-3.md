@@ -1,0 +1,3 @@
+# Article 3
+
+L'indemnisation des interventions effectuées par les services d'incendie et de secours à la demande de la régulation médicale du service d'aide médicale urgente en cas de défaut de disponibilité des transporteurs sanitaires privés versée au titre de l'année 2012 comprend, outre l'indemnisation correspondant à la prise en charge des interventions constatées en 2011, une indemnisation correspondant au différentiel constaté entre l'indemnisation versée en 2011 au titre des interventions constatées en 2010 et l'indemnisation de ces mêmes interventions sur la base d'un tarif national de 112 €.
