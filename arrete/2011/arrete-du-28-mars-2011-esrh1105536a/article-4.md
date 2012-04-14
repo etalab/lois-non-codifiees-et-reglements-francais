@@ -6,7 +6,7 @@ Le candidat adresse au ministère de l'enseignement supérieur et de la recherch
 
 2° Une copie d'une pièce d'identité avec photographie.
 
-Le dossier est adressé par voie électronique, au plus tard à la date fixée dans le calendrier annuel, aux adresses mél suivantes, en fonction des disciplines concernées :  dgrh-a2.droit@education.gouv.fr (pour les sections " droit, économie et gestion ") ;  dgrh-a2.lettres@education.gouv.fr (pour les sections " lettres et sciences humaines ") ;  dgrh-a2.sciences@education.gouv.fr (pour les sections " sciences ") ;  dgrh-a2.sante@education.gouv.fr (pour les sections " pharmacie ").
+Le dossier est adressé par voie électronique, au plus tard à la date fixée dans le calendrier annuel, à l'adresse mél suivante :  dgrh-a2.cnu@education.gouv.fr.
 
 En retour, le candidat reçoit un accusé de réception.
 
