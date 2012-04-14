@@ -4,7 +4,7 @@ Le comité financier ministériel mentionné à l'article 1er est présidé par 
 
 Ce comité examine les documents de programmation budgétaire initiale et les documents prévisionnels de gestion, dans les formes prévues aux articles 4 et 5 du présent arrêté.
 
-Il approuve le plan de déploiement ministériel du contrôle interne budgétaire et en suit la mise en œuvre. Il examine une fois par an une actualisation de la cartographie des risques budgétaires du ministère. Il assure également le suivi du plan d'action ministériel du contrôle interne comptable.
+Il approuve le plan de déploiement ministériel du contrôle interne budgétaire et du contrôle interne comptable et en suit la mise en œuvre. Il examine une actualisation de la cartographie des risques budgétaires et comptables du ministère. Il assure également le suivi du plan d'action ministériel du contrôle interne comptable et du contrôle interne budgétaire.
 
 A compter du 1er janvier 2009, il examine également :
 
