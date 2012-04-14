@@ -1,186 +1,258 @@
 # Article 1
 
-<div>
-<br/>En application du second alinéa de l'article 5 de la loi organique du 31 janvier 1976 susvisée, les ambassades et postes consulaires chargés de tenir les listes électorales consulaires dressées au titre d'une ou de plusieurs autres circonscriptions consulaires sont les suivants :<br/>
-<div align="center">
+En application du second alinéa de l'article 5 de la loi organique du 31 janvier 1976 susvisée, les ambassades et postes consulaires chargés de tenir les listes électorales consulaires dressées au titre d'une ou de plusieurs autres circonscriptions consulaires sont les suivants :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>AMBASSADES ET POSTES CONSULAIRES<br/>chargés de tenir les listes électorales consulaires dressées<br/>au titre de plusieurs circonscriptions consulaires</th>
-<th colspan="2">
-<br/>CIRCONSCRIPTIONS CONSULAIRES<br/>pour lesquelles la tenue de la liste<br/>électorale consulaire est transférée</th>
+<td align="left" colspan="2" valign="top">
+<p align="center">AMBASSADES ET POSTES CONSULAIRES<br/>chargés de tenir les listes électorales consulaires dressées<br/>au titre de plusieurs circonscriptions consulaires</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIRCONSCRIPTIONS CONSULAIRES<br/>pour lesquelles la tenue de la liste<br/>électorale consulaire est transférée</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Allemagne</td>
-<td align="center">
-<br/>Ambassade (Berlin)</td>
-<td align="center">
-<br/>Consulat général à Hambourg</td>
+<td>
+<p align="left">Allemagne</p>
+</td>
+<td>
+<p align="left">Ambassade (Berlin)</p>
+</td>
+<td>
+<p align="left">Consulat général à Hambourg</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Francfort</td>
-<td align="center">
-<br/>Consulat général à Düsseldorf</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Sarrebruck</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Munich</td>
-<td align="center">
-<br/>Consulat général à Stuttgart</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Brésil</td>
-<td align="center">
-<br/>Ambassade (Brasilia)</td>
-<td align="center">
-<br/>Consulat général à Recife</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Canada</td>
-<td align="center">
-<br/>Consulat général à Montréal</td>
-<td align="center">
-<br/>Consulat général à Moncton et Halifax</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Vancouver</td>
-<td align="center">
-<br/>Consulat général à Calgary</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Egypte</td>
-<td align="center">
-<br/>Consulat général au Caire</td>
-<td align="center">
-<br/>Consulat général à Alexandrie</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Espagne</td>
-<td align="center">
-<br/>Consulat général à Madrid</td>
-<td align="center">
-<br/>Consulat général à Séville</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Bilbao</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Etats-Unis d'Amérique</td>
-<td align="center">
-<br/>Consulat général à Houston</td>
-<td align="center">
-<br/>Consulat général à La Nouvelle-Orléans</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grèce</td>
-<td align="center">
-<br/>Ambassade (Athènes)</td>
-<td align="center">
-<br/>Consulat général à Thessalonique</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Italie</td>
-<td align="center">
-<br/>Ambassade (Rome)</td>
-<td align="center">
-<br/>Ambassade près le Saint-Siège</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Naples</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Consulat général à Milan</td>
-<td align="center">
-<br/>Consulat général à Turin et Gênes</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Israël</td>
-<td align="center">
-<br/>Consulat général à Tel-Aviv</td>
-<td align="center">
-<br/>Consulat général à Haïfa</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Japon</td>
-<td align="center">
-<br/>Ambassade (Tokyo)</td>
-<td align="center">
-<br/>Consulat général à Kyoto</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pakistan</td>
-<td align="center">
-<br/>Ambassade (Islamabad)</td>
-<td align="center">
-<br/>Consulat général à Karachi</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pologne</td>
-<td align="center">
-<br/>Ambassade (Varsovie)</td>
-<td align="center">
-<br/>Consulat général à Cracovie</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Portugal</td>
-<td align="center">
-<br/>Ambassade (Lisbonne)</td>
-<td align="center">
-<br/>Consulat général à Porto</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Serbie</td>
-<td align="center">
-<br/>Ambassade (Belgrade)</td>
-<td align="center">
-<br/>Consulat général au Monténégro (Podgorica)</td>
-</tr>
-</table>
-
-</div>
+<td align="left" valign="top">
 <br/>
-</div>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Francfort</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Düsseldorf</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Sarrebruck</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Munich</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Stuttgart</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Brésil</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Brasilia)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Recife</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Canada</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Montréal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Moncton et Halifax</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Vancouver</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Calgary</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Egypte</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général au Caire</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Alexandrie</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Espagne</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Madrid</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Séville</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Bilbao</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Etats-Unis d'Amérique</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Houston</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à La Nouvelle-Orléans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Grèce</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Athènes)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Thessalonique</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Italie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Rome)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade près le Saint-Siège</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Naples</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Milan</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Turin et Gênes</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Israël</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Tel-Aviv</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Haïfa</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Japon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Tokyo)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Kyoto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liban</p>
+</td>
+<td>Consulat général à Beyrouth</td>
+<td>Ambassade en Syrie (Damas)</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Pakistan</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Islamabad)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Karachi</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Pologne</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Varsovie)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Cracovie</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Portugal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Lisbonne)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général à Porto</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Serbie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ambassade (Belgrade)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Consulat général au Monténégro (Podgorica)</p>
+</td>
+</tr>
+</tbody>
+</table>
