@@ -131,7 +131,6 @@
 - [Décret n°2002-1572 du 23 décembre 2002 (AGRS0202024D)](decret-n2002-1572-du-23-decembre-2002-agrs0202024d)
 - [Décret n°2002-1574 du 23 décembre 2002 (MCCB0200802D)](decret-n2002-1574-du-23-decembre-2002-mccb0200802d)
 - [Décret n°2002-569 du 23 avril 2002 (MCCH0200309D)](decret-n2002-569-du-23-avril-2002-mcch0200309d)
-- [Décret n°2002-95 du 23 janvier 2002 (PRMX0205320D)](decret-n2002-95-du-23-janvier-2002-prmx0205320d)
 - [Décret n°2002-1288 du 24 octobre 2002 (INTA0200246D)](decret-n2002-1288-du-24-octobre-2002-inta0200246d)
 - [Décret n°2002-1293 du 24 octobre 2002 (AGRA0201952D)](decret-n2002-1293-du-24-octobre-2002-agra0201952d)
 - [Décret n°2002-1504 du 24 décembre 2002 (DOMA0200044D)](decret-n2002-1504-du-24-decembre-2002-doma0200044d)
