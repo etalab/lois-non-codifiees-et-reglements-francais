@@ -18,7 +18,7 @@ La présentation des documents énumérés au 1° et au 2° ci-dessus est confor
 
 6° Le projet de règlement de copropriété, de l'état descriptif de division, de l'état de répartition des charges ou le projet de modification desdits actes, lorsque l'assemblée est appelée, suivant le cas, à établir ou à modifier ces actes ;
 
-7° Le projet de résolution lorsque l'assemblée est appelée à statuer sur l'une des questions mentionnées aux articles 14-1 (2e et 3e alinéa), 14-2 (2e alinéa), 18 (7e alinéa), 24 (alinéas 2 et 3), 25, 26, 30 (alinéas 1er, 2 et 3), 35, 37 (alinéas 3 et 4) et 39 de la loi du 10 juillet 1965 ;
+7° Le projet de résolution lorsque l'assemblée est appelée à statuer sur l'une des questions mentionnées aux articles 14-1 (2e et 3e alinéa), 14-2 (2e alinéa), 18 (7e alinéa), 24 (alinéas 2 et 3), 25,26, 30 (alinéas 1er, 2 et 3), 35,37 (alinéas 3 et 4) et 39 de la loi du 10 juillet 1965 ;
 
 8° Le projet de résolution tendant à autoriser, s'il y a lieu, le syndic à introduire une demande en justice ;
 
@@ -42,6 +42,8 @@ II.-Pour l'information des copropriétaires :
 
 4° Le compte rendu de l'exécution de la mission du conseil syndical prévu au deuxième alinéa de l'article 22 du présent décret et le bilan établi par le conseil syndical en application du second alinéa de l'article 41-2 de la loi du 10 juillet 1965 ;
 
-5° En vue de l'approbation des comptes par l'assemblée générale, le projet d'état individuel de répartition des comptes de chaque copropriétaire.
+5° En vue de l'approbation des comptes par l'assemblée générale, le projet d'état individuel de répartition des comptes de chaque copropriétaire ;
+
+6° L'état actualisé des lots délaissés prévu au second alinéa de l'article 24-6 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis.
 
 Le contenu de ces documents ne fait pas l'objet d'un vote par l'assemblée des copropriétaires.
