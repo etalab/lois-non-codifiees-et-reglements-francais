@@ -362,7 +362,6 @@
 - [Décret n°2011-1511 du 14 novembre 2011 (MFPF1130271D)](decret-n2011-1511-du-14-novembre-2011-mfpf1130271d)
 - [Décret n°2011-1517 du 14 novembre 2011 (DEFH1113209D)](decret-n2011-1517-du-14-novembre-2011-defh1113209d)
 - [Décret n°2011-1519 du 14 novembre 2011 (JUSB1125305D)](decret-n2011-1519-du-14-novembre-2011-jusb1125305d)
-- [Décret n°2011-1520 du 14 novembre 2011 (JUSD1120145D)](decret-n2011-1520-du-14-novembre-2011-jusd1120145d)
 - [Décret n°2011-1522 du 14 novembre 2011 (EFIP1129500D)](decret-n2011-1522-du-14-novembre-2011-efip1129500d)
 - [Décret n°2011-1530 du 14 novembre 2011 (AGRT1119935D)](decret-n2011-1530-du-14-novembre-2011-agrt1119935d)
 - [Décret n°2011-1531 du 14 novembre 2011 (AGRT1122198D)](decret-n2011-1531-du-14-novembre-2011-agrt1122198d)
