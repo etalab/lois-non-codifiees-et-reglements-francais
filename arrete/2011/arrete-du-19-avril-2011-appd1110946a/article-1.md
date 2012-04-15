@@ -906,7 +906,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="center">
-<p align="left">Direction RH ― L'Ecole des ressources humaines</p>
+<p align="left">CEFOP</p>
 </td>
 </tr>
 <tr>

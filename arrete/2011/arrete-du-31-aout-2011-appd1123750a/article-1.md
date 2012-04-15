@@ -659,7 +659,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Université d'Angers ; université de Picardie Jules Verne ; université Paris Descartes ; université de Strasbourg (Marc Bloch)</p>
+<p align="left">Université d'Angers ; Université de Picardie Jules Verne ; Université Paris Descartes ; Université de Strasbourg</p>
 </td>
 </tr>
 <tr>

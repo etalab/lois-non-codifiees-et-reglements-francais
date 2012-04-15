@@ -233,7 +233,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="center">
-<p align="left">ATEP Leconte (Paris College of Art)</p>
+<p align="left">Paris College of Art</p>
 </td>
 </tr>
 <tr>
