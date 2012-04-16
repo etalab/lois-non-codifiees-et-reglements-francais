@@ -316,7 +316,6 @@
 - [Décret n°2009-1113 du 11 septembre 2009 (SASP0916614D)](decret-n2009-1113-du-11-septembre-2009-sasp0916614d)
 - [Décret n°2009-1114 du 11 septembre 2009 (IMIK0920337D)](decret-n2009-1114-du-11-septembre-2009-imik0920337d)
 - [Décret n°2009-1115 du 11 septembre 2009 (ECEP0917311D)](decret-n2009-1115-du-11-septembre-2009-ecep0917311d)
-- [Décret n°2009-1379 du 11 novembre 2009 (MCCT0923439D)](decret-n2009-1379-du-11-novembre-2009-mcct0923439d)
 - [Décret n°2009-1380 du 11 novembre 2009 (IOCA0916082D)](decret-n2009-1380-du-11-novembre-2009-ioca0916082d)
 - [Décret n°2009-1381 du 11 novembre 2009 (IOCA0916122D)](decret-n2009-1381-du-11-novembre-2009-ioca0916122d)
 - [Décret n°2009-1384 du 11 novembre 2009 (JUSB0919432D)](decret-n2009-1384-du-11-novembre-2009-jusb0919432d)

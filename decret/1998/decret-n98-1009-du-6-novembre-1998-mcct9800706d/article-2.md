@@ -1,6 +1,6 @@
 # Article 2
 
-L'aide est accordée pour une durée de trois ans aux entreprises de presse dont les publications remplissent les conditions suivantes :
+L'aide est accordée aux entreprises de presse dont les publications remplissent les conditions suivantes :
 
 a) Faire l'objet d'au moins 50 éditions différentes par an.
 

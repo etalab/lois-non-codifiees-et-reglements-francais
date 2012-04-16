@@ -1,6 +1,6 @@
 # Article 11
 
-Toute demande formulée par un éditeur pour bénéficier des allégements mentionnés à l'article 1er doit être adressée au secrétariat de la commission.
+Toute demande formulée par un éditeur pour bénéficier des allégements mentionnés à l'article 1er doit être adressée au secrétariat de la commission. L'éditeur doit déclarer dans sa demande le titre de la publication et, le cas échéant, le sous-titre et la zone géographique.
 
 A l'appui de sa demande, quelle que soit la nature de l'examen de la publication, l'éditeur doit produire un nombre d'exemplaires du dernier numéro paru et éventuellement des derniers numéros de la parution normale déterminé par la commission paritaire des publications et agences de presse, accompagnés, le cas échéant, des suppléments ou hors-série mis à disposition du public dans l'intervalle séparant la parution du premier et du dernier de ces numéros.
 

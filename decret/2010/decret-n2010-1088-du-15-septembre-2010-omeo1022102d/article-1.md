@@ -1,6 +1,6 @@
 # Article 1
 
-Les journaux et écrits périodiques édités par des entreprises établies en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna, présentant un lien direct avec l'actualité, apprécié au regard de l'objet de la publication, ainsi qu'un apport éditorial significatif, peuvent être reconnus par la commission paritaire des publications et agences de presse en vue de bénéficier des aides prévues par les articles 3 à 9 du présent décret s'ils remplissent les conditions suivantes :
+Les journaux et écrits périodiques édités par des entreprises établies en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna, présentant un lien direct avec l'actualité, apprécié au regard de l'objet de la publication, ainsi qu'un apport éditorial significatif, peuvent être reconnus par la commission paritaire des publications et agences de presse en vue de bénéficier des aides prévues par les articles 3 à 9 du présent décret ainsi que des aides prévues au chapitre III du décret n° 2012-484 du 13 avril 2012 relatif à la réforme des aides à la presse et au fonds stratégique pour le développement de la presse s'ils remplissent les conditions suivantes :
 
 1° Avoir un caractère d'intérêt général quant à la diffusion de la pensée : instruction, éducation, information, récréation du public ;
 

@@ -6,7 +6,7 @@ a) Qui sont imprimés sur papier journal pour 90 % au moins de leur surface ;
 
 b) Qui paraissent au moins cinq fois par semaine ;
 
-c)         Dont le prix de vente au numéro est compris entre 80 % et 130 % du prix de vente moyen pondéré par la diffusion annuelle en France des quotidiens nationaux d'information politique et générale, ledit prix de vente moyen étant calculé à partir du prix de vente au 1er janvier de l'année d'attribution de l'aide ;
+c) Dont le prix de vente au numéro est compris entre 80 % et 130 % du prix de vente moyen pondéré par la diffusion annuelle en France des quotidiens nationaux d'information politique et générale, ledit prix de vente moyen étant calculé à partir de la moyenne des prix de vente au numéro de l'édition courante observés au cours de l'année civile précédant l'année d'attribution de l'aide ;
 
 d) Dont le tirage moyen n'a pas excédé 250 000 exemplaires et dont la diffusion moyenne en France n'a pas dépassé 150 000 exemplaires pendant l'exercice précédant l'année d'attribution de l'aide ;
 

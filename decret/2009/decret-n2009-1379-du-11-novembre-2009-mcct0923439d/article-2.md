@@ -1,5 +1,0 @@
-# Article 2
-
-Les aides prévues à l'article 1er bénéficient aux entreprises établies en France ou dans l'un des Etats membres de l'Union européenne ou parties à l'Espace économique européen, dont les projets se rapportent à un service de presse en ligne reconnu par la commission paritaire des publications et agences de presse, dans les conditions prévues par les décrets n° 97-1065 du 20 novembre 1997 et n° 2009-1340 du 29 octobre 2009 susvisés, sous réserve qu'elles satisfassent aux conditions définies à l'article 30 du décret du 30 avril 1955 susvisé.
-
-Des projets collectifs autres que la création d'un service en ligne peuvent être présentés par une société, une association, un syndicat professionnel, un groupement d'intérêt économique ou toute autre structure juridique ayant reçu un mandat d'au moins trois entreprises éditant des services remplissant les critères mentionnés au premier alinéa n'ayant aucun lien capitalistique entre elles. Ces projets sont, pour l'essentiel, constitués d'investissements communs réalisés par ou pour le compte de l'ensemble des entreprises participant au projet collectif.
