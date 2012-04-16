@@ -2,39 +2,42 @@
 
 RYTHME SUD
 
-A compter de l'année scolaire 2010-2011
+(A compter de la rentrée scolaire 2012-2013)
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>PAYS DE RÉSIDENCE (RYTHME SUD) <br/>
-</th>
-<th>
-<br/>ENFANTS <br/>
-<br/>de moins de 10 ans <br/>
-</th>
-<th>
-<br/>ENFANTS <br/>
-<br/>de 10 à 15 ans <br/>
-</th>
-<th>
-<br/>ENFANTS <br/>
-<br/>de plus de 15 ans <br/>
-</th>
+<td>
+<p align="center">PAYS DE RÉSIDENCE </p>
+<p align="center">(rythme Sud) <br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>ENFANTS </p>
+<p align="center">de moins de 10 ans </p>
+</td>
+<td>
+<p align="center">ENFANTS </p>
+<p align="center">de 10 à 15 ans </p>
+</td>
+<td>
+<p align="center">ENFANTS </p>
+<p align="center">de plus de 15 ans </p>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>ARGENTINE <br/>
 </td>
 <td align="center">
-<br/>471 <br/>
+<br/>555 <br/>
 </td>
 <td align="center">
-<br/>488 <br/>
+<br/>575 <br/>
 </td>
 <td align="center">
-<br/>533 <br/>
+<br/>629 <br/>
 </td>
 </tr>
 <tr>
@@ -42,41 +45,41 @@ A compter de l'année scolaire 2010-2011
 <br/>BOLIVIE <br/>
 </td>
 <td align="center">
-<br/>284 <br/>
+<br/>296 <br/>
 </td>
 <td align="center">
-<br/>289 <br/>
+<br/>301 <br/>
 </td>
 <td align="center">
-<br/>295 <br/>
+<br/>307 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>BRESIL (São Paulo) <br/>
+<br/>BRÉSIL (Rio de Janeiro) <br/>
 </td>
 <td align="center">
 <br/>803 <br/>
 </td>
 <td align="center">
-<br/>842 <br/>
+<br/>803 <br/>
 </td>
 <td align="center">
-<br/>868 <br/>
+<br/>803 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>BRESIL (Rio de Janeiro) <br/>
+<br/>BRÉSIL (SAÕ PAULO) <br/>
 </td>
 <td align="center">
-<br/>816 <br/>
+<br/>825 <br/>
 </td>
 <td align="center">
-<br/>816 <br/>
+<br/>866 <br/>
 </td>
 <td align="center">
-<br/>816 <br/>
+<br/>892 <br/>
 </td>
 </tr>
 <tr>
@@ -84,13 +87,13 @@ A compter de l'année scolaire 2010-2011
 <br/>CHILI <br/>
 </td>
 <td align="center">
-<br/>464 <br/>
+<br/>495 <br/>
 </td>
 <td align="center">
-<br/>464 <br/>
+<br/>495 <br/>
 </td>
 <td align="center">
-<br/>464 <br/>
+<br/>495 <br/>
 </td>
 </tr>
 <tr>
@@ -98,27 +101,27 @@ A compter de l'année scolaire 2010-2011
 <br/>COSTA RICA <br/>
 </td>
 <td align="center">
-<br/>283 <br/>
+<br/>313 <br/>
 </td>
 <td align="center">
-<br/>283 <br/>
+<br/>313 <br/>
 </td>
 <td align="center">
-<br/>283 <br/>
+<br/>313 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>PEROU <br/>
+<br/>PÉROU <br/>
 </td>
 <td align="center">
-<br/>402 <br/>
+<br/>454 <br/>
 </td>
 <td align="center">
-<br/>402 <br/>
+<br/>454 <br/>
 </td>
 <td align="center">
-<br/>402 <br/>
+<br/>454 <br/>
 </td>
 </tr>
 <tr>
@@ -126,13 +129,13 @@ A compter de l'année scolaire 2010-2011
 <br/>URUGUAY <br/>
 </td>
 <td align="center">
-<br/>484 <br/>
+<br/>552 <br/>
 </td>
 <td align="center">
-<br/>590 <br/>
+<br/>670 <br/>
 </td>
 <td align="center">
-<br/>663 <br/>
+<br/>743 <br/>
 </td>
 </tr>
 <tr>
@@ -140,13 +143,13 @@ A compter de l'année scolaire 2010-2011
 <br/>VANUATU <br/>
 </td>
 <td align="center">
-<br/>260 <br/>
+<br/>364 <br/>
 </td>
 <td align="center">
-<br/>315 <br/>
+<br/>375 <br/>
 </td>
 <td align="center">
-<br/>434<br/>
+<br/>458<br/>
 </td>
 </tr>
 </tbody>
