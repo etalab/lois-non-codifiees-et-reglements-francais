@@ -155,7 +155,6 @@
 - [Décret n°2002-600 du 25 avril 2002 (INTM0200012D)](decret-n2002-600-du-25-avril-2002-intm0200012d)
 - [Décret n°2002-623 du 25 avril 2002 (EQUX0200055D)](decret-n2002-623-du-25-avril-2002-equx0200055d)
 - [Décret n°2002-624 du 25 avril 2002 (EQUX0200038D)](decret-n2002-624-du-25-avril-2002-equx0200038d)
-- [Décret n°2002-629 du 25 avril 2002 (MCCT0200255D)](decret-n2002-629-du-25-avril-2002-mcct0200255d)
 - [Décret n°2002-631 du 25 avril 2002 (AGRR0200875D)](decret-n2002-631-du-25-avril-2002-agrr0200875d)
 - [Décret n°2002-410 du 26 mars 2002 (MESA0124284D)](decret-n2002-410-du-26-mars-2002-mesa0124284d)
 - [Décret n°2002-611 du 26 avril 2002 (ECOP0200248D)](decret-n2002-611-du-26-avril-2002-ecop0200248d)
