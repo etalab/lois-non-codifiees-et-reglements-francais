@@ -1,6 +1,0 @@
-# Décret n°2007-1448 du 8 octobre 2007 relatif à la fusion des corps des secrétaires administratifs d'administration centrale et des secrétaires administratifs des affaires sanitaires et sociales, à la création du corps des secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle et à l'intégration des fonctionnaires appartenant à ce corps dans celui des secrétaires administratifs relevant des ministres chargés des affaires sociales
-
-- [Chapitre Ier : Fusion des corps des secrétaires administratifs d'administration centrale et des secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales.](chapitre-ier)
-- [Chapitre II : Création du corps des secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle et modalités temporaires de recrutement dans ce corps.](chapitre-ii)
-- [Chapitre III : Intégration des fonctionnaires appartenant au corps des secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle dans celui des secrétaires administratifs relevant des ministres chargés des affaires sociales.](chapitre-iii)
-- [Article 21](article-21.md)

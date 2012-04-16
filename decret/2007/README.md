@@ -327,7 +327,6 @@
 - [Décret n°2007-1444 du 8 octobre 2007 (IOCB0761756D)](decret-n2007-1444-du-8-octobre-2007-iocb0761756d)
 - [Décret n°2007-1445 du 8 octobre 2007 (IOCA0752745D)](decret-n2007-1445-du-8-octobre-2007-ioca0752745d)
 - [Décret n°2007-1447 du 8 octobre 2007 (DEFH0760364D)](decret-n2007-1447-du-8-octobre-2007-defh0760364d)
-- [Décret n°2007-1448 du 8 octobre 2007 (SJSG0760556D)](decret-n2007-1448-du-8-octobre-2007-sjsg0760556d)
 - [Décret n°2007-1587 du 8 novembre 2007 (JUSK0764973D)](decret-n2007-1587-du-8-novembre-2007-jusk0764973d)
 - [Décret n°2007-1588 du 8 novembre 2007 (MEND0758049D)](decret-n2007-1588-du-8-novembre-2007-mend0758049d)
 - [Décret n°2007-1589 du 8 novembre 2007 (MLVU0757692D)](decret-n2007-1589-du-8-novembre-2007-mlvu0757692d)
