@@ -57,3 +57,5 @@ Techniciens de recherche et de formation.
 Techniciens des systèmes d'information et de communication du ministère de l'intérieur.
 
 Techniciens de laboratoire relevant des ministres chargés de l'économie et du budget.
+
+Techniciens de physiothérapie relevant du ministre chargé de la santé.
