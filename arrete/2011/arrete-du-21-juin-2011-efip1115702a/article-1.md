@@ -31,12 +31,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques (supprimé à compter du 1er avril 2012)<br/>
-</td>
-<td align="center">Secrétaire technique de la commission consultative des marchés publics de l'Etat, secteur approvisionnements généraux <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Direction des affaires juridiques </td>
 <td align="center">Chef du bureau " ressources informatiques, documentaires et de la communication interne " <br/>
 </td>

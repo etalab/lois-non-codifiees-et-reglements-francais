@@ -1,0 +1,3 @@
+# Article 1
+
+Les maladies animales pour lesquelles un fonds de mutualisation agréé en application de l'article L. 361-3 du code rural et de la pêche maritime peut présenter un programme d'indemnisation sous forme simplifiée sont les maladies animales figurant, d'une part, parmi les dangers zoosanitaires de première catégorie mentionnés à l'article L. 201-1 du même code et, d'autre part, parmi les dangers zoosanitaires de deuxième catégorie mentionnés au même article et faisant l'objet d'une réglementation, pour lesquelles un ou plusieurs foyers de la maladie ont été observés sur le territoire national dans les douze mois précédant la date de transmission du programme d'indemnisation simplifié.

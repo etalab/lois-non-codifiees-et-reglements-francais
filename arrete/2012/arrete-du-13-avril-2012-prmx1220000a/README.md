@@ -1,4 +1,4 @@
-# Décret n°2002-629 du 25 avril 2002 relatif à l'aide à la distribution de la presse
+# Arrêté du 13 avril 2012 portant organisation de la direction de l'information légale et administrative
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

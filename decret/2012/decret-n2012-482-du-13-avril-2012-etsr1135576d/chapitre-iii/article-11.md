@@ -1,0 +1,5 @@
+# Article 11
+
+Les tableaux d'avancement aux grades de technicien de physiothérapie de classe supérieure et de technicien de physiothérapie de classe exceptionnelle régis par le décret n° 75-557 du 2 juillet 1975 relatif au statut particulier des techniciens de physiothérapie relevant du ministre chargé de la santé établis au titre de l'année 2012 demeurent valables jusqu'au 31 décembre de cette même année.
+
+Les fonctionnaires promus en application de l'alinéa précédent postérieurement à la date d'entrée en vigueur du présent décret sont classés dans les grades d'avancement du corps d'intégration régi par le présent décret en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien corps jusqu'à la date de leur promotion, puis promus dans les grades d'avancement de ce corps en application des dispositions du décret n° 75-557 du 2 juillet 1975 relatif au statut particulier des techniciens de physiothérapie relevant du ministre chargé de la santé et enfin reclassés dans le corps des techniciens de physiothérapie relevant du ministre chargé de la santé conformément à l'article 9 du présent décret.

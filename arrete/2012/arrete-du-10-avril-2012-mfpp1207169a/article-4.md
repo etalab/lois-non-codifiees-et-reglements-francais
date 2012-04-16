@@ -1,0 +1,5 @@
+# Article 4
+
+I. ― La sous-direction de l'animation interministérielle des politiques de ressources humaines anime le dialogue avec l'ensemble des administrations sur leur politique de gestion des ressources humaines. Elle pilote les politiques de recrutement, de formation, de mobilité, d'égalité professionnelle et de prévention des discriminations dans la fonction publique. Elle met en œuvre le dispositif d'évaluation des politiques de ressources humaines et exerce une mission de connaissance et de prospective sur les évolutions de l'emploi public.
+
+II. ― La sous-direction de l'animation interministérielle des politiques de ressources humaines comprend le bureau de l'animation interministérielle et de l'évaluation des politiques de ressources humaines et de l'égalité professionnelle, le bureau des politiques de recrutement, de la formation et de la professionnalisation, le bureau des parcours professionnels, de la mobilité et de l'animation territoriale, et le bureau de l'expertise internationale, de la prospective et de l'analyse comparative des politiques de ressources humaines.
