@@ -24,7 +24,6 @@
 - [Décret n°2009-5 du 2 janvier 2009 (SJSP0819969D)](decret-n2009-5-du-2-janvier-2009-sjsp0819969d)
 - [Décret n°2009-610 du 2 juin 2009 (DEVN0908280D)](decret-n2009-610-du-2-juin-2009-devn0908280d)
 - [Décret n°2009-612 du 2 juin 2009 (ECED0810713D)](decret-n2009-612-du-2-juin-2009-eced0810713d)
-- [Décret n°75-557 du 2 juillet 1975](decret-n75-557-du-2-juillet-1975)
 - [Décret n°2008-13 du 3 janvier 2008 (JUSG0770774D)](decret-n2008-13-du-3-janvier-2008-jusg0770774d)
 - [Décret n°2009-1085 du 3 septembre 2009 (DEVK0911529D)](decret-n2009-1085-du-3-septembre-2009-devk0911529d)
 - [Décret n°2009-1089 du 3 septembre 2009 (DEVT0831507D)](decret-n2009-1089-du-3-septembre-2009-devt0831507d)
