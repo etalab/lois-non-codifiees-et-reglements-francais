@@ -4,4 +4,6 @@ En application des articles D. 57, D. 297 et D. 315 du code de procédure pénal
 
 ― à compter du 5 septembre 2011 à l'intérieur des ressorts territoriaux des cours d'appel de Metz, Nancy et Riom ;
 
-― à compter du 5 décembre 2011 à l'intérieur du ressort territorial de la cour d'appel de Caen.
+― à compter du 5 décembre 2011 à l'intérieur du ressort territorial de la cour d'appel de Caen ;
+
+― à compter du 10 avril 2012 à l'intérieur du ressort territorial des cours d'appel d'Amiens et de Besançon.
