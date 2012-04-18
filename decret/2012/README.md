@@ -152,6 +152,8 @@
 - [Décret n°2012-371 du 16 mars 2012 (EFIE1101928D)](decret-n2012-371-du-16-mars-2012-efie1101928d)
 - [Décret n°2012-373 du 16 mars 2012 (MCCE1132563D)](decret-n2012-373-du-16-mars-2012-mcce1132563d)
 - [Décret n°2012-374 du 16 mars 2012 (OMEO1128101D)](decret-n2012-374-du-16-mars-2012-omeo1128101d)
+- [Décret n°2012-491 du 16 avril 2012 (PRMX1202583D)](decret-n2012-491-du-16-avril-2012-prmx1202583d)
+- [Décret n°2012-494 du 16 avril 2012 (ETSS1203114D)](decret-n2012-494-du-16-avril-2012-etss1203114d)
 - [Décret n°2007-1360 du 17 septembre 2007 (ECEP0762182D)](decret-n2007-1360-du-17-septembre-2007-ecep0762182d)
 - [Décret n°2012-231 du 17 février 2012 (MAEF1201993D)](decret-n2012-231-du-17-fevrier-2012-maef1201993d)
 - [Décret n°2012-232 du 17 février 2012 (DEVP1123456D)](decret-n2012-232-du-17-fevrier-2012-devp1123456d)
