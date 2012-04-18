@@ -16,4 +16,4 @@ c) Un justificatif d'adresse constitué par l'un ou l'autre des documents suivan
 
 d) Pour la personne de nationalité française, le document justifiant sa situation au regard des obligations du service national, en application des articles L. 113-4 et L. 114-6 du code du service national susvisé.
 
-Le dossier comprenant ces éléments est adressé au préfet de la région où le candidat est domicilié ou, suivant le cas, au préfet de Mayotte. Accusé de réception lui est donné par le préfet qui l'invite, le cas échéant, à compléter son dossier à peine de rejet de sa demande.
+Le dossier comprenant ces éléments est adressé au préfet de la région concernée ou, suivant le cas, au préfet de Mayotte. Accusé de réception lui est donné par le préfet qui l'invite, le cas échéant, à compléter son dossier à peine de rejet de sa demande.

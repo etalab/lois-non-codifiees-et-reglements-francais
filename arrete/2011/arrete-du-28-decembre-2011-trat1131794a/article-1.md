@@ -28,7 +28,7 @@ j) Les documents contenant les données relatives à la durée d'utilisation des
 
 k) Les photocopies des attestations de conducteur mentionnées à l'article 5 du règlement (CE) n° 1072/2009 susvisé pour les entreprises de transport public routier de marchandises disposant de licences communautaires ;
 
-l) Les billets collectifs, l'assurance pour le transport de personnes et l'attestation d'aménagement pour les entreprises de transport public routier de personnes ;
+l) Les billets collectifs, l'assurance pour le transport de personnes et les conventions passées, le cas échéant, avec des autorités organisatrices de services de transport public de personnes.
 
 3. Dispose d'un ou de plusieurs véhicules motorisés détenus en pleine propriété ou en vertu d'un contrat de location-vente, de location, de crédit-bail ou de mise à disposition. Cette obligation peut être satisfaite après obtention de l'autorisation d'exercer la profession de transporteur, de déménageur et de loueur de véhicules industriels avec conducteur.
 

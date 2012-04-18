@@ -474,7 +474,6 @@
 - [Arrêté du 15 avril 1992 (ACVA9210040A)](arrete-du-15-avril-1992-acva9210040a)
 - [Arrêté du 15 avril 1992 (ACVA9210041A)](arrete-du-15-avril-1992-acva9210041a)
 - [Arrêté du 15 décembre 1992 (BUDR9205043A)](arrete-du-15-decembre-1992-budr9205043a)
-- [Arrêté du 15 décembre 1992 (EQUT9201635A)](arrete-du-15-decembre-1992-equt9201635a)
 - [Arrêté du 15 décembre 1992 (SANM9203291A)](arrete-du-15-decembre-1992-sanm9203291a)
 - [Arrêté du 15 janvier 1992 (DEFT9201073A)](arrete-du-15-janvier-1992-deft9201073a)
 - [Arrêté du 15 janvier 1992 (ECOS9160001A)](arrete-du-15-janvier-1992-ecos9160001a)

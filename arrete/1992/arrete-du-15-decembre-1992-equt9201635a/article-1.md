@@ -1,3 +1,0 @@
-# Article 1
-
-L'attestation visée à l'article 5 du règlement (C.E.E.) du 23 juillet 1992 susvisé est délivrée aux entreprises de transport public routier de personnes qui en font la demande par le préfet (direction départementale de l'équipement) du département où l'entreprise, ou son établissement, est inscrite au registre des entreprises de transport public routier de personnes, ou par le préfet de la région d'Ile-de-France (direction régionale de l'équipement) pour les entreprises ou les établissements établis dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.

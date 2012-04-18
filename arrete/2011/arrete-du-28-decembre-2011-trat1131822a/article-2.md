@@ -86,7 +86,7 @@ Attestation de transport pour compte propre
 
 au sein de l'Union européenne
 
-IV. ― Les transports pour compte propre, effectués en application du règlement (CE) n° 1073/2009 susvisé sont exécutés sous couvert de l'attestation visée au I et prévue par ces règlements, remplie en trois exemplaires et complétée par le préfet de région du lieu de départ du transport.
+IV. ― Les transports pour compte propre, effectués en application du règlement (CE) n° 1073/2009 susvisé sont exécutés sous couvert de l'attestation visée au I et prévue par ce règlement, remplie en trois exemplaires et complétée par le préfet de région du lieu de départ du transport.
 
 L'original ou une copie certifiée conforme de cette attestation doit se trouver à bord du véhicule pendant tout le transport.
 
@@ -140,12 +140,16 @@ Modalités de délivrance des documents de contrôle
 
 VI. ― Les carnets de feuilles de route visés au présent article du présent arrêté sont délivrés aux entreprises de transport françaises qui en font la demande, sous réserve qu'elles remplissent les conditions prévues par les textes réglementaires en vigueur pour l'admission à la profession de transporteur public de personnes par route.
 
-Les attestations pour les transports pour compte propre visées à l'article 2-2-III ci-dessus sont délivrées et complétées par le préfet de région du lieu de départ du transport.
+Les attestations pour les transports pour compte propre visées à l'article 2-1-IV ci-dessus sont délivrées et complétées par le préfet de région du lieu de départ du transport.
 
 VII. ― Les carnets de déclaration et les feuilles de route sont délivrés aux entreprises de transport et organismes étrangers qui en font la demande, dans les conditions prévues dans le présent article.
 
 La déclaration est établie conformément au modèle défini par décision du directeur chargé des transports routiers publiée au Bulletin officiel du ministère de l'écologie, du développement durable, des transports et du logement.
 
-VIII. ― L'Association française des transporteurs routiers internationaux (AFTRI), la Fédération nationale des transporteurs de voyageurs (FNTV) et l'Union nationale des organisations syndicales des transporteurs routiers automobiles (UNOSTRA) sont chargées de l'impression et de la délivrance des documents de contrôle des services routiers internationaux de voyageurs effectués par autocars et par autobus visés ci-dessus.
+VIII. ― L'Association française des transporteurs routiers internationaux (AFTRI), la Fédération nationale des transporteurs de voyageurs (FNTV), l'Organisation des transporteurs routiers européens (OTRE) et l'Union nationale des organisations syndicales des transporteurs routiers automobiles (UNOSTRA) sont chargées de l'impression et de la délivrance des documents de contrôle des services routiers internationaux de voyageurs effectués par autocars et par autobus visés ci-dessus.
 
-L'AFTRI, la FNTV et l'UNOSTRA enregistrent les références des documents délivrés et de leurs bénéficiaires et les tiennent à la disposition des agents chargés du contrôle.
+L'AFTRI, la FNTV, l'OTRE et l'UNOSTRA enregistrent les références des documents délivrés et de leurs bénéficiaires et les tiennent à la disposition des agents chargés du contrôle.
+
+IX. - Dans le cas d'un service occasionnel en régime de cabotage effectué dans un autre Etat membre de l'Union européenne ou de l'Espace économique européen, les feuilles de route utilisées par les entreprises de transport public routier de personnes établies en France sont renvoyées, dans un délai de deux semaines après leur utilisation, au ministère chargé des transports (direction des services de transport, sous-direction des transports routiers, bureau TR 2), arche de La Défense, paroi Sud, 92055 La Défense Cedex.
+
+X. - Dans le cas de l'exécution des services réguliers spécialisés en régime de cabotage effectués dans un autre Etat membre de l'Union européenne ou de l'Espace économique européen, les feuilles de route utilisées par les entreprises de transport public routier de personnes établies en France sont remplies sous la forme de récapitulatifs mensuels et renvoyées, dans un délai de deux semaines après leur utilisation, au ministère chargé des transports (direction des services de transport, sous-direction des transports routiers, bureau TR 2), arche de la Défense, paroi Sud, 92055 La Défense Cedex.

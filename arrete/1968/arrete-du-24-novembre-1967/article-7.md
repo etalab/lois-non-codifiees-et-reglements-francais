@@ -10,19 +10,13 @@ Ils peuvent comporter un pictogramme qui précise à quels véhicules ils s'adre
 
 Les feux destinés aux piétons sont verts ou rouges. Ils comportent un pictogramme et éventuellement une mention clignotante.
 
-1. Signification générale des couleurs :
+1. Signification des couleurs :
 
-Un feu vert fixe signifie autorisation de passer la ligne d'effet du signal. Le mot signal désigne le message transmis et souvent, par extension, le feu ou l'ensemble de feux qui le fournit.
+1.1. La signification des couleurs des signaux lumineux concernant la circulation des véhicules est fixée pour les feux rouge, jaune et vert par les articles R. 412-30 à R. 412-33 du code de la route.
 
-Toutefois, un feu vert destiné à régler la circulation à une intersection ne donne pas aux conducteurs l'autorisation de passer si, dans la direction qu'ils vont emprunter, l'encombrement de la circulation est tel qu'ils ne sont pas certains de dégager l'intersection avant le changement de phase ;
+1.2. La signification des couleurs des signaux lumineux concernant la circulation des piétons est fixée aux articles R. 412-38 et R. 412-41 du code de la route.
 
-Si un piéton s'engage sur la chaussée lorsque le signal qui lui est destiné est vert, il est assuré de disposer d'un temps suffisant pour achever sa traversée ou atteindre un refuge, à une vitesse normale, avant l'arrivée de véhicules en conflit direct avec lui ;
-
-Un feu jaune fixe signifie aux conducteurs de véhicules interdiction de franchir la ligne d'effet du signal. Cette interdiction ne joue pas dans le cas où, à l'allumage du feu jaune, le conducteur ne peut plus arrêter son véhicule dans des conditions de sécurité suffisante avant la ligne d'effet du signal ;
-
-Un feu rouge, fixe ou clignotant, signifie aux véhicules l'interdiction de franchir la ligne d'effet du signal. Pour les piétons, le feu rouge fixe et éventuellement clignotant qui leur est destiné signifie l'obligation de dégager au plus vite la zone des conflits ou l'interdiction de s'y engager.
-
-Un feu blanc ne concerne que les véhicules des services réguliers de transport en commun.
+1.3. Un feu blanc concerne les véhicules des services réguliers de transport en commun.
 
 2° Signification des signes spécifiques aux signaux pour véhicules des services réguliers de transport en commun :
 
@@ -34,7 +28,17 @@ Lorsqu'elle n'est pas matérialisée sur la chaussée, la ligne d'effet des sign
 
 La ligne d'effet des signaux destinés aux piétons se situe à la limite de la chaussée à traverser et du trottoir sur lequel ils attendent.
 
-A.-Signaux lumineux d'intersection.
+4° Signification des messages spécifiques pour les personnes aveugles ou malvoyantes :
+
+Lorsque les feux réglant la traversée des piétons sont équipés de dispositifs tactiles ou sonores destinés aux personnes aveugles ou malvoyantes, les indications données par ces dispositifs sont les suivantes :
+
+- un message tactile émis par le boîtier (mouvement vibratoire ou rotatif) donne l'autorisation de s'engager sur le passage piétons ;
+
+- un message sonore codé donne l'autorisation de s'engager sur le passage piétons ;
+
+- un message verbal débutant par "rouge piéton" ou "stop piéton" fait interdiction de s'engager sur la traversée piétonne ou obligation de la dégager au plus vite.
+
+5° Signaux lumineux d'intersection
 
 Les signaux lumineux d'intersection sont destinés à séparer dans le temps les principaux mouvements de véhicules et de piétons en conflit dans une intersection. Leur usage peut être étendu à la protection de traversées pour piétons en pleine voie ou à la gestion d'alternats pour le franchissement de sections de routes étroites.
 
@@ -53,6 +57,12 @@ Certains signaux tricolores circulaires sont munis, sur leur face arrière, d'un
 b) Signaux bicolores destinés aux piétons (R 12) :
 
 Ils se composent de deux feux rectangulaires généralement disposés côte à côte : celui de droite, de couleur verte, porte une silhouette de piéton en mouvement, celui de gauche, de couleur rouge porte une silhouette de piéton immobile. Ils peuvent aussi être disposés l'un au-dessous de l'autre, le vert en bas. Leur existence est liée à la présence de signaux lumineux tricolores.
+
+Les dispositifs pour les personnes aveugles ou malvoyantes dont les signaux bicolores R 12 peuvent être équipés sont tactiles ou sonores.
+
+Le signal tactile est activé pendant toute la durée du feu vert. Il est délivré par un boîtier manuel émettant une vibration ou doté d'un cône tournant.
+
+Le système sonore est activé en permanence ou sur appel (télécommande et éventuellement bouton poussoir). Il délivre un message spécifique à chaque signal (silhouette verte ou silhouette rouge) et répété pendant toute la durée de celui-ci.
 
 c) Signaux tricolores modaux (R 13) :
 
@@ -124,7 +134,7 @@ Sur un signal d'anticipation (modal R15 ou directionnel R16), le feu jaune clign
 
 Sur un signal d'autorisation conditionnelle de franchissement (R19 pour cycles), le feu jaune clignotant signifie aux cyclistes qu'ils sont autorisés à ne pas marquer l'arrêt signifié par le feu pour emprunter la direction indiquée par la flèche, à la condition de franchir la ligne d'arrêt du signal tricolore en toute prudence et en respectant la priorité de passage accordée aux autres usagers.
 
-B.-Autres signaux lumineux de circulation.
+6° Autres signaux lumineux de circulation
 
 Les signaux visés ici ont une implantation fixe, non liée aux intersections, et fonctionnent en permanence ou occasionnellement.
 
@@ -149,5 +159,7 @@ c) Signaux d'arrêt (R24, R25) :
 Un feu rouge clignotant (R24), ou un ensemble de deux feux rouges clignotants, impose l'arrêt absolu à tous les véhicules et piétons. Il est employé devant un passage à niveau, une traversée de voie exclusivement réservée aux véhicules des services réguliers de transport en commun, un pont mobile, avant une zone dangereuse telle qu'un couloir d'avalanches, pour laisser le passage aux véhicules de pompiers ou à l'entrée d'un tunnel.
 
 Le signal d'arrêt destiné aux piétons (R25) se compose de deux feux rectangulaires, de couleur rouge, disposés l'un au-dessus de l'autre : celui du haut porte une silhouette de piéton, celui du bas la mention : " STOP ". Lorsqu'il est activé, le feu du haut s'allume fixe, tandis que celui du bas clignote. Au repos, le signal est intégralement éteint.
+
+Le signal d'arrêt R 25 doit être équipé d'un dispositif sonore pour les personnes aveugles ou malvoyantes. Le dispositif sonore est activé par télécommande et éventuellement par bouton poussoir. Il délivre un message spécifique pendant toute la durée de fonctionnement des feux rouges.
 
 Il est employé devant une traversée de voie exclusivement réservée aux véhicules des services réguliers de transport en commun.
