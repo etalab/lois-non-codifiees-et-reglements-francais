@@ -98,7 +98,6 @@
 - [Arrêté du 4 mars 1993 (ECOT9310170A)](arrete-du-4-mars-1993-ecot9310170a)
 - [Arrêté du 4 mars 1993 (PTTS9300102A)](arrete-du-4-mars-1993-ptts9300102a)
 - [Arrêté du 4 mars 1993 (TEFF9300260A)](arrete-du-4-mars-1993-teff9300260a)
-- [Arrêté du 4 mars 1994 (BUDP9300677A)](arrete-du-4-mars-1994-budp9300677a)
 - [Arrêté du 4 novembre 1993 (BUDR9307012A)](arrete-du-4-novembre-1993-budr9307012a)
 - [Arrêté du 4 novembre 1993 (ECOC9300162A)](arrete-du-4-novembre-1993-ecoc9300162a)
 - [Arrêté du 4 novembre 1993 (MCCE9300338A)](arrete-du-4-novembre-1993-mcce9300338a)
