@@ -8,4 +8,6 @@ Le contrôleur budgétaire et comptable ministériel du ministère de l'intérie
 
 - Ecole nationale supérieure des officiers de sapeurs-pompiers ;
 
-- Agence nationale de traitement automatisé des infractions.
+- Agence nationale de traitement automatisé des infractions ;
+
+- Conseil national des activités privées de sécurité.
