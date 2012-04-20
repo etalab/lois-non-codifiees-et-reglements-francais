@@ -8,9 +8,7 @@ Les actions pouvant bénéficier de l'aide à la restructuration et à la reconv
 
 ― le surgreffage d'une vigne avec modification variétale.
 
-Les droits issus d'un arrachage effectué après le 31 juillet 2008 d'une variété primée dans le cadre d'une plantation réalisée après le 31 juillet 2008, pour une action de reconversion variétale, ne peuvent plus être utilisés au titre d'une action de reconversion variétale. Cette condition s'applique dès la campagne de plantation de la variété correspondante.
-
-Dans le cas du surgreffage, lorsqu'une variété a été primée au titre d'un surgreffage réalisé après le 31 juillet 2008, la variété issue de ce surgreffage primé ne peut plus être éligible au titre d'une action de reconversion variétale.
+Lorsqu'une variété de vigne est primée dans le cadre de la restructuration pour une action de reconversion variétale telle que définie ci-dessus, réalisée après le 31 juillet 2008, cette variété ne peut plus être remplacée en bénéficiant d'une aide à la restructuration pour une autre action de reconversion variétale sur l'ensemble de l'exploitation. Cette condition s'applique dès la campagne de plantation ou de surgreffage de la variété correspondante. Pour la reconversion variétale par arrachage et replantation, cette restriction concerne uniquement les plantations réalisées avec des droits octroyés à la suite d'un arrachage de la variété primée effectué après le 31 juillet 2008.
 
 2° La relocalisation de vignobles. Elle est définie par la réimplantation de vignobles sur des parcelles différentes de celles arrachées et s'appuie sur un zonage distinguant les parcelles arrachées des parcelles replantées.
 
@@ -34,7 +32,9 @@ Pour des plantations réalisées avec des droits externes à l'exploitation, l'a
 
 ― si ces droits sont issus de transfert ou prélevés avec une contrepartie financière sur la réserve nationale de droits et sont utilisés pour la plantation d'une superficie en contiguïté d'une superficie de l'exploitation déjà plantée ou pour la plantation d'une superficie objet de la demande d'aide en complément de droits nés d'un arrachage sur l'exploitation.
 
-Le palissage d'une vigne se définit par la pose de piquets neufs et d'au moins deux fils releveurs, non compris le fil porteur éventuel sur lequel sont fixées les parties ligneuses de la souche.
+Jusqu'à la campagne 2010-2011 incluse, le palissage d'une vigne se définit par la pose de piquets neufs et d'au moins deux fils releveurs, non compris le fil porteur éventuel sur lequel sont fixées les parties ligneuses de la souche.
+
+A partir de la campagne 2011-2012, pour l'amélioration des techniques de gestion du vignoble par l'arrachage d'une vigne non palissée et la replantation d'une vigne palissée, la mise en place d'un palissage sur une vigne non palissée ou l'adaptation d'un palissage suite à une modification du mode de conduite dans le cadre d'une adaptation au cahier des charges, le palissage se définit par la pose de piquets neufs et d'au moins deux fils releveurs, non compris le fil porteur éventuel sur lequel sont fixées les parties ligneuses de la souche. Pour les autres actions de restructuration par plantation visées aux 1°, 2° ou 3° du présent article et de l'article 8, un complément palissage peut être versé en cas de pose de piquets neufs et d'au moins un fil permettant la conduite de la vigne selon le type plan relevé, en lyre ou suivant un autre système continu de conduite de la vigne, ou en cas de pose d'échalas neufs pour chaque pied de vignes.
 
 Pour une même superficie, les exploitants viticoles peuvent percevoir l'aide pour le palissage d'une vigne en place et l'aide relative à son surgreffage, dans la mesure où ces deux actions sont réalisées au cours de la même campagne.
 
@@ -43,3 +43,7 @@ La plantation ou le surgreffage doivent être réalisés avec du matériel vég�
 Le taux de reprise d'une plantation ou d'un surgreffage doit atteindre, sauf cas de force majeure ou de circonstances exceptionnelles, au moins 90 %. Le taux maximum de 10 % de manquants est accepté dans la mesure où les manquants sont répartis sur l'ensemble de la parcelle.
 
 A partir de la campagne 2009-2010, le taux de reprise d'une plantation ou d'un surgreffage doit atteindre, sauf cas de force majeure ou de circonstances exceptionnelles, au moins 80 %. Le taux maximum de 20 % de manquants est accepté dans la mesure où les manquants sont répartis sur l'ensemble de la parcelle.
+
+Pour une plantation, les actions de restructuration susvisées sont définies par rapport aux caractéristiques de la parcelle d'origine des droits de plantation utilisés.
+
+Les plantations résultant de la restructuration peuvent être palissées ou non. Les montants maximums de l'indemnisation pour les coûts de la restructuration ou reconversion du vignoble relatifs à des plantations mentionnés au 1° de l'article 9 et à l'annexe I s'appliquent à des plantations avec palissage à partir de la campagne 2011-2012.
