@@ -6,9 +6,15 @@ Dans le cas où, avant paiement, les services du pari mutuel seraient avisés d'
 
 Tout paiement peut, à l'initiative des services du pari mutuel, donner lieu à un règlement par chèque barré non endossable à l'ordre du bénéficiaire.
 
-Tout gain supérieur à 5 000 euros en paris "Tiercé", "Quarté plus" et "Quinté plus" est exclusivement payable par chèque à l'ordre du bénéficiaire sur présentation d'une pièce d'identité.
+Tout gain supérieur à 5 000 euros en paris " Tiercé ", " Quarté plus " et " Quinté plus " est exclusivement payable par chèque à l'ordre du bénéficiaire sur présentation d'une pièce d'identité.
 
 Tout paiement d'un gain par le PMU supérieur à 300 euros peut, à la demande du parieur, faire l'objet d'un règlement par chèque sur présentation d'une pièce d'identité.
+
+La loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique aux informations nominatives fournies au PMU qui revêtent un caractère obligatoire pour tout paiement par chèque.
+
+Ces informations ne sont pas cédées ou mises à disposition d'organismes extérieurs à des fins commerciales. Ces informations peuvent faire l'objet de communication aux seuls destinataires déclarés à la Commission nationale de l'informatique et des libertés, pour les seules nécessités de gestion du PMU.
+
+Cette loi garantit au parieur un droit d'accès, de rectification ou d'opposition au traitement de ses données personnelles à des fins marketing, auprès du PMU service clientèle, TSA 61501,75734 Paris Cedex 15.
 
 En cas de pluralité de joueurs au titre du même pari, le porteur du récépissé gagnant doit remplir le formulaire de paiement d'un gain collectif mis à sa disposition par le PMU et indiquer les noms et prénoms des divers gagnants, dans la limite de dix maximum, et leur quote-part du gain, afin que le PMU établisse les chèques au nom des personnes physiques majeures indiquées, sur présentation des pièces d'identité correspondantes. Ceux-ci seront remis au porteur du récépissé, en sa qualité de mandataire présumé des différents gagnants.
 
