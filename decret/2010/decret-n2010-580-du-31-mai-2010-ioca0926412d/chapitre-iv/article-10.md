@@ -1,6 +1,6 @@
 # Article 10
 
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait d'acquérir, détenir ou utiliser, en violation des dispositions de l'article 5, un artifice de divertissement conçu pour être lancé par un mortier.
+Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait d'acquérir, détenir ou utiliser, en violation des dispositions de l'article 5, un artifice de divertissement conçu pour être lancé par un mortier.
 
 Les personnes physiques condamnées pour la contravention prévue au présent article encourent également la peine complémentaire de confiscation de la chose qui a servi ou était destinée à commettre l'infraction.
 
