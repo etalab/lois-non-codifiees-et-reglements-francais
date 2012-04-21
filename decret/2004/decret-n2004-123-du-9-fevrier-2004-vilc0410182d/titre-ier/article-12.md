@@ -1,6 +1,6 @@
 # Article 12
 
-Le délégué territorial de l'Agence nationale pour la rénovation urbaine est le représentant de l'Etat dans le département. Il est l'ordonnateur délégué du directeur général de l'agence pour les programmes d'intervention dévolus à celle-ci.
+Le délégué territorial de l'Agence nationale pour la rénovation urbaine est le représentant de l'Etat dans le département, notamment dans les conditions fixées à l'article 59-2 et aux deux premiers alinéas de l'article 59-3 du décret n° 2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l'organisation et à l'action de l'Etat dans les régions et départements. Il est l'ordonnateur délégué du directeur général de l'agence pour les programmes d'intervention dévolus à celle-ci.
 
 Le délégué territorial assure l'instruction des demandes de financement et des dossiers de conventions pluriannuelles des projets de rénovation urbaine ou des projets de requalification des quartiers anciens dégradés et transmet ceux-ci au directeur général pour examen devant le comité d'engagement compétent.
 
