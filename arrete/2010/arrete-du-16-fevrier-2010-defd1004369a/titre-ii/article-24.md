@@ -44,7 +44,7 @@ XVIII. - L'unité française de vérification ;
 
 XIX. - Des organismes de formation, des organismes logistiques, des organismes de guerre électronique, de télécommunication, d'information et de commandement, dont la liste est fixée par instruction ;
 
-XX. - Les officiers généraux chargés des zones de soutien ;
+XX. - Les officiers généraux de zone de soutien ;
 
 XXI. - Les commandants de base de défense ;
 
