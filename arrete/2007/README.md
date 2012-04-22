@@ -595,7 +595,6 @@
 - [Arrêté du 19 juin 2007 (ESRS0756336A)](arrete-du-19-juin-2007-esrs0756336a)
 - [Arrêté du 19 juin 2007 (ESRS0757217A)](arrete-du-19-juin-2007-esrs0757217a)
 - [Arrêté du 19 juin 2007 (IOCB0757729A)](arrete-du-19-juin-2007-iocb0757729a)
-- [Arrêté du 19 mars 2007 (AGRE0752345A)](arrete-du-19-mars-2007-agre0752345a)
 - [Arrêté du 19 mars 2007 (AGRG0700305A)](arrete-du-19-mars-2007-agrg0700305a)
 - [Arrêté du 19 mars 2007 (AGRG0700646A)](arrete-du-19-mars-2007-agrg0700646a)
 - [Arrêté du 19 mars 2007 (AGRM0700751A)](arrete-du-19-mars-2007-agrm0700751a)
