@@ -26,19 +26,19 @@ c) Une attestation sur l'honneur de l'héritier qui avait la garde juridique du 
 
 d) La preuve d'un contrôle technique.
 
-12.B. - Véhicule vendu aux enchères publiques ou faisant l'objet d'une décision judiciaire déterminant sa propriété
+12.B. - Véhicule vendu aux enchères publiques ou par le service des domaines ou faisant l'objet d'une décision judiciaire déterminant sa propriété
 
 Les pièces à fournir par l'acquéreur sont :
 
 a) Une demande de certificat d'immatriculation et les justificatifs d'identité et d'adresse ;
 
-b) Une attestation (bordereau d'adjudication ou procès-verbal de vente) établie par le commissaire-priseur ou l'huissier de justice indiquant :
+b) Le certificat de vente établi par les services du domaine ou une attestation (bordereau d'adjudication ou procès-verbal de vente) établie par le commissaire-priseur ou l'huissier de justice indiquant :
 
 - le nom de l'acquéreur ;
 
 - le numéro d'immatriculation, la marque, le type et le numéro d'identification du véhicule ;
 
-c) Le certificat d'immatriculation ou la fiche d'identification du véhicule visée à l'article 18 du présent arrêté ;
+c) Le certificat d'immatriculation ou la fiche d'identification du véhicule visée à l'article 18 du présent arrêté, ou le document d'immatriculation du véhicule dénommé "carte verte" s'il s'agit d'un véhicule ayant appartenu aux services de l'Etat dont le numéro d'immatriculation relevait du fichier spécifique des véhicules des domaines ;
 
 d) La preuve d'un contrôle technique.
 
@@ -100,7 +100,7 @@ Pour obtenir l'immatriculation d'un véhicule démuni de certificat d'immatricul
 
 a) Une demande de certificat d'immatriculation ;
 
-b) Un procès-verbal de RTI ;
+b) Un procès-verbal de RTI ou le document d'immatriculation délivré par le service des domaines dénommé carte verte ;
 
 c) Les justificatifs d'identité et d'adresse ;
 

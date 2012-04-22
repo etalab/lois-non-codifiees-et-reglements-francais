@@ -4,19 +4,19 @@ Dossiers de demande d'immatriculation.
 
 Les dossiers de demande d'immatriculation d'un véhicule neuf ou d'occasion doivent être constitués des pièces suivantes, détaillées en annexe 1 du présent arrêté.
 
-1.A.-Véhicule neuf prêt à l'emploi d'origine ayant fait l'objet d'une réception nationale ou communautaire
+1. A.-Véhicule neuf prêt à l'emploi d'origine ayant fait l'objet d'une réception nationale ou communautaire
 
-1.A. 1. Justificatifs administratifs
+1. A. 1. Justificatifs administratifs
 
 La demande de certificat d'immatriculation, les justificatifs d'identité et d'adresse et le justificatif de vente.
 
-Pour les véhicules de poids total autorisé en charge (PTAC) ≤ 3,5 tonnes acquis en France, la demande de certificat d'immatriculation et le justificatif de vente peuvent être remplacés par le document dit 3 en 1.
+Pour les véhicules acquis en France, la demande de certificat d'immatriculation et le justificatif de vente peuvent être remplacés par le document dit " 3 en 1 ".
 
-1.A. 2. Justificatifs techniques de conformité
+1. A. 2. Justificatifs techniques de conformité
 
 Pour les véhicules acquis en France :
 
-Le document dit 3 en 1, le certificat de conformité à un type national ou le certificat de conformité à un type CE.
+Le document dit " 3 en 1 " ou le certificat de conformité à un type national ou le certificat de conformité à un type CE..
 
 Le certificat de conformité à un type CE doit être rédigé en français.
 
@@ -28,7 +28,7 @@ Dans le cas où le certificat de conformité à un type CE ne permet pas d'immat
 
 Lorsque le certificat de conformité à un type CE est conforme à la directive 74/150/ CE, il est complété par des indications complémentaires au certificat de conformité 74/150/ CE.
 
-1.A. 3. Justificatifs fiscaux
+1. A. 3. Justificatifs fiscaux
 
 Aucun justificatif fiscal n'est à produire pour les remorques, les semi-remorques, les véhicules agricoles et forestiers et les engins spéciaux provenant d'un Etat membre de l'Union européenne autre que la France.
 
@@ -38,15 +38,15 @@ a) Provenant d'un Etat tiers à l'Union européenne ou d'une partie de territoir
 
 b) Provenant d'un Etat de l'Union européenne autre que la France, dans les cas autres que ceux mentionnés au point a : un quitus fiscal ou une mention de dispense.
 
-1.B.-Véhicule neuf à l'origine non prêt à l'emploi ayant fait l'objet d'une réception nationale ou communautaire
+1. B.-Véhicule neuf à l'origine non prêt à l'emploi ayant fait l'objet d'une réception nationale ou communautaire
 
-1.B. 1. Justificatifs administratifs
+1. B. 1. Justificatifs administratifs
 
-Les pièces indiquées en 1.A. 1 pour le véhicule d'origine.
+Les pièces indiquées en 1. A. 1 pour le véhicule d'origine.
 
-1.B. 2. Justificatifs techniques de conformité
+1. B. 2. Justificatifs techniques de conformité
 
-Le certificat de conformité à un type CE pour le véhicule d'origine complété du tableau figurant à l'annexe 17 du présent arrêté ou le certificat de conformité à un type national, et :
+Le document dit " 3 en 1 " ou le certificat de conformité à un type CE pour le véhicule d'origine complété du tableau figurant à l'annexe 17 du présent arrêté ou le certificat de conformité à un type national, et :
 
 a) Soit un procès-verbal de réception à titre isolé (RTI) ;
 
@@ -62,25 +62,25 @@ Pour les véhicules équipés d'une benne amovible, carrosserie benne amovible (
 
 c) soit un procès-verbal de réception individuelle (RI) : l'annexe 5 de l'arrêté du 4 mai 2009 susvisé.
 
-1.B. 3. Justificatifs fiscaux
+1. B. 3. Justificatifs fiscaux
 
 Aucun justificatif fiscal n'est à produire pour les remorques, les semi-remorques, les véhicules agricoles et forestiers et les engins spéciaux provenant d'un Etat membre de l'Union européenne autre que la France.
 
-Dans les autres cas, les pièces indiquées en 1.A. 3 pour le véhicule d'origine et, si la carrosserie a été montée dans un pays tiers à l'Union européenne ou dans une partie de territoire mentionnée à l'article 4.1 de l'annexe 1 du présent arrêté, un certificat 846 A délivré par le service des douanes.
+Dans les autres cas, les pièces indiquées en 1. A. 3 pour le véhicule d'origine et, si la carrosserie a été montée dans un pays tiers à l'Union européenne ou dans une partie de territoire mentionnée à l'article 4.1 de l'annexe 1 du présent arrêté, un certificat 846 A délivré par le service des douanes.
 
-1.C.-Véhicule neuf non conforme à un type réceptionné
+1. C.-Véhicule neuf non conforme à un type réceptionné
 
-1.C. 1. Justificatifs administratifs
+1. C. 1. Justificatifs administratifs
 
 La demande de certificat d'immatriculation, les justificatifs d'identité et d'adresse et le justificatif de vente.
 
 Dans le cas où le véhicule a été construit par son propriétaire, le justificatif de vente est remplacé par les factures d'achat des éléments constitutifs du véhicule (notamment châssis, moteur).
 
-1.C. 2. Justificatifs techniques de conformité
+1. C. 2. Justificatifs techniques de conformité
 
 Un procès-verbal de RTI ou un procès-verbal de RI.
 
-1.C. 3. Justificatifs fiscaux
+1. C. 3. Justificatifs fiscaux
 
 Aucun justificatif fiscal n'est à produire pour les remorques, les semi-remorques, les véhicules agricoles et forestiers et les engins spéciaux provenant d'un Etat membre de l'Union européenne autre que la France.
 
@@ -90,9 +90,9 @@ a) Un certificat 846 A délivré par le service des douanes ou une mention de di
 
 b) Un quitus fiscal ou une mention de dispense s'il s'agit d'un véhicule provenant d'un Etat membre de l'Union européenne ou monté avec des pièces provenant d'un Etat de l'Union européenne autre que la France, dans les cas autres que ceux mentionnés au point a.
 
-1.D.-Véhicules précédemment immatriculés en France
+1. D.-Véhicules précédemment immatriculés en France
 
-1.D. 1. Justificatifs administratifs
+1. D. 1. Justificatifs administratifs
 
 La demande de certificat d'immatriculation.
 
@@ -104,17 +104,17 @@ Le certificat d'immatriculation remis par l'ancien titulaire comportant la menti
 
 L'attestation du service livrancier si le véhicule était précédemment immatriculé avec la mention d'usage véhicule administration civile de l'Etat.
 
-1.D. 2. Visite ou contrôle technique
+1. D. 2. Visite ou contrôle technique
 
 La preuve d'un contrôle technique.
 
-1.D. 3. Justificatifs fiscaux
+1. D. 3. Justificatifs fiscaux
 
 Aucun justificatif fiscal n'est à produire sauf pour les véhicules se trouvant dans l'une des situations mentionnées au point II de l'article 6 et aux points C, D, F et G de l'article 12.
 
-1.E.-Véhicules précédemment immatriculés hors du territoire métropolitain (hors cas particuliers visés à l'article 12)
+1. E.-Véhicules précédemment immatriculés hors du territoire métropolitain (hors cas particuliers visés à l'article 12)
 
-1.E. 1. Justificatifs administratifs
+1. E. 1. Justificatifs administratifs
 
 La demande de certificat d'immatriculation, les justificatifs d'identité et d'adresse, le justificatif de vente, et soit :
 
@@ -128,7 +128,7 @@ La demande de certificat d'immatriculation, les justificatifs d'identité et d'a
 
 Le justificatif de vente n'est réclamé que s'il y a eu changement de titulaire du certificat d'immatriculation.
 
-1.E. 2. Justificatifs techniques de conformité
+1. E. 2. Justificatifs techniques de conformité
 
 a) Pour les véhicules conformes à un type communautaire :
 
@@ -144,11 +144,13 @@ b) Pour les véhicules de PTAC ≤ 3,5 tonnes et les tracteurs agricoles ou fore
 
 Une attestation d'identification à un type national.
 
-c) Pour les autres véhicules :
+c) Pour les véhicules ayant fait l'objet d'une réception individuelle européenne délivrée selon le règlement (UE) n° 183/2011 du 22 février 2011, l'attestation de reconnaissance figurant à l'annexe 13 bis du présent arrêté.
+
+d) Pour les autres véhicules :
 
 Un procès-verbal de RTI.
 
-1.E. 3. Justificatifs fiscaux
+1. E. 3. Justificatifs fiscaux
 
 Aucun justificatif fiscal n'est à produire pour les remorques, les semi-remorques, les véhicules agricoles et forestiers et les engins spéciaux provenant d'un Etat membre de l'Union européenne autre que la France.
 
@@ -158,15 +160,15 @@ a) Provenant d'un Etat tiers à l'Union européenne ou d'une partie de territoir
 
 b) Provenant d'un Etat de l'Union européenne autre que la France, dans les cas autres que ceux mentionnés au point a : un quitus fiscal ou une mention de dispense.
 
-1.E. 4. Visite ou contrôle technique
+1. E. 4. Visite ou contrôle technique
 
 La preuve d'un contrôle technique.
 
-1.F.-L'immatriculation des cyclomoteurs
+1. F.-L'immatriculation des cyclomoteurs
 
 L'immatriculation des cyclomoteurs s'effectue selon les modalités définies ci-dessus.
 
-Toutefois, pour les cyclomoteurs mis en circulation avant le 1er juillet 2004 et qui n'ont jamais été immatriculés, les pièces présentées sont celles visées au I.A. 1 et en lieu et place du certificat de conformité original, l'une des pièces suivantes :
+Toutefois, pour les cyclomoteurs mis en circulation avant le 1er juillet 2004 et qui n'ont jamais été immatriculés, les pièces présentées sont celles visées au I. A. 1 et en lieu et place du certificat de conformité original, l'une des pièces suivantes :
 
 -le duplicata du certificat de conformité délivré par le constructeur ou son représentant en France ;
 
@@ -174,6 +176,6 @@ Toutefois, pour les cyclomoteurs mis en circulation avant le 1er juillet 2004 et
 
 -l'attestation d'assurance sous réserve qu'elle comporte au moins le genre, la marque, le type et le numéro d'identification du véhicule.
 
-1.G.-Demande d'attribution d'un numéro définitif
+1. G.-Demande d'attribution d'un numéro définitif
 
 Le titulaire d'un certificat d'immatriculation ne comportant pas le numéro définitif prévu à l'article R. 322-2 du code de la route peut demander l'attribution de ce numéro définitif, sur présentation de son ancien certificat d'immatriculation.

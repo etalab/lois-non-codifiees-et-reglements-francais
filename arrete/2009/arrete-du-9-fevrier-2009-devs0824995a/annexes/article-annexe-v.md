@@ -34,7 +34,9 @@ I. - Véhicules affectés au transport de personnes
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Motocyclettes légères (*).</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes légères (*).</p>
+</td>
 <td align="left" valign="top">
 <p align="center">MTL<br/>
 </p>
@@ -875,6 +877,15 @@ II. - Véhicules affectés au transport de marchandises
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td/>
+<td>Forestier.</td>
+<td>
+<p align="center">FOREST</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Semi-remorques avant-train.</p>
 </td>
@@ -1041,7 +1052,7 @@ III. - Véhicules spécialisés non affectés au transport de marchandises
 <p align="left">Ambulance (pour personne couchée). </p>
 </td>
 <td>
-<p align="center">AMBULAN</p>
+<p align="center">AMBULANC</p>
 </td>
 </tr>
 <tr>

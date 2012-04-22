@@ -1,7 +1,6 @@
 # Article Annexe III
 
-**LISTE DES RUBRIQUES RENSEIGNÉES**
-**SUR LE CERTIFICAT D'IMMATRICULATION**
+LISTE DES RUBRIQUES RENSEIGNÉES SUR LE CERTIFICAT D'IMMATRICULATION
 
 Le certificat d'immatriculation comprend un ensemble de rubriques correspondant aux mentions renseignées sur le certificat d'immatriculation :
 
@@ -171,8 +170,10 @@ Dépannage.
 
 Transport public de personnes de moins de 10 places.
 
-V max (remorque)
+V max (remorque) :... km/ h
 
 Ensemble + 5 essieux : 1 tonne
 
-_(1) Combinée avec la mention Autre J3 poss : ... kg . (2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg ._
+_(1) Combinée avec la mention Autre J3 poss : ... kg ._
+
+_(2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg ._
