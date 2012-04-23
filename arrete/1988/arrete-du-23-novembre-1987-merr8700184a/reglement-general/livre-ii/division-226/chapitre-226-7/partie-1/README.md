@@ -7,4 +7,3 @@
 - [Article 226-7.07](article-226-7-07.md)
 - [Article 226-7.08](article-226-7-08.md)
 - [Article 226-7.09](article-226-7-09.md)
-- [Article 226-7.10](article-226-7-10.md)
