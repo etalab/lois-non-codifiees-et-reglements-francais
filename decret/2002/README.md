@@ -91,7 +91,6 @@
 - [Décret n°48-1442 du 18 septembre 1948](decret-n48-1442-du-18-septembre-1948)
 - [Décret n°96-1008 du 18 novembre 1996 (ENVP9640050D)](decret-n96-1008-du-18-novembre-1996-envp9640050d)
 - [Décret n° 97-1208 du 19 décembre 1997 (MJSX9700134D)](decret-n-97-1208-du-19-decembre-1997-mjsx9700134d)
-- [Décret n°2002-1012 du 19 juillet 2002 (AGRA0201122D)](decret-n2002-1012-du-19-juillet-2002-agra0201122d)
 - [Décret n°2002-382 du 19 mars 2002 (INTM0100061D)](decret-n2002-382-du-19-mars-2002-intm0100061d)
 - [Décret n°2002-549 du 19 avril 2002 (MENS0200397D)](decret-n2002-549-du-19-avril-2002-mens0200397d)
 - [Décret n°2002-550 du 19 avril 2002 (MESH0220702D)](decret-n2002-550-du-19-avril-2002-mesh0220702d)
