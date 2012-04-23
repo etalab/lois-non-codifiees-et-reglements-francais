@@ -1,31 +1,41 @@
 # Article 226-4.03
 
-Pompes d'incendie
+Cloisonnements
 
-1. Le réseau d'incendie doit être alimenté par au moins une pompe principale qui peut être :
+1.1. Les cloisonnements qui séparent les locaux de machines comportant des machines à combustion interne de catégorie A des locaux d'habitation doivent comporter une isolation de laine de roche permettant d'assurer les caractéristiques d'intégrité au feu correspondant au type "B-15".
 
-1.1. Soit une pompe motorisée indépendante de la machine principale ;
+1.2. Les parties des locaux de machines comportant des machines à combustion interne de catégorie A situées au-dessus de la ligne de flottaison, y compris le plafond, disposent d'une isolation contre l'incendie de types "B-15" ou "A-0" approuvés conformément à la division 311 du présent règlement.
 
-1.2. Soit une pompe motorisée entraînée par la machine principale à condition que l'on puisse débrayer rapidement l'arbre porte-hélice ou que l'hélice soit à pas variable.
+1.3. Les conditions de protection contre le feu spécifiées aux paragraphes 1.1 ou 1.2 ci-dessus sont réputées satisfaites lorsque l'isolation mise en place est constituée de laine de roche d'une épaisseur minimale de 30 millimètres et de masse volumique minimale 96 kg/m³, ou l'équivalent.
 
-2. Les pompes sanitaires, de cale, de ballast et de service général ou toute autre pompe peuvent être utilisées comme pompes d'incendie si elles satisfont aux prescriptions du présent chapitre et si la capacité de pompage nécessaire à l'assèchement des cales n'est pas affectée. Les pompes d'incendie doivent être branchées de manière qu'on ne puisse pas les utiliser pour le pompage des hydrocarbures ou d'autres liquides inflammables.
+2. Les portes doivent offrir une résistance au feu équivalente à celles des cloisons dans lesquelles elles sont montées.
 
-3. Les pompes centrifuges ou autres pompes reliées au collecteur d'incendie à travers lesquelles une circulation à contre courant pourrait se produire doivent être munies de clapets de non-retour.
+3. Les ouvertures des locaux de machines assurant la propulsion doivent pouvoir être obturées de l'extérieur de ces locaux.
 
-4. Lorsque des pompes d'incendie motorisées supplémentaires sont installées, il doit s'agir de pompes indépendantes autonomes placées dans un local autre que celui de la pompe principale soit possédant leur propre moteur et leur propre source d'alimentation en combustible liquide installés dans un endroit accessible à l'extérieur du compartiment qui contient les pompes d'incendie principales, soit entraînées par une génératrice autonome, qui peut être une génératrice de secours, de capacité suffisante placée en dehors de la chambre des machines et de préférence au-dessus du pont de travail.
+4. L'utilisation de plastique alvéolaire, pour l'isolation des cales à poisson et des locaux de service réfrigérés, dans les matelas, ou pour tout autre usage, est soumise aux conditions de l'annexe 226-4.A.1 au présent chapitre.
 
-5. Dans tous les cas où des pompes d'incendie supplémentaires sont installées, la pompe, les clapets d'aspiration à la mer et les autres clapets nécessaires doivent être manœuvrables à partir d'un endroit situé à l'extérieur des compartiments qui contiennent les pompes d'incendie principales et ne risquant pas d'être isolé par suite d'un incendie dans ces compartiments.
+5. Seuls les peintures et les revêtements à faible pouvoir propagateur de flamme approuvés conformément à la division 311 peuvent être utilisés dans les locaux d'habitation et de service, les postes de sécurité et les locaux de machines.
 
-Le débit total Q des pompes d'incendie principales à commande mécanique doit être au moins égal à :
+Les revêtements ne doivent pas avoir plus de 2 millimètres d'épaisseur et ils ne doivent pas dégager de trop grandes quantités de fumée ou de gaz toxiques.
 
-Q = (0,15 √ L (B +D) +2,25)²
+Ces prescriptions ne sont pas applicables aux peintures et aux revêtements appliqués sur les objets mobiles.
 
-Dans cette formule, L, B et D sont exprimés en mètres et Q est donné en en mètres cube par heure.
+6. Toutes les surfaces apparentes en matière plastique armée de fibre de verre situées dans les locaux d'habitation, les locaux de service, les postes de sécurité, les locaux de machines de la catégorie A et les autres locaux de machines présentant un risque analogue d'incendie doivent soit comporter une couche extérieure de résine autorisée qui, de par ses propriétés, retarde la propagation de l'incendie, soit être recouvertes d'une peinture à faible pouvoir propagateur de flamme approuvée conformément à la division 311, soit encore être protégées par des matériaux incombustibles approuvés conformément à la division 311.
 
-Pour l'application de cette formule D est le creux du pont complet le plus bas.
+7. Les surfaces combustibles cachées de toutes les cloisons, vaigrages et infrastructures doivent être recouvertes d'un revêtement à faible pouvoir propagateur de flamme approuvé conformément à la division 311.
 
-7. Lorsque 2 pompes indépendantes motorisées principales sont prévues, le débit de chaque pompe ne doit pas être inférieur à 40% du débit prescrit au paragraphe 6.
+8. Les revêtements ne doivent pas dégager de trop grandes quantités de fumée ou de gaz toxiques.
 
-8. Lorsque les pompes d'incendie principales motorisées débitent la quantité d'eau prescrite au paragraphe 6 par le collecteur, les manches et les. ajutages de lance, la pression à chaque bouche d'incendie ne doit pas être inférieure à 0,20 N/mm².
+Des précautions doivent être prises pour éviter que des matières ou vapeurs combustibles puissent entrer en contact avec des éléments portés à une température élevée ou reçoivent la projection de flammes, d'étincelles ou d'huile. En particulier :
 
-9. Lorsque les pompes d'incendie de secours motorisées débitent la quantité maximale d'eau sous la forme du jet prescrit au paragraphe 1 de l'article 226-4.05, la pression à chaque bouche d'incendie doit être jugée satisfaisante par l'administration.
+8.1. Des dispositions sont adoptées pour empêcher que des étincelles ou des flammes venant des conduits de fumée, tels que ceux des appareils de chauffage ou de cuisson, puissent pénétrer dans les conduits de ventilation ;
+
+8.2. Des dispositions sont adoptées pour protéger les équipements hydrauliques à huile contre les risques de projection ou de pulvérisation d'huile sur des surfaces chaudes ou dans des prises d'air de machines.
+
+9. Les conduits et les orifices d'évacuation des fourneaux de cuisine et des appareils similaires doivent disposer d'une isolation de type B-15 quand ils traversent des locaux d'habitation ou autres et présentent un risque d'incendie pour les éléments contigus.
+
+10. Les matériaux dont les caractéristiques sont facilement altérées par la chaleur ne doivent pas être employés dans la construction des dalots extérieurs, des tuyaux de décharge sanitaire et des autres conduits d'évacuation situés à proximité de la flottaison et aux endroits où la détérioration de ces matériaux en cas d'incendie risquerait de provoquer un envahissement.
+
+11. Les tuyaux de dégagement d'air des soutes et caisses contenant des combustibles liquides doivent être munis d'un écran pare-flamme en toile métallique à mailles serrées pouvant être facilement nettoyé et qui ne doit pas réduire de façon appréciable la section utile du dégagement d'air. L'expression "toile métallique à mailles serrées" désigne une toile métallique comportant 144 mailles au centimètre carré.
+
+12. Les dispositifs d'entraînement des pompes du circuit de combustible doivent être munis d'arrêts à distance situés en dehors du local où ils sont installés.

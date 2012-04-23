@@ -13,4 +13,5 @@
 - [Article 226-6.09](article-226-6-09.md)
 - [Article 226-6.10](article-226-6-10.md)
 - [Article 226-6.11](article-226-6-11.md)
+- [Article 226-6.12](article-226-6-12.md)
 - [Article Annexe 226-6.A1](article-annexe-226-6-a1.md)

@@ -8,6 +8,6 @@ La visibilité vers l'arrière doit être, en toute circonstance, suffisante pou
 
 2. Les moyens de commande et de contrôle de l'appareil propulsif indiqués à l'article 227-3.02 doivent être installés au poste de conduite du navire.
 
-3. Tout matériel ou équipement de timonerie susceptible soit d'apporter une gêne à la veille visuelle ou auditive, soit de distraire l'attention de la conduite du quart, est interdit.
+3. Tout matériel ou équipement de timonerie susceptible soit d'apporter une gêne à la veille visuelle ou auditive, soit de distraire l'attention de la conduite du quart est interdit.
 
 4. Les vitres de la timonerie ne doivent être ni polarisées ni teintées et l'une au moins d'entre elles doit être munie d'un essuie-glace.

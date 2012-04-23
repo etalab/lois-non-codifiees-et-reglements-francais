@@ -14,7 +14,6 @@
 - [Article 226-4.12](article-226-4-12.md)
 - [Article 226-4.13](article-226-4-13.md)
 - [Article 226-4.14](article-226-4-14.md)
-- [Article 226-4.15](article-226-4-15.md)
 - [Article Annexe 226-4.A.1](article-annexe-226-4-a-1.md)
 - [Article Annexe 226-4.A.2](article-annexe-226-4-a-2.md)
 - [Article Annexe 226-4.A.3](article-annexe-226-4-a-3.md)

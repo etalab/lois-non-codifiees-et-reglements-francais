@@ -1,13 +1,7 @@
 # Article 226-4.04
 
-Collecteurs d'incendie
+Dispositifs de ventilation
 
-1. Un collecteur d'incendie doit être prévu lorsque plusieurs bouches d'incendie sont nécessaires pour alimenter le nombre de jets requis par le paragraphe 1 de l'article 226-4.05.
+1. Les conduits de ventilation des locaux de machines de la catégorie A ou des cuisines ne doivent pas, en général, traverser les locaux d'habitation, les locaux de service ou les postes de sécurité. S'il ne peut être évité qu'ils y passent, ces conduits doivent disposer de la protection contre l'incendie de type B15 de manière à maintenir l'intégrité du cloisonnement.
 
-2. On ne doit pas utiliser, pour les collecteurs d'incendie, de matériaux dont les propriétés sont rapidement altérées par la chaleur, à moins qu'ils ne soient convenablement protégés.
-
-3. Lorsque la pression de refoulement des pompes d'incendie peut dépasser la pression de service prévue des collecteurs d'incendie, des soupapes de sûreté doivent être prévues.
-
-4. Les collecteurs d'incendie ne doivent pas avoir de raccords autres que ceux qui sont nécessaires pour la lutte contre l'incendie et pour le lavage du pont et des chaînes d'ancre ou pour le fonctionnement de l'éjecteur de cale du puits aux chaînes.
-
-5. Lorsque les collecteurs d'incendie ne se purgent pas automatiquement, des robinets de purge appropriés doivent être prévus aux endroits exposés au gel.
+2. Les conduits de ventilation doivent être pourvus à leur partie supérieure de moyens de fermeture incombustible.

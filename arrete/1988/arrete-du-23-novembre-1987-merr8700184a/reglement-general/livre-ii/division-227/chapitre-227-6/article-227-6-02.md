@@ -1,13 +1,9 @@
 # Article 227-6.02
 
-Compas magnétique
+Livre de bord
 
-1. Les navires effectuant une navigation de 3ème ou de 4ème catégorie sont équipés d'un compas magnétique d'un type approuvé conformément à l'item A.1/4.23 de la division 311 du présent règlement.
+1. Sur tout navire, le livre de bord regroupe les informations citées aux paragraphes 2 et 3. Il est visé régulièrement par le capitaine.
 
-Sauf exemption par le président de la commission de visite de mise en service, ou le président de la commission de visite annuelle, les navires effectuant une navigation en 5ème catégorie sont équipés d'un compas magnétique approuvé conformément à l'item A.1/4.23 de la division 311 du présent règlement.
+2. Les faits relatifs à la sécurité du navire, en toutes circonstances, doivent être consignés par ordre chronologique sur le livre de bord, ainsi que les conditions météorologiques et tous les événements intéressant la sauvegarde de la vie humaine en mer.
 
-2. Le compas est installé au poste de conduite du navire. Il est, dans toute la mesure du possible, éloigné des masses métalliques, des circuits électriques et des appareils radioélectriques et de leurs haut-parleurs.
-
-Sur les navires à coque en acier, un soin particulier est apporté au choix de l'emplacement du compas afin d'atténuer au maximum les effets perturbateurs des masses métalliques avoisinantes.
-
-3. Le compas est compensé et la courbe ou table de déviation dressée et affichée.
+3. Sur ce livre de bord sont également portés les renseignements et les diverses mentions prescrits par les textes réglementaires relatifs à la sécurité, au travail, à la discipline à bord, etc.

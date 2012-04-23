@@ -1,7 +1,11 @@
 # Article 227-6.07
 
-Manœuvre des agrès de pêche
+Commandes du gouvernail
 
-Le treuil de pêche est conçu de façon à assurer la traction des agrès, les tambours des funes étant immobilisés par les freins et non embrayés.
+1. Il est installé au poste de conduite un moyen de commande du gouvernail ; si celui-ci n'est pas une barre franche, le navire doit être équipé d'une barre franche de secours dont la mise en place et la manœuvre doivent être aisées et rapides.
 
-La conception et le montage des commandes des treuils de pêche doivent permettre de supprimer instantanément, depuis le poste de conduite du navire, la tension des funes en cas de croche. Dans ce but, le système actionnant les freins est un système hydraulique, ou offrant des possibilités équivalentes en matière de commande.
+Si l'appareil à gouverner est hydraulique, il est installé sur le circuit un by-pass d'accès et de manœuvre aisés.
+
+La barre franche de secours doit permettre la gouverne du navire à demi-puissance au moins.
+
+2. Les navires propulsés par moteur hors-bord ne sont pas tenus de disposer d'une barre franche de secours.

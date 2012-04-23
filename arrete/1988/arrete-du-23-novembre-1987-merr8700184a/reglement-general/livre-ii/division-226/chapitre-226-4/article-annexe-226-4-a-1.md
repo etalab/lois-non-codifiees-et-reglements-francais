@@ -1,16 +1,14 @@
 # Article Annexe 226-4.A.1
 
-UTILISATION DES PLASTIQUES ALVEOLAIRES A BORD DES NAVIRES DE PECHE
+UTILISATION DES PLASTIQUES ALVÉOLAIRES À BORD DES NAVIRES DE PÊCHE (ARTICLE 226-4.03)
 
-(article 226-4.11)
+1. Généralités.
 
-1. Généralités :
-
-De nombreux plastiques alvéolaires, y compris ceux qui sont qualifiés d'auto extinguibles, par exemple les mousses de polyuréthanne, présentent lorsqu'ils sont exposés au feu ou à une chaleur intense, des dangers qu'on peut résumer de la façon suivante :
+De nombreux plastiques alvéolaires, y compris ceux qui sont qualifiés d'autoextinguibles par exemple les mousses de polyuréthanne, présentent lorsqu'ils sont exposés au feu ou à une chaleur intense des dangers qu'on peut résumer de la façon suivante :
 
 - propagation de flamme extrêmement rapide en l'absence de revêtement ;
 
-- températures très élevées qui peuvent dépasser 1 000 °C, atteintes en un temps très court ;
+- températures très élevées, qui peuvent dépasser 1 000 °C, atteintes en un temps très court ;
 
 - production rapide de grandes quantités de gaz très toxiques et de fumées denses et très chaudes.
 
@@ -42,7 +40,7 @@ Pour les autres éléments d'ameublement, tels que les coussins et les rembourra
 
 Une lame d'air doit être ménagée entre le câblage électrique ou l'équipement électrique et le revêtement de protection de la mousse.
 
-3.4. Sauf pour les usages prévus au paragraphe 3.2, la mousse doit être d'un type "auto-extinguible" suivant la norme NF T 56-125 ou toute autre norme jugée équivalente par le ministre chargé de la marine marchande. Un procès-verbal d'essai doit être fourni.
+3.4. Sauf pour les usages prévus au paragraphe 3.2, la mousse doit être d'un type "autoextinguible" suivant la norme NF T 56-125 ou toute autre norme jugée équivalente par le ministre chargé de la marine marchande. Un procès-verbal d'essai doit être fourni.
 
 3.5. Des plaques consignes bien visibles doivent être placées à l'intérieur et à l'extérieur des locaux isolés à l'aide de mousse. Ces plaques consignes doivent attirer l'attention sur la nécessité de prendre de grandes précautions lorsque des opérations telles que du soudage ou du découpage au chalumeau doivent être effectuées à proximité.
 

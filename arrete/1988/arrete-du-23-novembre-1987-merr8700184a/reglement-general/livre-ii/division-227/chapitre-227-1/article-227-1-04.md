@@ -1,69 +1,53 @@
 # Article 227-1.04
 
-Examen des plans
+Prescriptions générales concernant la coque
 
-1. Constitution du dossier navire :
+Les navires sont conçus et construits conformément aux règles de l'art.
 
-Le dossier d'examen pour un navire de moins de 12 mètres neuf comprend au minimum les pièces suivantes :
+1. Renforcements locaux :
 
-- une déclaration de mise en chantier ;
+Toute partie du navire est conçue et réalisée en tenant compte notamment des efforts locaux résultant de la force propulsive, des agrès de pêche et des poids embarqués. Des renforcements sont mis en place si nécessaire, compte tenu de ces efforts.
 
-- une déclaration de l'armateur précisant :
+La coque est protégée contre les ragages ou les chocs dus aux agrès de pêche. Les protections mises en place ont un caractère aussi durable que possible.
 
-- les types d'exploitation prévus ;
+2. Eléments mobiles et semi-mobiles :
 
-- la désignation précise du matériel de pêche et sa masse ;
+Tous les éléments mobiles et semi-mobiles, tels qu'objets d'équipement ou d'armement susceptibles de provoquer des accidents sous l'effet des mouvements du navire, doivent être installés et saisis de manière à ne pas présenter de danger pour le personnel.
 
-- la masse des captures et sa répartition à bord ;
+3. Pavois et rambardes :
 
-- une coupe transversale d'échantillonnage au maître ;
+Le navire est équipé de pavois, rambardes ou garde-corps garantissant la sécurité des personnes et prévenant contre les chutes à la mer.
 
-- un plan des formes ;
+La hauteur minimale de ces protections est de 0,75 mètre.
 
-- un plan d'ensemble ;
+Sur les navires pontés, si la hauteur du pavois est inférieure à 0,75 mètre, cette hauteur devra être atteinte au moyen d'une rambarde.
 
-- une fiche de renseignements généraux ;
+4. Cloisons étanches :
 
-- le procès-verbal de réception en usine du moteur, ou la déclaration de puissance établie par le constructeur ;
+Les navires exploités en 3e catégorie de navigation sont équipés au minimum de trois cloisons étanches transversales.
 
-- un jeu de schémas concernant les installations ci-dessous :
+La cloison étanche avant est située à une distance de l'étrave comprise entre 10 % et 15 % de la longueur hors tout, sans que cette distance ne soit inférieure à 1 mètre.
 
-- installation et circuit de combustible ;
+Sauf indications contraires, le compartiment des machines doit être limité, tant à l'avant qu'à l'arrière, par une cloison transversale étanche.
 
-- circuits d'eau de mer, d'assèchement et d'incendie ;
+Les cloisons étanches s'élèvent jusqu'au premier pont continu étanche situé directement au-dessus ; elles participent à la structure du navire et sont conçues et construites dans cette perspective.
 
-- installation électrique ;
+Les ouvertures dans les cloisons étanches sont en nombre aussi réduit que possible ; elles sont équipées de moyens de fermeture ou d'obturation garantissant leur intégrité.
 
-- un bilan électrique.
+Si un poste de couchage est installé sous le pont, il est séparé du compartiment moteur par une cloison étanche.
 
-L'armateur transmet en outre un calcul justificatif, réalisé par le chantier de construction du navire, attestant des efforts de poids et de poussée maximaux, ainsi que la puissance propulsive maximale correspondante, que la structure arrière du navire peut supporter.
+5. Ouvertures dans le bordé extérieur :
 
-2. Examen des documents :
+Les ouvertures pratiquées sur coque dans le bordé extérieur sont en nombre aussi limité que possible.
 
-Les plans et documents constituant le dossier navire sont examinés par le chef de centre de sécurité, qui peut requérir un avis complémentaire auprès du directeur régional des affaires maritimes sur une disposition particulière du navire.
+L'installation de hublots sur la coque est interdite.
 
-Les plans de structure et d'échantillonnage sont visés au préalable par une société de classification agréée, selon les dispositions du paragraphe 3 ci-après.
+Les prises et sorties d'eau placées sur coque sont équipées d'organes de sectionnement directement placés sur le bordé ou sur le coffre de prise d'eau, facilement accessibles et pourvus d'indicateur de position. Ces organes de sectionnement sont en acier, en bronze ou autre matériau de résilience équivalente et compatibles avec les matériaux constitutifs de la coque et du tuyautage desservi.
 
-3. Examen de la structure :
+Des crépines démontables offrant une section de passage suffisante sont installées sur le bordé à l'entrée des prises d'eau, en vue d'éviter l'introduction de corps étrangers susceptibles d'empêcher la manœuvre du sectionnement ou d'endommager la pompe.
 
-3.1 La solidité générale et le mode de construction de la coque, et le cas échéant des superstructures fermées, des roufs, de la timonerie, des tambours de machines, des descentes et des autres structures résistantes ainsi que de l'équipement principal intéressant l'étanchéité sont examinés et visés par une société de classification agréée. La vérification de la résistance à la fissuration progressive sous charges cycliques ou chocs n'est pas requise au titre de cet examen.
+6. Epreuves d'étanchéité :
 
-A cet effet l'armateur du navire transmet à la société de classification les documents suivants :
+Des épreuves d'étanchéité sont exigées chaque fois que jugées nécessaires, et en particulier sur les capacités destinées à contenir des hydrocarbures liquides ainsi que sur les viviers.
 
-- plan d'ensemble, comportant les dimensions principales, le tirant d'eau, la vitesse maximale prévue et les mentions de navigation et de service ;
-
-- plan de coupe au maître, indiquant les propriétés mécaniques des matériaux et l'espacement des couples ;
-
-- plan de charpente avant et de charpente arrière ;
-
-- plan de structure générale ;
-
-- plan des panneaux d'écoutilles avec les charges à considérer ;
-
-- plans et documents relatifs à la construction et à l'étanchéité de la timonerie.
-
-Les documents sont datés et portent la mention de leur origine, ainsi que leur indice de révision.
-
-Les renseignements exigés à deux ou plusieurs des rubriques ci-dessus peuvent être réunis sur un même document, sous réserve que leur clarté et leur lisibilité ne soient pas affectées par une telle disposition.
-
-3.2 L'intervention de la société de classification conduit à la délivrance d'une attestation indiquant les caractéristiques de service et de navigation ainsi que, le cas échéant, la puissance motrice prise en compte.
+La charge d'épreuve doit correspondre, sauf dispositions contraires, à une colonne d'eau de 900 millimètres au-dessus du pont.

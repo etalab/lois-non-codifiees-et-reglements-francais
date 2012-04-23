@@ -1,6 +1,5 @@
 # Partie 1 : Dispositions générales applicables aux installations de machines
 
-- [Article 226-2.13-1](article-226-2-13-1.md)
 - [Article 226-3.01](article-226-3-01.md)
 - [Article 226-3.02](article-226-3-02.md)
 - [Article 226-3.03](article-226-3-03.md)
@@ -14,3 +13,13 @@
 - [Article 226-3.11](article-226-3-11.md)
 - [Article 226-3.12](article-226-3-12.md)
 - [Article 226-3.13](article-226-3-13.md)
+- [Article 226-3.14](article-226-3-14.md)
+- [Article 226-3.15](article-226-3-15.md)
+- [Article 226-3.16](article-226-3-16.md)
+- [Article 226-3.17](article-226-3-17.md)
+- [Article 226-3.18](article-226-3-18.md)
+- [Article 226-3.19](article-226-3-19.md)
+- [Article 226-3.20](article-226-3-20.md)
+- [Article 226-3.21](article-226-3-21.md)
+- [Article 226-3.22](article-226-3-22.md)
+- [Article 226-3.23](article-226-3-23.md)

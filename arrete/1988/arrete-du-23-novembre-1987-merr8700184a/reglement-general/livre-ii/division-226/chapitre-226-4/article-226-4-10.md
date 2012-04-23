@@ -1,7 +1,11 @@
 # Article 226-4.10
 
-Dispositifs de ventilation
+Extincteurs d'incendie
 
-1. Les conduits de ventilation des locaux de machines de la catégorie A ou des cuisines ne doivent pas, en général, traverser les locaux d'habitation, les locaux de service ou les postes de sécurité. S'il ne peut être évité qu'ils y passent, ces conduits doivent être isolés et disposés de manière à maintenir l'intégrité du cloisonnement.
+1. Les caractéristiques et essais des extincteurs, leur surveillance, le choix des extincteurs, leur nombre et leur répartition sont fixés par le chapitre 322-2.
 
-2. Les conduits de ventilation doivent être pourvus à leur partie supérieure de moyens de fermeture incombustible.
+2. Un des extincteurs portatifs destinés à être employés dans un local déterminé doit être placé près de l'entrée de ce local, de préférence à l'extérieur.
+
+3. Le nombre des marques d'extincteurs portatifs à bord d'un navire doit être aussi réduit que possible.
+
+4. Les extincteurs incendies sont approuvés selon les dispositions de la division 311.

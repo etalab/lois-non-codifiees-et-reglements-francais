@@ -1,19 +1,19 @@
 # Article 227-3.10
 
-Installations hydrauliques
+Installations de gaz
 
-L'installation des centrales hydrauliques et des circuits annexes doit répondre aux conditions suivantes :
+Les installations pour gaz doivent répondre aux conditions suivantes :
 
-1. Les tuyauteries rigides sont fixées de manière à éviter les vibrations ;
+1. Les bouteilles de gaz sont rangées à l'extérieur à l'abri du soleil et des intempéries ;
 
-2. Les tuyauteries flexibles sont aussi courtes que possible et à embouts vissés. Elles sont d'un modèle approuvé par une société de classification agréée ;
+2. La tuyauterie d'amenée du gaz est métallique ;
 
-3. Un dispositif d'arrêt ou de débrayage manœuvrable de l'extérieur du compartiment est installé ;
+3. Un robinet d'arrêt est installé à l'extrémité du tuyau métallique près de l'appareil d'utilisation ;
 
-4. Une protection par écran pour éviter les projections en direction des points chauds est installée ;
+4. Le tuyau souple utilisé entre le robinet d'arrêt et l'appareil d'utilisation est agréé NF gaz. Le cas échéant, le tuyau est remplacé avant la date de péremption indiquée par le constructeur ;
 
-5. Le tracé du circuit doit s'écarter au maximum des points chauds ;
+5. Les fours et chauffe-eau sont équipés d'un système automatique assurant la fermeture du gaz en cas d'extinction de la flamme ;
 
-6. Les passages au travers des ponts doivent être réalisés par tuyauteries métalliques et plaques de recouvrement soudées à la tuyauterie.
+6. Les appareils d'utilisation ne peuvent être placés dans des compartiments situés sous pont ou en communication directe avec ceux-ci sans une protection efficace pour éviter le déversement des fuites éventuelles vers ces compartiments en contrebas ;
 
-Une épreuve de l'installation doit être effectuée.
+7. Un moyen d'évacuation des gaz brûlés vers l'extérieur doit être installé.

@@ -2,4 +2,4 @@
 
 Stabilité
 
-Les navires doivent être conçus et construits de manière à satisfaire aux prescriptions du chapitre 211-2 (1).
+Les navires doivent être conçus et construits de manière à satisfaire aux prescriptions du chapitre 211-2.

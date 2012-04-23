@@ -5,5 +5,3 @@
 - [Article 227-1.03](article-227-1-03.md)
 - [Article 227-1.04](article-227-1-04.md)
 - [Article 227-1.05](article-227-1-05.md)
-- [Article 227-1.06](article-227-1-06.md)
-- [Article 227-1.07](article-227-1-07.md)

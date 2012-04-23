@@ -1,7 +1,17 @@
 # Article 226-4.13
 
-Extincteurs portatifs dans la timonerie
+Dispositifs d'extinction de l'incendie dans les locaux de machines
 
-les locaux d'habitation et les locaux de service
+1. Les locaux de machines de catégorie A doivent être pourvus, à la satisfaction de l'administration, de l'un des dispositifs fixes d'extinction suivants :
 
-Il doit être installé au moins 3 extincteurs portatifs dont 1 dans la timonerie, 1 pour chaque groupe de locaux de couchage et 1 près de l'accès de la cuisine.
+1.1. Un dispositif d'extinction CO2 ;
+
+1.2. Un dispositif d'extinction autorisé d'usage utilisant un gaz autorisé d'usage.
+
+Les dispositifs autorisés d'usage et les gaz autorisés d'usage figurent à l'annexe 322-6.A.1 de la division 322.
+
+Ces dispositifs doivent répondre aux dispositions techniques prescrites par l'annexe 226-4.A.2 du présent chapitre.
+
+2. Les dispositifs du paragraphe 1 doivent être commandés à partir d'un emplacement aisément accessible situé en dehors des locaux en question et ne risquant pas d'être isolé par un incendie qui se déclarerait dans le local protégé.
+
+3. Dans tous les locaux de machines de la catégorie A, au moins deux extincteurs portatifs aptes à éteindre un incendie de combustible liquide doivent être prévus.

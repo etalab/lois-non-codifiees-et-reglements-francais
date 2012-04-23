@@ -2,15 +2,15 @@
 
 Hauteur d'étrave
 
-1. La hauteur d'étrave mesurée au droit de la perpendiculaire avant, entre la flottaison prévue la plus élevée et
-
-la face supérieure du pont le plus élevé, en mètres ne doit pas être inférieure à :
+1. La hauteur d'étrave mesurée au droit de la perpendiculaire avant, entre la flottaison prévue la plus élevée et la face supérieure du pont le plus élevé, en mètres, ne doit pas être inférieure à :
 
 He = 0,107 × k × L
 
-où k = 1 dans le cas général.
+où :
 
-k = 0,8 lorsque le navire ne s'éloigne pas de plus de 20 milles de la terre la plus proche, ni à plus de 100 milles des eaux abritées où se trouve son port de départ.
+k = 1 dans le cas général ;
+
+k = 0,8 lorsque le navire ne s'éloigne pas de plus de 20 milles de la terre la plus proche, ni à plus de 100 milles des eaux abritées où se trouve son port de départ ;
 
 k = 0,8 en eaux tropicales.
 

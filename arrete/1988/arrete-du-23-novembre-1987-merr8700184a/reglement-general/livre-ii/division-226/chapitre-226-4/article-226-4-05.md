@@ -1,19 +1,9 @@
 # Article 226-4.05
 
-Bouches d'incendie, manches et ajutages
+Moyens d'évacuation
 
-1. Les bouches d'incendie doivent être disposées de façon que les manches puissent s'y adapter facilement et rapidement et qu'un jet au moins puisse être dirigé sur un point quelconque du navire normalement accessible en cours de navigation.
+1. Les accès à tous les locaux où l'équipage est normalement appelé à séjourner ou à travailler doivent être disposés de manière à constituer au moins un moyen d'évacuation rapide jusqu'au pont exposé à partir duquel peut s'effectuer l'embarquement à bord des radeaux de sauvetage.
 
-2. Le jet prescrit au paragraphe 1 doit être alimenté par une seule longueur de manche.
+2. Chaque tranche de locaux d'habitation, de service ou des machines située au-dessous du pont de travail doit être pourvue de deux moyens d'évacuation aussi éloignés l'un de l'autre que possible. L'un de ces moyens étant l'accès principal, l'autre, situé sur le bord opposé au premier, si possible, peut être constitué par une écoutille de dimensions convenables accessible par des échelons fixes. L'un de ces moyens au moins est disposé de façon que l'on puisse atteindre le pont exposé directement ou, en tous cas, sans passer par des locaux intermédiaires présentant un risque élevé d'incendie.
 
-3. Outre ce qui est prescrit au paragraphe 1, on doit prévoir pour les locaux de machines de la catégorie A au moins une bouche d'incendie munie d'une manche d'incendie et d'un ajutage de type combiné (jet diffusé/jet plein). Cette bouche doit être placée à l'extérieur de ces locaux et près de leur entrée.
-
-4. Pour chacune des bouches d'incendie prescrites, il doit y avoir une manche. On doit prévoir au moins une manche de réserve en plus des manches prescrites.
-
-5. La longueur d'une manche d'incendie ne doit pas dépasser la moitié de la longueur du navire sans qu'il soit toutefois exigé qu'elle ait une longueur inférieure à 10 mètres.
-
-6. Les manches d'incendie doivent être en matériau approuvé. Chaque manche doit être munie de raccords et d'un ajutage de type combiné (jet diffusé/jet plein).
-
-7. A moins que les manches d'incendie ne soient branchées en permanence sur le collecteur, les raccords de manches et les ajutages doivent être entièrement interchangeables.
-
-8. Les ajutages prescrits au paragraphe 6 doivent être adaptés au débit de refoulement des pompes installées mais leur diamètre ne doit en aucun cas être inférieur à 10 mm.
+3. En cas d'impossibilité absolue de disposer de deux moyens d'évacuation en raison de la conception du navire, de l'exiguïté ou de l'encombrement du local considéré, il peut être admis un seul moyen d'évacuation confondu avec l'accès principal si celui-ci est suffisamment dimensionné et placé le plus près possible de l'axe du navire.

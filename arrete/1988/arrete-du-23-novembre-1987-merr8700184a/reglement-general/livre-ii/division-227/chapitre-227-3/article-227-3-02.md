@@ -4,7 +4,7 @@ Moyens de contrôle et de commande
 
 Il est installé en timonerie ou au poste de conduite du navire un tableau de contrôle et de commande comportant les dispositifs suivants :
 
--indicateur du nombre de tours ;
+- indicateur du nombre de tours ;
 
 - alarme sonore et lumineuse de température d'eau douce de réfrigération ;
 
@@ -14,7 +14,7 @@ Il est installé en timonerie ou au poste de conduite du navire un tableau de co
 
 - commande du sens de la poussée ;
 
--commande du nombre de tours ;
+- commande du nombre de tours ;
 
 - stop moteur.
 

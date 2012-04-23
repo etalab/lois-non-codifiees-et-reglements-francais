@@ -6,8 +6,6 @@ Dispositions générales
 
 L'emplacement, les moyens d'accès, la construction et la disposition des locaux d'équipage sont tels qu'ils assurent une sécurité satisfaisante de communication et de séjour, une bonne protection contre les intempéries, une bonne isolation contre la chaleur, le froid, les odeurs et les émanations provenant des autres parties du navire et une bonne protection contre la condensation.
 
-Des précautions raisonnables permettant de limiter le niveau de bruit doivent être appliquées.
-
 2. Séparation des autres compartiments :
 
 Il ne doit pas exister d'ouvertures directes entre les locaux de couchage et le compartiment moteur.

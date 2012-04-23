@@ -1,31 +1,29 @@
 # Article 226-3.07
 
-Commande de l'appareil propulsif à partir de la timonerie
+Prévention de l'envahissement
 
-1. Lorsque l'appareil propulsif est commandé à distance à partir de la timonerie, les dispositions suivantes sont applicables :
+1. Champ d'application.
 
-1.1. Dans toutes les conditions d'exploitation, y compris pendant la manœuvre, on doit pouvoir commander entièrement à partir de la timonerie la vitesse, le sens de la poussée ou le cas échéant, le pas de l'hélice.
+Les dispositions du présent article sont applicables à tout navire neuf ou existant.
 
-1.2. La commande à distance visée à l'alinéa 1.1 doit s'effectuer au moyen d'un dispositif jugé satisfaisant par l'administration et, si besoin est, de dispositifs protégeant l'appareil propulsif contre les surcharges.
+2. Approbation des équipements.
 
-1.3. L'appareil propulsif principal doit être muni, à la timonerie, d'un dispositif qui permette d'arrêter la machine en cas d'urgence et qui soit indépendant du système de commande à la timonerie visé à l'alinéa 1.1.
+Le dispositif d'alarme de niveau est conforme aux dispositions de la division 361 du présent règlement, intitulée "Dispositifs de détection et d'alarme d'envahissement".
 
-1.4. L'appareil propulsif ne doit pouvoir être commandé à distance qu'à partir d'un seul poste à la fois ; l'installation de dispositifs de commande interconnectés peut être autorisée à l'intérieur d'un même poste. Chaque poste doit être muni d'un dispositif indiquant le poste qui commande l'appareil propulsif. Le transfert de la commande entre la timonerie et les locaux de machines ne doit être possible qu'à partir du local des machines ou de la cabine de contrôle des machines. L'administration peut accepter que le poste de contrôle du local de machines ne soit qu'un poste de secours, à condition que la surveillance et la commande à partir de la timonerie soient satisfaisantes.
+3. Dispositions relatives à l'installation :
 
-1.5. La timonerie doit être munie d'appareils indiquant :
+3.1. Le dispositif d'alarme de niveau haut est installé à bord par le fabricant ou son représentant. Les connexions électriques sous le pont de franc-bord sont protégées par des presse-étoupe étanches à l'eau. Les câbles sont de type "flamme retardant" et sont convenablement saisis et protégés contre les possibilités d'arrachement.
 
-.1 La vitesse et le sens de rotation de l'hélice lorsque celle-ci est à pales fixes ;
+3.2. Les cales des locaux de machines, le local de l'appareil à gouverner et tout espace fermé dans lequel le traitement ou la conservation du poisson peut entraîner une accumulation de liquide sont pourvues d'une alarme de niveau haut permettant de déceler toute accumulation de liquide à des angles normaux d'assiette et de gîte.
 
-.2 La vitesse et le pas de l'hélice lorsque celle-ci est à pales orientables ; et
+3.3. Le positionnement des détecteurs dans les locaux mentionnés au paragraphe 3.2 ci-dessus est réalisé à la satisfaction de l'administration. Les détecteurs sont installés à des emplacements protégés, accessibles pour les visites, l'entretien et les réparations et doivent pouvoir être mis à l'essai à bord par l'équipage.
 
-.3 La pré-alerte prescrite au paragraphe 5 de l'article 226-3.03.
+4. Dispositions relatives au fonctionnement.
 
-1.6. Il doit être possible de commander l'appareil propulsif au niveau de cet appareil, même en cas de défaillance d'une partie quelconque du dispositif de commande à distance.
+Le dispositif de détection déclenche une alarme sonore et visuelle à la timonerie et une alarme sonore sur le pont de travail. L'indicateur visuel de l'alarme est individualisé pour chaque local couvert par l'installation de détection.
 
-1.7. Le dispositif de commande à distance doit être conçu de telle manière qu'en cas de défaillance, l'alarme soit donnée et que la vitesse et le sens de poussée fixés à l'avance pour l'hélice soient maintenus jusqu'au moment où la commande locale entre en action à moins que l'administration ne juge cette disposition impossible en pratique.
+5. Alimentation électrique :
 
-1.8. Dans le cas de démarrage à l'air comprimé des mesures particulières doivent être prises pour que le démarrage automatique n'épuise pas les possibilités de démarrage. Il faut prévoir un avertisseur sonore et lumineux qui se déclenche lorsque la pression de l'air de démarrage atteint un niveau bas qui permet encore 3 démarrages de la machine principale.
+5.1. Le dispositif d'alarme est alimenté en permanence par la source d'énergie principale du navire. Aucun dispositif ne permet de mettre hors service l'installation, hormis le système de protection électrique du boîtier d'alarme.
 
-2. Lorsque l'appareil propulsif principal et les machines associées, y compris les sources principales d'alimentation en énergie électrique sont équipés à des degrés divers de dispositifs de commandé automatique ou à distance et sont surveillés en permanence à partir d'un poste de commande, le poste de commande doit être conçu, équipé et installé de manière que l'exploitation de la machine soit aussi sûre et efficace que si elle était sous surveillance directe.
-
-3. D'une manière générale, les dispositifs automatiques de démarrage d'exploitation et de commande doivent comporter des moyens manuels qui permettent de neutraliser les dispositifs automatiques même dans le cas d'une défaillance d'une partie quelconque du dispositif de commande automatique et à distance.
+5.2. Le dispositif d'alarme est muni d'un branchement automatique sur la source d'énergie de secours en cas d'indisponibilité de la source d'énergie principale du navire.

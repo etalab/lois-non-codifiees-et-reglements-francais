@@ -1,29 +1,17 @@
 # Article 226-7.11
 
-Rôle d'appel et consignes en cas d'abandon du navire
+Appels et exercices
 
-1. Sous réserve des dispositions du paragraphe 2, un rôle d'appel doit être établi avant que le navire ne quitte le port et doit comporter les renseignements suivants :
+1. Un appel de l'équipage pour les exercices d'abandon du navire et d'incendie doit avoir lieu à des intervalles ne dépassant pas un mois à condition que ces appels soient effectués dans les vingt-quatre heures qui suivent le départ du port chaque fois que 25 % des membres de l'équipage ont été remplacés depuis le dernier appel.
 
-1.1. Tâches assignées aux divers membres de l'équipage en cas de situation critique, en ce qui concerne :
+2. Lors des appels, on doit examiner le matériel de sauvetage, le matériel de lutte contre l'incendie et tout autre équipement de sécurité pour s'assurer que ceux-ci sont complets et en bon état de fonctionnement.
 
-.1 La fermeture des portes étanches, des vannes, des dalots, des vide-déchets à l'extérieur, des hublots et des portes d'incendie.
+3. Les dates auxquelles les appels ont lieu doivent être mentionnées au journal de passerelle prescrit par l'administration ; si, pendant l'intervalle prescrit, il n'y a pas d'appel ou seulement un appel partiel, mention en est faite au journal de passerelle, avec indication des conditions et de la nature de l'appel. Les comptes rendus des inspections relatives au matériel de sauvetage sont portés au journal de passerelle, où il est également fait mention des embarcations utilisées.
 
-.2 L'armement des radeaux de sauvetage (y compris la radiobalise de localisation de sinistres et le matériel radioélectrique de sauvetage).
+4.1. Sur les navires munis de radeaux de sauvetage, il est fait au moins une fois dans le courant d'une année une mise à l'eau effective d'un radeau de sauvetage. La participation de l'équipage à des démonstrations collectives de mise en œuvre d'un radeau de sauvetage peut être considérée comme équivalente.
 
-.3 La mise à l'eau des radeaux de sauvetage.
+4.2. Les membres de l'équipage doivent être formés à l'installation et au fonctionnement de l'équipement de radio portatif, s'il existe.
 
-.4 La préparation générale des autres engins de sauvetage.
+5. Les exercices d'abandon sont conduits par le capitaine ou son représentant.
 
-.5 L'organisation des équipes d'incendie.
-
-.6 Les tâches particulières afférentes à l'utilisation des appareils et installations de lutte contre l'incendie.
-
-1.2. Signaux pour l'appel de l'équipage aux postes des radeaux et aux postes d'incendie et caractéristiques de ces signaux, y compris celle du signal d'urgence pour l'appel de l'équipage aux postes de rassemblement qui doit se composer d'une série de sept sons brefs ou plus suivis d'un son long du sifflet ou de la sirène.
-
-2. Dans le cas des navires ayant moins de 5 membres d'équipage, l'administration peut accorder une dérogation aux dispositions du paragraphe 1 si elle estime qu'un rôle d'appel n'est pas nécessaire.
-
-3. La liste des signaux d'urgence doit être affichée à la timonerie et dans les locaux de l'équipage. Le rôle d'appel doit être affiché à plusieurs endroits du navire et, en particulier, dans les locaux de l'équipage.
-
-4. Les signaux d'urgence prévus dans le rôle d'appel doivent être donnés au sifflet ou à la sirène.
-
-5. Une notice affichée dans les postes d'équipage, donne pour chaque personne, l'emplacement où se trouve la brassière ou la combinaison d'immersion qui lui est réservée et les instructions pour son usage.
+Les exercices doivent être effectués de façon que l'équipage comprenne pleinement les fonctions qu'il sera appelé à remplir, s'y exerce et soit également instruit du maniement et de la manœuvre des radeaux de sauvetage lorsqu'il y en a.

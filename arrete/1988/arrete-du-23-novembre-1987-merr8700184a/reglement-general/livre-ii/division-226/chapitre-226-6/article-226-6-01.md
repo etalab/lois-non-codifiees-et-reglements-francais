@@ -14,7 +14,7 @@ Les navires dont la puissance propulsive est supérieure à 150 kW tiennent à l
 
 3. Le journal machine est tenu sous l'autorité du chef mécanicien. Y sont consignés par ordre chronologique tous les faits concernant le fonctionnement et l'entretien de l'appareil propulsif et des auxiliaires. Les navires possédant des appareils permettant un enregistrement automatique de renseignements devant figurer sur le journal machine sont dispensés de reproduire ces éléments sur le journal machine.
 
-Quand la puissance effective, en service continu, de l'appareil moteur est inférieure à 300 kW , il n'est pas exigé de journal pour la machine mais dans ce cas le capitaine consigne sur le journal de passerelle les faits notables intéressant le service de la machine dont doit lui rendre compte le chef mécanicien.
+Quand la puissance continue de l'appareil moteur est inférieure à 300 kW, il n'est pas exigé de journal pour la machine, mais dans ce cas le capitaine consigne sur le journal de passerelle les faits notables intéressant le service de la machine dont doit lui rendre compte le chef mécanicien.
 
 4. Sur ces journaux sont également portés les renseignements et les diverses mentions prescrits par les textes réglementaires relatifs à la sécurité, au travail, à la discipline à bord, etc.
 

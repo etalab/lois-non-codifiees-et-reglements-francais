@@ -4,14 +4,10 @@ Engins flottants
 
 1. Les navires suivants :
 
-1.1 les navires pratiquant une navigation de 4e catégorie armés en cultures marines ou en cultures marines et petite pêche ;
+1.1. Les navires de longueur inférieure ou égale à 7 mètres pratiquant une navigation de 4e catégorie ; et
 
-1.2 les navires de longueur inférieure ou égale à 7 mètres pratiquant une navigation de 4e catégorie ;
+1.2. Les navires pratiquant une navigation de 5e catégorie,
 
-1.3 les navires de plus de 7 mètres bénéficiant d'une exemption au titre de l'article 227-7.02 paragraphe 3 ;
-
-1.4 les navires pratiquant une navigation de 5e catégorie,
-
-qui ne sont pas dotés d'une réserve de flottabilité satisfaisant aux dispositions de l'article 227-2.03 ou équipés du radeau de sauvetage visé par l'article visé par l'article 227-7.02, doivent être équipés d'un engin flottant d'un type approuvé d'une capacité suffisante pour supporter toutes les personnes présentes à bord.
+qui ne sont pas dotés d'une réserve de flottabilité satisfaisant aux dispositions de l'article 227-2.03 ou équipés du radeau de sauvetage visé par l'article 227-7.02, doivent être équipés d'un engin flottant conforme à la division 333 d'une capacité suffisante pour supporter toutes les personnes présentes à bord.
 
 2. Cet engin flottant est arrimé à l'extérieur, de façon à être immédiatement accessible. La bouée de sauvetage peut être considérée comme engin flottant pour une personne.

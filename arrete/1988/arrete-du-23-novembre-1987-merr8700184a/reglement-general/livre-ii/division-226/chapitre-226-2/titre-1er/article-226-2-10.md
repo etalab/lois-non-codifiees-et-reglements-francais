@@ -6,4 +6,4 @@ Ouvertures de la tranche des machines
 
 2. Les ouvertures autres que les ouvertures d'accès doivent être munies de panneaux d'une résistance équivalente à celle de la cloison non percée, fixés à demeure et pouvant être fermés de façon étanche aux intempéries.
 
-3. Le seuil de l'accès à la machine doit être de 600 mm même si cet accès est situé dans un endroit qui n'exige pas une fermeture étanche aux intempéries.
+3. Le seuil de l'accès à la machine doit être de 600 millimètres même si cet accès est situé dans un endroit qui n'exige pas une fermeture étanche aux intempéries.

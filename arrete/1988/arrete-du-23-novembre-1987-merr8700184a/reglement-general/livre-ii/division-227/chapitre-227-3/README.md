@@ -10,4 +10,3 @@
 - [Article 227-3.08](article-227-3-08.md)
 - [Article 227-3.09](article-227-3-09.md)
 - [Article 227-3.10](article-227-3-10.md)
-- [Article 227-3.11](article-227-3-11.md)

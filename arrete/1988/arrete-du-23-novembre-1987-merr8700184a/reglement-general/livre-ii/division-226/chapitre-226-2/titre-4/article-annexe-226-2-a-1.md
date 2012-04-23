@@ -1,35 +1,35 @@
 # Article Annexe 226-2.A.1
 
-RÉPUBLIQUE FRANÇAISE
+LISTE DES PLANS ET DOCUMENTS À SOUMETTRE À LA SOCIÉTÉ DE CLASSIFICATION RECONNUE (ARTICLE 226-2.02)
 
-MINISTERE CHARGE DE LA MER
+Plan d'ensemble montrant la position des ponts, des cloisons, des superstructures ou roufs, la ligne de charge au déplacement maximum, les échappées, les hublots, etc., et indiquant les données nécessaires pour le calcul du nombre d'armement.
 
-Certificat national de franc-bord pour navire de pêche
+Plan de coupe au maître indiquant les dimensions principales, le tirant d'eau minimum sur ballast, l'espacement des couples, la vitesse maximale prévue, les mentions de navigation et de service, les propriétés mécaniques des matériaux, les hauteurs de charge particulières sur les ponts et le double-fond.
 
-Délivré en vertu des dispositions de la loi du 5 juillet 1983 et du décret du 30 août 1984 modifiés sur la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires, et la prévention de la pollution.
+Le détail de l'armement (poids des ancres, longueur et poids des chaînes).
 
-Par :
+Plan des cloisons transversales indiquant les ouvertures et leurs moyens de fermeture.
 
-(Formulaire non reproduit)
+Plan de charpente avant et charpente arrière.
 
-Notes :
+Plan du gouvernail et de l'étambot.
 
-1. Lorsqu'un navire part d'un port situé sur une rivière ou dans des eaux intérieures, il est permis d'augmenter son chargement d'une quantité correspondante au poids du combustible et de toute autre matière consommable nécessaire à ses besoins pendant le trajet entre le point de départ et la mer.
+Plan de structure générale.
 
-2. Quand un navire se déplace en eau douce de densité égale à 1, la ligne de charge appropriée peut être immergée à une profondeur correspondant à la correction pour eau douce indiquée ci-dessus. Quand la densité de l'eau n'est pas égale à 1, la correction est proportionnelle à la différence entre 1,025 et la densité réelle.
+Plan des panneaux d'écoutilles avec les charges à considérer.
 
-Visé pour confirmation de la validité du présent certificat après visite annuelle satisfaisante. A :..., le ...
+Plan des renforcements glace éventuellement.
 
-Signature et cachet officiel
+Plan de structure des mâts et portiques de pêche.
 
-Visé pour confirmation de la validité du présent certificat après visite annuelle satisfaisante. A :..., le ...
+La disposition des sabords de décharge sur le pont de travail et les ponts de superstructures.
 
-Signature et cachet officiel
+Plan d'épreuve des capacités avec la hauteur des dégagements d'air.
 
-Visé pour confirmation de la validité du présent certificat après visite annuelle satisfaisante. A :..., le ...
+Plan des portes de chargement et des autres ouvertures dans le bordé avec leurs moyens de fermeture.
 
-Signature et cachet officiel
+Plans et documents relatifs à la construction et à l'étanchéité de la timonerie.
 
-Visé pour confirmation de la validité du présent certificat après visite annuelle satisfaisante. A :..., le ...
+Les plans et documents doivent être datés et porter la mention de leur origine.
 
-Signature et cachet officiel
+Les renseignements exigés à deux ou plusieurs des rubriques ci-dessus peuvent être réunis sur un même document, sous réserve que la clarté et la lisibilité ne soient pas affectées par une telle disposition.

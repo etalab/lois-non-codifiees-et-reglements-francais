@@ -1,9 +1,11 @@
 # Article 227-6.06
 
-Commandes du gouvernail
+Moyens de signalisation sonore
 
-Il est installé au poste de conduite un moyen de commande du gouvernail ; si celui-ci n'est pas une barre franche, le navire doit être équipé d'une barre franche de secours dont la mise en place et la manœuvre doivent être aisées et rapides.
+Tout navire doit être équipé d'un moyen de signalisation sonore.
 
-Si l'appareil à gouverner est hydraulique, il est installé sur le circuit un by-pass d'accès et de manœuvre aisés.
+Sur les navires effectuant une navigation de 3e catégorie, ce moyen de signalisation doit être fixe et fonctionner à partir d'une source d'énergie électrique ou pneumatique.
 
-La barre franche de secours doit permettre la gouverne du navire à demi-puissance au moins.
+Aucun obstacle ne doit gêner la propagation du son vers l'avant.
+
+A bord des navires exploités en 4e ou en 5e catégorie, le moyen de signalisation sonore peut être indépendant de toute source d'énergie.

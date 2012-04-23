@@ -1,390 +1,100 @@
 # Article 227-6.09
 
-Matériel nautique et d'armement
+Installations de mouillage
 
-Les navires sont équipés de matériel nautique et d'armement en fonction de leur catégorie de navigation conformément aux indications du tableau ci-dessous :
+Tout navire est équipé d'une ligne de mouillage conforme au tableau ci-dessous.
+
+Les navires autres que les chalutiers ou les dragueurs qui peuvent mouiller sur un panneau de chalut ou sur une drague doivent être équipés d'une ancre de rechange.
+
+La longueur de la chaîne est au moins égale à celle du navire.
+
+La longueur du câblot est au moins égale à la plus petite des deux valeurs suivantes :
+
+- trois fois la profondeur des parages fréquentés ;
+
+- cinq fois la longueur du navire.
+
+Les navires équipés d'un treuil et de funes sont dispensés de la chaîne et du câblot, mais doivent être pourvus des poulies de retour nécessaires à la mise en œuvre de l'ancre par l'avant à partir du treuil.
 
 <table>
 <tbody>
 <tr>
-<td width="363">
-<p align="center">DESIGNATION DU MATERIEL</p>
+<td>
+<p align="center">LONGUEUR DU NAVIRE<br/>(m)</p>
 </td>
-<td width="72">
-<p align="center">3E CATEG.</p>
+<td>
+<p align="center">MASSE DE L'ANCRE<br/>(kg)</p>
 </td>
-<td width="75">
-<p align="center">4E CATEG.</p>
+<td>
+<p align="center">DIAMÈTRE DE LA CHAÎNE<br/>(mm)</p>
 </td>
-<td width="69">
-<p align="center">5E CATEG.</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Baromètre </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">-</p>
-</td>
-<td width="69">
-<p align="center">-</p>
+<td>
+<p align="center">DIAMÈTRE DU CÂBLOT<br/>(mm)</p>
 </td>
 </tr>
 <tr>
-<td width="363">
-<p>Thermomètre</p>
+<td align="center">
+<br/>L &lt; 6<br/>
 </td>
-<td width="72">
-<p align="center">1</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td width="75">
-<p align="center">-</p>
+<td align="center">
+<br/>6<br/>
 </td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Jumelles marines </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
+<td align="center">
+<br/>14<br/>
 </td>
 </tr>
 <tr>
-<td width="363">
-<p>Sondeur à ultrasons </p>
+<td align="center">
+<br/>6 ≤ L &lt; 8<br/>
 </td>
-<td width="72">
-<p align="center">1</p>
+<td align="center">
+<br/>14<br/>
 </td>
-<td width="75">
-<br/>
+<td align="center">
+<br/>8<br/>
 </td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Sonde à main </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
+<td align="center">
+<br/>16<br/>
 </td>
 </tr>
 <tr>
-<td width="363">
-<p>Fusées à parachute approuvées </p>
+<td align="center">
+<br/>8 ≤ L &lt; 10<br/>
 </td>
-<td width="72">
-<p align="center">3</p>
+<td align="center">
+<br/>25<br/>
 </td>
-<td width="75">
-<p align="center">3</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td width="69">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Fumigènes flottants approuvés </p>
-</td>
-<td width="72">
-<p align="center">2</p>
-</td>
-<td width="75">
-<p align="center">2</p>
-</td>
-<td width="69">
-<p align="center">-</p>
+<td align="center">
+<br/>22<br/>
 </td>
 </tr>
 <tr>
-<td width="363">
-<p>Pavillon national </p>
+<td align="center">
+<br/>L ≥ 10<br/>
 </td>
-<td width="72">
-<p align="center">1</p>
+<td align="center">
+<br/>40<br/>
 </td>
-<td width="75">
-<p align="center">1</p>
+<td align="center">
+<br/>12<br/>
 </td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Pavillons N et C </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Lampe torche étanche </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Miroir de signalisation (sauf si le navire est équipé d'un radeau de sauvetage) </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Cartes marines des parages fréquentés </p>
-</td>
-<td width="72">
-<p align="center">1 jeu</p>
-</td>
-<td width="75">
-<p align="center">1 au moins</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Instructions nautiques. Livres des feux (ou document équivalent à Jour). </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">-</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Annuaire des marées (ou document équivalent). </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Règle rapporteur </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">-</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Compas à pointes sèches </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">-</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Règlement en vigueur pour prévenir les abordages en mer. </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Jeu d'outillage (marteau, clé à molette, cisaille, etc.) </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Injecteur de rechange </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">-</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Bougie de rechange </p>
-</td>
-<td width="72">
-<p align="center">-</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Gaffe </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Ecope (sur navire non ponté) </p>
-</td>
-<td width="72">
-<p align="center">-</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Aviron (sur navire non ponté) </p>
-</td>
-<td width="72">
-<p align="center">-</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Filins nécessaires pour manœuvres courantes et amarrage </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Jeu d'ampoules pour feux de navigation </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Jeu de fusibles de rechange </p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="75">
-<p align="center">1</p>
-</td>
-<td width="69">
-<p align="center">-</p>
+<td align="center">
+<br/>24<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Les navires effectuant une navigation à plus de 20 milles de la terre la plus proche doivent être dotés de tapes d'obturation résistantes et adaptées permettant de rétablir, de l'intérieur de la timonerie, une étanchéité suffisante de cette dernière en cas de bris de vitres.
+La masse des ancres définie ci-dessus concerne les ancres de grande pénétration ; elle doit être majorée d'un tiers pour les ancres à las ou à pattes articulées.
+
+Les ancres sont en acier d'une résistance à la traction supérieure ou égale à 40 daN/mm² ou en tout autre matériau offrant des garanties équivalentes.
+
+Les chaînes sont conformes aux caractéristiques de la chaîne galvanisée de la norme AFNOR en vigueur ou sont d'une résistance à la traction équivalente.
+
+Le câblot est en fibre polyamide trois torons ou en tout autre matériau offrant des caractéristiques au moins équivalentes.

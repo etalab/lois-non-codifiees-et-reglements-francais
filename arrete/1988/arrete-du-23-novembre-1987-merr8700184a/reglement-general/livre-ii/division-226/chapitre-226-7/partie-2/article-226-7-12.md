@@ -1,17 +1,45 @@
 # Article 226-7.12
 
-Appels et exercices
+Connaissance des consignes en cas d'urgence
 
-1. Un appel de l'équipage pour les exercices d'abandon du navire et d'incendie doit avoir lieu à des intervalles ne dépassant pas un mois à condition que ces appels soient effectués dans les 24 heures qui suivent le départ du port chaque fois que 25% des membres de l'équipage ont été remplacés depuis le dernier appel.
+1. Il doit être pris des mesures appropriées pour que l'équipage soit suffisamment entraîné aux fonctions qu'il doit remplir en cas d'urgence. Cet entraînement doit porter, selon le cas, sur ce qui suit :
 
-2. Lors des appels, on doit examiner le matériel de sauvetage, le matériel de lutte contre l'incendie et tout autre équipement de sécurité pour s'assurer que ceux-ci sont complets et en bon état de fonctionnement.
+1.1. En ce qui concerne les signaux :
 
-3. Les dates auxquelles les appels ont lieu doivent être mentionnées au journal de passerelle prescrit par l'administration ; si, pendant l'intervalle prescrit, il n'y a pas d'appel ou seulement un appel partiel, mention en est faite au journal de passerelle, avec indication des conditions et de la nature de l'appel. Les comptes rendus des inspections relatives au matériel de sauvetage sont portés au journal de passerelle où il est également fait mention des embarcations utilisées.
+1.1.1. Compréhension des signaux distincts prescrits dans le rôle d'appel ;
 
-4.1. Sur les navires munis de radeaux de sauvetage, il est fait au moins une fois dans le courant d'une année une mise à l'eau effective d'un radeau de sauvetage. La participation de l'équipage à des démonstrations collectives de mise en œuvre d'un radeau de sauvetage peut être considérée comme équivalente.
+1.1.2. Signification du signal d'urgence et mesures à prendre lorsque ce signal est entendu.
 
-4.2. Les membres de l'équipage doivent être formés à l'installation et au fonctionnement de l'équipement de radio portatif, s'il existe.
+1.2. En ce qui concerne les radeaux de sauvetage :
 
-5. Les exercices d'abandon sont conduits par le capitaine ou son représentant.
+1.2.1. Méthodes de mise à l'eau et de gonflage des radeaux de sauvetage et précautions à prendre avant, pendant et après la mise à l'eau ;
 
-Les exercices doivent être effectués de façon que l'équipage comprenne pleinement les fonctions qu'il sera appelé à remplir, s'y exerce et soit également instruit du maniement et de la manœuvre des radeaux de sauvetage lorsqu'il y en a.
+1.2.2. Embarquement dans les radeaux de sauvetage mis à l'eau par bossoirs ou gonflés sur l'eau et embarquement dans les radeaux de sauvetage rigides ;
+
+1.2.3. Retournement des radeaux qui flottent à l'envers ;
+
+1.2.4. Utilisation de l'ancre flottante ;
+
+1.2.5. Connaissance de l'armement du radeau de sauvetage et de son mode d'utilisation ;
+
+1.2.6. Compréhension de l'importance de maintenir la pression des flotteurs et du plancher ;
+
+1.2.7. Compréhension des consignes de survie à bord des radeaux de sauvetage.
+
+1.3. En ce qui concerne la survie dans l'eau :
+
+1.3.1. Dangers de l'hypothermie et moyens permettant de réduire ses effets ;
+
+1.3.2. Utilisation des brassières de sauvetage et des combinaisons d'immersion.
+
+1.4. En ce qui concerne la lutte contre l'incendie :
+
+1.4.1. Utilisation des manches d'incendie avec différents ajutages ;
+
+1.4.2. Utilisation des extincteurs d'incendie ;
+
+1.4.3. Connaissance de l'emplacement des portes d'incendie ;
+
+1.4.4. Utilisation de l'appareil respiratoire.
+
+2. Il doit être examiné s'il est nécessaire de donner des informations et/ou d'assurer un entraînement pour le hissage par hélicoptère des personnes se trouvant à bord des navires et des radeaux de sauvetage.

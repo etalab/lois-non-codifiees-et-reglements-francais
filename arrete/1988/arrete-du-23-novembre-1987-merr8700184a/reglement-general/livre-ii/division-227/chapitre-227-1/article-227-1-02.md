@@ -4,28 +4,22 @@ Définitions
 
 Les définitions à prendre en compte sont celles données à l'article 226-1.02 du présent règlement dans la mesure où elles concernent ce type de navire. Elles sont complétées comme suit :
 
-1. Navire en P.R.V.T. désigne un navire construit en résine de polyester armée de verre textile.
+1. Navire ponté désigne, nonobstant la définition précisée à l'article 110-02, un navire pourvu d'un pont étanche continu de l'avant à l'arrière et dont le franc-bord en charge est supérieur ou égal au vingtième de la largeur.
 
-2. Navire non ponté désigne un navire non pourvu d'un pont étanche continu de l'avant à l'arrière, ou pourvu d'un pont étanche continu mais dont le franc-bord en charge est inférieur au vingtième de la largeur.
+2. Navire non ponté désigne un navire qui n'est pas un navire ponté.
 
-3. Navire semi-ponté désigne :
+3. Lht, longueur hors tout, désigne la plus grande longueur du navire, appendices inclus.
 
-a) Un navire équipé d'un pont étanche surélevé sur la partie avant et s'appuyant sur une superstructure vitrée débouchant directement sur les espaces intérieurs, superstructure qui ne peut être considérée comme fermée, Mais qui assure toutefois une certaine protection du cockpit ou du pont arrière contre la mer ; ou
+4. Milieu du navire désigne le milieu de la longueur Lht.
 
-b) Un navire équipé d'un pont étanche continu, dont la valeur du franc-bord en charge, mesuré au livet du pont est inférieure au dixième de la large mais égale ou supérieure au vingtième de cette largeur.
+5. B désigne la largeur hors tout du navire.
 
-4. Navire ponté désigne, nonobstant la définition précisée à l'article 110-02, un navire qui n'est ni un navire non ponté, ni un navire semi-ponté tels que définis ci-dessus.
+6. C désigne le creux selon le cas :
 
-5. Lht désigne la longueur hors tout de la coque du navire.
+- sur un navire ponté : le creux mesuré au milieu du navire entre la partie supérieure de la quille et la face externe du pont ;
 
-6. L désigne la longueur entre perpendiculaires.
+- sur un navire non ponté : la distance verticale au milieu du navire entre le fond du navire et le plat-bord du pavois.
 
-7. Milieu du navire désigne le milieu de la longueur L.
+7. P désigne la puissance continue "ISO" du moteur déclarée conformément à la norme ISO 3046/1.
 
-8. B désigne la largeur hors tout du navire.
-
-9. C désigne le creux à la perpendiculaire milieu mesuré du livet de pont au trait inférieur de la râblure.
-
-10. P désigne la puissance du moteur déterminée conformément à la norme ISO 3046/1.
-
-11. D désigne le déplacement du navire en tonnes métriques.
+8. D désigne le déplacement du navire en tonnes métriques.

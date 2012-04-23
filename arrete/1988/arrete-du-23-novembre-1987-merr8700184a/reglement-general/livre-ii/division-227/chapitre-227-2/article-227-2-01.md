@@ -6,7 +6,7 @@ Le déplacement du navire en charge est égal au déplacement du navire lège au
 
 - matériel d'armement et de sécurité ;
 
-- personnes de l'équipage (75 kg/personne) ;
+- personnes de l'équipage (82,5 kg/personne) et leur effets personnels ;
 
 - matières consommables (combustible, eau, huile, vivres) ;
 
@@ -19,3 +19,5 @@ Le déplacement du navire en charge est égal au déplacement du navire lège au
 - éventuellement, masse du vivier plein.
 
 Le déplacement du navire lège doit être communiqué par le constructeur au plus tard à la mise à l'eau.
+
+La condition navire lège est définie à l'article 211-2.02 de la division 211 du présent règlement.
