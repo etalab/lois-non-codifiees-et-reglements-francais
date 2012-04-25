@@ -464,7 +464,6 @@
 - [Décret n°2008-1337 du 16 décembre 2008 (ESRS0827914D)](decret-n2008-1337-du-16-decembre-2008-esrs0827914d)
 - [Décret n°2008-1338 du 16 décembre 2008 (MLVU0822221D)](decret-n2008-1338-du-16-decembre-2008-mlvu0822221d)
 - [Décret n°2008-353 du 16 avril 2008 (PRMX0809745D)](decret-n2008-353-du-16-avril-2008-prmx0809745d)
-- [Décret n°2008-357 du 16 avril 2008 (DEVE0760018D)](decret-n2008-357-du-16-avril-2008-deve0760018d)
 - [Décret n°2008-358 du 16 avril 2008 (DEVN0806253D)](decret-n2008-358-du-16-avril-2008-devn0806253d)
 - [Décret n°2008-359 du 16 avril 2008 (DEVN0766923D)](decret-n2008-359-du-16-avril-2008-devn0766923d)
 - [Décret n°2008-360 du 16 avril 2008 (ECEL0808726D)](decret-n2008-360-du-16-avril-2008-ecel0808726d)
