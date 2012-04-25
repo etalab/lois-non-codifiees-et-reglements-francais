@@ -1,0 +1,5 @@
+# Article 9
+
+En application de l'article 7 du décret du 23 avril 2012 susvisé, pour ses déchets tritiés solides non susceptibles d'être stockés directement dans les centres de stockage de l'ANDRA, le CEA crée de nouvelles installations ou modifie les installations qu'il exploite, conformément au dossier d'orientation remis aux ministres en charge de l'énergie et de l'environnement fin 2008, et selon un calendrier permettant de disposer en temps voulu des capacités d'entreposage nécessaires pour les différentes catégories de déchets tritiés produits.
+
+En application de l'article 7 du décret du 23 avril 2012 susvisé, l'ANDRA conçoit une installation d'entreposage pour les déchets radioactifs du nucléaire diffus ne pouvant être pris en charge dans les centres de stockage existants et vise une mise en service de cette installation fin 2012. Cet entreposage doit permettre de prendre en charge notamment certains déchets radifères issus d'activités historiques ainsi que certains déchets à radioactivité naturelle renforcée de faible activité à vie longue produits ponctuellement par des industriels.

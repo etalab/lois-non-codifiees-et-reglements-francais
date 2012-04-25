@@ -251,6 +251,8 @@
 - [Décret n°2012-416 du 23 mars 2012 (DEVL1134845D)](decret-n2012-416-du-23-mars-2012-devl1134845d)
 - [Décret n°2012-418 du 23 mars 2012 (ETSD1130952D)](decret-n2012-418-du-23-mars-2012-etsd1130952d)
 - [Décret n°2012-419 du 23 mars 2012 (MENE1204002D)](decret-n2012-419-du-23-mars-2012-mene1204002d)
+- [Décret n°2012-542 du 23 avril 2012 (EFIR1105069D)](decret-n2012-542-du-23-avril-2012-efir1105069d)
+- [Décret n°2012-543 du 23 avril 2012 (MCCK1206217D)](decret-n2012-543-du-23-avril-2012-mcck1206217d)
 - [Décret n°83-1146 du 23 décembre 1983](decret-n83-1146-du-23-decembre-1983)
 - [Décret n°2012-262 du 24 février 2012 (TRAX1205826D)](decret-n2012-262-du-24-fevrier-2012-trax1205826d)
 - [Décret n°2012-263 du 24 février 2012 (LOGX1205824D)](decret-n2012-263-du-24-fevrier-2012-logx1205824d)

@@ -1,0 +1,3 @@
+# Article 6
+
+La demande d'aide est présentée par l'entreprise de production établie en France. Une exception peut être consentie pour les projets présentés par des entreprises de production établies dans les pays d'Afrique subsaharienne, les pays les moins avancés tels que définis par l'Organisation des Nations unies et les pays figurant dans la zone de solidarité prioritaire définie par le comité interministériel de la coopération internationale et du développement. Dans ce cas, un contrat de coproduction avec une entreprise de production établie en France n'est exigé que pour le versement de l'aide.

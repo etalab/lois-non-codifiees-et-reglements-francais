@@ -1,0 +1,7 @@
+# Article 2
+
+Les aides aux cinémas du monde sont accordées aux entreprises de production qui remplissent les conditions prévues par l'article 7 du décret du 24 février 1999 susvisé et coproduisent, avec des entreprises de production établies dans des pays étrangers, des œuvres d'une durée de projection supérieure à une heure, destinées à une première exploitation en salles de spectacles cinématographiques.
+
+Sont prioritairement retenues, pour l'octroi de ces aides, les œuvres coproduites avec des entreprises de production établies dans les pays ayant ratifié la convention du 20 octobre 2005 sur la protection et la promotion de la diversité des expressions culturelles, les pays d'Afrique subsaharienne, les pays les moins avancés tels que définis par l'Organisation des Nations unies et les pays figurant dans la zone de solidarité prioritaire définie par le comité interministériel de la coopération internationale et du développement conformément à l'article 3 du décret du 4 février 1998 susvisé, ainsi que les œuvres coproduites dans le cadre d'une coproduction internationale admise au bénéfice d'un accord intergouvernemental de coproduction.
+
+A compter du 1er janvier 2015, le bénéfice des aides aux cinémas du monde pourra être réservé aux œuvres coproduites par les entreprises de production établies dans les pays figurant sur une liste arrêtée par le ministre de la culture et le ministre des affaires étrangères. Pour l'établissement de cette liste, priorité sera donnée aux pays ayant ratifié la convention du 20 octobre 2005 précitée.

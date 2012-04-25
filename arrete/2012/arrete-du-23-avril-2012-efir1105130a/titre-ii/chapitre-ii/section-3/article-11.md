@@ -1,0 +1,7 @@
+# Article 11
+
+En application de l'article 15 du décret du 23 avril 2012 susvisé, les détenteurs de sources radioactives scellées usagées considérées comme des déchets proposent à l'ANDRA, au plus tard le 15 mai 2012, et tiennent à jour un lotissement des sources scellées usagées qu'ils détiennent ou prévoient de recevoir et destinées à être gérées en tant que déchets, et une estimation des flux de colis de déchets contenant ces sources vers chaque stockage. Pour définir chaque lot, les détenteurs prennent en compte la (ou les) filière(s) d'élimination et de stockage envisagée(s) en lien avec l'ANDRA. Si nécessaire, un programme de caractérisation complémentaire de ces sources en vue de leur orientation vers une filière d'élimination et de stockage est défini.
+
+L'ANDRA remet aux ministres chargés de l'énergie, de la sûreté nucléaire et de la radioprotection, au plus tard le 31 décembre 2012, des recommandations sur l'optimisation de la planification des reprises et des collectes des sources scellées usagées considérées comme des déchets ainsi que leur compatibilité avec la disponibilité temporelle des filières de conditionnement, d'entreposage et de stockage.
+
+L'Autorité de sûreté nucléaire et le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense, chacun pour les activités et installations le concernant, sont saisis pour avis.
