@@ -1,24 +1,20 @@
 # Article 2
 
-Cette commission comprend :
+Cette commission comprend, outre son président nommé pour quatre ans par arrêté du ministre de la culture et de la communication :
 
-1° Le président ;
-
-2° Le délégué général à la langue française ou son représentant :
+1° Le délégué général à la langue française et aux langues de France ou son représentant ;
 
 Un représentant de l'Académie française ;
 
-Un représentant de l'AFNOR ;
+Un représentant du Conseil supérieur de l'audiovisuel ;
 
-Le haut fonctionnaire chargé de la terminologie et de la néologie au ministère de la culture et de la communication ;
+Un représentant de l'Autorité de régulation professionnelle de la publicité ;
 
-Le représentant du ministre de l'éducation nationale, de la recherche et de la technologie ;
+Un représentant de l'Association française de normalisation ;
 
-Le représentant du ministre de l'équipement, des transports et du logement ;
+2° Le haut fonctionnaire chargé de la terminologie et de la néologie au ministère de la culture et de la communication ;
 
-3° Le directeur général des médias et des industries culturelles ou son représentant :
-
-Le chef du service de l'inspection générale ou son représentant ;
+Le chef du service de l'inspection générale des affaires culturelles ou son représentant ;
 
 Le secrétaire général ou son représentant ;
 
@@ -26,10 +22,20 @@ Le directeur général des patrimoines ou son représentant ;
 
 Le directeur général de la création artistique ou son représentant ;
 
-Le délégué au développement et aux formations ou son représentant ;
+Le directeur général des médias et des industries culturelles ou son représentant ;
 
-Le directeur du Centre national de la cinématographie ou son représentant ;
+Le chef du département de l'information et de la communication ou son représentant ;
 
-Le chef du département des affaires internationales.
+Le doyen de l'inspection générale des bibliothèques ou son représentant ;
 
-4° Des personnalités qualifiées désignées par la ministre de la culture et de la communication, porte-parole du Gouvernement.
+Le président du Centre national du cinéma et de l'image animée ou son représentant ;
+
+Le président de la Bibliothèque nationale de France ou son représentant ;
+
+Le président de l'Institut national de l'audiovisuel ou son représentant ;
+
+Le président de l'Etablissement public du Palais de la Découverte et de la Cité des sciences et de l'industrie ou son représentant ;
+
+3° Des personnalités qualifiées désignées pour quatre ans par arrêté du ministre de la culture et de la communication.
+
+La commission peut en outre, en tant que de besoin, associer à ses travaux des représentants des autres commissions spécialisées, des experts choisis en raison de leur compétence ainsi que des représentants des milieux professionnels et des usagers qui utilisent le vocabulaire dont l'étude lui a été confiée.
