@@ -2,8 +2,6 @@
 
 En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste des emplois de chef de mission permettant l'accès à l'échelon spécial est arrêtée ainsi qu'il suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -13,152 +11,232 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </th>
 </tr>
 <tr>
-<td align="center">Agence nationale des fréquences <br/>
+<td align="center">
+<p align="left">Agence nationale des fréquences <br/>
+</p>
 </td>
-<td align="center">Chef du service informatique <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Agence nationale des fréquences <br/>
-</td>
-<td align="center">Directeur adjoint de la direction technique du contrôle du spectre <br/>
+<td align="center">
+<p align="left">Chef du service informatique <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques (supprimé à compter du 1er avril 2012)</td>
-<td align="center">Chef du bureau " ressources humaines " <br/>
+<td align="center">
+<p align="left">Agence nationale des fréquences <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Directeur adjoint de la direction technique du contrôle du spectre <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques <br/>
+<td align="center">
+<p align="left">Direction des affaires juridiques <br/>
+</p>
 </td>
-<td align="center">Chef du bureau " économie, statistiques et techniques de l'achat public " <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du budget <br/>
-</td>
-<td align="center">Chargé de l'animation du club des gestionnaires et de la formation à la gestion financière (école de la LOLF et e-formation) <br/>
+<td align="center">
+<p align="left">Chef du bureau " économie, statistiques et techniques de l'achat public " <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
+<td align="center">
+<p align="left">Direction du budget <br/>
+</p>
 </td>
-<td align="center">Adjoint au chef du bureau de la communication et de l'accueil du public<br/>
-</td>
-</tr>
-<tr>
-<td align="center">             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies <br/>
-</td>
-<td align="center">Secrétaire général de l'Ecole nationale supérieure des mines de Paris <br/>
+<td align="center">
+<p align="left">Chargé de l'animation du club des gestionnaires et de la formation à la gestion financière (école de la LOLF et e-formation) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Service du contrôle général économique et financier (supprimé à compter du 1er avril 2012)</td>
-<td align="center">Chargé de mission de contrôle économique et financier de l'EPIC Réseau ferré de France à la mission des transports collectifs terrestres <br/>
+<td align="center">
+<p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Adjoint au chef du bureau de la communication et de l'accueil du public<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Service du contrôle général économique et financier <br/>
+<td align="center">
+<p align="left">Conseil général de l'économie, de l'industrie, de l'énergie et des technologies <br/>
+</p>
 </td>
-<td align="center">Responsable de la formation professionnelle <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des douanes et droits indirects <br/>
-</td>
-<td align="center">Adjoint au chef du bureau du personnel <br/>
+<td align="center">
+<p align="left">Secrétaire général de l'Ecole nationale supérieure des mines de Paris <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale des douanes et droits indirects <br/>
+<td align="center">
+<p align="left">Service du contrôle général économique et financier <br/>
+</p>
 </td>
-<td align="center">Adjoint au chef de la cellule de contrôle de gestion <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des douanes et droits indirects <br/>
-</td>
-<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section " programmation pluriannuelle " <br/>
+<td align="center">
+<p align="left">Responsable de la formation professionnelle <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Délégation générale à l'emploi et à la formation professionnelle <br/>
+<td align="center">
+<p align="left">Direction générale des douanes et droits indirects <br/>
+</p>
 </td>
-<td align="center">Chef de projet en charge de la consolidation transversale des politiques d'emploi et de la formation des branches et des entreprises <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des finances publiques <br/>
-</td>
-<td align="center">Chef du secteur de la commande publique au bureau " expertise juridique " <br/>
+<td align="center">
+<p align="left">Adjoint au chef du bureau du personnel <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale des finances publiques <br/>
+<td align="center">
+<p align="left">Direction générale des douanes et droits indirects <br/>
+</p>
 </td>
-<td align="center">Responsable du secteur " contentieux des ressources humaines et affaires juridiques " <br/>
-</td>
-</tr>
-<tr>
-<td align="center"> Direction générale du Trésor (ajouté à compter du 16 mars 2012)<br/>
-</td>
-<td align="center"> Adjoint au chef du bureau  services bancaires et moyens de paiement </td>
-</tr>
-<tr>
-<td align="center">Service des retraites de l'Etat <br/>
-</td>
-<td align="center">Chef du bureau de l'accueil des usagers <br/>
+<td align="center">
+<p align="left">Adjoint au chef de la cellule de contrôle de gestion <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Service des retraites de l'Etat <br/>
+<td align="center">
+<p align="left">Direction générale des douanes et droits indirects (supprimé à compter du 1er juillet 2012)<br/>
+</p>
 </td>
-<td align="center">Chef de mission, responsable de la cellule de contrôle qualité <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Service des retraites de l'Etat <br/>
-</td>
-<td align="center">Chef du bureau des invalidités <br/>
+<td align="center">
+<p align="left">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section " programmation pluriannuelle " <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général <br/>
+<td>
+<p align="left">Direction générale des douanes et droits indirects </p>
 </td>
-<td align="center">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Secrétariat général (supprimé à compter du 27 avril 2012)</td>
-<td align="center">Adjoint au chef de la mission " Parlement européen " <br/>
+<td>Adjoint au chef du bureau des achats, de la politique immobilière et des services centraux<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général <br/>
+<td align="center">
+<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
+</p>
 </td>
-<td align="center">Chargé de mission " animation des systèmes d'information " au sein de la délégation aux systèmes d'information <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Secrétariat général <br/>
-</td>
-<td align="center">Chef du bureau des développements numériques <br/>
+<td align="center">
+<p align="left">Chef de projet en charge de la consolidation transversale des politiques d'emploi et de la formation des branches et des entreprises <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général <br/>
+<td align="center">
+<p align="left">Direction générale des finances publiques <br/>
+</p>
 </td>
-<td align="center">Conseiller auprès du coordonnateur ministériel à l'intelligence économique <br/>
+<td align="center">
+<p align="left">Chef du secteur de la commande publique au bureau " expertise juridique " <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général des affaires européennes <br/>
+<td align="center">
+<p align="left">Direction générale des finances publiques <br/>
+</p>
 </td>
-<td align="center">Chef du bureau " administration générale "<br/>
+<td align="center">
+<p align="left">Responsable du secteur " contentieux des ressources humaines et affaires juridiques " <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction générale du Trésor </p>
+</td>
+<td align="center">
+<p align="left">Adjoint au chef du bureau services bancaires et moyens de paiement </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Service des retraites de l'Etat <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chef du bureau de l'accueil des usagers <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Service des retraites de l'Etat <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chef du bureau des invalidités <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Service des retraites de l'Etat </p>
+</td>
+<td>Chef du bureau "retraites" <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Service des retraites de l'Etat </p>
+</td>
+<td>Chef de la mission "maîtrise des risques"</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Secrétariat général <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Secrétariat général <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chargé de mission " animation des systèmes d'information " au sein de la délégation aux systèmes d'information <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Secrétariat général <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chef du bureau des développements numériques <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Secrétariat général <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Conseiller auprès du coordonnateur ministériel à l'intelligence économique <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Secrétariat général des affaires européennes <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chef du bureau " administration générale "<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
