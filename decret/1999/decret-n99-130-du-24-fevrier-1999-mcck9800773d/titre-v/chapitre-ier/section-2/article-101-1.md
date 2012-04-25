@@ -6,9 +6,9 @@ Les entreprises qui satisfont aux conditions prévues au I de l'article 7 peuven
 
 2° D'oeuvres cinématographiques de longue durée bénéficiant des avances à la production après réalisation prévues aux articles 61 à 67 ;
 
-3° D'oeuvres cinématographiques de longue durée bénéficiant des subventions à la production d'oeuvres réalisées en langue étrangère prévues aux articles 68 à 71 ;
+3° D'œuvres cinématographiques de longue durée bénéficiant des aides aux cinémas du monde ;
 
-4° D'oeuvres cinématographiques de longue durée bénéficiant des aides en faveur de la production cinématographique des pays en développement ;
+4° (Abrogé)
 
 5° D'oeuvres cinématographiques de courte durée composant un programme et bénéficiaires de l'agrément de diffusion prévu aux articles 129 à 131.
 
