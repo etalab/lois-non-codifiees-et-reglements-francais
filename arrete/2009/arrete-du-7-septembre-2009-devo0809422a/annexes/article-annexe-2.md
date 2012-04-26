@@ -49,163 +49,163 @@ Tableau 1. ― Programmes d'essai
 <table>
 <tbody>
 <tr>
-<th> 										N° SÉQUENCE<br/>
+<th>N° SÉQUENCE<br/>
 </th>
-<th> 										DÉNOMINATION<br/>
+<th>DÉNOMINATION<br/>
 </th>
-<th> 										DÉBIT HYDRAULIQUE NOMINAL<br/> 										journalier QN<br/>
+<th>DÉBIT HYDRAULIQUE NOMINAL<br/>journalier QN<br/>
 </th>
-<th> 										NOMBRE<br/> 										de mesures<br/>
+<th>NOMBRE<br/>de mesures<br/>
 </th>
-<th> 										DURÉE<br/> 										(semaine)<br/>
+<th>DURÉE<br/>(semaine)<br/>
 </th>
 </tr>
 <tr>
-<td align="center"> 										1<br/>
+<td align="center">1<br/>
 </td>
-<td align="center"> 										Etablissement de la biomasse<br/>
+<td align="center">Etablissement de la biomasse<br/>
 </td>
-<td align="center"> 										100 %<br/>
+<td align="center">100 %<br/>
 </td>
-<td align="center"> 										0<br/>
+<td align="center">0<br/>
 </td>
-<td align="center"> 										X (a)<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										2<br/>
-</td>
-<td align="center"> 										Charge nominale<br/>
-</td>
-<td align="center"> 										100 %<br/>
-</td>
-<td align="center"> 										6<br/>
-</td>
-<td align="center"> 										6<br/>
+<td align="center">X (a)<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										3<br/>
+<td align="center">2<br/>
 </td>
-<td align="center"> 										Sous-charge<br/>
+<td align="center">Charge nominale<br/>
 </td>
-<td align="center"> 										50 %<br/>
+<td align="center">100 %<br/>
 </td>
-<td align="center"> 										2<br/>
+<td align="center">6<br/>
 </td>
-<td align="center"> 										2<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										4<br/>
-</td>
-<td align="center"> 										Charge nominale ― coupure d'alimentation électrique 24 h (b)<br/>
-</td>
-<td align="center"> 										100 %<br/>
-</td>
-<td align="center"> 										6<br/>
-</td>
-<td align="center"> 										6<br/>
+<td align="center">6<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										5<br/>
+<td align="center">3<br/>
 </td>
-<td align="center"> 										Contraintes de faible occupation<br/>
+<td align="center">Sous-charge<br/>
 </td>
-<td align="center"> 										0 %<br/>
+<td align="center">50 %<br/>
 </td>
-<td align="center"> 										2<br/>
+<td align="center">2<br/>
 </td>
-<td align="center"> 										2<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										6<br/>
-</td>
-<td align="center"> 										Charge nominale<br/>
-</td>
-<td align="center"> 										100 %<br/>
-</td>
-<td align="center"> 										6<br/>
-</td>
-<td align="center"> 										6<br/>
+<td align="center">2<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										7<br/>
+<td align="center">4<br/>
 </td>
-<td align="center"> 										Surcharge (c)<br/>
+<td align="center">Charge nominale ― coupure d'alimentation électrique 24 h (b)<br/>
 </td>
-<td align="center"> 										150 % si QN  1,2 m³/j ;<br/> 										125 % si QN ¹ 1,2 m³/j<br/>
+<td align="center">100 %<br/>
 </td>
-<td align="center"> 										2<br/>
+<td align="center">6<br/>
 </td>
-<td align="center"> 										2<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										8<br/>
-</td>
-<td align="center"> 										Charge nominale ― coupure d'alimentation électrique 24 h (b)<br/>
-</td>
-<td align="center"> 										100 %<br/>
-</td>
-<td align="center"> 										6<br/>
-</td>
-<td align="center"> 										6<br/>
+<td align="center">6<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										9<br/>
+<td align="center">5<br/>
 </td>
-<td align="center"> 										Sous-charge<br/>
+<td align="center">Contraintes de faible occupation<br/>
 </td>
-<td align="center"> 										50 %<br/>
+<td align="center">0 %<br/>
 </td>
-<td align="center"> 										2<br/>
+<td align="center">2<br/>
 </td>
-<td align="center"> 										2<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										10<br/>
-</td>
-<td align="center"> 										Charge nominale<br/>
-</td>
-<td align="center"> 										100 %<br/>
-</td>
-<td align="center"> 										6<br/>
-</td>
-<td align="center"> 										6<br/>
+<td align="center">2<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										11<br/>
+<td align="center">6<br/>
 </td>
-<td align="center"> 										Surcharge à 200 %<br/>
+<td align="center">Charge nominale<br/>
 </td>
-<td align="center"> 										200 %<br/>
+<td align="center">100 %<br/>
 </td>
-<td align="center"> 										4<br/>
+<td align="center">6<br/>
 </td>
-<td align="center"> 										4<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										12<br/>
-</td>
-<td align="center"> 										Stress de non-occupation<br/>
-</td>
-<td align="center"> 										0 % du 1er au 5e jour ; 100 % les 6e et 7e jours ; 0 % du 8e au 12e jour ; 100 % les 13e et 14e jours<br/>
-</td>
-<td align="center"> 										2<br/>
-</td>
-<td align="center"> 										2 <br/>
+<td align="center">6<br/>
 </td>
 </tr>
 <tr>
-<td colspan="5"> 										 (a) X est la durée indiquée par le fabricant pour obtenir une performance de fonctionnement normale.<br/> 										(b) Une coupure d'électricité de 24 heures est effectuée 2 semaines après le début de la séquence.<br/> 										(c) Une surcharge est exercée pendant 48 heures au début de la séquence.<br/>
+<td align="center">7<br/>
+</td>
+<td align="center">Surcharge (c)<br/>
+</td>
+<td align="center">150 % si QN 1,2 m³/j ;<br/>125 % si QN ¹ 1,2 m³/j<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">8<br/>
+</td>
+<td align="center">Charge nominale ― coupure d'alimentation électrique 24 h (b)<br/>
+</td>
+<td align="center">100 %<br/>
+</td>
+<td align="center">6<br/>
+</td>
+<td align="center">6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">9<br/>
+</td>
+<td align="center">Sous-charge<br/>
+</td>
+<td align="center">50 %<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">10<br/>
+</td>
+<td align="center">Charge nominale<br/>
+</td>
+<td align="center">100 %<br/>
+</td>
+<td align="center">6<br/>
+</td>
+<td align="center">6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">11<br/>
+</td>
+<td align="center">Surcharge à 200 %<br/>
+</td>
+<td align="center">200 %<br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">12<br/>
+</td>
+<td align="center">Stress de non-occupation<br/>
+</td>
+<td align="center">0 % du 1er au 5e jour ; 100 % les 6e et 7e jours ; 0 % du 8e au 12e jour ; 100 % les 13e et 14e jours<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">2 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="5">(a) X est la durée indiquée par le fabricant pour obtenir une performance de fonctionnement normale.<br/>(b) Une coupure d'électricité de 24 heures est effectuée 2 semaines après le début de la séquence.<br/>(c) Une surcharge est exercée pendant 48 heures au début de la séquence.<br/>
 </td>
 </tr>
 </tbody>
@@ -224,45 +224,45 @@ Tableau 2. ― Modèle de débit journalier
 <table>
 <tbody>
 <tr>
-<th> 										PÉRIODE<br/> 										(en heures)<br/>
+<th>PÉRIODE<br/>(en heures)<br/>
 </th>
-<th colspan="4"> 										POURCENTAGE DU VOLUME JOURNALIER<br/> 										(%)<br/>
+<th colspan="4">POURCENTAGE DU VOLUME JOURNALIER<br/>(%)<br/>
 </th>
 </tr>
 <tr>
-<td align="center"> 										3<br/>
+<td align="center">3<br/>
 </td>
-<td align="center"> 										30<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										3<br/>
-</td>
-<td align="center"> 										15<br/>
+<td align="center">30<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										6<br/>
+<td align="center">3<br/>
 </td>
-<td align="center"> 										0<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										2<br/>
-</td>
-<td align="center"> 										40<br/>
+<td align="center">15<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										3<br/>
+<td align="center">6<br/>
 </td>
-<td align="center"> 										15<br/>
+<td align="center">0<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										7<br/>
+<td align="center">2<br/>
 </td>
-<td align="center"> 										0<br/>
+<td align="center">40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">3<br/>
+</td>
+<td align="center">15<br/>
+</td>
+</tr>
+<tr>
+<td align="center">7<br/>
+</td>
+<td align="center">0<br/>
 </td>
 </tr>
 </tbody>
@@ -293,33 +293,33 @@ Tableau 3. ― Nombre d'alimentations de pointe
 <table>
 <tbody>
 <tr>
-<th> 										DÉBIT HYDRAULIQUE NOMINAL QN<br/>
+<th>DÉBIT HYDRAULIQUE NOMINAL QN<br/>
 </th>
-<th> 										NOMBRE D'ALIMENTATIONS DE POINTE<br/>
+<th>NOMBRE D'ALIMENTATIONS DE POINTE<br/>
 </th>
 </tr>
 <tr>
-<td align="center"> 										QN  0,6 m³/j<br/>
+<td align="center">QN 0,6 m³/j<br/>
 </td>
-<td align="center"> 										1<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										0,6 ¸ QN  1,2 m³/j<br/>
-</td>
-<td align="center"> 										2<br/>
+<td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										1,2 ¸ QN  1,8 m³/j<br/>
+<td align="center">0,6 ¸ QN 1,2 m³/j<br/>
 </td>
-<td align="center"> 										3<br/>
+<td align="center">2<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										QN ¹ 1,8 m³/j<br/>
+<td align="center">1,2 ¸ QN 1,8 m³/j<br/>
 </td>
-<td align="center"> 										4<br/>
+<td align="center">3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">QN ¹ 1,8 m³/j<br/>
+</td>
+<td align="center">4<br/>
 </td>
 </tr>
 </tbody>
@@ -375,7 +375,7 @@ Sur l'ensemble de l'installation :
 
 ― puissance installée ;
 
-― production de boues en quantité de MES (y compris les MES de l'effluent) et de matières volatiles en suspension (MVS) en la rapportant à l'ensemble de la charge traitée pendant tout le programme d'essai :
+― production de boues en quantité de MS (y compris les MES de l'effluent) et de matières volatiles sèches (MVS) en la rapportant à l'ensemble de la charge traitée pendant tout le programme d'essai :
 
 ― hauteur des boues mesurée à l'aide d'un détecteur de voile de boues, dans la fosse septique et/ou les dispositifs de décantation et stockage, à la fin de chaque séquence du programme d'essai ;
 
@@ -408,57 +408,57 @@ Tableau 4. ― Méthodes d'analyse
 <table>
 <tbody>
 <tr>
-<th> 										PARAMÈTRE<br/>
+<th>PARAMÈTRE<br/>
 </th>
-<th> 										MÉTHODE<br/>
+<th>MÉTHODE<br/>
 </th>
 </tr>
 <tr>
-<td align="center"> 										DBO5<br/>
+<td align="center">DBO5<br/>
 </td>
-<td align="center"> 										NF ISO 5815<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										DCO<br/>
-</td>
-<td align="center"> 										NF ISO 6060<br/>
+<td align="center">NF ISO 5815<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										MES<br/>
+<td align="center">DCO<br/>
 </td>
-<td align="center"> 										NF EN 872<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										Energie consommée<br/>
-</td>
-<td align="center"> 										Compteur électrique<br/>
+<td align="center">NF ISO 6060<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										Escherichia coli <br/>
+<td align="center">MES<br/>
 </td>
-<td align="center"> 										NF EN ISO 9308-3<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										Entérocoques<br/>
-</td>
-<td align="center"> 										NF EN ISO 7899-1<br/>
+<td align="center">NF EN 872<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										Bactériophages ARN-F spécifiques<br/>
+<td align="center">Energie consommée<br/>
 </td>
-<td align="center"> 										NF EN ISO 10705-1<br/>
+<td align="center">Compteur électrique<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										Spores de micro-organismes anaérobies sulfito-réducteurs<br/>
+<td align="center">Escherichia coli <br/>
 </td>
-<td align="center"> 										NF EN 26461-1<br/>
+<td align="center">NF EN ISO 9308-3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Entérocoques<br/>
+</td>
+<td align="center">NF EN ISO 7899-1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bactériophages ARN-F spécifiques<br/>
+</td>
+<td align="center">NF EN ISO 10705-1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Spores de micro-organismes anaérobies sulfito-réducteurs<br/>
+</td>
+<td align="center">NF EN 26461-1<br/>
 </td>
 </tr>
 </tbody>
@@ -470,15 +470,15 @@ Méthode de quantification de la production de boues
 
 Le niveau de boue atteint dans la fosse septique (mesure amont et aval, si possible) et/ou dans le(s) dispositif(s) de décantation et stockage des boues doit être mesuré à l'aide d'un détecteur de voile de boues à la fin de chaque séquence du programme d'essai et dès qu'une augmentation des MES est constatée en sortie d'une étape de traitement et/ou de l'installation. Cela permet de déterminer l'interface boues/liquide surnageant.
 
-A la fin de la période d'essai, le niveau final de boues atteint dans tous les dispositifs est mesuré, puis l'ensemble de ce volume est homogénéisé par brassage et deux échantillons sont prélevés puis analysés pour connaître leur teneur en MES et MVS.
+A la fin de la période d'essai, le niveau final de boues atteint dans tous les dispositifs est mesuré, puis l'ensemble de ce volume est homogénéisé par brassage et deux échantillons sont prélevés puis analysés pour connaître leur teneur en MS et MVS.
 
-La concentration moyenne des boues stockées dans chacun des dispositifs est calculée en moyennant les mesures de MES et MVS et en les rapportant au volume de boues stocké avant brassage, ce qui permet d'appréhender la quantité totale de boues.
+La concentration moyenne des boues stockées dans chacun des dispositifs est calculée en moyennant les mesures de MS et MVS et en les rapportant au volume de boues stocké avant brassage, ce qui permet d'appréhender la quantité totale de boues.
 
 Si une vidange intermédiaire est nécessaire, la quantité de boues extraite sera déterminée en suivant la même démarche. Cette quantité s'ajoutera à celle mesurée en fin de programme d'essai.
 
 La mesure de la production totale de boues pendant la période d'essai correspond à la somme de :
 
-― la quantité de boues stockée, exprimée en kg de MES et de MVS ;
+― la quantité de boues stockée, exprimée en kg de MS et de MVS ;
 
 ― la quantité de MES éliminée avec l'effluent traité (exprimée en kg) calculée à partir des concentrations en MES mesurées dans l'effluent en sortie de traitement, multipliées par les volumes moyens rejetés au cours de chaque période du programme d'essai.
 
@@ -502,67 +502,67 @@ en sortie de l'étape de traitement intermédiaire et en sortie de l'installatio
 <th>
 <br/>
 </th>
-<th colspan="2"> 										ENTRÉE<br/> 										de l'installation<br/>
+<th colspan="2">ENTRÉE<br/>de l'installation<br/>
 </th>
-<th colspan="2"> 										SORTIE DE L'ÉTAPE<br/> 										de traitement intermédiaire<br/>
+<th colspan="2">SORTIE DE L'ÉTAPE<br/>de traitement intermédiaire<br/>
 </th>
-<th> 										SORTIE<br/> 										de l'installation<br/>
+<th>SORTIE<br/>de l'installation<br/>
 </th>
 </tr>
 <tr>
-<td align="center"> 										Paramètre<br/>
+<td align="center">Paramètre<br/>
 </td>
-<td align="center"> 										Min.<br/>
+<td align="center">Min.<br/>
 </td>
-<td align="center"> 										Max.<br/>
+<td align="center">Max.<br/>
 </td>
-<td align="center"> 										Min.<br/>
+<td align="center">Min.<br/>
 </td>
-<td align="center"> 										Max.<br/>
+<td align="center">Max.<br/>
 </td>
-<td align="center"> 										Max.<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										DCO (mg.L-¹)<br/>
-</td>
-<td align="center"> 										600<br/>
-</td>
-<td align="center"> 										1 000<br/>
-</td>
-<td align="center"> 										200<br/>
-</td>
-<td align="center"> 										600<br/>
-</td>
-<td align="center"> 										/<br/>
+<td align="center">Max.<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										DBO5 (mg.L-¹)<br/>
+<td align="center">DCO (mg.L-¹)<br/>
 </td>
-<td align="center"> 										300<br/>
+<td align="center">600<br/>
 </td>
-<td align="center"> 										500<br/>
+<td align="center">1 000<br/>
 </td>
-<td align="center"> 										100<br/>
+<td align="center">200<br/>
 </td>
-<td align="center"> 										350<br/>
+<td align="center">600<br/>
 </td>
-<td align="center"> 										35<br/>
+<td align="center">/<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										MES (mg. L-¹)<br/>
+<td align="center">DBO5 (mg.L-¹)<br/>
 </td>
-<td align="center"> 										300<br/>
+<td align="center">300<br/>
 </td>
-<td align="center"> 										700<br/>
+<td align="center">500<br/>
 </td>
-<td align="center"> 										40<br/>
+<td align="center">100<br/>
 </td>
-<td align="center"> 										150<br/>
+<td align="center">350<br/>
 </td>
-<td align="center"> 										30<br/>
+<td align="center">35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">MES (mg. L-¹)<br/>
+</td>
+<td align="center">300<br/>
+</td>
+<td align="center">700<br/>
+</td>
+<td align="center">40<br/>
+</td>
+<td align="center">150<br/>
+</td>
+<td align="center">30<br/>
 </td>
 </tr>
 </tbody>
@@ -595,21 +595,21 @@ Tableau 6
 <table>
 <tbody>
 <tr>
-<th> 										PARAMÈTRE<br/>
+<th>PARAMÈTRE<br/>
 </th>
-<th colspan="5"> 										CONCENTRATION MAXIMALE<br/>
+<th colspan="5">CONCENTRATION MAXIMALE<br/>
 </th>
 </tr>
 <tr>
-<td align="center"> 										DBO5<br/>
+<td align="center">DBO5<br/>
 </td>
-<td align="center"> 										50 mg/l<br/>
+<td align="center">50 mg/l<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										MES<br/>
+<td align="center">MES<br/>
 </td>
-<td align="center"> 										85 mg/l<br/>
+<td align="center">85 mg/l<br/>
 </td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-**CARACTÉRISTIQUES TECHNIQUES ET CONDITIONS DE MISE EN ŒUVRE DES DISPOSITIFS DE L'INSTALLATION D'ASSAINISSEMENT NON COLLECTIF**
+CARACTÉRISTIQUES TECHNIQUES ET CONDITIONS DE MISE EN ŒUVRE DES DISPOSITIFS DE L'INSTALLATION D'ASSAINISSEMENT NON COLLECTIF
 
 Fosse toutes eaux et fosse septique.
 
@@ -16,9 +16,7 @@ Les fosses toutes eaux doivent être pourvues d'une ventilation constituée d'un
 
 Le volume utile des fosses septiques réservées aux seules eaux-vannes doit être au moins égal à la moitié des volumes minimaux retenus pour les fosses toutes eaux.
 
-Dispositifs assurant l'épuration des eaux usées
-
-par le sol en place
+Dispositifs assurant l'épuration des eaux usées par le sol en place ou massif reconstitué
 
 Tranchées d'épandage à faible profondeur dans le sol naturel
 
@@ -28,7 +26,7 @@ L'épandage souterrain doit être réalisé par l'intermédiaire de tuyaux d'ép
 
 Ceux-ci doivent être placés aussi près de la surface du sol que le permet leur protection.
 
-La longueur totale des tuyaux d'épandage mis en œuvre est fonction des possibilités d'infiltration du terrain, déterminées à l'aide du test de Porcher ou équivalent (test de perméabilité ou de percolation à niveau constant) et des quantités d'eau à infiltrer.
+La longueur totale des tuyaux d'épandage mis en œuvre est fonction des possibilités d'infiltration du terrain, déterminées à l'aide du test de Porchet ou équivalent (test de perméabilité ou de percolation à niveau constant ou variable) et des quantités d'eau à infiltrer.
 
 Les tuyaux d'épandage doivent avoir un diamètre au moins égal à 100 millimètres. Ils doivent être constitués d'éléments rigides en matériaux résistants munis d'orifices dont la plus petite dimension doit être au moins égale à 5 millimètres.
 
@@ -44,7 +42,7 @@ Le remblai de la tranchée doit être réalisé après interposition, au-dessus 
 
 L'épandage souterrain doit être maillé chaque fois que la topographie le permet.
 
-Il doit être alimenté par un dispositif assurant une égale répartition des eaux usées traitées dans le réseau de distribution.
+Il doit être alimenté par un dispositif assurant une égale répartition des eaux usées prétraitées dans le réseau de distribution.
 
 Lit d'épandage à faible profondeur.
 
@@ -60,13 +58,11 @@ Nappe trop proche de la surface du sol.
 
 Dans le cas où la nappe phréatique est trop proche de la surface du sol, l'épandage doit être établi à la partie supérieure d'un tertre d'infiltration reprenant les caractéristiques du filtre à sable vertical non drainé et réalisé au-dessus du sol en place.
 
-Dispositifs assurant l'épuration des eaux usées
-
-dans le cas d'un sol à perméabilité insuffisante
-
-Dans le cas où le sol présente une perméabilité inférieure à 15 mm/h, il convient de reconstituer un sol artificiel permettant d'assurer la fonction d'épuration.
+Autres dispositifs
 
 Filtre à sable vertical drainé.
+
+Dans le cas où le sol présente une perméabilité inférieure à 15 mm/h, il convient de reconstituer un sol artificiel permettant d'assurer la fonction d'épuration.
 
 Il comporte un épandage dans un massif de sable propre rapporté formant un sol reconstitué.
 
@@ -109,8 +105,6 @@ Le dispositif comporte successivement, dans le sens d'écoulement des effluents,
 L'ensemble est recouvert d'un feutre imputrescible et de terre arable.
 
 La largeur du front de répartition est de 6 mètres pour 4 pièces principales et de 8 mètres pour 5 pièces principales ; il est ajouté 1 mètre supplémentaire par pièce principale pour les habitations plus importantes.
-
-Autres dispositifs visés aux articles 4 et 13
 
 Dispositif de rétention des graisses (bac dégraisseur).
 
