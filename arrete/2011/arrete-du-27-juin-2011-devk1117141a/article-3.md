@@ -62,4 +62,6 @@ Service central d'hydrométéorologie et d'appui à la prévention des inondatio
 
 Agence française pour l'information multimodale et billettique ;
 
-Centre de prestations et d'ingénierie informatiques (CP2I).
+Centre de prestations et d'ingénierie informatiques (CP2I) ;
+
+Centre ministériel de valorisation des ressources humaines (CMVRH).

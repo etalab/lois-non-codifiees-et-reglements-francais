@@ -6,4 +6,6 @@ Centre d'études techniques maritimes et fluviales ;
 
 Service d'études sur les transports, les routes et leurs aménagements ;
 
-Service technique des remontées mécaniques et des transports guidés.
+Service technique des remontées mécaniques et des transports guidés ;
+
+Centre ministériel de valorisation des ressources humaines (CMVRH).
