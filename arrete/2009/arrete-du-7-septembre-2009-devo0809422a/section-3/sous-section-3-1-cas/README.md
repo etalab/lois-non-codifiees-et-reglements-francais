@@ -1,3 +1,0 @@
-# SOUS SECTION 3.1 : CAS GENERAL : EVACUATION PAR LE SOL
-
-- [Article 11](article-11.md)

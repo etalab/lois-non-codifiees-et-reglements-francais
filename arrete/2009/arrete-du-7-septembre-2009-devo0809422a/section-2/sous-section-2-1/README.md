@@ -1,3 +1,0 @@
-# SOUS SECTION 2.1 : INSTALLATIONS AVEC TRAITEMENT PAR LE SOL
-
-- [Article 6](article-6.md)
