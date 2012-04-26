@@ -1507,7 +1507,6 @@
 - [Arrêté du 17 juin 2011 (MENE1116619A)](arrete-du-17-juin-2011-mene1116619a)
 - [Arrêté du 17 mars 2011 (AGRG1105295A)](arrete-du-17-mars-2011-agrg1105295a)
 - [Arrêté du 17 mars 2011 (AGRG1107849A)](arrete-du-17-mars-2011-agrg1107849a)
-- [Arrêté du 17 mars 2011 (DEVL1102158A)](arrete-du-17-mars-2011-devl1102158a)
 - [Arrêté du 17 mars 2011 (EFII1107784A)](arrete-du-17-mars-2011-efii1107784a)
 - [Arrêté du 17 mars 2011 (ESRH1106398A)](arrete-du-17-mars-2011-esrh1106398a)
 - [Arrêté du 17 mars 2011 (ETSP1108041A)](arrete-du-17-mars-2011-etsp1108041a)
