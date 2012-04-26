@@ -17,27 +17,21 @@
 <td rowspan="4" valign="top" width="120">
 <p>Aix-Marseille</p>
 </td>
-<td valign="top" width="241">
-<p>Aix-Marseille-I</p>
+<td rowspan="3" valign="top" width="241">
+<p>Aix-Marseille</p>
 </td>
 <td valign="top" width="244">
-<p>De l'université de Provence</p>
+<p>Aix-en-Provence</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="241">
-<p>Aix-Marseille-II</p>
-</td>
-<td valign="top" width="244">
-<p>Aix</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="241">
-<p>Aix-Marseille-III</p>
-</td>
 <td valign="top" width="244">
 <p>Marseille</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="244">
+<p>Provence</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +183,7 @@
 <p>Dijon</p>
 </td>
 <td valign="top" width="244">
-<p>Dijon</p>
+<p>IUT de Dijon-Auxerre</p>
 </td>
 </tr>
 <tr>
@@ -511,7 +505,7 @@
 </tr>
 <tr>
 <td valign="top" width="244">
-<p>Châteauroux</p>
+<p>IUT de l'Indre</p>
 </td>
 </tr>
 <tr>
