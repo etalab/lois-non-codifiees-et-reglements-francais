@@ -3,105 +3,122 @@
 <table>
 <tbody>
 <tr>
-<td align="center"> PAYS </td>
-<td align="center"> ISVL G1 </td>
-<td align="center"> ISVL G2 </td>
-<td align="center"> ISVL G3 </td>
-<td align="center"> ISVL G4 </td>
-<td align="center"> ISVL G5 </td>
-<td align="center"> ISVL G6 </td>
-<td align="center"> ISVL G7 </td>
-<td align="center"> ISVL G8 </td>
+<th>PAYS <br/>
+</th>
+<th>
+<br/>ISVL G1 <br/>
+</th>
+<th>
+<br/>ISVL G2 <br/>
+</th>
+<th>
+<br/>ISVL G3 <br/>
+</th>
+<th>
+<br/>ISVL G4 <br/>
+</th>
+<th>
+<br/>ISVL G5 <br/>
+</th>
+<th>
+<br/>ISVL G6 <br/>
+</th>
+<th>
+<br/>ISVL G7 <br/>
+</th>
+<th>
+<br/>ISVL G8 <br/>
+</th>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>AFRIQUE DU SUD (autres villes) <br/>
 </td>
 <td align="center">
-<br/>9 078 <br/>
+<br/>8 601 <br/>
 </td>
 <td align="center">
-<br/>7 612 <br/>
+<br/>7 212 <br/>
 </td>
 <td align="center">
-<br/>6 881 <br/>
+<br/>6 520 <br/>
 </td>
 <td align="center">
-<br/>6 293 <br/>
+<br/>5 963 <br/>
 </td>
 <td align="center">
-<br/>6 036 <br/>
+<br/>5 719 <br/>
 </td>
 <td align="center">
-<br/>5 263 <br/>
+<br/>4 987 <br/>
 </td>
 <td align="center">
-<br/>4 795 <br/>
+<br/>4 543 <br/>
 </td>
 <td align="center">
-<br/>4 490 <br/>
+<br/>4 254 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>AFRIQUE DU SUD (Johannesburg ; Pretoria) <br/>
 </td>
 <td align="center">
-<br/>10 042 <br/>
+<br/>9 515 <br/>
 </td>
 <td align="center">
-<br/>8 424 <br/>
+<br/>7 982 <br/>
 </td>
 <td align="center">
-<br/>7 615 <br/>
+<br/>7 215 <br/>
 </td>
 <td align="center">
-<br/>6 963 <br/>
+<br/>6 597 <br/>
 </td>
 <td align="center">
-<br/>6 681 <br/>
+<br/>6 330 <br/>
 </td>
 <td align="center">
-<br/>5 822 <br/>
+<br/>5 516 <br/>
 </td>
 <td align="center">
-<br/>5 309 <br/>
+<br/>5 030 <br/>
 </td>
 <td align="center">
-<br/>4 968 <br/>
+<br/>4 707 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALGERIE <br/>
 </td>
 <td align="center">
-<br/>23 287 <br/>
+<br/>23 636 <br/>
 </td>
 <td align="center">
-<br/>22 729 <br/>
+<br/>23 070 <br/>
 </td>
 <td align="center">
-<br/>20 485 <br/>
+<br/>20 792 <br/>
 </td>
 <td align="center">
-<br/>18 620 <br/>
+<br/>18 899 <br/>
 </td>
 <td align="center">
-<br/>16 835 <br/>
+<br/>17 088 <br/>
 </td>
 <td align="center">
-<br/>14 507 <br/>
+<br/>14 725 <br/>
 </td>
 <td align="center">
-<br/>13 187 <br/>
+<br/>13 385 <br/>
 </td>
 <td align="center">
-<br/>12 646 <br/>
+<br/>12 836 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Berlin) <br/>
 </td>
 <td align="center">
@@ -130,7 +147,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Bonn) <br/>
 </td>
 <td align="center">
@@ -159,7 +176,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Düsseldorf) <br/>
 </td>
 <td align="center">
@@ -188,7 +205,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Francfort) <br/>
 </td>
 <td align="center">
@@ -217,7 +234,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Fribourg) <br/>
 </td>
 <td align="center">
@@ -246,7 +263,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Hambourg) <br/>
 </td>
 <td align="center">
@@ -275,7 +292,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Heidelberg) <br/>
 </td>
 <td align="center">
@@ -304,7 +321,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Munich) <br/>
 </td>
 <td align="center">
@@ -333,7 +350,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Sarrebruck) <br/>
 </td>
 <td align="center">
@@ -362,7 +379,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ALLEMAGNE (Stuttgart) <br/>
 </td>
 <td align="center">
@@ -391,123 +408,123 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ANGOLA <br/>
 </td>
 <td align="center">
-<br/>56 103 <br/>
+<br/>59 262 <br/>
 </td>
 <td align="center">
-<br/>47 007 <br/>
+<br/>49 653 <br/>
 </td>
 <td align="center">
-<br/>42 457 <br/>
+<br/>44 847 <br/>
 </td>
 <td align="center">
-<br/>39 421 <br/>
+<br/>41 640 <br/>
 </td>
 <td align="center">
-<br/>36 389 <br/>
+<br/>38 438 <br/>
 </td>
 <td align="center">
-<br/>30 324 <br/>
+<br/>32 031 <br/>
 </td>
 <td align="center">
-<br/>28 810 <br/>
+<br/>30 432 <br/>
 </td>
 <td align="center">
-<br/>26 529 <br/>
+<br/>28 023 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ARABIE SAOUDITE (Riyad) <br/>
 </td>
 <td align="center">
-<br/>38 676 <br/>
+<br/>41 349 <br/>
 </td>
 <td align="center">
-<br/>33 270 <br/>
+<br/>35 569 <br/>
 </td>
 <td align="center">
-<br/>29 944 <br/>
+<br/>32 013 <br/>
 </td>
 <td align="center">
-<br/>27 447 <br/>
+<br/>29 344 <br/>
 </td>
 <td align="center">
-<br/>24 954 <br/>
+<br/>26 678 <br/>
 </td>
 <td align="center">
-<br/>20 794 <br/>
+<br/>22 231 <br/>
 </td>
 <td align="center">
-<br/>19 128 <br/>
+<br/>20 450 <br/>
 </td>
 <td align="center">
-<br/>17 882 <br/>
+<br/>19 118 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ARGENTINE <br/>
 </td>
 <td align="center">
-<br/>12 615 <br/>
+<br/>13 523 <br/>
 </td>
 <td align="center">
-<br/>10 956 <br/>
+<br/>11 745 <br/>
 </td>
 <td align="center">
-<br/>10 178 <br/>
+<br/>10 911 <br/>
 </td>
 <td align="center">
-<br/>9 295 <br/>
+<br/>9 964 <br/>
 </td>
 <td align="center">
-<br/>8 409 <br/>
+<br/>9 014 <br/>
 </td>
 <td align="center">
-<br/>7 080 <br/>
+<br/>7 590 <br/>
 </td>
 <td align="center">
-<br/>6 639 <br/>
+<br/>7 117 <br/>
 </td>
 <td align="center">
-<br/>6 195 <br/>
+<br/>6 641 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>AUSTRALIE <br/>
 </td>
 <td align="center">
-<br/>18 327 <br/>
+<br/>19 095 <br/>
 </td>
 <td align="center">
-<br/>16 320 <br/>
+<br/>17 004 <br/>
 </td>
 <td align="center">
-<br/>14 891 <br/>
+<br/>15 515 <br/>
 </td>
 <td align="center">
-<br/>14 031 <br/>
+<br/>14 619 <br/>
 </td>
 <td align="center">
-<br/>12 599 <br/>
+<br/>13 127 <br/>
 </td>
 <td align="center">
-<br/>10 312 <br/>
+<br/>10 744 <br/>
 </td>
 <td align="center">
-<br/>9 737 <br/>
+<br/>10 145 <br/>
 </td>
 <td align="center">
-<br/>9 162 <br/>
+<br/>9 546 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>AUTRICHE <br/>
 </td>
 <td align="center">
@@ -536,36 +553,36 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BANGLADESH <br/>
 </td>
 <td align="center">
-<br/>14 282 <br/>
+<br/>14 970 <br/>
 </td>
 <td align="center">
-<br/>12 720 <br/>
+<br/>13 333 <br/>
 </td>
 <td align="center">
-<br/>11 604 <br/>
+<br/>12 163 <br/>
 </td>
 <td align="center">
-<br/>10 935 <br/>
+<br/>11 462 <br/>
 </td>
 <td align="center">
-<br/>9 819 <br/>
+<br/>10 292 <br/>
 </td>
 <td align="center">
-<br/>8 034 <br/>
+<br/>8 421 <br/>
 </td>
 <td align="center">
-<br/>7 587 <br/>
+<br/>7 953 <br/>
 </td>
 <td align="center">
-<br/>7 140 <br/>
+<br/>7 484 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BELGIQUE (Anvers) <br/>
 </td>
 <td align="center">
@@ -594,7 +611,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BELGIQUE (Bruxelles) <br/>
 </td>
 <td align="center">
@@ -623,181 +640,181 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BENIN <br/>
 </td>
 <td align="center">
-<br/>8 509 <br/>
+<br/>8 934 <br/>
 </td>
 <td align="center">
-<br/>7 961 <br/>
+<br/>8 359 <br/>
 </td>
 <td align="center">
-<br/>7 308 <br/>
+<br/>7 673 <br/>
 </td>
 <td align="center">
-<br/>6 761 <br/>
+<br/>7 099 <br/>
 </td>
 <td align="center">
-<br/>6 236 <br/>
+<br/>6 548 <br/>
 </td>
 <td align="center">
-<br/>5 329 <br/>
+<br/>5 595 <br/>
 </td>
 <td align="center">
-<br/>4 874 <br/>
+<br/>5 118 <br/>
 </td>
 <td align="center">
-<br/>4 535 <br/>
+<br/>4 762 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BOLIVIE <br/>
 </td>
 <td align="center">
-<br/>12 187 <br/>
+<br/>13 272 <br/>
 </td>
 <td align="center">
-<br/>11 115 <br/>
+<br/>12 104 <br/>
 </td>
 <td align="center">
-<br/>10 040 <br/>
+<br/>10 934 <br/>
 </td>
 <td align="center">
-<br/>9 323 <br/>
+<br/>10 153 <br/>
 </td>
 <td align="center">
-<br/>8 702 <br/>
+<br/>9 476 <br/>
 </td>
 <td align="center">
-<br/>7 249 <br/>
+<br/>7 894 <br/>
 </td>
 <td align="center">
-<br/>6 889 <br/>
+<br/>7 502 <br/>
 </td>
 <td align="center">
-<br/>6 341 <br/>
+<br/>6 905 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BRESIL (Brasilia) <br/>
 </td>
 <td align="center">
-<br/>19 764 <br/>
+<br/>19 134 <br/>
 </td>
 <td align="center">
-<br/>18 499 <br/>
+<br/>17 909 <br/>
 </td>
 <td align="center">
-<br/>16 980 <br/>
+<br/>16 438 <br/>
 </td>
 <td align="center">
-<br/>15 712 <br/>
+<br/>15 211 <br/>
 </td>
 <td align="center">
-<br/>13 935 <br/>
+<br/>13 490 <br/>
 </td>
 <td align="center">
-<br/>11 910 <br/>
+<br/>11 530 <br/>
 </td>
 <td align="center">
-<br/>10 896 <br/>
+<br/>10 548 <br/>
 </td>
 <td align="center">
-<br/>10 133 <br/>
+<br/>9 810 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BRESIL (Rio) <br/>
 </td>
 <td align="center">
-<br/>19 764 <br/>
+<br/>19 134 <br/>
 </td>
 <td align="center">
-<br/>18 499 <br/>
+<br/>17 909 <br/>
 </td>
 <td align="center">
-<br/>16 980 <br/>
+<br/>16 438 <br/>
 </td>
 <td align="center">
-<br/>15 712 <br/>
+<br/>15 211 <br/>
 </td>
 <td align="center">
-<br/>13 935 <br/>
+<br/>13 490 <br/>
 </td>
 <td align="center">
-<br/>11 910 <br/>
+<br/>11 530 <br/>
 </td>
 <td align="center">
-<br/>10 896 <br/>
+<br/>10 548 <br/>
 </td>
 <td align="center">
-<br/>10 133 <br/>
+<br/>9 810 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BRESIL (São Paulo) <br/>
 </td>
 <td align="center">
-<br/>19 764 <br/>
+<br/>19 134 <br/>
 </td>
 <td align="center">
-<br/>18 499 <br/>
+<br/>17 909 <br/>
 </td>
 <td align="center">
-<br/>16 980 <br/>
+<br/>16 438 <br/>
 </td>
 <td align="center">
-<br/>15 712 <br/>
+<br/>15 211 <br/>
 </td>
 <td align="center">
-<br/>13 935 <br/>
+<br/>13 490 <br/>
 </td>
 <td align="center">
-<br/>11 910 <br/>
+<br/>11 530 <br/>
 </td>
 <td align="center">
-<br/>10 896 <br/>
+<br/>10 548 <br/>
 </td>
 <td align="center">
-<br/>10 133 <br/>
+<br/>9 810 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BULGARIE <br/>
 </td>
 <td align="center">
-<br/>8 887 <br/>
+<br/>8 833 <br/>
 </td>
 <td align="center">
-<br/>7 109 <br/>
+<br/>7 066 <br/>
 </td>
 <td align="center">
-<br/>6 624 <br/>
+<br/>6 584 <br/>
 </td>
 <td align="center">
-<br/>6 059 <br/>
+<br/>6 022 <br/>
 </td>
 <td align="center">
-<br/>5 493 <br/>
+<br/>5 459 <br/>
 </td>
 <td align="center">
-<br/>4 524 <br/>
+<br/>4 496 <br/>
 </td>
 <td align="center">
-<br/>4 362 <br/>
+<br/>4 335 <br/>
 </td>
 <td align="center">
-<br/>3 878 <br/>
+<br/>3 854 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>BURKINA FASO <br/>
 </td>
 <td align="center">
@@ -826,36 +843,36 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CAMBODGE <br/>
 </td>
 <td align="center">
-<br/>8 610 <br/>
+<br/>9 170 <br/>
 </td>
 <td align="center">
-<br/>7 407 <br/>
+<br/>7 888 <br/>
 </td>
 <td align="center">
-<br/>6 668 <br/>
+<br/>7 101 <br/>
 </td>
 <td align="center">
-<br/>6 110 <br/>
+<br/>6 507 <br/>
 </td>
 <td align="center">
-<br/>5 860 <br/>
+<br/>6 241 <br/>
 </td>
 <td align="center">
-<br/>4 884 <br/>
+<br/>5 201 <br/>
 </td>
 <td align="center">
-<br/>4 493 <br/>
+<br/>4 785 <br/>
 </td>
 <td align="center">
-<br/>4 199 <br/>
+<br/>4 472 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CAMEROUN (Douala) <br/>
 </td>
 <td align="center">
@@ -884,7 +901,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CAMEROUN (Yaoundé) <br/>
 </td>
 <td align="center">
@@ -913,268 +930,268 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CANADA (Calgary) <br/>
 </td>
 <td align="center">
-<br/>15 732 <br/>
+<br/>16 361 <br/>
 </td>
 <td align="center">
-<br/>14 399 <br/>
+<br/>14 975 <br/>
 </td>
 <td align="center">
-<br/>13 065 <br/>
+<br/>13 588 <br/>
 </td>
 <td align="center">
-<br/>12 175 <br/>
+<br/>12 662 <br/>
 </td>
 <td align="center">
-<br/>11 285 <br/>
+<br/>11 736 <br/>
 </td>
 <td align="center">
-<br/>9 507 <br/>
+<br/>9 887 <br/>
 </td>
 <td align="center">
-<br/>9 062 <br/>
+<br/>9 424 <br/>
 </td>
 <td align="center">
-<br/>8 394 <br/>
+<br/>8 730 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CANADA (Montréal) <br/>
 </td>
 <td align="center">
-<br/>13 257 <br/>
+<br/>13 787 <br/>
 </td>
 <td align="center">
-<br/>12 135 <br/>
+<br/>12 620 <br/>
 </td>
 <td align="center">
-<br/>11 011 <br/>
+<br/>11 451 <br/>
 </td>
 <td align="center">
-<br/>10 262 <br/>
+<br/>10 672 <br/>
 </td>
 <td align="center">
-<br/>9 511 <br/>
+<br/>9 891 <br/>
 </td>
 <td align="center">
-<br/>8 012 <br/>
+<br/>8 332 <br/>
 </td>
 <td align="center">
-<br/>7 637 <br/>
+<br/>7 942 <br/>
 </td>
 <td align="center">
-<br/>7 074 <br/>
+<br/>7 357 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CANADA (Ottawa) <br/>
 </td>
 <td align="center">
-<br/>13 257 <br/>
+<br/>13 787 <br/>
 </td>
 <td align="center">
-<br/>12 135 <br/>
+<br/>12 620 <br/>
 </td>
 <td align="center">
-<br/>11 011 <br/>
+<br/>11 451 <br/>
 </td>
 <td align="center">
-<br/>10 262 <br/>
+<br/>10 672 <br/>
 </td>
 <td align="center">
-<br/>9 511 <br/>
+<br/>9 891 <br/>
 </td>
 <td align="center">
-<br/>8 012 <br/>
+<br/>8 332 <br/>
 </td>
 <td align="center">
-<br/>7 637 <br/>
+<br/>7 942 <br/>
 </td>
 <td align="center">
-<br/>7 074 <br/>
+<br/>7 357 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CANADA (Québec) <br/>
 </td>
 <td align="center">
-<br/>13 257 <br/>
+<br/>13 787 <br/>
 </td>
 <td align="center">
-<br/>12 135 <br/>
+<br/>12 620 <br/>
 </td>
 <td align="center">
-<br/>11 011 <br/>
+<br/>11 451 <br/>
 </td>
 <td align="center">
-<br/>10 262 <br/>
+<br/>10 672 <br/>
 </td>
 <td align="center">
-<br/>9 511 <br/>
+<br/>9 891 <br/>
 </td>
 <td align="center">
-<br/>8 012 <br/>
+<br/>8 332 <br/>
 </td>
 <td align="center">
-<br/>7 637 <br/>
+<br/>7 942 <br/>
 </td>
 <td align="center">
-<br/>7 074 <br/>
+<br/>7 357 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CANADA (Toronto) <br/>
 </td>
 <td align="center">
-<br/>14 785 <br/>
+<br/>15 376 <br/>
 </td>
 <td align="center">
-<br/>13 529 <br/>
+<br/>14 070 <br/>
 </td>
 <td align="center">
-<br/>12 278 <br/>
+<br/>12 769 <br/>
 </td>
 <td align="center">
-<br/>11 442 <br/>
+<br/>11 900 <br/>
 </td>
 <td align="center">
-<br/>10 608 <br/>
+<br/>11 032 <br/>
 </td>
 <td align="center">
-<br/>8 933 <br/>
+<br/>9 290 <br/>
 </td>
 <td align="center">
-<br/>8 516 <br/>
+<br/>8 857 <br/>
 </td>
 <td align="center">
-<br/>7 889 <br/>
+<br/>8 205 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CHILI <br/>
 </td>
 <td align="center">
-<br/>11 374 <br/>
+<br/>11 174 <br/>
 </td>
 <td align="center">
-<br/>10 078 <br/>
+<br/>9 901 <br/>
 </td>
 <td align="center">
-<br/>9 100 <br/>
+<br/>8 940 <br/>
 </td>
 <td align="center">
-<br/>8 448 <br/>
+<br/>8 299 <br/>
 </td>
 <td align="center">
-<br/>8 259 <br/>
+<br/>8 114 <br/>
 </td>
 <td align="center">
-<br/>6 883 <br/>
+<br/>6 762 <br/>
 </td>
 <td align="center">
-<br/>6 539 <br/>
+<br/>6 424 <br/>
 </td>
 <td align="center">
-<br/>6 023 <br/>
+<br/>5 917 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>CHINE (autres villes) <br/>
-</td>
 <td align="center">
-<br/>26 088 <br/>
-</td>
-<td align="center">
-<br/>24 415 <br/>
-</td>
-<td align="center">
-<br/>22 410 <br/>
-</td>
-<td align="center">
-<br/>20 738 <br/>
-</td>
-<td align="center">
-<br/>19 117 <br/>
-</td>
-<td align="center">
-<br/>16 337 <br/>
-</td>
-<td align="center">
-<br/>14 945 <br/>
-</td>
-<td align="center">
-<br/>13 902 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
 <br/>CHINE (Hong Kong) <br/>
 </td>
 <td align="center">
-<br/>41 858 <br/>
+<br/>43 432 <br/>
 </td>
 <td align="center">
-<br/>37 874 <br/>
+<br/>39 298 <br/>
 </td>
 <td align="center">
-<br/>34 551 <br/>
+<br/>35 850 <br/>
 </td>
 <td align="center">
-<br/>32 560 <br/>
+<br/>33 784 <br/>
 </td>
 <td align="center">
-<br/>30 895 <br/>
+<br/>32 057 <br/>
 </td>
 <td align="center">
-<br/>25 280 <br/>
+<br/>26 231 <br/>
 </td>
 <td align="center">
-<br/>23 873 <br/>
+<br/>24 771 <br/>
 </td>
 <td align="center">
-<br/>22 468 <br/>
+<br/>23 313 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
+<br/>CHINE (Pékin) <br/>
+</td>
+<td align="center">
+<br/>27 932 <br/>
+</td>
+<td align="center">
+<br/>26 141 <br/>
+</td>
+<td align="center">
+<br/>23 994 <br/>
+</td>
+<td align="center">
+<br/>22 204 <br/>
+</td>
+<td align="center">
+<br/>20 469 <br/>
+</td>
+<td align="center">
+<br/>17 492 <br/>
+</td>
+<td align="center">
+<br/>16 002 <br/>
+</td>
+<td align="center">
+<br/>14 885 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <br/>CHINE (Shanghai) <br/>
 </td>
 <td align="center">
-<br/>24 780 <br/>
+<br/>26 532 <br/>
 </td>
 <td align="center">
-<br/>23 193 <br/>
+<br/>24 833 <br/>
 </td>
 <td align="center">
-<br/>21 287 <br/>
+<br/>22 792 <br/>
 </td>
 <td align="center">
-<br/>19 697 <br/>
+<br/>21 090 <br/>
 </td>
 <td align="center">
-<br/>18 157 <br/>
+<br/>19 441 <br/>
 </td>
 <td align="center">
-<br/>15 519 <br/>
+<br/>16 616 <br/>
 </td>
 <td align="center">
-<br/>14 196 <br/>
+<br/>15 200 <br/>
 </td>
 <td align="center">
-<br/>13 203 <br/>
+<br/>14 136 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CHYPRE <br/>
 </td>
 <td align="center">
@@ -1203,65 +1220,65 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>COLOMBIE <br/>
 </td>
 <td align="center">
-<br/>13 892 <br/>
+<br/>13 809 <br/>
 </td>
 <td align="center">
-<br/>13 704 <br/>
+<br/>13 622 <br/>
 </td>
 <td align="center">
-<br/>12 578 <br/>
+<br/>12 503 <br/>
 </td>
 <td align="center">
-<br/>11 639 <br/>
+<br/>11 569 <br/>
 </td>
 <td align="center">
-<br/>10 920 <br/>
+<br/>10 854 <br/>
 </td>
 <td align="center">
-<br/>9 333 <br/>
+<br/>9 277 <br/>
 </td>
 <td align="center">
-<br/>8 535 <br/>
+<br/>8 484 <br/>
 </td>
 <td align="center">
-<br/>7 941 <br/>
+<br/>7 893 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>COMORES <br/>
 </td>
 <td align="center">
-<br/>18 673 <br/>
+<br/>18 804 <br/>
 </td>
 <td align="center">
-<br/>19 042 <br/>
+<br/>19 175 <br/>
 </td>
 <td align="center">
-<br/>17 209 <br/>
+<br/>17 329 <br/>
 </td>
 <td align="center">
-<br/>15 744 <br/>
+<br/>15 854 <br/>
 </td>
 <td align="center">
-<br/>15 100 <br/>
+<br/>15 206 <br/>
 </td>
 <td align="center">
-<br/>13 163 <br/>
+<br/>13 255 <br/>
 </td>
 <td align="center">
-<br/>12 003 <br/>
+<br/>12 087 <br/>
 </td>
 <td align="center">
-<br/>11 228 <br/>
+<br/>11 307 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CONGO (Brazzaville) <br/>
 </td>
 <td align="center">
@@ -1290,7 +1307,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CONGO (Pointe-Noire) <br/>
 </td>
 <td align="center">
@@ -1319,297 +1336,297 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>COREE <br/>
 </td>
 <td align="center">
-<br/>34 615 <br/>
+<br/>35 193 <br/>
 </td>
 <td align="center">
-<br/>32 812 <br/>
+<br/>33 360 <br/>
 </td>
 <td align="center">
-<br/>30 118 <br/>
+<br/>30 621 <br/>
 </td>
 <td align="center">
-<br/>27 870 <br/>
+<br/>28 335 <br/>
 </td>
 <td align="center">
-<br/>26 143 <br/>
+<br/>26 580 <br/>
 </td>
 <td align="center">
-<br/>22 342 <br/>
+<br/>22 715 <br/>
 </td>
 <td align="center">
-<br/>20 439 <br/>
+<br/>20 780 <br/>
 </td>
 <td align="center">
-<br/>19 014 <br/>
+<br/>19 332 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>COSTA RICA <br/>
 </td>
 <td align="center">
-<br/>8 429 <br/>
+<br/>9 011 <br/>
 </td>
 <td align="center">
-<br/>8 165 <br/>
+<br/>8 729 <br/>
 </td>
 <td align="center">
-<br/>7 641 <br/>
+<br/>8 169 <br/>
 </td>
 <td align="center">
-<br/>6 842 <br/>
+<br/>7 315 <br/>
 </td>
 <td align="center">
-<br/>6 374 <br/>
+<br/>6 814 <br/>
 </td>
 <td align="center">
-<br/>5 424 <br/>
+<br/>5 799 <br/>
 </td>
 <td align="center">
-<br/>4 865 <br/>
+<br/>5 201 <br/>
 </td>
 <td align="center">
-<br/>4 692 <br/>
+<br/>5 016 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CROATIE <br/>
 </td>
 <td align="center">
-<br/>7 313 <br/>
+<br/>7 230 <br/>
 </td>
 <td align="center">
-<br/>6 132 <br/>
+<br/>6 062 <br/>
 </td>
 <td align="center">
-<br/>5 542 <br/>
+<br/>5 479 <br/>
 </td>
 <td align="center">
-<br/>5 069 <br/>
+<br/>5 011 <br/>
 </td>
 <td align="center">
-<br/>4 840 <br/>
+<br/>4 785 <br/>
 </td>
 <td align="center">
-<br/>4 219 <br/>
+<br/>4 171 <br/>
 </td>
 <td align="center">
-<br/>3 849 <br/>
+<br/>3 805 <br/>
 </td>
 <td align="center">
-<br/>3 601 <br/>
+<br/>3 560 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>CUBA <br/>
 </td>
 <td align="center">
-<br/>10 512 <br/>
+<br/>11 090 <br/>
 </td>
 <td align="center">
-<br/>9 486 <br/>
+<br/>10 008 <br/>
 </td>
 <td align="center">
-<br/>8 608 <br/>
+<br/>9 081 <br/>
 </td>
 <td align="center">
-<br/>7 968 <br/>
+<br/>8 406 <br/>
 </td>
 <td align="center">
-<br/>7 639 <br/>
+<br/>8 059 <br/>
 </td>
 <td align="center">
-<br/>6 429 <br/>
+<br/>6 783 <br/>
 </td>
 <td align="center">
-<br/>5 973 <br/>
+<br/>6 302 <br/>
 </td>
 <td align="center">
-<br/>5 576 <br/>
+<br/>5 883 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>DANEMARK <br/>
 </td>
 <td align="center">
-<br/>16 279 <br/>
+<br/>16 256 <br/>
 </td>
 <td align="center">
-<br/>15 432 <br/>
+<br/>15 410 <br/>
 </td>
 <td align="center">
-<br/>14 162 <br/>
+<br/>14 142 <br/>
 </td>
 <td align="center">
-<br/>13 108 <br/>
+<br/>13 090 <br/>
 </td>
 <td align="center">
-<br/>11 628 <br/>
+<br/>11 612 <br/>
 </td>
 <td align="center">
-<br/>9 936 <br/>
+<br/>9 922 <br/>
 </td>
 <td align="center">
-<br/>9 090 <br/>
+<br/>9 077 <br/>
 </td>
 <td align="center">
-<br/>8 457 <br/>
+<br/>8 445 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>DJIBOUTI <br/>
 </td>
 <td align="center">
-<br/>15 360 <br/>
+<br/>16 808 <br/>
 </td>
 <td align="center">
-<br/>13 215 <br/>
+<br/>14 461 <br/>
 </td>
 <td align="center">
-<br/>11 892 <br/>
+<br/>13 013 <br/>
 </td>
 <td align="center">
-<br/>10 902 <br/>
+<br/>11 930 <br/>
 </td>
 <td align="center">
-<br/>10 111 <br/>
+<br/>11 064 <br/>
 </td>
 <td align="center">
-<br/>8 423 <br/>
+<br/>9 217 <br/>
 </td>
 <td align="center">
-<br/>7 750 <br/>
+<br/>8 481 <br/>
 </td>
 <td align="center">
-<br/>7 244 <br/>
+<br/>7 927 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>EGYPTE <br/>
 </td>
 <td align="center">
-<br/>12 351 <br/>
+<br/>12 881 <br/>
 </td>
 <td align="center">
-<br/>11 262 <br/>
+<br/>11 745 <br/>
 </td>
 <td align="center">
-<br/>10 173 <br/>
+<br/>10 609 <br/>
 </td>
 <td align="center">
-<br/>9 445 <br/>
+<br/>9 850 <br/>
 </td>
 <td align="center">
-<br/>8 718 <br/>
+<br/>9 092 <br/>
 </td>
 <td align="center">
-<br/>7 266 <br/>
+<br/>7 578 <br/>
 </td>
 <td align="center">
-<br/>6 901 <br/>
+<br/>7 197 <br/>
 </td>
 <td align="center">
-<br/>6 358 <br/>
+<br/>6 631 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>EMIRATS ARABES UNIS (Abou Dabi) <br/>
 </td>
 <td align="center">
-<br/>26 998 <br/>
+<br/>29 117 <br/>
 </td>
 <td align="center">
-<br/>22 428 <br/>
+<br/>24 189 <br/>
 </td>
 <td align="center">
-<br/>20 186 <br/>
+<br/>21 771 <br/>
 </td>
 <td align="center">
-<br/>18 300 <br/>
+<br/>19 737 <br/>
 </td>
 <td align="center">
-<br/>17 599 <br/>
+<br/>18 981 <br/>
 </td>
 <td align="center">
-<br/>14 522 <br/>
+<br/>15 662 <br/>
 </td>
 <td align="center">
-<br/>13 591 <br/>
+<br/>14 658 <br/>
 </td>
 <td align="center">
-<br/>12 710 <br/>
+<br/>13 708 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>EMIRATS ARABES UNIS (autres villes) <br/>
 </td>
 <td align="center">
-<br/>26 811 <br/>
+<br/>28 916 <br/>
 </td>
 <td align="center">
-<br/>22 271 <br/>
+<br/>24 019 <br/>
 </td>
 <td align="center">
-<br/>20 043 <br/>
+<br/>21 616 <br/>
 </td>
 <td align="center">
-<br/>18 172 <br/>
+<br/>19 599 <br/>
 </td>
 <td align="center">
-<br/>17 486 <br/>
+<br/>18 859 <br/>
 </td>
 <td align="center">
-<br/>14 427 <br/>
+<br/>15 560 <br/>
 </td>
 <td align="center">
-<br/>13 506 <br/>
+<br/>14 566 <br/>
 </td>
 <td align="center">
-<br/>12 627 <br/>
+<br/>13 618 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>EQUATEUR <br/>
 </td>
 <td align="center">
-<br/>8 777 <br/>
+<br/>9 416 <br/>
 </td>
 <td align="center">
-<br/>7 361 <br/>
+<br/>7 897 <br/>
 </td>
 <td align="center">
-<br/>6 653 <br/>
+<br/>7 137 <br/>
 </td>
 <td align="center">
-<br/>6 089 <br/>
+<br/>6 532 <br/>
 </td>
 <td align="center">
-<br/>5 521 <br/>
+<br/>5 923 <br/>
 </td>
 <td align="center">
-<br/>4 814 <br/>
+<br/>5 164 <br/>
 </td>
 <td align="center">
-<br/>4 388 <br/>
+<br/>4 707 <br/>
 </td>
 <td align="center">
-<br/>4 106 <br/>
+<br/>4 405 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Alicante) <br/>
 </td>
 <td align="center">
@@ -1638,7 +1655,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Barcelone) <br/>
 </td>
 <td align="center">
@@ -1667,7 +1684,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Bilbao) <br/>
 </td>
 <td align="center">
@@ -1696,7 +1713,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Ibiza) <br/>
 </td>
 <td align="center">
@@ -1725,7 +1742,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Madrid) <br/>
 </td>
 <td align="center">
@@ -1754,7 +1771,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Malaga) <br/>
 </td>
 <td align="center">
@@ -1783,7 +1800,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Valence) <br/>
 </td>
 <td align="center">
@@ -1812,7 +1829,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ESPAGNE (Villanueva) <br/>
 </td>
 <td align="center">
@@ -1841,65 +1858,65 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ETHIOPIE <br/>
 </td>
 <td align="center">
-<br/>9 143 <br/>
+<br/>10 005 <br/>
 </td>
 <td align="center">
-<br/>8 271 <br/>
+<br/>9 051 <br/>
 </td>
 <td align="center">
-<br/>7 546 <br/>
+<br/>8 258 <br/>
 </td>
 <td align="center">
-<br/>7 110 <br/>
+<br/>7 780 <br/>
 </td>
 <td align="center">
-<br/>6 637 <br/>
+<br/>7 263 <br/>
 </td>
 <td align="center">
-<br/>5 429 <br/>
+<br/>5 941 <br/>
 </td>
 <td align="center">
-<br/>5 126 <br/>
+<br/>5 609 <br/>
 </td>
 <td align="center">
-<br/>4 827 <br/>
+<br/>5 282 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>FINLANDE <br/>
 </td>
 <td align="center">
-<br/>5 332 <br/>
+<br/>5 337 <br/>
 </td>
 <td align="center">
-<br/>4 489 <br/>
+<br/>4 493 <br/>
 </td>
 <td align="center">
-<br/>4 040 <br/>
+<br/>4 044 <br/>
 </td>
 <td align="center">
-<br/>3 703 <br/>
+<br/>3 706 <br/>
 </td>
 <td align="center">
-<br/>3 367 <br/>
+<br/>3 370 <br/>
 </td>
 <td align="center">
-<br/>2 805 <br/>
+<br/>2 808 <br/>
 </td>
 <td align="center">
-<br/>2 581 <br/>
+<br/>2 583 <br/>
 </td>
 <td align="center">
-<br/>2 413 <br/>
+<br/>2 415 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>GABON (Libreville) <br/>
 </td>
 <td align="center">
@@ -1928,7 +1945,7 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>GABON (Port-Gentil) <br/>
 </td>
 <td align="center">
@@ -1957,384 +1974,384 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>GAMBIE <br/>
 </td>
 <td align="center">
-<br/>8 039 <br/>
+<br/>8 367 <br/>
 </td>
 <td align="center">
-<br/>7 620 <br/>
+<br/>7 931 <br/>
 </td>
 <td align="center">
-<br/>6 995 <br/>
-</td>
-<td align="center">
-<br/>6 473 <br/>
-</td>
-<td align="center">
-<br/>5 966 <br/>
-</td>
-<td align="center">
-<br/>5 098 <br/>
-</td>
-<td align="center">
-<br/>4 665 <br/>
-</td>
-<td align="center">
-<br/>4 339 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>GHANA <br/>
-</td>
-<td align="center">
-<br/>9 314 <br/>
-</td>
-<td align="center">
-<br/>8 495 <br/>
-</td>
-<td align="center">
-<br/>7 961 <br/>
-</td>
-<td align="center">
-<br/>7 209 <br/>
-</td>
-<td align="center">
-<br/>7 146 <br/>
-</td>
-<td align="center">
-<br/>5 873 <br/>
-</td>
-<td align="center">
-<br/>5 398 <br/>
-</td>
-<td align="center">
-<br/>5 080 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>GRECE (Athènes) <br/>
-</td>
-<td align="center">
-<br/>5 548 <br/>
-</td>
-<td align="center">
-<br/>4 633 <br/>
-</td>
-<td align="center">
-<br/>4 209 <br/>
-</td>
-<td align="center">
-<br/>4 161 <br/>
-</td>
-<td align="center">
-<br/>3 621 <br/>
-</td>
-<td align="center">
-<br/>3 004 <br/>
-</td>
-<td align="center">
-<br/>2 856 <br/>
-</td>
-<td align="center">
-<br/>2 629 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>GUATEMALA <br/>
-</td>
-<td align="center">
-<br/>12 082 <br/>
-</td>
-<td align="center">
-<br/>10 764 <br/>
-</td>
-<td align="center">
-<br/>9 818 <br/>
-</td>
-<td align="center">
-<br/>9 251 <br/>
-</td>
-<td align="center">
-<br/>8 430 <br/>
-</td>
-<td align="center">
-<br/>6 896 <br/>
-</td>
-<td align="center">
-<br/>6 514 <br/>
-</td>
-<td align="center">
-<br/>6 129 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>GUINEE <br/>
-</td>
-<td align="center">
-<br/>18 219 <br/>
-</td>
-<td align="center">
-<br/>15 671 <br/>
-</td>
-<td align="center">
-<br/>14 102 <br/>
-</td>
-<td align="center">
-<br/>12 930 <br/>
-</td>
-<td align="center">
-<br/>12 384 <br/>
-</td>
-<td align="center">
-<br/>10 320 <br/>
-</td>
-<td align="center">
-<br/>9 493 <br/>
-</td>
-<td align="center">
-<br/>8 875 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>GUINEE EQUATORIALE <br/>
-</td>
-<td align="center">
-<br/>43 865 <br/>
-</td>
-<td align="center">
-<br/>37 733 <br/>
-</td>
-<td align="center">
-<br/>33 959 <br/>
-</td>
-<td align="center">
-<br/>31 129 <br/>
-</td>
-<td align="center">
-<br/>28 297 <br/>
-</td>
-<td align="center">
-<br/>23 582 <br/>
-</td>
-<td align="center">
-<br/>21 695 <br/>
-</td>
-<td align="center">
-<br/>20 279 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>HAITI <br/>
-</td>
-<td align="center">
-<br/>21 107 <br/>
-</td>
-<td align="center">
-<br/>18 694 <br/>
-</td>
-<td align="center">
-<br/>16 885 <br/>
-</td>
-<td align="center">
-<br/>15 678 <br/>
-</td>
-<td align="center">
-<br/>15 307 <br/>
-</td>
-<td align="center">
-<br/>12 755 <br/>
-</td>
-<td align="center">
-<br/>12 113 <br/>
-</td>
-<td align="center">
-<br/>11 158 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>HONDURAS <br/>
-</td>
-<td align="center">
-<br/>11 851 <br/>
-</td>
-<td align="center">
-<br/>10 496 <br/>
-</td>
-<td align="center">
-<br/>9 480 <br/>
-</td>
-<td align="center">
-<br/>8 800 <br/>
-</td>
-<td align="center">
-<br/>8 588 <br/>
-</td>
-<td align="center">
-<br/>7 156 <br/>
-</td>
-<td align="center">
-<br/>6 795 <br/>
-</td>
-<td align="center">
-<br/>6 258 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>HONGRIE <br/>
-</td>
-<td align="center">
-<br/>8 809 <br/>
-</td>
-<td align="center">
-<br/>8 030 <br/>
-</td>
-<td align="center">
-<br/>7 251 <br/>
+<br/>7 280 <br/>
 </td>
 <td align="center">
 <br/>6 737 <br/>
 </td>
 <td align="center">
-<br/>6 219 <br/>
+<br/>6 209 <br/>
 </td>
 <td align="center">
-<br/>5 178 <br/>
+<br/>5 306 <br/>
 </td>
 <td align="center">
-<br/>4 922 <br/>
+<br/>4 855 <br/>
 </td>
 <td align="center">
-<br/>4 532 <br/>
+<br/>4 516 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
+<br/>GHANA <br/>
+</td>
+<td align="center">
+<br/>9 414 <br/>
+</td>
+<td align="center">
+<br/>8 586 <br/>
+</td>
+<td align="center">
+<br/>8 046 <br/>
+</td>
+<td align="center">
+<br/>7 286 <br/>
+</td>
+<td align="center">
+<br/>7 222 <br/>
+</td>
+<td align="center">
+<br/>5 936 <br/>
+</td>
+<td align="center">
+<br/>5 456 <br/>
+</td>
+<td align="center">
+<br/>5 134 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>GRECE (Athènes) <br/>
+</td>
+<td align="center">
+<br/>5 517 <br/>
+</td>
+<td align="center">
+<br/>4 608 <br/>
+</td>
+<td align="center">
+<br/>4 186 <br/>
+</td>
+<td align="center">
+<br/>4 138 <br/>
+</td>
+<td align="center">
+<br/>3 601 <br/>
+</td>
+<td align="center">
+<br/>2 987 <br/>
+</td>
+<td align="center">
+<br/>2 840 <br/>
+</td>
+<td align="center">
+<br/>2 615 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>GUATEMALA <br/>
+</td>
+<td align="center">
+<br/>12 807 <br/>
+</td>
+<td align="center">
+<br/>11 410 <br/>
+</td>
+<td align="center">
+<br/>10 407 <br/>
+</td>
+<td align="center">
+<br/>9 806 <br/>
+</td>
+<td align="center">
+<br/>8 936 <br/>
+</td>
+<td align="center">
+<br/>7 310 <br/>
+</td>
+<td align="center">
+<br/>6 905 <br/>
+</td>
+<td align="center">
+<br/>6 497 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>GUINEE <br/>
+</td>
+<td align="center">
+<br/>19 687 <br/>
+</td>
+<td align="center">
+<br/>16 934 <br/>
+</td>
+<td align="center">
+<br/>15 239 <br/>
+</td>
+<td align="center">
+<br/>13 972 <br/>
+</td>
+<td align="center">
+<br/>13 382 <br/>
+</td>
+<td align="center">
+<br/>11 152 <br/>
+</td>
+<td align="center">
+<br/>10 258 <br/>
+</td>
+<td align="center">
+<br/>9 590 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>GUINEE EQUATORIALE <br/>
+</td>
+<td align="center">
+<br/>35 969 <br/>
+</td>
+<td align="center">
+<br/>30 941 <br/>
+</td>
+<td align="center">
+<br/>27 846 <br/>
+</td>
+<td align="center">
+<br/>25 526 <br/>
+</td>
+<td align="center">
+<br/>23 204 <br/>
+</td>
+<td align="center">
+<br/>19 337 <br/>
+</td>
+<td align="center">
+<br/>17 790 <br/>
+</td>
+<td align="center">
+<br/>16 629 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>HAITI <br/>
+</td>
+<td align="center">
+<br/>22 112 <br/>
+</td>
+<td align="center">
+<br/>19 584 <br/>
+</td>
+<td align="center">
+<br/>17 689 <br/>
+</td>
+<td align="center">
+<br/>16 424 <br/>
+</td>
+<td align="center">
+<br/>16 036 <br/>
+</td>
+<td align="center">
+<br/>13 362 <br/>
+</td>
+<td align="center">
+<br/>12 690 <br/>
+</td>
+<td align="center">
+<br/>11 689 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>HONDURAS <br/>
+</td>
+<td align="center">
+<br/>12 822 <br/>
+</td>
+<td align="center">
+<br/>11 356 <br/>
+</td>
+<td align="center">
+<br/>10 256 <br/>
+</td>
+<td align="center">
+<br/>9 521 <br/>
+</td>
+<td align="center">
+<br/>9 291 <br/>
+</td>
+<td align="center">
+<br/>7 742 <br/>
+</td>
+<td align="center">
+<br/>7 352 <br/>
+</td>
+<td align="center">
+<br/>6 771 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>HONGRIE <br/>
+</td>
+<td align="center">
+<br/>7 928 <br/>
+</td>
+<td align="center">
+<br/>7 227 <br/>
+</td>
+<td align="center">
+<br/>6 526 <br/>
+</td>
+<td align="center">
+<br/>6 063 <br/>
+</td>
+<td align="center">
+<br/>5 597 <br/>
+</td>
+<td align="center">
+<br/>4 660 <br/>
+</td>
+<td align="center">
+<br/>4 430 <br/>
+</td>
+<td align="center">
+<br/>4 079 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <br/>INDE (New Delhi) <br/>
 </td>
 <td align="center">
-<br/>9 293 <br/>
+<br/>9 120 <br/>
 </td>
 <td align="center">
-<br/>7 826 <br/>
+<br/>7 680 <br/>
 </td>
 <td align="center">
-<br/>7 042 <br/>
+<br/>6 911 <br/>
 </td>
 <td align="center">
-<br/>6 455 <br/>
+<br/>6 335 <br/>
 </td>
 <td align="center">
-<br/>6 192 <br/>
+<br/>6 077 <br/>
 </td>
 <td align="center">
-<br/>5 158 <br/>
+<br/>5 062 <br/>
 </td>
 <td align="center">
-<br/>4 747 <br/>
+<br/>4 659 <br/>
 </td>
 <td align="center">
-<br/>4 436 <br/>
+<br/>4 353 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>INDE (Pondichéry) <br/>
 </td>
 <td align="center">
-<br/>9 293 <br/>
+<br/>9 120 <br/>
 </td>
 <td align="center">
-<br/>7 826 <br/>
+<br/>7 680 <br/>
 </td>
 <td align="center">
-<br/>7 042 <br/>
+<br/>6 911 <br/>
 </td>
 <td align="center">
-<br/>6 455 <br/>
+<br/>6 335 <br/>
 </td>
 <td align="center">
-<br/>6 192 <br/>
+<br/>6 077 <br/>
 </td>
 <td align="center">
-<br/>5 158 <br/>
+<br/>5 062 <br/>
 </td>
 <td align="center">
-<br/>4 747 <br/>
+<br/>4 659 <br/>
 </td>
 <td align="center">
-<br/>4 436 <br/>
+<br/>4 353 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>INDONESIE <br/>
 </td>
 <td align="center">
-<br/>11 486 <br/>
+<br/>11 663 <br/>
 </td>
 <td align="center">
-<br/>10 389 <br/>
+<br/>10 549 <br/>
 </td>
 <td align="center">
-<br/>9 477 <br/>
+<br/>9 623 <br/>
 </td>
 <td align="center">
-<br/>8 931 <br/>
+<br/>9 069 <br/>
 </td>
 <td align="center">
-<br/>8 022 <br/>
+<br/>8 146 <br/>
 </td>
 <td align="center">
-<br/>6 563 <br/>
+<br/>6 664 <br/>
 </td>
 <td align="center">
-<br/>6 197 <br/>
+<br/>6 292 <br/>
 </td>
 <td align="center">
-<br/>5 832 <br/>
+<br/>5 922 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>IRAN <br/>
 </td>
 <td align="center">
-<br/>21 938 <br/>
+<br/>23 761 <br/>
 </td>
 <td align="center">
-<br/>20 202 <br/>
+<br/>21 881 <br/>
 </td>
 <td align="center">
-<br/>18 541 <br/>
+<br/>20 082 <br/>
 </td>
 <td align="center">
-<br/>17 156 <br/>
+<br/>18 582 <br/>
 </td>
 <td align="center">
-<br/>16 116 <br/>
+<br/>17 455 <br/>
 </td>
 <td align="center">
-<br/>13 771 <br/>
+<br/>14 915 <br/>
 </td>
 <td align="center">
-<br/>12 601 <br/>
+<br/>13 648 <br/>
 </td>
 <td align="center">
-<br/>11 719 <br/>
+<br/>12 693 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>IRLANDE <br/>
 </td>
 <td align="center">
@@ -2363,148 +2380,148 @@
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ISRAEL <br/>
 </td>
 <td align="center">
-<br/>12 025 <br/>
+<br/>12 054 <br/>
 </td>
 <td align="center">
-<br/>10 344 <br/>
+<br/>10 369 <br/>
 </td>
 <td align="center">
-<br/>9 308 <br/>
+<br/>9 330 <br/>
 </td>
 <td align="center">
-<br/>8 533 <br/>
+<br/>8 553 <br/>
 </td>
 <td align="center">
-<br/>7 756 <br/>
+<br/>7 775 <br/>
 </td>
 <td align="center">
-<br/>6 464 <br/>
+<br/>6 480 <br/>
 </td>
 <td align="center">
-<br/>5 949 <br/>
+<br/>5 963 <br/>
 </td>
 <td align="center">
-<br/>5 557 <br/>
+<br/>5 570 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ITALIE (Milan) <br/>
 </td>
 <td align="center">
-<br/>8 287 <br/>
+<br/>8 294 <br/>
 </td>
 <td align="center">
-<br/>7 497 <br/>
+<br/>7 504 <br/>
 </td>
 <td align="center">
-<br/>6 842 <br/>
+<br/>6 848 <br/>
 </td>
 <td align="center">
-<br/>6 447 <br/>
+<br/>6 453 <br/>
 </td>
 <td align="center">
-<br/>5 787 <br/>
+<br/>5 792 <br/>
 </td>
 <td align="center">
-<br/>4 736 <br/>
+<br/>4 740 <br/>
 </td>
 <td align="center">
-<br/>4 471 <br/>
+<br/>4 475 <br/>
 </td>
 <td align="center">
-<br/>4 208 <br/>
+<br/>4 212 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ITALIE (Naples) <br/>
 </td>
 <td align="center">
-<br/>8 287 <br/>
+<br/>8 294 <br/>
 </td>
 <td align="center">
-<br/>7 497 <br/>
+<br/>7 504 <br/>
 </td>
 <td align="center">
-<br/>6 842 <br/>
+<br/>6 848 <br/>
 </td>
 <td align="center">
-<br/>6 447 <br/>
+<br/>6 453 <br/>
 </td>
 <td align="center">
-<br/>5 787 <br/>
+<br/>5 792 <br/>
 </td>
 <td align="center">
-<br/>4 736 <br/>
+<br/>4 740 <br/>
 </td>
 <td align="center">
-<br/>4 471 <br/>
+<br/>4 475 <br/>
 </td>
 <td align="center">
-<br/>4 208 <br/>
+<br/>4 212 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ITALIE (Rome) <br/>
 </td>
 <td align="center">
-<br/>8 442 <br/>
+<br/>8 450 <br/>
 </td>
 <td align="center">
-<br/>7 638 <br/>
+<br/>7 645 <br/>
 </td>
 <td align="center">
-<br/>6 969 <br/>
+<br/>6 975 <br/>
 </td>
 <td align="center">
-<br/>6 566 <br/>
+<br/>6 572 <br/>
 </td>
 <td align="center">
-<br/>5 896 <br/>
+<br/>5 901 <br/>
 </td>
 <td align="center">
-<br/>4 825 <br/>
+<br/>4 829 <br/>
 </td>
 <td align="center">
-<br/>4 555 <br/>
+<br/>4 559 <br/>
 </td>
 <td align="center">
-<br/>4 287 <br/>
+<br/>4 291 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <br/>ITALIE (Turin) <br/>
 </td>
 <td align="center">
-<br/>8 132 <br/>
+<br/>8 139 <br/>
 </td>
 <td align="center">
-<br/>7 357 <br/>
+<br/>7 364 <br/>
 </td>
 <td align="center">
-<br/>6 713 <br/>
+<br/>6 719 <br/>
 </td>
 <td align="center">
-<br/>6 326 <br/>
+<br/>6 332 <br/>
 </td>
 <td align="center">
-<br/>5 680 <br/>
+<br/>5 685 <br/>
 </td>
 <td align="center">
-<br/>4 648 <br/>
+<br/>4 652 <br/>
 </td>
 <td align="center">
-<br/>4 387 <br/>
+<br/>4 391 <br/>
 </td>
 <td align="center">
-<br/>4 131 <br/>
+<br/>4 135 <br/>
 </td>
 </tr>
 </tbody>
