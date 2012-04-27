@@ -2,7 +2,7 @@
 
 Direction des affaires financières :
 
-I. - La direction des affaires financières coordonne la préparation du budget de la mission interministérielle " enseignement scolaire " et de la mission interministérielle " recherche et enseignement supérieur ".
+I.-La direction des affaires financières coordonne la préparation du budget de la mission interministérielle " enseignement scolaire " et de la mission interministérielle " recherche et enseignement supérieur ".
 
 Elle coordonne l'exécution budgétaire.
 
@@ -10,7 +10,7 @@ Elle assure la tenue des comptabilités prévues à l'article 27 de la loi organ
 
 Elle analyse le coût des actions menées par les ministères et réalise des études financières.
 
-Elle assure le suivi budgétaire, financier et comptable des établissements publics relevant du ministère de l'éducation nationale et du ministère de l'enseignement supérieur et de la recherche, conjointement avec les directions concernées. Elle coordonne l'élaboration des textes relatifs à l'organisation budgétaire, financière et comptable de ces établissements.
+Elle concourt à la mise en œuvre des dispositifs de contrôle interne budgétaire et comptable et la coordonne, pour les ministères mentionnés à l'article 1er.
 
 Elle assure la maîtrise d'ouvrage des systèmes d'information budgétaires et financiers des ministères.
 
@@ -18,4 +18,4 @@ Elle est chargée des questions relatives aux pensions pour l'ensemble des perso
 
 Elle traite des questions relatives aux établissements d'enseignement privés.
 
-II. - La direction des affaires financières est chargée du programme budgétaire relatif à l'enseignement privé du premier et du second degré arrêté dans les lois de finances et relevant du ministère de l'éducation nationale.
+II.-La direction des affaires financières est chargée du programme budgétaire relatif à l'enseignement privé du premier et du second degré arrêté dans les lois de finances et relevant du ministère de l'éducation nationale.
