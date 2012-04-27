@@ -838,7 +838,6 @@
 - [Arrêté du 24 octobre 2011 (DEVK1205167A)](arrete-du-24-octobre-2011-devk1205167a)
 - [Arrêté du 24 octobre 2011 (ETSH1129592Z)](arrete-du-24-octobre-2011-etsh1129592z)
 - [Arrêté du 24 octobre 2011 (ETSP1129093A)](arrete-du-24-octobre-2011-etsp1129093a)
-- [Arrêté du 24 septembre 2001 (ECOP0100572A)](arrete-du-24-septembre-2001-ecop0100572a)
 - [Arrêté du 24 septembre 2001 (ECOP0100576A)](arrete-du-24-septembre-2001-ecop0100576a)
 - [Arrêté du 25 février 2012 (DEVA1016716A)](arrete-du-25-fevrier-2012-deva1016716a)
 - [Arrêté du 25 février 2012 (DEVA1201974A)](arrete-du-25-fevrier-2012-deva1201974a)
