@@ -1048,7 +1048,6 @@
 - [Arrêté du 14 décembre 2009 (DEVU0927944A)](arrete-du-14-decembre-2009-devu0927944a)
 - [Arrêté du 14 décembre 2009 (ECEI0930237A)](arrete-du-14-decembre-2009-ecei0930237a)
 - [Arrêté du 14 décembre 2009 (ECEI0930242A)](arrete-du-14-decembre-2009-ecei0930242a)
-- [Arrêté du 14 décembre 2009 (IMIK0928880A)](arrete-du-14-decembre-2009-imik0928880a)
 - [Arrêté du 14 décembre 2009 (MEND0921186A)](arrete-du-14-decembre-2009-mend0921186a)
 - [Arrêté du 14 décembre 2009 (MTSS0928889A)](arrete-du-14-decembre-2009-mtss0928889a)
 - [Arrêté du 14 décembre 2009 (SASF0930326A)](arrete-du-14-decembre-2009-sasf0930326a)
