@@ -8,7 +8,7 @@ Elle assure les conditions d'une scolarisation adaptée pour les élèves à bes
 
 Dans le cadre du service public d'orientation tout au long de la vie et en liaison avec les ministères concernés, elle est chargée de piloter les services d'orientation offerts aux élèves des collèges et des lycées et les procédures d'orientation et d'affectation les concernant. Elle suit les questions d'insertion professionnelle aux niveaux V et IV.
 
-La sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation est constituée :
+La sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation est constituée de la mission maîtrise de la langue française et :
 
 - du bureau des écoles ;
 

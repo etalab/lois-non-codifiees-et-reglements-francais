@@ -8,6 +8,6 @@ La sous-direction de l'expertise statutaire, de la masse salariale et du plafond
 
 - du bureau de l'expertise statutaire et indemnitaire ;
 
-- du bureau de la masse salariale et des rémunérations ;
+- du bureau de la masse salariale et du suivi du plafond d'emplois ;
 
-- du bureau du contrôle du plafond d'emplois.
+- du du bureau des rémunérations.

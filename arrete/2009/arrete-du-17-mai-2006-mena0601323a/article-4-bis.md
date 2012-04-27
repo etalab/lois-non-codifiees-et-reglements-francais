@@ -6,12 +6,10 @@ Elle définit les objectifs de la formation initiale des personnels enseignants,
 
 Elle élabore et anime la politique de développement des usages des technologies de l'information et de la communication pour l'enseignement scolaire. Elle est responsable de la maîtrise d'ouvrage des grands projets numériques pédagogiques, favorise le développement des ressources et services pédagogiques numériques et anime les réseaux nationaux et académiques dédiés aux technologies de l'information et de la communication pour l'enseignement.
 
-La sous-direction des programmes d'enseignement, de la formation des enseignants et du développement numérique est constituée :
+La sous-direction des programmes d'enseignement, de la formation des enseignants et du développement numérique est constituée de la mission infrastructures et services et :
 
 - du bureau des programmes d'enseignement ;
 
-- du bureau des ressources pédagogiques ;
+- du bureau des usages numériques et des ressources pédagogiques ;
 
-- du bureau de la formation des enseignants ;
-
-- du bureau des usages et des services numériques.
+- du bureau de la formation des enseignants.
