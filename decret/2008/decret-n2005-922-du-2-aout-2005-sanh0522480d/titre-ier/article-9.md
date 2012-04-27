@@ -1,56 +1,9 @@
 # Article 9
 
-Les emplois fonctionnels mentionnés à l'article 1er (1°, 2° et 6°) comprennent cinq échelons.
+I. - L'emploi de secrétaire général de l'Assistance publique-hôpitaux de Paris relevant du groupe I comprend six échelons. La durée passée dans les deux premiers échelons est d'un an et six mois ; elle est de trois ans dans le troisième échelon, de deux ans dans le quatrième échelon et de trois ans dans le cinquième échelon.
 
-La durée à accomplir pour accéder à l'échelon supérieur est fixée comme suit : <table>
-<tbody>
-<tr>
-<td width="352">
-<p align="center">ÉCHELON</p>
-</td>
-<td width="314">
-<p align="center">DURÉE DANS L'ÉCHELON</p>
-</td>
-</tr>
-<tr>
-<td width="352">
-<p>5e échelon </p>
-</td>
-<td width="314">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="352">
-<p>4e échelon </p>
-</td>
-<td width="314">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td width="352">
-<p>3e échelon </p>
-</td>
-<td width="314">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td width="352">
-<p>2e échelon </p>
-</td>
-<td width="314">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td width="352">
-<p>1er échelon</p>
-</td>
-<td width="314">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-</tbody>
-</table>.
+II. - Les autres emplois relevant du groupe I comprennent cinq échelons. La durée passée dans les deux premiers échelons est d'un an et six mois ; elle est de trois ans dans le troisième échelon et de deux ans dans le quatrième échelon.
+
+III. - Les emplois relevant du groupe II comprennent cinq échelons. La durée passée dans les deux premiers échelons est d'un an et six mois ; elle est de trois ans dans le troisième échelon et de deux ans dans le quatrième échelon.
+
+IV. - Les emplois relevant du groupe III comprennent quatre échelons. La durée passée dans les deux premiers échelons est d'un an et six mois et de trois ans dans le troisième échelon.

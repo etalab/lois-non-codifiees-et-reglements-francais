@@ -1,15 +1,37 @@
 # Article 1
 
-Les personnels de direction régis par le décret du 2 août 2005 susvisé ont vocation à occuper par voie de détachement les emplois fonctionnels suivants, conformément aux dispositions du deuxième alinéa de l'article 4 de la loi du 9 janvier 1986 modifiée susvisée :
+En application du deuxième alinéa de l'article 4 de la loi du 9 janvier 1986 susvisée, le présent décret fixe les conditions de nomination et d'avancement applicables aux emplois fonctionnels suivants, qui sont répartis en trois groupes :
 
-1° Directeur exécutif de groupement hospitalier universitaire de l'Assistance publique-hôpitaux de Paris figurant sur une liste établie par arrêté des ministres chargés de la santé et du budget ;
+1° Le groupe I, correspondant aux emplois les plus importants, comprend les emplois suivants :
 
-2° Secrétaire général et directeur général adjoint des hospices civils de Lyon et de l'Assistance publique de Marseille ;
+a) Secrétaire général de l'Assistance publique-hôpitaux de Paris ;
 
-3° Directeurs d'établissements figurant sur des listes établies en fonction de l'importance de leur activité et de leur budget par arrêté des ministres chargés de la santé et du budget ;
+b) Secrétaire général et directeur général adjoint des Hospices civils de Lyon et de l'Assistance publique-hôpitaux de Marseille ;
 
-4° Sous-directeur des services centraux de l'Assistance publique-hôpitaux de Paris figurant sur une liste établie par arrêté des ministres chargés de la santé et du budget ;
+c) Directeur d'un ou plusieurs établissements publics de santé dont le budget, le cas échéant consolidé, excède un montant fixé par voie d'arrêté ;
 
-5° Directeur général adjoint de centre hospitalier régional ;
+d) Directeur des services centraux et directeur délégué de l'Assistance publique-hôpitaux de Paris ;
 
-6° Directeur des services centraux de l'Assistance publique-hôpitaux de Paris figurant sur une liste établie par arrêté des ministres chargés de la santé et du budget.
+e) Directeur d'un groupe hospitalier de l'Assistance publique-hôpitaux de Paris dont le budget est le plus important ;
+
+2° Le groupe II comprend les emplois suivants :
+
+a) Directeur d'un ou plusieurs établissements publics de santé ne figurant pas dans le groupe I, dont le budget, le cas échéant consolidé, excède un montant fixé par voie d'arrêté ;
+
+b) Autre directeur de groupe hospitalier de l'Assistance publique-hôpitaux de Paris ;
+
+c) Directeur général adjoint de centre hospitalier régional dont le budget est le plus important ;
+
+3° Le groupe III comprend les emplois suivants :
+
+a) Directeur d'un ou plusieurs établissements publics de santé ne figurant pas dans le groupe I ou II, dont le budget, le cas échéant consolidé, excède un montant fixé par voie d'arrêté ;
+
+b) Adjoint au directeur d'un ou plusieurs établissements publics de santé dont le budget excède un montant fixé par voie d'arrêté ;
+
+c) Directeur adjoint de groupe hospitalier de l'Assistance publique-hôpitaux de Paris ;
+
+d) Sous-directeur des services centraux de l'Assistance publique-hôpitaux de Paris ;
+
+e) Autre directeur général adjoint de centre hospitalier régional.
+
+Pour chacun des groupes, le nombre d'emplois fonctionnels et la détermination des seuils budgétaires applicables sont fixés par arrêté conjoint des ministres chargés de la santé, du budget et de la fonction publique.

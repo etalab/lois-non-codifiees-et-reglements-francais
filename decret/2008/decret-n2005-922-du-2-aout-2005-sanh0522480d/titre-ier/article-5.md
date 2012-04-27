@@ -1,3 +1,7 @@
 # Article 5
 
-La nomination dans l'emploi par voie de détachement est prononcée pour une durée de quatre ans renouvelable. Il peut y être mis fin à tout moment dans l'intérêt du service.
+La nomination par voie de détachement dans l'un des emplois fonctionnels mentionnés à l'article 1er est prononcée pour une durée de quatre ans. Cette durée peut être prolongée sans que la durée totale d'occupation d'un même emploi ne puisse excéder huit ans. Cette durée totale d'occupation d'un même emploi peut toutefois être portée à dix ans, sur proposition soit du directeur général de l'agence régionale de santé concernée pour les emplois de directeur d'établissement public de santé, soit du directeur de l'établissement public concerné pour les autres emplois fonctionnels.
+
+Lorsqu'un fonctionnaire occupant un des emplois fonctionnels mentionnés à l'article 1er se trouve, à l'issue de son détachement, dans la situation d'obtenir, dans un délai égal ou inférieur à deux ans, la liquidation de ses droits à pension au taux maximum défini par son régime de retraite, une prolongation exceptionnelle de détachement dans le même emploi peut lui être accordée, sur sa demande, pour une période maximale de deux ans. Cette même faculté est offerte à un fonctionnaire se trouvant à moins de deux ans de la limite d'âge qui lui est applicable.
+
+Il peut être mis fin à tout moment, dans l'intérêt du service, aux emplois de directeur d'établissement public de santé mentionnés à l'article 1er, dans les conditions prévues à l'article L. 6143-7-2 du code de la santé publique, et aux autres emplois fonctionnels mentionnés au même article, après avis du directeur de l'établissement public de santé.
