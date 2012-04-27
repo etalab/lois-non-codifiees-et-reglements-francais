@@ -8,7 +8,7 @@ DANS LA CONVENTION VISEE A L'ARTICLE 2
 
 a) Objet de la convention ;
 
-b) Coordonnées administratives du producteur et du prestataire de services ;
+b) Coordonnées administratives de la personne responsable de l'élimination des déchets et du prestataire de services ;
 
 c) Durée du service assuré par le prestataire.
 

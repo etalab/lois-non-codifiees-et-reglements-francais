@@ -4,7 +4,7 @@ Sur les sites de production et dans les installations de regroupement, les déch
 
 1° Ils sont réservés à l'entreposage des déchets et peuvent servir, le cas échéant, à l'entreposage des produits souillés ou contaminés. Une inscription mentionnant leur usage est apposée de manière apparente sur la porte. Leur surface est adaptée à la quantité de déchets et produits à entreposer ;
 
-2° Ils ne peuvent recevoir que des déchets préalablement emballés. Les emballages non autorisés pour le transport sur la voie publique au titre de l'arrêté du 5 décembre 1996 modifié susvisé doivent être placés dans des grands récipients pour vrac, étanches et facilement lavables. La distinction entre les emballages contenant des déchets d'activités de soins à risques infectieux et assimilés et les emballages contenant d'autres types de déchets doit être évidente ;
+2° Ils ne peuvent recevoir que des déchets préalablement emballés. Les emballages non autorisés pour le transport sur la voie publique au titre de l'arrêté du 29 mai 2009 modifié susvisé doivent être placés dans des grands récipients pour vrac, étanches et facilement lavables. La distinction entre les emballages contenant des déchets d'activités de soins à risques infectieux et assimilés et les emballages contenant d'autres types de déchets doit être évidente ;
 
 3° Ils sont implantés, construits, aménagés et exploités dans des conditions offrant une sécurité optimale contre les risques de dégradation et de vol ;
 
