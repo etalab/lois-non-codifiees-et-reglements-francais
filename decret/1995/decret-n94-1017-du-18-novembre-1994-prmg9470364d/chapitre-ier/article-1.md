@@ -10,9 +10,7 @@ a) Corps des services déconcentrés des administrations de l'Etat :
 
 Les personnels appartenant aux corps des services déconcentrés des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
-b) Corps d'établissements publics de l'Etat :
-
--secrétaires administratifs de l'Office national des forêts ;
+b) (Abrogé)
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :
 

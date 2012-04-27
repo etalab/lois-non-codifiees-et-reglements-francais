@@ -6,8 +6,6 @@ Contrôleurs des affaires maritimes.
 
 Contrôleurs des transports terrestres.
 
-Secrétaires administratifs de l'Office national des forêts.
-
 Secrétaires administratifs de l'équipement.
 
 Secrétaires de documentation au ministère de la culture.
