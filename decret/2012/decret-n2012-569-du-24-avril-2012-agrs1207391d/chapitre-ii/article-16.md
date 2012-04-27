@@ -1,0 +1,7 @@
+# Article 16
+
+Sous réserve des dispositions du troisième alinéa, les fonctionnaires qui, à la date d'entrée en vigueur du présent décret, sont détachés dans l'un des corps mentionnés aux articles 13 et 14 sont placés, à cette même date, en position de détachement dans le corps régi par le présent décret, pour la durée de leur détachement restant à courir. Ils sont classés dans le corps régi par le présent décret dans les conditions prévues respectivement aux mêmes articles 13 et 14.
+
+Les fonctionnaires mentionnés au premier alinéa conservent les réductions et majorations d'ancienneté accordées et non utilisées pour un avancement d'échelon dans leur ancien corps de détachement dans les conditions fixées par le décret du 28 juillet 2010 susvisé. Les services accomplis par les intéressés dans leur ancien corps et grade de détachement sont assimilés à des services accomplis en position de détachement dans les corps et grade d'intégration.
+
+Les secrétaires administratifs de l'Office national des forêts qui, à la date d'entrée en vigueur du présent décret, sont détachés dans le corps des secrétaires administratifs relevant du ministre chargé de l'agriculture régi par le décret n° 2010-1752 du 30 décembre 2010 précité et les secrétaires administratifs relevant du ministre chargé de l'agriculture qui, à la même date, sont détachés dans le corps des secrétaires administratifs de l'Office national des forêts sont affectés en position d'activité dans leur administration d'accueil.

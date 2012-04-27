@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'application des dispositions de l'article 1er, le montant des budgets consolidés des établissements publics de santé constitués, le cas échéant, sous forme de direction commune est égal aux sommes figurant au compte de résultats principal et aux comptes de résultats annexes du dernier exercice budgétaire clos, desquels sont déduits les remboursements de frais par les comptes de résultats annexes, les produits des cessions d'éléments d'actif, la quote-part des subventions d'investissement virée au résultat de l'exercice et les reprises sur amortissements, dépréciations et provisions.

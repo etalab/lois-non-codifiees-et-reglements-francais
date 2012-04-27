@@ -1,0 +1,3 @@
+# Article 18
+
+Il est mis fin au détachement des fonctionnaires occupant, à la date d'entrée en vigueur du présent décret, un des emplois fonctionnels mentionnés à l'article 1er du décret du 2 août 2005 susvisé dans sa rédaction antérieure au présent décret et ne correspondant plus aux emplois fonctionnels mentionnés à l'article 1er de ce même décret dans sa rédaction issue du présent décret. Les intéressés sont reclassés en position d'activité et maintenus dans leurs fonctions. Toutefois, ils conservent dans leur emploi, à titre personnel et s'ils y ont intérêt, la situation administrative qu'ils détenaient dans cet ancien emploi fonctionnel pendant une période maximale de trois ans.

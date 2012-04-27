@@ -1,0 +1,3 @@
+# Article 20
+
+Les agents contractuels recrutés en vertu de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de secrétaire administratif de classe normale du corps des secrétaires administratifs relevant du ministre chargé de l'agriculture régi par le décret n° 2010-1752 du 30 décembre 2010 précité ou dans le grade de secrétaire administratif de classe normale de l'Office national des forêts sont maintenus en fonctions et ont vocation à être titularisés dans le grade de secrétaire administratif de classe normale du corps régi par le présent décret.

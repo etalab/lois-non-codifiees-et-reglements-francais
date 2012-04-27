@@ -1,0 +1,3 @@
+# Article 7
+
+Les nominations au choix dans le grade de secrétaire administratif de classe supérieure relevant du ministre chargé de l'agriculture sont prononcées par l'autorité de rattachement concernée, après sélection par voie d'un examen professionnel ouvert aux fonctionnaires de catégorie C ou de même niveau qui appartiennent à un corps relevant de l'autorité de rattachement concernée ou sont affectés dans un service ou un établissement pour lequel les agents régis par le présent décret sont rattachés à cette autorité, et justifient, au 1er janvier de l'année au titre de laquelle les nominations interviennent, d'au moins onze années de services publics.
