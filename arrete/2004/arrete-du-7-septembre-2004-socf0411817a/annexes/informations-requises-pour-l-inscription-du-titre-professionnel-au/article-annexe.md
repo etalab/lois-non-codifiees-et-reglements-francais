@@ -2,59 +2,47 @@
 
 Intitulé :
 
-Titre professionnel : technicien(ne) supérieur(e) de maintenance et d'exploitation en climatique.
-
-Anciens titres professionnels : technicien supérieur d'exploitation et de maintenance en génie climatique et technicien supérieur de maintenance et d'exploitation en conditionnement d'air.
+Titre professionnel : technicien supérieur de maintenance et d'exploitation en climatique.
 
 Niveau : III.
 
-Code NSF : 227 r.
+Code NSF : 227 r-Energie, génie climatique.
 
 Résumé du référentiel d'emploi
 
-Le technicien supérieur de maintenance et d'exploitation en climatique assure la gestion technique de l'exploitation et de la maintenance des systèmes de climatique (installations thermiques ou de conditionnement d'air) des secteurs tertiaires et industriels (immeubles de bureaux et d'habitation, centraux téléphoniques, hôpitaux, musées, hôtels, laboratoires, salles blanches, équipements de process et d'essais industriels).
+Le technicien supérieur de maintenance et d'exploitation en climatique assure la gestion technique de l'exploitation et de la maintenance des systèmes de climatique, qu'il s'agisse des installations thermiques ou de conditionnement d'air.
 
-Dans ce cadre, il assume une fonction d'encadrement technique des personnels d'intervention (agents et techniciens) dont il coordonne et anime les activités. Il est également responsable des résultats techniques et financiers des contrats ou des affaires qui lui sont confiés et qu'il supervise.
+Dans ce cadre, il exerce l'encadrement technique des personnels d'intervention (agents et techniciens) et coordonne leur activité. Il est également responsable des résultats techniques et financiers des contrats et des affaires qui lui sont confiés et qu'il supervise.
 
-En fonction des contrats de maintenance passés par son entreprise, il peut être amené à prendre en compte, en maintenance et en exploitation, d'autres équipements que ceux cités plus haut.
+En fonction des contrats de maintenance conclus par son entreprise, il peut être amené à prendre en compte, en maintenance et en exploitation, d'autres équipements que ceux cités plus haut.
 
-Il effectue une part importante de son activité au bureau, mais il est également fréquemment en rendez-vous extérieur, en clientèle ou chez ses fournisseurs. Il se déplace régulièrement sur sites pour suivre les opérations de maintenance conduites par les équipes dont il a la charge et peut être amené à intervenir en personne. Il exerce alors à l'intérieur de locaux techniques (chaufferies, sous-stations, groupes de production d'eau glacée, réseaux de distribution hydrauliques et aérauliques) situés à l'intérieur des bâtiments, en sous-sol, en rez-de-chaussée et en terrasse. Ces espaces peuvent être bruyants, poussiéreux, salissants et exigus et sont généralement éclairés à la lumière artificielle.
+L'emploi s'exerce dans les secteurs tertiaires et industriels : sièges sociaux des grandes entreprises, immeubles de bureaux, immeubles d'habitation, centraux téléphoniques, hôpitaux, musées, hôtels, laboratoires, salles blanches, équipements de process et d'essais industriels, etc.
+
+Le technicien supérieur effectue une part importante de son activité au bureau mais il est également fréquemment en rendez-vous extérieur, en clientèle ou chez ses fournisseurs. D'autre part, il se déplace régulièrement sur sites pour suivre les opérations de maintenance conduites par les équipes dont il a la charge ou pour intervenir lui-même. Il exerce alors à l'intérieur de locaux techniques (chaufferies, sous-stations, groupes de production d'eau glacée, réseaux de distribution hydrauliques et aérauliques) situés à l'intérieur des bâtiments, en sous-sol, en rez-de-chaussée et en terrasse. Ces espaces peuvent être bruyants, poussiéreux, salissants et exigus, éclairés à la lumière artificielle.
+
+Il réalise ses activités dans le respect des règles de sécurité individuelles et collectives et, s'il existe, en application du PPSPS, sinon du plan de prévention.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Assurer la maintenance et l'exploitation des équipements
+1. Assurer la mise en service, la maintenance et l'exploitation
 
-thermiques de moyenne puissance des installations de climatique
+des équipements thermiques des installations de climatique
 
-Réaliser la maintenance de niveau III (NF X 60-010) des armoires électriques de commande des équipements thermiques de moyenne puissance des installations de climatique.
+Assurer la mise en service des équipements thermiques des installations de climatique.
 
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation des équipements thermiques de moyenne puissance des installations de climatique.
+Assurer la maintenance et l'exploitation des équipements thermiques des installations de climatique.
 
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation des circuits hydrauliques des équipements thermiques moyenne puissance des installations de climatique.
+2. Assurer la mise en service, la maintenance et l'exploitation des équipements de conditionnement d'air des installations de climatique
 
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation de la régulation des équipements thermiques de moyenne puissance des installations de climatique.
+Assurer la mise en service des équipements de conditionnement d'air des installations de climatique.
 
-Assurer la mise en service et la maintenance de niveau III (NF X 60-010) des équipements de traitement d'eau des installations de climatique.
+Assurer la maintenance et l'exploitation des équipements de conditionnement d'air des installations de climatique.
 
-2. Assurer la maintenance et l'exploitation des équipements
+3. Réaliser des diagnostics, des expertises et des études
 
-de conditionnement d'air des installations de climatique
-
-Réaliser la maintenance de niveau III (NF X 60-010) des armoires électriques de commande des équipements de conditionnement d'air des installations de climatique.
-
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation des groupes de production frigorifique des installations de climatique.
-
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation des circuits hydrauliques de conditionnement d'air des installations de climatique.
-
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation des circuits aérauliques des installations de climatique.
-
-Assurer la mise en service, la maintenance de niveau III (NF X 60-010) et l'exploitation de la régulation des équipements de conditionnement d'air des installations de climatique.
-
-3. Réaliser des diagnostics, des expertises
-
-et des études d'amélioration des installations de climatique
+d'amélioration des installations de climatique
 
 Réaliser le relevé technique et le diagnostic d'une installation de climatique, puis rédiger un document d'étude.
 
@@ -70,38 +58,58 @@ Analyser, mettre en place et gérer un contrat d'exploitation d'installations de
 
 Animer et encadrer une équipe de techniciens de maintenance climatique.
 
-Assurer le suivi commercial des affaires liées à la maintenance et à l'exploitation des installations de climatique.
+Assurer le suivi commercial des affaires liées à la maintenance et l'exploitation des installations de climatique.
 
-Secteurs d'activités ou types d'emplois
+Secteurs d'activités ou types d'emploi accessibles
 
-accessibles par le détenteur du titre
+par le détenteur du titre
 
-Entreprises d'exploitation des installations de chauffage et de conditionnement d'air, prestataires de services assurant la gestion technique des équipements, par contrat, pour le compte de leurs clients.
+Tertiaires (sièges sociaux des grandes entreprises, immeubles de bureaux, centraux téléphoniques, hôpitaux, musées, hôtels...).
 
-Entreprises d'installations de froid et de climatisation, lorsqu'elles assurent également une prestation d'après-vente ou de maintenance.
+Industriels (laboratoires, salles blanches...).
 
-Entreprises d'installation de génie climatique, lorsqu'elles assurent également une prestation d'après-vente ou de maintenance.
+Immeubles d'habitation.
 
-Constructeurs d'équipements thermiques et de conditionnement d'air assurant le service après-vente ou une prestation de maintenance spécifique sur leur matériel.
+Type d'emplois accessibles :
 
-Gros utilisateurs, lorsqu'ils assurent eux-mêmes la gestion technique, l'exploitation et la maintenance de leurs équipements.
+Chargé de clientèle.
 
-Code ROME :
+Responsable de service.
 
-52332 - Maintenicien des systèmes thermiques, climatiques et frigorifiques.
+Responsable de sites.
+
+Technicien supérieur de maintenance en exploitation climatique.
+
+Chef de service d'entretien et de maintenance.
+
+Codes ROME :
+
+I1306-Installation et maintenance en froid, conditionnement d'air ;
+
+I1308-Maintenance d'installation de chauffage.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (norme C18-510) : décret n° 88-1056 du 14 novembre 1988 ;
+Article R. 543-106 du code de l'environnement : être titulaire de l'attestation d'aptitude à la manipulation des fluides frigorigènes, catégorie I.
 
-Agrément pour la manipulation de fluides frigogènes : décret n° 92-1271 du 7 décembre 1992, modifié par le décret n° 98-560 du 30 juin 1998.
+Articles R. 4544-9 et R. 4544-10 du code du travail : habilitation électrique délivrée par l'employeur au niveau :
+
+BR pour la maintenance curative des équipements de climatique ;
+
+B2V pour la maintenance préventive des équipements de climatique.
 
 Autorité responsable de la certification :
 
-Ministère chargé de l'emploi.
+Ministère du travail, de l'emploi et de la santé.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
