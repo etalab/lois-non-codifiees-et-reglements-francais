@@ -10,12 +10,6 @@ Pour l'application des articles 12 et 13, les références aux dispositions du c
 
 Pour l'application de l'article 13-1, la référence aux dispositions du code général des impôts est remplacée par la référence aux dispositions de même nature applicables localement.
 
-Pour l'application des articles 22 à 25-1, le conseil de l'ordre du barreau de Mamoudzou, siégeant comme conseil de discipline, connaît des infractions et fautes commises par les avocats qui y sont inscrits. Il connaît également des infractions et fautes commises par un ancien avocat, dès lors qu'à l'époque des faits il était inscrit au tableau ou sur la liste des avocats honoraires du barreau.
-
-Pour l'application de la présente loi, les mots : " tribunal de grande instance ", " cour d'appel " et " procureur général " sont remplacés respectivement par les mots : " tribunal de première instance ", "chambre d'appel de Mamoudzou" et " procureur de la République ".
-
-Les attributions dévolues en matière de procédure civile aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées par le président de la chambre d'appel de Mamoudzou.
-
 II. - A Saint-Pierre-et-Miquelon :
 
 Ne sont pas applicables les articles 1er (III), 2, 42 à 48, 50 (I et III), 53 (13° et 15°), 54 à 66-4, 66-6, 71, 76 et 80. Le 9° de l'article 53 ne s'applique pas en tant qu'il concerne les conditions d'application de l'article 27 relatives aux caisses qui y sont mentionnées.
@@ -66,4 +60,4 @@ Pour l'application des articles 12 et 13, la référence aux dispositions du cod
 
 Pour l'application des articles 22 à 25-1, le conseil de l'ordre du barreau de Nouméa, siégeant comme conseil de discipline, connaît des infractions et fautes commises par les avocats qui y sont inscrits. Il connaît également des infractions et fautes commises par un ancien avocat, dès lors qu'à l'époque des faits il était inscrit au tableau ou sur la liste des avocats honoraires du barreau.
 
-Pour l'application de la présente loi, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance ".
+Pour l'application de la présente loi, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " .
