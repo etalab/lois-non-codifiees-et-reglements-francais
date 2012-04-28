@@ -1,62 +1,96 @@
 # Article 7
 
-<div>
-<br/>Les montants de la rémunération sont fixés comme suit :<br/>
-<div align="center">
+Les montants de la rémunération sont fixés comme suit :
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>CATÉGORIES<br/>d'examens</th>
+<br/>
+<br/>CATÉGORIES D'EXAMENS <br/>
+</th>
 <th>
-<br/>EXAMINATEURS<br/>spécialisés ou<br/>membres de jury, par<br/>vacation des 4 heures</th>
+<br/>EXAMINATEURS SPÉCIALISÉS <br/>
+<br/>ou membres de jury, <br/>
+<br/>par vacation de 4 heures <br/>
+</th>
 <th>
-<br/>CORRECTEURS<br/>d'épreuves écrites,<br/>par copie</th>
+<br/>CORRECTEURS <br/>
+<br/>d'épreuves écrites, <br/>
+<br/>par copie <br/>
+</th>
 <th>
-<br/>PRÉSIDENTS ET PRÉSIDENTS-<br/>adjoints de jury, par vacation<br/>de 4 heures</th>
+<br/>PRÉSIDENTS <br/>
+<br/>et présidents adjoints de jury, <br/>
+<br/>par vacation de 4 heures <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Diplômes de niveau III :</td>
+<br/>Concours de l'enseignement supérieur agricole long <br/>
+</td>
 <td align="center">
-<br/>55 €</td>
+<br/>133 € <br/>
+</td>
 <td align="center">
-<br/>2,50 €</td>
+<br/>5 € <br/>
+</td>
 <td align="center">
-<br/>56 €</td>
+<br/>Sans objet <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>BTSA</td>
+<br/>Diplômes de niveau III : <br/>
+<br/>BTSA <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>55 € <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>2,50 € <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>56 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Diplômes de niveau IV :<br/>Baccalauréats<br/>BTA<br/>Brevet professionnel</td>
+<br/>Diplômes de niveau IV : <br/>
+<br/>Baccalauréats <br/>
+<br/>BTA <br/>
+<br/>Brevet professionnel <br/>
+</td>
 <td align="center">
-<br/>39 €</td>
+<br/>39 € <br/>
+</td>
 <td align="center">
-<br/>2 €</td>
+<br/>2 € <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>56 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Diplômes de niveau V<br/>BEPA<br/>BPA<br/>CAPA</td>
+<br/>Diplômes de niveau V : <br/>
+<br/>BEPA <br/>
+<br/>BPA <br/>
+<br/>CAPA <br/>
+</td>
 <td align="center">
-<br/>17 €</td>
+<br/>17 € <br/>
+</td>
 <td align="center">
-<br/>1 €</td>
+<br/>1 € <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>56 €<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
+<div align="left">
 <br/>
 </div>
