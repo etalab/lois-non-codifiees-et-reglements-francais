@@ -1,13 +1,11 @@
 # Article 3
 
-Le titre professionnel de façadier-peintre est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel de façadier-peintre est composé des trois unités constitutives dont la liste suit :
 
-1. Réaliser des travaux de peinture de ravalement de bâtiments en qualité de finition C ;
+1. Réaliser des travaux extérieurs de peinture sur des ouvrages de façade.
 
-2. Monter des échafaudages fixes de pied en façade ;
+2. Réaliser des travaux d'imperméabilisation sur des façades à rénover.
 
-3. Mettre en oeuvre des revêtements d'imperméabilité de façade ;
+3. Réaliser des travaux d'isolation thermique extérieure avec une finition en enduit mince.
 
-4. Mettre en oeuvre des systèmes d'isolation thermique par l'extérieur avec revêtement plastique épais.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
