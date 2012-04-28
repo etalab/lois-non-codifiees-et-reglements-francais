@@ -1,10 +1,8 @@
 # Article 14
 
-I. ― Les articles 9 à 13 s'appliquent en Guadeloupe, en Martinique, en Guyane, à La Réunion et à Saint-Martin.
+I. - Les articles 9 à 13 s'appliquent en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion et à Saint-Martin.
 
-Les mêmes articles 9 à 13 s'appliquent à Mayotte, à l'exception du VII des articles 9 et 10 et du VI de l'article 11. Pour l'application du V de l'article 13, l'article L. 651-10 du code de la construction et de l'habitation est applicable à Mayotte.
-
-II. ― Pour l'application des articles 9 à 13 à Saint-Martin :
+II. - Pour l'application des articles 9 à 13 à Saint-Martin :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat à Saint-Martin ;
 
