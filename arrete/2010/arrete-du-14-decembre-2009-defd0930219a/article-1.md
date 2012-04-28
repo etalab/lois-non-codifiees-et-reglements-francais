@@ -4,80 +4,50 @@ Pour l'exercice de ses attributions fixées aux articles R. 3232-1 et suivants d
 
 I. ― Une direction centrale dont l'organisation est fixée par le présent arrêté.
 
-II. ― Des organismes extérieurs dont les attributions, l'organisation et le fonctionnement sont fixés par instruction, sans préjudice des attributions des directions du secrétariat général pour l'administration :
+II. - Des organismes extérieurs dont les attributions, l'organisation et le fonctionnement sont fixés par instruction, sans préjudice des attributions des directions du secrétariat général pour l'administration :
 
-1. Relevant directement de la direction centrale :
+1° Relevant directement de la direction centrale :
 
-a) Les directions du commissariat en région terre ;
+a) Le centre d'analyse et de contrôle interne comptable ;
 
-b) Le commissariat administratif de l'armée de terre ;
+b) Le centre d'expertise de soutien général des armées ;
 
-c) Le service central d'études et de réalisations du commissariat de l'armée de terre ;
+c) Le centre d'expertise du soutien du combattant et des forces ;
 
-d) Le service interarmées de liquidation des transports ;
+d) Le centre interarmées d'administration des opérations ;
 
-e) Le centre d'études et de développement informatique du commissariat de l'armée de terre ;
+e) Le service ministériel opérateur des droits individuels, dont relèvent les centres territoriaux d'administration et de comptabilité et le commissariat administratif de l'armée de terre ;
 
-f) Les directions locales du commissariat de la marine ;
+f) Les directions du commissariat d'outre-mer placées pour emploi auprès des commandants supérieurs dans les départements et les collectivités d'outre-mer et des commandants des forces ou éléments de forces à l'étranger ;
 
-g) Le service technique et des marchés généraux du commissariat de la marine ;
+g) Les directions du commissariat en opération extérieure placées pour emploi auprès des commandants des forces françaises engagées en opérations hors du territoire national ;
 
-h) Le service des droits financiers individuels et des affaires contentieuses ;
+h) Le centre d'administration ministériel des indemnités de déplacement ;
 
-i) Le service des finances des formations, des achats et de la comptabilité ;
+i) L'école des commissaires des armées ;
 
-j) Les établissements logistiques du commissariat de l'air ;
+j) Les plates-formes achats finances ;
 
-k) Le centre de production alimentaire de l'air ;
+k) Le service exécutant de la solde unique ;
 
-l) Les directions du commissariat d'outre-mer placées pour emploi auprès des commandants supérieurs dans les départements et les collectivités d'outre-mer des forces ou éléments de forces à l'étranger ;
+l) Les services locaux du contentieux ;
 
-m) Les directions du commissariat en opération extérieure placées pour emploi auprès des commandants des forces françaises engagées en opérations hors du territoire national ;
+m) Le service spécialisé de la logistique et du transport ;
 
-n) Le centre interarmées de la solde ;
+2° Relevant de la direction centrale :
 
-o) Le service exécutant de la solde unique ;
+a) Le centre d'expertise et d'analyse comptable ;
 
-p) Le service ministériel opérateur des droits individuels ;
+b) Le centre d'études et de développement informatique du commissariat des armées ;
 
-q) Le centre interarmées d'administration des opérations ;
+c) Les centres de production alimentaire ;
 
-r) Le centre d'expertise de soutien général des armées ;
+d) Le centre interarmées de la solde ;
 
-s) Les plates-formes achats finances ;
+e) Les établissements logistiques ;
 
-t) Le centre d'administration ministériel des indemnités de déplacement ;
+f) L'établissement de diffusion, d'impression et d'archives du commissariat des armées ;
 
-u) Le centre de liquidation des factures ;
+g) Le laboratoire du commissariat des armées ;
 
-v) Le centre d'expertise du soutien du combattant et des forces ;
-
-w) (supprimé)
-
-x) Le centre d'analyse et de contrôle interne comptable ;
-
-y) Le service spécialisé de la logistique et du transport ;
-
-z) Les services locaux du contentieux ;
-
-2. Relevant des directions du commissariat en région terre :
-
-a) Les commissariats de l'armée de terre ;
-
-b) Les centres territoriaux d'administration et de comptabilité ;
-
-c) Les établissements ravitailleurs du commissariat de l'armée de terre ;
-
-d) Les établissements spécialisés du commissariat de l'armée de terre ;
-
-3. Relevant du service central d'études et de réalisations du commissariat de l'armée de terre, l'établissement de diffusion, d'impression et d'archives du commissariat de l'armée de terre ;
-
-4. Relevant du service des finances des formations, des achats et de la comptabilité :
-
-a) La structure centrale d'achat et de mandatement ;
-
-b) Des structures spécialisées d'achat et de mandatement ;
-
-c) Les structures locales d'achat et de mandatement ;
-
-d) Le centre air de comptabilité.
+h) Les commissariats de l'armée de terre.

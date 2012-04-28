@@ -4,6 +4,6 @@ I. ― Conformément à l'article R. 3232-10 du code de la défense, le service 
 
 Il est assisté d'un directeur central adjoint, chef de service, qui le remplace en cas d'absence ou d'empêchement et de quatre sous-directeurs.
 
-II. ― Le directeur central dispose en outre de trois adjoints, chefs de service. Ces adjoints assistent le directeur central pour la conduite des réorganisations du service et assurent, dans ce cadre, la continuité des soutiens. Ils mettent en œuvre les directives du directeur central dans le cadre des missions qu'il leur confie.
+II. (Abrogé)
 
 III. ― Le directeur central dispose également de chargés de mission.
