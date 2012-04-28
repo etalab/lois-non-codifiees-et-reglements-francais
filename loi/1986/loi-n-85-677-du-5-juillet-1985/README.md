@@ -3,4 +3,4 @@
 - [Chapitre Ier : Indemnisation des victimes d'accidents de la circulation.](chapitre-ier)
 - [Chapitre II : Des recours des tiers payeurs contre les personnes tenues à réparation d'un dommage résultant d'une atteinte à la personne.](chapitre-ii)
 - [Chapitre III : Dispositions diverses](chapitre-iii)
-- [Chapitre IV : Entrée en vigueur et dispositions transitoires.](chapitre-iv)
+- [Chapitre IV : Dispositions diverses](chapitre-iv)
