@@ -1,0 +1,4 @@
+# Ordonnance n° 2012-578 du 26 avril 2012 relative à l'application à Mayotte du code de commerce, de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis et de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation
+
+- [Chapitre II : Dispositions portant extension au Département de Mayotte de certaines dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis](chapitre-ii)
+- [Chapitre III : Dispositions portant extension au Département de Mayotte de certaines dispositions de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation](chapitre-iii)
