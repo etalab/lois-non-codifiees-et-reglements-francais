@@ -13,3 +13,5 @@ Un représentant de l'Institut national de l'audiovisuel ;
 Quinze membres, experts professionnels.
 
 Le président et les membres de la commission sont nommés par décision du directeur général du Centre national de la cinématographie pour une durée de deux ans renouvelable.
+
+En  cas d'empêchement temporaire, le président et les membres de la  commission peuvent être remplacés par des suppléants choisis sur une  liste établie par décision du président du Centre national du cinéma et  de l'image animée.
