@@ -1,17 +1,19 @@
 # Article 13
 
-Dans les unités d'action, les tirs de défense peuvent intervenir dès lors que :
+I. - Dans les unités d'action, les tirs de défense peuvent intervenir dès lors que les conditions suivantes sont réunies :
 
-― des mesures de protection ont été mises en œuvre, ou le troupeau est reconnu comme ne pouvant être protégé ;
+1° Des mesures de protection sont mises en œuvre, ou le troupeau est reconnu comme ne pouvant être protégé ;
 
-― un effarouchement a été réalisé ;
+2° Un effarouchement est réalisé ;
 
-― et malgré la mise en place effective de ces mesures :
+3° Malgré la mise en place effective de ces mesures, le troupeau se trouve dans l'une des situations suivantes :
 
-― au moins deux attaques ont été constatées sur le troupeau depuis le 1er mai de l'année n ― 2.
+a) Le troupeau est considéré comme situé sur une zone reconnue à risque, dans la mesure où au moins une attaque a été constatée sur ce troupeau, ou sur un troupeau situé à proximité, depuis le 1er mai de l'année n - 1 ;
 
-ou au moins une attaque a été constatée depuis le 1er mai de l'année n ;
+b) Au moins une attaque a été constatée sur le troupeau, ou sur un troupeau situé à proximité, depuis le 1er mai de l'année n.
 
-― ou le troupeau présente au regard de la récurrence des dommages une situation particulière caractérisée par un avis des services concernés ;
+II. - Ces tirs de défense peuvent intervenir :
 
-― ou le troupeau se situe à proximité d'un troupeau faisant l'objet d'une autorisation de tir de défense octroyée sur la base des conditions mentionnées aux alinéas précédents du présent article.
+1° Dès le 1er mai de l'année n, dans les cas décrits au a du 3° du I du présent article ;
+
+2° Postérieurement à cette date, dans les cas décrits au b du 3° du I du présent article.
