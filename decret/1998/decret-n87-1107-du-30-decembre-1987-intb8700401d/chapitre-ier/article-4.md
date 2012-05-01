@@ -258,4 +258,6 @@ II. - La durée maximale et la durée minimale du temps passé dans chacun des �
 </tbody>
 </table>
 
-III. - Pour les cadres d'emplois dotés de l'échelon spécial dans le grade classé en échelle 6 de rémunération mentionné à l'article 3, la durée maximale du 7e échelon est fixée à 4 ans et la durée minimale à 3 ans.
+III. - Pour les cadres d'emplois visés au troisième alinéa de l'article 1er, la durée maximale du 7e échelon est fixée à quatre ans et la durée minimale à trois ans pour l'accès à l'échelon spécial.
+
+IV. - Peuvent être inscrits au tableau annuel d'avancement d'accès à l'échelon spécial mentionné au quatrième alinéa de l'article 1er les agents justifiant d'au moins trois ans d'ancienneté dans le 7e échelon de l'échelle 6.
