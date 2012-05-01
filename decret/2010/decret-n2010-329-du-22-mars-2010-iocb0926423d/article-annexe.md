@@ -2,12 +2,14 @@
 
 Animateurs territoriaux.
 
+Assistants territoriaux d'enseignement artistique.
+
 Assistants territoriaux de conservation du patrimoine et des bibliothèques.
 
 Chefs de service de police municipale.
 
 Educateurs territoriaux des activités physiques et sportives.
 
-Techniciens territoriaux.
+Lieutenants de sapeurs-pompiers professionnels.
 
-Assistants territoriaux d'enseignement artistique.
+Techniciens territoriaux.
