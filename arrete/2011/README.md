@@ -1870,7 +1870,6 @@
 - [Arrêté du 21 décembre 2011 (ETSS1135119A)](arrete-du-21-decembre-2011-etss1135119a)
 - [Arrêté du 21 décembre 2011 (ETST1135010A)](arrete-du-21-decembre-2011-etst1135010a)
 - [Arrêté du 21 décembre 2011 (ETST1135021A)](arrete-du-21-decembre-2011-etst1135021a)
-- [Arrêté du 21 décembre 2011 (IOCD1132343A)](arrete-du-21-decembre-2011-iocd1132343a)
 - [Arrêté du 21 février 2011 (AGRT1105545A)](arrete-du-21-fevrier-2011-agrt1105545a)
 - [Arrêté du 21 février 2011 (EFIC1008347A)](arrete-du-21-fevrier-2011-efic1008347a)
 - [Arrêté du 21 février 2011 (ETSS1104243A)](arrete-du-21-fevrier-2011-etss1104243a)

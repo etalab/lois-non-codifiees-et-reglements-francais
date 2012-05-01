@@ -1,3 +1,0 @@
-# TITRE VI : DISPOSITIONS DIVERSES ET TRANSITOIRES.
-
-- [Article 23](article-23.md)

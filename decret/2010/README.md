@@ -868,7 +868,6 @@
 - [Décret n°2009-1634 du 24 décembre 2009 (IOCX0928024D)](decret-n2009-1634-du-24-decembre-2009-iocx0928024d)
 - [Décret n°2009-1641 du 24 décembre 2009 (AGRE0919322D)](decret-n2009-1641-du-24-decembre-2009-agre0919322d)
 - [Décret n°2009-1642 du 24 décembre 2009 (AGRE0919345D)](decret-n2009-1642-du-24-decembre-2009-agre0919345d)
-- [Décret n°2009-1643 du 24 décembre 2009 (MCCX0924891D)](decret-n2009-1643-du-24-decembre-2009-mccx0924891d)
 - [Décret n°2009-1657 du 24 décembre 2009 (PRMX0928467D)](decret-n2009-1657-du-24-decembre-2009-prmx0928467d)
 - [Décret n°2010-1446 du 24 novembre 2010 (EFIS1023528D)](decret-n2010-1446-du-24-novembre-2010-efis1023528d)
 - [Décret n°2010-181 du 24 février 2010 (DEVN0925340D)](decret-n2010-181-du-24-fevrier-2010-devn0925340d)
