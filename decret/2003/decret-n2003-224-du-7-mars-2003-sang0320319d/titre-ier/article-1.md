@@ -6,7 +6,7 @@ Le présent décret s'applique aux agents contractuels recrutés par contrat de 
 
 2° L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ;
 
-3° L'Agence française de sécurité sanitaire des produits de santé ;
+3° L'Agence nationale de sécurité du médicament et des produits de santé ;
 
 4° L'Agence technique de l'information sur l'hospitalisation ;
 
