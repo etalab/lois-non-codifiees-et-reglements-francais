@@ -28,7 +28,7 @@ L'un de ces délégués est obligatoirement un membre ou ancien membre de la cha
 
 Dans le ressort de la compagnie des commissaires-priseurs judiciaires de Paris, les deux délégués sont choisis parmi les membres ou anciens membres de la chambre et les commissaires-priseurs judiciaires honoraires, qu'ils aient ou non exercé dans le ressort.
 
-Les délégués visés aux deux alinéas précédents ne doivent pas avoir encouru de sanction disciplinaire.
+Les délégués visés aux deux alinéas précédents ne doivent pas avoir fait l'objet de sanction disciplinaire.
 
 Les commissaires-priseurs judiciaires en exercice ne peuvent refuser cette délégation.
 
