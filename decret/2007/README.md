@@ -1041,7 +1041,6 @@
 - [Décret n°2007-1520 du 22 octobre 2007 (JUSA0751774D)](decret-n2007-1520-du-22-octobre-2007-jusa0751774d)
 - [Décret n°2007-1642 du 22 novembre 2007 (PRMX0770865D)](decret-n2007-1642-du-22-novembre-2007-prmx0770865d)
 - [Décret n°2007-1643 du 22 novembre 2007 (PRMX0771414D)](decret-n2007-1643-du-22-novembre-2007-prmx0771414d)
-- [Décret n°2007-401 du 22 mars 2007 (ECOP0700121D)](decret-n2007-401-du-22-mars-2007-ecop0700121d)
 - [Décret n°2008-172 du 22 février 2008 (ECEI0773814D)](decret-n2008-172-du-22-fevrier-2008-ecei0773814d)
 - [Décret n°57-811 du 22 juillet 1957](decret-n57-811-du-22-juillet-1957)
 - [Décret n°89-1018 du 22 décembre 1989 (MERP8900039D)](decret-n89-1018-du-22-decembre-1989-merp8900039d)

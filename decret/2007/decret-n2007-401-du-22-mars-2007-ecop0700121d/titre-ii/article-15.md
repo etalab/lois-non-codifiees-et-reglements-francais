@@ -1,5 +1,0 @@
-# Article 15
-
-A la date d'entrée en vigueur du présent décret et sous réserve qu'ils en occupent à cette date les fonctions, les directeurs interrégionaux sont maintenus en détachement, par arrêté du ministre chargé du budget, pour une durée correspondant à la période restant à courir au titre de leur détachement en cours. Ils sont reclassés, selon le cas, à l'échelon de l'emploi de directeur interrégional, de directeur de la direction nationale du renseignement et des enquêtes douanières ou de directeur fonctionnel doté d'un indice égal ou, à défaut, immédiatement supérieur à l'indice qu'ils détenaient dans leur emploi précédent.
-
-Dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur de leur nouvel emploi, ils conservent l'ancienneté acquise dans l'échelon de leur précédent emploi lorsque l'augmentation de traitement résultant de leur détachement est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade ou emploi ou, lorsqu'ils ont déjà atteint l'échelon terminal de leur grade ou emploi d'origine, si cette augmentation est inférieure à celle qui a résulté de leur promotion à ce dernier échelon.
