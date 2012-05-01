@@ -1,0 +1,3 @@
+# Article 7-1
+
+Les sapeurs-pompiers professionnels recrutés en application de l'article 5 sont classés à un échelon du grade de capitaine déterminé sur la base des durées maximales fixées à l'article 9 pour chaque avancement d'échelon, en application des dispositions du chapitre Ier du décret n° 2006-1695 du 22 décembre 2006 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie A de la fonction publique territoriale, à l'exception de ses articles 5 et 6 et des dispositions des articles 7-2 à 7-4 du présent décret. Le classement est prononcé à la date de nomination dans le cadre d'emplois.

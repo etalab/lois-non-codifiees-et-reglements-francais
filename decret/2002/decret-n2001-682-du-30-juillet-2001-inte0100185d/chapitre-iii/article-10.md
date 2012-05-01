@@ -1,11 +1,5 @@
 # Article 10
 
-Peuvent être nommés commandants au choix, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, en application du 1° et du 2° de l'article 79 de la loi du 26 janvier 1984 susvisée, les capitaines qui justifient :
+I.-Peuvent être nommés commandants au choix, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, en application du 1° de l'article 79 de la loi du 26 janvier 1984 susvisée, les capitaines qui justifient de cinq ans de services effectifs dans leur grade au 1er janvier de l'année au titre de laquelle est dressé le tableau annuel d'avancement.
 
-1° Soit de cinq ans de services effectifs dans leur grade, après un examen professionnel dont les modalités et le programme sont définis par arrêté du ministre de l'intérieur ;
-
-2° Soit de dix ans de services effectifs dans leur grade et qui ont acquis à cette date la formation d'adaptation à l'emploi définie par arrêté du ministre de l'intérieur.
-
-Les nominations au titre du 2° ne peuvent intervenir qu'à raison d'une pour 5 nominations prononcées au titre du 1°.
-
-L'arrêté prévu au 1° détermine les conditions dans lesquelles les épreuves de l'examen professionnel peuvent tenir compte des diplômes acquis par les candidats en relation avec les fonctions et emplois auxquels destine cet examen.
+II.-Dès leur nomination, les capitaines promus commandants reçoivent la formation d'adaptation aux emplois définie par arrêté du ministre de l'intérieur. Ils ne peuvent se voir confier les fonctions afférentes qu'après validation de cette formation.

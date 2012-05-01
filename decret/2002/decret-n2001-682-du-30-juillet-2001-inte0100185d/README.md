@@ -1,7 +1,7 @@
 # Décret n°2001-682 du 30 juillet 2001 portant statut particulier du cadre d'emplois des capitaines, commandants, lieutenants-colonels et colonels de sapeurs-pompiers professionnels
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
-- [Chapitre II : Modalités de recrutement et nomination.](chapitre-ii)
+- [Chapitre II : Modalités de recrutement et de nomination, formation d'intégration et de professionnalisation.](chapitre-ii)
 - [Chapitre III : Avancement et notation.](chapitre-iii)
 - [Chapitre III bis : Détachement.](chapitre-iii-bis)
 - [Chapitre IV : Constitution initiale du cadre d'emplois et dispositions diverses.](chapitre-iv)
