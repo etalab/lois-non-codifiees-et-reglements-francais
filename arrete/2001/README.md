@@ -491,7 +491,6 @@
 - [Arrêté du 30 octobre 2001 (ATEP0100373A)](arrete-du-30-octobre-2001-atep0100373a)
 - [Arrêté du 30 octobre 2001 (ECOI0100559A)](arrete-du-30-octobre-2001-ecoi0100559a)
 - [Arrêté du 30 octobre 2001 (EQUT0101675A)](arrete-du-30-octobre-2001-equt0101675a)
-- [Arrêté du 30 octobre 2001 (INTE0100679A)](arrete-du-30-octobre-2001-inte0100679a)
 - [Arrêté du 30 mai 2001 (DEFP0101601A)](arrete-du-30-mai-2001-defp0101601a)
 - [Arrêté du 31 août 2001 (AGRG0101706A)](arrete-du-31-aout-2001-agrg0101706a)
 - [Arrêté du 31 août 2001 (MENF0101580A)](arrete-du-31-aout-2001-menf0101580a)
