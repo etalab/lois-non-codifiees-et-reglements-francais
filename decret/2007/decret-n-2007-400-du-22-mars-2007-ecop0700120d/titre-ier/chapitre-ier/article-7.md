@@ -1,3 +1,3 @@
 # Article 7
 
-Le ministre chargé du budget nomme à tous les emplois de la catégorie A des services déconcentrés de la direction générale des douanes et droits indirects. Il prononce les titularisations dans les grades correspondants.
+Les  personnels de catégorie A régis par le présent décret sont nommés dans  les grades mentionnés à l'article 2 par le ministre chargé du budget.
