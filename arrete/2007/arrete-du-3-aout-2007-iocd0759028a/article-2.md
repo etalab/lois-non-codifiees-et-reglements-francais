@@ -2,7 +2,7 @@
 
 Le certificat de qualification professionnelle comporte les éléments suivants :
 
-1° L'indication de l'activité à laquelle il se rapporte, définie au 1°, 2° ou 3° de l'article 1er de la loi du 12 juillet 1983 modifiée susvisée ;
+1° L'indication de l'activité à laquelle il se rapporte, définie au 1°, 2° ou 3° de l'article L. 611-1 du code de la sécurité intérieure ;
 
 2° La définition des fonctions concernées et des compétences requises pour les exercer ;
 

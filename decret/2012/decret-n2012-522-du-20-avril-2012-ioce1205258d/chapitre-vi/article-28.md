@@ -1,0 +1,5 @@
+# Article 28
+
+I. ― A compter de la date d'entrée en vigueur du présent décret et pendant une période de trois années au plus, peuvent être promus au grade de lieutenant hors classe les lieutenants régis par le décret n° 2001-681 du 30 juillet 2001 portant statut particulier du cadre d'emplois des majors et lieutenants de sapeurs-pompiers professionnels et classés dans le grade de lieutenant de 1re classe dans le cadre d'emplois des lieutenants de sapeurs-pompiers professionnels régi par le présent décret, conformément aux dispositions de l'article 19 de ce décret et justifiant de huit années au moins de services effectifs en tant qu'officier de sapeur-pompier professionnel au 1er janvier de l'année de leur nomination.
+
+II. ― Durant cette période, il n'est pas fait application des I et II de l'article 15 du présent décret et le nombre de nominations prévues annuellement, après avis de la commission administrative paritaire, est égal à 15 % de l'effectif du grade de lieutenant de 1re classe détenant l'ancienneté requise définie au I du présent article.

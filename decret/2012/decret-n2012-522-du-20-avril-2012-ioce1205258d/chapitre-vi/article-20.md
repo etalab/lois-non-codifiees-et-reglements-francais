@@ -1,0 +1,5 @@
+# Article 20
+
+I. ― A la date d'entrée en vigueur du présent décret, les agents détachés dans le cadre d'emplois régi par le décret n° 2001-681 du 30 juillet 2001 portant statut particulier du cadre d'emplois des majors et lieutenants de sapeurs-pompiers professionnels sont placés, pour la durée de leur détachement restant à courir, en position de détachement dans le cadre d'emplois des lieutenants de sapeurs-pompiers professionnels régi par le présent décret. Ils sont classés dans ce cadre d'emplois conformément aux dispositions de l'article 19 du présent décret.
+
+II. - Les services accomplis par les intéressés en position de détachement dans le cadre d'emplois régi par le décret n° 2001-681 du 30 juillet 2001 portant statut particulier du cadre d'emplois des majors et lieutenants de sapeurs-pompiers professionnels ainsi que dans les grades de ce cadre d'emplois sont assimilés à des services accomplis en position de détachement dans le cadre d'emplois des lieutenants de sapeurs-pompiers professionnels régi par le présent décret ainsi que dans les grades de ce cadre d'emplois.

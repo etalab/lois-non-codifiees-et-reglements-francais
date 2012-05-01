@@ -2,8 +2,6 @@
 
 En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 susvisé et au sein de la liste des emplois de chef de mission fixée par arrêté du 16 août 2011, les emplois permettant l'accès à l'échelon spécial, à effet du 1er août 2011, sont :
 
-― directeur adjoint de la direction de la planification du spectre et des affaires internationales de l'Agence nationale des fréquences ;
-
 ― adjoint au directeur de la direction des équipements sous pression nucléaires à l'Autorité de sûreté nucléaire ;
 
 ― chef de la division de Châlons-en-Champagne de l'Autorité de sûreté nucléaire ;
@@ -18,11 +16,9 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 ― chef du bureau matériel de transport à la direction générale de la compétitivité, de l'industrie et des services ;
 
-― chef du service développement des entreprises au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne ;
-
 ― chef du bureau des ressources minérales à la direction générale de l'aménagement, du logement et de la nature ;
 
-― chef du bureau « véhicules lourds et deux-roues » à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
+― chef du bureau  véhicules lourds et deux-roues  à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
 
 ― chef du bureau des affaires générales et des systèmes d'information à la direction générale de la prévention des risques ;
 

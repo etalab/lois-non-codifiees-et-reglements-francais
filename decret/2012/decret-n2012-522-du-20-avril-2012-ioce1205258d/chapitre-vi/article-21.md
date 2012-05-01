@@ -1,0 +1,3 @@
+# Article 21
+
+Les candidats reçus aux concours d'accès de major de sapeurs-pompiers professionnels régi par le décret n° 2001-681 du 30 juillet 2001 portant statut particulier du cadre d'emplois des majors et lieutenants de sapeurs-pompiers professionnels, ouverts avant la date d'entrée en vigueur du présent décret, peuvent être nommés dans le cadre d'emplois des lieutenants de sapeurs-pompiers professionnels régi par le présent décret au grade de lieutenant de 2e classe. Par dérogation aux dispositions de l'article 10 du décret n° 2010-329 du 22 mars 2010 susvisé, les intéressés sont titularisés dès leur nomination.

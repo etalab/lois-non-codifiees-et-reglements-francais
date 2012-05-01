@@ -697,16 +697,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef du bureau " expertise et actions économiques " <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction générale des finances publiques <br/>
-</p>
-</td>
-<td align="center">
 <p align="left">Chef de section " politiques sectorielles et taxes sur les transactions : pays tiers et autres taxes " <br/>
 </p>
 </td>

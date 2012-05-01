@@ -1,0 +1,3 @@
+# Article 8
+
+A compter de la date d'entrée en vigueur du présent décret, les sapeurs-pompiers professionnels qui occupaient un emploi opérationnel et d'encadrement et qui bénéficiaient au titre des responsabilités particulières qu'ils exerçaient d'une indemnité de responsabilité ne correspondant pas à leur grade, par référence au tableau de concordance et au tableau I annexés au décret du 25 septembre 1990 susvisé dans leur rédaction issue du présent décret, peuvent continuer à occuper cet emploi et à percevoir cette indemnité à titre personnel, dans le service départemental d'incendie et de secours où ils servent, pendant une durée maximale de sept ans.

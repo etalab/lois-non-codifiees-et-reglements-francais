@@ -1,0 +1,5 @@
+# Article 19
+
+I. ― A la date d'entrée en vigueur du présent décret, les fonctionnaires détachés dans les grades de sapeur et de caporal du cadre d'emplois régi par le décret n° 90-851 du 25 septembre 1990 portant statut particulier du cadre d'emplois des sapeurs-pompiers professionnels non officiers sont placés, pour la durée du détachement restant à courir, en position de détachement dans le cadre d'emplois des sapeurs et caporaux de sapeurs-pompiers professionnels régi par le présent décret, respectivement dans les grades de sapeur de 1re classe et de caporal. Ils sont classés dans ce cadre d'emplois conformément aux dispositions de l'article 18 du présent décret.
+
+II. ― Les services accomplis en position de détachement dans le cadre d'emplois régi par le décret n° 90-851 du 25 septembre 1990 portant statut particulier du cadre d'emplois des sapeurs-pompiers professionnels non officiers dans les grades de sapeur et de caporal sont assimilés à des services accomplis en position de détachement dans le cadre d'emplois des sapeurs et caporaux de sapeurs-pompiers professionnels régi par le présent décret ainsi que dans les grades de ce cadre d'emplois.

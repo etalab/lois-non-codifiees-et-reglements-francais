@@ -1,0 +1,7 @@
+# Article 26
+
+I. ― A compter de la date d'entrée en vigueur du présent décret et durant sept années au plus, peuvent être inscrits sur la liste d'aptitude pour l'accès au grade de lieutenant de 2e classe dans le cadre d'emplois des lieutenants de sapeurs-pompiers professionnels régi par le présent décret, établie en application du 1° de l'article 39 de la loi du 26 janvier 1984 susvisée, les adjudants de sapeurs-pompiers professionnels, occupant, au 1er janvier de l'année au titre de laquelle la sélection est organisée, l'emploi de chef de groupe, de chef de salle, de chef de service ou de chef de centre d'incendie et de secours ainsi que ceux ayant été admis aux concours professionnels d'accès au grade de sergent de sapeurs-pompiers professionnels organisés jusqu'au 1er janvier 2002, justifiant d'au moins dix ans de services effectifs en qualité de sous-officiers au 31 janvier 2012.
+
+II. ― A compter de la date d'entrée en vigueur du présent décret et au plus tard au terme de la cinquième année, il n'est fait application des dispositions du quatrième alinéa de l'article 4 et de l'article 6 que si l'ensemble des sous-officiers mentionnés au I du service départemental d'incendie et de secours, sont inscrits sur liste d'aptitude.
+
+III. ― Pour l'application des dispositions de l'article R. 1424-23-1, les agents nommés en application du I ne peuvent être comptabilisés qu'au terme de la période transitoire telle que définie par le présent article.
