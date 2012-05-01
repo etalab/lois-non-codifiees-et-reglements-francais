@@ -13,19 +13,3 @@ Sur sa demande, le préfet de département reçoit des maires et du président d
 Sur leur demande, le président du conseil général et les maires reçoivent du préfet de département les informations nécessaires à l'exercice de leurs attributions.
 
 III.-Le représentant de l'Etat dans le département peut, dans le cas où il n'y aurait pas été pourvu par le président du conseil général, et après une mise en demeure restée sans résultat, exercer les attributions dévolues au président du conseil général en matière de police en vertu des dispositions de l'article 25 de la présente loi.
-
-Sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la mission de police judiciaire et des dispositions du code général des collectivités territoriales relatives à la prévention de la délinquance, le représentant de l'Etat dans le département, et, à Paris, le préfet de police, anime et coordonne l'ensemble du dispositif de sécurité intérieure.
-
-A cet effet, sans préjudice des missions de la gendarmerie relevant de la défense nationale, il fixe les missions autres que celles qui sont relatives à l'exercice de la police judiciaire et coordonne l'action des différents services et forces dont dispose l'Etat en matière de sécurité intérieure.
-
-Il dirige l'action des services de la police nationale et des unités de la gendarmerie nationale en matière d'ordre public et de police administrative. Dans le respect du statut militaire pour ce qui concerne la gendarmerie nationale, les responsables départementaux de ces services et unités sont placés sous son autorité et lui rendent compte de l'exécution et des résultats de leurs missions en ces matières.
-
-Il s'assure, en tant que de besoin, du concours des services déconcentrés de la douane et des droits indirects, des services fiscaux, des services de la concurrence, de la consommation et de la répression des fraudes, des directions départementales du travail, de l'emploi et de la formation professionnelle et des agents de l'Etat chargés de la police de la chasse et de la pêche maritime et fluviale ainsi que des agents de l'Etat chargés de la police de l'eau et de ceux qui assurent des responsabilités en matière de sécurité sanitaire, aux missions de sécurité intérieure.
-
-Les préfets de zone coordonnent l'action des préfets des départements de leur zone pour prévenir les événements troublant l'ordre public ou y faire face, lorsque ces événements intéressent au moins deux départements de cette même zone.
-
-IV. - Par dérogation aux dispositions des I et III, le préfet de police a en outre la charge de l'ordre public dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne et y dirige l'action des services de la police nationale et des unités de la gendarmerie nationale. En outre, il y coordonne l'ensemble du dispositif de sécurité intérieure, en particulier l'action des différents services et forces dont dispose l'Etat en matière de sécurité intérieure.
-
-En outre, le préfet de police, en sa qualité de préfet de la zone de défense de Paris, dirige les actions et l'emploi des moyens de la police et de la gendarmerie nationales, d'une part, pour leurs interventions concourant à la régulation et la sécurité de la circulation sur les routes de la région d'Ile-de-France dont la liste est fixée par l'autorité administrative, d'autre part, pour leurs missions concourant à la sécurité des personnes et des biens dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France.
-
-V. - Un décret en Conseil d'Etat peut déroger aux dispositions des I et III en tant qu'elles fixent les limites territoriales de la compétence du préfet de département en matière d'ordre public.

@@ -1,6 +1,6 @@
 # Article 5
 
-Les mineurs, même émancipés, ne peuvent prendre part à des jeux d'argent et de hasard dont l'offre publique est autorisée par la loi, à l'exception des jeux de loterie mentionnés aux articles 5, 6 et 7 de la loi du 21 mai 1836 portant prohibition des loteries.
+Les mineurs, même émancipés, ne peuvent prendre part à des jeux d'argent et de hasard dont l'offre publique est autorisée par la loi, à l'exception des jeux de loterie mentionnés aux articles L. 322-3, L. 322-4, L. 322-5 du code de la sécurité intérieure.
 
 Les opérateurs de jeux d'argent et de hasard légalement autorisés sont tenus de faire obstacle à la participation de mineurs, même émancipés, aux activités de jeu ou de pari qu'ils proposent. Ils ne peuvent financer l'organisation ou parrainer la tenue d'événements à destination spécifique des mineurs.
 

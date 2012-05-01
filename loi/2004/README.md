@@ -37,5 +37,4 @@
 - [Loi n° 82-471 du 7 juin 1982](loi-n-82-471-du-7-juin-1982)
 - [Loi n° 90-384 du 10 mai 1990 (ETRX9010154L)](loi-n-90-384-du-10-mai-1990-etrx9010154l)
 - [Loi n° 90-568 du 2 juillet 1990 (PTTX9000053L)](loi-n-90-568-du-2-juillet-1990-pttx9000053l)
-- [Loi n° 91-646 du 10 juillet 1991 (JUSX9100068L)](loi-n-91-646-du-10-juillet-1991-jusx9100068l)
 - [Loi n° 97-302 du 4 avril 1997 (MAEX9701967L)](loi-n-97-302-du-4-avril-1997-maex9701967l)

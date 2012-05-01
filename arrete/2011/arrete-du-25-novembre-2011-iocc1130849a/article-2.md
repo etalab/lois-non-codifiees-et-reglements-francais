@@ -1,6 +1,6 @@
 # Article 2
 
-L'indemnité journalière versée aux réservistes volontaires de la police nationale mentionnés à l'article 4-2 de la loi du 18 mars 2003 susvisée s'établit de la manière suivante :
+L'indemnité journalière versée aux réservistes volontaires de la police nationale mentionnés à l'article L. 411-9 du code de la sécurité intérieure s'établit de la manière suivante :
 
 1° S'ils exercent leurs missions dans le ressort territorial des secrétariats généraux pour l'administration de la police de Paris et de Versailles :
 

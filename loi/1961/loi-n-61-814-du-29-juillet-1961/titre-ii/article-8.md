@@ -16,12 +16,4 @@ Il assure, au nom de l'Etat, dans les conditions prévues par la législation ou
 
 L'administrateur supérieur est habilité à engager l'Etat envers le territoire des îles Wallis et Futuna et à s'exprimer au nom de l'Etat devant l'assemblée territoriale.
 
-Sous réserve des dispositions du code de procédure pénale relatives à l'exercice des missions de la police judiciaire, l'administrateur supérieur anime et coordonne la politique de prévention de la délinquance et l'ensemble du dispositif de sécurité intérieure.
-
-A cet effet, sans préjudice des missions de la gendarmerie relevant de la défense nationale, il fixe les missions autres que celles qui sont relatives à l'exercice de la police judiciaire et coordonne l'action des différents services et forces dont dispose l'Etat, en matière de sécurité intérieure.
-
-Il dirige l'action de la gendarmerie nationale et de la garde territoriale en matière d'ordre public et de police administrative. Dans le respect du statut militaire pour ce qui concerne la gendarmerie nationale, le responsable du commandement de la gendarmerie nationale et celui des services de la garde territoriale sont placés sous son autorité et lui rendent compte de l'exécution et des résultats de leurs missions en ces matières.
-
-Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et des missions de sécurité intérieure, il s'assure, en tant que de besoin, du concours des agents des services fiscaux, des services des douanes, des services des affaires économiques, du service de l'inspection du travail et des services chargés de la police de la chasse et de la pêche maritime et fluviale ainsi que des agents chargés de la police de l'eau et de ceux qui assurent des responsabilités en matière de sécurité sanitaire des îles Wallis et Futuna.
-
-L'administrateur supérieur des îles Wallis et Futuna est représenté dans les circonscriptions d'Alo et de Sigave par un délégué.
+L'administrateur supérieur anime et coordonne la politique de prévention de la délinquance et l'ensemble du dispositif de sécurité intérieure dans les conditions prévues à l'article L. 122-1 du code de la sécurité intérieure, dans sa rédaction résultant du 4° de l'article L. 157-2 du même code.

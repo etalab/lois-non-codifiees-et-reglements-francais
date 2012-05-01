@@ -252,6 +252,7 @@
 - [Arrêté du 23 novembre 2006 (SANP0624915A)](arrete-du-23-novembre-2006-sanp0624915a)
 - [Arrêté du 23 octobre 2006 (AGRF0602336A)](arrete-du-23-octobre-2006-agrf0602336a)
 - [Arrêté du 23 octobre 2006 (DEFB0601415A)](arrete-du-23-octobre-2006-defb0601415a)
+- [Arrêté du 23 octobre 2006 (INTC0600875A)](arrete-du-23-octobre-2006-intc0600875a)
 - [Arrêté du 23 octobre 2006 (INTE0630165A)](arrete-du-23-octobre-2006-inte0630165a)
 - [Arrêté du 23 octobre 2006 (SANP0624375A)](arrete-du-23-octobre-2006-sanp0624375a)
 - [Arrêté du 23 mai 2006 (MCCB0600407A)](arrete-du-23-mai-2006-mccb0600407a)

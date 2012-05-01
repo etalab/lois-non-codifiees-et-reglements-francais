@@ -1,6 +1,5 @@
 # 1994
 
-- [Loi n° 83-628 du 12 juillet 1983](loi-n-83-628-du-12-juillet-1983)
 - [Loi n° 92-1336 du 16 décembre 1992 (JUSX9200040L)](loi-n-92-1336-du-16-decembre-1992-jusx9200040l)
 - [Loi n° 92-683 du 22 juillet 1992 (JUSX8900136L)](loi-n-92-683-du-22-juillet-1992-jusx8900136l)
 - [Loi n° 92-684 du 22 juillet 1992 (JUSX8900010L)](loi-n-92-684-du-22-juillet-1992-jusx8900010l)

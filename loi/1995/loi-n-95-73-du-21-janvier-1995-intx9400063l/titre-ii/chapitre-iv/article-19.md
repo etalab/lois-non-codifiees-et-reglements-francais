@@ -1,7 +1,5 @@
 # Article 19
 
-La police nationale comprend des personnels actifs, des personnels administratifs, techniques et scientifiques et des appelés du service national affectés comme policiers auxiliaires.
-
 Les personnels actifs de la police nationale appartiennent à des corps organisés par niveaux hiérarchiques sans distinction de leur affectation à des fonctions en civil ou à des fonctions en tenue.
 
 En raison du caractère particulier de leurs missions et des responsabilités exceptionnelles qu'ils assument, les personnels actifs de la police nationale constituent dans la fonction publique une catégorie spéciale.

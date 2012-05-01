@@ -1,7 +1,5 @@
 # Section 1 : Dispositions diverses.
 
-- [Article 71](article-71.md)
-- [Article 72](article-72.md)
 - [Article 72-1](article-72-1.md)
 - [Article 72-2](article-72-2.md)
 - [Article 72-3](article-72-3.md)

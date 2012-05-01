@@ -2,7 +2,7 @@
 
 Ne peuvent soumissionner à un marché passé par un pouvoir adjudicateur défini à l'article 3 ou par une entité adjudicatrice définie à l'article 4 :
 
-1° Les personnes qui ont fait l'objet, depuis moins de cinq ans, d'une condamnation définitive pour l'une des infractions prévues aux articles 222-38,222-40,226-13,313-1 à 313-3,314-1 à 314-3,324-1 à 324-6,413-9 à 413-12,421-1 à 421-2-3, au deuxième alinéa de l'article 421-5, à l'article 433-1, au second alinéa de l'article 433-2, au huitième alinéa de l'article 434-9, au second alinéa de l'article 434-9-1, aux articles 435-3,435-4,435-9,435-10,441-1 à 441-7,441-9,445-1 et 450-1 du code pénal, à l'article 1741 du code général des impôts et aux articles L. 2339-2 à L. 2339-4, L. 2339-9, L. 2339-11-1 à L. 2339-11-3 du code de la défense ;
+1° Les personnes qui ont fait l'objet, depuis moins de cinq ans, d'une condamnation définitive pour l'une des infractions prévues aux articles 222-38, 222-40,226-13, 313-1 à 313-3, 314-1 à 314-3,324-1 à 324-6,413-9 à 413-12, 421-1 à 421-2-3, au deuxième alinéa de l'article 421-5, à l'article 433-1, au second alinéa de l'article 433-2, au huitième alinéa de l'article 434-9, au second alinéa de l'article 434-9-1, aux articles 435-3, 435-4, 435-9, 435-10, 441-1 à 441-7, 441-9,445-1 et 450-1 du code pénal, à l'article 1741 du code général des impôts et aux articles L. 2339-2 à L. 2339-4, L. 2339-11-1 à L. 2339-11-3 du code de la défense et L. 317-8 du code de la sécurité intérieure ;
 
 2° Les personnes qui ont fait l'objet, depuis moins de cinq ans, d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour les infractions mentionnées aux articles L. 8221-1, L. 8221-3, L. 8221-5, L. 8231-1, L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail ;
 
