@@ -264,6 +264,7 @@
 - [Décret n°2012-555 du 23 avril 2012 (TRAD1202152D)](decret-n2012-555-du-23-avril-2012-trad1202152d)
 - [Décret n°2012-556 du 23 avril 2012 (TRAT1121043D)](decret-n2012-556-du-23-avril-2012-trat1121043d)
 - [Décret n°83-1146 du 23 décembre 1983](decret-n83-1146-du-23-decembre-1983)
+- [Décret n°2009-1643 du 24 décembre 2009 (MCCX0924891D)](decret-n2009-1643-du-24-decembre-2009-mccx0924891d)
 - [Décret n°2012-262 du 24 février 2012 (TRAX1205826D)](decret-n2012-262-du-24-fevrier-2012-trax1205826d)
 - [Décret n°2012-263 du 24 février 2012 (LOGX1205824D)](decret-n2012-263-du-24-fevrier-2012-logx1205824d)
 - [Décret n°2012-268 du 24 février 2012 (JUST1129393D)](decret-n2012-268-du-24-fevrier-2012-just1129393d)
