@@ -1531,7 +1531,6 @@
 - [Décret n°2007-639 du 30 avril 2007 (DEFH0750401D)](decret-n2007-639-du-30-avril-2007-defh0750401d)
 - [Décret n°2007-640 du 30 avril 2007 (DEFH0750393D)](decret-n2007-640-du-30-avril-2007-defh0750393d)
 - [Décret n°2007-642 du 30 avril 2007 (BUDL0750784D)](decret-n2007-642-du-30-avril-2007-budl0750784d)
-- [Décret n°2007-643 du 30 avril 2007 (MENS0751804D)](decret-n2007-643-du-30-avril-2007-mens0751804d)
 - [Décret n°2007-644 du 30 avril 2007 (JUSC0752563D)](decret-n2007-644-du-30-avril-2007-jusc0752563d)
 - [Décret n°2007-646 du 30 avril 2007 (MCCB0751490D)](decret-n2007-646-du-30-avril-2007-mccb0751490d)
 - [Décret n°2007-647 du 30 avril 2007 (SANS0721103D)](decret-n2007-647-du-30-avril-2007-sans0721103d)
