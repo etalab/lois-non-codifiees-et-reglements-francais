@@ -58,11 +58,11 @@ Enfin, concernant la fonction publique territoriale, on rappellera que, la fili�
 
 Un certain nombre d'appellations ont aujourd'hui cours :
 
-directeur, chef de projet, directeur d'équipement, délégué régional, délégué départemental, responsable de secteur, directeur de service, directeur de structure, directeur d'associations.
+directeur, chef de projet, directeur d'équipement, délégué régional, délégué départemental, responsable de secteur, directeur de service, directeur de structure, directeur d'associations...
 
 2.2. Entreprises et structures employeuses
 
-Les activités s'exercent notamment dans le cadre d'associations de jeunesse, d'éducation populaire ou de sport, de collectivités publiques, de regroupements intercommunaux, du secteur médico-social, d'entreprises du secteur marchand ou de l'économie sociale et solidaire ...
+Les activités s'exercent notamment dans le cadre d'associations de jeunesse, d'éducation populaire ou de sport, de collectivités publiques, de regroupements intercommunaux, du secteur médico-social, d'entreprises du secteur marchand ou de l'économie sociale et solidaire.
 
 2.3. Publics concernés
 
@@ -80,7 +80,7 @@ Si les fonctions de direction sont par nature multiples et complexes, elles s'av
 
 - les directeurs exercent leurs activités professionnelles sous l'autorité (la subordination juridique) d'un conseil d'administration, d'un président ou d'une personne déléguée à cet effet. Cette posture particulière vis-à-vis des élus avec lesquels il se situe dans une relation d'interdépendance impose des compétences particulières en termes de "gestion de relations avec une autorité élue".
 
-Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenariale qu'il anime pour :
+Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenarial et de sensibilisation à l'environnement et au développement durable qu'il anime pour :
 
 - préparer la prise de décision stratégique ;
 

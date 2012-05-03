@@ -74,7 +74,7 @@ L'importance des activités de coordination dans le champ de l'animation et du s
 
 Leurs actions s'inscrivent dans le cadre des valeurs et des objectifs fixés par les instances dirigeantes au regard du ou des champs d'intervention dans lesquels s'inscrit l'activité de l'organisation. Ces professionnels sont donc amenés à intervenir à partir de logiques d'action multiples : l'émancipation de la personne, la coopération entre groupes sociaux, la solidarité, la justice, la cohésion sociale, le développement de la citoyenneté ...
 
-Les modes d'intervention qu'ils développent s'inscrivent dans une logique de travail collective et partenariale pour :
+Les modes d'intervention qu'ils développent s'inscrivent dans une logique de travail collectif et partenarial et de sensibilisation à l'environnement et au développement durable pour :
 
 - concevoir un projet d'action dans le cadre des objectifs de l'organisation ;
 
