@@ -14,7 +14,7 @@ La sous-direction du système électrique et des énergies renouvelables :
 
 ― prépare la représentation du ministère au sein des organes sociaux d'Electricité de Mayotte et la fonction de commissaire du Gouvernement au sein des organes sociaux de la Compagnie nationale du Rhône ;
 
-― négocie et assure le suivi des « contrats de service public » conclus entre l'Etat, Electricité de France et ses filiales de transport et de distribution ;
+― négocie et assure le suivi des " contrats de service public " conclus entre l'Etat, Electricité de France et ses filiales de transport et de distribution ;
 
 ― coordonne la stratégie nationale de recherche en énergie et assure sa mise en œuvre dans les nouvelles technologies de l'énergie.
 
@@ -22,10 +22,12 @@ La sous-direction dispose de l'appui technique du service technique de l'énergi
 
 Elle comprend :
 
-― le bureau « production électrique » ;
+― le bureau " production électrique " ;
 
-― le bureau « énergies renouvelables » ;
+― le bureau " énergies renouvelables " ;
 
-― le bureau « réseaux de transport et de distribution électriques » ;
+― le bureau " réseaux de transport et de distribution électriques " ;
 
-― le bureau « réglementation de l'énergie et des marchés ».
+― le bureau " réglementation de l'énergie et des marchés " ;
+
+― mission du financement de l'électrification rurale.
