@@ -2885,8 +2885,6 @@
 - [Arrêté du 31 août 2009 (ECED0920236A)](arrete-du-31-aout-2009-eced0920236a)
 - [Arrêté du 31 août 2009 (ECED0920237A)](arrete-du-31-aout-2009-eced0920237a)
 - [Arrêté du 31 août 2009 (ESRH0920805A)](arrete-du-31-aout-2009-esrh0920805a)
-- [Arrêté du 31 décembre 1996 (MIPP9600504A)](arrete-du-31-decembre-1996-mipp9600504a)
-- [Arrêté du 31 décembre 1996 (MIPP9600505A)](arrete-du-31-decembre-1996-mipp9600505a)
 - [Arrêté du 31 décembre 2003 (SOCF0312110A)](arrete-du-31-decembre-2003-socf0312110a)
 - [Arrêté du 31 décembre 2008 (DEVA0828650A)](arrete-du-31-decembre-2008-deva0828650a)
 - [Arrêté du 31 décembre 2008 (ECEC0831181A)](arrete-du-31-decembre-2008-ecec0831181a)
