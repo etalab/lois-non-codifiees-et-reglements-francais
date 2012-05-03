@@ -3187,7 +3187,6 @@
 - [Arrêté du 1er septembre 2011 (ETSD1123102A)](arrete-du-1er-septembre-2011-etsd1123102a)
 - [Arrêté du 1er septembre 2011 (ETSD1126002A)](arrete-du-1er-septembre-2011-etsd1126002a)
 - [Arrêté du 1er septembre 2011 (ETSD1126196A)](arrete-du-1er-septembre-2011-etsd1126196a)
-- [Arrêté du 1er septembre 2011 (ETSP1123523A)](arrete-du-1er-septembre-2011-etsp1123523a)
 - [Arrêté du 1er septembre 2011 (IOCL1121814A)](arrete-du-1er-septembre-2011-iocl1121814a)
 - [Arrêté du 1er septembre 2011 (JUSF1124529A)](arrete-du-1er-septembre-2011-jusf1124529a)
 - [Arrêté du 1er septembre 2011 (JUSF1124530A)](arrete-du-1er-septembre-2011-jusf1124530a)

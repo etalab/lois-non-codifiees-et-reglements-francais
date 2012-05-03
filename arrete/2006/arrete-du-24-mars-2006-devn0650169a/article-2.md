@@ -341,9 +341,7 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <td valign="top" width="170">
 <p>15 septembre à 7 heures</p>
 </td>
-<td valign="top" width="170">
-<p>15 septembre à 7 heures </p>
-</td>
+<td valign="top" width="170">15 septembre à 7 heures </td>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -355,9 +353,7 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <td valign="top" width="170">
 <p>15 septembre à 7 heures</p>
 </td>
-<td valign="top" width="170">
-<p>15 septembre à 7 heures </p>
-</td>
+<td valign="top" width="170">15 septembre à 7 heures </td>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -568,13 +564,13 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <p>Vanneau huppé</p>
 </td>
 <td valign="top" width="170">
-<p>15 octobre à 7 h 30</p>
+<p align="center">ouverture générale </p>
 </td>
 <td valign="top" width="170">
-<p>15 octobre à 7 h 30</p>
+<p align="center">ouverture générale </p>
 </td>
 <td valign="top" width="170">
-<p>15 octobre à 7 h 30</p>
+<p align="center">ouverture générale </p>
 </td>
 </tr>
 <tr>
