@@ -1,0 +1,3 @@
+# TITRE XIV : LA VALIDATION DES ACQUIS DE L'EXPÉRIENCE
+
+- [Article 27](article-27.md)
