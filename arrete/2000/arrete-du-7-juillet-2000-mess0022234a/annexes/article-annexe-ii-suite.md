@@ -348,9 +348,7 @@ Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enc
 
 Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
 
-Boulogne et Huard. ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau.
-
-De 1975 à 1996.
+Boulogne et Huard. ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau. De 1975 à 1996.
 
 Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983.
 
@@ -478,7 +476,7 @@ des ateliers de tuyauterie et chaudronnerie, enceinte portuaire, Forme 9, 13015 
 
 Ateliers de tuyautage et de chaudronnerie (ATC), 87, rue d'Alger, 13005 Marseille : de 1951 à 1987.
 
-DIMAR. Forme 7, enceinte portuaire, 13002 Marseille. De 1973 à 1976. Forme 8, enceinte portuaire, 13002 Marseille. De 1976 à 1980. Forme 9, enceinte portuaire, 13002 Marseille. De 1980 à 1996.
+DIMAR ENTREPRISES Enceinte portuaire Forme 7/Forme 8/Forme 9 13002 MARSEILLE Et Enceinte portuaire BP 144 13315 MARSEILLE CEDEX 15 De 1973 à 1996.
 
 Durbec et Cie/Ateliers Durbex et nouvel établissement, 22, boulevard Mouren, 13005 Marseille, Marseille, de 1950 à 1972.
 
@@ -776,7 +774,7 @@ CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment Primin
 
 Philippou :
 
-- route du Cimetière, puis quartier Jeausseranne, 13110 Port-de-Bouc : de 1967 à 1980.
+- route du Cimetière, puis quartier Jeausseranne, 13110 Port-de-Bouc : de 1967 à 1980
 
 Plaisance peinture nettoyage, 17, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1995.
 
