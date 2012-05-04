@@ -1,0 +1,5 @@
+# Article 1
+
+Dans la conduite de leurs enquêtes, les enquêteurs de la concurrence, de la consommation et de la répression des fraudes peuvent être assistés par tout fonctionnaire de la direction générale de la concurrence, de la consommation et de la répression des fraudes, d'une direction régionale des entreprises, de la concurrence, de la co0nsommation, du travail et de l'emploi, d'une direction départementale interministérielle chargée de la protection des populations, d'une direction des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, de la direction de la cohésion sociale, du travail, de l'emploi et de la population, par tout agent public non titulaire régi par le décret n° 86-83 du 17 janvier 1986 et affecté dans l'une de ces directions, ainsi que par tout fonctionnaire stagiaire accueilli dans l'une de ces directions.
+
+Les personnes assistant ainsi aux enquêtes ne peuvent réaliser aucun acte de procédure pénale ou de police administrative et sont tenues de ne pas divulguer les informations dont elles ont eu connaissance.
