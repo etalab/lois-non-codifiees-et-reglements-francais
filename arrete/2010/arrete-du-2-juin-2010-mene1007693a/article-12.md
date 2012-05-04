@@ -1,3 +1,3 @@
 # Article 12
 
-La possibilité et les modalités de l'attribution d'une mention, ou de toute autre indication additionnelle, sur le diplôme du Bachillerato sont établies conjointement par l'Espagne et la France et sont publiées par arrêté du ministre chargé de l'éducation.
+Pour les candidats scolarisés dans les établissements français, la moyenne générale obtenue à l'examen du Bachillerato, qui est noté sur 10 points, est la moyenne générale obtenue au baccalauréat divisée par deux. La série du Bachillerato est définie conformément au tableau de correspondance en annexe du présent arrêté.
