@@ -400,6 +400,8 @@ Hôpital d'instruction des armées Sainte-Anne, 2, boulevard Sainte-Anne, BP 600
 
 Service communal d'hygiène et de santé (service de vaccination antiamarile), 116, rue Carreterie, 84000 Avignon.
 
+Centre hospitalier, service médecine et consultations externes, 18, Grand-Rue, BP 73, 84110 Vaison-la-Romaine.
+
 85 - Vendée
 
 Service de prévention médico-social de Vendée, sis 18, rue du Général-Gallieni, 85000 La Roche-sur-Yon.
