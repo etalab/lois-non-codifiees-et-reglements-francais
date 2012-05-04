@@ -1,14 +1,14 @@
 # Article 
 
-A N N E X E
-
 LISTE DES MALADIES RADIO-INDUITES MENTIONNÉES À L'ARTICLE 1er DE LA LOI N° 2010-2 DU 5 JANVIER 2010 RELATIVE À LA RECONNAISSANCE ET À L'INDEMNISATION DES VICTIMES DES ESSAIS NUCLÉAIRES FRANÇAIS
 
 Désignation des maladies
 
 Leucémies (sauf leucémie lymphoïde chronique car considérée comme non radio-induite).
 
-Cancer du sein (chez la femme).
+Myélodysplasies.
+
+Cancer du sein.
 
 Cancer du corps thyroïde pour une exposition pendant la période de croissance.
 
@@ -41,3 +41,7 @@ Cancer de l'intestin grêle.
 Cancer du rectum.
 
 Cancer du rein.
+
+Lymphomes non hodgkiniens.
+
+Myélomes.
