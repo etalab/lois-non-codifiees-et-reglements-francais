@@ -762,6 +762,10 @@ SARL Dourmap et Cie :
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
+SARL Michel LE BEC mécanique marine T e r r e - p l e i n O u e s t , p o r t d e L e s c o n i l , 29740 Plobannalec
+
+De 1980 à 2000
+
 SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
 SCOP Chaudronnerie de l'Iroise 14, impasse des Alouettes, 29100 Pouillan-sur-Mer. Depuis 1990.
@@ -808,7 +812,7 @@ SIMEG (Société industrielle de mécanique générale). ZI de Kersalé, 29900 C
 
 SLEN (Société lorientaise d'entretien naval), 15, quai du Pourquoi-Pas, 56100 Lorient : depuis 1977.
 
-SLPM (Société de location de personnels et de matériels). 8, avenue de Kergroise,56100 Lorient. De 1980 à 1998.
+SLPM (Société de location de personnels et de matériels). 8, avenue de Kergroise, 56100 Lorient. De 1980 à 1998.
 
 SLTIM (Société lorientaise de techniques industrielles et marines Rue de Seignelelay, puis 8 B, rue Emile-Marcesche, puis 27, rue Ingénieur-Verrière, 56100 Lorient. De 1990 à 1996.
 

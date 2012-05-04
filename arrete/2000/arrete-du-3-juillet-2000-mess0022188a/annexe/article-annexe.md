@@ -408,6 +408,8 @@ Isoroy établissement de Casteljaloux, route du Cocumont, BP 25, 47700 Castel : 
 
 Kaeffer SA Abidos, BP 25, 64170 Lacq : de 1980 à 1999 ;
 
+Pierrefitte-Bassens devenue Gironde-Languedoc, puis Compagnie française de l'Azote (Cofaz), devenue NHA Norsk Hydro Azote, devenue Hydro Azote, devenue Hydro Agri France, Avenue des industries, Ambarès, 33565 Carbon-Blanc : de 1963 à 1994 ;
+
 PONTICELLI agence Sud-Ouest? Lieudit Les Isards, 33810 Ambes / DE 1956 0 1996 ;
 
 Sadefa Industries, 1, avenue de l'Usine, BP 21, 47500 Fumel, de 1847 à 1997 ;
@@ -1107,6 +1109,8 @@ SA Provisol, Le Panorama, quartier de Gabelles, 13340 Rognac : de 1965 à 1975 ;
 Saint-Gobain Industrie, puis Isover Saint-Gobain, Usine d'Orange, 235, rue du Portugal, ZI, BP 202, 84107 Orange Cedex : de 1972 à 1996 ;
 
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
+
+SARL Plisson, Quartier du Trébon, route de Tarascon, 13200 Arles : de 1987 à 1996 ;
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
