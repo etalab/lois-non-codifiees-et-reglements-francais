@@ -86,7 +86,6 @@
 - [Arrêté du 6 février 2001 (MESP0120407A)](arrete-du-6-fevrier-2001-mesp0120407a)
 - [Arrêté du 6 février 2001 (MESP0120409A)](arrete-du-6-fevrier-2001-mesp0120409a)
 - [Arrêté du 6 février 2001 (MESP0120410A)](arrete-du-6-fevrier-2001-mesp0120410a)
-- [Arrêté du 6 juillet 2000 (MENF0001968A)](arrete-du-6-juillet-2000-menf0001968a)
 - [Arrêté du 6 juillet 2001 (AGRG0101352A)](arrete-du-6-juillet-2001-agrg0101352a)
 - [Arrêté du 6 juillet 2001 (MESH0122595A)](arrete-du-6-juillet-2001-mesh0122595a)
 - [Arrêté du 6 juin 2001 (AGRG0101113A)](arrete-du-6-juin-2001-agrg0101113a)
