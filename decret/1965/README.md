@@ -21,7 +21,6 @@
 - [Décret n°66-788 du 14 octobre 1966](decret-n66-788-du-14-octobre-1966)
 - [Décret n°66-789 du 14 octobre 1966](decret-n66-789-du-14-octobre-1966)
 - [Décret n°65-487 du 18 juin 1965](decret-n65-487-du-18-juin-1965)
-- [Décret n°65-881 du 18 octobre 1965](decret-n65-881-du-18-octobre-1965)
 - [Décret n°67-711 du 18 août 1967](decret-n67-711-du-18-aout-1967)
 - [Décret n°65-383 du 20 mai 1965](decret-n65-383-du-20-mai-1965)
 - [Décret n°65-382 du 21 mai 1965](decret-n65-382-du-21-mai-1965)

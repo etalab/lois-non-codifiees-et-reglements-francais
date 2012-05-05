@@ -294,7 +294,6 @@
 - [Décret n°89-513 du 24 juillet 1989 (DOMP8900019D)](decret-n89-513-du-24-juillet-1989-domp8900019d)
 - [Décret n°89-521 du 24 juillet 1989 (ECOA8900028D)](decret-n89-521-du-24-juillet-1989-ecoa8900028d)
 - [Décret n°89-526 du 24 juillet 1989 (SPSS8900827D)](decret-n89-526-du-24-juillet-1989-spss8900827d)
-- [Décret n°89-788 du 24 octobre 1989 (INDH8900605D)](decret-n89-788-du-24-octobre-1989-indh8900605d)
 - [Décret n°90-694 du 24 juillet 1990 (MENK9070069D)](decret-n90-694-du-24-juillet-1990-menk9070069d)
 - [Décret n°90-695 du 24 juillet 1990 (MENK9070070D)](decret-n90-695-du-24-juillet-1990-menk9070070d)
 - [Décret n°90-90 du 24 janvier 1990 (AGRA8902379D)](decret-n90-90-du-24-janvier-1990-agra8902379d)

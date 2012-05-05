@@ -4,7 +4,7 @@ Sont considérés comme grands projets d'infrastructures de transports :
 
 1. La création de voies rapides à 2 x 2 voies d'une longueur supérieure à 25 km, d'aérodromes de catégorie A, d'infrastructures ferroviaires d'intérêt général, de voies navigables de plus de 5 km accessibles aux bateaux de plus de 1000 tonnes de port en lourd ;
 
-2. Les canalisations d'intérêt général, autres que celles qui sont destinées aux transports de gaz régis par la loi n° 46-628 du 8 avril 1946 sur la nationalisation de l'électricité et du gaz, dont le coût est égal ou supérieur à 41 923 479,74 euros ; toutefois, ces dispositions ne s'appliquent pas aux ouvrages utilisés pour les besoins de la défense nationale ou en application de traités ou accords internationaux en matière de défense, régulièrement entrés en vigueur ;
+2.                                                      Les canalisations de transport pour lesquelles le maître d'ouvrage demande la déclaration d'utilité publique autres que celles destinées au transport de gaz naturel, dont le coût est égal ou supérieur à 42 000 000 euros ; toutefois, ces dispositions ne s'appliquent pas aux ouvrages utilisés pour les besoins de la défense nationale ou en application de traités ou accords internationaux en matière de défense, régulièrement entrés en vigueur ;
 
 3. Les projets d'infrastructures de transport dont le coût est égal ou supérieur à 83 084 714,39 euros.
 

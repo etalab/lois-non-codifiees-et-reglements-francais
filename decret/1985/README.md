@@ -66,7 +66,6 @@
 - [Décret n°85-525 du 13 mai 1985](decret-n85-525-du-13-mai-1985)
 - [Décret n°85-1198 du 14 novembre 1985](decret-n85-1198-du-14-novembre-1985)
 - [Décret n°85-872 du 14 août 1985](decret-n85-872-du-14-aout-1985)
-- [Décret n°85-1108 du 15 octobre 1985](decret-n85-1108-du-15-octobre-1985)
 - [Décret n°85-1294 du 15 décembre 1985](decret-n85-1294-du-15-decembre-1985)
 - [Décret n°85-527 du 15 mai 1985](decret-n85-527-du-15-mai-1985)
 - [Décret n°85-1343 du 16 décembre 1985](decret-n85-1343-du-16-decembre-1985)
