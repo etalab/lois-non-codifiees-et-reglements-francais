@@ -250,6 +250,8 @@ Evers-Silitex/Evers Isolation, rue Henri-Tournon, 76113 Epouville : de 1950 à 1
 
 Ferodo/Valeo, route de Bueil, 27640 Breuilpont : de 1970 à 1988 ;
 
+ISOMARBAT, 57-59, rue Armand-Barbes, 76600 Le Havre, de 1970 à 1997 ;
+
 Isotherma, 39, rue Paul-Doumer, 76700 Harfleur : de 1946 à 1997 ; - rue de Fleurus, 76600 Le Havre : de 1956 à 1997 ;
 
 Ouest-Isol, BP 15, 27460 Alizay : de 1959 à 1984 ;
@@ -258,13 +260,25 @@ Prodamia Silitex, 2, rue Paul-Bert, 76320 Caudebec-lès-Elbeuf : de 1960 à 1993
 
 Ravera Normandie, 76680 Saint-Hellier : de 1981 à 1996 ;
 
+SARL AGROVISOL, 375, rue Gustave-Eiffel, 76330 Notre-Dame-de-Gravenchon puis 16, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon, de 1995 à 1997 ;
+
+SARL ECHAFISOL, parc des Marais, 76700 Gonfreville-l'Orcher, de 1995 à 1997 ;
+
+SARL ISOMARBAT, 57-59, rue Armand-Barbes, 76600 Le Havre, de 1995 à 1997 ;
+
+SARL NORISOLEC, 16, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon, de 1995 à 1997 ;
+
+SARL TRAVISOLEC, 1, rue de l'Industrie, 76530 Grand-Couronne, de 1995 à 1997 ;
+
 Société d'exploitation des adhésifs (SEA), 14, avenue de l'Ile-de-France, 27200 Vernon : de 1962 à 1994 ;
 
 Silitex, BP 29, rue Henri-Ternon, 76133 Epouville : de 1950 à 1996 ;
 
 SNECI-Calo, ZI de Rogerville, 76700 Rogerville : de 1972 à 1997 ;
 
-Travisol/Echafisol/Norisol Isomarbat/Agrovisol Sud-Isopec/Norisolec : - 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon et 2, rue Lefort, 76530 Grand-Couronne : de 1950 à 1997 ;
+TRAVISOL, Lillebonne (76), puis TRAVISOL, rue Deshaies, 76330 Notre-Dame-de-Gravenchon, puis 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon, de 1964 à 1997 ;
+
+TRAVISOL SA, 2, rue Lefort, 76530 Grand-Couronne, de 1969 à 1997 ;
 
 Wanner/Wanner Isofi , rue de l'Essard, 76100 Rouen, puis rue de l'Industrie, 76530 Grand-Couronne : de 1967 à 1997.
 

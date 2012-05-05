@@ -40,8 +40,6 @@ d) A compter du 1er juillet 1996, tout tube souple d'alimentation d'appareil ne 
 
 Le tube et les dispositifs associés doivent satisfaire conjointement aux prescriptions de l'article 4 (1°) du présent arrêté.
 
-III. - A compter du 1er juillet 1996, la commercialisation d'abouts porte-caoutchouc destinés à raccorder un tube souple n'est autorisée que dans les cas ci-après :
+e) L'utilisation des tubes souples à base de caoutchouc sur des installations de combustibles gazeux à l'intérieur des bâtiments d'habitation ou de leurs dépendances est interdite à compter du 1er juillet 2019, à l'exception des tubes souples de 6 millimètres de diamètre intérieur pour appareils ménagers à butane ou à propane.
 
-- ceux-ci sont commercialisés par un constructeur d'appareils à gaz ou par son service après-vente à des fins d'équipement d'appareils neufs ou existants devant être reliés à un robinet de commande existant dont l'extrémité est constituée d'un about porte-caoutchouc non démontable ;
-
-- ceux-ci sont commercialisés conjointement à un détendeur à usage domestique pour butane commercial distribué à partir de récipients mobiles.
+III. - A compter du 1er juillet 2015, la commercialisation d'abouts porte-caoutchouc destinés à raccorder un tube souple à base de caoutchouc n'est autorisée que si ceux-ci sont commercialisés conjointement à un détendeur à usage domestique pour butane distribué à partir de récipients.

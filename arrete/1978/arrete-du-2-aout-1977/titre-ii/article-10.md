@@ -2,7 +2,7 @@
 
 Robinets de commande d'appareils
 
-I. a)  Tout appareil desservi par des tuyauteries fixes doit être commandé par un robinet disposé à proximité immédiate de l'appareil et aisément accessible.
+I. a) Tout appareil desservi par des tuyauteries fixes doit être commandé par un robinet disposé à proximité immédiate de l'appareil et aisément accessible.
 
 b) Lorsqu'un appareil raccordé en tube rigide est pourvu d'un robinet commandant l'arrivée du gaz, le robinet de commande prévu à l'alinéa précédent n'est pas exigé s'il est prévu l'obturation de la tuyauterie fixe par un bouchon vissé en cas de dépose de l'appareil.
 
@@ -48,7 +48,7 @@ V. a) A compter des dates précisées au point b ci-après, la fabrication ou l'
 
 Les robinets détendeurs à limiteur de débit incorporé, à réglage fixe, destinés à être montés sur des bouteilles de butane commercial équipées d'une valve à bille sont réputés satisfaire à l'exigence figurant au deuxième tiret ci-dessus si, après déclenchement, la fuite résiduelle de butane n'excède pas 30 grammes par heure.
 
-b) Les dates d'application des dispositions du point a  ci-avant sont les suivantes :
+b) Les dates d'application des dispositions du point a ci-avant sont les suivantes :
 
 - 1er juillet 1998 pour la fabrication ou l'importation en vue de la mise à la consommation sur le marché français des détendeurs précités ;
 
@@ -57,3 +57,5 @@ b) Les dates d'application des dispositions du point a  ci-avant sont les suivan
 - 1er mars 1999 pour la fabrication ou l'importation en vue de la mise à la consommation sur le marché français d'appareils d'utilisation du gaz munis de détendeurs intégrés en usine ;
 
 - 1er juillet 1999 pour la mise en vente, la vente, l'installation et la mise en service des appareils d'utilisation du gaz fabriqués antérieurement au 1er mars 1999 munis de détendeurs intégrés en usine.
+
+VI. L'utilisation des robinets à about porte-caoutchouc soudé sur des installations de combustibles gazeux alimentées par réseaux et situées à l'intérieur des bâtiments d'habitation ou de leurs dépendances est interdite à compter du 1er juillet 2015.
