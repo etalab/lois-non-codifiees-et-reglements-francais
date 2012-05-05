@@ -8,7 +8,7 @@ Les bonnes pratiques de laboratoire (BPL) forment un système de garantie de qua
 
 1.2. Principes de bonnes pratiques de laboratoire.
 
-Principes de bonnes pratiques de laboratoire compatibles avec les principes de l'Organisation de coopération et développement économique (OCDE) de bonnes pratiques de laboratoire, tels qu'ils sont adoptés par l'article 1er de la directive 2004/10/CE du Parlement et du Conseil du 11 février 2004.
+Principes de bonnes pratiques de laboratoire compatibles avec les principes de l'Organisation de coopération et développement économique (OCDE) de bonnes pratiques de laboratoire, tels qu'ils sont adoptés par l'article 1er de la directive 2004/10/ CE du Parlement et du Conseil du 11 février 2004.
 
 2. Termes relatifs à l'organisation d'une installation d'essai
 
@@ -66,7 +66,7 @@ ayant trait à la santé et à l'environnement
 
 3.1. Etude de sécurité non clinique.
 
-Une étude de sécurité non clinique ayant trait à la santé et à l'environnement, appelée simplement « étude » ci-après, consiste en une expérience ou un ensemble d'expériences au cours desquelles on examine un élément d'essai, en laboratoire ou dans l'environnement, en vue d'obtenir sur ses propriétés et/ou sur sa sécurité des données destinées à être soumises aux autorités réglementaires compétentes.
+Une étude de sécurité non clinique ayant trait à la santé et à l'environnement, appelée simplement « étude » ci-après, consiste en une expérience ou un ensemble d'expériences au cours desquelles on examine un élément d'essai, en laboratoire ou dans l'environnement, en vue d'obtenir sur ses propriétés et/ ou sur sa sécurité des données destinées à être soumises aux autorités réglementaires compétentes.
 
 3.2. Etude à court terme.
 
@@ -86,7 +86,7 @@ Une déviation au plan de l'étude est un écart non délibéré à ce plan, sur
 
 3.6. Lignes directrices pour les essais.
 
-Les lignes directrices sont établies par l'Agence française de sécurité sanitaire des aliments ou l'Agence européenne des médicaments sur la base des lignes directrices ou documents consensus établis par l'OCDE.
+Les lignes directrices sont établies par l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ou l'Agence européenne des médicaments sur la base des lignes directrices ou documents consensus établis par l'OCDE.
 
 3.7. Système d'essai.
 
@@ -144,15 +144,15 @@ Un véhicule représente tout agent dont on se sert comme milieu porteur pour m�
 
 5.1. Vérification du respect des BPL.
 
-La vérification du respect des bonnes pratiques de laboratoire consiste en l'inspection périodique d'installations d'essai et/ou la vérification d'études réalisées afin de s'assurer du respect des principes de bonnes pratiques de laboratoire.
+La vérification du respect des bonnes pratiques de laboratoire consiste en l'inspection périodique d'installations d'essai et/ ou la vérification d'études réalisées afin de s'assurer du respect des principes de bonnes pratiques de laboratoire.
 
 5.2. Programme de respect des BPL.
 
-Le programme de respect des bonnes pratiques de laboratoire est établi par l'Agence française de sécurité sanitaire des aliments pour vérifier le respect des bonnes pratiques de laboratoire par les installations d'essai situées en France et intervenant dans le domaine du médicament vétérinaire.
+Le programme de respect des bonnes pratiques de laboratoire est établi par l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail pour vérifier le respect des bonnes pratiques de laboratoire par les installations d'essai situées en France et intervenant dans le domaine du médicament vétérinaire.
 
 5.3. Autorité de vérification en matière de BPL.
 
-L'autorité de vérification en matière de bonnes pratiques de laboratoire pour le médicament vétérinaire est l'Agence française de sécurité sanitaire des aliments (AFSSA).
+L'autorité de vérification en matière de bonnes pratiques de laboratoire pour le médicament vétérinaire est l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (AFSSA).
 
 5.4. Inspection d'installation d'essai.
 
@@ -164,8 +164,8 @@ La vérification d'étude consiste en la comparaison des données brutes et des 
 
 5.6. Inspecteur.
 
-Les inspecteurs sont les personnes qui réalisent l'inspection des installations d'essai ou la vérification d'études pour le compte de l'Agence française de sécurité sanitaire des aliments. Ce sont les agents mentionnés à l'article L. 5146-1 du code de la santé publique.
+Les inspecteurs sont les personnes qui réalisent l'inspection des installations d'essai ou la vérification d'études pour le compte de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail. Ce sont les agents mentionnés à l'article L. 5146-1 du code de la santé publique.
 
 5.7. Degré de conformité aux BPL.
 
-Le degré de conformité aux BPL est le degré d'adhésion aux principes de bonnes pratiques de laboratoire d'une installation d'essai, qui est évalué par l'Agence française de sécurité sanitaire des aliments.
+Le degré de conformité aux BPL est le degré d'adhésion aux principes de bonnes pratiques de laboratoire d'une installation d'essai, qui est évalué par l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.

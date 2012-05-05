@@ -8,21 +8,21 @@ INTRODUCTION ET PRINCIPES GÉNÉRAUX
 
 2. Lorsqu'ils préparent le dossier de demande d'autorisation de mise sur le marché, les demandeurs prennent également en considération l'état actuel des connaissances sur les médicaments vétérinaires et les lignes directrices scientifiques relatives à la qualité, à la sécurité et à l'efficacité des médicaments vétérinaires adoptées par l'Agence européenne des médicaments, ainsi que les autres lignes directrices communautaires en matière pharmaceutique publiées par la Commission dans les différents volumes de La réglementation des médicaments dans l'Union européenne.
 
-3.S'agissant des médicaments vétérinaires autres que les médicaments vétérinaires immunologiques, toutes les monographies pertinentes, y compris les monographies générales et les chapitres généraux de la Pharmacopée européenne, sont applicables en ce qui concerne la partie du dossier relative à la qualité (essais physico-chimiques, biologiques et microbiologiques).S'agissant des médicaments vétérinaires immunologiques, toutes les monographies pertinentes, y compris les monographies générales et les chapitres généraux de la Pharmacopée européenne, sont applicables en ce qui concerne les parties du dossier consacrées à la qualité, à l'innocuité et à l'efficacité.
+3. S'agissant des médicaments vétérinaires autres que les médicaments vétérinaires immunologiques, toutes les monographies pertinentes, y compris les monographies générales et les chapitres généraux de la Pharmacopée européenne, sont applicables en ce qui concerne la partie du dossier relative à la qualité (essais physico-chimiques, biologiques et microbiologiques). S'agissant des médicaments vétérinaires immunologiques, toutes les monographies pertinentes, y compris les monographies générales et les chapitres généraux de la Pharmacopée européenne, sont applicables en ce qui concerne les parties du dossier consacrées à la qualité, à l'innocuité et à l'efficacité.
 
-4. Le procédé de fabrication est conforme aux exigences de l'article L. 5142-3 du code de la santé publique et de la décision du 22 septembre 2008 de la directrice générale de l'Agence française de sécurité sanitaire des aliments relative aux bonnes pratiques de fabrication des médicaments vétérinaires ou de la directive 91 / 412 / CEE de la Commission établissant les principes et lignes directrices de bonnes pratiques de fabrication pour les médicaments vétérinaires ainsi qu'aux principes et lignes directrices des bonnes pratiques de fabrication (BPF), publiés par la Commission dans La réglementation des médicaments dans l'Union européenne, volume 4.
+4. Le procédé de fabrication est conforme aux exigences de l'article L. 5142-3 du code de la santé publique et de la décision du 22 septembre 2008 de la directrice générale de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relative aux bonnes pratiques de fabrication des médicaments vétérinaires ou de la directive 91/412/ CEE de la Commission établissant les principes et lignes directrices de bonnes pratiques de fabrication pour les médicaments vétérinaires ainsi qu'aux principes et lignes directrices des bonnes pratiques de fabrication (BPF), publiés par la Commission dans La réglementation des médicaments dans l'Union européenne, volume 4.
 
 5. Toute information utile pour l'évaluation du médicament vétérinaire concerné, qu'elle soit favorable ou défavorable, est jointe à la demande. Il convient notamment de fournir tous les détails pertinents concernant tout contrôle ou essai incomplet ou abandonné, relatif au médicament vétérinaire.
 
 6. Les essais non cliniques, à savoir pharmacologiques, toxicologiques ainsi que les analyses de résidus et les essais d'innocuité, et les essais cliniques sont effectués en conformité avec les principes des bonnes pratiques applicables à chaque domaine d'activité.
 
-Pour les essais non cliniques, les essais sont exécutés en conformité avec les dispositions concernant les bonnes pratiques de laboratoire prévues par l'arrêté du 28 janvier 2005 relatif aux bonnes pratiques de laboratoire pour les médicaments vétérinaires et à leurs modalités d'inspection et de vérification ainsi qu'à la délivrance de documents attestant de leur respect ou de la directive 2004 / 10 / CE du Parlement européen et du Conseil du 11 février 2004 concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à l'application des principes de bonnes pratiques de laboratoire et au contrôle de leur application pour les essais sur les substances chimiques.
+Pour les essais non cliniques, les essais sont exécutés en conformité avec les dispositions concernant les bonnes pratiques de laboratoire prévues par l'arrêté du 28 janvier 2005 relatif aux bonnes pratiques de laboratoire pour les médicaments vétérinaires et à leurs modalités d'inspection et de vérification ainsi qu'à la délivrance de documents attestant de leur respect ou de la directive 2004/10/ CE du Parlement européen et du Conseil du 11 février 2004 concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à l'application des principes de bonnes pratiques de laboratoire et au contrôle de leur application pour les essais sur les substances chimiques.
 
-7. Toutes les expériences sur des animaux sont conduites dans le respect des dispositions relatives à l'expérimentation animale de la sous-section 3 de la section 5 du chapitre 4 du titre Ier du livre II du code rural et les arrêtés du 19 avril 1988 fixant les conditions d'attribution de l'autorisation de pratiquer des expériences sur les animaux et fixant les conditions d'agrément, d'aménagement et de fonctionnement des établissements d'expérimentation animale, l'arrêté du 8 juillet 1998 fixant les conditions d'autorisation de fonctionnement des animaleries de certaines unités de recherche, de développement et d'enseignement en matière d'encéphalopathies spongiformes subaiguës transmissibles ou la directive 86 / 609 / CEE du Conseil du 24 novembre 1986, modifiée par la directive 2003 / 65 / CE du Parlement européen et du Conseil du 22 juillet 2003, concernant le rapprochement des dispositions législatives, réglementaires et administratives des Etats membres relatives à la protection des animaux utilisés à des fins expérimentales ou à d'autres fins scientifiques.
+7. Toutes les expériences sur des animaux sont conduites dans le respect des dispositions relatives à l'expérimentation animale de la sous-section 3 de la section 5 du chapitre 4 du titre Ier du livre II du code rural et les arrêtés du 19 avril 1988 fixant les conditions d'attribution de l'autorisation de pratiquer des expériences sur les animaux et fixant les conditions d'agrément, d'aménagement et de fonctionnement des établissements d'expérimentation animale, l'arrêté du 8 juillet 1998 fixant les conditions d'autorisation de fonctionnement des animaleries de certaines unités de recherche, de développement et d'enseignement en matière d'encéphalopathies spongiformes subaiguës transmissibles ou la directive 86/609/ CEE du Conseil du 24 novembre 1986, modifiée par la directive 2003/65/ CE du Parlement européen et du Conseil du 22 juillet 2003, concernant le rapprochement des dispositions législatives, réglementaires et administratives des Etats membres relatives à la protection des animaux utilisés à des fins expérimentales ou à d'autres fins scientifiques.
 
-8. Aux fins du suivi de l'évaluation des risques et des bénéfices, toute nouvelle information ne figurant pas dans la demande d'origine et toute information relative à la pharmacovigilance sont communiquées à l'Agence française de sécurité sanitaire des aliments. Après l'octroi d'une autorisation de mise sur le marché, toute modification des données du dossier est soumise à l'Agence française de sécurité sanitaire des aliments, conformément aux exigences des articles R. 5141-35 et suivants du code de la santé publique et du règlement de la Commission (CE) n° 1234 / 2008 du 24 novembre 2008, en ce qui concerne les médicaments vétérinaires autorisés tels qu'ils sont définis à l'article 1er de ce règlement.
+8. Aux fins du suivi de l'évaluation des risques et des bénéfices, toute nouvelle information ne figurant pas dans la demande d'origine et toute information relative à la pharmacovigilance sont communiquées à l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail. Après l'octroi d'une autorisation de mise sur le marché, toute modification des données du dossier est soumise à l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, conformément aux exigences des articles R. 5141-35 et suivants du code de la santé publique et du règlement de la Commission (CE) n° 1234/2008 du 24 novembre 2008, en ce qui concerne les médicaments vétérinaires autorisés tels qu'ils sont définis à l'article 1er de ce règlement.
 
-9. Dans le cas des demandes d'autorisation de mise sur le marché des médicaments vétérinaires préconisés pour des espèces animales ou pour des indications représentant des créneaux de marché limités, une approche plus souple peut être adoptée. Dans de pareils cas, il convient de prendre en considération les lignes directrices et / ou les avis scientifiques pertinents.
+9. Dans le cas des demandes d'autorisation de mise sur le marché des médicaments vétérinaires préconisés pour des espèces animales ou pour des indications représentant des créneaux de marché limités, une approche plus souple peut être adoptée. Dans de pareils cas, il convient de prendre en considération les lignes directrices et/ ou les avis scientifiques pertinents.
 
 La présente annexe se divise en quatre titres :
 
@@ -34,7 +34,7 @@ Le titre III décrit des types spécifiques de dossiers d'autorisation de mise s
 
 Le titre IV décrit les exigences applicables aux dossiers de certains types de médicaments vétérinaires.
 
-Les références à la directive dans la présente annexe renvoient à la directive 2001 / 82 / CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments vétérinaires modifiée.
+Les références à la directive dans la présente annexe renvoient à la directive 2001/82/ CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments vétérinaires modifiée.
 
 TITRE Ier
 
@@ -66,7 +66,7 @@ La description du système de pharmacovigilance donne un aperçu de l'organisati
 
 Les renseignements fournis au titre de la pharmacovigilance sont établis et présentés conformément au volume 9B publié dans la Réglementation des médicaments dans l'Union européenne (Guidelines of pharmacovigilance for veterinary medicinal products for veterinary use).
 
-2. 1. Informations relatives à la personne chargée
+2.1. Informations relatives à la personne chargée
 
 de la pharmacovigilance vétérinaire
 
@@ -82,7 +82,7 @@ Cette rubrique comporte :
 
 ― une attestation signée, par le titulaire de l'autorisation de mise sur le marché et par la personne chargée de la pharmacovigilance vétérinaire, certifiant la disponibilité de la personne chargée de la pharmacovigilance vétérinaire et la mise à sa disposition des moyens nécessaires pour le recueil et la notification de tout effet indésirable survenant soit dans l'Union européenne, soit dans un pays tiers.
 
-2. 2. Informations relatives à l'organisation
+2.2. Informations relatives à l'organisation
 
 Des schémas sont fournis pour présenter de manière synthétique :
 
@@ -90,9 +90,9 @@ Des schémas sont fournis pour présenter de manière synthétique :
 
 ― le circuit des déclarations de toute origine (du déclarant à la transmission aux autorités).
 
-Dans le cas de recours à des sous-traitants, les informations correspondantes sont indiquées au point 2. 5.
+Dans le cas de recours à des sous-traitants, les informations correspondantes sont indiquées au point 2.5.
 
-2. 3. Informations relatives aux procédures
+2.3. Informations relatives aux procédures
 
 Les opérations ou activités de pharmacovigilance font l'objet de procédures, d'instructions de travail. Le demandeur en fournit une liste, les procédures écrites étant disponibles, sur demande, sous quarante-huit heures.
 
@@ -134,25 +134,25 @@ Les domaines couverts pas les documents concernent notamment :
 
 ― l'archivage.
 
-2. 4. Informations relatives aux bases de données
+2.4. Informations relatives aux bases de données
 
 Cette rubrique comprend une liste des bases de données dédiées à la collecte des déclarations de pharmacovigilance avec leur brève description fonctionnelle, en précisant la localisation de la base centralisée de données.
 
 Cette dernière couvre, notamment, les opérations suivantes : le recueil, le suivi, le traitement de renseignements de sécurité reçus d'origines différentes, l'élaboration de rapports périodiques actualisés de sécurité, la détection de signaux, la codification des signes cliniques, la veille et le tri des effets indésirables, la fonctionnalité à générer des fichiers compatibles avec la soumission électronique des déclarations d'effets indésirables pour les autorités nationales compétentes, etc.
 
-2. 5. Informations relatives aux sous-traitants
+2.5. Informations relatives aux sous-traitants
 
 Les principaux contrats de sous-traitance pour la conduite des diverses activités de la pharmacovigilance, la nature des accords conclus entre le titulaire d'autorisation de mise sur le marché et les structures de commercialisation et leurs responsabilités respectives pour les activités de pharmacovigilance sont décrits.
 
 En cas de sous-traitance spécifique liée à un médicament vétérinaire, ils sont résumés dans un addenda spécifique au médicament vétérinaire.
 
-2. 6. Informations relatives à la formation
+2.6. Informations relatives à la formation
 
 Une brève description de l'organisation de la formation dispensée au personnel en charge de la pharmacovigilance est donnée. Les structures responsables de la mise à jour des dossiers du personnel, du suivi des formations, des curriculum vitae, des fiches de poste et de fonction sont nommées.
 
-2. 7. Informations relatives à la documentation
+2.7. Informations relatives à la documentation
 
-Les principaux sites où sont conservés les différents types de documentation relative à la pharmacovigilance sont décrits. 2. 8. Informations relatives à l'assurance qualité
+Les principaux sites où sont conservés les différents types de documentation relative à la pharmacovigilance sont décrits. 2.8. Informations relatives à l'assurance qualité
 
 Le système d'assurance qualité du titulaire d'autorisation de mise sur le marché est décrit en spécifiant l'organisation des activités, les responsabilités pour les opérations de pharmacovigilance, pour la documentation et pour mener les actions correctives et préventives.
 
@@ -194,9 +194,9 @@ Toutes les monographies, y compris les monographies générales et les chapitres
 
 Toutes les procédures d'essai respectent les critères d'analyse et de contrôle de la qualité des matières premières et du produit fini, et prennent en considération les lignes directrices et les exigences en vigueur. Les résultats des études de validation sont fournis.
 
-La ou les procédures d'essai sont détaillées afin d'être reproductibles lors des contrôles effectués à la demande de l'Agence française de sécurité sanitaire des aliments ; le matériel particulier qui pourrait être employé fait l'objet d'une description suffisante, avec schéma éventuel à l'appui. Si nécessaire, la formule des réactifs de laboratoire est complétée par le mode de préparation. Pour des procédures d'essai figurant dans la Pharmacopée européenne ou dans la pharmacopée d'un Etat membre, cette description peut être remplacée par une référence précise à la pharmacopée en question. Le cas échéant, il y a lieu d'utiliser les références chimiques et biologiques de la Pharmacopée européenne. Si d'autres préparations et normes de référence sont utilisées, elles sont identifiées et décrites en détail.
+La ou les procédures d'essai sont détaillées afin d'être reproductibles lors des contrôles effectués à la demande de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ; le matériel particulier qui pourrait être employé fait l'objet d'une description suffisante, avec schéma éventuel à l'appui. Si nécessaire, la formule des réactifs de laboratoire est complétée par le mode de préparation. Pour des procédures d'essai figurant dans la Pharmacopée européenne ou dans la pharmacopée d'un Etat membre, cette description peut être remplacée par une référence précise à la pharmacopée en question. Le cas échéant, il y a lieu d'utiliser les références chimiques et biologiques de la Pharmacopée européenne. Si d'autres préparations et normes de référence sont utilisées, elles sont identifiées et décrites en détail.
 
-Dans le cas d'une demande qui concerne une espèce animale ou des indications représentant des créneaux de marché plus limités, lorsque la substance active a été incluse dans un médicament à usage humain autorisé conformément aux exigences en vigueur, les données chimiques, pharmaceutiques et biologiques / microbiologiques prévues par l'arrêté du 23 avril 2004 fixant les normes et protocoles applicables aux essais analytiques, toxicologiques et pharmacologiques ainsi qu'à la documentation clinique auxquels sont soumis les médicaments ou produits mentionnés à l'article L. 5121-8 du code de la santé publique peuvent remplacer la documentation relative à la substance active ou au produit fini. Le format utilisé pour cette partie du dossier peut être celui du dossier technique commun (ou DTC).
+Dans le cas d'une demande qui concerne une espèce animale ou des indications représentant des créneaux de marché plus limités, lorsque la substance active a été incluse dans un médicament à usage humain autorisé conformément aux exigences en vigueur, les données chimiques, pharmaceutiques et biologiques/ microbiologiques prévues par l'arrêté du 23 avril 2004 fixant les normes et protocoles applicables aux essais analytiques, toxicologiques et pharmacologiques ainsi qu'à la documentation clinique auxquels sont soumis les médicaments ou produits mentionnés à l'article L. 5121-8 du code de la santé publique peuvent remplacer la documentation relative à la substance active ou au produit fini. Le format utilisé pour cette partie du dossier peut être celui du dossier technique commun (ou DTC).
 
 A. ― COMPOSITIONS QUALITATIVE ET QUANTITATIVE
 
@@ -222,11 +222,11 @@ Par termes usuels destinés à désigner les composants des médicaments vétér
 
 ― pour les autres composants, la dénomination commune internationale recommandée par l'Organisation mondiale de la santé, pouvant être accompagnée d'une autre dénomination commune ou, à défaut, de la dénomination scientifique exacte ; les composants dépourvus de dénomination commune internationale ou de désignation scientifique exacte seront désignés par l'indication de l'origine et du mode d'obtention, complétée, le cas échéant, par toutes précisions utiles ;
 
-― pour les matières colorantes, la désignation par le numéro E qui leur est affecté par la directive 2009 / 35 / CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration et l'annexe I de la directive 94 / 36 / CE.
+― pour les matières colorantes, la désignation par le numéro E qui leur est affecté par la directive 2009/35/ CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration et l'annexe I de la directive 94/36/ CE.
 
 3. Composition quantitative
 
-3. 1. Pour donner la composition quantitative de toutes les substances actives du médicament vétérinaire, il faut, selon la forme pharmaceutique, préciser, pour chaque substance active, la masse ou le nombre d'unités d'activité biologique soit par unité de prise, soit par unité de masse ou de volume.
+3.1. Pour donner la composition quantitative de toutes les substances actives du médicament vétérinaire, il faut, selon la forme pharmaceutique, préciser, pour chaque substance active, la masse ou le nombre d'unités d'activité biologique soit par unité de prise, soit par unité de masse ou de volume.
 
 Les unités d'activité biologique sont utilisées pour les substances qui ne peuvent être définies chimiquement. Lorsque l'Organisation mondiale de la santé a défini une unité internationale d'activité biologique, celle-ci est utilisée. Lorsqu'il n'y a pas d'unité internationale, les unités d'activité biologique sont exprimées de façon à renseigner sans équivoque sur l'activité de la substance en utilisant prioritairement les unités de la Pharmacopée européenne.
 
@@ -238,9 +238,9 @@ Chaque fois que possible, l'activité biologique par unité de masse ou de volum
 
 ― pour les sirops, émulsions, granulés et autres formes pharmaceutiques devant être administrés selon des mesures, par la masse ou les unités d'activité biologique de chaque substance active par mesure.
 
-3. 2. Les substances actives à l'état de composés ou de dérivés sont désignées quantitativement par leur masse globale et, si nécessaire ou significatif, par la masse de la ou des fractions actives de la molécule.
+3.2. Les substances actives à l'état de composés ou de dérivés sont désignées quantitativement par leur masse globale et, si nécessaire ou significatif, par la masse de la ou des fractions actives de la molécule.
 
-3. 3. Pour les médicaments vétérinaires contenant une substance active qui fait l'objet, pour la première fois, d'une demande d'autorisation de mise sur le marché dans l'un des Etats membres, la composition quantitative d'une substance active qui est un sel ou un hydrate est systématiquement exprimée en fonction de la masse de la fraction ou des fractions actives de la molécule. Par la suite, la composition quantitative de tous les médicaments vétérinaires autorisés dans les Etats membres sera exprimée de la même manière que pour cette même substance active.
+3.3. Pour les médicaments vétérinaires contenant une substance active qui fait l'objet, pour la première fois, d'une demande d'autorisation de mise sur le marché dans l'un des Etats membres, la composition quantitative d'une substance active qui est un sel ou un hydrate est systématiquement exprimée en fonction de la masse de la fraction ou des fractions actives de la molécule. Par la suite, la composition quantitative de tous les médicaments vétérinaires autorisés dans les Etats membres sera exprimée de la même manière que pour cette même substance active.
 
 4. Développement galénique
 
@@ -264,7 +264,7 @@ A cet effet, cette description comprend au minimum :
 
 ― des études expérimentales de validation du procédé de fabrication et, le cas échéant, un programme de validation des procédés pour les lots à l'échelle de production ;
 
-― pour les médicaments stériles, lorsque des conditions de stérilisation ne correspondant pas à la pharmacopée sont utilisées, les renseignements sur les procédures aseptiques et / ou les procédés de stérilisation mis en œuvre.
+― pour les médicaments stériles, lorsque des conditions de stérilisation ne correspondant pas à la pharmacopée sont utilisées, les renseignements sur les procédures aseptiques et/ ou les procédés de stérilisation mis en œuvre.
 
 C. ― CONTRÔLE DES MATIÈRES PREMIÈRES
 
@@ -282,11 +282,11 @@ Lorsqu'il est fait référence à un certificat de conformité, le fabricant fou
 
 En vue de prouver que les matières premières sont conformes à la spécification définie, il y a lieu de présenter des certificats d'analyse.
 
-1. 1. Substances actives
+1.1. Substances actives
 
 Il y a lieu d'indiquer le nom, l'adresse et la responsabilité de chaque fabricant, ainsi que chaque site de production proposé ou chaque installation associée à la fabrication et aux essais d'une substance active.
 
-Pour une substance active bien définie, le fabricant de la substance active ou le demandeur peut faire en sorte que les informations suivantes soient adressées directement à l'Agence française de sécurité sanitaire des aliments par le fabricant de la substance active. Ces informations sont adressées dans un document présenté selon les recommandations décrites dans la note explicative européenne Guideline on Active Substance Master File Procedure (ASMF). Ce document comprend :
+Pour une substance active bien définie, le fabricant de la substance active ou le demandeur peut faire en sorte que les informations suivantes soient adressées directement à l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail par le fabricant de la substance active. Ces informations sont adressées dans un document présenté selon les recommandations décrites dans la note explicative européenne Guideline on Active Substance Master File Procedure (ASMF). Ce document comprend :
 
 a) Une description détaillée du procédé de fabrication ;
 
@@ -294,25 +294,25 @@ b) Une description des opérations de contrôle de la qualité en cours de fabri
 
 c) Une description de la validation des procédés.
 
-Dans ce cas, le fabricant fournit au demandeur toutes les données nécessaires qui permettront à ce dernier d'assumer sa propre responsabilité relative au médicament vétérinaire. Le fabricant s'engage par écrit vis-à-vis du demandeur à garantir la constance de fabrication d'un lot à l'autre et à s'abstenir de modifier le procédé de fabrication ou les spécifications sans le tenir informé. Les documents et renseignements à l'appui d'une telle modification sont fournis à l'Agence française de sécurité sanitaire des aliments ; ces documents et renseignements sont également fournis au demandeur lorsqu'ils concernent la partie de l'ASMF qui lui est accessible.
+Dans ce cas, le fabricant fournit au demandeur toutes les données nécessaires qui permettront à ce dernier d'assumer sa propre responsabilité relative au médicament vétérinaire. Le fabricant s'engage par écrit vis-à-vis du demandeur à garantir la constance de fabrication d'un lot à l'autre et à s'abstenir de modifier le procédé de fabrication ou les spécifications sans le tenir informé. Les documents et renseignements à l'appui d'une telle modification sont fournis à l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ; ces documents et renseignements sont également fournis au demandeur lorsqu'ils concernent la partie de l'ASMF qui lui est accessible.
 
 En outre, lorsqu'un certificat de conformité pour la substance active n'est pas disponible, il y a lieu de fournir des informations sur le mode de fabrication, sur le contrôle de la qualité et sur les impuretés, accompagnées d'une démonstration de la structure moléculaire :
 
 1. Les informations relatives au procédé de fabrication incluant une description du procédé de fabrication de la substance active qui constitue l'engagement du demandeur sur la fabrication de la substance active. Il convient d'énumérer toutes les matières nécessaires pour fabriquer la ou les substances actives, en identifiant à quel (s) stade (s) chaque matière est utilisée dans le procédé. Des informations sur la qualité et le contrôle de ces matières sont fournies. Des données démontrant que les matières répondent à des normes appropriées pour l'usage prévu sont présentées.
 
-2. Les informations relatives au contrôle de la qualité mentionnant les essais (y compris les critères d'acceptation) réalisés à chaque étape critique et comprenant des données concernant la qualité et le contrôle des produits intermédiaires, la validation du procédé et / ou les études d'évaluation, le cas échéant. Elles incluent également les données de validation des méthodes d'analyse appliquées à la substance active, le cas échéant.
+2. Les informations relatives au contrôle de la qualité mentionnant les essais (y compris les critères d'acceptation) réalisés à chaque étape critique et comprenant des données concernant la qualité et le contrôle des produits intermédiaires, la validation du procédé et/ ou les études d'évaluation, le cas échéant. Elles incluent également les données de validation des méthodes d'analyse appliquées à la substance active, le cas échéant.
 
 3. Les informations relatives aux impuretés indiquant les impuretés prévisibles ainsi que les niveaux et la nature des impuretés observées. Elles contiennent également, le cas échéant, des données sur l'innocuité de ces impuretés.
 
 4. Pour les médicaments vétérinaires biotechnologiques, la démonstration de la structure moléculaire inclut la séquence schématique en aminoacides et la masse moléculaire relative.
 
-1. 1. 1. Substances actives inscrites dans les pharmacopées
+1.1.1. Substances actives inscrites dans les pharmacopées
 
 Les monographies générales et spécifiques de la Pharmacopée européenne s'imposent pour toutes les substances actives y figurant.
 
 La conformité des composants aux prescriptions de la Pharmacopée européenne ou de la pharmacopée d'un Etat membre est suffisante pour l'application des dispositions du 7° de l'article R. 5141-16 du code de la santé publique ou du point i du paragraphe 3 de l'article 12 de la directive. Dans ce cas, la description des méthodes et des procédures analytiques peut être remplacée dans chaque section concernée par une référence appropriée à la pharmacopée en question.
 
-Au cas où une spécification d'une monographie de la Pharmacopée européenne ou de la pharmacopée d'un Etat membre ne suffirait pas pour garantir la qualité du produit, l'Agence française de sécurité sanitaire des aliments peut exiger du demandeur des spécifications plus appropriées, y compris les limites, déterminées à l'aide de procédures d'analyse validées, qui s'appliquent à des impuretés spécifiques.
+Au cas où une spécification d'une monographie de la Pharmacopée européenne ou de la pharmacopée d'un Etat membre ne suffirait pas pour garantir la qualité du produit, l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail peut exiger du demandeur des spécifications plus appropriées, y compris les limites, déterminées à l'aide de procédures d'analyse validées, qui s'appliquent à des impuretés spécifiques.
 
 Elle en informe les autorités responsables de la pharmacopée en cause. Le titulaire de l'autorisation de mise sur le marché fournit aux autorités de cette pharmacopée les renseignements concernant l'insuffisance éventuelle de la monographie en question et les spécifications supplémentaires qui ont été appliquées.
 
@@ -320,7 +320,7 @@ Lorsque, pour une substance active, il n'existe pas de monographie dans la Pharm
 
 Lorsqu'une substance active n'est décrite ni dans la Pharmacopée européenne, ni dans la pharmacopée d'un Etat membre, la référence à une monographie d'une pharmacopée d'un pays tiers peut être acceptée si sa conformité est attestée ; dans ce cas, le demandeur soumet une copie de la monographie, accompagnée, le cas échéant, d'une traduction. Il convient de présenter des données démontrant l'aptitude de la monographie au contrôle approprié de la qualité de la substance active.
 
-1. 1. 2. Substances actives non inscrites dans une pharmacopée
+1.1.2. Substances actives non inscrites dans une pharmacopée
 
 Les composants ne figurant dans aucune pharmacopée font l'objet d'une monographie portant sur chacune des rubriques suivantes :
 
@@ -338,7 +338,7 @@ f) En ce qui concerne les produits complexes d'origine végétale ou animale, en
 
 Ces données démontrent que l'ensemble de procédures d'essai proposé est suffisant pour contrôler la qualité de la substance active provenant de la source définie.
 
-1. 1. 3. Caractéristiques physico-chimiques
+1.1.3. Caractéristiques physico-chimiques
 
 susceptibles d'affecter la biodisponibilité
 
@@ -350,31 +350,31 @@ Les informations ci-après, concernant les substances actives inscrites ou non d
 
 ― état d'hydratation ;
 
-― coefficient de partage huile / eau ;
+― coefficient de partage huile/ eau ;
 
-― valeurs pK / pH.
+― valeurs pK/ pH.
 
 Les trois premiers tirets ne s'appliquent pas aux substances utilisées uniquement en solution.
 
-1. 2. Excipients
+1.2. Excipients
 
 Les monographies générales et spécifiques de la Pharmacopée européenne s'imposent pour toutes les substances y figurant.
 
-Les excipients sont conformes aux exigences de la monographie appropriée de la Pharmacopée européenne. Lorsqu'une telle monographie n'existe pas, il est possible de faire référence à la pharmacopée d'un Etat membre. En l'absence d'une telle monographie, il est possible de faire référence à la pharmacopée d'un pays tiers. Dans ce cas, la conformité de cette monographie est attestée. Le cas échéant, des analyses additionnelles visant à contrôler les paramètres tels que la taille des particules, la stérilité et les solvants résiduels complètent les exigences de la monographie. En l'absence de toute monographie figurant dans une pharmacopée, une spécification est proposée et justifiée. Il y a lieu de respecter les exigences relatives aux spécifications, telles qu'elles sont décrites dans la section 1. 1. 2, points a à e, concernant les substances actives. Les méthodes proposées et les données de validation qui les étayent sont présentées.
+Les excipients sont conformes aux exigences de la monographie appropriée de la Pharmacopée européenne. Lorsqu'une telle monographie n'existe pas, il est possible de faire référence à la pharmacopée d'un Etat membre. En l'absence d'une telle monographie, il est possible de faire référence à la pharmacopée d'un pays tiers. Dans ce cas, la conformité de cette monographie est attestée. Le cas échéant, des analyses additionnelles visant à contrôler les paramètres tels que la taille des particules, la stérilité et les solvants résiduels complètent les exigences de la monographie. En l'absence de toute monographie figurant dans une pharmacopée, une spécification est proposée et justifiée. Il y a lieu de respecter les exigences relatives aux spécifications, telles qu'elles sont décrites dans la section 1.1.2, points a à e, concernant les substances actives. Les méthodes proposées et les données de validation qui les étayent sont présentées.
 
-Les matières colorantes destinées à être incorporées dans des médicaments vétérinaires satisfont aux exigences de la directive 2009 / 35 / CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration, à l'exception de certains médicaments vétérinaires à usage topique, tels que les colliers insecticides et les marques auriculaires, pour lesquels l'utilisation d'autres matières colorantes est justifiée.
+Les matières colorantes destinées à être incorporées dans des médicaments vétérinaires satisfont aux exigences de la directive 2009/35/ CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration, à l'exception de certains médicaments vétérinaires à usage topique, tels que les colliers insecticides et les marques auriculaires, pour lesquels l'utilisation d'autres matières colorantes est justifiée.
 
-Les matières colorantes respectent les critères de pureté définis dans la directive 95 / 45 / CE de la Commission modifiée.
+Les matières colorantes respectent les critères de pureté définis dans la directive 95/45/ CE de la Commission modifiée.
 
 Pour les excipients nouveaux, à savoir l'excipient ou les excipients utilisés pour la première fois dans un médicament vétérinaire ou suivant une nouvelle voie d'administration, il y a lieu de fournir les détails complets de la fabrication, de la caractérisation et des contrôles, en les accompagnant de références aux données d'innocuité cliniques et non cliniques.
 
-1. 3. Système de fermeture du conditionnement primaire
+1.3. Système de fermeture du conditionnement primaire
 
-1. 3. 1. Substance active
+1.3.1. Substance active
 
 Il convient de fournir des informations sur le système de fermeture du conditionnement primaire de la substance active. Le niveau d'information requis est déterminé par l'état physique (liquide, solide) de la substance active.
 
-1. 3. 2. Produit fini
+1.3.2. Produit fini
 
 Il convient de fournir des informations sur le système de fermeture du conditionnement primaire du produit fini. Le niveau d'information requis est déterminé par la voie d'administration du médicament vétérinaire et par l'état physique (liquide, solide) de la forme pharmaceutique.
 
@@ -390,17 +390,17 @@ Pour les nouveaux matériaux de conditionnement en contact avec le produit, il c
 
 Des spécifications et, le cas échéant, des données de performance sont présentées pour tout dispositif de dosage ou d'administration fourni avec le médicament vétérinaire.
 
-1. 4. Substances d'origine biologique
+1.4. Substances d'origine biologique
 
 Lorsque des matières premières telles que des micro-organismes, des tissus d'origine végétale ou animale, des cellules ou des liquides biologiques (y compris le sang) d'origine humaine ou animale, ou des constructions cellulaires biotechnologiques sont utilisées dans la fabrication du médicament vétérinaire, l'origine et l'historique des matières premières sont décrits et documentés.
 
-La description des matières premières couvre la stratégie de production, les procédés de purification / d'inactivation, avec leur validation, et toutes les procédures de contrôle en cours de fabrication destinées à assurer la qualité, la sécurité et la conformité des lots du produit fini.
+La description des matières premières couvre la stratégie de production, les procédés de purification/ d'inactivation, avec leur validation, et toutes les procédures de contrôle en cours de fabrication destinées à assurer la qualité, la sécurité et la conformité des lots du produit fini.
 
 Lorsque des banques de cellules sont utilisées, il est démontré que les caractéristiques des cellules restent inchangées au niveau de passage utilisé pour la production et au-delà. Il y a lieu de rechercher la présence d'agents étrangers dans le matériel souche, les banques cellulaires, les mélanges de sérums et, chaque fois que possible, dans les matières de départ dont ils sont dérivés.
 
 Lorsque des matières premières d'origine animale ou humaine sont utilisées, les mesures destinées à garantir l'absence d'agents potentiellement pathogènes sont décrites.
 
-Si la présence d'agents étrangers potentiellement pathogènes est inévitable, la matière correspondante n'est utilisée que dans le cas où la suite du traitement assure leur élimination et / ou inactivation ; cette élimination ou inactivation est validée.
+Si la présence d'agents étrangers potentiellement pathogènes est inévitable, la matière correspondante n'est utilisée que dans le cas où la suite du traitement assure leur élimination et/ ou inactivation ; cette élimination ou inactivation est validée.
 
 Il convient de fournir une documentation attestant que le matériel souche, les banques de cellules, les lots de sérum et les autres matières d'origine animale jouant un rôle dans la transmission des EST sont conformes à la Note explicative concernant la réduction du risque de transmission des agents des encéphalopathies spongiformes animales par les médicaments à usage humain et vétérinaire ainsi qu'à la monographie correspondante de la Pharmacopée européenne.
 
@@ -420,7 +420,7 @@ Lorsqu'un produit intermédiaire peut être stocké avant transformation ultéri
 
 E. ― CONTRÔLES DU PRODUIT FINI
 
-Pour le contrôle du produit fini, le lot d'un médicament est l'ensemble des unités d'une forme pharmaceutique provenant d'une même quantité initiale et ayant été soumis à la même série d'opérations de fabrication et / ou de stérilisation ou, dans le cas d'un processus de production continu, l'ensemble des unités fabriquées dans un laps de temps déterminé.
+Pour le contrôle du produit fini, le lot d'un médicament est l'ensemble des unités d'une forme pharmaceutique provenant d'une même quantité initiale et ayant été soumis à la même série d'opérations de fabrication et/ ou de stérilisation ou, dans le cas d'un processus de production continu, l'ensemble des unités fabriquées dans un laps de temps déterminé.
 
 La demande d'autorisation de mise sur le marché énumère les essais qui sont pratiqués en routine sur chaque lot de produit fini. La fréquence des essais qui ne sont pas pratiqués en routine est indiquée. Les limites à la libération sont indiquées.
 
@@ -436,7 +436,7 @@ Certains contrôles des caractéristiques générales d'un produit figurent obli
 
 Les conditions de l'expérience, le cas échéant l'appareillage et le matériel utilisés et les normes sont décrits avec précision, lorsqu'ils ne figurent pas dans la Pharmacopée européenne ou dans la pharmacopée d'un Etat membre ; il en est de même dans les cas où les méthodes prévues par ces pharmacopées ne sont pas applicables.
 
-En outre, les formes pharmaceutiques solides, devant être administrées par voie orale, sont soumises à des études in vitro de la libération et de la vitesse de dissolution de la ou des substances actives, sauf justification contraire. Ces études sont effectuées également en cas d'administration par une autre voie, si l'Agence française de sécurité sanitaire des aliments l'estime nécessaire.
+En outre, les formes pharmaceutiques solides, devant être administrées par voie orale, sont soumises à des études in vitro de la libération et de la vitesse de dissolution de la ou des substances actives, sauf justification contraire. Ces études sont effectuées également en cas d'administration par une autre voie, si l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail l'estime nécessaire.
 
 2. Identification et dosage de la ou des substances actives
 
@@ -446,13 +446,13 @@ Sauf justification appropriée, les écarts maximaux acceptables pour la teneur 
 
 Sur la base des essais de stabilité, le fabricant propose et justifie les limites maximales d'écart pour la teneur en substance active dans le produit fini valables jusqu'à l'issue de la durée de conservation proposée.
 
-Dans certains cas de mélanges particulièrement complexes dans lesquels le dosage de substances actives, nombreuses ou en faible proportion, nécessite des recherches délicates difficilement applicables à chaque lot de fabrication, il est toléré qu'une ou plusieurs substances actives ne soient pas dosées dans le produit fini à la condition expresse que les dosages soient effectués sur des produits intermédiaires de la fabrication. Cette technique simplifiée ne peut pas être étendue à la caractérisation de ces substances. Elle est complétée par une méthode d'évaluation quantitative permettant à l'Agence française de sécurité sanitaire des aliments de vérifier la conformité aux spécifications du médicament commercialisé.
+Dans certains cas de mélanges particulièrement complexes dans lesquels le dosage de substances actives, nombreuses ou en faible proportion, nécessite des recherches délicates difficilement applicables à chaque lot de fabrication, il est toléré qu'une ou plusieurs substances actives ne soient pas dosées dans le produit fini à la condition expresse que les dosages soient effectués sur des produits intermédiaires de la fabrication. Cette technique simplifiée ne peut pas être étendue à la caractérisation de ces substances. Elle est complétée par une méthode d'évaluation quantitative permettant à l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail de vérifier la conformité aux spécifications du médicament commercialisé.
 
 Un essai d'activité biologique in vitro ou in vivo est obligatoire lorsque les méthodes physico-chimiques sont insuffisantes pour renseigner sur la qualité du produit. Chaque fois que cela est possible, un tel essai comprend des matériaux de référence et une analyse statistique permettant la détermination des limites de confiance. Lorsque ces essais ne peuvent être faits sur le produit fini, ils peuvent être réalisés à un stade intermédiaire, le plus tard possible dans le processus de fabrication.
 
 Lorsqu'il se produit une dégradation au cours de la fabrication du produit fini, il convient d'indiquer les taux maximaux acceptables en produits de dégradation, pour chaque produit et pour la totalité, immédiatement après la fabrication.
 
-Lorsque les indications fournies à la section B ci-dessus font apparaître un surdosage important en substance active pour la fabrication du médicament, ou lorsque les données de stabilité montrent que le dosage de la substance active diminue au stockage, la description des méthodes de contrôle du produit fini comporte, le cas échéant, l'étude chimique, voire toxico-pharmacologique, de l'altération subie par cette substance avec, éventuellement, la caractérisation et / ou le dosage des produits de dégradation.
+Lorsque les indications fournies à la section B ci-dessus font apparaître un surdosage important en substance active pour la fabrication du médicament, ou lorsque les données de stabilité montrent que le dosage de la substance active diminue au stockage, la description des méthodes de contrôle du produit fini comporte, le cas échéant, l'étude chimique, voire toxico-pharmacologique, de l'altération subie par cette substance avec, éventuellement, la caractérisation et/ ou le dosage des produits de dégradation.
 
 3. Identification et dosage des composants de l'excipient
 
@@ -468,7 +468,7 @@ F. ― ESSAIS DE STABILITÉ
 
 Il y a lieu de définir une date de recontrôle et les conditions de conservation de la substance active, immédiatement avant son utilisation dans la fabrication du produit fini, sauf lorsque cette substance fait l'objet d'une monographie dans la Pharmacopée européenne et que le fabricant du produit fini soumet la substance active à une nouvelle série complète de contrôles.
 
-La date de recontrôle et les conditions de conservation définies sont justifiées par des données de stabilité. Il convient de présenter le type d'études de stabilité réalisées, les protocoles utilisés, les procédures analytiques employées et leur validation, en les accompagnant de résultats détaillés.L'engagement en matière de stabilité et un résumé du protocole sont fournis.
+La date de recontrôle et les conditions de conservation définies sont justifiées par des données de stabilité. Il convient de présenter le type d'études de stabilité réalisées, les protocoles utilisés, les procédures analytiques employées et leur validation, en les accompagnant de résultats détaillés. L'engagement en matière de stabilité et un résumé du protocole sont fournis.
 
 Toutefois, lorsqu'il existe un certificat de conformité pour la substance active du producteur proposé et que ce certificat prévoit une date de recontrôle et les conditions de conservation, les données sur la stabilité de la substance active provenant de ce producteur ne sont pas nécessaires.
 
@@ -478,7 +478,7 @@ Le demandeur est tenu de décrire les recherches ayant permis de déterminer la 
 
 Il convient de présenter le type d'études de stabilité réalisées, les protocoles utilisés, les procédures analytiques employées et leur validation, en les accompagnant de résultats détaillés.
 
-Lorsqu'un produit fini est reconstitué ou dilué avant administration, il convient de préciser la durée de conservation proposée et la spécification du produit reconstitué / dilué, en fournissant à l'appui les données de stabilité appropriées.
+Lorsqu'un produit fini est reconstitué ou dilué avant administration, il convient de préciser la durée de conservation proposée et la spécification du produit reconstitué/ dilué, en fournissant à l'appui les données de stabilité appropriées.
 
 Pour les conditionnements primaires contenant plusieurs doses, la durée de conservation du produit après une première ouverture est justifiée, le cas échéant, par des données de stabilité et des spécifications d'utilisation.
 
@@ -556,7 +556,7 @@ et de sa ou ses substances actives
 
 ― la pression de vapeur ;
 
-― la solubilité dans l'eau et dans les solvants organiques exprimée en g / l, en indiquant la température ;
+― la solubilité dans l'eau et dans les solvants organiques exprimée en g/ l, en indiquant la température ;
 
 ― la densité ;
 
@@ -566,17 +566,17 @@ et de sa ou ses substances actives
 
 2. Pharmacologie
 
-Les études pharmacologiques sont d'une importance primordiale car elles permettent de mieux appréhender les mécanismes responsables de l'effet thérapeutique du médicament vétérinaire.C'est pourquoi ces études réalisées chez les espèces animales expérimentales et chez les espèces animales de destination sont incluses dans la quatrième partie.
+Les études pharmacologiques sont d'une importance primordiale car elles permettent de mieux appréhender les mécanismes responsables de l'effet thérapeutique du médicament vétérinaire. C'est pourquoi ces études réalisées chez les espèces animales expérimentales et chez les espèces animales de destination sont incluses dans la quatrième partie.
 
 Par ailleurs, les études pharmacologiques peuvent également participer à la compréhension des phénomènes toxicologiques. En outre, les effets pharmacologiques qui apparaissent en l'absence de réponse toxique, ou à une dose inférieure à la dose toxique, sont pris en considération lors de l'appréciation de l'innocuité d'un médicament vétérinaire.
 
 C'est pourquoi la documentation relative à l'innocuité est toujours précédée d'une description détaillée des recherches pharmacologiques pratiquées sur des animaux de laboratoire et de toutes les observations pertinentes effectuées au cours des études cliniques portant sur l'animal de destination.
 
-2. 1. Pharmacodynamique
+2.1. Pharmacodynamique
 
 Il y a lieu de fournir des informations sur le mécanisme d'action de la ou des substances actives, ainsi que des données sur les effets pharmacodynamiques primaires et secondaires afin de permettre une meilleure compréhension des effets indésirables dans les études réalisées chez l'animal.
 
-2. 2. Pharmacocinétique
+2.2. Pharmacocinétique
 
 Il convient de fournir des données sur le devenir de la substance active et de ses métabolites chez les espèces utilisées pour les études toxicologiques, notamment sur l'absorption, la distribution, le métabolisme et l'excrétion (ADME). Les données sont corrélées avec les conclusions sur le rapport dose-effet des études pharmacologiques et toxicologiques afin de déterminer les niveaux appropriés d'exposition. Il y a lieu d'inclure, dans la quatrième partie, une comparaison avec les données pharmacocinétiques provenant des études réalisées chez les espèces cibles (quatrième partie, chapitre Ier, section A. 2, ci-après), afin d'évaluer la pertinence des résultats obtenus dans les études de toxicité pour les espèces cibles.
 
@@ -592,7 +592,7 @@ La documentation relative à la toxicologie est conforme aux lignes directrices 
 
 Les études sont menées sur la ou les substances actives et non sur le produit formulé. Lorsque des études du produit formulé sont nécessaires, cela est précisé ci-après.
 
-3. 1. Toxicité par administration unique
+3.1. Toxicité par administration unique
 
 Les études de toxicité par administration unique peuvent être utilisées pour prédire :
 
@@ -606,11 +606,11 @@ Les études de toxicité par administration unique renseignent sur les effets de
 
 Les études à mener sont sélectionnées en vue de fournir des informations sur la sécurité des utilisateurs ; ainsi, s'il est prévu que l'homme peut être exposé à des quantités non négligeables du médicament vétérinaire par inhalation ou par contact cutané, les voies d'exposition en cause sont étudiées.
 
-3. 2. Toxicité par administration réitérée
+3.2. Toxicité par administration réitérée
 
-Les épreuves de toxicité par administration réitérée ont pour objet de mettre en évidence les altérations physiologiques et / ou pathologiques consécutives aux administrations répétées de la substance active ou de l'association de substances actives et d'établir les conditions d'apparition de ces altérations en fonction de la posologie.
+Les épreuves de toxicité par administration réitérée ont pour objet de mettre en évidence les altérations physiologiques et/ ou pathologiques consécutives aux administrations répétées de la substance active ou de l'association de substances actives et d'établir les conditions d'apparition de ces altérations en fonction de la posologie.
 
-Dans le cas de substances ou de médicaments vétérinaires exclusivement destinés à des animaux non producteurs d'aliments, il suffit normalement d'effectuer une étude de toxicité par administration réitérée sur une espèce d'animaux de laboratoire. Cette étude peut être remplacée par une étude portant sur l'animal de destination. Le choix de la fréquence et de la voie d'administration ainsi que de la durée de l'étude tient compte des conditions d'utilisation clinique proposées.L'expérimentateur justifie l'étendue et la durée des essais ainsi que les doses choisies.
+Dans le cas de substances ou de médicaments vétérinaires exclusivement destinés à des animaux non producteurs d'aliments, il suffit normalement d'effectuer une étude de toxicité par administration réitérée sur une espèce d'animaux de laboratoire. Cette étude peut être remplacée par une étude portant sur l'animal de destination. Le choix de la fréquence et de la voie d'administration ainsi que de la durée de l'étude tient compte des conditions d'utilisation clinique proposées. L'expérimentateur justifie l'étendue et la durée des essais ainsi que les doses choisies.
 
 Dans le cas de substances ou de médicaments vétérinaires destinés à être utilisés chez des animaux producteurs d'aliments, des essais de toxicité par administration réitérée (90 jours) sont effectués sur une espèce de rongeurs et sur une espèce de non-rongeurs, afin d'identifier les organes cibles et les limites toxicologiques et de déterminer les espèces appropriées et les doses à utiliser lors des essais de toxicité chronique, le cas échéant.
 
@@ -624,15 +624,15 @@ L'appréciation des effets toxiques est faite sur la base de l'examen du comport
 
 Dans les cas d'associations nouvelles de substances déjà connues et étudiées selon les dispositions du présent arrêté ou de la directive, les essais par administration réitérée peuvent, sur justification par l'expérimentateur, être simplifiés d'une manière adéquate, sauf dans le cas où des essais de toxicité ont révélé des phénomènes de potentialisation ou des effets toxiques nouveaux.
 
-3. 3. Tolérance chez l'animal de destination
+3.3. Tolérance chez l'animal de destination
 
 Il convient de fournir un résumé de tous les signes d'intolérance observés au cours des études pratiquées, généralement avec la formulation finale, chez l'animal de destination, en conformité avec les exigences énoncées dans la quatrième partie, chapitre Ier, section B, ci-après. Les études effectuées, les doses pour lesquelles il se manifeste une intolérance et les espèces et races concernées sont identifiées. Toute altération physiologique imprévue fait également l'objet d'une description détaillée. Les rapports complets de ces études sont inclus dans la quatrième partie.
 
-3. 4. Toxicité au niveau de la reproduction,
+3.4. Toxicité au niveau de la reproduction,
 
 y compris toxicité pour le développement
 
-3. 4. 1. Etude des effets à un niveau de la reproduction
+3.4.1. Etude des effets à un niveau de la reproduction
 
 Cette étude a pour objet d'identifier des altérations possibles de la fonction reproductrice mâle ou femelle ou des effets néfastes pour la descendance dus à l'administration du médicament vétérinaire ou de la substance à l'étude.
 
@@ -640,19 +640,19 @@ Dans le cas de substances pharmacologiquement actives ou de médicaments vétér
 
 Les doses les plus faibles ne doivent produire aucun signe de toxicité.
 
-3. 4. 2. Etude de la toxicité pour le développement
+3.4.2. Etude de la toxicité pour le développement
 
 Dans le cas de substances pharmacologiquement actives ou de médicaments vétérinaires destinés à des animaux producteurs d'aliments, des études de toxicité pour le développement sont réalisées. Ces études visent à déceler d'éventuels effets indésirables sur la femelle gravide et sur le développement de l'embryon et du fœtus à la suite d'une exposition de la femelle, de l'implantation au jour précédant la date de mise bas prévue, en passant par la période de gestation. Sont considérés comme effets indésirables : une toxicité accrue par rapport à celle observée chez des femelles non gravides, la mort embryo-fœtale, une croissance fœtale altérée et des modifications structurelles chez le fœtus. Une étude de toxicité pour le développement est pratiquée chez le rat. Selon les résultats, il pourrait se révéler nécessaire de mener une étude sur une seconde espèce, conformément aux lignes directrices en vigueur.
 
 Dans le cas de substances pharmacologiquement actives ou de médicaments non destinés à des animaux producteurs d'aliments, une étude de toxicité pour le développement est réalisée sur au moins une espèce qui peut être l'animal de destination si le produit est destiné à des femelles qui pourraient être utilisées pour l'élevage. Toutefois, dans les cas où l'utilisation du médicament vétérinaire entraînerait une exposition significative des utilisateurs, des études standard de toxicité pour le développement sont menées.
 
-3. 5. Génotoxicité
+3.5. Génotoxicité
 
 Il convient de réaliser des études du potentiel génotoxique, afin de mettre en évidence les modifications qu'une substance pourrait provoquer dans le matériel génétique des cellules. Il y a lieu d'évaluer les propriétés génotoxiques de toute substance destinée à être incluse pour la première fois dans un médicament vétérinaire.
 
 Une batterie standard d'études de génotoxicité in vitro et in vivo est normalement menée sur la ou les substances actives, conformément aux lignes directrices en vigueur. Dans certains cas, il peut également être nécessaire d'étudier un ou plusieurs métabolites que l'on retrouve sous forme de résidus dans les denrées alimentaires.
 
-3. 6. Cancérogénéité
+3.6. Cancérogénéité
 
 La décision de mener ou non des études de cancérogénéité se fonde sur les résultats des études de génotoxicité, sur les rapports structure-activité et sur les conclusions des études de toxicité systémique qui pourraient être pertinents pour les études à plus long terme des lésions néoplasiques.
 
@@ -660,9 +660,9 @@ Il y a lieu de prendre en considération toute spécificité d'espèce connue du
 
 Lorsque des études de cancérogénéité sont nécessaires, une étude de deux ans sur le rat et une étude de dix-huit mois sur la souris sont habituellement requises. Sous réserve d'une justification scientifique appropriée, les études de cancérogénéité peuvent être menées sur une seule espèce de rongeurs, de préférence le rat.
 
-3. 7. Dérogations
+3.7. Dérogations
 
-Dans le cas où un médicament vétérinaire est destiné à un usage topique, l'absorption systémique est étudiée chez l'animal de destination.S'il est prouvé que l'absorption systémique est négligeable, les études de toxicité par administration réitérée, les études de toxicité sur la fonction reproductrice et les études de cancérogénéité peuvent être supprimées, sauf dans le cas où, dans les conditions d'emploi recommandées :
+Dans le cas où un médicament vétérinaire est destiné à un usage topique, l'absorption systémique est étudiée chez l'animal de destination. S'il est prouvé que l'absorption systémique est négligeable, les études de toxicité par administration réitérée, les études de toxicité sur la fonction reproductrice et les études de cancérogénéité peuvent être supprimées, sauf dans le cas où, dans les conditions d'emploi recommandées :
 
 ― une ingestion orale du médicament vétérinaire par l'animal est prévisible ;
 
@@ -672,31 +672,31 @@ Dans le cas où un médicament vétérinaire est destiné à un usage topique, l
 
 4. Autres exigences
 
-4. 1. Etudes particulières
+4.1. Etudes particulières
 
 Pour des groupes spécifiques de substances ou lorsque les effets observés chez l'animal au cours des études de toxicité par administration réitérée comprennent des altérations symptomatiques, par exemple d'une immunotoxicité, d'une neurotoxicité ou d'un dysfonctionnement endocrinien, des essais supplémentaires sont requis, par exemple des études de sensibilisation ou des tests de neurotoxicité différée. Selon la nature du produit, il peut se révéler nécessaire de mener des études additionnelles afin d'apprécier le mécanisme sous-jacent de l'effet toxique ou le potentiel d'irritation. Ces études sont généralement menées sur la formulation finale.
 
 L'élaboration de ce type d'études et l'analyse des résultats tiennent compte de l'état des connaissances scientifiques et des lignes directrices en vigueur.
 
-4. 2. Propriétés microbiologiques des résidus
+4.2. Propriétés microbiologiques des résidus
 
-4. 2. 1. Effets éventuels sur la flore intestinale humaine
+4.2.1. Effets éventuels sur la flore intestinale humaine
 
 Il convient d'étudier le risque microbiologique potentiel auquel les résidus de produits antimicrobiens exposent la flore intestinale humaine en tenant compte des lignes directrices en vigueur.
 
-4. 2. 2. Effets éventuels sur les micro-organismes utilisés
+4.2.2. Effets éventuels sur les micro-organismes utilisés
 
 dans la transformation industrielle des denrées alimentaires
 
 Dans certains cas, il peut être nécessaire de procéder à des expériences visant à déterminer si les résidus microbiologiquement actifs peuvent interférer dans les procédés technologiques utilisés pour la transformation industrielle des denrées alimentaires.
 
-4. 3. Observations chez l'homme
+4.3. Observations chez l'homme
 
 Le dossier comporte des renseignements indiquant si les substances pharmacologiquement actives du médicament vétérinaire sont employées comme médicaments en médecine humaine ; si tel est le cas, il y a lieu de rapporter tous les effets constatés (y compris les effets indésirables) sur l'homme et leur cause, dans la mesure où ils peuvent avoir de l'importance pour l'appréciation de l'innocuité du médicament vétérinaire, en intégrant, le cas échéant, les conclusions d'études publiées ; lorsque des substances contenues dans le médicament vétérinaire ne sont pas ou ne sont plus employées comme médicament en médecine humaine, il convient d'en donner les raisons.
 
-4. 4. Développement d'une résistance
+4.4. Développement d'une résistance
 
-Dans le cas des médicaments vétérinaires, il est nécessaire de fournir des données concernant l'émergence de bactéries résistantes susceptibles d'avoir des répercussions sur la santé humaine. Le mécanisme de développement d'une telle résistance est particulièrement important à cet égard.S'il y a lieu, des mesures visant à limiter le développement d'une résistance lié à l'utilisation prévue du médicament vétérinaire sont proposées.
+Dans le cas des médicaments vétérinaires, il est nécessaire de fournir des données concernant l'émergence de bactéries résistantes susceptibles d'avoir des répercussions sur la santé humaine. Le mécanisme de développement d'une telle résistance est particulièrement important à cet égard. S'il y a lieu, des mesures visant à limiter le développement d'une résistance lié à l'utilisation prévue du médicament vétérinaire sont proposées.
 
 La résistance présentant un intérêt dans le cadre d'une utilisation clinique du produit est traitée conformément aux prescriptions de la quatrième partie ci-après. Le cas échéant, il convient de faire référence aux données figurant dans la quatrième partie.
 
@@ -706,7 +706,7 @@ La présente section comprend un examen des effets observés dans les sections p
 
 6. Evaluation des risques pour l'environnement présentés par les médicaments vétérinaires ne contenant pas d'organismes génétiquement modifiés ou ne consistant pas en de tels organismes
 
-Il convient de mener une évaluation des risques pour l'environnement afin d'apprécier les effets nocifs éventuels que l'utilisation du médicament vétérinaire pourrait avoir sur l'environnement et d'identifier les risques liés à ces effets.L'évaluation recherche également toutes les précautions d'emploi qui peuvent permettre de réduire ces risques.
+Il convient de mener une évaluation des risques pour l'environnement afin d'apprécier les effets nocifs éventuels que l'utilisation du médicament vétérinaire pourrait avoir sur l'environnement et d'identifier les risques liés à ces effets. L'évaluation recherche également toutes les précautions d'emploi qui peuvent permettre de réduire ces risques.
 
 Cette évaluation est normalement réalisée en deux étapes. La première étape de l'évaluation est obligatoire dans tous les cas. Il y a lieu de fournir les détails de l'évaluation conformément aux lignes directrices en vigueur. Il convient d'indiquer dans l'évaluation l'exposition éventuelle de l'environnement au produit et le niveau de risque associé à cette exposition, en tenant compte des aspects suivants :
 
@@ -718,7 +718,7 @@ Cette évaluation est normalement réalisée en deux étapes. La première étap
 
 ― l'élimination des médicaments vétérinaires inutilisés ou des autres déchets.
 
-Lors de la seconde étape, il est nécessaire d'effectuer des recherches complémentaires spécifiques en ce qui concerne le devenir et les effets du produit sur des écosystèmes particuliers, conformément aux lignes directrices en vigueur.A cet effet, il y a lieu de prendre en considération l'importance de l'exposition de l'environnement au produit, ainsi que les renseignements sur les propriétés physico-chimiques, pharmacologiques et / ou toxicologiques de la ou des substances concernées, y compris des métabolites en cas de risque identifié, qui ont été obtenus au cours des autres essais et contrôles exigés par le présent arrêté.
+Lors de la seconde étape, il est nécessaire d'effectuer des recherches complémentaires spécifiques en ce qui concerne le devenir et les effets du produit sur des écosystèmes particuliers, conformément aux lignes directrices en vigueur. A cet effet, il y a lieu de prendre en considération l'importance de l'exposition de l'environnement au produit, ainsi que les renseignements sur les propriétés physico-chimiques, pharmacologiques et/ ou toxicologiques de la ou des substances concernées, y compris des métabolites en cas de risque identifié, qui ont été obtenus au cours des autres essais et contrôles exigés par le présent arrêté.
 
 Chapitre II
 
@@ -764,7 +764,7 @@ Conduite des essais
 
 1. Introduction
 
-Aux fins de la présente annexe, les définitions formulées dans le règlement n° 470 / 2009 / CE du Parlement européen et du Conseil s'appliquent.
+Aux fins de la présente annexe, les définitions formulées dans le règlement n° 470/2009/ CE du Parlement européen et du Conseil s'appliquent.
 
 L'étude de la déplétion des résidus a pour objet de déterminer dans quelles conditions et dans quelle mesure les résidus présents dans les tissus comestibles ou bien dans les œufs, le lait ou le miel provenant d'animaux traités peuvent persister dans les denrées alimentaires produites à partir de ces animaux. En outre, les études devront permettre de déterminer un temps d'attente.
 
@@ -778,7 +778,7 @@ Dans le cas de médicaments vétérinaires destinés à des animaux producteurs 
 
 2. Métabolisme et cinétique des résidus
 
-2. 1. Pharmacocinétique
+2.1. Pharmacocinétique
 
 (absorption, distribution, métabolisme, excrétion)
 
@@ -788,13 +788,13 @@ L'étude pharmacocinétique des résidus de médicaments vétérinaires a pour o
 
 Le produit fini ou une préparation possédant des caractéristiques comparables en termes de biodisponibilité est administré à l'animal de destination à la dose maximale recommandée.
 
-L'étendue de l'absorption du médicament vétérinaire en fonction du mode d'administration fait l'objet d'une description détaillée.S'il a été démontré que l'absorption systémique des produits destinés à une application topique est négligeable, des études complémentaires sur les résidus ne sont pas exigées.
+L'étendue de l'absorption du médicament vétérinaire en fonction du mode d'administration fait l'objet d'une description détaillée. S'il a été démontré que l'absorption systémique des produits destinés à une application topique est négligeable, des études complémentaires sur les résidus ne sont pas exigées.
 
 La distribution du médicament vétérinaire dans l'organisme de l'animal de destination est décrite ; la possibilité d'une fixation aux protéines plasmatiques ou d'un passage dans le lait ou dans les œufs ainsi que d'une accumulation de composés lipophiles est étudiée.
 
 Les voies d'excrétion du produit par l'animal de destination sont décrites. Les principaux métabolites sont identifiés et caractérisés.
 
-2. 2. Déplétion des résidus
+2.2. Déplétion des résidus
 
 Cette étude qui consiste à mesurer la vitesse de déplétion des résidus chez l'animal de destination après la dernière administration du médicament a pour objet de déterminer le temps d'attente.
 
@@ -912,7 +912,7 @@ Les techniques expérimentales, lorsqu'elles ne sont pas habituelles, sont décr
 
 Sauf justification appropriée, toute modification quantitative des effets due à une administration réitérée est également étudiée.
 
-Les associations fixes de substances peuvent provenir soit de données pharmacologiques, soit d'indications cliniques. Dans le premier cas, les études pharmacodynamiques et / ou pharmacocinétiques doivent mettre en lumière les interactions qui rendent l'association elle-même recommandable pour l'usage clinique. Dans le second cas, lorsque la justification scientifique de l'association médicamenteuse est apportée par l'expérimentation clinique, il convient de rechercher si les effets attendus de l'association peuvent être mis en évidence chez l'animal et de contrôler au minimum l'importance des effets indésirables. Si une association renferme une substance active nouvelle, cette dernière doit avoir fait l'objet d'une étude préalable approfondie.
+Les associations fixes de substances peuvent provenir soit de données pharmacologiques, soit d'indications cliniques. Dans le premier cas, les études pharmacodynamiques et/ ou pharmacocinétiques doivent mettre en lumière les interactions qui rendent l'association elle-même recommandable pour l'usage clinique. Dans le second cas, lorsque la justification scientifique de l'association médicamenteuse est apportée par l'expérimentation clinique, il convient de rechercher si les effets attendus de l'association peuvent être mis en évidence chez l'animal et de contrôler au minimum l'importance des effets indésirables. Si une association renferme une substance active nouvelle, cette dernière doit avoir fait l'objet d'une étude préalable approfondie.
 
 A. 2. Développement d'une résistance
 
@@ -946,7 +946,7 @@ Il y a lieu d'évaluer la biodisponibilité pour déterminer la bioéquivalence 
 
 B. ― TOLÉRANCE CHEZ L'ANIMAL DE DESTINATION
 
-Il convient d'étudier la tolérance locale et la tolérance systémique du médicament vétérinaire chez l'animal de destination. Ces études ont pour objet de caractériser les signes d'intolérance et d'établir une marge de sécurité adéquate en utilisant la ou les voies d'administration préconisées. Il est possible d'y parvenir en augmentant la dose thérapeutique et / ou la durée du traitement. Le rapport d'expérimentation comprend des informations détaillées sur l'ensemble des effets pharmacologiques attendus et des effets indésirables.
+Il convient d'étudier la tolérance locale et la tolérance systémique du médicament vétérinaire chez l'animal de destination. Ces études ont pour objet de caractériser les signes d'intolérance et d'établir une marge de sécurité adéquate en utilisant la ou les voies d'administration préconisées. Il est possible d'y parvenir en augmentant la dose thérapeutique et/ ou la durée du traitement. Le rapport d'expérimentation comprend des informations détaillées sur l'ensemble des effets pharmacologiques attendus et des effets indésirables.
 
 Chapitre II
 
@@ -968,11 +968,11 @@ Dans le cas d'un médicament vétérinaire principalement destiné à être util
 
 1. Au rendement du produit d'origine animale ;
 
-2.A la qualité du produit d'origine animale (qualités organoleptiques, nutritionnelles, hygiéniques et technologiques) ;
+2. A la qualité du produit d'origine animale (qualités organoleptiques, nutritionnelles, hygiéniques et technologiques) ;
 
-3.A la valeur alimentaire et à la croissance des animaux de l'espèce de destination ;
+3. A la valeur alimentaire et à la croissance des animaux de l'espèce de destination ;
 
-4.A l'état de santé général des animaux de l'espèce de destination.
+4. A l'état de santé général des animaux de l'espèce de destination.
 
 2. Conduite des essais cliniques
 
@@ -988,7 +988,7 @@ Chapitre III
 
 Renseignements et documents
 
-Il y a lieu d'inclure dans le dossier sur l'efficacité tous les documents relatifs aux essais précliniques et cliniques et / ou les résultats des essais, qu'ils soient favorables ou défavorables au médicament vétérinaire, afin de permettre une évaluation globale objective du rapport risques / bénéfices du produit.
+Il y a lieu d'inclure dans le dossier sur l'efficacité tous les documents relatifs aux essais précliniques et cliniques et/ ou les résultats des essais, qu'ils soient favorables ou défavorables au médicament vétérinaire, afin de permettre une évaluation globale objective du rapport risques/ bénéfices du produit.
 
 1. Résultats des essais précliniques
 
@@ -1124,7 +1124,7 @@ La description du système de pharmacovigilance donne un aperçu de l'organisati
 
 Les renseignements fournis au titre de la pharmacovigilance sont établis et présentés conformément au volume 9B publié dans la Réglementation des médicaments dans l'Union européenne (Guidelines of pharmacovigilance for veterinary medicinal products for veterinary use).
 
-2. 1. Informations relatives à la personne
+2.1. Informations relatives à la personne
 
 chargée de la pharmacovigilance vétérinaire
 
@@ -1140,7 +1140,7 @@ Cette rubrique comporte :
 
 ― une attestation, signée par le titulaire de l'autorisation de mise sur le marché et par la personne chargée de la pharmacovigilance vétérinaire, certifiant la disponibilité de la personne chargée de la pharmacovigilance vétérinaire et la mise à sa disposition des moyens nécessaires pour le recueil et la notification de tout effet indésirable survenant soit dans l'Union européenne, soit dans un pays tiers.
 
-2. 2. Informations relatives à l'organisation
+2.2. Informations relatives à l'organisation
 
 Des schémas sont fournis pour présenter de manière synthétique :
 
@@ -1150,7 +1150,7 @@ Des schémas sont fournis pour présenter de manière synthétique :
 
 Dans le cas de recours à des sous-traitants, les informations correspondantes sont indiquées au point 2-5.
 
-2. 3. Informations relatives aux procédures
+2.3. Informations relatives aux procédures
 
 Les opérations ou activités de pharmacovigilance font l'objet de procédures, d'instructions de travail. Le demandeur en fournit une liste, les procédures écrites étant disponibles, sur demande, sous quarante-huit heures.
 
@@ -1192,27 +1192,27 @@ Les domaines couverts par les documents concernent notamment :
 
 ― l'archivage.
 
-2. 4. Informations relatives aux bases de données
+2.4. Informations relatives aux bases de données
 
 Cette rubrique comprend une liste des bases de données dédiées à la collecte des déclarations de pharmacovigilance avec leur brève description fonctionnelle, en précisant la localisation de la base centralisée de données.
 
 Cette dernière couvre, notamment, les opérations suivantes : le recueil, le suivi, le traitement de renseignements de sécurité reçus d'origines différentes, l'élaboration de rapports périodiques actualisés de sécurité, la détection de signaux, la codification des signes cliniques, la veille et le tri des effets indésirables, la fonctionnalité à générer des fichiers compatibles avec la soumission électronique des déclarations d'effets indésirables pour les autorités nationales compétentes, etc.
 
-2. 5. Informations relatives aux sous-traitants
+2.5. Informations relatives aux sous-traitants
 
 Les principaux contrats de sous-traitance pour la conduite des diverses activités de la pharmacovigilance, la nature des accords conclus entre le titulaire d'autorisation de mise sur le marché et les structures de commercialisation et leurs responsabilités respectives pour les activités de pharmacovigilance sont décrits.
 
 En cas de sous-traitance spécifique liée à un médicament vétérinaire, ils sont résumés dans un addenda spécifique au médicament vétérinaire.
 
-2. 6. Informations relatives à la formation
+2.6. Informations relatives à la formation
 
 Une brève description de l'organisation de la formation dispensée au personnel en charge de la pharmacovigilance est donnée. Les structures responsables de la mise à jour des dossiers du personnel, du suivi des formations, des curriculum vitae, des fiches de poste et de fonction sont nommées.
 
-2. 7. Informations relatives à la documentation
+2.7. Informations relatives à la documentation
 
 Les principaux sites où sont conservés les différents types de documentation relative à la pharmacovigilance sont décrits.
 
-2. 8. Informations relatives à l'assurance qualité
+2.8. Informations relatives à l'assurance qualité
 
 Le système d'assurance qualité du titulaire d'autorisation de mise sur le marché est décrit en spécifiant l'organisation des activités, les responsabilités pour les opérations de pharmacovigilance, pour la documentation et pour mener les actions correctives et préventives.
 
@@ -1238,7 +1238,7 @@ DEUXIÈME PARTIE
 
 DONNÉES CHIMIQUES, PHARMACEUTIQUES
 
-ET BIOLOGIQUES / MICROBIOLOGIQUES (QUALITÉ)
+ET BIOLOGIQUES/ MICROBIOLOGIQUES (QUALITÉ)
 
 Toutes les procédures d'essai respectent les critères d'analyse et de contrôle de la qualité des matières premières et du produit fini et sont validées. Les résultats des études de validation sont fournis. Le matériel particulier qui pourrait être employé fait l'objet d'une description suffisante avec schéma éventuel à l'appui. Si nécessaire, la formule des réactifs de laboratoire est complétée par le mode de fabrication.
 
@@ -1266,7 +1266,7 @@ Par termes usuels destinés à désigner les composants du médicament vétérin
 
 ― pour les produits figurant à la Pharmacopée européenne ou, à défaut, à la pharmacopée d'un Etat membre, la dénomination principale retenue par la monographie concernée, obligatoire pour toutes les substances de ce type, avec référence à cette pharmacopée ;
 
-― pour les autres produits, la dénomination commune internationale recommandée par l'Organisation mondiale de la santé, pouvant être accompagnée d'une autre dénomination commune ou, à défaut, de la dénomination scientifique exacte. Les produits dépourvus de dénomination commune internationale ou de désignation scientifique exacte sont désignés par l'indication de l'origine et du mode d'obtention, complétée, le cas échéant, par toutes précisions utiles. Pour les matières colorantes, la désignation par le numéro E qui leur est affecté par la directive 2009 / 35 / CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration et l'annexe I de la directive 94 / 36 / CE est mentionnée.
+― pour les autres produits, la dénomination commune internationale recommandée par l'Organisation mondiale de la santé, pouvant être accompagnée d'une autre dénomination commune ou, à défaut, de la dénomination scientifique exacte. Les produits dépourvus de dénomination commune internationale ou de désignation scientifique exacte sont désignés par l'indication de l'origine et du mode d'obtention, complétée, le cas échéant, par toutes précisions utiles. Pour les matières colorantes, la désignation par le numéro E qui leur est affecté par la directive 2009/35/ CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration et l'annexe I de la directive 94/36/ CE est mentionnée.
 
 3. Composition quantitative
 
@@ -1308,7 +1308,7 @@ Le dossier comprend les spécifications, les informations concernant les essais 
 
 Les monographies de la Pharmacopée européenne s'imposent pour toutes les matières premières y figurant. Pour les autres produits, chaque Etat membre peut imposer, pour les fabrications exécutées sur son territoire, le respect de sa pharmacopée nationale. La conformité des composants aux prescriptions de la Pharmacopée européenne ou de la pharmacopée d'un Etat membre est suffisante pour l'application des dispositions du 7° de l'article R. 5141-16 du code de la santé publique ou du point i du paragraphe 3 de l'article 12 de la directive. Dans ce cas, la description des méthodes analytiques peut être remplacée par la référence détaillée à la pharmacopée en question.
 
-Les matières colorantes satisfont, dans tous les cas, aux exigences de la directive 2009 / 35 / CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration. Les essais de routine à exécuter sur chaque lot de matière première sont déclarés dans la demande d'autorisation de mise sur le marché. Si d'autres essais que ceux mentionnés dans la pharmacopée sont utilisés, il faut fournir la preuve que les matières premières répondent aux exigences de qualité de cette pharmacopée.
+Les matières colorantes satisfont, dans tous les cas, aux exigences de la directive 2009/35/ CE du Parlement européen et du Conseil du 23 avril 2009 relative aux matières pouvant être ajoutées aux médicaments en vue de leur coloration. Les essais de routine à exécuter sur chaque lot de matière première sont déclarés dans la demande d'autorisation de mise sur le marché. Si d'autres essais que ceux mentionnés dans la pharmacopée sont utilisés, il faut fournir la preuve que les matières premières répondent aux exigences de qualité de cette pharmacopée.
 
 Au cas où une spécification ou d'autres dispositions d'une monographie de la Pharmacopée européenne ou de la pharmacopée d'un Etat membre ne suffiraient pas pour garantir la qualité du produit, les autorités compétentes peuvent exiger du demandeur de l'autorisation de mise sur le marché des spécifications plus appropriées. Les autorités responsables de la pharmacopée en question sont informées de l'insuffisance alléguée.
 
@@ -1318,7 +1318,7 @@ Lorsque des matières d'origine animale sont utilisées, elles doivent répondre
 
 2. Matières premières non inscrites dans une pharmacopée
 
-2. 1. Matières premières d'origine biologique
+2.1. Matières premières d'origine biologique
 
 Ces produits doivent faire l'objet d'une monographie.
 
@@ -1348,9 +1348,9 @@ Il convient de fournir une documentation attestant que le matériel souche, les 
 
 Les certificats de conformité délivrés par la direction européenne de la qualité des médicaments, assortis d'une référence à la monographie concernée de la Pharmacopée européenne, peuvent être utilisés pour prouver la conformité.
 
-Des échantillons de la matière première biologique ou des réactifs sont, le cas échéant, fournis à l'Agence française de sécurité sanitaire des aliments pour permettre des essais de contrôle.
+Des échantillons de la matière première biologique ou des réactifs sont, le cas échéant, fournis à l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail pour permettre des essais de contrôle.
 
-2. 2. Matières premières d'origine non biologique
+2.2. Matières premières d'origine non biologique
 
 Les matières premières d'origine non biologique font l'objet d'une monographie portant sur chacune des rubriques suivantes :
 
@@ -1464,7 +1464,7 @@ B. ― ESSAIS DE LABORATOIRE
 
 1. Innocuité de l'administration d'une dose
 
-Le médicament vétérinaire immunologique est administré à la dose préconisée et par chacune des voies d'administration recommandées à des animaux appartenant à toutes les espèces et catégories auxquelles il est destiné, y compris les animaux ayant l'âge minimal d'administration. Les animaux sont maintenus en observation et les signes de réaction locale ou systémique sont recherchés. Des observations minutieuses, tant à l'échelle macroscopique que microscopique, de la zone où a été pratiquée l'injection sont, le cas échéant, effectuées après la mort de l'animal.D'autres critères objectifs, comme la température rectale et la mesure de performances, sont consignés.
+Le médicament vétérinaire immunologique est administré à la dose préconisée et par chacune des voies d'administration recommandées à des animaux appartenant à toutes les espèces et catégories auxquelles il est destiné, y compris les animaux ayant l'âge minimal d'administration. Les animaux sont maintenus en observation et les signes de réaction locale ou systémique sont recherchés. Des observations minutieuses, tant à l'échelle macroscopique que microscopique, de la zone où a été pratiquée l'injection sont, le cas échéant, effectuées après la mort de l'animal. D'autres critères objectifs, comme la température rectale et la mesure de performances, sont consignés.
 
 Les animaux sont maintenus en observation et sont soumis à des examens jusqu'à ce qu'aucune réaction ne soit plus prévisible, la période d'observation et d'examens devant toutefois durer quatorze jours au moins après l'administration.
 
@@ -1484,13 +1484,13 @@ Des observations minutieuses, tant à l'échelle macroscopique que microscopique
 
 Pour les médicaments vétérinaires immunologiques devant être administrés à plusieurs reprises, dans le cadre d'un plan de vaccination de base, une étude de l'administration réitérée d'une dose est nécessaire pour mettre en évidence tout effet indésirable résultant d'une telle administration. Ces essais sont pratiqués sur les catégories les plus sensibles des espèces cibles (telles que certaines souches ou certains groupes d'âge) en utilisant la voie d'administration recommandée.
 
-Les animaux sont maintenus en observation et les signes de réaction locale ou systémique sont recherchés pendant quatorze jours au moins après la dernière administration.D'autres critères objectifs, comme la température rectale et la mesure de performances, sont consignés.
+Les animaux sont maintenus en observation et les signes de réaction locale ou systémique sont recherchés pendant quatorze jours au moins après la dernière administration. D'autres critères objectifs, comme la température rectale et la mesure de performances, sont consignés.
 
 4. Etude de la fonction reproductrice
 
 Une étude de la fonction reproductrice est envisagée chaque fois que certaines données suggèrent que la matière première dont est issu le produit peut présenter un facteur de risque. La fonction reproductrice est étudiée chez le mâle et chez la femelle gravide et non gravide en utilisant la dose préconisée et la voie d'administration la plus sensible. Il faut, en outre, étudier les effets nocifs sur la descendance ainsi que les effets tératogènes et abortifs.
 
-Ces études peuvent faire partie des études d'innocuité décrites aux points 1, 2 et 3 ou des études sur le terrain visées à la section C.
+Ces études peuvent faire partie des études d'innocuité décrites aux points 1,2 et 3 ou des études sur le terrain visées à la section C.
 
 5. Examen des fonctions immunologiques
 
@@ -1498,23 +1498,23 @@ Si le médicament vétérinaire immunologique en question risque d'avoir un effe
 
 6. Exigences spécifiques relatives aux vaccins vivants
 
-6. 1. Diffusibilité de la souche vaccinale
+6.1. Diffusibilité de la souche vaccinale
 
 La diffusibilité de la souche vaccinale par un animal vacciné à des animaux non vaccinés de l'espèce de destination est étudiée en utilisant la voie d'administration préconisée avec laquelle le risque de diffusibilité est le plus élevé. Il peut, en outre, être nécessaire d'étudier la diffusibilité de la souche à des espèces animales auxquelles le médicament n'est pas destiné mais qui peuvent être sensibles à un vaccin vivant.
 
-6. 2. Dissémination dans l'organisme de l'animal vacciné
+6.2. Dissémination dans l'organisme de l'animal vacciné
 
-La présence de la souche vaccinale est, selon le cas, recherchée dans les fèces, l'urine, le lait, les œufs ainsi que dans les sécrétions nasales et orales, entre autres. En outre, des études peuvent être exigées sur la dissémination de la souche dans le corps de l'animal en insistant sur les endroits dans lesquels s'effectue préférentiellement la réplication de l'organisme en question. En ce qui concerne les vaccins vivants prévus pour lutter contre les zoonoses au sens de la directive 2003 / 99 / CE du Parlement européen et du Conseil et destinés à des animaux producteurs d'aliments, ces études prennent tout particulièrement en considération la persistance de l'organisme sur la zone d'injection.
+La présence de la souche vaccinale est, selon le cas, recherchée dans les fèces, l'urine, le lait, les œufs ainsi que dans les sécrétions nasales et orales, entre autres. En outre, des études peuvent être exigées sur la dissémination de la souche dans le corps de l'animal en insistant sur les endroits dans lesquels s'effectue préférentiellement la réplication de l'organisme en question. En ce qui concerne les vaccins vivants prévus pour lutter contre les zoonoses au sens de la directive 2003/99/ CE du Parlement européen et du Conseil et destinés à des animaux producteurs d'aliments, ces études prennent tout particulièrement en considération la persistance de l'organisme sur la zone d'injection.
 
-6. 3. Réversion vers l'état de virulence des vaccins atténués
+6.3. Réversion vers l'état de virulence des vaccins atténués
 
 Il y a lieu d'étudier la réversion vers l'état de virulence sur le lot de semence primaire. Si le lot de semence primaire n'est pas disponible en quantité suffisante, il convient d'étudier un lot de semence de travail correspondant au nombre de passages le plus faible. Le recours à un nombre de passages différent est justifié. La vaccination initiale est effectuée en choisissant la voie d'administration pour laquelle la probabilité d'une réversion vers la virulence est la plus forte. Il y a lieu d'effectuer des passages successifs sur cinq groupes d'animaux cibles, à moins qu'un nombre de passages plus important ne se justifie ou que l'organisme ne disparaisse plus tôt des animaux soumis aux essais. Lorsque l'organisme n'a pas la capacité de se répliquer de façon adéquate, il convient de réaliser autant de passages que possible chez l'espèce cible.
 
-6. 4. Propriétés biologiques de la souche vaccinale
+6.4. Propriétés biologiques de la souche vaccinale
 
 D'autres essais peuvent être nécessaires pour déterminer aussi précisément que possible les propriétés biologiques intrinsèques de la souche vaccinale (par exemple le neurotropisme).
 
-6. 5. Recombinaison ou réarrangement génomique des souches
+6.5. Recombinaison ou réarrangement génomique des souches
 
 La probabilité qu'il se produise une recombinaison ou un réarrangement génomique avec des souches se trouvant sur le terrain ou avec d'autres souches est examinée.
 
@@ -1536,7 +1536,7 @@ S'il existe une déclaration de compatibilité avec d'autres médicaments vété
 
 C. ― ÉTUDES SUR LE TERRAIN
 
-Sauf justification, il convient de compléter les recherches effectuées en laboratoire par des données issues d'études sur le terrain, en utilisant des lots produits conformément au procédé de fabrication décrit dans la demande d'autorisation de mise sur le marché.L'innocuité comme l'efficacité sont étudiées au cours des mêmes études sur le terrain.
+Sauf justification, il convient de compléter les recherches effectuées en laboratoire par des données issues d'études sur le terrain, en utilisant des lots produits conformément au procédé de fabrication décrit dans la demande d'autorisation de mise sur le marché. L'innocuité comme l'efficacité sont étudiées au cours des mêmes études sur le terrain.
 
 D. ― ÉVALUATION DES RISQUES
 
@@ -1590,19 +1590,19 @@ A. ― EXIGENCES GÉNÉRALES
 
 D'une manière générale, des essais effectués dans les conditions d'utilisation, comportant notamment des animaux témoins non traités, sont présentés à l'appui des essais effectués en laboratoire.
 
-Tous les essais sont décrits d'une manière suffisamment détaillée pour être reproductibles dans des essais contrôlés, pratiqués à la demande de l'Agence française de sécurité sanitaire des aliments.L'investigateur démontre la validité de toutes les méthodes utilisées.
+Tous les essais sont décrits d'une manière suffisamment détaillée pour être reproductibles dans des essais contrôlés, pratiqués à la demande de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail. L'investigateur démontre la validité de toutes les méthodes utilisées.
 
 Tous les résultats obtenus sont consignés, qu'ils soient favorables ou défavorables au demandeur.
 
-3.L'efficacité d'un médicament vétérinaire immunologique est prouvée pour chaque catégorie d'espèce cible dont la vaccination est recommandée et pour chaque voie d'administration recommandée en appliquant le schéma d'administration préconisé. Le cas échéant, l'influence des anticorps naturels et des anticorps maternels sur l'efficacité d'un vaccin est appréciée d'une manière appropriée. Sauf justification, le commencement et la durée de l'immunité sont établis et étayés par des essais.
+3. L'efficacité d'un médicament vétérinaire immunologique est prouvée pour chaque catégorie d'espèce cible dont la vaccination est recommandée et pour chaque voie d'administration recommandée en appliquant le schéma d'administration préconisé. Le cas échéant, l'influence des anticorps naturels et des anticorps maternels sur l'efficacité d'un vaccin est appréciée d'une manière appropriée. Sauf justification, le commencement et la durée de l'immunité sont établis et étayés par des essais.
 
-4. Pour les médicaments vétérinaires immunologiques à valences multiples et combinées, l'efficacité de chacun des composants est démontrée.S'il est préconisé d'administrer le médicament en association avec un autre médicament vétérinaire, ou en même temps, il faut prouver leur compatibilité.
+4. Pour les médicaments vétérinaires immunologiques à valences multiples et combinées, l'efficacité de chacun des composants est démontrée. S'il est préconisé d'administrer le médicament en association avec un autre médicament vétérinaire, ou en même temps, il faut prouver leur compatibilité.
 
 5. Chaque fois qu'un médicament fait partie d'un plan de vaccination recommandé par le demandeur, il y a lieu de démontrer l'effet activateur ou amplificateur ou la contribution du médicament vétérinaire immunologique à l'efficacité du plan dans son ensemble.
 
 6. La dose utilisée correspond à la quantité de produit recommandée et le lot utilisé pour les essais d'efficacité est prélevé dans un ou des lots produits conformément au procédé de fabrication décrit dans la deuxième partie de la demande d'autorisation.
 
-7.S'il existe une déclaration de compatibilité avec d'autres médicaments immunologiques dans le résumé des caractéristiques du produit, il y a lieu d'examiner l'efficacité de l'association. Toute autre interaction connue avec d'autres médicaments vétérinaires est décrite. Une utilisation concomitante ou simultanée peut être autorisée, pour autant qu'elle soit étayée par des études appropriées.
+7. S'il existe une déclaration de compatibilité avec d'autres médicaments immunologiques dans le résumé des caractéristiques du produit, il y a lieu d'examiner l'efficacité de l'association. Toute autre interaction connue avec d'autres médicaments vétérinaires est décrite. Une utilisation concomitante ou simultanée peut être autorisée, pour autant qu'elle soit étayée par des études appropriées.
 
 8. Pour les médicaments vétérinaires immunologiques administrés à des animaux à des fins de diagnostic, le demandeur indique comment il convient d'interpréter les réactions au produit.
 
@@ -1610,15 +1610,15 @@ Tous les résultats obtenus sont consignés, qu'ils soient favorables ou défavo
 
 B. ― ESSAIS DE LABORATOIRE
 
-1.L'efficacité du médicament est en principe démontrée dans des conditions de laboratoire bien définies, en effectuant sur l'espèce cible une épreuve par provocation après administration du médicament vétérinaire immunologique dans les conditions d'utilisation préconisées. Dans la mesure du possible, les conditions dans lesquelles la provocation est réalisée doivent reproduire les conditions naturelles d'infection. Il convient de fournir des précisions sur la souche utilisée pour la provocation et sur sa pertinence.
+1. L'efficacité du médicament est en principe démontrée dans des conditions de laboratoire bien définies, en effectuant sur l'espèce cible une épreuve par provocation après administration du médicament vétérinaire immunologique dans les conditions d'utilisation préconisées. Dans la mesure du possible, les conditions dans lesquelles la provocation est réalisée doivent reproduire les conditions naturelles d'infection. Il convient de fournir des précisions sur la souche utilisée pour la provocation et sur sa pertinence.
 
 Pour les vaccins vivants, il y a lieu, sauf justification, d'utiliser les lots dont la teneur ou le titre est le plus faible. Pour les autres produits, il y a lieu d'utiliser, sauf justification contraire, les lots dont le contenu actif est le plus faible.
 
-2. Si possible, le type de réaction immunitaire (à médiation cellulaire / humorale, locale / générale, classe d'immunoglobulines) induite par l'administration du médicament vétérinaire immunologique à l'animal de destination par la voie d'administration recommandée est indiqué et documenté.
+2. Si possible, le type de réaction immunitaire (à médiation cellulaire/ humorale, locale/ générale, classe d'immunoglobulines) induite par l'administration du médicament vétérinaire immunologique à l'animal de destination par la voie d'administration recommandée est indiqué et documenté.
 
 C. ― ÉTUDES SUR LE TERRAIN
 
-1. Sauf justification, il convient de compléter les recherches effectuées en laboratoire par des données issues d'études sur le terrain, en utilisant des lots représentatifs du procédé de fabrication décrit dans la demande d'autorisation de mise sur le marché.L'innocuité comme l'efficacité sont étudiées au cours des mêmes études sur le terrain.
+1. Sauf justification, il convient de compléter les recherches effectuées en laboratoire par des données issues d'études sur le terrain, en utilisant des lots représentatifs du procédé de fabrication décrit dans la demande d'autorisation de mise sur le marché. L'innocuité comme l'efficacité sont étudiées au cours des mêmes études sur le terrain.
 
 2. Lorsque les essais de laboratoire ne permettent pas de faire apparaître l'efficacité du produit, la seule conduite d'essais sur le terrain peut être acceptable.
 
@@ -1638,13 +1638,13 @@ Pour toute étude, il faut présenter :
 
 2. Le nom de l'organisme qui a réalisé l'étude.
 
-3. Un protocole expérimental détaillé avec la description des méthodes suivies, des appareils et du matériel utilisés, de l'espèce, de la race ou de la lignée des animaux, de leur catégorie et de leur origine, de leur identification et de leur nombre, des conditions d'environnement et d'alimentation adoptées en précisant, entre autres, s'ils sont exempts de germes pathogènes spécifiques et / ou d'anticorps spécifiques, la nature et la quantité des additifs contenus dans la nourriture, la dose, la voie, le schéma et les dates d'administration et une justification des méthodes statistiques utilisées.
+3. Un protocole expérimental détaillé avec la description des méthodes suivies, des appareils et du matériel utilisés, de l'espèce, de la race ou de la lignée des animaux, de leur catégorie et de leur origine, de leur identification et de leur nombre, des conditions d'environnement et d'alimentation adoptées en précisant, entre autres, s'ils sont exempts de germes pathogènes spécifiques et/ ou d'anticorps spécifiques, la nature et la quantité des additifs contenus dans la nourriture, la dose, la voie, le schéma et les dates d'administration et une justification des méthodes statistiques utilisées.
 
 4. Pour les animaux témoins, il faut préciser s'ils ont reçu un traitement placebo ou non.
 
 5. Pour les animaux traités, le cas échéant, s'ils ont reçu le médicament soumis à l'essai ou un autre médicament autorisé dans l'Union européenne.
 
-6. Tous les renseignements généraux ou individuels et les résultats obtenus (avec les moyennes et les écarts types), favorables et défavorables. Les données sont suffisamment détaillées de façon à permettre l'appréciation critique des résultats, indépendamment de l'interprétation qu'en donne l'auteur. Les données brutes sont présentées sous forme de tableaux.A titre d'explication et d'exemple, les résultats peuvent être accompagnés de documents reproduisant les enregistrements, les microphotographies, etc.
+6. Tous les renseignements généraux ou individuels et les résultats obtenus (avec les moyennes et les écarts types), favorables et défavorables. Les données sont suffisamment détaillées de façon à permettre l'appréciation critique des résultats, indépendamment de l'interprétation qu'en donne l'auteur. Les données brutes sont présentées sous forme de tableaux. A titre d'explication et d'exemple, les résultats peuvent être accompagnés de documents reproduisant les enregistrements, les microphotographies, etc.
 
 7. La nature, la fréquence et la durée des effets indésirables observés.
 
@@ -1652,7 +1652,7 @@ Pour toute étude, il faut présenter :
 
 9. Une analyse statistique des résultats, lorsqu'elle est exigée par le programme d'essais, et la variance entre les données.
 
-10.L'apparition et l'évolution des éventuelles maladies intercurrentes.
+10. L'apparition et l'évolution des éventuelles maladies intercurrentes.
 
 11. Toutes précisions sur les médicaments vétérinaires (autres que celui soumis à l'essai), administrés au cours de la période d'examen.
 
@@ -1672,7 +1672,7 @@ Les renseignements concernant les études sur le terrain sont suffisamment déta
 
 5. Pour les animaux témoins, il faut préciser s'ils ont reçu un traitement placebo ou non.
 
-6.L'identification des animaux traités et témoins (collective ou individuelle, selon le cas) avec espèce, race ou lignée, âge, poids, sexe et état physiologique.
+6. L'identification des animaux traités et témoins (collective ou individuelle, selon le cas) avec espèce, race ou lignée, âge, poids, sexe et état physiologique.
 
 7. Une brève description du mode d'élevage et d'alimentation, faisant état de la nature et de la quantité des additifs contenus dans la nourriture.
 
@@ -1686,7 +1686,7 @@ Les renseignements concernant les études sur le terrain sont suffisamment déta
 
 12. La nature, la fréquence et la durée des effets indésirables observés.
 
-13.L'apparition et l'évolution des éventuelles maladies intercurrentes.
+13. L'apparition et l'évolution des éventuelles maladies intercurrentes.
 
 14. Toutes précisions concernant les médicaments vétérinaires (autres que celui étudié), administrés soit préalablement, soit parallèlement au produit soumis à l'essai ou durant la période d'observation ; une description détaillée de toute interaction observée.
 
@@ -1732,7 +1732,7 @@ Conformément au 3° de l'article R. 5141-20 du code de la santé publique ou au
 
 ― la nature et la quantité de données supplémentaires (à savoir des données toxicologiques et d'autres études d'innocuité, et des études cliniques appropriées) déterminées au cas par cas, conformément aux lignes directrices scientifiques correspondantes ;
 
-― les études nécessaires en raison de la diversité des médicaments vétérinaires biologiques, déterminées par l'Agence française de sécurité sanitaire des aliments et prévues dans les troisième et quatrième parties, en prenant en considération la caractéristique spécifique de chaque médicament vétérinaire biologique considéré isolément.
+― les études nécessaires en raison de la diversité des médicaments vétérinaires biologiques, déterminées par l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail et prévues dans les troisième et quatrième parties, en prenant en considération la caractéristique spécifique de chaque médicament vétérinaire biologique considéré isolément.
 
 Les principes généraux à appliquer sont traités dans une ligne directrice qui sera adoptée par l'Agence européenne des médicaments, compte tenu des caractéristiques du médicament biologique concerné. Lorsque le médicament vétérinaire biologique de référence possède plus d'une indication, l'efficacité et l'innocuité du médicament présenté comme similaire sont justifiées ou, au besoin, démontrées séparément pour chacune des indications revendiquées.
 
@@ -1746,7 +1746,7 @@ Pour les troisième et quatrième parties, une bibliographie scientifique détai
 
 Les règles spécifiques suivantes s'appliquent pour démontrer l'usage vétérinaire bien établi :
 
-3. 1. Les facteurs à prendre en considération pour démontrer que l'usage vétérinaire des composants d'un médicament est bien établi sont les suivants :
+3.1. Les facteurs à prendre en considération pour démontrer que l'usage vétérinaire des composants d'un médicament est bien établi sont les suivants :
 
 a) La durée d'utilisation d'une substance active ;
 
@@ -1758,15 +1758,15 @@ d) La cohérence des évaluations scientifiques.
 
 Des laps de temps différents peuvent être nécessaires pour démontrer l'usage bien établi de substances différentes. En tout état de cause, le laps de temps nécessaire pour démontrer que l'usage vétérinaire d'un composant d'un médicament est bien établi ne peut cependant pas être inférieur à dix ans comptés à partir de la première utilisation systématique et documentée de cette substance en tant que médicament vétérinaire dans l'Union européenne.
 
-3. 2. La documentation soumise par le demandeur couvre tous les aspects de l'évaluation de la sécurité et / ou de l'efficacité du produit pour l'indication proposée chez l'espèce de destination, en appliquant la voie d'administration et la posologie préconisées. Elle comprend une revue de la littérature correspondante ou y fait référence, et tient compte des études de précommercialisation et de postcommercialisation et de la littérature scientifique publiée relatant l'expérience sous forme d'enquêtes épidémiologiques, en particulier d'enquêtes épidémiologiques comparatives.
+3.2. La documentation soumise par le demandeur couvre tous les aspects de l'évaluation de la sécurité et/ ou de l'efficacité du produit pour l'indication proposée chez l'espèce de destination, en appliquant la voie d'administration et la posologie préconisées. Elle comprend une revue de la littérature correspondante ou y fait référence, et tient compte des études de précommercialisation et de postcommercialisation et de la littérature scientifique publiée relatant l'expérience sous forme d'enquêtes épidémiologiques, en particulier d'enquêtes épidémiologiques comparatives.
 
 Tous les documents, tant favorables que défavorables, sont communiqués. En ce qui concerne les dispositions relatives à l'usage vétérinaire bien établi, il est en particulier nécessaire de préciser que les références bibliographiques issues d'autres sources probantes (études de postcommercialisation, études épidémiologiques, etc.), et non pas uniquement les données relatives aux essais et aux contrôles, peuvent constituer des preuves valables de la sécurité et de l'efficacité d'un produit, pour autant que l'utilisation de ces sources d'information soit expliquée et justifiée dans la demande.
 
-3. 3. Il y a lieu de veiller spécifiquement aux données manquantes et d'expliquer pourquoi il est possible de soutenir qu'un niveau acceptable de sécurité et / ou d'efficacité peut être garanti, même en l'absence de certaines études.
+3.3. Il y a lieu de veiller spécifiquement aux données manquantes et d'expliquer pourquoi il est possible de soutenir qu'un niveau acceptable de sécurité et/ ou d'efficacité peut être garanti, même en l'absence de certaines études.
 
-3. 4. Les résumés détaillés et critiques sur la sécurité ou l'efficacité expliquent la pertinence de toutes les données fournies qui concernent un produit différent de celui qui sera commercialisé. Il est jugé si le produit étudié peut être considéré comme similaire au produit pour lequel une demande d'autorisation de mise sur le marché à été faite en dépit des différences existantes.
+3.4. Les résumés détaillés et critiques sur la sécurité ou l'efficacité expliquent la pertinence de toutes les données fournies qui concernent un produit différent de celui qui sera commercialisé. Il est jugé si le produit étudié peut être considéré comme similaire au produit pour lequel une demande d'autorisation de mise sur le marché à été faite en dépit des différences existantes.
 
-3. 5.L'expérience de postcommercialisation recueillie avec d'autres produits contenant les mêmes composants revêt une importance particulière et les demandeurs doivent insister spécialement sur cet aspect.
+3.5. L'expérience de postcommercialisation recueillie avec d'autres produits contenant les mêmes composants revêt une importance particulière et les demandeurs doivent insister spécialement sur cet aspect.
 
 4. Médicaments vétérinaires contenant une association
 
@@ -1778,19 +1778,19 @@ Dans le cas de demandes fondées sur le 2° de l'article R. 5141-18 du code de l
 
 de l'autorisation de mise sur le marché
 
-Les demandes fondées sur le 4° de l'article R. 5141-20 du code de la santé publique ou sur l'article 13 quater de la directive incluent les données décrites à la première partie du titre Ier de la présente annexe, et le document attestant de la mise à disposition des données des parties 2, 3 et 4 par le titulaire de l'autorisation de mise sur le marché du médicament vétérinaire de référence. Dans ce cas, il n'est pas nécessaire de fournir des résumés détaillés et critiques sur la qualité, l'innocuité et l'efficacité.
+Les demandes fondées sur le 4° de l'article R. 5141-20 du code de la santé publique ou sur l'article 13 quater de la directive incluent les données décrites à la première partie du titre Ier de la présente annexe, et le document attestant de la mise à disposition des données des parties 2,3 et 4 par le titulaire de l'autorisation de mise sur le marché du médicament vétérinaire de référence. Dans ce cas, il n'est pas nécessaire de fournir des résumés détaillés et critiques sur la qualité, l'innocuité et l'efficacité.
 
 6. Documentation pour des demandes d'autorisation
 
 dans des circonstances exceptionnelles
 
-6. 1. Dispositions générales
+6.1. Dispositions générales
 
 Une autorisation de mise sur le marché peut être accordée sous réserve de certaines obligations spécifiques faites au demandeur de présenter des éléments particuliers, concernant notamment la sécurité et l'efficacité du médicament vétérinaire, lorsqu'en application des 6° et 9° de l'article R. 5141-20 du code de la santé publique ou conformément au paragraphe 3 de l'article 26 de la directive le demandeur peut démontrer qu'il n'est pas en mesure de fournir des données complètes sur la quantification de la substance active au niveau du produit fini, sur l'efficacité et sur la sécurité dans des conditions normales d'utilisation.
 
-Les exigences essentielles applicables à toutes les demandes visées dans le présent paragraphe (dans le domaine de la sécurité ou de l'efficacité) sont précisées au cas par cas par le directeur de l'Agence française de sécurité sanitaire des aliments sur la base des recommandations formulées par des lignes directrices.
+Les exigences essentielles applicables à toutes les demandes visées dans le présent paragraphe (dans le domaine de la sécurité ou de l'efficacité) sont précisées au cas par cas par le directeur de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail sur la base des recommandations formulées par des lignes directrices.
 
-6. 2. Médicaments immunologiques
+6.2. Médicaments immunologiques
 
 Sans préjudice des dispositions ci-dessus, les données à fournir pour un médicament immunologique sont les suivantes :
 
@@ -1816,7 +1816,7 @@ En ce qui concerne la troisième partie :
 
 7. Demandes mixtes d'autorisation de mise sur le marché
 
-Les demandes mixtes d'autorisation de mise sur le marché sont des demandes pour lesquelles la troisième ou la quatrième partie du dossier comprennent des études d'innocuité et d'efficacité menées par le demandeur ainsi que des références bibliographiques. Toutes les autres parties sont conformes à la structure décrite dans les première et deuxième parties du titre Ier de la présente annexe.L'Agence française de sécurité sanitaire des aliments accepte au cas par cas le format présenté par le demandeur.
+Les demandes mixtes d'autorisation de mise sur le marché sont des demandes pour lesquelles la troisième ou la quatrième partie du dossier comprennent des études d'innocuité et d'efficacité menées par le demandeur ainsi que des références bibliographiques. Toutes les autres parties sont conformes à la structure décrite dans les première et deuxième parties du titre Ier de la présente annexe. L'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail accepte au cas par cas le format présenté par le demandeur.
 
 8. Demandes d'autorisation de mise sur le marché pour des espèces ou des indications d'importance mineure mentionnées au 7° de l'article R. 5141-20
 
@@ -1842,7 +1842,7 @@ A. ― DOSSIER PERMANENT DE L'ANTIGÈNE VACCINANT
 
 Pour certains médicaments vétérinaires immunologiques particuliers et par dérogation aux dispositions du titre II, deuxième partie, section C, sur les substances actives, le concept de dossier permanent de l'antigène vaccinant est introduit.
 
-Aux fins de la présente annexe, on entend par dossier permanent de l'antigène vaccinant une partie autonome du dossier de demande d'autorisation de mise sur le marché d'un vaccin, qui contient toutes les informations pertinentes concernant la qualité de chacune des substances actives composant ce médicament vétérinaire. La partie autonome peut être commune à un ou plusieurs vaccins monovalents et / ou combinés présenté (s) par le même demandeur ou titulaire de l'autorisation de mise sur le marché.
+Aux fins de la présente annexe, on entend par dossier permanent de l'antigène vaccinant une partie autonome du dossier de demande d'autorisation de mise sur le marché d'un vaccin, qui contient toutes les informations pertinentes concernant la qualité de chacune des substances actives composant ce médicament vétérinaire. La partie autonome peut être commune à un ou plusieurs vaccins monovalents et/ ou combinés présenté (s) par le même demandeur ou titulaire de l'autorisation de mise sur le marché.
 
 Des lignes directrices scientifiques relatives au dépôt et à l'évaluation du dossier permanent de l'antigène vaccinant seront adoptées par l'Agence européenne des médicaments. Le dépôt de ce type de dossier comporte une demande établie conformément à l'article R. 5141-14 du code de la santé publique accompagnée de la documentation pertinente mentionnée aux 2°, 6° et 7° de l'article R. 5141-16 du même code. Ce dossier et l'évaluation qui en est faite respectent également les lignes directrices publiées par la Commission dans La réglementation des médicaments dans l'Union européenne, volume 6 B, avis aux demandeurs.
 
@@ -1850,7 +1850,7 @@ B. ― DOSSIER MULTISOUCHES
 
 Pour certains médicaments vétérinaires immunologiques (fièvre aphteuse, grippe aviaire et fièvre catarrhale du mouton) et par dérogation aux dispositions du titre II, deuxième partie, section C, sur les substances actives, le concept de dossier multisouches est introduit.
 
-On entend par dossier multisouches un seul dossier contenant les données pertinentes nécessaires à une évaluation scientifique unique et approfondie des différentes options en ce qui concerne les souches / associations de souches, en vue de permettre l'autorisation de vaccins contre des virus présentant une variabilité antigénique.
+On entend par dossier multisouches un seul dossier contenant les données pertinentes nécessaires à une évaluation scientifique unique et approfondie des différentes options en ce qui concerne les souches/ associations de souches, en vue de permettre l'autorisation de vaccins contre des virus présentant une variabilité antigénique.
 
 Des lignes directrices scientifiques relatives au dépôt et à l'évaluation des dossiers multisouches seront adoptées par l'Agence européenne des médicaments. Le dépôt de ce type de dossier comporte une demande établie conformément à l'article R. 5141-14 du code de la santé publique accompagnée de la documentation pertinente mentionnée aux 2°, 6° et 7° de l'article R. 5141-16 du même code. Ce dossier et l'évaluation qui en est faite respectent également les lignes directrices publiées par la Commission dans La réglementation des médicaments dans l'Union européenne, volume 6 B, avis aux demandeurs.
 
@@ -1880,7 +1880,7 @@ c) Contrôle du produit fini :
 
 Les exigences générales de qualité s'appliquent aux médicaments homéopathiques vétérinaires finis. Toute exception est dûment justifiée par le demandeur.
 
-L'identification et le dosage de tous les composants présentant un risque toxique sont réalisés.S'il peut être justifié qu'une identification et / ou un dosage de tous les composants présentant un risque toxique ne sont pas possibles, par exemple en raison de leur dilution dans le produit fini, la qualité est démontrée par une validation complète du processus de fabrication et de dilution.
+L'identification et le dosage de tous les composants présentant un risque toxique sont réalisés. S'il peut être justifié qu'une identification et/ ou un dosage de tous les composants présentant un risque toxique ne sont pas possibles, par exemple en raison de leur dilution dans le produit fini, la qualité est démontrée par une validation complète du processus de fabrication et de dilution.
 
 d) Essais de stabilité :
 
@@ -1888,6 +1888,6 @@ La stabilité du produit fini est démontrée. Les données de stabilité des so
 
 En ce qui concerne la troisième partie :
 
-Les dispositions de la troisième partie s'appliquent à l'enregistrement simplifié des médicaments homéopathiques vétérinaires visé à l'article L. 5141-9 du code de la santé publique ou au paragraphe 1 de l'article 17 de la directive avec la spécification suivante, sans préjudice des dispositions du règlement n° 470 / 2009 / CE concernant les substances incluses dans les souches homéopathiques destinées à être administrées à des espèces animales productrices d'aliments.
+Les dispositions de la troisième partie s'appliquent à l'enregistrement simplifié des médicaments homéopathiques vétérinaires visé à l'article L. 5141-9 du code de la santé publique ou au paragraphe 1 de l'article 17 de la directive avec la spécification suivante, sans préjudice des dispositions du règlement n° 470/2009/ CE concernant les substances incluses dans les souches homéopathiques destinées à être administrées à des espèces animales productrices d'aliments.
 
 Toute information manquante est justifiée et il y a lieu d'expliquer, par exemple, pourquoi il est possible de soutenir qu'un niveau acceptable de sécurité peut être garanti, même en l'absence de certaines études.
