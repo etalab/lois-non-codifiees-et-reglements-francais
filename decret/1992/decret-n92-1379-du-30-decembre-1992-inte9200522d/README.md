@@ -2,5 +2,4 @@
 
 - [Titre 1er : Du brevet national de pisteur-secouriste.](titre-1er)
 - [Titre 2 : Du brevet national de maître pisteur-secouriste.](titre-2)
-- [Titre 3 : Dispositions communes.](titre-3)
 - [Article 16](article-16.md)
