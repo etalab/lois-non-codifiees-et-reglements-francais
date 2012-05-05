@@ -1,0 +1,3 @@
+# Article 3
+
+Les agents en congé de mobilité à la date du 31 mars 2011 peuvent se présenter soit aux recrutements réservés qui sont ouverts pour l'accès aux corps de leur département ministériel, établissement public ou autorité publique d'origine, soit aux recrutements réservés ouverts pour l'accès aux corps ou cadres d'emplois du département ministériel, de l'établissement public, de l'autorité publique ou de la personne morale de droit public auprès duquel ou de laquelle ils exercent effectivement leurs fonctions à cette date, sous réserve de remplir les conditions d'ancienneté exigées par la loi du 12 mars 2012 susvisée pour l'accès à ces corps ou cadres d'emplois.

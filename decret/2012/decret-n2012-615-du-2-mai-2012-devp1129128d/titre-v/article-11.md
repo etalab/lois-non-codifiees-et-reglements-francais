@@ -1,0 +1,9 @@
+# Article 11
+
+I. ― Les organismes ayant obtenu, en application des dispositions abrogées par l'article 12, une habilitation pour effectuer les analyses, expertises ou contrôles prévus aux articles L. 555-3, L. 555-4 et R. 555-40 du code de l'environnement, sont dispensés de l'habilitation prévue à l'article R. 555-49 de ce code jusqu'à la caducité de leur habilitation en cours.
+
+II. ― Par dérogation à l'article R. 555-51 du code de l'environnement, les agents titulaires d'une habilitation en cours de validité prononcée en application du décret n° 2004-1468 du 23 décembre 2004 fixant les conditions d'habilitation des agents publics chargés de la surveillance des canalisations de transport d'hydrocarbures liquides ou liquéfiés et de produits chimiques et de transport ou de distribution de gaz naturel peuvent procéder aux actions d'instruction et de contrôles mentionnées dans cet article au plus tard un an après la date de publication du présent décret.
+
+III. ― Les dispositions du II de l'article 9 s'appliquent aux demandes de permis de construire déposées à compter de l'entrée en vigueur du présent décret.
+
+IV. ― Les dispositions du 1° de l'article R. 555-9, de l'article R. 555-12 et du IV de l'article R. 555-16 du code de l'environnement dans leur rédaction issue du présent décret entrent en application le 1er juin 2012. Jusqu'à cette date, les seuils à partir desquels l'étude d'impact est obligatoire sont fixés par l'article R. 122-5 et le I de l'article R. 122-8, le contenu de l'étude d'impact est défini à l'article R. 122-3, l'autorité administrative de l'Etat compétente en matière d'environnement définie à l'article R. 122-1-1 est consultée dans les conditions fixées par l'article R. 122-13 et les enquêtes publiques conjointes sont menées conformément à l'article L. 555-8 du code de l'environnement.
