@@ -7,14 +7,14 @@ A compter du 1er mars 2007, le montant des indemnités forfaitaires représentat
 <tr>
 <th>
 <br/>
-<font size="1">CORPS<br/>
+<font size="1">CORPS <br/>
 </font>
 </th>
 <th colspan="2">
 <br/>
 <font size="1">TAUX </font>
 <p>
-<font size="1">(annuels en euros)<br/>
+<font size="1">(annuels en euros) <br/>
 </font>
 </p>
 </th>
@@ -24,55 +24,55 @@ A compter du 1er mars 2007, le montant des indemnités forfaitaires représentat
 <font size="1"/>
 </th>
 <th>
-<br/>
-<font size="1">Taux moyens<br/>
-</font>
+<p>
+<font size="1">Taux moyens</font>
+</p>
 </th>
 <th>
-<br/>
+<p>
 <font size="1">Taux maximums</font>
-<br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Corps des attachés d'administration hospitalière : Attaché principal<br/>
+<br/>Corps des attachés d'administration hospitalière : Attaché principal <br/>
 </td>
 <td align="center">
-<br/>1 219<br/>
+<br/>1 219 <br/>
 </td>
 <td align="center">
-<br/>2 438<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Corps des attachés d'administration hospitalière : Attaché<br/>
-</td>
-<td align="center">
-<br/>1 067<br/>
-</td>
-<td align="center">
-<br/>2 134<br/>
+<br/>2 438 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corps des adjoints des cadres hospitaliers<br/>
+<br/>Corps des attachés d'administration hospitalière : Attaché <br/>
 </td>
 <td align="center">
-<br/>839,69<br/>
+<br/>1 067 <br/>
 </td>
 <td align="center">
-<br/>1 679,38<br/>
+<br/>2 134 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corps des secrétaires médicaux<br/>
+<br/>Corps des adjoints des cadres hospitaliers <br/>
 </td>
 <td align="center">
-<br/>699,74<br/>
+<br/>839,69 <br/>
+</td>
+<td align="center">
+<br/>1 679,38 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Corps des assistants médico-administratifs <br/>
+</td>
+<td align="center">
+<br/>699,74 <br/>
 </td>
 <td align="center">
 <br/>1 399,48<br/>
