@@ -36,53 +36,22 @@ La commission administrative paritaire visée à l'article 1er est composée ain
 </tr>
 <tr>
 <td valign="top">
-<p>Officiers de protection principaux de 1re classe</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Officiers de protection principaux de 2e classe</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
+<p>Officiers de protection principaux </p>
 <p>Officiers de protection</p>
 </td>
 <td>
 <p align="center">2</p>
-</td>
-<td>
 <p align="center">2</p>
 </td>
 <td>
 <p align="center">2</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">4</p>
+</td>
+<td>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
@@ -90,16 +59,16 @@ La commission administrative paritaire visée à l'article 1er est composée ain
 <p>Total</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">4</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">4</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">4</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">4</p>
 </td>
 </tr>
 </tbody>

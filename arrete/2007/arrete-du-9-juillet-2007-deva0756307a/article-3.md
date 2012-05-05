@@ -83,3 +83,7 @@ Jusqu'au 1er mars 2017 :
 Paris - Dubrovnik (Croatie) ;
 
 Paris - Split (Croatie).
+
+Jusqu'au 24 avril 2017 :
+
+Paris - Tunis (Tunisie).
