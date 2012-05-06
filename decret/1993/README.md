@@ -345,7 +345,6 @@
 - [Décret n°93-213 du 16 février 1993 (MENT9304082D)](decret-n93-213-du-16-fevrier-1993-ment9304082d)
 - [Décret n°93-214 du 16 février 1993 (MENT9304083D)](decret-n93-214-du-16-fevrier-1993-ment9304083d)
 - [Décret n°93-225 du 16 février 1993 (ECOT9220018D)](decret-n93-225-du-16-fevrier-1993-ecot9220018d)
-- [Décret n°93-362 du 16 mars 1993 (JUSC9320135D)](decret-n93-362-du-16-mars-1993-jusc9320135d)
 - [Décret n°93-910 du 16 juillet 1993 (PRMD9350006D)](decret-n93-910-du-16-juillet-1993-prmd9350006d)
 - [Décret n°93-912 du 16 juillet 1993 (AGRS9301235D)](decret-n93-912-du-16-juillet-1993-agrs9301235d)
 - [Décret n°93-938 du 16 juillet 1993 (SPSS9301696D)](decret-n93-938-du-16-juillet-1993-spss9301696d)

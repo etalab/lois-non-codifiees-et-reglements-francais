@@ -1,5 +1,5 @@
 # Article 49
 
-Les clercs en fonction au jour de la publication du présent décret ne pourront invoquer le temps de stage déjà accompli que s'ils s'inscrivent dans un délai de trois mois sur le registre prévu par l'article 3, 3°.
+A  compter au plus tard du 1er janvier 2015, tous les biens, droits et  obligations de la Chambre nationale des avoués près les cours d'appel  sont transférés au Conseil national des barreaux.
 
-La chambre, si elle agrée la demande des aspirants à l'inscription, appréciera la durée de la période pendant laquelle le stage déjà accompli a été effectif, et ne validera ledit stage que pour cette durée.
+Lors de ce transfert, le président de la chambre nationale remet au  président du Conseil national des barreaux un relevé détaillé de l'actif  et du passif, comportant s'il y a lieu la nature et le montant des  créances à percevoir et des dettes à payer, accompagné des pièces  relatives à ces droits et obligations.

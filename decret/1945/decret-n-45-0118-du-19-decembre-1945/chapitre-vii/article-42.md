@@ -1,7 +1,9 @@
 # Article 42
 
-Lorsqu'une chambre siégeant ou non en comité mixte ne peut, par suite de vacances auxquelles il n'a pas été pourvu dans les formes et délais réglementaires, prendre, faute de quorum, des délibérations valables, le premier président, à la requête du procureur général, transfère les attributions de ladite chambre ainsi qu'il est dit à l'article 43 de l'ordonnance du 28 juin 1945.
+Lorsqu'une  chambre ne peut, par suite de vacances, prendre des délibérations  valables faute de quorum, le premier président, à la requête du  procureur général, transfère les activités de cette chambre :
 
-Il est alors fait application des règles posées aux articles 43 (alinéas 2 et suivants) et 44 de ladite ordonnance.
+― à la première chambre civile de la Cour de cassation s'agissant de la chambre nationale ;
 
-Le corps électoral est convoqué à l'époque fixée pour les élections normales subséquentes afin de pourvoir à toutes les vacances existant au jour desdites élections.
+― à la première chambre civile de la cour d'appel dans le ressort de  laquelle est située la chambre de la compagnie, s'agissant de celle-ci.
+
+La cour ainsi constituée peut désigner un ou plusieurs officiers  publics ou ministériels honoraires ou en exercice de la même catégorie  chargés d'agir conformément à ce qui aura été délibéré. Néanmoins, les  poursuites disciplinaires ne peuvent être exercées que par le ministère  public.

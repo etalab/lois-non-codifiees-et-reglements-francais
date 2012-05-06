@@ -6,6 +6,6 @@ Les huissiers-audienciers ont pour fonctions :
 
 En matière civile, d'assister aux audiences solennelles, de faire l'appel des causes et, à titre exceptionnel, de maintenir l'ordre sous l'autorité du président ;
 
-2° De signifier les actes d'avoué à avoué ;
+2° De signifier les actes d'avocat à avocat ;
 
-Ils se partagent par parts égales les émoluments des appels de causes et des significations d'avoué à avoué.
+Ils se partagent par parts égales les émoluments des appels de causes et des significations d'avocat à avocat.

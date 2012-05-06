@@ -1,6 +1,6 @@
 # Article 1
 
-Le suppléant visé au chapitre 2 du décret n° 55-604 du 20 mai 1955 est désigné soit, pour les avoués près la cour d'appel et les greffiers en chef des cours d'appel, par la cour d'appel, soit, pour les autres officiers publics ou ministériels, par le tribunal de grande instance.
+Le suppléant visé au chapitre 2 du décret n° 55-604 du 20 mai 1955 est désigné par le tribunal de grande instance.
 
 La juridiction compétente est saisie par requête soit du procureur général ou du procureur de la République, soit du titulaire ou de ses ayants droit ; dans ce dernier cas, la décision ne peut être rendue que sur réquisition conforme du ministère public.
 

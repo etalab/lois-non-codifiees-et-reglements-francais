@@ -1,9 +1,13 @@
 # Article 4
 
-La chambre nationale représente l'ensemble de la profession auprès des pouvoirs publics. Elle établit, en ce qui concerne les usages de la profession et les rapports des avoués entre eux et avec la clientèle, un règlement national qui est soumis à l'approbation du garde des sceaux, ministre de la justice. Son bureau prévient tous différends d'ordre professionnel entre les chambres des compagnies ou entre les avoués ne relevant pas de la même chambre de compagnie, il tente de concilier les parties et, à défaut de conciliation, il tranche ces différends.
+La chambre nationale représente l'ensemble de la profession auprès des pouvoirs publics.
 
-La chambre nationale établit son budget et en répartit les charges entre les chambres des compagnies. Elle organise et règle le budget de toutes les oeuvres sociales intéressant les avoués.
+Elle établit son budget et organise et règle le budget de toutes les  œuvres sociales intéressant les avoués. Elle subvient s'il y a lieu au  fonctionnement des organismes professionnels et des œuvres sociales  professionnelles des anciens avoués près les cours d'appel jusqu'à leur  liquidation et, au plus tard, jusqu'au 31 décembre 2014.
 
-La chambre nationale, siégeant en comité mixte, règle les questions d'ordre général concernant le recrutement, la formation des clercs et employés, l'admission au stage des candidats aux fonctions d'avoués, l'organisation des cours professionnels, la création, le fonctionnement et le budget des oeuvres sociales intéressant le personnel des études, les conditions de travail dans les études et, sous réserve des dispositions législatives ou réglementaires particulières, les salaires et accessoires du salaire.
+Elle souscrit les assurances subséquentes conventionnelles nécessaires  afin de garantir les anciens avoués près les cours d'appel des  conséquences financières des sinistres en matière de responsabilité  civile et de représentation de fonds, dont le fait dommageable est  antérieur au 1er janvier 2012 et jusqu'à la date de prescription des  actions en responsabilité. Elle instruit et transmet aux entreprises  d'assurance les déclarations de sinistre relatives aux faits  dommageables antérieurs au 1er janvier 2012.
 
-La chambre nationale, siégeant dans l'une ou l'autre de ses formations, donne son avis, chaque fois qu'elle en est requise par le garde des sceaux, ministre de la justice, sur les questions professionnelles.
+Elle  donne son avis lorsqu'elle en est requise sur les actions en dommages  et intérêts intentées à l'encontre des anciens avoués en raison des  actes de leurs fonctions.
+
+La chambre nationale,  siégeant en comité mixte, règle les questions d'ordre général concernant  le budget des œuvres sociales intéressant l'ancien personnel des  études.
+
+La chambre nationale, siégeant dans l'une  ou l'autre de ses formations, donne son avis, chaque fois qu'elle en  est requise par le garde des sceaux, ministre de la justice, sur les  questions professionnelles.

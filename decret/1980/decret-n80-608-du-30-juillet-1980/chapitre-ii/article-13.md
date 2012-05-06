@@ -6,6 +6,6 @@ Dans le délai d'un mois à compter de la remise de l'acte par le greffe, le mag
 
 Il indique également l'évaluation de l'intérêt pécuniaire auquel correspond l'émolument ainsi proposé.
 
-Le bulletin doit être accompagné des conclusions et des copies des décisions et comporter l'avis de la chambre de discipline.
+Le bulletin doit être accompagné des conclusions et des copies des décisions et comporter l'avis de la Chambre nationale des avoués.
 
 Le droit à la taxe sur la détermination de ce multiple demeure réservé tant pour l'avoué que pour la partie.

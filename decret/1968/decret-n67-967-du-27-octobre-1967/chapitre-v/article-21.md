@@ -6,4 +6,4 @@ L'acquéreur d'un bâtiment ou d'une portion de bâtiment hypothéqué qui veut 
 
 2° Un tableau sur trois colonnes, dont la première contiendra la date des inscriptions, la seconde le nom des créanciers, la troisième le montant des créances inscrites.
 
-Cette notification contiendra constitution d'avoué.
+Cette notification contiendra constitution d'avocat.

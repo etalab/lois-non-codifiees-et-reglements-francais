@@ -1,3 +1,7 @@
 # Article 48
 
-Les membres des différentes chambres en fonctions le jour où le présent décret sera publié resteront en place jusqu'au prochain renouvellement auquel il sera procédé par voie d'élection. Toutefois, il ne sera pas pourvu aux vacances qui viendraient à se produire parmi les membres des chambres régionales ou nationale dont le nombre est réduit en application des prescriptions du présent décret jusqu'à ce que la composition desdites chambres soit conforme à celle ci-dessus prescrite.
+A  l'expiration du mois suivant la publication du décret n° 2012-634 du 3  mai relatif à la fusion des professions d'avocat et d'avoué près les  cours d'appel, le patrimoine de chaque chambre de compagnie est  transféré à la Chambre nationale des avoués près les cours d'appel.
+
+Dans ce délai, le président de chaque chambre de compagnie remet au  président de la chambre nationale, avec copie notifiée au procureur  général de la cour d'appel concernée, un relevé détaillé de son actif et  de son passif, comportant s'il y a lieu la nature et le montant des  créances à percevoir et des dettes à payer, accompagné des pièces  relatives à ces droits et obligations.
+
+La chambre  nationale est subrogée à compter de la date de ce transfert, dans tous  les droits, actions et obligations dont les chambres des compagnies  étaient titulaires ou l'objet.

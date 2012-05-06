@@ -8,7 +8,7 @@ Lorsque la mention ne reproduit pas les éléments de l'identification complète
 
 A défaut de cette mention, le dépôt est refusé dans les conditions fixées à l'article 74-1 du présent décret. La formalité peut être rejetée, après acceptation du dépôt, lorsque le conservateur constate que les références de la mention sont inexactes, incomplètes ou imprécises.
 
-2. Sont habilités à certifier l'identité des parties, en dehors des notaires, huissiers de justice, avoués, avocats, syndics chargés d'un règlement judiciaire ou d'une liquidation de biens :
+2. Sont habilités à certifier l'identité des parties, en dehors des notaires, huissiers de justice, avocats, syndics chargés d'un règlement judiciaire ou d'une liquidation de biens :
 
 - les ministres, les préfets, les maires et, d'une manière générale, tous les autres représentants de la puissance publique aptes à dresser des actes d'autorité ou en la forme administrative, pour les actes dressés par eux ou avec leur concours, pour les inscriptions qu'ils requièrent et tous actes s'y rapportant ;
 
