@@ -699,7 +699,6 @@
 - [Arrêté du 27 décembre 1990 (PTTP9001038A)](arrete-du-27-decembre-1990-pttp9001038a)
 - [Arrêté du 27 décembre 1990 (SANM9002600A)](arrete-du-27-decembre-1990-sanm9002600a)
 - [Arrêté du 27 décembre 1990 (SPSS9002556A)](arrete-du-27-decembre-1990-spss9002556a)
-- [Arrêté du 27 décembre 1991 (SPSS9102879A)](arrete-du-27-decembre-1991-spss9102879a)
 - [Arrêté du 27 février 1991 (DEFP9101124A)](arrete-du-27-fevrier-1991-defp9101124a)
 - [Arrêté du 27 février 1991 (ENVN9161091A)](arrete-du-27-fevrier-1991-envn9161091a)
 - [Arrêté du 27 février 1991 (EQUC9100383A)](arrete-du-27-fevrier-1991-equc9100383a)
