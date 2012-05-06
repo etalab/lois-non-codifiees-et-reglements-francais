@@ -1389,7 +1389,6 @@
 - [Arrêté du 16 décembre 2011 (TRAT1129282A)](arrete-du-16-decembre-2011-trat1129282a)
 - [Arrêté du 16 décembre 2011 (TRAT1133319A)](arrete-du-16-decembre-2011-trat1133319a)
 - [Arrêté du 16 février 2011 (BCRE1102794A)](arrete-du-16-fevrier-2011-bcre1102794a)
-- [Arrêté du 16 février 2011 (DEFD1105001A)](arrete-du-16-fevrier-2011-defd1105001a)
 - [Arrêté du 16 février 2011 (DEFD1105045A)](arrete-du-16-fevrier-2011-defd1105045a)
 - [Arrêté du 16 février 2011 (DEVK1101526A)](arrete-du-16-fevrier-2011-devk1101526a)
 - [Arrêté du 16 février 2011 (DEVP1101582A)](arrete-du-16-fevrier-2011-devp1101582a)
