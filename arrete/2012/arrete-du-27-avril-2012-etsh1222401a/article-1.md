@@ -1,0 +1,3 @@
+# Article 1
+
+A titre expérimental, et par dérogation aux articles 2 à 7 et 9 de l'arrêté du 23 décembre 1987 susvisé, le jury prévu à l'article 8 de cet arrêté peut admettre en première année d'études préparatoires aux diplômes d'Etat d'ergothérapeute, de technicien de laboratoire médical, de manipulateur d'électroradiologie médicale, de masseur-kinésithérapeute, de pédicure-podologue et de psychomotricien les étudiants sélectionnés à partir des résultats obtenus lors de la validation des unités d'enseignement de la formation délivrée au cours de la première année commune aux études de santé ou au cours des deux premiers semestres de licence en sciences et techniques des activités physiques et sportives, STAPS, ou de licence en sciences de la vie et de la Terre, SVT.

@@ -1,6 +1,7 @@
 # 2012
 
 - [Ordonnance n°45-2646 du 2 novembre 1945](ordonnance-n45-2646-du-2-novembre-1945)
+- [Ordonnance n°2012-644 du 4 mai 2012 (OMEO1132809R)](ordonnance-n2012-644-du-4-mai-2012-omeo1132809r)
 - [Ordonnance n°2012-10 du 5 janvier 2012 (DEVX1128285R)](ordonnance-n2012-10-du-5-janvier-2012-devx1128285r)
 - [Ordonnance n°2012-6 du 5 janvier 2012 (DEVX1133595R)](ordonnance-n2012-6-du-5-janvier-2012-devx1133595r)
 - [Ordonnance n°2012-7 du 5 janvier 2012 (DEVP1126317R)](ordonnance-n2012-7-du-5-janvier-2012-devp1126317r)
