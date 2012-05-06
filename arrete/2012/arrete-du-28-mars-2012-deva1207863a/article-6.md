@@ -1111,7 +1111,7 @@ Le produit de la majoration de la taxe d'aéroport autre que celui mentionné au
 <p align="left">Part du produit restant à répartir entre les exploitants dont la concession est échue</p>
 </td>
 <td align="center">
-<p align="center">5,081</p>
+<p align="center">5,078</p>
 </td>
 </tr>
 </tbody>

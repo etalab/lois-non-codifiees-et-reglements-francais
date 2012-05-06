@@ -263,7 +263,7 @@ Le produit de la majoration de la taxe d'aéroport perçu en Polynésie françai
 <p align="left">TAHITI-FAAA </p>
 </td>
 <td align="center">
-<p align="center">19,751</p>
+<p align="center">19,752</p>
 </td>
 </tr>
 <tr>
