@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-A. - Les principes généraux
+A.-Les principes généraux
 
 Les exploitants d'aérodromes remplissent, sous le contrôle des services centraux et déconcentrés de la direction générale de l'Aviation civile, une déclaration annuelle composée de quatre formulaires de déclaration de trafic, coûts et produits pour le financement des missions de sûreté et de sécurité par la taxe d'aéroport. Les formulaires sont adressés aux services déconcentrés de la direction générale de l'Aviation civile pour le 31 juillet, délai de rigueur. En ce qui concerne Aéroports de Paris, les formulaires sont adressés aux services centraux de la direction générale de l'aviation civile pour la même date.
 
@@ -36,7 +36,7 @@ Les coûts sont inscrits toutes taxes non récupérables comprises (et notamment
 
 Les éventuels produits autres que celui de la taxe d'aéroport pour le financement des missions concernées, telles que des dotations spécifiques, des subventions des collectivités territoriales ou des plus ou moins values de cession de biens financés par la taxe d'aéroport doivent être inscrits dans le formulaire par les exploitants d'aérodrome.
 
-B. - La nature des coûts
+B.-La nature des coûts
 
 Les coûts sont ventilés dans les formulaires par nature de dépenses en immobilisations, personnels et fonctionnement et, le cas échéant, frais généraux.
 
@@ -130,11 +130,19 @@ Les frais généraux comprennent l'ensemble des coûts indirects (investissement
 
 Les frais généraux sont plafonnés sur justificatifs à 10 % des autres coûts déclarés.
 
-C. - Les coûts par mission
+5. Les frais financiers applicables au solde cumulé du bilan régalien
+
+Lorsque le bilan annuel des missions de sûreté et de sécurité fait apparaître un solde cumulé négatif, ce solde négatif est affecté de frais financiers au bénéfice de l'exploitant, calculés comme le produit dudit solde par la moyenne sur l'année précédente des taux d'échange constants sur dix ans (TEC10) publiés quotidiennement par le Trésor ; ce taux est augmenté de 100 points de base pour les exploitants d'aérodrome ne bénéficiant ni de la garantie de l'Etat, ni de celle d'une collectivité locale, de par leur statut ou par contrat. Les frais financiers ainsi calculés sont inscrits sur les comptes de l'année et proratisés si l'exploitation de l'année est incomplète.
+
+Lorsque le bilan annuel des missions de sûreté et de sécurité fait apparaître un solde cumulé positif au bénéfice de l'exploitant, alors ce solde est affecté de frais financiers à la charge de l'exploitant, calculés selon les mêmes modalités qu'à l'alinéa précédent.
+
+En fin de concession, pour la dernière année d'exploitation, les frais financiers sont calculés sur la base du solde cumulé à la date de fin de concession et au prorata du nombre de mois d'exploitation.
+
+C.-Les coûts par mission
 
 Chaque mission fait l'objet d'un questionnaire qui liste les dépenses à inscrire selon les règles définies au B.
 
-Les coûts à déclarer par mission sont exclusivement ceux listés ci-dessous. A titre exceptionnel, des coûts non listés pourront être retenus après accord des services centraux de la direction générale de l'aviation civile sur leur éligibilité. Ceci ne peut en aucun cas concerner les éventuelles amendes ou sanctions liées à des manquements en matière de sûreté et de sécurité. Par ailleurs, une fois les comptes de l'exploitant d'aérodrome approuvés, aucune charge supplémentaire ne pourra être imputée au titre d'éventuels redressements fiscaux ou sociaux.
+Les coûts à déclarer par mission sont exclusivement ceux listés ci-dessous. A titre exceptionnel, des coûts non listés peuvent être retenus après accord des services centraux de la direction générale de l'aviation civile sur leur éligibilité. Ceci ne peut en aucun cas concerner les éventuelles amendes ou sanctions liées à des manquements en matière de sûreté et de sécurité. Par ailleurs, aucune charge supplémentaire ne peut être imputée au titre d'éventuels redressements fiscaux ou sociaux ; celle résultant d'une procédure contentieuse ou d'un engagement indemnitaire fondé sur un contrat ne peut être prise en compte que dans la limite de la charge résultant de la mise en œuvre des pratiques usuelles des exploitants d'aérodromes.
 
 1. Le service de sauvetage et de lutte contre l'incendie des aéronefs et la prévention du péril animalier
 
@@ -156,9 +164,7 @@ Toutefois :
 
 ― les coûts d'installation et de maintenance des clôtures délimitant la zone publique de la zone réservée lorsqu'elles sont requises par la réglementation en matière de sûreté ou de prévention du péril animalier sont inscrits à hauteur de 50 % maximum.
 
-4. L'inspection filtrage des passagers
-
-et des bagages de cabine
+4. L'inspection filtrage des passagers et des bagages de cabine
 
 Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière d'inspection filtrage des passagers et des bagages de cabine.
 
@@ -180,7 +186,7 @@ Les coûts à porter dans le formulaire sont exclusivement les suivants :
 
 Les coûts ne comprennent pas les équipements de lecture biométrique pris en charge directement sur le budget général de l'Etat ni les implantations locales (installations des cloisons et câblages, raccordements aux réseaux, aménagement des salles d'enregistrement).
 
-D. - Les dispositions particulières applicables en fin de concession
+D.-Les dispositions particulières applicables en fin de concession
 
 Les dispositions du présent chapitre s'appliquent en fin de concession, qu'il y ait changement de concessionnaire ou pas (dans ce dernier cas, le concessionnaire reconduit dans le cadre d'une nouvelle concession s'analyse comme un nouvel exploitant).
 
@@ -192,32 +198,40 @@ Le nouvel exploitant bénéficie du produit de la taxe et de la majoration dans 
 
 2. Le règlement du solde de financement de la taxe d'aéroport
 
-Pour les aérodromes pouvant bénéficier du produit de la majoration (aérodromes de classe 3 et non éligibles à la taxe d'aéroport)
+2.1. Dispositions communes à l'ensemble des aérodromes :
 
-L'exploitant sortant obtient le remboursement par l'Etat des coûts éligibles à la taxe d'aéroport et non couverts par le produit de celle-ci à la date de fin de concession, selon les modalités suivantes :
+-l'exploitant sortant établit et transmet à la DGAC un bilan du financement des missions de sécurité et de sûreté à la date de fin de la concession ; ce bilan est transmis simultanément au service local de la DGAC (DSAC IR, SAC ou SEAC) dont relève l'exploitant et à la direction du transport aérien (DTA, 50, rue Henry-Farman, 75720 Paris Cedex 15) ;
 
-― l'exploitant établit un bilan du financement des missions de sécurité et de sûreté à la date de fin de la concession ;
+-à réception de ce bilan, la DGAC (DTA) transmet à l'exploitant un accusé de réception et dispose d'un délai de six mois pour arrêter avec lui le bilan de clôture définitif ; en cas de désaccord, ce délai peut être prorogé une fois pour faciliter la recherche d'un consensus ; si aucun accord n'est trouvé à l'issue du délai éventuellement prorogé, la DGAC arrête unilatéralement le bilan de clôture ;
 
-― ce bilan est examiné contradictoirement avec les services locaux de la DGAC, qui le transmettent avec leur accord aux services centraux de la DGAC ;
+-à défaut de transmission du bilan par l'exploitant dans un délai de six mois à compter de la fin de concession, la DGAC peut prendre l'initiative d'en transmettre un à l'exploitant. Cette transmission vaut alors point de départ du délai fixé à l'alinéa précédent pour arrêter avec l'exploitant sortant le bilan de clôture définitif ;
 
-― après vérification par les services centraux de la DGAC, l'éventuelle insuffisance de financement est couverte par la majoration de la taxe d'aéroport (la DGAC prend un arrêté spécifique à cet effet). A l'inverse, si le bilan susmentionné fait apparaître un excédent de financement, un titre de recettes sera émis à l'encontre de cet exploitant par le SGTA.
+-aucun paiement d'intérêt de retard ne saurait être exigé par l'exploitant dès lors que sont respectées ces conditions ou lorsque des retards lui sont imputables, notamment en cas de défaut ou de délai prolongé de réponse aux demandes d'informations de la DGAC, ces dernières étant interruptives des délais ;
 
-Le nouvel exploitant démarre son exploitation avec un solde de financement des missions de sûreté et de sécurité nul.
+-le bilan de clôture définitif est notifié à l'exploitant.
 
-Pour les aérodromes ne pouvant pas bénéficier du produit de la majoration (aérodromes des classes 1 et 2).
+2.2. Dispositions spécifiques aux aérodromes de classe 1 et 2 :
 
-Sur la base du bilan défini au paragraphe précédent, vérifié par les services centraux de la DGAC, l'exploitant sortant obtient le remboursement, par le nouvel exploitant, des coûts éligibles à la taxe d'aéroport et non couverts par le produit de celle-ci à la date de fin de concession.
+Sur la base du bilan de clôture définitif notifié à l'exploitant tel qu'évoqué au paragraphe 2.1, l'exploitant sortant obtient le remboursement, par le nouvel exploitant, des coûts éligibles à la taxe d'aéroport et non couverts par le produit de celle-ci à la date de fin de concession. Le nouvel exploitant démarre son exploitation avec le solde négatif des missions de sûreté et de sécurité de l'exploitant sortant. Celui-ci est couvert au rythme du reversement du produit de la taxe d'aéroport au nouvel exploitant.
 
-Si le bilan susmentionné fait apparaître un excédent de financement, un titre de recettes sera émis à l'encontre de cet exploitant par le SGTA, ramenant ainsi le solde de financement à zéro.
-
-Le nouvel exploitant démarre son exploitation avec le solde de financement négatif ou nul (dans l'hypothèse mentionnée à l'alinéa précédent) des missions de sûreté et de sécurité de l'exploitant sortant. Celui-ci est couvert au rythme du reversement du produit de la taxe d'aéroport au nouvel exploitant.
+A l'inverse, si le bilan susmentionné fait apparaître un excédent de financement, celui-ci est reversé par l'ancien exploitant au nouvel exploitant, qui démarre son exploitation avec le solde positif correspondant dans ses comptes. A défaut de reversement par l'ancien exploitant au nouvel exploitant dans un délai de trois mois après notification du bilan définitif de clôture, ou dans le cas où l'exploitation s'arrête sans repreneur, un titre de recettes est émis à l'encontre de l'ancien exploitant. Le produit de ce titre de recettes est affecté aux exploitants des aérodromes de classe 3 ainsi qu'aux exploitants d'aérodromes non éligibles à la taxe d'aéroport, dans les conditions fixées au IV bis de l'article 1609 quatervicies du code général des impôts.
 
 Pour faciliter cette transition, il serait souhaitable que ces dispositions figurent dans les cahiers des charges des appels d'offres de DSP.
+
+2.3. Dispositions spécifiques aux aérodromes de classe 3 et non éligibles à la taxe d'aéroport :
+
+Sur la base du bilan de clôture définitif notifié à l'exploitant tel qu'évoqué au paragraphe 2.1, l'exploitant sortant obtient le remboursement par l'Etat des coûts éligibles à la taxe d'aéroport et non couverts par le produit de celle-ci à la date de fin de concession, selon les modalités suivantes :
+
+L'éventuelle insuffisance de financement est couverte par la majoration de la taxe d'aéroport. Dans la mesure où les recettes de la majoration ne sont qu'évaluatives, ce remboursement peut toutefois faire l'objet de plusieurs versements successifs, en fonction des ressources disponibles, sans que l'exploitant ne puisse exiger à ce titre des intérêts complémentaires. Le nouvel exploitant démarre son exploitation avec un solde de financement des missions de sûreté et de sécurité nul.
+
+A l'inverse, si le bilan susmentionné fait apparaître un excédent de financement, celui-ci est reversé par l'ancien exploitant au nouvel exploitant, qui démarre son exploitation avec le solde positif correspondant dans ses comptes. A défaut de reversement par l'ancien exploitant au nouvel exploitant dans un délai de trois mois après notification du bilan définitif de clôture, ou dans le cas où l'exploitation s'arrête sans repreneur, un titre de recettes est émis à l'encontre de l'ancien exploitant. Le produit de ce titre de recettes est affecté aux exploitants des aérodromes de classe 3 ainsi qu'aux exploitants d'aérodromes non éligibles à la taxe d'aéroport, dans les conditions fixées au IV bis de l'article 1609 quatervicies du code général des impôts.
 
 3. Le remboursement de la valeur nette comptable des immobilisations
 
 Le bilan annuel des missions de sécurité et de sûreté établi sur la base des déclarations des exploitants ne tient pas compte du montant total des investissements réalisés mais de la seule dotation aux amortissements de l'année, complétée de la rémunération financière du montant non amorti des immobilisations.
 
-Dans ces conditions, il appartient à l'autorité concédante d'organiser le remboursement à l'exploitant sortant de la valeur nette comptable (VNC) des investissements de sécurité et de sûreté à fin de concession. La validation de cette VNC se fait donc sous l'égide de l'autorité concédante, après accord des parties concernées (ancien et nouvel exploitant) et en présence des services locaux de la DGAC qui recoupent leurs données avec celles des exploitants.
+Dans ces conditions, il appartient à l'autorité concédante d'organiser le remboursement à l'exploitant sortant de la valeur nette comptable (VNC) des investissements de sécurité et de sûreté à fin de concession. La validation de cette VNC se fait donc sous l'égide de l'autorité concédante, après accord des parties concernées (ancien et nouvel exploitant) et en présence des services locaux de la DGAC qui confrontent leurs données avec celles des exploitants.
+
+Si, lors de l'établissement du bilan des missions de sûreté et de sécurité de l'ancien exploitant, tel que prévu au paragraphe précédent, est constaté un solde positif, celui-ci peut être déduit directement de la VNC à rembourser par le nouvel exploitant.
 
 Pour faciliter cette transition, il serait souhaitable que ces dispositions figurent dans les cahiers des charges des appels d'offres de DSP.
