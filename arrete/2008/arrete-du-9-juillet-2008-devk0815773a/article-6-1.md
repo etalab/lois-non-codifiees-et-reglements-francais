@@ -24,7 +24,9 @@ Elle comprend en outre :
 
 ― la mission du droit du travail et des affaires sociales ;
 
-― la mission de la coopération internationale.
+― la mission de la coopération internationale ;
+
+― la mission de la gestion des ressources.
 
 Le service technique de l'aviation civile, service à compétence nationale, est rattaché au directeur du transport aérien. En outre, le directeur du transport aérien est le commissaire délégué aux transports aériens.
 

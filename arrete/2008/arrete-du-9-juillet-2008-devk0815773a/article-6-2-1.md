@@ -12,7 +12,7 @@ La sous-direction des personnels est chargée :
 
 ― de veiller à l'application des règles d'hygiène et de sécurité du travail et de conduire les actions correspondantes ;
 
-― dans le cadre du schéma informatique du ministère, de piloter le système d'information de la gestion des ressources humaines de la direction générale ;
+― dans le cadre du schéma informatique du ministère et du système d'information de gestion et de pilotage (SIGP) de la direction générale de l'aviation civile, de piloter le système d'information de la gestion des ressources humaines de la direction générale ;
 
 ― d'élaborer les budgets des personnels en liaison avec la sous-direction des affaires financières et du contrôle de gestion ainsi que d'effectuer le suivi de la masse salariale ;
 
@@ -36,7 +36,7 @@ Elle comprend :
 
 ― le bureau de l'action sociale ;
 
-― le bureau de la formation continue ;
+― le bureau de la formation professionnelle continue ;
 
 ― la mission de la gestion prévisionnelle, des effectifs, des emplois et des compétences ;
 
