@@ -24,7 +24,6 @@
 - [Décret n°69-930 du 14 octobre 1969](decret-n69-930-du-14-octobre-1969)
 - [Décret n°69-942 du 14 octobre 1969](decret-n69-942-du-14-octobre-1969)
 - [Décret n°69-195 du 15 février 1969](decret-n69-195-du-15-fevrier-1969)
-- [Décret n°69-196 du 15 février 1969](decret-n69-196-du-15-fevrier-1969)
 - [Décret n°69-860 du 15 septembre 1969](decret-n69-860-du-15-septembre-1969)
 - [Décret n°69-945 du 16 octobre 1969](decret-n69-945-du-16-octobre-1969)
 - [Décret n° 69-1010 du 17 octobre 1969](decret-n-69-1010-du-17-octobre-1969)
