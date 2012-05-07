@@ -16,7 +16,7 @@ II. - Sont toutefois soumis à autorisation du directeur, dans les conditions d�
 
 6° La plantation et le semis d'espèces forestières sur des espaces non couverts par la forêt ;
 
-7° Les cultures et pâturages sous couvert forestier.
+7° Les cultures et le pâturage temporaire sous couvert forestier à des fins de défense contre l'incendie.
 
 S'il y a lieu, l'autorisation peut être accordée dans le cadre d'un programme annuel ou pluriannuel précisant ses modalités de mise en œuvre.
 

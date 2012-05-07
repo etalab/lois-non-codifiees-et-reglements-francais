@@ -1,6 +1,6 @@
 # Article 24
 
-I. ― Le conseil d'administration de l'établissement public est composé de trente et un membres, ainsi répartis :
+I. ― Le conseil d'administration de l'établissement public est composé de quarante-trois membres, ainsi répartis :
 
 1° Neuf représentants de l'Etat :
 
@@ -22,13 +22,13 @@ h) Le directeur du service déconcentré régional chargé du tourisme ;
 
 i) Un représentant de l'administration départementale de l'Etat en charge de l'agriculture ou de l'équipement, nommé sur proposition du préfet du Var.
 
-2° Dix représentants des collectivités territoriales :
+2° Dix-huit représentants des collectivités territoriales :
 
 a) Le maire de la commune d'Hyères ;
 
-b) Deux maires d'une commune littorale du département du Var désignés sur proposition pour le premier de l'association des maires du Var et pour le second du syndicat des communes littorales du Var ;
+b) Onze représentants des communes qui ont adhéré à la charte du parc, à raison d'un représentant par commune adhérente ; si le nombre des communes adhérentes est inférieur à onze, un représentant supplémentaire est attribué, dans la limite des sièges vacants, à celles des communes adhérentes dont le territoire classé dans l'aire d'adhésion est le plus important, en procédant par ordre décroissant suivant l'annexe 4. Le ou les sièges ainsi affectés sont libérés dans l'ordre inverse de leur attribution en cas d'adhésion postérieure d'une ou plusieurs communes ;
 
-c) Deux conseillers municipaux désignés par le conseil municipal de la commune d'Hyères et les deux adjoints spéciaux pour Port-Cros et pour Porquerolles ;
+c) Un conseiller municipal désigné par le conseil municipal de la commune d'Hyères et les deux adjoints spéciaux pour Port-Cros et pour Porquerolles ;
 
 d) Un représentant d'établissement public de coopération intercommunale à fiscalité propre comprenant la commune d'Hyères ;
 
@@ -36,23 +36,31 @@ e) Le président du conseil régional de la région Provence-Alpes-Côte d'Azur 
 
 f) Le président du conseil général du Var.
 
-3° Onze personnalités :
+3° Quinze personnalités :
 
 a) Le président du conseil scientifique de l'établissement public du parc national ;
 
-b) Six personnalités à compétence locale, désignées sur proposition du préfet du Var :
+b) Huit personnalités à compétence locale, désignées sur proposition du préfet du Var :
 
 ― une personnalité compétente en matière de sports de nature ;
 
 ― une personnalité compétente en matière d'activités commerciales ou artisanales ;
 
-― un représentant d'associations de protection de l'environnement ;
+― deux représentants d'associations de protection de l'environnement ;
 
 ― un représentant de la pêche maritime et des élevages marins ;
 
+- une personnalité compétente en matière d'agriculture ;
+
 ― un propriétaire dans l'île de Port-Cros et un résident permanent dans l'île de Porquerolles ;
 
-c) Quatre personnalités à compétence nationale désignées par le ministre chargé de la protection de la nature, dont au moins deux sur proposition du Conseil national de la protection de la nature appartenant aux associations agréées de protection de l'environnement ou au milieu de la recherche scientifique.
+c) Six personnalités à compétence nationale :
+
+- quatre personnalités désignées par le ministre chargé de la protection de la nature, dont au moins deux sur proposition du Conseil national de la protection de la nature appartenant aux associations agréées de protection de l'environnement ou au milieu de la recherche scientifique.
+
+- un représentant du Conservatoire de l'espace littoral et des rivages lacustres ;
+
+- un représentant de l'Agence des aires marines protégées.
 
 4° Un représentant du personnel élu avec son suppléant par le personnel permanent de l'établissement public du parc.
 

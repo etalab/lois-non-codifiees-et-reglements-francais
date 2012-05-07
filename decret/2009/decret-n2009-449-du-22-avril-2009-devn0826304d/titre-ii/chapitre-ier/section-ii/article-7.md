@@ -24,7 +24,7 @@ II. - Peuvent être autorisés, en application et selon les modalités du 1° du
 
 10° Ayant pour objet l'aménagement et l'entretien des espaces, sites et itinéraires destinés à la pratique des sports et loisirs de nature non motorisés ;
 
-11° Ayant pour objet ou pour effet de réduire les impacts paysagers ou écologiques ou d'accroître l'autonomie énergétique d'un équipement d'intérêt général, d'une construction ou installation du cœur ;
+11° Ayant pour objet ou pour effet de réduire les impacts paysagers ou écologiques ou d'accroître l'autonomie énergétique d'un équipement d'intérêt général, d'une construction ou installation du cœur, ou d'optimiser la gestion de la ressource en eau pluviale ;
 
 12° Nécessaires à la reconstruction à l'identique d'un bâtiment détruit par un sinistre, dès lors qu'il a été régulièrement édifié ;
 
@@ -38,7 +38,9 @@ II. - Peuvent être autorisés, en application et selon les modalités du 1° du
 
 17° Ayant pour objet la mise aux normes des équipements d'assainissement non collectif, sous réserve que ces travaux ne portent pas atteinte au caractère du parc.
 
-Une autorisation ne peut être accordée au titre des 4°, 6° à 10° et 12° à 17° que sous réserve qu'aucune voie d'accès nouvelle ne soit aménagée.
+Une autorisation ne peut être accordée au titre des 4°, 6° à 10° et 12° à 18° que sous réserve qu'aucune voie d'accès nouvelle ne soit aménagée ;
+
+18° Nécessaires à la restauration d'un bâtiment dont il reste au moins l'essentiel des murs porteurs, dans les espaces mentionnés au 3° du II de l'article 1er, lorsque son intérêt architectural ou patrimonial justifie son maintien, sous réserve de respecter les principales caractéristiques de ce bâtiment.
 
 III. - Des travaux, constructions ou installations qui ne figurent pas sur la liste du II peuvent être autorisés par le conseil d'administration de l'établissement public, dans les conditions prévues par l'article R. 331-18 du code de l'environnement.
 
