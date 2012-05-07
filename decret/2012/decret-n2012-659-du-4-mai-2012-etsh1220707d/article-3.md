@@ -1,0 +1,9 @@
+# Article 3
+
+I. ― Les lauréats de l'épreuve de vérification des connaissances, candidats à l'autorisation d'exercice de la profession de médecin, de chirurgien-dentiste ou de pharmacien effectuent l'année probatoire de fonctions hospitalières, prévue au huitième alinéa du IV de l'article 83 de la loi du 21 décembre 2006 susvisée, dans une structure agréée pour la formation des internes, dans la spécialité au titre de laquelle les candidats sollicitent l'autorisation d'exercice. Les candidats recrutés pour accomplir ces fonctions par un établissement public de santé le sont, au choix de l'établissement, dans les conditions définies à l'article R. 6152-542 ou à l'article R. 6152-635.
+
+II. ― Les lauréats de l'épreuve de vérification des connaissances, candidats à l'autorisation d'exercice de la profession de sage-femme effectuent l'année probatoire de fonctions hospitalières, prévue au huitième alinéa du IV de l'article 83 de la loi du 21 décembre 2006 susvisée, dans l'unité d'obstétrique d'un établissement public de santé ou d'un établissement de santé privé d'intérêt collectif. Les candidats recrutés pour accomplir ces fonctions par un établissement public de santé le sont dans les conditions définies aux articles R. 6152-543 à R. 6152-550.
+
+III. ― Ces fonctions rémunérées sont accomplies à temps plein ou à temps partiel pour une durée d'un an en équivalent temps plein. Pour être décomptées, les fonctions à temps partiel doivent avoir été effectuées à concurrence d'au moins cinq demi-journées par semaine. Elles sont prises en compte proportionnellement à la durée des fonctions à temps plein.
+
+IV. ― Le responsable de la structure dans laquelle le lauréat effectue l'année probatoire établit un rapport d'évaluation, dont le contenu est fixé par arrêté du ministre chargé de la santé.

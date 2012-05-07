@@ -1,0 +1,3 @@
+# Article 3
+
+En dehors des cas mentionnés aux articles précédents, le prix du transport routier est majoré d'un pourcentage forfaitaire calculé par le transporteur en appliquant le pourcentage résultant du rapport entre le montant dû au titre des taxes prévues aux articles 269 à 283 quater et 285 septies du code des douanes pour la période pendant laquelle l'opération de transport a été effectuée et le chiffre d'affaires de cette période. Le montant dû au titre des taxes et le chiffre d'affaires pris en compte pour ce calcul ne peuvent inclure les opérations de transport auxquelles ont été appliquées les modalités de répercussion prévues aux articles précédents.

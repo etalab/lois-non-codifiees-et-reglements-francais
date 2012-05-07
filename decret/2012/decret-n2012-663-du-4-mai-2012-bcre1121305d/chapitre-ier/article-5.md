@@ -1,0 +1,3 @@
+# Article 5
+
+Le mandataire judiciaire de l'établissement public de santé et de l'établissement public social et médico-social, lorsqu'il choisit de transmettre au comptable public, par voie ou sur support électronique, les pièces nécessaires à l'exécution des dépenses ou des recettes des personnes placées sous sa protection, recourt à une procédure de transmission de données et de documents électroniques, dans les conditions fixées par un arrêté du ministre en charge du budget, garantissant la fiabilité de l'identification du mandataire judiciaire émetteur, l'intégrité des flux de données et de documents relatifs aux actes, la sécurité et la confidentialité des échanges ainsi que la justification des transmissions opérées.
