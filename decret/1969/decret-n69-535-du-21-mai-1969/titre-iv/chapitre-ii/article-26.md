@@ -1,8 +1,6 @@
 # Article 26
 
-L'état de prévisions de recettes et de dépenses est établi pour la période de douze mois commençant le 1er janvier [*date*].
-
-L'état prévisionnel est présenté suivant un modèle arrêté par le ministre de l'économie et des finances et divisé en chapitres qui ne doivent comprendre que des dépenses ou des recettes de même nature.
+L'état de prévisions de recettes et de dépenses est établi pour la période de douze mois commençant le 1er janvier.
 
 La section des opérations en capital doit comporter une annexe faisant apparaître la liste, le coût total et l'échéancier des paiements des opérations nouvelles de toute nature dont l'engagement est proposé au titre de l'exercice concerné.
 

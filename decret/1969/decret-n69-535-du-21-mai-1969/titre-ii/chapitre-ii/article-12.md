@@ -2,26 +2,28 @@
 
 Le conseil d'administration peut déléguer certaines de ses attributions soit au comité de direction, soit au directeur général du port.
 
-Toutefois ;
+Ne peuvent toutefois faire l'objet de délégation :
 
-1° Ne peuvent pas faire l'objet de délégation ;
+1° L'adoption de l'état prévisionnel des recettes et des dépenses et de ses décisions modificatives, notamment portant sur l'évolution de la dette, les politiques salariales et les effectifs ;
 
-L'adoption de l'état prévisionnel de dépenses et de recettes et des comptes annuels ;
+2° L'adoption du compte financier et l'affectation des résultats aux fins de vérification et de contrôle ;
 
-L'adoption du plan d'organisation et de fonctionnement des service du port autonome de Paris ainsi que des tableaux d'effectifs ;
+3° L'approbation des marchés d'un montant supérieur à une valeur fixée par le conseil d'administration ;
 
-La fixation des conditions générales de rémunération du personnel ;
+4° La fixation des principes techniques et tarifaires d'utilisation des installations gérées par le port dans les conditions de la réglementation en vigueur ;
 
-L'approbation des marchés d'un montant supérieur à une valeur fixée par arrêté des ministres chargés des transports et de l'économie et des finances ;
+5° La décision de prises, cessions ou extensions de participation financière ;
 
-La fixation des conditions et des tarifs d'usage des installations gérées par le port dans les conditions de la réglementation en vigueur ;
+6° L'adoption des conditions des emprunts et des prêts ;
 
-La décision de prises, cessions ou extensions de participation financière ;
+7° La décision relative aux acquisitions et aliénations de biens immobiliers ainsi que le déclassement de terrain, ouvrage ou bâtiment faisant partie du domaine public de l'établissement ;
 
-L'adoption des conditions des emprunts et des prêts ;
+8° L'approbation préalable des transactions prévues aux articles 2044 et suivants du code civil, lorsque leur montant est supérieur à un seuil fixé par le conseil d'administration ;
 
-La décision relative aux acquistions et aliénations de biens immobiliers ;
+9° Les cautions, avals et garanties ;
 
-L'approbation des conventions ayant fait l'objet de la communication écrite mentionnée à l'article 16 bis.
+10° Les opérations d'investissement d'un montant supérieur à un seuil fixé par le conseil d'administration ;
 
-2° Ne peut être déléguée qu'au comité de direction la fixation des traitements des personnels dont les échelles ne sont pas fixées par le régime général des personnels du port.
+11° L'approbation des conventions visées au III de l'article R. 102-8 du code des ports maritimes.
+
+La fixation des rémunérations des personnels dont les échelles ne sont pas fixées par le régime général du port ne peut être déléguée qu'au comité de direction.
