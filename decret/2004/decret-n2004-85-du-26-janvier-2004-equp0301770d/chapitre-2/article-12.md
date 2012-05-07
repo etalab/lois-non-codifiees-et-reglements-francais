@@ -1,6 +1,6 @@
 # Article 12
 
-Le BEA mer est placé auprès de l'inspecteur général des services des affaires maritimes.
+Le BEA mer est placé auprès de l'inspecteur général des affaires maritimes.
 
 Il a pour mission de réaliser les enquêtes techniques sur les événements de mer.
 
