@@ -233,7 +233,6 @@
 - [Arrêté du 4 mars 2011 (DEVR1106450A)](arrete-du-4-mars-2011-devr1106450a)
 - [Arrêté du 4 mars 2011 (EFIE1101917A)](arrete-du-4-mars-2011-efie1101917a)
 - [Arrêté du 4 mars 2011 (EFIP1101608A)](arrete-du-4-mars-2011-efip1101608a)
-- [Arrêté du 4 mars 2011 (MCCC1031510A)](arrete-du-4-mars-2011-mccc1031510a)
 - [Arrêté du 4 mars 2011 (PRMD1105941A)](arrete-du-4-mars-2011-prmd1105941a)
 - [Arrêté du 4 novembre 2011 (AGRM1125433A)](arrete-du-4-novembre-2011-agrm1125433a)
 - [Arrêté du 4 novembre 2011 (AGRT1129971A)](arrete-du-4-novembre-2011-agrt1129971a)
