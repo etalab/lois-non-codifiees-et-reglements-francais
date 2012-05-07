@@ -136,7 +136,6 @@
 - [Arrêté du 9 décembre 2005 (MJSK0570252A)](arrete-du-9-decembre-2005-mjsk0570252a)
 - [Arrêté du 9 mars 2006 (SANG0621330A)](arrete-du-9-mars-2006-sang0621330a)
 - [Arrêté du 9 novembre 2005 (AGRG0502501A)](arrete-du-9-novembre-2005-agrg0502501a)
-- [Arrêté du 9 novembre 2005 (BUDD0520055A)](arrete-du-9-novembre-2005-budd0520055a)
 - [Arrêté du 9 septembre 2003 (DEFC0302061A)](arrete-du-9-septembre-2003-defc0302061a)
 - [Arrêté du 9 septembre 2003 (DEFC0302062A)](arrete-du-9-septembre-2003-defc0302062a)
 - [Arrêté du 9 septembre 2005 (AGRG0502099A)](arrete-du-9-septembre-2005-agrg0502099a)
