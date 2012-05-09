@@ -39,3 +39,7 @@ Service technique pour les activités de jeunesse - Rhône-Alpes (STAJ), 13, ave
 Les Compagnons des jours heureux, 26, rue Jean-Jaurès, 78108 Saint-Germain-en-Laye.
 
 Temps jeunes, 99, rue de Merlo, 69600 Oullins.
+
+8. Pour la région Réunion :
+
+Service technique pour les activités de jeunesse-Association amicale laïque de l'Ouest (STAJ-ALO), 11, allée des Lys Terre-Sainte, 97410 Saint-Pierre.
