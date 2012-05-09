@@ -131,7 +131,6 @@
 - [Décret n°2004-28 du 6 janvier 2004 (DEVG0310089D)](decret-n2004-28-du-6-janvier-2004-devg0310089d)
 - [Décret n°2004-45 du 6 janvier 2004 (DEFP0302341D)](decret-n2004-45-du-6-janvier-2004-defp0302341d)
 - [Décret n°2004-46 du 6 janvier 2004 (INDI0302197D)](decret-n2004-46-du-6-janvier-2004-indi0302197d)
-- [Décret n°2004-658 du 6 juillet 2004 (ECOX0407445D)](decret-n2004-658-du-6-juillet-2004-ecox0407445d)
 - [Décret n°2004-661 du 6 juillet 2004 (ECOD0470005D)](decret-n2004-661-du-6-juillet-2004-ecod0470005d)
 - [Décret n°2004-662 du 6 juillet 2004 (INDI0420632D)](decret-n2004-662-du-6-juillet-2004-indi0420632d)
 - [Décret n°2004-667 du 6 juillet 2004 (INTD0400172D)](decret-n2004-667-du-6-juillet-2004-intd0400172d)
