@@ -2,12 +2,12 @@
 
 Les informations sont conservées pendant :
 
-- s'agissant des données visées au I (1°) de l'article 3, pendant 30 ans ;
+S'agissant des données visées au I (1°) de l'article 3 : pendant trente ans.
 
-- s'agissant des données visées aux I (2°) et II de l'article 3 :
+S'agissant des données visées aux I (2°, 3°, 4° et 5°) et II de l'article 3 :
 
-- 30 ans pour les données relatives à la réquisition ;
+- trente ans pour les données relatives à la réquisition ;
 
-- 50 ans pour les données relatives à l'acte de vente ;
+- cinquante ans pour les données relative aux autres documents.
 
-- s'agissant des données visées au III de l'article 3 : un an.
+S'agissant des données visées au III de l'article 3 : un an.
