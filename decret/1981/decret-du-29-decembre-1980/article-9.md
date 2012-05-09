@@ -1,0 +1,3 @@
+# Article 9
+
+En application des articles L. 593-1 et L. 593-3 du code de l'environnement, la détention et l'utilisation des sources radioactives et des appareils émettant des rayonnements ionisants nécessaires au fonctionnement de l'installation sont réglementées dans le cadre de la présente autorisation et des prescriptions et décisions de l'Autorité de sûreté nucléaire prises en application des procédures applicables aux installations nucléaires de base. La détention et l'utilisation de ces sources radioactives ne sont pas soumises au régime d'autorisation ou de déclaration mentionné à l'article L. 1333-4 du code de la santé publique.

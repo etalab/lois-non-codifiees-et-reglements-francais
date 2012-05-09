@@ -47,6 +47,7 @@
 - [Décret n°81-876 du 25 septembre 1981](decret-n81-876-du-25-septembre-1981)
 - [Décret n° 59-771 du 26 juin 1959](decret-n-59-771-du-26-juin-1959)
 - [Décret n°81-1053 du 27 novembre 1981](decret-n81-1053-du-27-novembre-1981)
+- [Décret du 29 décembre 1980](decret-du-29-decembre-1980)
 - [Décret n°80-857 du 30 octobre 1980](decret-n80-857-du-30-octobre-1980)
 - [Décret n°81-1165 du 30 décembre 1981](decret-n81-1165-du-30-decembre-1981)
 - [Décret n°81-1173 du 30 décembre 1981](decret-n81-1173-du-30-decembre-1981)
