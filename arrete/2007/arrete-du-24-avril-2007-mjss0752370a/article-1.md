@@ -10,19 +10,17 @@ Deux représentants du ministre chargé des sports :
 
 - le chef de la mission des affaires juridiques et contentieuses de la direction des sports ou son représentant.
 
-Deux représentants du ministre chargé de l'intérieur :
+Trois représentants du ministre chargé de l'intérieur :
 
-- le directeur de la défense et de la sécurité civiles ou son représentant ;
+- le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
-- le directeur central de la sécurité publique ou son représentant.
+- le directeur général de la police nationale ou son représentant ;
+
+- le directeur général de la gendarmerie nationale ou son représentant.
 
 Un représentant du ministre chargé de l'équipement :
 
 - le directeur général de l'urbanisme, de l'habitat et de la construction ou son représentant.
-
-Un représentant du ministre chargé de la défense :
-
-- le directeur général de la gendarmerie nationale ou son représentant.
 
 Un représentant du ministre chargé de la santé :
 
