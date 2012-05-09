@@ -8,7 +8,7 @@ Données relatives aux élèves :
 
 ― classe ;
 
-― nombre de demi-journées où une absence a été constatée, pour laquelle le motif a été coché comme « légitime » et qui a été classée par le conseiller pédagogique de l'établissement ;
+― nombre de demi-journées où une absence a été constatée, pour laquelle le motif a été coché comme "légitime" et qui a été classée par le conseiller principal d'éducation de l'établissement ;
 
 ― identifiant choisi par l'élève permettant l'accès au téléservice ;
 
