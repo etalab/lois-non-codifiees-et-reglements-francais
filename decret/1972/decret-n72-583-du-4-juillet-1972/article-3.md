@@ -1,3 +1,3 @@
 # Article 3
 
-Par dérogation aux articles 24 et 25 de l'ordonnance du 4 février 1959 susvisée et du décret susvisé n° 59-308 du 14 février 1959, le recteur fixe la note des adjoints d'enseignement dans les conditions prévues aux articles 4 et 5 ci-après.
+La valeur professionnelle des adjoints d'enseignement affectés dans un service ou un établissement relevant du ministre chargé de l'éducation nationale et placé sous l'autorité ou la tutelle d'un recteur d'académie est appréciée dans le cadre d'un entretien professionnel qui intervient tous les trois ans et est conduit dans les conditions prévues aux articles 3-1 à 3-6.

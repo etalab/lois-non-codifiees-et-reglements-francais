@@ -2,7 +2,7 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Recrutement](chapitre-ii)
-- [CHAPITRE IV : Notation, reclassement, avancement, mutation, discipline.](chapitre-iv)
+- [CHAPITRE IV : Appréciation de la valeur professionnelle, reclassement, avancement, mutation, discipline.](chapitre-iv)
 - [CHAPITRE V : Obligations de service.](chapitre-v)
 - [CHAPITRE VI : Détachement.](chapitre-vi)
 - [CHAPITRE VII : Dispositions transitoires.](chapitre-vii)

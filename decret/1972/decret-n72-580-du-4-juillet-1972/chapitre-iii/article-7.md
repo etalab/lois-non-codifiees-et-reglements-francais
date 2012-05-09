@@ -1,3 +1,3 @@
 # Article 7
 
-Par dérogation aux articles 24 et 25 de l'ordonnance du 4 février 1959 susvisée et au décret n° 59-308 du 14 février 1959 susvisé, le ministre de l'éducation nationale fixe la note des professeurs agrégés dans les conditions prévues aux articles 8 à 12 ci-après.
+La valeur professionnelle des professeurs agrégés titulaires affectés dans un service ou établissement relevant du ministre chargé de l'éducation nationale et placé sous l'autorité ou la tutelle d'un recteur d'académie ou dans un établissement relevant du ministre chargé de l'enseignement supérieur est appréciée dans le cadre d'un entretien professionnel qui intervient tous les trois ans et est conduit dans les conditions prévues aux articles 7-1 à 7-7.

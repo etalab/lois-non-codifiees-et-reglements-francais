@@ -1,9 +1,20 @@
-# CHAPITRE IV : Notation, reclassement, avancement, mutation, discipline.
+# CHAPITRE IV : Appréciation de la valeur professionnelle, reclassement, avancement, mutation, discipline.
 
 - [Article 20](article-20.md)
+- [Article 20-1](article-20-1.md)
+- [Article 20-2](article-20-2.md)
+- [Article 20-3](article-20-3.md)
+- [Article 20-4](article-20-4.md)
+- [Article 20-5](article-20-5.md)
+- [Article 20-6](article-20-6.md)
+- [Article 20-7](article-20-7.md)
 - [Article 21](article-21.md)
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)
+- [Article 23-1](article-23-1.md)
+- [Article 23-2](article-23-2.md)
+- [Article 23-3](article-23-3.md)
+- [Article 23-4](article-23-4.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
 - [Article 27](article-27.md)

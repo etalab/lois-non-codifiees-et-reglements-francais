@@ -1,17 +1,9 @@
 # Article 10
 
-Le ministre chargé de l'éducation attribue une note de 0 à 100 accompagnée d'une appréciation aux professeurs d'éducation physique et sportive en position de détachement, mis à disposition ou exerçant dans un service ou établissement non placé sous l'autorité d'un recteur d'académie dans les conditions suivantes :
+I.-Les professeurs d'éducation physique et sportive exerçant dans un service ou établissement non mentionné à l'article 9 bénéficient d'un entretien professionnel triennal conduit par le supérieur hiérarchique direct dont ils dépendent, qui en établit le compte rendu, dans les conditions prévues aux articles 9-4 et 9-5.
 
-a) La notation des personnels remplissant une fonction d'enseignement, à l'exception de ceux qui exercent dans l'enseignement supérieur, est assurée selon les modalités prévues au 1 de l'article 9 ci-dessus. Cependant, la note de 0 à 40 est arrêtée par le ministre chargé de l'éducation compte tenu des notes ou appréciations établies par l'autorité auprès de laquelle le professeur est détaché, mis à disposition ou affecté ;
+II.-Les personnels mis à disposition bénéficient d'un entretien professionnel triennal conduit par le supérieur hiérarchique direct dont ils dépendent qui en établit un rapport dans les conditions prévues à l'article 11 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions. Leur valeur professionnelle est appréciée par leur administration d'origine sur la base de ce rapport.
 
-b) La notation des personnels ne remplissant pas une fonction d'enseignement ainsi que celle des personnels détachés pour exercer dans un établissement d'enseignement supérieur comporte une note unique de 0 à 100, arrêtée par le ministre chargé de l'éducation sur proposition de l'autorité auprès de laquelle le professeur exerce ses fonctions.
+III.-Les personnels détachés font l'objet d'une appréciation de leur valeur professionnelle dans les conditions prévues par les articles 27 ou 28 du décret du 16 septembre 1985 susmentionné.
 
-La note mentionnée au b ci-dessus est fixée en fonction d'une grille de notation prévue au 2 de l'article 9 ci-dessus.
-
-Les notes et les appréciations sont communiquées par le ministre aux professeurs intéressés.
-
-La commission administrative paritaire nationale peut, à la requête du professeur, demander au ministre la révision :
-
-De la note de 0 à 40 pour les personnels mentionnés au a ci-dessus ;
-
-De la note de 0 à 100 pour les personnels mentionnés au b ci-dessus.
+IV.-Les personnels mentionnés aux I et II et les personnels détachés au titre de l'article 28 du décret du 16 septembre 1985 susmentionné peuvent demander au ministre chargé de l'éducation nationale la révision du compte rendu de leur entretien professionnel et la commission administrative paritaire nationale peut être saisie d'une demande de révision de ce compte rendu dans les conditions mentionnées à l'article 9-7.

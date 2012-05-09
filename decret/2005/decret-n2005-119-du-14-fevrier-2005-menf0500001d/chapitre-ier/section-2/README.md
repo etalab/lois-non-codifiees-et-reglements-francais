@@ -1,5 +1,16 @@
-# Section 2 : Notation et avancement.
+# Section 2 : Appréciation de la valeur professionnelle et avancement.
 
 - [Article 13](article-13.md)
+- [Article 13-1](article-13-1.md)
+- [Article 13-2](article-13-2.md)
+- [Article 13-3](article-13-3.md)
+- [Article 13-4](article-13-4.md)
+- [Article 13-5](article-13-5.md)
+- [Article 13-6](article-13-6.md)
+- [Article 13-7](article-13-7.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
+- [Article 15-1](article-15-1.md)
+- [Article 15-2](article-15-2.md)
+- [Article 15-3](article-15-3.md)
+- [Article 15-4](article-15-4.md)

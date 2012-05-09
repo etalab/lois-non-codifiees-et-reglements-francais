@@ -2,5 +2,5 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
-- [Chapitre IV : Notation, avancement, mutation, reclassement.](chapitre-iv)
+- [Chapitre IV : Appréciation de la valeur professionnelle, avancement, mutation, reclassement.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
