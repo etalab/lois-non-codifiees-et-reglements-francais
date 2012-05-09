@@ -119,6 +119,7 @@
 - [Décret n°2012-332 du 7 mars 2012 (DEVD1124456D)](decret-n2012-332-du-7-mars-2012-devd1124456d)
 - [Décret n°2012-336 du 7 mars 2012 (IOCV1129832D)](decret-n2012-336-du-7-mars-2012-iocv1129832d)
 - [Décret n°2012-337 du 7 mars 2012 (EFII1134247D)](decret-n2012-337-du-7-mars-2012-efii1134247d)
+- [Décret n°61-1012 du 7 septembre 1961](decret-n61-1012-du-7-septembre-1961)
 - [Décret n°2012-197 du 8 février 2012 (MENE1135547D)](decret-n2012-197-du-8-fevrier-2012-mene1135547d)
 - [Décret n°2012-340 du 8 mars 2012 (JUSA1201264D)](decret-n2012-340-du-8-mars-2012-jusa1201264d)
 - [Décret n°2012-342 du 8 mars 2012 (MENH1127509D)](decret-n2012-342-du-8-mars-2012-menh1127509d)
