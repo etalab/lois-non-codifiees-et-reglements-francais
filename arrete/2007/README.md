@@ -708,7 +708,6 @@
 - [Arrêté du 22 février 2007 (SOCT0710458A)](arrete-du-22-fevrier-2007-soct0710458a)
 - [Arrêté du 22 février 2007 (SOCT0710459A)](arrete-du-22-fevrier-2007-soct0710459a)
 - [Arrêté du 22 janvier 2004 (AGRP0400303A)](arrete-du-22-janvier-2004-agrp0400303a)
-- [Arrêté du 22 janvier 2007 (BUDJ0700002A)](arrete-du-22-janvier-2007-budj0700002a)
 - [Arrêté du 22 janvier 2007 (DEFL0700142A)](arrete-du-22-janvier-2007-defl0700142a)
 - [Arrêté du 22 janvier 2007 (DEFL0700143A)](arrete-du-22-janvier-2007-defl0700143a)
 - [Arrêté du 22 janvier 2007 (DEFL0700144A)](arrete-du-22-janvier-2007-defl0700144a)
