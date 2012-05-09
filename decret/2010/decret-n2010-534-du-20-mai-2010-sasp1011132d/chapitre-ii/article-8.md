@@ -1,6 +1,6 @@
 # Article 8
 
-I. ― En vue de leur inscription sur la liste départementale, les professionnels fournissent :
+I. ― En vue de leur inscription sur la liste mentionnée à l'article 7, les professionnels fournissent :
 
 1° La copie d'une pièce d'identité ;
 

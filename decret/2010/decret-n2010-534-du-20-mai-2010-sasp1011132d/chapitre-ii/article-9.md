@@ -1,6 +1,6 @@
 # Article 9
 
-La liste départementale mentionne pour chaque professionnel :
+La liste mentionnée à l'article 7 précise pour chaque professionnel :
 
 1° Son identité ;
 

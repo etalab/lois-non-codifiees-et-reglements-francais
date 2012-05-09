@@ -2,9 +2,9 @@
 
 Pour son application à Mayotte, les dispositions des articles 1er à 17 du présent décret sont ainsi adaptées :
 
-1° La référence à la liste départementale est remplacée par la référence à la liste des psychothérapeutes de Mayotte ;
+1° La référence à la liste mentionnée à l'article 7  est remplacée par la référence à la liste des psychothérapeutes de Mayotte ;
 
-2° La référence au préfet de département est remplacée par la référence au préfet de Mayotte ;
+2°  La référence au directeur général de l'agence régionale de santé est  remplacée par la référence au directeur de l'Agence de santé de l'océan  Indien ;
 
 3° La référence à l'agence régionale de santé est remplacée par la référence à l'agence de santé de l'océan Indien ;
 
