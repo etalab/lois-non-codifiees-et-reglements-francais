@@ -14,7 +14,7 @@ Pour la gestion de l'accès au téléservice :
 
 Pour l'utilisation de l'espace de stockage, selon les choix de l'usager :
 
-1° Pour la partie relative aux informations personnelles de l'usager, permettant le préremplissage de formulaires dans le cadre des services offerts par « mon.service-public.fr » :
+1° Pour la partie relative aux informations personnelles de l'usager, permettant le préremplissage de formulaires dans le cadre des services offerts par mon.service-public.fr :
 
 ― la civilité ;
 
@@ -44,6 +44,12 @@ Pour l'utilisation de l'espace de stockage, selon les choix de l'usager :
 
 ― les données à caractère personnel contenues dans ces documents et pièces nécessaires à l'accomplissement de démarches administratives.
 
+3° Pour l'accomplissement des démarches administratives :
+
+― les informations ou catégories d'informations à caractère personnel nécessaires à l'accomplissement des démarches administratives mentionnées à l'article 2 et prévues par un texte législatif ou réglementaire. Lorsque le traitement de données sensibles au sens de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée est nécessaire à l'accomplissement d'une démarche administrative en ligne, la confidentialité de ces données est particulièrement renforcée par des mesures techniques de sécurité supplémentaires.
+
+La liste de ces informations est disponible sur le site internet du traitement créé à l'article 1er.
+
 Pour la gestion des comptes des téléservices partenaires à celui de mon.service-public.fr :
 
-― les clés de fédération ou « alias » générés par le système à la demande de l'usager pour permettre d'établir les liens avec les différents comptes.
+― les clés de fédération ou "alias" générés par le système à la demande de l'usager pour permettre d'établir les liens avec les différents comptes.

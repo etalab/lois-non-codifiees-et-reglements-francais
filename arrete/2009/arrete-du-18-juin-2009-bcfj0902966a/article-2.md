@@ -1,6 +1,6 @@
 # Article 2
 
-Ce téléservice est la version personnalisée du site internet « service-public.fr ». Il met à disposition de l'usager un ensemble de services accessibles par internet permettant de :
+Ce téléservice est la version personnalisée du site internet  service-public.fr . Il met à disposition de l'usager un ensemble de services accessibles par internet permettant de :
 
 1° Personnaliser ses contenus favoris ;
 
@@ -8,7 +8,9 @@ Ce téléservice est la version personnalisée du site internet « service-publi
 
 3° Gérer et utiliser ses données à caractère personnel grâce à un espace de stockage permettant de conserver les informations le concernant et les documents et pièces justificatives qui lui sont nécessaires pour l'accomplissement de démarches administratives ;
 
-4° Gérer ses échanges avec les autorités administratives.
+4° Gérer ses échanges avec les autorités administratives ;
+
+5° Mettre à disposition des usagers un ensemble de téléservices leur permettant d'accomplir leurs démarches administratives en ligne auprès des autorités compétentes mentionnées à l'article 4.
 
 Ces services sont accessibles au choix de l'usager, au moyen d'un identifiant et d'un mot de passe qu'il aura librement déterminé ou d'un code d'accès qui lui aura été adressé sur son téléphone portable sauf dans les cas où une fonctionnalité ou un service requiert un mode particulier d'identification tel un certificat électronique.
 

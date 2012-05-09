@@ -1,3 +1,7 @@
 # Article 8
 
-Le directeur général de la modernisation de l'Etat est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+A abrogé les dispositions suivantes :
+
+Arrêté du 16 mai 2005, Arrêté du 22 janvier 2007
+
+L'arrêté du 9 novembre 2007 susvisés est abrogé.
