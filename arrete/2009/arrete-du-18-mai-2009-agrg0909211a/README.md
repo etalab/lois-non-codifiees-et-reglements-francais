@@ -4,4 +4,5 @@
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 5](article-5.md)
+- [Article 1er bis](article-1er-bis.md)
 - [Annexes](annexes)
