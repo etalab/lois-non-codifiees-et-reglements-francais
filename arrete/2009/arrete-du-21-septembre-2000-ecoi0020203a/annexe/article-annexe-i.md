@@ -2,7 +2,7 @@
 
 **PROGRAMMES DES EPREUVES**
 
-1re partie :  La réglementation des radiocommunications et les conditions de mise en oeuvre des installations des services d'amateur
+1re partie : La réglementation des radiocommunications et les conditions de mise en oeuvre des installations des services d'amateur
 
 (Identique pour les certificats d'opérateurs
 
@@ -170,7 +170,7 @@ n° 236 du 11/10/20 0 page 16097 à 16103
 
 =============================================
 
-2e partie :  La technique de l'électricité et de la radioélectricité  pour l'accès aux certificats d'opérateur des services d'amateur de classe 2 et 1
+2e partie : La technique de l'électricité et de la radioélectricité pour l'accès aux certificats d'opérateur des services d'amateur de classe 2 et 1
 
 Chapitre 1er
 
@@ -734,88 +734,4 @@ Pratique des opérations de mesure :
 
 - oscilloscope et analyseur de spectre.
 
-3e partie :  Epreuve pratique de réception auditive de signaux du code Morse pour l'obtention du certificat d'opérateur des services d'amateur de classe 1
-
-Chapitre 1er
-
-Les lettres de l'alphabet.
-
-Les dix chiffres.
-
-Le point.
-
-La virgule.
-
-Le point d'interrogation.
-
-La barre de fraction.
-
-Le signe (+).
-
-L'apostrophe.
-
-L'attente (AS).
-
-La fin de transmission.
-
-Chapitre 2
-
-Abréviations utilisées par le service amateur
-
-AR
-
-Fin de transmission.
-
-BK
-
-Signal utilisé pour interrompre une transmission en cours.
-
-CQ
-
-Appel généralisé à toutes les stations.
-
-CW
-
-Onde entretenue - Télégraphie.
-
-DE
-
-Utilisé pour séparer l'indicatif d'appel de la station.
-
-K
-
-Invitation à émettre.
-
-MSG Message.
-
-PSE
-
-S'il vous plaît.
-
-RST
-
-Lisibilité, force du signal, tonalité.
-
-R
-
-Reçu.
-
-RX
-
-Récepteur.
-
-SIG
-
-Signal.
-
-TX
-
-Emetteur.
-
-UR
-
-Votre.
-
-VA
-
-Fin de vacation.
+3e partie : Abrogé

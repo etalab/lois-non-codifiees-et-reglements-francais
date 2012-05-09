@@ -1,3 +1,3 @@
 # Article 4
 
-Les modalités de conversion des certificats d'opérateurs civils ou militaires en certificats d'opérateurs des services d'amateur sont précisées à l'annexe II du présent arrêté.
+La participation à l'examen pour l'obtention du certificat d'opérateur précité et la délivrance du certificat d'opérateur sont subordonnées au paiement préalable des taxes prévues par les textes en vigueur.
