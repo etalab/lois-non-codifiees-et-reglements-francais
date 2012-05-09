@@ -75,7 +75,6 @@
 - [Arrêté du 3 janvier 2002 (ECOC0100142A)](arrete-du-3-janvier-2002-ecoc0100142a)
 - [Arrêté du 3 janvier 2002 (ECOC0100143A)](arrete-du-3-janvier-2002-ecoc0100143a)
 - [Arrêté du 3 janvier 2002 (MENP0102587A)](arrete-du-3-janvier-2002-menp0102587a)
-- [Arrêté du 3 janvier 2003 (JUSB0210646A)](arrete-du-3-janvier-2003-jusb0210646a)
 - [Arrêté du 3 janvier 2003 (PRMX0206216A)](arrete-du-3-janvier-2003-prmx0206216a)
 - [Arrêté du 3 juillet 2002 (AGRG0201505A)](arrete-du-3-juillet-2002-agrg0201505a)
 - [Arrêté du 3 juillet 2002 (INDI0200364A)](arrete-du-3-juillet-2002-indi0200364a)

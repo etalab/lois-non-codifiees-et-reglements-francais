@@ -699,7 +699,6 @@
 - [Arrêté du 26 mai 2004 (ECOP0400135A)](arrete-du-26-mai-2004-ecop0400135a)
 - [Arrêté du 26 mai 2004 (INDI0403051A)](arrete-du-26-mai-2004-indi0403051a)
 - [Arrêté du 26 mai 2004 (JUSD0430102A)](arrete-du-26-mai-2004-jusd0430102a)
-- [Arrêté du 26 mai 2004 (SANG0420602A)](arrete-du-26-mai-2004-sang0420602a)
 - [Arrêté du 26 mai 2004 (SOCF0411144A)](arrete-du-26-mai-2004-socf0411144a)
 - [Arrêté du 27 août 2004 (ECOP0400509A)](arrete-du-27-aout-2004-ecop0400509a)
 - [Arrêté du 27 août 2004 (ECOP0400510A)](arrete-du-27-aout-2004-ecop0400510a)

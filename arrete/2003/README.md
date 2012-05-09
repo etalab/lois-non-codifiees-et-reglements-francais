@@ -60,7 +60,6 @@
 - [Arrêté du 3 février 2003 (SANP0320313A)](arrete-du-3-fevrier-2003-sanp0320313a)
 - [Arrêté du 3 février 2003 (SANP0320314A)](arrete-du-3-fevrier-2003-sanp0320314a)
 - [Arrêté du 3 janvier 2003 (JUSB0210645A)](arrete-du-3-janvier-2003-jusb0210645a)
-- [Arrêté du 3 janvier 2003 (JUSB0210647A)](arrete-du-3-janvier-2003-jusb0210647a)
 - [Arrêté du 3 janvier 2003 (SANH0223665A)](arrete-du-3-janvier-2003-sanh0223665a)
 - [Arrêté du 3 janvier 2003 (SANP0320021A)](arrete-du-3-janvier-2003-sanp0320021a)
 - [Arrêté du 3 juillet 2003 (DEFE0301789A)](arrete-du-3-juillet-2003-defe0301789a)
