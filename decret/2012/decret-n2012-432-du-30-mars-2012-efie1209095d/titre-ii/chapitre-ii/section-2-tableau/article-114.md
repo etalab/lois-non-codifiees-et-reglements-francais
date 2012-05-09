@@ -1,6 +1,6 @@
 # Article 114
 
-Le tableau de l'ordre des experts-comptables est divisé en huit sections, suivies de trois listes :
+Le tableau de l'ordre des experts-comptables est divisé en huit sections, suivies de quatre listes :
 
 1° La section des experts-comptables, personnes physiques exerçant leur profession à titre indépendant ;
 
@@ -22,6 +22,10 @@ Le tableau de l'ordre des experts-comptables est divisé en huit sections, suivi
 
 10° La liste des salariés d'associations de gestion et de comptabilité autorisés à exercer l'activité d'expertise comptable sur le fondement de l'article 83 ter de l'ordonnance du 19 septembre 1945 susvisée ;
 
-11° La liste des salariés d'associations de gestion et de comptabilité autorisés à exercer l'activité d'expertise comptable sur le fondement de l'article 83 quater de l'ordonnance du 19 septembre 1945 susvisée.
+11° La liste des salariés d'associations de gestion et de comptabilité autorisés à exercer l'activité d'expertise comptable sur le fondement de l'article 83 quater de l'ordonnance du 19 septembre 1945 susvisée ;
+
+12° La liste des sociétés de participations financières de professions libérales mentionnées au chapitre VI du titre III.
 
 L'inscription dans l'une des sections ou listes du tableau d'une circonscription donne le droit d'exercer la profession sur l'ensemble du territoire national, à l'exception de la situation spécifique des experts-comptables stagiaires et des experts-comptables honoraires.
+
+Par dérogation, l'inscription au tableau des sociétés de participations financières de professions libérales n'est pas régie par les dispositions des articles 115 et 116 et ne leur confère pas le droit d'exercer l'activité d'expertise comptable ; en outre, ces sociétés ne sont pas membres de l'ordre et ne sont pas soumises à son contrôle disciplinaire.

@@ -5,3 +5,4 @@
 - [Chapitre III : Contrôle de qualité](chapitre-iii)
 - [Chapitre IV : Discipline](chapitre-iv)
 - [Chapitre V : Société d'exercice libéral](chapitre-v)
+- [Chapitre VI : Sociétés de participations financières de professions libérales](chapitre-vi)
