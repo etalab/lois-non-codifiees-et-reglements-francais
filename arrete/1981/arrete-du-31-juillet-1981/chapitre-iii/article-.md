@@ -4,7 +4,7 @@
 
 Un élève pilote ne peut entreprendre de vol seul à bord pour se préparer à la délivrance ou au renouvellement d'une licence que s'il remplit les conditions suivantes :
 
-a) Être âgé de 15 ans révolus.
+a) Etre âgé de quinze ans révolus ou quatorze ans révolus pour un élève pilote de planeur ;
 
 b) Satisfaire aux conditions d'aptitude physique et mentale exigées pour l'obtention de la licence envisagée, attestées par la production d'un certiﬁcat d'aptitude délivré par un médecin agréé, selon la périodicité propre à la licence postulée; ou être titulaire d'une licence du personnel navigant de l'aéronautique civile, autre que la licence de pilote d'ULM.
 

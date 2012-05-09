@@ -8,15 +8,15 @@
 
 La qualiﬁcation d'instructeur de pilote de planeur est délivrée au candidat qui remplit les conditions suivantes :
 
-a. Être âgé de dix-huit ans révolus;
+a. Être âgé de dix-huit ans révolus ;
 
-b. Être titulaire d'une licence de pilote de planeur;
+b. Être titulaire d'une licence de pilote de planeur ;
 
-c. Avoir effectué au moins 200 heures de vol comme commandant de bord de planeur, dont 30 heures de vol comme commandant de bord de planeur dans les douze derniers mois;
+c. Avoir effectué au moins 200 heures de vol comme commandant de bord de planeur, dont 30 heures de vol comme commandant de bord de planeur dans les douze derniers mois ;
 
-d. Avoir obtenu un résultat satisfaisant à une évaluation théorique et pratique homologuée à cet effet, avant d'accéder à la formation mentionnée à l'alinéa e;
+d. Avoir obtenu un résultat satisfaisant à une évaluation théorique et pratique homologuée à cet effet, avant d'accéder à la formation mentionnée à l'alinéa e ;
 
-e. Avoir suivi de manière complète et satisfaisante un enseignement homologué à cet effet;
+e. Avoir suivi de manière complète et satisfaisante un enseignement homologué à cet effet ;
 
 f. Avoir satisfait à une épreuve d'aptitude en vue de la délivrance de la qualiﬁcation d'instructeur de pilote de planeur avec un examinateur habilité par décision ministérielle.
 
@@ -38,19 +38,19 @@ La qualification d'instructeur de pilote de planeur (ITP) permet à son titulair
 
 7.1.1.3. Validité et renouvellement
 
-La qualiﬁcation d'instructeur de pilote de planeur (ITP) vient à expiration le dernier jour du trente-sixième mois qui suit sa délivrance.
+La qualification d'instructeur de pilote de planeur (ITP) vient à expiration le dernier jour du trente-sixième mois qui suit sa délivrance.
 
-La qualiﬁcation d'instructeur de pilote de planeur (ITP) est renouvelée pour une période de trente-six mois sous réserve que l'intéressé réponde à deux des trois conditions suivantes :
+La qualification d'instructeur de pilote de planeur (ITP) est renouvelée pour une période de trente-six mois, sous réserve que l'intéressé réponde à deux des trois conditions suivantes :
 
-- avoir dispensé au moins 100 heures de formation en vol pendant la période de validité de la qualiﬁcation, dont 30 heures dans les douze derniers mois. S'il détient une qualiﬁcation d'instructeur de pilote d'avion ou d'instructeur de vol avion ou d'instructeur d'hélicoptère, la moitié des heures exigées pourra avoir été effectuée dans le cadre de ces dernières qualiﬁcations;
+- avoir effectué au moins trente heures ou soixante décollages en instruction en vol pendant la période de validité de la qualification ;
 
-- avoir suivi de manière complète un stage actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ACT) , approuvé par le ministre chargé de l'aviation civile, dans les douze mois précédant la date d'expiration de la qualiﬁcation d'instructeur de pilote de planeur;
+- avoir suivi de manière complète un stage "actualisation des connaissances d'instructeur (ACT)", approuvé par le ministre chargé de l'aviation civile, pendant la période de validité de la qualification d'instructeur ;
 
-- avoir réussi un contrôle de compétence dans les douze mois précédant la date d'expiration de la qualiﬁcation d'instructeur de pilote de planeur.
+- avoir réussi un contrôle de compétence dans les douze mois précédant la date d'expiration de la qualification d'instructeur de pilote de planeur.
 
-Lorsque la qualiﬁcation d'instructeur de pilote de planeur est périmée, et si les conditions précédentes ne sont pas réalisées, le candidat doit satisfaire les deux dernières conditions dans les douze mois précédant la demande de renouvellement.
+Lorsque la qualification d'instructeur de pilote de planeur est périmée ou si les conditions précédentes ne sont pas réalisées, le candidat doit satisfaire aux deux dernières conditions dans les douze mois précédant la demande de renouvellement.
 
-L'intéressé doit avoir accompli le stage actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ACT) , visé ci-dessus, dans les six ans précédant le deuxième renouvellement ainsi que pour les renouvellements ultérieurs dont le rang est multiple de deux (1).
+L'intéressé doit avoir réussi un contrôle de compétence, visé ci-dessus, au minimum tous les trois renouvellements.
 
 7.1.2. Qualiﬁcation d'instructeur de vol à voile (ITV)
 
@@ -62,7 +62,7 @@ a. Etre titulaire de la qualiﬁcation d'instructeur de pilote de planeur en cou
 
 b. Depuis la délivrance de cette dernière qualiﬁcation, avoir effectué 100 heures de vol comme commandant de bord de planeur, dont 50 heures en qualité d'instructeur de pilote de planeur ;
 
-c. Avoir obtenu un résultat satisfaisant à une évaluation théorique et pratique homologuée à cet effet, avant d'accéder à la formation mentionnée à l'alinéa d;
+c. Avoir obtenu un résultat satisfaisant à une évaluation théorique et pratique homologuée à cet effet, avant d'accéder à la formation mentionnée à l'alinéa d ;
 
 d. Avoir suivi de manière complète et satisfaisante un enseignement homologué à cet effet ;
 
@@ -78,17 +78,25 @@ Les instructeurs de vol à voile, détenteurs des privilèges de pilote privé a
 
 7.1.2 3. Validité et renouvellement
 
-La qualiﬁcation d'instructeur de vol à voile vient à expiration le dernier jour du vingt-quatrième mois qui suit celui de sa délivrance.
+La qualification d'instructeur de vol à voile vient à expiration le dernier jour du trente-sixième mois qui suit celui de la délivrance.
 
-Elle est renouvelée par période de même durée si, au cours des deux années qui précèdent sa demande, l'intéressé a;
+Elle est renouvelée par période de même durée si au cours des trois dernières années qui précèdent sa demande, l'intéressé :
 
-- soit effectué au moins 75 heures de vol dans le cadre de cette qualiﬁcation; s'il détient une qualiﬁcation d'instructeur de pilote d'avion ou d'hélicoptère, la moitié des heures exigées pourront avoir été effectuées dans le cadre de ces dernières qualiﬁcations;
+a) Répond aux conditions de renouvellement de la qualification d'instructeur de pilote de planeur exigées au paragraphe 7.1.1.3. ; et
 
-- soit effectué au moins 100 heures de vol comme pilote de planeur, dont un minimum de 40 heures dans le cadre de sa qualiﬁcation d'instructeur de vol à voile;
+b) A conduit au moins deux épreuves pratiques en vol, contrôles en vol ou contrôles de compétence par période de douze mois.
 
-- soit satisfait à un contrôle théorique et pratique réalisé par un instructeur désigné par le ministre chargé de l'aviation civile.
+Lorsque la qualification d'instructeur de vol à voile est périmée ou si les conditions précédentes ne sont pas réalisées, le candidat doit satisfaire aux deux conditions ci-dessous dans les douze mois précédant la demande de renouvellement :
 
-À l'occasion du troisième renouvellement, puis des renouvellements ultérieurs dont le rang est multiple de trois, l'intéressé doit justiﬁer avoir suivi un stage d'actualisation des connaissances (approuvé par le ministre chargé de l'aviation civile); ce stage doit avoir été suivi dans les deux années précédant la date du renouvellement.
+- avoir suivi de manière complète un stage "actualisation des connaissances d'instructeur (ACT)", approuvé par le ministre chargé de l'aviation civile ;
+
+- avoir satisfait à un contrôle de compétences théorique et pratique réalisé par un instructeur désigné par le ministre chargé de l'aviation civile.
+
+7.1.3 Disposition transitoire
+
+L'exigence visée au b du paragraphe 7.1.2.3 prend effet à compter du 15 mai 2012 et s'applique pour chaque période de douze mois comprise entre le 15 mai 2012 et la date de fin de validité de la qualification d'instructeur de vol à voile.
+
+Les détenteurs d'une qualification d'instructeur de vol à voile dont la validité prend fin entre le 15 mai 2012 et le 14 mai 2013 ne sont pas concernés par cette exigence.
 
 7.2. Instructeur de pilote privé avion
 
@@ -98,11 +106,11 @@ Elle est renouvelée par période de même durée si, au cours des deux années 
 
 La qualiﬁcation d'instructeur stagiaire de pilote de base d'avion est délivrée au candidat qui remplit les conditions suivantes :
 
-a. Être âgé de dix-huit ans révolus;
+a. Être âgé de dix-huit ans révolus ;
 
-b. Être titulaire d'une licence de pilote privé avion ou professionnel d'avion;
+b. Être titulaire d'une licence de pilote privé avion ou professionnel d'avion ;
 
-c. Avoir effectué au moins 300 heures de vol sur avion s'il est titulaire d'une licence de pilote privé, 200 s'il est titulaire d'une licence de pilote professionnel d'avion dont dans les deux cas, 150 comme commandant de bord;
+c. Avoir effectué au moins 300 heures de vol sur avion s'il est titulaire d'une licence de pilote privé, 200 s'il est titulaire d'une licence de pilote professionnel d'avion dont dans les deux cas, 150 comme commandant de bord ;
 
 d. Avoir subi de manière complète et satisfaisante un enseignement homologué approprié. L'accès à cet enseignement peut être subordonné à des conditions d'expérience récente et à une procédure d'évaluation.
 
@@ -112,7 +120,7 @@ e. Avoir satisfait à des épreuves théoriques et pratiques.
 
 La qualiﬁcation d'instructeur stagiaire de pilote de base d'avion ouvre à son titulaire le droit de dispenser l'instruction en vol relative à la licence de base de pilote d'avion et aux autorisations additionnelles suivantes :
 
-- utilisation d'autres modèles d'avion ou de planeur à dispositif d'envol incorporé;
+- utilisation d'autres modèles d'avion ou de planeur à dispositif d'envol incorporé ;
 
 - emport de passagers.
 
@@ -122,7 +130,7 @@ La qualiﬁcation d'instructeur stagiaire de pilote de base d'avion vient à exp
 
 Elle est renouvelée une seule fois pour une période de même durée si, au cours des deux années qui précèdent sa demande, l'intéressé a :
 
-- soit effectué au moins cent heures de vol en qualité de commandant de bord d'avion, dont un minimum de soixante heures de vol dans le cadre de la qualiﬁcation d'instructeur stagiaire de pilote de base d'avion;
+- soit effectué au moins cent heures de vol en qualité de commandant de bord d'avion, dont un minimum de soixante heures de vol dans le cadre de la qualiﬁcation d'instructeur stagiaire de pilote de base d'avion ;
 
 - soit satisfait à un contrôle théorique et pratique réalisé par un instructeur désigné par le ministre chargé de l'aviation civile.
 
@@ -132,11 +140,11 @@ Elle est renouvelée une seule fois pour une période de même durée si, au cou
 
 La qualiﬁcation d'instructeur adjoint de pilote privé avion est délivrée au candidat qui remplit les conditions suivantes :
 
-1. Être âgé de dix-huit ans révolus;
+1. Être âgé de dix-huit ans révolus ;
 
-2. Être titulaire d'une licence de pilote privé avion ou professionnel d'avion;
+2. Être titulaire d'une licence de pilote privé avion ou professionnel d'avion ;
 
-3. Avoir effectué au moins trois cents heures de vol sur avion s'il est titulaire d'une licence de pilote privé d'avion, deux cents s'il est titulaire d'une licence de pilote professionnel d'avion dont, dans les deux cas, cent cinquante comme commandant de bord;
+3. Avoir effectué au moins trois cents heures de vol sur avion s'il est titulaire d'une licence de pilote privé d'avion, deux cents s'il est titulaire d'une licence de pilote professionnel d'avion dont, dans les deux cas, cent cinquante comme commandant de bord ;
 
 4. Avoir suivi de manière complète et satisfaisante un enseignement homologué approprié. L'accès à cet enseignement peut être subordonné à des conditions d'expérience récente et à une procédure d'évaluation.
 
@@ -158,7 +166,7 @@ Elle est renouvelée par période de même durée si, au cours des deux années 
 
 La qualiﬁcation d'instructeur de pilote privé avion est délivrée au candidat qui remplit les conditions suivantes :
 
-1. Être titulaire d'une qualiﬁcation d'instructeur adjoint de pilote privé avion;
+1. Être titulaire d'une qualiﬁcation d'instructeur adjoint de pilote privé avion ;
 
 2. Avoir effectué au moins 200 heures de vol en cette qualité.
 
@@ -196,19 +204,15 @@ Les instructeurs adjoints de pilote privé avion répondant aux conditions du 7.
 
 La qualiﬁcation d'instructeur adjoint de pilote privé hélicoptère est délivrée au candidat qui remplit les conditions suivantes :
 
-1° Être âgé de 18 ans révolus;
+1° Être âgé de 18 ans révolus ;
 
-2° Être titulaire d'une licence de pilote d'hélicoptère;
+2° Être titulaire d'une licence de pilote d'hélicoptère ;
 
-3° Avoir effectué au moins 200 heures comme commandant de bord d'hélicoptère;
+3° Avoir effectué au moins 200 heures comme commandant de bord d'hélicoptère ;
 
-4° Soit avoir suivi de manière complète et
+4° Soit avoir suivi de manière complète et satisfaisante un enseignement homologué approprié :
 
-satisfaisante un enseignement homologué
-
-approprié :
-
-- soit avoir effectué au moins 200 heures de vol d'instruction à titre civil sur planeur ou avion ou à titre militaire (dans cette hypothèse 100 heures au moins doivent avoir été réalisées sur hélicoptère);
+- soit avoir effectué au moins 200 heures de vol d'instruction à titre civil sur planeur ou avion ou à titre militaire (dans cette hypothèse 100 heures au moins doivent avoir été réalisées sur hélicoptère) ;
 
 - et avoir satisfait à une épreuve théorique et pratique réalisée par un examinateur habilité.
 
@@ -228,7 +232,7 @@ Elle est renouvelée par période de même durée, si au cours de deux années q
 
 La qualiﬁcation d'instructeur de pilote privé hélicoptère est délivrée au candidat qui remplit les conditions suivantes :
 
-1) Être titulaire d'une qualiﬁcation d'instructeur adjoint de pilote privé hélicoptère;
+1) Être titulaire d'une qualiﬁcation d'instructeur adjoint de pilote privé hélicoptère ;
 
 2) Avoir effectué au moins 100 heures de vol en cette qualité.
 
@@ -258,17 +262,17 @@ Les instructeurs adjoints de pilote privé répondant aux conditions du paragrap
 
 La qualiﬁcation d'instructeur de pilote de ballon libre est délivrée au candidat qui remplit les conditions suivantes :
 
-1° Être âgé de 18 ans révolus;
+1° Être âgé de 18 ans révolus ;
 
-2° Être titulaire d'une licence de pilote de ballon libre;
+2° Être titulaire d'une licence de pilote de ballon libre ;
 
 3° Justiﬁer de l'expérience suivante :
 
 - pour le ballon libre à gaz : trente ascensions en qualité de pilote,
 
-- pour le ballon libre à air chaud : 80 heures de vol en qualité de pilote;
+- pour le ballon libre à air chaud : 80 heures de vol en qualité de pilote ;
 
-4° Posséder une qualiﬁcation d'instructeur d'avion, d'hélicoptère ou de planeur ou avoir suivi une formation à l'instruction déﬁnie par arrêté;
+4° Posséder une qualiﬁcation d'instructeur d'avion, d'hélicoptère ou de planeur ou avoir suivi une formation à l'instruction déﬁnie par arrêté ;
 
 5° Avoir satisfait à un contrôle réalisé par un examinateur habilité par décision ministérielle.
 
@@ -282,19 +286,17 @@ La qualiﬁcation d'instructeur de pilote de ballon libre vient à expiration le
 
 Elle est renouvelée par période de même durée si l'intéressé :
 
-1° a suivi un stage d'actualisation des connaissances selon un programme déﬁni par arrêté, et;
+1° a suivi un stage d'actualisation des connaissances selon un programme déﬁni par arrêté, et ;
 
 2° a formé complètement au cours des cinq années qui précédent sa demande :
 
-- un élève jusqu'à l'obtention du brevet pour la mention Ballon libre à gaz;
+- un élève jusqu'à l'obtention du brevet pour la mention Ballon libre à gaz ;
 
 - trois élèves jusqu'à l'obtention du brevet pour la mention Ballon libre à air chaud.
 
 À défaut de remplir la condition visée au 2° ci-dessus, il doit satisfaire à un contrôle réalisé par un examinateur habilité.
 
-7.5. Instructeur de pilote d'ULM
-
-hélicoptère ultraléger.
+7.5. Instructeur de pilote d'ULM hélicoptère ultraléger.
 
 7.5.1. Formation
 
@@ -306,19 +308,19 @@ Le candidat à la qualiﬁcation d'instructeur de pilote d'ULM peut postuler à 
 
 La qualité d'instructeur stagiaire de pilote d'ULM est reconnue à l'instructeur en formation initiale qui, pour la ou les classes concernées, remplit les conditions suivantes :
 
-a) Être âgé de dix-huit ans révolus;
+a) Être âgé de dix-huit ans révolus ;
 
-b) Être titulaire du brevet et de la licence de pilote d'ULM;
+b) Être titulaire du brevet et de la licence de pilote d'ULM ;
 
 c) À l'exception des postulants à la qualité d'instructeur stagiaire dispensant exclusivement l'instruction sur des paramoteurs monoplaces, être titulaire de l'autorisation d'emport de passager et :
 
-i) Détenir cette autorisation depuis au moins six mois ou;
+i) Détenir cette autorisation depuis au moins six mois ou ;
 
-ii) Satisfaire à un contrôle en vol auprès d'un organisme homologué pour la formation d'instructeur de pilote d'ULM;
+ii) Satisfaire à un contrôle en vol auprès d'un organisme homologué pour la formation d'instructeur de pilote d'ULM ;
 
-d) Avoir obtenu un résultat satisfaisant à l'évaluation théorique d'instructeur de pilote d'ULM;
+d) Avoir obtenu un résultat satisfaisant à l'évaluation théorique d'instructeur de pilote d'ULM ;
 
-e) Avoir suivi de manière complète et satisfaisante la formation initiale d'un organisme homologué;
+e) Avoir suivi de manière complète et satisfaisante la formation initiale d'un organisme homologué ;
 
 f) Avoir fait l'objet d'une déclaration d'entrée en qualité d'instructeur stagiaire auprès du service de l'aviation civile territorialement compétent avant de dispenser toute formation en vol à des élèves pilotes.
 
@@ -326,7 +328,7 @@ f) Avoir fait l'objet d'une déclaration d'entrée en qualité d'instructeur sta
 
 La qualité d'instructeur stagiaire de pilote d'ULM permet à son titulaire de dispenser la formation théorique et pratique en vue de l'obtention du brevet et de la licence de pilote d'ULM selon les conditions suivantes :
 
-a) Il exerce sous le contrôle et l'autorité de l'instructeur de pilote d'ULM formateur;
+a) Il exerce sous le contrôle et l'autorité de l'instructeur de pilote d'ULM formateur ;
 
 b) La formation en vol qu'il dispense doit être un élément constitutif du programme de formation des instructeurs de l'organisme homologué.
 
@@ -384,7 +386,7 @@ La qualiﬁcation d'instructeur de pilote d'ULM est valable Jusqu'au dernier jou
 
 Elle est renouvelée, si au cours des deux années qui précèdent la demande de renouvellement, le candidat a satisfait aux conditions mentionnées ci-après, pour la (ou les) classe(s) dont il demande le renouvellement :
 
-- avoir suivi un stage d'actualisation des connaissances d'instructeur de pilote d'ULM, dispensé par un organisme homologué à cet effet par le ministre chargé de l'aviation civile;
+- avoir suivi un stage d'actualisation des connaissances d'instructeur de pilote d'ULM, dispensé par un organisme homologué à cet effet par le ministre chargé de l'aviation civile ;
 
 - et, si l'organisme organisant le stage d'actualisation des connaissances l'estime nécessaire, avoir satisfait à un contrôle en vol spéciﬁque auprès de cet organisme.
 
@@ -398,15 +400,11 @@ Le titulaire de la qualiﬁcation d'instructeur de pilote d'ULM est autorisé à
 
 a) La qualiﬁcation d'instructeur de pilote d'ULM classe autogire ultraléger est délivrée par équivalence aux pilotes titulaires d'un agrément d'examinateur de pilote d'autogire en état de validité.
 
-b) La qualiﬁcation d'instructeur de pilote d'ULM
+b) La qualiﬁcation d'instructeur de pilote d'ULM classe aérostat ultraléger est délivrée par équivalence :
 
-classe aérostat ultraléger est délivrée par
+- aux titulaires d'une qualiﬁcation étrangère d'instructeur de pilote de dirigeable, en état de validité, reconnue valable par le ministre chargé de l'aviation civile ou ;
 
-équivalence :
-
-- aux titulaires d'une qualiﬁcation étrangère d'instructeur de pilote de dirigeable, en état de validité, reconnue valable par le ministre chargé de l'aviation civile ou;
-
-- aux titulaires d'une licence de pilote d'ULM et d'une qualiﬁcation d'instructeur de pilote de ballon libre en état de validité ou;
+- aux titulaires d'une licence de pilote d'ULM et d'une qualiﬁcation d'instructeur de pilote de ballon libre en état de validité ou ;
 
 - aux titulaires d'une licence de pilote de ballon libre en état de validité et d'une qualiﬁcation d'instructeur de pilote d'ULM en état de validité.
 
