@@ -1,0 +1,3 @@
+# Article 5
+
+Les véhicules réglementairement équipés d'un dispositif de traitement des émissions polluantes installé postérieurement à la première mise en circulation du véhicule peuvent, à la demande du titulaire du certificat d'immatriculation, être classés dans un groupe de véhicules de classification supérieure si le dispositif et son installation satisfont aux conditions définies par l'arrêté visant les conditions d'installation et de réception des dispositifs de post équipement permettant de réduire les émissions de polluants des véhicules en service, pris en application des articles R. 318-1, R. 318-2 et R. 321-1 à R. 321-25 du code de la route.
