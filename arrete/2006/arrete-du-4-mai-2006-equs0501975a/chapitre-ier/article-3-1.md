@@ -14,6 +14,6 @@ Lorsqu'il circule sous couvert de cette autorisation individuelle, le permission
 
 - l'autorisation individuelle sur un itinéraire précis entre un point de départ et un point d'arrivée identifiés est délivrée pour une durée déterminée qui ne peut excéder cinq ans. Elle peut être soit permanente, soit au voyage ;
 
-- l'autorisation individuelle de raccordement au réseau routier du département est délivrée pour une durée déterminée qui ne peut excéder celle de l'autorisation individuelle permanente initiale. Elle peut être soit permanente, soit au voyage ;
+- l'autorisation individuelle de raccordement au réseau routier du département est délivrée pour une durée déterminée qui ne peut excéder cinq ans. Elle peut être soit permanente, soit au voyage ;
 
-- l'autorisation individuelle de raccordement au réseau routier défini sur la carte nationale des itinéraires pour transports exceptionnels de 1re catégorie est délivrée pour une durée déterminée qui ne peut excéder celle de l'autorisation individuelle permanente initiale. Elle peut être soit permanente, soit au voyage.
+- l'autorisation individuelle de raccordement au réseau routier défini sur la carte nationale des itinéraires pour transports exceptionnels de 1re catégorie est délivrée pour une durée déterminée qui ne peut excéder cinq ans. Elle peut être soit permanente, soit au voyage.
