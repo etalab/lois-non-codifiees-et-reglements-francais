@@ -997,6 +997,7 @@
 - [Décret n°2011-796 du 30 juin 2011 (MFPX1115892D)](decret-n2011-796-du-30-juin-2011-mfpx1115892d)
 - [Décret n°2011-797 du 30 juin 2011 (TRAX1112474D)](decret-n2011-797-du-30-juin-2011-trax1112474d)
 - [Décret n°83-1253 du 30 décembre 1983](decret-n83-1253-du-30-decembre-1983)
+- [Décret n°93-1413 du 30 décembre 1993 (LOGC9300111D)](decret-n93-1413-du-30-decembre-1993-logc9300111d)
 - [Décret n°94-1225 du 30 décembre 1994 (AGRE9402354D)](decret-n94-1225-du-30-decembre-1994-agre9402354d)
 - [Décret n°97-778 du 30 juillet 1997 (MAEJ9730071D)](decret-n97-778-du-30-juillet-1997-maej9730071d)
 - [Décret n°2011-1037 du 31 août 2011 (DEVK1117505D)](decret-n2011-1037-du-31-aout-2011-devk1117505d)
