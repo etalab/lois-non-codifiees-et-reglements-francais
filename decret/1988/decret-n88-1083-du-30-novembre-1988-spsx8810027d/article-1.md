@@ -4,7 +4,7 @@ Les fonctionnaires titulaires et stagiaires énumérés ci-après, en activité 
 
 1° Fonctionnaires et stagiaires appartenant aux différents grades des corps régis par le décret du 30 novembre 1988 susvisé ou par le décret n° 2010-1139 du 29 septembre 2010 portant statut particulier du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière ;
 
-2° Infirmiers généraux et infirmiers généraux adjoints ;
+2° (Abrogé)
 
 3° Directeurs des écoles de cadres de sages-femmes ;
 
@@ -14,17 +14,7 @@ Les fonctionnaires titulaires et stagiaires énumérés ci-après, en activité 
 
 6° Moniteurs des écoles de sages-femmes ;
 
-7° Directeurs des écoles de cadres infirmiers ;
-
-8° Directeurs des écoles d'infirmiers diplômés d'Etat ;
-
-9° Directeurs des écoles de puéricultrices ;
-
-10° Directeurs des écoles d'infirmiers de salle d'opération ;
-
-11° Directeurs des écoles d'infirmiers spécialisés en anesthésie-réanimation ;
-
-12° Directeurs des centres de formation d'infirmiers de secteur psychiatrique ;
+7° à 12° (Abrogés)
 
 13° Sages-femmes et sages-femmes surveillantes chefs.
 
