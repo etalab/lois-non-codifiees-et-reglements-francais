@@ -72,7 +72,6 @@
 - [Décret n°88-974 du 12 octobre 1988 (SPSH8801261D)](decret-n88-974-du-12-octobre-1988-spsh8801261d)
 - [Décret n°88-817 du 13 juillet 1988 (MAEJ8830044D)](decret-n88-817-du-13-juillet-1988-maej8830044d)
 - [Décret n°88-818 du 13 juillet 1988 (MAEJ8830045D)](decret-n88-818-du-13-juillet-1988-maej8830045d)
-- [Décret n°88-981 du 13 octobre 1988 (SPSH8801530D)](decret-n88-981-du-13-octobre-1988-spsh8801530d)
 - [Décret n°88-1120 du 14 décembre 1988 (MAEJ8830079D)](decret-n88-1120-du-14-decembre-1988-maej8830079d)
 - [Décret n°88-1126 du 14 décembre 1988 (MAEJ8830077D)](decret-n88-1126-du-14-decembre-1988-maej8830077d)
 - [Décret n°88-1127 du 14 décembre 1988 (MAEJ8830076D)](decret-n88-1127-du-14-decembre-1988-maej8830076d)
