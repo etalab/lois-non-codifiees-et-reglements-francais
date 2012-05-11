@@ -1,3 +1,0 @@
-# Article 7
-
-Les titulaires d'une autorisation de vol pour des aéronefs répondant aux caractéristiques définies au présent arrêté et délivrée dans les conditions conformes à l'arrêté du 25 août 1986 relatif aux conditions d'emploi des aéronefs civils qui ne transportent aucune personne à bord sont réputés détenir une autorisation de vol conforme aux dispositions du présent arrêté jusqu'au renouvellement de leur autorisation de vol.A la date de ce renouvellement, ils se voient délivrer une autorisation de vol conforme au présent arrêté et sont tenus de fournir l'attestation visée à l'article 5.
