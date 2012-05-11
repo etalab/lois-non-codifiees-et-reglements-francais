@@ -25,3 +25,5 @@ II. ― Le chef d'état-major des armées dispose également d'une division affa
 8° Des experts de haut niveau et des conseillers dont la désignation est liée à des situations particulières.
 
 III. ― Il dispose, en outre, d'un conseiller diplomatique et d'aumôniers en chef.
+
+IV. - Par ailleurs, il exerce, au nom du ministre de la défense, la tutelle de l'économat des armées.

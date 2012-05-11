@@ -33,3 +33,5 @@ Arrêté du 2011-04-19 : voir JO du 3 mai 2011.
 Arrêté du 2011-07-03 : voir JO 30 juillet 2011.
 
 Arrêté du 2011-08-08 : voir JO du 1er septembre 2011.
+
+Arrêté du 30 avril 2012 : voir JO du 10 mai 2012.

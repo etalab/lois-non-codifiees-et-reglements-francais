@@ -1903,7 +1903,6 @@
 - [Arrêté du 21 juin 2011 (EFIP1114597A)](arrete-du-21-juin-2011-efip1114597a)
 - [Arrêté du 21 juin 2011 (EFIP1115702A)](arrete-du-21-juin-2011-efip1115702a)
 - [Arrêté du 21 juin 2011 (ETSS1116828A)](arrete-du-21-juin-2011-etss1116828a)
-- [Arrêté du 21 juin 2011 (JUSA1115388A)](arrete-du-21-juin-2011-jusa1115388a)
 - [Arrêté du 21 juin 2011 (JUSB1116609A)](arrete-du-21-juin-2011-jusb1116609a)
 - [Arrêté du 21 juin 2011 (JUSC1116497A)](arrete-du-21-juin-2011-jusc1116497a)
 - [Arrêté du 21 juin 2011 (JUSC1116501A)](arrete-du-21-juin-2011-jusc1116501a)
