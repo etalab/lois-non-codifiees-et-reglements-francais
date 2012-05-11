@@ -267,7 +267,6 @@
 - [Arrêté du 15 février 2005 (DEVO0540088A)](arrete-du-15-fevrier-2005-devo0540088a)
 - [Arrêté du 15 février 2005 (INTA0500128A)](arrete-du-15-fevrier-2005-inta0500128a)
 - [Arrêté du 15 février 2005 (PRMG0470860A)](arrete-du-15-fevrier-2005-prmg0470860a)
-- [Arrêté du 15 février 2005 (SOCF0510479A)](arrete-du-15-fevrier-2005-socf0510479a)
 - [Arrêté du 15 février 2005 (SOCF0510480A)](arrete-du-15-fevrier-2005-socf0510480a)
 - [Arrêté du 15 juillet 2005 (DEFD0501018A)](arrete-du-15-juillet-2005-defd0501018a)
 - [Arrêté du 15 juillet 2005 (SANP0522730A)](arrete-du-15-juillet-2005-sanp0522730a)

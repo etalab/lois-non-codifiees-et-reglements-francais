@@ -715,7 +715,6 @@
 - [Arrêté du 22 mai 1992 (TOUR9204541A)](arrete-du-22-mai-1992-tour9204541a)
 - [Arrêté du 23 avril 1992 (BUDR9205017A)](arrete-du-23-avril-1992-budr9205017a)
 - [Arrêté du 23 avril 1992 (MJSK9270069A)](arrete-du-23-avril-1992-mjsk9270069a)
-- [Arrêté du 23 décembre 1991 (INDA9101050A)](arrete-du-23-decembre-1991-inda9101050a)
 - [Arrêté du 23 décembre 1991 (SPSS9102807A)](arrete-du-23-decembre-1991-spss9102807a)
 - [Arrêté du 23 décembre 1992 (ACVP9220045A)](arrete-du-23-decembre-1992-acvp9220045a)
 - [Arrêté du 23 décembre 1992 (AGRE9202530A)](arrete-du-23-decembre-1992-agre9202530a)

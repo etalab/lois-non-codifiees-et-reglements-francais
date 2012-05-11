@@ -3,6 +3,4 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Avancement.](chapitre-ii)
 - [CHAPITRE III : Détachement et intégration directe.](chapitre-iii)
-- [CHAPITRE IV : Avancement.](chapitre-iv)
-- [CHAPITRE V : Détachement.](chapitre-v)
 - [CHAPITRE VI : Dispositions transitoires.](chapitre-vi)
