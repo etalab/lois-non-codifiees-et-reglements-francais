@@ -32,9 +32,7 @@ L'ensemble de ces éléments est présenté dans un document de synthèse tenu �
 
 Toute modification notable du plan d'épandage doit être portée avant sa réalisation à la connaissance du préfet.
 
-3. Dans les zones vulnérables, délimitées en application du décret du 27 août 1993, la quantité d'azote épandue ne doit pas dépasser 170 kg par hectare épandable et par an en moyenne sur l'exploitation pour l'azote contenu dans les effluents de l'élevage et les déjections restituées directement aux sols par les animaux.
-
-En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
+3. En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
 
 S'il apparaît nécessaire de renforcer la protection des eaux, le préfet peut fixer les quantités épandables d'azote et de phosphore à ne pas dépasser en fonction de l'état initial du site, du bilan global de fertilisation figurant dans l'étude d'impact et des risques d'érosion des terrains, de ruissellement vers les eaux superficielles ou de lessivage.
 

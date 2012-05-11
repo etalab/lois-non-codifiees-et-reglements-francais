@@ -357,7 +357,6 @@
 - [Arrêté du 31 décembre 1998 (ECOT9820095A)](arrete-du-31-decembre-1998-ecot9820095a)
 - [Arrêté du 31 juillet 2006 (SANA0623089A)](arrete-du-31-juillet-2006-sana0623089a)
 - [Arrêté du 31 juillet 2006 (SANH0623118A)](arrete-du-31-juillet-2006-sanh0623118a)
-- [Arrêté du 31 mars 2006 (INTC0600217A)](arrete-du-31-mars-2006-intc0600217a)
 - [Arrêté du 31 octobre 2006 (DEVP0630181A)](arrete-du-31-octobre-2006-devp0630181a)
 - [Arrêté du 31 octobre 2006 (EQUA0601884A)](arrete-du-31-octobre-2006-equa0601884a)
 - [Arrêté du 31 octobre 2006 (EQUA0601885A)](arrete-du-31-octobre-2006-equa0601885a)
