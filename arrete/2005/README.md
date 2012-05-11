@@ -569,7 +569,6 @@
 - [Arrêté du 28 novembre 2005 (SOCF0512126A)](arrete-du-28-novembre-2005-socf0512126a)
 - [Arrêté du 28 octobre 2005 (AGRM0502428A)](arrete-du-28-octobre-2005-agrm0502428a)
 - [Arrêté du 28 octobre 2005 (ECOP0500902A)](arrete-du-28-octobre-2005-ecop0500902a)
-- [Arrêté du 28 septembre 2005 (BUDR0507076A)](arrete-du-28-septembre-2005-budr0507076a)
 - [Arrêté du 28 septembre 2005 (DEFD0501136A)](arrete-du-28-septembre-2005-defd0501136a)
 - [Arrêté du 28 septembre 2005 (DEFD0501137A)](arrete-du-28-septembre-2005-defd0501137a)
 - [Arrêté du 28 septembre 2005 (DEFK0501399A)](arrete-du-28-septembre-2005-defk0501399a)
