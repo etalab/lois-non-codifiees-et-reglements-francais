@@ -4,11 +4,9 @@ Les dispositions du présent décret et celles du décret n° 94-1016 du 18 nove
 
 - corps interministériel des infirmières et des infirmiers de l'Etat ;
 
-- corps des infirmières et des infirmiers du ministère chargé de la défense ;
-
 - corps des infirmières et des infirmiers du ministère chargé de l'éducation nationale.
 
-Ces corps sont classés dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée.
+Ces corps sont classés dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée. Ils sont mis en voie d'extinction à compter de la date d'entrée en vigueur du décret n° 2012-762 du 9 mai 2012.
 
 Les membres de ces corps peuvent être appelés à exercer leurs fonctions dans les administrations centrales, les services déconcentrés, les établissements publics administratifs relevant de ces administrations ou les établissements publics d'enseignement.
 

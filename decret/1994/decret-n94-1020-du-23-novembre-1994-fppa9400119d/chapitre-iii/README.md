@@ -1,4 +1,4 @@
-# CHAPITRE III : Dispositions relatives au classement.
+# CHAPITRE III : Détachement et intégration directe.
 
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
+- [Article 20](article-20.md)
+- [Article 21](article-21.md)
