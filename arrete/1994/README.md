@@ -241,7 +241,6 @@
 - [Arrêté du 8 janvier 1994 (TEFE9301268A)](arrete-du-8-janvier-1994-tefe9301268a)
 - [Arrêté du 8 janvier 1994 (TEFE9301271A)](arrete-du-8-janvier-1994-tefe9301271a)
 - [Arrêté du 8 juillet 1994 (AGRG9400960A)](arrete-du-8-juillet-1994-agrg9400960a)
-- [Arrêté du 8 juillet 1994 (LOGC9400043A)](arrete-du-8-juillet-1994-logc9400043a)
 - [Arrêté du 8 juillet 1994 (MCCH9400424A)](arrete-du-8-juillet-1994-mcch9400424a)
 - [Arrêté du 8 juin 1994 (AGRG9401098A)](arrete-du-8-juin-1994-agrg9401098a)
 - [Arrêté du 8 juin 1994 (AGRG9401100A)](arrete-du-8-juin-1994-agrg9401100a)

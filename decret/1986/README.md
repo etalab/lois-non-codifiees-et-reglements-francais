@@ -242,7 +242,6 @@
 - [Décret n°86-247 du 20 février 1986](decret-n86-247-du-20-fevrier-1986)
 - [Décret n°86-252 du 20 février 1986](decret-n86-252-du-20-fevrier-1986)
 - [Décret du 21 août 1986](decret-du-21-aout-1986)
-- [Décret n°86-108 du 21 janvier 1986](decret-n86-108-du-21-janvier-1986)
 - [Décret n°86-241 du 21 février 1986](decret-n86-241-du-21-fevrier-1986)
 - [Décret n°86-90 du 21 janvier 1986](decret-n86-90-du-21-janvier-1986)
 - [Décret n°86-985 du 21 août 1986](decret-n86-985-du-21-aout-1986)
