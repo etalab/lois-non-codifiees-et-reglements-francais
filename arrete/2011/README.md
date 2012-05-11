@@ -3123,7 +3123,6 @@
 - [Arrêté du 1er décembre 2011 (AGRE1132025A)](arrete-du-1er-decembre-2011-agre1132025a)
 - [Arrêté du 1er décembre 2011 (DEFM1132293A)](arrete-du-1er-decembre-2011-defm1132293a)
 - [Arrêté du 1er décembre 2011 (ETSP1132009A)](arrete-du-1er-decembre-2011-etsp1132009a)
-- [Arrêté du 1er décembre 2011 (INDR1134789A)](arrete-du-1er-decembre-2011-indr1134789a)
 - [Arrêté du 1er décembre 2011 (JUSB1129600A)](arrete-du-1er-decembre-2011-jusb1129600a)
 - [Arrêté du 1er décembre 2011 (MENH1132465A)](arrete-du-1er-decembre-2011-menh1132465a)
 - [Arrêté du 1er février 2011 (AGRT1103376A)](arrete-du-1er-fevrier-2011-agrt1103376a)

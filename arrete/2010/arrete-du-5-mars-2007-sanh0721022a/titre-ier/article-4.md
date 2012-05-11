@@ -78,6 +78,4 @@ Réanimation médicale ;
 
 Rhumatologie ;
 
-Santé publique et médecine sociale ;
-
-Stomatologie.
+Santé publique et médecine sociale.

@@ -1,9 +1,7 @@
 # Article 29
 
-Pour être déclarés admis, les candidats à l'autorisation ministérielle d'exercice visés à l'article 26 doivent obtenir une note moyenne d'au moins 10 sur 20 pour l'ensemble des épreuves.
+Les candidats, pour les professions de médecin, chirurgien-dentiste et pharmacien, ayant obtenu une note inférieure ou égale à 6 sur 20 à l'épreuve écrite ne peuvent être déclarés admis.
 
-Les candidats ayant obtenu une note inférieure ou égale à 6 sur 20 à l'une des épreuves ne peuvent être déclarés admis.
+Les candidats, pour la profession de sage-femme, ayant obtenu une note inférieure ou égale à 6 sur 20 à l'une des épreuves ne peuvent être déclarés admis.
 
-Le jury établit une liste alphabétique des candidats reçus.
-
-Cette liste, arrêtée par profession, discipline, spécialité et par ordre alphabétique, est publiée au Journal officiel de la République française.
+La liste alphabétique des candidats reçus est arrêtée par profession et, le cas échéant, par spécialité. Elle est publiée par le directeur du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière au Journal officiel de la République française.
