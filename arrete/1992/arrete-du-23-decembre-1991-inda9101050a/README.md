@@ -7,5 +7,4 @@
 - [TITRE IV : CONDITIONS D'ELIGIBILITE](titre-iv)
 - [TITRE V : DEROULEMENT ET REGULARITE DES SCRUTINS](titre-v)
 - [Article 24](article-24.md)
-- [Article 25](article-25.md)
 - [Article 26](article-26.md)
