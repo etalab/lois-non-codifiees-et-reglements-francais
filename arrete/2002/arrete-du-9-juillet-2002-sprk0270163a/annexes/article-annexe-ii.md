@@ -248,6 +248,26 @@ OI 7A.2.3. EC d'informer sur le suivi traumatologique au niveau cérébral et op
 
 OI 7A.2.4. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le cadre de la loi sur le sport.
 
+UC 7B : Etre capable de mobiliser les connaissances nécessaires à la conduite de la mention " savate boxe française "
+
+OI 7B. 1 EC de mobiliser les connaissances générales nécessaires dans la mention " savate boxe française " :
+
+OI 7B. 1.1. EC de rappeler les connaissances de base dans le domaine de la pédagogie appliquée à la mention " savate boxe française ",
+
+OI 7B. 1.2. EC de rappeler les connaissances scientifiques de base dans les domaines de la biomécanique, de la physiologie, de la psychologie et de l'anatomie pour la pratique de la mention " savate boxe française ",
+
+OI 7B. 1.3. EC de mobiliser les connaissances de base en sciences humaines nécessaires à la conduite de la mention " savate boxe française ".
+
+OI 7B. 2 EC de mobiliser les connaissances réglementaires liées à la sécurité de la mention " savate boxe française " :
+
+OI 7B. 2.1. EC de rappeler les obligations en matière d'assurances,
+
+OI 7B. 2.2. EC de prévenir les comportements à risques pour la santé du pratiquant et des tiers,
+
+OI 7B. 2.3. EC d'informer sur le suivi traumatologique au niveau cérébral et ophtalmologique,
+
+OI 7B. 2.4. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le cadre de la loi sur le sport
+
 UC 8 : Etre capable de conduire une action éducative en utilisant le support technique de la mention
 
 OI 8.1 EC d'initier aux activités pugilistiques :
@@ -340,6 +360,50 @@ OI 8A.4.2. EC d'utiliser des outils d'évaluation,
 
 OI 8A.4.3. EC de réorienter son action.
 
+UC 8B : Etre capable de conduire une action éducative en utilisant le support technique de la mention " savate boxe française ".
+
+OI 8B. 1 EC d'initier à la mention " savate boxe française " :
+
+OI 8B. 1.1. EC de préparer aux passages de grades,
+
+OI 8B. 1.2. EC de connaître la didactique de base de la savate boxe française,
+
+OI 8B. 1.3. EC d'initier aux techniques fondamentales de la savate boxe française,
+
+OI 8B. 1.4. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser avec les situations d'opposition,
+
+OI 8B. 1.5. EC d'utiliser ses connaissances des différents publics pour mener à bien son animation.
+
+OI 8B. 2 EC d'éduquer aux règles de la mention " savate boxe française " :
+
+OI 8B. 2.1. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser aux règles d'arbitrage et de jugement de la savate boxe française,
+
+OI 8B. 2.2. EC d'apprendre aux pratiquants les règles de la savate boxe française,
+
+OI 8B. 2.3. EC d'expliquer les règles, leurs fondements et de les faire respecter.
+
+OI 8B. 3 EC d'initier ou d'entraîner (jusqu'à un premier niveau de compétition) dans la mention " savate boxe française " :
+
+OI 8B. 3.1. EC d'entraîner pour l'assaut et le combat,
+
+OI 8B. 3.2. EC de programmer des séances de perfectionnement collectif jusqu'au premier niveau de compétition,
+
+OI 8B. 3.3. EC d'observer les différents comportements du pratiquant en action pour proposer des réponses technico-tactiques,
+
+OI 8B. 3.4. EC de donner des leçons de perfectionnement individuel,
+
+OI 8B. 3.5. EC de porter une attention particulière aux soins et à l'hygiène du pratiquant,
+
+OI 8B. 3.6. EC de concevoir un programme individualisé pour la préparation aux compétitions pédagogiques individualisées.
+
+OI 8B. 4 EC d'évaluer son action et d'expliciter ses choix :
+
+OI 8B. 4.1. EC d'évaluer la progression des pratiquants en fonction du projet,
+
+OI 8B. 4.2. EC d'utiliser des outils d'évaluation,
+
+OI 8B. 4.3. EC de réorienter son action ;
+
 UC 9 : Etre capable de maîtriser les outils techniques de la mention
 
 OI 9.1 EC de présenter les exigences fixées :
@@ -399,5 +463,35 @@ OI 9A.3.1. EC d'observer une situation d'opposition,
 OI 9A.3.2. EC de proposer une grille d'évaluation,
 
 OI 9A.3.3. EC de proposer des solutions tactiques.
+
+UC 9B : Etre capable de maîtriser les outils techniques de la mention " savate boxe française ".
+
+OI 9B. 1 EC de présenter les exigences fixées :
+
+OI 9B. 1.1. EC de réaliser un assaut conformément au règlement des compétitions en utilisant le support technique de la mention " savate boxe française ",
+
+OI 9B. 1.2. EC de démontrer sa maîtrise technico-tactique en défense et attaque en utilisant le support technique de la mention " savate boxe française ".
+
+OI 9B. 2 EC de maîtriser les gestes ou conduites professionnelles liées à l'exercice du métier :
+
+OI 9B. 2.1. EC d'ajuster le port des protections,
+
+OI 9B. 2.2. EC de faire un bandage,
+
+OI 9B. 2.3. EC de neutraliser une hémorragie bénigne,
+
+OI 9B. 2.4. EC de réduire un petit hématome,
+
+OI 9B. 2.5. EC de réagir de manière adaptée en cas de hors combat ou de blessure,
+
+OI 9B. 2.6. EC d'évaluer les risques dans l'animation.
+
+OI 9B. 3 EC d'expliciter les techniques utilisées dans la mention " savate boxe française " :
+
+OI 9B. 3.1. EC d'observer une situation d'opposition,
+
+OI 9B. 3.2. EC de proposer une grille d'évaluation,
+
+OI 9B. 3.3. EC de proposer des solutions technico-tactiques.
 
 UC 10 : Adaptation à l'emploi
