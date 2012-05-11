@@ -1096,7 +1096,6 @@
 - [Arrêté du 28 novembre 2008 (IOCD0818574A)](arrete-du-28-novembre-2008-iocd0818574a)
 - [Arrêté du 28 novembre 2008 (JUSF0826462A)](arrete-du-28-novembre-2008-jusf0826462a)
 - [Arrêté du 28 novembre 2008 (JUSF0826464A)](arrete-du-28-novembre-2008-jusf0826464a)
-- [Arrêté du 28 novembre 2008 (MCCT0815665A)](arrete-du-28-novembre-2008-mcct0815665a)
 - [Arrêté du 28 novembre 2008 (MTSA0826072A)](arrete-du-28-novembre-2008-mtsa0826072a)
 - [Arrêté du 28 octobre 2008 (AGRG0825861A)](arrete-du-28-octobre-2008-agrg0825861a)
 - [Arrêté du 28 octobre 2008 (AGRP0823288A)](arrete-du-28-octobre-2008-agrp0823288a)

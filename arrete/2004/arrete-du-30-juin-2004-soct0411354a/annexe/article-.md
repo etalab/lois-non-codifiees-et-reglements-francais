@@ -75,6 +75,7 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="77">
 <br/>
+<br/>
 </td>
 <td valign="top" width="77">
 <p align="center">620-11-1</p>
@@ -250,6 +251,29 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Acide sulfurique (fraction thoracique) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">231-639-5 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">7664-93-9</p>
+</td>
+<td align="left" valign="top">
+<p align="center">0,05</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">-</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="137">
 <p>Acrylate de n-butyle</p>
 </td>
@@ -306,6 +330,7 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 <p>Amylacétate, tert</p>
 </td>
 <td valign="top" width="77">
+<br/>
 <br/>
 </td>
 <td valign="top" width="77">
@@ -697,8 +722,10 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="77">
 <br/>
+<br/>
 </td>
 <td valign="top" width="77">
+<br/>
 <br/>
 </td>
 <td valign="top" width="77">
@@ -871,6 +898,32 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="99">
 <p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">N-méthyle-2-pyrrolidone</p>
+</td>
+<td>
+<p align="center">212-828-1</p>
+</td>
+<td>
+<p align="center">872-50-4</p>
+</td>
+<td>
+<p align="center">40</p>
+</td>
+<td>
+<p align="center">10</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+<td>
+<p align="center">20</p>
+</td>
+<td>
+<p align="center">Peau (7)</p>
 </td>
 </tr>
 <tr>
@@ -1108,28 +1161,28 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Pyrèthre (après suppression<br/>des lactones sensibilisantes)</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">8003-34-7 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
 </tr>
@@ -1190,8 +1243,7 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 <p align="left">(1) Inventaire européen des substances chimiques existantes (EINECS).</p>
 <p align="left">(2) Numéro du Chemical Abstract Service (American Chemical Society).</p>
 <p align="left">(3) Mesurée ou calculée par rapport à une période de référence de 8 heures, moyenne pondérée dans le temps.</p>
-<p align="left">(4) Valeur limite au-dessus de laquelle il ne devrait pas y avoir d'exposition et qui se rapporte à une période de quinze minutes sauf</p>
-<p align="left">indication contraire.</p>
+<p align="left">(4) Valeur limite au-dessus de laquelle il ne devrait pas y avoir d'exposition et qui se rapporte à une période de quinze minutes sauf indication contraire.</p>
 <p align="left">(5) mg/m3 : milligrammes par mètre cube d'air à 20 oC et 101,3 kPa (760 mm de mercure).</p>
 <p align="left">(6) ppm : partie par million en volume dans l'air (ml/m3).</p>
 <p align="left">(7) La mention "peau" accompagnant la limite d'exposition professionnelle indique la possibilité d'une pénétration cutanée importante.</p>
