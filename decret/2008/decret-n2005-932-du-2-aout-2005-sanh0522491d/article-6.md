@@ -1,5 +1,5 @@
 # Article 6
 
-Les personnels de direction directeurs chefs d'établissement perçoivent une indemnité forfaitaire mensuelle lorsqu'ils assurent une ou plusieurs directions communes instituées à l'article 1er du présent décret, conformément aux dispositions de l'article 29 du décret n° 2005-921 du 2 août 2005 susvisé.
+Les directeurs perçoivent une indemnité forfaitaire mensuelle lorsqu'ils assurent une ou plusieurs directions communes instituées à l'article 1er du présent décret, conformément aux dispositions du décret n° 2005-921 du 2 août 2005 susvisé.
 
-Les personnels de direction qui assurent la responsabilité d'un syndicat interhospitalier selon les dispositions de l'article 26 et 28 du décret n° 2005-921 du 2 août 2005 susvisé perçoivent également cette indemnité.
+En cas de vacance d'emploi ou d'absence supérieure à trente jours calendaires du directeur d'un établissement, le personnel de direction chargé de remplacer le directeur d'établissement perçoit, à partir du quatrième mois d'intérim, l'indemnité mentionnée au premier alinéa. En cas de vacance d'emploi supérieure à trois mois, une direction commune est organisée à l'initiative du directeur général de l'agence régionale de santé concernée, si l'intérimaire est directeur d'un autre établissement.
