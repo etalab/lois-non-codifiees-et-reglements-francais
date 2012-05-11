@@ -1,0 +1,7 @@
+# Article 31
+
+Dans le cas où plusieurs établissements sont gérés par une direction commune, la nomination du directeur intervient soit parmi les personnels de direction de ces établissements, par arrêté du directeur général du Centre national de gestion pris sur proposition du directeur général de l'agence régionale de santé ou du représentant de l'Etat dans le département, selon le type d'établissement concerné, qui aura préalablement recueilli les avis des présidents du conseil d'administration ou du conseil de surveillance ou du président de l'organe délibérant de la personne publique dont dépend l'établissement, sans publication préalable de la vacance de l'emploi de directeur, soit, dans le cas contraire, selon les dispositions des articles 15 à 18.
+
+Les directeurs adjoints, membres de la direction commune, sont nommés dans cette équipe par arrêté du directeur général du Centre national de gestion, sans publication préalable de vacance d'emploi, et sur proposition du directeur concerné.
+
+Dans le cas où il est institué une direction commune entre deux ou plusieurs établissements mentionnés au 1° de l'article 1er du présent décret, le directeur est nommé dans les conditions de nomination définies au premier alinéa du présent article. Les directeurs adjoints d'un établissement mentionnés aux 2° à 6° de l'article 2 de la même loi peuvent, le cas échéant, être nommés membres de la direction commune, dans les conditions définies au deuxième alinéa du présent article.
