@@ -652,7 +652,7 @@ Dans l'hypothèse où le produit ou service créé par le licencié intégrerait
 
 La part variable proportionnelle au chiffre d'affaires généré par la réutilisation des informations publiques définies à l'article 1er du présent arrêté est due pendant toute la durée de l'exploitation et au maximum cinq ans à compter du 1er janvier suivant la dernière licence délivrée.
 
-4.2. La tarification applicable au fichier de recensement des éléments d'imposition de fiscalité directe locale  REI
+4.2. La tarification applicable au fichier de recensement des éléments d'imposition de fiscalité directe locale REI
 
 Les redevances dues en cas de réutilisation des informations publiques visées à l'article 1.2 sont les suivantes :
 
@@ -665,405 +665,627 @@ Les redevances dues en cas de réutilisation des informations publiques visées 
 <table>
 <tbody>
 <tr>
-<th>EN EUROS<br/>
-</th>
-<th>PÉRIMÈTRE<br/>géographique<br/>
-</th>
-<th>N OU<br/>N ― 1 (1)<br/>
-</th>
-<th>N ― 1 (1)<br/>
-</th>
-<th>N ― n (1)<br/>
-</th>
-<th>N ET N ― 1 (1)<br/>
-</th>
-<th>N, N ― 1 ET<br/>N ― 2 (1)<br/>
-</th>
-<th>N, N ― 1, N ― 2,<br/>N ― 3 et N ― 4 (1)<br/>
-</th>
-<th>N (1) ET TOUT<br/>l'historique<br/>
-</th>
-</tr>
-<tr>
-<td align="left" rowspan="3" valign="top">
-<p align="left">Fichier REI complet</p>
+<td>
+<p align="center">EN EUROS</p>
 </td>
-<td align="center">
-<p align="left">France entière</p>
+<td>
+<p align="center">PÉRIMÈTRE<br/>géographique</p>
 </td>
-<td align="center">
-<p align="center">5 450</p>
+<td>
+<p align="center">N (1)</p>
 </td>
-<td align="center">
-<p align="center">4 090</p>
+<td>
+<p align="center">N - 1 (1)</p>
 </td>
-<td align="center">
-<p align="center">2 050</p>
+<td>
+<p align="center">N - n (1)</p>
 </td>
-<td align="center">
-<p align="center">8 180</p>
+<td>
+<p align="center">N<br/>et N - 1 (1)</p>
 </td>
-<td align="center">
-<p align="center">9 810</p>
+<td>
+<p align="center">N, N - 1<br/>et N - 2 (1)</p>
 </td>
-<td align="center">
-<p align="center">11 770</p>
+<td>
+<p align="center">N, N - 1,<br/>N - 2,<br/>N - 3<br/>et N - 4 (1)</p>
 </td>
-<td align="center">
-<p align="center">17 660</p>
+<td>
+<p align="center">N (1)<br/>et tout<br/>l'historique</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Une région métropole</p>
+<td rowspan="3">
+<p align="center">
+<br/>Fichier REI complet</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">
-<p align="center">800</p>
+<td>
+<p align="center">
+<br/>France entière</p>
 </td>
-<td align="center">
-<p align="center">600</p>
+<td>
+<p align="center">
+<br/>5 450</p>
 </td>
-<td align="center">
-<p align="center">300</p>
+<td>
+<p align="center">
+<br/>4 090</p>
 </td>
-<td align="center">
-<p align="center">1 200</p>
+<td>
+<p align="center">
+<br/>2 050</p>
 </td>
-<td align="center">
-<p align="center">1 440</p>
+<td>
+<p align="center">
+<br/>8 180</p>
 </td>
-<td align="center">
-<p align="center">1 730</p>
+<td>
+<p align="center">
+<br/>9 810</p>
 </td>
-<td align="center">
-<p align="center">2 600</p>
+<td>
+<p align="center">
+<br/>11 770</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Un département<br/>(y compris région DOM)</p>
-</td>
-<td align="center">
-<p align="center">400</p>
-</td>
-<td align="center">
-<p align="center">300</p>
-</td>
-<td align="center">
-<p align="center">150</p>
-</td>
-<td align="center">
-<p align="center">600</p>
-</td>
-<td align="center">
-<p align="center">720</p>
-</td>
-<td align="center">
-<p align="center">860</p>
-</td>
-<td align="center">
-<p align="center">1 290</p>
+<td>
+<p align="center">
+<br/>17 660</p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="top">
-<p align="left">Fichier REI simplifié</p>
+<td>
+<p align="center">
+<br/>Une région métropole</p>
 </td>
-<td align="center">
-<p align="left">France entière</p>
+<td>
+<p align="center">
+<br/>800</p>
 </td>
-<td align="center">
-<p align="center">3 950</p>
+<td>
+<p align="center">
+<br/>600</p>
 </td>
-<td align="center">
-<p align="center">3 000</p>
+<td>
+<p align="center">
+<br/>300</p>
 </td>
-<td align="center">
-<p align="center">1 500</p>
+<td>
+<p align="center">
+<br/>1 200</p>
 </td>
-<td align="center">
-<p align="center">5 930</p>
+<td>
+<p align="center">
+<br/>1 440</p>
 </td>
-<td align="center">
-<p align="center">7 110</p>
+<td>
+<p align="center">
+<br/>1 730</p>
 </td>
-<td align="center">
-<p align="center">8 500</p>
-</td>
-<td align="center">
-<p align="center">12 750</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Une région métropole</p>
-</td>
-<td align="center">
-<p align="center">600</p>
-</td>
-<td align="center">
-<p align="center">450</p>
-</td>
-<td align="center">
-<p align="center">225</p>
-</td>
-<td align="center">
-<p align="center">900</p>
-</td>
-<td align="center">
-<p align="center">1 100</p>
-</td>
-<td align="center">
-<p align="center">1 250</p>
-</td>
-<td align="center">
-<p align="center">1 880</p>
+<td>
+<p align="center">
+<br/>2 600</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Un département<br/>(y compris région DOM)</p>
+<td>
+<p align="center">
+<br/>Un département<br/>(y compris région DOM)</p>
 </td>
-<td align="center">
-<p align="center">300</p>
+<td>
+<p align="center">
+<br/>400</p>
 </td>
-<td align="center">
-<p align="center">250</p>
+<td>
+<p align="center">
+<br/>300</p>
 </td>
-<td align="center">
-<p align="center">125</p>
+<td>
+<p align="center">
+<br/>150</p>
 </td>
-<td align="center">
-<p align="center">450</p>
+<td>
+<p align="center">
+<br/>600</p>
 </td>
-<td align="center">
-<p align="center">550</p>
+<td>
+<p align="center">
+<br/>720</p>
 </td>
-<td align="center">
-<p align="center">625</p>
+<td>
+<p align="center">
+<br/>860</p>
 </td>
-<td align="center">
-<p align="center">940</p>
+<td>
+<p align="center">
+<br/>1 290</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p align="center">
+<br/>Fichier REI simplifié</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>France entière</p>
+</td>
+<td>
+<p align="center">
+<br/>3 950</p>
+</td>
+<td>
+<p align="center">
+<br/>3 000</p>
+</td>
+<td>
+<p align="center">
+<br/>1 500</p>
+</td>
+<td>
+<p align="center">
+<br/>5 930</p>
+</td>
+<td>
+<p align="center">
+<br/>7 110</p>
+</td>
+<td>
+<p align="center">
+<br/>8 500</p>
+</td>
+<td>
+<p align="center">
+<br/>12 750</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Une région métropole</p>
+</td>
+<td>
+<p align="center">
+<br/>600</p>
+</td>
+<td>
+<p align="center">
+<br/>450</p>
+</td>
+<td>
+<p align="center">
+<br/>225</p>
+</td>
+<td>
+<p align="center">
+<br/>900</p>
+</td>
+<td>
+<p align="center">
+<br/>1 100</p>
+</td>
+<td>
+<p align="center">
+<br/>1 250</p>
+</td>
+<td>
+<p align="center">
+<br/>1 880</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Un département<br/>(y compris région DOM)</p>
+</td>
+<td>
+<p align="center">
+<br/>300</p>
+</td>
+<td>
+<p align="center">
+<br/>250</p>
+</td>
+<td>
+<p align="center">
+<br/>125</p>
+</td>
+<td>
+<p align="center">
+<br/>450</p>
+</td>
+<td>
+<p align="center">
+<br/>550</p>
+</td>
+<td>
+<p align="center">
+<br/>625</p>
+</td>
+<td>
+<p align="center">
+<br/>940</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Fichier REI Etats 1389Diff</p>
+</td>
+<td>
+<p align="center">
+<br/>Par état</p>
+</td>
+<td>
+<p align="center">
+<br/>0,075</p>
+</td>
+<td>
+<p align="center">
+<br/>0,055</p>
+</td>
+<td>
+<p align="center">
+<br/>0,038</p>
+</td>
+<td>
+<p align="center">
+<br/>-</p>
+</td>
+<td>
+<p align="center">
+<br/>-</p>
+</td>
+<td>
+<p align="center">
+<br/>-</p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
 </td>
 </tr>
 <tr>
 <td colspan="9">
-<p align="left">(1) N désignant la dernière année comptable achevée et disponible et n étant strictement supérieur à 1.</p>
+<p>(1) N désignant la dernière année comptable achevée et disponible et n étant strictement supérieur à 1.</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-4.2.3. Réutilisation commerciale
-
-a) Réutilisation commerciale finale
+<div align="left">
+<br/>4.2.3. Réutilisation commerciale</div>
+<div align="left">
+<br/>a) Réutilisation commerciale finale </div>
 
 <table>
 <tbody>
 <tr>
-<th>EN EUROS<br/>
-</th>
-<th>PÉRIMÈTRE<br/>géographique<br/>
-</th>
-<th>N OU<br/>N ― 1 (1)<br/>
-</th>
-<th>N ― 1 (1)<br/>
-</th>
-<th>N ― n (1)<br/>
-</th>
-<th>N ET N ― 1 (1)<br/>
-</th>
-<th>N, N ― 1 ET<br/>N ― 2 (1)<br/>
-</th>
-<th>N, N ― 1, N ― 2,<br/>N ― 3 et N ― 4 (1)<br/>
-</th>
-<th>N (1) ET TOUT<br/>l'historique<br/>
-</th>
-</tr>
-<tr>
-<td align="left" rowspan="3" valign="top">
-<p align="left">Fichier REI complet</p>
+<td>
+<p align="center">EN EUROS </p>
 </td>
-<td align="center">
-<p align="left">France entière</p>
+<td>
+<p align="center">PÉRIMÈTRE <br/>géographique </p>
 </td>
-<td align="center">
-<p align="center">10 000</p>
+<td>
+<p align="center">N (1) </p>
 </td>
-<td align="center">
-<p align="center">7 500</p>
+<td>
+<p align="center">N - 1 (1) </p>
 </td>
-<td align="center">
-<p align="center">3 750</p>
+<td>
+<p align="center">N - n (1) </p>
 </td>
-<td align="center">
-<p align="center">15 000</p>
+<td>
+<p align="center">N <br/>et N - 1 (1) </p>
 </td>
-<td align="center">
-<p align="center">18 000</p>
+<td>
+<p align="center">N, N - 1 <br/>et N - 2 (1) </p>
 </td>
-<td align="center">
-<p align="center">21 600</p>
+<td>
+<p align="center">N, N - 1, <br/>N - 2, <br/>N - 3 <br/>et N - 4 (1) </p>
 </td>
-<td align="center">
-<p align="center">32 400</p>
+<td>
+<p align="center">N (1) <br/>et tout <br/>l'historique </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Une région métropole</p>
+<td rowspan="3">
+<p align="center">
+<br/>Fichier REI complet </p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">
-<p align="center">1 200</p>
+<td>
+<p align="center">
+<br/>France entière </p>
 </td>
-<td align="center">
-<p align="center">900</p>
+<td>
+<p align="center">
+<br/>10   000 </p>
 </td>
-<td align="center">
-<p align="center">450</p>
+<td>
+<p align="center">
+<br/>7   500 </p>
 </td>
-<td align="center">
-<p align="center">1 800</p>
+<td>
+<p align="center">
+<br/>3   750 </p>
 </td>
-<td align="center">
-<p align="center">2 160</p>
+<td>
+<p align="center">
+<br/>15   000 </p>
 </td>
-<td align="center">
-<p align="center">2 600</p>
+<td>
+<p align="center">
+<br/>18   000 </p>
 </td>
-<td align="center">
-<p align="center">3 900</p>
+<td>
+<p align="center">
+<br/>21   600 </p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Un département<br/>(y compris région DOM)</p>
-</td>
-<td align="center">
-<p align="center">600</p>
-</td>
-<td align="center">
-<p align="center">450</p>
-</td>
-<td align="center">
-<p align="center">225</p>
-</td>
-<td align="center">
-<p align="center">900</p>
-</td>
-<td align="center">
-<p align="center">1 080</p>
-</td>
-<td align="center">
-<p align="center">1 300</p>
-</td>
-<td align="center">
-<p align="center">1 950</p>
+<td>
+<p align="center">
+<br/>32   400 </p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="top">
-<p align="left">Fichier REI simplifié</p>
+<td>
+<p align="center">
+<br/>Une région métropole </p>
 </td>
-<td align="center">
-<p align="left">France entière</p>
+<td>
+<p align="center">
+<br/>1   200 </p>
 </td>
-<td align="center">
-<p align="center">7 300</p>
+<td>
+<p align="center">
+<br/>900 </p>
 </td>
-<td align="center">
-<p align="center">5 500</p>
+<td>
+<p align="center">
+<br/>450 </p>
 </td>
-<td align="center">
-<p align="center">2 700</p>
+<td>
+<p align="center">
+<br/>1   800 </p>
 </td>
-<td align="center">
-<p align="center">10 900</p>
+<td>
+<p align="center">
+<br/>2   160 </p>
 </td>
-<td align="center">
-<p align="center">13 100</p>
+<td>
+<p align="center">
+<br/>2   600 </p>
 </td>
-<td align="center">
-<p align="center">15 700</p>
-</td>
-<td align="center">
-<p align="center">23 500</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Une région métropole</p>
-</td>
-<td align="center">
-<p align="center">1 100</p>
-</td>
-<td align="center">
-<p align="center">600</p>
-</td>
-<td align="center">
-<p align="center">350</p>
-</td>
-<td align="center">
-<p align="center">1 300</p>
-</td>
-<td align="center">
-<p align="center">1 600</p>
-</td>
-<td align="center">
-<p align="center">1 900</p>
-</td>
-<td align="center">
-<p align="center">2 850</p>
+<td>
+<p align="center">
+<br/>3   900 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Un département<br/>(y compris région DOM)</p>
+<td>
+<p align="center">
+<br/>Un département <br/>
+<br/>(y compris région DOM) </p>
 </td>
-<td align="center">
-<p align="center">550</p>
+<td>
+<p align="center">
+<br/>600 </p>
 </td>
-<td align="center">
-<p align="center">300</p>
+<td>
+<p align="center">
+<br/>450 </p>
 </td>
-<td align="center">
-<p align="center">175</p>
+<td>
+<p align="center">
+<br/>225 </p>
 </td>
-<td align="center">
-<p align="center">650</p>
+<td>
+<p align="center">
+<br/>900 </p>
 </td>
-<td align="center">
-<p align="center">800</p>
+<td>
+<p align="center">
+<br/>1   080 </p>
 </td>
-<td align="center">
-<p align="center">950</p>
+<td>
+<p align="center">
+<br/>1   300 </p>
 </td>
-<td align="center">
-<p align="center">1 430</p>
+<td>
+<p align="center">
+<br/>1   950 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p align="center">
+<br/>Fichier REI simplifié </p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>France entière </p>
+</td>
+<td>
+<p align="center">
+<br/>7   300 </p>
+</td>
+<td>
+<p align="center">
+<br/>5   500 </p>
+</td>
+<td>
+<p align="center">
+<br/>2   700 </p>
+</td>
+<td>
+<p align="center">
+<br/>10   900 </p>
+</td>
+<td>
+<p align="center">
+<br/>13   100 </p>
+</td>
+<td>
+<p align="center">
+<br/>15   700 </p>
+</td>
+<td>
+<p align="center">
+<br/>23   500 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Une région métropole </p>
+</td>
+<td>
+<p align="center">
+<br/>1   100 </p>
+</td>
+<td>
+<p align="center">
+<br/>600 </p>
+</td>
+<td>
+<p align="center">
+<br/>350 </p>
+</td>
+<td>
+<p align="center">
+<br/>1   300 </p>
+</td>
+<td>
+<p align="center">
+<br/>1   600 </p>
+</td>
+<td>
+<p align="center">
+<br/>1   900 </p>
+</td>
+<td>
+<p align="center">
+<br/>2   850 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Un département <br/>
+<br/>(y compris région DOM) </p>
+</td>
+<td>
+<p align="center">
+<br/>550 </p>
+</td>
+<td>
+<p align="center">
+<br/>300 </p>
+</td>
+<td>
+<p align="center">
+<br/>175 </p>
+</td>
+<td>
+<p align="center">
+<br/>650 </p>
+</td>
+<td>
+<p align="center">
+<br/>800 </p>
+</td>
+<td>
+<p align="center">
+<br/>950 </p>
+</td>
+<td>
+<p align="center">
+<br/>1   430 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Fichier REI Etats 1389Diff </p>
+</td>
+<td>
+<p align="center">
+<br/>Par état </p>
+</td>
+<td>
+<p align="center">
+<br/>0,12 </p>
+</td>
+<td>
+<p align="center">
+<br/>0,090 </p>
+</td>
+<td>
+<p align="center">
+<br/>0,06 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
 </td>
 </tr>
 <tr>
 <td colspan="9">
-<p align="left">(1) N désignant la dernière année comptable achevée et disponible et n étant strictement supérieur à 1.)</p>
+<p>
+<br/>(1) N désignant la dernière année comptable achevée et disponible et n étant strictement supérieur à 1.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-b) Réutilisation commerciale intermédiaire
-
-La redevance est composée de deux éléments :
-
-― une part fixe correspondant à la redevance prévue pour une réutilisation commerciale finale ;
-
-― une part variable de 20 % du chiffre d'affaires hors taxes généré par la réutilisation des informations publiques telles que définies à l'article 1.2 du présent arrêté, payable annuellement.
-
-Dans l'hypothèse où le produit ou service créé par le licencié intégrerait des éléments informationnels ne provenant pas du fichier REI, l'assiette de la part variable sera calculée au prorata de la part des informations publiques définies à l'article 1.2 du présent arrêté dans le produit ou service du licencié, sur le fondement d'une déclaration du licencié dans les conditions prévues par la licence de réutilisation.
-
-La part variable proportionnelle au chiffre d'affaires généré par la réutilisation des informations publiques définies à l'article 1.2 du présent arrêté est due pendant toute la durée de l'exploitation et au maximum cinq ans à compter du 1er janvier suivant la dernière licence délivrée.
-
-4.3. Le recours à différents types de réutilisation au sein d'une même licence
-
-L'administration peut délivrer une seule licence pour différents types de réutilisation ; la redevance applicable sera alors la plus élevée des redevances applicables à chacune des réutilisations déclarées par le licencié.
-
-4.4. Dans tous les cas, la mise à disposition des informations publiques définies à l'article 1er du présent arrêté à des fins de réutilisation est soumise au paiement d'une redevance d'un montant minimum de 500 euros.
+<div align="left">
+<br/>b) Réutilisation commerciale intermédiaire</div>
+<div align="left">
+<br/>La redevance est composée de deux éléments :</div>
+<div align="left">
+<br/>― une part fixe correspondant à la redevance prévue pour une réutilisation commerciale finale ;</div>
+<div align="left">
+<br/>― une part variable de 20 % du chiffre d'affaires hors taxes généré par la réutilisation des informations publiques telles que définies à l'article 1.2 du présent arrêté, payable annuellement.</div>
+<div align="left">
+<br/>Dans l'hypothèse où le produit ou service créé par le licencié intégrerait des éléments informationnels ne provenant pas du fichier REI, l'assiette de la part variable sera calculée au prorata de la part des informations publiques définies à l'article 1.2 du présent arrêté dans le produit ou service du licencié, sur le fondement d'une déclaration du licencié dans les conditions prévues par la licence de réutilisation.</div>
+<div align="left">
+<br/>La part variable proportionnelle au chiffre d'affaires généré par la réutilisation des informations publiques définies à l'article 1.2 du présent arrêté est due pendant toute la durée de l'exploitation et au maximum cinq ans à compter du 1er janvier suivant la dernière licence délivrée.</div>
+<div align="left">
+<br/>4.3. Le recours à différents types de réutilisation au sein d'une même licence</div>
+<div align="left">
+<br/>L'administration peut délivrer une seule licence pour différents types de réutilisation ; la redevance applicable sera alors la plus élevée des redevances applicables à chacune des réutilisations déclarées par le licencié.</div>
+<div align="left">
+<br/>4.4. Dans tous les cas, la mise à disposition des informations publiques définies à l'article 1er du présent arrêté à des fins de réutilisation est soumise au paiement d'une redevance d'un montant minimum de 500 euros.</div>

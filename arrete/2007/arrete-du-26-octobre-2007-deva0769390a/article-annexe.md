@@ -1,22 +1,20 @@
 # Article Annexe
 
-CAPACITÉ DE L'AÉROPORT DE NICE-CÔTE D'AZUR
-
-À COMPTER DE LA SAISON D'ÉTÉ 2008
+CAPACITÉ DE L'AÉROPORT DE NICE-CÔTE D'AZUR À COMPTER DE LA SAISON AÉRONAUTIQUE D'HIVER 2012-2013
 
 1. Arrivées
 
 De 7 heures à 22 h 59 (heure locale) :
 
-- 26 arrivées par tranche de soixante minutes glissantes par pas de dix minutes ;
+28 arrivées par tranche de soixante minutes glissantes par pas de dix minutes.
 
-- 6 arrivées par tranche de dix minutes.
+6 arrivées par tranche de dix minutes.
 
 De 23 heures à 6 h 59 (heure locale) :
 
-- 12 arrivées par tranche de soixante minutes glissantes par pas de dix minutes ;
+12 arrivées par tranche de soixante minutes glissantes par pas de dix minutes.
 
-- 5 arrivées par tranche de dix minutes.
+5 arrivées par tranche de dix minutes.
 
 2. Départs
 
