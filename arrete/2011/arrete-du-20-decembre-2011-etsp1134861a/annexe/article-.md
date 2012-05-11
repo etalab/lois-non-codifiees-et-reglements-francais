@@ -341,21 +341,25 @@ faites au titre de l'article L. 5211-3-1 du code de la santé publique
 </tbody>
 </table>
 
-3. Identification des fabricants pour les déclarations
+3. Identification des fabricants pour les déclarations ou les communications qui ne sont pas faites par un fabricant
 
-ou les communications qui ne sont pas faites par un fabricant
-
-Nota. ― Les mandataires, les distributeurs, les importateurs et les exportateurs, déclarants et/ou communicants, indiqueront ci-dessous le nom et l'adresse du siège social des fabricants des dispositifs médicaux concernés. Joindre autant de feuilles que nécessaire.
+Nota. - Les mandataires, les distributeurs, les importateurs et les exportateurs, déclarants et/ ou communicants indiquent ci-dessous le nom, l'adresse et le numéro d'identification (SIRET ou équivalent) du siège social des fabricants des dispositifs médicaux concernés et de leur mandataire si le déclarant ou le communicant n'est pas le mandataire et si le fabricant a son siège social hors UE AELE. Joindre autant de feuilles que nécessaire.
 
 Fabricant 1 :
 
+Mandataire du fabricant 1 :
+
 Fabricant 2 :
+
+Mandataire du fabricant 2 :
 
 Fabricant 3 :
 
+Mandataire du fabricant 3 :
+
 Fabricant 4 :
 
-Fabricant 5 :
+Mandataire du fabricant 4 :
 
 4. Identification des établissements pour les déclarations faites au titre de l'
 
