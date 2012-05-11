@@ -1,0 +1,3 @@
+# Article 2
+
+Les essais et examens d'approbation des éthylotests sont effectués par les organismes français ou d'un autre Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou de la Turquie accrédités selon les exigences générales relatives à la compétence des laboratoires d'étalonnages et d'essais par le Comité français d'accréditation (COFRAC) ou par un organisme d'accréditation signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation pour le contrôle des produits mentionnés à l'article 1er.

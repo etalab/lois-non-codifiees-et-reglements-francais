@@ -527,6 +527,7 @@
 - [Arrêté du 14 mars 2012 (TRAT1207659A)](arrete-du-14-mars-2012-trat1207659a)
 - [Arrêté du 14 novembre 2011 (EFIP1129505A)](arrete-du-14-novembre-2011-efip1129505a)
 - [Arrêté du 14 novembre 2011 (MENV1129786A)](arrete-du-14-novembre-2011-menv1129786a)
+- [Arrêté du 14 octobre 2008 (SJSP0824523A)](arrete-du-14-octobre-2008-sjsp0824523a)
 - [Arrêté du 14 octobre 2011 (ETSP1125380A)](arrete-du-14-octobre-2011-etsp1125380a)
 - [Arrêté du 14 octobre 2011 (JUST1128451A)](arrete-du-14-octobre-2011-just1128451a)
 - [Arrêté du 14 septembre 2011 (EFII1125161A)](arrete-du-14-septembre-2011-efii1125161a)
