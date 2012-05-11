@@ -1,0 +1,3 @@
+# Article 11
+
+Les infirmiers stagiaires du corps des infirmiers des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la jeunesse, régi par le décret du 14 mars 1990 susvisé, bénéficient des dispositions prévues aux I et II de l'article 24 du décret 9 mai 2012 susvisé. Ceux qui ont refusé leur intégration dans le corps d'infirmiers de l'Etat et ceux qui n'ont pas exprimé leur choix dans la période du droit d'option poursuivent leur stage dans le corps interministériel des infirmières et des infirmiers de l'Etat régi par le décret du 23 novembre 1994 susvisé et sont classés dans ce corps conformément aux tableaux de correspondance prévu à l'article 10.

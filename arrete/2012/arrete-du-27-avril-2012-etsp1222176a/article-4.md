@@ -1,0 +1,3 @@
+# Article 4
+
+Sous réserve de modification de l'appareil, de ses conditions de fabrication ou de distribution, ou de manquement aux exigences prévues à l'article 11 de l'arrêté du 14 octobre 2008 susvisé, l'homologation des éthylotests ayant fait l'objet d'essais et d'examens d'approbation attestant de leur conformité aux exigences définies par la norme NF X 20703 ou bénéficiant d'une attestation de conformité aux normes, spécifications techniques et procédés de fabrication et de contrôle assurant un niveau de fiabilité équivalent à la norme NF X 20703 à la date d'entrée en vigueur du présent arrêté reste valable jusqu'à sa date d'expiration.

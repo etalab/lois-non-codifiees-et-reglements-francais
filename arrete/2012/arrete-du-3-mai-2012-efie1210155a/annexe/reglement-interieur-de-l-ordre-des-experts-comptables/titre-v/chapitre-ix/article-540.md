@@ -1,0 +1,3 @@
+# Article 540
+
+Conformément à l'article 69, deuxième alinéa, du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable, le stage peut être accompli auprès d'un salarié d'une association de gestion et de comptabilité autorisé à exercer la profession d'expert-comptable en application des articles 83 ter et 83 quater de l'ordonnance de 1945. Dans ce cas, l'association de gestion et de comptabilité désigne, pour assurer la comaîtrise du stage, un maître de stage expert-comptable agréé par le conseil régional de l'ordre dans les conditions prévues au premier alinéa de l'article 69 du décret sus-cité.

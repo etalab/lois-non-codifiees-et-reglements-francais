@@ -1,0 +1,3 @@
+# Article 2
+
+Les arrêtés de prise en charge dérogatoire de spécialités pharmaceutiques en vigueur à la date de publication du présent décret demeurent applicables, dans les mêmes conditions, jusqu'à leur échéance. Lorsque la date d'échéance est antérieure au 31 décembre 2013 et que l'Agence nationale de sécurité du médicament et des produits de santé a sollicité les informations mentionnées à l'article R. 5121-76-4 du code de la santé publique pour les spécialités pharmaceutiques dans les indications concernées avant le 30 avril 2013, les arrêtés de prise en charge dérogatoire concernés sont prorogés jusqu'au 31 décembre 2013.

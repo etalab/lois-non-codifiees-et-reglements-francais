@@ -1,0 +1,5 @@
+# Article 5
+
+En cas de vacance d'un siège mentionné aux 1°, 2° et 3° de l'article 2, il est procédé à la désignation d'un nouveau membre, pour la durée du mandat restant à courir, dans les conditions fixées par les dispositions des articles 2 et 3.
+
+Les membres nommés sur proposition d'une organisation syndicale cessent de faire partie du conseil supérieur si cette organisation en fait la demande au ministre chargé de la santé ou si cette organisation a subi des modifications organiques fondamentales. Dans le premier cas, la cessation des fonctions devient effective à l'expiration du délai d'un mois qui suit la réception de la demande. Il est procédé à la désignation d'un nouveau membre, pour la durée du mandat restant à courir, dans les conditions fixées par les dispositions des articles 2 et 3. Dans le second cas, un décret pris en conseil des ministres constate les cessations de fonctions qui résultent de ces modifications et il n'est pas procédé à de nouvelles désignations pour la durée du mandat restant à courir.

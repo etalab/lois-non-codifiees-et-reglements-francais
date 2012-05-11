@@ -1,0 +1,11 @@
+# Article 13
+
+I. ― A la date d'entrée en vigueur du présent décret, les fonctionnaires détachés dans le corps des infirmiers des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la jeunesse régi par le décret du 14 mars 1990 susvisé sont placés, pour la durée de leur détachement restant à courir, en position de détachement dans le corps interministériel des infirmières et des infirmiers de l'Etat régi par le décret du 23 novembre 1994 susvisé. Ils sont classés dans ce corps conformément aux dispositions du I de l'article 10.
+
+Ils conservent les réductions et majorations d'ancienneté accordées et non utilisées dans leur corps de détachement.
+
+Les services accomplis par les intéressés en position de détachement dans le corps des infirmiers des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la jeunesse régi par le décret du 14 mars 1990 précité ainsi que dans les grades de ce corps sont assimilés à des services accomplis en position de détachement dans le corps interministériel des infirmières et des infirmiers de l'Etat régi par le décret du 23 novembre 1994 susvisé ainsi que dans les grades de ce corps.
+
+II. - Le reclassement résultant des dispositions du I ne peut aboutir à ce que les fonctionnaires appartenant au corps des infirmiers régi par le décret du 30 novembre 1988 susvisé et détachés dans le corps des infirmiers des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la jeunesse soient placés dans une situation plus favorable à celle qui est la leur dans leur corps d'origine.
+
+Les infirmiers mentionnés à l'alinéa précédent qui ont bénéficié d'un avancement de grade dans le corps des infirmiers des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la jeunesse sont reclassés dans le corps interministériel des infirmières et des infirmiers de l'Etat à partir de la situation qui serait la leur, à la date d'entrée en vigueur du présent décret, dans le corps des infirmiers s'ils avaient été promus, à la même date, dans le grade d'infirmier de classe supérieure et reclassés dans ce grade en application de l'article 38 du décret du 30 novembre 1988 susvisé.

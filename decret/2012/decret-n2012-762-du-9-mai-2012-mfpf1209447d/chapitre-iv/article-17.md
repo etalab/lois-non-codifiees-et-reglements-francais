@@ -1,0 +1,3 @@
+# Article 17
+
+Peuvent être nommés au grade d'infirmier hors classe de leur corps, au choix, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire compétente, les infirmiers de classe supérieure comptant, au plus tard au 31 décembre de l'année au titre de laquelle le tableau d'avancement est établi, au moins un an d'ancienneté dans le 1er échelon de leur classe.

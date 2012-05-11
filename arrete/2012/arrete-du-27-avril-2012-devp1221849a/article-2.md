@@ -1,0 +1,3 @@
+# Article 2
+
+En application du II de l'article L. 566-5 du code de l'environnement, le préfet coordonnateur de bassin décline les critères nationaux définis à l'article 1er pour sélectionner les territoires dans lesquels il existe un risque important d'inondation en tenant compte, le cas échéant, des particularités locales, comme le caractère dangereux de l'inondation (caractérisés notamment par la rapidité du phénomène et la durée de la submersion) en termes de protection des populations et de tout autre facteur local susceptible d'aggraver les conséquences négatives potentielles associées aux inondations pour la santé humaine, l'environnement, les biens dont le patrimoine culturel et l'activité économique.

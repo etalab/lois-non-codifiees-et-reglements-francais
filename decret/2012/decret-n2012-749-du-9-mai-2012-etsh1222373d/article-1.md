@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires appartenant aux corps, d'une part, des personnels de direction des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée et, d'autre part, des directeurs des soins de la fonction publique hospitalière ou détachés dans l'un de ces corps ou sur un emploi fonctionnel, relevant des décrets du 2 août 2005 et du 9 mai 2012 susvisés, perçoivent une prime de fonctions et de résultats, dans les conditions fixées par le présent décret. Sont également concernés les fonctionnaires pour lesquels il est fait application des dispositions des articles 48 et 50-1 de la loi du 9 janvier 1986 susvisée.

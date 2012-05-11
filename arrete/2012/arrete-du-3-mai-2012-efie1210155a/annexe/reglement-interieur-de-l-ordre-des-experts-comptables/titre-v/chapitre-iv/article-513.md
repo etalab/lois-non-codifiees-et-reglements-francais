@@ -1,0 +1,3 @@
+# Article 513
+
+Conformément à l'article 67, troisième alinéa, du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable, le stage s'effectue à temps complet. La durée hebdomadaire des travaux professionnels du stage ne peut être inférieure à vingt-huit heures. La répartition de ces heures est laissée à l'appréciation du maître de stage. Ce dernier doit toutefois accorder à son stagiaire toutes facilités pour lui permettre de participer aux actions de formation visées aux articles 542 à 545 ci-après et de préparer les épreuves du diplôme d'expertise comptable.

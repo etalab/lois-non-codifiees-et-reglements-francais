@@ -1,0 +1,3 @@
+# Article 34
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade d'infirmier de classe normale du corps des infirmiers des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la jeunesse régi par le décret n° 90-230 du 14 mars 1990 relatif au statut particulier des infirmiers des services extérieurs de l'administration pénitentiaire et de la protection judiciaire de la jeunesse sont maintenus en fonctions et ont vocation à être titularisés dans le corps des infirmiers de l'Etat régi par le présent décret.

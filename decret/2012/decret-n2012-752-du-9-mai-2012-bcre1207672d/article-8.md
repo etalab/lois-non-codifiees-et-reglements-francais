@@ -1,0 +1,5 @@
+# Article 8
+
+I. ― En Guadeloupe, en Martinique, en Guyane, à La Réunion et à Mayotte, les dispositions du code du domaine de l'Etat et du code général de la propriété des personnes publiques dans leur rédaction antérieure au présent décret demeurent applicables aux concessions de logement, accordées au plus tard jusqu'au 1er septembre 2013, aux agents civils ou militaires du ministère de la défense et aux militaires des corps de soutien de la gendarmerie nationale.
+
+II. ― Dans ces mêmes collectivités, la mise à disposition d'un logement par l'Etat au moyen soit d'une convention d'occupation précaire avec astreinte mentionnée à l'article R. 2124-68 du code général de la propriété des personnes publiques, soit d'une autorisation d'occupation précaire ou d'un bail mentionnés aux articles R. 2124-79 et R. 2222-4-1 du même code, au bénéfice des agents civils ou militaires du ministère de la défense et aux militaires des corps de soutien de la gendarmerie nationale, donne lieu à compter du 1er septembre 2013 au plus tard à une retenue forfaitaire précomptée chaque mois sur le traitement ou la solde, dans les conditions fixées par décret.

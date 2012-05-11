@@ -1,0 +1,3 @@
+# Article 559
+
+Les stagiaires visés à l'article 71 a du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable susvisé peuvent accomplir la totalité de leur stage dans le territoire concerné ou dans leur pays d'origine sous réserve que ce soit dans un cabinet comptable auprès d'une personne exerçant sur place et titulaire du diplôme d'expertise comptable français ou d'un titre ou diplôme permettant l'exercice d'une profession comparable à celle d'expert-comptable en France métropolitaine. Une liste indicative de ces titres et diplômes est jointe en annexe du présent règlement.

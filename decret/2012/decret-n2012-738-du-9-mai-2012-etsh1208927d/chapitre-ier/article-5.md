@@ -1,0 +1,7 @@
+# Article 5
+
+La nomination par voie de détachement dans l'un des emplois fonctionnels régis par le présent décret est prononcée pour une durée de quatre ans. Cette durée peut être prolongée sans que la durée totale d'occupation d'un même emploi ne puisse excéder huit ans. Cette durée totale d'occupation d'un même emploi peut toutefois être portée à dix ans, sur proposition du directeur général de l'agence régionale de santé ou du représentant de l'Etat dans le département, selon le type d'établissement concerné.
+
+Lorsqu'un fonctionnaire occupant un des emplois fonctionnels régis par le présent décret se trouve, à l'issue de son détachement, dans la situation d'obtenir, dans un délai égal ou inférieur à deux ans, la liquidation de ses droits à pension au taux maximum défini par son régime de retraite, une prolongation exceptionnelle de détachement dans le même emploi peut lui être accordée, sur sa demande, pour une période maximale de deux ans. Cette même faculté est offerte à un fonctionnaire se trouvant à moins de deux ans de la limite d'âge qui lui est applicable.
+
+Les personnes nommées dans l'un des emplois fonctionnels régis par le présent décret peuvent se voir retirer l'emploi dans l'intérêt du service. Pour les emplois de directeur des établissements publics de santé figurant sur la liste prévue à l'article 1er du décret du 26 décembre 2007 susvisé, le retrait s'effectue dans les conditions prévues à l'article L. 6143-7-2 du code de la santé publique.

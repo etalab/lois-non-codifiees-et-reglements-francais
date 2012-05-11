@@ -1,0 +1,3 @@
+# Article 548
+
+Une fiche générale de synthèse dont le modèle est arrêté par le comité national du stage récapitule les conditions dans lesquelles s'est déroulé le stage. Elle est cosignée par le président du conseil régional de l'ordre, par le président de la Compagnie régionale des commissaires aux comptes lorsque le stage est réalisé selon les dispositions de l'article 77, premier alinéa, du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable et par le contrôleur du stage concerné. Elle est établie en double exemplaire, l'un est remis au stagiaire, l'autre est conservé au dossier de stage pour le comité régional du stage en vue de la délivrance de l'attestation de fin de stage.
