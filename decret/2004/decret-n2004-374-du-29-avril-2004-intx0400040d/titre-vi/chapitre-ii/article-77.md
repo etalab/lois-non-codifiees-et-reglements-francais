@@ -20,7 +20,9 @@ Ces chefs de service peuvent donner délégation pour signer les actes relatifs 
 
 f) Pour les matières relevant de leurs attributions et dans le cas prévu au dernier alinéa de l'article 18, aux chefs des services déconcentrés des administrations civiles de l'Etat dans la région et aux responsables de leurs unités et délégations territoriales ;
 
-g) En matière de police administrative, au commandant du groupement de gendarmerie interdépartemental de Paris ;
+g) En matière de police administrative, au commandant du groupement de gendarmerie interdépartemental de Paris.
+
+Le  commandant du groupement de gendarmerie interdépartemental de Paris  peut donner délégation pour signer les actes relatifs aux affaires pour  lesquelles il a lui-même reçu délégation aux militaires placés sous son  autorité. Le préfet de police peut, par arrêté, mettre fin à tout ou  partie de cette délégation. Il peut également fixer, par arrêté, la  liste des compétences qu'il souhaite exclure de la délégation que peut  consentir le commandant du groupement de gendarmerie interdépartemental  de Paris aux militaires placés sous son autorité ;
 
 h) Pour les matières relevant de ses attributions au titre du code de la santé publique, au directeur général de l'agence régionale de santé et, en cas d'absence ou d'empêchement, à des agents placés sous son autorité.
 

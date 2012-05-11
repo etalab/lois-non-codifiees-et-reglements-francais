@@ -2,7 +2,7 @@
 
 Dans le département du Val-de-Marne, les services de sécurité publique du district de L'Haÿ-les-Roses sont organisés en circonscriptions conformément au tableau ci-après :
 
-DIRECTION DÉPARTEMENTALE de sécurité publique (siège)
+direction ou au service actif de la préfecture de police désigné par le préfet de police (siège)
 
 DISTRICT
 
