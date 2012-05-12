@@ -1,80 +1,86 @@
 # Article 
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE
 
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : superviseur(se) en relations clients à distance.
+Intitulé : superviseur (se) relation client à distance.
 
 Niveau : III.
 
-Code NSF : 312 w.
+Code NSF : 312 t.
 
 Résumé du référentiel d'emploi
 
-Le (la) superviseur(se) est l'encadrant de premier niveau d'une équipe de huit à douze téléconseillers(ères) exerçant sur un plateau d'appels.
+Le (la) superviseur (se) relation client à distance coordonne le travail d'une équipe de conseillers d'un centre de relation client à distance dans le respect de la réglementation sociale, de la politique de l'entreprise et des objectifs à atteindre. Il (elle) communique en permanence, oralement et par écrit avec l'équipe, les interlocuteurs internes et externes, en utilisant différents canaux.
 
-Son rôle est de piloter et de suivre au quotidien l'activité de son équipe et d'optimiser l'outil de gestion de la relation client afin de garantir l'atteinte des objectifs qualitatifs et quantitatifs impartis, dans le respect des réglementations spécifiques. Pour coordonner les différents paramètres de production, il (elle) dispose d'un poste de travail équipé d'outils informatiques et téléphoniques de supervision. En cas de difficultés particulières, il (elle) peut intervenir directement auprès des clients pris en charge par les téléconseillers.
+Il (elle) veille constamment au bon fonctionnement de l'outil de gestion de la relation client multicanal, procède à des paramétrages optimaux en fonction de la mission ou campagne à assurer et prépare les nouvelles missions ou campagnes en relation client à distance. Il (elle) organise l'activité d'une équipe de conseillers client à distance et transmet les données administratives aux services compétents. Il (elle) est présent (e) auprès de l'équipe, l'informe régulièrement des enjeux des campagnes, transmet des consignes et veille en permanence au respect des normes de qualité par des moyens de supervision à sa disposition. Le (la) superviseur (se) relation client à distance participe éventuellement au recrutement de nouveaux collaborateurs, repère les besoins de formation et assure tout ou partie de la professionnalisation de l'équipe. Il (elle) se tient régulièrement informé (e) des évolutions technologiques et organisationnelles de son champ professionnel. Il (elle) est force de proposition auprès de son (sa) responsable. Par son action au quotidien il (elle) participe à la mise en œuvre de la RSE, en associant les aspects économiques, la responsabilité sociale et l'éco-responsabilité.
 
-Le (la) superviseur(se) est également chargé(e) de la gestion, de l'animation et de la professionnalisation des membres de son équipe. Il (elle) contribue au recrutement, organise des actions ponctuelles de formation quand il (elle) le juge nécessaire et assure un management de proximité en fonction des délégations et usages en cours dans l'entreprise.
+Le (la) superviseur (se) relation client à distance encadre une équipe de 10 à 12 conseillers et travaille sous la responsabilité d'un (e) chef de plateau ou d'un (e) directeur (trice) de CRC. Il (elle) suit les indicateurs de performance individuels et collectifs de l'équipe de conseillers et rend compte à son (sa) responsable des résultats et de tout événement impactant l'activité. Il (elle) communique oralement et par écrit avec des services internes et des interlocuteurs externes. Le (la) superviseur (se) est disponible pour ses interlocuteurs et réactif en cas d'ajustement nécessaire.
 
-En collaboration avec la direction et le service qualité, le (la) superviseur(se) contribue aussi à l'optimisation du processus de travail de son équipe et du plateau d'appels. Il (elle) prépare l'intervention des téléconseillers lors d'une campagne nouvelle, analyse leur activité et propose des évolutions pour améliorer la production et la qualité du service rendu par son unité. Cette activité est mise en oeuvre à des moments clés tels que : retour d'audit qualité, changement d'activité, nouvelle campagne.
+Le (la) superviseur (se) exerce l'emploi dans un espace ouvert (open space) en centre de relation client à distance intégré à l'entreprise ou chez un prestataire.
 
-Son action s'inscrit dans le cadre des politiques et stratégies définies par la direction qui fixent les résultats à atteindre. Il (elle) rend compte au chef de plateau des événements et des résultats (quotidien, hebdomadaire, mensuel). Le (la) superviseur(se) peut faire appel aux différents services de l'entreprise (informatique, téléphonie, matériel, ressources humaines, etc.).
+L'emploi s'exerce en général en travail posté et à temps plein. Les horaires peuvent être variables et s'effectuer la nuit, les week-ends et les jours fériés.
 
-L'exercice de cet emploi requiert une grande capacité relationnelle ainsi qu'une bonne résistance physique et nerveuse dans un contexte où le rythme de travail est soutenu.
+Le rythme de travail varie en fonction des flux d'appels.
 
-Les horaires de travail se situent dans des amplitudes larges (possibilité de travail les samedis et dimanches).
+La rémunération comprend un fixe avec éventuellement une partie variable.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Gérer l'ensemble des moyens nécessaires
+1. Gérer l'ensemble des moyens nécessaires aux activités
 
-aux activités d'un plateau d'appels
+d'une équipe de conseillers (ères) clientèle à distance
 
-Organiser, accompagner, contrôler et planifier l'activité de son équipe pour garantir l'atteinte des objectifs et améliorer la productivité.
+Maîtriser les outils de gestion de la relation client.
 
-Utiliser et piloter un outil de gestion de la relation client pour optimiser les résultats.
+Organiser l'activité de l'équipe de conseillers clientèle.
 
-S'assurer de l'efficacité de l'ensemble des ressources et supports pour un usage optimal.
+Préparer et mettre en place une nouvelle mission ou campagne.
 
-Faire appliquer à son équipe les caractéristiques liées au métier et à l'environnement pour garantir la prise en compte des réglementations spécifiques.
+2. Manager une équipe de conseillers (ères) clientèle à distance
 
-2. Manager les ressources humaines d'une équipe
+Participer au recrutement et à l'intégration de conseillers clientèle.
 
-de téléconseillers (téléconseillères)
+Assurer le management de proximité de l'équipe de conseillers clientèle.
 
-Participer au recrutement, gérer et optimiser les ressources humaines constitutives de son équipe.
+Professionnaliser et faire monter en compétence l'équipe de conseillers clientèle.
 
-Professionnaliser son équipe dans une démarche commerciale.
+Collecter et transmettre les informations administratives de l'équipe de conseillers clientèle.
 
-Assurer le management de proximité nécessaire au fonctionnement de son équipe.
+3. Contribuer à l'amélioration des activités
 
-Collecter et transmettre les informations administratives relatives au personnel encadré.
+d'un centre de relation client à distance
 
-Animer des formations ponctuelles pour téléconseillers.
+Faire appliquer les réglementations et les normes qualité en relation client à distance.
 
-3. Améliorer la qualité de services et contribuer aux évolutions de l'ensemble des activités d'un centre de relations clients à distance
+Mettre en œuvre et analyser les tableaux de bord.
 
-Participer à l'élaboration d'une campagne nouvelle.
+Rendre compte, être force de proposition auprès de la direction.
 
-Contribuer à la conception et mettre en oeuvre les outils nécessaires à l'analyse des activités et à l'amélioration de la qualité du service rendu.
+Compétences transversales de l'emploi (le cas échéant)
 
-Rendre compte, être force de proposition auprès de l'équipe de direction et assurer la veille et l'information sur l'environnement métier.
+Communiquer efficacement, à l'écrit et à l'oral, en centre de relation client à distance.
 
-Secteurs d'activités ou types d'emplois accessibles
+Secteurs d'activités ou types d'emploi
 
-par le détenteur du titre
+accessibles par le détenteur du titre
 
-L'emploi de superviseur(se) en relations clients à distance s'exerce soit dans un centre de contacts intégré à une entreprise, quel que soit le secteur d'activité, soit dans un centre de relations clients assurant des campagnes d'appels entrants et/ou sortants pour le compte de donneurs d'ordre de tous secteurs d'activités. Il peut accéder par promotion à un emploi de troisième niveau dans la filière tel que responsable de plateau.
+Les différents secteurs d'activités concernés sont principalement :
 
-Code ROME :
+L'informatique, la téléphonie, les banques, les assurances, l'énergie, les transports, la santé, les mutuelles, le tourisme, la vente à distance, l'assistance et les administrations...
 
-En attente de la nouvelle nomenclature.
+Les types d'emplois accessibles sont les suivants :
+
+Manager d'équipe de téléconseillers, responsable d'équipe, superviseur, chef d'équipe, animateur des ventes, Team Leader, responsable commercial sédentaire.
+
+Codes ROME :
+
+D1408-Téléconseil et télévente ;
+
+M1401-Conduite d'enquêtes.
 
 Réglementation de l'activité :
 
@@ -86,6 +92,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Les articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-L'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.

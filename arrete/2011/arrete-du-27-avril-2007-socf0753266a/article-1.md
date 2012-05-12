@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel de superviseur(se) en relations clients à distance est créé.
+Le titre professionnel de superviseur(se) relation client à distance est créé.
 
 Il est délivré dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
 
