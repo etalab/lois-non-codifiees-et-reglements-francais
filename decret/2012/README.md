@@ -218,6 +218,7 @@
 - [Décret n°2012-465 du 10 avril 2012 (EFIT1202964D)](decret-n2012-465-du-10-avril-2012-efit1202964d)
 - [Décret n°2012-468 du 10 avril 2012 (TRAA1131916D)](decret-n2012-468-du-10-avril-2012-traa1131916d)
 - [Décret n°95-735 du 10 mai 1995 (JUSB9510158D)](decret-n95-735-du-10-mai-1995-jusb9510158d)
+- [Décret n°2012-765 du 10 mai 2012 (MFPF1210008D)](decret-n2012-765-du-10-mai-2012-mfpf1210008d)
 - [Décret n°2012-467 du 11 avril 2012 (ETSP1201063D)](decret-n2012-467-du-11-avril-2012-etsp1201063d)
 - [Décret n°2012-470 du 11 avril 2012 (EFIE1033776D)](decret-n2012-470-du-11-avril-2012-efie1033776d)
 - [Décret n°2012-471 du 11 avril 2012 (EFIT1135465D)](decret-n2012-471-du-11-avril-2012-efit1135465d)
