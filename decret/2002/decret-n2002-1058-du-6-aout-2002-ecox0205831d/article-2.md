@@ -1,3 +1,3 @@
 # Article 2
 
-Conformément au III de l'article 14 de la loi du 6 août 2002 susvisée, le présent décret prend effet à compter du 8 mai 2002.
+Les dispositions du présent décret, dans leur rédaction issue du décret n° 2012-766 du 17 mai 2012, s'appliquent aux membres du Gouvernement nommés à compter du 15 mai 2012.
