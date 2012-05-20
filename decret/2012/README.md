@@ -302,6 +302,7 @@
 - [Décret n°2012-505 du 17 avril 2012 (MFPF1135237D)](decret-n2012-505-du-17-avril-2012-mfpf1135237d)
 - [Décret n°2012-508 du 17 avril 2012 (IOCD1131668D)](decret-n2012-508-du-17-avril-2012-iocd1131668d)
 - [Décret n°2012-52 du 17 janvier 2012 (EFIC1105832D)](decret-n2012-52-du-17-janvier-2012-efic1105832d)
+- [Décret n°2012-766 du 17 mai 2012 (PRMX1223293D)](decret-n2012-766-du-17-mai-2012-prmx1223293d)
 - [Décret n°2012-1060 du 18 septembre 2012 (RDFF1209415D)](decret-n2012-1060-du-18-septembre-2012-rdff1209415d)
 - [Décret n°2012-507 du 18 avril 2012 (DEVL1204517D)](decret-n2012-507-du-18-avril-2012-devl1204517d)
 - [Décret n°2012-509 du 18 avril 2012 (IOCA1201556D)](decret-n2012-509-du-18-avril-2012-ioca1201556d)
