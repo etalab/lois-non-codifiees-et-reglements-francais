@@ -1,6 +1,6 @@
 # Article Annexe
 
-ANNEXE  FCL 3
+ANNEXE FCL 3
 
 TABLE DES MATIÈRES
 
@@ -226,13 +226,33 @@ Durée de validité des certificats médicaux
 
 Un certificat médical est valide à compter de la date de l'examen médical d'admission et :
 
-(1) Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation monopilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 40 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi. Un certificat médical délivré à un détenteur, avant qu'il n'ait atteint l'âge de 40 ans et qui effectue des vols en exploitation monopilote, ne peut être valide plus de 6 mois à compter du jour où celui-ci atteint l'âge de 40 ans.
+(1) Pilotes de ligne et pilotes professionnels en exploitation monopilote.
 
-Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 60 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi. Un certificat médical délivré à un détenteur, avant qu'il n'ait atteint l'âge de 60 ans, ne peut être valide plus de 6 mois à compter du jour où celui-ci atteint l'âge de 60 ans.
+Le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi.
 
-Pour les mécaniciens navigants, les ingénieurs navigants, les navigateurs, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi quel que soit l'âge.
+Toutefois, lorsque le pilote exerce des activités de transport aérien public de passagers après 40 ans ou lorsque qu'il exerce ses activités après 60 ans, le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
 
-Pour les parachutistes professionnels, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 45 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
+Lorsque ce certificat médical est délivré à un pilote exerçant des activités de transport aérien public de passager avant qu'il n'ait atteint l'âge de 40 ans, il ne peut être valide plus de six mois à compter du jour où celui-ci atteint l'âge de 40 ans.
+
+Lorsque ce certificat médical est délivré à un pilote n'exerçant pas d'activités de transport aérien public de passager avant qu'il n'ait atteint l'âge de 60 ans, il ne peut être valide plus de six mois à compter du jour où celui-ci atteint l'âge de 60 ans.
+
+Pilotes de ligne et les pilotes professionnels en exploitation multipilote.
+
+Le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi.
+
+Toutefois, lorsque le pilote exerce ses activités après 60 ans, le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
+
+Lorsque ce certificat médical est délivré à un pilote avant qu'il n'ait atteint l'âge de 60 ans, il ne peut être valide plus de six mois à compter du jour où celui-ci atteint l'âge de 60 ans.
+
+Mécaniciens navigants, ingénieurs navigants et navigateurs.
+
+Le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, quel que soit l'âge.
+
+Parachutistes professionnels.
+
+Le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi.
+
+Toutefois, lorsque le parachutiste a atteint l'âge de 45 ans, le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi..
 
 (2) (Réservé.)
 
@@ -346,7 +366,11 @@ Durée de validité des certificats médicaux de classe 1
 
 - à partir de l'âge de 40 ans ou l'âge de 45 ans pour les parachutistes professionnels :
 
-(iii) L'examen médical précédent a eu lieu dans les 12 derniers mois pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote ou dans les six derniers mois pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation monopilote ainsi que pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote ayant atteint l'âge de 60 ans ;
+(iii) L'examen médical précédent a eu lieu :
+
+- dans les douze derniers mois pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote ou qui effectuent des vols en exploitation monopilote sans exercer d'activités de transport aérien public de passagers ;
+
+- dans les six derniers mois pour les pilotes de ligne et les pilotes professionnels qui exercent des activités de transport aérien public de passagers en exploitation monopilote ainsi que pour les pilotes de ligne et les pilotes professionnels ayant atteint l'âge de 60 ans ;
 
 (iv) L'examen approfondi précédent a eu lieu dans les 24 derniers mois ;
 
@@ -1178,7 +1202,9 @@ Gynécologie et obstétrique
 
 (Voir FCL 3.195)
 
-1. Après avoir pris connaissance du bilan obstétrical, le CEMA peut accorder un certificat d'aptitude aux femmes enceintes pour les 26 premières semaines de leur grossesse. Le CEMA remettra à la candidate et au médecin traitant une information écrite sur les particularités liées au vol, leur incidence possible sur la grossesse, et les complications significatives potentielles. Les détenteurs d'un certificat de classe 1 doivent faire l'objet d'une limitation multipilote OML.
+1. Après avoir pris connaissance du bilan obstétrical, le CEMA peut accorder un certificat d'aptitude aux femmes enceintes pour les 26 premières semaines de leur grossesse.
+
+Le CEMA remettra à la candidate et au médecin traitant une information écrite sur les particularités liées au vol, leur incidence possible sur la grossesse, et les complications significatives potentielles. Les détenteurs d'un certificat de classe 1 doivent faire l'objet d'une limitation multipilote OML.
 
 2. Les interventions majeures de chirurgie gynécologique entraînent l'inaptitude pour une durée minimale de trois mois. Le CMAC peut envisager un renouvellement plus précoce de l'aptitude si la détentrice est totalement asymptomatique et si le risque de complication secondaire ou de récidive est faible.
 
