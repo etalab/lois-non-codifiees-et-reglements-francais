@@ -2573,7 +2573,6 @@
 - [Arrêté du 27 mai 2010 (MENE1010776A)](arrete-du-27-mai-2010-mene1010776a)
 - [Arrêté du 27 mai 2011 (BCRB1108231A)](arrete-du-27-mai-2011-bcrb1108231a)
 - [Arrêté du 27 mai 2011 (DEVA1112476A)](arrete-du-27-mai-2011-deva1112476a)
-- [Arrêté du 27 mai 2011 (DEVA1112479A)](arrete-du-27-mai-2011-deva1112479a)
 - [Arrêté du 27 mai 2011 (DEVR1114828A)](arrete-du-27-mai-2011-devr1114828a)
 - [Arrêté du 27 mai 2011 (DEVT1115124A)](arrete-du-27-mai-2011-devt1115124a)
 - [Arrêté du 27 mai 2011 (EFIS1114367A)](arrete-du-27-mai-2011-efis1114367a)
