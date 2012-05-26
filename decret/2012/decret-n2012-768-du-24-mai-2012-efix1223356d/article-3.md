@@ -1,0 +1,3 @@
+# Article 3
+
+Le Premier ministre, le ministre de l'économie, des finances et du commerce extérieur, la ministre des affaires sociales et de la santé, la ministre de l'égalité des territoires et du logement, le ministre de l'intérieur, le ministre du redressement productif, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, la ministre des droits des femmes, porte-parole du Gouvernement, la ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et la ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative sont responsables, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.

@@ -1,0 +1,3 @@
+# Article 3
+
+Le Premier ministre, le ministre de l'économie, des finances et du commerce extérieur, la ministre de l'égalité des territoires et du logement, la ministre de l'écologie, du développement durable et de l'énergie, le ministre du redressement productif, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, la ministre de la culture et de la communication, la ministre de l'enseignement supérieur et de la recherche, le ministre de l'agriculture et de l'agroalimentaire et la ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.
