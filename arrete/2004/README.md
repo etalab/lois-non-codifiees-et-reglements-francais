@@ -5,7 +5,6 @@
 - [Arrêté du 1 juillet 2004 (ECOD0470011A)](arrete-du-1-juillet-2004-ecod0470011a)
 - [Arrêté du 1 juillet 2004 (EQUP0400909A)](arrete-du-1-juillet-2004-equp0400909a)
 - [Arrêté du 1 juillet 2004 (EQUP0400910A)](arrete-du-1-juillet-2004-equp0400910a)
-- [Arrêté du 1 juillet 2004 (EQUT0400898A)](arrete-du-1-juillet-2004-equt0400898a)
 - [Arrêté du 1 juillet 2004 (INDI0403209A)](arrete-du-1-juillet-2004-indi0403209a)
 - [Arrêté du 1 juillet 2004 (SANP0422312A)](arrete-du-1-juillet-2004-sanp0422312a)
 - [Arrêté du 1 juillet 2004 (SOCX0400162A)](arrete-du-1-juillet-2004-socx0400162a)
