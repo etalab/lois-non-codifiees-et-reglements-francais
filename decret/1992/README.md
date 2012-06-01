@@ -391,7 +391,6 @@
 - [Décret n°87-334 du 13 mai 1987 (ECOP8700099D)](decret-n87-334-du-13-mai-1987-ecop8700099d)
 - [Décret n°66-787 du 14 octobre 1966](decret-n66-787-du-14-octobre-1966)
 - [Décret n°87-680 du 14 août 1987 (INTA8700210D)](decret-n87-680-du-14-aout-1987-inta8700210d)
-- [Décret n°90-230 du 14 mars 1990 (JUSG8960101D)](decret-n90-230-du-14-mars-1990-jusg8960101d)
 - [Décret n°92-1138 du 14 octobre 1992 (AGRX9200121D)](decret-n92-1138-du-14-octobre-1992-agrx9200121d)
 - [Décret n°92-1152 du 14 octobre 1992 (MAEJ9230053D)](decret-n92-1152-du-14-octobre-1992-maej9230053d)
 - [Décret n°92-1153 du 14 octobre 1992 (MAEJ9230056D)](decret-n92-1153-du-14-octobre-1992-maej9230056d)
