@@ -168,7 +168,6 @@
 - [Décret n°2010-1179 du 7 octobre 2010 (ECEI1023196D)](decret-n2010-1179-du-7-octobre-2010-ecei1023196d)
 - [Décret n°2010-1182 du 7 octobre 2010 (DEVK1017310D)](decret-n2010-1182-du-7-octobre-2010-devk1017310d)
 - [Décret n°2010-14 du 7 janvier 2010 (MTSS0920172D)](decret-n2010-14-du-7-janvier-2010-mtss0920172d)
-- [Décret n°2010-1495 du 7 décembre 2010 (BCRX1030465D)](decret-n2010-1495-du-7-decembre-2010-bcrx1030465d)
 - [Décret n°2010-1496 du 7 décembre 2010 (BCRX1030431D)](decret-n2010-1496-du-7-decembre-2010-bcrx1030431d)
 - [Décret n°2010-1499 du 7 décembre 2010 (INDX1030452D)](decret-n2010-1499-du-7-decembre-2010-indx1030452d)
 - [Décret n°2010-15 du 7 janvier 2010 (MTSA0931612D)](decret-n2010-15-du-7-janvier-2010-mtsa0931612d)
