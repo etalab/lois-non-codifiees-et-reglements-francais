@@ -12,7 +12,9 @@ II.-En vue de la mise en service de l'installation, l'exploitant adresse à l'Au
 
 4° Le plan d'urgence interne mentionné à l'article L. 1333-6 du code de la santé publique, obligatoire pour les installations nucléaires de base, accompagné de l'avis du comité d'hygiène, de sécurité et des conditions de travail, recueilli en application de l'article L. 236-2 du code du travail ;
 
-5° Sauf pour une installation de stockage de déchets radioactifs, une mise à jour en tant que de besoin du plan de démantèlement mentionné au 10° du I de l'article 8.
+5° Sauf pour une installation de stockage de déchets radioactifs, une mise à jour en tant que de besoin du plan de démantèlement mentionné au 10° du I de l'article 8 ;
+
+6° La mise à jour de l'étude d'impact, avec notamment les éléments permettant d'apprécier la conformité de l'installation aux prescriptions prises par l'Autorité de sûreté nucléaire en application de l'article 29 de la loi du 13 juin 2006, dans les domaines mentionnés au 3° de l'article 9.
 
 III.-Le plan d'urgence interne mentionné au 4° du II ci-dessus définit, sur la base de l'étude de dimensionnement figurant dans le rapport de sûreté, les mesures d'organisation, les méthodes d'intervention et les moyens nécessaires que l'exploitant met en oeuvre en cas de situation d'urgence pour protéger des rayonnements ionisants le personnel, le public et l'environnement et préserver ou rétablir la sûreté de l'installation. Si un plan particulier d'intervention a été établi en application du décret du 13 septembre 2005 susvisé, le plan d'urgence interne précise les modalités de mise en oeuvre des mesures incombant à l'exploitant en application du plan particulier d'intervention.
 

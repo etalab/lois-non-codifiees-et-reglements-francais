@@ -28,6 +28,8 @@ Le Conseil général de l'environnement et du développement durable délibère 
 
 Il siège en formation d'autorité environnementale pour l'exercice des pouvoirs qu'il tient du II. de l'article R. 122-1-1 et de l'article R. 122-19 du code de l'environnement ainsi que de l'article R. 121-15 du code de l'urbanisme. Il siège également dans cette formation à la demande du ministre chargé de l'environnement pour conseiller ce dernier dans l'exercice des pouvoirs qu'il tient du I de l'article R. 122-1-1 du code de l'environnement. Le Conseil général de l'environnement et du développement durable, siégeant en formation d'autorité environnementale, adopte une synthèse annuelle des avis qu'il rend sur le fondement du présent article. Cette synthèse est présentée aux présidents des comités et conseils nationaux prévus aux articles L. 213-1, R. 133-1, D. 134-1, D. 221-16, D. 510-1, D. 541-1 et D. 571-99 du code de l'environnement ainsi qu'au président de l'autorité instituée par l'article L. 227-1 du code de l'aviation civile. Le ministre rend cette synthèse publique en y joignant ses observations.
 
+Lorsqu'il siège en formation d'autorité environnementale, il peut donner délégation au président de cette formation pour décider si le projet doit faire l'objet d'une étude d'impact suite à l'examen au cas par cas réalisé au titre de l'article R. 122-3 du code de l'environnement.
+
 Le Conseil général de l'environnement et du développement durable procède aux missions d'expertise, d'étude, d'audit, d'évaluation et de coopération internationale que lui confient le Premier ministre et les ministres et exerce au nom de ces derniers la mission d'inspection générale définie à l'article 2.
 
 Par ses avis et les rapports qu'il remet aux ministres, il concourt :

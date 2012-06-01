@@ -12,7 +12,7 @@ I.-La demande est accompagnée d'un dossier comprenant :
 
 5° Un plan détaillé de l'installation à l'échelle de 1 / 2 500 au minimum ;
 
-6° L'étude d'impact prévue à l'article L. 122-1 du code de l'environnement dont le contenu, par dérogation aux dispositions de l'article R. 122-3 du même code, est défini à l'article 9 ;
+6° L'étude d'impact prévue à l'article L. 122-1 du code de l'environnement dont le contenu est défini à l'article 9 ;
 
 7° Le rapport préliminaire de sûreté dont le contenu est précisé par l'article 10 ;
 
@@ -30,7 +30,7 @@ Les études, rapports et autres documents mentionnés au présent article porten
 
 L'exploitant peut fournir sous la forme d'un dossier séparé les éléments dont il estime que la divulgation serait de nature à porter atteinte à des intérêts visés au I de l'article L. 124-4 du code de l'environnement.
 
-II.-L'exploitant fournit également une notice comprenant :
+II. - L'exploitant fournit également une notice comprenant :
 
 a) Une présentation de ses capacités techniques, indiquant notamment les ressources techniques dont il dispose, l'organisation mise en place dans ce domaine et l'expérience dont il bénéficie dans l'exploitation d'installations nucléaires ;
 
