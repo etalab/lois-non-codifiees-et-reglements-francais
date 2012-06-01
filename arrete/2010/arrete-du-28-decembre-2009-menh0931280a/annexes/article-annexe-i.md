@@ -26,13 +26,13 @@ Elle vise également à mesurer la pertinence de la conception qu'ont les candid
 
 Durée : cinq heures ; coefficient 3.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Epreuve d'entretien avec le jury :
 
-Durée de la préparation : deux heures ; durée de l'épreuve : quarante minutes (exposé : quinze minutes ; entretien avec le jury : vingt-cinq minutes) ; coefficient 3.
+Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes (exposé : quinze minutes ; entretien avec le jury : trente minutes) ; coefficient 3.
 
-L'épreuve prend appui sur un document d'une à trois pages, proposé par le jury, de source et de nature diverses (études, travaux de recherche, textes officiels, etc.), et portant sur une grande question de politique éducative générale.
+L'épreuve prend appui sur un document d'une à trois pages, proposé par le jury, de source et de nature diverses (études, travaux de recherche, textes officiels, etc.) et portant sur une grande question de politique éducative générale.
 
 Elle comporte un exposé suivi d'un entretien avec le jury.
 
@@ -40,24 +40,18 @@ Le candidat doit démontrer qu'il a réfléchi à la dimension civique et social
 
 Au cours de l'entretien, le candidat pourra faire état de son expérience dans le domaine de l'éducation dans le cadre scolaire ou dans un autre cadre.
 
+L'entretien s'élargit à un questionnement touchant plus particulièrement la connaissance réfléchie du contexte institutionnel et des conditions effectives d'exercice du métier en responsabilité, en relation avec la compétence professionnelle :  Agir en fonctionnaire de l'Etat et de façon éthique et responsable  de l'annexe de l'arrêté du 12 mai 2010. Ce questionnement intervient pour 4 points dans la note finale de l'épreuve, notée sur 20.
+
 2° Epreuve sur dossier :
 
-Epreuve comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.
+Durée de la préparation : deux heures ; durée totale de l'épreuve : quarante-cinq minutes ; coefficient 3.
 
-Première partie : soutenance d'un dossier, suivie d'un entretien avec le jury (présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
+L'épreuve consiste en la soutenance d'un dossier, suivie d'un entretien avec le jury (présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt-cinq minutes).
 
-La première partie de l'épreuve prend appui sur un dossier n'excédant pas huit pages, relatif à une situation professionnelle concrète ressortissant à la fonction de conseiller principal d'éducation, suivi d'un entretien avec le jury.
+Le dossier, qui n'excède pas huit pages, est relatif à une situation professionnelle concrète ressortissant à la fonction de conseiller principal d'éducation, suivi d'un entretien avec le jury.
 
-Elle est destinée à évaluer la capacité du candidat à analyser une situation mettant en jeu, notamment, l'éducation d'un ou plusieurs élèves, d'une classe, d'un niveau, etc, à dégager une problématique, à formuler des hypothèses et à proposer des modalités d'action pertinentes.
+L'épreuve est destinée à évaluer la capacité du candidat à analyser une situation mettant en jeu, notamment, l'éducation d'un ou plusieurs élèves, d'une classe, d'un niveau, etc., à dégager une problématique, à formuler des hypothèses et à proposer des modalités d'action pertinentes.
 
 Elle permet de mesurer les capacités du candidat à analyser et à gérer des situations pratiques et d'apprécier son sens des responsabilités. Elle permet d'évaluer son aptitude à conseiller le chef d'établissement dans la mise en place d'une politique éducative ou d'actions à caractère éducatif.
 
-Elle vise en outre à apprécier, au travers notamment de ses propositions d'action, la bonne connaissance que le candidat possède du système éducatif, de l'établissement et des missions des acteurs de la vie scolaire.
-
-Le jury appréciera l'aptitude du candidat à argumenter et à soutenir les propositions et les initiatives qu'il entend promouvoir.
-
-Deuxième partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation n'excédant pas dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document inclus dans le dossier qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1de l'annexe de l'arrêté du 12 mai 2010.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
+Elle vise en outre à apprécier, au travers notamment de ses propositions d'action, la bonne connaissance que le candidat possède du système éducatif, de l'établissement et des missions des acteurs de la vie scolaire. Le jury appréciera l'aptitude du candidat à argumenter et à soutenir les propositions et les initiatives qu'il entend promouvoir.
