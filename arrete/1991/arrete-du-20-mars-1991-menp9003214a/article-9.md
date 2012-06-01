@@ -1,3 +1,3 @@
 # Article 9
 
-Le programme des épreuves du concours externe et du concours interne définies en annexe au présent arrêté est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le  programme des épreuves fait appel à des connaissances appropriées dans  les domaines suivants : théories, méthodes et pratiques en psychologie ;  économie, marché du travail ; enjeux du système éducatif ; dispositifs  et outils d'aide à l'orientation scolaire et professionnelle ;  politiques d'aide à l'insertion professionnelle. Il est assorti, le cas  échéant, d'une bibliographie indicative destinée à approfondir les  thèmes abordés par le concours. Le programme détaillé et la  bibliographie sont publiés pour chaque session sur le site internet du  ministère chargé de l'éducation nationale.
