@@ -532,7 +532,6 @@
 - [Arrêté du 13 janvier 2012 (MFPF1200428A)](arrete-du-13-janvier-2012-mfpf1200428a)
 - [Arrêté du 13 janvier 2012 (PRMX1204276A)](arrete-du-13-janvier-2012-prmx1204276a)
 - [Arrêté du 13 juin 1983](arrete-du-13-juin-1983)
-- [Arrêté du 13 mars 2001 (MENF0100578A)](arrete-du-13-mars-2001-menf0100578a)
 - [Arrêté du 13 mars 2012 (AGRS1207148A)](arrete-du-13-mars-2012-agrs1207148a)
 - [Arrêté du 13 mars 2012 (DEVA1207561A)](arrete-du-13-mars-2012-deva1207561a)
 - [Arrêté du 13 mars 2012 (EFIK1200035A)](arrete-du-13-mars-2012-efik1200035a)

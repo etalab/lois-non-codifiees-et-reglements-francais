@@ -67,7 +67,6 @@
 - [Arrêté du 4 février 2004 (ECOT0414391A)](arrete-du-4-fevrier-2004-ecot0414391a)
 - [Arrêté du 4 février 2004 (ECOT0414392A)](arrete-du-4-fevrier-2004-ecot0414392a)
 - [Arrêté du 4 février 2004 (EQUS0400221A)](arrete-du-4-fevrier-2004-equs0400221a)
-- [Arrêté du 4 février 2004 (MENF0302903A)](arrete-du-4-fevrier-2004-menf0302903a)
 - [Arrêté du 4 juin 2004 (DEVP0430152A)](arrete-du-4-juin-2004-devp0430152a)
 - [Arrêté du 4 juin 2004 (ECOT0410504A)](arrete-du-4-juin-2004-ecot0410504a)
 - [Arrêté du 4 mars 2004 (SANS0420800A)](arrete-du-4-mars-2004-sans0420800a)

@@ -7,7 +7,6 @@
 - [Arrêté du 1 décembre 2000 (INTE0000723A)](arrete-du-1-decembre-2000-inte0000723a)
 - [Arrêté du 1 février 2000 (EQUT0000206A)](arrete-du-1-fevrier-2000-equt0000206a)
 - [Arrêté du 1 mars 2000 (MENF0000228A)](arrete-du-1-mars-2000-menf0000228a)
-- [Arrêté du 1 mars 2000 (MENF0000238A)](arrete-du-1-mars-2000-menf0000238a)
 - [Arrêté du 3 avril 2000 (ATEP0090163A)](arrete-du-3-avril-2000-atep0090163a)
 - [Arrêté du 3 janvier 2000 (ECOD0072320A)](arrete-du-3-janvier-2000-ecod0072320a)
 - [Arrêté du 3 juillet 2000 (EQUA0001008A)](arrete-du-3-juillet-2000-equa0001008a)
