@@ -14,7 +14,7 @@ II.-Le recouvrement par le Trésor public des amendes et condamnations pécuniai
 
 2. Le destinataire de l'opposition administrative est tenu de rendre les fonds qu'il détient indisponibles à concurrence du montant de l'amende ou de la condamnation pécuniaire.
 
-L'opposition administrative emporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution.
+L'opposition administrative emporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution. Les dispositions des articles L. 162-1 et L. 162-2 de ce code sont en outre applicables.
 
 Les fonds doivent être reversés, dans les trente jours qui suivent la réception de l'opposition administrative, par le tiers détenteur au Trésor public sous peine de se voir réclamer cette somme majorée du taux d'intérêt légal. Le paiement consécutif à une opposition administrative libère à due concurrence la personne qui l'a effectué à l'égard du redevable de l'amende ou de la condamnation pécuniaire.
 

@@ -1,3 +1,0 @@
-# TITRE Ier : DISPOSITIONS MODIFIANT LE CODE CIVIL.
-
-- [Article 1](article-1.md)

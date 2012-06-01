@@ -10,7 +10,6 @@
 - [Ordonnance n° 2007-1490 du 18 octobre 2007 (ECET0761449R)](ordonnance-n-2007-1490-du-18-octobre-2007-ecet0761449r)
 - [Ordonnance n° 2007-571 du 19 avril 2007 (ECOX0700040R)](ordonnance-n-2007-571-du-19-avril-2007-ecox0700040r)
 - [Ordonnance n° 2004-1382 du 20 décembre 2004 (ECOX0400291R)](ordonnance-n-2004-1382-du-20-decembre-2004-ecox0400291r)
-- [Ordonnance n° 2006-461 du 21 avril 2006 (JUSX0600046R)](ordonnance-n-2006-461-du-21-avril-2006-jusx0600046r)
 - [Ordonnance n° 2007-235 du 22 février 2007 (SANX0600224R)](ordonnance-n-2007-235-du-22-fevrier-2007-sanx0600224r)
 - [Ordonnance n° 2007-1134 du 25 juillet 2007 (IOCX0758060R)](ordonnance-n-2007-1134-du-25-juillet-2007-iocx0758060r)
 - [Ordonnance n° 2007-98 du 25 janvier 2007 (DOMX0600193R)](ordonnance-n-2007-98-du-25-janvier-2007-domx0600193r)
