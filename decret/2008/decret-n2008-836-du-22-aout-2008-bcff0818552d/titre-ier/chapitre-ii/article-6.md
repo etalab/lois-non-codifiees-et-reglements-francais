@@ -1,116 +1,167 @@
 # Article 6
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux infirmières et infirmiers des services médicaux des administrations de l'Etat régis par le décret du 23 novembre 1994 susvisé est fixé ainsi qu'il suit :<br/>
+L'échelonnement indiciaire applicable aux infirmières et infirmiers des services médicaux des administrations de l'Etat régis par le décret du 23 novembre 1994 susvisé est fixé ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
+<td>
+<p align="center"> GRADES ET ÉCHELONS</p>
+</td>
+<td>
+<p align="center"> INDICES BRUT</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Infirmières et infirmiers de classe supérieure</td>
+<br/>Infirmière et infirmier de classe supérieure <br/>
+</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon</td>
+<br/>7e échelon <br/>
+</td>
 <td align="center">
-<br/>638</td>
+<br/>675 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>6e échelon <br/>
+</td>
 <td align="center">
-<br/>613</td>
+<br/>646 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon</td>
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<br/>580</td>
+<br/>619 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>548</td>
+<br/>585 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>514</td>
+<br/>555 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>471</td>
+<br/>522 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Infirmières et infirmiers de classe normale</td>
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>490 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Infirmière et infirmier de classe normale <br/>
+</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon</td>
+<br/>9e échelon <br/>
+</td>
 <td align="center">
-<br/>568</td>
+<br/>614 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon</td>
+<br/>8e échelon <br/>
+</td>
 <td align="center">
-<br/>519</td>
+<br/>572 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon</td>
+<br/>7e échelon <br/>
+</td>
 <td align="center">
-<br/>480</td>
+<br/>525 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>6e échelon <br/>
+</td>
 <td align="center">
-<br/>443</td>
+<br/>486 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon</td>
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<br/>407</td>
+<br/>449 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>372</td>
+<br/>416 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>346</td>
+<br/>375 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>322</td>
+<br/>357 <br/>
+</td>
 </tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>350<br/>
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
+<p>
 <br/>
+</p>
+
 </div>
