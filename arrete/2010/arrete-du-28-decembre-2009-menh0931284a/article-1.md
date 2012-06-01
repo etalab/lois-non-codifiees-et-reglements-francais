@@ -14,11 +14,11 @@ Section histoire ;
 
 Section géographie ;
 
-Section langues vivantes étrangères.
+Section langues vivantes étrangères ;
 
 Section mathématiques ;
 
-Section sciences physiques ;
+Section physiques-chimie ;
 
 Section sciences de la vie-sciences de la Terre et de l'univers ;
 
@@ -28,13 +28,7 @@ Section arts ;
 
 Section sciences économiques et sociales ;
 
-Section mécanique ;
-
-Section génie mécanique ;
-
-Section génie civil ;
-
-Section génie électrique ;
+Section sciences industrielles de l'ingénieur ;
 
 Section biochimie-génie biologique ;
 

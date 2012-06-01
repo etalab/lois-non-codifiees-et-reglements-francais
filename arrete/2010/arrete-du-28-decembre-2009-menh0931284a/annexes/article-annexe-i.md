@@ -44,43 +44,41 @@ Les programmes du concours font l'objet d'une publication sur le site internet d
 
 Section grammaire
 
-Epreuves préparatoires (écrites)
+A. - Epreuves écrites d'admissibilité
 
-1° Un thème latin (durée : quatre heures ; coefficient 5).
+1° Une composition française sur un sujet se rapportant à un programme d'auteurs indiqué à l'avance (durée : sept heures ; coefficient 9) ;
 
-2° Un thème grec (durée : quatre heures ; coefficient 5).
+2° Un thème latin (durée : quatre heures ; coefficient 5) ;
 
-3° Une version latine (durée : quatre heures ; coefficient 5).
+3° Un thème grec (durée : quatre heures ; coefficient 5) ;
 
 4° Une épreuve à option de grammaire et linguistique (sur les textes du programme réduit) comportant deux compositions (à chaque option correspondent une composition principale et une composition complémentaire) :
 
 a) Première composition (composition principale) :
 
-Option A : français ancien et moderne ;
+- option A : français ancien et moderne ;
 
-Option B : grec et latin.
+- option B : grec et latin.
 
-(Durée : quatre heures trente ; coefficient 8.)
+(Durée : quatre heures trente ; coefficient 8) ;
 
 b) Deuxième composition (composition complémentaire) :
 
-Option A : grec et latin ;
+- option A : grec et latin ;
 
-Option B : français ancien et moderne.
+- option B : français ancien et moderne.
 
-(Durée : deux heures trente ; coefficient 4.)
+(Durée : deux heures trente ; coefficient 4) ;
 
-5° Une composition française sur un sujet se rapportant à un programme d'auteurs indiqué à l'avance (durée : sept heures ; coefficient 9).
+5° Une version latine (durée : quatre heures ; coefficient 5).
 
-Les textes nécessaires sont mis à la disposition des candidats.
-
-Epreuves définitives (orales)
+B. - Epreuves orales d'admission
 
 1° Explication préparée d'un texte de français moderne tiré des auteurs du programme (durée de la préparation : deux heures ; durée de l'épreuve : trente minutes ; coefficient 12).
 
 2° Explication préparée d'un texte latin ou d'un texte grec tiré des auteurs du programme, selon tirage au sort (durée de la préparation : deux heures ; durée de l'épreuve : trente minutes ; coefficient 9).
 
-3° Explication improvisée, sans dictionnaire, d'un texte de latin ou de grec, selon tirage au sort, choisi hors du programme (durée de la préparation : trente minutes ; durée de l'épreuve : quinze minutes ; coefficient 6).
+3° Explication improvisée, sans dictionnaire, d'un texte de latin ou de grec, selon tirage au sort, choisi hors du programme (durée de la préparation : quarante-cinq minutes ; durée de l'épreuve : quinze minutes ; coefficient 6).
 
 4° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : trois heures ; durée de l'épreuve : une heure ; coefficient 10).
 
@@ -106,15 +104,17 @@ Section lettres classiques
 
 A. - Epreuves écrites d'admissibilité
 
-1° Thème latin (durée : quatre heures ; coefficient 6).
+Les épreuves écrites d'admissibilité mentionnées au A sont établis dans l'ordre suivant :
 
-2° Thème grec (durée : quatre heures ; coefficient 6).
+1° Dissertation française sur un sujet se rapportant à un programme d'œuvres (durée : sept heures ; coefficient 16) ;
 
-3° Version latine (durée : quatre heures ; coefficient 6).
+2° Thème latin (durée : quatre heures ; coefficient 6) ;
 
-4° Version grecque (durée : quatre heures ; coefficient 6).
+3° Thème grec (durée : quatre heures ; coefficient 6) ;
 
-5° Dissertation française sur un sujet se rapportant à un programme d'œuvres (durée : sept heures ; coefficient 16).
+4° Version grecque (durée : quatre heures ; coefficient 6) ;
+
+5° Version latine (durée : quatre heures ; coefficient 6).
 
 B. - Epreuves orales d'admission
 
@@ -828,7 +828,7 @@ B. - Epreuves orales d'admission
 
 1° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure et quinze minutes ; durée de l'épreuve : une heure et cinq minutes maximum ; coefficient 2).
 
-Première partie : résumé en russe d'un texte en langue russe, non littéraire, du xxe siècle, hors programme, suivi d'un entretien en russe (résumé : trente minutes maximum ; entretien : quinze minutes maximum).
+Première partie : résumé en russe d'un texte en langue russe, non littéraire, des xxe et xxie siècles , hors programme, suivi d'un entretien en russe (résumé : trente minutes maximum ; entretien : quinze minutes maximum).
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -958,25 +958,21 @@ Le jury intervient à son gré au cours de l'épreuve et conduit le dialogue ave
 
 Le programme des épreuves d'admissibilité et d'admission du concours externe de l'agrégation de mathématiques fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
-Section sciences physiques
+Section physique-chimie
 
-Les candidats à l'agrégation externe de sciences physiques ont le choix entre quatre options :
+Les candidats à l'agrégation externe de physique-chimie ont le choix entre deux options :
 
-Option A : physique ;
+- option physique ;
 
-Option B : chimie ;
-
-Option C : physique appliquée ;
-
-Option D : procédés physico-chimiques.
+- option chimie.
 
 Le choix de l'option est formulé au moment de l'inscription.
 
-Les candidats proposés par les jurys pour l'admissibilité et pour l'admission font l'objet de classements distincts selon l'option choisie.
+Les candidats proposés par les jurys pour l'admissibilité et pour l'admission font l'objet de classements distincts selon l'option.
 
-Les épreuves des quatre options sont déterminées ainsi qu'il suit :
+Les épreuves sont déterminées ainsi qu'il suit :
 
-Option A : physique
+Option physique
 
 A. - Epreuves écrites d'admissibilité
 
@@ -1010,7 +1006,7 @@ Chacune des épreuves orales et pratiques d'admission a lieu après quatre heure
 
 Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : une heure quarante minutes.
 
-Option B : chimie
+Option chimie
 
 A. - Epreuves écrites d'admissibilité
 
@@ -1044,87 +1040,9 @@ Chacune des épreuves orales et pratiques d'admission a lieu après quatre heure
 
 Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : une heure quarante minutes.
 
-Option C : physique appliquée
+Le programme sur lequel portent les épreuves des deux options est publié sur le site internet du ministère chargé de l'éducation nationale.
 
-A. - Epreuves écrites d'admissibilité
-
-1° Composition de physique (durée : cinq heures ; coefficient 2) :
-
-Les candidats composent sur le même sujet que celui remis au titre de la même session pour la première épreuve d'admissibilité de l'option D : procédés physico-chimiques.
-
-2° Composition d'électronique et d'électrotechnique (durée : cinq heures ; coefficient 2).
-
-3° Problème de physique appliquée, de traitement du signal et d'automatique (durée : six heures ; coefficient 2).
-
-B. - Epreuves orales et pratiques d'admission
-
-1° Leçon de physique appliquée, d'électronique, d'électrotechnique, d'automatique et de traitement du signal (coefficient 4).
-
-2° L'épreuve se déroule en deux parties. Coefficient 4. La première partie est notée sur 15 points, la seconde sur 5 points.
-
-Première partie : leçon de physique et applications, suivie d'un entretien avec le jury (durée : une heure vingt minutes).
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-A l'issue de chacune des épreuves 1 et 2, le jury peut poser quelques questions sur ce que le candidat a dit, écrit et présenté. La conversation éventuelle est de courte durée.
-
-3° Montage de physique appliquée, d'électronique, d'électrotechnique, d'automatique et de traitement du signal (coefficient 3).
-
-Le candidat doit choisir l'un des deux montages qui lui sont proposés. A l'issue de l'épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
-
-Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
-
-Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : une heure quarante minutes.
-
-Option D : procédés physico-chimiques
-
-A. - Epreuves écrites d'admissibilité
-
-1° Composition de physique (durée : cinq heures ; coefficient 2).
-
-Les candidats composent sur le même sujet que celui remis au titre de la même session pour la première épreuve d'admissibilité de l'option C : physique appliquée.
-
-2° Composition de modélisation et commande de procédés (durée : cinq heures ; coefficient 2).
-
-3° Problème de chimie, génie chimique et de procédés physico-chimiques (durée : six heures ; coefficient 2).
-
-B. - Epreuves orales et pratiques d'admission
-
-1° Leçon de génie chimique et de procédés physico-chimiques, de modélisation et de commande (coefficient 4).
-
-2° L'épreuve se déroule en deux parties. Coefficient 4. La première partie est notée sur 15 points, la seconde sur 5 points.
-
-Première partie : leçon de physique, suivie d'un entretien avec le jury (durée : une heure vingt minutes).
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-A l'issue de chacune des épreuves 1 et 2, le jury peut poser quelques questions sur ce que le candidat a dit, écrit et présenté. La conversation éventuelle est de courte durée.
-
-3° Montage de génie chimique et de procédés physico-chimiques, de modélisation et de commande (coefficient 3).
-
-A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet du montage.
-
-Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
-
-Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : une heure quarante minutes.
-
-Dans chaque option, des livres, y compris les manuels du second cycle et des documents d'intérêt général, agréés par le jury, imprimés ou dactylographiés et ne comportant aucune annotation manuscrite, sont mis à la disposition des candidats pour les épreuves orales et pratiques d'admission. Ils sont rassemblés au centre d'examen avant le début de ces épreuves et ils peuvent être examinés par les candidats après le tirage au sort de leur série.
-
-En outre, un préparateur présent pendant toute la durée des épreuves orales est à la disposition des candidats pour leur apporter l'aide qu'il donne habituellement aux professeurs lors de la préparation de leurs classes.
-
-Le programme sur lequel portent les épreuves des options est publié sur le site internet du ministère chargé de l'éducation nationale.
-
-Section sciences de la vie
-
-Sciences de la Terre et de l'Univers
+Section sciences de la vie- Sciences de la Terre et de l'Univers
 
 Le champ disciplinaire de l'agrégation externe de sciences de la vie - sciences de la Terre et de l'Univers couvre trois secteurs :
 
@@ -1135,8 +1053,6 @@ Secteur B : biologie et physiologie des organismes et biologie des populations, 
 Secteur C : sciences de la Terre et de l'Univers, interactions entre la biosphère et la planète Terre.
 
 A chaque secteur A, B ou C correspond un programme de connaissances générales portant sur des connaissances d'un niveau allant jusqu'à la licence universitaire et un programme de spécialité portant sur des connaissances du niveau de la maîtrise universitaire.
-
-Un programme annexe aux programmes de connaissances générales porte sur des questions scientifiques d'actualité sur lesquelles peuvent être interrogés les candidats lors de la quatrième épreuve d'admission.
 
 A. - Epreuves écrites d'admissibilité
 
@@ -1160,15 +1076,15 @@ B. - Epreuves d'admission
 
 4° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : quatre heures ; durée de l'épreuve : une heure trente minutes maximum ; coefficient 4).
 
-Première partie : épreuve orale portant sur les programmes de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité (présentation orale et pratique : quarante minutes maximum ; entretien : trente minutes maximum).
+Première partie : épreuve orale portant sur les programmes de connaissances générales (présentation orale et pratique : quarante minutes maximum ; entretien : trente minutes maximum).
 
 Le sujet est tiré au sort par le candidat. Il porte :
 
-- sur le programme de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité se rapportant au secteur C pour les candidats ayant choisi, lors de l'inscription, le secteur A ou le secteur B pour la première épreuve d'admission ;
+- sur le programme de connaissances générales se rapportant au secteur C pour les candidats ayant choisi, lors de l'inscription, le secteur A ou le secteur B pour la première épreuve d'admission ;
 
-- sur les programmes de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité se rapportant aux secteurs A et B pour les candidats ayant choisi, lors de l'inscription, le secteur C pour la première épreuve d'admission.
+- sur les programmes de connaissances générales se rapportant aux secteurs A et B pour les candidats ayant choisi, lors de l'inscription, le secteur C pour la première épreuve d'admission.
 
-La présentation orale et pratique est suivie d'un entretien avec le jury ; l'entretien peut comporter des questions portant sur les programmes de connaissances générales et le programme annexe de questions scientifiques d'actualité de l'ensemble des secteurs.
+La présentation orale et pratique est suivie d'un entretien avec le jury ; l'entretien peut comporter des questions portant sur les programmes de connaissances générales de l'ensemble des secteurs.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1177,8 +1093,6 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 Les programmes de connaissances générales et les programmes de spécialité font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
-
-Le programme annexe portant sur des questions scientifiques d'actualité est publié annuellement sur le site internet du ministère chargé de l'éducation nationale.
 
 Section musique
 
@@ -1262,7 +1176,7 @@ A. - Epreuves d'admissibilité
 
 Le texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des écrits d'artistes, des textes critiques (durée : six heures ; coefficient 1,5).
 
-2° Epreuve écrite d'histoire de l'art : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne le xxe siècle, l'autre, une période antérieure (durée : six heures ; coefficient 1,5).
+2° Epreuve écrite d'histoire de l'art : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne les xxe et xxie siècles, l'autre, une période antérieure (durée : six heures ; coefficient 1,5).
 
 3° Epreuve de pratique plastique : réalisation bidimensionnelle mettant en œuvre des moyens strictement graphiques pour répondre à un sujet à consignes précises.
 
@@ -1304,7 +1218,7 @@ A. - Epreuves d'admissibilité
 
 1° Epreuve écrite d'esthétique : analyse et commentaire d'un document textuel. Cette épreuve prend appui sur un document textuel assorti d'un sujet. Ce texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des textes critiques, des écrits d'artistes, d'architectes, d'ingénieurs, de techniciens (durée : quatre heures ; coefficient 1).
 
-2° Epreuve écrite d'histoire de l'art et des techniques : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne le xxe siècle, l'autre, une période antérieure (durée : quatre heures ; coefficient 1).
+2° Epreuve écrite d'histoire de l'art et des techniques : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne les xxe et xxie siècles, l'autre, une période antérieure (durée : quatre heures ; coefficient 1).
 
 3° Epreuve pratique d'investigation et de recherche appliquée. A partir d'une documentation visuelle et d'un sujet à consignes précises, le candidat est invité à faire la démonstration :
 
@@ -1338,6 +1252,116 @@ Cette leçon est suivie d'un entretien avec le jury.
 
 3° Entretien sans préparation avec le jury : entretien à partir de documents proposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des domaines suivants : arts plastiques ; image et communication ; nouvelles technologies et création ; architecture et paysage ; théâtre et scénographie (durée : trente minutes maximum ; coefficient 1).
 
+Section sciences industrielles de l'ingénieur
+
+L'agrégation externe de sciences industrielles de l'ingénieur comprend trois options :
+
+- option sciences industrielles de l'ingénieur et ingénierie mécanique ;
+
+- option sciences industrielles de l'ingénieur et ingénierie électrique ;
+
+- option sciences industrielles de l'ingénieur et ingénierie des constructions.
+
+Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'un classement distinct selon l'option choisie. Pour l'application du premier alinéa de l'article 3 du présent arrêté, il est institué un jury pour chacune des options.
+
+A. - Epreuves écrites d'admissibilité
+
+1° Epreuve de sciences industrielles de l'ingénieur :
+
+L'épreuve est commune aux trois options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
+
+Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique automatique.
+
+Durée : six heures ; coefficient 1.
+
+2° Modélisation d'un système, d'un procédé ou d'une organisation :
+
+L'épreuve est spécifique à l'option choisie.
+
+A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable de synthétiser ses connaissances pour modéliser un système technique dans le domaine de la spécialité du concours dans l'option choisie en vue de prédire ou de vérifier son comportement et ses performances.
+
+Durée : six heures ; coefficient 1.
+
+3° Conception préliminaire d'un système, d'un procédé ou d'une organisation :
+
+L'épreuve est spécifique à l'option choisie.
+
+A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier les compétences d'un candidat à synthétiser ses connaissances pour proposer ou justifier des solutions de conception et d'industrialisation d'un système technique dans le domaine de la spécialité du concours dans l'option choisie.
+
+Durée : six heures ; coefficient 1.
+
+B. - Epreuves d'admission
+
+1° Exploitation pédagogique d'une activité pratique relative à l'approche globale d'un système pluritechnique :
+
+Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+
+L'épreuve fait appel à des connaissances technologiques et scientifiques communes aux trois options.
+
+Le support de l'activité pratique proposée est un système pluritechnique et permet une analyse systémique globale. L'exploitation pédagogique proposée, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques transversaux du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" et/ou sciences de l'ingénieur de la voie scientifique (SSI) du lycée et des classes préparatoires aux grandes écoles.
+
+L'épreuve a pour but d'évaluer l'aptitude du candidat à :
+
+- mettre en œuvre et conduire une expérimentation, une analyse de comportement d'un système réel ou d'un équipement, notamment à l'aide de systèmes informatiques associés à des logiciels de traitement, de simulation, de représentation ;
+
+- analyser et vérifier ou comparer les performances de tout ou partie de ce système pluritechnique, notamment à partir de modèles de comportement et de mesures ;
+
+- justifier ou critiquer les solutions constructives retenues et les choix relatifs à la réalisation (hypothèses, comparaison multicritère des choix techniques et des organisations, évaluations économiques, etc.) en regard du cahier des charges ;
+
+- exploiter les résultats obtenus et formuler des conclusions ;
+
+- concevoir et organiser le plan d'une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours des activités pratiques.
+
+Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des activités pratiques qui lui ont permis de construire sa séquence de formation, à décrire et situer la séquence de formation qu'il a élaborée.
+
+Au cours de l'entretien, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
+
+2° Activité pratique et exploitation pédagogique relatives à l'approche spécialisée d'un système pluritechnique
+
+Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+
+Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité du concours dans l'option choisie. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements technologiques de spécialité du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" du lycée et des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
+
+L'épreuve a pour but d'évaluer l'aptitude du candidat à :
+
+- mettre en œuvre des matériels ou équipements, associés si besoin à des systèmes informatiques de pilotage, de traitement, de simulation, de représentation ;
+
+- conduire une expérimentation, une analyse de fonctionnement d'une solution, d'un procédé, d'un processus, dans la spécialité du concours, afin d'analyser et vérifier les performances d'un système technique ;
+
+- exploiter les résultats obtenus et formuler des conclusions ;
+
+- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné et présenter de manière détaillée un ou plusieurs points-clefs des séances de formation constitutives. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours d'activités pratiques relatives à un système technique.
+
+Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des activités pratiques qui lui ont permis de construire sa proposition pédagogique.
+
+Au cours de l'entretien, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
+
+3° Epreuve sur dossier comportant deux parties :
+
+15 points sont attribués à la première partie et 5 points à la seconde (durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 2).
+
+Première partie : soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un des domaines de l'option préparée, suivie d'un entretien (présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
+
+L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en collège ou en lycée.
+
+Le dossier présenté par le candidat est relatif à un système technique dont la dominante est choisie par le candidat. Son authenticité et son actualité sont des éléments décisifs.
+
+L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
+
+En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en collège ou en lycée.
+
+Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat et s'en faire préciser certains points.
+
+Les éléments constitutifs du dossier sont précisés par note publiée sur le site internet du ministère chargé de l'éducation nationale.
+
+Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
+
+Seconde partie : interrogation portant sur la compétence "Agir en fonctionnaire de l'Etat et de façon éthique et responsable" (présentation : dix minutes ; entretien avec le jury : dix minutes).
+
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+
+L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
+
 Section sciences économiques et sociales
 
 A. - Epreuves écrites d'admissibilité
@@ -1367,450 +1391,6 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 3° Epreuve de mathématiques et statistique appliquées aux sciences sociales et économiques (durée de la préparation : une heure trente minutes ; durée de l'épreuve : trente minutes ; coefficient 2).
 
 Cette dernière épreuve porte sur un programme publié sur le site internet du ministère chargé de l'éducation nationale.
-
-Section mécanique
-
-A. - Epreuves écrites d'admissibilité
-
-1° Epreuve de mécanique générale et des milieux déformables :
-
-Cette épreuve porte sur :
-
-- d'une part, l'étude de problèmes relatifs à des systèmes mécaniques modélisables par un ensemble de solides indéformables. Elle utilise les résultats de la mécanique générale et de la mécanique analytique ;
-
-- d'autre part, sur l'étude de structures ou de processus, à l'aide de la mécanique des milieux déformables, solides et fluides et la thermodynamique.
-
-Elle conduit à des mises en équation et à des résolutions totales ou partielles, permettant d'atteindre des conclusions quant au comportement mécanique et à l'utilisation des systèmes considérés.
-
-Durée : six heures ; coefficient 1.
-
-2° Epreuve d'analyse et de conception des systèmes :
-
-Cette épreuve vise à l'étude et à la conception complète ou partielle d'un système mécanique et de ses éléments. Elle associe les connaissances de mécanique et de technologie dans la recherche de solutions techniques.
-
-Elle vise également à évaluer les capacités du candidat à intégrer les démarches technico-économiques reliant la définition des produits et leurs modes d'obtention, dans une logique d'optimisation en fonction de critères imposés. Elle doit permettre au candidat de mobiliser ses connaissances sur les matériaux et procédés et déboucher sur des propositions de définition préliminaire d'une ou de plusieurs pièces justifiées techniquement et économiquement.
-
-La résolution du problème posé nécessite :
-
-- l'analyse détaillée du cahier des charges ;
-
-- la lecture de représentations de systèmes réels ;
-
-- l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
-
-- la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
-
-Durée : huit heures ; coefficient 1.
-
-3° Epreuve d'automatique-informatique industrielle :
-
-Cette épreuve a pour but l'étude (analyse et conception) du comportement d'un système automatique et/ou la résolution d'un problème de traitement automatique de l'information.
-
-Le support d'étude peut être un produit manufacturé automatique ou un système de production, d'assemblage, de test ou de contrôle associé à un produit.
-
-Le travail demandé, s'il concerne principalement la commande du système étudié, inclut l'étude de son comportement mécanique et celle des caractéristiques des actionneurs, des capteurs et interfaces divers lorsqu'elles sont nécessaires à la détermination de la commande ou à l'explication de son comportement.
-
-Durée : six heures ; coefficient 1.
-
-Pour les épreuves 2° et 3°, les candidats composent sur le même sujet que celui remis au titre de la même session aux candidats du concours externe de l'agrégation de génie mécanique.
-
-B. - Epreuves d'admission
-
-1° Leçon de mécanique :
-
-L'épreuve porte sur un ensemble limité de thèmes définis par référence aux programmes des classes de lycée et des classes post-baccalauréat indiquées par le programme du concours.
-
-Un dossier définissant l'objectif de la leçon, le cadre de son organisation, notamment le niveau supposé des élèves, est remis au candidat. Il contient des documents techniques et scientifiques à utiliser.
-
-Lorsque le sujet l'autorise, le candidat peut également disposer pour sa préparation des ressources documentaires de la bibliothèque du concours.
-
-Cette épreuve permet d'évaluer les capacités du candidat à concevoir et à construire une leçon destinée à des élèves ou à des étudiants pour répondre à un objectif de formation défini.
-
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum ; entretien : quinze minutes maximum ; coefficient 1).
-
-2° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure et quinze minutes ; durée de l'épreuve : une heure maximum ; coefficient 1).
-
-Première partie : soutenance d'un dossier industriel (présentation du dossier : vingt minutes maximum ; entretien : vingt minutes maximum).
-
-L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique du domaine de la conception mécanique industrielle préparé par le candidat, suivie d'un entretien.
-
-Le dossier présenté par le candidat est relatif à un système technique à dominante mécanique. Son authenticité et son actualité sont des éléments décisifs. Il se caractérise par une compétitivité reconnue, par la modernité de sa conception et par sa disponibilité réelle, que le produit soit de type grand public ou de type équipement industriel non unitaire.
-
-Le produit répond à un cahier des charges fonctionnel, présent dans le dossier, et à des spécifications dont la description est conforme aux normes en vigueur.
-
-Le programme du concours précise les éléments constitutifs du dossier.
-
-En utilisant les moyens modernes de présentation (vidéoprojecteur et informatique associée en particulier), le candidat présente au jury le support technique qu'il a choisi pour l'épreuve, et les investigations et développements qu'il a conduits pour s'en approprier totalement le fonctionnement et les évolutions potentielles.
-
-Lors de la présentation, le candidat doit indiquer brièvement les thèmes et niveaux d'exploitations pédagogiques pertinents qu'il serait possible, selon lui, de tirer des points remarquables du dossier.
-
-Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat. Celles-ci peuvent conduire à explorer des pistes présentées dans le dossier mais qui n'ont pas fait l'objet d'une présentation orale suffisamment détaillée et à demander au candidat des explications relatives aux démarches utilisées dans les différentes phases des études techniques et scientifiques, voire des démonstrations liées à la mobilisation des outils informatiques exploités lors des études proposées dans le dossier.
-
-Les candidats doivent impérativement déposer au secrétariat du jury le dossier qu'ils doivent présenter cinq jours francs au moins avant la date de début des épreuves d'admission.
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-3° Travaux pratiques relatifs à un produit ou système technique :
-
-L'épreuve a pour but de vérifier les aptitudes des candidats à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et technologique, et d'en tirer des intentions pédagogiques à un niveau donné. Le travail demandé comporte :
-
-- la définition d'une méthodologie scientifique ou d'une démarche technologique rigoureuse ;
-
-- l'observation et la manipulation effective du candidat sur le site expérimental ;
-
-- la représentation synthétique des résultats obtenus ;
-
-- l'énoncé d'intentions pédagogiques adaptées aux objectifs imposés et au public supposé.
-
-Les manipulations s'appuient sur des produits et matériels réels prototypes ou produits industrialisés, éventuellement associés à des maquettes ou des montages didactiques, et sur la mise en œuvre d'outils informatiques de simulation.
-
-Pour la préparation de l'épreuve, un dossier est remis au candidat ; il comprend :
-
-- les éléments techniques nécessaires à la résolution du problème posé, notamment, les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les documents constructeurs utiles, la procédure de mise en œuvre des matériels ;
-
-- les éléments nécessaires à l'élaboration succincte des intentions pédagogiques pour l'organisation, à un niveau donné, d'une séquence à caractère expérimental utilisant le matériel proposé.
-
-Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
-
-Trente minutes avant la fin de la préparation, le candidat est placé dans la salle où il exposera ses travaux au jury. Il dispose des moyens d'expression usuels (notamment tableaux et rétroprojecteur) et peut utiliser le montage expérimental sur lequel il a travaillé. Cette dernière partie de la préparation est essentiellement consacrée à la mise en ordre des documents réalisés, la réalisation de documents nouveaux (transparents), la préparation du tableau et de l'environnement.
-
-L'exposé devant le jury porte sur :
-
-- la présentation des résultats de l'activité expérimentale. Cette présentation doit être associée à une analyse critique des résultats obtenus, des méthodes et des solutions proposées ;
-
-- la présentation de l'exploitation pédagogique. Cette présentation doit mettre en évidence la stratégie pédagogique utilisée, les connaissances fondamentales dégagées et les moyens permettant de vérifier qu'elles sont assimilées.
-
-Cet exposé est suivi d'un entretien.
-
-Durée de la préparation : cinq heures ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum dont trente minutes maximum pour la présentation des résultats de l'activité expérimentale et quinze minutes maximum pour la présentation de l'exploitation pédagogique ; entretien : quinze minutes maximum) ; coefficient 2.
-
-Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
-
-Section génie mécanique
-
-A. - Epreuves écrites d'admissibilité
-
-1° Epreuve d'étude d'industrialisation :
-
-L'épreuve a pour but d'évaluer la capacité du candidat à résoudre un problème de production industrielle. A partir d'un produit technique industrialisé, représentatif des technologies actuelles, l'épreuve porte sur tout ou partie des éléments suivants :
-
-- optimisation des relations produit-matériau-procédé ;
-
-- étude de processus de fabrication associés aux procédés de fabrication primaires (créant la forme), secondaires (modifiant la forme) et tertiaires (améliorant les caractéristiques d'une surface ou d'un volume de la pièce), de leur définition et de leur simulation ;
-
-- étude des systèmes de production et de contrôle relatifs aux procédés de transformation ;
-
-- étude des outillages associés aux processus (définition du cahier des charges et de l'aptitude à l'emploi, conception et qualification) ;
-
-- étude des systèmes d'organisation et de gestion des productions dans une logique d'optimisation technico-économique ;
-
-- étude des systèmes et des contraintes de montage et d'assemblage ;
-
-- étude des contrôles (dimensionnels, géométriques et fonctionnels) associés à l'optimisation de la qualité des pièces, des produits et des processus.
-
-Durée : six heures ; coefficient 1.
-
-2° Epreuve d'analyse et de conception des systèmes :
-
-Cette épreuve vise à l'étude et à la conception complète ou partielle d'un système mécanique et de ses éléments. Elle associe les connaissances de mécanique et de technologie dans la recherche de solutions techniques.
-
-Elle vise également à évaluer les capacités du candidat à intégrer les démarches technico-économiques reliant la définition des produits et leurs modes d'obtention, dans une logique d'optimisation en fonction de critères imposés. Elle doit permettre au candidat de mobiliser ses connaissances sur les matériaux et procédés et déboucher sur des propositions de définition préliminaire d'une ou plusieurs pièces justifiées techniquement et économiquement.
-
-La résolution du problème posé nécessite :
-
-- l'analyse détaillée du cahier des charges ;
-
-- la lecture de représentations de systèmes réels ;
-
-- l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
-
-- la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
-
-Durée : huit heures ; coefficient 1.
-
-3° Epreuve d'automatique-informatique industrielle :
-
-Cette épreuve a pour but l'étude (analyse et conception) du comportement d'un système automatique et/ou la résolution d'un problème de traitement automatique de l'information.
-
-Le support d'étude peut être un produit manufacturé automatique ou un système de production, d'assemblage, de test ou de contrôle associé à un produit.
-
-Le travail demandé, s'il concerne principalement la commande du système étudié, inclut l'étude de son comportement mécanique et celle des caractéristiques des actionneurs, des capteurs et interfaces divers lorsqu'elles sont nécessaires à la détermination de la commande ou à l'explication de son comportement.
-
-Durée : six heures ; coefficient 1.
-
-Pour les épreuves 2° et 3°, les candidats composent sur le même sujet que celui remis au titre de la même session aux candidats du concours externe de l'agrégation de mécanique.
-
-B. - Epreuves d'admission
-
-1° Leçon de technologie des procédés et processus :
-
-L'épreuve porte sur un ensemble limité de thèmes définis par référence aux programmes des classes de lycée et des classes post-baccalauréat indiquées par le programme du concours.
-
-Un dossier définissant l'objectif de la leçon, le cadre de son organisation, notamment le niveau supposé des élèves, est remis au candidat. Il contient des documents techniques et scientifiques à utiliser.
-
-Lorsque le sujet l'autorise, le candidat peut également disposer pour sa préparation des ressources documentaires de la bibliothèque du concours.
-
-Cette épreuve permet d'évaluer les capacités du candidat à concevoir et à construire une leçon destinée à des élèves ou à des étudiants pour répondre à un objectif de formation défini.
-
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum ; entretien : quinze minutes maximum) ; coefficient 1.
-
-2° Soutenance d'un dossier industriel :
-
-L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure trente minutes ; durée de l'épreuve : une heure maximum ; coefficient 1.)
-
-Première partie : soutenance devant le jury d'un dossier technique et scientifique du domaine de la production mécanique industrielle préparé par le candidat, suivie d'un entretien (présentation du dossier : vingt minutes maximum ; entretien : vingt minutes maximum).
-
-Le dossier présenté par le candidat est relatif à une production industrielle, dont l'authenticité et l'actualité sont des éléments décisifs. Cette production industrielle, qui se caractérise par une compétitivité reconnue et par la modernité des méthodes et moyens mis en œuvre industriellement, répond à un cahier des charges d'industrialisation, présent dans le dossier, et à des spécifications dont la description est conforme aux normes en vigueur.
-
-Le programme du concours précise les éléments constitutifs du dossier.
-
-En utilisant les moyens modernes de présentation (vidéoprojecteur et informatique associée en particulier), le candidat présente au jury le support et les moyens techniques de production qu'il a choisis pour l'épreuve, et les investigations et développements qu'il a conduits pour s'en approprier totalement la structure, le fonctionnement et les évolutions potentielles.
-
-Lors de la présentation, le candidat doit indiquer brièvement les thèmes et niveaux d'exploitations pédagogiques pertinents qu'il serait possible, selon lui, de tirer des points remarquables du dossier.
-
-Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat. Celles-ci peuvent conduire à explorer des pistes présentées dans le dossier mais qui n'ont pas fait l'objet d'une présentation orale suffisamment détaillée et à demander au candidat des explications relatives aux démarches utilisées dans les différentes phases des études techniques et scientifiques, voire des démonstrations liées à la mobilisation des outils informatiques exploités lors des études proposées dans le dossier.
-
-Les candidats doivent impérativement déposer au secrétariat du jury le dossier qu'ils doivent présenter cinq jours francs au moins avant la date de début des épreuves d'admission.
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-3° Travaux pratiques de mise en œuvre de moyens de production :
-
-L'épreuve a pour but d'évaluer les aptitudes du candidat à construire une réflexion technique et scientifique dans un cadre de mise en œuvre de moyens de production ou d'assemblage et de périphérique associés. Relative à une grande variété de procédés, elle porte sur tout ou partie des activités industrielles suivantes :
-
-- analyse des données d'industrialisation et du contexte proposé de mise en œuvre ;
-
-- identification des problèmes techniques ;
-
-- définition et exécution d'un programme d'expérimentation ;
-
-- analyse des résultats ;
-
-- proposition d'évolution des conditions de réalisation et validation des solutions proposées par la mise en œuvre finale ;
-
-- présentation synthétique des résultats obtenus.
-
-La problématique technique peut être relative au comportement de la pièce ou de l'outillage dans son environnement de transformation, à la mise en œuvre d'une production, à la nature des éléments constitutifs d'une chaîne d'action ou à l'analyse et la conduite d'un système automatisé.
-
-Pour la préparation de l'épreuve, un dossier technique de production est remis au candidat, contenant les éléments nécessaires à la résolution du problème posé, notamment, les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les documents constructeurs utiles, la procédure de mise en œuvre des matériels.
-
-Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
-
-A la fin de la préparation, le candidat expose ses travaux au jury.
-
-L'exposé porte sur la présentation des résultats de l'activité expérimentale. Le candidat dispose des moyens d'expression usuels de présentation (notamment tableaux et rétroprojecteur). A cette présentation doivent être associées une analyse critique des résultats obtenus, la justification des méthodes utilisées et celle des solutions proposées.
-
-Cet exposé est suivi d'un entretien.
-
-Durée de la préparation : sept heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
-
-Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
-
-Section génie civil
-
-A. - Epreuves écrites d'admissibilité
-
-1° Epreuve de modélisation des matériaux et des ouvrages :
-
-L'épreuve comporte deux parties.
-
-Première partie : matériaux et patrimoine.
-
-Cette partie porte sur la connaissance et l'analyse des propriétés des matériaux usuels du génie civil, en phase de conception, de mise en œuvre ou d'emploi. Sont aussi abordés les problèmes relatifs à l'évolution de leurs propriétés au cours du temps et aux conséquences en termes de satisfaction des fonctions d'usage.
-
-Seconde partie : modélisation mécanique des ouvrages.
-
-Cette partie porte sur la modélisation des ouvrages du génie civil, le traitement des modèles et l'exploitation des résultats. Les objets modélisés sont ceux de l'ensemble du champ de la construction (bâtiments et ouvrages d'art, équipements) et de leur environnement naturel ou technique. Le champ de la modélisation relève principalement de la mécanique des solides et des fluides et de la thermique.
-
-L'épreuve évalue la capacité du candidat à analyser les propriétés des matériaux, à définir un modèle pertinent, à le traiter en utilisant une méthode de résolution adaptée, à analyser et interpréter des résultats, à valider une modélisation.
-
-Chaque partie est prévue pour une durée de trois heures. Les sujets sont remis simultanément aux candidats au début de l'épreuve. Ceux-ci les traitent dans les limites de l'horaire imparti à l'ensemble de l'épreuve.
-
-Durée totale de l'épreuve : six heures ; coefficient 1.
-
-2° Epreuve de géotechnique et de qualité des ambiances :
-
-L'épreuve comporte deux parties.
-
-Première partie : géotechnique et environnement.
-
-Cette partie porte sur la caractérisation géotechnique des sites et des interactions des ouvrages avec leur environnement naturel, sur les plans géotechnique, hydrologique et hydrogéologique.
-
-Elle permet d'évaluer les capacités du candidat à mener à bien des études faisant appel aux connaissances fondamentales de la discipline, aux méthodes usuelles de dimensionnement et de réalisation des ouvrages géotechniques, à l'analyse de l'impact des ouvrages dans leur cadre naturel, urbanisé ou non, en conditions normales ou exceptionnelles (risques naturels).
-
-Seconde partie : qualité des ambiances.
-
-Cette partie concerne les champs disciplinaires permettant de caractériser les ambiances, que ce soit au niveau du confort, de l'hygiène ou de la santé des usagers.
-
-Elle permet d'évaluer les capacités du candidat à mobiliser des connaissances pour analyser les divers éléments d'une ambiance.
-
-Chaque partie est prévue pour une durée de trois heures. Les sujets sont remis simultanément aux candidats au début de l'épreuve. Ceux-ci les traitent dans les limites de l'horaire imparti à l'ensemble de l'épreuve.
-
-Durée totale de l'épreuve : six heures ; coefficient 1.
-
-3° Epreuve portant sur l'ingénierie de projet :
-
-Les candidats ont le choix, formulé au moment de l'inscription, entre deux options :
-
-- option A : matériaux, ouvrages et aménagement ;
-
-- option B : équipements et énergies.
-
-Pour l'option A, l'épreuve porte sur la conception, la réalisation et la maintenance des ouvrages dans les domaines de la construction et des aménagements.
-
-Elle permet d'évaluer les capacités du candidat à intégrer :
-
-- les logiques de fonctionnement mécanique des ouvrages et leur modélisation ;
-
-- la détermination des actions et leur combinaison ;
-
-- les calculs de dimensionnement et de vérification des ouvrages dans le cadre des réglementations nationales et européennes ;
-
-- les procédés et les technologies utilisés ;
-
-- l'organisation et la planification du chantier et sa logistique ;
-
-- les facteurs de l'économie de la construction ;
-
-- la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
-
-Pour l'option B, l'épreuve porte sur la conception, la réalisation et la maintenance des équipements techniques et des éléments relatifs au confort et à l'utilisation des bâtiments.
-
-Elle permet d'évaluer les capacités du candidat à intégrer :
-
-- les logiques de fonctionnement des installations ;
-
-- les calculs et les réglementations nationales et européennes en vigueur ;
-
-- les procédés et les technologies utilisés ;
-
-- l'organisation de chantier, la logistique et l'étude économique des opérations ;
-
-- la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
-
-Durée : huit heures ; coefficient 1.
-
-B. - Epreuves d'admission
-
-1° Leçon à caractère scientifique et technologique :
-
-L'épreuve porte sur la compréhension et l'analyse des propriétés ou phénomènes à l'œuvre dans les ouvrages et équipements techniques et de leurs conséquences en termes de modélisation, de réglementation, de conception et de technologie. Elle concerne un ensemble limité de thèmes définis par référence aux programmes des classes de lycée et des classes post-baccalauréat indiquées par le programme du concours.
-
-Un dossier définissant l'objectif de la leçon, le cadre de son organisation, notamment le niveau supposé des élèves, est remis au candidat. Il contient des documents techniques et scientifiques à utiliser.
-
-Lorsque le sujet l'autorise, le candidat peut également disposer pour sa préparation des ressources documentaires de la bibliothèque du concours.
-
-Cette épreuve permet d'évaluer les capacités du candidat à concevoir et à construire une leçon destinée à des élèves ou à des étudiants pour répondre à un objectif de formation défini. Le jury apprécie la pertinence du discours scientifique et technologique du candidat, son aptitude à exposer ses connaissances et à construire un cours (insertion dans le programme, élaboration d'une leçon et des outils pédagogiques adaptés, évaluation des élèves et actions de remédiation), ses capacités à répondre aux questions et à argumenter, ses capacités à adapter son discours et sa démarche en manifestant des préoccupations pédagogiques.
-
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 1.
-
-2° L'épreuve se déroule en deux parties :
-
-La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure trente minutes ; durée de l'épreuve : une heure maximum).
-
-Première partie : soutenance d'un dossier industriel (présentation du dossier : vingt minutes maximum ; entretien : vingt minutes maximum ; coefficient 1).
-
-L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique original, suivie d'un entretien.
-
-Le dossier, élaboré à partir d'un problème réel, est choisi et préparé par le candidat, sur un thème de son choix, présentant les aspects technologiques attachés à un ouvrage, une installation ou des équipements techniques. Le dossier est composé d'un ensemble de documents techniques (plans, schémas, éléments de notes de calculs, calendriers de travaux, documents relatifs à la réglementation, à la sécurité, aux coûts ou à tout autre aspect technique) sur lesquels le candidat a mené des investigations personnelles, qu'il a mis en forme (afin de pouvoir être utilisé en classe) et dont l'authenticité et l'actualité sont des éléments décisifs.
-
-Le programme du concours précise les éléments constitutifs de ce dossier.
-
-En utilisant les moyens modernes de présentation (vidéoprojecteur et informatique associée en particulier), le candidat présente au jury l'ouvrage, l'installation ou les équipements techniques qu'il a analysés, les investigations et développements qu'il a conduits pour s'en approprier totalement les caractéristiques technologiques.
-
-Lors de son exposé, le candidat doit indiquer les thèmes et niveaux d'exploitations pédagogiques pertinents qu'il serait possible, selon lui, de tirer des points remarquables du dossier technique.
-
-Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat. Celles-ci peuvent conduire à explorer des pistes présentées dans le dossier mais qui n'ont pas fait l'objet d'une présentation orale suffisamment détaillée et à demander au candidat des explications relatives aux démarches utilisées dans les différentes phases des études techniques et scientifiques, voire des démonstrations liées à la mobilisation des outils informatiques exploités lors des études proposées dans le dossier.
-
-Le jury apprécie la qualité du traitement du dossier, la connaissance du milieu professionnel, la cohérence avec le questionnement pédagogique, la maîtrise de la communication dont fait preuve le candidat.
-
-Les candidats doivent impérativement déposer au secrétariat du jury le dossier qu'ils doivent présenter cinq jours francs au moins avant la date de début des épreuves d'admission.
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-3° Travaux pratiques de laboratoire et de mise en œuvre.
-
-Les candidats ont le choix, formulé au moment de l'inscription, entre deux options :
-
-- option A : matériaux, ouvrages et aménagement ;
-
-- option B : équipements et énergies.
-
-L'épreuve a pour but de vérifier les aptitudes du candidat à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et/ou technologique et d'en proposer l'exploitation pédagogique.
-
-Un cadre de manipulation avec mise à disposition de matériel, de matériaux, de documentation technique, de logiciels, est proposé au candidat. Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
-
-Le candidat doit préparer une manipulation qui serait pratiquée devant des élèves afin de présenter une nouvelle notion, mettre en évidence un phénomène, caractériser un comportement, analyser l'écart entre le modèle théorique et le comportement observé. Il devra, pendant la durée de la préparation, organiser et mettre en œuvre les moyens de la manipulation et de l'exposé, procéder éventuellement à des essais et mesures.
-
-Pendant l'exposé, il doit présenter l'organisation pédagogique de la séquence devant élèves, procéder à la démonstration prévue, analyser et exploiter les résultats obtenus. L'exposé est suivi d'un entretien.
-
-Durée de la préparation : quatre heures maximum ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum dont trente minutes maximum pour la présentation des résultats de l'activité expérimentale et quinze minutes maximum pour la présentation de l'exploitation pédagogique ; entretien : quinze minutes maximum) ; coefficient 1.
-
-Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
-
-Section génie électrique
-
-A. - Epreuves écrites d'admissibilité
-
-1° Composition d'automatique et d'informatique industrielle (durée : six heures ; coefficient 1).
-
-2° Composition d'électronique (durée : six heures ; coefficient 1).
-
-3° Composition d'électrotechnique (durée : six heures ; coefficient 1).
-
-B. - Epreuves d'admission
-
-Les sujets des épreuves d'admission prennent appui sur les domaines ci-après des applications du génie électrique : domaine A : applications de l'électronique et des courants faibles ; domaine B : applications de l'électrotechnique et des courants forts.
-
-1° Epreuve de travaux pratiques portant sur un montage :
-
-Le sujet est tiré au sort par le candidat. Il porte, au choix du candidat au moment de l'épreuve, soit sur le domaine A, soit sur le domaine B.
-
-Le montage peut comporter des structures significatives de la dimension automatique et informatique nécessaire au cahier des charges de l'application proposée par le sujet.
-
-Préparation : cinq heures.
-
-Présentation : une heure.
-
-Coefficient 1.
-
-2° L'épreuve se déroule en deux parties :
-
-La première partie est notée sur 15 points, la seconde sur 5 points (préparation : cinq heures ; présentation et entretien avec le jury : une heure ; coefficient 1).
-
-Première partie : examen critique d'un dossier technique fourni au candidat par le jury.
-
-Le sujet, tiré au sort par le candidat, porte indifféremment sur les applications des domaines A et B (présentation : vingt minutes ; entretien avec le jury : vingt minutes).
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-3° Epreuve pédagogique consistant en la rédaction de documents à caractère pédagogique à partir d'une question posée par le jury :
-
-La question est empruntée au domaine A ou B non retenu par le candidat lors de la première épreuve d'admission.
-
-Préparation : cinq heures.
-
-Présentation : une heure.
-
-Coefficient 1.
-
-Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section biochimie - génie biologique
 
@@ -1928,48 +1508,62 @@ Section éducation physique et sportive
 
 A. - Epreuves écrites d'admissibilité
 
-1° Activités physiques et sportives et civilisations :
+1° Activités physiques sportives et artistiques et civilisations :
 
-Dissertation ou commentaire d'un document écrit portant sur la mise en pratique et le développement des activités physiques et sportives : déterminants historiques, économiques, sociaux et culturels (durée de la dissertation ou du commentaire : six heures ; coefficient 2).
-
-Le sujet porte sur un programme défini chaque année.
+Dissertation ou commentaire d'un écrit portant sur la mise en pratique et le développement des activités physiques sportives et artistiques : déterminants historiques, anthropologiques, économiques, sociaux et culturels (durée : six heures ; coefficient 3).
 
 2° Education physique et sportive et développement de la personne :
 
-Dissertation portant sur les aspects biologique, psychologique et sociologique des conduites développées en éducation physique et sportive (durée de la dissertation : sept heures ; coefficient 4).
+Dissertation portant sur les aspects biologique, psychologiques et sociologiques des conduites développées en éducation physique et sportive (durée : sept heures ; coefficient 4).
 
-Le sujet porte sur un programme défini chaque année.
+Le sujet de chacune des épreuves écrites portent sur un programme défini chaque année et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 B. - Epreuves d'admission
 
-1° Interrogation à partir d'un dossier d'établissement :
+1° Epreuve en deux parties :
 
-A partir d'une question posée par le jury, l'épreuve comprend un exposé et un entretien.
+La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : cinq heures ; durée totale de l'épreuve : une heure et quinze minutes ; coefficient 3).
 
-L'épreuve porte sur les finalités, la planification, la mise en place et l'évaluation de l'enseignement de l'éducation physique et sportive.
+Première partie : présentation de propositions pour l'éducation physique et sportive au sein d'un établissement scolaire du second degré.
 
-A partir d'un dossier fourni par le jury et comportant notamment des documents relatifs au projet d'éducation physique et sportive d'un établissement scolaire du second degré, le candidat devra montrer qu'il a réfléchi aux finalités et à l'évolution de l'éducation physique et sportive et qu'il est informé des conditions dans lesquelles s'effectuent les choix que font les équipes pédagogiques pour déterminer le programme d'enseignement de la discipline dans chaque classe. Il devra pouvoir faire des propositions sur ces questions. Une bibliographie indicative est publiée sur le site internet du ministère chargé de l'éducation nationale (durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes] ; coefficient 2).
+Cette première partie comporte un exposé suivi d'un entretien avec le jury ; elle porte sur les finalités, la planification, la mise en place et l'évaluation de l'enseignement de l'éducation physique et sportive.
 
-2° L'épreuve se déroule en deux parties :
+A partir d'un dossier fourni par le jury et comportant notamment des documents relatifs au projet d'éducation physique et sportive d'un établissement scolaire du second degré, le candidat devra présenter des propositions pour l'organisation de l'éducation physique et sportive dans le contexte singulier d'un établissement public local d'enseignement (EPLE) et en relation avec les différentes dimensions de son environnement.
 
-La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : cinq heures ; durée de l'épreuve : une heure trente-cinq minutes maximum ; coefficient 3).
+Exposé : vingt-cinq minutes ; entretien : trente minutes.
 
-Première partie : leçon devant le jury suivie d'un entretien et se référant à un programme limitatif d'activités physiques et sportives. Ce programme peut être assorti d'une bibliographie indicative publiée sur le site internet du ministère chargé de l'éducation nationale (leçon : trente minutes maximum ; entretien : quarante-cinq minutes).
+Seconde partie : interrogation portant sur la compétence "Agir en fonctionnaire de l'Etat et de façon éthique et responsable".
 
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
+Le candidat répond à une question, à partir d'un document qui lui a été remis au début de l'épreuve, et pour laquelle il a préparé les éléments de réponse pendant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010 susvisé. L'exposé se poursuit par un entretien avec le jury.
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Exposé : dix minutes ; entretien : dix minutes.
 
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
+2° Présentation d'une leçon d'éducation physique et sportive :
 
-3° Pratique et analyse d'une activité physique et sportive :
+A partir d'un dossier fourni par le jury, présentant notamment les caractéristiques des élèves d'une classe d'un établissement scolaire du second degré, le candidat présente une leçon ou des séquences de plusieurs leçons d'éducation physique et sportive s'adressant aux élèves de cette classe, dans le contexte singulier de l'EPLE et en référence à un programme limitatif d'activités physiques sportives et artistiques (APSA) supports de la leçon.
 
-Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles inscrites dans un programme défini chaque année. Cette pratique est suivie d'un entretien avec le jury à partir de l'enregistrement vidéo de la démonstration. Le candidat examine sa prestation avec le jury sans préparation. Il est autorisé à prendre des notes ; il peut donner à son commentaire l'orientation de son choix et n'est pas interrompu durant les dix premières minutes.
+Durée de la préparation : quatre heures ; durée de l'épreuve : une heure et vingt minutes (exposé : trente minutes ; entretien : cinquante minutes) ; coefficient 4.
 
-L'épreuve est appréciée pour moitié sur la prestation physique et pour moitié sur les qualités manifestées par le candidat lors de l'entretien, y compris celles attestant une maîtrise des techniques audiovisuelles (durée totale de l'épreuve hors prestation physique : une heure [projection et prise de notes par le candidat : dix minutes ; entretien : cinquante minutes] ; coefficient 2).
+3° Pratique et analyse d'une activité physique sportive et artistique :
 
-4° Pratique d'une activité physique et sportive :
+Réalisation par le candidat d'une prestation physique dans une APSA choisie, au moment de l'inscription au concours, parmi celles inscrites dans un programme défini chaque année. La prestation du candidat est filmée par le jury.
 
-Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles figurant dans un programme défini chaque année. L'activité choisie pour cette épreuve doit être différente de celle retenue pour la troisième épreuve d'admission (coefficient 1).
+Cette prestation physique est le support d'un oral avec le jury qui doit permettre d'aborder les questions d'ordre technique, tactique, réglementaire et culturel liées à l'APSA pratiquée. Le candidat prépare puis expose une analyse de sa prestation en fonction des indications fournies par le jury, à partir de la totalité de l'enregistrement ou d'extraits sélectionnés par le jury.
 
-Les programmes et la bibliographie indicative prévus pour certaines épreuves sont publiés chaque année sur le site internet du ministère chargé de l'éducation nationale.
+L'exposé se poursuit par un entretien avec ce dernier (durée de préparation de l'exposé : trente minutes ; exposé : dix minutes ; entretien avec le jury : quarante-cinq minutes).
+
+L'épreuve est appréciée pour moitié pour la prestation physique et pour moitié pour l'oral avec le jury.
+
+Coefficient 3.
+
+4° Pratique d'une activité physique sportive et artistique et entretien :
+
+Réalisation par le candidat d'une prestation physique dans une APSA différente de celles de l'épreuve n° 3, tirée au sort parmi celles figurant dans un programme défini chaque année.
+
+La prestation est suivie d'un entretien de vingt minutes avec le jury, ayant pour objet d'apprécier les connaissances du candidat sur les dimensions physiologiques et psychologiques liées à la pratique de cette APSA.
+
+L'épreuve est appréciée pour moitié pour la prestation physique et pour moitié pour l'entretien avec le jury.
+
+Coefficient 2.
+
+Le programme précisant la liste des APSA des épreuves 2°, 3° et 4 d'admission est publié sur le site internet du ministère chargé de l'éducation nationale.

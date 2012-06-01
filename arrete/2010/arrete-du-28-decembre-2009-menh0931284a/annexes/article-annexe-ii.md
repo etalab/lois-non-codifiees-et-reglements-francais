@@ -198,53 +198,47 @@ L'une des épreuves présentera une séquence d'enseignement sur un thème donn�
 
 Les épreuves orales ont pour objectif d'évaluer la capacité de concevoir, de mettre en œuvre et d'analyser l'enseignement d'une question mathématique donnée. Elles portent sur le programme de l'enseignement du second degré et sur une partie du programme complémentaire de l'écrit.
 
-Section sciences physiques
-
-Les candidats ont le choix lors de leur inscription entre deux options :
-
-Physique et chimie ;
-
-Physique et physique appliquée.
+Section physique-chimie
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition sur la physique et le traitement automatisé de l'information.
+1° Composition sur la physique et le traitement automatisé de l'information :
 
-Le programme de l'épreuve est défini par référence aux programmes de physique des classes de lycée, classes post-baccalauréat incluses. Il fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
-
-Durée : cinq heures ; coefficient 1.
-
-2° Composition avec exercices d'application sur les programmes de l'enseignement du second degré et sur un programme complémentaire publié sur le site internet du ministère chargé de l'éducation nationale.
+Le programme de l'épreuve est défini par référence aux programmes de physique des classes de collège et de lycée, classes post-baccalauréat incluses. Il fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Durée : cinq heures ; coefficient 1.
 
-Cette épreuve porte, selon l'option du candidat, sur la chimie ou sur la physique appliquée.
+2° Composition sur la chimie et le traitement automatisé de l'information.
+
+Le programme de l'épreuve est défini par référence aux programmes de chimie des classes de collège et de lycée, classes post-baccalauréat incluses. Il fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
+Durée : cinq heures ; coefficient 1.
 
 B. - Epreuves orales d'admission
 
-1° Exposé de leçon comportant des exercices et éventuellement un accompagnement expérimental. Le niveau indiqué est celui d'une classe de lycée, classes post-baccalauréat comprises. L'exposé est suivi d'un entretien.
+1° Exposé consistant en une présentation d'un concept et son exploitation pédagogique.
+
+Cette épreuve s'appuie sur les contenus d'enseignement à tous les niveaux du collège et du lycée, classes post-baccalauréat comprises.
 
 Durée de la préparation : quatre heures.
 
-Durée de l'épreuve : une heure vingt minutes.
+Durée de l'épreuve : une heure vingt minutes ; coefficient 1.
 
-Coefficient 1.
+2° Montage et traitement automatisé de l'information :
 
-2° Montage et traitement automatisé de l'information. Cette épreuve est composée d'expériences, pouvant mettre en œuvre l'ordinateur, illustrant l'enseignement donné à tous les niveaux dans les lycées d'enseignement général et technique. Le candidat doit choisir l'un des deux montages qui lui sont proposés. La présentation des expériences est suivie d'un entretien.
+Cette épreuve est composée d'expériences, pouvant mettre en œuvre l'ordinateur, illustrant l'enseignement donné à tous les niveaux du collège et du lycée, classes post-baccalauréat comprises. Le candidat doit choisir l'un des deux montages qui lui sont proposés. La présentation des expériences est suivie d'un entretien.
 
 Durée de la préparation : quatre heures.
 
-Durée de l'épreuve : une heure vingt minutes.
+Durée de l'épreuve : une heure vingt minutes ; coefficient 1.
 
-Coefficient 1.
+Une des épreuves orales porte sur la physique, l'autre sur la chimie.
 
-Une des épreuves orales porte sur la physique, l'autre selon l'option choisie par le candidat à l'écrit, sur la chimie ou sur la physique appliquée.
-
-Chacune des épreuves définies ci-dessus a lieu après quatre heures de préparation surveillée dans un laboratoire. La durée de chaque épreuve est d'une heure et vingt minutes. Dans chaque option, des livres, y compris les manuels du second cycle et des documents d'intérêt général, imprimés ou dactylographiés, agréés par le jury, et ne comportant aucune annotation manuscrite, sont mis à la disposition des candidats pour les épreuves définitives, et laissés à la disposition de l'ensemble des candidats pendant toute la durée des épreuves. Ils sont rassemblés au centre d'examen avant le début de ces épreuves et ils peuvent être examinés par les candidats après le tirage au sort de la série.
+Pour les épreuves orales d'admission, des livres et des documents d'intérêt général, imprimés ou dactylographiés, agréés par le jury, et ne comportant aucune annotation manuscrite, ainsi que du matériel destiné au montage ou à d'éventuelles expériences de cours sont mis à la disposition des candidats, et laissés à la disposition de l'ensemble de ces candidats pendant toute la durée des épreuves. Livres, documents et matériel sont rassemblés au centre d'examen avant le début de ces épreuves et ils peuvent être examinés par les candidats après le tirage au sort de la série.
 
 En outre, un préparateur présent pendant toute la durée des épreuves orales est à la disposition des candidats pour leur apporter l'aide qu'il donne habituellement aux professeurs lors de la préparation de leurs classes.
 
-Le programme sur lequel portent les épreuves écrites et orales est publié chaque année sur le site internet du ministère chargé de l'éducation nationale.
+Le programme sur lequel portent les épreuves écrites et orales est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section sciences de la vie
 
@@ -252,31 +246,39 @@ Sciences de la Terre et de l'Univers
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition à partir d'un dossier fourni au candidat. Le candidat propose, pour des niveaux et des objectifs désignés,f une progression, expose en détail un point particulier en l'illustrant d'exemples, élabore des exercices d'application et prévoit une évaluation.
+1° Composition à partir d'un dossier fourni au candidat.
 
-Durée : cinq heures.
+Pour des niveaux et des objectifs désignés, le candidat est amené à proposer une progression, et/ou à exposer en détail un point particulier en l'illustrant d'exemples, et/ou à élaborer des exercices et prévoir une évaluation, en s'appuyant sur des éléments d'un dossier fourni.
 
-Coefficient 1.
+Durée de l'épreuve : cinq heures ; coefficient 1.
 
-2° Epreuve scientifique à partir d'une question de synthèse dans une discipline n'ayant pas fait l'objet de la première composition et portant sur le programme des collèges, des lycées et celui des classes préparatoires.
+2° Epreuve scientifique à partir d'une question de synthèse :
 
-Durée : cinq heures.
+L'épreuve porte sur le programme des collèges, des lycées et celui des classes préparatoires.
 
-Coefficient 1.
+Durée de l'épreuve : cinq heures ; coefficient 1.
+
+Les deux épreuves d'admissibilité permettent d'aborder différents domaines des sciences de la vie, de la Terre et de l'Univers.
 
 B. - Epreuves orales d'admission
 
-1° Un exposé de leçon comportant des exercices et destinée à une classe de collège ou de lycée. L'exposé est suivi d'un entretien.
+Les candidats démontrent leur maîtrise de la conception et de la mise en œuvre de leur enseignement de sciences de la vie et de la Terre au cours de deux épreuves d'admission. Chaque sujet précise le ou les niveaux correspondants des programmes de collège et/ou de lycée. Chaque candidat est amené, sur l'ensemble des deux épreuves, à aborder le collège et le lycée ainsi que différents domaines des sciences de la vie, de la Terre et de l'Univers.
 
-Durée de la préparation : trois heures.
+1° Activités pratiques et travail de classe :
 
-Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes ; coefficient 1,5).
+Le candidat présente concrètement des activités pratiques, intégrées dans un cheminement problématisé. Il montre explicitement comment le travail de la classe vise à permettre aux élèves de construire des compétences (contenus, savoir-faire, attitudes), notamment à travers les productions attendues. Le scénario proposé inclut la prise en compte des difficultés et de la diversité des élèves.
 
-2° Epreuve professionnelle au niveau lycée comportant la présentation de travaux pratiques et de techniques de classes ; elle porte sur une discipline différente de celle de la première épreuve. La présentation est suivie d'un entretien.
+La présentation par le candidat est suivie d'un entretien.
 
-Durée de la préparation : trois heures.
+Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes) ; coefficient : 1,5.
 
-Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes ; coefficient 1,5).
+2° Exposé :
+
+Le candidat présente un exposé construit, problématisé, en s'appuyant sur des documents et/ou des démonstrations concrètes. Il inclut au moins une situation d'évaluation.
+
+L'exposé est suivi d'un entretien.
+
+Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes) ; coefficient : 1,5.
 
 Section musique
 
@@ -418,6 +420,84 @@ Durée de la préparation : trois heures ; durée de l'épreuve : quarante-cinq 
 
 Un programme de mathématiques et statistiques appliquées aux sciences économiques et sociales est publié sur le site internet du ministère chargé de l'éducation nationale.
 
+Section sciences industrielles de l'ingénieur
+
+L'agrégation interne de sciences industrielles de l'ingénieur comprend trois options :
+
+- option sciences industrielles de l'ingénieur et ingénierie mécanique ;
+
+- option sciences industrielles de l'ingénieur et ingénierie électrique ;
+
+- option sciences industrielles de l'ingénieur et ingénierie des constructions.
+
+Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'un classement distinct selon l'option choisie. Pour l'application du premier alinéa de l'article 3 du présent arrêté, il est institué un jury pour chacune des options.
+
+A. - Epreuves écrites d'admissibilité
+
+1° Epreuve de sciences industrielles de l'ingénieur :
+
+L'épreuve est commune aux trois options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
+
+Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse aux besoins exprimés par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique automatique.
+
+Durée : quatre heures ; coefficient 2.
+
+2° Epreuve de conception préliminaire et modélisation d'un système, d'un procédé ou d'une organisation :
+
+L'épreuve est spécifique à l'option choisie.
+
+A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable de synthétiser ses connaissances pour modéliser, valider ou concevoir des solutions constructives ou d'industrialisation d'un système technique dans le domaine de la spécialité du concours dans l'option choisie.
+
+Durée : six heures ; coefficient 1.
+
+B. - Epreuves d'admission
+
+1° Activité pratique et exploitation pédagogique d'un système pluritechnique :
+
+Dans l'option choisie, le candidat détermine, au moment de l'inscription, un domaine d'activité parmi les deux proposés ci-après :
+
+- "conception des systèmes mécaniques" ou "industrialisation des systèmes mécaniques" pour l'option sciences industrielles de l'ingénieur et ingénierie mécanique ;
+
+- "systèmes d'information" ou "gestion de l'énergie" pour l'option sciences industrielles de l'ingénieur et ingénierie électrique ;
+
+- "constructions" ou "énergétique" pour l'option sciences industrielles de l'ingénieur et ingénierie des constructions.
+
+Durée totale : six heures (activités pratiques : 4 heures ; préparation de l'exposé : une heure ; exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+
+Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité de l'agrégation. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements technologiques de spécialité du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" du lycée et des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
+
+L'épreuve a pour but d'évaluer l'aptitude du candidat à :
+
+- mettre en œuvre des matériels ou équipements, associés si besoin à des systèmes informatiques de pilotage, de traitement, de simulation, de représentation ;
+
+- conduire une expérimentation, une analyse de fonctionnement d'une solution, d'un procédé, d'un processus afin d'analyser et vérifier les performances d'un système technique ;
+
+- exploiter les résultats obtenus et formuler des conclusions.
+
+- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné et présenter de manière détaillée un ou plusieurs points-clefs des séances de formation constitutives. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours des activités pratiques relatives à un système technique.
+
+Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des activités pratiques qui lui ont permis de construire sa proposition pédagogique.
+
+Au cours de l'entretien, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
+
+2° Epreuve sur dossier :
+
+Durée de la préparation : une heure ; durée totale de l'épreuve : une heure ; coefficient 1.
+
+L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un domaine de l'option préparée, suivie d'un entretien (présentation n'excédant pas quarante minutes ; entretien avec le jury : vingt minutes au maximum).
+
+L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en collège ou en lycée. L'authenticité et l'actualité du support sont des éléments importants.
+
+L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
+
+En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en collège ou en lycée.
+
+Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat et s'en faire préciser certains points.
+
+Les éléments constitutifs du dossier sont précisés par note publiée sur le site internet du ministère chargé de l'éducation nationale.
+
+Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
+
 Section mécanique
 
 Section génie mécanique
@@ -507,202 +587,6 @@ Les qualités d'expression et de communication du candidat.
 Durée maximale : huit heures.
 
 Coefficient 1.
-
-Cette épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence à caractère expérimental, élément d'un processus d'apprentissage.
-
-Elle permet d'évaluer les capacités du candidat à :
-
-Proposer et justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ;
-
-Réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
-
-Le programme du concours est défini par référence aux programmes des BTS et DUT de la spécialité.
-
-Section génie civil
-
-Les candidats choisissent, au moment de l'inscription, de concourir :
-
-Soit dans l'option A : structures et ouvrages ;
-
-Soit dans l'option B : équipements techniques et énergie.
-
-A. - Epreuves écrites d'admissibilité
-
-Les sujets de ces épreuves peuvent comporter une partie commune à l'option A et à l'option B :
-
-1° Première épreuve.
-
-Durée maximale : huit heures ; coefficient 1.
-
-L'épreuve, qui prend appui sur un système industriel défini par une documentation technique, s'organise en deux parties :
-
-La première permet d'évaluer les capacités du candidat à utiliser ses connaissances scientifiques et techniques pour expliciter ou valider les solutions retenues ;
-
-La seconde permet d'évaluer les capacités du candidat à utiliser le support proposé pour élaborer un exercice permettant l'évaluation des connaissances et méthodes acquises par les élèves.
-
-Le candidat doit situer l'exercice dans un processus d'apprentissage et par rapport aux autres enseignements scientifiques ou techniques qui lui sont associés.
-
-2° Deuxième épreuve.
-
-Durée maximale : six heures ; coefficient 1.
-
-L'épreuve porte sur l'étude d'un système du domaine du génie civil.
-
-Elle permet d'évaluer les capacités du candidat :
-
-A mobiliser ses connaissances en mécanique et en méthodes de construction pour résoudre un problème concernant un ouvrage de génie civil ou un système d'équipement ;
-
-A proposer, pour certains points clés de la résolution du problème, la ressource méthodologique nécessaire à un niveau de formation déterminé. Ce niveau est défini par référence à une classe et à une section (classes terminales de baccalauréat, classes préparatoires, BTS, DUT).
-
-B. - Epreuves orales d'admission
-
-1° Première épreuve.
-
-Durée : une heure ; coefficient 1.
-
-L'épreuve consiste en la présentation et la soutenance par le candidat d'un dossier original relatif à un projet qu'il a conduit dans le cadre de l'option choisie. Le candidat doit déposer impérativement au secrétariat du jury le dossier qu'il doit présenter cinq jours francs au moins avant la date de l'épreuve.
-
-Le thème du projet est pris dans les programmes des enseignements technologiques de la spécialité donnés dans les classes terminales de lycée ou dans les classes postbaccalauréat.
-
-Le projet doit mettre en valeur :
-
-D'une part, la dimension technologique du thème dans ses composantes scientifiques, techniques et aussi économiques, sociales et humaines ;
-
-D'autre part, les aspects pédagogiques en relation avec le niveau d'enseignement retenu.
-
-Le candidat dispose de trente minutes pour présenter :
-
-Les raisons qui l'ont conduit au choix du thème ;
-
-Les réalisations (documents, matériels, logiciels) relatives aux aspects techniques et pédagogiques du projet ;
-
-Les objectifs pédagogiques retenus, leur opérationnalisation, notamment les modes et critères d'évaluation retenus ;
-
-Les documents d'enseignement établis.
-
-Le jury, au cours de l'entretien de trente minutes qui suit l'exposé, peut :
-
-Faire approfondir certains points du projet ;
-
-Demander des précisions sur les solutions techniques adoptées ;
-
-Faire expliciter certains aspects de la démarche pédagogique.
-
-Le jury apprécie :
-
-La valeur industrielle, technique et économique du thème retenu ;
-
-La qualité du travail effectué ;
-
-Les connaissances scientifiques et techniques du candidat ;
-
-La maîtrise de la didactique de la discipline, des méthodes et moyens d'enseignement ;
-
-La connaissance de l'environnement du système technique support du thème ;
-
-Les qualités d'expression et de communication du candidat.
-
-2° Deuxième épreuve.
-
-Durée maximale : huit heures : coefficient 1.
-
-Cette épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence à caractère expérimental, élément d'un processus d'apprentissage.
-
-Elle permet d'évaluer les capacités du candidat à :
-
-Proposer et justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ;
-
-Réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
-
-Le programme du concours est défini par référence aux programmes des BTS et DUT de la spécialité.
-
-Section génie électrique
-
-Les candidats choisissent au moment de l'inscription de concourir :
-
-Soit dans l'option A : électronique et informatique industrielle ;
-
-Soit dans l'option B : électrotechnique et électronique de puissance.
-
-A. - Epreuves écrites d'admissibilité
-
-Les sujets de ces épreuves peuvent comporter une partie commune à l'option A et à l'option B.
-
-1° Première épreuve.
-
-Durée maximale : huit heures ; coefficient 1.
-
-L'épreuve, qui prend appui sur un système industriel défini par une documentation technique, s'organise en deux parties :
-
-La première permet d'évaluer les capacités du candidat à utiliser ses connaissances scientifiques et techniques pour expliciter ou valider les solutions retenues ;
-
-La seconde permet d'évaluer les capacités du candidat à utiliser le support proposé pour élaborer un exercice permettant l'évaluation des connaissances et méthodes acquises par les élèves.
-
-Le candidat doit situer l'exercice dans un processus d'apprentissage et par rapport aux autres enseignements scientifiques ou techniques qui lui sont associés.
-
-2° Deuxième épreuve.
-
-Durée maximale : six heures ; coefficient 1.
-
-L'épreuve porte sur l'étude d'un problème d'automatisation.
-
-Elle permet d'évaluer les capacités du candidat :
-
-A mobiliser ses connaissances en automatique pour analyser et résoudre un problème d'automatisation ;
-
-A proposer pour certains points clés mis en évidence lors de l'étude, la ressource méthodologique et les techniques pédagogiques nécessaires à l'enseignement à un niveau de formation déterminé. Ce niveau est défini par référence à une classe et à une section (classes terminales de baccalauréat, classes préparatoires, BTS, DUT).
-
-B. - Epreuves orales d'admission
-
-1° Première épreuve.
-
-Durée : une heure ; coefficient 1.
-
-L'épreuve consiste en la présentation et la soutenance par le candidat d'un dossier original relatif à un projet qu'il a conduit dans le cadre de l'option choisie. Le candidat doit déposer impérativement au secrétariat du jury le dossier qu'il doit présenter cinq jours au moins avant la date de l'épreuve.
-
-Le thème du projet est pris dans les programmes des enseignements technologiques de la spécialité donnés dans les classes terminales de lycée ou dans les classes post-baccalauréat.
-
-Le projet doit mettre en valeur :
-
-D'une part, la dimension technologique du thème dans ses composantes scientifiques, techniques et aussi économiques, sociales et humaines ;
-
-D'autre part, les aspects pédagogiques en relation avec le niveau d'enseignement retenu.
-
-Le candidat dispose de trente minutes pour présenter :
-
-Les raisons qui l'ont conduit au choix du thème ;
-
-Les réalisations (documents, matériels, logiciels) relatives aux aspects techniques et pédagogiques du projet ;
-
-Les objectifs pédagogiques retenus, leur opérationnalisation, notamment les modes et critères d'évaluation retenus ;
-
-Les documents d'enseignement établis.
-
-Le jury, au cours de l'entretien de trente minutes qui suit l'exposé, peut :
-
-Faire approfondir certains points du projet ;
-
-Demander des précisions sur les solutions techniques adoptées ;
-
-Faire expliciter certains aspects de la démarche pédagogique.
-
-Le jury apprécie :
-
-La valeur industrielle, technique et économique du thème retenu ;
-
-La qualité du travail effectué ;
-
-Les connaissances scientifiques et techniques du candidat ;
-
-La maîtrise de la didactique de la discipline, des méthodes et moyens d'enseignement ;
-
-La connaissance de l'environnement du système technique support du thème ;
-
-Les qualités d'expression et de communication du candidat.
-
-2° Deuxième épreuve.
-
-Durée maximale : huit heures ; coefficient 1.
 
 Cette épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence à caractère expérimental, élément d'un processus d'apprentissage.
 
