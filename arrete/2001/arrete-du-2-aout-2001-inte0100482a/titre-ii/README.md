@@ -1,3 +1,4 @@
 # TITRE II : NATURE ET DURÉE DES ÉPREUVES
 
-- [Chapitre Ier : Le concours prévu à l'article 6 du décret n° 2001-682 du 30 juillet 2001 susvisé.](chapitre-ier)
+- [Chapitre Ier : Concours externe de capitaine.](chapitre-ier)
+- [Chapitre II : Concours interne de capitaine.](chapitre-ii)

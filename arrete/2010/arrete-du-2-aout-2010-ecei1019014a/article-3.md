@@ -4,8 +4,8 @@ Pour effectuer la visite de contrôle en vue du classement d'un village résiden
 
 L'organisme évaluateur établit le certificat de visite qui comprend :
 
-― le rapport de contrôle mentionné au a de l'article D. 323-6 du code du tourisme, conforme au modèle homologué par le présent arrêté, qui figure en annexe III ;
+― le rapport de contrôle mentionné au a de l'article D. 323-6 du code du tourisme conforme à un modèle établi par l'organisme mentionné à l'article L. 141-2 de ce même code ;
 
-― la grille de contrôle mentionnée au b de l'article D. 323-6 du même code, conforme au modèle homologué par le présent arrêté, qui figure en annexe IV.
+― la grille de contrôle mentionnée au b de l'article D. 323-6 conforme à un modèle établi par l'organisme mentionné à l'article L. 141-2 de ce même code.
 
 L'organisme évaluateur se conforme obligatoirement au guide de contrôle du tableau de classement des villages résidentiels de tourisme publié sur le site internet de l'organisme mentionné à l'article L. 141-2 du code du tourisme.
