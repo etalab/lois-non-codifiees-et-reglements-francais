@@ -1,6 +1,5 @@
 # 1973
 
-- [Décret n°73-216 du 1 mars 1973](decret-n73-216-du-1-mars-1973)
 - [Décret n°73-225 du 2 mars 1973](decret-n73-225-du-2-mars-1973)
 - [Décret n°73-938 du 2 octobre 1973](decret-n73-938-du-2-octobre-1973)
 - [Décret n° 73-879 du 4 septembre 1973](decret-n-73-879-du-4-septembre-1973)

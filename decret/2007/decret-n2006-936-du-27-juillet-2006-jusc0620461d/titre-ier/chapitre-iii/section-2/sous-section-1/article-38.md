@@ -1,5 +1,0 @@
-# Article 38
-
-Dans les deux mois qui suivent la publication au bureau des hypothèques du commandement de payer valant saisie, le créancier poursuivant assigne le débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation.
-
-L'assignation doit être délivrée dans un délai compris entre un et trois mois avant la date de l'audience.

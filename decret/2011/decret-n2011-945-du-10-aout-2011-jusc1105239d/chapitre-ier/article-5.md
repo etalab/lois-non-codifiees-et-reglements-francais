@@ -14,9 +14,9 @@ La signification contient, à peine de nullité, outre les mentions prescrites p
 
 5° Si l'ordonnance statue sur le sort de meubles laissés sur place :
 
-a) L'avertissement qu'à défaut d'opposition dans le délai indiqué il ne pourra plus exercer aucun recours et qu'il pourra être procédé à l'évacuation des biens laissés sur place ;
+a) L'avertissement qu'à défaut d'opposition dans le délai indiqué il ne pourra plus exercer aucun recours et qu'il pourra être procédé à la vente des biens laissés sur place ou à leur évacuation ;
 
-b) La sommation d'avoir à les retirer dans le délai d'un mois suivant la signification de l'ordonnance et le rappel des dispositions de l'article 207 du décret du 31 juillet 1992 susvisé.
+b) La sommation d'avoir à les retirer dans le délai d'un mois suivant la signification de l'ordonnance et le rappel des dispositions des deuxième et troisième alinéas de l'article R. 433-5 et de l'article R. 433-6 du code des procédures civiles d'exécution.
 
 Si la signification est faite à personne, l'huissier de justice doit porter verbalement à la connaissance du locataire les indications mentionnées aux alinéas précédents.
 
