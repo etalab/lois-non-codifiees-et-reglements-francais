@@ -10,6 +10,4 @@ a) D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscrip
 
 b) D'un fait de nature à porter atteinte à l'ordre ou au bon fonctionnement d'un établissement mentionné à l'article 1er ;
 
-c) D'une fraude ou d'une tentative de fraude commise à l'occasion du baccalauréat ;
-
-d) D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription dans un établissement d'enseignement supérieur privé lorsque cette inscription ouvre l'accès à un examen de l'enseignement supérieur public ou d'une fraude ou tentative de fraude commise dans cette catégorie d'établissement ou dans un établissement mentionné à l'article 1er, à l'occasion d'un examen conduisant à l'obtention d'un diplôme national.
+c) D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription dans un établissement d'enseignement supérieur privé lorsque cette inscription ouvre l'accès à un examen de l'enseignement supérieur public ou d'une fraude ou tentative de fraude commise dans cette catégorie d'établissement ou dans un établissement mentionné à l'article 1er, à l'occasion d'un examen conduisant à l'obtention d'un diplôme national.

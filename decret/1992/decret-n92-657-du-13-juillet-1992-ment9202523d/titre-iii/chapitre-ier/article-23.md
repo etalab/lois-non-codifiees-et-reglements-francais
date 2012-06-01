@@ -6,4 +6,4 @@ Les poursuites sont engagées devant la section disciplinaire compétente :
 
 En cas de défaillance de l'autorité responsable, le recteur d'académie peut engager la procédure après avoir saisi cette autorité depuis au moins un mois ;
 
-2° Par le recteur d'académie dans les cas prévus à l'article 4.
+2° Par le recteur d'académie dans le cas prévu à l'article 4.
