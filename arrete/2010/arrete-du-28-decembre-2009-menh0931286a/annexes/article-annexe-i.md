@@ -128,7 +128,29 @@ Section éducation musicale et chant choral
 
 A. ― Epreuves d'admissibilité
 
-1° Epreuve de culture musicale et artistique :
+1° Epreuve de technique musicale :
+
+Cette épreuve comporte deux parties distinctes.
+
+1. Ecriture :
+
+La partition présentée par le sujet est constituée de deux parties enchaînées A et B. La partie A présente une mélodie accompagnée de son harmonisation, la partie B uniquement la suite de la mélodie initiale. Le candidat réalise l'harmonisation de la mélodie proposée par la partie B, en tenant compte des caractéristiques de la partie A et d'éventuelles contraintes complémentaires posées par le sujet.
+
+Durée minimum : trois heures.
+
+2. Analyse auditive et commentaire comparé d'extraits musicaux enregistrés.
+
+Cette partie de l'épreuve comporte :
+
+- d'une part, un commentaire comparé : dans le cadre d'une problématique issue des programmes de collège ou de lycée et formulée par le sujet, le candidat réalise le commentaire comparé de plusieurs extraits musicaux enregistrés. Un ou plusieurs extraits peuvent être identifiés. Les extraits musicaux sont diffusés successivement et à plusieurs reprises ;
+
+- d'autre part, la transcription musicale d'un extrait entendu à plusieurs reprises : trente minutes avant la fin de l'épreuve, l'un des extraits, éventuellement réduit dans sa durée, est de nouveau diffusé à plusieurs reprises, chacune séparée par une à trois minutes de silence. Le candidat transcrit le plus grand nombre d'éléments musicaux caractérisant l'extrait entendu. Le diapason mécanique est autorisé.
+
+Durée maximum : deux heures.
+
+Durée totale de l'épreuve : cinq heures ; coefficient 3.
+
+2° Epreuve de culture musicale et artistique :
 
 L'épreuve prend appui sur un ensemble de documents identifiés comprenant un choix de textes, partitions et / ou éléments iconographiques, et un ou plusieurs extraits musicaux enregistrés.
 
@@ -143,28 +165,6 @@ Le ou les extraits enregistrés sont diffusés à plusieurs reprises durant l'é
 ― une dernière fois, une heure avant la fin de l'épreuve.
 
 Durée : cinq heures ; coefficient 3.
-
-2° Epreuve de technique musicale :
-
-Cette épreuve comporte deux parties distinctes.
-
-1. Ecriture :
-
-La partition présentée par le sujet est constituée de deux parties enchaînées A et B. La partie A présente une mélodie accompagnée de son harmonisation, la partie B uniquement la suite de la mélodie initiale. Le candidat réalise l'harmonisation de la mélodie proposée par la partie B, en tenant compte des caractéristiques de la partie A et d'éventuelles contraintes complémentaires posées par le sujet.
-
-Durée minimum : trois heures.
-
-2. Analyse auditive et commentaire comparé d'extraits musicaux enregistrés.
-
-Cette partie de l'épreuve comporte :
-
-― d'une part, un commentaire comparé : dans le cadre d'une problématique issue des programmes de collège ou de lycée et formulée par le sujet, le candidat réalise le commentaire comparé de plusieurs extraits musicaux enregistrés. Un ou plusieurs extraits peuvent être identifiés. Les extraits musicaux sont diffusés successivement et à plusieurs reprises ;
-
-― d'autre part, la transcription musicale d'un extrait entendu à plusieurs reprises : trente minutes avant la fin de l'épreuve, l'un des extraits, éventuellement réduit dans sa durée, est de nouveau diffusé à plusieurs reprises, chacune séparée par une à trois minutes de silence. Le candidat transcrit le plus grand nombre d'éléments musicaux caractérisant l'extrait entendu. Le diapason mécanique est autorisé.
-
-Durée maximum : deux heures.
-
-Durée totale de l'épreuve : cinq heures ; coefficient 3.
 
 B. ― Epreuves d'admission
 
@@ -258,7 +258,7 @@ La leçon est suivie d'un entretien avec le jury, au cours duquel le candidat es
 
 Le jury met à la disposition des candidats la documentation qu'il juge utile.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
 
 L'épreuve permet au candidat de montrer :
 
@@ -300,7 +300,7 @@ B. ― Epreuves d'admission
 
 Durée de la préparation : trois heures ; durée de l'épreuve : une heure (première partie : exposé : vingt minutes ; entretien : dix minutes ; seconde partie : exposé : vingt minutes ; entretien : dix minutes) ; coefficient 3.
 
-L'épreuve prend appui sur un ou des documents proposés par le jury se rapportant à une des notions culturelles des programmes de collège ou de lycée. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements audio ou vidéo.L'épreuve comporte deux parties :
+L'épreuve prend appui sur un ou des documents proposés par le jury se rapportant à une des notions culturelles des programmes de collège ou de lycée. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements audio ou vidéo. L'épreuve comporte deux parties :
 
 ― une première partie en langue corse consistant en la présentation, l'étude et, le cas échéant, la mise en relation des documents, suivie d'un entretien en langue corse ;
 
@@ -308,7 +308,7 @@ L'épreuve prend appui sur un ou des documents proposés par le jury se rapporta
 
 Chaque partie compte pour moitié dans la notation. La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.) La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.) La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
 Première partie : étude de dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury n'excédant pas vingt minutes.)
 
@@ -376,7 +376,7 @@ B. ― Epreuves d'admission
 
 Durée de la préparation : trois heures ; durée de l'épreuve : une heure (première partie : exposé : vingt minutes ; entretien : dix minutes ; seconde partie : exposé : vingt minutes ; entretien : dix minutes) ; coefficient 3.
 
-L'épreuve prend appui sur un ou des documents proposés par le jury se rapportant à une des notions culturelles des programmes de collège ou de lycée. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements audio ou vidéo.L'épreuve comporte deux parties :
+L'épreuve prend appui sur un ou des documents proposés par le jury se rapportant à une des notions culturelles des programmes de collège ou de lycée. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements audio ou vidéo. L'épreuve comporte deux parties :
 
 ― une première partie en langue régionale consistant en la présentation, l'étude et, le cas échéant, la mise en relation des documents, suivie d'un entretien en langue régionale ;
 
@@ -384,7 +384,7 @@ L'épreuve prend appui sur un ou des documents proposés par le jury se rapporta
 
 Chaque partie compte pour moitié dans la notation. La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
 
 Première partie : étude de dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury n'excédant pas vingt minutes.)
 
@@ -444,7 +444,7 @@ L'épreuve comporte deux parties :
 
 Chaque partie compte pour moitié dans la notation.
 
-2° Epreuve sur dossier en langue des signes française comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier en langue des signes française comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
 
 Première partie : étude de dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
 
@@ -500,7 +500,7 @@ L'épreuve prend appui sur un ou plusieurs documents proposés par le jury se ra
 
 Chaque partie compte pour moitié dans la notation. La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
 
 Première partie : étude de dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
 
@@ -840,15 +840,15 @@ Durée de la préparation : trois heures, durée totale de l'épreuve : une heur
 
 L'épreuve est composée de deux parties successives, de trente minutes chacune :
 
-― un exposé portant sur un sujet tiré au sort au moment de l'épreuve dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale, s'appuyant sur la présentation d'une ou plusieurs expériences, qualitatives ou quantitatives. Au minimum une expérience quantitative, conduisant à une ou de plusieurs mesures, sera présentée ;
+- un exposé portant sur un sujet tiré au sort au moment de l'épreuve dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale, s'appuyant sur la présentation d'une ou plusieurs expériences, qualitatives ou quantitatives, et leur exploitation ou leur illustration par les TICE (technologies de l'information et de la communication pour l'enseignement). Au minimum une expérience quantitative, conduisant à une ou plusieurs mesures, sera présentée ;
 
 ― un entretien avec le jury.
 
 L'expérience vise à évaluer chez le candidat sa maîtrise de la démarche expérimentale et, en particulier, ses capacités d'expérimentateur, son aptitude à porter un regard critique sur les résultats expérimentaux et leur exploitation, et sa capacité à les utiliser à des fins pédagogiques.
 
-L'entretien peut amener le jury à approfondir certains points de l'exposé et du montage, à vérifier la qualité et l'étendue de la culture et des connaissances scientifiques du candidat. Des questions relevant de l'hygiène et sécurité, en particulier sur les consignes de sécurité propres aux sciences physiques et chimiques et à leur enseignement, peuvent y être posées.
+L'entretien peut amener le jury à approfondir certains points de l'exposé et du montage, à vérifier la qualité et l'étendue de la culture et des connaissances scientifiques du candidat ainsi que son aptitude à utiliser les TICE de manière pertinente. Des questions relevant de l'hygiène et sécurité, en particulier sur les consignes de sécurité propres aux sciences physiques et chimiques et à leur enseignement, peuvent y être posées.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
 
 Première partie : analyse d'un dossier pédagogique. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
 
@@ -964,7 +964,7 @@ L'épreuve prend appui sur un ou des documents proposés par le jury se rapporta
 
 Chaque partie compte pour moitié dans la notation. La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure ; coefficient 3.) La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.) La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
 Première partie : étude de dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
 
