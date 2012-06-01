@@ -1,5 +1,3 @@
 # Article 18
 
-Les organisations syndicales désignent les bénéficiaires des décharges d'activité de service parmi leurs représentants en activité dans l'établissement.
-
-Si la désignation d'un agent est incompatible avec la bonne marche du service, l'autorité administrative, après avis de la commission administrative paritaire, invite l'organisation syndicale à porter son choix sur un autre agent.
+Le bilan social de chaque établissement comporte des informations et des statistiques sur les moyens de toute nature effectivement accordés aux organisations syndicales au cours de l'année écoulée. Ce bilan est communiqué au comité technique d'établissement.

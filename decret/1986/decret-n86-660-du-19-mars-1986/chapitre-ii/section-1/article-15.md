@@ -1,9 +1,31 @@
 # Article 15
 
-Les représentants syndicaux appelés à siéger aux organismes mentionnés aux 3e, 4e et 5e de l'article 45 de la loi du 9 janvier 1986 susvisée reçoivent une autorisation spéciale d'absence sur simple présentation de leur convocation à ces organismes.
+I.-Sur simple présentation de leur convocation, les représentants syndicaux se voient accorder une autorisation d'absence lorsqu'ils sont appelés à siéger dans les instances suivantes :
 
-La durée de cette autorisation, qui doit être demandée trois jours au moins avant la date de la réunion et qui est accordée sous réserve des nécessités du service, comprend, outre les délais de route et la durée prévisible de la réunion, un temps destiné à permettre aux intéressés d'assurer la préparation et le compte rendu des travaux. Ce temps est égal à la durée prévisible de la réunion dans le cas des organismes visés aux 3e et 5e de l'article 45 susmentionné et au double de cette durée dans le cas des organismes mentionnés au 4e dudit article.
+1° Réunions des assemblées délibérantes des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée ;
 
-Pour ces derniers organismes, et lorsque les particularités du fonctionnement de l'établissement l'exigent, le régime prévu à l'alinéa qui précède peut être aménagé par une décision du directeur, prise après avis du  comité technique.
+2° Réunions des organismes privés de coopération interhospitalière mentionnés à l'article 1er du décret n° 86-661 du 19 mars 1986 fixant la liste des organismes privés de coopération interhospitalière mentionnés au 5° de l'article 45 de la loi du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière ;
 
-Les dispositions du présent article ne sont pas applicables aux réunions des comités d'hygiène, de sécurité et des conditions de travail visés aux articles L. 236-1 et suivants du code du travail susvisé.
+3° Séances des organismes suivants :
+
+a) Conseil commun de la fonction publique et Conseil supérieur de la fonction publique hospitalière ;
+
+b) Comités consultatifs nationaux, comités techniques d'établissements, commissions administratives paritaires et commissions départementales de réforme des agents des collectivités locales ;
+
+c) Commissions médicales d'établissement ;
+
+d) Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière ;
+
+e) Comité national et comités locaux du fonds pour l'insertion des personnes handicapées dans la fonction publique ;
+
+f) Conseils d'administration des organismes de retraite, des organismes de sécurité sociale et des mutuelles.
+
+II.-Bénéficient des mêmes droits :
+
+1° Les représentants du personnel détenant un mandat de titulaire ou de suppléant dans les instances énumérées au I lorsqu'ils participent à des réunions ou des groupes de travail convoqués par l'administration ou l'autorité responsable ;
+
+2° Les représentants des personnels appelés à participer à des négociations dans le cadre de l'article 8 bis de la loi n° 83-634 du 13 juillet 1983 susvisée.
+
+III.-La durée de l'autorisation d'absence comprend, outre les délais de route, une durée de temps égale au double de la durée prévisible de la réunion, destinée à permettre aux intéressés d'assurer la préparation et le compte rendu des travaux.
+
+IV.-Les dispositions du présent article ne sont pas applicables aux réunions des comités d'hygiène, de sécurité et des conditions de travail visés aux articles L. 4611-1-1 et suivants du code du travail.
