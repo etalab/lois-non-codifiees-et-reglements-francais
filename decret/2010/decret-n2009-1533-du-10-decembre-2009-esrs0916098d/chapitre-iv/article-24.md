@@ -1,3 +1,0 @@
-# Article 24
-
-Jusqu'à l'installation du comité technique paritaire central et de la commission paritaire d'établissement de l'Ecole normale supérieure de Lyon créée par le présent décret constitués conformément aux décrets du 28 mai 1982 et du 6 avril 1999 susvisés, qui interviendront dans un délai d'un an à compter de sa date d'entrée en vigueur, ces instances sont composées des représentants titulaires et suppléants de l'établissement et du personnel des  comités techniques centraux et des commissions paritaires d'établissement respectives des écoles normales supérieures de Lyon et de Fontenay-Saint-Cloud.

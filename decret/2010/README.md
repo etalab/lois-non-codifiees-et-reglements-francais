@@ -295,7 +295,6 @@
 - [Décret n°91-343 du 9 avril 1991 (AGRA9100330D)](decret-n91-343-du-9-avril-1991-agra9100330d)
 - [Décret n°2006-1367 du 10 novembre 2006 (SOCX0609647D)](decret-n2006-1367-du-10-novembre-2006-socx0609647d)
 - [Décret n°2006-826 du 10 juillet 2006 (SOCC0611264D)](decret-n2006-826-du-10-juillet-2006-socc0611264d)
-- [Décret n°2009-1533 du 10 décembre 2009 (ESRS0916098D)](decret-n2009-1533-du-10-decembre-2009-esrs0916098d)
 - [Décret n°2009-1540 du 10 décembre 2009 (SASG0917432D)](decret-n2009-1540-du-10-decembre-2009-sasg0917432d)
 - [Décret n°2010-1072 du 10 septembre 2010 (PRMX1023241D)](decret-n2010-1072-du-10-septembre-2010-prmx1023241d)
 - [Décret n°2010-1073 du 10 septembre 2010 (IOCK1020502D)](decret-n2010-1073-du-10-septembre-2010-iock1020502d)
