@@ -310,11 +310,11 @@ Lors de l'entretien de l'épreuve d'admission correspondant à la valence choisi
 
 Le programme des épreuves d'admission est publié au Bulletin officiel de l'éducation nationale.
 
-Section mathématiques-sciences physiques
+Section mathématiques - sciences physiques et chimiques
 
 A. ― Epreuves d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 3), portant au choix du candidat au moment de l'inscription soit sur les mathématiques, soit sur les sciences physiques (physique ou chimie).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 3), portant au choix du candidat au moment de l'inscription soit sur les mathématiques, soit sur les sciences physiques et chimiques.
 
 B. ― Epreuves d'admission
 
@@ -382,9 +382,7 @@ Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heu
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
-Sections pour lesquelles il n'existe pas de diplômes
-
-de niveau supérieur à celui du baccalauréat relevant du groupe A
+Sections pour lesquelles il n'existe pas de diplômes de niveau supérieur à celui du baccalauréat relevant du groupe A
 
 A. ― Epreuve d'admissibilité
 
@@ -408,13 +406,15 @@ Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heu
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
-Sections pour lesquelles il n'existe pas de diplômes
-
-de niveau supérieur à celui du baccalauréat relevant du groupe B
+Sections pour lesquelles il n'existe pas de diplômes de niveau supérieur à celui du baccalauréat relevant du groupe B
 
 A. ― Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Exploitation pédagogique d'un thème professionnel.
+
+L'épreuve permet de valider les connaissances technologiques et scientifiques liées aux métiers de l'alimentation et d'évaluer la capacité du candidat à les exploiter dans le cadre des activités pédagogiques.
+
+Durée : trois heures ; coefficient 1.
 
 B. ― Epreuve d'admission
 
@@ -428,7 +428,9 @@ Cette épreuve comporte trois phases :
 
 ― une phase pédagogique.
 
-La phase de conception et d'organisation permet de valider les connaissances spécifiques fondamentales et appliquées dans le domaine sectoriel choisi par le candidat. L'évaluation porte sur :
+La phase de conception et d'organisation permet de valider les connaissances spécifiques fondamentales et appliquées dans le domaine sectoriel choisi par le candidat.
+
+L'évaluation porte sur :
 
 ― la créativité ;
 

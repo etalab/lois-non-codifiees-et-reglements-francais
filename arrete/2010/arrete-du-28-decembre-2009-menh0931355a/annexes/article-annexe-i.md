@@ -442,7 +442,7 @@ Chaque partie compte pour moitié dans la notation. La qualité de la langue par
 
 b) en lettres, en une explication d'un texte français, assorti d'une question de grammaire.
 
-L'exposé du candidat est suivi d'un entretien avec le jury.
+L'exposé du candidat est suivi d'un entretien avec le jury au cours duquel le candidat est invité à s'exprimer sur une utilisation du texte expliqué dans une classe de lycée professionnel.
 
 2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
@@ -532,7 +532,7 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Section mathématiques-sciences physiques
+Section mathématiques-sciences physiques et chimiques
 
 A. ― Epreuves d'admissibilité
 

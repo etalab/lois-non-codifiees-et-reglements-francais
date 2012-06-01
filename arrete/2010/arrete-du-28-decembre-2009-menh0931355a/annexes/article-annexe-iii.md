@@ -26,14 +26,14 @@ Seconde épreuve d'admission du concours externe du CAPLP de langues vivantes-le
 
 L'épreuve d'admission doit en outre permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles à la problématique du sujet et dans ses réponses aux questions du jury.
 
-Section mathématiques-sciences physiques
+Section mathématiques-sciences physiques et chimiques
 
 A. ― Epreuve écrite d'admissibilité
 
-Au choix du candidat au moment de l'inscription au concours, première ou deuxième épreuve d'admissibilité du concours externe du CAPLP de mathématiques-sciences physiques (coefficient 3).
+Au choix du candidat au moment de l'inscription au concours, première ou deuxième épreuve d'admissibilité du concours externe du CAPLP de mathématiques-sciences physiques et chimiques (coefficient 3).
 
 B. ― Epreuves orales d'admission
 
-Seconde épreuve d'admission du concours externe du CAPLP de mathématiques-sciences physiques, dans la valence (mathématiques ou sciences physiques) n'ayant pas fait l'objet de l'épreuve écrite d'admissibilité (coefficient 3).
+Seconde épreuve d'admission du concours externe du CAPLP de mathématiques-sciences physiques et chimiques, dans la valence (mathématiques ou sciences physiques et chimiques) n'ayant pas fait l'objet de l'épreuve écrite d'admissibilité (coefficient 3).
 
 L'épreuve d'admission doit en outre permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles à la problématique du sujet et dans ses réponses aux questions du jury.

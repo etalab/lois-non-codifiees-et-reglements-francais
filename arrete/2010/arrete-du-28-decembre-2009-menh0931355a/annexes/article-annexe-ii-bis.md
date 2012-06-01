@@ -2,7 +2,7 @@
 
 ÉPREUVE DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP) DU CONCOURS INTERNE DE RECRUTEMENT DE PROFESSEURS DE LYCÉE PROFESSIONNEL
 
-A.-Sections autres que langues vivantes-lettres, lettres-histoire et géographie, mathématiques-sciences physiques
+A.-Sections autres que langues vivantes-lettres, lettres-histoire et géographie, mathématiques-sciences physiques et chimiques
 
 Le dossier de reconnaissance des acquis de l'expérience professionnelle comporte deux parties.
 
@@ -44,7 +44,7 @@ Coefficient 1.
 
 Nota. - Pendant l'épreuve d'admission, dix minutes maximum pourront être réservées lors de l'entretien à un échange sur le dossier de RAEP qui reste à cet effet la disposition du jury.
 
-B. - Sections langues vivantes-lettres, lettres-histoire et géographie, mathématiques-sciences physiques
+B. - Sections langues vivantes-lettres, lettres-histoire et géographie, mathématiques-sciences physiques et chimiques
 
 Les modalités de l'épreuve sont celles mentionnées au A ci-dessus.
 
@@ -52,7 +52,7 @@ Toutefois, le candidat consacre plus particulièrement la seconde partie de son 
 
 Pour la section lettres-histoire et géographie, le candidat a le choix, pour la valence histoire et géographie, de traiter une situation relative à l'histoire ou à la géographie.
 
-Pour la section mathématiques-sciences physiques, le candidat a le choix, pour la valence sciences physiques, de traiter une situation relative à la physique ou à la chimie.
+Pour la section mathématiques-sciences physiques et chimiques, la situation décrite afférente à la valence choisie met en évidence, dans la mesure du possible, une articulation avec l'enseignement de la discipline correspondant à l'autre valence, dans le contexte de la bivalence du professeur de lycée professionnel de mathématiques-sciences physiques et chimiques.
 
 Coefficient 3.
 

@@ -28,7 +28,7 @@ Section langues vivantes-lettres ;
 
 Section lettres-histoire et géographie ;
 
-Section mathématiques-sciences physiques ;
+Section mathématiques - sciences physiques et chimiques ;
 
 Section sciences et techniques médico-sociales ;
 
@@ -144,7 +144,7 @@ Groupe B
 
 Section métiers de l'alimentation :
 
-― option boulangerie ;
+- option boulangerie ;
 
 ― option pâtisserie ;
 
