@@ -4,6 +4,8 @@ Pour l'épreuve d'histoire-géographie-éducation civique, le sujet proposé aux
 
 La partie de l'épreuve consacrée à l'histoire-géographie se déroule dans la langue dans laquelle ces matières ont été enseignées.
 
+Les élèves scolarisés en section internationale " chinois " composent pour cette épreuve d'histoire-géographie en français. Pour ces élèves la note de contrôle continu en mathématiques est celle de la DNL.
+
 Pour la partie d'épreuve consacrée à l'éducation civique, les élèves choisissent la langue dans laquelle ils composent, les sujets étant libellés dans deux langues : langue française et langue de la section ou langue allemande.
 
 La troisième partie (repères chronologiques et spatiaux) se déroule en français.
