@@ -1,10 +1,6 @@
 # Article 64
 
-I. - Pour l'application de la présente ordonnance à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
-
-- département par collectivité départementale ;
-
-- tribunal de grande instance par tribunal de première instance.
+I. (Abrogé)
 
 II. - Pour l'application à Mayotte de l'article 28, les mots :
 
