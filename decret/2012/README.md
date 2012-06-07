@@ -84,6 +84,7 @@
 - [Décret n°2012-303 du 5 mars 2012 (ETSD1201478D)](decret-n2012-303-du-5-mars-2012-etsd1201478d)
 - [Décret n°2012-305 du 5 mars 2012 (DEVL1133440D)](decret-n2012-305-du-5-mars-2012-devl1133440d)
 - [Décret n°2012-311 du 5 mars 2012 (AGRS1116755D)](decret-n2012-311-du-5-mars-2012-agrs1116755d)
+- [Décret n°2012-312 du 5 mars 2012 (SPOV1129067D)](decret-n2012-312-du-5-mars-2012-spov1129067d)
 - [Décret n°2012-313 du 5 mars 2012 (TRAT1133627D)](decret-n2012-313-du-5-mars-2012-trat1133627d)
 - [Décret n°2012-314 du 5 mars 2012 (TRAT1204447D)](decret-n2012-314-du-5-mars-2012-trat1204447d)
 - [Décret n°2012-315 du 5 mars 2012 (TRAT1204450D)](decret-n2012-315-du-5-mars-2012-trat1204450d)
@@ -564,4 +565,5 @@
 - [Décret n°2012-294 du 1er mars 2012 (SCSA1134097D)](decret-n2012-294-du-1er-mars-2012-scsa1134097d)
 - [Décret n°2012-295 du 1er mars 2012 (DEFD1135431D)](decret-n2012-295-du-1er-mars-2012-defd1135431d)
 - [Décret n°2012-296 du 1er mars 2012 (IOCL1135310D)](decret-n2012-296-du-1er-mars-2012-iocl1135310d)
+- [Décret n°2012-312 (SPOV1129067D)](decret-n2012-312-spov1129067d)
 - [Décret n°2012-552 (COTB1200939D)](decret-n2012-552-cotb1200939d)
