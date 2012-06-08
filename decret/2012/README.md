@@ -107,6 +107,7 @@
 - [Décret n°2012-461 du 6 avril 2012 (ETSH1200388D)](decret-n2012-461-du-6-avril-2012-etsh1200388d)
 - [Décret n°2012-462 du 6 avril 2012 (MCCB1131407D)](decret-n2012-462-du-6-avril-2012-mccb1131407d)
 - [Décret n°2012-463 du 6 avril 2012 (TRAT1203880D)](decret-n2012-463-du-6-avril-2012-trat1203880d)
+- [Décret n°2012-791 du 6 juin 2012 (PRLX1224450D)](decret-n2012-791-du-6-juin-2012-prlx1224450d)
 - [Décret n°97-109 du 6 février 1997 (JUSC9620898D)](decret-n97-109-du-6-fevrier-1997-jusc9620898d)
 - [Décret n°2012-182 du 7 février 2012 (EFIT1200426D)](decret-n2012-182-du-7-fevrier-2012-efit1200426d)
 - [Décret n°2012-183 du 7 février 2012 (ETSD1202684D)](decret-n2012-183-du-7-fevrier-2012-etsd1202684d)
