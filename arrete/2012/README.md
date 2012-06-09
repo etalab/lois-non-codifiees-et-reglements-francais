@@ -668,7 +668,6 @@
 - [Arrêté du 17 avril 2012 (JUSB1220516A)](arrete-du-17-avril-2012-jusb1220516a)
 - [Arrêté du 17 avril 2012 (JUSB1220533A)](arrete-du-17-avril-2012-jusb1220533a)
 - [Arrêté du 17 février 1995 (AGRR9500211A)](arrete-du-17-fevrier-1995-agrr9500211a)
-- [Arrêté du 17 février 2012 (AGRM1200602A)](arrete-du-17-fevrier-2012-agrm1200602a)
 - [Arrêté du 17 février 2012 (AGRM1201112A)](arrete-du-17-fevrier-2012-agrm1201112a)
 - [Arrêté du 17 février 2012 (AGRM1205011A)](arrete-du-17-fevrier-2012-agrm1205011a)
 - [Arrêté du 17 février 2012 (AGRM1205265A)](arrete-du-17-fevrier-2012-agrm1205265a)
