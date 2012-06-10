@@ -176,6 +176,8 @@
 - [Décret n°2012-197 du 8 février 2012 (MENE1135547D)](decret-n2012-197-du-8-fevrier-2012-mene1135547d)
 - [Décret n°2012-340 du 8 mars 2012 (JUSA1201264D)](decret-n2012-340-du-8-mars-2012-jusa1201264d)
 - [Décret n°2012-342 du 8 mars 2012 (MENH1127509D)](decret-n2012-342-du-8-mars-2012-menh1127509d)
+- [Décret n°2012-794 du 8 juin 2012 (JUDX1224842D)](decret-n2012-794-du-8-juin-2012-judx1224842d)
+- [Décret n°2012-795 du 8 juin 2012 (ANCX1224333D)](decret-n2012-795-du-8-juin-2012-ancx1224333d)
 - [Décret n°83-964 du 8 novembre 1983](decret-n83-964-du-8-novembre-1983)
 - [Décret n°91-1033 du 8 octobre 1991 (INDA9100581D)](decret-n91-1033-du-8-octobre-1991-inda9100581d)
 - [Décret n°91-1034 du 8 octobre 1991 (INDA9100582D)](decret-n91-1034-du-8-octobre-1991-inda9100582d)
