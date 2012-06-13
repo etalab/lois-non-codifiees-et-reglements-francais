@@ -356,7 +356,6 @@
 - [Arrêté du 19 décembre 2005 (JUSB0510680A)](arrete-du-19-decembre-2005-jusb0510680a)
 - [Arrêté du 19 décembre 2005 (JUSB0510682A)](arrete-du-19-decembre-2005-jusb0510682a)
 - [Arrêté du 19 juillet 2005 (ECOM0520007A)](arrete-du-19-juillet-2005-ecom0520007a)
-- [Arrêté du 19 juillet 2005 (INTA0500540A)](arrete-du-19-juillet-2005-inta0500540a)
 - [Arrêté du 19 juillet 2005 (JUSK0540034A)](arrete-du-19-juillet-2005-jusk0540034a)
 - [Arrêté du 19 juillet 2005 (MENS0501524A)](arrete-du-19-juillet-2005-mens0501524a)
 - [Arrêté du 19 juillet 2005 (MENS0501542A)](arrete-du-19-juillet-2005-mens0501542a)

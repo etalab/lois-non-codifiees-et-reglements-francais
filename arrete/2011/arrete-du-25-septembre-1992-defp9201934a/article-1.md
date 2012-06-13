@@ -38,9 +38,11 @@ Division aérotactique de l'escadron de survie opérationnelle et des parachutis
 
 bureaux sécurité nucléaire des bases aériennes de Dijon, Saint-Dizier, Luxeuil, Istres et Bourges-Avord à compter du 1er septembre 2011.
 
-3° Gendarmerie :
+3. Gendarmerie :
 
-Groupement de sécurité et d'intervention de la gendarmerie nationale.
+Groupement d'intervention de la gendarmerie nationale ;
+
+Equipe sportive militaire de haut niveau du groupement blindé de gendarmerie mobile.
 
 4° Autres unités :
 
