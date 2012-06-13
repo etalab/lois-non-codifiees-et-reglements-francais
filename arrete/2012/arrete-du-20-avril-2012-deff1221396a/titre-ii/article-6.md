@@ -48,7 +48,7 @@ Le ministre chargé de la défense peut, par arrêté, instituer des régies d'a
 
 ― les dépenses de télépéage ;
 
-10° Indemnités de chômage servies aux ex-personnels civils et militaires de la défense et de la gendarmerie nationale jusqu'au 1er juillet 2012 ;
+10° Indemnités de chômage servies aux ex-personnels civils et militaires de la défense et de la gendarmerie nationale jusqu'au 31 décembre 2012 ;
 
 11° Indemnité de déplacement allouée aux jeunes Français convoqués à l'appel de préparation à la défense prévue par l'article R. 112-12 du code du service national ;
 

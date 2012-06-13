@@ -44,6 +44,8 @@ Khat (feuilles de Catha edulis, Celastracées)
 
 Lévophacétopérane et ses sels
 
+Lisdexamphétamine et ses sels
+
 MBDB ou N-méthyl-1-(3,4- méthylènedioxyphényl)-2-butanamine et ses sels dans tous les cas où ils peuvent exister
 
 4-fluoroamphétamine
