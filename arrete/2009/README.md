@@ -1785,7 +1785,6 @@
 - [Arrêté du 22 avril 2009 (DEVA0909241A)](arrete-du-22-avril-2009-deva0909241a)
 - [Arrêté du 22 avril 2009 (ECES0909083A)](arrete-du-22-avril-2009-eces0909083a)
 - [Arrêté du 22 avril 2009 (ECES0909084A)](arrete-du-22-avril-2009-eces0909084a)
-- [Arrêté du 22 avril 2009 (ESRH0908909A)](arrete-du-22-avril-2009-esrh0908909a)
 - [Arrêté du 22 avril 2009 (ESRH0908911A)](arrete-du-22-avril-2009-esrh0908911a)
 - [Arrêté du 22 avril 2009 (LOGA0910585A)](arrete-du-22-avril-2009-loga0910585a)
 - [Arrêté du 22 avril 2009 (MAEA0905234A)](arrete-du-22-avril-2009-maea0905234a)

@@ -6,7 +6,7 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de solier moquettiste.
+Titre professionnel : solier moquettiste.
 
 Niveau : V.
 
@@ -14,77 +14,45 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le solier moquettiste pose des revêtements souples et stratifiés sur les différentes surfaces au sol. Pour cela, après la dépose des anciens revêtements, la préparation et la réparation des supports, il applique un produit de ragréage ; il réalise ensuite le débit, l'approvisionnement, l'ajustage, l'encollage et la pose sur les sols et les marches d'escaliers avec les accessoires de finitions associés.
+Le solier moquettiste pose des revêtements de sol souple courants et spécifiques ainsi que les lames de stratifié à l'intérieur de divers bâtiments. Il assure une mise en œuvre sur le plan technique, décoratif et esthétique conforme aux normes techniques et au cahier des charges. Dans un premier temps, il prépare l'intervention, déplace du mobilier, dépose et évacue les anciens revêtements au sol, approvisionne et distribue les revêtements à poser sur le chantier, participe à la réception des supports, prépare et adapte les supports, applique un enduit de ragréage. Puis, dans un deuxième temps, il réalise le débit des matériaux, étale la colle ou pose des bandes adhésives, pose tous types de revêtements souples résilients et les lames stratifiés au sol et sur escaliers, réalise des soudures, fait des relevés en plinthe et pose les accessoires de finitions, trie et évacue les déchets, nettoie sa prestation et ses outils. Durant la réalisation de ses tâches, il s'autocontrôle en permanence.
 
-Il exerce son emploi le plus souvent seul, à l'intérieur des locaux clos et couverts, sur des chantiers de construction de bâtiments neufs ou en phase de rénovation. Les bâtiments peuvent être des immeubles d'habitation, industriels, publics ou des magasins.
-
-L'activité implique des déplacements (éloignement du lieu de travail, changements de chantiers). Les horaires sont réguliers, mais les impératifs techniques peuvent occasionnellement entraîner des dépassements journaliers.
-
-L'emploi est diversifié, il s'exerce rarement dans les mêmes conditions, tant sur le plan des surfaces à revêtir que sur le type de matériaux à poser. Il nécessite cependant de manipuler des charges et de supporter une position à genoux prolongée. Le respect des règles d'hygiène et de sécurité concernant l'utilisation et l'application des produits (colles, solvants, etc.) est indispensable.
+Le solier moquettiste exerce son emploi dans les maisons individuelles, les immeubles d'habitation, les bâtiments industriels, les ouvrages fonctionnels (lycées, hôpitaux), les salles de sport ou les magasins, il intervient avec les lots réalisant les finitions des bâtiments avant la livraison. Il pratique souvent seul, à l'intérieur des locaux clos et couverts. La tenue de l'emploi implique des déplacements et des changements de chantiers. Les horaires sont réguliers, mais les impératifs techniques peuvent entraîner des dépassements journaliers ou un travail intensif en fin de semaine. Le respect des règles d'hygiène et de sécurité et le port des équipements de protection individuelle sont indispensables.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Préparer les sols et les escaliers
+1. Poser des revêtements de sol souples
 
-avant la pose des revêtements dans le bâtiment
+de technicité courante
 
-S'organiser pour préparer la surface des sols avant la pose des revêtements.
+Poser du revêtement de sol PVC et textile courants en dalle et en lès.
 
-Déposer les revêtements de sol.
+Poser du revêtement de sol stratifié en lame.
 
-Préparer les surfaces au sol avant de ragréer.
+2. Poser des revêtements de sol souples
 
-Appliquer un produit d'apprêt et un ragréage adapté, au sol et sur les escaliers.
+de technicité spécifique
 
-2. Poser les revêtements de sol souples
+Poser du revêtement de sol PVC et textile spécifiques en dalle et en lès.
 
-de technicité courante dans le bâtiment sur sol préparé
+Poser du revêtement de sol linoléum en dalle et en lès.
 
-S'organiser pour poser des revêtements de sol souples de technicité courante.
-
-Implanter au carrément et poser à la colle les revêtements de sol souples de technicité courante en dalles.
-
-Implanter et poser à la colle les revêtements de sol souples de technicité courante en lés.
-
-Poser à simple encollage une moquette tuftée velours.
-
-Poser les accessoires de finition associés aux revêtements de sol de technicité courante.
-
-3. Poser les revêtements de sol souples
-
-de technicité spécifique dans le bâtiment sur sol préparé
-
-S'organiser pour poser des revêtements de sol souples de technicité spécifique.
-
-Poser à la colle du revêtement de sol plastique en lés.
-
-Poser à la colle du revêtement de sol linoléum en lés.
-
-Poser à la colle des revêtements de sol textiles spécifiques en lés et en dalles.
-
-Poser du revêtement de sol stratifié.
-
-Poser à la colle des revêtements de sol souples sur les escaliers.
-
-Souder à chaud et à froid en ligne les revêtements de sol souples.
-
-Poser les accessoires de finitions associés aux revêtements de sol de technicité spécifique.
-
-Secteurs d'activités ou types d'emploi accessibles
+Secteurs d'activités et types d'emploi accessibles
 
 par le détenteur du titre
 
-Moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+Le bâtiment, dans les entreprises exerçant la pose de revêtements de sol.
 
-Entreprises de travail temporaire.
+Les magasins assurant la vente et la pose de revêtements de sol souples.
 
-Services d'entretien de sociétés et de services publics.
+Les services d'entretien des collectivités publiques et des sociétés privées.
 
-Code(s) ROME :
+Les emplois de poseur de revêtements souples ou solier moquettiste, selon la convention collective des ouvriers du bâtiment n° 3193 (pour les entreprises de plus de dix salariés) et n° 3258 (pour les entreprises de moins de dix salariés).
 
-42232 - Poseur/poseuse de revêtements souples.
+Code ROME :
+
+F1609-Pose de revêtements souples.
 
 Réglementation de l'activité :
 
@@ -96,8 +64,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale.
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002.
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
