@@ -10,29 +10,27 @@ PIÈCES À JOINDRE À LA DEMANDE D'AGRÉMENT
 
 2° Description des activités de l'entreprise
 
-2.1. La liste des catégories de produits correspondant à des procédés de fabrication identifiés, leur description et leur utilisation prévisible attendue.
+2.1. La liste des catégories de produits finis correspondant à des procédés de fabrication identifiés et leur utilisation prévisible attendue.
 
-2.2. La liste des matières premières, ingrédients, des matériaux de conditionnement et d'emballage et leur description.
+2.2. La liste des matières premières ou animaux vivants, des ingrédients, des matériaux de conditionnement et d'emballage.
 
 2.3. La description des circuits d'approvisionnement et de commercialisation des produits envisagés.
 
 2.4. Les diagrammes de fabrication.
 
-2.5. Les tonnages ou les volumes de production annuels et la capacité journalière maximale et minimale.
+2.5. Les tonnages ou les volumes de production annuels et la capacité journalière maximale.
 
-2.6 La liste et les procédures de gestion des sous-produits animaux et des déchets.
+2.6. La liste et les procédures de gestion des sous-produits animaux et des déchets.
 
 2.7. La capacité de stockage des matières premières, des produits intermédiaires et des produits finis.
 
-2.8. Un plan de situation à l'échelle au 1/1 000 minimum, indiquant les délimitations de l'établissement, les accès et les abords.
+2.8. Un plan de masse, à une échelle lisible, présentant l'ensemble des bâtiments de l'établissement et les éléments de voirie.
 
-2.9. Un plan de masse, à l'échelle de 1/500 à 1/1 000 présentant l'ensemble des bâtiments de l'établissement, les éléments de voirie, les circuits d'arrivée d'eau potable/d'eau de mer et d'évacuation des eaux résiduaires et pluviales.
+2.9. Un plan d'ensemble de l'établissement, à une échelle lisible, indiquant la disposition des locaux et des équipements.
 
-Le plan de situation et le plan de masse peuvent faire l'objet d'un seul plan.
+Le plan de masse et le plan d'ensemble de l'établissement peuvent être communs sous réserve de lisibilité.
 
-2.10. Un plan d'ensemble de l'établissement, à l'échelle de 1/100 à 1/300 selon la taille des locaux, indiquant la disposition des locaux de travail et des locaux à usage du personnel.
-
-2.11. La description détaillée d'un point de vue sanitaire de l'ensemble des locaux, de l'équipement et du matériel utilisé, ainsi que les conditions de fonctionnement.
+2.10. La description des conditions de fonctionnement.
 
 3° Le plan de maîtrise sanitaire
 
@@ -56,11 +54,13 @@ Le plan de maîtrise sanitaire comprend :
 
 - plan de formation à la sécurité sanitaire des aliments ;
 
-- tenue vestimentaire : descriptif, entretien ;
+- hygiène personnelle :
 
-- organisation du suivi médical.
+- tenue vestimentaire : descriptif, gestion ;
 
-3.1.2. L'organisation de la maintenance des locaux et des équipements et du matériel.
+- état de santé du personnel : instructions.
+
+3.1.2. L'organisation de la maintenance des locaux, des équipements et du matériel.
 
 3.1.3. Les mesures d'hygiène préconisées avant, pendant et après la production :
 
@@ -70,7 +70,7 @@ Le plan de maîtrise sanitaire comprend :
 
 3.1.4. Le plan de lutte contre les nuisibles.
 
-3.1.5. L'approvisionnement en eau.
+3.1.5. L'approvisionnement en eau, les circuits d'arrivée d'eau potable/ d'eau de mer et d'évacuation des eaux résiduaires.
 
 3.1.6. La maîtrise des températures.
 
@@ -80,40 +80,38 @@ Le plan de maîtrise sanitaire comprend :
 
 3.2.1. Le champ d'application de l'étude.
 
-3.2.2. Les documents relatifs à l'analyse des dangers biologiques, chimiques et physiques et mesures préventives associées (principe n° 1).
+3.2.2. Les documents relatifs à l'analyse des dangers biologiques, chimiques et physiques et mesures de maîtrise associées (principe n° 1).
 
-3.2.3. Les documents relatifs aux points critiques pour la maîtrise lorsqu'il en existe (CCP) :
+3.2.3. Les documents relatifs aux points déterminants lorsqu'il en existe (points critiques pour la maîtrise pour les CCP, ou niveau du seuil de maîtrise pour les PRPo) :
 
-- la liste argumentée des CCP précisant le caractère essentiel de la ou des mesures de maîtrise associée(s) (principe n° 2) ;
+- la liste argumentée des points déterminants (dont CCP, PRPo) précisant le caractère essentiel de la ou des mesures de maîtrise associée (s) (principe n° 2) ;
 
-- pour chaque CCP :
+- pour chaque point déterminant :
 
-- la validation des limites critiques (principe n° 3) ;
+- la validation des limites critiques pour les CCP et les objectifs/ niveaux de seuils pour les PRPo (principe n° 3) ;
 
 - les procédures de surveillance (principe n° 4) ;
 
 - la description de la ou des actions correctives (principe n° 5) ;
 
-- les enregistrements de la surveillance des CCP et des actions correctives (principe n° 7).
+- les enregistrements de la surveillance des points déterminants et des actions correctives (principe n° 7).
 
 3.2.4. Les documents relatifs à la vérification (principe n° 6).
 
 3.3. Les procédures de traçabilité et de gestion des produits non conformes (retrait, rappel...).
 
-4° Cas particulier des marchés de gros
-
-et des halles de criée
+4° Cas particulier des marchés de gros et des halles de criée
 
 Le règlement intérieur élaboré par l'exploitant de l'établissement reprenant les principales règles d'hygiène que les vendeurs et les acheteurs doivent respecter et décrivant les modalités d'utilisation des parties communes. Ce règlement intérieur est porté à la connaissance des usagers de l'établissement.
 
-La composition, comprenant l'identification des responsables, des entités propriétaires et des entités chargées de l'exploitation.
+La composition comprenant l'identification des responsables, des entités propriétaires et des entités chargées de l'exploitation.
 
 La liste des utilisateurs et le type de leur relation avec ces entités.
 
-5° Cas particulier des centres d'emballage d'oeufs
+5° Cas particulier des centres d'emballage d'œufs
 
 Conformément aux dispositions des règlements (CE) n° 1907/90 et n° 2295/2003 :
 
-- la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des oeufs ;
+- la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des œufs ;
 
-- les procédures de fonctionnement permettant le classement des oeufs par catégorie de qualité et de poids.
+- les procédures de fonctionnement permettant le classement des œufs par catégorie de qualité et de poids.

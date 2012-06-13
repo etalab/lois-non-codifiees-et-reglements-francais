@@ -10,9 +10,7 @@ Les centres de collecte et les tanneries déposent une demande d'autorisation au
 
 - la nature de l'activité ;
 
-- un plan d'ensemble de l'établissement à l'échelle 1/200 au minimum ;
-
-- une notice donnant la description des locaux de travail et d'entreposage ;
+- un plan d'ensemble de l'établissement à une échelle lisible ;
 
 - une notice décrivant les conditions de fonctionnement.
 

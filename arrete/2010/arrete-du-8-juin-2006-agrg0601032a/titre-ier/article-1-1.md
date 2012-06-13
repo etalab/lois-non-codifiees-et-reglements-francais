@@ -4,9 +4,7 @@ Les établissements de transformation procédant à l'abattage d'animaux d'aquac
 
 - les exploitations aquacoles et les zones d'élevage de mollusques doivent respecter les dispositions prévues au chapitre V du titre II du présent arrêté ;
 
-- les établissements de transformation d'abattage des animaux d'aquaculture doivent respecter les dispositions prévues au chapitre VI du titre II du présent arrêté.
-
-Par dérogation au paragraphe précédent, l'enregistrement seul est requis pour :
+- les établissements de transformation procédant à l'abattage des animaux d'aquaculture respectent les dispositions prévues au chapitre VI du titre II du présent arrêté Par dérogation au paragraphe précédent, l'enregistrement seul est requis pour :
 
 a) Les installations autres que les exploitations aquacoles détenant des animaux aquatiques sans intention de les mettre sur le marché ;
 

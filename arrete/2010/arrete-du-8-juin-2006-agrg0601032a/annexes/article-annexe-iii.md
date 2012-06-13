@@ -53,7 +53,7 @@
 </tr>
 <tr>
 <td valign="top" width="281">
-<p>Produits à base de viande, plats cuisinés, saucisses crues, chair à saucisse et préparations de viandes ne contenant pas de viandes hachées, viandes fraîches des autres espèces que boucherie, à l'exclusion des viandes hachées </p>
+<p>Produits à base de viande, plats cuisinés, préparations de viandes, viandes fraîches des autres espèces que boucherie, à l'exclusion des viandes hachées </p>
 </td>
 <td valign="top" width="198">
 <p align="left">250 kilogrammes par semaine</p>
