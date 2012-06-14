@@ -1,334 +1,502 @@
 # Article 
 
-A N N E X E
-
 LISTE DES ÉTABLISSEMENTS PROPOSANT UNE SECTION BINATIONALE ESABAC
 
-<div>
-<br/>
-<br/>
-<div align="center">
-
 <table>
+<tbody>
 <tr>
-<th>
-<br/>ACADÉMIE</th>
-<th>
-<br/>ÉTABLISSEMENT</th>
-<th colspan="2">
-<br/>DATE DE L'OUVERTURE DE LA SECTION<br/>(correspondant à l'ouverture<br/>de la classe de seconde)</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie d'Aix-Marseille</td>
-<td align="center">
-<br/>Lycée René Char (*), Avignon</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée de l'Arc, Orange</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Marcel Pagnol, Marseille</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée André Honnorat, Barcelonnette</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Paul Arène, Sisteron</td>
-<td align="center">
-<br/>Rentrée scolaire 2011-2012</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Bordeaux</td>
-<td align="center">
-<br/>Lycée François Magendie, Bordeaux</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Corse </td>
-<td align="center">
-<br/>Lycée Laetitia Bonaparte, Ajaccio</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Créteil </td>
-<td align="center">
-<br/>Lycée Suger, Saint-Denis</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Grenoble </td>
-<td align="center">
-<br/>Lycée international (*), Grenoble</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Emmanuel Mounier (*), Grenoble</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée la Pléiade (*), Pont-de-Chéruy</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Portes de l'Oisans (*), Vizille</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée de l'Edit (*), Roussillon</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Vaugelas (*), Chambéry</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Paul Héroult (*), Saint-Jean-de-Maurienne</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée du Granier (*), La Ravoire</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Charles Poncet (*), Cluses</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Charles Baudelaire (*), Cran-Gevrier</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Jean Monnet (*), Annemasse</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée du Mont Blanc (*), Passy</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Lille </td>
-<td align="center">
-<br/>Lycée Albert Châtelet, Douai</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Marguerite de Flandre (*), Gondecourt</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Lyon </td>
-<td align="center">
-<br/>Lycée du Val de Saône, Trévoux</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Jean Perrin, Lyon</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée René Cassin (*), Tarare</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée du Bugey, Bellay</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Montpellier </td>
-<td align="center">
-<br/>Lycée Jules Guesde (*), Montpellier</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Nancy-Metz </td>
-<td align="center">
-<br/>Lycée Alfred Mézières, Longwy</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Nantes </td>
-<td align="center">
-<br/>Lycée David d'Angers, Angers</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Nice </td>
-<td align="center">
-<br/>Lycée Pierre et Marie Curie (*), Menton</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée international (*), Valbonne</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Dumont d'Urville (*), Toulon</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Paris </td>
-<td align="center">
-<br/>Lycée Victor Hugo, Paris</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Poitiers </td>
-<td align="center">
-<br/>Lycée Victor Hugo, Poitiers</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Rennes </td>
-<td align="center">
-<br/>Lycée de l'Harteloire, Brest</td>
-<td align="center">
-<br/>Rentrée solaire 2011-2012</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Toulouse </td>
-<td align="center">
-<br/>Lycée Pierre de Fermat, Toulouse</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Académie de Versailles </td>
-<td align="center">
-<br/>Lycée Jean-Jacques Rousseau, Sarcelles</td>
-<td align="center">
-<br/>Rentrée scolaire 2010-2011</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Lycée Albert Camus, Bois-Colombes</td>
-<td align="center">
-<br/>Rentrée solaire 2011-2012
+<td align="left" valign="top">
+<p align="center">ACADÉMIE</p>
+</td>
+<td align="left" valign="top">
+<p align="center">ÉTABLISSEMENT</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">DATE DE L'OUVERTURE DE LA SECTION<br/>(correspondant à l'ouverture<br/>de la classe de seconde)</p>
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<br/> (*) Les établissements expérimentaux signalés par un astérisque ont ouvert une classe de première et/ou une classe terminale à la rentrée 2010-2011.</td>
+<td align="left" valign="top">
+<p align="left">Académie d'Aix-Marseille</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée René Char (*), Avignon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
 </tr>
-</table>
-
-</div>
+<tr>
+<td align="left" valign="top">
+<p align="left">
 <br/>
-</div>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée de l'Arc, Orange</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Marcel Pagnol, Marseille</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée André Honnorat, Barcelonnette</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Paul Arène, Sisteron</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2011-2012</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">Lycée Honoré Romane, Embrun</p>
+</td>
+<td>
+<p align="left">Rentrée scolaire 2012-2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Bordeaux</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée François Magendie, Bordeaux</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Corse </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Laetitia Bonaparte, Ajaccio</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Créteil </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Suger, Saint-Denis</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Grenoble </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée international (*), Grenoble</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Emmanuel Mounier (*), Grenoble</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée la Pléiade (*), Pont-de-Chéruy</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Portes de l'Oisans (*), Vizille</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée de l'Edit (*), Roussillon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Vaugelas (*), Chambéry</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Paul Héroult (*), Saint-Jean-de-Maurienne</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée du Granier (*), La Ravoire</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Charles Poncet (*), Cluses</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Charles Baudelaire (*), Cran-Gevrier</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Jean Monnet (*), Annemasse</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée du Mont Blanc (*), Passy</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Lille </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Albert Châtelet, Douai</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Marguerite de Flandre (*), Gondecourt</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Lyon </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée du Val de Saône, Trévoux</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Jean Perrin, Lyon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée René Cassin (*), Tarare</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée du Bugey, Bellay</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Montpellier </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Jules Guesde (*), Montpellier</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Nancy-Metz </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Alfred Mézières, Longwy</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Nantes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée David d'Angers, Angers</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Nice </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Pierre et Marie Curie (*), Menton</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée international (*), Valbonne</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Dumont d'Urville (*), Toulon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Paris </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Victor Hugo, Paris</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">Lycée Claude Monet, Paris</p>
+</td>
+<td>
+<p align="left">Rentrée scolaire 2012-2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Poitiers </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Victor Hugo, Poitiers</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Rennes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée de l'Harteloire, Brest</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée solaire 2011-2012</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Toulouse </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Pierre de Fermat, Toulouse</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Académie de Versailles </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Jean-Jacques Rousseau, Sarcelles</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée scolaire 2010-2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lycée Albert Camus, Bois-Colombes</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Rentrée solaire 2011-2012 </p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">
+<p align="left">(*) Les établissements expérimentaux signalés par un astérisque ont ouvert une classe de première et/ou une classe terminale à la rentrée 2010-2011.</p>
+</td>
+</tr>
+</tbody>
+</table>
