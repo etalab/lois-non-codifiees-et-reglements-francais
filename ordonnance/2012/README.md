@@ -11,6 +11,7 @@
 - [Ordonnance n°2012-792 du 7 juin 2012 (ETST1207536R)](ordonnance-n2012-792-du-7-juin-2012-etst1207536r)
 - [Ordonnance n°2012-34 du 11 janvier 2012 (DEVX1135308R)](ordonnance-n2012-34-du-11-janvier-2012-devx1135308r)
 - [Ordonnance n°2012-351 du 12 mars 2012 (IOCD1129997R)](ordonnance-n2012-351-du-12-mars-2012-iocd1129997r)
+- [Ordonnance n°2012-809 du 13 juin 2012 (DEVT1207934R)](ordonnance-n2012-809-du-13-juin-2012-devt1207934r)
 - [Ordonnance n°2011-1539 du 16 novembre 2011 (DEVL1122392R)](ordonnance-n2011-1539-du-16-novembre-2011-devl1122392r)
 - [Ordonnance n°2012-510 du 18 avril 2012 (EFIR1119874R)](ordonnance-n2012-510-du-18-avril-2012-efir1119874r)
 - [Ordonnance n°2012-514 du 18 avril 2012 (OMEO1202571R)](ordonnance-n2012-514-du-18-avril-2012-omeo1202571r)
