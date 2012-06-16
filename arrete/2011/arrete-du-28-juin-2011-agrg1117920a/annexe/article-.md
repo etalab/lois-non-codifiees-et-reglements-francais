@@ -20,8 +20,6 @@ Triclabendazole
 
 1.2. Anthelminthiques
 
-Abamectine.
-
 Albendazole.
 
 Closantel.
@@ -38,15 +36,11 @@ Ivermectine.
 
 Lévamisole.
 
-Morantel.
-
 Moxidectine.
 
 Nétobimin.
 
 Oxfendazole.
-
-Thiabendazole.
 
 1.3. Anticoccidiens
 
@@ -66,13 +60,9 @@ Toltrazuril.
 
 (et produits pour lutter contre le varron)
 
-Abamectine.
-
 Amitraz.
 
 Cyfluthrine.
-
-Cyhalothrine.
 
 Cyperméthrine.
 
@@ -91,8 +81,6 @@ Fluméthrine.
 Ivermectine.
 
 Moxidectine.
-
-Perméthrine.
 
 2. Antibiotiques
 
@@ -134,17 +122,11 @@ Colistine.
 
 Dihydrostreptomycine.
 
-Erythromycine.
-
 Framycétine.
 
 Nafcilline.
 
 Néomycine.
-
-Novobiocine.
-
-Oxacilline.
 
 Rifaximine.
 
@@ -166,31 +148,37 @@ Ferments, levures et autres micro-organismes.
 
 4.2. Sérums
 
-Sérums contre les septicémies néonatales des veaux à E. coli F5.
+Sérums :
+
+- contre les septicémies néonatales des veaux à Escherichia coli F5 ;
+
+- antitétaniques.
 
 4.3. Vaccins
 
 Vaccins contre :
 
-― les maladies des veaux dues aux colibacilles, rotavirus et coronavirus soit par immunisation directe du veau, soit par immunisation de la vache gestante ;
+- les maladies des veaux dues aux colibacilles, rotavirus et coronavirus soit par immunisation directe du veau, soit par immunisation de la vache gestante ;
 
-― les maladies des veaux dues aux pasteurelles et salmonelles ;
+- les maladies des veaux dues aux pasteurelles et salmonelles ;
 
-― les entérotoxémies à Clostridia sp (toxi-infections à clostridies) ;
+- les entérotoxémies à Clostridia sp (toxi-infections à clostridies) ;
 
-― la teigne des bovins (dermatophytose due à Trichophyton verrucosum) ;
+- la teigne des bovins (dermatophytose due à Trichophyton verrucosum) ;
 
-― le tétanos ;
+- le tétanos ;
 
-― les affections respiratoires dues à Pasteurella sp, Histophilus somni, Mannheimia haemolytica, virus parainfluenza, virus syncytial respiratoire bovin ;
+- les affections respiratoires dues à Pasteurella sp, Histophilus somni, Mannheimia haemolytica, virus parainfluenza, virus syncytial respiratoire bovin ;
 
-― la maladie des muqueuses (diarrhée virale bovine) ;
+- la maladie des muqueuses (diarrhée virale bovine) ;
 
-― les mammites à Staphylococcus aureus, à staphylocoques coagulase-négatifs et à germes coliformes ;
+- les mammites à Staphylococcus aureus, à staphylocoques coagulase-négatifs et à germes coliformes ;
 
-― la rhinotrachéite infectieuse bovine (IBR) ;
+- la rhinotrachéite infectieuse bovine (IBR) ;
 
-― les affections dues à Coxiella burnetii.
+- les affections dues à Coxiella burnetii. ;
+
+- la fièvre catarrhale ovine (sérotypes 1 et 8).
 
 5. Médicaments utilisés
 
@@ -217,8 +205,6 @@ Production porcine
 1.2. Anthelminthiques
 
 Doramectine.
-
-Fébantel.
 
 Fenbendazole.
 
@@ -258,9 +244,9 @@ administrées par voie orale aux porcelets jusqu'à 25 kg)
 
 Amoxicilline.
 
-Apramycine.
+Chlortétracyline.
 
-Chlortétracycline et
+Apramycine.
 
 Colistine.
 
@@ -312,7 +298,7 @@ Vaccins contre :
 
 ― l'iléite (enthéropathie proliférative) due à Lawsonia intracellularis ;
 
-― la maladie de Glasser (Haemophilus parasuis sérotype 5) ;
+― la maladie de Glasser (Haemophilus parasuis) ;
 
 ― la mycoplasmose ;
 
@@ -369,8 +355,6 @@ Ivermectine.
 Lévamisole.
 
 Mébendazole.
-
-Morantel.
 
 Moxidectine.
 
@@ -442,19 +426,21 @@ Sérums antitétaniques.
 
 Vaccins contre :
 
-― le piétin (Dichelobacter nodosus) ;
+- le piétin (Dichelobacter nodosus) ;
 
-― les affections dues à Pasteurella, Mannheimia, Salmonella, Clostridium et Welchia ;
+- les affections dues à Pasteurella, Mannheimia, Salmonella, Clostridium et Escherichia coli ;
 
-― l'ecthyma contagieux ;
+- l'ecthyma contagieux ;
 
-― les affections dues à Chlamydophila abortus ;
+- les affections dues à Chlamydophila abortus ;
 
-― les affections dues à Coxiella burnetii (fièvre Q) ;
+- les affections dues à Coxiella burnetii (fièvre Q) ;
 
-― le rouget (Erysipelothrix rhusiopathiae) ;
+- le rouget (Erysipelothrix rhusiopathiae) ;
 
-― la toxoplasmose.
+- la toxoplasmose ;
+
+- la fièvre catarrhale ovine (sérotypes 1 et 8).
 
 5. Médicaments utilisés pour la maîtrise de l'œstrus
 
@@ -472,8 +458,6 @@ Production caprine
 
 1.1. Douvicides
 
-Oxyclozanide.
-
 Triclabendazole.
 
 1.2. Anthelminthiques
@@ -484,13 +468,7 @@ Fébantel.
 
 Fenbendazole.
 
-Mébendazole.
-
-Morantel.
-
 Oxfendazole.
-
-Thiabendazole.
 
 1.3. Anticoccidiens
 
@@ -528,11 +506,13 @@ Sérums antitétaniques.
 
 Vaccins contre :
 
-― les affections dues à Pasteurella, Mannheimia, Salmonella, Clostridium et Welchia ;
+- les affections dues à Pasteurella, Mannheimia, Salmonella, Clostridium ;
 
-― l'ecthyma contagieux ;
+- l'ecthyma contagieux ;
 
-― les affections dues à Coxiella burnetii.
+- les affections dues à Coxiella burnetii ;
+
+- la fièvre catarrhale ovine (sérotypes 1 et 8).
 
 5. Médicaments utilisés pour la maîtrise de l'œstrus
 
@@ -592,7 +572,7 @@ Spiramycine.
 
 Tylosine.
 
-4.2. Anti-infectieux administrés dans l'eau de boisson
+2.2. Anti-infectieux administrés dans l'eau de boisson
 
 (et seulement à des concentrations correspondant à
 
@@ -682,8 +662,6 @@ Production cunicole
 
 1.3. Anticoccidiens
 
-Sulfachloropyrazine.
-
 Sulfadimérazine (Sulfadimidine).
 
 Sulfadiméthoxine.
@@ -736,21 +714,19 @@ Vitamines A, D et E.
 
 Vaccins contre :
 
-― la myxomatose ;
+- la myxomatose ;
 
-― la maladie hémorragique ;
+- la maladie hémorragique ;
 
-― la pasteurellose ;
+- la pasteurellose ;
 
-― les entérotoxémies.
+- les entérotoxémies.
 
 5. Médicaments utilisés pour la maîtrise de l'œstrus
 
 Buséréline.
 
-Gonadolibérine.
-
-Gonadotrophine sérique.
+Gonadoréline.
 
 Léciréline.
 
@@ -761,8 +737,6 @@ Production de petit gibier
 1. Antiparasitaires
 
 1.3. Anticoccidiens
-
-Sulfadimérazine (Sulfadimidine).
 
 Sulfadiméthoxine.
 
