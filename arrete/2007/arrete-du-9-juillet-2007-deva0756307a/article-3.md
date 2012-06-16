@@ -87,3 +87,19 @@ Paris - Split (Croatie).
 Jusqu'au 24 avril 2017 :
 
 Paris - Tunis (Tunisie).
+
+Jusqu'au 31 mai 2017 :
+
+Paris - Louqsor (Egypte) ;
+
+Paris - Hourghada (Egypte) ;
+
+Paris - Agadir (Maroc) ;
+
+Paris - Oudja (Maroc) ;
+
+Paris - Djerba (Tunisie) ;
+
+Paris - Monastir (Tunisie) ;
+
+Paris - Tozeur (Tunisie).

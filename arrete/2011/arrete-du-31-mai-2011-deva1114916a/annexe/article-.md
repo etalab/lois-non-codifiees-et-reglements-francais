@@ -12,7 +12,7 @@ Marseille-Sétif (Algérie).
 
 Paris-Sétif (Algérie).
 
-Jusqu'au 1er mars 2012 :
+Jusqu'au 1er mars 2012
 
 Paris-Fès (Maroc) ;
 
@@ -20,7 +20,7 @@ Paris-Rabat (Maroc) ;
 
 Paris-Tanger (Maroc).
 
-Jusqu'au 1er mars 2017 :
+Jusqu'au 1er mars 2017
 
 Paris-Biskra (Algérie).
 
@@ -156,14 +156,20 @@ Jusqu'au 31 mai 2016
 
 Paris-Tunis (Tunisie).
 
-Jusqu'au 20 novembre 2016 :
+Jusqu'au 20 novembre 2016
 
-Paris-Kayes (Mali)
+Paris-Kayes (Mali).
 
-Jusqu'au 6 janvier 2017 :
+Jusqu'au 6 janvier 2017
 
 Paris-Tripoli (Libye).
 
-Jusqu'au 23 février 2017 :
+Jusqu'au 23 février 2017
 
 Strasbourg - Alger (Algérie).
+
+Jusqu'au 31 mai 2017
+
+Nice-Moscou (Russie) ;
+
+Paris-Moscou (Russie).
