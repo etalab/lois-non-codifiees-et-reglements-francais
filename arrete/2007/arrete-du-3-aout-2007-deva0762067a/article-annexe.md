@@ -67,3 +67,7 @@ Paris-Salvador de Bahia (Brésil).
 Jusqu'au 27 avril 2017 :
 
 Paris-Cancun (Mexique).
+
+Jusqu'au 24 mai 2017 :
+
+Paris-San Francisco (Etats-Unis).
