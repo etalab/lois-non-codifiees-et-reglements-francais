@@ -1,10 +1,12 @@
 # Article 86-5
 
-Calcul des rapports. - Le montant de la déduction proportionnelle sur enjeux et des paris remboursés est défalqué du total des enjeux, on obtient ainsi la masse à partager " Quarté Plus ".
+Calcul des rapports.
+
+Le montant de la déduction proportionnelle sur enjeux et des paris remboursés est défalqué du total des enjeux, on obtient ainsi la masse à partager " Quarté Plus ".
 
 60 % de cette masse à partager appelée masse à partager "quarté" sont affectés au calcul des rapports "quarté" ; 40 % de cette masse appelée masse à partager "bonus" est affectée au calcul des rapports " bonus ".
 
-Le calcul des rapports bruts, auxquels s'appliquent, pour les paris enregistrés au pari mutuel urbain et aux guichets des hippodromes raccordés à son système d'information central, les dispositions du troisième alinéa du I de l'article 19.1 du présent arrêté, s'effectue comme suit :
+Le calcul des rapports bruts s'effectue comme suit :
 
 I. - Rapports " quarté "
 

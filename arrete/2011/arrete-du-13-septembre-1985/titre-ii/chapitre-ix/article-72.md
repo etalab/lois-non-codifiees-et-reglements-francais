@@ -6,7 +6,7 @@ Le montant de la déduction proportionnelle sur enjeux et des paris remboursés 
 
 Après déduction du montant des paiements effectués sur les paris traités en paris "Simple gagnant" et en paris "Couplé gagnant" en application des articles 62 et 65, on obtient la masse à partager.
 
-Le calcul des rapports bruts, auxquels s'appliquent les dispositions du troisième alinéa du I de l'article 19.1 du présent arrêté, s'effectue comme suit :
+Le calcul des rapports bruts s'effectue comme suit :
 
 1. Cas d'arrivée normale :
 

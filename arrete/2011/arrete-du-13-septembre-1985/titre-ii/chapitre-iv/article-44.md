@@ -6,7 +6,7 @@ Pour chaque type de pari " Couplé Gagnant " ou 7 " Couplé Placé ", le montant
 
 Après déduction du montant des paiements effectués sur les paris traités en paris "Simple gagnant" ou "Placé", en application des dispositions de l'article 43 et de l'article 44, paragraphe 3 ci-dessous, on obtient la masse à partager.
 
-Le calcul des rapports bruts, auxquels s'appliquent les dispositions du troisième alinéa du I de l'article 19.1 du présent arrêté, s'effectue comme suit :
+Le calcul des rapports bruts s'effectue comme suit :
 
 1. Pari "Couplé gagnant" :
 

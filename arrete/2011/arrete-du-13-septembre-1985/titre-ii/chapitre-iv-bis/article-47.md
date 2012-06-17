@@ -13,5 +13,3 @@ Dans ce dernier cas, le pari est payable si les deux chevaux choisis occupent le
 Un pari "Couplé placé hippodrome" est payable si les deux chevaux choisis occupent deux des trois premières places de l'épreuve.
 
 Chaque cheval participant à la course est traité séparément dans la détermination des combinaisons payables.
-
-Ces paris sont soumis aux dispositions de l'article 42, du I de l'article 43 et des articles 44 à 46 du présent arrêté. Pour ces paris, le calcul des rapports défini à l'article 44 s'effectue sans appliquer les modalités particulières prévues au troisième alinéa de l'article 19.1.

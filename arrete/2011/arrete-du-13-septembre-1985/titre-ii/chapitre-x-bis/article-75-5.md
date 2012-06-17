@@ -4,7 +4,7 @@ Calcul des rapports.
 
 Le montant des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la course se déroule est défalqué du total des enjeux.
 
-Le calcul des rapports bruts, auxquels s'appliquent les dispositions du troisième alinéa du I de l'article 19.1 du présent arrêté lorsque la course concernée se déroule en France, s'effectue comme suit :
+Le calcul des rapports bruts s'effectue comme suit :
 
 1. Cas d'arrivée normale :
 
