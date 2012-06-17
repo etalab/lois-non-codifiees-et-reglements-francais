@@ -12,17 +12,15 @@ Les catégories de données à caractère personnel et les informations enregist
 
 2° Informations relatives à la vie professionnelle :
 
-― nom, raison sociale et adresse de l'employeur ou des employeurs ;
+― nom, raison sociale, numéro SIRET  et adresse de l'employeur ou des employeurs ;
 
 ― diplôme ou attestation de reconnaissance de l'expérience professionnelle.
 
-3° Informations relatives à la décision du préfet :
+3° Informations relatives à la décision du préfet ou du Conseil national des activités privées de sécurité :
 
 ― la date de la décision ;
 
-― le numéro de carte professionnelle délivrée ;
-
-― le numéro de l'autorisation préalable ou de l'autorisation provisoire délivrée ;
+― le numéro de la carte professionnelle, de l'autorisation ou de l'agrément délivré ;
 
 ― la date d'expiration de la carte ou de l'autorisation ;
 
