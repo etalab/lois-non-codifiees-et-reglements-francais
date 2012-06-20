@@ -116,7 +116,6 @@
 - [Décret n°95-995 du 5 septembre 1995 (EQUU9500707D)](decret-n95-995-du-5-septembre-1995-equu9500707d)
 - [Décret n°96-1062 du 5 décembre 1996 (AGRA9602160D)](decret-n96-1062-du-5-decembre-1996-agra9602160d)
 - [Décret n°98-444 du 5 juin 1998 (ECOP9800230D)](decret-n98-444-du-5-juin-1998-ecop9800230d)
-- [Décret n°95-553 du 5 mai 1995 (PRMX9500771D)](decret-n95-553-du-5-mai-1995-prmx9500771d)
 - [Décret n°95-554 du 5 mai 1995 (SPSH9500911D)](decret-n95-554-du-5-mai-1995-spsh9500911d)
 - [Décret n°95-574 du 5 mai 1995 (INTB9500076D)](decret-n95-574-du-5-mai-1995-intb9500076d)
 - [Décret n°95-582 du 5 mai 1995 (JUSB9510144D)](decret-n95-582-du-5-mai-1995-jusb9510144d)
