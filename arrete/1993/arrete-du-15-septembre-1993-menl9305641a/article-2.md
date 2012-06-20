@@ -6,13 +6,15 @@ Les épreuves facultatives du baccalauréat technologique sont fixées comme sui
 
 Cette disposition est applicable à compter de la session 2009 et prend effet pour les épreuves anticipées passées en 2008.
 
-- Série STI : langue vivante étrangère, langue régionale, éducation physique et sportive, arts et langue des signes française (LSF).
+Série STD 2A : langue vivante étrangère ou régionale (uniquement pour les sessions 2013 à 2016 de l'examen), langue des signes française (LSF), éducation physique et sportive, arts.
 
-- Série STL : langue vivante étrangère, langue régionale, éducation physique et sportive, arts et langue des signes française (LSF).
+Série STI2D : langue vivante étrangère ou régionale (uniquement pour les sessions 2013 à 2016 de l'examen), langue des signes française (LSF), éducation physique et sportive, arts.
+
+Série STL : langue vivante étrangère ou régionale (uniquement pour les sessions 2013 à 2016 de l'examen), langue des signes française (LSF), éducation physique et sportive, arts
 
 - Série STG : langue vivante étrangère ou régionale, éducation physique et sportive, arts et langue des signes française (LSF).
 
-L'épreuve facultative d'arts est organisée à compter de la session de 1998. Elle porte, au choix des candidats, sur l'un des domaines suivants : arts plastiques ou cinéma audiovisuel ou histoire des arts ou musique ou théâtre-expression dramatique ou danse.
+L'épreuve facultative d'arts est organisée à compter de la session de 1998. Elle porte, au choix des candidats, sur l'un des domaines suivants : arts plastiques ou cinéma audiovisuel ou histoire des arts ou musique ou théâtre ou danse.
 
 Les candidats à l'épreuve d'éducation physique et sportive de complément ne peuvent s'inscrire à l'épreuve facultative d'éducation physique et sportive.
 
