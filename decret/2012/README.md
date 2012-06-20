@@ -317,6 +317,8 @@
 - [Décret n°2012-502 du 16 avril 2012 (ETSS1202900D)](decret-n2012-502-du-16-avril-2012-etss1202900d)
 - [Décret n°2012-503 du 16 avril 2012 (ETSS1208062D)](decret-n2012-503-du-16-avril-2012-etss1208062d)
 - [Décret n°2012-506 du 16 avril 2012 (TRAT1118150D)](decret-n2012-506-du-16-avril-2012-trat1118150d)
+- [Décret n°2012-811 du 16 juin 2012 (PRMX1224075D)](decret-n2012-811-du-16-juin-2012-prmx1224075d)
+- [Décret n°2012-812 du 16 juin 2012 (INTL1200526D)](decret-n2012-812-du-16-juin-2012-intl1200526d)
 - [Décret n°2007-1360 du 17 septembre 2007 (ECEP0762182D)](decret-n2007-1360-du-17-septembre-2007-ecep0762182d)
 - [Décret n°2012-231 du 17 février 2012 (MAEF1201993D)](decret-n2012-231-du-17-fevrier-2012-maef1201993d)
 - [Décret n°2012-232 du 17 février 2012 (DEVP1123456D)](decret-n2012-232-du-17-fevrier-2012-devp1123456d)
