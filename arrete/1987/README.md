@@ -201,7 +201,6 @@
 - [Arrêté du 12 août 1987 (MENL8700491A)](arrete-du-12-aout-1987-menl8700491a)
 - [Arrêté du 12 décembre 1986](arrete-du-12-decembre-1986)
 - [Arrêté du 12 février 1987](arrete-du-12-fevrier-1987)
-- [Arrêté du 12 février 1987 (AGRE8700485A)](arrete-du-12-fevrier-1987-agre8700485a)
 - [Arrêté du 12 février 1987 (ASEK8703108A)](arrete-du-12-fevrier-1987-asek8703108a)
 - [Arrêté du 12 février 1987 (COPB8700005A)](arrete-du-12-fevrier-1987-copb8700005a)
 - [Arrêté du 12 janvier 1987](arrete-du-12-janvier-1987)
