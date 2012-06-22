@@ -152,8 +152,6 @@ Article 9
 
 Moyens en personnel
 
-Pour permettre la mise en œuvre de ses missions, l'établissement dispose de l'effectif en personnels défini selon des modalités précisées par la circulaire du ....... Celui-ci est exprimé en ETP (dans une fourchette comprise entre 1 ETP pour dix personnes accueillies et 1 ETP pour quinze personnes accueillies), dont 50 % au moins sont des travailleurs sociaux attestant des qualifications professionnelles requises.
-
 Conformément aux dispositions de l'article R. 314-19 du CASF, le tableau des effectifs du personnel, annexé aux propositions budgétaires, fait apparaître pour l'année considérée le nombre prévisionnel des emplois par grade ou qualification. Les suppressions, transformations et créations d'emploi font l'objet d'une présentation distincte.
 
 Le recrutement et la gestion du personnel sont soumis aux dispositions de la convention collective du ............
