@@ -1,6 +1,6 @@
 # Article 9
 
-L'agrément est suspendu lorsque les conditions de fonctionnement ou les exigences sanitaires mentionnées à l'article 7 du présent arrêté ne sont plus remplies ou lorsque les conditions mentionnées à l'article 9 ne sont pas respectées.
+L'agrément est suspendu lorsque les conditions de fonctionnement ou les exigences sanitaires mentionnées à l'article 4 du présent arrêté ne sont plus remplies ou lorsque les conditions mentionnées à l'article 8 ne sont pas respectées.
 
 Le directeur départemental chargé de la protection des populations fixe un délai de suspension, qui ne peut excéder six mois, en fonction du temps nécessaire à la remise en conformité de l'établissement.
 
