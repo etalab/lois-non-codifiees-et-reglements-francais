@@ -1,0 +1,9 @@
+# Article 16
+
+1° Le classement définitif, établi et arrêté selon les modalités définies au 6° de l'article 14, est prononcé par le directeur de l'Ecole du Val-de-Grâce par ordre de mérite. L'année de formation initiale spécialisée est validée pour les officiers élèves ayant obtenu une note moyenne générale égale ou supérieure à 10 sur 20 sur l'ensemble des enseignements universitaires, métiers, milieux et opérationnels du service de santé des armées. Le master 2 « analyse et management des établissements de santé », option « organisation et pilotage des pôles et unités de soins », dont la soutenance des mémoires devant le jury universitaire se déroule après la date de proclamation des résultats, est décerné aux officiers élèves selon les modalités fixées par l'enseignement supérieur.
+
+Dans le cas où des épreuves de la deuxième session d'examens universitaires sont organisées au profit d'un ou plusieurs officiers élèves ayant validé leur année de formation initiale spécialisée, seuls les résultats obtenus lors des examens de la première session sont pris en compte pour l'établissement du classement final défini au premier alinéa du présent article.
+
+Le grade de master est attribué aux officiers élèves qui ont obtenu le master professionnel « analyse et management des établissements de santé » ;
+
+2° Toutes les notes obtenues durant l'année de formation initiale spécialisée sont transcrites sur le livret scolaire ouvert en début d'année pour chaque élève. Ce livret est communiqué individuellement et confidentiellement aux intéressés par l'officier responsable de la formation initiale spécialisée, après proclamation du classement définitif. Les officiers élèves certifient en avoir pris connaissance en y apposant leur signature. Le livret et les autres pièces du dossier scolaire sont, en fin d'année, archivés par le secrétariat du département de la formation initiale spécialisée.
