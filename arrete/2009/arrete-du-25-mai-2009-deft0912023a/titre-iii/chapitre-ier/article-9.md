@@ -1,3 +1,3 @@
 # Article 9
 
-Le contrat d'engagement des élèves sous-officiers prend effet le premier jour du mois de leur entrée à l'école.
+Le  contrat d'engagement des engagés volontaires sous-officiers doit être  signé au plus tard le jour de leur entrée en école de formation.
