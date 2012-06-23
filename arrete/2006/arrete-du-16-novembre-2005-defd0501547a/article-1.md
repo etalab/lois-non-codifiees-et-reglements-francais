@@ -4,8 +4,6 @@ Les autorités militaires et civiles placées à la tête des organismes énumé
 
 -en matière de gestion financière (cf. annexe 1) ;
 
--en matière de gestion du matériel (cf. annexe 2) ;
-
 -en matière d'opérations domaniales (cf. annexe 3) ;
 
 -en diverses matières (cf. annexe 4).
