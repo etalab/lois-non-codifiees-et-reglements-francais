@@ -12,8 +12,10 @@ Quatre médecins qualifiés dans la discipline intéressée, dont deux proposés
 
 Des suppléants sont désignés suivant la même procédure et en même nombre. Ils siègent en l'absence des titulaires.
 
-Aucun mandat ne pourra être renouvelé au-delà de l'âge de soixante-huit ans.
+En cas de cessation de fonctions, pour quelque cause que ce soit, d'un membre de la commission, celui-ci est remplacé par son suppléant qui devient titulaire pour la durée du mandat restant à accomplir. Un nouveau suppléant est alors nommé dans les conditions prévues au présent article.
 
-Un médecin inspecteur régional de la santé et un médecin-conseil de la caisse régionale d'assurance maladie pour la Commission nationale de première instance, ou le représentant du ministre chargé de la santé et un représentant du ministre chargé de la sécurité sociale pour la Commission nationale d'appel assistent à la commission avec voix consultative.
+Aucun mandat ne pourra être renouvelé au-delà de l'âge de soixante-dix ans .
+
+Un médecin inspecteur de santé publique et un médecin-conseil de la caisse régionale d'assurance maladie pour la Commission nationale de première instance, ou le représentant du ministre chargé de la santé et un représentant du ministre chargé de la sécurité sociale pour la Commission nationale d'appel assistent à la commission avec voix consultative.
 
 Les membres titulaires ou suppléants ne peuvent siéger à la Commission nationale d'appel s'ils ont déjà eu à examiner la demande en première instance.
