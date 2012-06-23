@@ -2,7 +2,7 @@
 
 Sous réserve de l'application des articles 11 et suivants, peuvent être inscrits en deuxième section les candidats qui n'ont pas vocation à être inscrits en première section.
 
-Par dérogation à l'alinéa qui précède, sous reserve de l'application des articles 11 et suivants,  peuvent également être inscrits en deuxième section :
+Par dérogation à l'alinéa qui précède, sous reserve de l'application des articles 11 et suivants, peuvent également être inscrits en deuxième section :
 
 A. Les candidats admis en qualité d'élève à l'école nationale supérieure de sécurité sociale à la suite des épreuves du concours interne d'entrée à ladite école ;
 
@@ -14,4 +14,6 @@ B. Les candidats qui remplissent l'une des conditions suivantes :
 
 3° Occuper un emploi de titulaire de catégorie A à la Caisse autonome nationale de la sécurité sociale dans les mines.
 
-Le nombre des candidats inscrits en deuxième section ne peut excéder le cinquième du nombre total des candidats inscrits en première section. Pour les seules classes IF 2 et IF 1, cette proportion est réduite au cinquantième du nombre total des candidats inscrits en première section.
+Le nombre des candidats inscrits en deuxième section ne peut excéder le cinquième du nombre total des candidats inscrits en première section sur la liste d'aptitude de l'année précédente. Pour les seules classes IF 2 et IF 1, cette proportion est réduite au cinquantième du nombre total des candidats inscrits en première section sur la liste d'aptitude de l'année précédente.
+
+Toutefois, si le nombre de candidats inscrits en première section de l'année en cours est supérieur de 10 % au nombre de candidats inscrits en première section de l'année précédente, la commission peut décider de retenir comme référence le nombre des candidats inscrits en première section de l'année en cours.
