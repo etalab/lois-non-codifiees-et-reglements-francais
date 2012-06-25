@@ -1,4 +1,4 @@
-# Article 3
+# Article 4
 
 Les Archives de France sont destinataires des informations individuelles recueillies identifiant les personnes enquêtées, conformément aux dispositions de l'article L. 212-4 du code du patrimoine.
 
