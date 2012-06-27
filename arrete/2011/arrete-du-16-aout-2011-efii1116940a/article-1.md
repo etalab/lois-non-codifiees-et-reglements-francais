@@ -38,7 +38,7 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 - adjoint au chef du service risques technologiques, chef de la division prévention des nuisances et sécurité des véhicules à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin, plus particulièrement chargé des domaines énergie, risques et après mines, notamment uranium ;
+- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin, plus particulièrement chargé des domaines énergie, risques et après mines, notamment uranium ; (supprimé le 16 janvier 2012)
 
 - adjoint au chef du service risques naturels et technologiques, chef de l'unité risques technologiques chroniques de la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon ;
 
@@ -55,8 +55,6 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 - chef du bureau matériel de transport à la direction générale de la compétitivité, de l'industrie et des services ;
 
 - chef du bureau de la chimie de la sous-direction de l'industrie de santé, de la chimie et des nouveaux matériaux à la direction générale de la compétitivité, de l'industrie et des services ;
-
-- chef du bureau des ressources minérales à la direction générale de l'aménagement, du logement et de la nature (supprimé le 21 mars 2012)
 
 - chef du bureau animation du contrôle technique déconcentré à la direction générale de l'énergie et du climat ;
 
@@ -130,13 +128,9 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 - chef du service risques technologiques et naturels (SRTN) de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes ;
 
-― chef de la mission stratégie, performance et qualité (MSPQ) de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes (supprimé le 1er mai 2012) ;
-
 - chef de service énergie construction climat air (SECCA) de la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie ;
 
 - chef du service prévention des risques de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne ;
-
-- chef du service développement des entreprises au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne ;
 
 - chef du pôle interrégional risques accidentels de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
 
@@ -230,8 +224,6 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 - directeur des relations avec les entreprises à l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes ;
 
-- directeur adjoint de la direction de la planification du spectre et des affaires internationales de l'Agence nationale des fréquences ;
-
 - responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services ;
 
 - responsable de la mission expertise et animation de l'Autorité de sûreté nucléaire ;
@@ -266,10 +258,22 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 - responsable de la mission pilotage stratégique et performance à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
 
-- secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
-
 - secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
 - secrétaire général à la direction régionale de l'environnement de l'aménagement et du logement de Nord - Pas-de-Calais ;
 
 - secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes ;
+
+- Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Lorraine ; (ajouté le 1er juin 2012)
+
+- Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Lorraine ; (supprimé le 1er octobre 2012)
+
+- Chef du service énergie, climat et ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement du Languedoc-Roussillon ; (ajouté le 1er juin 2012)
+
+- Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne ; (ajouté le 1er juin 2012)
+
+- Délégué interrégional de la mission interministérielle d'inspection du logement social de Marseille ; (ajouté le 1er juin 2012)
+
+- Adjoint au chef du département développement économique, compétitivité, international au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France ; (ajouté le 1er juin 2012)
+
+- Adjoint au chef du bureau de la métrologie à la direction générale de la compétitivité, de l'industrie et des services ; (ajouté le 1er juin 2012)
