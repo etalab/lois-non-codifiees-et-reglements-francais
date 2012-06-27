@@ -1,8 +1,6 @@
 # Article Annexe II
 
-MÉTHODOLOGIE DE CLASSIFICATION DES ZONES
-
-RELATIVES AUX INFIRMIERS LIBÉRAUX
+MÉTHODOLOGIE DE CLASSIFICATION DES ZONES RELATIVES AUX INFIRMIERS LIBÉRAUX
 
 Les zones prévues par l'article L. 1434-7 sont classées en cinq niveaux de dotation : zones très sous-dotées, zones sous-dotées, zones à dotation intermédiaire, zones très dotées et zones "surdotées".
 
@@ -34,7 +32,7 @@ Pour un tiers d'entre eux, les places des SSIAD sont affectées aux communes fig
 
 1.3. Les centres de soins infirmiers (CSI)
 
-L'activité des CSI de France métropolitaine sur l'année 2010 est issue de la base  Données de consommation inter-régimes , DCIR. Les codes des communes d'implantation des CSI sont issus de la  Base établissements référentielle , BERF. Dans le cas où le code de la commune du CSI paraît erroné, le bassin de vie/pseudo-canton est retrouvé à partir du code postal. Si un même code postal correspond à plusieurs bassins de vie/pseudo-cantons, les honoraires sans dépassement du CSI (AMI/AIS/DI) sont répartis entre les différents bassins de vie/pseudo-cantons au prorata de la population de chaque bassin de vie/pseudo-canton.
+L'activité des CSI de France métropolitaine sur l'année 2010 est issue de la base Données de consommation inter-régimes , DCIR. Les codes des communes d'implantation des CSI sont issus de la Base établissements référentielle , BERF. Dans le cas où le code de la commune du CSI paraît erroné, le bassin de vie/pseudo-canton est retrouvé à partir du code postal. Si un même code postal correspond à plusieurs bassins de vie/pseudo-cantons, les honoraires sans dépassement du CSI (AMI/AIS/DI) sont répartis entre les différents bassins de vie/pseudo-cantons au prorata de la population de chaque bassin de vie/pseudo-canton.
 
 Les effectifs infirmiers sont estimés en rapportant les honoraires sans dépassement du CSI aux honoraires moyens sans dépassement du département dans lequel le CSI est implanté. Si l'activité d'un CSI est décomposée entre plusieurs bassins de vie/pseudo-cantons, les effectifs sont estimés à l'aide des HSD proratisés en fonction de la population.
 
@@ -82,136 +80,1424 @@ Les données sont issues du SNIIRAM pour 2010.
 
 Tableau. ― Définition des scores
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>
-</th>
-<th>0<br clear="none"/>
-</th>
-<th>1<br clear="none"/>
-</th>
-<th>2<br clear="none"/>
-</th>
-<th>3<br clear="none"/>
-</th>
-<th>4<br clear="none"/>
-</th>
-</tr>
-<tr>
-<td align="center">Indicateurs des besoins de soins.<br clear="none"/>
+<td width="95"/>
+<td width="95">
+<br/>
 </td>
-<td align="center">HSD moyens/PS<br clear="none"/>
+<td width="95">
+<p align="center">0</p>
 </td>
-<td align="center">¸ 1er décile<br clear="none"/>
+<td width="95">
+<p align="center">1</p>
 </td>
-<td align="center">(1er décile ― 1er quartile)<br clear="none"/>
+<td width="95">
+<p align="center">2</p>
 </td>
-<td align="center">(1er quartile ― 3e quartile)<br clear="none"/>
+<td width="95">
+<p align="center">3</p>
 </td>
-<td align="center">(3e quartile ― 9e décile)<br clear="none"/>
-</td>
-<td align="center">9e décile<br clear="none"/>
+<td width="95">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br clear="none"/>
+<td rowspan="2" width="95">
+<p>Indicateurs des besoins de soins.</p>
 </td>
-<td align="center">Part des personnes de + de 75 ans<br clear="none"/>
+<td width="95">
+<p align="center">HSD moyens/PS</p>
 </td>
-<td align="center">¸ 9e décile<br clear="none"/>
+<td width="95">
+<p align="center">&lt; 1er décile</p>
 </td>
-<td align="center">
-<br clear="none"/>
+<td width="95">
+<p align="center">(1er décile - 1er quartile)</p>
 </td>
-<td align="center">
-<br clear="none"/>
+<td width="95">
+<p align="center">(1er quartile - 3e quartile)</p>
 </td>
-<td align="center">¹ ou = 9e décile<br clear="none"/>
+<td width="95">
+<p align="center">(3e quartile - 9e décile)</p>
 </td>
-<td align="center">
-<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">Indicateurs d'offre de soins.<br clear="none"/>
-</td>
-<td align="center">Densité d'IDEL/ 100 000 hab. (std)<br clear="none"/>
-</td>
-<td align="center">¹ ou = 9e décile<br clear="none"/>
-</td>
-<td align="center">(3e quartile ― 9e décile)<br clear="none"/>
-</td>
-<td align="center">(1er quartile ― 3e quartile)<br clear="none"/>
-</td>
-<td align="center">(1er décile ― 1er quartile)<br clear="none"/>
-</td>
-<td align="center">¸ 1er décile<br clear="none"/>
+<td width="95">
+<p align="center">9e décile</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br clear="none"/>
+<td width="95">
+<p align="center">Part des personnes de + de 75 ans</p>
 </td>
-<td align="center">IK moyens/PS<br clear="none"/>
+<td width="95">
+<p align="center">&lt; 9e décile</p>
 </td>
-<td align="center">¸ 1er décile<br clear="none"/>
+<td width="95">
+<br/>
 </td>
-<td align="center">(1er décile ― 1er quartile)<br clear="none"/>
+<td width="95">
+<br/>
 </td>
-<td align="center">(1er quartile ― 3e quartile)<br clear="none"/>
+<td width="95">
+<p align="center">&gt; ou = 9e décile</p>
 </td>
-<td align="center">(3e quartile ― 9e décile)<br clear="none"/>
+<td width="95">
+<br/>
 </td>
-<td align="center">¹ ou = 9e décile<br clear="none"/>
+</tr>
+<tr>
+<td rowspan="2" width="95">
+<p>Indicateurs d'offre de soins.</p>
+</td>
+<td width="95">
+<p align="center">Densité d'IDEL/ 100 000 hab. (std)</p>
+</td>
+<td width="95">
+<p align="center">&gt; ou = 9e décile</p>
+</td>
+<td width="95">
+<p align="center">(3e quartile - 9e décile)</p>
+</td>
+<td width="95">
+<p align="center">(1er quartile - 3e quartile)</p>
+</td>
+<td width="95">
+<p align="center">(1er décile - 1er quartile)</p>
+</td>
+<td width="95">
+<p align="center">&lt; 1er décile</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">IK moyens/PS</p>
+</td>
+<td width="95">
+<p align="center">&lt; 1er décile</p>
+</td>
+<td width="95">
+<p align="center">(1er décile - 1er quartile)</p>
+</td>
+<td width="95">
+<p align="center">(1er quartile - 3e quartile)</p>
+</td>
+<td width="95">
+<p align="center">(3e quartile - 9e décile)</p>
+</td>
+<td width="95">
+<p align="center">&gt; ou = 9e décile</p>
 </td>
 </tr>
 </tbody>
 </table>
 
+<div align="left">
+<br/>Les bassins de vie/pseudo-cantons sont classés en fonction du total des scores et suivant la distribution nationale des scores obtenus :</div>
+<div align="left">
+<br/>Zones très sous-dotées :</div>
+<div align="left">
+<br/>― score 11 (95e percentile) ;<br/>― ou score de 9 ou 10 et densité ¸ 82 pour 100 000 habitants.<br/>Zones sous-dotées : score de 9 ou 10 (9e décile) pour les densités de plus de 81 pour 100 000 habitants.<br/>Zones intermédiaires : score compris entre 5 et 8.<br/>Zones très dotées : score de 4 (1er décile) pour les densités de moins de 132 pour 100 000 habitants.<br/>Zones sur-dotées :<br/>― score 3 (5e percentile) ;<br/>― ou score de 4 et densité de plus de 132.<br/>
 </div>
-
-Les bassins de vie/pseudo-cantons sont classés en fonction du total des scores et suivant la distribution nationale des scores obtenus :
-
-Zones très sous-dotées :
-
-― score 11 (95e percentile) ;
-
-― ou score de 9 ou 10 et densité ¸ 82 pour 100 000 habitants.
-
-Zones sous-dotées : score de 9 ou 10 (9e décile) pour les densités de plus de 81 pour 100 000 habitants.
-
-Zones intermédiaires : score compris entre 5 et 8.
-
-Zones très dotées : score de 4 (1er décile) pour les densités de moins de 132 pour 100 000 habitants.
-
-Zones sur-dotées :
-
-― score 3 (5e percentile) ;
-
-― ou score de 4 et densité de plus de 132.
-
-3. Adaptation régionale par les ARS
-
-Si les caractéristiques d'une zone tenant à sa géographie ou à ses infrastructures de transports le justifient et par décision dûment motivée, les agences régionales de santé peuvent classer une zone dans une catégorie dont le niveau de dotation est immédiatement inférieur ou supérieur.
-
-Cette marge d'appréciation ne peut conduire à augmenter ou diminuer de plus de 5 % le nombre de zones de l'une des catégories résultant de l'application de la méthodologie.
-
-Pour l'application du précédent alinéa, un seuil minimal d'une zone par région est ajouté conformément au tableau ci-dessous.
-
-Tableau. ― Adaptation régionale par les ARS
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 302 du 30/12/2011 texte numéro 52 à l'adresse suivante
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20111230&numTexte=52&pageDebut=22783&pageFin=22787
-
-_(1) Sauf MSA, SNCF, MINES et APRIA-AMEXA sur le mois de décembre 2010._
+<div align="center">3. Adaptation régionale par les ARS</div>
+<div align="left"/>
+<div align="left">Si les caractéristiques d'une zone tenant à sa géographie ou à ses infrastructures de transports le justifient et par décision dûment motivée, les agences régionales de santé peuvent classer une zone dans une catégorie dont le niveau de dotation est immédiatement inférieur ou supérieur.</div>
+<div align="left"/>
+<div align="left">Cette marge d'appréciation ne peut conduire à augmenter ou diminuer de plus de 5 % le nombre de zones de l'une des catégories résultant de l'application de la méthodologie.</div>
+<div align="left">Pour l'application du précédent alinéa, un seuil minimal d'une zone par région est ajouté conformément au tableau ci-dessous.</div>
+<div align="left">Par dérogation au second alinéa, la marge d'appréciation peut, de manière exceptionnelle et après avis de la commission paritaire régionale des infirmiers, être portée jusqu'à 10 %.</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center">Tableau. ― Adaptation régionale par les ARS</div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td width="172">
+<p align="center">Région</p>
+</td>
+<td width="76">
+<p align="center">Nre de<br/>départements</p>
+</td>
+<td width="60">
+<p align="center">Nbre de<br/>zones</p>
+</td>
+<td width="70">
+<p align="center">5% des zones très sous dotées</p>
+</td>
+<td width="56">
+<p align="center">Très sous doté</p>
+</td>
+<td width="71">
+<p align="center">5% des zones sous dotées</p>
+</td>
+<td width="59">
+<p align="center">Sous doté</p>
+</td>
+<td width="81">
+<p align="center">5% des zones intermédiaires</p>
+</td>
+<td width="74">
+<p align="center">Intermédiaire</p>
+</td>
+<td width="69">
+<p align="center">5% des zones très dotées</p>
+</td>
+<td width="51">
+<p align="center">Très dotées</p>
+</td>
+<td width="63">
+<p align="center">5% des zones sur dotées</p>
+</td>
+<td width="58">
+<p align="center">Sur doté</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>11 - Île-de-France</p>
+</td>
+<td width="76">
+<p align="center">8</p>
+</td>
+<td width="60">
+<p align="center">294</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">5</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">2</p>
+</td>
+<td width="81">
+<p align="center">12</p>
+</td>
+<td width="74">
+<p align="center">239</p>
+</td>
+<td width="69">
+<p align="center">2</p>
+</td>
+<td width="51">
+<p align="center">35</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>21 - Champagne-Ardenne</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">79</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">16</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">4</p>
+</td>
+<td width="81">
+<p align="center">3</p>
+</td>
+<td width="74">
+<p align="center">53</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">3</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>22 - Picardie</p>
+</td>
+<td width="76">
+<p align="center">3</p>
+</td>
+<td width="60">
+<p align="center">119</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">9</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">7</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+<td width="74">
+<p align="center">86</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">9</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>23 - Haute-Normandie</p>
+</td>
+<td width="76">
+<p align="center">2</p>
+</td>
+<td width="60">
+<p align="center">98</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">13</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">4</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+<td width="74">
+<p align="center">75</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">4</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>24 - Centre</p>
+</td>
+<td width="76">
+<p align="center">6</p>
+</td>
+<td width="60">
+<p align="center">158</p>
+</td>
+<td width="70">
+<p align="center">2</p>
+</td>
+<td width="56">
+<p align="center">31</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">4</p>
+</td>
+<td width="81">
+<p align="center">6</p>
+</td>
+<td width="74">
+<p align="center">112</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">6</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>25 - Basse-Normandie</p>
+</td>
+<td width="76">
+<p align="center">3</p>
+</td>
+<td width="60">
+<p align="center">96</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">15</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">7</p>
+</td>
+<td width="81">
+<p align="center">3</p>
+</td>
+<td width="74">
+<p align="center">68</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">1</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>26 - Bourgogne</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">113</p>
+</td>
+<td width="70">
+<p align="center">2</p>
+</td>
+<td width="56">
+<p align="center">30</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">7</p>
+</td>
+<td width="81">
+<p align="center">3</p>
+</td>
+<td width="74">
+<p align="center">68</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">4</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>31 - Nord-Pas-de-Calais</p>
+</td>
+<td width="76">
+<p align="center">2</p>
+</td>
+<td width="60">
+<p align="center">188</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">1</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">3</p>
+</td>
+<td width="81">
+<p align="center">6</p>
+</td>
+<td width="74">
+<p align="center">129</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">20</p>
+</td>
+<td width="63">
+<p align="center">2</p>
+</td>
+<td width="58">
+<p align="center">35</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>41 - Lorraine</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">125</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">18</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">10</p>
+</td>
+<td width="81">
+<p align="center">5</p>
+</td>
+<td width="74">
+<p align="center">92</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">1</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>42 - Alsace</p>
+</td>
+<td width="76">
+<p align="center">2</p>
+</td>
+<td width="60">
+<p align="center">80</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">8</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">3</p>
+</td>
+<td width="81">
+<p align="center">3</p>
+</td>
+<td width="74">
+<p align="center">63</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">1</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>43 - Franche-Comté</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">75</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">2</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">1</p>
+</td>
+<td width="81">
+<p align="center">3</p>
+</td>
+<td width="74">
+<p align="center">60</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">7</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>52 - Pays-de-Loire</p>
+</td>
+<td width="76">
+<p align="center">5</p>
+</td>
+<td width="60">
+<p align="center">178</p>
+</td>
+<td width="70">
+<p align="center">2</p>
+</td>
+<td width="56">
+<p align="center">30</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">2</p>
+</td>
+<td width="81">
+<p align="center">5</p>
+</td>
+<td width="74">
+<p align="center">109</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">22</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>53 - Bretagne</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">171</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">12</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">12</p>
+</td>
+<td width="81">
+<p align="center">6</p>
+</td>
+<td width="74">
+<p align="center">112</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">2</p>
+</td>
+<td width="63">
+<p align="center">2</p>
+</td>
+<td width="58">
+<p align="center">33</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>54 - Poitou-Charentes</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">121</p>
+</td>
+<td width="70">
+<p align="center">2</p>
+</td>
+<td width="56">
+<p align="center">31</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">8</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+<td width="74">
+<p align="center">71</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">8</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>72 - Aquitaine</p>
+</td>
+<td width="76">
+<p align="center">5</p>
+</td>
+<td width="60">
+<p align="center">186</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">13</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">20</p>
+</td>
+<td width="81">
+<p align="center">6</p>
+</td>
+<td width="74">
+<p align="center">115</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">4</p>
+</td>
+<td width="63">
+<p align="center">2</p>
+</td>
+<td width="58">
+<p align="center">34</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>73 - Midi-Pyrénées</p>
+</td>
+<td width="76">
+<p align="center">8</p>
+</td>
+<td width="60">
+<p align="center">168</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">4</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">25</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+<td width="74">
+<p align="center">85</p>
+</td>
+<td width="69">
+<p align="center">0</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="63">
+<p align="center">3</p>
+</td>
+<td width="58">
+<p align="center">54</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>74 - Limousin</p>
+</td>
+<td width="76">
+<p align="center">3</p>
+</td>
+<td width="60">
+<p align="center">54</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">16</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">14</p>
+</td>
+<td width="81">
+<p align="center">1</p>
+</td>
+<td width="74">
+<p align="center">22</p>
+</td>
+<td width="69">
+<p align="center">0</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>82 - Rhône-Alpes</p>
+</td>
+<td width="76">
+<p align="center">8</p>
+</td>
+<td width="60">
+<p align="center">314</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">16</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">14</p>
+</td>
+<td width="81">
+<p align="center">9</p>
+</td>
+<td width="74">
+<p align="center">178</p>
+</td>
+<td width="69">
+<p align="center">2</p>
+</td>
+<td width="51">
+<p align="center">30</p>
+</td>
+<td width="63">
+<p align="center">4</p>
+</td>
+<td width="58">
+<p align="center">76</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>83 - Auvergne</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">107</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">26</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">8</p>
+</td>
+<td width="81">
+<p align="center">3</p>
+</td>
+<td width="74">
+<p align="center">63</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">3</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>91 - Languedoc-Roussillon</p>
+</td>
+<td width="76">
+<p align="center">5</p>
+</td>
+<td width="60">
+<p align="center">132</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">3</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">8</p>
+</td>
+<td width="81">
+<p align="center">2</p>
+</td>
+<td width="74">
+<p align="center">41</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">1</p>
+</td>
+<td width="63">
+<p align="center">4</p>
+</td>
+<td width="58">
+<p align="center">79</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>93 - Provence-Alpes-Côte d'Azur</p>
+</td>
+<td width="76">
+<p align="center">6</p>
+</td>
+<td width="60">
+<p align="center">166</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">4</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">3</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+<td width="74">
+<p align="center">89</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">2</p>
+</td>
+<td width="63">
+<p align="center">3</p>
+</td>
+<td width="58">
+<p align="center">68</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>94 - Corse</p>
+</td>
+<td width="76">
+<p align="center">2</p>
+</td>
+<td width="60">
+<p align="center">21</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">1</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">2</p>
+</td>
+<td width="81">
+<p align="center">1</p>
+</td>
+<td width="74">
+<p align="center">14</p>
+</td>
+<td width="69">
+<p align="center">0</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>Total métropole</p>
+</td>
+<td width="76">
+<p align="center">96</p>
+</td>
+<td width="60">
+<p align="center">3043</p>
+</td>
+<td width="70">
+<p align="center">26</p>
+</td>
+<td width="56">
+<p align="center">304</p>
+</td>
+<td width="71">
+<p align="center">22</p>
+</td>
+<td width="59">
+<p align="center">168</p>
+</td>
+<td width="81">
+<p align="center">97</p>
+</td>
+<td width="74">
+<p align="center">1944</p>
+</td>
+<td width="69">
+<p align="center">21</p>
+</td>
+<td width="51">
+<p align="center">163</p>
+</td>
+<td width="63">
+<p align="center">35</p>
+</td>
+<td width="58">
+<p align="center">464</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>01- Guadeloupe</p>
+</td>
+<td width="76">
+<p align="center">1</p>
+</td>
+<td width="60">
+<p align="center">32</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">5</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">1</p>
+</td>
+<td width="81">
+<p align="center">1</p>
+</td>
+<td width="74">
+<p align="center">25</p>
+</td>
+<td width="69">
+<p align="center">0</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>02- Martinique</p>
+</td>
+<td width="76">
+<p align="center">1</p>
+</td>
+<td width="60">
+<p align="center">34</p>
+</td>
+<td width="70">
+<p align="center">0</p>
+</td>
+<td width="56">
+<p align="center">0</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="59">
+<p align="center">2</p>
+</td>
+<td width="81">
+<p align="center">1</p>
+</td>
+<td width="74">
+<p align="center">22</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">2</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>03- Guyane</p>
+</td>
+<td width="76">
+<p align="center">1</p>
+</td>
+<td width="60">
+<p align="center">22</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">5</p>
+</td>
+<td width="71">
+<p align="center">0</p>
+</td>
+<td width="59">
+<p align="center">0</p>
+</td>
+<td width="81">
+<p align="center">1</p>
+</td>
+<td width="74">
+<p align="center">16</p>
+</td>
+<td width="69">
+<p align="center">0</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>04- Réunion</p>
+</td>
+<td width="76">
+<p align="center">1</p>
+</td>
+<td width="60">
+<p align="center">24</p>
+</td>
+<td width="70">
+<p align="center">1</p>
+</td>
+<td width="56">
+<p align="center">2</p>
+</td>
+<td width="71">
+<p align="center">0</p>
+</td>
+<td width="59">
+<p align="center">0</p>
+</td>
+<td width="81">
+<p align="center">1</p>
+</td>
+<td width="74">
+<p align="center">1 7</p>
+</td>
+<td width="69">
+<p align="center">1</p>
+</td>
+<td width="51">
+<p align="center">3</p>
+</td>
+<td width="63">
+<p align="center">1</p>
+</td>
+<td width="58">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>Total DOM</p>
+</td>
+<td width="76">
+<p align="center">4</p>
+</td>
+<td width="60">
+<p align="center">112</p>
+</td>
+<td width="70">
+<p align="center">3</p>
+</td>
+<td width="56">
+<p align="center">12</p>
+</td>
+<td width="71">
+<p align="center">2</p>
+</td>
+<td width="59">
+<p align="center">3</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+<td width="74">
+<p align="center">80</p>
+</td>
+<td width="69">
+<p align="center">2</p>
+</td>
+<td width="51">
+<p align="center">5</p>
+</td>
+<td width="63">
+<p align="center">4</p>
+</td>
+<td width="58">
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>Total</p>
+</td>
+<td width="76">
+<p align="center">100</p>
+</td>
+<td width="60">
+<p align="center">3155</p>
+</td>
+<td width="70">
+<p align="center">29</p>
+</td>
+<td width="56">
+<p align="center">316</p>
+</td>
+<td width="71">
+<p align="center">24</p>
+</td>
+<td width="59">
+<p align="center">171</p>
+</td>
+<td width="81">
+<p align="center">101</p>
+</td>
+<td width="74">
+<p align="center">2024</p>
+</td>
+<td width="69">
+<p align="center">23</p>
+</td>
+<td width="51">
+<p align="center">168</p>
+</td>
+<td width="63">
+<p align="center">39</p>
+</td>
+<td width="58">
+<p align="center">476</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p>Total (en pourcentage de zones)</p>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="60">
+<br/>
+</td>
+<td width="70">
+<p align="center">0,9%</p>
+</td>
+<td width="56">
+<p align="center">10,0%</p>
+</td>
+<td width="71">
+<p align="center">0,8%</p>
+</td>
+<td width="59">
+<p align="center">5,4%</p>
+</td>
+<td width="81">
+<p align="center">3,2%</p>
+</td>
+<td width="74">
+<p align="center">64,2%</p>
+</td>
+<td width="69">
+<p align="center">0,7%</p>
+</td>
+<td width="51">
+<p align="center">5,3%</p>
+</td>
+<td width="63">
+<p align="center">1,2%</p>
+</td>
+<td width="58">
+<p align="center">15,1%</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Par dérogation à la présente méthodologie, l'ensemble du territoire de Mayotte est classé en zone très sous-dotée.<br/>
+</div>
+<div align="left">
+<i>(1) Sauf MSA, SNCF, MINES et APRIA-AMEXA sur le mois de décembre 2010. </i>
+<br/>
+</div>

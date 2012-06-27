@@ -1,3 +1,3 @@
 # Article 7
 
-La directrice générale de l'offre de soins et le directeur de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Par dérogation à l'article 2, les zones de mise en œuvre des mesures destinées à favoriser une meilleure répartition géographique des orthophonistes libéraux sont classées en cinq catégories, conformément à la méthodologie jointe au présent arrêté (annexe V).
