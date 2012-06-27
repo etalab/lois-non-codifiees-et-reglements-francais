@@ -108,4 +108,8 @@ Jusqu'au 20 novembre 2016 :
 
 Paris - Kayes (Mali).
 
+Jusqu'au 15 juin 2017 :
+
+Paris - Oujda (Maroc).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
