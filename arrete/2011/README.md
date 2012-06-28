@@ -2948,7 +2948,6 @@
 - [Arrêté du 30 mars 2011 (IOCE1109014A)](arrete-du-30-mars-2011-ioce1109014a)
 - [Arrêté du 30 mars 2011 (IOCE1109017A)](arrete-du-30-mars-2011-ioce1109017a)
 - [Arrêté du 30 mars 2011 (IOCL1107366A)](arrete-du-30-mars-2011-iocl1107366a)
-- [Arrêté du 30 mars 2011 (JUSK1109252A)](arrete-du-30-mars-2011-jusk1109252a)
 - [Arrêté du 30 mars 2011 (JUST1108798A)](arrete-du-30-mars-2011-just1108798a)
 - [Arrêté du 30 mars 2011 (MAEA1108643A)](arrete-du-30-mars-2011-maea1108643a)
 - [Arrêté du 30 novembre 2010 (EFIT1027551A)](arrete-du-30-novembre-2010-efit1027551a)
