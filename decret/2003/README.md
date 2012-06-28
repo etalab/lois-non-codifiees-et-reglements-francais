@@ -102,7 +102,6 @@
 - [Décret n°2003-493 du 4 juin 2003 (SANG0321045D)](decret-n2003-493-du-4-juin-2003-sang0321045d)
 - [Décret n°2003-494 du 4 juin 2003 (SANG0321047D)](decret-n2003-494-du-4-juin-2003-sang0321047d)
 - [Décret n°2003-616 du 4 juillet 2003 (JUSA0300167D)](decret-n2003-616-du-4-juillet-2003-jusa0300167d)
-- [Décret n°2003-620 du 4 juillet 2003 (MCCT0300520D)](decret-n2003-620-du-4-juillet-2003-mcct0300520d)
 - [Décret n°2003-847 du 4 septembre 2003 (MAEX0300099D)](decret-n2003-847-du-4-septembre-2003-maex0300099d)
 - [Décret n°2003-860 du 4 septembre 2003 (SANH0322614D)](decret-n2003-860-du-4-septembre-2003-sanh0322614d)
 - [Décret n°2003-861 du 4 septembre 2003 (SANH0322615D)](decret-n2003-861-du-4-septembre-2003-sanh0322615d)
