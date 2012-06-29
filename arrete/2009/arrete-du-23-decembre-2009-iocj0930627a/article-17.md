@@ -8,9 +8,9 @@ I. ― La sous-direction de l'accompagnement du personnel :
 
 3° Veille au conseil et à la protection juridiques des personnels et instruit les dossiers contentieux ayant trait au domaine statutaire ;
 
-4° Assure le soutien psychologique des personnels confrontés à des situations professionnelles difficiles et le suivi des dossiers relevant du domaine médico-statutaire ;
+4° Elabore, propose et met en œuvre la politique de reconversion au sein de la gendarmerie nationale ;
 
-5° Elabore, propose et met en œuvre la politique de reconversion au sein de la gendarmerie nationale.
+5° Anime et coordonne l'ensemble des actions relatives à la santé et à la sécurité au travail des personnels de la gendarmerie nationale. Elle organise et anime le réseau des psychologues de soutien opérationnel de la gendarmerie et peut recourir au réseau des médecins de prévention, des assistants de service social et des inspecteurs chargés de la sécurité et de la santé au travail.
 
 II. ― La sous-direction de l'accompagnement du personnel est constituée des bureaux suivants :
 
@@ -20,4 +20,6 @@ II. ― La sous-direction de l'accompagnement du personnel est constituée des b
 
 3° Le bureau du contentieux et de la protection juridique ;
 
-4° Le bureau de la reconversion.
+4° Le bureau de la reconversion ;
+
+5° Le bureau de la santé et de la sécurité au travail.
