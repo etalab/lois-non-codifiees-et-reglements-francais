@@ -2,24 +2,32 @@
 
 L'Académie de France à Rome est administrée par un conseil d'administration et dirigée par un directeur.
 
-Le conseil d'administration comprend, outre son président, conseiller d'Etat, onze membres, soit :
+Le conseil d'administration comprend, outre son président, conseiller d'Etat, douze membres, soit :
 
-1° Trois fonctionnaires représentant le ministre chargé de la culture ;
+1° Six représentants de l'Etat, membres de droit :
 
-2° Un fonctionnaire désigné sur proposition du ministre de l'éducation nationale ;
+a) Le directeur général de la création artistique ou son représentant ;
 
-3° Un fonctionnaire désigné sur proposition du ministre des affaires étrangères ;
+b) Le directeur général des patrimoines ou son représentant ;
 
-4° Un fonctionnaire désigné sur proposition du ministre chargé du budget ;
+c) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-5° Cinq personnalités qualifiées dans les domaines relevant de la compétence et des missions de l'établissement.
+d) Le directeur des relations européennes et internationales et de la coopération au ministère chargé de l'éducation nationale ou son représentant ;
 
-Assistent avec voix consultative aux délibérations du conseil d'administration le directeur, le secrétaire général, l'agent comptable et le membre du corps du contrôle général économique et financier de l'Académie de France à Rome et les délégués des pensionnaires mentionnés à l'article 9.
+e) L'ambassadeur de France en Italie ou son représentant ;
 
-Le président est nommé par décret. Les autres membres sont nommés par arrêté du ministre chargé de la culture.
+f) Le chef du service du contrôle général économique et financier ou son représentant ;
 
-La durée du mandat du président et des membres est de trois ans.
+2° Cinq personnalités qualifiées dans les domaines relevant de la compétence et des missions de l'établissement ;
 
-Pour chacun des membres mentionnés aux 1° à 4°, un suppléant est désigné dans les mêmes conditions que le titulaire.
+3° Un représentant du personnel ou son suppléant.
 
-En cas de vacance définitive d'un siège, pour quelque cause que ce soit, plus de trois mois avant l'expiration du mandat, un nouveau membre est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
+Assistent avec voix consultative aux délibérations du conseil d'administration le directeur, le secrétaire général, l'agent comptable, l'autorité chargée du contrôle financier de l'Académie de France à Rome ainsi que les délégués des pensionnaires mentionnés à l'article 3.
+
+Le président est nommé par décret pour une durée de trois ans.
+
+Les membres mentionnés au 2° sont nommés par arrêté du ministre chargé de la culture pour une durée de trois ans.
+
+Le représentant du personnel au conseil d'administration est élu dans des conditions fixées par arrêté du ministre chargé de la culture. La durée de son mandat est de trois ans. Son suppléant est désigné dans les mêmes conditions.
+
+Sauf si elle intervient moins de six mois avant l'échéance du mandat, toute vacance, pour quelque cause que ce soit, ou perte de la qualité au titre de laquelle un membre a été désigné donne lieu à remplacement pour la durée du mandat restant à courir.

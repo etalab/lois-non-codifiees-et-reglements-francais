@@ -4,12 +4,12 @@ Le conseil d'administration se réunit au moins deux fois par an à Paris ou à 
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres assiste à la réunion. Ses délibérations sont adoptées à la majorité des membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
-Les procès-verbaux des séances du conseil d'administration signés par le président sont envoyés au ministre des affaires culturelles dans les quinze jours qui suivent la réunion du conseil.
+En cas d'urgence, les délibérations mentionnées aux 8°, en ce qui concerne les baux d'immeubles, et 13° du I de l'article 5 peuvent être prises après consultation écrite, y compris par voie électronique, des membres du conseil d'administration. Ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance.
 
-Les délibérations de ce dernier sont exécutoires à l'expiration d'un délai d'un mois qui suit la date de leur réception, à moins que le ministre n'ait fait connaître dans ce délai son refus d'approuver ces délibérations ou sa décision de surseoir à leur application.
+Les délibérations du conseil d'administration autres que celles mentionnées aux alinéas suivants deviennent exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture s'il n'a pas fait opposition dans ce délai. Il en est de même des décisions du directeur prises par délégation du conseil d'administration en application de l'article 5, sous réserve, pour les décisions relatives aux transactions, de l'accord préalable de l'autorité chargée du contrôle financier.
 
-Ne sont toutefois exécutoires qu'après avoir été approuvés par arrêté du ministre chargé de la culture et du ministre de l'économie et des finances les délibérations portant sur :
+Les délibérations mentionnées au 10° de l'article 5 deviennent exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture et le ministre chargé du budget si aucun d'entre eux n'y a fait opposition dans ce délai. Celles mentionnées aux 7° et 13° du même article deviennent exécutoires sous les mêmes conditions, mais dans un délai d'un mois.
 
-Les emprunts ;
+Pour devenir exécutoires, les délibérations mentionnées aux 6°, 8° et 9° de l'article 5 doivent faire l'objet d'une approbation expresse du ministre chargé de la culture ; celles mentionnées au 8° du même article doivent faire en outre l'objet d'une approbation expresse du ministre chargé du budget.
 
-Les acquisitions, aliénations ou échanges d'Immeubles.
+Les délibérations portant sur le budget ou sur ses modifications ainsi que sur le compte financier mentionnées respectivement aux 4° et 5° de l'article 5 sont approuvées par les ministres chargés de la culture et du budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.

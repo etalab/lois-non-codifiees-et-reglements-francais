@@ -1,3 +1,5 @@
 # Article 10
 
-L'Académie de France à Rome est soumise au régime financier et comptable défini par les articles 14 à 25 du décret n° 53-1227 du 10 décembre 1953 et 151 à 189 du décret n° 62-1587 du 29 décembre 1962, ainsi que par l'article 60 de la loi de finances pour 1963 (2° partie) n° 63-156 du 23 février 1963 relatif à la responsabilité des comptables publics.
+Les opérations financières et comptables de l'établissement sont effectuées conformément aux dispositions des décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés.
+
+L'Académie de France à Rome est soumise au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat.
