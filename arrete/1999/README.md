@@ -344,7 +344,6 @@
 - [Arrêté du 17 mars 1999 (EQUK9900409A)](arrete-du-17-mars-1999-equk9900409a)
 - [Arrêté du 17 mars 1999 (INTD9900138A)](arrete-du-17-mars-1999-intd9900138a)
 - [Arrêté du 17 mars 1999 (MENS9900561A)](arrete-du-17-mars-1999-mens9900561a)
-- [Arrêté du 17 novembre 1999 (EQUT9901444A)](arrete-du-17-novembre-1999-equt9901444a)
 - [Arrêté du 17 novembre 1999 (MENS9902515A)](arrete-du-17-novembre-1999-mens9902515a)
 - [Arrêté du 17 septembre 1999 (ECOF9900027A)](arrete-du-17-septembre-1999-ecof9900027a)
 - [Arrêté du 17 septembre 1999 (ECOF9900028A)](arrete-du-17-septembre-1999-ecof9900028a)

@@ -1,4 +1,0 @@
-# TITRE IV : MODALITÉS POUR L'OBTENTION DU JUSTIFICATIF DE CAPACITÉ PROFESSIONNELLE.
-
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
