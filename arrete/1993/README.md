@@ -27,7 +27,6 @@
 - [Arrêté du 2 décembre 1993 (ECOT9351313A)](arrete-du-2-decembre-1993-ecot9351313a)
 - [Arrêté du 2 décembre 1993 (INTC9300671A)](arrete-du-2-decembre-1993-intc9300671a)
 - [Arrêté du 2 décembre 1993 (RESM9301702A)](arrete-du-2-decembre-1993-resm9301702a)
-- [Arrêté du 2 février 1993 (BUDD9350001A)](arrete-du-2-fevrier-1993-budd9350001a)
 - [Arrêté du 2 février 1993 (BUDJ9300001A)](arrete-du-2-fevrier-1993-budj9300001a)
 - [Arrêté du 2 février 1993 (ECOC9200162A)](arrete-du-2-fevrier-1993-ecoc9200162a)
 - [Arrêté du 2 juillet 1993 (MENL9305237A)](arrete-du-2-juillet-1993-menl9305237a)

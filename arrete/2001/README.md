@@ -189,7 +189,6 @@
 - [Arrêté du 12 avril 2001 (INTD0100209A)](arrete-du-12-avril-2001-intd0100209a)
 - [Arrêté du 12 décembre 2001 (ECOP0100806A)](arrete-du-12-decembre-2001-ecop0100806a)
 - [Arrêté du 12 décembre 2001 (ECOP0100807A)](arrete-du-12-decembre-2001-ecop0100807a)
-- [Arrêté du 12 février 1993 (BUDD9350002A)](arrete-du-12-fevrier-1993-budd9350002a)
 - [Arrêté du 12 février 2001 (AGRA0100329A)](arrete-du-12-fevrier-2001-agra0100329a)
 - [Arrêté du 12 février 2001 (AGRP0100194A)](arrete-du-12-fevrier-2001-agrp0100194a)
 - [Arrêté du 12 février 2001 (MESH0120453A)](arrete-du-12-fevrier-2001-mesh0120453a)
