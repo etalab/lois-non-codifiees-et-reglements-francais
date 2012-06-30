@@ -35,7 +35,7 @@ Code pénal
 <p align="left">Décisions d'autorisation relatives à l'acquisition ou la détention des appareils d'interception ou de détection à distance des conversations.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article R. 226-7</p>
+<p>Article R. 226-7</p>
 </td>
 </tr>
 </tbody>
@@ -81,10 +81,10 @@ Code de la défense
 <p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p align="left">Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction. </p>
+<p>Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction. </p>
 </td>
 <td valign="top" width="151">
-<p align="left">Article R. 2342-3 </p>
+<p>Article R. 2342-3 </p>
 </td>
 </tr>
 <tr>
@@ -92,10 +92,10 @@ Code de la défense
 <p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p align="left">Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention. </p>
+<p>Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention. </p>
 </td>
 <td valign="top" width="151">
-<p align="left">Article R. 2342-3 </p>
+<p>Article R. 2342-3 </p>
 </td>
 </tr>
 <tr>
@@ -123,38 +123,40 @@ Code de la défense
 </tbody>
 </table>
 
-Décret n° 2002-535 du 18 avril 2002
-relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.
+Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="76">
-<p align="center">1 </p>
+<td valign="top" width="57">
+<p align="center">1</p>
 </td>
-<td valign="top" width="378">
-<p align="left">Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.</p>
+<td valign="top" width="473">
+<p>Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.</p>
 </td>
-<td valign="top" width="151">
-<p align="left">- premier alinéa de l'article 8</p>
+<td valign="top" width="189">
+<p>- premier alinéa de l'article 8</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="76">
-<p align="center">2 </p>
+<td valign="top" width="57">
+<p align="center">2</p>
 </td>
-<td valign="top" width="378">
-<p align="left">Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.</p>
+<td valign="top" width="473">
+<p>Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.</p>
 </td>
-<td valign="top" width="151">
-<p align="left">- premier alinéa de l'article 12 et deuxième alinéa de l'article 14</p>
+<td valign="top" width="189">
+<p>- premier alinéa de l'article 12 et deuxième alinéa de l'article 14</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
+Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005
+relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
 
+<div align="left"/>
+<div align="left"/>
 <div align="left"/>
 <div align="left">
 <table>
@@ -164,7 +166,7 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 <p align="center">1</p>
 </td>
 <td valign="top" width="473">
-<p>Délivrance, suspension et retrait de la qualification de produits de sécurité. </p>
+<p>Délivrance, suspension et retrait de la qualification de produits de sécurité.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 9</p>
@@ -175,7 +177,7 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 <p align="center">2</p>
 </td>
 <td valign="top" width="473">
-<p>Délivrance, suspension et retrait de l'habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance. </p>
+<p>Délivrance, suspension et retrait de l'habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance.</p>
 </td>
 <td valign="top" width="189">
 <p>Premier alinéa de l'article 10 et article 13</p>
@@ -186,7 +188,7 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 <p align="center">3</p>
 </td>
 <td valign="top" width="473">
-<p>Délivrance, suspension et retrait de la qualification de prestataires de services de confiance. </p>
+<p>Délivrance, suspension et retrait de la qualification de prestataires de services de confiance.</p>
 </td>
 <td valign="top" width="189">
 <p>Second alinéa de l'article 19</p>
@@ -197,46 +199,85 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 </div>
 <div align="left"/>
 <div align="left"/>
+<div align="left"/>
 
-Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
+Décret n° 2011-1467 du 9 novembre 2011 relatif aux importations et aux exportations hors du territoire de l'Union européenne de matériels de guerre, armes et munitions et de matériels assimilés et aux transferts intracommunautaires de produits liés à la défense.
 
+<div align="left"/>
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td valign="top" width="76">
-<p align="center">1 </p>
+<td valign="top" width="57">
+<p align="center">1</p>
 </td>
-<td valign="top" width="378">
-<p align="left">Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de matériels de guerre. </p>
+<td valign="top" width="473">
+<p>Décisions relatives aux agréments préalables d'exportation </p>
 </td>
-<td valign="top" width="151">
-<p align="left">Article 4</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="76">
-<p align="center">2 </p>
-</td>
-<td valign="top" width="378">
-<p align="left">Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. </p>
-</td>
-<td valign="top" width="151">
-<p align="left">Article 9</p>
+<td valign="top" width="189">
+<p>Article 12 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="76">
-<p align="center">3 </p>
+<td valign="top" width="57">
+<p align="center">2</p>
 </td>
-<td valign="top" width="378">
-<p align="left">Décisions d'autorisation de transit par la route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. </p>
+<td valign="top" width="473">
+<p>Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre </p>
 </td>
-<td valign="top" width="151">
-<p align="left">Article 24</p>
+<td valign="top" width="189">
+<p>Article 14 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">3</p>
+</td>
+<td valign="top" width="473">
+<p>Décisions relatives aux agréments préalables de transfert </p>
+</td>
+<td valign="top" width="189">
+<p>Article 24 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">4</p>
+</td>
+<td valign="top" width="473">
+<p>Décisions d'autorisation de transfert de produits liés à la défense dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre </p>
+</td>
+<td valign="top" width="189">
+<p>Article 27 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">5</p>
+</td>
+<td valign="top" width="473">
+<p>Décisions d'autorisation de transit dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre </p>
+</td>
+<td valign="top" width="189">
+<p>Article 46 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">6</p>
+</td>
+<td valign="top" width="473">
+<p>Modification, suspension, retrait et abrogation des agréments préalables d'exportation, des autorisations d'exportation de matériel de guerre, des agréments préalables de transfert, des autorisations de transfert de produits liés à la défense et des autorisations de transit de matériels de guerre </p>
+</td>
+<td valign="top" width="189">
+<p>Articles 21, 36 et 48</p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="left"/>
+<div align="left"/>
 
 DIVERS
 
@@ -252,7 +293,7 @@ Code de l'urbanisme
 <p align="left">Décisions relatives à l'agrément prévu par l'article R. 510-1 du code de l'urbanisme, prise sur recours du ministre intéressé à la suite d'un refus d'agrément opposé par le comité de décentralisation à une opération réalisée par un service de l'Etat ou une personne publique ou privée soumise à son contrôle. </p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article R. 510-2 (1°), deuxième alinéa</p>
+<p>Article R. 510-2 (1°), deuxième alinéa</p>
 </td>
 </tr>
 <tr>
@@ -263,8 +304,7 @@ Code de l'urbanisme
 <p align="left">Décisions de nomination des membres et du président du comité de décentralisation. </p>
 </td>
 <td valign="top" width="189">
-<p>Article R. 510-3 </p>
-<p align="left">et A. 510-3</p>
+<p>Article R. 510-3 et A. 510-3</p>
 </td>
 </tr>
 </tbody>
@@ -288,8 +328,7 @@ Code des marchés publics
 </tbody>
 </table>
 
-Décret n° 82-453 du 28 mai 1982
-modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique
+Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique
 
 <table>
 <tbody>
@@ -297,7 +336,7 @@ modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la pr�
 <td valign="top" width="57">
 <p align="center">1</p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="472">
 <p align="left">Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.</p>
 </td>
 <td valign="top" width="189">
@@ -308,7 +347,7 @@ modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la pr�
 <td valign="top" width="57">
 <p align="center">1</p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="472">
 <p align="left">Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services du Premier ministre. </p>
 </td>
 <td valign="top" width="189"/>
@@ -317,8 +356,8 @@ modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la pr�
 <td valign="top" width="57">
 <p align="center">2</p>
 </td>
-<td valign="top" width="473">
-<p align="left">Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services du Premier ministre. </p>
+<td valign="top" width="472">
+<p align="left">Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services du Premier ministre.</p>
 </td>
 <td valign="top" width="189"/>
 </tr>
