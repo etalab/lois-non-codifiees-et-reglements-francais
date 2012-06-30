@@ -61,7 +61,6 @@
 - [Décret n°2011-1238 du 4 octobre 2011 (EFIE1115421D)](decret-n2011-1238-du-4-octobre-2011-efie1115421d)
 - [Décret n°2011-1239 du 4 octobre 2011 (ETSP1120961D)](decret-n2011-1239-du-4-octobre-2011-etsp1120961d)
 - [Décret n°2011-1240 du 4 octobre 2011 (AGRM1029975D)](decret-n2011-1240-du-4-octobre-2011-agrm1029975d)
-- [Décret n°2011-1446 du 4 novembre 2011 (PRMX1126036D)](decret-n2011-1446-du-4-novembre-2011-prmx1126036d)
 - [Décret n°2011-1451 du 4 novembre 2011 (AGRT1123302D)](decret-n2011-1451-du-4-novembre-2011-agrt1123302d)
 - [Décret n°2011-1452 du 4 novembre 2011 (AGRT1122680D)](decret-n2011-1452-du-4-novembre-2011-agrt1122680d)
 - [Décret n°2011-1453 du 4 novembre 2011 (AGRT1115542D)](decret-n2011-1453-du-4-novembre-2011-agrt1115542d)
