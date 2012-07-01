@@ -1,37 +1,53 @@
 # Article 7
 
-<div>
-<br/>La nature, la durée et le coefficient des épreuves d'admissibilité sont les suivants :<br/>
-<br/>
-<div align="center">
+La nature, la durée et le coefficient des épreuves d'admissibilité sont les suivants :
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>ÉPREUVE</th>
+<br/>ÉPREUVE <br/>
+</th>
 <th>
-<br/>DURÉE</th>
+<br/>DURÉE <br/>
+</th>
 <th>
-<br/>COEFFICIENT</th>
+<br/>COEFFICIENT <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Etude de dossier sur un sujet d'ordre général.</td>
+<p align="left">
+<br/>Etude de dossier sur un sujet d'ordre général </p>
+</td>
 <td align="center">
-<br/>4 heures</td>
+<p align="center">
+<br/>4 heures </p>
+</td>
 <td align="center">
-<br/>4</td>
+<p align="center">
+<br/>4 </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Etude de dossier technique dans le domaine choisi par le candidat.</td>
+<p align="left">
+<br/>Etude de dossier technique </p>
+</td>
 <td align="center">
-<br/>3 heures</td>
+<p align="center">
+<br/>3 heures </p>
+</td>
 <td align="center">
-<br/>3</td>
+<p align="center">
+<br/>3 </p>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
-<br/> L'épreuve d'étude de dossier sur un sujet d'ordre général (défense, économie, culture générale) consiste en l'établissement d'un rapport de synthèse à partir d'un dossier remis au début de l'épreuve.<br/> L'épreuve d'étude de dossier technique consiste en l'établissement d'un rapport de synthèse à partir d'un dossier remis au début de l'épreuve sur l'option technique choisie par le candidat dans son dossier de candidature.<br/> Certains documents des épreuves écrites d'admissibilité peuvent être en anglais.</div>
+L'épreuve d'étude de dossier sur un sujet d'ordre général (défense, économie, culture générale) consiste en l'établissement d'un rapport de synthèse à partir d'un dossier remis au début de l'épreuve.
+
+L'épreuve d'étude de dossier technique consiste en l'établissement d'un document technique ou d'analyse à partir d'un dossier remis au début de l'épreuve.
+
+Certains documents des épreuves écrites d'admissibilité peuvent être rédigés en anglais ; dans ce cas, ils seront accompagnés d'un résumé en français.
