@@ -2,7 +2,7 @@
 
 I.-Une allocation de cessation anticipée d'activité est versée aux salariés et anciens salariés des établissements de fabrication de matériaux contenant de l'amiante, des établissements de flocage et de calorifugeage à l'amiante ou de construction et de réparation navales, sous réserve qu'ils cessent toute activité professionnelle, lorsqu'ils remplissent les conditions suivantes :
 
-1° Travailler ou avoir travaillé dans un des établissements mentionnés ci-dessus et figurant sur une liste établie par arrêté des ministres chargés du travail, de la sécurité sociale et du budget, pendant la période où y étaient fabriqués ou traités l'amiante ou des matériaux contenant de l'amiante.L'exercice des activités de fabrication de matériaux contenant de l'amiante, de flocage et de calorifugeage à l'amiante de l'établissement doit présenter un caractère significatif ;
+1° Travailler ou avoir travaillé dans un des établissements mentionnés ci-dessus et figurant sur une liste établie par arrêté des ministres chargés du travail, de la sécurité sociale et du budget, pendant la période où y étaient fabriqués ou traités l'amiante ou des matériaux contenant de l'amiante. L'exercice des activités de fabrication de matériaux contenant de l'amiante, de flocage et de calorifugeage à l'amiante de l'établissement doit présenter un caractère significatif ;
 
 2° Avoir atteint l'âge de soixante ans diminué du tiers de la durée du travail effectué dans les établissements visés au 1°, sans que cet âge puisse être inférieur à cinquante ans ;
 
@@ -19,6 +19,8 @@ Ont également droit, dès l'âge de cinquante ans, à l'allocation de cessation
 Le bénéfice de l'allocation de cessation anticipée d'activité ne peut se cumuler ni avec l'un des revenus ou l'une des allocations mentionnés à l'article L. 131-2 du code de la sécurité sociale, ni avec un avantage personnel de vieillesse, ni avec un avantage d'invalidité, ni avec une allocation de préretraite ou de cessation anticipée d'activité, sous réserve des dispositions de l'alinéa suivant.
 
 Une allocation différentielle peut être versée en complément d'une pension d'invalidité ou d'un avantage de réversion ou d'un avantage personnel de vieillesse servi par un régime spécial visé au chapitre Ier du titre Ier du livre VII du code de la sécurité sociale, dans la limite de l'allocation calculée dans les conditions prévues au présent article.
+
+I bis.-Pour la détermination de l'âge d'accès à l'allocation, s'ajoute à la durée du travail mentionnée aux troisième et septième alinéas du I du présent article celle effectuée dans les établissements ou les navires ouvrant droit à l'accès aux dispositifs de cessation anticipée d'activité des travailleurs de l'amiante relevant d'un régime spécial mentionné à l'article L. 711-1 du code de la sécurité sociale, dans les conditions prévues par ces dispositifs.
 
 II.-Le montant de l'allocation est calculé en fonction de la moyenne actualisée des salaires mensuels bruts des douze derniers mois d'activité salariée du bénéficiaire pour lesquels ne sont pas prises en compte dans des conditions prévues par décret, certaines périodes d'activité donnant lieu à rémunération réduite. Il est revalorisé comme les avantages alloués en application du deuxième alinéa de l'article L. 322-4 du code du travail.
 
@@ -54,6 +56,6 @@ VII.-1. Un décret en Conseil d'Etat définit :
 
 2. Un décret fixe :
 
--les conditions d'octroi de l'allocation de cessation anticipée d'activité des travailleurs de l'amiante ;
+-les conditions d'octroi, les modalités de calcul et les modalités de coordination de l'allocation de cessation anticipée d'activité des travailleurs de l'amiante ;
 
 -ainsi que les règles de fonctionnement du fonds de cessation anticipée d'activité des travailleurs de l'amiante et du conseil de surveillance de ce fonds mentionnés au présent article.
