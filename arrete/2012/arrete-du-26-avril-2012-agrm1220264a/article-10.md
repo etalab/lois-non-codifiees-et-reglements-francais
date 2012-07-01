@@ -1,11 +1,11 @@
 # Article 10
 
-L'armement procède à la répartition de la part équipage entre ses membres, tels que définis à l'article 4, selon les usages internes de l'entreprise, en tenant toutefois compte des restrictions suivantes :
+La part de l'équipage est égale à (Pe/2) × C, avec :
 
-― l'indemnité n'est pas cumulable avec des indemnités liées à des arrêts maladie ou accident du travail, indemnités de chômage technique ou intempéries, allocations compensatoires de ressource, indemnités de cessation anticipée d'activité ou avec les revenus d'un autre emploi ;
+C = coefficient de présence au rôle = J/ (M × E) ;
 
-― un marin ne peut prétendre à une indemnité que pour un embarquement sur un seul navire pour la même mesure d'indemnisation ;
+J = cumul des jours d'inscription au rôle d'équipage des marins du navire pendant la période d'arrêt de celui-ci ;
 
-― aucun marin ne pourra prétendre à une indemnité quand le navire n'est pas en arrêt biologique.
+M = nombre de jours d'arrêt que le navire effectue ;
 
-Les cotisations sociales et patronales sont dues pendant cette période d'arrêt de l'activité de pêche.
+E = nombre de marins bénéficiaires sur le navire tel que défini à l'article 5.

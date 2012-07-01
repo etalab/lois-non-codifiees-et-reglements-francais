@@ -1,3 +1,11 @@
 # Article 11
 
-Les demandeurs peuvent transmettre aux directions interrégionales de la mer ou directions départementales des territoires et de la mer dont relève le quartier d'immatriculation du navire arrêté leur demande d'indemnisation des jours d'arrêt d'activité, observés en application du présent arrêté, jusqu'au 31 août 2012 inclus. Aucune demande transmise postérieurement à cette date ne sera examinée. Les demandes sont instruites par les directions interrégionales de la mer ou directions départementales des territoires et de la mer. Elles sont transmises pour liquidation et paiement à FranceAgriMer.
+L'armement procède à la répartition de la part équipage entre ses membres, tels que définis à l'article 4, selon les usages internes de l'entreprise, en tenant toutefois compte des restrictions suivantes :
+
+― l'indemnité n'est pas cumulable avec des indemnités liées à des arrêts maladie ou accident du travail, indemnités de chômage technique ou intempéries, allocations compensatoires de ressource, indemnités de cessation anticipée d'activité ou avec les revenus d'un autre emploi ;
+
+― un marin ne peut prétendre à une indemnité que pour un embarquement sur un seul navire pour la même mesure d'indemnisation ;
+
+― aucun marin ne pourra prétendre à une indemnité quand le navire n'est pas en arrêt temporaire.
+
+Les cotisations sociales et patronales sont dues pendant cette période d'arrêt de l'activité de pêche.

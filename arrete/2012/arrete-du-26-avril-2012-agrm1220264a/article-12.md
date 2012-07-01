@@ -1,3 +1,3 @@
 # Article 12
 
-Le directeur des pêches maritimes et de l'aquaculture, les directeurs interrégionaux de la mer ou les directeurs départementaux des territoires et de la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les demandeurs peuvent transmettre aux directions interrégionales de la mer ou directions départementales des territoires et de la mer dont relève le quartier d'immatriculation du navire arrêté leur demande d'indemnisation des jours d'arrêt d'activité, observés en application du présent arrêté, jusqu'au 31 octobre 2012 inclus. Aucune demande transmise postérieurement à cette date ne sera examinée. Les demandes sont instruites par les directions interrégionales de la mer ou directions départementales des territoires et de la mer. Elles sont transmises pour liquidation et paiement à FranceAgriMer.

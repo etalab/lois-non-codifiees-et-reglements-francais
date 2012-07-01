@@ -1,4 +1,4 @@
-# Arrêté du 26 avril 2012 relatif à la mise en œuvre d'une aide de minimis à l'arrêt biologique pour la pêche au requin taupe du 10 avril au 13 juillet 2012
+# Arrêté du 26 avril 2012 relatif à la mise en œuvre de l'arrêt temporaire d'activité de la pêche au requin taupe du 10 avril au 30 septembre 2012
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,3 +12,4 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)
