@@ -4,7 +4,7 @@ Le modèle de fiche descriptive de l'état du véhicule à enlever en fourrière
 
 - le timbre de l'autorité dont relève la fourrière ;
 
-- le numéro et la date du procès-verbal ;
+- la date de constatation de l'infraction ;
 
 - l'infraction ayant motivé la mise en fourrière du véhicule ;
 
