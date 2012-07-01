@@ -1327,7 +1327,6 @@
 - [Arrêté du 17 juin 2009 (AGRG0913902A)](arrete-du-17-juin-2009-agrg0913902a)
 - [Arrêté du 17 juin 2009 (AGRG0913907A)](arrete-du-17-juin-2009-agrg0913907a)
 - [Arrêté du 17 juin 2009 (AGRT0913341A)](arrete-du-17-juin-2009-agrt0913341a)
-- [Arrêté du 17 juin 2009 (DEFD0908305A)](arrete-du-17-juin-2009-defd0908305a)
 - [Arrêté du 17 juin 2009 (DEFD0908315A)](arrete-du-17-juin-2009-defd0908315a)
 - [Arrêté du 17 juin 2009 (DEVT0913053A)](arrete-du-17-juin-2009-devt0913053a)
 - [Arrêté du 17 juin 2009 (ECES0910679A)](arrete-du-17-juin-2009-eces0910679a)
