@@ -4,13 +4,15 @@ Visite technique initiale avant autorisation administrative et visite technique 
 
 I. - Visite technique initiale
 
-I.1. La constitution des petits trains donne lieu à visite initiale. Cette visite, nécessaire à la délivrance de l'arrêté d'autorisation, a pour but de contrôler la compatibilité des divers véhicules formant l'ensemble, ainsi que les équipements nécessaires à la mise en circulation. Elle donne lieu à l'établissement d'un procès-verbal conforme à l'annexe II b ci-après.
+I.  1. La constitution d'un petit train routier touristique donne lieu à  une visite technique initiale. Cette visite a lieu lors de la mise en  service d'un ensemble neuf ou lors des changements des véhicules  composant un petit train routier touristique en service.
+
+La  visite technique initiale a pour objectif de contrôler la compatibilité  des différents éléments formant l'ensemble composant le petit train  routier touristique ainsi que les équipements nécessaires à la mise en  circulation. Elle donne lieu à l'établissement d'un procès-verbal  conforme à l'annexe II b du présent arrêté, nécessaire pour la  délivrance de l'arrêté préfectoral de circulation.
 
 I.2. Sur demande du directeur départemental de l'équipement, des vérifications complémentaires peuvent être effectuées sur la totalité du parcours prévu, visant à s'assurer que l'inscription en courbe de l'ensemble reste correcte. Ces essais doivent être effectués par le laboratoire agréé et sont à la charge du propriétaire et/ou de l'exploitant.
 
 II. - Visite technique
 
-Les véhicules constituant les petits trains routiers doivent subir, avant toute mise en circulation, puis tous les ans, une visite technique dans les conditions définies ci-après et par un expert désigné par le préfet.
+Les véhicules constituant les petits trains routiers touristiques doivent subir, avant toute mise en circulation, puis tous les ans, une visite technique dans les conditions définies ci-après et par un expert désigné par le préfet.
 
 0 Contrôles administratifs
 

@@ -1,12 +1,16 @@
 # Article ANNEXE IIb
 
-direction régionale de l'environnement, de l'aménagement et du logement  de :
+La  direction régionale et interdépartementale de l'énergie et de  l'environnement (DRIEE) (*)/ La direction régionale de l'environnement,  de l'aménagement et du logement (DREAL) (*)/ La direction de  l'environnement, de l'aménagement et du logement (DEAL) (*)/ Le  constructeur (*) :
 
-Procés-verbal de visite technique initiale d'un petit train routier
+N° de réception par type nationale du véhicule tracteur :
+
+N° de réception par type nationale du véhicule remorqué :
+
+Procés-verbal de visite technique initiale d'un petit train routier touristique
 
 (Document à annexer à l'arrêté préfectoral d'autorisation)
 
-1. Catégorie (s) du petit train routier :
+1. Catégorie (s) du petit train routier touristique  :
 
 2. Composition de l'ensemble en fonction de la catégorie :
 
@@ -76,4 +80,8 @@ Passagers dans la deuxième remorque :
 
 Passagers dans la troisième remorque :
 
-Signature : (*) Barrer la mention inutile.
+Date
+
+Signature : DRIEE-DREAL-DEAL-Constructeur (*)
+
+(*) Barrer la mention inutile.

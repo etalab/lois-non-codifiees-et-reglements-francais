@@ -1,7 +1,11 @@
 # Article 1
 
-Les transports visés au c du 4 de l'article 5 du décret du 16 août 1985 susvisé sont ceux qui sont exécutés au moyen d'un ensemble composé d'un véhicule tracteur et de remorques lorsqu'ils circulent sur le domaine routier public dans le cadre de l'animation touristique ou à l'occasion de manifestations à caractère commercial. Un tel ensemble est dénommé " petit train routier ".
+Est  soumis aux dispositions du présent arrêté l'ensemble de véhicules  composé d'un véhicule tracteur et de remorques, autre qu'un autocar ou  un autobus, lorsqu'il circule sur les voies ouvertes à la circulation  publique, dans le cadre de l'animation touristique ou à l'occasion de  manifestations à caractère commercial.
 
-Les services de transport exécutés par les petits trains routiers sont assimilés à des circuits à la place au sens de l'article 32 du décret du 16 août 1985 susvisé.
+Cet ensemble de véhicules est dénommé "petit train routier touristique".
 
-Les dispositions de l'arrêté du 2 juillet 1982 susvisé ne sont pas applicables aux petits trains routiers.
+Au sens des articles 5 (4, c) et 32 du décret n° 85-891 du 16 août 1985 susvisé,  les services de transport exécutés par un petit train routier  touristique sont des services de transport public routier de personnes "à la place" ou des services occasionnels de transport public routier  de personnes.
+
+Ces services sont effectués par des  entreprises inscrites au registre des entreprises de transport public  routier de personnes, dans les conditions fixées par l'article R. 233-1 du code du tourisme.
+
+Les dispositions de l'arrêté du 2 juillet 1982 susvisé ne sont pas applicables aux petits trains routiers touristiques.

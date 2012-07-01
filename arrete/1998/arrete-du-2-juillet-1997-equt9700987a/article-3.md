@@ -1,6 +1,6 @@
 # Article 3
 
-La circulation des petits trains routiers est limitée :
+La circulation des petits trains routiers touristiques est limitée :
 
 - pour les ensembles de catégorie I : aux itinéraires ne comportant aucune pente supérieure à 5 % ;
 
