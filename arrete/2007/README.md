@@ -457,7 +457,6 @@
 - [Arrêté du 15 février 2007 (MENS0700325A)](arrete-du-15-fevrier-2007-mens0700325a)
 - [Arrêté du 15 janvier 2007 (EQUR0700133A)](arrete-du-15-janvier-2007-equr0700133a)
 - [Arrêté du 15 janvier 2007 (JUSB0710004A)](arrete-du-15-janvier-2007-jusb0710004a)
-- [Arrêté du 15 janvier 2007 (SOCF0710131A)](arrete-du-15-janvier-2007-socf0710131a)
 - [Arrêté du 15 juin 2007 (BCFL0770036A)](arrete-du-15-juin-2007-bcfl0770036a)
 - [Arrêté du 15 juin 2007 (ESRS0755752A)](arrete-du-15-juin-2007-esrs0755752a)
 - [Arrêté du 15 juin 2007 (IOCB0752958A)](arrete-du-15-juin-2007-iocb0752958a)

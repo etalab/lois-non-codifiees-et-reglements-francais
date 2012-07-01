@@ -512,7 +512,6 @@
 - [Décret n°97-1192 du 24 décembre 1997 (INTA9700362D)](decret-n97-1192-du-24-decembre-1997-inta9700362d)
 - [Décret n°97-1193 du 24 décembre 1997 (INTM9700016D)](decret-n97-1193-du-24-decembre-1997-intm9700016d)
 - [Décret n°97-1197 du 24 décembre 1997 (DEFA9751065D)](decret-n97-1197-du-24-decembre-1997-defa9751065d)
-- [Décret n°97-1203 du 24 décembre 1997 (AGRA9702082D)](decret-n97-1203-du-24-decembre-1997-agra9702082d)
 - [Décret n°97-1210 du 24 décembre 1997 (MESG9711484D)](decret-n97-1210-du-24-decembre-1997-mesg9711484d)
 - [Décret n°97-1213 du 24 décembre 1997 (MESP9723363D)](decret-n97-1213-du-24-decembre-1997-mesp9723363d)
 - [Décret n°97-1214 du 24 décembre 1997 (MESP9723364D)](decret-n97-1214-du-24-decembre-1997-mesp9723364d)
