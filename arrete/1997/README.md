@@ -382,7 +382,6 @@
 - [Arrêté du 13 août 1997 (MESS9722591A)](arrete-du-13-aout-1997-mess9722591a)
 - [Arrêté du 13 décembre 1996 (INTC9600561A)](arrete-du-13-decembre-1996-intc9600561a)
 - [Arrêté du 13 décembre 1996 (MENN9603529A)](arrete-du-13-decembre-1996-menn9603529a)
-- [Arrêté du 13 décembre 1996 (TASX9601858A)](arrete-du-13-decembre-1996-tasx9601858a)
 - [Arrêté du 13 février 1997 (ECOB9630041A)](arrete-du-13-fevrier-1997-ecob9630041a)
 - [Arrêté du 13 février 1997 (EQUP9700322A)](arrete-du-13-fevrier-1997-equp9700322a)
 - [Arrêté du 13 février 1997 (EQUZ9700273A)](arrete-du-13-fevrier-1997-equz9700273a)

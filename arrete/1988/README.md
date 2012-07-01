@@ -251,7 +251,6 @@
 - [Arrêté du 15 mars 1988 (ECOC8700067A)](arrete-du-15-mars-1988-ecoc8700067a)
 - [Arrêté du 15 novembre 1988 (EQUC8800682A)](arrete-du-15-novembre-1988-equc8800682a)
 - [Arrêté du 15 novembre 1988 (TRST8800571A)](arrete-du-15-novembre-1988-trst8800571a)
-- [Arrêté du 15 septembre 1988 (TEFT8803961A)](arrete-du-15-septembre-1988-teft8803961a)
 - [Arrêté du 16 août 1988 (SPSS8801239A)](arrete-du-16-aout-1988-spss8801239a)
 - [Arrêté du 16 août 1988 (SPSS8801242A)](arrete-du-16-aout-1988-spss8801242a)
 - [Arrêté du 16 février 1988 (ASES8800279A)](arrete-du-16-fevrier-1988-ases8800279a)
