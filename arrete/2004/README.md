@@ -772,7 +772,6 @@
 - [Arrêté du 30 janvier 2004 (EQUT0400154A)](arrete-du-30-janvier-2004-equt0400154a)
 - [Arrêté du 30 juillet 2004 (AGRF0401858A)](arrete-du-30-juillet-2004-agrf0401858a)
 - [Arrêté du 30 juillet 2004 (ECOB0450003A)](arrete-du-30-juillet-2004-ecob0450003a)
-- [Arrêté du 30 juillet 2004 (SANP0422322A)](arrete-du-30-juillet-2004-sanp0422322a)
 - [Arrêté du 30 juin 2004 (INDI0402921A)](arrete-du-30-juin-2004-indi0402921a)
 - [Arrêté du 30 juin 2004 (SANH0422283A)](arrete-du-30-juin-2004-sanh0422283a)
 - [Arrêté du 30 juin 2004 (SOCT0411354A)](arrete-du-30-juin-2004-soct0411354a)
