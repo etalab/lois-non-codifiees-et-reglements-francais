@@ -25,7 +25,6 @@
 - [Arrêté du 1 septembre 1997 (MAEC9710066A)](arrete-du-1-septembre-1997-maec9710066a)
 - [Arrêté du 2 avril 1997 (BUDL9700040A)](arrete-du-2-avril-1997-budl9700040a)
 - [Arrêté du 2 avril 1997 (DEFG9701358A)](arrete-du-2-avril-1997-defg9701358a)
-- [Arrêté du 2 avril 1997 (ENVP9760118A)](arrete-du-2-avril-1997-envp9760118a)
 - [Arrêté du 2 décembre 1997 (ATEE9760551A)](arrete-du-2-decembre-1997-atee9760551a)
 - [Arrêté du 2 décembre 1997 (MESG9723076A)](arrete-du-2-decembre-1997-mesg9723076a)
 - [Arrêté du 2 décembre 1997 (MESG9723078A)](arrete-du-2-decembre-1997-mesg9723078a)
