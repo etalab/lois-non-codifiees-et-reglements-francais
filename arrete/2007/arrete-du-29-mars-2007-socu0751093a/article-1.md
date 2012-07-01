@@ -12,4 +12,4 @@ L'état relatif à la présence de termites dans le bâtiment est réalisé en r
 
 - il procède à des sondages sur les ouvrages bois.
 
-L'application de la norme XP P 03-201 ou de toutes autres normes ou spécifications techniques équivalentes en vigueur dans un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, ayant le même objet, est présumée satisfaire aux exigences méthodologiques susmentionnées.
+L'application de la  norme NF P 03-201 de mars 2012 ou de toutes autres normes ou spécifications techniques équivalentes en vigueur dans un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, ayant le même objet, est présumée satisfaire aux exigences méthodologiques susmentionnées.
