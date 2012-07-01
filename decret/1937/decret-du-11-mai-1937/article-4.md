@@ -1,3 +1,0 @@
-# Article 4
-
-Les maîtres et maîtresses d'internat intérimaires, après un an de fonctions soit dans les lycées, soit dans les collèges, soit dans les cours secondaires, peuvent être nommés stagiaires par le recteur, tenant compte de l'obligation du deuxième alinéa de l'article 1er, sur la proposition du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie et après avis du doyen de la faculté fréquentée par le candidat. Les fonctions du maître d'internat cessent de plein droit si, à l'expiration de la première année, il n'est pas proposé pour la nomination en qualité de stagiaire ou admis à faire un nouvel intérim qui sera, au maximum, d'un an.
