@@ -4,7 +4,7 @@ Dans les départements, sont habilitées à siéger dans les commissions, comit�
 
 1° Justifier d'un fonctionnement indépendant, régulier et effectif depuis cinq ans au moins ;
 
-2° Avoir obtenu dans le département plus de 15 % des suffrages exprimés lors des élections à la chambre d'agriculture (collège des chefs d'exploitation et assimilés) ; lorsque deux organisations syndicales ont constitué une liste d'union ayant obtenu plus de 30 % des suffrages, elles sont réputées satisfaire l'une et l'autre à cette condition.
+2° Avoir obtenu dans le département plus de 10 % des suffrages exprimés lors des élections à la chambre d'agriculture (collège des chefs d'exploitation et assimilés) ; lorsque deux organisations syndicales ont constitué une liste d'union ayant obtenu plus de 20 % des suffrages, elles sont réputées satisfaire l'une et l'autre à cette condition.
 
 La condition d'ancienneté prévue au 1° ci-dessus est remplie par une organisation issue de la scission d'une organisation remplissant elle-même cette condition ou de la fusion d'organisations dont plus de la moitié remplissaient cette condition.
 
