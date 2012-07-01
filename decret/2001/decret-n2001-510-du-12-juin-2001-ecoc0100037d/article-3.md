@@ -1,3 +1,0 @@
-# Article 3
-
-L'augmentation du titre alcoométrique volumique naturel, prévue à l'annexe V, point C, du règlement CE n° 1493/1999 susvisé, est autorisée par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de l'agriculture lorsque les circonstances climatiques l'ont rendu nécessaire dans certaines zones viticoles. Les zones viticoles sont définies par l'annexe III du règlement précité. La quantité de sucre ajoutée ne peut être supérieure à 250 kg de sucre par hectare de vigne de production dans les zones viticoles C et à 300 kg par hectare de vigne de production dans la zone viticole B. Toutefois, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, cette quantité maximum est portée à 450 kg.
