@@ -1,0 +1,7 @@
+# Article 20
+
+En cas de demande préalable à une modification, telle que définie dans l'article 17 du décret du 15 juillet 2011 susvisé, l'organisme d'homologation évalue d'après les pièces fournies dans le dossier de demande si la modification remet ou non en cause la conformité de la chaîne homologuée aux spécifications applicables à l'homologation visées à l'annexe.
+
+Si la modification ne remet pas en cause la conformité de la chaîne homologuée aux spécifications applicables à l'homologation visées à l'annexe, conformément à l'article 12 du décret du 15 juillet 2011 susvisé, le ministre chargé des transports délivre un certificat d'homologation modificative, après avis de l'organisme d'homologation.
+
+Dans le cas contraire, la chaîne fait l'objet d'une nouvelle homologation selon les dispositions prévues à l'article 14 du décret du 15 juillet 2011 susvisé et de celles des articles 14, 15 et 16 du présent arrêté. Néanmoins, le soumissionnaire peut limiter les essais en site d'essais réalisés sur la chaîne et les inspections de la chaîne aux seuls équipements techniques concernés par la modification et à leur interaction avec les autres équipements de la chaîne. Il motive cette limitation. Les essais ou inspections sont réalisés préalablement à la demande par des organismes accrédités ou agréés. Le rapport d'essai et/ou le rapport d'inspection est porté à l'appui de la demande. L'organisme d'homologation peut demander d'effectuer tout essai ou inspection complémentaire qu'il juge utile avant de rendre son avis.

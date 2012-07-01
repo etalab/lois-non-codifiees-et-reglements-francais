@@ -1,0 +1,3 @@
+# Article 8
+
+Les produits légalement fabriqués ou commercialisés dans un autre Etat membre de l'Union européenne ou en Turquie, ou légalement fabriqués dans un autre Etat partie à l'accord sur l'Espace économique européen, ne sont pas soumis aux exigences du présent décret. Sans préjudice de l'application du règlement du 9 juillet 2008 susvisé ou du respect d'une procédure analogue pour les autres Etats parties à l'accord sur l'Espace économique européen ainsi que pour la Turquie, ces produits peuvent être importés et commercialisés en France avec l'une des mentions prévues au présent décret ou des mentions analogues.

@@ -1,0 +1,3 @@
+# Article 27
+
+Le directeur général de la prévention des risques, le délégué interministériel aux normes, le directeur général du travail, le délégué général à l'emploi et à la formation professionnelle, le directeur général de l'enseignement scolaire, la directrice générale de l'enseignement et de la recherche, le secrétaire général du ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et le directeur général pour l'enseignement supérieur et l'insertion professionnelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

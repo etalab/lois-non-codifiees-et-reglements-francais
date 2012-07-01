@@ -1,0 +1,3 @@
+# Article 14
+
+Nonobstant les dispositions particulières relatives aux branchements pourvus d'un affleurant fixées par l'article 6, lorsqu'un ouvrage ou tronçon d'ouvrage sensible pour la sécurité visé par les clauses particulières de la commande ou du marché est mis à nu pendant les travaux, et lorsque la classe de précision cartographique fournie en réponse à la déclaration d'intention de commencement de travaux est la classe B ou la classe C, le responsable du projet fait procéder à ses frais à des mesures de localisation des tronçons mis à nu, et il porte le résultat de ces mesures à la connaissance des exploitants concernés selon les mêmes modalités que pour des investigations complémentaires.

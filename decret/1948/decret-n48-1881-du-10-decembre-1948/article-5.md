@@ -1,181 +1,151 @@
 # Article 5
 
-A compter du 1er juillet 2011, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
+A compter du 1er juillet 2012, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
 
 <table>
 <tbody>
 <tr>
-<td rowspan="3">
-<p align="center">CATÉGORIE</p>
+<th>
+<br/>
+</th>
+<th colspan="4">
+<br/>VALEUR LOCATIVE MENSUELLE EN EUROS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>CATÉGORIE <br/>
+</th>
+<th colspan="2">
+<br/>Agglomération parisienne <br/>
+</th>
+<th colspan="2">
+<br/>Hors agglomération parisienne <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>Prix de base de chacun <br/>
+<br/>des dix premiers mètres <br/>
+<br/>carrés de surface corrigée <br/>
+</th>
+<th>
+<br/>Prix de base <br/>
+<br/>des mètres carrés suivants <br/>
+</th>
+<th>
+<br/>Prix de base de chacun <br/>
+<br/>des dix premiers mètres <br/>
+<br/>carrés de surface corrigée <br/>
+</th>
+<th>
+<br/>Prix de base <br/>
+<br/>des mètres carrés suivants <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>II A <br/>
 </td>
-<td colspan="4">
-<p align="center">VALEUR LOCATIVE MENSUELLE EN EUROS</p>
+<td align="center">
+<br/>11,78 <br/>
+</td>
+<td align="center">
+<br/>6,98 <br/>
+</td>
+<td align="center">
+<br/>9,62 <br/>
+</td>
+<td align="center">
+<br/>5,73 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<p align="center">Agglomération parisienne</p>
+<td align="center">
+<br/>II B <br/>
 </td>
-<td colspan="2">
-<p align="center">Hors agglomération parisienne</p>
+<td align="center">
+<br/>8,11 <br/>
 </td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>Prix de base de chacun<br/>
-<br/>des dix premiers<br/>
-<br/>mètres carrés<br/>
-<br/>de surface corrigée</p>
+<td align="center">
+<br/>4,38 <br/>
 </td>
-<td>
-<p align="center">
-<br/>Prix de base<br/>
-<br/>des mètres carrés suivants</p>
+<td align="center">
+<br/>6,64 <br/>
 </td>
-<td>
-<p align="center">
-<br/>Prix de base<br/>
-<br/>de chacun des dix premiers<br/>
-<br/>mètres carrés<br/>
-<br/>de surface corrigée</p>
-</td>
-<td>
-<p align="center">
-<br/>Prix de base<br/>
-<br/>des mètres carrés suivants</p>
+<td align="center">
+<br/>3,60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>II A</p>
+<td align="center">
+<br/>II C <br/>
 </td>
-<td>
-<p align="center">
-<br/>11,52</p>
+<td align="center">
+<br/>6,20 <br/>
 </td>
-<td>
-<p align="center">
-<br/>6,83</p>
+<td align="center">
+<br/>3,31 <br/>
 </td>
-<td>
-<p align="center">
-<br/>9,41</p>
+<td align="center">
+<br/>5,07 <br/>
 </td>
-<td>
-<p align="center">
-<br/>5,60</p>
+<td align="center">
+<br/>2,73 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>II B</p>
+<td align="center">
+<br/>III A <br/>
 </td>
-<td>
-<p align="center">
-<br/>7,93</p>
+<td align="center">
+<br/>3,75 <br/>
 </td>
-<td>
-<p align="center">
-<br/>4,28</p>
+<td align="center">
+<br/>2,02 <br/>
 </td>
-<td>
-<p align="center">
-<br/>6,49</p>
+<td align="center">
+<br/>3,08 <br/>
 </td>
-<td>
-<p align="center">
-<br/>3,52</p>
+<td align="center">
+<br/>1,70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>II C</p>
+<td align="center">
+<br/>III B <br/>
 </td>
-<td>
-<p align="center">
-<br/>6,06</p>
+<td align="center">
+<br/>2,24 <br/>
 </td>
-<td>
-<p align="center">
-<br/>3,24</p>
+<td align="center">
+<br/>1,16 <br/>
 </td>
-<td>
-<p align="center">
-<br/>4,96</p>
+<td align="center">
+<br/>1,83 <br/>
 </td>
-<td>
-<p align="center">
-<br/>2,67</p>
+<td align="center">
+<br/>0,95 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>III A</p>
+<td align="center">
+<br/>IV <br/>
 </td>
-<td>
-<p align="center">
-<br/>3,67</p>
+<td align="center">
+<br/>0,26 <br/>
 </td>
-<td>
-<p align="center">
-<br/>1,98</p>
+<td align="center">
+<br/>0,12 <br/>
 </td>
-<td>
-<p align="center">
-<br/>3,01</p>
+<td align="center">
+<br/>0,26 <br/>
 </td>
-<td>
-<p align="center">
-<br/>1,66</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>III B</p>
-</td>
-<td>
-<p align="center">
-<br/>2,19</p>
-</td>
-<td>
-<p align="center">
-<br/>1,13</p>
-</td>
-<td>
-<p align="center">
-<br/>1,79</p>
-</td>
-<td>
-<p align="center">
-<br/>0,93</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>IV</p>
-</td>
-<td>
-<p align="center">
-<br/>0,26</p>
-</td>
-<td>
-<p align="center">
-<br/>0,12</p>
-</td>
-<td>
-<p align="center">
-<br/>0,26</p>
-</td>
-<td>
-<p align="center">
-<br/>0,12</p>
+<td align="center">
+<br/>0,12 <br/>
 </td>
 </tr>
 </tbody>

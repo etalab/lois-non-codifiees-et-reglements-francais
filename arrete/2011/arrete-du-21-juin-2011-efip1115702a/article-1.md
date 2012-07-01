@@ -363,16 +363,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef du bureau des marchés postaux et du suivi du groupe La Poste <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction générale de la compétitivité, de l'industrie et des services <br/>
-</p>
-</td>
-<td align="center">
 <p align="left">Adjoint au chef du bureau des professions libérales et des entreprises commerciales de service <br/>
 </p>
 </td>

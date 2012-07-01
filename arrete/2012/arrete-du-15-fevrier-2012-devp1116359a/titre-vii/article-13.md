@@ -1,0 +1,7 @@
+# Article 13
+
+Les clauses techniques particulières de la commande ou du marché prévoient la mise en œuvre de techniques de travaux adaptées à la méconnaissance de la localisation exacte des réseaux. A défaut de définition plus précise, sont considérées comme techniques adaptées les techniques définies dans le guide technique approuvé prévu par l'article R. 554-29 du code de l'environnement pour la réalisation d'investigations complémentaires avec fouille ou pour la réalisation de travaux urgents.
+
+Les clauses financières particulières de la commande ou du marché prévoient les rémunérations d'actes proportionnées à la complexité des travaux prévus et aux conditions particulières fixées par les clauses techniques pour la mise en œuvre des travaux, ces conditions pouvant prévoir l'exclusion de l'emploi de techniques non appropriées ou l'adaptation des techniques normalement applicables ou la mise en œuvre de précautions renforcées.
+
+Les principes relatifs à la répartition des actes en plusieurs catégories donnant lieu à un mode de rémunération différencié, en fonction de la complexité des travaux, sont fixés par une norme reconnue par arrêté du ministre chargé de la sécurité industrielle.

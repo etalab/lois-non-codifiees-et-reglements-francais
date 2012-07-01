@@ -1,0 +1,5 @@
+# Article 21
+
+I. ― Les tableaux d'avancement établis au titre de l'année 2012 pour l'accès aux grades de contrôleur spécialisé de classe supérieure et de contrôleur spécialisé de classe exceptionnelle demeurent valables au titre du corps régi par le présent décret, jusqu'au 31 décembre de la même année.
+
+II. ― Les agents promus en application du I postérieurement à la date d'entrée en vigueur du présent décret sont classés dans l'un des grades d'avancement du corps régi par le présent décret en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir, jusqu'à la date de leur promotion, au corps des contrôleurs spécialisés de la direction générale de la sécurité extérieure régi par les dispositions statutaires antérieures au présent décret, puis avaient été promus dans l'un des grades d'avancement de ce corps en application de l'article 11 du décret du 18 novembre 1994 susvisé et enfin été reclassés, à la date de leur promotion, conformément aux dispositions de l'article 17 du présent décret.

@@ -1,0 +1,7 @@
+# Article 4
+
+Les déclarants visés aux articles R. 554-21 et R. 554-24 du code de l'environnement indiquent dans leur déclaration l'emprise des travaux le plus précisément possible.
+
+A cet effet, ils utilisent l'outil mis à disposition par le guichet unique pour délimiter un ou plusieurs polygones correspondant à chacune des zones de travaux et attachent à leur déclaration le document édité par le guichet unique comportant les coordonnées géoréférencées de chacun des sommets de ces polygones portées sur le fond de plan approprié. Ils veillent à prendre en compte dans le tracé des différents polygones l'incertitude maximale de localisation des périmètres correspondants de façon à garantir que l'emprise des travaux est totalement incluse dans ces polygones. Lorsque la distance entre deux polygones adjacents est supérieure à 50 mètres, ou lorsque la superficie totale de l'emprise des travaux est supérieure à 2 hectares, le déclarant établit plusieurs déclarations. Lorsque l'emprise des travaux intéresse plusieurs communes, le déclarant établit une déclaration pour chacune d'elles.
+
+Lorsque le projet modifie ou est susceptible de modifier, en fin de réalisation, la profondeur d'enfouissement d'un ouvrage situé dans l'emprise du projet, le responsable du projet ainsi que l'entreprise effectuant la dernière opération modifiant ou susceptible de modifier la côte finale au droit de l'ouvrage le mentionnent dans leurs déclarations respectives.

@@ -1,0 +1,7 @@
+# Article 5
+
+Les exploitants qui établissent les récépissés visés aux articles R. 554-22 et R. 554-26 du code de l'environnement indiquent la précision de la localisation géographique des différents tronçons en service de leur ouvrage concernés par le récépissé, selon les trois classes de précision définies à l'article 1er. Ils indiquent également, le cas échéant, les ouvrages ou tronçons d'ouvrages pour lesquels existait une profondeur minimale réglementaire d'enfouissement à la date à laquelle ils ont été implantés. Pour ces ouvrages ou tronçons d'ouvrages, ils signalent, le cas échéant, les tronçons qui ne respectent pas la profondeur réglementaire d'enfouissement ainsi que le risque de modification de la profondeur réelle lorsqu'ils ont connaissance d'informations à ce sujet liées aux travaux ou activités effectués au droit de l'ouvrage postérieurement à sa construction.
+
+Lorsque le projet ou les travaux modifient ou sont susceptibles de modifier, en fin de réalisation, la profondeur d'enfouissement d'un ouvrage, l'exploitant concerné signale au responsable de projet l'éventuelle incompatibilité de ce projet ou de ces travaux avec les dispositions réglementaires applicables à la profondeur de l'ouvrage. Si le projet ou les travaux sont compatibles, l'exploitant modifie en conséquence les données de localisation géographique de son ouvrage.
+
+Pour tout ouvrage ou tronçon d'ouvrage mis en service postérieurement à la date de publication du présent arrêté, l'exploitant est tenu d'indiquer et garantir la classe de précision A.

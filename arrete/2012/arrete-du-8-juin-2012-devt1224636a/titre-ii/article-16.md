@@ -1,0 +1,5 @@
+# Article 16
+
+L'inspection initiale du fonctionnement réel de la chaîne à homologuer, prévue à l'article 14 du décret du 15 juillet 2011 susvisé, comporte une visite de chacun des sites d'hébergement du système central et d'un certain nombre de sites comportant des équipements de la chaîne à homologuer. Cette inspection a pour objet de s'assurer du respect des dispositions minimales en matière de mise en œuvre (conformité aux spécifications d'installation du soumissionnaire) ou de sécurité (vérification de l'implémentation effective des procédures de sécurité correspondant aux articles 9, 30, 45, 71, 19, 32, 48, 73, 58, 77, 84, 86 et 90 du cahier des charges figurant à l'annexe du présent arrêté) pouvant avoir un impact sur le fonctionnement des chaînes pour lesquelles l'homologation a été demandée.
+
+Le résultat de l'inspection fait l'objet d'un rapport par l'organisme d'inspection accrédité ou agréé. Ce rapport est transmis à l'organisme d'homologation par le soumissionnaire dans le cadre de la demande d'homologation.

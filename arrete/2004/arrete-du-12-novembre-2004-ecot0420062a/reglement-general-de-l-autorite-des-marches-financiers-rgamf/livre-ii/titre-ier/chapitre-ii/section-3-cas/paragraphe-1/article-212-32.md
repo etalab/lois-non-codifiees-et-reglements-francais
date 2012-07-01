@@ -12,4 +12,6 @@ b) En cas de cessation de paiement de l'établissement de crédit émetteur, les
 
 Les informations que contient le prospectus de base sont complétées, le cas échéant, par des données actualisées sur l'émetteur et sur les titres financiers qui font l'objet de l'offre au public ou de l'admission aux négociations sur un marché réglementé conformément à l'article 212-25.
 
-Si les conditions définitives de l'offre ne sont pas incluses dans le prospectus de base ou dans une note complémentaire, elles sont communiquées aux investisseurs et déposées auprès de l'AMF pour chaque opération, dans les meilleurs délais, si possible avant le lancement de l'opération. Dans ce cas, les dispositions du 1° de l'article 212-17 sont applicables.
+Si les conditions définitives de l'offre ne sont pas incluses dans le prospectus de base ou dans un supplément, elles sont communiquées aux investisseurs et à l'autorité compétente de l'Etat membre de l'Union européenne ou des Etats membres d'accueil et déposées auprès de l'AMF pour chaque opération, dans les meilleurs délais et, si possible, avant le lancement de l'opération. Dans ce cas, les dispositions du 1° de l'article 212-17 sont applicables.
+
+Les conditions définitives ne peuvent contenir que des informations concernant la note relative aux titres financiers et ne peuvent pas servir de supplément au prospectus de base.

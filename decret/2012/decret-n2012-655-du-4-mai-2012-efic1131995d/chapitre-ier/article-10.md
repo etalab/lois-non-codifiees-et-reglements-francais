@@ -1,0 +1,7 @@
+# Article 10
+
+Les mentions : « mis en bouteille » suivies des termes : « abbaye », « bastide », « campagne », « chapelle », « château », « clos », « commanderie », « cru », « domaine », « hospices », « mas », « manoir », « monastère », « monopole », « moulin », « prieuré » et « tour » peuvent être utilisées pour un vin ou un vin de liqueur bénéficiant d'une appellation d'origine protégée ou d'une indication géographique protégée si celui-ci n'a pas été, à un moment quelconque avant la mise en bouteille, transporté hors de l'exploitation viticole dont il revendique le nom et où il a été vinifié.
+
+La mention : « mis en bouteille à la propriété » peut être utilisée pour un vin ou un vin de liqueur bénéficiant d'une appellation d'origine protégée ou d'une indication géographique protégée si cette mise en bouteille a été effectuée dans l'exploitation viticole où ont été récoltés et vinifiés les raisins ou dans la cave coopérative qui a procédé à la vinification.
+
+La mention : « mis en bouteille dans la région de production » peut être utilisée pour un vin ou un vin de liqueur bénéficiant d'une appellation d'origine protégée ou d'une indication géographique protégée, si cette mise en bouteille a été effectuée dans la zone géographique délimitée de l'appellation d'origine protégée ou de l'indication géographique protégée concernée ou dans la zone de proximité immédiate de l'aire de production définie dans le cahier des charges de l'appellation d'origine protégée ou de l'indication géographique protégée concernée.

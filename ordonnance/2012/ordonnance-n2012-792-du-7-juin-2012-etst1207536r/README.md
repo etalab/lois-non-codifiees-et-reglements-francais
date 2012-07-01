@@ -3,3 +3,4 @@
 - [Chapitre Ier : Dispositions relatives au code du travail de Mayotte](chapitre-ier)
 - [Chapitre II : Dispositions relatives à l'entrée en vigueur](chapitre-ii)
 - [Chapitre III : Dispositions transitoires](chapitre-iii)
+- [Chapitre IV : Dispositions finales](chapitre-iv)

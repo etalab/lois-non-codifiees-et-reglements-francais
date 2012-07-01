@@ -1,0 +1,3 @@
+# Article 12
+
+Jusqu'aux résultats des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012, la représentativité des organisations syndicales de salariés s'apprécie conformément aux dispositions de l'article 11 de la présente ordonnance, notamment pour l'application des articles L. 132-2, L. 320-14, L. 330-7, L. 433-2, L. 433-10, L. 433-12, L. 433-16, L. 441-4, L. 443-2, L. 443-8, L. 443-11 et L. 711-6 du code du travail applicable à Mayotte.
