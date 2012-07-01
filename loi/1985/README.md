@@ -8,7 +8,6 @@
 - [Loi n° 85-1098 du 11 octobre 1985](loi-n-85-1098-du-11-octobre-1985)
 - [Loi n° 85-11 du 3 janvier 1985](loi-n-85-11-du-3-janvier-1985)
 - [Loi n° 85-1268 du 29 novembre 1985](loi-n-85-1268-du-29-novembre-1985)
-- [Loi n° 85-1273 du 4 décembre 1985](loi-n-85-1273-du-4-decembre-1985)
 - [Loi n° 85-1321 du 14 décembre 1985](loi-n-85-1321-du-14-decembre-1985)
 - [Loi n° 85-1376 du 23 décembre 1985](loi-n-85-1376-du-23-decembre-1985)
 - [Loi n° 85-1404 du 30 décembre 1985](loi-n-85-1404-du-30-decembre-1985)
