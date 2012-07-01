@@ -16,6 +16,6 @@ Par exception aux alinéas premier à cinq qui précèdent, l'opérateur est ten
 
 ― la liste des immeubles raccordés pour lesquels il a le statut d'opérateur d'immeuble et faisant l'objet d'une convention telle que prévue par l'article L. 33-6 du code des postes et des communications électroniques pour le réseau de boucle locale optique résidentielle.
 
-II.-Les données transmises conformément au V de l'article D. 98-6-3 du code des postes et des communications électroniques sont fournies selon la structure précisée en annexe.
+II. - Les données transmises conformément au V de l'article D. 98-6-3 du code des postes et des communications électroniques sont fournies selon la structure précisée en annexe.
 
-Les informations localisées sont fournies dans les systèmes nationaux de référence de coordonnées géographiques, planimétriques et altimétriques tels que définis dans le décret n° 2006-272 du 3 mars 2006.
+Les informations localisées sont fournies dans les systèmes nationaux de référence de coordonnées géographiques, planimétriques et altimétriques tels que définis dans le décret n° 2000-1276 du 26 décembre 2000 modifié.
