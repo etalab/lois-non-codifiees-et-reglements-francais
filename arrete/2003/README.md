@@ -552,7 +552,6 @@
 - [Arrêté du 19 novembre 2003 (MENP0302542A)](arrete-du-19-novembre-2003-menp0302542a)
 - [Arrêté du 19 septembre 2003 (MENF0302050A)](arrete-du-19-septembre-2003-menf0302050a)
 - [Arrêté du 19 mai 2003 (DEFB0301577A)](arrete-du-19-mai-2003-defb0301577a)
-- [Arrêté du 19 mai 2003 (RECR0300052A)](arrete-du-19-mai-2003-recr0300052a)
 - [Arrêté du 20 août 2003 (AGRF0301646A)](arrete-du-20-aout-2003-agrf0301646a)
 - [Arrêté du 20 avril 1995 (EQUS9500861A)](arrete-du-20-avril-1995-equs9500861a)
 - [Arrêté du 20 avril 2003 (INTA0300264A)](arrete-du-20-avril-2003-inta0300264a)
