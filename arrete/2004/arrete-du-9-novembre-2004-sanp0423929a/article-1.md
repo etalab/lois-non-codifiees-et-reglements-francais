@@ -5,3 +5,5 @@ La liste A mentionnée au 1° de l'article R. 5221-6 du code de la santé publiq
 Les réactifs et produits réactifs, y compris les matériaux associés d'étalonnage et de contrôle, pour la détermination des groupes sanguins suivants : système ABO, rhésus (C, c, D, E, e) anti-kell.
 
 Les réactifs et produits réactifs, y compris les matériaux associés d'étalonnage et de contrôle, pour la détection, la confirmation et la quantification dans des spécimens humains de marqueurs de l'infection HIV (HIV 1 et 2), HTLV I et II et hépatite B, C et D.
+
+Les tests sanguins de dépistage, de diagnostic et de confirmation de la variante de la maladie de Creuztfeld Jakob (vMCJ).
