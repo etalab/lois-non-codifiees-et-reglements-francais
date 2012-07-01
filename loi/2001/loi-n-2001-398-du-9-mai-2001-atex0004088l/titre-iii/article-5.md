@@ -9,5 +9,3 @@ Dans un délai de trois ans à compter de la date d'entrée en vigueur du décre
 Les personnels transférés à l'Institut de radioprotection et de sûreté nucléaire sont électeurs et éligibles au conseil d'administration et aux instances représentatives du personnel prévues au code du travail.
 
 Les personnels, collaborateurs occasionnels et membres des conseils et commissions de l'Institut de radioprotection et de sûreté nucléaire sont tenus, sous peine des sanctions prévues à l'article 226-13 du code pénal, de ne pas divulguer les informations liées aux données dosimétriques individuelles auxquelles ils ont accès.
-
-Les personnels, collaborateurs occasionnels et membres des conseils et commissions de l'Institut de radioprotection et de sûreté nucléaire adressent au directeur général de l'institut, à l'occasion de leur nomination ou de leur entrée en fonction, une déclaration mentionnant leurs liens, directs ou indirects, avec les entreprises ou organismes dont l'activité entre dans le champ de compétence de l'institut. Cette déclaration est actualisée à leur initiative.
