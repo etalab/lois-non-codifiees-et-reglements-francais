@@ -4,7 +4,7 @@ Au sens du présent arrêté, on entend par :
 
 a) "Animal " : tout animal vivant des espèces ovine et caprine ;
 
-b) "Animal de boucherie " : tout animal vivant des espèces ovine et caprine destiné à être menés à l'abattoir, soit directement, soit après passage dans un centre de rassemblement agréé, afin d'être abattu ;
+b) "Animal de boucherie dérogataire" : tout animal vivant né en France des espèces ovine et caprine destiné à être abattu sur le territoire national avant l'âge de douze mois soit directement, soit après passage dans un centre de rassemblement agréé, un marché ou un centre d'engraissement ;
 
 c) "Exploitation " : tout établissement, toute construction, ou, dans le cas d'un élevage en plein air, tout milieu, dans lequel des animaux sont détenus, élevés ou manipulés de manière permanente ou temporaire, à l'exception des cabinets ou cliniques vétérinaires. Le terme " exploitation " prend en compte notamment les lieux suivants :
 
@@ -44,8 +44,14 @@ r) "Délégataire" : tout opérateur commercial ou responsable d'exploitation à
 
 s) "Délégant" : tout détenteur qui a délégué la réalisation de la notification de mouvement à un opérateur commercial ou responsable d'exploitation conformément à l'article D. 212-30-1 du code rural.
 
-t) "Lieu de transhumance" : tout établissement, toute construction ou tout lieu situé sur le territoire national où sont regroupés de façon saisonnière et temporaire des animaux provenant de plusieurs exploitations d'élevage et qui, sauf exception, reviennent ensuite dans leur exploitation d'origine ;
+t) (alinéa supprimé)
 
 u) "Numéro national d'identification" : numéro individuel attribué à chaque animal de façon unique (il n'est jamais réattribué) et pérenne (l'animal conserve toujours ce numéro) par l'EdE, et dont le format est commun à l'ensemble des animaux du territoire national ;
 
-v) "Numéro d'exploitation" : numéro attribué à chaque exploitation par l'EdE et constitué de huit chiffres précédés du code "FR" selon les dispositions décrites dans le CCOT détenteurs/exploitations.
+v) "Numéro d'exploitation" : numéro attribué à chaque exploitation par l'EdE et constitué de huit chiffres précédés du code "FR" selon les dispositions décrites dans le CCOT détenteurs/exploitations ;
+
+w) "Indicatif de marquage" : numéro à 6 chiffres attribué à chaque exploitation par l'EdE permettant de faire le lien, au moyen d'une table de correspondance, avec le numéro de l'exploitation de naissance de l'animal ;
+
+x) "Animal non dérogataire" : animal vivant de l'espèce ovine et caprine qui n'est pas un animal de boucherie dérogataire tel que défini au point b du présent article.
+
+y) "Code pays" : code conforme aux dispositions du point A.2 a de l'annexe du règlement (CE) n° 21/2004 susvisé.

@@ -1,4 +1,4 @@
-# Identification des animaux nés après le 9 juillet 2005
+# Identification des animaux nés avant le 9 juillet 2005
 
 - [Article 8](article-8.md)
 - [Article 8-1](article-8-1.md)
