@@ -2,7 +2,7 @@
 
 Ne sont pas des déchets inertes :
 
-― les déchets de matériaux de construction contenant de l'amiante, relevant du code 17 06 05 * de la liste des déchets, à l'exception de ceux pour lesquels l'amiante est lié à des matériaux de construction inertes ayant conservé leur intégrité ;
+― les déchets de matériaux de construction contenant de l'amiante, relevant du code 17 06 05 * de la liste des déchets ;
 
 ― les déchets de matériaux géologiques excavés contenant de l'amiante, relevant du code 17 05 03 * de la liste des déchets.
 

@@ -4,4 +4,4 @@ La zone à exploiter est divisée en casiers, eux-mêmes éventuellement subdivi
 
 Les superficies des casiers, et éventuellement des alvéoles, sont précisées dans l'arrêté préfectoral d'autorisation.
 
-Les déchets d'amiante lié sont obligatoirement stockés dans des casiers dédiés. Les déchets à base de plâtre sont stockés, sauf impossibilité pratique, dans des casiers dans lesquels aucun déchet biodégradable n'est admis. Les casiers dédiés au stockage de déchets d'amiante lié ou au stockage de déchets à base de plâtre sont en outre soumis aux dispositions de l'annexe VI du présent arrêté.
+Les déchets d'amiante lié à des matériaux inertes ou les déchets de terres amiantifères sont obligatoirement stockés dans des casiers dédiés. Les déchets à base de plâtre sont stockés, sauf impossibilité pratique, dans des casiers dans lesquels aucun déchet biodégradable n'est admis. Les casiers dédiés au stockage de déchets d'amiante lié à des matériaux inertes ou au stockage de déchets à base de plâtre sont en outre soumis aux dispositions de l'annexe VI du présent arrêté.

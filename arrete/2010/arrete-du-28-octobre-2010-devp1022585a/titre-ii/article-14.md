@@ -14,6 +14,4 @@ L'exploitant tient à jour un registre d'admission, éventuellement sous format 
 
 ― le cas échéant, le motif de refus d'admission.
 
-S'il s'agit de déchets d'amiante lié à des matériaux inertes, le registre contient en outre les éléments mentionnés à l'article 32.
-
 Ce registre est conservé pendant au moins trois ans et est tenu à la disposition des agents mentionnés à l'article L. 541-44 du code de l'environnement.

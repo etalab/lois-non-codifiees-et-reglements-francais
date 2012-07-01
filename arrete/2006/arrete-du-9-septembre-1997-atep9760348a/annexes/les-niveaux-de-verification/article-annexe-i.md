@@ -6,17 +6,17 @@ La caractérisation de base est la première étape de la procédure d'admission
 
 a) Informations à fournir :
 
-- source et origine du déchet ;
+-source et origine du déchet ;
 
-- informations concernant le processus de production du déchet (description et caractéristiques des matières premières et des produits) ;
+-informations concernant le processus de production du déchet (description et caractéristiques des matières premières et des produits) ;
 
-- données concernant la composition du déchet et son comportement à la lixiviation, le cas échéant ;
+-données concernant la composition du déchet et son comportement à la lixiviation, le cas échéant ;
 
-- apparence du déchet (odeur, couleur, apparence physique) ;
+-apparence du déchet (odeur, couleur, apparence physique) ;
 
-- code du déchet conformément à l'annexe II du décret n° 2002-540 du 18 avril 2002 ;
+-code du déchet conformément à l'annexe II de l'article R. 541-8 du code de l'environnement ;
 
-- au besoin, précautions supplémentaires à prendre au niveau de l'installation de stockage.
+-au besoin, précautions supplémentaires à prendre au niveau de l'installation de stockage.
 
 b) Essais à réaliser :
 
@@ -28,9 +28,9 @@ Les tests et analyses relatifs à la caractérisation de base peuvent être réa
 
 Il est possible de ne pas effectuer les essais correspondant à la caractérisation de base après accord de l'inspection des installations classées dans les cas suivants :
 
-- toutes les informations nécessaires à la caractérisation de base sont déjà connues et dûment justifiées ;
+-toutes les informations nécessaires à la caractérisation de base sont déjà connues et dûment justifiées ;
 
-- le déchet fait partie d'un type de déchets pour lequel la réalisation des essais présente d'importantes difficultés ou entraînerait un risque pour la santé des intervenants ou, le cas échéant, pour lequel on ne dispose pas de procédure d'essai ni de critère d'admission.
+-le déchet fait partie d'un type de déchets pour lequel la réalisation des essais présente d'importantes difficultés ou entraînerait un risque pour la santé des intervenants ou, le cas échéant, pour lequel on ne dispose pas de procédure d'essai ni de critère d'admission.
 
 c) Dispositions particulières :
 

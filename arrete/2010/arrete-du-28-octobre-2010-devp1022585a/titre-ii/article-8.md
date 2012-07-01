@@ -16,8 +16,6 @@ Le cas échéant, sont annexés à ce document :
 
 ― les résultats du test de détection de goudron mentionné à l'article 11 ;
 
-― le bordereau de suivi de déchets dangereux contenant de l'amiante prévu par l'arrêté du 29 juillet 2005 susvisé ;
-
 ― les documents requis par le règlement du 14 juin 2006 susvisé.
 
 Ce document est signé par le producteur des déchets et les différents intermédiaires, le cas échéant.

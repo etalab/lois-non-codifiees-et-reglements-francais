@@ -1,6 +1,6 @@
 # Article 4
 
-Les déchets qui peuvent être déposés dans une installation de stockage de déchets non dangereux sont les déchets municipaux, les déchets non dangereux de toute autre origine et les déchets d'amiante lié.
+Les déchets qui peuvent être déposés dans une installation de stockage de déchets non dangereux sont les déchets non dangereux, les déchets d'amiante lié à des matériaux inertes et les déchets de terres amiantifères.
 
 Les déchets qui ne peuvent pas être admis dans une installation de stockage de déchets non dangereux sont ceux qui figurent à l'annexe II du présent arrêté.
 
