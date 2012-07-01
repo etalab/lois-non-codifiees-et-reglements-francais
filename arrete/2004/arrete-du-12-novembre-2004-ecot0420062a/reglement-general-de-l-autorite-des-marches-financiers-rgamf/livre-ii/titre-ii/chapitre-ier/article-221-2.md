@@ -14,4 +14,6 @@ b) Lorsque l'émetteur a son siège hors de l'Espace économique européen
 
 II.-Lorsque I'AMF n'est pas compétente pour le contrôle des informations mentionnées au I et que les titres financiers sont admis aux négociations sur un marché réglementé français, ces informations sont rédigées en français ou dans une autre langue usuelle en matière financière.
 
-III.-Sans préjudice des dispositions du 5° de l'article L. 451-1-4 du code monétaire et financier, lorsque la valeur nominale des titres financiers s'élève au moins à 50 000 euros ou à la contre-valeur de ce montant en devises, l'information réglementée exigible est rédigée en français ou dans une autre langue usuelle en matière financière.
+III.-Sans préjudice des dispositions du 5° de l'article L. 451-1-4 du code monétaire et financier, lorsque la valeur nominale des titres de créance s'élève au moins à 100 000 euros ou à la contre-valeur de ce montant en devises, l'information réglementée exigible est rédigée en français ou dans une autre langue usuelle en matière financière.
+
+IV. - Le III s'applique également aux titres de créance dont la valeur nominale unitaire est au moins de 50 000 euros, ou à la contre-valeur de ce montant en devises, qui ont déjà été admis aux négociations sur un marché réglementé avant le 31 décembre 2010.

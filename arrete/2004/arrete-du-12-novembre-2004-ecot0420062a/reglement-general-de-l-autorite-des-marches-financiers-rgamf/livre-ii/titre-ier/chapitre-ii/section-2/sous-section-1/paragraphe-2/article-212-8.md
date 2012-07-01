@@ -1,8 +1,8 @@
 # Article 212-8
 
-I. - Le prospectus comprend un résumé, sauf lorsque la demande d'admission aux négociations sur un marché réglementé porte sur des titres de créance dont la valeur nominale s'élève au moins à 50 000 euros ou à la contre-valeur de ce montant en devises.
+I. - Le prospectus comprend un résumé, sauf lorsque la demande d'admission aux négociations sur un marché réglementé porte sur des titres de créance dont la valeur nominale s'élève au moins à 100 000 euros ou à la contre-valeur de ce montant en devises.
 
-II. - Le résumé expose brièvement et dans un langage non technique les principales caractéristiques de l'émetteur, des garants éventuels et des titres financiers qui font l'objet de l'offre au public ou dont l'admission aux négociations sur un marché réglementé est demandée. Le résumé expose également les principaux risques présentés par l'émetteur, les garants éventuels et les instruments financiers concernés.
+II. - Le résumé expose de manière concise et dans un langage non technique des informations clés qui fournissent, conjointement avec le prospectus, des informations adéquates sur les éléments essentiels des titres financiers concernés afin d'aider les investisseurs lorsqu'ils envisagent d'investir dans ces titres. Il est établi sous une forme standard afin de faciliter la comparabilité des résumés relatifs aux titres financiers similaires.
 
 III. - Le résumé comporte également un avertissement mentionnant :
 
