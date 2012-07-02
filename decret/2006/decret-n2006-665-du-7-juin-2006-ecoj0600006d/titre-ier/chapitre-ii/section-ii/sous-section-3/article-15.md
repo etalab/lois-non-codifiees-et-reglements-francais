@@ -2,7 +2,7 @@
 
 Sont institués, dans chaque département ou dans chaque région, sauf exceptions prévues par le présent décret :
 
-1° Le conseil départemental de la santé et de la protection animales ;
+1° Le conseil régional d'orientation de la politique sanitaire animale et végétale ;
 
 2° La commission départementale d'orientation de l'agriculture ;
 

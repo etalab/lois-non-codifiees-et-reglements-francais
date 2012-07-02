@@ -53,7 +53,7 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 </tr>
 <tr>
 <td valign="top" width="302">
-<p align="center">Qualité et sécurité des productions<br/>végétales et animales </p>
+<p align="center">Qualité et sécurité des productions <br/>végétales et animales </p>
 </td>
 <td valign="top" width="302"/>
 </tr>
@@ -115,10 +115,28 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux.</p>
+<p align="left">Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Articles R. 258-6, R. 258-8 et R. 258-9 du code rural et de la pêche maritime.</p>
+<p align="left">Articles R. 258-6, R. 258-8 et R. 258-9 du code rural et de la pêche maritime. </p>
+</td>
+</tr>
+<tr>
+<td>Reconnaissance des organismes à vocation sanitaire prévue à l'article L. 201-9 du code rural et de la pêche maritime. <br/>
+</td>
+<td>Article R. 201-12 du code rural et de la pêche maritime. <br/>
+</td>
+</tr>
+<tr>
+<td>Reconnaissance des organisations vétérinaires à vocation technique prévue à l'article L. 201-9 du code rural et de la pêche maritime. <br/>
+</td>
+<td>Article R. 201-18 du code rural et de la pêche maritime. <br/>
+</td>
+</tr>
+<tr>
+<td>Reconnaissance des associations sanitaires régionales prévue à l'article L. 201-11 du code rural et de la pêche maritime. <br/>
+</td>
+<td>Article R. 201-24 du code rural et de la pêche maritime. <br/>
 </td>
 </tr>
 <tr>
@@ -243,7 +261,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 </tr>
 <tr>
 <td valign="top" width="302">
-<p align="center">Qualité et sécurité des productions<br/>végétales et animales </p>
+<p align="center">Qualité et sécurité des productions <br/>végétales et animales </p>
 </td>
 <td valign="top" width="302"/>
 </tr>
@@ -627,32 +645,32 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p align="left">Agrément des organismes chargés de la certification environnementale des exploitations agricoles prévue à l'article L. 611-6 du code rural et de la pêche maritime. </p>
 </td>
 <td>
-<p align="left">Article R. 617-28 du code rural et de la pêche maritime.</p>
+<p align="left">Article R. 617-28 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>
-<td>Décisions d'autorisations de mise sur le marché, permis de commerce  parallèle et d'expérimentation des produits phytopharmaceutiques et  adjuvants vendus seuls ou en mélange et décisions faisant suite à une  demande de modification, de renouvellement ou de retrait de ces  autorisations et permis, y compris pour les produits  phytopharmaceutiques composés en tout ou partie d'organismes  génétiquement modifiés.  <br/>
+<td>Décisions d'autorisations de mise sur le marché, permis de commerce parallèle et d'expérimentation des produits phytopharmaceutiques et adjuvants vendus seuls ou en mélange et décisions faisant suite à une demande de modification, de renouvellement ou de retrait de ces autorisations et permis, y compris pour les produits phytopharmaceutiques composés en tout ou partie d'organismes génétiquement modifiés. <br/>
 </td>
-<td>Décisions mentionnées à l'article R. 253-5 du code rural et de la pêche maritime.  <br/>
+<td>Décisions mentionnées à l'article R. 253-5 du code rural et de la pêche maritime. <br/>
 </td>
 </tr>
 <tr>
 <td>
-<br/>Autorisation de reconditionnement des produits faisant l'objet d'un permis de commerce parallèle.  <br/>
+<br/>Autorisation de reconditionnement des produits faisant l'objet d'un permis de commerce parallèle. <br/>
 </td>
-<td>Décisions mentionnées à l'article R. 253-28 du code rural et de la pêche maritime.  <br/>
-</td>
-</tr>
-<tr>
-<td>Acceptation des demandes de confidentialité des données.  <br/>
-</td>
-<td>Décisions mentionnées à l'article R. 253-34 du code rural et de la pêche maritime.  <br/>
+<td>Décisions mentionnées à l'article R. 253-28 du code rural et de la pêche maritime. <br/>
 </td>
 </tr>
 <tr>
-<td>Agrément des personnes réalisant des essais officiellement reconnus.  <br/>
+<td>Acceptation des demandes de confidentialité des données. <br/>
 </td>
-<td>Décisions mentionnées à l'article R. 253-38 du code rural et de la pêche maritime.  <br/>
+<td>Décisions mentionnées à l'article R. 253-34 du code rural et de la pêche maritime. <br/>
+</td>
+</tr>
+<tr>
+<td>Agrément des personnes réalisant des essais officiellement reconnus. <br/>
+</td>
+<td>Décisions mentionnées à l'article R. 253-38 du code rural et de la pêche maritime.<br/>
 </td>
 </tr>
 </tbody>
