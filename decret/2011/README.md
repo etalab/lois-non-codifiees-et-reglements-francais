@@ -963,6 +963,7 @@
 - [Décret n°2010-1695 du 30 décembre 2010 (MAEA1026456D)](decret-n2010-1695-du-30-decembre-2010-maea1026456d)
 - [Décret n°2010-1734 du 30 décembre 2010 (ETSS1033341D)](decret-n2010-1734-du-30-decembre-2010-etss1033341d)
 - [Décret n°2010-1737 du 30 décembre 2010 (ETSS1033015D)](decret-n2010-1737-du-30-decembre-2010-etss1033015d)
+- [Décret n°2010-1749 du 30 décembre 2010 (BCRF1033417D)](decret-n2010-1749-du-30-decembre-2010-bcrf1033417d)
 - [Décret n°2011-1034 du 30 août 2011 (ETSS1123735D)](decret-n2011-1034-du-30-aout-2011-etss1123735d)
 - [Décret n°2011-1035 du 30 août 2011 (AGRS1115905D)](decret-n2011-1035-du-30-aout-2011-agrs1115905d)
 - [Décret n°2011-1039 du 30 août 2011 (COTB1112781D)](decret-n2011-1039-du-30-aout-2011-cotb1112781d)

@@ -20,31 +20,31 @@ Dans les conditions fixées par un arrêté du conseil général et sous réserv
 
 Article 3
 
-Une cotisation est retenue sur le traitement nominal, les allocations spéciales, la prime de bilan, son complément uniforme et la prime de productivité versés aux agents ; ces sommes représentent la rémunération cotisable des agents.
+Une cotisation est retenue sur le traitement nominal, les allocations spéciales, la prime de bilan, son complément uniforme et la prime de productivité versés aux agents. Ces sommes représentent la rémunération cotisable des agents.
 
-Le taux de la cotisation mentionnée au précédent alinéa est fixé :
+Le taux de la cotisation mentionnée au précédent alinéa est fixé à :
 
-- à 7,85 % jusqu'au 31 décembre 2012 ;
+a) 7,85 % jusqu'au 31 décembre 2012 ;
 
-- à 8,12 % en 2013 ;
+b) 8,12 % pour l'année 2013 ;
 
-- à 8,39 % en 2014 ;
+c) 8,39 % pour l'année 2014 ;
 
-- à 8,66 % en 2015 ;
+d) 8,66 % pour l'année 2015 ;
 
-- à 8,93 % en 2016 ;
+e) 9,03 % pour l'année 2016 ;
 
-- à 9,20 % en 2017 ;
+f) 9,35 % pour l'année 2017 ;
 
-- à 9,47 % en 2018 ;
+g) 9,67 % pour l'année 2018 ;
 
-- à 9,74 % en 2019 ;
+h) 9,99 % pour l'année 2019 ;
 
-- à 10,01 % en 2020 ;
+i) 10,26 % pour l'année 2020 ;
 
-- à 10,28 % en 2021 ;
+j) 10,53 % pour l'année 2021 ;
 
-- à 10,55 % à compter du 1er janvier 2022.
+k) 10,80 % à compter de l'année 2022.
 
 Article 4
 
@@ -84,7 +84,7 @@ Pour les agents titularisés au plus tard le 1er janvier 2017, peuvent égalemen
 
 - les périodes de stage et le temps de service accompli dans le cadre auxiliaire permanent à la Banque de France, si ces périodes ont donné lieu au rappel prévu à l'article 19 ;
 
--les services effectués en qualité de contractuel accomplis à la Banque de France, si la validation de ces services a été autorisée par un règlement du gouverneur et si elle est demandée dans l'année qui suit la date de titularisation. Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
+- les services effectués en qualité de contractuel accomplis à la Banque de France, si la validation de ces services a été autorisée par un règlement du gouverneur et si elle est demandée dans l'année qui suit la date de titularisation. Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
 
 Article 9
 
@@ -290,7 +290,9 @@ Sont assimilés à l'enfant mentionné à l'alinéa précédent les enfants énu
 
 Article 27
 
-L'interruption d'activité prévue au deuxième alinéa du c de l'article 26 doit avoir eu une durée continue au moins égale à deux mois dans le cadre d'un congé pour maternité, de paternité, d'un congé d'adoption, d'un congé parental d'éducation, d'un congé de présence parentale ou d'une disponibilité pour élever un enfant de moins de huit ans. La réduction d'activité prévue au même c est constituée d'une période de service à temps partiel d'une durée continue :
+L'interruption d'activité prévue au deuxième alinéa du c de l'article 26 doit avoir eu une durée continue au moins égale à deux mois dans le cadre d'un congé pour maternité, de paternité, d'un congé d'adoption, d'un congé parental d'éducation, d'un congé de présence parentale ou d'une disponibilité pour élever un enfant de moins de huit ans.
+
+La réduction d'activité prévue au même c est constituée d'une période de service à temps partiel d'une durée continue :
 
 - d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer ;
 
@@ -448,7 +450,7 @@ III. - Le bénéfice de la majoration est accordé :
 
 - soit ultérieurement, au moment où l'enfant atteint l'âge de seize ans ou cesse, après cet âge, d'être à charge.
 
-IV. - Le taux de la majoration de la pension est fixé à 8,5 % de son montant pour les trois premiers enfants et à 4,25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
+IV. - Le taux de la majoration de la pension est fixé à 8, 5 % de son montant pour les trois premiers enfants et à 4, 25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
 
 TITRE IV
 
@@ -466,11 +468,11 @@ Si, dans le cadre de la mise en oeuvre de l'article 26, un agent souhaite faire 
 
 Article 38
 
-Supprimé
+Abrogé
 
 Article 39
 
-Supprimé
+Abrogé
 
 TITRE V
 
@@ -706,7 +708,7 @@ DISPOSITIONS TRANSITOIRES
 
 Article 67
 
-Supprimé.
+Abrogé.
 
 Article 68
 
@@ -791,43 +793,41 @@ I. - Jusqu'au 1er juillet 2011, par dérogation au premier alinéa de l'article 
 <table>
 <tbody>
 <tr>
-<td width="359">
-<p align="center">PÉRIODE AU COURS DE LAQUELLE<br/>l'agent est susceptible<br/>de liquider sa pension (art. 26)</p>
+<td width="349">
+<p align="center">PERIODE AU COURS DE LAQUELLE <br/>l'agent est susceptible <br/>de liquider sa pension (art. 26) </p>
 </td>
-<td width="359">
-<p align="center">NOMBRE DE TRIMESTRES<br/>nécessaires pour obtenir<br/>le pourcentage maximum<br/>de la pension (art. 31)</p>
+<td width="314">
+<p align="center">NOMBRE DE TRIMESTRES <br/>nécessaires pour obtenir <br/>le pourcentage maximum <br/>de la pension (art. 31) </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="359">
-<p>Jusqu'au 31 mars 2007.</p>
-<p>2e trimestre 2007.</p>
-<p>2e semestre 2007.</p>
-<p>1er semestre 2008.</p>
-<p>2e semestre 2008.</p>
-<p>1er semestre 2009.</p>
-<p>2e semestre 2009.</p>
-<p>1er semestre 2010.</p>
-<p>2e semestre 2010.</p>
-<p>1er semestre 2011. </p>
+<td valign="top" width="349">
+<p align="left">Jusqu'au 31 mars 2007 </p>
+<p align="left">2e trimestre 2007 </p>
+<p>2e semestre 2007 </p>
+<p align="left">1er semestre 2008 </p>
+<p>2e semestre 2008 </p>
+<p align="left">1er semestre 2009 </p>
+<p>2e semestre 2009 </p>
+<p align="left">1er semestre 2010 </p>
+<p>2e semestre 2010 </p>
+<p align="left">1er semestre 2011 </p>
 </td>
-<td valign="top" width="359">
-<p align="center">150</p>
-<p align="center">151</p>
-<p align="center">152</p>
-<p align="center">153</p>
-<p align="center">154</p>
-<p align="center">155</p>
-<p align="center">156</p>
-<p align="center">157</p>
-<p align="center">158</p>
-<p align="center">159</p>
+<td valign="top" width="314">
+<p align="center">150 </p>
+<p align="center">151 </p>
+<p align="center">152 </p>
+<p align="center">153 </p>
+<p align="center">154 </p>
+<p align="center">155 </p>
+<p align="center">156 </p>
+<p align="center">157 </p>
+<p align="center">158 </p>
+<p align="center">159 </p>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="left"/>
 
 II. - A compter du 1er janvier 2012, la durée d'assurance nécessaire pour bénéficier d'une pension de retraite à taux plein et la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum visé à l'article 31 sont majorées d'un trimestre par semestre dans la limite du nombre de trimestres exigés des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
@@ -846,7 +846,7 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 <p align="center">PÉRIODE<br/>de naissance </p>
 </td>
 <td>
-<p align="center">TAUX DU COEFFICIENT<br/>de minoration<br/>par trimestre </p>
+<p align="center">TAUX DU COEFFICIENT<br/>de minoration<br/>par trimestre</p>
 </td>
 <td colspan="5">
 <p align="center">ÂGE AUQUEL<br/>le coefficient<br/>s'annule </p>
@@ -1172,14 +1172,13 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 <p align="center">PÉRIODE DE NAISSANCE </p>
 </td>
 <td>
-<p align="center">ÂGE AUQUEL LE COEFFICIENT<br/>s'annule (agents des 4e<br/>et 5e degrés)</p>
+<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents des 4e et 5e degrés)</p>
 </td>
 <td>
-<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule <br/>(agents du 6e degré)</p>
+<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents du 6e degré) </p>
 </td>
 <td colspan="4">
-<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule </p>
-<p>(agents du 7e degré)</p>
+<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents du 7e degré)</p>
 </td>
 </tr>
 <tr>
@@ -1596,7 +1595,9 @@ II. - Jusqu'au 31 décembre 2016, les dispositions présentées dans le tableau 
 </tbody>
 </table>
 
-Article 72 I. - 1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné aux troisième et dixième alinéas de l'article 26 s'applique aux agents nés à compter du 1er juillet 1959 . Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+Article 72
+
+I. - 1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné aux troisième et dixième alinéas de l'article 26 s'applique aux agents nés à compter du 1er juillet 1959 . Pour les agents nés antérieurement à cette date, cet âge est abaissé :
 
 a) A soixante ans pour les agents nés avant le 1er janvier 1956 ;
 
@@ -1652,10 +1653,10 @@ III. - A titre transitoire, l'âge mentionné au premier alinéa de l'article 34
 <tbody>
 <tr>
 <td>
-<p align="center">ANNÉE AU COURS<br/>de laquelle est atteint<br/>l'âge d'ouverture du droit<br/>à une pension de retraite </p>
+<p align="center">ANNÉE AU COURS<br/>de laquelle est atteint<br/>l'âge d'ouverture du droit<br/>à une pension de retraite</p>
 </td>
 <td colspan="6">
-<p align="center">NOMBRE DE TRIMESTRES<br/>minorant l'âge mentionné<br/>au premier alinéa<br/>de l'article 34 </p>
+<p align="center">NOMBRE DE TRIMESTRES<br/>minorant l'âge mentionné<br/>au premier alinéa<br/>de l'article 34</p>
 </td>
 </tr>
 <tr>

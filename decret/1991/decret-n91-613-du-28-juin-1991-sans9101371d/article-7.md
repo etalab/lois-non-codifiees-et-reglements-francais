@@ -1,27 +1,37 @@
 # Article 7
 
-I.-Le taux de la retenue mentionnée au premier alinéa de l'article 3 du décret du 11 octobre 1968 susvisé est fixé :
+I. ― Le taux de la retenue mentionnée au premier alinéa de l'article 3 du décret du 11 octobre 1968 susvisé est fixé à :
 
--à 7,85 % jusqu'au 31 décembre 2016 ;
+a) 7,85 % jusqu'au 31 décembre 2016 ;
 
--à 8,12 % en 2017 ;
+b) 8,22 % pour l'année 2017 ;
 
--à 8,39 % en 2018 ;
+c) 8,54 % pour l'année 2018 ;
 
--à 8,66 % en 2019 ;
+d) 8,86 % pour l'année 2019 ;
 
--à 8,93 % en 2020 ;
+e) 9,18 % pour l'année 2020 ;
 
--à 9,20 % en 2021 ;
+f) 9,45 % pour l'année 2021 ;
 
--à 9,47 % en 2022 ;
+g) 9,72 % pour l'année 2022 ;
 
--à 9,74 % en 2023 ;
+h) 9,99 % pour l'année 2023 ;
 
--à 10,01 % en 2024 ;
+i) 10,26 % pour l'année 2024 ;
 
--à 10,28 % en 2025 ;
+j) 10,53 % pour l'année 2025 ;
 
--à 10,55 % à compter du 1er janvier 2026.
+k) 10,80 % à compter de l'année 2026.
 
-II.-Le taux de la contribution mentionnée au 2° de l'article 4 du décret du 11 octobre 1968 susvisé est fixé à 8,80 %.
+II. ― Le taux de la contribution mentionnée au 2° de l'article 4 du décret du 11 octobre 1968 susvisé est fixé à :
+
+a) 8,80 % jusqu'au 31 décembre 2016 ;
+
+b) 8,90 % pour l'année 2017 ;
+
+c) 8,95 % pour l'année 2018 ;
+
+d) 9,00 % pour l'année 2019 ;
+
+e) 9,05 % à compter de l'année 2020.

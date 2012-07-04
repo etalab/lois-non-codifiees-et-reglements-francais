@@ -1,0 +1,3 @@
+# Article 1 bis
+
+Le taux de la cotisation des assurances sociales due au titre de l'emploi des salariés bénéficiaires d'un régime spécial de sécurité sociale mentionné à l'article L. 711 du code de la sécurité sociale et placés sous le régime général pour la couverture des risques vieillesse ou veuvage est fixé, pour le risque vieillesse, au taux prévu à l'article D. 242-4 du code de la sécurité sociale, déduction faite du taux à la charge du salarié sur la totalité des rémunérations prévu à cet article, et, pour le risque veuvage, audit taux à la charge du salarié sur la totalité des rémunérations.

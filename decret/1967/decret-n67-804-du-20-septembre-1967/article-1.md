@@ -1,10 +1,9 @@
 # Article 1
 
-Le taux et le mode de calcul de la cotisation des assurances sociales due au titre de l'emploi des salariés bénéficiaires d'un régime spécial de sécurité sociale visé à l'article R. 711-1 ou à l'article R. 711-24 du code de la sécurité sociale  et placés sous le régime général pour la couverture de certains risques sont fixés conformément aux indications du tableau ci-dessous.
+Le taux de la cotisation des  assurances sociales due au titre de l'emploi des salariés bénéficiaires  d'un régime spécial de sécurité sociale mentionnés à l'article L. 711-1 du code de la sécurité sociale    et placés sous le régime général pour la couverture de tout ou partie des risques maladie, maternité, invalidité et décès est fixé conformément aux indications du tableau ci-dessous.
 
 Assurés partiels
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -99,32 +98,13 @@ Assurés partiels
 </tr>
 <tr>
 <td align="center">
-<p> 4. Pour les assurances vieillesse, veuvage et </p>
-<p>invalidité (pensions)</p>
+<br/> 4. Pour l'assurance invalidité (pensions)<br/>
 </td>
 <td align="center"/>
 <td align="center"/>
 <td align="center"/>
 <td align="center"/>
 <td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"> - vieillesse</td>
-<td align="center"> 1,60</td>
-<td align="center"> Néant</td>
-<td align="center"> 1,60</td>
-<td align="center"> 8,20</td>
-<td align="center"> 6,55</td>
-<td align="center"> 14,75</td>
-</tr>
-<tr>
-<td align="center"> - veuvage</td>
-<td align="center"> Néant</td>
-<td align="center"> 0,10</td>
-<td align="center"> 0,10</td>
-<td align="center"> Néant</td>
-<td align="center"> Néant</td>
 <td align="center"/>
 </tr>
 <tr>
@@ -138,4 +118,3 @@ Assurés partiels
 </tr>
 </tbody>
 </table>
-</div>

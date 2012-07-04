@@ -38,4 +38,5 @@
 - [Décret n°94-943 du 28 octobre 1994 (EQUP9401380D)](decret-n94-943-du-28-octobre-1994-equp9401380d)
 - [Décret n°2002-634 du 29 avril 2002 (PRMG0270289D)](decret-n2002-634-du-29-avril-2002-prmg0270289d)
 - [Décret n°2006-386 du 30 mars 2006 (JUSK0640055D)](decret-n2006-386-du-30-mars-2006-jusk0640055d)
+- [Décret n°2006-110 du 31 janvier 2006 (SANS0620360D)](decret-n2006-110-du-31-janvier-2006-sans0620360d)
 - [Décret n°2006-634 du 31 mai 2006 (AGRP0600979D)](decret-n2006-634-du-31-mai-2006-agrp0600979d)
