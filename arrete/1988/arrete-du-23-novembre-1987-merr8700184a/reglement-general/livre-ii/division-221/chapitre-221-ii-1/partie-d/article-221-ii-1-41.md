@@ -42,4 +42,4 @@ Mention de ces essais est portée au livre de bord.
 
 .2 ne doivent pas appliquer les dispositions du paragraphe 4.
 
-6. A bord des navires à passagers, toutes les cabines doivent être dotées d'un éclairage complémentaire qui indique clairement la sortie afin que les occupants puissent trouver leur chemin jusqu'à la porte. Cet éclairage, qui peut être relié à une source d'énergie de secours ou avoir une source d'énergie électrique autonome dans chaque cabine, doit se mettre en marche automatiquement en cas de panne de l'alimentation électrique normale de la cabine et doit rester en marche pendant au moins 30 min.
+6. A bord des navires à passagers construits le 1er juillet 2010 ou après cette date, toutes les cabines doivent être dotées d'un éclairage complémentaire qui indique clairement la sortie afin que les occupants puissent trouver leur chemin jusqu'à la porte. Cet éclairage, qui peut être relié à une source d'énergie de secours ou avoir une source d'énergie électrique autonome dans chaque cabine, doit se mettre en marche automatiquement en cas de panne de l'alimentation électrique normale de la cabine et doit rester en marche pendant au moins 30 minutes.

@@ -4,15 +4,15 @@ Application
 
 1 Application
 
-1.1 Sauf disposition expresse contraire, le présent chapitre s'applique aux navires construits le 1er juillet 2002 ou après cette date.
+1.1. Sauf disposition expresse contraire, le présent chapitre s'applique aux navires construits le 1er juillet 2012 ou après cette date.
 
-1.2 Aux fins du présent chapitre :
+1.2. Aux fins du présent chapitre :
 
-.1 l'expression navires construits désigne les navires dont la quille est posée ou dont la construction se trouve à un stade équivalent ;
+.1 L'expression "navires construits" désigne les navires dont la quille est posée ou dont la construction se trouve à un stade équivalent ;
 
-.2 l'expression tous les navires désigne les navires, de quelque type que ce soit, construits avant le 1er juillet 2002, le 1er juillet 2002 ou après cette date ; et
+.2 L'expression "tous les navires" désigne les navires, de quelque type que ce soit, construits avant le 1er juillet 2012, le 1er juillet 2012 ou après cette date ; et
 
-.3 un navire de charge, quelle que soit sa date de construction, qui est transformé en navire à passagers est considéré comme un navire à passagers construit à la date à laquelle cette transformation commence.
+.3 Un navire de charge, quelle que soit sa date de construction, qui est transformé en navire à passagers est considéré comme un navire à passagers construit à la date à laquelle cette transformation commence.
 
 1.3 Aux fins du présent chapitre, l'expression dont la construction se trouve à un stade équivalent se réfère au stade auquel :
 
@@ -22,7 +22,7 @@ Application
 
 2 Prescriptions applicables aux navires existants :
 
-2.1. Sauf disposition expresse contraire, pour les navires construits avant le 1er juillet 2002, l'administration doit veiller à l'observation des prescriptions applicables en vertu des dispositions du chapitre II-2 de la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée par les résolutions MSC.1(XLV), MSC.6(48), MSC.13(57), MSC.22(59), MSC.24(60), MSC.27(61), MSC.31(63) et MSC.57(67).
+2.1 Sauf disposition expresse contraire, dans le cas des navires construits avant le 1er juillet 2012, l'administration doit s'assurer qu'ils respectent les prescriptions qui leur sont applicables en vertu des dispositions du chapitre II-2 de la convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée par les résolutions MSC. 1 (XLV), MSC. 6 (48), MSC. 13 (57), MSC. 22 (59), MSC. 24 (60), MSC. 27 (61), MSC. 31 (63), MSC. 57 (67), MSC. 99 (73), MSC. 134 (76), MSC. 194 (80), MSC. 201 (81), MSC. 216 (82), MSC. 256 (84), MSC. 269 (85) et MSC. 291 (87).
 
 2.2. Les navires construits avant le 1er juillet 2002 doivent aussi satisfaire aux dispositions :
 
@@ -40,9 +40,9 @@ Application
 
 3 Réparations, transformations, modifications et aménagements
 
-3.1 Tous les navires sur lesquels sont effectuées des réparations, des modifications ou des transformations, ainsi que les aménagements qui en résultent, doivent continuer à satisfaire au moins aux prescriptions qui leur étaient déjà applicables. S'ils ont été construits avant le 1er juillet 2002, ces navires doivent, en règle générale, satisfaire aux prescriptions applicables aux navires construits le 1er juillet 2002 ou après cette date au moins dans la même mesure qu'avant d'avoir subi ces réparations, modifications, transformations ou aménagements.
+3.1 Tous les navires sur lesquels sont effectuées des réparations, des modifications ou des transformations, ainsi que les aménagements qui en résultent, doivent continuer à satisfaire au moins aux prescriptions qui leur étaient déjà applicables. S'ils ont été construits avant le 1er juillet 2012, ces navires doivent, en règle générale, satisfaire aux prescriptions applicables aux navires construits le 1er juillet 2002 ou après cette date au moins dans la même mesure qu'avant d'avoir subi ces réparations, modifications, transformations ou aménagements.
 
-3.2 Les réparations, modifications et transformations qui modifient sensiblement les dimensions d'un navire ou les locaux d'habitation des passagers ou qui augmentent sensiblement la durée de vie en service d'un navire, ainsi que les aménagements qui en résultent, doivent satisfaire aux prescriptions applicables aux navires construits le 1er juillet 2002 ou après cette date, dans la mesure où l'Administration le juge possible et raisonnable.
+3.2 Les réparations, modifications et transformations qui modifient sensiblement les dimensions d'un navire ou les locaux d'habitation des passagers ou qui augmentent sensiblement la durée de vie en service d'un navire, ainsi que les aménagements qui en résultent, doivent satisfaire aux prescriptions applicables aux navires construits le 1er juillet 2012 ou après cette date, dans la mesure où l'Administration le juge possible et raisonnable.
 
 4 Exemptions
 
@@ -55,8 +55,6 @@ Application
 .2 du Règlement annexé au Protocole de 1973 sur les emménagements à bord des navires à passagers qui effectuent des transports spéciaux.
 
 L'autorité compétente peut dispenser les navires sans moyen de propulsion mécanique de l'application de certaines prescriptions et, s'il y a lieu, exiger à la place l'application d'autres dispositions.
-
-Lorsqu'il est prévu un dispositif d'extinction de l'incendie non prescrit par le présent chapitre, ce dispositif doit être jugé satisfaisant par l'autorité compétente.
 
 5 Prescriptions applicables en fonction du type de navire
 

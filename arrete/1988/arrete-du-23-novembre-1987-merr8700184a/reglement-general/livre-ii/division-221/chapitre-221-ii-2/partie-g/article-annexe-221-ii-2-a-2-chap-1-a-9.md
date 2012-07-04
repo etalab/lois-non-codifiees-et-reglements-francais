@@ -429,7 +429,9 @@ Les dispositions nécessaires doivent être prises pour que le fonctionnement de
 
 CHAPITRE 7
 
-DISPOSITIFS FIXES D'EXTINCTION DE L'INCENDIE PAR PROJECTION D'EAU DIFFUSÉE SOUS PRESSION ET PAR DIFFUSION D'EAU EN BROUILLARD
+DISPOSITIFS FIXES D'EXTINCTION DE L'INCENDIE PAR PROJECTION
+
+D'EAU DIFFUSÉE SOUS PRESSION ET PAR DIFFUSION D'EAU EN BROUILLARD
 
 1 Application
 
@@ -451,7 +453,9 @@ Les dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée 
 
 CHAPITRE 8
 
-DISPOSITIFS AUTOMATIQUES D'EXTINCTION PAR EAU DIFFUSÉE, DE DÉTECTION ET D'ALARME D'INCENDIE
+DISPOSITIFS AUTOMATIQUES D'EXTINCTION PAR EAU DIFFUSÉE,
+
+DE DÉTECTION ET D'ALARME D'INCENDIE
 
 1 Application
 
@@ -590,145 +594,233 @@ CHAPITRE 9
 
 DISPOSITIFS FIXES DE DÉTECTION ET D'ALARME D'INCENDIE
 
-1 Application
+1. Application
 
-Le présent chapitre contient les spécifications applicables aux dispositifs fixes de détection et d'alarme d'incendie qui sont prescrits aux termes du chapitre II-2 de la division 221.
+Le présent chapitre contient les spécifications applicables aux dispositifs fixes de détection de l'incendie et d'alarme d'incendie qui sont prescrits aux termes du chapitre II-2 de la division 221. Sauf disposition expresse contraire, les prescriptions du présent chapitre s'appliquent aux navires construits le 1er juillet 2012 ou après cette date.
 
-2 Spécifications techniques
+1.2. Définitions
 
-2.1 Prescriptions générales
+1.2.1. Section : groupe de détecteurs d'incendie et d'avertisseurs d'incendie à commande manuelle identifié sur le ou les tableaux des indicateurs.
 
-2.1.1 Lorsqu'un dispositif fixe de détection et d'alarme d'incendie avec avertisseurs d'incendie à commande manuelle est prescrit, il doit être à tout moment en état de fonctionner immédiatement.
+1.2.2. Localisation de section : système capable d'identifier la section dans laquelle un détecteur ou un avertisseur d'incendie à commande manuelle s'est déclenché.
 
-2.1.2 Le dispositif fixe de détection et d'alarme d'incendie ne doit être utilisé à aucune autre fin. Toutefois, on peut autoriser la fermeture des portes d'incendie et des fonctions analogues au tableau de commande.
+1.2.3. Individuellement identifiable : système qui est capable d'identifier l'emplacement exact et le type de détecteur ou d'avertisseur d'incendie à commande manuelle qui s'est déclenché et qui peut différencier le signal de ce dispositif de tous les autres.
 
-2.1.3 Le dispositif et son équipement doivent être conçus de manière appropriée, de façon à résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire.
+2. Spécifications techniques
 
-2.1.4 Fonction de localisation d'adresse de zone
+2.1. Prescriptions générales
 
-Les dispositifs fixes de détection et d'alarme d'incendie à localisation d'adresse de zone doivent être disposés de telle sorte que :
+2.1.1. Lorsqu'un dispositif fixe de détection et d'alarme d'incendie avec avertisseurs d'incendie à commande manuelle est prescrit, il doit être à tout moment en état de fonctionner immédiatement (il n'est pas nécessaire de prévoir un tableau de commande de réserve). Nonobstant cette prescription, des locaux particuliers peuvent être déconnectés, par exemple, les ateliers pendant le travail à chaud et les espaces rouliers pendant chargement et déchargement. Le moyen utilisé pour déconnecter les détecteurs doit être conçu de façon à ce que le dispositif soit remis automatiquement en position normale de surveillance après un délai fixé à l'avance qui soit approprié pour l'opération en question. Lorsque les détecteurs prescrits sont déconnectés, le local doit être gardé ou un service de ronde y être assuré. Les détecteurs de tous les autres locaux doivent rester opérationnels.
 
-.1 des moyens soient installés afin que tout défaut (par exemple, coupure, court-circuit, masse, etc.) survenant sur la boucle ne neutralise pas la boucle entière ;
+Le local où sont habituellement effectués les travaux de soudure doit pouvoir disposer d'une déconnection de la détection pour une durée ne pouvant dépasser trente minutes.
 
-.2 toutes dispositions soient prises pour permettre de rétablir la configuration initiale du système en cas de défaillance (par exemple électrique, électronique, informatique, etc.) ;
+2.1.2. Le dispositif de détection de l'incendie doit être conçu de façon à :
 
-.3 l'alarme d'incendie déclenchée en premier n'empêche pas tout autre détecteur de déclencher d'autres alarmes d'incendie ; et
+.1 Contrôler et surveiller les signaux d'entrée provenant de tous les détecteurs d'incendie et de fumée connectés et des avertisseurs d'incendie à commande manuelle ;
 
-.4 aucune boucle ne traverse deux fois le même local. Lorsque pareille disposition est irréalisable pour des raisons pratiques (par exemple, pour les grands locaux de réunion), la partie de la boucle qui doit traverser un local pour la deuxième fois doit être installée le plus loin possible des autres parties.
+.2 Envoyer des signaux de sortie à la passerelle de navigation, au poste de sécurité central gardé en permanence ou au centre de sécurité à bord afin d'informer l'équipage qu'un incendie ou une défaillance s'est produit ;
 
-2.1.5. A bord des navires à passagers, le dispositif fixe de détection et d'alarme d'incendie doit permettre d'identifier individuellement à distance chaque détecteur et avertisseur d'incendie à commande manuelle.
+.3 Surveiller les sources d'énergie et les circuits nécessaires au fonctionnement du dispositif afin de détecter les pertes d'énergie et les défaillances ; et
 
-2.2 Sources d'alimentation en énergie
+.4 Avoir une interface avec les autres systèmes de protection contre l'incendie, notamment :
 
-Le nombre de sources d'énergie qui alimentent les appareils électriques utilisés pour le fonctionnement du dispositif fixe de détection et d'alarme d'incendie ne doit pas être inférieur à deux. L'une d'entre elles doit être une source d'énergie de secours. Le courant doit être amené par des câbles électriques distincts, exclusivement réservés à cet usage et raccordés à un commutateur automatique situé sur le tableau de contrôle du dispositif de détection de l'incendie ou à proximité de ce tableau.
+.1 Les systèmes d'appel de personnes, les dispositifs d'alarme d'incendie ou de communication avec le public ;
 
-2.3 Spécifications des éléments
+.2 L'arrêt des ventilateurs ;
 
-2.3.1 Détecteurs
+.3 Les portes d'incendie ;
 
-2.3.1.1 Les détecteurs doivent entrer en action sous l'effet de la chaleur, de la fumée ou d'autres produits de combustion, des flammes ou de toute combinaison de ces facteurs. Les détecteurs qui réagissent à d'autres facteurs indiquant un début d'incendie peuvent être pris en considération par l'Administration à condition que leur sensibilité ne soit pas inférieure à celle des détecteurs de chaleur, de fumée ou de flamme. Les détecteurs de flamme ne doivent être utilisés qu'en plus des détecteurs de fumée ou de chaleur.
+.4 Les volets d'incendie ;
 
-2.3.1.2 Il doit être certifié que les détecteurs de fumée prescrits dans tous les escaliers, coursives et échappées des locaux d'habitation entrent en action avant que la densité de la fumée dépasse 12,5 % d'obscurcissement par mètre mais après qu'elle a dépassé 2 %. Les détecteurs de fumée installés dans d'autres locaux doivent fonctionner dans des limites de sensibilité jugées satisfaisantes par l'Administration, compte tenu du fait qu'il faut éviter une trop grande ou une trop faible réaction des détecteurs.
+.5 Les dispositifs d'extinction par eau diffusée ;
 
-2.3.1.3 Il doit être certifié que les détecteurs de chaleur entrent en action avant que la température dépasse 78°C mais après qu'elle a dépassé 54°C, lorsque l'élévation de la température est inférieure à 1°C par minute. A des taux plus élevés d'élévation de la température, le détecteur de chaleur doit entrer en action dans des limites de température déterminées à la satisfaction de l'Administration, compte tenu du fait qu'il faut éviter une trop grande ou une trop faible réaction des détecteurs.
+.6 Les dispositifs d'extraction de la fumée ;
 
-2.3.1.4 La température à laquelle les détecteurs de chaleur entrent en action dans les séchoirs et les locaux de même nature où la température ambiante est normalement élevée peut être aussi élevée que 130°C et aller jusqu'à 140°C dans le cas des saunas.
+.7 Les circuits d'éclairage à faible hauteur ;
 
-2.3.1.5 Tous les détecteurs doivent être d'un type tel qu'on puisse vérifier leur bon fonctionnement et les remettre en position normale de surveillance sans devoir en remplacer un élément.
+.8 Les dispositifs fixes d'extinction de l'incendie à usage local ;
 
-2.4 Prescriptions concernant l'installation
+.9 Les systèmes de télévision en circuit fermé ; et
 
-2.4.1 Sections
+.10 D'autres systèmes de protection contre l'incendie.
 
-2.4.1.1 Les détecteurs et les avertisseurs à commande manuelle doivent être divisés en sections.
+2.1.3. Le dispositif de détection de l'incendie peut être relié à un système de gestion des décisions, à condition :
 
-2.4.1.2 Une section de détecteurs d'incendie qui dessert un poste de sécurité, un local de service ou un local d'habitation ne doit pas desservir un local de machines de la catégorie A. En ce qui concerne les dispositifs fixes de détection et d'alarme d'incendie qui comportent des détecteurs individuellement identifiables à distance, une boucle couvrant des sections de détecteurs d'incendie qui desservent les locaux d'habitation, les locaux de service et le poste de sécurité ne doit pas inclure les sections de détecteurs d'incendie desservant les locaux de machines de la catégorie A.
+.1 Qu'il soit établi que le système de gestion des décisions est compatible avec le dispositif de détection de l'incendie ;
 
-2.4.1.3 Lorsque le dispositif fixe de détection et d'alarme d'incendie ne comporte pas de moyens permettant d'identifier individuellement à distance chaque détecteur, aucune section desservant plus d'un pont ne doit être normalement autorisée dans les limites des locaux d'habitation et de service et des postes de sécurité, sauf lorsque la section dessert un escalier entouré. Pour que la source d'incendie soit identifiée sans retard, les espaces fermés desservis par chaque section doivent être limités à un nombre fixé par l'Administration. On ne doit en aucun cas autoriser qu'une section quelconque desserve plus de 50 espaces fermés. Si le dispositif est muni de détecteurs d'incendie individuellement identifiables à distance, les sections peuvent couvrir plusieurs ponts et desservir un nombre quelconque d'espaces fermés.
+.2 Que le système de gestion des décisions puisse être déconnecté sans qu'il en résulte la perte de l'une des fonctions du dispositif de détection de l'incendie prescrites dans le présent chapitre ; et
 
-2.4.1.4 Une même section de détecteurs et d'avertisseurs d'incendie à commande manuelle ne doit pas s'étendre sur plus d'une tranche verticale principale.
+.3 Qu'une défaillance du matériel couplé et relié ne se propage en aucun cas au dispositif de détection de l'incendie.
 
-2.4.2 Disposition des détecteurs
+2.1.4. Les détecteurs et avertisseurs à commande manuelle doivent être reliés à des sections spécifiques du dispositif de détection de l'incendie. D'autres fonctions de protection contre l'incendie, telles que signaux d'alarme des vannes des diffuseurs, peuvent être assurées si elles concernent d'autres sections.
 
-2.4.2.1 L'emplacement des détecteurs doit être choisi en vue d'une efficacité optimale. Il faut éviter la proximité des barrots et des conduits de ventilation ou d'autres emplacements où le trajet de l'écoulement d'air pourrait compromettre leur fonctionnement ainsi que les emplacements où ils risquent de subir des chocs ou d'être endommagés. Les détecteurs installés au plafond doivent se trouver à 0,5 m au moins de toute cloison, sauf dans les coursives, les armoires de service et les escaliers.
+2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (1).
 
-2.4.2.2 L'intervalle maximal qui sépare les détecteurs doit être conforme au tableau ci-dessous :
+2.1.6. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie à détecteurs d'incendie individuellement identifiables doivent être disposés de telle sorte que :
 
-Tableau 9.1 - Espacement des détecteurs
+.1 Des moyens soient installés afin que tout défaut (par exemple, coupure, court-circuit, masse, etc.) survenant dans la section n'empêche pas l'identification individuelle continue des autres détecteurs de la section connectés ;
+
+.2 Toutes dispositions soient prises pour permettre de rétablir la configuration initiale du système en cas de défaillance (par exemple électrique, électronique, informatique, etc.) ;
+
+.3 L'alarme d'incendie déclenchée en premier n'empêche pas tout autre détecteur de déclencher d'autres alarmes d'incendie ; et
+
+.4 Aucune section ne traverse deux fois le même local. Si cela n'est pas possible dans la pratique (par exemple, pour les grands locaux de réunion), la partie de la section qui doit traverser un local pour la deuxième fois doit être installée le plus loin possible des autres parties de la boucle.
+
+2.1.7. A bord des navires à passagers, le dispositif fixe de détection et d'alarme d'incendie doit permettre d'identifier individuellement à distance chaque détecteur et avertisseur d'incendie à commande manuelle. Lorsqu'ils sont déclenchés, les détecteurs d'incendie installés dans les cabines des navires à passagers doivent également pouvoir émettre, ou faire émettre, une alarme sonore dans le local où ils sont situés. A bord des navires de charge et sur les balcons de cabine des navires à passagers, le dispositif fixe de détection et d'alarme d'incendie doit être doté, au minimum, d'une fonction d'identification de section.
+
+2.2. Sources d'alimentation en énergie
+
+2.2.1. Le nombre de sources d'énergie qui alimentent les appareils électriques utilisés pour le fonctionnement du dispositif de détection de l'incendie et d'alarme d'incendie ne doit pas être inférieur à deux et l'une d'elles doit être une source d'énergie de secours. Le courant doit être amené par des câbles électriques distincts, exclusivement réservés à cet usage. Ces câbles doivent être raccordés à un commutateur automatique situé sur le tableau de commande du dispositif de détection de l'incendie ou à proximité de ce tableau. Le câble électrique principal (ou le câble électrique de secours) doit être amené du tableau principal (ou du tableau de secours) au commutateur sans passer par aucun autre panneau de distribution.
+
+2.2.2. L'énergie fournie doit être suffisante pour permettre au dispositif de continuer à fonctionner avec tous les détecteurs activés, mais au maximum 100, si le nombre total de détecteurs est supérieur.
+
+2.2.3. La source d'énergie de secours mentionnée au paragraphe 2.2.1 ci-dessus doit être suffisante pour permettre au dispositif de détection de l'incendie et d'alarme d'incendie de continuer à fonctionner pendant les périodes prescrites aux règles 221-II-1/42 et 221-II-1/43 de la présente division, à l'issue desquelles la batterie doit pouvoir alimenter tous les signaux d'alarme d'incendie visuels et sonores connectés pendant au moins trente minutes.
+
+2.3. Spécifications des éléments
+
+2.3.1. Détecteurs
+
+2.3.1.1. Les détecteurs doivent entrer en action sous l'effet de la chaleur, de la fumée ou d'autres produits de combustion, des flammes ou de toute combinaison de ces facteurs. Les détecteurs qui réagissent à d'autres facteurs indiquant un début d'incendie peuvent être pris en considération par l'administration à condition que leur sensibilité ne soit pas inférieure à celle des détecteurs de chaleur, de fumée ou de flamme.
+
+2.3.1.2. Il doit être certifié que les détecteurs de fumée prescrits dans tous les escaliers, toutes les coursives et échappées des locaux d'habitation entrent en action avant que la densité de la fumée dépasse 12,5 % d'obscurcissement par mètre mais après qu'elle a dépassé 2 % lorsqu'ils sont mis à l'essai conformément à la norme EN 54 (2001) et à la norme CEI 60092-505 (2001).
+
+2.3.1.3. Il doit être certifié que les détecteurs de chaleur entrent en action avant que la température dépasse 78 °C mais après qu'elle a dépassé 54 °C quand la température s'élève à raison de 1 °C par minute lorsqu'ils sont mis à l'essai conformément à la norme EN 54 (2001) et à la norme CEI 60092-505 (2001).
+
+2.3.1.4. La température à laquelle des détecteurs de chaleur entrent en action dans les séchoirs et les locaux de même nature, où la température ambiante est normalement élevée, peut être aussi élevée que 130 °C et aller jusqu'à 140 °C dans le cas des saunas.
+
+2.3.1.5. Les détecteurs de flamme doivent être mis à l'essai conformément à la norme EN 54-10 (2001) et à la norme CEI 60092-505 (2001). D'autres normes de mise à l'essai, déterminées par l'administration, peuvent être utilisées.
+
+2.3.1.6. Tous les détecteurs doivent être d'un type tel que l'on puisse vérifier leur bon fonctionnement et les remettre en position normale de surveillance sans devoir en remplacer un élément.
+
+2.3.1.7. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie destinés aux balcons de cabine doivent être approuvés par l'administration compte tenu des directives élaborées par l'organisation (2).
+
+2.3.1.8. Les détecteurs installés dans les zones dangereuses doivent être mis à l'essai et approuvés à cette fin. Il n'est pas nécessaire que les détecteurs prescrits à la règle 221-II-2/20.4 et installés dans des espaces satisfaisant à la règle 221-II-2/20.3.2.2 de la présente division soient appropriés pour les zones dangereuses. Les détecteurs installés dans les espaces où sont transportées des marchandises dangereuses qui, d'après le tableau 19.3 de la règle 221-II-2/19, doivent satisfaire à la règle 221-II-2/19.3.2 de la présente division doivent être appropriés pour les zones dangereuses.
+
+2.3.2. Tableau de contrôle
+
+Le tableau de contrôle du dispositif de détection de l'incendie doit être mis à l'essai conformément aux normes EN 54-2 (1997) et EN 54-4 (1997) et à la norme CEI 60092-504 (2001).
+
+2.3.3. Câbles
+
+Les câbles utilisés dans les circuits électriques doivent être retardateurs de flamme conformément à la norme CEI 60332-1. A bord des navires à passagers, les câbles qui traversent des tranches verticales principales autres que celles qu'ils desservent et les câbles d'alimentation des tableaux de commande situés dans un poste de commande du matériel d'incendie qui n'est pas gardé doivent résister au feu conformément à la norme CEI 60331, à moins qu'ils ne soient installés en double et bien séparés.
+
+2.4. Prescriptions concernant l'installation
+
+2.4.1. Sections
+
+2.4.1.1. Les détecteurs et les avertisseurs d'incendie à commande manuelle doivent être divisés en sections.
+
+2.4.1.2. Une section de détecteurs d'incendie qui dessert un poste de sécurité, un local de service ou un local d'habitation ne doit pas desservir un local de machines de la catégorie A ni un espace roulier. Une section de détecteurs d'incendie qui dessert un espace roulier ne doit pas desservir un local de machines de la catégorie A. En ce qui concerne les dispositifs fixes de détection d'incendie qui comportent des détecteurs individuellement identifiables à distance, une section couvrant des détecteurs d'incendie qui desservent les locaux d'habitation, les locaux de service et les postes de sécurité ne doit inclure aucun détecteur d'incendie desservant les locaux de machines de la catégorie A ou les espaces rouliers.
+
+2.4.1.3. Lorsque le dispositif fixe de détection de l'incendie et d'alarme d'incendie ne comporte pas de moyens permettant d'identifier individuellement à distance chaque détecteur, aucune section ne doit normalement desservir plus d'un pont dans les limites des locaux d'habitation et de service et des postes de sécurité, à l'exception de la section qui protège une cage d'escalier fermée. Pour que la source d'incendie soit identifiée sans tarder, les locaux fermés desservis par chaque section doivent être limités à 50. Si le dispositif de détection est muni de détecteurs d'incendie individuellement identifiables à distance, les sections peuvent couvrir plusieurs ponts et desservir un nombre quelconque de locaux fermés.
+
+2.4.1.4. A bord des navires à passagers, une même section de détecteurs et d'avertisseurs d'incendie à commande manuelle ne doit pas s'étendre sur plus d'une tranche verticale principale, abstraction faite des balcons de cabine.
+
+2.4.2. Disposition des détecteurs
+
+2.4.2.1. L'emplacement des détecteurs doit être choisi en vue d'une efficacité optimale. Il faut éviter de les placer à proximité des barrots et des conduits de ventilation ou à d'autres endroits où les courants d'air pourraient compromettre leur fonctionnement ainsi que les emplacements où ils risquent de subir des chocs ou d'être endommagés. Les détecteurs installés au plafond doivent se trouver à 0,5 m au moins de toute cloison, sauf dans les coursives, les armoires de service et les escaliers.
+
+2.4.2.2. La distance maximale qui sépare les détecteurs doit être conforme au tableau ci-dessous :
+
+Tableau 9.1. Espacement des détecteurs
 
 <table>
 <tbody>
 <tr>
-<td width="148">
-<p align="center">Type de détecteur</p>
+<td>
+<p align="center">TYPE DE DÉTECTEUR</p>
 </td>
-<td width="142">
-<p align="center">Surface au sol maximale protégée par un détecteur</p>
+<td>
+<p align="center">SURFACE AU SOL MAXIMALE<br/>protégée par un détecteur<br/>(m²)</p>
 </td>
-<td width="134">
-<p align="center">Distance maximale entre centres</p>
+<td>
+<p align="center">DISTANCE MAXIMALE<br/>entre centres<br/>(m)</p>
 </td>
-<td width="143">
-<p align="center">Distance maximale par rapport aux cloisons</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>Détecteur de chaleur</p>
-</td>
-<td valign="top" width="142">
-<p align="center">37 m2</p>
-</td>
-<td valign="top" width="134">
-<p align="center">9 m</p>
-</td>
-<td valign="top" width="143">
-<p align="center">4,5 m</p>
+<td>
+<p align="center">DISTANCE MAXIMALE<br/>par rapport aux cloisons<br/>(m)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p>Détecteur de fumée</p>
+<td align="center">
+<br/>Détecteur de chaleur<br/>
 </td>
-<td valign="top" width="142">
-<p align="center">74 m2</p>
+<td align="center">
+<br/>37<br/>
 </td>
-<td valign="top" width="134">
-<p align="center">11 m</p>
+<td align="center">
+<br/>9<br/>
 </td>
-<td valign="top" width="143">
-<p align="center">5,5 m</p>
+<td align="center">
+<br/>4,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Détecteur de fumée<br/>
+</td>
+<td align="center">
+<br/>74<br/>
+</td>
+<td align="center">
+<br/>11<br/>
+</td>
+<td align="center">
+<br/>5,5<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-L'Administration peut exiger ou accepter des intervalles différents de ceux qui sont spécifiés dans le tableau ci-dessus si les données qui résultent d'essais établissent les caractéristiques des détecteurs.
+L'administration peut exiger ou accepter des espacements différents de ceux qui sont spécifiés dans le tableau ci-dessus sur la base des données qui résultent d'essais établissent les caractéristiques des détecteurs. L'emplacement des détecteurs placés sous les ponts rouliers mobiles doit être conforme aux indications du tableau ci-dessus.
 
-2.4.3 Disposition du câblage électrique
+2.4.2.3. Les détecteurs situés dans les escaliers doivent être placés au moins au niveau supérieur de l'escalier et à un niveau sur deux au-dessous.
 
-2.4.3.1 Le câblage électrique faisant partie du dispositif doit être disposé de façon à ne pas traverser les cuisines, les locaux de machines de la catégorie A et les autres locaux fermés présentant un risque élevé d'incendie sauf lorsque cela est nécessaire pour assurer la détection de l'incendie ou l'alarme d'incendie dans ces locaux ou pour atteindre la source d'énergie appropriée.
+2.4.2.4. Lorsque des détecteurs d'incendie sont installés dans les congélateurs, les séchoirs, les saunas, les parties des cuisines utilisées pour chauffer la nourriture, les buanderies et les autres locaux dans lesquels de la vapeur et de la fumée se dégagent, des détecteurs de chaleur peuvent être utilisés.
 
-2.4.3.2 Une boucle des systèmes de détection de l'incendie à localisation d'adresse de zone ne doit pas être endommagée en plus d'un point par un incendie.
+2.4.2.5. Lorsqu'un dispositif fixe de détection et d'alarme d'incendie est prescrit par la règle 221-II-2/7.5 de la présente division, il n'est pas nécessaire d'installer de détecteurs dans les locaux présentant un risque d'incendie faible ou nul. Ces locaux comprennent les espaces vides où ne sont pas entreposés de combustibles, les salles de bains privées, les toilettes publiques, les locaux d'entreposage de l'agent d'extinction, les armoires pour les appareils de nettoyage (si des liquides inflammables n'y sont pas entreposés), les espaces de pont découverts et les promenades couvertes présentant un risque d'incendie faible ou nul et qui sont aérés naturellement par des ouvertures permanentes.
 
-2.5 Prescriptions concernant le contrôle des dispositifs
+2.4.3. Disposition des câbles
 
-2.5.1 Signaux d'incendie visuels et sonores (8)
+2.4.3.1. Les câbles faisant partie du dispositif doivent être disposés de façon à ne pas traverser les cuisines, les locaux de machines de la catégorie A et les autres locaux fermés présentant un risque élevé d'incendie, sauf lorsque cela est nécessaire pour assurer la détection de l'incendie ou l'alarme d'incendie dans ces locaux ou pour atteindre la source d'énergie appropriée.
 
-2.5.1.1 L'entrée en action d'un détecteur ou d'un avertisseur à commande manuelle doit déclencher un signal d'incendie visuel et sonore au tableau de commande et aux tableaux des indicateurs. Si, au bout de deux minutes, ce signal n'a pas reçu attention, une alarme sonore doit se déclencher automatiquement dans tous les locaux d'habitation de l'équipage, les locaux de service, les postes de sécurité et les locaux de machines de la catégorie A. Cette alarme sonore n'a pas à faire partie intégrante du système de détection.
+2.4.3.2. Une section dotée d'une fonction d'identification individuelle doit être disposée de manière à ne pas être endommagée en plus d'un point par un incendie.
 
-2.5.1.2 Le tableau de commande doit être situé sur la passerelle de navigation ou dans le poste de sécurité central gardé en permanence.
+2.5. Prescriptions concernant le contrôle des dispositifs
 
-2.5.1.3 Les indicateurs doivent au minimum identifier la section dans laquelle un détecteur s'est déclenché ou un avertisseur à commande manuelle est entré en action. Au moins un indicateur doit être situé de manière à être facilement accessible aux membres responsables de l'équipage à tout moment. Si le tableau de commande se trouve dans le poste principal de commande du matériel d'incendie, la passerelle de navigation doit être pourvue d'un indicateur.
+2.5.1. Signaux d'incendie visuels et sonores (3)
 
-2.5.1.4 Des renseignements clairs indiquant les locaux desservis et l'emplacement des sections doivent être affichés sur chaque indicateur ou à proximité de chaque indicateur.
+2.5.1.1. L'entrée en action d'un détecteur ou d'un avertisseur d'incendie à commande manuelle doit déclencher un signal d'alarme de détection de l'incendie visuel et sonore au tableau de commande et aux tableaux des indicateurs. Si, au bout de deux minutes, ce signal n'a pas été acquitté, une alarme d'incendie sonore doit se déclencher automatiquement dans tous les locaux d'habitation de l'équipage, les locaux de service, les postes de sécurité et les locaux de machines de la catégorie A. Cette alarme sonore n'a pas à faire partie intégrante du système de détection.
 
-2.5.1.5 Un système de surveillance des sources d'énergie et des circuits électriques nécessaires au fonctionnement du dispositif doit signaler les pertes d'énergie ou les défaillances, selon le cas. Un signal visuel et sonore, distinct du signal d'incendie, doit se déclencher au tableau de commande lorsqu'une défaillance se produit.
+2.5.1.2. A bord des navires à passagers, le tableau de commande doit être situé dans le centre de sécurité à bord. A bord des navires de charge, le tableau de commande doit être situé sur la passerelle de navigation ou dans le poste de commande du matériel d'incendie.
 
-2.5.2 Mise à l'essai
+2.5.1.3. A bord des navires à passagers, un tableau des indicateurs permettant d'identifier individuellement chaque détecteur qui s'est déclenché ou avertisseur à commande manuelle qui a été actionné doit être situé sur la passerelle de navigation. A bord des navires de charge, un tableau des indicateurs doit être situé sur la passerelle de navigation si le tableau de contrôle se trouve dans le poste de commande du matériel d'incendie. A bord des navires de charge et sur les balcons de cabine des passagers, les indicateurs doivent au minimum identifier la section dans laquelle un détecteur s'est déclenché ou un avertisseur à commande manuelle a été actionné.
 
-Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien.
+2.5.1.4. Des renseignements clairs indiquant les locaux desservis et l'emplacement des sections doivent être affichés sur chaque indicateur ou à proximité de chaque indicateur.
 
-2.6 Dispositifs fixes de détection et d'alarme d'incendie destinés aux balcons de cabine
+2.5.1.5. Un système de surveillance des sources d'énergie et des circuits électriques nécessaires au fonctionnement du dispositif doit signaler les pertes d'énergie et les défaillances, selon le cas, y compris :
 
-Les dispositifs fixes de détection et d'alarme d'incendie destinés aux balcons de cabine doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (9).
+.1 La moindre mise en circuit ouvert ou coupure d'alimentation provoquée par une rupture de câble ;
+
+.2 La moindre mise à la masse accidentelle due au contact d'un conducteur avec un élément métallique ; et
+
+.3 La moindre défaillance de câble à câble provoquée par le contact de deux ou plusieurs conducteurs.
+
+Un signal visuel et sonore, distinct du signal d'incendie, doit se déclencher au tableau de commande lorsqu'une défaillance se produit.
+
+2.5.1.6. Des moyens doivent être prévus au tableau de commande pour acquitter manuellement tous les signaux d'alarme et de défaillance. Les signaux d'alarme sonores du tableau de commande et des tableaux des indicateurs peuvent être arrêtés manuellement. Le tableau de commande doit permettre de distinguer nettement entre les situations normales, d'alarme, d'alarme acquittée, de défaillance et de signal sonore arrêté.
+
+2.5.1.7. Le dispositif doit être configuré de façon à se remettre automatiquement en position normale de fonctionnement après qu'il a été remédié au problème à l'origine de l'alarme et à la défaillance.
+
+2.5.1.8. Si le dispositif doit faire retentir une alarme sonore locale à l'intérieur des cabines où sont installés les détecteurs, le tableau de commande ne doit comporter aucun moyen permettant de mettre à l'arrêt les alarmes sonores locales.
+
+2.5.1.9. En règle générale, le niveau de pression acoustique des alarmes sonores à l'endroit de la couchette dans la cabine et à un mètre de la source doit être égal à au moins 75 dB(A) et dépasser d'au moins 10 dB(A) le niveau de bruit ambiant dans des conditions d'exploitation normales du matériel, le navire faisant route par temps modéré. Le niveau de pression acoustique devrait se situer dans la bande de tiers d'octave centrée sur la fréquence fondamentale. Les signaux des alarmes sonores ne doivent pas dépasser 120 dB(A).
+
+2.5.2. Mise à l'essai
+
+Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien. Les détecteurs doivent être mis à l'essai périodiquement au moyen d'un matériel adapté aux types d'incendie auxquels ils sont censés réagir.
+
+(1) Se reporter aux prescriptions générales relatives à la compatibilité électromagnétique de tous les équipements électriques et électroniques des navires que l'organisation a adoptées par la résolution A. 813 (19).
+
+(2) Se reporter aux directives pour l'approbation des dispositifs fixes de détection et d'alarme d'incendie destinés aux balcons de cabine (circulaire MSC.1/Circ.1242).
+
+(3) Se reporter au recueil de règles relatives aux alarmes et aux indicateurs, 2009, que l'organisation a adopté par la résolution A.1021(26).

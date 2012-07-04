@@ -30,21 +30,23 @@ Le présent article a pour objet de permettre de détecter un incendie dans le l
 
 4 Protection des locaux de machines
 
-4.1 Installation
+4.1. Installation.
 
 Un dispositif fixe de détection de l'incendie et d'alarme d'incendie doit être installé dans :
 
-.1 les locaux de machines exploités sans présence permanente de personnel ; et
+. 1 Les locaux de machines exploités sans présence permanente de personnel ;
 
-.2 les locaux de machines :
+. 2 Les locaux de machines :
 
-.2.1 qui ne sont pas gardés de façon continue et où l'installation de dispositifs et matériel de commande automatique et à distance a été acceptée en remplacement ; et
+. 2.1 Qui ne sont pas gardés de façon continue et où l'installation de dispositifs et matériel de commande automatique et à distance a été acceptée en remplacement ; et
 
-.2.2 dans lesquels l'appareil de propulsion principal et les appareils associés, y compris les sources d'énergie électrique principales, sont munis de dispositifs de commande automatique ou à distance à divers degrés et sont surveillés en permanence par du personnel depuis un poste de commande.
+. 2.2 Dans lesquels l'appareil de propulsion principal et les appareils associés, y compris les sources d'énergie électrique principales, sont munis de dispositifs de commande automatique ou à distance à divers degrés et sont surveillés en permanence par du personnel depuis un poste de commande ; et
+
+. 3 Les locaux fermés contenant des incinérateurs.
 
 Les essais du dispositif sont exigés à la mer et au port si les locaux de machines sont aussi exploités au port sans présence permanente de personnel.
 
-Ce dispositif doit permettre de détecter dans un délai n'excédant pas 3 minutes un début d'incendie en n'importe quel point du compartiment. L'essai correspondant est effectué comme indiqué en annexe 221-II-1/A.1 (point ID1 du questionnaire).
+Ce dispositif doit permettre de détecter dans un délai n'excédant pas trois minutes un début d'incendie en n'importe quel point du compartiment. L'essai correspondant est effectué comme indiqué en annexe 221-II-1/A.1 (point ID. 1 du questionnaire).
 
 Ce dispositif doit aussi être installé dans tout local contenant au moins l'un des appareils ou installations suivants :
 
@@ -53,8 +55,6 @@ Ce dispositif doit aussi être installé dans tout local contenant au moins l'un
 - tableau électrique principal et tableau électrique de secours ;
 
 - atelier machines, atelier électricité.
-
-Il doit être installé une mise hors service limitée à 30 minutes du dispositif de détection d'incendie du local où sont habituellement effectués les travaux de soudure.
 
 4.2 Conception
 

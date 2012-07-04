@@ -820,82 +820,91 @@ Tableau 19.3 - Application des prescriptions aux différentes classes de marchan
 <table>
 <tbody>
 <tr>
-<td valign="top" width="46">
-<p align="right">Classe</p>
+<td align="left" valign="top">
+<p align="left">Classe</p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">1.1 à 1.6</p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">1.1<br/>à<br/>1.6</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">1.4S</p>
 </td>
-<td rowspan="2" width="19">
+<td align="left" rowspan="2" valign="top">
 <p align="center">2.1</p>
 </td>
-<td rowspan="2" width="19">
+<td align="left" rowspan="2" valign="top">
 <p align="center">2.2</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">2.3 inflammable <sup>20</sup>
 </p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">2.3 non inflammable</p>
+<td align="left" rowspan="2" valign="top">
+<p align="center">2.3<br/>non inflammable</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">3 FP<sup>15</sup>
 <sub/>&lt; 23°C</p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">3 FP <sup>15</sup>
-<u>&gt;</u> 23°C à <u>&lt;</u> 60°C</p>
+<td align="left" rowspan="2" valign="top">
+<p align="center">3<br/>FP <sup>15<br/>
+</sup>
+<u>&gt;</u> 23°C à<br/>
+<u>&lt;</u> 60°C</p>
 </td>
-<td rowspan="2" width="19">
+<td align="left" rowspan="2" valign="top">
 <p align="center">4.1</p>
 </td>
-<td rowspan="2" width="19">
+<td align="left" rowspan="2" valign="top">
 <p align="center">4.2</p>
 </td>
-<td rowspan="2" width="34">
+<td align="left" rowspan="2" valign="top">
 <p align="center">4.3 liquides</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">4.3 solides</p>
 </td>
-<td rowspan="2" width="19">
+<td align="left" rowspan="2" valign="top">
 <p align="center">5.1</p>
 </td>
-<td rowspan="2" width="25">
+<td align="left" rowspan="2" valign="top">
 <p align="center">5.2<sup>16</sup>
 </p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">6.1 liquides FP<sup>15</sup> &lt; 23°C</p>
+<td align="left" rowspan="2" valign="top">
+<p align="center">6.1 liquides FP<sup>15<br/>
+</sup>&lt; 23°C</p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">6.1 liquides FP<sup>15</sup>
-<u>&gt;</u> 23°C à <u>&lt;</u> 60°C</p>
+<td align="left" rowspan="2" valign="top">
+<p align="center">6.1 liquides FP<sup>15<br/>
+</sup>
+<u>&gt;<br/>
+</u>23°C<br/>à<br/>
+<u>&lt;</u> 60°C</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">6.1 liquides</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">6.1 solides</p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">8 liquides FP<sup>15</sup> &lt; 23°C</p>
+<td align="left" rowspan="2" valign="top">
+<p align="center">8 liquides FP<sup>15<br/>
+</sup>&lt; 23°C</p>
 </td>
-<td rowspan="2" width="31">
-<p align="center">8 liquides FP<sup>15</sup>
-<u>&gt;</u> 23°C à <u>&lt;</u> 60°C</p>
+<td align="left" rowspan="2" valign="top">
+<p align="center">8 liquides FP<sup>15<br/>
+</sup>
+<u>&gt;</u> 23°C à<br/>
+<u>&lt;</u> 60°C</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">8 liquides</p>
 </td>
-<td rowspan="2" width="31">
+<td align="left" rowspan="2" valign="top">
 <p align="center">8 solides</p>
 </td>
-<td rowspan="2" width="21">
+<td align="left" rowspan="2" valign="top">
 <p align="center">9</p>
 </td>
 </tr>
@@ -2030,7 +2039,7 @@ Tableau 19.3 - Application des prescriptions aux différentes classes de marchan
 </tbody>
 </table>
 
-(11) Cette prescription s'applique lorsque le code IMDG, tel que défini par la division 411 du présent règlement, exige des espaces ventilés mécaniquement .
+(11) Cette prescription s'applique lorsque le code IMDG, tel que défini par la division 411 du présent règlement, exige des espaces ventilés mécaniquement.
 
 (12) Les marchandises de cette classe doivent être arrimées à une distance horizontale d'au moins 3 m des limites des locaux de machines, dans tous les cas.
 
@@ -2046,7 +2055,7 @@ Tableau 19.3 - Application des prescriptions aux différentes classes de marchan
 
 (19) Applicable exclusivement aux marchandises dangereuses de la classe de risque subsidiaire 6.1.
 
-(20) En vertu des dispositions du code IMDG, tel que défini par la division 411 du présent règlement, l'arrimage de marchandises de la classe 2.3 présentant un risque subsidiaire de la classe 2.3 sous pont ou dans des espaces rouliers fermés est interdit.
+(20) En vertu des dispositions du code IMDG tel que défini par la division 411 du présent règlement, l'arrimage de marchandises de la classe 2.3 présentant un risque subsidiaire de la classe 2.1 sous pont ou dans des espaces rouliers fermés est interdit.
 
 (21) En vertu des dispositions du code IMDG, tel que défini par la division 411 du présent règlement, l'arrimage de liquides de la classe 4.3 ayant un point d'éclair inférieur à 23 °C sous pont ou dans des espaces rouliers fermés est interdit.
 

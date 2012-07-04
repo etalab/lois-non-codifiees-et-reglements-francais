@@ -9,6 +9,5 @@
 - [Division 333 : Engins collectifs de sauvetage.](division-333)
 - [Division 334 : Entretien à terre des radiobalises de localisation des sinistres par satellite.](division-334)
 - [Division 335 : Système d’identification et de suivi des navires a grande distance (LRIT).](division-335)
-- [Division 336 : Certification des moteurs diesel marins au titre de la prévention de la pollution de l’atmosphère.](division-336)
 - [Division 351 : Système d’alerte de sûreté du navire.](division-351)
 - [Division 361 : Dispositifs de détection et d'alarme d'envahissement.](division-361)

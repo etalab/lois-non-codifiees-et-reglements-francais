@@ -10,53 +10,41 @@ Protection particulière en présence d' incinérateurs
 
 - ils doivent être situés à une distance d'au moins 5 mètres mesurée horizontalement à partir de la zone dangereuse la plus proche ou du tuyau de sortie le plus proche en provenance d'une zone dangereuse.
 
-2 Il faut installer un dispositif fixe de détection et d'extinction de l'incendie dans les locaux fermés contenant des incinérateurs, dans les locaux combinant incinérateur et stockage des déchets, conformément au tableau ci-après :
+2. Il faut installer un dispositif fixe d'extinction de l'incendie dans les locaux fermés contenant des incinérateurs, dans les locaux combinant incinérateur et stockage des déchets, conformément au tableau ci-après :
 
 <table>
 <tbody>
 <tr>
-<td width="220">
-<br/>
+<td/>
+<td>
+<p align="center">DISPOSITIF AUTOMATIQUE<br/>d'extinction par eau diffusée </p>
 </td>
-<td width="132">
-<p align="center">DISPOSITIF AUTOMATIQUE</p>
-<p align="center">d'extinction par eau diffusée</p>
-</td>
-<td width="123">
-<p align="center">DISPOSITIF FIXE</p>
-<p align="center">d'extinction de l'incendie</p>
-</td>
-<td width="118">
-<p align="center">DISPOSITIF FIXE</p>
-<p align="center">de détection de l'incendie</p>
+<td colspan="2">
+<p align="center">DISPOSITIF FIXE<br/>d'extinction de l'incendie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="220">
-<p>Local combinant incinérateur et stockage des déchets</p>
+<td align="center">
+<p align="left">Local combinant incinérateur et stockage des déchets </p>
 </td>
-<td valign="top" width="132">
-<p align="center">X</p>
+<td align="center">
+<br/>X <br/>
 </td>
-<td valign="top" width="123">
+<td align="center">
 <br/>
-</td>
-<td valign="top" width="118">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="220">
-<p>Local contenant un incinérateur</p>
+<td align="center">
+<p align="left">Local contenant un incinérateur </p>
 </td>
-<td valign="top" width="132">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="123">
-<p align="center">X</p>
-</td>
-<td valign="top" width="118">
-<p align="center">X</p>
+<td align="center">
+<br/>X <br/>
 </td>
 </tr>
 </tbody>

@@ -50,8 +50,6 @@ Ils comprennent les inspections mensuelles prescrites à l'article 221-III/20.7,
 
 3.3.3 Sous réserve des dispositions des paragraphes 3.3.4 et 3.3.5, chaque embarcation de sauvetage doit être mise à l'eau (1), et manœuvrée dans l'eau avec à son bord l'équipage chargé de la faire fonctionner, au moins une fois tous les trois mois au cours d'un exercice d'abandon du navire.
 
-Sur les navires munis de radeaux de sauvetage, il est fait au moins une fois dans le courant d'une année une mise à l'eau effective d'un radeau de sauvetage.
-
 3.3.4 Dans le cas d'une embarcation de sauvetage conçue pour être mise à l'eau en chute libre, au moins une fois tous les trois mois au cours d'un exercice d'abandon du navire, les membres de l'équipage doivent monter à bord de l'embarcation, s'attacher comme il convient à leurs sièges et commencer la procédure de mise à l'eau sans toutefois larguer réellement l'embarcation (c'est-à-dire que le croc de dégagement ne doit pas être actionné). L'embarcation de sauvetage doit ensuite soit être mise à l'eau en chute libre avec, à son bord, uniquement l'équipage chargé de la faire fonctionner, soit être abaissée dans l'eau au moyen des dispositifs secondaires de mise à l'eau avec ou sans l'équipage chargé de la faire fonctionner à son bord. Dans les deux cas, l'embarcation de sauvetage doit ensuite être manœuvrée dans l'eau par l'équipage chargé de la faire fonctionner. Au moins une fois tous les six mois, l'embarcation de sauvetage doit être mise à l'eau en chute libre avec, à son bord, uniquement l'équipage chargé de la faire fonctionner, sinon, une simulation de la mise à l'eau doit être effectuée conformément aux directives élaborées par l'Organisation (*).
 
 3.3.5 L'administration peut autoriser les navires qui effectuent des voyages internationaux courts à ne pas procéder à la mise à l'eau des embarcations de sauvetage sur un côté si leur amarrage à quai et leur type d'exploitation interdisent la mise à l'eau des embarcations de sauvetage de ce côté. Néanmoins, toutes les embarcations de sauvetage doivent être amenées au moins une fois tous les trois mois et mises à l'eau au moins une fois par an.
@@ -103,3 +101,11 @@ Sur les navires munis de radeaux de sauvetage, il est fait au moins une fois dan
 5 Mentions dans un journal de bord
 
 Les dates auxquelles les appels ont lieu et le compte rendu des exercices d'abandon du navire, des exercices d'incendie, des exercices visant l'utilisation d'autres engins de sauvetage et des séances de formation à bord doivent être consignés par écrit dans le journal de bord prescrit par l'administration. Si l'appel, l'exercice ou la séance de formation n'ont pas intégralement lieu à la date prescrite, il est fait mention dans le journal de bord des conditions et de l'ampleur de l'appel, de l'exercice ou de la séance de formation qui a eu lieu.
+
+Si les exercices sont effectués avec des personnes à bord d'une embarcation de sauvetage, il est recommandé d'amener puis de remonter dans un premier temps l'embarcation sans personne à bord afin de s'assurer que le dispositif fonctionne correctement. L'embarcation devrait ensuite être mise à l'eau avec à bord uniquement les personnes nécessaires à sa manœuvre.
+
+Des dispositifs de préventions des chutes conformes à la circulaire MSC.1/Circ1327 doivent être utilisés lors des exercices en excluant les goupilles de verrouillages qui en modifiant les crocs doivent refaire l'objet d'une approbation.
+
+Les exercices peuvent également être effectués sans personne à bord lors des phases de descente et remontée.
+
+L'équipage chargé d'effectuer les essais sur le plan d'eau embarque dans ce cas à l'aide d'une embarcation de service.
