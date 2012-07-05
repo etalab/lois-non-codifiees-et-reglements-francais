@@ -46,6 +46,10 @@ Centre hospitalier, hôpital Corvisart (service de médecine interne), 28, rue d
 
 Centre hospitalier général (centre de vaccination amarile et conseils aux voyageurs), 101, avenue Anatole-France, 10000 Troyes.
 
+11 - Aude :
+
+Centre hospitalier, 5 bis, rue du Bois-Rolland, 11000 Narbonne.
+
 12 - Aveyron
 
 Direction de la solidarité départementale (centre de prévention médico-sociale), 1, rue Séguy, 12000 Rodez.
