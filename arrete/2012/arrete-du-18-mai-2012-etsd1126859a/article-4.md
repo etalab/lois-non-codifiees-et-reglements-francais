@@ -1,0 +1,3 @@
+# Article 4
+
+Le service dématérialisé de l'alternance requiert, pour les apprentis ou les salariés, l'utilisation du numéro d'inscription au répertoire national d'identification des personnes physiques aux fins de transmettre aux organismes gestionnaires des branches du régime général de la sécurité sociale, par flux électronique, les informations collectées sur les contrats de professionnalisation et d'apprentissage (ACOSS et URSSAF, CNAV, AGIRC et ARCCO). En retour, ce numéro est requis pour sécuriser la procédure de rapprochement des données électroniques et qualifiées, reçues de ces mêmes organismes gestionnaires des branches du régime général de la sécurité sociale.
