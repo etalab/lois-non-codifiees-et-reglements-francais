@@ -1,9 +1,3 @@
 # Article 2
 
-Les dispositions techniques du présent arrêté pris en application des articles 43 à 53 du décret susvisé sont applicables aux navires dont la quille est posée ou dont la construction se trouve à un stade équivalent postérieurement à la date de sa publication.
-
-L'expression "dont la construction se trouve à un stade équivalent" se réfère au stade auquel :
-
-- une construction identifiable à un navire particulier commence ;
-
-- le montage du navire considéré a commencé, employant au moins 50 tonnes ou 1% de la masse estimée de tous les matériaux de structure.
+Les dispositions du présent arrêté et de son règlement annexé sont prises en application des articles 1er, 3, 4, 8, 9-1, 10, 14, 17, 20, 23, 25-1, 25-2, 26, 27, 39, 41-1 à 41-13, 42, 42-1 à 42-8, 43 à 54, 55, 56 et 63-1 du décret n° 84-810 du 30 août 1984 modifié.
