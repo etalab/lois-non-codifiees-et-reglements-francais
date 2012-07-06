@@ -99,7 +99,6 @@
 - [Arrêté du 6 août 1999 (INTE9900392A)](arrete-du-6-aout-1999-inte9900392a)
 - [Arrêté du 6 août 1999 (INTE9900393A)](arrete-du-6-aout-1999-inte9900393a)
 - [Arrêté du 6 avril 1999 (AGRA9900677A)](arrete-du-6-avril-1999-agra9900677a)
-- [Arrêté du 6 avril 1999 (AGRA9900778A)](arrete-du-6-avril-1999-agra9900778a)
 - [Arrêté du 6 avril 1999 (EQUH9900491A)](arrete-du-6-avril-1999-equh9900491a)
 - [Arrêté du 6 avril 1999 (MESA9921168A)](arrete-du-6-avril-1999-mesa9921168a)
 - [Arrêté du 6 avril 1999 (MESH9921149A)](arrete-du-6-avril-1999-mesh9921149a)
