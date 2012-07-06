@@ -1,0 +1,3 @@
+# Article 3
+
+La commission mentionnée à l'article 1er ci-dessus se réunit en tant que de besoin, physiquement ou virtuellement par échange électronique, sur convocation de son président. Son avis est réputé favorable si deux au moins de ses membres se sont prononcés favorablement. Lorsque la demande de recrutement par détachement ou par concours direct d'accès à la 1re classe du corps des professeurs est présentée par un établissement dont le directeur est membre de la présente commission, ce dernier est remplacé par un directeur d'un autre établissement de même catégorie assurant la même formation.
