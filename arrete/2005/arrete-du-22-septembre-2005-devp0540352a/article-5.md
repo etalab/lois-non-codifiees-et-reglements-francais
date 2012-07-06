@@ -1,6 +1,6 @@
 # Article 5
 
-Un constructeur d'engin mobile non routier peut demander à l'autorité compétente en matière de réception désignée à l'article 6 du décret du 22 septembre 2005 susvisé de recourir à l'un des mécanismes de flexibilité définis à l'annexe XIII de la directive 97/68/ CE susvisée, telle que modifiée par la directive 2010/26/ UE, pour les moteurs à allumage par compression autres que ceux destinés aux autorails, locomotives et bateaux de navigation intérieure.
+Un constructeur d'engin mobile non routier peut demander à l'autorité compétente en matière de réception désignée à l'article 6 du décret du 22 septembre 2005 susvisé de recourir à l'un des mécanismes de flexibilité définis à l'annexe XIII de la directive 97/68/ CE susvisée, telle que modifiée en dernier lieu par la directive 2011/88/UE, pour les moteurs à allumage par compression autres que ceux destinés aux autorails, locomotives et bateaux de navigation intérieure.
 
 Les exigences de l'article 3, points c et d, et de l'article 4, points c et d, du présent arrêté peuvent être reportées de trois ans pour les constructeurs de moteurs en petite série tels que définis à l'article 2 de la directive 97/68/ CE susvisée, sur demande du constructeur auprès de l'autorité compétente en matière de réception prévue à l'article 6 du décret du 22 septembre 2005.
 
