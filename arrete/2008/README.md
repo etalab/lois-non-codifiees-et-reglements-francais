@@ -152,7 +152,6 @@
 - [Arrêté du 6 février 2008 (BCFD0803355A)](arrete-du-6-fevrier-2008-bcfd0803355a)
 - [Arrêté du 6 février 2008 (ECED0801769A)](arrete-du-6-fevrier-2008-eced0801769a)
 - [Arrêté du 6 février 2008 (JUSG0801955A)](arrete-du-6-fevrier-2008-jusg0801955a)
-- [Arrêté du 6 juin 2008 (DEFD0816650A)](arrete-du-6-juin-2008-defd0816650a)
 - [Arrêté du 6 mars 2008 (AGRP0805827A)](arrete-du-6-mars-2008-agrp0805827a)
 - [Arrêté du 6 novembre 2008 (IMIG0823305A)](arrete-du-6-novembre-2008-imig0823305a)
 - [Arrêté du 6 novembre 2008 (IOCA0816892A)](arrete-du-6-novembre-2008-ioca0816892a)
