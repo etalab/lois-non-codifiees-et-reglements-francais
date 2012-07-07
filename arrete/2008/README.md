@@ -1266,7 +1266,6 @@
 - [Arrêté du 31 juillet 2008 (MLVU0814876A)](arrete-du-31-juillet-2008-mlvu0814876a)
 - [Arrêté du 31 juillet 2008 (SJSF0819251A)](arrete-du-31-juillet-2008-sjsf0819251a)
 - [Arrêté du 31 juillet 2008 (SJSJ0819860A)](arrete-du-31-juillet-2008-sjsj0819860a)
-- [Arrêté du 31 juillet 2008 (SJSV0819252A)](arrete-du-31-juillet-2008-sjsv0819252a)
 - [Arrêté du 31 mars 2008 (AGRM0807640A)](arrete-du-31-mars-2008-agrm0807640a)
 - [Arrêté du 31 mars 2008 (DEVP0774041A)](arrete-du-31-mars-2008-devp0774041a)
 - [Arrêté du 31 mars 2008 (IMIN0800470A)](arrete-du-31-mars-2008-imin0800470a)
