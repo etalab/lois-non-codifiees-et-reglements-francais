@@ -1,8 +1,8 @@
 # Article 1
 
-Le ministre de l'économie, des finances et du commerce extérieur prépare et met en œuvre la politique du Gouvernement en matière économique, financière, de consommation et répression des fraudes, et de commerce extérieur. Il est chargé de la promotion et du développement de l'économie sociale et solidaire. Il prépare et met en œuvre la politique du Gouvernement en matière budgétaire et fiscale. Il est responsable de l'ensemble des comptes publics et de la stratégie pluriannuelle en la matière.
+Le ministre de l'économie et des finances prépare et met en œuvre la politique du Gouvernement en matière économique, financière et de consommation et répression des fraudes. Il est chargé de la promotion et du développement de l'économie sociale et solidaire. Il prépare et met en œuvre la politique du Gouvernement en matière budgétaire et fiscale. Il est responsable de l'ensemble des comptes publics et de la stratégie pluriannuelle en la matière.
 
-Au titre des responsabilités définies à l'alinéa précédent, le ministre de l'économie, des finances et du commerce extérieur est compétent pour :
+Au titre des responsabilités définies à l'alinéa précédent, le ministre de l'économie et des finances est compétent pour :
 
 ― les financements, les affaires monétaires, économiques et financières nationales et, en concertation avec les ministres intéressés selon les procédures prévues à cet effet, européennes et internationales ;
 
@@ -11,8 +11,6 @@ Au titre des responsabilités définies à l'alinéa précédent, le ministre de
 ― la préparation et l'exécution du budget ;
 
 ― la législation fiscale ;
-
-― le commerce extérieur ;
 
 ― la comptabilité publique et le domaine ;
 
