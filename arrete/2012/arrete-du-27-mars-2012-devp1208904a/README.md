@@ -1,3 +1,7 @@
 # Arrêté du 27 mars 2012 relatif aux prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 2710-1 (Installations de collecte de déchets dangereux apportés par leur producteur initial)
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
 - [Article 5](article-5.md)
+- [Article 6](article-6.md)
