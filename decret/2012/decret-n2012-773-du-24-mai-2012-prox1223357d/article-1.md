@@ -1,6 +1,6 @@
 # Article 1
 
-Le ministre du redressement productif prépare et met en œuvre la politique du Gouvernement en matière d'industrie, de petites et moyennes entreprises, d'artisanat, de commerce, de postes et communications électroniques, de services, de tourisme et d'innovation. A ce titre, il participe à la défense et à la promotion de l'emploi dans le secteur industriel et les services. Il exerce la tutelle des établissements des réseaux des chambres de métiers et de l'artisanat et des chambres de commerce et d'industrie. Il exerce les attributions relatives à la création d'entreprises et à la simplification des formalités leur incombant.
+Le ministre du redressement productif prépare et met en œuvre la politique du Gouvernement en matière d'industrie, de petites et moyennes entreprises, de postes et communications électroniques, de services et d'innovation. A ce titre, il participe à la défense et à la promotion de l'emploi dans le secteur industriel et les services. Il exerce les attributions relatives à la création d'entreprises et à la simplification des formalités leur incombant.
 
 Au titre des responsabilités définies à l'alinéa précédent, le ministre du redressement productif est compétent pour :
 
@@ -10,17 +10,15 @@ Au titre des responsabilités définies à l'alinéa précédent, le ministre du
 
 ― la politique des postes et communications électroniques ;
 
-― la politique en matière de petites et moyennes entreprises et d'artisanat ;
+― la politique en matière de petites et moyennes entreprises ;
 
 ― le soutien aux nouvelles technologies, leur promotion et leur diffusion ;
 
 ― la définition et le suivi de la politique en matière d'innovation ;
 
-― le développement de l'économie numérique ;
+― le développement de l'économie numérique.
 
-― le suivi et le soutien des activités touristiques ainsi que la promotion du patrimoine touristique de la France.
-
-Conjointement avec le ministre de l'économie, des finances et du commerce extérieur, il prépare et met en œuvre la politique en matière de compétitivité de l'économie française, d'attractivité du territoire et de participations.
+Conjointement avec le ministre de l'économie et des finances, il prépare et met en œuvre la politique en matière de compétitivité de l'économie française, d'attractivité du territoire et de participations.
 
 Il participe à la définition de la fiscalité des entreprises et de la politique de financement des entreprises.
 

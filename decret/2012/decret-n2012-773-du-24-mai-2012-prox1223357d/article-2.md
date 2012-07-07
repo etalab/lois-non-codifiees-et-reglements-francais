@@ -1,20 +1,22 @@
 # Article 2
 
-I. ― Le ministre du redressement productif a autorité sur la direction générale de la compétitivité, de l'industrie et des services.
+I. ― Le ministre du redressement productif a autorité sur la direction générale de la compétitivité, de l'industrie et des services, conjointement avec le ministre de l'artisanat, du commerce et du tourisme.
 
-II. ― Conjointement avec le ministre de l'économie, des finances et du commerce extérieur et le ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique, le ministre du redressement productif a autorité sur le secrétariat général des ministères économiques et financiers.
+II. - Conjointement avec le ministre de l'économie et des finances, le ministre du commerce extérieur, le ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et le ministre de l'artisanat, du commerce et du tourisme, le ministre du redressement productif a autorité sur le secrétariat général des ministères économiques et financiers.
 
-Conjointement avec le ministre de l'économie, des finances et du commerce extérieur, il a autorité sur :
+Conjointement avec le ministre de l'économie et des finances, le ministre du commerce extérieur et le ministre de l'artisanat, du commerce et du tourisme, il a autorité sur :
 
-― la direction des affaires juridiques des ministères économiques et financiers ;
+- la direction des affaires juridiques des ministères économiques et financiers ;
 
-― le Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
+- le haut fonctionnaire de défense et de sécurité ;
 
-― le haut fonctionnaire de défense et de sécurité ;
+- le médiateur des ministères économiques et financiers.
 
-― le médiateur des ministères économiques et financiers.
+Conjointement avec le ministre de l'économie et des finances, il a autorité sur :
 
-Pour l'exercice de ses attributions, il a autorité, conjointement avec le ministre de l'économie, des finances et du commerce extérieur, sur le service à compétence nationale Agence des participations de l'Etat. Les modalités d'exercice de cette autorité conjointe sont précisées par arrêté du Premier ministre.
+- le Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
+
+- le service à compétence nationale Agence des participations de l'Etat ; les modalités d'exercice de cette autorité conjointe sont précisées par arrêté du Premier ministre.
 
 III. ― Pour l'exercice de ses attributions relatives aux matières premières et aux mines, le ministre du redressement productif dispose de la direction générale de l'énergie et du climat, de la direction générale de la prévention des risques et de la direction générale de l'aménagement, du logement et de la nature.
 
