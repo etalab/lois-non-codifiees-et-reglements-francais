@@ -110,7 +110,6 @@
 - [Arrêté du 7 février 2005 (DEVP0540077A)](arrete-du-7-fevrier-2005-devp0540077a)
 - [Arrêté du 7 février 2005 (DEVP0540078A)](arrete-du-7-fevrier-2005-devp0540078a)
 - [Arrêté du 7 février 2005 (EQUA0500250A)](arrete-du-7-fevrier-2005-equa0500250a)
-- [Arrêté du 7 février 2005 (SANY0520482A)](arrete-du-7-fevrier-2005-sany0520482a)
 - [Arrêté du 7 juillet 2005 (ECOT0551042A)](arrete-du-7-juillet-2005-ecot0551042a)
 - [Arrêté du 7 juillet 2005 (SANA0522349A)](arrete-du-7-juillet-2005-sana0522349a)
 - [Arrêté du 7 mars 2005 (MENP0500454A)](arrete-du-7-mars-2005-menp0500454a)
