@@ -2200,7 +2200,6 @@
 - [Arrêté du 25 septembre 2009 (AGRT0921872A)](arrete-du-25-septembre-2009-agrt0921872a)
 - [Arrêté du 25 septembre 2009 (BCFF0922280A)](arrete-du-25-septembre-2009-bcff0922280a)
 - [Arrêté du 25 septembre 2009 (JUSC0921505A)](arrete-du-25-septembre-2009-jusc0921505a)
-- [Arrêté du 25 septembre 2009 (SASR0922395A)](arrete-du-25-septembre-2009-sasr0922395a)
 - [Arrêté du 25 septembre 2009 (SASV0922293A)](arrete-du-25-septembre-2009-sasv0922293a)
 - [Arrêté du 25 mai 2009 (BCFS0911828A)](arrete-du-25-mai-2009-bcfs0911828a)
 - [Arrêté du 25 mai 2009 (DEFH0911031A)](arrete-du-25-mai-2009-defh0911031a)
