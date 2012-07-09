@@ -79,12 +79,22 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
+<td>Direction du budget </td>
+<td>Adjoint au chef du département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Direction du budget </p>
 </td>
 <td align="center">
 <p align="left">Responsable du secteur " rémunération des dirigeants des établissements publics "</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction du budget </p>
+</td>
+<td>Responsable du pôle solidarité, prévention de l'exclusion et politique de la ville au département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</td>
 </tr>
 <tr>
 <td align="center">
@@ -140,14 +150,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">
 <p align="left">Adjoint au chef du bureau " marchés et produits d'assurance "</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction générale du Trésor</p>
-</td>
-<td align="center">
-<p align="left">Adjoint au chef du bureau " coopération monétaire et développement avec pays ACP zone franc "</p>
 </td>
 </tr>
 <tr>
@@ -708,6 +710,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">
 <p align="left">Adjoint au responsable de la réforme de l'administration territoriale de l'Etat et des schémas pluriannuels de stratégie immobilière des services déconcentrés et des opérateurs à la mission politique immobilière de l'Etat au sein du service France Domaine </p>
 </td>
+</tr>
+<tr>
+<td>Direction générale des finances publiques </td>
+<td>Adjoint au chef du bureau " expertise et actions économiques " (A compter du 1er mai 2012) </td>
 </tr>
 <tr>
 <td align="center">

@@ -176,6 +176,7 @@
 - [Arrêté du 5 janvier 2012 (DEFH1200674A)](arrete-du-5-janvier-2012-defh1200674a)
 - [Arrêté du 5 janvier 2012 (PRMD1135168A)](arrete-du-5-janvier-2012-prmd1135168a)
 - [Arrêté du 5 janvier 2012 (SPOV1201237A)](arrete-du-5-janvier-2012-spov1201237a)
+- [Arrêté du 5 juillet 2012 (MENE1227954A)](arrete-du-5-juillet-2012-mene1227954a)
 - [Arrêté du 5 juin 2012 (AFSS1225166A)](arrete-du-5-juin-2012-afss1225166a)
 - [Arrêté du 5 juin 2012 (AFSZ1226538A)](arrete-du-5-juin-2012-afsz1226538a)
 - [Arrêté du 5 juin 2012 (AGRG1225758A)](arrete-du-5-juin-2012-agrg1225758a)
