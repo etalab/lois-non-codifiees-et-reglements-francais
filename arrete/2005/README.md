@@ -466,7 +466,6 @@
 - [Arrêté du 23 septembre 2005 (DEFP0501321A)](arrete-du-23-septembre-2005-defp0501321a)
 - [Arrêté du 23 septembre 2005 (DEFS0501322A)](arrete-du-23-septembre-2005-defs0501322a)
 - [Arrêté du 23 septembre 2005 (DEFS0501323A)](arrete-du-23-septembre-2005-defs0501323a)
-- [Arrêté du 23 septembre 2005 (SANG0522840A)](arrete-du-23-septembre-2005-sang0522840a)
 - [Arrêté du 23 mai 2005 (DEFC0500523A)](arrete-du-23-mai-2005-defc0500523a)
 - [Arrêté du 23 mai 2005 (JUSG0560046A)](arrete-du-23-mai-2005-jusg0560046a)
 - [Arrêté du 24 août 2005 (ECOP0500446A)](arrete-du-24-aout-2005-ecop0500446a)
