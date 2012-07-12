@@ -22,9 +22,9 @@ Direction des affaires juridiques de Paris, caserne Reuilly ;
 
 Direction centrale du service du commissariat des armées de Rambouillet ;
 
-Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels terrestres de Brétigny ;
+Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense de Brétigny ;
 
-Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels terrestres de Montauban ;
+Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense de Montauban ;
 
 Direction centrale du service de santé des armées de Brétigny ;
 

@@ -8,8 +8,6 @@ Direction du renseignement militaire de Strasbourg ;
 
 Cabinet du ministre de la défense de Paris, îlot Saint-Germain ;
 
-Service du contrôle budgétaire et comptable ministériels de Paris, îlot Saint-Germain ;
-
 Sous-direction des bureaux des cabinets de Paris, îlot Saint-Germain ;
 
 Secrétariat général pour l'administration, cabinet de Paris, îlot Saint-Germain ;
