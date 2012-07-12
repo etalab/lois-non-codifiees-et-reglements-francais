@@ -1,3 +1,0 @@
-# Article 6
-
-L'examen professionnel de secrétaire administratif de classe exceptionnelle comporte une épreuve orale d'une durée de trente minutes consistant en un entretien avec le jury ayant pour point de départ un exposé de dix minutes portant sur les fonctions et l'expérience professionnelle du candidat, au cours duquel le candidat doit notamment présenter de manière synthétique un dossier ou un projet de son choix, qu'il a conduit, ou auquel il a fortement contribué, au cours de sa carrière. L'exposé est suivi de questions posées par le jury destinées à apprécier les connaissances du candidat sur son environnement professionnel, ses connaissances administratives générales ainsi que ses qualités de réflexion.

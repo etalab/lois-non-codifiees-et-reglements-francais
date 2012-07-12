@@ -1069,7 +1069,6 @@
 - [Arrêté du 13 avril 2011 (ETSH1110964A)](arrete-du-13-avril-2011-etsh1110964a)
 - [Arrêté du 13 avril 2011 (ETSS1110749A)](arrete-du-13-avril-2011-etss1110749a)
 - [Arrêté du 13 avril 2011 (JUSF1111259A)](arrete-du-13-avril-2011-jusf1111259a)
-- [Arrêté du 13 avril 2011 (PRMG1108952A)](arrete-du-13-avril-2011-prmg1108952a)
 - [Arrêté du 13 avril 2012 (MENF1210166A)](arrete-du-13-avril-2012-menf1210166a)
 - [Arrêté du 13 décembre 2010 (DEVA1032037A)](arrete-du-13-decembre-2010-deva1032037a)
 - [Arrêté du 13 décembre 2010 (DEVT1029987A)](arrete-du-13-decembre-2010-devt1029987a)
