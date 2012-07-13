@@ -26,13 +26,11 @@ II. ― La sous-direction des statistiques agricoles, forestières et agroalimen
 
 La sous-direction des statistiques agricoles, forestières et agroalimentaires comprend :
 
-― le bureau des statistiques des structures agricoles et de l'environnement ;
+- le bureau des statistiques des industries agricoles et alimentaires ;
 
-― le bureau des statistiques végétales et forestières ;
+- le bureau des statistiques végétales et animales ;
 
-― le bureau des statistiques animales ;
-
-― le bureau des statistiques des industries agricoles et alimentaires.
+- le bureau des statistiques structurelles, environnementales et forestières.
 
 III. - La sous-direction des synthèses statistiques et des revenus assure les analyses et synthèses statistiques tant structurelles que conjoncturelles ; elle participe à la préparation des comptes de l'agriculture établis par l'Institut national de la statistique et des études économiques et établit les comptes aux échelons plus détaillés ; elle assure le secrétariat de la commission des comptes de l'agriculture de la nation ; elle pilote le réseau d'information comptable agricole.
 

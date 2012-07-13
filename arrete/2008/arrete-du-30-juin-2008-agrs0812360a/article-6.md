@@ -14,17 +14,17 @@ Le service des ressources humaines comprend :
 
 5. La mission du pilotage de l'emploi, de la gestion prévisionnelle des ressources humaines et de l'Observatoire des missions et des métiers .
 
-6. La mission du projet AGORHA.
+6. La mission du projet AGORHA-opérateur national de paie (ONP).
 
-I. - La sous-direction mobilité, emplois, carrières assure le pilotage de la gestion des carrières, des parcours professionnels et du suivi individualisé des agents. Elle est responsable de l'organisation de la gestion administrative et de la paie des personnels.
-
-Elle assure la mise en œuvre de la politique indemnitaire et contribue à sa conception.
+I. - La sous-direction mobilité, emplois, carrières assure le pilotage de la gestion des carrières, des parcours professionnels et du suivi individualisé des agents. Elle est responsable de l'organisation de la gestion administrative des personnels et de la mise en œuvre de la paie des agents. Elle assure le pilotage national de la paie et contribue à la conception et à la mise en œuvre des orientations en matière de politique indemnitaire.
 
 Elle coordonne la politique de mobilité.
 
-Elle participe à l'analyse des compétences et des métiers, et contribue à la gestion prévisionnelle des emplois et compétences.
+Elle participe à l'analyse des compétences et des métiers et contribue à la gestion prévisionnelle des emplois et compétences.
 
 La sous-direction mobilité, emplois, carrières comprend :
+
+a) Un pôle d'expertise et de services en charge de la gestion administrative et de la mise en œuvre de la paie des agents, qui est constitué par :
 
 - le bureau de gestion des personnels de catégorie A et des agents contractuels ;
 
@@ -32,9 +32,11 @@ La sous-direction mobilité, emplois, carrières comprend :
 
 - le bureau de gestion des personnels enseignants et des personnels de la filière formation-recherche ;
 
-- le bureau de la coordination de la paye et des régimes indemnitaires ;
+- le centre interministériel de gestion des ingénieurs des ponts, des eaux et des forêts, service à compétence nationale dont les missions sont définies à l'arrêté du 2 juin 2010 ;
 
-- le centre interministériel de gestion des ingénieurs des ponts, des eaux et des forêts, service à compétence nationale dont les missions sont définies à l'arrêté du 2 juin 2010 susvisé.
+b) Le bureau du pilote national de la paie ; en charge des orientations en matière de politique indemnitaire, ce bureau assure, à compter du raccordement à l'opérateur national de paye (ONP), la relation avec cet opérateur et est le garant du bon fonctionnement des activités de gestion administrative et de paie.
+
+Au titre de ses fonctions de contrôle interne, le bureau du pilote national de la paie est placé sous l'autorité directe de l'adjoint du chef de service des ressources humaines.
 
 II. - La sous-direction du développement professionnel et des relations sociales anime le dialogue social et les relations collectives du travail.
 
@@ -70,4 +72,4 @@ IV. ― La mission des systèmes d'information des ressources humaines assure la
 
 V. (Supprimé)
 
-VI. - La mission du projet AGORHA pilote le projet AGORHA de modernisation du système d'information des ressources humaines du ministère et l'adaptation des outils et procédures de la gestion des ressources humaines aux besoins du raccordement à l'opérateur national de paie.A ce titre, elle mobilise l'ensemble des services concernés au sein du ministère et veille à la bonne coordination de leurs actions ainsi qu'à l'articulation d'AGORHA avec les autres projets informatiques structurants du ministère et pilote les actions d'accompagnement des changements d'organisation ou de méthode de travail liés à ces projets.
+VI. - La mission du projet AGORHA-opérateur national de paie (ONP) conduit le programme en vue du raccordement du ministère chargé de l'agriculture à l'opérateur national de paie. Elle assure la préparation des réunions des instances de gouvernance du programme et veille à la mise en œuvre et au suivi des actions nécessaires, notamment la mise en conformité du système d'information des ressources humaines, la vérification de la qualité des données, l'adaptation des outils et procédures de gestion des ressources humaines et la réduction des écarts de gestion. A ce titre, elle coordonne, dans le périmètre du projet, l'action des services concernés, pilote le déploiement du nouveau dispositif et les actions d'accompagnement du changement.

@@ -40,8 +40,6 @@ La sous-direction des systèmes d'information comprend :
 
 ― le centre d'études et de réalisations informatiques ;
 
-― le bureau des télécommunications ;
-
 ― le bureau de l'informatique de proximité ;
 
 ― la mission de sécurité des systèmes d'information.
