@@ -1,0 +1,5 @@
+# Article 24
+
+Les titulaires d'un des diplômes mentionnés aux titres Ier à VII du livre III de la quatrième partie du code de la santé publique, du diplôme d'Etat de sage-femme, d'une licence ainsi que les personnes ayant accompli et validé les quatre premiers semestres des études en vue du diplôme de formation générale en sciences médicales peuvent se voir dispensés des épreuves d'admission et de la validation d'une partie des unités d'enseignement de la première et de la deuxième année par le directeur de l'institut après avis du conseil pédagogique et comparaison entre la formation qu'ils ont suivie et les unités d'enseignement composant le programme du diplôme d'Etat de pédicure-podologue.
+
+Le nombre total de candidats admis dans un institut de formation en application du précédent alinéa au cours d'une année donnée s'ajoute au nombre de places de première année attribué à cet institut pour l'année considérée, sans pouvoir excéder 5 % de ce nombre. Lorsque l'application de ce pourcentage conduit à un nombre décimal, il est arrondi au nombre entier supérieur.
