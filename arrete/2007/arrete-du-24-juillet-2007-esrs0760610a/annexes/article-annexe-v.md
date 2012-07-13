@@ -88,45 +88,45 @@ c) Exemple de situation : la capacité du candidat à communiquer oralement est 
 
 Chaque situation est notée sur 20 points. La note globale est ramenée à une note sur 20.
 
-E2 - Langues vivantes étrangères
+E2 Langues vivantes étrangères Coefficient 10
 
-Coefficient 9.
+La liste des langues autorisées est la suivante : allemand, anglais, chinois, espagnol, italien, portugais, russe, hébreu.
 
-La liste des langues autorisées est la suivante : allemand, anglais, chinois, espagnol, hébreu, italien, portugais, russe.
+Cependant, les candidats n'ayant pas obtenu leur diplôme au titre de l'arrêté du 24 juillet 2007 portant définition et fixant les conditions de délivrance du brevet de technicien supérieur commerce international à référentiel commun européen, et n'ayant pas validé les unités U 21 et U 22, pourront représenter ces deux unités dans la langue initialement choisie.
 
-Cependant, les candidats n'ayant pas obtenu leur diplôme au titre de l'arrêté du 24 juillet 2007 portant définition et fixant les conditions de délivrance du brevet de technicien supérieur commerce international à référentiel commun européen, et n'ayant pas validé les unités U21 et U22, pourront représenter ces deux unités dans la langue initialement choisie.
+Langues A : U21 coef. 5
 
-Langues A : U21 coefficient 4
+Langues B : U22 coef. 5
 
-Langues B : U22 coefficient 5
-
-1. Finalités et objectifs
+Finalités et objectifs :
 
 L'épreuve a pour but d'évaluer au niveau B2 pour la langue A et au niveau B1 pour la langue B les activités langagières suivantes :
 
 - compréhension de documents écrits
 
-- production écrite
+- production écrite-interaction écrite
 
-- interaction écrite
+- compréhension orale
 
-2. Formes de l'évaluation
+- expression orale en continue et en interaction
 
-A. Forme ponctuelle
+Modes d'évaluation :
 
-Évaluation de l'écrit : durée 3 heures, coefficient 2 (même coefficient pour la langue A et la langue B)
+A -. Forme ponctuelle
 
-Trois exercices de même pondération :
+Evaluation de l'écrit : durée 3 heures, coefficient 2 (même coefficient pour la langue A et la langue B)
 
-- Compréhension : rédiger en français, sur la base d'un texte ou d'un dossier à caractère économique ou commercial en langue étrangère dont la longueur n'excèdera pas le tiers du document original, un compte rendu restituant les éléments essentiels
+3 exercices de même pondération
 
-- Expression écrite : rédiger en développement d'un sujet proposé, lié ou non à la thématique du texte ou des textes supports pour la compréhension, un texte argumenté de façon méthodique (avantages et inconvénients, justifications pour ou contre, idées principales et secondaires) n'excédant pas 300 mots. Le sujet sera en rapport avec le domaine professionnel.
+1) Compréhension : Rédiger en français, sur la base d'un texte ou d'un dossier à caractère économique ou commercial en langue étrangère dont la longueur n'excèdera pas le tiers du document original, un compte rendu restituant les éléments essentiels
 
-- Interaction écrite : élaboration en langue étrangère d'une lettre commerciale à partir d'éléments donnés en français.
+2) Expression écrite : rédiger en développement d'un sujet proposé, lié ou non à la thématique du texte ou des textes supports pour la compréhension, un texte argumenté de façon méthodique (avantages et inconvénients, justifications pour ou contre, idées principales et secondaires) n'excédant pas 300 mots. Le sujet sera en rapport avec le domaine professionnel.
+
+3) Interaction écrite : élaboration en langue étrangère d'une lettre commerciale à partir d'éléments donnés en français,
 
 L'usage du dictionnaire unilingue est autorisé.
 
-Évaluation de la compréhension et de l'expression orales : durée 20 minutes, préparation 20 minutes coefficient 2 pour la langue de spécialité (langue A) et 3 pour l'autre langue (langue B)
+Evaluation de la compréhension et de l'expression orales : durée 20 minutes, préparation 20 minutes coefficient 3 pour la langue de spécialité (langue A) et 3 pour l'autre langue (langue B)
 
 Déroulement de l'épreuve :
 
@@ -136,11 +136,11 @@ Deux écoutes espacées de 2 minutes d'un ou de deux documents audio ou vidéo, 
 
 a) écoute
 
-- Longueur des enregistrements : leur durée n'excèdera pas trois minutes maximum. Le recours à des documents authentiques nécessite parfois de sélectionner des extraits un peu plus longs (d'où la limite supérieure fixée à 3 minutes) afin de ne pas procéder à la coupure de certains éléments qui facilitent la compréhension plus qu'ils ne la compliquent.
+Longueur des enregistrements : Leur durée n'excèdera pas trois minutes maximum. Le recours à des documents authentiques nécessite parfois de sélectionner des extraits un peu plus longs (d'où la limite supérieure fixée à 3 minutes) afin de ne pas procéder à la coupure de certains éléments qui facilitent la compréhension plus qu'ils ne la compliquent.
 
 Dans le cas de deux documents (longueur d'enregistrement maximale de 3 minutes pour les deux), on veillera à ce qu'ils soient de nature différente : dialogue et monologue.
 
-- Nature des supports : Les documents enregistrés audio ou vidéo seront de nature à intéresser un étudiant de commerce international sans toutefois présenter une technicité excessive. On peut citer en exemple les documents relatifs à l'emploi (recherche, recrutement, relations professionnelles....) à l'environnement économique, à la vie en entreprise ... Il pourra s'agir de monologues, dialogues, discours, discussions, commentaires de journaux télévisés, émissions de radio.
+Nature des supports : Les documents enregistrés audio ou vidéo seront de nature à intéresser un étudiant de commerce international sans toutefois présenter une technicité excessive. On peut citer en exemple les documents relatifs à l'emploi (recherche, recrutement, relations professionnelles....) à l'environnement économique, à la vie en entreprise ... Il pourra s'agir de monologues, dialogues, discours, discussions, commentaires de journaux télévisés, émissions de radio.
 
 Il ne s'agira en aucune façon d'écrit oralisé ni d'enregistrements issus de manuels.
 
@@ -148,39 +148,49 @@ On évitera les articles de presse ou tout autre document conçus pour être lus
 
 b) restitution orale et entretien (durée 20 minutes)
 
-Dans un premier temps, le candidat rendra compte de façon autonome de ce qu'il a compris (5 minutes environ). Puis suivra un entretien destiné à l'amener à préciser certains points, à s'assurer de la compréhension des éléments essentiels et/ou de certains détails, voire à faire part de ses réactions si la compréhension est satisfaisante.
+Dans un premier temps, le candidat rendra compte de façon autonome de ce qu'il a compris (5 minutes environ)
 
-B. Contrôle en cours de formation
+Puis suivra un entretien destiné à l'amener à préciser certains points, à s'assurer de la compréhension des éléments essentiels et/ou de certains détails, voire à faire part de ses réactions si la compréhension est satisfaisante.
 
-Il est constitué de trois situations d'évaluation correspondant aux activités langagières évaluées en épreuve ponctuelle : compréhension de l'écrit, production et interaction écrites, compréhension et production orales.
+A . Contrôle en cours de formation :
 
-Première situation d'évaluation
+Il est constitué de deux situations d'évaluation de poids équivalent, subdivisées pour chacune en compréhension et production
 
-Compréhension et expression orales : même définition que pour l'épreuve ponctuelle.
+1ère situation d'évaluation :
 
-Durée 20 minutes, préparation 20 minutes.
+Evaluation de l'écrit : durée 3 h maximum
 
-Coefficient 2 pour la langue A, dite de spécialité, et coefficient 3 pour la langue B.
+1) Compréhension : Rédiger en français, sur la base d'un texte ou d'un dossier à caractère économique ou commercial en langue étrangère dont la longueur n'excèdera pas le tiers du document original, un compte rendu restituant les éléments essentiels (sur 20)
 
-Deuxième situation d'évaluation
+2 ) Expression : rédiger un développement sur un sujet proposé, lié ou non à la thématique du texte ou des textes supports pour la compréhension, un texte argumenté de façon méthodique (avantages et inconvénients, justifications pour ou contre, idées principales et secondaires) n'excédant pas 300 mots. Le sujet sera en rapport avec le domaine professionnel. (sur 15)
 
-Production et interaction écrites : durée 1h30
-
-Coefficient 1
-
-- Expression écrite : rédiger en développement d'un sujet proposé, un texte argumenté de façon méthodique (avantages et inconvénients, justifications pour ou contre, idées principales et secondaires) n'excédant pas 300 mots.
-
-- Interaction écrite : élaboration en langue étrangère d'une lettre commerciale à partir d'éléments donnés en français.
+3 ) Interaction : élaboration en langue étrangère d'une lettre commerciale à partir d'éléments donnés en français. (sur 5)
 
 L'usage du dictionnaire unilingue est autorisé.
 
-Troisième situation d'évaluation
+2ème situation d'évaluation :
 
-Compréhension de l'écrit : durée 1h30 coefficient 1
+Evaluation de l'oral : durée de l'épreuve : 15 mn maximum avec 30 minutes de préparation.
 
-Rédiger en français un compte rendu faisant apparaître les idées essentielles à partir d'un texte ou d'un dossier à caractère économique ou commercial en langue étrangère dont la longueur n'excèdera pas 50 lignes.
+La compréhension porte sur des documents supports authentiques, audio ou vidéo
 
-Il conviendra de se reporter au texte général intitulé communication en langue vivante étrangère pour connaître le niveau d'exigence et les moyens de l'atteindre.
+Le titre du ou des enregistrements sera communiqué aux candidats.
+
+Longueur des enregistrements : Leur durée n'excèdera pas trois minutes maximum. Le recours à des documents authentiques nécessite parfois de sélectionner des extraits un peu plus longs (d'où la limite supérieure fixée à 3 minutes) afin de ne pas procéder à la coupure de certains éléments qui facilitent la compréhension plus qu'ils ne la compliquent. Dans le cas de deux documents (longueur d'enregistrement maximale de 3 minutes pour les deux), on veillera à ce qu'ils soient de nature différente : dialogue et monologue. Il y aura deux passages du document sonore, eux-mêmes espacés de 2 mn.
+
+Nature des supports : Les documents enregistrés audio ou vidéo seront de nature à intéresser un étudiant de commerce international sans toutefois présenter une technicité excessive. On peut citer en exemple les documents relatifs à l'emploi (recherche, recrutement, relations professionnelles....) à l'environnement économique, à la vie en entreprise ... Il pourra s'agir de monologues, dialogues, discours, discussions, commentaires de journaux télévisés, émissions de radio. Il ne s'agira en aucune façon d'écrit oralisé ni d'enregistrements issus de manuels.
+
+Déroulement de l'épreuve (durée 15 mn maximum)
+
+compréhension
+
+Dans un premier temps, le candidat rendra compte de façon autonome et en français de ce qu'il a compris (5 minutes au maximum ; note sur 10)
+
+Production (prise de parole en continu)
+
+Le candidat aura choisi un point d'intérêt dans le document, qu'il présentera ensuite plus précisément à l'examinateur en LVE (5 minutes au maximum ; note sur 15). Lors de ces deux premières phases, celui-ci n'interrompt pas le candidat.
+
+Production (interaction) : l'examinateur prend ensuite la parole pour engager avec le candidat un dialogue relatif au sujet abordé. (5mn maximum; note sur 15)
 
 E3 - Économie, droit, management des entreprises
 
