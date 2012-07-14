@@ -656,7 +656,6 @@
 - [Arrêté du 13 avril 2012 (DEVA1220271A)](arrete-du-13-avril-2012-deva1220271a)
 - [Arrêté du 13 avril 2012 (DEVA1220392A)](arrete-du-13-avril-2012-deva1220392a)
 - [Arrêté du 13 avril 2012 (DEVL1205523A)](arrete-du-13-avril-2012-devl1205523a)
-- [Arrêté du 13 avril 2012 (ETSS1209475A)](arrete-du-13-avril-2012-etss1209475a)
 - [Arrêté du 13 avril 2012 (JUST1220534A)](arrete-du-13-avril-2012-just1220534a)
 - [Arrêté du 13 avril 2012 (LOGL1209283A)](arrete-du-13-avril-2012-logl1209283a)
 - [Arrêté du 13 avril 2012 (MAEA1220481A)](arrete-du-13-avril-2012-maea1220481a)
