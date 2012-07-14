@@ -2,7 +2,7 @@
 
 Le conseil d'administration se réunit au moins deux fois par an, sur convocation de son président. En outre, il peut se réunir en séance extraordinaire, à l'initiative du président, du directeur ou à la demande de la moitié au moins de ses membres. L'ordre du jour, établi par le président en accord avec le directeur, est notifié aux membres du conseil au moins huit jours à l'avance.
 
-En cas d'empêchement, les membres du conseil d'administration autres que les membres de droit peuvent donner procuration à un membre du conseil appartenant à la même catégorie. Nul ne peut détenir plus d'une procuration.
+En cas d'empêchement, les membres du conseil d'administration peuvent donner procuration à un membre du conseil appartenant à la même catégorie. Nul ne peut détenir plus d'une procuration.
 
 Le conseil ne peut valablement délibérer que si la moitié au moins de ses membres en exercice est présente ou représentée. Si le quorum n'est pas atteint à l'ouverture de la séance, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de quinze jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés.
 
