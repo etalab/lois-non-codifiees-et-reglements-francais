@@ -264,6 +264,8 @@
 - [Décret n°2012-471 du 11 avril 2012 (EFIT1135465D)](decret-n2012-471-du-11-avril-2012-efit1135465d)
 - [Décret n°2012-472 du 11 avril 2012 (ETSD1132799D)](decret-n2012-472-du-11-avril-2012-etsd1132799d)
 - [Décret n°2012-474 du 11 avril 2012 (SPOV1132848D)](decret-n2012-474-du-11-avril-2012-spov1132848d)
+- [Décret n°2012-873 du 11 juillet 2012 (ESRS1226792D)](decret-n2012-873-du-11-juillet-2012-esrs1226792d)
+- [Décret n°2012-874 du 11 juillet 2012 (OMEO1207832D)](decret-n2012-874-du-11-juillet-2012-omeo1207832d)
 - [Décret n°93-38 du 11 janvier 1993 (INDA9201010D)](decret-n93-38-du-11-janvier-1993-inda9201010d)
 - [Décret n°2005-1269 du 12 octobre 2005 (INTE0500249D)](decret-n2005-1269-du-12-octobre-2005-inte0500249d)
 - [Décret n°2012-349 du 12 mars 2012 (JUST1200635D)](decret-n2012-349-du-12-mars-2012-just1200635d)
