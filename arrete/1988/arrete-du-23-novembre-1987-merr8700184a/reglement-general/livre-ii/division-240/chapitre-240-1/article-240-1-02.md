@@ -46,7 +46,7 @@ Les définitions suivantes sont utilisées pour l'application de la présente di
 
 13. Navire à sustentation : aéroglisseur, navion, ou tout autre navire conçu pour évoluer à proximité de la surface de l'eau, sans contact avec cette dernière, et à une altitude inférieure à la longueur de coque de l'engin. Cette définition exclut les hydroptères, portés par des foils en contact avec l'eau.
 
-14. Voiliers : navires conformes à la définition du paragraphe 14 de l'article 110-1.02.
+14. Voiliers : navires conformes à la définition du paragraphe 14 de l'article 110-2.
 
 15. Espace habitable : espace fermé dont l'accès et le volume permettent d'abriter au moins une personne, indépendamment de la nature des aménagements qu'il peut contenir.
 
@@ -57,3 +57,5 @@ Les définitions suivantes sont utilisées pour l'application de la présente di
 18. Organismes notifiés : les organismes notifiés sont ceux qui sont habilités en application des dispositions du décret n° 96-611 du 4 juillet 1996 modifié, relatif à la mise sur le marché des bateaux de plaisance et des pièces et éléments d'équipement.
 
 19. Abri : tout lieu où un navire peut soit accoster soit mouiller en sécurité.
+
+20. Engin à sustentation hydropropulsé : engin utilisant la réaction d'un écoulement d'eau pour s'élever et se déplacer au-dessus de la surface du plan d'eau (mer, rivière, lac) à partir duquel il s'alimente. L'élément mécanique qui communique à l'eau l'énergie nécessaire à sa mise en mouvement peut être incorporé à l'engin proprement dit ou supporté par un flotteur.

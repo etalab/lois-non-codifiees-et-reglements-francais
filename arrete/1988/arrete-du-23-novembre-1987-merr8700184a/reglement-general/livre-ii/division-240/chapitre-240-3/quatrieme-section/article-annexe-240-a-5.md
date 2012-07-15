@@ -22,7 +22,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un équipement individuel de flottabilité par personne embarquée (ou combinaison portée)</p>
+<p align="left">Un équipement individuel de flottabilité par personne embarquée (ou combinaison portée)</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -36,7 +36,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>1 moyen de repérage lumineux</p>
+<p align="left">1 moyen de repérage lumineux</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -50,7 +50,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un dispositif de repérage et d'assistance pour personne tombée à l'eau (sauf les embarcations de capacité inférieure à 5 adultes et tous pneumatiques)</p>
+<p align="left">Un dispositif de repérage et d'assistance pour personne tombée à l'eau (sauf les embarcations de capacité inférieure à 5 adultes et tous pneumatiques)</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -64,7 +64,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un moyen de remonter à bord pour une personne tombée à l'eau</p>
+<p align="left">Un moyen de remonter à bord pour une personne tombée à l'eau</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -78,7 +78,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un harnais par personne à bord d'un voilier</p>
+<p align="left">Un harnais par personne à bord d'un voilier</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -92,7 +92,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>1 harnais par navire non-voilier</p>
+<p align="left">1 harnais par navire non-voilier</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -106,7 +106,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un dispositif de sécurité pour couper l'allumage ou les gaz en cas d'éjection du pilote (si moteur hors-bord à barre franche &gt; 4,5 kW ou véhicules nautiques à moteur)</p>
+<p align="left">Un dispositif de sécurité pour couper l'allumage ou les gaz en cas d'éjection du pilote (si moteur hors-bord à barre franche &gt; 4,5 kW ou véhicules nautiques à moteur)</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -120,7 +120,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>1 miroir de signalisation</p>
+<p align="left">1 miroir de signalisation</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -134,7 +134,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>3 feux rouges automatiques à main</p>
+<p align="left">3 feux rouges automatiques à main</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -148,7 +148,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>1 moyen de signalisation sonore</p>
+<p align="left">1 moyen de signalisation sonore</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -162,7 +162,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>3 fusées à parachute, ou bien une installation radio VHF/ASN</p>
+<p align="left">3 fusées à parachute, ou bien une installation radio VHF/ASN</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -176,7 +176,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>2 fumigènes flottants, ou bien une installation radio VHF/ASN</p>
+<p align="left">2 fumigènes flottants, ou bien une installation radio VHF/ASN</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -190,7 +190,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Radeau(x) de survie ou annexe(s) de sauvetage</p>
+<p align="left">Radeau (x) de survie</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -204,7 +204,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un dispositif d'assèchement fixe ou mobile (navires avec espace habitable, et ceux non auto-videurs)</p>
+<p align="left">Un dispositif d'assèchement fixe ou mobile (navires avec espace habitable, et ceux non auto-videurs)</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -218,7 +218,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un dispositif de lutte contre l'incendie (sauf véhicules nautiques à moteur)</p>
+<p align="left">Un dispositif de lutte contre l'incendie (sauf véhicules nautiques à moteur)</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -232,7 +232,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Une ligne de mouillage ou une ancre flottante (sauf embarcations de capacité inférieure à 5 adultes)</p>
+<p align="left">Une ligne de mouillage ou une ancre flottante (sauf embarcations de capacité inférieure à 5 adultes)</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -246,7 +246,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un dispositif permettant le remorquage : point d'accrochage et bout de remorquage (sauf planches à voile et aérotractées)</p>
+<p align="left">Un dispositif permettant le remorquage : point d'accrochage et bout de remorquage (sauf planches à voile et aérotractées)</p>
 </td>
 <td valign="top" width="76">
 <p align="center">X</p>
@@ -260,7 +260,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Un dispositif permettant de recevoir les prévisions météorologiques marine à bord</p>
+<p align="left">Un dispositif permettant de recevoir les prévisions météorologiques marine à bord</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -274,7 +274,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Le pavillon national</p>
+<p align="left">Le pavillon national</p>
 </td>
 <td valign="top" width="76">
 <p align="center">si francisé</p>
@@ -288,7 +288,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>1 compas magnétique</p>
+<p align="left">1 compas magnétique</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -302,7 +302,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Carte(s) de navigation</p>
+<p align="left">Carte(s) de navigation</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -316,7 +316,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Le matériel permettant de faire le point, de tracer et de suivre une route</p>
+<p align="left">Le matériel permettant de faire le point, de tracer et de suivre une route</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -330,7 +330,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Règlement international pour prévenir les abordages en mer (RIPAM)</p>
+<p align="left">Règlement international pour prévenir les abordages en mer (RIPAM)</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -344,7 +344,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Balisage</p>
+<p align="left">Balisage</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -358,7 +358,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Livre des feux</p>
+<p align="left">Livre des feux</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -372,7 +372,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Annuaire des marées ou équivalent (sauf en Méditerranée)</p>
+<p align="left">Annuaire des marées ou équivalent (sauf en Méditerranée)</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -386,7 +386,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Journal de bord</p>
+<p align="left">Journal de bord</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -400,7 +400,7 @@ Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'arm
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Boîte de secours</p>
+<p align="left">Boîte de secours</p>
 </td>
 <td valign="top" width="76">
 <br/>

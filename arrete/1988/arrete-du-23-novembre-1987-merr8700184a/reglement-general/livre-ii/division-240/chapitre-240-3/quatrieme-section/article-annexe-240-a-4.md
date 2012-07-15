@@ -8,32 +8,26 @@ Registre de vérification spéciale
 <td valign="top" width="227">
 <p align="center">Nom du navire</p>
 </td>
-<td valign="top" width="454">
-<br/>
-</td>
+<td valign="top" width="454"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p align="center">Immatriculation</p>
 </td>
-<td valign="top" width="454">
-<br/>
-</td>
+<td valign="top" width="454"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p align="center">Propriétaire (cachet de l'organisme)</p>
 </td>
-<td valign="top" width="454">
-<br/>
-</td>
+<td valign="top" width="454"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p align="center">Activité</p>
 </td>
 <td valign="top" width="454">
-<p> Formation  Location</p>
+<p align="left"> Formation  Location</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +35,7 @@ Registre de vérification spéciale
 <p align="center">Armement</p>
 </td>
 <td valign="top" width="454">
-<p> Basique  Côtier  Hauturier</p>
+<p align="left"> Basique  Côtier  Hauturier</p>
 </td>
 </tr>
 </tbody>
@@ -197,7 +191,6 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -218,106 +211,70 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Inspection visuelle extérieure coque &amp; pont</p>
+<p align="left">Inspection visuelle extérieure coque &amp; pont</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Inspection visuelle intérieure structure</p>
+<p align="left">Inspection visuelle intérieure structure</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fonctionnement panneau(x) &amp; hublot(s)</p>
+<p align="left">Fonctionnement panneau(x) &amp; hublot(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Intégrité liaison coque/pont</p>
+<p align="left">Intégrité liaison coque/pont</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État davier(s)de mouillage</p>
+<p align="left">État davier(s)de mouillage</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État bitte(s) d'amarrage</p>
+<p align="left">État bitte(s) d'amarrage</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p>Lisibilité plaque signalétique</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fonctionnement passe-coque(s)</p>
+<p align="left">Fonctionnement passe-coque(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fonctionnement vanne(s)</p>
+<p align="left">Fonctionnement vanne(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
@@ -344,99 +301,70 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Carénage</p>
+<p align="left">Carénage</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Changement anode(s)</p>
+<p align="left">Changement anode(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Passe-coque</p>
+<p align="left">Passe-coque</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Vanne(s) machine(s)</p>
+<p align="left">Vanne(s) machine(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Vanne(s) aménagement(s) intérieur(s)</p>
+<p align="left">Vanne(s) aménagement(s) intérieur(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Étanchéité panneau(x) &amp; hublot(s)</p>
+<p align="left">Étanchéité panneau(x) &amp; hublot(s)</p>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
 <td colspan="4" width="680">
-<p>Matériel d'armement et de sécurité</p>
+<p align="left">Matériel d'armement et de sécurité</p>
 </td>
 </tr>
 <tr>
@@ -452,12 +380,101 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td colspan="4" width="680">
-<p>Basique/côtier/hauturier</p>
+<p align="left">Basique/côtier/hauturier</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État des brassières/combinaisons</p>
+<p align="left">État des brassières/combinaisons</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Essai moyen de remontée à bord</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Essai coupe-circuit de propulsion</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Essai moyen(s) de rep. lumineux</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">État dispositif d'assèchement</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Validité moyen(s) lutte incendie</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">État dispositif de remorquage</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td colspan="4" width="680">
+<p align="left">Côtier/hauturier</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Essai du dispositif personne tombée à l'eau</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Validité 3 feux à main</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">État miroir de signalisation</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Essais VHF/GPS</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Ligne de mouillage à poste</p>
+</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="left">Pavillon national</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -468,7 +485,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai moyen de remontée à bord</p>
+<p align="left">Essai compas magnétique</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -479,7 +496,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai coupe-circuit de propulsion</p>
+<p align="left">Cartes marines de la zone</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -490,40 +507,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai moyen(s) de rep. lumineux</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>État dispositif d'assèchement</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Validité moyen(s) lutte incendie</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>État dispositif de remorquage</p>
+<p align="left">Validité pharmacie du bord</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -534,12 +518,12 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td colspan="4" width="680">
-<p>Côtier/hauturier</p>
+<p align="left">Hauturier</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai du dispositif personne tombée à l'eau</p>
+<p align="left">État des harnais</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -550,7 +534,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Validité 3 feux à main</p>
+<p align="left">Validité 3 fusées à parachute</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -561,7 +545,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État miroir de signalisation</p>
+<p align="left">Validité 2 fumigènes</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -572,7 +556,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essais VHF/GPS</p>
+<p align="left">Matériel pour la navigation</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -583,7 +567,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Ligne de mouillage à poste</p>
+<p align="left">Journal de bord</p>
 </td>
 <td colspan="2" valign="top" width="149">
 <br/>
@@ -594,118 +578,10 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Pavillon national</p>
+<p align="left">Système de réception météorologique</p>
 </td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Essai compas magnétique</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Cartes marines de la zone</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Validité pharmacie du bord</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="680">
-<p>Hauturier</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>État des harnais</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Validité 3 fusées à parachute</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Validité 2 fumigènes</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Matériel pour la navigation</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Journal de bord</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Système de réception météorologique</p>
-</td>
-<td colspan="2" valign="top" width="149">
-<br/>
-</td>
-<td valign="top" width="304">
-<br/>
-</td>
+<td colspan="2" valign="top" width="149"/>
+<td valign="top" width="304"/>
 </tr>
 <tr>
 <td colspan="4" valign="top" width="680">
@@ -714,7 +590,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Radeau classe II Plaisance</p>
+<p align="left">Radeau classe II Plaisance</p>
 </td>
 <td valign="top" width="148">
 <br/>
@@ -725,7 +601,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Radeau classe V Plaisance</p>
+<p align="left">Radeau classe V Plaisance</p>
 </td>
 <td valign="top" width="148">
 <br/>
@@ -736,18 +612,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Radeau EN/ISO 9650</p>
-</td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Annexe de sauvetage</p>
+<p align="left">Radeau NF/ISO 9650</p>
 </td>
 <td valign="top" width="148">
 <br/>
@@ -758,57 +623,38 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td colspan="4" width="680">
-<p>Autres matériels de sécurité</p>
+<p align="left">Autres matériels de sécurité</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
-<td valign="top" width="227">
-<br/>
-</td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="227"/>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -823,7 +669,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien équipement(s) individuel(s)</p>
+<p align="left">Entretien équipement(s) individuel(s)</p>
 </td>
 <td valign="top" width="148">
 <br/>
@@ -834,7 +680,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Renouvellement(s) pharmacie</p>
+<p align="left">Renouvellement(s) pharmacie</p>
 </td>
 <td valign="top" width="148">
 <br/>
@@ -845,7 +691,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Mise à jour carte(s) marine(s)</p>
+<p align="left">Mise à jour carte(s) marine(s)</p>
 </td>
 <td valign="top" width="148">
 <br/>
@@ -856,36 +702,33 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Visite périodique de chaque radeau :</p>
-<p>(Joindre une copie du rapport de visite)</p>
+<p align="left">Visite périodique de chaque radeau :</p>
+<p align="left">(Joindre une copie du rapport de visite)</p>
 </td>
 <td valign="top" width="148">
 <br/>
 </td>
 <td valign="top" width="305">
-<p>Organisme vérificateur :</p>
+<p align="left">Organisme vérificateur :</p>
 </td>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
-<br/>
-<br/>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
 <td colspan="3" width="680">
-<p>Gouvernail</p>
+<p align="left">Gouvernail</p>
 </td>
 </tr>
 <tr>
 <td width="227">
-<p align="center">Vérifications</p>
+<p align="left">Vérifications</p>
 </td>
 <td width="148">
 <p align="center">Date</p>
@@ -896,63 +739,43 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Absence de points durs</p>
+<p align="left">Absence de points durs</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p>Absence de jeu excessif</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Mise en œuvre système de secours</p>
+<p align="left">Mise en œuvre système de secours</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -967,72 +790,52 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Reprise des jeux excessifs</p>
+<p align="left">Reprise des jeux excessifs</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien pièce(s) de contact</p>
+<p align="left">Entretien pièce(s) de contact</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien élément(s) de transmission</p>
+<p align="left">Entretien élément(s) de transmission</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 <tr>
 <td colspan="3" width="680">
-<p>Propulsion</p>
+<p align="left">Propulsion</p>
 </td>
 </tr>
 <tr>
@@ -1048,107 +851,71 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essais mise en marche/arrêt</p>
+<p align="left">Essais mise en marche/arrêt</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Niveau(x) des fluides</p>
+<p align="left">Niveau(x) des fluides</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Tension et usure courroie(s)</p>
+<p align="left">Tension et usure courroie(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État filtre(s)</p>
+<p align="left">État filtre(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État hélice(s)&amp; tuyère(s)</p>
+<p align="left">État hélice(s)&amp; tuyère(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Débit circuit(s) refroidissement</p>
+<p align="left">Débit circuit(s) refroidissement</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État moyen(s) lancement de la propulsion</p>
+<p align="left">État moyen(s) lancement de la propulsion</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -1163,134 +930,94 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Vidange(s)</p>
+<p align="left">Vidange(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien crépine(s)</p>
+<p align="left">Entretien crépine(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-<br/>
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
 <td valign="top" width="227">
-<p>Graissage(s)</p>
+<p align="left">Graissage(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien organe(s) de transmission</p>
+<p align="left">Entretien organe(s) de transmission</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien hélice(s)/coupe-bout/anode</p>
+<p align="left">Entretien hélice(s)/coupe-bout/anode</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Mesure batterie démarrage</p>
+<p align="left">Mesure batterie démarrage</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
+<td valign="top" width="148"/>
 <td valign="top" width="105">
 <p>En volt :</p>
 </td>
-<td valign="top" width="200">
-<br/>
-</td>
+<td valign="top" width="200"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Mesure d'isolement au démarreur</p>
+<p align="left">Mesure d'isolement au démarreur</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
+<td valign="top" width="148"/>
 <td valign="top" width="105">
 <p>En ohm :</p>
 </td>
-<td valign="top" width="200">
-<br/>
-</td>
+<td valign="top" width="200"/>
 </tr>
 <tr>
 <td colspan="4" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td colspan="2" valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td colspan="2" valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="4" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
 <td colspan="3" width="680">
-<p>Mouillage</p>
+<p align="left">Mouillage</p>
 </td>
 </tr>
 <tr>
@@ -1306,74 +1033,50 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fixation navire/ligne : étalingure</p>
+<p align="left">Fixation navire/ligne : étalingure</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fixation ligne/ancre</p>
+<p align="left">Fixation ligne/ancre</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai guindeau</p>
+<p align="left">Essai guindeau</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Si mouillage de secours : idem</p>
+<p align="left">Si mouillage de secours : idem</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -1388,72 +1091,52 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien de la longueur de ligne</p>
+<p align="left">Entretien de la longueur de ligne</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien du guindeau</p>
+<p align="left">Entretien du guindeau</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien baille à mouillage</p>
+<p align="left">Entretien baille à mouillage</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 <tr>
 <td colspan="3" width="680">
-<p>Feux de signalisation</p>
+<p align="left">Feux de signalisation</p>
 </td>
 </tr>
 <tr>
@@ -1469,52 +1152,36 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai des feux de route et mouillage</p>
+<p align="left">Essai des feux de route et mouillage</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Intégrité du câblage électrique</p>
+<p align="left">Intégrité du câblage électrique</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -1529,45 +1196,33 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien source(s) lumineuse(s)</p>
+<p align="left">Entretien source(s) lumineuse(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>
@@ -1576,7 +1231,7 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 <tbody>
 <tr>
 <td colspan="3" width="680">
-<p>Assèchement</p>
+<p align="left">Assèchement</p>
 </td>
 </tr>
 <tr>
@@ -1592,85 +1247,57 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai alarme (s) montée d'eau</p>
+<p align="left">Essai alarme (s) montée d'eau</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Auto-amorçage rapide de(s) pompe(s)</p>
+<p align="left">Auto-amorçage rapide de(s) pompe(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État &amp; fixation des aspirations</p>
+<p align="left">État &amp; fixation des aspirations</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État tuyautage (s)</p>
+<p align="left">État tuyautage (s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Débit du refoulement</p>
+<p align="left">Débit du refoulement</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -1685,66 +1312,49 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien crépine (s)</p>
+<p align="left">Entretien crépine (s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien pompe (s)</p>
+<p align="left">Entretien pompe (s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
 <td colspan="3" width="680">
-<p>Gréements dormants</p>
+<p align="left">Gréements dormants</p>
 </td>
 </tr>
 <tr>
@@ -1760,107 +1370,69 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État et fixation ligne(s) de vie</p>
+<p align="left">État et fixation ligne(s) de vie</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État chandelier(s) balcon(s) garde-corps</p>
+<p align="left">État chandelier(s) balcon(s) garde-corps</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État et tension filière(s)</p>
+<p align="left">État et tension filière(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>État et tension haubanage(s)</p>
+<p align="left">État et tension haubanage(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p>Fixation portique(s) &amp; superstructure(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fixation bouée de sauvetage</p>
+<p align="left">Fixation bouée de sauvetage</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p>Fixation emplacement radeau de survie</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
-<td valign="top" width="227">
-<br/>
-</td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="227"/>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -1877,86 +1449,61 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 <td valign="top" width="227">
 <p>Entretien ligne(s) de vie</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <p>Entretien filière(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien haubanage(s)</p>
+<p align="left">Entretien haubanage(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien accastillage du pont</p>
+<p align="left">Entretien accastillage du pont</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres actions :</p>
+<p align="left">Autres actions :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
 <td colspan="3" width="680">
-<p>Gaz et électricité</p>
+<p align="left">Gaz et électricité</p>
 </td>
 </tr>
 <tr>
@@ -1972,140 +1519,92 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Etat réservoir(s) gaz</p>
+<p align="left">Etat réservoir(s) gaz</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Etat circuit(s) gaz</p>
+<p align="left">Etat circuit(s) gaz</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Péremption flexible(s) gaz</p>
+<p align="left">Péremption flexible(s) gaz</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Thermo-couple gaz</p>
+<p align="left">Thermo-couple gaz</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Fixation batteries électriques</p>
+<p align="left">Fixation batteries électriques</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Etiquetage tableaux électr.</p>
+<p align="left">Etiquetage tableaux électr.</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Chute(s) de tension(s)</p>
+<p align="left">Chute(s) de tension(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Essai coupe(s) circuit(s)</p>
+<p align="left">Essai coupe(s) circuit(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Protection contre surintensité(s)</p>
+<p align="left">Protection contre surintensité(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Intégrité du câblage électrique</p>
+<p align="left">Intégrité du câblage électrique</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Autres points vérifiés :</p>
+<p align="left">Autres points vérifiés :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td width="227">
@@ -2120,47 +1619,31 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien gaz par personne qualifiée</p>
+<p align="left">Entretien gaz par personne qualifiée</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien batterie(s)</p>
+<p align="left">Entretien batterie(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien élément(s) oxydé(s)</p>
+<p align="left">Entretien élément(s) oxydé(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Entretien isolement circuit(s)</p>
+<p align="left">Entretien isolement circuit(s)</p>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
@@ -2171,27 +1654,19 @@ Les modules de vérification pris en compte correspondent aux conditions d'utili
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td valign="top" width="227">
 <br/>
 </td>
-<td valign="top" width="148">
-<br/>
-</td>
-<td valign="top" width="305">
-<br/>
-</td>
+<td valign="top" width="148"/>
+<td valign="top" width="305"/>
 </tr>
 <tr>
 <td colspan="3" valign="top" width="680">
-<p>Observations et visa de l'autorité maritime</p>
+<p align="left">Observations et visa de l'autorité maritime</p>
 </td>
 </tr>
 </tbody>

@@ -16,7 +16,7 @@ Notice de remplissage de la déclaration de conformité d'un navire de plaisance
 
 aux dispositions de la division 240 du règlement relatif à la sécurité des navires
 
-1. Rayer la mention "M.", "Mme"ou "Mlle"inutile. Nom patronymique en majuscules, prénoms.
+1. Rayer la mention "M.", "Mme" inutile. Nom de famille en majuscules, prénoms.
 
 2. Format de date jj/mm/aa.
 
@@ -84,6 +84,8 @@ aux dispositions de la division 240 du règlement relatif à la sécurité des n
 
 34. Cocher cette case si le navire a été modifié pour admettre un chargement maximal différent de la valeur initiale.
 
-35. Cocher cette case si le nombre de personnes pouvant être embarquées a été modifié. 36. Signature de la personne ayant rempli le champ n° 1.
+35. Cocher cette case si le nombre de personnes pouvant être embarquées a été modifié. 36.
 
-Les renseignements manuscrits sont portés à l'encre permanente et en lettres capitales. Les reproductions de signatures ne peuvent pas être prises en compte
+Signature de la personne ayant rempli le champ n° 1.
+
+Les renseignements manuscrits sont portés à l'encre permanente et en lettres capitales. Les reproductions de signatures ne peuvent pas être prises en compte.

@@ -80,7 +80,7 @@ B. - Fournir les plans et documents suivants :
 
 16. Moyens d'assèchement
 
-17. Emplacement de chaque radeau pneumatique de sauvetage
+17. Emplacement de chaque radeau de survie gonflable
 
 18. Moyens d'évacuation des locaux
 

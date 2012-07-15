@@ -10,7 +10,7 @@ Le matériel d'armement et de sécurité hauturier comprend les éléments suiva
 
 3. Deux fumigènes flottants conformes aux dispositions de la division 311. Toutefois, sous la responsabilité du chef de bord, ce matériel n'est pas requis lorsque le navire embarque une installation de radiocommunication sur ondes métriques (VHF), conforme aux exigences de l'article 240-3.18 ;
 
-4. Un ou plusieurs radeaux pneumatiques de sauvetage, ou annexes de sauvetage, adaptés au nombre de personnes à bord et à la navigation pratiquée, et conformes aux dispositions de l'article 240-3.16 ;
+4. Un ou plusieurs radeaux de survie gonflables, adaptés au nombre de personnes à bord et à la navigation pratiquée, et conformes aux dispositions de l'article 240-3.16 ;
 
 5. Le matériel permettant de faire le point, de tracer et de suivre une route ;
 
