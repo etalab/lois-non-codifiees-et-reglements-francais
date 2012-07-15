@@ -2679,7 +2679,6 @@
 - [Arrêté du 28 juin 2011 (JUSF1117952A)](arrete-du-28-juin-2011-jusf1117952a)
 - [Arrêté du 28 juin 2011 (MAEA1115962A)](arrete-du-28-juin-2011-maea1115962a)
 - [Arrêté du 28 juin 2011 (MCCB1117762A)](arrete-du-28-juin-2011-mccb1117762a)
-- [Arrêté du 28 juin 2011 (MENF1116983A)](arrete-du-28-juin-2011-menf1116983a)
 - [Arrêté du 28 mars 2011 (AGRT1106235A)](arrete-du-28-mars-2011-agrt1106235a)
 - [Arrêté du 28 mars 2011 (BCRE1108697A)](arrete-du-28-mars-2011-bcre1108697a)
 - [Arrêté du 28 mars 2011 (DEFH1100284A)](arrete-du-28-mars-2011-defh1100284a)
