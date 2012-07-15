@@ -1,0 +1,3 @@
+# Article 1
+
+La 24e édition de l'épreuve pédestre dénommée « La France en courant », organisée par le comité d'organisation de « La France en courant », est autorisée à se dérouler du 14 au 28 juillet 2012, conformément aux modalités exposées dans la demande susvisée et amendées dans le département de l'Allier (*), sur un parcours qui traverse les départements suivants : Allier, Aveyron, Cantal, Charente, Charente-Maritime, Cher, Eure, Haute-Garonne, Gers, Gironde, Indre, Indre-et-Loire, Landes, Loir-et-Cher, Haute-Loire, Lot, Lot-et-Garonne, Orne, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Sarthe, Deux-Sèvres, Tarn, Tarn-et-Garonne, Vienne.
