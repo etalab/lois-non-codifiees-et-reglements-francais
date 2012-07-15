@@ -4,7 +4,7 @@
 
 La qualification nationale de vol aux instruments avion F/ N-IR (A) peut être délivrée aux candidats qui satisfont aux exigences générales de l'annexe à l'arrêté du 29 mars 1999, à l'exception des dispositions particulières d'adaptation qui sont déterminées par le présent arrêté.
 
-La qualification nationale de vol aux instruments avion F/ N-IR (A), délivrée selon ces conditions, ne peut être apposée que sur une licence de pilote privé avion (PPL-A). Cette qualification ne peut en aucun cas être apposée ou reportée sur une licence professionnelle de pilote.
+La qualification nationale de vol aux instruments avion F/ N-IR (A), délivrée selon ces conditions, est restreinte à l'exercice des privilèges d'une licence de pilote privé avion.
 
 Les privilèges du titulaire d'une qualification nationale de vol aux instruments (avion) F/ N-IR (A) permettent d'agir sans rémunération comme pilote aux commandes (PIC) dans l'espace aérien français sur des avions relevant des qualifications de classe monomoteur ou multimoteurs à piston terrestre (SEP-T ou MEP-T), en régime IFR conformément à la réglementation technique applicable, en exploitation non commerciale.
 
@@ -12,7 +12,7 @@ La formation à la qualification nationale de vol aux instruments avion F/ N-IR 
 
 2. Organismes de formation
 
-La formation théorique et au vol, en vue de la délivrance d'une qualification nationale de vol aux instruments (avion) F/ N-IR (A), doit être dispensée dans un organisme approuvé de formation au vol (FTO) dans les conditions prévues à l'appendice 1 au paragraphe FCL 1 055 et, pour les cours modulaires théoriques dispensés à distance, selon les conditions prévues à l'appendice 3 au FCL 1 055 de l'annexe à l'arrêté du 29 mars 1999 susvisé.
+La formation théorique et au vol, en vue de la délivrance d'une qualification nationale de vol aux instruments (avion) F/ N-IR (A), doit être dispensée dans un organisme approuvé de formation au vol (FTO) dans les conditions prévues à l'appendice 1 (a) au paragraphe FCL 1.055 et, pour les cours modulaires théoriques dispensés à distance, selon les conditions prévues à l'appendice 3 au FCL 1.055 de l'annexe à l'arrêté du 29 mars 1999 susvisé.
 
 Toutefois, pour l'application du paragraphe 8 de l'appendice 1 a au FCL 1 055, l'organisme de formation au vol (FTO) peut conclure des accords avec des instructeurs extérieurs à l'organisme, habilités à dispenser de l'instruction (FI extension IR ou IRI), sous réserve que dix heures de formation au minimum soient réalisées au sein du FTO.
 
@@ -116,9 +116,9 @@ Une instruction du ministre chargé de l'aviation civile précise les contenus a
 </table>
 </div>
 
-4. Délivrance d'une qualification F/ N-IR (A) conforme aux dispositions de l'arrêté du 29 mars 1999
+4. Délivrance d'une qualification IR (A) conforme aux dispositions de l'arrêté du 29 mars 1999 (FCL 1)
 
-(FCL 1) pour les titulaires d'une qualification nationale de vol aux instruments N-IR (A)
+pour les titulaires d'une qualification nationale de vol aux instruments F/ N-IR (A)
 
 Le titulaire d'une qualification nationale de vol aux instruments (avion) F/ N-IR (A) obtenue conformément aux dispositions du présent arrêté peut se voir délivrer une qualification de vol aux instruments (avion) IR (A) conforme aux dispositions de la sous-partie E de l'annexe à l'arrêté du 29 mars 1999 (FCL 1) susvisé, dès lors qu'après avoir été évalué dans un organisme de formation au vol FTO et avoir satisfait aux exigences complémentaires de formation éventuellement proposées par cet organisme il satisfait :
 
