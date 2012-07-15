@@ -112,4 +112,18 @@ Jusqu'au 15 juin 2017 :
 
 Paris - Oujda (Maroc).
 
+Jusqu'au 29 juin 2017 :
+
+Lyon - Marrakech (Maroc) ;
+
+Bordeaux - Dakar (Sénégal) ;
+
+Lyon - Dakar (Sénégal) ;
+
+Nantes - Dakar (Sénégal) ;
+
+Paris - Dakar (Sénégal) ;
+
+Toulouse - Dakar (Sénégal).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.

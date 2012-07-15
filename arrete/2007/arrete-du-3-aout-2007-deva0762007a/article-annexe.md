@@ -145,3 +145,9 @@ Pointe-à-Pitre - Puerto Plata ;
 Pointe-à-Pitre - Punta Cana ;
 
 Pointe-à-Pitre - Saint-Domingue.
+
+Jusqu'au 29 juin 2017 :
+
+Paris - Dzaoudzi (Mayotte) ;
+
+Paris - Dakar (Sénégal).
