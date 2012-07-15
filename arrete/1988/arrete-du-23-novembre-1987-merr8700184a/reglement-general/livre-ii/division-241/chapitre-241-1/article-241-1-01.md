@@ -2,7 +2,7 @@
 
 Champ d'application
 
-I. - Les dispositions de la présente division sont applicables aux navires de plaisance à utilisation collective dont la longueur de coque est inférieure à 24 m.
+I. - Les dispositions de la présente division sont applicables aux navires de plaisance à utilisation commerciale dont la longueur de coque est inférieure à 24 mètres.
 
 II. - Aucun navire visé par la présente division ne transporte de cargaison, hormis son avitaillement, les rechanges nécessaires à son exploitation et les bagages des personnes embarquées.
 

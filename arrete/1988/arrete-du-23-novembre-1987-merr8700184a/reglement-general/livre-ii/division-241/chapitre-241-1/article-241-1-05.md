@@ -1,8 +1,8 @@
 # Article 241-1.05
 
-Approbation des plans et documents des navires à utilisation collective
+Approbation des plans et documents des navires de plaisance à utilisation commerciale
 
-I. - Les plans et documents des navires à utilisation collective sont soumis à l'examen de la commission d'étude compétente, préalablement à leur approbation et à leur mise en service. Ils sont également adressés au chef du centre de sécurité des navires chargé de la mise en service.
+I. - Les plans et documents des navires de plaisance à utilisation commerciale sont soumis à l'examen de la commission d'étude compétente, préalablement à leur approbation et à leur mise en service. Ils sont également adressés au chef du centre de sécurité des navires chargé de la mise en service.
 
 II. - La liste des plans et documents à fournir figure dans l'annexe 240-A.3. Toutefois, en application du décret du 4 juillet 1996 précité et à condition que le navire n'ait pas fait l'objet de modifications postérieurement à l'examen :
 

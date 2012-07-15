@@ -2,7 +2,7 @@
 
 Conformité des navires
 
-I. - A partir de leur première mise en service pour l'utilisation collective, les navires visés par la présente division sont conformes aux dispositions de la division 240 applicables aux navires exclus du marquage "CE", et ce même s'ils ont déjà été mis en service en tant que navires de plaisance à usage personnel. Toutefois :
+I. - A partir de leur première mise en service pour l'utilisation commerciale, les navires visés par la présente division sont conformes aux dispositions de la division 240 applicables aux navires exclus du marquage "CE", et ce même s'ils ont déjà été mis en service en tant que navires de plaisance à usage personnel. Toutefois :
 
 1° Les dispositions des articles 240-2.04 et 240-2.06 n'ont pas à être appliquées ;
 

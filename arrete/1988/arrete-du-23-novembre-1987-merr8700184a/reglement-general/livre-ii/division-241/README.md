@@ -1,4 +1,4 @@
-# Division 241 : Navires de plaisance de longueur de coque inférieure à 24 m, à utilisation collective.
+# Division 241 : Navires de plaisance de longueur de coque inférieure à 24 mètres, à utilisation commerciale
 
 - [Chapitre 241-1 : Dispositions générales.](chapitre-241-1)
 - [Chapitre 241-2 : Compléments d'armement et de sécurité.](chapitre-241-2)

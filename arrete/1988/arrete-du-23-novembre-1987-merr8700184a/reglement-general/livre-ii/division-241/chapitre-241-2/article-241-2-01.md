@@ -2,7 +2,7 @@
 
 Matériel d'armement et de sécurité
 
-I. - Un navire dispose à son bord du matériel d'armement et de sécurité côtier dans le cas d'une navigation n'excédant pas les limites de la quatrième catégorie, ou du matériel d'armement et de sécurité hauturier dans les autres cas. La dispense d'embarquement d'un radeau de sauvetage prévue au paragraphe II de l'article 240-3.11 n'est pas appliquée aux navires à utilisation collective.
+I. - Un navire dispose à son bord du matériel d'armement et de sécurité côtier dans le cas d'une navigation n'excédant pas les limites de la quatrième catégorie, ou du matériel d'armement et de sécurité hauturier dans les autres cas. La dispense d'embarquement d'un radeau de survie gonflable prévue au paragraphe II de l'article 240-3.11 n'est pas appliquée aux navires de plaisance à utilisation commerciale.
 
 II. - En outre, à l'exception des navires exploités à la journée, un navire dispose à son bord :
 
