@@ -1297,7 +1297,6 @@
 - [Arrêté du 23 janvier 2012 (ETSD1201070A)](arrete-du-23-janvier-2012-etsd1201070a)
 - [Arrêté du 23 janvier 2012 (ETSH1135326A)](arrete-du-23-janvier-2012-etsh1135326a)
 - [Arrêté du 23 janvier 2012 (MAEC1200298A)](arrete-du-23-janvier-2012-maec1200298a)
-- [Arrêté du 23 janvier 2012 (MAEF1200855A)](arrete-du-23-janvier-2012-maef1200855a)
 - [Arrêté du 23 janvier 2012 (MCCB1132913A)](arrete-du-23-janvier-2012-mccb1132913a)
 - [Arrêté du 23 juillet 2012 (MENH1209849A)](arrete-du-23-juillet-2012-menh1209849a)
 - [Arrêté du 23 mars 2012 (AGRT1201995A)](arrete-du-23-mars-2012-agrt1201995a)
