@@ -812,6 +812,7 @@
 - [Décret n°2010-1670 du 28 décembre 2010 (EFIS1020583D)](decret-n2010-1670-du-28-decembre-2010-efis1020583d)
 - [Décret n°2011-1201 du 28 septembre 2011 (DEVL1115876D)](decret-n2011-1201-du-28-septembre-2011-devl1115876d)
 - [Décret n°2011-1202 du 28 septembre 2011 (JUSC1122052D)](decret-n2011-1202-du-28-septembre-2011-jusc1122052d)
+- [Décret n°2011-126 du 28 janvier 2011 (MCCE1031467D)](decret-n2011-126-du-28-janvier-2011-mcce1031467d)
 - [Décret n°2011-1388 du 28 octobre 2011 (BCRZ1128144D)](decret-n2011-1388-du-28-octobre-2011-bcrz1128144d)
 - [Décret n°2011-1403 du 28 octobre 2011 (INDR1129119D)](decret-n2011-1403-du-28-octobre-2011-indr1129119d)
 - [Décret n°2011-1404 du 28 octobre 2011 (JUSA1120699D)](decret-n2011-1404-du-28-octobre-2011-jusa1120699d)
