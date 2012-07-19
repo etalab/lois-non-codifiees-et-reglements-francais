@@ -4,6 +4,8 @@ La phase d'admission des concours internes consiste en une audition par le jury 
 
 Cette audition débute par un exposé du candidat sur son parcours et son expérience professionnelle d'une durée maximale de dix minutes pour le recrutement des ingénieurs de recherche et de cinq minutes pour le recrutement dans les autres corps.
 
+Pour conduire cette audition, le jury dispose d'un curriculum vitae et d'une lettre de motivation établis par le candidat dans le délai fixé par l'arrêté portant ouverture du concours et conformément au modèle disponible sur le site internet du ministère de l'enseignement supérieur dédié aux inscriptions.
+
 La durée totale de l'audition est fixée à quarante-cinq minutes pour le recrutement des ingénieurs de recherche, à trente minutes pour le recrutement des ingénieurs d'études et des assistants ingénieurs, à vingt-cinq minutes pour le recrutement des techniciens et à vingt minutes pour le recrutement des adjoints techniques prévus par le décret du 31 décembre 1985 susvisé.
 
 Cette épreuve est affectée du coefficient 4.

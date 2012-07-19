@@ -2,7 +2,7 @@
 
 L'examen professionnel de sélection prévu à l'article 20 du décret du 31 décembre 1985 susvisé pour l'accès au grade d'ingénieur de recherche hors classe comporte l'étude par le jury d'un dossier constitué par chaque candidat et une conversation avec le jury.
 
-Le dossier, qui est déposé par le candidat dans les délais d'inscription fixés par l'arrêté mentionné à l'article 35 du présent arrêté, comprend :
+Le dossier, qui est déposé par le candidat dans les délais d'inscription fixés par l'arrêté mentionné à l'article 36 du présent arrêté, comprend :
 
 ― un curriculum vitae dactylographié de deux pages au plus établi par le candidat, décrivant les emplois occupés, les fonctions et responsabilités exercées, les formations suivies et les stages effectués ;
 
