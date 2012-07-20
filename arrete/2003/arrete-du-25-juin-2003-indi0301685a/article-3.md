@@ -1,9 +1,9 @@
 # Article 3
 
-L'imputation du pétrole brut dans chaque catégorie de produits opérée par le CPSSP sera inférieure ou égale aux quantités indiquées ci-dessous après application du coefficient d'équivalence :
+L'imputation du pétrole brut dans chaque catégorie de produits opérés par le CPSSP sera inférieure ou égale aux quantités indiquées ci-dessous après application du coefficient d'équivalence :
 
-- catégorie I : 1 000 000 tonnes ;
+Catégorie I : 800 000 tonnes ;
 
-- catégorie II : 2 100 000 tonnes ;
+Catégorie II : 3 200 000 tonnes ;
 
-- catégorie III : 200 000 tonnes.
+Catégorie III : 400 000 tonnes.
