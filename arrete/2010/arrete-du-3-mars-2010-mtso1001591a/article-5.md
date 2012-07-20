@@ -2,26 +2,20 @@
 
 Le jury comprend :
 
-― le directeur de l'administration générale et de la modernisation des services, président, ou son représentant ;
+- un président, exerçant ou ayant exercé les fonctions de membre d'une inspection générale interministérielle, ou membre ou ayant été membre du corps des tribunaux administratifs et des cours administratives d'appel ;
 
-― un inspecteur général des affaires sociales ;
+- trois agents du corps de l'inspection du travail, dont au moins un avec le grade de directeur du travail ;
 
-― le directeur général du travail ou son représentant ;
+- deux agents de catégorie A en fonctions dans les services centraux ou déconcentrés des ministères chargés du travail, de l'emploi ou de la formation professionnelle ;
 
-― le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
+- deux personnalités qualifiées.
 
-― le directeur de l'animation de la recherche, des études et des statistiques ou son représentant ;
+En cas de partage des voix, la voix du président est prépondérante.
 
-― deux membres au moins du corps de l'inspection du travail, dont au moins un directeur du travail ;
+Peuvent être désignés des correcteurs et des examinateurs associés, autorisés à participer aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées.
 
-― un ou plusieurs administrateurs civils ou chefs de bureau exerçant dans les services centraux des ministères chargés du travail ou de l'emploi ;
+Les membres du jury, correcteurs et examinateurs associés sont nommés par arrêté du ministre chargé du travail.
 
-― un administrateur civil ou chef de bureau exerçant dans les services centraux d'un autre ministère ;
+L'arrêté de nomination des membres de jury désigne un vice-président chargé de remplacer le président du jury en cas d'empêchement.
 
-― le cas échéant, une ou plusieurs personnalités qualifiées.
-
-Peuvent en outre être désignés des correcteurs et examinateurs spécialisés. Les examinateurs spécialisés peuvent participer aux délibérations du jury, avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées.
-
-Le jury est présidé par le directeur de l'administration générale et de la modernisation des services ou, en cas d'absence ou d'empêchement, par l'inspecteur général des affaires sociales ou, à défaut, par celui des membres présents qui a acquis le plus d'ancienneté dans le grade le plus élevé.
-
-Les membres du jury sont nommés par arrêté du ministre chargé du travail.
+Le jury peut, si nécessaire, et pour toute épreuve, se constituer en groupes d'examinateurs.

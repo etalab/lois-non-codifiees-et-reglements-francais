@@ -1,29 +1,21 @@
 # Article 8
 
-Le jury de chaque concours comprend :
+Le jury du concours externe et le jury du concours interne de recrutement des inspecteurs du travail comprennent chacun :
 
-- le directeur de l'administration générale et de la modernisation des services, président, ou son représentant ;
+- un président, exerçant ou ayant exercé les fonctions de membre d'une inspection générale interministérielle, ou membre ou ayant été membre du corps des tribunaux administratifs et des cours administratives d'appel ;
 
-- un inspecteur général des affaires sociales ;
+- trois agents du corps de l'inspection du travail, dont au moins un avec le grade de directeur du travail ;
 
-- le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
+- deux agents de catégorie A en fonctions dans les services centraux ou déconcentrés des ministères chargés du travail, de l'emploi ou de la formation professionnelle ;
 
-- le directeur général du travail ou son représentant ;
+- deux personnalités qualifiées.
 
-- le directeur de l'animation de la recherche, des études et des statistiques ou son représentant ;
+En cas de partage des voix, la voix du président est prépondérante.
 
-- un directeur adjoint du travail ;
+Peuvent être désignés des correcteurs et des examinateurs associés, autorisés à participer aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées.
 
-- un ou plusieurs directeurs du travail ;
+Les membres du jury, correcteurs et examinateurs associés sont nommés par arrêté du ministre chargé du travail. Ils peuvent être communs au concours externe et au concours interne.
 
-- un ou plusieurs administrateurs civils ou chefs de bureau exerçant dans les services centraux des ministères chargés du travail ou de l'emploi ;
+L'arrêté de nomination des membres de jury désigne un vice-président chargé de remplacer le président du jury en cas d'empêchement.
 
-- un administrateur civil ou chef de bureau exerçant dans les services centraux d'un autre ministère ;
-
-- une ou plusieurs personnalités qualifiées.
-
-Peuvent être désignés des correcteurs et examinateurs spécialisés. Les examinateurs spécialisés peuvent participer aux délibérations du jury, avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées.
-
-Chaque jury est présidé par le directeur de l'administration générale et de la modernisation des services ou, à défaut, par l'inspecteur général des affaires sociales.
-
-Les membres du jury sont nommés par arrêté du ministre chargé du travail. Ils peuvent être communs à différents concours.
+Le jury peut, si nécessaire, et pour toute épreuve, se constituer en groupes d'examinateurs.
