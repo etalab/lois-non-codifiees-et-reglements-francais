@@ -1,8 +1,8 @@
 # Article 10
 
-Pour l'application de l'article 22 du décret du 30 décembre 1983 susvisé, il est constitué un jury d'admission par discipline ou groupe de disciplines dont relève(nt) le ou les emplois à pourvoir.
+Pour l'application de l'article 22 du décret du 30 décembre 1983 susvisé, il est constitué un jury d'admission.
 
-Chaque jury comprend :
+Ce jury comprend :
 
 a) Le directeur de l'institut ou son représentant, président ;
 
