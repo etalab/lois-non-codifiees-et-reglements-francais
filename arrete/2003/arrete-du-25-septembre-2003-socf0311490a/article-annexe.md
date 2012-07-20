@@ -1,94 +1,76 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de technicien supérieur en conception industrielle, option systèmes mécaniques.
+Titre professionnel : technicien (ne) supérieur (e) en conception industrielle de systèmes mécaniques.
 
 Niveau : III.
 
 Code NSF : 251 n.
 
-Résumé du référentiel emploi
+Résumé du référentiel d'emploi
 
-Le technicien supérieur en conception industrielle, option systèmes mécaniques, appelé également « projeteur » après quelques années d'expérience, étudie et conçoit la partie mécanique des machines et des biens d'équipement.
+Le (la) technicien (ne) supérieur (e) en conception industrielle conçoit des systèmes mécaniques pour différents secteurs de l'industrie à partir d'un besoin formulé dans un cahier des charges définissant les fonctionnalités du produit et validé par le donneur d'ordre.
 
-En collaboration avec l'ingénieur d'études, le technicien supérieur en conception industrielle participe à l'élaboration et à la rédaction des cahiers des charges techniques du mécanisme à étudier.
+Pour concevoir son système mécanique, il (elle) met en œuvre les outils de la démarche qualité en conception industrielle. Il (elle) concentre ces efforts au niveau des études préliminaires, s'organise le plus en amont du processus de conception pour éviter des erreurs qui s'avéreraient fatales pour l'entreprise. Cette méthode de travail lui permet d'organiser sa recherche de solutions théoriques et technologiques pour finalement proposer le juste produit, évolutif, sécurisé, maintenable et facilement démontable, favorisant ainsi son recyclage.
 
-Après acceptation par le client du cahier des charges de l'étude, le projeteur recherche des solutions techniques et les propose au client. Cette recherche implique d'entrer en contact avec les fournisseurs potentiels pour le choix de composants dans les domaines mécanique, électrique, automatisme.
+A partir d'outils techniques dont il (elle) a la maîtrise, il (elle) optimise les performances du système mécanique, il (elle) définit également les conditions de mise en service pour obtenir des produits conformes au cahier des charges avec un nombre d'essais réduit, et il (elle) garantit la fiabilité ainsi que la capabilité du produit.
 
-Après avoir reçu l'accord du client sur le principe du mécanisme souhaité, il effectue des calculs de vérification des performances du mécanisme, manuellement ou sur ordinateur, afin d'optimiser la conception qu'il propose. Il réalise tous les plans et documents nécessaires à la poursuite de l'étude détaillée et à la mise en service de la machine.
+A l'issue de la phase d'étude, il (elle) réalise les dossiers de définition qui permettront aux unités de fabrication la production d'exemplaires conformes au dossier de définition de référence.
 
-Le technicien supérieur en conception industrielle, option systèmes mécaniques, travaille au sein d'un bureau d'études. Ses activités peuvent le conduire à des déplacements de courte ou longue durée chez un client. Il travaille principalement sur des ordinateurs, en utilisant des outils bureautiques et des logiciels d'aide à la conception, tels que le dessin et la conception assistés par ordinateur (DAO/CAO). Pour mener ces études, le technicien doit organiser et conduire des réunions techniques chez les clients ou les fournisseurs, gérer l'affaire, préparer des devis, rédiger des courriers professionnels et des documents techniques, voire encadrer d'autres techniciens.
+Ces dossiers comprennent les instructions nécessaires à la définition du produit, à savoir : des plans, des nomenclatures, des notices techniques qui précisent les ensembles mécaniques et les pièces mécaniques en vue de leur fabrication, de leur montage et de leur utilisation. Ceux-ci sont réalisés à l'aide de logiciels de CAO-DAO et bureautiques.
 
-Le travail est généralement réalisé au sein d'une équipe projet pluridisciplinaire comprenant plusieurs techniciens maîtrisant chacun des domaines précis. Le métier implique d'être méthodique, imaginatif, créatif et nécessite un esprit d'analyse et de curiosité. L'exercice du métier oblige de s'informer régulièrement sur les évolutions technologiques et économiques des composants mécaniques disponibles sur le marché.
+Il (elle) assure la veille technologique par la consultation permanente et régulière des banques de ressources technologiques, des normes, des catalogues, des tarifs des fournisseurs de composants mécaniques, des banques de matériaux, des revues professionnelles et il (elle) s'informe régulièrement sur les évolutions technologiques et les coûts des composants disponibles sur le marché.
 
-Secteurs d'activités ou types d'emploi accessibles
+Il (elle) travaille généralement au sein d'une équipe pluridisciplinaire, sous la responsabilité d'un chef de projet ou d'un responsable de bureau d'études, qui a en charge la répartition des tâches en fonction des compétences techniques et de la disponibilité de chacun. Ce responsable hiérarchique est à la fois l'interlocuteur principal et le support technique du (de la) technicien (ne) supérieur (e). Il (elle) est le garant de la cohérence du projet.
 
-par le détendeur du titre
+L'emploi s'exerce en bureau d'études, dans un cabinet d'ingénierie sous-traitant ou sur site chez le client et nécessite un travail en collaboration avec l'ensemble de l'équipe projet. Le (a) technicien (ne) supérieur (e) peut être amené (e) à être mobile géographiquement ou à pratiquer des horaires variables. Selon l'organisation de l'entreprise ou le secteur d'activité, il (elle) peut se trouver dans l'obligation de vivre sur le lieu de travail pendant la durée du projet. Dans ce cas, la fonction s'exerce avec une autonomie renforcée.
 
-Il peut exercer en sous-traitance dans un cabinet d'ingénierie ou être employé directement au sein du bureau d'études de l'entreprise dans le domaine de la machine spéciale ou dans des secteurs associant de la mécanique pour des produits tels que l'électroménager ou l'automobile, par exemple.
+Capacités attestées et descriptif des composantes de la certification
 
-Compétences attestées et descriptif
+1. Elaborer le dossier d'avant-projet d'un système mécanique
 
-des composantes de la certification
+Réaliser l'analyse fonctionnelle d'un mécanisme.
 
-1. Conduire et gérer un projet de systèmes mécaniques
+Rédiger le cahier des charges fonctionnel d'un produit industriel.
 
-en assurance qualité
+Proposer une ou plusieurs solutions conformes au cahier des charges fonctionnel.
 
-Préparer la configuration de l'étude d'un produit ou d'un bien d'équipement et gérer cette étude.
+2. Réaliser l'étude de systèmes mécaniques
 
-Organiser, conduire et animer des revues de projet d'un produit ou d'un bien d'équipement. Rédiger les comptes rendus et veiller à l'application des décisions prises.
+Réaliser l'analyse fonctionnelle d'un mécanisme.
 
-2. Elaborer les cahiers des charges fonctionnels
+Concevoir un système mécanique.
 
-Identifier les besoins fonctionnels et rédiger les fonctions.
+Améliorer les performances d'un système mécanique.
 
-Consulter le client sur une proposition de cahier des charges fonctionnel et rédiger les appels à variante.
+Réaliser des dessins d'ensembles de systèmes mécaniques.
 
-Rechercher, proposer des solutions technologiques pour vérifier la faisabilité technique et économique du cahier des charges fonctionnel.
+Réaliser des dessins de définition de pièces mécaniques.
 
-3. Concevoir et étudier des systèmes mécaniques destinés
+3. Mettre en œuvre des études de systèmes mécaniques en assurance qualité
 
-à une fabrication unitaire ou d'une petite série non répétitive
+Organiser et conduire une étude en assurance qualité.
 
-Concevoir et justifier la conception des différentes fonctions de guidage, liaison, ablocage... d'un mécanisme en utilisant des pièces normalisées ou des éléments standards et en créant des pièces très économiques à réaliser et à assembler.
+Planifier, contrôler et justifier l'avancement d'une étude.
 
-Réaliser une nomenclature chiffrée en coût d'achat des composants et des prestations. Donner les éléments nécessaires à la réalisation de devis du mécanisme et de l'étude de ce mécanisme.
+Estimer et maîtriser les coûts d'une étude.
 
-Rechercher, choisir et justifier les solutions technologiques permettant d'assurer les diverses fonctions d'une chaîne cinématique dans les délais et coûts imposés et faisant appel à des composants ou sous-ensembles du commerce.
+Justifier et argumenter une étude lors d'une revue de projet.
 
-Analyser une chaîne cinématique. Définir les caractéristiques de la cinématique et les spécifications des composants. Justifier la conception du mécanisme et présenter la solution en vue d'obtenir la validation par le client.
+Rédiger les spécifications techniques d'un produit manufacturé.
 
-4. Elaborer le cahier des charges de l'automatisation
+Elaborer le cahier des charges de l'automatisation d'un système mécanique.
 
-d'une machine ou d'un équipement destiné aux automaticiens
+Secteur d'activité ou types d'emploi accessibles par le détenteur du titre
 
-Analyser, approfondir et définir les cycles de fonctionnement de l'équipement. Choisir la technologie des actionneurs et de leur commande.
-
-Etablir les spécifications de l'automatisation, le dossier à remettre aux automaticiens et le dossier de justification des choix.
-
-Prendre en compte la sécurité des personnes et des biens lors de l'étude de l'automatisation d'un bien ou d'un équipement.
-
-5. Optimiser la conception de systèmes mécaniques
-
-et de produits
-
-Analyser et hiérarchiser les causes de défaillances potentielles ou d'insatisfaction d'un mécanisme.
-
-Etablir et rédiger les cahiers des charges techniques d'un produit, de pièces métalliques et plastiques compatibles avec les moyens d'industrialisation potentiellement envisageables.
-
-Faire une recherche de solutions potentielles d'optimisation d'un produit ou d'un bien.
-
-Justifier par écrit une conception et présenter la solution lors d'une revue de projet en vue d'obtenir la validation par le client.
+Il (elle) peut exercer dans un cabinet d'ingénierie travaillant en sous-traitance ou directement au sein du bureau d'études d'une entreprise du secteur de la mécanique dans des domaines tels que l'automobile, l'industrie agroalimentaire, la machine spéciale, la domotique, le ferroviaire, l'informatique, la construction navale, l'électroménager, etc.
 
 Code ROME :
 
-52 121 - Dessinateur-projeteur de la construction mécanique et du travail des métaux.
+H1203-Conception et dessin produits mécaniques.
 
 Réglementation de l'activité :
 
@@ -100,8 +82,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de la modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
