@@ -4,111 +4,133 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : mécanicien (ne) réparateur (trice) d'engins et de matériels "manutention" (ancien intitulé : mécanicien [ne] d'équipements et d'engins motorisés, option matériels de parcs et jardins, option machinisme agricole, option matériels de manutention).
+Titre professionnel : mécanicien (ne) réparateur (trice) de matériels agricoles et d'espaces verts option machinisme agricole, option parcs et jardins (ancien intitulé : mécanicien (ne) d'équipements et d'engins motorisés option matériels de parcs et jardins, option machinisme agricole, option matériels de manutention)
 
 Niveau : V.
 
-Code NSF : 252 r - Moteurs et mécanique auto.
+Code NSF : 252 r-Moteurs et mécanique auto.
 
 Résumé du référentiel d'emploi
 
-La finalité de cet emploi est de maintenir en état de fonctionnement les matériels de manutention et de levage pour optimiser la production.
+Option machinisme agricole
 
-Le (la) mécanicien (ne) réparateur (trice) de matériels de manutention réalise la maintenance, la réparation et le dépannage en atelier ou chez le client des différents matériels de manutention classés selon la recommandation de la CNAMTS en R 389. Il (elle) intervient sur les cinq catégories de matériels de manutention (transpalettes à conducteur porté, chariots tracteurs, chariots élévateurs frontal en porte-à-faux inférieur ou supérieur à 6 000 kg, chariots élévateurs à mât rétractable), ainsi que sur les plates-formes élévatrices mobiles de personnel (PEMP) selon la recommandation R 386.
+La finalité de cet emploi est de maintenir en état de fonctionnement les matériels agricoles et leurs équipements pour optimiser la production.
 
-Les performances et les différentes énergies utilisées par les matériels (électriques, GNV, GPL, diesel...) sur lesquels il (elle) intervient font appel à des connaissances qui intègrent des technologies de pointe dans les domaines : mécanique, électromécanique, électronique embarquée, hydraulique, multiplexage, informatique, entre autres. Il (Elle) exécute les opérations à partir d'un ordre de réparation sur lequel sont consignés les travaux à réaliser définis par son responsable hiérarchique à qui il (elle) rend compte des interventions réalisées.
+Le (la) professionnel (le) réalise la maintenance, la réparation et le dépannage des matériels agricoles en atelier ou chez le client. Il (elle) intervient sur de nombreuses familles de matériels et d'équipements agroalimentaires, pour les cultures céréalières par exemple : moissonneuse-batteuse, presses ramasseuses, matériels de préparation du sol, de traitement des cultures, au matériel d'élevage ou de cultures spécialisées (viticulture, arboriculture). Ces matériels et équipements sont sans cesse améliorés par le déploiement de dispositif de pilotage, de contrôle, d'asservissement, de confort et de sécurité. Ces systèmes et dispositifs combinent plusieurs technologies telles que la mécanique, l'électricité, l'électronique, l'hydraulique, la pneumatique dont le pilotage est souvent assuré par des systèmes informatiques embarqués. Lors d'interventions sur ces ensembles, il (elle) s'appuie sur l'utilisation d'appareils de contrôle et de réparation propres à chaque catégorie de matériels, ce qui nécessite la connaissance de leur fonctionnement en production. Dans le cadre de ses interventions, il (elle) réalise la mise au point du matériel neuf : montage, contrôle, essai, puis livraison et réglage chez le client. Il (elle) est amené (e) à effectuer du reconditionnement, des réparations de pièces usagées ou d'usure spécifique au matériel agricole par des opérations courantes de mécanique générale et de soudure.
 
-Lors d'interventions sur ces ensembles, il (elle) s'appuie sur l'utilisation d'appareils de contrôle et de réparation propres à chaque catégorie de matériels, ce qui nécessite la connaissance de leur fonctionnement en production.
+Pour réaliser ces opérations, le (la) mécanicien (ne) s'appuie sur une documentation technique qui précise les modes opératoires, les données techniques de contrôle, les réglages établis par le constructeur. Il (elle) possède les connaissances nécessaires pour interpréter la lecture de plans, de schémas de systèmes utilisant différentes sources d'énergie pour effectuer la réparation ou le dépannage de ces systèmes.
 
-Dans le cadre de ses interventions, il (elle) participe ou réalise la mise au point du matériel neuf : montage, contrôle, essai, puis livraison et réglage chez le client.
+Il (elle) exécute les opérations à partir d'un ordre de réparation sur lequel sont consignés les travaux à réaliser, définis par son responsable hiérarchique.
 
-Il (elle) effectue le montage, l'installation des accessoires de levée (fourche à palette, pince de manutention, godet, nacelle...) en mettant en œuvre des procédures et des moyens dédiés tout en respectant les consignes d'homologations établies par le constructeur.
+Il (elle) peut être amené (e) à se déplacer avec un VL ou VUL afin de se rendre chez des clients pour effectuer des interventions. Le permis de conduire B est nécessaire. Il (elle) dépanne les matériels d'après les consignes fixées par son responsable hiérarchique. Sur le site le (la) mécanicien (ne) localise plus précisément la panne et en fonction de la situation rencontrée, il (elle) intervient souvent par échange d'organes ou de composants.
 
-Il (elle) réalise l'entretien, les vérifications de conformité des matériels de levage et de manutention en lien avec les critères de la VGP (vérification générale périodique).
+Le (la) mécanicien (ne) s'adapte à l'environnement professionnel du monde agricole. La saisonnalité des travaux (ex : moissons) entraîne des pics d'activité, certaines interventions présentent un caractère d'urgence et le (la) mécanicien (ne) adapte sa méthode de travail. Il (elle) possède des qualités relationnelles, une bonne représentation des risques professionnels et une sensibilisation à la protection de l'environnement.
 
-Il (elle) effectue des réparations par des opérations courantes de mécanique générale et de soudure.
+Option parcs et jardins
 
-Pour réaliser ces opérations, le (la) mécanicien (ne) s'appuie sur une documentation technique qui précise les modes opératoires, les données techniques de contrôle, de réglages établis par le constructeur.
+La finalité de cet emploi est de maintenir en état de fonctionnement les matériels de parcs et jardins et leurs équipements pour optimiser la production. Le (la) professionnel (le) effectue à partir d'un ordre de réparation établi par son responsable hiérarchique, sur lequel sont consignés les travaux qu'il devra réaliser, des actions de maintenance préventive, les révisions périodiques préconisées par les constructeurs, la réparation et le dépannage des matériels de parcs et jardins en atelier ou chez le client. Il (elle) intervient sur de nombreuses familles de matériels et d'équipements : microtracteurs, motoculteurs, motobineuses, faucheuses, tondeuses, débroussailleuses, taille-haies, tronçonneuses, broyeurs, remorques, motopompes, groupes électrogènes, nettoyeur hp. La multiplicité, les performances de ces matériels et équipements demandent aux professionnels de posséder des savoirs multi-technologiques pour la compréhension du contexte de la maintenance. Lors des interventions, il (elle) s'appuie sur une documentation technique qui précise les modes opératoires, les données techniques de contrôle, de réglages établis par le constructeur, sur l'utilisation d'appareil de contrôle, de réparation et d'outillage propres à chaque catégorie de matériels. Cela nécessite la connaissance de leur fonctionnement en production : préparation des sols (labour, débroussaillage, ramassage et traitement des déchets...), espaces verts (tonte, scarifications, traitement phytosanitaire, irrigation...), jardinage (taille...), exploitation forestière (abattage, élagage, broyage...).
+
+Dans le cadre de ses interventions, il (elle) réalise la mise en service du matériel neuf : montage des matériels, équipements et accessoires, réglages, essai, livraison. Il (elle) effectue du reconditionnement, des réparations de pièces usagées ou d'usure spécifique aux matériels parcs et jardins par des opérations courantes de mécanique générale et de soudure.
+
+Il (elle) doit s'adapter à l'environnement professionnel du monde des espaces verts et forestiers. La saisonnalité des travaux (ex : la tonte des espaces verts...) entraîne des pics d'activité, certaines interventions présentent un caractère d'urgence et le (la) mécanicien (ne) doit adapter sa méthode de travail.
+
+Il (elle) peut être amené (e) à se déplacer avec un VL ou VUL pour se rendre chez un client. Le permis de conduire B est nécessaire. Il (elle) dépanne les matériels d'après les consignes fixées par son responsable hiérarchique. Sur le site, le (la) mécanicien (ne) localise plus précisément la panne et en fonction de la situation rencontrée, il (elle) intervient souvent par échange d'organes ou de composants.
 
 Il (elle) possède des qualités de communication, une bonne représentation des risques professionnels et une sensibilisation à la protection de l'environnement.
 
-Il (elle) doit s'adapter à de nouveaux matériels et technologies. Les horaires de travail nécessitent parfois des aménagements pour assurer le service (transporteurs, loueurs...).
+Capacités attestées et descriptif des composantes de la certification
 
-Il (elle) peut être amené (e) à se déplacer avec un VL ou VUL afin de se rendre chez des clients pour effectuer des interventions. Le permis de conduire B est nécessaire. Il (elle) dépanne les matériels d'après les consignes fixées par son responsable hiérarchique. Sur le site, le (la) mécanicien (ne) localise plus précisément la panne et, en fonction de la situation rencontrée, il (elle) intervient souvent par échange d'organes ou de composants.
+1. Assurer l'entretien et la maintenance de base des matériels
 
-Capacités attestées et descriptif
-
-des composantes de la certification
-
-1. Assurer l'entretien et la maintenance
-
-de base des engins et des matériels
-
-Prendre en charge un engin et un matériel pour réaliser les opérations d'entretien programmées
+Prendre en charge un matériel pour réaliser les opérations d'entretien programmé.
 
 Réparer des éléments assemblés vissés et pièces mécano-soudées.
 
-Manœuvrer les engins et les matériels en sécurité
+Manœuvrer les matériels en sécurité.
 
-Contrôler, remplacer, régler les équipements périphériques du moteur thermique des engins et matériels.
+Contrôler, remplacer, régler les équipements périphériques du moteur thermique.
 
-Entretenir et contrôler les circuits électriques et électroniques embarqués des engins et matériels.
+Entretenir et contrôler les circuits électriques et électroniques embarqués.
 
-Entretenir et contrôler les embrayages et transmissions des engins et matériels.
+Entretenir et contrôler les embrayages et transmissions.
 
-Entretenir et contrôler les systèmes de freinage et les pneumatiques des engins et matériels.
+Entretenir et contrôler les systèmes de freinage et les pneumatiques.
 
-Contrôler, remplacer les composants des circuits hydrauliques des engins et matériels.
+Contrôler les circuits hydrauliques et échanger les composants.
 
-2. Assurer la remise en état
+Soit l'option machinisme agricole
 
-et le dépannage des matériels de manutention
+2. Assurer la remise en état et le dépannage des matériels agricoles
 
-Remettre en état et dépanner les moteurs thermiques des matériels de manutention.
+Réaliser les opérations de manipulation des fluides frigorigènes.
 
-Remettre en état et dépanner la traction électrique et l'ensemble des systèmes et composants électriques et électroniques des matériels de manutention.
+Remettre en état et dépanner les moteurs thermiques des matériels agricoles.
 
-Remettre en état et dépanner les organes de transmission et de freinage des matériels de manutention.
+Remettre en état et dépanner les circuits et composants électriques et électroniques embarqués des matériels agricoles.
 
-Remettre en état les organes et dépanner les circuits hydrauliques des matériels de manutention.
+Remettre en état et dépanner les organes de transmission et de freinage des matériels agricoles.
 
-Réaliser la maintenance des équipements spécifiques des matériels de manutention.
+Remettre en état les organes et dépanner les circuits hydrauliques des matériels agricoles.
 
-Secteurs d'activités et types d'emploi
+Réaliser la maintenance des équipements spécifiques du machinisme agricole.
 
-accessibles par le détenteur du titre
+Soit l'option parcs et jardins
 
-Le mécanicien réparateur d'engins et de matériels "manutention" exerce dans :
+2. Assurer la remise en état et le dépannage des matériels de parcs et jardins
 
-- les entreprises de service et de maintenance des matériels de manutention ;
+Remettre en état et dépanner les moteurs thermiques des matériels de parcs et jardins.
 
-- les réseaux des constructeurs, concessions, agences, les entreprises de location des matériels ;
+Remettre en état et dépanner les circuits et composants électriques et électroniques des matériels de parcs et jardins.
 
-- les entreprises du transport de marchandises, portuaires, les administrations publiques.
+Remettre en état et dépanner les organes de transmission et de freinage des matériels de parcs et jardins.
+
+Remettre en état les organes et dépanner les circuits hydrauliques des matériels de parcs et jardins.
+
+Réaliser la maintenance spécifique des matériels de parcs et jardins.
+
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
+
+Selon l'option :
+
+Les entreprises de service et de maintenance des machines agricoles, les artisans ruraux.
+
+Les réseaux des constructeurs, concessions, agences. Les ateliers des collectivités territoriales.
+
+Les coopératives de travaux agricoles (CUMA)... Les entreprises de location des matériels. Les grandes enseignes de magasins de bricolage.
 
 Les types d'emplois accessibles sont les suivants :
 
-Mécanicien (ne) réparateur (trice) de matériels de manutention.
+Selon l'option :
 
-Mécanicien (ne) réparateur (trice) d'engins de travaux publics.
+Responsable de parc de matériels et équipements.
 
-Code ROME :
+Mécanicien (ne) réparateur (trice) de matériels agricoles.
+
+Mécanicien (ne) réparateur (trice) spécialisé (e).
+
+Mécanicien (ne) réparateur (trice) de matériels de parcs et jardins.
+
+Codes ROME :
 
 I1603-Maintenance d'engins de chantier, levage, manutention et de machines agricoles.
 
+I1607-Réparation de cycles, motocycles et motoculteurs de loisirs.
+
 Réglementation de l'activité
 
-Le mécanicien réparateur de matériels de manutention doit être titulaire :
+Le mécanicien doit être titulaire :
 
-- soit d'une autorisation de conduite établie par le chef d'entreprise pour le déplacement interne à l'entreprise des matériels de manutention ou de levage hors production ;
+-soit d'une autorisation de conduite établie par le chef d'entreprise pour le déplacement interne à l'entreprise des engins hors production (tracteur d'une puissance supérieur de 50 CV) ;
 
-- soit du CACES (recommandation CNAMTS R 389 catégorie 6, pour les chariots élévateurs) ;
+-soit du CACES (recommandation CNAMTS R 372 m catégorie 10 pour les engins agricoles, recommandation CNAMTS R 372 m catégorie 10 pour les parcs et jardins).
 
-- soit du CACES (selon la catégorie de la recommandation CNAMTS R 386, pour les plates-formes élévatrices mobiles de personnes (PEMP) ;
+Du permis de conduire B dans le cadre de déplacements pour interventions avec VL ou VUL.
 
-- d'une habilitation norme UTE-C18550 pour intervenir sur les matériels ayant un mode de propulsion ou de traction électrique ;
+De plus, pour l'option machinisme agricole :
 
-- du permis de conduire B dans le cadre de déplacements pour interventions avec VL ou VUL.
+D'une attestation d'aptitude à manipuler les fluides frigorigènes en famille 2 catégorie 5 ou de son équivalence.
+
+D'une habilitation norme UTE-C18550 pour intervenir sur les matériels ayant un mode de propulsion ou de traction électrique.
 
 Autorité responsable de la certification :
 
@@ -116,6 +138,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2 ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
