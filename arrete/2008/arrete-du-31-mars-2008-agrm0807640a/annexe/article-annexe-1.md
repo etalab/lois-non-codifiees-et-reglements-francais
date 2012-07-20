@@ -1,41 +1,74 @@
 # Article Annexe 1
 
-LISTE DES STOCKS SOUMIS À PERMIS DE PÊCHE
+LISTE DES STOCKS SOUMIS À AUTORISATIONS DE PÊCHE EUROPÉENNES
 
-SPÉCIAUX RELATIFS À DES PLANS OU MESURES DE RECONSTITUTION
+RELATIVES À DES PLANS PLURIANNUELS EUROPÉENS
 
 <table>
 <tbody>
 <tr>
-<th>ESPÈCES VISÉES<br/>par les mesures de reconstitution ou de gestion<br/>
+<th>
+<br/>PLAN PLURIANNUEL EUROPÉEN <br/>
+<br/>(références réglementaires) <br/>
 </th>
-<th>ZONES MARITIMES<br/>concernées<br/>
+<th>
+<br/>ESPÈCE (S) VISÉE (S) <br/>
+<br/>par le plan pluriannuel <br/>
 </th>
-<th>RÈGLEMENT<br/>communautaire<br/>
+<th>
+<br/>MÉTIER (S) VISÉ (S) <br/>
+<br/>par le plan pluriannuel <br/>
+</th>
+<th colspan="2">
+<br/>ZONE (S) VISÉE (S) <br/>
+<br/>par le plan pluriannuel <br/>
 </th>
 </tr>
 <tr>
-<td align="center">Sole.<br/>
+<td align="left" valign="top">
+<br/>R (CE) n° 509/2007 et R (UE) TAC et quotas annuel <br/>
 </td>
-<td align="center">CIEM VII e (Manche ouest).<br/>
+<td align="left" valign="top">
+<br/>Toutes espèces <br/>
 </td>
-<td align="center">R (CE) n° 40/2008 du Conseil<br/>du 16 janvier 2008.<br/>
+<td align="left" valign="top">
+<br/>Filets et trémails (fixes, maillants, emmêlants) de maillage égal ou inférieur à 220 mm. <br/>
+<br/>Chalut à perche de maillage égal ou supérieur à 80 mm. <br/>
+</td>
+<td align="left" valign="top">
+<br/>CIEM VII e <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Sole.<br/>
+<td align="left" valign="top">
+<br/>(CE) n° 388/2006 et R (UE) TAC <br/>
 </td>
-<td align="center">CIEM VIII a et b (golfe de Gascogne).<br/>
+<td align="left" valign="top">
+<br/>Sole <br/>
 </td>
-<td align="center">R (CE) n° 388/2006 du Conseil<br/>du 23 février 2006.<br/>
+<td align="left" valign="top">
+<br/>Tout engin <br/>
+</td>
+<td align="left" valign="top">
+<br/>CIEM VIII a et b <br/>
+<br/>(golfe de Gascogne) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Merlu austral et langoustine.<br/>
+<td align="left" valign="top">
+<br/>(CE) n° 2166/2005 et quotas annuel <br/>
 </td>
-<td align="center">CIEM VIII c.<br/>CIEM IX a.<br/>
+<td align="left" valign="top">
+<br/>Toutes espèces <br/>
 </td>
-<td align="center">R (CE) n° 40/2008 du Conseil<br/>du 16 janvier 2008.<br/>
+<td align="left" valign="top">
+<br/>Chalut de fond, sennes danoise et chaluts similaires d'un maillage égal ou supérieur à 32 mm. <br/>
+<br/>Filets maillant égal ou supérieur à 60 mm. <br/>
+<br/>Palangres de fond. <br/>
+</td>
+<td align="left" valign="top">
+<br/>CIEM VIII c <br/>
+<br/>CIEM IX a<br/>
 </td>
 </tr>
 </tbody>
