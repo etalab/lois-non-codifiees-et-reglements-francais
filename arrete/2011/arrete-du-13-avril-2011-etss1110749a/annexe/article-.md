@@ -160,9 +160,9 @@ b) Les adhérents qui liquident leur pension avant l'âge du taux plein prévu �
 
 ― pour les assurés nés antérieurement au 1er juillet 1951, le coefficient de minoration est égal à 5 % par année d'anticipation entre la date d'effet de la pension pour un départ en retraite à l'âge de 65 ans et la date de prise d'effet de la pension ;
 
-― pour les assurés nés entre le 1er juillet 1951 et le 31 décembre 1955 inclus, le coefficient de minoration est fonction de la génération à laquelle appartient l'assuré et du nombre de trimestres qui sépare la date d'effet de la liquidation pour un départ à l'âge du taux plein, de la date de prise d'effet de la pension. Le tableau joint en annexe indique les coefficients de minoration applicables aux générations visées ci-dessus ;
+― pour les assurés nés entre le 1er juillet 1951 et le 31 décembre 1954 inclus, le coefficient de minoration est fonction de la génération à laquelle appartient l'assuré et du nombre de trimestres qui sépare la date d'effet de la liquidation pour un départ à l'âge du taux plein, de la date de prise d'effet de la pension. Le tableau joint en annexe indique les coefficients de minoration applicables aux générations visées ci-dessus ;
 
-― pour les assurés nés à compter du 1er janvier 1956, le coefficient de minoration est égal à 1,50 % par trimestre manquant entre la date d'effet de la liquidation pour un départ à l'âge du taux plein et la date de prise d'effet de la pension.
+― pour les assurés nés à compter du 1er janvier 1955, le coefficient de minoration est égal à 1,50 % par trimestre manquant entre la date d'effet de la liquidation pour un départ à l'âge du taux plein et la date de prise d'effet de la pension.
 
 Le taux de la minoration applicable à la pension est définitif.
 
@@ -496,733 +496,705 @@ Article 59
 
 Le fonds d'action sociale institué par la CARCDSF est alimenté en partie par le présent régime selon des modalités précisées dans les dispositions relatives à ce fonds au sein des statuts généraux.
 
-COEFFICIENTS APPLICABLES EN CAS DE DÉPART EN RETRAITE
+Coefficients applicables en cas de départ en retraite avant l'âge du taux plein
 
-AVANT L'ÂGE DU TAUX PLEIN SELON L'ÉCHÉANCIER DE LA RÉFORME DES RETRAITES
+selon l'échéancier de la réforme des retraites
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="93">
-<p align="center">Nombre de trimestres d'anticipation</p>
+<td rowspan="2" width="83">
+<p align="center">Nombre de<br/>trimestres<br/>d'anticipation</p>
 </td>
-<td rowspan="2" width="73">
-<p align="center">Coefficients actuels</p>
+<td rowspan="2" width="76">
+<p align="center">Coefficients<br/>actuels</p>
 </td>
-<td colspan="7" width="514">
+<td colspan="7" width="522">
 <p align="center">Génération</p>
 </td>
 </tr>
 <tr>
-<td width="71">
-<p align="center">&lt;1/7/1951</p>
+<td width="70">
+<p align="center">&lt; 1/7/1951</p>
 </td>
-<td width="79">
-<p align="center">&gt;=1/7/1951</p>
+<td width="80">
+<p align="center">&gt;= 1/7/1951</p>
 </td>
-<td width="66">
+<td width="70">
 <p align="center">1952</p>
 </td>
 <td width="79">
 <p align="center">1953</p>
 </td>
-<td width="70">
+<td width="73">
 <p align="center">1954</p>
 </td>
-<td width="70">
+<td width="75">
 <p align="center">1955</p>
 </td>
-<td width="81">
-<p align="center">1956 et après</p>
+<td width="75">
+<p align="center">1956 et<br/>après</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="166">
-<p>Age en 2011</p>
+<td colspan="2" valign="top" width="159">
+<p>Age min/. de liquidation</p>
 </td>
-<td width="71">
-<p align="center">59,75</p>
+<td valign="top" width="70">
+<p>60,00 ans</p>
 </td>
-<td width="79">
-<p align="center">59,75</p>
+<td valign="top" width="80">
+<p>60,33 ans</p>
 </td>
-<td width="66">
-<p align="center">58,25</p>
+<td valign="top" width="70">
+<p>60,75 ans</p>
 </td>
-<td width="79">
-<p align="center">57,25</p>
+<td valign="top" width="79">
+<p>61,17 ans</p>
 </td>
-<td width="70">
-<p align="center">56,25</p>
+<td valign="top" width="73">
+<p>61,58 ans</p>
 </td>
-<td width="70">
-<p align="center">55,25</p>
+<td valign="top" width="75">
+<p>62,00 ans</p>
 </td>
-<td width="81">
-<p align="center">54,25</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="166">
-<p>Age mini. de liquidation</p>
-</td>
-<td width="71">
-<p align="center">60,0 ans</p>
-</td>
-<td width="79">
-<p align="center">60,33 ans</p>
-</td>
-<td width="66">
-<p align="center">60,67 ans</p>
-</td>
-<td width="79">
-<p align="center">61,67 ans</p>
-</td>
-<td width="70">
-<p align="center">61,33 ans</p>
-</td>
-<td width="70">
-<p align="center">61,67 ans</p>
-</td>
-<td width="81">
-<p align="center">62,00 ans</p>
+<td valign="top" width="75">
+<p>62,00 ans</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="166">
+<td colspan="2" valign="top" width="159">
 <p>Age normal de liquidation</p>
 </td>
-<td width="71">
-<p align="center">65,00 ans</p>
+<td valign="top" width="70">
+<p>65,00 ans</p>
 </td>
-<td width="79">
-<p align="center">65,33 ans</p>
+<td valign="top" width="80">
+<p>65,33 ans</p>
 </td>
-<td width="66">
-<p align="center">65,67 ans</p>
+<td valign="top" width="70">
+<p>65,75 ans</p>
 </td>
-<td width="79">
-<p align="center">66,00 ans</p>
+<td valign="top" width="79">
+<p>66,17 ans</p>
 </td>
-<td width="70">
-<p align="center">66,33 ans</p>
+<td valign="top" width="73">
+<p>66,58 ans</p>
 </td>
-<td width="70">
-<p align="center">65,67 ans</p>
+<td valign="top" width="75">
+<p>67,00 ans</p>
 </td>
-<td width="81">
-<p align="center">67,00 ans</p>
+<td valign="top" width="75">
+<p>67,00 ans</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">20</p>
 </td>
-<td width="73">
-<p align="center">25,00 %</p>
+<td valign="top" width="76">
+<p align="center">25,00%</p>
 </td>
-<td width="71">
-<p align="center">25,00 %</p>
+<td valign="top" width="70">
+<p>25,00%</p>
 </td>
-<td width="79">
-<p align="center">25,00 %</p>
+<td valign="top" width="80">
+<p>25,00%</p>
 </td>
-<td width="66">
-<p align="center">26,00 %</p>
+<td valign="top" width="70">
+<p>26,25%</p>
 </td>
-<td width="79">
-<p align="center">27,00 %</p>
+<td valign="top" width="79">
+<p>27,50%</p>
 </td>
-<td width="70">
-<p align="center">28,00 %</p>
+<td valign="top" width="73">
+<p>28,75%</p>
 </td>
-<td width="70">
-<p align="center">29,00 %</p>
+<td valign="top" width="75">
+<p>30,00%</p>
 </td>
-<td width="81">
-<p align="center">30,00 %</p>
+<td valign="top" width="75">
+<p>30,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">19</p>
 </td>
-<td width="73">
-<p align="center">25,00 %</p>
+<td valign="top" width="76">
+<p align="center">25,00%</p>
 </td>
-<td width="71">
-<p align="center">25,00 %</p>
+<td valign="top" width="70">
+<p>25,00%</p>
 </td>
-<td width="79">
-<p align="center">25,00 %</p>
+<td valign="top" width="80">
+<p>25,00%</p>
 </td>
-<td width="66">
-<p align="center">25,00 %</p>
+<td valign="top" width="70">
+<p>25,00%</p>
 </td>
-<td width="79">
-<p align="center">25,70 %</p>
+<td valign="top" width="79">
+<p>26,15%</p>
 </td>
-<td width="70">
-<p align="center">26,65 %</p>
+<td valign="top" width="73">
+<p>27,35%</p>
 </td>
-<td width="70">
-<p align="center">27,55 %</p>
+<td valign="top" width="75">
+<p>28,50%</p>
 </td>
-<td width="81">
-<p align="center">28,50 %</p>
+<td valign="top" width="75">
+<p>28,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">18</p>
 </td>
-<td width="73">
-<p align="center">25,00 %</p>
+<td valign="top" width="76">
+<p align="center">25,00%</p>
 </td>
-<td width="71">
-<p align="center">25,00 %</p>
+<td valign="top" width="70">
+<p>25,00%</p>
 </td>
-<td width="79">
-<p align="center">25,00 %</p>
+<td valign="top" width="80">
+<p>25,00%</p>
 </td>
-<td width="66">
-<p align="center">23,75 %</p>
+<td valign="top" width="70">
+<p>23,75%</p>
 </td>
-<td width="79">
-<p align="center">24,40 %</p>
+<td valign="top" width="79">
+<p>24,85%</p>
 </td>
-<td width="70">
-<p align="center">
-<i>25,25 %</i>
-</p>
+<td valign="top" width="73">
+<p>25,95%</p>
 </td>
-<td width="70">
-<p align="center">26,15 %</p>
+<td valign="top" width="75">
+<p>27,00%</p>
 </td>
-<td width="81">
-<p align="center">27,00 %</p>
+<td valign="top" width="75">
+<p>27,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">17</p>
 </td>
-<td width="73">
-<p align="center">25,00 %</p>
+<td valign="top" width="76">
+<p align="center">25,00%</p>
 </td>
-<td width="71">
-<p align="center">25,00 %</p>
+<td valign="top" width="70">
+<p>25,00%</p>
 </td>
-<td width="79">
-<p align="center">21,50 %</p>
+<td valign="top" width="80">
+<p>21,50%</p>
 </td>
-<td width="66">
-<p align="center">22,50 %</p>
+<td valign="top" width="70">
+<p>22,50%</p>
 </td>
-<td width="79">
-<p align="center">23,10 %</p>
+<td valign="top" width="79">
+<p>23,50%</p>
 </td>
-<td width="70">
-<p align="center">23,90 %</p>
+<td valign="top" width="73">
+<p>24,50%</p>
 </td>
-<td width="70">
-<p align="center">24,70 %</p>
+<td valign="top" width="75">
+<p>25,50%</p>
 </td>
-<td width="81">
-<p align="center">25,50 %</p>
+<td valign="top" width="75">
+<p>25,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">16</p>
 </td>
-<td width="73">
-<p align="center">20,00 %</p>
+<td valign="top" width="76">
+<p align="center">20,00%</p>
 </td>
-<td width="71">
-<p align="center">20,00 %</p>
+<td valign="top" width="70">
+<p>20,00%</p>
 </td>
-<td width="79">
-<p align="center">20,00 %</p>
+<td valign="top" width="80">
+<p>20,00%</p>
 </td>
-<td width="66">
-<p align="center">21,25 %</p>
+<td valign="top" width="70">
+<p>21,25%</p>
 </td>
-<td width="79">
-<p align="center">21,80 %</p>
+<td valign="top" width="79">
+<p>22,20%</p>
 </td>
-<td width="70">
-<p align="center">22,50 %</p>
+<td valign="top" width="73">
+<p>23,10%</p>
 </td>
-<td width="70">
-<p align="center">23,30 %</p>
+<td valign="top" width="75">
+<p>24,00%</p>
 </td>
-<td width="81">
-<p align="center">24,00 %</p>
+<td valign="top" width="75">
+<p>24,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">15</p>
 </td>
-<td width="73">
-<p align="center">22,00 %</p>
+<td valign="top" width="76">
+<p align="center">20,00%</p>
 </td>
-<td width="71">
-<p align="center">20,00 %</p>
+<td valign="top" width="70">
+<p>20,00%</p>
 </td>
-<td width="79">
-<p align="center">20,00 %</p>
+<td valign="top" width="80">
+<p>20,00%</p>
 </td>
-<td width="66">
-<p align="center">20,00 %</p>
+<td valign="top" width="70">
+<p>20,00%</p>
 </td>
-<td width="79">
-<p align="center">20,50 %</p>
+<td valign="top" width="79">
+<p>20,85%</p>
 </td>
-<td width="70">
-<p align="center">21,15 %</p>
+<td valign="top" width="73">
+<p>21,70%</p>
 </td>
-<td width="70">
-<p align="center">21,85 %</p>
+<td valign="top" width="75">
+<p>22,50%</p>
 </td>
-<td width="81">
-<p align="center">22,50 %</p>
+<td valign="top" width="75">
+<p>22,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">14</p>
 </td>
-<td width="73">
-<p align="center">20,00 %</p>
+<td valign="top" width="76">
+<p align="center">20,00%</p>
 </td>
-<td width="71">
-<p align="center">20,00 %</p>
+<td valign="top" width="70">
+<p>20,00%</p>
 </td>
-<td width="79">
-<p align="center">20,00 %</p>
+<td valign="top" width="80">
+<p>20,00%</p>
 </td>
-<td width="66">
-<p align="center">18,75 %</p>
+<td valign="top" width="70">
+<p>18,75%</p>
 </td>
-<td width="79">
-<p align="center">19,20 %</p>
+<td valign="top" width="79">
+<p>19,50%</p>
 </td>
-<td width="70">
-<p align="center">19,80 %</p>
+<td valign="top" width="73">
+<p>20,30%</p>
 </td>
-<td width="70">
-<p align="center">20,40 %</p>
+<td valign="top" width="75">
+<p>21,00%</p>
 </td>
-<td width="81">
-<p align="center">21,00 %</p>
+<td valign="top" width="75">
+<p>21,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">13</p>
 </td>
-<td width="73">
-<p align="center">20,00 %</p>
+<td valign="top" width="76">
+<p align="center">20,00%</p>
 </td>
-<td width="71">
-<p align="center">20,00 %</p>
+<td valign="top" width="70">
+<p>20,00%</p>
 </td>
-<td width="79">
-<p align="center">17,50 %</p>
+<td valign="top" width="80">
+<p>17,50%</p>
 </td>
-<td width="66">
-<p align="center">17,50 %</p>
+<td valign="top" width="70">
+<p>17,50%</p>
 </td>
-<td width="79">
-<p align="center">17,90 %</p>
+<td valign="top" width="79">
+<p>18,20%</p>
 </td>
-<td width="70">
-<p align="center">18,40 %</p>
+<td valign="top" width="73">
+<p>18,90%</p>
 </td>
-<td width="70">
-<p align="center">19,00 %</p>
+<td valign="top" width="75">
+<p>19,50%</p>
 </td>
-<td width="81">
-<p align="center">19,50 %</p>
+<td valign="top" width="75">
+<p>19,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">12</p>
 </td>
-<td width="73">
-<p align="center">15,00 %</p>
+<td valign="top" width="76">
+<p align="center">15,00%</p>
 </td>
-<td width="71">
-<p align="center">15,00 %</p>
+<td valign="top" width="70">
+<p>15,00%</p>
 </td>
-<td width="79">
-<p align="center">15,00 %</p>
+<td valign="top" width="80">
+<p>15,00%</p>
 </td>
-<td width="66">
-<p align="center">16,25 %</p>
+<td valign="top" width="70">
+<p>16,25%</p>
 </td>
-<td width="79">
-<p align="center">16,60 %</p>
+<td valign="top" width="79">
+<p>16,85%</p>
 </td>
-<td width="70">
-<p align="center">17,05 %</p>
+<td valign="top" width="73">
+<p>17,45%</p>
 </td>
-<td width="70">
-<p align="center">17,55 %</p>
+<td valign="top" width="75">
+<p>18,00%</p>
 </td>
-<td width="81">
-<p align="center">18,00 %</p>
+<td valign="top" width="75">
+<p>18,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">11</p>
 </td>
-<td width="73">
-<p align="center">15,00 %</p>
+<td valign="top" width="76">
+<p align="center">15,00%</p>
 </td>
-<td width="71">
-<p align="center">15,00 %</p>
+<td valign="top" width="70">
+<p>15,00%</p>
 </td>
-<td width="79">
-<p align="center">15,00 %</p>
+<td valign="top" width="80">
+<p>15,00%</p>
 </td>
-<td width="66">
-<p align="center">15,00 %</p>
+<td valign="top" width="70">
+<p>15,00%</p>
 </td>
-<td width="79">
-<p align="center">15,30 %</p>
+<td valign="top" width="79">
+<p>15,55%</p>
 </td>
-<td width="70">
-<p align="center">15,65 %</p>
+<td valign="top" width="73">
+<p>16,05%</p>
 </td>
-<td width="70">
-<p align="center">16,15 %</p>
+<td valign="top" width="75">
+<p>16,50%</p>
 </td>
-<td width="81">
-<p align="center">16,50 %</p>
+<td valign="top" width="75">
+<p>16,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">10</p>
 </td>
-<td width="73">
-<p align="center">15,00 %</p>
+<td valign="top" width="76">
+<p align="center">15,00%</p>
 </td>
-<td width="71">
-<p align="center">15,00 %</p>
+<td valign="top" width="70">
+<p>15,00%</p>
 </td>
-<td width="79">
-<p align="center">15,00 %</p>
+<td valign="top" width="80">
+<p>15,00%</p>
 </td>
-<td width="66">
-<p align="center">13,75 %</p>
+<td valign="top" width="70">
+<p>13,75%</p>
 </td>
-<td width="79">
-<p align="center">14,00 %</p>
+<td valign="top" width="79">
+<p>14,20%</p>
 </td>
-<td width="70">
-<p align="center">14,30 %</p>
+<td valign="top" width="73">
+<p>14,65%</p>
 </td>
-<td width="70">
-<p align="center">14,70 %</p>
+<td valign="top" width="75">
+<p>15,00%</p>
 </td>
-<td width="81">
-<p align="center">15,00 %</p>
+<td valign="top" width="75">
+<p>15,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">9</p>
 </td>
-<td width="73">
-<p align="center">15,00 %</p>
+<td valign="top" width="76">
+<p align="center">15,00%</p>
 </td>
-<td width="71">
-<p align="center">15,00 %</p>
+<td valign="top" width="70">
+<p>15,00%</p>
 </td>
-<td width="79">
-<p align="center">12,50 %</p>
+<td valign="top" width="80">
+<p>12,50%</p>
 </td>
-<td width="66">
-<p align="center">12,50 %</p>
+<td valign="top" width="70">
+<p>12,50%</p>
 </td>
-<td width="79">
-<p align="center">12,70 %</p>
+<td valign="top" width="79">
+<p>12,85%</p>
 </td>
-<td width="70">
-<p align="center">12,95 %</p>
+<td valign="top" width="73">
+<p>13,25%</p>
 </td>
-<td width="70">
-<p align="center">13,25 %</p>
+<td valign="top" width="75">
+<p>13,50%</p>
 </td>
-<td width="81">
-<p align="center">13,50 %</p>
+<td valign="top" width="75">
+<p>13,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">8</p>
 </td>
-<td width="73">
-<p align="center">10,00 %</p>
+<td valign="top" width="76">
+<p align="center">10,00%</p>
 </td>
-<td width="71">
-<p align="center">10,00 %</p>
+<td valign="top" width="70">
+<p>10,00%</p>
 </td>
-<td width="79">
-<p align="center">10,00 %</p>
+<td valign="top" width="80">
+<p>10,00%</p>
 </td>
-<td width="66">
-<p align="center">11,25 %</p>
+<td valign="top" width="70">
+<p>11,25%</p>
 </td>
-<td width="79">
-<p align="center">11,40 %</p>
+<td valign="top" width="79">
+<p>11,55%</p>
 </td>
-<td width="70">
-<p align="center">11,55 %</p>
+<td valign="top" width="73">
+<p>11,85%</p>
 </td>
-<td width="70">
-<p align="center">11,85 %</p>
+<td valign="top" width="75">
+<p>12,00%</p>
 </td>
-<td width="81">
-<p align="center">12,00 %</p>
+<td valign="top" width="75">
+<p>12,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">7</p>
 </td>
-<td width="73">
-<p align="center">10,00 %</p>
+<td valign="top" width="76">
+<p align="center">10,00%</p>
 </td>
-<td width="71">
-<p align="center">10,00 %</p>
+<td valign="top" width="70">
+<p>10,00%</p>
 </td>
-<td width="79">
-<p align="center">10,00 %</p>
+<td valign="top" width="80">
+<p>10,00%</p>
 </td>
-<td width="66">
-<p align="center">10,00 %</p>
+<td valign="top" width="70">
+<p>10,00%</p>
 </td>
-<td width="79">
-<p align="center">10,10 %</p>
+<td valign="top" width="79">
+<p>10,20%</p>
 </td>
-<td width="70">
-<p align="center">10,20 %</p>
+<td valign="top" width="73">
+<p>10,40%</p>
 </td>
-<td width="70">
-<p align="center">10,40 %</p>
+<td valign="top" width="75">
+<p>10,50%</p>
 </td>
-<td width="81">
-<p align="center">10,50 %</p>
+<td valign="top" width="75">
+<p>10,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">6</p>
 </td>
-<td width="73">
-<p align="center">10,00 %</p>
+<td valign="top" width="76">
+<p align="center">10,00%</p>
 </td>
-<td width="71">
-<p align="center">10,00 %</p>
+<td valign="top" width="70">
+<p>10,00%</p>
 </td>
-<td width="79">
-<p align="center">10,00 %</p>
+<td valign="top" width="80">
+<p>10,00%</p>
 </td>
-<td width="66">
-<p align="center">8,75 %</p>
+<td valign="top" width="70">
+<p>8,75%</p>
 </td>
-<td width="79">
-<p align="center">8,80 %</p>
+<td valign="top" width="79">
+<p>8,90%</p>
 </td>
-<td width="70">
-<p align="center">8,80 %</p>
+<td valign="top" width="73">
+<p>9,00%</p>
 </td>
-<td width="70">
-<p align="center">9,00 %</p>
+<td valign="top" width="75">
+<p>9,00%</p>
 </td>
-<td width="81">
-<p align="center">9,00 %</p>
+<td valign="top" width="75">
+<p>9,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">5</p>
 </td>
-<td width="73">
-<p align="center">10,00 %</p>
+<td valign="top" width="76">
+<p align="center">10,00%</p>
 </td>
-<td width="71">
-<p align="center">10,00 %</p>
+<td valign="top" width="70">
+<p>10,00%</p>
 </td>
-<td width="79">
-<p align="center">6,00 %</p>
+<td valign="top" width="80">
+<p>6,00%</p>
 </td>
-<td width="66">
-<p align="center">7,50 %</p>
+<td valign="top" width="70">
+<p>7,50%</p>
 </td>
-<td width="79">
-<p align="center">7,50 %</p>
+<td valign="top" width="79">
+<p>7,50%</p>
 </td>
-<td width="70">
-<p align="center">7,50 %</p>
+<td valign="top" width="73">
+<p>7,50%</p>
 </td>
-<td width="70">
-<p align="center">7,50 %</p>
+<td valign="top" width="75">
+<p>7,50%</p>
 </td>
-<td width="81">
-<p align="center">7,50 %</p>
+<td valign="top" width="75">
+<p>7,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">4</p>
 </td>
-<td width="73">
-<p align="center">5,00 %</p>
+<td valign="top" width="76">
+<p align="center">5,00%</p>
 </td>
-<td width="71">
-<p align="center">5,00 %</p>
+<td valign="top" width="70">
+<p>5,00%</p>
 </td>
-<td width="79">
-<p align="center">5,00 %</p>
+<td valign="top" width="80">
+<p>5,00%</p>
 </td>
-<td width="66">
-<p align="center">6,25 %</p>
+<td valign="top" width="70">
+<p>6,00%</p>
 </td>
-<td width="79">
-<p align="center">6,00 %</p>
+<td valign="top" width="79">
+<p>6,00%</p>
 </td>
-<td width="70">
-<p align="center">6,00 %</p>
+<td valign="top" width="73">
+<p>6,00%</p>
 </td>
-<td width="70">
-<p align="center">6,00 %</p>
+<td valign="top" width="75">
+<p>6,00%</p>
 </td>
-<td width="81">
-<p align="center">6,00 %</p>
+<td valign="top" width="75">
+<p>6,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">3</p>
 </td>
-<td width="73">
-<p align="center">5,00 %</p>
+<td valign="top" width="76">
+<p align="center">5,00%</p>
 </td>
-<td width="71">
-<p align="center">5,00 %</p>
+<td valign="top" width="70">
+<p>5,00%</p>
 </td>
-<td width="79">
-<p align="center">5,00 %</p>
+<td valign="top" width="80">
+<p>5,00%</p>
 </td>
-<td width="66">
-<p align="center">5,00 %</p>
+<td valign="top" width="70">
+<p>4,50%</p>
 </td>
-<td width="79">
-<p align="center">4,50 %</p>
+<td valign="top" width="79">
+<p>4,50%</p>
 </td>
-<td width="70">
-<p align="center">4,50 %</p>
+<td valign="top" width="73">
+<p>4,50%</p>
 </td>
-<td width="70">
-<p align="center">4,50 %</p>
+<td valign="top" width="75">
+<p>4,50%</p>
 </td>
-<td width="81">
-<p align="center">4,50 %</p>
+<td valign="top" width="75">
+<p>4,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">2</p>
 </td>
-<td width="73">
-<p align="center">5,00 %</p>
+<td valign="top" width="76">
+<p align="center">5,00%</p>
 </td>
-<td width="71">
-<p align="center">5,00 %</p>
+<td valign="top" width="70">
+<p>5,00%</p>
 </td>
-<td width="79">
-<p align="center">5,00 %</p>
+<td valign="top" width="80">
+<p>5,00%</p>
 </td>
-<td width="66">
-<p align="center">3,00 %</p>
+<td valign="top" width="70">
+<p>3,00%</p>
 </td>
-<td width="79">
-<p align="center">3,00 %</p>
+<td valign="top" width="79">
+<p>3,00%</p>
 </td>
-<td width="70">
-<p align="center">3,00 %</p>
+<td valign="top" width="73">
+<p>3,00%</p>
 </td>
-<td width="70">
-<p align="center">3,00 %</p>
+<td valign="top" width="75">
+<p>3,00%</p>
 </td>
-<td width="81">
-<p align="center">3,00 %</p>
+<td valign="top" width="75">
+<p>3,00%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">1</p>
 </td>
-<td width="73">
-<p align="center">5,00 %</p>
+<td valign="top" width="76">
+<p align="center">5,00%</p>
 </td>
-<td width="71">
-<p align="center">5,00 %</p>
+<td valign="top" width="70">
+<p>5,00%</p>
 </td>
-<td width="79">
-<p align="center">1,50 %</p>
+<td valign="top" width="80">
+<p>1,50%</p>
 </td>
-<td width="66">
-<p align="center">1,50 %</p>
+<td valign="top" width="70">
+<p>1,50%</p>
 </td>
-<td width="79">
-<p align="center">1,50 %</p>
+<td valign="top" width="79">
+<p>1,50%</p>
 </td>
-<td width="70">
-<p align="center">1,50 %</p>
+<td valign="top" width="73">
+<p>1,50%</p>
 </td>
-<td width="70">
-<p align="center">1,50 %</p>
+<td valign="top" width="75">
+<p>1,50%</p>
 </td>
-<td width="81">
-<p align="center">1,50 %</p>
+<td valign="top" width="75">
+<p>1,50%</p>
 </td>
 </tr>
 <tr>
-<td width="93">
+<td valign="top" width="83">
 <p align="center">0</p>
 </td>
-<td width="73">
-<p align="center">0,00 %</p>
+<td valign="top" width="76">
+<p align="center">0,00%</p>
 </td>
-<td width="71">
-<p align="center">0,00 %</p>
+<td valign="top" width="70">
+<p>0,00%</p>
 </td>
-<td width="79">
-<p align="center">0,00 %</p>
+<td valign="top" width="80">
+<p>0,00%</p>
 </td>
-<td width="66">
-<p align="center">0,00 %</p>
+<td valign="top" width="70">
+<p>0,00%</p>
 </td>
-<td width="79">
-<p align="center">0,00 %</p>
+<td valign="top" width="79">
+<p>0,00%</p>
 </td>
-<td width="70">
-<p align="center">0,00 %</p>
+<td valign="top" width="73">
+<p>0,00%</p>
 </td>
-<td width="70">
-<p align="center">0,00 %</p>
+<td valign="top" width="75">
+<p>0,00%</p>
 </td>
-<td width="81">
-<p align="center">0,00 %</p>
+<td valign="top" width="75">
+<p>0,00%</p>
 </td>
 </tr>
 </tbody>
