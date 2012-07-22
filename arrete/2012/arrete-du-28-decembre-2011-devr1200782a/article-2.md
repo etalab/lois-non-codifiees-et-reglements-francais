@@ -2,6 +2,8 @@
 
 Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi que des valeurs des tarifs d'achat correspondants :
 
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <table>
 <tbody>
@@ -174,12 +176,85 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">11,38</p>
 </td>
 </tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">4</p>
+</td>
+<td valign="top" width="75">
+<p align="center">1er janvier<br/>2012 -<br/>31 mars 2012</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,045</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,095</p>
+</td>
+<td valign="top" width="75">
+<p align="center">38,80</p>
+</td>
+<td valign="top" width="75">
+<p align="center">33,95</p>
+</td>
+<td valign="top" width="75">
+<p align="center">30,09</p>
+</td>
+<td valign="top" width="75">
+<p align="center">26,09</p>
+</td>
+<td valign="top" width="75">
+<p align="center">22,49</p>
+</td>
+<td valign="top" width="75">
+<p align="center">21,37</p>
+</td>
+<td valign="top" width="75">
+<p align="center">11,08</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">5</p>
+</td>
+<td valign="top" width="75">
+<p align="center">1er avril<br/>2012 -<br/>30 juin 2012</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,045</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,095</p>
+</td>
+<td valign="top" width="75">
+<p align="center">37,06</p>
+</td>
+<td valign="top" width="75">
+<p align="center">32,42</p>
+</td>
+<td valign="top" width="75">
+<p align="center">27,23</p>
+</td>
+<td valign="top" width="75">
+<p align="center">23,61</p>
+</td>
+<td valign="top" width="75">
+<p align="center">20,35</p>
+</td>
+<td valign="top" width="75">
+<p align="center">19,34</p>
+</td>
+<td valign="top" width="75">
+<p align="center">10,79</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
 <div align="left">
 <br/>
 </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
