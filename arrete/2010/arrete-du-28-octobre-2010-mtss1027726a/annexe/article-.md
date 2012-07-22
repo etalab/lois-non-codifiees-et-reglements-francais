@@ -12,7 +12,7 @@ Article 1.1
 
 Constitution
 
-La caisse dite  section professionnelle des officiers ministériels, officiers publics et des compagnies judiciaires (CAVOM) , instituée par le décret du 19 juillet 1948 relatif au régime provisoire de l'organisation autonome des professions libérales, a son siège 9, rue de Vienne, Paris (8e).
+La caisse dite section professionnelle des officiers ministériels, officiers publics et des compagnies judiciaires (CAVOM) , instituée par le décret du 19 juillet 1948 relatif au régime provisoire de l'organisation autonome des professions libérales, a son siège 9, rue de Vienne, Paris (8e).
 
 Article 1.2
 
@@ -68,8 +68,6 @@ Election et désignation des administrateurs
 
 Les administrateurs représentant les groupes professionnels des :
 
-― avoués près les cours d'appel ;
-
 ― huissiers de justice ;
 
 ― commissaires-priseurs judiciaires ;
@@ -105,6 +103,10 @@ Le nombre de postes d'administrateur attribué à chaque groupe professionnel es
 ― allocataires : 4 titulaires et 4 suppléants.
 
 La répartition des postes s'effectue en fonction des effectifs de chaque groupe professionnel au 31 décembre de l'année précédant le renouvellement du conseil d'administration.
+
+Si le nombre de postes d'administrateurs attribués à l'un des groupes professionnels ne correspond plus à l'effectif de ce groupe au 31 décembre de l'année précédant le renouvellement, il est procédé à un réajustement du nombre de postes d'administrateurs suivant les modalités ci-dessus.
+
+Ce réajustement ne peut toutefois conduire à la réduction de la durée des mandats.
 
 Toutefois, le nombre de postes d'administrateur attribué à un groupe professionnel ne peut pas être supérieur au nombre de postes d'administrateur attribué à l'ensemble des autres groupes.
 
@@ -170,7 +172,11 @@ Article 2.7
 
 Durée du mandat des administrateurs
 
-Les administrateurs sont élus ou désignés pour six ans. Ils prennent leurs fonctions au 1er janvier de l'année qui suit l'élection ou la désignation.
+I. - Les administrateurs sont élus ou désignés pour six ans. Ils prennent leurs fonctions au 1er janvier de l'année qui suit l'élection ou la désignation.
+
+Le conseil d'administration est renouvelé par moitié tous les trois ans.
+
+II. - A l'occasion du premier renouvellement suivant la parution de l'arrêté approuvant les présentes modifications statutaires, le mandat de la moitié des administrateurs en poste à cette date sera prorogé de trois ans, jusqu'aux élections suivantes, selon les modalités annexées aux présents statuts. En présence d'un nombre de postes d'administrateurs impair dans un ou plusieurs groupes professionnels, le nombre de postes à renouveler est déterminé en divisant le nombre de postes de ce groupe par deux arrondi à l'entier inférieur.
 
 Article 2.8
 
@@ -196,7 +202,7 @@ Fin du mandat des administrateurs
 
 Le mandat d'administrateur prend fin :
 
-― à la date de cessation de l'activité, dont la preuve est fournie par l'acceptation de la démission par l'autorité compétente ;
+― six mois après la date de cessation de l'activité professionnelle justifiant son affiliation à la caisse sauf si, à cette date, il est devenu allocataire, le mandat se poursuivant alors jusqu'au prochain renouvellement du conseil d'administration ;
 
 ― en cas de démission de son poste d'administrateur ;
 
@@ -228,7 +234,7 @@ Toutefois, les statuts de la caisse ne peuvent être modifiés que par une déli
 
 Les administrateurs représentant les allocataires assistent aux réunions du conseil avec voix consultatives.
 
-Les administrateurs suppléants qui ne représentent pas un titulaire assistent aux séances avec voix consultative.
+Les administrateurs suppléants qui ne représentent pas un titulaire peuvent assister aux séances avec voix consultative.
 
 Chaque réunion du conseil d'administration donne lieu à la rédaction d'un procès-verbal détaillé qui doit figurer sur le registre des délibérations et est signé par le président.
 
@@ -389,3 +395,29 @@ Autres commissions
 Le conseil d'administration peut, en tant que de besoin, créer des commissions, dont il définit l'objet, la composition et la durée.
 
 Ces commissions informent le conseil de leurs délibérations et lui soumettent leurs propositions.
+
+Annexe - Dispositions transitoires
+
+Modalités de mise en œuvre du renouvellement par moitié du conseil d'administration au 1er janvier 2013
+
+Désignation des administrateurs dont le mandat est prolongé
+
+Afin d'assurer la transition entre les anciennes et nouvelles procédures de renouvellement du conseil, sont, à titre exceptionnel, prorogés de trois ans, les mandats de la moitié des administrateurs en fonction avant l'entrée en vigueur des dispositions statutaires votées lors du conseil d'administration du 21 juin 2012.
+
+Conformément à l'article R. 641-19 du code de la sécurité sociale, les administrateurs dont le mandat est prorogé pour 3 ans sont :
+
+- soit volontaires ;
+
+- soit, en l'absence de volontaires, désignés par tirage au sort.
+
+A l'occasion du premier conseil d'administration postérieur à la publication de l'arrêté approuvant les modifications statutaires votées lors du conseil d'administration du 21 juin 2012, un appel à volontaires sera réalisé au sein de chaque groupe professionnel.
+
+La liste des administrateurs dont le mandat sera prorogé sera ainsi établie :
+
+- si le nombre de volontaires correspond, au sein d'un ou plusieurs groupes professionnels, au nombre d'administrateurs devant rester en fonction, le mandat de ces administrateurs sera prorogé de trois ans ;
+
+- si le nombre de volontaires au sein d'un ou plusieurs groupes professionnels est supérieur au nombre d'administrateurs devant rester en fonction, la liste de ces administrateurs sera déterminée, au sein de ce/ces groupes professionnels, par tirage au sort parmi ces volontaires ;
+
+- si le nombre de volontaires au sein d'un ou plusieurs groupes professionnels est inférieur au nombre d'administrateurs devant rester en fonction, la liste des administrateurs sera déterminée, au sein de ce/ces groupes professionnels en retenant ces volontaires, les autres administrateurs étant désignés par voie de tirage au sort.
+
+Les mandats des administrateurs suppléants sont également prorogés dans les mêmes proportions et selon les mêmes modalités.
