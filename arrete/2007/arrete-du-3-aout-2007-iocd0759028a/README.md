@@ -2,8 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Dispositions communes](chapitre-ier)
-- [Article 2](article-2.md)
 - [Chapitre II : Certificat de qualification   professionnelle des dirigeants](chapitre-ii)
-- [Article 3](article-3.md)
 - [Chapitre III : Certificat de qualification professionnelle des salariés](chapitre-iii)
-- [Article 4](article-4.md)
