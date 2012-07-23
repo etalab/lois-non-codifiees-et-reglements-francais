@@ -1,5 +1,0 @@
-# Article 25
-
-La demande d'autorisation de transit établie dans les conditions définies par arrêté du ministre chargé des douanes est déposée auprès du ministre de la défense ( direction générale de l'armement, direction du développement international).
-
-La demande est sollicitée par une personne exerçant en France la profession de commissionnaire en transport ou de commissionnaire en douane.

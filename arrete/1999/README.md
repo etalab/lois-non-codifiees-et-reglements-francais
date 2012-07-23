@@ -46,7 +46,6 @@
 - [Arrêté du 2 mars 1999 (ECOL9900011A)](arrete-du-2-mars-1999-ecol9900011a)
 - [Arrêté du 2 mars 1999 (ECOP9900023A)](arrete-du-2-mars-1999-ecop9900023a)
 - [Arrêté du 2 mars 1999 (EQUK9900339A)](arrete-du-2-mars-1999-equk9900339a)
-- [Arrêté du 2 octobre 1992 (DEFC9201754A)](arrete-du-2-octobre-1992-defc9201754a)
 - [Arrêté du 2 septembre 1999 (AGRG9901850A)](arrete-du-2-septembre-1999-agrg9901850a)
 - [Arrêté du 3 août 1999 (ECOT9991108A)](arrete-du-3-aout-1999-ecot9991108a)
 - [Arrêté du 3 août 1999 (JUSA9900120A)](arrete-du-3-aout-1999-jusa9900120a)
