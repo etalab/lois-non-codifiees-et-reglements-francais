@@ -104,6 +104,8 @@ Général commandant adjoint du commandement de composante air d'Izmir (Turquie)
 
 Général chef de la mission militaire de la représentation permanente de la France auprès de l'OTAN à Bruxelles (Belgique) et chef de la représentation militaire française auprès du comité militaire de l'Union européenne.
 
+Général président du comité militaire de l'Union européenne.
+
 Général commandant les forces françaises stationnées à Djibouti.
 
 Général commandant les forces françaises au Gabon.
