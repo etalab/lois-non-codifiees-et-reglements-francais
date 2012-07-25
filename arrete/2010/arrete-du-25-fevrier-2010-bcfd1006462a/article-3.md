@@ -14,6 +14,12 @@ Les informations à caractère personnel traitées sont les suivantes :
 
 ― identification des titulaires des crédits utilisés ;
 
-― identification des agents des douanes chargés du traitement de la déclaration.
+― identification des agents des douanes chargés du traitement de la déclaration ;
 
-Outre ces informations, le traitement assure la collecte et l'enregistrement de l'ensemble des déclarations en douane telles que définies par les règlements communautaires et le droit national applicable en la matière.
+― le nom de l'agent officiel signataire des documents enregistrés dans la base TRACES ;
+
+― les coordonnées du destinataire des documents enregistrés dans la base TRACES ;
+
+― l'identification du moyen de transport des documents enregistrés dans la base TRACES.
+
+Outre ces informations, le traitement assure la collecte et l'enregistrement de l'ensemble des déclarations en douane et permet la consultation des informations contenues dans les documents enregistrés dans la base TRACES telles que définies par les règlements communautaires et le droit national applicable en la matière.

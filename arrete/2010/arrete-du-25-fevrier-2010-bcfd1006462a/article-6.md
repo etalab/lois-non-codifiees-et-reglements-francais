@@ -2,6 +2,8 @@
 
 Les agents habilités des bureaux de douane accèdent aux données des déclarations déposées par les déclarants ou leur représentant en douane.
 
+Les données du traitement DELTA peuvent donner lieu à la consultation de la base de données TRACES. Pour l'accomplissement de leur mission, les agents mentionnés au premier alinéa, chargés du contrôle des marchandises, ont accès aux informations résultant de cette consultation.
+
 Peuvent également accéder au traitement, dans la limite de leurs habilitations :
 
 ― les agents des douanes en charge du contrôle de gestion (pilotage de la performance, mesure de l'activité des services, etc.) ;

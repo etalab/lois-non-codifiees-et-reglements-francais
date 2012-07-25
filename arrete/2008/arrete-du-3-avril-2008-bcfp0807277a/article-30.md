@@ -14,7 +14,7 @@ Il élabore les méthodes et les outils d'exploitation. Il est responsable de l'
 
 Le bureau intégration
 
-Il assure l'intégration des applications nouvelles. Il prépare la mise en production en liaison avec les centres informatiques.
+Il assure l'intégration des applications nouvelles. Il prépare la mise en production en liaison avec les établissements de services informatiques (ESI).
 
 Le département informatique du comptable centralisateur des comptes de l'Etat
 
