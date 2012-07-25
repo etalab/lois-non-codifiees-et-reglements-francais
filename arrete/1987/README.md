@@ -103,7 +103,6 @@
 - [Arrêté du 6 janvier 1987](arrete-du-6-janvier-1987)
 - [Arrêté du 6 janvier 1987 (ECOX8798243A)](arrete-du-6-janvier-1987-ecox8798243a)
 - [Arrêté du 6 janvier 1987 (INTB8700010A)](arrete-du-6-janvier-1987-intb8700010a)
-- [Arrêté du 6 janvier 1987 (MDSC8700059A)](arrete-du-6-janvier-1987-mdsc8700059a)
 - [Arrêté du 6 juillet 1987 (ASEG8701010A)](arrete-du-6-juillet-1987-aseg8701010a)
 - [Arrêté du 6 juillet 1987 (INTB8700218A)](arrete-du-6-juillet-1987-intb8700218a)
 - [Arrêté du 6 mars 1987](arrete-du-6-mars-1987)
