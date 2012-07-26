@@ -2068,7 +2068,6 @@
 - [Arrêté du 1er décembre 2011 (BCRE1132761A)](arrete-du-1er-decembre-2011-bcre1132761a)
 - [Arrêté du 1er décembre 2011 (ETSP1132016A)](arrete-du-1er-decembre-2011-etsp1132016a)
 - [Arrêté du 1er décembre 2011 (ETSP1132792A)](arrete-du-1er-decembre-2011-etsp1132792a)
-- [Arrêté du 1er décembre 2011 (ETSS1132797A)](arrete-du-1er-decembre-2011-etss1132797a)
 - [Arrêté du 1er décembre 2011 (ETSS1132817A)](arrete-du-1er-decembre-2011-etss1132817a)
 - [Arrêté du 1er décembre 2011 (IOCA1125281A)](arrete-du-1er-decembre-2011-ioca1125281a)
 - [Arrêté du 1er décembre 2011 (IOCA1125282A)](arrete-du-1er-decembre-2011-ioca1125282a)
