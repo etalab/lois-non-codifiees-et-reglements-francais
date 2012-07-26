@@ -2,7 +2,7 @@
 
 La liste des centres et instituts dont les stages ou les sessions ouvrent droit au congé pour formation syndicale, prévu à l'article 57 (7°) de la loi du 26 janvier 1984 susvisée, est fixée comme suit :
 
-Centre confédéral d'éducation ouvrière de la Confédération générale du travail (CGT), 263, rue de Paris, 93516 Montreuil Cedex ;
+Centre de la formation syndicale CGT de la Confédération générale du travail (CGT), 263, rue de Paris, 93516 Montreuil Cedex ;
 
 Institut confédéral d'études et de formation syndicale de la Confédération française démocratique du travail (CFDT), 4, boulevard de La Villette, 75955 Paris Cedex 19 ;
 
@@ -20,9 +20,11 @@ Centre fédéral de formation syndicale de la Fédération syndicale unitaire (F
 
 Institut de formation syndicale de la Fédération autonome de la fonction publique territoriale (IFS FA-FPT), 96, rue Blanche, 75009 Paris ;
 
+Centre d'études et de formation interprofessionnel solidaires, 144, boulevard de la Villette, 75019 Paris
+
 Institut du travail de l'université Robert-Schuman (Strasbourg-III), 39, avenue de la Forêt-Noire, 67000 Strasbourg ;
 
-Institut des sciences sociales du travail de l'université Paris-I, 37, avenue du Président-Franklin-Roosevelt, 92330 Sceaux ;
+Institut des sciences sociales du travail de l'université Paris-I, 16, boulevard Carnot, 92340 Bourg-la-Reine ;
 
 Institut national de formation et d'application du centre de culture ouvrière (INFA), 82, rue François-Rolland, 94130 Nogent-sur-Marne ;
 
@@ -42,4 +44,8 @@ Institut régional d'éducation ouvrière de Picardie, campus universitaire, 800
 
 Institut du travail de l'université de Saint-Etienne, 6, rue Basse-des-Rives, 42023 Saint-Etienne Cedex 2 ;
 
-Institut des sciences sociales du travail de l'Ouest (ISSTO), campus Rennes-II, La Harpe, avenue Charles-Tillon, 35044 Rennes Cedex.
+Institut des sciences sociales du travail de l'Ouest (ISSTO), campus Rennes-II, La Harpe, avenue Charles-Tillon, 35044 Rennes Cedex ;
+
+Institut régional du travail de l'université du Mirail-Toulouse-II, 5, allée Antonio-Machado, 31058 Toulouse Cedex ;
+
+Institut syndical européen pour la recherche, la formation, la santé et la sécurité (ETUI-REHS), boulevard du Roi-Albert-II, 5, box 7, B 1210 Bruxelles (Belgique).
