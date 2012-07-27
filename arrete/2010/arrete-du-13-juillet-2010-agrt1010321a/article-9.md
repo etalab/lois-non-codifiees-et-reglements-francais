@@ -6,7 +6,7 @@ En application du point I de l'article D. 615-51 du code rural et de la pêche m
 
 Ne sont pas soumis au maintien de la surface de référence en prairie temporaire et en pâturage permanent :
 
-― les exploitants laitiers ayant déposé une demande d'aide éligible à la cessation d'activité laitière, pour les campagnes 2008-2009,2009-2010 et 2010-2011 ;
+― les exploitants laitiers ayant déposé une demande d'aide éligible à la cessation d'activité laitière, pour les campagnes 2008-2009, 2009-2010, 2010-2011 et 2011-2012  ;
 
 ― les exploitants agricoles placés en redressement judiciaire, dont le plan de redressement a fait l'objet d'une décision du tribunal postérieurement au 16 mai 2008 ;
 
@@ -14,9 +14,9 @@ Ne sont pas soumis au maintien de la surface de référence en prairie temporair
 
 Ne sont pas comptabilisées dans le calcul de la référence :
 
-- les surfaces en prairie temporaire primo-engagées en 2009 ou en 2010 dans un engagement agroenvironnemental de conversion à l'agriculture biologique ;
+― les surfaces en prairie temporaire primo-engagées en 2009 ou en 2010 dans un engagement agroenvironnemental de conversion à l'agriculture biologique ;
 
-- les surfaces en prairie temporaire qui ont fait l'objet d'une aide à la restructuration et à la reconversion des vignobles ou d'une prime à l'arrachage définitif au titre des 2008-2009 ou 2009-2010 ;
+― les surfaces en prairie temporaire qui ont fait l'objet d'une aide à la restructuration et à la reconversion des vignobles ou d'une prime à l'arrachage définitif au titre des campagnes 2008-2009 ou 2009-2010 ;
 
 ― les surfaces en prairie temporaire engagées dans un engagement agroenvironnemental de reconversion des terres arables ;
 
