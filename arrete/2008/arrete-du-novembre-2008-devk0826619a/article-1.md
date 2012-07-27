@@ -1,36 +1,36 @@
 # Article 1
 
-Les opérations de restructuration de service listées  ci-après ouvrent droit au bénéfice de la prime de restructuration de  service et, le cas échéant, de l’allocation d’aide à la mobilité du  conjoint :
+Les opérations de restructuration de service listées ci-après ouvrent droit au bénéfice de la prime de restructuration de service et, le cas échéant, de l'allocation d'aide à la mobilité du conjoint :
 
-<sup>
-<br/>
-</sup>1° La réorganisation des services d’administration centrale et des services à  compétence nationale qui leur sont rattachés ;
+1° La réorganisation des services d’administration centrale et des services à compétence nationale qui leur sont rattachés ;
 
-2° Les  restructurations des directions régionales de l’industrie, de la recherche et de  l’environnement, des directions régionales de l’environnement et des directions  régionales de l’équipement dans le cadre de leur regroupement au sein des  directions régionales de l’environnement, de l’aménagement et du logement, ainsi  que dans le cadre d’opérations de mutualisation de fonctions supports ;
+2° Les restructurations des directions régionales de l'industrie, de la recherche et de l'environnement, des directions régionales de l'environnement et des directions régionales de l'équipement dans le cadre de leur regroupement au sein des directions régionales de l'environnement, de l'aménagement et du logement, ainsi que dans le cadre d'opérations de mutualisation de fonctions supports ;
 
-3° Les réorganisations des directions départementales de  l’équipement dans le cadre de la création des directions départementales de  l’équipement et de l’agriculture ainsi que celles liées à une évolution  fonctionnelle de leurs missions ;
+3° Les réorganisations des directions départementales de l'équipement dans le cadre de la création des directions départementales de l'équipement et de l'agriculture ainsi que celles liées à une évolution fonctionnelle de leurs missions ;
 
-4° Les  réorganisations de services dans les directions interdépartementales des routes  ;
+4° Les réorganisations de services dans les directions interdépartementales des routes ;
 
-5° Les restructurations des services chargés de la  navigation intérieure liées à la mise en œuvre du schéma directeur  d’exploitation des voies navigables et de celui de maintenance ;
+5° Les restructurations des services chargés de la navigation intérieure liées à la mise en œuvre du schéma directeur d'exploitation des voies navigables et de celui de maintenance ;
 
 6° Les restructurations des bases aériennes ;
 
-7° La fermeture du Centre national de traitement des  statistiques ;
+7° La fermeture du Centre national de traitement des statistiques ;
 
-8° La restructuration de l’Agence de  l’eau Seine-Normandie ;
+8° La restructuration de l'Agence de l'eau Seine-Normandie ;
 
-9° Les réorganisations des directions départementales de l'équipement  et des directions départementales de l'équipement et de l'agriculture  dans le cadre de la création des directions départementales  interministérielles ;
+9° Les réorganisations des directions départementales de l'équipement et des directions départementales de l'équipement et de l'agriculture dans le cadre de la création des directions départementales interministérielles ;
 
-10° La délocalisation du service d'études  sur les transports, les routes et leurs aménagements donnant lieu à des  départs du site de Bagneux à compter du 1er janvier 2010 ;
+10° La délocalisation du service d'études sur les transports, les routes et leurs aménagements donnant lieu à des départs du site de Bagneux à compter du 1er janvier 2010 ;
 
-11° La  délocalisation de l'Etablissement national des invalides de la marine  donnant lieu à des départs du site de Paris à compter du 1er septembre  2009 ;
+11° La délocalisation de l'Etablissement national des invalides de la marine donnant lieu à des départs du site de Paris à compter du 1er septembre 2009 ;
 
 12° La réorganisation des laboratoires de la direction régionale de l'équipement d'Ile-de-France ;
 
-13° Les restructurations des services conduisant à la création des  directions interrégionales de la mer et des directions départementales  des territoires et de la mer dans le cadre de la réforme de  l'administration territoriale de la mer et du littoral ;
+13° Les restructurations des services conduisant à la création des directions interrégionales de la mer et des directions départementales des territoires et de la mer dans le cadre de la réforme de l'administration territoriale de la mer et du littoral ;
 
 14° La réorganisation de l'Agence nationale de l'habitat ;
+
+14° bis Les transferts aux départements des parcs de l'équipement prévus par la loi n° 2009-1291 du 26 octobre 2009 relative au transfert aux départements des parcs de l'équipement et à l'évolution de la situation des ouvriers des parcs et ateliers ;
 
 15° Les opérations de réorganisation liées à la création de l'Ecole nationale supérieure maritime ;
 
@@ -46,20 +46,28 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 21° La création d'un service à compétence nationale pour l'instruction et la délivrance des certificats d'économies d'énergie ;
 
-22° Le rattachement des missions régaliennes de police de l'eau  exercées par les services de navigation aux directions régionales de  l'environnement, de l'aménagement et du logement ou aux directions  départementales des territoires concernées ;
+22° Le rattachement des missions régaliennes de police de l'eau exercées par les services de navigation aux directions régionales de l'environnement, de l'aménagement et du logement ou aux directions départementales des territoires concernées ;
 
-23° La restructuration  de l'Institut géographique national dans le cadre de la constitution de  l'Institut national de l'information géographique et forestière ;
+23° La restructuration de l'Institut géographique national dans le cadre de la constitution de l'Institut national de l'information géographique et forestière ;
 
 24° La relocalisation à Lille de la mission d'inspection générale territoriale du Nord ;
 
-25°  La restructuration des services locaux concourant à l'entretien,  l'exploitation et la gestion du réseau routier national au sein des  directions interdépartementales des routes ;
+25° La restructuration des services locaux concourant à l'entretien, l'exploitation et la gestion du réseau routier national au sein des directions interdépartementales des routes ;
 
-26°  La fermeture du centre de liquidation des prestations sociales de  l'Etablissement national des invalides de la marine sis à Bordeaux ;
+26° La fermeture du centre de liquidation des prestations sociales de l'Etablissement national des invalides de la marine sis à Bordeaux ;
 
-27°  La réorganisation de l'unité territoriale du Haut-Rhin de la direction  régionale de l'environnement, de l'aménagement et du logement Alsace ;
+27° La réorganisation de l'unité territoriale du Haut-Rhin de la direction régionale de l'environnement, de l'aménagement et du logement Alsace ;
 
 28° La fermeture de l'arrondissement territorial du service navigation Rhône-Saône implanté aux Angles ;
 
-29°  La réorganisation de l'unité territoriale de Meurthe-et-Moselle de la  direction régionale de l'environnement, de l'aménagement et du logement  Lorraine ;
+29° La réorganisation de l'unité territoriale de Meurthe-et-Moselle de la direction régionale de l'environnement, de l'aménagement et du logement Lorraine ;
 
-30° La réorganisation du centre de  valorisation des ressources humaines d'Arras dans le cadre de la  création du centre ministériel de valorisation des ressources humaines.
+30° La réorganisation du centre de valorisation des ressources humaines d'Arras dans le cadre de la création du centre ministériel de valorisation des ressources humaines ;
+
+31° Les restructurations de services consécutives à l'évolution de l'organisation de la prévision des crues et de l'hydrométrie ;
+
+32° Les réorganisations des parties de services liées au transfert des missions de gestion administrative et de paie des agents affectés dans les départements, régions et collectivités d'outre-mer au pôle support intégré de la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie ;
+
+33° Le transfert de services ou parties de services de navigation à l'établissement public Voies navigables de France créé par la loi n° 2012-77 du 24 janvier 2012 relative à Voies navigables de France ;
+
+34° Le rattachement des missions de police de la navigation et des missions d'instruction des titres de sécurité des bateaux et de conduite exercées par les services de navigation aux directions départementales des territoires concernées ainsi qu'à la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.

@@ -388,6 +388,15 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 <td align="left" valign="top"/>
 </tr>
 <tr>
+<td>BORDEAUX </td>
+<td>BRITANNIQUE</td>
+<td>1</td>
+<td>Collège Sainte-Clotilde </td>
+<td>C</td>
+<td>BORDEAUX </td>
+<td/>
+</tr>
+<tr>
 <td align="left" valign="top">
 <br/>BORDEAUX <br/>
 </td>
@@ -5325,16 +5334,24 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">
 <br/>VERSAILLES <br/>
+</p>
 </td>
 <td align="left" valign="top">
+<p align="left">
 <br/>AMÉRICAINE <br/>
+</p>
 </td>
 <td align="left" valign="top">
+<p align="left">
 <br/>1 <br/>
+</p>
 </td>
 <td align="left" valign="top">
+<p align="left">
 <br/>Ecole du Lycée international <br/>
+</p>
 </td>
 <td align="center">
 <p align="left">E </p>
@@ -5342,7 +5359,9 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 <td align="center">
 <p align="left">SAINT-GERMAIN-EN-LAYE </p>
 </td>
-<td align="center"/>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -5397,9 +5416,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5458,9 +5475,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5489,9 +5504,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5520,9 +5533,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5551,9 +5562,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5582,9 +5591,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5613,9 +5620,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5644,9 +5649,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5675,9 +5678,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5706,9 +5707,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5737,9 +5736,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5768,9 +5765,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5799,9 +5794,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5830,9 +5823,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5861,9 +5852,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5892,9 +5881,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5923,9 +5910,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5954,9 +5939,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5985,9 +5968,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6016,9 +5997,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6047,9 +6026,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6078,9 +6055,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6109,9 +6084,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6140,9 +6113,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6171,9 +6142,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6202,9 +6171,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6233,9 +6200,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6264,9 +6229,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6295,9 +6258,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6326,9 +6287,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6357,9 +6316,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6388,9 +6345,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6419,9 +6374,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6450,9 +6403,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6481,9 +6432,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6512,9 +6461,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6543,9 +6490,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6574,9 +6519,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6605,9 +6548,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6636,9 +6577,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6667,9 +6606,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6698,9 +6635,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6729,9 +6664,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6760,9 +6693,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6791,9 +6722,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6822,9 +6751,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6853,9 +6780,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6884,9 +6809,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6915,9 +6838,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6946,9 +6867,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -6977,9 +6896,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7008,9 +6925,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7039,9 +6954,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7070,9 +6983,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7101,9 +7012,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7132,9 +7041,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7163,9 +7070,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7194,9 +7099,7 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -7205,28 +7108,20 @@ Liste des sections internationales. - Année scolaire 2012-2013. - Modifiée au 
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
+</td>
+<td align="center">
+<p align="left">313 <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">312 <br/>
-</p>
+<br/>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
 </td>
 <td align="center">
 <br/>
@@ -9146,7 +9041,7 @@ Etablissements français à l'étranger
 </td>
 <td align="left" valign="top">
 <p align="left">
-<br/>367 <br/>
+<br/>368 <br/>
 </p>
 </td>
 <td align="left" valign="top">
