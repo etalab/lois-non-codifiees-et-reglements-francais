@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'exercice de ses attributions, le ministre délégué auprès du ministre de l'économie et des finances, chargé de l'économie sociale et solidaire et de la consommation, dispose des services placés sous l'autorité du ministre de l'économie et des finances ou dont celui-ci dispose, notamment de la direction générale de la concurrence, de la consommation et de la répression des fraudes, la direction générale de la cohésion sociale, la délégation générale à l'emploi et la formation professionnelle, la direction générale du travail, la direction de la sécurité sociale, la direction de la jeunesse, de l'éducation populaire et de la vie associative et le secrétariat général du comité interministériel des villes.
