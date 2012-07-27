@@ -14,6 +14,8 @@ Dans le cadre de la mise en œuvre de la politique d'établissement, les service
 
 ― en développant des programmes d'études et de recherches sur la santé des étudiants avec les différents acteurs de la vie universitaire et notamment des études épidémiologiques.
 
+Les services assurent la délivrance de médicaments ayant pour but la contraception d'urgence auprès des étudiantes.
+
 En outre, les services peuvent, à l'initiative de l'université ou des universités cocontractantes :
 
 ― se constituer en centre de santé conformément aux dispositions prévues à cet effet ;
