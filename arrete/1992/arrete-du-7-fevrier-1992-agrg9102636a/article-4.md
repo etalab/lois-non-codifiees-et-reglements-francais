@@ -1,6 +1,6 @@
 # Article 4
 
-Lors de la confirmation d'un cas de métrite contagieuse des équidés, l'Etat rémunère les vétérinaires sanitaires chargés de l'exécution des mesures prescrites par l'arrêté du 7 février 1992 susvisé, dans les conditions ci-après :
+Lors de la confirmation d'un cas de métrite contagieuse des équidés, l'Etat rémunère les vétérinaires mandatés chargés de l'exécution des mesures prescrites par l'arrêté du 7 février 1992 susvisé, dans les conditions ci-après :
 
 a) Visite de l'équidé déclaré infecté de métrite contagieuse des équidés comprenant :
 
@@ -56,4 +56,4 @@ Par prélèvement effectué sur une jument au niveau des sinus clitoridiens : da
 
 Par prélèvement effectué sur une jument au niveau des sinus clitoridiens et de l'utérus : dans la limite maximale de 150 F.
 
-d) Pour les déplacements afférents aux visites mentionnées aux paragraphes a, b et c ci-dessus du présent article, les vétérinaires sanitaires sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire.
+d) Pour les déplacements afférents aux visites mentionnées aux paragraphes a, b et c ci-dessus du présent article, les vétérinaires mandatés sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires mandatés pour les opérations de police sanitaire.
