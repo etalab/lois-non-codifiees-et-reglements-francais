@@ -10,7 +10,11 @@ II. ― Tout détenteur d'un véhicule circulant en France à la date d'entrée 
 
 ― soit immatriculer le véhicule concerné auprès d'un autre Etat membre.
 
-III. ― L'EPSF s'efforce dans la mesure où c'est compatible avec le respect des règles de marquage définies aux annexes  P à P 14 de la décision 2006/920/CE du 11 août 2006 susvisée et aux annexes P à P 14 de la décision 2008/231/CE du 1er février 2008 susvisée de reprendre tout ou partie du numéro jusqu'alors apposé sur le véhicule.
+III. ― L'EPSF  s'efforce de reprendre tout ou partie du numéro jusqu'alors apposé sur  le véhicule, dans la mesure où cela est compatible avec le respect des  règles de marquage définies :
+
+― du 1er janvier 2012  jusqu'au 31 décembre 2013 inclus, par l'appendice P de la décision  2011/314/ UE et les annexes P de la décision 2008/231/ CE ;
+
+― à partir du 1er janvier 2014, par l'appendice P bis de la décision 2011/314/ UE et les annexes P de la décision 2008/231/ CE.
 
 IV. ― Les dispositions de l'article 5 sont applicables aux procédures prévues par le I et le II.
 

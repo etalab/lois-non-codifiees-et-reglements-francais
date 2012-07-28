@@ -10,7 +10,7 @@ Ce formulaire, dûment renseigné en français, est adressé à l'EPSF par le d�
 
 ― le cas échéant, tout document émanant du propriétaire indiquant la personne à laquelle il a transféré son droit de disposition.
 
-2. Si la modification concerne l'identité de l'ECM, d'une attestation du détenteur indiquant l'identité de la nouvelle ECM et la date à partir de laquelle celle-ci assure ses fonctions.
+2.  Si la modification concerne l'identité de l'ECM, d'une attestation,  cosignée du détenteur et de l'ECM, indiquant l'identité de la nouvelle  ECM et la date à partir de laquelle celle-ci assure ses fonctions.
 
 3. Si la modification concerne l'identité du ou des propriétaires ou de la personne ayant mandat pour les représenter :
 

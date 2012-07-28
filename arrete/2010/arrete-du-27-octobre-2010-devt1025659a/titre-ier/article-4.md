@@ -10,6 +10,6 @@ Les pièces exigées pour l'attribution du numéro d'immatriculation européen s
 
 4. lorsque le véhicule ne fait pas l'objet d'un numéro d'identification européen, une déclaration sur l'honneur du détenteur attestant que le véhicule n'est pas déjà immatriculé ou ne fait pas l'objet d'une telle demande auprès de l'EPSF ou dans un autre Etat membre. Si le véhicule a précédemment fait l'objet d'une immatriculation l'ancien numéro d'immatriculation est communiqué ;
 
-5. une attestation du détenteur indiquant l'ECM en charge de la maintenance de ce véhicule ;
+5. Une attestation, cosignée du détenteur et de l'ECM, indiquant l'ECM en charge de la maintenance de ce véhicule ;
 
 6. une déclaration précisant si le véhicule est déjà autorisé dans un Etat membre ou s'il fait l'objet, parallèlement à la présente procédure d'une demande d'autorisation de mise en exploitation commerciale auprès de l'EPSF.
