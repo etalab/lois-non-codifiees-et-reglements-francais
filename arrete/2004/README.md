@@ -779,7 +779,6 @@
 - [Arrêté du 30 novembre 2004 (MENS0402640A)](arrete-du-30-novembre-2004-mens0402640a)
 - [Arrêté du 30 septembre 2003 (JUSC0320080A)](arrete-du-30-septembre-2003-jusc0320080a)
 - [Arrêté du 30 septembre 2004 (AGRD0402210A)](arrete-du-30-septembre-2004-agrd0402210a)
-- [Arrêté du 30 septembre 2004 (AGRG0402162A)](arrete-du-30-septembre-2004-agrg0402162a)
 - [Arrêté du 30 septembre 2004 (INTC0400726A)](arrete-du-30-septembre-2004-intc0400726a)
 - [Arrêté du 30 mai 2005 (ECOP0500313A)](arrete-du-30-mai-2005-ecop0500313a)
 - [Arrêté du 31 août 2004 (EQUP0400192A)](arrete-du-31-aout-2004-equp0400192a)
