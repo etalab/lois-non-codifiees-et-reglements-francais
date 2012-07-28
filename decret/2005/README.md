@@ -78,6 +78,7 @@
 - [Décret n°2005-374 du 20 avril 2005 (SANP0520823D)](decret-n2005-374-du-20-avril-2005-sanp0520823d)
 - [Décret n°2005-813 du 20 juillet 2005 (INTB0500193D)](decret-n2005-813-du-20-juillet-2005-intb0500193d)
 - [Décret n°2005-814 du 20 juillet 2005 (INTB0500194D)](decret-n2005-814-du-20-juillet-2005-intb0500194d)
+- [Décret n°2005-828 du 20 juillet 2005 (EQUX0500113D)](decret-n2005-828-du-20-juillet-2005-equx0500113d)
 - [Décret n°2005-835 du 20 juillet 2005 (MCCB0500386D)](decret-n2005-835-du-20-juillet-2005-mccb0500386d)
 - [Décret n°2005-837 du 20 juillet 2005 (MCCB0500388D)](decret-n2005-837-du-20-juillet-2005-mccb0500388d)
 - [Décret n°2005-840 du 20 juillet 2005 (SANP0522707D)](decret-n2005-840-du-20-juillet-2005-sanp0522707d)
