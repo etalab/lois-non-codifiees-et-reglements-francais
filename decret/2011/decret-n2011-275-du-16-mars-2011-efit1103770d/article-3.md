@@ -1,0 +1,3 @@
+# Article 3
+
+Si la quote-part du montant total des dépôts du livret A et du livret de développement durable définie à l'article 1er est inférieure, au titre d'un mois donné, au montant des prêts consentis au bénéfice du logement social et de la politique de la ville par la Caisse des dépôts et consignations au titre du fonds d'épargne prévu à l'article L. 221-7 du code monétaire et financier, affecté d'un coefficient multiplicateur égal à 135 %, la Caisse des dépôts et consignations en alerte par courrier les établissements de crédit distribuant l'un ou l'autre livret, ainsi que le ministre chargé de l'économie, avant le dernier jour du mois suivant le mois considéré.
