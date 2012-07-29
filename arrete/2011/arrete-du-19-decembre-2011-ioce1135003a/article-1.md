@@ -8,47 +8,47 @@ Ecole d'application de sécurité civile.
 
 Ministère de la défense et des anciens combattants :
 
-― armée de l'air ;
+-armée de l'air ;
 
-― bataillon de marins-pompiers de Marseille ;
+-bataillon de marins-pompiers de Marseille ;
 
-― brigade de sapeurs-pompiers de Paris ;
+-brigade de sapeurs-pompiers de Paris ;
 
-― centre d'instruction santé de l'armée de terre.
+-division instruction santé des armées.
 
 Ministère de l'éducation nationale, de la jeunesse et de la vie associative :
 
-― direction générale de l'enseignement scolaire.
+-direction générale de l'enseignement scolaire.
 
 Ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration :
 
-― direction générale de la sécurité civile et de la gestion des crises ;
+-direction générale de la sécurité civile et de la gestion des crises ;
 
-― équipe pédagogique nationale de secourisme des sapeurs-pompiers ;
+-équipe pédagogique nationale de secourisme des sapeurs-pompiers ;
 
-― direction générale de la police nationale ;
+-direction générale de la police nationale ;
 
-― direction générale de la gendarmerie nationale.
+-direction générale de la gendarmerie nationale.
 
 Ministère du travail, de l'emploi et de la santé :
 
-― direction générale de la santé.
+-direction générale de la santé.
 
 Services départementaux d'incendie et de secours :
 
-― des Bouches-du-Rhône ;
+-des Bouches-du-Rhône ;
 
-― d'Ille-et-Vilaine ;
+-d'Ille-et-Vilaine ;
 
-― de Loir-et-Cher ;
+-de Loir-et-Cher ;
 
-― de Seine-et-Marne ;
+-de Seine-et-Marne ;
 
-― des Yvelines ;
+-des Yvelines ;
 
-― de l'Essonne ;
+-de l'Essonne ;
 
-― du Val-d'Oise.
+-du Val-d'Oise.
 
 Associations nationales :
 
