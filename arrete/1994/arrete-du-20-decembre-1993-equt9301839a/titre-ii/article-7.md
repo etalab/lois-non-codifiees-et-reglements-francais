@@ -1,7 +1,5 @@
 # Article 7
 
-En application du II de l'article 11 du décret du 5 mars 1990 susvisé, les diplômes délivrés dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen peuvent être acceptés par équivalence avec les diplômes nationaux retenus aux articles 4 et 5 ci-dessus, sur décision du directeur des services de transport.
+Le  ressortissant communautaire ou français, titulaire d'une attestation de  compétence, d'un titre de formation ou d'un certificat, acquis ou  reconnu dans un autre Etat membre de l'Union européenne ou dans un autre  Etat partie à l'accord sur l'Espace économique européen, qui souhaite,  en application des dispositions du II de l'article 11 du décret du 5  mars 1990 modifié susvisé, la reconnaissance de sa qualification, en  adresse la demande au préfet de la région dans laquelle se situe le  siège social de son entreprise ou, pour une entreprise étrangère, son  établissement principal en France.
 
-Les personnes bénéficiaires de l'équivalence prévue à l'alinéa précédent au titre de l'article 5 sont soumises aux conditions d'obtention de l'attestation de capacité prévues par ledit article.
-
-Les ressortissants français peuvent également demander à bénéficier de ces dispositions.
+Sous réserve  des dispositions de l'article 7-2 du présent arrêté, le ressortissant  bénéficiaire de la reconnaissance de ses qualifications se voit délivrer  l'attestation de capacité professionnelle au vu de l'examen du dossier  de demande mentionné à l'article 7-1 par le préfet de la région  compétent.

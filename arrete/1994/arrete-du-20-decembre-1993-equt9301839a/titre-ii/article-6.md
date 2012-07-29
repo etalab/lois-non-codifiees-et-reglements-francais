@@ -2,7 +2,7 @@
 
 Les candidats doivent présenter un dossier comportant les pièces suivantes :
 
-1° Une demande d'attestation de capacité professionnelle présentée par le candidat conformément au formulaire CERFA n° 11414 et la notice relative à la délivrance de certificat, attestation ou justificatif de capacité professionnelle par équivalence de diplôme CERFA n° 51138 ;
+1° Une demande d'attestation de capacité professionnelle présentée par le candidat conformément au formulaire CERFA n° 11414 ;
 
 2° Une photocopie du diplôme ou du titre de fin d'études présenté ;
 
