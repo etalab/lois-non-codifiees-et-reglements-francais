@@ -547,7 +547,6 @@
 - [Arrêté du 11 juillet 2012 (DEVT1228951A)](arrete-du-11-juillet-2012-devt1228951a)
 - [Arrêté du 11 juillet 2012 (INTA1229071A)](arrete-du-11-juillet-2012-inta1229071a)
 - [Arrêté du 11 juillet 2012 (INTV1226181A)](arrete-du-11-juillet-2012-intv1226181a)
-- [Arrêté du 11 juillet 2012 (JUSK1229162A)](arrete-du-11-juillet-2012-jusk1229162a)
 - [Arrêté du 11 juillet 2012 (JUST1229166A)](arrete-du-11-juillet-2012-just1229166a)
 - [Arrêté du 11 juin 2012 (DEFD1225693A)](arrete-du-11-juin-2012-defd1225693a)
 - [Arrêté du 11 juin 2012 (DEFD1225711A)](arrete-du-11-juin-2012-defd1225711a)
