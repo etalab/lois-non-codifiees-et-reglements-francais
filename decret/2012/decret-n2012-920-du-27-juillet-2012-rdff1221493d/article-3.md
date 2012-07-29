@@ -1,0 +1,3 @@
+# Article 3
+
+Une convention conclue entre la Caisse nationale d'assurance vieillesse des travailleurs salariés, le ministre chargé de la sécurité sociale et le ministre chargé de la fonction publique définit les modalités de gestion du dispositif d'aide au maintien à domicile ainsi que les modalités du remboursement par l'Etat à la Caisse nationale d'assurance vieillesse des travailleurs salariés de l'ensemble des frais, y compris les frais de gestion, engagés pour la mise en œuvre du dispositif, pour leur coût réel dûment justifié, afin de respecter le principe de neutralité financière pour la branche retraite du régime général.
