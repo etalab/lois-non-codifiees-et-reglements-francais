@@ -13,8 +13,12 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="4">
 <p align="left">Allemagne</p>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="left">Ambassade (Berlin)</p>
@@ -24,11 +28,10 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">Consulat général à Francfort</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="left">Consulat général à Düsseldorf</p>
@@ -36,21 +39,10 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
 <p align="left">Consulat général à Sarrebruck</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">
-<br/>
-</p>
-</td>
 <td align="left" valign="top">
 <p align="left">Consulat général à Munich</p>
 </td>
@@ -70,7 +62,7 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">Canada</p>
 </td>
 <td align="left" valign="top">
@@ -81,11 +73,6 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">
-<br/>
-</p>
-</td>
 <td align="left" valign="top">
 <p align="left">Consulat général à Vancouver</p>
 </td>
@@ -105,23 +92,21 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">Espagne</p>
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">Consulat général à Madrid</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="left">Consulat général à Séville</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
 <p align="left">Consulat général à Bilbao</p>
 </td>
@@ -138,6 +123,17 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Fédération de Russie </p>
+</td>
+<td>
+<p align="left">Consulat général à Moscou </p>
+</td>
+<td>
+<p align="left">Consulat général à Ekaterinbourg </p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Grèce</p>
 </td>
@@ -149,11 +145,12 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" rowspan="3" valign="top">
 <p align="left">Italie</p>
 </td>
-<td align="left" valign="top">
-<p align="left">Ambassade (Rome)</p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Ambassade (Rome)<br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Ambassade près le Saint-Siège</p>
@@ -161,19 +158,10 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
 <p align="left">Consulat général à Naples</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
 <p align="left">Consulat général à Milan</p>
 </td>
@@ -207,8 +195,12 @@ En application du second alinéa de l'article 5 de la loi organique du 31 janvie
 <td>
 <p align="left">Liban</p>
 </td>
-<td>Consulat général à Beyrouth</td>
-<td>Ambassade en Syrie (Damas)</td>
+<td>
+<p align="left">Consulat général à Beyrouth</p>
+</td>
+<td>
+<p align="left">Ambassade en Syrie (Damas)</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
