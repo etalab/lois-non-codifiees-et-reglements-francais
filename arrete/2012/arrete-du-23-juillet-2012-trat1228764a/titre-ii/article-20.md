@@ -1,0 +1,3 @@
+# Article 20
+
+Afin de faciliter un traitement équitable et transparent de l'ensemble des demandes, l'EPSF définit et publie par voie électronique, après consultation des organismes représentatifs directement intéressés et dans un délai d'un an à compter de la date de publication du présent arrêté, les procédures, guides et définitions pertinents nécessaires, conformes aux législations communautaire et nationale, pour instruire les demandes d'autorisation de réalisation et de mise en exploitation commerciale de véhicules ou d'autres sous-systèmes de transport ferroviaire nouveaux ou substantiellement modifiés et contrôler le respect des conditions de maintien par leurs titulaires.

@@ -576,6 +576,8 @@
 - [Décret n°2012-826 du 27 juin 2012 (PRMX1224296D)](decret-n2012-826-du-27-juin-2012-prmx1224296d)
 - [Décret n°2012-830 du 27 juin 2012 (FAMS1225297D)](decret-n2012-830-du-27-juin-2012-fams1225297d)
 - [Décret n°2012-920 du 27 juillet 2012 (RDFF1221493D)](decret-n2012-920-du-27-juillet-2012-rdff1221493d)
+- [Décret n°2012-922 du 27 juillet 2012 (MAEF1229007D)](decret-n2012-922-du-27-juillet-2012-maef1229007d)
+- [Décret n°2012-923 du 27 juillet 2012 (MENF1221129D)](decret-n2012-923-du-27-juillet-2012-menf1221129d)
 - [Décret n°2011-2006 du 28 décembre 2011 (AGRG1127027D)](decret-n2011-2006-du-28-decembre-2011-agrg1127027d)
 - [Décret n°2012-274 du 28 février 2012 (DEVL1125740D)](decret-n2012-274-du-28-fevrier-2012-devl1125740d)
 - [Décret n°2012-275 du 28 février 2012 (ETSD1205857D)](decret-n2012-275-du-28-fevrier-2012-etsd1205857d)
