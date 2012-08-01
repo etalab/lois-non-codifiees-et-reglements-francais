@@ -82,5 +82,71 @@ Barème 2012. - Versement pour un trimestre
 <br/>5 213 €<br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center"> 61</p>
+</td>
+<td>
+<p align="center"> 3 586 €</p>
+</td>
+<td>
+<p align="center"> 5 315 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 62</p>
+</td>
+<td>
+<p align="center"> 3 654 €</p>
+</td>
+<td>
+<p align="center"> 5 414 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 63</p>
+</td>
+<td>
+<p align="center"> 3 563 €</p>
+</td>
+<td>
+<p align="center"> 5 279 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">64</p>
+</td>
+<td>
+<p align="center"> 3 471 €</p>
+</td>
+<td>
+<p align="center"> 5 143 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">65</p>
+</td>
+<td>
+<p align="center"> 3 380 €</p>
+</td>
+<td>
+<p align="center">5 008 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 66</p>
+</td>
+<td>
+<p align="center"> 3 289 €</p>
+</td>
+<td>
+<p align="center"> 4 873 €</p>
+</td>
+</tr>
 </tbody>
 </table>
