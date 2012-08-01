@@ -975,7 +975,6 @@
 - [Arrêté du 12 avril 2011 (DEVT1109212A)](arrete-du-12-avril-2011-devt1109212a)
 - [Arrêté du 12 avril 2011 (ETSS1108260A)](arrete-du-12-avril-2011-etss1108260a)
 - [Arrêté du 12 avril 2011 (MEND1109453A)](arrete-du-12-avril-2011-mend1109453a)
-- [Arrêté du 12 avril 2011 (OMEO1110391A)](arrete-du-12-avril-2011-omeo1110391a)
 - [Arrêté du 12 décembre 2011 (BCRE1127799A)](arrete-du-12-decembre-2011-bcre1127799a)
 - [Arrêté du 12 décembre 2011 (COTB1127871A)](arrete-du-12-decembre-2011-cotb1127871a)
 - [Arrêté du 12 décembre 2011 (DEFH1131586A)](arrete-du-12-decembre-2011-defh1131586a)
