@@ -1,0 +1,3 @@
+# Article 5
+
+Dans l'annexe du décret du 10 juillet 1948 susvisé, à la rubrique « Education nationale et recherche », au II. ― Inspection, après « B. ― Inspection à compétences locales », la mention « Inspecteur de l'académie de Paris, 701-1015 (a) » est maintenue pendant une période transitoire de deux ans à compter de la date d'entrée en vigueur du décret n° 2009-1302 du 26 octobre 2009 portant dispositions relatives aux inspecteurs d'académie-inspecteurs pédagogiques régionaux régis par le décret n° 90-675 du 18 juillet 1990 portant statuts particuliers des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.

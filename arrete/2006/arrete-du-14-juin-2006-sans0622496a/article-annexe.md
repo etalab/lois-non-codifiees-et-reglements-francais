@@ -504,7 +504,7 @@ Le chirurgien-dentiste porte alors la mention ED sur la feuille de soins et de t
 
 2. Le devis :
 
-Avant l'élaboration d'un traitement pouvant faire l'objet d'une entente directe sur les honoraires, le chirurgien-dentiste doit remettre à l'assuré un devis descriptif écrit, établi conformément aux dispositions de l'annexe III et comportant notamment :
+Avant l'élaboration d'un traitement pouvant faire l'objet d'une entente directe sur les honoraires, le chirurgien-dentiste doit remettre à l'assuré un devis descriptif écrit, établi conformément à l'article L. 1111-3 modifié du code de la santé publique et comportant notamment :
 
 1° La description précise et détaillée du traitement envisagé et/ou les matériaux utilisés ;
 
@@ -1127,6 +1127,86 @@ En formation chirurgiens-dentistes , la CPD est composée :
 - de la section professionnelle telle que décrite supra ;
 
 - des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
+
+7.2.2. bis Commission paritaire régionale (CPR)
+
+Il est institué une commission paritaire dans chaque région, qui se réunit en tant que de besoin et au minimum une fois par an.
+
+Celle-ci est composée pour moitié :
+
+- de représentants des caisses d'assurance maladie, qui constituent la section sociale ;
+
+- de représentants des organisations régionales des syndicats signataires de la convention, qui constituent la section professionnelle.
+
+1. Composition
+
+Les membres titulaires
+
+Section professionnelle
+
+La section professionnelle comprend 6 sièges et 2 sièges supplémentaires par syndicat au-delà de 2 syndicats signataires, à répartir au sein de la section.
+
+Chaque organisation régionale de syndicat national signataire et/ou chaque syndicat régional appartenant à une organisation nationale signataire désigne ses représentants chirurgiens-dentistes libéraux conventionnés exerçant à titre principal dans la région.
+
+Section sociale
+
+La section sociale comprend un nombre de sièges équivalents afin d'établir la parité.
+
+La qualité de membre d'une profession de santé libérale en exercice libéral est incompatible avec celle de représentant d'un organisme d'assurance maladie.
+
+La section sociale comprend un nombre de sièges équivalents afin d'établir la parité, répartis comme suit :
+
+3 représentants du régime général : 1 administratif, 1 conseiller, 1 praticien-conseil ;
+
+2 représentants du régime agricole ;
+
+1 représentant du régime des professions indépendantes.
+
+Au-delà de 2 syndicats signataires, les sièges supplémentaires de la section sociale sont attribués au régime général.
+
+Les membres suppléants
+
+Un nombre identique de suppléants est désigné dans les mêmes conditions que les membres titulaires afin de siéger en leur absence.
+
+Composition en "formation chirurgiens-dentistes"
+
+En "formation chirurgiens-dentistes", la CPR est composée :
+
+- de la section professionnelle telle que décrite supra ;
+
+- des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
+
+2. Missions
+
+La commission paritaire régionale exerce les attributions qui lui sont dévolues par le présent avenant.
+
+La commission paritaire est chargée notamment des missions suivantes :
+
+- elle facilite l'application de la convention par une concertation permanente sur le plan régional entre les caisses et les représentants des chirurgiens-dentistes. En cas de désaccord entre les parties, l'une ou l'autre peut soumettre le dossier à la commission paritaire nationale ;
+
+- elle suit et évalue au niveau régional l'impact des mesures d'incitation à l'installation et au maintien de l'activité, notamment dans les zones "très sous-dotées". Au regard des résultats régionaux et des éventuelles difficultés rencontrées dans l'application des mesures de rééquilibrage de l'offre en chirurgien-dentiste libéral, la commission peut proposer des adaptations ;
+
+- elle étudie les documents statistiques et économiques permettant de mieux identifier dans la région les besoins de santé de la population, l'activité des chirurgiens-dentistes, d'évaluer le coût des soins, la répartition de l'offre de soins en chirurgiens-dentistes ;
+
+- elle suit l'évolution régionale des dépenses de santé en rapport avec les actes dentaires et analyse ces dépenses au regard des besoins de santé de la population ;
+
+- elle met en place des actions d'information et/ou de sensibilisation des professionnels, actions qui seront relayées par les caisses ;
+
+- elle informe régulièrement de ses travaux la CPN, qui fait le lien avec l'observatoire national sur ces sujets.
+
+La CPR adresse à la CPN au cours du dernier trimestre de chaque année un rapport sur ses activités de l'année en cours.
+
+3. Fonctionnement
+
+La commission doit être mise en place six mois au plus tard après la date d'entrée en vigueur du présent avenant.
+
+Lorsque le délai de six mois après la date d'entrée en vigueur du présent avenant est écoulé, le directeur en charge, dans la région, de la coordination de la gestion du risque désigne la caisse qui se substitue de plein droit dans les attributions de la commission paritaire régionale le temps que celle-ci se mette en place.
+
+La commission paritaire régionale se réunit sur convocation de son président au moins une fois par an.
+
+Le secrétariat de l'instance est assuré par la caisse désignée par le directeur coordonnateur de la gestion du risque.
+
+Toutes les autres dispositions de l'article 7.2.3 et de l'annexe IV de la convention nationale (indemnités de vacations, présidence, carence, quorum...) sont applicables au fonctionnement des CPR.
 
 7.2.3. Les dispositions communes à la Commission paritaire nationale et aux commissions paritaires départementales
 

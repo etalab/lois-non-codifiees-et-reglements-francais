@@ -1,53 +1,103 @@
 # Article Annexe III
 
-DEVIS POUR TRAITEMENT PROTHÉTIQUE ET AUTRES ACTES POUVANT FAIRE L'OBJET D'UNE ENTENTE DIRECTE (*)
+DEVIS TYPE
 
-Le devis comporte des éléments obligatoires et des éléments facultatifs décrits ci-après. Aucune autre mention ne peut y figurer. Un modèle type de devis sera élaboré par un groupe de travail de la CPN avant le 31 décembre 2006.
+Dans le devis remis au patient, les honoraires facturés pour l'acte faisant l'objet du devis sont distingués en trois composantes :
 
-I. - Eléments obligatoires
+- le prix de vente du dispositif médical sur mesure proposé (colonne A) comprend l'achat du dispositif médical au fournisseur, majoré d'une partie des charges de structure du cabinet dentaire ;
 
-Les éléments obligatoires devant figurer dans le devis sont les suivants :
+- le montant des prestations de soins (colonne B1) est la valeur ajoutée médicale du travail effectué par le praticien et toutes ses charges personnelles ;
 
-1. Date d'établissement du devis.
+- les charges de structure du cabinet (colonne B2), autres que celles déjà affectées au prix de vente du dispositif.
 
-2. Identification du praticien traitant.
+Le calcul de ces différentes composantes est effectué à partir des données individuelles de la déclaration 2035 du chirurgien-dentiste de l'année N-2, de l'honoraire facturé au patient pour l'acte faisant l'objet du devis et du prix d'achat au fournisseur du dispositif nécessaire à cet acte.
 
-3. Identification du patient.
+Les charges globales du cabinet sont distinguées en trois catégories :
 
-4. Durée de validité du devis.
+- les charges personnelles, incluant les charges de cotisations sociales personnelles du chirurgien-dentiste (code BK de la déclaration 2035), la contribution économique territoriale (code JY), la contribution sociale généralisée (code BV) et les autres impôts (code BS) sont des charges directement imputées à l'activité médicale du praticien, c'est-à-dire au montant des soins ;
 
-5. Description du traitement proposé.
+- les charges d'achat (BA) du cabinet comprennent en majorité les charges d'achat des dispositifs médicaux sur mesure ;
 
-6. Description précise et détaillée des actes : nature de l'acte, localisation, matériaux utilisés (nature et normes) et montant des honoraires.
+- les autres charges (amortissement, frais de personnel, loyers...) sont qualifiées de charges de structure du cabinet.
 
-7. Cotation des actes selon la nomenclature en vigueur.
+Les étapes de calcul des colonnes A, B1 et B2 à partir des honoraires facturés au patient (colonne C) et des charges affectées sont les suivantes :
 
-8. Montant total des honoraires.
+1° Données préliminaires (à partir de la déclaration 2035) :
 
-9. Base de remboursement pour l'assurance maladie obligatoire.
+1.1. Définitions des rubriques de la déclaration 2035
 
-10. Mention : Le patient reconnaît avoir eu la possibilité du choix de son traitement.
+[BR] = Total dépenses professionnelles
 
-11. Signature du praticien.
+[BA] = Achats
 
-12. Signature du patient ou du (des) responsable(s) légal (légaux).
+[BK] = Charges sociales personnelles
 
-13. Toute mention légale obligatoire.
+[JY] = Contribution économique territoriale
 
-II. - Eléments facultatifs
+[BV] = Contribution sociale généralisée déductible
 
-Les éléments facultatifs pouvant figurer dans le devis sont les suivants :
+[BS] = Autres impôts
 
-1. Sous-titre : Proposition de traitement et de convention d'honoraire.
+[CH] = Dotations aux amortissements
 
-2. Référence du devis.
+[AG] = Honoraires totaux
 
-3. NIR de l'assuré.
+1.2. Calcul du taux de charges de structure :
 
-4. Espace réservé à la transmission, par les assurés à des tiers, de données administratives complémentaires.
+Le taux de charges de structure est la part de l'honoraire total représentée par l'ensemble des charges du cabinet hors achats et hors charges personnelles
 
-5. Schéma dentaire initial.
+Vous pouvez consulter le tableau à l'adresse suivante :
 
-6. Mention : Les soins ne sont pas compris dans ce devis.
+http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026237147&fastPos=1&fastReqId=1320861869&categorieLien=id&oldAction=rechTexte
 
-(*) Ou faisant l'objet d'un dépassement d'honoraires dans les limites fixées par les arrêtés du 31 décembre 1999 et du 15 janvier 2000, modifiés par l'arrêté du 10 avril 2002.
+2° Calcul des 3 colonnes, à partir de l'honoraire facturé de l'acte :
+
+Le prix de vente ou coût d'élaboration du dispositif médical sur mesure (colonne A) intègre le prix d'achat du dispositif et une partie des charges de structure :
+
+Vous pouvez consulter le tableau à l'adresse suivante :
+
+http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026237147&fastPos=1&fastReqId=1320861869&categorieLien=id&oldAction=rechTexte
+
+Le montant des prestations de soins (colonne B1), ou valeur ajoutée médicale de l'acte et charges afférentes se calcule de la façon suivante :
+
+Montant des prestations de soins de l'acte = honoraire de l'acte × (1 - taux de charges de structure) - prix d'achat du dispositif
+
+Les charges de structure (colonne B2) se calculent comme suit :
+
+Charges de structure = honoraire de l'acte - montant des prestations de soins - prix de vente du dispositif
+
+Cas particulier des actes à honoraires plafonnés (CMU-C) :
+
+Les calculs sont établis comme pour un acte à honoraire non plafonné, la différence entre l'honoraire habituel et l'honoraire plafonné est déduite du montant des prestations de soins (B1).
+
+Description des prestations médicales :
+
+S'il le juge utile, le chirurgien-dentiste pourra compléter le verso du devis par une description détaillée des prestations médicales réalisées dans le cadre du traitement prothétique ou orthodontique proposé.
+
+Vous pouvez consulter le tableau à l'adresse suivante :
+
+http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026237147&fastPos=1&fastReqId=1320861869&categorieLien=id&oldAction=rechTexte
+
+Notice explicative pour le patient figurant au dos du devis :
+
+Ce devis s'applique à tout traitement, pour lequel un dispositif médical sur mesure est nécessaire (prothèse dentaire essentiellement). Le chirurgien-dentiste vous précisera la durée de validité de ce devis.
+
+Votre chirurgien-dentiste vous informera des différentes possibilités de traitement qui vous sont offertes.
+
+Si vous désirez transmettre ce devis à votre organisme complémentaire, vous pouvez renseigner le pavé correspondant.
+
+Dans ce devis, le chirurgien-dentiste décrit le traitement qu'il vous propose ainsi que les différents matériaux utilisés.
+
+Le chirurgien-dentiste doit indiquer le lieu de fabrication du dispositif médical (exemple : couronne), qui peut être :
+
+- en France ;
+
+- au sein de l'Union européenne (UE), de l'Espace économique européen (EEE), en Suisse ;
+
+- hors de l'Union européenne, le pays sera alors précisé.
+
+En cas de sous-traitance de la fabrication du dispositif par le fournisseur, le chirurgien-dentiste en précisera le lieu.
+
+Si vous le souhaitez, une déclaration de conformité du dispositif médical, garantissant la traçabilité et la sécurité des matériaux utilisés, vous sera remise en fin de traitement.
+
+Ce devis vous informera du coût des traitements proposés par votre chirurgien-dentiste. Il précisera notamment le prix de vente du dispositif médical sur mesure proposé, correspondant au coût d'élaboration du dispositif médical incluant certaines charges du cabinet (A), le montant des prestations de soins assurées par le praticien lors du traitement (B1) ainsi que le montant des autres charges de structure du cabinet (B2). Les honoraires (C = A + B1 + B2) correspondent à la somme de ces trois montants. En outre, le devis précise le montant restant à votre charge avant remboursement par votre organisme complémentaire, si vous en avez un (E).

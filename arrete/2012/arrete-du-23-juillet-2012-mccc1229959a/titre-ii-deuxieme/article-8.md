@@ -1,0 +1,3 @@
+# Article 8
+
+Sont admis à s'inscrire en première année de deuxième cycle les élèves ayant obtenu le diplôme de premier cycle de l'Ecole du Louvre dans un délai maximum de quatre années avec une moyenne minimum de 14 sur 20 aux examens du cours de troisième année de spécialité, ainsi que les élèves titulaires d'une licence d'histoire de l'art et archéologie, obtenue avec une moyenne minimum de 12 sur 20, ou d'un diplôme étranger équivalent, sous réserve de l'acceptation de leur dossier par la commission de scolarité de l'Ecole du Louvre prenant en compte les résultats obtenus et les places disponibles.
