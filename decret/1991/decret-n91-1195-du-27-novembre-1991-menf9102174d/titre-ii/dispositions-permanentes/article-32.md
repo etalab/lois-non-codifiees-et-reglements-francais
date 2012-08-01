@@ -1,9 +1,7 @@
 # Article 32
 
-L'emploi de médecin de l'éducation nationale - conseiller technique comporte sept échelons. La durée du temps passé dans chaque échelon pour accéder à l'échelon supérieur est fixée à dix-huit mois pour les deux premiers échelons et à deux ans pour les 3e, 4e et 5e échelons.
+Les emplois du groupe I comprennent trois échelons. La durée du temps passé dans le premier échelon est de deux ans ; elle est de trois ans dans le deuxième échelon.
 
-Seuls peuvent accéder au 7e échelon de l'emploi régi par le présent titre :
+Les emplois du groupe II comprennent cinq échelons. La durée du temps passé dans les trois premiers échelons est de deux ans ; elle est de trois ans pour le quatrième échelon.
 
-1° Les médecins de l'éducation nationale - conseillers techniques exerçant les fonctions de conseiller des services centraux et de conseiller technique du recteur d'académie ;
-
-2° Les médecins de l'éducation nationale - conseillers techniques exerçant les fonctions de conseiller responsable départemental dans l'un des départements figurant sur une liste fixée par arrêté conjoint du ministre chargé de l'éducation nationale, du ministre chargé de la fonction publique et du ministre chargé du budget.
+Les emplois du groupe III comprennent six échelons. La durée du temps passé dans les trois premiers échelons est de un an ; elle est de deux ans pour les quatrième et cinquième échelons.

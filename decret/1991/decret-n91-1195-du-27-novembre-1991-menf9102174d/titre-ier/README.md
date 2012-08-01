@@ -3,5 +3,4 @@
 - [Avancement](avancement)
 - [Dispositions diverses](dispositions-diverses)
 - [Dispositions générales](dispositions-generales)
-- [Dispositions transitoires](dispositions-transitoires)
 - [Recrutement](recrutement)

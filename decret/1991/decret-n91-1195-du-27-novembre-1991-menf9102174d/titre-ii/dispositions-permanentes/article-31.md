@@ -1,11 +1,27 @@
 # Article 31
 
-Il est créé un statut d'emploi de médecin de l'éducation nationale-conseiller technique.
+I. - Les emplois de médecin de l'éducation nationale-conseiller technique sont répartis en trois groupes : le groupe I, le groupe II et le groupe III.
 
-Les médecins occupant cet emploi exercent les fonctions suivantes :
+Le nombre des emplois dans chaque groupe de médecin de l'éducation nationale-conseiller technique est fixé par arrêté conjoint des ministres chargés de l'éducation nationale, de la fonction publique et du budget.
 
-1° Conseiller technique des services centraux : il participe à l'élaboration et à l'évaluation de la politique du ministre chargé de l'éducation nationale dans le domaine de la santé ;
+II. - Le groupe I comprend les emplois suivants :
 
-2° Conseiller technique du recteur : placé auprès du recteur d'académie, il conseille celui-ci sur toutes questions à caractère médical et sanitaire concernant les élèves et participe à la mise en oeuvre des orientations nationales, à l'application de la politique sanitaire dans le ressort de l'académie ainsi qu'à la coordination et à l'évaluation des actions conduites dans le cadre des politiques sanitaires départementales ;
+1° Conseiller technique des services centraux ;
 
-3° Conseiller technique responsable départemental : placé auprès du               directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, il est chargé d'appliquer dans le département la politique du ministre dans le domaine de la santé scolaire. A cet effet, il définit et coordonne les différentes actions à caractère médical et sanitaire menées par les médecins de l'éducation nationale. Il organise les activités et participe à la planification des moyens propres du service de la santé scolaire.
+2° Conseiller technique du recteur d'académie exerçant des fonctions comportant l'exercice des responsabilités les plus élevées, notamment dans les académies dont les effectifs d'élèves du premier et second degré sont les plus significatifs.
+
+III. - Le groupe II comprend les emplois suivants :
+
+1° Conseiller technique du recteur d'académie, dans les académies qui ne relèvent pas du groupe I ;
+
+2° Conseiller technique exerçant des fonctions de conseiller responsable départemental présentant une difficulté d'exercice particulière, dans l'un des départements dont les effectifs d'élèves du premier et second degré sont les plus significatifs.
+
+IV. - Le groupe III comprend les emplois suivants :
+
+1° Conseiller technique responsable départemental qui ne relève pas du groupe II ;
+
+2° Conseiller technique adjoint dans l'un des départements ou académies dont le poids des collèges bénéficiant d'un dispositif d'éducation prioritaire et dont les effectifs d'élèves du premier et second degré sont les plus significatifs ;
+
+3° Conseiller technique chargé de missions définies au V de l'article 31-1 ci-après.
+
+V. - La liste des emplois de chacun des trois groupes est fixée par arrêté du ministre chargé de l'éducation nationale.

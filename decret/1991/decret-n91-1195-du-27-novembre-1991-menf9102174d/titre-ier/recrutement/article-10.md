@@ -6,9 +6,9 @@ Toutefois, peuvent être pris en compte sur la base des durées moyennes fixées
 
 1° L'année de stage pratique prévue à l'article 1er du décret du 28 juillet 1960 modifié portant réforme du régime des études et des examens en vue du doctorat en médecine ;
 
-2° Les fonctions exercées dans le cadre du troisième cycle des études défini par la loi du 23 décembre 1982 susvisée ;
+2° Les fonctions exercées dans le cadre du troisième cycle des études défini par le décret n° 2004-67 du 16 janvier 2004 relatif à l'organisation du troisième cycle des études médicales ;
 
-3° Les services effectués en qualité d'interne titulaire des établissements assurant le service public hospitalier ;
+3° Les services effectués en qualité d'interne ou résident titulaire des établissements assurant le service public hospitalier ;
 
 4° Le temps de pratique professionnelle attestée par une inscription au tableau de l'ordre des médecins ;
 

@@ -1,9 +1,7 @@
 # Article 17
 
-Le détachement prévu à l'article précédent est prononcé à équivalence de grade et à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps, cadre d'emplois ou emploi d'origine.
-
-Les médecins détachés dans le corps des médecins de l'éducation nationale conservent, dans la limite de la durée moyenne de service exigée pour l'accès à l'échelon supérieur de leur grade, l'ancienneté d'échelon acquise dans leur précédent grade lorsque ce détachement leur procure un avantage inférieur à celui qui résulterait d'un avancement d'échelon dans leur grade d'origine ou qui a résulté de leur nomination audit échelon si cet échelon était le plus élevé de leur précédent grade.
+Les fonctionnaires placés en position de détachement ou directement intégrés dans le corps des médecins de l'éducation nationale sont respectivement soumis aux dispositions des titres II et III bis du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions.
 
 Ils sont tenus de suivre un stage d'initiation à l'emploi dans les conditions définies conjointement par le ministre de l'éducation nationale et le ministre chargé de la santé.
 
-Ils concourent pour les avancements de grade et d'échelon dans le corps de médecins de l'éducation nationale régi par le présent décret, avec l'ensemble des médecins relevant de ce corps.
+Lorsque l'application des dispositions qui précèdent aboutit à classer le fonctionnaire à un échelon doté d'un traitement inférieur à celui qu'il détenait dans son corps ou cadre d'emplois d'origine, l'intéressé conserve, à titre personnel, le bénéfice de son traitement antérieur jusqu'au jour où il bénéficie dans son nouveau corps d'un traitement au moins égal. Toutefois, le traitement ainsi maintenu ne peut excéder la limite du traitement indiciaire afférent au dernier échelon du corps des médecins de l'éducation nationale.

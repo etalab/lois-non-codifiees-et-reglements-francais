@@ -1,6 +1,6 @@
 # Article 13
 
-Peuvent être inscrits au tableau d'avancement pour l'accès au grade de médecin de l'éducation nationale de 1re classe, après avis de la commission administrative paritaire, les médecins de l'éducation nationale de 2e classe ayant atteint le septième échelon de leur grade et justifiant de cinq ans de services effectifs dans le corps des médecins de l'éducation nationale.
+Peuvent être inscrits au tableau d'avancement pour l'accès au grade de médecin de l'éducation nationale de 1re classe, après avis de la commission administrative paritaire, les médecins de l'éducation nationale de 2e classe ayant atteint le sixième échelon de leur grade et justifiant de cinq ans de services effectifs dans le corps des médecins de l'éducation nationale.
 
 Les intéressés sont nommés à l'échelon du grade d'avancement comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient antérieurement.
 
