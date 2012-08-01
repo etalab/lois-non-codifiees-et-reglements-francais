@@ -1,6 +1,5 @@
 # Article Annexe (suite 3)
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -702,25 +701,19 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>Médecin de l'éducation nationale, conseiller technique</p>
+<p align="center">Abrogé</p>
 </td>
-<td valign="top" width="113">
-<p align="center">801 -1015 (a)</p>
-</td>
+<td valign="top" width="113"/>
 <td valign="top" width="279">
-<p>(a)</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>Médecin de l'éducation nationale</p>
-<p>1ere classe </p>
-<p>2e classe </p>
+<p align="center">Abrogé</p>
 </td>
 <td valign="top" width="113">
 <br/>
-<p align="center">750 - 1015</p>
-<p align="center">427 - 852</p>
 </td>
 <td valign="top" width="279"/>
 </tr>
@@ -1067,4 +1060,3 @@
 </tr>
 </tbody>
 </table>
-</div>
