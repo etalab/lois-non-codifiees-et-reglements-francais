@@ -6,11 +6,13 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au directeur du centre ministériel de gestion de Toulon ;
 
+- adjoint au directeur du service central marchés de la direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (1);
+
 - adjoint au sous-directeur finances-contrats à la direction du service de soutien de la flotte à Toulon ;
 
 - adjoint au chef du groupement de soutien de la base de défense d'Angers ;
 
-- adjoint au sous-directeur des ressources humaines à la direction du service national ;
+- adjoint au sous-directeur ressources métier à la direction du service national (4);
 
 - adjoint au directeur des missions, chef du département reconnaissance et réparation de l'Office national des anciens combattants et victimes de guerre ;
 
@@ -18,13 +20,13 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au sous-directeur de la synthèse et des statuts particuliers et chef du bureau des personnels ICT de la direction générale de l'armement ;
 
-- adjoint du directeur du centre d'analyse et de contrôle interne comptable de Rambouillet du service du commissariat des armées ;
-
 - adjoint au directeur du centre ministériel de gestion de Toulon et chef de la division gestion individuelle ;
 
 - adjoint au chef du bureau de la politique d'emploi des ressources humaines de l'armée de l'air ;
 
-- chef de division recrutement-formation du centre ministériel de gestion de Metz ;
+- adjoint au chef du bureau gestion des ressources humaines à la direction centrale du service d'infrastructure de la défense (2) ;
+
+- chef de la division "administration générale et soutien" de l'agence comptable des services industriels de l'armement (1);
 
 - chef de l'observatoire du personnel civil de l'inspection de l'armée de terre ;
 
@@ -62,13 +64,17 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau des programmes au contrôle budgétaire et comptable ministériel ;
 
+- chef du bureau affaires juridiques et sociales, conseiller ressources humaines à la direction centrale du service industriel de l'aéronautique (1) ;
+
+- chef de bureau de synthèse des questions combattantes à la sous-direction des bureaux des cabinets (1);
+
 - conseiller personnel civil à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
 - chef du département secrétariat général à la Caisse nationale militaire de sécurité sociale ;
 
 - chef du service achat-infrastructure de l'établissement du service d'infrastructure de la défense de Bordeaux ;
 
-- chef du bureau chancellerie et administration du personnel à la direction centrale du service d'infrastructure de la défense ;
+- chef du bureau organisation ressources humaines à la direction centrale du service d'infrastructure de la défense (2);
 
 - chef de la division soutien juridique du service centralisé des achats de la direction générale de l'armement ;
 
@@ -94,13 +100,13 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau du budget opérationnel de programme de l'administration centrale du secrétariat général pour l'administration ;
 
-- conseiller ressources humaines du directeur central du service du commissariat des armées ;
-
 - directeur adjoint de l'établissement du service national d'Ile-de-France ;
 
 - directeur adjoint de l'établissement du service national Nord-Est ;
 
 - directeur adjoint de l'établissement du service national Nord-Ouest ;
+
+- directeur adjoint de la plate-forme achat-finances centre-est (3);
 
 - directeur du centre ministériel de gestion de Brest ;
 
@@ -117,8 +123,6 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 - responsable de la direction de site de Paris intra-muros au service parisien de soutien de l'administration centrale ;
 
 - responsable du dispositif dédié à la réparation des conséquences sanitaires des essais nucléaires à la direction des ressources humaines du ministère de la défense ;
-
-- secrétaire général de la direction régionale du service d'infrastructure de la défense de Toulon ;
 
 - secrétaire général de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement ;
 
