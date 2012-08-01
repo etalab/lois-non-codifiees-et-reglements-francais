@@ -671,10 +671,10 @@ A compter du 1er avril 2012, les aérodromes relevant de la classe 3 et les tari
 <p>60 - STRASBOURG-ENTZHEIM</p>
 </td>
 <td width="149">
-<p align="center">12,00 €</p>
+<p align="center">7,00 €</p>
 </td>
 <td width="150">
-<p align="center">10,80 €</p>
+<p align="center">6,30 €</p>
 </td>
 </tr>
 <tr>
@@ -1053,6 +1053,7 @@ A compter du 1er avril 2012, les aérodromes relevant de la classe 3 et les tari
 </tr>
 </tbody>
 </table>
+<br/>
 <br/>
 
 </div>
