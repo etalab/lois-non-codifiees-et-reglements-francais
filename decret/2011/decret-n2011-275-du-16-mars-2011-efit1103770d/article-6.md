@@ -22,3 +22,5 @@ b) Un coefficient égal à 0,15 % pendant la période de convergence mentionnée
 Le rapport calculé au a du 2° est arrondi au millionième de point de pourcentage inférieur.
 
 A compter du 1er mai 2022, la majoration mentionnée au premier alinéa du présent II est égale à 0,5 %.
+
+III. - Sans préjudice de l'article R. 221-8, l'office des postes et télécommunications mentionné à l'article L. 745-7-1 du code monétaire et financier reçoit une majoration du taux d'intérêt servi égale à 0,552 5 %. A compter du 1er mai 2022, cette majoration est égale à 0,5 %.
