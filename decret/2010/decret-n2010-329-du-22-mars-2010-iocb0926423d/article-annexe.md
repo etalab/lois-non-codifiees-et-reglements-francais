@@ -12,4 +12,6 @@ Educateurs territoriaux des activités physiques et sportives.
 
 Lieutenants de sapeurs-pompiers professionnels.
 
+Rédacteurs territoriaux.
+
 Techniciens territoriaux.

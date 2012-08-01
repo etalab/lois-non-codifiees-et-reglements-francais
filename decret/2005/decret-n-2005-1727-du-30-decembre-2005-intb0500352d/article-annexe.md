@@ -2,9 +2,7 @@
 
 I. - TABLEAU DE CORRESPONDANCE
 
-ministère de l'éducation nationale
-
-et ministère de l'enseignement supérieur et de la recherche
+Ministère de l'éducation nationale et ministère de l'enseignement supérieur et de la recherche
 
 <table>
 <tbody>
@@ -289,7 +287,7 @@ et ministère de l'enseignement supérieur et de la recherche
 </p>
 </td>
 <td align="left" valign="top">
-<p>Attaché territorial principal .<br/>
+<p>Attaché territorial principal.<br/>
 </p>
 </td>
 </tr>
@@ -309,7 +307,7 @@ et ministère de l'enseignement supérieur et de la recherche
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial chef.<br/>
+<p>Rédacteur territorial principal de 1re classe.<br/>
 </p>
 </td>
 </tr>
@@ -319,7 +317,7 @@ et ministère de l'enseignement supérieur et de la recherche
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial principal.<br/>
+<p>Rédacteur territorial principal de 2e classe.<br/>
 </p>
 </td>
 </tr>
@@ -377,9 +375,12 @@ et ministère de l'enseignement supérieur et de la recherche
 </table>
 
 <div align="center"/>
-<div align="center">II. - TABLEAU DE CORRESPONDANCE </div>
+<div align="center">
+<br/>
+<p>II. - TABLEAU DE CORRESPONDANCE </p>
+</div>
 
-ministère de l'agriculture et de la pêche
+Ministère de l'agriculture et de la pêche
 
 <table>
 <tbody>
@@ -602,7 +603,7 @@ ministère de l'agriculture et de la pêche
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial chef.<br/>
+<p>Rédacteur territorial principal de 1re classe.<br/>
 </p>
 </td>
 </tr>
@@ -612,7 +613,7 @@ ministère de l'agriculture et de la pêche
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial principal.<br/>
+<p>Rédacteur territorial principal de 2e classe.<br/>
 </p>
 </td>
 </tr>
@@ -671,7 +672,7 @@ ministère de l'agriculture et de la pêche
 
 III. - TABLEAU DE CORRESPONDANCE
 
-ministère de l'écologie, de l'énergie,
+Ministère de l'écologie, de l'énergie,
 
 du développement durable et de l'aménagement du territoire
 
@@ -1098,7 +1099,7 @@ du développement durable et de l'aménagement du territoire
 <p align="left">Secrétaire administratif de classe exceptionnelle.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Rédacteur territorial chef.</p>
+<p align="left">Rédacteur territorial principal de 1re classe.</p>
 </td>
 </tr>
 <tr>
@@ -1106,7 +1107,7 @@ du développement durable et de l'aménagement du territoire
 <p align="left">Secrétaire administratif de classe supérieure.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Rédacteur territorial principal.</p>
+<p align="left">Rédacteur territorial principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -1152,7 +1153,7 @@ du développement durable et de l'aménagement du territoire
 </tbody>
 </table>
 
-IV. - Tableau de correspondance
+IV. - TABLEAU DE CORRESPONDANCE
 
 Ministère de la culture et de la communication
 
@@ -1450,7 +1451,7 @@ Ministère de la culture et de la communication
 <p align="left">Secrétaire administratif de classe supérieure.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Rédacteur territorial principal.</p>
+<p align="left">Rédacteur territorial principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -1458,7 +1459,7 @@ Ministère de la culture et de la communication
 <p align="left">Secrétaire administratif de classe exceptionnelle.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Rédacteur territorial en chef.</p>
+<p align="left">Rédacteur territorial principal de 1re classe.</p>
 </td>
 </tr>
 <tr>
@@ -1549,8 +1550,13 @@ Ministère de la culture et de la communication
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
-<div align="center">V. - TABLEAU DE CORRESPONDANCE <p>ministère du travail, des relations sociales, de la famille et de la solidarité<br/>ministère de la santé, de la jeunesse, des sports et de la vie associative<br/>
-</p>
+<div align="center"/>
+<div align="center"/>
+<div align="center">
+<br/>
+<p>V. - TABLEAU DE CORRESPONDANCE </p>
+<p>Ministère du travail, des relations sociales, de la famille et de la solidarité<br/>ministère de la santé, de la jeunesse, des sports et de la vie associative</p>
+<br/>
 </div>
 
 <table>
@@ -1824,7 +1830,7 @@ Ministère de la culture et de la communication
 <p>Secrétaire administratif de classe exceptionnelle.</p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial en chef.</p>
+<p>Rédacteur territorial principal de 1re classe.</p>
 </td>
 </tr>
 <tr>
@@ -1832,7 +1838,7 @@ Ministère de la culture et de la communication
 <p>Secrétaire administratif de classe supérieure.</p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial principal.</p>
+<p>Rédacteur territorial principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -1880,7 +1886,7 @@ Ministère de la culture et de la communication
 
 VI. ― TABLEAU DE CORRESPONDANCE
 
-ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
+Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
 
 <table>
 <tbody>
@@ -1913,7 +1919,7 @@ ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
 <p>Secrétaire administratif de l'intérieur et de l'outre-mer de classe exceptionnelle.</p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial chef.</p>
+<p>Rédacteur territorial principal de 1re classe.</p>
 </td>
 </tr>
 <tr>
@@ -1921,7 +1927,7 @@ ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
 <p>Secrétaire administratif de l'intérieur et de l'outre-mer de classe supérieure.</p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial principal.</p>
+<p>Rédacteur territorial principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
