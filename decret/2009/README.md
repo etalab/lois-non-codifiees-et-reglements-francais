@@ -1061,7 +1061,6 @@
 - [Décret n°2009-1300 du 26 octobre 2009 (IOCD0921979D)](decret-n2009-1300-du-26-octobre-2009-iocd0921979d)
 - [Décret n°2009-1301 du 26 octobre 2009 (MTSS0916861D)](decret-n2009-1301-du-26-octobre-2009-mtss0916861d)
 - [Décret n°2009-1302 du 26 octobre 2009 (MEND0909361D)](decret-n2009-1302-du-26-octobre-2009-mend0909361d)
-- [Décret n°2009-1303 du 26 octobre 2009 (MEND0914374D)](decret-n2009-1303-du-26-octobre-2009-mend0914374d)
 - [Décret n°2009-1304 du 26 octobre 2009 (DEFH0908465D)](decret-n2009-1304-du-26-octobre-2009-defh0908465d)
 - [Décret n°2009-1305 du 26 octobre 2009 (SASS0915225D)](decret-n2009-1305-du-26-octobre-2009-sass0915225d)
 - [Décret n°2009-1308 du 26 octobre 2009 (MCCT0913610D)](decret-n2009-1308-du-26-octobre-2009-mcct0913610d)
