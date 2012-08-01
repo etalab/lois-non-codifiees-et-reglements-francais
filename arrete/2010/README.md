@@ -1398,7 +1398,6 @@
 - [Arrêté du 15 mai 2009 (AGRS0765081A)](arrete-du-15-mai-2009-agrs0765081a)
 - [Arrêté du 16 août 2010 (AGRG1021846A)](arrete-du-16-aout-2010-agrg1021846a)
 - [Arrêté du 16 août 2010 (DEFF1021897A)](arrete-du-16-aout-2010-deff1021897a)
-- [Arrêté du 16 août 2010 (MCCC1021843A)](arrete-du-16-aout-2010-mccc1021843a)
 - [Arrêté du 16 août 2010 (SASP1021169A)](arrete-du-16-aout-2010-sasp1021169a)
 - [Arrêté du 16 avril 2010 (AGRT1009735A)](arrete-du-16-avril-2010-agrt1009735a)
 - [Arrêté du 16 avril 2010 (DEFH1009487A)](arrete-du-16-avril-2010-defh1009487a)
