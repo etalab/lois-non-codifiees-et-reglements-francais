@@ -1,3 +1,0 @@
-# TITRE III :   ADMISSION D'AUDITEURS LIBRES   DANS LE CYCLE INGÉNIEUR
-
-- [Article 9](article-9.md)
