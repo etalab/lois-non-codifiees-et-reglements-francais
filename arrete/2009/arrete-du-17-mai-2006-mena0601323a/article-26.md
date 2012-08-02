@@ -1,6 +1,6 @@
 # Article 26
 
-Le secrétariat général comprend, outre la mission de contrôle interne pour la maîtrise des risques et la cellule de pilotage des systèmes d'information :
+Le secrétariat général comprend, outre la mission de coordination et de synthèse, la mission de contrôle interne pour la maîtrise des risques et la cellule de pilotage des systèmes d'information :
 
 - la direction générale des ressources humaines ;
 
