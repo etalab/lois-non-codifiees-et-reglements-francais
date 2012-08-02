@@ -769,6 +769,7 @@
 - [Arrêté du 13 mars 2012 (MENH1205345A)](arrete-du-13-mars-2012-menh1205345a)
 - [Arrêté du 13 mars 2012 (TRAT1201307A)](arrete-du-13-mars-2012-trat1201307a)
 - [Arrêté du 13 mars 2012 (TRAT1207528A)](arrete-du-13-mars-2012-trat1207528a)
+- [Arrêté du 13 septembre 2004 (INDI0403671A)](arrete-du-13-septembre-2004-indi0403671a)
 - [Arrêté du 14 décembre 2009 (MEND0921159A)](arrete-du-14-decembre-2009-mend0921159a)
 - [Arrêté du 14 décembre 2011 (DEFH1121592A)](arrete-du-14-decembre-2011-defh1121592a)
 - [Arrêté du 14 décembre 2011 (DEVR1134883A)](arrete-du-14-decembre-2011-devr1134883a)
