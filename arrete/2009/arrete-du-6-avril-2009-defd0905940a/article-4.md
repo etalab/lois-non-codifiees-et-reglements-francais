@@ -14,8 +14,10 @@ La sous-direction de la gestion du personnel civil de l'administration centrale 
 
 ― le personnel civil de l'administration centrale ;
 
-― le personnel civil et des militaires de la direction générale de l'armement affectés dans les postes permanents à l'étranger ;
+― le personnel civil et militaire de la direction générale de l'armement affecté  dans les postes permanents à l'étranger ;
 
-3. Le traitement des congés liés à la naissance, des dossiers de maladie ou d'accident, le fonctionnement du comité médical ministériel, de la commission de réforme ministérielle et de la commission de réforme, respectivement cités aux articles 5 et 10 du décret n° 86-442 du 14 mars 1986 et à l'article 23 du décret n° 2004-1056 du 5 octobre 2004, ainsi que la prise en charge des frais consécutifs aux accidents ou maladies professionnelles ;
+3. Le traitement des congés liés à la naissance, le traitement  des dossiers de maladie ou d'accident, le fonctionnement du comité médical ministériel, de la commission de réforme ministérielle et de la commission de réforme, respectivement cités aux articles 5 et 10 du décret n° 86-442 du 14 mars 1986 et à l'article 23 du décret n° 2004-1056 du 5 octobre 2004, ainsi que la prise en charge des frais consécutifs aux accidents ou maladies professionnelles ;
 
-4. L'organisation des actions de formation pour le personnel civil de l'administration centrale.
+4. L'organisation des actions de formation pour le personnel civil de l'administration centrale ;
+
+5. La prise en charge financière d'actions de formation à l'emploi pour le personnel militaire affecté au sein des organismes à caractère civil faisant partie de l'administration centrale du ministère de la défense.

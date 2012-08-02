@@ -6,7 +6,7 @@ La sous-direction de l'ingénierie du soutien comprend :
 
 2° Le bureau du soutien général ;
 
-3° Le bureau des moteurs d'impression et de la reprographie ;
+3° Le bureau des pôles graphiques et des solutions d'impression ;
 
 4° Le bureau d'externalisation des véhicules ;
 

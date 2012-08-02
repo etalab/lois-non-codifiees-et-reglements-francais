@@ -4,7 +4,7 @@ La sous-direction des achats assure :
 
 1. Le recueil des besoins de tout achat de la compétence du service, définis préalablement par les prescripteurs ;
 
-2. Le pilotage et la passation des procédures d'achat associées à ces besoins, en liaison avec ceux qui les ont définis, ainsi que la notification des contrats correspondants ;
+2. Le pilotage et la passation des procédures d'achat associées à ces besoins, en liaison avec            les prescripteurs, ainsi que la notification et le suivi de l'exécution contractuelle correspondants ;
 
 3. Dans le cadre de ses attributions, le rôle de correspondant des autorités de contrôle ;
 
