@@ -747,7 +747,6 @@
 - [Arrêté du 29 juillet 2004 (DEFC0400510A)](arrete-du-29-juillet-2004-defc0400510a)
 - [Arrêté du 29 juillet 2004 (DEFP0400684A)](arrete-du-29-juillet-2004-defp0400684a)
 - [Arrêté du 29 juillet 2004 (ECOC0400082A)](arrete-du-29-juillet-2004-ecoc0400082a)
-- [Arrêté du 29 juillet 2004 (PRMX0407500A)](arrete-du-29-juillet-2004-prmx0407500a)
 - [Arrêté du 29 juillet 2004 (SANP0422084A)](arrete-du-29-juillet-2004-sanp0422084a)
 - [Arrêté du 29 juillet 2004 (SOCU0411236A)](arrete-du-29-juillet-2004-socu0411236a)
 - [Arrêté du 29 juin 2004 (AGRP0401486A)](arrete-du-29-juin-2004-agrp0401486a)
