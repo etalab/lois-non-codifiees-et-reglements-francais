@@ -6,4 +6,4 @@ Le jury de recrutement sur titres a pour mission d'instruire, par tous les moyen
 
 Sa composition est définie par le directeur de l'école et est annexée au règlement de scolarité du cycle ingénieur civil.
 
-Après avis du comité des études mentionné aux articles 10 et suivants du présent arrêté, sur proposition du directeur, le ministre chargé de l'industrie arrête la liste des élèves stagiaires recrutés sur titres dans le cycle ingénieur civil, en première année et en deuxième année, à l'Ecole nationale supérieure des mines de Saint-Etienne.
+Après avis du comité des études mentionné aux articles 10 et suivants du présent arrêté, le directeur de l'école arrête la liste des élèves stagiaires recrutés sur titres dans le cycle ingénieur civil, en première année et en deuxième année, à l'Ecole nationale supérieure des mines de Saint-Etienne.

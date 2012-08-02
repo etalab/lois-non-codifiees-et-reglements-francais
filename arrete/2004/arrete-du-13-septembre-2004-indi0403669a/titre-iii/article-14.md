@@ -1,7 +1,13 @@
 # Article 14
 
-Le comité des études apprécie, au vu du résultat de leur travail, les mérites des élèves du cycle ingénieur civil.
+Le comité des études se constitue en jury, apprécie, dans le cadre des dispositions du règlement de scolarité, les mérites des élèves et se prononce :
 
-Dans le cadre des dispositions définies par le règlement de scolarité du cycle ingénieur civil, au terme de chaque année ou semestre scolaire, le directeur de l'école, après avis du comité des études, décide soit de la poursuite des études de l'élève après, le cas échéant, des épreuves de rappel, soit du redoublement de son année scolaire ou de tout autre aménagement de la poursuite de ses études.
+1° Soit, le cas échéant après des épreuves complémentaires, pour la poursuite des études de l'élève, pour la titularisation et pour la délivrance du diplôme d'ingénieur ;
 
-Le directeur de l'école, après avis du comité des études, propose au ministre chargé de l'industrie la titularisation des stagiaires, la délivrance des diplômes ou, sous réserve d'un entretien préalable avec l'intéressé, la non-délivrance des diplômes ou l'exclusion de l'école.
+2° Soit, après audition de l'intéressé, pour le redoublement, pour le refus de la titularisation et pour la non-délivrance du diplôme d'ingénieur ; l'intéressé peut demander qu'une personne de son choix l'assiste lors de cette audition.
+
+La non-délivrance du diplôme, comme le fait de n'être admis ni à redoubler ni à poursuivre ses études dans l'année suivante, vaut exclusion de l'école.
+
+La sanction des études est prononcée par le directeur sur proposition du comité des études.
+
+Conformément au décret du 8 octobre 1991 susvisé, le diplôme d'ingénieur civil de l'Ecole nationale supérieure des mines de Saint-Etienne (Mines Saint-Etienne) est décerné par arrêté du ministre chargé de l'industrie.

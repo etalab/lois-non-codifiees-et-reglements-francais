@@ -1,5 +1,5 @@
 # Article 13
 
-Le comité des études est présidé par le directeur ou, en cas d'empêchement, par son représentant. La composition et les modalités de fonctionnement du comité des études sont fixées dans le règlement de scolarité du cycle ingénieur civil.
+La composition et les modalités de fonctionnement du comité des études sont fixées dans le règlement de scolarité du cycle ingénieur civil.
 
-Ses délibérations sont réputées valables dès lors que plus de la moitié de ses membres sont présents.
+Le comité des études peut comprendre, dans la limite de 20 % de ses membres, des personnalités qualifiées ayant contribué aux enseignements, ou choisies, en raison de leurs compétences, sur proposition des personnels chargés de l'enseignement siégeant au comité de l'enseignement.
