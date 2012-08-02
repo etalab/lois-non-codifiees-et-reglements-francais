@@ -1,0 +1,3 @@
+# Article 3
+
+Par dérogation aux dispositions de l'article 14 de l'arrêté du 11 avril 2012 susvisé, pour les personnes en cours de formation pour l'obtention du brevet d'Etat d'éducateur sportif du premier degré, option « ski alpin », titulaires d'une attestation de réussite à l'eurotest datant de moins de cinq ans, le second des trois temps de formation mentionnés à l'article 9 du même arrêté, d'une durée de trois ans, est délivré par le directeur régional de la jeunesse, des sports et de la cohésion sociale de Rhône-Alpes. Dans ce cas, la durée de trois ans est calculée à compter du 1er novembre 2012.

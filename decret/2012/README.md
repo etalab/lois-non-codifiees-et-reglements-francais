@@ -678,6 +678,7 @@
 - [Décret n°2012-846 du 30 juin 2012 (AGRG1220708D)](decret-n2012-846-du-30-juin-2012-agrg1220708d)
 - [Décret n°2012-924 du 30 juillet 2012 (INTB1205793D)](decret-n2012-924-du-30-juillet-2012-intb1205793d)
 - [Décret n°2012-925 du 30 juillet 2012 (DEVR1230876D)](decret-n2012-925-du-30-juillet-2012-devr1230876d)
+- [Décret n°2012-927 du 30 juillet 2012 (ETSD1129732D)](decret-n2012-927-du-30-juillet-2012-etsd1129732d)
 - [Décret n°2012-783 du 30 mai 2012 (JUSC1206298D)](decret-n2012-783-du-30-mai-2012-jusc1206298d)
 - [Décret n°2012-784 du 30 mai 2012 (DFEX1223884D)](decret-n2012-784-du-30-mai-2012-dfex1223884d)
 - [Décret n°2012-1212 du 31 octobre 2012 (ETSD1223757D)](decret-n2012-1212-du-31-octobre-2012-etsd1223757d)
