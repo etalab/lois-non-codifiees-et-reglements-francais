@@ -30,8 +30,6 @@ Allobarbital.
 
 Alprazolam.
 
-Amfépramone.
-
 Aminorex.
 
 Barbital.

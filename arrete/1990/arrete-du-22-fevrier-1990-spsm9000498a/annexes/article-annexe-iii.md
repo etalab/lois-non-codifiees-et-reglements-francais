@@ -4,9 +4,7 @@ Cette annexe comprend :
 
 - les substances ci-après désignées ;
 
-- leurs stéréo-isomères, dans tous les cas où ils peuvent exister conformément à la désignation chimique spécifiée,
-
-pour les substances précédées d'un astérisque ;
+- leurs stéréo-isomères, dans tous les cas où ils peuvent exister conformément à la désignation chimique spécifiée, pour les substances précédées d'un astérisque ;
 
 - leurs sels dans tous les cas où ils peuvent exister ;
 
@@ -16,9 +14,7 @@ pour les substances précédées d'un astérisque ;
 
 4-MTA ou ∀-méthyl-4-méthylthiophénéthylamine
 
-Amphétamine, à l'exception de la préparation présentée en comprimés et renfermant par comprimé : sulfate
-
-d'amphétamine
+Amphétamine, à l'exception de la préparation présentée en comprimés et renfermant par comprimé : sulfate d'amphétamine
 
 0,005 g, phénobarbital 0,100 g
 
@@ -64,8 +60,6 @@ Mécloqualone
 
 *Mescaline
 
-*Methcathinone
-
 *MMDA ou méthoxy-2 -méthyl (méthylènedioxy)-4,5 phényléthylamine
 
 Méfénorex et ses sels, à l'exception des préparations autres qu'injectables
@@ -99,8 +93,6 @@ Phentermine ou α, α-diméthylphénétylamine
 *Psilocine
 
 *Psilocybine
-
-Pyrovalérone, à l'exception des préparations relevant de la liste I
 
 *Rolicyclidine ou PHP ou PCPY
 
