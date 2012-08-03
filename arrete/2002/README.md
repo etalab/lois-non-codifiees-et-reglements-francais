@@ -422,7 +422,6 @@
 - [Arrêté du 18 octobre 2002 (BUDD0270049A)](arrete-du-18-octobre-2002-budd0270049a)
 - [Arrêté du 18 octobre 2002 (SANA0222826A)](arrete-du-18-octobre-2002-sana0222826a)
 - [Arrêté du 18 septembre 2002 (EQUA0201513A)](arrete-du-18-septembre-2002-equa0201513a)
-- [Arrêté du 19 avril 2002 (INTD0200186A)](arrete-du-19-avril-2002-intd0200186a)
 - [Arrêté du 19 avril 2002 (JUSA0200080A)](arrete-du-19-avril-2002-jusa0200080a)
 - [Arrêté du 19 avril 2002 (JUSA0200081A)](arrete-du-19-avril-2002-jusa0200081a)
 - [Arrêté du 19 avril 2002 (JUSA0200082A)](arrete-du-19-avril-2002-jusa0200082a)
