@@ -683,6 +683,7 @@
 - [Décret n°2012-784 du 30 mai 2012 (DFEX1223884D)](decret-n2012-784-du-30-mai-2012-dfex1223884d)
 - [Décret n°2012-1212 du 31 octobre 2012 (ETSD1223757D)](decret-n2012-1212-du-31-octobre-2012-etsd1223757d)
 - [Décret n°2012-160 du 31 janvier 2012 (SPOF1124339D)](decret-n2012-160-du-31-janvier-2012-spof1124339d)
+- [Décret n°2012-929 du 31 juillet 2012 (DEFD1221996D)](decret-n2012-929-du-31-juillet-2012-defd1221996d)
 - [Décret n°2012-786 du 31 mai 2012 (AFSA1224249D)](decret-n2012-786-du-31-mai-2012-afsa1224249d)
 - [Décret n°2011-930 du 1er août 2011 (EFII1108330D)](decret-n2011-930-du-1er-aout-2011-efii1108330d)
 - [Décret n°2012-162 du 1er février 2012 (DEFH1133762D)](decret-n2012-162-du-1er-fevrier-2012-defh1133762d)
