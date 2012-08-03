@@ -29,3 +29,5 @@ Les dispositions de l'article 2 du présent arrêté s'appliquent aux moteurs ne
 Toutefois, pour les tracteurs équipés de moteurs des catégories E ou F, les dates d'application susmentionnées sont reportées de six mois.
 
 Pour les moteurs des catégories A à R dont les dates de production sont antérieures aux dates indiquées ci-dessus, celles-ci sont reportées de deux ans.
+
+Toutefois, pour les tracteurs agricoles et forestiers de catégorie T2, T4.1 et C2 équipés de moteurs des catégories L à R, les dates d'application susmentionnées sont reportées de trois ans.

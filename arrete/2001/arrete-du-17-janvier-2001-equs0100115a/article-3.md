@@ -23,3 +23,5 @@ Les dispositions de l'article 2 du présent arrêté s'appliquent à la récepti
 - à dater du 1er janvier 2013 pour les moteurs de la catégorie Q, correspondant à la plage de puissance telle que définie à l'article 9, paragraphe 3 quinquies de la directive 97/68/CEE susvisée (phase IV) ;
 
 - à dater du 1er octobre 2013 pour les moteurs de la catégorie R, correspondant à la plage de puissance telle que définie à l'article 9, paragraphe 3 quinquies, de la directive 97/68/CEE susvisée (phase IV).
+
+Toutefois, pour les tracteurs agricoles et forestiers de catégorie T2, T4.1 et C2 équipés de moteurs des catégories L à R, les dates d'application susmentionnées sont reportées de trois ans.
