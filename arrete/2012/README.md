@@ -440,6 +440,7 @@
 - [Arrêté du 9 janvier 2012 (DEFK1203053A)](arrete-du-9-janvier-2012-defk1203053a)
 - [Arrêté du 9 janvier 2012 (DEVT1135298A)](arrete-du-9-janvier-2012-devt1135298a)
 - [Arrêté du 9 juillet 2008 (DEVK0815544A)](arrete-du-9-juillet-2008-devk0815544a)
+- [Arrêté du 9 juillet 2008 (JUSG0816311A)](arrete-du-9-juillet-2008-jusg0816311a)
 - [Arrêté du 9 juillet 2012 (AFSS1228777A)](arrete-du-9-juillet-2012-afss1228777a)
 - [Arrêté du 9 juillet 2012 (ETSO1227536A)](arrete-du-9-juillet-2012-etso1227536a)
 - [Arrêté du 9 juillet 2012 (MAEF1228096A)](arrete-du-9-juillet-2012-maef1228096a)
