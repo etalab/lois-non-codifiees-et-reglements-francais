@@ -1,33 +1,9 @@
 # Article 2
 
-Les personnels de direction participent à l'encadrement du système éducatif et aux actions d'éducation. A ce titre, ils occupent principalement des emplois de direction d'établissement d'enseignement ou de formation relevant du ministre chargé de l'éducation nationale. Ils peuvent aussi se voir confier d'autres fonctions concourant à l'exécution du service public d'éducation, notamment dans les services déconcentrés et à l'administration centrale.
+Les personnels de direction participent à l'encadrement du système éducatif et aux actions d'éducation. A ce titre, ils occupent principalement, en qualité de chef d'établissement ou de chef d'établissement adjoint, des emplois de direction des établissements mentionnés à l'article L. 421-1 de ce code, dans les conditions prévues aux articles L. 421-3, L. 421-5, L. 421-8, L. 421-23 et L. 421-25 du même code.
 
-1° Dans leurs fonctions de direction d'établissement, ils occupent les emplois suivants :
+Pour pouvoir exercer les fonctions de directeur d'établissement régional d'enseignement adapté ou de directeur d'école régionale du premier degré, les personnels de direction doivent être titulaires du diplôme de directeur d'établissement d'éducation adaptée et spécialisée.
 
-Proviseur de lycée ;
+Ils peuvent également exercer leurs fonctions en qualité de directeur adjoint chargé de section d'enseignement général et professionnel adapté (SEGPA) ainsi que de directeur et directeur adjoint d'une unité pédagogique régionale des services pénitentiaires.
 
-Proviseur de lycée professionnel ;
-
-Principal de collège ;
-
-Proviseur adjoint de lycée ;
-
-Proviseur adjoint de lycée professionnel ;
-
-Principal adjoint de collège.
-
-2° Les personnels de direction peuvent en outre être appelés à occuper les emplois suivants :
-
-Directeur d'établissement régional d'enseignement adapté (EREA) ;
-
-Directeur d'école régionale du premier degré (ERPD) ;
-
-Directeur adjoint chargé de section d'enseignement général et professionnel adapté (SEGPA) ;
-
-Directeur et directeur adjoint d'un centre d'enseignement du Centre national d'enseignement à distance ;
-
-Directeur adjoint d'un institut universitaire de formation des maîtres ;
-
-Directeur et directeur adjoint d'une unité pédagogique régionale des services pénitentiaires ;
-
-Proviseur vie scolaire.
+Les personnels de direction peuvent aussi se voir confier d'autres fonctions concourant à l'exécution du service public de l'éducation, notamment dans les services déconcentrés et à l'administration centrale.

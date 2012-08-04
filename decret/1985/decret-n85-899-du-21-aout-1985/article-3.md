@@ -46,10 +46,20 @@ d) Les sanctions disciplinaires des premier et deuxième groupes de l'article 66
 
 5° Pour le corps des conseillers techniques de service social et le corps des médecins de l'éducation nationale, les décisions de radiation des cadres prononcées :
 
-- soit consécutivement à une démission acceptée ;
+-soit consécutivement à une démission acceptée ;
 
-- soit par anticipation, conformément aux articles L. 27 et L. 29 du code des pensions civiles et militaires de retraite ;
+-soit par anticipation, conformément aux articles L. 27 et L. 29 du code des pensions civiles et militaires de retraite ;
 
-- soit en vue de l'admission à la retraite, tant à leur demande que d'office par limite d'âge ;
+-soit en vue de l'admission à la retraite, tant à leur demande que d'office par limite d'âge ;
 
-- soit consécutivement à un abandon de poste.
+-soit consécutivement à un abandon de poste.
+
+6° Pour le corps des personnels de direction régis par le décret n° 2001-1174 du 11 décembre 2001 modifié portant statut particulier du corps des personnels de direction d'établissement d'enseignement ou de formation relevant du ministre de l'éducation nationale :
+
+a) La titularisation et le refus de titularisation ;
+
+b) L'établissement du tableau d'avancement à la 1re classe du corps et les décisions portant promotion dans ce grade ;
+
+c) L'affectation et le classement des personnels accueillis en détachement au sein d'une académie ;
+
+d) L'affectation et le classement des personnels intégrés après un détachement au sein d'une académie.

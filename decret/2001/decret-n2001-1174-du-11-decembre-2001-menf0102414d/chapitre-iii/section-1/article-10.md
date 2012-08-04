@@ -668,6 +668,10 @@ E. - Personnels appartenant au corps des instituteurs :
 </td>
 </tr>
 </tbody>
-</table>F. - Autres corps de fonctionnaires :
+</table>
+
+F. - Autres corps ou cadres d'emplois de fonctionnaires :
 
 Les membres des autres corps de fonctionnaires sont classés dans le grade de personnels de direction de 2e classe à l'échelon doté d'un indice de traitement égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps d'origine.
+
+G. - Les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, autre que la France, sont classés selon le cas dans les conditions prévues au A ou F du présent article en application des dispositions du décret n° 2010-311 du 22 mars 2010 relatif aux modalités de recrutements et d'accueil des ressortissants des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dans un corps, un cadre d'emplois ou un emploi de la fonction publique française.
