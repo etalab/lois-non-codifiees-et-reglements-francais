@@ -4,6 +4,6 @@ Les départements des ressources humaines et de l'action sociale des plates-form
 
 Au sein du ressort de la plate-forme interrégionale du ministère de la justice dont ils relèvent, ces départements sont également chargés :
 
-- de la coordination de la politique interministérielle en faveur des personnes handicapées ;
+- de la coordination de la politique ministérielle en faveur des personnes handicapées ;
 
 - de l'animation et de la coordination de la formation continue généraliste.
