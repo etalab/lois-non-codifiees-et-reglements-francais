@@ -23,6 +23,7 @@
 - [Arrêté du 5 juin 2000 (EQUK0001005A)](arrete-du-5-juin-2000-equk0001005a)
 - [Arrêté du 6 juillet 2000 (EQUH0001194A)](arrete-du-6-juillet-2000-equh0001194a)
 - [Arrêté du 6 juillet 2000 (MENF0001972A)](arrete-du-6-juillet-2000-menf0001972a)
+- [Arrêté du 6 juillet 2000 (MENF0001984A)](arrete-du-6-juillet-2000-menf0001984a)
 - [Arrêté du 6 novembre 2000 (AGRG0002259A)](arrete-du-6-novembre-2000-agrg0002259a)
 - [Arrêté du 6 novembre 2000 (AGRP0002321A)](arrete-du-6-novembre-2000-agrp0002321a)
 - [Arrêté du 6 novembre 2000 (PRMX0004473A)](arrete-du-6-novembre-2000-prmx0004473a)
