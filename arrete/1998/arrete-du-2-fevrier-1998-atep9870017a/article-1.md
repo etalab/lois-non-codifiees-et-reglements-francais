@@ -34,7 +34,7 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 Les points a à e de l'article 27.7 du présent arrêté ne s'appliquent pas :
 
-- aux stockages en réservoirs aériens manufacturés de liquides inflammables exploités dans un stockage soumis à autorisation au titre de la rubrique 1432 de la nomenclature des installations classées pour la protection de l'environnement ;
+- aux stockages de liquides inflammables en réservoirs aériens manufacturés et en récipients mobiles exploités dans un stockage soumis à autorisation au titre de la rubrique 1432 de la nomenclature des installations classées pour la protection de l'environnement ;
 
 - aux installations soumises à autorisation au titre de la rubrique 1434-2 de la nomenclature des installations classées pour la protection de l'environnement.
 
