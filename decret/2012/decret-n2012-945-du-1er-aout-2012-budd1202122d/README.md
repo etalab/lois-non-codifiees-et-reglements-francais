@@ -1,4 +1,4 @@
-# Arrêté du 4 novembre 2003 relatif à l'usage des appeaux et des appelants pour la chasse des oiseaux de passage, du gibier d'eau et de certains corvidés et pour la destruction des animaux nuisibles.
+# Décret n° 2012-945 du 1er août 2012 relatif aux conditions d'immobilisation par les agents des douanes des biens à double usage non communautaires en transit à destination de pays tiers
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,5 +8,5 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
