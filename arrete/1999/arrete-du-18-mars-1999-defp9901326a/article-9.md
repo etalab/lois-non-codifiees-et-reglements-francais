@@ -6,6 +6,8 @@ Pour chaque filière, la liste d'admission comprend :
 
 2° Les candidats susceptibles d'être nommés élèves soit en remplacement des candidats mieux placés dans la même liste qui se désisteraient, soit par report des places qui ne pourraient pas être pourvues au titre d'une autre filière après épuisement de la liste d'admission de cette dernière.
 
+Les candidats nommés élèves de l'Ecole polytechnique reçoivent du directeur général de l'école un certificat d'admission.
+
 Le ministre chargé des armées arrête également, dans chaque filière, la liste d'admission des candidats étrangers.
 
 Les désistements doivent intervenir au plus tard dix jours après la date fixée pour l'incorporation des intéressés à l'école. Les nominations sont prononcées sous réserve des dispositions de l'article 10 ci-après.
