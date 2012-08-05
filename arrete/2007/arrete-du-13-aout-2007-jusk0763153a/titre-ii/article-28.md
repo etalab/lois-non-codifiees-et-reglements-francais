@@ -1,3 +1,0 @@
-# Article 28
-
-Le contenu et la durée de la formation, notamment sous forme de modules, sont adaptés au profil professionnel du fonctionnaire. Les objectifs de la formation dans sa partie individualisée sont déterminés par l'analyse des besoins en formation effectuée préalablement avec le fonctionnaire. Elle comprend des enseignements théoriques pour partie à l'Ecole nationale d'administration pénitentiaire et, le cas échéant, des stages pratiques, notamment dans les services de l'administration pénitentiaire ou dans des juridictions de l'ordre judiciaire ou dans des administrations publiques ou associées au service public et institutions étrangères.

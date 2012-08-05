@@ -1,4 +1,0 @@
-# Chapitre III : Modalités d'examen et de contrôle de la scolarité.
-
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
