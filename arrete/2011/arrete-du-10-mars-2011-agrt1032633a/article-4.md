@@ -1,8 +1,8 @@
 # Article 4
 
-I. ― Dans les bassins où une zone d'excédent structurel a été définie en application du décret du 10 janvier 2001 susvisé, le préfet coordonnateur prévoit, pour tout ou partie de la zone, que le demandeur doit s'engager préalablement et par écrit à satisfaire aux conditions suivantes :
+I. ― Dans les bassins comportant au moins une zone visée au I de l'article R. 211-82 du code de l'environnement, le préfet coordonnateur prévoit, au moins pour cette ou ces zone (s), ou pour l'ensemble du bassin laitier, que le demandeur doit s'engager préalablement et par écrit à satisfaire aux conditions suivantes :
 
-a) La quantité d'azote contenue dans les effluents d'élevage, après augmentation du cheptel laitier, ne doit pas dépasser 170 kilogrammes d'azote par hectare de superficie épandable ou les limitations d'apports prises en application du décret n° 2007-1281 du 29 août 2007 susvisé pour les exploitations dont les surfaces épandables sont situées en tout ou partie sur les bassins versants concernés ;
+a) La quantité d'azote contenue dans les effluents d'élevage, après augmentation du cheptel laitier, ne doit pas dépasser 170 kilogrammes d'azote par hectare de surface agricole utile ou les limitations d'apports prises en application du décret n° 2007-1281 du 29 août 2007 susvisé pour les exploitations dont les surfaces épandables sont situées en tout ou partie sur les bassins versants concernés ;
 
 b) L'exploitation, après augmentation de la quantité d'azote produite, doit être en conformité avec les dispositions prévues au titre Ier du livre V du code de l'environnement.
 
