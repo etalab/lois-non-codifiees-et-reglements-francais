@@ -2,4 +2,4 @@
 
 Dispositions générales
 
-L'appareil à gouverner est conforme aux exigences du règlement d'un organisme agréé.
+L'appareil à gouverner est conforme aux exigences du règlement d'un organisme habilité.

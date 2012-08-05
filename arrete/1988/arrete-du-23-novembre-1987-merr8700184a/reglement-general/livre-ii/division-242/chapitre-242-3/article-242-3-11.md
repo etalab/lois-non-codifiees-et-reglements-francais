@@ -2,7 +2,7 @@
 
 Assèchement
 
-I. - Le dispositif d'assèchement et son installation sont conformes aux exigences du règlement d'un organisme agréé et aux dispositions du présent chapitre.
+I. - Le dispositif d'assèchement et son installation sont conformes aux exigences du règlement d'un organisme habilité et aux dispositions du présent chapitre.
 
 II. - Tous les navires sont équipés d'au moins deux pompes fixes actionnées par des sources d'énergie indépendantes l'une de l'autre, avec des tuyaux d'aspiration disposés de telle manière que tout compartiment puisse être asséché lorsque le navire gîte à un angle de 10°. Pour les navires à court rayon d'action, la seconde pompe et les tuyaux d'aspiration peuvent être mobiles.
 

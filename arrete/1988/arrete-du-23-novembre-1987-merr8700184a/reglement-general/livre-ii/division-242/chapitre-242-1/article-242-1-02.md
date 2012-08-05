@@ -38,7 +38,7 @@ b) Des machines à combustion interne utilisées à des fins autres que la propu
 
 c) Toute chaudière à combustible liquide ou tout groupe de traitement du combustible liquide.
 
-16. La longueur (Lr) est égale à 96 % de la longueur totale à la flottaison située à une distance du dessus de quille égale à 85 % de creux minimum sur quille ou à la distance entre la face avant de l'étrave et l'axe de la mèche du gouvernail à cette flottaison, si cette valeur est supérieure. Dans les navires conçus pour naviguer avec une quille inclinée, la flottaison à laquelle la longueur est mesurée est parallèle à la flottaison en charge prévue.
+16. La longueur de référence (Lr) est égale à 96 % de la longueur totale à la flottaison, située à une distance de la ligne de quille égale à 85 % du creux minimal ou à la distance entre la face avant de l'étrave et l'axe de la mèche du gouvernail à cette flottaison si cette valeur est supérieure. Dans le cas des navires conçus avec une quille inclinée, la flottaison à laquelle la longueur est mesurée doit être parallèle à la flottaison en charge prévue.
 
 17. La longueur de coque (Lh) correspond à la mesure de la longueur du navire conformément à la norme EN ISO 8666. Il n'est pas littéralement défini de "longueur hors-tout" au sens de la présente division, mais lorsqu'une telle longueur hors-tout est requise par d'autres dispositions réglementaires, il convient de retenir la longueur de coque, plutôt que la longueur d'encombrement ou la longueur au sens de la convention LL66.
 

@@ -9,6 +9,7 @@
 - [Chapitre 242-15 : Habitabilité des locaux destinés à l'équipage.](chapitre-242-15)
 - [Chapitre 242-16 : Protection du personnel.](chapitre-242-16)
 - [Chapitre 242-2 : Franc-bord.](chapitre-242-2)
+- [Chapitre 242-20 : Conditions particulières d'exploitation](chapitre-242-20)
 - [Chapitre 242-3 : Construction, compartimentage, assèchement.](chapitre-242-3)
 - [Chapitre 242-4 : Conditions d'assignation du franc-bord.](chapitre-242-4)
 - [Chapitre 242-5 : Stabilité.](chapitre-242-5)

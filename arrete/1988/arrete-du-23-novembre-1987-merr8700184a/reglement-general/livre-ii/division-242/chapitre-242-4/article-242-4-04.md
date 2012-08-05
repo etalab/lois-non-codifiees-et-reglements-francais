@@ -66,9 +66,7 @@ III. - Une porte donnant directement accès à la salle des machines, depuis le 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="251">
-<br/>
-</td>
+<td valign="top" width="251"/>
 <td valign="top" width="208">
 <p align="center">CAS GENERAL</p>
 </td>
@@ -99,4 +97,6 @@ III. - Une porte donnant directement accès à la salle des machines, depuis le 
 </td>
 </tr>
 </tbody>
-</table>IV. - Hormis pour les portes donnant directement accès à la salle des machines, les prescriptions relatives à la hauteur des surbaux de portes étanches aux intempéries qui sont utilisées uniquement quand le navire est au port ou au mouillage en eaux calmes et abritées et qui sont verrouillées en position fermée quand le navire est en mer peuvent être réduites de moitié par rapport aux prescriptions des autres paragraphes du présent article.
+</table>
+
+IV. - Hormis celles donnant accès à la salle des machines, des portes à surbaux réduits peuvent être installées, à condition que leur résistance soit la même que les superstructures sur lesquelles elles sont disposées et qu'elles soient munies de moyens d'attache permanente. Elles sont de plus étanches aux intempéries et comportent la consigne : "Accès à un compartiment étanche, maintenir fermé à la mer". Tout local nécessitant un accès à la mer doit disposer d'un autre accès conforme aux dispositions pertinentes du présent chapitre.

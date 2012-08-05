@@ -8,21 +8,11 @@ a) Les courbes GZ présentent une plage de stabilité positive d'au moins 90°. 
 
 b) De plus, l'angle de gîte stabilisée θd est supérieur à 15° (voir figure). L'angle de gîte stabilisée est obtenu par l'intersection, d'une part, de la courbe de bras de levier inclinant lié au vent avec, d'autre part, la courbe GZ du cas de chargement étudié ;
 
-c) Dans la figure, dwhl est le bras de levier inclinant lié au vent à un angle
+c) Dans la figure, dwhl est "le bras de levier inclinant lié au vent" à n'importe quel angle°.
 
-θ° = 0,5 × WLO × Cos1,3 θ, avec WLO = GZf/(Cos1,3 θf).
+dwhl = 0,5 × WLO × Cos¹,³
 
-(Schéma non reproduit)
-
-où :
-
-WLO est la valeur du bras de levier inclinant du vent réel à 0° qui peut faire gîter le navire jusqu'à l'angle d'envahissement θf ou 60°, la plus faible valeur étant retenue ;
-
-GZf est le bras de levier de redressement du navire à l'angle d'envahissement (θf) ou 60°, la plus faible valeur étant retenue ;
-
-θd est l'angle pour lequel la courbe du bras de levier inclinant lié au vent coupe la courbe GZ ;
-
-θf est l'angle de gîte auquel se produit l'immersion du bord inférieur d'ouvertures ayant une surface totale, en mètres carrés, supérieure à (r/1 500), où r est le déplacement du navire en tonnes.
+avec WLO = GZf / (Cos¹,³f)
 
 II. - Toutes les ouvertures utilisées régulièrement pour les accès et la ventilation sont prises en considération pour la détermination de l'angle d'envahissement. Aucune ouverture qui peut provoquer un envahissement progressif, quelle que soit sa taille, n'est immergée à un angle de gîte inférieur à 40°. Les tuyaux de dégagement d'air des réservoirs peuvent cependant ne pas être pris en compte.
 
