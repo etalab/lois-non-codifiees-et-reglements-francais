@@ -426,7 +426,6 @@
 - [Arrêté du 18 février 1991 (AGRA9100255A)](arrete-du-18-fevrier-1991-agra9100255a)
 - [Arrêté du 18 février 1991 (MEND9003016A)](arrete-du-18-fevrier-1991-mend9003016a)
 - [Arrêté du 18 février 1991 (RESY9100071A)](arrete-du-18-fevrier-1991-resy9100071a)
-- [Arrêté du 18 février 1991 (RESY9100072A)](arrete-du-18-fevrier-1991-resy9100072a)
 - [Arrêté du 18 janvier 1991 (EQUA9100166A)](arrete-du-18-janvier-1991-equa9100166a)
 - [Arrêté du 18 juillet 1991 (AGRS9101590A)](arrete-du-18-juillet-1991-agrs9101590a)
 - [Arrêté du 18 juillet 1991 (AGRS9101615A)](arrete-du-18-juillet-1991-agrs9101615a)
