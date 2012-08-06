@@ -1,5 +1,9 @@
-# Arrêté du 11 février 1986 relatif au montant des marchés publics de travaux et de fournitures soumis aux règles de la concurrence dans le cadre de la Communauté économique européenne
+# Arrêté du 11 février 1986 modifié fixant les modalités d'organisation des concours pour le recrutement des conseillers d'éducation populaire et de jeunesse
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
