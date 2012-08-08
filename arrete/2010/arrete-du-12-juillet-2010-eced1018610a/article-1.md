@@ -612,8 +612,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Centre de techniques internationales (CTI).<br/>
-</p>
+<p align="left">CTI</p>
 </td>
 </tr>
 <tr>
@@ -678,8 +677,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Centre de techniques internationales (CTI).<br/>
-</p>
+<p align="left">CTI</p>
 </td>
 </tr>
 <tr>
@@ -964,8 +962,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Centre de techniques internationales (CTI).<br/>
-</p>
+<p align="left">CTI</p>
 </td>
 </tr>
 <tr>
@@ -986,8 +983,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Centre de techniques internationales (CTI).<br/>
-</p>
+<p align="left">CTI</p>
 </td>
 </tr>
 <tr>
@@ -1008,8 +1004,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Centre de techniques internationales (CTI).<br/>
-</p>
+<p align="left">CTI</p>
 </td>
 </tr>
 <tr>
@@ -1030,8 +1025,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Centre de techniques internationales (CTI).<br/>
-</p>
+<p align="left">CTI</p>
 </td>
 </tr>
 <tr>

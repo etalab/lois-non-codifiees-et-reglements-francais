@@ -93,13 +93,16 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">IV<br/>
 </td>
-<td align="center">Permanencier auxiliaire de régulation médicale.<br/>
+<td align="center">
+<p align="left">Assistant de régulation médicale de SAMU</p>
 </td>
 <td align="center">331<br/>
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">INSTITUT DE FORMATION EN SOINS INFIRMIERS DU LYCÉE RABELAIS.<br/>
+<td align="center">
+<p align="left">INSTITUT DE FORMATION EN SOINS INFIRMIERS DU LYCÉE RABELAIS.<br/>
+</p>
 </td>
 </tr>
 <tr>

@@ -281,7 +281,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">III</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Animateur commercial, adjoint de direction - spécialité sport</p>
+<p align="left">Gestionnaire commercial, spécialité sport</p>
 </td>
 <td align="left" valign="top">
 <p align="center">312p</p>

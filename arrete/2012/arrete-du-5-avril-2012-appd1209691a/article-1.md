@@ -2016,7 +2016,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">II</p>
 </td>
 <td valign="top" width="225">
-<p>Auditeur en prévention technique et vidéo </p>
+<p align="left">Auditeur en prévention technique de la malveillance et vidéoprotection</p>
 </td>
 <td valign="top" width="61">
 <p align="center">344n</p>

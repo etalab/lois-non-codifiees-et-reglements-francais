@@ -262,8 +262,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Technicien services en électrodomestique (TSED)<br/>
-</p>
+<p align="left">Technicien services en audiovisuel et électrodomestique</p>
 </td>
 <td align="center">
 <p align="center">255 r<br/>
