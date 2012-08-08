@@ -151,3 +151,19 @@ Jusqu'au 29 juin 2017 :
 Paris - Dzaoudzi (Mayotte) ;
 
 Paris - Dakar (Sénégal).
+
+Jusqu'au 31 juillet 2017 :
+
+Paris-Antananarivo (Madagascar) ;
+
+Paris-Nosy Bé (Madagascar) ;
+
+Paris-La Romana (République dominicaine) ;
+
+Paris-Puerto Plata (République dominicaine) ;
+
+Paris-Punta Cana (République dominicaine) ;
+
+Paris-Saint-Domingue (République dominicaine) ;
+
+Paris-Samana (République dominicaine).
