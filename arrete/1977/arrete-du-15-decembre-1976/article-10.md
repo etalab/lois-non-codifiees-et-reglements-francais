@@ -36,9 +36,9 @@ Epreuves écrites :
 
 Il sera proposé deux sujets, l'un pour le cycle primaire, l'autre pour le premier cycle du second degré.
 
-2. Monographie portant sur un problème de psycho-pédagogie des aveugles et des déficients visuels (coefficient 2).
+2. Monographie portant sur un problème de psychopédagogie des aveugles et des déficients visuels (coefficient 2).
 
-Le sujet de cette monographie sera choisi par le candidat et approuvé par le responsable du centre de formation. Quinze exemplaires dactylographiés, comportant tous la même pagination, en seront expédiés au ministère de la santé un mois et demi au plus tard avant la date de l'examen.
+Le sujet est choisi par le candidat et approuvé par le responsable du centre de formation. La monographie est adressée par le candidat à la direction générale de la cohésion sociale, un mois et demi au plus tard avant la date de l'examen, en sept exemplaires imprimés paginés identiques ainsi que sous forme électronique.
 
 Epreuves orales :
 

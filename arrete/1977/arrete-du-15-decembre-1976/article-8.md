@@ -1,29 +1,29 @@
 # Article 8
 
-L'examen a lieu devant un jury nommé par le ministre de la santé. Ce jury est composé comme suit :
+L'examen a lieu devant un jury nommé par le ministre chargé des personnes handicapées. Ce jury est composé comme suit :
 
-Président.
+Président
 
-Le directeur de l'action sociale ou son représentant.
+Le directeur général de la cohésion sociale ou son représentant.
 
-Membres.
+Membres
 
-Un inspecteur de l'enseignement désigné par le ministre de l'éducation ;
+Un inspecteur de l'enseignement désigné par le ministre de l'éducation nationale.
 
-Un inspecteur technique et pédagogique du ministère des affaires sociales, de la santé et de la ville, chargé des établissements publics ou privés agréés d'enseignement de déficients visuels et de jeunes aveugles ;
+Un inspecteur pédagogique et technique des établissements de jeunes sourds et de jeunes aveugles relevant du ministère chargé des affaires sociales, chargé des établissements pour déficients visuels.
 
-Un ophtalmologiste attaché à un établissement pour aveugles ou déficients visuels ;
+Un ophtalmologiste attaché à un établissement pour déficients visuels.
 
-Un responsable d'enseignement d'un centre de formation préparant à cet examen ;
+Un responsable d'enseignement d'un centre de formation préparant à cet examen.
 
-Deux professeurs à l'institut national des jeunes aveugles ;
+Deux professeurs à l'institut national des jeunes aveugles.
 
-Deux professeurs d'établissements agréés pour aveugles ou déficients visuels autres que l'I.N.J.A.
+Deux professeurs d'établissement pour déficients visuels autres que l'INJA.
 
 Une ou plusieurs personnes qualifiées, choisies en fonction des épreuves que comporte l'examen, peuvent être adjointes au jury.
 
-L'arrêté fixant nommément le jury désignera quatre membres suppléants.
+L'arrêté fixant nommément le jury désigne quatre membres suppléants.
 
-En cas de partage des voix, celle du président est prépondérante. Le président, lorsqu'il est empêché, est suppléé par l'inspecteur technique et pédagogique spécialisé pour les déficients visuels du ministère des affaires sociales, de la santé et de la ville ou, à défaut, par l'inspecteur du ministère de l'éducation nationale. A défaut, les membres du jury désignent l'un d'entre eux.
+En cas de partage des voix, celle du président est prépondérante. Le président, lorsqu'il est empêché, est suppléé par l'inspecteur pédagogique et technique ou, à défaut, par l'inspecteur du ministère de l'éducation nationale. A défaut, les membres du jury désignent l'un d'entre eux.
 
-Le secrétariat est assuré par le ministère des affaires sociales, de la santé et de la ville.
+Le secrétariat est assuré par la direction générale de la cohésion sociale.

@@ -809,7 +809,6 @@
 - [Arrêté du 27 août 2003 (SOCF0311367A)](arrete-du-27-aout-2003-socf0311367a)
 - [Arrêté du 27 août 2003 (SOCF0311368A)](arrete-du-27-aout-2003-socf0311368a)
 - [Arrêté du 27 août 2003 (SOCF0311369A)](arrete-du-27-aout-2003-socf0311369a)
-- [Arrêté du 27 décembre 2002 (EQUA0201790A)](arrete-du-27-decembre-2002-equa0201790a)
 - [Arrêté du 27 décembre 2002 (EQUP0201398A)](arrete-du-27-decembre-2002-equp0201398a)
 - [Arrêté du 27 décembre 2002 (SANS0224367A)](arrete-du-27-decembre-2002-sans0224367a)
 - [Arrêté du 27 février 2003 (DEVG0320062A)](arrete-du-27-fevrier-2003-devg0320062a)

@@ -1,6 +1,6 @@
 # Article 3
 
-Ce certificat est délivré aux candidats qui ont subi avec succès les épreuves d'un examen en deux parties organisé par le ministère de la santé. La seconde partie de cet examen est séparée de la première par au moins une année de préparation.
+Ce certificat est délivré aux candidats qui ont subi avec succès les épreuves d'un examen en deux parties organisé par le   ministère chargé des personnes handicapées . La seconde partie de cet examen est séparée de la première par au moins une année de préparation.
 
 Aucun candidat ne peut se présenter à la seconde partie s'il n'a subi avec succès les épreuves de la première.
 
