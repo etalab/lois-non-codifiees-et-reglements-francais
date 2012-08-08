@@ -912,7 +912,6 @@
 - [Arrêté du 30 juin 2003 (INDI0301706A)](arrete-du-30-juin-2003-indi0301706a)
 - [Arrêté du 30 juin 2003 (INDI0301707A)](arrete-du-30-juin-2003-indi0301707a)
 - [Arrêté du 30 juin 2003 (JUSF0350063A)](arrete-du-30-juin-2003-jusf0350063a)
-- [Arrêté du 30 juin 2003 (SOCF0310877A)](arrete-du-30-juin-2003-socf0310877a)
 - [Arrêté du 30 juin 2003 (SOCF0310878A)](arrete-du-30-juin-2003-socf0310878a)
 - [Arrêté du 30 juin 2003 (SPRK0370086A)](arrete-du-30-juin-2003-sprk0370086a)
 - [Arrêté du 30 octobre 2003 (AGRF0302240A)](arrete-du-30-octobre-2003-agrf0302240a)
