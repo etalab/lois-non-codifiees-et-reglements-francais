@@ -6,7 +6,7 @@ L'injure commise de la même manière envers les particuliers, lorsqu'elle n'aur
 
 Sera punie de six mois d'emprisonnement et de 22 500 euros d'amende l'injure commise, dans les conditions prévues à l'alinéa précédent, envers une personne ou un groupe de personnes à raison de leur origine ou de leur appartenance ou de leur non-appartenance à une ethnie, une nation, une race ou une religion déterminée.
 
-Sera punie des peines prévues à l'alinéa précédent l'injure commise dans les mêmes conditions envers une personne ou un groupe de personnes à raison de leur sexe, de leur orientation sexuelle ou de leur handicap.
+Sera punie des peines prévues à l'alinéa précédent l'injure commise dans les mêmes conditions envers une personne ou un groupe de personnes à raison de leur sexe, de leur orientation ou identité sexuelle ou de leur handicap.
 
 En cas de condamnation pour l'un des faits prévus par les deux alinéas précédents, le tribunal pourra en outre ordonner :
 
