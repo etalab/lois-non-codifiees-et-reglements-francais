@@ -21,4 +21,6 @@
 - [LOI n°2012-409 du 27 mars 2012 (JUSX1128281L)](loi-n2012-409-du-27-mars-2012-jusx1128281l)
 - [LOI n°2012-410 du 27 mars 2012 (IOCX1115403L)](loi-n2012-410-du-27-mars-2012-iocx1115403l)
 - [LOI n°2012-926 du 31 juillet 2012 (EFIX1225601L)](loi-n2012-926-du-31-juillet-2012-efix1225601l)
+- [LOI n°2012-954 du 6 août 2012 (JUSX1224421L)](loi-n2012-954-du-6-aout-2012-jusx1224421l)
+- [LOI n°2012-955 du 6 août 2012 (ETLX1229965L)](loi-n2012-955-du-6-aout-2012-etlx1229965l)
 - [Loi n°53-661 du 1 août 1953](loi-n53-661-du-1-aout-1953)
