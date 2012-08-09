@@ -8,7 +8,6 @@
 - [Arrêté du 1 avril 1996 (TASS9621015A)](arrete-du-1-avril-1996-tass9621015a)
 - [Arrêté du 1 février 1996 (AGRG9600245A)](arrete-du-1-fevrier-1996-agrg9600245a)
 - [Arrêté du 1 février 1996 (BUDL9600023A)](arrete-du-1-fevrier-1996-budl9600023a)
-- [Arrêté du 1 février 1996 (ENVP9650035A)](arrete-du-1-fevrier-1996-envp9650035a)
 - [Arrêté du 1 février 1996 (TASH9620418A)](arrete-du-1-fevrier-1996-tash9620418a)
 - [Arrêté du 1 juillet 1996 (AGRS9601337A)](arrete-du-1-juillet-1996-agrs9601337a)
 - [Arrêté du 1 juillet 1996 (EQUS9600829A)](arrete-du-1-juillet-1996-equs9600829a)
