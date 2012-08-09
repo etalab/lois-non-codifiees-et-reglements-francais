@@ -99,6 +99,7 @@ a) Pour l'espèce :
 <tr>
 <td width="726">
 <br/>
+<br/>
 </td>
 <td width="213">
 <p align="left">GE : gélinotte. </p>
@@ -106,6 +107,7 @@ a) Pour l'espèce :
 </tr>
 <tr>
 <td width="726">
+<br/>
 <br/>
 </td>
 <td width="213">
@@ -253,6 +255,7 @@ Les dispositifs utilisés doivent être conformes aux modèles désignés ci-apr
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="left">2. Bracelet en plastique Iso-Flex fabriqué par les établissements Biwi SA. </p>
@@ -260,6 +263,7 @@ Les dispositifs utilisés doivent être conformes aux modèles désignés ci-apr
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -269,6 +273,7 @@ Les dispositifs utilisés doivent être conformes aux modèles désignés ci-apr
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="left">4. Bracelet en plastique Chevilièvre fabriqué par les établissements Chevillot. </p>
@@ -276,6 +281,7 @@ Les dispositifs utilisés doivent être conformes aux modèles désignés ci-apr
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -324,11 +330,20 @@ Les dispositifs utilisés doivent être conformes aux modèles désignés ci-apr
 </td>
 </tr>
 <tr>
+<td/>
+<td>13. Bracelet RayTrack fabriqué par la société Araymondlife, pour lièvre, faisan ou perdrix, nouvelle version de juin 2012, entièrement en plastique : il comporte sur la partie imprimée le millésime, l'espèce concernée, le numéro du département, un numéro d'ordre, les 31 encoches réservées au jour et 6 autres spécifiques au mois.</td>
+</tr>
+<tr>
 <td>
 <p align="center">Oiseaux. </p>
 </td>
 <td>
 <p align="left">Languette de papier plastifié autocollante.</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>13. Bracelet RayTrack fabriqué par la société Araymondlife, pour lièvre, faisan ou perdrix, nouvelle version de juin 2012, entièrement en plastique : il comporte sur la partie imprimée le millésime, l'espèce concernée, le numéro du département, un numéro d'ordre, les 31 encoches réservées au jour et 6 autres spécifiques au mois.<br/>
 </td>
 </tr>
 </tbody>
