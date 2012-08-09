@@ -1,6 +1,6 @@
 # Article 3
 
-Toute personne ayant transformé des déchets ou réalisé un traitement des déchets aboutissant à d'autres déchets joint l'annexe 2 du formulaire CERFA n° 12571*01 dûment remplie au bordereau qu'elle émet lors de la réexpédition de ces déchets vers une autre installation.
+Toute personne ayant transformé des déchets ou réalisé un traitement des déchets aboutissant à d'autres déchets joint l'annexe 2 du formulaire CERFA n° 12571 dûment remplie au bordereau qu'elle émet lors de la réexpédition de ces déchets vers une autre installation.
 
 Cette obligation n'est pas applicable aux personnes ayant incinéré ou coïncinéré des déchets.
 
