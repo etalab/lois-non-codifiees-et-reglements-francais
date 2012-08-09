@@ -149,7 +149,6 @@
 - [Arrêté du 15 décembre 2006 (DEVP0650661A)](arrete-du-15-decembre-2006-devp0650661a)
 - [Arrêté du 15 décembre 2006 (MCCB0600807A)](arrete-du-15-decembre-2006-mccb0600807a)
 - [Arrêté du 15 décembre 2006 (MJSK0670299A)](arrete-du-15-decembre-2006-mjsk0670299a)
-- [Arrêté du 15 décembre 2006 (SANG0625049A)](arrete-du-15-decembre-2006-sang0625049a)
 - [Arrêté du 15 février 2006 (INTC0600116A)](arrete-du-15-fevrier-2006-intc0600116a)
 - [Arrêté du 15 septembre 2006 (SOCU0611881A)](arrete-du-15-septembre-2006-socu0611881a)
 - [Arrêté du 15 septembre 2006 (SOCU0611882A)](arrete-du-15-septembre-2006-socu0611882a)
