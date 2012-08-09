@@ -989,7 +989,6 @@
 - [Arrêté du 28 novembre 2007 (BCFR0771879A)](arrete-du-28-novembre-2007-bcfr0771879a)
 - [Arrêté du 28 novembre 2007 (DEFD0771910A)](arrete-du-28-novembre-2007-defd0771910a)
 - [Arrêté du 28 novembre 2007 (DEFD0771914A)](arrete-du-28-novembre-2007-defd0771914a)
-- [Arrêté du 28 novembre 2007 (DEFD0771939A)](arrete-du-28-novembre-2007-defd0771939a)
 - [Arrêté du 28 novembre 2007 (DEFD0771944A)](arrete-du-28-novembre-2007-defd0771944a)
 - [Arrêté du 28 novembre 2007 (DEVO0770062A)](arrete-du-28-novembre-2007-devo0770062a)
 - [Arrêté du 28 septembre 2007 (DEVT0766208A)](arrete-du-28-septembre-2007-devt0766208a)
