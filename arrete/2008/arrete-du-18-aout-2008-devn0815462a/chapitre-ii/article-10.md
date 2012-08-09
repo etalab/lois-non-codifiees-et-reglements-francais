@@ -1,9 +1,7 @@
 # Article 10
 
-Sont interdits pour la chasse à l'arc du grand gibier :
+Pour la chasse à l'arc de toutes les espèces sont donc interdites :
 
-― l'emploi de flèches d'un poids total (fût, empennage et pointe) inférieur à 30 grammes ;
+- les pointes de tir sur cible ;
 
-― l'emploi des pointes de chasse dont le nombre des lames est inférieur à deux ou dont les lames sont articulées ;
-
-― l'emploi de pointes de chasse à lames présentant à la fois un diamètre inférieur à 25 millimètres et une longueur de chaque partie tranchante principale inférieure à 40 millimètres.
+- les pointes ou flèches équipées de dispositifs toxiques ou d'explosifs.
