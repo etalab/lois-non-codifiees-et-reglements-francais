@@ -386,14 +386,47 @@
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">14</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Piège "livre de messe" à palette (variante)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pierre Billard Saint-Laurent-Nouan (41)</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Piège fermé :</p>
+<p>Longueur : 37 cm</p>
+<p>Largeur : 12 cm</p>
+<p>Hauteur : 7,5 cm</p>
+<p>Piège ouvert :</p>
+<p>Longueur : 33 cm</p>
+<p>Largeur : 12 cm</p>
+<p>Hauteur : 20 cm</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">916</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Conforme au descriptif adressé au ministère chargé de la chasse</p>
+</td>
+</tr>
+<tr>
 <td/>
 <td/>
 <td/>
 <td/>
 <td/>
-<td/>
-<td colspan="2"/>
-<td/>
+<td colspan="4">
+<p align="left">1° Dans les marais et jusqu'à 200 m des cours d'eau, des étangs ou des marais uniquement avec appât végétal, pour le piégeage des rats musqués ;</p>
+<p>2° A plus de 200 m des cours d'eau, des étangs ou des marais :</p>
+<p>- dans une boîte ménageant une ou des ouvertures inférieures ou égales à 11 × 11 cm ;</p>
+<p>- en gueule de terrier et dans les bottes de paille et de foin ;</p>
+<p>- au bois, dans une enceinte ménageant une ou des ouvertures d'une largeur inférieure ou égale à 15 cm.</p>
+</td>
 </tr>
 <tr>
 <td/>
