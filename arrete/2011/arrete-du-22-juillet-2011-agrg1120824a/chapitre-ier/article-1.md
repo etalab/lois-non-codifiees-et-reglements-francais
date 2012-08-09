@@ -16,4 +16,6 @@ Aux fins du présent arrêté, on entend par :
 
 ― sérotype endémique : sérotypes viraux 1 et 8 de la fièvre catarrhale du mouton sur le territoire continental et sérotypes viraux 1, 2, 4, 8 et 16 en Corse ;
 
-― sérotype exotique : tout sérotype viral autre que les sérotypes endémiques cités au présent article.
+― sérotype exotique : tout sérotype viral autre que les sérotypes endémiques cités au présent article ;
+
+― vaccin vivant atténué : vaccin produit en atténuant les isolats du virus de la fièvre catarrhale du mouton par des passages successifs sur culture cellulaire ou sur des œufs de poule embryonnés.

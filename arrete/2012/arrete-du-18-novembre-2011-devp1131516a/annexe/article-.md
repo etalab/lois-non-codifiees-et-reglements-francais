@@ -1,6 +1,6 @@
 # Article 
 
-CRITÈRES À RESPECTER POUR LE RECYCLAGE EN TECHNIQUE ROUTIÈRE DE MÂCHEFERS D'INCINÉRATION D'ORDURES MÉNAGÈRES
+CRITÈRES À RESPECTER POUR LE RECYCLAGE EN TECHNIQUE ROUTIÈRE DE MÂCHEFERS D'INCINÉRATION DE DECHETS NON DANGEREUX
 
 1° Critères de recyclage liés à la nature de l'usage routier :
 
@@ -22,7 +22,7 @@ L'utilisation des matériaux dans le but de réaliser des travaux de préchargem
 
 2° Critères de recyclage liés au comportement à la lixiviation :
 
-Le comportement à la lixiviation est évalué sur la base des résultats d'un essai de lixiviation mené conformément à la norme NF EN 12457-2 sur trois échantillons du lot à caractériser. Les échantillons sont constitués conformément à l'article 8.
+Le comportement à la lixiviation est évalué sur la base des résultats d'un essai de lixiviation mené conformément à la norme NF EN 12457-2 sur un échantillon du lot à caractériser. L'échantillon est constitué conformément à l'article 8.
 
 Les valeurs limites à respecter pour les quantités relarguées à un ratio L/ S = 10 l/ kg sont consignées dans le tableau suivant :
 
@@ -232,7 +232,7 @@ Tableau n° 1
 
 3° Critères de recyclage liés à la teneur intrinsèque en éléments polluants :
 
-La teneur intrinsèque en éléments polluants est évaluée sur la base des résultats d'une analyse en contenu total menée sur trois échantillons du lot à caractériser. Les échantillons sont constitués conformément à l'article 8.
+La teneur intrinsèque en éléments polluants est évaluée sur la base des résultats d'une analyse en contenu total menée sur un échantillon du lot à caractériser. L'échantillon est constitué conformément à l'article 8.
 
 Les valeurs limites à respecter en contenu total sont consignées dans le tableau suivant :
 
@@ -307,21 +307,17 @@ Tableau n° 2
 
 L'utilisation de matériaux routiers doit se faire :
 
-― en dehors des zones inondables et à une distance minimale de 50 cm des plus hautes eaux cinquantennales ou, à défaut, des plus hautes eaux connues ;
+-en dehors des zones inondables et à une distance minimale de 50 cm des plus hautes eaux cinquantennales ou, à défaut, des plus hautes eaux connues ;
 
-― à une distance minimale de 30 mètres de tout cours d'eau, y compris les étangs et les lacs. Cette distance est portée à 60 mètres si l'altitude du lit du cours d'eau est inférieure de plus de 20 mètres à celle de la base de l'ouvrage ;
+-à une distance minimale de 30 mètres de tout cours d'eau, y compris les étangs et les lacs. Cette distance est portée à 60 mètres si l'altitude du lit du cours d'eau est inférieure de plus de 20 mètres à celle de la base de l'ouvrage et dans les zones désignées comme zone de protection des habitats des espèces, de la faune et de la flore sauvages en application de l'article L. 414-1 du code de l'environnement ;
 
-― en dehors des périmètres de protection rapprochés des captages d'alimentation en eau potable ;
+-en dehors des périmètres de protection rapprochée des captages d'alimentation en eau potable ;
 
-― en dehors des zones répertoriées comme présentant une sensibilité particulière vis-à-vis des milieux aquatiques. Sont concernées :
+-en dehors des zones couvertes par une servitude d'utilité publique instituée, en application de l'article L. 211-12 du code de l'environnement, au titre de la protection de la ressource en eau ;
 
-― les zones couvertes par une servitude d'utilité publique instituée, en application de l'article L. 211-12 du code de l'environnement, au titre de la protection de la ressource en eau ;
+-en dehors des parcs nationaux ;
 
-― les zones désignées comme zone de protection des habitats des espèces, de la faune et de la flore sauvages en application de l'article L. 414-1 du code de l'environnement ;
-
-― les parcs nationaux ;
-
-― en dehors des zones de karsts affleurants.
+-en dehors des zones de karsts affleurants.
 
 5° Critères de recyclage liés à la mise en œuvre du matériau routier :
 
