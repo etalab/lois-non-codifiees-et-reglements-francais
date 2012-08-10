@@ -14,4 +14,6 @@ Les dispositions prévues à l'article R. 212-9-1 du code de l'environnement ne 
 
 6. La construction, le génie civil et les travaux publics et activités similaires sur ou dans le sol qui entrent en contact avec l'eau souterraine ;
 
-7. Les rejets de faibles quantités de polluants à des fins scientifiques pour la caractérisation, la protection ou la restauration des masses d'eau, ces rejets étant limités à ce qui est strictement nécessaire à ces fins à condition que ces rejets ne compromettent pas la réalisation des objectifs environnementaux fixés pour cette masse d'eau souterraine.
+7. Les rejets de faibles quantités de polluants à des fins scientifiques pour la caractérisation, la protection ou la restauration des masses d'eau, ces rejets étant limités à ce qui est strictement nécessaire à ces fins à condition que ces rejets ne compromettent pas la réalisation des objectifs environnementaux fixés pour cette masse d'eau souterraine ;
+
+8. L'injection de flux de dioxyde de carbone aux fins de leur stockage dans des formations géologiques que la nature a rendu de façon permanente impropres à d'autres utilisations, pour autant que cette injection soit effectuée conformément aux dispositions des sections 5 et 6 des chapitres IX des titres II des livres II du code de l'environnement.
