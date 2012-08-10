@@ -722,7 +722,6 @@
 - [Arrêté du 19 novembre 2008 (JUSA0825387A)](arrete-du-19-novembre-2008-jusa0825387a)
 - [Arrêté du 19 novembre 2008 (MAEA0827417A)](arrete-du-19-novembre-2008-maea0827417a)
 - [Arrêté du 19 septembre 2008 (AGRG0822594A)](arrete-du-19-septembre-2008-agrg0822594a)
-- [Arrêté du 19 septembre 2008 (DEVE0822737A)](arrete-du-19-septembre-2008-deve0822737a)
 - [Arrêté du 19 septembre 2008 (MLVU0820698A)](arrete-du-19-septembre-2008-mlvu0820698a)
 - [Arrêté du 20 août 2008 (DEFH0813828A)](arrete-du-20-aout-2008-defh0813828a)
 - [Arrêté du 20 août 2008 (DEVA0820330A)](arrete-du-20-aout-2008-deva0820330a)
