@@ -1,14 +1,14 @@
-# TITRE II : ÉLECTIONS DES REPRÉSENTANTS DES AGENTS DE DIRECTION OU AGENTS COMPTABLES ET DES REPRÉSENTANTS DES   CONSEILS OU DES CONSEILS D'ADMINISTRATION.
+# Titre II : Modalités relatives à la désignation des représentants des conseils ou conseils d'administration et à l'élection des agents de direction
 
+- [Chapitre Ier : Désignation des représentants des conseils et des conseils d'administration](chapitre-ier)
+- [Chapitre II : Modalités relatives à l'élection des représentants des agents de direction.](chapitre-ii)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
-- [Article 18](article-18.md)
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
