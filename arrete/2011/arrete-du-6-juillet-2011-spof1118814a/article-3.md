@@ -8,7 +8,7 @@ Les exigences préalables requises à l'entrée en formation prévues à article
 
 ― du permis de conduire des bateaux de plaisance en eaux maritimes, option côtière ou son équivalent ;
 
-― de la qualification nitrox confirmé.
+― de l'aptitude de plongeur nitrox confirmé (PN-C) au sens de l'annexe III-17 a du code du sport.
 
 2. Justifier des expériences obtenues dans une période de cinq années précédant l'entrée en formation :
 
@@ -18,7 +18,7 @@ Les exigences préalables requises à l'entrée en formation prévues à article
 
 Le nombre de plongées et les heures d'enseignement sont attestés par le directeur technique national sports sous-marins.
 
-3. Justifier d'un niveau technique d'aptitudes PA-3 au sens de l'annexe III-14 a du code du sport et démontrer une maîtrise technique au moyen des tests suivants :
+3. Justifier d'un niveau technique d'aptitudes PA-40 au sens de l'annexe III-14 a du code du sport et démontrer une maîtrise technique au moyen des tests suivants :
 
 a) Test de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre. Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur. Elle consiste, pour le candidat équipé de palmes, masque et tuba :
 
@@ -52,14 +52,14 @@ Le candidat bénéficie d'un temps maximal de préparation d'une demi-heure. La 
 
 d) Un test de vérification des connaissances théoriques et pratiques.
 
-Ces tests, sont présentés dans l'ordre chronologique. Le candidat qui échoue aux tests a et b n'est pas autorisé à présenter les tests c et d.
+Ces tests sont présentés dans l'ordre chronologique. Le candidat qui échoue aux tests a et b n'est pas autorisé à présenter les tests c et d.
 
-Ces tests sont mis en œuvre par l'organisme de formation en lien avec la direction de la jeunesse, des sports et de la cohésion sociale. Leur réussite est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
+Ces tests sont mis en œuvre par l'organisme de formation en lien avec la direction régionale de la jeunesse, des sports et de la cohésion sociale. Leur réussite est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
 
 Le titulaire de l'une des qualifications suivantes est dispensé de la justification de ce niveau technique :
 
-― diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « plongée subaquatique » ;
+- diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "perfectionnement sportif", mention "plongée subaquatique" ;
 
-― brevet d'Etat d'éducateur sportif du 1er degré option plongée subaquatique et la qualification de plongeur nitrox confirmé ;
+- brevet d'Etat d'éducateur sportif du 1er degré option  plongée subaquatique  et justifiant de l'aptitude de plongeur nitrox confirmé (PN-C) au sens de l'annexe III-17 a du code du sport ;
 
-― monitorat fédéral 1er ou 2e degré délivré par la Fédération française d'études et de sports sous-marins ou la Fédération sportive et gymnique du travail, de la qualification de plongeur nitrox confirmé et de l'attestation de premiers secours en équipe de niveau 1 (PSE 1).
+- monitorat fédéral 1er ou 2e degré délivré par la Fédération française d'études de sports sous-marins ou la Fédération sportive et gymnique du travail et justifiant de l'aptitude de plongeur nitrox confirmé (PN-C) au sens de l'annexe III-17 a du code du sport et de l'attestation de premiers secours en équipe de niveau 1 (PSE 1).
