@@ -106,7 +106,6 @@
 - [Arrêté du 11 décembre 2006 (ECOP0600612A)](arrete-du-11-decembre-2006-ecop0600612a)
 - [Arrêté du 11 janvier 2006 (SOCN0610095A)](arrete-du-11-janvier-2006-socn0610095a)
 - [Arrêté du 11 septembre 2006 (SANP0623792A)](arrete-du-11-septembre-2006-sanp0623792a)
-- [Arrêté du 12 avril 2006 (EQUA0600918A)](arrete-du-12-avril-2006-equa0600918a)
 - [Arrêté du 12 décembre 2005 (INDI0506414A)](arrete-du-12-decembre-2005-indi0506414a)
 - [Arrêté du 12 décembre 2006 (EQUT0602485A)](arrete-du-12-decembre-2006-equt0602485a)
 - [Arrêté du 12 janvier 2006 (JUSG0660001A)](arrete-du-12-janvier-2006-jusg0660001a)
