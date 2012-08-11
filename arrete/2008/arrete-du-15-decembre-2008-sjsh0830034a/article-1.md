@@ -10,8 +10,6 @@ Centre hospitalier, à La Fère (Aisne) ;
 
 Institut médico-éducatif spécialisé, à Proisy (Aisne) ;
 
-EPARS, à Liesse (Aisne) ;
-
 Centre de rééducation-réadaptation fonctionnelle, à Saint-Gobain (Aisne) ;
 
 Groupe établissements publics handicaps éducation soin emploi (fusion à compter du 1er janvier 2012), à Liesse (Aisne) ;
@@ -127,6 +125,8 @@ Centre hospitalier, à Salins-les-Bains (Jura) ;
 Etablissement public éducatif et social, à Dole (Jura) ;
 
 Hôpital local, à Saint-Aignan (Loir-et-Cher) ;
+
+Centre départemental de soins, d'accompagnement et d'éducation, à Herbault (Loir-et-Cher) ;
 
 Centre hospitalier, au Chambon-Feugerolles (Loire) ;
 

@@ -294,26 +294,6 @@ Maison de retraite, à Contres (Loir-et-Cher) ;
 
 Maison de retraite, à Ouzouer-le-Marche (Loir-et-Cher) ;
 
-Maison de retraite, à Champdieu (Loire) ;
-
-Etablissement d'hébergement pour personnes âgées, à Coutouvre (Loire) ;
-
-Etablissement d'hébergement pour personnes âgées, à La Gresle (Loire) ;
-
-Etablissement d'hébergement pour personnes âgées, à Montagny (Loire) ;
-
-Etablissement d'hébergement pour personnes âgées, à Perreux (Loire) ;
-
-Maison de retraite, à Saint-Germain-Laval (Loire) ;
-
-Maison de retraite, à Saint-Just-en-Chevalet (Loire) ;
-
-Maison de retraite, à Saint-Just-Saint-Rambert (Loire) ;
-
-Etablissement d'hébergement pour personnes âgées, à Saint-Romain-d'Urfe (Loire) ;
-
-Maison de retraite, à Usson-en-Forez (Loire) ;
-
 Maison de retraite, à Allègre (Haute-Loire) ;
 
 Maison de retraite, à Saugues (Haute-Loire) ;
@@ -688,11 +668,7 @@ Maison de retraite Sans Souci, à Geispolsheim (Bas-Rhin) ;
 
 Maison de retraite, à Schweighouse-sur-Moder (Bas-Rhin) ;
 
-Etablissement d'hébergement pour personnes âgées, à Bergheim (Haut-Rhin) ;
-
 Etablissement d'hébergement pour personnes âgées, à Bitschwiller-lès-Thann (Haut-Rhin) ;
-
-Etablissement d'hébergement pour personnes âgées, à Saint-Hippolyte (Haut-Rhin) ;
 
 Etablissement d'hébergement pour personnes âgées, à Riedisheim (Haut-Rhin) ;
 
@@ -796,21 +772,11 @@ Centre éducatif Dubreuil, à Orsay (Paris) ;
 
 Maison de retraite, à Vanves (Hauts-de-Seine) ;
 
-EPA Education motricité, surdité et langage, au Havre (Seine-Maritime) ;
-
 Centre d'aide par le travail, à Bacqueville-en-Caux (Seine-Maritime) ;
-
-Institut médico-éducatif Les Montées, à Grand-Couronne (Seine-Maritime) ;
-
-Etablissement d'hébergement pour personnes âgées, à Buchy (Seine-Maritime) ;
 
 Etablissement d'hébergement pour personnes âgées, à Doudeville (Seine-Maritime) ;
 
 Etablissement d'hébergement pour personnes âgées, à Envermeu (Seine-Maritime) ;
-
-Etablissement d'hébergement pour personnes âgées, à La Feuillie (Seine-Maritime) ;
-
-Etablissement d'hébergement pour personnes âgées, à Gaillefontaine (Seine-Maritime) ;
 
 Maison de retraite, à Maromme (Seine-Maritime) ;
 
@@ -820,17 +786,11 @@ Etablissement d'hébergement pour personnes âgées, à Montville (Seine-Maritim
 
 Foyer d'accueil de l'enfance, à Elbeuf (Seine-Maritime) ;
 
-Foyer d'hébergement, à Maromme (Seine-Maritime) ;
-
-Etablissement d'hébergement pour personnes âgées, au Mesnil-Esnard (Seine-Maritime) ;
-
 Etablissement d'hébergement pour personnes âgées, à Moret-sur-Loing (Seine-et-Marne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Chaumes-en-Brie (Seine-et-Marne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Crécy-la-Chapelle (Seine-et-Marne) ;
-
-Etablissement d'hébergement pour personnes âgées, à Crouy-sur-Ourcq (Seine-et-Marne) ;
 
 Centre maternel Ledru Rollin, à Fontenay-aux-Roses (Seine-et-Marne) ;
 
