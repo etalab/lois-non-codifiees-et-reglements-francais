@@ -169,7 +169,6 @@
 - [Arrêté du 17 mars 2006 (DEVO0650136A)](arrete-du-17-mars-2006-devo0650136a)
 - [Arrêté du 17 mars 2006 (INTE0600191A)](arrete-du-17-mars-2006-inte0600191a)
 - [Arrêté du 17 mars 2006 (MAEA0620082A)](arrete-du-17-mars-2006-maea0620082a)
-- [Arrêté du 17 mars 2006 (SANC0621980A)](arrete-du-17-mars-2006-sanc0621980a)
 - [Arrêté du 17 novembre 2006 (EQUP0601897A)](arrete-du-17-novembre-2006-equp0601897a)
 - [Arrêté du 17 novembre 2006 (EQUP0601899A)](arrete-du-17-novembre-2006-equp0601899a)
 - [Arrêté du 17 novembre 2006 (EQUP0601903A)](arrete-du-17-novembre-2006-equp0601903a)
