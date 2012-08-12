@@ -1,0 +1,3 @@
+# Article 1
+
+L'avancement au grade d'adjoint technique principal de 2e classe de recherche et de formation du ministère chargé de l'enseignement supérieur s'opère, conformément aux dispositions du 3° du I de l'article 56 du décret du 31 décembre 1985 susvisé, par combinaison des modalités définies aux 1° et 2° du I du même article, sans que le nombre des promotions prononcées par l'une de ces modalités puisse être inférieur à un tiers du nombre total des promotions. Lorsque le nombre de candidats admis à l'examen professionnel est inférieur au nombre de postes ouverts à cet examen, le nombre de promotions par la voie du choix est augmenté à due concurrence.
