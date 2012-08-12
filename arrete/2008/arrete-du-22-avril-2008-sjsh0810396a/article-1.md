@@ -128,8 +128,6 @@ Centre hospitalier d'Aunay-sur-Odon (Calvados) ;
 
 Centre hospitalier de Pont-l'Evêque (Calvados) ;
 
-Centre hospitalier de Trouville (Calvados) ;
-
 Hôpital local d'Orbec (Calvados) ;
 
 Hôpital local de Condat (Cantal) ;
@@ -147,8 +145,6 @@ Hôpital local de Châteauneuf (Charente) ;
 Maison de repos et de convalescence du château de Marlonges, à Chambon (Charente-Maritime) ;
 
 Hôpital local de Saint-Pierre-d'Oléron (Charente-Maritime) ;
-
-Hôpital local Saint Honoré de Saint-Martin-de-Ré (Charente-Maritime) ;
 
 Hôpital local Dubois Meynardie, à Marennes (Charente-Maritime) ;
 
@@ -316,15 +312,11 @@ Centre hospitalier Paul Coste Floret, à Lamalou-les-Bains (Hérault) ;
 
 Hôpital local de La Guerche-de-Bretagne (Ille-et-Vilaine) ;
 
-Hôpital local de Saint-Brice-en-Cogles (Ille-et-Vilaine) ;
-
 Hôpital local de Janzé (Ille-et-Vilaine) ;
 
 Hôpital local du Grand-Fougeray (Ille-et-Vilaine) ;
 
 Hôpital local de Montfort (Ille-et-Vilaine) ;
-
-Hôpital local René Le Hérisse, à Antrain (Ille-et-Vilaine) ;
 
 Hôpital local de Saint-Méen-le-Grand (Ille-et-Vilaine) ;
 
@@ -732,8 +724,6 @@ Hôpital local d'Yvetot (Seine-Maritime) ;
 
 Hôpital local de Saint-Romain-de-Colbosc (Seine-Maritime) ;
 
-Hôpital local de Bolbec (Seine-Maritime) ;
-
 Centre hospitalier Durecu-Lavoisier, à Darnétal (Seine-Maritime) ;
 
 Centre hospitalier Les Jacinthes, à Deville-lès-Rouen (Seine-Maritime) ;
@@ -830,21 +820,13 @@ Hôpital local du Thillot (Vosges) ;
 
 Hôpital local de Senones (Vosges) ;
 
-Centre hospitalier de Golbey (Vosges) ;
-
 Hôpital local Roland Bonnion, à Villeneuve-sur-Yonne (Yonne) ;
 
 Centre de soins de longue durée du Chesnois, à Bavilliers (Territoire de Belfort) ;
 
-Hôpital communal de Puteaux (Hauts-de-Seine) ;
-
 Fondation Roguet de Clichy (Hauts-de-Seine) ;
 
 Centre de gérontologie Les Abondances, à Boulogne-Billancourt (Hauts-de-Seine) ;
-
-Centre gériatrique Les Ormes, à Montfermeil (Seine-Saint-Denis) ;
-
-Centre hospitalier du Vexin, à Magny-en-Vexin (Val-d'Oise) ;
 
 Centre hospitalier de Carnelle, à Saint-Martin-du-Tertre (Val-d'Oise) ;
 

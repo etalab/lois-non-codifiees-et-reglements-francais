@@ -10,6 +10,6 @@ Toutefois, si le demandeur réside :
 
 ― dans les îles Wallis et Futuna, elle est adressée au chef du service de l'inspection du travail et des affaires sociales ;
 
-― en Polynésie française, elle est adressée au vice-rectorat ;
+― en Polynésie française, elle est adressée au haut-commissaire de la République en Polynésie française  ;
 
 ― en Nouvelle-Calédonie, elle est adressée au groupement d'intérêt public Cadres Avenir.
