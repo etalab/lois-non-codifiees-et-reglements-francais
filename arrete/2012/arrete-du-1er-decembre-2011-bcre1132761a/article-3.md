@@ -1,3 +1,3 @@
 # Article 3
 
-Les rémunérations des personnels des services déconcentrés de l'Etat en poste en métropole et dans les départements d'outre-mer sont mises en paiement sans ordonnancement préalable par le comptable public désigné aux annexes I et II.
+Les ordonnateurs communiquent au comptable public compétent les bases de calcul nécessaires à la liquidation et à la mise en paiement des rémunérations de ces derniers ainsi qu'à la détermination des retenues à opérer sur celles-ci à titre obligatoire ou facultatif.
