@@ -14,9 +14,7 @@ En vue de son inscription au concours, chaque candidat doit fournir les pièces 
 
 5. Une attestation de bourse pour les candidats boursiers (dispensés de droit d'inscription) ;
 
-6. Une déclaration du candidat, datée et signée, suivant le modèle établi par le directeur général de l'Ecole polytechnique ;
-
-7. Un dossier académique constitué de pièces décrivant, de manière détaillée, son cursus à compter de la fin des études secondaires :
+6. Un dossier académique constitué de pièces décrivant, de manière détaillée, son cursus à compter de la fin des études secondaires :
 
 a) Un mémoire personnel, rédigé par le candidat, présentant ses centres d'intérêts scientifiques et autres (associatifs, sportifs, etc.) et précisant ses intentions d'études et ses motivations. A ce texte peuvent être joints, le cas échéant, tous mémoires ou rapports de stage établis par le candidat ;
 

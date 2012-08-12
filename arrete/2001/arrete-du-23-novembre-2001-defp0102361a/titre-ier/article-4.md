@@ -26,4 +26,6 @@ Assistent aux réunions de ce jury à titre consultatif :
 
 - les autres correcteurs dans les matières ne figurant pas à l'oral.
 
+- des personnalités invitées à titre exceptionnel par le président du jury.
+
 Le jury d'admission ne peut valablement délibérer que si deux tiers au moins des membres ayant voix délibérative sont présents.

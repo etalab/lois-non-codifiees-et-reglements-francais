@@ -5,429 +5,466 @@ Les coefficients des diverses épreuves sont fixés comme suit :
 <table>
 <tbody>
 <tr>
-<td>
-<pre> </pre>
+<th>
+<br/>ÉPREUVES<br/>
+</th>
+<th colspan="3">
+<br/>COEFFICIENTS<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th colspan="3">
+<br/>Filière MP<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Option informatique<br/>
+</th>
+<th>
+<br/>Option physique<br/>
+<br/>et sciences de l'ingénieur<br/>
+</th>
+<th>
+<br/>Filière PC<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>A. - Epreuves écrites d'admissibilité<br/>
 </td>
-<td colspan="3">
-<p align="center">COEFFICIENTS</p>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>Mathématiques A<br/>
 </td>
-<td colspan="2">
-<p align="center">Filière MP</p>
+<td align="center">
+<br/>8<br/>
 </td>
-<td>
-<p align="center">Filière PC</p>
+<td align="center">
+<br/>8<br/>
 </td>
-</tr>
-<tr>
-<td>
-<pre> </pre>
-</td>
-<td>
-<p align="center">Option informatique</p>
-</td>
-<td>
-<p align="center">Option physique et sciences de l'ingénieur</p>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">A. - Epreuves écrites d'admissibilité</p>
+<td align="center">
+<br/>Mathématiques B<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>7<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>7<br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Première composition de mathématiques</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">9</p>
+<td align="center">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Deuxième composition de mathématiques</p>
+<td align="center">
+<br/>Mathématiques<br/>
 </td>
-<td>
-<p align="center">7</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">7</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Composition d'informatique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
+<td align="center">
+<br/>9<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Première composition de physique</p>
+<td align="center">
+<br/>Informatique A<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>6 (*)<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Deuxième composition de physique</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Composition de physique et sciences de l'ingénieur</p>
+<td align="center">
+<br/>Physique A<br/>
 </td>
-<td>
-<p align="center">-</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Composition de chimie</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>6<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Composition de français</p>
+<td align="center">
+<br/>Physique B<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-total des coefficients</p>
-</td>
-<td>
-<p align="center">33</p>
-</td>
-<td>
-<p align="center">33</p>
-</td>
-<td>
-<p align="center">33</p>
+<td align="center">
+<br/>6<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">B. - Epreuves écrites d'admission</p>
+<td align="center">
+<br/>Physique<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>6<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>6<br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="right">Composition d'informatique</p>
-</td>
-<td>
-<p align="center">4*</p>
-</td>
-<td>
-<p align="center">4</p>
-</td>
-<td>
-<p align="center">4</p>
+<td align="center">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Composition de langue vivante obligatoire (expression écrite : 3, version : 3)</p>
+<td align="center">
+<br/>Physique et sciences de l'ingénieur<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>6<br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-total des coefficients</p>
+<td align="center">
+<br/>Chimie<br/>
 </td>
-<td>
-<p align="center">10</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">10</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td>
-<p align="center">10</p>
+<td align="center">
+<br/>6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Français<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-total des coefficients<br/>
+</td>
+<td align="center">
+<br/>33<br/>
+</td>
+<td align="center">
+<br/>33<br/>
+</td>
+<td align="center">
+<br/>33<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>B. - Epreuves écrites d'admission<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Informatique A<br/>
+</td>
+<td align="center">
+<br/>4 (*)<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Informatique B<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Langue vivante obligatoire<br/>
+<br/>(expression écrite : 3, version : 3)<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-total des coefficients<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>C. - Epreuves orales <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mathématiques (1re interrogation)<br/>
+</td>
+<td align="center">
+<br/>16<br/>
+</td>
+<td align="center">
+<br/>16<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mathématiques (2e interrogation)<br/>
+</td>
+<td align="center">
+<br/>16<br/>
+</td>
+<td align="center">
+<br/>16<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Physique<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>16<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chimie<br/>
+</td>
+<td align="center">
+<br/>9<br/>
+</td>
+<td align="center">
+<br/>9<br/>
+</td>
+<td align="center">
+<br/>9<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Analyse de documents scientifiques<br/>
+</td>
+<td align="center">
+<br/>15<br/>
+</td>
+<td align="center">
+<br/>15<br/>
+</td>
+<td align="center">
+<br/>15<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Français<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Langue vivante obligatoire<br/>
+<br/>(test audio : 4, analyse de texte : 4)<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Travaux pratiques de physique<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Travaux pratiques de chimie<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>8<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-total des coefficients<br/>
+</td>
+<td align="center">
+<br/>92<br/>
+</td>
+<td align="center">
+<br/>92<br/>
+</td>
+<td align="center">
+<br/>92<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>D. - Epreuves d'éducation physique et sportive<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E. - Total des coefficients pour l'ensemble des épreuves<br/>
+</td>
+<td align="center">
+<br/>140<br/>
+</td>
+<td align="center">
+<br/>140<br/>
+</td>
+<td align="center">
+<br/>140 <br/>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">C. - Epreuves orales</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mathématiques, 1<sup>ère</sup> interrogation</p>
-</td>
-<td>
-<p align="center">16</p>
-</td>
-<td>
-<p align="center">16</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mathématiques, 2° interrogation</p>
-</td>
-<td>
-<p align="center">16</p>
-</td>
-<td>
-<p align="center">16</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Physique</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">16</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chimie</p>
-</td>
-<td>
-<p align="center">9</p>
-</td>
-<td>
-<p align="center">9</p>
-</td>
-<td>
-<p align="center">9</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Analyse de documents scientifiques</p>
-</td>
-<td>
-<p align="center">15</p>
-</td>
-<td>
-<p align="center">15</p>
-</td>
-<td>
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Français</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Langue vivante obligatoire</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Travaux pratiques de physique </p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Travaux pratiques de chimie</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-total des coefficients</p>
-</td>
-<td>
-<p align="center">92</p>
-</td>
-<td>
-<p align="center">92</p>
-</td>
-<td>
-<p align="center">92</p>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">D. - Epreuves d'éducation physique et sportives</p>
-</td>
-<td>
-<p align="center">5</p>
-</td>
-<td>
-<p align="center">5</p>
-</td>
-<td>
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">E. - Total des coefficients pour l'ensemble des épreuves</p>
-</td>
-<td>
-<p align="center">140</p>
-</td>
-<td>
-<p align="center">140</p>
-</td>
-<td>
-<p align="center">140</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="2">
-<p>* Dans la filière MP option informatique, la composition écrite d'informatique est affectée du coefficient 6 pour l'admissibilité. Ce coefficient est augmenté de 4 et donc porté à 10 pour le calcul du total de points pris en compte pour l'établissement de la liste de classement.</p>
+<br/>(*) Dans la filière MP option informatique, la composition écrite d'informatique A est affectée du coefficient 6 pour l'admissibilité. Ce coefficient est augmenté de 4 et donc porté à 10 pour le calcul du total de points pris en compte pour l'établissement de la liste de classement.<br/>
 </td>
 </tr>
 </tbody>

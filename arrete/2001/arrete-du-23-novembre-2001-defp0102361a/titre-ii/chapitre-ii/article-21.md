@@ -1,3 +1,3 @@
 # Article 21
 
-Les notes obtenues aux épreuves écrites par les candidats éliminés après ces épreuves sont affichées à l'Ecole polytechnique en même temps que paraissent les listes des candidats admissibles aux épreuves orales.
+Les notes obtenues aux épreuves écrites par les candidats éliminés après les épreuves d'admissibilité de tous les concours des banques d'épreuves auxquels ils sont inscrits leur sont communiquées individuellement, dès lors que l'ensemble des résultats d'admissibilité les concernant sont affichés.

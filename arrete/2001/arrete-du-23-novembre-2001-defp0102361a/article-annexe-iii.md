@@ -1,14 +1,12 @@
 # Article Annexe III
 
-NATURE DES EPREUVES ET PROGRAMME DES CONNAISSANCES
-
-EXIGEES POUR L'ADMISSION A L'ECOLE POLYTECHNIQUE
+NATURE DES EPREUVES ET PROGRAMME DES CONNAISSANCES EXIGEES POUR L'ADMISSION A L'ECOLE POLYTECHNIQUE
 
 Observations générales
 
 Les épreuves du concours doivent permettre de juger en particulier l'aptitude des candidats aux applications pratiques mettant en oeuvre les techniques mathématiques ou informatiques figurant au programme.
 
-L'usage des calculettes peut être profitable pour certaines épreuves scientifiques. Il est interdit pour les épreuves de français et de langue vivante. Sont seules autorisées les calculettes à alimentation et fonctionnement autonomes, non imprimantes ; les annexes (notices d'emploi, cartes magnétiques, modules enfichables, etc.) sont interdites. Tout échange entre candidats, pour quelque raison que ce soit, est prohibé. Lorsqu'il se révèle inutile pour traiter le sujet proposé, l'emploi des calculettes peut être interdit lors de certaines épreuves scientifiques. Les candidats en sont avisés au début de l'épreuve.
+Les principes relatifs au déroulement des épreuves sont fixés par l'arrêté relatif à la création des banques d'épreuves communes mentionné à l'article 2 du présent arrêté.
 
 Dans le jugement de toutes les compositions, il est tenu compte de la correction du style, de l'orthographe et des qualités d'exposition, de rédaction et de présentation.
 
@@ -16,7 +14,7 @@ A. - Programme non scientifique commun aux deux filières
 
 I. - Epreuves de français
 
-La liste des auteurs, ouvrages et thèmes inscrits au programme au titre de la composition française est publiée chaque année au Journal officiel.
+La liste des auteurs, ouvrages et thèmes inscrits au programme au titre de la composition française est publiée chaque année au Journal officiel ou au Bulletin officiel de l'enseignement supérieur ;
 
 La composition française consiste à traiter un sujet qui est en relation avec le programme. Elle a pour but d'éprouver l'aptitude des candidats à réfléchir librement à partir des données précises, à composer et à rédiger.
 
@@ -56,13 +54,13 @@ Le candidat est jugé globalement sur sa compréhension de la langue étrangère
 
 III. - Epreuve orale de langue vivante facultative
 
-L'épreuve orale de langue vivante facultative se déroule dans les mêmes conditions que la deuxième partie de l'épreuve orale de langue vivante obligatoire.
+L'épreuve orale de langue vivante facultative se déroule dans les mêmes conditions que la deuxième partie de l'épreuve orale de langue vivante obligatoire (analyse et commentaire de texte).
 
 B. - Programme scientifique
 
 I. - Dispositions relatives à l'ensemble des épreuves
 
-Pour les épreuves écrites et orales de mathématiques, de physique, de chimie, de physique et sciences de l'ingénieur ou d'informatique, et les épreuves pratiques de physique ou de chimie, le programme de chacune des filières MP et PC est celui des classes préparatoires MP* et PC*.
+Pour les épreuves scientifiques, les programmes sont ceux mentionnés dans l'arrêté relatif à la création des banques d'épreuves communes mentionné à l'article 2 du présent arrêté.
 
 Il s'agit des programmes de deuxième année en vigueur au 1er janvier de l'année du concours, et de ceux de première année en vigueur au 1er janvier de l'année précédente, définis par le Bulletin officiel de l'éducation nationale.
 

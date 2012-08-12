@@ -4,4 +4,4 @@ Au début de chaque épreuve, le candidat présente à l'examinateur l'une des p
 
 Les épreuves orales sont publiques, mais l'entrée dans les salles n'est autorisée qu'entre deux interrogations successives.
 
-Au début de chaque série, le président des commissions d'examen fait afficher pour chaque examinateur le calendrier et les horaires de passage des candidats. Un candidat ne peut subir plus de deux épreuves par jour. Ces deux épreuves ne peuvent être deux épreuves de mathématiques ou deux épreuves de physique.
+Au début de chaque série, le directeur du concours fait afficher pour chaque examinateur le calendrier et les horaires de passage des candidats. Un candidat ne peut subir plus de deux épreuves par jour. Ces deux épreuves ne peuvent être deux épreuves de mathématiques ou deux épreuves de physique.

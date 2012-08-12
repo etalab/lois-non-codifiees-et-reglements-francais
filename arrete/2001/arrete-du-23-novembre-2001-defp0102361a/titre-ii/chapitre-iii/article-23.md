@@ -38,6 +38,10 @@ b) Pour la filière PC :
 
 - une interrogation de langue vivante facultative (durée : quinze minutes).
 
-La liste des langues vivantes autorisées aux épreuves orales est la même que celle qui figure à l'article 14 pour les épreuves écrites de langue vivante.
+La liste des langues vivantes autorisées aux épreuves orales est la suivante :
+
+- épreuve obligatoire : allemand, anglais, arabe, chinois, espagnol ;
+
+- épreuve facultative : allemand, anglais, arabe, chinois, espagnol, italien, portugais et russe.
 
 La langue vivante obligatoire de l'épreuve orale est la même que celle choisie pour l'épreuve écrite. Une même langue ne peut être choisie à la fois comme langue vivante obligatoire et comme langue vivante facultative.

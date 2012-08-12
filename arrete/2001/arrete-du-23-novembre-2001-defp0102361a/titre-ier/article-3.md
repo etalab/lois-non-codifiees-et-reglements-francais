@@ -10,6 +10,6 @@ Participent aux diverses opérations du concours :
 
 - la commission spéciale chargée des épreuves d'éducation physique et sportives ;
 
-- les généraux commandant les régions  terre  dans lesquelles sont organisés des centres d'examen ;
+- les autorités militaires territorialement compétentes dans les villes où sont mis en place les centres d'examen ;
 
 - les commissions de surveillance des épreuves écrites constituées dans chaque centre d'examen.
