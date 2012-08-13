@@ -1104,6 +1104,7 @@
 - [Arrêté du 19 juillet 2012 (AGRT1228319A)](arrete-du-19-juillet-2012-agrt1228319a)
 - [Arrêté du 19 juillet 2012 (DEVA1230352A)](arrete-du-19-juillet-2012-deva1230352a)
 - [Arrêté du 19 juillet 2012 (DEVA1230384A)](arrete-du-19-juillet-2012-deva1230384a)
+- [Arrêté du 19 juillet 2012 (DEVD1132912A)](arrete-du-19-juillet-2012-devd1132912a)
 - [Arrêté du 19 juillet 2012 (EFIK1200066A)](arrete-du-19-juillet-2012-efik1200066a)
 - [Arrêté du 19 juillet 2012 (EFIS1230163A)](arrete-du-19-juillet-2012-efis1230163a)
 - [Arrêté du 19 juillet 2012 (ESRS1225764A)](arrete-du-19-juillet-2012-esrs1225764a)
