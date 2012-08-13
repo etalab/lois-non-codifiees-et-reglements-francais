@@ -358,7 +358,6 @@
 - [Arrêté du 19 juillet 2005 (MENS0501524A)](arrete-du-19-juillet-2005-mens0501524a)
 - [Arrêté du 19 juillet 2005 (MENS0501542A)](arrete-du-19-juillet-2005-mens0501542a)
 - [Arrêté du 19 juin 2006 (ECOP0600323A)](arrete-du-19-juin-2006-ecop0600323a)
-- [Arrêté du 19 octobre 2005 (EQUG0501351A)](arrete-du-19-octobre-2005-equg0501351a)
 - [Arrêté du 19 octobre 2005 (INTA0500722A)](arrete-du-19-octobre-2005-inta0500722a)
 - [Arrêté du 19 octobre 2005 (INTA0500723A)](arrete-du-19-octobre-2005-inta0500723a)
 - [Arrêté du 19 octobre 2005 (INTA0500724A)](arrete-du-19-octobre-2005-inta0500724a)
