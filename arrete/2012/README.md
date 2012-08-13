@@ -990,7 +990,6 @@
 - [Arrêté du 17 janvier 2012 (JUSK1202177A)](arrete-du-17-janvier-2012-jusk1202177a)
 - [Arrêté du 17 janvier 2012 (MCCC1201621A)](arrete-du-17-janvier-2012-mccc1201621a)
 - [Arrêté du 17 janvier 2012 (MENV1135221A)](arrete-du-17-janvier-2012-menv1135221a)
-- [Arrêté du 17 juillet 2012 (AFSP1229698A)](arrete-du-17-juillet-2012-afsp1229698a)
 - [Arrêté du 17 juillet 2012 (AFSS1229614A)](arrete-du-17-juillet-2012-afss1229614a)
 - [Arrêté du 17 juillet 2012 (AFSS1229743A)](arrete-du-17-juillet-2012-afss1229743a)
 - [Arrêté du 17 juillet 2012 (DEVD1230513A)](arrete-du-17-juillet-2012-devd1230513a)
