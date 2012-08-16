@@ -1,0 +1,3 @@
+# Article 1
+
+Pour la récolte 2012, et conformément au chapitre I-IX (2°, a) du cahier des charges de l'appellation d'origine contrôlée "Beaujolais", le volume pouvant être déclaré, en récolte ou en production, en appellation d'origine contrôlée "Beaujolais" complétée par la mention "primeur" ou "nouveau" ou "Beaujolais" suivie de la mention "Villages", ou suivie du nom de la commune de provenance des raisins, complétée par la mention "primeur" ou "nouveau", ne peut être supérieur à 0,6 fois le volume pouvant être déclaré dans la limite du rendement autorisé pour l'appellation d'origine contrôlée "Beaujolais" ou "Beaujolais" suivie de la mention "Villages", ou suivie du nom de la commune de provenance des raisins.
