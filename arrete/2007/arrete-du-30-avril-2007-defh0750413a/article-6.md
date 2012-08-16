@@ -4,7 +4,7 @@ Les frais prévus à l'article 11 du décret n° 2007-640 du 30 avril 2007 susvi
 
 Militaire : trois indemnités journalières de mission ;
 
-Conjoint, cocontractant d'un pacte civil de solidarité depuis trois années : deux tiers des indemnités attribuées au militaire ;
+Conjoint, partenaire lié par un pacte civil de solidarité conclu depuis au moins deux ans : deux tiers des indemnités attribuées au militaire ;
 
 Enfant ou ascendant ouvrant droit aux frais de changement de résidence : la moitié des indemnités attribuées au militaire.
 

@@ -21,7 +21,7 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 </tr>
 <tr>
 <td width="108">
-<p align="center">        Marié ou ayant au moins un enfant à charge ou lié par un pacte civil de solidarité conclu depuis au moins deux ans </p>
+<p align="center">Marié ou ayant au moins un enfant à charge ou lié par un pacte civil de solidarité conclu depuis au moins deux ans </p>
 </td>
 <td width="84">
 <p align="center">Célibataire </p>

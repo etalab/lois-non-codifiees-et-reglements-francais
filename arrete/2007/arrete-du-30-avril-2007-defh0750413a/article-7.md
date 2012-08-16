@@ -5,15 +5,14 @@ La prise en charge des frais de transport de bagages par voie ferrée, routière
 <table>
 <tbody>
 <tr>
-<td align="center">GROUPES   </td>
+<td align="center">GROUPES </td>
 <td>
 <p align="center">POUR LE MILITAIRE </p>
 <p align="center">(en kilogrammes) </p>
 </td>
 <td>
-<p align="center">POUR LE CONJOINT OU LE COCONTRACTANT</p>
-<p align="center">d'un pacte civil de solidarité depuis trois années</p>
-<p align="center">(en kilogrammes) </p>
+<p align="center">POUR LE CONJOINT OU LE </p>
+<p align="center">partenaire lié par un pacte civil de solidarité conclu depuis au moins deux ans (en kilogrammes) </p>
 </td>
 <td>
 <p align="center">PAR ENFANT OU PAR ASCENDANT</p>
@@ -22,14 +21,14 @@ La prise en charge des frais de transport de bagages par voie ferrée, routière
 </td>
 </tr>
 <tr>
-<td align="center"> Groupe I<br/>
+<td align="center">Groupe I<br/>
 </td>
 <td align="center">500 </td>
 <td align="center">300 </td>
 <td align="center">150 </td>
 </tr>
 <tr>
-<td align="center"> Groupe II  <br/>
+<td align="center">Groupe II <br/>
 </td>
 <td align="center">400 </td>
 <td align="center">250 </td>
