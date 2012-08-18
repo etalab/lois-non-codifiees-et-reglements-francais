@@ -1,7 +1,6 @@
 # II. ― AUTRES MESURES
 
 - [Avances à l'audiovisuel](avances-a)
-- [Action extérieure de l'Etat](action-exterieure-de-l-etat)
 - [Aide publique au développement](aide-publique-au)
 - [Culture](culture)
 - [Défense](defense)

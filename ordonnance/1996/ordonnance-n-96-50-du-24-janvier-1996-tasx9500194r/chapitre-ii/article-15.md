@@ -1,6 +1,6 @@
 # Article 15
 
-I.-Il est institué une contribution perçue à compter de 1996 et assise sur les revenus du patrimoine définis au I de l'article L. 136-6 du code de la sécurité sociale perçus par les personnes physiques fiscalement domiciliées en France au sens de l'article 4 B du code général des impôts.
+I.-Il est institué une contribution perçue à compter de 1996 et assise sur les revenus du patrimoine définis au I de l'article L. 136-6 du code de la sécurité sociale perçus par les personnes physiques fiscalement domiciliées en France au sens de l'article 4 B du code général des impôts. Sont également soumis à cette contribution les revenus désignés au I bis de l'article L. 136-6 du code de la sécurité sociale.
 
 Cette contribution est établie chaque année sur les revenus de l'année précédente, à l'exception de ceux ayant supporté la contribution prévue à l'article 16.
 

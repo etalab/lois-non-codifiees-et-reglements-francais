@@ -1,8 +1,6 @@
 # Article 2
 
-I. ― Il est ouvert un compte de concours financiers intitulé : Avances aux organismes de sécurité sociale.
-
-Ce compte retrace, en dépenses et en recettes, les versements à l'Agence centrale des organismes de sécurité sociale et les remboursements des avances sur le montant des impositions affectées aux régimes de sécurité sociale en application du 3° de l'article L. 241-2 du code de la sécurité sociale, du 9° de l'article L. 241-6 du même code et du 3° du II de l'article 53 de la loi n° 2007-1822 du 24 décembre 2007 de finances pour 2008.
+I. ― Abrogé.
 
 II.-III.-A modifié les dispositions suivantes :
 
@@ -14,7 +12,7 @@ A modifié les dispositions suivantes :
 > -Code rural
 > > Art. L741-3, Art. L741-4
 
-IV. ― Sans préjudice des dispositions de l'article L. 131-7 du code de la sécurité sociale, la compensation à la Caisse nationale des allocations familiales des nouvelles modalités de calcul des cotisations prévues aux II et III du présent article s'effectue au moyen des ressources mentionnées au 9° de l'article L. 241-6 du même code ainsi que de la majoration prévue par la présente loi des prélèvements sociaux mentionnés aux articles L. 245-14 et L. 245-15 dudit code.
+IV. ― Abrogé.
 
 V.-A modifié les dispositions suivantes :
 
@@ -24,7 +22,7 @@ V.-A modifié les dispositions suivantes :
 A modifié les dispositions suivantes :
 
 > -Code général des impôts, CGI.
-> > Art. 298 quater, Art. 575 A
+> > Art. 298 quater
 
 A modifié les dispositions suivantes :
 
@@ -57,17 +55,14 @@ A modifié les dispositions suivantes :
 > -LOI n° 2010-1657 du 29 décembre 2010
 > > Art. 72
 
-> VIII. ― En 2013 et 2014, le Gouvernement remet au Parlement, au plus tard le 15 octobre, un rapport retraçant les montants constatés, au titre de l'année précédente, d'une part, de la perte de recettes résultant de la modification du barème des cotisations d'allocations familiales issue de la présente loi et, d'autre part, de la ressource mentionnée au 9° de l'article L. 241-6 du code de la sécurité sociale ainsi que de la majoration prévue par la présente loi des prélèvements sociaux mentionnés aux articles L. 245-14 et L. 245-15 du même code. Il propose, le cas échéant, les mesures d'ajustement permettant d'assurer l'équilibre financier de ces opérations.
+> VIII. ― Abrogé.
+>
+> IX. ― A. ― Le A du VII s'applique à compter du 1er janvier 2013.
 >
 >
 >
 >
-> IX. ― A. ― Les I, E du II et A du VII s'appliquent à compter du 1er octobre 2012.
->
->
->
->
-> B. ― Les 1° à 3° du A, les B, D et F du II ainsi que le III s'appliquent aux rémunérations versées à compter du 1er octobre 2012. Par dérogation aux dispositions de l'article L. 241-13 du code de la sécurité sociale, la réduction mentionnée à ce même article est calculée en 2012 pour chacune des périodes allant du 1er janvier au 30 septembre et du 1er octobre au 31 décembre de cette année. Pour chacun de ces calculs, le rapport mentionné au III dudit article est déterminé au regard, d'une part, de la rémunération annuelle totale du salarié et, d'autre part, du salaire minimum de croissance calculés pour l'ensemble de l'année 2012. Le taux des cotisations mentionnées à l'article L. 241-6-1 du même code dues pour les rémunérations versées entre le 1er octobre et le 31 décembre 2012 est également déterminé au regard de la rémunération annuelle totale perçue en 2012.
+> B. ― Abrogé.
 >
 >
 >
@@ -87,12 +82,12 @@ A modifié les dispositions suivantes :
 >
 >
 >
-> D. ― Le 4° du A du II et les B et D du VII s'appliquent aux sommes déclarées par les assujettis au titre des périodes ouvertes à compter du 1er octobre 2012. Par dérogation et à titre transitoire, la fraction mentionnée au 9° de l'article L. 241-6 du code de la sécurité sociale appliquée aux sommes déclarées par les assujettis au titre de périodes ouvertes entre le 1er octobre 2012 et le 31 décembre 2012 est égale à 5,99 %.
+> D. ― Abrogé.
 >
 >
 >
 >
-> E. ― Les A, C et E du V s'appliquent aux opérations dont le fait générateur intervient à compter du 1er octobre 2012, à moins que l'exigibilité de la taxe ne soit intervenue à cette date. Toutefois, les ventes d'immeubles à construire régies par le chapitre Ier du titre VI du livre II du code de la construction et de l'habitation et les sommes réclamées par le constructeur dans le cadre d'un contrat de construction d'une maison individuelle régi par le chapitre Ier du titre III du livre II du même code restent soumises à la taxe sur la valeur ajoutée au taux de 19,60 % pour autant que le contrat préliminaire ou le contrat ait été enregistré chez un notaire ou auprès d'un service des impôts avant la date de publication de la présente loi.
+> E. ― Abrogé.
 
 > F.-LOI n° 2011-1977 du 28 décembre 2011
 

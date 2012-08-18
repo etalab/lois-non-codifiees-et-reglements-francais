@@ -1,16 +1,16 @@
 # Article 53
 
-I. - En application des articles L. 131-7 et L. 139-2 du code de la sécurité sociale, la compensation intégrale par l'Etat des mesures définies aux articles L. 241-17 et L. 241-18 du même code ainsi qu'au III de l'article 1er de la loi n° 2008-111 du 8 février 2008 pour le pouvoir d'achat est effectuée, dans des conditions qui en assurent la neutralité financière et comptable pour les caisses et les régimes mentionnés au III du présent article, par une affectation d'impôts et de taxes.
+I. - En application des articles L. 131-7 et L. 139-2 du code de la sécurité sociale, la compensation intégrale par l'Etat des mesures définies à l'article L. 241-18 du même code ainsi qu'au III de l'article 1er de la loi n° 2008-111 du 8 février 2008 pour le pouvoir d'achat est effectuée, dans des conditions qui en assurent la neutralité financière et comptable pour les caisses et les régimes mentionnés au III du présent article, par une affectation d'impôts et de taxes.
 
 II. - Les impôts et taxes mentionnés au I sont :
 
 1° (Abrogé) ;
 
-2° La contribution mentionnée à l'article 235 ter ZC du même code ;
+2° La contribution mentionnée à l'article 235 ter ZC du code général des impôts ;
 
 2° bis (Abrogé)
 
-3° Une fraction égale à 1,33 % du produit de la taxe sur la valeur ajoutée nette correspondant aux montants de cette taxe enregistrés au titre de l'année par les comptables publics, déduction faite des remboursements et restitutions effectués pour la même période par les comptables assignataires.
+3° La taxe sur la valeur ajoutée brute collectée par les producteurs de boissons alcoolisées ;
 
 4° Une fraction du droit de consommation sur les tabacs mentionné à l'article 575 du code général des impôts, fixée à l'article L. 131-8 du code de la sécurité sociale.
 
