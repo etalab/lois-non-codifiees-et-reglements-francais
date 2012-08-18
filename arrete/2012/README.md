@@ -374,6 +374,7 @@
 - [Arrêté du 7 mai 2012 (MFPF1220813A)](arrete-du-7-mai-2012-mfpf1220813a)
 - [Arrêté du 7 mai 2012 (PRMX1222757A)](arrete-du-7-mai-2012-prmx1222757a)
 - [Arrêté du 8 août 2012 (AGRT1229324A)](arrete-du-8-aout-2012-agrt1229324a)
+- [Arrêté du 8 août 2012 (INTE1232101A)](arrete-du-8-aout-2012-inte1232101a)
 - [Arrêté du 8 décembre 2008 (DEVA0828775A)](arrete-du-8-decembre-2008-deva0828775a)
 - [Arrêté du 8 décembre 2011 (DEVP1132167A)](arrete-du-8-decembre-2011-devp1132167a)
 - [Arrêté du 8 décembre 2011 (ETSD1133828A)](arrete-du-8-decembre-2011-etsd1133828a)

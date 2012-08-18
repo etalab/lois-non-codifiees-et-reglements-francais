@@ -23,4 +23,5 @@
 - [LOI n°2012-926 du 31 juillet 2012 (EFIX1225601L)](loi-n2012-926-du-31-juillet-2012-efix1225601l)
 - [LOI n°2012-954 du 6 août 2012 (JUSX1224421L)](loi-n2012-954-du-6-aout-2012-jusx1224421l)
 - [LOI n°2012-955 du 6 août 2012 (ETLX1229965L)](loi-n2012-955-du-6-aout-2012-etlx1229965l)
+- [LOI n°2012-958 du 16 août 2012 (EFIX1227267L)](loi-n2012-958-du-16-aout-2012-efix1227267l)
 - [Loi n°53-661 du 1 août 1953](loi-n53-661-du-1-aout-1953)
