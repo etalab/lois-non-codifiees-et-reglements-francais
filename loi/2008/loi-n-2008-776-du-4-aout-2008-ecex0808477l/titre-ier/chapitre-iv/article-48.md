@@ -12,7 +12,7 @@ III.-Le deuxième alinéa de l'article L. 6243-2 et l'article L. 6261-1 du code 
 
 IV.-Par exception à l'article L. 241-13 du code de la sécurité sociale, le coefficient maximal mentionné au cinquième alinéa du III de cet article continue de s'appliquer pendant trois ans aux gains et rémunérations versés par les employeurs qui, en raison de l'accroissement de leur effectif, dépassent au titre de l'année 2008, 2009, 2010, 2011 ou 2012, pour la première fois, l'effectif de dix-neuf salariés.
 
-V.-Par exception à l'article L. 241-18 du code de la sécurité sociale, la majoration mentionnée au I de cet article continue de s'appliquer pendant trois ans aux entreprises qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre de l'année 2008, 2009, 2010, 2011 ou 2012, pour la première fois, l'effectif de vingt salariés.
+V.-Par exception à l'article L. 241-18 du code de la sécurité sociale, la   déduction mentionnée au I de cet article continue de s'appliquer pendant trois ans aux entreprises qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre de l'année 2008, 2009, 2010, 2011 ou 2012, pour la première fois, l'effectif de vingt salariés.
 
 VI.-Par exception à l'article L. 834-1 du code de la sécurité sociale, les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre de 2008, 2009, 2010, 2011 ou 2012, pour la première fois, l'effectif de vingt salariés ne sont pas soumis, pendant trois ans, à la contribution mentionnée au 2° du même article. Ce taux de contribution est diminué respectivement pour les quatrième, cinquième et sixième années, d'un montant équivalent à 0,30 %, 0,20 % et 0,10 %.
 
