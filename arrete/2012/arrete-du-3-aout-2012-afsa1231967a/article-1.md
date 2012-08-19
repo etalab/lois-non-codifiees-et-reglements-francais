@@ -1,0 +1,3 @@
+# Article 1
+
+Les dotations régionales limitatives relatives aux frais de fonctionnement des services mandataires judiciaires à la protection des majeurs relevant du I de l'article L. 361-1 du code de l'action sociale et des familles et des personnes morales mentionnées au I de l'article 44 de la loi du 5 mars 2007 visée ci-dessus recevant une dotation globale de financement, en application de l'article 3 du décret n° 2008-1500 du 30 décembre 2008 visé ci-dessus, imputables aux prestations prises en charge par l'Etat sont fixées conformément au tableau annexé au présent arrêté. Elles seront, le cas échéant, majorées ultérieurement dans la limite du montant limitatif inscrit dans la loi de finances initiale pour 2012.
