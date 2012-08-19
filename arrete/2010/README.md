@@ -838,7 +838,6 @@
 - [Arrêté du 10 mars 2010 (AGRG1006912A)](arrete-du-10-mars-2010-agrg1006912a)
 - [Arrêté du 10 mars 2010 (BCFB1005515A)](arrete-du-10-mars-2010-bcfb1005515a)
 - [Arrêté du 10 mars 2010 (DEFH1005450A)](arrete-du-10-mars-2010-defh1005450a)
-- [Arrêté du 10 mars 2010 (DEFH1005459A)](arrete-du-10-mars-2010-defh1005459a)
 - [Arrêté du 10 mars 2010 (DEFH1007427A)](arrete-du-10-mars-2010-defh1007427a)
 - [Arrêté du 10 mars 2010 (DEVE1007709A)](arrete-du-10-mars-2010-deve1007709a)
 - [Arrêté du 10 mars 2010 (ECEG1006007A)](arrete-du-10-mars-2010-eceg1006007a)
