@@ -635,7 +635,6 @@
 - [Arrêté du 22 septembre 2003 (EQUS0301343A)](arrete-du-22-septembre-2003-equs0301343a)
 - [Arrêté du 22 septembre 2003 (SANC0323308A)](arrete-du-22-septembre-2003-sanc0323308a)
 - [Arrêté du 22 septembre 2003 (SANS0323584A)](arrete-du-22-septembre-2003-sans0323584a)
-- [Arrêté du 22 mai 2003 (DEFP0301584A)](arrete-du-22-mai-2003-defp0301584a)
 - [Arrêté du 22 mai 2003 (SANI0321917A)](arrete-du-22-mai-2003-sani0321917a)
 - [Arrêté du 23 avril 2003 (AGRA0300822A)](arrete-du-23-avril-2003-agra0300822a)
 - [Arrêté du 23 avril 2003 (AGRG0300861A)](arrete-du-23-avril-2003-agrg0300861a)
