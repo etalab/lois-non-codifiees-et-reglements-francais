@@ -176,7 +176,7 @@ Liste II
 <p align="center">0,09</p>
 </td>
 <td>
-<p align="center">0,18</p>
+<p align="center">0,36</p>
 </td>
 </tr>
 <tr>

@@ -36,9 +36,13 @@ Cytarabine
 
 ARACYTINE 1 g, lyophilisat pour usage parentéral (IV).
 
-ARACYTINE 2 g IV, lyophilisat pour usage parentéral.
+ARACYTINE 100 mg, poudre et solvant pour solution injectable.
+
+ARACYTINE 2 g (IV), lyophilisat pour usage parentéral.
 
 ARACYTINE 500 mg, lyophilisat pour usage parentéral.
+
+CYTARABINE EBEWE 20 mg/ ml, solution injectable.
 
 CYTARABINE EBEWE 50 mg/ ml, solution injectable.
 
@@ -52,13 +56,11 @@ ADRIBLASTINE 50 mg, lyophilisat pour usage parentéral (perfusion), en flacon.
 
 CAELYX 2 mg/ ml, solution à diluer pour perfusion.
 
+DOXORUBICINE ACCORD 2 mg/ ml, solution pour perfusion.
+
 DOXORUBICINE ACTAVIS 2 mg/ ml, poudre pour solution pour perfusion.
 
 DOXORUBICINE EBEWE 2 mg/ ml, solution pour perfusion.
-
-DOXORUBICINE G GAM 10 mg/5 ml, solution injectable pour perfusion.
-
-DOXORUBICINE G GAM 2 mg/ ml, solution injectable pour perfusion.
 
 DOXORUBICINE TEVA 10 mg/5 ml, solution injectable.
 
@@ -78,17 +80,25 @@ ALKERAN 50 mg/10 ml, lyophilisat et solution pour usage parentéral (IV).
 
 Méthotrexate
 
-METHOTREXATE TEVA 10 % (1 g/10 ml), solution injectable.
+LEDERTREXATE 50 mg/2 ml, solution injectable.
 
-METHOTREXATE TEVA 10 % (5 g/50 ml), solution injectable.
+METHOTREXATE TEVA 10 POUR CENT (1 g/10 ml), solution injectable.
 
-METHOTREXATE TEVA 2,5 % (50 mg/2 ml), solution injectable.
+METHOTREXATE TEVA 10 POUR CENT (5 g/50 ml), solution injectable.
 
-METHOTREXATE TEVA 2,5 % (500 mg/20 ml), solution injectable.
+METHOTREXATE TEVA 2,5 POUR CENT (50 mg/2 ml), solution injectable
+
+METHOTREXATE TEVA 2,5 POUR CENT (500 mg/20 ml), solution injectable.
+
+METHOTREXATE BIODIM 2,5 mg/ ml, solution injectable.
+
+METHOTREXATE BIODIM 25 mg/ ml, solution injectable.
 
 METHOTREXATE MYLAN 2,5 mg/ ml, solution injectable.
 
 METHOTREXATE MYLAN 25 mg/ ml, solution injectable.
+
+METHOTREXATE MYLAN 50 mg/ ml, solution injectable.
 
 METHOTREXATE MYLAN 100 mg/ ml, solution injectable.
 
@@ -99,8 +109,6 @@ ELSEP 2 mg/ ml, solution à diluer pour perfusion.
 NOVANTRONE 10 mg/5 ml, solution à diluer pour perfusion.
 
 NOVANTRONE 20 mg/10 ml, solution à diluer pour perfusion.
-
-NOVANTRONE 25 mg/12,5 ml, solution à diluer pour perfusion.
 
 MITOXANTRONE EBEWE 2 mg/ ml, solution à diluer pour perfusion.
 
@@ -117,7 +125,5 @@ Vincristine
 ONCOVIN 1 mg, solution injectable.
 
 VINCRISTINE HOSPIRA 2 mg/2 ml, solution injectable.
-
-VINCRISTINE TEVA CLASSICS 0,1 % (1 mg/1 ml), solution injectable (IV).
 
 VINCRISTINE TEVA 1 mg/ ml, solution injectable.
