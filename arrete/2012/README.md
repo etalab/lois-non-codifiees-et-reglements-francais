@@ -1034,6 +1034,7 @@
 - [Arrêté du 17 octobre 2011 (EFII1128193A)](arrete-du-17-octobre-2011-efii1128193a)
 - [Arrêté du 17 octobre 2011 (ETSS1128551A)](arrete-du-17-octobre-2011-etss1128551a)
 - [Arrêté du 17 septembre 1992 (MENE9203545A)](arrete-du-17-septembre-1992-mene9203545a)
+- [Arrêté du 18 août 2012 (AFSS1231934A)](arrete-du-18-aout-2012-afss1231934a)
 - [Arrêté du 18 avril 2012 (BCRE1208859A)](arrete-du-18-avril-2012-bcre1208859a)
 - [Arrêté du 18 avril 2012 (BCRE1221697A)](arrete-du-18-avril-2012-bcre1221697a)
 - [Arrêté du 18 avril 2012 (BCRE1222389A)](arrete-du-18-avril-2012-bcre1222389a)
