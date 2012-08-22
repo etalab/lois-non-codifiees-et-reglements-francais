@@ -45,14 +45,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -99,14 +103,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -153,14 +161,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -207,14 +219,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -264,14 +280,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -318,14 +338,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -375,14 +399,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -429,14 +457,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -483,14 +515,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -537,14 +573,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -591,14 +631,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -645,14 +689,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -699,14 +747,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -753,14 +805,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -807,14 +863,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -864,14 +924,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -918,14 +982,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -972,14 +1040,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1026,14 +1098,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1080,14 +1156,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1134,14 +1214,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1188,14 +1272,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1242,14 +1330,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1296,14 +1388,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1353,14 +1449,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1407,14 +1507,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1461,14 +1565,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1518,14 +1626,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1572,14 +1684,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1626,14 +1742,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1683,14 +1803,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1737,14 +1861,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1791,14 +1919,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1848,14 +1980,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1902,14 +2038,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1956,14 +2096,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2010,14 +2154,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2067,14 +2215,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2121,14 +2273,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2175,14 +2331,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2229,14 +2389,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2286,14 +2450,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2340,14 +2508,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2394,14 +2566,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2448,14 +2624,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2502,14 +2682,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2556,14 +2740,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2602,7 +2790,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="18" width="59">
+<td rowspan="15" width="59">
 <p align="center">XII</p>
 </td>
 <td rowspan="3" width="59">
@@ -2613,14 +2801,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2667,14 +2859,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2721,14 +2917,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2775,14 +2975,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2829,14 +3033,18 @@
 </td>
 <td width="78">
 <br/>
-</td>
-<td width="78">
 <br/>
 </td>
 <td width="78">
+<br/>
+<br/>
+</td>
+<td width="78">
+<br/>
 <br/>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2872,60 +3080,6 @@
 </td>
 <td width="81">
 <p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="59">
-<p align="center">75</p>
-</td>
-<td width="233">
-<p align="center">Criminologie</p>
-</td>
-<td width="78">
-<br/>
-</td>
-<td width="78">
-<br/>
-</td>
-<td width="78">
-<br/>
-</td>
-<td width="81">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Titulaires</p>
-</td>
-<td width="78">
-<p align="center">6</p>
-</td>
-<td width="78">
-<p align="center">3</p>
-</td>
-<td width="78">
-<p align="center">6</p>
-</td>
-<td width="81">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Suppléants</p>
-</td>
-<td width="78">
-<p align="center">6</p>
-</td>
-<td width="78">
-<p align="center">3</p>
-</td>
-<td width="78">
-<p align="center">6</p>
-</td>
-<td width="81">
-<p align="center">3</p>
 </td>
 </tr>
 </tbody>
