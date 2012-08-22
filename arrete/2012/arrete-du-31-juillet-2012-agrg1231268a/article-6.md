@@ -1,0 +1,3 @@
+# Article 6
+
+Toute personne inscrite à une session de formation et travaillant en présence et sous la supervision directe d'une autre personne titulaire d'un certificat de compétence délivré pour les mêmes catégories d'animaux, opérations et matériels d'étourdissement peut obtenir un certificat de compétence temporaire, d'une validité de trois mois, non renouvelable pour les mêmes catégories, dans l'attente de sa formation, de la réussite à l'évaluation et de l'obtention du certificat de compétence. Le dossier de demande de certificat de compétence temporaire est constitué du formulaire de demande et du justificatif d'inscription en formation.
