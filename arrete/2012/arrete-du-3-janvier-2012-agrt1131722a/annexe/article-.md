@@ -10,7 +10,7 @@ Aire de production des vins IGP (vins de pays) des Bouches-du-Rhône et des Alpi
 
 Aire de production des vins IGP (vins de pays) du Var, des Maures, du mont Caume et des Alpes-Maritimes : 81 ha.
 
-Aire de production des vins IGP (vins de pays) de Vaucluse : 24 ha.
+Aire de production des vins IGP (vins de pays) de Vaucluse : 30,24 ha.
 
 Aire de production du vin IGP (vins de pays) de l'Ile de Beauté : 109 ha.
 
@@ -24,6 +24,6 @@ Aire de production des vins IGP (vins de pays) de Franche-Comté, de Haute-Marne
 
 Aire de production des vins IGP (vins de pays) de l'Ain, du Vin des Allobroges, de l'Isère, d'Urfé, de la Drôme, des collines rhodaniennes, des coteaux des Baronnies et de l'Ardèche suivi de coteaux de l'Ardèche : 74 ha.
 
-Aire de production des vins IGP (vins de pays) du Pays d'Oc et de zones du Languedoc-Roussillon : 515 ha
+Aire de production des vins IGP (vins de pays) du Pays d'Oc et de zones du Languedoc-Roussillon : 515 ha.
 
-Aire de production des vins IGP (vins de pays) du comté Tolosan, des côtes de Gascogne et du Tarn et de zones du bassin Sud-Ouest : 242 ha.
+Aire de production des vins IGP (vin de pays) du comté Tolosan, des côtes de Gascogne et du Tarn et de zones du bassin Sud-Ouest : 247,4 ha
