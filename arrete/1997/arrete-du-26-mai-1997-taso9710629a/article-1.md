@@ -1,9 +1,9 @@
 # Article 1
 
-Les montants moyens annuels de la prime d'activité prévue à     l'article 1er du décret du 26 mai 1997 susvisé sont fixés ainsi qu'il suit :
+Les montants moyens annuels de la prime d'activité prévue à l'article 1er du décret du 26 mai 1997 susvisé sont fixés ainsi qu'il suit :
 
-Contrôleurs du travail de classe exceptionnelle : 2 711,15 € ;
+― contrôleur du travail de classe exceptionnelle : 3 750 € ;
 
-Contrôleurs du travail de classe supérieure : 2 665,57 € ;
+― contrôleur du travail de classe supérieure : 3 500 € ;
 
-Contrôleurs du travail : 2 249,39 €.
+― contrôleur du travail de classe normale : 3 350 €.
