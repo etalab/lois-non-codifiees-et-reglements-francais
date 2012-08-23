@@ -640,5 +640,19 @@
 <p align="center">90 </p>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center"> 33</p>
+</td>
+<td>
+<p> Formalités de publicité pour les deux partenaires : <br/>
+<br/>- lors de la déclaration du pacte civil de solidarité reçu par un notaire</p>
+<p>- lors de la modification du pacte civil de solidarité reçu par un notaire</p>
+<p>- lors de la dissolution du pacte civil de solidarité reçu par un notaire </p>
+</td>
+<td>
+<p align="center"> 3 UV</p>
+</td>
+</tr>
 </tbody>
 </table>
