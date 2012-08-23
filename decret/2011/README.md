@@ -427,6 +427,7 @@
 - [Décret n°2011-1570 du 16 novembre 2011 (AGRT1123545D)](decret-n2011-1570-du-16-novembre-2011-agrt1123545d)
 - [Décret n°2011-1571 du 16 novembre 2011 (AGRT1115863D)](decret-n2011-1571-du-16-novembre-2011-agrt1115863d)
 - [Décret n°2011-275 du 16 mars 2011 (EFIT1103770D)](decret-n2011-275-du-16-mars-2011-efit1103770d)
+- [Décret n°2011-685 du 16 juin 2011 (AGRT1107931D)](decret-n2011-685-du-16-juin-2011-agrt1107931d)
 - [Décret n°2011-962 du 16 août 2011 (DEFH1120454D)](decret-n2011-962-du-16-aout-2011-defh1120454d)
 - [Décret n°2011-963 du 16 août 2011 (DEFH1108885D)](decret-n2011-963-du-16-aout-2011-defh1108885d)
 - [Décret n°2011-964 du 16 août 2011 (DEFH1111915D)](decret-n2011-964-du-16-aout-2011-defh1111915d)
