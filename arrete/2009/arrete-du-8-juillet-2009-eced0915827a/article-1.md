@@ -557,8 +557,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">5 ans<br/>
 </td>
 <td align="center">
-<p align="left">CCI DU VALENCIENNOIS<br/>
-</p>
+<p align="left">CCI ET CAUX</p>
 </td>
 </tr>
 <tr>
@@ -733,7 +732,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">4 ans<br/>
 </td>
 <td align="center">
-<p align="left">GROUPE INSTITUT DE GESTION SOCIALE (IGS) ― INSTITUT INTERNATIONAL DE COMMERCE ET DE DISTRIBUTION (ICD PARIS)<br/>
+<p align="left">GROUPE INSTITUT DE GESTION SOCIALE (IGS) ― INSTITUT INTERNATIONAL DU COMMERCE ET DU DEVELOPPEMENT (ICD)<br/>
 </p>
 </td>
 </tr>

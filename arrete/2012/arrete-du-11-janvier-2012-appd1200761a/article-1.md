@@ -1123,7 +1123,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Institut supérieur d'informatique appliquée (INSIA)</p>
+<p align="left">Centre d'études pour l'ingénierie appliquée - CEPIA</p>
 </td>
 </tr>
 <tr>

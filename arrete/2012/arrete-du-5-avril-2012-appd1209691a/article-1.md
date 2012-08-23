@@ -1600,7 +1600,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Assemblée des chambres françaises de commerce et d'industrie (ACFCI)</p>
+<p>Assemblée des chambres françaises de commerce et d'industrie (ACFCI) - Réseau Negoventis</p>
 </td>
 </tr>
 <tr>
