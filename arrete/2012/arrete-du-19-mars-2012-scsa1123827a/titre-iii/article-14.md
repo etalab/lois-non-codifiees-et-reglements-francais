@@ -3,11 +3,9 @@
 A abrogé les dispositions suivantes :
 
 > - Arrêté du 12 février 2004
->
 > > Art. 18, Sct. TITRE LIMINAIRE., Art. 1, Sct. TITRE Ier : ACCÈS À LA FORMATION., Art. 2, Art. 3, Sct. TITRE II : CONTENU ET ORGANISATION DE LA FORMATION., Art. 4, Art. 5, Art. 6, Art. 7, Art. 8, Art. 9, Sct. TITRE III : MODALITÉS DE CERTIFICATION., Art. 10, Art. 11, Art. 12, Art. 13, Sct. TITRE IV : CONTRÔLE PÉDAGOGIQUE ET AGRÉMENT DES ÉTABLISSEMENTS DE FORMATION., Art. 14, Art. 15, Art. 16, Art. 17
 
 Les personnes qui, à la date de publication du présent arrêté, bénéficient d'une validation partielle du diplôme d'Etat de médiateur familial, sur la base de l'arrêté du 12 février 2004 susmentionné, bénéficient jusqu'à la fin de la période mentionnée au dernier alinéa de l'article 11 et au troisième alinéa de l'article 13 d'une équivalence établie comme suit :
-
 <table>
 <tbody>
 <tr>
@@ -28,8 +26,8 @@ Les personnes qui, à la date de publication du présent arrêté, bénéficient
 <br/>" Création et maintien d'un espace tiers de médiation familiale " (DC1)<br/>
 </td>
 <td align="center">
-<br/>" Création et maintien d'un espace tiers " (DC1) et<br/>
-<br/>" Conception d'un cadre d'intervention professionnelle dans le champ de la famille " (DC2)<br/>
+<br/>" Création et maintien d'un espace tiers " (DC1) et <p>" Conception d'un cadre d'intervention professionnelle dans le champ de la famille " (DC2)<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,3 +40,5 @@ Les personnes qui, à la date de publication du présent arrêté, bénéficient
 </tr>
 </tbody>
 </table>
+
+Les personnes qui étaient en cours de formation préparant au diplôme d'Etat de médiateur familial à la date de publication du présent arrêté et qui ont effectué un stage de mise en situation dans un service de médiation familiale d'une durée de 70 heures sont réputées remplir les conditions de durée de stage prévues à l'article 6 du présent arrêté.

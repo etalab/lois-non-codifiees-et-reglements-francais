@@ -5,188 +5,205 @@ RÉFÉRENTIEL DE FORMATION DIPLÔME D'ÉTAT DE MÉDIATEUR FAMILIAL
 <table>
 <tbody>
 <tr>
-<th>UNITÉS DE FORMATION<br/>
-</th>
-<th>CONTENU<br/>
-</th>
-<th>VOLUME HORAIRE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Unité de formation principale portant sur le processus de médiation et l'intégration des techniques de médiation<br/>
+<td valign="top" width="132">
+<p>UNITÉS DE FORMATION </p>
 </td>
-<td align="center">La médiation : un concept<br/>- principes fondamentaux<br/>- philosophie et éthique des médiations<br/>
+<td valign="top" width="284">
+<p align="center">CONTENU INDICATIF </p>
 </td>
-<td align="center">70 heures<br/>
+<td valign="top" width="113">
+<p align="center">VOLUME HORAIRE</p>
+</td>
+<td valign="top" width="151">
+<p align="center">COMPÉTENCES VISÉES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td rowspan="7" valign="top" width="132">
+<p>Unité de formation principale portant sur le processus de médiation et l'intégration des techniques de médiation </p>
 </td>
-<td align="center">- phénoménologie des médiations<br/>- historique et spécificité des médiations<br/>- différentes étapes du processus de médiation<br/>
+<td valign="top" width="284">
+<p>La médiation : un concept </p>
 </td>
-<td align="center">
-<br/>
+<td valign="top" width="113">
+<p align="center">70 heures</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">- gestion des conflits et effets<br/>- restauration des liens<br/>- grilles d'analyse des situations et techniques d'entretiens spécifiques<br/>
-</td>
-<td align="center">
+<td valign="top" width="151">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td valign="top" width="284">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
 <br/>
 </td>
-<td align="center">La médiation familiale :<br/>- cadre légal<br/>- potentialités et limites<br/>
-</td>
-<td align="center">210 heures<br/>
+<td rowspan="2" valign="top" width="151">
+<p align="center">DC1/ DC3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td valign="top" width="284">
+<p>Principes fondamentaux </p>
+<p>Philosophie et éthique des médiations </p>
+<p>Phénoménologie des médiations </p>
+<p>Historique et spécificité des médiations </p>
 </td>
-<td align="center">- définition, processus particulier<br/>- posture du médiateur familial : position de tiers<br/>- responsabilités du médiateur social familial<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">- place de l'écrit<br/>- médiation familiale et violences conjugales et familiales<br/>- médiation intergénérationnelle<br/>
-</td>
-<td align="center">
+<td valign="top" width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td valign="top" width="284">
+<p align="center">2</p>
+</td>
+<td valign="top" width="113">
 <br/>
 </td>
-<td align="center">- médiation familiale successorale<br/>- médiation familiale dans le contexte de la protection de l'enfance et de l'adolescence<br/>- médiation familiale dans le contexte pénal<br/>
+<td rowspan="3" valign="top" width="151">
+<p align="center">DC1</p>
 </td>
-<td align="center">
+</tr>
+<tr>
+<td valign="top" width="284">
+<p>Différentes étapes du processus de médiation </p>
+<p>Gestion des conflits et effets </p>
+<p>Restauration des liens </p>
+<p>Grilles d'analyse des situations et techniques d'entretiens spécifiques </p>
+</td>
+<td valign="top" width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td valign="top" width="284">
+<p>La médiation familiale : </p>
+<p>- cadre légal </p>
+<p>- potentialités et limites </p>
+<p>- définition, processus particulier </p>
+<p>- posture du médiateur familial : position de tiers </p>
+<p>- responsabilités du médiateur familial </p>
+<p>- place de l'écrit </p>
+<p>- médiation familiale et violences conjugales et familiales </p>
+<p>- médiation intergénérationnelle </p>
+<p>- médiation familiale successorale </p>
+<p>- médiation familiale dans le contexte de la protection de l'enfance et de l'adolescence </p>
+<p>- médiation familiale dans le contexte pénal </p>
+<p>- médiation familiale internationale et interculturelle </p>
+<p>- médiation familiale en dehors d'un contexte de rupture </p>
 </td>
-<td align="center">- médiation familiale internationale et interculturelle<br/>- médiation familiale en dehors d'un contexte de rupture<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Accompagnement au processus de médiation familiale et analyse de sa pratique<br/>
-</td>
-<td align="center">35 heures<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Unité de formation contributive : droit<br/>
-</td>
-<td align="center">- droit civil et droit pénal de la famille<br/>- droit patrimonial de la famille<br/>
-</td>
-<td align="center">63 heures<br/>
+<td valign="top" width="113">
+<p align="center">210 heures</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td valign="top" width="284">
+<p>Accompagnement au processus de médiation familiale et analyse de sa pratique </p>
 </td>
-<td align="center">- présentation des normes juridiques<br/>- le sujet de droit et les droits subjectifs<br/>
+<td valign="top" width="113">
+<p align="center">35 heures</p>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">- l'organisation juridictionnelle<br/>- l'action en justice<br/>- les procédures de divorce et de séparation<br/>
-</td>
-<td align="center">
-<br/>
+<td valign="top" width="151">
+<p align="center">DC1/ DC3</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité de formation contributive : psychologie<br/>
+<td valign="top" width="132">
+<p>Unité de formation contributive : droit </p>
 </td>
-<td align="center">- étude des structures familiales<br/>- développement psycho-affectif et construction identitaire de l'enfant<br/>
+<td valign="top" width="284">
+<p>Droit civil et droit pénal de la famille </p>
+<p>Droit patrimonial de la famille </p>
+<p>Présentation des normes juridiques </p>
+<p>Le sujet de droit et les droits subjectifs </p>
+<p>L'organisation juridictionnelle </p>
+<p>L'action en justice </p>
+<p>Les procédures de divorce et de séparation </p>
 </td>
-<td align="center">63 heures<br/>
+<td valign="top" width="113">
+<p align="center">63 heures</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">- processus de construction du couple<br/>- effets psychologiques du conflit sur la famille<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">- psycho-pathologie de la famille<br/>- les séparations et (ou) la rupture et leurs effets sur la dynamique familiale<br/>
-</td>
-<td align="center">
-<br/>
+<td valign="top" width="151">
+<p align="center">DC2</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité de formation contributive : sociologie <br/>
+<td valign="top" width="132">
+<p>Unité de formation contributive : psychologie </p>
 </td>
-<td align="center">- évolution sociologique et démographique de la famille<br/>- anthropologie des relations familiales<br/>
+<td valign="top" width="284">
+<p>Etude des structures familiales </p>
+<p>Développement psycho-affectif et construction identitaire de l'enfant </p>
+<p>Processus de construction du couple </p>
+<p>Effets psychologiques du conflit sur la famille </p>
+<p>Psycho-pathologie de la famille </p>
+<p>Les séparations et (ou) la rupture et leurs effets sur la dynamique familiale </p>
 </td>
-<td align="center">35 heures<br/>
+<td valign="top" width="113">
+<p align="center">63 heures</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">- inter-culturalité et famille<br/>- du couple à la parentalité<br/>- les liens familiaux<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Méthodologie d'élaboration du mémoire<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">14 heures<br/>
+<td valign="top" width="151">
+<p align="center">DC2</p>
 </td>
 </tr>
 <tr>
-<td align="center">Formation pratique <br/>
+<td valign="top" width="132">
+<p>Unité de formation contributive : sociologie </p>
 </td>
-<td align="center">Stage de mise en situation dans un service de médiation familiale favorisant l'acquisition des savoirs opérationnels dans leur globalité<br/>
+<td valign="top" width="284">
+<p>Evolution sociologique et démographique de la famille </p>
+<p>Anthropologie des relations familiales </p>
+<p>Interculturalité et famille </p>
+<p>Du couple à la parentalité </p>
+<p>Les liens familiaux </p>
 </td>
-<td align="center">105 heures en discontinu<br/>
+<td valign="top" width="113">
+<p align="center">35 heures</p>
+</td>
+<td valign="top" width="151">
+<p align="center">DC2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Méthodologie d'élaboration du mémoire </p>
+</td>
+<td valign="top" width="284"/>
+<td valign="top" width="113">
+<p align="center">14 heures</p>
+</td>
+<td valign="top" width="151">
+<p align="center">DC2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="132">
+<p>Formation pratique </p>
+</td>
+<td valign="top" width="284">
+<p>Stage de mise en situation dans un service de médiation familiale favorisant l'acquisition des savoirs opérationnels dans leur globalité </p>
+</td>
+<td valign="top" width="113">
+<p align="center">105 heures en discontinu</p>
+</td>
+<td valign="top" width="151">
+<p align="center">DC1</p>
+<p align="center">DC2</p>
+<p align="center">DC3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="284">
+<p>En cas de validation partielle du diplôme par VAE et de poursuite par la voie de la formation, la durée de stage est allégée de : </p>
+</td>
+<td valign="top" width="113">
+<p align="center">70 heures</p>
+<p align="center">35 heures</p>
+</td>
+<td valign="top" width="151">
+<p align="center">si DC1 validé</p>
+<p align="center">si DC2 validé</p>
 </td>
 </tr>
 </tbody>
