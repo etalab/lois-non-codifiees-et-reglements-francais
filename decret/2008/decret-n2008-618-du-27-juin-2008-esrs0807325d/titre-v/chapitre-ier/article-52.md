@@ -4,7 +4,7 @@ L'établissement se dote d'instruments d'analyse rétrospective et prévisionnel
 
 Ces instruments et outils doivent notamment permettre d'obtenir des informations selon une périodicité adaptée sur :
 
-1° Le suivi de la masse salariale et la consommation des emplois en équivalents temps plein ; à cette fin, à titre transitoire, pour une période dont le terme est fixé au plus tard le 31 décembre de l'année au cours de laquelle expire le délai de cinq ans mentionné à l'article 49 de la loi du 10 août 2007 susvisée, une convention de prestation de service est conclue entre l'établissement et la trésorerie générale compétente afin d'assurer la mise en paiement des rémunérations mensuelles des personnels de l'établissement ;
+1° Le suivi de la masse salariale et la consommation des emplois en équivalents temps plein ; à cette fin, à titre transitoire, pour une période dont le terme est fixé au plus tard le 31 décembre 2017, une convention de prestation de service est conclue entre l'établissement et la direction régionale ou départementale des finances publiques compétente afin d'assurer la mise en paiement des rémunérations mensuelles des personnels de l'établissement ;
 
 2° L'exécution du budget en recettes et en dépenses, ainsi que celle de son projet annuel de performances ;
 
