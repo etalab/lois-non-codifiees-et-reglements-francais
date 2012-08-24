@@ -1118,8 +1118,6 @@
 - [Arrêté du 13 octobre 2011 (ETSS1127114A)](arrete-du-13-octobre-2011-etss1127114a)
 - [Arrêté du 13 octobre 2011 (IOCE1117376A)](arrete-du-13-octobre-2011-ioce1117376a)
 - [Arrêté du 13 octobre 2011 (IOCE1117380A)](arrete-du-13-octobre-2011-ioce1117380a)
-- [Arrêté du 13 octobre 2011 (MCCB1124357A)](arrete-du-13-octobre-2011-mccb1124357a)
-- [Arrêté du 13 octobre 2011 (MCCB1124714A)](arrete-du-13-octobre-2011-mccb1124714a)
 - [Arrêté du 13 septembre 1985](arrete-du-13-septembre-1985)
 - [Arrêté du 13 septembre 2011 (AGRG1123614A)](arrete-du-13-septembre-2011-agrg1123614a)
 - [Arrêté du 13 septembre 2011 (DEVA1118310A)](arrete-du-13-septembre-2011-deva1118310a)
