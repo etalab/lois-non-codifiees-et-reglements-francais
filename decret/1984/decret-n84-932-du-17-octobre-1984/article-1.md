@@ -8,6 +8,8 @@ Les grades ou titres universitaires sont conférés par les diplômes désignés
 
 - diplôme d'Etat d'audio-prothésiste ;
 
+- diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique ;
+
 - diplôme de formation générale en sciences médicales ;
 
 - diplôme de formation générale en sciences pharmaceutiques ;
