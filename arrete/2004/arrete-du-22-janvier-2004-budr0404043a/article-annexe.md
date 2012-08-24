@@ -3428,10 +3428,10 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 <tbody>
 <tr>
 <td valign="top" width="151">
-<p>23.20.13</p>
+<p>23.20.12</p>
 </td>
 <td valign="top" width="529">
-<p>Ciments, mortiers, bétons et compositions similaires réfractaires NCA. </p>
+<p>Briques, dalles, carreaux et matériaux céramiques réfractaires de construction, autres que ceux en farines siliceuses fossiles ou en terres siliceuses </p>
 </td>
 </tr>
 <tr>
@@ -3439,7 +3439,7 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 <p>01</p>
 </td>
 <td valign="top" width="529">
-<p>Béton réfractaire, éléments de fours. </p>
+<p>Béton réfractaire. Eléments de fours, autres.... </p>
 </td>
 </tr>
 <tr>
@@ -3455,7 +3455,7 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 <p>23.61.11</p>
 </td>
 <td valign="top" width="529">
-<p>Blocs, tuiles, carreaux, dalles, pavés, entre vous et articles similaires, en ciment, béton ou pierre artificielle. </p>
+<p>Blocs, tuiles, carreaux, dalles, pavés, entrevous et articles similaires, en ciment, béton ou pierre artificielle. </p>
 </td>
 </tr>
 <tr>
@@ -3468,7 +3468,7 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Blocs en béton cellulaire autoclavé.</p>
+<p>Blocs béton cellulaire autoclavé.</p>
 </td>
 </tr>
 <tr>
@@ -3558,7 +3558,7 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Carreaux et dalles pour sols intérieurs, extérieurs, abords de piscine.</p>
+<p>Carreaux et dalles pour sols intérieurs, extérieurs, abords de piscine, autres...</p>
 </td>
 </tr>
 <tr>
@@ -3752,7 +3752,7 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Eléments de protection urbain, séparateur de voirie. </p>
+<p>Eléments de protection urbains, séparateur de voirie. </p>
 </td>
 </tr>
 <tr>
@@ -3900,7 +3900,7 @@ F-1. - Produits relevant du centre d'études et de recherche de l'industrie du b
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Clôtures et poteaux, panneaux, lisses, éléments annexes (couronnements, plots, éléments de fondations...). </p>
+<p>Clôtures et poteaux, panneaux, lisses, autres éléments annexes... </p>
 </td>
 </tr>
 <tr>
