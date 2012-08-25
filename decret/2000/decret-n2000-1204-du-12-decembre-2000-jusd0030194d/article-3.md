@@ -1,0 +1,3 @@
+# Article 3
+
+Le présent décret est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna ainsi qu'à Mayotte.

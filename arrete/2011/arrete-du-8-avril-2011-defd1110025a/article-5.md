@@ -4,7 +4,7 @@ I. ― La sous-direction du contentieux est responsable du contentieux de l'ense
 
 A ce titre, elle est notamment chargée :
 
-1° De défendre les intérêts du ministère, tant en demande qu'en défense, devant les juridictions administratives et judiciaires, sous réserve du mandat légal de l'agent judiciaire du Trésor ;
+1° De défendre les intérêts du ministère, tant en demande qu'en défense, devant les juridictions administratives et judiciaires, sous réserve du mandat légal de l'agent judiciaire de l'Etat ;
 
 2° De représenter le ministre devant le Tribunal des conflits ;
 

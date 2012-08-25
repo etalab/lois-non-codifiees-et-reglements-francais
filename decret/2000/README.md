@@ -28,6 +28,7 @@
 - [Décret n°2000-1214 du 11 décembre 2000 (MENF0002903D)](decret-n2000-1214-du-11-decembre-2000-menf0002903d)
 - [Décret n°2000-1241 du 11 décembre 2000 (ATEG0080089D)](decret-n2000-1241-du-11-decembre-2000-ateg0080089d)
 - [Décret n°2000-880 du 11 septembre 2000 (MAEX0000123D)](decret-n2000-880-du-11-septembre-2000-maex0000123d)
+- [Décret n°2000-1204 du 12 décembre 2000 (JUSD0030194D)](decret-n2000-1204-du-12-decembre-2000-jusd0030194d)
 - [Décret n°2000-326 du 12 avril 2000 (DEFD0001317D)](decret-n2000-326-du-12-avril-2000-defd0001317d)
 - [Décret n°2000-1228 du 13 décembre 2000 (MENF0002899D)](decret-n2000-1228-du-13-decembre-2000-menf0002899d)
 - [Décret n°2000-240 du 13 mars 2000 (AGRA0000386D)](decret-n2000-240-du-13-mars-2000-agra0000386d)

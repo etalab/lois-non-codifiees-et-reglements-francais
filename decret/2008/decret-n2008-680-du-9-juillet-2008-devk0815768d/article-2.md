@@ -36,7 +36,7 @@ Elle est consultée sur les projets de textes législatifs ou réglementaires pr
 
 Elle est associée à la préparation et à l'élaboration des textes communautaires et internationaux, coordonne les travaux de transposition des directives et en assure le suivi.
 
-Elle traite le contentieux de niveau central du ministère et représente le ministre devant les juridictions compétentes. Sous réserve des instances de cassation et des recours dirigés contre les actes réglementaires, elle ne traite pas le contentieux du personnel de l'aviation civile, du personnel des corps du ministère chargé de l'industrie, ni le contentieux de l'inspection du travail des transports. Elle est le correspondant de l'agent judiciaire du Trésor.
+Elle traite le contentieux de niveau central du ministère et représente le ministre devant les juridictions compétentes. Sous réserve des instances de cassation et des recours dirigés contre les actes réglementaires, elle ne traite pas le contentieux du personnel de l'aviation civile, du personnel des corps du ministère chargé de l'industrie, ni le contentieux de l'inspection du travail des transports. Elle est le correspondant de l'agent judiciaire de l'Etat.
 
 Elle assure la diffusion des connaissances juridiques et contribue au développement des compétences dans ce domaine. Elle donne son accord pour le recours à des prestations juridiques extérieures et coordonne l'intervention des conseils juridiques.
 
@@ -52,7 +52,7 @@ Elle est l'interlocuteur du service d'information du Gouvernement pour la coordi
 
 Elle est responsable de la communication interne du ministère et veille à ce titre à répondre aux besoins d'information des agents sur l'ensemble des champs d'action du ministère.
 
-IV. - La direction des ressources humaines élabore et met en œuvre la politique ministérielle des ressources humaines.
+IV.-La direction des ressources humaines élabore et met en œuvre la politique ministérielle des ressources humaines.
 
 Elle élabore le plan national de gestion prévisionnelle des effectifs, des emplois et des compétences et en conduit la mise en œuvre. Elle élabore le budget du personnel du ministère, en effectifs et en crédits, et en assure la mise en place.
 
@@ -112,7 +112,7 @@ Il élabore la politique d'accompagnement et de rénovation des pratiques manag�
 
 Il établit et propose la politique immobilière, foncière et patrimoniale du ministère et coordonne sa mise en œuvre.
 
-VI. ― Le service des politiques support et des systèmes d'information élabore la politique des moyens de fonctionnement, veille à sa mise en œuvre et gère les moyens budgétaires des fonctions  support  du ministère. Il met en œuvre la politique immobilière du ministère. Il anime et coordonne la politique des achats généraux du ministère de manière écoresponsable. Il élabore la politique documentaire et d'archivage dans les services.
+VI. ― Le service des politiques support et des systèmes d'information élabore la politique des moyens de fonctionnement, veille à sa mise en œuvre et gère les moyens budgétaires des fonctions support du ministère. Il met en œuvre la politique immobilière du ministère. Il anime et coordonne la politique des achats généraux du ministère de manière écoresponsable. Il élabore la politique documentaire et d'archivage dans les services.
 
 Dans le cadre des orientations fixées par le service du pilotage et de l'évolution des services, il élabore le schéma directeur des systèmes d'information du ministère, y compris les systèmes d'information géographiques et en conduit la mise en œuvre. Il veille à la qualité et à la cohérence des systèmes d'information. Il oriente et coordonne les activités des services informatiques du réseau scientifique et technique du ministère.
 

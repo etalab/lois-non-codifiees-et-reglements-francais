@@ -10,21 +10,21 @@ A défaut de cette mention, le dépôt est refusé dans les conditions fixées �
 
 2. Sont habilités à certifier l'identité des parties, en dehors des notaires, huissiers de justice, avocats, syndics chargés d'un règlement judiciaire ou d'une liquidation de biens :
 
-- les ministres, les préfets, les maires et, d'une manière générale, tous les autres représentants de la puissance publique aptes à dresser des actes d'autorité ou en la forme administrative, pour les actes dressés par eux ou avec leur concours, pour les inscriptions qu'ils requièrent et tous actes s'y rapportant ;
+-les ministres, les préfets, les maires et, d'une manière générale, tous les autres représentants de la puissance publique aptes à dresser des actes d'autorité ou en la forme administrative, pour les actes dressés par eux ou avec leur concours, pour les inscriptions qu'ils requièrent et tous actes s'y rapportant ;
 
-- les magistrats du ministère public, l'agent judiciaire du Trésor, les agents des régies financières et les douanes ayant au moins le grade d'inspecteur adjoint, les comptables du Trésor et tous comptables publics, les agents de la caisse nationale de crédit agricole ayant au moins le grade de chef de bureau, les directeurs des services départementaux de la reconstruction et du logement, les greffiers du tribunal d'instance pour les inscriptions qu'ils requièrent et tous actes s'y rapportant.
+-les magistrats du ministère public, l'agent judiciaire de l'Etat, les agents des régies financières et les douanes ayant au moins le grade d'inspecteur adjoint, les comptables du Trésor et tous comptables publics, les agents de la caisse nationale de crédit agricole ayant au moins le grade de chef de bureau, les directeurs des services départementaux de la reconstruction et du logement, les greffiers du tribunal d'instance pour les inscriptions qu'ils requièrent et tous actes s'y rapportant.
 
 3. Ont également la faculté de signer eux-mêmes les mentions de certification de l'identité des parties sur les bordereaux, extraits, expéditions ou copies déposés en vue de l'exécution d'une formalité intéressant leurs opérations propres, les représentants des organismes suivants :
 
-- Organismes assurant, en tout ou partie, la gestion d'un régime légalement obligatoire d'assurance contre la maladie, la maternité, la vieillesse, l'invalidité, le décès, les accidents du travail et les maladies professionnelles ou de prestations familiales, ainsi que les unions desdits organismes ;
+-Organismes assurant, en tout ou partie, la gestion d'un régime légalement obligatoire d'assurance contre la maladie, la maternité, la vieillesse, l'invalidité, le décès, les accidents du travail et les maladies professionnelles ou de prestations familiales, ainsi que les unions desdits organismes ;
 
-- Crédit national ;
+-Crédit national ;
 
-- Crédit foncier de France ;
+-Crédit foncier de France ;
 
-- Sous-Comptoir des entrepreneurs ;
+-Sous-Comptoir des entrepreneurs ;
 
-- Caisses de crédit agricole mutuel.
+-Caisses de crédit agricole mutuel.
 
 Pour bénéficier de cette faculté, les organismes intéressés notifient aux conservateurs les noms de leurs représentants habilités à signer les mentions de certification dans le ressort de chaque conservation et déposent un spécimen de leur signature.
 

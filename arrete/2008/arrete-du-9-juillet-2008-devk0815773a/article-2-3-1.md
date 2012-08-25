@@ -8,13 +8,13 @@ Elle assure, par des actions de conseil et d'assistance aux services, la qualit�
 
 Elle conseille les services en matière de contentieux général. Elle est chargée des contentieux à caractère institutionnel, du contentieux de la fonction publique et du contentieux relatif à l'ingénierie publique.
 
-Elle assure le traitement des contentieux judiciaires en liaison avec l'agent judiciaire du Trésor et traite les accidents de la circulation relevant de la loi n° 85-677 du 5 juillet 1985 pour l'ensemble de l'administration.
+Elle assure le traitement des contentieux judiciaires en liaison avec l'agent judiciaire de l'Etat et traite les accidents de la circulation relevant de la loi n° 85-677 du 5 juillet 1985 pour l'ensemble de l'administration.
 
 Elle assure la coordination du suivi de la transposition des directives et du programme de travail législatif et réglementaire. Elle est à ce titre l'interlocuteur du secrétariat général du Gouvernement et du secrétariat général des affaires européennes.
 
 Elle comprend :
 
-- le bureau du droit pénal, du droit privé et de la déontologie ;
+-le bureau du droit pénal, du droit privé et de la déontologie ;
 
 ― le bureau du droit de la commande publique ;
 

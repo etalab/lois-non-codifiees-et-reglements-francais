@@ -1,3 +1,3 @@
 # Article 90
 
-L'agent judiciaire du Trésor a qualité pour transiger.
+L'agent judiciaire de l'Etat a qualité pour transiger.

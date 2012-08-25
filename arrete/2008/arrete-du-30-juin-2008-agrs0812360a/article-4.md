@@ -18,7 +18,7 @@ I.-La sous-direction du droit de l'administration, de la concurrence et des proc
 
 3. La communication, le traitement, l'utilisation et la conservation des données publiques.
 
-Elle exerce une fonction de coordination, de conseil, d'expertise et d'assistance juridique dans le domaine du droit européen et international.A ce titre, elle assure, pour l'ensemble des services du ministère, une veille juridique et la diffusion des connaissances dans ce domaine, elle prend en charge, en collaboration avec les services du ministère et les bureaux du service des affaires juridiques, la préparation et le suivi des précontentieux communautaires, elle apporte un appui technique aux bureaux du service pour le traitement des contentieux communautaires et internationaux, elle coordonne l'élaboration des fiches d'impact et la transposition des directives communautaires, elle assure le suivi des questions institutionnelles communautaires, elle est associée à la préparation et au suivi des négociations communautaires et internationales.
+Elle exerce une fonction de coordination, de conseil, d'expertise et d'assistance juridique dans le domaine du droit européen et international. A ce titre, elle assure, pour l'ensemble des services du ministère, une veille juridique et la diffusion des connaissances dans ce domaine, elle prend en charge, en collaboration avec les services du ministère et les bureaux du service des affaires juridiques, la préparation et le suivi des précontentieux communautaires, elle apporte un appui technique aux bureaux du service pour le traitement des contentieux communautaires et internationaux, elle coordonne l'élaboration des fiches d'impact et la transposition des directives communautaires, elle assure le suivi des questions institutionnelles communautaires, elle est associée à la préparation et au suivi des négociations communautaires et internationales.
 
 Elle assure l'enregistrement et le suivi administratif des projets de textes et demandes d'avis transmis au service ainsi que de l'ensemble des dossiers contentieux de niveau central du ministère. Elle est chargée de la gestion et de la diffusion des informations juridiques ainsi que de l'animation du réseau juridique des services déconcentrés. Elle assure l'exécution financière des décisions juridictionnelles et le traitement des contestations liées aux véhicules de service.
 
@@ -30,7 +30,7 @@ Elle comprend :
 
 -la mission du droit européen et international, de l'information et de la simplification ;
 
-- la mission des procédures et de la diffusion de l'information juridique.
+-la mission des procédures et de la diffusion de l'information juridique.
 
 II.-La sous-direction du droit des produits, des politiques sectorielles et des exploitations exerce les attributions définies au II de l'article 2 du décret du 30 juin 2008 susvisé pour les questions juridiques concernant :
 
@@ -50,4 +50,4 @@ Elle comprend :
 
 III. (Supprimé)
 
-IV.-Le conseiller aux affaires pénales est chargé de la protection des agents publics dans le cadre de l'article 11 de la loi n° 83-634 du 13 juillet 1983. Il exerce les attributions définies au II de l'article 2 du décret du 30 juin 2008 susvisé pour les questions touchant au droit pénal et au déroulement des contrôles de police administrative et judiciaire. Il contribue à la formation des agents qui exercent des fonctions de police judiciaire. Il est le correspondant de l'agent judiciaire du Trésor. Il assure le traitement de toute autre question juridique qui lui est confiée.
+IV.-Le conseiller aux affaires pénales est chargé de la protection des agents publics dans le cadre de l'article 11 de la loi n° 83-634 du 13 juillet 1983. Il exerce les attributions définies au II de l'article 2 du décret du 30 juin 2008 susvisé pour les questions touchant au droit pénal et au déroulement des contrôles de police administrative et judiciaire. Il contribue à la formation des agents qui exercent des fonctions de police judiciaire. Il est le correspondant de l'agent judiciaire de l'Etat. Il assure le traitement de toute autre question juridique qui lui est confiée.

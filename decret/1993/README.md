@@ -678,7 +678,6 @@
 - [Décret n°93-632 du 26 mars 1993 (TEFF9300383D)](decret-n93-632-du-26-mars-1993-teff9300383d)
 - [Décret n°93-637 du 26 mars 1993 (BUDF9300008D)](decret-n93-637-du-26-mars-1993-budf9300008d)
 - [Décret n°93-638 du 26 mars 1993 (BUDF9300013D)](decret-n93-638-du-26-mars-1993-budf9300013d)
-- [Décret n°93-639 du 26 mars 1993 (BUDB9340005D)](decret-n93-639-du-26-mars-1993-budb9340005d)
 - [Décret n°93-644 du 26 mars 1993 (SPSS9300594D)](decret-n93-644-du-26-mars-1993-spss9300594d)
 - [Décret n°93-647 du 26 mars 1993 (SPSS9300508D)](decret-n93-647-du-26-mars-1993-spss9300508d)
 - [Décret n°93-649 du 26 mars 1993 (SPSS9300768D)](decret-n93-649-du-26-mars-1993-spss9300768d)
