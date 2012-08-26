@@ -1,3 +1,0 @@
-# Article 1
-
-Les demandes de remboursement d'une fraction de la taxe intérieure de consommation sur le fioul domestique et le fioul lourd repris respectivement aux indices d'identification 21 et 24 du tableau B du 1 de l'article 265 du code des douanes, ainsi que les demandes de remboursement d'une fraction de la taxe intérieure de consommation sur le gaz naturel, prévues à l'article 19 de la loi du 27 décembre 2008 susvisée, doivent être déposées auprès de la trésorerie générale dans le ressort de laquelle se trouve le siège de l'exploitation des personnes mentionnées au premier alinéa de l'article 19 précité.

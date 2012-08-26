@@ -1,3 +1,0 @@
-# Article 1
-
-Les demandes de remboursement d'une fraction de la taxe intérieure de consommation sur le gazole sous condition d'emploi (fioul domestique) et le fioul lourd repris respectivement aux indices d'identification 20 et 24 du tableau B du 1 de l'article 265 du code des douanes, dans sa rédaction en vigueur jusqu'au 31 décembre 2007, ainsi que les demandes de remboursement d'une fraction de la taxe intérieure de consommation sur le gaz naturel, prévues au I de l'article 35 de la loi du 24 décembre 2007 susvisée, doivent être déposées auprès de la trésorerie générale dans le ressort de laquelle se trouve le siège de l'exploitation des personnes mentionnées au premier alinéa du I de l'article 35 précité.

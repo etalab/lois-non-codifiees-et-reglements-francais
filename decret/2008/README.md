@@ -1082,7 +1082,6 @@
 - [Décret n°2008-1115 du 30 octobre 2008 (IMIC0816408D)](decret-n2008-1115-du-30-octobre-2008-imic0816408d)
 - [Décret n°2008-417 du 30 avril 2008 (DEVL0809672D)](decret-n2008-417-du-30-avril-2008-devl0809672d)
 - [Décret n°2008-418 du 30 avril 2008 (DEVT0772202D)](decret-n2008-418-du-30-avril-2008-devt0772202d)
-- [Décret n°2008-423 du 30 avril 2008 (ECEL0807313D)](decret-n2008-423-du-30-avril-2008-ecel0807313d)
 - [Décret n°2008-424 du 30 avril 2008 (DEFD0801413D)](decret-n2008-424-du-30-avril-2008-defd0801413d)
 - [Décret n°2008-425 du 30 avril 2008 (DEVL0805572D)](decret-n2008-425-du-30-avril-2008-devl0805572d)
 - [Décret n°2008-426 du 30 avril 2008 (IOCD0807352D)](decret-n2008-426-du-30-avril-2008-iocd0807352d)

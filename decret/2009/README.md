@@ -70,7 +70,6 @@
 - [Décret n°2009-968 du 4 août 2009 (SASS0914689D)](decret-n2009-968-du-4-aout-2009-sass0914689d)
 - [Décret n°65-845 du 4 octobre 1965](decret-n65-845-du-4-octobre-1965)
 - [Décret du 4 mai 2009 (DEVN0907251D)](decret-du-4-mai-2009-devn0907251d)
-- [Décret n°2009-503 du 4 mai 2009 (ECEL0906467D)](decret-n2009-503-du-4-mai-2009-ecel0906467d)
 - [Décret n°2009-505 du 4 mai 2009 (IMIN0819674D)](decret-n2009-505-du-4-mai-2009-imin0819674d)
 - [Décret du 5 mars 2009 (AGRP0902656D)](decret-du-5-mars-2009-agrp0902656d)
 - [Décret n°2009-10 du 5 janvier 2009 (JUSJ0817626D)](decret-n2009-10-du-5-janvier-2009-jusj0817626d)
