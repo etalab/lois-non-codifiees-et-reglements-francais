@@ -1,3 +1,9 @@
 # Article 9
 
-Le droit d'opposition prévu à l'article 26 de la loi du 6 janvier 1978 susvisée ne s'applique pas au présent traitement.
+Peuvent seuls, dans les limites de leurs attributions respectives, être destinataires des informations :
+
+- les agents habilités dans les préfectures ;
+
+- les délégués à l'éducation routière ;
+
+- les agents habilités à la délégation à la sécurité et à la circulation routières.

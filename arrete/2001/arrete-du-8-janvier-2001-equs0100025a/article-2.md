@@ -6,11 +6,11 @@ a) Identité de l'enseignant : nom, prénoms, date et lieu de naissance, nationa
 
 b) Titres et diplômes : nature et date d'obtention ;
 
-c) Permis de conduire : numéro du permis de conduire, dates de délivrance des différentes catégories, modifications de validité du permis et dates correspondantes ;
+c) Permis de conduire : catégories obtenues, validités des catégories, modifications de validité du permis et dates correspondantes ;
 
 d) Aptitude physique : date de la dernière visite médicale, durée et conditions de validité ;
 
-e) Inscription ou non-inscription au casier judiciaire de l'enseignant d'une peine criminelle ou d'une peine correctionnelle pour l'une des infractions énumérées à l'article R. 243-2 du code de la route ;
+e) Inscription ou non-inscription au casier judiciaire de l'enseignant d'une peine criminelle ou d'une peine correctionnelle pour l'une des infractions énumérées à l'article R. 212-4 du code de la route ;
 
 f) Validité de l'autorisation : dates de délivrance de l'autorisation et des mesures affectant la validité (retrait, suspension, restriction, extension, renouvellement) ;
 

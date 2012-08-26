@@ -1,3 +1,3 @@
 # Article 10
 
-La directrice de la sécurité et de la circulation routières est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La demande relative au droit d'accès aux informations les concernant est adressée au préfet de département du lieu de leur domicile pour les enseignants et les animateurs ou du lieu où ils exercent pour les exploitants. A leur demande, une copie de la fiche les concernant doit leur être délivrée par le préfet concerné.
