@@ -1,6 +1,6 @@
 # Article 3
 
-Sont désignés pour siéger à la commission de la formation professionnelle du Conseil supérieur de la fonction publique hospitalière, en qualité de représentants des organisations syndicales :
+Sont désignés pour siéger à l'Observatoire national des emplois et métiers du Conseil supérieur de la fonction publique hospitalière, en qualité de représentants des organisations syndicales :
 
 a) Fédération CGT de la santé et de l'action sociale :
 
