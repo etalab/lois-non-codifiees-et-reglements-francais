@@ -1208,6 +1208,7 @@
 - [Arrêté du 19 mai 2011 (BCRE1106037A)](arrete-du-19-mai-2011-bcre1106037a)
 - [Arrêté du 19 mai 2011 (BCRE1106040A)](arrete-du-19-mai-2011-bcre1106040a)
 - [Arrêté du 19 mai 2011 (BCRE1106041A)](arrete-du-19-mai-2011-bcre1106041a)
+- [Arrêté du 20 août 2012 (AFSH1232755A)](arrete-du-20-aout-2012-afsh1232755a)
 - [Arrêté du 20 avril 2012 (AGRG1209963A)](arrete-du-20-avril-2012-agrg1209963a)
 - [Arrêté du 20 avril 2012 (DEFD1221946A)](arrete-du-20-avril-2012-defd1221946a)
 - [Arrêté du 20 avril 2012 (DEFF1221396A)](arrete-du-20-avril-2012-deff1221396a)

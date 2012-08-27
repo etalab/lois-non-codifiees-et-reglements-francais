@@ -543,6 +543,7 @@
 - [Décret n°2012-909 du 24 juillet 2012 (EFIS1221640D)](decret-n2012-909-du-24-juillet-2012-efis1221640d)
 - [Décret n°2012-910 du 24 juillet 2012 (AFSP1203688D)](decret-n2012-910-du-24-juillet-2012-afsp1203688d)
 - [Décret n°2012-911 du 24 juillet 2012 (INTJ1225596D)](decret-n2012-911-du-24-juillet-2012-intj1225596d)
+- [Décret n°2012-998 du 24 août 2012 (EFIE1227993D)](decret-n2012-998-du-24-aout-2012-efie1227993d)
 - [Décret n°97-1203 du 24 décembre 1997 (AGRA9702082D)](decret-n97-1203-du-24-decembre-1997-agra9702082d)
 - [Décret n°2012-767 du 24 mai 2012 (MENX1223346D)](decret-n2012-767-du-24-mai-2012-menx1223346d)
 - [Décret n°2012-768 du 24 mai 2012 (EFIX1223356D)](decret-n2012-768-du-24-mai-2012-efix1223356d)
