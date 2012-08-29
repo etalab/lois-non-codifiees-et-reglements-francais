@@ -18,7 +18,7 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 ― chef du bureau des ressources minérales à la direction générale de l'aménagement, du logement et de la nature ;
 
-― chef du bureau  véhicules lourds et deux-roues  à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
+― chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
 
 ― chef du bureau des affaires générales et des systèmes d'information à la direction générale de la prévention des risques ;
 
@@ -46,4 +46,16 @@ En application des articles 2 et 3 du décret n° 2008-971 du 17 septembre 2008 
 
 ― chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-― chef du service transports et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes.
+― chef du service transports et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes ;
+
+- Adjoint au chef de la mission de l'action régionale, en charge du pilotage du réseau des DIRECCTE pour les actions de développement économique à la direction générale de la compétitivité, de l'industrie et des services (au 1er janvier 2012) ;
+
+- Chef du service climat-énergie de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine (au 21 mars 2012) ;
+
+- Chef de service, adjoint au titre de la coordination de l'inspection des installations classées au service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes (au 1er avril 2012) ;
+
+- Chef de l'unité territoriale de Moselle à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine (au 1er mai 2012) ;
+
+- Adjoint au chef du bureau de la gestion des corps techniques à la direction générale de la compétitivité, de l'industrie et des services (au 6 juillet 2012) ;
+
+- Adjoint au chef du bureau de la sécurité des équipements industriels à la direction générale de la prévention des risques (au 1er décembre 2012).
