@@ -45,7 +45,7 @@ LISTE DES DÉPARTEMENTS ET SITES PILOTES EN MATIÈRE DE CONTRÔLES D'HYGIÈNE DE
 </td>
 <td align="center">71 158 01<br/>
 </td>
-<td align="center">Poulets, dindes<br/>
+<td align="center">Poulets, pintades<br/>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ LISTE DES DÉPARTEMENTS ET SITES PILOTES EN MATIÈRE DE CONTRÔLES D'HYGIÈNE DE
 </td>
 <td align="center">79 091 002<br/>
 </td>
-<td align="center">Poulets, dindes,<br/>lapins de chair, canards,<br/>pintades, pigeons<br/>
+<td align="center">Poulets, lapins de chair, canards maigres, pintades<br/>
 </td>
 </tr>
 <tr>

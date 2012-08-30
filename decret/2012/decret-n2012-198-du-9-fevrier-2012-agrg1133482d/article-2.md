@@ -18,9 +18,9 @@ Ces procédures intègrent les composantes liées à la santé et à la protecti
 
 ― information immédiate du service officiel de contrôle par le personnel autorisé à participer au contrôle de la production de la viande ;
 
-― inspection documentaire renforcée par le vétérinaire officiel ;
+―      inspection documentaire renforcée par le service officiel de contrôle ;
 
-― isolement, sous la responsabilité de l'exploitant de l'abattoir, du lot d'animaux vivants ou des viandes et des sous-produits constituant le lot lorsque l'alerte est donnée lors des opérations d'inspection ante ou post mortem ;
+― isolement, sous la responsabilité de l'exploitant de l'abattoir, du lot d'animaux vivants ou des viandes et des sous-produits constituant le lot lorsque l'alerte est donnée lors des opérations de contrôle ante ou post mortem ;
 
 ― inspection physique renforcée des animaux vivants, des viandes ou des sous-produits par un vétérinaire officiel ou un auxiliaire officiel dès lors que l'inspection documentaire renforcée n'a pas permis d'écarter tout risque d'ordre sanitaire ;
 
