@@ -2,6 +2,7 @@
 
 Liste des établissements habilités à délivrer le diplôme national de technologie spécialisé dans les spécialités suivantes pour les années universitaires 2010-2011 et 2011-2012
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -28,3 +29,4 @@ Liste des établissements habilités à délivrer le diplôme national de techno
 </tr>
 </tbody>
 </table>
+</div>
