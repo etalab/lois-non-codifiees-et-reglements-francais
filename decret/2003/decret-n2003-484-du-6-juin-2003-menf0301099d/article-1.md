@@ -12,7 +12,9 @@ Les assistants d'éducation accomplissent, en application de l'article L. 916-1 
 
 5° Participation à toute activité éducative, sportive, sociale, artistique ou culturelle complémentaire aux enseignements ;
 
-6° Participation à l'aide aux devoirs et aux leçons.
+6° Participation à l'aide aux devoirs et aux leçons ;
+
+7° Participation aux actions de prévention et de sécurité conduites au sein de l'établissement.
 
 Le contrat précise les fonctions pour lesquelles l'assistant d'éducation est recruté ainsi que les établissements ou les écoles au sein desquels il exerce.
 
