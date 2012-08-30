@@ -1,5 +1,3 @@
 # Article 11
 
-Les personnels nouvellement titularisés ou détachés dans la classe normale du corps des professeurs agrégés peuvent bénéficier, au titre de la campagne d'avancement d'échelon afférente à leur premier entretien professionnel, de réductions d'ancienneté dans les conditions mentionnées à l'article 10.
-
-Les campagnes d'avancement ultérieures interviennent concomitamment avec celles dont bénéficie l'ensemble des personnels de leur corps et classe d'appartenance.
+La notation du personnel détaché pour exercer une fonction d'enseignement est assurée, sous réserve des dispositions de l'article 12, selon les modalités prévues aux articles 9 et 10 ci-dessus. Cependant, le pouvoir de notation en matière administrative est attribué au chef de service.

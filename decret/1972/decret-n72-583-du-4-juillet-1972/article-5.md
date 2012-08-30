@@ -1,3 +1,5 @@
 # Article 5
 
-Les adjoints d'enseignement mentionnés aux articles 3 et 4 peuvent se voir attribuer, au vu de l'appréciation de leur valeur professionnelle, des réductions ou des majorations d'ancienneté par rapport à l'ancienneté exigée pour accéder d'un échelon à l'échelon supérieur, dans les conditions prévues aux articles 5-1 à 5-4.
+La notation du personnel détaché est assurée par le recteur compte tenu des notes ou appréciations établies par l'autorité auprès de laquelle ce personnel est détaché.
+
+La communication et la révision de la note sont alors effectuées conformément aux dispositions des articles 4, 5 et 6 du décret n° 59-308 du 14 février 1959 susvisé.

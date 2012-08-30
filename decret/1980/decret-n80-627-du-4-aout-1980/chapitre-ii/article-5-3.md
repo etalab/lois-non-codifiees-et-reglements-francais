@@ -24,9 +24,7 @@ II.-Peuvent se présenter au concours interne :
 
 III.-Peuvent se présenter au troisième concours les candidats justifiant de l'exercice, pendant une durée de cinq ans au moins, d'une ou de plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
 
-Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves du concours externe doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
-
-Pour être titularisés, les candidats ayant subi avec succès les épreuves du concours interne et du troisième concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+Pour être titularisés, les candidats ayant subi avec succès les épreuves d'un des concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
 Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêtés du ministre chargé de l'enseignement supérieur.
 

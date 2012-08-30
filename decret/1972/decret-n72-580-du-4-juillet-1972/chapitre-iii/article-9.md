@@ -1,3 +1,7 @@
 # Article 9
 
-Les professeurs agrégés de classe normale mentionnés aux articles 7 et 8 peuvent se voir attribuer, au vu de l'appréciation de leur valeur professionnelle, des réductions ou des majorations d'ancienneté par rapport à l'ancienneté exigée pour accéder d'un échelon à l'échelon supérieur, dans les conditions prévues aux articles 10 à 13.
+Le collège des inspecteurs généraux de la discipline du professeur note celui-ci selon une cotation de 0 à 60. Cette note est arrêtée compte tenu d'une appréciation pédagogique portant sur la valeur de l'action éducative et de l'enseignement donnés.
+
+L'appréciation pédagogique est communiquée immédiatement au professeur.
+
+La note et l'appréciation pédagogiques ne peuvent être revisées.

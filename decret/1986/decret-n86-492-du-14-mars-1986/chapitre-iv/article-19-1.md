@@ -1,11 +1,60 @@
 # Article 19-1
 
-La  répartition des réductions d'ancienneté s'effectue sur une base  annuelle de deux cent quarante-cinq mois pour un effectif de cent  agents. Les fonctionnaires ayant atteint l'échelon le plus élevé de la  classe normale n'entrent pas dans cet effectif.
+Les conditions d'avancement d'échelon des professeurs d'enseignement général de collège hors classe sont fixées selon les durées d'échelon ci-après :
 
-Les professeurs d'enseignement général de collège de classe normale  peuvent bénéficier, au titre d'une campagne d'avancement d'échelon, de  deux ou cinq mois de réduction d'ancienneté par année scolaire. Le  nombre de mois de réduction d'ancienneté alloué annuellement est  identique pour chaque année scolaire précédant la prochaine campagne  d'avancement, dès lors que l'agent appartient, à la date de prise  d'effet, à la classe normale de son corps.
+<table>
+<tbody>
+<tr>
+<td width="307">
+<p align="center">ECHELONS</p>
+</td>
+<td width="307">
+<p align="center">DUREE D'ECHELON</p>
+</td>
+</tr>
+<tr>
+<td width="307">
+<p>Du 1er au 2e échelon</p>
+</td>
+<td width="307">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td width="307">
+<p>Du 2e au 3e échelon</p>
+</td>
+<td width="307">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td width="307">
+<p>Du 3e au 4e échelon</p>
+</td>
+<td width="307">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td width="307">
+<p>Du 4e au 5e échelon</p>
+</td>
+<td width="307">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td width="307">
+<p>Du 5e au 6e échelon</p>
+</td>
+<td width="307">
+<p align="center">3 ans</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Les  réductions d'ancienneté non prises en compte au titre d'un avancement  d'échelon sont conservées au bénéfice de l'agent pour l'avancement  d'échelon suivant.
+L'avancement prend effet le premier jour du mois qui suit la date à laquelle les intéressés remplissent les conditions définies ci-dessus.
 
-Dans le cas où la valeur  professionnelle d'un agent se révèle insuffisante, celui-ci bénéficie de  mesures d'accompagnement et d'aide dans la perspective d'une  amélioration de ses résultats professionnels. Si l'entretien  professionnel suivant fait apparaître des résultats professionnels  toujours insuffisants, des majorations de la durée de service requise  pour accéder d'un échelon à un échelon supérieur peuvent être  appliquées. Il ne peut être attribué au même agent, au titre d'une  campagne d'avancement d'échelon, plus de deux mois de majoration entre  deux campagnes d'avancement.
-
-Les professeurs  d'enseignement général de collège de classe normale qui ne font l'objet  d'aucune réduction ou majoration d'ancienneté avancent à l'ancienneté de  référence mentionnée à l'article 19-3.
+Le recteur prononce les promotions.

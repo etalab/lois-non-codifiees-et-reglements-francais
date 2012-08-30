@@ -3,7 +3,7 @@
 - [Article 1](article-1.md)
 - [Chapitre I : Dispositions générales.](chapitre-i)
 - [Chapitre II : Recrutement.](chapitre-ii)
-- [Chapitre III : Appréciation de la valeur professionnelle et avancement](chapitre-iii)
+- [Chapitre III : Notation et avancement](chapitre-iii)
 - [Chapitre IV : Discipline.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
 - [Article 47](article-47.md)

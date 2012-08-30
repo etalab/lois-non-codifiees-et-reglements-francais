@@ -26,9 +26,7 @@ Pour être nommés dans le corps des conseillers principaux d'éducation, les ca
 
 Le nombre des places réservées aux candidats mentionnés au 2° du présent article ne peut être supérieur au tiers du nombre total des emplois mis au concours externe et au concours interne. Le nombre des places offertes aux candidats mentionnés au 3° du présent article ne peut être supérieur à 10 % du nombre total des places offertes aux trois concours. Toutefois, les emplois mis aux concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats des autres concours, dans la limite de 20 % du total des places mises à ces concours.
 
-II.-Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves du concours externe doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
-
-Pour être titularisés, les candidats ayant subi avec succès les épreuves du concours interne et du troisième concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+II.-Pour être titularisés, les candidats ayant subi avec succès les épreuves d'un des concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
 Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêtés du ministre chargé de l'enseignement supérieur.
 

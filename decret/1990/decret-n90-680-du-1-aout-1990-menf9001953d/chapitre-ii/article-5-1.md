@@ -2,9 +2,7 @@
 
 Les candidats aux concours mentionnés au 1° de l'article 4 doivent justifier, à la date de publication des résultats d'admissibilité, d'une qualification en natation et d'une qualification en secourisme.
 
-Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves des concours externes doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
-
-Pour être titularisés, les candidats ayant subi avec succès les épreuves des seconds concours internes et du troisième concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+Pour être titularisés, les candidats ayant subi avec succès les épreuves d'un des concours mentionnés au 1° de l'article 4 doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
 Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêtés du ministre chargé de l'enseignement supérieur.
 

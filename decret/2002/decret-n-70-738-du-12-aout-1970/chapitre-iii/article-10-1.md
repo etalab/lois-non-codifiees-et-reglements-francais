@@ -1,3 +1,3 @@
 # Article 10-1
 
-La valeur professionnelle des conseillers principaux d'éducation titulaires affectés dans un service ou établissement relevant du ministre chargé de l'éducation nationale et placé sous l'autorité ou la tutelle d'un recteur d'académie est appréciée dans le cadre d'un entretien professionnel qui intervient tous les trois ans et est conduit dans les conditions prévues aux articles 10-1-1 à 10-1-6.
+Le recteur de l'académie dans le ressort de laquelle exerce le conseiller principal d'éducation attribue à celui-ci une note de 0 à 20, accompagnée d'une appréciation générale sur la manière de servir soit après avis du chef d'établissement et de l'inspecteur pédagogique régional de la vie scolaire, soit après avis du chef du service dans lequel est affecté l'intéressé.

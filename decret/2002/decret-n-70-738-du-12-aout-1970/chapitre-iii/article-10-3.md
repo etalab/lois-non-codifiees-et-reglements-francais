@@ -1,3 +1,3 @@
 # Article 10-3
 
-Les conseillers principaux d'éducation de classe normale mentionnés aux articles 10-1 et 10-2 peuvent se voir attribuer, au vu de l'appréciation de leur valeur professionnelle, des réductions ou des majorations d'ancienneté par rapport à l'ancienneté de référence exigée pour accéder d'un échelon à l'échelon supérieur, dans les conditions prévues aux articles 10-4 à 10-7.
+La note attribuée en application des articles 10-1 et 10-2 est fixée en tenant compte d'une grille de notation établie par le ministre de l'éducation nationale et indiquant, par échelon, une moyenne des notes ainsi que les écarts pouvant être retenus par rapport à cette moyenne.

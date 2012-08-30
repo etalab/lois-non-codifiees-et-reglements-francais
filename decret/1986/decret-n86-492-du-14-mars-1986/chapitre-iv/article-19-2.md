@@ -1,9 +1,50 @@
 # Article 19-2
 
-Les réductions et majorations d'ancienneté sont attribuées, après avis de la commission administrative paritaire académique, sur décision du recteur d'académie, qui arrête les réductions d'ancienneté, compte tenu des propositions formulées par les supérieurs hiérarchiques directs.
+L'avancement d'échelon des professeurs d'enseignement général de collège de classe exceptionnelle prend effet du premier jour du mois qui suit la date à laquelle les intéressés remplissent les conditions fixées au tableau ci-dessous :
 
-Les candidats dont la valeur professionnelle est jugée égale sont départagés par l'ancienneté dans la classe normale.
+<table>
+<tbody>
+<tr>
+<td width="188">
+<p align="center">ECHELONS</p>
+</td>
+<td width="190">
+<p align="center">DUREE D'ECHELON</p>
+</td>
+</tr>
+<tr>
+<td width="188">
+<p>Du 1er au 2e échelon</p>
+</td>
+<td width="190">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td width="188">
+<p>Du 2e au 3e échelon</p>
+</td>
+<td width="190">
+<p align="center">3 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td width="188">
+<p>Du 3e au 4e échelon</p>
+</td>
+<td width="190">
+<p align="center">4 ans</p>
+</td>
+</tr>
+<tr>
+<td width="188">
+<p>Du 4e au 5e échelon</p>
+</td>
+<td width="190">
+<p align="center">4 ans</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-L'attribution ou non de réductions ou de majorations d'ancienneté est notifiée à l'agent.
-
-Le recteur prononce les avancements d'échelon des professeurs d'enseignement général de collège.
+Le recteur prononce les promotions.

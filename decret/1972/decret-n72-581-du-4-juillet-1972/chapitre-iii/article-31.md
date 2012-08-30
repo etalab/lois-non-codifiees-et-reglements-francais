@@ -1,9 +1,17 @@
 # Article 31
 
-I.-Les professeurs certifiés affectés dans un service ou établissement non mentionné à l'article 30 bénéficient d'un entretien professionnel triennal conduit par le supérieur hiérarchique direct dont ils dépendent, qui en établit le compte rendu, dans les conditions prévues aux articles 30-4 et 30-5.
+Le ministre chargé de l'éducation attribue une note de 0 à 100 accompagnée d'une appréciation aux professeurs certifiés en position de détachement, mis à disposition ou exerçant dans un service ou établissement non placé sous l'autorité d'un recteur d'académie dans les conditions suivantes :
 
-II.-Les personnels mis à disposition bénéficient d'un entretien professionnel triennal conduit par le supérieur hiérarchique direct dont ils dépendent qui en établit un rapport dans les conditions prévues à l'article 11 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions. Leur valeur professionnelle est appréciée par leur administration d'origine sur la base de ce rapport.
+a) La notation des personnels remplissant une fonction d'enseignement, à l'exception de ceux qui exercent dans l'enseignement supérieur, est assurée selon les modalités prévues au de l'article 30 ci-dessus. Cependant la note de 0 à 40 est arrêtée par le ministre chargé de l'éducation compte tenu des notes ou appréciations établies par l'autorité auprès de laquelle le professeur est détaché, mis à disposition ou affecté ;
 
-III.-Les personnels détachés font l'objet d'une appréciation de leur valeur professionnelle dans les conditions prévues par les articles 27 ou 28 du décret du 16 septembre 1985 susmentionné.
+b) La notation des personnels ne remplissant pas une fonction d'enseignement ainsi que celle des personnels détachés pour exercer dans un établissement d'enseignement supérieur comporte une note unique de 0 à 100, arrêtée par le ministre chargé de l'éducation sur proposition de l'autorité auprès de laquelle le professeur exerce ses fonctions.
 
-IV.-Les personnels mentionnés aux I et II et les personnels détachés au titre de l'article 28 du décret du 16 septembre 1985 susmentionné peuvent présenter au ministre chargé de l'éducation nationale un recours hiérarchique et saisir la commission administrative paritaire nationale dans les conditions mentionnées à l'article 30-7.
+La note mentionnée au b ci-dessus est fixée en fonction d'une grille de notation prévue au 2 de l'article 30 ci-dessus.
+
+Les notes et les appréciations sont communiquées par le ministre aux professeurs intéressés.
+
+La commission administrative paritaire nationale peut, à la requête du professeur, demander au ministre la révision :
+
+- de la note de 0 à 40 pour les personnels mentionnés au a ci-dessus ;
+
+- de la note de 0 à 100 pour les personnels mentionnés au b ci-dessus.

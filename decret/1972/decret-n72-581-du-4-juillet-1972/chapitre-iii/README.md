@@ -1,19 +1,8 @@
-# Chapitre III : Appréciation de la valeur professionnelle et avancement
+# Chapitre III : Notation et avancement
 
 - [Article 30](article-30.md)
-- [Article 30-1](article-30-1.md)
-- [Article 30-2](article-30-2.md)
-- [Article 30-3](article-30-3.md)
-- [Article 30-4](article-30-4.md)
-- [Article 30-5](article-30-5.md)
-- [Article 30-6](article-30-6.md)
-- [Article 30-7](article-30-7.md)
 - [Article 31](article-31.md)
 - [Article 32](article-32.md)
-- [Article 32-1](article-32-1.md)
-- [Article 32-2](article-32-2.md)
-- [Article 32-3](article-32-3.md)
-- [Article 32-4](article-32-4.md)
 - [Article 33](article-33.md)
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)

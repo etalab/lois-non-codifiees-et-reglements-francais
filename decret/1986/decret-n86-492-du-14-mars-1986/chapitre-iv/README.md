@@ -1,17 +1,9 @@
-# Chapitre IV : Appréciation de la valeur professionnelle, avancement, mutation, reclassement.
+# Chapitre IV : Notation, avancement, mutation, reclassement
 
 - [Article 17](article-17.md)
-- [Article 17-1](article-17-1.md)
-- [Article 17-2](article-17-2.md)
-- [Article 17-3](article-17-3.md)
-- [Article 17-4](article-17-4.md)
-- [Article 17-5](article-17-5.md)
-- [Article 17-6](article-17-6.md)
-- [Article 18](article-18.md)
 - [Article 19](article-19.md)
 - [Article 19-1](article-19-1.md)
 - [Article 19-2](article-19-2.md)
-- [Article 19-3](article-19-3.md)
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
 - [Article 21-1](article-21-1.md)

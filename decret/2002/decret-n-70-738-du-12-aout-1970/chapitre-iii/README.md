@@ -1,17 +1,9 @@
-# Chapitre III : Appréciation de la valeur professionnelle et avancement.
+# Chapitre III : Notation et avancement
 
 - [Article 10-1](article-10-1.md)
-- [Article 10-1-1](article-10-1-1.md)
-- [Article 10-1-2](article-10-1-2.md)
-- [Article 10-1-3](article-10-1-3.md)
-- [Article 10-1-4](article-10-1-4.md)
-- [Article 10-1-5](article-10-1-5.md)
-- [Article 10-1-6](article-10-1-6.md)
-- [Article 10-1-7](article-10-1-7.md)
 - [Article 10-2](article-10-2.md)
 - [Article 10-3](article-10-3.md)
 - [Article 10-4](article-10-4.md)
-- [Article 10-5](article-10-5.md)
 - [Article 10-6](article-10-6.md)
 - [Article 10-7](article-10-7.md)
 - [Article 10-8](article-10-8.md)
