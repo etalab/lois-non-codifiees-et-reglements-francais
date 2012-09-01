@@ -692,7 +692,6 @@
 - [Décret n°92-294 du 25 mars 1992 (INTC9200104D)](decret-n92-294-du-25-mars-1992-intc9200104d)
 - [Décret n°92-555 du 25 juin 1992 (EQUA9200814D)](decret-n92-555-du-25-juin-1992-equa9200814d)
 - [Décret n°92-558 du 25 juin 1992 (SPSS9201014D)](decret-n92-558-du-25-juin-1992-spss9201014d)
-- [Décret n°92-559 du 25 juin 1992 (EQUS9200718D)](decret-n92-559-du-25-juin-1992-equs9200718d)
 - [Décret n°92-562 du 25 juin 1992 (AGRR9200769D)](decret-n92-562-du-25-juin-1992-agrr9200769d)
 - [Décret n°92-566 du 25 juin 1992 (SANH9201026D)](decret-n92-566-du-25-juin-1992-sanh9201026d)
 - [Décret n°92-572 du 25 juin 1992 (AGRS9200001D)](decret-n92-572-du-25-juin-1992-agrs9200001d)
