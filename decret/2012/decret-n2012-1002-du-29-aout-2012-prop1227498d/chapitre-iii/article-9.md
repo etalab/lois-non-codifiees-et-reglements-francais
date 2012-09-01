@@ -1,0 +1,5 @@
+# Article 9
+
+I. ― Les tableaux d'avancement établis au titre de l'année 2012 pour l'accès aux grades de technicien de laboratoire des écoles nationales des mines de classe supérieure et exceptionnelle demeurent valables jusqu'au 31 décembre 2012.
+
+II. ― Les fonctionnaires promus en application du I postérieurement à la date d'entrée en vigueur du présent décret sont classés dans les grades de technicien de laboratoire des écoles nationales supérieures des mines de classe supérieure ou de technicien de laboratoire des écoles nationales supérieures des mines de classe exceptionnelle en tenant compte de la situation qui aurait été la leur s'ils avaient été respectivement promus dans les grades de technicien de laboratoire des écoles nationales des mines de classe supérieure et de technicien de laboratoire des écoles nationales des mines de classe exceptionnelle en application des dispositions du décret du 26 mars 1996 susvisé, puis reclassés à la date de leur promotion en application des dispositions de l'article 8 du présent décret.

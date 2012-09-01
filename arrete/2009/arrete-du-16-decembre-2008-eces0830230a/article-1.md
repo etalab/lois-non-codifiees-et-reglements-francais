@@ -5,19 +5,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <table>
 <tbody>
 <tr>
-<th>SERVICES OU DIRECTIONS<br/>
-</th>
-<th>DÉSIGNATION DE L'EMPLOI<br/>
-</th>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Direction régionale d'Aquitaine <br/>
-</p>
+<td>
+<p align="center">SERVICES OU DIRECTIONS</p>
 </td>
-<td align="left" valign="top">
-<p align="left">Chef du service études et diffusion <br/>
-</p>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 </tr>
 <tr>
@@ -47,13 +39,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction régionale de Bretagne <br/>
-</p>
+<td>
+<p align="left">Direction régionale de Bourgogne </p>
 </td>
-<td align="center">
-<p align="left">Chef du service administration des ressources <br/>
-</p>
+<td>
+<p align="left">Chef du service de l'administration des ressources</p>
 </td>
 </tr>
 <tr>
@@ -102,14 +92,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td>
-<p align="left">Direction régionale d'Ile-de-France</p>
-</td>
-<td>
-<p align="left">Chef adjoint du service études diffusion </p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="left">Direction régionale de Languedoc-Roussillon </p>
 </td>
 <td>
@@ -125,21 +107,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction régionale du Limousin</p>
-</td>
-<td>
-<p align="left">Chef du service études et diffusion</p>
-</td>
-</tr>
-<tr>
 <td align="center">
-<p align="left">Direction régionale de Nord - Pas-de-Calais<br/>
-</p>
+<p align="left">Direction régionale de Nord - Pas-de-Calais</p>
 </td>
 <td align="center">
-<p align="left">Chef du service administration des ressources <br/>
-</p>
+<p align="left">Chef du service administration des ressources </p>
 </td>
 </tr>
 <tr>
@@ -152,12 +124,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Picardie <br/>
-</p>
+<p align="left">Direction régionale de Picardie </p>
 </td>
 <td align="center">
-<p align="left">Chef du service administration des ressources <br/>
-</p>
+<p align="left">Chef du service administration des ressources </p>
 </td>
 </tr>
 <tr>
@@ -169,26 +139,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction régionale de Provence-Alpes-Côte d'Azur </p>
-</td>
-<td>
-<p align="left">Responsable du pôle action régionale </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de La Réunion</p>
-</td>
-<td align="center">
-<p align="left">Chef du service administration des ressources</p>
-</td>
-</tr>
-<tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Direction régionale de Rhône-Alpes</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Responsable du pôle national de compétence Prix à la production industrielle</p>
 </td>
 </tr>
@@ -209,10 +163,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Direction des statistiques démographiques et sociales</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Chef de projet statistique pour la refonte de l'enquête emploi en continu </p>
 </td>
 </tr>
@@ -222,14 +176,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td>
 <p align="left">Chef de la cellule administration des ressources</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Département des ressources humaines</p>
-</td>
-<td>
-<p align="left">Adjoint au chef de la division gestion statutaire</p>
 </td>
 </tr>
 <tr>
@@ -245,33 +191,15 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Département programmation et gestion </p>
 </td>
 <td>
-<p align="left">Chef de la section budget </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Département programmation et gestion </p>
-</td>
-<td>
 <p align="left">Responsable du programme de travail de l'INSEE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Département de la production et de l'infrastructure informatiques (ajouté à compter du 1er septembre 2011)</p>
+<p align="left">Département de la production et de l'infrastructure informatiques<br/>(ajouté à compter du 1er septembre 2011)</p>
 </td>
 <td>
-<p align="left">Responsable produit échanges télématiques et coordinateur des transferts applicatifs (ajouté à compter du 1er septembre 2011)</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Centre national informatique d'Orléans <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef du service développement<br/>
-</p>
+<p align="left">Responsable produit échanges télématiques et coordinateur des transferts applicatifs<br/>(ajouté à compter du 1er septembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -286,8 +214,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Centre de formation de l'INSEE de Libourne<br/>
-</p>
+<p align="left">Centre de formation de l'INSEE de Libourne</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Chef du service des affaires générales et chargé d'enseignement en gestion<br/>
@@ -295,32 +222,67 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Direction générale, département de la programmation et de la gestion<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Coordinateur de la mise en œuvre de la LOLF <br/>
-</p>
-</td>
-</tr>
-<tr>
 <td align="center">
-<p align="left">Direction générale, département des services généraux<br/>
-</p>
+<p align="left">Direction générale, département des services généraux</p>
 </td>
 <td align="center">
-<p align="left">Chef de la cellule conditions de travail et actions sociales<br/>
-</p>
+<p align="left">Chef de la cellule conditions de travail et actions sociales</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction générale - département des ressources humaines</p>
+<p align="left">Département du cadre de vie et des conditions de travail</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef de la DARC (division administration et rémunérations centrales), chargé de la politique de rémunération<br/>
+<p align="left">Chef de la cellule administration des ressources du secrétariat général </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Département de la gestion des ressources humaines </p>
+</td>
+<td>
+<p align="left">Chef de la section des concours et des examens </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Département de la gestion des ressources humaines </p>
+</td>
+<td>Adjoint au chef de la division de la gestion des statuts </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Direction de la méthodologie et de la coordination statistique et internationale <br/>
 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef de la cellule de l'administration des ressources </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Département de la valorisation des ressources humaines </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef de la division du management des ressources humaines</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Département des affaires financières et programmation des travaux et des moyens </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Contrôleur de gestion </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Département des affaires financières et programmation des travaux et des moyens <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef de la section de la qualité des processus comptables </p>
 </td>
 </tr>
 </tbody>

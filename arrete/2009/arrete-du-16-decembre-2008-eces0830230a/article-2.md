@@ -5,10 +5,12 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <table>
 <tbody>
 <tr>
-<th>SERVICES OU DIRECTIONS<br/>
-</th>
-<th>DÉSIGNATION DE L'EMPLOI<br/>
-</th>
+<td>
+<p align="center"> SERVICES OU DIRECTIONS</p>
+</td>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -18,14 +20,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <td align="center">
 <p align="left">Chef du service administration des ressources<br/>
 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Direction générale, département des services généraux </p>
-</td>
-<td>
-<p align="left">Chef de la division logistique de la direction générale</p>
 </td>
 </tr>
 <tr>

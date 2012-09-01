@@ -1,70 +1,85 @@
 # Article Annexe II
 
-LISTE DES UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL OPTION  RESPONSABLE D'ENTREPRISE HIPPIQUE  VALIDÉES AU TITRE DE LA DÉTENTION DE CERTAINS DIPLÔMES
+LISTE DES UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL OPTION " RESPONSABLE D'ENTREPRISE HIPPIQUE " VALIDÉES AU TITRE DE LA DÉTENTION DE CERTAINS DIPLÔMES
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> DIPLÔMES</p>
+<th>
+<br/>DIPLÔMES <br/>
+</th>
+<th>
+<br/>UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL <p>option responsable d'entreprise hippique validées <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Brevet professionnel agricole. <br/>
 </td>
-<td>
-<p align="center"> UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL<br/>
-<br/>option  responsable d'entreprise hippique  validées</p>
+<td align="center">
+<br/>2 UCARE <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Brevet professionnel agricole</p>
+<br/>Brevet professionnel délivré par le ministère chargé de l'agriculture. <br/>
 </td>
 <td align="center">
-<br/>2 UCARE<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Brevet professionnel délivré par le ministère chargé de l'agriculture</p>
-</td>
-<td align="center">
-<br/>UCG 1, UCG 2, 2 UCARE<br/>
+<br/>UCG 1, UCG 2,2 UCARE <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Baccalauréat professionnel délivré par le ministère chargé de l'agriculture et brevet de technicien agricole</p>
+<br/>Brevet professionnel de la jeunesse, de l'éducation populaire et du sport. <br/>
 </td>
 <td align="center">
-<br/>UCG 1, UCG 2, 2 UCARE<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Baccalauréat professionnel délivré par le ministère chargé de l'éducation</p>
-</td>
-<td align="center">
-<br/>UCG 1, 1 UCARE<br/>
+<br/>UCG1, UCG2, 1 UCARE <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Baccalauréat général ou technologique</p>
+<br/>Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités équestres . <br/>
 </td>
 <td align="center">
-<br/>UCG 1<br/>
+<br/>UCG1, UCG2, UCP 1, UCP 2, <p>UCT 2,1 UCARE, UCT 1 (*) <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diplômes de niveau III et plus</p>
+<br/>Baccalauréat professionnel délivré par le ministère chargé de l'agriculture et brevet de technicien agricole. <br/>
 </td>
 <td align="center">
-<br/>UCG 1, UCG 2<br/>
+<br/>UCG 1, UCG 2,2 UCARE <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Baccalauréat professionnel délivré par le ministère chargé de l'éducation. <br/>
+</td>
+<td align="center">
+<br/>UCG 1,1 UCARE <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Séries du baccalauréat général ou technologique. <br/>
+</td>
+<td align="center">
+<br/>UCG 1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Diplômes de niveau III et plus. <br/>
+</td>
+<td align="center">
+<br/>UCG 1, UCG 2 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">" <br/>(*) La dispense de l'UCT 1 est proposée si l'UCC travail sur le plat de la cavalerie d'école " a été validée en complément du BPJEPS " activités équestres ".<br/>
 </td>
 </tr>
 </tbody>

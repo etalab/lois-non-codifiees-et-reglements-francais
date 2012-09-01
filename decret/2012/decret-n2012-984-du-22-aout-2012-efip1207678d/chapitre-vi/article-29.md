@@ -1,0 +1,5 @@
+# Article 29
+
+I. ― Le concours sur épreuves professionnelles d'accès au grade de technicien supérieur principal de l'industrie et des mines régi par le décret du 3 avril 1998 susmentionné dont l'arrêté d'ouverture intervient avant la date d'entrée en vigueur du présent décret se poursuit jusqu'à son terme. La liste complémentaire établie par le jury du concours sur épreuves professionnelles mentionné à l'alinéa précédent peut être utilisée afin de pourvoir des emplois vacants relevant du grade de technicien supérieur en chef de l'économie et de l'industrie régi par le présent décret.
+
+II. ― Les fonctionnaires promus en application du I postérieurement à la date d'application d'entrée en vigueur du présent décret sont classés dans le corps des techniciens supérieurs de l'économie et de l'industrie en tenant compte de la situation qui aurait été la leur s'ils avaient été promus dans le grade de technicien supérieur principal de l'industrie et des mines en application des dispositions de l'article 13 du décret du 3 avril 1998 susmentionné, puis reclassés à la date de leur promotion en application des dispositions de l'article 21 du présent décret.
