@@ -249,13 +249,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Commission des téléphériques. <br/>
-</td>
-<td align="center"/>
-<td align="center">Arrêté du 5 novembre 1997 portant création d'une commission des téléphériques (articles 3 et 4). <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Commission des usagers du port pour le service du remorquage portuaire. <br/>
 </td>
 <td align="center"/>

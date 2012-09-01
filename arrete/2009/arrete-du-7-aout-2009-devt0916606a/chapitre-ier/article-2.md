@@ -6,7 +6,7 @@ Au sens du présent arrêté, on désigne par :
 
 -câble multitorons : un câble formé de plusieurs torons câblés en hélice, en une ou plusieurs couches, autour d'une âme synthétique, mixte ou métallique. Les torons sont formés d'un fil d'âme métallique et d'une ou plusieurs couches de fils ronds toronnés en hélice ;
 
--commission des téléphériques : la commission créée par l'arrêté du 5 novembre 1997 modifié portant création d'une commission des téléphériques ;
+-commission des téléphériques : la commission créée par le décret n° 2012-988 du 22 août 2012 relatif à la commission des téléphériques ;
 
 -constituant de sécurité et sous-système : tout constituant de sécurité et tout sous-système au sens de l'article 2 du décret du 9 mai 2003 susvisé ;
 
