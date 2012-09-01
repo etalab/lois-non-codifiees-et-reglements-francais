@@ -119,7 +119,6 @@
 - [Arrêté du 12 mai 2006 (SOCF0611156A)](arrete-du-12-mai-2006-socf0611156a)
 - [Arrêté du 12 mai 2006 (SOCF0611157A)](arrete-du-12-mai-2006-socf0611157a)
 - [Arrêté du 13 décembre 2005 (EQUG0501372A)](arrete-du-13-decembre-2005-equg0501372a)
-- [Arrêté du 13 décembre 2006 (ECOP0600716A)](arrete-du-13-decembre-2006-ecop0600716a)
 - [Arrêté du 13 décembre 2006 (PRMX0609737A)](arrete-du-13-decembre-2006-prmx0609737a)
 - [Arrêté du 13 juillet 2006 (AGRP0600207A)](arrete-du-13-juillet-2006-agrp0600207a)
 - [Arrêté du 13 juillet 2006 (DEVP0650390A)](arrete-du-13-juillet-2006-devp0650390a)

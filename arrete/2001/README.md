@@ -176,7 +176,6 @@
 - [Arrêté du 11 décembre 2001 (EQUS0101890A)](arrete-du-11-decembre-2001-equs0101890a)
 - [Arrêté du 11 décembre 2001 (EQUS0101891A)](arrete-du-11-decembre-2001-equs0101891a)
 - [Arrêté du 11 décembre 2001 (SANP0124322A)](arrete-du-11-decembre-2001-sanp0124322a)
-- [Arrêté du 11 décembre 2001 (SANP0124323A)](arrete-du-11-decembre-2001-sanp0124323a)
 - [Arrêté du 11 janvier 2001 (INTE0100026A)](arrete-du-11-janvier-2001-inte0100026a)
 - [Arrêté du 11 juillet 2001 (ECOS0170008A)](arrete-du-11-juillet-2001-ecos0170008a)
 - [Arrêté du 11 juillet 2001 (MESH0122594A)](arrete-du-11-juillet-2001-mesh0122594a)

@@ -1019,7 +1019,6 @@
 - [Arrêté du 30 décembre 1997 (EQUT9701735A)](arrete-du-30-decembre-1997-equt9701735a)
 - [Arrêté du 30 janvier 1997 (AGRA9602664A)](arrete-du-30-janvier-1997-agra9602664a)
 - [Arrêté du 30 janvier 1997 (AGRM9700199A)](arrete-du-30-janvier-1997-agrm9700199a)
-- [Arrêté du 30 janvier 1997 (INDA9600762A)](arrete-du-30-janvier-1997-inda9600762a)
 - [Arrêté du 30 janvier 1997 (INDB9700086A)](arrete-du-30-janvier-1997-indb9700086a)
 - [Arrêté du 30 janvier 1997 (INDB9700087A)](arrete-du-30-janvier-1997-indb9700087a)
 - [Arrêté du 30 janvier 1997 (LOGC9600031A)](arrete-du-30-janvier-1997-logc9600031a)
