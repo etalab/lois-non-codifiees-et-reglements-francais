@@ -8,7 +8,7 @@ Le jury du concours, dont les membres sont nommés par le ministre chargé de l'
 
 3° Deux fonctionnaires de catégorie A appartenant au ministère chargé de l'industrie ;
 
-4° Deux techniciens supérieurs en chef de l'industrie et des mines.
+4° Deux techniciens supérieurs        en chef de l'économie et de l'industrie.
 
 En cas de partage des voix, celle du président est prépondérante.
 

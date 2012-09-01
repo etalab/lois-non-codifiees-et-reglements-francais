@@ -806,7 +806,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Présidents de section du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies. </td>
+<td>Présidents de section du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies. </td>
 <td>d° </td>
 </tr>
 <tr>

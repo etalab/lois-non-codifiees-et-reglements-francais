@@ -1,54 +1,21 @@
 # Article 
 
-<div>
 <table>
 <tbody>
 <tr>
 <td width="378">
-<p align="center">
-<b>GRADES ET EMPLOIS</b>
-</p>
+<p align="center">GRADES ET EMPLOIS </p>
 </td>
 <td width="113">
-<p align="center">
-<b>CLASSEMENT HIERARCHIQUE</b>
-</p>
+<p align="center">CLASSEMENT HIERARCHIQUE </p>
 </td>
 <td width="151">
-<p align="center">
-<b>OBSERVATIONS</b>
-</p>
+<p align="center">OBSERVATIONS </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>
-<i>
-<font color="#0000ff" size="1">I-CONSEIL GÉNÉRAL DE L'</font>
-</i>
-</b>
-<b>
-<i>
-<font color="#0000ff" size="1">É</font>
-</i>
-</b>
-<b>
-<i>
-<font color="#0000ff" size="1">CONOMIE, DE L'INDUSTRIE, DE L'</font>
-</i>
-</b>
-<b>
-<i>
-<font color="#0000ff" size="1">É</font>
-</i>
-</b>
-<b>
-<i>
-<font color="#0000ff" size="1">NERGIE ET DES TECHNOLOGIES<br/>
-</font>
-</i>
-</b>
+<p>I-CONSEIL GÉNÉRAL DE L'ÉCONOMIE, DE L'INDUSTRIE, DE L'ÉNERGIE ET DES TECHNOLOGIES <br/>
 </p>
 </td>
 <td valign="top" width="113">
@@ -59,7 +26,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies </p>
+<p>Conseil général de l'économie, de l'industrie, de l'énergie et des technologies </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -114,13 +81,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>
-<i>
-<font color="#0000ff" size="1">I bis-CORPS ET EMPLOIS COMMUNS A L'ADMINISTRATION CENTRALE ET AUX SERVICES DÉCONCENTRÉS</font>
-</i>
-</b>
-</p>
+<p>I bis-CORPS ET EMPLOIS COMMUNS A L'ADMINISTRATION CENTRALE ET AUX SERVICES DÉCONCENTRÉS </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -151,13 +112,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<font color="#0000ff" size="1">
-<b>
-<i>II-SERVICES DÉCONCENTRÉS</i>
-</b>
-</font>
-</p>
+<p>II-SERVICES DÉCONCENTRÉS </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -167,9 +122,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Corps des ingénieurs des mines</b>
-</p>
+<p>Corps des ingénieurs des mines </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -184,11 +137,7 @@
 <td valign="top" width="113">
 <p align="center">HEB-HED </p>
 </td>
-<td valign="top" width="151">
-<br/>
-<br/>
-<br/>
-</td>
+<td valign="top" width="151"/>
 </tr>
 <tr>
 <td/>
@@ -228,9 +177,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Corps des artistes cartographes</b>
-</p>
+<p>Corps des artistes cartographes </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -267,9 +214,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Emploi de chef des services administratifs de documentation et d'études du service des instruments de mesure</b>
-</p>
+<p>Emploi de chef des services administratifs de documentation et d'études du service des instruments de mesure </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -288,9 +233,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Corps des ingénieurs des travaux des carburants</b>
-</p>
+<p>Corps des ingénieurs des travaux des carburants </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -320,9 +263,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Corps des ingénieurs de l'industrie et des mines</b>
-</p>
+<p>Corps des ingénieurs de l'industrie et des mines </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -363,9 +304,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Corps des techniciens supérieurs de l'industrie et des mines</b>
-</p>
+<p>Corps des techniciens supérieurs de l'industrie et des mines</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -402,9 +341,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Corps des techniciens du ministère de l'économie, des finances et de l'industrie</b>
-</p>
+<p>Corps des techniciens du ministère de l'économie, des finances et de l'industrie </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -434,13 +371,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>
-<i>
-<font color="#0000ff" size="1">III-ÉCOLES NATIONALES SUPÉRIEURES DES MINES ET ÉCOLES NATIONALES SUPÉRIEURES DES TECHNIQUES INDUSTRIELLES ET DES MINES</font>
-</i>
-</b>
-</p>
+<p>III-ÉCOLES NATIONALES SUPÉRIEURES DES MINES ET ÉCOLES NATIONALES SUPÉRIEURES DES TECHNIQUES INDUSTRIELLES ET DES MINES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -450,9 +381,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>
-<b>Personnels enseignants</b>
-</p>
+<p>Personnels enseignants </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -536,4 +465,3 @@
 </tr>
 </tbody>
 </table>
-</div>

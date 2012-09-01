@@ -87,7 +87,6 @@
 - [Décret n°2003-951 du 3 octobre 2003 (INTC0300203D)](decret-n2003-951-du-3-octobre-2003-intc0300203d)
 - [Décret n°2003-952 du 3 octobre 2003 (INTC0300176D)](decret-n2003-952-du-3-octobre-2003-intc0300176d)
 - [Décret n°2003-958 du 3 octobre 2003 (SOCT0311418D)](decret-n2003-958-du-3-octobre-2003-soct0311418d)
-- [Décret n°98-268 du 3 avril 1998 (ECOI9800075D)](decret-n98-268-du-3-avril-1998-ecoi9800075d)
 - [Décret n°98-798 du 3 septembre 1998 (ECOI9800595D)](decret-n98-798-du-3-septembre-1998-ecoi9800595d)
 - [Décret n°2003-1049 du 4 novembre 2003 (DOMA0300023D)](decret-n2003-1049-du-4-novembre-2003-doma0300023d)
 - [Décret n°2003-1050 du 4 novembre 2003 (DOMA0300024D)](decret-n2003-1050-du-4-novembre-2003-doma0300024d)

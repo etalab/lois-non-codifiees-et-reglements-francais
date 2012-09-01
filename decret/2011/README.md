@@ -67,6 +67,7 @@
 - [Décret n°2011-1454 du 4 novembre 2011 (AGRT1121352D)](decret-n2011-1454-du-4-novembre-2011-agrt1121352d)
 - [Décret n°2011-1455 du 4 novembre 2011 (AGRT1122288D)](decret-n2011-1455-du-4-novembre-2011-agrt1122288d)
 - [Décret n°2011-1456 du 4 novembre 2011 (AGRT1122649D)](decret-n2011-1456-du-4-novembre-2011-agrt1122649d)
+- [Décret n°2011-15 du 4 janvier 2011 (EFIP1028672D)](decret-n2011-15-du-4-janvier-2011-efip1028672d)
 - [Décret n°2011-802 du 4 juillet 2011 (SCSA1114371D)](decret-n2011-802-du-4-juillet-2011-scsa1114371d)
 - [Décret n°2011-804 du 4 juillet 2011 (PRMX1114594D)](decret-n2011-804-du-4-juillet-2011-prmx1114594d)
 - [Décret n°2011-805 du 4 juillet 2011 (DEVL1113630D)](decret-n2011-805-du-4-juillet-2011-devl1113630d)

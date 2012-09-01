@@ -20,7 +20,7 @@ Il assure le secrétariat de la Commission supérieure des affaires sociales (CO
 
 Il instruit les dossiers de sanctions du quatrième groupe des fonctionnaires de France Télécom.
 
-Il participe au conseil de gestion du groupement d'intérêt public  Pensions  et au comité interministériel d'action sociale (CIAS).
+Il participe au conseil de gestion du groupement d'intérêt public Pensions et au comité interministériel d'action sociale (CIAS).
 
 Il est chargé de la gestion du corps des administrateurs des postes et télécommunications et des fonctionnaires des corps de l'Etat pour l'administration de la Polynésie française relevant des ministres chargés des postes et communications électroniques.
 

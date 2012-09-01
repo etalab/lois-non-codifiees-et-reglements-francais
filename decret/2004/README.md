@@ -209,7 +209,6 @@
 - [Décret n°2004-326 du 9 avril 2004 (JUSC0420266D)](decret-n2004-326-du-9-avril-2004-jusc0420266d)
 - [Décret n°2004-37 du 9 janvier 2004 (BUDX0300066D)](decret-n2004-37-du-9-janvier-2004-budx0300066d)
 - [Décret n°2004-40 du 9 janvier 2004 (DOMA0300020D)](decret-n2004-40-du-9-janvier-2004-doma0300020d)
-- [Décret n°2004-513 du 9 juin 2004 (ECOP0400288D)](decret-n2004-513-du-9-juin-2004-ecop0400288d)
 - [Décret n°2004-514 du 9 juin 2004 (ECOP0400289D)](decret-n2004-514-du-9-juin-2004-ecop0400289d)
 - [Décret n°2004-520 du 9 juin 2004 (PRMX0400110D)](decret-n2004-520-du-9-juin-2004-prmx0400110d)
 - [Décret n°2004-522 du 9 juin 2004 (ECOF0420122D)](decret-n2004-522-du-9-juin-2004-ecof0420122d)
