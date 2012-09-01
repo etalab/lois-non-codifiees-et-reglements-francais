@@ -50,6 +50,8 @@ Techniciens supérieurs du ministère chargé de l'agriculture.
 
 Techniciens supérieurs d'études et de fabrications du ministère de la défense.
 
+Techniciens supérieurs de l'économie et de l'industrie.
+
 Techniciens supérieurs de la météorologie.
 
 Techniciens de recherche et de formation.
@@ -59,3 +61,5 @@ Techniciens des systèmes d'information et de communication du ministère de l'i
 Techniciens de laboratoire relevant des ministres chargés de l'économie et du budget.
 
 Techniciens de physiothérapie relevant du ministre chargé de la santé.
+
+Techniciens de laboratoire des écoles nationales supérieures des mines.
