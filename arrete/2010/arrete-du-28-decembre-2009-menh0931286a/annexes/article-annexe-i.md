@@ -166,69 +166,71 @@ Le ou les extraits enregistrés sont diffusés à plusieurs reprises durant l'é
 
 Durée : cinq heures ; coefficient 3.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Leçon portant sur les programmes des collèges :
 
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 3.
+Durée de la préparation : quatre heures ; durée de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum ; coefficient 3).
 
-Le candidat présente et analyse les composantes d'une séquence d'éducation musicale au collège, qu'il aura élaborée à partir d'objectifs de formation et de domaines de compétences imposés par le sujet.
+L'exposé initial se déroule en deux temps qui peuvent se succéder dans l'ordre souhaité par le candidat :
+
+1. Séquence d'éducation musicale : le candidat présente et analyse les composantes d'une séquence d'éducation musicale au collège qu'il aura élaborée à partir d'objectifs de formation et de domaines de compétences imposés par le sujet.
 
 Le sujet propose un ensemble de documents. Le candidat choisit ceux qui lui semblent nécessaires à la construction de sa séquence.
 
-L'ensemble des documents proposés par le sujet comporte au minimum un choix d'extraits musicaux enregistrés et identifiés et au moins deux partitions de pièces pour voix et accompagnement, et des interprétations correspondantes.
+L'ensemble des documents proposés par le sujet comporte au minimum un choix d'extraits musicaux enregistrés et identifiés, et au moins deux partitions de pièces pour voix et accompagnement, et des interprétations correspondantes.
 
-Durant l'épreuve, le candidat est obligatoirement amené à chanter intégralement une des partitions pour voix et accompagnement qui lui sont proposées en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte.
+Durant l'épreuve, le candidat est obligatoirement amené à chanter un extrait significatif d'une des partitions pour voix et accompagnement qui lui sont proposées en s'accompagnant au piano ou sur l'instrument polyphonique qu'il apporte.
 
 A l'exception des partitions des pièces pour voix et accompagnement, les différents documents du sujet lui sont transmis en format numérique.
 
+2. Interprétation d'un chant accompagné : au début de la préparation, le candidat transmet au jury les partitions d'un ensemble de trois chants accompagnés qu'il aura pris soin de préparer en vue d'une interprétation devant le jury. Le candidat présente brièvement et interprète en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte le chant choisi par le jury parmi ces propositions. Celles-ci doivent relever de répertoires différents tels que précisés par le programme du collège, l'une au moins relevant du domaine de la chanson, l'autre au moins relevant du domaine des "répertoires savants". Chacune doit pouvoir être adaptée pour être chantée par une classe de collège ou de lycée. Cette partie de l'épreuve ne peut excéder cinq minutes.
+
 Durant la préparation, le candidat dispose :
 
-― d'un clavier électronique MIDI ;
+- d'un clavier électronique MIDI ;
 
-― d'un ordinateur multimédia équipé d'un logiciel d'édition audionumérique ;
+- d'un ordinateur multimédia équipé d'un logiciel d'édition audionumérique ;
 
-― d'un logiciel de présentation multimédia, d'un séquenceur et d'un éditeur de partition ;
+- d'un logiciel de présentation multimédia, d'un séquenceur et d'un éditeur de partition ;
 
-― d'un exemplaire du programme d'éducation musicale pour le collège.
+- d'un exemplaire du programme d'éducation musicale pour le collège.
 
 Durant l'épreuve, le candidat dispose :
 
-― d'un piano acoustique ;
+- d'un piano acoustique ;
 
-― d'un clavier électronique MIDI ;
+- d'un clavier électronique MIDI ;
 
-― d'un ordinateur multimédia disposant des mêmes logiciels ;
+- d'un ordinateur multimédia disposant des mêmes logiciels ;
 
-― d'un système de diffusion audio ;
+- d'un système de diffusion audio ;
 
-― d'un système de vidéo projection.
+- d'un système de vidéoprojection.
 
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : cinq heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde (durée de la préparation : cinq heures ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : conception et réalisation d'un projet musical. (Présentation n'excédant pas trente minutes ; entretien avec le jury : dix minutes.)
+Première partie : conception et réalisation d'un projet musical (présentation n'excédant pas trente minutes ; entretien avec le jury : dix minutes).
 
-Le sujet présente la partition d'une pièce vocale avec son harmonisation simplifiée. Sur cette base, et durant la préparation, le candidat conçoit un projet musical permettant d'atteindre les objectifs spécifiques fixés par le programme du collège.
+Le sujet présente la partition au format papier d'une pièce vocale avec accompagnement. Ce dernier peut être un chiffrage harmonique anglosaxon, une basse chiffrée, une partie de piano réalisée, un ensemble de parties instrumentales ou encore plusieurs lignes vocales formant une polyphonie. Cette partition est accompagnée d'un fichier MIDI reprenant la ligne vocale principale. Sur cette base, et durant la préparation, le candidat conçoit un projet musical permettant d'atteindre les objectifs spécifiques fixés par le programme du collège.
 
-Durant cette partie de l'épreuve, le candidat réalise différents moments significatifs de son projet, dont, au moins, un passage arrangé pour deux voix égales et accompagnement. Il dispose pour cela d'un petit ensemble vocal, d'un piano acoustique et du même matériel que celui disponible durant la préparation.
+Durant cette partie de l'épreuve, le candidat réalise différents moments significatifs de son projet, dont, au moins, un passage original arrangé pour deux voix égales et accompagnement. Il dispose pour cela d'un petit ensemble vocal, d'un piano acoustique et du même matériel que celui disponible durant la préparation.
 
-Cette réalisation est suivie d'un entretien avec le jury, portant notamment sur les choix techniques et esthétiques effectués, comme sur les références culturelles (œuvres, styles, périodes historiques, etc.) du projet musical élaboré.
+Cette réalisation est suivie d'un entretien avec le jury, portant notamment sur les choix techniques et esthétiques effectués comme sur les références culturelles (œuvres, styles, périodes historiques, etc.) du projet musical élaboré.
 
 Durant la préparation, le candidat dispose :
 
-― d'un clavier électronique MIDI ;
+- d'un clavier électronique MIDI ;
 
-― d'un ordinateur multimédia équipé d'un logiciel de présentation, d'un séquenceur, d'un éditeur de partition et d'un éditeur audionumérique ;
+- d'un ordinateur multimédia équipé d'un logiciel de présentation, d'un séquenceur, d'un éditeur de partition et d'un éditeur audionumérique ;
 
-― d'un exemplaire du programme d'éducation musicale pour le collège ;
+- d'un exemplaire du programme d'éducation musicale pour le collège.
 
 La partition est transmise en format numérique (MIDI).
 
-Les différents documents du sujet lui sont transmis en format numérique (MIDI pour la partition).
+Seconde partie : interrogation portant sur la compétence "Agir en fonctionnaire de l'Etat et de façon éthique et responsable" (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable. (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document inclus dans le dossier qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document inclus dans le dossier qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010 susvisé.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
