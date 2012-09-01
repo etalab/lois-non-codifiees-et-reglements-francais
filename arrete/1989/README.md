@@ -133,8 +133,6 @@
 - [Arrêté du 9 février 1989 (SPSS8900266A)](arrete-du-9-fevrier-1989-spss8900266a)
 - [Arrêté du 9 janvier 1989 (JUSC8820935A)](arrete-du-9-janvier-1989-jusc8820935a)
 - [Arrêté du 9 janvier 1989 (SPSS8900065A)](arrete-du-9-janvier-1989-spss8900065a)
-- [Arrêté du 9 juin 1989 (ECOS8810004A)](arrete-du-9-juin-1989-ecos8810004a)
-- [Arrêté du 9 juin 1989 (ECOS8810005A)](arrete-du-9-juin-1989-ecos8810005a)
 - [Arrêté du 9 juin 1989 (EQUA8900695A)](arrete-du-9-juin-1989-equa8900695a)
 - [Arrêté du 9 mars 1989 (SPSP8900485A)](arrete-du-9-mars-1989-spsp8900485a)
 - [Arrêté du 9 mars 1989 (SPSS8900499A)](arrete-du-9-mars-1989-spss8900499a)
