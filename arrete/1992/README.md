@@ -579,7 +579,6 @@
 - [Arrêté du 18 juillet 1992 (EQUA9201121A)](arrete-du-18-juillet-1992-equa9201121a)
 - [Arrêté du 18 juin 1992 (SPSS9201889A)](arrete-du-18-juin-1992-spss9201889a)
 - [Arrêté du 18 mars 1992 (ECOT9210145A)](arrete-du-18-mars-1992-ecot9210145a)
-- [Arrêté du 18 mars 1992 (MENZ9200733A)](arrete-du-18-mars-1992-menz9200733a)
 - [Arrêté du 18 mars 1992 (PTTS9200147A)](arrete-du-18-mars-1992-ptts9200147a)
 - [Arrêté du 18 mars 1992 (SANP9200773A)](arrete-du-18-mars-1992-sanp9200773a)
 - [Arrêté du 18 mars 1992 (TEFC9204536A)](arrete-du-18-mars-1992-tefc9204536a)
