@@ -500,7 +500,6 @@
 - [Décret n°2004-839 du 20 août 2004 (DEFP0400825D)](decret-n2004-839-du-20-aout-2004-defp0400825d)
 - [Décret n°2004-840 du 20 août 2004 (MCCB0400511D)](decret-n2004-840-du-20-aout-2004-mccb0400511d)
 - [Décret n°2004-841 du 20 août 2004 (DOMB0400027D)](decret-n2004-841-du-20-aout-2004-domb0400027d)
-- [Décret n°2004-842 du 20 août 2004 (ECOP0400278D)](decret-n2004-842-du-20-aout-2004-ecop0400278d)
 - [Décret n°2004-843 du 20 août 2004 (ECOP0400279D)](decret-n2004-843-du-20-aout-2004-ecop0400279d)
 - [Décret n°2004-844 du 20 août 2004 (ECOF0400035D)](decret-n2004-844-du-20-aout-2004-ecof0400035d)
 - [Décret n°2004-869 du 20 août 2004 (MENS0401774D)](decret-n2004-869-du-20-aout-2004-mens0401774d)
