@@ -3,7 +3,4 @@
 - [Section I : Dispositions générales](section-i)
 - [Section II : Le jury](section-ii)
 - [Section III : Les stages](section-iii)
-- [Section IV : Première phase](section-iv-premiere)
-- [Section V : Deuxième phase](section-v-deuxieme)
-- [Section VI : Le mémoire](section-vi)
 - [Section VII : Commission d'attribution des crédits](section-vii)
