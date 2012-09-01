@@ -1,3 +1,3 @@
 # Article 27
 
-Lorsqu'il est dressé sur support électronique, le second original peut être transmis par voie de communication électronique, dans des conditions garantissant sa confidentialité, l'intégrité de l'acte, l'identité de l'expéditeur et celle du destinataire.
+Lorsqu'elle est dressée sur support électronique, l'expédition est transmise par voie électronique. La transmission par voie électronique est faite dans des conditions garantissant sa confidentialité, son intégrité, l'identité de l'expéditeur et celle du destinataire à moins que la partie ou son représentant n'en demande une édition sur support papier.

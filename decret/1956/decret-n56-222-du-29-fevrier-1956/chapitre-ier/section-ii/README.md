@@ -4,5 +4,5 @@
 - [Paragraphe II : Service d'audience.](paragraphe-ii)
 - [Paragraphe III : Obligations professionnelles.](paragraphe-iii)
 - [Paragraphe IV : Activités professionnelles sans monopoles et activités accessoires.](paragraphe-iv)
-- [Paragraphe V : Actes en double original.](paragraphe-v)
+- [Paragraphe V : Actes et expéditions.](paragraphe-v)
 - [Paragraphe VI : Comptabilité.](paragraphe-vi)

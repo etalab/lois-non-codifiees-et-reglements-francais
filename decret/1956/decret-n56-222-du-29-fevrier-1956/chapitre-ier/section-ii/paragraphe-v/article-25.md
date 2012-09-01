@@ -1,3 +1,3 @@
 # Article 25
 
-Les diverses mentions portées sur le premier original doivent être reproduites par l'huissier de justice sur le second original.
+L'huissier de justice dépositaire de l'original délivre sans frais à la partie ou à son représentant une copie certifiée conforme à l'original portant la mention "expédition".
