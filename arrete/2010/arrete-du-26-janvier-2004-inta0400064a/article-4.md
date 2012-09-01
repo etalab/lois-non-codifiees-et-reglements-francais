@@ -14,8 +14,6 @@ Le secrétaire général dirige les activités des directions et de la délégat
 
 6. La délégation à l'information et à la communication ;
 
-7. La mission "titres sécurisés" ;
-
-8. La mission "prévention et lutte contre la fraude documentaire".
+7. La mission " délivrance sécurisée des titres ".
 
 Il dispose de la délégation aux affaires internationales et européennes.
