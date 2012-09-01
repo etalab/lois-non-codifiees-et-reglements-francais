@@ -69,7 +69,6 @@
 - [Décret n°2001-1146 du 3 décembre 2001 (EQUP0101555D)](decret-n2001-1146-du-3-decembre-2001-equp0101555d)
 - [Décret n°2003-1044 du 3 novembre 2003 (BUDB0350065D)](decret-n2003-1044-du-3-novembre-2003-budb0350065d)
 - [Décret n°2003-1048 du 3 novembre 2003 (ECOC0300076D)](decret-n2003-1048-du-3-novembre-2003-ecoc0300076d)
-- [Décret n°2003-1060 du 3 novembre 2003 (AGRP0301814D)](decret-n2003-1060-du-3-novembre-2003-agrp0301814d)
 - [Décret n°2003-175 du 3 mars 2003 (ECOP0200522D)](decret-n2003-175-du-3-mars-2003-ecop0200522d)
 - [Décret n°2003-176 du 3 mars 2003 (ECOP0200524D)](decret-n2003-176-du-3-mars-2003-ecop0200524d)
 - [Décret n°2003-177 du 3 mars 2003 (ECOP0200587D)](decret-n2003-177-du-3-mars-2003-ecop0200587d)

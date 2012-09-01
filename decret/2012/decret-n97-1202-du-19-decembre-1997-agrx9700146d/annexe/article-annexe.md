@@ -430,14 +430,6 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Délivrance des certificats d'importation, d'exportation ou de préfixation, à l'exception de ceux délivrés en Guadeloupe, en Guyane, en Martinique et à La Réunion. </p>
-</td>
-<td valign="top" width="302">
-<p>Règlement (CE) n° 1291/2000 de la Commission du 9 juin 2000 portant modalités communes d'application du régime des certificats d'importation, d'exportation et de préfixation pour les produits agricoles. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
 <p>Agrément des programmes d'amélioration génétique. </p>
 </td>
 <td valign="top" width="302">
