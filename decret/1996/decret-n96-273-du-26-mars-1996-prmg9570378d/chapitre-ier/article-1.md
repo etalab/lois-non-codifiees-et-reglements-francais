@@ -1,6 +1,6 @@
 # Article 1
 
-Sont créés les corps de techniciens de laboratoire des établissements d'enseignement agricole, de techniciens de laboratoire des écoles nationales des mines, de techniciens de laboratoire de l'Agence française de sécurité sanitaire des produits de santé.
+Sont créés les corps de techniciens de laboratoire des établissements d'enseignement agricole et de techniciens de laboratoire de l'Agence française de sécurité sanitaire des produits de santé.
 
 Ces corps sont soumis aux dispositions du décret du 18 novembre 1994 susvisé et aux dispositions du présent décret.
 

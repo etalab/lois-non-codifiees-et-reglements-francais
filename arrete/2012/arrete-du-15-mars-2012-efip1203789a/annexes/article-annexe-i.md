@@ -14,7 +14,7 @@ Corps des maîtres-assistants des écoles des mines (1).
 
 Corps des professeurs des écoles des mines (1).
 
-Corps des techniciens de laboratoire des écoles nationales des mines.
+Corps des       techniciens de laboratoire des écoles nationales supérieures des mines .
 
 Corps des personnels de maîtrise de l'Imprimerie nationale (2).
 

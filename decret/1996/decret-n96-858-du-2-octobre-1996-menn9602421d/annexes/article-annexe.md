@@ -96,11 +96,11 @@ Corps de fonctionnaires
 
 -professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007 ;
 
--techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié ;
+-techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 2012-1002 du 29 août 2012 ;
 
 -ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967 ;
 
--fonctionnaires de l'Etat détachés sur des emplois de l' Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
+-fonctionnaires de l'Etat détachés sur des emplois de l'Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 Agents non titulaires
 

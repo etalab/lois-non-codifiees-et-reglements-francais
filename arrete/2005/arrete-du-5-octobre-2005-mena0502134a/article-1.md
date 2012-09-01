@@ -18,7 +18,7 @@ b) Infirmières et infirmiers du ministère chargé de l'éducation nationale r�
 
 c) Assistants de service social du ministère chargé de l'éducation nationale régis par le décret n° 91-783 du 1er août 1991.
 
-d) Techniciens de laboratoire des établissements d'enseignement du ministère chargé de l'éducation nationale régis par le décret n° 96-273 du 26 mars 1996.
+d) Techniciens de laboratoire des établissements d'enseignement du ministère chargé de l'éducation nationale régis par le décret n° 2012-1002 du 29 août 2012.
 
 e) Techniciens de l'éducation nationale régis par le décret n° 91-462 du 14 mai 1991.
 

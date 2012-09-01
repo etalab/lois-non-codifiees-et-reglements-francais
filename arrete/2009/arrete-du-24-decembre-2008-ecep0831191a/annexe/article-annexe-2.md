@@ -12,7 +12,7 @@
 
 -corps des secrétaires administratifs du ministère de l'économie, des finances et de l'industrie, régi par le décret n° 94-1017 du 18 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues ;
 
--le corps des techniciens de laboratoire des écoles nationales des mines, régi par le         décret n° 2012-379 du 19 mars 2012 portant statut particulier des techniciens de laboratoire relevant des ministres chargés de l'économie et du budget ;
+-le corps des       techniciens de laboratoire des écoles nationales supérieures des mines , régi par le décret n° 2012-379 du 19 mars 2012 portant statut particulier des techniciens de laboratoire relevant des ministres chargés de l'économie et du budget ;
 
 -corps des dessinateurs projeteurs du ministère des finances, régi par le décret n° 61-1145 du 13 octobre 1961 portant statut particulier du corps des dessinateurs projeteurs du ministère des finances ;
 
