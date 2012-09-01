@@ -1788,7 +1788,6 @@
 - [Arrêté du 20 décembre 2010 (AGRG1032927A)](arrete-du-20-decembre-2010-agrg1032927a)
 - [Arrêté du 20 décembre 2010 (AGRT1032648A)](arrete-du-20-decembre-2010-agrt1032648a)
 - [Arrêté du 20 décembre 2010 (DEVA1031042A)](arrete-du-20-decembre-2010-deva1031042a)
-- [Arrêté du 20 décembre 2010 (ETSS1031131A)](arrete-du-20-decembre-2010-etss1031131a)
 - [Arrêté du 20 décembre 2010 (IOCA1033149A)](arrete-du-20-decembre-2010-ioca1033149a)
 - [Arrêté du 20 décembre 2010 (IOCA1033150A)](arrete-du-20-decembre-2010-ioca1033150a)
 - [Arrêté du 20 décembre 2010 (IOCA1033234A)](arrete-du-20-decembre-2010-ioca1033234a)
