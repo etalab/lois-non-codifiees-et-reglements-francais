@@ -498,106 +498,6 @@ Les éléments constitutifs du dossier sont précisés par note publiée sur le 
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
 
-Section mécanique
-
-Section génie mécanique
-
-A. - Epreuves écrites d'admissibilité
-
-1° Première épreuve :
-
-Durée maximale : huit heures.
-
-Coefficient 1.
-
-L'épreuve, qui prend appui sur un système industriel défini par une documentation technique, s'organise en deux parties :
-
-La première permet d'évaluer les capacités du candidat à utiliser ses connaissances scientifiques et techniques pour expliciter ou valider les solutions retenues ;
-
-La seconde permet d'évaluer les capacités du candidat à utiliser le support proposé pour élaborer un exercice permettant l'évaluation des connaissances et méthodes acquises par les élèves.
-
-Le candidat doit situer l'exercice dans un processus d'apprentissage et par rapport aux autres enseignements scientifiques ou techniques qui lui sont associés.
-
-2° Deuxième épreuve :
-
-Durée maximale : six heures.
-
-Coefficient 1.
-
-L'épreuve porte sur l'étude d'un problème d'automatisation.
-
-Elle permet d'évaluer les capacités du candidat :
-
-A mobiliser ses connaissances en automatique et en informatique industrielles pour analyser et résoudre un problème d'automatisation ;
-
-A proposer, pour certains points clés mis en évidence lors de l'étude, la ressource méthodologique et les techniques pédagogiques nécessaires à l'enseignement à un niveau de formation déterminé.
-
-B. - Epreuves orales d'admission
-
-1° Première épreuve :
-
-Durée : une heure.
-
-Coefficient 1.
-
-L'épreuve consiste en la présentation et la soutenance par le candidat d'un dossier original relatif à un projet qu'il a conduit dans le cadre de la discipline dans laquelle il enseigne.
-
-Le thème du projet est pris dans les programmes des enseignements technologiques de la spécialité donnés dans les classes terminales de lycée ou dans les classes post-baccalauréat.
-
-Le projet doit mettre en valeur :
-
-D'une part, la dimension technologique du thème dans ses composantes scientifiques, techniques et aussi économiques, sociales et humaines ;
-
-D'autre part, les aspects pédagogiques en relation avec le niveau d'enseignement retenu.
-
-Le candidat dispose de trente minutes pour présenter :
-
-Les raisons qui l'ont conduit au choix du thème ;
-
-Les réalisations (documents, matériels, logiciels...) relatives aux aspects techniques et pédagogiques du projet ;
-
-Les objectifs pédagogiques retenus, leur opérationnalisation, notamment les modes et critères d'évaluation retenus ;
-
-Les documents d'enseignement établis.
-
-Le jury, au cours de l'entretien de trente minutes qui suit l'exposé, peut :
-
-Faire approfondir certains points du projet ;
-
-Demander des précisions sur les solutions techniques adoptées ;
-
-Faire expliciter certains aspects de la démarche pédagogique.
-
-Le jury apprécie :
-
-La valeur industrielle, technique et économique du thème retenu ;
-
-La qualité du travail effectué ;
-
-Les connaissances scientifiques et techniques du candidat ;
-
-La maîtrise de la didactique de la discipline, des méthodes et moyens d'enseignement ;
-
-La connaissance de l'environnement du système technique support du thème ;
-
-Les qualités d'expression et de communication du candidat.
-
-2° Deuxième épreuve :
-
-Durée maximale : huit heures.
-
-Coefficient 1.
-
-Cette épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence à caractère expérimental, élément d'un processus d'apprentissage.
-
-Elle permet d'évaluer les capacités du candidat à :
-
-Proposer et justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ;
-
-Réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
-
-Le programme du concours est défini par référence aux programmes des BTS et DUT de la spécialité.
-
 Section biochimie - génie biologique
 
 A. - Epreuves écrites d'admissibilité
@@ -764,9 +664,9 @@ Entretien : le candidat, au cours de l'entretien, sera invité à justifier ses 
 
 Durée de préparation : cinq heures.
 
-Durée de l'exposé : quarante-cinq minutes.
+Durée de l'exposé : trente minutes.
 
-Durée de l'entretien : quarante-cinq minutes.
+Durée de l'entretien : soixante minutes.
 
 Coefficient 4.
 
@@ -776,4 +676,4 @@ Réalisation par le candidat d'une prestation physique dans une activité physiq
 
 Cette prestation est suivie d'un entretien avec le jury. L'entretien porte sur les aspects techniques et didactiques de l'activité choisie par le candidat et peut être étendu à des activités permettant de répondre à des objectifs éducatifs d'un même type.
 
-L'épreuve est appréciée pour moitié sur la prestation physique et pour moitié sur les qualités manifestées par le candidat lors de l'entretien (durée de l'entretien : quarante-cinq minutes ; coefficient 2).
+L'épreuve est appréciée pour moitié sur la prestation physique et pour moitié sur les qualités manifestées par le candidat lors de l'entretien (durée de la prestation physique : trente minutes ; durée de l'entretien : quarante-cinq minutes ; coefficient 2).
