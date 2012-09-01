@@ -12,11 +12,11 @@ A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 5° Délégué à la communication ;
 
-6° Chef de service et adjoint à un directeur général ou à un directeur ou à un délégué, directeur de l'Ecole supérieure de l'éducation nationale et directeur du pôle de contractualisation et de financement des établissements de formation et de recherche ;
+6° Chef de service et adjoint à un directeur général ou à un directeur ou à un délégué, directeur de l'Ecole supérieure de l'éducation nationale, de l'enseignement supérieur et de la recherche et directeur du pôle de contractualisation et de financement des établissements de formation et de recherche ;
 
 7° Sous-directeur ;
 
-8° Responsable de la mission scientifique, technique et pédagogique ;
+8° (Supprimé)
 
 9° Expert de haut niveau ou directeur de projet.
 
