@@ -4,5 +4,4 @@
 - [Conditions de validité](conditions-de-validite)
 - [Délivrance des titres](delivrance-des-titres)
 - [Demande de permis de conduire](demande-de-permis-de-conduire)
-- [Examens médicaux](examens-medicaux)
 - [Examens techniques](examens-techniques)
