@@ -497,7 +497,6 @@
 - [Arrêté du 19 mai 2004 (DEVP0430135A)](arrete-du-19-mai-2004-devp0430135a)
 - [Arrêté du 19 mai 2004 (SANG0421373A)](arrete-du-19-mai-2004-sang0421373a)
 - [Arrêté du 20 août 2004 (DOMB0400034A)](arrete-du-20-aout-2004-domb0400034a)
-- [Arrêté du 20 août 2004 (ECOP0400280A)](arrete-du-20-aout-2004-ecop0400280a)
 - [Arrêté du 20 avril 2004 (SPRK0470025A)](arrete-du-20-avril-2004-sprk0470025a)
 - [Arrêté du 20 décembre 2004 (MENA0402628A)](arrete-du-20-decembre-2004-mena0402628a)
 - [Arrêté du 20 décembre 2004 (MENS0402676A)](arrete-du-20-decembre-2004-mens0402676a)
