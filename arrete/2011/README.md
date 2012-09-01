@@ -2273,7 +2273,6 @@
 - [Arrêté du 25 août 2011 (AGRG1121044A)](arrete-du-25-aout-2011-agrg1121044a)
 - [Arrêté du 25 août 2011 (DEVA1123563A)](arrete-du-25-aout-2011-deva1123563a)
 - [Arrêté du 25 août 2011 (ESRS1116743A)](arrete-du-25-aout-2011-esrs1116743a)
-- [Arrêté du 25 août 2011 (ESRS1116748A)](arrete-du-25-aout-2011-esrs1116748a)
 - [Arrêté du 25 août 2011 (ETSO1119575A)](arrete-du-25-aout-2011-etso1119575a)
 - [Arrêté du 25 août 2011 (IOCC1122837A)](arrete-du-25-aout-2011-iocc1122837a)
 - [Arrêté du 25 août 2011 (JUST1123720A)](arrete-du-25-aout-2011-just1123720a)
