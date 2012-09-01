@@ -666,7 +666,6 @@
 - [Arrêté du 21 février 2007 (DEFF0700248A)](arrete-du-21-fevrier-2007-deff0700248a)
 - [Arrêté du 21 février 2007 (ECOP0700040A)](arrete-du-21-fevrier-2007-ecop0700040a)
 - [Arrêté du 21 février 2007 (INTA0700052A)](arrete-du-21-fevrier-2007-inta0700052a)
-- [Arrêté du 21 juin 2007 (AGRE0754854A)](arrete-du-21-juin-2007-agre0754854a)
 - [Arrêté du 21 juin 2007 (IOCB0753006A)](arrete-du-21-juin-2007-iocb0753006a)
 - [Arrêté du 21 juin 2007 (IOCB0753010A)](arrete-du-21-juin-2007-iocb0753010a)
 - [Arrêté du 21 juin 2007 (MCCB0758409A)](arrete-du-21-juin-2007-mccb0758409a)
