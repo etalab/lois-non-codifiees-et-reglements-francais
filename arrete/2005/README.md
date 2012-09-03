@@ -492,7 +492,6 @@
 - [Arrêté du 25 janvier 2005 (SANH0520299A)](arrete-du-25-janvier-2005-sanh0520299a)
 - [Arrêté du 25 juillet 2005 (DEFP0501059A)](arrete-du-25-juillet-2005-defp0501059a)
 - [Arrêté du 25 juillet 2005 (MENE0501609A)](arrete-du-25-juillet-2005-mene0501609a)
-- [Arrêté du 25 juillet 2005 (MENE0501611A)](arrete-du-25-juillet-2005-mene0501611a)
 - [Arrêté du 25 juillet 2005 (MENR0501614A)](arrete-du-25-juillet-2005-menr0501614a)
 - [Arrêté du 25 juillet 2005 (SANG0522300A)](arrete-du-25-juillet-2005-sang0522300a)
 - [Arrêté du 25 juillet 2005 (SANS0522777A)](arrete-du-25-juillet-2005-sans0522777a)
