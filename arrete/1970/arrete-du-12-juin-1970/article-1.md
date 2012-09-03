@@ -2586,19 +2586,19 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Saône (Haute-)</p>
+<p>Haute-Saône</p>
 </td>
 <td valign="top" width="132">
-<p>Vesoul</p>
+<p>Vesoul 1er bureau</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons d'Amance, Combeaufontaine, Jussey, Montbozon, Noroy-le-Bourg, Port-sur-Saône, Rioz, Scey-sur-Saône (à l'exception de la commune de Vy-Rupt), Vesoul-Est, Vesoul-Ouest, Vitrey-sur-Mance.</p>
+<p>Cantons d'Amance, Combeaufontaine, Jussey, Montbozon, Noroy-le-Bourg, Port-sur-Saône, Rioz, Scey-sur-Saône (à l'exception de la commune de Vy-lès-Rupt), Vesoul-Est, Vesoul-Ouest, Vitrey-sur-Mance.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Gray</p>
+<p>Vesoul 2e bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons d'Autrey-lès-Gray, Champlitte, Dampierre-sur-Salon, Fresnes-Saint-Mamès, Gray, Gy, Marnay, Pesmes, commune de Vy-lès-Rupt.</p>
@@ -2610,7 +2610,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Lure</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint- Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers, Villersexel.</p>
+<p>Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers, Villersexel.</p>
 </td>
 </tr>
 <tr>
