@@ -672,6 +672,7 @@
 - [Arrêté du 12 juillet 2007 (SJSF0761338A)](arrete-du-12-juillet-2007-sjsf0761338a)
 - [Arrêté du 12 juillet 2007 (SJSF0761346A)](arrete-du-12-juillet-2007-sjsf0761346a)
 - [Arrêté du 12 juillet 2007 (SJSF0761369A)](arrete-du-12-juillet-2007-sjsf0761369a)
+- [Arrêté du 12 juillet 2011 (MENE1119473A)](arrete-du-12-juillet-2011-mene1119473a)
 - [Arrêté du 12 juillet 2012 (AGRE1228899A)](arrete-du-12-juillet-2012-agre1228899a)
 - [Arrêté du 12 juillet 2012 (BUDB1228760A)](arrete-du-12-juillet-2012-budb1228760a)
 - [Arrêté du 12 juillet 2012 (BUDB1228761A)](arrete-du-12-juillet-2012-budb1228761a)
