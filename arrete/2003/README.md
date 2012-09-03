@@ -413,7 +413,6 @@
 - [Arrêté du 15 juillet 2003 (BUDL0300103A)](arrete-du-15-juillet-2003-budl0300103a)
 - [Arrêté du 15 juillet 2003 (ECOC0300053A)](arrete-du-15-juillet-2003-ecoc0300053a)
 - [Arrêté du 15 juillet 2003 (MENE0301475A)](arrete-du-15-juillet-2003-mene0301475a)
-- [Arrêté du 15 juillet 2003 (MENE0301522A)](arrete-du-15-juillet-2003-mene0301522a)
 - [Arrêté du 15 juillet 2003 (MENE0301537A)](arrete-du-15-juillet-2003-mene0301537a)
 - [Arrêté du 15 juillet 2003 (MENE0301538A)](arrete-du-15-juillet-2003-mene0301538a)
 - [Arrêté du 15 juillet 2003 (MENE0301539A)](arrete-du-15-juillet-2003-mene0301539a)
