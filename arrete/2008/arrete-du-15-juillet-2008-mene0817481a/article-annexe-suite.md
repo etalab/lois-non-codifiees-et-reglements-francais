@@ -38,8 +38,8 @@ A l'issue de la cinquième, chaque élève est capable d'identifier les valeurs 
 </tr>
 <tr>
 <td>
-<p>Même s'il existe des différences entre les individus et une grande diversité culturelle entre les groupes humains, nous appartenons à la même humanité. <br/>
-<br/>Assimiler les différences de cultures à des différences de nature conduit à la discrimination et au racisme.</p>
+<p>Même s'il existe des différences entre les individus et une grande diversité culturelle entre les groupes humains, nous appartenons à la même humanité. </p>
+<p>Assimiler les différences de cultures à des différences de nature conduit à la discrimination et au racisme.</p>
 </td>
 <td>
 <p>L'étude d'un exemple de discrimination et de racisme appuyé sur un texte littéraire ou un fait d'actualité permet de les définir et de montrer leurs conséquences pour ceux qui en sont victimes.</p>
@@ -60,8 +60,8 @@ A l'issue de la cinquième, chaque élève est capable d'identifier les valeurs 
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCE <br/>
-<br/>- Déclaration des Droits de l'Homme et du Citoyen (art. 1) <br/>- Déclaration Universelle des Droits de l'Homme (art. 2, 3) <br/>- Loi no 72-546 du 1er juillet 1972 dite Loi Pléven (art. 1 à 3) <br/>- Extraits de la loi no 2003-516 du 18 juin 2003 relative à la dévolution du nom de famille <br/>- Code Pénal (art. 225-1, 225-2) <br/>- Code Civil (art. 60, 61)</p>
+<p>DOCUMENTS DE RÉFÉRENCE </p>
+<p>- Déclaration des Droits de l'Homme et du Citoyen (art. 1) <br/>- Déclaration Universelle des Droits de l'Homme (art. 2, 3) <br/>- Loi no 72-546 du 1er juillet 1972 dite Loi Pléven (art. 1 à 3) <br/>- Extraits de la loi no 2003-516 du 18 juin 2003 relative à la dévolution du nom de famille <br/>- Code Pénal (art. 225-1, 225-2) <br/>- Code Civil (art. 60, 61)</p>
 </td>
 </tr>
 <tr>
@@ -105,8 +105,8 @@ A l'issue de la cinquième, chaque élève est capable d'identifier les valeurs 
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCES <br/>
-<br/>- Déclaration des Droits de l'Homme et du Citoyen (art. 1) <br/>- Préambule de la constitution de 1946 (alinéas 3, 10 et 11) <br/>- Déclaration Universelle des Droits de l'Homme (art. 1 et 7) <br/>- Loi no 2000-493 du 06 juin 2000 sur la parité politique <br/>- Code civil (Art 311-21 -1 et 311- 23)</p>
+<p>DOCUMENTS DE RÉFÉRENCES </p>
+<p>- Déclaration des Droits de l'Homme et du Citoyen (art. 1) <br/>- Préambule de la constitution de 1946 (alinéas 3, 10 et 11) <br/>- Déclaration Universelle des Droits de l'Homme (art. 1 et 7) <br/>- Loi no 2000-493 du 06 juin 2000 sur la parité politique <br/>- Code civil (Art 311-21 -1 et 311- 23)</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +124,8 @@ A l'issue de la cinquième, chaque élève est capable d'identifier les valeurs 
 </tr>
 <tr>
 <td>
-<p>La notion de risque majeur est étudiée en liaison avec le programme de géographie. <br/>
-<br/>L'État et les collectivités territoriales organisent la protection contre les risques majeurs et assurent la sécurité sur le territoire national. <br/>La sécurité collective requiert la participation de chacun.</p>
+<p>La notion de risque majeur est étudiée en liaison avec le programme de géographie. </p>
+<p>L'État et les collectivités territoriales organisent la protection contre les risques majeurs et assurent la sécurité sur le territoire national. <br/>La sécurité collective requiert la participation de chacun.</p>
 </td>
 <td>
 <p>Dans le cadre du collège, l'élève est initié aux règles essentielles de sécurité, en fonction des risques liés à sa localisation. D'autres exemples précis pris dans l'actualité, sur le territoire national et dans le monde complètent l'étude.</p>
@@ -133,8 +133,8 @@ A l'issue de la cinquième, chaque élève est capable d'identifier les valeurs 
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCES <br/>
-<br/>- Les plans de prévention des risques</p>
+<p>DOCUMENTS DE RÉFÉRENCES </p>
+<p>- Les plans de prévention des risques</p>
 </td>
 </tr>
 <tr>
@@ -152,8 +152,8 @@ A l'issue de la cinquième, chaque élève est capable d'identifier les valeurs 
 </tr>
 <tr>
 <td colspan="2">
-<p>Les élèves découvrent ce qu'est une action collective à finalité de solidarité, par une étude de cas ou par la mise en œuvre d'un projet, par exemple dans le cadre du développement durable. <br/>L'investissement personnel passe par une prise de contact avec des acteurs associatifs, des relais extérieurs impliqués dans des actions concrètes. <br/>
-<br/>L'objectif est d'initier les élèves à la prise de responsabilité dans un groupe, pratiquer l'échange d'idées et leur mise en application concrète par des démarches adéquates autour de thèmes adaptés à l'environnement des élèves.</p>
+<p>Les élèves découvrent ce qu'est une action collective à finalité de solidarité, par une étude de cas ou par la mise en œuvre d'un projet, par exemple dans le cadre du développement durable. <br/>L'investissement personnel passe par une prise de contact avec des acteurs associatifs, des relais extérieurs impliqués dans des actions concrètes. </p>
+<p>L'objectif est d'initier les élèves à la prise de responsabilité dans un groupe, pratiquer l'échange d'idées et leur mise en application concrète par des démarches adéquates autour de thèmes adaptés à l'environnement des élèves.</p>
 </td>
 </tr>
 </tbody>
@@ -184,14 +184,14 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td>
-<p>Ce thème ne fait pas l'objet d'un enseignement isolé ; le professeur choisit un itinéraire composé d'au moins une œuvre et/ou un artiste significatif pour chacune des parties du programme. <br/>Les dimensions sensible, technique et esthétique, impliquent un travail conjoint avec les professeurs des autres disciplines concernées. <br/>
-<br/>EXEMPLES D'OEUVRES OU D'ARTISTES (la liste n'est ni impérative, ni limitative) <br/>Des tableaux de Canaletto, Vernet, Vigée-Lebrun, Goya, David, Delacroix, Ingres, Monet, Meyssonnier (Siège de Paris), des portraits des rois de France... <br/>Des sculptures de Puget, Pigalle, Carpeaux, Bartholdi, Rodin, Camille Claudel... <br/>Des photos et les premiers films de Nadar, des Frères Lumière... <br/>Des œuvres d'architecture et d'urbanisme : Le Petit Trianon à Versailles, la Place de la Concorde de Ange-Jacques Gabriel, l'Opéra Garnier à Paris, le Paris d'Haussmann, le Vittoriano à Rome, le quartier wilhelmien de Strasbourg ou Metz, l'œuvre de Gustave Eiffel... <br/>Des extraits d'œuvres littéraires de Beaumarchais, Goethe, Germaine de Staël, Balzac, George Sand, Flaubert, Zola... <br/>Des extraits d'œuvres de compositeurs : Vivaldi, Mozart, Beethoven, Schubert, Verdi, Wagner...</p>
+<p>Ce thème ne fait pas l'objet d'un enseignement isolé ; le professeur choisit un itinéraire composé d'au moins une œuvre et/ou un artiste significatif pour chacune des parties du programme. <br/>Les dimensions sensible, technique et esthétique, impliquent un travail conjoint avec les professeurs des autres disciplines concernées. </p>
+<p>EXEMPLES D'OEUVRES OU D'ARTISTES (la liste n'est ni impérative, ni limitative) <br/>Des tableaux de Canaletto, Vernet, Vigée-Lebrun, Goya, David, Delacroix, Ingres, Monet, Meyssonnier (Siège de Paris), des portraits des rois de France... <br/>Des sculptures de Puget, Pigalle, Carpeaux, Bartholdi, Rodin, Camille Claudel... <br/>Des photos et les premiers films de Nadar, des Frères Lumière... <br/>Des œuvres d'architecture et d'urbanisme : Le Petit Trianon à Versailles, la Place de la Concorde de Ange-Jacques Gabriel, l'Opéra Garnier à Paris, le Paris d'Haussmann, le Vittoriano à Rome, le quartier wilhelmien de Strasbourg ou Metz, l'œuvre de Gustave Eiffel... <br/>Des extraits d'œuvres littéraires de Beaumarchais, Goethe, Germaine de Staël, Balzac, George Sand, Flaubert, Zola... <br/>Des extraits d'œuvres de compositeurs : Vivaldi, Mozart, Beethoven, Schubert, Verdi, Wagner...</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>CAPACITÉS <br/>
-<br/>- identifier la nature de l'œuvre <br/>- situer l'œuvre dans le temps et dans son contexte et en expliquer l'intérêt historique <br/>- décrire l'œuvre et en expliquer le sens <br/>- distinguer les dimensions artistiques et historiques de l'œuvre d'art</p>
+<p>CAPACITÉS </p>
+<p>- identifier la nature de l'œuvre <br/>- situer l'œuvre dans le temps et dans son contexte et en expliquer l'intérêt historique <br/>- décrire l'œuvre et en expliquer le sens <br/>- distinguer les dimensions artistiques et historiques de l'œuvre d'art</p>
 </td>
 </tr>
 </tbody>
@@ -229,8 +229,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants <br/>- Les grandes puissances politiques en Europe sur une carte de l'Europe au début du XVIIIe siècle <br/>- Leurs empires coloniaux sur une carte du monde au début du XVIIIe siècle <br/>- Quelques grandes routes maritimes</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants <br/>- Les grandes puissances politiques en Europe sur une carte de l'Europe au début du XVIIIe siècle <br/>- Leurs empires coloniaux sur une carte du monde au début du XVIIIe siècle <br/>- Quelques grandes routes maritimes</p>
 </td>
 </tr>
 <tr>
@@ -256,8 +256,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant <br/>- L'Encyclopédie, milieu du XVIIIe siècle <br/>Raconter quelques épisodes de la vie du philosophe ou du savant étudié, et expliquer en quoi ils sont révélateurs du siècle des Lumières</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant <br/>- L'Encyclopédie, milieu du XVIIIe siècle <br/>Raconter quelques épisodes de la vie du philosophe ou du savant étudié, et expliquer en quoi ils sont révélateurs du siècle des Lumières</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td>
-<p>La traite est un phénomène ancien en Afrique. Au XVIIIe siècle, la traite atlantique connaît un grand développement dans le cadre du commerce triangulaire  et de l'économie de plantation.</p>
+<p>La traite est un phénomène ancien en Afrique. Au XVIIIe siècle, la traite atlantique connaît un grand développement dans le cadre du commerce triangulaire et de l'économie de plantation.</p>
 </td>
 <td>
 <p>La traite atlantique est inscrite dans le contexte général des traites négrières. <br/>L'étude s'appuie sur un exemple de trajet de cette traite.</p>
@@ -283,8 +283,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Raconter la capture, le trajet, et le travail forcé d'un groupe d'esclaves</p>
+<p>CAPACITÉS </p>
+<p>Raconter la capture, le trajet, et le travail forcé d'un groupe d'esclaves</p>
 </td>
 </tr>
 <tr>
@@ -310,8 +310,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants <br/>- Le règne de Louis XVI : 1774 - 1792 <br/>- La Révolution américaine : 1776 - 1783 <br/>Décrire et expliquer les principales difficultés de la monarchie française à la veille de la Révolution et quelques unes des aspirations contenues dans les cahiers de doléances.</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants <br/>- Le règne de Louis XVI : 1774 - 1792 <br/>- La Révolution américaine : 1776 - 1783 <br/>Décrire et expliquer les principales difficultés de la monarchie française à la veille de la Révolution et quelques unes des aspirations contenues dans les cahiers de doléances.</p>
 </td>
 </tr>
 <tr>
@@ -342,8 +342,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS<br/>
-<br/>Connaître et utiliser les repères suivants <br/>- La Révolution française : 1789 - 1799. Prise de la Bastille : 14 juillet 1789 ; Déclaration des droits de l'homme et du citoyen : août 1789; proclamation de la République : septembre 1792 <br/>- Le Consulat et l'Empire : 1799 - 1815. Napoléon Ier, empereur des Français : 1804 Raconter quelques uns des événements retenus et expliquer leur importance</p>
+<p>CAPACITÉS</p>
+<p>Connaître et utiliser les repères suivants <br/>- La Révolution française : 1789 - 1799. Prise de la Bastille : 14 juillet 1789 ; Déclaration des droits de l'homme et du citoyen : août 1789; proclamation de la République : septembre 1792 <br/>- Le Consulat et l'Empire : 1799 - 1815. Napoléon Ier, empereur des Français : 1804 Raconter quelques uns des événements retenus et expliquer leur importance</p>
 </td>
 </tr>
 <tr>
@@ -369,8 +369,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Raconter des événements, des épisodes de la vie d'acteurs révolutionnaires (hommes et femmes), des prises de décision et expliquer leurs enjeux et leur importance historique</p>
+<p>CAPACITÉS </p>
+<p>Raconter des événements, des épisodes de la vie d'acteurs révolutionnaires (hommes et femmes), des prises de décision et expliquer leurs enjeux et leur importance historique</p>
 </td>
 </tr>
 <tr>
@@ -396,8 +396,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant <br/>- Congrès de Vienne : 1815 <br/>Décrire les grandes transformations sociales, politiques et territoriales issues de la période révolutionnaire en Europe</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant <br/>- Congrès de Vienne : 1815 <br/>Décrire les grandes transformations sociales, politiques et territoriales issues de la période révolutionnaire en Europe</p>
 </td>
 </tr>
 <tr>
@@ -423,14 +423,14 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 <p>Connaître et utiliser le repère suivant - Congrès de Vienne : 1815 Décrire les grandes transformations sociales, politiques et territoriales issues de la période révolutionnaire en Europe</p>
 </td>
 <td>
-<p>Une étude au choix parmi les suivantes : <br/>- Une ville industrielle au XIXe siècle. <br/>- Le chemin de fer au XIXe siècle. <br/>- Un entrepreneur et son entreprise au XIXe siècle. <br/>- Ouvriers et ouvrières à la Belle Époque. <br/>
-<br/>Cette étude est replacée dans le cadre de l'ensemble des bouleversements économiques et sociaux. Elle débouche sur une découverte des grands courants de pensée religieux et idéologiques (libéralisme et socialisme).</p>
+<p>Une étude au choix parmi les suivantes : <br/>- Une ville industrielle au XIXe siècle. <br/>- Le chemin de fer au XIXe siècle. <br/>- Un entrepreneur et son entreprise au XIXe siècle. <br/>- Ouvriers et ouvrières à la Belle Époque. </p>
+<p>Cette étude est replacée dans le cadre de l'ensemble des bouleversements économiques et sociaux. Elle débouche sur une découverte des grands courants de pensée religieux et idéologiques (libéralisme et socialisme).</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser <br/>- Un repère chronologique en liaison avec l'étude choisie <br/>- Le manifeste du Parti communiste 1848 <br/>- Encyclique Rerum Novarum 1891 <br/>Situer sur un planisphère les régions industrialisées à la fin du XIXe siècle <br/>Décrire et expliquer un exemple de mutations liées à l'industrialisation <br/>Caractériser les grandes idéologies (libéralisme et socialisme)</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser <br/>- Un repère chronologique en liaison avec l'étude choisie <br/>- Le manifeste du Parti communiste 1848 <br/>- Encyclique Rerum Novarum 1891 <br/>Situer sur un planisphère les régions industrialisées à la fin du XIXe siècle <br/>Décrire et expliquer un exemple de mutations liées à l'industrialisation <br/>Caractériser les grandes idéologies (libéralisme et socialisme)</p>
 </td>
 </tr>
 <tr>
@@ -464,8 +464,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Situer dans le temps <br/>- Les régimes politiques successifs de la France de 1815 à 1914 <br/>- L'abolition de l'esclavage et suffrage universel masculin en 1848 <br/>Raconter des moments significatifs de la IIIe République (Jules Ferry et l'école gratuite, laïque et obligatoire : 1882 ; Affaire Dreyfus : 1894- 1906 ; loi de séparation des Églises et de l'État : 1905) et expliquer leur importance historique</p>
+<p>CAPACITÉS </p>
+<p>Situer dans le temps <br/>- Les régimes politiques successifs de la France de 1815 à 1914 <br/>- L'abolition de l'esclavage et suffrage universel masculin en 1848 <br/>Raconter des moments significatifs de la IIIe République (Jules Ferry et l'école gratuite, laïque et obligatoire : 1882 ; Affaire Dreyfus : 1894- 1906 ; loi de séparation des Églises et de l'État : 1905) et expliquer leur importance historique</p>
 </td>
 </tr>
 <tr>
@@ -486,14 +486,14 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 <p>Au cours du XIXe siècle, les revendications nationales font surgir de nouvelles puissances, bouleversent la carte de l'Europe et font naître des tensions.</p>
 </td>
 <td>
-<p>Une étude au choix parmi les suivantes : <br/>- L'unité allemande. <br/>- L'unité italienne. <br/>- La question des Balkans. <br/>
-<br/>L'étude s'appuie sur des œuvres artistiques ou sur la biographie d'un personnage emblématique (Bismarck, Cavour) et débouche sur la comparaison des cartes de l'Europe en 1848 et en 1914.</p>
+<p>Une étude au choix parmi les suivantes : <br/>- L'unité allemande. <br/>- L'unité italienne. <br/>- La question des Balkans. </p>
+<p>L'étude s'appuie sur des œuvres artistiques ou sur la biographie d'un personnage emblématique (Bismarck, Cavour) et débouche sur la comparaison des cartes de l'Europe en 1848 et en 1914.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser un repère chronologique en liaison avec l'étude choisie <br/>Situer sur une carte les principales puissances européennes à la fin du XIXe siècle <br/>Décrire et expliquer les conséquences des revendications nationales au cours du XIXe siècle</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser un repère chronologique en liaison avec l'étude choisie <br/>Situer sur une carte les principales puissances européennes à la fin du XIXe siècle <br/>Décrire et expliquer les conséquences des revendications nationales au cours du XIXe siècle</p>
 </td>
 </tr>
 <tr>
@@ -511,8 +511,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td>
-<p>Les conquêtes coloniales assoient la domination européenne. <br/>
-<br/>Les colonies constituent, dès lors, un monde dominé confronté à la modernité européenne.</p>
+<p>Les conquêtes coloniales assoient la domination européenne. </p>
+<p>Les colonies constituent, dès lors, un monde dominé confronté à la modernité européenne.</p>
 </td>
 <td>
 <p>Étude : <br/>- d'un exemple au choix de conquête coloniale, <br/>et <br/>- d'un exemple au choix de société coloniale.</p>
@@ -520,8 +520,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant : les principales colonies britanniques et françaises en 1914<br/>Décrire et expliquer quelques unes des modifications introduites par l'arrivée des Européens dans un territoire colonisé</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant : les principales colonies britanniques et françaises en 1914<br/>Décrire et expliquer quelques unes des modifications introduites par l'arrivée des Européens dans un territoire colonisé</p>
 </td>
 </tr>
 <tr>
@@ -547,8 +547,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant : les deux alliances et leurs protagonistes en 1914</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant : les deux alliances et leurs protagonistes en 1914</p>
 </td>
 </tr>
 </tbody>
@@ -595,15 +595,15 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <p>Les ports et les littoraux sont des lieux privilégiés de la production et des échanges mondiaux de marchandises.</p>
 </td>
 <td>
-<p>Étude de cas : une zone industrialo-portuaire (ZIP) au choix <br/>
-<br/>- en Europe (par exemple Rotterdam), <br/>- en Asie (par exemple Singapour ou Shanghaï). <br/>
-<br/>On s'interroge sur la situation du port choisi à différentes échelles, sur les aménagements, les produits fabriqués, importés et exportés et les acteurs de la production et des échanges. La zone industrialo-portuaire est replacée sur un planisphère des grands ports mondiaux et des principales façades maritimes.</p>
+<p>Étude de cas : une zone industrialo-portuaire (ZIP) au choix </p>
+<p>- en Europe (par exemple Rotterdam), <br/>- en Asie (par exemple Singapour ou Shanghaï). </p>
+<p>On s'interroge sur la situation du port choisi à différentes échelles, sur les aménagements, les produits fabriqués, importés et exportés et les acteurs de la production et des échanges. La zone industrialo-portuaire est replacée sur un planisphère des grands ports mondiaux et des principales façades maritimes.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire les principaux aménagements de l'ensemble portuaire choisi <br/>Localiser et situer l'ensemble choisi sur un planisphère des grandes voies maritimes mondiales <br/>Expliquer pourquoi les littoraux et les grands ports sont les lieux privilégiés de la mondialisation des échanges <br/>Nommer et localiser sur un planisphère les principales façades maritimes</p>
+<p>CAPACITÉS </p>
+<p>Décrire les principaux aménagements de l'ensemble portuaire choisi <br/>Localiser et situer l'ensemble choisi sur un planisphère des grandes voies maritimes mondiales <br/>Expliquer pourquoi les littoraux et les grands ports sont les lieux privilégiés de la mondialisation des échanges <br/>Nommer et localiser sur un planisphère les principales façades maritimes</p>
 </td>
 </tr>
 <tr>
@@ -624,14 +624,14 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <p>Les transports maritimes Les échanges mondiaux et régionaux de marchandises se déroulent, majoritairement par voie maritime, entre les espaces de production et d'échange précédemment étudiés. Canaux et détroits sont des points de passage stratégiques.</p>
 </td>
 <td>
-<p>Une étude de cas au choix : <br/>- Les différentes étapes du transport d'un produit de consommation (agro alimentaire ou industriel) de son lieu de production à son lieu de consommation. <br/>- Les activités et le réseau d'une grande compagnie de transport maritime <br/>Le développement des échanges et la rationalisation du transport maritime sont mis en évidence. Une attention particulière est portée aux acteurs de ces échanges. <br/>
-<br/>L'étude de cas est mise en perspective dans la croissance des échanges mondiaux et sur un planisphère des pôles et des flux majeurs du commerce mondial.</p>
+<p>Une étude de cas au choix : <br/>- Les différentes étapes du transport d'un produit de consommation (agro alimentaire ou industriel) de son lieu de production à son lieu de consommation. <br/>- Les activités et le réseau d'une grande compagnie de transport maritime <br/>Le développement des échanges et la rationalisation du transport maritime sont mis en évidence. Une attention particulière est portée aux acteurs de ces échanges. </p>
+<p>L'étude de cas est mise en perspective dans la croissance des échanges mondiaux et sur un planisphère des pôles et des flux majeurs du commerce mondial.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire le trajet : <br/>- du produit étudié de sa zone de production à sa zone de consommation <br/>- d'un navire appartenant à une grande compagnie de transport maritime. <br/>Réaliser un croquis à l'échelle mondiale des pôles et des flux majeurs des échanges mondiaux. <br/>Localiser et situer quelques grands points de passage stratégiques (canaux et détroits)</p>
+<p>CAPACITÉS </p>
+<p>Décrire le trajet : <br/>- du produit étudié de sa zone de production à sa zone de consommation <br/>- d'un navire appartenant à une grande compagnie de transport maritime. <br/>Réaliser un croquis à l'échelle mondiale des pôles et des flux majeurs des échanges mondiaux. <br/>Localiser et situer quelques grands points de passage stratégiques (canaux et détroits)</p>
 </td>
 </tr>
 <tr>
@@ -649,19 +649,19 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>Migrations et tourisme dans le monde <br/>
-<br/>Les mobilités humaines qui se développent à l'échelle régionale et mondiale n'affectent qu'une part limitée de la population mondiale. <br/>Quelle que soit leur nature (économique, politique ou touristique), elles exploitent les discontinuités entre les espaces et elles affectent de manière différenciée pays de départ et pays d'arrivée.</p>
+<p>Migrations et tourisme dans le monde </p>
+<p>Les mobilités humaines qui se développent à l'échelle régionale et mondiale n'affectent qu'une part limitée de la population mondiale. <br/>Quelle que soit leur nature (économique, politique ou touristique), elles exploitent les discontinuités entre les espaces et elles affectent de manière différenciée pays de départ et pays d'arrivée.</p>
 </td>
 <td>
-<p>Une étude de cas au choix <br/>
-<br/>- Un flux migratoire du Maghreb vers l'Europe ; <br/>- un espace touristique au Maghreb. <br/>
-<br/>Ces études de cas sont replacées sur un planisphère dans le contexte des migrations et du tourisme dans le monde.</p>
+<p>Une étude de cas au choix </p>
+<p>- Un flux migratoire du Maghreb vers l'Europe ; <br/>- un espace touristique au Maghreb. </p>
+<p>Ces études de cas sont replacées sur un planisphère dans le contexte des migrations et du tourisme dans le monde.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire : <br/>- les effets de ces déplacements de population sur les pays de départ et sur les pays d'arrivée <br/>- l'impact du tourisme sur l'espace étudié Localiser et situer : <br/>- les principales zones de départ et d'arrivée des migrants sur un planisphère <br/>- les espaces touristiques majeurs et les grands flux du tourisme mondial sur des cartes à différentes échelles</p>
+<p>CAPACITÉS </p>
+<p>Décrire : <br/>- les effets de ces déplacements de population sur les pays de départ et sur les pays d'arrivée <br/>- l'impact du tourisme sur l'espace étudié Localiser et situer : <br/>- les principales zones de départ et d'arrivée des migrants sur un planisphère <br/>- les espaces touristiques majeurs et les grands flux du tourisme mondial sur des cartes à différentes échelles</p>
 </td>
 </tr>
 <tr>
@@ -687,14 +687,14 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <p>Les grandes métropoles Centres décisionnels majeurs, elles concentrent le pouvoir économique, financier, culturel, politique et technologique.</p>
 </td>
 <td>
-<p>Une étude de cas : <br/>- Tokyo dans la mégalopole japonaise. <br/>
-<br/>Cette étude cas débouche sur la présentation de planisphères : grandes métropoles, places boursières, réseau mondial de l'Internet...</p>
+<p>Une étude de cas : <br/>- Tokyo dans la mégalopole japonaise. </p>
+<p>Cette étude cas débouche sur la présentation de planisphères : grandes métropoles, places boursières, réseau mondial de l'Internet...</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire et expliquer ce qu'est une métropole mondiale à partir de l'exemple choisi. <br/>Localiser les grandes métropoles mondiales et les pays où elles se situent</p>
+<p>CAPACITÉS </p>
+<p>Décrire et expliquer ce qu'est une métropole mondiale à partir de l'exemple choisi. <br/>Localiser les grandes métropoles mondiales et les pays où elles se situent</p>
 </td>
 </tr>
 <tr>
@@ -715,14 +715,14 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <p>Les firmes transnationales <br/>Ce sont des acteurs importants dans le processus de mondialisation : pays d'origine, stratégies d'investissement et d'implantation, effets socio-spatiaux.</p>
 </td>
 <td>
-<p>Une étude de cas : <br/>- Une firme transnationale et son implantation mondiale. <br/>
-<br/>La firme étudiée est mise en contexte en particulier à partir de planisphères des investissements directs à l'étranger (IDE), de l'implantation des sièges sociaux des principales firmes transnationales.</p>
+<p>Une étude de cas : <br/>- Une firme transnationale et son implantation mondiale. </p>
+<p>La firme étudiée est mise en contexte en particulier à partir de planisphères des investissements directs à l'étranger (IDE), de l'implantation des sièges sociaux des principales firmes transnationales.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire la stratégie de la firme transnationale choisie pour l'étude de cas. <br/>Localiser et situer les principales zones recevant les investissements des firmes transnationales.</p>
+<p>CAPACITÉS </p>
+<p>Décrire la stratégie de la firme transnationale choisie pour l'étude de cas. <br/>Localiser et situer les principales zones recevant les investissements des firmes transnationales.</p>
 </td>
 </tr>
 <tr>
@@ -745,18 +745,18 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>Les États-Unis dans la mondialisation.<br/>
-<br/>Les conséquences de la mondialisation sur l'organisation du territoire. <br/>L'étude met en évidence les espaces majeurs de la puissance et les différenciations spatiales qui découlent de la métropolisation et de la littoralisation des activités.</p>
+<p>Les États-Unis dans la mondialisation.</p>
+<p>Les conséquences de la mondialisation sur l'organisation du territoire. <br/>L'étude met en évidence les espaces majeurs de la puissance et les différenciations spatiales qui découlent de la métropolisation et de la littoralisation des activités.</p>
 </td>
 <td>
-<p>L'étude s'appuie sur des exemples de la puissance des États-Unis dans le monde. <br/>
-<br/>L'étude conduit à la réalisation d'un croquis de l'organisation du territoire des États-Unis.</p>
+<p>L'étude s'appuie sur des exemples de la puissance des États-Unis dans le monde. </p>
+<p>L'étude conduit à la réalisation d'un croquis de l'organisation du territoire des États-Unis.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer sur une carte au moins cinq métropoles des États-Unis et la Mégalopole du Nord-Est <br/>Décrire et expliquer quelques paysages représentatifs du territoire des États-Unis <br/>Réaliser un croquis rendant compte des grands traits de l'organisation du territoire des États-Unis <br/>Localiser et situer sur un planisphère les principaux pôles de puissance mondiaux</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer sur une carte au moins cinq métropoles des États-Unis et la Mégalopole du Nord-Est <br/>Décrire et expliquer quelques paysages représentatifs du territoire des États-Unis <br/>Réaliser un croquis rendant compte des grands traits de l'organisation du territoire des États-Unis <br/>Localiser et situer sur un planisphère les principaux pôles de puissance mondiaux</p>
 </td>
 </tr>
 <tr>
@@ -774,23 +774,18 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>La montée en puissance des pays émergents. <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>Elle a des conséquences sur l'organisation de leur territoire et génère à la fois du développement et de nouvelles inégalités sociospatiales.</p>
+<p>La montée en puissance des pays émergents. </p>
+<p>Elle a des conséquences sur l'organisation de leur territoire et génère à la fois du développement et de nouvelles inégalités sociospatiales.</p>
 </td>
 <td>
-<p>Une étude de cas au choix : <br/>- la Chine, <br/>- l'Inde, <br/>- le Brésil. <br/>
-<br/>L'étude conduit à la réalisation d'un croquis de l'organisation du territoire choisi.</p>
+<p>Une étude de cas au choix : <br/>- la Chine, <br/>- l'Inde, <br/>- le Brésil. </p>
+<p>L'étude conduit à la réalisation d'un croquis de l'organisation du territoire choisi.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer : <br/>- au moins trois métropoles chinoises ou indiennes ou brésiliennes <br/>- les grands pays émergents sur un planisphère <br/>Réaliser un croquis rendant compte des grands traits de l'organisation du territoire du pays choisi <br/>Décrire et expliquer les caractéristiques essentielles d'un pays émergent</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer : <br/>- au moins trois métropoles chinoises ou indiennes ou brésiliennes <br/>- les grands pays émergents sur un planisphère <br/>Réaliser un croquis rendant compte des grands traits de l'organisation du territoire du pays choisi <br/>Décrire et expliquer les caractéristiques essentielles d'un pays émergent</p>
 </td>
 </tr>
 <tr>
@@ -811,13 +806,13 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <p>Les États les plus pauvres présentent des caractéristiques communes : déficit de développement et pauvreté, marginalisation économique, problèmes politiques, inégalités socio-spatiales à toutes les échelles, mais aussi perspectives de développement.</p>
 </td>
 <td>
-<p>Étude de cas au choix : un  pays moins avancé  (PMA)</p>
+<p>Étude de cas au choix : un pays moins avancé (PMA)</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer : <br/>- l'État étudié et sa capitale, <br/>- quelques PMA. <br/>Décrire et expliquer les caractéristiques essentielles d'un PMA à partir de l'exemple de l'État étudié.</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer : <br/>- l'État étudié et sa capitale, <br/>- quelques PMA. <br/>Décrire et expliquer les caractéristiques essentielles d'un PMA à partir de l'exemple de l'État étudié.</p>
 </td>
 </tr>
 <tr>
@@ -848,8 +843,8 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer les grandes aires linguistiques et religieuses.</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer les grandes aires linguistiques et religieuses.</p>
 </td>
 </tr>
 <tr>
@@ -933,8 +928,8 @@ A l'issue de la classe de quatrième, l'élève est capable d'expliquer et mettr
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCE <br/>
-<br/>- Déclaration universelle des droits de l'homme de 1948 (art. 13) <br/>- Convention européenne de sauvegarde des droits de l'Homme et des libertés fondamentales (art. 9, 10, 11) <br/>- Déclaration des droits de l'homme et du citoyen (art. 1, 4, 10 et 11) <br/>- Préambule de la constitution de 1946(alinéa 4 et 13) <br/>- Convention internationale des droits de l'enfant de 1989 (art. 12-1, 13, 14-1 et 3) <br/>- Loi du 15 mars 2004, sur l'application du principe de laïcité dans les établissements scolaires et publics modifiant le code de l'éducation (art. L 141-5-1) <br/>- Extraits du règlement intérieur du collège</p>
+<p>DOCUMENTS DE RÉFÉRENCE </p>
+<p>- Déclaration universelle des droits de l'homme de 1948 (art. 13) <br/>- Convention européenne de sauvegarde des droits de l'Homme et des libertés fondamentales (art. 9, 10, 11) <br/>- Déclaration des droits de l'homme et du citoyen (art. 1, 4, 10 et 11) <br/>- Préambule de la constitution de 1946(alinéa 4 et 13) <br/>- Convention internationale des droits de l'enfant de 1989 (art. 12-1, 13, 14-1 et 3) <br/>- Loi du 15 mars 2004, sur l'application du principe de laïcité dans les établissements scolaires et publics modifiant le code de l'éducation (art. L 141-5-1) <br/>- Extraits du règlement intérieur du collège</p>
 </td>
 </tr>
 <tr>
@@ -999,8 +994,8 @@ A l'issue de la classe de quatrième, l'élève est capable d'expliquer et mettr
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCES <br/>
-<br/>- Déclaration des droits de l'homme et du citoyen (art. 8 et 9), Déclaration universelle des droits de l'homme de 1948 (art. 8 et 10) <br/>- Constitution de la Ve République (art. 55, 66 et 66-1) <br/>- Code civil (art 388-1), Code du travail (art L 511-1), Code de procédure pénale (art 255) <br/>- Une décision du conseil constitutionnel, un extrait du code la route, du règlement intérieur de l'établissement, d'un arrêté municipal <br/>- Extraits des articles 1, 2 et 11 de l'ordonnance du 2 février 1945 <br/>- Une loi française et une directive européenne, étude d'un extrait de traité (ex : traité sur l'Union européenne de 1992) <br/>- Un arrêt de la cour de justice des communautés européennes</p>
+<p>DOCUMENTS DE RÉFÉRENCES </p>
+<p>- Déclaration des droits de l'homme et du citoyen (art. 8 et 9), Déclaration universelle des droits de l'homme de 1948 (art. 8 et 10) <br/>- Constitution de la Ve République (art. 55, 66 et 66-1) <br/>- Code civil (art 388-1), Code du travail (art L 511-1), Code de procédure pénale (art 255) <br/>- Une décision du conseil constitutionnel, un extrait du code la route, du règlement intérieur de l'établissement, d'un arrêté municipal <br/>- Extraits des articles 1, 2 et 11 de l'ordonnance du 2 février 1945 <br/>- Une loi française et une directive européenne, étude d'un extrait de traité (ex : traité sur l'Union européenne de 1992) <br/>- Un arrêt de la cour de justice des communautés européennes</p>
 </td>
 </tr>
 <tr>
@@ -1021,14 +1016,14 @@ A l'issue de la classe de quatrième, l'élève est capable d'expliquer et mettr
 <p>La sûreté garantit l'exercice des droits et des libertés de la personne. <br/>Dans une démocratie la loi assure la sécurité des personnes et des biens. <br/>Une force publique organisée par l'État assure le respect des règles collectives et lutte contre les infractions.</p>
 </td>
 <td>
-<p>Les missions de la force publique aussi bien préventives que répressives sont abordées au travers de situations concrètes en partenariat avec la police ou la gendarmerie. <br/>
-<br/>Des exemples d'infractions, de délits ainsi que les réponses légales sont étudiés. Ils sont une application pratique des règles fixées par la collectivité.</p>
+<p>Les missions de la force publique aussi bien préventives que répressives sont abordées au travers de situations concrètes en partenariat avec la police ou la gendarmerie. </p>
+<p>Des exemples d'infractions, de délits ainsi que les réponses légales sont étudiés. Ils sont une application pratique des règles fixées par la collectivité.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCES <br/>
-<br/>- Convention Européenne de Sauvegarde des Droits de l'Homme de 1950 (art. 19 et 34) <br/>- Déclaration des droits de l'Homme et du citoyen (art. 12) <br/>- Code pénal (art 121-3,121-7, 222-9, 222-13)</p>
+<p>DOCUMENTS DE RÉFÉRENCES </p>
+<p>- Convention Européenne de Sauvegarde des Droits de l'Homme de 1950 (art. 19 et 34) <br/>- Déclaration des droits de l'Homme et du citoyen (art. 12) <br/>- Code pénal (art 121-3,121-7, 222-9, 222-13)</p>
 </td>
 </tr>
 <tr>
@@ -1080,14 +1075,14 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td>
-<p>Ce thème ne fait pas l'objet d'un enseignement isolé ; le professeur choisit un itinéraire composé d'au moins une oeuvre et/ou un artiste significatif pour chacune des parties du programme. <br/>Les dimensions sensible, technique et esthétique, impliquent un travail conjoint avec les professeurs des autres disciplines concernées. <br/>
-<br/>EXEMPLES D'OEUVRES OU D'ARTISTES (la liste n'est ni impérative, ni limitative) <br/>Des extraits d'œuvres littéraires de Maurice Genevoix, Erich Maria Remarque, Bertolt Brecht, Colette, Alexandre Soljenitsyne, Vassili Grossman, Primo Levi, Simone de Beauvoir... <br/>Des œuvres d'Otto Dix, Pablo Picasso, Marcel Duchamp, Fernand Léger, Sonia Delaunay, Giacometti, Andy Warhol, Louise Bourgeois... <br/>Des exemples d'œuvres produites dans le cadre des régimes totalitaires... <br/>Des photos de Robert Doisneau, Henri Cartier-Bresson, Robert Capa, Gerda Taro... Des édifices de Le Corbusier, Auguste Perret, Franck Lloyd Wright... <br/>Des œuvres musicales de Ravel, Stravinsky, Darius Milhaud ; Arthur Honegger; Benjamin Britten ; Chostakovitch, Gershwin, Duke Ellington; <br/>Des œuvres de variété de Charles Trenet, Georges Brassens, Elvis Presley ; les Beatles, Bob Dylan, Joan Baez... <br/>Des œuvres de designers, des créations artistiques nouvelles... <br/>Des extraits de films : Eisenstein, Octobre, Alexandre Nevski, Charlie Chaplin, Les Temps Modernes, Jean Renoir, La Grande Illusion, Fritz Lang, M le Maudit, Metropolis, Vittorio de Sica, Le voleur de bicyclette, Roberto Rossellini, Rome, ville ouverte...</p>
+<p>Ce thème ne fait pas l'objet d'un enseignement isolé ; le professeur choisit un itinéraire composé d'au moins une oeuvre et/ou un artiste significatif pour chacune des parties du programme. <br/>Les dimensions sensible, technique et esthétique, impliquent un travail conjoint avec les professeurs des autres disciplines concernées. </p>
+<p>EXEMPLES D'OEUVRES OU D'ARTISTES (la liste n'est ni impérative, ni limitative) <br/>Des extraits d'œuvres littéraires de Maurice Genevoix, Erich Maria Remarque, Bertolt Brecht, Colette, Alexandre Soljenitsyne, Vassili Grossman, Primo Levi, Simone de Beauvoir... <br/>Des œuvres d'Otto Dix, Pablo Picasso, Marcel Duchamp, Fernand Léger, Sonia Delaunay, Giacometti, Andy Warhol, Louise Bourgeois... <br/>Des exemples d'œuvres produites dans le cadre des régimes totalitaires... <br/>Des photos de Robert Doisneau, Henri Cartier-Bresson, Robert Capa, Gerda Taro... Des édifices de Le Corbusier, Auguste Perret, Franck Lloyd Wright... <br/>Des œuvres musicales de Ravel, Stravinsky, Darius Milhaud ; Arthur Honegger; Benjamin Britten ; Chostakovitch, Gershwin, Duke Ellington; <br/>Des œuvres de variété de Charles Trenet, Georges Brassens, Elvis Presley ; les Beatles, Bob Dylan, Joan Baez... <br/>Des œuvres de designers, des créations artistiques nouvelles... <br/>Des extraits de films : Eisenstein, Octobre, Alexandre Nevski, Charlie Chaplin, Les Temps Modernes, Jean Renoir, La Grande Illusion, Fritz Lang, M le Maudit, Metropolis, Vittorio de Sica, Le voleur de bicyclette, Roberto Rossellini, Rome, ville ouverte...</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>CAPACITÉS <br/>
-<br/>- identifier la nature de l'œuvre <br/>- situer l'œuvre dans le temps et dans son contexte et en expliquer l'intérêt historique <br/>- décrire l'œuvre et en expliquer le sens <br/>- distinguer les dimensions artistiques et historiques de l'œuvre d'art</p>
+<p>CAPACITÉS </p>
+<p>- identifier la nature de l'œuvre <br/>- situer l'œuvre dans le temps et dans son contexte et en expliquer l'intérêt historique <br/>- décrire l'œuvre et en expliquer le sens <br/>- distinguer les dimensions artistiques et historiques de l'œuvre d'art</p>
 </td>
 </tr>
 </tbody>
@@ -1125,8 +1120,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire l'évolution d'un aspect de la médecine et expliquer son impact sur les sociétés</p>
+<p>CAPACITÉS </p>
+<p>Décrire l'évolution d'un aspect de la médecine et expliquer son impact sur les sociétés</p>
 </td>
 </tr>
 <tr>
@@ -1160,8 +1155,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire et expliquer l'évolution des formes de production industrielle et de la structure d'une entreprise, de la dimension familiale à la firme multinationale <br/>Caractériser l'évolution de l'immigration en France au XXe siècle</p>
+<p>CAPACITÉS </p>
+<p>Décrire et expliquer l'évolution des formes de production industrielle et de la structure d'une entreprise, de la dimension familiale à la firme multinationale <br/>Caractériser l'évolution de l'immigration en France au XXe siècle</p>
 </td>
 </tr>
 <tr>
@@ -1216,8 +1211,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS<br/>
-<br/>Connaître et utiliser les repères suivants <br/>- La Première Guerre mondiale : 1914 -1918, la bataille de Verdun : 1916 ; l'armistice : 11 novembre 1918 <br/>- La révolution russe : 1917 <br/>- La carte de l'Europe au lendemain des traités <br/>Décrire et expliquer la guerre des tranchées et le génocide des Arméniens comme des manifestations de la violence de masse</p>
+<p>CAPACITÉS</p>
+<p>Connaître et utiliser les repères suivants <br/>- La Première Guerre mondiale : 1914 -1918, la bataille de Verdun : 1916 ; l'armistice : 11 novembre 1918 <br/>- La révolution russe : 1917 <br/>- La carte de l'Europe au lendemain des traités <br/>Décrire et expliquer la guerre des tranchées et le génocide des Arméniens comme des manifestations de la violence de masse</p>
 </td>
 </tr>
 <tr>
@@ -1237,22 +1232,20 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 <td>
 <p>Les régimes totalitaires sont fondés sur des projets de nature différente. <br/>Ils s'appuient sur l'adhésion d'une partie des populations. Ils mettent en œuvre des pratiques fondées sur la violence pour éliminer les oppositions et uniformiser leur société.</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
 <p>Le régime soviétique <br/>Le régime communiste, fondé par Lénine, veut créer une société sans classes dominée par le parti communiste, et exporter la révolution (IIIe Internationale). <br/>Staline instaure une économie étatisée et un contrôle de la population par la propagande et la terreur de masse.</p>
 </td>
 <td>
-<p>On montre comment Lénine a mis en place les principales composantes du régime soviétique. <br/>
-<br/>L'étude du stalinisme prend appui sur la collectivisation des terres, la dékoulakisation et la grande terreur.</p>
+<p>On montre comment Lénine a mis en place les principales composantes du régime soviétique. </p>
+<p>L'étude du stalinisme prend appui sur la collectivisation des terres, la dékoulakisation et la grande terreur.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Le régime nazi <br/>En 1933, Hitler arrive au pouvoir en Allemagne. Antisémite, raciste et nationaliste, le nazisme veut établir la domination du peuple allemand sur un large  espace vital . <br/>Le régime se caractérise par la suppression des libertés, l'omniprésence de la police et du parti unique, la terreur, une économie orientée vers la guerre.</p>
+<p>Le régime nazi <br/>En 1933, Hitler arrive au pouvoir en Allemagne. Antisémite, raciste et nationaliste, le nazisme veut établir la domination du peuple allemand sur un large espace vital . <br/>Le régime se caractérise par la suppression des libertés, l'omniprésence de la police et du parti unique, la terreur, une économie orientée vers la guerre.</p>
 </td>
 <td>
 <p>L'étude met en relation l'idéologie et les pratiques du régime nazi dans un processus de nazification de la société.</p>
@@ -1260,8 +1253,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants : <br/>- Staline au pouvoir : 1924-1953 - La  grande terreur  stalinienne : 1937-1938 <br/>- Hitler au pouvoir : 1933-1945 <br/>- Les lois de Nuremberg : 1935 <br/>Raconter et expliquer <br/>- La mise en place du pouvoir soviétique par Lénine <br/>- La stalinisation de l'URSS <br/>- La mise en place du pouvoir nazi <br/>Caractériser chacun des régimes totalitaires étudiés</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants : <br/>- Staline au pouvoir : 1924-1953 - La grande terreur stalinienne : 1937-1938 <br/>- Hitler au pouvoir : 1933-1945 <br/>- Les lois de Nuremberg : 1935 <br/>Raconter et expliquer <br/>- La mise en place du pouvoir soviétique par Lénine <br/>- La stalinisation de l'URSS <br/>- La mise en place du pouvoir nazi <br/>Caractériser chacun des régimes totalitaires étudiés</p>
 </td>
 </tr>
 <tr>
@@ -1303,8 +1296,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants : <br/>- La Seconde Guerre mondiale : 1939-1945 <br/>- La libération des camps d'extermination : 1945 <br/>- Fin de la Seconde Guerre mondiale en Europe : 8 mai 1945 <br/>- Bombes atomiques sur Hiroshima et Nagasaki : août 1945 <br/>Caractériser les enjeux militaires et idéologiques de la guerre <br/>Décrire et expliquer le processus de l'extermination</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants : <br/>- La Seconde Guerre mondiale : 1939-1945 <br/>- La libération des camps d'extermination : 1945 <br/>- Fin de la Seconde Guerre mondiale en Europe : 8 mai 1945 <br/>- Bombes atomiques sur Hiroshima et Nagasaki : août 1945 <br/>Caractériser les enjeux militaires et idéologiques de la guerre <br/>Décrire et expliquer le processus de l'extermination</p>
 </td>
 </tr>
 <tr>
@@ -1343,8 +1336,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants <br/>- Le Mur de Berlin : 1961 - 1989 <br/>- Carte des blocs au moment de la guerre froide <br/>Raconter les crises étudiées et expliquer en quoi elles sont révélatrices de la situation de guerre froide.</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants <br/>- Le Mur de Berlin : 1961 - 1989 <br/>- Carte des blocs au moment de la guerre froide <br/>Raconter les crises étudiées et expliquer en quoi elles sont révélatrices de la situation de guerre froide.</p>
 </td>
 </tr>
 <tr>
@@ -1362,8 +1355,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td>
-<p>Dès le lendemain du conflit mondial, grandissent des revendications qui débouchent sur les indépendances. <br/>
-<br/>Les nouveaux États entendent être reconnus sur la scène internationale, notamment par le biais de l'ONU.</p>
+<p>Dès le lendemain du conflit mondial, grandissent des revendications qui débouchent sur les indépendances. </p>
+<p>Les nouveaux États entendent être reconnus sur la scène internationale, notamment par le biais de l'ONU.</p>
 </td>
 <td>
 <p>L'étude est conduite à partir d'un exemple au choix : l'Inde, l'Algérie, un pays d'Afrique subsaharienne. <br/>Elle porte sur le processus de la décolonisation, les problèmes de développement du nouvel État et ses efforts d'affirmation sur la scène internationale. <br/>Les décolonisations sont présentées à partir d'une carte.</p>
@@ -1371,8 +1364,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant <br/>- Principale phase de la décolonisation : 1947-1962 <br/>Raconter la manière dont une colonie devient un État souverain <br/>Décrire quelques problèmes de développement auxquels ce nouvel État est confronté</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant <br/>- Principale phase de la décolonisation : 1947-1962 <br/>Raconter la manière dont une colonie devient un État souverain <br/>Décrire quelques problèmes de développement auxquels ce nouvel État est confronté</p>
 </td>
 </tr>
 <tr>
@@ -1398,8 +1391,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants <br/>- Les traités de Rome : 1957 <br/>- Le traité de Maastricht : 1992 <br/>- L'euro : 2002 <br/>Raconter quelques étapes de la construction européenne en les situant dans le contexte international</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants <br/>- Les traités de Rome : 1957 <br/>- Le traité de Maastricht : 1992 <br/>- L'euro : 2002 <br/>Raconter quelques étapes de la construction européenne en les situant dans le contexte international</p>
 </td>
 </tr>
 <tr>
@@ -1425,8 +1418,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Raconter un événement majeur depuis le début des années 1990 et expliquer ses conséquences <br/>Situer sur une carte les grandes puissances et les lieux de tension aujourd'hui.</p>
+<p>CAPACITÉS </p>
+<p>Raconter un événement majeur depuis le début des années 1990 et expliquer ses conséquences <br/>Situer sur une carte les grandes puissances et les lieux de tension aujourd'hui.</p>
 </td>
 </tr>
 <tr>
@@ -1470,8 +1463,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant <br/>- Victoire électorale et lois sociales du Front Populaire : 1936 <br/>Décrire <br/>- L'impact de la révolution russe en France <br/>- Les principaux aspects de la crise des années 1930 <br/>- Les principales mesures prises par le Front populaire en montrant les réactions qu'elles suscitent</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant <br/>- Victoire électorale et lois sociales du Front Populaire : 1936 <br/>Décrire <br/>- L'impact de la révolution russe en France <br/>- Les principaux aspects de la crise des années 1930 <br/>- Les principales mesures prises par le Front populaire en montrant les réactions qu'elles suscitent</p>
 </td>
 </tr>
 <tr>
@@ -1521,8 +1514,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant <br/>- Appel du général de Gaulle : 18 juin 1940 <br/>- Régime de Vichy 1940-1944 <br/>- Fondation du Conseil National de la Résistance par J. Moulin : 1943 <br/>- Libération de la France, rétablissement de la République (la IVe), droit de vote des femmes, Sécurité sociale : 1944-1945 <br/>Raconter la défaite et expliquer ses conséquences, l'armistice et la fin de la IIIe République <br/>Décrire <br/>- Quelques aspects de la politique du régime de Vichy révélateurs de son idéologie <br/>- La vie d'un réseau, d'un mouvement ou d'un maquis en montrant les valeurs dont se réclament les hommes et les femmes de la Résistance. <br/>- Les principales mesures prises à la Libération (dont le droit de vote des femmes)</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant <br/>- Appel du général de Gaulle : 18 juin 1940 <br/>- Régime de Vichy 1940-1944 <br/>- Fondation du Conseil National de la Résistance par J. Moulin : 1943 <br/>- Libération de la France, rétablissement de la République (la IVe), droit de vote des femmes, Sécurité sociale : 1944-1945 <br/>Raconter la défaite et expliquer ses conséquences, l'armistice et la fin de la IIIe République <br/>Décrire <br/>- Quelques aspects de la politique du régime de Vichy révélateurs de son idéologie <br/>- La vie d'un réseau, d'un mouvement ou d'un maquis en montrant les valeurs dont se réclament les hommes et les femmes de la Résistance. <br/>- Les principales mesures prises à la Libération (dont le droit de vote des femmes)</p>
 </td>
 </tr>
 <tr>
@@ -1564,8 +1557,8 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser le repère suivant <br/>- Les années de Gaulle : 1958-1969 Caractériser <br/>- Les grands choix politiques du général de Gaulle</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser le repère suivant <br/>- Les années de Gaulle : 1958-1969 Caractériser <br/>- Les grands choix politiques du général de Gaulle</p>
 </td>
 </tr>
 <tr>
@@ -1607,9 +1600,9 @@ Ces deux capacités (analyse de documents et maîtrise de l'expression écrite e
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Connaître et utiliser les repères suivants <br/>- Les années Mitterrand : 1981-1995 <br/>- Les années Chirac : 1995-2007 <br/>
-<br/>Décrire et expliquer <br/>- Quelques exemples d'adaptations législatives à l'évolution de la société <br/>- Des prises de positions, arguments et recompositions politiques sur le débat étudié 46</p>
+<p>CAPACITÉS </p>
+<p>Connaître et utiliser les repères suivants <br/>- Les années Mitterrand : 1981-1995 <br/>- Les années Chirac : 1995-2007 </p>
+<p>Décrire et expliquer <br/>- Quelques exemples d'adaptations législatives à l'évolution de la société <br/>- Des prises de positions, arguments et recompositions politiques sur le débat étudié 46</p>
 </td>
 </tr>
 </tbody>
@@ -1672,7 +1665,7 @@ A la fin de la scolarité obligatoire, l'élève doit connaître et savoir utili
 <p>Ier et IIe siècles </p>
 </td>
 <td>
-<p> Paix romaine  </p>
+<p>Paix romaine </p>
 </td>
 </tr>
 <tr>
@@ -2014,8 +2007,8 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>Les aires urbaines <br/>
-<br/>La très grande majorité des habitants de la France vit dans une aire urbaine. La croissance urbaine s'accompagne de l'étalement spatial des villes (périurbanisation) en lien avec une mobilité accrue des habitants.</p>
+<p>Les aires urbaines </p>
+<p>La très grande majorité des habitants de la France vit dans une aire urbaine. La croissance urbaine s'accompagne de l'étalement spatial des villes (périurbanisation) en lien avec une mobilité accrue des habitants.</p>
 </td>
 <td>
 <p>Une étude de cas : une grande question d'aménagement urbain.</p>
@@ -2023,25 +2016,23 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>Les espaces ruraux <br/>
-<br/>A la fois espace de vie, de travail et de récréation pour les citadins comme pour les ruraux, l'espace rural se transforme et connaît des conflits d'usage.</p>
+<p>Les espaces ruraux </p>
+<p>A la fois espace de vie, de travail et de récréation pour les citadins comme pour les ruraux, l'espace rural se transforme et connaît des conflits d'usage.</p>
 </td>
 <td>
 <p>Une étude de cas : un parc naturel national ou régional. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-</td>
+<td/>
 <td>
 <p>Ces deux études débouchent sur une mise en perspective du phénomène d'urbanisation à l'échelle du territoire national en intégrant le rôle des acteurs et les grandes problématiques du développement durable.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer les dix premières aires urbaines sur une carte du territoire national. <br/>Décrire et expliquer : <br/>- le processus d'étalement urbain, en lien avec les mobilités. <br/>- un conflit d'usage entre différents acteurs.</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer les dix premières aires urbaines sur une carte du territoire national. <br/>Décrire et expliquer : <br/>- le processus d'étalement urbain, en lien avec les mobilités. <br/>- un conflit d'usage entre différents acteurs.</p>
 </td>
 </tr>
 <tr>
@@ -2059,17 +2050,25 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>La Région où est situé l'établissement <br/>
-<br/>Politiques régionales, valorisation des ressources dans le cadre du développement économique régional, organisation de son territoire, intégration en France et en Europe.</p>
+<p align="left">La région où est situé l'établissement (*) : </p>
+<p>Politiques régionales, valorisation des ressources dans le cadre du développement économique régional, organisation de son territoire, intégration en France et en Europe </p>
 </td>
 <td>
-<p>La Région est mise en perspective dans le contexte français et européen à l'aide de cartes à différentes échelles, éventuellement par une démarche comparative avec une autre région.</p>
+<p>La région est mise en perspective dans le contexte français et européen à l'aide de cartes à différentes échelles, éventuellement par une démarche comparative avec une autre région.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer les repères spatiaux de la Région étudiée <br/>Situer sa Région parmi les autres régions françaises <br/>Expliquer un enjeu d'aménagement du territoire régional <br/>Réaliser un croquis de l'organisation du territoire régional</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer les repères spatiaux de la région étudiée </p>
+<p>Situer sa région parmi les autres régions françaises </p>
+<p>Expliquer un enjeu d'aménagement du territoire régional </p>
+<p>Réaliser un croquis de l'organisation du territoire régional </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="left">(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur la région Ile-de-France, en articulation avec l'étude de cas sur l'agglomération parisienne, prévue dans le thème 2 de la partie II. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.</p>
 </td>
 </tr>
 <tr>
@@ -2103,8 +2102,8 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer : <br/>- le territoire métropolitain et ultramarin en Europe et sur le planisphère <br/>- les montagnes, les fleuves, les domaines bioclimatiques, les façades maritimes <br/>Décrire et expliquer : <br/>- la répartition de la population sur le territoire <br/>- les dynamiques démographiques et spatiales actuelles</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer : <br/>- le territoire métropolitain et ultramarin en Europe et sur le planisphère <br/>- les montagnes, les fleuves, les domaines bioclimatiques, les façades maritimes <br/>Décrire et expliquer : <br/>- la répartition de la population sur le territoire <br/>- les dynamiques démographiques et spatiales actuelles</p>
 </td>
 </tr>
 <tr>
@@ -2130,14 +2129,14 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <p>Les espaces productifs industriels, agricoles et de service sont étudiés dans leurs permanences et leurs dynamiques</p>
 </td>
 <td>
-<p>Trois études de cas à l'échelle locale : <br/>- Un espace de production à dominante industrielle ou énergétique. <br/>- Un espace de production à dominante agricole. <br/>- Un espace touristique ou de loisirs, ou un centre d'affaires. <br/>
-<br/>Chaque étude de cas débouche sur une mise en perspective à l'échelle nationale et intègre les problématiques du développement durable.</p>
+<p>Trois études de cas à l'échelle locale : <br/>- Un espace de production à dominante industrielle ou énergétique. <br/>- Un espace de production à dominante agricole. <br/>- Un espace touristique ou de loisirs, ou un centre d'affaires. </p>
+<p>Chaque étude de cas débouche sur une mise en perspective à l'échelle nationale et intègre les problématiques du développement durable.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer les espaces retenus pour les études de cas <br/>Décrire et expliquer : <br/>- des paysages agricole, industriel, de service et/ou touristique <br/>- les facteurs de localisation d'une activité à l'échelle locale <br/>Identifier des activités et des acteurs économiques <br/>Expliquer le fonctionnement d'un espace productif, en recourant à différents niveaux d'échelle</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer les espaces retenus pour les études de cas <br/>Décrire et expliquer : <br/>- des paysages agricole, industriel, de service et/ou touristique <br/>- les facteurs de localisation d'une activité à l'échelle locale <br/>Identifier des activités et des acteurs économiques <br/>Expliquer le fonctionnement d'un espace productif, en recourant à différents niveaux d'échelle</p>
 </td>
 </tr>
 <tr>
@@ -2155,18 +2154,18 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>Les contrastes territoriaux. <br/>
-<br/>La production de la richesse est concentrée sur le territoire national en lien avec les dynamiques européennes et mondiales. Les métropoles dont Paris, les régions motrices, certains espaces frontaliers et les littoraux sont les lieux privilégiés.</p>
+<p>Les contrastes territoriaux. </p>
+<p>La production de la richesse est concentrée sur le territoire national en lien avec les dynamiques européennes et mondiales. Les métropoles dont Paris, les régions motrices, certains espaces frontaliers et les littoraux sont les lieux privilégiés.</p>
 </td>
 <td>
-<p>Une étude de cas : l'agglomération parisienne. <br/>
-<br/>L'étude de cas débouche sur la mise en évidence des grands contrastes territoriaux à l'échelle nationale et du rôle des acteurs publics et privés. <br/>Ces contrastes sont reportés sur un croquis de l'organisation du territoire national.</p>
+<p>Une étude de cas : l'agglomération parisienne. </p>
+<p>L'étude de cas débouche sur la mise en évidence des grands contrastes territoriaux à l'échelle nationale et du rôle des acteurs publics et privés. <br/>Ces contrastes sont reportés sur un croquis de l'organisation du territoire national.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Décrire et expliquer : <br/>- la distribution spatiale des activités sur le territoire de la France <br/>- le poids et le rayonnement de Paris <br/>- quelques formes de disparités ou d'inégalités sur le territoire national <br/>Réaliser un croquis de l'organisation du territoire national</p>
+<p>CAPACITÉS </p>
+<p>Décrire et expliquer : <br/>- la distribution spatiale des activités sur le territoire de la France <br/>- le poids et le rayonnement de Paris <br/>- quelques formes de disparités ou d'inégalités sur le territoire national <br/>Réaliser un croquis de l'organisation du territoire national</p>
 </td>
 </tr>
 <tr>
@@ -2189,21 +2188,19 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>Un territoire en construction<br/>
-<br/>
-<br/>
-<br/>Les contrastes territoriaux à l'intérieur de l'Union européenne Plusieurs critères sont mobilisés pour établir une différenciation entre les États et les régions de l'Europe et souligner les contrastes de l'espace européen. L'UE tente de réduire les écarts par sa politique régionale et de cohésion des territoires.</p>
+<p>Un territoire en construction</p>
+<p>Les contrastes territoriaux à l'intérieur de l'Union européenne Plusieurs critères sont mobilisés pour établir une différenciation entre les États et les régions de l'Europe et souligner les contrastes de l'espace européen. L'UE tente de réduire les écarts par sa politique régionale et de cohésion des territoires.</p>
 </td>
 <td>
-<p>Cette partie est traitée en liaison étroite avec le programme d'histoire. <br/>Les liens qui unissent les États sont étudiés à partir de cartes (UE, zone euro, espace Schengen...) <br/>L'Union européenne est replacée dans le contexte mondial (richesse, développement, droits de l'homme...)<br/>
-<br/>L'étude débouche sur la réalisation d'un croquis simple des grands types d'espaces dans l'Union européenne.</p>
+<p>Cette partie est traitée en liaison étroite avec le programme d'histoire. <br/>Les liens qui unissent les États sont étudiés à partir de cartes (UE, zone euro, espace Schengen...) <br/>L'Union européenne est replacée dans le contexte mondial (richesse, développement, droits de l'homme...)</p>
+<p>L'étude débouche sur la réalisation d'un croquis simple des grands types d'espaces dans l'Union européenne.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer : <br/>- les États de l'Union européenne et leurs capitales. <br/>- les villes où siègent les principales institutions de l'UE <br/>- les grands ensembles régionaux de l'Europe : Europe du Nord-Ouest, Europe du Sud, Europe centrale et orientale <br/>- les pays de la zone Euro, de l'espace Schengen Situer l'Union européenne sur des planisphères thématiques (PIB, IDH...) <br/>
-<br/>Situer la mégalopole européenne Identifier et décrire une forme de contraste de l'espace européen <br/>Réaliser un croquis représentant les différents types d'espaces dans l'Union européenne</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer : <br/>- les États de l'Union européenne et leurs capitales. <br/>- les villes où siègent les principales institutions de l'UE <br/>- les grands ensembles régionaux de l'Europe : Europe du Nord-Ouest, Europe du Sud, Europe centrale et orientale <br/>- les pays de la zone Euro, de l'espace Schengen Situer l'Union européenne sur des planisphères thématiques (PIB, IDH...) </p>
+<p>Situer la mégalopole européenne Identifier et décrire une forme de contraste de l'espace européen <br/>Réaliser un croquis représentant les différents types d'espaces dans l'Union européenne</p>
 </td>
 </tr>
 <tr>
@@ -2223,14 +2220,12 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 <td>
 <p>La question est abordée au travers de deux sujets :</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
-<p>Les réseaux de transports : <br/>
-<br/>La France combine différentes logiques d'organisation des transports : la centralisation à partir de Paris, l'intégration à l'espace européen et au monde, renforcée par de grands aménagements.</p>
+<p>Les réseaux de transports : </p>
+<p>La France combine différentes logiques d'organisation des transports : la centralisation à partir de Paris, l'intégration à l'espace européen et au monde, renforcée par de grands aménagements.</p>
 </td>
 <td>
 <p>Une étude de cas : le réseau de lignes à grande vitesse en France et en Europe. <br/>L'étude débouche sur une analyse des réseaux de transports nationaux et européens à partir de cartes</p>
@@ -2238,18 +2233,18 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>L'environnement : <br/>
-<br/>C'est une préoccupation majeure des Européens face aux risques naturels et technologiques.</p>
+<p>L'environnement : </p>
+<p>C'est une préoccupation majeure des Européens face aux risques naturels et technologiques.</p>
 </td>
 <td>
-<p>Une étude de cas au choix : <br/>
-<br/>- la gestion de la forêt méditerranéenne ; <br/>- un exemple de risque technologique. <br/>L'étude de cas souligne l'interdépendance des territoires et les enjeux d'une gestion globale des risques dans le contexte européen.</p>
+<p>Une étude de cas au choix : </p>
+<p>- la gestion de la forêt méditerranéenne ; <br/>- un exemple de risque technologique. <br/>L'étude de cas souligne l'interdépendance des territoires et les enjeux d'une gestion globale des risques dans le contexte européen.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Caractériser la situation géographique de la France dans l'Union européenne <br/>Localiser et situer : <br/>- les principales métropoles françaises et européennes sur un fond de carte de l'Union européenne <br/>- les axes et les nœuds de transports majeurs de l'espace français et européen et les grands aménagements <br/>Identifier différents types de risques naturels et technologiques en France et en Europe</p>
+<p>CAPACITÉS </p>
+<p>Caractériser la situation géographique de la France dans l'Union européenne <br/>Localiser et situer : <br/>- les principales métropoles françaises et européennes sur un fond de carte de l'Union européenne <br/>- les axes et les nœuds de transports majeurs de l'espace français et européen et les grands aménagements <br/>Identifier différents types de risques naturels et technologiques en France et en Europe</p>
 </td>
 </tr>
 <tr>
@@ -2280,12 +2275,10 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer : <br/>- le territoire français ultramarin sur un planisphère <br/>- les principaux espaces de la francophonie <br/>Décrire et expliquer quelques aspects de la puissance française</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer : <br/>- le territoire français ultramarin sur un planisphère <br/>- les principaux espaces de la francophonie <br/>Décrire et expliquer quelques aspects de la puissance française</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td colspan="2">
@@ -2302,18 +2295,18 @@ L'analyse de documents et la maîtrise de l'expression écrite et orale concerne
 </tr>
 <tr>
 <td>
-<p>L'Union européenne, pôle mondial : <br/>Le rayonnement de l'Union européenne s'exerce sur son voisinage : échanges, coopérations, demandes d'adhésion. <br/>
-<br/>À l'échelle du monde, l'Union européenne apparaît comme un pôle économique et commercial majeur, appuyé sur la puissance financière de l'euro, mais dont le rôle diplomatique et militaire reste limité.</p>
+<p>L'Union européenne, pôle mondial : <br/>Le rayonnement de l'Union européenne s'exerce sur son voisinage : échanges, coopérations, demandes d'adhésion. </p>
+<p>À l'échelle du monde, l'Union européenne apparaît comme un pôle économique et commercial majeur, appuyé sur la puissance financière de l'euro, mais dont le rôle diplomatique et militaire reste limité.</p>
 </td>
 <td>
-<p>Étude de cas au choix : une candidature d'adhésion. <br/>
-<br/>La puissance de L'Union européenne est replacée dans le contexte des pôles majeurs de l'organisation de l'espace mondial.</p>
+<p>Étude de cas au choix : une candidature d'adhésion. </p>
+<p>La puissance de L'Union européenne est replacée dans le contexte des pôles majeurs de l'organisation de l'espace mondial.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p>CAPACITÉS <br/>
-<br/>Localiser et situer l'Union européenne sur un planisphère des grands pôles de puissance mondiaux <br/>Identifier des attributs de la puissance de l'Europe et des limites à cette puissance</p>
+<p>CAPACITÉS </p>
+<p>Localiser et situer l'Union européenne sur un planisphère des grands pôles de puissance mondiaux <br/>Identifier des attributs de la puissance de l'Europe et des limites à cette puissance</p>
 </td>
 </tr>
 </tbody>
@@ -2383,8 +2376,8 @@ Deux grands ensembles de capacités doivent être privilégiés dans le travail 
 <p>Thème 1 - Les valeurs, les principes et les symboles de la République</p>
 </td>
 <td rowspan="5">
-<p>Cette partie du programme permet de varier les approches pédagogiques : travail sur les représentations, tableaux comparatifs, études de cas...<br/>
-<br/>L'accent est mis sur la signification des principes et des règles principales qui fondent la communauté nationale et sur leur caractère évolutif donnant lieu au débat citoyen. <br/>Il convient de s'appuyer sur les programmes d'histoire de la classe de quatrième et de la classe de troisième. </p>
+<p>Cette partie du programme permet de varier les approches pédagogiques : travail sur les représentations, tableaux comparatifs, études de cas...</p>
+<p>L'accent est mis sur la signification des principes et des règles principales qui fondent la communauté nationale et sur leur caractère évolutif donnant lieu au débat citoyen. <br/>Il convient de s'appuyer sur les programmes d'histoire de la classe de quatrième et de la classe de troisième. </p>
 </td>
 </tr>
 <tr>
@@ -2409,8 +2402,8 @@ Deux grands ensembles de capacités doivent être privilégiés dans le travail 
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCE <br/>
-<br/>- Constitution de 1958 (Préambule, art. 1, 2, 3 et 4) <br/>- Loi du 9 décembre 1905 sur la séparation des Églises et de l'État (art. 1 et 2) <br/>- Loi du 15 mars 2004, sur l'application du principe de laïcité dans les établissements scolaires et publics, modifiant le code de l'éducation, art. L 141-5-1<br/>- Loi du 17 mars 1998, sur la nationalité (art. 6) modifiant le code civil (art. 21-11) <br/>- Code civil (art.18) <br/>- Traité sur l'Union Européenne du 1er février 1992 (2ème partie : la citoyenneté de l'Union (art. 8, 8A, 8B, 8C, 8D)</p>
+<p>DOCUMENTS DE RÉFÉRENCE </p>
+<p>- Constitution de 1958 (Préambule, art. 1, 2, 3 et 4) <br/>- Loi du 9 décembre 1905 sur la séparation des Églises et de l'État (art. 1 et 2) <br/>- Loi du 15 mars 2004, sur l'application du principe de laïcité dans les établissements scolaires et publics, modifiant le code de l'éducation, art. L 141-5-1<br/>- Loi du 17 mars 1998, sur la nationalité (art. 6) modifiant le code civil (art. 21-11) <br/>- Code civil (art.18) <br/>- Traité sur l'Union Européenne du 1er février 1992 (2ème partie : la citoyenneté de l'Union (art. 8, 8A, 8B, 8C, 8D)</p>
 </td>
 </tr>
 <tr>
@@ -2461,8 +2454,8 @@ Deux grands ensembles de capacités doivent être privilégiés dans le travail 
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCES <br/>
-<br/>- Extraits de la constitution de la Ve République <br/>- Extraits de la loi du 7 janvier 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'État et de la loi du 13 août 2004 relative aux libertés et responsabilités locales <br/>- Extraits de la loi du 21 mars 1884 sur les syndicats <br/>- Extraits de la loi du 1er juillet 1901 sur les associations <br/>- Extraits de la loi du 29 juillet 1881 sur la liberté de la presse</p>
+<p>DOCUMENTS DE RÉFÉRENCES </p>
+<p>- Extraits de la constitution de la Ve République <br/>- Extraits de la loi du 7 janvier 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'État et de la loi du 13 août 2004 relative aux libertés et responsabilités locales <br/>- Extraits de la loi du 21 mars 1884 sur les syndicats <br/>- Extraits de la loi du 1er juillet 1901 sur les associations <br/>- Extraits de la loi du 29 juillet 1881 sur la liberté de la presse</p>
 </td>
 </tr>
 <tr>
@@ -2483,9 +2476,9 @@ Deux grands ensembles de capacités doivent être privilégiés dans le travail 
 <p>Thème 1 - La recherche de la paix, la sécurité collective, la coopération internationale</p>
 </td>
 <td rowspan="4">
-<p>Les approches pédagogiques peuvent être variées : exposés, visites, rencontres, débats. <br/>
-<br/>Les ressources offertes par le trinôme académique peuvent être utilisées. <br/>
-<br/>Cette partie du programme s'appuie directement sur le programme d'histoire de la classe de troisième et les programmes de géographie des classes de quatrième et de troisième.</p>
+<p>Les approches pédagogiques peuvent être variées : exposés, visites, rencontres, débats. </p>
+<p>Les ressources offertes par le trinôme académique peuvent être utilisées. </p>
+<p>Cette partie du programme s'appuie directement sur le programme d'histoire de la classe de troisième et les programmes de géographie des classes de quatrième et de troisième.</p>
 </td>
 </tr>
 <tr>
@@ -2505,9 +2498,43 @@ Deux grands ensembles de capacités doivent être privilégiés dans le travail 
 </tr>
 <tr>
 <td colspan="2">
-<p>DOCUMENTS DE RÉFÉRENCES <br/>
-<br/>- Constitution de la Ve République (art. 5, 15, 21, 34 et 35) <br/>- Charte des Nations Unies de 1945 (art. 1 et extraits du chap. 7) <br/>- Extraits du livre blanc sur la défense <br/>- Extraits du traité sur l'Union Européenne du 1er février 1992 (Titre 5)</p>
+<p>DOCUMENTS DE RÉFÉRENCES </p>
+<p>- Constitution de la Ve République (art. 5, 15, 21, 34 et 35) <br/>- Charte des Nations Unies de 1945 (art. 1 et extraits du chap. 7) <br/>- Extraits du livre blanc sur la défense <br/>- Extraits du traité sur l'Union Européenne du 1er février 1992 (Titre 5)</p>
 </td>
 </tr>
 </tbody>
-</table>.
+</table>
+
+.
+
+CLASSE DE 3ème , SECTION INTERNATIONALE
+
+Complément spécifique au programme d'histoire-géographie
+
+1 - Histoire
+
+Dans la langue étudiée, en prenant en compte les spécificités historiques et géographiques de la civilisation, de l'espace et de l'État dont relève la section, on met en œuvre au choix :
+
+- la partie II du programme : Guerres mondiales et régimes totalitaires (1914-1945)
+
+ou
+
+- la partie III du programme : Une géopolitique mondiale (depuis 1945)
+
+ou
+
+- la partie IV du programme : La vie politique [dans l'État dont relève la section.]
+
+2 - Géographie
+
+Dans la langue étudiée, en prenant en compte les spécificités géographiques et historiques de la civilisation, de l'espace et de l'État dont relève la section, on met en œuvre au choix :
+
+- la partie I du programme : Habiter [l'État dont relève la section]
+
+ou
+
+- la partie II du programme : Aménagement et développement du territoire [de l'État dont relève la section]
+
+ou
+
+- la partie III du programme : [l'État dont relève la section] et l'Union européenne
