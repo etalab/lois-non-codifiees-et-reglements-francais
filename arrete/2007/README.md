@@ -620,7 +620,6 @@
 - [Arrêté du 20 juillet 2007 (DEVK0752157A)](arrete-du-20-juillet-2007-devk0752157a)
 - [Arrêté du 20 juillet 2007 (ECEC0763686A)](arrete-du-20-juillet-2007-ecec0763686a)
 - [Arrêté du 20 juillet 2007 (MAEF0760623A)](arrete-du-20-juillet-2007-maef0760623a)
-- [Arrêté du 20 juin 2007 (MENE0757596A)](arrete-du-20-juin-2007-mene0757596a)
 - [Arrêté du 20 juin 2007 (MTSA0755914A)](arrete-du-20-juin-2007-mtsa0755914a)
 - [Arrêté du 20 juin 2007 (MTSA0755916A)](arrete-du-20-juin-2007-mtsa0755916a)
 - [Arrêté du 20 juin 2007 (SJSH0757618A)](arrete-du-20-juin-2007-sjsh0757618a)
