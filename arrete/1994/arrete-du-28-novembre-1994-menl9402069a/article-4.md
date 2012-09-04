@@ -14,43 +14,23 @@ Et pour le baccalauréat technologique :
 
 Série ST2S : sciences et technologies de la santé et du social ;
 
-Série STI : série sciences et technologies industrielles :
+Série STD 2A : sciences et technologies du design et des arts appliqués.
 
-- Spécialité : génie mécanique :
+Série STI2D : sciences et technologies de l'industrie et du développement durable :
 
-- Option A : productique mécanique,
+― spécialité : architecture et construction ;
 
-- Option B : systèmes motorisés,
+― spécialité : énergies et environnement ;
 
-- Option C : structures métalliques,
+― spécialité : innovation technologique et éco-conception ;
 
-- Option D : bois et matériaux associés,
-
-- Option E : matériaux souples,
-
-- Option F : microtechniques ;
-
-- Spécialité : génie des matériaux ;
-
-- Spécialité : génie électronique ;
-
-- Spécialité : génie électrotechnique ;
-
-- Spécialité : génie civil ;
-
-- Spécialité : génie énergétique ;
-
-- Spécialité : génie optique ;
-
-- Spécialité : arts appliqués ;
+― spécialité : systèmes d'information et numérique.
 
 Série STL : sciences et technologies de laboratoire :
 
-- Spécialité : biochimie - génie biologique ;
+― spécialité : biotechnologies ;
 
-- Spécialité : chimie de laboratoire et de procédés industriels ;
-
-- Spécialité : physique de laboratoire et de procédés industriels.
+― spécialité : sciences physiques et chimiques en laboratoire.
 
 Série STG : sciences et technologies de la gestion :
 

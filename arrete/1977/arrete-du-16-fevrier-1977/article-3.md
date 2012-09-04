@@ -1,6 +1,6 @@
 # Article 3
 
-Il est organisé une épreuve facultative de seconde langue ancienne ou vivante (étrangère ou régionale), ainsi qu'une épreuve d'arts plastiques. Ces épreuves sont notées de 0 à 20. Seuls entrent en ligne de compte les point excédants 10 sur 20, lesquels s'ajoutent au total des points obtenus aux épreuves d'enseignement général à l'issue du deuxième groupe d'épreuves.
+Il est organisé une épreuve facultative de seconde langue ancienne ou vivante (étrangère ou régionale), ainsi qu'une épreuve d'arts plastiques. Ces épreuves sont notées de 0 à 20.  Seuls entrent en ligne de compte les points excédant 10 sur 20. Pour la première épreuve facultative à laquelle le candidat a choisi de s'inscrire, quelle que soit l'option correspondante, les points sont multipliés par 2. Ces points s'ajoutent au total des points obtenus aux épreuves d'enseignement général.
 
 Le nouveau total des points est divisé par le total des coefficients de façon à obtenir la note moyenne du candidat aux épreuves d'enseignement général.
 

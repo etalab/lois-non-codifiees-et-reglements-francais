@@ -1,999 +1,1026 @@
 # Article 1
 
-La liste et les coefficients des épreuves obligatoires du baccalauréat général sont fixés comme suit :
+La liste, la nature, la durée et les coefficients des épreuves obligatoires du baccalauréat général sont fixées comme suit :
 
-I. Série économique et sociale (ES)
+I. ― Série économique et sociale (ES)
+
+<div align="center">
 
 <table>
-<thead>
-<tr>
-<td width="265">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="113">
-<p align="center">COEFFICIENTS</p>
-</td>
-<td width="189">
-<p align="center">NATURE DE L'ÉPREUVE</p>
-</td>
-<td width="113">
-<p align="center">DURÉE</p>
-</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td width="265">
-<p align="center">Épreuves anticipées</p>
-</td>
-<td width="113">
+<th>
 <br/>
-</td>
-<td width="189">
-<br/>
-</td>
-<td width="113">
-<br/>
-</td>
+</th>
+<th>
+<br/>COEFFICIENT<br/>
+</th>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th>
+<br/>DURÉE<br/>
+</th>
 </tr>
 <tr>
-<td width="265">
-<p>1. Français </p>
+<td align="center">
+<br/>Epreuves anticipées<br/>
 </td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>2. Français </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113"/>
-</tr>
-<tr>
-<td width="265">
-<p>3. Enseignement scientifique </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">1 h 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Travaux personnels encadrés</p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">30 min pour un groupe de 3 candidats (*)</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p align="center">Épreuves terminales</p>
-</td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>4. Histoire-géographie </p>
+<td align="center">
+<br/>1. Français<br/>
 </td>
-<td width="113">
-<p align="center">5</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>écrite<br/>
 </td>
-<td width="113">
-<p align="center">4 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>5. Mathématiques appliquées à l'économie et aux sciences sociales </p>
-</td>
-<td width="113">
-<p align="center">5 ou 7 (1)</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
+<td align="center">
+<br/>4 heures<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>6. Sciences économiques et sociales </p>
+<td align="center">
+<br/>2. Français<br/>
 </td>
-<td width="113">
-<p align="center">7 ou 7 + 2 (1)</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>orale<br/>
 </td>
-<td width="113">
-<p align="center">4 heures ou <br/>4 + 1 heure</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>7. Langue vivante I </p>
-</td>
-<td width="113">
-<p align="center">3</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>8. Langue vivante II ou langue régionale </p>
+<td align="center">
+<br/>3. Sciences<br/>
 </td>
-<td width="113">
-<p align="center">3 ou 3 + 2 (1)</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Orale</p>
+<td align="center">
+<br/>écrite<br/>
 </td>
-<td width="113">
-<p align="center">20 ou 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>9. Philosophie </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
+<td align="center">
+<br/>1 heure 30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>10. Éducation physique et sportive </p>
+<td align="center">
+<br/>Travaux personnels encadrés<br/>
 </td>
-<td width="113">
-<p align="center">2 (2)</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>30 minutes (*)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Epreuves terminales<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>Épreuve de spécialité (une au choix du candidat) :</p>
+<td align="center">
+<br/>4. Histoire-géographie<br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5. Mathématiques<br/>
+</td>
+<td align="center">
+<br/>5 ou 5 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6. Sciences économiques et sociales<br/>
+</td>
+<td align="center">
+<br/>7 ou 7 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures ou 4 heures et 1 heure (1)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7. Langue vivante 1<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+<td align="center">
+<br/>écrite + orale (2)<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8. Langue vivante 2 <br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>écrite + orale (2)<br/>
+</td>
+<td align="center">
+<br/>2 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9. Philosophie<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10. Education physique et sportive<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>CCF (3)<br/>
+</td>
+<td align="center">
 <br/>
-</td>
-<td width="189">
-<br/>
-</td>
-<td width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>Sciences économiques et sociales (1) ou mathématiques (1) ou langue vivante II de complément (1) ou langue régionale de complément (1) ou </p>
+<td align="center">
+<br/>11. Epreuve de spécialité (une au choix du candidat) : mathématiques (1) ou sciences sociales et politiques (1) ou économie approfondie (1)<br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>11. Langue vivante I de complément </p>
+<td align="center">
+<br/>Education physique et sportive de complément (4)<br/>
 </td>
-<td width="113">
-<p align="center">2</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Orale</p>
+<td align="center">
+<br/>CCF (3)<br/>
 </td>
-<td width="113">
-<p align="center">20 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Éducation physique et sportive de complément (3) </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">CCF</p>
-</td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p>(1) Lorsque le candidat a choisi cette discipline comme enseignement de spécialité, l'évaluation est complétée avec l'épreuve obligatoire.</p>
-<p>(2) Cf. arrêté relatif aux épreuves d'éducation physique et sportive aux baccalauréats, volume IX, article 933-6.</p>
-<p>(3) Lorsque le candidat a suivi cet enseignement.</p>(*) La durée de l'épreuve est fonction du nombre des candidats par groupe, sur la base de 10 minutes par candidat. </td>
+<br/>(*) La durée de l'épreuve est fonction du nombre de candidats par groupe, sur la base de dix minutes par candidat.<br/>
+<br/>(1) Lorsque le candidat a choisi cette discipline comme épreuve de spécialité.<br/>
+<br/>(2) Une évaluation orale est effectuée en cours d'année.<br/>
+<br/>(3) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive aux baccalauréats).<br/>
+<br/>(4) Lorsque le candidat a suivi cet enseignement.<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
-II. Série littéraire (L)
+</div>
+
+II. ― Série littéraire (L)
+
+<div align="center">
 
 <table>
-<thead>
-<tr>
-<td width="265">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="113">
-<p align="center">COEFFICIENTS</p>
-</td>
-<td width="189">
-<p align="center">NATURE DE L'ÉPREUVE</p>
-</td>
-<td width="113">
-<p align="center">DURÉE</p>
-</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td valign="top" width="265">
-<p align="center">Épreuves anticipées </p>
-</td>
-<td valign="top" width="113"/>
-<td valign="top" width="189"/>
-<td valign="top" width="113"/>
+<th>
+<br/>
+</th>
+<th>
+<br/>COEFFICIENT<br/>
+</th>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th>
+<br/>DURÉE<br/>
+</th>
 </tr>
 <tr>
-<td width="265">
-<p>1. Français et littérature (1) </p>
+<td align="center">
+<br/>Epreuves anticipées<br/>
 </td>
-<td width="113">
-<p align="center">3</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 h</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>2. Français et littérature (1) </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">20 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>3. Enseignement scientifique </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">1 h 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>4. Mathématiques-informatique </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">1 h 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Travaux personnels encadrés</p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">30 min pour un groupe de 3 candidats (*)</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p align="center">Épreuves terminales</p>
-</td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>5. Littérature </p>
+<td align="center">
+<br/>1. Français et littérature<br/>
 </td>
-<td width="113">
-<p align="center">4</p>
+<td align="center">
+<br/>3<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>écrite<br/>
 </td>
-<td width="113">
-<p align="center">2 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>6. Histoire-géographie </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
+<td align="center">
+<br/>4 heures<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>7. Langue vivante I </p>
+<td align="center">
+<br/>2. Français et littérature<br/>
 </td>
-<td width="113">
-<p align="center">4</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>orale<br/>
 </td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>8. Philosophie </p>
-</td>
-<td width="113">
-<p align="center">7</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>9. Langue vivante II ou langue régionale ou latin </p>
+<td align="center">
+<br/>3. Sciences<br/>
 </td>
-<td width="113">
-<p align="center">4</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>écrite<br/>
 </td>
-<td width="113">
-<p align="center">3 heures</p>
+<td align="center">
+<br/>1 heure 30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>10. Éducation physique et sportive </p>
+<td align="center">
+<br/>Travaux personnels encadrés<br/>
 </td>
-<td width="113">
-<p align="center">2 (2)</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>30 minutes (*)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Epreuves terminales<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>11. Épreuve de spécialité (une au choix du candidat) :</p>
+<td align="center">
+<br/>4. Littérature<br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>2 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5. Histoire-géographie<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6. Langue vivante 1<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite + orale<br/>
+</td>
+<td align="center">
+<br/>3 heures et 20 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7. Langue vivante 2<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite + orale<br/>
+</td>
+<td align="center">
+<br/>3 heures et 20 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8. Littérature étrangère en langue étrangère<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>10 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9. Philosophie<br/>
+</td>
+<td align="center">
+<br/>7<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10. Education physique et sportive<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>CCF (1)<br/>
+</td>
+<td align="center">
 <br/>
-</td>
-<td width="189">
-<br/>
-</td>
-<td width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- latin </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou grec ancien </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou arts plastiques </p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite et orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou cinéma, audiovisuel </p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite et orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou histoire des arts </p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite et orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou musique </p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite et orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou théâtre, expression dramatique </p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite et orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou danse </p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite et orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou langue vivante II </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou langue vivante III </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">20 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou langue régionale </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">20 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou langue vivante ou régionale de complément </p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">20 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou mathématiques</p>
-</td>
-<td width="113">
-<p align="center">3</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>- ou arts du cirque (**)</p>
-</td>
-<td width="113">
-<p align="center">3 + 3</p>
-</td>
-<td width="189">
-<p align="center">Écrite ou orale</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 et 30 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Éducation physique et sportive de complément (3) </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">CCF</p>
-</td>
-<td width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="680">
-<p>(1) Les épreuves de français prennent la dénomination français et littérature à partir de la session 2003 (épreuves anticipées passées en 2002).</p>
-<p>(2) Cf. arrêté relatif aux épreuves d'éducation physique et sportive aux baccalauréats, volume IX, article 933-6.</p>
-<p>(3) Lorsque le candidat a suivi cet enseignement.</p>
-<p>(*) La durée de l'épreuve est fonction du nombre de candidats par groupe, sur la base de 10 minutes par candidat.</p>
-<p>(**) Lorsque le candidat a suivi cet enseignement dans un établissement scolaire relevant de l'Éducation nationale.</p>
+<td align="center">
+<br/>11. Epreuve de spécialité (une au choix du candidat) <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― LCA (2) : latin<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou LCA (2) : grec<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou arts plastiques<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et pratique<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou cinéma-audiovisuel<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou histoire des arts<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou musique<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou théâtre<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou danse<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou langue vivante 1 ou 2 approfondie<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou langue vivante 3<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>20 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou mathématiques<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou droit et grands enjeux du monde contemporain<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>20 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou arts du cirque (**)<br/>
+</td>
+<td align="center">
+<br/>3 + 3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>3 heures 30<br/>
+<br/>et 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Education physique et sportive de complément (3)<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>CCF (1)<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive aux baccalauréats).<br/>
+<br/>(2) Langues et culture de l'antiquité.<br/>
+<br/>(3) Lorsque le candidat a suivi cet enseignement.<br/>
+<br/>(*) La durée de l'épreuve est fonction du nombre de candidats par groupe, sur la base de dix minutes par candidat.<br/>
+<br/>(**) Lorsque le candidat a suivi cet enseignement dans un établissement scolaire relevant de l'éducation nationale.<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-III. Série scientifique (S)
+</div>
 
+III. ― Série scientifique (S)
+
+<div>
 <table>
-<thead>
-<tr>
-<td width="265">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="113">
-<p align="center">COEFFICIENTS</p>
-</td>
-<td width="189">
-<p align="center">NATURE DE L'ÉPREUVE</p>
-</td>
-<td width="113">
-<p align="center">DURÉE</p>
-</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td width="265">
-<p align="center">Épreuves anticipées</p>
-</td>
-<td valign="top" width="113"/>
-<td valign="top" width="189"/>
-<td valign="top" width="113"/>
+<th>
+<br/>
+</th>
+<th>
+<br/>COEFFICIENT<br/>
+</th>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th>
+<br/>DURÉE<br/>
+</th>
 </tr>
 <tr>
-<td width="265">
-<p>1. Français</p>
+<td align="center">
+<br/>Epreuves anticipées<br/>
 </td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>2. Français</p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">20 min</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Travaux personnels encadrés</p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">30 min pour un groupe de 3 candidats (*)</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Épreuves terminales</p>
-</td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>3. Mathématiques</p>
+<td align="center">
+<br/>1. Français<br/>
 </td>
-<td width="113">
-<p align="center">7 ou 9 (1)</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>écrite<br/>
 </td>
-<td width="113">
-<p align="center">4 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>4. Physique-chimie</p>
-</td>
-<td width="113">
-<p align="center">6 ou 8 (1)</p>
-</td>
-<td width="189">
-<p align="center">Écrite <br/>et pratique (4)</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 min<br/>1 heure</p>
+<td align="center">
+<br/>4 heures<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>5. Sciences de la vie et de la Terre</p>
+<td align="center">
+<br/>2. Français<br/>
 </td>
-<td width="113">
-<p align="center">6 ou 8 (1)</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite <br/>et pratique (4)</p>
+<td align="center">
+<br/>orale<br/>
 </td>
-<td width="113">
-<p align="center">3 h 30 min<br/>1 heure</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>Ou biologie, écologie </p>
-</td>
-<td width="113">
-<p align="center">5 + 2</p>
-</td>
-<td width="189">
-<p align="center">Écrite <br/>et pratique</p>
-</td>
-<td width="113">
-<p align="center">3 h 30 min</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>Ou sciences de l'ingénieur </p>
+<td align="center">
+<br/>3. Histoire-géographie<br/>
 </td>
-<td width="113">
-<p align="center">4 + 5</p>
+<td align="center">
+<br/>3<br/>
 </td>
-<td width="189">
-<p align="center">Écrite <br/>et pratique</p>
+<td align="center">
+<br/>écrite<br/>
 </td>
-<td width="113">
-<p align="center">4 heures <br/>3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>6. Histoire-géographie </p>
-</td>
-<td width="113">
-<p align="center">3</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
+<td align="center">
+<br/>4 heures<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>7. Langue vivante I</p>
+<td align="center">
+<br/>Travaux personnels encadrés<br/>
 </td>
-<td width="113">
-<p align="center">3</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td width="189">
-<p align="center">Écrite</p>
+<td align="center">
+<br/>orale<br/>
 </td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>8. Langue vivante II</p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">2 heures</p>
+<td align="center">
+<br/>30 minutes (*)<br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>9. Philosophie</p>
+<td align="center">
+<br/>Epreuves terminales<br/>
 </td>
-<td width="113">
-<p align="center">3</p>
-</td>
-<td width="189">
-<p align="center">Écrite</p>
-</td>
-<td width="113">
-<p align="center">4 heures</p>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>10. Éducation physique et sportive </p>
-</td>
-<td width="113">
-<p align="center">2 (2)</p>
-</td>
-<td width="189">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>Enseignement de spécialité (un au choix du candidat, facultatif pour les élèves ayant choisi les sciences de l'ingénieur à l'épreuve no 5 : </p>
+<td align="center">
+<br/>4. Mathématiques<br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>7 ou 7 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5. Physique-chimie<br/>
+</td>
+<td align="center">
+<br/>6 ou 6 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite et pratique (2)<br/>
+</td>
+<td align="center">
+<br/>3 heures 30 minutes et 1 heure<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6. Sciences de la vie et de la Terre<br/>
+</td>
+<td align="center">
+<br/>6 ou 6 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite et pratique (2)<br/>
+</td>
+<td align="center">
+<br/>3 heures 30 minutes et 1 heure<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou écologie, agronomie et territoires<br/>
+</td>
+<td align="center">
+<br/>7 ou 7 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite et pratique<br/>
+</td>
+<td align="center">
+<br/>3 heures 30 minutes et 1 heure 30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou sciences de l'ingénieur<br/>
+</td>
+<td align="center">
+<br/>6 ou 6 + 2 (1)<br/>
+</td>
+<td align="center">
+<br/>écrite et orale<br/>
+</td>
+<td align="center">
+<br/>4 heures et 20 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7. Langue vivante 1<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+<td align="center">
+<br/>écrite et orale (3)<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8. Langue vivante 2<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>écrite et orale (3)<br/>
+</td>
+<td align="center">
+<br/>2 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9. Philosophie<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10. Education physique et sportive<br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>CCF (4)<br/>
+</td>
+<td align="center">
 <br/>
-</td>
-<td width="189">
-<br/>
-</td>
-<td width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="265">
-<p>Mathématiques ou physique-chimie ou sciences de la vie et de la terre ou</p>
+<td align="center">
+<br/>11. Epreuve de spécialité : (une au choix du candidat, facultative pour les élèves ayant choisi les sciences de l'ingénieur à l'épreuve n° 6).<br/>
+<br/>Mathématiques<br/>
+<br/>― ou physique-chimie<br/>
+<br/>― ou sciences de la vie et de la terre <br/>
 </td>
-<td width="113">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="189">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="113">
+<td align="center">
 <br/>
-</td>
-</tr>
-<tr>
-<td width="265">
-<p>11. Agronomie-territoire-citoyenneté </p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">Orale</p>
-</td>
-<td width="113">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="265">
-<p>Éducation physique et sportive de complément (3)</p>
-</td>
-<td width="113">
-<p align="center">2</p>
-</td>
-<td width="189">
-<p align="center">CCF</p>
-</td>
-<td width="113">
 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="680">
-<p>(1) Lorsque le candidat a choisi la discipline comme enseignement de spécialité. </p>
-<p>(2) Cf. arrêté relatif aux épreuves d'éducation physique et sportive aux baccalauréats, volume IX, article 933-6. </p>
-<p>(3) Lorsque le candidat a suivi cet enseignement.</p>
-<p>(*) La durée de l'épreuve en fonction du nombre de candidats par groupe, sur la base de 10 minutes par candidat.</p>
+<td align="center">
+<br/>― ou informatique et sciences du numérique (3)<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>― ou écologie, agronomie et territoires<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>orale<br/>
+</td>
+<td align="center">
+<br/>30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Education physique et sportive de complément (5)<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>CCF (4)<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(1) Lorsque le candidat a choisi la discipline comme épreuve de spécialité.<br/>
+<br/>(2) La partie pratique de l'épreuve est réservée aux candidats des établissements scolaires publics et privés sous contrat.<br/>
+<br/>(3) Une évaluation orale est effectuée en cours d'année.<br/>
+<br/>(4) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive aux baccalauréats).<br/>
+<br/>(5) Lorsque le candidat a suivi cet enseignement.<br/>
+<br/>(*) La durée de l'épreuve est fonction du nombre de candidats par groupe, sur la base de dix minutes par candidat.<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
 
-Dans chacune des séries L, ES et S, au titre des épreuves obligatoires, les candidats choisissent une épreuve de spécialité. Au moment de leur inscription :
+Dans chacune des séries ES, L et S, au titre des épreuves obligatoires, les candidats choisissent une épreuve de spécialité.
 
-Les candidats de la série économique et sociale font connaître leur choix pour l'épreuve n° 8 et pour l'épreuve correspondant à l'enseignement de spécialité ;
+Au moment de leur inscription :
 
-Les candidats de la série littéraire font connaître leur choix pour les épreuves n° 9 et n° 11 ;
+Les candidats de la série économique et sociale et de la série littéraire font connaître leur choix pour l'épreuve n° 11 correspondant à l'épreuve de spécialité ;
 
-Les candidats de la série scientifique font connaître leur choix pour l'épreuve n° 5 et pour l'épreuve correspondant à l'enseignement de spécialité.
+Les candidats de la série scientifique font connaître leur choix pour l'épreuve n° 6 et pour l'épreuve n° 11 correspondant à l'épreuve de spécialité.

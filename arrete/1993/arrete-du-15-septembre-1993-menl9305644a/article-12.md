@@ -1,3 +1,3 @@
 # Article 12
 
-Le directeur des lycées et collèges et le directeur général des enseignements supérieurs sont chargés, chacun en ce qui le concerne, de l’exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le ministre chargé de l'éducation nationale fixera les dispositions par lesquelles les candidats ayant échoué à une session antérieure subiront les épreuves de la session de 1995.
