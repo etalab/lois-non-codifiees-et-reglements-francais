@@ -234,7 +234,6 @@
 - [Arrêté du 9 avril 2002 (DEFP0201427A)](arrete-du-9-avril-2002-defp0201427a)
 - [Arrêté du 9 avril 2002 (EQUH0200677A)](arrete-du-9-avril-2002-equh0200677a)
 - [Arrêté du 9 avril 2002 (EQUK0200678A)](arrete-du-9-avril-2002-equk0200678a)
-- [Arrêté du 9 avril 2002 (MENE0200899A)](arrete-du-9-avril-2002-mene0200899a)
 - [Arrêté du 9 décembre 2002 (DEFP0202249A)](arrete-du-9-decembre-2002-defp0202249a)
 - [Arrêté du 9 décembre 2002 (SANG0223422A)](arrete-du-9-decembre-2002-sang0223422a)
 - [Arrêté du 9 janvier 2002 (MENF0200106A)](arrete-du-9-janvier-2002-menf0200106a)
