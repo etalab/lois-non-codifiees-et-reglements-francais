@@ -1007,7 +1007,6 @@
 - [Arrêté du 12 juillet 2011 (JUST1118033A)](arrete-du-12-juillet-2011-just1118033a)
 - [Arrêté du 12 juillet 2011 (MCCD1119464A)](arrete-du-12-juillet-2011-mccd1119464a)
 - [Arrêté du 12 juillet 2011 (MENE1119374A)](arrete-du-12-juillet-2011-mene1119374a)
-- [Arrêté du 12 juillet 2011 (MENE1119393A)](arrete-du-12-juillet-2011-mene1119393a)
 - [Arrêté du 12 juillet 2011 (SCSR1120410A)](arrete-du-12-juillet-2011-scsr1120410a)
 - [Arrêté du 12 novembre 2010 (MEND1025980A)](arrete-du-12-novembre-2010-mend1025980a)
 - [Arrêté du 12 novembre 2011 (IOCL1126789A)](arrete-du-12-novembre-2011-iocl1126789a)

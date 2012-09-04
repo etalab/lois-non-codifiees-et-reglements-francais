@@ -42,9 +42,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -59,9 +57,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― situer et caractériser une date dans un contexte chronologique<br/>― nommer et localiser un lieu dans un espace géographique<br/>
@@ -80,9 +76,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― mettre en relation des faits ou événements de natures, de périodes, de localisations spatiales différentes (approches diachroniques et synchroniques)<br/>
@@ -91,9 +85,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― confronter des situations historiques ou/et géographiques<br/>
@@ -106,9 +98,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -123,9 +113,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― prélever, hiérarchiser et confronter des informations selon des approches spécifiques en fonction du document ou du corpus documentaire<br/>
@@ -134,9 +122,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― cerner le sens général d'un document ou d'un corpus documentaire, et le mettre en relation avec la situation historique ou géographique étudiée<br/>
@@ -145,9 +131,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― critiquer des documents de types différents (textes, images, cartes, graphes, etc.)<br/>
@@ -166,9 +150,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― réaliser des cartes, croquis et schémas cartographiques, des organigrammes, des diagrammes et schémas fléchés, des graphes de différents types (évolution, répartition)<br/>
@@ -177,9 +159,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― rédiger un texte ou présenter à l'oral un exposé construit et argumenté en utilisant le vocabulaire historique et géographique spécifique<br/>
@@ -188,9 +168,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― lire un document (un texte ou une carte) et en exprimer oralement ou par écrit les idées clés, les parties ou composantes essentielles ; passer de la carte au croquis, de l'observation à la description<br/>
@@ -213,9 +191,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -230,9 +206,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― développer un discours oral ou écrit construit et argumenté, à le confronter à d'autres points de vue<br/>
@@ -241,9 +215,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― participer à la progression du cours en intervenant à la demande du professeur ou en sollicitant des éclairages ou explications si nécessaire<br/>
@@ -262,9 +234,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― mener à bien une recherche individuelle ou au sein d'un groupe ; prendre part à une production collective<br/>
@@ -273,9 +243,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">― utiliser le manuel comme outil de lecture complémentaire du cours, pour préparer le cours ou en approfondir des aspects.<br/>
@@ -581,7 +549,7 @@ Thème 1. ― Comprendre les territoires de proximité
 </tr>
 <tr>
 <td colspan="2">
-<br/>(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'aménagement choisi se situe dans un territoire métropolitain ou ultramarin français. <p>(**) Pour les élèves suivant un enseignement à distance, dans un établissement français à l'étranger ou dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur la région Ile-de-France . <br/>
+<br/>(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'aménagement choisi se situe dans un territoire métropolitain ou ultramarin français. <p>(**) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur la région Ile-de-France. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.<br/>
 </p>
 </td>
 </tr>

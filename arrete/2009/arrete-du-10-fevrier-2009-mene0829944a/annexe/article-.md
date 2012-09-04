@@ -604,14 +604,14 @@ Les sujets d'étude sont tous obligatoires. Pour chaque sujet d'étude, on retie
 </tr>
 <tr>
 <td valign="top" width="156">
-<p>3. Les transformations de l'espace productif et décisionnel </p>
+<p align="left">3. Les transformations de l'espace productif et décisionnel </p>
 </td>
 <td valign="top" width="155">
-<p>- Une métropole</p>
-<p>- La région de l'établissement </p>
+<p align="left">Une métropole <br/>
+<br/>La région de l'établissement (*) </p>
 </td>
 <td valign="top" width="312">
-<p>On met en relation le redéploiement du système productif et les dynamiques territoriales. On montre la concentration des fonctions de commandement, de recherche et d'innovation dans les métropoles. Au sein de chaque filière se dessine ainsi une division spatiale du travail. On fait apparaître la diversité des espaces productifs : technopôles, pôles de compétitivité, reconversions, déprises. </p>
+<p align="left">On met en relation le redéploiement du système productif et les dynamiques territoriales. On montre la concentration des fonctions de commandement, de recherche et d'innovation dans les métropoles. Au sein de chaque filière se dessine ainsi une division spatiale du travail. On fait apparaître la diversité des espaces productifs : technopôles, pôles de compétitivité, reconversions, déprises. </p>
 </td>
 </tr>
 <tr>
@@ -636,6 +636,11 @@ Les sujets d'étude sont tous obligatoires. Pour chaque sujet d'étude, on retie
 </td>
 <td valign="top" width="312">
 <p>L'Union européenne est une construction géoéconomique et géopolitique. On présente l'élargissement de cet espace à géométrie variable (espace Schengen, zone Euro) ainsi que les acquis communautaires. On évoque les grands débats qui le traversent. </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="left">(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur un espace productif ou décisionnel au choix situé dans une région du territoire français. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur un espace productif ou décisionnel au choix situé dans ce territoire.</p>
 </td>
 </tr>
 </tbody>
