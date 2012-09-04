@@ -74,7 +74,6 @@
 - [Arrêté du 4 octobre 2004 (AGRA0402144A)](arrete-du-4-octobre-2004-agra0402144a)
 - [Arrêté du 4 mai 2004 (MENE0400865A)](arrete-du-4-mai-2004-mene0400865a)
 - [Arrêté du 4 mai 2004 (MENE0400866A)](arrete-du-4-mai-2004-mene0400866a)
-- [Arrêté du 4 mai 2004 (MENE0400883A)](arrete-du-4-mai-2004-mene0400883a)
 - [Arrêté du 4 mai 2004 (SANH0421192A)](arrete-du-4-mai-2004-sanh0421192a)
 - [Arrêté du 5 août 2004 (DEFH0401041A)](arrete-du-5-aout-2004-defh0401041a)
 - [Arrêté du 5 août 2004 (DEFN0400980A)](arrete-du-5-aout-2004-defn0400980a)
