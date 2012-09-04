@@ -10,4 +10,6 @@ Les écoles de formation d'officiers, dont la préparation peut être assurée p
 
 4° L'Ecole de l'air ;
 
-5° L'Ecole nationale supérieure des ingénieurs des études et techniques de l'armement, à titre militaire.
+5° L'Ecole nationale supérieure des ingénieurs des études et techniques de l'armement, à titre militaire ;
+
+6° L'Ecole nationale supérieure des ingénieurs de l'infrastructure militaire.

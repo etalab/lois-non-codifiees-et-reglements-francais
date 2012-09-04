@@ -24,6 +24,8 @@ b) Les professeurs et l'encadrement militaire de la classe concernée.
 
 2° Deux délégués de classe.
 
+3° Deux représentants de parents d'élèves désignés par le commandant du lycée, avec voix consultative.
+
 **II.-Fonctionnement**
 
 Le conseil de classe se réunit selon un calendrier arrêté par le commandant du lycée, au moins chaque fin de trimestre ou de semestre.
@@ -40,4 +42,4 @@ En cas de désaccord avec la proposition d'orientation du conseil de classe, l'�
 
 Lorsque la décision d'orientation du commandant du lycée de la défense n'est pas conforme à la demande de l'élève majeur ou de ses représentants légaux, s'il est mineur, elle est motivée.
 
-La décision d'orientation peut faire l'objet d'une procédure d'appel auprès de la commission d'appel mise en place par     le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie du département dans lequel est située la commune d'implantation du lycée, sur demande de l'élève majeur ou de ses représentants légaux, s'il est mineur.
+La décision d'orientation peut faire l'objet d'une procédure d'appel auprès de la commission d'appel mise en place par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie du département dans lequel est située la commune d'implantation du lycée, sur demande de l'élève majeur ou de ses représentants légaux, s'il est mineur.
