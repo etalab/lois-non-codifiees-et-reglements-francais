@@ -340,7 +340,7 @@ Règlement d'examen
 </tr>
 <tr>
 <td colspan="8" valign="top">
-<p>* Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe. </p>
+<p>* Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, hébreu, italien, portugais, russe. </p>
 <p>** La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points au-dessus de la moyenne sont pris en compte. </p>
 <p>(1) Non compris le temps de préparation de 20 minutes. </p>
 </td>

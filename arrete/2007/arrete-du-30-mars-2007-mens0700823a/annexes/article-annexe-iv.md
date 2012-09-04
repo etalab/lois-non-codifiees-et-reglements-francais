@@ -269,7 +269,7 @@ Règlement d'examen
 </tr>
 <tr>
 <td colspan="9" width="680">
-<p>* Les langues vivantes autorisées sont les suivantes : anglais, allemand, espagnol, italien et portugais. </p>
+<p>* Les langues vivantes autorisées sont les suivantes : anglais, allemand, espagnol, hébreu, italien et portugais. </p>
 <p>(1) Non compris le temps de préparation de 20 minutes. </p>
 <p>(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Les langues vivantes autorisées pour cette épreuve sont fixées par la note de service n° 2006-107 du 29 juin 2006. </p>
 </td>

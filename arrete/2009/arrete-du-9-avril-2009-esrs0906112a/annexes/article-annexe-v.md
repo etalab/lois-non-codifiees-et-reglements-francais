@@ -100,7 +100,7 @@ Chaque situation est notée sur 20 points. La note globale est ramenée à une n
 
 Coefficient 6
 
-Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, estonien, grec, italien, polonais, portugais, roumain, russe.
+Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, estonien, grec, hébreu, italien, polonais, portugais, roumain, russe.
 
 Finalités et objectifs :
 

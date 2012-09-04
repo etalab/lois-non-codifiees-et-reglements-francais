@@ -1,8 +1,8 @@
 # Article Annexe V
 
-**Définition des épreuves**
+Définition des épreuves
 
-**Épreuve E1 / U1 - culture générale et expression**
+Épreuve E1 / U1 - culture générale et expression
 
 Coefficient 2.
 
@@ -90,7 +90,7 @@ La capacité du candidat à communiquer oralement est évaluée au moment de la 
 
 Chaque situation est notée sur 20 points. La note globale est ramenée à une note sur 20.
 
-**Épreuve E2 - expression et culture en langues vivantes étrangères**
+Épreuve E2 - expression et culture en langues vivantes étrangères
 
 Langues A : U2.1, coefficient 2.
 
@@ -184,9 +184,9 @@ Expression orale 15 minutes + 20 minutes de préparation.
 
 - Dans un second temps, l'examinateur s'entretiendra avec lui pour demander précisons, explications, réactions (10 minutes).
 
-La liste des langues autorisées est la suivante : anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe, japonais.
+La liste des langues autorisées est la suivante : anglais, allemand, arabe, chinois, espagnol, hébreu, italien, portugais, russe, japonais.
 
-**Épreuve E3 / U3 - économie et droit**
+Épreuve E3 / U3 - économie et droit
 
 Coefficient 3
 
@@ -254,7 +254,7 @@ La non conformité du dossier peut être prononcée dès lors qu'une des situati
 
 - documents constituant le dossier non visés ou non signés par les personnes habilitées à cet effet.
 
-**Épreuve E4 / U4 - communication professionnelle en français et langue étrangère**
+Épreuve E4 / U4 - communication professionnelle en français et langue étrangère
 
 Épreuve orale. Coefficient 3.
 
@@ -460,7 +460,7 @@ Pour l'ensemble de l'épreuve, l'évaluation de la prestation du candidat est co
 
 Conformément à la réglementation, le jury pourra éventuellement demander à avoir communication des supports des évaluations. Ces documents seront tenus à la disposition du jury et de l'autorité rectorale pour la session considérée jusqu'à la session suivante.
 
-**Épreuve E5 / U5 - diagnostic opérationnel et proposition de solutions**
+Épreuve E5 / U5 - diagnostic opérationnel et proposition de solutions
 
 Épreuve écrite - durée : 4 heures - coefficient : 4.
 
@@ -520,7 +520,7 @@ L'épreuve, écrite et d'une durée de 4 heures, revêt la forme d'une étude de
 
 Pour l'évaluation de l'épreuve, il est fait appel aux professeurs d'économie et gestion enseignant en section de technicien supérieur Assistant de manager une ou plusieurs des finalités 2 à 4 du référentiel de certification.
 
-**Épreuve E6 / U6 - action professionnelle**
+Épreuve E6 / U6 - action professionnelle
 
 Épreuve pratique - coefficient : 4.
 
@@ -750,7 +750,7 @@ Critères d'évaluation
 
 Conformément à la réglementation, le jury pourra éventuellement demander à avoir communication des supports des évaluations. Ces documents seront tenus à la disposition du jury et de l'autorité rectorale pour la session considérée jusqu'à la session suivante.
 
-**Épreuve facultative F1 - langue vivante étrangère 3**
+Épreuve facultative F1 - langue vivante étrangère 3
 
 Oral ponctuel durée 20 minutes, préparation 20 minutes
 
@@ -758,7 +758,7 @@ Entretien en langue étrangère à partir d'un ou de plusieurs documents (texte,
 
 La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement différente des langues vivantes étrangères obligatoires.
 
-**Épreuve facultative F2 - module de spécialisation**
+Épreuve facultative F2 - module de spécialisation
 
 Épreuve orale - durée : 30 minutes
 

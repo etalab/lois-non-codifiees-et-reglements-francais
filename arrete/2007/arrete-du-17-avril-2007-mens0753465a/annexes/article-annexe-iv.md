@@ -228,7 +228,7 @@ Règlement d'examen
 </tr>
 <tr>
 <td valign="top" width="99">
-<p>E F 1 L a n g u e vivante étrangère 2 (2).</p>
+<p>EF1 Langue vivante étrangère 2 (2).</p>
 </td>
 <td width="58">
 <p align="center">UF 1</p>
@@ -257,7 +257,7 @@ Règlement d'examen
 </tr>
 <tr>
 <td colspan="9" valign="top" width="680">
-<p>(*) Les langues vivantes autorisées sont les suivantes : anglais, allemand, espagnol, italien et portugais.</p>
+<p>(*) Les langues vivantes autorisées sont les suivantes : anglais, allemand, espagnol, hébreu, italien et portugais.</p>
 <p>(1) Non compris le temps de préparation de 20 minutes.</p>
 <p>(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.</p>
 <p>Les langues vivantes autorisées pour cette épreuve sont fixées par la note de service no 06-107 du 29 juin 2006. Seuls les points au-dessus de la moyenne sont pris en compte.</p>
