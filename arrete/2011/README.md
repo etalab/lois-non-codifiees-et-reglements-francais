@@ -2644,7 +2644,6 @@
 - [Arrêté du 28 juillet 2011 (DEVK1119280A)](arrete-du-28-juillet-2011-devk1119280a)
 - [Arrêté du 28 juillet 2011 (DEVL1117913A)](arrete-du-28-juillet-2011-devl1117913a)
 - [Arrêté du 28 juillet 2011 (EFII1119266A)](arrete-du-28-juillet-2011-efii1119266a)
-- [Arrêté du 28 juillet 2011 (ESRS1118084A)](arrete-du-28-juillet-2011-esrs1118084a)
 - [Arrêté du 28 juillet 2011 (INDR1120959A)](arrete-du-28-juillet-2011-indr1120959a)
 - [Arrêté du 28 juillet 2011 (JUSC1120426A)](arrete-du-28-juillet-2011-jusc1120426a)
 - [Arrêté du 28 juin 2011 (AGRG1117920A)](arrete-du-28-juin-2011-agrg1117920a)
