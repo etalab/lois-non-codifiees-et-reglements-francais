@@ -8,11 +8,9 @@ Après la classe de troisième :
 
 - la première année du cycle de deux ans conduisant à une spécialité de certificat d'aptitude professionnelle.
 
-Après la classe de seconde générale et technologique:
+Après la classe de seconde générale et technologique :
 
-- les diverses séries des classes de première puis terminales qui préparent aux séries correspondantes du baccalauréat. Chacune des séries constitue une voie d'orientation: littéraire (L), économique et sociale (E.S.),
-
-scientifique (S), sciences et technologies de la gestion (S.T.G.), sciences et technologies de l'industrie et du développement durable (STI2D), sciences et technologies de laboratoire (S.T.L.), sciences et technologies de la santé et du social (S.T.2.S.), sciences et technologies de l'agronomie et du vivant : agronomie-alimentation-environnement-territoires (S.T.A.V.), sciences et technologies du design et des arts appliqués (STD2A) ;
+- les diverses séries des classes de première puis terminales qui préparent aux séries correspondantes du baccalauréat. Chacune des séries constitue une voie d'orientation: littéraire (L), économique et sociale (E.S.), scientifique (S), sciences et technologies du management et de la gestion (STMG), sciences et technologies de l'industrie et du développement durable (STI2D), sciences et technologies de laboratoire (S.T.L.), sciences et technologies de la santé et du social (S.T.2.S.), sciences et technologies de l'agronomie et du vivant : agronomie-alimentation-environnement-territoires (S.T.A.V.), sciences et technologies du design et des arts appliqués (STD2A) ;
 
 - les classes de première puis terminales préparant au brevet de technicien et au brevet de technicien agricole.
 
