@@ -1,3 +1,0 @@
-# Article 1
-
-Les candidats aux concours spéciaux prévus au titre III du décret du 19 octobre 1988 susvisé, organisés en vue de permettre aux pharmaciens ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, de la Principauté d'Andorre ou de la Confédération suisse d'accéder au troisième cycle des études pharmaceutiques en vue d'obtenir un diplôme d'études spécialisées, subissent les épreuves organisées dans les conditions prévues par l'arrêté du 24 août 2009 susvisé, sous réserve des dispositions particulières mentionnées ci-après.

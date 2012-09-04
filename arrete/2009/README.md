@@ -2039,7 +2039,6 @@
 - [Arrêté du 24 août 2009 (DEFD0916317A)](arrete-du-24-aout-2009-defd0916317a)
 - [Arrêté du 24 août 2009 (DEFD0916324A)](arrete-du-24-aout-2009-defd0916324a)
 - [Arrêté du 24 août 2009 (DEFD0916339A)](arrete-du-24-aout-2009-defd0916339a)
-- [Arrêté du 24 août 2009 (ESRS0920690A)](arrete-du-24-aout-2009-esrs0920690a)
 - [Arrêté du 24 août 2009 (IMIK0914368A)](arrete-du-24-aout-2009-imik0914368a)
 - [Arrêté du 24 août 2009 (IOCC0908319A)](arrete-du-24-aout-2009-iocc0908319a)
 - [Arrêté du 24 août 2009 (JUSF0920048A)](arrete-du-24-aout-2009-jusf0920048a)
