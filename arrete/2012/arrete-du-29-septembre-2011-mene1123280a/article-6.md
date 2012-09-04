@@ -1,0 +1,3 @@
+# Article 6
+
+Les enseignements facultatifs sont choisis par les élèves parmi ceux mentionnés en annexe du présent arrêté, dans la limite des enseignements offerts par leur établissement. Les recteurs d'académie fixent la carte des enseignements facultatifs, après avis des instances consultatives concernées. A titre exceptionnel, un élève peut suivre une partie des enseignements dans un autre établissement que celui où il est inscrit, dans le cas où ces enseignements ne peuvent être dispensés dans ce dernier, lorsqu'une convention existe à cet effet entre les deux établissements, ou changer d'établissement dans les conditions prévues à l'article D. 331-41 du code de l'éducation.
