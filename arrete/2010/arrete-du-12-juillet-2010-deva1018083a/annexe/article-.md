@@ -2,16 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 15 mai 2012 :
-
-Paris - Nouméa.
-
-Paris - Sydney (Australie).
-
-Saint-Denis de La Réunion - Nouméa.
-
-Saint-Denis de La Réunion - Sydney (Australie).
-
 Jusqu'au 31 octobre 2013 :
 
 Saint-Pierre de La Réunion - Maurice.
@@ -61,3 +51,7 @@ Saint-Denis de La Réunion - Nosy Be (Madagascar) ;
 Saint-Denis de La Réunion - Tamatave (Madagascar) ;
 
 Saint-Denis de La Réunion - Tananarive (Madagascar).
+
+Jusqu'au 31 juillet 2017 :
+
+Saint-Denis de La Réunion - Perth (Australie).
