@@ -98,7 +98,6 @@
 - [Décret n°92-894 du 2 septembre 1992 (INTB9200334D)](decret-n92-894-du-2-septembre-1992-intb9200334d)
 - [Décret n°92-895 du 2 septembre 1992 (INTB9200335D)](decret-n92-895-du-2-septembre-1992-intb9200335d)
 - [Décret n°92-896 du 2 septembre 1992 (INTB9200336D)](decret-n92-896-du-2-septembre-1992-intb9200336d)
-- [Décret n°92-897 du 2 septembre 1992 (INTB9200337D)](decret-n92-897-du-2-septembre-1992-intb9200337d)
 - [Décret n°92-898 du 2 septembre 1992 (INTB9200338D)](decret-n92-898-du-2-septembre-1992-intb9200338d)
 - [Décret n°92-899 du 2 septembre 1992 (INTB9200339D)](decret-n92-899-du-2-septembre-1992-intb9200339d)
 - [Décret n°92-900 du 2 septembre 1992 (INTB9200340D)](decret-n92-900-du-2-septembre-1992-intb9200340d)
