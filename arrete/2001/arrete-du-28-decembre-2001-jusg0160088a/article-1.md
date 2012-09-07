@@ -38,7 +38,7 @@ IV. - Administration centrale
 
 a) Rémunération :
 
-60 euros pour une astreinte de samedi et dimanche ;
+80 € pour une astreinte de samedi et dimanche ;
 
 40 euros pour une astreinte un samedi, un dimanche ou un jour férié ;
 
