@@ -61,6 +61,7 @@
 - [Décret n°2012-646 du 3 mai 2012 (LOGL1134366D)](decret-n2012-646-du-3-mai-2012-logl1134366d)
 - [Décret n°2009-1096 du 4 septembre 2009 (ECEP0918439D)](decret-n2009-1096-du-4-septembre-2009-ecep0918439d)
 - [Décret n°2009-1097 du 4 septembre 2009 (ECEP0906596D)](decret-n2009-1097-du-4-septembre-2009-ecep0906596d)
+- [Décret n°2012-1023 du 4 septembre 2012 (MENF1208600D)](decret-n2012-1023-du-4-septembre-2012-menf1208600d)
 - [Décret n°2012-453 du 4 avril 2012 (EFII1201141D)](decret-n2012-453-du-4-avril-2012-efii1201141d)
 - [Décret n°2012-454 du 4 avril 2012 (ETSS1207747D)](decret-n2012-454-du-4-avril-2012-etss1207747d)
 - [Décret n°2012-455 du 4 avril 2012 (ESRS1130906D)](decret-n2012-455-du-4-avril-2012-esrs1130906d)
