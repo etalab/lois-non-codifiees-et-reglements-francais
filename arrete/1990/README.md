@@ -655,7 +655,6 @@
 - [Arrêté du 26 octobre 1990 (SPSH9002060A)](arrete-du-26-octobre-1990-spsh9002060a)
 - [Arrêté du 26 septembre 1990 (BUDZ9000013A)](arrete-du-26-septembre-1990-budz9000013a)
 - [Arrêté du 26 septembre 1990 (MERR9000163A)](arrete-du-26-septembre-1990-merr9000163a)
-- [Arrêté du 27 août 1990 (PTTT9000695A)](arrete-du-27-aout-1990-pttt9000695a)
 - [Arrêté du 27 avril 1990 (MERG9000072A)](arrete-du-27-avril-1990-merg9000072a)
 - [Arrêté du 27 avril 1990 (SPSI9000907A)](arrete-du-27-avril-1990-spsi9000907a)
 - [Arrêté du 27 avril 1990 (TEFE9003370A)](arrete-du-27-avril-1990-tefe9003370a)
