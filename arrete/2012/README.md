@@ -1493,7 +1493,6 @@
 - [Arrêté du 22 décembre 2011 (MENV1135176A)](arrete-du-22-decembre-2011-menv1135176a)
 - [Arrêté du 22 février 2012 (AGRE1203223A)](arrete-du-22-fevrier-2012-agre1203223a)
 - [Arrêté du 22 février 2012 (AGRE1204505A)](arrete-du-22-fevrier-2012-agre1204505a)
-- [Arrêté du 22 février 2012 (AGRT1204230A)](arrete-du-22-fevrier-2012-agrt1204230a)
 - [Arrêté du 22 février 2012 (AGRT1205389A)](arrete-du-22-fevrier-2012-agrt1205389a)
 - [Arrêté du 22 février 2012 (EFIT1205992A)](arrete-du-22-fevrier-2012-efit1205992a)
 - [Arrêté du 22 février 2012 (ESRH1204076A)](arrete-du-22-fevrier-2012-esrh1204076a)
