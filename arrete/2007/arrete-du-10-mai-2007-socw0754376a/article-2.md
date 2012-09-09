@@ -5,3 +5,5 @@ Les établissements enquêtés sont tirés du fichier OCEDAR (outil de coordinat
 Les établissements déclarent sur le questionnaire chaque mouvement d'entrée et chaque mouvement de sortie en précisant le nom, le sexe, l'année de naissance, la nationalité et la qualification des salariés concernés. La société SAMO-Informatique procède à la saisie informatique des questionnaires sans reprendre le nom du salarié.
 
 Cette société doit conserver les questionnaires pendant un an.
+
+Pour les déclarations réalisées via internet, les noms et prénoms des salariés sont saisis. Pour les déclarations via internet, le nom, le prénom, le numéro de téléphone et l'adresse électronique de la personne de l'établissement concerné à joindre pour précisions éventuelles sont saisis. Ces informations sont conservées pendant une durée maximale de deux ans avant d'être détruites.
