@@ -62,33 +62,38 @@ Pour le ministère de l'économie et le ministère du budget, les bulletins offi
 </td>
 </tr>
 <tr>
-<td valign="top" width="205">
-<p>Direction générale de la comptabilité publique</p>
+<td rowspan="4" valign="top" width="205">
+<p>De la direction générale des finances publiques</p>
 </td>
 <td valign="top" width="205">
-<p>Bulletin officiel de la comptabilité publique</p>
+<p>Bulletin officiel des finances publiques comportant trois sections :</p>
 </td>
-<td valign="top" width="205">
-<p>Centre de documentation économie et finances (CEDEF), 12, place Bataillon-du-Pacifique, 75572 Paris Cedex 12</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="205">
-<p>Direction générale des impôts</p>
-</td>
-<td valign="top" width="205">
-<p>Bulletin officiel des impôts</p>
-</td>
-<td rowspan="2" valign="top" width="205">
-<p>Centre de documentation économie et finances (CEDEF), 12, place Bataillon-du-Pacifique, 75572 Paris Cedex 12</p>
-</td>
-</tr>
-<tr>
 <td valign="top" width="205">
 <br/>
 </td>
+</tr>
+<tr>
 <td valign="top" width="205">
-<p>Bulletin officiel des annonces des domaines </p>
+<p>- impôts</p>
+</td>
+<td valign="top" width="205">
+<p>www.impots.gouv.fr</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>- gestion comptable publique</p>
+</td>
+<td valign="top" width="205">
+<p>www.budget.gouv.fr</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="205">
+<p>-ressources humaines et organisation </p>
+</td>
+<td valign="top" width="205">
+<p>www.budget.gouv.fr</p>
 </td>
 </tr>
 <tr>
@@ -97,17 +102,6 @@ Pour le ministère de l'économie et le ministère du budget, les bulletins offi
 </td>
 <td valign="top" width="205">
 <p>Bulletin officiel des douanes</p>
-</td>
-<td valign="top" width="205">
-<p>Centre de documentation économie et finances (CEDEF), 12, place Bataillon-du-Pacifique, 75572 Paris Cedex 12</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="205">
-<p>Service des pensions </p>
-</td>
-<td valign="top" width="205">
-<p>Bulletin officiel des pensions de l'Etat</p>
 </td>
 <td valign="top" width="205">
 <p>Centre de documentation économie et finances (CEDEF), 12, place Bataillon-du-Pacifique, 75572 Paris Cedex 12</p>
