@@ -419,7 +419,6 @@
 - [Arrêté du 7 mai 2012 (PRMX1222757A)](arrete-du-7-mai-2012-prmx1222757a)
 - [Arrêté du 8 août 2012 (AFSP1232079A)](arrete-du-8-aout-2012-afsp1232079a)
 - [Arrêté du 8 août 2012 (AFSP1232095A)](arrete-du-8-aout-2012-afsp1232095a)
-- [Arrêté du 8 août 2012 (AFSP1232105A)](arrete-du-8-aout-2012-afsp1232105a)
 - [Arrêté du 8 août 2012 (AFSS1231958A)](arrete-du-8-aout-2012-afss1231958a)
 - [Arrêté du 8 août 2012 (AGRG1222171A)](arrete-du-8-aout-2012-agrg1222171a)
 - [Arrêté du 8 août 2012 (AGRG1222217A)](arrete-du-8-aout-2012-agrg1222217a)
