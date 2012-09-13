@@ -2176,7 +2176,6 @@
 - [Arrêté du 28 juin 2012 (DEVM1224834A)](arrete-du-28-juin-2012-devm1224834a)
 - [Arrêté du 28 juin 2012 (DEVM1224835A)](arrete-du-28-juin-2012-devm1224835a)
 - [Arrêté du 28 juin 2012 (DEVM1227775A)](arrete-du-28-juin-2012-devm1227775a)
-- [Arrêté du 28 juin 2012 (MAEA1227471A)](arrete-du-28-juin-2012-maea1227471a)
 - [Arrêté du 28 mars 2012 (DEVA1207863A)](arrete-du-28-mars-2012-deva1207863a)
 - [Arrêté du 28 mars 2012 (DEVA1208001A)](arrete-du-28-mars-2012-deva1208001a)
 - [Arrêté du 28 mars 2012 (DEVK1202521A)](arrete-du-28-mars-2012-devk1202521a)
