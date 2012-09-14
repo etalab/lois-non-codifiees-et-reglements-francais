@@ -126,4 +126,8 @@ Paris - Dakar (Sénégal) ;
 
 Toulouse - Dakar (Sénégal).
 
+Jusqu'au 21 août 2017 :
+
+Paris - Alger (Algérie).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
