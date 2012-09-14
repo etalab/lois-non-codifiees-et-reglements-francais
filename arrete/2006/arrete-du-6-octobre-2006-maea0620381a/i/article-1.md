@@ -6,8 +6,8 @@ Elle concerne tous les déplacements à l'étranger, en France métropolitaine a
 
 Dans les conditions définies ci-après, la politique des voyages est régie par deux principes fondamentaux :
 
--le recours aux services du voyagiste est obligatoire ;
+- le recours aux services du voyagiste est obligatoire ;
 
--l'optimisation du coût du transport est prioritaire.
+- l'optimisation du coût du transport est prioritaire.
 
-Par dérogation prévue à l'article 2, alinéa 8°, du décret du 3 juillet 2006, Paris, ses communes limitrophes et la commune de La Courneuve constituent une seule et même commune.
+Par dérogation prévue à l'article 2 (8°) du décret du 3 juillet 2006, Paris, ses communes limitrophes et la commune de La Courneuve constituent une seule et même commune.
