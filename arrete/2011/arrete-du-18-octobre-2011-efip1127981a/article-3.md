@@ -6,7 +6,7 @@ a) Représentants de l'administration :
 
 ― le directeur de l'école ;
 
-― le secrétaire général de l'école ;
+― le directeur des ressources humaines de l'école ;
 
 b) Représentants du personnel : sept membres titulaires et sept membres suppléants ;
 

@@ -364,9 +364,11 @@ Paris-Téhéran.
 
 Israël (jusqu'au 31 décembre 2012)
 
-Paris-Tel-Aviv.
+Paris - Tel-Aviv.
 
 Nice - Tel-Aviv.
+
+Marseille - Tel-Aviv.
 
 Jamaïque (jusqu'au 31 décembre 2012)
 
