@@ -1,0 +1,3 @@
+# Article 2
+
+Les salariés des coopératives ayant un objet conforme à l'article L. 332-6 du code forestier qui remplissent les conditions d'expérience professionnelle et de diplômes prévues à l'article R. 171-10 du code rural et de la pêche maritime et qui exerçaient, à la date d'entrée en vigueur du présent décret, une activité de gestion forestière sont inscrits de droit et pour une durée de cinq ans sur la liste des gestionnaires forestiers professionnels, sous réserve de se déclarer auprès du préfet de la région du lieu principal d'exercice de leur activité dans un délai de six mois à compter de l'entrée en vigueur du présent décret.
