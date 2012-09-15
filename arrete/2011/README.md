@@ -93,7 +93,6 @@
 - [Arrêté du 3 août 2011 (ETSS1121774A)](arrete-du-3-aout-2011-etss1121774a)
 - [Arrêté du 3 août 2011 (IOCB1116021A)](arrete-du-3-aout-2011-iocb1116021a)
 - [Arrêté du 3 août 2011 (IOCC1117949A)](arrete-du-3-aout-2011-iocc1117949a)
-- [Arrêté du 3 août 2011 (MCCB1118134A)](arrete-du-3-aout-2011-mccb1118134a)
 - [Arrêté du 3 avril 1995 (AGRM9500885A)](arrete-du-3-avril-1995-agrm9500885a)
 - [Arrêté du 3 décembre 2010 (DEVP1029542A)](arrete-du-3-decembre-2010-devp1029542a)
 - [Arrêté du 3 décembre 2010 (ETSO1030489A)](arrete-du-3-decembre-2010-etso1030489a)
