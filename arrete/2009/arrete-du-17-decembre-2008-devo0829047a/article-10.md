@@ -13,3 +13,5 @@ Bon : vert.
 Médiocre : rouge.
 
 Les masses d'eau souterraine qui subissent de manière durable et clairement définie une tendance à la hausse des concentrations d'un polluant quelconque résultant de l'effet de l'activité humaine sont également indiquées par un point noir. Les renversements de tendance sont indiqués par un point bleu.
+
+Les points de surveillance où les normes de qualité des eaux souterraines ou les valeurs seuils sont dépassées sont également indiqués lorsque c'est pertinent et possible.
