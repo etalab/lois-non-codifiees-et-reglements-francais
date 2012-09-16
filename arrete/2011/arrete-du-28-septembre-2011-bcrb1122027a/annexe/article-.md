@@ -62,6 +62,8 @@ Agence nationale de recherches sur le sida.
 
 Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
+L'Agence nationale des fréquences.
+
 Agence nationale des services à la personne.
 
 Agence nationale des titres sécurisés.
@@ -158,8 +160,6 @@ Association française du festival international du film.
 
 Association française pour le développement de l'enseignement technique.
 
-Association nationale pour la formation professionnelle des adultes.
-
 Association pour la gestion du régime d'assurance des créances des salariés.
 
 Association pour la promotion des professions paramédicales.
@@ -241,8 +241,6 @@ Centre d'études politiques et de communication.
 Centre d'études supérieures industrielles.
 
 Centre européen de formation continue maritime.
-
-Centre européen de recherche et de formation avancée en calcul scientifique.
 
 Centre informatique national de l'enseignement supérieur.
 
@@ -436,8 +434,6 @@ Ecole des hautes études en santé publique.
 
 Ecole des hautes études en sciences sociales.
 
-Ecole des hautes études industrielles Lille.
-
 Ecole d'infirmières de Lille.
 
 Ecole d'infirmières de Loos.
@@ -451,8 +447,6 @@ Ecole d'infirmières Florence Nightingale.
 Ecole du Louvre.
 
 Ecole française d'Extrême-Orient.
-
-Ecole française d'électronique et d'informatique.
 
 Ecole libre des hautes études sociales.
 
@@ -492,8 +486,6 @@ Ecole nationale d'ingénieurs de Tarbes.
 
 Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux.
 
-Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand.
-
 Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
 
 Ecole nationale supérieure agricole d'Angers.
@@ -515,6 +507,8 @@ Ecole nationale supérieure d'architecture de Montpellier.
 Ecole nationale supérieure d'architecture de Nancy.
 
 Ecole nationale supérieure d'architecture de Nantes.
+
+Ecole nationale supérieure d'architecture de Paris-Malaquais.
 
 Ecole nationale supérieure d'architecture de Paris-Val de Seine.
 
@@ -612,8 +606,6 @@ Ecole nationale supérieure maritime.
 
 Ecole nationale vétérinaire agroalimentaire et de l'alimentation Nantes-Atlantique.
 
-Ecole nationale vétérinaire de Lyon.
-
 Ecole nationale vétérinaire de Maisons-Alfort.
 
 Ecole nationale vétérinaire de Toulouse.
@@ -632,41 +624,19 @@ Ecole nouvelle d'organisation économique et sociale.
 
 Ecole polytechnique.
 
-Ecole polytechnique féminine.
-
 Ecole pratique des hautes études.
 
 Ecole pratique sociale interrégionale de Clermont-Ferrand.
 
-Ecole spéciale de mécanique et d'électricité.
-
-Ecole spéciale des travaux publics du bâtiment et de l'industrie.
-
 Ecole supérieure d'agriculture de Purpan.
-
-Ecole supérieure de chimie organique et minérale.
 
 Ecole supérieure de fonderie.
 
 Ecole supérieure de travail social.
 
-Ecole supérieure d'électricité.
-
-Ecole supérieure d'électronique de l'Ouest.
-
-Ecole supérieure des sciences économiques et commerciales.
-
-Ecole supérieure des techniques aéronautiques et de constructions automobiles.
-
 Ecole supérieure des techniques aérospatiales.
 
 Ecole supérieure des techniques de biologie appliquée.
-
-Ecole supérieure des techniques industrielles et textiles de Villeneuve-d'Ascq.
-
-Ecole supérieure d'informatique électronique et automatique.
-
-Ecole supérieure d'ingénieurs en génie électronique.
 
 Ecole supérieure du bois.
 
@@ -682,6 +652,8 @@ Etablissement de préparation et de réponse aux urgences sanitaires.
 
 Etablissement national d'enseignement supérieur agronomique de Dijon.
 
+Etablissement public de coopération scientifique Normandie Université.
+
 Etablissement public d'insertion de la défense.
 
 Etablissement public d'aménagement universitaire de la région Ile-de-France.
@@ -691,8 +663,6 @@ Etablissement public de financement et de restructuration.
 Etablissement public de gestion de la contribution exceptionnelle de France Télécom.
 
 Etablissement public de la porte Dorée-Cité nationale de l'histoire de l'immigration.
-
-Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées.
 
 Etablissement public de réalisation de défaisance.
 
@@ -870,6 +840,8 @@ Institut de recherche pour le développement.
 
 Institut de veille sanitaire.
 
+Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et environnement.
+
 Institut d'enseignement supérieur du travail social de Nice.
 
 Institut des hautes études de défense nationale.
@@ -919,8 +891,6 @@ Institut franco-allemand de recherches de Saint-Louis.
 Institut national de l'information géographique et forestière.
 
 Institut méditerranéen de formation et recherche en travail social de Marseille.
-
-Institut national de la consommation.
 
 Institut national de la jeunesse et de l'éducation populaire.
 
@@ -1016,10 +986,6 @@ Institut supérieur de l'agriculture du Nord-Pas-de-Calais.
 
 Institut supérieur de mécanique de Paris.
 
-Institut supérieur d'électronique de Lille.
-
-Institut supérieur d'électronique de Paris.
-
 Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agro campus Ouest).
 
 Institut supérieur du travail.
@@ -1027,8 +993,6 @@ Institut supérieur du travail.
 Institut supérieur social de Mulhouse.
 
 Institut Mines-Télécom.
-
-Institut textile et chimique de Lyon.
 
 Institut national de l'information géographique et forestière.
 
@@ -1121,8 +1085,6 @@ Parc national des Pyrénées-Occidentales.
 Parc national du Mercantour.
 
 Pôle universitaire guyanais.
-
-Pôle universitaire normand.
 
 Préparation olympique et paralympique.
 
