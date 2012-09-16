@@ -1,4 +1,0 @@
-# TITRE II : AUTORITES ET ORGANISMES  RELEVANT DU CHEF D'ETAT MAJOR DES ARMEES
-
-- [Article 24](article-24.md)
-- [Article 26](article-26.md)

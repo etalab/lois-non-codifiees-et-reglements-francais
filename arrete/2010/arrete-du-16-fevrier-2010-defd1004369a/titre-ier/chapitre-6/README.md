@@ -1,4 +1,0 @@
-# CHAPITRE 6 : COMPETENCES DE LA DIVISION  ET DU CENTRE RELEVANT DU DOMAINE DU SOUTIEN
-
-- [Article 20](article-20.md)
-- [Article 21](article-21.md)
