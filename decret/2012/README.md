@@ -331,6 +331,7 @@
 - [Décret n°2012-1050 du 14 septembre 2012 (EFIE1229648D)](decret-n2012-1050-du-14-septembre-2012-efie1229648d)
 - [Décret n°2012-1052 du 14 septembre 2012 (AFSH1234382D)](decret-n2012-1052-du-14-septembre-2012-afsh1234382d)
 - [Décret n°2012-1053 du 14 septembre 2012 (DEVK1209654D)](decret-n2012-1053-du-14-septembre-2012-devk1209654d)
+- [Décret n°2012-1055 du 14 septembre 2012 (RDFF1208861D)](decret-n2012-1055-du-14-septembre-2012-rdff1208861d)
 - [Décret n°2012-211 du 14 février 2012 (TRAV1133246D)](decret-n2012-211-du-14-fevrier-2012-trav1133246d)
 - [Décret n°2012-215 du 14 février 2012 (AGRT1132991D)](decret-n2012-215-du-14-fevrier-2012-agrt1132991d)
 - [Décret n°2012-356 du 14 mars 2012 (BCRB1206389D)](decret-n2012-356-du-14-mars-2012-bcrb1206389d)
