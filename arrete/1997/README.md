@@ -564,7 +564,6 @@
 - [Arrêté du 18 septembre 1997 (ATEX9702256A)](arrete-du-18-septembre-1997-atex9702256a)
 - [Arrêté du 18 septembre 1997 (MENF9702585A)](arrete-du-18-septembre-1997-menf9702585a)
 - [Arrêté du 19 août 1997 (JUSC9720564A)](arrete-du-19-aout-1997-jusc9720564a)
-- [Arrêté du 19 décembre 1996 (AGRA9602580A)](arrete-du-19-decembre-1996-agra9602580a)
 - [Arrêté du 19 décembre 1996 (AGRA9602581A)](arrete-du-19-decembre-1996-agra9602581a)
 - [Arrêté du 19 décembre 1996 (EQUH9601731A)](arrete-du-19-decembre-1996-equh9601731a)
 - [Arrêté du 19 décembre 1996 (LOGC9600069A)](arrete-du-19-decembre-1996-logc9600069a)
