@@ -343,7 +343,6 @@
 - [Arrêté du 5 mai 2011 (MAEA1111240A)](arrete-du-5-mai-2011-maea1111240a)
 - [Arrêté du 5 mai 2011 (MCCD1112713A)](arrete-du-5-mai-2011-mccd1112713a)
 - [Arrêté du 6 avril 2011 (AGRS1109930A)](arrete-du-6-avril-2011-agrs1109930a)
-- [Arrêté du 6 avril 2011 (DEVT1032662A)](arrete-du-6-avril-2011-devt1032662a)
 - [Arrêté du 6 avril 2011 (EFII1107923A)](arrete-du-6-avril-2011-efii1107923a)
 - [Arrêté du 6 avril 2011 (ESRS1109269A)](arrete-du-6-avril-2011-esrs1109269a)
 - [Arrêté du 6 avril 2011 (ETSH1109848A)](arrete-du-6-avril-2011-etsh1109848a)
