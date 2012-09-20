@@ -1,0 +1,3 @@
+# Article 7-1
+
+Les titulaires de la spécialité "procédés de la chimie, de l'eau et des papiers-cartons" du baccalauréat professionnel régie par les dispositions de l'arrêté du 13 avril 2012 relatif à la création de la spécialité "procédés de la chimie, de l'eau et des papiers-cartons" du baccalauréat professionnel et fixant ses modalités de délivrance peuvent demander à être dispensés des unités U32 (Organisation d'une production) et U33 (Intervention en conduite de la ligne sur incident, aléa ou dysfonctionnement) de la spécialité "pilote de ligne de production" du baccalauréat professionnel régie par les dispositions du présent arrêté.
