@@ -174,7 +174,6 @@
 - [Arrêté du 7 juin 1993 (SANH9301565A)](arrete-du-7-juin-1993-sanh9301565a)
 - [Arrêté du 7 octobre 1993 (INDP9320493A)](arrete-du-7-octobre-1993-indp9320493a)
 - [Arrêté du 7 octobre 1993 (INDP9320494A)](arrete-du-7-octobre-1993-indp9320494a)
-- [Arrêté du 7 septembre 1993 (EQUH9301377A)](arrete-du-7-septembre-1993-equh9301377a)
 - [Arrêté du 7 mai 1993 (AGRH9300876A)](arrete-du-7-mai-1993-agrh9300876a)
 - [Arrêté du 7 mai 1993 (ECOS9350014A)](arrete-du-7-mai-1993-ecos9350014a)
 - [Arrêté du 7 mai 1993 (ECOT9394193A)](arrete-du-7-mai-1993-ecot9394193a)
