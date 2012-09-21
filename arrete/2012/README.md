@@ -1496,7 +1496,6 @@
 - [Arrêté du 21 février 2012 (ETSE1205546A)](arrete-du-21-fevrier-2012-etse1205546a)
 - [Arrêté du 21 février 2012 (IOCN1203623A)](arrete-du-21-fevrier-2012-iocn1203623a)
 - [Arrêté du 21 février 2012 (MENA1129524A)](arrete-du-21-fevrier-2012-mena1129524a)
-- [Arrêté du 21 juillet 2008 (BCFB0813077A)](arrete-du-21-juillet-2008-bcfb0813077a)
 - [Arrêté du 21 juillet 2011 (EFIM1119964A)](arrete-du-21-juillet-2011-efim1119964a)
 - [Arrêté du 21 juin 1996 (MENE9601847A)](arrete-du-21-juin-1996-mene9601847a)
 - [Arrêté du 21 juin 2012 (AFSH1226981A)](arrete-du-21-juin-2012-afsh1226981a)
