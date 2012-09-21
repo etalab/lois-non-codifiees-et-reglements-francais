@@ -403,6 +403,8 @@
 - [Décret n°2012-889 du 17 juillet 2012 (ESRH1203247D)](decret-n2012-889-du-17-juillet-2012-esrh1203247d)
 - [Décret n°2012-766 du 17 mai 2012 (PRMX1223293D)](decret-n2012-766-du-17-mai-2012-prmx1223293d)
 - [Décret n°2012-1060 du 18 septembre 2012 (RDFF1209415D)](decret-n2012-1060-du-18-septembre-2012-rdff1209415d)
+- [Décret n°2012-1066 du 18 septembre 2012 (ETSD1221906D)](decret-n2012-1066-du-18-septembre-2012-etsd1221906d)
+- [Décret n°2012-1068 du 18 septembre 2012 (OMEO1222431D)](decret-n2012-1068-du-18-septembre-2012-omeo1222431d)
 - [Décret n°2012-507 du 18 avril 2012 (DEVL1204517D)](decret-n2012-507-du-18-avril-2012-devl1204517d)
 - [Décret n°2012-509 du 18 avril 2012 (IOCA1201556D)](decret-n2012-509-du-18-avril-2012-ioca1201556d)
 - [Décret n°2012-511 du 18 avril 2012 (EFIE1200443D)](decret-n2012-511-du-18-avril-2012-efie1200443d)

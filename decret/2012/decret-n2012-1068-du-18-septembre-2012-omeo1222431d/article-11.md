@@ -1,0 +1,3 @@
+# Article 11
+
+La laisse de basse mer des îles et îlots Ahunui, Akiaki, Anaa, Anuanuraro, Anuanuranga, Faka Hina, Fangatau, Haraiki, Hereheretue, Hikueru, Hiti, Kaukura, Makatea, Manuhangi, Maria, Marokau, Marutea Nord, Marutea Sud, Mataiva, Matureivavao, Morane, Napuka, NegoNego, Niau, Nihiru, Nukutavake, Nukutepipi, Paraoa, Pinaki, Pukapuka, Pukarua, Raraka, Ravahere, Reao, Reitoru, Rekareka, Taenga, Taiaro, Takapoto, Takume, Tatakoto, Tauere, Tekokota, Tematagi, Tenararo, Tenarunga, Tepoto (Gr. Raevski), Tepoto (Désappointement), Tikei, Tuanake, Tureia, Vahanga, Vahitahi, Vairaatea, Vanavana sert à la détermination des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale adjacente aux îles Tuamotu.
