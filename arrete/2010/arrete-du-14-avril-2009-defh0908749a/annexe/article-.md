@@ -22,7 +22,7 @@ B. ― Epreuves orales d'admission
 
 1. Pour les épreuves propres au concours d'admission à l'Ecole de l'air, le candidat dispose d'un temps de préparation de 30 minutes. La durée de ces épreuves ne doit pas excéder 30 minutes hors temps de préparation.
 
-2. Les épreuves de mathématiques et de sciences physiques portent, selon l'option choisie par le candidat, sur l'ensemble des programmes de 1re et 2e année des classes préparatoires MPSI, MP, PCSI, PC et PSI.
+2. Les épreuves de mathématiques et de physique, selon l'option choisie par le candidat, sont organisées par le service commun des concours polytechniques qui en fixe la nature. Elles comportent une préparation de 30 minutes et une présentation orale de 30 minutes.
 
 Les épreuves de mathématiques peuvent comporter l'utilisation des logiciels de calculs formels ou tout outil informatique qui sont au programme des classes préparatoires.
 
