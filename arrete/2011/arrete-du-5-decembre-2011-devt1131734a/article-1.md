@@ -6,9 +6,11 @@ Les organisations professionnelles et syndicales pouvant siéger au comité spé
 
 a) Cinq représentants des armateurs :
 
-― quatre représentants proposés par Armateurs de France (AF) ;
+- trois représentants désignés par Armateurs de France (ADF) ;
 
-― un représentant proposé par l'Association professionnelle des entreprises de remorquage maritimes (APERMA).
+- un représentant désigné par le Groupement des armateurs de services publics maritimes de passages d'eau (GASPE) ;
+
+- un représentant désigné par l'Association professionnelle des entreprises de remorquage maritimes (APERMA).
 
 b) Cinq représentants des marins salariés :
 
