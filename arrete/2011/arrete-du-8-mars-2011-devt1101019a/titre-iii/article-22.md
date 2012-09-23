@@ -6,11 +6,11 @@ Tous les élèves admis à suivre le semestre S3 poursuivent vers le semestre S4
 
 ― En cas de succès dans chacun de ces quatre blocs, l'élève poursuit vers le semestre S5.
 
-― En cas de succès dans les deux blocs F mais d'échec dans un seul bloc B, l'élève passera en fin de semestre S4 un contrôle de transition dans les épreuves du second bloc. En cas de succès dans ce contrôle de transition, l'élève poursuit vers le semestre S5 ; sinon, un état des ECTS acquis lui est remis afin qu'il puisse se réorienter.
+― En cas de succès dans les deux blocs F mais d'échec dans un seul bloc B, l'élève passera à la fin de la période intermédiaire suivant le semestre S4 un contrôle de transition dans les épreuves du second bloc. En cas de succès dans ce contrôle de transition, l'élève poursuit vers le semestre S5 ; sinon, un état des ECTS acquis lui est remis afin qu'il puisse se réorienter.
 
 ― En cas de succès dans les deux blocs F mais d'échec dans les deux blocs B, un état des ECTS acquis est remis à l'élève afin qu'il puisse se réorienter.
 
-― En cas de succès dans les deux blocs B mais d'échec dans un seul bloc F, l'élève passera en fin de semestre S4 un contrôle de transition dans les épreuves du premier bloc. En cas de succès, l'élève poursuit vers le semestre S5 ; sinon, il est autorisé à redoubler.
+― En cas de succès dans les deux blocs B mais d'échec dans un seul bloc F, l'élève passera à la fin de la période intermédiaire suivant le semestre S4 un contrôle de transition dans les épreuves du premier bloc. En cas de succès, l'élève poursuit vers le semestre S5 ; sinon, il est autorisé à redoubler.
 
 ― En cas de succès dans les deux blocs B mais d'échec dans les deux blocs F, l'élève est réorienté vers la filière professionnelle et un état des ECTS acquis lui est remis.
 

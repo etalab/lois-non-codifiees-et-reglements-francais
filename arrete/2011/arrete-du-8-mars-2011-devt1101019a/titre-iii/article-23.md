@@ -8,4 +8,4 @@ Le semestre S6 est validé en cas de succès dans au moins cinq des sept blocs d
 
 En cas d'invalidation du semestre S5 ou S6, l'élève passe un contrôle de transition. Ce contrôle de transition portera uniquement sur les disciplines du bloc en échec. Ce contrôle de transition est unique pour les deux semestres et porte sur la totalité du programme vu, dans ce bloc, depuis le début du premier cycle.
 
-Ce contrôle se déroule en fin de semestre S6 pour permettre l'entrée éventuelle en semestre S7. Les notes de ce contrôle de transition se substituent aux notes des contrôles de routine et de synthèse.
+Ce contrôle se déroule à la fin de la période intermédiaire suivant le semestre S6 pour permettre l'entrée éventuelle en semestre S7. Les notes de ce contrôle de transition se substituent aux notes des contrôles de routine et de synthèse.
