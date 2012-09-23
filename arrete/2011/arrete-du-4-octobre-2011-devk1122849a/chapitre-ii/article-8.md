@@ -64,7 +64,26 @@ Les montants de l'heure de l'activité de recrutement sont fixés comme suit :
 <p align="center">72 € par vacation de demi-journée</p>
 </td>
 </tr>
+<tr>
+<td align="center" valign="top">
+<p align="left">Responsable de centre d'examen et responsable de salle</p>
+</td>
+<td align="center" valign="top">
+<p align="center">72 € par vacation de demi-journée </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Responsable de salle </p>
+</td>
+<td>
+<p align="center">44 € par vacation de demi-journée</p>
+</td>
+</tr>
 </tbody>
 </table>
+
+<br/>
+<br/>
 
 </div>

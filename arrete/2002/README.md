@@ -150,7 +150,6 @@
 - [Arrêté du 5 novembre 2002 (SANH0223609A)](arrete-du-5-novembre-2002-sanh0223609a)
 - [Arrêté du 5 novembre 2002 (SANH0223610A)](arrete-du-5-novembre-2002-sanh0223610a)
 - [Arrêté du 5 octobre 2001 (EQUT0101445A)](arrete-du-5-octobre-2001-equt0101445a)
-- [Arrêté du 5 septembre 2002 (DEVG0210315A)](arrete-du-5-septembre-2002-devg0210315a)
 - [Arrêté du 5 septembre 2002 (ECOD0270004A)](arrete-du-5-septembre-2002-ecod0270004a)
 - [Arrêté du 5 septembre 2002 (ECOM0200576A)](arrete-du-5-septembre-2002-ecom0200576a)
 - [Arrêté du 5 septembre 2002 (MENF0202103A)](arrete-du-5-septembre-2002-menf0202103a)
