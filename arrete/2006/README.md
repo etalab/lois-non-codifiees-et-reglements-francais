@@ -85,7 +85,6 @@
 - [Arrêté du 8 novembre 2006 (MENS0602576A)](arrete-du-8-novembre-2006-mens0602576a)
 - [Arrêté du 8 novembre 2006 (SANP0624618A)](arrete-du-8-novembre-2006-sanp0624618a)
 - [Arrêté du 9 janvier 2006 (DEVO0650040A)](arrete-du-9-janvier-2006-devo0650040a)
-- [Arrêté du 9 janvier 2006 (EQUA0600141A)](arrete-du-9-janvier-2006-equa0600141a)
 - [Arrêté du 9 janvier 2006 (EQUG0600121A)](arrete-du-9-janvier-2006-equg0600121a)
 - [Arrêté du 9 mars 2006 (BUDB0610016A)](arrete-du-9-mars-2006-budb0610016a)
 - [Arrêté du 9 novembre 2006 (INTC0600901A)](arrete-du-9-novembre-2006-intc0600901a)
