@@ -2116,7 +2116,6 @@
 - [Arrêté du 23 décembre 2011 (SCSA1132710A)](arrete-du-23-decembre-2011-scsa1132710a)
 - [Arrêté du 23 février 2011 (AGRM1102166A)](arrete-du-23-fevrier-2011-agrm1102166a)
 - [Arrêté du 23 février 2011 (AGRM1104956A)](arrete-du-23-fevrier-2011-agrm1104956a)
-- [Arrêté du 23 février 2011 (DEFH1029355A)](arrete-du-23-fevrier-2011-defh1029355a)
 - [Arrêté du 23 février 2011 (DEVA1031685A)](arrete-du-23-fevrier-2011-deva1031685a)
 - [Arrêté du 23 février 2011 (ETSD1105719A)](arrete-du-23-fevrier-2011-etsd1105719a)
 - [Arrêté du 23 février 2011 (ETSD1105831A)](arrete-du-23-fevrier-2011-etsd1105831a)
