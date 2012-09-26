@@ -136,7 +136,11 @@ Diplôme de capitaine 3000 de la filière professionnelle pont de la marine marc
 
 Certificat d'aptitude professionnelle maritime de matelot.
 
-Baccalauréat professionnel spécialisé conduite et gestion des entreprises maritimes .
+Baccalauréat professionnel spécialisé conduite et gestion des entreprises maritimes.
+
+Certificat de patron de navire aux cultures marines, niveau 1.
+
+Certificat de patron de navire aux cultures marines, niveau 2
 
 Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
 
@@ -157,6 +161,8 @@ Certificat de formation nautique pont.
 Certificat de formation nautique mention machine
 
 Officier électronicien et systèmes de la marine marchande.
+
+Certificat de marin-ouvrier aux cultures marines, niveau 2.
 
 Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
 
@@ -220,4 +226,6 @@ Diplôme de chef mécanicien 3 000 kW.
 
 Diplôme d'officier chef de quart machine de la filière professionnelle machine de la marine marchande.
 
-Baccalauréat professionnel spécialité électronicien marine .
+Baccalauréat professionnel spécialité électronicien marine.
+
+Certificat de marin-ouvrier aux cultures marines, niveau 1
