@@ -2952,7 +2952,6 @@
 - [Arrêté du 1er octobre 2009 (AGRM0925884A)](arrete-du-1er-octobre-2009-agrm0925884a)
 - [Arrêté du 1er octobre 2009 (DEFH0923029A)](arrete-du-1er-octobre-2009-defh0923029a)
 - [Arrêté du 1er octobre 2009 (DEVA0920741A)](arrete-du-1er-octobre-2009-deva0920741a)
-- [Arrêté du 1er octobre 2009 (DEVA0922377A)](arrete-du-1er-octobre-2009-deva0922377a)
 - [Arrêté du 1er octobre 2009 (DEVA0922378A)](arrete-du-1er-octobre-2009-deva0922378a)
 - [Arrêté du 1er octobre 2009 (DEVN0921621A)](arrete-du-1er-octobre-2009-devn0921621a)
 - [Arrêté du 1er octobre 2009 (DEVO0922936A)](arrete-du-1er-octobre-2009-devo0922936a)
