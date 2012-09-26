@@ -3,10 +3,10 @@
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="446">
+<td rowspan="2" width="445">
 <p align="center">CORPS ET GRADES</p>
 </td>
-<td colspan="3" width="228">
+<td colspan="3" width="229">
 <p align="center">TAUX APPLICABLES</p>
 </td>
 </tr>
@@ -27,7 +27,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="446">
+<td valign="top" width="445">
 <p>Attaché principal <br/>Les promotions s'effectueront pour les deux tiers par la voie de l'examen professionnel et pour un tiers au choix.</p>
 </td>
 <td valign="top" width="75">
@@ -48,7 +48,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="446">
+<td valign="top" width="445">
 <p>Secrétaire administratif de classe exceptionnelle <br/>Les promotions s'effectueront pour les deux tiers par la voie de l'examen professionnel et pour un tiers au choix.</p>
 </td>
 <td valign="top" width="75">
@@ -62,7 +62,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="446">
+<td valign="top" width="445">
 <p>Secrétaire administratif de classe supérieure <br/>Les promotions s'effectueront pour les deux tiers par la voie de l'examen professionnel et pour un tiers au choix.</p>
 </td>
 <td valign="top" width="75">
@@ -73,6 +73,91 @@
 </td>
 <td valign="top" width="75">
 <p align="center">10 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="676">
+<p align="center">Corps des adjoints administratifs </p>
+<p align="center">(Régis par le décret n° 2006-1760 du 23 décembre 2006 relatif aux dispositions statutaires <br/>applicables aux corps des adjoints administratifs des administrations de l'Etat <br/>Régis par le décret n° 2011-1445 du 3 novembre 2011 modifiant le décret n° 2005-1228 du 29 décembre 2005 <br/>relatif à l'organisation des carrières des fonctionnaire de catégorie C)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint administratif de 1re classe</p>
+</td>
+<td colspan="3" valign="top" width="229">
+<p align="center">25 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint administratif principal de 2e classe</p>
+</td>
+<td colspan="3" valign="top" width="229">
+<p align="center">17,50 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint administratif principal de 1re classe</p>
+</td>
+<td colspan="3" valign="top" width="229">
+<p align="center">17,50 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint administratif principal de 1re classe (échelon spécial)</p>
+</td>
+<td colspan="3" valign="top" width="229">
+<p align="center">De 2012 à 2015 : 30 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="676">
+<p align="center">Corps des adjoints techniques <br/>(Régis par le décret n° 2006-1761 du 23 décembre 2006 relatif aux dispositions statutaires <br/>applicables aux corps des adjoints techniques des administrations de l'Etat)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint technique de 1re classe</p>
+</td>
+<td valign="top" width="75">
+<p align="center">20 %</p>
+</td>
+<td valign="top" width="75">
+<p align="center">18 %</p>
+</td>
+<td valign="top" width="75">
+<p align="center">16 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint technique principal de 2e classe</p>
+</td>
+<td valign="top" width="75">
+<p align="center">25 %</p>
+</td>
+<td valign="top" width="75">
+<p align="center">22 %</p>
+</td>
+<td valign="top" width="75">
+<p align="center">20 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="445">
+<p>Adjoint technique principal de 1re classe</p>
+</td>
+<td valign="top" width="75">
+<p align="center">23 %</p>
+</td>
+<td valign="top" width="75">
+<p align="center">22 %</p>
+</td>
+<td valign="top" width="75">
+<p align="center">20 %</p>
 </td>
 </tr>
 </tbody>
