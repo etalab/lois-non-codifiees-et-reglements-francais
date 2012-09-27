@@ -2427,6 +2427,7 @@
 - [Arrêté du 30 août 2011 (DEVD1121160A)](arrete-du-30-aout-2011-devd1121160a)
 - [Arrêté du 30 août 2011 (EFIP1122070A)](arrete-du-30-aout-2011-efip1122070a)
 - [Arrêté du 30 août 2012 (AFSA1220129A)](arrete-du-30-aout-2012-afsa1220129a)
+- [Arrêté du 30 août 2012 (AFSS1233503A)](arrete-du-30-aout-2012-afss1233503a)
 - [Arrêté du 30 août 2012 (DEVA1221557A)](arrete-du-30-aout-2012-deva1221557a)
 - [Arrêté du 30 août 2012 (MENH1228928A)](arrete-du-30-aout-2012-menh1228928a)
 - [Arrêté du 30 avril 2012 (BCRE1202957A)](arrete-du-30-avril-2012-bcre1202957a)
