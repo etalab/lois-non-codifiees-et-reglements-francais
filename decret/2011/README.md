@@ -1057,5 +1057,6 @@
 - [Décret n°2011-1297 (AGRT1122677D)](decret-n2011-1297-agrt1122677d)
 - [Décret n°2011-1347 (AGRT1123488D)](decret-n2011-1347-agrt1123488d)
 - [Décret n°2011-294 (IOCC1033670D)](decret-n2011-294-iocc1033670d)
+- [Décret n°2011-365 du (MCCK1101820D)](decret-n2011-365-du-mcck1101820d)
 - [Décret n°2011-846 (JUSC1118185D)](decret-n2011-846-jusc1118185d)
 - [Décret n°2011-847 (ETSP1117735D)](decret-n2011-847-etsp1117735d)
