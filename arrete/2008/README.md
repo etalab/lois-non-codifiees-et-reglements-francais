@@ -1171,7 +1171,6 @@
 - [Arrêté du 29 juillet 2008 (BCFL0803036A)](arrete-du-29-juillet-2008-bcfl0803036a)
 - [Arrêté du 29 juillet 2008 (ECEU0818931A)](arrete-du-29-juillet-2008-eceu0818931a)
 - [Arrêté du 29 juillet 2008 (JUSC0816756A)](arrete-du-29-juillet-2008-jusc0816756a)
-- [Arrêté du 29 juillet 2008 (JUSK0810522A)](arrete-du-29-juillet-2008-jusk0810522a)
 - [Arrêté du 29 juillet 2008 (MCCB0812693A)](arrete-du-29-juillet-2008-mccb0812693a)
 - [Arrêté du 29 juillet 2008 (MTSW0818940A)](arrete-du-29-juillet-2008-mtsw0818940a)
 - [Arrêté du 29 juin 1992 (MENN9202742A)](arrete-du-29-juin-1992-menn9202742a)
