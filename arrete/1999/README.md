@@ -349,7 +349,6 @@
 - [Arrêté du 18 août 1999 (INTE9900411A)](arrete-du-18-aout-1999-inte9900411a)
 - [Arrêté du 18 août 1999 (MENE9901644A)](arrete-du-18-aout-1999-mene9901644a)
 - [Arrêté du 18 janvier 1999 (AGRE9900120A)](arrete-du-18-janvier-1999-agre9900120a)
-- [Arrêté du 18 janvier 1999 (DEFP9901132A)](arrete-du-18-janvier-1999-defp9901132a)
 - [Arrêté du 18 janvier 1999 (ECOT9920004A)](arrete-du-18-janvier-1999-ecot9920004a)
 - [Arrêté du 18 janvier 1999 (INTD9900039A)](arrete-du-18-janvier-1999-intd9900039a)
 - [Arrêté du 18 juin 1999 (AGRA9901265A)](arrete-du-18-juin-1999-agra9901265a)
