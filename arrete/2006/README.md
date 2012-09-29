@@ -45,7 +45,6 @@
 - [Arrêté du 5 décembre 2006 (SOCF0612450A)](arrete-du-5-decembre-2006-socf0612450a)
 - [Arrêté du 5 décembre 2006 (SOCF0612451A)](arrete-du-5-decembre-2006-socf0612451a)
 - [Arrêté du 5 janvier 2006 (JUSF0550142A)](arrete-du-5-janvier-2006-jusf0550142a)
-- [Arrêté du 5 octobre 2006 (EQUA0601933A)](arrete-du-5-octobre-2006-equa0601933a)
 - [Arrêté du 5 octobre 2006 (SOCF0611995A)](arrete-du-5-octobre-2006-socf0611995a)
 - [Arrêté du 6 décembre 1999 (MENT9902140A)](arrete-du-6-decembre-1999-ment9902140a)
 - [Arrêté du 6 février 2006 (AGRS0600124A)](arrete-du-6-fevrier-2006-agrs0600124a)
