@@ -1624,7 +1624,6 @@
 - [Arrêté du 19 avril 2011 (JUSA1108446A)](arrete-du-19-avril-2011-jusa1108446a)
 - [Arrêté du 19 avril 2011 (JUSB1110294A)](arrete-du-19-avril-2011-jusb1110294a)
 - [Arrêté du 19 avril 2011 (MENH1109207A)](arrete-du-19-avril-2011-menh1109207a)
-- [Arrêté du 19 décembre 2011 (AGRT1118309A)](arrete-du-19-decembre-2011-agrt1118309a)
 - [Arrêté du 19 décembre 2011 (DEVA1133161A)](arrete-du-19-decembre-2011-deva1133161a)
 - [Arrêté du 19 décembre 2011 (DEVA1134981A)](arrete-du-19-decembre-2011-deva1134981a)
 - [Arrêté du 19 décembre 2011 (DEVL1134069A)](arrete-du-19-decembre-2011-devl1134069a)
