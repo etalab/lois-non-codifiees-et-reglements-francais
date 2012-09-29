@@ -12,7 +12,7 @@ Cette faculté ne peut être exercée que lorsque les conditions suivantes sont 
 
 4° Le financement de la production de l'œuvre, hors aides publiques, doit être confirmé pour au moins 30 % du devis de production.
 
-Au titre d'une œuvre déterminée, cette faculté ne peut être exercée que par une seule entreprise de production.
+Au titre d'une œuvre déterminée, cette faculté ne peut être exercée que par une seule entreprise de production qui doit avoir la qualité d'entreprise de production déléguée.
 
 Lorsque les entreprises de production disposent d'un compte ouvert à leur nom conformément à l'article 12, elles doivent soit avoir épuisé leurs possibilités d'investissement au titre de ce compte, soit disposer sur celui-ci de sommes inférieures à un montant fixé par arrêté du ministre chargé de la culture. Dans ce dernier cas, les entreprises de production doivent investir, conformément aux dispositions du présent article, l'intégralité des sommes disponibles sur ce compte.
 
