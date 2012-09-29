@@ -2,8 +2,6 @@
 
 **POSTES D'INSPECTION FRONTALIERS**
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -223,7 +221,7 @@
 <p align="center">EFBS</p>
 </td>
 <td align="center">
-<p align="left">HC-T (FR) (1) (2) <br/>
+<p align="left">HC-T (1) (2) <br/>
 </p>
 </td>
 <td align="center">
@@ -301,8 +299,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Marseille Port (15) <br/>
-</p>
+<p align="left">Marseille Port </p>
 </td>
 <td align="center">
 <p align="center">FR MRS 1 <br/>
@@ -328,11 +325,10 @@
 <td align="center">
 <br/>
 </td>
-<td align="center">STEF <br/>
+<td align="center">Hangar 23<br/>
 </td>
 <td align="center">
-<p align="left">HC-T (1) (2), HC-NT (2) <br/>
-</p>
+<p align="left">HC-T (1) (2), HC-NT (2)</p>
 </td>
 <td align="center">
 <br/>
@@ -411,8 +407,7 @@
 <br/>
 </td>
 <td align="center">
-<p align="left">HC-T (CH) (1) (2) <br/>
-</p>
+<p align="left">HC-T (CH) (1) (2), NHC-NT (2) </p>
 </td>
 <td align="center">O (c) <br/>
 </td>
@@ -624,15 +619,12 @@
 <p align="left">(3) Produits de la pêche uniquement. </p>
 <p align="left">(4) Uniquement protéines animales. </p>
 <p align="left">(6) Graisses, huiles et huiles de poisson liquides uniquement.</p>
-<p>(15) Cette autorisation est valable jusqu'au 30 juin 2012. </p>
-<p>(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
-<p>b) Cette autorisation est valable jusqu'au 31 décembre 2012. </p>
-<p>c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
-<p>(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
+<p align="left">(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
+<p align="left">b) Cette autorisation est valable jusqu'au 31 décembre 2012. </p>
+<p align="left">c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
+<p align="left">(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>

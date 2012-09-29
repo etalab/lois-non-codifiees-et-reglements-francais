@@ -6,60 +6,27 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 <table>
 <tbody>
 <tr>
-<th rowspan="2">NOM<br/>
-</th>
-<th rowspan="2">TYPE<br/>
-</th>
-<th colspan="4">LIEUX D'INSPECTION<br/>désignés par catégorie<br/>
-</th>
-</tr>
-<tr>
-<th>Végétaux, produits végétaux<br/>et autres objets<br/>(y compris bois<br/>sous toutes ses formes<br/>et fruits et légumes)<br/>
-</th>
-<th>Bois sous toutes<br/>ses formes exclusivement<br/>
-</th>
-<th colspan="2">Fruits et légumes<br/>exclusivement<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Basse-Terre<br/>
-</p>
+<td align="center" rowspan="2">
+<p>NOM</p>
 </td>
-<td align="center">
-<p align="center">Port<br/>
-</p>
+<td align="center" rowspan="2">
+<p>TYPE</p>
 </td>
-<td align="center">
-<p align="center">Tous<br/>
-</p>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center" colspan="3">
+<p align="center">LIEUX D'INSPECTION<br/>désignés par catégorie</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Bordeaux<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">Aéroport-port<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">Tous<br/>
-</p>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
+<td align="center"> Végétaux, produits végétaux<br/>et autres objets<br/>(y compris bois<br/>sous toutes ses formes<br/>et fruits et légumes)</td>
+<td align="center"> Bois sous toutes<br/>ses formes exclusivement</td>
+<td align="center"> Fruits et légumes<br/>exclusivement</td>
+</tr>
+<tr>
+<td> Bordeaux</td>
+<td> Aéroport-port</td>
+<td align="center"> Tous</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="center">
@@ -612,6 +579,14 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 <td align="center">
 <br/>
 </td>
+</tr>
+<tr>
+<td>Sète <br/>
+</td>
+<td align="center"> Port</td>
+<td align="center"> Tous</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="center">
