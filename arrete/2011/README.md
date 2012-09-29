@@ -1228,7 +1228,6 @@
 - [Arrêté du 14 octobre 2011 (EFIP1128040A)](arrete-du-14-octobre-2011-efip1128040a)
 - [Arrêté du 14 octobre 2011 (IOCA1127483A)](arrete-du-14-octobre-2011-ioca1127483a)
 - [Arrêté du 14 octobre 2011 (IOCA1127486A)](arrete-du-14-octobre-2011-ioca1127486a)
-- [Arrêté du 14 octobre 2011 (MCCB1127778A)](arrete-du-14-octobre-2011-mccb1127778a)
 - [Arrêté du 14 octobre 2011 (MENA1126326A)](arrete-du-14-octobre-2011-mena1126326a)
 - [Arrêté du 14 octobre 2011 (MENF1120948A)](arrete-du-14-octobre-2011-menf1120948a)
 - [Arrêté du 14 septembre 2010 (DEFH1023009A)](arrete-du-14-septembre-2010-defh1023009a)
