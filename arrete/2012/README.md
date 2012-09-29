@@ -1564,7 +1564,6 @@
 - [Arrêté du 22 décembre 2011 (ETSP1135255A)](arrete-du-22-decembre-2011-etsp1135255a)
 - [Arrêté du 22 décembre 2011 (ETSP1135275A)](arrete-du-22-decembre-2011-etsp1135275a)
 - [Arrêté du 22 décembre 2011 (ETST1135022A)](arrete-du-22-decembre-2011-etst1135022a)
-- [Arrêté du 22 décembre 2011 (INDR1134972A)](arrete-du-22-decembre-2011-indr1134972a)
 - [Arrêté du 22 décembre 2011 (INDR1200753A)](arrete-du-22-decembre-2011-indr1200753a)
 - [Arrêté du 22 décembre 2011 (MENV1135155A)](arrete-du-22-decembre-2011-menv1135155a)
 - [Arrêté du 22 décembre 2011 (MENV1135176A)](arrete-du-22-decembre-2011-menv1135176a)
