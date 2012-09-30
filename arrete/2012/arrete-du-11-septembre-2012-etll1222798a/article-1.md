@@ -1,0 +1,3 @@
+# Article 1
+
+En application des dispositions du dernier alinéa de l'article L. 321-9 et de l'article L. 321-22 du code de l'urbanisme, l'assemblée générale des associations départementales, mentionnées dans le décret qui crée l'établissement public foncier de l'Etat ou l'établissement public d'aménagement, désigne les représentants des établissements publics de coopération intercommunale à fiscalité propre et des communes non membres de ces établissements publics au conseil d'administration de l'établissement public foncier de l'Etat ou de l'établissement public d'aménagement, et leurs suppléants.
