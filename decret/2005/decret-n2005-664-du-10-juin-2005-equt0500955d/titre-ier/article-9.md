@@ -8,7 +8,7 @@ Le directeur général prépare et exécute les décisions du conseil du syndica
 
 Sur délégation du conseil du syndicat et dans les limites fixées par celui-ci, le directeur général peut prendre toute décision relative à la réalisation et à la gestion des emprunts.
 
-Sur délégation du conseil du syndicat, le directeur général peut prendre certaines décisions relatives à l'inscription au plan régional de transport en l'absence d'opposition sur la décision à prendre d'un ou plusieurs membres de la commission mentionnée au II de l'article 11 du présent décret. Il peut, même en cas d'accord unanime des membres de cette commission, décider le renvoi de l'affaire devant le conseil pour y être statué.
+Sur délégation du conseil du syndicat, le directeur général peut prendre certaines décisions relatives à l'inscription au plan régional de transport ou aux modifications ou suppressions d'inscription en l'absence d'opposition sur la décision à prendre d'un ou plusieurs membres de la commission mentionnée au I de l'article 11 du présent décret. Il peut, même en cas d'accord unanime des membres de cette commission, décider le renvoi de l'affaire devant le conseil pour y être statué.
 
 Il rend compte au conseil des décisions qu'il a prises par délégation de ce dernier et notamment des transactions qu'il a passées.
 

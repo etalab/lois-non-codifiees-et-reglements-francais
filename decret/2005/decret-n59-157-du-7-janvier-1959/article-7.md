@@ -1,5 +1,3 @@
 # Article 7
 
-Le Syndicat des transports d'Ile-de-France fixe les tarifs de la régie et des services de transport de voyageurs en Ile-de-France de la Société nationale, de manière à assurer la coordination tarifaire entre les différents services.
-
-Les tarifs des services routiers réguliers de voyageurs exploités en Ile-de-France sont déterminés dans les conditions prévues à l'article 11, du décret du 14 novembre 1949 modifié et aux textes pris pour son application, le Syndicat des transports d'Ile-de-France exerçant les pouvoirs dévolus au préfet.
+Les tarifs des services de transports publics réguliers et à la demande, des services de transport de personnes à mobilité réduite et des transports publics fluviaux réguliers de personnes sont fixés ou homologués par le Syndicat des transports d'Ile-de-France conformément à la convention passée entre le syndicat ou l'autorité organisatrice de proximité et l'entreprise de transport, et dans le respect des principes de tarification arrêtés par le syndicat conformément aux dispositions du 6° de l'article 6 du décret n° 2005-664 du 10 juin 2005.

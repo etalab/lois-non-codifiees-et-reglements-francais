@@ -1,6 +1,6 @@
 # Article 8
 
-Les décisions du conseil sont prises à la majorité absolue des membres présents ou représentés. Toutefois, pour les décisions de délégation d'attributions relevant du syndicat mentionnées au cinquième alinéa du II de l'article 1er de l'ordonnance du 7 janvier 1959 susvisée et pour les modifications de la répartition des contributions des membres du syndicat mentionnées à l'article 17 du présent décret, une majorité qualifiée des deux tiers des membres présents ou représentés est requise.
+Les décisions du conseil sont prises à la majorité absolue des membres présents ou représentés. Toutefois, pour les décisions de délégation d'attributions relevant du syndicat mentionnées à l'article L. 1241-3 du code des transports et pour les modifications de la répartition des contributions des membres du syndicat mentionnées à l'article 17 du présent décret, une majorité qualifiée des deux tiers des membres présents ou représentés est requise.
 
 En cas de partage égal des voix, la voix du président de séance est prépondérante.
 

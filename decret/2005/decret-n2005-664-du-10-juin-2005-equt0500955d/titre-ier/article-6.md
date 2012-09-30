@@ -14,15 +14,15 @@ Toutefois, ne peuvent pas être déléguées et doivent faire l'objet de décisi
 
 3° L'approbation du tableau des effectifs et ses modifications ;
 
-4° L'approbation des conventions passées avec les transporteurs en application des articles 5, 6 et 6 bis du décret du 7 janvier 1959 susvisé ;
+4° L'approbation des conventions passées avec les transporteurs en application des articles 5,6 et 6 bis du décret du 7 janvier 1959 susvisé ;
 
-5° L'approbation des décisions de délégation prévues au cinquième alinéa du II de l'article 1er de l'ordonnance du 7 janvier 1959 susvisée ;
+5° L'approbation des décisions de délégation prévues à l'article L. 1241-3 du code des transports ;
 
 6° La définition de la politique tarifaire et l'approbation de ses principales orientations ;
 
 7° La définition des catégories d'opérations qui font l'objet d'un schéma de principe et d'un avant-projet ;
 
-8° La définition du contenu type des dossiers de schéma de principe et d'avant-projet  ;
+8° La définition du contenu type des dossiers de schéma de principe et d'avant-projet ;
 
 9° L'approbation des schémas de principe et des avant-projets d'infrastructures nouvelles et d'extension de lignes existantes ;
 
@@ -40,7 +40,7 @@ Toutefois, ne peuvent pas être déléguées et doivent faire l'objet de décisi
 
 16° L'approbation des transactions d'un montant supérieur à un seuil qu'il fixe ;
 
-17° La fixation des taux du versement prévu aux articles L. 2531-2 et suivants du code général des collectivités territoriales  ;
+17° La fixation des taux du versement prévu aux articles L. 2531-2 et suivants du code général des collectivités territoriales ;
 
 18° L'attribution de subventions à des projets d'investissement ou d'acquisition de matériels roulants dont le montant dépasse un seuil qu'il fixe ;
 
