@@ -306,26 +306,25 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 </tbody>
 </table>
 
-DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU CALVADOS
+Direction départementale des territoires et de la mer du Calvados
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>FONCTIONS EXERCÉES <br/>
-</th>
-<th>
-<br/>NIVEAU <br/>
-<br/>de qualification <br/>
-<br/>de l'emploi <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <br/>
-<br/>(IM) par emploi <br/>
-</th>
+<td>
+<p align="center">FONCTIONS EXERCEES</p>
+</td>
+<td>
+<p align="center">NIVEAU<br/>de qualification de l'emploi</p>
+</td>
+<td>
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS (IM)<br/>par emploi</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -358,26 +357,27 @@ DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU CALVADOS
 </tbody>
 </table>
 
-DIRECTION DÉPARTEMENTALE DE LA COHÉSION SOCIALE DU CALVADOS
+</div>
+
+Direction départementale de la cohésion sociale du Calvados
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>FONCTIONS EXERCÉES <br/>
-</th>
-<th>
-<br/>NIVEAU <br/>
-<br/>de qualification <br/>
-<br/>de l'emploi <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <br/>
-<br/>(IM) par emploi <br/>
-</th>
+<td>
+<p align="center">FONCTIONS EXERCEES</p>
+</td>
+<td>
+<p align="center">  NIVEAU<br/>de qualification de l'emploi</p>
+</td>
+<td>
+<p align="center">NOMBRE d'emplois</p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS (IM)<br/>par emploi</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -409,6 +409,8 @@ DIRECTION DÉPARTEMENTALE DE LA COHÉSION SOCIALE DU CALVADOS
 </tr>
 </tbody>
 </table>
+
+</div>
 
 Direction départementale de l'équipement de la Charente
 
@@ -713,6 +715,8 @@ Direction départementale de l'équipement et de l'agriculture (2) de la Haute-C
 
 Direction départementale de l'équipement de la Côte-d'Or
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -773,6 +777,8 @@ Direction départementale de l'équipement de la Côte-d'Or
 </tr>
 </tbody>
 </table>
+
+</div>
 
 Direction départementale de l'équipement et de l'agriculture (2) des Côtes-d'Armor
 
@@ -1089,7 +1095,7 @@ Direction départementale de l'équipement de l'Eure
 </tbody>
 </table>
 
-Direction départementale de l'équipement d'Eure-et-Loir
+Direction départementale des territoires d'Eure-et-Loir
 
 <table>
 <tbody>
@@ -1109,7 +1115,7 @@ Direction départementale de l'équipement d'Eure-et-Loir
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du bureau politique de la ville et observatoire de l'habitat </p>
+<p align="left">Chef de bureau rénovation urbaine et politique de la ville (6)</p>
 </td>
 <td>
 <p align="center">A</p>
@@ -1122,17 +1128,24 @@ Direction départementale de l'équipement d'Eure-et-Loir
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Chef de service aménagement, urbanisme et habitat (6) <br/>
+</p>
+</td>
+<td align="center">A</td>
+<td align="center">1</td>
+<td align="center">25 points</td>
+</tr>
+<tr>
 <td rowspan="2" valign="top">
-<p align="left">Chargé de mission pour la politique de la ville</p>
+<p align="left">Adjoint au chef de service aménagement, urbanisme et habitat (6)</p>
 </td>
-<td rowspan="2">
-<p align="center">A</p>
-</td>
+<td align="center" rowspan="2">A</td>
 <td rowspan="2">
 <p align="center">1</p>
 </td>
 <td rowspan="2">
-<p align="center">50 points</p>
+<p align="center">25 points</p>
 </td>
 </tr>
 </tbody>
