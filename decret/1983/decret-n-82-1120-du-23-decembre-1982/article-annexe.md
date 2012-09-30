@@ -1,6 +1,6 @@
 # Article Annexe
 
-LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS RENTRANT DANS LES CATÉGORIES MENTIONNÉES AUX ARTICLES 697-1 ET 702 (ALINÉA 2) DU CODE DE PROCÉDURE PÉNALE
+LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS ENTRANT DANS LES CATÉGORIES MENTIONNÉES AUX ARTICLES 697-1 ET 702 (ALINÉA 2) DU CODE DE PROCÉDURE PÉNALE
 
 <table>
 <tbody>
@@ -454,6 +454,20 @@ LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS R
 </tr>
 <tr>
 <td colspan="2">
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Ressort de la cour d'appel de Cayenne</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 <p align="left">Fort-de-France</p>
 </td>
 <td>
@@ -482,30 +496,18 @@ LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS R
 </tr>
 <tr>
 <td colspan="2">
-<p align="left">Saint-Pierre<br/>(tribunal supérieur d'appel)</p>
+<p align="left">Saint-Pierre<br/>
+</p>
 </td>
 <td>
-<p align="left">Saint-Pierre<br/>(tribunal de première instance)</p>
+<p align="left">Saint-Pierre<br/>
+</p>
 </td>
 <td>
-<p align="left">Saint-Pierre<br/>(cours criminelle)</p>
+<p align="left">Saint-Pierre  (tribunal criminel)</p>
 </td>
 <td>
 <p align="left">Ressort du tribunal supérieur d'appel<br/>de Saint-Pierre (Saint-Pierre-et-Miquelon).</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p align="left">Mamoutzou tribunal supérieur d'appel)</p>
-</td>
-<td>
-<p align="left">Mamoutzou (tribunal<br/>de première instance)</p>
-</td>
-<td>
-<p align="left">Mamoutzou<br/>(cours criminelle)</p>
-</td>
-<td>
-<p align="left">Ressort du tribunal supérieur d'appel<br/>de Mamoutzou (Mayotte).</p>
 </td>
 </tr>
 <tr>
