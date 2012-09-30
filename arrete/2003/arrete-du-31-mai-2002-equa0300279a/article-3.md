@@ -4,20 +4,6 @@ I. - Sur les liaisons auxquelles le règlement (CEE) n° 2408 / 92 du 23 juillet
 
 II. - La société est également autorisée, sous réserve des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services réguliers de passagers, de courrier et de fret sur les liaisons suivantes :
 
-Jusqu'au 30 avril 2011 :
-
-Saint-Barthélemy-Saint-Martin - Juliana (Antilles néerlandaises).
-
-Jusqu'au 31 juillet 2012 :
-
-Fort-de-France-Saint-Domingue (République dominicaine) ;
-
-Pointe-à-Pitre-Saint-Domingue (République dominicaine) ;
-
-Fort-de-France-Saint-Martin - Juliana (Antilles néerlandaises) ;
-
-Pointe-à-Pitre-Saint-Martin - Juliana (Antilles néerlandaises).
-
 Jusqu'au 31 décembre 2014 :
 
 Pointe-à-Pitre-Roseau (La Dominique) ;
@@ -47,3 +33,11 @@ Jusqu'au 31 juillet 2017 :
 Fort-de-France-Saint-Domingue (République dominicaine) ;
 
 Pointe-à-Pitre-Saint-Domingue (République dominicaine).
+
+Jusqu'au 31 août 2017 :
+
+Fort-de-France - Saint-Martin Juliana (Etat de Saint-Martin) ;
+
+Pointe-à-Pitre - Saint-Martin Juliana (Etat de Saint-Martin) ;
+
+Saint-Barthélemy - Saint-Martin Juliana (Etat de Saint-Martin).
