@@ -10,7 +10,7 @@ a) Ces actions représentent une quotité du capital ou des droits de vote de l'
 
 b) Les droits de vote attachés à ces actions ne soient pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur.
 
-Les dispositions du 4° du I de l'article L. 233-9 du code de commerce et du II de l'article 223-11 s'appliquent dès que les actions mentionnées au a représentent une quotité du capital ou des droits de vote de l'émetteur supérieure à 5 %.
+Les dispositions du 4° et du 4° bis du I de l'article L. 233-9 du code de commerce et du II de l'article 223-11 s'appliquent dès que les actions mentionnées au a représentent une quotité du capital ou des droits de vote de l'émetteur supérieure à 5 %.
 
 II.-Les obligations d'information prévues aux I, II et III de l'article L. 233-7 du code de commerce ne s'appliquent pas au teneur de marché lors du franchissement du seuil du vingtième du capital ou des droits de vote dans le cadre de la tenue de marché, à condition :
 

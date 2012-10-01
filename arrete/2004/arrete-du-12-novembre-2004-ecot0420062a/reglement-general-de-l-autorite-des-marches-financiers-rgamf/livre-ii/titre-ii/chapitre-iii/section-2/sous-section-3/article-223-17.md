@@ -24,9 +24,11 @@ d) Tout projet de radiation des négociations d'une catégorie de titres financi
 
 e) Tout projet d'émission de titres financiers de l'émetteur ;
 
-7° Tout accord de cession temporaire ayant pour objet les actions ou les droits de vote de l'émetteur ;
+7° Ses intentions quant au dénouement des accords et instruments mentionnés aux 4° et 4° bis du I de l'article L. 233-9 du code de commerce, s'il est partie à de tels accords ou instruments.
 
-8° S'il envisage de demander sa nomination ou celle d'une ou plusieurs personnes comme administrateur, membre du directoire ou du conseil de surveillance.
+8° Tout accord de cession temporaire ayant pour objet les actions ou les droits de vote de l'émetteur ;
+
+9° S'il envisage de demander sa nomination ou celle d'une ou plusieurs personnes comme administrateur, membre du directoire ou du conseil de surveillance.
 
 II.-Toute personne qui fournit à titre habituel le service de gestion de portefeuille pour compte de tiers est dispensée de renseigner toutes les informations prévues au I sous réserve de répondre aux conditions suivantes :
 
@@ -40,4 +42,4 @@ Dans ce cas, la déclaration prend la forme d'une clause type figurant dans une 
 
 III.-L'initiateur d'une offre publique d'acquisition qui vient à posséder plus du dixième, des trois vingtièmes, du cinquième ou du quart du capital ou des droits de vote de la société visée au cours de la période d'offre ou à l'issue de l'offre est dispensé de l'application du VII de l'article L. 233-7 du code de commerce dès lors que la note d'information visée à l'article 231-18 a été rendue publique.
 
-IV.-Les informations mentionnées au VII de l'article L. 233-7 du code de commerce sont portées à la connaissance du public par l'AMF..
+IV.-Les informations mentionnées au VII de l'article L. 233-7 du code de commerce sont portées à la connaissance du public par l'AMF.

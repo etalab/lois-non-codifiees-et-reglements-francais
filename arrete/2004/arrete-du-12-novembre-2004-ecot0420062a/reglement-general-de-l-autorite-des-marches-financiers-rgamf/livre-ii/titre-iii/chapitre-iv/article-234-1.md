@@ -1,8 +1,10 @@
 # Article 234-1
 
-Dans le présent chapitre, par titres de capital, il faut entendre titres de capital conférant des droits de vote si le capital de la société visée est constitué pour partie par des titres sans droit de vote. *
+Dans le présent chapitre, par titres de capital, il faut entendre titres de capital conférant des droits de vote si le capital de la société visée est constitué pour partie par des titres sans droit de vote.
 
 Les fractions du capital ou des droits de vote visées au présent chapitre sont déterminées conformément aux modalités de calcul des seuils fixées aux articles L. 233-7 et L. 233-9 du code de commerce.
+
+Les accords et instruments mentionnés au 4° bis du I de l'article L. 233-9 du code de commerce ne sont pas pris en compte pour la détermination des fractions du capital ou des droits de vote visées au présent chapitre.
 
 Les instruments financiers à prendre en compte au titre du 4° du I de l'article L. 233-9 du code de commerce sont :
 
