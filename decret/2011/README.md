@@ -350,6 +350,8 @@
 - [Décret n°2011-837 du 13 juillet 2011 (SCSX1118416D)](decret-n2011-837-du-13-juillet-2011-scsx1118416d)
 - [Décret n°2011-838 du 13 juillet 2011 (TRAX1118798D)](decret-n2011-838-du-13-juillet-2011-trax1118798d)
 - [Décret n°2011-841 du 13 juillet 2011 (AGRG1118524D)](decret-n2011-841-du-13-juillet-2011-agrg1118524d)
+- [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
+- [Décret n°88-976 du 13 octobre 1988 (SPSH8801218D)](decret-n88-976-du-13-octobre-1988-spsh8801218d)
 - [Décret n°2011-521 du 13 mai 2011 (ETSO1033522D)](decret-n2011-521-du-13-mai-2011-etso1033522d)
 - [Décret n°2011-1104 du 14 septembre 2011 (EFIM1115221D)](decret-n2011-1104-du-14-septembre-2011-efim1115221d)
 - [Décret n°2011-1107 du 14 septembre 2011 (ESRS1118989D)](decret-n2011-1107-du-14-septembre-2011-esrs1118989d)

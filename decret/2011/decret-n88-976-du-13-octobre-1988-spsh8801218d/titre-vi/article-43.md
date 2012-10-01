@@ -1,0 +1,3 @@
+# Article 43
+
+Si une nouvelle naissance ou adoption intervient alors que le fonctionnaire se trouve déjà placé en position de congé parental, l'intéressé a droit, du chef de son nouvel enfant, sans préjudice du bénéfice des dispositions du 5° de l'article 41 de la loi du 9 janvier 1986 susvisée, à un nouveau congé parental pour une durée de trois ans au plus à compter de la naissance ou de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de moins de trois ans, et d'un an au plus à compter de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de trois ans ou plus et n'a pas atteint l'âge de la fin de l'obligation scolaire. La demande doit en être formulée deux mois au moins avant la date présumée de la naissance ou de l'arrivée de l'enfant.

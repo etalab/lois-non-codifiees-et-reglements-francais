@@ -1,5 +1,5 @@
 # Article 57
 
-A l'expiration du congé parental, le fonctionnaire est réintégré et réaffecté dans son ancien emploi. Dans le cas où cet emploi ne peut lui être proposé, il est affecté dans l'emploi le plus proche de son dernier lieu de travail.
+A l'expiration du congé parental, le fonctionnaire est réintégré, à sa demande, dans son administration d'origine ou de détachement. Dans ce dernier cas, il est placé en position de détachement pour une période au moins égale à la durée restant à courir du détachement initial.
 
-Deux mois avant l'expiration du congé parental, le fonctionnaire peut demander une affectation dans l'emploi le plus proche de son domicile. Sa demande est alors examinée dans les conditions fixées à l'article 60 de la loi du 11 janvier 1984 susvisée.
+Six semaines au moins avant sa réintégration, le fonctionnaire bénéficie d'un entretien avec, selon son souhait de réintégration, le responsable des ressources humaines de son administration d'origine ou de détachement pour en examiner les modalités.
