@@ -464,7 +464,6 @@
 - [Arrêté du 18 juin 2004 (SANP0422180A)](arrete-du-18-juin-2004-sanp0422180a)
 - [Arrêté du 18 mars 2004 (AGRG0302048A)](arrete-du-18-mars-2004-agrg0302048a)
 - [Arrêté du 18 mars 2004 (BUDF0400009A)](arrete-du-18-mars-2004-budf0400009a)
-- [Arrêté du 18 novembre 2004 (LOGU0411015A)](arrete-du-18-novembre-2004-logu0411015a)
 - [Arrêté du 18 novembre 2004 (LOGU0411016A)](arrete-du-18-novembre-2004-logu0411016a)
 - [Arrêté du 18 novembre 2004 (LOGU0411017A)](arrete-du-18-novembre-2004-logu0411017a)
 - [Arrêté du 18 octobre 2004 (ECOS0450036A)](arrete-du-18-octobre-2004-ecos0450036a)
