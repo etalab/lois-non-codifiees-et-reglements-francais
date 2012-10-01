@@ -2553,6 +2553,7 @@
 - [Arrêté du 30 mai 2012 (MENE1224429A)](arrete-du-30-mai-2012-mene1224429a)
 - [Arrêté du 30 mai 2012 (MENE1224436A)](arrete-du-30-mai-2012-mene1224436a)
 - [Arrêté du 31 août 1994 (EQUP9401505A)](arrete-du-31-aout-1994-equp9401505a)
+- [Arrêté du 31 août 2004 (EQUP0400192A)](arrete-du-31-aout-2004-equp0400192a)
 - [Arrêté du 31 août 2012 (AFSA1232625A)](arrete-du-31-aout-2012-afsa1232625a)
 - [Arrêté du 31 août 2012 (AFSH1233549A)](arrete-du-31-aout-2012-afsh1233549a)
 - [Arrêté du 31 août 2012 (DEVA1233565A)](arrete-du-31-aout-2012-deva1233565a)
