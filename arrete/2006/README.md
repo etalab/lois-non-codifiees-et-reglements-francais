@@ -298,7 +298,6 @@
 - [Arrêté du 27 octobre 2006 (EQUT0601323A)](arrete-du-27-octobre-2006-equt0601323a)
 - [Arrêté du 27 octobre 2006 (INDI0608816A)](arrete-du-27-octobre-2006-indi0608816a)
 - [Arrêté du 28 août 2006 (ECOM0620005A)](arrete-du-28-aout-2006-ecom0620005a)
-- [Arrêté du 28 août 2006 (ECOM0620009A)](arrete-du-28-aout-2006-ecom0620009a)
 - [Arrêté du 28 août 2006 (ECOM0620010A)](arrete-du-28-aout-2006-ecom0620010a)
 - [Arrêté du 28 avril 2006 (INDI0607373A)](arrete-du-28-avril-2006-indi0607373a)
 - [Arrêté du 28 décembre 2005 (SANG0620091A)](arrete-du-28-decembre-2005-sang0620091a)
