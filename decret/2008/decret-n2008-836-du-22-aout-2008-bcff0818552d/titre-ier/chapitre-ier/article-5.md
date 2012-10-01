@@ -1,73 +1,95 @@
 # Article 5
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux conseillers techniques de service social régis par le décret n° 91-784 du 1er août 1991 susvisé est fixé ainsi qu'il suit :<br/>
-<div align="center">
-
+L'échelonnement indiciaire applicable aux conseillers techniques de service social des administrations de l'Etat, régis par le décret n° 2012-1099 du 28 septembre 2012 portant statut particulier du corps interministériel des conseillers techniques de service social des administrations de l'Etat, est fixé ainsi qu'il suit :
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
+<td>
+<p align="center"> GRADE ET ÉCHELON </p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Conseiller technique de service social</td>
+<br/>Conseiller technique de service social <br/>
+</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon</td>
+<br/>9e <br/>
+</td>
 <td align="center">
-<br/>660</td>
+<br/>730 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon</td>
+<br/>8e <br/>
+</td>
 <td align="center">
-<br/>628</td>
+<br/>690 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon</td>
+<br/>7e <br/>
+</td>
 <td align="center">
-<br/>597</td>
+<br/>664 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>6e <br/>
+</td>
 <td align="center">
-<br/>566</td>
+<br/>635 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon</td>
+<br/>5e <br/>
+</td>
 <td align="center">
-<br/>535</td>
+<br/>609 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon</td>
+<br/>4e <br/>
+</td>
 <td align="center">
-<br/>504</td>
+<br/>582 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon</td>
+<br/>3e <br/>
+</td>
 <td align="center">
-<br/>481</td>
+<br/>554 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er échelon</td>
+<br/>2e <br/>
+</td>
 <td align="center">
-<br/>461</td>
+<br/>524 <br/>
+</td>
 </tr>
+<tr>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>496<br/>
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
