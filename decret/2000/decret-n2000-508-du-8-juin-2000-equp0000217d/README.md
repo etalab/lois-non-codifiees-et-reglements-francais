@@ -1,7 +1,0 @@
-# Décret n°2000-508 du 8 juin 2000 portant statut particulier du corps des contrôleurs des affaires maritimes.
-
-- [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
-- [TITRE II : RECRUTEMENT.](titre-ii)
-- [TITRE III : AVANCEMENT.](titre-iii)
-- [Titre III bis : Dispositions diverses](titre-iii-bis)
-- [Article 21](article-21.md)

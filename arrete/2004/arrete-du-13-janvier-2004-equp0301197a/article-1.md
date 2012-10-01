@@ -1,6 +1,6 @@
 # Article 1
 
-Le concours externe d'accès au corps des contrôleurs des transports terrestres prévu à l'alinéa 2 de l'article 6 du décret du 9 décembre 1976 susvisé comprend deux épreuves écrites d'admissibilité, deux épreuves orales d'admission.
+Le concours externe d'accès au corps des   secrétaires d'administration et de contrôle du développement durable prévu à l'alinéa 2 de l'article 6 du décret du 9 décembre 1976 susvisé comprend deux épreuves écrites d'admissibilité, deux épreuves orales d'admission.
 
 A.-Admissibilité
 

@@ -1,6 +1,6 @@
 # Article 1
 
-Il est créé auprès de la directrice générale du personnel et de l'administration du ministère des transports, de l'équipement, du tourisme et de la mer une commission administrative paritaire centrale compétente à l'égard du corps des secrétaires administratifs de l'équipement, dont la composition est fixée comme suit :
+Il est créé auprès de la directrice générale du personnel et de l'administration du ministère des transports, de l'équipement, du tourisme et de la mer une commission administrative paritaire centrale compétente à l'égard du corps des secrétaires d'administration et de contrôle du développement durable , dont la composition est fixée comme suit :
 
 <table>
 <tbody>
@@ -36,7 +36,7 @@ Il est créé auprès de la directrice générale du personnel et de l'administr
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Secrétaire administratif de classe exceptionnelle</p>
+<p>Secrétaire d'administration et de contrôle de classe exceptionnelle</p>
 </td>
 <td width="76">
 <p align="center">2</p>
@@ -53,7 +53,7 @@ Il est créé auprès de la directrice générale du personnel et de l'administr
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Secrétaire administratif de classe supérieure</p>
+<p>Secrétaire d'administration et de contrôle de classe supérieure </p>
 </td>
 <td width="76">
 <p align="center">3</p>
@@ -64,7 +64,7 @@ Il est créé auprès de la directrice générale du personnel et de l'administr
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Secrétaire administratif de classe normale</p>
+<p>Secrétaire d'administration et de contrôle de classe normale </p>
 </td>
 <td width="76">
 <p align="center">3</p>
@@ -74,4 +74,4 @@ Il est créé auprès de la directrice générale du personnel et de l'administr
 </td>
 </tr>
 </tbody>
-</table>.
+</table>

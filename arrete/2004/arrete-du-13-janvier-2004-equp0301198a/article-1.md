@@ -1,6 +1,6 @@
 # Article 1
 
-Le concours interne d'accès au corps des contrôleurs des transports terrestres prévu à l'alinéa 3 de l'article 6 du décret du 9 décembre 1976 modifié susvisé comprend deux épreuves écrites d'admissibilité, une épreuve orale d'admission et une épreuve facultative qui n'est prise en compte que pour l'admission.
+Le concours interne d'accès au corps des   secrétaires d'administration et de contrôle du développement durable prévu à l'alinéa 3 de l'article 6 du décret du 9 décembre 1976 modifié susvisé comprend deux épreuves écrites d'admissibilité, une épreuve orale d'admission et une épreuve facultative qui n'est prise en compte que pour l'admission.
 
 A.-Admissibilité
 

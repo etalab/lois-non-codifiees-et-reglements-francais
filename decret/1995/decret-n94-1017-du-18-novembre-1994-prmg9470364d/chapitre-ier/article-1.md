@@ -16,8 +16,6 @@ b) (Abrogé)
 
 -assistants d'administration de l'aviation civile ;
 
--secrétaires administratifs de l'équipement ;
-
 Les personnels appartenant aux corps communs aux services déconcentrés et à l'administration centrale des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
 4. (supprimé)

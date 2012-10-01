@@ -1,6 +1,6 @@
 # Article 15
 
-Il est créé du 1er août 1994 au 31 décembre 1996, dans le corps des contrôleurs des transports terrestres, un grade provisoire de contrôleur divisionnaire.
+Il est créé du 1er août 1994 au 31 décembre 1996, dans le corps des   secrétaires d'administration et de contrôle du développement durable, un grade provisoire de contrôleur divisionnaire.
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons du grade provisoire sont fixées ainsi qu'il suit :
 
@@ -20,76 +20,76 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td width="90">
-<p align="center">Moyenne</p>
+<p align="center">Moyenne </p>
 </td>
 <td width="85">
-<p align="center">Minimale</p>
+<p align="center">Minimale </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="203">
-<p>6e échelon</p>
+<p>6e échelon </p>
 </td>
 <td valign="top" width="90">
-<p align="center">2 ans 6 mois</p>
+<p align="center">2 ans 6 mois </p>
 </td>
 <td valign="top" width="85">
-<p align="center">2 ans</p>
+<p align="center">2 ans </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="203">
-<p>5e échelon</p>
+<p>5e échelon </p>
 </td>
 <td valign="top" width="90">
-<p align="center">2 ans 6 mois</p>
+<p align="center">2 ans 6 mois </p>
 </td>
 <td valign="top" width="85">
-<p align="center">2 ans</p>
+<p align="center">2 ans </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="203">
-<p>4e échelon</p>
+<p>4e échelon </p>
 </td>
 <td valign="top" width="90">
-<p align="center">2 ans</p>
+<p align="center">2 ans </p>
 </td>
 <td valign="top" width="85">
-<p align="center">1 an 6 mois</p>
+<p align="center">1 an 6 mois </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="203">
-<p>3e échelon</p>
+<p>3e échelon </p>
 </td>
 <td valign="top" width="90">
-<p align="center">2 ans</p>
+<p align="center">2 ans </p>
 </td>
 <td valign="top" width="85">
-<p align="center">1 an 6 mois</p>
+<p align="center">1 an 6 mois </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="203">
-<p>2e échelon</p>
+<p>2e échelon </p>
 </td>
 <td valign="top" width="90">
-<p align="center">2 ans</p>
+<p align="center">2 ans </p>
 </td>
 <td valign="top" width="85">
-<p align="center">1 an 6 mois</p>
+<p align="center">1 an 6 mois </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="203">
-<p>1er échelon</p>
+<p>1er échelon </p>
 </td>
 <td valign="top" width="90">
-<p align="center">2 ans</p>
+<p align="center">2 ans </p>
 </td>
 <td valign="top" width="85">
-<p align="center">1 an 6 mois</p>
+<p align="center">1 an 6 mois </p>
 </td>
 </tr>
 </tbody>

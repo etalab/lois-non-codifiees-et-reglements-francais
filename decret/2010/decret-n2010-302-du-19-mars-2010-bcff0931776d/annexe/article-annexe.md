@@ -25,3 +25,5 @@ Secrétaires administratifs des services du Premier ministre.
 Secrétaires administratifs du ministère de la culture et de la communication.
 
 Secrétaires de chancellerie.
+
+Secrétaires d'administration et de contrôle du développement durable.

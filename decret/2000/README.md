@@ -21,7 +21,6 @@
 - [Décret n°2000-877 du 7 septembre 2000 (ECOI0000375D)](decret-n2000-877-du-7-septembre-2000-ecoi0000375d)
 - [Décret n°2000-103 du 8 février 2000 (ECOR9904577D)](decret-n2000-103-du-8-fevrier-2000-ecor9904577d)
 - [Décret n°2000-221 du 8 mars 2000 (ECOT9914034D)](decret-n2000-221-du-8-mars-2000-ecot9914034d)
-- [Décret n°2000-508 du 8 juin 2000 (EQUP0000217D)](decret-n2000-508-du-8-juin-2000-equp0000217d)
 - [Décret n°2000-1091 du 9 novembre 2000 (ECOR0005005D)](decret-n2000-1091-du-9-novembre-2000-ecor0005005d)
 - [Décret n°89-826 du 9 novembre 1989 (MENF8902368D)](decret-n89-826-du-9-novembre-1989-menf8902368d)
 - [Décret n°2000-1088 du 10 novembre 2000 (PRMX0000125D)](decret-n2000-1088-du-10-novembre-2000-prmx0000125d)

@@ -58,7 +58,7 @@ Fonction administrative, de gestion, d'application de réglementation ou de pupi
 
 7. Contrôleurs principaux des transports routiers régis par le décret n° 63-391 du 10 avril 1963 modifié.
 
-Contrôle des véhicules Contrôleur des transports terrestres.
+Contrôle des véhicules   Secrétaire d'administration et de contrôle du développement durable .
 
 8. Agents principaux du Conseil national des transports régis par le décret n° 48-1998 du 30 décembre 1948 modifié relatif au Conseil supérieur des transports.
 
@@ -70,7 +70,7 @@ Fonction administrative, de gestion, d'application de réglementation ou de pupi
 
 Fonction technique ou de pupitreur, programmeur, chef opérateur, chef programmeur Technicien des T. P. E.
 
-10. Personnels non titulaires du niveau de la catégorie B de l'  Institut national de l'information géographique et forestière.
+10. Personnels non titulaires du niveau de la catégorie B de l'Institut national de l'information géographique et forestière.
 
 Fonction administrative, de gestion, d'application de réglementationou
 
