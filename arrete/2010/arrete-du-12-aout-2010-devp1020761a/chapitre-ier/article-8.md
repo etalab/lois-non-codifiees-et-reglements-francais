@@ -2,4 +2,6 @@
 
 Intégration dans le paysage.
 
-Les digesteurs sont implantés à plus de 50 mètres des habitations occupées par des tiers, à l'exception des logements occupés par des personnels de l'installation et des logements dont l'exploitant ou le fournisseur de substrats de méthanisation ou l'utilisateur de la chaleur produite a la jouissance.
+L'exploitant prend les dispositions appropriées qui permettent d'intégrer l'installation dans le paysage.
+
+L'ensemble du site, de même que ses abords placés sous le contrôle de  l'exploitant, sont maintenus propres et entretenus en permanence. Les  émissaires de rejet et leur périphérie font l'objet d'un soin  particulier.

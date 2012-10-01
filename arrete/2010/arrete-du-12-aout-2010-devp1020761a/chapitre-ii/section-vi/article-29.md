@@ -18,7 +18,9 @@ Toute admission de déchets ou de matières donne lieu à un enregistrement :
 
 ― de leur désignation ;
 
-― de la date de réception ; du tonnage ou, en cas de livraison par canalisation, du volume ;
+― de la date de réception ;
+
+― du tonnage ou, en cas de livraison par canalisation, du volume ;
 
 ― du nom et de l'adresse de l'expéditeur initial ;
 

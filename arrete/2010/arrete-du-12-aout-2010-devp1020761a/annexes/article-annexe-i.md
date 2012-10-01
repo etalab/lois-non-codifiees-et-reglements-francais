@@ -12,7 +12,7 @@ Dans les autres cas, un plan d'épandage est joint au dossier d'enregistrement, 
 
 ― une étude préalable d'épandage (cf. au point c) ;
 
-― une carte au 1 / 25000 des parcelles concernées ;
+― une carte au 1/25000 des parcelles concernées ;
 
 ― la liste des prêteurs de terres ;
 
@@ -22,7 +22,7 @@ L'épandage du digestat respecte alors les dispositions suivantes, sans préjudi
 
 a) L'exploitant tient à la disposition de l'inspection des installations classées les justificatifs des quantités totales d'azote, toutes origines confondues, apportées sur chacune des parcelles du plan d'épandage.
 
-b) En cas de risque de dépassement des capacités de stockage des digestats, l'exploitant évalue les capacités complémentaires de stockage à mettre en place, décrit les modifications à apporter aux installations et en informe préalablement le préfet.A défaut, il identifie les installations de traitement du digestat auxquelles il peut faire appel.
+b) En cas de risque de dépassement des capacités de stockage des digestats, l'exploitant évalue les capacités complémentaires de stockage à mettre en place, décrit les modifications à apporter aux installations et en informe préalablement le préfet. A défaut, il identifie les installations de traitement du digestat auxquelles il peut faire appel.
 
 c) Une étude préalable d'épandage précise l'innocuité (dans les conditions d'emploi) et l'intérêt agronomique des digestats au regard des paramètres définis à l'annexe II, l'aptitude du sol à les recevoir, et le plan d'épandage détaillé ci-après. Cette étude justifie la compatibilité de l'épandage avec les contraintes environnementales recensées et avec les documents de planification existants, notamment les plans prévus à l'article L. 541-14 du code de l'environnement et les schémas d'aménagement et de gestion des eaux, prévus aux articles L. 212-1 et 3 du code de l'environnement.
 
@@ -46,7 +46,7 @@ Toute modification notable de la nature et de la répartition des différents d�
 
 d) Un plan d'épandage est réalisé, constitué :
 
-― d'une carte à une échelle minimum de 1 / 25 000 permettant de localiser les surfaces où l'épandage est possible compte tenu des exclusions mentionnées au point f Règles d'épandages. Cette carte fait apparaître les contours et les numéros des unités de surface permettant de les repérer ainsi que les zones exclues à l'épandage ;
+― d'une carte à une échelle minimum de 1/25 000 permettant de localiser les surfaces où l'épandage est possible compte tenu des exclusions mentionnées au point f Règles d'épandages. Cette carte fait apparaître les contours et les numéros des unités de surface permettant de les repérer ainsi que les zones exclues à l'épandage ;
 
 ― d'un document mentionnant l'identité et l'adresse des prêteurs de terres qui ont souscrit un contrat écrit avec l'exploitant, précisant notamment les engagements et responsabilités réciproques ;
 
@@ -92,7 +92,7 @@ L'épandage est effectué par enfouissement direct, par pendillards ou par un di
 
 ― pendant les périodes de forte pluviosité.
 
-En aucun cas la capacité d'absorption des sols ne doit être dépassée, de telle sorte que ni la stagnation prolongée sur ces sols, ni le ruissellement en dehors du champ d'épandage, ni une percolation rapide vers les nappes souterraines ne puissent se produire. Le volume de digestats liquides épandu doit être adapté à l'état hydrique des sols : il ne doit pas dépasser 50 l / m ² (500 m ³ / ha) par épandage ni dépasser un total de 150 l / m ² (1 500 m ³ / ha) et par an, avec un intervalle d'au moins deux semaines entre deux passages successifs.
+En aucun cas la capacité d'absorption des sols ne doit être dépassée, de telle sorte que ni la stagnation prolongée sur ces sols, ni le ruissellement en dehors du champ d'épandage, ni une percolation rapide vers les nappes souterraines ne puissent se produire. Le volume de digestats liquides épandu doit être adapté à l'état hydrique des sols : il ne doit pas dépasser 50 l/ m ² (500 m ³/ ha) par épandage ni dépasser un total de 150 l/ m ² (1 500 m ³/ ha) et par an, avec un intervalle d'au moins deux semaines entre deux passages successifs.
 
 Toute anomalie constatée sur les sols, les cultures et leur environnement lors ou à la suite de l'épandage de digestats et susceptible d'être relation avec ces épandages doit être signalée sans délai à l'inspection des installations classées.
 
@@ -121,3 +121,5 @@ Lorsque les digestats sont épandus sur des parcelles mises à disposition par u
 h) Abandon parcellaire
 
 Une analyse de sol au regard des paramètres définis à l'annexe II (à l'exception de la granulométrie) est réalisée dans l'année qui suit l'ultime épandage sur chaque parcelle exclue du périmètre d'épandage. Cette modification du périmètre d'épandage est portée à la connaissance du préfet.
+
+i) Dans les zones vulnérables, délimitées en application des articles R. 211-75 à R. 211-78 du code de l'environnement, les dispositions fixées par les programmes d'actions à mettre en œuvre en vue de la protection des eaux contre la pollution par les nitrates d'origine agricole prévus aux articles R. 211-80 à R. 211-83 du code de l'environnement sont applicables à l'installation.

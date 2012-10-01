@@ -16,7 +16,7 @@ DE LA VALEUR AGRONOMIQUE DES DIGESTATS ET DES SOLS
 
 ― rapport C/N ;
 
-― phosphore total (en P2O55) ; potassium total (en K2O) ;
+― phosphore total (en P2O5) ; potassium total (en K2O) ;
 
 2. Analyses pour la caractérisation de la valeur agronomique des sols :
 
