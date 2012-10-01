@@ -13,14 +13,20 @@ CORPS À STATUTS COMMUNS
 </th>
 </tr>
 <tr>
-<td align="center">Corps des chargés d'études documentaires <br/>
+<td align="center">
+<p align="center">Corps des chargés d'études documentaires <br/>
 Décret n° 98-188 du 19 mars 1998 modifié <br/>Chargés d'études documentaires principaux de 2e classe <br/>
+</p>
 </td>
-<td align="center">10 <br/>
+<td align="center">
+<p align="center">10 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Chargés d'études documentaires principaux de 1re classe <br/>
+<td align="center">
+<p align="center">Chargés d'études documentaires principaux de 1re classe <br/>
+</p>
 </td>
 <td align="center">25 <br/>
 </td>

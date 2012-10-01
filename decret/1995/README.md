@@ -599,7 +599,6 @@
 - [Décret n°95-70 du 20 janvier 1995 (MICT9500008D)](decret-n95-70-du-20-janvier-1995-mict9500008d)
 - [Décret n°95-815 du 20 juin 1995 (MAEJ9530059D)](decret-n95-815-du-20-juin-1995-maej9530059d)
 - [Décret n°95-816 du 20 juin 1995 (MAEJ9530049D)](decret-n95-816-du-20-juin-1995-maej9530049d)
-- [Décret n°88-399 du 21 avril 1988 (EQUP8800314D)](decret-n88-399-du-21-avril-1988-equp8800314d)
 - [Décret n°95-1037 du 21 septembre 1995 (PRMX9500105D)](decret-n95-1037-du-21-septembre-1995-prmx9500105d)
 - [Décret n°95-1038 du 21 septembre 1995 (AGRS9501319D)](decret-n95-1038-du-21-septembre-1995-agrs9501319d)
 - [Décret n°95-1055 du 21 septembre 1995 (ECOT9551451D)](decret-n95-1055-du-21-septembre-1995-ecot9551451d)

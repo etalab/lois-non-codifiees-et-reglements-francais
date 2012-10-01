@@ -6,8 +6,6 @@ Techniciens de l'environnement.
 
 Techniciens de laboratoire.
 
-Contrôleurs des travaux publics de l'Etat.
-
 Techniciens de l'éducation nationale.
 
 Techniciens des établissements publics de l'enseignement technique agricole.

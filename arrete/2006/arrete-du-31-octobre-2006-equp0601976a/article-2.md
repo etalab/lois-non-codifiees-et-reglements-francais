@@ -4,18 +4,16 @@ Les examens professionnels prévus à l'article précédent comportent une épre
 
 a) De catégorie A :
 
-- personnels administratifs supérieurs des services déconcentrés de l'Etat ;
+-personnels administratifs supérieurs des services déconcentrés de l'Etat ;
 
-- ingénieurs des travaux publics de l'Etat ;
+-ingénieurs des travaux publics de l'Etat ;
 
-- officiers de port ;
+-officiers de port ;
 
 b) De catégorie B :
 
-- secrétaires administratifs des services déconcentrés ;
+-secrétaires administratifs des services déconcentrés ;
 
-- techniciens supérieurs de l'équipement ;
+-techniciens supérieurs du développement durable ;
 
-- contrôleurs des travaux publics de l'Etat ;
-
-- officiers de port adjoints.
+-officiers de port adjoints.

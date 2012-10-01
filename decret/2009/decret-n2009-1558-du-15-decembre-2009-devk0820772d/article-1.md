@@ -4,22 +4,20 @@ I. ― Il est institué, au profit des membres de certains corps relevant du min
 
 II. ― La prime de service et de rendement est attribuée aux fonctionnaires titulaires appartenant aux corps ci-après énumérés :
 
-- ingénieurs des ponts, des eaux et des forêts relevant du ministère chargé du développement durable ;
+-ingénieurs des ponts, des eaux et des forêts relevant du ministère chargé du développement durable ;
 
-- ingénieurs des travaux publics de l'Etat ;
+-ingénieurs des travaux publics de l'Etat ;
 
-- techniciens supérieurs de l'équipement ;
+-techniciens supérieurs du développement durable ;
 
-- contrôleurs des travaux publics de l'Etat ;
+-conducteur des travaux publics de l'Etat ;
 
-- conducteur des travaux publics de l'Etat ;
+-experts techniques des services techniques ;
 
-- experts techniques des services techniques ;
+-dessinateurs de l'équipement ;
 
-- dessinateurs de l'équipement ;
+-inspecteurs du permis de conduire et de la sécurité routière ;
 
-- inspecteurs du permis de conduire et de la sécurité routière ;
+-chargés de recherche relevant du ministère chargé du développement durable ;
 
-- chargés de recherche relevant du ministère chargé du développement durable ;
-
-- directeurs de recherche relevant du ministère chargé du développement durable.
+-directeurs de recherche relevant du ministère chargé du développement durable.

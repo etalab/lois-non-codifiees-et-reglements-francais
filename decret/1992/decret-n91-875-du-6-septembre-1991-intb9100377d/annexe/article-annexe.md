@@ -7,11 +7,13 @@ A. - Administration générale
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés </p>
+<p align="center">Cadres d'emplois et grades concernés <br/>
+</p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents </p>
+<p align="center">Corps et grades équivalents <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -194,10 +196,7 @@ B. - Fonctions techniques
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Ingénieurs des TPE<br/>
 </td>
@@ -223,7 +222,7 @@ B. - Fonctions techniques
 <br/>Techniciens territoriaux<br/>
 </td>
 <td align="left" valign="top">
-<br/>Techniciens supérieurs de l'équipement<br/>
+<br/>Techniciens supérieurs du développement durable<br/>
 </td>
 </tr>
 <tr>
@@ -235,20 +234,16 @@ B. - Fonctions techniques
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Contrôleurs de travaux publics de l'Etat<br/>
-</td>
+<br/>Techniciens supérieur du développement durable</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>Technicien principal de 2e classe<br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleur principal des TPE<br/>
+<br/>Technicien supérieur principal du développement durable <br/>
 </td>
 </tr>
 <tr>
@@ -256,17 +251,14 @@ B. - Fonctions techniques
 <br/>Technicien<br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleur des TPE<br/>
+<br/>Techniciens supérieur du développement durable<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>Jusqu'au 31 décembre 2007<br/>
 </td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -296,17 +288,11 @@ B. - Fonctions techniques
 <td align="left" valign="top">
 <br/>A compter du 1er janvier 2008<br/>
 </td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agents de maîtrise territoriaux <p>
-<br/>
-</p>
-</td>
+<br/>Agents de maîtrise territoriaux</td>
 <td align="left" valign="top">
 <br/>Adjoints techniques du ministère de l'intérieur <p>et du ministère de l'outre-mer (préfecture)<br/>
 </p>
@@ -332,10 +318,7 @@ B. - Fonctions techniques
 <td align="left" valign="top">
 <br/>Jusqu'au 31 décembre 2007<br/>
 </td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -382,10 +365,7 @@ B. - Fonctions techniques
 <td align="left" valign="top">
 <br/>A compter du 1er janvier 2008<br/>
 </td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -929,7 +909,8 @@ D. - Fonctions culturelles
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conservateur.</p>
+<p align="left">Conservateur. <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Conservateur. <br/>
@@ -1222,7 +1203,7 @@ E. - Fonctions sportives
 <br/>Aide opérateur. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif. de 2e classe <br/>
+<br/>Adjoint administratif de 2e classe. <br/>
 </td>
 </tr>
 </tbody>
@@ -1235,7 +1216,7 @@ F. - Animation
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés</p>
+<p align="center">Cadres d'emplois et grades concernés </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>

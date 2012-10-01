@@ -10,19 +10,24 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 </td>
 <td colspan="2" valign="top">
 <p align="center">MODULATION INDIVIDUELLE </p>
-<br/>
 <p align="center">par rapport au taux moyen </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<pre/>
+<br/>
 </td>
 <td>
 <p align="center">Minimum </p>
 </td>
 <td>
 <p align="center">Maximum </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -35,6 +40,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">160 % </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -45,6 +53,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 </td>
 <td>
 <p align="center">160 % </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -57,6 +68,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">155 % </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -67,6 +81,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 </td>
 <td>
 <p align="center">140 % </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -79,6 +96,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">140 % </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -90,16 +110,22 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">133 % </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
 <p>Ingénieur des ponts, des eaux et des forêts </p>
 </td>
 <td>
-<p align="center">73, 5 % </p>
+<p align="center">73,5 % </p>
 </td>
 <td>
-<p align="center">122, 5 % </p>
+<p align="center">122,5 % </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -107,10 +133,13 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <p>Ingénieur divisionnaire des travaux publics de l'Etat, détaché sur l'emploi fonctionnel d'ingénieur en chef des travaux publics de l'Etat du premier ou du deuxième groupe </p>
 </td>
 <td>
-<p align="center">73, 5 % </p>
+<p align="center">73,5 % </p>
 </td>
 <td>
-<p align="center">122, 5 % </p>
+<p align="center">122,5 % </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -118,10 +147,13 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <p>Ingénieur divisionnaire des travaux publics de l'Etat </p>
 </td>
 <td>
-<p align="center">73, 5 % </p>
+<p align="center">73,5 % </p>
 </td>
 <td>
-<p align="center">122, 5 % </p>
+<p align="center">122,5 % </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -134,10 +166,13 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">115 % </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
-<p>Technicien supérieur, Technicien supérieur principal et Technicien supérieur en chef de l'équipement </p>
+<p>Technicien supérieur, technicien supérieur principal et technicien supérieur en chef du développement durable </p>
 </td>
 <td>
 <p align="center">90 % </p>
@@ -145,16 +180,8 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">110 % </p>
 </td>
-</tr>
-<tr>
-<td valign="top">
-<p>Contrôleur, contrôleur principal et contrôleur divisionnaire des travaux publics de l'Etat </p>
-</td>
 <td>
-<p align="center">90 % </p>
-</td>
-<td>
-<p align="center">110 % </p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -167,6 +194,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td>
 <p align="center">110 % </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -177,6 +207,9 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 </td>
 <td>
 <p align="center">110 % </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -189,8 +222,10 @@ Les coefficients de modulation individuelle prévus à l'article 7 du décret du
 <td rowspan="2">
 <p align="center">110 % </p>
 </td>
+<td height="22"/>
+</tr>
+<tr>
+<td height="14"/>
 </tr>
 </tbody>
-</table>
-
-Toutefois, à titre exceptionnel et par dérogation aux dispositions du présent article, pour tenir compte de la manière de servir, les coefficients de modulation individuelle peuvent être inférieurs aux minima prévus. Ils peuvent être supérieurs aux maxima prévus pour les agents qui sont amenés à assurer des missions particulières n'entrant pas dans le cadre habituel de leurs fonctions, sans excéder 150 % pour 5 % des effectifs des corps concernés dans le service d'affectation.
+</table>Toutefois, à titre exceptionnel et par dérogation aux dispositions du présent article, pour tenir compte de la manière de servir, les coefficients de modulation individuelle peuvent être inférieurs aux minima prévus. Ils peuvent être supérieurs aux maxima prévus pour les agents qui sont amenés à assurer des missions particulières n'entrant pas dans le cadre habituel de leurs fonctions, sans excéder 150 % pour 5 % des effectifs des corps concernés dans le service d'affectation.
