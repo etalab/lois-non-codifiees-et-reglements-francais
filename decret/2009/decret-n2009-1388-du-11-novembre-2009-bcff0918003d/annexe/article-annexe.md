@@ -63,3 +63,5 @@ Techniciens de laboratoire relevant des ministres chargés de l'économie et du 
 Techniciens de physiothérapie relevant du ministre chargé de la santé.
 
 Techniciens de laboratoire des écoles nationales supérieures des mines.
+
+Techniciens supérieurs du développement durable.
