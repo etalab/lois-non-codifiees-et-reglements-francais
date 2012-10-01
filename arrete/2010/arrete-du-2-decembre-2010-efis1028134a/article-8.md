@@ -12,4 +12,4 @@ Si, à l'examen de ces pièces, il apparaît que les déclarations faites par le
 
 L'extrait du casier judiciaire (bulletin n° 2) est sollicité par la direction générale de l'Institut national de la statistique et des études économiques auprès du service compétent du ministère de la justice.
 
-Les admissions par concours en qualité d'élève non fonctionnaire sont prononcées dans les conditions fixées par le décret du 27 juin 1994 susvisé.
+Les admissions par concours en qualité d'élève non fonctionnaire sont prononcées dans les conditions fixées par l'arrêté du 21 novembre 2011 susvisé.

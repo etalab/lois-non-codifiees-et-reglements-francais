@@ -1,33 +1,29 @@
 # Article 6
 
-Les épreuves du concours à spécialité économie et sciences sociales sont les suivantes :
+Les épreuves du concours à spécialité " économie et sciences sociales ” sont les suivantes :
 
-A. - Epreuves écrites d'admissibilité
+A. ― Epreuves écrites d'admissibilité
 
-Epreuve n° 1 (durée : six heures ; coefficient 15) : composition de sciences sociales. Cette épreuve consiste en une dissertation avec documents.
+Epreuve n° 1 (coefficient 6) : composition de sciences sociales.
 
-Epreuve n° 2 (durée : quatre heures ; coefficient 25) : composition de mathématiques.
+Epreuve n° 2 (coefficient 10) : composition de mathématiques.
 
-Epreuve n° 3 (durée : trois heures ; coefficient 10) : épreuve de langue vivante étrangère. Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol, italien, japonais et russe. Elle consiste en un exercice de version portant sur un texte d'intérêt général, économique et/ou sociologique, éventuellement complété par un exercice d'expression dans la langue étrangère choisie, en réponse à une ou deux questions sur le texte
+Epreuve n° 3 (coefficient 2) : épreuve de langue vivante étrangère.
 
-Epreuve n° 4 (durée : cinq heures ; coefficient 15) : épreuve à options (le candidat doit choisir une option à l'inscription) :
+Epreuve n° 4 (coefficient 6) : épreuve à options (le candidat doit choisir une option à l'inscription) :
 
-- épreuve de sociologie ;
+― épreuve de sociologie ;
 
-- épreuve d'économie.
+― épreuve d'économie.
 
-Les épreuves écrites sont empruntées à la banque d'épreuves utilisée pour les concours d'entrée aux Ecoles normales supérieures en sciences sociales.
+B. ― Epreuves orales d'admission
 
-B. - Epreuves orales d'admission
+Epreuve n° 1 (préparation : trente minutes ; durée : trente minutes ; coefficient 5) : mathématiques (exercices à traiter au tableau).
 
-La durée des épreuves n° 1, n° 4 et n° 5 est fixée par le règlement du concours d'entrée aux Ecoles normales supérieurs en sciences sociales.
+Epreuve n° 2 (préparation : trente minutes ; durée : trente minutes ; coefficient 5) : mathématiques (exercices à traiter au tableau).
 
-Epreuve n° 1 (coefficient 12) : entretien à partir d'un document à caractère économique et social.
+Epreuve n° 3 (coefficient 2) : langue étrangère. L'épreuve orale porte sur la même langue que celle choisie pour l'épreuve écrite.
 
-Epreuve n° 2 (durée : trente minutes ; coefficient 15) : mathématiques (exercices à traiter au tableau).
+Epreuve n° 4 (coefficient 6) : interrogation d'analyse économique.
 
-Epreuve n° 3 (durée : trente minutes ; coefficient 15) : mathématiques (exercices à traiter au tableau).
-
-Epreuve n° 4 (coefficient 6) : langue étrangère. L'épreuve orale porte sur la même langue que celle choisie pour l'épreuve écrite. Elle comporte la présentation et le commentaire d'un texte en langue étrangère d'intérêt général, économique et/ou sociologique.
-
-Epreuve n° 5 (coefficient 12) : interrogation d'analyse économique.
+Les durées et les modalités de déroulement des épreuves écrites et orales, à l'exception des épreuves orales d'admission n°s 1 et 2, sont empruntées à la banque d'épreuves des écoles normales supérieures en sciences sociales et sont fixées par le règlement d'entrée à ces écoles. Le programme des épreuves orales d'admission n°s 1 et 2 est disponible auprès de la direction générale de l'INSEE, section concours et examens, timbre C 269, 18, boulevard Adolphe-Pinard, 75675 Paris Cedex 14 (courriel :  concours@insee.fr), ou de la direction de l'ENSAI, service des admissions, campus de Ker-Lann, rue Blaise-Pascal, BP 37203, 35172 Bruz Cedex (courriel :  admission@ensai.fr).
