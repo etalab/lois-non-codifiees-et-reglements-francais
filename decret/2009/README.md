@@ -345,7 +345,6 @@
 - [Décret n°2009-672 du 11 juin 2009 (IOCO0912167D)](decret-n2009-672-du-11-juin-2009-ioco0912167d)
 - [Décret n°2009-673 du 11 juin 2009 (MTSS0909208D)](decret-n2009-673-du-11-juin-2009-mtss0909208d)
 - [Décret n°2009-674 du 11 juin 2009 (AGRE0901912D)](decret-n2009-674-du-11-juin-2009-agre0901912d)
-- [Décret n°2009-677 du 11 juin 2009 (DEFH0900098D)](decret-n2009-677-du-11-juin-2009-defh0900098d)
 - [Décret n°2009-679 du 11 juin 2009 (SJSJ0901100D)](decret-n2009-679-du-11-juin-2009-sjsj0901100d)
 - [Décret n°2009-680 du 11 juin 2009 (SASV0912974D)](decret-n2009-680-du-11-juin-2009-sasv0912974d)
 - [Décret n°2007-813 du 11 mai 2007 (JUSC0753766D)](decret-n2007-813-du-11-mai-2007-jusc0753766d)
