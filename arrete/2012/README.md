@@ -1913,6 +1913,7 @@
 - [Arrêté du 25 juillet 2012 (MCCB1230575A)](arrete-du-25-juillet-2012-mccb1230575a)
 - [Arrêté du 25 juin 2012 (AFSH1225638A)](arrete-du-25-juin-2012-afsh1225638a)
 - [Arrêté du 25 juin 2012 (AGRE1227139A)](arrete-du-25-juin-2012-agre1227139a)
+- [Arrêté du 25 juin 2012 (AGRG1223239A)](arrete-du-25-juin-2012-agrg1223239a)
 - [Arrêté du 25 juin 2012 (DEFH1222960A)](arrete-du-25-juin-2012-defh1222960a)
 - [Arrêté du 25 juin 2012 (DEFH1227515A)](arrete-du-25-juin-2012-defh1227515a)
 - [Arrêté du 25 juin 2012 (DEFH1227526A)](arrete-du-25-juin-2012-defh1227526a)
