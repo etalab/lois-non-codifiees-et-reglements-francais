@@ -14,4 +14,6 @@ Le contenu de la demande d'agrément pour effectuer le contrôle périodique de 
 
 ― la liste du personnel chargé des opérations de contrôle, précisant leur qualification ;
 
-― le tarif des prestations appliquées.
+― le tarif des prestations appliquées ;
+
+― le niveau d'indépendance au sens de la norme NF EN ISO/CEI 17020. A ce titre, les activités de conseil, d'étude ou d'assistance technique relatives à des montages de dossiers administratifs d'installations classées soumises à déclaration sont considérées comme étant des activités incompatibles au titre des critères d'indépendance définis pour les organismes d'inspection de type A.
