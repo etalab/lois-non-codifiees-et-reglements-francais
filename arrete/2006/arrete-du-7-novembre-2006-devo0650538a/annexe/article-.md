@@ -5,357 +5,366 @@ A. - Rivières
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
+<td valign="top">
 <p align="center">NOM DE LA VOIE </p>
 </td>
-<td align="left" valign="top">
+<td valign="top">
 <p align="center">ORIGINE </p>
 </td>
-<td align="left" valign="top">
+<td valign="top">
 <p align="center">EXTRÉMITÉ </p>
 </td>
-<td align="left" valign="top">
+<td valign="top">
 <p align="center">SERVICE COMPÉTENT </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Aa à grand gabarit <br/>
+<td valign="top">
+<p>Aa à grand gabarit </p>
 </td>
-<td align="left" valign="top">
-<br/>Saint-Omer, jonction du canal de Neufossé <br/>
+<td valign="top">
+<p>Saint-Omer, jonction du canal de Neufossé </p>
 </td>
-<td align="left" valign="top">
-<br/>La West <br/>
+<td valign="top">
+<p>La West </p>
 </td>
-<td align="left" valign="top">
-<br/>DDTM 59 et DDTM 62 pour les rives situées dans leurs départements respectifs <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Aisne canalisée <br/>
-</td>
-<td align="left" valign="top">
-<br/>Vailly <br/>
-</td>
-<td align="left" valign="top">
-<br/>Confluent de l'Oise <br/>
-</td>
-<td align="left" valign="top">
-<br/>DRIEE Ile-de-France <br/>
+<td valign="top">
+<p>DDTM 59 et DDTM 62 pour les rives situées dans leurs départements respectifs </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Escaut <br/>
+<td valign="top">
+<p>Aisne canalisée </p>
 </td>
-<td align="left" valign="top">
-<br/>Cambrai, jonction avec le canal de Saint-Quentin <br/>
+<td valign="top">
+<p>Vailly </p>
 </td>
-<td align="left" valign="top">
-<br/>Frontière franco-belge <br/>
+<td valign="top">
+<p>Confluent de l'Oise </p>
 </td>
-<td align="left" valign="top">
-<br/>DDTM 59 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="2" valign="top">
-<br/>Garonne </td>
-<td align="left" valign="top">
-<br/>Saint-Léger (embouchure de la Baïse), dans le département de Lot-et-Garonne <br/>
-</td>
-<td align="left" valign="top">
-<br/>Limite départementale entre le Lot-Garonne et la Gironde <br/>
-</td>
-<td align="left" valign="top">
-<br/>DDT 47 <br/>
+<td valign="top">
+<p>DRIEE Ile-de-France </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Limite départementale entre le Lot-Garonne et la Gironde <br/>
+<td valign="top">
+<p>Escaut </p>
 </td>
-<td align="left" valign="top">
-<br/>Limite transversale de la mer <br/>
+<td valign="top">
+<p>Cambrai, jonction avec le canal de Saint-Quentin </p>
 </td>
-<td align="left" valign="top">
-<br/>DDTM 33 <br/>
+<td valign="top">
+<p>Frontière franco-belge </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Ill domaniale et ses dépendances <br/>
-</td>
-<td align="left" valign="top">
-<br/>Pont ferroviaire Strasbourg-Khel <br/>
-</td>
-<td align="left" valign="top">
-<br/>Confluence avec le Rhin <br/>
-</td>
-<td align="left" valign="top">
-<br/>DDT 67 <br/>
+<td valign="top">
+<p>DDTM 59 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Loire <br/>
+<td rowspan="2" valign="top">
+<p>Garonne </p>
 </td>
-<td align="left" valign="top">
-<br/>Bouchemaine, dans le département de Maine-et-Loire <br/>
+<td valign="top">
+<p>Saint-Léger (embouchure de la Baïse), dans le département de Lot-et-Garonne </p>
 </td>
-<td align="left" valign="top">
-<br/>Limite transversale de la mer <br/>
+<td valign="top">
+<p>Limite départementale entre le Lot-Garonne et la Gironde </p>
 </td>
-<td align="left" valign="top">
-<br/>DDTM 44 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Lys mitoyenne <br/>
-</td>
-<td align="left" valign="top">
-<br/>Aire-sur-la-Lys <br/>
-</td>
-<td align="left" valign="top">
-<br/>Halluin <br/>
-</td>
-<td align="left" valign="top">
-<br/>DDTM 59 et DDTM 62 pour les rives situées dans leurs départements respectifs <br/>
+<td valign="top">
+<p>DDT 47 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Marne <br/>
+<td valign="top">
+<p>Limite départementale entre le Lot-Garonne et la Gironde </p>
 </td>
-<td align="left" valign="top">
-<br/>Hautvillers <br/>
+<td valign="top">
+<p>Limite transversale de la mer </p>
 </td>
-<td align="left" valign="top">
-<br/>Confluence avec la Seine <br/>
-</td>
-<td align="left" valign="top">
-<br/>DRIEE Ile-de-France <br/>
+<td valign="top">
+<p>DDTM 33 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Marque urbaine <br/>
+<td valign="top">
+<p>Ill domaniale et ses dépendances </p>
 </td>
-<td align="left" valign="top">
-<br/>Jonction avec la Deule <br/>
+<td valign="top">
+<p>Pont ferroviaire Strasbourg-Khel </p>
 </td>
-<td align="left" valign="top">
-<br/>Ecluse de Marcq <br/>
+<td valign="top">
+<p>Confluence avec le Rhin </p>
 </td>
-<td align="left" valign="top">
-<br/>DDTM 59 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Meuse ou canal de l'Est, branche nord <br/>
-</td>
-<td align="left" valign="top">
-<br/>Jonction avec le canal des Ardennes - Pont-à-Bar <br/>
-</td>
-<td align="left" valign="top">
-<br/>Frontière franco-belge <br/>
-</td>
-<td align="left" valign="top">
-<br/>DDT 08 <br/>
+<td valign="top">
+<p>DDT 67 </p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="2" valign="top">
-<br/>Moselle navigable (y compris enbranchements et ports) <br/>
-<br/>
-<br/>
+<td rowspan="2" valign="top">
+<p>Loire </p>
 </td>
-<td align="left" valign="top">
-<br/>Neuves-Maisons <br/>
+<td valign="top">
+<p>Bouchemaine, dans le département de Maine-et-Loire </p>
 </td>
-<td align="left" valign="top">
-<br/>Limite départementale entre la Meurthe-et-Moselle et la Moselle <br/>
+<td valign="top">
+<p>Limite départementale entre le Maine-et-Loire et la Loire-Atlantique</p>
 </td>
-<td align="left" valign="top">
-<br/>DDT 54 <br/>
+<td valign="top">
+<p>DDT 49</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Limite départementale entre la Meurthe-et-Moselle et la Moselle <br/>
+<td>
+<p>Limite départementale entre le Maine-et-Loire et la Loire-Atlantique</p>
 </td>
-<td align="left" valign="top">
-<br/>Apach <br/>
+<td>
+<p>Limite transversale de la mer</p>
 </td>
-<td align="left" valign="top">
-<br/>DDT 57 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Oise <br/>
-</td>
-<td align="left" valign="top">
-<br/>Ecluse de Janville <br/>
-</td>
-<td align="left" valign="top">
-<br/>Seine, à Conflans-Sainte-Honorine <br/>
-</td>
-<td align="left" valign="top">
-<br/>DRIEE Ile-de-France <br/>
+<td>
+<p>DDTM 44</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Rhin, y compris grand canal d'Alsace <br/>
+<td valign="top">
+<p>Lys mitoyenne </p>
 </td>
-<td align="left" valign="top">
-<br/>Bâle, frontière franco-suisse <br/>
+<td valign="top">
+<p>Aire-sur-la-Lys </p>
 </td>
-<td align="left" valign="top">
-<br/>PK 352,055 près de Lauterbourg (rive gauche), frontière franco-allemande <br/>
+<td valign="top">
+<p>Halluin </p>
 </td>
-<td align="left" valign="top">
-<br/>DREAL Alsace <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Rhône <br/>
-</td>
-<td align="left" valign="top">
-<br/>Frontière franco-suisse <br/>
-</td>
-<td align="left" valign="top">
-<br/>Arles <br/>
-</td>
-<td align="left" valign="top">
-<br/>Service navigation Rhône-Saône <br/>
+<td valign="top">
+<p>DDTM 59 et DDTM 62 pour les rives situées dans leurs départements respectifs </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Grand Rhône <br/>
+<td valign="top">
+<p>Marne </p>
 </td>
-<td align="left" valign="top">
-<br/>Arles <br/>
+<td valign="top">
+<p>Hautvillers </p>
 </td>
-<td align="left" valign="top">
-<br/>Limite du domaine public maritime (PK 324,5) <br/>
+<td valign="top">
+<p>Confluence avec la Seine </p>
 </td>
-<td align="left" valign="top">
-<br/>Service navigation Rhône-Saône <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Petit Rhône <br/>
-</td>
-<td align="left" valign="top">
-<br/>Arles <br/>
-</td>
-<td align="left" valign="top">
-<br/>Saint-Gilles <br/>
-</td>
-<td align="left" valign="top">
-<br/>Service navigation Rhône-Saône <br/>
+<td valign="top">
+<p>DRIEE Ile-de-France </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Saône <br/>
+<td valign="top">
+<p>Marque urbaine </p>
 </td>
-<td align="left" valign="top">
-<br/>Jonvelle <br/>
+<td valign="top">
+<p>Jonction avec la Deule </p>
 </td>
-<td align="left" valign="top">
-<br/>Lyon, confluent avec le Rhône <br/>
+<td valign="top">
+<p>Ecluse de Marcq </p>
 </td>
-<td align="left" valign="top">
-<br/>Service navigation Rhône-Saône <br/>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="2" valign="top">
-<br/>Scarpe supérieure <br/>
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Corbehem <br/>
-</td>
-<td align="left" valign="top">
-<br/>Limite départementale entre le Nord et le Pas-de-Calais <br/>
-</td>
-<td align="left" valign="top">
-<br/>DDTM 62 <br/>
+<td valign="top">
+<p>DDTM 59 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Limite départementale entre le Nord et le Pas-de-Calais <br/>
+<td valign="top">
+<p>Meuse ou canal de l'Est, branche nord </p>
 </td>
-<td align="left" valign="top">
-<br/>Jonction avec la liaison Dunkerque-Escault <br/>
+<td valign="top">
+<p>Jonction avec le canal des Ardennes - Pont-à-Bar </p>
 </td>
-<td align="left" valign="top">
-<br/>DTTM 59 <br/>
+<td valign="top">
+<p>Frontière franco-belge </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Scarpe (dérivation autour de Douai) <br/>
-</td>
-<td align="left" valign="top">
-<br/>Douai <br/>
-</td>
-<td align="left" valign="top">
-<br/>Courchelettes <br/>
-</td>
-<td align="left" valign="top">
-<br/>DTTM 59 <br/>
+<td valign="top">
+<p>DDT 08 </p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="2" valign="top">
-<br/>Seine</td>
-<td align="left" valign="top">
-<br/>Marcilly <br/>
+<td rowspan="2" valign="top">
+<p>Moselle navigable (y compris enbranchements et ports) </p>
 </td>
-<td align="left" valign="top">
-<br/>Limite départementale entre l'Eure et la Seine-Maritime <br/>
+<td valign="top">
+<p>Neuves-Maisons </p>
 </td>
-<td align="left" valign="top">
-<br/>DRIEE Ile-de-France <br/>
+<td valign="top">
+<p>Limite départementale entre la Meurthe-et-Moselle et la Moselle </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Limite départementale entre l'Eure et la Seine-Maritime <br/>
-</td>
-<td align="left" valign="top">
-<br/>Limite transversale de la mer <br/>
-</td>
-<td align="left" valign="top">
-<br/>DDTM 76 <br/>
+<td valign="top">
+<p>DDT 54 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Yonne <br/>
+<td valign="top">
+<p>Limite départementale entre la Meurthe-et-Moselle et la Moselle </p>
 </td>
-<td align="left" valign="top">
-<br/>Pont Paul-Bert, à Auxerre <br/>
+<td valign="top">
+<p>Apach </p>
 </td>
-<td align="left" valign="top">
-<br/>Confluent avec la Seine <br/>
+<td valign="top">
+<p>DDT 57 </p>
 </td>
-<td align="left" valign="top">
-<br/>DRIEE Ile-de-France <br/>
+</tr>
+<tr>
+<td valign="top">
+<p>Oise </p>
+</td>
+<td valign="top">
+<p>Ecluse de Janville </p>
+</td>
+<td valign="top">
+<p>Seine, à Conflans-Sainte-Honorine </p>
+</td>
+<td valign="top">
+<p>DRIEE Ile-de-France </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Rhin, y compris grand canal d'Alsace </p>
+</td>
+<td valign="top">
+<p>Bâle, frontière franco-suisse </p>
+</td>
+<td valign="top">
+<p>PK 352,055 près de Lauterbourg (rive gauche), frontière franco-allemande </p>
+</td>
+<td valign="top">
+<p>DREAL Alsace </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Rhône </p>
+</td>
+<td valign="top">
+<p>Frontière franco-suisse </p>
+</td>
+<td valign="top">
+<p>Arles </p>
+</td>
+<td valign="top">
+<p>DREAL Rhône-Alpes </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Grand Rhône </p>
+</td>
+<td valign="top">
+<p>Arles </p>
+</td>
+<td valign="top">
+<p>Limite du domaine public maritime (PK 324,5) </p>
+</td>
+<td valign="top">
+<p>DREAL Rhône-Alpes</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Petit Rhône </p>
+</td>
+<td valign="top">
+<p>Arles </p>
+</td>
+<td valign="top">
+<p>Limite du domaine public maritime (PK 330,5)</p>
+</td>
+<td valign="top">
+<p>DREAL Rhône-Alpes </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Saône </p>
+</td>
+<td valign="top">
+<p>Jonvelle </p>
+</td>
+<td valign="top">
+<p>Lyon, confluent avec le Rhône </p>
+</td>
+<td valign="top">
+<p>DREAL Rhône-Alpes </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p>Scarpe supérieure </p>
+</td>
+<td valign="top">
+<p>Corbehem </p>
+</td>
+<td valign="top">
+<p>Limite départementale entre le Nord et le Pas-de-Calais </p>
+</td>
+<td valign="top">
+<p>DDTM 62 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Limite départementale entre le Nord et le Pas-de-Calais </p>
+</td>
+<td valign="top">
+<p>Jonction avec la liaison Dunkerque-Escault </p>
+</td>
+<td valign="top">
+<p>DTTM 59 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Scarpe (dérivation autour de Douai) </p>
+</td>
+<td valign="top">
+<p>Douai </p>
+</td>
+<td valign="top">
+<p>Courchelettes </p>
+</td>
+<td valign="top">
+<p>DTTM 59 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p>Seine</p>
+</td>
+<td valign="top">
+<p>Marcilly </p>
+</td>
+<td valign="top">
+<p>Limite départementale entre l'Eure et la Seine-Maritime </p>
+</td>
+<td valign="top">
+<p>DRIEE Ile-de-France </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Limite départementale entre l'Eure et la Seine-Maritime </p>
+</td>
+<td valign="top">
+<p>Limite transversale de la mer </p>
+</td>
+<td valign="top">
+<p>DDTM 76 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Yonne </p>
+</td>
+<td valign="top">
+<p>Pont Paul-Bert, à Auxerre </p>
+</td>
+<td valign="top">
+<p>Confluent avec la Seine </p>
+</td>
+<td valign="top">
+<p>DRIEE Ile-de-France </p>
 </td>
 </tr>
 </tbody>
@@ -423,10 +432,7 @@ B. - Canaux
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<br/>Canal des Ardennes <br/>
-<br/>
-<br/>
-</td>
+<br/>Canal des Ardennes </td>
 <td align="left" valign="top">
 <br/>Berry-au-Bac <br/>
 </td>
@@ -515,15 +521,11 @@ B. - Canaux
 <br/>Deulemont <br/>
 </td>
 <td align="left" valign="top">
-<br/>DDTM 59 <br/>
-</td>
+<br/>DDTM 59 et 62 pour les rives situées<br/>dans leurs départements respectifs</td>
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<br/>Canal du Loing <br/>
-<br/>
-<br/>
-</td>
+<br/>Canal du Loing </td>
 <td align="left" valign="top">
 <br/>Buges, jonction avec le canal de Briare <br/>
 </td>
@@ -546,11 +548,8 @@ B. - Canaux
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="2" valign="top">
-<br/>Canal entre Champagne et Bourgogne (anciennement canal de la Marne à la Saône) <br/>
-<br/>
-<br/>
-</td>
+<td align="left" rowspan="3" valign="top">
+<br/>Canal entre Champagne et Bourgogne (anciennement canal de la Marne à la Saône) </td>
 <td align="left" valign="top">
 <br/>Vitry-le-François, jonction avec le canal de la Marne au Rhin <br/>
 </td>
@@ -566,11 +565,20 @@ B. - Canaux
 <br/>Ecluse du désert, à Frignicourt <br/>
 </td>
 <td align="left" valign="top">
-<br/>Heuilley <br/>
+<br/>Cusey<br/>
 </td>
 <td align="left" valign="top">
 <br/>DDT 52 <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Courchamps</p>
+</td>
+<td>
+<p align="left">Heuilley </p>
+</td>
+<td>DDT 21</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -588,21 +596,7 @@ B. - Canaux
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
-<br/>Canal de la Marne au Rhin, y compris embranchement d'Houdelaincourt <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</td>
+<br/>Canal de la Marne au Rhin, y compris embranchement d'Houdelaincourt </td>
 <td align="left" valign="top">
 <br/>Vitry-le-François, jonction avec le canal entre Champagne et Bourgogne <br/>
 </td>
@@ -681,14 +675,8 @@ B. - Canaux
 </tr>
 <tr>
 <td>Etangs du Stock et de Gondrexange</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>DDT 57 <br/>
 </td>
@@ -712,23 +700,18 @@ B. - Canaux
 <br/>Canal de Neufossé <br/>
 </td>
 <td align="left" valign="top">
-<br/>Aire, jonction avec le canal d'Aire <br/>
+<p>Aire, jonction avec le canal d'Aire </p>
 </td>
 <td align="left" valign="top">
-<br/>Holque, jonction avec la rivière Aa <br/>
+<p>Saint-Omer, jonction avec la rivière Aa </p>
 </td>
 <td align="left" valign="top">
-<br/>DDTM 62 <br/>
+<br/>DDTM 59 et 62 pour les rives situées <br/>dans leurs départements respectifs<br/>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="3" valign="top">
-<br/>Canal du Nord <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</td>
+<br/>Canal du Nord </td>
 <td align="left" valign="top">
 <br/>Arleux, jonction avec le canal de la Sensée <br/>
 </td>
@@ -747,8 +730,7 @@ B. - Canaux
 <br/>PK 30, extrémité amont du souterrain de Ruyaulcourt <br/>
 </td>
 <td align="left" valign="top">
-<br/>DDTM 62 <br/>
-</td>
+<br/>DDTM 62 pour la commune de Mœuvres</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -791,10 +773,7 @@ B. - Canaux
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<br/>Canal du Rhône à Fos <br/>
-<br/>
-<br/>
-</td>
+<br/>Canal du Rhône à Fos </td>
 <td align="left" valign="top">
 <br/>Jonction avec le Rhône <br/>
 </td>
@@ -802,7 +781,7 @@ B. - Canaux
 <br/>Ecluse de Barcarin (PK 2,5) inclus <br/>
 </td>
 <td align="left" valign="top">
-<br/>Service navigation Rhône-Saône </td>
+<br/>DREAL Rhône-Alpes</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -817,10 +796,7 @@ B. - Canaux
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<br/>Canal du Rhône à Port-de-Bouc (appelé également canal de navigation d'Arles à Bouc) <br/>
-<br/>
-<br/>
-</td>
+<br/>Canal du Rhône à Port-de-Bouc (appelé également canal de navigation d'Arles à Bouc) </td>
 <td align="left" valign="top">
 <br/>Jonction avec le Rhône <br/>
 </td>
@@ -828,8 +804,7 @@ B. - Canaux
 <br/>Ecluse d'Arles (inclus) <br/>
 </td>
 <td align="left" valign="top">
-<br/>Service navigation Rhône-Saône <br/>
-</td>
+<br/>DREAL Rhône-Alpes</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -872,10 +847,7 @@ B. - Canaux
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<br/>Canal de Saint-Quentin <br/>
-<br/>
-<br/>
-</td>
+<br/>Canal de Saint-Quentin </td>
 <td align="left" valign="top">
 <br/>Cambrai, jonction avec l'Escaut </td>
 <td align="left" valign="top">
@@ -919,8 +891,7 @@ B. - Canaux
 <br/>Courchelettes, jonction avec la Scarpe et la dérivation de la Scarpe <br/>
 </td>
 <td align="left" valign="top">
-<br/>DDTM 59 <br/>
-</td>
+<br/>DDTM 59 et 62 pour les rives situées <br/>dans leurs départements respectifs</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -966,18 +937,13 @@ B. - Canaux
 </tr>
 <tr>
 <td align="left" rowspan="3" valign="top">
-<br/>Canal des Vosges (anciennement canal de l'Est branche sud) <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</td>
+<br/>Canal des Vosges (anciennement canal de l'Est branche sud) </td>
 <td align="left" valign="top">
 <br/>Corre </td>
 <td align="left" valign="top">
 <br/>Ecluse du Gros Moulin (PK 129,855) </td>
 <td align="left" valign="top">
-<br/>Service navigation Rhône-Saône </td>
+<br/>DREAL Rhône-Alpes </td>
 </tr>
 <tr>
 <td align="left" valign="top">

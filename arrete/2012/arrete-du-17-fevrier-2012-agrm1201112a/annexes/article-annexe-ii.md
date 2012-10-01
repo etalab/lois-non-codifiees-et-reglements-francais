@@ -1,238 +1,265 @@
 # Article Annexe II
 
-(quotas en tonnes)
+(Quotas en tonnes)
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="303">
-<br/>
-<br/>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center">QUOTA 2012 EN OCÉAN ATLANTIQUE<br/>à l'est de la longitude 45° Ouest</p>
 </td>
-<td colspan="2" width="273">
-<p align="center">Quota 2012 en Océan Atlantique à l'Est<br/>de la longitude 45° ouest</p>
-</td>
-<td rowspan="2" width="105">
-<p align="center">Quota 2012 en<br/>Mer Méditerranée</p>
-<br/>
+<td rowspan="2">
+<p align="center">QUOTA 2012<br/>en mer Méditerranée <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td width="132">
-<p align="center">Pour la pêche au chalut</p>
+<td>
+<p align="center">Pour la pêche au chalut </p>
 </td>
-<td width="141">
-<p align="center">Pour la pêche à l'hameçon</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)</p>
-</td>
-<td valign="top" width="132">
-<p align="center">0</p>
-</td>
-<td valign="top" width="141">
-<p align="center">1</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td>
+<p align="center">Pour la pêche à l'hameçon </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME)</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord) <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)</p>
-</td>
-<td valign="top" width="132">
-<p align="center">0</p>
-</td>
-<td valign="top" width="141">
-<p align="center">0</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD)</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME) <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Pêcheurs de Bretagne</p>
-</td>
-<td valign="top" width="132">
-<p align="center">17</p>
-</td>
-<td valign="top" width="141">
-<p align="center">15</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN) <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">2</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs VENDES</p>
-</td>
-<td valign="top" width="132">
-<p align="center">7</p>
-</td>
-<td valign="top" width="141">
-<p align="center">0</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD) <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">6</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)</p>
-</td>
-<td valign="top" width="132">
-<p align="center">2</p>
-</td>
-<td valign="top" width="141">
-<p align="center">1</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Pêcheurs de Bretagne <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">1</p>
+<td align="center">
+<br/>1,4 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP)</p>
-</td>
-<td valign="top" width="132">
-<p align="center">0</p>
-</td>
-<td valign="top" width="141">
-<p align="center">0</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Navires adhérant à l'organisation de producteurs Coopérative des Artisans Pêcheurs du Sud (CAP SUD)</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs des pêcheurs artisants de l'île de Noirmoutier (OPPAN) <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">12</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">73</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="303">
-<p>Navires non adhérant à une organisation de producteurs</p>
-</td>
-<td valign="top" width="132">
-<p align="center">1</p>
-</td>
-<td valign="top" width="141">
-<p align="center">0</p>
-</td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>Réserve pour les navires participant à la pêche expérimentale</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs VENDÉE <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">12</p>
+<td align="center">
+<br/>7 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="303">
-<p>TOTAL</p>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu <br/>
+</p>
 </td>
-<td valign="top" width="132">
-<p align="center">52</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td valign="top" width="141">
-<p align="center">98</p>
+<td align="center">
+<br/>29 <br/>
 </td>
-<td valign="top" width="105">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-ouest) <br/>
+</p>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière <br/>
+</p>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP) <br/>
+</p>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP SUD) <br/>
+</p>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>85 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Navires n'adhérant pas à une organisation de producteurs <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Réserve pour les navires participant à la pêche expérimentale <br/>
+</p>
+</td>
+<td align="center">
+<br/>12,6 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Total <br/>
+</p>
+</td>
+<td align="center">
+<br/>36 <br/>
+</td>
+<td align="center">
+<br/>114 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
 </td>
 </tr>
 </tbody>
