@@ -49,8 +49,9 @@ Cette disposition est applicable à compter de la session 2009 et prend effet po
 <tr>
 <td valign="bottom">5. Langue vivante 1</td>
 <td valign="bottom">2</td>
-<td valign="bottom">Ecrite et orale en CCF (2)</td>
-<td valign="bottom">2 heures</td>
+<td valign="bottom">Ecrite et orale (2)</td>
+<td valign="bottom">2 heures (partie écrite)<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">6. Mathématiques</td>
@@ -95,7 +96,7 @@ Cette disposition est applicable à compter de la session 2009 et prend effet po
 <td valign="bottom"/>
 </tr>
 <tr>
-<td valign="bottom">(2) Contrôle en cours de formation, sous réserve des dispositions de l'article 5 du présent arrêté.</td>
+<td valign="bottom">(2) La partie orale de l'épreuve est évaluée en cours d'année.</td>
 <td valign="bottom"/>
 <td valign="bottom"/>
 <td valign="bottom"/>
@@ -106,451 +107,693 @@ Cette disposition est applicable à compter de la session 2009 et prend effet po
 SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 
 <table>
-<thead>
-<tr>
-<td valign="top">Désignation</td>
-<td valign="top">Coefficient</td>
-<td valign="top">Nature de l'épreuve</td>
-<td valign="top">Durée</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td colspan="4" valign="top">Epreuves anticipées </td>
+<td valign="top" width="360">
+<p>Désignation</p>
+</td>
+<td valign="top" width="80">
+<p>Coefficient</p>
+</td>
+<td valign="top" width="100">
+<p>Nature de l'épreuve</p>
+</td>
+<td valign="top" width="140">
+<p>Durée</p>
+</td>
 </tr>
 <tr>
-<td valign="top">Toutes spécialités : STL</td>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
+<td valign="top" width="360">
+<p>Epreuves anticipées</p>
+</td>
+<td valign="top" width="80"/>
+<td valign="top" width="100"/>
+<td valign="top" width="140"/>
 </tr>
 <tr>
-<td valign="top">1. Français </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="360">
+<p>1. Français </p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="140">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">2. Français </td>
-<td valign="top">1</td>
-<td valign="top">Orale</td>
-<td valign="top">20 minutes</td>
+<td valign="top" width="360">
+<p>2. Français </p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Orale </p>
+</td>
+<td valign="top" width="140">
+<p>20 minutes</p>
+</td>
 </tr>
 <tr>
-<td valign="top">3. Histoire-géographie </td>
-<td valign="top">1</td>
-<td valign="top">Orale</td>
-<td valign="top">20 minutes</td>
+<td valign="top" width="360">
+<p>3. Histoire-géographie</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Orale </p>
+</td>
+<td valign="top" width="140">
+<p>20 minutes</p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Epreuves terminales</td>
+<td valign="top" width="360">
+<p>Epreuves terminales</p>
+</td>
+<td valign="top" width="80"/>
+<td valign="top" width="100"/>
+<td valign="top" width="140"/>
 </tr>
 <tr>
-<td colspan="3" valign="top">Spécialité : biochimie-génie biologique</td>
-<td valign="top"/>
+<td valign="top" width="360">
+<p>4. Education physique et sportive</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>CCF (1)</p>
+</td>
+<td valign="top" width="140"/>
 </tr>
 <tr>
-<td valign="top">4. Sciences physiques </td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
+<td valign="top" width="360">
+<p>5. Langue vivante 1</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite et orale (2)</p>
+</td>
+<td valign="top" width="140">
+<p>2 heures (partie écrite)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Biochimie-biologie </td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="360">
+<p>6. Langue vivante 2 (3)</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite et orale (2)</p>
+</td>
+<td valign="top" width="140">
+<p>2 heures (partie écrite)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Technologies biochimiques et biologiques </td>
-<td valign="top">12</td>
-<td valign="top">Pratique</td>
-<td valign="top">8 heures</td>
+<td valign="top" width="360">
+<p>7. Mathématiques</p>
+</td>
+<td valign="top" width="80">
+<p>4</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="140">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">7. Langue vivante I </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td valign="top" width="360">
+<p>8. Philosophie</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="140">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">8. Mathématiques </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td valign="top" width="360">
+<p>9. Physique-chimie </p>
+</td>
+<td valign="top" width="80">
+<p>4</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="140">
+<p>3 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">9. Philosophie </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="360">
+<p>9. Chimie-biochimie-sciences du vivant et enseignement spécifique à la spécialité (4)</p>
+</td>
+<td valign="top" width="80">
+<p>8</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite</p>
+</td>
+<td valign="top" width="140">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">10. Education physique et sportive </td>
-<td valign="top">2 (1)</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
+<td valign="top" width="360">
+<p>10. Evaluation des compétences expérimentales</p>
+</td>
+<td valign="top" width="80">
+<p>6</p>
+</td>
+<td valign="top" width="100">
+<p>Pratique</p>
+</td>
+<td valign="top" width="140">
+<p>3 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">Education physique et sportive de complément </td>
-<td valign="top">2</td>
-<td valign="top"/>
-<td valign="top"/>
+<td valign="top" width="360">
+<p>11. Projet en enseignement spécifique à la spécialité (4)</p>
+</td>
+<td valign="top" width="80">
+<p>6</p>
+</td>
+<td valign="top" width="100">
+<p>Orale (5)</p>
+</td>
+<td valign="top" width="140">
+<p>15 minutes(présentation du projet)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">(Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire) </td>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
+<td valign="top" width="360">
+<p>12. Enseignement technologique en LV1</p>
+</td>
+<td valign="top" width="80">
+<p>- (6)</p>
+</td>
+<td valign="top" width="100">
+<p>Orale (7)</p>
+</td>
+<td valign="top" width="140"/>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : chimie de laboratoire et de procédés industriels</td>
+<td valign="top" width="360">
+<p>- EPS de complément (8)</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>CCF (1)</p>
+</td>
+<td valign="top" width="140">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top">4. Physique-chimie </td>
-<td valign="top">7</td>
-<td valign="top">Ecrite</td>
-<td valign="top">5 heures</td>
-</tr>
-<tr>
-<td valign="top">5. Génie chimique </td>
-<td valign="top">3 + 5</td>
-<td valign="top">Pratique</td>
-<td valign="top">7 heures</td>
-</tr>
-<tr>
-<td valign="top">6. Techniques de laboratoire </td>
-<td valign="top">7</td>
-<td valign="top">Pratique</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">7. Langue vivante I </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">8. Mathématiques </td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">9. Philosophie </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Education physique et sportive </td>
-<td valign="top">2 (1)</td>
-<td rowspan="2" valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire) </td>
-<td valign="top">2</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">Spécialité : physique de laboratoire et de procédés industriels</td>
-</tr>
-<tr>
-<td valign="top">4. Physique-chimie-électricité</td>
-<td valign="top">10</td>
-<td valign="top">Ecrite</td>
-<td valign="top">6 heures</td>
-</tr>
-<tr>
-<td valign="top">5. Epreuve pratique de laboratoire </td>
-<td valign="top">5</td>
-<td valign="top">Pratique</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">6. Contrôle et régulation </td>
-<td valign="top">5 + 4</td>
-<td valign="top">Pratique</td>
-<td valign="top">6 heures</td>
-</tr>
-<tr>
-<td valign="top">ou optique et physico-chimie </td>
-<td valign="top">5 + 4</td>
-<td valign="top">Pratique</td>
-<td valign="top">5 heures</td>
-</tr>
-<tr>
-<td valign="top">7. Langue vivante I </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">8. Mathématiques </td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">9. Philosophie </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Education physique et sportive </td>
-<td valign="top">2 (1)</td>
-<td rowspan="2" valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire)</td>
-<td valign="top">2</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">(1) Cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive aux baccalauréats</td>
+<td colspan="4" width="680">
+<p>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
+<p>(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p>(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
+<p>(4) Enseignement spécifique à la spécialité : "biotechnologies" ou "sciences physiques et chimiques en laboratoire".</p>
+<p>(5) Evaluation en cours d'année de la conduite du projet et d'une présentation du projet. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 3.</p>
+<p>(6) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
+<p>(7) Evaluation en cours d'année.</p>
+<p>(8) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+</td>
 </tr>
 </tbody>
 </table>
 
-SÉRIE SCIENCES ET TECHNOLOGIES INDUSTRIELLES (STI)
+SÉRIE SCIENCES ET TECHNOLOGIES DU DESIGN ET DES ARTS APPLIQUÉS (STD2A)
 
 <table>
-<thead>
-<tr>
-<td valign="top">Désignation</td>
-<td valign="top">Coefficient</td>
-<td valign="top">Nature de l'épreuve</td>
-<td valign="top">Durée</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td colspan="4" valign="top">Epreuves anticipées </td>
+<td valign="top" width="359">
+<p>Désignation</p>
+</td>
+<td valign="top" width="76">
+<p>Coefficient</p>
+</td>
+<td valign="top" width="105">
+<p>Nature de l'épreuve</p>
+</td>
+<td valign="top" width="141">
+<p>Durée</p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Toutes spécialités : STI</td>
+<td valign="top" width="359">
+<p>Epreuves anticipées</p>
+</td>
+<td valign="top" width="76"/>
+<td valign="top" width="105"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td valign="top">1. Français </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="359">
+<p>1. Français </p>
+</td>
+<td valign="top" width="76">
+<p>2 </p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">2. Français </td>
-<td valign="top">1</td>
-<td valign="top">Orale</td>
-<td valign="top">20 minutes</td>
+<td valign="top" width="359">
+<p>2. Français </p>
+</td>
+<td valign="top" width="76">
+<p>2 </p>
+</td>
+<td valign="top" width="105">
+<p>Orale </p>
+</td>
+<td valign="top" width="141">
+<p>20 minutes</p>
+</td>
 </tr>
 <tr>
-<td valign="top">3. Histoire-géographie </td>
-<td valign="top">1</td>
-<td valign="top">Orale</td>
-<td valign="top">20 minutes</td>
+<td valign="top" width="359">
+<p>3. Histoire-géographie</p>
+</td>
+<td valign="top" width="76">
+<p>2 </p>
+</td>
+<td valign="top" width="105">
+<p>Orale </p>
+</td>
+<td valign="top" width="141">
+<p>20 minutes</p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Epreuves terminales</td>
+<td valign="top" width="359">
+<p>Epreuves terminales</p>
+</td>
+<td valign="top" width="76"/>
+<td valign="top" width="105"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : génie mécanique, génie civil, génie énergétique </td>
+<td valign="top" width="359">
+<p>4. Education physique et sportive</p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>CCF (1)</p>
+</td>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td valign="top">4. Etude des constructions </td>
-<td valign="top">8</td>
-<td valign="top">Ecrite</td>
-<td valign="top">6 heures</td>
+<td valign="top" width="359">
+<p>5. Langue vivante 1 </p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite et orale (2)</p>
+</td>
+<td valign="top" width="141">
+<p>2 heures (partie écrite)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Etude des systèmes des techniques industriels </td>
-<td valign="top">9</td>
-<td valign="top">Pratique</td>
-<td valign="top">6 heures</td>
+<td valign="top" width="359">
+<p>6. Langue vivante 2 (3)</p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite et orale (2)</p>
+</td>
+<td valign="top" width="141">
+<p>2 heures (partie écrite)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Sciences physiques et physique appliquée </td>
-<td valign="top">5</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td valign="top" width="359">
+<p>7. Mathématiques</p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>3 heures</p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : génie des matériaux</td>
+<td valign="top" width="359">
+<p>8. Philosophie</p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">4. Etude des constructions </td>
-<td valign="top">8</td>
-<td valign="top">Ecrite</td>
-<td valign="top">6 heures</td>
+<td valign="top" width="359">
+<p>9. Physique-chimie </p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>2 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Etude des systèmes techniques industriels </td>
-<td valign="top">9</td>
-<td valign="top">Pratique</td>
-<td valign="top">6 heures</td>
+<td valign="top" width="359">
+<p>10. Analyse méthodique en design et arts appliqués</p>
+</td>
+<td valign="top" width="76">
+<p>6</p>
+</td>
+<td valign="top" width="105">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Sciences physiques et physique appliquée </td>
-<td valign="top">5</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td valign="top" width="359">
+<p>11. Projet en design et arts appliqués</p>
+</td>
+<td valign="top" width="76">
+<p>16</p>
+</td>
+<td valign="top" width="105">
+<p>Orale (4)</p>
+</td>
+<td valign="top" width="141">
+<p>20 minutes (oral terminal)</p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : génie électronique</td>
+<td valign="top" width="359">
+<p>12. Design et arts appliqués en LV1</p>
+</td>
+<td valign="top" width="76">
+<p>- (5)</p>
+</td>
+<td valign="top" width="105">
+<p>Orale (6)</p>
+</td>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td valign="top">4. Construction électronique </td>
-<td valign="top">9</td>
-<td valign="top">Pratique</td>
-<td valign="top">40 minutes</td>
+<td valign="top" width="359">
+<p>- EPS de complément (7) </p>
+</td>
+<td valign="top" width="76">
+<p>2</p>
+</td>
+<td valign="top" width="105">
+<p>CCF (1)</p>
+</td>
+<td valign="top" width="141">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Etude des systèmes techniques industriels </td>
-<td valign="top">8</td>
-<td valign="top">Ecrite</td>
-<td valign="top">6 heures</td>
+<td colspan="4" width="680">
+<p>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
+<p>(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p>(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
+<p>(4) Epreuve évaluée en cours d'année et lors d'un oral terminal. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 8.</p>
+<p>(5) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
+<p>(6) Epreuve évaluée en cours d'année.</p>
+<p>(7) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+SÉRIE SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE (STI2D)
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="359">
+<p>Désignation</p>
+</td>
+<td valign="top" width="80">
+<p>Coefficient</p>
+</td>
+<td valign="top" width="100">
+<p>Nature de l'épreuve</p>
+</td>
+<td valign="top" width="141">
+<p>Durée</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Physique appliquée </td>
-<td valign="top">5</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="359">
+<p>Epreuves anticipées</p>
+</td>
+<td valign="top" width="80"/>
+<td valign="top" width="100"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : génie électrotechnique</td>
+<td valign="top" width="359">
+<p>1. Français </p>
+</td>
+<td valign="top" width="80">
+<p>2 </p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">4. Etude des constructions </td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="359">
+<p>2. Français </p>
+</td>
+<td valign="top" width="80">
+<p>2 </p>
+</td>
+<td valign="top" width="100">
+<p>Orale </p>
+</td>
+<td valign="top" width="141">
+<p>20 minutes</p>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Etude des systèmes des techniques industriels </td>
-<td valign="top">9</td>
-<td valign="top">Pratique</td>
-<td valign="top">6 heures</td>
+<td valign="top" width="359">
+<p>3. Histoire-géographie</p>
+</td>
+<td valign="top" width="80">
+<p>2 </p>
+</td>
+<td valign="top" width="100">
+<p>Orale </p>
+</td>
+<td valign="top" width="141">
+<p>20 minutes</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Physique appliquée </td>
-<td valign="top">7</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td valign="top" width="359">
+<p>Epreuves terminales</p>
+</td>
+<td valign="top" width="80"/>
+<td valign="top" width="100"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : génie optique</td>
+<td valign="top" width="359">
+<p>4. Education physique et sportive</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>CCF (1)</p>
+</td>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td valign="top">4. Etude des constructions </td>
-<td valign="top">8</td>
-<td valign="top">Ecrite</td>
-<td valign="top">6 heures</td>
+<td valign="top" width="359">
+<p>5. Langue vivante 1 </p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite et orale (2)</p>
+</td>
+<td valign="top" width="141">
+<p>2 heures (partie écrite)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Etude des systèmes des techniques industriels </td>
-<td valign="top">9</td>
-<td valign="top">Pratique</td>
-<td valign="top">4 h 30</td>
+<td valign="top" width="359">
+<p>6. Langue vivante 2 (3)</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite et orale (2)</p>
+</td>
+<td valign="top" width="141">
+<p>2 heures (partie écrite)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Sciences physiques appliquées </td>
-<td valign="top">5</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
+<td valign="top" width="359">
+<p>7. Mathématiques</p>
+</td>
+<td valign="top" width="80">
+<p>4</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : arts appliqués</td>
+<td valign="top" width="359">
+<p>8. Philosophie</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">4. Etude de cas et recherche appliquée </td>
-<td valign="top">4 + 5</td>
-<td valign="top">Pratique</td>
-<td valign="top">4 + 8 heures</td>
+<td valign="top" width="359">
+<p>9. Physique-chimie </p>
+</td>
+<td valign="top" width="80">
+<p>4</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>3 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">5. Dossier de travaux et soutenance </td>
-<td valign="top">8</td>
-<td valign="top">Pratique</td>
-<td valign="top">30 minutes</td>
+<td valign="top" width="359">
+<p>10. Enseignements technologiques transversaux</p>
+</td>
+<td valign="top" width="80">
+<p>8</p>
+</td>
+<td valign="top" width="100">
+<p>Ecrite </p>
+</td>
+<td valign="top" width="141">
+<p>4 heures</p>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Arts, techniques, civilisations </td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
+<td valign="top" width="359">
+<p>11. Projet en enseignement spécifique à la spécialité (4) </p>
+</td>
+<td valign="top" width="80">
+<p>12</p>
+</td>
+<td valign="top" width="100">
+<p>Orale (5)</p>
+</td>
+<td valign="top" width="141">
+<p>20 minutes (oral terminal)</p>
+</td>
 </tr>
 <tr>
-<td valign="top">7. Physique, chimie </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td valign="top" width="359">
+<p>12. Enseignement technologique en LV1</p>
+</td>
+<td valign="top" width="80">
+<p>- (6)</p>
+</td>
+<td valign="top" width="100">
+<p>Orale (7)</p>
+</td>
+<td valign="top" width="141"/>
 </tr>
 <tr>
-<td valign="top">8. Langue vivante I </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td valign="top" width="359">
+<p>- EPS de complément (8)</p>
+</td>
+<td valign="top" width="80">
+<p>2</p>
+</td>
+<td valign="top" width="100">
+<p>CCF (1)</p>
+</td>
+<td valign="top" width="141">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top">9. Mathématiques </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Philosophie </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">11. Education physique et sportive </td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (1)</td>
-<td valign="top">2</td>
-<td valign="top"/>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">Toutes spécialités STI (sauf arts appliqués)</td>
-</tr>
-<tr>
-<td valign="top">7. Langue vivante I </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">8. Mathématiques </td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">9. Philosophie </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Education physique et sportive </td>
-<td valign="top">2 (1)</td>
-<td valign="top"/>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire)</td>
-<td valign="top">2</td>
-<td valign="top"/>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">Cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive aux baccalauréats</td>
+<td colspan="4" width="680">
+<p>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
+<p>(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p>(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
+<p>(4) Enseignement spécifique à la spécialité : "architecture et construction", "énergies et environnement", "innovation technologique et écoconception" ou "systèmes d'information et numérique".</p>
+<p>(5) Evaluation en cours d'année et lors d'un oral terminal. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 6.</p>
+<p>(6) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
+<p>(7) Epreuve évaluée en cours d'année.</p>
+<p>(8) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -617,14 +860,16 @@ A compter de la session 2007 (épreuves anticipées en 2006) (à l'exception de 
 <tr>
 <td valign="top">6. Langue vivante 1</td>
 <td valign="top">3</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
+<td valign="top">Ecrite et orale (2)</td>
+<td valign="top">2 heures (partie écrite)<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">7. Langue vivante 2</td>
 <td valign="top">3</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
+<td valign="top">Ecrite et orale (2)</td>
+<td valign="top">2 heures (partie écrite)<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">8. Économie-droit</td>
@@ -680,14 +925,14 @@ A compter de la session 2007 (épreuves anticipées en 2006) (à l'exception de 
 <tr>
 <td valign="top">6. Langue vivante 1</td>
 <td valign="top">3</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
+<td valign="top">Ecrite et orale (2)</td>
+<td valign="top">2 heures (partie écrite)</td>
 </tr>
 <tr>
 <td valign="top">7. Langue vivante 2</td>
 <td valign="top">2</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
+<td valign="top">Ecrite et orale (2)</td>
+<td valign="top">2 heures (partie écrite)</td>
 </tr>
 <tr>
 <td valign="top">8. Économie-droit</td>
@@ -806,14 +1051,14 @@ A compter de la session 2007 (épreuves anticipées en 2006) (à l'exception de 
 <tr>
 <td valign="top">6. Langue vivante 1</td>
 <td valign="top">2</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
+<td valign="top">Ecrite et orale (2)</td>
+<td valign="top">2 heures (partie écrite)</td>
 </tr>
 <tr>
 <td valign="top">7. Langue vivante 2</td>
 <td valign="top">2</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
+<td valign="top">Ecrite et orale (2)</td>
+<td valign="top">2 heures (partie écrite)</td>
 </tr>
 <tr>
 <td valign="top">8. Économie-droit</td>
@@ -846,7 +1091,7 @@ A compter de la session 2007 (épreuves anticipées en 2006) (à l'exception de 
 <td valign="top"/>
 </tr>
 <tr>
-<td colspan="4" valign="top">(1) Contrôle en cours de formation, sous réserve des dispositions de l'article 5 du présent arrêté.</td>
+<td colspan="4" valign="top">(2) La partie orale de l'épreuve est évaluée en cours d'année.</td>
 </tr>
 </tbody>
 </table>
