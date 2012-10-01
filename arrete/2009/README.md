@@ -2137,7 +2137,6 @@
 - [Arrêté du 24 septembre 2009 (AGRM0920788A)](arrete-du-24-septembre-2009-agrm0920788a)
 - [Arrêté du 24 septembre 2009 (DEVA0921710A)](arrete-du-24-septembre-2009-deva0921710a)
 - [Arrêté du 24 septembre 2009 (DEVL0913887A)](arrete-du-24-septembre-2009-devl0913887a)
-- [Arrêté du 24 septembre 2009 (DEVL0913890A)](arrete-du-24-septembre-2009-devl0913890a)
 - [Arrêté du 24 septembre 2009 (ECED0922389A)](arrete-du-24-septembre-2009-eced0922389a)
 - [Arrêté du 24 septembre 2009 (IOCE0922220A)](arrete-du-24-septembre-2009-ioce0922220a)
 - [Arrêté du 24 septembre 2009 (IOCE0922231A)](arrete-du-24-septembre-2009-ioce0922231a)
