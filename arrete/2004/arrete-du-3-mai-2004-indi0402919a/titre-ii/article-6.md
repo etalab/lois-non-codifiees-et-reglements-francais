@@ -1,23 +1,17 @@
 # Article 6
 
-1° Le contrôle périodique comprend au moins les opérations suivantes :
+1° Un cadre de bouteilles est soumis au contrôle périodique :
 
-- examen de l'état extérieur et de la collerette du récipient, vérification des marquages ;
+-cela implique un démontage complet du cadre afin de permettre le contrôle périodique de chacun de ces constituants pris séparément ;
 
-- examen de l'état intérieur du récipient (par exemple, par pesage, contrôle visuel, contrôle de l'épaisseur minimale des parois), contrôle visuel du taraudage du goulot ;
+-le remplacement des bouteilles d'un cadre par d'autres du même type que celui décrit dans son dossier de conception ne constitue pas une modification importante. Lors du remontage d'un cadre, les divers composants peuvent être remplacés par des composants neufs. Les modifications successives de la liste des bouteilles qui constituent le cadre sont enregistrées et conservées par le propriétaire ou, à défaut, par l'opérateur, selon les dispositions contractuelles qui les lient ;
 
-- épreuve sous pression hydraulique du récipient et, au besoin, contrôle des caractéristiques du matériau par des examens appropriés ;
+-après remontage, l'ensemble de ces constituants assemblés est inspecté, en particulier pour ce qui concerne l'assujettissement des bouteilles ;
 
-- vérification des robinets et autres accessoires du récipient.
+-le marquage de contrôle périodique d'un cadre est apposé une fois l'assemblage réalisé. Il n'est pas apposé sur tous les composants. Le châssis et le tuyau collecteur n'ont pas à être marqués mais ils sont identifiés en référence à leurs propres certificats d'essai, ce qui est vérifié par l'organisme habilité lors de l'inspection de l'ensemble. Toutes les bouteilles (y compris leurs robinets) et les vannes d'arrêt du cadre non neuves portent leur marque de contrôle périodique, le cas échéant.
 
-De plus, pour les cadres de bouteilles, l'assujettissement de ces dernières au cadre est vérifié.
+2° -pour les récipients cryogéniques, seul un examen de l'état extérieur, de l'état et du fonctionnement des dispositifs de décompression et une épreuve d'étanchéité sont réalisés. L'épreuve d'étanchéité est effectuée avec le gaz contenu dans le récipient ou avec un gaz inerte. Le contrôle se fait soit par manomètre, soit par mesure du vide. Il n'est pas nécessaire d'enlever l'isolation thermique ;
 
-2° Par exception aux dispositions du paragraphe ci-avant :
+-pour les bouteilles à gaz de pétrole liquéfiés, l'examen de l'état intérieur des bouteilles n'est pas imposé.
 
-- pour les récipients contenant de l'acétylène dissous et garnis de masse poreuse, seuls sont examinés l'état extérieur des récipients (corrosion, déformation), l'état des robinets et autres accessoires et l'état de la masse poreuse (relâchement, affaissement) ;
-
-- pour les récipients cryogéniques, seul un examen de l'état extérieur, de l'état et du fonctionnement des dispositifs de décompression et une épreuve d'étanchéité sont réalisés. L'épreuve d'étanchéité doit être effectuée avec le gaz contenu dans le récipient ou avec un gaz inerte. Le contrôle se fait soit par manomètre, soit par mesure du vide. Il n'est pas nécessaire d'enlever l'isolation thermique ;
-
-- pour les bouteilles à gaz de pétrole liquéfiés, l'examen de l'état intérieur des bouteilles n'est pas imposé.
-
-3° Le contrôle périodique défini au 1° ci-avant peut être remplacé, pour certains récipients, par d'autres méthodes garantissant un niveau de sécurité équivalent et présentées dans un guide professionnel relatif au type de récipient concerné, approuvé par le ministre chargé de l'industrie, après avis de la Commission centrale des appareils à pression.
+3° Le contrôle périodique peut être remplacé, pour certains récipients, par d'autres méthodes garantissant un niveau de sécurité équivalent et présentées dans un guide professionnel relatif au type de récipient concerné, approuvé par le ministre chargé de la sécurité industrielle, après avis de la Commission centrale des appareils à pression.

@@ -1,12 +1,12 @@
 # Article 9
 
-La vérification des accessoires prévue à l'article 6 ci-avant porte au moins sur :
+La vérification des accessoires porte au moins sur :
 
 - l'adéquation des filetages ;
 
 - l'absence d'endommagement des filetages et raccords ;
 
-- l'adéquation de la pression de tarage de l'accessoire de sécurité lorsqu'il existe ;
+- l'adéquation de la pression de tarage de l'accessoire ayant une fonction de sécurité lorsqu'il existe ;
 
 - le bon état des autres accessoires ayant une fonction directe de sécurité lorsqu'ils existent.
 
