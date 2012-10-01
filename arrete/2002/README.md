@@ -259,7 +259,6 @@
 - [Arrêté du 10 décembre 2002 (SANS0224281A)](arrete-du-10-decembre-2002-sans0224281a)
 - [Arrêté du 10 janvier 2002 (AGRM0102315A)](arrete-du-10-janvier-2002-agrm0102315a)
 - [Arrêté du 10 janvier 2002 (DEFM0201052A)](arrete-du-10-janvier-2002-defm0201052a)
-- [Arrêté du 10 janvier 2002 (EQUP0101580A)](arrete-du-10-janvier-2002-equp0101580a)
 - [Arrêté du 10 octobre 2001 (MESG0123437A)](arrete-du-10-octobre-2001-mesg0123437a)
 - [Arrêté du 10 septembre 2001 (AGRG0101761A)](arrete-du-10-septembre-2001-agrg0101761a)
 - [Arrêté du 10 septembre 2002 (SANH0222753A)](arrete-du-10-septembre-2002-sanh0222753a)

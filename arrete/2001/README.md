@@ -55,7 +55,6 @@
 - [Arrêté du 4 mai 2001 (MENE0101004A)](arrete-du-4-mai-2001-mene0101004a)
 - [Arrêté du 5 décembre 2000 (ATEN0090435A)](arrete-du-5-decembre-2000-aten0090435a)
 - [Arrêté du 5 décembre 2000 (MENF0003166A)](arrete-du-5-decembre-2000-menf0003166a)
-- [Arrêté du 5 décembre 2001 (EQUP0101578A)](arrete-du-5-decembre-2001-equp0101578a)
 - [Arrêté du 5 février 2001 (AGRP0100302A)](arrete-du-5-fevrier-2001-agrp0100302a)
 - [Arrêté du 5 février 2001 (ECOS0150007A)](arrete-du-5-fevrier-2001-ecos0150007a)
 - [Arrêté du 5 février 2001 (EQUS0100239A)](arrete-du-5-fevrier-2001-equs0100239a)
