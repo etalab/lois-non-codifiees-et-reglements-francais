@@ -12,4 +12,4 @@ Il ne concerne pas :
 
 ― les installations expérimentales de recherche, de développement et d'essais visant à améliorer les processus de méthanisation, lorsque la quantité de déchets, matières organiques ou effluents admis en un an n'excède pas 200 tonnes.
 
-Le présent arrêté vise à encadrer les incidences environnementales des installations susvisées. Ses dispositions s'appliquent sans préjudice des autres réglementations applicables, et notamment du règlement (CE) n° 1774/2002 modifié du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.
+Le présent arrêté vise à encadrer les incidences environnementales des installations susvisées. Ses dispositions s'appliquent sans préjudice des autres réglementations applicables, et notamment du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002.

@@ -16,6 +16,6 @@ Le registre des déchets entrants contient au moins, pour chaque flux de déchet
 
 ― le cas échéant, le numéro du ou des bordereaux de suivi de déchets ;
 
-― le cas échéant, le numéro du document prévu à l'annexe VII du règlement susvisé ;
+― le cas échéant,            le numéro de notification prévu par le règlement susvisé  ;
 
 ― le code du traitement qui va être opéré dans l'installation selon les annexes I et II de la directive susvisée.

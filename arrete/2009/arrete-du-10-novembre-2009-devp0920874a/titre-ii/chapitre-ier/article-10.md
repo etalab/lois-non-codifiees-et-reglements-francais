@@ -2,7 +2,7 @@
 
 Destruction du biogaz.
 
-L'installation dispose d'un équipement de destruction du biogaz produit en cas d'indisponibilité temporaire des équipements de valorisation du biogaz. Cet équipement est muni d'un dispositif anti-retour de flamme.
+L'installation dispose d'un équipement de destruction du biogaz produit en cas d'indisponibilité temporaire des équipements de valorisation du biogaz. Cet équipement est muni d'un arrête-flammes conforme à la norme NF EN ISO n° 16852.
 
 Dans le cas de l'utilisation d'une torchère, l'étude d'impact devra en préciser les règles d'implantation et de fonctionnement.
 

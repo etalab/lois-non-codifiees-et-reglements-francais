@@ -14,7 +14,7 @@ Ce registre contient au moins, pour chaque flux de déchets transportés ou coll
 
 ― le cas échéant, le numéro du ou des bordereaux de suivi de déchets ;
 
-― le cas échéant, le numéro du document prévu à l'annexe VII du règlement susvisé ;
+― le cas échéant,            le numéro de notification prévu par le règlement susvisé  ;
 
 ― le nom et l'adresse de la personne remettant les déchets au transporteur ou au collecteur ;
 

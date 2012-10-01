@@ -6,6 +6,6 @@ Sans préjudice des règlements d'urbanisme, l'installation n'est pas située da
 
 La distance entre les digesteurs et les habitations occupées par des tiers ne peut pas être inférieure à 50 mètres, à l'exception des logements occupés par des personnels de l'installation et des logements dont l'exploitant ou le fournisseur de substrats de méthanisation ou l'utilisateur de la chaleur produite a la jouissance.
 
-L'arrêté préfectoral mentionne la distance minimale d'implantation de l'installation ou de ses différents composants par rapport aux habitations occupées par des tiers, stades ou terrains de camping agréés ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers, établissements recevant du public, à l'exception de ceux en lien avec la collecte ou le traitement des déchets ou des eaux usées.
+Sans préjudice des dispositions de l'article 52-2, l'arrêté préfectoral mentionne la distance minimale d'implantation de l'installation ou de ses différents composants par rapport aux habitations occupées par des tiers, stades ou terrains de camping agréés ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers, établissements recevant du public, à l'exception de ceux en lien avec la collecte ou le traitement des déchets ou des eaux usées.
 
 La détermination de ces distances s'appuie notamment sur l'étude de dangers et l'étude d'impact.
