@@ -1,0 +1,3 @@
+# Article 13
+
+Les conseillers pour l'action sociale de la défense régis par le décret n° 2009-677 du 11 juin 2009 relatif à l'emploi de conseiller pour l'action sociale de la défense, qui occupent un des emplois inscrits à la liste prévue à l'article 3 du présent décret, sont maintenus dans ces fonctions et détachés pour la durée du détachement restant à courir dans l'emploi de conseiller pour l'action sociale des administrations de l'Etat. Ils sont classés dans cet emploi à l'échelon qu'ils ont atteint dans leur emploi d'origine. Dans la limite de l'ancienneté exigée à l'article 6 du présent décret pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur emploi d'origine.

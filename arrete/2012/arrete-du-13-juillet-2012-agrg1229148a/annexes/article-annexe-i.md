@@ -1,0 +1,9 @@
+# Article Annexe I
+
+MODÈLE DE DEMANDE D'AUTORISATION DE PRODUIRE ET DE METTRE
+
+SUR LE MARCHÉ DU LAIT CRU REMIS EN L'ÉTAT AU CONSOMMATEUR FINAL
+
+Vous pouvez consulter le formulaire dans le
+
+JOn° 168 du 21/07/2012 texte numéro 21

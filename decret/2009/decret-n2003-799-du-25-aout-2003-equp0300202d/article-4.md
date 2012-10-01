@@ -10,46 +10,40 @@ Ingénieur en chef des ponts, des eaux et des forêts : 70 ;
 
 ingénieur des ponts, des eaux et des forêts : 55.
 
-II.-Corps des ingénieurs des travaux publics de l'Etat
+II. - Corps des ingénieurs des travaux publics de l'Etat
 
-Ingénieur divisionnaire des travaux publics de l'Etat détaché sur l'emploi fonctionnel d'ingénieur en chef des travaux publics de l'Etat du premier groupe : 62 ;
+Ingénieur divisionnaire des travaux publics de l'Etat détaché sur l'emploi fonctionnel d'ingénieur en chef des travaux publics de l'Etat du premier groupe : 63.
 
-Ingénieur divisionnaire des travaux publics de l'Etat détaché sur l'emploi fonctionnel d'ingénieur en chef des travaux publics de l'Etat du deuxième groupe : 55 ;
+Ingénieur divisionnaire des travaux publics de l'Etat détaché sur l'emploi fonctionnel d'ingénieur en chef des travaux publics de l'Etat du deuxième groupe : 56.
 
-Ingénieur divisionnaire des travaux publics de l'Etat ayant au moins cinq ans d'ancienneté dans le grade (à compter du 6e échelon) : 50 ;
+Ingénieur divisionnaire des travaux publics de l'Etat ayant au moins cinq ans d'ancienneté dans le grade (à compter du 6e échelon) : 51.
 
-Ingénieur divisionnaire des travaux publics de l'Etat n'ayant pas cinq ans d'ancienneté dans le grade (à compter du 6e échelon) : 42 ;
+Ingénieur divisionnaire des travaux publics de l'Etat n'ayant pas cinq ans d'ancienneté dans le grade (à compter du 6e échelon) : 43.
 
-Ingénieur divisionnaire des travaux publics de l'Etat (du 1er au 5e échelon inclus) : 42 ;
+Ingénieur divisionnaire des travaux publics de l'Etat (du 1er au 5e échelon inclus) : 43.
 
-Ingénieur des travaux publics de l'Etat (à compter du 7e échelon) : 30 ;
+Ingénieur des travaux publics de l'Etat (à compter du 7e échelon) : 33.
 
-Ingénieur des travaux publics de l'Etat (du 1er au 6e échelon inclus) : 25 ;
+Ingénieur des travaux publics de l'Etat (du 1er au 6e échelon inclus) : 28.
 
-III.-Corps des techniciens supérieurs de l'équipement
+III. - Corps des techniciens supérieurs du développement durable
 
-Technicien supérieur principal, technicien supérieur en chef détaché sur l'emploi fonctionnel de chef de subdivision : 20 ;
+Technicien supérieur en chef du développement durable : 18.
 
-Technicien supérieur principal, technicien supérieur en chef : 16 ;
+Technicien supérieur principal du développement durable : 16.
 
-Technicien supérieur : 12.
+Technicien supérieur du développement durable : 10.
 
-IV.-Corps des contrôleurs des travaux publics de l'Etat
+IV. - Corps des conducteurs des travaux publics de l'Etat
 
-Contrôleur principal et contrôleur divisionnaire des travaux publics de l'Etat : 16 ;
-
-Contrôleur des travaux publics de l'Etat : 8 ;
-
-V.-Corps des conducteurs des travaux publics de l'Etat
-
-Conducteur principal des travaux publics de l'Etat : 7,5 ;
+Conducteur principal des travaux publics de l'Etat : 7,5.
 
 Conducteur des travaux publics de l'Etat : 7,5.
 
-VI.-Corps des dessinateurs
+V. - Corps des dessinateurs
 
-Dessinateur chef de groupe, dessinateur : 7,5.
+Dessinateur chef de groupe, dessinateur : 8.
 
-VII.-Corps des experts techniques des services techniques
+VI. - Corps des experts techniques des services techniques
 
-Expert technique principal, expert technique : 7,5.
+Expert technique principal, expert technique : 8.

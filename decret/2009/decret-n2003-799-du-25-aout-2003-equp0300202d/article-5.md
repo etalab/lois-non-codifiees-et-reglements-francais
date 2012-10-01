@@ -8,13 +8,11 @@ Pour certains agents exerçant des fonctions caractérisées soit par la polyval
 
 - les ingénieurs des travaux publics de l'Etat n'ayant pas atteint le 7e échelon de leur grade et bénéficiant de la qualification senior qui leur est attribuée, en raison de leur compétence, par décision du ministre chargé de l'équipement après avis d'une commission spécialisée : + 4 points ;
 
-- les contrôleurs des travaux publics de l'Etat du premier grade affectés dans les directions interdépartementales des routes, à compter du 1er janvier 2008 : + 1 point ;
-
 - les contrôleurs des travaux publics de l'Etat du premier grade affectés dans les directions interdépartementales des routes, à compter du 1er janvier 2009 : + 2 points ;
 
-- les contrôleurs des travaux publics de l'Etat du premier grade affectés dans les services chargés de la navigation intérieure, du 1er janvier 2009 au 31 décembre 2009 : + 1 point ;
+- les contrôleurs des travaux publics de l'Etat du premier grade affectés dans les services chargés de la navigation intérieure, à compter du 1er janvier 2010 : + 2 points ;
 
-- les contrôleurs des travaux publics de l'Etat du premier grade affectés dans les services chargés de la navigation intérieure, à compter du 1er janvier 2010 : + 2 points.
+- les techniciens supérieurs du développement durable du premier grade affectés dans les services chargés de la gestion et de l'entretien du domaine public maritime, fluvial (non navigué) et portuaire non décentralisé ainsi que de l'exploitation et de la maintenance des ouvrages qui y sont situés : + 2 points.
 
 La liste des types de postes éligibles à bonification est fixée par arrêté du ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
 
