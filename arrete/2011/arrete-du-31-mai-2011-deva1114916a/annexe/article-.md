@@ -2,34 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 septembre 2016
-
-Lyon-Sétif (Algérie).
-
-Marseille-Chlef (Algérie).
-
-Marseille-Sétif (Algérie).
-
-Paris-Sétif (Algérie).
-
-Jusqu'au 1er mars 2012
-
-Paris-Fès (Maroc) ;
-
-Paris-Rabat (Maroc) ;
-
-Paris-Tanger (Maroc).
-
-Jusqu'au 1er mars 2017
-
-Paris-Biskra (Algérie).
-
-Jusqu'au 1er mai 2012
-
-Marseille-Praia (Cap-Vert).
-
-Marseille-Sal (Cap-Vert).
-
 Jusqu'au 30 septembre 2012
 
 Marseille-Bamako (Mali).
@@ -156,6 +128,16 @@ Jusqu'au 31 mai 2016
 
 Paris-Tunis (Tunisie).
 
+Jusqu'au 30 septembre 2016
+
+Lyon-Sétif (Algérie).
+
+Marseille-Chlef (Algérie).
+
+Marseille-Sétif (Algérie).
+
+Paris-Sétif (Algérie).
+
 Jusqu'au 20 novembre 2016
 
 Paris-Kayes (Mali).
@@ -168,8 +150,16 @@ Jusqu'au 23 février 2017
 
 Strasbourg - Alger (Algérie).
 
+Jusqu'au 1er mars 2017
+
+Paris-Biskra (Algérie).
+
 Jusqu'au 31 mai 2017
 
 Nice-Moscou (Russie) ;
 
 Paris-Moscou (Russie).
+
+Jusqu'au 17 septembre 2017
+
+Paris - Bamako (Mali).
