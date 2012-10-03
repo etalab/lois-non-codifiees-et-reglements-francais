@@ -1,0 +1,3 @@
+# Article 1
+
+Le comité d'hygiène, de sécurité et des conditions de travail de groupe de services, créé auprès du directeur général de l'Etablissement national des produits de l'agriculture et de la mer au titre de l'article 3 du décret du 6 septembre 2011 susvisé, ayant compétence dans le cadre du titre IV du décret du 28 mai 1982 susvisé pour connaître de toutes les questions communes à ces services, apporte son concours aux comités techniques de l'Agence de services et de paiement, de l'Etablissement national des produits de l'agriculture et de la mer et de l'Office pour le développement de l'économie agricole d'outre-mer.
