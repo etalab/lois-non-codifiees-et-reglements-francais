@@ -53,7 +53,6 @@
 - [Arrêté du 2 novembre 2011 (AGRM1108993A)](arrete-du-2-novembre-2011-agrm1108993a)
 - [Arrêté du 2 novembre 2011 (AGRT1127854A)](arrete-du-2-novembre-2011-agrt1127854a)
 - [Arrêté du 2 novembre 2011 (DEFH1116907A)](arrete-du-2-novembre-2011-defh1116907a)
-- [Arrêté du 2 novembre 2011 (DEFH1126695A)](arrete-du-2-novembre-2011-defh1126695a)
 - [Arrêté du 2 novembre 2011 (DEVA1130078A)](arrete-du-2-novembre-2011-deva1130078a)
 - [Arrêté du 2 novembre 2011 (DEVR1130045A)](arrete-du-2-novembre-2011-devr1130045a)
 - [Arrêté du 2 novembre 2011 (IOCE1129957A)](arrete-du-2-novembre-2011-ioce1129957a)
