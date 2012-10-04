@@ -6,7 +6,7 @@ I.-Les commerces, établissements ou bureaux concernés sont :
 
 -les banques, les bureaux de change et les établissements de crédits ouverts au public et détenant des fonds, valeurs ou autres instruments de paiement ;
 
--les bijouteries disposant sur place d'un stock commercial d'une valeur égale ou supérieure à 700 000 F hors taxes.
+-les bijouteries disposant sur place d'un stock commercial d'une valeur égale ou supérieure à 106 750 euros hors taxes.
 
 II.-Les mesures de surveillance applicables sont constituées :
 
