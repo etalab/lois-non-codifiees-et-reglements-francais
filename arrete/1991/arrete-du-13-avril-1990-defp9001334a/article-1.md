@@ -1,6 +1,6 @@
 # Article 1
 
-Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvisé sont fixés conformément au tableau ci-dessous. Ils sont exprimés en pourcentage du traitement journalier soumis à retenue pour pension afférent à l'indice de rémunération correspondant à l'échelon du grade retenu pour chacun des six groupes hiérarchiques considérés.
+Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvisé sont fixés conformément au tableau ci-dessous. Ils sont exprimés en pourcentage du trentième du traitement mensuel soumis à retenue pour pension afférent à l'indice de rémunération correspondant à l'échelon du grade retenu pour chacun des cinq groupes hiérarchiques considérés.
 
 <table>
 <tbody>
@@ -16,7 +16,7 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 </td>
 <td colspan="2" width="192">
 <p align="center">Taux journaliers de l'indemnité </p>
-<p align="center">(en pourcentage)</p>
+<p align="center">(en pourcentage) </p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Capitaine à aspirant. </p>
 </td>
 <td valign="top" width="179">
-<p>Lieutenant 5e échelon. </p>
+<p>Lieutenant 4e échelon. </p>
 </td>
 <td valign="top" width="108">
 <p align="center">90,18 </p>
@@ -110,23 +110,6 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 </td>
 <td valign="top" width="84">
 <p align="center">65,44 </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">VI </p>
-</td>
-<td valign="top">
-<p>Militaire à solde forfaitaire. </p>
-</td>
-<td valign="top" width="179">
-<p>Caporal à solde forfaitaire </p>
-</td>
-<td valign="top" width="108">
-<p align="center">94,06 </p>
-</td>
-<td valign="top" width="84">
-<p align="center">75,24</p>
 </td>
 </tr>
 </tbody>
