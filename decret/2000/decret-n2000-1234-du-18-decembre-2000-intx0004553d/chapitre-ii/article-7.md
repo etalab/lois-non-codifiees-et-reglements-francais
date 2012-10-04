@@ -10,6 +10,6 @@ Le dépôt et la collecte des fonds se font exclusivement dans cette pièce. Ils
 
 Les personnes mentionnées à l'article 1er occupant une unité de l'ensemble commercial équipée de l'un des dispositifs de l'article 3 ne sont pas tenues de contribuer à l'installation de la pièce commune sécurisée. Elles sont néanmoins prises en compte pour la détermination du seuil de vingt unités prévues à cet alinéa ;
 
-b) Soit d'un aménagement permettant, à l'intérieur de l'ensemble commercial, le cheminement des convoyeurs lors du transport des fonds ainsi que le dépôt et la collecte des fonds en dehors de la présence du public.
+b) Soit d'un aménagement permettant, à l'intérieur de l'ensemble commercial, le cheminement des convoyeurs lors du transport des fonds ainsi que le dépôt et la collecte des fonds en dehors de la présence du public. Pour le transport des fonds inférieurs à 30 000 euros, l'obligation de prévoir un cheminement en dehors de la vue et de la présence du public ne s'applique pas, dès lors que le transport s'effectue dans les conditions du quatrième alinéa du I de l'article 1er du décret du 28 avril 2000 susvisé.
 
 La commission départementale de la sécurité des transports de fonds prévue à l'article 12 du décret du 28 avril 2000 susvisé est préalablement saisie pour avis par les personnes mentionnées au premier alinéa du 2° de la mise en oeuvre de l'aménagement prévu au b. Elle se prononce dans les conditions prévues à l'article 6.

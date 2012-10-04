@@ -8,11 +8,11 @@ L'envoi est constitué des fonds et valeurs, emballage compris, mis effectivemen
 
 2.2. Donneur d'ordre.
 
-On entend par donneur d'ordre (en général dénommé " client ] > dans les contrats) la partie (expéditeur, commissionnaire de transport ou autre) qui conclut le contrat de transport avec le transporteur.
+On entend par donneur d'ordre (en général dénommé " client] > dans les contrats) la partie (expéditeur, commissionnaire de transport ou autre) qui conclut le contrat de transport avec le transporteur.
 
 2.3. Fonds et valeurs.
 
-Par fonds et valeurs, on entend la monnaie fiduciaire, la monnaie divisionnaire, les bijoux et les métaux précieux.
+Par fonds et valeurs, on entend la monnaie fiduciaire, la monnaie divisionnaire, le papier fiduciaire destiné à l'impression des billets, les bijoux et les métaux précieux.
 
 2.4. Colis.
 
@@ -38,11 +38,11 @@ De même, si la livraison est effectuée sur des sites successifs, depuis un sit
 
 2.6. Rendez-vous.
 
-Par rendez-vous, on entend la fixation, d'un commun accord entre le donneur d'ordre et le transporteur, d'un jour et d'une plage horaire pour la desserte du lieu de chargement et/ou de déchargement.
+Par rendez-vous, on entend la fixation, d'un commun accord entre le donneur d'ordre et le transporteur, d'un jour et d'une plage horaire pour la desserte du lieu de chargement et/ ou de déchargement.
 
 2.7. Plage horaire.
 
-Par plage horaire, on entend la période, pour un jour donné ou non, fixée d'un commun accord entre le donneur d'ordre et le transporteur pour l'arrivée du véhicule sur les lieux de chargement et/ou de déchargement.
+Par plage horaire, on entend la période, pour un jour donné ou non, fixée d'un commun accord entre le donneur d'ordre et le transporteur pour l'arrivée du véhicule sur les lieux de chargement et/ ou de déchargement.
 
 2.8. Prise en charge.
 
