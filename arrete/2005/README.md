@@ -14,8 +14,6 @@
 - [Arrêté du 2 août 2005 (DEVO0540275A)](arrete-du-2-aout-2005-devo0540275a)
 - [Arrêté du 2 août 2005 (ECOC0500065A)](arrete-du-2-aout-2005-ecoc0500065a)
 - [Arrêté du 2 août 2005 (INDI0505563A)](arrete-du-2-aout-2005-indi0505563a)
-- [Arrêté du 2 août 2005 (SANH0521180A)](arrete-du-2-aout-2005-sanh0521180a)
-- [Arrêté du 2 août 2005 (SANH0521183A)](arrete-du-2-aout-2005-sanh0521183a)
 - [Arrêté du 2 août 2005 (SANH0522479A)](arrete-du-2-aout-2005-sanh0522479a)
 - [Arrêté du 2 août 2005 (SANP0522455A)](arrete-du-2-aout-2005-sanp0522455a)
 - [Arrêté du 2 août 2005 (SANS0522871A)](arrete-du-2-aout-2005-sans0522871a)
