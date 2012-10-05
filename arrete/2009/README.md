@@ -1241,8 +1241,6 @@
 - [Arrêté du 16 novembre 2009 (AGRS0811809A)](arrete-du-16-novembre-2009-agrs0811809a)
 - [Arrêté du 16 novembre 2009 (AGRT0911203A)](arrete-du-16-novembre-2009-agrt0911203a)
 - [Arrêté du 16 novembre 2009 (AGRT0926464A)](arrete-du-16-novembre-2009-agrt0926464a)
-- [Arrêté du 16 novembre 2009 (BCFB0923748A)](arrete-du-16-novembre-2009-bcfb0923748a)
-- [Arrêté du 16 novembre 2009 (DEFA0927216A)](arrete-du-16-novembre-2009-defa0927216a)
 - [Arrêté du 16 novembre 2009 (ECES0927202A)](arrete-du-16-novembre-2009-eces0927202a)
 - [Arrêté du 16 novembre 2009 (MENE0925243A)](arrete-du-16-novembre-2009-mene0925243a)
 - [Arrêté du 16 octobre 2009 (DEVA0921629A)](arrete-du-16-octobre-2009-deva0921629a)
