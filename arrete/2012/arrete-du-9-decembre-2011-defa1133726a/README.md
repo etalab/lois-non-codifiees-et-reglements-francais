@@ -1,4 +1,4 @@
-# Arrêté du 9 décembre 2011 fixant l'organisation des concours d'admission en qualité d'élève ingénieur des études et techniques de l'armement à l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+# Arrêté du 9 décembre 2011 fixant l'organisation des concours d'admission en qualité d'élève ingénieur des études et techniques de l'armement à l'Ecole nationale supérieure de techniques avancées Bretagne
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

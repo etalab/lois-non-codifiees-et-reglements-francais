@@ -16,4 +16,4 @@ Le délégué général pour l'armement exerce au nom du ministre de la défense
 
 7. Paragraphe abrogé
 
-8. L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement.
+8. L'Ecole nationale supérieure de techniques avancées Bretagne

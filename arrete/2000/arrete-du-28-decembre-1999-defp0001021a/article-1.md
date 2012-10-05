@@ -6,9 +6,9 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 -conseiller personnel civil de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
--sous-directeur administratif de l'atelier industriel de l'aéronautique de Cuers du service de la maintenance aéronautique de la     direction générale de l'armement ;
+-sous-directeur administratif de l'atelier industriel de l'aéronautique de Cuers du service de la maintenance aéronautique de la direction générale de l'armement ;
 
--sous-directeur administratif de l'atelier industriel de l'aéronautique de Bordeaux du service de la maintenance aéronautique de la     direction générale de l'armement ;
+-sous-directeur administratif de l'atelier industriel de l'aéronautique de Bordeaux du service de la maintenance aéronautique de la direction générale de l'armement ;
 
 -Chef du bureau personnel civil de la sous-direction affaires générales et personnel civil de la direction du personnel militaire de l'armée de terre ;
 
@@ -56,4 +56,4 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 -chef du bureau de l'exécution budgétaire à la direction des affaires financières ;
 
--secrétaire général à l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement.
+-secrétaire général à             l'Ecole nationale supérieure de techniques avancées Bretagne.

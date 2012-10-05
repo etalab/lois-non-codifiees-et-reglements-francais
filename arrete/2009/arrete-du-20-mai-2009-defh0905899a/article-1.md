@@ -16,7 +16,7 @@ Les directeurs généraux ou directeurs des établissements publics suivants re�
 
 ― le directeur de l'Ecole nationale supérieure de techniques avancées ;
 
-― le directeur de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement ;
+― le directeur de             l'Ecole nationale supérieure de techniques avancées Bretagne ;
 
 ― le directeur général de l'Ecole polytechnique ;
 
@@ -120,7 +120,7 @@ II. ― Pour les fonctionnaires des catégories B et C :
 
 11. Le refus du congé de formation syndicale.
 
-Les actes mentionnés aux 1, 2, 4, 5, 6, 8, 10 et 11 ci-dessus ne sont délégués que pour les corps de catégories B et C dotés de commissions administratives paritaires locales.
+Les actes mentionnés aux 1,2,4,5,6,8,10 et 11 ci-dessus ne sont délégués que pour les corps de catégories B et C dotés de commissions administratives paritaires locales.
 
 B. ― Pour les agents non titulaires de l'Etat :
 
@@ -172,7 +172,7 @@ Les actes suivants sont délégués lorsqu'ils sont relatifs aux agents :
 
 20. L'octroi de décharges d'activité de service.
 
-21.L'octroi ou le refus d'accorder des indemnités de départ volontaire.
+21. L'octroi ou le refus d'accorder des indemnités de départ volontaire.
 
 C. ― En ce qui concerne les personnels ouvriers affiliés au régime des pensions prévu par le décret n° 2004-1056 du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat, les ouvriers auxiliaires et les ouvriers temporaires :
 
@@ -242,4 +242,4 @@ C. ― En ce qui concerne les personnels ouvriers affiliés au régime des pensi
 
 33. L'octroi de décharges d'activité de service.
 
-34.L'octroi ou le refus d'accorder des indemnités de départ volontaire.
+34. L'octroi ou le refus d'accorder des indemnités de départ volontaire.

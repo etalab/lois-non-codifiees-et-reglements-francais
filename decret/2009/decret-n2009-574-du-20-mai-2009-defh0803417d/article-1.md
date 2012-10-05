@@ -16,7 +16,7 @@ Le ministre de la défense peut déléguer par arrêté aux directeurs générau
 
 7° L'Ecole nationale supérieure de techniques avancées ;
 
-8° L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement ;
+8° L'Ecole nationale supérieure de techniques avancées Bretagne ;
 
 9° L'Ecole polytechnique ;
 

@@ -1,8 +1,8 @@
 # Article Annexe II
 
-**LISTE DES DIPLÔMES D'INGÉNIEUR
+**LISTE DES DIPLÔMES D'INGÉNIEUR**
 
-PERMETTANT DE PRÉSENTER LE CONCOURS SUR TITRES**
+**PERMETTANT DE PRÉSENTER LE CONCOURS SUR TITRES**
 
 Les diplômes d'ingénieurs délivrés par les écoles suivantes permettent de présenter le concours sur titres du recrutement des ingénieurs militaires :
 
@@ -22,9 +22,9 @@ Ecole nationale supérieure de l'aéronautique et de l'espace.
 
 Ecole nationale supérieure d'ingénieurs de constructions aéronautiques.
 
-Ecole nationale supérieure des ingénieurs des études et techniques d'armement.
-
 Ecole nationale supérieure de techniques avancées.
+
+Ecole nationale supérieure de techniques avancées Bretagne.
 
 Ecole nationale des travaux maritimes.
 

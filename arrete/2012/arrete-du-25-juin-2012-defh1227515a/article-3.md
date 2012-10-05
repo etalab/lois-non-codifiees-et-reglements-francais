@@ -4,9 +4,9 @@ La composition de ce comité est fixée comme suit :
 
 a) Représentants de l'administration :
 
-― le directeur de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement (ENSTA Bretagne) ou son représentant qui en assure la présidence ;
+― le directeur de             l'Ecole nationale supérieure de techniques avancées Bretagne (ENSTA Bretagne) ou son représentant qui en assure la présidence ;
 
-― le responsable ayant autorité en matière de gestion des ressources humaines de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement (ENSTA Bretagne) ou son représentant ;
+― le responsable ayant autorité en matière de gestion des ressources humaines de             l'Ecole nationale supérieure de techniques avancées Bretagne (ENSTA Bretagne) ou son représentant ;
 
 b) Représentants du personnel : cinq membres titulaires et cinq membres suppléants ;
 
