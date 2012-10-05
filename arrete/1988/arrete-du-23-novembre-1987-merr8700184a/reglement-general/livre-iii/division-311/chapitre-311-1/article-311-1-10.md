@@ -20,4 +20,4 @@ c) à des défauts inhérents aux normes d'essai elles-mêmes.
 
 - les mesures sont injustifiées, elle en informe immédiatement l'administration et le fabricant ou son mandataire agréé établi dans la Communauté.
 
-3. L'administration prend les mesures appropriées lorsqu'un équipement, portant le marquage apposé par ou sous le contrôle d'un organisme habilité relevant de son autorité, se révèle non conforme. Elle en informe la Commission et les autres Etats membres.
+3. L'administration prend les mesures appropriées lorsqu'un équipement, portant le marquage apposé par ou sous le contrôle d'un organisme notifié relevant de son autorité, se révèle non conforme. Elle en informe la Commission et les autres Etats membres.

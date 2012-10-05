@@ -1,6 +1,10 @@
 # Article Annexe 311-1.A
 
-SIGLES ET ABRÉVIATIONS
+Remarque générale pour l'annexe A : par règles SOLAS, on entend la version consolidée de SOLAS de 2009.
+
+Remarque générale pour l'annexe A : sous certains noms d'article, la colonne 5 indique certaines variantes de produits possibles répondant au même nom d'article. Les variantes de produits sont mentionnées de manière indépendante et séparées les unes des autres par une ligne pointillée. Aux fins de certification, seule la variante de produit concernée, le cas échéant, doit être choisie (exemple : A.1/3.3).
+
+Sigles et abréviations :
 
 A.1 : amendement 1 concernant des documents normatifs autres que ceux de l'OMI.
 
@@ -12,7 +16,7 @@ CAT : catégorie d'équipement radar au sens du point 1.3 de la norme CEI 62388 
 
 Circ. : circulaire.
 
-COLREG (International Regulations for Preventing Collisions at Sea) : règlement international pour prévenir les abordages en mer.
+COLREG : (International Regulations for Preventing Collisions at Sea) règlement international pour prévenir les abordages en mer.
 
 COMSAR : sous-comité des radiocommunications et de la recherche et du sauvetage de l'OMI.
 
@@ -34,11 +38,11 @@ CEI : Commission électrotechnique internationale.
 
 OMI : Organisation maritime internationale.
 
-ISO (International Standardisation Organisation) : Organisation internationale de normalisation.
+ISO : (International Standardisation Organisation) Organisation internationale de normalisation.
 
 UIT : Union internationale des télécommunications.
 
-LSA (Life Saving Appliance) : engin de sauvetage.
+LSA : (Life Saving Appliance) engin de sauvetage.
 
 MARPOL : convention internationale pour la prévention de la pollution par les navires.
 
