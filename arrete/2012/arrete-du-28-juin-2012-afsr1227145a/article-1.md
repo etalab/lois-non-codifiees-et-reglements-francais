@@ -8,10 +8,10 @@ Secteur affaires sociales et santé
 <tbody>
 <tr>
 <td>
-<p align="center"> AFFECTATIONS</p>
+<p align="center">AFFECTATIONS</p>
 </td>
 <td colspan="5">
-<p align="center"> INTITULÉ DES POSTES</p>
+<p align="center">INTITULÉ DES POSTES</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ Secteur affaires sociales et santé
 <br/>Direction des affaires financières, informatiques, immobilières et des services<br/>
 </td>
 <td align="center">
-<br/>Chargé de mission auprès du directeur de projet  achats et développement durable <br/>
+<br/>Chargé de mission auprès du directeur de projet achats et développement durable <br/>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Secteur affaires sociales et santé
 <br/>Direction générale de la cohésion sociale<br/>
 </td>
 <td align="center">
-<br/>Chargé de mission auprès du chef de service des politiques d'appui, chef de projet transversal  outre-mer/départementalisation Mayotte <br/>
+<br/>Chargé de mission auprès du chef de service des politiques d'appui, chef de projet transversal outre-mer/départementalisation Mayotte <br/>
 </td>
 </tr>
 <tr>
@@ -279,10 +279,10 @@ Secteur travail
 <tbody>
 <tr>
 <td>
-<p align="center"> AFFECTATIONS</p>
+<p align="center">AFFECTATIONS</p>
 </td>
 <td colspan="5">
-<p align="center"> INTITULÉ DES POSTES</p>
+<p align="center">INTITULÉ DES POSTES</p>
 </td>
 </tr>
 <tr>
@@ -299,6 +299,14 @@ Secteur travail
 </td>
 <td align="center">
 <br/>Responsable de la cellule parcours professionnels<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction de l'administration générale et de la modernisation des services</p>
+</td>
+<td>
+<p align="center"> Chef du bureau des questions juridiques et statutaires et des relations sociales </p>
 </td>
 </tr>
 <tr>
@@ -376,10 +384,10 @@ Secrétariat général à l'immigration et à l'intégration
 <tbody>
 <tr>
 <td>
-<p align="center"> AFFECTATIONS</p>
+<p align="center">AFFECTATIONS</p>
 </td>
 <td colspan="5">
-<p align="center"> INTITULÉ DES POSTES</p>
+<p align="center">INTITULÉ DES POSTES</p>
 </td>
 </tr>
 <tr>
