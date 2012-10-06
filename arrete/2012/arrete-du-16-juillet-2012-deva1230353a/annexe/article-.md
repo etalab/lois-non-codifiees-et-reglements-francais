@@ -75,3 +75,17 @@ Fort-de-France―Sainte-Lucie ;
 Pointe-à-Pitre―Sainte-Lucie ;
 
 Saint-Barthélemy―Saint-Martin Juliana (Etat de Saint-Martin).
+
+Jusqu'au 27 septembre 2017 :
+
+Paris-Dzaoudzi (Mayotte) ;
+
+Paris-Antananarivo (Madagascar) ;
+
+Paris-Puerto Plata (République dominicaine) ;
+
+Paris-Punta Cana (République dominicaine) ;
+
+Paris-La Romana (République dominicaine) ;
+
+Paris-Samana (République dominicaine).
