@@ -4,7 +4,7 @@ Le rattachement prévu aux articles précédents produit tout ou partie des effe
 
 La célébration du mariage ;
 
-L'inscription sur la liste électorale, sur la demande des intéressés, après trois ans de rattachement ininterrompu dans la même commune ;
+L'inscription sur la liste électorale, sur la demande des intéressés ;
 
 L'accomplissement des obligations fiscales ;
 
