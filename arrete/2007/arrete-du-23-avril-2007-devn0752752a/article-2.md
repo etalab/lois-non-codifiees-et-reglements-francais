@@ -58,6 +58,8 @@ Vespertilion à moustaches (Myotis mystacinus).
 
 Vespertilion de Natterer (Myotis nattereri).
 
+Murin d'Escalera (Myotis escalerai).
+
 Murin du Maghreb (Myotis punicus).
 
 Grande noctule (Nyctalus lasiopterus).
@@ -116,6 +118,8 @@ Castor d'Europe (Castor fiber).
 
 Cricetidés
 
+Campagnol amphibie (Arvicola sapidus).
+
 Hamster commun (Cricetus cricetus).
 
 Gliridés
@@ -153,3 +157,5 @@ ONGULÉS
 Bovidés
 
 Bouquetin des Alpes (Capra ibex).
+
+Bouquetin des Pyrénées (Capra pyrenaica).
