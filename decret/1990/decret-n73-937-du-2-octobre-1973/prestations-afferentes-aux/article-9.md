@@ -11,3 +11,5 @@ II-Les dispositions du présent article ne font pas obstacle, lorsque le bénéf
 Toutefois, la majoration prévue à l'article 18 du décret du 17 septembre 1964 susvisé demeure intégralement acquise au conjoint survivant au profit duquel a été effectué le versement de la cotisation spéciale unique prévue audit article. Cette majoration est égale à 25 % de la pension en points de l'assuré.
 
 III-Le montant de l'avantage auquel un conjoint survivant peut prétendre en application des dispositions de l'article 33 du décret du 17 septembre 1964 susvisé est, le cas échéant, diminué des droits à pension de réversion normale auxquels tout autre conjoint divorcé non remarié de l'assuré peut prétendre en application de l'article L. 351-2 du code de la sécurité sociale.
+
+IV.-Les pensions et allocations mentionnées au présent article sont majorées dans les conditions prévues à l'article L. 353-6 du code de la sécurité sociale.

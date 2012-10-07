@@ -14,11 +14,11 @@ NP x V x C x (D - 1) x E x (1 + 10 %)
 
 b) Au titre du b du 1° dudit article 3 bis précité :
 
-NP x V x [1 + C x (D - 1)] x E x (1 + 10 %)   où :
+NP x V x [1 + C x (D - 1)] x E x (1 + 10 %) où :
 
-NP est le nombre trimestriel de points de retraite de la classe de cotisations, obligatoire s'agissant du régime des artisans, en vigueur au 1er janvier 1972 et égal à 9 points dans chacun des régimes et revalorisée chaque année, à partir de l'année suivant celle au cours de laquelle l'assuré est informé de l'acceptation de sa demande, par application du taux fixé au 1° de l'article D. 351-9 susmentionné ;
+NP est le nombre trimestriel de points de retraite de la classe de cotisations, obligatoire s'agissant du régime des artisans, en vigueur au 1er janvier 1972 et égal à 9 points dans chacun des régimes et revalorisée chaque année, à partir de l'année suivant celle au cours de laquelle l'assuré présente sa demande, par application du taux fixé au 1° de l'article D. 351-9 susmentionné ;
 
-V est la valeur de service du point en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est informé de l'acceptation de sa demande ;
+V est la valeur de service du point en vigueur au 1er janvier de l'année au cours de laquelle l'assuré présente sa demande ;
 
 C est le coefficient de minoration fixé à l'article D. 351-9 ;
 
