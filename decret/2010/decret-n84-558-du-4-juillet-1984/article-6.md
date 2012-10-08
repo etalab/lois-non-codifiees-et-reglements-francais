@@ -1,9 +1,15 @@
 # Article 6
 
-Les quatre représentants des professions libérales sont désignés par l'Union nationale des associations des professions libérales et comprennent un représentant au moins de chacune des catégories suivantes :
+Les vingt-cinq représentants des exploitants agricoles sont désignés ainsi qu'il suit :
 
-Professions de santé ;
+- huit représentants désignés par l'Assemblée permanente des chambres d'agriculture ;
 
-Professions juridiques ;
+- onze représentants désignés par la Fédération nationale des syndicats d'exploitants agricoles ;
 
-Autres professions libérales.
+- deux représentants désignés par Jeunes agriculteurs ;
+
+- deux représentants désignés par la Confédération paysanne ;
+
+- un représentant désigné par la Confédération nationale des syndicats d'exploitants familiaux (Modef) ;
+
+- un représentant désigné par la Coordination rurale-union nationale.
