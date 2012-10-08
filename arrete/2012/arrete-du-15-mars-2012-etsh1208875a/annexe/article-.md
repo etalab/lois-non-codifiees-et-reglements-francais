@@ -1,6 +1,8 @@
 # Article 
 
-MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFECTÉES AUX MISSIONS D'INTÉRÊT GÉNÉRAL ET D'AIDE À LA CONTRACTUALISATION
+MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS
+
+AFFECTÉES AUX MISSIONS D'INTÉRÊT GÉNÉRAL ET D'AIDE À LA CONTRACTUALISATION
 
 <table>
 <tbody>
@@ -20,7 +22,7 @@ MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFE
 </th>
 <th>
 <br/>MONTANT DE LA DOTATION <br/>
-<br/>DAF USLD <br/>
+<br/>DAF USDL <br/>
 <br/>(en milliers d'euros) <br/>
 </th>
 </tr>
@@ -57,7 +59,7 @@ MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFE
 <br/>Auvergne <br/>
 </td>
 <td align="center">
-<br/>144   595,62 <br/>
+<br/>146   595,62 <br/>
 </td>
 <td align="center">
 <br/>357   171,82 <br/>
@@ -197,7 +199,7 @@ MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFE
 <br/>Lorraine <br/>
 </td>
 <td align="center">
-<br/>229   265,79 <br/>
+<br/>233   765,79 <br/>
 </td>
 <td align="center">
 <br/>624   205,28 <br/>
@@ -239,7 +241,7 @@ MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFE
 <br/>Basse-Normandie <br/>
 </td>
 <td align="center">
-<br/>145   762,81 <br/>
+<br/>155   762,81 <br/>
 </td>
 <td align="center">
 <br/>350   346,48 <br/>
@@ -337,7 +339,7 @@ MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFE
 <br/>Guadeloupe <br/>
 </td>
 <td align="center">
-<br/>53   916,58 <br/>
+<br/>57   916,58 <br/>
 </td>
 <td align="center">
 <br/>99   536,33 <br/>
@@ -365,10 +367,10 @@ MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS AFFE
 <br/>Martinique <br/>
 </td>
 <td align="center">
-<br/>114   349,34 <br/>
+<br/>134   349,34 <br/>
 </td>
 <td align="center">
-<br/>112   931,38 <br/>
+<br/>118   331,38 <br/>
 </td>
 <td align="center">
 <br/>7   586,53 <br/>
