@@ -5,121 +5,94 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <table>
 <tbody>
 <tr>
-<th>TYPE D'ÉTABLISSEMENT<br/>
-</th>
-<th>ÉTABLISSEMENT<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Maison d'arrêt <br/>
+<td>
+<p align="center"> TYPE D'ÉTABLISSEMENT</p>
 </td>
-<td align="center">AJACCIO<br/>
+<td>
+<p align="center"> ÉTABLISSEMENT</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td rowspan="16" valign="top">
+<p align="center">Maison d'arrêt </p>
 </td>
-<td align="center">ALENÇON<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">BASSE-TERRE<br/>
+<td>
+<p>AJACCIO</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">BEZIERS<br/>
+<td>
+<p>ALENÇON</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">BOURG-EN-BRESSE<br/>
+<td>
+<p>BASSE-TERRE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">LE HAVRE<br/>
+<td>
+<p>BEZIERS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">LE MANS<br/>
+<td>
+<p>BOURG-EN-BRESSE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">LYON "Montluc" <br/>
+<td>
+<p>LE HAVRE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">LYON "Perrache" <br/>
+<td>
+<p>LE MANS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">MONT-DE-MARSAN<br/>
+<td>
+<p>LYON "Montluc" </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">NANCY<br/>
+<td>
+<p>LYON "Perrache" </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">NANTES<br/>
+<td>
+<p>MONT-DE-MARSAN</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">POITIERS<br/>
+<td>
+<p>NANCY</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">RENNES<br/>
+<td>
+<p>NANTES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">RODEZ<br/>
+<td>
+<p>POITIERS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td>
+<p>RENNES</p>
 </td>
-<td align="center">
-<p align="center">SAINT-DENIS</p>
+</tr>
+<tr>
+<td>
+<p>RODEZ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SAINT-DENIS</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +100,7 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <p align="center">Maison d'arrêt </p>
 </td>
 <td>
-<p align="center">LOOS</p>
+<p>LOOS</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +108,7 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <p align="center">Centre de détention </p>
 </td>
 <td>
-<p align="center">LOOS</p>
+<p>LOOS</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +116,15 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <p align="center">Centre pénitentiaire </p>
 </td>
 <td>
-<p align="center">DRAGUIGNAN</p>
+<p>DRAGUIGNAN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Maison d'arrêt </p>
+</td>
+<td>
+<p> CAHORS</p>
 </td>
 </tr>
 </tbody>
