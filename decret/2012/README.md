@@ -220,6 +220,7 @@
 - [Décret n°2012-726 du 7 mai 2012 (IOCE1221199D)](decret-n2012-726-du-7-mai-2012-ioce1221199d)
 - [Décret n°2012-729 du 7 mai 2012 (IOCE1221238D)](decret-n2012-729-du-7-mai-2012-ioce1221238d)
 - [Décret n°2012-754 du 7 mai 2012 (AGRT1208173D)](decret-n2012-754-du-7-mai-2012-agrt1208173d)
+- [Décret n°2012-1134 du 8 octobre 2012 (RDFF1234502D)](decret-n2012-1134-du-8-octobre-2012-rdff1234502d)
 - [Décret n°2012-197 du 8 février 2012 (MENE1135547D)](decret-n2012-197-du-8-fevrier-2012-mene1135547d)
 - [Décret n°2012-340 du 8 mars 2012 (JUSA1201264D)](decret-n2012-340-du-8-mars-2012-jusa1201264d)
 - [Décret n°2012-342 du 8 mars 2012 (MENH1127509D)](decret-n2012-342-du-8-mars-2012-menh1127509d)
