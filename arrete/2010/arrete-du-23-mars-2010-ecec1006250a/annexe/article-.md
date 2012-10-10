@@ -2,9 +2,7 @@
 
 ESSAIS
 
-1. Exigences relatives aux essais,
-
-à garantir par le responsable de la mise sur le marché
+1. Exigences relatives aux essais, à garantir par le responsable de la mise sur le marché
 
 1.1. Epreuve hydraulique sur les récipients vides
 
@@ -40,23 +38,21 @@ c) Méthodes d'essai final à froid :
 
 Une méthode alternative d'essai final à froid est admissible à condition qu'elle soit conforme aux dispositions relatives aux méthodes alternatives à l'épreuve du bain d'eau chaude pour les générateurs d'aérosol, figurant au point 6.2.6.3.2.2 de l'annexe I, section I.1, de la directive 2008/68/CE.
 
-1.4.2. Pour les générateurs d'aérosol dont les composants subissent une transformation physique ou chimique modifiant leurs caractéristiques de pression après le conditionnement et avant la première utilisation, il convient d'utiliser des méthodes d'essai final à froid conformes aux dispositions du point 6.1.4.1 c.
+1.4.2. Pour les générateurs d'aérosol dont les composants subissent une transformation physique ou chimique modifiant leurs caractéristiques de pression après le conditionnement et avant la première utilisation, il convient d'utiliser des méthodes d'essai final à froid conformes aux dispositions du point 1.4.1 c.
 
-1.4.3. En cas d'utilisation de méthodes d'essai visées aux points 6.1.4.1 b et 6.1.4.1 c :
+1.4.3. En cas d'utilisation de méthodes d'essai visées aux points 1.4.1 b et 1.4.1 c :
 
 a) La méthode d'essai doit être approuvée par une autorité compétente ;
 
 b) Le responsable de la mise sur le marché communautaire des générateurs d'aérosol doit déposer une demande d'approbation auprès d'une autorité compétente. Il convient de joindre à la demande le dossier technique exposant la méthode ;
 
-c) A des fins de contrôle, le responsable de la mise sur le marché communautaire des générateurs d'aérosol est tenu de conserver l'autorisation délivrée par l'autorité compétente, le dossier technique exposant la méthode et, le cas échéant, les procès-verbaux des contrôles ; lesdits documents doivent être faciles à se procurer à l'adresse indiquée sur l'étiquette, conformément au a de l'article 6 du décret du 23 mars 2010 ;
+c) A des fins de contrôle, le responsable de la mise sur le marché communautaire des générateurs d'aérosol est tenu de conserver l'autorisation délivrée par l'autorité compétente, le dossier technique exposant la méthode et, le cas échéant, les procès-verbaux des contrôles ; lesdits documents doivent être faciles à se procurer à l'adresse indiquée sur l'étiquette, conformément au a de l'article 5 du décret du 23 mars 2010 ;
 
 d) Le dossier technique est établi dans une des langues officielles de la Communauté ou une copie certifiée conforme est mise à disposition ;
 
 e) Par autorité compétente , on entend l'autorité désignée dans chaque Etat membre en vertu de la directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses.
 
-2. Exemples d'essais de contrôle
-
-pouvant être effectués par les services de contrôle
+2. Exemples d'essais de contrôle pouvant être effectués par les services de contrôle
 
 2.1. Essai des récipients vides
 
@@ -76,9 +72,7 @@ Tout lot de générateurs d'aérosol qui ne satisfait pas à ces essais doit êt
 
 3. Essais d'inflammabilité des aérosols
 
-3.1. Essai de la distance d'inflammation
-
-pour les aérosols vaporisés
+3.1. Essai de la distance d'inflammation pour les aérosols vaporisés
 
 3.1.1. Introduction.
 
@@ -148,9 +142,7 @@ h) Mettre au même niveau l'orifice du diffuseur et la flamme du bec Bunsen, en 
 
 Figure 3.1.1
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 71 du 25/03/2010 texte numéro 20
+Vous pouvez consulter le schéma  à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=20&pageDebut=05852&pageFin=05857
 
 i) Respecter les prescriptions générales en ce qui concerne la façon dont le générateur d'aérosol doit être secoué.
 
@@ -164,7 +156,7 @@ m) Recommencer les étapes g à l deux fois (soit trois fois au total) pour le m
 
 n) Recommencer la procédure d'essai pour deux autres générateurs d'aérosol contenant le même produit, à la même distance entre le bec Bunsen et le diffuseur du générateur.
 
-o) Recommencer les étapes g à n de la procédure d'essai à une distance comprise entre 15 et 90 cm entre le diffuseur du générateur d'aérosol et la flamme du bec Bunsen, en fonction du résultat de chaque essai (voir aussi les points 6.3.1.3.1.4 et 6.3.1.3.1.5).
+o) Recommencer les étapes g à n de la procédure d'essai à une distance comprise entre 15 et 90 cm entre le diffuseur du générateur d'aérosol et la flamme du bec Bunsen, en fonction du résultat de chaque essai (voir aussi les points 3.1.3.1.4 et 3.1.3.1.5).
 
 p) Si l'aérosol ne s'enflamme pas à une distance de 15 cm, la procédure est close pour les générateurs initialement pleins.
 
@@ -195,147 +187,189 @@ Tableau 3.1.1
 <table>
 <tbody>
 <tr>
-<th colspan="2">DATE<br/>
-</th>
-<th colspan="2">TEMPÉRATURE ... C - HUMIDITÉ RELATIVE ... %<br/>
-</th>
-</tr>
-<tr>
-<th colspan="4">Nom du produit<br/>
-</th>
-</tr>
-<tr>
-<th>Volume net<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>Générateur 1<br/>
-</th>
-<th>Générateur 2<br/>
-</th>
-<th>Générateur 3<br/>
-</th>
-</tr>
-<tr>
-<th colspan="4">Niveau initial de remplissage<br/>%<br/>%<br/>%<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Distance entre le générateur<br/>et la flamme<br/>
+<td colspan="2">
+<p align="center">DATE</p>
 </td>
-<td align="center">Essai<br/>
-</td>
-<td align="center">1 2 3<br/>
-</td>
-<td align="center">1 2 3<br/>
-</td>
-<td align="center">1 2 3<br/>
+<td colspan="3">
+<p align="center">TEMPÉRATURE ... C - HUMIDITÉ RELATIVE ... %</p>
 </td>
 </tr>
 <tr>
-<td align="center">15 cm<br/>
+<td colspan="2">
+<p align="center">Nom du produit</p>
 </td>
-<td align="center">Inflammation ?<br/>oui/non<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
+<td colspan="3">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">30 cm<br/>
+<td width="209">
+<p align="center">Volume net</p>
 </td>
-<td align="center">Inflammation ?<br/>oui/non<br/>
-</td>
-<td align="center">
+<td width="128">
 <br/>
 </td>
-<td align="center">
+<td>
+<p align="center">Générateur 1</p>
+</td>
+<td>
+<p align="center">Générateur 2</p>
+</td>
+<td>
+<p align="center">Générateur 3</p>
+</td>
+</tr>
+<tr>
+<td width="209">
+<p>Niveau initial de remplissage</p>
+</td>
+<td width="128">
 <br/>
 </td>
-<td align="center">
+<td>
+<p align="center">%</p>
+</td>
+<td>
+<p align="center">%</p>
+</td>
+<td>
+<p align="center">%</p>
+</td>
+</tr>
+<tr>
+<td width="209">
+<p>Distance entre le générateur<br clear="none"/>et la flamme</p>
+</td>
+<td width="128">
+<p>Essai</p>
+</td>
+<td>
+<p align="center">1 2 3</p>
+</td>
+<td>
+<p align="center">1 2 3</p>
+</td>
+<td>
+<p align="center">1 2 3</p>
+</td>
+</tr>
+<tr>
+<td width="209">
+<p>15 cm</p>
+</td>
+<td width="128">
+<p>Inflammation ?<br clear="none"/>oui/non</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">45 cm<br/>
+<td width="209">
+<p>30 cm</p>
 </td>
-<td align="center">Inflammation ?<br/>oui/non<br/>
+<td width="128">
+<p>Inflammation ?<br clear="none"/>oui/non</p>
 </td>
-<td align="center">
+<td>
 <br/>
 </td>
-<td align="center">
+<td>
 <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">60 cm<br/>
-</td>
-<td align="center">Inflammation ?<br/>oui/non<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">75 cm<br/>
+<td width="209">
+<p>45 cm</p>
 </td>
-<td align="center">Inflammation ?<br/>oui/non<br/>
+<td width="128">
+<p>Inflammation ?<br clear="none"/>oui/non</p>
 </td>
-<td align="center">
+<td>
 <br/>
 </td>
-<td align="center">
+<td>
 <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">90 cm<br/>
-</td>
-<td align="center">Inflammation ?<br/>oui/non<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Remarques (notamment la position du générateur<br/>
+<td width="209">
+<p>60 cm</p>
 </td>
-<td align="center">
+<td width="128">
+<p>Inflammation ?<br clear="none"/>oui/non</p>
+</td>
+<td>
 <br/>
 </td>
-<td align="center">
+<td>
 <br/>
 </td>
-<td align="center">
+<td>
 <br/>
 </td>
-<td align="center">
+</tr>
+<tr>
+<td width="209">
+<p>75 cm</p>
+</td>
+<td width="128">
+<p>Inflammation ?<br clear="none"/>oui/non</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td width="209">
+<p>90 cm</p>
+</td>
+<td width="128">
+<p>Inflammation ?<br clear="none"/>oui/non</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td width="209">
+<p>Remarques (notamment la</p>
+<p> position du générateur</p>
+</td>
+<td width="128">
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
@@ -382,31 +416,27 @@ b) Un film plastique de 0,01 à 0,02 mm d'épaisseur peut aussi être utilisé c
 
 Etirer le film sur l'extrémité ouverte du fût et le maintenir en place au moyen d'une bande élastique. L'élasticité de la bande doit être telle que lorsqu'elle est placée autour du fût posé sur le côté, elle ne s'étire que de 25 mm sous une masse de 0,45 kg placée en son point le plus bas.
 
-Inciser le film sur 25 mm, en commençant à 50 mm du bord du fût. S'assurer que le film est tendu.
+Inciser le film sur 25 mm, en commençant à 50 mm du bord du fût. S'assurer que le film est tendu
+
+.
 
 c) A l'autre extrémité du fût, percer un trou de 50 mm de diamètre, à 100 mm du bord, de telle sorte que cet orifice soit le point le plus haut lorsque le récipient est posé à plat et prêt pour l'essai (figure 3.2.1).
 
 Figure 3.2.1
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 71 du 25/03/2010 texte numéro 20
+Vous pouvez consulter le schéma  à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=20&pageDebut=05852&pageFin=05857
 
 d) Sur un support métallique de 200 mm × 200 mm, placer une bougie à la cire de paraffine mesurant entre 20 et 40 mm de diamètre et 100 mm de haut. Remplacer la bougie quand sa hauteur descend au-dessous de 80 mm. La flamme de la bougie est protégée de l'aérosol par un déflecteur de 150 mm de large sur 200 mm de haut, incliné à 45° à partir d'une hauteur de 150 mm au-dessus de l'embase du déflecteur (figure 3.2.2).
 
 Figure 3.2.2
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 71 du 25/03/2010 texte numéro 20
+Vous pouvez consulter le schéma  à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=20&pageDebut=05852&pageFin=05857
 
 e) La bougie placée sur le support métallique doit être située à mi-distance entre les deux extrémités du fût (figure 3.2.3).
 
 Figure 3.2.3
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 71 du 25/03/2010 texte numéro 20
+Vous pouvez consulter le schéma  à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=20&pageDebut=05852&pageFin=05857
 
 f) Le fût est posé à même le sol ou sur un support, dans un endroit où la température est comprise entre 15 et 25 °C. L'aérosol soumis à l'essai est vaporisé à l'intérieur du fût, d'une contenance approximative de 200 dm³, dans lequel est placée la source d'inflammation.
 
@@ -438,7 +468,9 @@ f) Allumer la bougie et mettre en place le système de fermeture (couvercle ou f
 
 g) Placer l'orifice du diffuseur du générateur d'aérosol à 35 mm ― ou plus près encore s'il s'agit d'un générateur d'aérosol à champ de vaporisation large ― du centre de l'orifice percé dans le fût. Déclencher le chronomètre et, conformément aux consignes, diriger le jet vers le centre de l'extrémité opposée (couvercle ou film de plastique). Le générateur d'aérosol doit être placé dans la position dans laquelle il est censé être utilisé, par exemple debout ou la tête en bas.
 
-h) Vaporiser jusqu'à l'inflammation de l'aérosol. Arrêter le chronomètre et noter le temps écoulé. Peser à nouveau le générateur d'aérosol et noter sa masse.
+h) Vaporiser jusqu'à l'inflammation de l'aérosol. Arrêter le chronomètre et noter le temps écoulé.
+
+Peser à nouveau le générateur d'aérosol et noter sa masse.
 
 i) Aérer et nettoyer le fût afin d'en ôter tout résidu susceptible de fausser les résultats des essais suivants. Si nécessaire, laisser refroidir le fût.
 
@@ -462,15 +494,11 @@ f) Volume réel du fût (en dm³).
 
 3.2.4.2. Le temps équivalent (teq) nécessaire à l'inflammation d'un mètre cube peut se calculer comme suit :
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 71 du 25/03/2010 texte numéro 20
+Vous pouvez consulter la formule à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=20&pageDebut=05852&pageFin=05857
 
 3.2.4.3. La densité de déflagration (Ddef) nécessaire à l'inflammation pendant l'essai peut aussi se calculer comme suit :
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 71 du 25/03/2010 texte numéro 20
+Vous pouvez consulter la formule à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=20&pageDebut=05852&pageFin=05857
 
 3.3. Essai d'inflammabilité des mousses d'aérosol
 

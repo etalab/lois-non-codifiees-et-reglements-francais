@@ -8,4 +8,14 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 ― fermeture de l'implantation territoriale de Moutiers de la direction départementale des territoires de la Savoie ;
 
-― fermeture de l'implantation territoriale de Lumbres de la direction départementale des territoires et de la mer du Pas-de-Calais.
+― fermeture de l'implantation territoriale de Lumbres de la direction départementale des territoires et de la mer du Pas-de-Calais ;
+
+- fermeture des points d'appui de Pléneuf-Val-André et de Broons et réorganisation des unités territoriales de Loudéac et de Rostrenen de la direction départementale des territoires et de la mer des Côtes-d'Armor ;
+
+- fermeture de l'agence territoriale du Stéphanois, basée à Saint-Chamond, de la direction départementale des territoires de la Loire ;
+
+- fermeture des subdivisions territoriales de Libourne, Langon, Saint-André-de-Cubzac, Lesparre, Arcachon et "Aire bordelaise" de la direction départementale des territoires et de la mer de Gironde ;
+
+- fermeture du site de La Chapelle-sur-Erdre de la direction départementale de la protection des populations de Loire-Atlantique ;
+
+- fermeture des implantations territoriales de Saint-Junien et de Bellac de la direction départementale des territoires de la Haute-Vienne.
