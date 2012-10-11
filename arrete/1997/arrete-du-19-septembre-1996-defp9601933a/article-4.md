@@ -12,24 +12,32 @@ La commission des rentes chargée d'examiner les dossiers des personnels relevan
 
 - un représentant de la marine ;
 
-- deux représentants de la direction générale de l'armement.
+- deux représentants de la direction générale de l'armement ;
 
 Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant ;
 
-- huit représentants du personnel et huit suppléants désignés par les organisations syndicales :
+- huit représentants du personnel et huit suppléants librement désignés par les organisations syndicales selon le nombre de sièges auxquels elles ont droit. Ce nombre est arrêté proportionnellement à l'ensemble des voix obtenues :
 
-- Fédération nationale des travailleurs de l'Etat CGT (FNTE-CGT) (2 sièges) ;
+a) Lors des élections aux commissions d'avancement des ouvriers de l'Etat du ministère de la défense et de celles organisées à ce titre pour les ouvriers de l'Etat exerçant leurs fonctions hors du ministère de la défense et qui relèvent de celui-ci en matière d'accident du travail et de maladie professionnelle ;
 
-- fédération syndicale Force ouvrière de la défense, des industries de l'armement et des secteurs assimilés (FO défense) (2 sièges) ;
+b) Lors des élections de la commission consultative paritaire d'avancement et de discipline des agents non titulaires du ministère de la défense (CCPAD) et de la commission consultative paritaire des agents non titulaires du ministère de la défense (CCPMD).
 
-- Fédération des établissements et arsenaux de l'Etat (FEAE-CFDT) (2 sièges) ;
+Les sièges obtenus sont répartis à la représentation proportionnelle à la plus forte moyenne de la façon suivante :
 
-- Union nationale des syndicats autonomes/défense (UNSA/défense) (1 siège) ;
+a) Fédération nationale des travailleurs de l'Etat CGT (FNTE/ CGT) (3 sièges) ;
 
-- fédération ministérielle CFTC du personnel du ministère de la défense et des établissements et structures connexes (1 siège) ;
+b) Fédération syndicale Force ouvrière de la défense, des industries de l'armement et des secteurs assimilés (FO Défense) (2 sièges) ;
 
-- un médecin-conseil auprès de la direction des ressources humaines du ministère de la défense, sous-direction des pensions, bureau des invalidités, accidents du travail et maladies professionnelles, expert technique sans voix délibérative ;
+c) Fédération des établissements et arsenaux de l'Etat (FEAE-CFDT) (2 sièges) ;
 
-- un fonctionnaire de catégorie A de la direction des ressources humaines du ministère de la défense, sous-direction des pensions, bureau des invalidités, accidents du travail et maladies professionnelles, rapporteur sans voix délibérative, qui assure le secrétariat de la commission.
+d) Union nationale des syndicats autonomes/ Défense (UNSA/ DEFENSE) (1 siège) ;
 
-La durée du mandat des représentants est fixée à deux ans. Ce mandat est renouvelable par tacite reconduction.
+- un médecin-conseil auprès de la direction des ressources humaines du ministère de la défense, sous-direction des pensions, expert technique sans voix délibérative ;
+
+- un fonctionnaire de catégorie A de la direction des ressources humaines du ministère de la défense, sous-direction des pensions, rapporteur sans voix délibérative, qui assure le secrétariat de la commission.
+
+La durée du mandat des représentants est fixée à une durée équivalente à celle des représentants du personnel siégeant aux commissions visées aux dixième et onzième alinéas du présent article.
+
+Les noms des représentants du personnel titulaires et suppléants sont communiqués au ministère de la défense dans un délai d'un mois à compter de la publication du présent arrêté.
+
+Lorsqu'il est mis fin au mandat d'un représentant du personnel, sur demande écrite de l'organisation syndicale qui l'a désigné, il est remplacé par un représentant du personnel désigné dans les mêmes conditions.
