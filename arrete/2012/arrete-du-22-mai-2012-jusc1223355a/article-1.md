@@ -42,11 +42,9 @@ h) Attestation sur l'honneur de l'hébergeant indiquant que le déclarant résid
 
 2.1. Un des documents d'identification suivants :
 
-a) Extrait K bis original du registre du commerce de moins de trois mois ;
+a) Pour les personnes physiques ayant la qualité de commerçant assujetties à une immatriculation au registre du commerce et des sociétés : extrait K bis original du registre du commerce et des sociétés de moins de trois mois ;
 
-b) Certificat d'entreprise délivré par l'INSEE et comportant les numéros d'identification ;
-
-c) Carte d'identification d'entreprise délivrée par la chambre des métiers.
+b) Pour les autres entreprises : carte d'identification d'entreprise délivrée par la chambre des métiers ou, à défaut, certificat d'entreprise délivré par l'INSEE et comportant les numéros d'identification.
 
 2.2. L'original ou la copie de l'un des justificatifs de l'adresse d'établissement de l'entreprise suivants :
 
@@ -56,17 +54,13 @@ b) Quittance de loyer de moins de trois mois ;
 
 c) Facture de gaz, d'électricité, de téléphone ligne fixe de moins de trois mois.
 
-3. Pour une personne morale de droit privé :
+3. Pour une personne morale de droit privé ou un établissement public français à caractère industriel et commercial :
 
 3.1. Un des documents d'identification suivants :
 
-a) Extrait K bis ou L bis original du registre du commerce de moins de trois mois ;
+a) Pour les personnes immatriculées au registre du commerce et des sociétés : extrait K bis ou L bis original du registre du commerce et des sociétés de moins de trois mois ;
 
-b) Extrait original d'immatriculation au répertoire des métiers de moins de trois mois ;
-
-c) Journal d'annonces légales datant de moins de deux ans mentionnant le nom du représentant légal et l'adresse du siège de la personne morale ;
-
-d) Les statuts ou toutes autres pièces justificatives attestant de l'existence légale de la personne morale et faisant apparaître le nom de son représentant légal, l'adresse de son siège ainsi que la preuve de la déclaration auprès des organismes compétents.
+b) Pour les autres personnes morales : extrait original d'immatriculation au répertoire des métiers de moins de trois mois ou journal d'annonces légales datant de moins de deux ans mentionnant le nom du représentant légal et l'adresse du siège de la personne morale ou statuts ou toutes autres pièces justificatives attestant de l'existence légale de la personne morale et faisant apparaître le nom de son représentant légal, l'adresse de son siège ainsi que la preuve de la déclaration auprès des organismes compétents.
 
 3.2. L'original ou la copie de l'un des justificatifs de l'adresse du siège de la personne morale suivants :
 
@@ -80,7 +74,7 @@ c) Facture de gaz, d'électricité, de téléphone ligne fixe de moins de trois 
 
 3.4. Un document émanant du représentant légal ou de l'organe compétent attestant de la capacité de l'auteur de la déclaration à engager la personne morale.
 
-4. Pour une personne morale de droit public autre que l'Etat et les collectivités territoriales :
+4. Pour une personne morale de droit public autre que l'Etat, les collectivités territoriales et les établissements publics français à caractère industriel et commercial :
 
 4.1. Les statuts établis par la loi, le règlement ou les délibérations et conventions constitutives.
 
