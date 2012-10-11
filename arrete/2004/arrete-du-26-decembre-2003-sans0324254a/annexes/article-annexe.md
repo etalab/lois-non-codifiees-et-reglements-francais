@@ -284,7 +284,7 @@ Lors de son affiliation au régime d'assurance invalidité-décès, l'adhérent 
 
 Le ou les bénéficiaires désignés du capital décès peuvent faire l'objet, à tout moment, d'une modification par l'adhérent, par un avis écrit adressé à la caisse en lettre recommandée avec accusé de réception.
 
-Lorsqu'aucune désignation de bénéficiaire n'a été expressément notifiée à la caisse par l'adhérent, le capital décès est versé, par priorité et par ordre, au conjoint survivant non séparé de corps en vertu d'un jugement ou d'un arrêt définitif, aux descendants (enfant naturel, légitime ou adopté), aux ascendants, à défaut, entre les mains du notaire chargé du règlement de la succession. Lorsque plusieurs bénéficiaires ont le même rang de priorité, le capital décès est réparti en parts égales entre chacun d'eux.
+Lorsqu'aucune désignation de bénéficiaire n'a été expressément notifiée à la caisse par l'adhérent, le capital décès est versé, par priorité et par ordre, au conjoint survivant non séparé de corps en vertu d'un jugement ou d'un arrêt définitif, au partenaire pacsé, aux descendants (enfant naturel, légitime ou adopté), aux ascendants, à défaut, entre les mains du notaire chargé du règlement de la succession. Lorsque plusieurs bénéficiaires ont le même rang de priorité, le capital décès est réparti en parts égales entre chacun d'eux.
 
 Le capital décès est versé sur remise des pièces nécessaires par le bénéficiaire, et sous réserve de demande formulée par la caisse de tous justificatifs complémentaires, qui comprennent notamment :
 
@@ -314,9 +314,9 @@ Article 23
 
 Montant du capital décès
 
-Le capital décès est égal à 25 % de la base mentionnée à l'article 22 des présents statuts et porté à 50 % de cette même base si les bénéficiaires sont le conjoint non séparé de corps en vertu d'un jugement ou d'un arrêt définitif et/ ou les descendants (enfant légitime, naturel ou adopté).
+Le capital décès est égal à 25 % de la base mentionnée à l'article 22 des présents statuts et porté à 50 % de cette même base si les bénéficiaires sont le conjoint non séparé de corps en vertu d'un jugement ou d'un arrêt définitif, le partenaire pacsé, et/ ou les descendants (enfant légitime, naturel ou adopté).
 
-En présence de plusieurs bénéficiaires désignés ayant droit chacun à un capital décès calculé sur une base différente, le montant du capital décès est égal à 25 % de la base mentionnée à l'article 22 des présents statuts. Ce montant est doublé pour le conjoint désigné non séparé de corps en vertu d'un jugement ou d'un arrêt définitif et/ ou le (s) descendant (s) désigné (s) (enfant légitime, naturel ou adopté).
+En présence de plusieurs bénéficiaires désignés ayant droit chacun à un capital décès calculé sur une base différente, le montant du capital décès est égal à 25 % de la base mentionnée à l'article 22 des présents statuts. Ce montant est doublé pour le conjoint désigné non séparé de corps en vertu d'un jugement ou d'un arrêt définitif, le partenaire pacsé, et/ ou le (s) descendant (s) désigné (s) (enfant légitime, naturel ou adopté).
 
 Article 24
 

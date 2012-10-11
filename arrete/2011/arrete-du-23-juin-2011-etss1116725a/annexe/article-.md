@@ -134,7 +134,7 @@ Acquisition de points de retraite
 
 Le versement de la cotisation donne lieu à l'inscription au compte de droits de l'adhérent d'un nombre de points de retraite P, donné par la formule :
 
-P = CA/CR dans laquelle :
+P = CA/ CR dans laquelle :
 
 ― CA désigne le montant de la cotisation génératrice de droits tel que définie à l'article 4 ;
 
@@ -262,7 +262,7 @@ Article 19
 
 Majoration pour enfant handicapé à charge
 
-Le nombre des points de retraite acquis dans le présent régime est majoré de 5 % au profit de l'adhérent qui, à la date de demande de liquidation de sa pension de retraite complémentaire, déclare fiscalement à sa charge un enfant ouvrant droit, en vertu des premier et deuxième alinéas de l'article L. 541-1 du code de la sécurité sociale, à l'allocation d'éducation de l'enfant handicapé et à son complément ou, en lieu et place de ce dernier, de la prestation de compensation prévue par l'article L. 245-1 du code de l'action sociale et des familles.
+Le nombre des points de retraite acquis dans le présent régime est majoré de 5 % au profit de l'adhérent qui, à la date de demande de liquidation de sa pension de retraite complémentaire, déclare fiscalement à sa charge un enfant ouvrant droit, en vertu des premier et deuxième alinéas de l'article L. 541-1 du code de la sécurité sociale, à l'allocation d'éducation de l'enfant handicapé et à son complément ou, en lieu et place de ce dernier, de la prestation de compensation prévue par l'article L. 245-1 du code de l'action sociale et des familles, soit à l'allocation aux adultes handicapés prévue à l'article L. 821-1 du code de la sécurité sociale.
 
 La majoration s'applique pour chaque enfant répondant aux conditions prévues au premier alinéa du présent article.
 

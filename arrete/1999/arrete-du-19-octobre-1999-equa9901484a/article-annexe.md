@@ -3930,6 +3930,603 @@ Le nombre 12 signifie que, au cours de la tranche horaire correspondante, au plu
 
 Le nombre 12,5 signifie que, au cours de la tranche horaire correspondante, au plus 13 mouvements peuvent être acceptés deux périodes de 10 minutes, 12 mouvements pendant les quatre autres périodes, sous réserve du respect de la contrainte horaire correspondante.
 
+A compter de la saison aéronautique d'été 2013 :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>HEURES LOCALES <br/>
+</th>
+<th>
+<br/>ARRIVÉES <p>par dix minutes <br/>
+</p>
+</th>
+<th>
+<br/>ARRIVÉES <p>par heure <br/>
+</p>
+</th>
+<th>
+<br/>DÉPARTS <p>par dix minutes <br/>
+</p>
+</th>
+<th>
+<br/>DÉPARTS <p>par heure <br/>
+</p>
+</th>
+<th>
+<br/>TOTAL <p>arrivées </p>
+<p>+ départs </p>
+<p>par heure <br/>
+</p>
+</th>
+<th>
+<br/>HEURES LOCALES <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>0 heure à 0 heure 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>0 heure à 0 heure 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 heure à 1 heure 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>1 heures à 1 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 heures à 2 heures 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>2 heures à 2 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3 heures à 3 heures 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>3 heures à 3 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4 heures à 4 heures 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>4 heures à 4 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5 heures à 5 heures 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>5 heures à 5 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6 heures à 6 heures 59 <br/>
+</td>
+<td align="center">
+<br/>10 * <br/>
+</td>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>38 <br/>
+</td>
+<td align="center">
+<br/>67 <br/>
+</td>
+<td align="center">
+<br/>6 heures à 6 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 heures à 7 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+<td align="center">
+<br/>48 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>66 <br/>
+</td>
+<td align="center">
+<br/>103 <br/>
+</td>
+<td align="center">
+<br/>7 heures à 7 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 heures à 8 heures 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>106 <br/>
+</td>
+<td align="center">
+<br/>8 heures à 8 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9 heures à 9 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>12,5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>116 <br/>
+</td>
+<td align="center">
+<br/>9 heures à 9 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10 heure à 10 heure 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>67 <br/>
+</td>
+<td align="center">
+<br/>111 <br/>
+</td>
+<td align="center">
+<br/>10 heure à 10 heure 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>11 heures à 11 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>111 <br/>
+</td>
+<td align="center">
+<br/>11 heures à 11 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>12 heures à 12 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>54 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>109 <br/>
+</td>
+<td align="center">
+<br/>12 heures à 12 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>13 heures à 13 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>54 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>67 <br/>
+</td>
+<td align="center">
+<br/>106 <br/>
+</td>
+<td align="center">
+<br/>13 heures à 13 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14 heures à 14 heures 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>57 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>105 <br/>
+</td>
+<td align="center">
+<br/>14 heures à 14 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15 heures à 15 heures 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>65 <br/>
+</td>
+<td align="center">
+<br/>108 <br/>
+</td>
+<td align="center">
+<br/>15 heures à 15 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>16 heures à 16 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>107 <br/>
+</td>
+<td align="center">
+<br/>16 heures à 16 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>17 heures à 17 heures 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>61 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>107 <br/>
+</td>
+<td align="center">
+<br/>17 heures à 17 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>18 heures à 18 heures 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>111 <br/>
+</td>
+<td align="center">
+<br/>18 heures à 18 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>19 heures à 19 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>109 <br/>
+</td>
+<td align="center">
+<br/>19 heures à 19 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>20 heure à 20 heure 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>64 <br/>
+</td>
+<td align="center">
+<br/>108 <br/>
+</td>
+<td align="center">
+<br/>20 heure à 20 heure 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>21 heures à 21 heures 59 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>97 <br/>
+</td>
+<td align="center">
+<br/>21 heures à 21 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>22 heures à 22 heures 59 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>44 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>78 <br/>
+</td>
+<td align="center">
+<br/>22 heures à 22 heures 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23 heures à 23 heures 59 <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>23 heures à 23 heures 59 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Le nombre 10 * signifie que, au cours de la tranche horaire correspondante, onze mouvements au plus peuvent être acceptés sur une période de dix minutes, dix mouvements pendant les cinq autres périodes de dix minutes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 11,5 signifie que, au cours de la tranche horaire correspondante, douze mouvements au plus peuvent être acceptés pendant trois périodes de dix minutes, onze mouvements pendant les trois autres périodes de dix minutes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 12 signifie que, au cours de la tranche horaire correspondante, treize mouvements au plus peuvent être acceptés pendant une période de dix minutes, douze mouvements pendant les cinq autres périodes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 12,5 signifie que, au cours de la tranche horaire correspondante, treize mouvements au plus peuvent être acceptés pendant deux périodes de dix minutes, douze mouvements pendant les quatre autres périodes, sous réserve du respect de la contrainte horaire correspondante.
+
 2. Capacité des terminaux
 
 A compter de la saison aéronautique d'été 2008 :
@@ -4184,6 +4781,55 @@ A compter de la saison aéronautique d'été 2008 :
 <td align="center">
 <br/>1 000<br/>
 </td>
+</tr>
+</tbody>
+</table>
+
+A compter de la saison aéronautique d'été 2013 :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>TERMINAL</th>
+<th>
+<br/>FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DÉPART</th>
+</tr>
+<tr>
+<td align="center">
+<br/>1</td>
+<td align="center">
+<br/>1 950</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 A</td>
+<td align="center">
+<br/>900</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 B</td>
+<td align="center">
+<br/>1 200</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 C</td>
+<td align="center">
+<br/>900</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 G</td>
+<td align="center">
+<br/>500</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3</td>
+<td align="center">
+<br/>1 000</td>
 </tr>
 </tbody>
 </table>
