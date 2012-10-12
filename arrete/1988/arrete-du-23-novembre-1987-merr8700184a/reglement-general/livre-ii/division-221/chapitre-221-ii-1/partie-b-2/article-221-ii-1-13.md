@@ -30,7 +30,7 @@ Ouvertures au-dessous du pont de cloisonnement dans les cloisons étanches à l'
 
 .2.1) étudier tout particulièrement la résistance de la porte et de ses dispositifs de fermeture afin d'éviter toute fuite ; et
 
-.2.2) la porte doit être située à l'intérieur de la zone d'avarie B/5 ;
+.2.2) la porte doit être située en dehors de la zone d'avarie B/5, vers l'intérieur du navire ;
 
 .3 doit être dotée du matériel nécessaire pour utiliser l'énergie électrique, l'énergie hydraulique ou toute autre source d'énergie qui peut être acceptée par l'Administration, aux fins d'ouverture et de fermeture ;
 
