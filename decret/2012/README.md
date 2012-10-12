@@ -237,6 +237,8 @@
 - [Décret n°91-1037 du 8 octobre 1991 (INDA9100585D)](decret-n91-1037-du-8-octobre-1991-inda9100585d)
 - [Décret n°2009-646 du 9 juin 2009 (ESRS0908564D)](decret-n2009-646-du-9-juin-2009-esrs0908564d)
 - [Décret n°2011-1467 du 9 novembre 2011 (DEFD1115062D)](decret-n2011-1467-du-9-novembre-2011-defd1115062d)
+- [Décret n°2012-1138 du 9 octobre 2012 (AFSH1226888D)](decret-n2012-1138-du-9-octobre-2012-afsh1226888d)
+- [Décret n°2012-1140 du 9 octobre 2012 (AGRS1135400D)](decret-n2012-1140-du-9-octobre-2012-agrs1135400d)
 - [Décret n°2012-196 du 9 février 2012 (ETSD1200315D)](decret-n2012-196-du-9-fevrier-2012-etsd1200315d)
 - [Décret n°2012-198 du 9 février 2012 (AGRG1133482D)](decret-n2012-198-du-9-fevrier-2012-agrg1133482d)
 - [Décret n°2012-31 du 9 janvier 2012 (MENH1134712D)](decret-n2012-31-du-9-janvier-2012-menh1134712d)
