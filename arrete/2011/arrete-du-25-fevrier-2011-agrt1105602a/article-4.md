@@ -32,11 +32,15 @@ Le dossier complet doit au moins comporter les éléments suivants :
 
 ― pièces justificatives des dépenses prévisionnelles (devis, attestations, fiches de paie antérieures ou tous autres documents probants) ; ces pièces doivent être datées, comporter l'indication de l'organisme qui les a établies et permettre d'apprécier le montant de la dépense envisagée ;
 
-― pour les maîtres d'ouvrage qui ne sont pas de droit public et qui présentent des dépenses toutes taxes comprises : document relatif à la situation du demandeur au regard de la TVA (assujettissement ou non/récupération ou non de la TVA) ;
+― pour les maîtres d'ouvrage qui ne sont pas de droit public et qui présentent des dépenses toutes taxes comprises : document relatif à la situation du demandeur au regard de la TVA (assujettissement ou non/ récupération ou non de la TVA) ;
 
 ― relevé d'identité bancaire ou postal (ou copie lisible) ;
 
+― pour les dispositifs auxquels le décret n° 99-1060 du 16 décembre 1999 relatif aux subventions de l'Etat pour des projets d'investissement est applicable : déclaration sur l'honneur concernant la régularité des situations sociale et fiscale du porteur de projet, à l'exclusion des personnes mentionnées à l'article 207 (6°), du code général des impôts. Les porteurs de projets assujettis au régime de protection sociale des non-salariés agricoles sont dispensés de produire une déclaration sur l'honneur relative à leur situation au regard des cotisations sociales ;
+
 ― le cas échéant, les autres pièces techniques ou administratives particulières requises dans les textes spécifiques à chaque mesure ou dispositif ou toute autre pièce requise dans le cadre d'un texte de portée nationale lorsque les conditions d'application de ce dernier sont réunies.
+
+La vérification du respect de la régularité de la situation sociale des porteurs de projets assujettis au régime de protection sociale des non-salariés agricoles se fera sur la base de leur situation sociale au 1er janvier de l'année du dépôt de la demande d'aide. Pour apprécier la régularité de la situation fiscale du porteur de projet, les taxes sur salaires, les taxes d'habitation et les taxes foncières ne sont pas prises en considération.
 
 Au-delà du contenu du dossier complet, le service en charge de l'instruction peut demander des pièces complémentaires à celles figurant dans la liste du formulaire de demande, s'il les juge utiles à l'instruction du dossier.
 
