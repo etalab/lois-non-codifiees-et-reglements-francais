@@ -16,6 +16,6 @@ I.-L'avis de recrutement indique :
 
 II.-L'avis de recrutement est affiché, quinze jours au moins avant la date limite de dépôt des candidatures, dans les locaux de l'établissement organisant le recrutement.
 
-Cet avis peut en outre être affiché dans les agences locales pour l'emploi de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le ou les départements concernés.
+Cet avis peut en outre être affiché dans les agences locales pour l'emploi de Pôle emploi situées dans le ou les départements concernés.
 
 III.-L'avis de recrutement est en outre publié, dans le même délai, sur les services de communication publique en ligne du ministre chargé de l'agriculture et celui de l'établissement organisant le recrutement ainsi que dans un journal local.
