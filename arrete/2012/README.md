@@ -1953,7 +1953,6 @@
 - [Arrêté du 25 janvier 2012 (BCRB1201736A)](arrete-du-25-janvier-2012-bcrb1201736a)
 - [Arrêté du 25 janvier 2012 (BCRB1201934A)](arrete-du-25-janvier-2012-bcrb1201934a)
 - [Arrêté du 25 janvier 2012 (ETSP1202524A)](arrete-du-25-janvier-2012-etsp1202524a)
-- [Arrêté du 25 janvier 2012 (INDI1135426A)](arrete-du-25-janvier-2012-indi1135426a)
 - [Arrêté du 25 janvier 2012 (SPOF1202389A)](arrete-du-25-janvier-2012-spof1202389a)
 - [Arrêté du 25 janvier 2012 (TRAA1132958A)](arrete-du-25-janvier-2012-traa1132958a)
 - [Arrêté du 25 juillet 2012 (AFSZ1230684A)](arrete-du-25-juillet-2012-afsz1230684a)
