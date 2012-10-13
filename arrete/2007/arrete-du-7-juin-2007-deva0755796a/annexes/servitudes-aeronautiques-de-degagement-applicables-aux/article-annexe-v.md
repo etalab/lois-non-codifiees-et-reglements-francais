@@ -25,153 +25,114 @@ L'aire de protection est appelée OCS (Obstacle Clearance Surface) ou surface d�
 <table>
 <tbody>
 <tr>
-<td rowspan="2" valign="top" width="152"/>
-<td colspan="5" width="312">
-<p align="center">Piste exploitée à vue</p>
+<td rowspan="2" valign="top" width="197"/>
+<td colspan="3" width="219">
+<p align="center">PISTE EXPLOITÉE À VUE</p>
 </td>
-<td colspan="2" width="179">
-<p align="center">Piste exploitée aux instruments</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="174">
-<p align="center">Approche à vue de jour</p>
-</td>
-<td colspan="2" width="137">
-<p align="center">Approche à vue de nuit</p>
-</td>
-<td colspan="2" width="179">
-<p align="center">Approche classique et Approche de précision</p>
+<td colspan="2" width="265">
+<p align="center">PISTE EXPLOITÉE AUX INSTRUMENTS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>Chiffre de code de la piste</p>
+<td colspan="3" width="219">
+<p align="center">Approche à vue</p>
+</td>
+<td colspan="2" width="265">
+<p align="center">Approche classique (a)<br clear="none"/>et approche de précision</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="197">
+<p>Chiffre de code de la piste </p>
 </td>
 <td width="61">
 <p align="center">1</p>
 </td>
-<td width="53">
+<td width="77">
 <p align="center">2</p>
 </td>
-<td width="61">
+<td width="80">
 <p align="center">3 et 4</p>
 </td>
-<td width="56">
+<td width="136">
 <p align="center">1 et 2</p>
 </td>
-<td width="81">
-<p align="center">3 et 4</p>
-</td>
-<td width="85">
-<p align="center">1 et 2</p>
-</td>
-<td width="94">
+<td width="128">
 <p align="center">3 et 4</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>largeur à l'origine </p>
+<td valign="top" width="197">
+<p>Largeur à l'origine </p>
 </td>
 <td width="61">
 <p align="center">60 m</p>
 </td>
-<td width="53">
+<td width="77">
 <p align="center">80 m</p>
 </td>
-<td width="61">
+<td width="80">
 <p align="center">150 m</p>
 </td>
-<td width="56">
+<td width="136">
 <p align="center">150 m</p>
 </td>
-<td width="81">
-<p align="center">300 m</p>
-</td>
-<td width="85">
-<p align="center">150 m</p>
-</td>
-<td width="94">
+<td width="128">
 <p align="center">300 m</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>distance au seuil</p>
+<td valign="top" width="197">
+<p>Distance au seuil </p>
 </td>
 <td width="61">
-<p align="center">30 m</p>
+<p align="center">30 m (b)</p>
 </td>
-<td width="53">
+<td width="77">
+<p align="center">60 m (b)</p>
+</td>
+<td width="80">
 <p align="center">60 m</p>
 </td>
-<td width="61">
+<td width="136">
 <p align="center">60 m</p>
 </td>
-<td width="56">
-<p align="center">60 m</p>
-</td>
-<td width="81">
-<p align="center">60 m</p>
-</td>
-<td width="85">
-<p align="center">60 m</p>
-</td>
-<td width="94">
+<td width="128">
 <p align="center">60 m</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>divergence</p>
+<td valign="top" width="197">
+<p>Divergence </p>
 </td>
 <td width="61">
 <p align="center">10 %</p>
 </td>
-<td width="53">
+<td width="77">
 <p align="center">10 %</p>
 </td>
-<td width="61">
+<td width="80">
 <p align="center">10 %</p>
 </td>
-<td width="56">
+<td width="136">
 <p align="center">15 %</p>
 </td>
-<td width="81">
-<p align="center">15 %</p>
-</td>
-<td width="85">
-<p align="center">15 %</p>
-</td>
-<td width="94">
+<td width="128">
 <p align="center">15 %</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>longueur totale</p>
+<td valign="top" width="197">
+<p>Longueur totale </p>
 </td>
-<td width="61">
-<p align="center">7 500 m</p>
+<td colspan="5" width="484">
+<p align="center">Longueur de la section rectiligne de la ou des trouées d'atterrissage associées</p>
 </td>
-<td width="53">
-<p align="center">7500 m</p>
-</td>
-<td width="61">
-<p align="center">15 000 m</p>
-</td>
-<td width="56">
-<p align="center">7 500 m</p>
-</td>
-<td width="81">
-<p align="center">15 000 m</p>
-</td>
-<td width="85">
-<p align="center">7 500 m</p>
-</td>
-<td width="94">
-<p align="center">15 000 m</p>
+</tr>
+<tr>
+<td colspan="6" width="680">
+<p>(a) Toutefois, dans le cas d'une piste utilisée en conditions de vol aux instruments avec approche suivie de manœuvre à vue imposée (VPT - Visual pattern with prescribed tracks) et/ ou de manœuvre à vue libre (MVL), ou dans le cas d'une piste utilisée en conditions de vol aux instruments avec approche directe dotée, pour chaque catégorie d'aéronef concernée, d'une altitude de descente minimum (MDA) supérieure à la valeur minimale prescrite pour les manœuvres à vue (VPT/ MVL) et d'une portée visuelle de piste (RVR) requise supérieure à la valeur minimale de visibilité prescrite pour les manœuvres à vue (VPT/ MVL), les surfaces à prendre en compte peuvent être celles spécifiées pour les pistes exploitées à vue.</p>
+<p>(b) Distance nulle pour les pistes non revêtues.</p>
 </td>
 </tr>
 </tbody>
@@ -188,3 +149,74 @@ Si di est la distance, mesurée en projection orthogonale sur l'axe de piste, s�
 (Figure non reproduite, consulter le fac-similé de l'arrêté du 7 juin 2007, JORF du 27 octobre 2007).
 
 L'angle d'inclinaison q0 de l'OCS détermine également le calage angulaire du dispositif PAPI. En effet, le calage angulaire A de l'élément lumineux du PAPI signalant la partie la plus basse de la pente de guidage de l'approche suit la relation : A = q0 + 0,57°.
+
+3. Surface de protection contre les obstacles des indicateurs visuels de pente d'approche des infrastructures à usage exclusif des hélicoptères
+
+Une surface de protection contre les obstacles est associée à l'installation de l'indicateur de trajectoire d'approche pour hélicoptère (HAPI).
+
+La pente de la surface de protection contre les obstacles est déterminée de façon à garantir une marge de franchissement d'obstacle suffisante au-dessus de tous les obstacles situés dans l'aire de protection.
+
+Les caractéristiques de la surface de protection contre les obstacles sont celles spécifiées dans le tableau 1 de la présente annexe.
+
+La figure 1 de la présente annexe donne une représentation de la surface de protection contre les obstacles.
+
+Tableau 1. - Dimensions et pente de la surface de protection contre les obstacles associée à l'indicateur de trajectoire d'approche pour hélicoptère
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p align="center">CARACTÉRISTIQUES DE LA SURFACE</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Emplacement du bord intérieur</p>
+</td>
+<td align="center">
+<p>Bord extérieur du rectangle circonscrit à l'aire de sécurité</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Largeur du bord intérieur</p>
+</td>
+<td align="center">
+<p>Largeur minimale spécifiée de l'aire d'approche finale et de décollage plus l'aire de sécurité</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Divergence</p>
+</td>
+<td align="center">
+<p>10 %</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Longueur</p>
+</td>
+<td align="center">
+<p>2 500 m</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Pente</p>
+</td>
+<td align="center">
+<p>Egale à A - 0,65°</p>
+<p>A est l'angle de la limite supérieure du secteur du signal "trop bas" de l'indicateur</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Figure 1. - Représentation de la surface de protection contre les obstacles associée
+
+à l'indicateur de trajectoire d'approche pour hélicoptère
+
+(Figure non reproduite, vous pouvez la consulter à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20121012&numTexte=23&pageDebut=15947&pageFin=15956)

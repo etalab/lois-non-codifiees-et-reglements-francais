@@ -16,7 +16,7 @@ Les surfaces utilisées pour les servitudes aéronautiques de dégagement associ
 
 - une surface conique ;
 
-- la surface délimitée par le ou les bords intérieurs de la ou des trouées d'atterrissage et par les lignes d'appui des surfaces latérales.
+- la surface délimitée par le périmètre d'appui, qui est le périmètre de la plus petite surface au sol contenant l'ensemble des bords intérieurs des trouées de décollage et d'atterrissage et des lignes d'appui des surfaces latérales et incluant les éventuels raccords rectilignes .
 
 Pour les pistes d'aérodrome conçues pour recevoir des aéronefs à voilure fixe et destinées à être exploitées en approche de précision, les surfaces précédentes sont complétées par celles dites "OFZ" (Obstacle Free Zone) constituées par :
 
@@ -38,11 +38,9 @@ La trouée d'atterrissage est délimitée par :
 
 - son bord extérieur parallèle au bord intérieur et distant horizontalement de celui-ci de la longueur totale de la trouée.
 
-Lorsque la trouée nécessite plusieurs sections, la dernière est horizontale, sa cote altimétrique étant la plus élevée des deux valeurs suivantes :
+Lorsque la trouée nécessite plusieurs sections, la dernière est horizontale, sa cote altimétrique étant :
 
-- la cote altimétrique du bord intérieur augmentée de 150 mètres ;
-
-- la cote altimétrique augmentée de 100 mètres du point le plus haut du terrain naturel et des obstacles qu'il supporte sous la trouée d'atterrissage.
+- la cote altimétrique du bord intérieur augmentée de 150 mètres.
 
 La première section a pour pente et pour longueur les valeurs données par le tableau ci-après suivant le chiffre de code et le mode d'exploitation.
 
@@ -451,7 +449,7 @@ La trouée de décollage est délimitée par :
 
 (d) La longueur minimale devant permettre la protection jusqu'à une hauteur de 300 mètres au-dessus de la cote d'origine de la trouée, une longueur plus faible peut être adoptée si elle est compatible avec les procédures dont dépend la trajectoire des aéronefs à voilure fixe.
 
-Lorsqu'une trouée courbe est prévue, l'axe de cette trouée est une courbe située à l'aplomb de la trajectoire déterminée pour les aéronefs et possédant la même pente que celle indiquée précédemment pour une trouée plane. La surface de la trouée est alors une surface réglée engendrée par une génératrice horizontale suivant cet axe en lui restant perpendiculaire.
+Lorsqu'une trouée courbe est prévue, l'axe de cette trouée est une courbe située à l'aplomb de la trajectoire déterminée pour les aéronefs et possédant la même pente que celle indiquée précédemment pour une trouée droite. La surface de la trouée est alors une surface réglée engendrée par une génératrice horizontale suivant cet axe en lui restant perpendiculaire.
 
 Le tracé des limites latérales d'une telle trouée est effectué sur le même principe jusqu'à ce que l'on obtienne la largeur finale indiquée par le tableau ci-dessus, la valeur de 1 200 mètres correspondant au chiffre de code 3 ou 4, étant toutefois portée à 1 800 mètres lorsque la trajectoire prévue comporte un changement de cap de plus de 15°. Cette largeur maximale étant atteinte, les limites latérales restent parallèles à l'axe de la trouée jusqu'à son extrémité.
 
@@ -562,7 +560,7 @@ Chaque surface latérale est développée par une génératrice conservant, dans
 
 Limitée vers le bas par la ligne d'appui suivie par sa génératrice, chaque surface latérale l'est vers le haut par son intersection avec le plan de la surface horizontale intérieure.
 
-Les deux surfaces latérales associées à un seuil se prolongent au-delà de celui-ci, dans le sens de l'atterrissage, jusqu'à se confondre avec les surfaces latérales associées au seuil opposé. Le cas d'une piste utilisable dans un seul sens à l'atterrissage devra faire l'objet d'une étude particulière.
+Les deux surfaces latérales associées à un seuil se prolongent au-delà de celui-ci, dans le sens de l'atterrissage, jusqu'à l'extrémité de la distance d'atterrissage utilisable, définie comme la longueur de piste déclarée comme étant utilisable et convenant pour le roulement au sol d'un avion à l'atterrissage.
 
 SURFACE HORIZONTALE INTÉRIEURE
 
