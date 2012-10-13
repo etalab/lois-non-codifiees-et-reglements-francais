@@ -4,85 +4,93 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel de conducteur (trice) d'appareils de l'industrie chimique.
+Titre professionnel : conducteur (trice) d'appareils de l'industrie chimique (ancien intitulé : conducteur [trice] d'appareils de l'industrie chimique).
 
 Niveau : V.
 
-Code NSF : 222 r.
+Code NSF : 222 s.
 
 Résumé du référentiel d'emploi
 
-Le conducteur d'appareils de l'industrie chimique (CAIC) assure la conduite du cycle de fabrication de produits chimiques selon un programme défini et des consignes précises.
+Le (la) conducteur (trice) d'appareils de l'industrie chimique assure la surveillance et la conduite du cycle de fabrication de produits chimiques selon un programme défini et des consignes précises, dans le respect des normes de qualité, d'hygiène, d'environnement et de sécurité définies par l'entreprise.
 
-Pour cela, il doit :
+Pour cela, il (elle) :
 
--participer aux opérations de démarrage et d'arrêt de l'installation ;
+-participe aux opérations de préparation des fabrications, au démarrage et à l'arrêt des appareils ;
 
--lire et interpréter les indications fournies par des appareils de mesure et de contrôle ;
+-assure l'alimentation, le déplacement et l'évacuation des matières à son poste de travail ;
 
--assurer l'alimentation, le déplacement et l'évacuation des matières à son poste de travail ;
+-surveille et régule les paramètres de fabrication et le circuit de matières en fonction de consignes précises, sur des équipements qui peuvent être automatiques et informatisés ;
 
--procéder à des échantillonnages et à des analyses chimiques simples ;
+-procède à des échantillonnages et à des mesures et analyses chimiques simples, afin de vérifier la conformité des produits par rapport à un cahier des charges ;
 
--corriger la marche de l'installation pour la maintenir dans les limites des valeurs de consigne, en fonction des résultats des analyses et des mesures ;
+-corrige la marche de l'installation pour la maintenir dans les limites des valeurs de consigne ;
 
--déceler toute anomalie de fonctionnement et, en fonction de la gravité de l'anomalie, soit intervenir en effectuant les manoeuvres appropriées, soit mettre l'installation en sécurité avant intervention du service maintenance ;
+-effectue un premier diagnostic de dysfonctionnement et réalise les opérations correctives autorisées.
 
--prendre des mesures immédiates en cas d'accident ;
+Dans le cas d'anomalies d'origine matérielle, selon la gravité, il (elle) peut soit procéder au remplacement d'éléments défectueux, soit mettre l'installation en sécurité pour que le service maintenance puisse intervenir.
 
--collaborer avec un technicien ou un ingénieur de fabrication à la conduite d'une installation pilote.
+Le titulaire de l'emploi travaille de façon autonome, sous la responsabilité de son hiérarchique direct. Il lui rend compte de son activité et l'informe de tout incident.
 
-Capacités attestées et descriptif des composantes de la certification
+Sa propre responsabilité est limitée à l'application stricte des consignes et des procédures.
 
-1. Conduire une installation de l'industrie chimique
+Cependant, en cas de dysfonctionnement important, il doit être capable de prendre rapidement des initiatives (intervenir ou non sur un paramètre de réglage, arrêter en urgence un équipement...), mais toujours dans le respect strict des procédures.
 
-Surveiller les paramètres et les équipements du process sur une installation de l'industrie chimique.
+Il travaille généralement en atelier de production ou dehors, sur site.
 
-Agir sur les réglages, les transferts et les flux matières d'une installation de l'industrie chimique dans le cadre d'un mode opératoire.
+Une vigilance permanente et une réactivité à l'événement (dérive des paramètres, incidents) sont indispensables compte tenu des matières traitées (produits explosifs, corrosifs, radioactifs, toxiques, contaminants) et des techniques utilisées (utilisation du vide, d'appareillage sous pression...).
 
-Prélever des échantillons de matières selon des instructions et en vérifier certaines caractéristiques dans le cadre d'une production chimique.
+Le port d'équipements de protection individuelle est nécessaire et obligatoire.
 
-S'approprier des consignes et les appliquer dans le cadre de la conduite d'une installation chimique.
+Il doit veiller constamment à adapter ses interventions et son comportement aux exigences de sécurité (pour lui, les personnes et les biens), d'hygiène, de qualité et d'environnement.
 
-Transcrire les informations nécessaires à la traçabilité et rendre compte de son activité dans le cadre d'une production chimique.
+Il travaille le plus souvent en station debout prolongée. Certaines tâches nécessitent des déplacements en hauteur (échelles, passerelles...) et des manipulations et ports de charges.
 
-Ajuster son intervention aux exigences de qualité, de sécurité et d'environnement dans le cadre d'une production chimique.
+Il peut être amené à travailler en salle de contrôle, d'où il commande les appareils à distance.
+
+Les horaires de travail sont majoritairement de type posté ou en continu (2 × 8,3 × 8,5 × 8, etc.), plus rarement en journée.
+
+Capacités attestées et descriptif
+
+des composantes de la certification
+
+1. Conduire des équipements de production
+
+de l'industrie chimique
+
+Réaliser une production de l'industrie chimique.
+
+Contrôler les paramètres qualité des flux matière d'une production chimique.
 
 Effectuer les opérations de maintenance productive sur des équipements de l'industrie chimique.
 
-2. Préparer, démarrer et arrêter une opération de production de l'industrie chimique en respectant les consignes
+2. Préparer, démarrer et arrêter une opération de production de l'industrie chimique
 
-Veiller au bon approvisionnement des produits (quantité, qualité, disponibilité...) dans le cadre d'une production chimique.
+Préparer la mise en œuvre d'une production chimique.
 
-Organiser les différentes tâches à effectuer du début à la fin de la production (ordre, procédure, précautions) dans le cadre d'une industrie chimique.
+Démarrer et arrêter une production de l'industrie chimique.
 
-Vérifier le bon état de marche et la conformité de l'installation de production chimique et en assurer la propreté.
+Mettre en sécurité une partie d'installation de l'industrie chimique.
 
-Assurer les étapes de démarrage et d'arrêt d'une production chimique en respectant toutes les règles relatives à l'hygiène, à la sécurité et à la protection de l'environnement.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-3. Repérer et caractériser un dysfonctionnement sur une opération de l'industrie chimique et agir en conséquence
+La chimie, la chimie fine, la pétrochimie, l'agroalimentaire, la cosmétique, la pharmacie, les ciments, le verre, le textile, les peintures, les colles, les colorants, l'énergie... C'est-à-dire toute industrie mettant en jeu un process :
 
-Détecter une anomalie de fonctionnement dans une installation de l'industrie chimique.
+Opérateur de fabrication ou de production (des industries chimiques).
 
-Décrire l'anomalie de fonctionnement repérée sur une installation de l'industrie chimique et en informer sa hiérarchie.
+Agent de production (des industries chimiques).
 
-Appliquer les mesures appropriées pour remédier au dysfonctionnement constaté dans une installation de l'industrie chimique.
+Conducteur d'appareils de fabrication (des industries chimiques).
 
-Mettre en sécurité la partie de l'installation de l'industrie chimique concernée par le dysfonctionnement avant intervention des services compétents.
+Conducteur de ligne de fabrication (des industries chimiques.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Code ROME :
 
-Le CAIC peut travailler dans toute industrie de procédés : chimie, chimie fine, pétrochimie, agroalimentaire, cosmétologie, pharmacie, ciments, verre, textile, peintures, colles, énergie...
-
-L'emploi est situé en atelier de production ou sur site. Il peut également se dérouler depuis une salle de contrôle d'où le CAIC commande les appareils à distance.
+H2301-Conduite d'équipement de production chimique ou pharmaceutique.
 
 Réglementation de l'activité :
 
 Néant.
-
-Code ROME :
-
-45112-Opérateur (trice) sur appareils de transformation physique ou chimique.
 
 Autorité responsable de la certification :
 
@@ -90,6 +98,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
