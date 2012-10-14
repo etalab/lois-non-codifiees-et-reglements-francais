@@ -2394,7 +2394,6 @@
 - [Arrêté du 29 août 2012 (EFIP1224946A)](arrete-du-29-aout-2012-efip1224946a)
 - [Arrêté du 29 août 2012 (EFIZ1230627A)](arrete-du-29-aout-2012-efiz1230627a)
 - [Arrêté du 29 août 2012 (ESRH1232657A)](arrete-du-29-aout-2012-esrh1232657a)
-- [Arrêté du 29 août 2012 (MAEA1233233A)](arrete-du-29-aout-2012-maea1233233a)
 - [Arrêté du 29 août 2012 (MENH1221381A)](arrete-du-29-aout-2012-menh1221381a)
 - [Arrêté du 29 décembre 1998 (EQUA9801788A)](arrete-du-29-decembre-1998-equa9801788a)
 - [Arrêté du 29 décembre 2011 (DEVA1135281A)](arrete-du-29-decembre-2011-deva1135281a)
