@@ -6,7 +6,7 @@ Représentants de l'administration
 
 Le directeur général de l'administration et de la fonction publique, président du comité technique.
 
-Le secrétaire général de la direction générale de l'administration et de la fonction publique.
+Le chef du service du pilotage et des politiques transversales de la direction générale de l'administration et de la fonction publique.
 
 Représentants titulaires du personnel
 
