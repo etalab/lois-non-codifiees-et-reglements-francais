@@ -304,7 +304,6 @@
 - [Arrêté du 10 août 1994 (JUSA9400250A)](arrete-du-10-aout-1994-jusa9400250a)
 - [Arrêté du 10 février 1994 (SPSS9400520A)](arrete-du-10-fevrier-1994-spss9400520a)
 - [Arrêté du 10 janvier 1994 (ENVP9430010A)](arrete-du-10-janvier-1994-envp9430010a)
-- [Arrêté du 10 janvier 1994 (ENVP9430015A)](arrete-du-10-janvier-1994-envp9430015a)
 - [Arrêté du 10 janvier 1994 (EQUA9301911A)](arrete-du-10-janvier-1994-equa9301911a)
 - [Arrêté du 10 janvier 1994 (EQUA9400053A)](arrete-du-10-janvier-1994-equa9400053a)
 - [Arrêté du 10 janvier 1994 (JUSE9440005A)](arrete-du-10-janvier-1994-juse9440005a)
