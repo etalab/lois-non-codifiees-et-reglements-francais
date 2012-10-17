@@ -207,7 +207,6 @@
 - [Arrêté du 8 mars 1993 (TEFT9300292A)](arrete-du-8-mars-1993-teft9300292a)
 - [Arrêté du 8 novembre 1993 (ECOC9300168A)](arrete-du-8-novembre-1993-ecoc9300168a)
 - [Arrêté du 8 novembre 1993 (ECOC9300174A)](arrete-du-8-novembre-1993-ecoc9300174a)
-- [Arrêté du 8 octobre 1993 (BUDR9307008A)](arrete-du-8-octobre-1993-budr9307008a)
 - [Arrêté du 8 octobre 1993 (SPSS9303046A)](arrete-du-8-octobre-1993-spss9303046a)
 - [Arrêté du 8 septembre 1993 (ECOS9350024A)](arrete-du-8-septembre-1993-ecos9350024a)
 - [Arrêté du 8 septembre 1993 (LOGC9300084A)](arrete-du-8-septembre-1993-logc9300084a)
