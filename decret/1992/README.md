@@ -599,7 +599,6 @@
 - [Décret n°92-75 du 21 janvier 1992 (SANH9102643D)](decret-n92-75-du-21-janvier-1992-sanh9102643d)
 - [Décret n°92-81 du 21 janvier 1992 (SPSS9102866D)](decret-n92-81-du-21-janvier-1992-spss9102866d)
 - [Décret n°92-823 du 21 août 1992 (INTB9200329D)](decret-n92-823-du-21-aout-1992-intb9200329d)
-- [Décret n°92-824 du 21 août 1992 (INTA9200330D)](decret-n92-824-du-21-aout-1992-inta9200330d)
 - [Décret du 21 mai 1992 (ECOT9223088D)](decret-du-21-mai-1992-ecot9223088d)
 - [Décret n°92-468 du 21 mai 1992 (BUDF9210023D)](decret-n92-468-du-21-mai-1992-budf9210023d)
 - [Décret n°92-469 du 21 mai 1992 (BUDF9210050D)](decret-n92-469-du-21-mai-1992-budf9210050d)

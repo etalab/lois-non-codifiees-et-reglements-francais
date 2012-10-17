@@ -2,5 +2,6 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Dispositions particulières relatives aux secrétariats généraux pour l'administration de la police situés dans le ressort de la zone de défense de Paris.](chapitre-ii)
+- [Chapitre II bis : Dispositions particulières relatives au secrétariat général pour l'administration de la police de la zone de défense et de sécurité Sud](chapitre-ii-bis)
 - [Chapitre III : Dispositions diverses et transitoires.](chapitre-iii)
 - [Article 18](article-18.md)
