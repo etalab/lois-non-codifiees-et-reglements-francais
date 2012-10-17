@@ -374,6 +374,7 @@
 - [Décret n°2012-362 du 14 mars 2012 (ETSD1119579D)](decret-n2012-362-du-14-mars-2012-etsd1119579d)
 - [Décret n°2012-363 du 14 mars 2012 (AGRT1130535D)](decret-n2012-363-du-14-mars-2012-agrt1130535d)
 - [Décret n°2012-365 du 14 mars 2012 (VILV1134708D)](decret-n2012-365-du-14-mars-2012-vilv1134708d)
+- [Décret n°2012-1151 du 15 octobre 2012 (INTX1235060D)](decret-n2012-1151-du-15-octobre-2012-intx1235060d)
 - [Décret n°2012-213 du 15 février 2012 (JUSX1204065D)](decret-n2012-213-du-15-fevrier-2012-jusx1204065d)
 - [Décret n°2012-216 du 15 février 2012 (TRAX1204667D)](decret-n2012-216-du-15-fevrier-2012-trax1204667d)
 - [Décret n°2012-218 du 15 février 2012 (DEVK1129855D)](decret-n2012-218-du-15-fevrier-2012-devk1129855d)
