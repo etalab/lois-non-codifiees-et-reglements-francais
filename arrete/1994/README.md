@@ -813,7 +813,6 @@
 - [Arrêté du 25 mars 1994 (ECOC9400038A)](arrete-du-25-mars-1994-ecoc9400038a)
 - [Arrêté du 25 mars 1994 (EQUH9400592A)](arrete-du-25-mars-1994-equh9400592a)
 - [Arrêté du 25 novembre 1993 (TEFT9301213A)](arrete-du-25-novembre-1993-teft9301213a)
-- [Arrêté du 25 novembre 1994 (BUDR9407021A)](arrete-du-25-novembre-1994-budr9407021a)
 - [Arrêté du 25 novembre 1994 (ENVG9430400A)](arrete-du-25-novembre-1994-envg9430400a)
 - [Arrêté du 25 novembre 1994 (RESK9401781A)](arrete-du-25-novembre-1994-resk9401781a)
 - [Arrêté du 25 octobre 1993 (EQUA9301949A)](arrete-du-25-octobre-1993-equa9301949a)
