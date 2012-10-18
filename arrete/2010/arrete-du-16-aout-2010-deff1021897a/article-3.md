@@ -22,8 +22,6 @@ Les premier et second niveaux sont organisés par des autorités responsables du
 
 - la direction centrale du service des essences des armées (DCSEA) ;
 
-- la délégation à l'information et à la communication de la défense (DICOD) ;
-
 - la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (DIRISI) ;
 
 - la direction centrale du service du commissariat des armées (DCSCA) ;
