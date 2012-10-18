@@ -30,7 +30,6 @@
 - [Décret n°2005-958 du 9 août 2005 (BUDD0570011D)](decret-n2005-958-du-9-aout-2005-budd0570011d)
 - [Décret n°2005-436 du 9 mai 2005 (ECOX0400297D)](decret-n2005-436-du-9-mai-2005-ecox0400297d)
 - [Décret n°2005-118 du 10 février 2005 (SANA0520177D)](decret-n2005-118-du-10-fevrier-2005-sana0520177d)
-- [Décret n°2005-1396 du 10 novembre 2005 (MCCK0500402D)](decret-n2005-1396-du-10-novembre-2005-mcck0500402d)
 - [Décret n°2005-222 du 10 mars 2005 (JUSC0520149D)](decret-n2005-222-du-10-mars-2005-jusc0520149d)
 - [Décret n°2005-664 du 10 juin 2005 (EQUT0500955D)](decret-n2005-664-du-10-juin-2005-equt0500955d)
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
