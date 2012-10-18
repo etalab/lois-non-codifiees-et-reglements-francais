@@ -761,7 +761,6 @@
 - [Arrêté du 25 novembre 1993 (SPSS9303419A)](arrete-du-25-novembre-1993-spss9303419a)
 - [Arrêté du 25 novembre 1993 (SPSS9303420A)](arrete-du-25-novembre-1993-spss9303420a)
 - [Arrêté du 25 novembre 1993 (TEFS9301214A)](arrete-du-25-novembre-1993-tefs9301214a)
-- [Arrêté du 25 octobre 1993 (BUDL9300132A)](arrete-du-25-octobre-1993-budl9300132a)
 - [Arrêté du 25 octobre 1993 (ECOT9310192A)](arrete-du-25-octobre-1993-ecot9310192a)
 - [Arrêté du 25 octobre 1994 (SPSG9403549A)](arrete-du-25-octobre-1994-spsg9403549a)
 - [Arrêté du 25 octobre 1994 (SPSH9402299A)](arrete-du-25-octobre-1994-spsh9402299a)
