@@ -6,13 +6,9 @@ a) En ce qui concerne le corps des ingénieurs hospitaliers : pour le compte de 
 
 b) En ce qui concerne le corps des dessinateurs : par l'autorité investie du pouvoir de nomination dans l'établissement intéressé.
 
-II. - Les avis de ces concours et examens professionnels :
+II.  ― Les avis de ces concours et examens professionnels sont affichés, de  manière à être accessibles au public, dans les locaux de l'établissement  organisant ces concours, dans ceux de l'agence régionale de santé dont  ils relèvent ainsi que dans ceux de la préfecture du département dans  lequel se trouve situé l'établissement. Ils sont également publiés par  voie électronique sur le site internet de l'agence régionale de santé  concernée ainsi que sur les sites internet de l'ensemble des agences  régionales de santé.
 
-a) En ce qui concerne les corps des ingénieurs hospitaliers sont publiés au Journal officiel de la République française par le ministre chargé de la santé ;
-
-b) En ce qui concerne le corps des dessinateurs, sont affichés le même jour dans l'établissement intéressé et dans les sous-préfectures du département dans lequel se trouve situé cet établissement.
-
-Un délai d'un mois à compter de la date de la publication au Journal officiel ou de l'affichage de l'avis est imparti aux intéressés pour faire parvenir leur candidature à l'autorité qui a ouvert le concours.
+Un délai d'un mois à compter  de la date de la publication ou de l'affichage de l'avis est imparti  aux intéressés pour faire parvenir leur candidature à l'autorité qui a  ouvert le concours.
 
 III. - Des arrêtés du ministre chargé de la santé fixent la composition des jurys, les programmes, la nature des épreuves et les modalités d'organisation de ces concours et examens professionnels.
 

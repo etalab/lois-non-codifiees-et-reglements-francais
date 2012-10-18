@@ -8,7 +8,7 @@ Les recrutements font l'objet d'une publicité préalable dans les conditions su
 
 -les avis peuvent également être affichés dans les agences locales de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le département ;
 
--ces avis peuvent également être mis en ligne sur le ou les systèmes télématiques dont disposent éventuellement les services dans lesquels les emplois sont à pourvoir.
+-Ces  avis sont également publiés par voie électronique sur les sites  internet de l'ensemble des agences régionales de santé ainsi que, le cas  échéant, sur le site internet de l'établissement dans lequel les postes  sont à pourvoir et sur celui de l'agence régionale de santé dont ils  relèvent.
 
 La sélection des candidats est confiée à une commission, composée d'au moins trois membres, dont un au moins est extérieur à l'établissement dans lequel les emplois sont à pourvoir. Les membres de cette commission sont nommés par l'autorité investie du pouvoir de nomination. Dans les centres hospitaliers universitaires et les centres hospitaliers régionaux, l'autorité investie du pouvoir de nomination peut décider de constituer plusieurs commissions.
 
