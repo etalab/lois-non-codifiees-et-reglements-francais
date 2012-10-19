@@ -1,5 +1,8 @@
 # Article Annexe
 
+<div align="center">
+<br/>
+</div>
 <table>
 <tbody>
 <tr>
@@ -51,12 +54,12 @@
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Corps des secrétaires médicaux</p>
+<p align="center">Corps des assistants médico-administratifs</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Secrétaires médicales de classe supérieure</p>
+<p align="left">Assistants médico-administratifs de classe supérieure</p>
 </td>
 <td>
 <p align="center">12 %</p>
@@ -64,7 +67,7 @@
 </tr>
 <tr>
 <td>
-<p align="left">Secrétaires médicales de classe exceptionnelle </p>
+<p align="left">Assistants médico-administratifs de classe exceptionnelle </p>
 </td>
 <td>
 <p align="center">10 %</p>
@@ -76,25 +79,19 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Adjoint administratif de 1re classe</p>
-</td>
+<td>Adjoint administratif de 1re classe</td>
 <td>
 <p align="center">12 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Adjoint administratif principal de 2e classe </p>
-</td>
+<td>Adjoint administratif principal de 2e classe </td>
 <td>
 <p align="center">6 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Adjoint administratif principal de 1re classe</p>
-</td>
+<td>Adjoint administratif principal de 1re classe</td>
 <td>
 <p align="center">5 %</p>
 </td>
@@ -105,9 +102,7 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Permanencier auxiliaire de régulation médicale chef</p>
-</td>
+<td>Permanencier auxiliaire de régulation médicale chef</td>
 <td>
 <p align="center">13 %</p>
 </td>
@@ -123,17 +118,13 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Dessinateur chef de groupe </p>
-</td>
+<td>Dessinateur chef de groupe </td>
 <td>
 <p align="center">5 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Dessinateur principal</p>
-</td>
+<td>Dessinateur principal</td>
 <td>
 <p align="center">13 %</p>
 </td>
@@ -144,17 +135,13 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Conducteur ambulancier de 1re catégorie</p>
-</td>
+<td>Conducteur ambulancier de 1re catégorie</td>
 <td>
 <p align="center">6 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Conducteur ambulancier hors catégorie </p>
-</td>
+<td>Conducteur ambulancier hors catégorie </td>
 <td>
 <p align="center">3 %</p>
 </td>
@@ -165,48 +152,21 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Ouvrier professionnel </p>
-</td>
+<td>Ouvrier professionnel </td>
 <td>
 <p align="center">6 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Maître ouvrier</p>
-</td>
+<td>Maître ouvrier</td>
 <td>
 <p align="center">9 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Maître ouvrier principal </p>
-</td>
+<td>Maître ouvrier principal </td>
 <td>
 <p align="center">12 %</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p align="center">Corps des agents chefs</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Classe supérieure </p>
-</td>
-<td>
-<p align="center">10 %</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Classe exceptionnelle</p>
-</td>
-<td>
-<p align="center">20 %</p>
 </td>
 </tr>
 <tr>
@@ -215,11 +175,29 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Agent de maîtrise principal </p>
-</td>
+<td>Agent de maîtrise principal </td>
 <td>
 <p align="center">4 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des techniciens et techniciens supérieurs hospitaliers<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>Technicien supérieur hospitalier de 2e classe </td>
+<td align="center">
+<p align="center">10 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>Technicien supérieur hospitalier de 1re classe</td>
+<td align="center">
+<p align="center">20 %<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -233,11 +211,9 @@
 </td>
 </tr>
 <tr>
+<td>Psychologue hors classe </td>
 <td>
-<p align="left">Psychologue hors classe </p>
-</td>
-<td>
-<p align="center">6 %</p>
+<p align="center">12 %</p>
 </td>
 </tr>
 <tr>
@@ -251,20 +227,150 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Aide-soignant de classe supérieure</p>
-</td>
+<td>Aide-soignant de classe supérieure</td>
 <td>
 <p align="center">15 %</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Aide-soignants de classe exceptionnelle </p>
-</td>
+<td>Aide-soignants de classe exceptionnelle </td>
 <td>
 <p align="center">20 %</p>
 </td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre 1988</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Infirmiers de classe supérieure </p>
+</td>
+<td align="center">26 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Filière de rééducation <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des pédicures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pédicures de classe supérieure </p>
+</td>
+<td align="center">50 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des masseurs-kinésithérapeutes </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Masseurs-kinésithérapeutes de classe supérieure </p>
+</td>
+<td align="center">12,5 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des ergothérapeutes </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ergothérapeutes de classe supérieure<br/>
+</p>
+</td>
+<td align="center">17 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des psychomotriciens </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Psychomotriciens de classe supérieure </p>
+</td>
+<td align="center">28 %<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des orthophonistes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Orthophonistes de classe supérieure </p>
+</td>
+<td align="center">20 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des orthoptistes </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Orthoptistes de classe supérieure </p>
+</td>
+<td align="center">50 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des diététiciens </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Diététiciens de classe supérieure </p>
+</td>
+<td align="center">19 % </td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Filière médico-technique</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des manipulateurs en électroradiologie </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Manipulateurs en électroradiologie de classe supérieure </p>
+</td>
+<td align="center">15 %</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="center">Corps des techniciens de laboratoire médical </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Techniciens de laboratoire médical </p>
+</td>
+<td align="center">15 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des préparateurs en pharmacie hospitalière</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Préparateurs en pharmacie hospitalière </p>
+</td>
+<td align="center">27,5 %</td>
 </tr>
 </tbody>
 </table>
