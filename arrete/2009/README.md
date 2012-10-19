@@ -1849,7 +1849,6 @@
 - [Arrêté du 22 juin 2009 (SASF0914604A)](arrete-du-22-juin-2009-sasf0914604a)
 - [Arrêté du 22 juin 2009 (SASF0914605A)](arrete-du-22-juin-2009-sasf0914605a)
 - [Arrêté du 22 juin 2009 (SASF0914615A)](arrete-du-22-juin-2009-sasf0914615a)
-- [Arrêté du 22 mars 2002 (ECOL0200032A)](arrete-du-22-mars-2002-ecol0200032a)
 - [Arrêté du 22 mars 2004 (DEFP0400315A)](arrete-du-22-mars-2004-defp0400315a)
 - [Arrêté du 22 mars 2004 (DEFP0400316A)](arrete-du-22-mars-2004-defp0400316a)
 - [Arrêté du 22 mars 2004 (DEFP0400317A)](arrete-du-22-mars-2004-defp0400317a)
