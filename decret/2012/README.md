@@ -392,6 +392,7 @@
 - [Décret n°2012-369 du 15 mars 2012 (MCCK1131496D)](decret-n2012-369-du-15-mars-2012-mcck1131496d)
 - [Décret n°2003-1227 du 16 décembre 2003 (INDI0302107D)](decret-n2003-1227-du-16-decembre-2003-indi0302107d)
 - [Décret n°2009-64 du 16 janvier 2009 (ECEP0827531D)](decret-n2009-64-du-16-janvier-2009-ecep0827531d)
+- [Décret n°2012-1157 du 16 octobre 2012 (AFSH1226096D)](decret-n2012-1157-du-16-octobre-2012-afsh1226096d)
 - [Décret n°2012-219 du 16 février 2012 (DEVD1132139D)](decret-n2012-219-du-16-fevrier-2012-devd1132139d)
 - [Décret n°2012-220 du 16 février 2012 (IOCX1203231D)](decret-n2012-220-du-16-fevrier-2012-iocx1203231d)
 - [Décret n°2012-221 du 16 février 2012 (IOCX1204186D)](decret-n2012-221-du-16-fevrier-2012-iocx1204186d)
