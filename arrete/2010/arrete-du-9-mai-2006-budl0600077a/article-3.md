@@ -14,14 +14,6 @@ Les informations et catégories de données à caractère personnel sont les sui
 
 - adresse de messagerie électronique ;
 
-- numéro de certificat ;
-
-- nom de l'autorité de certification ;
-
-- date de création et de fin de validité du certificat ;
-
-- nombre de certificats délivrés ;
-
 - numéro d'adhérent ;
 
 - état de l'abonnement ;
