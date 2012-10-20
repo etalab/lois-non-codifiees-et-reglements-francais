@@ -198,47 +198,17 @@ OI 6.4.4. EC de favoriser l'écoute réciproque,
 
 OI 6.4.5. EC de gérer les conflits.
 
-UC 7 : Etre capable de mobiliser les connaissances nécessaires à la conduite des activités pugilistiques
+UC 7A : Etre capable de mobiliser les connaissances nécessaires à la conduite des disciplines de la mention "sports de contact"
 
-OI 7.1 EC de mobiliser les connaissances générales nécessaires dans les activités pugilistiques :
+OI 7A.1 EC de mobiliser les connaissances générales nécessaires dans la mention "sports de contact" :
 
-OI 7.1.1. EC de rappeler les connaissances de base dans le domaine de la pédagogie appliquée aux activités pugilistiques,
+OI 7A.1.1. EC de rappeler les connaissances de base dans le domaine de la pédagogie appliquée à la mention "sports de contact",
 
-OI 7.1.2. EC de rappeler les connaissances scientifiques dans les domaines de la biomécanique, de la physiologie et de l'anatomie pour la pratique des activités pugilistiques,
+OI 7A.1.2. EC de rappeler les connaissances scientifiques dans les domaines de la biomécanique, de la physiologie, de la psychologie et de l'anatomie pour la pratique de la mention "sports de contact",
 
-OI 7.1.3. EC d'énumérer les connaissances psychologiques de base dans le domaine des activités pugilistiques.
+OI 7A.1.3. EC de mobiliser les connaissances en sciences humaines nécessaires à la conduite de la mention "sports de contact".
 
-OI 7.2 EC de mobiliser les connaissances réglementaires liées à la sécurité des pratiques pugilistiques :
-
-OI 7.2.1. EC de rappeler les obligations en matière d'assurances,
-
-OI 7.2.2. EC de s'informer de la capacité physique et de l'état de santé des pratiquants conformément à l'arrêté du 28 avril 2000 en application de l'article 5 de la loi n° 99-223 du 23 mars 1999,
-
-OI 7.2.3. EC de prévenir les comportements à risques pour la santé du pratiquant et des tiers,
-
-OI 7.2.4. EC d'informer sur le suivi traumatologique au niveau cérébral et ophtalmologique,
-
-OI 7.2.5. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le cadre de la loi sur le sport.
-
-OI 7.3 EC de mobiliser les connaissances scientifiques liées aux activités pugilistiques :
-
-OI 7.3.1. EC de mobiliser les connaissances en sciences humaines nécessaires à la conduite des activités pugilistiques,
-
-OI 7.3.2. EC de mobiliser les connaissances pédagogiques de base dans la conduite des activités pugilistiques,
-
-OI 7.3.3. EC d'utiliser des démarches adaptées aux différentes pratiques pugilistiques.
-
-UC 7A : Etre capable de mobiliser les connaissances nécessaires à la conduite des disciplines de la mention sports de contact
-
-OI 7A.1 EC de mobiliser les connaissances générales nécessaires dans la mention sports de contact :
-
-OI 7A.1.1. EC de rappeler les connaissances de base dans le domaine de la pédagogie appliquée à la mention sports de contact ,
-
-OI 7A.1.2. EC de rappeler les connaissances scientifiques dans les domaines de la biomécanique, de la physiologie, de la psychologie et de l'anatomie pour la pratique de la mention sports de contact ,
-
-OI 7A.1.3. EC de mobiliser les connaissances en sciences humaines nécessaires à la conduite de la mention sports de contact .
-
-OI 7A.2 EC de mobiliser les connaissances réglementaires liées à la sécurité des disciplines de la mention sports de contact :
+OI 7A.2 EC de mobiliser les connaissances réglementaires liées à la sécurité des disciplines de la mention "sports de contact" :
 
 OI 7A.2.1. EC de rappeler les obligations en matière d'assurances,
 
@@ -248,77 +218,61 @@ OI 7A.2.3. EC d'informer sur le suivi traumatologique au niveau cérébral et op
 
 OI 7A.2.4. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le cadre de la loi sur le sport.
 
-UC 7B : Etre capable de mobiliser les connaissances nécessaires à la conduite de la mention " savate boxe française "
+UC 7B : Etre capable de mobiliser les connaissances nécessaires à la conduite de la mention "savate boxe française"
 
-OI 7B. 1 EC de mobiliser les connaissances générales nécessaires dans la mention " savate boxe française " :
+OI7B.1 EC de mobiliser les connaissances générales nécessaires dans la mention "savate boxe française" :
 
-OI 7B. 1.1. EC de rappeler les connaissances de base dans le domaine de la pédagogie appliquée à la mention " savate boxe française ",
+OI7B.1.1. EC de rappeler les connaissances de base dans le domaine de la pédagogie appliquée à la mention "savate boxe française",
 
-OI 7B. 1.2. EC de rappeler les connaissances scientifiques de base dans les domaines de la biomécanique, de la physiologie, de la psychologie et de l'anatomie pour la pratique de la mention " savate boxe française ",
+OI7B.1.2. EC de rappeler les connaissances scientifiques de base dans les domaines de la biomécanique, de la physiologie, de la psychologie et de l'anatomie pour la pratique de la mention "savate boxe française",
 
-OI 7B. 1.3. EC de mobiliser les connaissances de base en sciences humaines nécessaires à la conduite de la mention " savate boxe française ".
+OI7B.1.3. EC de mobiliser les connaissances de base en sciences humaines nécessaires à la conduite de la mention "savate boxe française".
 
-OI 7B. 2 EC de mobiliser les connaissances réglementaires liées à la sécurité de la mention " savate boxe française " :
+OI 7B.2 EC de mobiliser les connaissances réglementaires liées à la sécurité de la mention "savate boxe française" :
 
-OI 7B. 2.1. EC de rappeler les obligations en matière d'assurances,
+OI 7B.2.1. EC de rappeler les obligations en matière d'assurances,
 
-OI 7B. 2.2. EC de prévenir les comportements à risques pour la santé du pratiquant et des tiers,
+OI 7B.2.2. EC de prévenir les comportements à risques pour la santé du pratiquant et des tiers,
 
-OI 7B. 2.3. EC d'informer sur le suivi traumatologique au niveau cérébral et ophtalmologique,
+OI 7B.2.3. EC d'informer sur le suivi traumatologique au niveau cérébral et ophtalmologique,
 
-OI 7B. 2.4. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le cadre de la loi sur le sport
+OI 7B.2.4. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le cadre de la loi sur le sport.
 
-UC 8 : Etre capable de conduire une action éducative en utilisant le support technique de la mention
+UC 7C : Etre capable de mobiliser les connaissances nécessaires à la conduite des différentes formes de pratique de la mention "boxe"
 
-OI 8.1 EC d'initier aux activités pugilistiques :
+OI 7C.1 EC de mobiliser les connaissances pédagogiques et scientifiques liées aux différentes formes de pratique de la mention "boxe" :
 
-OI 8.1.1. EC de préparer aux passages de grades,
+OI 7C.1.1. EC de mobiliser les connaissances dans le domaine de la pédagogie appliquée aux différentes formes de pratique de la mention "boxe",
 
-OI 8.1.2. EC de connaître la didactique de base de la discipline concernée,
+OI 7C.1.2. EC de mobiliser les connaissances scientifiques dans les domaines de la biomécanique, de la physiologie et de l'anatomie nécessaires pour les différentes formes de pratique de la mention "boxe",
 
-OI 8.1.3. EC d'initier aux techniques fondamentales des disciplines concernées,
+OI 7C.1.3. EC de mobiliser les connaissances en sciences humaines nécessaires à la conduite des différentes formes de pratique de la mention "boxe",
 
-OI 8.1.4. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser avec les situations d'opposition,
+OI 7C.1.4. EC de mobiliser les connaissances des codes sportifs nécessaires à la conduite des différentes formes de pratique de la mention "boxe",
 
-OI 8.1.5. EC d'utiliser ses connaissances des différents publics pour mener à bien son animation.
+OI 7C.1.5. EC de mobiliser dans son action les connaissances liées à la préparation athlétique,
 
-OI 8.2 EC d'éduquer aux règles des activités pugilistiques :
+OI 7C.1.6. EC de mobiliser dans son action les connaissances liées à la préparation technico-tactique,
 
-OI 8.2.1. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser aux règles d'arbitrage et de jugement des disciplines concernées,
+OI 7C.1.7. EC de mobiliser dans son action les connaissances liées à la préparation psychologique,
 
-OI 8.2.2. EC d'apprendre aux pratiquants les règles de la discipline concernée,
+OI 7C.1.8. EC de mobiliser dans son action les connaissances liées à la programmation d'entraînement.
 
-OI 8.2.3. EC d'expliquer les règles, leurs fondements et de les faire respecter.
+OI 7C.2 EC de mobiliser les connaissances réglementaires liées à la sécurité des différentes formes de pratique de la mention "boxe" :
 
-OI 8.3 EC d'initier ou de perfectionner (jusqu'à un premier niveau de compétition) :
+OI 7C.2.1. EC de rappeler les obligations en matière d'assurances,
 
-OI 8.3.1. EC de perfectionner au niveau de l'assaut et des combats amateurs,
+OI 7C.2.2. EC de prévenir les comportements à risque pour la santé du pratiquant et des tiers,
 
-OI 8.3.2. EC d'utiliser dans son action les bases de la préparation physique,
+OI 7C.2.3. EC d'imposer le matériel réglementaire pour prévenir les risques liés aux mises en situation d'opposition pour les différentes formes de pratique de la mention "boxe",
 
-OI 8.3.3. EC d'utiliser dans son action les bases de la préparation psychologique,
+OI 7C.2.4. EC d'informer sur les risques traumatologiques au niveau cérébral et ophtalmologique,
 
-OI 8.3.4. EC de programmer des séances de perfectionnement collectif jusqu'au premier niveau de compétition,
+OI 7C.2.5. EC de mobiliser les connaissances professionnelles relatives à l'enseignement dans le respect du code du sport.
 
-OI 8.3.5. EC d'observer les différents comportements du pratiquant en action pour proposer des réponses tactiques,
+UC 8A : Etre capable de conduire une action éducative en utilisant le support technique de la mention "sports de contact"
 
-OI 8.3.6. EC de donner des leçons de perfectionnement individuel,
-
-OI 8.3.7. EC de porter une attention particulière aux soins et à l'hygiène du pratiquant,
-
-OI 8.3.8. EC de concevoir un programme de préparation aux compétitions pédagogiques individualisées.
-
-OI 8.4 EC d'évaluer son action et d'expliciter ses choix :
-
-OI 8.4.1. EC d'évaluer la progression des pratiquants en fonction du projet,
-
-OI 8.4.2. EC d'utiliser des outils d'évaluation,
-
-OI 8.4.3. EC de réorienter son action.
-
-UC 8A : Etre capable de conduire une action éducative en utilisant le support technique de la mention sports de contact
-
-OI 8A.1 EC d'initier aux activités de la mention sports de contact :
+OI 8A.1 EC d'initier aux activités de la mention "sports de contact" :
 
 OI 8A.1.1. EC de préparer aux passages de grades,
 
@@ -330,7 +284,7 @@ OI 8A.1.4. EC de créer des situations d'apprentissage permettant aux pratiquant
 
 OI 8A.1.5. EC d'utiliser ses connaissances des différents publics pour mener à bien son animation.
 
-OI 8A.2 EC d'éduquer aux règles des activités de la mention sports de contact :
+OI 8A.2 EC d'éduquer aux règles des activités de la mention "sports de contact" :
 
 OI 8A.2.1. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser aux règles d'arbitrage et de jugement des disciplines de la mention concernée,
 
@@ -338,9 +292,9 @@ OI 8A.2.2. EC d'apprendre aux pratiquants les règles des disciplines de la ment
 
 OI 8A.2.3. EC d'expliquer les règles, leurs fondements et de les faire respecter.
 
-OI 8A.3 EC d'initier ou d'entraîner (jusqu'à un premier niveau de compétition) dans les disciplines de la mention sports de contact :
+OI 8A.3 EC d'initier ou d'entraîner (jusqu'à un premier niveau de compétition) dans les disciplines de la mention "sports de contact" :
 
-OI 8A.3.1. EC d'entrainer au niveau de l'assaut et des combats amateurs,
+OI 8A.3.1. EC d'entraîner au niveau de l'assaut et des combats amateurs,
 
 OI 8A.3.2. EC de programmer des séances de perfectionnement collectif jusqu'au premier niveau de compétition,
 
@@ -360,87 +314,113 @@ OI 8A.4.2. EC d'utiliser des outils d'évaluation,
 
 OI 8A.4.3. EC de réorienter son action.
 
-UC 8B : Etre capable de conduire une action éducative en utilisant le support technique de la mention " savate boxe française ".
+UC 8B : Etre capable de conduire une action éducative en utilisant le support technique de la mention "savate boxe française"
 
-OI 8B. 1 EC d'initier à la mention " savate boxe française " :
+OI 8B.1 EC d'initier à la mention "savate boxe française" :
 
-OI 8B. 1.1. EC de préparer aux passages de grades,
+OI 8B.1.1. EC de préparer aux passages de grades,
 
-OI 8B. 1.2. EC de connaître la didactique de base de la savate boxe française,
+OI 8B.1.2. EC de connaître la didactique de base de la savate boxe française,
 
-OI 8B. 1.3. EC d'initier aux techniques fondamentales de la savate boxe française,
+OI 8B.1.3. EC d'initier aux techniques fondamentales de la savate boxe française,
 
-OI 8B. 1.4. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser avec les situations d'opposition,
+OI 8B.1.4. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser avec les situations d'opposition,
 
-OI 8B. 1.5. EC d'utiliser ses connaissances des différents publics pour mener à bien son animation.
+OI 8B.1.5. EC d'utiliser ses connaissances des différents publics pour mener à bien son animation.
 
-OI 8B. 2 EC d'éduquer aux règles de la mention " savate boxe française " :
+OI 8B.2 EC d'éduquer aux règles de la mention "savate boxe française" :
 
-OI 8B. 2.1. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser aux règles d'arbitrage et de jugement de la savate boxe française,
+OI 8B.2.1. EC de créer des situations d'apprentissage permettant aux pratiquants de se familiariser aux règles d'arbitrage et de jugement de la savate boxe française,
 
-OI 8B. 2.2. EC d'apprendre aux pratiquants les règles de la savate boxe française,
+OI 8B.2.2. EC d'apprendre aux pratiquants les règles de la savate boxe française,
 
-OI 8B. 2.3. EC d'expliquer les règles, leurs fondements et de les faire respecter.
+OI 8B.2.3. EC d'expliquer les règles, leurs fondements et de les faire respecter.
 
-OI 8B. 3 EC d'initier ou d'entraîner (jusqu'à un premier niveau de compétition) dans la mention " savate boxe française " :
+OI 8B.3 EC d'initier ou d'entraîner (jusqu'à un premier niveau de compétition) dans la mention "savate boxe française" :
 
-OI 8B. 3.1. EC d'entraîner pour l'assaut et le combat,
+OI 8B.3.1. EC d'entraîner pour l'assaut et le combat,
 
-OI 8B. 3.2. EC de programmer des séances de perfectionnement collectif jusqu'au premier niveau de compétition,
+OI 8B.3.2. EC de programmer des séances de perfectionnement collectif jusqu'au premier niveau de compétition,
 
-OI 8B. 3.3. EC d'observer les différents comportements du pratiquant en action pour proposer des réponses technico-tactiques,
+OI 8B.3.3. EC d'observer les différents comportements du pratiquant en action pour proposer des réponses technico-tactiques,
 
-OI 8B. 3.4. EC de donner des leçons de perfectionnement individuel,
+OI 8B.3.4. EC de donner des leçons de perfectionnement individuel,
 
-OI 8B. 3.5. EC de porter une attention particulière aux soins et à l'hygiène du pratiquant,
+OI 8B.3.5. EC de porter une attention particulière aux soins et à l'hygiène du pratiquant,
 
-OI 8B. 3.6. EC de concevoir un programme individualisé pour la préparation aux compétitions pédagogiques individualisées.
+OI 8B.3.6. EC de concevoir un programme individualisé pour la préparation aux compétitions pédagogiques individualisées.
 
-OI 8B. 4 EC d'évaluer son action et d'expliciter ses choix :
+OI 8B.4 EC d'évaluer son action et d'expliciter ses choix :
 
-OI 8B. 4.1. EC d'évaluer la progression des pratiquants en fonction du projet,
+OI 8B.4.1. EC d'évaluer la progression des pratiquants en fonction du projet,
 
-OI 8B. 4.2. EC d'utiliser des outils d'évaluation,
+OI 8B.4.2. EC d'utiliser des outils d'évaluation,
 
-OI 8B. 4.3. EC de réorienter son action ;
+OI 8B.4.3. EC de réorienter son action.
 
-UC 9 : Etre capable de maîtriser les outils techniques de la mention
+UC 8C : Etre capable de conduire une action éducative en utilisant le support technique de la mention "boxe"
 
-OI 9.1 EC de présenter les exigences fixées :
+OI 8C.1 EC d'apprendre aux pratiquants les codes sportifs des différentes formes de pratique de la mention "boxe" et de les appliquer lors des mises en opposition :
 
-OI 9.1.1. EC de réaliser un assaut de premier niveau conformément au règlement des compétitions en utilisant le support technique de la mention,
+OI 8C.1.1. EC de créer des situations d'apprentissage permettant aux pratiquants d'assimiler les modes de jugement et d'arbitrage des différentes formes de pratique de la mention "boxe",
 
-OI 9.1.2. EC de démontrer sa maîtrise technique en défense et attaque en utilisant le support technique de la mention.
+OI 8C.1.2. EC de transmettre aux pratiquants les codes sportifs des différentes formes de pratique de la mention "boxe",
 
-OI 9.2 EC de maîtriser les gestes ou conduites professionnelles liées à l'exercice du métier :
+OI 8C.1.3. EC d'expliquer les règles, leurs fondements et de les faire respecter.
 
-OI 9.2.1. EC d'ajuster le port des protections,
+OI 8C.2 EC d'enseigner les différentes formes de pratique de la mention "boxe" :
 
-OI 9.2.2. EC de faire un bandage amateur,
+OI 8C.2.1. EC de préparer les élèves aux passages des grades techniques,
 
-OI 9.2.3. EC de neutraliser une hémorragie bénigne,
+OI 8C.2.2. EC d'appliquer la didactique de la boxe,
 
-OI 9.2.4. EC de réduire un petit hématome,
+OI 8C.2.3. EC de transmettre les éléments fondamentaux de l'apprentissage de la boxe,
 
-OI 9.2.5. EC de réagir de manière adaptée en cas de hors combat ou de blessure,
+OI 8C.2.4. EC de créer des situations d'apprentissage permettant aux pratiquants de progresser lors des mises en opposition,
 
-OI 9.2.6. EC d'évaluer les risques dans l'animation.
+OI 8C.2.5. EC de conduire des situations d'apprentissage permettant aux pratiquants de progresser lors des mises en opposition,
 
-OI 9.3 EC d'expliciter les techniques utilisées dans la mention :
+OI8C.2.6. EC d'utiliser ses connaissances des différents publics pour optimiser son enseignement.
 
-OI 9.3.1. EC d'observer une situation d'opposition,
+OI 8C.3 EC de conduire des séances d'apprentissage dans le cadre des différentes formes de pratique de la mention "boxe" :
 
-OI 9.3.2. EC de proposer une grille d'évaluation,
+OI 8C.3.1. EC de construire des séances d'apprentissage collectives et individuelles en mobilisant ses connaissances en sciences humaines et dans les domaines de la biomécanique, de la physiologie et de l'anatomie,
 
-OI 9.3.3. EC de proposer des solutions tactiques.
+OI 8C.3.2. EC de diriger des séances d'apprentissage dans le cadre des différentes formes de pratiques de la mention "boxe",
 
-UC 9A : Etre capable de maîtriser les outils techniques de la mention sports de contact
+OI 8C.3.3. EC d'observer les différents comportements du pratiquant en action pour proposer des orientations tactiques,
+
+OI 8C.3.4. EC d'appliquer et de faire respecter les principes fondamentaux liés à la sécurité et à l'hygiène du pratiquant,
+
+OI 8C.4 EC de conduire des séances d'entraînement dans le cadre des différentes formes de pratique de la mention "boxe" :
+
+OI 8C.4.1. EC de construire des séances d'entraînement collectives et individuelles en mobilisant ses connaissances en sciences humaines et dans les domaines de la biomécanique, de la physiologie et de l'anatomie,
+
+OI 8C.4.2. EC de diriger des séances d'entraînement dans le cadre des différentes formes de pratiques de la mention "boxe",
+
+OI 8C.4.3. EC d'observer les différents comportements du pratiquant pour proposer des orientations tactiques,
+
+OI 8C.4.4. EC d'appliquer et de faire respecter les principes fondamentaux liés à la sécurité et à l'hygiène du pratiquant,
+
+OI 8C.4.5. EC de concevoir un programme de préparation aux compétitions,
+
+OI 8C.4.6. EC de mettre en œuvre un programme de préparation pour les compétitions.
+
+OI 8C.5 EC d'évaluer son action et d'expliciter ses choix :
+
+OI 8C.5.1. EC d'évaluer les pratiquants, leurs besoins et leur progression en fonction des objectifs,
+
+OI 8C.5.2. EC d'utiliser les outils d'évaluation,
+
+OI 8C.5.3. EC de réajuster son action pédagogique à partir des évaluations réalisées.
+
+UC 9A : Etre capable de maîtriser les outils techniques de la mention "sports de contact"
 
 OI 9A.1 EC de présenter les exigences fixées :
 
 OI 9A.1.1. EC de réaliser un assaut technique conformément au règlement des compétitions en utilisant le support technique des disciplines de la mention concernée,
 
-OI 9A.1.2. EC de démontrer sa maîtrise technique en défense et attaque en utilisant le support technique des disciplines de la mention concernée.
+OI 9A.1.2. EC de démontrer sa maîtrise technique en défense et en attaque en utilisant le support technique des disciplines de la mention concernée.
 
 OI 9A.2 EC de maîtriser les gestes ou conduites professionnelles liées à l'exercice du métier :
 
@@ -456,7 +436,7 @@ OI 9A.2.5. EC de réagir de manière adaptée en cas de hors combat ou de blessu
 
 OI 9A.2.6. EC d'évaluer les risques dans l'animation.
 
-OI 9A.3 EC d'expliciter les techniques utilisées dans les disciplines de la mention sports de contact :
+OI 9A.3 EC d'expliciter les techniques utilisées dans les disciplines de la mention "sports de contact" :
 
 OI 9A.3.1. EC d'observer une situation d'opposition,
 
@@ -464,34 +444,62 @@ OI 9A.3.2. EC de proposer une grille d'évaluation,
 
 OI 9A.3.3. EC de proposer des solutions tactiques.
 
-UC 9B : Etre capable de maîtriser les outils techniques de la mention " savate boxe française ".
+UC 9B : Etre capable de maîtriser les outils techniques de la mention "savate boxe française"
 
-OI 9B. 1 EC de présenter les exigences fixées :
+OI 9B.1 EC de présenter les exigences fixées :
 
-OI 9B. 1.1. EC de réaliser un assaut conformément au règlement des compétitions en utilisant le support technique de la mention " savate boxe française ",
+OI 9B.1.1. EC de réaliser un assaut conformément au règlement des compétitions en utilisant le support technique de la mention "savate boxe française",
 
-OI 9B. 1.2. EC de démontrer sa maîtrise technico-tactique en défense et attaque en utilisant le support technique de la mention " savate boxe française ".
+OI 9B.1.2. EC de démontrer sa maîtrise technico-tactique en défense et en attaque en utilisant le support technique de la mention "savate boxe française".
 
-OI 9B. 2 EC de maîtriser les gestes ou conduites professionnelles liées à l'exercice du métier :
+OI 9B.2 EC de maîtriser les gestes ou conduites professionnelles liées à l'exercice du métier :
 
-OI 9B. 2.1. EC d'ajuster le port des protections,
+OI 9B.2.1. EC d'ajuster le port des protections,
 
-OI 9B. 2.2. EC de faire un bandage,
+OI 9B.2.2. EC de faire un bandage,
 
-OI 9B. 2.3. EC de neutraliser une hémorragie bénigne,
+OI 9B.2.3. EC de neutraliser une hémorragie bénigne,
 
-OI 9B. 2.4. EC de réduire un petit hématome,
+OI 9B.2.4. EC de réduire un petit hématome,
 
-OI 9B. 2.5. EC de réagir de manière adaptée en cas de hors combat ou de blessure,
+OI 9B.2.5. EC de réagir de manière adaptée en cas de hors combat ou de blessure,
 
-OI 9B. 2.6. EC d'évaluer les risques dans l'animation.
+OI 9B.2.6. EC d'évaluer les risques dans l'animation.
 
-OI 9B. 3 EC d'expliciter les techniques utilisées dans la mention " savate boxe française " :
+OI 9B.3 EC d'expliciter les techniques utilisées dans la mention "savate boxe française" :
 
-OI 9B. 3.1. EC d'observer une situation d'opposition,
+OI 9B.3.1. EC d'observer une situation d'opposition,
 
-OI 9B. 3.2. EC de proposer une grille d'évaluation,
+OI 9B.3.2. EC de proposer une grille d'évaluation,
 
-OI 9B. 3.3. EC de proposer des solutions technico-tactiques.
+OI 9B.3.3. EC de proposer des solutions technico-tactiques.
+
+UC 9C : Etre capable de maîtriser les outils techniques de la mention "boxe"
+
+OI 9C.1 EC de maîtriser les contenus technique et tactique de la mention boxe :
+
+OI 9C.1.1. EC de présenter verbalement et gestuellement l'ensemble du répertoire technique de la boxe,
+
+OI 9C.1.2. EC d'expliquer l'ensemble des intentions tactiques de la boxe,
+
+OI 9C.1.3. EC de corriger les comportements techniques et tactiques des pratiquants.
+
+OI 9C.2 EC de veiller à la sécurité et de porter secours aux pratiquants :
+
+OI 9C.2.1. EC de présenter, de justifier et d'enseigner la mise en place des différentes protections,
+
+OI 9C.2.2. EC d'évaluer et d'anticiper les risques liés aux situations d'opposition,
+
+OI 9C.2.3. EC d'apporter les premiers soins dans le cadre de la réglementation,
+
+OI 9C.2.4. EC de réagir de manière adaptée en cas de hors combat ou de blessure.
+
+OI 9C.3 EC d'exploiter le répertoire technique de la boxe :
+
+OI 9C.3.1. EC d'observer aux plans technique et tactique l'ensemble des situations d'opposition,
+
+OI 9C.3.2. EC de construire et d'utiliser une fiche d'évaluation adaptée aux objectifs,
+
+OI 9C.3.3. EC de présenter, d'expliquer et de justifier des orientations tactiques.
 
 UC 10 : Adaptation à l'emploi
