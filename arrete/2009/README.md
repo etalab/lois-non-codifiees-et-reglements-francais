@@ -456,7 +456,6 @@
 - [Arrêté du 7 juillet 2009 (IMIK0915198A)](arrete-du-7-juillet-2009-imik0915198a)
 - [Arrêté du 7 mars 2002 (DEFM0201243A)](arrete-du-7-mars-2002-defm0201243a)
 - [Arrêté du 7 novembre 2003 (ECOP0300752A)](arrete-du-7-novembre-2003-ecop0300752a)
-- [Arrêté du 7 octobre 1986](arrete-du-7-octobre-1986)
 - [Arrêté du 7 octobre 2008 (SJSG0831016A)](arrete-du-7-octobre-2008-sjsg0831016a)
 - [Arrêté du 7 octobre 2009 (BCFB0906788A)](arrete-du-7-octobre-2009-bcfb0906788a)
 - [Arrêté du 7 octobre 2009 (DEVK0923513A)](arrete-du-7-octobre-2009-devk0923513a)
