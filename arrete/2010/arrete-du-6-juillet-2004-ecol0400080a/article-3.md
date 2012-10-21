@@ -126,6 +126,6 @@ Le cas échéant, pour les entreprises ayant opté pour le paiement de l'impôt 
 
 II. - Les informations et catégories d'informations nominatives suivantes sont également traitées afin de permettre le suivi des accès :
 
-1. Les interrogations de la base Adélie effectuées par les agents de la direction générale des finances publiques font l'objet d'une journalisation qui se traduit par la conservation, pour chaque connexion, des éléments d'identification de l'auteur, des références du dossier de l'entreprise consulté ainsi que des date et heure de la consultation ;
+1. Les interrogations de la base Adélie effectuées par les agents de la direction générale des finances publiques et de TRACFIN  font l'objet d'une journalisation qui se traduit par la conservation, pour chaque connexion, des éléments d'identification de l'auteur, des références du dossier de l'entreprise consulté ainsi que des date et heure de la consultation ;
 
 2. La journalisation des interrogations effectuées par les utilisateurs externes porte en outre sur leur numéro de certificat et leur profil d'habilitation.
