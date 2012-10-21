@@ -97,3 +97,5 @@ Le Haut Conseil pour l'avenir de l'assurance maladie (HCAAM).
 L'Association nationale des centres régionaux pour l'enfance et l'adolescence inadaptées (ANCREAI).
 
 Les centres régionaux pour l'enfance et l'adolescence inadaptées (CREAI).
+
+Les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE)
