@@ -1141,7 +1141,6 @@
 - [Arrêté du 14 avril 2011 (ESRH1108467A)](arrete-du-14-avril-2011-esrh1108467a)
 - [Arrêté du 14 décembre 2010 (DEVK1032156A)](arrete-du-14-decembre-2010-devk1032156a)
 - [Arrêté du 14 décembre 2010 (DEVL1030497A)](arrete-du-14-decembre-2010-devl1030497a)
-- [Arrêté du 14 décembre 2010 (ETSP1027958A)](arrete-du-14-decembre-2010-etsp1027958a)
 - [Arrêté du 14 décembre 2010 (IOCA1032104A)](arrete-du-14-decembre-2010-ioca1032104a)
 - [Arrêté du 14 décembre 2011 (AGRG1133322A)](arrete-du-14-decembre-2011-agrg1133322a)
 - [Arrêté du 14 décembre 2011 (AGRS1125709A)](arrete-du-14-decembre-2011-agrs1125709a)
