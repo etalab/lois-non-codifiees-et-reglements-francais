@@ -790,6 +790,7 @@
 - [Décret n°2012-839 du 29 juin 2012 (EFIC1119745D)](decret-n2012-839-du-29-juin-2012-efic1119745d)
 - [Décret n°2012-840 du 29 juin 2012 (EFIC1220649D)](decret-n2012-840-du-29-juin-2012-efic1220649d)
 - [Décret n°2012-841 du 29 juin 2012 (INTJ1113923D)](decret-n2012-841-du-29-juin-2012-intj1113923d)
+- [Décret n°2011-2085 du 30 décembre 2011 (BCRS1135079D)](decret-n2011-2085-du-30-decembre-2011-bcrs1135079d)
 - [Décret n°2011-2111 du 30 décembre 2011 (IOCJ1128526D)](decret-n2011-2111-du-30-decembre-2011-iocj1128526d)
 - [Décret n°2012-117 du 30 janvier 2012 (DEFD1128841D)](decret-n2012-117-du-30-janvier-2012-defd1128841d)
 - [Décret n°2012-118 du 30 janvier 2012 (DEVL1134012D)](decret-n2012-118-du-30-janvier-2012-devl1134012d)

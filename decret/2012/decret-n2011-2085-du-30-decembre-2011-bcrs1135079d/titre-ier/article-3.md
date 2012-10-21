@@ -1,0 +1,3 @@
+# Article 3
+
+L'employeur tient à la disposition de l'inspecteur de recouvrement de la caisse de sécurité sociale de Mayotte un document justificatif du montant des réductions qu'il a appliquées. Ce document, qui peut être établi sur un support dématérialisé, est rempli par établissement et par mois civil. Il indique le nombre de salariés ouvrant droit à la réduction prévue à l'article 28-7 de l'ordonnance du 20 décembre 1996 susvisée, le montant total de l'exonération appliquée ainsi que, pour chacun des salariés concernés, son identité, la rémunération brute mensuelle versée, le montant de la réduction et le nombre d'heures supplémentaires ou complémentaires effectuées.
