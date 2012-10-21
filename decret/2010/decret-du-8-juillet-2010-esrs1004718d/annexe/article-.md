@@ -1,10 +1,6 @@
 # Article 
 
-A N N E X E
-
-STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION
-
-SCIENTIFIQUE « CENTRE - VAL DE LOIRE UNIVERSITÉ »
+STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION SCIENTIFIQUE CENTRE-VAL DE LOIRE UNIVERSITÉ
 
 Chapitre Ier
 
@@ -12,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-« Centre - Val de Loire Université » est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+Centre-Val de Loire Université est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
 Cet établissement est chargé de mener les projets prévus dans le cadre du pôle de recherche et d'enseignement supérieur et de gérer la mise en commun des moyens que les établissements et organismes fondateurs et associés y consacrent.
 
@@ -20,7 +16,7 @@ Son siège est situé à Tours. Il pourra être transféré par décision du con
 
 Article 2
 
-L'établissement comprend des membres fondateurs et associés, selon leurs engagements dans les activités de « Centre - Val de Loire Université ».
+L'établissement comprend des membres fondateurs et associés, selon leurs engagements dans les activités de Centre-Val de Loire Université.
 
 Au moment de sa création, l'établissement comprend les membres fondateurs et associés suivants :
 
@@ -36,39 +32,39 @@ L'Ecole nationale d'ingénieurs du Val de Loire ;
 
 L'Ecole nationale supérieure de la nature et du paysage ;
 
-L'Ecole nationale supérieure d'ingénieurs de Bourges,
-
-formant le collège des grandes écoles d'ingénieurs et de management ;
+L'Ecole nationale supérieure d'ingénieurs de Bourges, formant le collège des grandes écoles d'ingénieurs et de management.
 
 4° Le centre hospitalier régional universitaire de Tours ;
 
-Le centre hospitalier régional d'Orléans,
-
-formant le collège des établissements de santé.
+Le centre hospitalier régional d'Orléans, formant le collège des établissements de santé.
 
 Membres associés :
 
-― la région Centre ;
+-la région Centre ;
 
-― le centre régional des œuvres universitaires et scolaires d'Orléans-Tours.
+-le centre régional des œuvres universitaires et scolaires d'Orléans-Tours ;
+
+-le bureau de recherches géologiques et minières.
 
 Article 3
 
 L'établissement a compétence pour :
 
-― valoriser les activités de recherche menées en commun ;
+-valoriser les activités de recherche menées en commun ;
 
-― gérer les équipements partagés ;
+-gérer les équipements partagés ;
 
-― coordonner l'activité des formations doctorales ;
+-coordonner l'activité des formations doctorales ;
 
-― promouvoir la visibilité et l'attractivité internationale des établissements membres, notamment en favorisant la mobilité internationale des étudiants et l'accueil des chercheurs étrangers ;
+-promouvoir la visibilité et l'attractivité internationale des établissements membres, notamment en favorisant la mobilité internationale des étudiants et l'accueil des chercheurs étrangers ;
 
-― assurer une politique d'information conjointe en direction des lycéens ;
+-assurer une politique d'information conjointe en direction des lycéens ;
 
-― développer l'université numérique ;
+-développer l'Université numérique ;
 
-― constituer un observatoire régional de la vie étudiante.
+-constituer un observatoire régional de la vie étudiante ;
+
+-prendre des participations et la création de filiales entrant dans les domaines d'activités de ses membres dans les conditions fixées par les articles 58 à 63 du décret n° 2008-618 du 27 juin 2008 relatif au budget et au régime financier des établissements publics à caractère scientifique, culturel et professionnel bénéficiant des responsabilités et compétences élargies et dans la limite de ses ressources.
 
 L'établissement a vocation à conduire les missions suivantes :
 
@@ -80,9 +76,9 @@ L'établissement a vocation à conduire les missions suivantes :
 
 4° Réfléchir à l'évolution des écoles doctorales communes ;
 
-5° Attribuer le label « Centre - Val de Loire Université » aux doctorats délivrés par les établissements membres habilités ;
+5° Attribuer le label Centre-Val de Loire Université aux doctorats délivrés par les établissements membres habilités ;
 
-6° Garantir la signature, sous l'appellation unique « Centre - Val de Loire Université » en première mention, conjointe avec celle des établissements, de la production scientifique réalisée en leur sein ;
+6° Garantir la signature, sous l'appellation unique Centre-Val de Loire Université en première mention, conjointe avec celle des établissements, de la production scientifique réalisée en leur sein ;
 
 7° Mutualiser la politique documentaire ;
 
@@ -90,7 +86,7 @@ L'établissement a vocation à conduire les missions suivantes :
 
 9° Développer les actions relatives à la vie étudiante (action sociale, culture, sport...) ;
 
-10° Plus généralement, mettre en œuvre des projets communs à tout ou partie des membres, dans les domaines entrant dans leurs missions.
+10° Plus généralement, mettre en œuvre des projets communs à tout ou partie des membres dans les domaines entrant dans leurs missions.
 
 Article 4
 
@@ -112,7 +108,7 @@ Le président est élu par le conseil d'administration en son sein, pour une dur
 
 Le président est assisté de vice-présidents qui sont élus sur proposition du président par le conseil d'administration. Le mandat des vice-présidents prend fin avec celui du président.
 
-Le président et les vice-présidents sont assistés d'un bureau, dont la composition est fixée à l'article 12.
+Le président et les vice-présidents sont assistés d'un bureau dont la composition est fixée à l'article 12.
 
 Le président peut être assisté d'un délégué général, nommé par lui dans des conditions fixées par le règlement intérieur.
 
@@ -146,15 +142,15 @@ Article 8
 
 Le conseil d'administration comprend trente membres :
 
-1° Quatorze représentants des établissements fondateurs dont le président ou le directeur de chacun des établissements fondateurs répartis de la manière suivante :
+1° Quatorze représentants des établissements fondateurs, dont le président ou le directeur de chacun des établissements fondateurs, répartis de la manière suivante :
 
-― quatre représentants de l'université d'Orléans ;
+-quatre représentants de l'université d'Orléans ;
 
-― quatre représentants de l'université de Tours ;
+-quatre représentants de l'université de Tours ;
 
-― quatre représentants du collège des grandes écoles d'ingénieurs et de management ;
+-quatre représentants du collège des grandes écoles d'ingénieurs et de management ;
 
-― deux représentants du collège des établissements de santé.
+-deux représentants du collège des établissements de santé ;
 
 2° Cinq personnalités qualifiées désignées d'un commun accord par les membres fondateurs à raison de trois issues du monde socio-économique et de deux universitaires ;
 
@@ -164,7 +160,7 @@ Le conseil d'administration comprend trente membres :
 
 5° Trois représentants des autres personnels exerçant leurs fonctions au sein de l'établissement ;
 
-6° Deux représentants des étudiants qui suivent une formation doctorale au sein du pôle de recherche et d'enseignement supérieur.
+6° Deux représentants des étudiants qui suivent une formation au sein du pôle de recherche et d'enseignement supérieur.
 
 Le recteur d'académie, chancelier des universités, assiste ou se fait représenter au sein du conseil d'administration.
 
@@ -180,7 +176,7 @@ Les membres associés désignent leurs représentants respectifs mentionnés au 
 
 Les membres mentionnés aux 4°, 5° et 6° de l'article 8 sont élus dans les conditions fixées par le règlement intérieur.
 
-Toute modification du nombre de membres fondateurs ou associés implique le renouvellement des membres du conseil.
+Toute modification du nombre de membres fondateurs ou d'associés implique le renouvellement des membres du conseil.
 
 Article 10
 
@@ -202,29 +198,29 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 8° L'aliénation des biens mobiliers ;
 
-9° Les emprunts ;
+9° L'acceptation des dons et legs ;
 
-10° L'acceptation des dons et legs ;
+10° La participation à des organismes dotés de la personnalité morale ;
 
-11° La participation à des organismes dotés de la personnalité morale ;
+11° Les contrats et conventions ;
 
-12° Les contrats et conventions ;
+12° Les actions en justice et les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers ;
 
-13° Les actions en justice et les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers ;
+13° L'adhésion de nouveaux membres, fondateurs ou associés et la fixation des conditions de ces adhésions ;
 
-14° L'adhésion de nouveaux membres, fondateurs ou associés et la fixation des conditions de ces adhésions ;
+14° L'exclusion d'un membre ;
 
-15° L'exclusion d'un membre ;
+15° La modification du siège de l'établissement ;
 
-16° La modification du siège de l'établissement.
+16° La prise de participation et la création de filiales.
 
-Dans les limites qu'il détermine, le conseil d'administration peut déléguer au président certaines de ses attributions, à l'exception de celles mentionnées aux 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9°, 10°, 14°, 15° et 16° ci-dessus.
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au président certaines de ses attributions, à l'exception de celles mentionnées aux 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9°, 13°, 14°, 15° et 16° ci-dessus.
 
 Le président peut, en outre, recevoir délégation pour prendre les décisions modificatives des budgets :
 
-― qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
+-qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ; ou
 
-― ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+-qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Il rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces différentes délégations.
 
@@ -234,7 +230,7 @@ Dans le cadre de ses compétences, le conseil peut créer toutes commissions uti
 
 Article 11
 
-Le conseil d'administration se réunit au moins deux fois par an, sur convocation de son président qui en fixe l'ordre du jour. Il est, en outre, convoqué à la demande d'un tiers de ses membres sur un ordre du jour déterminé.
+Le conseil d'administration se réunit au moins deux fois par an, sur convocation de son président, qui en fixe l'ordre du jour. Il est, en outre, convoqué à la demande d'un tiers de ses membres sur un ordre du jour déterminé.
 
 Lorsque le président ne peut présider une séance, le conseil est présidé par un des vice-présidents désigné par le président. A défaut, il est procédé à l'élection d'un président de séance à la majorité des membres présents ou représentés.
 
@@ -248,7 +244,7 @@ Sous réserve des dispositions ci-dessous, le conseil délibère valablement si 
 
 Pour l'élection du président et en matière de délibérations budgétaires, les décisions sont prises à la majorité absolue des membres présents ou représentés.
 
-Sont prises à la majorité qualifiée des 2/3 des membres en exercice du conseil d'administration les décisions relatives à :
+Sont prises à la majorité qualifiée des deux tiers des membres en exercice du conseil d'administration les décisions relatives à :
 
 1° L'adhésion de nouveaux membres et la fixation des conditions de ces adhésions ;
 
@@ -264,7 +260,7 @@ L'agent comptable et, le cas échéant, le délégué général assistent aux s�
 
 Article 12
 
-Le président de l'établissement, les vice-présidents, un représentant de chaque université, un représentant du collège des grandes écoles d'ingénieurs et de management et un représentant du collège des établissements de santé, issus du conseil d'administration, constituent le bureau de « Centre - Val de Loire Université ».
+Le président de l'établissement, les vice-présidents, un représentant de chaque université, un représentant du collège des grandes écoles d'ingénieurs et de management et un représentant du collège des établissements de santé, issus du conseil d'administration, constituent le bureau de Centre-Val de Loire Université.
 
 Les modalités de désignation des membres du bureau, ses attributions et ses modalités de fonctionnement sont définies par le règlement intérieur de l'établissement.
 
@@ -282,7 +278,7 @@ Les membres des différents conseils exercent leurs fonctions à titre gratuit. 
 
 Article 15
 
-Tout établissement peut se retirer de « Centre - Val de Loire Université » à l'expiration d'un exercice budgétaire, sous réserve qu'il ait notifié son intention trois mois avant la fin de l'exercice en cours et qu'il se soit acquitté de l'ensemble de ses obligations à l'égard de l'établissement.
+Tout établissement peut se retirer de Centre-Val de Loire Université à l'expiration d'un exercice budgétaire, sous réserve qu'il ait notifié son intention trois mois avant la fin de l'exercice en cours et qu'il se soit acquitté de l'ensemble de ses obligations à l'égard de l'établissement.
 
 Chapitre III
 
@@ -314,7 +310,7 @@ Les recettes de l'établissement comprennent notamment :
 
 7° Les dons et legs ;
 
-8° De manière générale toutes autres recettes autorisées par les lois et règlements en vigueur.
+8° De manière générale, toutes autres recettes autorisées par les lois et règlements en vigueur.
 
 Article 19
 
@@ -323,23 +319,3 @@ Les dépenses de l'établissement comprennent les frais de personnel propres à 
 Article 20
 
 Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et régies d'avances des organismes publics.
-
-Chapitre IV
-
-Dispositions transitoires
-
-Article 21
-
-Par dérogation à l'article 6 ci-dessus, les représentants des membres fondateurs élisent un président qui prendra toutes les mesures nécessaires au fonctionnement de l'établissement jusqu'à la constitution définitive du conseil d'administration prévu à l'article 8.
-
-Article 22
-
-Par dérogation à l'article 10, le premier budget primitif de l'établissement est arrêté par les membres fondateurs, sur proposition du président élu dans les conditions prévues à l'article 21.
-
-Article 23
-
-Jusqu'à la première élection des membres mentionnés aux 4°, 5° et 6° de l'article 8, le conseil d'administration siège valablement avec les seuls membres mentionnés aux 1°, 2° et 3° de cet article et adopte le règlement intérieur dans un délai de six mois.
-
-En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 21 organise les élections des membres mentionnés aux 4°, 5° et 6° de l'article 8, dans un délai maximum de six mois à compter de l'adoption du règlement intérieur.
-
-Les membres élus mentionnés aux 4°, 5° et 6° de l'article 8 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres mentionnés aux 1°, 2° et 3° de ce même article.
