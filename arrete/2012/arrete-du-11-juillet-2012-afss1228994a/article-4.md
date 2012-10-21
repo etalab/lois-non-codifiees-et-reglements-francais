@@ -22,7 +22,7 @@ Les destinataires des informations contenues dans le système national d'informa
 
 ― les agents du ministère chargé de l'assurance maladie, de la santé, de l'action sociale des personnes handicapées et de la dépendance ou de ses services déconcentrés nommément désignés par les directeurs d'administration centrale ou des services déconcentrés de ce ministère ;
 
-― les agents des agences sanitaires sous tutelle du ministère chargé de l'assurance maladie et de la santé nommément désignés par les directeurs de ces agences, notamment l'Agence technique de l'information sur l'hospitalisation (ATIH), l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) et l'Agence de la biomédecine ;
+― les agents des agences sanitaires sous tutelle du ministère chargé de l'assurance maladie et de la santé nommément désignés par les directeurs de ces agences, notamment l'Agence technique de l'information sur l'hospitalisation (ATIH), l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS)      , l'Agence de la biomédecine et les agences régionales de santé (ARS) ;
 
 ― les agents habilités et nommément désignés par le directeur général des politiques agricole, agroalimentaire et des territoires au ministère chargé de l'agriculture, pour les données relatives aux ressortissants des régimes de protection sociale agricole ;
 
