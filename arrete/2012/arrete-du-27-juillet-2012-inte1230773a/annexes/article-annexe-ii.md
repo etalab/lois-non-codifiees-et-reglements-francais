@@ -52,7 +52,7 @@ Communes de Lemberg, Wittring.
 
 DÉPARTEMENT DU NORD
 
-Inondation et coulées de boues du 21 au 22 mai 2012
+Inondation et coulées de boue du 6 au 7 mars 2012
 
 Commune de Roost-Warendin.
 
