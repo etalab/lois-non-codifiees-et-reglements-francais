@@ -1,3 +1,3 @@
 # Article 1
 
-L'Ecole centrale de Lyon est un établissement public à caractère scientifique, culturel et professionnel auquel s'applique le statut d'école extérieure aux universités défini aux articles 34 à 36 de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur.
+L'Ecole centrale de Lyon est un établissement public à caractère scientifique, culturel et professionnel auquel s'applique le statut d'école extérieure aux universités régi par les dispositions des articles L. 711-2 (2°), L. 711-7 et L. 715-1 à L. 715-3 du code de l'éducation.
