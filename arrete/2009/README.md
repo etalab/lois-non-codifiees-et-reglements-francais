@@ -945,7 +945,6 @@
 - [Arrêté du 12 mai 2009 (MENE0910728A)](arrete-du-12-mai-2009-mene0910728a)
 - [Arrêté du 12 mai 2009 (SASP0908775A)](arrete-du-12-mai-2009-sasp0908775a)
 - [Arrêté du 12 mai 2009 (SASP0911102A)](arrete-du-12-mai-2009-sasp0911102a)
-- [Arrêté du 13 août 2009 (DEVE0917697A)](arrete-du-13-aout-2009-deve0917697a)
 - [Arrêté du 13 août 2009 (DEVE0917702A)](arrete-du-13-aout-2009-deve0917702a)
 - [Arrêté du 13 août 2009 (MCCB0918619A)](arrete-du-13-aout-2009-mccb0918619a)
 - [Arrêté du 13 décembre 2005 (INTD0500787A)](arrete-du-13-decembre-2005-intd0500787a)
