@@ -2432,7 +2432,6 @@
 - [Arrêté du 26 novembre 2011 (DEVP1103455A)](arrete-du-26-novembre-2011-devp1103455a)
 - [Arrêté du 26 novembre 2011 (DEVP1103457A)](arrete-du-26-novembre-2011-devp1103457a)
 - [Arrêté du 26 octobre 2011 (BCRE1126710A)](arrete-du-26-octobre-2011-bcre1126710a)
-- [Arrêté du 26 octobre 2011 (DEFA1130677A)](arrete-du-26-octobre-2011-defa1130677a)
 - [Arrêté du 26 octobre 2011 (DEVP1129317A)](arrete-du-26-octobre-2011-devp1129317a)
 - [Arrêté du 26 octobre 2011 (DEVT1124686A)](arrete-du-26-octobre-2011-devt1124686a)
 - [Arrêté du 26 octobre 2011 (DEVT1124718A)](arrete-du-26-octobre-2011-devt1124718a)
