@@ -550,7 +550,6 @@
 - [Arrêté du 19 mai 1998 (MESP9821838A)](arrete-du-19-mai-1998-mesp9821838a)
 - [Arrêté du 20 août 1998 (EQUH9800899A)](arrete-du-20-aout-1998-equh9800899a)
 - [Arrêté du 20 avril 1998 (AGRA9800769A)](arrete-du-20-avril-1998-agra9800769a)
-- [Arrêté du 20 avril 1998 (DEFT9801448A)](arrete-du-20-avril-1998-deft9801448a)
 - [Arrêté du 20 avril 1998 (ECOC9800022A)](arrete-du-20-avril-1998-ecoc9800022a)
 - [Arrêté du 20 avril 1998 (ECOR9805006A)](arrete-du-20-avril-1998-ecor9805006a)
 - [Arrêté du 20 avril 1998 (EQUA9800564A)](arrete-du-20-avril-1998-equa9800564a)
