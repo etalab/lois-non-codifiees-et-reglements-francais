@@ -1,3 +1,3 @@
 # Article 412-75
 
-Les dispositions de l'article 411-21 sont applicables.
+Les dispositions des articles 411-21 et 411-64 à 411-71 sont applicables.

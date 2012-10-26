@@ -117,6 +117,13 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 </td>
 </tr>
 <tr>
+<td> Eucalyptus spp. <br/>
+</td>
+<td>Espèces du genre Eucalyptus spp. et hybrides artificiels entre ces espèces <br/>
+</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="168">
 <p>Fraxinus angustifolia Vahl. </p>
 </td>

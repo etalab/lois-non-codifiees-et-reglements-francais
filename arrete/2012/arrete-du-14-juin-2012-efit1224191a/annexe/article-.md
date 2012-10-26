@@ -342,7 +342,7 @@ A la lumière de l'offre et des titres financiers concernés, les informations c
 
 5° Les raisons de l'offre et l'utilisation prévue des fonds récoltés.
 
-34. A l'article 211-11, après les mots :  mentionnés à l'article 28 du règlement (CE) n° 809/2004 du 29 avril 2004  sont insérés les mots :  ou dans la directive 2004/109/CE.
+34. A l'article 212-11, après les mots :  mentionnés à l'article 28 du règlement (CE) n° 809/2004 du 29 avril 2004  sont insérés les mots :  ou dans la directive 2004/109/CE.
 
 35. L'article 212-12 est modifié comme suit :
 
@@ -420,7 +420,7 @@ Suppression du document de référence annuel
 
 46. A l'article 212-36, les mots :  et de l'article 222-7 sont supprimés.
 
-47. Les articles 222-7, 412-17, 412-18 et 421-17 et sont abrogés.
+47. Les articles 222-7, 412-17 et 421-17-18 sont abrogés.
 
 48. A l'article 223-16-1, la référence :  L. 451-1-1 est remplacée par la référence :  L. 412-1.
 

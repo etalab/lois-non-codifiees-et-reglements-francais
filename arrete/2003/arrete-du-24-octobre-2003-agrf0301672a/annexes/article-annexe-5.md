@@ -12,6 +12,8 @@ Directive 1999/105/CE du Conseil du 22/12/1999 concernant la commercialisation d
 
 5-D - Document du fournisseur pour un lot de plants ou parties de plantes avec passeport phytosanitaire intégré
 
-Les annexes du présent arrêté peuvent être consultées sur le site du ministère de l'agriculture et de la pêche à l'adresse :  http://agriculture.gouv.fr/sections/thematiques/foret-bois/graines-et-plants-forestiers.
+Les annexes du présent arrêté peuvent être consultées sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse :
 
-Une copie des annexes peut également être demandée par courrier adressé à la direction générale de la forêt et des affaires rurales (sous-direction de la forêt et du bois, bureau des investissements forestiers), 19, avenue du Maine, 75732 Paris Cedex 15.
+http://agriculture.gouv.fr/Textes-reglementaires-relatifs-aux.
+
+Une copie de l'annexe peut également être demandée par courrier adressé à la direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval, sous-direction de la forêt et du bois, bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15.

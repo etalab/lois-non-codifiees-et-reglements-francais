@@ -1,7 +1,5 @@
 # Article 412-67
 
-Le prospectus est composé des documents suivants dont les rubriques sont précisées par une instruction de l'AMF :
+Le contenu du prospectus de l'OPCVM contractuel est précisé par une instruction de l'AMF. Il mentionne l'identité de la société de gestion de portefeuille et du dépositaire et précise les règles d'investissement et de fonctionnement de l'OPCVM ainsi que l'ensemble des modalités de rémunération directe et indirecte de la société de gestion de portefeuille et du dépositaire.
 
-1° Une note détaillée mentionnant l'identité de la société de gestion de portefeuille et du dépositaire et précisant les règles d'investissement et de fonctionnement de l'OPCVM ainsi que l'ensemble des modalités de rémunération directe et indirecte de la société de gestion de portefeuille et du dépositaire ;
-
-2° Le règlement ou les statuts de l'OPCVM.
+Le règlement ou les statuts de l'OPCVM contractuel font partie intégrante du prospectus auquel ils sont annexés.

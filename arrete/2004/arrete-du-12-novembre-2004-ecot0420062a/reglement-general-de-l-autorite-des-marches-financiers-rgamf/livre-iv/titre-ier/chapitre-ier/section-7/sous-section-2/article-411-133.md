@@ -10,4 +10,4 @@ Peuvent être admises aux négociations sur un marché réglementé les parts ou
 
 L'algorithme dépend d'une ou de plusieurs données susceptibles de varier dans le temps, appelées " variables ".
 
-L'algorithme, l'indice et les conditions d'ajustement des variables sont décrits dans le prospectus complet et fixés dans des conditions compatibles avec une bonne information du public.
+L'algorithme, l'indice et les conditions d'ajustement des variables sont décrits dans le prospectus et fixés dans des conditions compatibles avec une bonne information du public.

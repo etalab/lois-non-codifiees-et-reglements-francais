@@ -1,8 +1,6 @@
 # Article Annexe 1
 
-Liste des essences soumises aux dispositions du code forestier,
-
-chapitre IV du titre V du livre V, nom botanique et nom commun
+Liste des espèces et hybrides artificiels relevant des dispositions du code forestier (chapitre IV du titre V du livre V)
 
 <table>
 <tbody>
@@ -124,6 +122,11 @@ chapitre IV du titre V du livre V, nom botanique et nom commun
 </td>
 <td valign="top" width="240">
 <p>Cèdre du Liban. </p>
+</td>
+</tr>
+<tr>
+<td>Eucalyptus spp.</td>
+<td>Espèces du genre Eucalyptus spp. et hybrides artificiels entre ces espèces <br/>
 </td>
 </tr>
 <tr>
@@ -355,7 +358,7 @@ chapitre IV du titre V du livre V, nom botanique et nom commun
 <p>Populus spp. </p>
 </td>
 <td valign="top" width="240">
-<p>Espèces du genre peuplier. </p>
+<p>Espèces du genre Populus spp. et hybrides artificiels entre ces espèces</p>
 </td>
 </tr>
 <tr>

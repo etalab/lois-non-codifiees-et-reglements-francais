@@ -158,10 +158,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin maritime </p>
 </td>
-<td valign="top" width="326">
-<p>1) En dehors de la région de provenance PPA 301 "Massif landais" et des régions administratives Bretagne et Pays-de-la-Loire ;</p>
-<p>2) Y compris la région de provenance PPA 301 "Massif landais" et les régions administratives Bretagne et Pays-de-la-Loire, à compter du 1er juillet 2012. </p>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -180,7 +177,7 @@ de matériel identifié est interdite sur le territoire français
 <p>Douglas vert </p>
 </td>
 <td valign="top" width="326">
-<p>A compter du 1er juillet 2012 </p>
+<br/>
 </td>
 </tr>
 <tr>

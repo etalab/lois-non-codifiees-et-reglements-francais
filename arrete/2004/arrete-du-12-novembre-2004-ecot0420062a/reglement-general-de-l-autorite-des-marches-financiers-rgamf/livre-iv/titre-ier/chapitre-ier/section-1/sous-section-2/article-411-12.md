@@ -1,12 +1,12 @@
 # Article 411-12
 
-L'attestation de dépôt des fonds du FCP est adressée à l'AMF par la société de gestion immédiatement après le dépôt des fonds et au plus tard dans les soixante jours suivant la date d'agrément du FCP.
+L'attestation de dépôt des fonds du FCP est adressée à l'AMF par la société de gestion immédiatement après le dépôt des fonds et au plus tard dans les cent quatre-vingts jours ouvrés suivant la date d'agrément du FCP.
 
 Pour les FCP à compartiments, cette attestation est adressée à l'AMF dans un délai :
 
-1° De soixante jours suivant la date d'agrément du FCP pour l'un au moins des compartiments ; et
+1° De cent quatre-vingts jours ouvrés suivant la date d'agrément du FCP pour l'un au moins des compartiments ; et
 
-2° De cent quatre-vingts jours suivant la date de notification de l'agrément pour les autres compartiments.
+2° De trois cent soixante jours ouvrés suivant la date de notification de l'agrément pour les autres compartiments s'il en existe.
 
 L'attestation de dépôt des fonds doit désigner le (ou les) compartiment (s) au (x) quel (s) elle se rapporte.
 

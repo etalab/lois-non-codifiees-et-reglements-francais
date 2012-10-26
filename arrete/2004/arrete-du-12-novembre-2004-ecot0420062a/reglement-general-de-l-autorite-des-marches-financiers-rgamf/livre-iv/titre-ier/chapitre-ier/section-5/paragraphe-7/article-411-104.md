@@ -8,4 +8,6 @@ b) La modification du règlement ou des statuts de l'OPCVM nourricier afin de lu
 
 La liquidation d'un OPCVM maître ne peut intervenir dans un délai inférieur à trois mois à compter du moment où il a informé tous ses porteurs et l'AMF, ou si l'OPCVM nourricier est établi dans un autre Etat membre de l'Union européenne, les autorités compétentes de cet Etat, de sa décision contraignante de liquidation.
 
+L'OPCVM nourricier est informé dans un délai de quinze jours ouvrables suivant la présentation de la demande, de l'octroi ou du refus de l'opération mentionnée au a ou b. Le silence gardé par l'AMF pendant un délai de quinze jours ouvrables à compter de l'accusé de réception de la demande par l'AMF vaut décision d'agrément.
+
 Le contenu du dossier d'agrément et la procédure d'agrément sont décrits dans une instruction de l'AMF.

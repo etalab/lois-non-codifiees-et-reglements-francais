@@ -8,7 +8,7 @@ Le silence gardé par l'AMF pendant un délai d'un mois à compter de l'accusé 
 
 Lorsque l'AMF demande des informations complémentaires nécessitant en retour l'envoi par la société de gestion d'une fiche complémentaire d'informations, l'AMF le notifie par écrit en précisant que les éléments demandés doivent lui parvenir dans un délai de soixante jours. A défaut de réception de ces éléments dans ce délai, la demande d'agrément est réputée rejetée. A réception de l'intégralité des informations demandées, l'AMF en accuse réception par écrit. Cet accusé de réception mentionne un nouveau délai d'agrément qui ne peut excéder celui mentionné à l'alinéa précédent.
 
-II. - Le délai mentionné au I est ramené à huit jours ouvrés à compter de l'accusé de réception du dossier l'agrément par l'AMF, lorsque la SICAV qui sollicite l'agrément est analogue à un OPCVM déjà agréé par l'AMF.
+II. - Le délai mentionné au I est ramené à huit jours ouvrés à compter de l'accusé de réception du dossier d'agrément par l'AMF, lorsque la SICAV qui sollicite l'agrément est analogue à un OPCVM déjà agréé par l'AMF.
 
 Le caractère analogue de la SICAV qui sollicite l'agrément, appelée " SICAV analogue ", et de l'OPCVM déjà agréé par l'AMF, appelé " OPCVM de référence ", est apprécié par l'AMF, notamment au vu de chacun des éléments suivants :
 

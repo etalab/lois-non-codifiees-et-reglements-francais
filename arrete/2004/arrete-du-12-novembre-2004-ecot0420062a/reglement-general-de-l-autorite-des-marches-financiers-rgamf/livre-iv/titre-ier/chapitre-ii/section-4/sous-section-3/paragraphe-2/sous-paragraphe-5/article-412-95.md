@@ -1,6 +1,6 @@
 # Article 412-95
 
-Les dispositions des articles 412-5 à 412-11,412-24 et 412-38 sont applicables.
+Les dispositions des articles 412-5 à 412-11,412-24 et 412-38 sont applicables, à l'exception de l'agrément de l'AMF, remplacé par une déclaration à l'AMF dans le mois qui suit la réalisation définitive de l'opération ou de l'événement.
 
 Les dispositions de l'article 412-6 s'appliquent à la fusion du FCPR contractuel sauf si son règlement prévoit que les coûts générés par l'opération de fusion peuvent être facturés au fonds.
 

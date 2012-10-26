@@ -14,6 +14,6 @@ Le correspondant centralisateur et, le cas échéant, les autres correspondants 
 
 4° Information particulière des porteurs dans les cas prévus par une instruction de l'AMF.
 
-Quand l'OPCVM n'est pas admis aux opérations du dépositaire central en France, le correspondant centralisateur peut être en charge de la seule fonction énoncée au 3°, à charge pour lui de contrôler que les tâches énumérées aux 1°, 2° et 4° sont bien exécutées.
+Quand l'OPCVM n'est pas admis aux opérations du dépositaire central en France, le contrat conclu entre le correspondant centralisateur et l'OPCVM peut prévoir que le correspondant centralisateur est en charge de la seule fonction mentionnée au 3° et que l'OPCVM demeure en charge des tâches mentionnées aux 1°, 2° et 4°. Dans ce cas, l'OPCVM informe le correspondant centralisateur de l'accomplissement des tâches dont il conserve la charge et lui transmet une copie de l'information mentionnée au 4°.
 
 Le correspondant centralisateur est chargé d'acquitter le droit fixe annuel, conformément à l'article L. 621-5-3 du code monétaire et financier.

@@ -13,3 +13,5 @@ Les informations fournies aux porteurs de l'OPCVM absorbé doivent répondre aux
 Les informations à fournir aux porteurs de l'OPCVM absorbant doivent porter pour l'essentiel sur les modalités de la fusion et sur son incidence potentielle sur l'OPCVM absorbant.
 
 Ce document est transmis au moins trente jours avant la date ultime de demande de rachat ou de remboursement ou de conversion sans frais supplémentaires, conformément à l'article 411-56.
+
+Lorsque l'AMF a autorisé la fusion, le ou les OPCVM de droit français participant à l'opération de fusion rendent publique la date de prise d'effet de la fusion au moins trente jours avant sa prise d'effet effective selon les modalités prévues à l'article R. 214-4 du code monétaire et financierpour les SICAV et sur un support durable au sens de l'article 314-26 accessible au public pour les FCP.

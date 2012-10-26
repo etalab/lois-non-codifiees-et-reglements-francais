@@ -366,7 +366,6 @@
 - [Arrêté du 6 décembre 2011 (ETSH1133835A)](arrete-du-6-decembre-2011-etsh1133835a)
 - [Arrêté du 6 décembre 2011 (ETSS1133342A)](arrete-du-6-decembre-2011-etss1133342a)
 - [Arrêté du 6 décembre 2011 (MCCB1133291A)](arrete-du-6-decembre-2011-mccb1133291a)
-- [Arrêté du 6 février 1992 (MERP9200029A)](arrete-du-6-fevrier-1992-merp9200029a)
 - [Arrêté du 6 février 2013 (ESRF1243534A)](arrete-du-6-fevrier-2013-esrf1243534a)
 - [Arrêté du 6 février 2013 (ESRF1243543A)](arrete-du-6-fevrier-2013-esrf1243543a)
 - [Arrêté du 6 février 2013 (ESRF1243563A)](arrete-du-6-fevrier-2013-esrf1243563a)

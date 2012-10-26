@@ -5,4 +5,3 @@
 - [Article 421-17-15](article-421-17-15.md)
 - [Article 421-17-16](article-421-17-16.md)
 - [Article 421-17-17](article-421-17-17.md)
-- [Article 421-17-18](article-421-17-18.md)

@@ -8,7 +8,7 @@ a) Du nombre maximum de porteurs pour les OPC réservés à vingt porteurs au pl
 
 b) De la diffusion des informations réglementaires aux porteurs par la société de gestion ;
 
-c) Des critères relatifs à la capacité des souscripteurs et acquéreurs, lorsque le dépositaire ne s'en assure pas directement conformément aux articles 412-49 et 413-60 ;
+c) Des critères relatifs à la capacité des souscripteurs et acquéreurs, lorsque le dépositaire ne s'en assure pas directement conformément aux articles 412-49 et 412-60 ;
 
 2° De prendre connaissance du système comptable de l'OPC ;
 

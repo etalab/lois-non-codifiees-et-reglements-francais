@@ -8,7 +8,7 @@ I.-La société de gestion informe le public :
 
 2° De tout ajustement des variables de l'algorithme. Cette information a lieu au plus tard sept jours ouvrés avant la mise en œuvre de cet ajustement ;
 
-3° Par dérogation au 2°, lorsqu'une ou plusieurs variables font l'objet d'ajustements automatiques répondant à des critères objectifs et à une périodicité prévus dans le prospectus complet, le public est informé de ces ajustements au plus tard sept jours ouvrés après la mise en œuvre de ces ajustements.
+3° Par dérogation au 2°, lorsqu'une ou plusieurs variables font l'objet d'ajustements automatiques répondant à des critères objectifs et à une périodicité prévus dans le prospectus, le public est informé de ces ajustements au plus tard sept jours ouvrés après la mise en œuvre de ces ajustements.
 
 La société de gestion s'assure de la diffusion effective et intégrale des informations mentionnées aux 1°, 2° et 3°. Elle les met en ligne sur son site.
 

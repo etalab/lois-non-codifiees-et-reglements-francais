@@ -1,8 +1,8 @@
 # Article 411-20
 
-Conformément aux dispositions des articles L. 214-7 et L. 214-8, les parts de FCP ou actions de SICAV sont émises à la demande des porteurs et à la valeur liquidative majorée ou diminuée, selon le cas, des frais et commissions.
+Conformément aux dispositions des articles L. 214-7 et L. 214-8 du code monétaire et financier, les parts de FCP ou actions de SICAV sont émises à la demande des porteurs et à la valeur liquidative majorée ou diminuée, selon le cas, des frais et commissions.
 
-Toutefois, l'OPCVM peut cesser d'émettre des parts ou actions en application du deuxième alinéa de l'article L. 214-7-4 et du deuxième alinéa de l'article L. 214-8-7 du code monétaire et financier. Dans ce cas, le prospectus définit les situations objectives entraînant la fermeture provisoire ou définitive des souscriptions, telles qu'un nombre maximum de parts ou d'actions émises, un montant maximum d'actif atteint ou l'expiration d'une période de souscription déterminée.
+Toutefois, l'OPCVM peut cesser d'émettre des parts ou actions en application du troisième alinéa de l'article L. 214-7-4 et du troisième alinéa de l'article L. 214-8-7 du code monétaire et financier. Dans ce cas, le prospectus définit les situations objectives entraînant la fermeture provisoire ou définitive des souscriptions, telles qu'un nombre maximum de parts ou d'actions émises, un montant maximum d'actif atteint ou l'expiration d'une période de souscription déterminée.
 
 Les actions et parts sont rachetées sur la base de leur valeur liquidative dans les conditions fixées par les articles 411-123 à 411-125.
 

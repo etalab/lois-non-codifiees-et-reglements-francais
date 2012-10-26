@@ -1,12 +1,12 @@
 # Article 411-8
 
-Le certificat de dépôt du capital initial de la SICAV est adressé par la société de gestion ou, le cas échéant, la SICAV à l'AMF immédiatement après le dépôt des fonds et au plus tard dans les soixante jours suivant la date d'agrément de la SICAV.
+Le certificat de dépôt du capital initial de la SICAV est adressé par la société de gestion ou, le cas échéant, la SICAV à l'AMF immédiatement après le dépôt des fonds et au plus tard dans les cent quatre-vingts jours ouvrés suivant la date d'agrément de la SICAV.
 
 Pour les SICAV à compartiments, ce certificat est adressé à l'AMF dans un délai :
 
-1° De soixante jours suivant la date d'agrément de la SICAV pour l'un au moins des compartiments ; et
+1° De cent quatre-vingts jours ouvrés suivant la date d'agrément de la SICAV pour l'un au moins des compartiments ; et
 
-2° De cent quatre-vingts jours suivant la date de notification de l'agrément pour les autres compartiments.
+2° De trois cent soixante jours ouvrés suivant la date de notification de l'agrément pour les autres compartiments s'il en existe.
 
 Le certificat de dépôt des fonds doit désigner le (ou les) compartiment (s) au (x) quel (s) il se rapporte.
 

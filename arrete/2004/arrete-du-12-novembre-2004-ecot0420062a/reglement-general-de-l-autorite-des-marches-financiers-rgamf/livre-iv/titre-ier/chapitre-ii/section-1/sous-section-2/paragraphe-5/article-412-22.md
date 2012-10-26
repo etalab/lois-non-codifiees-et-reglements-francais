@@ -20,7 +20,7 @@ II. - Le rapport annuel de l'OPCVM nourricier mentionne les informations précis
 
 Les rapports annuels et semestriels de l'OPCVM nourricier indiquent la manière dont il est possible de se procurer les rapports annuels et semestriels de l'OPCVM maître.
 
-Outre les exigences prévues aux articles 411-111,411-120 et 411-122, l'OPCVM nourricier agréé par l'AMF envoie à celle-ci le prospectus, le document d'information clé pour l'investisseur et, le cas échéant, toutes les modifications qui y sont apportées ainsi que les rapports annuels et semestriels de l'OPCVM maître.
+Outre les exigences prévues aux articles 411-112, 411-120 et 411-122, l'OPCVM nourricier agréé par l'AMF envoie à celle-ci le prospectus, le document d'information clé pour l'investisseur et, le cas échéant, toutes les modifications qui y sont apportées ainsi que les rapports annuels et semestriels de l'OPCVM maître.
 
 Un OPCVM nourricier indique dans toutes ses communications publicitaires concernées qu'il investit en permanence la totalité de son actif en parts ou actions d'un seul OPCVM dit maître et à titre accessoire en dépôts détenus dans la stricte limite des besoins liés à la gestion des flux de l'OPCVM et, le cas échéant, qu'il peut conclure des contrats financiers.
 

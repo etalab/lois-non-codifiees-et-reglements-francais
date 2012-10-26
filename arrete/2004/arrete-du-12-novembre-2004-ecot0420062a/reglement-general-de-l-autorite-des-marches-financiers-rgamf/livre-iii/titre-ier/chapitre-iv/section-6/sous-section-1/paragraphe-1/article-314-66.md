@@ -10,6 +10,6 @@ I. - Le prestataire de services d'investissement se conforme aux conditions suiv
 
 II. - Dans le cas où le prestataire de services d'investissement est chargé de superviser ou d'organiser le règlement d'un ordre exécuté, il prend toutes les dispositions raisonnables pour s'assurer que tous les instruments financiers ou les fonds du client reçus en règlement de l'ordre exécuté sont rapidement et correctement affectés au compte du client approprié.
 
-III. - Le prestataire de services d'investissement ne doit pas exploiter abusivement des informations relatives à des ordres de en attente d'exécution et il est tenu de prendre toutes les mesures raisonnables en vue d'empêcher un usage abusif de ces informations par l'une quelconque des personnes concernées mentionnées au II de l'article 313-2.
+III. - Le prestataire de services d'investissement ne doit pas exploiter abusivement des informations relatives à des ordres en attente d'exécution et il est tenu de prendre toutes les mesures raisonnables en vue d'empêcher un usage abusif de ces informations par l'une quelconque des personnes concernées mentionnées au II de l'article 313-2.
 
 IV. - Le prestataire de services d'investissement qui gère un OPCVM ou qui fournit le service de gestion de portefeuille définit a priori l'affectation prévisionnelle des ordres qu'il émet. Dès qu'il a connaissance de leur exécution, il transmet au dépositaire de l'OPCVM ou au teneur de compte l'affectation précise des bénéficiaires de ces exécutions. Cette affectation est définitive.

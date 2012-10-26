@@ -1,6 +1,6 @@
 # Article 411-80
 
-I. - Le risque global d'un OPCVM à formule est mesuré par la méthode du calcul de l'engagement ou par la méthode de la valeur en risque.
+Le risque global d'un OPCVM à formule est mesuré par la méthode du calcul de l'engagement ou par la méthode de la valeur en risque.
 
 Si l'OPCVM à formule répond à toutes les conditions suivantes, il peut appliquer des règles spécifiques, fixées par une instruction de l'AMF, dans le calcul du risque global par la méthode du calcul de l'engagement :
 

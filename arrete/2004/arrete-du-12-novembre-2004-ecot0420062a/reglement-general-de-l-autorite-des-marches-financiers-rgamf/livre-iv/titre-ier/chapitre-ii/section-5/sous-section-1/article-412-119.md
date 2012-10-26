@@ -10,7 +10,7 @@ II. - Le délai mentionné au I est ramené à huit jours ouvrés à compter de 
 
 1° L'OPCVM de référence et l'OPCVM analogue sont gérés par la même société de gestion de portefeuille ou un même délégataire de la gestion financière, ou par des sociétés de gestion ou des délégataires de la gestion financière appartenant à un même groupe et, sous réserve de l'appréciation de l'AMF, des informations transmises par la société de gestion de l'OPCVM analogue dans les conditions fixées dans une instruction de l'AMF ;
 
-2° L'OPCVM de référence a été agréé par l'AMF et constituée au cours des dix-huit mois précédant la date de réception du dossier d'agrément de l'OPCVM analogue par l'AMF. Sur demande motivée de la société de gestion de l'OPCVM analogue, l'AMF pourra accepter que l'OPCVM de référence ait été agréé et créé plus de huit mois avant la date de réception du dossier de l'OPCVM ;
+2° L'OPCVM de référence a été agréé par l'AMF et constitué au cours des dix-huit mois précédant la date de réception du dossier d'agrément de l'OPCVM analogue par l'AMF. Sur demande motivée de la société de gestion de l'OPCVM analogue, l'AMF pourra accepter que l'OPCVM de référence ait été agréé et constitué plus de dix-huit mois avant la date de réception du dossier de l'OPCVM analogue ;
 
 3° L'OPCVM de référence n'a pas subi de changements autres que ceux mentionnés dans une instruction de l'AMF.
 
