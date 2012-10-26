@@ -1,0 +1,3 @@
+# Article 4
+
+Les mesures d'exécution des opérations concernant les matériels de guerre et matériels assimilés ainsi que les transferts intracommunautaires des produits liés à la défense ou des matériels mentionnés à l'article L. 2335-18 du code de la défense sont préparées, mises en œuvre et contrôlées, dans la limite de leurs attributions respectives, par le secrétaire général de la défense et de la sécurité nationale, le ministre des affaires étrangères, le ministre de la défense, le ministre chargé de l'économie et le ministre chargé des douanes, dans le cadre des directives fixées par le Premier ministre.
