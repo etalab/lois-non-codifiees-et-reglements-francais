@@ -626,6 +626,7 @@
 - [Décret n°94-510 du 23 juin 1994 (AGRP9400384D)](decret-n94-510-du-23-juin-1994-agrp9400384d)
 - [Décret n°2009-1643 du 24 décembre 2009 (MCCX0924891D)](decret-n2009-1643-du-24-decembre-2009-mccx0924891d)
 - [Décret n°2012-1079 du 24 septembre 2012 (MCCK1230406D)](decret-n2012-1079-du-24-septembre-2012-mcck1230406d)
+- [Décret n°2012-1187 du 24 octobre 2012 (EFIT1223470D)](decret-n2012-1187-du-24-octobre-2012-efit1223470d)
 - [Décret n°2012-262 du 24 février 2012 (TRAX1205826D)](decret-n2012-262-du-24-fevrier-2012-trax1205826d)
 - [Décret n°2012-263 du 24 février 2012 (LOGX1205824D)](decret-n2012-263-du-24-fevrier-2012-logx1205824d)
 - [Décret n°2012-268 du 24 février 2012 (JUST1129393D)](decret-n2012-268-du-24-fevrier-2012-just1129393d)
