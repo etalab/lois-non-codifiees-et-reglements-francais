@@ -2924,7 +2924,6 @@
 - [Arrêté du 30 novembre 2011 (IOCL1131488A)](arrete-du-30-novembre-2011-iocl1131488a)
 - [Arrêté du 30 novembre 2011 (JUSB1131243A)](arrete-du-30-novembre-2011-jusb1131243a)
 - [Arrêté du 30 novembre 2011 (MCCB1130672A)](arrete-du-30-novembre-2011-mccb1130672a)
-- [Arrêté du 30 novembre 2011 (MCCC1132601A)](arrete-du-30-novembre-2011-mccc1132601a)
 - [Arrêté du 30 novembre 2011 (MENE1132529A)](arrete-du-30-novembre-2011-mene1132529a)
 - [Arrêté du 30 novembre 2011 (MENE1132623A)](arrete-du-30-novembre-2011-mene1132623a)
 - [Arrêté du 30 novembre 2011 (MENE1132636A)](arrete-du-30-novembre-2011-mene1132636a)
