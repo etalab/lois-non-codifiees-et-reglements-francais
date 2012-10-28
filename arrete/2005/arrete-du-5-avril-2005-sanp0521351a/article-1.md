@@ -442,6 +442,8 @@ Assistance publique - hôpitaux de Paris, hôpital Avicenne, 125, route de Stali
 
 Hôpital Casanova, 11, rue Danièle-Casanova, 93200 Saint-Denis.
 
+Centre hospitalier universitaire Jean Verdier, avenue du 14-Juillet, 93140 Bondy.
+
 94 - Val-de-Marne
 
 Hôpital des armées Bégin, 69, avenue de Paris, 94160 Saint-Mandé.
