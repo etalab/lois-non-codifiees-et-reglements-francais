@@ -674,6 +674,7 @@
 - [Décret n°2012-1080 du 25 septembre 2012 (AFSS1231502D)](decret-n2012-1080-du-25-septembre-2012-afss1231502d)
 - [Décret n°2012-1081 du 25 septembre 2012 (ETLL1220727D)](decret-n2012-1081-du-25-septembre-2012-etll1220727d)
 - [Décret n°2012-1083 du 25 septembre 2012 (TRAT1208192D)](decret-n2012-1083-du-25-septembre-2012-trat1208192d)
+- [Décret n°2012-1190 du 25 octobre 2012 (JUSC1220580D)](decret-n2012-1190-du-25-octobre-2012-jusc1220580d)
 - [Décret n°2012-558 du 25 avril 2012 (IOCA1210246D)](decret-n2012-558-du-25-avril-2012-ioca1210246d)
 - [Décret n°2012-577 du 25 avril 2012 (DEFH1220224D)](decret-n2012-577-du-25-avril-2012-defh1220224d)
 - [Décret n°2012-582 du 25 avril 2012 (MCCK1208025D)](decret-n2012-582-du-25-avril-2012-mcck1208025d)
