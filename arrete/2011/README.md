@@ -880,7 +880,6 @@
 - [Arrêté du 11 avril 2011 (AGRT1030815A)](arrete-du-11-avril-2011-agrt1030815a)
 - [Arrêté du 11 avril 2011 (BCRE1107710A)](arrete-du-11-avril-2011-bcre1107710a)
 - [Arrêté du 11 avril 2011 (BCRE1108418A)](arrete-du-11-avril-2011-bcre1108418a)
-- [Arrêté du 11 avril 2011 (DEVA1106210A)](arrete-du-11-avril-2011-deva1106210a)
 - [Arrêté du 11 avril 2011 (DEVT1108917A)](arrete-du-11-avril-2011-devt1108917a)
 - [Arrêté du 11 avril 2011 (EFIU1107031A)](arrete-du-11-avril-2011-efiu1107031a)
 - [Arrêté du 11 avril 2011 (ETSP1114172A)](arrete-du-11-avril-2011-etsp1114172a)
