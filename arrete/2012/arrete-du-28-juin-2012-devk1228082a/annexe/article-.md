@@ -9,16 +9,23 @@ AINSI QUE DES CRITÈRES PRÉALABLES EXIGÉS ET OBLIGATIONS STATUTAIRES
 <table>
 <tbody>
 <tr>
-<th>CORPS/ GRADE <br/>
-</th>
-<th>CATÉGORIE <br/>fonction <br/>publique <br/>
-</th>
-<th>CRITÈRES PRÉALABLES <br/>
-</th>
-<th>TESTS <br/>psychotechniques <br/>
-</th>
-<th>OBLIGATIONS STATUTAIRES <br/>
-</th>
+<td>
+<p align="center"> CORPS/ GRADE </p>
+</td>
+<td>
+<p align="center"> CATÉGORIE <br/>fonction <br/>publique <br/>
+</p>
+</td>
+<td>
+<p align="center"> CRITÈRES PRÉALABLES <br/>
+</p>
+</td>
+<td>
+<p align="center"> TESTS <br/>psychotechniques </p>
+</td>
+<td>
+<p align="center"> OBLIGATIONS STATUTAIRES </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -34,12 +41,12 @@ AINSI QUE DES CRITÈRES PRÉALABLES EXIGÉS ET OBLIGATIONS STATUTAIRES
 <p align="center">Non </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Scolarité à l'Ecole nationale supérieure maritime (ENSM) de Nantes</p>
+<p align="left">Scolarité à l'Ecole nationale de la sécurité et de l'administration de la mer (ENSAM) </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">   Secrétaires d'administration et de contrôle du développement durable </p>
+<p align="left">Secrétaires d'administration et de contrôle du développement durable </p>
 </td>
 <td align="left" valign="top">
 <p align="center">B </p>
@@ -51,7 +58,7 @@ AINSI QUE DES CRITÈRES PRÉALABLES EXIGÉS ET OBLIGATIONS STATUTAIRES
 <p align="center">Non </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Formation initiale en CMVRH et en école (ENTE Valenciennes) </p>
+<p align="left">Formation initiale en CVRH et en école (ENTE Valenciennes) </p>
 </td>
 </tr>
 <tr>
@@ -86,12 +93,12 @@ AINSI QUE DES CRITÈRES PRÉALABLES EXIGÉS ET OBLIGATIONS STATUTAIRES
 <p align="center">Non </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Scolarité minimale de six mois à l'ENSERR (Ecole nationale de sécurité routière et de recherche) de Nevers </p>
+<p align="left">Scolarité minimale de six mois à l'INSERR (Institut national de sécurité routière et de recherches) de Nevers .</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Secrétaires d'administration et de contrôle du développement durable  </p>
+<p align="left">Secrétaires d'administration et de contrôle du développement durable </p>
 </td>
 <td align="center">
 <p align="center">B </p>
