@@ -2061,7 +2061,6 @@
 - [Arrêté du 25 juin 2012 (EFIU1226094A)](arrete-du-25-juin-2012-efiu1226094a)
 - [Arrêté du 25 juin 2012 (ESRH1226974A)](arrete-du-25-juin-2012-esrh1226974a)
 - [Arrêté du 25 juin 2012 (MENE1227135A)](arrete-du-25-juin-2012-mene1227135a)
-- [Arrêté du 25 juin 2012 (SPOF1228005A)](arrete-du-25-juin-2012-spof1228005a)
 - [Arrêté du 25 novembre 2002 (AGRA0200098A)](arrete-du-25-novembre-2002-agra0200098a)
 - [Arrêté du 25 novembre 2002 (AGRA0201392A)](arrete-du-25-novembre-2002-agra0201392a)
 - [Arrêté du 25 novembre 2011 (AGRE1130317A)](arrete-du-25-novembre-2011-agre1130317a)
