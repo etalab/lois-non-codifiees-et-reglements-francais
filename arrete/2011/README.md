@@ -760,7 +760,6 @@
 - [Arrêté du 10 août 2011 (DEVA1122584A)](arrete-du-10-aout-2011-deva1122584a)
 - [Arrêté du 10 août 2011 (DEVA1122589A)](arrete-du-10-aout-2011-deva1122589a)
 - [Arrêté du 10 août 2011 (DEVA1122592A)](arrete-du-10-aout-2011-deva1122592a)
-- [Arrêté du 10 août 2011 (DEVL1117693A)](arrete-du-10-aout-2011-devl1117693a)
 - [Arrêté du 10 août 2011 (EFIT1109964A)](arrete-du-10-aout-2011-efit1109964a)
 - [Arrêté du 10 août 2011 (ETSH1122443A)](arrete-du-10-aout-2011-etsh1122443a)
 - [Arrêté du 10 août 2011 (ETSS1120486A)](arrete-du-10-aout-2011-etss1120486a)
