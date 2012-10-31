@@ -20,9 +20,11 @@ Flottille amphibie de Toulon ;
 
 Structure de commandement du commandement des forces aériennes ;
 
+Structure intégrée du maintien en condition opérationnelle des matériels terrestres ;
+
 Etat-major opérationnel du commandement de la défense aérienne et des opérations aériennes ;
 
-Commandos parachutistes de l'air n° s 10, 20 et 30 ;
+Commandos parachutistes de l'air numéros 10, 20 et 30 ;
 
 Centre air de saut en vol (CASV) ;
 
@@ -30,13 +32,13 @@ Centre de formation et d'entraînement des forces de protection, de sécurité e
 
 Unités d'encadrement des unités de protection en métropole ;
 
-Escadron de maintenance cynophile de l'armée de l'air ;
-
 Division aérotactique de l'escadron de survie opérationnelle et des parachutistes d'essai (ESOPE) de l'armée de l'air ;
 
-état-major des opérations spéciales de l'OTAN à compter du 11 juillet 2011 ;
+Etat-major des opérations spéciales de l'OTAN ;
 
-bureaux sécurité nucléaire des bases aériennes de Dijon, Saint-Dizier, Luxeuil, Istres et Bourges-Avord à compter du 1er septembre 2011.
+Royal Air Force Regiment, Coningsby-Honington ;
+
+Bureaux sécurité nucléaire des bases aériennes de Dijon, Saint-Dizier, Istres et Bourges-Avord.
 
 3. Gendarmerie :
 
