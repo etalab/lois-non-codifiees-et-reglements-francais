@@ -30,7 +30,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">Champ d'application<br/>et/ou usage</p>
 </td>
 <td align="left" valign="top">
-<p align="center">Concentration maximale<br/>autorisée dans<br/>le produit cosmétique fini</p>
+<p align="center">Concentration maximale<br/>autorisée dans<br/>le produit<br/>cosmétique fini</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Autres limitations<br/>et exigences</p>
@@ -511,23 +511,78 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" rowspan="5" valign="top">
 <p align="center">12</p>
 </td>
-<td align="left" valign="top">
-<p align="left">Eau oxygénée et autres composés ou mélanges libérant de l'eau oxygénée dont le carbamide d'eau oxygénée et le peroxyde de zinc.</p>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Peroxyde d'hydrogène et autres composés ou mélanges libérant du peroxyde d'hydrogène, dont le peroxyde de carbamide et le peroxyde de zinc.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">a) Préparations pour traitements capillaires.<br/>b) Préparations pour l'hygiène de la peau.<br/>c) Préparations pour durcir les ongles.<br/>d) Produits d'hygiène buccale.</p>
+<p align="left">a) Mélanges pour traitements capillaires.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">12 % d'H2O2 (40 volumes) présent ou dégagé.<br/>4 % d'H2O2 présent ou dégagé.<br/>2 % d'H2O2 présent ou dégagé.<br/>0,1 % d'H2O2 présent ou dégagé.</p>
+<p align="left">a) 12 % de H<sub>2</sub>O<sub>2</sub> (40 volumes) présent ou dégagé.</p>
 </td>
 <td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">a), b), c) :<br/>- contient de l'eau oxygénée ;<br/>- éviter le contact du produit avec les yeux ;<br/>- rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.<br/>a) Porter des gants appropriés.</p>
+<p align="left">a) Porter des gants appropriés</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">b) Mélanges pour l'hygiène de la peau.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">b) 4 % de H<sub>2</sub>O<sub>2</sub> présent ou dégagé.</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">a) b) c) e) : </p>
+<p>"Contient du peroxyde d'hydrogène". </p>
+<p>Eviter le contact avec les yeux. </p>
+<p>Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">c) Mélanges pour durcir les ongles.</p>
+</td>
+<td>
+<p align="left">c) 2 % de H<sub>2</sub>O<sub>2</sub> présent ou dégagé.</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">d) Produits bucco-dentaires, y compris les produits de rinçage buccal, les dentifrices et les produits de blanchiment ou d'éclaircissement des dents.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">d) ≤ 0,1 % de H<sub>2</sub>O<sub>2</sub> présent ou dégagé </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">e) Produits de blanchiment ou d'éclaircissement des dents. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">e) &gt; 0,1 % et ≤ 6 % de H<sub>2</sub>O<sub>2</sub> présent ou dégagé.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">e) Doit être vendu uniquement à des praticiens de l'art dentaire. Pour chaque cycle d'utilisation, première utilisation par des praticiens de l'art dentaire au sens de l'article L. 4141-2 du code de la santé publique, ou sous leur supervision directe, si un niveau de sécurité équivalent est assuré. Ensuite, à fournir au consommateur pour terminer le cycle d'utilisation. </p>
+<p>Ne pas utiliser chez les enfants/adolescents âgés de moins de dix-huit ans. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">e) Concentration en H<sub>2</sub>O<sub>2</sub> présent ou dégagé indiqué en pourcentage. </p>
+<p>Ne pas utiliser chez les enfants/adolescents âgés de moins de dix-huit ans. </p>
+<p>Contient du peroxyde d'hydrogène. </p>
+<p>Eviter le contact avec les yeux. </p>
+<p>Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci. </p>
+<p>Doit être vendu uniquement à des praticiens de l'art dentaire. Pour chaque cycle d'utilisation, la première utilisation doit être effectuée uniquement par des praticiens de l'art dentaire ou sous leur supervision directe, si un niveau de sécurité équivalent est assuré. Ensuite, à fournir au consommateur pour terminer le cycle d'utilisation.</p>
 </td>
 </tr>
 <tr>
