@@ -28,4 +28,10 @@ Est dispensé de la vérification des exigences préalables à la mise en situat
 
 - le titulaire du brevet fédéral moniteur, dans la mention visée, délivré par la Fédération française de cyclotourisme ;
 
-- le titulaire du brevet fédéral 2e degré, dans la mention visée, délivré par la Fédération française de cyclisme.
+- le titulaire du brevet fédéral 2e degré, dans la mention visée, délivré par la Fédération française de cyclisme ;
+
+- le titulaire de "l'entraîneur jeunes" associé à une spécialité de la mention visée, délivré par la Fédération française de cyclisme ;
+
+- le titulaire de "l'entraîneur club" associé à une spécialité de la mention visée, délivré par la Fédération française de cyclisme ;
+
+- le titulaire de "l'entraîneur cyclisme pour tous" associé de la mention visée, délivré par la Fédération française de cyclisme.

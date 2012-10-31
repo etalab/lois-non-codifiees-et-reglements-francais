@@ -36,6 +36,12 @@ Est dispensé de la démonstration technique selon la mention visée à l'entré
 
 - le titulaire du brevet fédéral moniteur dans la mention visée, délivré par la Fédération française de cyclotourisme ;
 
-- le titulaire du brevet fédéral 2ème degré dans la mention visée, délivré par Fédération française de cyclisme.
+- le titulaire du brevet fédéral 2e degré dans la mention visée, délivré par Fédération française de cyclisme ;
+
+- le titulaire de "l'entraîneur jeunes" associé à une spécialité de la mention visée, délivré par la Fédération française de cyclisme ;
+
+- le titulaire de "l'entraîneur club" associé à une spécialité de la mention visée, délivré par la Fédération française de cyclisme ;
+
+- le titulaire de "l'entraîneur cyclisme pour tous" associé à une spécialité de la mention visée, délivré par la Fédération française de cyclisme.
 
 Est également dispensé de cette démonstration technique à l'entrée en formation, le sportif de haut niveau dans la mention visée, inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L.221-2 du code du sport.
