@@ -1165,7 +1165,6 @@
 - [Décret n°2010-889 du 29 juillet 2010 (MENX1014983D)](decret-n2010-889-du-29-juillet-2010-menx1014983d)
 - [Décret n°2010-890 du 29 juillet 2010 (DEFH1018374D)](decret-n2010-890-du-29-juillet-2010-defh1018374d)
 - [Décret n°2010-893 du 29 juillet 2010 (ECEE1013643D)](decret-n2010-893-du-29-juillet-2010-ecee1013643d)
-- [Décret n°2005-1792 du 30 décembre 2005 (ECOP0500973D)](decret-n2005-1792-du-30-decembre-2005-ecop0500973d)
 - [Décret n°2009-1679 du 30 décembre 2009 (DEVU0925052D)](decret-n2009-1679-du-30-decembre-2009-devu0925052d)
 - [Décret n°2009-1680 du 30 décembre 2009 (DEVU0925541D)](decret-n2009-1680-du-30-decembre-2009-devu0925541d)
 - [Décret n°2009-1681 du 30 décembre 2009 (DEVU0924520D)](decret-n2009-1681-du-30-decembre-2009-devu0924520d)

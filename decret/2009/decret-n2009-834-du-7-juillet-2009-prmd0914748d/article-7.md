@@ -16,6 +16,8 @@ Outre le secrétaire général de la défense et de la sécurité nationale qui 
 
 ― le directeur général des systèmes d'information et de communication ;
 
+― le directeur interministériel des systèmes d'information et de communication de l'Etat ;
+
 ― le directeur général de la modernisation de l'Etat ;
 
 ― le directeur central du renseignement intérieur ;

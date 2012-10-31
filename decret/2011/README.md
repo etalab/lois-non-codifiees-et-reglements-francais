@@ -543,6 +543,7 @@
 - [Décret n°2011-1921 du 21 décembre 2011 (EFIR1123576D)](decret-n2011-1921-du-21-decembre-2011-efir1123576d)
 - [Décret n°2011-1924 du 21 décembre 2011 (ETSD1125844D)](decret-n2011-1924-du-21-decembre-2011-etsd1125844d)
 - [Décret n°2011-1925 du 21 décembre 2011 (ETSS1133475D)](decret-n2011-1925-du-21-decembre-2011-etss1133475d)
+- [Décret n°2011-193 du 21 février 2011 (PRMX1104430D)](decret-n2011-193-du-21-fevrier-2011-prmx1104430d)
 - [Décret n°2011-1932 du 21 décembre 2011 (COTB1127804D)](decret-n2011-1932-du-21-decembre-2011-cotb1127804d)
 - [Décret n°2011-295 du 21 mars 2011 (IOCC1032899D)](decret-n2011-295-du-21-mars-2011-iocc1032899d)
 - [Décret n°2012-249 du 21 février 2012 (BCRP1128916D)](decret-n2012-249-du-21-fevrier-2012-bcrp1128916d)
