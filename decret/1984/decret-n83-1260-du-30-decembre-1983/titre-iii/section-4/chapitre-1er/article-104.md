@@ -1,3 +1,11 @@
 # Article 104
 
-Le nombre d'emplois de technicien de la recherche de classe supérieure ne peut comprendre plus de 25 p. 100 de l'effectif total des deux premiers grades des corps de techniciens de la recherche.
+Les corps de techniciens de la recherche comprennent les grades suivants :
+
+1° Technicien de la recherche de classe normale ;
+
+2° Technicien de la recherche de classe supérieure ;
+
+3° Technicien de la recherche de classe exceptionnelle.
+
+Ces grades sont respectivement assimilés aux premier, deuxième et troisième grades mentionnés par le décret du 11 novembre 2009 susmentionné.

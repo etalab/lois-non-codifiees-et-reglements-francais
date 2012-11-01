@@ -2,20 +2,10 @@
 
 Les concours prévus au 1° de l'article 94 sont organisés par branche d'activité professionnelle et par emploi type en vue de pourvoir un ou plusieurs emplois dans les conditions énoncées ci après. Toutefois, les concours internes peuvent être organisés par branche d'activité professionnelle ou par regroupement de branches d'activité professionnelle.
 
-1° Des concours externes sur titres et travaux sont ouverts aux candidats titulaires d'un des diplômes ci après :
+1° Des concours externes sur titres et travaux pouvant, le cas échéant, être complétés d'épreuves sont ouverts aux candidats titulaires d'un titre ou d'un diplôme classé au moins au niveau III. Ils sont également ouverts aux candidats possédant une qualification professionnelle jugée équivalente à l'un des titres ou diplômes cités ci-dessus par la commission mentionnée à l'article 67 du présent décret qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste mentionnée à l'article 235 ;
 
-Diplômes universitaires de technologie ou brevet de technicien supérieur ou diplôme d'études universitaires scientifiques et technologiques ou titre universitaire étranger jugé équivalent, pour l'application du présent décret, à l'un des diplômes précités par la commission mentionnée à l'article 67.
+2° Des concours internes sur titres et travaux pouvant, le cas échéant, être complétés d'épreuves sont ouverts aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires et magistrats ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale.
 
-Diplôme délivré par un établissement public ou privé dont l'équivalence avec l'un des diplômes ci-dessus pour l'application du présent décret aura été déterminée par la commission prévue à l'article 67 ci-dessus.
+Les candidats doivent être en fonctions à la date de clôture des inscriptions et justifier, au 1er janvier de l'année au titre de laquelle est organisé le concours, de quatre années au moins de services publics.
 
-En outre peuvent se présenter à ces concours des candidats titulaires d'un diplôme de niveau III et des candidats justifiant qu'ils possèdent une qualification professionnelle jugée équivalente, pour l'application du présent décret, à l'un des diplômes mentionnés ci dessus par la commission prévue à l'article 67 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 235.
-
-2° Des concours internes sont ouverts :
-
-a) Aux techniciens de la recherche et aux secrétaires d'administration de la recherche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement de ce corps ainsi qu'aux adjoints techniques de la recherche justifiant de huit années de services effectués en position d'activité dans leur corps ou en position de détachement de ce corps ;
-
-b) Aux fonctionnaires régis par des statuts particuliers pris en application de la loi du 15 juillet 1982 susvisée appartenant à un corps de techniciens, de secrétaires d'administration ou d'adjoints techniques et remplissant les conditions de services fixées au a) ;
-
-c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est au moins équivalent à celui d'un corps de catégorie C et remplissant les conditions de services fixées au a) ;
-
-d) Aux agents non titulaires remplissant les mêmes conditions de services que celles prévues pour les corps mentionnés au a.
+Ces concours sont également ouverts aux candidats justifiant, au 1er janvier de l'année au titre de laquelle le concours est organisé, de quatre ans de services auprès d'une administration, d'un organisme ou d'un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par ledit alinéa.

@@ -8,6 +8,6 @@ Pour être promus les intéressés doivent être inscrits par le directeur gén�
 
 Les fonctionnaires qui ont posé leur candidature pour l'accès au grade d'ingénieur de recherche hors classe sont admis chaque année à subir une sélection professionnelle devant un jury dont la composition est celle prévue au titre V ci après. Les délibérations du jury peuvent être précédées de la consultation d'experts prévue à l'article 235 du titre V.
 
-Le jury établit une liste de classement des candidats retenus. Seuls les candidats figurant sur la liste établie au titre d'une année peuvent être inscrits, après avis de la commission administrative paritaire compétente, au tableau d'avancement suivant.
+Le jury établit une liste alphabétique des candidats retenus. Seuls les candidats figurant sur la liste établie au titre d'une année peuvent être inscrits, après avis de la commission administrative paritaire compétente, au tableau d'avancement suivant.
 
 Un arrêté conjoint du ministre chargé de la recherche, du ou des ministres chargés de la tutelle de l'établissement et du ministre chargé de la fonction publique détermine les conditions de la sélection professionnelle.

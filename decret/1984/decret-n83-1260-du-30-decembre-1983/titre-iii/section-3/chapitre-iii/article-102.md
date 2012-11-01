@@ -5,165 +5,190 @@ La durée moyenne du temps passé dans chacun des échelons du corps des assista
 <table>
 <tbody>
 <tr>
-<td width="129">
-<p align="center">ECHELONS</p>
+<td rowspan="2">
+<p align="center">ÉCHELON</p>
 </td>
-<td width="124">
-<p align="center">DUREE MOYENNE</p>
-</td>
-<td width="124">
-<p align="center">DUREE MINIMALE</p>
+<td colspan="2">
+<p align="center">DURÉE</p>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>14e échelon</p>
+<td>
+<p align="center">Moyenne</p>
 </td>
-<td colspan="2" width="249">
-<p align="center">Echelon terminal</p>
-</td>
-</tr>
-<tr>
-<td width="129">
-<p>13e échelon</p>
-</td>
-<td width="124">
-<p align="center">2 ans</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td>
+<p align="center">Minimale </p>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>12e échelon</p>
-</td>
-<td width="124">
-<p align="center">2 ans</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td>16e échelon</td>
+<td colspan="2">
+<p align="center">Echelon terminal </p>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>11e échelon</p>
+<td align="center">
+<br/>15e échelon <br/>
 </td>
-<td width="124">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td width="129">
-<p>10e échelon</p>
-</td>
-<td width="124">
-<p align="center">2 ans</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>2 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>9e échelon</p>
+<td align="center">
+<br/>14e échelon <br/>
 </td>
-<td width="124">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td width="129">
-<p>8e échelon</p>
-</td>
-<td width="124">
-<p align="center">2 ans</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>2 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>7e échelon</p>
+<td align="center">
+<br/>13e échelon <br/>
 </td>
-<td width="124">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td width="129">
-<p>6e échelon</p>
-</td>
-<td width="124">
-<p align="center">2 ans</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>5e échelon</p>
+<td align="center">
+<br/>12e échelon <br/>
 </td>
-<td width="124">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td width="129">
-<p>4e échelon</p>
-</td>
-<td width="124">
-<p align="center">2 ans</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>3e échelon</p>
+<td align="center">
+<br/>11e échelon <br/>
 </td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td width="129">
-<p>2e échelon</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
-</td>
-<td width="124">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td width="129">
-<p>1er échelon</p>
+<td align="center">
+<br/>10e échelon <br/>
 </td>
-<td width="124">
-<p align="center">1 an</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td width="124">
-<p align="center">1 an</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+<td align="center">
+<br/>1 an<br/>
 </td>
 </tr>
 </tbody>
