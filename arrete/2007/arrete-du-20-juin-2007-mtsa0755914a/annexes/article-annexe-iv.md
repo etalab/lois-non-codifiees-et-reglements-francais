@@ -1,142 +1,157 @@
 # Article Annexe IV
 
-TABLEAU D'ALLÈGEMENTS ET DE DISPENSES DES DOMAINES DE FORMATION
+TABLEAU D'ALLÈGEMENTS ET DE DISPENSES DE DOMAINES DE FORMATION
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="97">
-<p align="center">Diplômes détenus<br/>par le candidat</p>
+<td valign="top">
+<p align="center">DIPLÔMES DÉTENUS <br/>par le candidat <br/>Domaines de formation </p>
 </td>
-<td valign="top" width="83">
-<p align="center">Diplôme d'état<br/>de technicien<br/>de l'intervention sociale et familiale</p>
+<td valign="top">
+<p align="center">DIPLÔME D'ÉTAT <br/>de technicien <br/>de l'intervention <br/>sociale et familiale </p>
 </td>
-<td valign="top" width="85">
-<p align="center">Baccalauréat<br/>professionnel<br/>services de<br/>proximité<br/>et vie locale</p>
+<td valign="top">
+<p align="center">BACCALAURÉAT <br/>professionnel <br/>services <br/>de proximité <br/>et vie locale </p>
 </td>
-<td valign="top" width="85">
-<p align="center">Baccalauréat<br/>professionnel<br/>services<br/>en milieu rural</p>
+<td valign="top">
+<p align="center">BACCALAURÉAT <br/>professionnel <br/>services <br/>en milieu rural </p>
 </td>
-<td valign="top" width="99">
-<p align="center">BEATEP<br/>spécialité activité sociale<br/>et vie<br/>locale<br/>ou BP<br/>JEPS<br/>animation<br/>sociale</p>
+<td valign="top">
+<p align="center">BEATEP <br/>spécialité <br/>activité sociale <br/>et vie locale <br/>ou BPJEPS <br/>animation sociale </p>
 </td>
-<td valign="top" width="86">
-<p align="center">Diplôme<br/>d'Etat<br/>d'auxiliaire<br/>de vie sociale<br/>ou mention<br/>complémentaire<br/>aide à domicile</p>
+<td valign="top">
+<p align="center">TITRE <br/>professionnel de technicien <br/>médiation services </p>
 </td>
-<td valign="top" width="64">
-<p align="center">Diplôme<br/>d'Etat<br/>d'assistant<br/>familial</p>
+<td valign="top">
+<p align="center">DIPLÔME D'ÉTAT <br/>d'auxiliaire <br/>de vie sociale <br/>ou mention <br/>complémentaire <br/>aide à domicile </p>
 </td>
-<td valign="top" width="81">
-<p align="center">Diplôme<br/>d'Etat<br/>d'aide<br/>médico-psychologique</p>
+<td valign="top">
+<p align="center">DIPLÔME D'ÉTAT <br/>d'assistant <br/>familial </p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="97">
-<p>DF 1 Accompagnement social et éducatif spécialisé</p>
-</td>
-<td valign="top" width="83">
-<br/>
-</td>
-<td valign="top" width="85">
-<br/>
-</td>
-<td valign="top" width="85">
-<br/>
-</td>
-<td valign="top" width="99">
-<p>Allègement</p>
-</td>
-<td valign="top" width="86">
-<br/>
-</td>
-<td valign="top" width="64">
-<br/>
-</td>
-<td valign="top" width="81">
-<p>Allègement</p>
+<td valign="top">
+<p align="center">DIPLÔME D'ÉTAT <br/>d'aide médico-psychologique </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
-<p>DF 2 Participation à l'élaboration et à la conduite du projet éducatif spécialisé</p>
+<td valign="top">
+<p>DF 1 <br/>Accompagnement social et éducatif spécialisé </p>
 </td>
-<td valign="top" width="83">
-<p>Dispense</p>
-</td>
-<td valign="top" width="85">
+<td valign="top">
 <br/>
 </td>
-<td valign="top" width="85">
+<td valign="top">
 <br/>
 </td>
-<td valign="top" width="99">
+<td valign="top">
 <br/>
 </td>
-<td valign="top" width="86">
-<p>Allègement</p>
+<td valign="top">
+<p>Allégement </p>
 </td>
-<td valign="top" width="64">
+<td valign="top">
 <br/>
 </td>
-<td valign="top" width="81">
-<p>Allègement</p>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<p>Allégement </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
-<p>DF 3 Travail en équipe pluri-professionnelle</p>
+<td valign="top">
+<p>DF 2 <br/>Participation à l'élaboration et à la conduite du projet éducatif spécialisé </p>
 </td>
-<td valign="top" width="83">
-<p>Allègement</p>
+<td valign="top">
+<p>Dispense </p>
 </td>
-<td valign="top" width="85">
-<p>Dispense*</p>
-</td>
-<td valign="top" width="85">
-<p>Dispense</p>
-</td>
-<td valign="top" width="99">
-<p>Dispense</p>
-</td>
-<td valign="top" width="86">
-<p>Allègement</p>
-</td>
-<td valign="top" width="64">
-<p>Allègement</p>
-</td>
-<td valign="top" width="81">
-<p>Allègement</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="97">
-<p>DF 4 Implications dans les dynamiques institutionnelles</p>
-</td>
-<td valign="top" width="83">
-<p>Dispense</p>
-</td>
-<td valign="top" width="85">
-<p>Allègement</p>
-</td>
-<td valign="top" width="85">
-<p>Allègement</p>
-</td>
-<td valign="top" width="99">
-<p>Allègement</p>
-</td>
-<td valign="top" width="86">
-<p>Allègement</p>
-</td>
-<td valign="top" width="64">
+<td valign="top">
 <br/>
 </td>
-<td valign="top" width="81">
-<p>Allègement</p>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<p>Allégement </p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="680">
-<p>(*) Uniquement pour les candidats ayant préparé les secteurs d'activités "activités de soutien et d'aide à l'intégration" et "activités participant à la socialisation et au développement de la citoyenneté".</p>
+<td valign="top">
+<p>DF 3 <br/>Travail en équipe pluriprofessionnelle </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<p>Dispense (*) </p>
+</td>
+<td valign="top">
+<p>Dispense </p>
+</td>
+<td valign="top">
+<p>Dispense </p>
+</td>
+<td valign="top">
+<p>Dispense </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>DF 4 <br/>Implications dans les dynamiques institutionnelles </p>
+</td>
+<td valign="top">
+<p>Dispense </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<p>Dispense </p>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<p>Allégement </p>
+</td>
+</tr>
+<tr>
+<td colspan="9" valign="top">
+<p>* Uniquement pour les candidats ayant préparé les deux secteurs d'activités : "activités de soutien et d'aide à l'intégration" et "activités participant à la socialisation et au développement de la citoyenneté". </p>
 </td>
 </tr>
 </tbody>

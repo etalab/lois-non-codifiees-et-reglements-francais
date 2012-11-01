@@ -1,369 +1,536 @@
 # Article Annexe II-1
 
+<div>
 <table>
 <tbody>
 <tr>
-<td width="113">
+<th>
+<br/>VOUS AVEZ OBTENU <br/>
+<br/>Equivalence <br/>
+<br/>dans le BP JEPS AE <br/>
+</th>
+<th>
+<br/>BAC PRO <br/>
+<br/>CGEA <br/>
+<br/>Production <br/>
+<br/>du cheval <br/>
+</th>
+<th>
+<br/>BAC PRO <br/>
+<br/>CGEA <br/>
+<br/>Elevage <br/>
+<br/>et valorisation <br/>
+<br/>du cheval <br/>
+</th>
+<th>
+<br/>BREVET <br/>
+<br/>professionnel <br/>
+<br/>Responsable <br/>
+<br/>d'exploitation <br/>
+<br/>agricole (*) <br/>
+</th>
+<th>
+<br/>BAC PRO <br/>
+<br/>Conduite et gestion de l'entreprise hippique <br/>
+</th>
+<th>
+<br/>BREVET <br/>
+<br/>professionnel <br/>
+<br/>Responsable <br/>
+<br/>d'entreprise <br/>
+<br/>hippique (**) <br/>
+</th>
+<th>
+<br/>BEPA <br/>
+<br/>Activités hippiques <br/>
+<br/>Entraînement du cheval de compétition <br/>
+<br/>Support <br/>
+<br/>sports équestres (**) <br/>
+</th>
+<th>
+<br/>BEPA <br/>
+<br/>Activités hippiques <br/>
+<br/>soigneur <br/>
+<br/>aide-animateur <br/>
+<br/>Support <br/>
+<br/>sports équestres (**) <br/>
+</th>
+<th>
+<br/>BEPA <br/>
+<br/>Activités hippiques <br/>
+<br/>soigneur <br/>
+<br/>aide-animateur <br/>
+<br/>Support tourisme équestre (**) <br/>
+</th>
+<th>
+<br/>BEPA <br/>
+<br/>Cavalier <br/>
+<br/>soigneur <br/>
+</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+<br/>Exigences<br/>préalables à l'entrée<br/>en formation <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis <br/>
+</td>
+<td align="center" valign="top">
+<br/>
 <br/>
 </td>
-<td colspan="7" width="586">
-<p align="center">Certifications délivrées par le Ministère chargé de l'agriculture</p>
+<td align="center" valign="top">
+<br/>Acquis,<br/>mentions<br/>équitation<br/>tourisme équestre (***) <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis,<br/>mentions<br/>équitation<br/>tourisme équestre (***) <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis,<br/>mention<br/>équitation <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis,<br/>mention<br/>équitation <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis,<br/>mention<br/>tourisme équestre <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis, <br/>
+<br/>mention équitation <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
-<p align="right">Vous avez<br/>obtenu</p>
+<td align="center" valign="top">
+<br/>Exigences<br/>préalables à la mise<br/>en situation pédagogique <br/>
+</td>
+<td align="center" valign="top">
 <br/>
 <br/>
+</td>
+<td align="center" valign="top">
 <br/>
-<p>Equivalence<br/>dans le BP JEPS AE</p>
-</td>
-<td width="70">
-<p align="center">BAC<br/>PRO<br/>ou<br/>BREVET<br/>Professionnel</p>
-<p align="center">Toutes<br/>spécialités</p>
-</td>
-<td width="70">
-<p align="center">BAC<br/>PRO<br/>CGEA</p>
-<p align="center">Production<br/>du cheval</p>
-</td>
-<td width="70">
-<p align="center">BAC<br/>PRO<br/>CGEA</p>
-<p align="center">Elevage et<br/>valorisation<br/>du cheval</p>
-</td>
-<td width="79">
-<p align="center">BREVET<br/>Professionnel</p>
-<p align="center">Responsable<br/>d'Exploitation<br/>Agricole*</p>
-</td>
-<td width="96">
-<p align="center">BEPA<br/>Activités hippiques<br/>Entraînement du<br/>cheval de<br/>compétition</p>
-<p align="center">Support<br/>Sports équestres**</p>
-</td>
-<td width="96">
-<p align="center">BEPA</p>
-<p align="center">Activités hippiques<br/>Soigneur-<br/>aide-animateur</p>
-<p align="center">Support<br/>Sports équestres**</p>
-</td>
-<td width="107">
-<p align="center">BEPA</p>
-<p align="center">Activités hippiques<br/>Soigneur<br/>aide-animateur</p>
-<p align="center">Support<br/>Tourisme équestre**</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>Exigences préalables à l'entrée en formation</p>
-</td>
-<td valign="top" width="70">
 <br/>
 </td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="79">
+<td align="center" valign="top">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
-<p align="center">Acquis<br/>mention<br/>équitation</p>
-</td>
-<td valign="top" width="96">
-<p align="center">Acquis<br/>mention<br/>équitation</p>
-</td>
-<td valign="top" width="107">
-<p align="center">Acquis<br/>mention<br/>tourisme équestre</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p align="left">Exigences préalables à la mise en situation pédagogique</p>
-</td>
-<td valign="top" width="70">
+<td align="center" valign="top">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center" valign="top">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center" valign="top">
+<br/>
 <br/>
 </td>
-<td valign="top" width="79">
+<td align="center" valign="top">
+<br/>Acquis <br/>
+</td>
+<td align="center" valign="top">
+<br/>Acquis <br/>
+</td>
+<td align="center" valign="top">
 <br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="107">
-<p align="center">Acquis</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>UC 1</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="79">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="107">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>UC 2</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="79">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="107">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
-<p>UC 3</p>
+<td align="center">
+<br/>UC 1 <br/>
 </td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
+<td align="center">
+<br/>Acquis <br/>
 </td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
+<td align="center">
+<br/>Acquis <br/>
 </td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
+<td align="center">
+<br/>Acquis <br/>
 </td>
-<td valign="top" width="79">
-<p align="center">Acquis</p>
+<td align="center">
+<br/>Acquis <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="107">
+<td align="center">
+<br/>
 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>UC 4</p>
-</td>
-<td valign="top" width="70">
+<td align="center">
 <br/>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="79">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="107">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
-<p>UC 5</p>
+<td align="center">
+<br/>UC 2 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="79">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="107">
-<p align="center">Acquis</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>UC 6</p>
-</td>
-<td valign="top" width="70">
+<td align="center">
 <br/>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="79">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="107">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
-<p>UC 7</p>
+<td align="center">
+<br/>UC 3 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="70">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="79">
-<p align="center">Acquis</p>
-</td>
-<td valign="top" width="96">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="107">
+<td align="center">
 <br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>UC 8</p>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="70">
-<br/>
-</td>
-<td valign="top" width="79">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="107">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
-<p>UC 9</p>
+<td align="center">
+<br/>UC 4 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="79">
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="107">
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
-<p>UC 10</p>
+<td align="center">
+<br/>UC 5 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="70">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="79">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="96">
+</tr>
+<tr>
+<td align="center">
+<br/>UC 6 <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td valign="top" width="107">
+<td align="center">
+<br/>
 <br/>
 </td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>UC 7 <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>Acquis <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>UC 8 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>UC 9 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>UC 10 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="10">
+<br/>(*) Les équivalences précisées dans l'annexe II-1 ci-dessus s'appliquent jusqu'au 1er septembre 2013 sous réserve de l'obtention des UC spécifiques équines attestées par l'autorité académique (DRAAF) de l'établissement d'origine du candidat. <br/>
+<br/>(**) L'attestation mentionnant le support suivi est fournie par l'autorité académique (DRAAF) de l'établissement d'origine du candidat. <br/>
+<br/>(***) Pour la mention "tourisme équestre", l'attestation mentionnant le module d'adaptation professionnelle suivi ou l'UCARE obtenue est fournie par l'autorité académique de l'établissement d'origine du candidat.</td>
 </tr>
 </tbody>
 </table>
-
-* Sous réserve de l'obtention des UC spécifiques équines attestées par l'autorité académique (DRAF) de l'établissement d'origine du candidat.
-
-** L'attestation mentionnant le support suivi est fournie par l'autorité académique (DRAF) de l'établissement d'origine du candidat
+</div>

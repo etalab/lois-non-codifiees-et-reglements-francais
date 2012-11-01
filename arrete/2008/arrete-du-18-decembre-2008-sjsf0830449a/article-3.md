@@ -12,21 +12,27 @@ Les titulaires des certifications suivantes, bénéficient de droit, sur présen
 
 2. Certifications délivrées par le ministère chargé de l'agriculture :
 
+- baccalauréat professionnel toutes spécialités (bac pro agricole) ;
+
+- baccalauréat professionnel "conduite et gestion de l'exploitation agricole", option "production du cheval" (bac pro CGEA production du cheval) ;
+
+- baccalauréat professionnel "conduite et gestion de l'exploitation agricole", option "élevage et valorisation du cheval" (bac pro CGEA élevage et valorisation du cheval) ;
+
+- baccalauréat professionnel "conduite et gestion de l'entreprise hippique" ;
+
+- brevet professionnel, toutes spécialités (BP agricole) ;
+
+- brevet professionnel, option "responsable d'exploitation agricole" (BPREA) délivré jusqu'au 1er septembre 2013 ;
+
+- brevet professionnel, option "responsable d'entreprise hippique" (BPREH) ;
+
 - brevet d'études professionnelles agricoles (BEPA), option "activités hippiques", spécialité "entraînement du cheval de compétition", support "sports équestres" ;
 
 - brevet d'études professionnelles agricoles (BEPA), option "activités hippiques", spécialité "soigneur aide-animateur", support "sports équestres" ;
 
 - brevet d'études professionnelles agricoles (BEPA), option "activités hippiques", spécialité "soigneur aide-animateur", support "tourisme équestre" ;
 
-- brevet professionnel, toutes spécialités (BP agricole) ;
-
-- brevet professionnel, option "responsable d'exploitation agricole" (BP REA) ;
-
-- baccalauréat professionnel toutes spécialités (bac pro agricole) ;
-
-- baccalauréat professionnel "conduite et gestion de l'exploitation agricole", option "production du cheval" (bac pro CGEA production du cheval) ;
-
-- baccalauréat professionnel "conduite et gestion de l'exploitation agricole", option "élevage et valorisation du cheval" (bac pro CGEA élevage et valorisation du cheval) ;
+- brevet d'études professionnelles agricoles (BEPA), option "cavalier soigneur".
 
 3. Certifications délivrées par la Fédération française d'équitation :
 
