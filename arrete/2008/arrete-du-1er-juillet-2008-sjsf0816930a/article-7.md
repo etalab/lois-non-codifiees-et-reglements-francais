@@ -1,3 +1,0 @@
-# Article 7
-
-Dans les quatre ans suivant la date de publication du présent arrêté, les titulaires du brevet d'Etat d'éducateur sportif du premier degré, option « aviron », et les titulaires du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité « activités nautiques », mention monovalente « aviron », obtiennent sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « aviron » s'ils justifient d'une expérience d'encadrement d'un équipage finaliste à un championnat national au cours de trois saisons sportives différentes, attestée par le directeur technique national de l'aviron.
