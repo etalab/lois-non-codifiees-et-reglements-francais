@@ -4,7 +4,7 @@ Cette spécialité est délivrée au titre de mentions dont la liste est ainsi d
 
 1. Mentions monovalentes :
 
-Aviron ;
+Aviron et disciplines associées  ;
 
 Canoë-kayak et disciplines associées ;
 
@@ -12,7 +12,7 @@ Char à voile ;
 
 Motonautisme ;
 
-Ski nautique ;
+Ski nautique et disciplines associées ;
 
 Voile ;
 
