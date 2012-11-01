@@ -232,36 +232,6 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>Directeur de recherche </p>
-<p>1ère classe </p>
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<br/>
-<p align="center">1015 (a) </p>
-<p align="center">801-1015 (a) </p>
-</td>
-<td valign="top" width="279">
-<p>(a) </p>
-<p>(a) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Chargé de recherche </p>
-<p>1ère classe </p>
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">562-1015 </p>
-<p align="center">530-677 </p>
-</td>
-<td valign="top" width="279"/>
-</tr>
-<tr>
-<td valign="top" width="331">
 <p>Attaché de recherche </p>
 </td>
 <td valign="top" width="113">
@@ -269,71 +239,6 @@
 </td>
 <td valign="top" width="279">
 <p>(2) corps provisoire </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Ingénieur de recherche </p>
-<p>hors classe </p>
-<p>1ère classe </p>
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">801-1015 (a) </p>
-<p align="center">701-1015 </p>
-<p align="center">473-874 </p>
-</td>
-<td valign="top" width="279">
-<p>(a) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Ingénieur d'études </p>
-<p>hors classe </p>
-<p>1ère classe </p>
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">852-966 </p>
-<p align="center">665-821 </p>
-<p align="center">416-750 </p>
-</td>
-<td valign="top" width="279">
-<p>A compter du 1er août 1996 </p>
-<p>A compter du 1er août 1996 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Assistant ingénieur </p>
-</td>
-<td valign="top" width="113">
-<p align="center">366-660 </p>
-</td>
-<td valign="top" width="279">
-<p>A compter du 1er janvier 1997 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Technicien </p>
-<p>classe exceptionnelle </p>
-<p>classe supérieure </p>
-<p>classe normale </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">425-612 </p>
-<p align="center">384-579 </p>
-<p align="center">306-544 </p>
-</td>
-<td valign="top" width="279">
-<p>A compter du 1er août 1994 </p>
-<p>A compter du 1er août 1995 </p>
-<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 </tbody>
@@ -356,35 +261,6 @@
 <td valign="top" width="279">
 <p>Observations </p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Adjoint technique principal de la recherche </p>
-<p>1ère classe </p>
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">E 6 </p>
-<p align="center">E 5 </p>
-</td>
-<td valign="top" width="279">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Adjoint technique de la recherche </p>
-<p>1ère classe </p>
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">E 4 </p>
-<p align="center">E 3 </p>
-</td>
-<td valign="top" width="279"/>
 </tr>
 <tr>
 <td valign="top" width="331">
@@ -433,8 +309,9 @@
 <p align="center">306-544 </p>
 </td>
 <td valign="top" width="279">
+<p>
 <br/>
-<br/>
+</p>
 </td>
 </tr>
 <tr>
