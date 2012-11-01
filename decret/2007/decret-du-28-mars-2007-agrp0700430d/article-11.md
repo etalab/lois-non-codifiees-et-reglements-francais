@@ -1,3 +1,0 @@
-# Article 11
-
-Pour pouvoir bénéficier de l'appellation d'origine contrôlée Gruyère, les fromages doivent avoir satisfait aux dispositions des articles D. 641-6 à D. 641-11 du code rural relatifs à l'agrément des produits laitiers d'appellation d'origine contrôlée, dans leur rédaction antérieure à l'ordonnance du 7 décembre 2006 susvisée. Pour permettre le contrôle de la qualité, des règles de production et de l'origine des fromages, les producteurs de lait, les fabricants et les affineurs tiennent régulièrement à jour les éléments de traçabilité définis dans le règlement technique d'application. Les documents permettant la traçabilité sont tenus à la disposition des agents de contrôle.

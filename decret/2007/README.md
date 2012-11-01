@@ -1394,7 +1394,6 @@
 - [Décret n°98-419 du 27 mai 1998 (AGRA9800653D)](decret-n98-419-du-27-mai-1998-agra9800653d)
 - [Décret du 28 février 2007 (SANS0720595D)](decret-du-28-fevrier-2007-sans0720595d)
 - [Décret du 28 mars 2007 (AGRP0700220D)](decret-du-28-mars-2007-agrp0700220d)
-- [Décret du 28 mars 2007 (AGRP0700430D)](decret-du-28-mars-2007-agrp0700430d)
 - [Décret n° 2007-466 du 28 mars 2007 (SOCF0710425D)](decret-n-2007-466-du-28-mars-2007-socf0710425d)
 - [Décret n° 2007-467 du 28 mars 2007 (ECOC0700030D)](decret-n-2007-467-du-28-mars-2007-ecoc0700030d)
 - [Décret n° 2007-469 du 28 mars 2007 (ECOP0700047D)](decret-n-2007-469-du-28-mars-2007-ecop0700047d)
