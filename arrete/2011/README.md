@@ -440,7 +440,6 @@
 - [Arrêté du 7 décembre 2010 (DEVA1022990A)](arrete-du-7-decembre-2010-deva1022990a)
 - [Arrêté du 7 décembre 2011 (DEVA1133358A)](arrete-du-7-decembre-2011-deva1133358a)
 - [Arrêté du 7 décembre 2011 (DEVD1122405A)](arrete-du-7-decembre-2011-devd1122405a)
-- [Arrêté du 7 décembre 2011 (DEVK1133143A)](arrete-du-7-decembre-2011-devk1133143a)
 - [Arrêté du 7 décembre 2011 (DEVL1128741A)](arrete-du-7-decembre-2011-devl1128741a)
 - [Arrêté du 7 décembre 2011 (EFIU1130207A)](arrete-du-7-decembre-2011-efiu1130207a)
 - [Arrêté du 7 décembre 2011 (MENH1130653A)](arrete-du-7-decembre-2011-menh1130653a)
