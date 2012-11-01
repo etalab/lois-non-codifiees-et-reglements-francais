@@ -1,10 +1,10 @@
 # Article 78
 
-Sont nommés stagiaires :
+Sont nommés stagiaires pour une durée d'un an :
 
 a) Les candidats reçus aux concours d'accès aux corps d'ingénieurs de recherche, d'ingénieurs d'études, d'assistants ingénieurs et de techniciens régis par le présent décret ;
 
-b) Les candidats reçus au concours externe d'accès au grade d'adjoint technique principal de 2e classe et les personnels recrutés comme adjoints techniques de 2e classe en application de l'article 55-1. Ils sont assujettis, en cette qualité, à un stage d'un an.
+b) Les candidats reçus au concours externe d'accès au grade d'adjoint technique principal de 2e classe et les personnels recrutés comme adjoints techniques de 2e classe en application de l'article 55-1.
 
 Le stage fait l'objet d'un rapport établi par le responsable de l'établissement d'affectation.
 

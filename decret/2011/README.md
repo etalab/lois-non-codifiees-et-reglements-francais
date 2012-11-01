@@ -73,6 +73,7 @@
 - [Décret n°2011-804 du 4 juillet 2011 (PRMX1114594D)](decret-n2011-804-du-4-juillet-2011-prmx1114594d)
 - [Décret n°2011-805 du 4 juillet 2011 (DEVL1113630D)](decret-n2011-805-du-4-juillet-2011-devl1113630d)
 - [Décret n°98-351 du 4 mai 1998 (MAEJ9830036D)](decret-n98-351-du-4-mai-1998-maej9830036d)
+- [Décret n°2011-489 du 4 mai 2011 (AGRS1030512D)](decret-n2011-489-du-4-mai-2011-agrs1030512d)
 - [Décret n°2011-1048 du 5 septembre 2011 (JUSD1113642D)](decret-n2011-1048-du-5-septembre-2011-jusd1113642d)
 - [Décret n°2011-1241 du 5 octobre 2011 (DEVP1101739D)](decret-n2011-1241-du-5-octobre-2011-devp1101739d)
 - [Décret n°2011-1242 du 5 octobre 2011 (DEVK1119553D)](decret-n2011-1242-du-5-octobre-2011-devk1119553d)

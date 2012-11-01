@@ -1,3 +1,11 @@
 # Article 43
 
-Le nombre d'emplois de technicien de classe supérieure ne peut comprendre plus de 25 p. 100 de l'effectif total des grades de technicien de classe supérieure et de technicien de classe normale.
+Le corps des techniciens de formation et de recherche du ministère de l'agriculture comprend les grades suivants :
+
+1° Technicien de formation et de recherche de classe normale ;
+
+2° Technicien de formation et de recherche de classe supérieure ;
+
+3° Technicien de formation et de recherche de classe exceptionnelle.
+
+Ces grades sont respectivement assimilés aux premier, deuxième et troisième grades mentionnés par le décret n° 2009-1388 du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat.

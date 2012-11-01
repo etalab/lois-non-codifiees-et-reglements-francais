@@ -6,8 +6,8 @@ Peuvent être promus les ingénieurs de recherche appartenant au grade d'ingéni
 
 Pour être promus les intéressés doivent être inscrits par le ministre chargé de l'agriculture à un tableau d'avancement établi, après avis de la commission administrative paritaire compétente, au vu des résultats d'une sélection organisée par voie d'examen professionnel dans les conditions ci-après.
 
-Les fonctionnaires qui ont posé leur candidature pour l'accès au grade d'ingénieur de recherche hors classe sont admis chaque année à subir une sélection professionnelle devant un jury dont la composition est celle prévue à l'article 77 ci-dessous et dont les délibérations peuvent être précédées de la consultation d'experts désignés par le ministre chargé de l'agriculture.
+Les fonctionnaires qui ont posé leur candidature pour l'accès au grade d'ingénieur de recherche hors classe sont admis chaque année à subir une sélection professionnelle devant un jury dont la composition est fixée par arrêté du ministre chargé de l'agriculture.
 
 Le jury établit une liste de classement des candidats retenus. Seuls les candidats figurant sur la liste établie au titre d'une année peuvent être inscrits, après avis de la commission administrative paritaire compétente, au tableau d'avancement suivant.
 
-Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la fonction publique détermine les conditions de la sélection professionnelle.
+Un arrêté conjoint des ministres chargés de l'agriculture et de la fonction publique fixe les règles d'organisation générale, la nature et le programme des épreuves de la sélection professionnelle.

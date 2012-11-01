@@ -1,7 +1,5 @@
 # Article 51
 
-Les avancements au grade de technicien de classe supérieure sont prononcés par le ministre chargé de l'agriculture.
+Les conditions d'accès aux grades de technicien de classe supérieure et de classe exceptionnelle sont fixées conformément aux dispositions de l'article 25 du décret du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat.
 
-Peuvent accéder au choix au grade de technicien de classe supérieure les techniciens de classe normale qui, sur proposition des responsables d'établissement et après avis de la commission administrative paritaire compétente, ont été inscrits par le ministre chargé de l'agriculture sur un tableau d'avancement annuel.
-
-Pour pouvoir être inscrits au tableau d'avancement au grade de technicien de classe supérieure, les techniciens de classe normale doivent justifier d'au moins une année d'ancienneté au 7e échelon de leur grade et compter au moins cinq ans de services publics dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau.
+L'inscription aux tableaux d'avancement mentionnés aux 2° des I et II de l'article 25 du décret du 11 novembre 2009 susmentionné est établie sur proposition du directeur de l'établissement ou du chef de service, après avis de la commission administrative paritaire.

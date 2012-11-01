@@ -1,35 +1,17 @@
 # Article 46
 
-Les concours mentionnés au 1° de l'article 45 ci-dessus sont organisés dans les conditions précisées ci-après :
+I.-Les techniciens de formation et de recherche de classe supérieure sont recrutés dans les conditions suivantes :
 
-1° Des concours externes sont ouverts aux candidats titulaires de l'un des diplômes suivants :
+1° Par voie de concours externe, dans les conditions prévues à la section 1 du titre III. Ce concours est ouvert aux candidats titulaires d'un titre ou d'un diplôme classé au moins au niveau III ou, par dérogation au 1° du I de l'article 4 du décret n° 2009-1388 du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat, d'une qualification professionnelle reconnue comme équivalente à l'un de ces titres ou diplômes par la commission mentionnée à l'article 18 ;
 
-Diplôme d'études universitaires générales ;
+2° Par voie de concours interne sur épreuves, dans les conditions prévues à la section 1 du titre III. Ce concours est ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale à la date de clôture des inscriptions, comptant au moins quatre ans de services publics au 1er septembre de l'année au titre de laquelle le concours est organisé.
 
-Diplôme d'études universitaires scientifiques et technologiques ;
+Ce concours est également ouvert aux candidats justifiant de quatre ans de services auprès d'une administration, un organisme ou un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par ledit alinéa ;
 
-Baccalauréat, brevet supérieur, brevet de technicien ;
+3° Par voie d'un troisième concours, dans les conditions prévues à la section 1 du titre III. Ce concours est ouvert aux candidats justifiant, au 1er septembre de l'année au titre de laquelle il est ouvert, de l'exercice pendant quatre ans au moins d'une ou plusieurs des activités professionnelles ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée.
 
-Diplôme de biologiste, chimiste, physicien, psychotechnicien, statisticien ou conducteur radio-électricien délivré par une école technique spécialisée ou un institut universitaire ;
+Les activités professionnelles prises en compte au titre de ce concours doivent avoir été exercées dans des domaines correspondant aux missions dévolues aux fonctionnaires du grade de technicien de formation et de recherche de classe supérieure. Les périodes au cours desquelles l'exercice d'une ou plusieurs activités ou d'un ou plusieurs mandats aura été simultané ne sont prises en compte qu'à un seul titre ;
 
-Diplôme délivré par un établissement d'enseignement public ou privé, ou diplôme délivré ou reconnu dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen autre que la France, dont l'équivalence avec le baccalauréat aura été reconnue, pour l'application du présent décret, par la commission prévue à l'article 18 ci-dessus ;
+4° Par voie d'un examen professionnel, ouvert par branches d'activité professionnelle ou par regroupement de branches d'activité professionnelle, accessible aux fonctionnaires appartenant au corps des adjoints techniques de formation et de recherche du ministère de l'agriculture justifiant, au 1er septembre de l'année au titre de laquelle les nominations interviennent, de sept années de services publics.
 
-Ces concours sont également ouverts aux candidats titulaires d'un diplôme du niveau IV et aux candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes cités ci-dessus par la commission prévue à l'article 18 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 76 ;
-
-2° Des concours internes sont ouverts :
-
-a) Aux adjoints techniques de formation et de recherche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement ;
-
-b) Aux fonctionnaires régis par des statuts particuliers pris en application du code de la recherche, appartenant à un corps d'adjoints techniques et remplissant les conditions de services fixées au a ;
-
-c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est équivalent à celui d'un corps de catégorie C et remplissant les conditions de services fixées au a ;
-
-d) Aux agents non titulaires remplissant les mêmes conditions de services que celles prévues pour les corps mentionnés au a ;
-
-Un agent ayant appartenu successivement à différents corps ou catégories mentionnées aux a, b, c et d est considéré comme satisfaisant aux conditions de durée de services mentionnées au a dès lors qu'il les remplirait s'il était demeuré dans son corps ou sa catégorie d'origine.
-
-3° Des troisièmes concours sont ouverts aux candidats qui justifient, au 1er septembre de l'année du concours, de l'exercice, durant quatre ans au moins, d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée ;
-
-Les activités professionnelles prises en compte doivent avoir été exercées dans le domaine de l'éducation, de la formation ou de la recherche ;
-
-Les périodes au cours desquelles l'exercice d'une ou plusieurs des activités ou d'un ou plusieurs des mandats aura été simultané ne sont prises en compte qu'à un seul titre.
+II.-Les dispositions des articles 7 et 8 du décret n° 2009-1388 du 11 novembre 2009 susmentionné sont applicables aux concours mentionnés aux 1°, 2° et 3° du I.

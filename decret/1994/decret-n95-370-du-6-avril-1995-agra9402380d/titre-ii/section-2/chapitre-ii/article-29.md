@@ -2,49 +2,15 @@
 
 Les concours mentionnés au 1° de l'article 28 ci-dessus sont organisés dans les conditions précisées ci-après :
 
-1° Des concours externes sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux candidats titulaires soit de l'un des titres d'ingénieur reconnus par l'Etat autres que ceux exigés pour l'accès au corps des ingénieurs de recherche, soit de l'un des diplômes suivants :
+1° Des concours externes sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux candidats titulaires d'un titre ou d'un diplôme classé au moins au niveau II.
 
-Diplôme d'études approfondies ;
+Ces concours sont également ouverts aux candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes cités ci-dessus par la commission prévue au quatorzième alinéa de l'article 18.
 
-Diplôme d'études supérieures spécialisées ;
+2° Des concours internes sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires et magistrats ainsi qu'aux candidats en fonctions dans une organisation internationale intergouvernementale.
 
-Maîtrise ;
+Les candidats mentionnés à l'alinéa précédent doivent justifier au 1er septembre de l'année au titre de laquelle est organisé le concours de cinq années au moins de services publics.
 
-Licence ;
-
-Diplôme d'un institut d'études politiques ;
-
-Diplôme de l'Institut national de langues et civilisations orientales ;
-
-Diplôme de l'Ecole pratique des hautes études ;
-
-Diplôme de l'Ecole des hautes études en sciences sociales ;
-
-Diplôme d'Etat de conseiller d'orientation professionnelle ;
-
-Diplôme supérieur de l'Ecole du Louvre ;
-
-Diplôme délivré par un établissement d'enseignement supérieur public ou privé et dont l'équivalence avec l'un des diplômes ci-dessus, pour l'application du présent décret, aura été reconnue par la commission prévue à l'article 18 ci-dessus.
-
-Ces concours sont également ouverts :
-
--aux candidats titulaires d'un diplôme du niveau II ;
-
--aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, à l'un des diplômes mentionnés ci-dessus, par la commission prévue à l'article 18 ci-dessus ;
-
--aux candidats justifiant qu'ils possèdent une qualification professionnelle considérée comme équivalente à un diplôme d'ingénieur par la commission prévue à l'article 18 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 76 ;
-
-2° Des concours internes sont ouverts :
-
-a) Aux assistants ingénieurs et aux techniciens de formation et de recherche du ministère de l'agriculture et de la pêche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement ;
-
-b) Aux fonctionnaires régis par des statuts particuliers pris en application du code de la recherche, appartenant à un corps d'assistants ingénieurs ou de techniciens remplissant les conditions de services fixées au a ci-dessus, respectivement pour les assistants ingénieurs et pour les techniciens de formation et de recherche ;
-
-c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est équivalent à celui d'un corps de catégorie B et remplissant les conditions de services fixées au a ;
-
-d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A ou B, dotés d'une rémunération au moins équivalente à celle des corps mentionnés au a et remplissant les mêmes conditions de services ;
-
-Un agent ayant appartenu successivement à différents corps ou catégories mentionnées aux a, b, c et d est considéré comme satisfaisant aux conditions de durée de services mentionnées au a dès lors qu'il les remplirait s'il était demeuré dans son corps ou sa catégorie d'origine.
+Ces concours sont également ouverts aux candidats justifiant de cinq ans de services auprès d'une administration, d'un organisme ou d'un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par ledit alinéa.
 
 3° Des troisièmes concours, sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux candidats qui justifient, au 1er septembre de l'année du concours, de l'exercice durant quatre ans au moins, d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée ;
 

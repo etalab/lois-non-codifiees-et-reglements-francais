@@ -28,20 +28,14 @@ Docteur en pharmacie ;
 
 Docteur en médecine ;
 
-Diplôme délivré par un établissement d'enseignement supérieur public ou privé et dont l'équivalence avec l'un des diplômes ci-dessus, pour l'application du présent décret, aura été déterminée par une commission présidée par le ministre chargé de l'agriculture ou son représentant et comprenant un représentant du ministre chargé de la fonction publique, un représentant du ministre chargé de l'enseignement supérieur et un représentant du ministre chargé du budget.
+Diplôme délivré par un établissement d'enseignement supérieur public ou privé et dont l'équivalence avec l'un des diplômes ci-dessus, pour l'application du présent décret, aura été déterminée par une commission présidée par le ministre chargé de l'agriculture ou son représentant et comprenant un représentant du ministre chargé de la fonction publique et un représentant du ministre chargé de l'enseignement supérieur.
 
 Ces concours sont également ouverts aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, à l'un des diplômes cités à l'alinéa précédent, par la commission mentionnée au même alinéa ;
 
-Peuvent enfin se présenter aux concours externes les candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes mentionnés dans le présent article par la commission prévue ci-dessus, qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 76 ;
+Peuvent enfin se présenter aux concours externes les candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes mentionnés dans le présent article par la commission prévue ci-dessus ;
 
-2° Des concours internes sont ouverts :
+2° Des concours internes sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires et magistrats ainsi qu'aux candidats en fonctions dans une organisation internationale intergouvernementale, appartenant à un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent.
 
-a) Aux ingénieurs d'études du ministère de l'agriculture et de la pêche justifiant de sept années de services effectués en position d'activité dans leur corps ou en position de détachement, ainsi qu'aux assistants ingénieurs du ministère de l'agriculture et de la pêche justifiant de dix années de services effectués en position d'activité dans leur corps ou en position de détachement ;
+Les candidats mentionnés à l'alinéa précédent doivent justifier au 1er septembre de l'année au titre de laquelle est organisé le concours de sept années au moins de services publics dans un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent.
 
-b) Aux fonctionnaires régis par des statuts particuliers pris en application du code de la recherche, appartenant à un corps d'ingénieur d'études ou d'assistants ingénieurs et remplissant les conditions de services fixées au a ci-dessus, respectivement pour les ingénieurs d'études et pour les assistants ingénieurs ;
-
-c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est équivalent à celui de l'un des corps mentionnés au a ci-dessus et remplissant les conditions de services correspondantes fixées au a ;
-
-d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A dotés d'une rémunération au moins équivalente à celle des corps mentionnées au a et remplissant les mêmes conditions de services ;
-
-Un agent ayant appartenu successivement à différents corps ou catégories mentionnées aux a, b, c et d est considéré comme satisfaisant aux conditions de durée de services mentionnées au a dès lors qu'il les remplirait s'il était demeuré dans son corps ou sa catégorie d'origine.
+Ces concours sont également ouverts aux candidats justifiant de sept ans de services auprès d'une administration, d'un organisme ou d'un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par ledit alinéa.
