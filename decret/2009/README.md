@@ -13,7 +13,6 @@
 - [Décret n°2009-1489 du 2 décembre 2009 (AGRT0923093D)](decret-n2009-1489-du-2-decembre-2009-agrt0923093d)
 - [Décret n°2009-2 du 2 janvier 2009 (IMIK0831315D)](decret-n2009-2-du-2-janvier-2009-imik0831315d)
 - [Décret n°2009-241 du 2 mars 2009 (ECED0903991D)](decret-n2009-241-du-2-mars-2009-eced0903991d)
-- [Décret n°2009-242 du 2 mars 2009 (ECEM0827421D)](decret-n2009-242-du-2-mars-2009-ecem0827421d)
 - [Décret n°2009-243 du 2 mars 2009 (ECEM0827415D)](decret-n2009-243-du-2-mars-2009-ecem0827415d)
 - [Décret n°2009-244 du 2 mars 2009 (ECEM0831569D)](decret-n2009-244-du-2-mars-2009-ecem0831569d)
 - [Décret n°2009-245 du 2 mars 2009 (ECEM0831571D)](decret-n2009-245-du-2-mars-2009-ecem0831571d)
