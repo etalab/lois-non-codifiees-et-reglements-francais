@@ -1,0 +1,5 @@
+# Article 22
+
+I. ― Les tableaux d'avancement aux grades d'animateur principal et d'animateur-chef, établis au titre de l'année où est prononcée l'intégration dans le présent cadre d'emplois, demeurent valables jusqu'au 31 décembre de ladite année au titre du cadre d'emplois d'intégration, respectivement aux grades d'animateur principal de 2e classe et d'animateur principal de 1re classe.
+
+II. ― Les agents promus en application de l'alinéa précédent sont classés dans les grades d'avancement du présent cadre d'emplois en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien cadre d'emplois jusqu'à la date de leur promotion, puis promus dans les grades d'avancement de ce cadre d'emplois en application des dispositions du titre IV du décret n° 97-701 du 31 mai 1997 portant statut particulier du cadre d'emplois des animateurs territoriaux, et enfin reclassés à cette même date dans leur cadre d'emplois d'intégration en application des dispositions de l'article 17 du présent décret.
