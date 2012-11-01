@@ -1,0 +1,7 @@
+# Article 60
+
+I. ― Les concours de recrutement et le recrutement sans concours ouverts dans le corps des adjoints techniques de laboratoire régi par le décret du 23 décembre 2006 susvisé, dont les arrêtés d'ouverture ont été publiés à une date antérieure à celle de la publication du présent décret, demeurent régis par les dispositions applicables à la date de publication desdits arrêtés.
+
+II. ― Les candidats reçus aux concours d'accès à ce corps ou admis au recrutement sans concours mentionné au I, qui ont été nommés en qualité de stagiaire et ont commencé leur stage dans le corps des adjoints techniques de laboratoire avant la date d'entrée en vigueur du présent décret, poursuivent leur stage dans le corps des adjoints techniques de formation et de recherche et ont vocation à être intégrés dans ce corps, dans chacun des grades correspondant à leur niveau de recrutement.
+
+III. ― Les candidats inscrits sur les listes principales et complémentaires d'admission aux concours et sur la liste du recrutement sans concours mentionnés au I peuvent être nommés dans le corps des adjoints techniques de formation et de recherche régi par le décret du 6 avril 1995 susvisé dans sa rédaction issue du présent décret, dans les grades correspondants à ceux pour lesquels les concours et le recrutement sans concours ont été ouverts, ce jusqu'à la date de début des épreuves du premier concours organisé pour ce corps ou à la date de l'entretien du premier recrutement sans concours, et au plus tard deux ans après la date d'établissement de ces listes.

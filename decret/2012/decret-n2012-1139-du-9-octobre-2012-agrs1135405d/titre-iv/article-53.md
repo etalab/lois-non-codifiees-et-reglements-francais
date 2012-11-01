@@ -1,0 +1,3 @@
+# Article 53
+
+Les fonctionnaires stagiaires relevant du corps des techniciens de laboratoire des établissements d'enseignement agricole régi par les dispositions du décret du 26 mars 1996 susvisé, du corps des techniciens des établissements publics de l'enseignement technique agricole régi par les dispositions du décret du 30 septembre 2002 susmentionné et du corps des techniciens de formation et de recherche régi par les dispositions du décret du 6 avril 1995 susvisé dans sa rédaction antérieure à la publication du présent décret poursuivent leur stage dans le corps des techniciens de formation et de recherche régi par les dispositions du décret du 6 avril 1995 susvisé dans sa rédaction issue du présent décret et ont vocation à être titularisés dans ce corps.

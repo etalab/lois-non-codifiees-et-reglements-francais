@@ -36,7 +36,7 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef de la division mobilité et dialogue social au centre ministériel de gestion de Lyon ;
 
-- chef du bureau de l'environnement immobilier et matériel à la direction du service national (1);
+- conseiller de haut niveau du directeur du service national, chargé de mission ;
 
 - directeur du pôle des sépultures de guerre et hauts lieux de mémoire nationale à l'Office national des anciens combattants et victimes de guerre ;
 
@@ -44,7 +44,7 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau des invalidités, accidents du travail et maladies professionnelles à la direction des ressources humaines du ministère de la défense ;
 
-- adjoint au sous-directeur défense et citoyenneté (2);
+- adjoint au sous-directeur défense et citoyenneté (1);
 
 - directeur du service départemental des Bouches-du-Rhône de l'Office national des anciens combattants et victimes de guerre ;
 

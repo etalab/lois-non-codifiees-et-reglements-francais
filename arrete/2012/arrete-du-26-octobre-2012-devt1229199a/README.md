@@ -1,0 +1,6 @@
+# Arrêté du 26 octobre 2012 relatif au seuil maximum d'émission de dioxyde de carbone prévu au 1° de l'article 2 du décret n° 2012-280 du 28 février 2012 relatif au label « autopartage »
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
