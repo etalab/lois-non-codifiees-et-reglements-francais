@@ -1,41 +1,39 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus avant la date d'effet du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel secrétaire assistant(e) selon le tableau de correspondances figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>SECRÉTAIRE ASSISTANT(E)<br/>(arrêté du 3 juillet 2003)</th>
-<th colspan="4">
-<br/>SECRÉTAIRE ASSISTANT(E)<br/>(présent arrêté)</th>
+<br/>TITRE PROFESSIONNEL <br/>
+<br/>secrétaire assistant (e) <br/>
+<br/>(arrêté du 20 décembre 2007 <br/>
+<br/>portant révision de l'arrêté <br/>
+<br/>du 3 juillet 2003) <br/>
+<br/>
+</th>
+<th>
+<br/>TITRE PROFESSIONNEL <br/>
+<br/>secrétaire assistant (e) <br/>
+<br/>(présent arrêté) <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Organiser son poste bureautique et produire tout document à l'aide de logiciels de bureau.</td>
+<br/>Assurer les travaux courants de secrétariat et assister une équipe. <br/>
+</td>
 <td align="center">
-<br/>
+<br/>Assurer les travaux courants de secrétariat et assister une équipe. <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
+<br/>Réaliser le traitement administratif des diverses fonctions de l'entreprise. <br/>
 </td>
 <td align="center">
-<br/>Assurer les travaux courants de secrétariat et assister une équipe.</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Traiter et assurer le suivi d'évènements et de dossiers.</td>
-<td align="center">
-<br/>
+<br/>Réaliser le traitement administratif des diverses fonctions de l'entreprise.<br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Assurer le suivi administratif dans différents services.</td>
-<td align="center">
-<br/>Réaliser le traitement administratif des différentes fonctions de l'entreprise.</td>
 </tr>
 </tbody>
 </table>

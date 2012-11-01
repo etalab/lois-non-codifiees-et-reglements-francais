@@ -1,28 +1,36 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : secrétaire assistant (e).
+Intitulé : titre professionnel secrétaire assistant (e).
 
 Niveau : IV.
 
-Code NSF : 324 t.
+Code NSF : 324 t-secrétariat bureautique.
 
 Résumé du référentiel d'emploi
 
-Le (la) secrétaire assistant (e) prend en charge les travaux administratifs et la logistique du service, assure des fonctions de coordination et d'organisation au sein de l'unité.
+L'emploi de secrétaire assistant (e) se caractérise par une grande polyvalence. Le (la) secrétaire assistant (e) intervient en appui administratif et logistique auprès d'un responsable hiérarchique ou d'une équipe. Il (elle) assure la coordination et l'organisation de l'information au sein de son service ou de sa structure. Il (elle) effectue le suivi administratif des fonctions commerciales et RH de l'entreprise et traite certains dossiers spécifiques.
 
-En fonction de l'activité de son service, il (elle) peut assurer le suivi administratif des opérations commerciales (achats/ ventes), le suivi administratif courant du personnel (congés et absences), le suivi des statistiques du service (tableaux et graphiques).
+Le (la) secrétaire assistant (e) contribue à la qualité de la communication de l'entreprise. Il (elle) en valorise l'image et est le relais de l'information, tant à l'interne qu'à l'externe. La dimension relationnelle de la fonction est de ce fait essentielle.
 
-Il (elle) est l'interface entre son service et l'extérieur et relaie l'information auprès de son unité.
+Il (elle) facilite le travail de sa hiérarchie en prenant en charge la préparation des dossiers, la conception, la présentation et la diffusion de documents tels que courriers, rapports, tableaux ou graphiques. Il (elle) assure la recherche d'informations à partir de sources identifiées et organise le classement et l'archivage physiques et numériques.
 
-Il (elle) organise, en tenant compte des contraintes de l'équipe, les réunions et les déplacements et tient les agendas. De façon générale, il (elle) facilite le travail de sa hiérarchie grâce à la préparation de dossiers, la mise en forme de tous types de documents, la rédaction de certains écrits et le classement des documents. L'organisation des tâches qui lui incombent relève de sa propre initiative, en gérant les priorités et les urgences.
+Il (elle) assiste l'équipe en gérant l'accueil des visiteurs et les appels téléphoniques, en assurant la prise de rendez-vous et la tenue des agendas ainsi qu'en organisant les réunions et les déplacements.
 
-Ses activités nécessitent de respecter procédures internes, chartes graphiques et normes. Il (elle) a une bonne maîtrise des outils bureautiques et des technologies de l'information et de la communication et s'adapte en permanence à leur évolution. Il (elle) est de plus en plus sollicité (e) pour apporter un appui technique au sein de sa structure.
+Le (la) secrétaire assistant (e) peut être amené (e) à remplacer un (e) autre secrétaire pendant son absence, nécessitant une capacité d'adaptation et d'ouverture sur son environnement.
 
-Le (la) secrétaire assistant (e) valorise l'image du service et de l'entreprise. L'aspect relationnel de la fonction est de ce fait primordial.
+Selon l'activité de l'entreprise, il (elle) assure le suivi administratif des opérations commerciales-achats et ventes-et le suivi administratif courant du personnel.
 
-L'autonomie, le sens du relationnel et de l'organisation, la réactivité, la capacité à assurer une multiplicité de tâches simultanément et la discrétion sont des atouts majeurs pour l'exercice du métier.
+Assurant l'interface entre l'entreprise et ses interlocuteurs, il (elle) apporte un premier niveau de réponse aux demandes et problèmes courants qu'il (elle) a identifiés et analysés, en conciliant satisfaction de l'interlocuteur et intérêt de l'entreprise.
+
+Selon le contexte de la structure, l'utilisation de la langue anglaise peut également être demandée pour transférer un appel téléphonique ou prendre un message.
+
+Le (la) secrétaire assistant (e) exerce sa fonction avec un degré d'autonomie et de responsabilité qui varie selon la taille et le domaine d'activité de l'entreprise. L'organisation des tâches qui lui incombent relève de sa propre initiative.
+
+La multiplicité des tâches et des intervenants entraîne des interruptions fréquentes de l'activité en cours et nécessite une appréciation et une gestion des urgences et priorités.
+
+L'essentiel de l'activité s'exerce de façon sédentaire avec l'utilisation d'outils bureautiques et de communication, mais aussi de logiciels professionnels. L'évolution technologique de ces outils nécessite une mise à jour et une adaptation des compétences en permanence. Les horaires sont stables même si l'amplitude des horaires de travail tend à s'élargir pour s'adapter aux flux des sollicitations de la clientèle ou des usagers.
 
 Capacités attestées et descriptif des composantes de la certification
 
@@ -30,48 +38,72 @@ Capacités attestées et descriptif des composantes de la certification
 
 Produire des documents professionnels courants.
 
-Assurer la communication des informations utiles à l'activité du service ou de la structure.
+Rechercher et communiquer des informations.
 
-Assurer le classement et l'archivage des documents du service ou de la structure.
+Assurer la traçabilité et la conservation des informations.
 
-Accueillir et orienter un correspondant téléphonique et/ ou un visiteur.
+Accueillir et orienter un visiteur et traiter les appels téléphoniques.
 
-Assurer le traitement du courrier.
+Assister une équipe dans la planification et l'organisation de ses activités.
 
-Coordonner le planning d'activités d'une équipe et fixer des rendez-vous.
-
-Organiser les déplacements et les réunions.
-
-Gérer un stock de consommables.
-
-2. Réaliser le traitement administratif des différentes fonctions de l'entreprise
+2. Réaliser le traitement administratif des diverses fonctions de l'entreprise
 
 Assurer l'administration des achats et des ventes.
 
-Régler les litiges administratifs ou commerciaux de premier niveau.
+Assurer l'interface entre l'entreprise et ses interlocuteurs et traiter les problèmes courants.
 
 Assurer le suivi administratif courant du personnel.
 
-Actualiser des tableaux de suivi et présenter des statistiques en lien avec l'activité du service ou de l'entreprise.
+Elaborer et actualiser des tableaux de suivi et des graphiques.
 
-Unité de spécialisation complémentaire : néant.
+Secteurs d'activité ou types d'emplois accessibles par le détenteur du titre
 
-Secteurs d'activités ou types d'emplois accessibles par le détenteur du titre
+L'emploi de secrétaire assistant (e) s'exerce dans tous types d'entreprises, privées, établissements publics, associations et dans tous secteurs d'activités.
 
-Cet emploi s'exerce dans tous les types d'entreprises (privées, publiques, associatives) et tous secteurs professionnels. Secrétaireassistant (e) est l'emploi type de référence pour tous les métiers du secrétariat.
+Dans les grandes entreprises, l'activité est centrée sur les spécificités du service dans lequel elle est exercée. Dans une PME ou une TPE, une plus grande polyvalence est nécessaire.
+
+Les types d'emplois accessibles sont les suivants :
+
+Secrétaire.
+
+Secrétaire administratif (ve).
+
+Secrétaire polyvalent (e).
+
+Secrétaire généraliste.
+
+Assistant (e) administratif (ve).
+
+Assistant (e) d'équipe.
+
+Assistant (e) d'entreprise.
 
 Code ROME :
 
-2131-Secrétaire bureautique polyvalent (e).
+M1607-Secrétariat.
 
-Réglementation de l'activité : néant.
+Réglementation de l'activité :
 
-Cette certification est accessible à compter du 1er mars 2008.
+Néant.
 
-Autorité responsable de la certification : ministère chargé de l'emploi.
+Autorité responsable de la certification :
+
+Ministère chargé de l'emploi.
+
+Liens avec d'autres certifications :
+
+Selon les modalités définies par arrêté relatif aux titres professionnels de niveau IV de la filière, liens avec les titres professionnels de :
+
+-secrétaire comptable ;
+
+-secrétaire assistant (e) immobilier ;
+
+-secrétaire assistant (e) médico-social (e).
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi. Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 1er mars 2013.
