@@ -811,7 +811,6 @@
 - [Arrêté du 22 août 2008 (JUSB0768621A)](arrete-du-22-aout-2008-jusb0768621a)
 - [Arrêté du 22 août 2008 (SJSP0820540A)](arrete-du-22-aout-2008-sjsp0820540a)
 - [Arrêté du 22 avril 2008 (AGRG0808894A)](arrete-du-22-avril-2008-agrg0808894a)
-- [Arrêté du 22 avril 2008 (BCFP0806973A)](arrete-du-22-avril-2008-bcfp0806973a)
 - [Arrêté du 22 avril 2008 (DEFD0810406A)](arrete-du-22-avril-2008-defd0810406a)
 - [Arrêté du 22 avril 2008 (DEFD0812661A)](arrete-du-22-avril-2008-defd0812661a)
 - [Arrêté du 22 avril 2008 (DEFH0810557A)](arrete-du-22-avril-2008-defh0810557a)
