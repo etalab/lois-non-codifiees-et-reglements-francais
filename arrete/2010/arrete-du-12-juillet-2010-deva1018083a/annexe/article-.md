@@ -55,3 +55,7 @@ Saint-Denis de La Réunion - Tananarive (Madagascar).
 Jusqu'au 31 juillet 2017 :
 
 Saint-Denis de La Réunion - Perth (Australie).
+
+Jusqu'au 19 octobre 2017 :
+
+Saint-Denis de La Réunion - Chennai (Inde).
