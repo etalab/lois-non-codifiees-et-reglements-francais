@@ -42,20 +42,6 @@ Paris - Samana (République dominicaine) ;
 
 Paris - Dakar (Sénégal).
 
-Jusqu'au 30 septembre 2012 :
-
-Paris - Cancún (Mexique) ;
-
-Paris - Mexico (Mexique).
-
-Jusqu'au 31 mars 2013 :
-
-Paris - Halifax (Canada) ;
-
-Paris - Québec (Canada) ;
-
-Paris - Toronto (Canada).
-
 Jusqu'au 31 mai 2013 :
 
 Paris - Al Ain (Emirats arabes unis) (fret uniquement) ;
@@ -167,3 +153,23 @@ Paris-Punta Cana (République dominicaine) ;
 Paris-Saint-Domingue (République dominicaine) ;
 
 Paris-Samana (République dominicaine).
+
+Jusqu'au 1er octobre 2017 :
+
+Paris - Cancún (Mexique) ;
+
+Paris - Mexico (Mexique).
+
+Jusqu'au 31 mars 2013 :
+
+Paris - Halifax (Canada) ;
+
+Paris - Québec (Canada) ;
+
+Paris - Toronto (Canada).
+
+Fort-de-France - Roseau (la Dominique) ;
+
+Pointe-à-Pitre - Roseau (la Dominique) ;
+
+Paris - Rio de Janeiro (Brésil).
