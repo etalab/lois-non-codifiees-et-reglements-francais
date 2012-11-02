@@ -1,36 +1,32 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de secrétaire assistant(e) médico-social(e) selon le tableau de correspondances figurant ci-dessous.
+<div align="left">Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous. </div>
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">ANCIEN INTITULÉ<br/>Secrétaire assistant(e) spécialisé(e)</p>
+<p align="center">TITRE PROFESSIONNEL<br/>secrétaire assistant (e) spécialisé (e) médico-social (e)<br/>(arrêté du 27 décembre 2004 modifié) </p>
 </td>
 <td>
-<p align="center">NOUVEL INTITULÉ<br/>Secrétaire assistant(e)<br/>médico-social(e)</p>
+<p align="center">TITRE PROFESSIONNEL<br/>secrétaire assistant (e)<br/>médico-social (e)<br/>(présent arrêté) </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Organiser son poste bureautique et produire tout document à l'aide de logiciels de bureau.<br/>
-<br/>Traiter et assurer le suivi d'événements et de dossiers dans une structure médicale ou sociale.</p>
+<p align="left">Assurer les travaux courants de secrétariat et assister une équipe</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Assurer les travaux courants de secrétariat et assister une équipe.</p>
+<p align="left">Assurer les travaux courants de secrétariat et assister une équipe</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Assurer l'accueil et le suivi administratif dans une structure médicale ou sociale. </p>
+<p align="left">Assurer le traitement administratif dans un service médical ou social</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Assurer le traitement administratif dans un service médical ou social.</p>
+<p align="left">Assurer le traitement administratif dans un service médical ou social<br/>
+</p>
 </td>
 </tr>
 </tbody>
