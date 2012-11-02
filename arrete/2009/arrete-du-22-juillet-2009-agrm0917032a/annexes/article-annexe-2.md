@@ -1,14 +1,14 @@
 # Article Annexe 2
 
-**LICENCE CABILLAUD MER CELTIQUE**
+AUTORISATION NATIONALE DE PÊCHE CABILLAUD MER CELTIQUE
 
 Le ministre de l'alimentation, de l'agriculture et de la pêche,
 
-Vu le règlement (CE) n° 2371 / 2002 du Conseil du 20 décembre 2002 relatif à la conservation et à l'exploitation durable des ressources halieutiques dans le cadre de la politique commune des pêches ;
+Vu le règlement (CE) n° 2371/2002 du Conseil du 20 décembre 2002 relatif à la conservation et à l'exploitation durable des ressources halieutiques dans le cadre de la politique commune des pêches ;
 
-Vu le règlement (CE) n° 2847 / 93 du Conseil du 12 octobre 1993 modifié instituant un régime de contrôle applicable à la politique commune de la pêche ;
+Vu le règlement (CE) n° 2847/93 du Conseil du 12 octobre 1993 modifié instituant un régime de contrôle applicable à la politique commune de la pêche ;
 
-Vu le règlement (CE) n° 1954 / 2003 du Conseil du 4 novembre 2003 concernant la gestion de l'effort de pêche concernant certaines zones et ressources de pêche communautaires, modifiant le règlement (CEE) n° 2847 / 93 et abrogeant les règlements (CE) n° 685 / 95 et (CE) n° 2027 / 65 ;
+Vu le règlement (CE) n° 1954/2003 du Conseil du 4 novembre 2003 concernant la gestion de l'effort de pêche concernant certaines zones et ressources de pêche communautaires, modifiant le règlement (CEE) n° 2847/93 et abrogeant les règlements (CE) n° 685/95 et (CE) n° 2027/65 ;
 
 Vu le décret du 9 janvier 1852 modifié sur l'exercice de la pêche maritime ;
 
@@ -28,29 +28,29 @@ Décide :
 
 Article 1er
 
-La licence Cabillaud mer Celtique est délivrée à :
+L'autorisation nationale de pêche Cabillaud mer Celtique est délivrée à :
 
 Vous pouvez consulter le tableau dans le JO n° 226 du 30 / 09 / 2009 texte numéro 37
 
 Article 2
 
-Il est interdit à tout navire de pêcher dans les divisions CIEM VII f et VII g s'il n'est pas détenteur d'une licence Cabillaud mer Celtique.
+Il est interdit à tout navire de pêcher dans les divisions CIEM VII f et VII g s'il n'est pas détenteur d'une autorisation nationale de pêche Cabillaud mer Celtique.
 
 Article 3
 
-En cas d'empêchement de l'envoi par le capitaine, dans les délais prévus, de l'original ou des originaux du journal de bord et de l'original ou des originaux des déclarations de débarquement ou de transbordement aux autorités compétentes, les informations demandées par l'annexe I ou III du règlement (CE) n° 2807 / 83 pour les déclarations de débarquement doivent être communiquées par courrier électronique ou télécopie aux autorités concernées.
+En cas d'empêchement de l'envoi par le capitaine, dans les délais prévus, de l'original ou des originaux du journal de bord et de l'original ou des originaux des déclarations de débarquement ou de transbordement aux autorités compétentes, les informations demandées par l'annexe I ou III du règlement (CE) n° 2807/83 pour les déclarations de débarquement doivent être communiquées par courrier électronique ou télécopie aux autorités concernées.
 
 Article 4
 
-Le capitaine du navire visé à l'article 1 exerçant une activité de pêche réglementée dans la zone Cabillaud mer Celtique doit être en mesure de présenter cette licence lors de tout contrôle effectué en mer ou lors du débarquement.
+Le capitaine du navire visé à l'article 1 exerçant une activité de pêche réglementée dans la zone Cabillaud mer Celtique doit être en mesure de présenter cette autorisation nationale de pêche lors de tout contrôle effectué en mer ou lors du débarquement.
 
-Les infractions aux dispositions de la réglementation en vigueur, sans préjudice des sanctions pénales encourues, sont passibles d'une suspension de la licence dans les conditions définies par l'article 13 du décret du 9 janvier 1852 modifié.
+Les infractions aux dispositions de la réglementation en vigueur, sans préjudice des sanctions pénales encourues, sont passibles d'une suspension de l'autorisation nationale de pêche dans les conditions définies par l'article 13 du décret du 9 janvier 1852 modifié.
 
 Article 5
 
 La présente décision peut être contestée dans les deux mois qui suivent sa notification en déposant :
 
--un recours gracieux auprès de l'auteur de la décision.L'absence de réponse dans un délai de deux mois fait naître une décision implicite de rejet, qui peut elle-même être déférée au tribunal administratif dans les deux mois suivants ;
+-un recours gracieux auprès de l'auteur de la décision. L'absence de réponse dans un délai de deux mois fait naître une décision implicite de rejet, qui peut elle-même être déférée au tribunal administratif dans les deux mois suivants ;
 
 -un recours contentieux devant le tribunal administratif géographiquement compétent.
 

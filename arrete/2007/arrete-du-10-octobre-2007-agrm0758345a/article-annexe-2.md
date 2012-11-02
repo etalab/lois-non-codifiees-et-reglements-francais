@@ -1,9 +1,3 @@
 # Article Annexe 2
 
-MODÈLE DE DEMANDE DE LICENCE ANCHOIS
-
-Demande de licence anchois
-
-Vous pouvez consulter le modèle à l'adresse suivante :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20071108&numTexte=15&pageDebut=18281&pageFin=18284
+Les imprimés de demande d'autorisation de pêche sont disponibles à la direction départementale des territoires et de la mer ou de la délégation à la mer et au littoral ou à la direction interrégionale de la mer du port d'immatriculation du navire.

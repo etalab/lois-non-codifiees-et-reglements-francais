@@ -1,6 +1,8 @@
 # Article Annexe 1
 
-**ENGINS NÉCESSITANT LA DÉLIVRANCE DE LA LICENCE CABILLAUD MER CELTIQUE**
+ENGINS NÉCESSITANT LA DÉLIVRANCE DE L'AUTORISATION NATIONALE
+
+DE PÊCHE CABILLAUD MER CELTIQUE
 
 Les navires qui utilisent :
 
@@ -20,4 +22,4 @@ Les navires qui utilisent :
 
 ― un engin palangre (LL).
 
-Dans la zone Cabillaud mer Celtique (zone CIEM VII f et/ou VII g) doivent obtenir une licence Cabillaud mer Celtique.
+Dans la zone Cabillaud mer Celtique (zone CIEM VII f et/ou VII g) doivent obtenir une autorisation nationale de pêche Cabillaud mer Celtique.

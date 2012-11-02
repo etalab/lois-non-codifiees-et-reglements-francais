@@ -1,3 +1,3 @@
 # Article 
 
-Vous pouvez consulter le formulaire dans le JO n° 195 du 25/08/2009 texte numéro 68
+Les imprimés de demande d'autorisation de pêche sont disponibles dans la direction départementale des territoires et de la mer ou de la délégation à la mer et au littoral ou à la direction interrégionale de la mer du port d'immatriculation du navire.

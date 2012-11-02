@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Licence anchois
+Autorisation nationale de pêche anchois
 
 Le ministre de l'agriculture et de la pêche,
 
@@ -22,7 +22,7 @@ Décide :
 
 Article 1er
 
-La licence anchois est délivrée à :
+L'autorisation nationale de pêche anchois est délivrée à :
 
 Nom de l'armateur :
 
@@ -36,11 +36,11 @@ Sous le numéro :
 
 Pour l'option :
 
-" Bolinche - prise active " : ce navire est autorisé à pêcher, transborder, débarquer de l'anchois dans la zone CIEM VIII, dans la limite du quota mis à sa disposition (cf. article 5).
+"Bolinche - prise active" : ce navire est autorisé à pêcher, transborder, débarquer de l'anchois dans la zone CIEM VIII, dans la limite du quota mis à sa disposition (cf. article 5).
 
-" Chalut - prise active " : ce navire est autorisé à pêcher, transborder, débarquer de l'anchois dans la zone CIEM VIII, dans la limite du quota mis à sa disposition (cf. article 5).
+"Chalut - prise active" : ce navire est autorisé à pêcher, transborder, débarquer de l'anchois dans la zone CIEM VIII, dans la limite du quota mis à sa disposition (cf. article 5).
 
-" Chalut - prise occasionnelle " : ce navire est autorisé à pêcher, transborder, débarquer l'anchois dans la zone CIEM VIII, dans la limite de 20 tonnes par an et dans la limite du quota mis à sa disposition (cf. article 5). Cette quantité n'est pas une allocation mais un plafond de capture, sans préjudice des mesures mises en oeuvre par les OP. Cette quantité peut être révisée en fonction du quota d'anchois octroyé à la France chaque année.
+"Chalut - prise occasionnelle" : ce navire est autorisé à pêcher, transborder, débarquer l'anchois dans la zone CIEM VIII, dans la limite de 20 tonnes par an et dans la limite du quota mis à sa disposition (cf. article 5). Cette quantité n'est pas une allocation mais un plafond de capture, sans préjudice des mesures mises en oeuvre par les OP. Cette quantité peut être révisée en fonction du quota d'anchois octroyé à la France chaque année.
 
 Article 2
 
@@ -48,7 +48,7 @@ Début de validité : Fin de validité :
 
 Article 3
 
-Il est interdit à tout navire de capturer et garder à bord, de transborder ou débarquer de l'anchois provenant de la division CIEM VIII s'il n'est pas détenteur d'une licence anchois.
+Il est interdit à tout navire de capturer et garder à bord, de transborder ou débarquer de l'anchois provenant de la division CIEM VIII s'il n'est pas détenteur d'une autorisation nationale de pêche anchois.
 
 Article 4
 
@@ -56,7 +56,7 @@ En cas d'empêchement de l'envoi par le capitaine, dans les délais prévus, de 
 
 Article 5
 
-La licence anchois attribuée au navire est automatiquement retirée lorsque le quota de pêche octroyé à son organisation de producteurs (OP), ou à la France, est réputé épuisé.
+L'autorisation nationale de pêche anchois attribuée au navire est automatiquement retirée lorsque le quota de pêche octroyé à son organisation de producteurs (OP), ou à la France, est réputé épuisé.
 
 La poursuite de la pêche de l'anchois dans la division CIEM VIII est alors interdite pour ce navire.
 
