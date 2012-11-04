@@ -163,3 +163,5 @@ Tétrahydrocannabinols, leurs esters, éthers, sels ainsi que les sels des déri
 Tilétamine et ses sels, à l'exception de leurs préparations injectables
 
 TMA-2 ou 2,4,5-triméthoxyamphétamine
+
+4-méthylamphétamine
