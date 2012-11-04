@@ -1,5 +1,17 @@
 # Article 11
 
-A l'issue des épreuves d'admission, le jury dresse, pour chaque concours, la liste de classement des candidats définitivement admis, par ordre de mérite.
+Toute communication des candidats entre eux ou avec l'extérieur est formellement interdite pendant la durée des épreuves, ainsi que le recours à tout support de documentation de quelque nature que ce soit, en dehors de celle éventuellement distribuée.
 
-Si plusieurs candidats totalisent le même nombre de points, la priorité est accordée à celui qui a obtenu la meilleure note à l'épreuve d'admissibilité de culture générale pour le concours externe et à l'épreuve de note de synthèse pour le concours interne, puis, en cas de nouvelle égalité, à celui ayant obtenu à l'admission la meilleure note à l'épreuve d'entretien d'évaluation.
+Les candidats doivent se prêter aux surveillances et vérifications nécessaires.
+
+Il leur est interdit de sortir des salles d'examen sans autorisation des surveillants responsables.
+
+Toute infraction au règlement, toute fraude ou tentative de fraude dûment constatée entraîne l'exclusion du concours, sans préjudice, le cas échéant, de l'application des dispositions pénales prévues par la loi du 23 décembre 1901.
+
+La même mesure peut être prise à l'encontre des complices de l'auteur principal de la fraude ou de la tentative de fraude.
+
+Aucune sanction immédiate n'est prise en cas de flagrant délit. Le surveillant responsable établit à l'attention du président du jury un rapport caractérisant les faits.
+
+L'exclusion du concours est prononcée par le jury. Aucune décision ne peut être prise sans que l'intéressé ait été mis en mesure de présenter sa défense conformément à l'article 24 de la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
+
+La décision motivée est notifiée sans délai à l'intéressé par lettre recommandée avec accusé de réception.

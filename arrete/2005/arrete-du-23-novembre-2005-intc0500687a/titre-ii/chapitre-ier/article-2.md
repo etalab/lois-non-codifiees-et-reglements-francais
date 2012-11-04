@@ -38,15 +38,15 @@ Les épreuves écrites font l'objet d'une double correction.
 
 Les candidats doivent se présenter à l'ensemble des épreuves.
 
-A l'admissibilité, les candidats passent en outre des tests psychologiques destinés à évaluer leur profil psychologique et leur capacité à travailler en groupe (durée : 3 heures). Les résultats de ces tests, non éliminatoires, sont interprétés par un psychologue lors de l'épreuve d'entretien d'évaluation, à l'admission.
-
 2. Admission
 
 Les épreuves d'admission comportent :
 
+Des tests psychologiques écrits, non notés, destinés à évaluer le profil psychologique des candidats et leur capacité à travailler en groupe (durée : 3 heures) ;
+
 Un entretien d'évaluation s'appuyant sur le résultat des tests psychologiques et sur des questions de culture générale à partir d'un thème d'actualité tiré au sort par le candidat, permettant d'apprécier les qualités de réflexion et les connaissances du candidat, ainsi que son aptitude et sa motivation à exercer l'emploi postulé (durée : 35 minutes ; préparation : 35 minutes ; coefficient 7). Toute note inférieure à 5 sur 20 est éliminatoire.
 
-Les membres du jury disposent, pour aide à la décision, des résultats des tests psychologiques passés par le candidat au moment de l'admissibilité, interprétés par le psychologue.
+Les membres du jury disposent, pour aide à la décision, des résultats des tests psychologiques, interprétés par le psychologue.
 
 Deux interrogations orales portant sur deux épreuves obligatoires à option (durée : 20 minutes ; préparation : 20 minutes ; coefficient 3), au choix parmi les matières suivantes :
 
