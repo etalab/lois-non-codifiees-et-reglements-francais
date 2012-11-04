@@ -2700,7 +2700,6 @@
 - [Arrêté du 29 août 2011 (EFIP1119201A)](arrete-du-29-aout-2011-efip1119201a)
 - [Arrêté du 29 août 2011 (IOCA1124655A)](arrete-du-29-aout-2011-ioca1124655a)
 - [Arrêté du 29 août 2011 (MAEF1123834A)](arrete-du-29-aout-2011-maef1123834a)
-- [Arrêté du 29 août 2011 (MCCE1121529A)](arrete-du-29-aout-2011-mcce1121529a)
 - [Arrêté du 29 avril 2011 (AGRM1102522A)](arrete-du-29-avril-2011-agrm1102522a)
 - [Arrêté du 29 avril 2011 (EFIK1100014A)](arrete-du-29-avril-2011-efik1100014a)
 - [Arrêté du 29 avril 2011 (ETSD1111911A)](arrete-du-29-avril-2011-etsd1111911a)
