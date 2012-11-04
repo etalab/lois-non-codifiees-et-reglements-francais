@@ -1,8 +1,6 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
-
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé : responsable de rayon.
 
@@ -10,51 +8,73 @@ Niveau : IV.
 
 Code NSF : 312 t.
 
-Résumé du référentiel d'emploi : le (la) responsable de rayon anime et gère un rayon ou un espace de vente de produits alimentaires ou non alimentaires à partir d'objectifs fixés par l'entreprise. Il (elle) contribue à l'organisation et à l'animation de son équipe, veille à la qualité du service rendu à la clientèle, s'assure de l'approvisionnement du rayon et peut participer à la vente. Il (elle) contrôle les indicateurs commerciaux et rend compte de la réalisation du chiffre d'affaires, de la marge et des éléments de gestion ; il (elle) suit les évolutions des marchés et les comportements de consommation de la clientèle et en rend compte à sa hiérarchie.
+Résumé du référentiel d'emploi
 
-Il (elle) encadre généralement une équipe d'employés libre-service, de vendeurs et parfois de caissiers. Il (elle) participe à la détermination des objectifs du rayon et propose des moyens nécessaires pour les atteindre, dans le cadre de la stratégie commerciale et logistique de l'entreprise.
+Le (la) responsable de rayon gère un rayon ou un espace de vente. Il (elle) organise et anime une équipe composée d'employés commerciaux ou de vendeurs.
 
-Le (la) responsable de rayon travaille fréquemment en horaires postés, qui peuvent alterner, en matinée ou en soirée, y compris en fin de semaine ; il (elle) peut être conduit (e) à travailler certains jours fériés.
+Dans le cadre de la politique commerciale et de la politique de responsabilité sociétale (RSE) de l'entreprise, il (elle) mobilise les moyens humains et matériels à sa disposition pour approvisionner le rayon ou l'espace de vente, garantir la présence des assortiments préconisés et assurer la qualité du service.
 
-Capacités attestées et descriptif
+Il (elle) accompagne les vendeurs du rayon et participe aux ventes, il (elle) reçoit et traite les réclamations et les litiges des clients. Il (elle) est informé (e) des évolutions du marché, des comportements de consommation de la clientèle et de ses concurrents directs. Il (elle) analyse les indicateurs de gestion à sa disposition et rend compte de l'atteinte des objectifs fixés par sa hiérarchie. Il (elle) participe à la mise en œuvre de la politique de responsabilité sociétale de l'entreprise en intégrant les aspects du développement durable dans son organisation.
 
-des composantes de la certification
+Le (la) responsable de rayon exerce en petite, moyenne ou grande surface, alimentaire ou non alimentaire. Il (elle) anime une équipe composée d'employé (e) s, de vendeurs (ses) et parfois d'hôtes (ses) de caisse. Il (elle) peut assurer la responsabilité d'un des rayons du magasin ou de l'ensemble d'un petit point de vente. Dans le cadre de ses fonctions d'organisateur et d'animateur, il (elle) collabore avec les autres services du magasin tels que le service administratif, l'accueil, le service caisse, la réception marchandise et la centrale d'achats. Il (elle) est en relation avec les clients, représentants-merchandiseurs et livreurs.
 
-1. Animer commercialement la surface de vente et son équipe
+Le (la) responsable de rayon dispose en général d'une autonomie d'organisation dans son travail qui varie selon la taille et la nature de son entreprise. Il (elle) travaille principalement sur la surface de vente. Ses horaires sont flexibles du lundi au samedi en fonction de l'activité du rayon ou de l'espace de vente et il (elle) peut travailler certains jours fériés et dimanches.
 
-Garantir la présence des assortiments permanents et saisonniers préconisés par l'entreprise.
+Capacités attestées et descriptif des composantes de la certification
 
-Mettre en œuvre le marchandisage du rayon et des produits.
+1. Animer commercialement la surface de vente et l'équipe
 
-Analyser, remonter et exploiter les informations obtenues auprès de la concurrence et des clients.
+Mettre en œuvre le marchandisage du rayon et des produits pour garantir la présence des assortiments préconisés par l'entreprise.
 
-Assurer le développement des ventes du rayon et traiter les réclamations clients en magasin dans la limite de sa délégation.
+Dynamiser la vente des produits, traiter les réclamations et résoudre les litiges commerciaux avec les clients en prenant en compte les intérêts de son entreprise.
 
-Organiser et contrôler le travail de son équipe.
+Animer, motiver et accompagner les membres de l'équipe.
 
-Contribuer à l'animation et à la formation des membres de son équipe.
+2. Gérer le rayon, les produits, les services et les collaborateurs
 
-2. Gérer le rayon, les produits et les services
+Gérer l'approvisionnement du rayon, organiser le stockage et le rangement des produits en réserve.
 
-Gérer les stocks et assurer les approvisionnements du rayon.
+Organiser et contrôler le travail des collaborateurs.
 
-Contrôler les réceptions de produits, organiser le stockage et le rangement en réserve en vue de la mise en rayon.
+Contrôler et analyser les résultats de gestion du rayon ou du point de vente et informer sa hiérarchie.
 
-Respecter et contrôler les procédures agissant sur les résultats de gestion et informer sa hiérarchie.
+Compétences transversales de l'emploi (le cas échéant)
 
-Secteurs d'activités ou types d'emploi
+Manipuler des chiffres et utiliser les ordres de grandeur.
 
-accessibles par le détenteur du titre
+Travailler en équipe.
 
-Tout secteur du commerce distribution et plus spécifiquement dans les surfaces commerciales à dominante alimentaire ou non alimentaire, qu'elles soient en libre-service ou en vente conseil assistée.
+Organiser, préparer une action.
 
-Le (la) responsable de rayon peut assurer la responsabilité d'un des rayons d'une grande surface ou de l'ensemble d'une petite surface de proximité, vendant des produits non alimentaires ou plus rarement alimentaires.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+
+Les différents secteurs d'activités concernés sont principalement :
+
+-grandes et moyennes surfaces alimentaires ou spécialisées ;
+
+-boutiques ;
+
+-négoces interentreprises ;
+
+Les types d'emplois accessibles sont les suivants :
+
+-responsable de rayon ;
+
+-manager de rayon ;
+
+-animateur de rayon ;
+
+-chef de rayon ;
+
+-adjoint chef de rayon ;
+
+-adjoint responsable de magasin.
 
 Codes ROME :
 
-14113 - chef de rayon produits frais.
+D-1502 Management/ gestion de rayon produits alimentaires ;
 
-14114 - chef de rayon hors produits frais.
+D-1503 Management/ gestion de rayon produits non alimentaires.
 
 Réglementation de l'activité :
 
@@ -66,6 +86,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation : articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 15 février 2013.

@@ -12,4 +12,10 @@ La navigation accomplie sur les navires de commerce ainsi que sur les navires de
 
 5° La navigation accomplie dans les services de conduite, veille et exploitation du navire est considérée comme accomplie dans le service Pont ;
 
-6° La navigation accomplie dans les services de conduite et entretien du groupe propulsif et des auxiliaires est considérée comme accomplie dans le service Machine.
+6° La navigation accomplie dans les services de conduite et entretien du groupe propulsif et des auxiliaires est considérée comme accomplie dans le service Machine ;
+
+7° Par équivalence aux dispositions du 1° de l'article 3 du présent arrêté :
+
+1. Toute navigation accomplie à bord d'un navire d'une jauge brute de moins de 500 qui effectue des voyages à plus de 200 milles des côtes est prise en compte pour la délivrance et la revalidation des titres permettant d'exercer des fonctions principales, opérationnelles ou de direction, sur des navires de jauge brute supérieure à 500, pour le service Pont.
+
+2. Toute navigation accomplie à bord d'un navire de jauge brute inférieure à 500, et dont la puissance propulsive est égale ou supérieure à 750 kW, est prise en compte pour la revalidation des titres permettant d'exercer des fonctions principales, opérationnelles ou de direction, sur des navires de jauge brute supérieure à 500, pour le service Pont.
