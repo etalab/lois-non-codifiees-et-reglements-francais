@@ -1,3 +1,3 @@
 # Article 15
 
-Les dispositions du présent arrêté seront applicables à compter des concours ouverts au titre de l'année 2006.
+La nomination des lauréats en tant qu'élèves commissaires de police est subordonnée à l'obtention de l'agrément du ministre de l'intérieur et à la reconnaissance de leur aptitude physique par un médecin de la police nationale.

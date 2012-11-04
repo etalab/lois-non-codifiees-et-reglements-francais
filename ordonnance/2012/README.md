@@ -1,5 +1,7 @@
 # 2012
 
+- [Ordonnance n°2012-1218 du 2 novembre 2012 (DEVX1220239R)](ordonnance-n2012-1218-du-2-novembre-2012-devx1220239r)
+- [Ordonnance n°2012-1222 du 2 novembre 2012 (OMEO1228483R)](ordonnance-n2012-1222-du-2-novembre-2012-omeo1228483r)
 - [Ordonnance n°45-2646 du 2 novembre 1945](ordonnance-n45-2646-du-2-novembre-1945)
 - [Ordonnance n°2012-644 du 4 mai 2012 (OMEO1132809R)](ordonnance-n2012-644-du-4-mai-2012-omeo1132809r)
 - [Ordonnance n°2012-10 du 5 janvier 2012 (DEVX1128285R)](ordonnance-n2012-10-du-5-janvier-2012-devx1128285r)

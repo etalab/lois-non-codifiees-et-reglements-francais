@@ -14,12 +14,12 @@ Dans les services du ministère l'économie, de l'industrie et de l'emploi et du
 
 ― le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
-―           le directeur général de l'administration et de la fonction publique ;
+― le directeur général de l'administration et de la fonction publique ;
 
 ― le directeur général des finances publiques ;
 
 ― le directeur général des douanes et droits indirects ;
 
-― le directeur général de la modernisation de l'Etat ;
+― le directeur interministériel pour la modernisation de l'action publique ;
 
 ― le directeur du budget.
