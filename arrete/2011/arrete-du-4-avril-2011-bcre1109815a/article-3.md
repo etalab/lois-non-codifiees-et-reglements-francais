@@ -12,4 +12,4 @@ I. ― Les informations à caractère personnel traitées relatives aux contribu
 
 ― les informations relatives aux contrôles fiscaux opérés.
 
-II. ― Les interrogations effectuées par les agents habilités de la direction générale des finances publiques font l'objet d'une journalisation qui se traduit par la conservation, pour chaque connexion de l'identifiant de l'auteur, des références et de la nature des requêtes effectuées ainsi que des dates et heures de consultation.
+II. ― Les interrogations effectuées par les agents habilités de la direction générale des finances publiques et de la direction générale des douanes et droits indirects font l'objet d'une journalisation qui se traduit par la conservation, pour chaque connexion de l'identifiant de l'auteur, des références et de la nature des requêtes effectuées ainsi que des dates et heures de consultation.
