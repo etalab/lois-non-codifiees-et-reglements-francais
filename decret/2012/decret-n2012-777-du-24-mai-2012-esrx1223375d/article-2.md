@@ -6,4 +6,4 @@ Il a autorité, conjointement avec le ministre de l'éducation nationale, sur le
 
 Pour l'exercice de ses attributions, il dispose en tant que de besoin de la direction générale de l'enseignement scolaire.
 
-Il peut faire appel à l'inspection générale de l'éducation nationale, à la direction générale des médias et des industries culturelles et à la direction générale de la modernisation de l'Etat.
+Il peut faire appel à l'inspection générale de l'éducation nationale, à la direction générale des médias et des industries culturelles et à la direction interministérielle pour la modernisation de l'action publique.

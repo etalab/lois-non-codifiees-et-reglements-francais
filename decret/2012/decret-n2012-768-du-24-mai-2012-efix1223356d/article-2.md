@@ -22,23 +22,23 @@ I. ― Le ministre de l'économie et des finances a autorité sur :
 
 ― le service du contrôle général économique et financier ;
 
-― les services à compétence nationale dénommés  TRACFIN ,  Systèmes d'information budgétaire, financière et comptable de l'Etat  et  service des achats de l'Etat  et, conjointement avec le ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique, le service à compétence nationale dénommé  opérateur national de paye .
+― les services à compétence nationale dénommés TRACFIN, Systèmes d'information budgétaire, financière et comptable de l'Etat et service des achats de l'Etat et, conjointement avec le ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique, le service à compétence nationale dénommé opérateur national de paye.
 
-II. - Conjointement avec le ministre du commerce extérieur, le ministre du redressement productif, le ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et le ministre de l'artisanat, du commerce et du tourisme, le ministre de l'économie et des finances a autorité sur le secrétariat général des ministères économiques et financiers.
+II.-Conjointement avec le ministre du commerce extérieur, le ministre du redressement productif, le ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et le ministre de l'artisanat, du commerce et du tourisme, le ministre de l'économie et des finances a autorité sur le secrétariat général des ministères économiques et financiers.
 
 Conjointement avec le ministre du commerce extérieur, le ministre du redressement productif et le ministre de l'artisanat, du commerce et du tourisme, il a autorité sur :
 
-- la direction des affaires juridiques des ministères économiques et financiers ;
+-la direction des affaires juridiques des ministères économiques et financiers ;
 
-- le haut fonctionnaire de défense et de sécurité ;
+-le haut fonctionnaire de défense et de sécurité ;
 
-- le médiateur des ministères économiques et financiers.
+-le médiateur des ministères économiques et financiers.
 
 Conjointement avec le ministre du redressement productif, il a autorité sur :
 
-- le Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
+-le Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
-- le service à compétence nationale Agence des participations de l'Etat ; les modalités d'exercice de cette autorité conjointe sont précisées par arrêté du Premier ministre.
+-le service à compétence nationale Agence des participations de l'Etat ; les modalités d'exercice de cette autorité conjointe sont précisées par arrêté du Premier ministre.
 
 III. ― Pour l'exercice de ses attributions relatives au développement de l'économie sociale et solidaire, le ministre de l'économie et des finances :
 
@@ -52,7 +52,7 @@ V. ― Pour l'exercice de ses attributions, le ministre de l'économie et des fi
 
 ― de la direction générale de la compétitivité, de l'industrie et des services ;
 
-― de la direction générale de la modernisation de l'Etat ;
+― de la direction interministérielle pour la modernisation de l'action publique ;
 
 ― de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale ;
 

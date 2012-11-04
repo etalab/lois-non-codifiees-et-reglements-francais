@@ -727,7 +727,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction générale de la modernisation de l'Etat <br/>
+<p align="left">Direction interministérielle pour la modernisation de l'action publique <br/>
 </p>
 </td>
 <td align="center">

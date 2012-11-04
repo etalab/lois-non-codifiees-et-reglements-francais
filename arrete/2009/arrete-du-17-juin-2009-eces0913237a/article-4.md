@@ -8,7 +8,7 @@ La formation compétente pour les enquêtes statistiques et les projets d'exploi
 
 3. Un représentant de l'Union nationale des associations familiales ;
 
-4. Un représentant de la direction générale de la modernisation de l'Etat ;
+4. Un représentant de la        direction interministérielle pour la modernisation de l'action publique ;
 
 5. Un représentant du conseil scientifique du comité de concertation pour les données en sciences humaines et sociales ;
 

@@ -18,11 +18,11 @@ Outre le secrétaire général de la défense et de la sécurité nationale qui 
 
 ― le directeur interministériel des systèmes d'information et de communication de l'Etat ;
 
-― le directeur général de la modernisation de l'Etat ;
+― le        directeur interministériel pour la modernisation de l'action publique ;
 
 ― le directeur central du renseignement intérieur ;
 
-― le vice-président du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
+― le vice-président du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 ― le directeur général de l'Agence nationale de la sécurité des systèmes d'information.
 

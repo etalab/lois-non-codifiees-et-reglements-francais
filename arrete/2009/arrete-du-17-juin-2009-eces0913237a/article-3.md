@@ -12,7 +12,7 @@ La formation compétente pour les enquêtes statistiques et les projets d'exploi
 
 5. Un représentant des organisations syndicales mentionnées au 3° de l'article 5 du décret du 20 mars 2009 susvisé choisi par celles-ci ;
 
-6. Un représentant de la direction générale de la modernisation de l'Etat ;
+6. Un représentant de la        direction interministérielle pour la modernisation de l'action publique ;
 
 7. Le directeur en charge des statistiques d'entreprises à l'Institut national de la statistique et des études économiques ;
 

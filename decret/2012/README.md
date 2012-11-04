@@ -815,6 +815,7 @@
 - [Décret n°2012-841 du 29 juin 2012 (INTJ1113923D)](decret-n2012-841-du-29-juin-2012-intj1113923d)
 - [Décret n°2011-2085 du 30 décembre 2011 (BCRS1135079D)](decret-n2011-2085-du-30-decembre-2011-bcrs1135079d)
 - [Décret n°2011-2111 du 30 décembre 2011 (IOCJ1128526D)](decret-n2011-2111-du-30-decembre-2011-iocj1128526d)
+- [Décret n°2011-2112 du 30 décembre 2011 (EFIE1124864D)](decret-n2011-2112-du-30-decembre-2011-efie1124864d)
 - [Décret n°2012-117 du 30 janvier 2012 (DEFD1128841D)](decret-n2012-117-du-30-janvier-2012-defd1128841d)
 - [Décret n°2012-118 du 30 janvier 2012 (DEVL1134012D)](decret-n2012-118-du-30-janvier-2012-devl1134012d)
 - [Décret n°2012-119 du 30 janvier 2012 (JUSF1132728D)](decret-n2012-119-du-30-janvier-2012-jusf1132728d)

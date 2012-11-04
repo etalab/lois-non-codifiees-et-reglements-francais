@@ -703,6 +703,7 @@
 - [Décret n°2011-997 du 24 août 2011 (DEFD1117869D)](decret-n2011-997-du-24-aout-2011-defd1117869d)
 - [Décret n°2011-998 du 24 août 2011 (DEVL1120380D)](decret-n2011-998-du-24-aout-2011-devl1120380d)
 - [Décret n°2011-999 du 24 août 2011 (IOCB1118963D)](decret-n2011-999-du-24-aout-2011-iocb1118963d)
+- [Décret n°2010-1451 du 25 novembre 2010 (BCRX1029603D)](decret-n2010-1451-du-25-novembre-2010-bcrx1029603d)
 - [Décret n°2011-1000 du 25 août 2011 (EFIM1104658D)](decret-n2011-1000-du-25-aout-2011-efim1104658d)
 - [Décret n°2011-1007 du 25 août 2011 (MCCE1104960D)](decret-n2011-1007-du-25-aout-2011-mcce1104960d)
 - [Décret n°2011-1018 du 25 août 2011 (ETSD1105260D)](decret-n2011-1018-du-25-aout-2011-etsd1105260d)

@@ -1,6 +1,6 @@
 # Article 2
 
-I. - La direction du budget exerce les missions suivantes :
+I.-La direction du budget exerce les missions suivantes :
 
 1° Définition de la politique des finances publiques, de la politique budgétaire de l'Etat ainsi que des outils de pilotage de ces politiques ;
 
@@ -18,7 +18,7 @@ I. - La direction du budget exerce les missions suivantes :
 
 8° Tutelle financière des organismes entrant dans son champ de compétence.
 
-II. - Avec la direction générale de la comptabilité publique, la direction générale de la modernisation de l'Etat et la direction générale de l'administration et de la fonction publique, chacune pour ce qui la concerne, la direction du budget :
+II.-Avec la direction générale de la comptabilité publique, la direction interministérielle pour la modernisation de l'action publique et la direction générale de l'administration et de la fonction publique, chacune pour ce qui la concerne, la direction du budget :
 
 1° Participe aux travaux de modernisation des modes de gestion de l'Etat et des organismes bénéficiaires d'une subvention pour charges de service public ;
 
@@ -30,9 +30,9 @@ II. - Avec la direction générale de la comptabilité publique, la direction g�
 
 5° Définit les principes et les règles de gestion budgétaire et comptable applicables aux organismes bénéficiaires d'une subvention pour charges de service public.
 
-III. - La direction du budget participe à l'élaboration des lois de financement de la sécurité sociale, au suivi de leur exécution et à la conception des outils de mesure de la performance.
+III.-La direction du budget participe à l'élaboration des lois de financement de la sécurité sociale, au suivi de leur exécution et à la conception des outils de mesure de la performance.
 
-IV. - La direction du budget est associée :
+IV.-La direction du budget est associée :
 
 1° Aux travaux de la direction générale de l'administration et de la fonction publique relatifs à l'organisation des services publics, à la coordination des règles statutaires applicables aux personnels de l'Etat et des autres collectivités publiques et aux principes de rémunération de ces personnels ;
 

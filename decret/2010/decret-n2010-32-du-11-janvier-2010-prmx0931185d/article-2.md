@@ -22,7 +22,7 @@ Le secrétaire général pour l'administration du ministère de la défense ;
 
 Le secrétaire général du ministère de la culture et de la communication ;
 
-Le directeur général de la modernisation de l'Etat ;
+Le        directeur interministériel pour la modernisation de l'action publique ;
 
 Le directeur du budget ;
 

@@ -10,7 +10,7 @@ Sont également membres de droit de l'observatoire :
 
 2° Le directeur général des finances publiques ou son représentant ;
 
-3° Le directeur général de la modernisation de l'Etat ou son représentant ;
+3° Le directeur interministériel pour la modernisation de l'action publique ou son représentant ;
 
 4° Le directeur général du Trésor ou son représentant ;
 
@@ -22,7 +22,7 @@ Sont également membres de droit de l'observatoire :
 
 8° Le directeur du budget ou son représentant ;
 
-9° Le            secrétaire général des ministères économique et financier du ministère chargé de l'économie ou son représentant ;
+9° Le secrétaire général des ministères économique et financier du ministère chargé de l'économie ou son représentant ;
 
 10° Le directeur des affaires juridiques du ministère chargé de l'économie ou son représentant ;
 
