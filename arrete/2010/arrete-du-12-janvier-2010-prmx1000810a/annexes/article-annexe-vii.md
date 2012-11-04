@@ -29,7 +29,18 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 <p>DDT de la Haute-Marne</p>
 </td>
 <td valign="top" width="337">
-<p>Haute-Marne <br/>Aube</p>
+<p>Haute-Marne</p>
+<p>Aube</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DDT de Maine-et-Loire </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Maine-et-Loire <br/>
+<br/>Mayenne <br/>
+<br/>Sarthe</p>
 </td>
 </tr>
 </tbody>
