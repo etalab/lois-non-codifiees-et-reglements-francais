@@ -1,8 +1,6 @@
 # Article Annexe
 
-LISTE DES OPÉRATIONS DE RESTRUCTURATION DE SERVICE AU SEIN DE LA DIRECTION GÉNÉRALE
-
-DE L'AVIATION CIVILE OUVRANT DROIT À LA PRIME DE RESTRUCTURATION DE SERVICE
+LISTE DES OPÉRATIONS DE RESTRUCTURATION DE SERVICE AU SEIN DE LA DIRECTION GÉNÉRALE DE L'AVIATION CIVILE OUVRANT DROIT À LA PRIME DE RESTRUCTURATION DE SERVICE
 
 Les services en charge des traitements et salaires des directions de l'aviation civile Nord, Sud-Est, Sud-Ouest et Antilles-Guyane.
 
@@ -35,3 +33,5 @@ Les unités du service national d'ingénierie aéroportuaire concernées par la 
 Les détachements civils de coordination (DCC).
 
 La délégation de Mayotte.
+
+L'organisme de contrôle de Perpignan-Rivesaltes au sein du service de la navigation aérienne Sud - Sud-Est.
