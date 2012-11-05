@@ -1435,7 +1435,6 @@
 - [Arrêté du 18 mars 2009 (SASS0905616A)](arrete-du-18-mars-2009-sass0905616a)
 - [Arrêté du 18 mars 2009 (SJSH0900065A)](arrete-du-18-mars-2009-sjsh0900065a)
 - [Arrêté du 18 novembre 2003 (SOCF0311784A)](arrete-du-18-novembre-2003-socf0311784a)
-- [Arrêté du 18 novembre 2009 (AGRG0927402A)](arrete-du-18-novembre-2009-agrg0927402a)
 - [Arrêté du 18 novembre 2009 (AGRG0927403A)](arrete-du-18-novembre-2009-agrg0927403a)
 - [Arrêté du 18 novembre 2009 (AGRT0928410A)](arrete-du-18-novembre-2009-agrt0928410a)
 - [Arrêté du 18 novembre 2009 (BCFB0923684A)](arrete-du-18-novembre-2009-bcfb0923684a)
