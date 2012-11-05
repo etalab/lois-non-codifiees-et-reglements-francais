@@ -1,0 +1,5 @@
+# Article 19
+
+Le règlement intérieur de l'établissement précise les règles relatives à la composition et au fonctionnement des conseils. Il fixe notamment les règles de quorum des différents conseils, les modalités de délibération et de représentation de leurs membres, les modalités de convocation, d'établissement et d'envoi de l'ordre du jour de ces conseils ainsi que la présidence de ceux-ci en cas d'empêchement. Il dresse en outre les règles de publicité des délibérations.
+
+Il peut prévoir que les membres des conseils participent aux séances par des moyens de visioconférence ou de communication électronique permettant l'identification de leurs membres et leur participation effective à une délibération collégiale et satisfaisant à des caractéristiques techniques garantissant la transmission continue et simultanée des débats et la confidentialité des votes lorsque le scrutin est secret. Les membres qui participent par ces moyens aux séances sont réputés présents dans le calcul du quorum et de la majorité requise.
