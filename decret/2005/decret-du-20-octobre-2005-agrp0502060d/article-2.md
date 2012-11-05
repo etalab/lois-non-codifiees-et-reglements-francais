@@ -1,13 +1,9 @@
 # Article 2
 
-1. Un volume complémentaire individuel peut être constitué à condition qu'il n'excède pas un volume complémentaire annuel de 10 hectolitres de vin par hectare. Le volume complémentaire annuel peut être diminué conformément aux dispositions de l'article R. 642-7 du code rural.
+1° Un volume complémentaire individuel peut être constitué à condition qu'il n'excède pas un volume complémentaire annuel de 10 hectolitres de vin par hectare. Le volume complémentaire annuel peut être diminué conformément aux dispositions de l'article R. 642-7 du code rural et de la pêche maritime.
 
-Le volume complémentaire individuel cumulé sur plusieurs campagnes ne peut excéder :
+Les volumes de vins stockés au titre du volume complémentaire individuel n'excèdent pas 25 hectolitres par hectare.
 
-30 hectolitres par hectare pour les appellations " Petit Chablis " et " Chablis " ;
+Les producteurs ayant constitué ces volumes avant la récolte 2012 ont jusqu'au 15 décembre 2013 pour se mettre en conformité avec cette disposition.
 
-29 hectolitres par hectare pour l'appellation " Chablis " complétée soit par le nom du climat d'origine, soit par l'expression premier cru, soit par l'un et l'autre ;
-
-27 hectolitres par hectare pour l'appellation " Chablis grand cru ".
-
-2. Les quantités produites au-delà du volume complémentaire annuel ou conduisant au dépassement du volume complémentaire individuel cumulé sont livrées en vue de leur distillation dans les conditions prévues à l'article D. 641-80 du code rural.
+2° Les quantités produites au-delà du volume complémentaire annuel ou conduisant à des volumes stockés au titre du volume complémentaire individuel supérieurs à la limite fixée ci-dessus sont livrées en vue de leur distillation dans les conditions prévues à l'article D. 645-14 du code rural et de la pêche maritime.
