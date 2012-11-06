@@ -1,23 +1,9 @@
 # Article 2
 
-Le Conseil d'analyse économique est composé de personnalités choisies en raison de leurs compétences dans le domaine de l'analyse économique.
+Le  Conseil d'analyse économique est composé de membres et de  correspondants. Les membres participent à l'ensemble des travaux du  conseil. Les correspondants sont appelés à participer par le président  délégué en tant que de besoin.
 
-Sont en outre membres de droit :
+Les membres et les  correspondants sont des économistes professionnels choisis en raison de  leurs compétences telles que reconnues notamment par les usages du monde  universitaire.
 
-- le président délégué du Conseil d'analyse de la société ;
-
-- le directeur général du Centre d'analyse stratégique ;
-
-- le directeur général de l'Institut national de la statistique et des études économiques ;
-
-- le directeur de la prévision au ministère de l'économie, des finances et de l'industrie ;
-
-- le directeur de l'animation, de la recherche, des études et des statistiques au ministère de l'emploi et de la solidarité ;
-
-- le directeur de la recherche, des études, de l'évaluation et des statistiques au ministère de l'emploi et de la solidarité.
-
-Les personnalités choisies en raison de leurs compétences sont nommées par arrêté du Premier ministre pour une période de deux ans renouvelable.
-
-Les membres de droit peuvent se faire représenter.
+Les membres et les correspondants sont nommés par arrêté du Premier ministre pour une période de deux ans renouvelable.
 
 Des experts peuvent être invités à participer aux travaux du Conseil d'analyse économique.
