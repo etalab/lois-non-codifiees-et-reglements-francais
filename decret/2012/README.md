@@ -115,6 +115,7 @@
 - [Décret n°2012-1131 du 5 octobre 2012 (AFSH1223067D)](decret-n2012-1131-du-5-octobre-2012-afsh1223067d)
 - [Décret n°2012-1132 du 5 octobre 2012 (INTE1235000D)](decret-n2012-1132-du-5-octobre-2012-inte1235000d)
 - [Décret n°2012-1133 du 5 octobre 2012 (AGRT1126515D)](decret-n2012-1133-du-5-octobre-2012-agrt1126515d)
+- [Décret n°2012-1226 du 5 novembre 2012 (PRMX1238586D)](decret-n2012-1226-du-5-novembre-2012-prmx1238586d)
 - [Décret n°2012-14 du 5 janvier 2012 (DEVP1134919D)](decret-n2012-14-du-5-janvier-2012-devp1134919d)
 - [Décret n°2012-16 du 5 janvier 2012 (MEND1122533D)](decret-n2012-16-du-5-janvier-2012-mend1122533d)
 - [Décret n°2012-302 du 5 mars 2012 (PRMX1204008D)](decret-n2012-302-du-5-mars-2012-prmx1204008d)
