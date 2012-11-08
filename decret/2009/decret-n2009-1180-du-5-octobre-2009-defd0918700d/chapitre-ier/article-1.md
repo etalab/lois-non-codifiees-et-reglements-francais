@@ -32,7 +32,9 @@ III. ― Au titre des relations et de la coopération internationales en matièr
 
 2° Assure l'exécution des engagements internationaux en matière d'armement et signe les actes correspondants ;
 
-3° Propose au ministre de la défense les affectations aux postes d'attaché de défense issus de la direction générale de l'armement et est consulté pour celles relevant des armées.
+3° Propose au ministre de la défense les affectations aux postes d'attaché de défense issus de la direction générale de l'armement et est consulté pour celles relevant des armées ;
+
+4° Signe les décisions de certification des entreprises souhaitant être destinataires des produits liés à la défense transférés au titre des licences générales des autres Etats membres de l'Union européenne.
 
 IV. ― Dans le cadre de la politique industrielle :
 
