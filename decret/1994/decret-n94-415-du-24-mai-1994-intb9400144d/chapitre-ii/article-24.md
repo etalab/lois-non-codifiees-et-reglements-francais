@@ -2,22 +2,12 @@
 
 Sont applicables aux personnels des administrations parisiennes :
 
-1° Les articles 7 à 12 et 17 du décret du 14 février 1959 susvisé ;
+1° L'article 2 et les articles 6 à 24 du décret n° 82-451 du 28 mai 1982 susvisé ;
 
-2° Les articles 2, 6 à 8 et 10 à 24 du décret n° 82-451 du 28 mai 1982 susvisé ;
+2° Le décret n° 82-447 du 28 mai 1982 susvisé, sous réserve que le nombre de décharges de service auquel ont droit les organisations syndicales de fonctionnaires représentées au Conseil supérieur des administrations parisiennes, en application du VII de l'article 16, soit fixé par arrêté du maire de Paris et que, pour l'application des articles 3-1 et 18-1, un arrêté du chef de l'administration parisienne concernée soit substitué aux arrêtés ministériels prévus par ces articles ;
 
-3° Les articles 7 à 11 bis du décret n° 82-452 du 28 mai 1982 susvisé ;
+3° Le décret n° 2007-1470 du 15 octobre 2007 relatif à la formation professionnelle tout au long de la vie des fonctionnaires de l'Etat ;
 
-4° Les articles 39 à 42 du décret n° 82-453 du 28 mai 1982 susvisé ;
+4° Le dernier alinéa de l'article 28 et les articles 35 à 38 du décret du 16 septembre 1985 susvisé ;
 
-5° Le décret n° 84-954 du 25 octobre 1984 susvisé, sous la réserve que, au dernier alinéa de l'article 16 du décret n° 82-447 du 28 mai 1982 susvisé auquel renvoie ce décret, un arrêté du maire de Paris se substitue à l'arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé du budget ;
-
-6° Les articles 1er à 20 et 29 du décret du 14 juin 1985 susvisé ;
-
-7° Les articles 23 à 25, 28 (dernier alinéa), 35 à 38 et 49 (quatrième alinéa) du décret du 16 septembre 1985 susvisé ;
-
-8° Les articles 9 et 11 du décret du 17 janvier 1986 susvisé.
-
-9° L'article 13 du décret n° 97-40 du 20 janvier 1997 modifiant le décret n° 82-451 du 28 mai 1982 précité ;
-
-Est également applicable, dans sa rédaction à la date mentionnée à l'article 22, le décret du 26 mars 1975 susvisé.
+5° Le chapitre Ier du décret n° 2007-1942 du 26 décembre 2007 relatif à la formation professionnelle des agents non titulaires de l'Etat et de ses établissements publics et des ouvriers affiliés au régime de pensions résultant du décret n° 2004-1056 du 5 octobre 2004.

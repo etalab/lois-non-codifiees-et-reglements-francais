@@ -1,9 +1,3 @@
 # Article 20
 
-Pour l'application de l'article 30 du décret du 10 juin 1985 susvisé :
-
-1° Le b est rédigé comme suit :
-
-" b) D'autre part de représentants des personnels. "
-
-2° La dernière phrase de l'avant-dernier alinéa est supprimée.
+Par dérogation au II de l'article 14 du décret n° 85-1229 du 20 novembre 1985 relatif aux conditions générales de recrutement dans la fonction publique territoriale, le représentant de la catégorie correspondant au corps pour lequel l'examen ou le concours est organisé est désigné, au besoin par tirage au sort, parmi les représentants du personnel à la commission administrative paritaire compétente. Toutefois, si parmi les représentants du personnel à la commission administrative paritaire siègent des fonctionnaires appartenant au corps et, le cas échéant, à la spécialité correspondant au concours concerné, la désignation du représentant de la catégorie est effectuée parmi ces derniers.
