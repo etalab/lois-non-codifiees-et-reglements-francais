@@ -1,6 +1,6 @@
 # Article 40
 
-Le service de la gestion des procédures et des moyens est constitué :
+Le service des procédures d'exportation et des moyens est constitué :
 
 ― de la sous-direction de la gestion des procédures de contrôle ;
 

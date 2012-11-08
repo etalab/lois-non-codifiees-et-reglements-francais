@@ -6,7 +6,7 @@ La direction des opérations a autorité sur les organismes extérieurs suivants
 
 2. Le service du maintien en condition opérationnelle ;
 
-3. L'unité de management Rafale (UM RAF) ;
+3. L'unité de management avions de chasse et équipements (UM ACE) ;
 
 4. L'unité de management Cœlacanthe (UM COE) ;
 
@@ -20,7 +20,7 @@ La direction des opérations a autorité sur les organismes extérieurs suivants
 
 9. L'unité de management Opérations d'armement navales (UM NAV) ;
 
-10. L'unité de management Opérations d'armement aéronautiques (UM AERO) ;
+10. L'unité de management avions de missions et de support (UM AMS) ;
 
 11. L'unité de management Opérations d'armement hélicoptères (UM HELI) ;
 

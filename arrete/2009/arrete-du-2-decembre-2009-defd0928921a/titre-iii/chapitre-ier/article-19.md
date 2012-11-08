@@ -12,4 +12,4 @@ La sous-direction de la cohérence et de la prospective :
 
 5. Coordonne les actions de prospective au sein du service ;
 
-6. Coordonne les actions de renseignement et de maîtrise des armements de la direction générale de l'armement.
+6. Coordonne les actions de maîtrise des armements de la direction générale de l'armement.

@@ -6,10 +6,8 @@ La sous-direction du coût d'intervention :
 
 2. Anime et coordonne, avec les directions concernées de la direction générale de l'armement et la direction des affaires financières du secrétariat général pour l'administration, les travaux de planification, de programmation et de prévision financière :
 
-― des budgets de dépenses de personnels ;
+- du budget de rémunérations et charges sociales ;
 
-― des budgets de dépenses de fonctionnement ;
-
-― des budgets de dépenses d'investissement.
+- des budgets de fonctionnement, d'investissement et d'intervention.
 
 3. Prépare et conduit l'exécution de la démarche d'orientation de la direction générale de l'armement.

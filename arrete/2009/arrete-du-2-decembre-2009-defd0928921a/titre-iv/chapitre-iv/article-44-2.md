@@ -1,6 +1,6 @@
-# Article 38
+# Article 44-2
 
-La sous-direction de la politique d'exportation :
+la sous-direction de la politique d'exportation :
 
 1. Elabore, en liaison avec les organismes concernés et les autres ministères, la politique générale du ministère de la défense en matière d'exportation de défense et de prestations associées ;
 
@@ -14,6 +14,4 @@ La sous-direction de la politique d'exportation :
 
 6. Réunit les informations relatives au commerce mondial des matériels de guerre et conduit ou fait conduire les études de marché ;
 
-7. Etablit les statistiques et prévisions d'exportation française de matériels de guerre et de prestations associées ;
-
-8. Elabore, conjointement avec l'état-major des armées, le programme de formation des futurs attachés de défense.
+7. Etablit les statistiques et prévisions d'exportation française de matériels de guerre et de prestations associées.

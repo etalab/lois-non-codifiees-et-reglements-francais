@@ -477,7 +477,6 @@
 - [Arrêté du 15 juillet 1996 (INTE9600408A)](arrete-du-15-juillet-1996-inte9600408a)
 - [Arrêté du 15 mars 1996 (BUDR9605005A)](arrete-du-15-mars-1996-budr9605005a)
 - [Arrêté du 15 mars 1996 (MCCK9600170A)](arrete-du-15-mars-1996-mcck9600170a)
-- [Arrêté du 15 novembre 1996 (DEFD9602128A)](arrete-du-15-novembre-1996-defd9602128a)
 - [Arrêté du 15 octobre 1996 (EQUT9600592A)](arrete-du-15-octobre-1996-equt9600592a)
 - [Arrêté du 15 mai 1996 (DEFA9601480A)](arrete-du-15-mai-1996-defa9601480a)
 - [Arrêté du 15 mai 1996 (JUSB9610172A)](arrete-du-15-mai-1996-jusb9610172a)

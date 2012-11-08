@@ -18,4 +18,6 @@ La sous-direction des plans et des programmes :
 
 8. Représente le délégué général pour l'armement au sein de la commission exécutive permanente ;
 
-9. Est responsable et anime, pour la direction générale de l'armement, les travaux d'élaboration des dossiers du comité ministériel des investissements.
+9. Est responsable et anime, pour la direction générale de l'armement, les travaux d'élaboration des dossiers du comité ministériel des investissements ;
+
+10. Anime et coordonne le contrôle interne budgétaire au sein de la direction générale de l'armement.

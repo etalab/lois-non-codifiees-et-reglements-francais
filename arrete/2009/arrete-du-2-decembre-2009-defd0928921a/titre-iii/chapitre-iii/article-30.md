@@ -1,8 +1,8 @@
 # Article 30
 
-La sous-direction de la coopération et du développement européen comprend huit bureaux :
+La sous-direction de la coopération et du développement européen comprend six bureaux :
 
-1. Quatre bureaux à compétence géographique chargés des relations bilatérales en matière de coopération dans le domaine de l'armement sont constitués et définis par décision du directeur de la stratégie ;
+1. Deux bureaux à compétence géographique chargés des relations bilatérales en matière de coopération dans le domaine de l'armement sont constitués et définis par décision du directeur de la stratégie ;
 
 2. Le bureau des affaires européennes ;
 

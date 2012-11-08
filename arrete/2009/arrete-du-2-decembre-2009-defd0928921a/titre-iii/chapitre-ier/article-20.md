@@ -1,6 +1,6 @@
 # Article 20
 
-La sous-direction de la cohérence et de la prospective comprend cinq bureaux :
+La sous-direction de la cohérence et de la prospective comprend quatre bureaux :
 
 1. Le bureau du pilotage et des méthodes ;
 
@@ -8,6 +8,4 @@ La sous-direction de la cohérence et de la prospective comprend cinq bureaux :
 
 3. Le bureau du développement capacitaire international ;
 
-4. Le bureau du secrétariat du collège ;
-
-5. Le bureau du renseignement.
+4. Le bureau du secrétariat du collège.
