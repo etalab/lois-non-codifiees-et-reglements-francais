@@ -6,7 +6,9 @@ Le tableau comprend :
 
 La section des personnes physiques dans laquelle sont énumérés les géomètres experts exerçant à titre individuel ou en tant qu'associés ;
 
-La section des personnes morales dans laquelle sont énumérées les sociétés de géomètres experts prévues aux 1° à 3° de l'article 6-1 de la loi du 7 mai 1946 modifiée susvisée.
+La section des personnes morales dans laquelle sont énumérées les sociétés de géomètres experts prévues aux 1° à 3° de l'article 6-1 de la loi du 7 mai 1946 modifiée susvisée ;
+
+La section des sociétés de participations financières de professions libérales des géomètres-experts.
 
 Le tableau comporte pour chaque personne physique inscrite :
 
@@ -31,3 +33,11 @@ La section du tableau réservée aux personnes morales comporte :
 3° Les noms et prénoms des géomètres associés avec indication de leurs fonctions dans la société ;
 
 4° Le cas échéant, l'adresse des bureaux secondaires et permanences ainsi que le nom des géomètres experts qui en assurent la responsabilité.
+
+La  section du tableau réservée aux sociétés de participations financières  de professions libérales de géomètres-experts comporte :
+
+1° La forme, la dénomination et la raison sociale de la société ;
+
+2° L'adresse du siège social de la société ;
+
+3°  Les noms et prénoms des géomètres-experts associés en exercice, avec  indication de leurs fonctions et de leurs détentions de parts ou  d'actions du capital au sein de la société.
