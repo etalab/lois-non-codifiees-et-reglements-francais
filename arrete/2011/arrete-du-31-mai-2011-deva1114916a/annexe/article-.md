@@ -163,3 +163,17 @@ Paris-Moscou (Russie).
 Jusqu'au 17 septembre 2017
 
 Paris - Bamako (Mali).
+
+Jusqu'au 1er novembre 2017
+
+Lyon-Moscou (Russie) ;
+
+Lyon-Annaba (Algérie) ;
+
+Lyon-Batna (Algérie) ;
+
+Lyon-Biskra (Algérie) ;
+
+Metz-Alger (Algérie) ;
+
+Nice-Constantine (Algérie).
