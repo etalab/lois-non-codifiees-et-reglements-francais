@@ -8,12 +8,12 @@ A l'exception des produits explosifs énumérés à l'article R. 2352-47 du code
 
 ― les produits explosifs binaires ;
 
-― les détonateurs et les mèches simples ;
+― les détonateurs pyrotechniques ;
 
 ― les détonateurs électriques, non électriques et électroniques ;
 
 ― les cartouches amorces et les charges relais ;
 
-― les cordeaux détonants et les mèches lentes ;
+― les cordeaux détonants ;
 
 ― les emballages intermédiaires, les colis et les fûts contenant les produits explosifs susmentionnés.

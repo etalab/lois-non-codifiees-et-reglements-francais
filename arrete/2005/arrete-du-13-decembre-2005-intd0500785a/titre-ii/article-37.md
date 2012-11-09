@@ -2,7 +2,7 @@
 
 La tenue des registres d'entrées et de sorties de produits explosifs, associée à l'archivage de documents de fabrication, d'importation ou de transport, doit permettre de déterminer pour chaque produit explosif :
 
-- les indications définies par les dispositions de l'arrêté du 3 mars 1982 susvisé relatif au marquage et à l'identification des produits explosifs ;
+- les indications définies par les dispositions de l'arrêté du 7 novembre 2012 relatif à l'identification et à la traçabilité des produits explosifs  ;
 
 - les mouvements et l'identité des responsables successifs de sa détention.
 

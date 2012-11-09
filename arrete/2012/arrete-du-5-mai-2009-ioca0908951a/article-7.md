@@ -16,4 +16,4 @@ f) Fournir au préfet du département du lieu d'implantation de l'établissement
 
 g) Fournir au directeur départemental de la sécurité publique et au commandant de groupement de gendarmerie départementale les coordonnées d'une personne habilitée à fournir les données visées au point f en dehors des heures d'ouverture normales des entreprises.
 
-Pour les besoins du point d, l'entreprise conserve des fichiers conformes aux dispositions nationales existantes en ce qui concerne les produits explosifs fabriqués ou importés avant le 5 avril 2012.
+Pour les besoins du point d, l'entreprise conserve des fichiers conformes aux dispositions nationales existantes en ce qui concerne les produits explosifs fabriqués ou importés avant le 5 avril 2013.
