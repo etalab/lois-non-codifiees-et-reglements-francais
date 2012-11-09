@@ -222,7 +222,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Ain</td>
 <td align="center">
-<br/>Altiport.<br/>Les pilotes non titulaires de la qualification  montagne  devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Altiport.<br/>Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -240,7 +240,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Savoie</td>
 <td align="center">
-<br/>Altiport.<br/>Les pilotes non titulaires de la qualification  montagne  devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Altiport.<br/>Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -372,7 +372,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Isère</td>
 <td align="center">
-<br/>Altiport.<br/>Les pilotes non titulaires de la qualification  montagne  devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.<br/>Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Altiport.<br/>Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.<br/>Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -470,7 +470,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>
 </td>
 <td align="center">
-<br/>- ou être titulaire de la qualification  montagne avion  ;<br/>- ou avoir utilisé l'aérodrome comme pilote aux commandes au cours des vingt-quatre derniers mois.</td>
+<br/>- ou être titulaire de la qualification montagne avion ;<br/>- ou avoir utilisé l'aérodrome comme pilote aux commandes au cours des vingt-quatre derniers mois.</td>
 </tr>
 <tr>
 <td align="center">
@@ -490,7 +490,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>
 </td>
 <td align="center">
-<br/>- ou, pour l'utilisation d'un avion léger seulement, être titulaire de la qualification  montagne avion  ;<br/>- ou avoir utilisé l'aérodrome comme commandant de bord aux commandes au cours des douze derniers mois ;</td>
+<br/>- ou, pour l'utilisation d'un avion léger seulement, être titulaire de la qualification montagne avion ;<br/>- ou avoir utilisé l'aérodrome comme commandant de bord aux commandes au cours des douze derniers mois ;</td>
 </tr>
 <tr>
 <td align="center">
@@ -526,7 +526,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Drôme</td>
 <td align="center">
-<br/>Altiport.<br/>Les pilotes non titulaires de la qualification  montagne  devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Altiport.<br/>Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -642,7 +642,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Haute-Savoie</td>
 <td align="center">
-<br/>Altiport.<br/>Les pilotes non titulaires de la qualification  montagne  devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation Centre-Est.<br/>Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Altiport.<br/>Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation Centre-Est.<br/>Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -650,7 +650,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Savoie</td>
 <td align="center">
-<br/>Altiport.<br/>Les pilotes non titulaires de la qualification  montagne  devront se conformer aux conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Altiport.<br/>Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -810,7 +810,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 </tr>
 <tr>
 <td align="center">
-<br/>Riberac - Saint-Aulaye</td>
+<br/>Riberac - Tourette</td>
 <td align="center">
 <br/>Dordogne</td>
 <td align="center">
@@ -922,7 +922,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Savoie</td>
 <td align="center">
-<br/>Les pilotes non titulaires de la qualification  Montagne Roues  devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>Les pilotes non titulaires de la qualification Montagne Roues devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">

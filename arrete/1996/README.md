@@ -981,7 +981,6 @@
 - [Arrêté du 29 décembre 1995 (ECOS9510003A)](arrete-du-29-decembre-1995-ecos9510003a)
 - [Arrêté du 29 décembre 1995 (EQUA9501903A)](arrete-du-29-decembre-1995-equa9501903a)
 - [Arrêté du 29 décembre 1995 (EQUA9501904A)](arrete-du-29-decembre-1995-equa9501904a)
-- [Arrêté du 29 décembre 1995 (EQUX9601292A)](arrete-du-29-decembre-1995-equx9601292a)
 - [Arrêté du 29 décembre 1995 (INDB9501268A)](arrete-du-29-decembre-1995-indb9501268a)
 - [Arrêté du 29 décembre 1995 (INDB9600035A)](arrete-du-29-decembre-1995-indb9600035a)
 - [Arrêté du 29 décembre 1995 (INDB9600036A)](arrete-du-29-decembre-1995-indb9600036a)
