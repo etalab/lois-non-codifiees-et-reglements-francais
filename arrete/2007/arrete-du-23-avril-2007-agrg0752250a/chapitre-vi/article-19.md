@@ -1,7 +1,3 @@
 # Article 19
 
-Dès lors que les établissements agréés au titre de l'arrêté du 28 février 2000 ont adressé au directeur départemental des services vétérinaires de leur lieu d'implantation le formulaire prévu à cet effet par instruction du ministre en charge de l'agriculture, leurs agréments restent valables au titre de l'article 3 du présent arrêté.
-
-Ces établissements doivent mettre à jour leur dossier sur site conformément à l'annexe II du présent arrêté avant le 1er janvier 2008.
-
-De même, les autorisations délivrées au titre de l'arrêté du 18 juillet 2006 restent valables au titre du présent arrêté.
+Les établissements déjà enregistrés au titre du règlement (CE) n° 183/2005 susvisé, exerçant une ou plusieurs des activités listées au point 7 de la partie "PRODUCTION" de l'annexe II du règlement (CE) n° 183/2005 et dont l'activité ne nécessitait pas la délivrance d'un agrément avant l'entrée en vigueur du règlement (CE) n° 225/2012, pour autant qu'ils aient adressé une demande d'agrément au préfet du lieu d'implantation de leur activité, peuvent continuer à exercer leur activité dans l'attente de la délivrance de leur agrément conformément au chapitre II du présent arrêté. Ces établissements doivent en tout état de cause déposer leur dossier de demande d'agrément avant le 1er janvier 2013.

@@ -12,6 +12,6 @@ Le numéro d'identification est composé dans l'ordre :
 
 -du numéro de codification du département ;
 
--du numéro de codification de la commune, ou, pour Paris, Lyon et Marseille, de l'arrondissement ;
+- du numéro d'ordre à trois chiffres de l'établissement dans la commune, ou, pour Paris, Lyon et Marseille, dans l'arrondissement.
 
 -du numéro d'ordre de l'établissement dans la commune, ou, pour Paris, Lyon et Marseille, dans l'arrondissement.
