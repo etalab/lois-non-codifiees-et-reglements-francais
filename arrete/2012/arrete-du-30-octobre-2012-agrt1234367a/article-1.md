@@ -1,0 +1,3 @@
+# Article 1
+
+Afin de répondre à la situation de crise de la filière viticole, résultant de l'épisode de gel du mois de février 2012 en val de Loire, le directeur de l'Institut national de l'origine et de la qualité peut, à titre exceptionnel, modifier les conditions de production des appellations d'origine contrôlée « Orléans », « Orléans-Cléry » et « Cheverny » relatives aux règles de mode de conduite de la vigne, aux règles de proportion d'encépagement à l'exploitation, aux taux de manquants dans les vignes et aux règles d'assemblage des vins, figurant dans les cahiers des charges de ces appellations.
