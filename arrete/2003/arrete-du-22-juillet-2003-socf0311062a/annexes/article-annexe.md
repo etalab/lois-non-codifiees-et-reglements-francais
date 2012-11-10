@@ -4,99 +4,97 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien(ne) d'assistance en informatique.
+Titre professionnel " Technicien (ne) d'assistance en informatique "
 
 Niveau : IV.
 
-Code NSF : 326 r.
+Code NSF : 326r-informatique, traitement de l'information, réseaux de transmission.
 
 Résumé du référentiel d'emploi
 
-Le technicien d'assistance en informatique installe et dépanne des matériels informatiques et des logiciels. Il assiste les utilisateurs ou les clients pour assurer la continuité du service rendu par les outils informatiques et bureautiques. Il peut intervenir sur le site même ou à distance (le plus souvent par téléphone), et doit respecter des procédures et des contrats de services.
+Le (la) technicien (ne) d'assistance en informatique assiste et dépanne les utilisateurs d'équipements informatiques et numériques en entreprise ou les particuliers.
 
-Capacités attestées et descriptif
+Il (elle) installe, met en service, diagnostique les dysfonctionnements et dépanne des équipements informatiques fixes ou mobiles (PC, périphériques et logiciels) et numériques (voix, images et données).
 
-des composantes de la certification
+Il (elle) assiste les utilisateurs et les clients, afin de résoudre leurs incidents et de les aider à utiliser au mieux les outils bureautiques, informatiques, téléphoniques et les services réseau.
 
-1. Intervenir sur poste de travail informatique
+Il (elle) installe, met en service, diagnostique les dysfonctionnements et dépanne les accès et services réseau.
 
-et auprès d'un utilisateur
+Le (la) technicien (ne) d'assistance en informatique exerce son activité auprès de clients internes dans une entreprise utilisatrice de l'informatique ou de clients externes dans une société de services informatiques (SSII), une structure commerciale grand public ou en indépendant.
 
-Appliquer les normes de sécurité et d'assurance qualité en assistance informatique.
+Il (elle) peut donc intervenir soit sur site, dans des entreprises de tous secteurs d'activité, y compris à domicile auprès des particuliers, soit à distance au sein d'un centre de services, en communicant par téléphone et en prenant le contrôle des équipements informatiques.
 
-Planifier et gérer les interventions en assistance informatique.
+Sa responsabilité au sein d'un centre de services est délimitée par des consignes et des procédures établies en fonction des contrats de services. Dans le cadre d'interventions sur site, il (elle) travaille de façon autonome dans le respect de la commande et du contexte d'intervention, en rendant compte de façon formalisée de ses interventions, auprès du client et de son responsable.
 
-Rechercher des informations techniques et des outils.
+Certains postes peuvent comporter de nombreux déplacements et nécessiter un permis de conduire et d'autres, comme les technicien (ne) s en centre de services, sont sédentaires.
 
-Assembler un équipement micro-informatique.
+Capacités attestées et descriptif des composantes
 
-Installer ou échanger un sous-ensemble matériel micro-informatique.
+de la certification
 
-Installer et configurer le logiciel d'un poste de travail informatique.
+1. Intervenir et assister sur poste informatique
 
-Diagnostiquer un dysfonctionnement matériel ou logiciel en micro-informatique.
+auprès des entreprises et des particuliers
 
-Assurer les évolutions et la continuité de service d'un poste de travail informatique.
+Assister les utilisateurs de bureautique :
 
-Sécuriser un poste de travail informatique et ses données.
+Préparer ou remettre en état un équipement informatique.
 
-Raccorder un poste de travail à un réseau informatique.
+Installer, déployer, configurer et mettre à jour un poste de travail informatique.
 
-Assister les utilisateurs bureautiques.
+Diagnostiquer et résoudre le dysfonctionnement d'un équipement informatique.
 
-2. Intervenir en environnement
+Sécuriser un équipement informatique et ses données.
 
-de réseau informatique d'entreprise
+2. Assister en centre de services informatiques
 
-Prendre en compte les composants d'une architecture de réseau informatique.
+et numériques auprès des entreprises et des particuliers
 
-Mettre en oeuvre une infrastructure de réseau informatique.
+Apporter un support technique dans un contexte commercial.
 
-Mettre en oeuvre un service d'administration de réseau.
+Assister les utilisateurs d'informatique mobile.
 
-Déployer les postes clients d'un réseau d'entreprise.
+Traiter un incident dans un centre de services et participer au suivi du parc.
 
-Administrer un serveur de réseau informatique.
+3. Intervenir et assister sur les accès et services
 
-S'approprier un nouvel environnement de serveur de réseau informatique.
+de réseaux numériques auprès des entreprises et des particuliers
 
-Accéder aux services intranet/internet.
+Intervenir sur une infrastructure réseau.
 
-Diagnostiquer un dysfonctionnement du réseau informatique, sécuriser un réseau d'entreprise et les données.
+Installer et configurer un service réseau.
 
-Assister les utilisateurs d'un réseau d'entreprise.
+Intervenir sur un annuaire réseau et son environnement.
 
-3. Intervenir à distance
+Déployer des applications et personnaliser les postes client.
 
-et au premier niveau en informatique
+Mettre en œuvre un accès haut débit et la téléphonie sur IP.
 
-Communiquer au téléphone en assistance informatique.
+Diagnostiquer et résoudre un dysfonctionnement d'accès à un réseau.
 
-Traiter un appel dans une organisation d'assistance informatique.
+Secteur d'activité ou types d'emploi
 
-Résoudre un problème à distance en assistance informatique.
+accessibles par le détenteur du titre
 
-Faciliter la fourniture d'équipements et de services en assistance informatique.
+Tous les secteurs d'activités sont concernés.
 
-Suivre un parc informatique.
+Les types d'emplois accessibles sont les suivants :
 
-Utiliser l'anglais dans son activité professionnelle en informatique.
+-technicien (ne) d'assistance en informatique (ou help desk) ;
 
-Secteurs d'activités ou types d'emploi accessibles
+-technicien (ne) de maintenance en informatique ;
 
-par le détenteur du titre
+-technicien (ne) de déploiement ;
 
-Le technicien d'assistance en informatique exerce typiquement son métier dans l'un des trois contextes suivants :
+-technicien (ne) d'assistance en clientèle ;
 
-- dans une structure utilisatrice de petite ou moyenne importance (site décentralisé d'une grande entreprise, PME/PMI, collectivité territoriale) : il est alors rattaché à ce site de manière permanente ;
+-technicien (ne) de service après-vente (SAV) ;
 
-- dans une " société de services et d'ingénierie informatiques " (SSII) spécialisée sur l'installation et la maintenance d'équipements ;
-
-- dans une structure de distribution professionnelle ou grand public (distributeurs, grandes surfaces ou magasins spécialisés).
+-technicien (ne) poste de travail.
 
 Code ROME :
 
-52321 - Technicien de maintenance en informatique.
+I1401-Maintenance informatique et bureautique.
 
 Réglementation de l'activité :
 
@@ -106,10 +104,16 @@ Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant.
+
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2.
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 1er août 2013.
