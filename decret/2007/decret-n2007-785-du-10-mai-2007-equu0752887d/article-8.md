@@ -8,7 +8,7 @@ Les fonctions de directeur sont incompatibles avec celles de membre du conseil d
 
 Le directeur assiste de droit aux séances du conseil d'administration.
 
-Le directeur est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare et présente les orientations et le programme d'activité de l'établissement ainsi que l'état prévisionnel des recettes et dépenses. Il propose le règlement intérieur du conseil d'administration.
+Le directeur est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare et présente les orientations et le programme d'activité de l'établissement ainsi que       le budget . Il propose le règlement intérieur du conseil d'administration.
 
 Il présente chaque année au conseil d'administration le compte rendu d'exécution du programme d'activité.
 

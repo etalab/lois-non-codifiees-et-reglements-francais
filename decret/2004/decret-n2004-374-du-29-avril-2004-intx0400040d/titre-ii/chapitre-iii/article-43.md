@@ -14,7 +14,7 @@ Le préfet de département peut donner délégation de signature, notamment en m
 
 6° Pour les matières relevant de ses attributions, au directeur de cabinet ;
 
-7° Aux agents en fonction dans les préfectures, pour les matières relevant des attributions du ministre de l'intérieur, y compris les lettres d'observation valant recours gracieux formés auprès des collectivités territoriales ou de leurs établissements publics, pour les matières relevant des ministères qui ne disposent pas de services dans le département ainsi que pour la transformation en états exécutoires des ordres de recettes mentionnés à l'article 86 du décret du 29 décembre 1962 susvisé ;
+7° Aux agents en fonction dans les préfectures, pour les matières relevant des attributions du ministre de l'intérieur, y compris les lettres d'observation valant recours gracieux formés auprès des collectivités territoriales ou de leurs établissements publics, pour les matières relevant des ministères qui ne disposent pas de services dans le département ainsi que pour la transformation en états exécutoires des ordres de recettes mentionnés aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
 
 8° Pour les matières relevant de leurs propres attributions, aux responsables des délégations interservices ;
 

@@ -4,7 +4,7 @@ Le conseil d'administration peut déléguer certaines de ses attributions soit a
 
 Ne peuvent toutefois faire l'objet de délégation :
 
-1° L'adoption de l'état prévisionnel des recettes et des dépenses et de ses décisions modificatives, notamment portant sur l'évolution de la dette, les politiques salariales et les effectifs ;
+1° L'adoption         du budget  et de ses décisions modificatives, notamment portant sur l'évolution de la dette, les politiques salariales et les effectifs ;
 
 2° L'adoption du compte financier et l'affectation des résultats aux fins de vérification et de contrôle ;
 

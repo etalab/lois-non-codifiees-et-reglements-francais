@@ -6,7 +6,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 2° Il fixe le montant de la ressource fiscale spécifique autorisée par la loi ;
 
-3° Il approuve l'état prévisionnel des recettes et des dépenses ;
+3° Il approuve        le budget  ;
 
 4° Il autorise les emprunts ;
 

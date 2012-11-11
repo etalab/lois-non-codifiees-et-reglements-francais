@@ -4,7 +4,7 @@ Le conseil d'administration délibère sur :
 
 1° Les orientations ainsi que les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ;
 
-2° L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
+2°          Le budget  et ses modifications ;
 
 3° Le rapport annuel d'activités ;
 

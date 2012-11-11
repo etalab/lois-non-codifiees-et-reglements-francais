@@ -14,7 +14,7 @@ Il délibère notamment sur :
 
 5. Le rapport annuel d'activité ;
 
-6. L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
+6.          Le budget  et ses modifications ;
 
 7. Le bilan annuel, le compte de résultat et les propositions relatives à la fixation et à l'affectation des bénéfices et la constitution de réserves ;
 
@@ -42,6 +42,6 @@ Il délibère notamment sur :
 
 19. L'acceptation ou le refus des dons et legs.
 
-Le conseil d'administration peut, dans les limites qu'il détermine, déléguer à son président certaines de ses attributions mentionnées aux points 4, 11, 12, 13, 17, 18 et 19.
+Le conseil d'administration peut, dans les limites qu'il détermine, déléguer à son président certaines de ses attributions mentionnées aux points 4,11,12,13,17,18 et 19.
 
 Le président rend compte, lors de la séance la plus proche du conseil d'administration, des décisions prises dans le cadre de ces délégations.

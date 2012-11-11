@@ -1,6 +1,6 @@
 # Article 24
 
-L'école de danse est dotée d'un budget annexe à l'état des prévisions de recettes et de dépenses de l'établissement. Ce budget comprend :
+L'école de danse est dotée d'un budget annexe au budget  de l'établissement. Ce budget comprend :
 
 En recettes :
 

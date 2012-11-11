@@ -2,7 +2,7 @@
 
 Le conseil d'administration règle par ses délibérations les affaires de l'établissement ; à cet effet, notamment :
 
-1. Il vote l'état prévisionnel des recettes et des dépenses ;
+1. Il vote        le budget  ;
 
 2. Il autorise les emprunts ;
 
@@ -22,4 +22,4 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 10. Il fixe la domiciliation du siège de l'établissement public.
 
-Il peut déléguer certains de ses pouvoirs au directeur, à l'exception de ceux définis aux 1, 2, 4, 5, 9 et 10, ainsi que de l'autorisation de conclure les conventions mentionnées à l'article 3.
+Il peut déléguer certains de ses pouvoirs au directeur, à l'exception de ceux définis aux 1,2,4,5,9 et 10, ainsi que de l'autorisation de conclure les conventions mentionnées à l'article 3.

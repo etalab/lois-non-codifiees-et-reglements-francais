@@ -10,11 +10,11 @@ Il préside le conseil d'administration et dirige l'établissement. A ce titre :
 
 2° Il est responsable de l'exécution de la convention pluriannuelle d'objectifs et de moyens et, dans le respect de celle-ci, de la politique de l'établissement ;
 
-3° Il prépare l'état prévisionnel de recettes et de dépenses ;
+3° Il prépare        le budget  ;
 
-4°Il est ordonnateur des recettes et des dépenses de l'établissement. Il procède aux acquisitions, transferts et aliénations de valeurs. Les directeurs des bureaux locaux sont ordonnateurs secondaires. Ces ordonnateurs secondaires peuvent déléguer leur signature aux agents relevant de leur autorité ;
+4° Il est ordonnateur des recettes et des dépenses de l'établissement. Il procède aux acquisitions, transferts et aliénations de valeurs. Les directeurs des bureaux locaux sont ordonnateurs secondaires. Ces ordonnateurs secondaires peuvent déléguer leur signature aux agents relevant de leur autorité ;
 
-5° Il peut, dans l'intervalle des séances du conseil d'administration, prendre, en accord avec l'autorité chargée du contrôle économique et financier, des décisions modificatives du budget qui ne comportent ni augmentation du niveau des effectifs du personnel permanent ou du montant total des dépenses ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+5° Il peut, dans l'intervalle des séances du conseil d'administration, prendre, en accord avec le contrôleur budgétaire, des décisions modificatives du budget qui ne comportent ni augmentation du niveau des effectifs du personnel permanent ou du montant total des dépenses ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
 
 6° Il signe les contrats et conventions engageant l'établissement, à l'exception de ceux qui sont délégués au directeur général délégué en application du 11° de l'article 10 ;
 

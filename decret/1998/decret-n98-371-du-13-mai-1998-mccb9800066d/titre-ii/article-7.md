@@ -6,7 +6,7 @@ Le conseil d'administration délibère sur :
 
 2° Les questions générales relatives à la vie de l'école et à son organisation et le règlement intérieur ;
 
-3° L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
+3°          Le budget  et ses modifications ;
 
 4° Le compte financier et l'affectation des résultats de l'exercice ;
 

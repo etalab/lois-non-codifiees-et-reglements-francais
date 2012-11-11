@@ -6,7 +6,7 @@ A cet effet, notamment :
 
 1° Il définit la politique générale de l'établissement et il approuve le programme d'acquisition, de réhabilitation et de gestion des immeubles mentionnés au deuxième alinéa de l'article 191 de la loi du 13 décembre 2000 susvisée ;
 
-2° Il vote l'état prévisionnel des recettes et des dépenses de l'établissement public ;
+2° Il vote        le budget  de l'établissement public ;
 
 3° Il approuve le compte financier et se prononce sur l'affectation des résultats ;
 
@@ -16,7 +16,7 @@ A cet effet, notamment :
 
 6° Il définit les critères de priorité pour l'attribution des logements dont il vérifie l'application et veille à la transparence et à la régularité des attributions de logements effectuées à la suite des demandes faites auprès des bailleurs ;
 
-7° Il informe, une fois par an, le comité régional de l'habitat du Nord - Pas-de-Calais des politiques d'attribution des logements, du niveau des loyers pratiqués et de celui des ressources des bénéficiaires des logements, ainsi que des travaux ou des cessions de patrimoine prévus ou réalisés ;
+7° Il informe, une fois par an, le comité régional de l'habitat du Nord-Pas-de-Calais des politiques d'attribution des logements, du niveau des loyers pratiqués et de celui des ressources des bénéficiaires des logements, ainsi que des travaux ou des cessions de patrimoine prévus ou réalisés ;
 
 8° Il approuve, quand il y a lieu, les conventions passées avec d'autres personnes morales pour l'accomplissement des missions de l'établissement public ;
 

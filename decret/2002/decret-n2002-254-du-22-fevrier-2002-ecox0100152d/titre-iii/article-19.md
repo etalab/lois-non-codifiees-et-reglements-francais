@@ -1,6 +1,6 @@
 # Article 19
 
-I. - Les ressources de l'établissement comprennent :
+I.-Les ressources de l'établissement comprennent :
 
 a) Les dotations, subventions et autres versements de l'Etat et d'autres organismes publics ou privés, nationaux ou internationaux ;
 
@@ -16,7 +16,7 @@ f) Les dons et legs ;
 
 g) Les produits financiers et, d'une manière générale, toutes les recettes autorisées par les lois et règlements.
 
-II. - Les dépenses de l'établissement comprennent :
+II.-Les dépenses de l'établissement comprennent :
 
 a) Les frais de personnel de l'établissement ;
 
@@ -28,4 +28,4 @@ d) Les dépenses de toute nature liées aux immeubles dont l'établissement publ
 
 e) De façon générale, toutes dépenses nécessaires aux missions de l'établissement.
 
-L'état annuel des prévisions de recettes et de dépenses et les décisions modificatives font apparaître distinctement les ressources et les dépenses correspondant aux missions relevant du directeur général adjoint.
+Le budget  et les décisions modificatives font apparaître distinctement les ressources et les dépenses correspondant aux missions relevant du directeur général adjoint.

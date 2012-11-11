@@ -6,7 +6,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 2° Il fixe le montant de la ressource fiscale prévue à l'article 1607 ter du code général des impôts ;
 
-3° Il approuve l'état prévisionnel des recettes et des dépenses ;
+3° Il approuve        le budget  ;
 
 4° Il autorise les emprunts ;
 
@@ -24,4 +24,4 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 11° Il décide des acquisitions de participation mentionnées à l'article 4.
 
-Il peut déléguer ses pouvoirs au bureau, à l'exception de ceux définis aux 1°, 2, 3°, 4°, 5°, 8°, 9°, 10° et 11°.
+Il peut déléguer ses pouvoirs au bureau, à l'exception de ceux définis aux 1°, 2,3°, 4°, 5°, 8°, 9°, 10° et 11°.

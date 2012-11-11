@@ -6,7 +6,7 @@ Lorsque le directeur atteint, en cours de mandat, la limite d'âge fixée par la
 
 Il est responsable, dans le respect des clauses du cahier des charges, de la politique artistique de l'établissement, sous réserve des pouvoirs qu'il délègue au directeur délégué en application de l'article 12, ainsi que de l'organisation des services.
 
-Il prépare et exécute l'état des prévisions de recettes et de dépenses de l'établissement public et veille, en sa qualité d'ordonnateur des recettes et des dépenses, au respect de l'équilibre financier.
+Il prépare et exécute         le budget  de l'établissement public et veille, en sa qualité d'ordonnateur des recettes et des dépenses, au respect de l'équilibre financier.
 
 Il conclut les marchés et les contrats.
 

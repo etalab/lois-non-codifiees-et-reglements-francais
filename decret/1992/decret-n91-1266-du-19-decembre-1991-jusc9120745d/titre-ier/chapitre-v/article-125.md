@@ -8,7 +8,7 @@ Le titre de perception contient :
 
 3° La mention des textes applicables ;
 
-4° Le détail des bases de la liquidation au sens de l'article 81 du décret du 29 décembre 1962 susvisé ;
+4° Le détail des bases de la liquidation au sens de l'article 24 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
 
 5° Les délais et modalités de paiement et d'opposition.
 

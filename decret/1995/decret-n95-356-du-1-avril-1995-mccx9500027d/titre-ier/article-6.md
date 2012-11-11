@@ -14,7 +14,7 @@ Le comité d'administration :
 
 6° Approuve le règlement intérieur de l'établissement ;
 
-7° Approuve l'état prévisionnel de recettes et de dépenses, les décisions modificatives et le compte financier de l'établissement ainsi que les emprunts ;
+7° Approuve        le budget , les décisions modificatives et le compte financier de l'établissement ainsi que les emprunts ;
 
 8° Est consulté par l'administrateur général sur le prix des places ;
 

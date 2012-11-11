@@ -6,7 +6,7 @@ Le conseil d'administration délibère sur les objets suivants :
 
 2° Plan d'organisation et de fonctionnement du centre ; règlement intérieur du comité des programmes scientifiques ;
 
-3° Etat annuel des prévisions de recettes et dépenses et, s'il y a lieu, états rectificatifs en cours d'année ;
+3°       Budget  et, s'il y a lieu, états rectificatifs en cours d'année ;
 
 4° Approbation du rapport annuel d'activité ;
 

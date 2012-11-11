@@ -4,9 +4,9 @@ Le conseil d'administration délibère sur :
 
 1° Les orientations ainsi que les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ;
 
-2° Le contrat de performance  mentionné à l'article 15, conclu entre l'établissement et le ministre chargé de la culture ;
+2° Le contrat de performance mentionné à l'article 15, conclu entre l'établissement et le ministre chargé de la culture ;
 
-3° L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
+3°          Le budget  et ses modifications ;
 
 4° Le rapport annuel d'activité ;
 
@@ -16,7 +16,7 @@ Le conseil d'administration délibère sur :
 
 7° La programmation des manifestations artistiques ou culturelles, des activités de formation professionnelle ainsi que des expositions ;
 
-8° Les orientations générales de la politique d'acquisition des oeuvres et objets destinés à prendre place dans ses collections  ;
+8° Les orientations générales de la politique d'acquisition des oeuvres et objets destinés à prendre place dans ses collections ;
 
 9° Les conventions conclues en application des dispositions prévues au 3° de l'article 3 ;
 

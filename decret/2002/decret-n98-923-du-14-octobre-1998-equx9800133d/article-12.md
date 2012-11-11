@@ -8,7 +8,7 @@ A cet effet, notamment :
 
 2° Il fixe le montant de la taxe spéciale d'équipement prévue par le code général des impôts ;
 
-3° Il approuve l'état prévisionnel des recettes et des dépenses ;
+3° Il approuve        le budget  ;
 
 4° Il autorise les emprunts ;
 

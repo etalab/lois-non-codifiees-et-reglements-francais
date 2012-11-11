@@ -12,7 +12,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 5° La programmation des spectacles qui doit lui être présentée un an au moins avant le début de la saison en cours, assortie d'une évaluation précise des dépenses engagées et des recettes attendues pour chaque production ;
 
-6° L'état prévisionnel annuel de recettes et de dépenses et les décisions modificatives ;
+6°         Le budget  et les décisions modificatives ;
 
 7° Le compte financier et l'affectation des résultats de l'exercice ;
 

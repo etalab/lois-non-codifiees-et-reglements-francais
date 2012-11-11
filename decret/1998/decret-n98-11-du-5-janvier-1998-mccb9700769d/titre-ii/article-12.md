@@ -4,7 +4,7 @@ Le directeur général :
 
 1° Prépare le programme d'activités et en assure le bon déroulement ;
 
-2° Prépare l'état des prévisions de recettes et de dépenses de l'établissement public ainsi que les décisions modificatives et veille à leur exécution ;
+2° Prépare         le budget  de l'établissement public ainsi que les décisions modificatives et veille à leur exécution ;
 
 3° Prépare les délibérations du conseil d'administration et en assure l'exécution ;
 

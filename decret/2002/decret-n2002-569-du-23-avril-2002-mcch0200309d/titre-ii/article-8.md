@@ -10,7 +10,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 4° Le règlement intérieur ;
 
-5° L'état prévisionnel de recettes et de dépenses et ses modifications ;
+5°        le budget  et ses modifications ;
 
 6° La part des recettes de taxe sur les spectacles de variétés inscrite sur les comptes nominatifs visés à l'article 1er ;
 

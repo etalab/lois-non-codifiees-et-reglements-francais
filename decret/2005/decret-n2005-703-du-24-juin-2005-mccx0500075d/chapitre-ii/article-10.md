@@ -10,7 +10,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 4° Le rapport annuel d'activité et le bilan social ;
 
-5° L'état annuel des prévisions de recettes et de dépenses et les décisions modificatives ;
+5°          Le budget  et les décisions modificatives ;
 
 6° Le compte financier et l'affectation des résultats de l'exercice ;
 

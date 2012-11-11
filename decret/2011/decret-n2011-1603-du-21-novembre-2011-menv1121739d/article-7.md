@@ -2,7 +2,7 @@
 
 Le conseil de gestion décide des dépenses d'intervention et des dépenses de fonctionnement du fonds. Chaque année, sur proposition du président, il adopte :
 
-― pour l'exercice à venir, l'état prévisionnel des recettes et des dépenses afférentes aux obligations de toute nature incombant au fonds ;
+― pour l'exercice à venir,        le budget  afférentes aux obligations de toute nature incombant au fonds ;
 
 ― le bilan et le compte de résultat concernant l'exercice écoulé.
 

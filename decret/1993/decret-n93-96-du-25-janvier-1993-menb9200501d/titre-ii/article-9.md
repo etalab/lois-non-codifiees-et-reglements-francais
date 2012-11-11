@@ -10,7 +10,7 @@ Le conseil d'administration délibère sur :
 
 4° La politique tarifaire de l'établissement ;
 
-5° L'état annuel des prévisions de recettes et de dépenses ;
+5°          Le budget  ;
 
 6° Le compte financier et l'affectation des résultats de l'exercice ;
 

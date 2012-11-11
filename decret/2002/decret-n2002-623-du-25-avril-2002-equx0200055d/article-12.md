@@ -2,7 +2,7 @@
 
 Le conseil d'administration règle par ses délibérations les affaires de l'établissement ; à cet effet, notamment :
 
-1° Il vote l'état prévisionnel des recettes et des dépenses, autorise les emprunts et approuve les comptes ;
+1° Il vote        le budget , autorise les emprunts et approuve les comptes ;
 
 2° Il décide des éventuelles créations de filiales, prises, extensions ou cessions de participations financières ;
 

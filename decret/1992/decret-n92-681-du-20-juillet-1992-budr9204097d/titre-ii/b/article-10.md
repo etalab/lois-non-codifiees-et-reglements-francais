@@ -4,7 +4,7 @@ Sauf dérogation accordée par le ministre du budget, peuvent être payés par l
 
 1. Les dépenses de matériel et de fonctionnement, dans la limite d'un montant fixé par arrêté du ministre du budget ;
 
-2. La rémunération des personnels payés sur une base horaire ou à la vacation, y compris les charges sociales y afférentes, dès lors que ces rémunérations n'entrent pas dans le champ d'application du décret n° 65-845 du 4 octobre 1965, visé ci-dessus ;
+2. La rémunération des personnels payés sur une base horaire ou à la vacation, y compris les charges sociales y afférentes, dès lors que ces rémunérations n'entrent pas dans le champ d'application du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique  ;
 
 3. Les secours urgents et exceptionnels ;
 

@@ -1,6 +1,6 @@
 # Article 13
 
-Le directeur est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. Il assiste aux séances du conseil d'administration, dont il prépare et exécute les décisions. En particulier, il prépare et présente les orientations et le programme d'activité de l'établissement et l'état prévisionnel des recettes et des dépenses. Il propose le règlement intérieur du conseil d'administration.
+Le directeur est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. Il assiste aux séances du conseil d'administration, dont il prépare et exécute les décisions. En particulier, il prépare et présente les orientations et le programme d'activité de l'établissement et        le budget . Il propose le règlement intérieur du conseil d'administration.
 
 Il présente chaque année au conseil d'administration le compte rendu d'exécution du programme d'activité.
 

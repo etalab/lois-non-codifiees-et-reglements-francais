@@ -6,7 +6,7 @@ Les fonctions de directeur général sont incompatibles avec celles de membre du
 
 Le directeur général assiste de droit aux séances du conseil d'administration.
 
-Le directeur général est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare et présente le document stratégique de référence, les programmes pluriannuels et annuels d'intervention de l'établissement ainsi que l'état prévisionnel des recettes et dépenses. Il propose le règlement intérieur du conseil d'administration.
+Le directeur général est chargé de l'instruction des affaires qui sont de la compétence de l'établissement. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare et présente le document stratégique de référence, les programmes pluriannuels et annuels d'intervention de l'établissement ainsi que       le budget . Il propose le règlement intérieur du conseil d'administration.
 
 Il présente chaque année au conseil d'administration le compte rendu d'exécution des programmes d'intervention.
 

@@ -4,4 +4,4 @@ Si le régisseur n'a pas acquitté la somme réclamée et s'il n'a pas sollicit�
 
 L'arrêté de débet est émis par l'autorité compétente pour mettre en débet le comptable assignataire.
 
-Toutes les dispositions du décret du 29 décembre 1962 susvisé et des textes subséquents relatives aux arrêtés de débet pris à l'encontre des comptables de l'Etat sont applicables aux arrêtés de débet pris contre les régisseurs des organismes publics.
+Toutes les dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique susvisé et des textes subséquents relatives aux arrêtés de débet pris à l'encontre des comptables de l'Etat sont applicables aux arrêtés de débet pris contre les régisseurs des organismes publics.

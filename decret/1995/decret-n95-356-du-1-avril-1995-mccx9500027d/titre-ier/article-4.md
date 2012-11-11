@@ -4,7 +4,7 @@ Sous l'autorité de l'administrateur général, le directeur général des servi
 
 1° Dirige l'ensemble des services techniques, administratifs, financiers et commerciaux du théâtre ;
 
-2° Prépare l'état annuel des prévisions de recettes et de dépenses de l'établissement et en suit l'exécution ; à cet effet, il est informé de l'ensemble des décisions d'engagement de dépenses ; en cours d'exercice, il rend compte au comité d'administration de l'exécution de cet état et propose, le cas échéant, les mesures nécessaires au rétablissement de son équilibre ;
+2° Prépare          le budget  de l'établissement et en suit l'exécution ; à cet effet, il est informé de l'ensemble des décisions d'engagement de dépenses ; en cours d'exercice, il rend compte au comité d'administration de l'exécution de cet état et propose, le cas échéant, les mesures nécessaires au rétablissement de son équilibre ;
 
 3° Négocie les conventions collectives et les accords avec les représentants des personnels ;
 

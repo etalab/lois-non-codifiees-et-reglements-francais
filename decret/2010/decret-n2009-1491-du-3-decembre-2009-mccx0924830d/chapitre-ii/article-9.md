@@ -6,7 +6,7 @@ Le conseil d'administration règle, par ses délibérations, les affaires de l'�
 
 2° Les orientations générales et la politique scientifique et culturelle de l'établissement qui comprend notamment le projet scientifique et culturel, le contrat entre l'Etat et l'établissement fixant les objectifs de performance au regard des missions assignées et des moyens dont il dispose, ainsi que la programmation des activités ;
 
-3° L'état prévisionnel des recettes et des dépenses et ses modifications ;
+3°        Le budget  et ses modifications ;
 
 4° Le compte financier et l'affectation des résultats de l'exercice ;
 

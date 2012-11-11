@@ -6,7 +6,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'age
 
 2° L'organisation et le fonctionnement des services de l'agence ;
 
-3° L'état annuel des prévisions de recettes et de dépenses et ses modifications éventuelles ;
+3°          Le budget  et ses modifications éventuelles ;
 
 4° Le compte financier ;
 

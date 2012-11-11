@@ -6,7 +6,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 2° Il fixe annuellement le montant de la taxe spéciale d'équipement qui est perçue sur les territoires visés à l'article 2. La première instauration de la taxe spéciale d'équipement doit faire l'objet d'une consultation positive préalable des établissements publics de coopération intercommunale compétents en matière d'aménagement de l'espace communautaire, d'équilibre social de l'habitat, et de développement économique, et des communes non membres de ces établissements ;
 
-3° Il approuve l'état prévisionnel des recettes et des dépenses ;
+3° Il approuve        le budget  ;
 
 4° Il autorise les emprunts ;
 

@@ -8,9 +8,9 @@ Les contrats de travail de droit privé en cours à la date d'effet de la dissol
 
 III. ― Un administrateur provisoire, nommé par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la culture, exerce les compétences attribuées au président du conseil d'administration par l'article 12 jusqu'à la désignation de celui-ci dans les conditions prévues par cet article. Il exerce également les compétences du conseil d'administration, pour les actes relatifs à la création de l'établissement et à la gestion courante, jusqu'à la première réunion du conseil d'administration.
 
-Par dérogation à l'article 10, l'état prévisionnel de recettes et de dépenses relatif au premier exercice commençant le 1er janvier 2011 peut être arrêté, sur proposition de l'administrateur provisoire, par le ministre de tutelle. Ce budget peut être modifié par le conseil d'administration dès sa première réunion.
+Par dérogation à l'article 10,        le budget  relatif au premier exercice commençant le 1er janvier 2011 peut être arrêté, sur proposition de l'administrateur provisoire, par le ministre de tutelle. Ce budget peut être modifié par le conseil d'administration dès sa première réunion.
 
-Jusqu'à la nomination de l'autorité chargée du contrôle économique et financier auprès de l'établissement public, les fonctions de contrôleur économique et financier sont exercées par le contrôleur budgétaire et comptable du ministère des affaires étrangères.
+Jusqu'à la nomination du contrôleur budgétaire auprès de l'établissement public, les fonctions de contrôleur économique et financier sont exercées par le contrôleur budgétaire et comptable du ministère des affaires étrangères.
 
 IV. ― L'élection des représentants du personnel au conseil d'administration de l'établissement public a lieu, au plus tard, six mois après la date d'effet de la dissolution de l'association Cultures France. Dans ce délai, tant qu'il n'a pas été procédé à l'élection desdits représentants, le conseil d'administration peut valablement siéger en présence des seuls autres membres mentionnés à l'article 6.
 

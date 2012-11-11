@@ -8,7 +8,7 @@ Le conseil d'administration délibère sur les objets suivants :
 
 3° Programme des activités et des investissements de l'agence ;
 
-4° Etat annuel des prévisions de recettes et de dépenses ; en cas de modification à intervenir en cours d'exercice, sont seules soumises au conseil d'administration les modifications à l'état des prévisions qui comportent soit une augmentation du montant des dépenses à caractère limitatif, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ;
+4°        Budget  ; en cas de modification à intervenir en cours d'exercice, sont seules soumises au conseil d'administration les modifications à l'état des prévisions qui comportent soit une augmentation du montant des dépenses à caractère limitatif, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ;
 
 5° Répartition des aides par procédure, et enveloppes indicatives des aides gérées par chaque délégation territoriale ;
 

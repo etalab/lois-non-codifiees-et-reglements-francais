@@ -12,11 +12,11 @@ Il est responsable de la politique scientifique, culturelle, forestière, cynég
 
 4° Il est ordonnateur des recettes et des dépenses ;
 
-5° Il prépare et exécute l'état prévisionnel des recettes et des dépenses de l'établissement et veille au respect de l'équilibre financier ;
+5° Il prépare et exécute le budget de l'établissement et veille au respect de l'équilibre financier ;
 
 6° Il peut créer des régies d'avances et des régies de recettes sur avis conforme de l'agent comptable, dans les conditions prévues par le décret du 20 juillet 1992 susvisé ;
 
-7° Il peut, dans l'intervalle des séances du conseil d'administration, après avis du contrôleur d'Etat, prendre des décisions modificatives de l'état prévisionnel des recettes et des dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses ni réduction du montant total des recettes ni virements de crédits entre les chapitres de personnel et les chapitres de matériel. Ces décisions doivent être ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+7° Il peut, dans l'intervalle des séances du conseil d'administration, après avis du contrôleur d'Etat, prendre des décisions modificatives         du budget  qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses ni réduction du montant total des recettes ni virements de crédits entre les chapitres de personnel et les chapitres de matériel. Ces décisions doivent être ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
 
 8° Il fixe le prix des droits d'entrée, des prestations et services rendus ;
 

@@ -10,7 +10,7 @@ c) Les programmes d'activités de l'établissement ;
 
 d) Le rapport annuel d'activité ;
 
-e) L'état annuel des prévisions de recettes et de dépenses et les décisions modificatives ;
+e)          Le budget  et les décisions modificatives ;
 
 f) Les comptes de chaque exercice et l'affectation des résultats ;
 

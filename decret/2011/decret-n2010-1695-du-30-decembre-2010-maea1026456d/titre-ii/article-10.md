@@ -8,7 +8,7 @@ Le conseil d'administration règle, par ses délibérations, les affaires de l'�
 
 3° Les programmes généraux d'activité et d'investissement, les programmes de contribution aux recherches et les subventions ;
 
-4° L'état prévisionnel de recettes et de dépenses et ses modifications ;
+4°        le budget  et ses modifications ;
 
 5° Le compte financier et l'affectation des résultats de l'exercice ;
 

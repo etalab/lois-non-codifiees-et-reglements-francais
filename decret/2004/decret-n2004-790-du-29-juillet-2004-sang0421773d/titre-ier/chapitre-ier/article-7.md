@@ -6,7 +6,7 @@ Le conseil d'administration fixe les orientations générales de la politique de
 
 2° Le règlement intérieur de l'établissement ;
 
-3° L'état prévisionnel des recettes et des dépenses, les décisions modificatives, le compte financier et l'affectation des résultats ;
+3°        Le budget , les décisions modificatives, le compte financier et l'affectation des résultats ;
 
 4° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
 

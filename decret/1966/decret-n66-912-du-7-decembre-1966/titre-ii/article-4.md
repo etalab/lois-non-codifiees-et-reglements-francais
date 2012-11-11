@@ -1,19 +1,5 @@
 # Article 4
 
-Dans les pays étrangers, dont la liste est arrêtée conjointement
-par le ministre de l'économie et des finances et par le ministre des
-affaires étrangères, des payeurs généraux et des payeurs auprès des
-ambassades de France sont chargés, sur le territoire de ces pays,
-d'encaisser les recettes publiques et de payer les dépenses publiques,
-sans ordonnancement ou assignées sur leur caisse par les ordonnateurs
-secondaires de l'Etat, d'exécuter les opérations de trésorerie et
-d'effectuer les recettes et dépenses qui leur sont confiées par les
-autres comptables publics et par les correspondants du Trésor.
+Dans les pays étrangers, dont la liste est arrêtée conjointement par le ministre chargé du budget  et par le ministre des affaires étrangères, des payeurs généraux et des payeurs auprès des ambassades de France sont chargés, sur le territoire de ces pays, d'encaisser les recettes publiques et de payer les dépenses publiques, sans ordonnancement ou assignées sur leur caisse par les ordonnateurs secondaires de l'Etat, d'exécuter les opérations de trésorerie et d'effectuer les recettes et dépenses qui leur sont confiées par les autres comptables publics et par les correspondants du Trésor.
 
-Ils exécutent eux-même ces opérations ou les font exécuter, sous
-leur contrôle, par les comptables secondaires visés aux articles 6
-et 7 ci-après, par les régisseurs de recettes et d'avances auprès
-des postes diplomatiques et consulaires visés à l'article 8 ci-après
-et, le cas échéant, par les comptables publics des Etats étrangers,
-dans le cadre des conventions sur les Trésors et sur le recouvrement
-conclues entre la France et ces Etats.
+Ils exécutent eux-même ces opérations ou les font exécuter, sous leur contrôle, par les comptables secondaires visés aux articles 6 et 7 ci-après, par les régisseurs de recettes et d'avances auprès des postes diplomatiques et consulaires visés à l'article 8 ci-après et, le cas échéant, par les comptables publics des Etats étrangers, dans le cadre des conventions sur les Trésors et sur le recouvrement conclues entre la France et ces Etats.
