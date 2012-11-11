@@ -793,7 +793,6 @@
 - [Décret n°97-684 du 30 mai 1997 (MIPP9700102D)](decret-n97-684-du-30-mai-1997-mipp9700102d)
 - [Décret n°97-686 du 30 mai 1997 (AGRG9700518D)](decret-n97-686-du-30-mai-1997-agrg9700518d)
 - [Décret n°97-774 du 31 juillet 1997 (ECOT9700017D)](decret-n97-774-du-31-juillet-1997-ecot9700017d)
-- [Décret n°97-775 du 31 juillet 1997 (ECOR9704314D)](decret-n97-775-du-31-juillet-1997-ecor9704314d)
 - [Décret n°97-777 du 31 juillet 1997 (INTA9700184D)](decret-n97-777-du-31-juillet-1997-inta9700184d)
 - [Décret n°97-780 du 31 juillet 1997 (INTB9700187D)](decret-n97-780-du-31-juillet-1997-intb9700187d)
 - [Décret n°97-781 du 31 juillet 1997 (INTB9700188D)](decret-n97-781-du-31-juillet-1997-intb9700188d)

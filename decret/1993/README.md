@@ -830,7 +830,6 @@
 - [Décret n°95-231 du 28 février 1995 (AGRA9500117D)](decret-n95-231-du-28-fevrier-1995-agra9500117d)
 - [Décret n°95-232 du 28 février 1995 (AGRA9500113D)](decret-n95-232-du-28-fevrier-1995-agra9500113d)
 - [Décret n°93-828 du 28 mai 1993 (MEND9305030D)](decret-n93-828-du-28-mai-1993-mend9305030d)
-- [Décret n°92-1370 du 29 décembre 1992 (BUDR9204121D)](decret-n92-1370-du-29-decembre-1992-budr9204121d)
 - [Décret n°92-1372 du 29 décembre 1992 (SPSS9203226D)](decret-n92-1372-du-29-decembre-1992-spss9203226d)
 - [Décret n°92-765 du 29 juillet 1992 (TEFT9205049D)](decret-n92-765-du-29-juillet-1992-teft9205049d)
 - [Décret n°92-766 du 29 juillet 1992 (TEFT9205050D)](decret-n92-766-du-29-juillet-1992-teft9205050d)
