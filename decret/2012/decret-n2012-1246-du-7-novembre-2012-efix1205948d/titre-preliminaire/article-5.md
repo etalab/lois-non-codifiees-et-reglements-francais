@@ -1,0 +1,3 @@
+# Article 5
+
+Par dérogation au 4° de l'article 1er et au premier alinéa de l'article 3, les dispositions du présent décret ne s'appliquent pas à l'Institut de France et aux académies qui le composent, à l'Académie d'agriculture de France, à l'Académie de chirurgie, à l'Académie de médecine, à l'Académie de pharmacie, à l'Académie vétérinaire de France, aux autorités publiques indépendantes, aux chambres des métiers et de l'artisanat, aux chambres de commerce et d'industrie, à l'Institut national de l'audiovisuel, à La Monnaie de Paris et à la Caisse nationale de retraite des agents des collectivités locales.

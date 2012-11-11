@@ -1,0 +1,3 @@
+# Article 291
+
+Par dérogation aux dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et à celles du premier alinéa de l'article 289 du présent décret, le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et les 4° à 7° de l'article 31, des 4° à 7° de l'article 34 et de l'article 105 du présent décret s'appliquent à l'Institut national de l'environnement et des risques industriels, à la Cité de l'architecture et du patrimoine et au Centre de coopération internationale en recherche agronomique pour le développement à compter du 1er janvier 2014.

@@ -1,0 +1,8 @@
+# Décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique
+
+- [TITRE PRÉLIMINAIRE  LE CHAMP D'APPLICATION](titre-preliminaire)
+- [TITRE Ier : LES PRINCIPES FONDAMENTAUX](titre-ier)
+- [TITRE II : LA GESTION BUDGÉTAIRE ET COMPTABLE DE L'ÉTAT](titre-ii)
+- [TITRE III : LA GESTION BUDGÉTAIRE ET COMPTABLE  DES ORGANISMES MENTIONNÉS À L'ARTICLE 3](titre-iii)
+- [TITRE IV : DISPOSITIONS TRANSITOIRES](titre-iv)
+- [TITRE V : DISPOSITIONS FINALES](titre-v)
