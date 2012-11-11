@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [PREMIÈRE PARTIE : PRINCIPES FONDAMENTAUX.](premiere-partie)
-- [DEUXIÈME PARTIE : ETAT](deuxieme-partie)
 - [Article 229](article-229.md)
 - [TROISIÈME PARTIE : ÉTABLISSEMENTS PUBLICS NATIONAUX.](troisieme-partie)
 - [DISPOSITIONS FINALES.](dispositions-finales)

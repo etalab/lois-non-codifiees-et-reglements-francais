@@ -1,6 +1,0 @@
-# DEUXIÈME PARTIE : ETAT
-
-- [TITRE Ier : ORDONNATEURS ET COMPTABLES](titre-ier)
-- [TITRE II : OPÉRATIONS](titre-ii)
-- [TITRE III : COMPTABILITÉ.](titre-iii)
-- [TITRE IV : CONTRÔLE](titre-iv)

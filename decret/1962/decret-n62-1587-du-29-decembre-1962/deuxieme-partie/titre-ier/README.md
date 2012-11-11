@@ -1,4 +1,0 @@
-# TITRE Ier : ORDONNATEURS ET COMPTABLES
-
-- [CHAPITRE Ier : ORDONNATEURS.](chapitre-ier)
-- [CHAPITRE II : COMPTABLES.](chapitre-ii)
