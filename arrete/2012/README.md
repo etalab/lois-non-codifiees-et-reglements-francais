@@ -426,6 +426,7 @@
 - [Arrêté du 6 mars 2012 (ETSH1206982A)](arrete-du-6-mars-2012-etsh1206982a)
 - [Arrêté du 6 mars 2012 (ETSS1206851A)](arrete-du-6-mars-2012-etss1206851a)
 - [Arrêté du 6 mars 2012 (IOCC1135167A)](arrete-du-6-mars-2012-iocc1135167a)
+- [Arrêté du 6 novembre 2012 (INTE1238807A)](arrete-du-6-novembre-2012-inte1238807a)
 - [Arrêté du 6 septembre 2012 (EFIT1232347A)](arrete-du-6-septembre-2012-efit1232347a)
 - [Arrêté du 6 septembre 2012 (MENE1233917A)](arrete-du-6-septembre-2012-mene1233917a)
 - [Arrêté du 6 septembre 2012 (MENE1233925A)](arrete-du-6-septembre-2012-mene1233925a)
