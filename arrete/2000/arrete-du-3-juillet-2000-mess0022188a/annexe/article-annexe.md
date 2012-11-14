@@ -1096,6 +1096,8 @@ Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Pro
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
 
+ORGANICO PECHINEY, puis AQUITAINE ORGANICO, puis AQUITAINE TOTAL ORGANICO, puis ATO CHIMIE, puis ATOCHEM, puis ELF ATOCHEM, Usine de Saint-Menet, 123, boulevard de la Millière, 13011 Marseille : de 1956 à 1996 ;
+
 Peinture Marius Dufour, 58-90, boulevard Fifi-Turin, BP 96, 13395 Marseille Cedex : de 1972 à 1994 ;
 
 Perez Tuyauterie chaudronnerie industrielle et maritime, 18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille : de 1980 à 1989 ;
