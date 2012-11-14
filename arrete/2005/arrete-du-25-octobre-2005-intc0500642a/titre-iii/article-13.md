@@ -1,3 +1,5 @@
 # Article 13
 
-La nomination des lauréats en tant qu'élèves officiers de la police nationale est subordonnée à l'obtention de l'agrément du ministre de l'intérieur et de l'aménagement du territoire et à la reconnaissance de leur aptitude physique par un médecin de la police nationale.
+Les candidats à l'emploi d'officier de la police nationale doivent répondre aux critères d'aptitude physique définis par arrêté du ministre de l'intérieur et de l'aménagement du territoire et du ministre chargé de la fonction publique.
+
+Ils doivent se soumettre aux examens et tests médicaux qui leur sont prescrits en vue d'établir qu'ils remplissent les conditions d'aptitude physique requises.

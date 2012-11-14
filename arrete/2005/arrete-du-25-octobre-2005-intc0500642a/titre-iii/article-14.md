@@ -1,3 +1,3 @@
 # Article 14
 
-Est abrogé l'arrêté du 18 octobre 1995 modifié fixant les modalités d'organisation et le programme des concours pour le recrutement des lieutenants de police de la police nationale ainsi que ses annexes fixant le programme des épreuves.
+La nomination des lauréats en tant qu'élèves officiers de la police nationale est subordonnée à l'obtention de l'agrément du ministre de l'intérieur et de l'aménagement du territoire et à la reconnaissance de leur aptitude physique par un médecin de la police nationale.

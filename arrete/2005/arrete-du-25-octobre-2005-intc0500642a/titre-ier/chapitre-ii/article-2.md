@@ -2,6 +2,8 @@
 
 Le concours interne d'officier de la police nationale, prévu au III de l'article 6 du décret du 29 juin 2005 susvisé, comporte des épreuves d'admissibilité et d'admission.
 
+En outre, les candidats passent des tests psychotechniques destinés à évaluer leur profil psychologique et leur capacité à travailler en groupe (durée : deux heures trente). Ces tests ont lieu à l'admissibilité ou à l'admission. Les résultats de ces tests sont utilisés à l'admission.
+
 1. Admissibilité
 
 Le principe de l'anonymat est garanti lors du passage des épreuves.
@@ -18,15 +20,13 @@ Les épreuves écrites font l'objet d'une double correction, à l'exception du q
 
 Les candidats doivent se présenter à l'ensemble des épreuves.
 
-A l'admissibilité, les candidats passent en outre des tests psychotechniques destinés à évaluer leur profil psychologique et leur capacité à travailler en groupe (durée : deux heures trente). Les résultats de ces tests sont utilisés à l'admission.
-
 2. Admission
 
 a) Elle comporte des épreuves obligatoires :
 
 Un entretien d'évaluation permettant d'apprécier les qualités de réflexion et les connaissances du candidat ainsi que son aptitude et sa motivation à exercer l'emploi postulé (durée : trente minutes ; coefficient 5). Toute note inférieure à 5 sur 20 est éliminatoire.
 
-Les membres du jury disposent, pour aide à la décision, des résultats des tests psychotechniques passés par le candidat au moment de l'admissibilité, interprétés par le psychologue.
+Les membres du jury disposent, pour aide à la décision, des résultats des tests psychotechniques passés par le candidat, interprétés par le psychologue.
 
 Une interrogation orale portant sur le droit pénal général et/ou le droit pénal spécial et/ou la procédure pénale (durée : vingt minutes ; coefficient 3) ou, au choix du candidat, sur les interventions sur objets suspects et munitions, les modes opératoires et les règles de sécurité. Le candidat indique son choix dans sa demande d'inscription au concours. Il ne peut en aucun cas en changer au moment des épreuves.
 

@@ -1,3 +1,3 @@
 # Article 16
 
-Le directeur général de la police nationale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les dispositions du présent arrêté seront applicables à compter des concours ouverts au titre de l'année 2006.
