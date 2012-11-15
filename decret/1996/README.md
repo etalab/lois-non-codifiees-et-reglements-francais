@@ -121,7 +121,6 @@
 - [Décret n°96-513 du 7 juin 1996 (JUSB9610166D)](decret-n96-513-du-7-juin-1996-jusb9610166d)
 - [Décret n°96-515 du 7 juin 1996 (AGRA9600070D)](decret-n96-515-du-7-juin-1996-agra9600070d)
 - [Décret n°96-518 du 7 juin 1996 (ACVP9520043D)](decret-n96-518-du-7-juin-1996-acvp9520043d)
-- [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-695 du 7 août 1996 (TASS9621874D)](decret-n96-695-du-7-aout-1996-tass9621874d)
 - [Décret n°96-697 du 7 août 1996 (PRMX9600083D)](decret-n96-697-du-7-aout-1996-prmx9600083d)
 - [Décret n°96-698 du 7 août 1996 (PRMX9600094D)](decret-n96-698-du-7-aout-1996-prmx9600094d)
