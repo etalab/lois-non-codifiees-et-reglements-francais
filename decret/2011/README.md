@@ -497,7 +497,6 @@
 - [Décret n°2011-1905 du 19 décembre 2011 (OMEO1127999D)](decret-n2011-1905-du-19-decembre-2011-omeo1127999d)
 - [Décret n°2011-853 du 19 juillet 2011 (DEVL1030800D)](decret-n2011-853-du-19-juillet-2011-devl1030800d)
 - [Décret n°96-999 du 19 novembre 1996 (PRMX9601746D)](decret-n96-999-du-19-novembre-1996-prmx9601746d)
-- [Décret n°2011-543 du 19 mai 2011 (PRMX1113106D)](decret-n2011-543-du-19-mai-2011-prmx1113106d)
 - [Décret n°2010-1247 du 20 octobre 2010 (AGRS1020874D)](decret-n2010-1247-du-20-octobre-2010-agrs1020874d)
 - [Décret n°2011-1127 du 20 septembre 2011 (ETSH1124644D)](decret-n2011-1127-du-20-septembre-2011-etsh1124644d)
 - [Décret n°2011-1130 du 20 septembre 2011 (DEVK1116583D)](decret-n2011-1130-du-20-septembre-2011-devk1116583d)
