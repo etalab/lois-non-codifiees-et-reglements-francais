@@ -1,12 +1,12 @@
 # Article Annexe I
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **RES-EL-01**
+Opération n° RES-EL-01
 
-**Transformateur à haut rendement
+Transformateur à haut rendement
 
-pour la distribution publique d'électricité**
+pour la distribution publique d'électricité
 
 1. Secteur d'application :
 
@@ -30,7 +30,6 @@ Le niveau (C) de l'ancienne norme NF C52 112 1 ou du document CENELEC HD 428 peu
 
 Montant en kWh cumac = pertes à vide + pertes en charge
 
-<div align="center"/>
 <table>
 <tbody>
 <tr>
@@ -145,14 +144,12 @@ Montant en kWh cumac = pertes à vide + pertes en charge
 </div>
 
 <div align="center">
-<b>
 <i>Certificats d'économies d'énergie</i>
-</b>
 </div>
 
-Opération n° **BAT-EQ-19**
+Opération n° BAT-EQ-19
 
-**Coupe-veille automatique**
+Coupe-veille automatique
 
 1. Secteur d'application :
 
@@ -175,16 +172,14 @@ Sans objet.
 5. Montant de certificats en kWh cumac : 870 kWh cumac.
 
 <div align="center">
-<b>
 <i>Certificats d'économies d'énergie</i>
-</b>
 </div>
 
 Opération n° BAT-TH-34
 
-**Système de régulation sur une installation frigorifique
+Système de régulation sur une installation frigorifique
 
-permettant d'avoir une haute pression flottante**
+permettant d'avoir une haute pression flottante
 
 1. Secteur d'application :
 
@@ -214,7 +209,6 @@ P (kW) × 4 723 × CZC × CDT × CTcd Ini
 
 Avec :
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -244,7 +238,6 @@ Avec :
 <br/>
 </div>
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -294,7 +287,6 @@ Avec :
 <br/>
 </div>
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -369,7 +361,6 @@ Avec :
 <br/>
 </div>
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -419,7 +410,6 @@ Avec :
 <br/>
 </div>
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -457,16 +447,11 @@ Avec :
 </tbody>
 </table>
 
-<div align="left">
-<br/>
-<br/>
-</div>
+_Certificats d'économies d'énergie_
 
-**_Certificats d'économies d'énergie_**
+Opération n° BAT-TH-32
 
-Opération n° **BAT-TH-32**
-
-**Groupe de production d'eau glacée avec condenseur sur eau (DOM)**
+Groupe de production d'eau glacée avec condenseur sur eau (DOM)
 
 1. Secteur d'application :
 
@@ -496,7 +481,6 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="center"/>
 <table>
 <tbody>
 <tr>
@@ -555,11 +539,11 @@ Mise en place réalisée par un professionnel.
 <br/>En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.<br/>
 </div>
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **IND-UT-11**
+Opération n° IND-UT-11
 
-**Ballon de stockage d'eau chaude**
+Ballon de stockage d'eau chaude
 
 1. Secteur d'application :
 
@@ -581,7 +565,6 @@ Mise en place par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -597,11 +580,11 @@ Mise en place par un professionnel.
 <br/>
 </div>
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **IND-EN-02**
+Opération n° IND-EN-02
 
-**Isolation de combles ou de toitures (DOM)**
+Isolation de combles ou de toitures (DOM)
 
 1. Secteur d'application.
 
@@ -623,7 +606,6 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -639,11 +621,11 @@ Mise en place réalisée par un professionnel.
 <br/>En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.<br/>
 </div>
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **IND-EN-01**
+Opération n° IND-EN-01
 
-**Isolation des murs (DOM)**
+Isolation des murs (DOM)
 
 1. Secteur d'application :
 
@@ -665,7 +647,6 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left"/>
 <table>
 <tbody>
 <tr>
@@ -681,12 +662,11 @@ Mise en place réalisée par un professionnel.
 <br/>En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.<br/>
 </div>
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **BAT-TH-31**
-**Unité autonome de traitement d'air en toiture
+Opération n° BAT-TH-31Unité autonome de traitement d'air en toiture
 
-à haute performance énergétique**
+à haute performance énergétique
 
 1. Secteur d'application :
 
@@ -716,14 +696,11 @@ Mise en place par un professionnel.
 
 5. Montant des certificats en kWh cumac :
 
-<div align="center"/>
 <table>
 <tbody>
 <tr>
 <td align="center" colspan="2">
-<br/>MONTANT UNITAIRE EN KWH CUMAC<br/>
-<br/>
-</td>
+<br/>MONTANT UNITAIRE EN KWH CUMAC</td>
 </tr>
 <tr>
 <td>Puissance frigorifique &lt; 150 kW.<br/>
@@ -744,79 +721,15 @@ Mise en place par un professionnel.
 </tbody>
 </table>
 
-<div align="left">
-<br/>
-<br/>
-</div>
+_Certificats d'économies d'énergie_
 
-**_Certificats d'économies d'énergie_**Opération n° **BAR-SE-02**
-**Ingénierie d'accompagnement des entreprises et artisans du bâtiment
+Opération n° BAR-SE-02
 
-pour réaliser les objectifs énergétiques du Grenelle de l'environnement**
+(Supprimé)
 
-1. Secteur d'application :
+_Certificats d'économies d'énergie_Opération n° BAR-TH-41Remplacement d'un climatiseur existant
 
-Entreprises et artisans du bâtiment effectuant des travaux et/ou réalisant la maintenance des bâtiments résidentiels ou tertiaires.
-
-2. Dénomination :
-
-Elaboration du contenu de documents techniques destinés aux entreprises et artisans du bâtiment pour la réalisation de travaux de rénovation, la maintenance ou la construction de bâtiments en vue d'accompagner les entreprises et artisans du bâtiment pour la rénovation, la maintenance et la construction de bâtiments conformes aux objectifs énergétiques du Grenelle de l'Environnement (bâtiments neufs à basse consommation et/ou à énergie positive, rénovation énergétique lourde des bâtiments existants).
-
-3. Conditions pour la délivrance de certificats :
-
-Un comité de pilotage spécialement constitué pour cette action détermine une liste de documents à établir. Pour chacun de ces documents, le comité de pilotage établit un cahier des charges et retient un prestataire.
-
-Une fois les prestations réalisées et validées par le comité de pilotage, le comité de pilotage délivre une attestation de versement de fonds aux entreprises ayant contribué financièrement au paiement des prestations. Les certificats d'économies d'énergie sont délivrés à ces entreprises, sur leur demande et sur présentation de l'attestation. La quantité maximale de certificats d'économies d'énergie délivrés par document sera mentionnée dans le cahier des charges correspondant et validée par le représentant de l'Etat au sein du comité de pilotage.
-
-4. Durée de vie conventionnelle :
-
-Sans objet.
-
-5. Montant de certificats en kWh cumac :
-
-<div align="center">
-<br/>
-</div>
-<table>
-<tbody>
-<tr>
-<td>MONTANT DES CERTIFICATS<br/>(en kWh cumac)<br/>
-</td>
-<td rowspan="2">
-<br/>=<br/>
-</td>
-<td>PARTICIPATION FINANCIÈRE<br/>(en euros)<br/>
-</td>
-<td rowspan="2">
-<br/>/<br/>
-</td>
-<td>COÛT FORFAITAIRE DES ÉCONOMIES<br/>additionnelles dues à l'accompagnement<br/>(euros/kWh cumac)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">M<br/>
-</td>
-<td align="center">D<br/>
-</td>
-<td align="center">0,02<br/>
-</td>
-</tr>
-</tbody>
-</table>
-<div align="center">
-
-</div>
-<div align="left">
-<div align="center">
-<br/>
-</div>
-<br/>
-</div>
-
-**_Certificats d'économies d'énergie_**Opération n° **BAR-TH-41**
-**Remplacement d'un climatiseur existant
-
-par un climatiseur de classe A (DOM)**
+par un climatiseur de classe A (DOM)
 
 1. Secteur d'application :
 
@@ -840,7 +753,6 @@ Mise en place par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="center"/>
 <table>
 <tbody>
 <tr>
@@ -879,18 +791,8 @@ Mise en place par un professionnel.
 </div>
 
 <div align="center">
-<b>
 <i>Certificats d'économies d'énergie</i>
-</b>
-<p>
-<br/>
-</p>
-</div>Opération n° **BAT-TH-33**
-<div align="center">
-<b>Echangeur air neuf/air extrait</b>
-<br/>
-<b>sur centrale de traitement d'air (DOM)</b>
-<br/>
+</div>Opération n° BAT-TH-33<div align="center">Echangeur air neuf/air extrait<br/>sur centrale de traitement d'air (DOM)<br/>
 </div>
 
 1. Secteur d'application :
@@ -913,7 +815,6 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="center"/>
 <table>
 <tbody>
 <tr>
@@ -950,24 +851,14 @@ Mise en place réalisée par un professionnel.
 </table>
 
 <div align="left">
-<br/>
-<br/>En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.<br/>
+<p>En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.<br/>
+</p>
 </div>
 
 <div align="center">
-<b>
 <i>Certificats d'économies d'énergie</i>
-</b>
-<p>
-<br/>
-</p>
-</div>Opération n°**RES-CH-03-GT**
-<div align="center">
-<br/>
-<b>Réhabilitation d'un poste de livraison de chaleur</b>
-<br/>
-<b>dans bâtiment tertiaire de grande taille</b>
-<br/>
+</div>Opération n° RES-CH-03-GT<div align="center">
+<br/>Réhabilitation d'un poste de livraison de chaleur<br/>dans bâtiment tertiaire de grande taille<br/>
 </div>
 
 1. Secteur d'application :
@@ -996,7 +887,6 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-<div align="center"/>
 <table>
 <tbody>
 <tr>
@@ -1004,15 +894,11 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center" rowspan="5">
 <br/>
-<div align="center">
-<b>X</b>
-<br/>
+<div align="center">X<br/>
 </div>
 </td>
 <td align="center">SURFACE<br/>chauffée (en m²)</td>
-<td align="center" rowspan="5">
-<b>X</b>
-</td>
+<td align="center" rowspan="5">X</td>
 <td align="center">BRANCHE<br/>
 </td>
 <td align="center">FACTEUR<br/>correctif </td>

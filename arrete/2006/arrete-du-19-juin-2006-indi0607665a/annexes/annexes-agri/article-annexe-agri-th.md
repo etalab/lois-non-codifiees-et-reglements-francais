@@ -520,3 +520,154 @@ Attestation  du bénéficiaire des travaux de la surface en mètres carrés chau
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-10
+
+Chaudière à condensation pour le chauffage
+
+des serres horticoles
+
+1. Secteur d'application :
+
+Serres horticoles, neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'une chaudière de type condensation pour le chauffage des serres horticoles neuves ou existantes.
+
+3. Conditions pour la délivrance de certificats :
+
+Le professionnel doit attester de la mise en œuvre d'une régulation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="3">MONTANT UNITAIRE EN kWh CUMAC/M² </td>
+<td align="center"/>
+<td align="center">SURFACE CHAUFFÉE<br/>en m² </td>
+</tr>
+<tr>
+<td align="center" rowspan="3"> Zone climatique </td>
+<td align="center">H1 <br/>
+</td>
+<td align="center">257 <br/>
+</td>
+<td align="center"/>
+<td align="center" rowspan="3">  S</td>
+</tr>
+<tr>
+<td align="center">H2 <br/>
+</td>
+<td align="center"> 210</td>
+<td align="center">x <br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3 <br/>
+</td>
+<td align="center"> 140</td>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-11
+
+Chaufferie biomasse pour le chauffage de bâtiments
+
+d'élevage de porcs
+
+1. Secteur d'application :
+
+Bâtiments d'élevage de porcs, neufs ou existants.
+
+2. Dénomination :
+
+Mise  en place d'une chaufferie valorisant de la biomasse comme combustible  pour des besoins de chauffage de bâtiments d'élevage de porcs.
+
+3. Conditions pour la délivrance de certificats :
+
+Le professionnel atteste que la chaudière installée est associée à un système de chauffage à eau chaude.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center"> PUISSANCE BIOMASSE<br/>installée en kW</td>
+<td align="center"/>
+<td align="center"> MONTANT<br/>en kWh cumac/kW</td>
+</tr>
+<tr>
+<td align="center">P <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center">33 200 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-12
+
+Ecrans thermiques latéraux
+
+1. Secteur d'application :
+
+Serres maraîchères ou horticoles, neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'un écran thermique vertical au niveau d'une ou de plusieurs paroi(s) de serre.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+L'installateur atteste de la surface au sol de serres faisant l'objet de l'opération.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center"/>
+<td align="center">MONTANT DU GAIN<br/>(kWh cumac/m²) <br/>
+</td>
+<td align="center"/>
+<td align="center">SURFACE AU SOL<br/>de serre équipée (m²)<br/>
+</td>
+</tr>
+<tr>
+<td align="center"> Serres maraîchères</td>
+<td align="center">30 <br/>
+</td>
+<td align="center"> x</td>
+<td align="center" rowspan="2"> S</td>
+</tr>
+<tr>
+<td align="center">Serres horticoles </td>
+<td align="center"> 15</td>
+<td align="center"/>
+</tr>
+</tbody>
+</table>

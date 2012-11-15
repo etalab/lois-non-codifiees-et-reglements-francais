@@ -1,10 +1,10 @@
 # Article Annexe II
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **IND-UT-06**
+Opération n° IND-UT-06
 
-**Contrôle du moteur d'un tracteur**
+Contrôle du moteur d'un tracteur
 
 1. Secteur d'application :
 
@@ -26,68 +26,17 @@ Réalisation du contrôle par un opérateur participant au réseau national coor
 
 5. Montant de certificats en kWh cumac : 9 700 kWh cumac.
 
-**_Certificats d'économies d'énerg_ie**
+_Certificats d'économies d'énerg_ie
 
-Opération n°**BAR-SE-01**
+Opération n° BAR-SE-01
 
-**Formation des acteurs professionnels du secteur
+(Supprimé)
 
-du bâtiment aux économies d'énergie**
+_Certificats d'économies d'énergie_
 
-1. Secteur d'application :
+Opération n° BAT-TH-15
 
-Secteur du bâtiment.
-
-2. Dénomination :
-
-Formation des acteurs professionnels du secteur du bâtiment aux économies d'énergie.
-
-3. Conditions pour la délivrance de certificats :
-
-Le contenu de la formation doit être agréé par le comité de pilotage spécialement constitué pour cette action.
-
-Attestation de l'un des organismes paritaires collecteurs agréés (OPCA) figurant sur une liste établie par le comité de pilotage certifiant le versement des fonds par les obligés suite à facturation de la formation (la facture est émise par l'organisme paritaire collecteur agréé qui tient à disposition les preuves de réalisation des formations dans le cadre réglementaire actuellement en vigueur pour la formation professionnelle).
-
-Le montant de certificats pouvant être obtenu par un fournisseur d'énergie sur une période est limité à 7 % de l'obligation qui lui a été attribuée pour cette même période.
-
-4. Durée de vie conventionnelle :
-
-3 ans.
-
-5. Montant de certificats en kWh cumac :
-
-<table>
-<tbody>
-<tr>
-<td align="center">MONTANT DES CERTIFICATS<br/>(en kWh cumac)<br/>
-</td>
-<td align="center" rowspan="2">
-<br/>=<br/>
-</td>
-<td align="center">PARTICIPATION FINANCIÈRE<br/>(en euros)<br/>
-</td>
-<td align="center" rowspan="2">
-<br/>/<br/>
-</td>
-<td align="center">COÛT FORFAITAIRE DES ÉCONOMIES<br/>additionnelles dues à la formation<br/>(euros/kWh cumac)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">M<br/>
-</td>
-<td align="center">D<br/>
-</td>
-<td align="center">0,02<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-**_Certificats d'économies d'énergie_**
-
-Opération n° **BAT-TH-15**
-
-**Climatiseur de classe A (DOM)**
+Climatiseur de classe A (DOM)
 
 1. Secteur d'application :
 
@@ -117,9 +66,7 @@ Mise en place par un professionnel.
 <td align="center">MONTANT EN KWH CUMAC<br/>
 </td>
 <td align="center" rowspan="8">
-<br/>
-<b>X</b>
-<br/>
+<br/>X<br/>
 </td>
 <td align="center">PUISSANCE DE L'APPAREIL<br/>en BTU/h<br/>
 </td>
@@ -193,11 +140,11 @@ Mise en place par un professionnel.
 
 En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **BAT-TH-15**
+Opération n° BAT-TH-15
 
-**Climatiseur de classe A (DOM)**
+Climatiseur de classe A (DOM)
 
 1. Secteur d'application :
 
@@ -225,10 +172,7 @@ L'appareil a une certification Eurovent ou des caractéristiques de performance 
 <td align="center">MONTANT EN KWH CUMAC<br/>
 </td>
 <td align="center" rowspan="8">
-<p>
-<b>X </b>
-</p>
-<br/>
+<p>X </p>
 </td>
 <td align="center">PUISSANCE DE L'APPAREIL<br/>en BTU/h<br/>
 </td>
@@ -304,13 +248,13 @@ L'appareil a une certification Eurovent ou des caractéristiques de performance 
 
 En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
 
-**_Certificats d'économies d'énergie_**
+_Certificats d'économies d'énergie_
 
-Opération n° **BAT-EN-07-GT**
+Opération n° BAT-EN-07-GT
 
-**Isolation des toitures terrasses et couvertures de pente**<**5 %**
+Isolation des toitures terrasses et couvertures de pente < 5 %
 
-**dans bâtiment de grande taille**
+dans bâtiment de grande taille
 
 1. Secteur d'application :
 
@@ -337,9 +281,7 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td colspan="5">MONTANT (en kWh cumac/m² d'isolant)<br/>
 </td>
-<td align="center" rowspan="9" valign="middle">
-<b>X </b>
-<br/>
+<td align="center" rowspan="9" valign="middle">X <br/>
 </td>
 <td rowspan="3">SECTEUR<br/>d'activité<br/>
 </td>
@@ -347,12 +289,8 @@ Mise en place réalisée par un professionnel.
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">Energie<br/>de chauffage<br/>
-<br/>
-</td>
-<td align="center" rowspan="2">Zone<br/>climatique<br/>
-<br/>
-</td>
+<td align="center" rowspan="2">Energie<br/>de chauffage</td>
+<td align="center" rowspan="2">Zone<br/>climatique</td>
 <td align="center" colspan="3">Caractéristique paroi finale<br/>
 </td>
 </tr>

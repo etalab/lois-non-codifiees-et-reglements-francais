@@ -1,7 +1,9 @@
 # Article Annexe BAR-EQ
 
-<div align="center"/>
-<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-EQ-01
@@ -26,7 +28,18 @@ Sans objet.
 
 5. Montant de certificats en kWh cumac
 
-190 kWh cumac par lampe installée
+<div align="left">
+<br/>190 kWh cumac par lampe installée</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
 
 Certificats d'économies d'énergie
 
@@ -138,9 +151,25 @@ Installation   réalisée par un professionnel ou par le service technique inter
 </table>
 
 </div>
-<div align="left">Certificats d'économie d'énergie <p>Opération n° BAR-EQ-05</p>
-<p>Bloc autonome d'éclairage<br/>
-</p>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="center"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left">Certificats d'économie d'énergie </div>
+<div align="left">
+<p>Opération n° BAR-EQ-05</p>
+<p>Bloc autonome d'éclairage</p>
 </div>
 
 1. Secteur d'application :
@@ -169,6 +198,14 @@ Certificats d'économies d'énergie
 
 <div align="left">Opération n° BAR-EQ-06</div>
 <div align="left">Coupe-veille automatique</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 
 1. Secteur d'application :
 
@@ -194,25 +231,48 @@ La puissance du coupe-veille, pour sa propre consommation, ne dépasse  pas 0,5 
 
 Certificats d'économies d'énergie
 
-<div align="left">Opération n° BAR-EQ-07</div>
-<div align="left">Lampe fluo-compacte avec globe de classe B</div>
+Opération n° BAR-EQ-07
+
+Lampe à LED pour l'éclairage d'accentuation
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons  individuelles et appartements existants.
+Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une lampe fluo-compacte avec globe de classe B (ou  encore appelée lampe basse consommation).
+Mise en place d'une lampe à LED pour l'éclairage d'accentuation.
 
-3. Conditions pour la  délivrance de certificats :
+3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Les lampes à LED mises en place respectent les critères suivants :
 
-4. Durée de  vie conventionnelle :
+- indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
 
-6,5 ans.
+- durée de vie (à 30 % de chute de flux lumineux) : ≥ 15 000 heures ;
 
-5. Montant de  certificats en kWh cumac :
+- température de couleur (Tc) : ≤ 4 000 kelvins (K) ;
 
-90 kWh cumac
+- angle d'ouverture : ≤ 60° ;
+
+- efficacité lumineuse : ≥ 45 lumens/W.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MONTANT EN kWh CUMAC<br/>par lampe à LED installée </td>
+<td align="center"/>
+<td align="center"> NOMBRE<br/>de lampes installées</td>
+</tr>
+<tr>
+<td align="center"> 400</td>
+<td align="center">x <br/>
+</td>
+<td align="center"> N</td>
+</tr>
+</tbody>
+</table>

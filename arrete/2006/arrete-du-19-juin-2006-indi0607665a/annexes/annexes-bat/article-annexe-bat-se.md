@@ -159,3 +159,62 @@ Avec B, coefficient de bonification, égal à :
 - "0,5" pour des certificats délivrés dans le cadre du niveau 1 ;
 
 -  "1" pour des certificats délivrés dans le cadre du niveau 2 si les  opérations n'ont pas déjà été bonifiées dans le cadre du niveau 1.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-SE-03
+
+Rééquilibrage d'une installation collective de chauffage
+
+à eau chaude du secteur tertiaire
+
+1. Secteur d'application :
+
+Bâtiments existants du secteur tertiaire équipés d'une installation de chauffage à eau chaude.
+
+2. Dénomination :
+
+Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
+
+3. Conditions pour la délivrance de certificats :
+
+Installation et réglages d'organes d'équilibrage neufs, en pied de colonne et/ou au niveau des locaux, par un professionnel.
+
+Une  installation collective de chauffage à eau chaude est considérée comme  équilibrée si l'écart de température entre le local le plus chauffé et  le moins chauffé d'un même bâtiment est strictement inférieur à 2 °C.
+
+Afin  de prouver que les organes d'équilibrage assurent une température  uniforme dans tous les locaux, le professionnel fournit un tableau  d'enregistrement, signé par ses soins et par le client, des températures  moyennes après installation de ces organes d'équilibrage.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">ZONE CLIMATIQUE </td>
+<td align="center"> MONTANT EN kWh CUMAC<br/>(par m²)<br/>
+</td>
+<td align="center"/>
+<td align="center">SURFACE CHAUFFÉE<br/>(par m²) <br/>
+</td>
+</tr>
+<tr>
+<td align="center"> H1</td>
+<td align="center"> 130</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> H2</td>
+<td align="center"> 110</td>
+<td align="center"> x</td>
+<td align="center"> S</td>
+</tr>
+<tr>
+<td align="center"> H3</td>
+<td align="center"> 70</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>

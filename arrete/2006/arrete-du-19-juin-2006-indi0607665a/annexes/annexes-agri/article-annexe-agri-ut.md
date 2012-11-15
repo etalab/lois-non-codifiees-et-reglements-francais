@@ -271,7 +271,7 @@ Mise en place réalisée par un professionnel.
 </th>
 <th>ZONE CLIMATIQUE<br/>
 </th>
-<th>A<br/>(h cumac/°C)<br/>
+<th>A (H CUMAC)<br/>
 </th>
 </tr>
 <tr>

@@ -297,16 +297,40 @@ Sans objet.
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
-<div align="left">Certificats d'économies d'énergie<br/>Opération n° IND-BA-10<br/>Dé-stratificateur d'air</div>
 <div align="left"/>
 <div align="left"/>
-<div align="left">
-<br/>
-</div>
-<div align="left">
-<div align="left">1. Secteur d'application :<br/>Industrie.<br/>2. Dénomination :<br/>Mise en place d'un dé-stratificateur ou brasseur pour l'homogénéisation de la température de l'air d'un local industriel.<br/>3. Conditions pour la délivrance des certificats :<br/>
-</div>Le dé-stratificateur ou brasseur est équipé d'un thermostat.<br/>Le local industriel a une hauteur d'au moins 5 mètres et est chauffé par aérothermes.<br/>4. Durée de vie conventionnelle : 15 ans.<br/>5. Montant de certificats en kWh cumac :<br/>
-</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie</div>
+
+Opération standardisée n° IND-BA-10
+
+Dé-stratificateur d'air
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un dé-stratificateur ou brasseur pour l'homogénéisation de la température de l'air d'un local industriel.
+
+3. Conditions pour la délivrance des certificats :
+
+Le dé-stratificateur ou brasseur est équipé d'un thermostat.
+
+Le local industriel a une hauteur d'au moins 5 mètres et est chauffé par aérothermes.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
 <div align="left"/>
 <div align="left"/>
 <div align="left">
@@ -317,10 +341,10 @@ Sans objet.
 <td align="center"/>
 <td align="center" rowspan="2">ZONE<br/>climatique<br/>
 </td>
-<td align="center" colspan="2">HAUTEUR DU LOCAL h<br/>(en mètres)<br/>
+<td align="center" colspan="2">HAUTEUR DU LOCAL H<br/>(en mètres)<br/>
 </td>
 <td align="center"/>
-<td align="center" rowspan="2">RÉGIME<br/>de fonctionnement<br/>
+<td align="center" rowspan="2">MODE DE<br/>fonctionnement<br/>du site<br/>
 </td>
 <td align="center" rowspan="2">MONTANT<br/>(en kWh cumac)<br/>
 </td>
@@ -380,7 +404,20 @@ Sans objet.
 </table>
 </div>
 <div align="left"/>
-<div align="left">Avec  P la puissance de chauffage en kW de l'aérotherme assurant le chauffage  du local et h la hauteur sous plafond ou sous faîtage du local en  mètres. </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">P  est la puissance de chauffage en kW de l'aérotherme assurant le  chauffage du local et h la hauteur sous plafond ou sous faîtage du local  en mètres.<br/>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
@@ -390,7 +427,7 @@ Sans objet.
 <div align="left">
 <br/>
 </div>
-<div align="left">1. Secteur d'application :<br/>Industrie.<br/>2. Dénomination :<br/>Installation  d'un luminaire avec ballast associé ou non à un dispositif de contrôle  utilisant la détection de présence ou/et la variation automatique de la  puissance du luminaire en fonction des apports naturels de lumière.<br/>3. Conditions pour la délivrance de certificats :<br/>Le  ballast a un indice d'efficacité énergétique au sens de la directive  2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009  établissant un cadre pour la fixation d'exigences en matière  d'écoconception applicables aux produits liés à l'énergie :<br/>- A1 ou A1 bat pour les luminaires équipés d'un système de variation ;<br/>- A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.<br/>La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.<br/>4. Durée de vie conventionnelle : 15 ans.<br/>5. Montant de certificats en kWh cumac :</div>
+<div align="left">1. Secteur d'application :<br/>Industrie.<br/>2. Dénomination :<br/>Installation  d'un luminaire avec ballast associé ou non à un dispositif de contrôle  utilisant la détection de présence ou/et la variation automatique de la  puissance du luminaire en fonction des apports naturels de lumière.<br/>3. Conditions pour la délivrance de certificats :<br/>Le  ballast a un indice d'efficacité énergétique au sens de la directive  2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009  établissant un cadre pour la fixation d'exigences en matière  d'écoconception applicables aux produits liés à l'énergie :<br/>―  A1 ou A1 bat pour les luminaires équipés d'un système de variation ;<br/>―  A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.<br/>La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.<br/>4. Durée de vie conventionnelle : 15 ans.<br/>5. Montant de certificats en kWh cumac :</div>
 <div align="left"/>
 <div align="left"/>
 <div align="left">

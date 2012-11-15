@@ -1466,3 +1466,143 @@ Le   bénéficiaire fournit l'attestation que l'opération concerne des  meubles
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-26
+
+Lampe ou luminaire à LED pour l'éclairage d'accentuation
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants.
+
+2. Dénomination :
+
+Mise en place d'une lampe ou d'un luminaire à LED pour l'éclairage d'accentuation.
+
+3. Conditions pour la délivrance de certificats :
+
+Les lampes ou luminaires LED mis en place respectent les critères suivants :
+
+- indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
+
+- durée de vie (à 30 % de chute de flux lumineux) : ≥ 20 000 heures ;
+
+-  température de couleur (Tc) : ≤ 4 000 kelvins (K) pour les bureaux et  les locaux d'enseignement (pour les autres locaux du secteur tertiaire,  aucun critère sur la température de couleur n'est imposé) ;
+
+- angle d'ouverture : ≤ 60° ;
+
+- flux minimum sortant : ≥ 320 lumens ;
+
+- efficacité lumineuse : ≥ 45 lumens/W.
+
+4. Durée de vie conventionnelle :
+
+7 ans pour les lampes ou luminaires d'une durée de vie ≥ 20 000 heures.
+
+15 ans pour les lampes ou luminaires d'une durée de vie ≥ 40 000 heures.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">DURÉE DE VIE<br/>lampe/luminaire<br/>(heures)<br/>
+</td>
+<td align="center">SANS GESTION<br/>de l'éclairage </td>
+<td align="center">SI DÉTECTION<br/>de présence<br/>ou variation<br/>de lumière </td>
+<td align="center">SI DÉTECTION<br/>de présence<br/>ou variation<br/>de lumière </td>
+<td align="center"/>
+<td align="center">NOMBRE DE LAMPES<br/>ou de luminaires<br/>installés </td>
+</tr>
+<tr>
+<td align="center"> ≥ 20 000</td>
+<td align="center">630 <br/>
+</td>
+<td align="center"> 760</td>
+<td align="center">880 <br/>
+</td>
+<td align="center"> x</td>
+<td align="center">N <br/>
+</td>
+</tr>
+<tr>
+<td align="center">≥ 40 000 </td>
+<td align="center"> 1 300</td>
+<td align="center"> 1 560<br/>
+</td>
+<td align="center"> 1 820<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-27
+
+Luminaire à LED de type downlight
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants.
+
+2. Dénomination :
+
+Mise en place d'un luminaire à LED de type downlight, avec ou sans dispositif de contrôle automatique.
+
+3. Conditions pour la délivrance de certificats :
+
+Les luminaires à LED mis en place doivent respecter les critères suivants :
+
+- indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
+
+- durée de vie (à 30 % de chute de flux lumineux) : ≥ 20 000 heures ;
+
+-  température de couleur (Tc) : ≤ 4 000 kelvins (K) pour les bureaux et  les locaux d'enseignement (pour les autres locaux du secteur tertiaire,  aucun critère sur la température de couleur n'est imposé) ;
+
+- flux lumineux sortant du luminaire : ≥ 900 lumens ;
+
+- efficacité lumineuse : ≥ 50 lumens/W.
+
+4. Durée de vie conventionnelle :
+
+6 ans pour lampes d'une durée de vie ≥ 20 000 heures.
+
+11 ans pour lampes d'une durée de vie ≥ 40 000 heures.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">DURÉE DE VIE<br/>du luminaire<br/>à LED (heures) </td>
+<td align="center">SANS GESTION<br/>de l'éclairage </td>
+<td align="center">SI DÉTECTION<br/>de présence<br/>ou variation<br/>de lumière </td>
+<td align="center">SI DÉTECTION<br/>de présence<br/>ou variation<br/>de lumière </td>
+<td align="center"/>
+<td align="center">NOMBRE<br/>de luminaires<br/>installés </td>
+</tr>
+<tr>
+<td align="center">≥ 20 000 </td>
+<td align="center">640 </td>
+<td align="center">770 </td>
+<td align="center">890 </td>
+<td align="center">x <br/>
+</td>
+<td align="center">N <br/>
+</td>
+</tr>
+<tr>
+<td align="center">≥ 40 000 </td>
+<td align="center">1 180 </td>
+<td align="center">1 420 </td>
+<td align="center">1 660 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
