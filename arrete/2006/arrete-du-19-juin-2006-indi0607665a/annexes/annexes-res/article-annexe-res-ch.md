@@ -4,60 +4,60 @@
 
 Opération n° RES-CH-01
 
-Production de chaleur renouvelable ou de récupération en réseau (France métropolitaine)
+Production de chaleur renouvelable
 
-1. Secteur d'application
+ou de récupération en réseau (France métropolitaine)
 
-Appartements existants et bâtiments tertiaires existants en France métropolitaine.
+1. Secteur d'application :
 
-2. Dénomination
+Réseau  de chaleur desservant des bâtiments résidentiels existants ou des  bâtiments tertiaires existants en France métropolitaine.
+
+2. Dénomination :
 
 Mise  en place d'un système de production de chaleur renouvelable ou de  récupération (géothermie, incinération, bois-énergie, biogaz, chaleur  industrielle, etc.) sur un réseau de chaleur.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Cette  opération s'applique aux installations non soumises à la directive  2003/87/CE établissant un système d'échange de quotas d'émissions de gaz  à effet de serre.
 
-Le réseau de chaleur peut alimenter  également des bâtiments neufs, non concernés par cette opération. La  proportion de bâtiments existants alimentés par le réseau doit être  fournie.
+Le réseau de chaleur peut alimenter également des bâtiments neufs, non concernés par cette opération.
 
-La chaleur renouvelable ou de récupération nette est déterminée par une étude spécifique.
+La  chaleur renouvelable ou de récupération nette alimentant les bâtiments  existants sera déterminée par une étude spécifique. La source d'énergie  renouvelable ou de récupération y sera précisée.
 
-Le terme kWhth est égal au nombre de kWh renouvelables ou de récupération nets produits et valorisés par an par l'installation.
+Le terme évalué  en kWhth est égal au nombre de kWh renouvelables ou de récupération net  produits et valorisés par an par l'installation et destinés à alimenter  les bâtiments existants.
 
-4. Durée de vie conventionnelle
+La liste des bâtiments pris en considération dans l'étude spécifique doit être fournie.
+
+4. Durée de vie conventionnelle :
 
 Pour les sources d'énergie comme le bois-énergie et le biogaz : 15 ans.
 
 Pour les autres sources d'énergie, notamment les unités d'incinération d'ordures ménagères (UIOM) ou la géothermie : 20 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center"> Source d'énergie</td>
-<td align="center"> Coefficient cumac</td>
+<td align="center"> SOURCE D'ÉNERGIE</td>
+<td align="center"> COEFFICIENT CUMAC</td>
 <td/>
-<td align="center"> Chaleur renouvelable <br/>nette/ an</td>
-<td/>
-<td/>
+<td align="center"> CCHALEUR RENOUVELABLE NETTE/AN<br/>alimentant des bâtiments existants</td>
 </tr>
 <tr>
-<td align="center">Bois-énergie et <br/>biogaz<br/>
+<td align="center">Bois-énergie, biogaz<br/>
 </td>
 <td align="center">11,563<br/>
 </td>
 <td align="center" rowspan="2">X</td>
-<td align="center">kWhth<br/>
-</td>
-<td align="center" rowspan="2">X</td>
-<td align="center" rowspan="2">C<br/>
+<td align="center">kWh<sub>th</sub>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">UIOM - déchets<br/>géothermie<br/>autres<br/>
+<td align="center">UIOM, déchets, géothermie, autres<br/>
 </td>
 <td align="center">14,134<br/>
 </td>
@@ -67,8 +67,6 @@ Pour les autres sources d'énergie, notamment les unités d'incinération d'ordu
 </table>
 
 </div>
-
-C  (%) = [surface des bâtiments existants alimentés par le système de  production de chaleur renouvelable ou de récupération] / [surface de  l'ensemble des bâtiments alimentés par le réseau (neufs + existants)]
 
 Certificats d'économies d'énergie
 
@@ -376,3 +374,669 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-05
+
+Passage d'un réseau de chaleur en basse température
+
+1. Secteur d'application :
+
+Réseaux de chaleur existants.
+
+2. Dénomination :
+
+Passage  d'un réseau de chaleur en haute température (HT), ou d'une partie d'un  réseau de chaleur HT, à un réseau en basse température (BT).
+
+3. Conditions pour la délivrance de certificats :
+
+Baisse  de la température maximale de service (TMS) à une valeur inférieure à  120 °C dans la totalité du réseau ou dans la partie considérée de  celui-ci.
+
+Fournir le descriptif de la portion considérée du réseau (longueur et diamètre nominal) et sa durée annuelle d'utilisation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center" rowspan="2"/>
+<td align="center"/>
+<td align="center" rowspan="2"> DURÉE<br/>annuelle d'utilisation<br/>du réseau<br/>
+</td>
+<td align="center" rowspan="2"> FACTEUR<br/>d'utilisation</td>
+<td align="center"/>
+<td align="center" colspan="2">MONTANT LINÉAIRE </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> DN</td>
+<td align="center"> kWh cumac/m</td>
+</tr>
+<tr>
+<td align="center">L <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center"> 12 mois<br/>
+</td>
+<td align="center">1 <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center">  25 </td>
+<td align="center">3 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 11 mois</td>
+<td align="center"> 0,92</td>
+<td align="center"/>
+<td align="center"> 32</td>
+<td align="center"> 3 400<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 10 mois</td>
+<td align="center"> 0,83</td>
+<td align="center"/>
+<td align="center"> 40</td>
+<td align="center"> 3 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 9 mois</td>
+<td align="center"> 0,75</td>
+<td align="center"/>
+<td align="center"> 50</td>
+<td align="center"> 4 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 8 mois</td>
+<td align="center"> 0,67</td>
+<td align="center"/>
+<td align="center"> 65</td>
+<td align="center"> 4 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 7 mois</td>
+<td align="center"> 0,58</td>
+<td align="center"/>
+<td align="center"> 80</td>
+<td align="center"> 5 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 6 mois</td>
+<td align="center"> 0,5</td>
+<td align="center"/>
+<td align="center"> 100</td>
+<td align="center"> 5 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 125</td>
+<td align="center"> 6 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 150</td>
+<td align="center"> 7 300<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 175</td>
+<td align="center"> 8 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 200</td>
+<td align="center"> 8 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 250</td>
+<td align="center"> 10 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 300</td>
+<td align="center"> 11 400<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 350</td>
+<td align="center"> 12 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 400</td>
+<td align="center"> 13 800<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 450</td>
+<td align="center"> 15 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 500</td>
+<td align="center"> 16 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 550</td>
+<td align="center"> 17 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 600</td>
+<td align="center"> 18 300<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 700</td>
+<td align="center"> 20 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 800</td>
+<td align="center"> 22 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 900</td>
+<td align="center"> 25 300<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 1 000<br/>
+</td>
+<td align="center"> 27 800<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Avec :
+
+L : longueur, en mètres, de la tuyauterie aller du réseau ou de la partie considérée.
+
+DN  : diamètre nominal de la tuyauterie aller. Il s'agit du diamètre BT  (après travaux), équivalent, en termes de débit énergétique, au diamètre  HT avant travaux.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-06
+
+Renforcement du calorifuge des canalisations
+
+d'un réseau de chaleur en caniveau
+
+1. Secteur d'application :
+
+Réseaux de chaleur existants.
+
+2. Dénomination :
+
+Renforcement  du calorifuge des canalisations aller et retour d'un réseau de chaleur  en caniveau, qu'il soit eau surchauffée (HT), eau chaude (BT), ou vapeur  (V), dans tout ou partie du réseau.
+
+3. Conditions pour la délivrance de certificats :
+
+Fournir  le descriptif de la portion considérée du réseau de chaleur (longueur,  diamètre nominal et caractère HT, BT ou V) et sa durée annuelle  d'utilisation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center" rowspan="2">LONGUEUR<br/>de la tuyauterie<br/>aller en m </td>
+<td align="center"/>
+<td align="center" rowspan="2">DURÉE<br/>annuelle d'utilisation<br/>du réseau </td>
+<td align="center" rowspan="2">FACTEUR<br/>d'utilisation </td>
+<td align="center"/>
+<td align="center" colspan="4">MONTANT UNITAIRE EN kWh CUMAC </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">DN </td>
+<td align="center">Eau chaude<br/>(BT) </td>
+<td align="center"> Eau surchauffée<br/>(HT)</td>
+<td align="center">Vapeur<br/>(a)<br/>
+</td>
+</tr>
+<tr>
+<td align="center"> L</td>
+<td align="center">x <br/>
+</td>
+<td align="center">12 mois <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+<td align="center"> x</td>
+<td align="center"> 25</td>
+<td align="center">3 200 <br/>
+</td>
+<td align="center">5 700 <br/>
+</td>
+<td align="center"> NE</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 11 mois</td>
+<td align="center"> 0,92</td>
+<td align="center"/>
+<td align="center"> 32</td>
+<td align="center"> 3 800<br/>
+</td>
+<td align="center"> 6 700<br/>
+</td>
+<td align="center">NE </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 10 mois</td>
+<td align="center"> 0,83</td>
+<td align="center"/>
+<td align="center"> 40</td>
+<td align="center"> 4 500<br/>
+</td>
+<td align="center"> 7 800<br/>
+</td>
+<td align="center">10 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 9 mois</td>
+<td align="center"> 0,75</td>
+<td align="center"/>
+<td align="center"> 50</td>
+<td align="center"> 4 900<br/>
+</td>
+<td align="center"> 9 000<br/>
+</td>
+<td align="center"> 12 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 8 mois</td>
+<td align="center"> 0,67</td>
+<td align="center"/>
+<td align="center"> 65</td>
+<td align="center"> 5 900<br/>
+</td>
+<td align="center"> 10 600<br/>
+</td>
+<td align="center"> 13 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 7 mois</td>
+<td align="center"> 0,58</td>
+<td align="center"/>
+<td align="center"> 80</td>
+<td align="center"> 6 500<br/>
+</td>
+<td align="center"> 11 900<br/>
+</td>
+<td align="center"> 15 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 6 mois</td>
+<td align="center"> 0,5</td>
+<td align="center"/>
+<td align="center"> 100</td>
+<td align="center"> 7 500<br/>
+</td>
+<td align="center"> 13 400<br/>
+</td>
+<td align="center"> 19 700<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 125</td>
+<td align="center"> 8 200<br/>
+</td>
+<td align="center"> 14 900<br/>
+</td>
+<td align="center"> 21 300<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 150</td>
+<td align="center"> 9 000<br/>
+</td>
+<td align="center"> 16 300<br/>
+</td>
+<td align="center"> 25 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 175</td>
+<td align="center"> 9 700<br/>
+</td>
+<td align="center"> 17 500<br/>
+</td>
+<td align="center"> 28 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 200</td>
+<td align="center"> 10 100<br/>
+</td>
+<td align="center"> 18 500<br/>
+</td>
+<td align="center"> 31 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 250</td>
+<td align="center"> 11 200<br/>
+</td>
+<td align="center"> 20 200<br/>
+</td>
+<td align="center"> 38 400<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 300</td>
+<td align="center"> 12 000<br/>
+</td>
+<td align="center"> 21 600<br/>
+</td>
+<td align="center"> 41 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 350</td>
+<td align="center"> 12 800<br/>
+</td>
+<td align="center"> 22 900<br/>
+</td>
+<td align="center"> 43 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 400</td>
+<td align="center"> 13 400<br/>
+</td>
+<td align="center"> 24 300<br/>
+</td>
+<td align="center"> 44 800<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 450</td>
+<td align="center"> 14 200<br/>
+</td>
+<td align="center"> 25 400<br/>
+</td>
+<td align="center"> NE <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 500</td>
+<td align="center"> 14 900<br/>
+</td>
+<td align="center"> 26 700<br/>
+</td>
+<td align="center">51 300 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 550</td>
+<td align="center"> 15 500<br/>
+</td>
+<td align="center"> 27 800<br/>
+</td>
+<td align="center"> NE <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 600</td>
+<td align="center"> 16 100<br/>
+</td>
+<td align="center"> 28 900<br/>
+</td>
+<td align="center">58 400 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 700</td>
+<td align="center"> 17 500<br/>
+</td>
+<td align="center"> 31 200<br/>
+</td>
+<td align="center"> 64 300<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 800</td>
+<td align="center"> 18 800<br/>
+</td>
+<td align="center"> 33 800<br/>
+</td>
+<td align="center"> 69 500<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 900</td>
+<td align="center"> 20 400<br/>
+</td>
+<td align="center"> 36 400<br/>
+</td>
+<td align="center"> 71 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 1 000<br/>
+</td>
+<td align="center"> 22 400<br/>
+</td>
+<td align="center"> 39 700<br/>
+</td>
+<td align="center"> NE <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Avec :
+
+DN : diamètre nominal de la tuyauterie aller.
+
+NE : non existant.

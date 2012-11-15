@@ -1,58 +1,11 @@
 # Article Annexe BAR-SE
 
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-SE-01
 
-Formation des acteurs professionnels du secteur du bâtiment aux économies d'énergie
-
-1. Secteur d'application
-
-Secteur du bâtiment.
-
-2. Dénomination
-
-Formation des acteurs professionnels du secteur du bâtiment  aux économies d'énergie.
-
-3. Conditions pour la délivrance de certificats
-
--	Le contenu de la formation doit être agréé par le comité de pilotage spécialement constitué pour cette action ;
-
-- 	attestation de l'un des organismes paritaires collecteurs agréés (OPCA)  figurant sur une liste établie par le comité de pilotage certifiant le  versement des fonds par les obligés suite à facturation de la formation  (la facture est émise par l'organisme paritaire collecteur agréé qui  tient à disposition les preuves de réalisation des formations dans le  cadre réglementaire actuellement en vigueur pour la formation  professionnelle)
-
-4. Durée de vie conventionnelle
-
-3 ans.
-
-5. Montant de certificats en kWh cumac
-
-<table>
-<tbody>
-<tr>
-<td align="center">Montant des certificats <br/>(kWh cumac)</td>
-<td align="center" rowspan="2">
-<br/>=<br/>
-</td>
-<td align="center">Dépense de formation <br/>(facturée en euros)</td>
-<td align="center" rowspan="2">
-<br/>/<br/>
-</td>
-<td align="center">Coût forfaitaire des <br/>économies additionnelles <br/>dues à la formation<br/>(euro/kWh cumac)</td>
-</tr>
-<tr>
-<td align="center">M<br/>
-</td>
-<td align="center">D<br/>
-</td>
-<td align="center">0,015<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-<div align="left">
-<br/>
-</div>
+(Supprimé)
 
 <div align="left"/>
 <div align="left"/>
@@ -69,66 +22,7 @@ Formation des acteurs professionnels du secteur du bâtiment  aux économies d'�
 
 Opération n° BAR-SE-02
 
-Ingénierie  d'accompagnement des entreprises et artisans du bâtiment pour réaliser  les objectifs énergétiques du Grenelle de l'environnement
-
-1. Secteur d'application
-
-Entreprises  et artisans du secteur du bâtiment effectuant des travaux de  rénovation, de maintenance ou de construction de bâtiments résidentiels  ou tertiaires.
-
-2. Dénomination
-
-Élaboration  de documents techniques destinés aux entreprises et artisans du secteur  du bâtiment pour la réalisation de travaux de rénovation, de  maintenance ou de construction de bâtiments, en vue d'accompagner les  entreprises et artisans du secteur du bâtiment dans la rénovation, la  maintenance et la construction de bâtiments conformes aux objectifs  énergétiques du Grenelle de l'environnement (bâtiments neufs à basse  consommation et/ou à énergie positive, rénovation énergétique lourde des  bâtiments existants).
-
-3. Conditions pour la délivrance de certificats
-
-Un  comité de pilotage, spécialement constitué pour cette action, détermine  une liste de documents à établir. Pour chacun de ces documents, le  comité de pilotage établit un cahier des charges et retient un  prestataire.
-
-Une fois les prestations réalisées et  validées par le comité de pilotage, celui-ci délivre une attestation de  versement de fonds aux entreprises ayant contribué financièrement au  paiement des prestations. Les certificats d'économies d'énergie sont  délivrés à ces entreprises, sur leur demande et sur présentation de  l'attestation.
-
-La quantité maximale de certificats  d'économies d'énergie délivrés par document sera mentionnée dans le  cahier des charges correspondant et validée par le représentant de  l'Etat au sein du comité de pilotage.
-
-4. Durée de vie conventionnelle
-
-Sans objet
-
-<div align="left">5. Montant de certificats en kWh cumac<br/>
-</div>
-
-<div align="center">
-<br/>
-</div>
-<table>
-<tbody>
-<tr>
-<td>Montant des <br/>certificats<br/>(kWh cumac)</td>
-<td rowspan="2">
-<br/>=<br/>
-</td>
-<td>Montant de la prestation <br/>éligible<br/>(facturée en euros)</td>
-<td rowspan="2">
-<br/>/<br/>
-</td>
-<td>Coût forfaitaire des <br/>économies additionnelles <br/>dues à l'accompagnement<br/>(euro/kWh cumac)</td>
-</tr>
-<tr>
-<td align="center">M<br/>
-</td>
-<td align="center">D<br/>
-</td>
-<td align="center">0,015<br/>
-</td>
-</tr>
-</tbody>
-</table>
-<div align="center">
-
-</div>
-<div align="left">
-<div align="center">
-<br/>
-</div>
-<br/>
-</div>
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -230,7 +124,7 @@ Remarque :
 
 Afin  de ne pas attribuer une double bonification, la somme des montants de  CEE de chaque opération standardisée incluse dans le CPE n'intègre pas  la bonification liée à l'opération de maintenance prévue par les fiches  BAR-TH-07-SE, BAR-TH-09-SE et BAR-TH-14-SE.
 
-<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-SE-04
 
@@ -244,13 +138,15 @@ Appartements existants équipés d'une installation collective de chauffage à e
 
 2. Dénomination :
 
-Acquisition  et réglage d'organes d'équilibrage neufs destinés à assurer une  température uniforme dans tous les locaux. Une installation collective  de chauffage à eau chaude est considérée comme équilibrée si l'écart de  température entre le logement le plus chauffé et le moins chauffé d'un  même bâtiment est strictement inférieur à 2° C.
+Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
+
+Une  installation collective de chauffage à eau chaude est considérée comme  équilibrée si l'écart de température entre le logement le plus chauffé  et le moins chauffé d'un même bâtiment est strictement inférieur à 2 °C.
 
 3. Conditions pour la délivrance de certificats :
 
-Installation  et réglage d'organes d'équilibrage neufs, en pied de colonne et/ ou au  niveau des logements, effectués par un professionnel.
+Installation  et réglage d'organes d'équilibrage neufs, en pied de colonne et/ou au  niveau des logements, effectués par un professionnel.
 
-Afin  de prouver que les organes d'équilibrage assurent une température  uniforme dans tous les locaux, le professionnel fournit un tableau  d'enregistrement, signé par ses soins et par le client, des températures  moyennes après l'installation de ces organes d'équilibrage.
+Afin de  prouver que les organes d'équilibrage assurent une température uniforme  dans tous les locaux, le professionnel fournit le tableau  d'enregistrement, signé par ses soins et par le client, des températures  moyennes, après l'installation de ces organes d'équilibrage.
 
 4. Durée de vie conventionnelle : 10 ans.
 
@@ -262,23 +158,23 @@ Afin  de prouver que les organes d'équilibrage assurent une température  unifo
 <td align="center">ZONE CLIMATIQUE  </td>
 <td align="center">MONTANT EN kWh CUMAC <br/>par appartement </td>
 <td align="center"/>
-<td align="center"> NOMBRE D'APPARTEMENTS </td>
+<td align="center"> NOMBRE<br/>d'appartements </td>
 </tr>
 <tr>
 <td align="center">H1 </td>
-<td align="center"> 6 700<br/>
+<td align="center"> 13 400<br/>
 </td>
 <td align="center" rowspan="3"> X </td>
 <td align="center" rowspan="3"> N </td>
 </tr>
 <tr>
 <td align="center">H2 </td>
-<td align="center"> 5 500<br/>
+<td align="center"> 11 000<br/>
 </td>
 </tr>
 <tr>
 <td align="center">H3 </td>
-<td align="center"> 3 700<br/>
+<td align="center"> 7 400<br/>
 </td>
 </tr>
 </tbody>

@@ -763,7 +763,7 @@ Y2 % : économie de carburant de  l'huile à tester, mesurée par rapport à l'h
 
 Exemple : un gain constaté de 1,5 % correspond à 48 700 * 1,5 = 73 050 kWh par mètre cube de lubrifiant.
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° TRA-EQ-14
 
@@ -773,53 +773,55 @@ des véhicules de flottes professionnelles
 
 1. Secteur d'application :
 
-Flottes  professionnelles de véhicules répondant à la définition des voitures  particulières selon l'article R. 311-1 du code de la route.
+Flottes  professionnelles de véhicules répondant à la définition des voitures  particulières selon l'article R. 311-1 du Code de la route.
 
 2. Dénomination :
 
-Remplacement des véhicules d'une catégorie de consommation par des véhicules d'une catégorie de consommation inférieure.
+Remplacement des véhicules d'une catégorie de consommation par des véhicules de catégorie de consommation inférieure.
 
 3. Conditions pour la délivrance des certificats :
 
-La  personne qui procède au remplacement des véhicules d'une catégorie de  consommation par des véhicules d'une catégorie de consommation  inférieure est, soit une entreprise, soit un groupement d'entreprises,  soit une collectivité territoriale.
+La  personne qui procède au remplacement des véhicules d'une catégorie de  consommation par des véhicules d'une catégorie de consommation  inférieure est soit une entreprise, soit un groupement d'entreprises.
 
-Seuls les véhicules  renouvelés par d'autres véhicules d'une catégorie de consommation  inférieure sont éligibles à la délivrance de certificats.
+Seuls  les véhicules renouvelés par d'autres véhicules d'une catégorie de  consommation inférieure sont éligibles à la délivrance de certificats.
 
 Le  renouvellement de la flotte est établi à partir de la déclaration de la  taxe sur les véhicules des sociétés (TVS) annuelle (document Cerfa  numéro 2855, partie I), accompagné d'un tableau synthétique final  décrivant les cessions et acquisitions correspondantes.
 
-La  déclaration numéro 2855 permet de déterminer si un véhicule est soumis  ou non au paiement de la TVS et donc s'il est éligible à la délivrance  de certificats selon cette fiche. Notamment, les véhicules loués depuis  moins de trente jours ne paient pas la taxe et ne doivent donc pas être  pris en compte pour la délivrance de certificats.
+La  déclaration numéro 2855 permet de déterminer si un véhicule est soumis  ou non au paiement de la TVS et donc s'il est éligible à la délivrance  de certificats selon cette fiche. Notamment, les véhicules loués depuis  moins de 30 jours ne paient pas la taxe et ne doivent donc pas être pris  en compte pour la délivrance de certificats.
 
-Enfin, pour  limiter d'éventuelles opérations d'achats/ ventes donnant lieu à un  effet d'aubaine, les véhicules achetés ou vendus entre le 15 septembre  et le 15 octobre (inclus) ne donnent pas droit à la délivrance de  certificats.
+Enfin, pour limiter  d'éventuelles opérations d'achats/ventes donnant lieu à un effet  d'aubaine, les véhicules achetés ou vendus entre le 15 septembre et le  15 octobre (inclus), ne donnent pas droit à la délivrance de  certificats.
 
 Si le rôle actif et incitatif du demandeur prend  effet à une date intermédiaire à celle du contenu de la déclaration,  seuls les véhicules faisant l'objet d'une transaction (mise en  circulation ou restitution) à partir de cette date sont pris en compte.
 
-4. Durée de vie conventionnelle : 3 ans (location longue durée : LLD) et 8 ans (flottes privées d'entreprises).
+4. Durée de vie conventionnelle :
+
+3 ans (location longue durée : LLD) et 8 ans (flottes privées d'entreprises).
 
 5. Montant de certificats en kWh cumac :
 
 Pour  évaluer l'économie d'énergie réalisée, il faut établir la moyenne de la  consommation de la flotte revendue et celle de la flotte nouvellement  immatriculée. Le principe de calcul ci-dessous ne s'applique qu'à des  véhicules effectivement remplacés par d'autres véhicules de catégories  de consommation inférieures. Soit :
 
-C = [0,60 × NA + 0,73 × NB + 0,87 × NC + ND + 1,2 × NE + 1,5 × NF + 1,83 × NG]/ N
+C = [ 0,60 × NA + 0,73 × NB + 0,87 × NC + ND + 1,2 × NE + 1,5 × NF + 1,83 × NG ]/N
 
 Avec :
 
--  NX, le nombre de véhicules de la classe X (X varie de A à F), remplacés  par des véhicules de catégories de consommation inférieures au sein de  la flotte :
+NX,  le nombre de véhicules de la classe X (X varie de A à F), remplacés par  des véhicules de catégories de consommation inférieures au sein de la  flotte ;
 
-- N, la somme des NX.
+N, la somme des NX.
 
 La variation de consommation moyenne P (en %) vaut :
 
-P = [[Ci - Cf]/ Ci] × 100
+P = [ [Ci - Cf]/Ci ] × 100
 
 Avec :
 
-- Ci, la consommation de la flotte initiale revendue ;
+Ci, la consommation de la flotte initiale revendue ;
 
-- Cf, la consommation de la flotte finale nouvellement immatriculée.
+Cf, la consommation de la flotte finale nouvellement immatriculée.
 
 Le montant de certificats à attribuer correspond au calcul suivant : 600 × P × N.
 
-Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules de  la flotte cédée comme pour ceux de la flotte acquise. Cette feuille de  calcul est disponible sur le site internet de la direction générale de  l'énergie et du climat du ministère chargé de l'énergie, elle donne le  résultat final du calcul sous cette forme (exemple pour 14 véhicules) :
+Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules de  la flotte cédée comme pour ceux de la flotte acquise. Cette feuille de  calcul est disponible sur le site internet de la Direction générale de  l'énergie et du climat du ministère chargé de l'énergie, elle donne le  résultat final du calcul sous cette forme (exemple pour 14 véhicules) :
 
 <table>
 <tbody>
@@ -889,7 +891,7 @@ Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules de 
 </tbody>
 </table>
 
-Pour la déclaration, il convient de prendre en compte le chiffre figurant dans la case jaune.
+C'est le chiffre indiqué dans la case jaune qu'il faut prendre en compte pour la déclaration.
 
 <table>
 <tbody>
@@ -987,9 +989,393 @@ Valable pour les opérations engagées jusqu'au 30 décembre 2013 (la veille de 
 </tr>
 </tbody>
 </table>
+<div/>
+<div/>
+<div>Certificats d'économies d'énergie</div>
+
+Opération n° TRA-EQ-16
+
+Remotorisation d'une unité de transport fluvial
+
+1. Secteur d'application :
+
+Transport de marchandises par voie fluviale.
+
+2. Dénomination :
+
+Remotorisation  d'une unité de transport fluvial. Cette opération désigne le  changement, à puissance équivalente (avec une tolérance de + 5 %) ou  inférieure, d'un moteur effectué sur une unité de transport fluvial.
+
+3. Conditions pour la délivrance de certificats :
+
+Le moteur installé doit a minima répondre aux spécifications de la norme dite  CCNR II , définie par la directive 97/68/CE.
+
+La  remotorisation d'une unité de transport fluvial n'est éligible que sur  des moteurs ayant plus de cinq ans de fonctionnement pour l'unité  désignée.
+
+Le demandeur fournit les éléments suivants :
+
+- une  copie de l'étude synthétique de rendement de l'unité de transport  fluvial montrant notamment l'adaptation du nouveau moteur et son point  de fonctionnement à l'usage de l'unité fluviale et à la chaîne  propulsive. Cette étude montrera en particulier l'optimisation du point  de vue de la consommation en carburant et proposera un choix de moteurs ;
+
+-  une attestation de conformité fournie par un organisme professionnel  (organisme de contrôle, motoriste, prestataire habilité, etc.)  certifiant que le nouveau moteur installé :
+
+1. Est conforme aux recommandations de l'étude ;
+
+2. Est de puissance équivalente (avec une tolérance de + 5 %) ou inférieure à celle de l'ancien moteur ;
+
+3. Répond a minima aux spécifications de la norme dite  CCNR II , définie par la directive 97/68/CE ;
+
+-  une copie de la facture du changement de moteur indiquant le modèle de  moteur installé et sa puissance (à défaut ces indications peuvent  également figurer sur une documentation technique ou commerciale liée à  la facture par le modèle de moteur installé) ;
+
+- un relevé de  trafic à réaliser avant le dépôt de la demande de CEE, faisant  apparaître les t.km (tonnes - kilomètres) fluviales réalisées sur six  mois consécutifs par l'unité de transport fluvial ayant bénéficié de la  remotorisation ; le relevé doit être certifié conforme par Voies  navigables de France et les t.km doivent être réalisées sur le  territoire français dans un délai inférieur à un an après la  remotorisation ;
+
+- une copie de tout titre de navigation  permettant de justifier de l'immatriculation de l'unité de transport  fluvial et de sa capacité de chargement ou de sa puissance.
+
+L'automoteur ou le pousseur devra être identifié sur les différents documents fournis.
+
+4. Durée de vie conventionnelle : 30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Ga × TK
+
+Avec :
+
+Ga : gain énergétique net actualisé par type d'unité de transport fluvial et par bassin de navigation, en kWh cumac/t.km.
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="2">GA </td>
+<td align="center">SEINE </td>
+<td align="center">RHÔNE </td>
+<td align="center">NORD - PAS-DE-CALAIS </td>
+<td align="center"> RHIN/MOSELLE</td>
+<td align="center">INTERBASSIN </td>
+</tr>
+<tr>
+<td align="center" rowspan="5">Automoteur (*) </td>
+<td align="center">&lt; 400 t </td>
+<td align="center"> 0,47</td>
+<td align="center"> 0,53</td>
+<td align="center">0,47 <br/>
+</td>
+<td align="center">0,56 <br/>
+</td>
+<td align="center">0,51 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">400 - 650 t </td>
+<td align="center"> 0,43</td>
+<td align="center"> 0,46</td>
+<td align="center"> 0,43</td>
+<td align="center"> 0,55</td>
+<td align="center"> 0,47</td>
+</tr>
+<tr>
+<td align="center">651 - 1 000 t </td>
+<td align="center"> 0,38</td>
+<td align="center"> 0,40</td>
+<td align="center"> 0,40</td>
+<td align="center"> 0,48</td>
+<td align="center"> 0,42</td>
+</tr>
+<tr>
+<td align="center">1 001 - 1 500 t </td>
+<td align="center"> 0,21</td>
+<td align="center"> 0,22</td>
+<td align="center"> 0,37</td>
+<td align="center"> 0,43</td>
+<td align="center"> 0,30</td>
+</tr>
+<tr>
+<td align="center">&gt; 1 500 t </td>
+<td align="center"> 0,19</td>
+<td align="center"> 0,21</td>
+<td align="center"> 0,34</td>
+<td align="center"> 0,36</td>
+<td align="center"> 0,26</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Pousseur </td>
+<td align="center">295 - 590 kW </td>
+<td align="center"> 0,26</td>
+<td align="center"> 0,30</td>
+<td align="center"> 0,27</td>
+<td align="center">ND </td>
+<td align="center"> 0,27</td>
+</tr>
+<tr>
+<td align="center">591 - 880 kW </td>
+<td align="center"> 0,24</td>
+<td align="center"> 0,28</td>
+<td align="center"> 0,23</td>
+<td align="center">ND </td>
+<td align="center"> 0,24</td>
+</tr>
+<tr>
+<td align="center">&gt; 880 kW </td>
+<td align="center"> 0,16</td>
+<td align="center"> 0,19</td>
+<td align="center"> 0,19</td>
+<td align="center"> 0,27</td>
+<td align="center"> 0,21</td>
+</tr>
+<tr>
+<td colspan="7">(*) Capacité de chargement du bateau (tonnage maximal).<br/>
+</td>
+</tr>
+</tbody>
+</table>
+<div>TK : t.km relevées sur une période de six mois à compter de la remotorisation × 2.</div>
+<div/>
+<div/>
+<div/>
+<div align="left">Certificats d'économies d'énergie</div>
+
+Opération n° TRA-EQ-17
+
+Changement de catégorie de consommation des véhicules
+
+(hors flottes professionnelles)
+
+1. Secteur d'application :
+
+Véhicules  répondant à la définition des voitures particulières selon l'article R.  311-1 du code de la route (hors flottes professionnelles).
+
+2. Dénomination :
+
+Remplacement de véhicules d'une catégorie de consommation par des véhicules de catégorie de consommation inférieure neufs.
+
+3. Conditions pour la délivrance de certificats :
+
+La  personne qui procède au remplacement des véhicules d'une catégorie de  consommation par des véhicules d'une catégorie de consommation  inférieure n'est ni une entreprise, ni un groupement d'entreprises. Les  bénéficiaires de cette fiche sont donc, par exemple, les particuliers,  les collectivités territoriales ou l'Etat.
+
+Les véhicules privés  acquis dans le cadre d'une flotte d'entreprise et faisant l'objet d'une  déclaration TVS ne sont pas concernés.
+
+Le dossier de demande doit comporter :
+
+-  une copie barrée de la ou des carte(s) grise(s) du ou des véhicule(s)  qui a (ont) été vendu(s) par le bénéficiaire, pour le ou les remplacer  par un ou des véhicule(s) neuf(s) ;
+
+- une copie de la ou des nouvelle(s) carte(s) grise(s).
+
+Dans le cas d'une déclaration groupée, un tableau synthétique final est à joindre au dossier de demande.
+
+4. Durée de vie conventionnelle : 8 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Déclaration individuelle (pour un remplacement) :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MONTANT<br/>en kWh cumac </td>
+<td align="center"/>
+<td align="center">GAIN MOYEN<br/>en consommation </td>
+</tr>
+<tr>
+<td align="center"> 600</td>
+<td align="center"> x</td>
+<td align="center">P% </td>
+</tr>
+</tbody>
+</table>
+
+P% : gain moyen en consommation qui s'obtient à partir du tableau des catégories de consommation de véhicules :
+
+<table>
+<tbody>
+<tr>
+<td align="center">VÉHICULE NEUF/VÉHICULE VENDU </td>
+<td align="center">B <br/>
+</td>
+<td align="center">C <br/>
+</td>
+<td align="center">D <br/>
+</td>
+<td align="center">E <br/>
+</td>
+<td align="center">F <br/>
+</td>
+<td align="center">G <br/>
+</td>
+</tr>
+<tr>
+<td align="center">A <br/>
+</td>
+<td align="center">18 % <br/>
+</td>
+<td align="center">31 % <br/>
+</td>
+<td align="center">40 % <br/>
+</td>
+<td align="center">50 % <br/>
+</td>
+<td align="center">60 % <br/>
+</td>
+<td align="center">67 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">B</td>
+<td align="center"/>
+<td align="center">15 %</td>
+<td align="center"> 27 %</td>
+<td align="center"> 39 %</td>
+<td align="center"> 51 %</td>
+<td align="center"> 60 %</td>
+</tr>
+<tr>
+<td align="center">C<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 13 %</td>
+<td align="center"> 28 %</td>
+<td align="center"> 42 %</td>
+<td align="center"> 53 %</td>
+</tr>
+<tr>
+<td align="center">D <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 17 %</td>
+<td align="center"> 33 %</td>
+<td align="center"> 45 %</td>
+</tr>
+<tr>
+<td align="center">E <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 20 %</td>
+<td align="center"> 34 %</td>
+</tr>
+<tr>
+<td align="center">F <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 18 %</td>
+</tr>
+</tbody>
+</table>
+
+Déclaration groupée (pour plusieurs remplacements) :
+
+Pour  évaluer l'économie d'énergie réalisée, il faut établir la moyenne de la  consommation des véhicules revendus et celle des véhicules nouvellement  immatriculés. Le principe de calcul ci-dessous ne s'applique qu'à des  véhicules effectivement remplacés par d'autres véhicules de catégories  de consommation inférieures. Soit :
+
+C = [0,60 × NA + 0,73 × NB + 0,87 × NC + ND + 1,2 × NE + 1,5 × NF + 1,83 × NG]/N
+
+Avec :
+
+NX,  le nombre de véhicules de la classe X (X varie de A à F), remplacés par  des véhicules de catégories de consommation inférieures au sein de la  flotte ;
+
+N, la somme des NX.
+
+La variation de consommation moyenne P (en %) vaut :
+
+P = [ [Ci - Cf]/Ci ] × 100
+
+Avec :
+
+Ci, la consommation des véhicules revendus ;
+
+Cf, la consommation des véhicules nouvellement immatriculés.
+
+Le montant de certificats à attribuer correspond au calcul suivant : 600 × P × N.
+
+Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules  cédés comme pour les véhicules acquis. Cette feuille de calcul est  disponible sur le site internet de la direction générale de l'énergie et  du climat du ministère chargé de l'énergie, elle donne le résultat  final du calcul sous cette forme (exemple pour 14 véhicules) :
+
+<table>
+<tbody>
+<tr>
+<td align="center">Cession retenues  </td>
+<td align="center">0 <br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">13 <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">0 <br/>
+</td>
+<td align="center">14 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Acquisition  </td>
+<td align="center">0</td>
+<td align="center"> 0</td>
+<td align="center"> 13</td>
+<td align="center"> 1</td>
+<td align="center"> 0</td>
+<td align="center"> 0</td>
+<td align="center"> 0</td>
+<td align="center"> 14</td>
+</tr>
+</tbody>
+</table>
+
+C'est le chiffre indiqué dans la case jaune qu'il faut prendre en compte pour la déclaration.
+
+<table>
+<tbody>
+<tr>
+<td align="center">Ci  </td>
+<td align="center">14,2 </td>
+</tr>
+<tr>
+<td align="center">Cf  </td>
+<td align="center">12,3 </td>
+</tr>
+<tr>
+<td align="center">P % </td>
+<td align="center">13,3 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>kWh cumac  </td>
+<td>111 803 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+C'est le chiffre indiqué dans la case jaune qu'il faut prendre en compte pour la déclaration.
+
+<table>
+<tbody>
+<tr>
+<td>Montant en kWh cumac </td>
+<td>Résultat final donné<br/>par la feuille de calcul </td>
+</tr>
+</tbody>
+</table>
 <div>
 <br/>
 </div>
+<div/>
+<div/>
+<div/>
+<div/>
+<div/>
 <div align="left"/>
 <div align="left"/>
 <div align="left">

@@ -321,167 +321,142 @@ Opération n°IND-UT-07
 <div align="left">
 <p>Opération n° IND-UT-08</p>
 <p>(Supprimé) </p>
+<br/>
+<br/>
 </div>
-<div align="left">Certificats d'économies d'énergie </div>
-<div align="left">
-<p>Opération n° IND-UT-09</p>
-<p>Récupérateur de chaleur sur un compresseur d'air  comprimé<br clear="none"/>pour le chauffage de locaux<br clear="none"/>
-</p>
-</div>
+<div align="left">Certificats d'économies d'énergie</div>
+
+Opération n° IND-UT-09
+
+Récupérateur de chaleur sur un compresseur d'air comprimé pour le chauffage de locaux ou la production d'eau chaude sanitaire
 
 1. Secteur d'application :
 
 Industrie.
 
-2.  Dénomination :
+2. Dénomination :
 
-Installation d'un récupérateur de chaleur sur un  compresseur d'air pour le chauffage de locaux sur un site industriel.
+Installation  d'un récupérateur de chaleur sur un compresseur d'air pour le chauffage  de locaux ou la production d'eau chaude sanitaire sur un site  industriel.
 
 3. Conditions pour la délivrance de certificats :
 
-Sans  objet.
+Sans objet.
 
-4. Durée de vie conventionnelle :
-
-10 ans.
+4. Durée de vie conventionnelle : 10 ans.
 
 5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<th>RÉFRIGÉRANT<br clear="none"/>
-</th>
-<th>MODE DE FONCTIONNEMENT<br clear="none"/>
-</th>
-<th colspan="5">ÉCONOMIE D'ÉNERGIE (kWh cumac)<br clear="none"/>
-</th>
-</tr>
-<tr>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>
-</th>
-<th>Puissance<br clear="none"/>nominale<br clear="none"/>du moteur<br clear="none"/>en  kW<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>
-</th>
-<th colspan="3">Zone climatique<br clear="none"/>
-</th>
-</tr>
-<tr>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>
-</th>
-<th>H1<br clear="none"/>
-</th>
-<th>H2<br clear="none"/>
-</th>
-<th>H3<br clear="none"/>
-</th>
-</tr>
-<tr>
-<td align="center" rowspan="4">Récupération sur réfrigérant d'huile<br clear="none"/>
+<td align="center" rowspan="3">RÉFRIGÉRANT </td>
+<td align="center" rowspan="3">MODE<br clear="none"/>de fonctionnement du site<br clear="none"/>
 </td>
-<td align="center">1 × 8<br clear="none"/>
-</td>
-<td align="center" rowspan="8">
-<br clear="none"/>P<br clear="none"/>
-</td>
-<td align="center" rowspan="8">
-<br clear="none"/>
-<b>X</b>
-<br clear="none"/>
-</td>
-<td align="center">5 400<br clear="none"/>
-</td>
-<td align="center">5 000<br clear="none"/>
-</td>
-<td align="center">4 300<br clear="none"/>
+<td align="center" colspan="5"> MONTANT DE CERTIFICATS<br clear="none"/>en kWh cumac<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">2 × 8<br clear="none"/>
+<td align="center" rowspan="2"> Puissance nominale<br clear="none"/>du moteur<br clear="none"/>(en kW)<br clear="none"/>
 </td>
-<td align="center">12 900<br clear="none"/>
+<td align="center"/>
+<td align="center" colspan="3">Zone climatique </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"> H1</td>
+<td align="center">H2 <br clear="none"/>
 </td>
-<td align="center">12 000<br clear="none"/>
-</td>
-<td align="center">10 200<br clear="none"/>
+<td align="center">H3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">3 × 8 arrêt le week-end<br clear="none"/>
+<td align="left" rowspan="4">Récupération sur réfrigérant d'huile </td>
+<td align="center">1 × 8 h </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 5 400<br clear="none"/>
 </td>
-<td align="center">16 600<br clear="none"/>
+<td align="center">5 000 <br clear="none"/>
 </td>
-<td align="center">15 600<br clear="none"/>
-</td>
-<td align="center">13 200<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">3 × 8 sans arrêt le week-end<br clear="none"/>
-</td>
-<td align="center">22 500<br clear="none"/>
-</td>
-<td align="center">21 100<br clear="none"/>
-</td>
-<td align="center">17 900<br clear="none"/>
+<td align="center">4 300 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">Récupération sur réfrigérant d'air<br clear="none"/>
+<td align="center"> 2 × 8 h</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 12 900<br clear="none"/>
 </td>
-<td align="center">1 × 8<br clear="none"/>
+<td align="center"> 12 000<br clear="none"/>
 </td>
-<td align="center">5 500<br clear="none"/>
-</td>
-<td align="center">5 200<br clear="none"/>
-</td>
-<td align="center">4 400<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">2 × 8<br clear="none"/>
-</td>
-<td align="center">13 200<br clear="none"/>
-</td>
-<td align="center">12 400<br clear="none"/>
-</td>
-<td align="center">10 500<br clear="none"/>
+<td align="center"> 10 200<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">3 × 8 arrêt le week-end<br clear="none"/>
+<td align="center">3 × 8 h avec arrêt le week-end </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 16 600<br clear="none"/>
 </td>
-<td align="center">17 100<br clear="none"/>
+<td align="center"> 15 600<br clear="none"/>
 </td>
-<td align="center">16 000<br clear="none"/>
-</td>
-<td align="center">13 600<br clear="none"/>
+<td align="center"> 13 200<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">3 × 8 sans arrêt le week-end<br clear="none"/>
+<td align="center">3 × 8 h sans arrêt le week-end </td>
+<td align="center"> P</td>
+<td align="center"> x</td>
+<td align="center"> 22 500<br clear="none"/>
 </td>
-<td align="center">23 100<br clear="none"/>
+<td align="center"> 21 100<br clear="none"/>
 </td>
-<td align="center">21 700<br clear="none"/>
+<td align="center"> 17 900<br clear="none"/>
 </td>
-<td align="center">18 400<br clear="none"/>
+</tr>
+<tr>
+<td align="left" rowspan="4">Récupération sur réfrigérant d'air </td>
+<td align="center">1 × 8 h </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 5 500<br clear="none"/>
+</td>
+<td align="center"> 5 200<br clear="none"/>
+</td>
+<td align="center"> 4 400<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">2 × 8 h </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 13 200<br clear="none"/>
+</td>
+<td align="center"> 12 400<br clear="none"/>
+</td>
+<td align="center"> 10 500<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">3 × 8 h avec arrêt le week-end </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 17 100<br clear="none"/>
+</td>
+<td align="center"> 16 000<br clear="none"/>
+</td>
+<td align="center"> 13 600<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">3 × 8 h sans arrêt le week-end </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 23 100<br clear="none"/>
+</td>
+<td align="center"> 21 700<br clear="none"/>
+</td>
+<td align="center"> 18 400<br clear="none"/>
 </td>
 </tr>
 </tbody>
@@ -1389,7 +1364,7 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° IND-UT-21
 
@@ -1401,11 +1376,11 @@ Industrie.
 
 2. Dénomination :
 
-Installation  de matelas isolants souples, démontables pour l'isolation de points  singuliers (robinets, vannes, filtres, brides etc.) dans les réseaux de  fluides caloporteurs.
+Installation  de matelas isolants souples, démontables pour l'isolation de points  singuliers (robinets, vannes, filtres, brides, etc.) dans les réseaux de  fluides caloporteurs.
 
 3. Conditions pour la délivrance de certificats :
 
-Les matelas doivent être certifiés conforme 2.2, selon la norme NF EN 10204.
+Le certificat de conformité 2.2, selon la norme NF L. 00-015C, doit être fourni.
 
 Mise en place réalisée par un professionnel.
 
@@ -1423,46 +1398,295 @@ Mise en place réalisée par un professionnel.
 <td align="center">NOMBRE DE POINTS <br clear="none"/>singuliers isolés  </td>
 </tr>
 <tr>
-<td align="center">Vapeur  </td>
-<td align="center">1 × 8 heures  </td>
+<td align="center" rowspan="3">Vapeur  </td>
+<td align="center">1 × 8 h</td>
 <td align="center"> 19   300 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"> 3 × 8 heures avec arrêt le week-end ou 2 × 8 heures </td>
+<td align="center"> 3 × 8 h avec arrêt le week-end ou 2x8 h</td>
 <td align="center"> 48   300 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">3 × 8 heures sans arrêt le week-end  </td>
+<td align="center">3 × 8 h sans arrêt le week-end  </td>
 <td align="center"> 77   300 </td>
 <td align="center">×  </td>
 <td align="center">N  </td>
 </tr>
 <tr>
-<td align="center">Eau chaude  </td>
-<td align="center">1 × 8 heures  </td>
+<td align="center" rowspan="3">Eau chaude  </td>
+<td align="center">1 × 8 h</td>
 <td align="center"> 3   900 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">3 × 8 heures avec arrêt le week-end ou 2 × 8 heures  </td>
+<td align="center">3 × 8 h avec arrêt le week-end ou 2 x 8 h  </td>
 <td align="center">9   700  </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">3 × 8 heures sans arrêt le week-end  </td>
+<td align="center">3 × 8 h sans arrêt le week-end </td>
 <td align="center">15   500  </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-22
+
+Sécheur d'air comprimé à haute efficacité énergétique
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation d'un sécheur à adsorption utilisant un apport de chaleur pour la régénération du sécheur.
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle : 15 ans
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MODE DE FONCTIONNEMENT<br clear="none"/>du site </td>
+<td align="center">MONTANT UNITAIRE<br clear="none"/>en kWh cumac/kW </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">1 × 8<br clear="none"/>
+</td>
+<td align="center">2 050 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">2 × 8 </td>
+<td align="center">5 100 </td>
+<td align="center"> x</td>
+<td align="center">P<sub>compresseur(s)</sub>
+</td>
+</tr>
+<tr>
+<td align="center">3 × 8 avec arrêt le week-end </td>
+<td align="center">6 300 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 3 × 8 sans arrêt le week-end</td>
+<td align="center">8 150 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél ou dans les données techniques du fabricant.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-23
+
+Moteur Premium IE3
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un moteur Premium appartenant à la classe de rendement IE3.
+
+3. Conditions pour la délivrance de certificats :
+
+Le label IE3 doit figurer sur la plaque du moteur.
+
+Pour  les moteurs d'une puissance comprise entre 0,75 kW et 7,5 kW, seules  les opérations engagées avant le 1er janvier 2017 donnent lieu à la  délivrance de certificats d'économies d'énergie.
+
+Pour les moteurs  d'une puissance supérieure à 7,5 kW, seules les opérations engagées  avant le 1er janvier 2015 donnent lieu à la délivrance de certificats  d'économies d'énergie.
+
+4. Durée de vie conventionnelle :
+
+15 ans pour des moteurs de puissance inférieure ou égale à 15 kW.
+
+20 ans pour des moteurs de puissance supérieure à 15 kW.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">PUISSANCE DU MOTEUR<br clear="none"/>Pn en kW <br clear="none"/>
+</td>
+<td align="center">POMPES, VENTILATEURS,<br clear="none"/>compresseurs </td>
+<td align="center">AUTRES MOTEURS </td>
+</tr>
+<tr>
+<td align="center">Pour Pn ≤ 15 kW </td>
+<td align="center">720 × Pn + 1 600<br clear="none"/>
+</td>
+<td align="center"> 460 × Pn + 1 000</td>
+</tr>
+<tr>
+<td align="center">Pour Pn &gt; 15 kW </td>
+<td align="center">470 × Pn + 7 800 </td>
+<td align="center">300 × Pn + 5 100 </td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-24
+
+Séquenceur électronique pour le pilotage
+
+d'une centrale de production d'air comprimé
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation  d'un séquenceur électronique assurant le pilotage centralisé des  compresseurs d'une centrale de production d'air comprimé.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">TYPE<br clear="none"/>de séquenceur<br clear="none"/>
+</td>
+<td align="center">NOMBRE<br clear="none"/>de compresseurs pilotés </td>
+<td align="center">MONTANT UNITAIRE<br clear="none"/>en kWh cumac/kW </td>
+<td align="center"/>
+<td align="center">PUISSANCE TOTALE<br clear="none"/>des compresseurs pilotés (kW) <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="7">Séquenceur simple sans option<br clear="none"/>"optimisation d'énergie"<br clear="none"/>
+</td>
+<td align="center"> 2</td>
+<td align="center"> 550</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 3</td>
+<td align="center"> 1 100<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 4</td>
+<td align="center"> 1 650<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 5</td>
+<td align="center"> 2 200<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 6</td>
+<td align="center"> 2 700<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 7</td>
+<td align="center"> 3 200<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 8</td>
+<td align="center"> 3 700<br clear="none"/>
+</td>
+<td align="center"> x</td>
+<td align="center">  N </td>
+</tr>
+<tr>
+<td align="center" rowspan="7">Séquenceur avec option<br clear="none"/>"optimisation d'énergie" </td>
+<td align="center"> 2</td>
+<td align="center"> 2 500<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 3</td>
+<td align="center"> 3 050<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 4</td>
+<td align="center"> 3 600<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 5</td>
+<td align="center"> 4 100<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 6</td>
+<td align="center"> 4 700<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 7</td>
+<td align="center"> 5 200<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+<tr>
+<td align="center"> 8</td>
+<td align="center"> 5 700<br clear="none"/>
+</td>
+<td align="center"/>
+<td/>
+</tr>
+</tbody>
+</table>
+
+La  puissance totale des compresseurs pilotés est la somme des puissances  électriques en kWélec indiquées sur la (ou les) plaque(s) ou dans les  données techniques des compresseurs pilotés par le séquenceur.

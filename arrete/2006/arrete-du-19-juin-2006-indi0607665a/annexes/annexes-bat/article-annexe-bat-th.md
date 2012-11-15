@@ -1907,12 +1907,13 @@ Mise en place réalisée par un professionnel.
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
-
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-08
 
-Programmateur d'intermittence sur une chaudière existante pour un chauffage central à combustible
+Programmateur d'intermittence sur une chaudière existante
+
+pour un chauffage collectif
 
 1. Secteur d'application :
 
@@ -1920,7 +1921,7 @@ Locaux  du secteur tertiaire existants réservés à une utilisation  profession
 
 2. Dénomination :
 
-Mise  en place d'un programmateur d'intermittence à heures fixes sur une  chaudière existante pour un système de chauffage central à combustible.
+Mise  en place d'un programmateur d'intermittence à heures fixes sur un  circuit de chauffage existant pour un système de chauffage collectif.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -1935,12 +1936,12 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center" colspan="3">
 <font size="3">
-<b>MONTANT UNITAIRE EN kWh CUMAC/m²</b>
+<b>MONTANT UNITAIRE EN kWh CUMAC PAR M²</b>
 </font>
 <br clear="none"/>
 </td>
 <td/>
-<th>SURFACE chauffée (m²)<br clear="none"/>
+<th>SURFACE <br clear="none"/>chauffée (m²)<br clear="none"/>
 </th>
 <td/>
 <th>SECTEUR<br clear="none"/>d'activité<br clear="none"/>
@@ -1975,15 +1976,9 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">110<br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
+<td align="center"> ×</td>
+<td align="center"> S</td>
+<td align="center"> ×</td>
 <td align="center">Enseignement<br clear="none"/>
 </td>
 <td align="center">0,8<br clear="none"/>
@@ -1995,11 +1990,14 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">70<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">S<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
 <td align="center">Commerces<br clear="none"/>
 </td>
@@ -2023,7 +2021,7 @@ Mise en place réalisée par un professionnel.
 <td align="center">
 <br clear="none"/>
 </td>
-<td align="center">Hôtellerie-restauration<br clear="none"/>
+<td align="center">Hôtellerie, restauration<br clear="none"/>
 </td>
 <td align="center">1,4<br clear="none"/>
 </td>
@@ -2085,14 +2083,13 @@ Mise en place réalisée par un professionnel.
 <div align="left"/>
 <div align="center"/>
 <div align="center"/>
-
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-08-GT
 
 Programmateur d'intermittence sur une chaudière existante
 
-pour un chauffage central à combustible dans un bâtiment de grande taille
+pour un chauffage collectif dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
@@ -2100,7 +2097,7 @@ Locaux  du secteur tertiaire existants réservés à une utilisation  profession
 
 2. Dénomination :
 
-Mise en  place d'un programmateur d'intermittence à heures fixes sur une  chaudière existante pour un système de chauffage central à combustible.
+Mise en place d'un  programmateur d'intermittence à heures fixes sur un circuit de chauffage  existant pour un système de chauffage collectif.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2115,12 +2112,12 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center" colspan="3">
 <font size="3">
-<b>MONTANT UNITAIRE EN kWh CUMAC/m²</b>
+<b>MONTANT UNITAIRE EN kWh CUMAC PAR M²</b>
 </font>
 <br clear="none"/>
 </td>
 <td/>
-<th>SURFACE chauffée (m²)<br clear="none"/>
+<th>SURFACE <br clear="none"/>chauffée (m²)<br clear="none"/>
 </th>
 <td/>
 <th>SECTEUR<br clear="none"/>d'activité<br clear="none"/>
@@ -2155,15 +2152,9 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">90<br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
+<td align="center"> ×</td>
+<td align="center"> S</td>
+<td align="center"> ×</td>
 <td align="center">Enseignement<br clear="none"/>
 </td>
 <td align="center">0,7<br clear="none"/>
@@ -2175,11 +2166,14 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">60<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">S<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
 <td align="center">Commerces<br clear="none"/>
 </td>
@@ -2203,7 +2197,7 @@ Mise en place réalisée par un professionnel.
 <td align="center">
 <br clear="none"/>
 </td>
-<td align="center">Hôtellerie-restauration<br clear="none"/>
+<td align="center">Hôtellerie, restauration<br clear="none"/>
 </td>
 <td align="center">1,4<br clear="none"/>
 </td>
@@ -2265,7 +2259,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-09
 
-Optimiseur de relance pour un chauffage central à combustible
+Optimiseur de relance pour un chauffage collectif
 
 1. Secteur d'application :
 
@@ -2273,7 +2267,7 @@ Locaux  du secteur tertiaire existants réservés à une utilisation  profession
 
 2. Dénomination :
 
-Mise  en place d'un optimiseur de relance équipé d'un programmateur  d'intermittence avec auto adaptation des horaires de changement de phase  de chauffage pour un système de chauffage central à combustible.
+Mise  en place, sur un circuit de chauffage existant, d'un optimiseur de  relance équipé d'un programmateur d'intermittence avec autoadaptation  des horaires de changement de phase de chauffage pour un système de  chauffage collectif.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2288,12 +2282,12 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center" colspan="3">
 <font size="3">
-<b>MONTANT UNITAIRE EN kWh CUMAC/m²</b>
+<b>MONTANT UNITAIRE EN kWh CUMAC PAR M²</b>
 </font>
 <br clear="none"/>
 </td>
 <td/>
-<th>SURFACE chauffée (m²)<br clear="none"/>
+<th>SURFACE <br clear="none"/>chauffée (m²)<br clear="none"/>
 </th>
 <td/>
 <th>SECTEUR<br clear="none"/>d'activité<br clear="none"/>
@@ -2326,15 +2320,9 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">150<br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
+<td align="center"> ×</td>
+<td align="center"> S</td>
+<td align="center"> ×</td>
 <td align="center">Enseignement<br clear="none"/>
 </td>
 <td align="center">0,8<br clear="none"/>
@@ -2345,11 +2333,14 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">100<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">S<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
 <td align="center">Commerces<br clear="none"/>
 </td>
@@ -2373,7 +2364,7 @@ Mise en place réalisée par un professionnel.
 <td align="center">
 <br clear="none"/>
 </td>
-<td align="center">Hôtellerie-restauration<br clear="none"/>
+<td align="center">Hôtellerie, restauration<br clear="none"/>
 </td>
 <td align="center">1,4<br clear="none"/>
 </td>
@@ -2425,13 +2416,13 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-09-GT
 
-Optimiseur de relance pour un chauffage central
+Optimiseur de relance pour un chauffage collectif
 
-à combustible dans un bâtiment de grande taille
+dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
@@ -2439,7 +2430,7 @@ Locaux  du secteur tertiaire existants réservés à une utilisation  profession
 
 2. Dénomination :
 
-Mise en  place d'un optimiseur de relance équipé d'un programmateur  d'intermittence avec auto adaptation des horaires de changement de phase  de chauffage pour un système de chauffage central à combustible.
+Mise en place, sur un circuit  de chauffage existant, d'un optimiseur de relance équipé d'un  programmateur d'intermittence avec autoadaptation des horaires de  changement de phase de chauffage pour un système de chauffage collectif.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2454,11 +2445,11 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center" colspan="3">
 <font size="3">
-<b>MONTANT UNITAIRE EN kWh CUMAC/m²</b>
+<b>MONTANT UNITAIRE EN kWh CUMAC PAR M²</b>
 </font>
 </td>
 <td/>
-<th>SURFACE chauffée (m²)<br clear="none"/>
+<th>SURFACE <br clear="none"/>chauffée (m²)<br clear="none"/>
 </th>
 <td/>
 <th>SECTEUR<br clear="none"/>d'activité<br clear="none"/>
@@ -2493,15 +2484,9 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">130<br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-</td>
+<td align="center"> ×</td>
+<td align="center"> S</td>
+<td align="center"> ×</td>
 <td align="center">Enseignement<br clear="none"/>
 </td>
 <td align="center">0,7<br clear="none"/>
@@ -2513,11 +2498,14 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">80<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">S<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td align="center">×<br clear="none"/>
+<td align="center">
+<br clear="none"/>
 </td>
 <td align="center">Commerces<br clear="none"/>
 </td>
@@ -2541,7 +2529,7 @@ Mise en place réalisée par un professionnel.
 <td align="center">
 <br clear="none"/>
 </td>
-<td align="center">Hôtellerie-restauration<br clear="none"/>
+<td align="center">Hôtellerie, restauration<br clear="none"/>
 </td>
 <td align="center">1,4<br clear="none"/>
 </td>
@@ -4634,53 +4622,66 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
+<div/>
+<div/>
 <div>
 <br clear="none"/>
-<br/>
-<br/>
-<br/>
-<p>Certificats d'économie d'énergie</p>
-<p>Opération n° BAT-TH-18</p>
-<p>Surperformance énergétique pour un bâtiment neuf<br clear="none"/>avec label de haute performance énergétique<br clear="none"/>
-</p>
 </div>
+<div>
+<br/>
+<br/>
+<br/>
+<div align="left">Certificats d'économies d'énergie</div>
+</div>
+
+Opération n° BAT-TH-18
+
+Surperformance énergétique pour un bâtiment neuf
+
+avec label de haute performance énergétique
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : bâtiments neufs  réservés à une utilisation professionnelle.
+Bâtiments du secteur tertiaire neufs réservés à une utilisation professionnelle.
+
+La  fiche est applicable à tout bâtiment tertiaire visé par le décret n°  2010-1269 du 26 octobre 2010 relatif aux caractéristiques thermiques et à  la performance énergétique des constructions, dont le permis de  construire a été déposé avant le 28 octobre 2011, et reste applicable à  tout bâtiment tertiaire non visé par ce décret ou non visé par un  prochain texte réglementaire pris en application de l'article L. 111-9  du code de la construction et de l'habitation.
 
 2. Dénomination :
 
-Amélioration  des performances énergétiques d'un bâtiment par rapport  aux exigences  réglementaires en vigueur au moment du dépôt du permis de  construire, à  partir du 1er septembre 2006, attestée par l'obtention d'un des  labels  haute performance énergétique , défini par l'arrêté du 3 mai 2007 relatif aux  contenus et aux conditions d'attribution de ce label.
+Amélioration  des performances énergétiques d'un bâtiment par rapport aux exigences  réglementaires en vigueur au moment du dépôt du permis de construire, à  partir du 1er septembre 2006, attestée par l'obtention d'un des labels   haute performance énergétique , défini par l'arrêté du 3 mai 2007  relatif aux contenus et aux conditions d'attribution de ce label.
 
-3.  Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats :
 
-Le bâtiment  bénéficie d'un des labels suivants :
+Le bâtiment bénéficie d'un des labels suivants :
 
-― HPE 2005 ;
+HPE 2005 ;
 
-―  THPE 2005 ;
+THPE 2005 ;
 
-― HPE EnR 2005 ;
+HPE EnR 2005 ;
 
-― THPE EnR 2005 ;
+THPE EnR 2005 ;
 
-― BBC 2005.
+BBC 2005.
 
-4. Durée de vie conventionnelle :
-
-35 ans.
+4. Durée de vie conventionnelle : 35 ans.
 
 5. Montant de certificats en kWh cumac :
 
-C'ref  et C'projet sont les valeurs des coefficients Cref et Cprojet  de la  réglementation exprimés en [kWh/m².an] d'énergie finale lorsque les   calculs sont réalisés avec le moteur de calcul RT2005. Shon représente  la  surface hors uvre nette en mètres carrés.
+C'<sub>ref</sub> et C'<sub>projet</sub> sont les valeurs des coefficients C'<sub>ref</sub> et C'<sub>projet</sub>  de la réglementation exprimés en [kWh/m².an] d'énergie finale lorsque  les calculs sont réalisés avec le moteur de calcul RT2005.
 
+S<sub>hon</sub> représente la surface hors œuvre nette en mètres carrés.
+
+<div>
+<br clear="none"/>
+</div>
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>CONDITION SUR<br clear="none"/>(C'ref-C'projet)/C'ref<br clear="none"/>
+<th>CONDITION SUR (C'<sub>ref</sub> - C'<sub>projet</sub>)/C'<sub>ref</sub>
+<br clear="none"/>
 </th>
 <th>kWh CUMAC<br clear="none"/>
 </th>
@@ -4688,7 +4689,7 @@ C'ref  et C'projet sont les valeurs des coefficients Cref et Cprojet  de la  ré
 <tr>
 <td align="center">≥ 0,10<br clear="none"/>
 </td>
-<td align="center">(C'ref-C'projet) × Shon × 19,41<br clear="none"/>
+<td align="center">(C'<sub>ref</sub>-C'<sub>projet</sub>) × S<sub>hon</sub> × 19,41<br clear="none"/>
 </td>
 </tr>
 </tbody>
@@ -5171,23 +5172,59 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 <br/>
 <br/>
 <br/>
-<p align="left">Certificats d'économies d'énergie</p>
-<p align="left">Opération n° BAT-TH-23-GT</p>
-<p align="left">Ventilation mécanique modulée proportionnelle<br clear="none"/>dans bâtiment de grande taille</p>
-<p align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation professionnelle  de surface totale chauffée comprise entre 5  000 et 10 000 m².<br clear="none"/>2.  Dénomination :<br clear="none"/>Mise en place d'une ventilation mécanique modulée  proportionnelle (simple flux ou double flux).<br clear="none"/>Le système  proportionnel asservit le débit de ventilation en fonction du nombre d'occupants  réel du local.<br clear="none"/>3. Conditions pour la délivrance de certificats  :<br clear="none"/>Les  systèmes de ventilation doivent bénéficier d'un avis  technique (Atec)  en cours de validité ou avoir des caractéristiques de  performance et de  qualité équivalentes établies par un mode de preuve légal dans  un Etat  membre de l'Union européenne ou un Etat partie à l'accord instituant   l'Espace économique européen ou en Turquie.<br clear="none"/>Mise en place réalisée  par un professionnel.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>16 ans.<br clear="none"/>5. Montant de certificats en kWh cumac :</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="left">Certificats d'économies d'énergie</div>
+</div>
+
+Opération n° BAT-TH-23-GT
+
+Ventilation mécanique modulée proportionnelle
+
+dans un bâtiment de grande taille
+
+1. Secteur d'application :
+
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée comprise entre 5 000 m² et  10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique modulée proportionnelle (simple flux ou double flux).
+
+3. Conditions pour la délivrance de certificats :
+
+Le  système de ventilation bénéficie d'un avis technique en cours de  validité du CSTB ou dispose de caractéristiques de performance et de  qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+Le système proportionnel asservit le débit de ventilation en fonction du nombre d'occupants réel du local.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div>
+<br clear="none"/>
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="3">MONTANT<br clear="none"/>en kWh cumac/m²<br clear="none"/>
+<td align="center" colspan="3">MONTANT EN kWh CUMAC PAR M²<br clear="none"/>
 </td>
-<td align="center" rowspan="7">
+<td align="center" rowspan="6">
 <br clear="none"/>X<br clear="none"/>
 </td>
-<td align="center" rowspan="3">TYPE DE LOCAUX<br clear="none"/>
+<td align="center" rowspan="2">TYPE<br clear="none"/>de locaux<br clear="none"/>
 </td>
-<td align="center" rowspan="3">FACTEUR<br clear="none"/>correctif<br clear="none"/>
+<td align="center" rowspan="2">FACTEUR<br clear="none"/>correctif<br clear="none"/>
+</td>
+<td align="center" rowspan="2"/>
+<td align="center" rowspan="3">SURFACE<br clear="none"/>ventilée (m²)<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5200,6 +5237,10 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 </td>
 <td align="center">Combustible<br clear="none"/>
 </td>
+<td align="center"> Cinémas</td>
+<td align="center">1 <br clear="none"/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H1<br clear="none"/>
@@ -5208,9 +5249,11 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 </td>
 <td align="center">2 800<br clear="none"/>
 </td>
-<td align="center">Cinémas<br clear="none"/>
+<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³</td>
+<td align="center">0,6</td>
+<td align="center">x <br clear="none"/>
 </td>
-<td align="center">1<br clear="none"/>
+<td align="center">S <br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5220,10 +5263,10 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 </td>
 <td align="center">2 300<br clear="none"/>
 </td>
-<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³<br clear="none"/>
-</td>
-<td align="center">0,6<br clear="none"/>
-</td>
+<td align="center">Enseignement</td>
+<td align="center">0,3</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H3<br clear="none"/>
@@ -5232,17 +5275,11 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 </td>
 <td align="center">1 500<br clear="none"/>
 </td>
-<td align="center">Enseignement<br clear="none"/>
+<td align="center">Autres locaux <br clear="none"/>
 </td>
-<td align="center">0,3<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3"/>
-<td align="center">Bureaux, restauration,<br clear="none"/>autres locaux (sport  compris)<br clear="none"/>
-</td>
-<td align="center">0,2<br clear="none"/>
-</td>
+<td align="center">0,2</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -5360,23 +5397,44 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
-<div align="center">
 
+<div align="left">
+<br clear="none"/>
+</div>
+<div align="left">
+<br clear="none"/>
+</div>
+<div align="left"/>
+<div align="left">
+<p>Certificats d'économies d'énergie</p>
 </div>
 
-<div align="center"/>
-<div align="center">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<p align="left">Certificats d'économies d'énergie</p>
-<p align="left">Opération n° BAT-TH-24-GT</p>
-<p align="left">Ventilation mécanique modulée à détection<br clear="none"/>de présence dans bâtiment de grande taille</p>
-<p align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une  ventilation mécanique modulée à détection de présence (simple flux ou double  flux).<br clear="none"/>3. Conditions pour la délivrance de certificats :<br clear="none"/>Les  systèmes de ventilation doivent bénéficier d'un avis technique  (Atec)  en cours de validité ou avoir des caractéristiques de performance et de   qualité équivalentes établies par un mode de preuve légal dans un Etat  membre de  l'Union européenne ou un Etat partie à l'accord instituant  l'Espace économique  européen ou en Turquie.<br clear="none"/>Mise en place réalisée par un  professionnel.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>16  ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
-</p>
+Opération n° BAT-TH-24-GT
+
+Ventilation mécanique modulée à détection de présence
+
+dans un bâtiment de grande taille
+
+1. Secteur d'application :
+
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée comprise entre 5 000 m² et  10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique modulée à détection de présence (simple flux ou double flux).
+
+3. Conditions pour la délivrance de certificats :
+
+Le  système de ventilation bénéficie d'un avis technique en cours de  validité du CSTB ou dispose de caractéristiques de performance et de  qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de l'European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div>
+<br clear="none"/>
 <div align="left">
 <br clear="none"/>
 <table>
@@ -5384,13 +5442,15 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center" colspan="3">MONTANT<br clear="none"/>en kWh cumac/m²<br clear="none"/>
 </td>
-<td align="center" rowspan="7">
-<br clear="none"/>X<br clear="none"/>
+<td align="center" rowspan="6">
+<br clear="none"/>x<br clear="none"/>
 </td>
-<td align="center" rowspan="3">TYPE DE LOCAUX<br clear="none"/>
+<td align="center" rowspan="2">TYPE<br clear="none"/>de locaux<br clear="none"/>
 </td>
-<td align="center" rowspan="3">FACTEUR<br clear="none"/>correctif<br clear="none"/>
+<td align="center" rowspan="2">FACTEUR<br clear="none"/>correctif<br clear="none"/>
 </td>
+<td align="center" rowspan="3"/>
+<td align="center" rowspan="3">SURFACE<br clear="none"/>ventilée (m²) </td>
 </tr>
 <tr>
 <td align="center" rowspan="2">Zone climatique</td>
@@ -5401,6 +5461,9 @@ Mise en place réalisée par un professionnel.
 <td align="center">Electricité<br clear="none"/>
 </td>
 <td align="center">Combustible<br clear="none"/>
+</td>
+<td align="center"> Cinémas</td>
+<td align="center">1 <br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5410,9 +5473,10 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">2 000<br clear="none"/>
 </td>
-<td align="center">Cinémas<br clear="none"/>
-</td>
-<td align="center">1<br clear="none"/>
+<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³</td>
+<td align="center">0,6</td>
+<td align="center"> x</td>
+<td align="center">S <br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5422,10 +5486,10 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">1 700<br clear="none"/>
 </td>
-<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³<br clear="none"/>
-</td>
-<td align="center">0,6<br clear="none"/>
-</td>
+<td align="center">Enseignement</td>
+<td align="center">0,4</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H3<br clear="none"/>
@@ -5434,17 +5498,11 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">1 100<br clear="none"/>
 </td>
-<td align="center">Enseignement<br clear="none"/>
+<td align="center">Autres locaux<br clear="none"/>
 </td>
-<td align="center">0,3<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3"/>
-<td align="center">Bureaux, restauration,<br clear="none"/>autres locaux (sport  compris)<br clear="none"/>
-</td>
-<td align="center">0,2<br clear="none"/>
-</td>
+<td align="center">0,2</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -5458,16 +5516,28 @@ Mise en place réalisée par un professionnel.
 <div align="center"/>
 <div align="center"/>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-25
 
-Ventilation mécanique contrôlée
+Ventilation mécanique contrôlée simple flux autoréglable
 
-simple flux autoréglable
+1. Secteur d'application :
 
-<div align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée inférieure à 5  000 m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une ventilation  mécanique contrôlée (VMC) simple flux autoréglable.<br clear="none"/>3. Conditions  pour la délivrance de certificats :<br clear="none"/>Mise en place réalisée par un  professionnel.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>16  ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
-</div>
+Locaux  du secteur tertiaire existants, réservés à une utilisation  professionnelle, de surface totale chauffée inférieure à 5 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
 <div align="left">
 <br clear="none"/>
 <table>
@@ -5475,13 +5545,13 @@ simple flux autoréglable
 <tr>
 <td colspan="3">MONTANT<br clear="none"/>en kWh cumac/m²<br clear="none"/>
 </td>
-<td rowspan="8">
-<br clear="none"/>X<br clear="none"/>
+<td rowspan="7">x</td>
+<td rowspan="2">TYPE<br clear="none"/>de locaux<br clear="none"/>
 </td>
-<td rowspan="3">SECTEUR<br clear="none"/>
+<td rowspan="2">FACTEUR<br clear="none"/>correctif<br clear="none"/>
 </td>
-<td rowspan="3">FACTEUR<br clear="none"/>correctif<br clear="none"/>
-</td>
+<td align="center" rowspan="3"/>
+<td align="center" rowspan="3">SURFACE<br clear="none"/>ventilée (m²) </td>
 </tr>
 <tr>
 <td align="center" rowspan="2">Zone climatique</td>
@@ -5493,6 +5563,8 @@ simple flux autoréglable
 </td>
 <td align="center">Combustible<br clear="none"/>
 </td>
+<td align="center"> Enseignement</td>
+<td align="center"> 1</td>
 </tr>
 <tr>
 <td align="center">H1<br clear="none"/>
@@ -5501,10 +5573,10 @@ simple flux autoréglable
 </td>
 <td align="center">510<br clear="none"/>
 </td>
-<td align="center">Enseignement<br clear="none"/>
-</td>
-<td align="center">1<br clear="none"/>
-</td>
+<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³</td>
+<td align="center">0,6</td>
+<td align="center"> x</td>
+<td align="center"> S</td>
 </tr>
 <tr>
 <td align="center">H2<br clear="none"/>
@@ -5513,10 +5585,11 @@ simple flux autoréglable
 </td>
 <td align="center">420<br clear="none"/>
 </td>
-<td align="center">Salles d'un volume<br clear="none"/>supérieur à 250 m³<br clear="none"/>
+<td align="center">Autres locaux<br clear="none"/>
 </td>
-<td align="center">0,6<br clear="none"/>
-</td>
+<td align="center">0,5</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H3<br clear="none"/>
@@ -5525,21 +5598,17 @@ simple flux autoréglable
 </td>
 <td align="center">280<br clear="none"/>
 </td>
-<td align="center">Restauration, autres locaux<br clear="none"/>
-</td>
-<td align="center">0,5<br clear="none"/>
-</td>
+<td align="center">Bureaux</td>
+<td align="center">0,4</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center" colspan="3" rowspan="2"/>
-<td align="center">Bureaux<br clear="none"/>
-</td>
-<td align="center">0,4<br clear="none"/>
-</td>
-</tr>
-<tr>
+<td align="center" colspan="3"/>
 <td align="center">Locaux sportifs</td>
 <td align="center">0,2</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -5549,11 +5618,37 @@ simple flux autoréglable
 <br/>
 <br/>
 <br/>
-<p align="left">Certificats d'économies d'énergie</p>
-<div align="left">Opération n° BAT-TH-25-GT</div>
-<p align="left">Ventilation mécanique contrôlée<br clear="none"/>simple flux autoréglable dans bâtiment de grande taille</p>
-<div align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une  ventilation mécanique contrôlée (VMC) simple flux autoréglable.<br clear="none"/>3.  Conditions pour la délivrance de certificats :<br clear="none"/>Mise en place  réalisée par un professionnel.<br clear="none"/>4. Durée de vie conventionnelle  :<br clear="none"/>16 ans.<br clear="none"/>5. Montant de certificats en kWh cumac  :<br clear="none"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="left">Certificats d'économies d'énergie</div>
 </div>
+
+Opération n° BAT-TH-25-GT
+
+Ventilation mécanique contrôlée simple flux autoréglable
+
+dans un bâtiment de grande taille
+
+1. Secteur d'application :
+
+Locaux  du secteur tertiaire existants, réservés à une utilisation  professionnelle, de surface totale chauffée comprise entre 5 000 m² et  10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div>
+<br clear="none"/>
 <div align="left">
 <br clear="none"/>
 <table>
@@ -5561,12 +5656,15 @@ simple flux autoréglable
 <tr>
 <td align="center" colspan="3">MONTANT<br clear="none"/>en kWh cumac/m²<br clear="none"/>
 </td>
-<td align="center" rowspan="8">
-<br clear="none"/>X<br clear="none"/>
+<td align="center" rowspan="7">
+<br clear="none"/>x<br clear="none"/>
 </td>
-<td align="center" rowspan="3">SECTEUR<br clear="none"/>
+<td align="center" rowspan="2">TYPE<br clear="none"/>de locaux<br clear="none"/>
 </td>
-<td align="center" rowspan="3">FACTEUR<br clear="none"/>correctif<br clear="none"/>
+<td align="center" rowspan="2">FACTEUR<br clear="none"/>correctif<br clear="none"/>
+</td>
+<td align="center" rowspan="3"/>
+<td align="center" rowspan="3">SURFACE<br clear="none"/>ventilée (m²)<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5579,6 +5677,8 @@ simple flux autoréglable
 </td>
 <td align="center">Combustible<br clear="none"/>
 </td>
+<td align="center"> Enseignement</td>
+<td align="center"> 1</td>
 </tr>
 <tr>
 <td align="center">H1<br clear="none"/>
@@ -5587,9 +5687,11 @@ simple flux autoréglable
 </td>
 <td align="center">350<br clear="none"/>
 </td>
-<td align="center">Enseignement<br clear="none"/>
+<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³</td>
+<td align="center">0,6</td>
+<td align="center">x <br clear="none"/>
 </td>
-<td align="center">1<br clear="none"/>
+<td align="center">S <br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5599,10 +5701,10 @@ simple flux autoréglable
 </td>
 <td align="center">290<br clear="none"/>
 </td>
-<td align="center">Salles d'un volume<br clear="none"/>supérieur à 250 m³<br clear="none"/>
-</td>
-<td align="center">0,6<br clear="none"/>
-</td>
+<td align="center">Autres locaux</td>
+<td align="center">0,6</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H3<br clear="none"/>
@@ -5611,21 +5713,17 @@ simple flux autoréglable
 </td>
 <td align="center">190<br clear="none"/>
 </td>
-<td align="center">Restauration, autres locaux<br clear="none"/>
-</td>
-<td align="center">0,6<br clear="none"/>
-</td>
+<td align="center">Bureaux</td>
+<td align="center">0,5</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center" colspan="3" rowspan="2"/>
-<td align="center">Bureaux<br clear="none"/>
-</td>
-<td align="center">0,5<br clear="none"/>
-</td>
-</tr>
-<tr>
+<td align="center" colspan="3"/>
 <td align="center">Locaux sportifs</td>
 <td align="center">0,2</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -5763,11 +5861,44 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 <br/>
 <br/>
 <br/>
-<p align="left">Certificats d'économies d'énergie</p>
-<p align="left">Opération n° BAT-TH-26-GT</p>
-<p align="left">Ventilation mécanique contrôlée double flux<br clear="none"/>avec échangeur dans bâtiment de grande taille</p>
-<div align="left">1. Secteur d'application :<br clear="none"/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 m² et 10 000  m².<br clear="none"/>2. Dénomination :<br clear="none"/>Mise en place d'une  ventilation mécanique contrôlée double flux avec échangeur.<br clear="none"/>3.  Conditions pour la délivrance de certificats :<br clear="none"/>Une  attestation  indiquant une efficacité d'échange de 65 % (calcul selon  la norme NF EN 51763)  et une consommation maxi par ventilateur (filtres  et échangeurs inclus) de 0,35  W/(m³/h) est fournie par l'installateur.<br clear="none"/>Mise en place réalisée  par un professionnel.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>16 ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="left">Certificats d'économies d'énergie</div>
 </div>
+
+Opération n° BAT-TH-26-GT
+
+Ventilation mécanique contrôlée double flux avec échangeur
+
+dans un bâtiment de grande taille
+
+1. Secteur d'application :
+
+Locaux  du secteur tertiaire existants, réservés à une utilisation  professionnelle, de surface totale chauffée comprise entre 5 000 m² et  10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée double flux avec échangeur.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  la norme NF EN 51763, et une consommation maximale par ventilateur  (filtres et échangeurs inclus) de 0,35 W/(m³/h) est fournie par  l'installateur.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div>
+<br clear="none"/>
 <div align="left">
 <br clear="none"/>
 <table>
@@ -5775,13 +5906,12 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 <tr>
 <td align="center" colspan="3">MONTANT<br clear="none"/>en kWh cumac/m²<br clear="none"/>
 </td>
-<td align="center" rowspan="7">
-<br clear="none"/>X<br clear="none"/>
+<td align="center" rowspan="7">x</td>
+<td align="center" rowspan="2">TYPE<br clear="none"/>de locaux</td>
+<td align="center" rowspan="2">FACTEUR<br clear="none"/>correctif<br clear="none"/>
 </td>
-<td align="center" rowspan="3">SECTEUR<br clear="none"/>
-</td>
-<td align="center" rowspan="3">FACTEUR<br clear="none"/>correctif<br clear="none"/>
-</td>
+<td align="center" rowspan="2"/>
+<td align="center" rowspan="3"> SURFACE<br clear="none"/>ventilée (m²)</td>
 </tr>
 <tr>
 <td align="center" rowspan="2">Zone climatique</td>
@@ -5793,6 +5923,9 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 </td>
 <td align="center">Combustible<br clear="none"/>
 </td>
+<td align="center"> Cinémas</td>
+<td align="center"> 1</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H1<br clear="none"/>
@@ -5801,9 +5934,10 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 </td>
 <td align="center">1 900<br clear="none"/>
 </td>
-<td align="center">Cinémas<br clear="none"/>
-</td>
-<td align="center">1<br clear="none"/>
+<td align="center">Salles de volume<br clear="none"/>supérieur à 250 m³</td>
+<td align="center">0,7</td>
+<td align="center"> x</td>
+<td align="center">S <br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -5813,10 +5947,10 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 </td>
 <td align="center">1 600<br clear="none"/>
 </td>
-<td align="center">Salles d'un volume<br clear="none"/>supérieur à 250 m³<br clear="none"/>
-</td>
-<td align="center">0,7<br clear="none"/>
-</td>
+<td align="center">Enseignement</td>
+<td align="center">0,4</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">H3<br clear="none"/>
@@ -5825,17 +5959,19 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 </td>
 <td align="center">1 000<br clear="none"/>
 </td>
-<td align="center">Enseignement<br clear="none"/>
-</td>
+<td align="center">Restauration</td>
 <td align="center">0,3<br clear="none"/>
 </td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center" colspan="3"/>
-<td align="center">Restauration, bureaux,<br clear="none"/>autres locaux (sport  compris)<br clear="none"/>
-</td>
+<td align="center">Autres locaux </td>
 <td align="center">0,2<br clear="none"/>
 </td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -5845,130 +5981,151 @@ Une  attestation indiquant une efficacité d'échange de 65 %, calculée selon  
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br clear="none"/>
+</div>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-27
 
-Raccordement d'un bâtiment tertiaire à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération
+Raccordement d'un bâtiment tertiaire à un réseau de chaleur
 
-1. Secteur d'application
+alimenté par des énergies renouvelables ou de récupération
+
+1. Secteur d'application :
 
 Bâtiments tertiaires existants.
 
-2. Dénomination
+2. Dénomination :
 
 Raccordement d'un bâtiment tertiaire existant à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-La  puissance totale raccordée sur une année ne peut excéder 10 % de la  puissance souscrite au réseau avant ces nouveaux raccordements.
-
-Descriptif  du réseau de chaleur à fournir : moyens de production et énergies  utilisées sur les 3 dernières années (en précisant les éléments  spécifiques aux énergies renouvelables ou de récupération).
+Descriptif  du réseau de chaleur à fournir : moyens de production et énergies  utilisées sur les 3 dernières années, en précisant les éléments  spécifiques aux énergies renouvelables ou de récupération.
 
 Mise en place réalisée par un professionnel.
 
-Application  de cette opération non cumulable avec l'application de l'opération  standardisée RES-CH-01  Production de chaleur renouvelable en réseau ou  de récupération (France métropolitaine) .
+Application  de cette opération non cumulable simultanément avec l'application de  l'opération standardisée RES-CH-01 (production de chaleur renouvelable  ou de récupération en réseau (France métropolitaine)).
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 20 ans.
 
-20 ans
+5. Montant de certificats en kWh cumac :
 
-<div align="left">
-<br clear="none"/>5. Montant de certificats en kWh cumac</div>
-<div align="left">
-<br clear="none"/>
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="4"> Montant unitaire en kWh cumac / m2</td>
-<td/>
-<td align="center"> Surface <br clear="none"/>totale <br clear="none"/>chauffée <br clear="none"/>en m2</td>
-<td/>
-<td align="center"> Secteur <br clear="none"/>d'activité</td>
-<td align="center"> Facteur <br clear="none"/>d'occupation</td>
-<td/>
-<td/>
-</tr>
-<tr>
-<td colspan="2"/>
-<td align="center"> Chauffage</td>
-<td align="center"> Chauffage <br clear="none"/>et ECS</td>
-<td/>
-<td/>
-<td/>
-<td align="left">Bureaux <br clear="none"/>
+<td align="center" colspan="3">MONTANT UNITAIRE<br clear="none"/>(en kWh cumac/m²)<br clear="none"/>
 </td>
-<td align="center"> 1,1</td>
-<td rowspan="6"> X </td>
-<td rowspan="6"> T </td>
-</tr>
-<tr>
-<td align="center" rowspan="3" valign="middle">
-<br clear="none"/>Zone<br clear="none"/>climatique<br clear="none"/>
-</td>
-<td align="center">H1<br clear="none"/>
-</td>
-<td align="center">2 200<br clear="none"/>
-</td>
-<td align="center">2 400<br clear="none"/>
-</td>
-<td align="center" rowspan="5">X<br clear="none"/>
-</td>
-<td align="center" rowspan="5">S<br clear="none"/>
-</td>
-<td align="center" rowspan="5">X<br clear="none"/>
-</td>
-<td align="left">Enseignement</td>
-<td align="center">0,8</td>
-</tr>
-<tr>
-<td align="center">H2<br clear="none"/>
-</td>
-<td align="center">1 700<br clear="none"/>
-</td>
-<td align="center">2 000<br clear="none"/>
-</td>
-<td align="left">Commerces</td>
-<td align="center">0,9</td>
-</tr>
-<tr>
-<td align="center">H3<br clear="none"/>
-</td>
-<td align="center">1 100<br clear="none"/>
-</td>
-<td align="center">1 300<br clear="none"/>
-</td>
-<td align="left">
-<p>Hôtellerie - </p>
-<p>restauration</p>
-</td>
-<td align="center">1,1</td>
-</tr>
-<tr>
-<td/>
 <td align="center"/>
-<td/>
-<td/>
-<td align="left">Santé</td>
-<td align="center">1,4</td>
+<td align="center" rowspan="2">SURFACE<br clear="none"/>totale chauffée<br clear="none"/>(en m²) <br clear="none"/>
+</td>
+<td align="center" rowspan="2"/>
+<td align="center" rowspan="2">SECTEUR<br clear="none"/>d'activité </td>
+<td align="center" rowspan="2">FACTEUR<br clear="none"/>correctif </td>
+<td align="center" rowspan="2"/>
+<td align="center" rowspan="2"/>
 </tr>
 <tr>
-<td/>
-<td/>
-<td align="left">
-<br clear="none"/>
+<td align="center"> Zone<br clear="none"/>climatique</td>
+<td align="center"> Chauffage</td>
+<td align="center">Chauffage<br clear="none"/>et eau chaude<br clear="none"/>sanitaire </td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> H1</td>
+<td align="center"> 2 200<br clear="none"/>
 </td>
-<td/>
-<td>Autres <br clear="none"/>
+<td align="center"> 2 400<br clear="none"/>
 </td>
-<td align="center">0,8<br clear="none"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Bureaux </td>
+<td align="center">1,1 <br clear="none"/>
 </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> H2</td>
+<td align="center"> 1 700<br clear="none"/>
+</td>
+<td align="center"> 2 000<br clear="none"/>
+</td>
+<td align="center">x <br clear="none"/>
+</td>
+<td align="center">S <br clear="none"/>
+</td>
+<td align="center">x <br clear="none"/>
+</td>
+<td align="center"> Enseignement</td>
+<td align="center"> 0,8</td>
+<td align="center"> x</td>
+<td align="center"> T</td>
+</tr>
+<tr>
+<td align="center"> H3</td>
+<td align="center"> 1 100<br clear="none"/>
+</td>
+<td align="center"> 1 300<br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Commerces </td>
+<td align="center"> 0,9</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Hôtellerie, restauration </td>
+<td align="center"> 1,1</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Santé </td>
+<td align="center"> 1,4</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Autres secteurs </td>
+<td align="center"> 0,8</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
+
+<div align="left">
+<br clear="none"/>
 </div>
 
-T  (%) correspond à la part des besoins couverts par les énergies  renouvelables ou de récupération, au sein du réseau de chaleur (et non  du bâtiment), avant ce nouveau raccordement.
+T  (%) = part des besoins annuels du réseau couverts par les énergies  renouvelables ou de récupération après ce nouveau raccordement.
 
 Certificats d'économies d'énergie
 
@@ -7645,51 +7802,58 @@ n° 13 du 15/01/2012 texte numéro 1 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120115&numTexte=1&pageDebut=00798&pageFin=00871
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-38
 
-Protections solaires de bâtiments du secteur tertiaire (DOM)
+Protections solaires de bâtiments (France d'outre-mer)
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique,  de surface totale inférieure ou égale à 10 000 m2, dans les  départements d'outre-mer.
+Bâtiments tertiaires existants ou neufs de surface totale inférieure ou égale à 10 000 m², en France d'outre-mer.
 
-2. Dénomination
+2. Dénomination :
 
-Mise  en place de protections extérieures des baies contre le rayonnement  solaire, fixes ou mobiles. Les stores de toile, les écrans de  végétation, les murs, les films pour vitrage et tous les systèmes de  protection opaques mobiles non projetables sont exclus.
+Mise en place de protections extérieures des baies contre le rayonnement solaire, fixes ou mobiles.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Le choix, le dimensionnement et la mise en place sont réalisés par un professionnel.
+Les  stores en toile, les écrans de végétation, les murs, les films pour  vitrage et tous les systèmes de protection opaques mobiles non  projetables ne sont pas couverts par cette fiche.
 
-Le professionnel s'assure que le Facteur Solaire de la baie protégée est compris entre 0,1 et 0,25 (0,1< Fs <0,25).
+Le choix, le dimensionnement et la mise en place des protections sont réalisés par un professionnel.
 
-Les  modalités de calcul à appliquer sont celles de l'arrêté du 17 avril  2009 relatif à l'aération des bâtiments d'habitation neufs dans les  départements de la Guadeloupe, de la Martinique, de la Guyane et de La  Réunion (chap.1 et annexe III).
+Le  professionnel atteste que le Facteur solaire (Fs) de la baie protégée  est compris entre 0,1 et 0,25 (0,1 ≤ Fs < 0,25) ou est strictement  inférieur à 0,1.
 
-4. Durée de vie conventionnelle
+Les modalités de calcul de Fs sont fixées par  l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques  minimales des bâtiments d'habitation neufs dans les départements de la  Guadeloupe, de la Martinique, de la Guyane et de La Réunion (cf., en  particulier, son chapitre 1er et son annexe III).
 
-15 ans.
+4. Durée de vie conventionnelle : 15 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center"/>
-<td align="center">
-<p>Montant en KWh cumac / m² de vitre </p>
-<p>protégée </p>
+<td align="center"> FACTEUR SOLAIRE<br clear="none"/>
 </td>
+<td align="center">
+<p>MONTANT EN kWh CUMAC/m²<br clear="none"/>de vitre protégée</p>
+</td>
+<td align="center"/>
+<td align="center">SURFACE DE VITRE PROTÉGÉE </td>
 </tr>
 <tr>
-<td align="center">0,1&lt; Fs &lt; 0,25 </td>
+<td align="center">0,1 ≤ Fs &lt; 0,25</td>
 <td align="center">1 600 </td>
+<td align="center"> x</td>
+<td align="center">S <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">Fs &lt; 0,1 </td>
 <td align="center">2 400 <br clear="none"/>
 </td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -8525,3 +8689,200 @@ Mise en place réalisée par un professionnel.
 <div align="left"/>
 <div align="center"/>
 <div align="center"/>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-44
+
+Aérotherme biénergies
+
+à haute efficacité énergétique
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants de surface totale chauffée inférieure à 10 000 m².
+
+2. Dénomination de l'opération standardisée :
+
+Mise  en place d'un aérotherme alimenté par une pompe à chaleur et par un  brûleur au gaz naturel ou propane avec un système de régulation sur  énergie primaire.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 pour une  température d'évaporation de 7 °C et une température de sortie d'air de  20 °C.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur doit, à la date de réalisation de l'opération :
+
+- être titulaire de l'appellation QUALIPAC ;
+
+- ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+
+-  ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+L'équipement dispose d'un système de régulation sur énergie primaire.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">SECTEUR D'ACTIVITÉ </td>
+<td align="center">MONTANT EN kWh CUMAC/kW<br clear="none"/>de puissance installée </td>
+<td align="center"/>
+<td align="center">PUISSANCE<br clear="none"/>(en kW)<br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"> ZONE<br clear="none"/>climatique<br clear="none"/>
+</td>
+<td align="center"> FACTEUR<br clear="none"/>correctif<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center"> Commerces<br clear="none"/>
+</td>
+<td align="center"> 11 900<br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> H1<br clear="none"/>
+</td>
+<td align="center"> 1,1<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center"> Autres<br clear="none"/>
+</td>
+<td align="center"> 9 900<br clear="none"/>
+</td>
+<td align="center"> x<br clear="none"/>
+</td>
+<td align="center"> P<br clear="none"/>
+</td>
+<td align="center"> x<br clear="none"/>
+</td>
+<td align="center"> H2<br clear="none"/>
+</td>
+<td align="center"> 0,9<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> H3<br clear="none"/>
+</td>
+<td align="center"> 0,6<br clear="none"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-45
+
+Système de régulation sur une installation frigorifique
+
+permettant d'avoir une basse pression flottante
+
+1. Secteur d'application :
+
+Bâtiments tertiaires : locaux de commerces de distribution alimentaire de surface de vente inférieure à 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un système de régulation sur une installation frigorifique permettant d'avoir une basse pression (BP) flottante.
+
+3. Conditions pour la délivrance de certificats :
+
+Attestation  du professionnel que l'installation de la régulation sur l'installation  frigorifique assure une basse pression flottante centralisée permettant  la prise en compte de la charge thermique de chacun des postes froids.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center"> PUISSANCE FRIGORIFIQUE</td>
+<td align="center">MONTANT<br clear="none"/>de kWh cumac/kW </td>
+<td align="center"/>
+<td align="center">PUISSANCE ÉLECTRIQUE<br clear="none"/>des compresseurs (kW) <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center"> Positive</td>
+<td align="center">460 </td>
+<td align="center"> x</td>
+<td align="center">P <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">Négative </td>
+<td align="center">1 500 <br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+P  est la puissance électrique absorbée indiquée sur la plaque  signalétique du ou des compresseurs en kWél ou dans les données  techniques du fabricant.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-46
+
+Désurchauffeur sur installation cascade CO2
+
+alimentant les postes froids négatifs
+
+1. Secteur d'application :
+
+Bâtiments tertiaires : locaux de commerces de distribution alimentaire de surface de vente inférieure à 10 000 m².
+
+2. Dénomination :
+
+Mise  en place d'un échangeur thermique permettant de désurchauffer les  vapeurs de refoulement du CO2 pour améliorer sensiblement les  performances énergétiques de la cascade, cette chaleur pouvant être  réutilisée pour le chauffage de l'eau chaude sanitaire (ECS) ou des  locaux.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">RÉCUPÉRATION DE LA CHALEUR<br clear="none"/>du désurchauffeur<br clear="none"/>
+</td>
+<td align="center">MONTANT<br clear="none"/>de kWh cumac/kW </td>
+<td align="center"/>
+<td align="center"> PUISSANCE FRIGORIFIQUE<br clear="none"/>négative à l'évaporateur (kW)</td>
+</tr>
+<tr>
+<td align="center">Non </td>
+<td align="center"> 1 000<br clear="none"/>
+</td>
+<td align="center"> x</td>
+<td align="center"> P</td>
+</tr>
+<tr>
+<td align="center">Oui, pour le chauffage des locaux ou l'ECS </td>
+<td align="center"> 13 200<br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>

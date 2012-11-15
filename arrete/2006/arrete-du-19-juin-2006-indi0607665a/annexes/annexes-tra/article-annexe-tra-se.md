@@ -1,10 +1,5 @@
 # Article Annexe TRA-SE
 
-<div align="left"/>
-<div align="left"/>
-<div align="left">
-<br/>
-</div>
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
@@ -105,11 +100,9 @@ La  formation, réalisée par une entreprise ou un centre de formation agréés 
 <tbody>
 <tr>
 <td align="center">TYPE DE VÉHICULE </td>
-<td align="center">kWh CUMAC/ PERSONNE FORMÉE <br/>
-</td>
+<td align="center">kWh CUMAC/ PERSONNE FORMÉE </td>
 <td align="center"/>
-<td align="center">NOMBRE DE PERSONNES FORMÉES <br/>
-</td>
+<td align="center">NOMBRE DE PERSONNES FORMÉES </td>
 </tr>
 <tr>
 <td align="left">Voitures particulières <br/>
@@ -240,42 +233,34 @@ Certificats d'économies d'énergie
 
 Opération n° TRA-SE-05
 
-Recreusage des pneumatiques de poids lourds
+Recreusage des pneumatiques
 
 1. Secteur d'application :
 
-Transport routier professionnel.
+Transport  routier professionnel : véhicules de transport en commun de personnes  de catégories M2 ou M3, véhicules de transport de marchandises de  catégories N2 ou N3 et véhicules remorqués de catégories O3 et O4.
 
 2. Dénomination :
 
-Recreusage de pneumatiques neufs ou rechapés de poids lourds de plus de 7,5 tonnes.
+Recreusage de pneumatiques neufs ou rechapés.
 
 3. Conditions pour la délivrance de certificats :
 
-Le recreusage est effectué par un réseau de négociants multimarques ou par des prestataires techniques externes.
+Le recreusage est effectué par un professionnel.
 
-La  demande de certificats comporte les factures de prestation de  recreusage avec l'indication du nombre et du type de pneumatiques  recreusés. Il est nécessaire, pour chaque pneumatique recreusé indiqué  sur la facture, de pouvoir identifier le type de véhicule concerné  (poids lourds de plus de 7,5 tonnes).
+4. Durée de vie conventionnelle :
 
-4. Durée de vie conventionnelle : 1 an.
+1 an.
 
 5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<th>CATÉGORIE<br/>
-</th>
-<th>MONTANT EN kWh CUMAC/ <br/>pneumatique recreusé <br/>
-</th>
-<th>
-<br/>
-</th>
-<th>NOMBRE DE PNEUMATIQUES <br/>recreusés <br/>
-</th>
+<td align="center"> MONTANT EN kWh CUMAC<br/>par pneumatique recreusé</td>
+<td align="center"/>
+<td align="center"> NOMBRE DE PNEUMATIQUES RECREUSÉS</td>
 </tr>
 <tr>
-<td align="center">Pneumatiques de poids lourds<br/>
-</td>
 <td align="center">305<br/>
 </td>
 <td align="center">×<br/>
@@ -561,3 +546,154 @@ TK : t. km relevées sur une période de six mois à compter du carénage × 2.
 Si  l'on réalise un carénage sur un pousseur et une ou plusieurs barges  qu'il pousse, on additionne les Ga du pousseur et de chacune de ses  barges.
 
 On considère que le trafic réalisé par l'unité de  transport fluvial sur six mois consécutifs est maintenu en moyenne sur  la durée de vie des équipements.
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-08
+
+Gestion externalisée du poste pneumatique
+
+dans une flotte de poids lourds
+
+1. Secteur d'application :
+
+Transport  routier de marchandises (TRM) professionnel dont la partie pneumatique  est gérée de façon externalisée et globale (solution prix au kilomètre  ou prix par carte grise).
+
+2. Dénomination :
+
+Gestion  externalisée et globale du poste pneumatique dans une flotte de  véhicules poids lourds (ensembles articulés et porteurs de plus de 7,5  tonnes jusqu'à 44 tonnes) consistant en quatre opérations cumulatives :  réglage des géométries, contrôle des pressions, recreusage et suivi des  usures.
+
+3. Conditions pour la délivrance de certificats :
+
+Dans le cas d'une gestion externalisée du poste pneumatique, le demandeur fournit :
+
+-  le contrat ou l'avenant au contrat commercial entre le prestataire et  le gestionnaire de la flotte de véhicules, dans lequel le prestataire  s'engage à ce qu'au minimum :
+
+1. 65 % des pneus quittant l'entreprise pour rechapage ou valorisation soient recreusés ;
+
+2. les pneus des véhicules soient vérifiés en pression trois fois par an au minimum (sur vérification ou remplacement du pneu) ;
+
+3. 70 % des pneus neufs introduits dans la flotte (hors dommages accidentels) soient acceptés au rechapage ;
+
+4.  l'ensemble des véhicules sous contrat subit au moins une fois par an  une opération (permutation et/ou retournement sur jante) ;
+
+- un document justifiant du nombre et du type de véhicules en contrat, à part ou pouvant être inclus dans le contrat commercial.
+
+Cette  opération n'est pas cumulable avec la fiche d'opération standardisée  TRA-SE-05 (recreusage des pneumatiques de poids lourds).
+
+4. Durée de vie conventionnelle : 1 an.
+
+5. Montant des certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">CATÉGORIE </td>
+<td align="center">MONTANT<br/>en kWh cumac/ensemble </td>
+<td align="center"/>
+<td align="center">NOMBRE D'ENSEMBLES<br/>articulés en gestion externalisée </td>
+</tr>
+<tr>
+<td align="center">Ensemble articulé/porteur </td>
+<td align="center">6 041 <br/>
+</td>
+<td align="center"> x</td>
+<td align="center">N <br/>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td align="center">CATÉGORIE </td>
+<td align="center">MONTANT<br/>en kWh cumac/porteur </td>
+<td align="center"/>
+<td align="center">NOMBRE DE PORTEURS<br/>en gestion externalisée </td>
+</tr>
+<tr>
+<td align="center">Porteur </td>
+<td align="center">2 452 <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center">N <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-09
+
+Gestion externalisée du poste pneumatique
+
+dans une flotte de transport de personnes
+
+1. Secteur d'application :
+
+Transport  collectif de personnes (autobus et/ou autocars) dont la partie  pneumatique est gérée de façon externalisée et globale (solution prix au  kilomètre ou prix par carte grise).
+
+2. Dénomination :
+
+Gestion  externalisée et globale du poste pneumatique sur une flotte d'autobus  et/ou autocars consistant en quatre opérations cumulatives : réglage des  géométries, contrôle des pressions, recreusage et suivi des usures.
+
+3. Conditions pour la délivrance de certificats :
+
+Dans le cas d'une gestion externalisée du poste pneumatique, le demandeur fournit :
+
+-  le contrat ou l'avenant au contrat commercial entre le prestataire et  le gestionnaire de la flotte de véhicules, dans lequel le fournisseur de  pneumatiques s'engage à ce qu'au minimum :
+
+1. 65 % des pneus quittant l'entreprise pour rechapage ou valorisation soient recreusés ;
+
+2. les pneus des véhicules soient vérifiés en pression trois fois par an au minimum (sur vérification ou remplacement du pneu) ;
+
+3. 70 % des pneus neufs introduits dans la flotte (hors dommages accidentels) soient acceptés au rechapage ;
+
+4.  l'ensemble des véhicules sous contrat subit au moins une fois par an  une opération (permutation et/ou retournement sur jante) ;
+
+- un document justifiant du nombre et du type de véhicules en contrat, à part ou pouvant être inclus dans le contrat commercial.
+
+Cette  opération n'est pas cumulable avec la fiche d'opération standardisée  TRA-SE-05 (recreusage des pneumatiques de poids lourds).
+
+4. Durée de vie conventionnelle : 1 an.
+
+5. Montant des certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">CATÉGORIE </td>
+<td align="center">MONTANT<br/>en kWh cumac/ensemble </td>
+<td align="center"/>
+<td align="center">NOMBRE D'ENSEMBLES<br/>articulés en gestion externalisée </td>
+</tr>
+<tr>
+<td align="center"> Autobus</td>
+<td align="center">975 <br/>
+</td>
+<td align="center"> x</td>
+<td align="center">N <br/>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td align="center">CATÉGORIE </td>
+<td align="center">MONTANT<br/>en kWh cumac/porteur </td>
+<td align="center"/>
+<td align="center">NOMBRE DE PORTEURS<br/>en gestion externalisée </td>
+</tr>
+<tr>
+<td align="center"> Autocars</td>
+<td align="center"> 1 035<br/>
+</td>
+<td align="center"> x</td>
+<td align="center">N <br/>
+</td>
+</tr>
+</tbody>
+</table>

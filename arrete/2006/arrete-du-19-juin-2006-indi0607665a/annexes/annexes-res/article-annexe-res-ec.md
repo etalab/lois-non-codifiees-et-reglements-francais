@@ -122,7 +122,7 @@ Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies p
 
 Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
 
-Cette opération ne concerne pas les illuminations de mise en valeur des sites ni l'éclairage des terrains de sport.
+Cette opération ne concerne ni l'illumination de mise en valeur des sites ni l'éclairage des terrains de sport.
 
 2. Dénomination :
 
@@ -136,9 +136,9 @@ Est éligible à cette opération toute rénovation pour laquelle chaque luminai
 
 - efficacité lumineuse de l'ensemble lampe + auxiliaire d'alimentation ≥ 70 lumens par watt ;
 
--  valeur du pourcentage de flux de lampe sortant du luminaire neuf,  directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) ≤ 3 %  en éclairage fonctionnel et < 5 % en éclairage d'ambiance ou privé.
+-  valeur du pourcentage de flux de lampe sortant du luminaire neuf,  directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) ≤ 3 %  en éclairage fonctionnel et < 15 % en éclairage d'ambiance ou privé.
 
-Le  nombre de luminaires déposés apparaît sur une facture ou un (ou  plusieurs) document (s) financier (s) ou comptable (s) ou, à défaut,  tout autre document.
+Le  nombre de luminaires déposés apparaît sur une facture ou un (ou  plusieurs) document(s) financier(s) ou comptable(s) ou, à défaut, tout  autre document.
 
 Mise en place réalisée par un professionnel.
 
@@ -151,7 +151,7 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center">MONTANT EN kWh CUMAC <br/>par luminaire déposé  </td>
 <td align="center"/>
-<td align="center"> NOMBRE <br/>de luminaires déposés</td>
+<td align="center"> NOMBRE DE LUMINAIRES DÉPOSÉS</td>
 </tr>
 <tr>
 <td align="center"> 7 100<br/>
@@ -227,3 +227,101 @@ Installation réservée aux piétons :
 </table>
 
 Les  installations réservées aux piétons correspondent aux installations  dont le fonctionnement est assuré par les piétons lorsqu'ils désirent  traverser une voie de circulation. Elles pilotent des feux de  circulation tricolores destinés aux véhicules, affichant le vert par  défaut, et passant au rouge suite à l'appel d'un piéton.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-EC-06
+
+Rénovation d'une illumination de mise en valeur
+
+1. Secteur d'application :
+
+Eclairage extérieur public ou privé destiné à mettre en valeur un patrimoine bâti.
+
+2. Dénomination :
+
+Rénovation d'une installation d'illumination de mise en valeur existante.
+
+3. Conditions pour la délivrance de certificats :
+
+Sont éligibles les opérations de rénovation respectant les exigences suivantes :
+
+-  la rénovation est effectuée avec dépose des anciens appareils (à  fournir la facture de dépose détaillée et un tableau récapitulatif,  attesté par le bénéficiaire ou le professionnel, avec le nombre de  luminaires et les puissances associées avant/après l'opération) ;
+
+- la puissance finale est plus de quatre fois inférieure à la puissance initiale ;
+
+-  un système de commande dédié, permettant de respecter les conditions  d'extinction imposées par la réglementation relative à la lutte contre  les nuisances lumineuses, est mis en place.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MONTANT UNITAIRE<br/>en kWh cumac par kW supprimé </td>
+<td align="center"/>
+<td align="center"> PUISSANCE SUPPRIMÉE<br/>en kW<br/>
+</td>
+</tr>
+<tr>
+<td align="center"> 17 500<br/>
+</td>
+<td align="center"> x</td>
+<td align="center"> P</td>
+</tr>
+</tbody>
+</table>
+
+La  puissance supprimée P, en kW, est définie par la différence entre la  puissance nominale des lampes avant rénovation et celle des lampes après  rénovation.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-EC-07
+
+Horloge astronomique pour l'éclairage public
+
+1. Secteur d'application :
+
+Eclairage public existant, autoroutier, routier, urbain, dit  fonctionnel .
+
+Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies piétonnes.
+
+Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
+
+Cette opération ne concerne pas les illuminations de mise en valeur des sites.
+
+2. Dénomination :
+
+Installation d'une ou plusieurs horloge(s) astronomique(s) dans une armoire de commande d'éclairage neuve ou existante.
+
+3. Conditions pour la délivrance de certificats :
+
+Les horloges doivent être IP 2X.
+
+L'heure courante de l'horloge doit être assurée soit par radio synchronisation, soit par un système interne.
+
+La mise à l'heure automatique de l'horloge doit être radio synchronisée.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MONTANT EN kWh<br/>cumac/horloge astronomique </td>
+<td align="center"/>
+<td align="center"> NOMBRE D'HORLOGES<br/>astronomiques installées</td>
+</tr>
+<tr>
+<td align="center">17 500 <br/>
+</td>
+<td align="center"> x</td>
+<td align="center">N <br/>
+</td>
+</tr>
+</tbody>
+</table>
