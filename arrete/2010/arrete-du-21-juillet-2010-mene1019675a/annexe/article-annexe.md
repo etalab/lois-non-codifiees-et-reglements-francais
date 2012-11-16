@@ -12,7 +12,7 @@ L'histoire et la géographie font partie des enseignements communs de la classe 
 
 La classe de seconde a permis, sur la base des acquis du collège et dans le prolongement des démarches qui y avaient été initiées, de mettre en œuvre une approche plus synthétique et problématisée, caractérisée par la recherche du sens et l'exercice du raisonnement et de l'esprit critique, répondant aux finalités culturelles, civiques et intellectuelles, communes à l'enseignement de l'histoire et de la géographie.
 
-Les programmes de la classe de première permettent d'approfondir cette approche, qui s'inscrit dans les objectifs d'apprentissage du lycée, et de renforcer la culture et les outils intellectuels indispensables à la construction d'un citoyen éclairé du xxie siècle.
+Les programmes de la classe de première permettent d'approfondir cette approche, qui s'inscrit dans les objectifs d'apprentissage du lycée, et de renforcer la culture et les outils intellectuels indispensables à la construction d'un citoyen éclairé du XXIe siècle.
 
 Ils sont conçus en cohérence avec ceux de la seconde.
 
@@ -37,12 +37,8 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">I. - Maîtriser des repères chronologiques et spatiaux<br/>
-</p>
-</td>
-<td align="center">
-<br/>
+<td align="center" colspan="2">
+<p align="center">I. - Maîtriser des repères chronologiques et spatiaux</p>
 </td>
 </tr>
 <tr>
@@ -51,8 +47,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </p>
 </td>
 <td align="center">
-<p align="left">― nommer et périodiser les continuités et ruptures chronologiques<br/>― nommer et localiser les grands repères géographiques terrestres<br/>
-</p>
+<p align="left">― nommer et périodiser les continuités et ruptures chronologiques<br/>― nommer et localiser les grands repères géographiques terrestres</p>
 </td>
 </tr>
 <tr>
@@ -60,8 +55,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― situer et caractériser une date dans un contexte chronologique<br/>― nommer et localiser un lieu dans un espace géographique<br/>
-</p>
+<p align="left">― situer et caractériser une date dans un contexte chronologique<br/>― nommer et localiser un lieu dans un espace géographique</p>
 </td>
 </tr>
 <tr>
@@ -70,8 +64,13 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </p>
 </td>
 <td align="center">
-<p align="left">― situer un événement dans le temps court ou le temps long<br/>― repérer un lieu ou un espace sur des cartes à échelles ou systèmes de projections différents<br/>
-</p>
+<p align="left">― situer un événement dans le temps court ou le temps long<br/>― repérer un lieu ou un espace sur des cartes à échelles ou systèmes de projections différents</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">― mettre en relation des faits ou événements de natures, de périodes, de localisations spatiales différentes (approches diachroniques et synchroniques)</p>
 </td>
 </tr>
 <tr>
@@ -79,26 +78,12 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― mettre en relation des faits ou événements de natures, de périodes, de localisations spatiales différentes (approches diachroniques et synchroniques)<br/>
-</p>
+<p align="left">― confronter des situations historiques ou/et géographiques</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<p align="left">― confronter des situations historiques ou/et géographiques<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">II. ― Maîtriser des outils et méthodes spécifiques<br/>
-</p>
-</td>
-<td align="center">
-<br/>
+<td align="center" colspan="2">
+<p align="center">II. ― Maîtriser des outils et méthodes spécifiques</p>
 </td>
 </tr>
 <tr>
@@ -107,8 +92,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 </p>
 </td>
 <td align="center">
-<p align="left">― identifier des documents (nature, auteur, date, conditions de production)<br/>
-</p>
+<p align="left">― identifier des documents (nature, auteur, date, conditions de production)</p>
 </td>
 </tr>
 <tr>
@@ -116,8 +100,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― prélever, hiérarchiser et confronter des informations selon des approches spécifiques en fonction du document ou du corpus documentaire<br/>
-</p>
+<p align="left">― prélever, hiérarchiser et confronter des informations selon des approches spécifiques en fonction du document ou du corpus documentaire</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +108,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― cerner le sens général d'un document ou d'un corpus documentaire, et le mettre en relation avec la situation historique ou géographique étudiée<br/>
-</p>
+<p align="left">― cerner le sens général d'un document ou d'un corpus documentaire, et le mettre en relation avec la situation historique ou géographique étudiée</p>
 </td>
 </tr>
 <tr>
@@ -134,27 +116,15 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― critiquer des documents de types différents (textes, images, cartes, graphes, etc.)<br/>
-</p>
+<p align="left">― critiquer des documents de types différents (textes, images, cartes, graphes, etc.)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">2° Organiser et synthétiser des informations<br/>
-</p>
+<p align="left">2° Organiser et synthétiser des informations</p>
 </td>
 <td align="center">
-<p align="left">― décrire et mettre en récit une situation historique ou géographique<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<p align="left">― réaliser des cartes, croquis et schémas cartographiques, des organigrammes, des diagrammes et schémas fléchés, des graphes de différents types (évolution, répartition)<br/>
-</p>
+<p align="left">― décrire et mettre en récit une situation historique ou géographique</p>
 </td>
 </tr>
 <tr>
@@ -162,8 +132,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― rédiger un texte ou présenter à l'oral un exposé construit et argumenté en utilisant le vocabulaire historique et géographique spécifique<br/>
-</p>
+<p align="left">― réaliser des cartes, croquis et schémas cartographiques, des organigrammes, des diagrammes et schémas fléchés, des graphes de différents types (évolution, répartition)</p>
 </td>
 </tr>
 <tr>
@@ -171,37 +140,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― lire un document (un texte ou une carte) et en exprimer oralement ou par écrit les idées clés, les parties ou composantes essentielles ; passer de la carte au croquis, de l'observation à la description<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">3° Utiliser les TIC<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">― ordinateurs, logiciels, tableaux numériques ou tablettes graphiques pour rédiger des textes, confectionner des cartes, croquis et graphes, des montages documentaires<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">III. ― Maîtriser des méthodes de travail personnel<br/>
-</p>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">1° Développer son expression personnelle et son sens critique<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">― utiliser de manière critique les moteurs de recherche et les ressources en ligne (internet, intranet de l'établissement, blogs)<br/>
-</p>
+<p align="left">― rédiger un texte ou présenter à l'oral un exposé construit et argumenté en utilisant le vocabulaire historique et géographique spécifique</p>
 </td>
 </tr>
 <tr>
@@ -209,8 +148,28 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― développer un discours oral ou écrit construit et argumenté, à le confronter à d'autres points de vue<br/>
-</p>
+<p align="left">― lire un document (un texte ou une carte) et en exprimer oralement ou par écrit les idées clés, les parties ou composantes essentielles ; passer de la carte au croquis, de l'observation à la description</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">3° Utiliser les TIC</p>
+</td>
+<td align="center">
+<p align="left">― ordinateurs, logiciels, tableaux numériques ou tablettes graphiques pour rédiger des textes, confectionner des cartes, croquis et graphes, des montages documentaires</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="center">III. ― Maîtriser des méthodes de travail personnel</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">1° Développer son expression personnelle et son sens critique</p>
+</td>
+<td align="center">
+<p align="left">― utiliser de manière critique les moteurs de recherche et les ressources en ligne (internet, intranet de l'établissement, blogs)</p>
 </td>
 </tr>
 <tr>
@@ -218,18 +177,7 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― participer à la progression du cours en intervenant à la demande du professeur ou en sollicitant des éclairages ou explications si nécessaire<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">2° Préparer et organiser son travail de manière autonome<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">― prendre des notes, faire des fiches de révision, mémoriser les cours (plans, notions et idées clés, faits essentiels, repères chronologiques et spatiaux, documents patrimoniaux)<br/>
-</p>
+<p align="left">― développer un discours oral ou écrit construit et argumenté, à le confronter à d'autres points de vue</p>
 </td>
 </tr>
 <tr>
@@ -237,8 +185,15 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― mener à bien une recherche individuelle ou au sein d'un groupe ; prendre part à une production collective<br/>
-</p>
+<p align="left">― participer à la progression du cours en intervenant à la demande du professeur ou en sollicitant des éclairages ou explications si nécessaire</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">2° Préparer et organiser son travail de manière autonome</p>
+</td>
+<td align="center">
+<p align="left">― prendre des notes, faire des fiches de révision, mémoriser les cours (plans, notions et idées clés, faits essentiels, repères chronologiques et spatiaux, documents patrimoniaux)</p>
 </td>
 </tr>
 <tr>
@@ -246,8 +201,15 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 <br/>
 </td>
 <td align="center">
-<p align="left">― utiliser le manuel comme outil de lecture complémentaire du cours, pour préparer le cours ou en approfondir des aspects.<br/>
-</p>
+<p align="left">― mener à bien une recherche individuelle ou au sein d'un groupe ; prendre part à une production collective</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<p align="left">― utiliser le manuel comme outil de lecture complémentaire du cours, pour préparer le cours ou en approfondir des aspects.</p>
 </td>
 </tr>
 </tbody>
@@ -255,11 +217,11 @@ Comme en seconde, cette maîtrise est indissociable de celles des connaissances.
 
 HISTOIRE
 
-Questions pour comprendre le xxe siècle
+Questions pour comprendre le XXe siècle
 
 Le programme d'histoire de la classe de première est conçu en cohérence avec celui de la classe de seconde, dans le cadre d'un tronc commun sur deux années :
 
-― il est dans son prolongement chronologique : consacré au xxe siècle, il prend la suite d'une mise en perspective sur le temps long, de l'Antiquité au xixe siècle ;
+― il est dans son prolongement chronologique : consacré au XXe siècle, il prend la suite d'une mise en perspective sur le temps long, de l'Antiquité au XIXe siècle ;
 
 ― il se situe également dans sa continuité en termes d'objectifs d'apprentissage, tant sur le plan des connaissances à acquérir que sur celui des capacités et des méthodes à approfondir.
 
@@ -269,7 +231,7 @@ Le fil conducteur du programme
 
 Des questions indispensables à la compréhension de l'histoire du monde au xxe siècle constituent la trame de ce programme.
 
-En ce début du xxie siècle, il est possible d'avoir une vue globale et synthétique sur le siècle précédent et ainsi de concevoir une nouvelle approche thématique. Les questions qui structurent les programmes, centrées sur la compréhension du xxe siècle, sont mises en perspective sur une plus longue durée lorsque cela s'avère pertinent : ainsi, une bonne compréhension des mutations des économies et des sociétés nécessite une étude s'étendant du milieu du xixe siècle à nos jours ; la décolonisation est plus intelligible si son étude est reliée à celle de la colonisation ; 1989 ne peut être perçu comme une rupture que si l'on aborde la période postérieure...
+En ce début du XXIe siècle, il est possible d'avoir une vue globale et synthétique sur le siècle précédent et ainsi de concevoir une nouvelle approche thématique. Les questions qui structurent les programmes, centrées sur la compréhension du XXe siècle, sont mises en perspective sur une plus longue durée lorsque cela s'avère pertinent : ainsi, une bonne compréhension des mutations des économies et des sociétés nécessite une étude s'étendant du milieu du XIXe siècle à nos jours ; la décolonisation est plus intelligible si son étude est reliée à celle de la colonisation ; 1989 ne peut être perçu comme une rupture que si l'on aborde la période postérieure...
 
 Pour traiter le programme
 
@@ -285,13 +247,13 @@ L'approche thématique qui structure le programme doit être fondée sur la mobi
 
 La réflexion critique sur des sources de nature différente, déjà exercée en seconde, doit être approfondie. Parmi ces sources, les différentes formes de production artistiques doivent trouver toute leur place, conformément aux objectifs visés par l'enseignement d'histoire des arts.
 
-Questions pour comprendre le xxe siècle
+Questions pour comprendre le XXe siècle
 
 Le professeur peut articuler les thèmes et les questions dans un ordre différent de celui de leur présentation, à l'exclusion du thème 1 qui ouvre obligatoirement la mise en œuvre du programme.
 
 Thème 1. ― Croissance économique, mondialisation et mutations
 
-des sociétés depuis le milieu du xixe siècle (9-10 heures)
+des sociétés depuis le milieu du XIXe siècle (9-10 heures)
 
 <table>
 <tbody>
@@ -307,8 +269,7 @@ des sociétés depuis le milieu du xixe siècle (9-10 heures)
 </p>
 </td>
 <td align="center">
-<p align="left">La croissance économique et ses différentes phases depuis 1850.<br/>Les économies-monde successives (britannique, américaine, multipolaire).<br/>
-</p>
+<p align="left">La croissance économique et ses différentes phases depuis 1850.<br/>Les économies-monde successives (britannique, américaine, multipolaire).</p>
 </td>
 </tr>
 <tr>
@@ -317,14 +278,13 @@ des sociétés depuis le milieu du xixe siècle (9-10 heures)
 </p>
 </td>
 <td align="center">
-<p align="left">La population active, reflet des bouleversements économiques et sociaux : l'exemple de la France depuis les années 1850.<br/>Une étude : l'immigration et la société française au xxe siècle.<br/>
-</p>
+<p align="left">La population active, reflet des bouleversements économiques et sociaux : l'exemple de la France depuis les années 1850.<br/>Une étude : l'immigration et la société française au XXe siècle.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Thème 2. ― La guerre au xxe siècle
+Thème 2. ― La guerre au XXe siècle
 
 (16-17 heures)
 
@@ -337,23 +297,19 @@ Thème 2. ― La guerre au xxe siècle
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Guerres mondiales et espoirs de paix<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Guerres mondiales et espoirs de paix</p>
 </td>
-<td align="center">
-<p align="left">La Première Guerre mondiale : l'expérience combattante dans une guerre totale.<br/>La Seconde Guerre mondiale : guerre d'anéantissement et génocide des Juifs et des Tziganes.<br/>Les espoirs d'un ordre mondial au lendemain des conflits : la SDN et l'ONU.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">La Première Guerre mondiale : l'expérience combattante dans une guerre totale.<br/>La Seconde Guerre mondiale : guerre d'anéantissement et génocide des Juifs et des Tziganes.<br/>Les espoirs d'un ordre mondial au lendemain des conflits : la SDN et l'ONU.</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">De la guerre froide à de nouvelles conflictualités <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">De la guerre froide à de nouvelles conflictualités </p>
 </td>
-<td align="center">
-<p align="left">La guerre froide, conflit idéologique, conflit de puissances : un lieu (Berlin 1945-1989), une crise (Cuba 1962), un conflit armé (la guerre du Vietnam).<br/>De nouvelles conflictualités depuis la fin de la guerre froide : un conflit armé (la guerre du Golfe 1990-1991) ; un lieu (Sarajevo 1992-1995) ; un acte terroriste (le 11 septembre 2001).<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">La guerre froide, conflit idéologique, conflit de puissances : un lieu (Berlin 1945-1989), une crise (Cuba 1962), un conflit armé (la guerre du Vietnam).<br/>De nouvelles conflictualités depuis la fin de la guerre froide : un conflit armé (la guerre du Golfe 1990-1991) ; un lieu (Sarajevo 1992-1995) ; un acte terroriste (le 11 septembre 2001).</p>
 </td>
 </tr>
 </tbody>
@@ -373,22 +329,18 @@ Thème 3. ― Le siècle des totalitarismes
 </tr>
 <tr>
 <td align="center">
-<p align="left">Genèse et affirmation des régimes totalitaires (soviétique, fasciste et nazi) <br/>
-</p>
+<p align="left">Genèse et affirmation des régimes totalitaires (soviétique, fasciste et nazi)</p>
 </td>
 <td align="center">
-<p align="left">Les régimes totalitaires dans l'entre-deux-guerres : genèse, points communs et spécificités.<br/>Les totalitarismes face aux démocraties dans les années 1930.<br/>
-</p>
+<p align="left">Les régimes totalitaires dans l'entre-deux-guerres : genèse, points communs et spécificités.</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">La fin des totalitarismes<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">La fin des régimes totalitaires</p>
 </td>
-<td align="center">
-<p align="left">La dénazification de l'Allemagne et le procès de Nuremberg.<br/>La sortie progressive du totalitarisme en URSS : Khrouchtchev, la déstalinisation et ses limites ; Gorbatchev, de la Glasnost à la disparition de l'URSS.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">La dénazification de l'Allemagne et le procès de Nuremberg.<br/>Gorbatchev et la fin de l'URSS. </p>
 </td>
 </tr>
 </tbody>
@@ -412,7 +364,7 @@ Thème 4. ― Colonisation et décolonisation
 </p>
 </td>
 <td align="center">
-<p align="left">Le partage colonial de l'Afrique à la fin du xixe siècle.<br/>L'empire français au moment de l'exposition coloniale de 1931, réalités, représentations et contestations.<br/>
+<p align="left">L'empire français au moment de l'exposition coloniale de 1931, réalités, représentations et contestations.<br/>
 </p>
 </td>
 </tr>
@@ -422,8 +374,7 @@ Thème 4. ― Colonisation et décolonisation
 </p>
 </td>
 <td align="center">
-<p align="left">Deux études :<br/>La fin de l'empire des Indes.<br/>La guerre d'Algérie. <br/>
-</p>
+<p align="left">La guerre d'Algérie. </p>
 </td>
 </tr>
 </tbody>
@@ -442,22 +393,22 @@ Thème 5. ― les Français et la République
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">La République, trois républiques<br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">L'enracinement de la culture républicaine (les décennies 1880 et 1890).<br/>Les combats de la Résistance (contre l'occupant nazi et le régime de Vichy) et la refondation républicaine.<br/>1958-1962, une nouvelle République.<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">La République et les évolutions de la société française<br/>
 </p>
 </td>
-<td align="center">
-<p align="left">La République et la question ouvrière : le Front populaire.<br/>La République, les religions et la laïcité depuis les années 1880.<br/>La place des femmes dans la vie politique et sociale de la France au xxe siècle.<br/>
+<td align="left" valign="top">
+<p align="left">La République et la question ouvrière : le Front populaire.<br/>La République, les religions et la laïcité depuis les années 1880.<br/>La place des femmes dans la vie politique et sociale de la France au XXe siècle.<br/>
 </p>
 </td>
 </tr>
@@ -522,35 +473,23 @@ Thème 1. ― Comprendre les territoires de proximité
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Approches des territoires du quotidien <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Un aménagement choisi dans un territoire proche du lycée (étude de cas) (*) </p>
-<p align="left">Acteurs et enjeux de l'aménagement des territoires <br/>
-</p>
+<td align="left" valign="top">
+<br/>Approches des territoires du quotidien </td>
+<td align="left" valign="top">
+<br/>Un aménagement choisi dans un territoire proche du lycée (étude de cas) (*) <p>Acteurs et enjeux de l'aménagement des territoires </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>La région, territoire de vie, territoire aménagé <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
-<br/>La région où est situé le lycée (étude de cas) (**) </p>
-<p align="left">La place et le rôle des régions en France et dans un autre pays européen <br/>
-</p>
+<td align="left" valign="top">
+<br/>La région où est situé le lycée (étude de cas) (**) <p>La place et le rôle des régions en France et dans un autre pays européen </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<br/>(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'aménagement choisi se situe dans un territoire métropolitain ou ultramarin français. <p>(**) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur la région Ile-de-France. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.<br/>
-</p>
+<br/>(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'aménagement choisi se situe dans un territoire métropolitain ou ultramarin français. <p>(**) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur la région Ile-de-France. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.</p>
 </td>
 </tr>
 </tbody>
@@ -569,43 +508,38 @@ Thème 2. ― Aménager et développer le territoire français
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Valoriser et ménager les milieux<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Valoriser et ménager les milieux</p>
 </td>
-<td align="center">
-<p align="left">La gestion durable d'un milieu (étude de cas).<br/>Potentialités et contraintes du territoire français (ultramarin compris).<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">La gestion durable d'un milieu (étude de cas).<br/>Potentialités et contraintes du territoire français (ultramarin compris).</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">La France en villes<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">La France en villes</p>
 </td>
-<td align="center">
-<p align="left">Mouvements de population, urbanisation, métropolisation.<br/>Aménager les villes : réduire les fractures sociales et spatiales.<br/>Entre attractivité urbaine et nouvelles formes de développement : les espaces ruraux.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Mouvements de population, urbanisation, métropolisation.<br/>Aménager les villes : réduire les fractures sociales et spatiales.<br/>Entre attractivité urbaine et nouvelles formes de développement : les espaces ruraux.</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Les dynamiques des espaces productifs dans la mondialisation<br/>
 </p>
 </td>
-<td align="center">
-<p align="left">Un territoire de l'innovation (étude de cas).<br/>Les espaces de production agricole en lien avec les marchés européens et mondiaux.<br/>Dynamiques de localisation des activités et mondialisation.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Un territoire de l'innovation (étude de cas). </p>
+<p align="left">Dynamiques de localisation des activités et mondialisation.</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Mobilités, flux et réseaux de communication dans la mondialisation<br/>
 </p>
 </td>
-<td align="center">
-<p align="left">Roissy : plate-forme multimodale et hub mondial (étude de cas).<br/>La connexion inégale du territoire français à l'Europe et au monde par les réseaux de transport et le numérique.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Roissy : plate-forme multimodale et hub mondial (étude de cas).<br/>La connexion inégale du territoire français à l'Europe et au monde par les réseaux de transport et le numérique.</p>
 </td>
 </tr>
 </tbody>
@@ -624,23 +558,19 @@ Thème 3. ― L'Union européenne : dynamiques de développement des territoires
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">De l'espace européen aux territoires de l'Union européenne <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">De l'espace européen aux territoires de l'Union européenne </p>
 </td>
-<td align="center">
-<p align="left">Europe, Europes : un continent entre unité et diversité.<br/>L'Union européenne : frontières et limites ; une union d'Etats à géométrie variable.<br/>Disparités et inégalités socio-spatiales : l'action de l'Union européenne sur les territoires.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">L'Union européenne : frontières et limites ; une union d'Etats à géométrie variable.<br/>Disparités et inégalités socio-spatiales : l'action de l'Union européenne sur les territoires.</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Les territoires ultramarins de l'Union européenne et leur développement<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Les territoires ultramarins de l'Union européenne et leur développement</p>
 </td>
-<td align="center">
-<p align="left">Le développement d'un territoire ultramarin : entre Union européenne et aire régionale (étude de cas).<br/>Discontinuités, distances, insularité, spécificités socio-économiques. <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Le développement d'un territoire ultramarin : entre Union européenne et aire régionale (étude de cas).<br/>Discontinuités, distances, insularité, spécificités socio-économiques. </p>
 </td>
 </tr>
 </tbody>
@@ -664,8 +594,7 @@ Thèmes 4. ― France et Europe dans le monde
 </p>
 </td>
 <td align="center">
-<p align="left">L'Union européenne, acteur et pôle majeurs de la mondialisation.<br/>Une façade maritime mondiale : la Northern Range .<br/>Une aire de relation de l'Union européenne : la Méditerranée.<br/>
-</p>
+<p align="left">L'Union européenne, acteur et pôle majeurs de la mondialisation.<br/>Une façade maritime mondiale : la Northern Range .</p>
 </td>
 </tr>
 <tr>
@@ -674,8 +603,8 @@ Thèmes 4. ― France et Europe dans le monde
 </p>
 </td>
 <td align="center">
-<p align="left">La présence française dans le monde.<br/>La France, pôle touristique mondial.<br/>Paris, ville mondiale.<br/>
-</p>
+<p align="left">La présence française dans le monde. </p>
+<p align="left">Paris, ville mondiale.</p>
 </td>
 </tr>
 </tbody>
