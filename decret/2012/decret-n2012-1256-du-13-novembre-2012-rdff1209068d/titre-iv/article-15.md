@@ -1,0 +1,3 @@
+# Article 15
+
+Le versement de cotisations prévu au VIII de l'article 64-1 de la loi du 11 juillet 2001 susvisée est calculé sur la base des derniers traitements soumis à cotisations pour pensions au titre du régime spécial de retraite du corps ou cadre d'emplois d'intégration ou de titularisation de l'intéressé, compte tenu du ou des plafonds prévus pour le calcul des cotisations de sécurité sociale au cours de la période où il a été soumis au régime spécial de retraite précité. Ce versement est effectué par l'administration, la collectivité ou l'établissement à la caisse de sécurité sociale de Mayotte, dans un délai d'un an à compter de la radiation des cadres.

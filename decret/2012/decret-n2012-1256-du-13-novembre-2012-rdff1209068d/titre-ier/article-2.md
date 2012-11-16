@@ -1,0 +1,3 @@
+# Article 2
+
+Le droit à pension unique est acquis aux agents mentionnés à l'article 1er qui remplissent la condition de deux années de services civils et militaires effectifs prévue à l'article R. 4-1 du code des pensions civiles et militaires de retraite et à l'article 7 du décret du 26 décembre 2003 susvisé. L'ensemble des services effectués par les intéressés durant leur affiliation, d'une part, au régime de la Caisse de retraites des fonctionnaires et agents des collectivités publiques de Mayotte, d'autre part, au régime spécial de retraite attaché à la fonction publique dans laquelle ils ont été intégrés ou titularisés, est pris en compte pour la constitution de ce droit.
