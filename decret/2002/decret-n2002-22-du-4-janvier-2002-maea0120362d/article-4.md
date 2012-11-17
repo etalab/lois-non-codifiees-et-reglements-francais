@@ -12,7 +12,7 @@ c) Les indemnités et avantages statutaires prévus par la réglementation en vi
 
 Aux éléments ci-dessus, s'ajoutent :
 
-d) Une indemnité mensuelle d'expatriation dont le montant annuel est fixé, pour chaque pays et par groupe, par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget.
+d) Une indemnité mensuelle d'expatriation qui tient lieu d'indemnité de résidence au sens de l'article 20 de la loi n° 83-634 modifiée portant droits et obligations des fonctionnaires dont le montant annuel est fixé, pour chaque pays et par groupe, par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget.
 
 Le montant de l'indemnité d'expatriation varie en fonction de la durée des services continus dans une même localité d'affectation ; ce montant est réduit :
 
@@ -26,9 +26,9 @@ Les taux d'ajustement de l'indemnité d'expatriation, pour tenir compte notammen
 
 La répartition par pays et par groupe des agents expatriés fait l'objet d'un arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 
-e) Le cas échéant, des majorations familiales pour enfants à charge, attribuées en lieu et place des avantages familiaux accordés aux personnels en service en France. Les majorations familiales sont attribuées quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent, son conjoint, au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
+e) Des majorations familiales pour enfants à charge, lesquelles sont attribuées en lieu et place des avantages familiaux accordés aux personnels en service en France et tiennent compte en outre des frais de scolarité des établissements français d'enseignement primaire et secondaire de référence au sein du pays ou de la zone d'affectation des agents. Les majorations familiales sont attribuées quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent ou son conjoint, au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
 
-Le montant des majorations familiales est obtenu par application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Il est majoré de 25 % pour les enfants âgés de dix à quinze ans et de 50 % pour les enfants âgés de plus de quinze ans.
+Le montant des majorations familiales est obtenu par l'application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Les majorations familiales sont fixées selon trois tranches d'âge par pays ou par localité.
 
 Un arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget fixe, pour chaque pays étranger, et compte tenu des diverses situations dans lesquelles les personnels peuvent être placés en France ou à l'étranger, le coefficient applicable pour chaque enfant à charge.
 
@@ -42,6 +42,8 @@ f) Les rémunérations supplémentaires tenant compte des obligations hebdomadai
 
 g) Le cas échéant, les indemnités prévues par le décret du 12 juin 1956 susvisé pour les personnels assurant à titre d'occupation accessoire le fonctionnement de jurys d'examen.
 
+h) Le cas échéant, pour les agents comptables secondaires de l'Agence pour l'enseignement français à l'étranger, une indemnité de caisse et de responsabilité en application des dispositions du décret n° 73-899 du 18 septembre 1973 relatif aux indemnités de caisse et de responsabilité allouées aux agents comptables des services de l'Etat dotés d'un budget annexe et aux agents comptables des établissements publics nationaux.
+
 B.-Pour les personnels résidents
 
 a) Le traitement brut soumis à retenue pour pension correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine. Pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 susvisés, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie d'établissement d'affectation déterminée par arrêté du ministre des affaires étrangères et du ministre chargé du budget.
@@ -52,7 +54,7 @@ c) Les indemnités et avantages statutaires prévus par la réglementation en vi
 
 Aux éléments ci-dessus, s'ajoutent :
 
-d) Une indemnité spécifique liée aux conditions de vie locale dont le montant annuel est fixé par pays et par groupe par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget. Ces montants sont ajustés annuellement, pour tenir compte notamment des variations des changes et des conditions locales d'existence, par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget.
+d) Une indemnité spécifique liée aux conditions de vie locale qui tient lieu d'indemnité de résidence au sens de l'article 20 de la loi n° 83-634 modifiée portant droits et obligations des fonctionnaires dont le montant annuel est fixé par pays et par groupe par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget. Ces montants sont ajustés annuellement, pour tenir compte notamment des variations des changes et des conditions locales d'existence, par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget.
 
 Le classement des personnels résidents entre les différents groupes de l'indemnité spécifique liée aux conditions de vie locale fait l'objet d'un arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 
@@ -69,3 +71,5 @@ L'avantage familial est exclusif, au titre des mêmes enfants, de la perception 
 f) Les rémunérations supplémentaires tenant compte des obligations hebdomadaires maximales d'enseignement, telles qu'elles sont définies par les statuts particuliers de ces fonctionnaires et par les décrets du 25 mai 1950 susvisés.
 
 g) Les indemnités prévues par le décret du 12 juin 1956 susvisé pour les personnels assurant à titre d'occupation accessoire le fonctionnement de jurys d'examen.
+
+h) Le cas échéant, pour les agents comptables secondaires de l'Agence pour l'enseignement français à l'étranger, une indemnité de caisse et de responsabilité en application des dispositions du décret du 18 septembre 1973 précité.
