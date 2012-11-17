@@ -806,6 +806,7 @@
 - [Décret n°2012-426 du 28 mars 2012 (EFIE1206956D)](decret-n2012-426-du-28-mars-2012-efie1206956d)
 - [Décret n°2012-427 du 28 mars 2012 (MENB1207159D)](decret-n2012-427-du-28-mars-2012-menb1207159d)
 - [Décret n°2012-828 du 28 juin 2012 (ETSX1226507D)](decret-n2012-828-du-28-juin-2012-etsx1226507d)
+- [Décret n°78-1297 du 28 décembre 1978](decret-n78-1297-du-28-decembre-1978)
 - [Décret n°2001-779 du 29 août 2001 (MENF0101286D)](decret-n2001-779-du-29-aout-2001-menf0101286d)
 - [Décret n°2011-2019 du 29 décembre 2011 (DEVD1116968D)](decret-n2011-2019-du-29-decembre-2011-devd1116968d)
 - [Décret n°2011-2054 du 29 décembre 2011 (DEVL1122066D)](decret-n2011-2054-du-29-decembre-2011-devl1122066d)
