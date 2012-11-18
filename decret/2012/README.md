@@ -415,6 +415,8 @@
 - [Décret n°2012-1154 du 15 octobre 2012 (AFSH1224071D)](decret-n2012-1154-du-15-octobre-2012-afsh1224071d)
 - [Décret n°2012-1155 du 15 octobre 2012 (MCCK1207647D)](decret-n2012-1155-du-15-octobre-2012-mcck1207647d)
 - [Décret n°2012-1156 du 15 octobre 2012 (SPOV1227352D)](decret-n2012-1156-du-15-octobre-2012-spov1227352d)
+- [Décret n°2012-1265 du 15 novembre 2012 (AGRS1236521D)](decret-n2012-1265-du-15-novembre-2012-agrs1236521d)
+- [Décret n°2012-1266 du 15 novembre 2012 (PMEI1229132D)](decret-n2012-1266-du-15-novembre-2012-pmei1229132d)
 - [Décret n°2012-213 du 15 février 2012 (JUSX1204065D)](decret-n2012-213-du-15-fevrier-2012-jusx1204065d)
 - [Décret n°2012-216 du 15 février 2012 (TRAX1204667D)](decret-n2012-216-du-15-fevrier-2012-trax1204667d)
 - [Décret n°2012-218 du 15 février 2012 (DEVK1129855D)](decret-n2012-218-du-15-fevrier-2012-devk1129855d)
