@@ -3046,7 +3046,6 @@
 - [Arrêté du 1er août 2011 (AGRE1117848A)](arrete-du-1er-aout-2011-agre1117848a)
 - [Arrêté du 1er août 2011 (AGRE1120126A)](arrete-du-1er-aout-2011-agre1120126a)
 - [Arrêté du 1er août 2011 (AGRE1120127A)](arrete-du-1er-aout-2011-agre1120127a)
-- [Arrêté du 1er août 2011 (AGRS1120886A)](arrete-du-1er-aout-2011-agrs1120886a)
 - [Arrêté du 1er août 2011 (AGRT1118307A)](arrete-du-1er-aout-2011-agrt1118307a)
 - [Arrêté du 1er août 2011 (AGRT1118873A)](arrete-du-1er-aout-2011-agrt1118873a)
 - [Arrêté du 1er août 2011 (DEFH1121132A)](arrete-du-1er-aout-2011-defh1121132a)
