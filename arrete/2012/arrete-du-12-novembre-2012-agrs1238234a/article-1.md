@@ -1,0 +1,3 @@
+# Article 1
+
+Les examens professionnels prévus au 1° du I et 1° du II de l'article 25 du décret du 11 novembre 2009 susvisé pour l'avancement aux grades de secrétaire administratif de classe supérieure et de secrétaire administratif de classe exceptionnelle relevant du ministre chargé de l'agriculture sont organisés conformément aux dispositions prévues par le présent arrêté, par le ministre chargé de l'agriculture ou par le directeur général de l'Office national des forêts, selon qu'ils concernent les fonctionnaires affectés dans les services et établissement relevant de l'une ou l'autre autorité de rattachement mentionnées à l'article 3 du décret du 24 avril 2012 susvisé.
