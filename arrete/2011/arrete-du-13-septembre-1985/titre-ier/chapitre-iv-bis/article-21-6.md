@@ -2,6 +2,6 @@
 
 L'enregistrement des paris par l'intermédiaire d'une carte privative, dénommée " La Carte PMU ", peut être proposé dans les postes d'enregistrement du Pari mutuel urbain offrant cette possibilité.
 
-Les paris par carte privative ne peuvent être enregistrés qu'en compte soumis aux dispositions du règlement du PMU pris en application du décret n° 2010-518 du 19 mai 2010 susvisé, relatives aux modalités de fonctionnement des paris en ligne, sauf stipulations particulières précisées aux articles 21.7 et 21.8 ci-dessous.
+Les paris ne peuvent être enregistrés par l'intermédiaire de la Carte PMU qu'en compte courant.
 
-Ce règlement, déposé à l'ARJEL, est consultable sur le site  www. pmu. fr.
+L'ouverture d'un compte courant au Pari mutuel urbain permettant l'obtention d'une Carte PMU est réservée aux seules personnes physiques majeures. Une même personne physique ne peut être titulaire que d'un seul compte et ne peut disposer que d'une seule Carte PMU.
