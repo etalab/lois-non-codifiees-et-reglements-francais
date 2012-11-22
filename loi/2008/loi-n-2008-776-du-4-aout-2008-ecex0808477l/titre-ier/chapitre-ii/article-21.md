@@ -23,5 +23,3 @@ Ces accords conclus avant le 1er mars 2009, sont reconnus comme satisfaisant à 
 IV.-Les I et II s'appliquent aux contrats conclus à compter du 1er janvier 2009. Toutefois, dans un secteur d'activité dans lequel un accord interprofessionnel n'a pu être signé, un décret peut, après avis de l'Autorité de la concurrence fondé sur une analyse des conditions spécifiques du secteur, prolonger cette échéance à une date ultérieure.
 
 V.-Dans le cas des commandes dites ouvertes où le donneur d'ordre ne prend aucun engagement ferme sur la quantité des produits ou sur l'échéancier des prestations ou des livraisons, les I et II s'appliquent aux appels de commande postérieurs au 1er janvier 2009.
-
-VI.-Pour les livraisons de marchandises qui font l'objet d'une importation dans le territoire fiscal des départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion, ainsi que des collectivités d'outre-mer de Mayotte, de Saint-Pierre-et-Miquelon, de Saint-Martin et de Saint-Barthélemy, le délai prévu au neuvième alinéa de l'article L. 441-6 du code de commerce est décompté à partir de la date de réception des marchandises.

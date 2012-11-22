@@ -1,0 +1,3 @@
+# Article 44
+
+La présente loi est applicable en Nouvelle-Calédonie, à l'exception des douzième et treizième alinéas de l'article 3, de l'article 3-1, du dernier alinéa des articles 9 et 10, de l'article 11-1, des quatrième, cinquième et deux derniers alinéas du II et du III de l'article 15, des articles 16 à 19, du cinquième alinéa et de la deuxième phrase du sixième alinéa de l'article 20, des quatre premiers alinéas de l'article 22-1, des quatrième et septième alinéas de l'article 22-2, de la seconde phrase du cinquième alinéa de l'article 23, de l'article 23-1, des deuxième et dernier alinéas de l'article 24, des articles 25 à 39, des II à VII de l'article 40 et des articles 41 à 43.

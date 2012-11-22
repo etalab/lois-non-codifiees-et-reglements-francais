@@ -1,3 +1,0 @@
-# Article 1
-
-En application du deuxième alinéa de l'article L. 410-2 du code de commerce, un décret en Conseil d'Etat peut réglementer, après consultation de l'Autorité de la concurrence et en conformité avec le deuxième alinéa du 2 de l'article 299 du traité instituant la Communauté européenne, le prix de vente, dans toutes les collectivités territoriales d'outre-mer pour lesquelles l'Etat a compétence en matière de réglementation des prix, de produits ou de familles de produits de première nécessité qu'il détermine pour chaque collectivité territoriale d'outre-mer en fonction de ses particularités.
