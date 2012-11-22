@@ -1,0 +1,3 @@
+# Article 6
+
+L'employeur qui a placé des salariés en position de chômage partiel avant l'entrée en vigueur du présent décret en application des dispositions du code du travail alors applicables et dont les salariés restent placés dans cette position pour les mêmes motifs après son entrée en vigueur n'est pas tenu de présenter la demande d'autorisation préalable à la mise au chômage partiel de ses salariés prévue par les dispositions de l'article R. 5122-2 du code du travail dans sa rédaction issue de l'article 3 jusqu'à l'expiration de la période fixée dans la décision d'attribution dont il a fait ou fera l'objet.

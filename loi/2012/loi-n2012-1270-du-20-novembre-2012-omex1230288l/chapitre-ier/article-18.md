@@ -1,0 +1,3 @@
+# Article 18
+
+En Guadeloupe, en Martinique, en Guyane, à Mayotte et à La Réunion ainsi que dans les collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, lorsque les pouvoirs publics décident d'une baisse de la fiscalité pesant sur les opérateurs économiques aux fins de lutter contre la hausse ou le niveau des prix de détail, les opérateurs bénéficiant directement ou indirectement de cette baisse sont tenus d'apporter aux administrations concernées et au juge, à la demande de ces derniers, tout élément utile permettant d'établir la répercussion effective de cette baisse sur les prix.

@@ -508,6 +508,7 @@
 - [Décret n°90-676 du 18 juillet 1990 (MENF9001240D)](decret-n90-676-du-18-juillet-1990-menf9001240d)
 - [Décret n°2005-830 du 19 juillet 2005 (MENF0501230D)](decret-n2005-830-du-19-juillet-2005-menf0501230d)
 - [Décret n°2011-1899 du 19 décembre 2011 (PRMX1125170D)](decret-n2011-1899-du-19-decembre-2011-prmx1125170d)
+- [Décret n°2012-1271 du 19 novembre 2012 (ETSD1236960D)](decret-n2012-1271-du-19-novembre-2012-etsd1236960d)
 - [Décret n°2012-377 du 19 mars 2012 (IOCD1128516D)](decret-n2012-377-du-19-mars-2012-iocd1128516d)
 - [Décret n°2012-378 du 19 mars 2012 (IOCB1133454D)](decret-n2012-378-du-19-mars-2012-iocb1133454d)
 - [Décret n°2012-379 du 19 mars 2012 (EFIP1135401D)](decret-n2012-379-du-19-mars-2012-efip1135401d)
