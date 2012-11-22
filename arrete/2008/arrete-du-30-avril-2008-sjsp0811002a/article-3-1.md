@@ -1,0 +1,3 @@
+# Article 3-1
+
+Dans le cadre des missions exercées en application de l'article 5 de l'arrêté du 15 mars 2011 relatif aux modalités d'agrément, de désignation et de consultation des hydrogéologues en matière d'hygiène publique, l'hydrogéologue agréé coordonnateur est indemnisé par l'agence régionale de santé, chaque année, sur la base d'une part fixe de cinq vacations et d'une part variable calculée en fonction du nombre de dossiers transmis aux hydrogéologues agréés dans l'année, à hauteur de deux vacations par dossier et pour un montant maximum de cent vingt vacations. Le montant de la vacation est défini à l'article 4.

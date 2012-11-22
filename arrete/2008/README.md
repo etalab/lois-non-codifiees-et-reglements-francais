@@ -1192,6 +1192,7 @@
 - [Arrêté du 29 septembre 2008 (DEVP0823140A)](arrete-du-29-septembre-2008-devp0823140a)
 - [Arrêté du 29 septembre 2008 (DEVS0819336A)](arrete-du-29-septembre-2008-devs0819336a)
 - [Arrêté du 29 mai 2008 (ESRR0812596A)](arrete-du-29-mai-2008-esrr0812596a)
+- [Arrêté du 30 avril 2008 (SJSP0811002A)](arrete-du-30-avril-2008-sjsp0811002a)
 - [Arrêté du 30 décembre 2005 (MJSK0570269A)](arrete-du-30-decembre-2005-mjsk0570269a)
 - [Arrêté du 30 décembre 2008 (ESRF0820737A)](arrete-du-30-decembre-2008-esrf0820737a)
 - [Arrêté du 30 janvier 2008 (DEFH0801325A)](arrete-du-30-janvier-2008-defh0801325a)
