@@ -456,7 +456,6 @@
 - [Arrêté du 18 août 2004 (MAEA0420128A)](arrete-du-18-aout-2004-maea0420128a)
 - [Arrêté du 18 décembre 2003 (DEVG0320467A)](arrete-du-18-decembre-2003-devg0320467a)
 - [Arrêté du 18 décembre 2003 (DEVN0320466A)](arrete-du-18-decembre-2003-devn0320466a)
-- [Arrêté du 18 décembre 2003 (ECOK0300045A)](arrete-du-18-decembre-2003-ecok0300045a)
 - [Arrêté du 18 décembre 2003 (SANH0324976A)](arrete-du-18-decembre-2003-sanh0324976a)
 - [Arrêté du 18 décembre 2003 (SANS0324434A)](arrete-du-18-decembre-2003-sans0324434a)
 - [Arrêté du 18 février 2004 (MENF0400156A)](arrete-du-18-fevrier-2004-menf0400156a)
