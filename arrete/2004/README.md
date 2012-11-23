@@ -322,7 +322,6 @@
 - [Arrêté du 13 octobre 2004 (SANG0423399A)](arrete-du-13-octobre-2004-sang0423399a)
 - [Arrêté du 13 septembre 2004 (INDI0403669A)](arrete-du-13-septembre-2004-indi0403669a)
 - [Arrêté du 13 mai 2004 (MAEA0420129A)](arrete-du-13-mai-2004-maea0420129a)
-- [Arrêté du 13 mai 2004 (MENA0401126A)](arrete-du-13-mai-2004-mena0401126a)
 - [Arrêté du 13 mai 2004 (MENE0400867A)](arrete-du-13-mai-2004-mene0400867a)
 - [Arrêté du 13 mai 2004 (MENS0400956A)](arrete-du-13-mai-2004-mens0400956a)
 - [Arrêté du 13 mai 2004 (SOCF0410985A)](arrete-du-13-mai-2004-socf0410985a)
