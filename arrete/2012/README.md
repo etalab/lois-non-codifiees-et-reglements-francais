@@ -129,6 +129,7 @@
 - [Arrêté du 3 avril 2012 (JUSK1220688A)](arrete-du-3-avril-2012-jusk1220688a)
 - [Arrêté du 3 avril 2012 (PRMX1209511A)](arrete-du-3-avril-2012-prmx1209511a)
 - [Arrêté du 3 avril 2012 (PRMX1209515A)](arrete-du-3-avril-2012-prmx1209515a)
+- [Arrêté du 3 février 1954](arrete-du-3-fevrier-1954)
 - [Arrêté du 3 février 1993 (SANH9202687A)](arrete-du-3-fevrier-1993-sanh9202687a)
 - [Arrêté du 3 février 2012 (AGRS1133185A)](arrete-du-3-fevrier-2012-agrs1133185a)
 - [Arrêté du 3 février 2012 (AGRT1200492A)](arrete-du-3-fevrier-2012-agrt1200492a)
