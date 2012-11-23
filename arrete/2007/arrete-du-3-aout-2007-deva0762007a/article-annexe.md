@@ -2,46 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 28 février 2011 :
-
-Paris - Maurice (île Maurice) ;
-
-Lyon - Maurice (île Maurice).
-
-Jusqu'au 31 juillet 2011 :
-
-Paris - Montego Bay (Jamaïque).
-
-Jusqu'au 31 octobre 2011 :
-
-Paris - Casablanca (Maroc).
-
-Jusqu'au 1er juillet 2012 :
-
-Paris - Dzaoudzi (Mayotte).
-
-Jusqu'au 31 juillet 2012 :
-
-Paris - Sal (Cap-Vert) ;
-
-Paris - Antananarivo (Madagascar) ;
-
-Paris - Nosy Bé (Madagascar) ;
-
-Marseille - Casablanca (Maroc) ;
-
-Lyon - Casablanca (Maroc) ;
-
-Paris - La Romana (République dominicaine) ;
-
-Paris - Punta Cana (République dominicaine) ;
-
-Paris - Puerto Plata (République dominicaine) ;
-
-Paris - Samana (République dominicaine) ;
-
-Paris - Dakar (Sénégal).
-
 Jusqu'au 31 mai 2013 :
 
 Paris - Al Ain (Emirats arabes unis) (fret uniquement) ;
@@ -173,3 +133,7 @@ Fort-de-France - Roseau (la Dominique) ;
 Pointe-à-Pitre - Roseau (la Dominique) ;
 
 Paris - Rio de Janeiro (Brésil).
+
+Jusqu'au 1er novembre 2017 :
+
+Paris - Abidjan (Côte d'Ivoire).
