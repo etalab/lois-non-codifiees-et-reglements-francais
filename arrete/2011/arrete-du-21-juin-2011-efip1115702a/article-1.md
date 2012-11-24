@@ -20,6 +20,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Agence nationale des fréquences <br/>
+</p>
+</td>
+<td> Chef du service régional de Villejuif (à compter du 1er janvier 2013)</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Agence du patrimoine immatériel de l'Etat <br/>
 </p>

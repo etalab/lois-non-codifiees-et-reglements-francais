@@ -26,7 +26,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur adjoint de la direction technique du contrôle du spectre <br/>
+<p align="left">Directeur adjoint de la direction technique du contrôle du spectre (supprimé à compter du 1er janvier 2013)<br/>
 </p>
 </td>
 </tr>
@@ -39,6 +39,10 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <p align="left">Chef du bureau " économie, statistiques et techniques de l'achat public " <br/>
 </p>
 </td>
+</tr>
+<tr>
+<td>Direction générale de l'administration et de la fonction publique</td>
+<td> Chef du bureau des statuts particuliers et des filières de métiers (à compter du 16 avril 2012)</td>
 </tr>
 <tr>
 <td align="center">
