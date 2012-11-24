@@ -324,7 +324,7 @@ La période choisie pour l'évaluation pouvant être différente pour chacun des
 
 Les évaluateurs (et/ou professionnels) proposent une note pour cette partie.
 
-3ème partie de l'évaluation (coef. 0,5) :  Oral de présentation des travaux réalisés.
+3ème partie de l'évaluation (coef. 0,5) : Oral de présentation des travaux réalisés.
 
 Cette partie concerne l'évaluation des compétences mises en œuvre lors de la présentation orale du candidat des quatre activités significatives de travail réalisée et de l'étude de cas devant la commission d'évaluateurs et en prenant appui sur le dossier de synthèse.
 
@@ -334,7 +334,7 @@ La présentation orale du candidat (durée conseillée, 10 minutes) est suivie d
 
 La note finale proposée au jury résulte de la moyenne des notes obtenues aux trois parties affectées de leur coefficient.
 
-Sous-épreuve E32  : mise en service d'un ouvrage - U32 - Coefficient : 1,5
+Sous-épreuve E32 : mise en service d'un ouvrage - U32 - Coefficient : 1,5
 
 Finalités et objectifs de la sous - épreuve :
 
@@ -366,7 +366,7 @@ A partir :
 
 - des notices techniques.
 
--  des mesureurs.
+- des mesureurs.
 
 Le candidat en vue de la mise en service de l'ouvrage doit :
 
@@ -542,7 +542,7 @@ Après examen attentif des documents fournis, le cas échéant, le jury formule 
 
 Une commission académique de suivi, pilotée par l'Inspecteur de l'Éducation Nationale en charge de la filière, se réunit une fois dans l'année au cours d'une session, pour veiller à une harmonisation académique du niveau de difficulté des situations proposées aux différentes catégories de candidats concernés.
 
-Sous-épreuve E34  : réglage, paramétrage, contrôle, modification liés au champ d'application - U34 - Coefficient : 2
+Sous-épreuve E34 : réglage, paramétrage, contrôle, modification liés au champ d'application - U34 - Coefficient : 2
 
 Finalités et objectifs de la sous - épreuve :
 
@@ -560,7 +560,7 @@ Cette sous - épreuve doit permettre de vérifier les compétences du candidat �
 
 Cette épreuve a pour but de valider tout ou partie des compétences du référentiel de certification : C2-7 C2-9 C2-12 C3-5 C4-1 C4-3 et des savoirs technologiques qui leur sont associés. Les savoirs technologiques se rapportant au champ d'application "habitat/tertiaire" ou "industriel" choisi par le candidat lors de son inscription à l'examen sont plus particulièrement mobilisés lors de cette sous - épreuve.
 
-Contenu de la  sous - épreuve :
+Contenu de la sous - épreuve :
 
 La situation proposée est aussi proche que possible d'une situation réelle. Le candidat intervient sur l'ouvrage mais majoritairement sur l'application terminale se rapportant au champ d'application "habitat/Tertiaire" ou "industriel "qu'il a choisi.
 
@@ -652,7 +652,7 @@ Seule cette fiche d'analyse est transmise au jury, accompagnée de la propositio
 
 Une commission académique de suivi, pilotée par l'Inspecteur de l'Éducation Nationale en charge de la filière, se réunit une fois dans l'année au cours d'une session, pour veiller à une harmonisation académique du niveau de difficulté des situations proposées aux différentes catégories de candidats concernés.
 
-E4  Épreuve de langue vivante - U4 - Coefficient : 2
+E4 Épreuve de langue vivante - U4 - Coefficient : 2
 
 Ponctuelle : évaluation écrite d'une durée de 2 heures (Arrêté du 6 avril 1994 B.O. n° 21 du 26 mai 1994).
 
@@ -756,7 +756,7 @@ Le support proposé par le formateur permettra d'évaluer l'aptitude à :
 
 - dialoguer en langue vivante étrangère à l'aide de constructions simples, composées, dans une situation simple de la vie courante. Ce dialogue pourra porter sur des faits à caractère personnel, de société ou de civilisation.
 
-Le candidat devra faire  preuve des compétences suivantes :
+Le candidat devra faire preuve des compétences suivantes :
 
 - mobilisation des acquis
 
@@ -766,7 +766,7 @@ Le candidat devra faire  preuve des compétences suivantes :
 
 Exigences lexicales et grammaticales : cf. programme de consolidation de seconde et référentiel BEP ou programme BEP
 
-E5  Épreuve de français  histoire géographie - U51 - U52 - Coefficient : 5
+E5 Épreuve de français histoire géographie - U51 - U52 - Coefficient : 5
 
 Sous-épreuve E51 : Français - U51 - Coefficient : 3
 
@@ -854,7 +854,7 @@ Il répond à une série de questions qui visent à évaluer ses compétences à
 
 Ces questions, qui ne peuvent se réduire à une demande de définitions, permettant au candidat de faire la preuve qu'il maîtrise les méthodes d'analyse des documents et qu'il sait en tirer parti pour comprendre une situation historique ou géographique. Il élabore ensuite une courte synthèse intégrant les éléments apportés par le dossier et ses connaissances.
 
-Les documents constituent un ensemble cohérent qui permet une véritable mise en relation. La cohérence réside dans  la situation envisagée et la (ou les) notion(s) qui s'y rapporte(nt).
+Les documents constituent un ensemble cohérent qui permet une véritable mise en relation. La cohérence réside dans la situation envisagée et la (ou les) notion(s) qui s'y rapporte(nt).
 
 La synthèse consiste en un texte rédigé qui peut être accompagné par une carte, un croquis ou un schéma à l'initiative du candidat ou en réponse à une question expressément formulée.
 
@@ -884,7 +884,7 @@ Deux des quatre situations d'évaluation doivent donner lieu à la réalisation 
 
 La synthèse demandée comporte une vingtaine de lignes : elle est guidée par un plan indicatif ou un questionnement.
 
-E6  Épreuve d'éducation artistique - arts appliqués - U6 - Coefficient : 1
+E6 Épreuve d'éducation artistique - arts appliqués - U6 - Coefficient : 1
 
 Finalités et objectifs dé l'évaluation
 
@@ -910,7 +910,7 @@ Le contenu de l'analyse peut porter sur la comparaison entre l'organisation plas
 
 La recherche porte sur un problème appartenant à l'un des domaines des arts appliqués. Elle doit être présentée sous forme d'esquisse(s) graphique(s) et/ou colorée(s) assortie(s) d'un commentaire écrit, justifiant les choix effectués par le candidat.
 
-Un jury académique composé de professeurs de la discipline procède à la correction et la  notation de l'épreuve.
+Un jury académique composé de professeurs de la discipline procède à la correction et la notation de l'épreuve.
 
 Contrôle en cours de formation
 
@@ -962,9 +962,9 @@ Troisième situation d'évaluation L'évaluation de cette troisième situation p
 
 - évaluer la qualité esthétique d'un produit.
 
-Le problème est  imposé ainsi que l'objet d'étude, en revanche, les références (images et textes) sont proposées, le candidat sélectionne des documents ou des éléments documentaires en fonction de son analyse personnelle et de son argumentaire.
+Le problème est imposé ainsi que l'objet d'étude, en revanche, les références (images et textes) sont proposées, le candidat sélectionne des documents ou des éléments documentaires en fonction de son analyse personnelle et de son argumentaire.
 
-E7  Épreuve d'éducation physique et sportive - U7 - Coefficient : 1
+E7 Épreuve d'éducation physique et sportive - U7 - Coefficient : 1
 
 Forme ponctuelle et Forme contrôle en cours de formation
 
@@ -1014,7 +1014,7 @@ A partir de données recueillies au cours de la période de formation en milieu 
 
 Le candidat précise sa démarche, justifie les effets possibles sur la santé ainsi que les solutions mises en œuvre ou possibles.
 
-3ème  situation d'évaluation : évaluation pratique consistant en une intervention de secourisme notée sur 6 points.
+3ème situation d'évaluation : évaluation pratique consistant en une intervention de secourisme notée sur 6 points.
 
 Le comportement du candidat face à une situation d'urgence est évalué par des moniteurs de secourisme.
 
