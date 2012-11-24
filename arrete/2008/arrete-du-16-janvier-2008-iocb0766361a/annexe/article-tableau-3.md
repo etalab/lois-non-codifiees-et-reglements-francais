@@ -2,765 +2,184 @@
 
 Catégorie C
 
-Grade de sapeur
+Grade d'adjudant
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉCHELONS </th>
-<th>
-<br/>INDICE <p>brut </p>
-<p>au </p>
-<p>1er mai 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>brut </p>
-<p>au </p>
-<p>1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>au </p>
-<p>1er mai 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>au </p>
-<p>1er juillet 2008 </p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>au </p>
-<p>1er juillet 2009 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>incluant </p>
-<p>la prime de feu </p>
-<p>au 1er mai 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>incluant </p>
-<p>la prime de feu </p>
-<p>au </p>
-<p>1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>incluant </p>
-<p>la prime de feu </p>
-<p>au </p>
-<p>1er juillet 2009 <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>11e <br/>
+<td width="167">
+<p align="center">ÉCHELONS </p>
 </td>
-<td align="center">
-<br/>409 <br/>
+<td width="168">
+<p align="center">INDICE BRUT <br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>413 <br/>
+<td width="168">
+<p align="center">INDICE MAJORÉ<br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>368 <br/>
-</td>
-<td align="center">
-<br/>369 <br/>
-</td>
-<td align="center">
-<br/>369 <br/>
-</td>
-<td align="center">
-<br/>438 <br/>
-</td>
-<td align="center">
-<br/>439 <br/>
-</td>
-<td align="center">
-<br/>439 <br/>
+<td width="167">
+<p align="center">INDICE MAJORÉ INCLUANT <br/>la prime de feu au 1er mai 2012 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e <br/>
+<td width="167">
+<p align="center">
+<br/>9e </p>
 </td>
-<td align="center">
-<br/>382 <br/>
+<td width="168">
+<p align="center">
+<br/>529 </p>
 </td>
-<td align="center">
-<br/>389 <br/>
+<td width="168">
+<p align="center">
+<br/>453 </p>
 </td>
-<td align="center">
-<br/>352 <br/>
-</td>
-<td align="center">
-<br/>356 <br/>
-</td>
-<td align="center">
-<br/>356 <br/>
-</td>
-<td align="center">
-<br/>419 <br/>
-</td>
-<td align="center">
-<br/>424 <br/>
-</td>
-<td align="center">
-<br/>424 <br/>
+<td width="167">
+<p align="center">
+<br/>539 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e <br/>
+<td width="167">
+<p align="center">
+<br/>8e </p>
 </td>
-<td align="center">
-<br/>374 <br/>
+<td width="168">
+<p align="center">
+<br/>499 </p>
 </td>
-<td align="center">
-<br/>374 <br/>
+<td width="168">
+<p align="center">
+<br/>430 </p>
 </td>
-<td align="center">
-<br/>345 <br/>
-</td>
-<td align="center">
-<br/>345 <br/>
-</td>
-<td align="center">
-<br/>345 <br/>
-</td>
-<td align="center">
-<br/>411 <br/>
-</td>
-<td align="center">
-<br/>411 <br/>
-</td>
-<td align="center">
-<br/>411 <br/>
+<td width="167">
+<p align="center">
+<br/>512 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e <br/>
+<td width="167">
+<p align="center">
+<br/>7e </p>
 </td>
-<td align="center">
-<br/>360 <br/>
+<td width="168">
+<p align="center">
+<br/>481 </p>
 </td>
-<td align="center">
-<br/>360 <br/>
+<td width="168">
+<p align="center">
+<br/>417 </p>
 </td>
-<td align="center">
-<br/>335 <br/>
-</td>
-<td align="center">
-<br/>335 <br/>
-</td>
-<td align="center">
-<br/>335 <br/>
-</td>
-<td align="center">
-<br/>399 <br/>
-</td>
-<td align="center">
-<br/>399 <br/>
-</td>
-<td align="center">
-<br/>399 <br/>
+<td width="167">
+<p align="center">
+<br/>496 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e <br/>
+<td width="167">
+<p align="center">
+<br/>6e </p>
 </td>
-<td align="center">
-<br/>343 <br/>
+<td width="168">
+<p align="center">
+<br/>464 </p>
 </td>
-<td align="center">
-<br/>347 <br/>
+<td width="168">
+<p align="center">
+<br/>406 </p>
 </td>
-<td align="center">
-<br/>324 <br/>
-</td>
-<td align="center">
-<br/>325 <br/>
-</td>
-<td align="center">
-<br/>325 <br/>
-</td>
-<td align="center">
-<br/>386 <br/>
-</td>
-<td align="center">
-<br/>387 <br/>
-</td>
-<td align="center">
-<br/>387 <br/>
+<td width="167">
+<p align="center">
+<br/>483 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e <br/>
+<td width="167">
+<p align="center">
+<br/>5e </p>
 </td>
-<td align="center">
-<br/>333 <br/>
+<td width="168">
+<p align="center">
+<br/>450 </p>
 </td>
-<td align="center">
-<br/>333 <br/>
+<td width="168">
+<p align="center">
+<br/>395 </p>
 </td>
-<td align="center">
-<br/>316 <br/>
-</td>
-<td align="center">
-<br/>316 <br/>
-</td>
-<td align="center">
-<br/>316 <br/>
-</td>
-<td align="center">
-<br/>376 <br/>
-</td>
-<td align="center">
-<br/>376 <br/>
-</td>
-<td align="center">
-<br/>376 <br/>
+<td width="167">
+<p align="center">
+<br/>470 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e <br/>
+<td width="167">
+<p align="center">
+<br/>4e </p>
 </td>
-<td align="center">
-<br/>320 <br/>
+<td width="168">
+<p align="center">
+<br/>422 </p>
 </td>
-<td align="center">
-<br/>323 <br/>
+<td width="168">
+<p align="center">
+<br/>375 </p>
 </td>
-<td align="center">
-<br/>306 <br/>
-</td>
-<td align="center">
-<br/>308 <br/>
-</td>
-<td align="center">
-<br/>308 <br/>
-</td>
-<td align="center">
-<br/>364 <br/>
-</td>
-<td align="center">
-<br/>367 <br/>
-</td>
-<td align="center">
-<br/>367 <br/>
+<td width="167">
+<p align="center">
+<br/>446 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e <br/>
+<td width="167">
+<p align="center">
+<br/>3e </p>
 </td>
-<td align="center">
-<br/>307 <br/>
+<td width="168">
+<p align="center">
+<br/>394 </p>
 </td>
-<td align="center">
-<br/>310 <br/>
+<td width="168">
+<p align="center">
+<br/>359 </p>
 </td>
-<td align="center">
-<br/>298 <br/>
-</td>
-<td align="center">
-<br/>300 <br/>
-</td>
-<td align="center">
-<br/>300 <br/>
-</td>
-<td align="center">
-<br/>355 <br/>
-</td>
-<td align="center">
-<br/>357 <br/>
-</td>
-<td align="center">
-<br/>357 <br/>
+<td width="167">
+<p align="center">
+<br/>427 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e <br/>
+<td width="167">
+<p align="center">
+<br/>2e </p>
 </td>
-<td align="center">
-<br/>298 <br/>
+<td width="168">
+<p align="center">
+<br/>370 </p>
 </td>
-<td align="center">
-<br/>303 <br/>
+<td width="168">
+<p align="center">
+<br/>342 </p>
 </td>
-<td align="center">
-<br/>291 <br/>
-</td>
-<td align="center">
-<br/>295 <br/>
-</td>
-<td align="center">
-<br/>295 <br/>
-</td>
-<td align="center">
-<br/>346 <br/>
-</td>
-<td align="center">
-<br/>351 <br/>
-</td>
-<td align="center">
-<br/>351 <br/>
+<td width="167">
+<p align="center">
+<br/>407 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e <br/>
-</td>
-<td align="center">
-<br/>290 <br/>
-</td>
-<td align="center">
-<br/>299 <br/>
-</td>
-<td align="center">
-<br/>288 <br/>
-</td>
-<td align="center">
-<br/>292 <br/>
-</td>
-<td align="center">
-<br/>294 <br/>
-</td>
-<td align="center">
-<br/>343 <br/>
-</td>
-<td align="center">
-<br/>347 <br/>
-</td>
-<td align="center">
-<br/>350 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er <br/>
-</td>
-<td align="center">
-<br/>287 <br/>
-</td>
-<td align="center">
-<br/>298 <br/>
-</td>
-<td align="center">
-<br/>288 <br/>
-</td>
-<td align="center">
-<br/>291 <br/>
-</td>
-<td align="center">
-<br/>293 <br/>
-</td>
-<td align="center">
-<br/>343 <br/>
-</td>
-<td align="center">
-<br/>346 <br/>
-</td>
-<td align="center">
-<br/>349 <br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-Grade de caporal
-
-<table>
-<tbody>
-<tr>
-<th>
-<br/>ÉCHELONS </th>
-<th>
-<br/>INDICE <p>brut </p>
-<p>au </p>
-<p>1er mai 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>brut </p>
-<p>au </p>
-<p>1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>au </p>
-<p>1er mai 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>au </p>
-<p>1er juillet 2008 </p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>au </p>
-<p>1er juillet 2009 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>incluant </p>
-<p>la prime de feu </p>
-<p>au 1er mai 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>incluant </p>
-<p>la prime de feu </p>
-<p>au </p>
-<p>1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE <p>majoré </p>
-<p>incluant </p>
-<p>la prime de feu </p>
-<p>au </p>
-<p>1er juillet 2009 <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>11e <br/>
-</td>
-<td align="center">
-<br/>446 <br/>
-</td>
-<td align="center">
-<br/>446 <br/>
-</td>
-<td align="center">
-<br/>392 <br/>
-</td>
-<td align="center">
-<br/>392 <br/>
-</td>
-<td align="center">
-<br/>392 <br/>
-</td>
-<td align="center">
-<br/>466 <br/>
-</td>
-<td align="center">
-<br/>466 <br/>
-</td>
-<td align="center">
-<br/>466 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>10e <br/>
-</td>
-<td align="center">
-<br/>427 <br/>
-</td>
-<td align="center">
-<br/>427 <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>451 <br/>
-</td>
-<td align="center">
-<br/>451 <br/>
-</td>
-<td align="center">
-<br/>451 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>9e <br/>
-</td>
-<td align="center">
-<br/>396 <br/>
-</td>
-<td align="center">
-<br/>398 <br/>
-</td>
-<td align="center">
-<br/>360 <br/>
-</td>
-<td align="center">
-<br/>362 <br/>
-</td>
-<td align="center">
-<br/>362 <br/>
-</td>
-<td align="center">
-<br/>428 <br/>
-</td>
-<td align="center">
-<br/>431 <br/>
-</td>
-<td align="center">
-<br/>431 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>8e <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>380 <br/>
-</td>
-<td align="center">
-<br/>349 <br/>
-</td>
-<td align="center">
-<br/>350 <br/>
-</td>
-<td align="center">
-<br/>350 <br/>
-</td>
-<td align="center">
-<br/>415 <br/>
-</td>
-<td align="center">
-<br/>417 <br/>
-</td>
-<td align="center">
-<br/>417 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>7e <br/>
-</td>
-<td align="center">
-<br/>363 <br/>
-</td>
-<td align="center">
-<br/>364 <br/>
-</td>
-<td align="center">
-<br/>337 <br/>
-</td>
-<td align="center">
-<br/>338 <br/>
-</td>
-<td align="center">
-<br/>338 <br/>
-</td>
-<td align="center">
-<br/>401 <br/>
-</td>
-<td align="center">
-<br/>402 <br/>
-</td>
-<td align="center">
-<br/>402 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>6e <br/>
-</td>
-<td align="center">
-<br/>347 <br/>
-</td>
-<td align="center">
-<br/>351 <br/>
-</td>
-<td align="center">
-<br/>325 <br/>
-</td>
-<td align="center">
-<br/>328 <br/>
-</td>
-<td align="center">
-<br/>328 <br/>
-</td>
-<td align="center">
-<br/>387 <br/>
-</td>
-<td align="center">
-<br/>390 <br/>
-</td>
-<td align="center">
-<br/>390 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>5e <br/>
-</td>
-<td align="center">
-<br/>334 <br/>
-</td>
-<td align="center">
-<br/>336 <br/>
-</td>
-<td align="center">
-<br/>317 <br/>
-</td>
-<td align="center">
-<br/>318 <br/>
-</td>
-<td align="center">
-<br/>318 <br/>
-</td>
-<td align="center">
-<br/>377 <br/>
-</td>
-<td align="center">
-<br/>378 <br/>
-</td>
-<td align="center">
-<br/>378 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e <br/>
-</td>
-<td align="center">
-<br/>321 <br/>
-</td>
-<td align="center">
-<br/>322 <br/>
-</td>
-<td align="center">
-<br/>307 <br/>
-</td>
-<td align="center">
-<br/>308 <br/>
-</td>
-<td align="center">
-<br/>308 <br/>
-</td>
-<td align="center">
-<br/>365 <br/>
-</td>
-<td align="center">
-<br/>367 <br/>
-</td>
-<td align="center">
-<br/>367 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e <br/>
-</td>
-<td align="center">
-<br/>307 <br/>
-</td>
-<td align="center">
-<br/>307 <br/>
-</td>
-<td align="center">
-<br/>298 <br/>
-</td>
-<td align="center">
-<br/>298 <br/>
-</td>
-<td align="center">
-<br/>298 <br/>
-</td>
-<td align="center">
-<br/>355 <br/>
-</td>
-<td align="center">
-<br/>355 <br/>
-</td>
-<td align="center">
-<br/>355 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e <br/>
-</td>
-<td align="center">
-<br/>298 <br/>
-</td>
-<td align="center">
-<br/>302 <br/>
-</td>
-<td align="center">
-<br/>291 <br/>
-</td>
-<td align="center">
-<br/>294 <br/>
-</td>
-<td align="center">
-<br/>295 <br/>
-</td>
-<td align="center">
-<br/>346 <br/>
-</td>
-<td align="center">
-<br/>350 <br/>
-</td>
-<td align="center">
-<br/>351 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er <br/>
-</td>
-<td align="center">
-<br/>290 <br/>
-</td>
-<td align="center">
-<br/>299 <br/>
-</td>
-<td align="center">
-<br/>288 <br/>
-</td>
-<td align="center">
-<br/>292 <br/>
-</td>
-<td align="center">
-<br/>294 <br/>
-</td>
-<td align="center">
-<br/>343 <br/>
-</td>
-<td align="center">
-<br/>347 <br/>
-</td>
-<td align="center">
-<br/>350 <br/>
+<td width="167">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>351 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>390 </p>
 </td>
 </tr>
 </tbody>
@@ -771,228 +190,1967 @@ Grade de sergent
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉCHELONS <br/>
-</th>
-<th>
-<br/>INDICE BRUT <p>au 1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE MAJORÉ <p>au 1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE MAJORÉ <p>incluant la prime de feu </p>
-<p>au 1er juillet 2008 <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>6e <br/>
+<td width="167">
+<p align="center">ÉCHELONS</p>
 </td>
-<td align="center">
-<br/>479 <br/>
+<td width="168">
+<p align="center">INDICE BRUT au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>416 <br/>
+<td width="168">
+<p align="center">INDICE MAJORÉ<br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>495 <br/>
+<td width="167">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er mai 2012 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e <br/>
+<td width="167">
+<p align="center">
+<br/>8e </p>
 </td>
-<td align="center">
-<br/>449 <br/>
+<td width="168">
+<p align="center">
+<br/>499 </p>
 </td>
-<td align="center">
-<br/>394 <br/>
+<td width="168">
+<p align="center">
+<br/>430 </p>
 </td>
-<td align="center">
-<br/>469 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e <br/>
-</td>
-<td align="center">
-<br/>427 <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>451 <br/>
+<td width="167">
+<p align="center">
+<br/>512 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e <br/>
+<td width="167">
+<p align="center">
+<br/>7e </p>
 </td>
-<td align="center">
-<br/>398 <br/>
+<td width="168">
+<p align="center">
+<br/>479 </p>
 </td>
-<td align="center">
-<br/>362 <br/>
+<td width="168">
+<p align="center">
+<br/>416 </p>
 </td>
-<td align="center">
-<br/>431 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e <br/>
-</td>
-<td align="center">
-<br/>380 <br/>
-</td>
-<td align="center">
-<br/>350 <br/>
-</td>
-<td align="center">
-<br/>417 <br/>
+<td width="167">
+<p align="center">
+<br/>495 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er <br/>
+<td width="167">
+<p align="center">
+<br/>6e </p>
 </td>
-<td align="center">
-<br/>351 <br/>
+<td width="168">
+<p align="center">
+<br/>449 </p>
 </td>
-<td align="center">
-<br/>328 <br/>
+<td width="168">
+<p align="center">
+<br/>394 </p>
 </td>
-<td align="center">
-<br/>390 <br/>
+<td width="167">
+<p align="center">
+<br/>469 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>5e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>427 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>379 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>451 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>4e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>398 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>431 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>380 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>350 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>417 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>351 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>390 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>336 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>318 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>378 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Grade d'adjudant
+Grade de caporal-chef
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉCHELONS <br/>
-</th>
-<th>
-<br/>INDICE BRUT <p>au 1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE MAJORÉ <p>au 1er juillet 2008 <br/>
-</p>
-</th>
-<th>
-<br/>INDICE MAJORÉ <p>incluant la prime de feu </p>
-<p>au 1er juillet 2008 <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>7e <br/>
+<td width="167">
+<p align="center">ÉCHELONS</p>
 </td>
-<td align="center">
-<br/>529 <br/>
+<td width="168">
+<p align="center">INDICE BRUT <br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>453 <br/>
+<td width="168">
+<p align="center">INDICE MAJORÉ <br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>539 <br/>
+<td width="167">
+<p align="center">INDICE MAJORÉ <br/>incluant la prime de feu au 1er mai 2012 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e <br/>
+<td width="167">
+<p align="center">
+<br/>7e </p>
 </td>
-<td align="center">
-<br/>499 <br/>
+<td width="168">
+<p align="center">
+<br/>479 </p>
 </td>
-<td align="center">
-<br/>430 <br/>
+<td width="168">
+<p align="center">
+<br/>416 </p>
 </td>
-<td align="center">
-<br/>512 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>5e <br/>
-</td>
-<td align="center">
-<br/>469 <br/>
-</td>
-<td align="center">
-<br/>410 <br/>
-</td>
-<td align="center">
-<br/>488 <br/>
+<td width="167">
+<p align="center">
+<br/>495 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e <br/>
+<td width="167">
+<p align="center">
+<br/>6e </p>
 </td>
-<td align="center">
-<br/>440 <br/>
+<td width="168">
+<p align="center">
+<br/>449 </p>
 </td>
-<td align="center">
-<br/>387 <br/>
+<td width="168">
+<p align="center">
+<br/>394 </p>
 </td>
-<td align="center">
-<br/>461 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e <br/>
-</td>
-<td align="center">
-<br/>410 <br/>
-</td>
-<td align="center">
-<br/>368 <br/>
-</td>
-<td align="center">
-<br/>438 <br/>
+<td width="167">
+<p align="center">
+<br/>469 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e <br/>
+<td width="167">
+<p align="center">
+<br/>5e </p>
 </td>
-<td align="center">
-<br/>387 <br/>
+<td width="168">
+<p align="center">
+<br/>424 </p>
 </td>
-<td align="center">
-<br/>354 <br/>
+<td width="168">
+<p align="center">
+<br/>377 </p>
 </td>
-<td align="center">
-<br/>421 <br/>
+<td width="167">
+<p align="center">
+<br/>449 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er <br/>
+<td width="167">
+<p align="center">
+<br/>4e </p>
 </td>
-<td align="center">
-<br/>358 <br/>
+<td width="168">
+<p align="center">
+<br/>396 </p>
 </td>
-<td align="center">
-<br/>333 <br/>
+<td width="168">
+<p align="center">
+<br/>360 </p>
 </td>
-<td align="center">
-<br/>396<br/>
+<td width="167">
+<p align="center">
+<br/>428 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>377 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>347 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>413 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>336 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>400 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>347 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>325 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>387 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grade de caporal
+
+<table>
+<tbody>
+<tr>
+<td width="94">
+<p>ÉCHELONS</p>
+</td>
+<td width="95">
+<p>INDICE BRUT au 1er janvier 2011 </p>
+</td>
+<td width="95">
+<p>INDICE BRUT au 1er janvier 2012</p>
+</td>
+<td width="95">
+<p>INDICE MAJORÉ au 1er janvier 2011 </p>
+</td>
+<td width="95">
+<p>INDICE MAJORÉ au 1er janvier 2012 </p>
+</td>
+<td width="95">
+<p>NDICE MAJORÉ incluant la prime de feu au 1er janvier 2011 </p>
+</td>
+<td width="94">
+<p>INDICE MAJORÉ incluant la prime de feu au 1er janvier 2012 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>11e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>446 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>446 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>392 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>392 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>466 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>466 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>10e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>427 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>427 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>379 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>379 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>451 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>451 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>9e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>398 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>398 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>431 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>431 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>8e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>380 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>380 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>350 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>350 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>417 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>417 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>7e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>338 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>338 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>402 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>402 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>6e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>351 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>351 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>390 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>390 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>5e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>336 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>336 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>318 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>318 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>378 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>378 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>4e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>322 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>322 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>367 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>367 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>307 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>307 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>306 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>356 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>364 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>302 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>302 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>305 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>355 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>363 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>297 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>304 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>353 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>362 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="94">
+<p align="center">ÉCHELONS </p>
+</td>
+<td width="95">
+<p align="center">INDICE BRUT au 1er mai 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE BRUT au 1er juillet 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ au 1er mai 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ au 1er juillet 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er mai 2012 </p>
+</td>
+<td width="94">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er juillet 2012 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>11e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>446 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>446 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>392 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>392 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>466 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>466 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>10e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>427 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>427 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>379 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>379 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>451 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>451 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>9e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>398 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>398 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>431 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>431 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>8e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>380 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>380 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>350 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>350 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>417 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>417 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>7e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>338 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>338 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>402 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>402 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>6e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>351 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>351 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>390 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>390 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>5e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>336 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>336 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>318 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>318 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>378 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>378 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>4e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>322 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>322 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>314 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>367 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>374 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>307 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>307 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>306 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>312 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>371 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>302 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>302 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>305 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>311 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>363 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>370 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>304 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>369 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grade de sapeur
+
+<div>
+<table>
+<tbody>
+<tr>
+<td width="94">
+<p align="center">ÉCHELONS </p>
+</td>
+<td width="95">
+<p align="center">INDICE BRUT au 1er janvier 2011 </p>
+</td>
+<td width="95">
+<p align="center">INDICE BRUT au 1er janvier 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ <br/>au 1er janvier 2011 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ <br/>au 1er janvier 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er janvier 2011 </p>
+</td>
+<td width="94">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er janvier 2012 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>11e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>413 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>413 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>369 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>369 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>439 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>439 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>10e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>389 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>389 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>356 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>356 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>424 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>424 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>9e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>374 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>374 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>345 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>345 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>411 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>411 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>8e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>360 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>360 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>335 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>335 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>399 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>399 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>7e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>347 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>347 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>325 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>325 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>387 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>387 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>6e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>333 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>333 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>316 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>316 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>376 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>376 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>5e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>323 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>323 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>367 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>367 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>4e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>300 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>306 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>357 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>364 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>305 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>355 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>363 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>297 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>304 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>353 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>362 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>296 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>352 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>361 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+Grade de sapeur de 1re classe
+
+<table>
+<tbody>
+<tr>
+<td width="94">
+<p align="center">ÉCHELONS</p>
+</td>
+<td width="95">
+<p align="center">INDICE BRUT au 1er mai 2012</p>
+</td>
+<td width="95">
+<p align="center">INDICE BRUT au 1er juillet 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ au 1er mai 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ au 1er juillet 2012 </p>
+</td>
+<td width="95">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er mai 2012 </p>
+</td>
+<td width="94">
+<p align="center">INDICE MAJORÉ incluant la prime <br/>de feu au 1er juillet 2012 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>11e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>413 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>413 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>369 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>369 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>439 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>439 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>10e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>389 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>389 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>356 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>356 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>424 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>424 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>9e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>374 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>374 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>345 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>345 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>411 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>411 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>8e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>360 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>360 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>335 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>335 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>399 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>399 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>7e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>347 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>347 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>325 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>325 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>387 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>387 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>6e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>333 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>333 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>316 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>316 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>376 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>376 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>5e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>323 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>323 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>314 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>367 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>374 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>4e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>306 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>312 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>371 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>305 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>311 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>363 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>370 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>304 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>362 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>369 </p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>309 </p>
+</td>
+<td width="95">
+<p align="center">
+<br/>361 </p>
+</td>
+<td width="94">
+<p align="center">
+<br/>368 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grade de sapeur de 2e classe
+
+<table>
+<tbody>
+<tr>
+<td width="167">
+<p align="center">ÉCHELONS </p>
+</td>
+<td width="168">
+<p align="center">NDICE BRUT au 1er juillet 2012 </p>
+</td>
+<td width="168">
+<p align="center">INDICE MAJORÉ au 1er juillet 2012 </p>
+</td>
+<td width="167">
+<p align="center">INDICE MAJORÉ incluant la prime de feu au 1er juillet 2012 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>11e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>388 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>355 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>422 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>10e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>364 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>338 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>402 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>9e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>348 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>326 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>388 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>8e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>337 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>319 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>380 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>7e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>328 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>315 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>375 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>6e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>318 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>313 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>372 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>5e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>312 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>371 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>4e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>303 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>311 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>370 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>3e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>299 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>310 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>369 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>2e </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>298 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>309 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>368 </p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">
+<br/>1er </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>297 </p>
+</td>
+<td width="168">
+<p align="center">
+<br/>308 </p>
+</td>
+<td width="167">
+<p align="center">
+<br/>367</p>
 </td>
 </tr>
 </tbody>

@@ -2,420 +2,703 @@
 
 Catégorie B
 
-Grade de major
+Grade de lieutenant hors classe
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉCHELONS<br/>
-</th>
-<th>
-<br/>INDICE BRUT<br/>
-</th>
-<th>
-<br/>INDICE MAJORÉ<br/>
-</th>
-<th>
-<br/>INDICE MAJORÉ INCLUANT <p>la prime de feu</p>
-<p>au 1er novembre 2006<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>9e<br/>
-</td>
-<td align="center">
-<br/>560<br/>
-</td>
-<td align="center">
-<br/>475<br/>
-</td>
-<td align="center">
-<br/>565<br/>
+<td>ÉCHELONS</td>
+<td>INDICE BRUT au 1er mai 2012 </td>
+<td>INDICE MAJORÉ<br/>au 1er mai 2012 </td>
+<td>INDICE MAJORÉ <br/>incluant la prime de feu<br/>au 1er mai 2012 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e<br/>
+<br/>11e <br/>
 </td>
 <td align="center">
-<br/>544<br/>
+<br/>675 <br/>
 </td>
 <td align="center">
-<br/>463<br/>
+<br/>562 <br/>
 </td>
 <td align="center">
-<br/>551<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>7e<br/>
-</td>
-<td align="center">
-<br/>520<br/>
-</td>
-<td align="center">
-<br/>446<br/>
-</td>
-<td align="center">
-<br/>531<br/>
+<br/>669 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e<br/>
+<br/>10e <br/>
 </td>
 <td align="center">
-<br/>483<br/>
+<br/>646 <br/>
 </td>
 <td align="center">
-<br/>418<br/>
+<br/>540 <br/>
 </td>
 <td align="center">
-<br/>497<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>5e<br/>
-</td>
-<td align="center">
-<br/>450<br/>
-</td>
-<td align="center">
-<br/>395<br/>
-</td>
-<td align="center">
-<br/>470<br/>
+<br/>643 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e<br/>
+<br/>9e <br/>
 </td>
 <td align="center">
-<br/>426<br/>
+<br/>619 <br/>
 </td>
 <td align="center">
-<br/>378<br/>
+<br/>519 <br/>
 </td>
 <td align="center">
-<br/>450<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e<br/>
-</td>
-<td align="center">
-<br/>397<br/>
-</td>
-<td align="center">
-<br/>361<br/>
-</td>
-<td align="center">
-<br/>430<br/>
+<br/>618 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e<br/>
+<br/>8e <br/>
 </td>
 <td align="center">
-<br/>380<br/>
+<br/>585 <br/>
 </td>
 <td align="center">
-<br/>350<br/>
+<br/>494 <br/>
 </td>
 <td align="center">
-<br/>417<br/>
+<br/>588 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er<br/>
+<br/>7e <br/>
 </td>
 <td align="center">
-<br/>362<br/>
+<br/>555 <br/>
 </td>
 <td align="center">
-<br/>336<br/>
+<br/>471 <br/>
 </td>
 <td align="center">
-<br/>400<br/>
+<br/>560 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>524 <br/>
+</td>
+<td align="center">
+<br/>449 <br/>
+</td>
+<td align="center">
+<br/>534 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>497 <br/>
+</td>
+<td align="center">
+<br/>428 <br/>
+</td>
+<td align="center">
+<br/>509 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>469 <br/>
+</td>
+<td align="center">
+<br/>410 <br/>
+</td>
+<td align="center">
+<br/>488 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+<td align="center">
+<br/>395 <br/>
+</td>
+<td align="center">
+<br/>470 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+<td align="center">
+<br/>380 <br/>
+</td>
+<td align="center">
+<br/>452 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>404 <br/>
+</td>
+<td align="center">
+<br/>365 <br/>
+</td>
+<td align="center">
+<br/>434 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Grade provisoire de lieutenant
+Grade de lieutenant de 1re classe
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉCHELONS<br/>
-</th>
-<th>
-<br/>INDICE BRUT<br/>
-</th>
-<th>
-<br/>INDICE MAJORÉ<br/>
-</th>
-<th>
-<br/>INDICE MAJORÉ INCLUANT <p>la prime de feu</p>
-<p>au 1er novembre 2006<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>8e<br/>
+<td>
+<p align="center">ÉCHELONS</p>
 </td>
-<td align="center">
-<br/>593<br/>
+<td>
+<p align="center">INDICE BRUT <br/>au 1er mai 2012</p>
 </td>
-<td align="center">
-<br/>500<br/>
+<td>
+<p align="center">INDICE MAJORÉ <br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>595<br/>
+<td>
+<p align="center">INDICE MAJORÉ <br/>incluant la prime de feu <br/>au 1er mai 2012</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e<br/>
+<br/>13e <br/>
 </td>
 <td align="center">
-<br/>560<br/>
+<br/>614 <br/>
 </td>
 <td align="center">
-<br/>475<br/>
+<br/>515 <br/>
 </td>
 <td align="center">
-<br/>565<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>6e<br/>
-</td>
-<td align="center">
-<br/>525<br/>
-</td>
-<td align="center">
-<br/>450<br/>
-</td>
-<td align="center">
-<br/>536<br/>
+<br/>613 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e<br/>
+<br/>12e <br/>
 </td>
 <td align="center">
-<br/>490<br/>
+<br/>581 <br/>
 </td>
 <td align="center">
-<br/>423<br/>
+<br/>491 <br/>
 </td>
 <td align="center">
-<br/>503<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e<br/>
-</td>
-<td align="center">
-<br/>455<br/>
-</td>
-<td align="center">
-<br/>398<br/>
-</td>
-<td align="center">
-<br/>474<br/>
+<br/>584 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e<br/>
+<br/>11e <br/>
 </td>
 <td align="center">
-<br/>420<br/>
+<br/>551 <br/>
 </td>
 <td align="center">
-<br/>373<br/>
+<br/>468 <br/>
 </td>
 <td align="center">
-<br/>444<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e<br/>
-</td>
-<td align="center">
-<br/>379<br/>
-</td>
-<td align="center">
-<br/>349<br/>
-</td>
-<td align="center">
-<br/>415<br/>
+<br/>557 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er<br/>
+<br/>10e <br/>
 </td>
 <td align="center">
-<br/>341<br/>
+<br/>518 <br/>
 </td>
 <td align="center">
-<br/>322<br/>
+<br/>445 <br/>
 </td>
 <td align="center">
-<br/>383<br/>
+<br/>530 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e <br/>
+</td>
+<td align="center">
+<br/>493 <br/>
+</td>
+<td align="center">
+<br/>425 <br/>
+</td>
+<td align="center">
+<br/>506 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e <br/>
+</td>
+<td align="center">
+<br/>463 <br/>
+</td>
+<td align="center">
+<br/>405 <br/>
+</td>
+<td align="center">
+<br/>482 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e <br/>
+</td>
+<td align="center">
+<br/>444 <br/>
+</td>
+<td align="center">
+<br/>390 <br/>
+</td>
+<td align="center">
+<br/>464 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>422 <br/>
+</td>
+<td align="center">
+<br/>375 <br/>
+</td>
+<td align="center">
+<br/>446 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>397 <br/>
+</td>
+<td align="center">
+<br/>361 <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>378 <br/>
+</td>
+<td align="center">
+<br/>348 <br/>
+</td>
+<td align="center">
+<br/>414 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>367 <br/>
+</td>
+<td align="center">
+<br/>340 <br/>
+</td>
+<td align="center">
+<br/>405 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>357 <br/>
+</td>
+<td align="center">
+<br/>332 <br/>
+</td>
+<td align="center">
+<br/>395 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>350 <br/>
+</td>
+<td align="center">
+<br/>327 <br/>
+</td>
+<td align="center">
+<br/>389 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Grade de lieutenant
+Grade de lieutenant de 2e classe
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉCHELONS<br/>
-</th>
-<th>
-<br/>INDICE BRUT<br/>
-</th>
-<th>
-<br/>INDICE MAJORÉ<br/>
-</th>
-<th>
-<br/>INDICE MAJORÉ INCLUANT <p>la prime de feu</p>
-<p>au 1er novembre 2006<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>8e<br/>
+<td>
+<p align="center">ÉCHELONS</p>
 </td>
-<td align="center">
-<br/>638<br/>
+<td>
+<p align="center">INDICE BRUT <br/>au 1er mai 2012 </p>
 </td>
-<td align="center">
-<br/>534<br/>
+<td>
+<p align="center">
+<br/>INDICE BRUT <br/>au 1er juillet 2012 </p>
 </td>
-<td align="center">
-<br/>635<br/>
+<td>
+<p align="center">
+<br/>INDICE MAJORÉ <br/>au 1er mai 2012 </p>
+</td>
+<td>
+<p align="center">INDICE MAJORÉ<br/>au 1er juillet 2012 </p>
+</td>
+<td>
+<p align="center">INDICE MAJORÉ <br/>incluant la prime de feu <br/>au 1er mai 2012 </p>
+</td>
+<td>
+<p align="center">INDICE MAJORÉ<br/>incluant la prime<br/>de feu <br/>au 1er juillet 2012 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e<br/>
+<br/>13e <br/>
 </td>
 <td align="center">
-<br/>600<br/>
+<br/>576 <br/>
 </td>
 <td align="center">
-<br/>505<br/>
+<br/>576 <br/>
 </td>
 <td align="center">
-<br/>601<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>6e<br/>
+<br/>486 <br/>
 </td>
 <td align="center">
-<br/>567<br/>
+<br/>486 <br/>
 </td>
 <td align="center">
-<br/>480<br/>
+<br/>578 <br/>
 </td>
 <td align="center">
-<br/>571<br/>
+<br/>578 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e<br/>
+<br/>12e <br/>
 </td>
 <td align="center">
-<br/>525<br/>
+<br/>548 <br/>
 </td>
 <td align="center">
-<br/>450<br/>
+<br/>548 <br/>
 </td>
 <td align="center">
-<br/>536<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e<br/>
+<br/>466 <br/>
 </td>
 <td align="center">
-<br/>489<br/>
+<br/>466 <br/>
 </td>
 <td align="center">
-<br/>422<br/>
+<br/>555 <br/>
 </td>
 <td align="center">
-<br/>502<br/>
+<br/>555 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e<br/>
+<br/>11e <br/>
 </td>
 <td align="center">
-<br/>455<br/>
+<br/>516 <br/>
 </td>
 <td align="center">
-<br/>398<br/>
+<br/>516 <br/>
 </td>
 <td align="center">
-<br/>474<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e<br/>
+<br/>443 <br/>
 </td>
 <td align="center">
-<br/>420<br/>
+<br/>443 <br/>
 </td>
 <td align="center">
-<br/>373<br/>
+<br/>527 <br/>
 </td>
 <td align="center">
-<br/>444<br/>
+<br/>527 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er<br/>
+<br/>10e <br/>
 </td>
 <td align="center">
-<br/>379<br/>
+<br/>486 <br/>
 </td>
 <td align="center">
-<br/>349<br/>
+<br/>486 <br/>
 </td>
 <td align="center">
-<br/>415<br/>
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e <br/>
+</td>
+<td align="center">
+<br/>457 <br/>
+</td>
+<td align="center">
+<br/>457 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>476 <br/>
+</td>
+<td align="center">
+<br/>476 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e <br/>
+</td>
+<td align="center">
+<br/>436 <br/>
+</td>
+<td align="center">
+<br/>436 <br/>
+</td>
+<td align="center">
+<br/>384 <br/>
+</td>
+<td align="center">
+<br/>384 <br/>
+</td>
+<td align="center">
+<br/>457 <br/>
+</td>
+<td align="center">
+<br/>457 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e <br/>
+</td>
+<td align="center">
+<br/>418 <br/>
+</td>
+<td align="center">
+<br/>418 <br/>
+</td>
+<td align="center">
+<br/>371 <br/>
+</td>
+<td align="center">
+<br/>371 <br/>
+</td>
+<td align="center">
+<br/>441 <br/>
+</td>
+<td align="center">
+<br/>441 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>393 <br/>
+</td>
+<td align="center">
+<br/>393 <br/>
+</td>
+<td align="center">
+<br/>358 <br/>
+</td>
+<td align="center">
+<br/>358 <br/>
+</td>
+<td align="center">
+<br/>426 <br/>
+</td>
+<td align="center">
+<br/>426 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>374 <br/>
+</td>
+<td align="center">
+<br/>374 <br/>
+</td>
+<td align="center">
+<br/>345 <br/>
+</td>
+<td align="center">
+<br/>345 <br/>
+</td>
+<td align="center">
+<br/>411 <br/>
+</td>
+<td align="center">
+<br/>411 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>359 <br/>
+</td>
+<td align="center">
+<br/>359 <br/>
+</td>
+<td align="center">
+<br/>334 <br/>
+</td>
+<td align="center">
+<br/>334 <br/>
+</td>
+<td align="center">
+<br/>397 <br/>
+</td>
+<td align="center">
+<br/>397 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>347 <br/>
+</td>
+<td align="center">
+<br/>347 <br/>
+</td>
+<td align="center">
+<br/>325 <br/>
+</td>
+<td align="center">
+<br/>325 <br/>
+</td>
+<td align="center">
+<br/>387 <br/>
+</td>
+<td align="center">
+<br/>387 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>333 <br/>
+</td>
+<td align="center">
+<br/>333 <br/>
+</td>
+<td align="center">
+<br/>316 <br/>
+</td>
+<td align="center">
+<br/>316 <br/>
+</td>
+<td align="center">
+<br/>376 <br/>
+</td>
+<td align="center">
+<br/>376 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>325 <br/>
+</td>
+<td align="center">
+<br/>325 <br/>
+</td>
+<td align="center">
+<br/>310 <br/>
+</td>
+<td align="center">
+<br/>314 <br/>
+</td>
+<td align="center">
+<br/>369 <br/>
+</td>
+<td align="center">
+<br/>374 <br/>
 </td>
 </tr>
 </tbody>
