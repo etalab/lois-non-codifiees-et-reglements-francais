@@ -1343,7 +1343,6 @@
 - [Arrêté du 17 novembre 2009 (AGRG0928338A)](arrete-du-17-novembre-2009-agrg0928338a)
 - [Arrêté du 17 novembre 2009 (JUSA0927612A)](arrete-du-17-novembre-2009-jusa0927612a)
 - [Arrêté du 17 novembre 2009 (SASP0923453A)](arrete-du-17-novembre-2009-sasp0923453a)
-- [Arrêté du 17 octobre 2009 (IOCE0924180A)](arrete-du-17-octobre-2009-ioce0924180a)
 - [Arrêté du 17 septembre 2007 (DEFD0764830A)](arrete-du-17-septembre-2007-defd0764830a)
 - [Arrêté du 17 septembre 2009 (ECES0921485A)](arrete-du-17-septembre-2009-eces0921485a)
 - [Arrêté du 17 septembre 2009 (ECET0921246A)](arrete-du-17-septembre-2009-ecet0921246a)
