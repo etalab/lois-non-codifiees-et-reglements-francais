@@ -1,0 +1,5 @@
+# Article 8
+
+Le programme pluriannuel d'accès à l'emploi titulaire, soumis à l'avis du comité technique compétent par l'autorité territoriale en application de l'article 17 de la loi du 12 mars 2012 susvisée, détermine, en fonction des besoins de la collectivité territoriale ou de l'établissement public intéressé et des objectifs de la gestion prévisionnelle des effectifs, des emplois et des compétences, et dans le respect des annexes au présent décret, les grades des cadres d'emplois et corps ouverts aux recrutements réservés, le nombre d'emplois ouverts à chacun de ces recrutements et leur répartition entre les sessions successives de recrutement.
+
+Lorsqu'il prévoit l'organisation d'un recrutement réservé sans concours, le programme pluriannuel définit, outre le nombre d'emplois ouverts, les conditions dans lesquelles ces recrutements seront opérés, lesquelles prennent notamment en compte les acquis de l'expérience professionnelle correspondant aux fonctions auxquelles destine le cadre d'emplois ou le corps d'accueil.
