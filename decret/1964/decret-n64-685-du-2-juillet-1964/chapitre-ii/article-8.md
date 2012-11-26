@@ -1,3 +1,5 @@
 # Article 8
 
-Les certificats de libération des garanties constituées sont provisoires ou définitifs.
+La libération du cautionnement est partielle ou totale.
+
+Les certificats de libération du cautionnement sont délivrés à la demande des comptables ayant cessé définitivement leurs fonctions.

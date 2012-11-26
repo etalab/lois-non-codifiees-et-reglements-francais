@@ -1,4 +1,4 @@
-# SECTION II : Certificat de libération définitive.
+# SECTION II : Certificat de libération totale.
 
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
