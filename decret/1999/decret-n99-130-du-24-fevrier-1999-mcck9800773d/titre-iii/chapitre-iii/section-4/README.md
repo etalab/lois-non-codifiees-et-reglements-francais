@@ -1,4 +1,4 @@
-# Section 4 : Utilisation des nouvelles techniques de l'image et du son.
+# Section 4 : Création de fichiers numériques de sous-titrage et d'audiodescription.
 
 - [Article 72](article-72.md)
 - [Article 73](article-73.md)

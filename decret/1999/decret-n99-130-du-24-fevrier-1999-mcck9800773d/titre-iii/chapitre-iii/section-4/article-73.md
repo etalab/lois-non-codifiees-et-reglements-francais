@@ -1,3 +1,3 @@
 # Article 73
 
-Les décisions relatives à l'octroi des subventions sont prises par le directeur général du Centre national de la cinématographie après examen d'un dossier remis par l'entreprise de production.
+Les modalités de demande et les conditions d'octroi des subventions sont précisées par décision du président du Centre national du cinéma et de l'image animée.
