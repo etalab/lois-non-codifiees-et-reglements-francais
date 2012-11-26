@@ -1667,8 +1667,6 @@
 - [Arrêté du 18 mai 2010 (SASP1013235A)](arrete-du-18-mai-2010-sasp1013235a)
 - [Arrêté du 19 août 2010 (AGRG1006968A)](arrete-du-19-aout-2010-agrg1006968a)
 - [Arrêté du 19 août 2010 (MENE1022080A)](arrete-du-19-aout-2010-mene1022080a)
-- [Arrêté du 19 avril 2010 (BCRR1010294A)](arrete-du-19-avril-2010-bcrr1010294a)
-- [Arrêté du 19 avril 2010 (BCRR1010296A)](arrete-du-19-avril-2010-bcrr1010296a)
 - [Arrêté du 19 avril 2010 (DEVN0921036A)](arrete-du-19-avril-2010-devn0921036a)
 - [Arrêté du 19 avril 2010 (DEVP1010260A)](arrete-du-19-avril-2010-devp1010260a)
 - [Arrêté du 19 avril 2010 (DEVT1010731A)](arrete-du-19-avril-2010-devt1010731a)
