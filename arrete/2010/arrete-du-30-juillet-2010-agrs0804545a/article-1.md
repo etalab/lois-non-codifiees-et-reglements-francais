@@ -1,66 +1,75 @@
 # Article 1
 
-<div>
-<br/>Les montants de référence annuels de l'indemnité d'administration et de technicité prévus à l'article 4 du décret du 14 janvier 2002 susvisé sont fixés par grade conformément au tableau ci-dessous :<br/>
+Les montants de référence annuels de l'indemnité d'administration et de technicité prévus à l'article 4 du décret du 14 janvier 2002 susvisé sont fixés par grade conformément au tableau ci-dessous :
+
 <div align="center">
 
+</div>
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES</th>
-<th>
-<br/>MONTANTS<br/>de référence (en euros)</th>
+<td>
+<p align="center"> GRADES</p>
+</td>
+<td>
+<p align="center">MONTANTS DE RÉFÉRENCE <br/>(en euros) </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 3</td>
+<br/>Agents de catégorie C rémunérés en échelle 3 <br/>
+</td>
 <td align="center">
-<br/>447</td>
+<br/>521 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 4</td>
+<br/>Agents de catégorie C rémunérés en échelle 4 <br/>
+</td>
 <td align="center">
-<br/>462</td>
+<br/>536 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 5</td>
+<br/>Agents de catégorie C rémunérés en échelle 5 <br/>
+</td>
 <td align="center">
-<br/>467</td>
+<br/>541 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 6 sans échelon spécial</td>
+<br/>Agents de catégorie C rémunérés en échelle 6 avec échelon spécial <br/>
+</td>
 <td align="center">
-<br/>474</td>
+<br/>562 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 6 avec échelon spécial</td>
+<br/>Agents du 1er grade de la catégorie B <br/>
+</td>
 <td align="center">
-<br/>488</td>
+<br/>586 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents du 1er grade de la catégorie B</td>
+<br/>Agents du 2e grade de la catégorie B <br/>
+</td>
 <td align="center">
-<br/>586</td>
+<br/>703 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Agents du 2e grade de la catégorie B</td>
+<br/>Agents du 3e grade de la catégorie B <br/>
+</td>
 <td align="center">
-<br/>703</td>
+<br/>723<br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>Agents du 3e grade de la catégorie B</td>
-<td align="center">
-<br/>723</td>
-</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
