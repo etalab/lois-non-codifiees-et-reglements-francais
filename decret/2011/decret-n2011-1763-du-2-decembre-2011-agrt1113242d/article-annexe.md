@@ -46,13 +46,13 @@ La conformité de l'encépagement est appréciée sur la totalité des parcelles
 
 VI. - Conduite du vignoble
 
-1°-Modes de conduite
+1° - Modes de conduite
 
 a) -Densité de plantation
 
-Les vignes présentent une densité minimale à la plantation de 5500 pieds par hectare. Ces vignes présentent un écartement entre les rangs supérieur à 2 mètres, et un écartement entre les pieds sur un même rang inférieur à 0,50 mètre.
+Les vignes présentent une densité minimale à la plantation de 5500 pieds par hectare. Ces vignes ne peuvent présenter un écartement entre les rangs supérieur à 2 mètres, ni un écartement entre les pieds sur un même rang inférieur à 0,50 mètre.
 
-b) -Règles de taille
+b) - Règles de taille
 
 La taille est obligatoire. Elle est effectuée au plus tard au stade feuilles étalées (stade 9 de Lorenz).
 
@@ -68,25 +68,25 @@ Chaque pied porte un maximum de 12 yeux francs.
 
 Dans tous les cas, le chevauchement des longs bois (astes) est interdit.
 
-c) -Règles de palissage et de hauteur de feuillage
+c) - Règles de palissage et de hauteur de feuillage
 
 La hauteur de feuillage palissé est au minimum égale à 0,6 fois l'écartement entre les rangs, la hauteur de feuillage palissé étant mesurée en limite inférieure à 0,10 mètre en dessous du fil de pliage et en limite supérieure, à la hauteur de rognage.
 
-d) -Charge maximale moyenne à la parcelle
+d) - Charge maximale moyenne à la parcelle
 
 La charge maximale moyenne à la parcelle est fixée à 9000 kilogrammes par hectare.
 
 Lorsque l'irrigation est autorisée conformément aux dispositions de l'article D. 645-5 du code rural et de la pêche maritime, la charge maximale moyenne à la parcelle des parcelles irriguées est fixée à 6500 kilogrammes par hectare.
 
-e) -Seuil de manquants
+e) - Seuil de manquants
 
 Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 645-4 du code rural et de la pêche maritime est fixé à 20 %.
 
-f) -Etat cultural de la vigne
+f) - Etat cultural de la vigne
 
 Les parcelles sont conduites afin d'assurer un bon état cultural global de la vigne, notamment son état sanitaire, l'entretien de son sol, et l'état sanitaire de la vendange. En particulier, aucune parcelle n'est laissée à l'abandon.
 
-2°-Autres pratiques culturales
+2° - Autres pratiques culturales
 
 Afin de préserver les caractéristiques du milieu physique et biologique qui constitue un élément fondamental du terroir :
 
@@ -94,25 +94,25 @@ Afin de préserver les caractéristiques du milieu physique et biologique qui co
 
 - l'apport de terre exogène sur des parcelles de l'aire parcellaire délimitée est interdit. On entend par terre exogène une terre qui ne provient pas de l'aire parcellaire délimitée de l'appellation d'origine contrôlée.
 
-3°-Irrigation
+3° - Irrigation
 
 L'irrigation pendant la période de végétation de la vigne ne peut être autorisée, conformément aux dispositions de l'article D. 645-5 du code rural et de la pêche maritime, qu'en cas de sécheresse persistante et lorsque celle-ci perturbe le bon développement physiologique de la vigne et la bonne maturation du raisin.
 
-VII. -Récolte, transport et maturité du raisin
+VII. - Récolte, transport et maturité du raisin
 
-1°-Récolte
+1° - Récolte
 
 a) - Les vins proviennent de raisins récoltés à bonne maturité et présentant un bon état sanitaire.
 
 b) - Dispositions particulières de récolte Le tri de la vendange est obligatoire dès lors que la vendange comporte un pourcentage supérieur à 5% de baies présentant un état sanitaire dégradé ou un niveau de maturité insuffisant. Ce tri est réalisé par l'opérateur, soit à la parcelle, soit au chai.
 
-c) -Dispositions particulières de transport de la vendange
+c) - Dispositions particulières de transport de la vendange
 
 L'utilisation du foulo-benne (benne auto-vidante munie d'une pompe à palette dite centrifuge) est interdite.
 
-2°-Maturité du raisin
+2° - Maturité du raisin
 
-a) -Richesse en sucre des raisins
+a) - Richesse en sucre des raisins
 
 Ne peuvent être considérés comme étant à bonne maturité les raisins présentant une richesse en sucre inférieure à :
 
@@ -126,11 +126,11 @@ Les vins présentent un titre alcoométrique volumique naturel minimum de 11 %.
 
 VIII. - Rendements. - Entrée en production
 
-1°-Rendement
+1° - Rendement
 
 Le rendement visé à l'article D. 645-7 du code rural et de la pêche maritime est fixé à 53 hectolitres par hectare.
 
-2°-Rendement butoir
+2° - Rendement butoir
 
 Le rendement butoir visé à l'article D. 645-7 du code rural et de la pêche maritime est fixé à 65 hectolitres par hectare.
 
@@ -146,19 +146,19 @@ Le bénéfice de l'appellation d'origine contrôlée ne peut être accordé aux 
 
 IX. -Transformation, élaboration, élevage, conditionnement, stockage
 
-1°-Dispositions générales
+1° - Dispositions générales
 
 Les vins sont vinifiés conformément aux usages locaux, loyaux et constants.
 
-a) -Assemblage des cépages
+a) - Assemblage des cépages
 
 Les vins ne peuvent être issus des seuls cépages accessoires. La proportion des cépages accessoires est inférieure ou égale à 10 % de l'assemblage final du lot de vin conditionné.
 
-b) -Fermentation malolactique
+b) - Fermentation malolactique
 
 Tout lot de vin commercialisé (en vrac) ou conditionné présente une teneur en acide malique inférieure ou égale à 0,30 gramme par litre.
 
-c) -Normes analytiques
+c) - Normes analytiques
 
 - Tout lot de vin commercialisé (en vrac) ou conditionné présente une teneur en sucres fermentescibles (glucose et fructose) inférieure ou égale à 3 grammes par litre.
 
@@ -166,7 +166,7 @@ c) -Normes analytiques
 
 - Tout lot de vin commercialisé (en vrac) présente une teneur en anhydride sulfureux total inférieure ou égale à 140 milligrammes par litre.
 
-d) -Pratiques œnologiques et traitements physiques
+d) - Pratiques œnologiques et traitements physiques
 
 - Les techniques soustractives d'enrichissement (TSE) sont autorisées dans la limite d'un taux déconcentration de 15 %.
 
@@ -174,17 +174,17 @@ d) -Pratiques œnologiques et traitements physiques
 
 e) -Matériel interdit
 
--L'utilisation du foulo-benne (benne autovidante munie d'une pompe à palette dite centrifuge) est interdite.
+- L'utilisation du foulo-benne (benne autovidante munie d'une pompe à palette dite centrifuge) est interdite.
 
--L'utilisation du pressoir de type continu muni d'une vis sans fin de diamètre inférieur à 400 millimètres est interdite.
+- L'utilisation du pressoir de type continu muni d'une vis sans fin de diamètre inférieur à 400 millimètres est interdite.
 
-f) -Capacité de cuverie
+f) - Capacité de cuverie
 
 Tout opérateur dispose d'une capacité de cuverie de vinification équivalente au minimum à 1,5 fois la production moyenne décennale revendiquée de l'exploitation.
 
 La capacité de vinification disponible au moment de la récolte correspond aux contenants de vinification.
 
-g) -Entretien global du chai et du matériel.
+g) - Entretien global du chai et du matériel.
 
 Le chai (sols et murs) et le matériel de vinification présentent un bon état d'entretien général.
 
@@ -194,29 +194,29 @@ Les vins font l'objet d'un élevage au moins jusqu'au 31 mars de l'année qui su
 
 3-Dispositions relatives au conditionnement
 
-a) -Les vins sont conditionnés à partir du 31 mars de l'année suivant celle de la récolte.
+a) - Les vins sont conditionnés à partir du 31 mars de l'année suivant celle de la récolte.
 
-b) -Pour tout lot conditionné, l'opérateur adresse à l'organisme de contrôle agréé, en accompagnement de la déclaration préalable de conditionnement, une analyse du lot à conditionner réalisée avant le conditionnement. Pour les opérateurs de type continu ou semi-continu tels que définis au chapitre II, les analyses des lots conditionnés sont tenues à disposition de l'organisme de contrôle agréé selon les dispositions définies dans le plan de contrôle ou d'inspection.
+b) - Pour tout lot conditionné, l'opérateur adresse à l'organisme de contrôle agréé, en accompagnement de la déclaration préalable de conditionnement, une analyse du lot à conditionner réalisée avant le conditionnement. Pour les opérateurs de type continu ou semi-continu tels que définis au chapitre II, les analyses des lots conditionnés sont tenues à disposition de l'organisme de contrôle agréé selon les dispositions définies dans le plan de contrôle ou d'inspection.
 
-4°-Dispositions relatives au stockage
+4° - Dispositions relatives au stockage
 
 L'opérateur justifie d'un lieu adapté pour le stockage des produits conditionnés. On entend par lieu adapté de stockage des produits conditionnés, tout lieu à l'abri des intempéries (vent, pluie) et protégé de toute contamination.
 
-5°-Dispositions relatives à la circulation des produits et à la mise en marché à destination du consommateur
+5° - Dispositions relatives à la circulation des produits et à la mise en marché à destination du consommateur
 
-a) -Date de mise en marché à destination du consommateur
+a) - Date de mise en marché à destination du consommateur
 
 A l'issue de la période d'élevage, les vins sont mis en marché à destination du consommateur qu'à partir du 15 avril de l'année qui suit celle de la récolte.
 
-b) -Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés
+b) - Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés
 
 Les vins peuvent circuler entre entrepositaires agréés au plus tôt le 31 mars de l'année qui suit celle de la récolte.
 
 X. - Lien avec la zone géographique
 
-1°-Informations sur la zone géographique
+1° - Informations sur la zone géographique
 
-a) -Description des facteurs naturels contribuant au lien
+a) - Description des facteurs naturels contribuant au lien
 
 La zone géographique de l'appellation d'origine contrôlée "Puisseguin Saint-Emilion" est limitée à une partie de la commune de Puisseguin, correspondant à cette commune telle qu'elle était définie avant sa fusion avec celle de Monbadon en 1989. Cette zone est située au nord-est du département de la Gironde, à 48 kilomètres au nord-est de Bordeaux et à 10 kilomètres au nord-est de Saint-Emilion, en pays libournais.
 
@@ -252,13 +252,13 @@ La production est familiale avec des exploitations morcelées cultivant une supe
 
 Le vignoble de l'appellation d'origine contrôlée "Puisseguin Saint-Emilion" couvre, en 2009, 740 hectares pour une production moyenne de 35000 hectolitres par an.
 
-2° -Informations sur la qualité et les caractéristiques du produit :
+2° - Informations sur la qualité et les caractéristiques du produit :
 
 Les vins sont des vins rouges tranquilles, issus majoritairement du cépage merlot N. Ils sont puissants et ronds, à la couleur soutenue, aux arômes de fruits rouges intenses développant un bouquet complexe au vieillissement.
 
 Dans les assemblages, les cépages cabernet franc N et cabernet-sauvignon N, apportent de la fraîcheur et de la structure, augmentant alors le potentiel de vieillissement des vins et leur complexité aromatique. L'élevage en barriques, souvent pratiqué, peut apporter des nuances grillées et vanillées enrichissant la palette aromatique et la structure des vins.
 
-3° -Interactions causales
+3° - Interactions causales
 
 Au confluent de deux rivières, l'Isle et la Dordogne, les grands sols viticoles des parcelles délimitées en appellation d'origine contrôlée sont en majorité calcaires et argilo-calcaires. La diversité des sols, alliée au mésoclimat très favorable à la culture de la vigne, confèrent, aux vins, richesse et complexité.
 
@@ -284,11 +284,11 @@ La communauté humaine poursuit ses efforts en améliorant les règles collectiv
 
 XI. - Mesures transitoires
 
-1°-Aire parcellaire délimitée
+1° - Aire parcellaire délimitée
 
 Les parcelles ou parties de parcelles plantées en vigne, exclues de l'aire parcellaire délimitée et identifiées par leurs références cadastrales, leur surface et leur encépagement sur la liste approuvée par le comité national compétent de l'Institut national de l'origine et de la qualité en séance des 23 et 24 juin 1994, continuent à bénéficier, pour leur récolte, du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage et au plus tard jusqu'à la récolte de 2020 incluse, sous réserve du respect de l'ensemble des autres dispositions fixées dans le présent cahier des charges.
 
-2°-Mode de conduite
+2° - Mode de conduite
 
 a) - Les parcelles de vigne en place à la date du 31 juillet 2009, et présentant une densité de plantation comprise entre 4000 pieds par hectare et 5500 pieds par hectare continuent à bénéficier, pour leur récolte, du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage, sous réserve du respect des règles de palissage et de hauteur de feuillage fixées dans le présent cahier des charges.
 
