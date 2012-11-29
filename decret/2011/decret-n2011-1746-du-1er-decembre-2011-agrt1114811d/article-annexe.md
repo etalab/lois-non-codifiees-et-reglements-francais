@@ -46,7 +46,7 @@ a) - Densité de plantation.
 
 Les vignes présentent une densité minimale à la plantation de 7000 pieds à l'hectare.
 
-Ces vignes ne peuvent présenter un écartement entre les rangs supérieur à 1 mètre et un écartement entre les pieds sur un même rang inférieur à 0,80 mètre.
+Ces vignes ne peuvent présenter un écartement entre les rangs supérieur à 1,50 mètre ni un écartement entre les pieds sur un même rang inférieur à 0,80 mètre.
 
 b) - Règles de taille.
 
@@ -106,7 +106,7 @@ b) - Titre alcoométrique volumique naturel minimum.
 
 Les vins présentent un titre alcoométrique volumique naturel minimum de 11 %.
 
-VIII. -  Rendements. Entrée en production
+VIII. - Rendements. Entrée en production
 
 1° - Rendement :
 
@@ -144,7 +144,7 @@ Tout lot de vin commercialisé présente une teneur en sucres fermentescibles (g
 
 Tout lot de vin commercialisé en vrac présente une teneur en acidité volatile inférieure ou égale à13,26 milliéquivalents par litre, soit 0, 79 gramme par litre exprimé en acide acétique (0,65 gramme par litre exprimé en H2SO4) jusqu'au 31 juillet de l'année qui suit celle de la récolte, et inférieure ou égale à 16,33 milliéquivalents par litre, soit 0,98 gramme par litre exprimé en acide acétique (0,80gramme par litre exprimé en H2SO4) après cette date.
 
-c) -  Pratiques œnologiques et traitements physiques.
+c) - Pratiques œnologiques et traitements physiques.
 
 - Les techniques soustractives d'enrichissement (TSE) sont autorisées dans la limite d'un taux de concentration de 15 %.
 
@@ -156,19 +156,19 @@ d) - Capacité de cuverie.
 
 - La capacité de vinification disponible au moment de la récolte correspond aux contenants de vinification.
 
-e) -  Entretien global du chai et du matériel.
+e) - Entretien global du chai et du matériel.
 
 Le chai (sols et murs) et le matériel de vinification présentent un bon état d'entretien général.
 
-2° -  Dispositions par type de produit :
+2° - Dispositions par type de produit :
 
 Les vins font l'objet d'un élevage au moins jusqu'au 1er juin de l'année qui suit celle de la récolte.
 
-3° -  Dispositions relatives au conditionnement :
+3° - Dispositions relatives au conditionnement :
 
 a) - Le conditionnement est réalisé au plus tôt le 1er juin de l'année qui suit celle de la récolte et au plus tard le 31 décembre de la troisième année qui suit celle de la récolte.
 
-b) -  Pour tout lot conditionné, l'opérateur tient à disposition de l'organisme de défense et de gestion et de l'organisme de contrôle agréé :
+b) - Pour tout lot conditionné, l'opérateur tient à disposition de l'organisme de défense et de gestion et de l'organisme de contrôle agréé :
 
 - les informations figurant dans le registre des manipulations visé à l'article D. 645-18 du code rural et de la pêche maritime du code rural ;
 
@@ -176,17 +176,17 @@ b) -  Pour tout lot conditionné, l'opérateur tient à disposition de l'organis
 
 Les bulletins d'analyse sont conservés pendant une période de six mois à compter de la date du conditionnement.
 
-4° -  Dispositions relatives au stockage :
+4° - Dispositions relatives au stockage :
 
 L'opérateur justifie d'un lieu adapté pour le stockage des produits conditionnés. On entend par lieu adapté de stockage des produits conditionnés, tout lieu à l'abri des intempéries (vent, pluie) et protégé de toute contamination
 
-5° -  Dispositions relatives à la circulation des produits et à la mise en marché à destination du consommateur :
+5° - Dispositions relatives à la circulation des produits et à la mise en marché à destination du consommateur :
 
-a) -  Date de mise en marché à destination du consommateur.
+a) - Date de mise en marché à destination du consommateur.
 
 A l'issue de la période d'élevage, les vins sont mis en marché à destination du consommateur à partir du 1er septembre de l'année suivant celle de la récolte.
 
-b) -  Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés.
+b) - Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés.
 
 Les vins peuvent circuler entre entrepositaires agréés au plus tôt le 1er mars de l'année qui suit celle de la récolte.
 
@@ -194,7 +194,7 @@ X. - Lien avec la zone géographique
 
 1°-Informations sur la zone géographique
 
-a) -  Description des facteurs naturels contribuant au lien
+a) - Description des facteurs naturels contribuant au lien
 
 Dans le département de la Gironde et dans la partie centrale de la presqu'île du Médoc, à 50 kilomètres au Nord de Bordeaux sur la rive gauche de l'estuaire, la zone géographique de production de l'appellation d'origine contrôlée "Pauillac" correspond au territoire de la commune de Pauillac ainsi qu'à une partie du territoire des communes de Cissac-Médoc, Saint-Estèphe, Saint-Julien-Beychevelle et Saint-Sauveur.
 
@@ -238,15 +238,15 @@ Par son port, dont l'activité commerciale historiquement diversifiée a permis 
 
 XI. - Mesures transitoires
 
-1° -  Mode de conduite :
+1° - Mode de conduite :
 
-a) -  Les parcelles de vigne en place à la date du 31 juillet 2009 et présentant une densité de plantation comprise entre 4000 pieds par hectare et 6500 pieds par hectare continuent à bénéficier, pour leur récolte, du droit à l'appellation d'origine contrôlée jusqu'à arrachage et au plus tard en 2035, sous réserve du respect des règles de palissage et de hauteur de feuillage fixées dans le présent cahier des charges.
+a) - Les parcelles de vigne en place à la date du 31 juillet 2009 et présentant une densité de plantation comprise entre 4000 pieds par hectare et 6500 pieds par hectare continuent à bénéficier, pour leur récolte, du droit à l'appellation d'origine contrôlée jusqu'à arrachage et au plus tard en 2035, sous réserve du respect des règles de palissage et de hauteur de feuillage fixées dans le présent cahier des charges.
 
-b) -  Les parcelles de vigne en place à la date du 31 juillet 2009 et présentant une densité de plantation comprise entre 6500 pieds par hectare et 7000 pieds par hectare continuent à bénéficier, pour leur récolte, du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage.
+b) - Les parcelles de vigne en place à la date du 31 juillet 2009 et présentant une densité de plantation comprise entre 6500 pieds par hectare et 7000 pieds par hectare continuent à bénéficier, pour leur récolte, du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage.
 
-c) -  La disposition relative à l'écartement entre rangs ne s'applique pas aux vignes en place à la date du 31 juillet 2009.
+c) - La disposition relative à l'écartement entre rangs ne s'applique pas aux vignes en place à la date du 31 juillet 2009.
 
-d) -  A compter de la récolte 2016, pour les parcelles de vigne en place à la date du 31 juillet 2009 et ne disposant pas d'une hauteur de feuillage palissé minimale au moins égale à 0,7 fois l'écartement entre les rangs, le rendement butoir est fixé à 60 hectolitres par hectare.
+d) - A compter de la récolte 2016, pour les parcelles de vigne en place à la date du 31 juillet 2009 et ne disposant pas d'une hauteur de feuillage palissé minimale au moins égale à 0,7 fois l'écartement entre les rangs, le rendement butoir est fixé à 60 hectolitres par hectare.
 
 XII. - Règles de présentation et étiquetage
 
@@ -326,7 +326,7 @@ Tout opérateur concerné par les dispositions transitoires fixées au XI du cha
 
 - Enregistrement des contrôles de maturité.
 
-- Cahier de chai contenant les analyses avant conditionnement : glucose et fructose, TAV, SO2 total,AV, AM.
+- Cahier de chai contenant les analyses avant conditionnement : glucose et fructose, TAV, SO2 total, AV, AM.
 
 - le cahier d'enrichissement
 
@@ -370,9 +370,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>A3. Outil de transformation, élevage, conditionnement et stockage. </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -423,9 +421,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B1. Conduite du vignoble. </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -463,9 +459,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B2. Récolte, transport et maturité du raisin. </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -480,9 +474,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B3. Transformation, élaboration, élevage, conditionnement, stockage. </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -504,9 +496,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B4. Déclaration de récolte et déclaration de revendication. </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -611,12 +601,8 @@ COMMUNE DE PAUILLAC
 </td>
 </tr>
 <tr>
-<td valign="top" width="121">
-<br/>
-</td>
-<td valign="top" width="117">
-<br/>
-</td>
+<td valign="top" width="121"/>
+<td valign="top" width="117"/>
 <td valign="top" width="128">
 <p>ha </p>
 </td>
@@ -626,29 +612,17 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="71">
 <p>Ca. </p>
 </td>
-<td valign="top" width="134">
-<br/>
-</td>
+<td valign="top" width="134"/>
 </tr>
 <tr>
 <td valign="top" width="121">
 <p>1° Commune de Cissac-Médoc </p>
 </td>
-<td valign="top" width="117">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
-<td valign="top" width="134">
-<br/>
-</td>
+<td valign="top" width="117"/>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
+<td valign="top" width="134"/>
 </tr>
 <tr>
 <td valign="top" width="121">
@@ -734,21 +708,11 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="121">
 <p>2° Commune de Saint-Julien-Beychevelle </p>
 </td>
-<td valign="top" width="117">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
-<td valign="top" width="134">
-<br/>
-</td>
+<td valign="top" width="117"/>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
+<td valign="top" width="134"/>
 </tr>
 <tr>
 <td valign="top" width="121">
@@ -797,15 +761,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>A </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>175 </p>
 </td>
@@ -994,21 +952,11 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="121">
 <p>3° Commune de Saint-Estèphe </p>
 </td>
-<td valign="top" width="117">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
-<td valign="top" width="134">
-<br/>
-</td>
+<td valign="top" width="117"/>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
+<td valign="top" width="134"/>
 </tr>
 <tr>
 <td valign="top" width="121">
@@ -1094,21 +1042,11 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="121">
 <p>4° Commune de Saint-Sauveur </p>
 </td>
-<td valign="top" width="117">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
-<td valign="top" width="134">
-<br/>
-</td>
+<td valign="top" width="117"/>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
+<td valign="top" width="134"/>
 </tr>
 <tr>
 <td valign="top" width="121">
@@ -1377,15 +1315,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>B </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>272 </p>
 </td>
@@ -1517,15 +1449,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>B </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>355, 356 </p>
 </td>
@@ -1577,15 +1503,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>B </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>380, 381, 383 p </p>
 </td>
@@ -1597,15 +1517,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>B </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>384, 385 p, 386 </p>
 </td>
@@ -1617,15 +1531,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>B </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>387 </p>
 </td>
@@ -1677,15 +1585,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>B </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>408 p, 409 p </p>
 </td>
@@ -2357,15 +2259,9 @@ COMMUNE DE PAUILLAC
 <td valign="top" width="117">
 <p>C </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="109">
-<br/>
-</td>
-<td valign="top" width="71">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="109"/>
+<td valign="top" width="71"/>
 <td valign="top" width="134">
 <p>280 p </p>
 </td>
