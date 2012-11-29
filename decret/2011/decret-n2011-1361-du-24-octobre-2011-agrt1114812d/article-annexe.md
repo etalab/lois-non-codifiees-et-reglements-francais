@@ -153,9 +153,7 @@ Ne peuvent être considérés comme étant à bonne maturité les raisins prése
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<br/>
-</td>
+<td valign="top" width="227"/>
 <td valign="top" width="226">
 <p>Merlot / Sauvignon </p>
 </td>
@@ -217,9 +215,7 @@ Les vins présentent un titre alcoométrique volumique minimum de :
 <table>
 <tbody>
 <tr>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 <td valign="top" width="322">
 <p>Titre alcoométrique volumique minimum naturel </p>
 </td>
@@ -410,26 +406,18 @@ Vins avant conditionnement (vins en vrac) :
 <td valign="top" width="136">
 <p>300 </p>
 </td>
-<td valign="top" width="137">
-<br/>
-</td>
+<td valign="top" width="137"/>
 </tr>
 <tr>
 <td valign="top" width="136">
-<p>Teneur maximale en acide malique (milligrammes par litre) </p>
+<p>Teneur maximale en acide malique (grammes par litre) </p>
 </td>
 <td valign="top" width="136">
 <p>Inférieure ou égale à 0,3 </p>
 </td>
-<td valign="top" width="136">
-<br/>
-</td>
-<td valign="top" width="136">
-<br/>
-</td>
-<td valign="top" width="137">
-<br/>
-</td>
+<td valign="top" width="136"/>
+<td valign="top" width="136"/>
+<td valign="top" width="137"/>
 </tr>
 </tbody>
 </table>
@@ -476,15 +464,9 @@ Vins après conditionnement :
 <td valign="top" width="129">
 <p>Teneur maximale en Acidité volatile (milliéquivalents par litre ou grammes par litre exprimés en acide acétique) </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="128"/>
+<td valign="top" width="128"/>
 <td valign="top" width="130">
 <p>25 ou 1, 50 (1,225 g/l H2SO4) </p>
 </td>
@@ -493,35 +475,23 @@ Vins après conditionnement :
 <td valign="top" width="129">
 <p>Teneur maximale en SO2 total (milligrammes par litre) </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="128"/>
 <td valign="top" width="128">
 <p>300 </p>
 </td>
-<td valign="top" width="130">
-<br/>
-</td>
+<td valign="top" width="130"/>
 </tr>
 <tr>
 <td valign="top" width="129">
-<p>Teneur maximale en Acide malique (milligrammes par litre) </p>
+<p>Teneur maximale en Acide malique (grammes par litre) </p>
 </td>
 <td valign="top" width="128">
 <p>Inférieure ou égale à 0, 3 </p>
 </td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="128">
-<br/>
-</td>
-<td valign="top" width="130">
-<br/>
-</td>
+<td valign="top" width="128"/>
+<td valign="top" width="128"/>
+<td valign="top" width="130"/>
 </tr>
 </tbody>
 </table>
@@ -750,9 +720,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>A. RÈGLES STRUCTURELLES </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -774,9 +742,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>A. 3. Outil de transformation, élevage, conditionnement et stockage </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -822,17 +788,13 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>B. RÈGLES LIÉES AU CYCLE DE PRODUCTION </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
 <p>B. 1. Conduite du vignoble </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -865,9 +827,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>B. 2. Récolte et maturité du raisin </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -881,9 +841,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>B. 3. Transformation, élaboration, élevage, conditionnement, stockage </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -897,9 +855,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>B. 4. Déclaration de récolte et déclaration de revendication </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -937,9 +893,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>C. CONTRÔLES DES PRODUITS </p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
@@ -969,9 +923,7 @@ I - Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="329">
 <p>D. - PRÉSENTATION DES PRODUITS</p>
 </td>
-<td valign="top" width="351">
-<br/>
-</td>
+<td valign="top" width="351"/>
 </tr>
 <tr>
 <td valign="top" width="329">
