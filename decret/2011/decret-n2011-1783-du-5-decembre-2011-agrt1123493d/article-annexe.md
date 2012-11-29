@@ -392,7 +392,7 @@ a) - Date de mise en marché à destination du consommateur.
 
 - Les vins blancs "secs" sont mis en marché à destination du consommateur selon les dispositions de l'article D. 645-17 du code rural et de la pêche maritime ;
 
-- A l'issue de la période d'élevage, les vins "moelleux" sont mis en marché à destination du consommateur à partir du 1er janvier de l'année qui suit celle de la récolte ;
+- A l'issue de la période d'élevage, les vins "moelleux" sont mis en marché à destination du consommateur à partir du 1er février de l'année qui suit celle de la récolte ;
 
 - A l'issue de la période d'élevage, les vins "liquoreux" sont mis en marché à destination du consommateur à partir du 1er avril de l'année qui suit celle de la récolte.
 
@@ -617,9 +617,7 @@ I. -Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>A3 -Outil de transformation, élevage, conditionnement et stockage </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -646,9 +644,7 @@ I. -Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B1 -Conduite du vignoble </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -681,9 +677,7 @@ I. -Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B2 - Récolte et maturité du raisin </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -705,9 +699,7 @@ I. -Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B3 -Transformation, élaboration, élevage, conditionnement, stockage </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -729,9 +721,7 @@ I. -Points principaux à contrôler et méthodes d'évaluation
 <td valign="top" width="340">
 <p>B4 - Déclaration de récolte et déclaration de revendication </p>
 </td>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 </tr>
 <tr>
 <td valign="top" width="340">
