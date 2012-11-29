@@ -18,7 +18,7 @@ a) Les principes de l'organisation administrative :
 
 - centralisation ;
 
-- décentralisation
+- décentralisation ;
 
 - déconcentration.
 
@@ -110,7 +110,7 @@ b) La Constitution de la Ve République :
 
 - les organes de la Ve République :
 
-- le pouvoir exécutif : le président de la République, le gouvernement ;
+- le pouvoir exécutif : le Président de la République, le Gouvernement ;
 
 - le Parlement : organisation, élection et statut des parlementaires, fonctions du Parlement ;
 
@@ -162,7 +162,7 @@ b) Les libertés de la personne physique :
 
 - le respect de la personnalité :
 
-- le droit à la vie et au respect de l'intégrité physique ;
+- le droit à la vie et au respect de l'intégrité physique,
 
 - la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances).
 
@@ -260,11 +260,11 @@ a) La responsabilité pénale du délinquant :
 
 - principe et limites de la responsabilité personnelle ;
 
-- la distinction auteur/ coauteur/complice ;
+- la distinction auteur/ coauteur/ complice ;
 
 - la tentative ;
 
-- la distinction personne physique/ personne morale, mineur/majeur ;
+- la distinction personne physique/ personne morale, mineur/ majeur ;
 
 - le cas particulier des responsables politiques.
 
@@ -346,9 +346,47 @@ b) Les mécanismes et les structures de l'entraide :
 
 - le casier judiciaire européen.
 
+Epreuves à options
+
+Finances publiques
+
+1. Le cadre juridique du budget de l'Etat
+
+a) Les principes budgétaires et leurs dérogations.
+
+2. La conception et le vote du budget
+
+a) L'élaboration.
+
+b) Les délais.
+
+c) L'adoption.
+
+3. Les ressources et dépenses
+
+a) Les ressources fiscales et non fiscales.
+
+b) Les grandes catégories de dépenses.
+
+c) L'emprunt.
+
+4. L'exécution de la loi de finances
+
+a) La séparation des ordonnateurs et des comptables.
+
+b) Les aménagements et les sanctions au principe de séparation.
+
+5. Le contrôle de l'exécution de la loi de finances
+
+a) Les contrôles administratifs.
+
+b) Les contrôles juridictionnels.
+
+c) Les contrôles politiques.
+
 Géographie économique et humaine
 
-Connaissances fondamentales
+Connaissances fondamentales :
 
 1. Les milieux naturels
 
@@ -384,7 +422,7 @@ b) Les mutations agricoles et l'espace rural.
 
 c) Les relations entre les villes et les campagnes.
 
-Géographie appliquée
+Géographie appliquée :
 
 1. La géographie du développement
 
@@ -420,9 +458,7 @@ Histoire contemporaine
 
 et relations internationales depuis 1945
 
-1. La construction du monde contemporain
-
-(de 1945 aux années 60)
+1. La construction du monde contemporain (de 1945 aux années 60)
 
 a) Le monde en 1945.
 
@@ -436,9 +472,7 @@ e) La fin des empires coloniaux.
 
 f) Un monde bipolaire : guerre froide et coexistence pacifique.
 
-2. La croissance et la crise
-
-(des années 50 aux années 90)
+2. La croissance et la crise (des années 50 aux années 90)
 
 a) La croissance économique et la société de la prospérité (1950-1973).
 
@@ -588,9 +622,9 @@ c) Réseau :
 
 - internet (pile TCP/ IP, protocoles applicatifs, sécurité) ;
 
-Mathématiques et statistiques
+Mathématiques et statistique
 
-Mathématiques
+Mathématiques :
 
 1. Entiers naturels
 
@@ -658,7 +692,7 @@ b) Trigonométrie.
 
 Eléments de calcul différentiel.
 
-Statistique
+Statistique :
 
 1. Eléments de statistique descriptive
 
@@ -690,7 +724,7 @@ Psychologie
 
 a) Typologie et personnalité : impact des facteurs environnementaux, génétiques et épidémiologiques.
 
-b) Approche sémiologique, épidémiologique et étiologique des pathologies comportementales à risque (troubles bipolaires, schizophrénie, addictions,...) : les classifications internationales (CIM-10 et DSM-IV TR).
+b) Approche sémiologique, épidémiologique et étiologique des pathologies comportementales à risque (troubles bipolaires, schizophrénie, addictions...) : les classifications internationales (CIM-10 et DSM-IV TR).
 
 c) Troubles des conduites et addictions.
 
@@ -880,9 +914,51 @@ c) Le développement :
 
 - stratégies ;
 
-- pauvreté, inégalités ;
+- pauvreté, inégalités.
 
-Droit civil
+Sociologie des organisations
+
+et gestion des ressources humaines
+
+Organisation, administration et bureaucratie.
+
+Le système organisationnel et son environnement.
+
+La régulation sociale.
+
+Les statuts et les rôles.
+
+La hiérarchie.
+
+Les réseaux sociaux.
+
+Motivations et participation.
+
+Contrainte et coopération.
+
+De la coercition à la négociation.
+
+La rationalité de l'acteur.
+
+Le comportement organisationnel : tactique et stratégie.
+
+L'autorité : entre légalité et légitimité.
+
+Les relations professionnelles.
+
+Le mouvement des relations humaines.
+
+Les principes du management scientifique.
+
+Ordre et désordre.
+
+Normes et déviances.
+
+Le conflit social : origines, types, modes de résolution.
+
+Droit privé
+
+Droit civil :
 
 Le droit des personnes
 
@@ -936,7 +1012,7 @@ Le droit de la famille
 
 1. Le couple
 
-a) Le mariage
+a) Le mariage :
 
 - les conditions ;
 
@@ -1090,7 +1166,7 @@ b) L'usage et l'habitation : les diminutifs de l'usufruit.
 
 c) Les servitudes.
 
-Droit des affaires
+Droit des affaires :
 
 1. Les commerçants
 
@@ -1152,7 +1228,7 @@ a) Le tribunal de commerce.
 
 b) L'arbitrage.
 
-Droit du travail
+Droit du travail :
 
 1. Définition, objet et sources du droit du travail
 
