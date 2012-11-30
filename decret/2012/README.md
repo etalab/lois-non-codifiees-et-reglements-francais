@@ -790,6 +790,7 @@
 - [Décret n°2012-115 du 27 janvier 2012 (AGRG1130880D)](decret-n2012-115-du-27-janvier-2012-agrg1130880d)
 - [Décret n°2012-116 du 27 janvier 2012 (ESRS1126213D)](decret-n2012-116-du-27-janvier-2012-esrs1126213d)
 - [Décret n°2012-1311 du 27 novembre 2012 (ACTI1237384D)](decret-n2012-1311-du-27-novembre-2012-acti1237384d)
+- [Décret n°2012-1312 du 27 novembre 2012 (JUSC1210050D)](decret-n2012-1312-du-27-novembre-2012-jusc1210050d)
 - [Décret n°2012-1494 du 27 décembre 2012 (DEVK1235804D)](decret-n2012-1494-du-27-decembre-2012-devk1235804d)
 - [Décret n°2012-271 du 27 février 2012 (ETSZ1134794D)](decret-n2012-271-du-27-fevrier-2012-etsz1134794d)
 - [Décret n°2012-276 du 27 février 2012 (AGRS1110786D)](decret-n2012-276-du-27-fevrier-2012-agrs1110786d)

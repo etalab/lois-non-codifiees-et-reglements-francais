@@ -2077,6 +2077,7 @@
 - [Arrêté du 24 septembre 2012 (AFSP1230867A)](arrete-du-24-septembre-2012-afsp1230867a)
 - [Arrêté du 24 septembre 2012 (DEFH1235440A)](arrete-du-24-septembre-2012-defh1235440a)
 - [Arrêté du 24 septembre 2012 (DEVA1235157A)](arrete-du-24-septembre-2012-deva1235157a)
+- [Arrêté du 24 septembre 2012 (DEVK1235420A)](arrete-du-24-septembre-2012-devk1235420a)
 - [Arrêté du 24 septembre 2012 (ETSD1234984A)](arrete-du-24-septembre-2012-etsd1234984a)
 - [Arrêté du 24 septembre 2012 (INTJ1234054A)](arrete-du-24-septembre-2012-intj1234054a)
 - [Arrêté du 24 mai 2012 (DEFH1224257A)](arrete-du-24-mai-2012-defh1224257a)
