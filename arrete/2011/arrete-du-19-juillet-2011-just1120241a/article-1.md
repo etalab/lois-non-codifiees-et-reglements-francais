@@ -62,7 +62,7 @@ A la direction de l'administration pénitentiaire
 
 ― chef du bureau des relations sociales ;
 
-― chef du bureau de la gestion personnalisée des cadres ;
+― conseiller mobilité carrière au bureau de la gestion personnalisée des cadres ;
 
 ― secrétaire général de la direction interrégionale de l'administration pénitentiaire de Rennes ;
 
