@@ -2,7 +2,7 @@
 
 La liste d'aptitude prévue par l'article 22 ci-dessus est établie annuellement par spécialité par un arrêté du ministre chargé de l'éducation pris après avis de la commission administrative paritaire nationale.
 
-Peuvent figurer sur cette liste les fonctionnaires appartenant à la hors-classe des inspecteurs de l'éducation nationale, justifiant de dix années de services effectifs en cette qualité et ayant exercé en qualité de titulaire, pendant une durée suffisante, les fonctions afférentes à leur corps dans au moins deux affectations ou fonctions. Un arrêté du ministre chargé de l'éducation fixe la nature et la durée de ces fonctions.
+Peuvent figurer sur cette liste les fonctionnaires appartenant à la hors-classe du corps des inspecteurs de l'éducation nationale et qui justifient de dix années de services effectifs dans ce corps en position d'activité ou de détachement.
 
 Les conditions d'inscription sur la liste d'aptitude sont appréciées au 1er janvier de l'année au titre de laquelle est établie la liste.
 
