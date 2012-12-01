@@ -6,4 +6,4 @@ Tout véhicule banalisé servant au transport de fonds placés dans les disposit
 
 2° D'un système de repérage à distance permettant à l'entreprise d'en déterminer à tout moment l'emplacement.
 
-Les entreprises de transport de fonds, de bijoux ou de métaux précieux ne sont pas astreintes à faire figurer de façon apparente leur raison sociale sur les véhicules banalisés.
+Un véhicule banalisé n'est pas nécessairement équipé de blindages. L'entreprise de transport de fonds n'est pas astreinte à y faire figurer sa raison sociale.
