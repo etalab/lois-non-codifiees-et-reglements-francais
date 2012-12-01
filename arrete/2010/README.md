@@ -1402,7 +1402,6 @@
 - [Arrêté du 16 décembre 2009 (BCFD0931953A)](arrete-du-16-decembre-2009-bcfd0931953a)
 - [Arrêté du 16 décembre 2009 (ECET0928976A)](arrete-du-16-decembre-2009-ecet0928976a)
 - [Arrêté du 16 décembre 2010 (AGRE1032594A)](arrete-du-16-decembre-2010-agre1032594a)
-- [Arrêté du 16 décembre 2010 (AGRT1025533A)](arrete-du-16-decembre-2010-agrt1025533a)
 - [Arrêté du 16 décembre 2010 (DEVL1025519A)](arrete-du-16-decembre-2010-devl1025519a)
 - [Arrêté du 16 décembre 2010 (DEVP1031364A)](arrete-du-16-decembre-2010-devp1031364a)
 - [Arrêté du 16 décembre 2010 (EFIP1032212A)](arrete-du-16-decembre-2010-efip1032212a)
