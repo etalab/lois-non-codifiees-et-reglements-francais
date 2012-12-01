@@ -1,4 +1,4 @@
-# Arrêté du 9 novembre 2012 portant organisation du service de santé des armées
+# Arrêté du 28 novembre 2012 fixant les conditions d'accès aux soutiens spécifiques en faveur des agriculteurs dans le cadre de la politique agricole commune pour la campagne 2012
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,5 +10,5 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
+- [Article 11](article-11.md)
+- [Annexe](annexe)
