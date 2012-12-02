@@ -272,7 +272,6 @@
 - [Arrêté du 4 novembre 2010 (JUSF1028284A)](arrete-du-4-novembre-2010-jusf1028284a)
 - [Arrêté du 4 novembre 2010 (JUSF1028414A)](arrete-du-4-novembre-2010-jusf1028414a)
 - [Arrêté du 4 novembre 2010 (JUSF1028415A)](arrete-du-4-novembre-2010-jusf1028415a)
-- [Arrêté du 4 novembre 2011 (DEFH1107828A)](arrete-du-4-novembre-2011-defh1107828a)
 - [Arrêté du 4 octobre 2010 (AGRM1024530A)](arrete-du-4-octobre-2010-agrm1024530a)
 - [Arrêté du 4 octobre 2010 (AGRT1016290A)](arrete-du-4-octobre-2010-agrt1016290a)
 - [Arrêté du 4 octobre 2010 (AGRT1016297A)](arrete-du-4-octobre-2010-agrt1016297a)
