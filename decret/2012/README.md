@@ -852,6 +852,7 @@
 - [Décret n°2012-1200 du 29 octobre 2012 (AFSS1206492D)](decret-n2012-1200-du-29-octobre-2012-afss1206492d)
 - [Décret n°2012-1202 du 29 octobre 2012 (AFSS1204381D)](decret-n2012-1202-du-29-octobre-2012-afss1204381d)
 - [Décret n°2012-1203 du 29 octobre 2012 (AFSS1204984D)](decret-n2012-1203-du-29-octobre-2012-afss1204984d)
+- [Décret n°2012-1331 du 29 novembre 2012 (AFSZ1228611D)](decret-n2012-1331-du-29-novembre-2012-afsz1228611d)
 - [Décret n°2012-282 du 29 février 2012 (DEFH1135573D)](decret-n2012-282-du-29-fevrier-2012-defh1135573d)
 - [Décret n°2012-283 du 29 février 2012 (DEFH1200361D)](decret-n2012-283-du-29-fevrier-2012-defh1200361d)
 - [Décret n°2012-285 du 29 février 2012 (ETSH1135828D)](decret-n2012-285-du-29-fevrier-2012-etsh1135828d)
