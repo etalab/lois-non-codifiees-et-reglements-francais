@@ -1212,6 +1212,7 @@
 - [Arrêté du 15 mars 2012 (SPOV1208127A)](arrete-du-15-mars-2012-spov1208127a)
 - [Arrêté du 15 novembre 2011 (BCRD1131923A)](arrete-du-15-novembre-2011-bcrd1131923a)
 - [Arrêté du 15 novembre 2011 (MAEF1130821A)](arrete-du-15-novembre-2011-maef1130821a)
+- [Arrêté du 15 novembre 2012 (AFSS1239550A)](arrete-du-15-novembre-2012-afss1239550a)
 - [Arrêté du 15 novembre 2012 (INTE1239683A)](arrete-du-15-novembre-2012-inte1239683a)
 - [Arrêté du 15 octobre 2012 (AGRT1232428A)](arrete-du-15-octobre-2012-agrt1232428a)
 - [Arrêté du 15 octobre 2012 (AGRT1232433A)](arrete-du-15-octobre-2012-agrt1232433a)

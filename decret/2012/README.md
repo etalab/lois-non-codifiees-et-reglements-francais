@@ -911,6 +911,8 @@
 - [Décret n°2012-131 du 30 janvier 2012 (EFIE1127301D)](decret-n2012-131-du-30-janvier-2012-efie1127301d)
 - [Décret n°2012-132 du 30 janvier 2012 (EFIT1134843D)](decret-n2012-132-du-30-janvier-2012-efit1134843d)
 - [Décret n°2012-133 du 30 janvier 2012 (ETSD1131766D)](decret-n2012-133-du-30-janvier-2012-etsd1131766d)
+- [Décret n°2012-1335 du 30 novembre 2012 (AGRT1233705D)](decret-n2012-1335-du-30-novembre-2012-agrt1233705d)
+- [Décret n°2012-1337 du 30 novembre 2012 (OMEO1235232D)](decret-n2012-1337-du-30-novembre-2012-omeo1235232d)
 - [Décret n°2012-134 du 30 janvier 2012 (ETST1200183D)](decret-n2012-134-du-30-janvier-2012-etst1200183d)
 - [Décret n°2012-135 du 30 janvier 2012 (ETST1200303D)](decret-n2012-135-du-30-janvier-2012-etst1200303d)
 - [Décret n°2012-136 du 30 janvier 2012 (ETST1202779D)](decret-n2012-136-du-30-janvier-2012-etst1202779d)
