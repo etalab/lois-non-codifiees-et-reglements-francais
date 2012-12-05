@@ -5,3 +5,4 @@
 - [CHAPITRE II : FILIERE PT](chapitre-ii)
 - [CHAPITRE III : FILIERE TSI](chapitre-iii)
 - [CHAPITRE IV : CLASSEMENT ET AFFECTATION DANS LES ECOLES](chapitre-iv)
+- [Article 7](article-7.md)
