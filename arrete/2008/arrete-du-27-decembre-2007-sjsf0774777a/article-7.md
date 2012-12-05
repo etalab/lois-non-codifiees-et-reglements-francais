@@ -10,4 +10,8 @@ Dans les cinq ans suivant la date de publication du présent arrêté, les titul
 
 ― formation complémentaire prise en compte des publics à mobilité réduite ;
 
-― pilotage en milieu aménagé .
+― pilotage en milieu aménagé ;
+
+― formation complémentaire " enseignement de la mini-voile ” ;
+
+― formation complémentaire " enseignement du speed riding ”.

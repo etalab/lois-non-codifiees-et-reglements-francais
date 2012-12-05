@@ -4,7 +4,7 @@ Les exigences préalables requises pour accéder à la formation prévues à l'a
 
 ― justifier d'un niveau de pilote de parapente de niveau V dans la nomenclature de la Fédération aéronautique internationale (FAI) ;
 
-― justifier d'un niveau de performance compétitive en vol de distance en parapente ;
+― justifier d'un niveau de performance en parapente ;
 
 ― attester d'une expérience de quatre cents heures dans les trois dernières années, dans les domaines de l'encadrement pédagogique du parapente ;
 
