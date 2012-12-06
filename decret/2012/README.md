@@ -46,6 +46,8 @@
 - [Décret n°2012-1018 du 3 septembre 2012 (INTB1201658D)](decret-n2012-1018-du-3-septembre-2012-intb1201658d)
 - [Décret n°2012-1019 du 3 septembre 2012 (INTB1204236D)](decret-n2012-1019-du-3-septembre-2012-intb1204236d)
 - [Décret n°2012-1125 du 3 octobre 2012 (EFIT1220847D)](decret-n2012-1125-du-3-octobre-2012-efit1220847d)
+- [Décret n°2012-1342 du 3 décembre 2012 (ETLL1203679D)](decret-n2012-1342-du-3-decembre-2012-etll1203679d)
+- [Décret n°2012-1343 du 3 décembre 2012 (DEVR1209359D)](decret-n2012-1343-du-3-decembre-2012-devr1209359d)
 - [Décret n°2012-170 du 3 février 2012 (IOCB1130432D)](decret-n2012-170-du-3-fevrier-2012-iocb1130432d)
 - [Décret n°2012-171 du 3 février 2012 (IOCE1132895D)](decret-n2012-171-du-3-fevrier-2012-ioce1132895d)
 - [Décret n°2012-172 du 3 février 2012 (ESRS1119325D)](decret-n2012-172-du-3-fevrier-2012-esrs1119325d)
