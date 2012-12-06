@@ -9,3 +9,5 @@ Le directeur est assisté d'un directeur adjoint qui le supplée en cas d'absenc
 Le directeur et le directeur adjoint disposent d'un cabinet.
 
 Ils disposent également d'une mission de veille, des études et de la prospective chargée de recueillir et d'analyser toutes les informations relatives aux domaines de compétence de la direction pour éclairer les choix et la stratégie de la police nationale en ces domaines.
+
+Un médiateur interne est placé auprès du directeur.
