@@ -6,7 +6,7 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 -les personnes soumises aux obligations du code du service national ;
 
--les armées, directions et services en relation avec la direction du service national dans la conduite de l'organisation des journées défense et citoyenneté, dans le cadre de la gestion nominative des dossiers des personnels ayant effectué une activité militaire ;
+―  les armées, directions et services en relation avec la direction du  service national dans la conduite de l'organisation des journées défense  et citoyenneté, dans le cadre de la gestion des identifiants défense  des personnels civils et militaires, de la gestion des personnels  militaires quelle que soit leur année de naissance recensés outre-mer et  des ressortissants de nationalité étrangère nés après le 31 décembre  1978 servant en qualité de militaire en vertu d'un contrat au ministère  de la défense ;
 
 -les organismes chargés du recrutement (volontariat, engagement, réserve militaire, carrière civile) dans les armées, directions ou services du ministère de la défense et des anciens combattants et les ministères d'emploi des volontariats de service civique ;
 
@@ -25,8 +25,6 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 -le ministère des affaires étrangères et européennes, dans le cadre des opérations de recensement des Français établis hors de France et de l'organisation des journées défense et citoyenneté à l'étranger ;
 
 -les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
-
--l'institut interrégional pour la santé, dans le cadre de l'aide aux jeunes dyslexiques ;
 
 -le Trésor public, pour le paiement de l'indemnité forfaitaire de déplacement ;
 
