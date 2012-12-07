@@ -1140,7 +1140,6 @@
 - [Arrêté du 14 décembre 2011 (AGRS1125709A)](arrete-du-14-decembre-2011-agrs1125709a)
 - [Arrêté du 14 décembre 2011 (AGRS1133764A)](arrete-du-14-decembre-2011-agrs1133764a)
 - [Arrêté du 14 décembre 2011 (DEVA1132708A)](arrete-du-14-decembre-2011-deva1132708a)
-- [Arrêté du 14 décembre 2011 (DEVD1128902A)](arrete-du-14-decembre-2011-devd1128902a)
 - [Arrêté du 14 décembre 2011 (DEVP1133571A)](arrete-du-14-decembre-2011-devp1133571a)
 - [Arrêté du 14 décembre 2011 (EFIE1130166A)](arrete-du-14-decembre-2011-efie1130166a)
 - [Arrêté du 14 décembre 2011 (EFIE1130169A)](arrete-du-14-decembre-2011-efie1130169a)
