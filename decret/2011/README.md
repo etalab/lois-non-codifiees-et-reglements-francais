@@ -475,6 +475,7 @@
 - [Décret n°2011-1585 du 17 novembre 2011 (AGRT1123495D)](decret-n2011-1585-du-17-novembre-2011-agrt1123495d)
 - [Décret n°2011-1586 du 17 novembre 2011 (AGRT1113845D)](decret-n2011-1586-du-17-novembre-2011-agrt1113845d)
 - [Décret n°2011-1587 du 17 novembre 2011 (AGRT1123491D)](decret-n2011-1587-du-17-novembre-2011-agrt1123491d)
+- [Décret n°2011-64 du 17 janvier 2011 (DEVT1018722D)](decret-n2011-64-du-17-janvier-2011-devt1018722d)
 - [Décret n°96-926 du 17 octobre 1996 (INTD9600265D)](decret-n96-926-du-17-octobre-1996-intd9600265d)
 - [Décret n°98-510 du 17 juin 1998 (INTD9800130D)](decret-n98-510-du-17-juin-1998-intd9800130d)
 - [Décret n°2011-1319 du 18 octobre 2011 (JUSC1117742D)](decret-n2011-1319-du-18-octobre-2011-jusc1117742d)
