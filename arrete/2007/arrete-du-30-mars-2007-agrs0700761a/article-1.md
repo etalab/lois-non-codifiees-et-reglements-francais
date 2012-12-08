@@ -8,7 +8,7 @@ a) En administration centrale :
 
 -chef de section au bureau du cabinet ;
 
--chef de la mission de défense ;
+- haut fonctionnaire de défense (à compter du 1er août 2012) ;
 
 -adjoint au sous-directeur de la logistique et du patrimoine au secrétariat général ;
 
@@ -56,7 +56,11 @@ a) En administration centrale :
 
 -chef de la mission du droit des usagers et de la coordination des procédures juridiques communautaires au service des affaires juridiques du secrétariat général (ajouté à compter du 20 avril 2009) ;
 
--chef de bureau des relations contractuelles (enseignement privé) à la direction générale de l'enseignement et de la recherche (ajouté à compter du 1er janvier 2012)
+-chef de bureau des relations contractuelles (enseignement privé) à la direction générale de l'enseignement et de la recherche (ajouté à compter du 1er janvier 2012) ;
+
+-secrétaire général du réseau des ingénieurs généraux d'appui et soutien aux structures (ajouté à compter du 1er juillet 2012) ;
+
+-chef  de la mission d'appui au pilotage de la performance à la direction  générale de l'alimentation (ajouté à compter du 1er juillet 2012).
 
 b) Dans les services déconcentrés :
 
@@ -88,15 +92,13 @@ b) Dans les services déconcentrés :
 
 - chef du service eau biodiversité de la direction départementale des territoires de l'Aube ;
 
+chef du service développement des territoires de la direction départementale des territoires des Alpes-de-Haute-Provence (ajoutée à compter du 1er juillet 2012) ;
+
 -secrétaire général de la direction départementale de la cohésion sociale et de la protection des populations des Alpes-de-Haute-Provence (à compter du 1er avril 2012) ;
 
 - chef du service régional économie agricole, forestière et territoires de la direction régionale de l'alimentation, de l'agriculture et de la forêt de l'Auvergne ;
 
--chef du service régional d'information statistique et économique à la direction régionale de l'alimentation, de l'agriculture et de la forêt d'Auvergne (supprimé à compter du 1er avril 2012) ;
-
 -chef du service de l'espace rural, de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Aveyron ;
-
--secrétaire général de la direction départementale de l'équipement et de l'agriculture de l'Aveyron (à compter 1er juillet 2009) ;
 
 -chef du service régional de l'information statistique et économique de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Basse-Normandie (ajouté à compter du 1er juillet 2010) ;
 
@@ -112,7 +114,7 @@ b) Dans les services déconcentrés :
 
 - chef du service régional de l'économie forestière, agricole et rurale de la direction régionale de l'alimentation, de l'agriculture et de la forêt du Centre ;
 
--chef du service régional d'information statistique et économique à la direction régionale et de l'agriculture et de la forêt Champagne-Ardenne ;
+-chef du service régional d'information statistique et économique à la direction régionale et de l'agriculture et de la forêt Champagne-Ardenne (supprimé à compter du 31 décembre 2012) ;
 
 -chef du service économie agricole de la direction départementale des territoires et de la mer de la Charente-Maritime (ajouté à compter du 1er janvier 2011) ;
 
@@ -136,6 +138,8 @@ b) Dans les services déconcentrés :
 
 -chef du service des équipements publics ruraux à la direction départementale de l'agriculture et de la forêt du Finistère ;
 
+- secrétaire général de la direction départementale de la protection des populations du Finistère (à compter du 1er juillet 2012) ;
+
 -chef du service équipements publics ruraux à la direction départementale de l'équipement et de l'agriculture du Finistère (ajouté à compter du 1er juillet 2009) ;
 
 -chef du service régional de l'alimentation de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Franche-Comté (ajouté à compter du 1er janvier 2009) ;
@@ -158,17 +162,17 @@ b) Dans les services déconcentrés :
 
 -chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
 
+-chef du service eau et environnement de la direction départementale des territoires de la Haute-Savoie (à compter du 1er septembre 2012) ;
+
 - chef du service économie et politique agricole de la direction départementale et des territoires du Haut-Rhin ;
 
 -chef du service équipement rural, adjoint au directeur départemental de l'agriculture et de la forêt du Haut-Rhin ;
 
+- responsable mission connaissance, études et prospectives à la direction départementale des territoires et de la mer de l'Hérault (ajouté à compter du 1er juillet 2012)
+
 -chef du service environnement à la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine ;
 
 - secrétaire général de la direction départementale de la cohésion sociale et de la protection des populations d'Ille-et-Vilaine ;
-
--chef du service de l'aménagement rural, adjoint au directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire ;
-
--chef du service études et réalisations à la direction départementale de l'agriculture et de la forêt de l'Isère (supprimé à compter du 19 mars 2012) ;
 
 -chef du service police de l'eau, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt des Landes ;
 
@@ -204,17 +208,17 @@ b) Dans les services déconcentrés :
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt de la Manche ;
 
--chef du service aménagements fonciers et environnement à la direction départementale de l'agriculture et de la forêt de la Manche ;
+-adjoint du chef de service eau environnement risques, chef de la mission interservice de l'eau, chef unité politique territoriale de l'eau (à compter du 1er juillet 2012) ;
 
 -chef du service économie agricole de la direction départementale des territoires et de la mer de la Manche (ajouté à compter du 1er juillet 2010) ;
+
+-chef du service aménagement foncier et environnement à la direction départementale de l'Orne (à compter du 1er juillet 2012) ;
 
 -chef du pôle contrôles régionaux à la production et aux échanges de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Champagne-Ardenne (ajouté à compter du 13 février 2012) ;
 
 -chef du service de l'environnement et de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt de Meurthe-et-Moselle ;
 
 -secrétaire général de la direction départementale des territoires de Meurthe-et-Moselle (à compter du 1er avril 2010) ;
-
--chef du service environnement de la direction départementale de l'agriculture et de la forêt de la Meuse (ajouté à compter du 1er septembre 2009) ;
 
 -chef du service économie agricole de la direction départementale de l'agriculture et de la forêt de la Meuse (ajouté à compter du 15 septembre 2009) ;
 
@@ -226,8 +230,6 @@ b) Dans les services déconcentrés :
 
 -chef du service de l'équipement rural à la direction départementale de l'agriculture et de la forêt du Morbihan ;
 
--chef du service environnement et développement rural à la direction départementale de l'agriculture et de la forêt de la Moselle (supprimé à compter du 9 juin 2012) ;
-
 -chef du service environnement de la direction départementale de l'agriculture et de la forêt du Nord (ajouté à compter du 1er juillet 2009) ;
 
 -chef du service qualité et sécurité des aliments de la direction départementale de la protection des populations du Nord (ajouté à compter du 1er janvier 2010) ;
@@ -237,8 +239,6 @@ b) Dans les services déconcentrés :
 -chef de service régional de l'économie agricole à la direction régionale de l'alimentation, de l'agriculture et de la forêt du Nord-Pas-de-Calais ;
 
 -secrétaire général de la direction régionale et interdépartementale de l'alimentation, de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
-
-- chef du service équipements publics ruraux à la direction départementale des territoires et de la mer du Pas-de-Calais (ajouté à compter du 1er janvier 2011) ;
 
 -chef de l'unité sites, paysages, impacts à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (à compter du 1er septembre 2009) ;
 
@@ -266,8 +266,6 @@ b) Dans les services déconcentrés :
 
 -secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Haute-Normandie, de la direction départementale de l'agriculture et de la forêt de la Seine-Maritime et de la direction départementale des services vétérinaires de la Seine-Maritime ;
 
--chef du service eau et environnement, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Tarn-et-Garonne (supprimé à compter du 31 mars 2012) ;
-
 -chef du service environnement de la direction départementale de l'équipement et de l'agriculture de Tarn-et-Garonne (ajouté à compter du 1er juillet 2009) ;
 
 -chef du service environnement à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
@@ -278,7 +276,7 @@ b) Dans les services déconcentrés :
 
 -chef du service prospective des territoires et aménagement durable de la direction départementale et des territoires de Vaucluse (ajouté à compter du 4 août 2010) ;
 
--chef du service agriculture de la direction départementale des territoires et de la mer de la Vendée (ajouté à compter du 1er janvier 2010) ;
+-chef du service agriculture de la direction départementale des territoires et de la mer de la Vendée (supprimé à compter du 31 décembre 2012) ;
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vienne ;
 
@@ -324,8 +322,33 @@ b) Dans les services déconcentrés :
 
 II.-Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture
 
-<div align="left">Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat. <br/>Adjoint au secrétaire général et responsable des ressources humaines de l'Ecole nationale vétérinaire de Toulouse. <br/>Chef du service financier de Montpellier Sup Agro. <br/>Gestionnaire administratif et financier de l'Etablissement national d'enseignement supérieur agronomique de Dijon. <br/>Gestionnaire administratif et financier de l'établissement public local d'Avize, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Bordeaux-Blanquefort, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Chambéry, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local des Landes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). </div>
-<div align="left">Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (supprimé à compter du 31 août 2011).<br/>Gestionnaire administratif et financier de l'établissement public local de Lons-le-Saunier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). <br/>Responsable du service financier de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2009). <br/>Responsable du service des ressources humaines de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2010) <br/>Gestionnaire administratif et financier de l'établissement public local de Nevers-Cosnes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. (supprimé à compter du 1er février 2012) <br/>Gestionnaire administratif et financier de l'établissement public local de Nîmes-Rodilhan, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. </div>
+<div align="left">Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat. </div>
+<div align="left">
+<br/>Adjoint au secrétaire général et responsable des ressources humaines de l'Ecole nationale vétérinaire de Toulouse. </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (à compter du 1er septembre 2011)</div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'Etablissement national d'enseignement supérieur agronomique de Dijon. </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local d'Avize, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local de Bordeaux-Blanquefort, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local de Chambéry, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local des Landes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). </div>
+<div align="left"/>
+<div align="left">Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (supprimé à compter du 31 août 2011).</div>
+<div align="left">
+<br/>Gestionnaire d'établissement public local d'enseignement et de formation professionnelle agricole chargé de fonctions de conseil et d'expertise auprès de l'autorité académique à Mamirolle (à compter du 1er janvier 2012)</div>
+<div align="left"/>
+<div align="left">Responsable du service financier de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2009). </div>
+<div align="left">
+<br/>Responsable du service des ressources humaines de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2010) </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local de Nevers-Cosnes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. (supprimé à compter du 1er février 2012) </div>
+<div align="left">
+<br/>Gestionnaire administratif et financier de l'établissement public local de Nîmes-Rodilhan, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. </div>
 
 Gestionnaire administratif et financier de l'établissement public local de Pontivy, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
@@ -334,11 +357,16 @@ Gestionnaire administratif et financier de l'établissement public local de Renn
 <div align="left">Gestionnaire administratif et financier de l'établissement public local de La Roche-sur-Foron chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 6 août 2010). </div>
 <div align="left">
 <br/>Gestionnaire administratif et financier de l'établissement public local de Romans, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). <br/>Gestionnaire administratif et financier de l'établissement public local de Saint-Germain-en-Laye, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Saint-Joseph, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). <br/>
-<p>Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA). <br/>Gestionnaire administratif et financier de l'établissement public local de la Guadeloupe, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). </p>
+<p>Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA). <br/>
+</p>
 </div>
 <div align="left">Directrice des ressources humaines d'AgroParisTech (ajouté à compter du 1er juillet 2010) ;</div>
-<div align="left">Secrétaire générale de l'Etablissement public local d'enseignement et de formation professionnelle agricole Châteaulin de Morlaix (ajouté à compter du 1er janvier 2012)</div>
 <div align="left"/>
+<div align="left">Secrétaire générale de l'Etablissement public local d'enseignement et de formation professionnelle agricole Châteaulin de Morlaix (ajouté à compter du 1er janvier 2012) ;<br/>
+</div>
+<div align="left"/>
+
+chef du service patrimoine de l'Ecole nationale de formation agronomique et gestion des services communs du complexe agricole à Toulouse (ajouté à compter du 1er juillet 2012) ;
 
 III.-Dans les services du ministère de l'écologie et du développement durable
 
@@ -380,6 +408,8 @@ b) Dans les services déconcentrés :
 
 - chargé de mission estuaire (Seine), responsable mission transversale évaluation environnementale de la direction régionale de l'environnement, de l'aménagement et du logement de la Haute-Normandie (ajouté à compter du 1er janvier 2012).
 
+- chef du service connaissance, prospectives, développement territorial  à la direction de l'environnement, de l'aménagement et du logement de Martinique (ajouté à compter du 1er juillet 2012) ;
+
 IV.-Dans les établissements publics qui dépendent du ministère chargé
 
 de l'agriculture et/ou du ministère chargé de l'environnement
@@ -415,6 +445,8 @@ c) Dans les services du Centre national du machinisme agricole, du génie rural,
 -responsable national du thème de recherche "maîtrise des écoulements et des transferts pour préserver l'hygiène des aliments au groupement de Rennes".
 
 - responsable d'un laboratoire de recherche, responsable d'un groupe de recherche de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture à Aix (ajouté à compter du 1er janvier 2012)
+
+- responsable informatique scientifique et mutualisation informatique spatiale  à la maison de la télédétection de Montpellier (ajouté à compter du 1er juillet 2012) ;
 
 d) Dans les services du siège de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) :
 
