@@ -1,3 +1,0 @@
-# Article 1
-
-Lorsque les personnes physiques ou morales font appel à des ingénieurs, techniciens ou bureaux d'études privés pour l'établissement de projets de travaux forestiers assortis d'une demande d'aide financière de l'Etat ou pour l'établissement de plans simples de gestion de leurs forêts, les honoraires de ces spécialistes ne peuvent être pris en compte dans le calcul des aides sollicitées ou donner lieu à l'attribution des aides spécifiques prévues qu'à la condition que les ingénieurs ou techniciens responsables des projets soient inscrits sur la liste des experts forestiers établie conformément aux dispositions des articles R. 171-9 et R. 171-10 du code rural et de la pêche maritime.
