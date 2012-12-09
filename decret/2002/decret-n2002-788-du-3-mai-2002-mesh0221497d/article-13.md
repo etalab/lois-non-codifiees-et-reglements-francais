@@ -1,5 +1,5 @@
 # Article 13
 
-Un compte épargne-temps ne peut être alimenté avec des jours de congés ou des repos compensatoires acquis avant l'entrée en vigueur du décret du 4 janvier 2002 susvisé.
+La situation des comptes épargne-temps et leur prise en compte dans le bilan comptable sont présentées chaque année aux membres du comité technique d'établissement concomitamment au bilan social.
 
-Une évaluation de la mise en oeuvre du présent décret sera présentée au Conseil supérieur de la fonction publique hospitalière avant le 31 décembre 2004.
+Un état statistique des comptes épargne-temps des agents de la fonction publique hospitalière est présenté chaque année aux membres du Conseil supérieur de la fonction publique hospitalière.

@@ -27,6 +27,7 @@
 - [Décret n°2002-1434 du 4 décembre 2002 (INDI0200715D)](decret-n2002-1434-du-4-decembre-2002-indi0200715d)
 - [Décret n°2002-22 du 4 janvier 2002 (MAEA0120362D)](decret-n2002-22-du-4-janvier-2002-maea0120362d)
 - [Décret n°2002-459 du 4 avril 2002 (ECOX0200001D)](decret-n2002-459-du-4-avril-2002-ecox0200001d)
+- [Décret n°2002-8 du 4 janvier 2002 (MESH0124421D)](decret-n2002-8-du-4-janvier-2002-mesh0124421d)
 - [Décret n°2002-9 du 4 janvier 2002 (MESH0124422D)](decret-n2002-9-du-4-janvier-2002-mesh0124422d)
 - [Décret n°2002-465 du 5 avril 2002 (MESH0220982D)](decret-n2002-465-du-5-avril-2002-mesh0220982d)
 - [Décret n°2002-466 du 5 avril 2002 (MESH0220983D)](decret-n2002-466-du-5-avril-2002-mesh0220983d)
