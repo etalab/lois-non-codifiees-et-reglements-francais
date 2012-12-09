@@ -8,172 +8,144 @@ A. - Médecine, odontologie, pharmacie
 <tbody>
 <tr>
 <th>
-<br/>BORDEAUX-II<br/>
+<br/>BORDEAUX-II <br/>
 </th>
 <th>
-<br/>LILLE-II<br/>
+<br/>LILLE-II <br/>
 </th>
 <th>
-<br/>LYON-I<br/>
+<br/>LORRAINE <br/>
 </th>
 <th>
-<br/>MONTPELLIER-I<br/>
+<br/>LYON-I <br/>
 </th>
 <th>
-<br/>NANCY-I<br/>
+<br/>MONTPELLIER-I <br/>
 </th>
 <th>
-<br/>PARIS-V<br/>
+<br/>PARIS-XI <br/>
 </th>
 <th>
-<br/>RENNES-I<br/>
+<br/>RENNES-I <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Antilles-Guyane<br/>
+<br/>Antilles-Guyane <br/>
 </td>
 <td align="center">
-<br/>Amiens<br/>
+<br/>Amiens <br/>
 </td>
 <td align="center">
-<br/>Clermont-Ferrand-I<br/>
+<br/>Besançon <br/>
 </td>
 <td align="center">
-<br/>Aix-Marseille-II<br/>
+<br/>Clermont-Ferrand-I <br/>
 </td>
 <td align="center">
-<br/>Besançon<br/>
+<br/>Aix-Marseille <br/>
 </td>
 <td align="center">
-<br/>Paris-V<br/>
+<br/>Paris-V <br/>
 </td>
 <td align="center">
-<br/>Angers<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bordeaux-II<br/>
-</td>
-<td align="center">
-<br/>Caen<br/>
-</td>
-<td align="center">
-<br/>Grenoble-I<br/>
-</td>
-<td align="center">
-<br/>Montpellier-I<br/>
-</td>
-<td align="center">
-<br/>Dijon<br/>
-</td>
-<td align="center">
-<br/>Paris-VI<br/>
-</td>
-<td align="center">
-<br/>Brest<br/>
+<br/>Angers <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>La Réunion<br/>
+<br/>Bordeaux-II <br/>
 </td>
 <td align="center">
-<br/>Lille-II<br/>
+<br/>Caen <br/>
 </td>
 <td align="center">
-<br/>Lyon-I<br/>
+<br/>Dijon <br/>
 </td>
 <td align="center">
-<br/>Nice<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>Nancy-I<br/>
+<br/>Montpellier-I <br/>
 </td>
 <td align="center">
-<br/>Paris-VII<br/>
+<br/>Paris-VI <br/>
 </td>
 <td align="center">
-<br/>Nantes<br/>
+<br/>Brest <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Limoges<br/>
+<br/>La Réunion <br/>
 </td>
 <td align="center">
-<br/>Rouen<br/>
+<br/>Lille-II <br/>
 </td>
 <td align="center">
-<br/>Saint-Etienne<br/>
+<br/>Lorraine <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Grenoble-I <br/>
 </td>
 <td align="center">
-<br/>Reims<br/>
+<br/>Nice <br/>
 </td>
 <td align="center">
-<br/>Paris-XI<br/>
+<br/>Paris-VII <br/>
 </td>
 <td align="center">
-<br/>Poitiers<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Toulouse-III<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Strasbourg<br/>
-</td>
-<td align="center">
-<br/>Paris-XII<br/>
-</td>
-<td align="center">
-<br/>Rennes-I<br/>
+<br/>Nantes <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
+<br/>Limoges <br/>
+</td>
+<td align="center">
+<br/>Rouen <br/>
+</td>
+<td align="center">
+<br/>Reims <br/>
+</td>
+<td align="center">
+<br/>Lyon-I <br/>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Paris-XI <br/>
+</td>
+<td align="center">
+<br/>Poitiers <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Toulouse-III <br/>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
+<br/>Strasbourg <br/>
+</td>
+<td align="center">
+<br/>Saint-Etienne <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
-<br/>Paris-XIII<br/>
+<br/>Paris-XII <br/>
 </td>
 <td align="center">
-<br/>Tours<br/>
+<br/>Rennes-I <br/>
 </td>
 </tr>
 <tr>
@@ -198,7 +170,35 @@ A. - Médecine, odontologie, pharmacie
 <br/>
 </td>
 <td align="center">
-<br/>Versailles - Saint-Quentin-en-Yvelines<br/>
+<br/>Paris-XIII <br/>
+</td>
+<td align="center">
+<br/>Tours <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Versailles-Saint-Quentin-en-Yvelines <br/>
 </td>
 <td align="center">
 <br/>
@@ -214,149 +214,129 @@ B. - Sage-femme
 <tbody>
 <tr>
 <th>
-<br/>BORDEAUX-II<br/>
+<br/>BORDEAUX-II <br/>
 </th>
 <th>
-<br/>LILLE-II<br/>
+<br/>LILLE-II <br/>
 </th>
 <th>
-<br/>LYON-I<br/>
+<br/>LORRAINE <br/>
 </th>
 <th>
-<br/>MONTPELLIER-I<br/>
+<br/>LYON-I <br/>
 </th>
 <th>
-<br/>NANCY-I<br/>
+<br/>MONTPELLIER-I <br/>
 </th>
 <th>
-<br/>PARIS-V<br/>
+<br/>PARIS-XI <br/>
 </th>
 <th>
-<br/>RENNES-I<br/>
+<br/>RENNES-I <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Fort-de-France<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Fort-de-France <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional d'Amiens<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional d'Amiens <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Clermont-Ferrand<br/>
+<br/>Ecole de sage-femme du centre hospitalier régional de Besançon <br/>
 </td>
 <td align="center">
-<br/>Ecole universitaire de maïeutique Marseille-Méditerranée<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Clermont-Ferrand <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Besançon<br/>
+<br/>Ecole universitaire de maïeutique Marseille-Méditerranée <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes de la maternité Baudelocque<br/>
+<br/>Ecole de sages-femmes de Baudelocque <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional d'Angers<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Bordeaux<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Caen<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Grenoble<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Montpellier<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Dijon<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre médico-chirurgical Foch<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Brest<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional d'Angers <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de La Réunion<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Bordeaux <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Lille<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Caen <br/>
 </td>
 <td align="center">
-<br/>UFR de médecine et de maïeutique Lyon-Sud - Charles Mérieux<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Dijon <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Nîmes<br/>
+<br/>Département de maïeutique de l'UFR de médecine de l'université Grenoble-I <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Metz<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Montpellier <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes de l'hôpital Saint-Antoine<br/>
+<br/>Ecole de sages-femmes du centre médico-chirurgical Foch <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Nantes<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Limoges<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes de l'Institut catholique de Lille<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Nice<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes de la maternité régionale de Nancy<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier intercommunal de Poissy<br/>
-</td>
-<td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Poitiers<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Brest <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Toulouse<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de La Réunion <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Rouen<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Lille <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Metz <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>UFR de médecine et de maïeutique Lyon-Sud-Charles Mérieux <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Reims<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Nîmes <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Ecole de sages-femmes de l'hôpital Saint-Antoine <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Rennes<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Nantes <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier territorial de Papeete<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Limoges <br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes de l'Institut catholique de Lille <br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes de la maternité régionale de Nancy <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier régional de Nice <br/>
+</td>
+<td align="center">
+<br/>Département de maïeutique de l'UFR des sciences de la santé de l'université Versailles-Saint-Quentin-en-Yvelines <br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier régional de Poitiers <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier régional de Toulouse <br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier régional de Rouen <br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier régional de Reims <br/>
 </td>
 <td align="center">
 <br/>
@@ -371,7 +351,27 @@ B. - Sage-femme
 <br/>
 </td>
 <td align="center">
-<br/>Ecole de sages-femmes du centre hospitalier régional de Strasbourg<br/>
+<br/>Ecole de sages-femmes du centre hospitalier régional de Rennes <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier territorial de Papeete <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Ecole de sages-femmes du centre hospitalier régional de Strasbourg <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>
