@@ -151,6 +151,7 @@
 - [Décret n°2012-1236 du 6 novembre 2012 (AFSP1226229D)](decret-n2012-1236-du-6-novembre-2012-afsp1226229d)
 - [Décret n°2012-1237 du 6 novembre 2012 (ETLL1209178D)](decret-n2012-1237-du-6-novembre-2012-etll1209178d)
 - [Décret n°2012-1239 du 6 novembre 2012 (MCCE1115768D)](decret-n2012-1239-du-6-novembre-2012-mcce1115768d)
+- [Décret n°2012-1366 du 6 décembre 2012 (AFSH1207246D)](decret-n2012-1366-du-6-decembre-2012-afsh1207246d)
 - [Décret n°2012-174 du 6 février 2012 (JUSF1126617D)](decret-n2012-174-du-6-fevrier-2012-jusf1126617d)
 - [Décret n°2012-175 du 6 février 2012 (AGRT1132135D)](decret-n2012-175-du-6-fevrier-2012-agrt1132135d)
 - [Décret n°2012-176 du 6 février 2012 (AGRT1200928D)](decret-n2012-176-du-6-fevrier-2012-agrt1200928d)
