@@ -1,84 +1,101 @@
 # Article 3
 
-<div>
-<br/>Attribution du niveau de qualification de praticien certifié.<br/> La qualification de praticien certifié en médecine d'armée peut être attribuée aux praticiens des armées qui comptent, au premier jour du mois du concours, six années d'expérience professionnelle en qualité de praticien confirmé. Le nombre de postes ouverts par corps et par domaine de compétences est défini dans le tableau ci-après :<br/>
+Attribution du niveau de qualification de praticien certifié.
+
+La qualification de praticien certifié en médecine d'armée peut être attribuée aux praticiens des armées qui comptent, au premier jour du mois du concours, six années d'expérience professionnelle en qualité de praticien confirmé. Le nombre de postes ouverts par corps et par domaine de compétences est défini dans le tableau ci-après :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>CORPS</th>
-<th>
-<br/>DOMAINES DE COMPÉTENCES</th>
-<th>
-<br/>NOMBRE DE POSTES</th>
+<th>CORPS<br/>
+</th>
+<th>DOMAINES DE COMPÉTENCES<br/>
+</th>
+<th>NOMBRE DE POSTES<br/>
+</th>
+</tr>
+<tr>
+<td align="center">Médecins des armées<br/>
+</td>
+<td align="center">Médecine d'unité<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Médecins des armées</td>
-<td align="center">
-<br/>Médecine d'unité</td>
-<td align="center">
-<br/>4</td>
+<br/>
+</td>
+<td align="center">Médecine d'urgence<br/>
+</td>
+<td align="center">1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Médecine d'urgence</td>
-<td align="center">
-<br/>1</td>
+<br/>
+</td>
+<td align="center">Médecine aéronautique et spatiale<br/>
+</td>
+<td align="center">1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Médecine aéronautique et spatiale</td>
-<td align="center">
-<br/>1</td>
+<br/>
+</td>
+<td align="center">Médecine de la plongée<br/>
+</td>
+<td align="center">1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Médecine de la plongée</td>
-<td align="center">
-<br/>1</td>
+<br/>
+</td>
+<td align="center">Techniques d'état-major<br/>
+</td>
+<td align="center">3<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Techniques d'état-major</td>
-<td align="center">
-<br/>3</td>
+<br/>
+</td>
+<td align="center">Ergonomie<br/>
+</td>
+<td align="center">1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Ergonomie</td>
-<td align="center">
-<br/>1</td>
+<br/>
+</td>
+<td align="center">Préparation physique et environnements<br/>
+</td>
+<td align="center">1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Préparation physique et environnements</td>
-<td align="center">
-<br/>1</td>
+<td/>
+<td>
+<p align="center"> Santé publique</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Médecins ou pharmaciens des armées</td>
-<td align="center">
-<br/>Systèmes d'information de santé et informations médicales</td>
-<td align="center">
-<br/>1</td>
+<td align="center">Médecins ou pharmaciens des armées<br/>
+</td>
+<td align="center">Systèmes d'information de santé et informations médicales<br/>
+</td>
+<td align="center">1<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
