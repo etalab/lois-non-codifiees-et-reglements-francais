@@ -181,6 +181,8 @@
 - [Décret n°2012-1241 du 7 novembre 2012 (EFIE1221226D)](decret-n2012-1241-du-7-novembre-2012-efie1221226d)
 - [Décret n°2012-1246 du 7 novembre 2012 (EFIX1205948D)](decret-n2012-1246-du-7-novembre-2012-efix1205948d)
 - [Décret n°2012-1247 du 7 novembre 2012 (EFIX1207333D)](decret-n2012-1247-du-7-novembre-2012-efix1207333d)
+- [Décret n°2012-1369 du 7 décembre 2012 (INTA1238803D)](decret-n2012-1369-du-7-decembre-2012-inta1238803d)
+- [Décret n°2012-1370 du 7 décembre 2012 (ETSD1224454D)](decret-n2012-1370-du-7-decembre-2012-etsd1224454d)
 - [Décret n°2012-182 du 7 février 2012 (EFIT1200426D)](decret-n2012-182-du-7-fevrier-2012-efit1200426d)
 - [Décret n°2012-183 du 7 février 2012 (ETSD1202684D)](decret-n2012-183-du-7-fevrier-2012-etsd1202684d)
 - [Décret n°2012-184 du 7 février 2012 (ETSD1202686D)](decret-n2012-184-du-7-fevrier-2012-etsd1202686d)
