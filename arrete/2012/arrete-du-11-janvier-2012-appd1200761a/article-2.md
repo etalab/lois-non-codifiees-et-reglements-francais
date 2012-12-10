@@ -48,7 +48,7 @@ Les certificats de qualification professionnelle ci-dessous énumérés sont enr
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Guide de véhicules terrestres motorisés à guidon</p>
+<p align="left">Guide de véhicules terrestres motorisés à guidon, option quad, option moto verte </p>
 </td>
 <td align="left" valign="top">
 <p align="center">335t</p>

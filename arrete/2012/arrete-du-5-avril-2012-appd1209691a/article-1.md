@@ -376,7 +376,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Ministère de la défense - Ecole de formation des sous-officiers de l'armée de l'air (EFSOAA)</p>
+<p>Ministère de la défense, Etablissement de communication et de production audiovisuelle de la défense (ECPAD)</p>
 </td>
 </tr>
 <tr>
@@ -1056,7 +1056,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Ministère de la défense - Ecole de formation des sous-officiers de l'armée de l'air (EFSOAA)</p>
+<p>Ministère de la défense, Etablissement de communication et de production audiovisuelle de la défense (ECPAD)</p>
 </td>
 </tr>
 <tr>

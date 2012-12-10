@@ -489,7 +489,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">5 ans<br/>
 </td>
 <td align="center">
-<p align="left">Chambre de commerce et d'industrie Nord de France</p>
+<p align="left">Assemblée des chambres françaises de commerce et d'industrie (ACFCI)</p>
 </td>
 </tr>
 <tr>
