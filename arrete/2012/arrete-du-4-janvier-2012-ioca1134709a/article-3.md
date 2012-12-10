@@ -3,19 +3,95 @@
 En application de l'article 14-III du décret n° 64-260 du 14 mars 1964 modifié portant statut des sous-préfets, les postes suivants relèvent de la classe fonctionnelle III :
 
 <div>
-<p>Secrétariats généraux</p>
-<p>
-<br/>Ain.<br/>Aisne.<br/>Charente-Maritime.<br/>Corse-du-Sud.<br/>Côtes-d'Armor.<br/>Eure.<br/>Gard.<br/>Guyane.<br/>Haut-Rhin.<br/>Haute-Savoie.<br/>Haute-Vienne.<br/>Indre-et-Loire.<br/>Loire.<br/>Maine-et-Loire.<br/>Manche.<br/>Mayotte.<br/>Meurthe-et-Moselle.<br/>Morbihan.<br/>Pyrénées-Atlantiques.<br/>Sarthe.<br/>Saône-et-Loire.<br/>Vaucluse.<br/>Vendée.<br/>Vienne.</p>
-<p>
-<br/>Sous-préfectures</p>
-<p>
-<br/>Alès.<br/>Argenteuil.<br/>Arles.<br/>Avesnes-sur-Helpe.<br/>Béthune.<br/>Boulogne-sur-Mer.<br/>Briey.<br/>Brive-la-Gaillarde.<br/>Calais.<br/>Castres.<br/>Chalon-sur-Saône.<br/>Cambrai.<br/>Cherbourg.<br/>Cholet.<br/>Compiègne.<br/>Dax.<br/>Dieppe.<br/>Douai.<br/>Dreux.<br/>Forbach.<br/>L'Hay-les-Roses.<br/>La  Tour-du-Pin.<br/>Les  Sables-d'Olonne.<br/>Mantes-la-Jolie.<br/>Meaux.<br/>Montbéliard.<br/>Montluçon.<br/>Narbonne.<br/>Rambouillet.<br/>Reims.<br/>Roanne.<br/>Rochefort.<br/>Saint-Quentin.<br/>Saint-Malo.<br/>Saint-Pierre  (Réunion).<br/>Senlis.<br/>Thionville.<br/>Vienne.<br/>Villefranche-sur-Saône.<br/>Wissembourg-Haguenau.</p>
-<p>
-<br/>Postes de directeur de cabinet</p>
-<p>
-<br/>Alpes-Maritimes.<br/>Bas-Rhin.<br/>Bouches-du-Rhône.<br/>Essonne.<br/>Haute-Garonne.<br/>Hauts-de-Seine.<br/>Loire-Atlantique.<br/>Nord.<br/>Pas-de-Calais.<br/>Rhône.<br/>Seine-et-Marne.<br/>Seine-Saint-Denis.<br/>Seine-Maritime.<br/>Val-de-Marne.<br/>Val-d'Oise.<br/>Yvelines.</p>
-<p>
-<br/>Poste de secrétaire général pour l'administration de la police</p>
-<p>
-<br/>Secrétaire général pour l'administration de la police de  Versailles.</p>
+<p align="center">Secrétariats généraux</p>
+<p>Ain.</p>
+<p>Aisne.</p>
+<p>Charente-Maritime.</p>
+<p>Corse-du-Sud.</p>
+<p>Côtes-d'Armor.</p>
+<p>Eure.</p>
+<p>Gard.</p>
+<p>Guyane.</p>
+<p>Haut-Rhin.</p>
+<p>Haute-Savoie.</p>
+<p>Haute-Vienne.</p>
+<p>Indre-et-Loire.</p>
+<p>Loire.</p>
+<p>Maine-et-Loire.</p>
+<p>Manche.</p>
+<p>Mayotte.</p>
+<p>Meurthe-et-Moselle.</p>
+<p>Morbihan.</p>
+<p>Pyrénées-Atlantiques.</p>
+<p>Sarthe.</p>
+<p>Saône-et-Loire.</p>
+<p>Vaucluse.</p>
+<p>Vendée.</p>
+<p>Vienne.</p>
+<p align="center">Sous-préfectures</p>
+<p>Alès.</p>
+<p>Argenteuil.</p>
+<p>Arles.</p>
+<p>Avesnes-sur-Helpe.</p>
+<p>Béthune.</p>
+<p>Boulogne-sur-Mer.</p>
+<p>Briey.</p>
+<p>Brive-la-Gaillarde.</p>
+<p>Calais.</p>
+<p>Castres.</p>
+<p>Chalon-sur-Saône.</p>
+<p>Cambrai.</p>
+<p>Cherbourg.</p>
+<p>Cholet.</p>
+<p>Compiègne.</p>
+<p>Dax.</p>
+<p>Dieppe.</p>
+<p>Douai.</p>
+<p>Dreux.</p>
+<p>Forbach.</p>
+<p>L'Hay-les-Roses.</p>
+<p>La Tour-du-Pin.</p>
+<p>Les Sables-d'Olonne.</p>
+<p>Mantes-la-Jolie.</p>
+<p>Meaux.</p>
+<p>Montbéliard.</p>
+<p>Montluçon.</p>
+<p>Narbonne.</p>
+<p>Rambouillet.</p>
+<p>Reims.</p>
+<p>Roanne.</p>
+<p>Rochefort.</p>
+<p>Saint-Quentin.</p>
+<p>Saint-Malo.</p>
+<p>Saint-Pierre (Réunion).</p>
+<p>Senlis.</p>
+<p>Thionville.</p>
+<p>Vienne.</p>
+<p>Villefranche-sur-Saône.</p>
+<p>Wissembourg-Haguenau.</p>
+<p align="center">Postes de directeur de cabinet</p>
+<p>Alpes-Maritimes.</p>
+<p>Bas-Rhin.</p>
+<p>Bouches-du-Rhône.</p>
+<p>Essonne.</p>
+<p>Haute-Garonne.</p>
+<p>Hauts-de-Seine.</p>
+<p>Loire-Atlantique.</p>
+<p>Nord.</p>
+<p>Pas-de-Calais.</p>
+<p>Rhône.</p>
+<p>Seine-et-Marne.</p>
+<p>Seine-Saint-Denis.</p>
+<p>Seine-Maritime.</p>
+<p>Val-de-Marne.</p>
+<p>Val-d'Oise.</p>
+<p>Yvelines.</p>
+<p align="center">Autre Poste de directeur de cabinet </p>
+</div>
+
+Directeur de cabinet du préfet de police des Bouches-du-Rhône.
+
+<div>
+<p align="center">Poste de secrétaire général pour l'administration de la police</p>
+<p>Secrétaire général pour l'administration de la police de Versailles.</p>
 </div>

@@ -3,15 +3,72 @@
 En application de l'article 14-III du décret n° 64-260 du 14 mars 1964 modifié portant statut des sous-préfets, les postes suivants relèvent de la classe fonctionnelle II :
 
 <div>
-<p>Secrétariats généraux</p>
+<p align="center">Secrétariats généraux</p>
+<p>Alpes-Maritimes.<br/>
+<br/>Bas-Rhin.</p>
 <p>
-<br/>Alpes-Maritimes.<br/>Bas-Rhin.<br/>Calvados.<br/>Côte-d'Or.<br/>Doubs.<br/>Essonne.<br/>Finistère.<br/>Gironde.<br/>Guadeloupe.<br/>Haute-Garonne.<br/>Hauts-de-Seine.<br/>Hérault.<br/>Ille-et-Vilaine.<br/>Isère.<br/>Loiret.<br/>Marne.<br/>Martinique.<br/>Moselle.<br/>Oise.<br/>Pas-de-Calais.<br/>Puy-de-Dôme.<br/>La  Réunion.<br/>Seine-Maritime.<br/>Seine-et-Marne.<br/>Seine-Saint-Denis.<br/>Somme.<br/>Val-de-Marne.<br/>Val-d'Oise.<br/>Var.<br/>Yvelines.</p>
+<br/>Calvados.<br/>
+<br/>Côte-d'Or.<br/>
+<br/>Doubs.<br/>
+<br/>Essonne.<br/>
+<br/>Finistère.<br/>
+<br/>Gironde.<br/>
+<br/>Guadeloupe.<br/>
+<br/>Haute-Garonne.<br/>
+<br/>Hauts-de-Seine.<br/>
+<br/>Hérault.<br/>
+<br/>Ille-et-Vilaine.<br/>
+<br/>Isère.<br/>
+<br/>Loiret.<br/>
+<br/>Marne.<br/>
+<br/>Martinique.<br/>
+<br/>Moselle.</p>
 <p>
-<br/>Sous-préfectures</p>
+<br/>Oise.<br/>
+<br/>Pas-de-Calais.</p>
 <p>
-<br/>Aix-en-Provence.<br/>Antony.<br/>Bayonne.<br/>Béziers.<br/>Brest.<br/>Dunkerque.<br/>Draguignan.<br/>Grasse.<br/>Mulhouse.<br/>Istres.<br/>Le  Havre.<br/>Le  Raincy.<br/>Lens.<br/>Lorient.<br/>Nogent-sur-Marne.<br/>Palaiseau.<br/>Pointe-à-Pitre.<br/>Saint-Denis.<br/>Saint-Germain-en-Laye.<br/>Saint-Nazaire.<br/>Sarcelles.<br/>Torcy.<br/>Valenciennes.</p>
+<br/>Puy-de-Dôme.<br/>
+<br/>La Réunion.<br/>
+<br/>Seine-Maritime.<br/>
+<br/>Seine-et-Marne.<br/>
+<br/>Seine-Saint-Denis.</p>
 <p>
-<br/>Postes de directeur de cabinet</p>
+<br/>Somme.<br/>
+<br/>Val-de-Marne.</p>
 <p>
-<br/>Directeur de cabinet adjoint du préfet de police.<br/>Directeur de cabinet  du préfet de la région Ile-de-France, préfet de Paris.</p>
+<br/>Val-d'Oise.<br/>
+<br/>Var.<br/>
+<br/>Yvelines.</p>
+<p>Zone de défense et de sécurité Sud. </p>
+<p align="center">Sous-préfectures</p>
+<p>Aix-en-Provence.<br/>
+<br/>Antony.<br/>
+<br/>Bayonne.<br/>
+<br/>Béziers.<br/>
+<br/>Brest.<br/>
+<br/>Dunkerque.</p>
+<p>
+<br/>Draguignan.<br/>
+<br/>Grasse.<br/>
+<br/>Mulhouse.<br/>
+<br/>Istres.<br/>
+<br/>Le Havre.<br/>
+<br/>Le Raincy.<br/>
+<br/>Lens.<br/>
+<br/>Lorient.<br/>
+<br/>Nogent-sur-Marne.<br/>
+<br/>Palaiseau.<br/>
+<br/>Pointe-à-Pitre.<br/>
+<br/>Saint-Denis.<br/>
+<br/>Saint-Germain-en-Laye.<br/>
+<br/>Saint-Nazaire.</p>
+<p>
+<br/>Sarcelles.<br/>
+<br/>Torcy.</p>
+<p>
+<br/>Valenciennes.</p>
+<p align="center">Postes de directeur de cabinet</p>
+<p>Directeur de cabinet adjoint du préfet de police.</p>
+<p>
+<br/>Directeur de cabinet du préfet de la région Ile-de-France, préfet de Paris.</p>
 </div>

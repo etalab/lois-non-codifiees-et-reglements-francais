@@ -19,7 +19,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td rowspan="2">
-<p>Chef du service de l'inspection générale de l'administration </p>
+<p align="left">Chef du service de l'inspection générale de l'administration </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -48,7 +48,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Secrétaire général du ministère, directeur général d'administration centrale du ministère de l'intérieur. </p>
+<p align="left">Secrétaire général du ministère, directeur général d'administration centrale du ministère de l'intérieur. </p>
 </td>
 <td>
 <p align="center">3 </p>
@@ -59,7 +59,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Président du Conseil supérieur de l'administration territoriale de l'Etat </p>
+<p align="left">Président du Conseil supérieur de l'administration territoriale de l'Etat </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -70,7 +70,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Secrétaire général du comité interministériel de contrôle de l'immigration </p>
+<p align="left">Secrétaire général du comité interministériel de contrôle de l'immigration </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -81,7 +81,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Secrétaire général du comité interministériel de prévention de la délinquance </p>
+<p align="left">Secrétaire général du comité interministériel de prévention de la délinquance </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -92,7 +92,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Directeur d'administration centrale du ministère de l'intérieur </p>
+<p align="left">Directeur d'administration centrale du ministère de l'intérieur </p>
 </td>
 <td>
 <p align="center">7 </p>
@@ -103,7 +103,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Directeur d'administration centrale du ministère chargé de l'outre-mer </p>
+<p align="left">Directeur d'administration centrale du ministère chargé de l'outre-mer </p>
 </td>
 <td>
 <p align="center">2 </p>
@@ -114,7 +114,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Directeur à la préfecture de police </p>
+<p align="left">Directeur à la préfecture de police </p>
 </td>
 <td>
 <p align="center">4 </p>
@@ -154,7 +154,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td rowspan="2">
-<p>Adjoint au haut fonctionnaire de défense </p>
+<p align="left">Adjoint au haut fonctionnaire de défense </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -187,14 +187,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur de projet </p>
+<p align="left">Directeur de projet </p>
 </td>
 <td>
 <p align="center">10 </p>
@@ -205,18 +207,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p align="center">A l'administration centrale du ministère chargé de l'outre-mer </p>
+<p align="left">A l'administration centrale du ministère chargé de l'outre-mer </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur de projet </p>
+<p align="left">Directeur de projet </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -245,7 +249,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Adjoint au directeur général des collectivités locales </p>
+<p align="left">Adjoint au directeur général des collectivités locales </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -256,7 +260,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td rowspan="2">
-<p>Adjoint au directeur de l'administration à la préfecture de la région d'Ile-de-France, préfecture de Paris </p>
+<p align="left">Adjoint au directeur de l'administration à la préfecture de la région d'Ile-de-France, préfecture de Paris </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -289,9 +293,11 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -300,25 +306,29 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Direction de la modernisation et de l'action territoriale : </p>
+<p align="left">Direction de la modernisation et de l'action territoriale : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires politiques et de la vie associative </p>
+<p align="left">Sous-directeur des affaires politiques et de la vie associative </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -329,7 +339,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du corps préfectoral et des administrateurs civils </p>
+<p align="left">Sous-directeur du corps préfectoral et des administrateurs civils </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -340,7 +350,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'administration territoriale </p>
+<p align="left">Sous-directeur de l'administration territoriale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -351,18 +361,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Direction des ressources humaines : </p>
+<p align="left">Direction des ressources humaines : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des personnels </p>
+<p align="left">Sous-directeur des personnels </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -373,7 +385,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du recrutement et de la formation </p>
+<p align="left">Sous-directeur du recrutement et de la formation </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -395,18 +407,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Direction de l'évaluation de la performance, des affaires financières et immobilières : </p>
+<p align="left">Direction de l'évaluation de la performance, des affaires financières et immobilières : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires financières </p>
+<p align="left">Sous-directeur des affaires financières </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -417,7 +431,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires immobilières </p>
+<p align="left">Sous-directeur des affaires immobilières </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -428,7 +442,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des programmes d'administration générale </p>
+<p align="left">Sous-directeur des programmes d'administration générale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -439,18 +453,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Direction des systèmes d'information et de communication : </p>
+<p align="left">Direction des systèmes d'information et de communication : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'administration générale </p>
+<p align="left">Sous-directeur de l'administration générale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -472,7 +488,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'ingénierie, de l'équipement et de l'exploitation </p>
+<p align="left">Sous-directeur de l'ingénierie, de l'équipement et de l'exploitation </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -483,18 +499,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Autres services : </p>
+<p align="left">Autres services : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur, chef du centre d'études et de prospective </p>
+<p align="left">Sous-directeur, chef du centre d'études et de prospective </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -505,7 +523,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur, chef du service de la communication </p>
+<p align="left">Sous-directeur, chef du service de la communication </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -516,7 +534,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur, chargé de la mission pour les affaires internationales et européennes </p>
+<p align="left">Sous-directeur, chargé de la mission pour les affaires internationales et européennes </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -531,14 +549,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des finances locales et de l'action économique </p>
+<p align="left">Sous-directeur des finances locales et de l'action économique </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -549,7 +569,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des compétences et des institutions locales </p>
+<p align="left">Sous-directeur des compétences et des institutions locales </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -560,7 +580,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des élus locaux et de la fonction publique territoriale </p>
+<p align="left">Sous-directeur des élus locaux et de la fonction publique territoriale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -571,18 +591,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'une sous-direction relevant de la direction générale de la police nationale ( direction des ressources et des compétences de la police nationale) </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de la police nationale<br/>( direction des ressources et des compétences de la police nationale) </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des ressources humaines </p>
+<p align="left">Sous-directeur des ressources humaines </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -593,7 +615,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'administration générale et des finances </p>
+<p align="left">Sous-directeur de l'administration générale et des finances </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -604,7 +626,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la logistique </p>
+<p align="left">Sous-directeur de la logistique </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -615,7 +637,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires sociales de la police nationale </p>
+<p align="left">Sous-directeur des affaires sociales de la police nationale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -630,14 +652,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des étrangers et de la circulation transfrontière </p>
+<p align="left">Sous-directeur des étrangers et de la circulation transfrontière </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -648,7 +672,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du conseil juridique et du contentieux </p>
+<p align="left">Sous-directeur du conseil juridique et du contentieux </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -659,7 +683,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la circulation et de la sécurité routières </p>
+<p align="left">Sous-directeur de la circulation et de la sécurité routières </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -670,7 +694,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des libertés publiques et de la police administrative </p>
+<p align="left">Sous-directeur des libertés publiques et de la police administrative </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -685,14 +709,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des services opérationnels </p>
+<p align="left">Sous-directeur des services opérationnels </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -703,7 +729,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des sapeurs pompiers et des acteurs de secours </p>
+<p align="left">Sous-directeur des sapeurs pompiers et des acteurs de secours </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -714,7 +740,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la gestion des risques </p>
+<p align="left">Sous-directeur de la gestion des risques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -725,7 +751,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'administration et de la logistique </p>
+<p align="left">Sous-directeur de l'administration et de la logistique </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -740,25 +766,29 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'une sous-direction relevant de la direction des affaires politiques, administratives et financières : </p>
+<p align="left">En charge d'une sous-direction relevant de la direction des affaires politiques, administratives et financières : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires politiques de l'outre-mer </p>
+<p align="left">Sous-directeur des affaires politiques de l'outre-mer </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -769,7 +799,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires administratives et financières de l'outre-mer </p>
+<p align="left">Sous-directeur des affaires administratives et financières de l'outre-mer </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -784,14 +814,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires économiques </p>
+<p align="left">Sous-directeur des affaires économiques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -802,7 +834,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td rowspan="2">
-<p>Sous-directeur de l'emploi, des affaires sociales, éducatives et culturelles </p>
+<p align="left">Sous-directeur de l'emploi, des affaires sociales, éducatives et culturelles </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -835,9 +867,11 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -846,14 +880,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des services administratifs </p>
+<p align="left">Sous-directeur des services administratifs </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -868,25 +904,29 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Direction des ressources humaines : </p>
+<p align="left">Direction des ressources humaines : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du personnel </p>
+<p align="left">Sous-directeur du personnel </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -897,7 +937,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires sociales </p>
+<p align="left">Sous-directeur des affaires sociales </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -908,18 +948,20 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Direction des finances, de la commande publique et de la performance : </p>
+<p align="left">Direction des finances, de la commande publique et de la performance : </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires financières </p>
+<p align="left">Sous-directeur des affaires financières </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -934,14 +976,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur, chef du service des affaires immobilières </p>
+<p align="left">Sous-directeur, chef du service des affaires immobilières </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -956,14 +1000,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la citoyenneté et des libertés publiques </p>
+<p align="left">Sous-directeur de la citoyenneté et des libertés publiques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -974,7 +1020,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'administration des étrangers </p>
+<p align="left">Sous-directeur de l'administration des étrangers </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -989,14 +1035,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la protection sanitaire </p>
+<p align="left">Sous-directeur de la protection sanitaire </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1007,7 +1055,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la sécurité du public </p>
+<p align="left">Sous-directeur de la sécurité du public </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1018,7 +1066,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du commerce </p>
+<p align="left">Sous-directeur du commerce </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1033,14 +1081,16 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'administration et de la modernisation </p>
+<p align="left">Sous-directeur de l'administration et de la modernisation </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1055,25 +1105,29 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'une sous-direction relevant de la direction de l'urbanisme, du logement et de l'équipement </p>
+<p align="left">En charge d'une sous-direction relevant de la direction de l'urbanisme, du logement et de l'équipement </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef du service de l'action économique et sociale </p>
+<p align="left">Chef du service de l'action économique et sociale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1084,7 +1138,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'urbanisme et de la construction </p>
+<p align="left">Sous-directeur de l'urbanisme et de la construction </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1095,7 +1149,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td rowspan="2">
-<p>Sous-directeur de la politique de l'habitat </p>
+<p align="left">Sous-directeur de la politique de l'habitat </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -1126,7 +1180,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de région </p>
+<p align="left">Préfet de région </p>
 </td>
 <td>
 <p align="center">22 </p>
@@ -1137,7 +1191,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de police </p>
+<p align="left">Préfet de police </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1148,7 +1202,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet des Alpes-Maritimes </p>
+<p align="left">Préfet des Alpes-Maritimes </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1159,7 +1213,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de la Haute-Corse </p>
+<p align="left">Préfet de la Haute-Corse </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1170,7 +1224,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet du Finistère </p>
+<p align="left">Préfet du Finistère </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1181,7 +1235,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de l'Isère </p>
+<p align="left">Préfet de l'Isère </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1192,7 +1246,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de l'Oise </p>
+<p align="left">Préfet de l'Oise </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1203,7 +1257,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet du Pas-de-Calais </p>
+<p align="left">Préfet du Pas-de-Calais </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1214,7 +1268,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet des Pyrénées-Atlantiques </p>
+<p align="left">Préfet des Pyrénées-Atlantiques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1225,7 +1279,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de Seine-et-Marne </p>
+<p align="left">Préfet de Seine-et-Marne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1236,7 +1290,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet des Yvelines </p>
+<p align="left">Préfet des Yvelines </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1247,7 +1301,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet du Var </p>
+<p align="left">Préfet du Var </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1258,7 +1312,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de l'Essonne </p>
+<p align="left">Préfet de l'Essonne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1269,7 +1323,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet des Hauts-de-Seine </p>
+<p align="left">Préfet des Hauts-de-Seine </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1280,7 +1334,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de la Seine-Saint-Denis </p>
+<p align="left">Préfet de la Seine-Saint-Denis </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1302,7 +1356,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet du Val-d'Oise </p>
+<p align="left">Préfet du Val-d'Oise </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1313,7 +1367,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet d'un département de métropole ou d'outre-mer autre que ceux précités </p>
+<p align="left">Préfet d'un département de métropole ou d'outre-mer autre que ceux précités </p>
 </td>
 <td>
 <p align="center">63 </p>
@@ -1324,7 +1378,14 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet secrétaire général de la préfecture de la région Ile-de-France </p>
+<p align="left">Préfet de police des Bouches-du-Rhône </p>
+</td>
+<td align="center">1</td>
+<td align="center">140</td>
+</tr>
+<tr>
+<td>
+<p align="left">Préfet secrétaire général de la préfecture de la région Ile-de-France </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1335,7 +1396,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet directeur du cabinet du préfet de police </p>
+<p align="left">Préfet directeur du cabinet du préfet de police </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1346,7 +1407,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris </p>
+<p align="left">Préfet secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1357,7 +1418,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet secrétaire général pour l'administration de la préfecture de police de Paris </p>
+<p align="left">Préfet secrétaire général pour l'administration de la préfecture de police de Paris </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1368,7 +1429,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet secrétaire général de la zone de défense de Paris </p>
+<p align="left">Préfet secrétaire général de la zone de défense de Paris </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1379,7 +1440,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet adjoint pour la sécurité en Corse </p>
+<p align="left">Préfet adjoint pour la sécurité en Corse </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1390,7 +1451,18 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet délégué à la sécurité et à la défense </p>
+<p align="left">Préfet délégué à la sécurité et à la défense </p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+<td>
+<p align="center">120 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Préfet délégué pour l'égalité des chances </p>
 </td>
 <td>
 <p align="center">6 </p>
@@ -1401,18 +1473,14 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet délégué pour l'égalité des chances </p>
+<p align="left">Préfet délégué en charge du projet de l'agglomération Marseille-Provence </p>
 </td>
-<td>
-<p align="center">6 </p>
-</td>
-<td>
-<p align="center">120 </p>
-</td>
+<td align="center">1</td>
+<td align="center">120</td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Préfet délégué auprès du préfet de la Guadeloupe pour les îles Saint-Barthélémy et de Saint-Martin </p>
+<p align="left">Préfet délégué auprès du préfet de la Guadeloupe pour les îles Saint-Barthélémy et de Saint-Martin </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -1441,7 +1509,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Haut-commissaire de la République en Nouvelle-Calédonie </p>
+<p align="left">Haut-commissaire de la République en Nouvelle-Calédonie </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1452,7 +1520,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Haut-commissaire de la République en Polynésie française </p>
+<p align="left">Haut-commissaire de la République en Polynésie française </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1463,7 +1531,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de Mayotte </p>
+<p align="left">Préfet de Mayotte </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1474,7 +1542,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet de Saint-Pierre-et-Miquelon </p>
+<p align="left">Préfet de Saint-Pierre-et-Miquelon </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1485,7 +1553,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Préfet, administrateur supérieur de Wallis-et-Futuna </p>
+<p align="left">Préfet, administrateur supérieur de Wallis-et-Futuna </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1496,7 +1564,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td rowspan="2">
-<p>Préfet, administrateur supérieur des Terres australes et antarctiques françaises </p>
+<p align="left">Préfet, administrateur supérieur des Terres australes et antarctiques françaises </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -1530,14 +1598,16 @@ B.-Emplois en administration territoriale
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Nord </p>
+<p align="left">Nord </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1548,7 +1618,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Bouches-du-Rhône </p>
+<p align="left">Bouches-du-Rhône </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1559,7 +1629,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Rhône </p>
+<p align="left">Rhône </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1570,7 +1640,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Pas-de-Calais </p>
+<p align="left">Pas-de-Calais </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1581,7 +1651,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Hauts-de-Seine </p>
+<p align="left">Hauts-de-Seine </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1603,7 +1673,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Yvelines </p>
+<p align="left">Yvelines </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1614,7 +1684,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Gironde </p>
+<p align="left">Gironde </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1625,7 +1695,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Seine-Maritime </p>
+<p align="left">Seine-Maritime </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1636,7 +1706,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Val-de-Marne </p>
+<p align="left">Val-de-Marne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1647,7 +1717,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Seine-et-Marne </p>
+<p align="left">Seine-et-Marne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1658,7 +1728,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Essonne </p>
+<p align="left">Essonne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1669,7 +1739,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Loire-Atlantique </p>
+<p align="left">Loire-Atlantique </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1680,7 +1750,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Val-d'Oise </p>
+<p align="left">Val-d'Oise </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1691,7 +1761,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Isère </p>
+<p align="left">Isère </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1702,7 +1772,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Haute-Garonne </p>
+<p align="left">Haute-Garonne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1713,7 +1783,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Bas-Rhin </p>
+<p align="left">Bas-Rhin </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1724,7 +1794,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Moselle </p>
+<p align="left">Moselle </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1735,7 +1805,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Alpes-Maritimes </p>
+<p align="left">Alpes-Maritimes </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1746,7 +1816,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Hérault </p>
+<p align="left">Hérault </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1757,7 +1827,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Var </p>
+<p align="left">Var </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1768,7 +1838,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Ille-et-Vilaine </p>
+<p align="left">Ille-et-Vilaine </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1779,7 +1849,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Finistère </p>
+<p align="left">Finistère </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1790,7 +1860,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Oise </p>
+<p align="left">Oise </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1801,7 +1871,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Maine-et-Loire </p>
+<p align="left">Maine-et-Loire </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1812,7 +1882,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Loire </p>
+<p align="left">Loire </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1823,7 +1893,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Meurthe-et-Moselle </p>
+<p align="left">Meurthe-et-Moselle </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1834,7 +1904,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Calvados </p>
+<p align="left">Calvados </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1845,7 +1915,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Loiret </p>
+<p align="left">Loiret </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1856,7 +1926,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Puy-de-Dôme </p>
+<p align="left">Puy-de-Dôme </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1867,7 +1937,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Marne </p>
+<p align="left">Marne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1878,7 +1948,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Somme </p>
+<p align="left">Somme </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1889,7 +1959,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Côte-d'Or </p>
+<p align="left">Côte-d'Or </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1900,7 +1970,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Doubs </p>
+<p align="left">Doubs </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1911,7 +1981,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Réunion </p>
+<p align="left">Réunion </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1922,7 +1992,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Corse-du-Sud </p>
+<p align="left">Corse-du-Sud </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1933,7 +2003,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Haut-Rhin </p>
+<p align="left">Haut-Rhin </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1944,7 +2014,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Morbihan </p>
+<p align="left">Morbihan </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1955,7 +2025,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Haute-Savoie </p>
+<p align="left">Haute-Savoie </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1966,7 +2036,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Gard </p>
+<p align="left">Gard </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1977,7 +2047,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Pyrénées-Atlantiques </p>
+<p align="left">Pyrénées-Atlantiques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1988,7 +2058,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Indre-et-Loire </p>
+<p align="left">Indre-et-Loire </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1999,7 +2069,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saône-et-Loire </p>
+<p align="left">Saône-et-Loire </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2010,7 +2080,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Côtes-d'Armor </p>
+<p align="left">Côtes-d'Armor </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2021,7 +2091,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Aisne </p>
+<p align="left">Aisne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2032,7 +2102,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Vienne </p>
+<p align="left">Vienne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2043,7 +2113,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Haute-Vienne </p>
+<p align="left">Haute-Vienne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2054,7 +2124,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Martinique </p>
+<p align="left">Martinique </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2065,7 +2135,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Guadeloupe </p>
+<p align="left">Guadeloupe </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2080,14 +2150,16 @@ B.-Emplois en administration territoriale
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Haute-Corse </p>
+<p align="left">Haute-Corse </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2098,7 +2170,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td rowspan="2">
-<p>Guyane </p>
+<p align="left">Guyane </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -2121,14 +2193,16 @@ B.-Emplois en administration territoriale
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Meaux </p>
+<p align="left">Meaux </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2139,7 +2213,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Torcy </p>
+<p align="left">Torcy </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2150,7 +2224,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Palaiseau </p>
+<p align="left">Palaiseau </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2161,7 +2235,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saint-Germain-en-Laye </p>
+<p align="left">Saint-Germain-en-Laye </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2172,7 +2246,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Le Raincy </p>
+<p align="left">Le Raincy </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2183,7 +2257,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Grasse </p>
+<p align="left">Grasse </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2194,7 +2268,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Sarcelles </p>
+<p align="left">Sarcelles </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2205,7 +2279,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Le Havre </p>
+<p align="left">Le Havre </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2216,7 +2290,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Aix-en-Provence </p>
+<p align="left">Aix-en-Provence </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2227,7 +2301,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Dunkerque </p>
+<p align="left">Dunkerque </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2238,7 +2312,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Valenciennes </p>
+<p align="left">Valenciennes </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2249,7 +2323,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Brest </p>
+<p align="left">Brest </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2260,7 +2334,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Lens </p>
+<p align="left">Lens </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2271,7 +2345,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Mulhouse </p>
+<p align="left">Mulhouse </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2282,7 +2356,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Istres </p>
+<p align="left">Istres </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2293,7 +2367,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Lorient </p>
+<p align="left">Lorient </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2304,7 +2378,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saint-Nazaire </p>
+<p align="left">Saint-Nazaire </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2315,7 +2389,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Béziers </p>
+<p align="left">Béziers </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2326,7 +2400,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Bayonne </p>
+<p align="left">Bayonne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2337,7 +2411,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Antony </p>
+<p align="left">Antony </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2348,7 +2422,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Nogent-sur-Marne </p>
+<p align="left">Nogent-sur-Marne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2359,7 +2433,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Reims </p>
+<p align="left">Reims </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2370,7 +2444,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Boulogne-Billancourt </p>
+<p align="left">Boulogne-Billancourt </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2381,7 +2455,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Béthune </p>
+<p align="left">Béthune </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2392,7 +2466,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Draguignan </p>
+<p align="left">Draguignan </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2403,7 +2477,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Mantes-la-Jolie </p>
+<p align="left">Mantes-la-Jolie </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2414,7 +2488,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Senlis </p>
+<p align="left">Senlis </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2425,7 +2499,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Avesnes-sur-Helpe </p>
+<p align="left">Avesnes-sur-Helpe </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2436,7 +2510,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Thionville </p>
+<p align="left">Thionville </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2447,7 +2521,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Douai </p>
+<p align="left">Douai </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2458,7 +2532,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>L'Haÿ-les-Roses </p>
+<p align="left">L'Haÿ-les-Roses </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2469,7 +2543,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Dieppe </p>
+<p align="left">Dieppe </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2480,7 +2554,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Argenteuil </p>
+<p align="left">Argenteuil </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2491,7 +2565,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Chalon-sur-Saône </p>
+<p align="left">Chalon-sur-Saône </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2502,7 +2576,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Cherbourg </p>
+<p align="left">Cherbourg </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2513,7 +2587,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Vienne </p>
+<p align="left">Vienne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2524,7 +2598,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Montbéliard </p>
+<p align="left">Montbéliard </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2535,7 +2609,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Pointe-à-Pitre </p>
+<p align="left">Pointe-à-Pitre </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2546,7 +2620,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saint-Denis </p>
+<p align="left">Saint-Denis </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2557,7 +2631,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Rambouillet </p>
+<p align="left">Rambouillet </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2568,7 +2642,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>La Tour-du-Pin </p>
+<p align="left">La Tour-du-Pin </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2579,7 +2653,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Forbach </p>
+<p align="left">Forbach </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2590,7 +2664,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Les Sables-d'Olonne </p>
+<p align="left">Les Sables-d'Olonne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2601,7 +2675,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Cholet </p>
+<p align="left">Cholet </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2612,7 +2686,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Arles </p>
+<p align="left">Arles </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2623,7 +2697,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Castres </p>
+<p align="left">Castres </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2634,7 +2708,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Dax </p>
+<p align="left">Dax </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2645,7 +2719,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Compiègne </p>
+<p align="left">Compiègne </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -2656,7 +2730,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td rowspan="2">
-<p>Villefranche-sur-Saône </p>
+<p align="left">Villefranche-sur-Saône </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -2674,7 +2748,7 @@ B.-Emplois en administration territoriale
 <tbody>
 <tr>
 <td>
-<p>Cambrai </p>
+<p align="left">Cambrai </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2685,7 +2759,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Boulogne-sur-Mer </p>
+<p align="left">Boulogne-sur-Mer </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2696,7 +2770,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Rochefort </p>
+<p align="left">Rochefort </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2707,7 +2781,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Briey </p>
+<p align="left">Briey </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2718,7 +2792,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Roanne </p>
+<p align="left">Roanne </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2729,7 +2803,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saint-Malo </p>
+<p align="left">Saint-Malo </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2740,7 +2814,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saint-Quentin </p>
+<p align="left">Saint-Quentin </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2751,7 +2825,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Alès </p>
+<p align="left">Alès </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2762,7 +2836,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Narbonne </p>
+<p align="left">Narbonne </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2773,7 +2847,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Brive-la-Gaillarde </p>
+<p align="left">Brive-la-Gaillarde </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2784,7 +2858,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Montluçon </p>
+<p align="left">Montluçon </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2795,7 +2869,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Saint-Pierre-de-la-Réunion </p>
+<p align="left">Saint-Pierre-de-la-Réunion </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2806,7 +2880,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Dreux </p>
+<p align="left">Dreux </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2817,7 +2891,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Calais </p>
+<p align="left">Calais </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2832,14 +2906,16 @@ B.-Emplois en administration territoriale
 </td>
 <td colspan="2">
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sartène </p>
+<p align="left">Sartène </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2850,7 +2926,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Corte </p>
+<p align="left">Corte </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2861,7 +2937,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Calvi </p>
+<p align="left">Calvi </p>
 </td>
 <td colspan="2">
 <p align="center">1 </p>
@@ -2874,18 +2950,22 @@ B.-Emplois en administration territoriale
 <td>
 <p align="center">Directeur de cabinet des préfets :</p>
 </td>
-<td colspan="2"/>
-<td/>
+<td colspan="2">
+<br/>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<p align="left">De la région Île de France</p>
+<p>De la région Île de France </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="left">100</p>
 </td>
 </tr>
 <tr>
@@ -2901,7 +2981,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">De la Seine Saint Denis </p>
+<p>De la Seine Saint Denis </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2923,7 +3003,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">De la Loire Atlantique </p>
+<p align="left">De la Loire Atlantique</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2945,7 +3025,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">Du Bas Rhin </p>
+<p align="left">Du Bas Rhin</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2956,7 +3036,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">Des Alpes Maritimes</p>
+<p align="left">Des Alpes Maritimes </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2967,7 +3047,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">Du Pas-de-Calais </p>
+<p align="left">Du Pas-de-Calais</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2978,13 +3058,13 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">De l'Essonne </p>
+<p align="left">De l'Essonne</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">80 </p>
+<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -3011,12 +3091,14 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">Des Yvelines </p>
+<p align="left">Des Yvelines</p>
 </td>
 <td colspan="2">
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
-<td>80</td>
+<td>
+<p align="center">80</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -3031,7 +3113,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">De la Corse-du-Sude </p>
+<p align="left">De la Corse-du-Sud</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -3042,7 +3124,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="left">De la Haute-Corse</p>
+<p align="left">De la Haute-Corse </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -3055,12 +3137,27 @@ B.-Emplois en administration territoriale
 <td>
 <p align="center">Emplois spécifiques </p>
 </td>
-<td colspan="2"/>
-<td/>
+<td colspan="2">
+<br/>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<p align="left">Secrétaire général pour l'administration de la police de Versailles</p>
+<p align="left">Sous-préfet secrétaire général de la zone de défense et de sécurité Sud </p>
+</td>
+<td colspan="2">
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Secrétaire général pour l'administration de la police de Versailles </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -3070,12 +3167,25 @@ B.-Emplois en administration territoriale
 </td>
 </tr>
 <tr>
-<td>Directeur adjoint du cabinet du préfet de police</td>
+<td>
+<p align="left">Directeur adjoint du cabinet du préfet de police </p>
+</td>
 <td colspan="2">
 <p align="center">1</p>
 </td>
 <td>
 <p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Sous-préfet directeur de cabinet du préfet de police des Bouches-du-Rhône</p>
+</td>
+<td colspan="2">
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -3109,7 +3219,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Secrétaire général de la Nouvelle-Calédonie </p>
+<p align="left">Secrétaire général de la Nouvelle-Calédonie </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -3120,7 +3230,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td rowspan="2">
-<p>Secrétaire général de la Polynésie française </p>
+<p align="left">Secrétaire général de la Polynésie française </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
