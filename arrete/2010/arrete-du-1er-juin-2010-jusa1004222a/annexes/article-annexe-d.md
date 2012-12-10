@@ -5,22 +5,20 @@ ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES SERVICES DE LA P
 <table>
 <tbody>
 <tr>
-<th>
-<br/>PRÉFET DE RÉGION<br/>
-<br/>compétent<br/>
-</th>
-<th>
-<br/>DÉLÉGATAIRE<br/>
-</th>
-<th>
-<br/>RÉGIONS<br/>
-<br/>concernées<br/>
-</th>
-<th>
-<br/>DIRECTIONS DÉPARTEMENTALES<br/>
-<br/>de la protection judiciaire<br/>
-<br/>de la jeunesse concernées<br/>
-</th>
+<td>
+<p align="center">
+<br/>PRÉFET DE RÉGION compétent</p>
+</td>
+<td>
+<p align="center"> DÉLÉGATAIRE<br/>
+</p>
+</td>
+<td>
+<p align="center"> RÉGIONS concernées</p>
+</td>
+<td>
+<p align="center"> DIRECTIONS DÉPARTEMENTALES de la protection judiciaire de la jeunesse concernées</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -52,16 +50,16 @@ ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES SERVICES DE LA P
 </tr>
 <tr>
 <td align="center">
-<br/>Centre<br/>
+<br/>Bourgogne<br/>
 </td>
 <td align="center">
-<br/>Le directeur de la direction située à Orléans.<br/>
-</td>
+<br/>Le directeur de la direction située à Dijon </td>
 <td align="center">
 <br/>Bourgogne, Centre.<br/>
 </td>
 <td align="center">
 <br/>Eure-et-Loir, Loiret, Loir-et-Cher, Indre-et-Loire, Indre, Cher, Yonne, Nièvre, Côte-d'Or, Saône-et-Loire.<br/>
+<br/>
 </td>
 </tr>
 <tr>
