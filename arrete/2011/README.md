@@ -751,7 +751,6 @@
 - [Arrêté du 9 mai 2011 (DEVT1108035A)](arrete-du-9-mai-2011-devt1108035a)
 - [Arrêté du 9 mai 2011 (DEVT1111661A)](arrete-du-9-mai-2011-devt1111661a)
 - [Arrêté du 9 mai 2011 (ETSE1111790A)](arrete-du-9-mai-2011-etse1111790a)
-- [Arrêté du 9 mai 2011 (ETSS1111641A)](arrete-du-9-mai-2011-etss1111641a)
 - [Arrêté du 9 mai 2011 (PRMD1112324A)](arrete-du-9-mai-2011-prmd1112324a)
 - [Arrêté du 10 août 2011 (DEFH1120211A)](arrete-du-10-aout-2011-defh1120211a)
 - [Arrêté du 10 août 2011 (DEVA1122584A)](arrete-du-10-aout-2011-deva1122584a)
