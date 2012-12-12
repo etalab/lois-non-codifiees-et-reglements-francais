@@ -1879,7 +1879,6 @@
 - [Arrêté du 22 septembre 2009 (DEVL0922054A)](arrete-du-22-septembre-2009-devl0922054a)
 - [Arrêté du 22 septembre 2009 (ECED0919866A)](arrete-du-22-septembre-2009-eced0919866a)
 - [Arrêté du 22 septembre 2009 (SASP0921941A)](arrete-du-22-septembre-2009-sasp0921941a)
-- [Arrêté du 22 mai 2008 (IOCB0810924A)](arrete-du-22-mai-2008-iocb0810924a)
 - [Arrêté du 22 mai 2008 (JUSB0810267A)](arrete-du-22-mai-2008-jusb0810267a)
 - [Arrêté du 22 mai 2009 (AGRM0910918A)](arrete-du-22-mai-2009-agrm0910918a)
 - [Arrêté du 22 mai 2009 (DEVO0911486A)](arrete-du-22-mai-2009-devo0911486a)
