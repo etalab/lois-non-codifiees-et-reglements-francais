@@ -6,3 +6,4 @@
 - [Chapitre IV : Vaccination](chapitre-iv)
 - [Chapitre IV bis : Vaccination en zone indemne](chapitre-iv-bis)
 - [Chapitre V : Dispositions finales](chapitre-v)
+- [Annexes](annexes)
