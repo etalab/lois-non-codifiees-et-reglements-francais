@@ -2909,7 +2909,6 @@
 - [Arrêté du 30 novembre 2011 (DEVA1132533A)](arrete-du-30-novembre-2011-deva1132533a)
 - [Arrêté du 30 novembre 2011 (DEVA1132786A)](arrete-du-30-novembre-2011-deva1132786a)
 - [Arrêté du 30 novembre 2011 (DEVL1128282A)](arrete-du-30-novembre-2011-devl1128282a)
-- [Arrêté du 30 novembre 2011 (IOCB1130515A)](arrete-du-30-novembre-2011-iocb1130515a)
 - [Arrêté du 30 novembre 2011 (IOCC1130765A)](arrete-du-30-novembre-2011-iocc1130765a)
 - [Arrêté du 30 novembre 2011 (IOCJ1132043A)](arrete-du-30-novembre-2011-iocj1132043a)
 - [Arrêté du 30 novembre 2011 (IOCL1131488A)](arrete-du-30-novembre-2011-iocl1131488a)
