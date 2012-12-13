@@ -1,21 +1,31 @@
 # Article 2
 
-La commission, en formation plénière, comprend :
+Outre son président, la commission comprend :
 
--un membre du Conseil d'Etat, président ;
+1. En formation plénière consacrée aux publications et services de presse en ligne :
 
--quatre représentants du ministre chargé de la communication ;
+- quatre représentants du ministre chargé de la communication ;
 
--un représentant du ministre chargé du budget ;
+- un représentant du ministre chargé du budget ;
 
--quatre représentants du ministre chargé de l'économie ;
+- quatre représentants du ministre chargé de l'économie ;
 
--un représentant du ministre de la justice ;
+- un représentant du ministre de la justice ;
 
--un représentant du ministre chargé de la culture, sauf lorsque la commission paritaire est appelée à se prononcer en application de l'article 8 bis de l'ordonnance du 2 novembre 1945 susvisée ;
+- un représentant du ministre chargé de la culture ;
 
--un représentant des entreprises éditrices de services de presse en ligne, sauf lorsque la commission paritaire est appelée à se prononcer en application de l'article 8 bis de l'ordonnance du 2 novembre 1945 susvisée ;
+- un représentant des entreprises éditrices de services de presse en ligne ;
 
--dix représentants des entreprises de presse, dont huit sont remplacés par des représentants des agences de presse lorsque la commission paritaire est appelée à se prononcer en application de l'article 8 bis de l'ordonnance du 2 novembre 1945 susvisée.
+- dix représentants des entreprises de presse.
 
-Pour chaque membre titulaire, il est nommé un suppléant.
+2. En formation plénière consacrée aux agences de presse :
+
+- quatre représentants du ministre chargé de la communication ;
+
+- un représentant du ministre chargé du budget ;
+
+- trois représentants du ministre chargé de l'économie ;
+
+- huit représentants des agences de presse.
+
+Pour chaque membre titulaire représentant les entreprises éditrices de services de presse en ligne, les entreprises de presse et les agences de presse, il est nommé un suppléant.
