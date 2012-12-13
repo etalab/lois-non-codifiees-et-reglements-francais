@@ -1,9 +1,9 @@
 # Article 5
 
-Le compte rendu de l'entretien professionnel est préparé par le supérieur hiérarchique direct. Il est établi et signé par celui-ci à l'issue de l'entretien.
+Le compte rendu de l'entretien professionnel est établi et signé par le supérieur hiérarchique direct à l'issue de l'entretien.
 
-L'agent dispose d'un délai maximum de dix jours ouvrés, à compter du jour de la date de remise du compte rendu par le supérieur hiérarchique, pour y apposer des observations.
+Il est communiqué à l'agent qui dispose d'un délai maximum de dix jours ouvrés, à compter du jour de remise du compte rendu par le supérieur hiérarchique direct, pour y apporter des observations.
 
-A l'issue de ce délai, l'agent remet le compte rendu éventuellement complété à son supérieur hiérarchique direct ; le compte rendu est alors visé par l'autorité hiérarchique.
+A l'issue de ce délai, le compte rendu est transmis à l'autorité hiérarchique qui le vise et peut formuler, si elle l'estime utile, ses propres observations.
 
-Il est ensuite notifié à l'agent, qui le signe pour attester qu'il en a pris connaissance puis le retourne à l'autorité hiérarchique qui le verse au dossier de l'agent.
+Il est ensuite notifié à l'agent qui le signe pour attester qu'il en a pris connaissance puis le retourne à l'autorité hiérarchique qui le verse au dossier de l'agent.
