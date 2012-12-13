@@ -1980,7 +1980,6 @@
 - [Arrêté du 22 février 2011 (MEND1104002A)](arrete-du-22-fevrier-2011-mend1104002a)
 - [Arrêté du 22 février 2012 (MENE1205639A)](arrete-du-22-fevrier-2012-mene1205639a)
 - [Arrêté du 22 juillet 2011 (AGRE1118286A)](arrete-du-22-juillet-2011-agre1118286a)
-- [Arrêté du 22 juillet 2011 (AGRG1120791A)](arrete-du-22-juillet-2011-agrg1120791a)
 - [Arrêté du 22 juillet 2011 (AGRG1120824A)](arrete-du-22-juillet-2011-agrg1120824a)
 - [Arrêté du 22 juillet 2011 (AGRT1118841A)](arrete-du-22-juillet-2011-agrt1118841a)
 - [Arrêté du 22 juillet 2011 (DEVA1118683A)](arrete-du-22-juillet-2011-deva1118683a)

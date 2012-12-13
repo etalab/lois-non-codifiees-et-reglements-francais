@@ -4,6 +4,5 @@
 - [Chapitre II : Mesures de police sanitaire en cas de suspicion](chapitre-ii)
 - [Chapitre III : Mesures de police sanitaire en cas de confirmation](chapitre-iii)
 - [Chapitre IV : Vaccination](chapitre-iv)
-- [Chapitre IV bis : Vaccination en zone indemne](chapitre-iv-bis)
 - [Chapitre V : Dispositions finales](chapitre-v)
 - [Annexes](annexes)
