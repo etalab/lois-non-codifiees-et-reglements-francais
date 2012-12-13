@@ -485,6 +485,14 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>BPE800-Corse </td>
+<td>
+<p align="center"> BPE800</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="149"/>
 <td valign="top" width="168">
 <p>
@@ -1419,7 +1427,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 <td>PCL901-Cévennes-Grands Causses.</td>
 <td>
-<p align="center"> PCL901</p>
+<p align="center">PCL901</p>
 </td>
 </tr>
 <tr>
@@ -1429,7 +1437,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>PCL902-Pyrénées-Orientales-Corbières.</p>
 </td>
 <td>
-<p align="center"> PCL902</p>
+<p align="center">PCL902</p>
 </td>
 </tr>
 <tr>
@@ -1681,7 +1689,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 </p>
 </td>
 <td valign="top" width="252">
-<p>PSY203-Basses Vosges gréseuses. </p>
+<p>PSY203-Hanau . </p>
 </td>
 <td valign="top" width="140">
 <p align="center">PSY203</p>

@@ -40,25 +40,43 @@ Admission provisoire
 
 Admission définitive
 
-<div/>
-<div/>
-<div/>
+Vous pouvez consulter le tableau dans le JO
 
-<div/>
+n° 248 du 25/10/2003 page 18216 à 18221
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
 
-<div/>
+n° 248 du 25/10/2003 page 18216 à 18221
 
-<div/>
-(1) Ne rien inscrire.
-(2) Ecrire en majuscules en respectant les cases. Lorsqu'une dénomination a déjà été utilisée pour désigner la variété à un catalogue national ou lors de la délivrance d'un titre de protection, la dénomination proposée doit être identique, sauf lorsque des motifs linguistiques ou d'ordre public s'opposent à son utilisation en France.
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+(1) Ne rien inscrire. (2) Ecrire en majuscules en respectant les cases. Lorsqu'une dénomination a déjà été utilisée pour désigner la variété à un catalogue national ou lors de la délivrance d'un titre de protection, la dénomination proposée doit être identique, sauf lorsque des motifs linguistiques ou d'ordre public s'opposent à son utilisation en France.
 
 B. - Fiche descriptive du matériel de base
 
 1. Dénomination proposée pour le clone
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
 
 2. Critères généraux d'identification
 
@@ -88,7 +106,7 @@ C. - Informations relatives aux tests comparatifs
 
 IMPORTANT. - Tous les dispositifs expérimentaux initialement installés doivent être décrits.
 
-Pour chaque dispositif expérimental, fournir les informations suivantes en annexe  :
+Pour chaque dispositif expérimental, fournir les informations suivantes en annexe :
 
 1. Descriptif des dispositifs expérimentaux
 
@@ -192,7 +210,9 @@ b) Décrire, en annexe, les résultats obtenus sur chaque site de test pour les 
 
 Si des barèmes ont été utilisés, les définir en annexe.
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
 
 TABLEAU 1
 
@@ -208,34 +228,44 @@ Le cas échéant, définir en annexe les barèmes utilisés.
 
 D. - Conseils d'utilisation proposés
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
 
 E. - Informations éventuelles sur d'autres tests
 
 1. Tout ou partie du matériel de base fait-il l'objet d'autres tests :
 
-- sous la responsabilité de l'expérimentateur identifié au point 5 de la partie A ?  non  oui
+- sous la responsabilité de l'expérimentateur identifié au point 5 de la partie A ? non oui
 
 Si oui, fournir les informations suivantes (utiliser un tableau du modèle ci-dessous) :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
 
-- sous la responsabilité d'un autre expérimentateur :   non  oui
+n° 248 du 25/10/2003 page 18216 à 18221
+
+- sous la responsabilité d'un autre expérimentateur : non oui
 
 Si oui, fournir le cas échéant les informations suivantes (utiliser un tableau du modèle ci-dessous) :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
 
 2. Tout ou partie du matériel de base fait-il l'objet :
 
-- d'une autre demande d'admission dans la même ou une autre catégorie :   non  oui
+- d'une autre demande d'admission dans la même ou une autre catégorie : non oui
 
 Si oui, fournir les informations suivantes (utiliser un tableau du modèle ci-dessous) :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
 
-- d'une admission dans la même ou une autre catégorie :   non  oui
+n° 248 du 25/10/2003 page 18216 à 18221
+
+- d'une admission dans la même ou une autre catégorie : non oui
 
 Si oui, fournir le cas échéant les informations suivantes (utiliser un tableau du modèle ci-dessous) :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
