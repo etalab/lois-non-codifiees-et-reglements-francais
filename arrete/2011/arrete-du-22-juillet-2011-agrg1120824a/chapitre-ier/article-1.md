@@ -14,7 +14,7 @@ Aux fins du présent arrêté, on entend par :
 
 ― confirmation : déclaration de la circulation, dans une exploitation ou une zone déterminée, du virus de la fièvre catarrhale du mouton au vu des résultats des analyses effectuées par les laboratoires mentionnés à l'article 2 ; si un ou plusieurs foyers ont déjà été confirmés par des analyses, l'existence de l'infection peut également être confirmée pour d'autres animaux sur la base d'éléments cliniques ou épidémiologiques ;
 
-― sérotype endémique : sérotypes viraux 1 et 8 de la fièvre catarrhale du mouton sur le territoire continental et sérotypes viraux 1, 2, 4, 8 et 16 en Corse ;
+― sérotype endémique : sérotypes viraux de la fièvre catarrhale du mouton tels que définis à l'annexe I du présent arrêté ;
 
 ― sérotype exotique : tout sérotype viral autre que les sérotypes endémiques cités au présent article ;
 
