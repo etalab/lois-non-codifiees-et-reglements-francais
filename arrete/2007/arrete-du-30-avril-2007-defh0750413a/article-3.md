@@ -4,7 +4,7 @@ Les suppléments éventuels sont fixés ainsi qu'il suit :
 
 - le surcoût pour portage au-delà de 25 m est fixé dans l'annexe I du présent arrêté ;
 
-- les frais de mise en oeuvre d'un monte-meuble sont établis dans la limite de 300 euros TTC au chargement comme au déchargement ;
+- les frais de mise en œuvre d'un monte-meuble sont établis dans la limite de 450 euros TTC au chargement comme au déchargement ;
 
 - le supplément par étage au-delà de 4 étages cumulés, au chargement comme au déchargement, selon les conditions de remboursement fixées dans l'annexe I.
 
