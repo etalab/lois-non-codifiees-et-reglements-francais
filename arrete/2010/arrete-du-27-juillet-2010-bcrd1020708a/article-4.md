@@ -8,4 +8,4 @@ La direction générale des douanes et droits indirects adresse mensuellement à
 
 A la demande de ce dernier, le détail des prestataires français ayant effectué lesdites prestations peut également être communiqué.
 
-A des fins statistiques, la Banque de France reçoit trimestriellement un fichier reprenant, par prestataire français, le montant hors taxe des prestations de services fournies, en fonction de l'Etat membre d'établissement du preneur.
+A des fins statistiques, la Banque de France reçoit trimestriellement un fichier reprenant, par prestataire français, le montant hors taxe des prestations de services fournies, en fonction de l'Etat membre d'établissement du preneur ainsi que l'Institut national de la statistique et des études économiques (INSEE) qui les reçoit mensuellement.
