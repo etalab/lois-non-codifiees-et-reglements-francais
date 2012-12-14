@@ -8,6 +8,6 @@ b) De trente personnes choisies, en raison de leur compétence reconnue dans le 
 
 c) D'un député et d'un sénateur ;
 
-d) Du Médiateur de la République ;
+d) Du Défenseur des droits ;
 
-e) D'un membre du   Conseil économique, social et environnemental.
+e) D'un membre du Conseil économique, social et environnemental.

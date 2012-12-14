@@ -1,3 +1,3 @@
 # Article 8
 
-Les représentants du Premier ministre et des ministres intéressés participant avec voix consultative aux travaux de la commission dans l'ensemble de ses formations sont nommés par arrêté du Premier ministre.
+La participation des représentants du Premier ministre et des ministres intéressés prévue par l'article 1er de la loi du 5 mars 2007 susvisée s'applique à l'ensemble des formations de la commission.
