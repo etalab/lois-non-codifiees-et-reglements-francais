@@ -16,7 +16,7 @@ b) Représentants du personnel :
 
 ― agence de l'eau Seine-Normandie : sept membres titulaires et sept membres suppléants ;
 
-― Conservatoire de l'espace littoral et des rivages lacustres : cinq membres titulaires et cinq membres suppléants ;
+― Conservatoire de l'espace littoral et des rivages lacustres : trois membres titulaires et trois membres suppléants ;
 
 ― Ecole nationale supérieure maritime : cinq  membres titulaires et cinq membres suppléants ;
 
@@ -24,13 +24,13 @@ b) Représentants du personnel :
 
 ― parc amazonien de Guyane : cinq membres titulaires et cinq membres suppléants ;
 
-― parcs nationaux de France : cinq membres titulaires et cinq membres suppléants ;
+― parcs nationaux de France : trois membres titulaires et trois membres suppléants ;
 
-― parcs nationaux des Ecrins, du Mercantour, de Port-Cros, de la Vanoise, de la Guadeloupe : cinq membres titulaires et cinq membres suppléants ;
+―parcs  nationaux des Ecrins, du Mercantour, de Port-Cros, de la Vanoise, de la  Guadeloupe : cinq membres titulaires et cinq membres suppléants ;
 
-― parcs nationaux des Cévennes, des Pyrénées, de La Réunion : quatre membres titulaires et quatre membres suppléants ;
+―  parcs nationaux des Cévennes, des Pyrénées, de La Réunion : cinq membres titulaires et cinq membres suppléants.
 
-Les représentants du personnel sont désignés par les organisations syndicales siégeant, au comité technique d'établissement public ;
+Les  représentants du personnel sont désignés par les organisations  syndicales siégeant au comité technique d'établissement public ;
 
 c) le médecin de prévention et l'assistant ou le conseiller de prévention ;
 
