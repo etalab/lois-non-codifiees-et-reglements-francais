@@ -75,3 +75,11 @@ Paris-San Francisco (Etats-Unis).
 Jusqu'au 29 juin 2017 :
 
 Paris-Dakar (Sénégal).
+
+Jusqu'au 5 décembre 2017 :
+
+République dominicaine :
+
+Bordeaux-Punta Cana ;
+
+Marseille-Dzaoudzi.
