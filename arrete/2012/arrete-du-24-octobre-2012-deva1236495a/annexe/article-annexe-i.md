@@ -6,996 +6,1002 @@ LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 territoriales d'outre-mer associées à l'Union européenne
 
-France métropolitaine―Mayotte ;
+France métropolitaine ― Mayotte ;
 
-France métropolitaine―Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
+France métropolitaine ― Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
 
-France métropolitaine―Polynésie française.
+France métropolitaine ― Polynésie française.
 
 2. Liaisons entre la France métropolitaine et des pays de la politique européenne de voisinage faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés
 
-France métropolitaine―Albanie.
+France métropolitaine ― Albanie.
 
-France métropolitaine―Bosnie-et-Herzégovine.
+France métropolitaine ― Bosnie-et-Herzégovine.
 
-France métropolitaine―Croatie.
+France métropolitaine ― Croatie.
 
-France métropolitaine―Géorgie.
+France métropolitaine ― Géorgie.
 
-France métropolitaine―Jordanie.
+France métropolitaine ― Jordanie.
 
-France métropolitaine―Kosovo.
+France métropolitaine ― Kosovo.
 
-France métropolitaine―Macédoine.
+France métropolitaine ― Macédoine.
 
-France métropolitaine―Maroc.
+France métropolitaine ― Maroc.
 
-France métropolitaine―Moldavie.
+France métropolitaine ― Moldavie.
 
-France métropolitaine―Monténégro.
+France métropolitaine ― Monténégro.
 
-France métropolitaine―Serbie.
+France métropolitaine ― Serbie.
 
 3. Liaisons internationales extracommunautaires
 
-3.1. De/vers la France métropolitaine
+3.1. De/ vers la France métropolitaine
 
 Afrique du Sud :
 
-Paris―Johannesbourg ;
+Paris ― Johannesbourg ;
 
-Paris―Le Cap ;
+Paris ― Le Cap ;
 
 Algérie :
 
-Marseille―Alger ;
+Marseille ― Alger ;
 
-Paris―Alger ;
+Paris ― Alger ;
 
 Angola :
 
-Paris―Luanda ;
+Paris ― Luanda ;
 
 Arabie saoudite :
 
-Paris―Dammam ;
+Paris ― Dammam ;
 
-Paris―Dharan ;
+Paris ― Dharan ;
 
-Paris―Djedda ;
+Paris ― Djedda ;
 
-Paris―Riyad ;
+Paris ― Riyad ;
 
 Argentine :
 
-Paris―Buenos Aires ;
+Paris ― Buenos Aires ;
 
-Paris―Córdoba ;
+Paris ― Córdoba ;
 
-Paris―Mendoza ;
+Paris ― Mendoza ;
 
-Paris―Rosario ;
+Paris ― Rosario ;
 
 Arménie :
 
-Lyon―Erevan ;
+Lyon ― Erevan ;
 
-Marseille―Erevan ;
+Marseille ― Erevan ;
 
-Paris―Erevan ;
+Paris ― Erevan ;
 
 Aruba :
 
-Paris―Oranjestad ;
+Paris ― Oranjestad ;
 
 Australie :
 
-Paris―Adélaïde ;
+Paris ― Adélaïde ;
 
-Paris―Brisbane ;
+Paris ― Brisbane ;
 
-Paris―Cairns ;
+Paris ― Cairns ;
 
-Paris―Darwin ;
+Paris ― Darwin ;
 
-Paris―Melbourne ;
+Paris ― Melbourne ;
 
-Paris―Perth;
+Paris ― Perth ;
 
-Paris―Sydney ;
+Paris ― Sydney ;
 
 Bahamas :
 
-Paris―Nassau ;
+Paris ― Nassau ;
 
 Bahreïn :
 
-Paris―Bahreïn ;
+Paris ― Bahreïn ;
 
 Bangladesh :
 
-Paris―Dacca ;
+Paris ― Dacca ;
 
 Bénin :
 
-Paris―Cotonou ;
+Paris ― Cotonou ;
 
 Biélorussie :
 
-Paris―Minsk ;
+Paris ― Minsk ;
 
 Birmanie :
 
-Paris―Rangoun ;
+Paris ― Rangoun ;
 
 Brésil :
 
-Paris―Aracaju ;
+Paris ― Aracaju ;
 
-Paris―Belém ;
+Paris ― Belém ;
 
-Paris―Belo Horizonte ;
+Paris ― Belo Horizonte ;
 
-Paris―Brasilia ;
+Paris ― Brasilia ;
 
-Paris―Campinas ;
+Paris ― Campinas ;
 
-Paris―Campo Grande ;
+Paris ― Campo Grande ;
 
-Paris―Curitiba ;
+Paris ― Curitiba ;
 
-Paris―Florianopolis ;
+Paris ― Florianopolis ;
 
-Paris―Fortalèza ;
+Paris ― Fortalèza ;
 
-Paris―Fos de Iguazu ;
+Paris ― Fos de Iguazu ;
 
-Paris―Goiania ;
+Paris ― Goiania ;
 
-Paris―Joao Pessoa ;
+Paris ― Joao Pessoa ;
 
-Paris―Londrina ;
+Paris ― Londrina ;
 
-Paris―Maceio ;
+Paris ― Maceio ;
 
-Paris―Manaus ;
+Paris ― Manaus ;
 
-Paris―Natal ;
+Paris ― Natal ;
 
-Paris―Palmas ;
+Paris ― Palmas ;
 
-Paris―Porto Alegre ;
+Paris ― Porto Alegre ;
 
-Paris―Porto Seguro ;
+Paris ― Porto Seguro ;
 
-Paris―Recife ;
+Paris ― Recife ;
 
-Paris―Rio de Janeiro
+Paris ― Rio de Janeiro
 
-Paris―Salvador de Bahia ;
+Paris ― Salvador de Bahia ;
 
-Paris―São Paulo ;
+Paris ― São Paulo ;
 
-Paris―Vitoria ;
+Paris ― Vitoria ;
 
 Burkina :
 
-Paris―Ouagadougou ;
+Paris ― Ouagadougou ;
 
 Burundi :
 
-Paris―Bujumbura ;
+Paris ― Bujumbura ;
 
 Cambodge :
 
-Paris―Phnom Penh ;
+Paris ― Phnom Penh ;
 
-Paris―Siem Reap ;
+Paris ― Siem Reap ;
 
 Cameroun :
 
-Paris―Douala ;
+Paris ― Douala ;
 
-Paris―Yaoundé ;
+Paris ― Yaoundé ;
 
 Canada :
 
-Paris―Calgary ;
+Paris ― Calgary ;
 
-Paris―Edmonton ;
+Paris ― Edmonton ;
 
-Paris―Halifax ;
+Paris ― Halifax ;
 
-Paris―Montréal ;
+Paris ― Montréal ;
 
-Paris―Ottawa ;
+Paris ― Ottawa ;
 
-Paris―Québec ;
+Paris ― Québec ;
 
-Paris―Toronto ;
+Paris ― Toronto ;
 
-Paris―Vancouver ;
+Paris ― Vancouver ;
 
-Paris―Winnipeg,
+Paris ― Winnipeg,
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire du Canada situé au-delà d'un des points du territoire canadien mentionnés ci-dessus ou d'un des points du territoire des Etats-Unis d'Amérique mentionnés au 3.1 de la présente annexe.
 
 Centrafrique :
 
-Paris―Bangui ;
+Paris ― Bangui ;
 
 Chili :
 
-Paris―Santiago ;
+Paris ― Santiago ;
 
 Chine :
 
-Paris―Canton ;
+Paris ― Canton ;
 
-Paris―Changchun ;
+Paris ― Changchun ;
 
-Paris―Changsha ;
+Paris ― Changsha ;
 
-Paris―Chengdu ;
+Paris ― Chengdu ;
 
-Paris―Chongqing ;
+Paris ― Chongqing ;
 
-Paris―Dalian ;
+Paris ― Dalian ;
 
-Paris―Dayong ;
+Paris ― Dayong ;
 
-Paris―Fuzhou ;
+Paris ― Fuzhou ;
 
-Paris―Guilin ;
+Paris ― Guilin ;
 
-Paris―Guyiang ;
+Paris ― Guyiang ;
 
-Paris―Haikou ;
+Paris ― Haikou ;
 
-Paris―Hangzhou ;
+Paris ― Hangzhou ;
 
-Paris―Harbin ;
+Paris ― Harbin ;
 
-Paris―Hefei ;
+Paris ― Hefei ;
 
-Paris―Jinan ;
+Paris ― Jinan ;
 
-Paris―Kunming ;
+Paris ― Kunming ;
 
-Paris―Nanchang ;
+Paris ― Nanchang ;
 
-Paris―Nankin ;
+Paris ― Nankin ;
 
-Paris―Nanning ;
+Paris ― Nanning ;
 
-Paris―Ningbo ;
+Paris ― Ningbo ;
 
-Paris―Pékin ;
+Paris ― Pékin ;
 
-Paris―Qingdao ;
+Paris ― Qingdao ;
 
-Paris―Sanya ;
+Paris ― Sanya ;
 
-Paris―Shanghai ;
+Paris ― Shanghai ;
 
-Paris―Shantou ;
+Paris ― Shantou ;
 
-Paris―Shenyang ;
+Paris ― Shenyang ;
 
-Paris―Shenzhen ;
+Paris ― Shenzhen ;
 
-Paris―Taiyuan ;
+Paris ― Taiyuan ;
 
-Paris―Wenzhou ;
+Paris ― Wenzhou ;
 
-Paris―Wuhan ;
+Paris ― Wuhan ;
 
-Paris―Xi'an ;
+Paris ― Xi'an ;
 
-Paris―Xiamen ;
+Paris ― Xiamen ;
 
-Paris―Yanji ;
+Paris ― Yanji ;
 
-Paris―Yantai ;
+Paris ― Yantai ;
 
-Paris―Yinchuan ;
+Paris ― Yinchuan ;
 
-Paris―Yiwu ;
+Paris ― Yiwu ;
 
-Paris―Zhengzhou ;
+Paris ― Zhengzhou ;
 
 Colombie :
 
-Paris―Bogota ;
+Paris ― Bogota ;
 
 Comores :
 
-Paris―Moroni ;
+Paris ― Moroni ;
 
 Congo :
 
-Paris―Brazzaville ;
+Paris ― Brazzaville ;
 
-Paris―Kinshasa ;
-
-Paris―Pointe-Noire ;
+Paris ― Pointe-Noire ;
 
 Corée du Sud :
 
-Paris―Pusan ;
+Paris ― Pusan ;
 
-Paris―Séoul ;
+Paris ― Séoul ;
 
 Costa Rica :
 
-Paris―Liberia ;
+Paris ― Liberia ;
 
-Paris―San José ;
+Paris ― San José ;
 
 Côte d'Ivoire :
 
-Paris―Abidjan ;
+Paris ― Abidjan ;
 
 Cuba :
 
-Paris―La Havane ;
+Paris ― La Havane ;
 
 Curaçao :
 
-Paris―Willemstad ;
+Paris ― Willemstad ;
 
 Djibouti :
 
-Paris―Djibouti ;
+Paris ― Djibouti ;
 
 Egypte :
 
-Paris―Le Caire ;
+Paris ― Le Caire ;
 
 Emirats arabes unis :
 
-Paris―Abou Dabi ;
+Paris ― Abou Dabi ;
 
-Paris―Dubaï ;
+Paris ― Dubaï ;
 
 Equateur :
 
-Paris―Guyaquil ;
+Paris ― Guyaquil ;
 
-Paris―Quito ;
+Paris ― Quito ;
 
 Etats-Unis :
 
-Lyon―New York (New York) ;
+Lyon ― New York (New York) ;
 
-Nice―New York (New York) ;
+Nice ― New York (New York) ;
 
-Nice―Atlanta (Géorgie) ;
+Nice ― Atlanta (Géorgie) ;
 
-Paris―Anchorage (Alaska) ;
+Paris ― Anchorage (Alaska) ;
 
-Paris―Atlanta (Géorgie) ;
+Paris ― Atlanta (Géorgie) ;
 
-Paris―Baltimore (Maryland) ;
+Paris ― Baltimore (Maryland) ;
 
-Paris―Boston (Massachusetts) ;
+Paris ― Boston (Massachusetts) ;
 
-Paris―Charlotte (Caroline du Nord) ;
+Paris ― Charlotte (Caroline du Nord) ;
 
-Paris―Chicago (Illinois) ;
+Paris ― Chicago (Illinois) ;
 
-Paris―Cincinnati (Ohio) ;
+Paris ― Cincinnati (Ohio) ;
 
-Paris―Cleveland (Ohio) ;
+Paris ― Cleveland (Ohio) ;
 
-Paris―Dallas (Texas) ;
+Paris ― Dallas (Texas) ;
 
-Paris―Denver (Colorado) ;
+Paris ― Denver (Colorado) ;
 
-Paris―Detroit (Michigan) ;
+Paris ― Detroit (Michigan) ;
 
-Paris―Fort Lauderdale (Floride) ;
+Paris ― Fort Lauderdale (Floride) ;
 
-Paris―Houston (Texas) ;
+Paris ― Houston (Texas) ;
 
-Paris―Las Vegas (Nevada) ;
+Paris ― Las Vegas (Nevada) ;
 
-Paris―Los Angeles (Californie) ;
+Paris ― Los Angeles (Californie) ;
 
-Paris―Memphis (Tennessee) ;
+Paris ― Memphis (Tennessee) ;
 
-Paris―Miami (Floride) ;
+Paris ― Miami (Floride) ;
 
-Paris―Minneapolis (Minnesota) ;
+Paris ― Minneapolis (Minnesota) ;
 
-Paris―New Orleans (Louisiane) ;
+Paris ― New Orleans (Louisiane) ;
 
-Paris―New York (New York) ;
+Paris ― New York (New York) ;
 
-Paris―Orlando (Floride) ;
+Paris ― Orlando (Floride) ;
 
-Paris―Philadelphie (Pennsylvanie) ;
+Paris ― Philadelphie (Pennsylvanie) ;
 
-Paris―Phoenix (Arizona) ;
+Paris ― Phoenix (Arizona) ;
 
-Paris―Pittsburgh (Pennsylvanie) ;
+Paris ― Pittsburgh (Pennsylvanie) ;
 
-Paris―Raleigh Durham (Caroline du Nord) ;
+Paris ― Raleigh Durham (Caroline du Nord) ;
 
-Paris―Saint-Louis (Missouri) ;
+Paris ― Saint-Louis (Missouri) ;
 
-Paris―Salt Lake City (Utah) ;
+Paris ― Salt Lake City (Utah) ;
 
-Paris―San Diego (Californie) ;
+Paris ― San Diego (Californie) ;
 
-Paris―San Francisco (Californie) ;
+Paris ― San Francisco (Californie) ;
 
-Paris―Seattle (Washington) ;
+Paris ― Seattle (Washington) ;
 
-Paris―Tampa (Floride) ;
+Paris ― Tampa (Floride) ;
 
-Paris―Washington (Washington D.C.),
+Paris ― Washington (Washington D. C.),
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire des Etats-Unis d'Amérique situé au-delà d'un des points du territoire des Etats-Unis d'Amérique mentionnés ci-dessus ou d'un des points du territoire du Canada mentionnés au 3.1 de la présente annexe.
 
 Ethiopie :
 
-Paris―Addis Abeba ;
+Paris ― Addis Abeba ;
 
 Gabon :
 
-Paris―Libreville ;
+Paris ― Libreville ;
 
 Ghana :
 
-Paris―Accra ;
+Paris ― Accra ;
 
 Guatémala :
 
-Paris―Guatémala ;
+Paris ― Guatémala ;
 
 Guinée :
 
-Paris―Conakry ;
+Paris ― Conakry ;
 
 Guinée équatoriale :
 
-Paris―Bata ;
+Paris ― Bata ;
 
-Paris―Malabo ;
+Paris ― Malabo ;
 
 Guyana :
 
-Paris―Georgetown ;
+Paris ― Georgetown ;
 
 Haïti :
 
-Paris―Port-au-Prince ;
+Paris ― Port-au-Prince ;
 
 Honduras :
 
-Paris―San Pedro Sula ;
+Paris ― San Pedro Sula ;
 
 Hong Kong :
 
-Paris―Hong Kong ;
+Paris ― Hong Kong ;
 
 Inde :
 
-Paris―Bangalore ;
+Paris ― Bangalore ;
 
-Paris―Bombay ;
+Paris ― Bombay ;
 
-Paris―Calcutta ;
+Paris ― Calcutta ;
 
-Paris―Delhi ;
+Paris ― Delhi ;
 
-Paris―Hyderabad ;
+Paris ― Hyderabad ;
 
-Paris―Madras ;
+Paris ― Madras ;
 
 Indonésie :
 
-Paris―Denpasar ;
+Paris ― Denpasar ;
 
-Paris―Jakarta ;
+Paris ― Jakarta ;
 
-Paris―Surabaya ;
+Paris ― Surabaya ;
 
 Irak :
 
-Paris―Bagdad ;
+Paris ― Bagdad ;
 
-Paris―Erbil ;
+Paris ― Erbil ;
 
 Iran :
 
-Paris―Téhéran ;
+Paris ― Téhéran ;
 
 Israël :
 
-Nice―Tel-Aviv ;
+Nice ― Tel-Aviv ;
 
-Paris―Tel-Aviv ;
+Paris ― Tel-Aviv ;
 
 Jamaïque :
 
-Paris―Montego Bay ;
+Paris ― Montego Bay ;
 
 Japon :
 
-Paris―Fukuoka ;
+Paris ― Fukuoka ;
 
-Paris―Hiroshima ;
+Paris ― Hiroshima ;
 
-Paris―Kagoshima ;
+Paris ― Kagoshima ;
 
-Paris―Komatsu ;
+Paris ― Komatsu ;
 
-Paris―Kumamoto ;
+Paris ― Kumamoto ;
 
-Paris―Matsuyama ;
+Paris ― Matsuyama ;
 
-Paris―Miyazaki ;
+Paris ― Miyazaki ;
 
-Paris―Nagasaki ;
+Paris ― Nagasaki ;
 
-Paris―Nagoya ;
+Paris ― Nagoya ;
 
-Paris―Okayama ;
+Paris ― Okayama ;
 
-Paris―Okinawa ;
+Paris ― Okinawa ;
 
-Paris―Osaka ;
+Paris ― Osaka ;
 
-Paris―Sapporo ;
+Paris ― Sapporo ;
 
-Paris―Tokyo ;
+Paris ― Tokyo ;
 
 Kazakhstan :
 
-Paris―Almaty ;
+Paris ― Almaty ;
 
-Paris―Atyrau ;
+Paris ― Atyrau ;
 
 Kenya :
 
-Paris―Kisumu ;
+Paris ― Kisumu ;
 
-Paris―Mombasa ;
+Paris ― Mombasa ;
 
-Paris―Nairobi ;
+Paris ― Nairobi ;
 
 Koweït :
 
-Paris―Koweït ;
+Paris ― Koweït ;
 
 Laos :
 
-Paris―Luang-Prabang ;
+Paris ― Luang-Prabang ;
 
-Paris―Vientiane ;
+Paris ― Vientiane ;
 
 Liban :
 
-Marseille―Beyrouth ;
+Marseille ― Beyrouth ;
 
-Paris―Beyrouth ;
+Paris ― Beyrouth ;
 
 Libéria :
 
-Paris―Monrovia ;
+Paris ― Monrovia ;
 
 Libye :
 
-Paris―Tripoli ;
+Paris ― Tripoli ;
 
 Madagascar :
 
-Paris―Antananarivo ;
+Paris ― Antananarivo ;
 
 Malaisie :
 
-Paris―Kuala Lumpur ;
+Paris ― Kuala Lumpur ;
 
 Maldives :
 
-Paris―Malé ;
+Paris ― Malé ;
 
 Malawi :
 
-Paris―Lilongwé ;
+Paris ― Lilongwé ;
 
 Mali :
 
-Paris―Bamako ;
+Paris ― Bamako ;
 
 Maurice :
 
-Paris―Port-Louis ;
+Paris ― Port-Louis ;
 
 Mauritanie :
 
-Paris―Nouakchott ;
+Paris ― Nouakchott ;
 
 Mexique :
 
-Paris―Acapulco ;
+Paris ― Acapulco ;
 
-Paris―Aguascalientes ;
+Paris ― Aguascalientes ;
 
-Paris―Cancún ;
+Paris ― Cancún ;
 
-Paris―Chihuahua ;
+Paris ― Chihuahua ;
 
-Paris―Ciudad del Carmen ;
+Paris ― Ciudad del Carmen ;
 
-Paris―Ciudad Juarez ;
+Paris ― Ciudad Juarez ;
 
-Paris―Cozumel ;
+Paris ― Cozumel ;
 
-Paris―Culiacan ;
+Paris ― Culiacan ;
 
-Paris―Durango ;
+Paris ― Durango ;
 
-Paris―Guadalajara ;
+Paris ― Guadalajara ;
 
-Paris―Hermosillo ;
+Paris ― Hermosillo ;
 
-Paris―Leon/Guanajuato ;
+Paris ― Leon/ Guanajuato ;
 
-Paris―Los Cabos ;
+Paris ― Los Cabos ;
 
-Paris―Mazatlán ;
+Paris ― Mazatlán ;
 
-Paris―Merida ;
+Paris ― Merida ;
 
-Paris―Mexicali ;
+Paris ― Mexicali ;
 
-Paris―Mexico ;
+Paris ― Mexico ;
 
-Paris―Minatitlan ;
+Paris ― Minatitlan ;
 
-Paris―Monclova ;
+Paris ― Monclova ;
 
-Paris―Monterey ;
+Paris ― Monterey ;
 
-Paris―Morelia ;
+Paris ― Morelia ;
 
-Paris―Oaxaca ;
+Paris ― Oaxaca ;
 
-Paris―Puebla ;
+Paris ― Puebla ;
 
-Paris―Puerto Vallarta ;
+Paris ― Puerto Vallarta ;
 
-Paris―Saltillo ;
+Paris ― Saltillo ;
 
-Paris―San Jose Cabo ;
+Paris ― San Jose Cabo ;
 
-Paris―San Luis Potosí ;
+Paris ― San Luis Potosí ;
 
-Paris―Tampico ;
+Paris ― Tampico ;
 
-Paris―Tijuana ;
+Paris ― Tijuana ;
 
-Paris―Toluca ;
+Paris ― Toluca ;
 
-Paris―Torreón ;
+Paris ― Torreón ;
 
-Paris―Tuxtla Gutierrez ;
+Paris ― Tuxtla Gutierrez ;
 
-Paris―Veracruz ;
+Paris ― Veracruz ;
 
-Paris―Villahermosa ;
+Paris ― Villahermosa ;
 
-Paris―Zihuatanejo ;
+Paris ― Zihuatanejo ;
 
 Namibie :
 
-Paris―Walvis Bay ;
+Paris ― Walvis Bay ;
 
-Paris―Windhoek ;
+Paris ― Windhoek ;
 
 Népal :
 
-Paris―Katmandou ;
+Paris ― Katmandou ;
 
 Nicaragua :
 
-Paris―Managua ;
+Paris ― Managua ;
 
 Niger :
 
-Paris―Niamey ;
+Paris ― Niamey ;
 
 Nigeria :
 
-Paris―Abuja ;
+Paris ― Abuja ;
 
-Paris―Lagos ;
+Paris ― Lagos ;
 
-Paris―Port-Harcourt ;
+Paris ― Port-Harcourt ;
 
 Oman :
 
-Paris―Mascate ;
+Paris ― Mascate ;
 
 Ouganda :
 
-Paris―Entebbe ;
+Paris ― Entebbe ;
 
 Ouzbékistan :
 
-Paris―Tachkent ;
+Paris ― Tachkent ;
 
 Pakistan :
 
-Paris―Islamabad ;
+Paris ― Islamabad ;
+
+Palaos :
+
+Paris-Koror ;
 
 Panama :
 
-Paris―Panama ;
+Paris ― Panama ;
 
 Paraguay :
 
-Paris―Assomption ;
+Paris ― Assomption ;
 
 Pays-Bas :
 
-Paris―Bonaire ;
+Paris ― Bonaire ;
 
 Pérou :
 
-Paris―Lima ;
+Paris ― Lima ;
 
 Philippines :
 
-Paris―Manille ;
+Paris ― Manille ;
+
+République démocratique du Congo :
+
+Paris-Kinshasa ;
 
 République dominicaine :
 
-Paris―Saint-Domingue ;
+Paris ― Saint-Domingue ;
 
-Paris―Punta Cana ;
+Paris ― Punta Cana ;
 
-Russie  :
+Russie :
 
-Marseille―Moscou ;
+Marseille ― Moscou ;
 
-Nice―Moscou ;
+Nice ― Moscou ;
 
-Paris―Iekaterinbourg ;
+Paris ― Iekaterinbourg ;
 
-Paris―Irkoutsk ;
+Paris ― Irkoutsk ;
 
-Paris―Khabarovsk ;
+Paris ― Khabarovsk ;
 
-Paris―Krasnoïarsk ;
+Paris ― Krasnoïarsk ;
 
-Paris―Moscou ;
+Paris ― Moscou ;
 
-Paris―Nijnevartovsk ;
+Paris ― Nijnevartovsk ;
 
-Paris―Novossibirsk ;
+Paris ― Novossibirsk ;
 
-Paris―Saint-Pétersbourg ;
+Paris ― Saint-Pétersbourg ;
 
-Paris―Samara ;
+Paris ― Samara ;
 
-Paris―Chelyabinsk ;
+Paris ― Chelyabinsk ;
 
-Paris―Kaliningrad ;
+Paris ― Kaliningrad ;
 
-Paris―Kazan ;
+Paris ― Kazan ;
 
-Paris―Krasnodar ;
+Paris ― Krasnodar ;
 
-Paris―Omsk ;
+Paris ― Omsk ;
 
-Paris―Oufa ;
+Paris ― Oufa ;
 
-Paris―Perm ;
+Paris ― Perm ;
 
-Paris―Rostov ;
+Paris ― Rostov ;
 
-Paris―Sochi ;
+Paris ― Sochi ;
 
-Paris―Tyumen ;
+Paris ― Tyumen ;
 
-Paris―Volgograd ;
+Paris ― Volgograd ;
 
 Rwanda :
 
-Paris―Kigali ;
+Paris ― Kigali ;
 
 Saint-Martin :
 
-Paris―Phillipsburg ;
+Paris ― Phillipsburg ;
 
 Sénégal :
 
-Paris―Dakar ;
+Paris ― Dakar ;
 
 Seychelles :
 
-Paris―Victoria ;
+Paris ― Victoria ;
 
 Sierra Leone :
 
-Paris―Freetown ;
+Paris ― Freetown ;
 
 Singapour :
 
-Paris―Singapour ;
+Paris ― Singapour ;
 
 Soudan :
 
-Paris―Khartoum ;
+Paris ― Khartoum ;
 
 Sri Lanka :
 
-Paris―Colombo ;
+Paris ― Colombo ;
 
 Suriname :
 
-Paris―Paramaribo ;
+Paris ― Paramaribo ;
 
 Syrie :
 
-Paris―Damas ;
+Paris ― Damas ;
 
 Tanzanie :
 
-Paris―Dar es Salam ;
+Paris ― Dar es Salam ;
 
-Paris―Kilimandjaro ;
+Paris ― Kilimandjaro ;
 
 Tchad :
 
-Paris―Ndjamena ;
+Paris ― Ndjamena ;
 
 Thaïlande :
 
-Paris―Bangkok ;
+Paris ― Bangkok ;
 
-Paris―Chiang Mai ;
+Paris ― Chiang Mai ;
 
-Paris―Koh Samui ;
+Paris ― Koh Samui ;
 
-Paris―Krabi ;
+Paris ― Krabi ;
 
-Paris―Phuket ;
+Paris ― Phuket ;
 
-Paris―Trat ;
+Paris ― Trat ;
 
 Togo :
 
-Paris―Lomé ;
+Paris ― Lomé ;
 
 Tunisie :
 
-Bordeaux―Tunis ;
+Bordeaux ― Tunis ;
 
-Lyon―Tunis ;
+Lyon ― Tunis ;
 
-Marseille―Tunis ;
+Marseille ― Tunis ;
 
-Nice―Tunis ;
+Nice ― Tunis ;
 
-Paris―Tunis ;
+Paris ― Tunis ;
 
-Toulouse―Tunis ;
+Toulouse ― Tunis ;
 
 Turquie :
 
-Paris―Istanbul ;
+Paris ― Istanbul ;
 
-Marseille―Istanbul ;
+Marseille ― Istanbul ;
 
-Toulouse―Istanbul ;
+Toulouse ― Istanbul ;
 
-Nice―Istanbul ;
+Nice ― Istanbul ;
 
 Ukraine :
 
-Lyon―Odessa ;
+Lyon ― Odessa ;
 
-Paris―Dnipropetrovsk ;
+Paris ― Dnipropetrovsk ;
 
-Paris―Donets ;
+Paris ― Donets ;
 
-Paris―Kiev ;
+Paris ― Kiev ;
 
-Paris―Lviv ;
+Paris ― Lviv ;
 
-Paris―Odessa ;
+Paris ― Odessa ;
 
-Paris―Simferopol ;
+Paris ― Simferopol ;
 
 Uruguay :
 
-Paris―Montévideo ;
+Paris ― Montévideo ;
 
 Venezuela :
 
-Paris―Caracas ;
+Paris ― Caracas ;
 
 Vietnam :
 
-Paris―Da Nang ;
+Paris ― Da Nang ;
 
-Paris―Hanoï ;
+Paris ― Hanoï ;
 
-Paris―Hô Chi Minh-Ville ;
+Paris ― Hô Chi Minh-Ville ;
 
-Paris―Huê ;
+Paris ― Huê ;
 
-Paris―Nha Trang ;
+Paris ― Nha Trang ;
 
 Yémen :
 
-Paris―Sanaa ;
+Paris ― Sanaa ;
 
 Zambie :
 
-Paris―Lusaka ;
+Paris ― Lusaka ;
 
 Zimbabwe :
 
-Paris―Hararé.
+Paris ― Hararé.
 
-3.2. De/vers les Antilles et la Guyane
+3.2. De/ vers les Antilles et la Guyane
 
 Curaçao :
 
-Cayenne―Curaçao ;
+Cayenne ― Curaçao ;
 
-Fort-de-France―Curaçao ;
+Fort-de-France ― Curaçao ;
 
-Pointe-à-Pitre―Curaçao ;
+Pointe-à-Pitre ― Curaçao ;
 
 Etats-Unis :
 
-Cayenne―Miami ;
+Cayenne ― Miami ;
 
-Fort-de-France―Miami ;
+Fort-de-France ― Miami ;
 
-Pointe-à-Pitre―Miami ;
+Pointe-à-Pitre ― Miami ;
 
 Haïti :
 
-Cayenne―Port-au-Prince ;
+Cayenne ― Port-au-Prince ;
 
-Fort-de-France―Port-au-Prince ;
+Fort-de-France ― Port-au-Prince ;
 
-Pointe-à-Pitre―Port-au-Prince ;
+Pointe-à-Pitre ― Port-au-Prince ;
 
 République dominicaine :
 
-Cayenne―Saint-Domingue ;
+Cayenne ― Saint-Domingue ;
 
-Fort-de-France―Saint-Domingue ;
+Fort-de-France ― Saint-Domingue ;
 
-Pointe-à-Pitre―Saint-Domingue ;
+Pointe-à-Pitre ― Saint-Domingue ;
 
 Saint-Martin :
 
-Cayenne―Phillipsburg ;
+Cayenne ― Phillipsburg ;
 
-Fort-de-France―Phillipsburg ;
+Fort-de-France ― Phillipsburg ;
 
-Pointe-à-Pitre―Phillipsburg ;
+Pointe-à-Pitre ― Phillipsburg ;
 
 Sainte-Lucie :
 
-Fort-de-France―Castries.
+Fort-de-France ― Castries.
 
-3.3. De/vers La Réunion
+3.3. De/ vers La Réunion
 
 Madagascar :
 
-Saint-Denis de La Réunion―Antananarivo ;
+Saint-Denis de La Réunion ― Antananarivo ;
 
 Maurice :
 
-Saint-Denis de la Réunion―Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile) Saint-Pierre de La Réunion―Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+Saint-Denis de la Réunion ― Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile) Saint-Pierre de La Réunion ― Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).

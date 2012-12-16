@@ -85,13 +85,26 @@
 </td>
 </tr>
 <tr>
-<td>Adjoint administratif principal de 2e classe </td>
+<td>
+<p align="left">Echelon spécial du grade d'adjoint administratif principal de 1re classe <br/>
+</p>
+</td>
+<td>
+<p align="center">30 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoint administratif principal de 2e classe </p>
+</td>
 <td>
 <p align="center">6 %</p>
 </td>
 </tr>
 <tr>
-<td>Adjoint administratif principal de 1re classe</td>
+<td>
+<p align="left">Adjoint administratif principal de 1re classe</p>
+</td>
 <td>
 <p align="center">5 %</p>
 </td>
@@ -102,9 +115,20 @@
 </td>
 </tr>
 <tr>
-<td>Permanencier auxiliaire de régulation médicale chef</td>
+<td>
+<p align="left">Permanencier auxiliaire de régulation médicale chef</p>
+</td>
 <td>
 <p align="center">13 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Echelon spécial de grade de permanencier auxiliaire de régulation médicale chef <br/>
+</p>
+</td>
+<td>
+<p align="center">30 %</p>
 </td>
 </tr>
 <tr>
@@ -118,13 +142,17 @@
 </td>
 </tr>
 <tr>
-<td>Dessinateur chef de groupe </td>
+<td>
+<p align="left">Dessinateur chef de groupe </p>
+</td>
 <td>
 <p align="center">5 %</p>
 </td>
 </tr>
 <tr>
-<td>Dessinateur principal</td>
+<td>
+<p align="left">Dessinateur principal</p>
+</td>
 <td>
 <p align="center">13 %</p>
 </td>
@@ -135,13 +163,17 @@
 </td>
 </tr>
 <tr>
-<td>Conducteur ambulancier de 1re catégorie</td>
+<td>
+<p align="left">Conducteur ambulancier de 1re catégorie</p>
+</td>
 <td>
 <p align="center">6 %</p>
 </td>
 </tr>
 <tr>
-<td>Conducteur ambulancier hors catégorie </td>
+<td>
+<p align="left">Conducteur ambulancier hors catégorie </p>
+</td>
 <td>
 <p align="center">3 %</p>
 </td>
@@ -152,19 +184,25 @@
 </td>
 </tr>
 <tr>
-<td>Ouvrier professionnel </td>
+<td>
+<p align="left">Ouvrier professionnel </p>
+</td>
 <td>
 <p align="center">6 %</p>
 </td>
 </tr>
 <tr>
-<td>Maître ouvrier</td>
+<td>
+<p align="left">Maître ouvrier</p>
+</td>
 <td>
 <p align="center">9 %</p>
 </td>
 </tr>
 <tr>
-<td>Maître ouvrier principal </td>
+<td>
+<p align="left">Maître ouvrier principal </p>
+</td>
 <td>
 <p align="center">12 %</p>
 </td>
@@ -175,7 +213,9 @@
 </td>
 </tr>
 <tr>
-<td>Agent de maîtrise principal </td>
+<td>
+<p align="left">Agent de maîtrise principal </p>
+</td>
 <td>
 <p align="center">4 %</p>
 </td>
@@ -187,17 +227,17 @@
 </td>
 </tr>
 <tr>
-<td>Technicien supérieur hospitalier de 2e classe </td>
-<td align="center">
-<p align="center">10 %<br/>
-</p>
+<td>
+<p align="left">Technicien supérieur hospitalier de 2e classe </p>
+</td>
+<td align="center">10 %<br/>
 </td>
 </tr>
 <tr>
-<td>Technicien supérieur hospitalier de 1re classe</td>
-<td align="center">
-<p align="center">20 %<br/>
-</p>
+<td>
+<p align="left">Technicien supérieur hospitalier de 1re classe</p>
+</td>
+<td align="center">20 %<br/>
 </td>
 </tr>
 <tr>
@@ -211,7 +251,9 @@
 </td>
 </tr>
 <tr>
-<td>Psychologue hors classe </td>
+<td>
+<p align="left">Psychologue hors classe </p>
+</td>
 <td>
 <p align="center">12 %</p>
 </td>
@@ -233,6 +275,14 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Echelon spécial du grade d'aide-soignant de classe exceptionnelle </p>
+</td>
+<td>
+<p align="center">30 %</p>
+</td>
+</tr>
+<tr>
 <td>Aide-soignants de classe exceptionnelle </td>
 <td>
 <p align="center">20 %</p>
@@ -248,6 +298,19 @@
 <p align="left">Infirmiers de classe supérieure </p>
 </td>
 <td align="center">26 %</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Infirmiers en soins généraux deuxième grade <br/>
+</p>
+</td>
+<td align="center">11 %</td>
 </tr>
 <tr>
 <td colspan="2">
