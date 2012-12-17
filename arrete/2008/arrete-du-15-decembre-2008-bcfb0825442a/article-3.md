@@ -2,7 +2,7 @@
 
 L'autorité chargée du contrôle financier auprès des services centraux du ministère de la culture et de la communication siège au comité financier ministériel en la personne du contrôleur budgétaire et comptable ministériel ou de son représentant.
 
-L'autorité chargée du contrôle financier contrôle le document annuel de programmation budgétaire initiale et les documents prévisionnels de gestion. Il examine chaque trimestre un compte rendu d'exécution ; à compter du 1er janvier 2009, pour l'autorité chargée du contrôle financier auprès des services centraux, cet examen intervient dans le cadre du comité financier.
+L'autorité chargée du contrôle financier contrôle les documents prévus par l'arrêté du [jj/ mm/2012] relatif au cadre budgétaire pris en application de l'article 105 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Il examine chaque trimestre un compte rendu de gestion ; à compter du 1er janvier 2009, pour l'autorité chargée du contrôle financier auprès des services centraux, cet examen intervient dans le cadre du comité financier.
 
 Au sein du comité financier ministériel, l'autorité chargée du contrôle financier dispose d'un pouvoir suspensif sur les actes, projets d'actes ou de décisions examinés par le comité.
 
@@ -26,8 +26,8 @@ L'autorité chargée du contrôle financier fixe les seuils dans les limites dé
 
 Sont soumis au visa de l'autorité chargée du contrôle financier :
 
-- les indemnités pour sujétions particulières des personnels du cabinet du ministre ;
+-les indemnités pour sujétions particulières des personnels du cabinet du ministre ;
 
-- les contrats de recrutement de personnels non titulaires d'une durée supérieure à douze mois et leurs avenants ;
+-les contrats de recrutement de personnels non titulaires d'une durée supérieure à douze mois et leurs avenants ;
 
-- s'agissant des positions, les entrées par mise à disposition, remboursées ou non, ainsi que leurs renouvellements, les sorties par mise à disposition, donnant lieu ou non à remboursement, les entrées par détachements ou en position normale d'activité et leur renouvellement ainsi que les recrutements externes par intégration directe de fonctionnaires.
+-s'agissant des positions, les entrées par mise à disposition, remboursées ou non, ainsi que leurs renouvellements, les sorties par mise à disposition, donnant lieu ou non à remboursement, les entrées par détachements ou en position normale d'activité et leur renouvellement ainsi que les recrutements externes par intégration directe de fonctionnaires.

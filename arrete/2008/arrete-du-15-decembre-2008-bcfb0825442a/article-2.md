@@ -2,7 +2,7 @@
 
 Le comité financier ministériel mentionné à l'article 1er est présidé par le secrétaire général du ministère de la culture et de la communication, qui en fixe l'ordre du jour en tenant compte du quatorzième alinéa du présent article. Il est composé des responsables des programmes de ce ministère, du responsable des affaires budgétaires et du responsable des ressources humaines placés sous l'autorité du secrétaire général, du contrôleur budgétaire et comptable ministériel, ou de leurs représentants.
 
-Ce comité examine les documents de programmation budgétaire initiale et les documents prévisionnels de gestion, dans les formes prévues aux articles 4 et 5 du présent arrêté.
+Ce comité examine les documents prévus par l'arrêté du [jj/ mm/2012] relatif au cadre budgétaire pris en application de l'article 105 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Il approuve le plan de déploiement ministériel du contrôle interne budgétaire et du contrôle interne comptable et en suit la mise en œuvre. Il examine une actualisation de la cartographie des risques budgétaires et comptables du ministère. Il assure également le suivi du plan d'action ministériel du contrôle interne comptable et du contrôle interne budgétaire.
 
