@@ -32,6 +32,14 @@ VIII.-Sur attestation de l'Agence régionale de santé, l'aide à l'investisseme
 
 30 % à l'achèvement des travaux et à la réception du document d'attestation définitive de fin de travaux et du décompte final (établissements publics) du bordereau récapitulatif des factures acquittées correspondant au coût total des travaux, visé par le maître d'œuvre et certifié par le maître d'ouvrage et le comptable (établissements privés).
 
+VIII bis.-Pour les opérations de vente en l'état futur d'achèvement, sur attestation du directeur général de l'Agence régionale de santé, l'aide à l'investissement est payée à la personne morale gestionnaire de l'établissement ou à l'organisme effectuant l'acquisition en vue d'en assurer la location au gestionnaire, en trois versements :
+
+30 % à la réception de l'ordre de service constituant l'acte juridique engageant les travaux, visé par le maître d'œuvre et certifié par l'acquéreur ;
+
+40 % sur présentation du bordereau récapitulatif des factures acquittées correspondant à 70 % du coût total d'acquisition des locaux en vente en l'état futur d'achèvement, visé par le maître d'œuvre et certifié par l'acquéreur ;
+
+30 % à l'achèvement des travaux, sur présentation du procès-verbal de remise des clés et du bordereau récapitulatif des factures acquittées correspondant au coût total d'acquisition des locaux vendus en état futur d'achèvement, visé par le maître d'œuvre et certifié par l'acquéreur.
+
 IX.-Lorsqu'à l'achèvement des travaux, la dépense subventionnable s'avère inférieure au coût en valeur finale estimé en début d'opération, il est procédé à une diminution systématique du montant de l'aide à l'investissement au regard du taux d'aide initialement retenu.
 
 X.-Pour l'application des dispositions prévues aux I à IX, sont définies par voie d'instruction technique de la Caisse nationale de solidarité pour l'autonomie :

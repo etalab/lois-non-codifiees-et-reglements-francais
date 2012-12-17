@@ -14,6 +14,8 @@ I. - Sont éligibles au plan d'aide à l'investissement :
 
 ― les études de faisabilité préalables qui seraient nécessaires à la conception des opérations d'investissement, notamment lors d'opérations complexes de restructuration qui s'inscrivent dans une démarche qualité.
 
+Pour  2012, et à titre expérimental, les opérations d'investissement reposant  sur une vente en l'état futur d'achèvement sont éligibles au plan  d'aide à l'investissement.
+
 II. ― Ne sont pas éligibles au plan d'aide à l'investissement :
 
 ― les coûts d'acquisition foncière et immobilière ;
@@ -30,6 +32,4 @@ II. ― Ne sont pas éligibles au plan d'aide à l'investissement :
 
 ― pour la réalisation de pôles d'activités et de soins adaptés pour malades d'Alzheimer dans les établissements d'hébergement pour personnes âgées dépendantes ainsi que d'accueils de jour, d'hébergements temporaires et d'études de faisabilité, les opérations présentant un coût total, toutes dépenses confondues, inférieur à 40 000 euros ;
 
-― sur le secteur des personnes âgées, les opérations réalisées dans des établissements et services dont les capacités ne sont pas habilitées à l'aide sociale, à l'exception des accueils de jour et des pôles d'activités et de soins adaptés ;
-
-― les opérations d'investissement immobilier réalisées dans le cadre d'une vente en l'état futur d'achèvement (VEFA).
+― sur le secteur des personnes âgées, les opérations réalisées dans des établissements et services dont les capacités ne sont pas habilitées à l'aide sociale, à l'exception des accueils de jour et des pôles d'activités et de soins adaptés.
