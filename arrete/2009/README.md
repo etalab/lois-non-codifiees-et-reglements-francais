@@ -1174,7 +1174,6 @@
 - [Arrêté du 16 avril 2009 (BCFR0907474A)](arrete-du-16-avril-2009-bcfr0907474a)
 - [Arrêté du 16 avril 2009 (ECEI0908753A)](arrete-du-16-avril-2009-ecei0908753a)
 - [Arrêté du 16 décembre 2008 (AGRG0828328A)](arrete-du-16-decembre-2008-agrg0828328a)
-- [Arrêté du 16 décembre 2008 (DEVA0826355A)](arrete-du-16-decembre-2008-deva0826355a)
 - [Arrêté du 16 décembre 2008 (DEVE0829105A)](arrete-du-16-decembre-2008-deve0829105a)
 - [Arrêté du 16 décembre 2008 (DEVK0830527A)](arrete-du-16-decembre-2008-devk0830527a)
 - [Arrêté du 16 décembre 2008 (ECES0830230A)](arrete-du-16-decembre-2008-eces0830230a)
