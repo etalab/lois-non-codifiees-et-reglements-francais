@@ -2,9 +2,9 @@
 
 La commission établit son règlement intérieur.
 
-Elle se réunit sur la convocation de son président ou du ministre chargé des petites et moyennes entreprises, du commerce et de l'artisanat.
+Elle se réunit sur la convocation de son président ou des ministres chargés des petites et moyennes entreprises, du commerce et de l'artisanat.
 
-En cas d'absence du président, la commission est présidée par son vice-président, désigné par le ministre chargé des petites et moyennes entreprises, du commerce et de l'artisanat, parmi les représentants des secteurs d'activité.
+En cas d'absence du président, la commission est présidée par son vice-président, désigné par  les ministres chargés des petites et moyennes entreprises, du commerce et de l'artisanat, parmi les représentants des secteurs d'activité.
 
 Huit jours avant la réunion, les membres titulaires et suppléants de la commission reçoivent l'ordre du jour et les dossiers de candidature accompagnés du rapport d'instruction établi par le rapporteur spécial et des réponses des organismes sollicités pour avis.
 
