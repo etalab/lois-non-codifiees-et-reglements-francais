@@ -1,14 +1,18 @@
 # Article Annexe I
 
-DIPLÔMES ET TITRES REQUIS POUR LA DÉLIVRANCE DU CERTIFICAT INDIVIDUEL POUR L'ACTIVITÉ "UTILISATION À TITRE PROFESSIONNEL DES PRODUITS PHYTOPHARMACEUTIQUES" CATÉGORIES "DÉCIDEUR EN EXPLOITATION AGRICOLE" ET "OPÉRATEUR EN EXPLOITATION AGRICOLE"
+DIPLÔMES ET TITRES REQUIS POUR LA DÉLIVRANCE DU CERTIFICAT INDIVIDUEL POUR L'ACTIVITÉ  " UTILISATION À TITRE PROFESSIONNEL DES PRODUITS PHYTOPHARMACEUTIQUES "  CATÉGORIES  " DÉCIDEUR EN EXPLOITATION AGRICOLE "  ET  " OPÉRATEUR EN EXPLOITATION AGRICOLE  "
 
 Les diplômes et titres suivants doivent avoir été obtenus au cours des cinq années précédant la date de la demande.
 
-A. - Catégorie "décideur en exploitation agricole"
+A. - Catégorie " décideur en exploitation agricole "
 
-Diplômes et titres de l'enseignement technique agricole délivrés par le ministère chargé de l'agriculture
+Diplômes et titres de l'enseignement technique agricole
 
-Brevet professionnel, diplôme de niveau IV, dans les options suivantes
+délivrés par le ministère chargé de l'agriculture
+
+Brevet professionnel, diplôme de niveau IV,
+
+dans les options suivantes
 
 Agroéquipements.
 
@@ -28,7 +32,11 @@ Responsable d'atelier de productions horticoles.
 
 Responsable de chantiers forestiers.
 
-Baccalauréat professionnel, diplôme de niveau IV, dans les spécialités suivantes
+Responsable d'entreprise hippique.
+
+Baccalauréat professionnel, diplôme de niveau IV,
+
+dans les spécialités suivantes
 
 Agroéquipement.
 
@@ -44,13 +52,19 @@ Productions horticoles.
 
 Travaux paysagers.
 
-Baccalauréat technologique, diplôme de niveau IV, dans les séries suivantes
+Conduite et gestion de l'entreprise hippique.
+
+Baccalauréat technologique, diplôme de niveau IV,
+
+dans les séries suivantes
 
 Sciences et technologies de l'agronomie et de l'environnement.
 
 Sciences et technologies de l'agronomie et du vivant.
 
-Brevet de technicien supérieur agricole, diplôme de niveau III, dans les options suivantes
+Brevet de technicien supérieur agricole,
+
+diplôme de niveau III, dans les options suivantes
 
 Agronomie : productions végétales.
 
@@ -62,47 +76,73 @@ Développement de l'agriculture des régions chaudes.
 
 Génie des équipements agricoles.
 
-Gestion et maîtrise de l'eau, spécialité "maîtrise de l'eau en agriculture et en aménagement".
+Gestion et maîtrise de l'eau, spécialité " maîtrise de l'eau en agriculture et en aménagement ".
 
 Production horticole.
 
 Productions animales.
 
-Technico-commercial, spécialité "agrofournitures".
+Technico-commercial, spécialité " agrofournitures ".
 
-Technico-commercial, spécialité "végétaux d'ornement".
+Technico-commercial, spécialité " végétaux d'ornement ".
 
-Technologies végétales, spécialité "agronomie et systèmes de culture".
+Technologies végétales, spécialité " agronomie et systèmes de culture ".
 
-Technologies végétales, spécialité "amélioration des plantes et technologies des semences".
+Technologies végétales, spécialité " amélioration des plantes et technologies des semences ".
 
-Technologies végétales, spécialité "protection des cultures".
+Technologies végétales, spécialité " protection des cultures ".
 
 Viticulture-œnologie.
 
-Certificat de spécialisation dans l'option suivante
+Gestion forestière.
 
-Complétant un diplôme de niveau IV.
+Certificat de spécialisation dans les options suivantes
+
+Complétant un diplôme de niveau IV :
 
 Conduite de production en agriculture biologique et commercialisation.
 
-Certificat de capacité technique agricole et rurale, niveau IV
+Complétant un diplôme de niveau III :
+
+Technicien conseil en agriculture biologique.
+
+Responsable technico-commercial : agrofournitures.
+
+Responsable technico-commercial en agroéquipements.
+
+Certificat de capacité technique
+
+agricole et rurale, niveau IV
 
 Technicien productions agricoles et services associés.
 
 Technicien forestier.
 
+Second d'exploitation serriste, niveau IV
+
+Responsable conduite de cultures protégées, niveau III
+
+Diplôme universitaire de technologie, niveau III
+
+Génie biologique, option  agronomie .
+
 Titres d'ingénieurs délivrés par les écoles suivantes
 
 Centre international d'études supérieures en sciences agronomiques (Montpellier SupAgro).
 
-Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (AgroSup Dijon).
+Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Agrosup Dijon).
 
 Ecole d'ingénieurs de Purpan.
+
+Ecole nationale d'enseignement supérieur agronomique de Dijon.
 
 Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux.
 
 Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
+
+Ecole nationale d'ingénieur de travaux agricoles de Clermont-Ferrand.
+
+Ecole nationale supérieure agronomique de Rennes.
 
 Ecole nationale supérieure agronomique de Toulouse.
 
@@ -116,9 +156,11 @@ Ecole supérieure d'ingénieurs et de techniciens pour l'agriculture (Rouen).
 
 Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (Vet Agro Sup).
 
+Institut national d'horticulture d'Angers.
+
 Institut des sciences et industries du vivant et de l'environnement (AgroParisTech).
 
-Institut supérieur technique d'Outre-Mer (spécialité "protection des cultures").
+Institut supérieur technique d'Outre-Mer (spécialité " protection des cultures ").
 
 Institut polytechnique LaSalle Beauvais.
 
@@ -128,33 +170,49 @@ Institut supérieur d'agriculture et d'agroalimentaire Rhône-Alpes.
 
 Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agrocampus Ouest).
 
-Diplômes délivrés par les universités
+Licences, autres diplômes et titres de niveau II et I
 
-Diplôme universitaire de technologie de biologie appliquée, option "agronomie", niveau III
+Diplôme national d'œnologue.
 
-Licence professionnelle, niveau II
+Intendant de terrain de golf.
 
-Licence professionnelle dont la spécialité relève des domaines suivants :
+Licence professionnelle dans la spécialité " commerce, management et distribution des produits agricoles, horticoles ".
 
-Agronomie ;
+Diplômes ou titres ayant dans leur intitulé ou mention,
 
-Aménagement du paysage ;
+l'un des domaines suivants
 
-Productions animales ;
+Agronomie.
 
-Productions végétales ;
+Aménagement du paysage.
 
-Licence professionnelle dans la spécialité "commerce, management et distribution des produits agricoles, horticoles".
+Conduite d'un système d'exploitation agricole.
 
-B. - Catégorie "opérateur en exploitation agricole"
+Productions fourragères.
 
-a) Les diplômes et titres permettant l'obtention du certificat dans la catégorie "décideur en exploitation agricole".
+Productions forestières.
+
+Productions végétales.
+
+Productions viticoles.
+
+Santé des plantes.
+
+Technologie du végétal.
+
+B. - Catégorie " opérateur en exploitation agricole "
+
+a) Les diplômes et titres permettant l'obtention du certificat dans la catégorie " décideur en exploitation agricole ".
 
 b) Les diplômes et titres suivants :
 
-Diplômes et titres de l'enseignement technique agricole délivrés par le ministère chargé de l'agriculture
+Diplômes et titres de l'enseignement technique agricole
 
-Certificat d'aptitude professionnelle agricole, diplôme de niveau V, dans les options suivantes
+délivrés par le ministère chargé de l'agriculture
+
+Certificat d'aptitude professionnelle agricole, diplôme de niveau V,
+
+dans les options suivantes
 
 Entretien de l'espace rural.
 
@@ -166,27 +224,33 @@ Travaux forestiers, spécialité sylviculture.
 
 Vigne et vin.
 
-Brevet professionnel agricole, diplôme de niveau V, dans les options suivantes
+Brevet professionnel agricole, diplôme de niveau V,
+
+dans les options suivantes
 
 Travaux de conduite et entretien des engins agricoles.
 
-Travaux de la production animale, spécialité "polyculture-élevage".
+Travaux de la production animale, spécialité " polyculture-élevage ".
 
-Travaux de la vigne et vin, spécialité "travaux de la vigne".
+Travaux de la vigne et vin, spécialité " travaux de la vigne ".
 
 Travaux des productions horticoles.
 
-Travaux forestiers, spécialité "travaux de sylviculture".
+Travaux forestiers, spécialité " travaux de sylviculture ".
 
-Brevet d'études professionnelles agricoles, diplôme de niveau V, dans les options suivantes
+Brevet d'études professionnelles agricoles, diplôme de niveau V,
+
+dans les options suivantes
 
 Agriculture des régions chaudes.
 
 Agroéquipements.
 
-Productions horticoles, spécialité "pépinières".
+Conduite de productions agricoles.
 
-Productions horticoles, spécialité "productions florales et légumières".
+Productions horticoles, spécialité " pépinières ".
+
+Productions horticoles, spécialité " productions florales et légumières ".
 
 Travaux agricoles et conduite d'engins.
 
@@ -197,3 +261,7 @@ Travaux horticoles.
 Travaux forestiers.
 
 Travaux de la vigne et du vin.
+
+Titre délivré par le ministère chargé de l'emploi
+
+Ouvrier de production horticole ornementale.
