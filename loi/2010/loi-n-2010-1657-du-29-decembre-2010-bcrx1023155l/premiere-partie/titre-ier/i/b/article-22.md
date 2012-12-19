@@ -44,7 +44,7 @@ VI. ― Il est opéré chaque année jusqu'en 2019 au profit de la Caisse nation
 <br/>Part supplémentaire de la contribution additionnelle au prélèvement mentionné à l'article L. 245-15 du code de la sécurité sociale, prévue à l'article L. 14-10-4 du code de l'action sociale et des familles, affectée à la CNAF<br/>
 </th>
 <th>
-<br/>Part supplémentaire de la contribution additionnelle au prélèvement mentionné à l'article L. 245-15 du code de la sécurité sociale, prévue à l'article L. 262-24 du code de l'action sociale et des familles, affectée à la CNAF<br/>
+<br/>Part supplémentaire de la part mentionnée au 1° du IV de l'article 1600-0 S du code général des impôts du prélèvement de solidarité mentionné au 2° du I du même article , affectée à la CNAF<br/>
 </th>
 <th>
 <br/>Part supplémentaire de la contribution prévue à l'article 16 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale affectée à la CNAF<br/>
