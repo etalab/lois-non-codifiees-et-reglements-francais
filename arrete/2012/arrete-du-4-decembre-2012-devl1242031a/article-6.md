@@ -1,0 +1,3 @@
+# Article 6
+
+Les préfets des départements de l'Aisne, des Ardennes, de l'Aube, du Calvados, de la Côte-d'Or, de l'Essonne, de l'Eure, d'Eure-et-Loir, de la Haute-Marne, des Hauts-de-Seine, d'Ille-et-Vilaine, du Loiret, de la Manche, de la Marne, de la Mayenne, de la Meuse, de la Nièvre, de l'Oise, de l'Orne, de Paris, de Seine-et-Marne, de Seine-Maritime, de la Seine-Saint-Denis, de la Somme, du Val-d'Oise, du Val-de-Marne, des Vosges, de l'Yonne et des Yvelines, les directeurs régionaux de l'environnement, de l'aménagement et du logement et les directeurs départementaux des territoires (et de la mer) concernés sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

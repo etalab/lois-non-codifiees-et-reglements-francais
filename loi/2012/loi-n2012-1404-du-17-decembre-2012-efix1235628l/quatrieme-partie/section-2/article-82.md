@@ -1,0 +1,9 @@
+# Article 82
+
+I. - Les cotisations versées du 13 juillet 2010 au 31 décembre 2011 par l'assuré né entre le 1er janvier 1952 et le 31 décembre 1955 inclus, en application des articles L. 351-14-1, L. 634-2-2, L. 643-2 et L. 723-10-3 du code de la sécurité sociale, de l'article L. 732-27-1 du code rural et de la pêche maritime et de l'article L. 9 bis du code des pensions civiles et militaires de retraite, ainsi que celles versées en application des dispositions réglementaires ayant le même objet applicables aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales et aux ouvriers régis par le régime des pensions des ouvriers des établissements industriels de l'Etat, lui sont remboursées sur sa demande à la condition qu'il n'ait fait valoir aucun des droits aux pensions personnelles de retraite auxquels il peut prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires. Les demandes de remboursement doivent être présentées dans un délai d'un an à compter de la promulgation de la présente loi. Les assurés concernés, qu'ils résident en France ou hors de France, sont informés de cette possibilité.
+
+Le montant des cotisations à rembourser est calculé en revalorisant les cotisations versées par l'assuré par application chaque année du coefficient annuel de revalorisation mentionné à l'article L. 161-23-1 du code de la sécurité sociale.
+
+II. - 1. Le I du présent article est applicable aux salariés agricoles mentionnés au premier alinéa de l'article L. 742-3 du code rural et de la pêche maritime et aux personnes mentionnées à l'article L. 382-29 du code de la sécurité sociale.
+
+2. Le I du présent article est applicable dans les mêmes conditions aux rachats mentionnés aux articles L. 351-14, L. 742-2 et L. 742-7 du code de la sécurité sociale et à l'article L. 732-52 du code rural et de la pêche maritime.

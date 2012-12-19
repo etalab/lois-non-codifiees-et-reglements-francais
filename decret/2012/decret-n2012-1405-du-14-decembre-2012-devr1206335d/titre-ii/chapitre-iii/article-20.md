@@ -1,0 +1,3 @@
+# Article 20
+
+Un an après la publication des règles relatives au mécanisme de capacité, et ensuite chaque année, la Commission de régulation de l'énergie remet au ministre chargé de l'énergie un rapport, établi sur la base des travaux du gestionnaire du réseau de transport, sur l'intégration du mécanisme de capacité dans le marché européen. Ce rapport inclut des informations relatives à l'évolution, dans les pays voisins, de la régulation relative à la contribution des acteurs à la sécurité d'approvisionnement en électricité. Il analyse l'interaction entre le mécanisme de capacité français et les dispositifs mis en place dans ces pays. Il propose, le cas échéant, des améliorations du fonctionnement du mécanisme de capacité.
