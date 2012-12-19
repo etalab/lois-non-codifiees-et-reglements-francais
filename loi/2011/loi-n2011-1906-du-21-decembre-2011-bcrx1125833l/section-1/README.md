@@ -1,4 +1,4 @@
-# Section 1 : Dispositions relatives aux recettes des régimes obligatoires  de base et des organismes concourant à leur financement
+# Section 1 : Dispositions relatives aux dépenses  d'assurance maladie
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -19,7 +19,6 @@
 - [Article 50](article-50.md)
 - [Article 51](article-51.md)
 - [Article 55](article-55.md)
-- [Article 56](article-56.md)
 - [Article 60](article-60.md)
 - [Article 64](article-64.md)
 - [Article 66](article-66.md)

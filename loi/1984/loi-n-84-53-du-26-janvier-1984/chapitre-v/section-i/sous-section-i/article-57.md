@@ -8,7 +8,7 @@ Le fonctionnaire territorial originaire des départements de Guadeloupe, de Guya
 
 2° A des congés de maladie dont la durée totale peut atteindre un an pendant une période de douze mois consécutifs en cas de maladie dûment constatée mettant l'intéressé dans l'impossibilité d'exercer ses fonctions. Celui-ci conserve alors l'intégralité de son traitement pendant une durée de trois mois ; ce traitement est réduit de moitié pendant les neuf mois suivants. Le fonctionnaire conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
-Toutefois, si la maladie provient de l'une des causes exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, le fonctionnaire conserve l'intégralité de son traitement jusqu'à ce qu'il soit en état de reprendre son service ou jusqu'à la mise à la retraite. Il a droit, en outre, au remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident, même après la date de radiation des cadres pour mise à la retraite .
+Toutefois, si la maladie provient de l'une des causes exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, le fonctionnaire conserve l'intégralité de son traitement jusqu'à ce qu'il soit en état de reprendre son service ou jusqu'à la mise à la retraite. Il a droit, en outre, au remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident, même après la date de radiation des cadres pour mise à la retraite.
 
 Dans le cas visé à l'alinéa précédent, l'imputation au service de l'accident ou de la maladie est appréciée par la commission de réforme instituée par le régime des pensions des agents des collectivités locales.
 
@@ -46,7 +46,7 @@ Ce temps partiel thérapeutique ne peut, en aucun cas, être inférieur au mi-te
 
 5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale. Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
 
-Au congé de paternité en cas de naissance avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+Au congé de paternité et d'accueil de l'enfant en cas de naissance avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
 
 A l'expiration de chacun des congés mentionnés aux deux alinéas précédents, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 54 ;
 

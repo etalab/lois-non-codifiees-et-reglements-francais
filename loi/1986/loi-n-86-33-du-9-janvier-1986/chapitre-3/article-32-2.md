@@ -12,7 +12,7 @@ La durée des contrats mentionnés au premier alinéa ne peut être inférieure 
 
 Toutefois, ces contrats peuvent être renouvelés, dans la limite d'un an, lorsque le bénéficiaire du contrat n'a pas pu obtenir la qualification ou, le cas échéant, le titre ou le diplôme prévu au contrat, à la suite d'un échec aux épreuves d'évaluation de la formation suivie ou en cas de défaillance de l'organisme de formation.
 
-Les contrats peuvent être prolongés dans la limite de la durée des congés pour maternité ou adoption et des congés de paternité, de maladie et d'accident du travail dont a bénéficié le titulaire du contrat.
+Les contrats peuvent être prolongés dans la limite de la durée des congés pour maternité ou adoption et des congés de paternité et d'accueil de l'enfant, de maladie et d'accident du travail dont a bénéficié le titulaire du contrat.
 
 Au terme du contrat, après obtention, le cas échéant, du titre ou du diplôme requis pour l'accès au corps dont relève l'emploi dans lequel il a été recruté et sous réserve de la vérification de son aptitude par une commission nommée à cet effet, l'intéressé est titularisé dans le corps correspondant à l'emploi qu'il occupait.
 
