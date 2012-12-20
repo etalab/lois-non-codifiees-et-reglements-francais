@@ -1,0 +1,3 @@
+# Article 1
+
+Les honoraires des prestataires auxquels les personnes physiques ou morales font appel pour la conception et la maîtrise d'œuvre de projets de travaux forestiers ou pour la rédaction de plans simples de gestion peuvent être pris en compte dans le calcul des aides financières publiques sollicitées ou donner lieu à l'attribution des aides financières publiques spécifiques prévues, à condition que ces prestataires soient inscrits sur la liste des experts forestiers établie conformément aux dispositions des articles R. 171-9 et R. 171-10 du code rural et de la pêche maritime ou sur une des listes régionales de gestionnaires forestiers professionnels établies conformément aux dispositions de l'article D. 314-7 du code forestier.
