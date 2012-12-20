@@ -36,13 +36,15 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau " économie, statistiques et techniques de l'achat public " <br/>
+<p align="left">Chef du bureau "économie, statistiques et techniques de l'achat public" <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>Direction générale de l'administration et de la fonction publique</td>
-<td> Chef du bureau des statuts particuliers et des filières de métiers (à compter du 16 avril 2012)</td>
+<td>
+<p align="left">Chef du bureau des statuts particuliers et des filières de métiers (à compter du 16 avril 2012)</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -105,20 +107,12 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction générale des douanes et droits indirects (supprimé à compter du 1er juillet 2012)<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section " programmation pluriannuelle " <br/>
-</p>
-</td>
-</tr>
-<tr>
 <td>
 <p align="left">Direction générale des douanes et droits indirects </p>
 </td>
-<td>Adjoint au chef du bureau des achats, de la politique immobilière et des services centraux<br/>
+<td>
+<p align="left">Adjoint au chef du bureau des achats, de la politique immobilière et des services centraux<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +131,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du secteur de la commande publique au bureau " expertise juridique " <br/>
+<p align="left">Chef du secteur de la commande publique au bureau "expertise juridique" <br/>
 </p>
 </td>
 </tr>
@@ -147,7 +141,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Responsable du secteur " contentieux des ressources humaines et affaires juridiques " <br/>
+<p align="left">Responsable du secteur "contentieux des ressources humaines et affaires juridiques" <br/>
 </p>
 </td>
 </tr>
@@ -198,8 +192,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées <br/>
-</p>
+<p align="left">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées </p>
 </td>
 </tr>
 <tr>
@@ -208,8 +201,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Chargé de mission " animation des systèmes d'information " au sein de la délégation aux systèmes d'information <br/>
-</p>
+<p align="left">Chargé de mission "animation des systèmes d'information" au sein de la délégation aux systèmes d'information </p>
 </td>
 </tr>
 <tr>
@@ -233,12 +225,21 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Secrétariat général <br/>
+</p>
+</td>
+<td>
+<p align="left">Chef du bureau "infrastructures informatiques et télécommunications" (ajouté à compter du 8 décembre 2012)</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Secrétariat général des affaires européennes <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau " administration générale "<br/>
+<p align="left">Chef du bureau "administration générale"<br/>
 </p>
 </td>
 </tr>
