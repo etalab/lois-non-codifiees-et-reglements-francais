@@ -262,7 +262,6 @@
 - [Décret n°2002-91 du 18 janvier 2002 (MENF0102690D)](decret-n2002-91-du-18-janvier-2002-menf0102690d)
 - [Décret n°93-401 du 18 mars 1993 (INTB9300131D)](decret-n93-401-du-18-mars-1993-intb9300131d)
 - [Décret du 19 janvier 2001 (AGRP0001779D)](decret-du-19-janvier-2001-agrp0001779d)
-- [Décret du 19 janvier 2001 (AGRP0001832D)](decret-du-19-janvier-2001-agrp0001832d)
 - [Décret du 19 septembre 2001 (AGRP0101172D)](decret-du-19-septembre-2001-agrp0101172d)
 - [Décret n°2001-1096 du 19 novembre 2001 (MCCT0100560D)](decret-n2001-1096-du-19-novembre-2001-mcct0100560d)
 - [Décret n°2001-1207 du 19 décembre 2001 (MESH0124138D)](decret-n2001-1207-du-19-decembre-2001-mesh0124138d)
