@@ -477,7 +477,6 @@
 - [Arrêté du 7 août 2012 (MENH1220260A)](arrete-du-7-aout-2012-menh1220260a)
 - [Arrêté du 7 avril 2012 (DEVT1208460A)](arrete-du-7-avril-2012-devt1208460a)
 - [Arrêté du 7 décembre 2011 (AGRS1133177A)](arrete-du-7-decembre-2011-agrs1133177a)
-- [Arrêté du 7 décembre 2011 (BCRB1132603A)](arrete-du-7-decembre-2011-bcrb1132603a)
 - [Arrêté du 7 décembre 2011 (BCRD1123809A)](arrete-du-7-decembre-2011-bcrd1123809a)
 - [Arrêté du 7 décembre 2011 (DEVK1131721A)](arrete-du-7-decembre-2011-devk1131721a)
 - [Arrêté du 7 décembre 2011 (DEVL1130786A)](arrete-du-7-decembre-2011-devl1130786a)
