@@ -3,4 +3,3 @@
 - [CHAPITRE IER : HIERARCHIE](chapitre-ier)
 - [CHAPITRE II : RECRUTEMENT](chapitre-ii)
 - [CHAPITRE III : AVANCEMENT](chapitre-iii)
-- [CHAPITRE IV : DISPOSITIONS TRANSITOIRES](chapitre-iv)
