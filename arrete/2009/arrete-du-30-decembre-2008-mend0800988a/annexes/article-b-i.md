@@ -2,1313 +2,1271 @@
 
 -
 
+<div align="center"/>
 <div align="center">
 <table>
 <tbody>
 <tr>
-<td align="left" colspan="2" valign="top">
-<p align="center">B. - I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,<br/>de l'enseignement supérieur et de la recherche<br/>relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé,<br/>services et établissements relevant du ministre chargé de l'éducation nationale </p>
+<td colspan="2" width="599">
+<p align="center">B-I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé, <br/>services et établissements relevant du ministre chargé de l'éducation nationale</p>
 </td>
-<td align="left" rowspan="2" valign="top">
-<br/>
+<td rowspan="2" width="75">
 <p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="center">Académies </p>
+<td width="224">
+<p align="center">Académies</p>
 </td>
-<td align="left" valign="top">
-<p align="center">Localisation </p>
+<td width="373">
+<p align="center">Localisation</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Aix-Marseille </p>
+<td rowspan="6" valign="top" width="224">
+<p>Aix-Marseille</p>
 </td>
-<td align="left" valign="top">
-<p align="left">Rectorat</p>
+<td rowspan="2" valign="top" width="373">
+<p>Rectorat</p>
 </td>
-<td align="left" valign="top">
+<td valign="top" width="75">
 <p align="center">5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Alpes-de-Haute-Provence <br/>
+<td valign="top" width="75">
+<p align="center">6<br/>A effet du 1er septembre 2013</p>
 </td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Hautes-Alpes <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de Vaucluse <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">6 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Amiens <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Aisne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Somme <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Besançon <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Doubs <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Jura <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Haute-Saône <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Territoire de Belfort <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Bordeaux <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Dordogne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Landes <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Lot-et-Garonne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Pyrénées-Atlantiques <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Caen <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Calvados <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Manche <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Orne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Clermont-Ferrand <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Allier <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Cantal <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Haute-Loire <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Puy-de-Dôme <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Corse <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Corse-du-Sud <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Haute-Corse <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Créteil <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Dijon <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Côte-d'Or <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Nièvre <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de Saône-et-Loire <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Yonne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Grenoble <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Ardèche <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Drôme <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Savoie <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Haute-Savoie <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Guadeloupe <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Guyane <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Lille <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Limoges <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Corrèze <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Creuse <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Haute-Vienne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Lyon <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Ain <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Loire <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Martinique <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Montpellier <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Aude <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Gard <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Lozère <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Pyrénées-Orientales <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Nancy-Metz <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de Meurthe-et-Moselle <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Meuse <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Vosges <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">6 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Nantes <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Maine-et-Loire <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Mayenne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Sarthe <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Vendée <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">6 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Nice <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Orléans-Tours <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Cher <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique d'Eure-et-Loir <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Indre <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique d'Indre-et-Loire <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Loir-et-Cher <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Loiret <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Paris <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Service interacadémique des examens et concours <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Poitiers <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Charente <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Charente-Maritime <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Deux-Sèvres <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Centre national d'enseignement à distance - Direction générale <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Centre national de documentation pédagogique - Direction générale <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Reims <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Ardennes <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Aube <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Marne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de la Haute-Marne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Rennes <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Côtes-d'Armor <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Morbihan <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>La Réunion <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Rouen <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Eure <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Strasbourg <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Bas-Rhin <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Haut-Rhin <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Toulouse <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Ariège <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique de l'Aveyron <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Gers <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Lot <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique des Hautes-Pyrénées <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Tarn <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Inspection académique du Tarn-et-Garonne <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Versailles <br/>
-</td>
-<td align="left" valign="top">
-<br/>Rectorat <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Etablissement public local d'enseignement - Lycée - Agent comptable <br/>
-</td>
-<td align="left" valign="top">
-<p align="center">8 </p>
-</td>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top">
-<br/>Vice-rectorat de Mayotte<br/>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Alpes-de-Haute-Provence </p>
 </td>
-<td align="left" valign="top">
+<td valign="top" width="75">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top">
-<br/>Vice-rectorat de Nouvelle-Calédonie<br/>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Hautes-Alpes </p>
 </td>
-<td align="left" valign="top">
+<td valign="top" width="75">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top">
-<p align="left">Vice-rectorat de Polynésie française</p>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Vaucluse </p>
 </td>
-<td align="left" valign="top">
+<td valign="top" width="75">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="top">
-<p align="left">Administration centrale</p>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
 </td>
-<td align="left" valign="top">
-<p align="center">21</p>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="224">
+<p>Amiens</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Aisne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Somme </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="224">
+<p>Besançon</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Doubs </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Jura </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Haute-Saône </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Territoire de Belfort </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" valign="top" width="224">
+<p>Bordeaux</p>
+</td>
+<td rowspan="2" valign="top" width="373">
+<p>Rectorat</p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">6<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Dordogne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Landes </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Lot-et-Garonne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Pyrénées-Atlantiques </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" valign="top" width="224">
+<p>Caen</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Calvados </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Manche </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Orne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" valign="top" width="224">
+<p>Clermont-Ferrand</p>
+</td>
+<td rowspan="2" valign="top" width="373">
+<p>Rectorat</p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">4<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Allier </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Cantal </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Haute-Loire </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Le service départemental de l'éducation nationale du Puy-de-Dôme </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">5 A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="224">
+<p>Corse </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="224">
+<br/>
+</td>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Haute-Corse </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="224">
+<br/>
+</td>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="224">
+<p>Créteil</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">10<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" valign="top" width="224">
+<p>Dijon</p>
+</td>
+<td rowspan="2" valign="top" width="373">
+<p>Rectorat</p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">4<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Côte-d'Or </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Nièvre </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Saône-et-Loire </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Yonne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="224">
+<p>Grenoble </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Ardèche </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Drôme </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Savoie </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Haute-Savoie </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="224">
+<p>Guadeloupe</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="224">
+<p>Guyane</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="224">
+<p>Lille</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" valign="top" width="224">
+<p>Limoges</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Corrèze </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Creuse </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Haute-Vienne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="224">
+<p>Lyon</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Ain </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Loire </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="224">
+<p>Martinique</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="224">
+<p>Montpellier</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Aude </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Lozère </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Pyrénées-Orientales </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">8<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" valign="top" width="224">
+<p>Nancy-Metz</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Meurthe-et-Moselle </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Meuse </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Vosges </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="224">
+<p>Nantes </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Maine-et-Loire </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Mayenne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Sarthe </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Vendée </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="224">
+<p>Nice</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" valign="top" width="224">
+<p>Orléans-Tours</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Cher </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale d'Eure-et-Loir </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Indre </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale d'Indre-et-Loire </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Loir-et-Cher </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">9<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="224">
+<p>Paris</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service interacadémique des examens et concours </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="224">
+<p>Poitiers</p>
+</td>
+<td rowspan="2" valign="top" width="373">
+<p>Rectorat</p>
+</td>
+<td valign="top" width="75">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">7<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Charente </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Charente-Maritime </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Deux-Sèvres </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" valign="top" width="224">
+<p>Reims</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Ardennes </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Aube </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Marne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de la Haute-Marne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">5<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="224">
+<p>Rennes </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Côtes-d'Armor </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Morbihan </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="224">
+<p>La Réunion </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="224">
+<p>Rouen</p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Eure </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="224">
+<p>Strasbourg </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Bas-Rhin </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Haut-Rhin </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" valign="top" width="224">
+<p>Toulouse </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Ariège </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de l'Aveyron </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Gers </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale du Lot </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale des Hautes-Pyrénées </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Tarn </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Service départemental de l'éducation nationale de Tarn-et-Garonne </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">7<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="224">
+<p>Versailles </p>
+</td>
+<td valign="top" width="373">
+<p>Rectorat </p>
+</td>
+<td valign="top" width="75">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="373">
+<p>Etablissement public local d'enseignement - Lycée - Chef d'agence comptable</p>
+</td>
+<td valign="top" width="75">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">10<br/>A effet du 1er septembre 2013</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="599">
+<p>Mayotte </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="599">
+<p>Vice-rectorat de Nouvelle-Calédonie </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="599">
+<p>Vice-rectorat de Polynésie française </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="224">
+<p>Etablissements publics nationaux à caractère administratif </p>
+</td>
+<td valign="top" width="373">
+<p>Centre national d'enseignement à distance </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Centre national de documentation pédagogique </p>
+</td>
+<td valign="top" width="75">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p>Office national d'information sur les enseignements et les professions </p>
+</td>
+<td valign="top" width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="599">
+<p>Administration centrale</p>
+</td>
+<td valign="top" width="75">
+<p align="center">35</p>
 </td>
 </tr>
 </tbody>
