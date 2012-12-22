@@ -234,7 +234,6 @@
 - [Arrêté du 8 février 2007 (INTE0700201A)](arrete-du-8-fevrier-2007-inte0700201a)
 - [Arrêté du 8 janvier 2007 (SANS0720143A)](arrete-du-8-janvier-2007-sans0720143a)
 - [Arrêté du 8 juin 2007 (ECEU0753240A)](arrete-du-8-juin-2007-eceu0753240a)
-- [Arrêté du 8 mars 2007 (EQUA0700476A)](arrete-du-8-mars-2007-equa0700476a)
 - [Arrêté du 8 mars 2007 (MENH0700228A)](arrete-du-8-mars-2007-menh0700228a)
 - [Arrêté du 8 mars 2007 (SANS0720702A)](arrete-du-8-mars-2007-sans0720702a)
 - [Arrêté du 8 mars 2007 (SANS0720703A)](arrete-du-8-mars-2007-sans0720703a)
