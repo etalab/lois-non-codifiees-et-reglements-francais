@@ -8,6 +8,4 @@ La mission de la sensibilisation et du développement des publics :
 
 ― développe des outils d'information en rapport avec les missions de la délégation générale ;
 
-― participe dans le domaine de la langue française et des langues de France aux actions de communication interne et externe du ministère chargé de la culture ;
-
-― assure une veille sur l'évolution des technologies de la langue et, le cas échéant, participe aux actions visant à en promouvoir le développement.
+― participe dans le domaine de la langue française et des langues de France aux actions de communication interne et externe du ministère chargé de la culture.

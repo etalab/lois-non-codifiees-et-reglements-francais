@@ -1,11 +1,11 @@
 # Article 5
 
-Mission de la maîtrise de la langue et de l'action territoriale.
+Mission des langues et du numérique.
 
-La mission de la maîtrise de la langue et de l'action territoriale :
+La mission des langues et du numérique :
 
-― veille à inscrire la maîtrise de la langue dans les politiques culturelles, en particulier celles relatives au développement des publics et à l'éducation artistique et culturelle ;
+―  contribue à mettre les technologies numériques au service de la  politique de la langue, notamment l'emploi, l'enrichissement et la  maîtrise du français, ainsi que le développement du multilinguisme ;
 
-― contribue, en liaison avec les départements ministériels, les collectivités territoriales et les organismes concernés, à la réflexion sur les enjeux économiques, sociaux et culturels liés à la maîtrise du français et à la mise en œuvre de projets innovants dans le domaine de la formation ;
+―  apporte son expertise sur les enjeux linguistiques de la politique  numérique conduite par le ministère chargé de la culture et par les  autres départements ministériels ainsi que par les acteurs concernés au  plan national comme international ;
 
-― oriente, coordonne et évalue la politique en faveur de la langue française et de la diversité linguistique conduite par les services déconcentrés du ministère chargé de la culture et les établissements placés sous sa tutelle.
+― assure une veille sur les outils propres à connaître, mesurer et valoriser la place des langues dans l'univers numérique.

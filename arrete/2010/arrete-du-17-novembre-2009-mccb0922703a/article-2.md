@@ -10,7 +10,7 @@ La délégation générale à la langue française et aux langues de France comp
 
 ― la mission de la maîtrise de la langue et de l'action territoriale ;
 
-― la mission des langues de France ;
+― la mission des langues et du numérique ;
 
 ― la mission de la sensibilisation et du développement des publics ;
 
