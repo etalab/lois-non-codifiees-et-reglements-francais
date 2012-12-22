@@ -1,0 +1,5 @@
+# Article 23
+
+I. ― Les dispositions de l'article L. 5138-1 relatives à l'autorisation des activités de fabrication, d'importation ou de distribution de substances actives entrent en vigueur le 1er avril 2013. Les personnes exerçant régulièrement ces activités à la date de la publication de la présente ordonnance peuvent les poursuivre jusqu'à l'intervention de la décision de l'Agence nationale de sécurité du médicament et des produits de santé sur leur demande d'autorisation.
+
+II. ― Les pharmaciens aux 1° et 2° de l'article L. 5125-33 ayant déjà créé, à la date de la publication de la présente ordonnance, un site internet proposant des médicaments à la vente doivent déposer au plus tard le 1er mars 2013 la demande d'autorisation mentionnée à l'article L. 5125-36 du code de la santé publique. A partir de cette date, ils se conforment aux dispositions du chapitre V bis du titre II du livre Ier de la cinquième partie du même code. Ils peuvent néanmoins poursuivre cette activité jusqu'à l'intervention de la décision du directeur général de l'agence régionale de santé sur leur demande d'autorisation.
