@@ -225,7 +225,6 @@
 - [Arrêté du 4 janvier 2012 (DEVL1135674A)](arrete-du-4-janvier-2012-devl1135674a)
 - [Arrêté du 4 janvier 2012 (DEVR1201524A)](arrete-du-4-janvier-2012-devr1201524a)
 - [Arrêté du 4 janvier 2012 (EFIC1131184A)](arrete-du-4-janvier-2012-efic1131184a)
-- [Arrêté du 4 janvier 2012 (EFIC1131185A)](arrete-du-4-janvier-2012-efic1131185a)
 - [Arrêté du 4 janvier 2012 (EFIS1134945A)](arrete-du-4-janvier-2012-efis1134945a)
 - [Arrêté du 4 janvier 2012 (EFIS1134957A)](arrete-du-4-janvier-2012-efis1134957a)
 - [Arrêté du 4 janvier 2012 (ETSH1200330A)](arrete-du-4-janvier-2012-etsh1200330a)
