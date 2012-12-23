@@ -49,18 +49,19 @@ La liste des substances classées CMR et de leurs utilisations autorisées confo
 <table>
 <tbody>
 <tr>
-<th>
-<font size="1">SUBSTANCE <br/>
-</font>
-</th>
-<th>
-<font size="1">CLASSIFICATION <br/>
-</font>
-</th>
-<th>
-<font size="1">UTILISATION <br/>autorisée </font>
-<br/>
-</th>
+<td>
+<p align="center">
+<font size="1">SUBSTANCE </font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="1">CLASSIFICATION</font>
+</p>
+</td>
+<td>
+<p align="center">UTILISATION <br/>autorisée</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -90,18 +91,18 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <table>
 <tbody>
 <tr>
-<th>
-<font size="1">N° <br/>
-</font>
-</th>
-<th>
-<font size="1">DÉNOMINATION DE LA SUBSTANCE <br/>parfumante allergisante <br/>
-</font>
-</th>
-<th>
-<font size="1">NUMÉRO CAS <br/>
-</font>
-</th>
+<td>
+<p align="center">
+<font size="1">N°</font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="1">DÉNOMINATION DE LA SUBSTANCE <br/>parfumante allergisante </font>
+<br/>
+</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td align="center">(1) <br/>
@@ -548,23 +549,25 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 
 Toutefois, la présence de traces de ces substances parfumantes est tolérée à condition qu'elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu'elle ne dépasse pas 100 mg/kg.
 
-2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg/kg du jouet ou des composantes de celui-ci.
+2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg / kg du jouet ou des composantes de celui-ci.
 
 <table>
 <tbody>
 <tr>
-<th>
-<font size="1">N° <br/>
-</font>
-</th>
-<th>
-<font size="1">DÉNOMINATION DE LA SUBSTANCE <br/>parfumante allergisante <br/>
-</font>
-</th>
-<th>
-<font size="1">NUMÉRO CAS </font>
+<td>
+<p align="center">
+<font size="1">N°</font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="1">DÉNOMINATION DE LA SUBSTANCE <br/>parfumante allergisante </font>
 <br/>
-</th>
+</p>
+</td>
+<td>
+<p align="center">NUMÉRO CAS </p>
+</td>
 </tr>
 <tr>
 <td align="center">(1) <br/>
@@ -682,22 +685,27 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 <table>
 <tbody>
 <tr>
-<th>
-<font size="1">ÉLÉMENT <br/>
-</font>
-</th>
-<th>
-<font size="1">MG / KG DE MATIÈRE <br/>de jouet sèche, <br/>friable, poudreuse <br/>ou souple <br/>
-</font>
-</th>
-<th>
-<font size="1">MG / KG DE MATIÈRE <br/>de jouet liquide <br/>ou collante <br/>
-</font>
-</th>
-<th>
-<font size="1">MG / KG DE MATIÈRE <br/>grattée du jouet <br/>
-</font>
-</th>
+<td>
+<p align="center">
+<font size="1">ÉLÉMENT </font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="1">MG/KG DE MATIÈRE <br/>de jouet sèche, <br/>friable, poudreuse <br/>ou souple </font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="1">MG/KG DE MATIÈRE <br/>de jouet liquide <br/>ou collante </font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="1">MG/KG DE MATIÈRE <br/>grattée du jouet </font>
+<br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">Aluminium <br/>
@@ -752,12 +760,11 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 <tr>
 <td align="center">Cadmium <br/>
 </td>
-<td align="center">1, 9 <br/>
+<td align="center">1, 3<br/>
 </td>
-<td align="center">0, 5 <br/>
+<td align="center">0, 3<br/>
 </td>
-<td align="center">23 <br/>
-</td>
+<td align="center">17</td>
 </tr>
 <tr>
 <td align="center">Chrome (III) <br/>
