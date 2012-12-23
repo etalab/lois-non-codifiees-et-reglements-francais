@@ -81,7 +81,6 @@
 - [Arrêté du 5 janvier 2005 (EQUA0500093A)](arrete-du-5-janvier-2005-equa0500093a)
 - [Arrêté du 5 janvier 2005 (SANS0520114A)](arrete-du-5-janvier-2005-sans0520114a)
 - [Arrêté du 5 juillet 2005 (MCCL0500473A)](arrete-du-5-juillet-2005-mccl0500473a)
-- [Arrêté du 5 octobre 2005 (MENA0502134A)](arrete-du-5-octobre-2005-mena0502134a)
 - [Arrêté du 5 septembre 2005 (ECOS0570005A)](arrete-du-5-septembre-2005-ecos0570005a)
 - [Arrêté du 5 septembre 2005 (MENS0501810A)](arrete-du-5-septembre-2005-mens0501810a)
 - [Arrêté du 5 septembre 2005 (MENS0501811A)](arrete-du-5-septembre-2005-mens0501811a)
