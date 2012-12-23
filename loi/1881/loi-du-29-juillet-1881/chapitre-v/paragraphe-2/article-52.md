@@ -1,3 +1,3 @@
 # Article 52
 
-Si la personne mise en examen est domiciliée en France, elle ne pourra être préventivement arrêtée, sauf dans les cas prévus aux articles 23, 24 (par. 1er et 3), 25, 27, 36 et 37 ci-dessus.
+Si la personne mise en examen est domiciliée en France, elle ne pourra être placée en détention provisoire que dans les cas prévus à l'article 23 et aux deuxième à quatrième et sixième alinéas de l'article 24.

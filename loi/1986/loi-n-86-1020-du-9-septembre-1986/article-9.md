@@ -20,8 +20,18 @@ IV.-En cas de litige, le juge civil, si les faits générateurs du dommage ont d
 
 Les victimes des dommages disposent, dans le délai prévu à l'article 2226 du code civil, du droit d'action en justice contre le fonds institué au paragraphe II ci-dessus.
 
+Si des poursuites pénales ont été engagées, ce droit d'action peut également être exercé dans un délai d'un an à compter de la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Lorsque l'auteur de l'infraction est condamné à verser des dommages et intérêts, la juridiction doit informer la partie civile de sa possibilité de saisir le fonds et le délai d'un an ne court qu'à compter de cette information.
+
+Dans tous les cas, le conseil d'administration du fonds peut relever le requérant de la forclusion résultant de l'application des deuxième et troisième alinéas du présent IV si celui-ci n'a pas été en mesure de faire valoir ses droits dans les délais requis ou pour tout autre motif légitime.
+
 IV bis-Le fonds de garantie peut intervenir devant les juridictions de jugement en matière répressive même pour la première fois en cause d'appel, en cas de constitution de partie civile de la victime ou de ses ayants droit contre le ou les responsables des faits. Il intervient alors à titre principal et peut user de toutes les voies de recours ouvertes par la loi.
 
 V.-Les contrats d'assurance de biens ne peuvent exclure la garantie de l'assureur pour les dommages résultant d'actes de terrorisme ou d'attentats commis sur le territoire national. Toute clause contraire est réputée non écrite.
 
 Un décret en Conseil d'Etat définira les modalités d'application du présent paragraphe.
+
+VI. - Le ministre de la justice peut décider, avec l'accord des ayants droit, que la mention "Victime du terrorisme" est portée sur l'acte de décès de toute personne mentionnée au I.
+
+Lorsque, pour un motif quelconque, la mention "Victime du terrorisme" n'a pas pu être inscrite sur l'acte de décès au moment de la rédaction de celui-ci, elle est ajoutée ultérieurement dès que les éléments nécessaires de justification le permettent.
+
+Les enfants des personnes dont l'acte de décès porte la mention "Victime du terrorisme" ont vocation à la qualité de pupille de la Nation.

@@ -10,4 +10,4 @@ La mise en œuvre du dispositif technique permettant le contrôle à distance pe
 
 Pendant la durée du placement, l'autorité administrative peut, d'office ou à la demande de l'étranger, modifier ou compléter les obligations résultant dudit placement.
 
-Le manquement aux prescriptions liées au placement sous surveillance électronique est sanctionné dans les conditions prévues au troisième alinéa de l'article 39.
+Le manquement aux prescriptions liées au placement sous surveillance électronique est sanctionné dans les conditions prévues au dernier alinéa de l'article 39.

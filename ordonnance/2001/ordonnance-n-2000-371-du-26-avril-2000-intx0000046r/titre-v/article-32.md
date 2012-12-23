@@ -20,6 +20,8 @@ L'étranger peut demander le bénéfice de l'aide juridictionnelle dans les cond
 
 Les débats de la commission sont publics. Le président veille à l'ordre de la séance. Tout ce qu'il ordonne pour l'assurer doit être immédiatement exécuté. Devant la commission, l'étranger peut faire valoir toutes les raisons qui militent contre son expulsion. Un procès-verbal enregistrant les explications de l'étranger est transmis, avec l'avis motivé de la commission, à l'autorité administrative compétente pour statuer qui statue. L'avis de la commission est également communiqué à l'intéressé.
 
+La commission rend son avis dans le délai d'un mois à compter de la remise à l'étranger de la convocation mentionnée au huitième alinéa. Toutefois, lorsque l'étranger demande le renvoi pour un motif légitime, la commission prolonge ce délai, dans la limite d'un mois maximum à compter de la décision accordant ce renvoi. A l'issue du délai d'un mois ou, si la commission l'a prolongé, du délai supplémentaire qu'elle a fixé, les formalités de consultation de la commission sont réputées remplies.
+
 Lorsque la présence simultanée dans les îles Wallis et Futuna des magistrats membres de la commission, ou de leurs remplaçants, n'est pas matériellement possible, le ou les magistrats empêchés peuvent assister à l'audition de l'étranger depuis un autre point du territoire de la République, ce dernier se trouvant relié, en direct, par un moyen de communication audiovisuelle, à la salle dans laquelle siège la commission, où doit être présent au moins un magistrat.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de l'alinéa précédent.
