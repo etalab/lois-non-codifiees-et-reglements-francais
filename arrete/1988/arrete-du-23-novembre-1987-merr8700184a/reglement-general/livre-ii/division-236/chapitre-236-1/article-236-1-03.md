@@ -2,4 +2,4 @@
 
 Apparaux de levage
 
-Quand une grue est installée, les dispositions du paragraphe 2 de l'article 214-4.01 sont appliquées aux vedettes et substituées aux dispositions pertinentes du chapitre 214-3, quelle que soit leur taille.
+Quand une grue est installée, les dispositions du paragraphe 2 de l'article 214-4.01 sont appliquées aux navires et substituées aux dispositions pertinentes du chapitre 214-3, quelle que soit leur taille.

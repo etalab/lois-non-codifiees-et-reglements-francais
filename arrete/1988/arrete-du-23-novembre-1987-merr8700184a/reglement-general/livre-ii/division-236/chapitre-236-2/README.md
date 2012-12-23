@@ -1,4 +1,4 @@
-# Chapitre 236-2 : Vedettes d’une longueur égale ou supérieure à 12 mètres.
+# Chapitre 236-2 : Navires d’une longueur égale ou supérieure à 12 mètres.
 
 - [Article 236-2.01](article-236-2-01.md)
 - [Article 236-2.02](article-236-2-02.md)
@@ -12,3 +12,4 @@
 - [Article 236-2.10](article-236-2-10.md)
 - [Article 236-2.11](article-236-2-11.md)
 - [Article 236-2.12](article-236-2-12.md)
+- [Article 236-2.13](article-236-2-13.md)

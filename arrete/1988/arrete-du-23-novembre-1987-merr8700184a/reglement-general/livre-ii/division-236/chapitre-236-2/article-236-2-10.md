@@ -8,7 +8,7 @@ I - Pour l'application de l'article en référence, l'expression "du nombre tota
 
 II - Le paragraphe 2 du 1.1.3 est remplacé par :
 
-"2) la vedette doit en outre être dotée d'une embarcation annexe pneumatique ou semi-rigide motorisée d'une longueur égale ou supérieure à 3,5 m, gonflée en permanence et pouvant être mise à l'eau rapidement."
+"2) le navire doit en outre être doté d'une embarcation annexe pneumatique ou semi-rigide motorisée d'une longueur égale ou supérieure à 3,5 m, gonflée en permanence et pouvant être mise à l'eau rapidement."
 
 III - Ajouter un paragraphe :
 

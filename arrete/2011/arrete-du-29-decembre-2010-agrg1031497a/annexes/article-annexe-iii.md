@@ -1,9 +1,11 @@
 # Article Annexe III
 
-ORGANISMES AUTORISÉS À DÉLIVRER
+ORGANISMES AUTORISÉS À DÉLIVRER DES BAGUES DESTINÉES À L'IDENTIFICATION DES APPELANTS
 
-DES BAGUES DESTINÉES À L'IDENTIFICATION DES APPELANTS
+1° Aviornis ;
 
-Aviornis
+2° ANCGE (Association nationale des chasseurs de gibier d'eau) ;
 
-ANCGE (Association nationale des chasseurs de gibier d'eau) la fédération départementale des chasseurs du Pas-de-Calais.
+3° Fédération départementale des chasseurs du Pas-de-Calais ;
+
+4° Farago Indre.
