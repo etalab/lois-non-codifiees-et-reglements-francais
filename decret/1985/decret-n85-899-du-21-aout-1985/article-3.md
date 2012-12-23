@@ -4,7 +4,17 @@ Pour les personnels de la catégorie A visée à l'article 29 de la loi du 11 ja
 
 Toutefois, peuvent faire l'objet de la délégation prévue à l'article 1er ci-dessus :
 
-1° Les autorisations de cessation progressive d'activité instituée par l'ordonnance n° 82-297 du 31 mars 1982 modifiée portant modification de certaines dispositions du code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et des agents de l'Etat et des établissements publics de l'Etat à caractère administratif ;
+1° Pour le corps des infirmiers de l'éducation nationale et de l'enseignement supérieur régi par le
+décret n° 2012-762 du 9 mai 2012
+portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat :
+
+a) La nomination ;
+
+b) L'avancement de grade ;
+
+c) L'exercice du pouvoir disciplinaire ;
+
+d) La cessation de fonctions ;
 
 2° Pour le corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur régi par le décret n° 2006-1732 du 23 décembre 2006 :
 
@@ -24,9 +34,7 @@ d) Les décisions de radiation des cadres prononcées :
 
 -soit consécutivement à un abandon de poste.
 
-3° L'octroi du congé de fin d'activité créé par la loi n° 96-1093 du 16 décembre 1996 relative à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire ;
-
-4° Pour les personnels enseignants, d'éducation, d'information et d'orientation :
+3° Pour les personnels enseignants, d'éducation, d'information et d'orientation :
 
 a) Le détachement dans le cas prévu au a du 4° de l'article 14 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions de fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions pour exercer les fonctions d'attaché temporaire d'enseignement et de recherche ;
 
@@ -44,7 +52,7 @@ c) Les décisions de radiation des cadres prononcées :
 
 d) Les sanctions disciplinaires des premier et deuxième groupes de l'article 66 de la loi du 11 janvier 1984 susvisée et des 1°, 2° et 3° de l'article 10 du décret du 7 octobre 1994 susmentionné.
 
-5° Pour le corps des conseillers techniques de service social et le corps des médecins de l'éducation nationale, les décisions de radiation des cadres prononcées :
+4° Pour les membres du corps interministériel des conseillers techniques de service social des administrations de l'Etat régi par le décret n° 2012-1099 du 28 septembre 2012 portant statut particulier du corps interministériel des conseillers techniques de service social des administrations de l'Etat, affectés dans les services et établissements publics relevant des ministres de l'éducation nationale, de l'enseignement supérieur et de la recherche, et le corps des médecins de l'éducation nationale, les décisions de radiation des cadres prononcées :
 
 -soit consécutivement à une démission acceptée ;
 
@@ -54,7 +62,7 @@ d) Les sanctions disciplinaires des premier et deuxième groupes de l'article 66
 
 -soit consécutivement à un abandon de poste.
 
-6° Pour le corps des personnels de direction régis par le décret n° 2001-1174 du 11 décembre 2001 modifié portant statut particulier du corps des personnels de direction d'établissement d'enseignement ou de formation relevant du ministre de l'éducation nationale :
+5° Pour le corps des personnels de direction régis par le décret n° 2001-1174 du 11 décembre 2001 modifié portant statut particulier du corps des personnels de direction d'établissement d'enseignement ou de formation relevant du ministre de l'éducation nationale :
 
 a) La titularisation et le refus de titularisation ;
 
