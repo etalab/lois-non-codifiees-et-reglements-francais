@@ -618,7 +618,6 @@
 - [Arrêté du 8 juin 2012 (INTJ1224431A)](arrete-du-8-juin-2012-intj1224431a)
 - [Arrêté du 8 mars 2012 (AGRS1204826A)](arrete-du-8-mars-2012-agrs1204826a)
 - [Arrêté du 8 mars 2012 (AGRT1202865A)](arrete-du-8-mars-2012-agrt1202865a)
-- [Arrêté du 8 mars 2012 (AGRT1205030A)](arrete-du-8-mars-2012-agrt1205030a)
 - [Arrêté du 8 mars 2012 (DEFD1207126A)](arrete-du-8-mars-2012-defd1207126a)
 - [Arrêté du 8 mars 2012 (DEFH1207607A)](arrete-du-8-mars-2012-defh1207607a)
 - [Arrêté du 8 mars 2012 (DEVA1205599A)](arrete-du-8-mars-2012-deva1205599a)
