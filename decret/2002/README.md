@@ -20,6 +20,7 @@
 - [Décret n°2002-813 du 3 mai 2002 (INTA0200115D)](decret-n2002-813-du-3-mai-2002-inta0200115d)
 - [Décret n°2002-819 du 3 mai 2002 (INTC0200081D)](decret-n2002-819-du-3-mai-2002-intc0200081d)
 - [Décret n°2002-823 du 3 mai 2002 (INTB0200107D)](decret-n2002-823-du-3-mai-2002-intb0200107d)
+- [Décret n°2002-832 du 3 mai 2002 (DEFP0201594D)](decret-n2002-832-du-3-mai-2002-defp0201594d)
 - [Décret n°2002-858 du 3 mai 2002 (MCCT0200233D)](decret-n2002-858-du-3-mai-2002-mcct0200233d)
 - [Décret n°2002-866 du 3 mai 2002 (AGRA0200881D)](decret-n2002-866-du-3-mai-2002-agra0200881d)
 - [Décret n°2002-870 du 3 mai 2002 (FPPA0210022D)](decret-n2002-870-du-3-mai-2002-fppa0210022d)
