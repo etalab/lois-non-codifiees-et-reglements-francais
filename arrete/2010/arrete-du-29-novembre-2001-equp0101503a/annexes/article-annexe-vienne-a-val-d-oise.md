@@ -41,23 +41,23 @@ Direction départementale des territoires de la Haute-Vienne
 <tbody>
 <tr>
 <td colspan="4">
-<p align="center"> DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-VIENNE<br/>
+<p align="center">DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-VIENNE<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> FONCTIONS EXERCÉES</p>
+<p align="center">FONCTIONS EXERCÉES</p>
 </td>
 <td>
-<p align="center"> NIVEAU </p>
+<p align="center">NIVEAU </p>
 <p align="center">de qualification de l'emploi</p>
 </td>
 <td>
-<p align="center"> NOMBRE D'EMPLOIS</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">NOMBRE DE POINTS </p>
 <p align="center">(IM) par emploi</p>
 </td>
 </tr>
@@ -188,8 +188,22 @@ Direction départementale de l'équipement et de l'agriculture (1) du territoire
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
+<td>
 <p align="left">Responsable du domaine de la politique de la ville </p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">20 points</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p align="left">Chargé de mission politique sociale du logement </p>
 </td>
 <td rowspan="2">
 <p align="center">A</p>

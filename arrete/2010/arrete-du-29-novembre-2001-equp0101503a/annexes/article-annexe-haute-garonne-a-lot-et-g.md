@@ -439,6 +439,30 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
+<td>Chef du service aménagement habitat environnement et construction  </td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center">35 points</p>
+</td>
+</tr>
+<tr>
+<td>Chef du bureau habitat accessibilité bâtiment durable  </td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center">35 points</p>
+</td>
+</tr>
+<tr>
 <td valign="top">
 <p align="left">Adjoint au chef de la cellule quartiers existants</p>
 </td>
@@ -481,6 +505,42 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
+<td>Chargé de suivi du PDALPD et financement ANRU  </td>
+<td>
+<p align="center">B</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">25 points</p>
+</td>
+</tr>
+<tr>
+<td>Instructeur ANAH  </td>
+<td>
+<p align="center">B</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">25 points</p>
+</td>
+</tr>
+<tr>
+<td>Instructeur ANAH et gens du voyage/ habitat indigne  </td>
+<td>
+<p align="center">B</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">25 points</p>
+</td>
+</tr>
+<tr>
 <td valign="top">
 <p align="left">Suivi des contestations et des remises de dettes à la section départementale des aides publiques au logement </p>
 </td>
@@ -495,14 +555,40 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
+<td>
 <p align="left">Suivi des impayés de loyer à la section départementale des aides publiques au logement</p>
 </td>
+<td>
+<p align="center">C</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">15 points</p>
+</td>
+</tr>
+<tr>
+<td>Chargé du suivi de la commission de conciliation et conventionnement public <br/>
+</td>
+<td>
+<p align="center">C</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">15 points</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">Secrétaire du bureau habitat accessibilité bâtiment durable </td>
 <td rowspan="2">
 <p align="center">C</p>
 </td>
 <td rowspan="2">
 <p align="center">1</p>
+<br/>
 </td>
 <td rowspan="2">
 <p align="center">15 points</p>
