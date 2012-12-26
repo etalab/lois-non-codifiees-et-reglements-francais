@@ -853,7 +853,6 @@
 - [Arrêté du 11 août 2011 (ESRH1118813A)](arrete-du-11-aout-2011-esrh1118813a)
 - [Arrêté du 11 août 2011 (ESRH1120677A)](arrete-du-11-aout-2011-esrh1120677a)
 - [Arrêté du 11 août 2011 (ESRH1120805A)](arrete-du-11-aout-2011-esrh1120805a)
-- [Arrêté du 11 août 2011 (ETSD1120263A)](arrete-du-11-aout-2011-etsd1120263a)
 - [Arrêté du 11 août 2011 (ETSD1121787A)](arrete-du-11-aout-2011-etsd1121787a)
 - [Arrêté du 11 août 2011 (ETSO1118804A)](arrete-du-11-aout-2011-etso1118804a)
 - [Arrêté du 11 août 2011 (IOCC1117748A)](arrete-du-11-aout-2011-iocc1117748a)
