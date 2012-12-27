@@ -2,7 +2,7 @@
 
 Conformément au V de l'article 1er du décret du 27 juin 2006 susvisé, le débitant de tabac joint à sa demande d'aide à la sécurité, selon le cas :
 
-1° Les résultats de l'audit de sécurité mentionné aux II et III de l'article 1er du même décret, la facture relative à l'audit et l'attestation de la société ayant réalisé l'audit de sécurité ;
+1° Les résultats de l'étude de sécurité mentionné aux II et III de l'article 1er du même décret, la facture relative à l'étude et l'attestation de la société ayant réalisé l'étude de sécurité ;
 
 2° L'attestation de l'assureur, prévue au deuxième alinéa du III de l'article 1er du même décret, faisant expressément état des travaux de sécurité envisagés, assortie de la description des matériels de sécurité et leurs normes et critères ;
 
@@ -16,4 +16,6 @@ En fonction du montant des devis présentés, le directeur interrégional peut d
 
 6° Une attestation de son assureur précisant pour chaque matériel de sécurité le montant de l'indemnisation accordée, dans le cas prévu au VI de l'article 1er du même décret ;
 
-7° Un relevé d'identité bancaire ou postal.
+7° Un relevé d'identité bancaire ou postal ;
+
+8° Le numéro SIRET ainsi que le numéro NIR du demandeur.
