@@ -851,7 +851,7 @@ Plan de surveillance pour la viande de porc
 <p align="center">Organisation<br/>Producteurs ou<br/>Fournisseur de<br/>la certification</p>
 </td>
 <td width="171">
-<p align="center">1 contrôle/ an<br/>1 contrôle annuel spécifique à la<br/>partie fabrication à la ferme pour<br/>les éleveurs fafeurs</p>
+<p align="center">1 contrôle/an<br/>1 contrôle annuel spécifique à la<br/>partie fabrication à la ferme pour<br/>les éleveurs fafeurs</p>
 </td>
 <td width="262">
 <p>Contrôle des élevages Naisseurs-Engraisseurs et<br/>Engraisseurs qualifiés :<br/>10 % des élevages si moins de 100 élevages<br/>6 % du nombre des élevages au-delà de 100 avec<br/>un minimum de 5 élevages par organisation de<br/>producteur</p>
@@ -876,11 +876,8 @@ Plan de surveillance pour la viande de porc
 <p align="center">1 référencement des formules</p>
 </td>
 <td width="262">
-<p>UFA certifiées GBP AC :<br/>1 contrôle documentaire par sondage du respect des contraintes de formulation, par site de fabrication et par an</p>
-<p>Ne nécessite pas de déplacement sur site.</p>
-<p>L'organisme certificateur convient d'un rendez-vous téléphonique avec le fabricant d'aliment afin d'organiser la transmission sans délai des informations (formules ouvertes et journaux de dosages). En cas de non conformité avérée, l'organisme certificateur pourra procéder à un contrôle sur site.</p>
-<p>UFA non-certifiées GBP AC :</p>
-<p>1 audit/an des exigences explicites décrites dans le cahier des charges</p>
+<p>Pour les UFA certifiées GBP AC : un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC " (*). <br/>
+<br/>Pour les UFA non certifiées GBP AC : un audit/an des exigences explicites décrites dans le cahier des charges.</p>
 </td>
 </tr>
 <tr>
@@ -899,7 +896,7 @@ Plan de surveillance pour la viande de porc
 <p align="center">Fournisseur</p>
 </td>
 <td width="171">
-<p align="center">1 contrôle interne / an<br/>(Si non réalisé en interne, ajoute<br/>1 contrôle externe)</p>
+<p align="center">1 contrôle interne/an<br/>(Si non réalisé en interne, ajoute<br/>1 contrôle externe)</p>
 </td>
 <td width="262">
 <p align="center">2 contrôles annuels</p>
@@ -969,3 +966,5 @@ Plan de surveillance pour la viande de porc
 </tr>
 </tbody>
 </table>
+
+(*) Document consultable sur le site internet du CEPRAL.

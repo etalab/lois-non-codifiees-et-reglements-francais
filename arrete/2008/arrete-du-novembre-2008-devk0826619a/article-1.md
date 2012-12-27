@@ -70,4 +70,6 @@ Les opérations de restructuration de service listées ci-après ouvrent droit a
 
 33° Le transfert de services ou parties de services de navigation à l'établissement public Voies navigables de France créé par la loi n° 2012-77 du 24 janvier 2012 relative à Voies navigables de France ;
 
-34° Le rattachement des missions de police de la navigation et des missions d'instruction des titres de sécurité des bateaux et de conduite exercées par les services de navigation aux directions départementales des territoires concernées ainsi qu'à la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
+34° Le rattachement des missions de police de la navigation et des missions d'instruction des titres de sécurité des bateaux et de conduite exercées par les services de navigation aux directions départementales des territoires concernées ainsi qu'à la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France ;
+
+35° La transformation des ports de Fort-de-France, Dégrad-des-Cannes, Port-Réunion et Pointe-à-Pitre en grands ports maritimes.

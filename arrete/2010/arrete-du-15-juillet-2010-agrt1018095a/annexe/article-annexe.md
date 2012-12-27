@@ -446,21 +446,21 @@ Tableau récapitulatif des missions d'évaluation initiale interne et externe de
 <tbody>
 <tr>
 <td rowspan="2" valign="top" width="223">
-<p>STRUTURES MISES EN PLACE POUR LA MAITRISE INTERNE DE LA CERTIFICATION </p>
+<p align="center">STRUTURES MISES EN PLACE POUR LA MAITRISE INTERNE DE LA CERTIFICATION </p>
 </td>
 <td colspan="2" valign="top" width="235">
-<p>CONTRÔLE INTERNES</p>
+<p align="center">CONTRÔLE INTERNES</p>
 </td>
 <td rowspan="2" valign="top" width="222">
-<p>CONTRÔLE EXTERNES<br/>Fréquences d'intervention minimales de l'organisme certificateur</p>
+<p align="center">CONTRÔLE EXTERNES<br/>Fréquences d'intervention minimales de l'organisme certificateur</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="81">
-<p>Responsable du contrôle</p>
+<p align="center">Responsable du contrôle</p>
 </td>
 <td valign="top" width="154">
-<p>Fréquence de contrôle et d'audit</p>
+<p align="center">Fréquence de contrôle et d'audit</p>
 </td>
 </tr>
 <tr>
@@ -638,11 +638,15 @@ Tableau récapitulatif des missions d'évaluation initiale interne et externe de
 <p>Référencement des entreprises fabricants d'aliments composés et des fournisseurs d'aliments simples qui s'engagent auprès de l'organisme chargé de l'habilitation et du suivi d'élevage et transmission du listing des entreprises référencées à l'organisme certificateur. </p>
 </td>
 <td align="left" valign="top">
-<p>En cas de caractéristiques certifiées concernant l'alimentation : <br/>- un audit par an par l'organisme certificateur ; <br/>- si le fabricant est déjà audité dans le cadre du Guide des bonnes pratiques des fabricants d'aliments (ou une démarche équivalente), l'organisme certificateur ne réalise qu'un contrôle par an.</p>
+<p>En cas de caractéristiques certifiées concernant l'alimentation : <br/>
+<br/>Pour les UFA certifiées GBP AC : un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC (*)". <br/>
+<br/>Pour les UFA non certifiées GBP AC : un audit/ an des exigences explicites décrites dans le cahier des charges.</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+(*) Document consultable sur le site internet du CEPRAL.
 
 CONTROLES ANALYTIQUES
 

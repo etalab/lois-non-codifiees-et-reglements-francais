@@ -1499,31 +1499,18 @@ Plan de surveillance pour la viande de coche
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="top">
+<td align="left" valign="top">
 <br/>A détailler. </td>
-<td align="left" rowspan="3" valign="top">
+<td align="left" valign="top">
 <br/>Fabricants d'aliments industriels. </td>
-<td align="left" rowspan="3" valign="top">
+<td align="left" valign="top">
 <br/>Fournisseur de la certification (les fournisseurs d'aliments diffusent les évolutions aux bénéficiaires). </td>
-<td align="left" rowspan="3" valign="top">
+<td align="left" valign="top">
 <br/>1 référencement des formules. </td>
 <td align="left" valign="top">
-<br/>UFA certifiées GBP AC : <p>1 contrôle documentaire par sondage du respect des contraintes de formulation, par site de fabrication et par an.</p>
-<p>Ne nécessite pas de déplacement sur site.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">L'organisme certificateur convient d'un rendez-vous téléphonique avec le fabricant d'aliments afin d'organiser la transmission sans délai des informations (formules ouvertes et journaux de dosages). En cas de non-conformité avérée, l'organisme certificateur pourra procéder à un contrôle sur site.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">UFA non certifiées GBP AC :</p>
-<p align="left">1 audit/an des exigences explicites décrites dans le cahier des charges.<br/>
-</p>
+<br/>
+<p align="left">Pour les UFA certifiées GBP AC : un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC" (*). <br/>
+<br/>Pour les UFA non certifiées GBP AC : un audit/ an des exigences explicites décrites dans le cahier des charges. </p>
 </td>
 </tr>
 <tr>
@@ -1596,6 +1583,8 @@ Plan de surveillance pour la viande de coche
 </tr>
 </tbody>
 </table>
+
+(*) Document consultable sur le site internet du CEPRAL.
 
 Tableau des abréviations
 

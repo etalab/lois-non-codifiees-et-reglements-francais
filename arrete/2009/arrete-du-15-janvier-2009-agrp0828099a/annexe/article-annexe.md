@@ -25,7 +25,7 @@ Chaque cahier des charges décrit ses propres caractéristiques et les moyens de
 ― de l'ensemble des éléments retenus dans le cahier des charges.
 
 <font color="#808080" size="1">
-<em>(1) Voir in fine le tableau des abréviations. </em>
+<i>(1) Voir in fine le tableau des abréviations. </i>
 </font>
 
 Préambule
@@ -96,14 +96,18 @@ En raison de la nature du produit, dont la qualité finale dépend d'une success
 </td>
 <td rowspan="14" width="178">
 <br/>
+<br/>
 </td>
 <td rowspan="14" width="107">
+<br/>
 <br/>
 </td>
 <td rowspan="14" width="118">
 <br/>
+<br/>
 </td>
 <td rowspan="14" width="117">
+<br/>
 <br/>
 </td>
 </tr>
@@ -345,6 +349,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 </td>
 <td width="213">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -352,6 +357,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 <p align="center">Fournisseur</p>
 </td>
 <td rowspan="2" width="104">
+<br/>
 <br/>
 </td>
 <td rowspan="2" width="132">
@@ -493,6 +499,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 </td>
 <td rowspan="2" width="137">
 <br/>
+<br/>
 </td>
 <td valign="top" width="218">
 <p>Si le transport est assuré directement par l'opérateur, audit de la fonction transport par l'OC.</p>
@@ -524,7 +531,9 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 <p>Référencement des entreprises fabricants d'aliments composés et des fournisseurs d'aliments simples qui s'engagent auprès de l'organisme chargé de l'habilitation et du suivi d'élevage et transmission du listing des entreprises référencées à l'organisme certificateur.</p>
 </td>
 <td width="218">
-<p>- un audit par an par l'OC.</p>
+<p>Pour les UFA certifiées GBP AC : un contrôle par an par site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le " protocole de contrôle documentaire pour les usines certifiées GBP AC " (*). </p>
+<p>Pour les UFA non certifiées GBP AC : un audit par an des exigences explicites décrites dans le cahier des charges.</p>
+<p>(*) Document consultable sur le site internet du CEPRAL.</p>
 </td>
 </tr>
 <tr>
@@ -550,6 +559,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 </td>
 <td rowspan="3" width="137">
 <br/>
+<br/>
 </td>
 <td valign="top" width="218">
 <p>1 audit et 2 contrôles par site par an</p>
@@ -573,6 +583,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 <tr>
 <td rowspan="2" width="108">
 <br/>
+<br/>
 </td>
 <td rowspan="2" width="103">
 <p>- Grossistes</p>
@@ -581,6 +592,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 <p align="center">Fournisseur</p>
 </td>
 <td rowspan="2" width="137">
+<br/>
 <br/>
 </td>
 <td valign="top" width="218">
@@ -613,6 +625,7 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 </tr>
 <tr>
 <td width="108">
+<br/>
 <br/>
 </td>
 <td width="103">
@@ -656,11 +669,14 @@ PLAN DE SURVEILLANCE POUR LA VIANDE ET LES ABATS DE VEAU
 </td>
 <td width="180">
 <br/>
+<br/>
 </td>
 <td width="137">
 <br/>
+<br/>
 </td>
 <td width="218">
+<br/>
 <br/>
 </td>
 </tr>

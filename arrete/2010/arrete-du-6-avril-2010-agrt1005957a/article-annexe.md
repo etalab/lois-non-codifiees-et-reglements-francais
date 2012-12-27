@@ -1,6 +1,8 @@
 # Article Annexe
 
-EXIGENCES ET RECOMMANDATIONS APPLICABLES À LA CERTIFICATION DE CONFORMITÉ DES PRODUITS ISSUS DE L'AQUACULTURE
+EXIGENCES ET RECOMMANDATIONS APPLICABLES À LA CERTIFICATION
+
+DE CONFORMITÉ DES PRODUITS ISSUS DE L'AQUACULTURE
 
 (Art.R. 641-59 du code rural)
 
@@ -629,6 +631,8 @@ Tableau récapitulatif des missions d'évaluation initiale interne et externe de
 </tbody>
 </table>
 
+.
+
 <table>
 <tbody>
 <tr>
@@ -798,16 +802,14 @@ Tableau récapitulatif des missions d'évaluation initiale interne et externe de
 <p>Transmission du listing à jour à l'organisme certificateur</p>
 </td>
 <td valign="top" width="209">
-<p>CAS 1 : Caractéristique certifiée concernant une alimentation spécifique</p>
-<p>1 audit par an du fabricant d'aliment.</p>
-<p>Si le fabricant est certifié selon le GBP de la profession, seul un contrôle sur les éléments de formulation par an sera effectué.</p>
-<p>CAS 2 : Pas de caractéristique certifiée concernant une alimentation spécifique</p>
-<p>
-<i>√</i>N contrôles à effectuer (2) par an avec un minimum de 2 contrôles</p>
-<p>N étant le nombre d'entreprises référencées.</p>
-<p>Cas particulier: lorsqu'il n'y a qu'une seule entreprise, un minimum de 1 contrôle par an.</p>
-<p>Cet échantillonnage doit être complété par un</p>
-<p>plan d'analyses d'aliment réalisé en élevage</p>
+<p>CAS 1 : caractéristique certifiée concernant une alimentation spécifique : </p>
+<p>Pour les UFA certifiées GBP AC : un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC" (**). </p>
+<p>Pour les UFA non certifiées GBP AC : un audit/an des exigences explicites décrites dans le cahier des charges. </p>
+<p>CAS 2 : pas de caractéristique certifiée concernant une alimentation spécifique : </p>
+<p>N contrôles à effectuer (2) par an avec un minimum de deux contrôles. </p>
+<p>N étant le nombre d'entreprises référencées. </p>
+<p>Cas particulier : lorsqu'il n'y a qu'une seule entreprise, un minimum de 1 contrôle par an. <br/>Dans le cas où l'entreprise est certifiée GBP AC, le contrôle est réalisé selon les modalités de contrôle définies dans le " protocole de contrôle documentaire pour les usines certifiées GBP AC " (**). </p>
+<p>Cet échantillonnage doit être complété par un plan d'analyses d'aliment réalisé en élevage. </p>
 </td>
 </tr>
 <tr>
@@ -941,6 +943,7 @@ Tableau récapitulatif des missions d'évaluation initiale interne et externe de
 <tr>
 <td colspan="6" valign="top" width="630">
 <p>(*) Cf. conditions de recevabilité de cet allègement dans le document Conditions minimales de contrôle - Parties communes et généralités (chapitre 2 A in fine)</p>
+<p>(**) Document consultable sur le site internet du CEPRAL.</p>
 <p>(1) Le résultat de la racine carrée est arrondi à la valeur inférieure</p>
 <p>(2) Le résultat de la racine carrée est arrondi à la valeur inférieure</p>
 </td>
