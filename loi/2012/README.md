@@ -6,4 +6,5 @@
 - [LOI n°2012-1361 du 6 décembre 2012 (DEFX1236680L)](loi-n2012-1361-du-6-decembre-2012-defx1236680l)
 - [LOI n°2012-1404 du 17 décembre 2012 (EFIX1235628L)](loi-n2012-1404-du-17-decembre-2012-efix1235628l)
 - [LOI n°2012-1432 du 21 décembre 2012 (INTX1232040L)](loi-n2012-1432-du-21-decembre-2012-intx1232040l)
+- [LOI n°2012-1442 du 24 décembre 2012 (AFSX1240700L)](loi-n2012-1442-du-24-decembre-2012-afsx1240700l)
 - [LOI n°2012-958 du 16 août 2012 (EFIX1227267L)](loi-n2012-958-du-16-aout-2012-efix1227267l)

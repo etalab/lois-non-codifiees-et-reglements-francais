@@ -1,0 +1,3 @@
+# Article 4
+
+Le Gouvernement présente au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport relatif aux perturbateurs endocriniens. Ce rapport précise les conséquences sanitaires et environnementales de la présence croissante de perturbateurs endocriniens dans l'alimentation, dans l'environnement direct, dans les dispositifs médicaux et dans l'organisme humain. Il étudie, en particulier, l'opportunité d'interdire l'usage du di-(2-éthylhexyl) phtalate, du dibutyl phtalate et du butyl benzyl phtalate dans l'ensemble des dispositifs médicaux au regard des matériaux de substitution disponibles et de leur innocuité.
