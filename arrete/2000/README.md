@@ -150,7 +150,6 @@
 - [Arrêté du 28 juin 2000 (DEFD0001723A)](arrete-du-28-juin-2000-defd0001723a)
 - [Arrêté du 28 novembre 2000 (EQUS0001855A)](arrete-du-28-novembre-2000-equs0001855a)
 - [Arrêté du 29 décembre 2000 (ECOF0000035A)](arrete-du-29-decembre-2000-ecof0000035a)
-- [Arrêté du 29 juin 2000 (MCCB0000394A)](arrete-du-29-juin-2000-mccb0000394a)
 - [Arrêté du 29 novembre 2000 (EQUS0001901A)](arrete-du-29-novembre-2000-equs0001901a)
 - [Arrêté du 30 octobre 2000 (MESF0011417A)](arrete-du-30-octobre-2000-mesf0011417a)
 - [Arrêté du 31 août 2000 (ECOM9900121A)](arrete-du-31-aout-2000-ecom9900121a)
