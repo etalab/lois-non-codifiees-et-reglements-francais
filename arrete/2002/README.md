@@ -442,7 +442,6 @@
 - [Arrêté du 20 décembre 2002 (AGRP0202000A)](arrete-du-20-decembre-2002-agrp0202000a)
 - [Arrêté du 20 décembre 2002 (DEFP0202383A)](arrete-du-20-decembre-2002-defp0202383a)
 - [Arrêté du 20 décembre 2002 (DEFP0202385A)](arrete-du-20-decembre-2002-defp0202385a)
-- [Arrêté du 20 décembre 2002 (DEFP0202401A)](arrete-du-20-decembre-2002-defp0202401a)
 - [Arrêté du 20 décembre 2002 (DEFP0202411A)](arrete-du-20-decembre-2002-defp0202411a)
 - [Arrêté du 20 décembre 2002 (DEFP0202413A)](arrete-du-20-decembre-2002-defp0202413a)
 - [Arrêté du 20 décembre 2002 (INTE0200689A)](arrete-du-20-decembre-2002-inte0200689a)
