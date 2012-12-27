@@ -1,0 +1,7 @@
+# Article 1
+
+La fabrication, l'importation, l'exportation et la mise sur le marché à titre gratuit ou onéreux de tout conditionnement, contenant ou ustensile comportant du bisphénol A et destiné à entrer en contact direct avec des denrées alimentaires pour les nourrissons et enfants en bas âge, au sens des a et b de l'article 2 de la directive 2006/141/ CE de la Commission du 22 décembre 2006 concernant les préparations pour nourrissons et les préparations de suite et modifiant la directive 1999/21/ CE, sont suspendues à compter du premier jour du mois suivant la promulgation de la loi n° 2012-1442 du 24 décembre 2012 visant à la suspension de la fabrication, de l'importation, de l'exportation et de la mise sur le marché de tout conditionnement à vocation alimentaire contenant du bisphénol A, jusqu'à ce que le Gouvernement, après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, autorise la reprise de ces opérations.
+
+Cette suspension prend effet, dans les mêmes conditions, au 1er janvier 2015 pour tout autre conditionnement, contenant ou ustensile comportant du bisphénol A et destiné à entrer en contact direct avec des denrées alimentaires.
+
+Avant le 1er juillet 2014, le Gouvernement remet au Parlement un rapport évaluant les substituts possibles au bisphénol A pour ses applications industrielles au regard de leur éventuelle toxicité.
