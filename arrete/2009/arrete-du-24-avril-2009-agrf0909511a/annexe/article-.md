@@ -30,6 +30,8 @@ Stud-book du cheval Henson.
 
 Stud-book du cheval corse.
 
+Stud-book du cheval Auvergne.
+
 Livre généalogique des races étrangères de chevaux de selle
 
 Registre français du cheval Akhal-Téké de pur sang.
