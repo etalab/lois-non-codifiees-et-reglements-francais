@@ -2722,7 +2722,6 @@
 - [Arrêté du 27 mars 2009 (DEVK0902903A)](arrete-du-27-mars-2009-devk0902903a)
 - [Arrêté du 27 mars 2012 (AGRS1209035A)](arrete-du-27-mars-2012-agrs1209035a)
 - [Arrêté du 27 mars 2012 (AGRS1209096A)](arrete-du-27-mars-2012-agrs1209096a)
-- [Arrêté du 27 mars 2012 (AGRT1206949A)](arrete-du-27-mars-2012-agrt1206949a)
 - [Arrêté du 27 mars 2012 (AGRT1208338A)](arrete-du-27-mars-2012-agrt1208338a)
 - [Arrêté du 27 mars 2012 (BCRE1210298A)](arrete-du-27-mars-2012-bcre1210298a)
 - [Arrêté du 27 mars 2012 (BCRE1210299A)](arrete-du-27-mars-2012-bcre1210299a)
