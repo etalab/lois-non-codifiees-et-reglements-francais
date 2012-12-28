@@ -692,7 +692,6 @@
 - [Arrêté du 9 février 2012 (MENE1203968A)](arrete-du-9-fevrier-2012-mene1203968a)
 - [Arrêté du 9 février 2012 (MENE1203980A)](arrete-du-9-fevrier-2012-mene1203980a)
 - [Arrêté du 9 février 2012 (MENE1204036A)](arrete-du-9-fevrier-2012-mene1204036a)
-- [Arrêté du 9 janvier 2012 (DEFD1200703A)](arrete-du-9-janvier-2012-defd1200703a)
 - [Arrêté du 9 janvier 2012 (DEFK1202600A)](arrete-du-9-janvier-2012-defk1202600a)
 - [Arrêté du 9 janvier 2012 (DEFK1203053A)](arrete-du-9-janvier-2012-defk1203053a)
 - [Arrêté du 9 janvier 2012 (DEVT1135298A)](arrete-du-9-janvier-2012-devt1135298a)
