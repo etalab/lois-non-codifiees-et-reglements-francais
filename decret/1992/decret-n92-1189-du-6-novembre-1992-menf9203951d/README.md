@@ -5,6 +5,6 @@
 - [CHAPITRE IV : Notation, reclassement, avancement, mutation, discipline](chapitre-iv)
 - [CHAPITRE V : Obligations de service.](chapitre-v)
 - [CHAPITRE VI : Détachement.](chapitre-vi)
-- [CHAPITRE VII : Dispositions transitoires.](chapitre-vii)
+- [CHAPITRE VII : Dispositions diverses.](chapitre-vii)
 - [CHAPITRE VIII : Dispositions finales.](chapitre-viii)
 - [Article 41](article-41.md)
