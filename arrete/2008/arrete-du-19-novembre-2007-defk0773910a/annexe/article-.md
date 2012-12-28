@@ -1,14 +1,10 @@
 # Article 
 
-A N N E X E I
+ANNEXE I
 
-ÉPREUVES DES CONCOURS POUR L'ATTRIBUTION DU NIVEAU DE QUALIFICATION DE PRATICIEN
+ÉPREUVES DES CONCOURS POUR L'ATTRIBUTION DU NIVEAU DE QUALIFICATION DE PRATICIEN CONFIRMÉ EN RECHERCHE ET EN MÉDECINE D'ARMÉE
 
-CONFIRMÉ EN RECHERCHE ET EN MÉDECINE D'ARMÉE
-
-I. - Concours pour l'attribution du niveau de qualification
-
-de praticien confirmé en médecine d'armée
+I. - Concours pour l'attribution du niveau de qualification de praticien confirmé en médecine d'armée
 
 Les concours sont ouverts dans les disciplines de :
 
@@ -22,7 +18,9 @@ Les concours sont ouverts dans les disciplines de :
 
 ― médecine vétérinaire des armées ;
 
-― odontologie des armées.
+― odontologie des armées ;
+
+― systèmes d'information de santé et informations médicales .
 
 2.1. Techniques d'état major
 
@@ -58,7 +56,7 @@ Un entretien avec le jury (30 minutes maximum).
 
 Cette épreuve doit permettre, outre la présentation du candidat, d'évaluer les connaissances générales des candidats et leur réactivité.
 
-2.2. Médecine de la plongée, médecine aéronautique et spatiale, hygiène nucléaire
+2.2. Médecine de la plongée, médecine aéronautique et spatiale, hygiène nucléaire, systèmes d'information de santé et informations médicales
 
 2.2.1. Epreuves d'admissibilité
 
@@ -134,7 +132,7 @@ Cinquième épreuve (coefficient 6 ; durée : 3 heures) :
 
 a) Option santé animale : composition écrite de pathologie, prophylaxie et thérapeutique appliquées à la médecine vétérinaire en contexte militaire. Le candidat lit sa composition au jury. Cet exposé est suivi de quinze minutes de discussion avec le jury ;
 
-b)  Option hygiène alimentaire : composition écrite portant sur la sécurité sanitaire de l'eau et des denrées alimentaires en relation avec l'exercice vétérinaire au sein des armées. Le candidat lit sa composition devant le jury. Cet exposé est suivi de quinze minutes de discussion avec le jury.
+b) Option hygiène alimentaire : composition écrite portant sur la sécurité sanitaire de l'eau et des denrées alimentaires en relation avec l'exercice vétérinaire au sein des armées. Le candidat lit sa composition devant le jury. Cet exposé est suivi de quinze minutes de discussion avec le jury.
 
 2.4. Odontologie dans les armées
 
@@ -170,9 +168,7 @@ Etude de trois cas cliniques sur un dossier comportant tous les examens complém
 
 Les candidats disposent d'une heure de préparation et de trente minutes pour l'exposé, qui pourra être suivi d'une discussion avec le jury.
 
-II. - Concours pour l'attribution du niveau de qualification
-
-de praticien confirmé en recherche
+II. - Concours pour l'attribution du niveau de qualification de praticien confirmé en recherche
 
 Les concours sont ouverts dans les disciplines de :
 
@@ -210,11 +206,9 @@ Quatrième épreuve (coefficient 7) :
 
 Synthèse critique de documents d'actualité du domaine scientifique, en langue française ou anglaise. Les candidats disposent de cinq heures de préparation et de vingt minutes pour l'exposé, suivi d'une discussion avec le jury (recours possible aux supports modernes de présentation).
 
-A N N E X E I I
+ANNEXE II
 
-ÉPREUVES DES CONCOURS POUR L'ATTRIBUTION DU NIVEAU DE QUALIFICATION DE PRATICIEN
-
-CERTIFIÉ EN RECHERCHE ET EN MÉDECINE D'ARMÉE
+ÉPREUVES DES CONCOURS POUR L'ATTRIBUTION DU NIVEAU DE QUALIFICATION DE PRATICIEN CERTIFIÉ EN RECHERCHE ET EN MÉDECINE D'ARMÉE
 
 Les concours sont organisés par discipline ou par groupement de disciplines, selon deux épreuves de coefficient identique (coefficient 2).
 
@@ -248,17 +242,17 @@ Ce thème et/ou les directives du jury pour le traiter peuvent être différents
 
 Epreuve de pratique d'exercice à partir d'un thème ressortissant à la discipline (listes définies et diffusées par circulaire).
 
-Pour la discipline « hygiène nucléaire », le thème et/ou les directives du jury pour le traiter peuvent être différents pour les candidats médecins et les candidats pharmaciens.
+Pour la discipline hygiène nucléaire , le thème et/ou les directives du jury pour le traiter peuvent être différents pour les candidats médecins et les candidats pharmaciens.
 
-2.16. Systèmes d'information et de communication
+2.16. Systèmes d'information de santé et informations médicales.
 
-Epreuve de pratique de conduite de projet à partir d'une question relevant du domaine de l'informatique de gestion, sur un thème de conception et de réalisation d'un système d'information et de communication avec présentation des implications sur l'organisation du service de santé ou de ses établissements.
+Epreuve de pratique de conduite de projet à partir d'une question relevant du domaine de l'interopérabilité des systèmes d'information de santé et/ ou du domaine du traitement de l'information médicale, sur un thème de conception et de réalisation d'un système d'information avec présentation des implications sur l'organisation du service de santé ou de ses établissements.
 
-2.17. Médecine vétérinaire, option « santé animale »
+2.17. Médecine vétérinaire, option santé animale
 
 Epreuve de pratique d'exercice à partir d'une question portant sur une problématique clinique médico-chirurgicale ou de santé publique vétérinaire dans le cadre du soutien des forces.
 
-2.18. Médecine vétérinaire, option « hygiène des aliments »
+2.18. Médecine vétérinaire, option hygiène des aliments
 
 Epreuve de pratique d'exercice à partir d'une question portant sur l'hygiène des aliments et la restauration collective militaire.
 
@@ -268,9 +262,9 @@ L'exposé fait mention des implications médico-militaires d'expertise et de con
 
 Epreuve de pratique d'exercices à partir d'une question portant sur une problématique clinique d'odontologie dans le cadre du soutien des forces.
 
-A N N E X E I I I
+ANNEXE III
 
-ÉPREUVES DE « DOSSIER MILITAIRE - TITRES ET TRAVAUX SCIENTIFIQUES » DES CONCOURS POUR L'ATTRIBUTION DES NIVEAUX DE QUALIFICATION DE PRATICIEN CONFIRMÉ ET CERTIFIÉ EN RECHERCHE ET EN MÉDECINE D'ARMÉE
+ÉPREUVES DE " DOSSIER MILITAIRE - TITRES ET TRAVAUX SCIENTIFIQUES " DES CONCOURS POUR L'ATTRIBUTION DES NIVEAUX DE QUALIFICATION DE PRATICIEN CONFIRMÉ ET CERTIFIÉ EN RECHERCHE ET EN MÉDECINE D'ARMÉE
 
 1. Modalités pratiques
 
@@ -300,6 +294,192 @@ Le jury appréciera la qualité de la présentation faite par le candidat et de 
 
 La grille d'évaluation figurant ci-dessous sera utilisée par le jury afin d'évaluer les bulletins de notes, le mémoire présenté par le candidat (état de service, compte rendu d'expérience professionnelle, liste des titres civils et militaires acquis, liste des travaux scientifiques effectués et/ou publiés), l'exposé fait par le candidat et l'entretien avec ce dernier. Avant le début des épreuves d'admission, les nombres de points maximum pour chaque rubrique (titres et travaux, valorisation de l'expérience, avis du jury), chaque groupe d'items et chaque item seront déterminés par le président du jury en fonction du type de concours et de la discipline voir de l'option.
 
-Vous pouvez consulter le tableau dans le
-
-JOn° 29 du 03/02/2008 texte numéro 9
+<table>
+<tbody>
+<tr>
+<td rowspan="5" valign="top" width="227">
+<p>Titres et travaux </p>
+<p>Plafonné à ....pts </p>
+<p>(Suivant le type de concours, assistant des hôpitaux des armées, praticien confirmé ou la certifié, et discipline)</p>
+</td>
+<td valign="top" width="227">
+<p>Diplômes universitaires détenus <br/>plafonné à ... pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Travaux scientifiques ou techniques <br/>plafonné à … pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Autres diplômes ou certificats jugés utiles <br/>au Service plafonné à … pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Autre(s) <br/>plafonné à … pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Autre(s) plafonné à pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="454">
+<p>TOTAL /……….</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="227">
+<p>Valorisation de l'expérience </p>
+<p>Plafonné à ....pts </p>
+<p>(Suivant le type de concours, assistant des hôpitaux des armées, praticien confirmé ou certifié, et la discipline)</p>
+</td>
+<td valign="top" width="227">
+<p>Appréciations - Livret de praticien <br/>confirmé et/ou notation plafonné à … points</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Expérience professionnelle particulière :<br/>plafonné à … points</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Témoignages de satisfaction / lettres de félicitations / Citations/plafonné à ... pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Qualités pédagogiques, managériales et d'encadrement, notations plafonné à … pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Autre(s) plafonné à … pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Autre(s) plafonné à … pts</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="454">
+<p>TOTAL /……….</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="227">
+<p>Avis du jury </p>
+<p>Plafonné à ... pts </p>
+<p>(Suivant le type de concours, assistant des hôpitaux des armées, praticien confirmé ou certifié, et la discipline)</p>
+</td>
+<td valign="top" width="227">
+<p>Qualité de l'exposé et du document <br/>(plafonné … pts)</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Qualité de l'entretien (plafonné à … pts)</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="454">
+<p>TOTAL /……….</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="454">
+<p>TOTAL /200</p>
+</td>
+<td valign="top" width="227">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
