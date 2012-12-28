@@ -1,0 +1,3 @@
+# Article 7
+
+En cas de variations importantes de certains coûts susceptibles de modifier significativement le coût de revient d'articles inclus dans la liste mentionnée au I de l'article L. 410-5 du code de commerce, le représentant de l'Etat, sur demande des organisations professionnelles concernées et après avis de l'observatoire des prix, des marges et des revenus, peut, en cours d'année, ajuster le prix global de la liste, pour une durée qu'il fixe et qui ne peut aller au-delà du terme de l'accord en vigueur, afin de tenir compte des effets de ces variations. Un arrêté conjoint du ministre chargé de la consommation et du ministre chargé des outre-mer détermine le périmètre de la clause de sauvegarde, les références à prendre en compte et son seuil de déclenchement.
