@@ -1,6 +1,6 @@
 # Article 8
 
-L'assemblée générale des magistrats du siège de la cour d'appel dresse la liste des experts au cours de la première quinzaine du mois de novembre.
+L'assemblée générale des magistrats du siège de la cour d'appel dresse la liste des experts au cours de la première quinzaine du mois de novembre en tenant compte des besoins des juridictions de son ressort dans la spécialité sollicitée.
 
 Lorsque la cour comporte plus de trois chambres, l'assemblée générale peut se tenir en commission restreinte telle que prévue à l'article R. 761-46 du code de l'organisation judiciaire.
 
