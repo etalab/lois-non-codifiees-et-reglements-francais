@@ -787,6 +787,7 @@
 - [Décret n°95-452 du 25 avril 1995 (EQUP9500151D)](decret-n95-452-du-25-avril-1995-equp9500151d)
 - [Décret n°2009-1303 du 26 octobre 2009 (MEND0914374D)](decret-n2009-1303-du-26-octobre-2009-mend0914374d)
 - [Décret n°2011-1029 du 26 août 2011 (MENE1119958D)](decret-n2011-1029-du-26-aout-2011-mene1119958d)
+- [Décret n°2012-101 du 26 janvier 2012 (EFIT1111223D)](decret-n2012-101-du-26-janvier-2012-efit1111223d)
 - [Décret n°2012-1082 du 26 septembre 2012 (AGRT1203581D)](decret-n2012-1082-du-26-septembre-2012-agrt1203581d)
 - [Décret n°2012-1084 du 26 septembre 2012 (MCCK1230409D)](decret-n2012-1084-du-26-septembre-2012-mcck1230409d)
 - [Décret n°2012-1085 du 26 septembre 2012 (SPOR1230033D)](decret-n2012-1085-du-26-septembre-2012-spor1230033d)
