@@ -1,9 +1,9 @@
 # Article 321-1.06
 
-Essais d'autoextinguibilité
+Laboratoires agréés
 
-L'évaluation de l'autoextinguibilité des matériaux est effectuée selon :
+1. Les laboratoires agréés pour effectuer les essais définis par l'arrêté du 21 novembre 2002 sont listés dans l'arrêté du 5 février 1959 modifié portant agrément des laboratoires d'essais sur le comportement au feu des matériaux.
 
-1.1. la norme NF T 56-125. Les matériaux sont classés à la suite de cet essai en catégories A, B, C ou D. Un matériau est dit autoextinguible s'il est classé A, B ou C ; ou
+2. Les laboratoires agréés pour effectuer les essais d'autoextinguibilité visés à l'article 321-1.06 sont :
 
-1.2. la norme ISO 3582.
+2.1. Le Laboratoire national d'essais (LNE).

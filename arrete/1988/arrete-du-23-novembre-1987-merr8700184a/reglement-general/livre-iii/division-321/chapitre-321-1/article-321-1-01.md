@@ -1,9 +1,9 @@
 # Article 321-1.01
 
-Application. Définitions
+Application, définitions
 
-1. Le présent chapitre fixe les méthodes d'essai à utiliser en vue de l'approbation et, le cas échéant, du classement des matériaux utilisés à bord des navires au regard de leur réaction au feu et pour lesquels le règlement exige par ailleurs une approbation ou un classement, et dans la mesure où ils ne sont pas couvert par la division 311. Il porte agrément des laboratoires pour effectuer ces essais.
+1. Le présent chapitre fixe les conditions d'équivalence pour les produits de construction et d'aménagement lorsqu'ils ne sont pas approuvés conformément à la division 311, en vue de leur mise à bord des navires.
 
-2. Dans la suite du présent chapitre, le terme "arrêté du 30 juin 1983 tel que modifié" désigne l'arrêté du 30 juin 1983 du ministre de l'intérieur et de la décentralisation portant classification des matériaux de construction et d'aménagement selon leur réaction au feu et définition des méthodes d'essai, modifié par les arrêté du 28 août 1991 et du 27 novembre 1996.
+2. Dans la suite du présent chapitre, le terme : arrêté du 21 novembre 2002 désigne l'arrêté du 21 novembre 2002 relatif à la réaction au feu des produits de construction et d'aménagement.
 
-3. Aux fins du présent chapitre, les termes "inflammabilité" et "pouvoir propagateur de flamme" peuvent être considérés comme synonymes.
+3. Pour les produits de construction, au sens du décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à l'usage des produits de construction, classés conformément aux dispositions de l'annexe I de l'arrêté du 21 novembre 2002, les classes ainsi déterminées sont utilisées dans les conditions fixées par l'annexe 4 de l'arrêté du 21 novembre 2002 précité.
