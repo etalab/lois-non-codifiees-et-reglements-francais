@@ -9,5 +9,3 @@ Les instances nationales et locales qui ont ou se verront reconnaître une comp�
 Les instances publiques ayant un rôle important d'observation, d'expertise, de recherche, d'évaluation et de concertation en matière environnementale associeront, dans le cadre d'une gouvernance concertée, les parties prenantes au Grenelle de l'environnement et auront une approche multidisciplinaire.
 
 Les communes ou établissements publics de coopération intercommunale touchés par les contraintes d'urbanisme engendrées par la présence de sites à fort impact environnemental pourront bénéficier, avec leurs exploitants, de relations partenariales étroites pour l'aménagement de ces territoires.
-
-Les chambres consulaires, établissements publics administratifs de l'Etat qui ont un rôle consultatif et un rôle d'intervention en matière de développement durable, disposent d'un représentant pour les trois réseaux consulaires au sein du comité de développement durable et de suivi du Grenelle de l'environnement.
