@@ -410,7 +410,6 @@
 - [Arrêté du 6 avril 2012 (SPOV1210264A)](arrete-du-6-avril-2012-spov1210264a)
 - [Arrêté du 6 décembre 1995 (TASS9523413A)](arrete-du-6-decembre-1995-tass9523413a)
 - [Arrêté du 6 décembre 2010 (EFII1029053A)](arrete-du-6-decembre-2010-efii1029053a)
-- [Arrêté du 6 décembre 2011 (DEFH1133754A)](arrete-du-6-decembre-2011-defh1133754a)
 - [Arrêté du 6 décembre 2011 (EFIE1122438A)](arrete-du-6-decembre-2011-efie1122438a)
 - [Arrêté du 6 décembre 2012 (AFSA1241711A)](arrete-du-6-decembre-2012-afsa1241711a)
 - [Arrêté du 6 décembre 2012 (AFSH1207267A)](arrete-du-6-decembre-2012-afsh1207267a)
