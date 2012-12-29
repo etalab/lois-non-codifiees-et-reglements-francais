@@ -24,8 +24,6 @@ Arrêté du 28 juin 1994 modifiant l'arrêté du 5 novembre 1987 relatif aux con
 
 Arrêté du 4 août 1994 modifiant l'arrêté du 5 mai 1986 relatif au certificat de navigabilité restreint d'aéronef de collection ;
 
-Arrêté du 10 août 1994 modifiant l'arrêté du 25 février 1985 relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transport aérien (Performances) ;
-
 Arrêté du 13 septembre 1994 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (Personnel de conduite des aéronefs, à l'exception des essais et réception) ;
 
 Arrêté du 5 octobre 1994 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (Personnel de conduite des aéronefs, à l'exception des essais et réception) ;
@@ -37,5 +35,3 @@ Arrêté du 4 novembre 1994 modifiant l'arrêté du 23 octobre 1962 relatif au c
 Arrêté du 17 janvier 1995 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile (Personnel de conduite des aéronefs) ;
 
 Arrêté du 8 février 1995 modifiant l'arrêté du 5 novembre 1987 relatif aux conditions d'utilisation des avions exploités par une entreprise de transport aérien ;
-
-Arrêté du 18 avril 1995 modifiant l'arrêté du 25 février 1985 relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transport aérien (Evacuation sanitaire).

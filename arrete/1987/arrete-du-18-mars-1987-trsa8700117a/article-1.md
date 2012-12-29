@@ -4,8 +4,6 @@ Les dispositions des arrêtés, instructions et circulaire ci-après sont applic
 
 - arrêté et instruction du 24 novembre 1983 relatifs aux masses et centrages des aéronefs exploités par les entreprises de transport aérien ;
 
-- arrêté du 25 février 1985 relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transport aérien ;
-
 - arrêté du 12 mars 1985 fixant le programme d'instruction et le régime de l'examen pour l'obtention de la qualification de vol de nuit Avion ;
 
 - arrêté du 12 mars 1985 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile ;
@@ -38,7 +36,7 @@ Les dispositions des arrêtés, instructions et circulaire ci-après sont applic
 
 - instruction du 21 janvier 1986 relative à la formation des pilotes non professionnels d'avion au largage de parachutistes ;
 
--   instruction du 21 janvier 1986 relative à la formation des pilotes non professionnels d'avion au remorquage de planeur ;
+- instruction du 21 janvier 1986 relative à la formation des pilotes non professionnels d'avion au remorquage de planeur ;
 
 - arrêté du 3 juin 1986 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile ;
 

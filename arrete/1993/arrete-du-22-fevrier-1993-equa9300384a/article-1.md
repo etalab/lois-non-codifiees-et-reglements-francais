@@ -76,8 +76,6 @@ Arrêté du 12 janvier 1993 modifiant l'arrêté du 5 novembre 1987 relatif aux 
 
 Arrêté du 12 janvier 1993 modifiant l'arrêté du 5 novembre 1987 modifié relatif aux conditions d'utilisation des avions exploités par une entreprise de transports aériens ;
 
-Arrêté du 12 janvier 1993 modifiant l'arrêté du 25 février 1985 modifié relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transports aériens ;
-
 Arrêté du 12 janvier 1993 modifiant l'arrêté du 24 juillet 1991 relatif aux conditions d'utilisation des aéronefs civils en aviation générale ;
 
 Arrêté du 12 janvier 1993 abrogeant diverses dispositions relatives à l'entretien et à l'aptitude en vol des aéronefs.

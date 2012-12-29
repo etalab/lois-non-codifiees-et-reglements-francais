@@ -46,8 +46,6 @@ Arrêté du 13 mars 1989 relatif au largage de parachutistes par des pilotes non
 
 Arrêté du 31 mars 1989 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile ;
 
-Arrêté du 5 avril 1989 modifiant l'arrêté du 25 février 1985 relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transport aérien ;
-
 Arrêté du 10 avril 1989 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile ;
 
 Arrêté du 11 mai 1989 modifiant l'arrêté du 5 novembre 1984 relatif au programme et au régime des examens pour l'obtention du brevet et de la licence de pilote professionnel Avion ;

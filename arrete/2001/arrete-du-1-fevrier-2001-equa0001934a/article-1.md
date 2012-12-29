@@ -14,8 +14,6 @@ Les dispositions des arrêtés ci-après sont applicables dans les territoires d
 
 - arrêté du 26 février 1998 modifiant l'arrêté du 5 novembre 1984 modifié fixant les programmes et les régimes d'examens pour l'obtention de divers certificats aéronautiques ;
 
-- arrêté du 24 mars 1998 modifiant l'arrêté du 25 février 1985 relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transport aérien ;
-
 - arrêté du 24 juin 1998 relatif au programme et au régime de l'examen pour l'obtention du brevet et de la licence de pilote de ballon libre ;
 
 - arrêté du 13 juillet 1998 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile (personnel de conduite des aéronefs) ;
@@ -31,8 +29,6 @@ Les dispositions des arrêtés ci-après sont applicables dans les territoires d
 - arrêté du 27 octobre 1998 modifiant l'arrêté du 5 novembre 1987 relatif aux conditions d'utilisation des avions exploités par une entreprise de transport aérien et l'arrêté du 24 juillet 1991 relatif aux conditions d'utilisation des aéronefs civils en aviation générale ;
 
 - arrêté du 20 novembre 1998 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile (personnel de conduite des aéronefs) ;
-
-- arrêté du 11 décembre 1998 modifiant l'arrêté du 25 février 1985 modifié relatif aux conditions d'utilisation des hélicoptères exploités par une entreprise de transport aérien et relatif aux conditions d'utilisation des hélicoptères Robinson R 22 (RH 22) et R 44 (RH 44) ;
 
 - arrêté du 11 février 1999 modifiant l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (personnel de conduite des aéronefs) et l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (personnel de conduite des aéronefs, à l'exception du personnel des essais et réception) et relatif à la qualification de type des hélicoptères Robinson R 44 (RH 44) ;
 
