@@ -3,5 +3,4 @@
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : AVANCEMENT.](titre-ii)
 - [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
-- [TITRE IV : DISPOSITIONS TRANSITOIRES.](titre-iv)
 - [Article 26](article-26.md)
