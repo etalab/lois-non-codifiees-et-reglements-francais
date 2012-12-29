@@ -1,34 +1,16 @@
 # Article Annexe I
 
-**POSTES D'INSPECTION FRONTALIERS**
+POSTES D'INSPECTION FRONTALIERS
 
 <table>
 <tbody>
 <tr>
-<th>
-<p align="center">NOM <br/>
-</p>
-</th>
-<th>
-<p align="center">CODE TRACES <br/>
-</p>
-</th>
-<th>
-<p align="center">TYPE <br/>
-</p>
-</th>
-<th>
-<p align="center">CENTRE D'INSPECTION <br/>
-</p>
-</th>
-<th>
-<p align="center">PRODUITS <br/>
-</p>
-</th>
-<th>
-<p align="center">ANIMAUX VIVANTS <br/>
-</p>
-</th>
+<td align="center"> NOM </td>
+<td align="center"> CODE TRACES </td>
+<td align="center"> TYPE </td>
+<td align="center"> CENTRE D'INSPECTION </td>
+<td align="center"> PRODUITS </td>
+<td align="center"> ANIMAUX VIVANTS </td>
 </tr>
 <tr>
 <td align="center">
@@ -126,14 +108,12 @@
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="2">
 <p align="left">Dunkerque <br/>
 </p>
 </td>
-<td align="center">FR DKK 1 <br/>
-</td>
-<td align="center">Port <br/>
-</td>
+<td align="center" rowspan="2">FR DKK 1</td>
+<td align="center" rowspan="2">Port</td>
 <td align="center">Caraïbes <br/>
 </td>
 <td align="center">
@@ -145,13 +125,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="center">Maison Blanche <br/>
 </p>
@@ -165,17 +138,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Le Havre <br/>
-</p>
+<td align="center" rowspan="4">
+<p align="left">Le Havre </p>
 </td>
-<td align="center">
-<p align="center">FR LEH 1 <br/>
-</p>
+<td align="center" rowspan="4">
+<p align="center">FR LEH 1</p>
 </td>
-<td align="center">
-<p align="center">Port <br/>
-</p>
+<td align="center" rowspan="4">
+<p align="center">Port</p>
 </td>
 <td align="center">
 <p align="center">Route des Marais <br/>
@@ -190,13 +160,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="center">Dugrand <br/>
 </p>
@@ -210,13 +173,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="center">EFBS</p>
 </td>
@@ -229,13 +185,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="center">Fécamp <br/>
 </p>
@@ -298,16 +247,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="2">
 <p align="left">Marseille Port </p>
 </td>
-<td align="center">
-<p align="center">FR MRS 1 <br/>
-</p>
+<td align="center" rowspan="2">
+<p align="center">FR MRS 1</p>
 </td>
-<td align="center">
-<p align="center">Port <br/>
-</p>
+<td align="center" rowspan="2">
+<p align="center">Port</p>
 </td>
 <td align="center">
 <p align="center">Hangar 14 <br/>
@@ -318,13 +265,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">Hangar 23<br/>
 </td>
 <td align="center">
@@ -471,14 +411,11 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Roissy-Charles-de-Gaulle <br/>
-</p>
+<td align="center" rowspan="3">
+<p align="left">Roissy-Charles-de-Gaulle</p>
 </td>
-<td align="center">FR CDG 4 <br/>
-</td>
-<td align="center">Aéroport <br/>
-</td>
+<td align="center" rowspan="3">FR CDG 4</td>
+<td align="center" rowspan="3">Aéroport</td>
 <td align="center">Air France <br/>
 </td>
 <td align="center">
@@ -490,13 +427,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="center">France Handling <br/>
 </p>
@@ -510,13 +440,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="center">Station animalière (b) <br/>
 </p>
@@ -554,10 +477,11 @@
 </td>
 <td align="center">Port <br/>
 </td>
-<td align="center">Frontignan <br/>
+<td align="center">
+<br/>
 </td>
 <td align="center">
-<p align="left">HC-T (1), HC-NT <br/>
+<p align="left">HC (1) (2), NHC-NT<br/>
 </p>
 </td>
 <td align="center">
@@ -612,15 +536,15 @@
 <p align="left">T (FR) = Produits congelés. </p>
 <p align="left">T (CH) = Produits réfrigérés. </p>
 <p align="left">U = Ongulés : les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages. </p>
-<p align="left">E = Equidés enregistrés au sens de la directive 90/426/ CEE. </p>
+<p align="left">E = Equidés enregistrés au sens de la directive 90/426/CEE. </p>
 <p align="left">O = Autres animaux (y compris animaux de zoo). </p>
-<p align="left">(1) Contrôles dans les conditions de la décision 93/352/ CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/ CE du Conseil. </p>
+<p align="left">(1) Contrôles dans les conditions de la décision 93/352/CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil. </p>
 <p align="left">(2) Produits emballés uniquement. </p>
 <p align="left">(3) Produits de la pêche uniquement. </p>
 <p align="left">(4) Uniquement protéines animales. </p>
 <p align="left">(6) Graisses, huiles et huiles de poisson liquides uniquement.</p>
 <p align="left">(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
-<p align="left">b) Cette autorisation est valable jusqu'au 31 décembre 2012. </p>
+<p align="left">b) Cette autorisation est valable jusqu'au 1er septembre 2013. </p>
 <p align="left">c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
 <p align="left">(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
 </p>

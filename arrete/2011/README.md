@@ -1924,7 +1924,6 @@
 - [Arrêté du 21 octobre 2011 (SPOV1129010A)](arrete-du-21-octobre-2011-spov1129010a)
 - [Arrêté du 21 septembre 2011 (AGRT1124270A)](arrete-du-21-septembre-2011-agrt1124270a)
 - [Arrêté du 21 septembre 2011 (DEVD1119026A)](arrete-du-21-septembre-2011-devd1119026a)
-- [Arrêté du 21 septembre 2011 (DEVD1119029A)](arrete-du-21-septembre-2011-devd1119029a)
 - [Arrêté du 21 septembre 2011 (EFIS1125540A)](arrete-du-21-septembre-2011-efis1125540a)
 - [Arrêté du 21 septembre 2011 (EFIS1125542A)](arrete-du-21-septembre-2011-efis1125542a)
 - [Arrêté du 21 septembre 2011 (IOCV1119566A)](arrete-du-21-septembre-2011-iocv1119566a)
