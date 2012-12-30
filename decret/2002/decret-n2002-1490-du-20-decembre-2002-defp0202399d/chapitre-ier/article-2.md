@@ -2,7 +2,7 @@
 
 Les militaires infirmiers et techniciens des hôpitaux des armées sont constitués en corps de militaires de carrière dont la hiérarchie particulière ne comporte pas d'assimilation avec la hiérarchie militaire générale, sous réserve des dispositions des articles 10, 12-2, 12-4, 12-6 et 12-8.
 
-La hiérarchie des grades et échelons ainsi que l'échelonnement indiciaire sont ceux qui sont en vigueur à la date du 14 décembre 2007.
+La hiérarchie des grades et échelons ainsi que l'échelonnement indiciaire sont ceux qui sont en vigueur à la date du 19 juin 2009.
 
 Dans le corps de la fonction publique hospitalière désigné comme corps homologue dans le tableau ci-après :
 
@@ -130,10 +130,10 @@ Dans le corps de la fonction publique hospitalière désigné comme corps homolo
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>15. Corps des aides-soignants.</p>
+<p align="left">15. Corps des aides-soignants et des agents des services hospitaliers qualifiés.</p>
 </td>
 <td valign="top" width="340">
-<p>Corps des aides-soignants. </p>
+<p>Corps des aides-soignants et des agents des services hospitaliers qualifiés.</p>
 </td>
 </tr>
 <tr>
