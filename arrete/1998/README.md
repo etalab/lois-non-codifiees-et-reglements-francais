@@ -385,8 +385,6 @@
 - [Arrêté du 14 avril 1998 (AGRG9800681A)](arrete-du-14-avril-1998-agrg9800681a)
 - [Arrêté du 14 avril 1998 (ECOL9800065A)](arrete-du-14-avril-1998-ecol9800065a)
 - [Arrêté du 14 décembre 1998 (AGRP9802380A)](arrete-du-14-decembre-1998-agrp9802380a)
-- [Arrêté du 14 décembre 1998 (AGRS9802453A)](arrete-du-14-decembre-1998-agrs9802453a)
-- [Arrêté du 14 décembre 1998 (AGRS9802454A)](arrete-du-14-decembre-1998-agrs9802454a)
 - [Arrêté du 14 décembre 1998 (JUSC9820520A)](arrete-du-14-decembre-1998-jusc9820520a)
 - [Arrêté du 14 décembre 1998 (MESH9823969A)](arrete-du-14-decembre-1998-mesh9823969a)
 - [Arrêté du 14 décembre 1998 (MESH9823970A)](arrete-du-14-decembre-1998-mesh9823970a)
