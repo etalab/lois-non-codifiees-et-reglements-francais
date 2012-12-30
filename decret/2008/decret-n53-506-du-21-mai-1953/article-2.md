@@ -18,11 +18,15 @@ g) Classe G correspondant à 1 200 points de retraite ;
 
 h) Classe H correspondant à 1 500 points de retraite.
 
-La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans des conditions fixées par les statuts prévus à l'article 5, son revenu professionnel net provenant de son activité libérale.
+La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans des conditions fixées par les statuts prévus à l'article 5, son revenu d'activité tel que défini à l'article L. 131-6 du code de la sécurité sociale.
+
+En cas de cumul de l'activité libérale et salariée, les cotisations afférentes au présent régime sont appelées dans les conditions prévues à l'alinéa précédent, sans pouvoir être inférieures à la cotisation en classe C. (1)
 
 Les adhérents peuvent toutefois opter, dans les conditions prévues auxdits statuts, pour la classe immédiatement supérieure à celle qui correspond à leur revenu.
 
 Les experts-comptables salariés inscrits à l'ordre des experts-comptables sont tenus de cotiser en classe C. Toutefois, ils ont la faculté d'opter chaque année pour la classe immédiatement supérieure.
+
+En cas de passage d'une activité salariée à une activité libérale, l'adhérent a la possibilité de maintenir sa cotisation en classe C ou D. Il est maintenu dans sa classe d'option pour les deux premières années civiles d'exercice de l'activité libérale. A défaut, il est inscrit d'office en classe A pour cette même période. (1)
 
 Le montant des cotisations est fixé par décret sur proposition du conseil d'administration de la section professionnelle.
 

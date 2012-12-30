@@ -4,7 +4,7 @@ Le régime d'assurance vieillesse complémentaire institué par le présent déc
 
 a) Une cotisation forfaitaire portant attribution de 8 points de retraite ;
 
-b) Une cotisation proportionnelle assise sur les revenus professionnels non salariés retenus pour le calcul de la cotisation du régime de base ; l'assiette de cette cotisation est comprise entre un minimum et un maximum.
+b) Une cotisation proportionnelle assise   sur les revenus d'activité retenus pour le calcul de la cotisation du régime de base ; l'assiette de cette cotisation est comprise entre un minimum et un maximum.
 
 Le versement de la cotisation proportionnelle porte attribution, annuellement, d'un nombre de points supplémentaires, obtenu en divisant le montant de cette cotisation par le coût d'acquisition d'un point de retraite, attribué au titre de la cotisation forfaitaire, dans la limite de 22 points.
 

@@ -2,7 +2,7 @@
 
 La cotisation prévue à l'article 1er est répartie en trois fractions affectées à la couverture des prestations de l'invalidité temporaire, des prestations de l'invalidité totale et définitive et des prestations allouées en cas de décès de l'assuré au conjoint survivant et aux enfants à charge.
 
-La cotisation afférente au risque invalidité totale temporaire et invalidité totale et définitive est répartie en trois classes forfaitaires établies en fonction des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième, troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, par référence au plafond annuel prévu à l'article L. 241-3 du code de la sécurité sociale en vigueur au 1er janvier de l'année au titre de laquelle la cotisation est appelée :
+La cotisation afférente au risque invalidité totale temporaire et invalidité totale et définitive est répartie en trois classes forfaitaires établies en fonction des revenus d'activité de l'avant-dernière année définis à l'article L. 131-6 du code de la sécurité sociale, par référence au plafond annuel prévu à l'article L. 241-3 du code de la sécurité sociale en vigueur au 1er janvier de l'année au titre de laquelle la cotisation est appelée :
 
 Classe A : revenus inférieurs au plafond ;
 
