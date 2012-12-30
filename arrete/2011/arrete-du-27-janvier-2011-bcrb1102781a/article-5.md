@@ -1,5 +1,0 @@
-# Article 5
-
-L'autorité chargée du contrôle financier des programmes mentionnés à l'article 1er auprès des services centraux du ministère du travail, de l'emploi et de la santé siège au comité en la personne du contrôleur budgétaire et comptable ministériel ou de son représentant. Dans ce cadre, elle dispose d'un pouvoir suspensif sur les actes, projets d'actes ou de décisions examinés par le comité.
-
-A compter de la date d'entrée en vigueur du présent arrêté, pour les actes dont les projets ont fait l'objet d'un examen par le comité, le visa de l'autorité chargée du contrôle financier est réputé donné dès lors que cette autorité n'a pas exercé son pouvoir suspensif ou différé sa décision dans l'attente d'éléments d'appréciation complémentaires. Dans ce dernier cas, le visa est considéré comme donné si l'autorité n'a pas décidé une suspension ou demandé un nouveau différé dans le délai de quinze jours à compter de la communication des éléments attendus. En cas d'exercice du pouvoir suspensif, le visa est réputé refusé et la procédure prévue au premier alinéa de l'article 13 du décret du 27 janvier 2005 susvisé s'applique.

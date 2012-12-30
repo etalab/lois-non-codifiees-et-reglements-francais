@@ -2463,7 +2463,6 @@
 - [Arrêté du 27 décembre 2011 (ETSS1134614A)](arrete-du-27-decembre-2011-etss1134614a)
 - [Arrêté du 27 décembre 2011 (ETSS1135515A)](arrete-du-27-decembre-2011-etss1135515a)
 - [Arrêté du 27 décembre 2011 (MCCB1132815A)](arrete-du-27-decembre-2011-mccb1132815a)
-- [Arrêté du 27 janvier 2011 (BCRB1102781A)](arrete-du-27-janvier-2011-bcrb1102781a)
 - [Arrêté du 27 janvier 2011 (DEVR1102072A)](arrete-du-27-janvier-2011-devr1102072a)
 - [Arrêté du 27 janvier 2011 (DEVR1102089A)](arrete-du-27-janvier-2011-devr1102089a)
 - [Arrêté du 27 janvier 2011 (EFIK1100012A)](arrete-du-27-janvier-2011-efik1100012a)
