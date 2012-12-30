@@ -12,9 +12,7 @@ Les personnels appartenant aux corps des services déconcentrés des ministères
 
 b) (Abrogé)
 
-3. Corps communs aux services déconcentrés et à l'administration centrale :
-
--assistants d'administration de l'aviation civile ;
+3. (supprimé)
 
 Les personnels appartenant aux corps communs aux services déconcentrés et à l'administration centrale des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
