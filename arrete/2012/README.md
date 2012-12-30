@@ -3292,6 +3292,7 @@
 - [Arrêté du 1er novembre 2011 (ETSO1135710A)](arrete-du-1er-novembre-2011-etso1135710a)
 - [Arrêté du 1er septembre 2011 (BCRE1123881A)](arrete-du-1er-septembre-2011-bcre1123881a)
 - [Arrêté du 1er août 2012 (AFSP1229187A)](arrete-du-1er-aout-2012-afsp1229187a)
+- [Arrêté du 1er août 2012 (AGRG1228993A)](arrete-du-1er-aout-2012-agrg1228993a)
 - [Arrêté du 1er août 2012 (BUDE1231690A)](arrete-du-1er-aout-2012-bude1231690a)
 - [Arrêté du 1er août 2012 (CPTX1231180A)](arrete-du-1er-aout-2012-cptx1231180a)
 - [Arrêté du 1er août 2012 (DEFH1225279A)](arrete-du-1er-aout-2012-defh1225279a)
