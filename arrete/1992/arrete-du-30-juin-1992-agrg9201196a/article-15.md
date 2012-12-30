@@ -1,3 +1,0 @@
-# Article 15
-
-Les arrêtés du 16 février 1971 modifié par arrêté du 28 juillet 1971 relatif à l'identification par tatouage des animaux de l'espèce canine, du 16 juillet 1975 modifié par arrêté du 29 août 1979 relatif aux dispositions relatives à l'identification des chiens par tatouage et à la vente des chiens et des chats, du 2 octobre 1975, du 15 février 1979 concernant l'identification des chiens obligatoirement vaccinés contre la rage, du 12 août 1981 relatif à l'identification par tatouage des animaux de l'espèce canine, du 22 avril 1988 relatif à l'identification par tatouage des animaux de l'espèce féline et du 25 avril 1988 relatif à l'agrément d'un organisme chargé de gérer le fichier national félin sont abrogés.

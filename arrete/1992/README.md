@@ -963,7 +963,6 @@
 - [Arrêté du 30 janvier 1992 (MENN9200291A)](arrete-du-30-janvier-1992-menn9200291a)
 - [Arrêté du 30 juillet 1992 (INTE9200367A)](arrete-du-30-juillet-1992-inte9200367a)
 - [Arrêté du 30 juin 1992 (ACVC9200045A)](arrete-du-30-juin-1992-acvc9200045a)
-- [Arrêté du 30 juin 1992 (AGRG9201196A)](arrete-du-30-juin-1992-agrg9201196a)
 - [Arrêté du 30 juin 1992 (AGRG9201197A)](arrete-du-30-juin-1992-agrg9201197a)
 - [Arrêté du 30 juin 1992 (EQUS9201031A)](arrete-du-30-juin-1992-equs9201031a)
 - [Arrêté du 30 juin 1992 (INDM9200552A)](arrete-du-30-juin-1992-indm9200552a)
