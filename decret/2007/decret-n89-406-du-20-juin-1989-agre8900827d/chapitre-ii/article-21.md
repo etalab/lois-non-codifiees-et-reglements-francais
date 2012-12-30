@@ -4,7 +4,7 @@ Dans la limite du neuvième du nombre de recrutements prononcés l'année préc�
 
 a) Etre titulaire d'une licence ou d'un titre ou diplôme équivalent ;
 
-b) Etre âgé de quarante ans au moins au 1er janvier de l'année au titre de laquelle la liste est établie ;
+b) (Supprimé) ;
 
 c) Avoir accompli pour au moins un demi-service dix ans de service d'enseignement, dont cinq en qualité de contractuel dans l'enseignement agricole privé.
 
