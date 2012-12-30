@@ -12,14 +12,10 @@ Toutefois, les grades des corps figurant dans le tableau ci-après prennent les 
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">
-<strong>CORPS</strong>
-</p>
+<p align="center">CORPS</p>
 </td>
 <td align="left" colspan="3" valign="middle">
-<p align="center">
-<strong>SECRETAIRE ADMINISTRATIF</strong>
-</p>
+<p align="center">SECRETAIRE ADMINISTRATIF</p>
 </td>
 </tr>
 <tr>
@@ -34,20 +30,6 @@ Toutefois, les grades des corps figurant dans le tableau ci-après prennent les 
 </td>
 <td align="left" valign="middle">
 <p align="center">de classe exceptionnelle</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">Assistant d'administration de l'aviation civile</p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Assistant d'administration de l'aviation civile de classe normale</p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Assistant d'administration de l'aviation civile de classe supérieure</p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Assistant d'administration de l'aviation civile de classe exceptionnelle </p>
 </td>
 </tr>
 <tr>
