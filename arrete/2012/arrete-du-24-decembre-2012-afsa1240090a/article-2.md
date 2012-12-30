@@ -1,0 +1,3 @@
+# Article 2
+
+Le montant global affecté au financement de la prestation d'aide à la restauration scolaire dans la collectivité départementale de Mayotte et prévu au dernier alinéa de l'article 5 de l'arrêté du 18 juillet 2005 susvisé est fixé, pour l'année 2012, à un montant maximal de dix millions deux cent vingt-neuf mille trois cent soixante-quatre euros (10 229 364 €) déterminé eu égard au montant des contributions unitaires fixé à l'article 1er du présent arrêté, au nombre d'élèves ayant bénéficié l'année scolaire précédente d'une collation ou ayant eu recours au service de restauration scolaire et à un nombre maximal de 175 journées de prise en charge.

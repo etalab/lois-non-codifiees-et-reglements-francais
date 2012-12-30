@@ -1,0 +1,13 @@
+# Article 1
+
+I. ― Le conseil d'administration du syndicat interhospitalier délibère sur la transformation du syndicat en un groupement de coopération sanitaire ou en un groupement d'intérêt public. Il adopte un projet de convention constitutive conforme aux dispositions des articles L. 6133-3 et suivants du code de la santé publique ou des articles 98 et suivants de la loi du 17 mai 2011 susvisée. En cas de transformation en groupement d'intérêt public, il désigne, le cas échéant, un ou plusieurs établissements membres comme cessionnaires des autorisations d'activités de soins dont le syndicat est titulaire.
+
+Sauf dans le cas où le conseil d'administration a opté pour la transformation du syndicat en groupement de coopération sanitaire érigé en établissement public de santé, l'autorité investie du pouvoir de nomination dresse la liste des fonctionnaires employés par le syndicat interhospitalier et propose leur recrutement dans les établissements membres relevant de l'article 2 de la loi du 9 janvier 1986 susvisée, après consultation des instances représentatives du personnel du syndicat et de celles des établissements. Ces personnels sont recrutés par ces établissements et mis de droit à disposition du groupement dès lors que celui-ci prend en charge les activités exercées antérieurement par le syndicat interhospitalier.
+
+Dans le cas où le conseil d'administration a opté pour la transformation du syndicat en groupement de coopération sanitaire érigé en établissement public de santé, les personnels antérieurement affectés restent affectés de plein droit au nouvel établissement public. Leur situation administrative demeure inchangée.
+
+II. ― L'établissement membre qui n'approuve pas les modalités de transformation définies au I peut se retirer du syndicat interhospitalier avant leur mise en œuvre, dans les conditions prévues à l'article L. 6132-6 du code précité dans sa rédaction antérieure à l'entrée en vigueur de la loi du 21 juillet 2009 susvisée.
+
+III. ― La transformation en groupement de coopération sanitaire prend effet à compter de la date de publication de l'acte d'approbation de la convention constitutive signée par les établissements parties, dans les conditions prévues à l'article R. 6133-1-1 du même code.
+
+La transformation en groupement d'intérêt public prend effet à compter de la publication de l'arrêté d'approbation de la convention constitutive signée par les établissements parties, dans les conditions prévues à l'article 4 du décret du 26 janvier 2012 susvisé, sous réserve, lorsque la cession d'une autorisation d'activités de soins est nécessaire, que celle-ci ait fait au préalable l'objet d'une décision confirmative dans les conditions prévues à l'article R. 6122-35 du même code.

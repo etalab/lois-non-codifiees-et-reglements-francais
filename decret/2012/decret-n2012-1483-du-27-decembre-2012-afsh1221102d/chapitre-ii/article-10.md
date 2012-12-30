@@ -1,0 +1,3 @@
+# Article 10
+
+Tout fonctionnaire dont la situation n'a pas été réglée dans les conditions prévues au deuxième alinéa du I de l'article 1er avant la date de la transformation du syndicat en groupement de coopération sanitaire ou en groupement d'intérêt public, ou de sa dissolution d'office, est recruté à compter de cette date par un établissement membre du syndicat relevant de l'article 2 de la loi du 9 janvier 1986 susvisée désigné par le directeur général de l'agence régionale de santé. Il est mis de droit à disposition du groupement dès lors que celui-ci prend en charge les activités exercées antérieurement par le syndicat interhospitalier.

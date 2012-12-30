@@ -1,0 +1,3 @@
+# Article 3
+
+Le groupement d'intérêt public issu de la transformation du syndicat interhospitalier demeure propriétaire des biens meubles et immeubles du syndicat et titulaire de l'ensemble de ses droits et obligations échus ou à échoir et notamment des autorisations d'installation d'équipements matériels lourds mentionnées à l'article L. 6122-1 du code de la santé publique, à l'exclusion des autorisations d'activités de soins, qui doivent être cédées dans les conditions prévues au premier alinéa du I de l'article 1er, et de l'autorisation de disposer d'une pharmacie à usage intérieur mentionnée à l'article L. 5126-7 du même code, qui devient caduque.
