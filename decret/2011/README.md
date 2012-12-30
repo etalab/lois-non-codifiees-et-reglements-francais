@@ -851,7 +851,6 @@
 - [Décret n°2011-2007 du 28 décembre 2011 (AGRT1132967D)](decret-n2011-2007-du-28-decembre-2011-agrt1132967d)
 - [Décret n°2011-2022 du 28 décembre 2011 (JUSD1129138D)](decret-n2011-2022-du-28-decembre-2011-jusd1129138d)
 - [Décret n°2011-2035 du 28 décembre 2011 (BCRS1132843D)](decret-n2011-2035-du-28-decembre-2011-bcrs1132843d)
-- [Décret n°2011-2040 du 28 décembre 2011 (SCSA1132384D)](decret-n2011-2040-du-28-decembre-2011-scsa1132384d)
 - [Décret n°2011-2043 du 28 décembre 2011 (OMEO1134083D)](decret-n2011-2043-du-28-decembre-2011-omeo1134083d)
 - [Décret n°2011-2045 du 28 décembre 2011 (TRAT1119364D)](decret-n2011-2045-du-28-decembre-2011-trat1119364d)
 - [Décret n°2011-475 du 28 avril 2011 (MCCB1105634D)](decret-n2011-475-du-28-avril-2011-mccb1105634d)

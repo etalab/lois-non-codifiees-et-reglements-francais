@@ -1,0 +1,3 @@
+# Article 8
+
+Les adjoints techniques chefs, les adjoints techniques principaux et les adjoints techniques sont chargés, sous l'autorité du chef d'établissement et, le cas échéant, sous celle des ingénieurs, de l'élaboration de projets de travaux neufs et d'entretien et de la conduite de travaux. Ils peuvent être investis de fonctions d'encadrement de personnels ou de la gestion technique d'un service ou d'une partie de service dont l'importance ne justifie pas la présence d'un ingénieur. Ils peuvent également être chargés du fonctionnement, de l'entretien et de la maintenance de certains matériels de haute technicité.
