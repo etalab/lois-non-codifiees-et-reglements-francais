@@ -2,7 +2,7 @@
 
 Une nouvelle bonification indiciaire dont le montant est pris en compte et soumis à cotisation pour le calcul de la pension de retraite est attribuée mensuellement, à raison de leurs fonctions, aux fonctionnaires hospitaliers ci-dessous mentionnés :
 
-1° Infirmiers ou infirmiers en soins généraux dans les deux premiers grades du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière régi par le  décret n° 2010-1139 du 29 septembre 2010, exerçant leurs fonctions, à titre exclusif, dans les blocs opératoires : 13 points majorés ;
+1° Infirmiers ou infirmiers en soins généraux dans les deux premiers grades du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière régi par le décret n° 2010-1139 du 29 septembre 2010, exerçant leurs fonctions, à titre exclusif, dans les blocs opératoires : 13 points majorés ;
 
 2° Infirmiers ou infirmiers en soins généraux dans les deux premiers grades du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière régi par le décret n° 2010-1139 du 29 septembre 2010, exerçant leurs fonctions, à titre exclusif, dans le domaine de l'électrophysiologie, de la circulation extra-corporelle ou de l'hémodialyse : 13 points majorés ;
 
@@ -18,7 +18,7 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 7° Personnels sociaux, éducatifs ou paramédicaux, exerçant les fonctions de responsable de pouponnière : 13 points majorés ;
 
-8° Techniciens supérieurs encadrant au moins deux secteurs spécialisés d'un service technique ou exerçant leurs fonctions en génie thermique, ou à titre exclusif, dans le domaine biomédical :
+8° Techniciens supérieurs hospitaliers de 2e et 1re classe encadrant au moins deux secteurs spécialisés d'un service technique ou exerçant leurs fonctions en génie thermique, ou à titre exclusif, dans le domaine biomédical :
 
 25 points majorés ;
 

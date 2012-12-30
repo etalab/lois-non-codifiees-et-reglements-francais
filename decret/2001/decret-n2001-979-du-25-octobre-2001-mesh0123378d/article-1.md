@@ -8,6 +8,6 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 25 points majorés ;
 
-3. Techniciens supérieurs encadrant au moins cinq personnes :
+3. Techniciens et techniciens supérieurs hospitaliers encadrant au moins cinq personnes :
 
 15 points majorés.

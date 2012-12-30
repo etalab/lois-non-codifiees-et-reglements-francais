@@ -16,7 +16,7 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 5° Directeur des soins, directeur d'institut de formation préparant au diplôme d'Etat d'ergothérapeute : 30 points majorés ;
 
-6° Agents nommés dans un des grades du corps des agents-chefs, ayant la responsabilité d'un secteur global d'activité et encadrant au moins deux agents appartenant au corps des contremaîtres :
+6° Agents nommés dans l'un des grades du corps des techniciens et techniciens supérieurs hospitaliers, ayant la responsabilité d'un secteur global d'activité et encadrant au moins deux agents appartenant au corps des agents de maîtrise :
 
 13 points majorés ;
 
