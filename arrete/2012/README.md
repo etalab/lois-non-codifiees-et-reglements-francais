@@ -2524,7 +2524,6 @@
 - [Arrêté du 26 décembre 2011 (BCRB1134801A)](arrete-du-26-decembre-2011-bcrb1134801a)
 - [Arrêté du 26 décembre 2011 (BCRE1131101A)](arrete-du-26-decembre-2011-bcre1131101a)
 - [Arrêté du 26 décembre 2011 (COTB1132568A)](arrete-du-26-decembre-2011-cotb1132568a)
-- [Arrêté du 26 décembre 2011 (DEVL1129121A)](arrete-du-26-decembre-2011-devl1129121a)
 - [Arrêté du 26 décembre 2011 (DEVL1133433A)](arrete-du-26-decembre-2011-devl1133433a)
 - [Arrêté du 26 décembre 2011 (DEVR1132344A)](arrete-du-26-decembre-2011-devr1132344a)
 - [Arrêté du 26 décembre 2011 (ESRH1135075A)](arrete-du-26-decembre-2011-esrh1135075a)
