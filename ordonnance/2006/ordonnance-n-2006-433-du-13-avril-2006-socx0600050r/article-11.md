@@ -1,5 +1,0 @@
-# Article 11
-
-Tout employeur mentionné à l'article 2 qui procède au licenciement pour motif économique d'un salarié sans lui proposer le bénéfice d'un contrat de transition professionnelle acquitte une contribution égale à un mois du salaire moyen perçu par le salarié au cours des douze mois précédant le licenciement et aux cotisations sociales patronales afférentes. Cette contribution est recouvrée et contrôlée par les organismes chargés du recouvrement mentionnés à l' article L. 351-21 du code du travail, pour le compte de la filiale de l'organisme mentionné à l'article 2 de la présente ordonnance selon les règles applicables aux contributions mentionnées à l'article L. 351-3-1 du même code. Les différends relatifs au recouvrement de ces contributions suivent les règles de compétence prévues à l'article L. 351-5-1 du même code.
-
-Le salarié à qui l'employeur aurait dû proposer le bénéfice du contrat de transition professionnelle peut conclure directement un tel contrat avec la filiale de l'organisme mentionné à l'article 2.
