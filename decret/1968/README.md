@@ -12,7 +12,6 @@
 - [Décret n°68-134 du 9 février 1968](decret-n68-134-du-9-fevrier-1968)
 - [Décret n°68-976 du 9 novembre 1968](decret-n68-976-du-9-novembre-1968)
 - [Décret n°68-977 du 9 novembre 1968](decret-n68-977-du-9-novembre-1968)
-- [Décret n°68-140 du 10 février 1968](decret-n68-140-du-10-fevrier-1968)
 - [Décret n°68-657 du 10 juillet 1968](decret-n68-657-du-10-juillet-1968)
 - [Décret n°68-803 du 10 septembre 1968](decret-n68-803-du-10-septembre-1968)
 - [Décret n°68-884 du 10 octobre 1968](decret-n68-884-du-10-octobre-1968)
