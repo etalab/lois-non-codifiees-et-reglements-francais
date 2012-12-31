@@ -8,7 +8,7 @@ a) Neuf membres nommés sur proposition des organisations professionnelles repr�
 
 - un membre sur proposition de la Fédération française des pétroliers indépendants ;
 
-- un membre sur proposition de la Fédération française des combustibles et carburants ;
+- un membre sur proposition de la Fédération française des combustibles, carburants et chauffage ;
 
 - un membre sur proposition de l'Union des importateurs indépendants pétroliers ;
 

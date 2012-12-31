@@ -6,13 +6,13 @@ Il fixe notamment :
 
 a) Les règles d'organisation et de fonctionnement du comité ;
 
-b) Les règles selon lesquelles est déterminée la rémunération des services rendus par le comité conformément au dernier alinéa du II de l'article 3 de la loi du 31 décembre 1992 susvisée ;
+b) Les règles selon lesquelles est déterminée la rémunération des services rendus par le comité conformément au dernier alinéa de l'article L. 642-6 du code de l'énergie ;
 
-c) Le montant des cautions mentionnées au b du I et au b du III de l'article 4 de la loi du 31 décembre 1992 susvisée ;
+c) Le montant des cautions mentionnées au 2° de l'article L. 642-7 et au 2° de l'article L. 642-9 du code de l'énergie ;
 
-d) Les règles de rémunération des services rendus au comité par les prestataires de service mentionnés au I de l'article 3 de la loi du 31 décembre 1992 susvisée ;
+d) Les règles de rémunération des services rendus au comité par les prestataires de service mentionnés à l'article L. 642-5 du code de l'énergie ;
 
-e) La composition et les conditions de cession de ses stocks.
+e) La composition et les conditions de cession des stocks constitués selon les modalités fixées à l'article 9.
 
 Le conseil d'administration arrête le budget du comité chaque année au moins un mois avant le début de l'exercice suivant.
 
