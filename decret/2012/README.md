@@ -483,6 +483,7 @@
 - [Décret n°2012-879 du 16 juillet 2012 (MCCE1220651D)](decret-n2012-879-du-16-juillet-2012-mcce1220651d)
 - [Décret n°2012-880 du 16 juillet 2012 (ESRS1221771D)](decret-n2012-880-du-16-juillet-2012-esrs1221771d)
 - [Décret n°2012-959 du 16 août 2012 (BUDB1231009D)](decret-n2012-959-du-16-aout-2012-budb1231009d)
+- [Décret n°2004-592 du 17 juin 2004 (MENF0400776D)](decret-n2004-592-du-17-juin-2004-menf0400776d)
 - [Décret n°2007-1360 du 17 septembre 2007 (ECEP0762182D)](decret-n2007-1360-du-17-septembre-2007-ecep0762182d)
 - [Décret n°2012-1058 du 17 septembre 2012 (DEVK1223573D)](decret-n2012-1058-du-17-septembre-2012-devk1223573d)
 - [Décret n°2012-1059 du 17 septembre 2012 (DEFH1227166D)](decret-n2012-1059-du-17-septembre-2012-defh1227166d)
