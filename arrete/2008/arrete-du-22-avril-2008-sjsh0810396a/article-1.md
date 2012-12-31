@@ -322,6 +322,8 @@ Hôpital local de Saint-Méen-le-Grand (Ille-et-Vilaine) ;
 
 Hôpital local de Cancale (Ille-et-Vilaine) ;
 
+Centre hospitalier des Marches de Bretagne, à Antrain (Ille-et-Vilaine) ;
+
 Hôpital local de Valençay (Indre) ;
 
 Hôpital local de Buzançais (Indre) ;
@@ -831,6 +833,8 @@ Centre de gérontologie Les Abondances, à Boulogne-Billancourt (Hauts-de-Seine)
 Centre hospitalier de Carnelle, à Saint-Martin-du-Tertre (Val-d'Oise) ;
 
 Hôpital Le Parc, à Taverny (Val-d'Oise) ;
+
+Groupement hospitalier intercommunal du Vexin, à Marines (Val-d'Oise) ;
 
 Hôpital local de Montfort-l'Amaury (Yvelines) ;
 

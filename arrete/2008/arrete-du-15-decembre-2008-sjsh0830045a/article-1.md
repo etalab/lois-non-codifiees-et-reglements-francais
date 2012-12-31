@@ -140,8 +140,6 @@ Etablissement d'hébergement pour personnes âgées, à Argent-sur-Sauldre (Cher
 
 Etablissement d'hébergement pour personnes âgées, à La Guerche-sur-l'Aubois (Cher) ;
 
-Etablissement d'hébergement pour personnes âgées, à Henrichemont (Cher) ;
-
 Etablissement d'hébergement pour personnes âgées, à Lignières (Cher) ;
 
 Etablissement d'hébergement pour personnes âgées, au Châtelet-en-Berry (Cher) ;
@@ -215,8 +213,6 @@ Maison de retraite, à Quissac (Gard) ;
 Maison de retraite, à Saint-Gilles (Gard) ;
 
 Etablissement d'hébergement pour personnes âgées, à Génolhac (Gard) ;
-
-Etablissement d'hébergement pour personnes âgées, à Rieumes (Haute-Garonne) ;
 
 Maison d'enfants Le Ramel, à Toulouse (Haute-Garonne) ;
 
@@ -778,7 +774,7 @@ Etablissement d'hébergement pour personnes âgées, à Doudeville (Seine-Mariti
 
 Etablissement d'hébergement pour personnes âgées, à Envermeu (Seine-Maritime) ;
 
-Maison de retraite, à Maromme (Seine-Maritime) ;
+Foyer d'hébergement, à Maromme (Seine-Maritime) ;
 
 Maison de retraite, à Montivilliers (Seine-Maritime) ;
 
@@ -878,8 +874,6 @@ Maison de retraite, à Piolenc (Vaucluse) ;
 
 Etablissement d'hébergement pour personnes âgées, à Sablet (Vaucluse) ;
 
-Maison de retraite, à Sainte-Cécile-les-Vignes (Vaucluse) ;
-
 Etablissement d'hébergement pour personnes âgées, à Sarrians (Vaucluse) ;
 
 Maison de retraite, à Bedoin (Vaucluse) ;
@@ -936,8 +930,6 @@ Maison de retraite, à Liffol-le-Grand (Vosges) ;
 
 Etablissement d'hébergement pour personnes âgées, à Plombières-les-Bains (Vosges) ;
 
-Etablissement d'hébergement pour personnes âgées, au Val-d'Ajol (Vosges) ;
-
 Institut médico-éducatif, à Darney (Vosges) ;
 
 Foyer d'hébergement pour adultes handicapés, à Neufchâteau (Vosges) ;
@@ -947,10 +939,6 @@ Maison d'accueil spécialisée, à Thaon-les-Vosges (Vosges) ;
 Etablissement d'hébergement pour personnes âgées, à Thizy (Yonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Chablis (Yonne) ;
-
-Maison de retraite, à Coulanges-sur-Yonne (Yonne) ;
-
-Etablissement d'hébergement pour personnes âgées, à Courson-les-Carrières (Yonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Noyers-sur-Serein (Yonne) ;
 

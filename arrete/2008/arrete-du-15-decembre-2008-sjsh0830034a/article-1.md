@@ -204,8 +204,6 @@ Centre hospitalier, à Loos (Nord) ;
 
 Centre hospitalier intercommunal, à Wasquehal (Nord) ;
 
-Etablissement public départemental, à Lille (Nord) ;
-
 Institut Vancauwenberghe, à Zuydcoote (Nord) ;
 
 Centre départemental de l'enfance et de la famille, à Beauvais (Oise) ;
@@ -284,8 +282,6 @@ Centre hospitalier, à Déville-lès-Rouen (Seine-Maritime) ;
 
 Centre hospitalier du Bois Petit, à Sotteville-lès-Rouen (Seine-Maritime) ;
 
-Institut départemental de l'enfance, de la famille et du handicap pour l'insertion, à Canteleu (Seine-Maritime) ;
-
 Hôpital local intercommunal, à Jouarre-la-Ferté (Seine-et-Marne) ;
 
 Centre départemental de l'enfance et de la famille, à Bobigny (Seine-Saint-Denis) ;
@@ -308,8 +304,6 @@ Centre hospitalier, à Ham (Somme) ;
 
 Centre hospitalier, à Gaillac (Tarn) ;
 
-Centre hospitalier du Vexin, à Magny-en-Vexin (Val-d'Oise) ;
-
 Centre hospitalier de Carnelle, à Saint-Martin-du-Tertre (Val-d'Oise) ;
 
 Hôpital Le Parc, à Taverny (Val-d'Oise) ;
@@ -317,10 +311,6 @@ Hôpital Le Parc, à Taverny (Val-d'Oise) ;
 Etablissement d'hébergement pour personnes âgées, à Saint-Maur-des-Fossés (Val-de-Marne) ;
 
 Institut Le Val Mandé, à Saint-Mandé (Val-de-Marne) ;
-
-Fondation Favier, à Bry-sur-Marne (Val-de-Marne) ;
-
-Maison de retraite intercommunale, à Fontenay-sous-Bois (Val-de-Marne) ;
 
 Hôpital local départemental, au Luc-en-Provence (Var) ;
 
