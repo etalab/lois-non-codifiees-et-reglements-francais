@@ -16,7 +16,7 @@ Pour les véhicules commandés au plus tard le 31 décembre 2011, dont le taux d
 
 b) Une copie du certificat d'immatriculation du véhicule ou, à compter de l'entrée en vigueur du nouveau système d'immatriculation des véhicules, du certificat provisoire d'immatriculation.
 
-c) Pour les voitures particulières affectées à la démonstration, une copie du certificat de première immatriculation en France pour les véhicules précédemment affectés à la démonstration en France ou, pour les véhicules de démonstration acquis à l'étranger, tout document permettant d'établir la preuve qu'il s'agit d'un véhicule précédemment utilisé comme véhicule de démonstration répondant aux caractéristiques d'usage des véhicules de démonstration tels que définis au 4. D de l'article 4 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules.
+c) Pour les voitures particulières affectées à la démonstration, une copie du certificat de première immatriculation en France pour les véhicules précédemment affectés à la démonstration en France ou, pour les véhicules de démonstration acquis à l'étranger, tout document du constructeur, importateur, concessionnaire ou agent de marque attestant que le véhicule a été affecté, pour une durée de trois mois minimum et un an maximum, à des opérations de présentation et d'essai auprès de leur clientèle.
 
 5° En cas de demande d'une aide majorée en application de l'article 4 du décret du 26 décembre 2007 susvisé, les pièces suivantes concernant le véhicule retiré de la circulation à des fins de destruction :
 
