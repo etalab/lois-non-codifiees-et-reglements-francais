@@ -9,17 +9,17 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <table>
 <tbody>
 <tr>
-<th>
-<br/>A. ― IMPOSITION <p>ou ressource affectée <br/>
+<td>
+<p align="center">A. ― IMPOSITION ou ressource affectée </p>
+</td>
+<td>
+<p align="center">B. ― PERSONNE affectataire <br/>
 </p>
-</th>
-<th>
-<br/>B. ― PERSONNE <p>affectataire <br/>
+</td>
+<td>
+<p align="center">C. ―PLAFOND <br/>
 </p>
-</th>
-<th>
-<br/>C. ― PLAFOND <br/>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -67,8 +67,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </tr>
 <tr>
 <td align="center">
-<br/>Article 43 de la loi <p>de finances pour 2000 (n° 99-1172 du 30 décembre 1999) <br/>
-</p>
+<br/>Article 43 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999) <br/>
 </td>
 <td align="center">
 <br/>Agence nationale pour la gestion des déchets radioactifs (ANDRA) <br/>
@@ -152,6 +151,17 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </td>
 <td align="center">
 <br/>9 000 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Article 1609 nonies G du code général des impôts</p>
+</td>
+<td>
+<p align="center">Caisse de garantie du logement locatif social </p>
+</td>
+<td>
+<p align="center">120 000</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +386,8 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </tr>
 <tr>
 <td align="center">
-<br/>C de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
+<p>C de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie, de l'orfèvrerie et des arts de la table (Francéclat) <br/>
