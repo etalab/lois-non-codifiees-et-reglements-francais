@@ -1,0 +1,5 @@
+# Article 12 ter
+
+Lorsque des stocks spécifiques sont mélangés à d'autres stocks pétroliers, tout déplacement de ces stocks spécifiques est soumis à autorisation écrite préalable du propriétaire des stocks spécifiques et du ministère chargé des hydrocarbures (direction générale de l'énergie et du climat). Si les stocks spécifiques appartiennent à la SAGESS, l'autorisation écrite préalable de la SAGESS suffit.
+
+Tout contrat ayant trait à la gestion de stocks spécifiques doit intégrer un article traduisant l'obligation de moyens du prestataire à faire en sorte que l'exécution des actions de gestion des stocks spécifiques ne puisse être ni entravée ni soumise à conditions non préalablement établies qui empêcheraient la bonne exécution de ces actions, hors cas de force majeure. La force majeure s'entend de tout acte, événement, situation de droit ou de fait, extérieurs aux Parties impliquées par le contrat, présentant à la fois un caractère imprévisible, irrésistible et insurmontable, et empêchant l'exécution du contrat.

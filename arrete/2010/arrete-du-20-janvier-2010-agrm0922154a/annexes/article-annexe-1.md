@@ -4,21 +4,7 @@
 
 Aux fins du présent point, on entend par trémail un engin constitué d'au moins deux nappes de filets accrochées ensemble et en parallèle à une seule ralingue et maintenu verticalement dans l'eau.
 
-2. Il est permis d'utiliser :
-
-― des filets maillants dont le maillage est supérieur ou égal à 120 mm et inférieur à 150 mm dans les zones CIEM III a, IV a, V b, VI a, VI b, VII b, c, j, k et XII à l'est du 27° Ouest,
-
-― des filets maillants dont le maillage est supérieur ou égal à 100 mm et inférieur à 130 mm dans les zones CIEM VIII a, b, d et X ;
-
-― des filets maillants dont le maillage est supérieur ou égal à 80 mm et inférieur à 110 mm dans les zones CIEM VIII c et IX,
-
-à condition qu'ils soient déployés dans des eaux dont la profondeur indiquée sur les cartes est inférieure à 600 mètres, que leur profondeur ne soit pas supérieure à 100 mailles, que leur rapport d'armement ne soit pas inférieur à 0,5 et qu'ils soient équipés de flotteurs ou d'un équipement de flottaison similaire. Les filets ont chacun une longueur maximale de cinq milles marins et la longueur totale de l'ensemble des filets déployés simultanément n'est pas supérieure à 25 kilomètres par navire. La durée d'immersion maximale est de 24 heures.
-
-3. Il est permis d'utiliser :
-
-― des filets emmêlants dont le maillage est supérieur ou égal à 250 mm dans les zones CIEM III a, IV a, V b, VI a, VI b, VII b, c, j, k, VIII, IX, X et XII à l'est du 27° Ouest,
-
-à condition qu'ils soient déployés dans des eaux dont la profondeur indiquée sur les cartes est inférieure à 600 mètres, que leur profondeur ne soit pas supérieure à 15 mailles, que leur rapport d'armement ne soit pas inférieur à 0,33 et qu'ils ne soient pas équipés de flotteurs ou d'un système de flottaison similaire. Les filets ont chacun une longueur maximale de 10 km. La longueur totale de l'ensemble des filets déployés simultanément n'est pas supérieure à 100 km par navire. La durée d'immersion maximale est de 72 heures.
+2 et 3 (Abrogés)
 
 4. Il est permis d'utiliser :
 
