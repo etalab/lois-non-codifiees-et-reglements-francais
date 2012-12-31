@@ -1,0 +1,3 @@
+# Article 6
+
+Méthodes de l'analyse des spécificités et caractéristiques essentielles des eaux marines. ― L'analyse des caractéristiques et spécificités essentielles décrit à l'échelle pertinente dans le périmètre de la sous-région marine les caractéristiques physiques, chimiques et biologiques de la sous-région marine mentionnées à l'article 5 ci-dessus. Elle décrit notamment, lorsque cela est pertinent, la variabilité naturelle associée à chaque caractéristique et identifie des niveaux ou tendances perceptibles. Concernant les caractéristiques biologiques, elle identifie également des espèces, groupes d'espèces, habitats sensibles, des zones sensibles et des espèces, groupes d'espèces, habitats vulnérables telles que définis à l'article 2 ci-dessus.

@@ -1,0 +1,3 @@
+# Article 4
+
+Sans préjudice des dispositions prévues à l'article 11 de l'arrêté du 2 mars 2007 susvisé, le dossier de demande d'agrément d'une activité de projet mise en œuvre sur le territoire national et résultant de l'utilisation des terres, du changement d'affectation des terres ou d'activités forestières comporte notamment dans son plan de surveillance annuel des émissions et des absorptions de gaz à effet de serre liées à la mise en œuvre de l'activité de projet, les modalités mises en place par le demandeur de l'agrément pour pallier le risque de non-permanence des réductions d'émissions attendues.

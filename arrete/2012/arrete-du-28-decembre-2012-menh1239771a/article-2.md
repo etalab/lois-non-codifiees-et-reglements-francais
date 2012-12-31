@@ -1,0 +1,3 @@
+# Article 2
+
+Le recrutement par concours réservés dans les corps et grades mentionnés à l'article 1er est organisé au niveau national. Les concours réservés sont ouverts par arrêté du ministre chargé de l'éducation dans les conditions fixées par l'article 2 du décret du 19 octobre 2004 susvisé. Lorsque l'un des concours mentionnés à l'article 3 du présent arrêté est organisé par section et, éventuellement, par option, un arrêté du ministre chargé de l'éducation répartit les emplois entre les sections et les options. Les emplois non pourvus au titre d'un concours dans une section, ou éventuellement une option, peuvent être reportés sur les autres sections et, éventuellement, options du même concours.

@@ -1,0 +1,7 @@
+# Article 4
+
+Pour l'application du 2° du I du 3 de l'article 78 de la loi du 30 décembre 2009 susvisée, est importante au sens du premier alinéa de ce 2° une perte de produit de cotisation sur la valeur ajoutée des entreprises :
+
+a) Egale, l'année où débute la compensation de la perte de ressources de contribution économique territoriale pour une commune ou un établissement public de coopération intercommunale doté d'une fiscalité propre situé sur le territoire du département ou de la région, ou l'année suivante, à la différence positive entre, d'une part, la somme des produits de cotisation sur la valeur ajoutée des entreprises perçus par ce département ou cette région, l'année précédente, au titre des établissements à l'origine de la perte de ressources compensée pour la commune ou l'établissement public, et, d'autre part, la somme des produits de cotisation sur la valeur ajoutée des entreprises perçus par le département ou la région, l'année même, au titre de ces mêmes établissements ; et
+
+b) Dont le montant est supérieur à 2 % des impositions mentionnées au deuxième alinéa du 2° du I du 3 de l'article 78 de la loi du 30 décembre 2009 susvisée perçues l'année qui précède la constatation de la perte de produit de contribution foncière des entreprises mentionnée au 1° de l'article 1er du présent décret, majorées ou minorées des ressources perçues ou prélevées l'année qui précède la constatation de cette perte en application du 2 de ce même article 78.
