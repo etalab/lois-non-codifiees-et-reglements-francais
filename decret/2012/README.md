@@ -648,7 +648,6 @@
 - [Décret n°2012-980 du 21 août 2012 (DEVR1225439D)](decret-n2012-980-du-21-aout-2012-devr1225439d)
 - [Décret n°2012-981 du 21 août 2012 (ESRS1225880D)](decret-n2012-981-du-21-aout-2012-esrs1225880d)
 - [Décret n°2012-982 du 21 août 2012 (AGRE1228515D)](decret-n2012-982-du-21-aout-2012-agre1228515d)
-- [Décret n°2011-1928 du 22 décembre 2011 (MCCB1130600D)](decret-n2011-1928-du-22-decembre-2011-mccb1130600d)
 - [Décret n°2012-1286 du 22 novembre 2012 (AFSZ1235221D)](decret-n2012-1286-du-22-novembre-2012-afsz1235221d)
 - [Décret n°2012-1292 du 22 novembre 2012 (AFSH1232547D)](decret-n2012-1292-du-22-novembre-2012-afsh1232547d)
 - [Décret n°2012-1293 du 22 novembre 2012 (INTB1227558D)](decret-n2012-1293-du-22-novembre-2012-intb1227558d)
