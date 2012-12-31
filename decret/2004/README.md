@@ -424,7 +424,6 @@
 - [Décret n°2004-564 du 17 juin 2004 (DEFX0400072D)](decret-n2004-564-du-17-juin-2004-defx0400072d)
 - [Décret n°2004-565 du 17 juin 2004 (SANS0420922D)](decret-n2004-565-du-17-juin-2004-sans0420922d)
 - [Décret n°2004-572 du 17 juin 2004 (ECOC0400024D)](decret-n2004-572-du-17-juin-2004-ecoc0400024d)
-- [Décret n°2004-592 du 17 juin 2004 (MENF0400776D)](decret-n2004-592-du-17-juin-2004-menf0400776d)
 - [Décret n°2004-593 du 17 juin 2004 (SANS0420720D)](decret-n2004-593-du-17-juin-2004-sans0420720d)
 - [Décret n°2004-977 du 17 septembre 2004 (INDI0420665D)](decret-n2004-977-du-17-septembre-2004-indi0420665d)
 - [Décret n°2004-978 du 17 septembre 2004 (INDI0420666D)](decret-n2004-978-du-17-septembre-2004-indi0420666d)

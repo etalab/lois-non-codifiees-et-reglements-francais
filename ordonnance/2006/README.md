@@ -13,7 +13,6 @@
 - [Ordonnance n° 2006-1548 du 7 décembre 2006 (AGRX0600141R)](ordonnance-n-2006-1548-du-7-decembre-2006-agrx0600141r)
 - [Ordonnance n° 2006-673 du 8 juin 2006 (JUSX0600063R)](ordonnance-n-2006-673-du-8-juin-2006-jusx0600063r)
 - [Ordonnance n° 2006-1588 du 13 décembre 2006 (SANX0600142R)](ordonnance-n-2006-1588-du-13-decembre-2006-sanx0600142r)
-- [Ordonnance n° 2006-433 du 13 avril 2006 (SOCX0600050R)](ordonnance-n-2006-433-du-13-avril-2006-socx0600050r)
 - [Ordonnance n° 2006-870 du 13 juillet 2006 (AGRX0600062R)](ordonnance-n-2006-870-du-13-juillet-2006-agrx0600062r)
 - [Ordonnance n° 2006-168 du 15 février 2006 (MENX0500311R)](ordonnance-n-2006-168-du-15-fevrier-2006-menx0500311r)
 - [Ordonnance n° 2006-172 du 15 février 2006 (DOMX0500314R)](ordonnance-n-2006-172-du-15-fevrier-2006-domx0500314r)

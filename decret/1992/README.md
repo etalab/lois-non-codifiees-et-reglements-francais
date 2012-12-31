@@ -81,7 +81,6 @@
 - [Décret n°92-1177 du 2 novembre 1992 (MENX9200137D)](decret-n92-1177-du-2-novembre-1992-menx9200137d)
 - [Décret n°92-1178 du 2 novembre 1992 (MENX9200145D)](decret-n92-1178-du-2-novembre-1992-menx9200145d)
 - [Décret n°92-1247 du 2 décembre 1992 (JUSX9200232D)](decret-n92-1247-du-2-decembre-1992-jusx9200232d)
-- [Décret n°92-1256 du 2 décembre 1992 (BUDX9210493D)](decret-n92-1256-du-2-decembre-1992-budx9210493d)
 - [Décret n°92-1267 du 2 décembre 1992 (MAEJ9230069D)](decret-n92-1267-du-2-decembre-1992-maej9230069d)
 - [Décret n°92-15 du 2 janvier 1992 (INDD9100696D)](decret-n92-15-du-2-janvier-1992-indd9100696d)
 - [Décret n°92-16 du 2 janvier 1992 (SPSS9102586D)](decret-n92-16-du-2-janvier-1992-spss9102586d)

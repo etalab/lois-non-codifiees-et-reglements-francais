@@ -1,3 +1,0 @@
-# Article 1
-
-Pour l'année 2012, conformément aux dispositions du III ter de l'article 40 modifié de la loi du 23 décembre 2000, les coûts de fonctionnement des missions de conception des modalités de financement des activités de soins des établissements de santé et de conduite des expérimentations prévues au I de l'article 77 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 exercées par l'Agence technique de l'information sur l'hospitalisation sont pris en charge par le fonds pour la modernisation des établissements de santé publics et privés pour un montant de 6 484 000 euros.
