@@ -24,7 +24,7 @@ Agrément des citernes des types "OMI"
 
 - Lloyd's Register of Shipping
 
-- Groupement d'Associations des Propriétaires d'Appareils à Vapeur et Electriques
+- APAVE
 
 2. Pour chaque nouveau type de citerne mobile, l'un des organismes agréés choisi par le demandeur parmi les organismes cités au paragraphe 1 de la présente annexe établit un certificat d'approbation du prototype (voir annexe 411-6.A.10 pour types 1, 2 et 5, annexe 411-6.A.11 pour type 7).
 
@@ -52,9 +52,9 @@ Aux fins de ce paragraphe, les organismes de contrôle agréés sont les suivant
 
 - Bureau Veritas ;
 
-- Groupement d'Associations des Propriétaires d'Appareils à Vapeur et Electrique (G.A.P.A.V.E).
+- APAVE.
 
-Les organismes agréés sont chargés du classement des dossiers de conformité vérifiés par leurs soins. Ils doivent, en outre, adresser annuellement au ministre chargé de la marine marchande un état des certificats de conformité délivrés.
+Les organismes agréés sont chargés du classement des dossiers de conformité vérifiés par leurs soins. Ils doivent, en outre, adresser annuellement au ministre chargé du transport maritime de matières dangereuses un état des certificats de conformité délivrés.
 
 5. Cas particulier d'une citerne assujettie sur un châssis porteur
 
@@ -85,7 +85,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.3.12 </p>
+<p align="left">13.1.3.12 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -96,7 +96,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.5.5 </p>
+<p align="left">13.1.5.5 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -107,7 +107,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.7.1 </p>
+<p align="left">13.1.7.1 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -118,7 +118,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.8.1 </p>
+<p align="left">13.1.8.1 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -129,7 +129,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.9.3 </p>
+<p align="left">13.1.9.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -140,7 +140,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.18.3 </p>
+<p align="left">13.1.18.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -151,7 +151,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.19.3.1 </p>
+<p align="left">13.1.19.3.1 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -162,7 +162,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.19.6 </p>
+<p align="left">13.1.19.6 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -173,7 +173,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.1.19.9 </p>
+<p align="left">13.1.19.9 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -184,7 +184,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.103.12 </p>
+<p align="left">13.103.12 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -195,7 +195,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.104.3 </p>
+<p align="left">13.104.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -206,7 +206,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.108.3 </p>
+<p align="left">13.108.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -217,7 +217,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.114.6 </p>
+<p align="left">13.114.6 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -228,18 +228,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.115.3.3 </p>
-</td>
-<td width="245">
-<p align="center">*</p>
-</td>
-<td width="222">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="214">
-<p>13.115.6 </p>
+<p align="left">13.115.3.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -250,7 +239,18 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.205.8 </p>
+<p align="left">13.115.6 </p>
+</td>
+<td width="245">
+<p align="center">*</p>
+</td>
+<td width="222">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="214">
+<p align="left">13.205.8 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -261,7 +261,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.206.4 </p>
+<p align="left">13.206.4 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -272,7 +272,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.207.4 </p>
+<p align="left">13.207.4 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -283,7 +283,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.212.3 </p>
+<p align="left">13.212.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -294,7 +294,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tr>
 <tr>
 <td width="214">
-<p>13.213.3.3 </p>
+<p align="left">13.213.3.3 </p>
 </td>
 <td width="245">
 <p align="center">*</p>
@@ -306,7 +306,7 @@ En outre, la fixation de la citerne sur le châssis porteur doit être effectué
 </tbody>
 </table>
 
-Dispositions générales relatives aux citernes de type  OMI
+Dispositions générales relatives aux citernes de type OMI
 
 7. Outre les présentes prescriptions, et sauf indication contraire, les prescriptions applicables de la division 431 du présent règlement concernant la sécurité des conteneurs doivent être satisfaites par toute citerne répondant à la définition du "conteneur".
 
@@ -340,7 +340,7 @@ Aux fins du paragraphe 13.1.5.6 de la section 13 de l'Introduction Générale du
 
 14. Débit des dispositifs de décompression des citernes de type 5 et 6
 
-Nonobstant les dispositions du paragraphe 13.109.1 de l'Introduction Générale du Code IMDG, il est admis d'utiliser, pour les citernes mobiles de type 5 et 6 approuvées après le 1er février 1995, des dispositifs de décompression dont le débit total requis a été calculé sur la base d'une pression d'accumulation supérieure de 20% à la pression de début d'ouverture du dispositif de décompression.
+Nonobstant les dispositions du paragraphe 13.109.1 de l'Introduction Générale du Code IMDG, il est admis d'utiliser, pour les citernes mobiles de type 5 et 6 approuvées après le 1er février 1995, des dispositifs de décompression dont le débit total requis a été calculé sur la base d'une pression d'accumulation supérieure de 20 % à la pression de début d'ouverture du dispositif de décompression.
 
 15. Dispositions particulières aux citernes de type OMI 4
 

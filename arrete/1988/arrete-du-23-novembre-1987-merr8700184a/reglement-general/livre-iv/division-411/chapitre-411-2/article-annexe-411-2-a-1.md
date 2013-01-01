@@ -1,6 +1,6 @@
 # Article Annexe 411-2.A.1
 
-L'annexe 411-2.A.1 est composée de trois documents :
+L'annexe 411-2.A.1 est composée de deux documents :
 
 - Appendice I : Cahier des charges des organismes agréés pour éprouver et homologuer les modèles types d'emballages, de grands récipients pour vrac et de grands emballages destinés au transport des marchandises dangereuses au titre des chapitres 6.1, 6.3, 6.5 et 6.6 du Code IMDG.
 
@@ -24,7 +24,7 @@ La mission Transport de matières dangereuses se réserve le droit de procéder 
 
 En outre, compte-tenu du fait que le marquage réglementaire des emballages, des grands récipients pour vrac (GRV) et des grands emballages est identique pour tous les modes de transport (marquage ONU) et qu'ainsi, dès lors que leur utilisation est autorisée par les réglementations relatives aux transports terrestres et/ou aériens des marchandises dangereuses, ces matériels peuvent également être utilisés pour des transports par voie terrestre ou aérienne, des dossiers analogues doivent être simultanément déposés :
 
--auprès des services du Ministre chargé des transports (Direction générale de la prévention des risques / mission Transport de matières dangereuses), et
+-auprès des services du ministre chargé des transports terrestres de matières dangereuses (Direction générale de la prévention des risques / mission Transport de matières dangereuses), et
 
 -pour les emballages seulement, auprès des services du Ministre chargé de l'aviation civile (direction générale de l'aviation civile).
 
@@ -126,7 +126,7 @@ Dans le cas exceptionnel où le laboratoire d'essais est amené à utiliser en s
 
 Le laboratoire d'essais doit disposer de procédures écrites sur l'utilisation et le fonctionnement de tout le matériel concerné, sur la manipulation et la préparation des objets soumis aux examens et épreuves, ainsi que sur les techniques propres à ces examens et épreuves. Toutes ces procédures, ainsi que les normes, manuels et données de référence utiles aux travaux du laboratoire d'essais, doivent être tenus à jour et d'un accès facile pour le personnel concerné.
 
-Tous les examens et épreuves visés dans le domaine d'activité défini au paragraphe 3, doivent faire l'objet de méthodes et/ou de modes opératoires. Ces méthodes et modes opératoires doivent répondre aux conditions prévues, pour la réalisation des examens et épreuves des objets concernés, par les prescriptions réglementaires et par les dispositions complémentaires éventuellement publiées au Bulletin officiel du ministère chargé des transports.
+Tous les examens et épreuves visés dans le domaine d'activité défini au paragraphe 3, doivent faire l'objet de méthodes et/ou de modes opératoires. Ces méthodes et modes opératoires doivent répondre aux conditions prévues, pour la réalisation des examens et épreuves des objets concernés, par les prescriptions réglementaires et par les dispositions complémentaires éventuellement publiées au Bulletin officiel du ministère chargé du transport maritime de matières dangereuses.
 
 Lors de la réalisation des examens et épreuves, les méthodes et modes opératoires correspondant à ceux-ci doivent être possédés et utilisés par le personnel qualifié pour ces opérations et repris au document nominatif prévu au paragraphe 5.
 
@@ -196,7 +196,7 @@ Des adjonctions ou compléments à un rapport peuvent être faits après son ém
 
 7.4 Certificats d'agrément
 
-La délivrance des certificats d'agrément de modèle type d'emballages doit être effectuée conformément aux dispositions applicables de l'article 411-4 de la présente division et à la procédure publiée à ce sujet au Bulletin officiel du ministère chargé des transports.
+La délivrance des certificats d'agrément de modèle type d'emballages doit être effectuée conformément aux dispositions applicables de l'article 411-4 de la présente division et à la procédure publiée à ce sujet au Bulletin officiel du ministère chargé du transport maritime de matières dangereuses.
 
 7.5 Enregistrements
 
@@ -332,7 +332,7 @@ La mission Transport de matières dangereuses se réserve le droit de procéder 
 
 En outre, compte-tenu du fait que le marquage réglementaire des emballages, des grands récipients pour vrac (GRV) et des grands emballages est identique pour tous les modes de transport (marquage ONU) et qu'ainsi, dès lors que leur utilisation est autorisée par les réglementations relatives aux transports terrestres et/ou aériens des marchandises dangereuses, ces matériels peuvent également être utilisés pour des transports par voie terrestre ou aérienne, des dossiers analogues doivent être simultanément déposés :
 
-- auprès des services du Ministre chargé des transports (Direction générale de la prévention des risques / mission Transport de matières dangereuses) , et
+- auprès des services du ministre chargé des transports terrestres de matières dangereuses (Direction générale de la prévention des risques / mission Transport de matières dangereuses) , et
 
 - pour les emballages seulement, auprès des services du Ministre chargé de l'aviation civile (direction générale de l'aviation civile).
 
@@ -398,7 +398,7 @@ L'unité de contrôle doit être pourvue de tous les moyens techniques nécessai
 
 7.1 Procédures et modes opératoires
 
-Toutes les opérations de contrôle visées dans le domaine d'activité défini au paragraphe 3, doivent faire l'objet de procédures et/ou de modes opératoires. Ces procédures et modes opératoires doivent répondre aux conditions prévues pour la réalisation des opérations de contrôle de la fabrication des emballages concernés, par les prescriptions réglementaires et par les procédures complémentaires éventuelles publiées au Bulletin officiel du ministère chargé des transports.
+Toutes les opérations de contrôle visées dans le domaine d'activité défini au paragraphe 3, doivent faire l'objet de procédures et/ou de modes opératoires. Ces procédures et modes opératoires doivent répondre aux conditions prévues pour la réalisation des opérations de contrôle de la fabrication des emballages concernés, par les prescriptions réglementaires et par les procédures complémentaires éventuelles publiées au Bulletin officiel du ministère chargé du transport maritime de matières dangereuses.
 
 Lors de la réalisation des opérations de contrôle, les procédures et modes opératoires correspondant à celles-ci doivent être possédés et utilisés par le personnel qualifié pour ces opérations et repris au document nominatif prévu au paragraphe 5.
 
@@ -557,19 +557,3 @@ Eléments à fournir dans le dossier de demande d'agrément (pour chaque unité 
 - Participations à des échanges d'informations avec les autres organismes, français et étrangers ,
 
 - Autres agréments et/ou reconnaissances de compétence détenus par l'organisme dont dépend l'unité de contrôle, en France comme à l'étranger.
-
-Appendice III
-
-Cahier des charges des organismes agréés pour effectuer les contrôles périodiques des grands récipients pour vrac destinés au transport de marchandises dangereuses
-
-Agrément des organismes désirant effectuer les contrôles périodiques des GRV
-
-Pour pouvoir postuler à l'agrément en vue d'effectuer lui-même les contrôles périodiques des GRV, un organisme doit répondre à l'une des deux conditions suivantes :
-
-- soit être agréé pour effectuer les épreuves et délivrer les agréments des modèles types de construction des GRV destinés au transport des marchandises dangereuses,
-
-- soit être agréé pour effectuer les contrôles périodiques des citernes (citernes mobiles et/ou véhicules-citernes routiers) destinées au transport des marchandises dangereuses.
-
-L'organisme doit établir des procédures internes relatives à la réalisation par ses soins des contrôles périodiques des GRV, comportant notamment une description des contrôles et leurs modes opératoires.
-
-Il formule ensuite sa demande d'agrément auprès des services compétents du Ministre chargé du transport maritime de matières dangereuses (Direction générale de la prévention des risques, mission Transport de matières dangereuses), en l'accompagnant d'une copie des procédures visées ci-dessus.

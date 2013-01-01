@@ -17,3 +17,66 @@ Aux fins de la mise en œuvre du paragraphe 7.1.7.5.3 du code IMDG, des quantit�
 6. Aucune autre marchandise dangereuse ne doit être chargée sur le même pont ni sur le pont situé immédiatement sous ce pont au droit de la zone d'arrimage des véhicules visés ci-dessus.
 
 7. L'ensemble des autres dispositions du code IMDG s'appliquent.
+
+Lorsqu'il est fait application de l'article 411-1.06, les références aux paragraphes et catégories d'arrimage du code IMDG citées ci-dessus sont remplacées conformément au tableau de correspondance suivant :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">RÉFÉRENCES AU CODE IMDG<br/>tel que défini à l'article 411-1.04</p>
+</td>
+<td>
+<p align="center">RÉFÉRENCES AU CODE IMDG<br/>tel que défini à l'article 411-1.06</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7.1.7.5.3<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>7.1.4.4.6<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7.1.7.5.2<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>7.1.4.4.5.1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7.1.7.1.1<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>7.1.2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Catégories 04, 08, 12, 14 ou 15<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Catégories 03, 04 ou 05<br/>
+</p>
+</td>
+</tr>
+</tbody>
+</table>

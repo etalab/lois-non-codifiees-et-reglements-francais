@@ -4,7 +4,7 @@ Conditions d'agrément des organismes agréés
 
 1. Organismes chargés des agréments, contrôles et épreuves des citernes et des CGEM.
 
-1.1. Tout organisme qui demande à être agréé au titre de l'article 411-2.02 doit justifier d'une accréditation en cours de validité à la date de la demande suivant la norme ISO 17020 dans le domaine équipements sous pression - TMD - canalisation par le COFRAC ou par un organisme accréditeur signataire de l'accord multilatéral d'European co-operation for Accreditation (EA) et fournir, lors de sa demande, les procédures relatives aux activités qu'il souhaite exercer. Ces procédures doivent répondre aux conditions fixées dans la présente division, et notamment dans le chapitre 411-6.
+1.1. Tout organisme demandant à être agréé au titre de l'article 411-2.02 justifie de sa conformité aux critères pertinents des paragraphes 1.1 à 1.7 de l'article 20 de l'arrêté TMD. Les procédures relatives aux activités qu'il souhaite exercer, visées au 1.5 de l'arrêté TMD, répondent en outre aux conditions fixées dans la présente division, notamment au chapitre 411-6.
 
 1.2 Les conditions précisées au paragraphe 1.1 du présent article s'appliquent lors de toute demande de renouvellement d'agrément.
 

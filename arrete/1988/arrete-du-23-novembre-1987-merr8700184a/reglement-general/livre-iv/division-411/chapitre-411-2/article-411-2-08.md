@@ -10,9 +10,7 @@ Dispositions particulières applicables à l'ensemble des organismes agréés
 
 2.1. Les organismes désignés, y compris les organismes agréés, adressent un rapport annuel d'activité soit au ministre chargé du transport maritime des marchandises dangereuses, soit à l'Autorité de sûreté nucléaire, selon les attributions précisées au 1 de l'article 411-1.09. Le délai de transmission est fixé dans le(s) cahier(s) des charges visé(s) à l'article 411-2.07 ou dans les arrêtés d'agrément. A défaut le rapport est transmis dans les six mois qui suivent la fin d'une année calendaire.
 
-3. Paiement des opérations confiées aux services et organismes désignés, y compris les organismes agréés.
-
-Les frais liés à la délivrance des certificats ou à la réalisation des essais et vérifications prévues par la présente division sont à la charge du demandeur.
+3. (Supprimé)
 
 4. Retrait des certificats, agréments ou homologations de véhicules ou de contenants.
 

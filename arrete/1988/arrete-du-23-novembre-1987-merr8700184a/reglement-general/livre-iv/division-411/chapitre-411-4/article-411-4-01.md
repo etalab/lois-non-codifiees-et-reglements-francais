@@ -1,6 +1,6 @@
 # Article 411-4.01
 
-Agrément des emballages, grands récipients pour vrac (GRV) et grands emballages conformes aux chapitres 6.1, 6.3, 6..5 ou 6.6, suivi du contrôle de leur fabrication et inspections et épreuves des GRV
+Agrément des emballages, grands récipients pour vrac (GRV) et grands emballages conformes aux chapitres 6.1, 6.3, 6..5 ou 6.6, et suivi du contrôle de leur fabrication
 
 Dans le cadre de l'application des chapitres 6.1, 6.3, 6.5 et 6.6 du code IMDG :
 
@@ -15,35 +15,3 @@ Dans le cadre de l'agrément des fûts et jerricanes en plastique destinés à c
 3. Suivi du contrôle de fabrication.
 
 Les emballages, GRV et grands emballages doivent être fabriqués et éprouvés suivant un programme d'assurance qualité dans les conditions décrites à l'article 11 de l'arrêté TMD. Les contrôles relatifs au contrôle de fabrication ainsi que les attestations de conformité correspondantes sont délivrés par un organisme agréé (se reporter à l'article 411-2.03) dans les conditions prévues aux articles 10 et 11 de l'arrêté TMD. De même, les attestations de dispense de contrôle sur site sont également délivrées dans les conditions prévues aux articles 10 et 11 de l'arrêté TMD.
-
-4. Prescriptions spécifiques s'appliquant aux GRV métalliques, GRV en plastique rigide et GRV composites avec récipient intérieur en plastique.
-
-4.1. Epreuves initiale et périodique sur chaque GRV.
-
-Le présent paragraphe a pour objet de définir les dispositions satisfaisant le ministre chargé du transport maritime de matières dangereuses au titre du paragraphe 6.5.4.4.2 du chapitre 6.5 du code IMDG.
-
-4.1.1. Epreuve initiale.
-
-L'épreuve initiale d'étanchéité doit être exécutée conformément au programme d'assurance qualité défini au paragraphe 3 de l'article 411-4.01. Pour les GRV composites et pour les GRV en plastique rigide, une méthode autre que celle prévue au chapitre 6.5 du code IMDG peut être utilisée si elle est acceptée par l'organisme agréé chargé d'en contrôler la fabrication.
-
-4.1.2. Epreuve périodique.
-
-L'épreuve d'étanchéité visée au paragraphe 6.5.6.7 du code IMDG doit être répétée :
-
-- au moins tous les deux ans et demi ;
-
-- après toute réparation, avant d'être réutilisé pour le transport.
-
-L'épreuve périodique d'étanchéité doit être exécutée :
-
-- soit par l'un des organismes agréés à cette fin par le ministre chargé du transport maritime de matières dangereuses selon la procédure visée à l'article 411-2.06 ;
-
-- soit par les établissements industriels ayant obtenu l'autorisation du ministre chargé du transport maritime de matières dangereuses pour exécuter les contrôles périodiques.
-
-4.2. Inspections.
-
-4.2.1. Le présent paragraphe a pour objet de définir les dispositions satisfaisant le ministre chargé du transport maritime de matières dangereuses au titre du paragraphe 6.5.4.4.1 du chapitre 6.5 du code IMDG.
-
-4.2.2. Tous les GRV doivent être inspectés avant leur mise en service, conformément au programme d'assurance de la qualité défini au paragraphe 3 de l'article 411-4.01.
-
-4.2.3. En outre, tous les GRV doivent être inspectés par l'un des organismes agréés à cette fin par le ministre chargé du transport maritime de matières dangereuses selon la procédure visée à l'article 411-2.06 ou par un établissement industriel autorisé (voir paragraphe 4.1.2 du présent article) conformément aux procédures relatives aux contrôles périodiques des grands récipients pour vrac destinés au transport des marchandises dangereuses publiées au Bulletin officiel du ministère chargé du transport maritime de matières dangereuses.
