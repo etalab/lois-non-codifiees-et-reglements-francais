@@ -25,14 +25,14 @@ Tout navire à passagers et tous les autres navires d'une longueur égale ou sup
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Certificat national de franc-bord<br/>
-</td>
-<td align="left" valign="top">
-<br/>Division 222 <p>Division 223<br/>
+<p align="left">Certificat international de franc-bord <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<br/>Tout navire de charge et à passagers, de plus de 12 mètres effectuant une navigation nationale<br/>
+<p align="left">Convention sur les lignes de charge de 1966 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Tout navire d'une longueur égale ou supérieure à 24 mètres effectuant une navigation internationale </p>
 </td>
 </tr>
 <tr>
@@ -56,56 +56,61 @@ Certificat délivré en application des dispositions de la division 190 :
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
+<td width="187">
 <p align="center">INTITULÉ DU CERTIFICAT</p>
 </td>
-<td align="left" valign="top">
+<td width="187">
 <p align="center">TEXTES DE RÉFÉRENCE</p>
 </td>
-<td align="left" valign="top">
-<p align="center">NAVIRES CONCERNÉS<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Certificat d'accessibilité pour navire à passagers<br/>
-</td>
-<td align="left" valign="top">
-<br/>Division 190<br/>
-</td>
-<td align="left" valign="top">
-<br/>Sous réserve des dispositions de la division 190, tout navire à passagers effectuant une navigation internationale ou nationale de transports publics<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-Certificat délivré en application des dispositions de la division 333 :
-
-<table>
-<tbody>
-<tr>
-<td align="left" valign="top">
-<p align="center">INTITULÉ DU CERTIFICAT</p>
-</td>
-<td align="left" valign="top">
-<p align="center">TEXTES DE RÉFÉRENCE</p>
-</td>
-<td align="left" valign="top">
+<td width="299">
 <p align="center">NAVIRES CONCERNÉS</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Certificat d'inspection d'une embarcation de sauvetage <br/>
+<td valign="top" width="187">
+<p>Certificat d'accessibilité pour navire à passagers</p>
 </td>
-<td align="left" valign="top">
-<br/>Division 333<br/>
+<td valign="top" width="187">
+<p>Division 190</p>
 </td>
-<td align="left" valign="top">
-<br/>Embarcations de sauvetage, lorsqu'elles sont utilisées comme annexes (tender) sur les navires à passagers comme moyen de liaison entre le bord et la terre ou lorsqu'elles sont utilisées à fin de promenade.<br/>
+<td valign="top" width="299">
+<p>Sous réserve des dispositions de la division 190, tout navire à passagers effectuant une navigation internationale ou nationale de transports publics</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificat délivré en application des dispositions de la division 333 :</div>
+<div align="left"/>
+<div align="left"/>
+
+<table>
+<tbody>
+<tr>
+<td width="187">
+<p align="center">INTITULÉ DU CERTIFICAT</p>
+</td>
+<td width="187">
+<p align="center">TEXTES DE RÉFÉRENCE</p>
+</td>
+<td width="299">
+<p align="center">NAVIRES CONCERNÉS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="187">
+<p>Certificat d'inspection d'une embarcation de sauvetage</p>
+</td>
+<td valign="top" width="187">
+<p>Division 333</p>
+</td>
+<td valign="top" width="299">
+<p>Embarcations de sauvetage, lorsqu'elles sont utilisées comme annexes (tender) sur les navires à passagers comme moyen de liaison entre le bord et la terre ou lorsqu'elles sont utilisées à fin de promenade.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left"/>
+<div align="left"/>

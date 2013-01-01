@@ -72,7 +72,7 @@ Niveau III
 
 .3 soumise aux normes énoncées au paragraphe 4 du présent article lorsque le navire est exploité à l'extérieur d'une zone de contrôle des émissions désignée en vertu du paragraphe 6 du présent article.
 
-5.2. Sous réserve du bilan prévu au paragraphe 10 du présent article, les normes énoncées au paragraphe 5.1.1 du présent article ne s'appliquent pas :
+5.2. Les normes énoncées au paragraphe 5.1.1 du présent article ne s'appliquent pas :
 
 .1 aux moteurs Diesel marins installés à bord d'un navire d'une longueur (L), telle que définie à la règle 1.19 de l'annexe I de la présente Convention MARPOL, inférieure à 24 m, qui a été conçu expressément pour être utilisé à des fins récréatives et est utilisé uniquement à ces fins ; ni
 
@@ -80,11 +80,13 @@ Niveau III
 
 Zone de contrôle des émissions
 
-6. Aux fins de la présente règle, les zones de contrôle des émissions sont :
+6. Aux fins du présent article, les zones de contrôle des émissions sont :
 
-6.1. La zone de contrôle des émissions de l'Amérique du Nord, soit la zone délimitée par les coordonnées figurant à l'appendice VII du présent chapitre ; et
+.1 la zone de l'Amérique du Nord, qui correspond à la zone délimitée par les coordonnées indiquées dans l'annexe VII du présent chapitre ;
 
-6.2. Toute autre zone maritime, y compris toute zone portuaire, désignée par l'Organisation maritime internationale, conformément aux critères et procédures énoncés à l'appendice III du présent chapitre.
+.2 la zone maritime caraïbe des Etats-Unis, qui correspond à la zone délimitée par les coordonnées indiquées dans l'annexe VII du présent chapitre ; et
+
+.3 toute autre zone maritime, y compris toute zone portuaire, désignée par l'organisation conformément aux critères et procédures décrits dans l'annexe III du présent chapitre.
 
 Moteurs Diesel marins installés à bord de navires construits avant le 1er janvier 2000
 

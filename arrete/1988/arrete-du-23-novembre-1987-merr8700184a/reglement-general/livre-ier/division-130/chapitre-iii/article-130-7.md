@@ -34,7 +34,7 @@ Lorsqu'une mise en refonte, de grandes réparations, ou des modifications import
 
 Lorsque les travaux sont réalisés à l'étranger, l'exploitant du navire en informe également l'autorité consulaire.
 
-Les plans et documents sont transmis, par l'exploitant du navire et sous sa responsabilité, au président de la commission d'étude compétente dans les conditions prévues à l'article 130.32, à l'article 130.35 et à l'article 130.37.
+Les plans et documents sont transmis, par l'exploitant du navire et sous sa responsabilité, au président de la commission d'étude compétente dans les conditions prévues à l'article 130.33, à l'article 130.36 et à l'article 130.38.
 
 2. Tout navire dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I (1°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 

@@ -1,27 +1,53 @@
 # Article 130.26
 
-Navires soumis à une obligation d'approbation de structure au titre de l'article 42-6 du décret n° 84-810 du 30 août 1984 modifié.
+Navires soumis à une obligation de classification au titre de l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié.
 
-En application des dispositions de l'article 42-6 du décret n° 84-810 du 30 août 1984 modifié, à l'exception des navires de plaisance, tout navire neuf ou acquis à l'étranger d'une longueur inférieure à 24 mètres doit faire l'objet d'une approbation de sa structure par une société de classification habilitée.
+En application des dispositions de l'article 42-5 du décret n° 84-810 modifié  du 30 août 1984, à l'exception des navires de plaisance à usage  personnel, des navires traditionnels et des navires de compétition, tout  navire neuf ou acquis à l'étranger d'une longueur supérieure ou égale à  vingt-quatre mètres possède la première cote d'une société de  classification habilitée, correspondant à son exploitation.
 
-Les navires existants à la date de publication du présent règlement restent soumis aux dispositions du décret n° 84-810 et de l'arrêté du 23 novembre 1987 dans leur rédaction antérieure.
+La longueur a prendre en compte pour l'application du présent article est la longueur de référence telle que définie par l'article 1er du décret n° 84-810 modifié du 30 août 1984.
 
-1. La solidité générale et le mode de construction de la coque et, le cas échéant, des superstructures fermées, des roufs, de la timonerie, des collecteurs d'échappement, des descentes et des autres structures participant à la résistance générale ainsi que de l'équipement principal intéressant l'étanchéité sont examinés par une société de classification habilitée. La vérification de la résistance à la fissuration progressive sous charges cycliques ou chocs n'est pas requise au titre de cet examen.
+Au  sens du présent règlement on entend par  première cote d'une société  de classification habilitée  le fait pour un navire d'être conçu,  construit et entretenu conformément aux prescriptions d'une société de  classification habilitée pour les domaines techniques suivants :
 
-2. A cet effet, l'exploitant du navire transmet à cette société de classification les documents suivants :
+― construction de la coque ;
 
-― plan d'ensemble, comportant les dimensions principales, le tirant d'eau, la vitesse maximale prévue et les mentions de navigation et de service ;
+― compartimentage ;
 
-― plan de coupe au maître, indiquant les propriétés mécaniques des matériaux et l'espacement des couples et l'échantillonnage ;
+― stabilité à l'état intact ;
 
-― plan de charpente avant et de charpente arrière ;
+― installations de mouillage ;
 
-― plan de structure générale ;
+― machine ;
 
-― plan des panneaux d'écoutilles avec les charges à considérer ;
+― chaudières ;
 
-― plans et documents relatifs à la construction et à l'étanchéité de la timonerie.
+― installations hydrauliques ;
 
-3. Les documents sont datés et portent la mention de leur origine ainsi que leur indice de révision. Les renseignements exigés par deux ou plusieurs des rubriques ci-dessus peuvent être réunis sur un même document, sous réserve que leur clarté et leur lisibilité ne soient pas affectées par une telle disposition.
+― installations électriques ;
 
-4. L'exploitant du navire présente à la commission d'étude ou de visite une attestation d'intervention de la société de classification habilitée (cf. modèle annexe 130-A.6) ainsi que les plans requis au paragraphe 2, visés et accompagnés du rapport d'examen de la société de classification, indiquant les limites de service et particulièrement la puissance propulsive maximale continue que la structure du navire peut supporter.
+― protection contre l'incendie (extinction).
+
+Et, de plus, lorsque le règlement de la société de classification ne le prévoit pas :
+
+― stabilité après avarie ;
+
+― installations frigorifiques (cargaison) ;
+
+― prévention de l'incendie, détection et ventilation ;
+
+― apparaux de levage (au sens de la convention ILO 152).
+
+Pour  ces domaines techniques, la société de classification habilitée réalise  les études de vérification de la conformité, inspections, visites et  essais conformément aux modalités prévues dans l'annexe et dans  l'appendice de la résolution OMI A. 1053 (27).
+
+Pour les navires visés par le présent article, les items suivants :
+
+― évacuation : (PI) 5.1.1.18, (PI) 5.1.1.23, (PI) 5.1.1.24, (PI) 5.1.2.92, (PR) 5.2.2.92, (PR) 5.2.2.94 ; et
+
+―  prévention de la pollution : (AI) 4.1.2.2.1.1., (AI) 4.1.2.2.1.2, (AI)  4.1.2.2.1.3, (AI) 4.1.2.2.1.4, (AA) 4.2.2.4.3 à (AA) 4.2.2.4.6,
+
+de la résolution OMI A. 1053 (27) sont réalisés par la société de classification habilitée.
+
+De  plus, pour les navires disposant de la première cote, les inspections  de la face externe du fond d'un navire, dont les périodicités sont  prévues par l'article 130.50, sont réalisées sous le contrôle d'une  société de classification habilitée.
+
+Pour tout  navire visé par le présent article, la société de classification doit  délivrer à l'armateur une attestation d'intervention (cf. modèle annexe  130-A. 6). Les domaines techniques visés par l'attestation  d'intervention sont identiques à ceux visés par le certificat de classe.  L'attestation d'intervention n'est redélivrée par la société de  classification qu'en cas de modification de son périmètre  d'intervention.
+
+L'exploitant du navire présente à  chaque commission d'étude ou de visite une attestation d'intervention de  la société de classification habilitée mentionnant les domaines  techniques requis ci dessus (cf. modèle annexe 130-A. 6).

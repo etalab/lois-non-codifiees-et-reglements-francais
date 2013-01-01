@@ -6,7 +6,7 @@ En application des articles 42 et 42-1 du décret n° 84-810 du 30 août 1984 mo
 
 1. Les visites, et le cas échéant les études de plans et documents des navires réalisées par une société de classification habilitée, sont réalisées conformément aux modalités prévues par les résolutions OMI A. 789 (19), A. 739 (18) et A. 1053 (27) et s'il y a lieu pour les navires vraquiers et pétroliers de la résolution A. 744 (18), telles qu'elles pourront être modifiées par l'organisation maritime internationale.
 
-2. La société de classification habilitée s'oblige, au titre des compétences qui lui sont accordées (cf. annexe 140-A. 1), à vérifier la conformité au présent règlement des navires battant pavillon français ainsi que de leurs plans et documents, sur demande écrite de la part de l'exploitant du navire.
+2. La société de classification habilitée s'oblige, au titre des compétences qui lui sont accordées (cf. annexe 140-A.1), à vérifier la conformité au présent règlement des navires battant pavillon français ainsi que de leurs plans et documents, sur demande écrite de la part de l'exploitant du navire.
 
 3. La société de classification habilitée délivre, vise, renouvelle, suspend et retire les titres de sécurité et de prévention de la pollution mentionnés au I de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié en toute indépendance à l'égard de ses cocontractants. A cet effet, il ne doit exister aucun lien de préposition ou de subordination, de droit ou de fait, entre la société de classification habilitée et le constructeur, le propriétaire ou l'exploitant du navire, sous peine de nullité des titres.
 
@@ -36,7 +36,7 @@ En application des articles 42 et 42-1 du décret n° 84-810 du 30 août 1984 mo
 
 16. La société de classification habilitée élabore et tient à jour un ensemble complet et adéquat, de règles et règlements relatifs à la coque, aux machines, aux installations électriques et aux dispositifs de commande et d'automatisation, ayant un niveau de qualité équivalent à celui des normes techniques internationalement reconnues et sur la base desquelles des certificats au titre des conventions internationales peuvent être délivrés.
 
-17. La société de classification habilitée doit mettre en œuvre un système qualité interne fondé sur les normes EN ISO 17020 : 2004 et EN ISO 9001 : 2008, telles qu'interprétées par les " Quality System Certification Scheme Requirements " de l'association internationale des sociétés de classification (IACS), qui prévoit entre autres que :
+17. La société de classification habilitée doit mettre en œuvre un système qualité interne fondé sur les normes EN ISO 17020 : 2004 et EN ISO 9001 : 2008, telles qu'interprétées par les "Quality System Certification Scheme Requirements" de l'association internationale des sociétés de classification (IACS), qui prévoit entre autres que :
 
 . 1 Les règles et règlements de la société de classification habilitée sont établis et mis à jour de manière systématique ;
 
@@ -98,6 +98,52 @@ Pour ces domaines techniques, la société de classification habilitée réalise
 
 Dans ce cadre, le certificat d'intervention visé par l'article 42-3 du décret n° 84-810 du 30 août 1984 modifié est établi suivant le format défini en annexe A. 6 de la division 130.
 
-19. Pour les navires dont les titres de sécurité et certificats de prévention de la pollution sont délivrés, visés et renouvelés par une société de classification habilitée, en application de l'article 3-2 du décret n° 84-810 du 30 août 1984 modifié, la société de classification qui émet les titres et certificats au nom de l'Etat est celle qui délivre le certificat d'intervention visé par l'article 42-3 du décret n° 84-810 suivant le format défini en annexe A. 6 de la division 130.
+19. Au sens du présent règlement on entend par première cote d'une société de classification habilitée le fait pour un navire d'être conçu, construit et entretenu conformément aux prescriptions d'une société de classification habilitée pour les domaines techniques, suivants :
 
-20. En application des dispositions des articles 42-3 et 42-6 du décret n° 84-810 du 30 août 1984 modifié, à l'exception des navires de plaisance, tout navire neuf ou acquis à l'étranger de moins de vingt-quatre mètres doit faire l'objet d'une approbation de sa structure par une société de classification habilitée. Dans ce cadre, la société de classification habilitée délivre un certificat d'intervention visé par l'article 42-3 du décret n° 84-810 du 30 août 1984 modifié suivant le format défini en annexe A. 6 de la division 130.
+― construction de la coque ;
+
+― compartimentage ;
+
+― stabilité à l'état intact ;
+
+― installations de mouillage ;
+
+― machine ;
+
+― chaudières ;
+
+― installations hydrauliques ;
+
+― installations électriques ;
+
+― protection contre l'incendie (extinction).
+
+Et, de plus, lorsque le règlement de la société de classification ne le prévoit pas :
+
+― stabilité après avarie ;
+
+― installations frigorifiques (cargaison) ;
+
+― prévention de l'incendie, détection et ventilation ;
+
+― apparaux de levage (au sens de la convention ILO 152).
+
+20. Pour ces domaines techniques visés au paragraphe ci-dessus, la société de classification habilitée réalise les études de vérification de la conformité, inspections, visites et essais conformément aux modalités prévues dans l'annexe et dans l'appendice de la résolution OMI A. 1053 (27).
+
+21. Pour les navires visés par l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié, les items suivants :
+
+― (PI) 5.1.1.18, (PI) 5.1.1.23, (PI) 5.1.1.24, (PI) 5.1.2.92, (PR) 5.2.2.92, (PR) 5.2.2.94 ; et
+
+― (AI) 4.1.2.2.1.1., (AI) 4.1.2.2.1.2, (AI) 4.1.2.2.1.3, (AI) 4.1.2.2.1.4, (AA) 4.2.2.4.3 à (AA) 4.2.2.4.6,
+
+de la résolution OMI A. 1053 (27), sont réalisés par la société de classification habilitée.
+
+22. Pour les navires visés par l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié et pour les navires faisant l'objet d'un suivi de la part d'une société de classification donnant lieu à la délivrance d'un certificat de classe, les inspections de la face externe du fond d'un navire, dont les périodicités sont prévues par la division 130 du présent règlement, sont réalisées sous le contrôle d'une société de classification habilitée.
+
+23. Pour tout navire visé par l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié et pour les navires faisant l'objet d'un suivi de la part d'une société de classification donnant lieu à la délivrance d'un certificat de classe la société de classification doit délivrer à l'armateur une attestation d'intervention. Les domaines techniques visés par l'attestation sont identiques à ceux visés sur le certificat de classe. L'attestation d'intervention n'est redélivrée par la société de classification qu'en cas de modification de son périmètre d'intervention.
+
+24. Dans ce cadre, l'attestation d'intervention visée par l'article 42-3 du décret n° 84-810 du 30 août 1984 modifié est établie suivant le format défini en annexe A. 6 de la division 130.
+
+25. Pour les navires dont les titres de sécurité et certificats de prévention de la pollution sont délivrés, visés et renouvelés par une société de classification habilitée, en application de l'article 3-2 du décret n° 84-810 du 30 août 1984 modifié, la société de classification qui émet les titres et certificats au nom de l'Etat est celle qui délivre le certificat d'intervention visé par l'article 42-3 du décret n° 84-810 suivant le format défini en annexe A. 6 de la division 130.
+
+26. En application des dispositions des articles 42-3 et 42-6 du décret n° 84-810 du 30 août 1984 modifié, à l'exception des navires de plaisance, tout navire neuf ou acquis à l'étranger de moins de vingt-quatre mètres doit faire l'objet d'une approbation de sa structure par une société de classification habilitée. Dans ce cadre, la société de classification habilitée délivre un certificat d'intervention visé par l'article 42-3 du décret n° 84-810 du 30 août 1984 modifié suivant le format défini en annexe A. 6 de la division 130.

@@ -1,33 +1,25 @@
 # Article 130.44
 
-Commission de visite périodique.
+Visite périodique.
 
-En application l'article 27 du décret n° 84-810 du 30 août 1984 modifié, la composition de la commission de visite de mise en service est réalisée selon les modalités suivantes :
+La visite périodique visée par l'article 27 du décret n° 84-810 du 30 août 1984 modifié répond aux modalités suivantes :
 
-A. - Généralités :
+1. La visite périodique du navire est effectuée par la commission de visite du centre de sécurité compétent.
 
-1. Le président convoque les membres de la commission.
+2. L'exploitant du navire est tenu de solliciter le centre de sécurité des navires compétent conformément aux dispositions de l'article 130.8.
 
-2. Le propriétaire ou l'exploitant du navire, le constructeur ou leur représentant et le ou les délégués du personnel, délégués de bord ou représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail sont admis à assister aux opérations de la commission et à présenter leurs observations.
+3. Si le navire se trouve dans un port d'un pays signataire de la ou des conventions internationales dont le respect conditionne le renouvellement des titres de sécurité, ceux-ci peuvent être renouvelés par l'autorité maritime de ce pays, sur requête de l'autorité consulaire et après accord du ministre chargé de la mer.
 
-3. Le président statue après avis de la commission pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+4. Dans ce cas, le consul vise ou renouvelle les titres de sécurité après réunion d'une commission de visite périodique.
 
-B. - Composition :
+5. Le chef du centre de sécurité des navires compétent peut autoriser le renouvellement des titres de sécurité et de prévention de la pollution d'un navire français mentionnés au II de l'article 3-1 du décret n° 84-810. Dans ce cas, l'autorité consulaire procède au visa ou renouvellement, sur demande du chef du centre de sécurité des navires compétent, ou son délégué.
 
-Les membres d'une commission de visite périodique sont :
+6. La visite périodique a pour objet de vérifier que le navire, compte tenu de son état d'entretien et, le cas échéant, des modifications apportées après autorisation de l'autorité compétente, continue de satisfaire aux conditions auxquelles ont été délivrés et éventuellement renouvelés les titres de sécurité et de prévention de la pollution. Dans l'affirmative, elle permet le maintien des titres de sécurité et de prévention de la pollution en cours de validité dont le navire est porteur ou le renouvellement de ceux arrivant à expiration. Dans le cas contraire, elle entraîne la suspension des titres.
 
-1. Le chef de centre de sécurité des navires, ou son délégué, président.
+7. Dans ce cadre, la commission de visite périodique peut :
 
-2. Sur décision du chef de centre de sécurité des navires, un ou deux inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes. Le chef de centre de sécurité des navires peut déléguer la présidence de la commission à l'un des inspecteurs précités.
+― examiner tous les certificats et documents pertinents, y compris les brevets et diplômes des membres de l'équipage ;
 
-3. Pour les navires munis d'une installation radioélectrique, un représentant de l'Agence nationale des fréquences, sous réserve des dispositions du paragraphe C ;
+― faire procéder à des essais concernant le matériel ou l'organisation de la sécurité à bord ;
 
-4. Le médecin des gens de mer, sous réserve des dispositions du paragraphe C.
-
-C. - Dispositions particulières :
-
-1. Pour un navire d'une longueur L inférieure à 60 mètres, le président de la commission de visite périodique, sur délégation du médecin des gens de mer, peut recevoir compétence en matière d'hygiène mais doit s'assurer, préalablement à la réunion de la commission, que la composition du matériel médical et des produits pharmaceutiques ainsi que la conformité des documents médicaux ont été vérifiées par une personne compétente.
-
-2. La délibération de la commission peut valablement se faire en l'absence du médecin des gens de mer et du représentant de l'Agence nationale des fréquences s'ils ont, préalablement, remis par écrit au président un rapport de visite, effectuée dans les trois mois précédents, précisant les observations ou prescriptions qu'ils ont été amenés à émettre dans le cadre de leur spécialité. Ces rapports sont joints au procès-verbal de visite.
-
-3. A compter du 1er octobre 2012, pour les navires de charge et de pêche d'une longueur inférieure à 12 mètres, la délibération de la commission peut valablement se faire en l'absence du médecin des gens de mer du représentant de l'Agence nationale des fréquences s'ils ont, préalablement, remis par écrit au président un rapport de visite, effectuée dans les six mois précédents, précisant les observations ou prescriptions qu'ils ont été amenés à émettre dans le cadre de leur spécialité. Ces rapports sont joints au procès-verbal de visite.
+― quand des éléments substantiels le justifient, ordonner une expertise de tout matériel ou installation particulière.

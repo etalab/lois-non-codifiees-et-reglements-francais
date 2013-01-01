@@ -2,23 +2,23 @@
 
 Titres et certificats délivrés au titre de la Convention MARPOL
 
-Sauf disposition expresse contraire, le présent article s'applique s'applique à tout navire à passagers, de charge, spécial, de pêche et de plaisance.
+Sauf disposition expresse contraire, le présent article s'applique à tous les navires, y compris aux navires de plaisance.
 
 Les titres et certificats délivrés en vertu Convention Internationale de 1973 pour la prevention de la pollution par les navires, MARPOL 73/78, telle qu'amendée, sont les suivants :
 
-1. ANNEXE I de la Convention
+1. ANNEXE I DE LA CONVENTION
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="197">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="254">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="230">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,6 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 <td valign="top" width="230">
 <p>Tout pétrolier d'une jauge brute égale ou supérieure à 150</p>
 <p>Tout navire d'une jauge brute égale ou supérieure à 400</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -118,19 +117,19 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 </tbody>
 </table>
 
-2. ANNEXE II de la Convention
+2. ANNEXE II DE LA CONVENTION
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<td>
+<p align="center">Intitulé du certificat</p>
 </td>
-<td colspan="2" valign="top" width="226">
-<p>Textes de référence</p>
+<td colspan="2">
+<p align="center">Textes de référence</p>
 </td>
-<td valign="top" width="205">
-<p>Navires concernés</p>
+<td>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +143,6 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 </td>
 <td valign="top" width="205">
 <p>Tout navire transportant des substances liquides nocives en vrac</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -156,55 +154,57 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 <p>Résolution MSC.184(79)</p>
 <p>Résolution MSC.236(82) &amp; Résolution MEPC.158(55)</p>
 </td>
-<td align="left" valign="top">Tout navire de servitude transportant une quantité limitée de substances liquides nocives en vrac </td>
+<td align="left" valign="top">
+<p align="left">Tout navire de servitude transportant une quantité limitée de substances liquides nocives en vrac </p>
+</td>
 </tr>
 </tbody>
 </table>
 
-3. ANNEXE IV de la Convention
+3. ANNEXE IV DE LA CONVENTION
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="226">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="205">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="175">
-<p>Certificat international de prévention de la pollution de la pollution par les eaux usées</p>
+<p>Certificat international de prévention de la pollution par les eaux usées</p>
 </td>
 <td valign="top" width="226">
-<p>MARPOL consolidée 2002</p>
+<p>MARPOL consolidée 2002 </p>
 <p>Résolution MEPC.115(51)</p>
+<p>Résolution MEPC.200(62)</p>
 </td>
 <td valign="top" width="205">
 <p>Tout navire d'une jauge brute égale ou supérieure à 400 et tout navire autorisé à transporter 15 personnes et plus</p>
-<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-4. ANNEXE VI de la Convention
+4. ANNEXE VI DE LA CONVENTION
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<td width="175">
+<p align="center">Intitulé du certificat</p>
 </td>
-<td valign="top" width="226">
-<p>Textes de référence</p>
+<td width="226">
+<p align="center">Textes de référence</p>
 </td>
-<td valign="top" width="205">
-<p>Navires concernés</p>
+<td width="205">
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -212,10 +212,11 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 <p>Certificat international de prévention de la pollution de l'atmosphère (certificat IAPP)</p>
 </td>
 <td valign="top" width="226">
-<p>MARPOL consolidée 2002</p>
+<p>MARPOL consolidée 2002 </p>
 <p>Protocole MARPOL 1997</p>
 <p>Résolution MEPC.132(53)</p>
 <p>Résolution MEPC.176(58)</p>
+<br/>
 </td>
 <td valign="top" width="205">
 <p>Tout navire d'une jauge brute égale ou supérieure à 400</p>
@@ -223,10 +224,10 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 </tr>
 <tr>
 <td valign="top" width="175">
-<p>Fiche de construction et d'équipement (Supplément au certificat IAPP)</p>
+<p>Fiche de construction et d'équipement (supplément au certificat IAPP)</p>
 </td>
 <td valign="top" width="226">
-<p>MARPOL consolidée 2002</p>
+<p>MARPOL consolidée 2002 </p>
 <p>Protocole MARPOL 1997</p>
 <p>Résolution MEPC.132(53)</p>
 <p>Résolution MEPC.176(58)</p>
@@ -241,24 +242,35 @@ Les titres et certificats délivrés en vertu Convention Internationale de 1973 
 <p>Certificat international de prévention de la pollution de l'atmosphère par les moteurs (certificat EIAPP)</p>
 </td>
 <td valign="top" width="226">
-<p>Protocole MARPOL 1997</p>
+<p>Protocole MARPOL 1997 </p>
 <p>Résolution MEPC.177(58)</p>
 </td>
 <td valign="top" width="205">
-<p>Sous réserve des dispositions particulières de la règle 13 de l'annexe VI de la convention Marpol, tout moteur diesel d'une puissance desortie supérieure à 130kW installé à bord d'un navire construit le 1er janvier 2000 ou après cette date</p>
+<p>Sous réserve des dispositions particulières de la règle 13 de l'annexe VI de la convention MARPOL, tout moteur diesel d'une puissance de sortie supérieure à 130 kW installé à bord d'un navire construit le 1er janvier 2000 ou après cette date</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="175">
-<p>Fiche de construction, dossier technique et moyen de vérification (Supplément au certificat EIAPP)</p>
+<p>Fiche de construction, dossier technique et moyen de vérification (supplément au certificat EIAPP)</p>
 </td>
 <td valign="top" width="226">
-<p>Protocole MARPOL 1997</p>
+<p>Protocole MARPOL 1997 </p>
 <p>Résolution MEPC.132(53)</p>
 <p>Résolution MEPC.177(58)</p>
 </td>
 <td valign="top" width="205">
-<p>Sous réserve des dispositions particulières de la règle 13 de l'annexe VI de la convention Marpol, tout moteur diesel d'une puissance desortie supérieure à 130kW installé à bord d'un navire construit le 1er janvier 2000 ou après cette date</p>
+<p>Sous réserve des dispositions particulières de la règle 13 de l'annexe VI de la convention MARPOL, tout moteur diesel d'une puissance de sortie supérieure à 130 kW installé à bord d'un navire construit le 1er janvier 2000 ou après cette date</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="175">
+<p>Certificat de rendement énergétique</p>
+</td>
+<td valign="top" width="226">
+<p>Résolution MEPC.203(62)</p>
+</td>
+<td valign="top" width="205">
+<p>Tout navire de jauge brute égale ou supérieure à 400</p>
 </td>
 </tr>
 </tbody>

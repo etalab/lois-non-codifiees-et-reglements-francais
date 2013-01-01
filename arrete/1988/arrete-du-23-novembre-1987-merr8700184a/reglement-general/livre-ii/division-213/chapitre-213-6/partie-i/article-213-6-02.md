@@ -66,6 +66,54 @@ CFC-115 Chloropentafluoréthane.
 
 20. Boues d'hydrocarbures désigne les boues provenant des séparateurs de fuel-oil ou d'huile de graissage, les huiles de graissage usées provenant des machines principales ou auxiliaires ou les huiles de vidange provenant des séparateurs d'eau de cale, du matériel de filtrage des hydrocarbures ou des gattes.
 
-21. Navire-citerne désigne un pétrolier tel que défini à la règle 1 de l'annexe I ou un navire-citerne pour produits chimiques tel que défini à la règle de l'annexe II de la Convention MARPOL.
+21. Navire-citerne, dans le contexte l'article 213-6.15, désigne un pétrolier tel que défini à l'article 213-1.01 de la partie I ou un navire-citerne pour produits chimiques tel que défini à l'article 213-6.2.01 de la présente division.
 
-22. Autorité désigne le ministre chargé de la mer.
+Aux fins de la partie IV :
+
+22. Navire existant désigne un navire qui n'est pas un navire neuf.
+
+23. Navire neuf désigne un navire :
+
+.1 dont le contrat de construction est passé le 1er janvier 2013 ou après cette date ; ou
+
+.2 en l'absence d'un contrat de construction, dont la quille est posée ou qui se trouve dans un état d'avancement équivalent le 1er juillet 2013 après cette date ; ou
+
+.3 dont la livraison s'effectue le 1er juillet 2015 ou après cette date.
+
+24. Transformation importante dans le contexte de la partie IV désigne la transformation d'un navire qui :
+
+.1 en modifie considérablement les dimensions, la capacité de transport ou la puissance du moteur ; ou
+
+.2 change le type du navire ; ou
+
+.3 vise essentiellement, de l'avis de l'Autorité, à en prolonger considérablement la vie ; ou
+
+.4 entraîne par ailleurs des modifications telles que le navire, s'il était un navire neuf, serait soumis aux dispositions pertinentes de la présente division qui ne lui sont pas applicables en tant que navire existant ; ou
+
+.5 modifie considérablement le rendement énergétique du navire et entraîne des modifications qui pourraient amener le navire à dépasser l'EEDI requis indiqué à l'article 213-6.21 qui lui est applicable.
+
+25. Vraquier désigne un navire qui est destiné essentiellement à transporter des cargaisons sèches en vrac ; cette définition englobe les types de navires tels que les minéraliers, définis à la règle 1 du chapitre XII de la convention SOLAS, à l'exception des transporteurs mixtes.
+
+26. Transporteur de gaz désigne un navire de charge construit ou adapté et utilisé pour le transport en vrac de quelque gaz liquéfié que ce soit.
+
+27. Navire-citerne dans le contexte du chapitre 4 désigne un pétrolier tel que défini à l'article 213-1.01 de la présente division ou un navire-citerne pour produits chimiques ou un navire-citerne NLS tels que définis à l'article 213-2.01 de la présente division.
+
+28. Porte-conteneurs désigne un navire conçu exclusivement pour transporter des conteneurs dans ses cales et sur le pont.
+
+29. Navire pour marchandises diverses désigne un navire à plusieurs ponts ou à pont unique qui est conçu essentiellement pour transporter des marchandises diverses. Cette définition ne comprend pas les navires à cargaisons sèches qui ne sont pas inclus dans le calcul des lignes de référence applicables aux navires pour marchandises diverses, à savoir les transporteurs de bétail, les navires porte-barges, les transporteurs de charges lourdes, les transporteurs de yachts et les transporteurs de combustible nucléaire.
+
+30. Transporteur de cargaisons réfrigérées désigne un navire conçu exclusivement pour transporter des cargaisons réfrigérées dans ses cales.
+
+31. Transporteur mixte désigne un navire conçu pour transporter un chargement de cargaisons liquides et sèches en vrac correspondant à 100 % de son port en lourd.
+
+32. Navire à passagers désigne un navire qui transporte plus de 12 passagers.
+
+33. Navire roulier à cargaisons (transporteur de véhicules) désigne un navire à plusieurs ponts qui est conçu pour transporter des voitures et des camions vides.
+
+34. Navire roulier à cargaisons désigne un navire qui est conçu pour transporter des engins de transport.
+
+35. Navire roulier à passagers désigne un navire à passagers doté d'espaces rouliers à cargaisons.
+
+36. EEDI obtenu désigne la valeur de l'EEDI obtenue par un navire donné conformément à l'article 213-6.20 du chapitre IV de la présente division.
+
+37. EEDI requis désigne la valeur maximale de l'EEDI obtenu qui est tolérée par l'article 213-6.21 de la partie IV pour le type et la taille du navire donné.

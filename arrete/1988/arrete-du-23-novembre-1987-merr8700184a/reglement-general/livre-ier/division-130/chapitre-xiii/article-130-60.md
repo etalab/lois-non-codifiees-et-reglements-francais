@@ -1,17 +1,11 @@
 # Article 130.60
 
-Système d'évaluation de l'état du navire (CAS).
+Programme renforcé d'inspection des pétroliers et des vraquiers.
 
-1. Les pétroliers entrant dans le champ d'application des règles 20 ou 21 de l'annexe I à la convention MARPOL 73/78 sont soumis à un système d'évaluation de l'état du navire (CAS) que l'Organisation maritime internationale a adopté par la résolution OMI MEPC.94(46) telle que modifiée.
+Les pétroliers entrant dans le champ d'application de la règle 20 de l'annexe I à la convention MARPOL 73/78 sont soumis à un programme renforcé d'inspection, conformément aux directives de l'Organisation maritime internationale, adoptées par la résolution OMI A.744(18) telle qu'amendée.
 
-2. Le respect de cette disposition est une condition de validité du certificat international de prévention de la pollution par les hydrocarbures (certificat IOPP).
+Le respect de ces dispositions est une condition de validité du certificat international de prévention de la pollution par les hydrocarbures (IOPP).
 
-3. Les sociétés de classification habilitées effectuent cette évaluation conformément aux directives de l'OMI. A ce titre, elles sont autorisées à procéder à la visite CAS, à rédiger le rapport de visite CAS et à délivrer, le cas échéant, la déclaration de conformité intérimaire. En outre, chaque année, les sociétés de classification fournissent au sous-directeur chargé de la sécurité des navires :
+Les pétroliers et les vraquiers entrant dans le champ d'application du chapitre XI-1 de la convention SOLAS sont soumis au même programme renforcé d'inspection.
 
-1. Le détail des déclarations de conformité intérimaires qu'elles ont délivrées.
-
-2. Les circonstances de la suspension ou du retrait des déclarations de conformité intérimaires qu'elles ont délivrées.
-
-3. Les caractéristiques des navires auxquels elles ont refusé de délivrer une déclaration de conformité intérimaire et les motifs de ce refus.
-
-4. La supervision des travaux que les sociétés de classification habilitées mènent au nom de l'administration est effectuée par le centre de sécurité des navires compétent pour le navire soumis à la visite CAS.
+Le respect de ces dispositions est une condition de validité du certificat de sécurité de construction, ou des rubriques relatives à la sécurité de la construction dans le certificat de sécurité pour navire de charge.

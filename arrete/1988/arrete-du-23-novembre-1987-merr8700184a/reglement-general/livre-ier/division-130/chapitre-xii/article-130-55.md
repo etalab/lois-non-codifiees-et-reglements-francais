@@ -1,41 +1,15 @@
 # Article 130.55
 
-Dossier de sécurité du navire et mise à disposition d'informations au titre de la directive européenne n° 2009/21/CE.
+Obligation d'information.
 
-1. Pour tout navire, et en application de l'article 6 de la directive européenne n° 2009/21/CE, chaque centre de sécurité des navires doit être en mesure de produire, le cas échéant, à l'administration centrale les informations suivantes :
+En application l'article 3-3 du décret n° 84-810 du 30 août 1984 modifié, le propriétaire ou l'exploitant du navire, le capitaine du navire et la société de classification, si celle-ci en a été informée, font connaître au centre de sécurité des navires compétent, sans délai et dans tous les cas avant que le navire ne quitte le port, ainsi que, le cas échéant, à la société de classification habilitée :
 
-― les caractéristiques du navire (nom, numéro OMI) ;
+a) Toute avarie susceptible de porter atteinte à la sécurité du navire, à celle de l'équipage ou des personnes embarquées et à la protection de l'environnement ;
 
-― les dates de toutes les visites effectuées, y compris, le cas échéant, les visites supplémentaires et complémentaires, ainsi que des audits ;
+b) Toute modification susceptible de remettre en cause les conditions de délivrance ou de maintien des titres de sécurité du navire ;
 
-― l'identité des organismes agréés ayant participé à la certification et à la classification du navire ;
+c) Tout retrait de classe ;
 
-― l'identité de l'autorité compétente qui a inspecté le navire en vertu des dispositions relatives au contrôle par l'Etat du port et des dates des inspections ;
+d) Toute réserve importante émise sur le certificat de classification ;
 
-― le résultat des inspections menées dans le cadre du contrôle par l'Etat du port (anomalies : oui ou non ; immobilisations : oui ou non).
-
-2. Le dossier de sécurité du navire est normalement tenu par le centre de sécurité compétent suivant les dispositions de l'article 130.6.
-
-3. Le dossier comprend au minimum :
-
-― la déclaration de mise en chantier ou d'acquisition d'un navire à l'étranger, de mise en refonte, de modifications importantes ou grande réparation ;
-
-― l'ensemble des procès-verbaux d'examen de conformité des dossiers aux exigences du présent règlement ;
-
-― toute correspondance utile ayant trait au navire ;
-
-― les rapports de visite ;
-
-― les titres et certificats initiaux ;
-
-― un plan d'ensemble ;
-
-― le dossier de stabilité ;
-
-― le rapport de franc-bord ;
-
-― tout document nécessitant une approbation ;
-
-― la copie des derniers titres et certificats de sécurité délivrés.
-
-4. En application de l'article 4.2 de la directive n° 2009/21/CE, chaque fois qu'un autre Etat du pavillon sollicite des informations concernant un navire qui battait précédemment le pavillon français, le centre de sécurité des navires concerné fournit rapidement à l'Etat du pavillon demandeur des renseignements détaillés sur les anomalies à régler et toute autre information pertinente en matière de sécurité.
+e) Toute déclaration faite à l'assureur sur corps, lorsque cette déclaration est relative à la sécurité du navire ou à la prévention de la pollution.

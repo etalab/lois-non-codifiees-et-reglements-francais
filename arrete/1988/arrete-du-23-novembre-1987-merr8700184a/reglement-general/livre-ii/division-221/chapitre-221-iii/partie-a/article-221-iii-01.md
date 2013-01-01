@@ -8,7 +8,7 @@ Application
 
 .1 une construction identifiable à un navire particulier commence ; et
 
-.2 le montage du navire considéré a commencé, employant au moins 50 tonnes ou 1% de la masse estimée de tous les matériaux de structure, si cette dernière valeur est inférieure.
+.2 le montage du navire considéré a commencé, employant au moins 50 tonnes ou 1 % de la masse estimée de tous les matériaux de structure, si cette dernière valeur est inférieure.
 
 3 Aux fins du présent chapitre
 
@@ -23,3 +23,5 @@ Application
 .1 sous réserve des dispositions du paragraphe 4.2, veiller à l'observation des prescriptions qui, en vertu du chapitre III de la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, en vigueur avant le Ier juillet 1998, sont applicables aux navires neufs ou existants, ainsi qu'il est prescrit dans ce chapitre ; et
 
 .2 veiller à ce que, lorsque les engins ou dispositifs de sauvetage qui se trouvent à bord de ces navires sont remplacés ou que ces navires font l'objet de réparations, de modifications ou de transformations d'une importance majeure qui impliquent le remplacement ou l'adjonction d'engins ou de dispositifs de sauvetage, ces engins ou dispositifs satisfassent aux prescriptions du présent chapitre pour autant que ce soit raisonnable et possible en pratique. Toutefois, si l'on remplace une embarcation ou un radeau de sauvetage autre qu'un radeau de sauvetage gonflable sans remplacer son dispositif de mise à l'eau ou vice versa, l'embarcation ou le radeau de sauvetage ou le dispositif de mise à l'eau peut être du même type que celui qu'il remplace.
+
+5 Nonobstant l'alinéa 4.2, pour tous les navires, au plus tard à la date de la première mise en cale sèche prévue après le 1er juillet 2014 mais au plus tard le 1er juillet 2019, les mécanismes de largage en charge qui ne satisfont pas aux dispositions des paragraphes 4.4.7.6.4 à 4.4.7.6.6 du Recueil doivent être remplacés par du matériel qui satisfait aux dispositions du recueil (1).

@@ -1,19 +1,21 @@
 # Article 130.35
 
-Soumission des documents à une commission régionale de sécurité.
+Zones de compétence des commissions régionales de sécurité.
 
-1. Lorsque l'examen du dossier d'un navire relève de la compétence d'une commission régionale de sécurité, il lui est fourni un exemplaire de chacun des documents visé par l'annexe 130-A.1. Les documents relatifs aux installations de radiocommunication sont fournis en deux exemplaires.
+Une commission régionale de sécurité siège au Havre, à Nantes, à Bordeaux, à Marseille, à Fort-de-France, à Saint-Denis de La Réunion, à Nouméa et à Papeete.
 
-2. Les plans et documents relatifs aux installations de radiocommunication sont transmis, par l'administration, pour avis, à l'Agence nationale des fréquences (ANFr), en vue de leur examen en commission régionale de sécurité.
+La compétence de la commission régionale de sécurité siégeant au Havre s'étend aux zones de compétence des centres de sécurité des navires de Dunkerque, Boulogne, Seine-Maritime Ouest, Seine-Maritime Est, Manche-Calvados et, pour l'examen des dossiers des navires autres que de pêche, à la collectivité d'outre-mer de Saint-Pierre-et-Miquelon.
 
-3. Les plans et documents fournis sont examinés et font l'objet d'une étude de conformité par la commission conformément à la liste des points étudiés prévus à l'annexe 130-A.1.
+La compétence de la commission régionale de sécurité siégeant à Nantes s'étend aux zones des centres de sécurité des navires d'Ille-et-Vilaine, Côtes-d'Armor, Finistère Nord, Finistère Sud, Morbihan et Pays de la Loire et pour l'examen des dossiers des navires de pêche, à la collectivité d'outre-mer de Saint-Pierre-et-Miquelon.
 
-4. Pour les navires soumis à l'obligation de classification, les plans et documents soumis à l'examen de la commission doivent, préalablement à leur envoi à la commission, être visés par une société de classification habilitée, de façon à attester de leur examen par cette société de classification conformément à son règlement de classe et suivant les domaines techniques requis (cf. article 130.25). Les plans et documents, y compris ceux modifiés, sont transmis accompagnés des commentaires de la société de classification habilitée.
+La compétence de la commission régionale de sécurité siégeant à Bordeaux s'étend aux zones des centres de sécurité des navires de Charente-Maritime et Aquitaine.
 
-5. Les plans et documents relatifs à des domaines techniques non couverts par le règlement de classe de la société de classification habilitée et ceux des navires non soumis à l'obligation de classification ne sont pas soumis à cette obligation de visa. Les plans et documents modifiés doivent également être transmis à la commission.
+La compétence de la commission régionale de sécurité siégeant à Marseille s'étend aux zones des centres de sécurité des navires de Languedoc-Roussillon et Provence-Côte d'Azur-Corse.
 
-6. Les études et visas des différents documents et manuels qui doivent être présents sur les navires sont répartis entre la commission et le centre de sécurité compétent de la manière détaillée dans l'annexe 130-A.3.
+La compétence de la commission régionale de sécurité siégeant à Fort-de-France s'étend à la zone du centre de sécurité des navires Antilles-Guyane.
 
-7. Préalablement à la délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, la commission formule dans ses avis les prescriptions dont elle estime indispensable la réalisation. La commission peut, en outre, requérir un délai d'étude supplémentaire avant d'émettre un avis ne s'opposant pas à la délivrance des titres.
+La compétence de la commission régionale de sécurité siégeant à Saint-Denis de La Réunion s'étend à la zone du centre de sécurité des navires océan Indien.
 
-8. Elle procède de même en vue de la délivrance des titres définitifs de sécurité.
+La zone de compétence de la commission régionale de sécurité siégeant à Nouméa s'étend au territoire de la Nouvelle-Calédonie et aux îles Wallis et Futuna.
+
+La zone de compétence de la commission régionale de sécurité siégeant à Papeete s'étend au territoire de la Polynésie française.

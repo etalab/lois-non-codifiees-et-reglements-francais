@@ -3,4 +3,5 @@
 - [Partie I : Généralités](partie-i)
 - [Partie II : Visites, délivrance des certificats et mesures de contrôle](partie-ii)
 - [Partie III : Prescriptions relatives au contrôle des émissions provenant des navires](partie-iii)
+- [Partie IV : Prescriptions relatives au rendement énergétique des navires](partie-iv)
 - [Annexes](annexes)

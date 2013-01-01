@@ -6,7 +6,7 @@ En application du paragraphe II.14 de l'article 1er du décret n° 84-810 modifi
 
 1. A l'exception des navires de plaisance à utilisation commerciale, les navires de plaisance sont exclus des dispositions du présent article.
 
-2. Les engins à grande vitesse tels que définis à l'article 110.2 sont exclus des dipositions du présent article. Les catégories de navigation de ces navires sont définies par le Recueil des règles de sécurité applicables aux engins à grande vitesse, 2000 (recueil HSC 2000).
+2. Les engins à grande vitesse tels que définis à l'article 110.2 sont exclus des dipositions du présent article. Les catégories de navigation de ces navires sont définies par le Recueil international de règles de sécurité applicables aux engins à grande vitesse.
 
 3. Les navires soumis aux dispositions de la division 223a sont exclus des dipositions du présent article. Les catégories de navigation de ces navires sont définies par ladite division.
 

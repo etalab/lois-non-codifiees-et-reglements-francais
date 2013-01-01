@@ -17,6 +17,7 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <tr>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="265">
 <p align="center">CERTIFICATS/ VISITES</p>
@@ -434,6 +435,14 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <p align="center">H</p>
 </td>
 </tr>
+<tr>
+<td align="center"> 21</td>
+<td align="left">Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE) </td>
+<td align="center"> H</td>
+<td align="center"> H</td>
+<td align="center"> H</td>
+<td align="center"> H</td>
+</tr>
 </tbody>
 </table>
 
@@ -447,6 +456,7 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <tbody>
 <tr>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="265">

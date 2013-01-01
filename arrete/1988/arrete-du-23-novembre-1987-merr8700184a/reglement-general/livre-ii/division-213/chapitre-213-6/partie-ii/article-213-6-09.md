@@ -2,11 +2,13 @@
 
 Durée et validité du certificat.
 
-1. Un certificat international de prévention de la pollution de l'atmosphère doit être délivré pour une période dont la durée est fixée par l'autorité, sans que cette durée puisse dépasser cinq ans.
+Certificat international de prévention de la pollution de l'atmosphère.
+
+1. Un certificat international de prévention de la pollution de l'atmosphère doit être délivré pour une période dont la durée est fixée par l'Autorité, sans que cette durée puisse dépasser cinq ans.
 
 2. Nonobstant les prescriptions du paragraphe 1 du présent article :
 
-.1 lorsque la visite de renouvellement est achevée dans un délai de trois mois avant la date d'expiration du certificat existant, le nouveau certificat est valable à compter de la date d'achèvement de la visite de renouvellement jusqu'à une date qui n'est pas postérieure de plus de cinq ans à la date d'expiration du certificat existant.
+.1 lorsque la visite de renouvellement est achevée dans un délai de trois mois avant la date d'expiration du certificat existant, le nouveau certificat est valable à compter de la date d'achèvement de la visite de renouvellement jusqu'à une date qui n'est pas postérieure de plus de cinq ans à la date d'expiration du certificat existant ;
 
 .2 lorsque la visite de renouvellement est achevée après la date d'expiration du certificat existant, le nouveau certificat est valable à compter de la date d'achèvement de la visite de renouvellement jusqu'à une date qui n'est pas postérieure de plus de cinq ans à la date d'expiration du certificat existant ; et
 
@@ -24,16 +26,26 @@ Durée et validité du certificat.
 
 8. Si une visite annuelle ou une visite intermédiaire est achevée avant le délai spécifié à l'article 213-6.05 du présent chapitre :
 
-.1 La date anniversaire figurant sur le certificat est remplacée, au moyen de l'apposition d'un visa, par une date qui ne doit pas être postérieure de plus de trois mois à la date à laquelle la visite est achevée ;
+.1 la date anniversaire figurant sur le certificat est remplacée, au moyen de l'apposition d'un visa, par une date qui ne doit pas être postérieure de plus de trois mois à la date à laquelle la visite est achevée ;
 
-.2 La visite annuelle ou la visite intermédiaire suivante prescrite à l'article 213-6.05 du présent chapitre doit être achevée aux intervalles prescrits par cet article, calculés à partir de la nouvelle date anniversaire ;
+.2 la visite annuelle ou la visite intermédiaire suivante prescrite à l'article 213-6.05 du présent chapitre doit être achevée aux intervalles prescrits par cet article, calculés à partir de la nouvelle date anniversaire ;
 
-.3 La date d'expiration peut demeurer inchangée à condition qu'une ou plusieurs visites annuelles ou intermédiaires, selon le cas, soient effectuées de telle sorte que les intervalles maximaux entre visites prescrits à l'article 213-6.05 du présent chapitre ne soient pas dépassés.
+.3 la date d'expiration peut demeurer inchangée à condition qu'une ou plusieurs visites annuelles ou intermédiaires, selon le cas, soient effectuées de telle sorte que les intervalles maximaux entre visites prescrits à l'article 213-6.05 du présent chapitre ne soient pas dépassés.
 
 9. Un certificat délivré en vertu de l'article 213-6.06 ou de l'article 213-6.07 du présent chapitre cesse d'être valable dans l'un quelconque des cas suivants :
 
-.1 Si les visites pertinentes ne se sont pas achevées dans les délais spécifiés à l'article 213-6.05.1 du présent chapitre ;
+.1 si les visites pertinentes ne se sont pas achevées dans les délais spécifiés à l'article 213-6.05.1 du présent chapitre ;
 
-.2 Si les visas prévus au paragraphe 1.3 ou au paragraphe 1.4 de l'article 213-6.05 du présent chapitre n'ont pas été apposés sur le certificat ; ou
+.2 si les visas prévus au paragraphe 1.3 ou au paragraphe 1.4 de l'article 213-6.05 du présent chapitre n'ont pas été apposés sur le certificat ; ou
 
-.3 Si le navire passe sous le pavillon d'un autre Etat. Un nouveau certificat ne doit être délivré que lorsque le gouvernement délivrant le nouveau certificat s'est assuré que le navire satisfait aux prescriptions du paragraphe 4 de l'article 213-6.05 du présent chapitre. Dans le cas d'un transfert de pavillon entre Parties, si la demande lui en est faite dans un délai de trois mois à compter du transfert, le Gouvernement de la Partie dont le navire était autorisé précédemment à battre le pavillon doit adresser, dès que possible, à l'administration des copies du certificat dont le navire était muni avant le transfert, ainsi que des copies des rapports de visite pertinents, le cas échéant.
+.3 si le navire passe sous le pavillon d'un autre Etat. Un nouveau certificat ne doit être délivré que lorsque le gouvernement délivrant le nouveau certificat s'est assuré que le navire satisfait aux prescriptions du paragraphe 4 de l'article 213-6.05 du présent chapitre. Dans le cas d'un transfert de pavillon entre Parties, si la demande lui en est faite dans un délai de trois mois à compter du transfert, le Gouvernement de la Partie dont le navire était autorisé précédemment à battre le pavillon doit adresser, dès que possible, à l'administration des copies du certificat dont le navire était muni avant le transfert, ainsi que des copies des rapports de visite pertinents, le cas échéant.
+
+Certificat international relatif au rendement énergétique.
+
+10. Le certificat international relatif au rendement énergétique reste valable tout au long de la durée de vie du navire sous réserve des dispositions du paragraphe 11 ci-dessous.
+
+11. Un certificat international relatif au rendement énergétique délivré en vertu du présent chapitre 213-06 cesse d'être valable dans l'un quelconque des cas suivants :
+
+.1 si le navire est retiré du service ou si un nouveau certificat lui est délivré à l'issue d'une transformation importante ; ou
+
+.2 si le navire passe sous le pavillon d'un autre Etat. Un nouveau certificat ne doit être délivré que si le gouvernement délivrant le nouveau certificat a la certitude que le navire satisfait pleinement aux prescriptions de la partie 4. Dans le cas d'un transfert de pavillon entre Parties, si la demande lui en est faite dans un délai de trois mois à compter du transfert, le Gouvernement de la Partie dont le navire était autorisé précédemment à battre le pavillon adresse à l'administration, dès que possible, des copies du certificat dont le navire était pourvu avant le transfert, ainsi que des copies des rapports de visite pertinents, le cas échéant.

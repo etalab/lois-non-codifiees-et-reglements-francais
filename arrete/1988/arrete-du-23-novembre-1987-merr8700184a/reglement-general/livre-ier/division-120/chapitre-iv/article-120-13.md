@@ -7,41 +7,43 @@ Tout navire à passagers et tous les autres navires d'une longueur égale ou sup
 <table>
 <tbody>
 <tr>
-<td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<td>
+<p align="center">INTITULÉ DU CERTIFICAT</p>
 </td>
-<td valign="top" width="226">
-<p>Textes de référence</p>
+<td>
+<p align="center">TEXTES DE RÉFÉRENCE</p>
 </td>
-<td valign="top" width="205">
-<p>Navires concernés</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="175">
-<p>Certificat national de franc-bord</p>
-</td>
-<td valign="top" width="226">
-<p>Division 222</p>
-<p>Division 223</p>
-<p>Division 236</p>
-</td>
-<td valign="top" width="205">
-<p>Tout navire de charge et à passagers, de plus de 12 mètres effectuant une navigation nationale, à l'exception des navires de plaisance de longueur hors tout inférieure à 30 mètres et des navires sous-marins</p>
+<td>
+<p align="center">NAVIRES CONCERNÉS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="175">
-<p>Certificat national de franc-bord pour navire de pêche</p>
+<td align="left" valign="top">
+<br/>Certificat national de franc-bord<br/>
 </td>
-<td valign="top" width="226">
-<p>Division 226</p>
-<p>Division 228</p>
-<p>Division 230</p>
+<td align="left" valign="top">
+<br/>Division 222<br/>
+<br/>Division 223<br/>
+<br/>Division 236<br/>
+<br/>Convention sur les lignes de charge de 1966<br/>
 </td>
-<td valign="top" width="205">
-<p>Tout navire de pêche ou aquacole de plus de 12 mètres</p>
+<td align="left" valign="top">
+<br/>Tout navire à passagers<br/>
+<br/>Tout navire de charge d'une longueur égale ou supérieure à 12 mètres effectuant une navigation nationale, à l'exception des navires de plaisance de longueur hors tout inférieure à 30 mètres et des navires sous-marins<br/>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Certificat national de franc-bord pour navire de pêche<br/>
+</td>
+<td align="left" valign="top">
+<br/>Division 226<br/>
+<br/>Division 228<br/>
+<br/>Division 230<br/>
+<br/>Convention sur les lignes de charge de 1966<br/>
+</td>
+<td align="left" valign="top">
+<br/>Tout navire de pêche ou aquacole d'une longueur égale ou supérieure à 12 mètres</td>
 </tr>
 </tbody>
 </table>

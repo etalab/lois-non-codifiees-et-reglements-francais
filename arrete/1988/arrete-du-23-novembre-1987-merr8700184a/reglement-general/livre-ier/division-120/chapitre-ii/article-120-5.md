@@ -127,7 +127,7 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <br/>Document de conformité "Prescriptions applicables aux navires transportant des marchandises dangereuses" <br/>
 </td>
 <td align="left" valign="top">
-<br/>MSC. 1/ Circ. 1266 <br/>
+<br/>MSC. 1/Circ. 1266 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Tout navire à passagers <p>Tout navire de charge d'une jauge brute supérieure ou égale à 500 <br/>
@@ -237,25 +237,25 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <tbody>
 <tr>
 <td width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td width="226">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td width="205">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
-<td width="176">
+<td align="left" valign="top">
 <p>Certificat international d'aptitude au transport de gaz liquéfiés en vrac</p>
 </td>
-<td width="226">
+<td align="left" valign="top">
 <p>RECUEIL IGC</p>
 <p>Résolution MSC.17(58) (1)</p>
 <p>Résolution MSC.177(79)</p>
 </td>
-<td width="205">
+<td align="left" valign="top">
 <p>Tout navire transportant de gaz liquéfiés en vrac</p>
 </td>
 </tr>
@@ -268,26 +268,26 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <tbody>
 <tr>
 <td width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td width="226">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td width="205">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
-<td width="175">
+<td align="left" valign="top">
 <p>Certificat international d'aptitude au transport de produits chimiques dangereux en vrac</p>
 </td>
-<td width="226">
+<td align="left" valign="top">
 <p>RECUEIL IBC</p>
 <p>Résolution MEPC.40(29) (1)</p>
 <p>Résolution MSC.16(58) (1)</p>
 <p>Résolutions MSC.176(79) et MEPC.119(52)</p>
 </td>
-<td width="205">
+<td align="left" valign="top">
 <p>Tout navire citerne transportant des produits chimiques dangereux en vrac</p>
 </td>
 </tr>
@@ -300,42 +300,44 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <tbody>
 <tr>
 <td width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td colspan="2" width="226">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td width="205">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
-<td>Certificat international d'aptitude au transport de cargaisons INF</td>
-<td colspan="2">
+<td align="left" valign="top">
+<p align="left">Certificat international d'aptitude au transport de cargaisons INF</p>
+</td>
+<td align="left" colspan="2" valign="top">
 <p>Résolution MSC.88(71)</p>
 <p>Résolution MSC.118(74)</p>
 <p>Résolution MSC.178(79)</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Tout navire transportant une cargaison INF</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-5. Les titres et certificats délivrés en vertu de la Convention internationale pour la Sauvegarde de la vie humaine en mer, SOLAS 1974, telle qu'amendée, et en application des recueils HSC 2000 et HSC 94 sont les suivants :
+5. Les titres et certificats délivrés en vertu de la Convention internationale pour la Sauvegarde de la vie humaine en mer, SOLAS 1974, telle qu'amendée, et en application du recueil de règles de sécurité applicables aux engins à portance dynamique et des recueils internationaux de règles de sécurité applicables aux engins à grande vitesse HSC 2000 et HSC 94 sont les suivants :
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="227">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="208">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -439,13 +441,13 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <tbody>
 <tr>
 <td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="227">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="208">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -460,7 +462,7 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <p>Résolution MSC.266(84)</p>
 </td>
 <td valign="top" width="208">
-<p>Tout navire spécial d'une longueur supérieure à égale à 24m</p>
+<p>Tout navire spécial d'une longueur supérieure à égale à 24 m</p>
 </td>
 </tr>
 <tr>
@@ -476,7 +478,7 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <p>Résolutions MSC.282(86) et MSC.283(83) par extension</p>
 </td>
 <td valign="top" width="208">
-<p>Tout navire spécial d'une longueur supérieure à égale à 24m</p>
+<p>Tout navire spécial d'une longueur supérieure à égale à 24 m</p>
 </td>
 </tr>
 </tbody>
@@ -490,13 +492,13 @@ En plus du certificat de sécurité pour navire spécial, le navire doit dispose
 <tbody>
 <tr>
 <td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td colspan="2" valign="top" width="227">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="208">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -519,13 +521,13 @@ En plus du certificat de sécurité pour navire spécial, le navire doit dispose
 <tbody>
 <tr>
 <td valign="top" width="195">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="253">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="232">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -555,13 +557,13 @@ En plus du certificat de sécurité pour navire spécial, le navire doit dispose
 <tbody>
 <tr>
 <td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="227">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="208">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>
@@ -587,13 +589,13 @@ En plus du certificat de sécurité pour navire spécial, le navire doit dispose
 <tbody>
 <tr>
 <td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<p align="center">Intitulé du certificat</p>
 </td>
 <td valign="top" width="227">
-<p>Textes de référence</p>
+<p align="center">Textes de référence</p>
 </td>
 <td valign="top" width="205">
-<p>Navires concernés</p>
+<p align="center">Navires concernés</p>
 </td>
 </tr>
 <tr>

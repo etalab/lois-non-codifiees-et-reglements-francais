@@ -46,8 +46,34 @@ Latitude 24° 30' S et longitude 154° 00' E ;
 
 et enfin le point de latitude 24° 42' S et de longitude 153° 15' E sur la côte australienne.
 
+5 bis "zone spéciale" désigne une zone maritime qui, pour des raisons techniques reconnues dues à sa situation océanographique et écologique ainsi qu'au caractère particulier de son trafic, appelle l'adoption de méthodes obligatoires particulières pour prévenir la pollution des mers par les eaux usées.
+
+Les zones spéciales sont les suivantes :
+
+. 1 la zone de la mer Baltique, telle que définie à la règle 213-1.01.11.2 du chapitre 1er de la présente division ; et
+
+. 2 toute autre zone maritime désignée par l'Organisation maritime internationale conformément aux critères et procédures pour la désignation des zones spéciales eu égard à la prévention de la pollution par les eaux usées provenant des navires (1).
+
 6. "Voyage international" désigne un voyage entre un pays auquel s'applique la Convention MARPOL 73/78 et un port situé en dehors de ce pays, ou réciproquement.
 
 7. "Personne" signifie un membre de l'équipage ou un passager.
 
+7 bis Un "passager" désigne toute personne autre que :
+
+.1 le capitaine et les membres de l'équipage ou autres personnes employées ou occupées en quelque qualité que ce soit à bord d'un navire pour les besoins de ce navire ; et
+
+.2 les enfants de moins d'un an.
+
+7 ter Un "navire à passagers" désigne un navire qui transporte plus de douze passagers.
+
+Aux fins de l'application de l'article 213-4.11.3, un navire à passagers neuf est un navire à passagers :
+
+.1 dont le contrat de construction est passé, ou en l'absence d'un contrat de construction, dont la quille est posée ou qui se trouve dans un état d'avancement équivalent le 1er janvier 2016 ou après cette date ; ou
+
+.2 dont la livraison s'effectue deux ans ou plus après le 1er janvier 2016.
+
+Un navire à passagers existant est un navire à passagers qui n'est pas un navire à passagers neuf.
+
 8. "Date anniversaire" désigne le jour et le mois de chaque année qui correspondent à la date d'expiration du certificat international de prévention de la pollution par les eaux usées.
+
+(1) Se reporter à la résolution de l'Assemblée A. 927 (22), intitulée "Directives pour la désignation de zones spéciales en vertu de MARPOL 73/78 et Directives pour l'identification et la désignation de zones maritimes particulièrement vulnérables".

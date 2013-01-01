@@ -30,6 +30,4 @@ Pour les compagnies et/ou propriétaires existants, la demande d'attribution du 
 
 Les numéros peuvent être obtenus en contactant LRF à l'adresse suivante :
 
-Lloyd's Register - Fairplay Ltd, Lombard House, 3, Princess Way, Redhill, Surrey, RH1 1UP, Royaume-Uni, téléphone : (+44) 1737 379000 / (+44) 1737 379060, télécopieur : (+44) 1737 379001 / (+44) 1737 379040, site web :  www.lrfairplay.com , courriel :  owners-data-feedback@lrfairplay.com.
-
-Lorsque la demande se fait par courrier ou par télécopie, les formulaires figurant à l'annexe 110-A.2 peuvent être utilisés.
+Les numéros peuvent être obtenus en contactant LRF à l'adresse suivante :  http://www.imonumbers.lrfairplay.com  .

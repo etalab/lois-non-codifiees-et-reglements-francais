@@ -840,9 +840,37 @@ Annexe VI
 
 Prévention de la pollution de l'air par les navires
 
-Certificat d'approbation et manuel d'exploitation de l'incinérateur ;
+― certificat d'approbation et manuel d'exploitation de l'incinérateur ;
 
-Certificats EIAPP.
+― indice d'efficacité énergétique des navires neufs (EEDI) :
+
+L'armateur  fournira un dossier technique sur l'EEDI conformément aux directives de  2012 sur les visites et la délivrance des certificats concernant  l'indice nominal de rendement énergétique (MEPC. 214 [63])
+
+Le dossier comprendra au minimum les informations suivantes :
+
+―  le port en lourd ou la jauge brute pour les navires à passagers et les  navires rouliers à passagers, la puissance maximale continue (MCR) des  moteurs principaux et auxiliaires, la vitesse du navire (Vref), la  consommation spécifique de combustible (SFC) du moteur principal à 75 %  de la MCR, la SFC des moteurs auxiliaires à 50 % de la MCR et le tableau  des puissances électriques ;
+
+― une (ou des) courbe  (s) de puissance (kW ― nœuds) calculée (s) au stade de la conception  et, dans le cas où l'essai en mer est effectué dans une condition autre  que celle susmentionnée, une courbe de puissance estimée dans des  conditions d'essai en mer ;
+
+― les caractéristiques  principales, le type de navire et les renseignements permettant de  déterminer le type de navire, les mentions de classification et une vue  d'ensemble du système de propulsion et du circuit d'alimentation  électrique à bord ;
+
+― le processus d'estimation et la méthodologie utilisés pour les courbes de puissance au stade de la conception ;
+
+― la description de l'équipement d'économie d'énergie ;
+
+―  la valeur calculée de l'EEDI obtenu visée par une société de  classification habilitée et accompagnée d'un résumé des calculs  contenant au moins chaque valeur des paramètres de calcul.
+
+Les informations complémentaires suivantes peuvent être transmises par l'armateur :
+
+― méthode et rapport des essais en carène, qui inclura le nom de l'installation, les caractéristiques des bassins ;
+
+―  le plan des formes d'un modèle de navire et d'un navire réel pour  vérifier l'adéquation de l'essai en bassin ; ce plan (élévations  longitudinale, transversale et horizontale) devrait être assez détaillé  pour faire ressortir la similarité entre le modèle de navire et le  navire réel ;
+
+― processus de calcul de la vitesse du navire ;
+
+― le poids lège du navire et la table des déplacements pour la vérification du port en lourd.
+
+Plan  de gestion de rendement énergétique (SEEMP) établit conformément aux  directives de 2012 pour l'élaboration du plan de gestion énergétique du  navire conforme à la résolution (MEPC. 213 [63]).
 
 XII. - Mesures de sécurité supplémentaires applicables aux vraquiers :
 

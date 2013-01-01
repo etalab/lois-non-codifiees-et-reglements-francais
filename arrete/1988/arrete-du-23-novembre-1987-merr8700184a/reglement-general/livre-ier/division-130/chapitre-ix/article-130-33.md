@@ -1,27 +1,21 @@
 # Article 130.33
 
-Fonctionnement de la commission centrale de sécurité.
+Soumission des documents et examen en commission centrale de sécurité.
 
-1. Les plans et documents doivent être remis au bureau de la règlementation et du contrôle de la sécurité des navires, au minimum quinze jours avant la date de la commission. Dans le cas contraire les plans et documents sont examinés lors de la réunion suivante de la commission.
+1. Lorsque l'examen du dossier d'un navire relève de la compétence de la commission centrale de sécurité, l'exploitant du navire ou son représentant lui présente un exemplaire de chacun des plans et documents visés par l'annexe 130-A.2.
 
-2. La commission centrale de sécurité (CCS) examine les types de procès-verbaux suivants relevant de sa compétence :
+2. Les plans et documents relatifs aux installations de radiocommunication sont fournis en deux exemplaires. Ces plans et documents relatifs aux installations de radiocommunication sont transmis, par l'administration, pour avis à l'Agence nationale des fréquences (ANFR), en vue de leur examen en commission centrale de sécurité.
 
-a) PV CCS NAV : procès-verbal relatif à l'examen du dossier des navires ;
+3. Les plans et documents soumis à l'examen de la commission, doivent,  préalablement à leur envoi à la commission, être visés par une société  de classification habilitée, de façon à attester de leur examen par  cette société de classification conformément à son règlement de classe  et suivant les domaines techniques requis (cf. article 130.26). Les  plans et documents relatifs à des domaines techniques non couverts par  le règlement de classe de la société de classification habilitée ne sont  pas soumis à cette obligation de visa. Les plans et documents, y  compris ceux modifiés, sont transmis accompagnés des commentaires de la  société de classification habilitée.
 
-b) PV CCS ISM : procès-verbal relatif à l'examen des rapports d'audit des compagnies soumises à l'application de la division 160 ;
+4. Les plans et documents fournis sont examinés par la commission conformément à la liste des points étudiés prévus à l'annexe 130-A.2.
 
-c) PV CCS REC : procès-verbal relatif à l'examen des recours ;
+5. L'annexe 130-A.2 donne une liste de certificats spécifiques et de documents soumis à l'approbation de l'autorité compétente et précise pour chaque document l'entité responsable de l'étude et celle chargée de le viser après approbation formelle de l'autorité compétente.
 
-d) PV CCS INF : procès-verbal ayant pour objet d'informer les membres de la commission de tout projet d'évolution règlementaire ;
+6. Les plans et documents font l'objet d'une étude de conformité pour chaque item identifié au titre de l'annexe 130-A.2
 
-e) PV CCS REG : procès-verbal ayant pour objet de soumettre à l'avis des membres de la commission toute évolution règlementaire modifiant le présent arrêté, ou les rapports d'évaluation des habilitations des organismes techniques ;
+7. Les études et visas des différents documents et manuels qui doivent être présents sur les navires sont répartis entre la commission et le centre de sécurité compétent de la manière détaillée dans l'annexe 130-A.3.
 
-f) PV CCS INT : procès-verbal ayant pour objet de soumettre à l'avis des membres de la commission toute interprétation de la règlementation nationale ou internationale ;
+8. Préalablement à la délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, la commission formule dans ses avis les prescriptions dont elle estime indispensable la réalisation. La commission peut, en outre, requérir un délai d'étude supplémentaire avant d'émettre un avis ne s'opposant pas à la délivrance des titres.
 
-g) PV CCS CONS : procès-verbal ayant pour objet de consulter les membres de la commission sur tout sujet relatif à la sauvegarde de la vie humaine en mer, à l'habitabilité et la prévention de la pollution ;
-
-3. Après avis de la commission centrale de sécurité le ministre chargé de la mer notifie sa décision à l'exploitant du navire concerné par les PV NAV, ISM et REC. La délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, ainsi que la délivrance des titres définitifs, ne peut intervenir qu'après notification de la décision du ministre chargé de la mer.
-
-4. Après avis de la commission centrale de sécurité, le ministre chargé de la mer peut décider de la publication par arrêté des dispositions présentées dans le cadre des PV REG et INT. Les PV REG concernant l'habilitation des organismes techniques sont transmis à la Commission européenne, à l'Agence européenne de sécurité maritime et à la société concernée.
-
-5. Les PV INF sont transmis après examen vers les commissions régionales de sécurité pour information de leurs membres.
+9. Elle procède de même en vue de la délivrance des titres définitifs de sécurité.

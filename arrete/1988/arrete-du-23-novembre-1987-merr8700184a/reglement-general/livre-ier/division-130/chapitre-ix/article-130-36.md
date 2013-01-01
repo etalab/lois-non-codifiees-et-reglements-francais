@@ -1,21 +1,19 @@
 # Article 130.36
 
-Fonctionnement des commissions régionales de sécurité.
+Soumission des documents à une commission régionale de sécurité.
 
-1. Les commissions régionales de sécurité (CRS) examinent les types de procès-verbaux suivants relevant de leur compétence :
+1. Lorsque l'examen du dossier d'un navire relève de la compétence d'une commission régionale de sécurité, il lui est fourni un exemplaire de chacun des documents visé par l'annexe 130-A.1. Les documents relatifs aux installations de radiocommunication sont fournis en deux exemplaires.
 
-a) PV CRS NAV : procès-verbal relatif à l'examen du dossier des navires ;
+2. Les plans et documents relatifs aux installations de radiocommunication sont transmis, par l'administration, pour avis, à l'Agence nationale des fréquences (ANFr), en vue de leur examen en commission régionale de sécurité.
 
-b) PV CRS ISM : procès-verbal relatif à l'examen des rapports d'audit des compagnies soumises à l'application de la division 160 ;
+3. Les plans et documents fournis sont examinés et font l'objet d'une étude de conformité par la commission conformément à la liste des points étudiés prévus à l'annexe 130-A.1.
 
-c) PV CRS REC : procès-verbal relatif à l'examen des recours ;
+4.  Pour les navires soumis à l'obligation de classification, les plans et  documents soumis à l'examen de la commission, doivent, préalablement à  leur envoi à la commission, être visés par une société de classification  habilitée, de façon à attester de leur examen par cette société de  classification conformément à son règlement de classe et suivant les  domaines techniques requis (cf. article 130.26). Les plans et documents,  y compris ceux modifiés, sont transmis accompagnés des commentaires de  la société de classification habilitée.
 
-d) PV CRS INF : procès-verbal ayant pour objet d'informer les membres de la commission de tout projet d'évolution règlementaire ou des résultats d'enquête technique ou administrative relative aux navires de leur compétence et dont elles ont reçu communication ;
+5. Les plans et documents relatifs à des domaines techniques non couverts par le règlement de classe de la société de classification habilitée et ceux des navires non soumis à l'obligation de classification ne sont pas soumis à cette obligation de visa. Les plans et documents modifiés doivent également être transmis à la commission.
 
-e) PV CRS REG : procès-verbal ayant pour objet de soumettre à l'avis des membres de la commission les mesures particulières de sécurité visées au paragraphe VI de l'article 55 du décret n° 84-810 du 30 août 1984 ;
+6. Les études et visas des différents documents et manuels qui doivent être présents sur les navires sont répartis entre la commission et le centre de sécurité compétent de la manière détaillée dans l'annexe 130-A.3.
 
-f) PV CCS CONS : procès-verbal ayant pour objet de consulter les membres de la commission sur tout sujet relatif à la sauvegarde de la vie humaine en mer, à l'habitabilité, la prévention de la pollution et sur toute question relative à l'application du décret n° 84-810 du 30 août 1984 modifié ou sur un sujet soumis par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+7. Préalablement à la délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, la commission formule dans ses avis les prescriptions dont elle estime indispensable la réalisation. La commission peut, en outre, requérir un délai d'étude supplémentaire avant d'émettre un avis ne s'opposant pas à la délivrance des titres.
 
-2. Après avis de la commission régionale de sécurité, le directeur interrégional de la mer notifie sa décision à l'exploitant du navire concerné par les PV CRS NAV, ISM et REC.
-
-3. La délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, ainsi que la délivrance des titres définitifs, ne peut intervenir qu'après notification de la décision du directeur interrégional de la mer.
+8. Elle procède de même en vue de la délivrance des titres définitifs de sécurité.

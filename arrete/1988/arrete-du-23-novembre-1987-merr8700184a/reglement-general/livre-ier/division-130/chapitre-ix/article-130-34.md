@@ -1,21 +1,27 @@
 # Article 130.34
 
-Zones de compétence des commissions régionales de sécurité.
+Fonctionnement de la commission centrale de sécurité.
 
-Une commission régionale de sécurité siège au Havre, à Nantes, à Bordeaux, à Marseille, à Fort-de-France, à Saint-Denis de La Réunion, à Nouméa et à Papeete.
+1. Les plans et documents doivent être remis au bureau de la règlementation et du contrôle de la sécurité des navires, au minimum quinze jours avant la date de la commission. Dans le cas contraire les plans et documents sont examinés lors de la réunion suivante de la commission.
 
-La compétence de la commission régionale de sécurité siégeant au Havre s'étend aux zones de compétence des centres de sécurité des navires de Dunkerque, Boulogne, Seine-Maritime Ouest, Seine-Maritime Est, Manche-Calvados et, pour l'examen des dossiers des navires autres que de pêche, à la collectivité d'outre-mer de Saint-Pierre-et-Miquelon.
+2. La commission centrale de sécurité (CCS) examine les types de procès-verbaux suivants relevant de sa compétence :
 
-La compétence de la commission régionale de sécurité siégeant à Nantes s'étend aux zones des centres de sécurité des navires d'Ille-et-Vilaine, Côtes-d'Armor, Finistère Nord, Finistère Sud, Morbihan et Pays de la Loire et pour l'examen des dossiers des navires de pêche, à la collectivité d'outre-mer de Saint-Pierre-et-Miquelon.
+a) PV CCS NAV : procès-verbal relatif à l'examen du dossier des navires ;
 
-La compétence de la commission régionale de sécurité siégeant à Bordeaux s'étend aux zones des centres de sécurité des navires de Charente-Maritime et Aquitaine.
+b) PV CCS ISM : procès-verbal relatif à l'examen des rapports d'audit des compagnies soumises à l'application de la division 160 ;
 
-La compétence de la commission régionale de sécurité siégeant à Marseille s'étend aux zones des centres de sécurité des navires de Languedoc-Roussillon et Provence-Côte d'Azur-Corse.
+c) PV CCS REC : procès-verbal relatif à l'examen des recours ;
 
-La compétence de la commission régionale de sécurité siégeant à Fort-de-France s'étend à la zone du centre de sécurité des navires Antilles-Guyane.
+d) PV CCS INF : procès-verbal ayant pour objet d'informer les membres de la commission de tout projet d'évolution règlementaire ;
 
-La compétence de la commission régionale de sécurité siégeant à Saint-Denis de La Réunion s'étend à la zone du centre de sécurité des navires océan Indien.
+e) PV CCS REG : procès-verbal ayant pour objet de soumettre à l'avis des membres de la commission toute évolution règlementaire modifiant le présent arrêté, ou les rapports d'évaluation des habilitations des organismes techniques ;
 
-La zone de compétence de la commission régionale de sécurité siégeant à Nouméa s'étend au territoire de la Nouvelle-Calédonie et aux îles Wallis et Futuna.
+f) PV CCS INT : procès-verbal ayant pour objet de soumettre à l'avis des membres de la commission toute interprétation de la règlementation nationale ou internationale ;
 
-La zone de compétence de la commission régionale de sécurité siégeant à Papeete s'étend au territoire de la Polynésie française.
+g) PV CCS CONS : procès-verbal ayant pour objet de consulter les membres de la commission sur tout sujet relatif à la sauvegarde de la vie humaine en mer, à l'habitabilité et la prévention de la pollution ;
+
+3. Après avis de la commission centrale de sécurité le ministre chargé de la mer notifie sa décision à l'exploitant du navire concerné par les PV NAV, ISM et REC. La délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, ainsi que la délivrance des titres définitifs, ne peut intervenir qu'après notification de la décision du ministre chargé de la mer.
+
+4. Après avis de la commission centrale de sécurité, le ministre chargé de la mer peut décider de la publication par arrêté des dispositions présentées dans le cadre des PV REG et INT. Les PV REG concernant l'habilitation des organismes techniques sont transmis à la Commission européenne, à l'Agence européenne de sécurité maritime et à la société concernée.
+
+5. Les PV INF sont transmis après examen vers les commissions régionales de sécurité pour information de leurs membres.

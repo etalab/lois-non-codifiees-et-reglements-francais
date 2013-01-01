@@ -1,39 +1,11 @@
 # Article 130.25
 
-Navires soumis à une obligation de classification au titre de l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié.
+Tous navires disposant d'un certificat de classe.
 
-En application des dispositions de l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié, à l'exception des navires de plaisance à usage personnel, des navires traditionnels et des navires de compétition, tout navire neuf ou acquis à l'étranger d'une longueur supérieure ou égale à 24 mètres possède la première cote d'une société de classification habilitée correspondant à son exploitation. Pour l'application du présent règlement, cette première cote couvre les domaines techniques suivants :
+Les  dispositions suivantes s'appliquent à tous les navires faisant l'objet  d'un suivi de la part d'une société de classification donnant lieu à la  délivrance d'un certificat de classe :
 
-― construction de la coque ;
+― pour tout  navire visé par le présent article, la société de classification doit  délivrer à l'armateur une attestation d'intervention (cf. modèle annexe  30-A. 6). Les domaines techniques visés par l'attestation d'intervention  sont identiques à ceux visés sur le certificat de classe. L'attestation  d'intervention n'est redélivrée par la société de classification qu'en  cas de modification de son périmètre d'intervention ;
 
-― compartimentage ;
+―  l'exploitant du navire présente à chaque commission d'étude ou de  visite une attestation d'intervention de la société de classification  habilitée mentionnant les domaines techniques (cf. modèle annexe 130-A.  6)
 
-― stabilité à l'état intact ;
-
-― installations de mouillage ;
-
-― machine ;
-
-― chaudières ;
-
-― installations hydrauliques ;
-
-― installations électriques ;
-
-― protection contre l'incendie (extinction).
-
-Et, de plus, lorsque le règlement de la société de classification ne le prévoit pas :
-
-― stabilité après avarie ;
-
-― installations frigorifiques (cargaison) ;
-
-― prévention de l'incendie, détection et ventilation ;
-
-― évacuation ;
-
-― prévention de la pollution.
-
-Pour ces domaines techniques, la société de classification habilitée réalise les études de vérification de la conformité, inspections, visites et essais conformément aux modalités prévues dans l'annexe et dans l'appendice de la résolution OMI A.1053(27).
-
-L'exploitant du navire présente à chaque commission d'étude ou de visite une attestation de la société de classification habilitée mentionnant les domaines techniques requis ci-dessus (cf. modèle annexe 130-A.6).
+― les inspections de la face externe du fond  d'un navire, dont les périodicités sont prévues par l'article 130.50,  sont réalisées sous le contrôle d'une société de classification  habilitée.

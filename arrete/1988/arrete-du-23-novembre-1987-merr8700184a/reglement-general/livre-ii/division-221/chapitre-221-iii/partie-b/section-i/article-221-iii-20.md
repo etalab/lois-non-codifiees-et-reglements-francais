@@ -82,13 +82,17 @@ Les dispositifs de largage hydrostatique, autres que les dispositifs de largage 
 
 Les conteneurs, consoles, supports ou autres endroits analogues prévus pour l'arrimage du matériel de sauvetage doivent être marqués au moyen de symboles conformes aux recommandations de l'Organisation (7), qui indiquent les dispositifs arrimés à cet endroit. Si plus d'un dispositif est arrimé à cet endroit, le nombre de dispositifs doit aussi être indiqué.
 
-11 Révision périodique des engins de mise à l'eau et des dispositifs de largage en charge 11.1 Les engins de mise à l'eau doivent :
+11. Révision périodique des engins de mise à l'eau et des dispositifs de largage en charge
 
-.1 faire l'objet d'un entretien conformément aux consignes pour l'entretien à bord prescrites à l'article 221-III/36 ;
+11.1 Les engins de mise à l'eau doivent :
 
-.2 faire l'objet d'un examen approfondi lors des visites prescrites aux règles 7 ou 8 du chapitre I de la convention SOLAS en vigueur, selon le cas ; et
+1. Faire l'objet d'un entretien conformément aux consignes pour l'entretien à bord prescrites à l'article 221-III/36 ;
 
-.3 une fois achevé l'examen prévu à l'alinéa .2, être soumis à un essai dynamique pour vérifier le frein du treuil à la vitesse d'amenage maximale. La charge à appliquer doit être la masse de l'embarcation ou du radeau de sauvetage ou du canot de secours sans personne à bord ; toutefois, à des intervalles ne dépassant pas cinq ans, cet essai doit être effectué avec une charge d'essai égale à 1,1 fois le poids de l'embarcation ou du radeau de sauvetage ou du canot de secours avec son plein chargement en personnes et en armement.
+2. Faire l'objet d'un examen approfondi lors des visites prescrites aux règles 7 ou 8 du chapitre Ier de la convention SOLAS en vigueur, selon le cas ; et
+
+3. Une fois achevé l'examen prévu à l'alinéa 2, être soumis à un essai dynamique pour vérifier le frein du treuil à la vitesse d'amenage maximale. La charge à appliquer doit être la masse de l'embarcation ou du radeau de sauvetage ou du canot de secours sans personne à bord ; toutefois, à des intervalles ne dépassant pas cinq ans, cet essai doit être effectué avec une charge d'essai égale à 1,1 fois le poids de l'embarcation ou du radeau de sauvetage ou du canot de secours avec son plein chargement en personnes et en armement ;
+
+4. Les essais opérationnels du dispositif de largage des embarcations de sauvetage à mise à l'eau en chute libre doivent être effectuées soit par lancement en chute libre uniquement avec l'équipage de l'embarcation ou par un lancement simulé effectuée sur la base des directives élaborées par l'organisation (5).
 
 11.2 Les dispositifs de largage en charge des embarcations de sauvetage ou des canots de secours, y compris ceux des embarcations de sauvetage à mise à l'eau en chute libre, doivent :
 
@@ -104,4 +108,4 @@ Les conteneurs, consoles, supports ou autres endroits analogues prévus pour l'a
 
 .2 être soumis, pendant les visites annuelles prescrites aux règles 7 et 8 du chapitre I de la convention SOLAS en vigueur, à un examen approfondi et à un essai de fonctionnement effectués par un personnel qualifié connaissant bien le dispositif ; et
 
-.3 être mis à l'essai en cours d'exploitation avec une charge égale à 1,1 fois la masse totale du radeau de sauvetage avec son plein chargement en personnes et en armement chaque fois que le croc de dégagement automatique a été révisé. Cette révision et cet essai doivent être effectués au moins une fois tous les cinq ans(*).
+.3 être mis à l'essai en cours d'exploitation avec une charge égale à 1,1 fois la masse totale du radeau de sauvetage avec son plein chargement en personnes et en armement chaque fois que le croc de dégagement automatique a été révisé. Cette révision et cet essai doivent être effectués au moins une fois tous les cinq ans (*).

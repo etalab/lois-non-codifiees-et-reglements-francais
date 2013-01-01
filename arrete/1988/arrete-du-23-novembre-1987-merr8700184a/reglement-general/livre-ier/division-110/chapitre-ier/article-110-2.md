@@ -34,7 +34,7 @@ m LDC étant la masse du navire en condition de charge, exprimée en kilogrammes
 
 11. Unité mobile de forage au large (MODU) : tout navire définit comme tel au sens du chapitre 221-IX de la division 221 du présent réglement.
 
-12. Engin à grande vitesse : navire définit comme tel au sens du chapitre 221-X de la division 221 du présent réglement. 221-X/01.3, ou, le cas échéant, par la résolution A.373(X) telle que modifiée ou la division 223 du présent règlement.
+12. Engin à grande vitesse : navire défini comme tel au sens du chapitre 221-X de la division 221 du présent règlement.
 
 13. Navire ravitailleur et de servitude au large : tout navire définit comme tel au sens de la division 235 du présent règlement.
 
@@ -50,7 +50,7 @@ m LDC étant la masse du navire en condition de charge, exprimée en kilogrammes
 
 19. Navire identique à un navire tête de série : navire construit par le même chantier naval à partir des mêmes plans.
 
-20. Navire ponté : un navire ayant sur toute sa longueur un pont, tel que définit comme pont de franc-bord par la convention sur les lignes de charge telle que modifiée, muni d'ouvertures fermées d'une façon étanche conformément, selon le cas, aux conditions d'assignation du franc-bord ou, pour les petits navires, aux conditions particulières pouvant être prévues dans une ou plusieurs divisions.
+20. Navire ponté : un navire ayant sur toute sa longueur un pont, tel que défini comme pont de franc-bord par la convention sur les lignes de charge de 1966 telle que modifiée, muni d'ouvertures fermées d'une façon étanche conformément, selon le cas, aux conditions d'assignation du franc-bord ou, pour les navires de longueur inférieure à 12 mètres, aux conditions particulières pouvant être prévues dans une ou plusieurs divisions.
 
 21. Navire non ponté : un navire n'ayant pas les caractéristiques d'un navire ponté.
 

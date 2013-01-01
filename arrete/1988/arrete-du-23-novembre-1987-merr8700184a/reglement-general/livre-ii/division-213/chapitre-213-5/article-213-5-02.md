@@ -1,13 +1,13 @@
 # Article 213-5.02
 
-Capacité de stockage
+Champ d'application.
 
-Les navires doivent disposer, pour le stockage des ordures provenant de leur exploitation, de capacités suffisantes pour leur permettre de conserver à bord les ordures dont le rejet à la mer leur est interdit par les règles 3 ou 5 de l'annexe V précitée.
+Sauf disposition expresse contraire, les dispositions du présent chapitre s'appliquent à tous les navires.
 
-Pour estimer le caractère suffisant de ces capacités de stockage, il est tenu compte notamment :
+Art. 3.-Interdiction générale de rejeter des ordures dans la mer.
 
-- du type d'activité des navires et des grandeurs caractérisant le volume de cette activité ;
+1. Est interdite l'évacuation dans la mer de toutes les ordures, sauf dans les cas prévus dans les articles 213-5.4, 5, 6 et 7 du présent chapitre.
 
-- des navigations effectuées ;
+2. Sauf dans les cas prévus à l'article 213-5.7 du présent chapitre, est interdite l'évacuation dans la mer de toutes les matières plastiques, y compris mais sans s'y limiter les cordages et les filets de pêche synthétiques, les sacs à ordures en matière plastique et les cendres de matières plastiques incinérées.
 
-- de l'existence éventuelle de moyens de traitement des ordures à bord.
+3. Sauf dans les cas prévus à l'article 213-5.7 du présent chapitre, est interdite l'évacuation dans la mer de l'huile à friture.

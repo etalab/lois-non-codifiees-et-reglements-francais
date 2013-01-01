@@ -16,33 +16,24 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <table>
 <tbody>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
-<b>
-<br/>RÉFÉRENCES</b>
-</p>
+<br/>RÉFÉRENCES</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
-<b>
-<br/>PARAMÈTRES</b>
-</p>
+<br/>PARAMÈTRES</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
-<b>
-<br/>CRITÈRES</b>
-</p>
+<br/>CRITÈRES</p>
 </td>
-<td>
-<p align="center">
-<b>
-<br/>VALEUR D'ÉVALUATION</b>
-</p>
+<td align="left" valign="top">
+<p align="center">VALEUR D'ÉVALUATION</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>1</p>
 <p align="center">
@@ -52,7 +43,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>Type de navire</p>
 <p align="center">
@@ -62,37 +53,37 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>Autres</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>0</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
+<td align="left" valign="top">
+<p align="left">
 <br/>Pêche arts dormants et encerclants (senne, bolinche) </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>2</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
+<td align="left" valign="top">
+<p align="left">
 <br/>Pêche arts traînants (drague, chalut) (1)</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>3</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>2</p>
 <p align="center">
@@ -102,7 +93,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>Age du navire (années)</p>
 <p align="center">
@@ -112,37 +103,37 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>[0 ; 10]</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>0</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>]10 ; 20]</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>2</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>]20 ; ]</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>3</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4">
+<td align="left" rowspan="4" valign="top">
 <p align="center">
 <br/>3</p>
 <p align="center">
@@ -155,7 +146,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td rowspan="4">
+<td align="left" rowspan="4" valign="top">
 <p align="center">
 <br/>Catégorie de navigation</p>
 <p align="center">
@@ -168,47 +159,47 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>2e catégorie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>5</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>3e catégorie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>3</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>4e catégorie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>1</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>5e catégorie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>0</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>4</p>
 <p align="center">
@@ -218,7 +209,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>Nombre de passagers ou membres du personnel spécial</p>
 <p align="center">
@@ -228,37 +219,37 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>0</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>0</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>]0 ; 2]</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>2</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>]2 ; 12]</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>5</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>5</p>
 <p align="center">
@@ -268,7 +259,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td rowspan="3">
+<td align="left" rowspan="3" valign="top">
 <p align="center">
 <br/>Nombre (n) de prescriptions émises lors de la dernière visite</p>
 <p align="center">
@@ -278,107 +269,100 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>Non</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>0</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>n ≤ 5</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>1</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>n &gt; 5</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>2</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>Nombre (n) d'accidents du travail, ayant fait l'objet d'une déclaration, sur cinq années</p>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>n</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>7</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>Nombre (n) d'avaries à la mer dont a fait l'objet le navire sur cinq années</p>
 </td>
-<td>
-<br/>
-</td>
-<td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <p align="center">
 <br/>n</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>8</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>Nombre (n) de retraits et de suspensions du permis de navigation dont a fait l'objet le navire sur cinq années</p>
 </td>
-<td>
-<br/>
-</td>
-<td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <p align="center">
 <br/>n</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>9</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">
 <br/>Précédente délivrance du permis de navigation avec une validité inférieure à la validité maximum</p>
 </td>
-<td>
-<br/>
-</td>
-<td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <p align="center">
 <br/>2 </p>
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<p>
-<br/>(1) Les navires polyvalents qui utilisent les arts traînants et les arts dormants sont classés comme navires utilisant les arts traînants.</p>
+<td align="left" colspan="4" valign="top">
+<p align="left">(1) Les navires polyvalents qui utilisent les arts traînants et les arts dormants sont classés comme navires utilisant les arts traînants.</p>
 </td>
 </tr>
 </tbody>
@@ -389,12 +373,12 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 
 6. Le critère d'évaluation est calculé au jour de la visite périodique.
 
-7. Sous réserve de l'échéance de l'inspection de la carène (l'article 130.49), la périodicité est définie de la manière suivante :
+7. Sous réserve de l'échéance de l'inspection de la carène (l'article 130.50), la périodicité est définie de la manière suivante :
 
 - navire ayant un critère d'évaluation inférieur ou égal à 5. La durée de validité du permis de navigation est de cinq ans maximum ;
 
-- navire ayant un critère d'évaluation compris entre 6 et 9. La durée de validité du permis de navigation est de deux ans et demi maximum ;
+- navire ayant un critère d'évaluation compris entre 6 et 9. La durée de validité du permis de navigation est de 2,5 ans maximum ;
 
-- navire ayant un critère d'évaluation supérieur ou égal à 10. La durée de validité du permis de navigation est d'un an maximum.
+- navire ayant un critère d'évaluation supérieur ou égal à 10. La durée de validité du permis de navigation est d'un maximum.
 
 8. Il revient à l'exploitant du navire de solliciter le centre de sécurité des navires, pour la réalisation de la visite périodique, au minimum un mois avant l'échéance du permis de navigation.

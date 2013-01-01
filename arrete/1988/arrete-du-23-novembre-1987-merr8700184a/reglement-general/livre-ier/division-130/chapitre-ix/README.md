@@ -1,6 +1,5 @@
 # Chapitre IX : Commissions d'études
 
-- [Article 130.28](article-130-28.md)
 - [Article 130.29](article-130-29.md)
 - [Article 130.30](article-130-30.md)
 - [Article 130.31](article-130-31.md)
@@ -12,3 +11,4 @@
 - [Article 130.37](article-130-37.md)
 - [Article 130.38](article-130-38.md)
 - [Article 130.39](article-130-39.md)
+- [Article 130.40](article-130-40.md)
