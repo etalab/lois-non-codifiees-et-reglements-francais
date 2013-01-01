@@ -16,7 +16,7 @@ L'illégalité du schéma de cohérence territoriale, du plan local d'urbanisme 
 
 II. ― La révision ou la modification d'un schéma de cohérence territoriale, d'un plan local d'urbanisme, d'une carte communale ou d'un document en tenant lieu ne peut avoir pour effet de faire obstacle à la mise en œuvre des contrats de développement territorial mentionnés à l'article 1er de la loi n° 2010-597 du 3 juin 2010 précitée.
 
-Les procédures prévues à l'avant-dernier alinéa de l'article L. 122-11 et à l'article L. 123-12 du code de l'urbanisme peuvent être appliquées en vue de la mise en œuvre du premier alinéa du I du présent article.
+Les procédures prévues à l'article L. 122-11-1 et à l'article L. 123-12 du code de l'urbanisme peuvent être appliquées en vue de la mise en œuvre du premier alinéa du I du présent article.
 
 III. ― Par dérogation au neuvième alinéa de l'article L. 141-1 du code de l'urbanisme, le décret prévu au II de l'article 2 de la loi n° 2010-597 du 3 juin 2010 précitée vaut nouvelle mise en révision du schéma directeur de la région d'Ile-de-France.
 

@@ -2,7 +2,7 @@
 
 I. ― Des contrats de développement territorial peuvent être conclus pour la mise en œuvre des objectifs définis à l'article 1er entre le représentant de l'Etat dans la région, d'une part, et les communes et les établissements publics de coopération intercommunale pour les objets relevant des compétences qui leur ont été transférées, d'autre part.
 
-La région, le département concerné, l'association des maires d'Ile-de-France et le syndicat mixte  Paris-Métropole  sont consultés préalablement à la signature du contrat.
+La région, le département concerné, l'association des maires d'Ile-de-France et le syndicat mixte Paris-Métropole sont consultés préalablement à la signature du contrat.
 
 Les contrats définissent, dans le respect des principes énoncés aux articles L. 110 et L. 121-1 du code de l'urbanisme, les objectifs et les priorités en matière d'urbanisme, de logement, de transports, de déplacements et de lutte contre l'étalement urbain, d'équipement commercial, de développement économique, sportif et culturel, de protection des espaces naturels, agricoles et forestiers et des paysages et des ressources naturelles.
 
@@ -34,7 +34,7 @@ Il présente les conditions générales de leur financement. Ce financement incl
 
 ― la moitié des excédents dégagés par les opérations d'aménagement.
 
-L'autre moitié de ces excédents est versée à parts égales au Syndicat des transports d'Ile-de-France et à l'établissement public  Société du Grand Paris  afin de financer le réseau de transport public du Grand Paris.
+L'autre moitié de ces excédents est versée à parts égales au Syndicat des transports d'Ile-de-France et à l'établissement public Société du Grand Paris afin de financer le réseau de transport public du Grand Paris.
 
 III. ― La délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale qui autorise le maire ou le président de l'établissement public à signer le contrat de développement territorial emporte, pour l'application de l'article L. 212-1 du code de l'urbanisme, avis favorable de la commune ou de l'établissement public de coopération intercommunale sur la création des zones d'aménagement différé prévues au contrat.
 
@@ -42,8 +42,7 @@ Dans les zones d'aménagement différé mentionnées au II du présent article, 
 
 IV. ― Le contrat de développement territorial peut valoir déclaration de projet des actions ou opérations d'aménagement et des projets d'infrastructures visés au sixième alinéa du II du présent article pour l'application de l'article L. 300-6 du code de l'urbanisme. Dans ce cas, le contrat précise les actions et opérations pour lesquelles il vaut déclaration de l'intérêt général.
 
-Si ces actions ou opérations d'aménagement ou ces projets d'infrastructures ne sont pas compatibles avec le schéma directeur de la région d'Ile-de-France, les schémas de cohérence territoriale, les schémas de secteurs et les plans locaux d'urbanisme, l'autorité administrative engage les procédures de mise en compatibilité prévues par les articles L. 122-15,
-L. 123-16 et L. 141-1-2 du même code.L'enquête publique visée au quatrième alinéa du I du présent article est organisée dans les conditions prévues par ces articles.
+Si ces actions ou opérations d'aménagement ou ces projets d'infrastructures ne sont pas compatibles avec le schéma directeur de la région d'Ile-de-France, les schémas de cohérence territoriale, les schémas de secteurs et les plans locaux d'urbanisme, l'autorité administrative engage les procédures de mise en compatibilité prévues par les articles L. 122-15, L. 122-16-1, L. 123-14, L. 123-14-2 et L. 141-1-2 du même code. L'enquête publique visée au quatrième alinéa du I du présent article est organisée dans les conditions prévues par ces articles.
 
 V. ― Les règles de publicité et de communication définies aux articles L. 2121-24 et L. 2121-26 du code général des collectivités territoriales sont applicables aux contrats de développement territorial.
 
