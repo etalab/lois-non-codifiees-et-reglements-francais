@@ -298,7 +298,6 @@
 - [Arrêté du 18 juillet 2001 (PRMX0105011A)](arrete-du-18-juillet-2001-prmx0105011a)
 - [Arrêté du 18 juin 2001 (PRMG0170380A)](arrete-du-18-juin-2001-prmg0170380a)
 - [Arrêté du 18 octobre 2001 (AGRA0101523A)](arrete-du-18-octobre-2001-agra0101523a)
-- [Arrêté du 18 octobre 2001 (INTE0100631A)](arrete-du-18-octobre-2001-inte0100631a)
 - [Arrêté du 18 octobre 2001 (JUSB0110430A)](arrete-du-18-octobre-2001-jusb0110430a)
 - [Arrêté du 18 septembre 2001 (ATEG0100276A)](arrete-du-18-septembre-2001-ateg0100276a)
 - [Arrêté du 18 septembre 2001 (ECOT0110437A)](arrete-du-18-septembre-2001-ecot0110437a)

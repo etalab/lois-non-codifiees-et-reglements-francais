@@ -6,7 +6,6 @@
 - [Arrêté du 1 juin 2004 (SOCF0411193A)](arrete-du-1-juin-2004-socf0411193a)
 - [Arrêté du 1 octobre 2004 (EQUP0401223A)](arrete-du-1-octobre-2004-equp0401223a)
 - [Arrêté du 1 septembre 2006 (INTC0600707A)](arrete-du-1-septembre-2006-intc0600707a)
-- [Arrêté du 2 août 2001 (INTE0100487A)](arrete-du-2-aout-2001-inte0100487a)
 - [Arrêté du 2 avril 2009 (AGRG0907757A)](arrete-du-2-avril-2009-agrg0907757a)
 - [Arrêté du 2 avril 2009 (BCFD0908159A)](arrete-du-2-avril-2009-bcfd0908159a)
 - [Arrêté du 2 avril 2009 (BCFL0908004A)](arrete-du-2-avril-2009-bcfl0908004a)
