@@ -1849,7 +1849,6 @@
 - [Arrêté du 20 décembre 2011 (AGRS1135282A)](arrete-du-20-decembre-2011-agrs1135282a)
 - [Arrêté du 20 décembre 2011 (AGRS1135333A)](arrete-du-20-decembre-2011-agrs1135333a)
 - [Arrêté du 20 décembre 2011 (BCRD1134222A)](arrete-du-20-decembre-2011-bcrd1134222a)
-- [Arrêté du 20 décembre 2011 (DEVA1132446A)](arrete-du-20-decembre-2011-deva1132446a)
 - [Arrêté du 20 décembre 2011 (DEVA1132469A)](arrete-du-20-decembre-2011-deva1132469a)
 - [Arrêté du 20 décembre 2011 (DEVD1133349A)](arrete-du-20-decembre-2011-devd1133349a)
 - [Arrêté du 20 décembre 2011 (DEVK1128600A)](arrete-du-20-decembre-2011-devk1128600a)
