@@ -16,4 +16,6 @@ La sous-direction maintien en condition et gestion du patrimoine :
 
 7° Assure l'animation et le contrôle des organismes extérieurs du service d'infrastructure de la défense pour l'approvisionnement, le stockage et la distribution d'énergie relevant du service d'infrastructure de la défense ;
 
-8° Etablit et suit les régimes des champs et stands de tirs domaniaux.
+8° Etablit et suit les régimes des champs et stands de tirs domaniaux ;
+
+9° Délivre les autorisations d'occupation temporaire constitutives de droit réel du domaine public militaire prévues à l'article L. 2122-15 du code général de la propriété des personnes publiques.
