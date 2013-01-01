@@ -2532,7 +2532,6 @@
 - [Arrêté du 26 avril 2012 (SPOF1222267A)](arrete-du-26-avril-2012-spof1222267a)
 - [Arrêté du 26 avril 2012 (SPOF1222273A)](arrete-du-26-avril-2012-spof1222273a)
 - [Arrêté du 26 décembre 2011 (AGRT1132635A)](arrete-du-26-decembre-2011-agrt1132635a)
-- [Arrêté du 26 décembre 2011 (BCRB1134801A)](arrete-du-26-decembre-2011-bcrb1134801a)
 - [Arrêté du 26 décembre 2011 (BCRE1131101A)](arrete-du-26-decembre-2011-bcre1131101a)
 - [Arrêté du 26 décembre 2011 (COTB1132568A)](arrete-du-26-decembre-2011-cotb1132568a)
 - [Arrêté du 26 décembre 2011 (DEVL1133433A)](arrete-du-26-decembre-2011-devl1133433a)
