@@ -6,6 +6,6 @@ Ces transferts peuvent également être effectués au profit d'une société app
 
 Ces transferts sont réalisés soit par arrêté des ministres intéressés, soit par acte notarié.
 
-II.-Les transferts ne donnent lieu à aucun versement de salaire ou honoraires au profit d'agents de l'Etat, ni à aucune indemnité ou perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
+II.-Les transferts ne donnent lieu à aucun versement   de contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit d'agents de l'Etat, ni à aucune indemnité ou perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
 
 III.-La société mentionnée au I du présent article peut rétrocéder aux établissements publics dont proviennent les biens transférés tout ou partie des plus-values réalisées à travers leur cession.
