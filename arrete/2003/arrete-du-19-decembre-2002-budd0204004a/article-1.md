@@ -200,7 +200,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td rowspan="9" valign="top" width="254">
-<p align="left">Vins mousseux produits à partir de raisins frais avec une appellation d'origine protégée (AOP) (à l'exclusion de l'Asti spumante et du Champagne).</p>
+<p align="left">Vins mousseux produits à partir de raisins frais avec une appellation d'origine protégée (AOP) (à l'exclusion de l'asti spumante et du champagne).</p>
 </td>
 <td rowspan="9" valign="top" width="96">
 <p align="center">2204 10 93</p>
@@ -262,7 +262,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Autres AOP (français mousseux).</p>
+<p align="left">Autres AOP mousseux français.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 10 93 8</p>
@@ -270,7 +270,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Autres vins mousseux.</p>
+<p align="left">Autre AOP mousseux.</p>
 </td>
 <td>
 <p align="center">2204 10 93 9</p>
@@ -1216,13 +1216,13 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="5" valign="top">
-<p align="left">Vins blancs de cépages sans AOP et IGP,<br/>produits dans la Communauté, en récipients<br/>d'une contenance n'excédant pas 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol (à l'exclusion des<br/>vins mousseux et des vins pétillants).</p>
+<p align="left">Vins blancs de cépages sans AOP et IGP,<br/>produits dans la Communauté, en récipients<br/>d'une contenance n'excédant pas 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol. (à l'exclusion des<br/>vins mousseux et des vins pétillants).</p>
 </td>
 <td align="left" rowspan="5" valign="top">
 <p align="center">2204 21 81</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Blanc, Chardonnay français.</p>
+<p align="left">Vins français sans IG blanc, chardonnay.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 81 1</p>
@@ -1230,7 +1230,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Blanc, Sauvignon français.</p>
+<p align="left">Vins français sans IG blanc, sauvignon.</p>
 </td>
 <td>
 <p align="center">2204 21 81 2</p>
@@ -1238,7 +1238,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Blanc, bicépages français.</p>
+<p align="left">Vins français sans IG blanc, bicépages.</p>
 </td>
 <td>
 <p align="center">2204 21 81 7</p>
@@ -1246,7 +1246,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Blanc, autres cépages français.</p>
+<p align="left">Vins français sans IG blanc, autres cépages.</p>
 </td>
 <td>
 <p align="center">2204 21 81 8</p>
@@ -1254,7 +1254,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Blanc, avec mention de cépage(s) produit(s) dans la Communauté.</p>
+<p align="left">Autres vins produits dans un Etat membre de la Communauté, sans IG blanc, avec mention de cépage(s).</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 81 9</p>
@@ -1262,13 +1262,13 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="9" valign="top">
-<p align="left">Vins de cépages sans AOP et IGP, produits<br/>dans la Communauté, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis <br/>'excédant pas 15 % vol (à l'exclusion des<br/>vins mousseux, des vins pétillants et des vins blancs).</p>
+<p align="left">Vins de cépages sans AOP et IGP, produits<br/>dans la Communauté, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis <br/>n'excédant pas 15 % vol. (à l'exclusion des<br/>vins mousseux, des vins pétillants et des vins blancs).</p>
 </td>
 <td align="left" rowspan="9" valign="top">
 <p align="center">2204 21 82</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Rouge, Merlot français.</p>
+<p align="left">Vins français sans IG rouge, merlot.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 82 1</p>
@@ -1276,7 +1276,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, Syrah français.</p>
+<p align="left">Vins français sans IG rouge, syrah.</p>
 </td>
 <td>
 <p align="center">2204 21 82 2</p>
@@ -1284,7 +1284,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, Cabernet Sauvignon français.</p>
+<p align="left">Vins français sans IG rouge, cabernet sauvignon.</p>
 </td>
 <td>
 <p align="center">2204 21 82 3</p>
@@ -1292,7 +1292,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, Pinot français.</p>
+<p align="left">Vins français sans IG rouge, pinot.</p>
 </td>
 <td>
 <p align="center">2204 21 82 4</p>
@@ -1300,7 +1300,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, Gamay français.</p>
+<p align="left">Vins français sans IG rouge, gamay.</p>
 </td>
 <td>
 <p align="center">2204 21 82 5</p>
@@ -1308,7 +1308,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, bicépages français.</p>
+<p align="left">Vins français sans IG rouge, bicépages.</p>
 </td>
 <td>
 <p align="center">2204 21 82 6</p>
@@ -1316,7 +1316,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, autres cépages français.</p>
+<p align="left">Vins français sans IG rouge, autres cépages.</p>
 </td>
 <td>
 <p align="center">2204 21 82 7</p>
@@ -1324,7 +1324,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rosé, cépages français.</p>
+<p align="left">Vins français sans IG rosé, cépages.</p>
 </td>
 <td>
 <p align="center">2204 21 82 8</p>
@@ -1332,7 +1332,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Rouge et Rosé, avec mention de cépage(s) produit(s) dans un Etat membre de la Communauté.</p>
+<p align="left">Autres vins produits dans un Etat membre de la Communauté, sans IG rouge et rosé, avec mention de cépage(s).</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 82 9</p>
@@ -2298,7 +2298,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
-<p align="left">Vins produits dans la Communauté, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant pas 15 % vol,<br/>avec IGP (à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
+<p align="left">Vins produits dans la Communauté, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec IGP (à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
 <br/>
 <br/>
 <br/>
@@ -2372,53 +2372,53 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="5" valign="top">
-<p align="left">Vins blancs de cépages sans AOP et IGP, produits<br/>dans la Communauté, en récipients d'une contenance<br/>n'excédant pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol (à l'exclusion des vins mousseux et des vins pétillants).</p>
+<p align="left">Vins blancs de cépages sans AOP et IGP, produits<br/>dans la Communauté, en récipients d'une contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol. (à l'exclusion des vins mousseux et des vins pétillants).</p>
 </td>
 <td align="left" rowspan="5" valign="top">
-<p align="center">2204 21 81</p>
+<p align="center">2204 29 81</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Blanc, Chardonnay français.</p>
+<p align="left">Vins français sans IG blanc, chardonnay.</p>
 </td>
 <td align="left" valign="top">
-<p align="center">2204 21 81 1</p>
+<p align="center">2204 29 81 1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Blanc, Sauvignon français.</p>
+<p align="left">Vins français sans IG blanc, sauvignon.</p>
 </td>
 <td>
-<p align="center">2204 21 81 2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Vins sans IG Blanc, bicépages français.</p>
-</td>
-<td>
-<p align="center">2204 21 81 7</p>
+<p align="center">2204 29 81 2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Blanc, autres cépages français.</p>
+<p align="left">Vins français sans IG blanc, bicépages.</p>
 </td>
 <td>
-<p align="center">2204 21 81 8</p>
+<p align="center">2204 29 81 7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Blanc, avec mention de cépage(s) produit(s) dans la Communauté.</p>
+<p align="left">Vins français sans IG blanc, autres cépages.</p>
 </td>
 <td>
-<p align="center">2204 21 81 9</p>
+<p align="center">2204 29 81 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins produits dans un Etat membre de la Communauté, sans IG blanc, avec mention de cépage(s).</p>
+</td>
+<td>
+<p align="center">2204 29 81 9</p>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="9" valign="top">
-<p align="left">Vins de cépages sans AOP et IGP, produits dans<br/>la Communauté, en récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol (à l'exclusion des vins mousseux,<br/>des vins pétillants et des vins blancs).</p>
+<p align="left">Vins de cépages sans AOP et IGP, produits dans<br/>la Communauté, en récipients d'une contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol. (à l'exclusion des vins mousseux,<br/>des vins pétillants et des vins blancs).</p>
 <br/>
 <br/>
 <br/>
@@ -2429,7 +2429,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 </td>
 <td align="left" rowspan="9" valign="top">
-<p align="center">2204 21 82 </p>
+<p align="center">2204 29 82 </p>
 <br/>
 <br/>
 <br/>
@@ -2440,74 +2440,74 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Rouge, Merlot français.</p>
+<p align="left">Vins français sans IG rouge, merlot.</p>
 </td>
 <td align="left" valign="top">
-<p align="center">2204 21 82 1</p>
+<p align="center">2204 29 82 1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, Syrah français.</p>
+<p align="left">Vins français sans IG rouge, syrah.</p>
 </td>
 <td>
-<p align="center">2204 21 82 2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Vins sans IG Rouge, Cabernet Sauvignon français.</p>
-</td>
-<td>
-<p align="center">2204 21 82 3</p>
+<p align="center">2204 29 82 2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, Pinot français.</p>
+<p align="left">Vins français sans IG rouge, cabernet sauvignon.</p>
 </td>
 <td>
-<p align="center">2204 21 82 4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Vins sans IG Rouge, Gamay français.</p>
-</td>
-<td>
-<p align="center">2204 21 82 5</p>
+<p align="center">2204 29 82 3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rouge, bicépages français.</p>
+<p align="left">Vins français sans IG rouge, pinot.</p>
 </td>
 <td>
-<p align="center">2204 21 82 6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Vins sans IG Rouge, autres cépages français.</p>
-</td>
-<td>
-<p align="center">2204 21 82 7</p>
+<p align="center">2204 29 82 4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Vins sans IG Rosé, cépages français.</p>
+<p align="left">Vins français sans IG rouge, gamay.</p>
 </td>
 <td>
-<p align="center">2204 21 82 8</p>
+<p align="center">2204 29 82 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins français sans IG rouge, bicépages.</p>
+</td>
+<td>
+<p align="center">2204 29 82 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins français sans IG rouge, autres cépages.</p>
+</td>
+<td>
+<p align="center">2204 29 82 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins français sans IG rosé, cépages.</p>
+</td>
+<td>
+<p align="center">2204 29 82 8</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Vins sans IG Rouge et Rosé, avec mention de cépage(s) produit(s) dans un Etat membre de la Communauté.</p>
+<p align="left">Autres vins produits dans un Etat membre de la Communauté, sans IG rouge et rosé, avec mention de cépage(s).</p>
 </td>
 <td align="left" valign="top">
-<p align="center">2204 21 82 9</p>
+<p align="center">2204 29 82 9</p>
 </td>
 </tr>
 <tr>
