@@ -6,7 +6,7 @@ a) Une cotisation de :
 
 1,778 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les cigares et les cigarillos ;
 
-1,876 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les autres produits du tabac.
+1,852 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les autres produits du tabac.
 
 Le taux de cotisation des gérants peut être modifié par décret du ministre chargé du budget, après avis ou sur proposition de la commission consultative mentionnée à l'article 5 ;
 
@@ -18,9 +18,9 @@ d) Des recettes diverses.
 
 Les dépenses du régime sont constituées par :
 
--le service des allocations ;
+- le service des allocations ;
 
--les frais de gestion.
+- les frais de gestion.
 
 La différence entre les ressources et les charges constitue, si elle est positive, la réserve du régime.
 
