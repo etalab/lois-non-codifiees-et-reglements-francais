@@ -1,6 +1,6 @@
 # Article 1
 
-Les officiers de marine, les officiers spécialisés de la marine, et les commissaires de la marine dont le statut est défini par le décret n° 2008-950 du 12 septembre 2008 portant statut particulier des corps des commissaires de l'armée de terre, des commissaires de la marine et des commissaires de l'air susvisé constituent les corps d'officiers navigants de la marine. Ces officiers sont appelés à servir, tout au long de leur carrière, à bord des bâtiments de la marine nationale.
+Les officiers de marine et les officiers spécialisés de la marine constituent les corps d'officiers navigants de la marine nationale. Ces officiers sont appelés à servir, tout au long de leur carrière, à bord des bâtiments de la marine nationale.
 
 Les officiers de marine et les officiers spécialisés de la marine commandent et encadrent les unités navales, aériennes et terrestres de la marine nationale.
 

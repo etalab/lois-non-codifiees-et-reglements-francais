@@ -1,5 +1,0 @@
-# Article 33
-
-Lors des recrutements prévus aux articles 4 et 5 et lors des avancements de grade, les commissaires sont classés au premier échelon de leur nouveau grade. Lorsque ce classement a pour effet d'attribuer aux commissaires un indice inférieur à celui qu'ils détenaient précédemment, ils conservent leur ancien indice jusqu'à ce qu'ils atteignent dans le corps un échelon comportant un indice au moins égal.
-
-Lors des recrutements ou détachements prévus aux articles 6 et 7, les commissaires sont classés à l'échelon de leur grade, comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient précédemment et sont considérés, pour l'avancement d'échelon, comme bénéficiant d'une ancienneté égale à celle prévue par le présent décret pour atteindre l'échelon du grade dans lequel ils ont été classés. Toutefois, si le grade ne comporte que des indices inférieurs à celui détenu précédemment, les commissaires sont classés à l'échelon terminal du grade et conservent leur ancien indice, jusqu'à ce qu'ils atteignent dans le corps un échelon comportant un indice au moins égal.
