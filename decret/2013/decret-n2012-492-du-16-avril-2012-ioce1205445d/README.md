@@ -1,5 +1,6 @@
 # Décret n° 2012-492 du 16 avril 2012 relatif aux indemnités des sapeurs-pompiers volontaires
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
