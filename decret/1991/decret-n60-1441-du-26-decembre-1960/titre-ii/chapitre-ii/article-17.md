@@ -1,5 +1,5 @@
 # Article 17
 
-Le directeur général est nommé par décret après avis du conseil d'administration.
+Les directeurs des services territoriaux peuvent, dans les matières où ils ont reçu délégation de pouvoirs du directeur général, dans les conditions prévues à l'article L. 4312-3 du code des transports, déléguer leur signature aux personnels de l'établissement qui sont placés sous leur autorité.
 
-Il peut déléguer aux agents de l'établissement qu'il aura désignés ainsi qu'aux représentants locaux de l'établissement mentionnés à l'article 27-1 du présent décret, après accord du conseil d'administration, une partie des attributions qui lui ont été confiées . Il peut également leur déléguer sa signature.
+Le directeur général peut déléguer sa signature aux personnels de l'établissement qu'il aura désignés.

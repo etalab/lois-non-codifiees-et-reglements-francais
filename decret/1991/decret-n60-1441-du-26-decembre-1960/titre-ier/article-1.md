@@ -1,15 +1,13 @@
 # Article 1
 
-L'établissement public créé par l'article 67 de la loi des 27-28 février 1912 susvisée et mentionné à l'article 124 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) susvisée prend le nom de Voies navigables de France. Il est administré conformément aux statuts établis par le présent décret. Il est placé sous la tutelle du ministre chargé des transports et exerce ses missions dans le respect des politiques générales définies par le Gouvernement, notamment dans le domaine de la protection de l'environnement, de l'eau et des milieux naturels aquatiques. Il est notamment chargé, conformément aux dispositions de la loi des 27-28 février 1912 et de l'article 124 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) susvisés :
+Voies navigables de France est un établissement public administratif placé sous la tutelle du ministre chargé des transports.
 
-1° D'exploiter, d'entretenir et d'améliorer les voies navigables, les ports fluviaux et autres dépendances du domaine public fluvial dont la gestion lui est confiée ;
+Dans le cadre de ses missions définies aux articles L. 4311-1 et suivants du code des transports et sous réserve des missions attribuées aux ports autonomes fluviaux, à la Compagnie nationale du Rhône ainsi qu'aux concessionnaires et titulaires d'autorisation de la force hydraulique :
 
-2° De réaliser les infrastructures nouvelles du réseau en cohérence avec la perspective européenne ;
+1° L'exploitation des voies navigables comprend notamment la centralisation et la diffusion au public des informations relatives à l'utilisation des voies navigables ;
 
-3° De gérer le domaine qui lui est confié pour l'exercice des missions susmentionnées, ainsi que l'eau qui s'y écoule, le cas échéant en utilisant les compétences qu'il peut exercer en application de l'article L. 211-7 du code de l'environnement ;
+2° L'entretien et la surveillance des ouvrages et aménagements hydrauliques situés sur le domaine public qui est confié à Voies navigables de France visent à répondre aux différents usages du réseau navigable ;
 
-4° De centraliser et de porter à la connaissance du public les renseignements de toute nature concernant l'utilisation des voies navigables ;
+3° Sur le domaine de l'Etat qui lui est confié en vertu de l'article L. 4314-1 du code des transports, la préparation des règlements particuliers de police, des autorisations de manifestations nautiques, des autorisations spéciales de transport en raison des caractéristiques de la voie navigable, des plans de signalisation, des actes de déplacement d'office et de la liste des ouvrages pour lesquels la mise en place d'une signalisation appropriée est nécessaire, des plans de signalisation pris en application du code des transports par l'autorité compétente en matière de police de la navigation intérieure est assurée par l'établissement.
 
-5° De rechercher tout moyen propre à développer l'utilisation des voies navigables et à en améliorer l'exploitation.
-
-Les missions définies aux 1°, 2° et 3° du présent article s'exercent sous réserve de celles attribuées aux ports autonomes fluviaux, à la Compagnie nationale du Rhône ainsi qu'aux concessionnaires et titulaires d'autorisation de forces hydrauliques.
+Pour la réalisation des missions qui lui sont confiées, Voies navigables de France peut faire appel à tout établissement public de l'Etat compétent en matières scientifique et technique. Une convention passée entre les deux établissements précise les prestations réalisées pour Voies navigables de France ainsi que leurs modalités de réalisation.

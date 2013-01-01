@@ -1,57 +1,41 @@
 # Article 13
 
-Le conseil d'administration délibère sur la gestion des biens de Voies navigables de France ainsi que sur l'organisation, la structure et le fonctionnement de ses services, et notamment sur les matières suivantes :
+Le conseil d'administration délibère notamment sur :
 
-Les prévisions de recettes et de dépenses et les modifications à y apporter ;
+-les orientations stratégiques de l'établissement, notamment les orientations en matière de recrutement des personnels, les conditions générales d'emploi les conditions de rémunérations des personnels mentionnés aux 3° et 4° de l'article L. 4312-3-1 du code des transports, les contrats d'objectifs, les programmes généraux et annuels d'activités et d'investissement ;
 
-Le compte financier visé à l'article 53 ci-après ;
+-l'état prévisionnel des recettes et des dépenses et ses décisions modificatives ;
 
-Les comptes consolidés ;
+-le rapport annuel d'activité ;
 
-Les projets de contrats d'objectifs et de performance avec l'Etat ;
+-les conditions générales d'organisation et de fonctionnement de l'établissement ;
 
-Le rapport annuel d'activité ;
+-le montant des péages de navigation, des droits fixes et des redevances d'occupation domaniale, ainsi que des redevances perçues en contrepartie d'usage des services d'information fluviale ;
 
-L'octroi d'hypothèques, de cautions ou garanties ;
+-l'administration du domaine qui lui est confié par l'Etat et la gestion de ses biens ;
 
-L'affectation des résultats ;
+-les subventions ;
 
-Les règles générales d'emploi des disponibilités et des réserves ;
+-les concessions, les marchés, les accords-cadres et les contrats de partenariat ;
 
-Les programmes d'investissements ;
+-le compte financier, qui comprend notamment l'annexe et les états de développement des soldes et les propositions relatives à la fixation et l'affectation des résultats et la constitution de réserves ;
 
-Les emprunts ;
+-la conclusion d'emprunts sur une période n'excédant pas douze mois conformément aux lois et règlements en vigueur ;
 
-Les modes de gestion des exploitations assurées par Voies navigables de France, la prise en charge d'une nouvelle exploitation ou la renonciation à une exploitation existante ;
+-la création de filiales et les prises, extensions ou cessions de participations financières ;
 
-Les acquisitions, aliénations, échanges, constructions et grosses réparations d'immeubles ;
+-l'acquisition ou l'aliénation des biens immobiliers ;
 
-Les actions judiciaires, transactions et désistements ;
+-l'octroi d'hypothèques, de cautions ou d'autres garanties ;
 
-Les dons et legs ;
+-la participation à des organismes dotés de la personnalité morale ;
 
-Les effectifs, les conditions d'emploi et de rémunérations, le régime de retraite du personnel ;
+-les actions en justice et les transactions ;
 
-La prise, l'extension ou la cession de participations financières et, d'une manière générale, les conditions dans lesquelles Voies navigables de France accorde son concours ou accepte des concours extérieurs ;
+-l'acceptation ou le refus des dons et legs ;
 
-La création de filiales ;
+-les horaires et les jours d'ouverture des ouvrages de navigation qui lui sont confiés, ainsi que les périodes de chômage, sous réserve des attributions dévolues en cas d'urgence au directeur général et mentionnées à l'article 16.
 
-Les prestations réalisées pour le compte des collectivités locales ;
-
-Les horaires et les jours d'ouverture des ouvrages de navigation qui lui sont confiés, ainsi que les périodes de chômage, sauf exception prévue à l'article 16 (1) ;
-
-Le conseil d'administration donne, en outre, son avis sur toutes les questions qui lui sont soumises par le ministre des transports.
-
-Le conseil d'administration administre le domaine confié à l'établissement public.
-
-Il délibère, en outre, sur :
-
--tout contrat, tout acte de concession, toute convention et tout marché,
-
--les concours financiers apportés par l'établissement.
-
-Il fixe le montant des péages, droits fixes et redevances d'usage du domaine confié à l'établissement, ainsi que des redevances perçues en contrepartie de l'usage des services d'information fluviale.
-
-Il crée les commissions territoriales des voies navigables.
+Il crée les commissions territoriales des voies navigables mentionnées à l'article 19.
 
 Il établit son règlement intérieur et peut créer des comités en son sein, dont un comité d'audit et un comité de programmation des investissements.
