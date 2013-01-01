@@ -92,7 +92,7 @@ Centre français de recherches en sciences sociales.
 
 RUSSIE
 
-Centre franco-russe en sciences sociales de Moscou.
+Centre d'études franco-russe.
 
 SOUDAN
 
@@ -130,7 +130,7 @@ Institut français d'Allemagne (dont antennes à Bonn, Brême, Cologne, Dresde, 
 
 ARGENTINE
 
-Centre pour les études en France de Buenos Aires.
+Institut français d'Argentine.
 
 AUTRICHE
 
@@ -154,7 +154,7 @@ Institut français de Bosnie-Herzégovine (dont antennes à Mostar, Banjaluka et
 
 BRÉSIL
 
-Centre franco-brésilien de documentation technique et scientifique (CENDOTEC) de Sao Paolo.
+Institut français du Brésil (dont antennes à Belo Horizonte, Recife, Rio de Janeiro, Saõ Paulo).
 
 Maison de France de Rio de Janeiro.
 
@@ -200,7 +200,7 @@ Institut français de Chypre.
 
 COLOMBIE
 
-Centre pour les études en France de Bogota (dont antenne à Lima/Pérou).
+Institut français de Colombie (dont antennes à Lima [Pérou], Medellin).
 
 RÉPUBLIQUE DU CONGO
 
@@ -248,7 +248,7 @@ Institut français d'Estonie.
 
 ÉTATS-UNIS
 
-La maison française de Washington (dont antenne à New York).
+Mission culturelle et universitaire française aux Etats-Unis (dont antennes à Atlanta, Boston, Chicago, Houston, La Nouvelle-Orléans, Los Angeles, Miami, San Francisco, Washington).
 
 FINLANDE
 
@@ -308,11 +308,7 @@ Institut français d'Italie (dont antennes à Bologne, Florence, Milan, Naples, 
 
 JAPON
 
-Institut franco-japonais du Kansaï (Kyoto).
-
-Institut franco-japonais du Kyushu (Fukuoka).
-
-Institut franco-japonais de Tokyo (dont antenne à Yokohama).
+Institut français du Japon (dont antennes à Fukuoka, Kyoto, Osaka, Yokohama).
 
 JÉRUSALEM
 
@@ -355,8 +351,6 @@ MADAGASCAR
 Institut français de Madagascar (dont antennes à Antsirabe, Diégo-Suarez, Tamatave, Fianarantsoa, Tuléar, Mahajanga).
 
 MALAWI
-
-Centre culturel français de Blantyre.
 
 MALI
 
@@ -401,8 +395,6 @@ Institut français des Pays-Bas (dont antenne à Groningue).
 POLOGNE
 
 Institut français de Pologne (dont antennes à Cracovie, Poznan et Wroclaw).
-
-Centre de civilisation française et d'études francophones (CCFEF) auprès de l'université de Varsovie.
 
 PORTUGAL
 

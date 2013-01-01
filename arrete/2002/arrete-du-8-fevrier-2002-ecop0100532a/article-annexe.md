@@ -24,31 +24,31 @@
 <p align="center">DGFiP</p>
 </td>
 <td valign="top">
-<p>Administrateur général des finances publiques<br/>
-<br/>Administrateur des finances publiques<br/>
-<br/>Administrateur des finances publiques adjoint<br/>
-<br/>Inspecteur principal des finances publiques<br/>
-<br/>Inspecteur divisionnaire des finances publiques<br/>
-<br/>Inspecteur des finances publiques, responsable d'un poste comptable ou chef de service<br/>
-<br/>Conservateur des hypothèques<br/>
-<br/>Chef des services fiscaux Directeur départemental des impôts<br/>
-<br/>Trésorier-payeur général<br/>
-<br/>Receveur des finances de 1re catégorie<br/>
-<br/>Chef des services du Trésor public</p>
+<p>Administrateur général des finances publiques</p>
+<p>Administrateur des finances publiques</p>
+<p>Administrateur des finances publiques adjoint</p>
+<p>Inspecteur principal des finances publiques</p>
+<p>Inspecteur divisionnaire des finances publiques</p>
+<p>Inspecteur des finances publiques, responsable d'un poste comptable ou chef de service</p>
+<p>Conservateur des hypothèques</p>
+<p>Chef des services fiscaux Directeur départemental des impôts</p>
+<p>Trésorier-payeur général</p>
+<p>Receveur des finances de 1re catégorie</p>
+<p>Chef des services du Trésor public</p>
 </td>
 <td valign="top">
-<p>Inspecteur vérificateur<br/>
-<br/>Agent (inspecteur, B ou C) des brigades de contrôle et de recherche<br/>
-<br/>Inspecteur en administration centrale<br/>
-<br/>Agent (inspecteur ou B) chargé des fonctions d'huissier<br/>
-<br/>Assistant auditeur<br/>
-<br/>Agent enquêteur (B ou C)<br/>
-<br/>Agent (inspecteur, B ou C) des services de contrôle de la redevance audiovisuelle<br/>
-<br/>Contrôleur commissionné<br/>
-<br/>Agent (inspecteur, B ou C) des équipes mobiles de renfort<br/>
-<br/>Chargé d'enseignement auprès des établissements nationaux de formation<br/>
-<br/>Chargé de l'assistance informatique<br/>
-<br/>Chargé de mission</p>
+<p>Inspecteur vérificateur</p>
+<p>Agent (inspecteur, B ou C) des brigades de contrôle et de recherche</p>
+<p>Inspecteur en administration centrale</p>
+<p>Agent (inspecteur ou B) chargé des fonctions d'huissier</p>
+<p>Assistant auditeur</p>
+<p>Agent enquêteur (B ou C)</p>
+<p>Agent (inspecteur, B ou C) des services de contrôle de la redevance audiovisuelle</p>
+<p>Contrôleur commissionné</p>
+<p>Agent (inspecteur, B ou C) des équipes mobiles de renfort</p>
+<p>Chargé d'enseignement auprès des établissements nationaux de formation</p>
+<p>Chargé de l'assistance informatique</p>
+<p>Chargé de mission</p>
 </td>
 </tr>
 <tr>
@@ -159,34 +159,39 @@
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top">
+<td rowspan="6" valign="top">
 <p align="center">DGINSEE</p>
 </td>
-<td rowspan="5" valign="top">
-<p>Personnels de direction</p>
+<td rowspan="6" valign="top">
+<br/>
 </td>
 <td valign="top">
-<p>Ingénieurs-enquêteurs </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chargés d'enquêtes auprès des entreprises </p>
+<p>Enquêteurs et enquêteurs-experts</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Certains missionnaires de la direction des relations internationales et de la coopération </p>
+<p>Ingénieurs-enquêteurs</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Superviseurs du recensement rénové de la population </p>
+<p>Chargés d'enquêtes auprès des entreprises</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Personnels chargés de fonctions d'enseignement ou de recherche ou exerçant des fonctions de conception</p>
+<p>Certains missionnaires de la direction de la méthodologie et de la coordination statistique et internationale<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Superviseurs du recensement rénové de la population</p>
+</td>
+</tr>
+<tr>
+<td>Personnels chargés de fonctions d'enseignement ou de recherche ou exerçant des fonctions de conception<br/>
 </td>
 </tr>
 <tr>
@@ -197,6 +202,8 @@
 <p>Responsables de services déconcentrés (direction nationale, régionale, départementale ou laboratoire) et leurs adjoints </p>
 </td>
 <td rowspan="2" valign="top">
+<br/>
+<br/>
 <br/>
 </td>
 </tr>
@@ -237,6 +244,8 @@
 <p>Chef de division et adjoints </p>
 </td>
 <td rowspan="5">
+<br/>
+<br/>
 <br/>
 </td>
 </tr>

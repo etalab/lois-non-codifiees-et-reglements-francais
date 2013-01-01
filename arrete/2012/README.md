@@ -2191,7 +2191,6 @@
 - [Arrêté du 23 décembre 2011 (ETSP1200142A)](arrete-du-23-decembre-2011-etsp1200142a)
 - [Arrêté du 23 décembre 2011 (ETST1131996A)](arrete-du-23-decembre-2011-etst1131996a)
 - [Arrêté du 23 décembre 2011 (ETSZ1134616A)](arrete-du-23-decembre-2011-etsz1134616a)
-- [Arrêté du 23 décembre 2011 (INDR1133014A)](arrete-du-23-decembre-2011-indr1133014a)
 - [Arrêté du 23 décembre 2011 (INDR1133020A)](arrete-du-23-decembre-2011-indr1133020a)
 - [Arrêté du 23 décembre 2011 (IOCC1130282A)](arrete-du-23-decembre-2011-iocc1130282a)
 - [Arrêté du 23 décembre 2011 (IOCC1130287A)](arrete-du-23-decembre-2011-iocc1130287a)
