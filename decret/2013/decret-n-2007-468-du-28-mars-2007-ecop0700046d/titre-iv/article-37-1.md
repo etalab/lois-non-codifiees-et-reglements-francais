@@ -1,0 +1,3 @@
+# Article 37-1
+
+Les services accomplis dans une administration ou un organisme ou un établissement d'un Etat membre de l'Union européenne autre que la France, ou d'un autre Etat partie à l'accord sur l'Espace économique européen au sens de l'article 2 du décret n° 2010-311 du 22 mars 2010 relatif aux modalités de recrutements et d'accueil des ressortissants des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dans un corps, un cadre d'emplois ou un emploi de la fonction publique française sont pris en compte selon les modalités fixées par ce même décret.

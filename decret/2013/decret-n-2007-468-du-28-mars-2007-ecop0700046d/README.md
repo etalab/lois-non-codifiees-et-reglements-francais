@@ -1,0 +1,7 @@
+# Décret n° 2007-468 du 28 mars 2007 portant statut particulier des enseignants de l'Institut Mines-Télécom
+
+- [Article 1](article-1.md)
+- [TITRE Ier : DISPOSITIONS COMMUNES.](titre-ier)
+- [TITRE II : DISPOSITIONS RELATIVES AU CORPS DES MAÎTRES-ASSISTANTS DE L'INSTITUT MINES-TELECOM](titre-ii)
+- [TITRE III : DISPOSITIONS RELATIVES AU CORPS DES PROFESSEURS DE L'INSTITUT MINES-TELECOM](titre-iii)
+- [TITRE IV : CLASSEMENT.](titre-iv)
