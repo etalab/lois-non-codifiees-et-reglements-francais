@@ -2,21 +2,21 @@
 
 Le régime d'assurance vieillesse complémentaire institué par l'article 1er comporte six classes de cotisations :
 
-Classe spéciale portant attribution de 2 points de retraite.
+- la classe spéciale portant attribution de 18 points de retraite ;
 
-Classe B portant attribution de 8 points de retraite.
+- la classe B portant attribution de 72 points de retraite ;
 
-Classe C portant attribution de 14 points de retraite.
+- la classe C portant attribution de 126 points de retraite ;
 
-Classe D portant attribution de 20 points de retraite.
+- la classe D portant attribution de 180 points de retraite ;
 
-Classe E portant attribution de 28 points de retraite.
+- la classe E portant attribution de 252 points de retraite ;
 
-Classe F portant attribution de 40 points de retraite.
+- la classe F portant attribution de 360 points de retraite.
 
 Les montants des cotisations des classes B, C, D, E et F sont respectivement égaux à 4, 7, 10, 14 et 20 fois le montant de la cotisation de la classe spéciale.
 
-La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans les conditions fixées par les statuts prévus à l'article 5 du présent décret, son revenu d'activité tel que défini à l' article L. 131-6 du code de la sécurité sociale. A titre transitoire, les classes D, E et F ne deviennent obligatoires en fonction du revenu professionnel qu'à compter du 1er janvier 1981 pour la classe D, du 1er janvier 1982 pour la classe E et du 1er janvier 1988 pour la classe F.
+La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans les conditions fixées par les statuts prévus à l'article 5 du présent décret, son revenu d'activité tel que défini à l' article L. 131-6 du code de la sécurité sociale.
 
 Les adhérents peuvent cependant opter, dans les conditions prévues par les statuts, pour la classe immédiatement supérieure à celle qui correspond à leur revenu.
 

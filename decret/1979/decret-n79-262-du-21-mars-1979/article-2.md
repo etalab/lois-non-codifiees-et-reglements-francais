@@ -1,22 +1,26 @@
 # Article 2
 
-Le régime d'assurance vieillesse complémentaire institué par l'article 1er comporte six classes de cotisation :
+Le régime d'assurance vieillesse complémentaire institué par l'article 1er comporte huit classes de cotisation :
 
-Classe 1 portant attribution de quatre points de retraite ;
+- la classe A portant attribution annuelle de 36 points ;
 
-Classe 2 portant attribution de huit points de retraite ;
+- la classe B portant attribution annuelle de 72 points ;
 
-Classe 3 portant attribution de douze points de retraite ;
+- la classe C portant attribution annuelle de 108 points ;
 
-Classe 5 portant attribution de vingt points de retraite ;
+- la classe D portant attribution annuelle de 180 points ;
 
-Classe 7 portant attribution de vingt-huit points de retraite ;
+- la classe E portant attribution annuelle de 252 points ;
 
-Classe 10 portant attribution de quarante points de retraite.
+- la classe F portant attribution annuelle de 396 points ;
 
-Les montants des cotisations des classes 2,3,5,7 et 10 sont respectivement égaux à deux, trois, cinq, sept et dix fois le montant de la cotisation de la classe 1.
+- la classe G portant attribution annuelle de 432 points ;
 
-La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans les conditions fixées par les statuts prévus à l'article 5, son revenu d'activité tel que défini à l'article L. 131-6 du code de la sécurité sociale et pour les architectes et agréés en architecture visés à l'article 35 de la loi n° 77-2 du 3 janvier 1977, le revenu net salarié provenant de l'activité exercée en qualité d'associé d'une société d'architecture. A titre transitoire, les classes 5,7 et 10 ne deviennent obligatoires en fonction du revenu professionnel qu'à compter du 1er janvier 1980 pour la classe 5, du 1er janvier 1981 pour la classe 7 et du 1er janvier 1982 pour la classe 10.
+- la classe H portant attribution annuelle de 468 points.
+
+Les montants des cotisations des classes B, C, D, E, F, G et H sont respectivement égaux à 2,3,5,7,11,12 et 13 fois le montant de la cotisation de la classe A.
+
+La cotisation due par chaque assujetti est celle de la classe à laquelle correspond, dans les conditions fixées par les statuts prévus à l'article 5, son revenu d'activité tel que défini à l'article L. 131-6 du code de la sécurité sociale et pour les architectes et agréés en architecture visés à l'article 35 de la loi n° 77-2 du 3 janvier 1977, le revenu net salarié provenant de l'activité exercée en qualité d'associé d'une société d'architecture.
 
 Les adhérents peuvent toutefois opter dans les conditions prévues auxdits statuts pour la classe immédiatement supérieure à celle qui correspond à leur revenu.
 
