@@ -1,12 +1,14 @@
 # Article 3
 
-Il est institué une taxe sur les surfaces commerciales assise sur la surface de vente des magasins de commerce de détail, dès lors qu'elle dépasse 400 mètres carrés des établissements ouverts à partir du 1er janvier 1960 quelle que soit la forme juridique de l'entreprise qui les exploite.
+Il est institué une taxe sur les surfaces commerciales assise sur la surface de vente des magasins de commerce de détail, dès lors qu'elle dépasse 400 mètres carrés des établissements ouverts à partir du 1er janvier 1960 quelle que soit la forme juridique de l'entreprise qui les exploite. Ne sont pas considérés comme magasins de commerce de détail les établissements de commerce de gros dont la clientèle est composée de professionnels pour les besoins de leur activité ou de collectivités. Lorsque ces établissements réalisent à titre accessoire des ventes à des consommateurs pour un usage domestique, ces ventes constituent des ventes au détail qui sont soumises à la taxe dans les conditions de droit commun.
 
 Toutefois, le seuil de superficie de 400 mètres carrés ne s'applique pas aux établissements contrôlés directement ou indirectement par une même personne et exploités sous une même enseigne commerciale lorsque la surface de vente cumulée de l'ensemble de ces établissements excède 4 000 mètres carrés.
 
 La surface de vente des magasins de commerce de détail, prise en compte pour le calcul de la taxe, et celle visée à l'article L. 720-5 du code de commerce, s'entendent des espaces affectés à la circulation de la clientèle pour effectuer ses achats, de ceux affectés à l'exposition des marchandises proposées à la vente, à leur paiement, et de ceux affectés à la circulation du personnel pour présenter les marchandises à la vente.
 
 La surface de vente des magasins de commerce de détail prise en compte pour le calcul de la taxe ne comprend que la partie close et couverte de ces magasins.
+
+La surface de vente à retenir pour le calcul de la taxe est celle existant au 31 décembre de l'année précédant l'année d'imposition pour les établissements existant à cette date.
 
 Les établissements situés à l'intérieur des zones urbaines sensibles bénéficient d'une franchise de 1 500 euros sur le montant de la taxe dont ils sont redevables.
 
@@ -32,7 +34,7 @@ A l'exclusion des établissements dont l'activité principale est la vente ou la
 
 ― ou l'établissement et une installation de distribution au détail de carburants sont contrôlés directement ou indirectement par une même personne.
 
-Un décret prévoira, par rapport aux taux ci-dessus, des réductions pour les professions dont l'exercice requiert des superficies de vente anormalement élevées ou, en fonction de leur chiffre d'affaires au mètre carré, pour les établissements dont la surface des locaux de vente destinés à la vente au détail est comprise entre 400 et 600 mètres carrés. Le montant de la taxe est majoré de 30 % pour les établissements dont la superficie est supérieure à 5 000 mètres carrés et dont le chiffre d'affaires annuel hors taxes est supérieur à 3 000 euros par mètre carré.
+Un décret prévoira, par rapport aux taux ci-dessus, des réductions pour les professions dont l'exercice à titre principal  requiert des superficies de vente anormalement élevées ou, en fonction de leur chiffre d'affaires au mètre carré, pour les établissements dont la surface des locaux de vente destinés à la vente au détail est comprise entre 400 et 600 mètres carrés. Le montant de la taxe est majoré de 30 % pour les établissements dont la superficie est supérieure à 5 000 mètres carrés et dont le chiffre d'affaires annuel hors taxes est supérieur à 3 000 euros par mètre carré.
 
 La taxe ne s'applique pas aux établissements dont le chiffre d'affaires annuel est inférieur à 460 000 euros.
 

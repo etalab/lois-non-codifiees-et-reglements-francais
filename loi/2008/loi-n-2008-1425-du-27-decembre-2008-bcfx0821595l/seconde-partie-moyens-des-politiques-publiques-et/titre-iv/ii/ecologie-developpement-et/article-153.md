@@ -3,22 +3,28 @@
 I. A.-A modifié les dispositions suivantes :
 
 > -Code des douanes
-> > Art. 285 septies, Sct. Chapitre II : Taxe nationale sur les véhicules de transport de marchandises., Sct. Section 1 : Champ d'application., Art. 269, Art. 270, Art. 271, Sct. Section 2 : Redevables., Art. 272, Sct. Section 3 : Fait générateur et exigibilité de la taxe., Art. 273, Sct. Section 4 : Assiette, taux et barème., Art. 274, Art. 275, Sct. Section 5 : Liquidation de la taxe., Art. 276, Art. 277, Sct. Section 6 : Paiement de la taxe., Art. 278, Art. 279, Art. 280, Sct. Section 7 : Recherche, constatation, sanction et poursuite., Art. 281, Art. 282, Art. 283
+> > Art. 285 septies,
+> >
+> >
+> >
+> >
+> >
+> >
+> >
+> > B. ― Sauf dispositions contraires, les modalités d'application du A sont fixées par décret en Conseil d'Etat.
 
-B. ― Sauf dispositions contraires, les modalités d'application du A sont fixées par décret en Conseil d'Etat.
-
-C. ― Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2010.
+C. ― Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2010. La date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe prévue au A est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 II. A.-A créé les dispositions suivantes :
 
 > -Code des douanes
-> > Sct. Section 8 : Affectation du produit de la taxe., Art. 283 bis, Art. 283 quater, Art. 283 ter, Sct. Section 9 : Dispositions diverses., Art. 283 quinquies
+> > Sct. Chapitre II : Taxe nationale sur les véhicules de transport de marchandises., Sct. Section 1 : Champ d'application., Art. 269, Art. 270, Art. 271, Sct. Section 2 : Redevables., Art. 272, Sct. Section 3 : Fait générateur et exigibilité de la taxe., Art. 273, Sct. Section 4 : Assiette, taux et barème., Art. 274, Art. 275, Sct. Section 5 : Liquidation de la taxe., Art. 276, Art. 277, Sct. Section 6 : Paiement de la taxe., Art. 278, Art. 279, Art. 280, Sct. Section 7 : Recherche, constatation, sanction et poursuite., Art. 281, Art. 282, Art. 283 Sct. Section 8 : Affectation du produit de la taxe., Art. 283 bis, Art. 283 quater, Art. 283 ter, Sct. Section 9 : Dispositions diverses., Art. 283 quinquies
 
 B. ― Sauf dispositions contraires, les modalités d'application du A sont fixées par décret en Conseil d'Etat.
 
-C. ― 1. Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2011.
+C. ― 1. Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2011. La date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe prévue au A est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
-2. L'article 285 septies du code des douanes est abrogé à compter de la date d'entrée en vigueur de la taxe prévue au A.
+2. L'article 285 septies du code des douanes est abrogé à compter de la date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe mentionnée au 1.
 
 III. ― A. ― Pour l'application de la taxe sur les poids lourds prévue aux articles 269 à 283 quinquies et 285 septies du code des douanes, l'Etat est autorisé, dans les conditions définies au B, à confier à un ou plusieurs prestataires extérieurs les missions suivantes :
 

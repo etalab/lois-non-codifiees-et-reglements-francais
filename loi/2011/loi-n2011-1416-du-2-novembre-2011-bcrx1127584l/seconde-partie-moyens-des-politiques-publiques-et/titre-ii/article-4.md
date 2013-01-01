@@ -2,11 +2,15 @@
 
 I. ― Le ministre chargé de l'économie est autorisé à accorder à titre onéreux la garantie de l'Etat :
 
-a) Aux financements levés par les sociétés Dexia SA et Dexia Crédit Local SA auprès d'établissements de crédit et de déposants institutionnels ainsi qu'aux obligations et titres de créances qu'elles émettent à destination d'investisseurs institutionnels, dès lors que ces financements, obligations ou titres ont été levés ou souscrits entre la date de publication de la présente loi et le 31 décembre 2021 inclus ;
+a) Aux financements levés par les sociétés Dexia SA et Dexia Crédit Local SA auprès d'établissements de crédit et de déposants institutionnels ou d'autres investisseurs qualifiés au sens de la réglementation qui leur est applicable, y compris les filiales directes ou indirectes de Dexia SA ou de Dexia Crédit local SA ainsi qu'aux obligations et titres de créances qu'elles émettent à destination d'investisseurs institutionnels, dès lors que ces financements, obligations ou titres ont été levés ou souscrits entre la date de publication de la présente loi et le 31 décembre 2021 inclus ;
 
 b) Aux titres de créances émis par Dexia Crédit Local SA figurant à son bilan à la date de publication de la présente loi.
 
-Cette garantie est accordée pour un encours d'un montant maximal de 32,85 milliards d'euros. Elle s'exercera sous réserve de l'appel conjoint en garantie du Royaume de Belgique et du Grand-Duché de Luxembourg et dans la limite de 36,5 % des montants éligibles.
+Cette garantie porte sur le principal, les intérêts, frais et accessoires des financements, obligations et titres de créances garantis. Elle est accordée pour un encours d'un montant maximal de 38,76 milliards d'euros en principal. Les financements, obligations ou titres de créances bénéficient de la garantie de l'Etat si, à la date de leur émission ou souscription ou, s'agissant des titres mentionnés au b, à la date à laquelle la garantie de l'Etat est accordée, le montant en principal de l'encours garanti par l'Etat au titre du présent I n'excède pas le montant mentionné ci-dessus, en tenant compte, pour les financements, obligations ou titres de créances libellés en dollars des Etats-Unis d'Amérique, dollars canadiens, livres sterling, yens ou francs suisses, de la contrevaleur en euros, à cette date, de leur encours en principal.
+
+Les montants en principal garantis par l'Etat au titre du présent I, appréciés à la date de chaque émission ou souscription ou de chaque série d'émissions ou souscriptions concomitantes, ne peuvent être supérieurs à 45,59 % de la somme des montants d'encours en principal des financements, obligations ou titres de créance levés ou émis par les sociétés concernées à compter de la date de publication de la présente loi et garantis par l'Etat, le Royaume de Belgique et le Grand-Duché de Luxembourg, conjointement ou non.
+
+Elle s'exercera, sauf dispositions contraires des conventions conclues par le ministre chargé de l'économie mentionnées au III, sous réserve de l'appel conjoint en garantie du Royaume de Belgique et du Grand-Duché de Luxembourg et dans la limite de 45,59 % des montants éligibles.
 
 En cas de cession à un tiers par Dexia SA du contrôle, direct ou indirect, de Dexia Crédit Local SA, les financements, obligations ou titres de créance mentionnés au a levés ou souscrits postérieurement à la date de réalisation de ladite cession du contrôle de Dexia Crédit Local SA ne bénéficient pas de la garantie de l'Etat.
 
