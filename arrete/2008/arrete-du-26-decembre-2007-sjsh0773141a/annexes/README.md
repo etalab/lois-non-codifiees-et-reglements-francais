@@ -1,5 +1,7 @@
 # Annexes
 
+- [C. ― Programme de la quatrième épreuve   d'admissibilité et de la deuxième épreuve d'admission](c)
+- [D. ― Programme de la troisième épreuve d'admission](d)
 - [Article Annexe I](article-annexe-i.md)
 - [Article Annexe II](article-annexe-ii.md)
 - [Article Annexe III](article-annexe-iii.md)
@@ -11,3 +13,7 @@
 - [Article Annexe IX](article-annexe-ix.md)
 - [Article Annexe X](article-annexe-x.md)
 - [Article Annexe XI](article-annexe-xi.md)
+- [A. - Programme de la première épreuve d'admissibilité](a)
+- [B. ― Programme de la troisième épreuve d'admissibilité et de la deuxième épreuve d'admission](b)
+- [E. ― Programme des épreuves facultatives](e)
+- [F. ― Epreuves facultatives de sport   Liste des épreuves et échelles de cotation](f)

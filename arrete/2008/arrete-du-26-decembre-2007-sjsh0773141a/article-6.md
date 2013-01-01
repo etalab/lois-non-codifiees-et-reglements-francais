@@ -4,22 +4,22 @@ Le jury est nommé par arrêté du directeur général du Centre national de ges
 
 Il comprend :
 
-― le           directeur général de l'offre de soins  ou son représentant ;
+- le directeur général de la cohésion sociale ou son représentant ;
 
-― un inspecteur général des affaires sociales ;
+- un membre de l'inspection générale des affaires sociales ;
 
-― le directeur général de la santé ou le directeur de la sécurité sociale ou le directeur général de la cohésion sociale ou leur représentant ;
+- un directeur général d'agence régionale de santé ou son représentant ;
 
-― le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
+- le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 
-― un membre du personnel de direction des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée et régi par le décret n° 2005-921 du 2 août 2005 modifié ;
+- trois membres du personnel de direction régis par le décret n° 2007-1930 du 26 décembre 2007 susvisé ;
 
-― deux membres du personnel de direction des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée et régis par le décret n° 2007-1930 du 26 décembre 2007 ;
+- un membre du personnel de direction régi par le décret n° 2005-921 du 2 août 2005 ;
 
-― deux professeurs ou maîtres de conférences ou maîtres assistants choisis parmi les enseignants des disciplines suivantes : droit, sciences économiques.
+- un professeur, maître de conférences ou maître-assistant, membre de l'enseignement supérieur.
 
 Il pourra être fait appel, en cas de nécessité, à des fonctionnaires en retraite. Des correcteurs ou des examinateurs spécialisés, nommés par arrêté du directeur général du Centre national de gestion, peuvent être adjoints au jury. Ces correcteurs ou ces examinateurs peuvent délibérer avec le jury avec voix consultative.
 
-La présidence du jury est exercée par le           directeur général de l'offre de soins  ou, en cas d'absence ou d'empêchement de celui-ci, par un membre du jury désigné par le directeur général du Centre national de gestion.
+Le président du jury est désigné, par arrêté du directeur général du Centre national de gestion, parmi les membres du jury.
 
-Le secrétariat du jury est assuré par le centre national de gestion.
+Le secrétariat du jury est assuré par le Centre national de gestion.

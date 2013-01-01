@@ -1,33 +1,39 @@
 # Article 10
 
-Les dossiers de candidature doivent être adressés sous pli recommandé ou déposés au Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière avant la date de clôture des inscriptions. L'arrêté portant ouverture des concours fixe chaque année cette date entre le quatre-vingt-quinzième et le cent quinzième jour avant la date des épreuves d'admissibilité.
+Les dossiers de candidature doivent être adressés sous pli recommandé ou déposés au Centre national de gestion avant la date de clôture des inscriptions. L'arrêté portant ouverture des concours fixe chaque année cette date ainsi que la date des épreuves.
 
-Ces dossiers comprennent :
+Ces dossiers de candidature comprennent :
 
-A. - Pour tous les candidats
+A. - Pour tous les candidats :
 
-1° Une demande d'admission à concourir établie sur un imprimé fourni au candidat et mentionnant notamment le centre choisi pour les épreuves écrites, les épreuves à option et, le cas échéant, les épreuves facultatives choisies. Pour les candidats du concours interne, cette demande sera visée par le supérieur hiérarchique.
+1° Une demande d'admission à concourir, établie sur un imprimé fourni au candidat par le Centre national de gestion, mentionnant notamment le centre choisi pour les épreuves écrites, les épreuves à option et, le cas échéant, les épreuves facultatives choisies. Pour les candidats du concours interne, cette demande sera visée par le supérieur hiérarchique qui atteste que le candidat se trouve en fonctions ;
 
-2° Pour le concours externe, une photocopie de l'un des diplômes permettant de se présenter au concours ; à défaut, les pièces justificatives attestant que le candidat remplit les conditions de dispense de diplôme prévues en faveur de certaines catégories de femmes et de personnes chargées de famille prévues par les dispositions législatives et règlementaires en vigueur.
+2° Pour les candidats au concours externe, une photocopie de l'un des diplômes permettant de se présenter au concours ; à défaut, les pièces justificatives attestant que le candidat remplit les conditions de dispense de diplôme définies par le
+décret n° 81-317 du 7 avril 1981
+modifié fixant les conditions dans lesquelles certaines mères de famille bénéficient d'une dispense de diplôme pour se présenter à divers concours ;
 
-3° Pour le concours interne, un état des services civils accomplis, établi sur un imprimé fourni au candidat par l'autorité investie du pouvoir de nomination.
+3° Pour les candidats au concours interne, un état des services civils accomplis établi sur un imprimé fourni au candidat par l'autorité investie du pouvoir de nomination ;
 
-4° Les candidats désirant bénéficier du recul ou de la suppression de la limite d'âge prévue par les dispositions législatives et réglementaires en vigueur doivent fournir toutes pièces justificatives de leur situation.
+4° Pour les candidats admissibles :
 
-B. - Pour les candidats déclarés admis à l'issue des épreuves
+a) Pour le concours externe, un curriculum vitae faisant apparaître le cursus universitaire et/ ou professionnel du candidat ;
 
-- une déclaration exprimant leur volonté de suivre le cycle de formation ;
+b) Pour le concours interne, le dossier RAEP établi par le candidat (annexe XVIII) à partir d'un imprimé fourni par le Centre national de gestion.
+
+B. - Les candidats déclarés admis à l'issue des épreuves fournissent au Centre national de gestion :
+
+- une déclaration sur l'honneur exprimant leur volonté de suivre le cycle de formation ;
 
 - un engagement de servir d'une durée de dix ans à compter de la date de leur entrée en formation ;
 
-- une copie du livret de famille ou de la carte nationale d'identité française ou de ressortissant de l'un des Etats membres de l'Union européenne ;
+- une photocopie du livret de famille ou de la carte nationale d'identité française ou de ressortissant de l'un des Etats membres de l'Union européenne ;
 
 - une demande d'extrait de casier judiciaire (bulletin n° 2) ;
 
-- un certificat délivré par un médecin assermenté attestant, conformément aux indications mentionnées sur l'imprimé délivré au candidat, que celui-ci n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions de direction d'établissement hospitalier public ; pour les candidats handicapés, un avis de la commission des droits et de l'autonomie des personnes handicapées compétente attestant que le handicap du candidat est compatible avec l'exercice des fonctions de direction d'établissement hospitalier public ;
+- un certificat délivré par un médecin assermenté attestant, conformément aux indications mentionnées sur l'imprimé délivré au candidat, que celui-ci n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions de direction d'établissements public hospitalier ; pour les candidats handicapés, un avis de la commission des droits et de l'autonomie des personnes handicapées compétente attestant que le handicap du candidat est compatible avec l'exercice des fonctions de directeur d'hôpital ;
 
-- un état signalétique et des services militaires ou une photocopie de ce document, ou une pièce attestant leur situation au regard du code du service national ;
+- une pièce attestant leur situation au regard du code du service national ;
 
-- pour les fonctionnaires de l'Etat, d'une collectivité territoriale ou d'un établissement public, la dernière décision indiciaire dont ils ont fait l'objet.
+- pour les fonctionnaires, la dernière décision indiciaire dont ils ont fait l'objet.
 
-Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, les candidats doivent s'adresser au Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière, immeuble Le Ponant B, 21, rue Leblanc, 75737 Paris Cedex 15.
+Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, les candidats doivent s'adresser au directeur général du Centre national de gestion.

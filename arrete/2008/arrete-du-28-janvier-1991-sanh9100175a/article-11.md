@@ -1,3 +1,3 @@
 # Article 11
 
-La surveillance des épreuves est placée sous la responsabilité des fonctionnaires désignés à cet effet.
+L'organisation matérielle du concours et la responsabilité de la surveillance des épreuves sont placées sous la responsabilité du Centre national de gestion.

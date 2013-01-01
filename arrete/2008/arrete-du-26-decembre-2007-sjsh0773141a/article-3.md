@@ -2,32 +2,40 @@
 
 Les épreuves écrites d'admissibilité de chacun des concours comprennent :
 
-1° Au choix du candidat, après communication des sujets :
+1° Une composition rédigée en cinq heures portant sur un sujet d'ordre général relatif à l'évolution des idées et des faits politiques, économiques, sociaux et culturels en France et dans le monde permettant d'apprécier l'aptitude du candidat à exprimer, sur le sujet proposé, tant une analyse des faits et des événements qu'une interprétation personnelle et argumentée (coefficient 5).
 
-― soit une composition, rédigée en cinq heures, sur un sujet d'ordre général relatif à l'évolution des idées et des faits politiques, économiques, sociaux et culturels en France et dans le monde (coefficient 5) ;
+L'annexe I du présent arrêté précise l'orientation de cette épreuve ;
 
-― soit une étude, rédigée en quatre heures, à partir d'un texte qui sera préalablement résumé et dans laquelle seront discutées et appréciées les idées essentielles de l'auteur ; cette épreuve porte sur un texte d'ordre général relatif à l'évolution des idées et des faits politiques, économiques, sociaux et culturels en France et dans le monde (coefficient 5).
+2° Une note rédigée en cinq heures, à partir d'un dossier, permettant de vérifier l'aptitude du candidat à faire l'analyse et la synthèse d'un problème relatif à l'organisation et à la gestion dans le domaine sanitaire, social et médico-social (coefficient 5) ;
 
-2° Une composition, rédigée en quatre heures, portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) :
+3° Une composition rédigée en quatre heures portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) :
 
-― finances publiques ;
+- droit public (programme fixé à l'annexe II) ;
 
-― macroéconomie ;
+- mathématiques (programme fixé à l'annexe III) ;
 
-― droit public ;
+- santé publique (programme fixé à l'annexe IV) ;
 
-― santé publique.
+- sciences économiques (programme fixé à l'annexe V).
 
-3° Une composition, rédigée en quatre heures, portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) :
+Le choix du candidat est exprimé avant la clôture des inscriptions ;
 
-― législations de sécurité sociale ;
+4° Une composition rédigée en quatre heures portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) :
 
-― comptabilité privée ;
+- droit et gestion des collectivités territoriales (programme fixé à l'annexe VI) ;
 
-― droit hospitalier ;
+- droit hospitalier et droit des établissements sociaux et médico-sociaux (programme fixé à l'annexe VII) ;
 
-― droit des établissements sociaux et médico-sociaux et législation d'aide sociale ;
+- gestion comptable et financière des entreprises (programme fixé à l'annexe VIII) ;
 
-― mathématiques et sciences physiques.
+- histoire (programme fixé à l'annexe IX) ;
 
-Pour la deuxième et la troisième épreuves d'admissibilité, le choix du candidat est exprimé avant la clôture des inscriptions au concours.
+- législation de sécurité sociale et d'aide sociale (programme fixé à l'annexe X) ;
+
+- finances publiques (programme fixé à l'annexe XI) ;
+
+- statistiques (programme fixé à l'annexe XII) ;
+
+- sociologie (programme fixé à l'annexe XIII).
+
+Le choix du candidat est exprimé avant la clôture des inscriptions.

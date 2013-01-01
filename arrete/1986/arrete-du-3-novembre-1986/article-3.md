@@ -8,7 +8,7 @@ Le règlement portant organisation du concours général est le suivant :
 
 Dans le cas où l'élève a changé d'établissement après le 1er janvier, il peut, en raison des motifs de ce changement, être rayé de la liste des concurrents par le recteur ;
 
-3. Les listes des concurrents sont dressées, pour chaque discipline, par le professeur de la classe qui en est chargé. Ces listes contiennent l'indication des nom, prénoms et adresse de chaque élève, certifiée par le chef d'établissement.
+3. Les listes des concurrents sont dressées, pour chaque discipline, par le professeur de la classe qui en est chargé. Ces listes contiennent l'indication des nom, prénoms et adresse de chaque élève, certifiée par le chef d'établissement ;
 
 Le chef d'établissement certifie, en outre, que les concurrents ont suivi normalement les cours de la discipline dans laquelle ils sont appelés à concourir ;
 
@@ -24,14 +24,10 @@ Le chef d'établissement certifie, en outre, que les concurrents ont suivi norma
 
 9. Chaque année, le ministre de l'éducation nationale nomme les jurys ainsi que leurs présidents, constitués pour chaque discipline sur la proposition du doyen du groupe d'inspection générale concerné, qui procèdent à l'examen des compositions ;
 
-10. L'examen des compositions donne lieu à l'attribution éventuelle par le ministre, sur propositions des présidents de jurys, des récompenses suivantes :
+10. L'examen des compositions donne lieu à l'attribution éventuelle par le ministre, sur proposition des présidents de jurys, des récompenses suivantes : prix (premier, deuxième et troisième prix) ; accessits (premier au cinquième) ; mentions (dix au maximum). S'agissant d'une compétition de type spécifique ne visant à récompenser que les meilleurs concurrents, aucun classement ni aucune notation n'est attribué aux autres candidats ;
 
-- prix (premier, deuxième et troisième prix) ;
+11. Lorsqu'une composition est commune à deux niveaux, elle ne donne lieu qu'à un seul classement et à une seule série de récompenses ;
 
-- accessits (premier au cinquième) ;
-
-- mentions (dix au maximum, selon le niveau des prestations).
-
-11. Lorsqu'une composition est commune à deux niveaux, elle ne donne lieu qu'à un seul classement et à une seule série de récompenses.
+12. Les élèves des établissements français à l'étranger peuvent être présentés à l'ensemble des épreuves, y compris à l'épreuve de la langue du pays dans lequel ils vivent.
 
 Mention spéciale est faite, dans la liste des récompenses, de la classe à laquelle appartiennent les lauréats.
