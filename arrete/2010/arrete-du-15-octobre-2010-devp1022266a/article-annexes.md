@@ -1,5 +1,7 @@
 # Article Annexes
 
-L'arrêté et les annexes sont publiés au Bulletin officiel du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat.
+L'arrêté et les annexes sont publiés au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie.
 
-Vous pouvez les consulter à l'adresse suivante :  http://www.ineris.fr/aida/consultation_document/3981
+Vous pouvez les consulter à l'adresse suivante :
+
+http://www.bulletin-officiel.developpement-durable.gouv.fr/fiches/BO201220/met_20120020_0100_0001.pdf
