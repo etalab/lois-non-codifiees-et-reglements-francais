@@ -473,7 +473,6 @@
 - [Arrêté du 16 décembre 1997 (MESH9723951A)](arrete-du-16-decembre-1997-mesh9723951a)
 - [Arrêté du 16 janvier 1997 (EQUT9700099A)](arrete-du-16-janvier-1997-equt9700099a)
 - [Arrêté du 16 janvier 1997 (MENL9700054A)](arrete-du-16-janvier-1997-menl9700054a)
-- [Arrêté du 16 juillet 1996 (MAEA9620337A)](arrete-du-16-juillet-1996-maea9620337a)
 - [Arrêté du 16 juillet 1997 (ATEP9760318A)](arrete-du-16-juillet-1997-atep9760318a)
 - [Arrêté du 16 juillet 1997 (ECOI9700378A)](arrete-du-16-juillet-1997-ecoi9700378a)
 - [Arrêté du 16 juillet 1997 (ECOS9750023A)](arrete-du-16-juillet-1997-ecos9750023a)
