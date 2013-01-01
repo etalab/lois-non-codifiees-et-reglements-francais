@@ -1634,9 +1634,9 @@ Chef de groupe technique à l'école nationale de police de Nîmes, en qualité 
 
 Chef de groupe technique à l'école nationale de police de Rouen-Oissel, en qualité d'adjoint au directeur 1
 
-Chef de groupe technique à l'école nationale supérieure des officiers de police de Cannes-Ecluse en qualité d'adjoint au directeur des formations 1
+Chef de groupe technique à l'école nationale supérieure de police de Cannes-Ecluse en qualité d'adjoint au directeur des formations 1
 
-Chef de groupe technique à l'école nationale supérieure des officiers de police de Cannes-Ecluse 1
+Chef de groupe technique à l'école nationale supérieure de police de Cannes-Ecluse 1
 
 Chefs de groupe technique à l'institut national de formation de la police nationale de Clermont-Ferrand, en qualité de chefs de centre 2
 

@@ -8,7 +8,7 @@ Le jury comprend :
 
 ― un représentant de la        direction des ressources et des compétences de la police nationale, vice-président ;
 
-― un représentant de l'Ecole nationale supérieure des officiers de police ;
+― un représentant de l'Ecole nationale supérieure de police ;
 
 ― trois membres du corps de commandement représentant les directions actives de la police nationale ;
 

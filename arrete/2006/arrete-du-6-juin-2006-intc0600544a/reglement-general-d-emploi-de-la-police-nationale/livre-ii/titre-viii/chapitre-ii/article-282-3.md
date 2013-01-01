@@ -2,7 +2,7 @@
 
 Elle comporte également :
 
-- l'Ecole nationale supérieure des officiers de police ;
+- l'Ecole nationale supérieure de police ;
 
 - l'Ecole nationale d'application de la police nationale ;
 

@@ -474,7 +474,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 										5 ans<br/>
 </td>
-<td align="center"> 										ÉCOLE NATIONALE SUPÉRIEURE DES OFFICIERS DE POLICE (ENSOP).<br/>
+<td align="center"> 										ÉCOLE NATIONALE SUPÉRIEURE DE POLICE (ENSP).<br/>
 </td>
 </tr>
 <tr>

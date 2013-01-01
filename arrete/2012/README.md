@@ -857,7 +857,6 @@
 - [Arrêté du 11 janvier 2012 (DEFH1201021A)](arrete-du-11-janvier-2012-defh1201021a)
 - [Arrêté du 11 janvier 2012 (DEVA1135252A)](arrete-du-11-janvier-2012-deva1135252a)
 - [Arrêté du 11 janvier 2012 (DEVL1134263A)](arrete-du-11-janvier-2012-devl1134263a)
-- [Arrêté du 11 janvier 2012 (SCSA1133320A)](arrete-du-11-janvier-2012-scsa1133320a)
 - [Arrêté du 11 juillet 2006 (INDI0607862A)](arrete-du-11-juillet-2006-indi0607862a)
 - [Arrêté du 11 juillet 2012 (AFSS1228994A)](arrete-du-11-juillet-2012-afss1228994a)
 - [Arrêté du 11 juillet 2012 (AGRT1228577A)](arrete-du-11-juillet-2012-agrt1228577a)

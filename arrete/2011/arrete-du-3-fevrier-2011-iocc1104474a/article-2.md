@@ -2,7 +2,7 @@
 
 Composition de la commission de suivi.
 
-Présidée par le directeur de l'Ecole nationale supérieure des officiers de police, cette commission comprend les membres suivants :
+Présidée par le directeur de l'Ecole nationale supérieure de police, cette commission comprend les membres suivants :
 
 ― le directeur adjoint, directeur des formations ;
 

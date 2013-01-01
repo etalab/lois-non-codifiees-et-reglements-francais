@@ -890,7 +890,7 @@ FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXE
 </tbody>
 </table>
 
-6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
+6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de police (ENSP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
 
 <table>
 <tbody>
@@ -940,7 +940,7 @@ FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXE
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'Ecole nationale supérieure des officiers de police (ENSOP).<br/>
+<br/>Directeur de l'Ecole nationale supérieure de police (ENSP).<br/>
 </td>
 <td align="center">
 <br/>Cannes-Ecluse<br/>
