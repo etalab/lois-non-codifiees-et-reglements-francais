@@ -10,4 +10,4 @@ Le fonctionnaire détaché conserve, dans la limite de la durée moyenne de serv
 
 Les fonctionnaires placés en position de détachement dans le corps de commandement de la police nationale concourent pour les avancements de grade et d'échelon avec l'ensemble des fonctionnaires de ce corps. A cette fin, les services effectués dans le grade d'origine sont assimilés à des services accomplis dans le grade de détachement.
 
-Les fonctionnaires détachés dans le corps de commandement de la police nationale reçoivent à l'Ecole nationale supérieure des officiers de police une formation adaptée en fonction de leur qualification et de leur expérience antérieures, selon des modalités définies par un arrêté conjoint du ministre de l'intérieur et du garde des sceaux, ministre de la justice.
+Les fonctionnaires détachés dans le corps de commandement de la police nationale reçoivent à l'Ecole nationale supérieure de la police une formation adaptée en fonction de leur qualification et de leur expérience antérieures, selon des modalités définies par un arrêté conjoint du ministre de l'intérieur et du garde des sceaux, ministre de la justice.
