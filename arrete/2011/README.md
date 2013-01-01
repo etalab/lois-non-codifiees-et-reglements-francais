@@ -1428,7 +1428,6 @@
 - [Arrêté du 17 janvier 2005 (BUDL0500007A)](arrete-du-17-janvier-2005-budl0500007a)
 - [Arrêté du 17 janvier 2008 (BCFL0801837A)](arrete-du-17-janvier-2008-bcfl0801837a)
 - [Arrêté du 17 janvier 2011 (AGRG1101536A)](arrete-du-17-janvier-2011-agrg1101536a)
-- [Arrêté du 17 janvier 2011 (DEVT1003986A)](arrete-du-17-janvier-2011-devt1003986a)
 - [Arrêté du 17 janvier 2011 (EFIS1100882A)](arrete-du-17-janvier-2011-efis1100882a)
 - [Arrêté du 17 janvier 2011 (EFIS1101305A)](arrete-du-17-janvier-2011-efis1101305a)
 - [Arrêté du 17 janvier 2011 (ETSD1101518A)](arrete-du-17-janvier-2011-etsd1101518a)

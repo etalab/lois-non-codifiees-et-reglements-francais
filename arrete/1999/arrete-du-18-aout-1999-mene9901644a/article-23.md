@@ -1,11 +1,17 @@
 # Article 23
 
-Les membres du jury sont nommés par le président parmi les catégories suivantes :
+Le diplôme national du brevet est attribué conformément aux dispositions de l'article D. 332-19 du code de l'éducation.
 
-- professeurs des établissements d'enseignement public et des établissements d'enseignement privés sous contrat ;
+Les membres du jury sont nommés par le recteur d'académie ou par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie parmi les catégories suivantes :
 
-- personnels de direction ;
+-des enseignants des établissements d'enseignement publics et des établissements d'enseignement privés sous contrat ;
 
-- membres des corps d'inspection.
+-des enseignants des établissements d'enseignement publics et des établissements d'enseignement privés sous contrat de l'enseignement agricole ;
 
-Les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie, sont membres de droit lorsque le jury est présidé par le recteur d'académie ou par un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, désigné par le recteur d'académie.
+-des personnels de direction des établissements d'enseignement publics et des établissements d'enseignement privés sous contrat ;
+
+-des personnels de direction des établissements d'enseignement publics et des établissements d'enseignement privés sous contrat de l'enseignement agricole ;
+
+-des membres des corps d'inspection de l'éducation nationale ;
+
+-des membres des corps d'inspection de l'enseignement agricole à compétence pédagogique.

@@ -12,569 +12,298 @@ d) Les notes de contrôle continu obtenues en cours de formation ;
 
 e) La note de vie scolaire.
 
-Le diplôme national du brevet est attribué aux candidats ayant validé le socle commun de connaissances et de compétences et obtenu une note moyenne égale ou supérieure à 10 résultant de la division de la somme des notes obtenues selon les modalités décrites aux b, c, d et e par le total des coefficients attribués à chacune de ces notes. Des mentions sont attribuées conformément à l'article D. 332-20 du code de l'éducation.
+Le diplôme national du brevet est attribué aux candidats ayant obtenu la maîtrise du socle commun de connaissances et de compétences et une note moyenne égale ou supérieure à 10 résultant de la division de la somme des notes obtenues selon les modalités décrites aux b, c, d et e par le total des coefficients attribués à chacune de ces notes. Des mentions sont attribuées conformément à l'article D. 332-20 du code de l'éducation.
 
-L'oral d'histoire des arts se déroule dans l'établissement en cours d'année scolaire, au moment jugé opportun par l'équipe pédagogique, le cas échéant lors d'une séquence pédagogique dont il constitue un des moments d'enseignement. La note obtenue à l'oral d'histoire des arts est affectée d'un coefficient 2.
-
-L'examen comporte trois épreuves écrites :
+L'examen comporte quatre épreuves :
 
 <table>
 <tbody>
 <tr>
-<td width="340">
-<br/>
-<br/>
+<th>
+<br/>ÉPREUVES <br/>
+</th>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
+</th>
+<th>
+<br/>COEFFICIENT <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Français </p>
 </td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
+<td align="center">
+<p align="left">
+<br/>Ecrite </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Français</p>
+<td align="center">
+<p align="left">
+<br/>Mathématiques </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
+<td align="center">
+<p align="left">
+<br/>Ecrite </p>
 </td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
+<td align="center">
+<p align="center">
+<br/>2 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Histoire-géographie-éducation civique</p>
+<td align="center">
+<p align="left">
+<br/>Histoire-géographie-éducation civique </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
+<td align="center">
+<p align="left">
+<br/>Ecrite </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Histoire des arts </p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Orale </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Les résultats obtenus en cours de formation sont pris en compte dans les conditions suivantes pour chaque série:
+Les résultats obtenus en cours de formation sont pris en compte dans les conditions suivantes pour chaque série.
 
-a) Série collège
+a) Série générale :
 
-Les résultats de ces élèves, en classe de troisième, sont pris en compte comme suit :
+Candidats scolarisés en classe de troisième à option langue vivante 2.
 
-<div>
-<table>
-<thead>
-<tr>
-<td width="340">
-<br/>
-<br/>
-</td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="bottom" width="340">
-<p>Français</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Première langue vivante étrangère</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Sciences de la vie et de la Terre</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Physique-chimie</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation physique et sportive</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Enseignements artistiques : (arts plastiques et éducation musicale)</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">2 (1 + 1)</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Technologie</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Deuxième langue vivante</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-Ou
+Les résultats de ces candidats, en classe de troisième, sont pris en compte comme suit :
 
 <table>
-<thead>
-<tr>
-<td width="340">
-<br/>
-<br/>
-</td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td valign="bottom" width="340">
-<p>Français</p>
+<th>
+<br/>
+</th>
+<th>
+<br/>COEFFICIENT <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Français </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
+<td align="center">
+<p align="left">
+<br/>Mathématiques </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Première langue vivante étrangère</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Sciences de la vie et de la Terre</p>
+<td align="center">
+<p align="left">
+<br/>Première langue vivante étrangère </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Physique-chimie</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Éducation physique et sportive</p>
+<td align="center">
+<p align="left">
+<br/>Sciences de la vie et de la Terre </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Enseignements artistiques : (arts plastiques et éducation musicale)</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">2 (1 + 1)</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Technologie</p>
+<td align="center">
+<p align="left">
+<br/>Physique-chimie </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Découverte professionnelle (module de 6 heures) évaluée en classe de troisième uniquement</p>
+<td align="center">
+<p align="left">
+<br/>Education physique et sportive </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Enseignements artistiques (arts plastiques ; éducation musicale) </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 (1 + 1) </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Technologie </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Deuxième langue vivante </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Sont également pris en compte les points obtenus au-dessus de la moyenne de 10 sur 20 dans l'un des enseignements optionnels facultatifs choisi par l'élève :
+Sont également pris en compte les points obtenus au-dessus de la moyenne de 10 sur 20 dans l'un des enseignements optionnels facultatifs choisis par le candidat :
 
-- latin, ou deuxième langue vivante (étrangère ou régionale), évalué en classe de quatrième et de troisième ;
+- latin ou grec ; ou
 
-- ou grec ou découverte professionnelle option 3 heures, évalué en classe de troisième.
+- langue vivante régionale ; ou
 
-b) Série technologique
+- langue des signes française ; ou
 
-Les résultats de ces élèves, en classe de troisième, sont pris en compte comme suit :
+- découverte professionnelle option 3 heures.
 
-<table>
-<thead>
-<tr>
-<td width="340">
-<br/>
-<br/>
-</td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="bottom" width="340">
-<p>Français</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Langue vivante 1</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Sciences physiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation familiale et sociale</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation physique et sportive</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation artistique </p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Technologie</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
-</td>
-</tr>
-</tbody>
-</table>
+b) Série professionnelle :
 
-ou
+Candidats scolarisés en classe de troisième à dispositifs particuliers.
+
+Les résultats de ces candidats, en classe de troisième, sont pris en compte comme suit :
 
 <table>
 <tbody>
 <tr>
-<td width="340">
+<th>
 <br/>
-<br/>
-</td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td valign="bottom" width="340">
-<p>Français</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
+</th>
+<th>
+<br/>COEFFICIENT <br/>
+</th>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
+<td align="center">
+<p align="left">
+<br/>Français </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Langue vivante 1</p>
+<td align="center">
+<p align="left">
+<br/>Mathématiques </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Sciences physiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Éducation familiale et sociale</p>
+<td align="center">
+<p align="left">
+<br/>Langues vivantes </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation physique et sportive</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Éducation artistique</p>
+<td align="center">
+<p align="left">
+<br/>Prévention santé environnement </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Technologie </p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Découverte professionnelle (module de 6 heures) évaluée en classe de troisième uniquement</p>
+<td align="center">
+<p align="left">
+<br/>Education physique et sportive </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-c) Série professionnelle :
-
-Les résultats de ces élèves, en classe de troisième, sont pris en compte comme suit :
-
-<table>
-<tbody>
-<tr>
-<td width="340">
-<br/>
-<br/>
-</td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td valign="bottom" width="340">
-<p>Français</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
+<td align="center">
+<p align="left">
+<br/>Enseignements artistiques </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Langue vivante 1 ou Sciences physiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Vie sociale et professionnelle</p>
+<td align="center">
+<p align="left">
+<br/>Sciences et technologie </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation physique et sportive</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
+<td align="center">
+<p align="center">
+<br/>2 </p>
 </td>
 </tr>
 <tr>
-<td valign="bottom" width="340">
-<p>Éducation artistique</p>
+<td align="center">
+<p align="left">
+<br/>Découverte professionnelle </p>
 </td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Technologie</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">3</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-ou
-
-<table>
-<tbody>
-<tr>
-<td width="340">
-<br/>
-<br/>
-</td>
-<td width="340">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td valign="bottom" width="340">
-<p>Français</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Mathématiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Langue vivante 1 ou Sciences physiques</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Vie sociale et professionnelle</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation physique et sportive</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Éducation artistique</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Technologie</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="340">
-<p>Découverte professionnelle (module de 6 heures) évaluée en classe de troisième uniquement</p>
-</td>
-<td valign="bottom" width="340">
-<p align="center">3</p>
+<td align="center">
+<p align="center">
+<br/>3<br/>
+</p>
 </td>
 </tr>
 </tbody>

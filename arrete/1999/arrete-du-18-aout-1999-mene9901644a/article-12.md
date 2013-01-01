@@ -1,6 +1,6 @@
 # Article 12
 
-Pour les candidats visés à l'article 11, le brevet est attribué aux candidats ayant obtenu une moyenne égale ou supérieure à 10 aux notes obtenues à un examen comportant les épreuves suivantes :
+Pour les candidats visés à l'article 11, le diplôme national du brevet est attribué aux candidats ayant obtenu une moyenne égale ou supérieure à 10 aux notes obtenues à un examen comportant les épreuves suivantes :
 
 <table>
 <tbody>
@@ -69,7 +69,7 @@ et deux épreuves choisies par le candidat parmi les disciplines suivantes :
 </tr>
 <tr>
 <td valign="bottom" width="335">
-<p align="justify">Sciences de la vie et de la Terre ou éducation familiale et sociale ou vie sociale et professionnelle, selon la série</p>
+<p align="justify">Sciences de la vie et de la Terre ou prévention santé environnement, selon la série</p>
 </td>
 <td width="335">
 <p align="center">1</p>
@@ -86,4 +86,4 @@ et deux épreuves choisies par le candidat parmi les disciplines suivantes :
 </tbody>
 </table>
 
-Le niveau A2 dans une langue vivante étrangère, tel qu'il est précisé par l'annexe à l'article D. 312-16, constitue la référence pour l'évaluation des candidats. Le candidat a le choix entre les langues vivantes étudiées.
+Pour l'épreuve de langue vivante étrangère, le candidat a le choix entre les langues vivantes étudiées.
