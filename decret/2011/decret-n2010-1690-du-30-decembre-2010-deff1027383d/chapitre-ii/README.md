@@ -1,3 +1,0 @@
-# CHAPITRE II : LA RESERVE CENTRALISEE DES ARMEES
-
-- [Article 3](article-3.md)

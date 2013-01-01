@@ -1,3 +1,0 @@
-# Article 1
-
-Par dérogation à l'article 3 du décret du 15 février 2011 susvisé, il est institué, auprès des ministres chargés du travail, de l'emploi et de la formation professionnelle, un comité technique ministériel chargé de connaître, dans le cadre du titre III du même décret, des questions intéressant l'ensemble des services centraux et déconcentrés placés sous l'autorité exclusive ou partagée de ces ministres ainsi que des questions statutaires intéressant les personnels affectés dans ces services ou à l'Institut national du travail, de l'emploi et de la formation professionnelle et dont la gestion relève de ces ministres.

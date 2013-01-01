@@ -1,3 +1,0 @@
-# Article 2
-
-Par dérogation à l'article 6 du décret du 15 février 2011 susvisé, il est institué auprès de chaque directeur régional de l'alimentation, de l'agriculture et de la forêt et auprès du directeur régional et interdépartemental de l'alimentation, de l'agriculture et de la forêt d'Ile-de-France un comité technique régional de l'enseignement agricole. Ce comité est compétent pour connaître, dans le cadre des dispositions du titre III du décret du 15 février 2011 susvisé, de toutes les questions communes spécifiques intéressant tout ou partie des établissements publics locaux d'enseignement et de formation professionnelle agricoles implantés dans une même région.

@@ -1,3 +1,0 @@
-# Article 48
-
-Chaque commune, groupement de communes ou établissement public administratif relevant des communes de la Polynésie française établit un état faisant apparaître, d'une part, le nombre de ses agents mis à disposition, ainsi que la répartition desdits agents entre les communes, les groupements de communes ou les établissements publics administratifs relevant des communes de la Polynésie française et les organismes publics bénéficiaires, et, d'autre part, le nombre d'agents d'autres communes, groupements de communes ou établissements publics administratifs relevant des communes de la Polynésie française mis à sa disposition ainsi que leur origine.

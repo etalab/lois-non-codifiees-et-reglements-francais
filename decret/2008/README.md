@@ -804,7 +804,6 @@
 - [Décret n°2008-1088 du 23 octobre 2008 (AGRM0771819D)](decret-n2008-1088-du-23-octobre-2008-agrm0771819d)
 - [Décret n°2008-385 du 23 avril 2008 (BCFF0807511D)](decret-n2008-385-du-23-avril-2008-bcff0807511d)
 - [Décret n°2008-386 du 23 avril 2008 (DEVE0806640D)](decret-n2008-386-du-23-avril-2008-deve0806640d)
-- [Décret n°2008-387 du 23 avril 2008 (ECEU0768945D)](decret-n2008-387-du-23-avril-2008-eceu0768945d)
 - [Décret n°2008-388 du 23 avril 2008 (ECEU0807960D)](decret-n2008-388-du-23-avril-2008-eceu0807960d)
 - [Décret n°2008-389 du 23 avril 2008 (MTSO0803769D)](decret-n2008-389-du-23-avril-2008-mtso0803769d)
 - [Décret n°2008-391 du 23 avril 2008 (DEFD0800341D)](decret-n2008-391-du-23-avril-2008-defd0800341d)

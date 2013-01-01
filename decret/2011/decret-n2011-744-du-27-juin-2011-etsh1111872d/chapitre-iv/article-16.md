@@ -1,5 +1,0 @@
-# Article 16
-
-I. ― Les fonctionnaires inscrits sur la liste d'aptitude établie au titre de l'année 2011 pour l'accès au grade d'agent chef de 2e catégorie du corps des agents chefs régi par le décret du 14 janvier 1991 susvisé et dont la nomination n'a pas encore été prononcée ont vocation à être nommés dans le grade de technicien hospitalier du corps des techniciens et techniciens supérieurs hospitaliers régi par le présent décret.
-
-II. ― Les fonctionnaires inscrits sur la liste d'aptitude établie au titre de l'année 2011 pour l'accès au grade de technicien supérieur hospitalier du corps des techniciens supérieurs régi par le décret du 5 septembre 1991 susvisé et dont la nomination n'a pas encore été prononcée ont vocation à être nommés dans le grade de technicien supérieur hospitalier de 2e classe du corps des techniciens et techniciens supérieurs hospitaliers régi par le présent décret.

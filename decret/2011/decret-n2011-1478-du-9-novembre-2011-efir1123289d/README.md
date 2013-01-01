@@ -1,6 +1,0 @@
-# Décret n° 2011-1478 du 9 novembre 2011 relatif notamment à la certification du gestionnaire de réseau de transport d'électricité ou de gaz naturel et à la nomination et la révocation des membres de son conseil ou de sa direction
-
-- [TITRE Ier : PROCÉDURE DE CERTIFICATION DES SOCIÉTÉS GESTIONNAIRES DE RÉSEAUX DE TRANSPORT D'ÉLECTRICITÉ OU DE GAZ](titre-ier)
-- [TITRE II : DISPOSITIONS RELATIVES À LA NOMINATION ET À LA RÉVOCATION DES MEMBRES DES CONSEILS OU DES DIRECTIONS DES SOCIÉTÉS GESTIONNAIRES DE RÉSEAU DE TRANSPORT](titre-ii)
-- [TITRE III : DISPOSITIONS RELATIVES À L'APPROBATION DU CONTRAT DU RESPONSABLE DE LA CONFORMITÉ MENTIONNÉ AUX ARTICLES L. 111-34 ET L. 111-62 DU CODE DE L'ÉNERGIE](titre-iii)
-- [TITRE IV : DISPOSITION TRANSITOIRE](titre-iv)

@@ -1423,7 +1423,6 @@
 - [Décret n°2007-1677 du 28 novembre 2007 (MLVU0766743D)](decret-n2007-1677-du-28-novembre-2007-mlvu0766743d)
 - [Décret n°2007-1680 du 28 novembre 2007 (ECEL0768052D)](decret-n2007-1680-du-28-novembre-2007-ecel0768052d)
 - [Décret n°2007-1682 du 28 novembre 2007 (MEND0765167D)](decret-n2007-1682-du-28-novembre-2007-mend0765167d)
-- [Décret n°2007-468 du 28 mars 2007 (ECOP0700046D)](decret-n2007-468-du-28-mars-2007-ecop0700046d)
 - [Décret n°87-716 du 28 août 1987 (PRMJ8760070D)](decret-n87-716-du-28-aout-1987-prmj8760070d)
 - [Décret du 29 novembre 2007 (AGRP0768551D)](decret-du-29-novembre-2007-agrp0768551d)
 - [Décret n° 2007-106 du 29 janvier 2007 (SOCT0710004D)](decret-n-2007-106-du-29-janvier-2007-soct0710004d)

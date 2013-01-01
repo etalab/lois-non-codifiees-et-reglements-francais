@@ -1,5 +1,0 @@
-# Article 3
-
-I. ― Le comité technique paritaire mentionné à l'article 1er demeure régi par les dispositions du décret n° 82-452 du 28 mai 1982 susvisé jusqu'au terme de son mandat. Toutefois, les premier et quatrième alinéas de l'article 10, le troisième alinéa de l'article 11 et les articles 34, 36, 37 et 38 à 53 du décret du 15 février 2011 susvisé sont applicables à ce même comité à compter de la date de la publication du présent décret.
-
-II. ― Les comités d'hygiène et de sécurité mentionnés à l'article 2 du présent décret demeurent régis, jusqu'au terme de leur mandat, par les dispositions du titre IV du décret n° 82-453 du 28 mai 1982 susvisé dans sa rédaction antérieure à celle issue du décret du 28 juin 2011. Toutefois, les premier, quatrième, cinquième et sixième alinéas de l'article 39, le troisième alinéa de l'article 41, les articles 47 et 48 et les articles 50 à 78 du décret n° 82-453 du 28 mai 1982 susvisé dans leur rédaction issue du décret du 28 juin 2011 sont applicables à ces mêmes comités à compter de la date de publication du présent décret.

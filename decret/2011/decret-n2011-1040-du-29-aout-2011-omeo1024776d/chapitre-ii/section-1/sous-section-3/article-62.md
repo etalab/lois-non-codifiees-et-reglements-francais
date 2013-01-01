@@ -1,7 +1,0 @@
-# Article 62
-
-I. ― Il peut être mis fin au détachement avant le terme fixé par la décision le prononçant à la demande soit de la commune, du groupement de communes, de l'établissement public administratif relevant des communes de la Polynésie française d'accueil ou de la Polynésie française, soit de la commune, du groupement de communes, de l'établissement public administratif relevant des communes de la Polynésie française d'origine ou de la Polynésie française.
-
-Sauf dans le cas de faute grave commise dans l'exercice des fonctions, cette demande de remise à la disposition de la commune, du groupement de communes ou de l'établissement public administratif relevant des communes de la Polynésie française d'origine doit être adressée à l'administration intéressée au moins trois mois avant la date effective de cette remise à disposition.
-
-II.-Le fonctionnaire peut également demander qu'il soit mis fin à son détachement avant le terme fixé par la décision le prononçant. Il cesse d'être rémunéré si sa commune, son groupement de communes ou son établissement public administratif relevant des communes de la Polynésie française d'origine ne peut le réintégrer immédiatement : il est alors placé en disponibilité jusqu'à ce qu'intervienne sa réintégration. Si celle-ci n'est pas intervenue au terme initialement prévu par la décision prononçant son détachement, l'intéressé est alors réintégré dans les conditions prévues à l'article 57 de l'ordonnance du 4 janvier 2005 susvisée.

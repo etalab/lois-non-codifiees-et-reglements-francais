@@ -1,3 +1,0 @@
-# Article 75
-
-Lorsque les élections des représentants du personnel d'une commission administrative paritaire ont fait l'objet d'une annulation contentieuse ou lorsque, en raison d'un cas de force majeure, ces élections n'ont pu être organisées aux dates fixées par arrêté du haut-commissaire de la République en Polynésie française, le centre de gestion et de formation procède aux élections dans les conditions prévues aux articles 43 à 62 du présent décret. Toutefois, le centre de gestion et de formation fixe la date de ces élections après consultation des organisations syndicales. Le mandat de ces représentants du personnel prend fin lors du prochain renouvellement général des commissions administratives paritaires.

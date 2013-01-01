@@ -1,3 +1,0 @@
-# Article 28
-
-Nonobstant les dispositions de l'article 26 ci-dessus, les ingénieurs principaux des centres hospitaliers régionaux comptant jusqu'à 1 500 lits et les ingénieurs principaux des centres hospitaliers régionaux comptant de 1 501 à 3 000 lits sont reclassés dans le corps des ingénieurs hospitaliers au grade d'ingénieur principal à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur ancien emploi. Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté d'échelon acquise dans leur précédent emploi.

@@ -1,3 +1,0 @@
-# Article 12
-
-Les agents contractuels recrutés en application de l'article 27 de la loi du 9 janvier 1986 susvisée et qui ont vocation à être titularisés dans le grade d'agent chef de 2e catégorie du corps des agents chefs régi par le décret du 14 janvier 1991 susvisé ou dans le grade de technicien supérieur hospitalier du corps des techniciens supérieurs régi par le décret du 5 septembre 1991 susvisé sont maintenus en fonctions et ont vocation à être titularisés dans le grade de technicien hospitalier ou dans celui de technicien supérieur hospitalier de 2e classe du corps des techniciens et techniciens supérieurs hospitaliers régi par le présent décret.

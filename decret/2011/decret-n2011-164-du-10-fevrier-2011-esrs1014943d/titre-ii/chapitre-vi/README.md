@@ -1,3 +1,0 @@
-# CHAPITRE VI : UNITES DOTEES D'UN BUDGET PROPRE
-
-- [Article 17](article-17.md)

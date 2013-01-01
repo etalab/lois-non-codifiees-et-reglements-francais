@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : DE L'ENTRETIEN.](titre-ier)
-- [Article 2](article-2.md)
 - [TITRE II : DE LA RECONNAISSANCE DE LA VALEUR PROFESSIONNELLE.](titre-ii)
 - [Annexe](annexe)

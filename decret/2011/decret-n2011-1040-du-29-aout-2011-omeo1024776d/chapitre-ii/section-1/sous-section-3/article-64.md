@@ -1,3 +1,0 @@
-# Article 64
-
-La note chiffrée attribuée, conformément aux dispositions de l'article 48 de l'ordonnance du 4 janvier 2005 susvisée, au fonctionnaire détaché est corrigée de façon à tenir compte de l'écart entre la moyenne de la notation des fonctionnaires du même grade dans sa commune, son groupement de communes ou son établissement public administratif relevant des communes de la Polynésie française d'origine, d'une part, et dans la commune, le groupement de communes, l'établissement public administratif relevant des communes de la Polynésie française ou la Polynésie française, où il est détaché, d'autre part.

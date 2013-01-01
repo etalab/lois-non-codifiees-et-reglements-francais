@@ -1,3 +1,0 @@
-# Article 4
-
-Après l'avoir soumis pour avis au président de RFF qui dispose de deux mois pour se prononcer, le service gestionnaire du trafic et des circulations réunit dans un code de bonne conduite les dispositions d'organisation interne de nature à garantir l'exercice indépendant de ses missions vis-à-vis notamment des autres services de la SNCF et à prévenir toute pratique discriminatoire en matière d'accès des entreprises ferroviaires au réseau ferré national ainsi que les mesures prises pour respecter les obligations définies aux articles 1er à 3. Il transmet chaque année à l'Autorité de régulation des activités ferroviaires un rapport sur l'application de ce code.

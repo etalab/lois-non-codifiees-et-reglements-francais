@@ -1,9 +1,0 @@
-# Article 28
-
-I. ― Les tableaux d'avancement établis au titre de l'année 2011 pour l'accès aux grades de bibliothécaire adjoint spécialisé de 1re classe et de bibliothécaire adjoint spécialisé hors classe demeurent valables au titre du corps des bibliothécaires assistants spécialisés jusqu'au 31 décembre 2011.
-
-Les agents promus en application du premier alinéa postérieurement à la date d'entrée en vigueur du présent décret sont classés dans le grade de bibliothécaire assistant spécialisé de classe exceptionnelle en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien corps jusqu'à la date de leur promotion, puis promus dans les grades d'avancement de ce corps en application des dispositions des articles 14 et 15 du décret du 9 janvier 1992 susmentionné, et enfin reclassés à la date de leur promotion, conformément au tableau de correspondance figurant à l'article 21 du présent décret.
-
-II. ― Les tableaux d'avancement établis au titre de l'année 2011 pour l'accès aux grades d'assistant des bibliothèques de classe supérieure et d'assistant des bibliothèques de classe exceptionnelle demeurent valables au titre du corps des bibliothécaires assistants spécialisés jusqu'au 31 décembre 2011.
-
-Les agents promus en application du troisième alinéa postérieurement à la date d'entrée en vigueur du présent décret sont classés dans les grades d'avancement du corps des bibliothécaires assistants spécialisés en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien corps jusqu'à la date de leur promotion, puis promus dans les grades d'avancement de ce corps en application des dispositions de l'article 11 du décret du 18 novembre 1994 susvisé, et, enfin, reclassés à la date de leur promotion, conformément au tableau de correspondance figurant à l'article 22 ci-dessus.

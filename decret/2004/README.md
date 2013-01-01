@@ -79,7 +79,6 @@
 - [Décret n°2004-1048 du 4 octobre 2004 (SANS0423074D)](decret-n2004-1048-du-4-octobre-2004-sans0423074d)
 - [Décret n°2004-1049 du 4 octobre 2004 (SANS0423075D)](decret-n2004-1049-du-4-octobre-2004-sans0423075d)
 - [Décret n°2004-1050 du 4 octobre 2004 (SANS0423076D)](decret-n2004-1050-du-4-octobre-2004-sans0423076d)
-- [Décret n°2004-1066 du 4 octobre 2004 (ECOU0400001D)](decret-n2004-1066-du-4-octobre-2004-ecou0400001d)
 - [Décret n°2004-108 du 4 février 2004 (SANP0324626D)](decret-n2004-108-du-4-fevrier-2004-sanp0324626d)
 - [Décret n°2004-117 du 4 février 2004 (MCCB0300927D)](decret-n2004-117-du-4-fevrier-2004-mccb0300927d)
 - [Décret n°2004-1175 du 4 novembre 2004 (ECOL0400078D)](decret-n2004-1175-du-4-novembre-2004-ecol0400078d)

@@ -1,3 +1,0 @@
-# TITRE II : DISPOSITIONS MODIFIANT LE CODE DU TRAVAIL
-
-- [Article 51](article-51.md)

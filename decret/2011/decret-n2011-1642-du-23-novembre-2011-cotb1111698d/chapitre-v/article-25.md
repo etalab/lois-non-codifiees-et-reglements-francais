@@ -1,7 +1,0 @@
-# Article 25
-
-Les fonctionnaires qui ont satisfait à un examen professionnel pour l'avancement au grade d'assistant de conservation hors classe du cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques régi par le décret n° 95-33 portant statut particulier du cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques ou pour l'avancement au grade d'assistant qualifié de conservation hors classe du cadre d'emplois des assistants territoriaux qualifiés du patrimoine et des bibliothèques régi par la décret n° 91-847 portant statut particulier du cadre d'emplois des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques, ouvert, au plus tard, au titre de l'année 2011, et dont la nomination n'a pas été prononcée avant la date d'entrée en vigueur du présent décret, ont la possibilité d'être nommés au grade d'assistant de conservation principal de 1re classe du cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques régi par le présent décret.
-
-Les nominations ainsi prononcées s'imputent sur le nombre de nominations au grade d'assistant de conservation principal de 1re classe intervenant par la voie mentionnée au 1° du II de l'article 25 du décret du 22 mars 2010 susvisé.
-
-Leur reclassement s'effectue dans les conditions fixées au II de l'article 24 du présent décret.

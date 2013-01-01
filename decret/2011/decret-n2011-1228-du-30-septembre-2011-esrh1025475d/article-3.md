@@ -1,3 +1,0 @@
-# Article 3
-
-Les représentants de l'établissement, titulaires et suppléants, au sein de la commission d'établissement sont nommés par le président dans les quinze jours suivant la proclamation des résultats des élections prévue à l'article 15 du décret du 6 avril 1999 susvisé. Outre le président et le directeur général délégué, membres de droit, ils sont choisis parmi les fonctionnaires ou agents exerçant des responsabilités de chef de service dans l'établissement ou, à défaut, parmi les fonctionnaires appartenant à la catégorie A ou parmi les autres agents de l'établissement d'un niveau équivalent n'exerçant pas de telles responsabilités.

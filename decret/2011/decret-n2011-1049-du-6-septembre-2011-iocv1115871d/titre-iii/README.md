@@ -1,4 +1,0 @@
-# TITRE III : DISPOSITIONS APPLICABLES À CERTAINES  COLLECTIVITÉS D'OUTRE-MER
-
-- [Article 61](article-61.md)
-- [Article 63](article-63.md)

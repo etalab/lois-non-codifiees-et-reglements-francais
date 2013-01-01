@@ -1,3 +1,0 @@
-# CHAPITRE IV : AVANCE DE TRESORERIE ACTIVITE DES FORCES
-
-- [Article 5](article-5.md)

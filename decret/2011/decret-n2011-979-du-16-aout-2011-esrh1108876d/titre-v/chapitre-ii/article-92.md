@@ -1,3 +1,0 @@
-# Article 92
-
-Par dérogation aux dispositions du deuxième alinéa de l'article 1er du décret du 30 décembre 2010 susvisé, jusqu'à l'installation de la commission administrative paritaire nationale du corps des techniciens de recherche et de formation, qui interviendra au plus tard dans le délai de dix-huit mois à compter de la date d'entrée en vigueur du présent décret, les commissions administratives paritaires nationales du corps des techniciens de laboratoire des établissements d'enseignement du ministère chargé de l'éducation nationale faisant l'objet d'une intégration et du corps des techniciens de recherche et de formation demeurent compétentes, le mandat de leurs membres est maintenu et ces commissions siègent en formation conjointe.

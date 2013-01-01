@@ -1546,7 +1546,6 @@
 - [Arrêté du 18 mars 2011 (JUSC1107059A)](arrete-du-18-mars-2011-jusc1107059a)
 - [Arrêté du 18 novembre 2010 (DEVA1028647A)](arrete-du-18-novembre-2010-deva1028647a)
 - [Arrêté du 18 novembre 2011 (AGRG1131594A)](arrete-du-18-novembre-2011-agrg1131594a)
-- [Arrêté du 18 novembre 2011 (DEVK1130542A)](arrete-du-18-novembre-2011-devk1130542a)
 - [Arrêté du 18 novembre 2011 (ETSF1130991A)](arrete-du-18-novembre-2011-etsf1130991a)
 - [Arrêté du 18 novembre 2011 (ETSF1131000A)](arrete-du-18-novembre-2011-etsf1131000a)
 - [Arrêté du 18 novembre 2011 (ETSP1124032A)](arrete-du-18-novembre-2011-etsp1124032a)

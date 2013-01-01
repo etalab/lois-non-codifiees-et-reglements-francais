@@ -1,5 +1,0 @@
-# Article 2
-
-Le comité technique mentionné à l'article 1er est seul compétent pour connaître des questions et projets de textes intéressant les services et les personnels administratifs et techniques de la Cour des comptes et des chambres régionales et territoriales des comptes, dans les domaines énumérés aux articles 34, 36 et 37 du décret du 15 février 2011 susvisé, sous réserve des compétences propres conférées en ces mêmes domaines au Conseil supérieur de la Cour des comptes et au Conseil supérieur des chambres régionales des comptes par le code des juridictions financières.
-
-Il est en particulier seul compétent pour connaître des questions et projets de textes relatifs aux règles statutaires et aux règles relatives à l'échelonnement indiciaire des fonctionnaires administratifs et techniques ayant vocation, en vertu du statut particulier de leur corps, à servir à la Cour des comptes, dans les chambres régionales et territoriales des comptes ainsi que dans les institutions associées à la Cour des comptes. Il est également seul compétent pour l'examen des statuts d'emploi.

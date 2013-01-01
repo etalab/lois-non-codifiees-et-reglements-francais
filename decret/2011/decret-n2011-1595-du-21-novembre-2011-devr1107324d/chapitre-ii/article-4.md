@@ -1,3 +1,0 @@
-# Article 4
-
-Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux de gaz naturel conformément aux dispositions de l'article L. 446-2 du code de l'énergie donnent lieu à une compensation intégrale. Ces surcoûts correspondent, pour une année donnée, d'une part, à la différence entre le prix d'acquisition du biométhane payé en exécution des contrats en cause et le prix moyen constaté sur le marché de gros du gaz naturel de la zone d'équilibrage concernée et, d'autre part, aux coûts de gestion supplémentaires directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre de ce dispositif.

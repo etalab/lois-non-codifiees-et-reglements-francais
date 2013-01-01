@@ -408,7 +408,6 @@
 - [Arrêté du 16 janvier 2004 (INDI0402361A)](arrete-du-16-janvier-2004-indi0402361a)
 - [Arrêté du 16 janvier 2004 (MCCB0300780A)](arrete-du-16-janvier-2004-mccb0300780a)
 - [Arrêté du 16 janvier 2004 (SOCS0420225A)](arrete-du-16-janvier-2004-socs0420225a)
-- [Arrêté du 16 juillet 2003 (PRMX0306737A)](arrete-du-16-juillet-2003-prmx0306737a)
 - [Arrêté du 16 juillet 2004 (ECOT0491216A)](arrete-du-16-juillet-2004-ecot0491216a)
 - [Arrêté du 16 juillet 2004 (FAMS0422151A)](arrete-du-16-juillet-2004-fams0422151a)
 - [Arrêté du 16 juin 2004 (INTC0400268A)](arrete-du-16-juin-2004-intc0400268a)

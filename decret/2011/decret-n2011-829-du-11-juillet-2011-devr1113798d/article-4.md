@@ -1,3 +1,0 @@
-# Article 4
-
-Lorsqu'une collectivité territoriale ou un groupement a adopté un plan climat-énergie territorial dans les trois ans précédant la publication du présent décret, la collectivité ou le groupement peut n'appliquer les dispositions de la section 4 du chapitre IX du titre II du livre II du code de l'environnement, issue du présent décret, qu'à partir de la mise à jour du plan qui doit intervenir au plus tard dans les cinq ans suivant la date de son adoption. Dans le délai de trois mois suivant la publication du présent décret, la collectivité territoriale ou le groupement transmet au préfet de région le plan climat-énergie territorial adopté et la délibération portant adoption du plan.
