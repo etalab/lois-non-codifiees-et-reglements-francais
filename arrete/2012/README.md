@@ -3167,7 +3167,6 @@
 - [Arrêté du 30 décembre 2011 (AGRM1200238A)](arrete-du-30-decembre-2011-agrm1200238a)
 - [Arrêté du 30 décembre 2011 (AGRS1131482A)](arrete-du-30-decembre-2011-agrs1131482a)
 - [Arrêté du 30 décembre 2011 (AGRT1117990A)](arrete-du-30-decembre-2011-agrt1117990a)
-- [Arrêté du 30 décembre 2011 (BCRE1132624A)](arrete-du-30-decembre-2011-bcre1132624a)
 - [Arrêté du 30 décembre 2011 (BCRE1132625A)](arrete-du-30-decembre-2011-bcre1132625a)
 - [Arrêté du 30 décembre 2011 (BCRE1133420A)](arrete-du-30-decembre-2011-bcre1133420a)
 - [Arrêté du 30 décembre 2011 (BCRE1200141A)](arrete-du-30-decembre-2011-bcre1200141a)

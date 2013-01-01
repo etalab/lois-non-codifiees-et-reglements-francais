@@ -2,7 +2,7 @@
 
 Les préfets de département et des collectivités d'outre-mer peuvent donner délégation de signature en ce qui concerne leur compétence d'ordonnateur secondaire du budget du ministère de la justice :
 
-1° Aux directeurs départementaux de la protection judiciaire de la jeunesse de Guadeloupe, Guyane, Martinique, Réunion et Mayotte cités en annexe E pour les dépenses des titres 2, 3, 5 et 6, au directeur départemental de La Réunion et au directeur départemental de la Martinique pour les dépenses du titre 2 relevant respectivement des pôles territoriaux de formation outre-mer situés à La Réunion et en Martinique.
+1° Aux directeurs territoriaux de la protection judiciaire de la jeunesse de Guadeloupe, Guyane, Martinique, La Réunion et Mayotte cités en annexe E pour les dépenses des titres II, III, V et VI, au directeur territorial de La Réunion et au directeur territorial de la Martinique pour les dépenses du titre II relevant respectivement des pôles territoriaux de formation outre-mer situés à La Réunion et en Martinique.
 
 Les directeurs désignés ci-dessus peuvent subdéléguer leur signature aux agents relevant de leur autorité.
 
