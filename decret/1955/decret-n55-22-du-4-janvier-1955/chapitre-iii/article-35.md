@@ -1,10 +1,10 @@
 # Article 35
 
-Sont publiés au bureau des hypothèques de la situation des immeubles et produisent, vis-à-vis des parties et des tiers, les effets prévus par les dispositions spéciales qui les régissent :
+Sont publiés au service chargé de la publicité foncière de la situation des immeubles et produisent, vis-à-vis des parties et des tiers, les effets prévus par les dispositions spéciales qui les régissent :
 
 1° Le commandement valant saisie et les différents actes de procédure qui s'y rattachent ;
 
-2° Les actes constitutifs du bien de famille insaisissable ;
+2° (Abrogé)
 
 3° Les ordonnances, les cessions amiables en matière d'expropriation pour cause d'utilité publique et les accords visés à l'article 6 bis de l'ordonnance n° 58-997 du 23 octobre 1958 portant réforme des règles relatives à l'expropriation pour cause d'utilité publique, quel que soit le montant de l'indemnité ;
 
@@ -18,4 +18,4 @@ Sont publiés au bureau des hypothèques de la situation des immeubles et produi
 
 8° Les actes ou décisions judiciaires dont la publication est prescrite par les dispositions législatives particulières.
 
-Les actes, décisions et dispositions énoncés ci-dessus, et les extraits, expéditions, ou copies déposés au bureau des hypothèques pour l'exécution de la formalité sont soumis aux règles générales édictées par le présent décret, notamment par les articles 4 à 7 et 32 à 34 concernant la forme des actes, l'identification des personnes et des biens, les délais et les modalités de la publicité. Toutefois, à titre transitoire, certaines modalités d'application pourront être fixées par décret en Conseil d'Etat.
+Les actes, décisions et dispositions énoncés ci-dessus, et les extraits, expéditions, ou copies déposés au service chargé de la publicité foncière pour l'exécution de la formalité sont soumis aux règles générales édictées par le présent décret, notamment par les articles 4 à 7 et 32 à 34 concernant la forme des actes, l'identification des personnes et des biens, les délais et les modalités de la publicité. Toutefois, à titre transitoire, certaines modalités d'application pourront être fixées par décret en Conseil d'Etat.
