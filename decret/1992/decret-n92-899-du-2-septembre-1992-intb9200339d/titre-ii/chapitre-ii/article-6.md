@@ -10,40 +10,40 @@ A.-Epreuves écrites d'admissibilité :
 
 2. Note de synthèse établie à partir d'un dossier comportant des documents en langue française (durée : quatre heures, coefficient 3).
 
-B.-Epreuves d'admission :
+B. - Epreuves d'admission :
 
 1. Epreuve de langues.
 
-L'épreuve se déroule en deux parties :
+Cette épreuve, qui est notée sur 20 et affectée du coefficient 3, comporte deux parties :
 
-a) La première partie consiste en la traduction écrite en français d'un texte en langue vivante étrangère (allemand, anglais, arabe moderne, chinois, espagnol, italien, japonais, portugais, russe) ou d'un texte en langue ancienne (latin ou grec), au choix du candidat exprimé lors de l'inscription au concours.
+a) La première partie, comptant pour 12 points, consiste, au choix du candidat exprimé lors de son inscription au concours :
 
-L'usage d'un dictionnaire bilingue est autorisé pour les langues anciennes ; l'utilisation d'un dictionnaire unilingue est autorisée pour les langues modernes ; chaque candidat ne peut être muni que d'un seul dictionnaire.
+- soit en une traduction écrite en français d'un texte en langue ancienne (latin ou grec, selon le choix du candidat exprimé lors de son inscription au concours). La durée de cette partie de l'épreuve est de trois heures ;
 
-Cette première partie se déroule par anticipation à l'occasion des épreuves écrites d'admissibilité, mais les points sont pris en compte pour l'admission dans le cadre de la présente épreuve de langue. Elle a une durée de deux heures.
+- soit en une traduction orale en français d'un texte en langue vivante étrangère (allemand, anglais, espagnol, italien, portugais ou russe, selon le choix du candidat exprimé lors de son inscription au concours), suivie d'un entretien avec le jury dans la langue choisie sur des questions relatives au vocabulaire, à la grammaire et au contenu du texte. Cette partie de l'épreuve a une durée de trente minutes, dont dix minutes de traduction et vingt minutes d'entretien ; la durée de la préparation est d'une heure.
 
-b) La deuxième partie consiste en la traduction orale en français d'un texte court en langue vivante étrangère (allemand, anglais, espagnol, italien, portugais), au choix du candidat exprimé lors de l'inscription au concours, suivie d'un entretien avec le jury dans la langue choisie. Cette langue doit être différente de celle qui a été choisie pour la première partie de l'épreuve.
+L'utilisation d'un dictionnaire bilingue est autorisée pour les langues anciennes et l'utilisation d'un dictionnaire unilingue est autorisée pour les langues modernes. Chaque candidat ne peut être muni que d'un seul dictionnaire.
 
-L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire.
+b) La deuxième partie, comptant pour 8 points, consiste en la traduction orale en français d'un texte court dans une langue vivante étrangère (allemand, anglais, espagnol, italien, portugais ou russe, selon le choix exprimé par le candidat lors de son inscription au concours) différente de celle choisie pour la première partie de l'épreuve, suivie d'un entretien avec le jury dans cette même langue portant sur le contenu du texte. Cette partie de l'épreuve a une durée de trente minutes, dont dix minutes de traduction et vingt minutes d'entretien.
 
-Cette deuxième partie a une durée de trente minutes, dont traduction : dix minutes maximum, conversation avec le jury : vingt minutes minimum ; la durée de la préparation est de trente minutes.
+L'utilisation d'un dictionnaire n'est pas autorisée pour cette partie de l'épreuve.
 
-L'épreuve est affectée du coefficient 2, chaque partie étant notée de 0 à 10.
+2. Conversation avec le jury sur une question de culture générale débutant par le commentaire d'un texte portant sur le programme (préparation : trente minutes ; durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum ; coefficient 5).
 
-2. Conversation sur une question de culture générale débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et portant sur le programme (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 5).
+3. Entretien avec le jury sur la motivation professionnelle débutant par le commentaire d'un texte relatif à une situation professionnelle, hors contexte des bibliothèques (préparation : trente minutes ; durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum ; entretien : vingt minutes minimum ; coefficient 4).
 
-3. Entretien sur la motivation professionnelle débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et relatif à une situation professionnelle, hors contexte des bibliothèques (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 4).
+II. - Le concours externe visé au 2° de l'article 5 du décret n° 91-841 du 2 septembre 1991 susvisé comporte les épreuves suivantes notées de 0 à 20 :
 
-II.-Concours externe visé au 2° de l'article 5
+1. Conversation avec le jury débutant par un commentaire de texte. Cette épreuve permet au jury d'apprécier les capacités de réflexion et d'analyse du candidat, sa culture générale et son attention au monde contemporain (préparation : trente minutes ; durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum et entretien avec le jury : vingt minutes minimum ; coefficient 3).
 
-du décret n° 91-841 susvisé
+2. Entretien avec le jury sur les motivations et les aptitudes du candidat à exercer les fonctions dévolues à un conservateur territorial des bibliothèques. Pour conduire cet entretien qui a pour point de départ un exposé du candidat, d'une durée de cinq minutes au maximum, sur son parcours universitaire et professionnel, le jury dispose d'un dossier constitué par le candidat qui comporte obligatoirement les pièces suivantes :
 
-1° Epreuve unique d'admissibilité :
+a) Un exposé de ses titres et travaux ;
 
-Examen par le jury d'un dossier comportant pour chaque candidat les attestations de ses diplômes et titres, un rapport rédigé par le candidat sur ses travaux et le relevé des notes obtenues au cours de la scolarité à l'Ecole nationale des chartes (coefficient 1).
+b) Un curriculum vitae dactylographié de deux pages au plus, décrivant son parcours universitaire et, le cas échéant, professionnel avec mention des emplois occupés, des fonctions et responsabilités exercées, les formations suivies et les stages effectués ;
 
-2° Epreuve unique d'admission :
+c) Une lettre de motivation.
 
-Conversation avec le jury portant sur les connaissances techniques et professionnelles du candidat ainsi que sur sa motivation à exercer des fonctions de conservateur territorial de bibliothèques (durée :
+Ce dossier est remis par le candidat dans le délai et selon les modalités fixés dans l'arrêté d'ouverture du concours. Tout dossier incomplet ou transmis hors délai entraîne l'élimination du candidat, qui n'est pas convoqué aux épreuves du concours.
 
-trente minutes ; coefficient 2).
+L'épreuve a une durée totale de trente minutes, dont cinq minutes au maximum d'exposé, et est affectée du coefficient 4.
