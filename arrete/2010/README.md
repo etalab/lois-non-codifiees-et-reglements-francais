@@ -2977,8 +2977,6 @@
 - [Arrêté du 30 juin 2010 (SASS1017496A)](arrete-du-30-juin-2010-sass1017496a)
 - [Arrêté du 30 mars 1999 (ATEN9980053A)](arrete-du-30-mars-1999-aten9980053a)
 - [Arrêté du 30 mars 2010 (AGRS1005976A)](arrete-du-30-mars-2010-agrs1005976a)
-- [Arrêté du 30 mars 2010 (BCFD1003479A)](arrete-du-30-mars-2010-bcfd1003479a)
-- [Arrêté du 30 mars 2010 (BCFD1003480A)](arrete-du-30-mars-2010-bcfd1003480a)
 - [Arrêté du 30 mars 2010 (DEFM1008366A)](arrete-du-30-mars-2010-defm1008366a)
 - [Arrêté du 30 mars 2010 (DEVA1006870A)](arrete-du-30-mars-2010-deva1006870a)
 - [Arrêté du 30 mars 2010 (ECED1006932A)](arrete-du-30-mars-2010-eced1006932a)
