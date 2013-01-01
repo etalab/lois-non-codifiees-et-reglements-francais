@@ -977,6 +977,7 @@
 - [Décret n°2010-1016 du 30 août 2010 (MTSC0928813D)](decret-n2010-1016-du-30-aout-2010-mtsc0928813d)
 - [Décret n°2010-1018 du 30 août 2010 (MTST1016633D)](decret-n2010-1018-du-30-aout-2010-mtst1016633d)
 - [Décret n°2010-1690 du 30 décembre 2010 (DEFF1027383D)](decret-n2010-1690-du-30-decembre-2010-deff1027383d)
+- [Décret n°2010-1693 du 30 décembre 2010 (DEFH1025585D)](decret-n2010-1693-du-30-decembre-2010-defh1025585d)
 - [Décret n°2010-1695 du 30 décembre 2010 (MAEA1026456D)](decret-n2010-1695-du-30-decembre-2010-maea1026456d)
 - [Décret n°2010-1702 du 30 décembre 2010 (DEVD1026557D)](decret-n2010-1702-du-30-decembre-2010-devd1026557d)
 - [Décret n°2010-1711 du 30 décembre 2010 (JUSK1021210D)](decret-n2010-1711-du-30-decembre-2010-jusk1021210d)
