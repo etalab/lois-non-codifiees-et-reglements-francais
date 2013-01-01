@@ -4,7 +4,7 @@ LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTIC
 
 Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales
 
-ou de leur toxicité pour la reproduction de catégories 1A ou 1B
+ou de leur toxicité pour la reproductionde catégorie 1A ou 1B
 
 <table>
 <tbody>
@@ -14,8 +14,8 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 <br/>de la substance <br/>
 </th>
 <th>
-<br/>LE CAS ÉCHÉANT, <br/>
-<br/>dans le cadre de la décision communautaire <br/>
+<br/>LE CAS ÉCHÉANT, DANS LE CADRE <br/>
+<br/>de la décision communautaire <br/>
 </th>
 <th>
 <br/>CORRESPONDANT <br/>
@@ -28,8 +28,7 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flumioxazine </p>
+<br/>Flumioxazine <br/>
 </td>
 <td align="center">
 <br/>2002/81 <br/>
@@ -44,8 +43,7 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flusilazole </p>
+<br/>Flusilazole <br/>
 </td>
 <td align="center">
 <br/>2006/133 <br/>
@@ -60,8 +58,7 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Glufosinate </p>
+<br/>Glufosinate <br/>
 </td>
 <td align="center">
 <br/>2007/25 <br/>
@@ -76,8 +73,7 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Linuron </p>
+<br/>Linuron <br/>
 </td>
 <td align="center">
 <br/>2003/31 <br/>
@@ -92,8 +88,7 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Quizalofop-P </p>
+<br/>Quizalofop-P <br/>
 </td>
 <td align="center">
 <br/>2009/37 <br/>
@@ -108,7 +103,9 @@ ou de leur toxicité pour la reproduction de catégories 1A ou 1B
 </tbody>
 </table>
 
-Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 identifiées parmi les substances prioritaires au titre de la directive-cadre sur l'eau
+Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité
+
+pour la reproduction de catégorie 2 identifiées parmi les substances prioritaires au titre de la directive-cadre sur l'eau
 
 <table>
 <tbody>
@@ -118,8 +115,8 @@ Substances classées en raison de leur cancérogénicité ou de leur mutagénici
 <br/>de la substance <br/>
 </th>
 <th>
-<br/>LE CAS ÉCHÉANT, <br/>
-<br/>dans le cadre de la décision communautaire <br/>
+<br/>LE CAS ÉCHÉANT, DANS LE CADRE <br/>
+<br/>de la décision communautaire <br/>
 </th>
 <th>
 <br/>CORRESPONDANT <br/>
@@ -132,8 +129,7 @@ Substances classées en raison de leur cancérogénicité ou de leur mutagénici
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Isoproturon </p>
+<br/>Isoproturon <br/>
 </td>
 <td align="center">
 <br/>2002/18 <br/>
@@ -149,7 +145,9 @@ Substances classées en raison de leur cancérogénicité ou de leur mutagénici
 </tbody>
 </table>
 
-Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée
+Substances classées en raison de leur toxicité aiguë de catégories 1, 2 ou 3 ou en raison de leur toxicité spécifique
+
+pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée
 
 <table>
 <tbody>
@@ -159,8 +157,8 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 <br/>de la substance <br/>
 </th>
 <th>
-<br/>LE CAS ÉCHÉANT, <br/>
-<br/>dans le cadre de la décision communautaire <br/>
+<br/>LE CAS ÉCHÉANT, DANS LE CADRE <br/>
+<br/>de la décision communautaire <br/>
 </th>
 <th>
 <br/>CORRESPONDANT <br/>
@@ -173,8 +171,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>1,3-Dicloropropène </p>
+<br/>1,3-Dicloropropène <br/>
 </td>
 <td align="center">
 <br/>2011/36 <br/>
@@ -189,8 +186,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Abamectine </p>
+<br/>Abamectine <br/>
 </td>
 <td align="center">
 <br/>2008/107 <br/>
@@ -205,8 +201,37 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Alpha-cyperméthrine (alphaméthrine) </p>
+<br/>Acéquinocyl <br/>
+</td>
+<td align="center">
+<br/>2011/490 <br/>
+</td>
+<td align="center">
+<br/>57960-19-7 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Acide indolylbutyrique <br/>
+</td>
+<td align="center">
+<br/>2011/28 <br/>
+</td>
+<td align="center">
+<br/>133-32-4 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Alpha-cyperméthrine (alphaméthrine) <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -221,8 +246,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Azoxystrobine </p>
+<br/>Azoxystrobine <br/>
 </td>
 <td align="center">
 <br/>2007/21 <br/>
@@ -237,8 +261,22 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bêta-cyfluthrine </p>
+<br/>Benfuracarbe <br/>
+</td>
+<td align="center">
+<br/>2007/615 <br/>
+</td>
+<td align="center">
+<br/>82560-54-1 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Bêta-cyfluthrine <br/>
 </td>
 <td align="center">
 <br/>2003/31 <br/>
@@ -253,8 +291,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bromadiolone </p>
+<br/>Bromadiolone <br/>
 </td>
 <td align="center">
 <br/>2011/48 <br/>
@@ -269,8 +306,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bromoxynil </p>
+<br/>Bromoxynil <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -284,8 +320,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Captane </p>
+<br/>Captane <br/>
 </td>
 <td align="center">
 <br/>2007/5 <br/>
@@ -300,8 +335,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlorothalonil </p>
+<br/>Chlorothalonil <br/>
 </td>
 <td align="center">
 <br/>2005/53 <br/>
@@ -316,8 +350,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlorpyrifos </p>
+<br/>Chlorpyrifos <br/>
 </td>
 <td align="center">
 <br/>2005/72 <br/>
@@ -332,25 +365,21 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cuivre et composés </p>
+<br/>Cuivre et composés <br/>
 </td>
 <td align="center">
 <br/>2009/37 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>12069-69-1,71789-22-8,20427-59-2,1332-65-6,1332-40-7 </p>
+<br/>12069-69-1,71789-22-8,20427-59-2,1332-65-6,1332-40-7 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Cuivre du sulfate de cuivre ; cuivre de l'oxyde cuivreux ; cuivre du sulfate tribasique ; cuivre du sulfate tétracuivrique et tricalcique </p>
+<br/>Cuivre du sulfate de cuivre ; cuivre de l'oxyde cuivreux ; cuivre du sulfate tribasique ; cuivre du sulfate tétracuivrique et tricalcique <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyfluthrine </p>
+<br/>Cyfluthrine <br/>
 </td>
 <td align="center">
 <br/>2003/31 <br/>
@@ -365,8 +394,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Deltaméthrine </p>
+<br/>Deltaméthrine <br/>
 </td>
 <td align="center">
 <br/>2003/5 <br/>
@@ -381,8 +409,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Difénacoum </p>
+<br/>Difénacoum <br/>
 </td>
 <td align="center">
 <br/>2009/70 <br/>
@@ -397,11 +424,10 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diphénylamine </p>
+<br/>Diphénylamine <br/>
 </td>
 <td align="center">
-<br/>2009/859 <br/>
+<br/>578/2012 <br/>
 </td>
 <td align="center">
 <br/>122-39-4 <br/>
@@ -413,8 +439,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diquat (dibromide) </p>
+<br/>Diquat (dibromide) <br/>
 </td>
 <td align="center">
 <br/>2001/21 <br/>
@@ -429,8 +454,37 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Emamectine benzoate </p>
+<br/>Dithianon <br/>
+</td>
+<td align="center">
+<br/>2011/41 <br/>
+</td>
+<td align="center">
+<br/>3347-22-6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Dodine <br/>
+</td>
+<td align="center">
+<br/>2011/9 <br/>
+</td>
+<td align="center">
+<br/>2439-10-3 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Emamectine benzoate <br/>
 </td>
 <td align="center">
 <br/>
@@ -446,8 +500,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Esfenvalerate </p>
+<br/>Esfenvalerate <br/>
 </td>
 <td align="center">
 <br/>2000/67 <br/>
@@ -462,8 +515,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ethoprophos </p>
+<br/>Ethoprophos <br/>
 </td>
 <td align="center">
 <br/>2007/52 <br/>
@@ -478,8 +530,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenazaquin </p>
+<br/>Fenazaquin <br/>
 </td>
 <td align="center">
 <br/>2011/39 <br/>
@@ -494,8 +545,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenpyroximate </p>
+<br/>Fenpyroximate <br/>
 </td>
 <td align="center">
 <br/>2008/107 <br/>
@@ -510,8 +560,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fipronil </p>
+<br/>Fipronil <br/>
 </td>
 <td align="center">
 <br/>2007/52 <br/>
@@ -526,24 +575,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fluazinam </p>
-</td>
-<td align="center">
-<br/>2008/108 <br/>
-</td>
-<td align="center">
-<br/>79622-59-6 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Fluorure de sulfuryle </p>
+<br/>Fluorure de sulfuryle <br/>
 </td>
 <td align="center">
 <br/>2010/38 <br/>
@@ -558,11 +590,10 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fluquinconazole </p>
+<br/>Fluquinconazole <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>806/2011 <br/>
 </td>
 <td align="center">
 <br/>136426-54-5 <br/>
@@ -574,8 +605,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Formétanate </p>
+<br/>Formétanate <br/>
 </td>
 <td align="center">
 <br/>2007/5 <br/>
@@ -590,8 +620,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fosthiazate </p>
+<br/>Fosthiazate <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -606,8 +635,22 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ioxynil </p>
+<br/>Indoxacarbe <br/>
+</td>
+<td align="center">
+<br/>2006/10 <br/>
+</td>
+<td align="center">
+<br/>173584-44-6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ioxynil <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -622,8 +665,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lambda-cyhalothrine </p>
+<br/>Lambda-cyhalothrine <br/>
 </td>
 <td align="center">
 <br/>2000/80 <br/>
@@ -638,8 +680,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Méthiocarbe </p>
+<br/>Méthiocarbe <br/>
 </td>
 <td align="center">
 <br/>2007/5 <br/>
@@ -654,8 +695,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxamyl </p>
+<br/>Oxamyl <br/>
 </td>
 <td align="center">
 <br/>2006/16 <br/>
@@ -670,8 +710,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxyde de fenbutatin </p>
+<br/>Oxyde de fenbutatin <br/>
 </td>
 <td align="center">
 <br/>2011/30 <br/>
@@ -686,8 +725,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phénamiphos </p>
+<br/>Phénamiphos <br/>
 </td>
 <td align="center">
 <br/>2006/85 <br/>
@@ -702,8 +740,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phosphure d'aluminium </p>
+<br/>Phosphure d'aluminium <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -718,8 +755,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phosphure de calcium </p>
+<br/>Phosphure de calcium <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -734,8 +770,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phosphure de magnésium </p>
+<br/>Phosphure de magnésium <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -750,8 +785,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pirimicarbe </p>
+<br/>Pirimicarbe <br/>
 </td>
 <td align="center">
 <br/>2006/39 <br/>
@@ -766,8 +800,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyraclostrobine </p>
+<br/>Pyraclostrobine <br/>
 </td>
 <td align="center">
 <br/>2009/25 <br/>
@@ -782,8 +815,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyridaben </p>
+<br/>Pyridaben <br/>
 </td>
 <td align="center">
 <br/>2010/90 <br/>
@@ -798,8 +830,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tébufenpyrad </p>
+<br/>Tébufenpyrad <br/>
 </td>
 <td align="center">
 <br/>2009/11 <br/>
@@ -814,11 +845,10 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Téfluthrine </p>
+<br/>Téfluthrine <br/>
 </td>
 <td align="center">
-<br/>2008/934 <br/>
+<br/>800/2011 <br/>
 </td>
 <td align="center">
 <br/>79538-32-2 <br/>
@@ -830,8 +860,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Zêta-cyperméthrine </p>
+<br/>Zêta-cypermethrine <br/>
 </td>
 <td align="center">
 <br/>2009/37 <br/>
@@ -846,8 +875,7 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Zirame </p>
+<br/>Zirame <br/>
 </td>
 <td align="center">
 <br/>2003/81 <br/>
@@ -856,7 +884,6 @@ Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 
 <br/>137-30-4 <br/>
 </td>
 <td align="center">
-<br/>
 <br/>
 </td>
 </tr>
@@ -873,8 +900,8 @@ Substances classées en raison de leur danger pour l'environnement
 <br/>de la substance <br/>
 </th>
 <th>
-<br/>LE CAS ÉCHÉANT, <br/>
-<br/>dans le cadre de la décision communautaire <br/>
+<br/>LE CAS ÉCHÉANT, DANS LE CADRE <br/>
+<br/>de la décision communautaire <br/>
 </th>
 <th>
 <br/>CORRESPONDANT <br/>
@@ -887,8 +914,52 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>2,4-D </p>
+<br/>1-décanol <br/>
+</td>
+<td align="center">
+<br/>2011/33 <br/>
+</td>
+<td align="center">
+<br/>112-30-1 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1-naphthylacétamide <br/>
+</td>
+<td align="center">
+<br/>786/2011 <br/>
+</td>
+<td align="center">
+<br/>86-86-2 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1-méthylcyclopropène (1-MCP) <br/>
+</td>
+<td align="center">
+<br/>2006/19 <br/>
+</td>
+<td align="center">
+<br/>3100-04-7 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2,4-D <br/>
 </td>
 <td align="center">
 <br/>2001/103 <br/>
@@ -903,8 +974,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>2,4-DB </p>
+<br/>2,4-DB <br/>
 </td>
 <td align="center">
 <br/>2003/31 <br/>
@@ -919,8 +989,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>6-Benzyladénine </p>
+<br/>6-Benzyladénine <br/>
 </td>
 <td align="center">
 <br/>2011/1 <br/>
@@ -935,24 +1004,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Acequinocyl </p>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>57960-19-7 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Acétamipride </p>
+<br/>Acétamipride <br/>
 </td>
 <td align="center">
 <br/>2004/99 <br/>
@@ -967,11 +1019,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Acétochlore </p>
+<br/>Acétochlore <br/>
 </td>
 <td align="center">
-<br/>2008/934 <br/>
+<br/>1372/2011 <br/>
 </td>
 <td align="center">
 <br/>34256-82-1 <br/>
@@ -983,8 +1034,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Acibenzolar-S-methyl (ou benzothiadiazole) </p>
+<br/>Acibenzolar-S-methyl (ou benzothiadiazole) <br/>
 </td>
 <td align="center">
 <br/>2001/87 <br/>
@@ -999,8 +1049,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aclonifen </p>
+<br/>Acide 1-naphthylacétique (ANA) <br/>
+</td>
+<td align="center">
+<br/>787/2011 <br/>
+</td>
+<td align="center">
+<br/>86-87-3 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Aclonifen <br/>
 </td>
 <td align="center">
 <br/>2008/116 <br/>
@@ -1015,11 +1079,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Acrinathrine </p>
+<br/>Acrinathrine <br/>
 </td>
 <td align="center">
-<br/>2008/934 <br/>
+<br/>974/2011 <br/>
 </td>
 <td align="center">
 <br/>101007-06-1 <br/>
@@ -1031,8 +1094,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Amidosulfuron </p>
+<br/>Amidosulfuron <br/>
 </td>
 <td align="center">
 <br/>2008/40 <br/>
@@ -1047,11 +1109,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aminopyralid </p>
+<br/>Aminopyralide <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/490 <br/>
 </td>
 <td align="center">
 <br/>150114-71-9 <br/>
@@ -1063,8 +1124,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Amitrole (ou aminotriazole) </p>
+<br/>Amitrole (ou aminotriazole) <br/>
 </td>
 <td align="center">
 <br/>2001/21 <br/>
@@ -1079,8 +1139,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Azimsulfuron </p>
+<br/>Azimsulfuron <br/>
 </td>
 <td align="center">
 <br/>2007/21 <br/>
@@ -1095,8 +1154,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Béflubutamide </p>
+<br/>Béflubutamide <br/>
 </td>
 <td align="center">
 <br/>2007/50 <br/>
@@ -1111,8 +1169,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénalaxyl </p>
+<br/>Bénalaxyl <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -1127,11 +1184,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénalaxyl-M </p>
+<br/>Bénalaxyl-M <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/671 <br/>
 </td>
 <td align="center">
 <br/>98243-83-5 <br/>
@@ -1143,8 +1199,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Benfluraline </p>
+<br/>Benfluraline <br/>
 </td>
 <td align="center">
 <br/>2008/108 <br/>
@@ -1159,24 +1214,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénoxacor </p>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>98730-04-2 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Bensulfuron </p>
+<br/>Bensulfuron <br/>
 </td>
 <td align="center">
 <br/>2009/11 <br/>
@@ -1191,8 +1229,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bentazone </p>
+<br/>Bentazone <br/>
 </td>
 <td align="center">
 <br/>2000/68 <br/>
@@ -1207,8 +1244,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Benthiavalicarbe </p>
+<br/>Benthiavalicarbe <br/>
 </td>
 <td align="center">
 <br/>2008/44 <br/>
@@ -1223,8 +1259,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bifenazate </p>
+<br/>Bifenazate <br/>
 </td>
 <td align="center">
 <br/>2005/58 <br/>
@@ -1239,8 +1274,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bifénox </p>
+<br/>Bifénox <br/>
 </td>
 <td align="center">
 <br/>2008/66 <br/>
@@ -1255,8 +1289,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Boscalid </p>
+<br/>Bixafen <br/>
+</td>
+<td align="center">
+<br/>2012/363 <br/>
+</td>
+<td align="center">
+<br/>581809-46-3 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Boscalid <br/>
 </td>
 <td align="center">
 <br/>2008/44 <br/>
@@ -1271,8 +1319,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bromoxynil </p>
+<br/>Bromoxynil <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -1281,14 +1328,12 @@ Substances classées en raison de leur danger pour l'environnement
 <br/>56634-95-8 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Bromoxynil octanoate et bromoxynil </p>
+<br/>Bromoxynil octanoate et bromoxynil <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bromuconazole </p>
+<br/>Bromuconazole <br/>
 </td>
 <td align="center">
 <br/>2010/92 <br/>
@@ -1303,8 +1348,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bupirimate </p>
+<br/>Bupirimate <br/>
 </td>
 <td align="center">
 <br/>2011/25 <br/>
@@ -1319,8 +1363,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Carbétamide </p>
+<br/>Carbétamide <br/>
 </td>
 <td align="center">
 <br/>2011/50 <br/>
@@ -1335,8 +1378,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Carboxine </p>
+<br/>Carboxine <br/>
 </td>
 <td align="center">
 <br/>2011/52 <br/>
@@ -1351,8 +1393,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Carfentrazone-éthyl </p>
+<br/>Carfentrazone-éthyl <br/>
 </td>
 <td align="center">
 <br/>2003/68 <br/>
@@ -1367,8 +1408,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Clofentézine </p>
+<br/>Clofentézine <br/>
 </td>
 <td align="center">
 <br/>2010/39 <br/>
@@ -1383,11 +1423,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlorantraniliprole </p>
+<br/>Chlorantraniliprole <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2012/191 <br/>
 </td>
 <td align="center">
 <br/>500008-45-7 <br/>
@@ -1399,8 +1438,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chloridazone (ou pyrazone) </p>
+<br/>Chloridazone (ou Pyrazone) <br/>
 </td>
 <td align="center">
 <br/>2008/41 <br/>
@@ -1415,8 +1453,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlorprophame </p>
+<br/>Chlorprophame <br/>
 </td>
 <td align="center">
 <br/>2004/20 <br/>
@@ -1431,8 +1468,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlorpyrifos-méthyl </p>
+<br/>Chlorpyrifos-méthyl <br/>
 </td>
 <td align="center">
 <br/>2005/72 <br/>
@@ -1447,8 +1483,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlorsulfuron </p>
+<br/>Chlorsulfuron <br/>
 </td>
 <td align="center">
 <br/>2009/77 <br/>
@@ -1463,8 +1498,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chlortoluron </p>
+<br/>Chlortoluron <br/>
 </td>
 <td align="center">
 <br/>2005/53 <br/>
@@ -1479,11 +1513,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cinidon éthyl </p>
+<br/>Cinidon éthyl <br/>
 </td>
 <td align="center">
-<br/>2002/64 <br/>
+<br/>1134/2011 <br/>
 </td>
 <td align="center">
 <br/>142891-20-1 <br/>
@@ -1495,8 +1528,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cléthodime </p>
+<br/>Cléthodime <br/>
 </td>
 <td align="center">
 <br/>2011/21 <br/>
@@ -1511,8 +1543,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Clodinafop </p>
+<br/>Clodinafop <br/>
 </td>
 <td align="center">
 <br/>2006/39 <br/>
@@ -1527,8 +1558,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Clomazone </p>
+<br/>Clomazone <br/>
 </td>
 <td align="center">
 <br/>2007/76 <br/>
@@ -1543,24 +1573,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cloquintocet mexyl </p>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>99607-70-2 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Clothianidine </p>
+<br/>Clothianidine <br/>
 </td>
 <td align="center">
 <br/>2006/41 <br/>
@@ -1575,8 +1588,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyazofamid </p>
+<br/>Cyazofamid <br/>
 </td>
 <td align="center">
 <br/>2003/23 <br/>
@@ -1591,8 +1603,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyclanilide </p>
+<br/>Cyclanilide <br/>
 </td>
 <td align="center">
 <br/>2001/87 <br/>
@@ -1607,8 +1618,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyflufénamid </p>
+<br/>Cycloxydime <br/>
+</td>
+<td align="center">
+<br/>2011/4 <br/>
+</td>
+<td align="center">
+<br/>101205-02-1 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cyflufénamid <br/>
 </td>
 <td align="center">
 <br/>2009/154 <br/>
@@ -1623,8 +1648,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyhalofop-butyl </p>
+<br/>Cyhalofop-butyl <br/>
 </td>
 <td align="center">
 <br/>2002/64 <br/>
@@ -1639,8 +1663,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cymoxanil </p>
+<br/>Cymoxanil <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -1655,8 +1678,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyperméthrine </p>
+<br/>Cyperméthrine <br/>
 </td>
 <td align="center">
 <br/>2005/53 <br/>
@@ -1671,8 +1693,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyproconazole </p>
+<br/>Cyproconazole <br/>
 </td>
 <td align="center">
 <br/>2011/56 <br/>
@@ -1687,8 +1708,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cyprodinil </p>
+<br/>Cyprodinil <br/>
 </td>
 <td align="center">
 <br/>2006/64 <br/>
@@ -1703,8 +1723,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dazomet </p>
+<br/>Dazomet <br/>
 </td>
 <td align="center">
 <br/>2011/53 <br/>
@@ -1719,8 +1738,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Desmediphame </p>
+<br/>Desmediphame <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -1735,8 +1753,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dicamba </p>
+<br/>Dicamba <br/>
 </td>
 <td align="center">
 <br/>2008/69 <br/>
@@ -1751,8 +1768,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diclofop </p>
+<br/>Diclofop <br/>
 </td>
 <td align="center">
 <br/>2011/45 <br/>
@@ -1767,8 +1783,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Difénoconazole </p>
+<br/>Difénoconazole <br/>
 </td>
 <td align="center">
 <br/>2008/69 <br/>
@@ -1783,8 +1798,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diflubenzuron </p>
+<br/>Diflubenzuron <br/>
 </td>
 <td align="center">
 <br/>2010/39 <br/>
@@ -1799,8 +1813,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diflufenican </p>
+<br/>Diflufenican <br/>
 </td>
 <td align="center">
 <br/>2008/66 <br/>
@@ -1815,8 +1828,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diméthachlore </p>
+<br/>Diméthachlore <br/>
 </td>
 <td align="center">
 <br/>2009/77 <br/>
@@ -1831,8 +1843,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dimethenamid-P </p>
+<br/>Dimethenamid-P <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -1847,8 +1858,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Diméthomorphe </p>
+<br/>Diméthomorphe <br/>
 </td>
 <td align="center">
 <br/>2007/25 <br/>
@@ -1863,8 +1873,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dimoxystrobine </p>
+<br/>Dimoxystrobine <br/>
 </td>
 <td align="center">
 <br/>2006/75 <br/>
@@ -1879,24 +1888,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dithianon </p>
-</td>
-<td align="center">
-<br/>2011/41 <br/>
-</td>
-<td align="center">
-<br/>3347-22-6 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Dodemorphe </p>
+<br/>Dodemorphe <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -1911,24 +1903,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dodine </p>
-</td>
-<td align="center">
-<br/>2011/9 <br/>
-</td>
-<td align="center">
-<br/>2439-10-3 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Epoxiconazole </p>
+<br/>Epoxiconazole <br/>
 </td>
 <td align="center">
 <br/>2008/107 <br/>
@@ -1943,8 +1918,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ethéphon </p>
+<br/>Ethéphon <br/>
 </td>
 <td align="center">
 <br/>2006/85 <br/>
@@ -1959,8 +1933,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ethofumesate </p>
+<br/>Ethofumesate <br/>
 </td>
 <td align="center">
 <br/>2002/37 <br/>
@@ -1975,8 +1948,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ethoxysulfuron </p>
+<br/>Ethoxysulfuron <br/>
 </td>
 <td align="center">
 <br/>2003/23 <br/>
@@ -1991,8 +1963,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Etofenprox </p>
+<br/>Etofenprox <br/>
 </td>
 <td align="center">
 <br/>2009/77 <br/>
@@ -2007,8 +1978,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Etoxazole </p>
+<br/>Etoxazole <br/>
 </td>
 <td align="center">
 <br/>2005/34 <br/>
@@ -2023,8 +1993,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Famoxadone </p>
+<br/>Famoxadone <br/>
 </td>
 <td align="center">
 <br/>2002/64 <br/>
@@ -2039,8 +2008,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fénamidone </p>
+<br/>Fénamidone <br/>
 </td>
 <td align="center">
 <br/>2003/68 <br/>
@@ -2055,8 +2023,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenbuconazole </p>
+<br/>Fenbuconazole <br/>
 </td>
 <td align="center">
 <br/>2010/87 <br/>
@@ -2071,8 +2038,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenhexamid </p>
+<br/>Fenhexamid <br/>
 </td>
 <td align="center">
 <br/>2001/28 <br/>
@@ -2087,8 +2053,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenoxaprop-P </p>
+<br/>Fenoxaprop-P <br/>
 </td>
 <td align="center">
 <br/>2008/66 <br/>
@@ -2103,8 +2068,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fénoxycarbe </p>
+<br/>Fénoxycarbe <br/>
 </td>
 <td align="center">
 <br/>2011/20 <br/>
@@ -2119,8 +2083,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenpropidine </p>
+<br/>Fenpropidine <br/>
 </td>
 <td align="center">
 <br/>2008/66 <br/>
@@ -2135,8 +2098,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fenpropimorphe </p>
+<br/>Fenpropimorphe <br/>
 </td>
 <td align="center">
 <br/>2008/107 <br/>
@@ -2151,8 +2113,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flazasulfuron </p>
+<br/>Flazasulfuron <br/>
 </td>
 <td align="center">
 <br/>2004/30 <br/>
@@ -2167,8 +2128,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Florasulame </p>
+<br/>Florasulame <br/>
 </td>
 <td align="center">
 <br/>2002/64 <br/>
@@ -2183,11 +2143,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fluazifop-P </p>
+<br/>Fluazifop-P <br/>
 </td>
 <td align="center">
-<br/>2008/934 <br/>
+<br/>788/2011 <br/>
 </td>
 <td align="center">
 <br/>79241-46-6 <br/>
@@ -2199,8 +2158,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fludioxonil </p>
+<br/>Fludioxonil <br/>
 </td>
 <td align="center">
 <br/>2007/76 <br/>
@@ -2215,8 +2173,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flufénacet (ou fluthiamide) </p>
+<br/>Fluazinam <br/>
+</td>
+<td align="center">
+<br/>2008/108 <br/>
+</td>
+<td align="center">
+<br/>79622-59-6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Flufénacet (ou fluthiamide) <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -2231,8 +2203,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fluopicolide </p>
+<br/>Fluopicolide <br/>
 </td>
 <td align="center">
 <br/>2010/15 <br/>
@@ -2247,8 +2218,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fluoxastrobine </p>
+<br/>Fluoxastrobine <br/>
 </td>
 <td align="center">
 <br/>2008/44 <br/>
@@ -2263,8 +2233,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flupyrsulfuron méthyle </p>
+<br/>Flupyrsulfuron méthyle <br/>
 </td>
 <td align="center">
 <br/>2001/49 <br/>
@@ -2279,8 +2248,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flurochloridone </p>
+<br/>Flurochloridone <br/>
 </td>
 <td align="center">
 <br/>2011/34 <br/>
@@ -2295,8 +2263,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fluroxypyr </p>
+<br/>Fluroxypyr <br/>
 </td>
 <td align="center">
 <br/>2000/10 <br/>
@@ -2311,8 +2278,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flurtamone </p>
+<br/>Flurtamone <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -2327,8 +2293,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Flutolanil </p>
+<br/>Flutolanil <br/>
 </td>
 <td align="center">
 <br/>2008/108 <br/>
@@ -2343,8 +2308,37 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Folpet (Folpel) </p>
+<br/>Flutriafol <br/>
+</td>
+<td align="center">
+<br/>2011/42 <br/>
+</td>
+<td align="center">
+<br/>76674-21-0 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Fluxapyroxad <br/>
+</td>
+<td align="center">
+<br/>589/2012 <br/>
+</td>
+<td align="center">
+<br/>907204-31-3 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Folpet (Folpel) <br/>
 </td>
 <td align="center">
 <br/>2007/5 <br/>
@@ -2359,8 +2353,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Foramsulfuron </p>
+<br/>Foramsulfuron <br/>
 </td>
 <td align="center">
 <br/>2003/23 <br/>
@@ -2375,8 +2368,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fuberidazole </p>
+<br/>Forchlorfenuron <br/>
+</td>
+<td align="center">
+<br/>2006/10 <br/>
+</td>
+<td align="center">
+<br/>68157-60-8 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Fuberidazole <br/>
 </td>
 <td align="center">
 <br/>2008/108 <br/>
@@ -2391,8 +2398,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Glyphosate </p>
+<br/>Glyphosate <br/>
 </td>
 <td align="center">
 <br/>2001/99 <br/>
@@ -2407,8 +2413,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Haloxyfop-P (haloxyfop-R) </p>
+<br/>Haloxyfop-P (Haloxyfop-R) <br/>
 </td>
 <td align="center">
 <br/>2010/86 <br/>
@@ -2423,8 +2428,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Hexythiazox </p>
+<br/>Hexythiazox <br/>
 </td>
 <td align="center">
 <br/>2011/46 <br/>
@@ -2439,8 +2443,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Huile essentielle d'orange douce </p>
+<br/>Huile essentielle d'orange douce <br/>
 </td>
 <td align="center">
 <br/>2009/438 <br/>
@@ -2455,8 +2458,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Hymexazol </p>
+<br/>Hymexazol <br/>
 </td>
 <td align="center">
 <br/>2011/5 <br/>
@@ -2471,8 +2473,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Imazalil (enilconazole) </p>
+<br/>Imazalil (enilconazole) <br/>
 </td>
 <td align="center">
 <br/>2007/21 <br/>
@@ -2487,8 +2488,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Imazamox </p>
+<br/>Imazamox <br/>
 </td>
 <td align="center">
 <br/>2003/23 <br/>
@@ -2503,8 +2503,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Imidaclopride </p>
+<br/>Imazaquine <br/>
+</td>
+<td align="center">
+<br/>2008/69 <br/>
+</td>
+<td align="center">
+<br/>81335-37-7 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Imidaclopride <br/>
 </td>
 <td align="center">
 <br/>2008/116 <br/>
@@ -2519,24 +2533,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Indoxacarbe </p>
-</td>
-<td align="center">
-<br/>2006/10 <br/>
-</td>
-<td align="center">
-<br/>173584-44-6 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Iodosulfuron </p>
+<br/>Iodosulfuron <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -2551,11 +2548,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ipconazole </p>
+<br/>Ipconazole <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/252 <br/>
 </td>
 <td align="center">
 <br/>125225-28-7 <br/>
@@ -2567,8 +2563,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Iprodione </p>
+<br/>Iprodione <br/>
 </td>
 <td align="center">
 <br/>2003/31 <br/>
@@ -2583,8 +2578,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Isoxaben </p>
+<br/>Isoxaben <br/>
 </td>
 <td align="center">
 <br/>2011/32 <br/>
@@ -2599,8 +2593,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Isoxadifen-éthyl </p>
+<br/>Isoxadifen-éthyl <br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -2615,8 +2608,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Isoxaflutole </p>
+<br/>Isoxaflutole <br/>
 </td>
 <td align="center">
 <br/>2003/68 <br/>
@@ -2631,8 +2623,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Krésoxim-méthyl </p>
+<br/>Krésoxim-méthyl <br/>
 </td>
 <td align="center">
 <br/>1999/01 <br/>
@@ -2647,8 +2638,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lenacile </p>
+<br/>Lenacile <br/>
 </td>
 <td align="center">
 <br/>2010/39 <br/>
@@ -2663,24 +2653,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lufénuron </p>
-</td>
-<td align="center">
-<br/>2009/77 <br/>
-</td>
-<td align="center">
-<br/>103055-07-8 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Malathion </p>
+<br/>Malathion <br/>
 </td>
 <td align="center">
 <br/>2010/17 <br/>
@@ -2695,8 +2668,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mancozèbe </p>
+<br/>Mancozèbe <br/>
 </td>
 <td align="center">
 <br/>2005/72 <br/>
@@ -2711,11 +2683,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mandipropamide </p>
+<br/>Mandipropamid <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/490 <br/>
 </td>
 <td align="center">
 <br/>374726-62-2 <br/>
@@ -2727,8 +2698,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Manèbe </p>
+<br/>Manèbe <br/>
 </td>
 <td align="center">
 <br/>2005/72 <br/>
@@ -2743,8 +2713,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>MCPA </p>
+<br/>MCPA <br/>
 </td>
 <td align="center">
 <br/>2005/57 <br/>
@@ -2759,8 +2728,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>MCPB </p>
+<br/>MCPB <br/>
 </td>
 <td align="center">
 <br/>2005/57 <br/>
@@ -2775,8 +2743,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mecoprop </p>
+<br/>Mecoprop <br/>
 </td>
 <td align="center">
 <br/>2003/70 <br/>
@@ -2791,8 +2758,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mecoprop-P </p>
+<br/>Mecoprop-P <br/>
 </td>
 <td align="center">
 <br/>2003/70 <br/>
@@ -2807,8 +2773,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mepanipyrim </p>
+<br/>Mepanipyrim <br/>
 </td>
 <td align="center">
 <br/>2004/62 <br/>
@@ -2823,8 +2788,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mepiquat </p>
+<br/>Mepiquat <br/>
 </td>
 <td align="center">
 <br/>2008/108 <br/>
@@ -2839,11 +2803,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Meptyldinocap </p>
+<br/>Meptyldinocap <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2012/191 <br/>
 </td>
 <td align="center">
 <br/>131-72-6 <br/>
@@ -2855,8 +2818,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mesosulfuron </p>
+<br/>Mesosulfuron <br/>
 </td>
 <td align="center">
 <br/>2003/119 <br/>
@@ -2871,8 +2833,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mesotrione </p>
+<br/>Mesotrione <br/>
 </td>
 <td align="center">
 <br/>2003/68 <br/>
@@ -2887,8 +2848,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Metalaxyl </p>
+<br/>Metalaxyl <br/>
 </td>
 <td align="center">
 <br/>2010/28 <br/>
@@ -2903,8 +2863,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Metam (incl. - potassium and - sodium) </p>
+<br/>Metam (incl. potassium and sodium) <br/>
 </td>
 <td align="center">
 <br/>2009/562 <br/>
@@ -2919,8 +2878,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Métamitrone </p>
+<br/>Métamitrone <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -2935,8 +2893,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Métazachlore </p>
+<br/>Métazachlore <br/>
 </td>
 <td align="center">
 <br/>2008/116 <br/>
@@ -2951,8 +2908,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Metconazole </p>
+<br/>Metconazole <br/>
 </td>
 <td align="center">
 <br/>2006/74 <br/>
@@ -2967,8 +2923,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Methoxyfenozide </p>
+<br/>Methoxyfenozide <br/>
 </td>
 <td align="center">
 <br/>2005/3 <br/>
@@ -2983,8 +2938,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Métirame </p>
+<br/>Métirame <br/>
 </td>
 <td align="center">
 <br/>2005/72 <br/>
@@ -2999,8 +2953,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Métosulame </p>
+<br/>Métosulame <br/>
 </td>
 <td align="center">
 <br/>2010/91 <br/>
@@ -3015,8 +2968,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Metrafenone </p>
+<br/>Metrafenone <br/>
 </td>
 <td align="center">
 <br/>2007/6 <br/>
@@ -3031,8 +2983,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Métribuzine </p>
+<br/>Métribuzine <br/>
 </td>
 <td align="center">
 <br/>2007/25 <br/>
@@ -3047,8 +2998,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Metsulfuron-méthyl </p>
+<br/>Metsulfuron-méthyl <br/>
 </td>
 <td align="center">
 <br/>2000/49 <br/>
@@ -3063,8 +3013,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Milbemectine </p>
+<br/>Milbemectine <br/>
 </td>
 <td align="center">
 <br/>2005/58 <br/>
@@ -3079,8 +3028,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Molinate </p>
+<br/>Molinate <br/>
 </td>
 <td align="center">
 <br/>2003/81 <br/>
@@ -3095,8 +3043,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Myclobutanil </p>
+<br/>Myclobutanil <br/>
 </td>
 <td align="center">
 <br/>2011/2 <br/>
@@ -3111,8 +3058,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Napropamide </p>
+<br/>Napropamide <br/>
 </td>
 <td align="center">
 <br/>2010/83 <br/>
@@ -3127,8 +3073,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nicosulfuron </p>
+<br/>Nicosulfuron <br/>
 </td>
 <td align="center">
 <br/>2008/40 <br/>
@@ -3143,8 +3088,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oryzalin </p>
+<br/>Oryzalin <br/>
 </td>
 <td align="center">
 <br/>2011/27 <br/>
@@ -3159,8 +3103,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxadiazon </p>
+<br/>Oxadiazon <br/>
 </td>
 <td align="center">
 <br/>2010/39 <br/>
@@ -3175,8 +3118,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxadiargyl </p>
+<br/>Oxadiargyl <br/>
 </td>
 <td align="center">
 <br/>2003/23 <br/>
@@ -3191,8 +3133,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxasulfuron </p>
+<br/>Oxasulfuron <br/>
 </td>
 <td align="center">
 <br/>2009/874 <br/>
@@ -3207,11 +3148,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxyfluorfène </p>
+<br/>Oxyfluorfène <br/>
 </td>
 <td align="center">
-<br/>2008/934 <br/>
+<br/>798/2011 <br/>
 </td>
 <td align="center">
 <br/>42874-03-3 <br/>
@@ -3223,8 +3163,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Paclobutrazol </p>
+<br/>Paclobutrazol <br/>
 </td>
 <td align="center">
 <br/>2011/55 <br/>
@@ -3239,8 +3178,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pendiméthaline </p>
+<br/>Penconazole <br/>
+</td>
+<td align="center">
+<br/>2009/77 <br/>
+</td>
+<td align="center">
+<br/>66246-88-6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pendiméthaline <br/>
 </td>
 <td align="center">
 <br/>2003/31 <br/>
@@ -3255,8 +3208,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Penoxsulame </p>
+<br/>Penoxsulame <br/>
 </td>
 <td align="center">
 <br/>2010/25 <br/>
@@ -3271,8 +3223,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pethoxamid </p>
+<br/>Pethoxamid <br/>
 </td>
 <td align="center">
 <br/>2006/41 <br/>
@@ -3287,8 +3238,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phenmédiphame </p>
+<br/>Phenmédiphame <br/>
 </td>
 <td align="center">
 <br/>2004/58 <br/>
@@ -3303,15 +3253,13 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phéromones de lépidoptères à chaîne linéaire </p>
+<br/>Phényl-2 phénol <br/>
 </td>
 <td align="center">
-<br/>2008/127 <br/>
+<br/>2009/160 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>33956-49-9,16974-11-1,54364-62-4,40642-40-8,28079-04-1,38363-29-0 </p>
+<br/>90-43-7,132-27-4 <br/>
 </td>
 <td align="center">
 <br/>
@@ -3320,8 +3268,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phosmet </p>
+<br/>Phéromones de lépidoptères à chaîne linéaire <br/>
+</td>
+<td align="center">
+<br/>2008/127 <br/>
+</td>
+<td align="center">
+<br/>33956-49-9,16974-11-1,54364-62-4,40642-40-8,28079-04-1,38363-29-0,37338-40-2,112-53-8,112-72-1 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Phosmet <br/>
 </td>
 <td align="center">
 <br/>2007/25 <br/>
@@ -3336,8 +3298,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Phosphonate de disodium </p>
+<br/>Phosphonate de disodium <br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -3352,8 +3313,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Piclorame </p>
+<br/>Piclorame <br/>
 </td>
 <td align="center">
 <br/>2010/39 <br/>
@@ -3368,8 +3328,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Picolinafène </p>
+<br/>Picolinafène <br/>
 </td>
 <td align="center">
 <br/>2002/64 <br/>
@@ -3384,8 +3343,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Picoxystrobine </p>
+<br/>Picoxystrobine <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -3400,11 +3358,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pinoxaden </p>
+<br/>Pinoxaden <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2012/191 <br/>
 </td>
 <td align="center">
 <br/>243973-20-8 <br/>
@@ -3416,8 +3373,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pirimiphos-methyl </p>
+<br/>Pirimiphos-méthyl <br/>
 </td>
 <td align="center">
 <br/>2007/52 <br/>
@@ -3432,11 +3388,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Prochloraze </p>
+<br/>Prochloraze <br/>
 </td>
 <td align="center">
-<br/>2008/934 <br/>
+<br/>1143/2011 <br/>
 </td>
 <td align="center">
 <br/>75747-77-2,67747-09-5 <br/>
@@ -3448,8 +3403,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Propaquizafop </p>
+<br/>Propaquizafop <br/>
 </td>
 <td align="center">
 <br/>2009/37 <br/>
@@ -3464,8 +3418,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Propiconazole </p>
+<br/>Propiconazole <br/>
 </td>
 <td align="center">
 <br/>2003/70 <br/>
@@ -3480,8 +3433,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Propinèbe </p>
+<br/>Propinèbe <br/>
 </td>
 <td align="center">
 <br/>2003/39 <br/>
@@ -3496,8 +3448,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Propoxycarbazone </p>
+<br/>Propoxycarbazone <br/>
 </td>
 <td align="center">
 <br/>2003/119 <br/>
@@ -3512,8 +3463,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Propyzamide </p>
+<br/>Propyzamide <br/>
 </td>
 <td align="center">
 <br/>2003/39 <br/>
@@ -3528,8 +3478,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Proquinazid </p>
+<br/>Proquinazid <br/>
 </td>
 <td align="center">
 <br/>2010/25 <br/>
@@ -3544,8 +3493,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Prosulfocarbe </p>
+<br/>Prosulfocarbe <br/>
 </td>
 <td align="center">
 <br/>2007/76 <br/>
@@ -3560,8 +3508,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Prosulfuron </p>
+<br/>Prosulfuron <br/>
 </td>
 <td align="center">
 <br/>2002/48 <br/>
@@ -3576,8 +3523,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Prothioconazole </p>
+<br/>Prothioconazole <br/>
 </td>
 <td align="center">
 <br/>2008/44 <br/>
@@ -3592,8 +3538,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pymétrozine </p>
+<br/>Pymétrozine <br/>
 </td>
 <td align="center">
 <br/>2001/87 <br/>
@@ -3608,8 +3553,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyraflufen-ethyl </p>
+<br/>Pyraflufen-éthyl <br/>
 </td>
 <td align="center">
 <br/>2001/87 <br/>
@@ -3624,8 +3568,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyréthrines </p>
+<br/>Pyréthrines <br/>
 </td>
 <td align="center">
 <br/>2008/127 <br/>
@@ -3640,8 +3583,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyridate </p>
+<br/>Pyridate <br/>
 </td>
 <td align="center">
 <br/>2001/21 <br/>
@@ -3656,8 +3598,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyriméthanil </p>
+<br/>Pyriméthanil <br/>
 </td>
 <td align="center">
 <br/>2006/74 <br/>
@@ -3672,8 +3613,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyriproxyfène </p>
+<br/>Pyriproxyfène <br/>
 </td>
 <td align="center">
 <br/>2010/39 <br/>
@@ -3688,11 +3628,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pyroxsulame </p>
+<br/>Pyroxsulam <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/490 <br/>
 </td>
 <td align="center">
 <br/>422556-08-9 <br/>
@@ -3704,8 +3643,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Quinoclamine </p>
+<br/>Quinmérac <br/>
+</td>
+<td align="center">
+<br/>2010/89 <br/>
+</td>
+<td align="center">
+<br/>90717-03-6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Quinoclamine <br/>
 </td>
 <td align="center">
 <br/>2008/66 <br/>
@@ -3720,8 +3673,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Quinoxyfène </p>
+<br/>Quinoxyfène <br/>
 </td>
 <td align="center">
 <br/>2004/60 <br/>
@@ -3736,8 +3688,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Quizalofop-P </p>
+<br/>Quizalofop-P <br/>
 </td>
 <td align="center">
 <br/>2009/37 <br/>
@@ -3746,14 +3697,12 @@ Substances classées en raison de leur danger pour l'environnement
 <br/>100646-51-3 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Quizalofop-P-tefuryl </p>
+<br/>Quizalofop-P-tefuryl <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Rimsulfuron </p>
+<br/>Rimsulfuron <br/>
 </td>
 <td align="center">
 <br/>2006/39 <br/>
@@ -3768,8 +3717,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Silthiofam </p>
+<br/>Sedaxane <br/>
+</td>
+<td align="center">
+<br/>2011/123 <br/>
+</td>
+<td align="center">
+<br/>874967-67-6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Silthiofam <br/>
 </td>
 <td align="center">
 <br/>2003/84 <br/>
@@ -3784,8 +3747,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Sintofen (ou Cintofen) </p>
+<br/>Sintofen (ou Cintofen) <br/>
 </td>
 <td align="center">
 <br/>2011/40 <br/>
@@ -3800,8 +3762,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>S-métolachlore </p>
+<br/>S-Métolachlore <br/>
 </td>
 <td align="center">
 <br/>2005/3 <br/>
@@ -3816,8 +3777,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Spinosad </p>
+<br/>Spinetoram <br/>
+</td>
+<td align="center">
+<br/>2008/740 <br/>
+</td>
+<td align="center">
+<br/>935545-74-7 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Spinosad <br/>
 </td>
 <td align="center">
 <br/>2007/6 <br/>
@@ -3832,8 +3807,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Spirodiclofen </p>
+<br/>Spirodiclofen <br/>
 </td>
 <td align="center">
 <br/>2010/25 <br/>
@@ -3848,8 +3822,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Spirotetramat </p>
+<br/>Spirotetramat <br/>
 </td>
 <td align="center">
 <br/>2010/671 <br/>
@@ -3864,8 +3837,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Spiroxamine </p>
+<br/>Spiroxamine <br/>
 </td>
 <td align="center">
 <br/>1999/73 <br/>
@@ -3880,8 +3852,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Sulfosulfuron </p>
+<br/>Sulcotrione <br/>
+</td>
+<td align="center">
+<br/>2008/125 <br/>
+</td>
+<td align="center">
+<br/>99105-77-8 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sulfosulfuron <br/>
 </td>
 <td align="center">
 <br/>2002/48 <br/>
@@ -3896,8 +3882,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tau-fluvalinate </p>
+<br/>Tau-Fluvalinate <br/>
 </td>
 <td align="center">
 <br/>2011/19 <br/>
@@ -3912,8 +3897,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tébuconazole </p>
+<br/>Tébuconazole <br/>
 </td>
 <td align="center">
 <br/>2008/125 <br/>
@@ -3928,11 +3912,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tebufénozide </p>
+<br/>Tebufénozide <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/60 <br/>
 </td>
 <td align="center">
 <br/>112410-23-8 <br/>
@@ -3944,11 +3927,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tembotrione </p>
+<br/>Tembotrione <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2012/191 <br/>
 </td>
 <td align="center">
 <br/>335104-84-2 <br/>
@@ -3960,8 +3942,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tétraconazole </p>
+<br/>Tétraconazole <br/>
 </td>
 <td align="center">
 <br/>2009/82 <br/>
@@ -3976,8 +3957,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thiabendazole </p>
+<br/>Thiabendazole <br/>
 </td>
 <td align="center">
 <br/>2001/21 <br/>
@@ -3992,8 +3972,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thiaclopride </p>
+<br/>Thiaclopride <br/>
 </td>
 <td align="center">
 <br/>2004/99 <br/>
@@ -4008,8 +3987,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thiamethoxam </p>
+<br/>Thiamethoxam <br/>
 </td>
 <td align="center">
 <br/>2007/6 <br/>
@@ -4024,8 +4002,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thifensulfuron-méthyl </p>
+<br/>Thiencarbazone <br/>
+</td>
+<td align="center">
+<br/>2011/490 <br/>
+</td>
+<td align="center">
+<br/>317815-83-1 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Thifensulfuron-méthyl <br/>
 </td>
 <td align="center">
 <br/>2001/99 <br/>
@@ -4040,8 +4032,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thiophanate-méthyl </p>
+<br/>Thiophanate-méthyl <br/>
 </td>
 <td align="center">
 <br/>2005/53 <br/>
@@ -4056,8 +4047,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thirame </p>
+<br/>Thirame <br/>
 </td>
 <td align="center">
 <br/>2003/81 <br/>
@@ -4072,8 +4062,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tolclofos-methyl </p>
+<br/>Tolclofos-méthyl <br/>
 </td>
 <td align="center">
 <br/>2006/39 <br/>
@@ -4088,8 +4077,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Triallate </p>
+<br/>Triadiménol <br/>
+</td>
+<td align="center">
+<br/>2008/125 <br/>
+</td>
+<td align="center">
+<br/>55219-65-3 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Triallate <br/>
 </td>
 <td align="center">
 <br/>2009/77 <br/>
@@ -4104,8 +4107,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Triasulfuron </p>
+<br/>Triasulfuron <br/>
 </td>
 <td align="center">
 <br/>2000/66 <br/>
@@ -4120,8 +4122,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tribenuron (ou metometuron) </p>
+<br/>Tribenuron (ou metometuron) <br/>
 </td>
 <td align="center">
 <br/>2005/54 <br/>
@@ -4136,8 +4137,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Triclopyr </p>
+<br/>Triclopyr <br/>
 </td>
 <td align="center">
 <br/>2006/74 <br/>
@@ -4152,8 +4152,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Trifloxystrobine </p>
+<br/>Trifloxystrobine <br/>
 </td>
 <td align="center">
 <br/>2003/68 <br/>
@@ -4168,8 +4167,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Triflusulfuron </p>
+<br/>Triflusulfuron <br/>
 </td>
 <td align="center">
 <br/>2009/77 <br/>
@@ -4184,8 +4182,22 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Triticonazole </p>
+<br/>Trinexapac (ou cimetacarb éthyl) <br/>
+</td>
+<td align="center">
+<br/>2006/64 <br/>
+</td>
+<td align="center">
+<br/>104273-73-6,95266-40-3 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Triticonazole <br/>
 </td>
 <td align="center">
 <br/>2006/39 <br/>
@@ -4200,8 +4212,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Tritosulfuron </p>
+<br/>Tritosulfuron <br/>
 </td>
 <td align="center">
 <br/>2008/70 <br/>
@@ -4216,11 +4227,10 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valiphénal </p>
+<br/>Valifenalate <br/>
 </td>
 <td align="center">
-<br/>- <br/>
+<br/>2011/671 <br/>
 </td>
 <td align="center">
 <br/>283159-90-0 <br/>
@@ -4232,8 +4242,7 @@ Substances classées en raison de leur danger pour l'environnement
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Zoxamide </p>
+<br/>Zoxamide <br/>
 </td>
 <td align="center">
 <br/>2003/119 <br/>
@@ -4251,6 +4260,7 @@ Substances classées en raison de leur danger pour l'environnement
 
 Dont substances minérales classées en raison de leur danger pour l'environnement
 
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -4259,8 +4269,8 @@ Dont substances minérales classées en raison de leur danger pour l'environneme
 <br/>de la substance <br/>
 </th>
 <th>
-<br/>LE CAS ÉCHÉANT, <br/>
-<br/>dans le cadre de la décision communautaire <br/>
+<br/>LE CAS ÉCHÉANT, DANS LE CADRE <br/>
+<br/>de la décision communautaire <br/>
 </th>
 <th>
 <br/>CORRESPONDANT <br/>
@@ -4273,25 +4283,21 @@ Dont substances minérales classées en raison de leur danger pour l'environneme
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Cuivre et composés </p>
+<br/>Cuivre et composés <br/>
 </td>
 <td align="center">
 <br/>2009/37 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>8011-63-0,12527-76-3,8011-63-0,7758-98-7,1317-39-1 </p>
+<br/>8011-63-0,12527-76-3,8011-63-0,7758-98-7,1317-39-1 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Cuivre de l'hydroxyde de cuivre ; cuivre de l'oxychlorure de cuivre </p>
+<br/>Cuivre de l'hydroxyde de cuivre, cuivre de l'oxychlorure de cuivre <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Hypochlorite de sodium </p>
+<br/>Hypochlorite de sodium <br/>
 </td>
 <td align="center">
 <br/>2008/127 <br/>
@@ -4306,8 +4312,7 @@ Dont substances minérales classées en raison de leur danger pour l'environneme
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Thiocyanate d'ammonium </p>
+<br/>Thiocyanate d'ammonium <br/>
 </td>
 <td align="center">
 <br/>
@@ -4323,8 +4328,7 @@ Dont substances minérales classées en raison de leur danger pour l'environneme
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Zinc (incl. sulfate de zinc) </p>
+<br/>Zinc (incl. sulfate de zinc) <br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -4339,3 +4343,4 @@ Dont substances minérales classées en raison de leur danger pour l'environneme
 </tr>
 </tbody>
 </table>
+</div>

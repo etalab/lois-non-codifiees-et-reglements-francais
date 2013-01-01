@@ -6,7 +6,11 @@ La disposition concernant le niveau d'incinération aussi complet que possible n
 
 La chaleur produite est valorisée lorsque cela est faisable, notamment par la production de chaleur et/ou d'électricité, la production de vapeur à usage industriel ou l'alimentation d'un réseau de chaleur. Le taux de valorisation annuel de l'énergie récupérée est défini comme le rapport de l'énergie valorisée annuellement sur l'énergie sortie chaudière produite annuellement. Est considérée valorisée l'énergie produite par l'installation sous forme thermique ou électrique et effectivement consommée, y compris par autoconsommation, ou cédée à un tiers.
 
-Pour les installations de co-incinération, le pourcentage de l'énergie entrante apporté par l'incinération des déchets est appelé pourcentage de contribution thermique. La part de ce pourcentage liée à l'incinération des déchets dangereux doit être précisée par l'arrêté préfectoral d'autorisation. Pour les installations d'incinération et de co-incinération, le dossier de demande d'autorisation doit comporter une évaluation du pouvoir calorifique inférieur des déchets qu'il est prévu d'incinérer ou co-incinérer.
+Pour les installations de co-incinération, le pourcentage de l'énergie entrante apporté par l'incinération des déchets est appelé pourcentage de contribution thermique. La part de ce pourcentage liée à l'incinération des déchets dangereux est précisée par l'arrêté préfectoral d'autorisation.
+
+Pour les installations d'incinération, le résultat de l'évaluation de la performance énergétique réalisée selon la formule en annexe VI et les justificatifs associés sont portés dans la demande d'autorisation.
+
+Pour les installations d'incinération et de co-incinération, le dossier de demande d'autorisation comporte une évaluation du pouvoir calorifique inférieur des déchets qu'il est prévu d'incinérer ou co-incinérer.
 
 Les résidus produits seront aussi minimes et peu nocifs que possible et, le cas échéant, recyclés. Cette disposition n'est toutefois pas applicable aux résidus carbonés issus d'une installation de pyrolyse non intégrée.
 
