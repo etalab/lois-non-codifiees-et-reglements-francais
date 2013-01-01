@@ -2468,7 +2468,6 @@
 - [Arrêté du 26 janvier 2004 (INTA0400064A)](arrete-du-26-janvier-2004-inta0400064a)
 - [Arrêté du 26 janvier 2010 (AGRG1002438A)](arrete-du-26-janvier-2010-agrg1002438a)
 - [Arrêté du 26 janvier 2010 (DEFH1002530A)](arrete-du-26-janvier-2010-defh1002530a)
-- [Arrêté du 26 janvier 2010 (DEFH1002532A)](arrete-du-26-janvier-2010-defh1002532a)
 - [Arrêté du 26 janvier 2010 (DEVE1002384A)](arrete-du-26-janvier-2010-deve1002384a)
 - [Arrêté du 26 janvier 2010 (DEVT1001023A)](arrete-du-26-janvier-2010-devt1001023a)
 - [Arrêté du 26 juillet 2010 (AGRT1014455A)](arrete-du-26-juillet-2010-agrt1014455a)
