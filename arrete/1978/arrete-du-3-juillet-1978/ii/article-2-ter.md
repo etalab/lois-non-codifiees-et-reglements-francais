@@ -6,7 +6,7 @@ Pp = P0 + Tp Rp,
 
 dans laquelle :
 
-P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8, 5 % de la dépense éligible définie à l'article R. 351-17-3 ou 33,80 euros ;
+P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8,5 % de la dépense éligible définie à l'article R. 351-17-3 ou 34,53 euros ;
 
 Tp représente le taux de participation personnelle ; son montant est calculé selon les dispositions définies à l'article 2 quater ;
 
@@ -60,7 +60,7 @@ où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionn
 <p align="center">Personne isolée ou couple avec une personne à charge </p>
 </td>
 <td>
-<p align="center">150, 3</p>
+<p align="center">150,3</p>
 </td>
 <td>
 <p align="center">-</p>
@@ -71,7 +71,7 @@ où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionn
 <p align="center">Personne isolée ou couple avec deux personnes à charge </p>
 </td>
 <td>
-<p align="center">180, 3 </p>
+<p align="center">180,3 </p>
 </td>
 <td>
 <p align="center">32 </p>

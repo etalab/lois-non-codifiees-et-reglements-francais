@@ -17,78 +17,94 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
 <div align="left"/>
-<div align="left">II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit : <br/>
-<p>
-<br/>
-</p>
-
+<div align="left">II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
 <table>
 <tbody>
 <tr>
-<td align="center"> ZONE </td>
-<td align="center"> PERSONNE SEULE (en euros) </td>
-<td align="center"> COUPLE <p>sans personne à charge </p>(en euros) </td>
-<td align="center"> PERSONNE SEULE OU COUPLE <p>ayant une personne à charge </p>(en euros) </td>
-<td align="center"> PAR PERSONNE À CHARGE <p>supplémentaire </p>(en euros) </td>
+<th>
+<br/>ZONE </th>
+<th>
+<br/>PERSONNE SEULE <p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>COUPLE SANS PERSONNE <p>à charge </p>
+<p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>PERSONNE SEULE OU COUPLE <p>ayant une personne à charge </p>
+<p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>PAR PERSONNE À CHARGE SUPPLÉMENTAIRE <p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>I <br/>
+</td>
+<td align="center">
+<br/>290,96 <br/>
+</td>
+<td align="center">
+<br/>350,92 <br/>
+</td>
+<td align="center">
+<br/>396,61 <br/>
+</td>
+<td align="center">
+<br/>57,53 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>II <br/>
+</td>
+<td align="center">
+<br/>253,58 <br/>
+</td>
+<td align="center">
+<br/>310,38 <br/>
+</td>
+<td align="center">
+<br/>349,26 <br/>
+</td>
+<td align="center">
+<br/>50,83 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>III <br/>
 </td>
 <td align="center">
-<br/>284,84 <br/>
+<br/>237,67 <br/>
 </td>
 <td align="center">
-<br/>343,53 <br/>
+<br/>288,12 <br/>
 </td>
 <td align="center">
-<br/>388,26 <br/>
+<br/>323,05 <br/>
 </td>
 <td align="center">
-<br/>56,32 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>III <br/>
-</td>
-<td align="center">
-<br/>248,24 <br/>
-</td>
-<td align="center">
-<br/>303,85 <br/>
-</td>
-<td align="center">
-<br/>341,91 <br/>
-</td>
-<td align="center">
-<br/>49,76 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>III <br/>
-</td>
-<td align="center">
-<br/>232,67 <br/>
-</td>
-<td align="center">
-<br/>282,06 <br/>
-</td>
-<td align="center">
-<br/>316,25 <br/>
-</td>
-<td align="center">
-<br/>45,33<br/>
+<br/>46,30 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
+<br/>
 </div>
 <div align="left"/>
-<div align="left">Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 et au deuxième alinéa de l'article R. 351-17-3, les plafonds de loyer sont fixés à 75 % des plafonds de loyers mentionnés ci-dessus. </div>
+<div align="left">Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 et au deuxième alinéa de l'article R. 351-17-3, les plafonds de loyer sont fixés à 75 % des plafonds de loyers mentionnés ci-dessus. <br/>
+<br/>
+</div>
 <div align="left"/>
-<div align="left">Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %. </div>
+<div align="left">Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %. <br/>
+<br/>
+</div>
 <div align="left"/>
 <div align="left">Les montants obtenus par l'application de ces pourcentages sont arrondis au centime d'euro le plus proche.</div>

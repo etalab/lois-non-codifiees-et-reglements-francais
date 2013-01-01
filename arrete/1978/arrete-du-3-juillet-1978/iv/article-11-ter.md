@@ -5,30 +5,27 @@ En application de l'article R. 351-22-1, le montant forfaitaire des charges est 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION</p>
+<td align="center"> DÉSIGNATION </td>
+<td align="center"> TOUTES ZONES (en euros) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<div align="left">Bénéficiaire isolé ou couple sans personne à charge <br/>
+</div>
 </td>
-<td>
-<p align="center">TOUTES ZONES<br/>(en euros) </p>
+<td align="center">
+<br/>52,93 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénéficiaire isolé ou couple sans personne à charge </p>
+<br/>
+<div align="left">Par personne supplémentaire à charge <br/>
+</div>
 </td>
 <td align="center">
-<br/>51,82 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Par personne supplémentaire à charge </p>
-</td>
-<td align="center">
-<br/>11,74 <br/>
-</td>
+<br/>11,99 </td>
 </tr>
 </tbody>
 </table>
@@ -38,38 +35,39 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION </p>
+<td align="center"> DÉSIGNATION </td>
+<td align="center"> TOUTES ZONES (en euros) </td>
+</tr>
+<tr>
+<td align="center">
+<div align="left">
+<br/>
+</div>
+<div align="left">Bénéficiaire isolé <br/>
+</div>
 </td>
-<td>
-<p align="center">TOUTES ZONES<br/>(en euros)</p>
+<td align="center">
+<br/>26,46 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénéficiaire isolé </p>
+<br/>
+<div align="left">Couple sans personne à charge <br/>
+</div>
 </td>
 <td align="center">
-<br/>25,90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Couple sans personne à charge </p>
-</td>
-<td align="center">
-<br/>51,82 <br/>
+<br/>52,93 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Par personne supplémentaire à charge </p>
+<br/>
+<div align="left">Par personne supplémentaire à charge <br/>
+</div>
 </td>
 <td align="center">
-<br/>11,74<br/>
+<br/>11,99<br/>
 </td>
 </tr>
 </tbody>

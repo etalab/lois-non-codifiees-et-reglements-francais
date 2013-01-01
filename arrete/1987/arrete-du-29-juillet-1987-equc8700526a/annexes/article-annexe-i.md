@@ -5,31 +5,35 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">CATÉGORIE<br/>de ménages</p>
-</td>
-<td>
-<p align="center">PARIS<br/>et communes limitrophes<br/>(en euros) </p>
-</td>
-<td>
-<p align="center">ÎLE-DE-FRANCE<br/>hors Paris et communes limitrophes<br/>(en euros) </p>
-</td>
-<td colspan="4">
-<p align="center">AUTRES RÉGIONS<br/>(en euros) </p>
-</td>
+<th>
+<br/>CATÉGORIE DE MÉNAGES <br/>
+</th>
+<th>
+<br/>PARIS ET COMMUNES LIMITROPHES <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>ÎLE-DE-FRANCE <br/>
+<br/>hors Paris et communes limitrophes <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>AUTRES RÉGIONS <br/>
+<br/>(en euros) <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>22 334 <br/>
+<br/>22 814 <br/>
 </td>
 <td align="center">
-<br/>22 334 <br/>
+<br/>22 814 <br/>
 </td>
 <td align="center">
-<br/>19 417 <br/>
+<br/>19 834 <br/>
 </td>
 </tr>
 <tr>
@@ -37,13 +41,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>2 <br/>
 </td>
 <td align="center">
-<br/>33 378 <br/>
+<br/>34 096 <br/>
 </td>
 <td align="center">
-<br/>33 378 <br/>
+<br/>34 096 <br/>
 </td>
 <td align="center">
-<br/>25 930 <br/>
+<br/>26 487 <br/>
 </td>
 </tr>
 <tr>
@@ -51,13 +55,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>3 <br/>
 </td>
 <td align="center">
-<br/>43 756 <br/>
+<br/>44 697 <br/>
 </td>
 <td align="center">
-<br/>40 124 <br/>
+<br/>40 987 <br/>
 </td>
 <td align="center">
-<br/>31 183 <br/>
+<br/>31 853 <br/>
 </td>
 </tr>
 <tr>
@@ -65,13 +69,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>4 <br/>
 </td>
 <td align="center">
-<br/>52 242 <br/>
+<br/>53 365 <br/>
 </td>
 <td align="center">
-<br/>48 061 <br/>
+<br/>49 094 <br/>
 </td>
 <td align="center">
-<br/>37 645 <br/>
+<br/>38 454 <br/>
 </td>
 </tr>
 <tr>
@@ -79,13 +83,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>5 <br/>
 </td>
 <td align="center">
-<br/>62 157 <br/>
+<br/>63 493 <br/>
 </td>
 <td align="center">
-<br/>56 895 <br/>
+<br/>58 118 <br/>
 </td>
 <td align="center">
-<br/>44 284 <br/>
+<br/>45 236 <br/>
 </td>
 </tr>
 <tr>
@@ -93,13 +97,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>6 <br/>
 </td>
 <td align="center">
-<br/>69 943 <br/>
+<br/>71 447 <br/>
 </td>
 <td align="center">
-<br/>64 024 <br/>
+<br/>65 401 <br/>
 </td>
 <td align="center">
-<br/>49 908 <br/>
+<br/>50 981 <br/>
 </td>
 </tr>
 <tr>
@@ -107,13 +111,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>Par personne supplémentaire <br/>
 </td>
 <td align="center">
-<br/>7 792 <br/>
+<br/>7 960 <br/>
 </td>
 <td align="center">
-<br/>7 134 <br/>
+<br/>7 287 <br/>
 </td>
 <td align="center">
-<br/>5 567 <br/>
+<br/>5 687<br/>
 </td>
 </tr>
 </tbody>
