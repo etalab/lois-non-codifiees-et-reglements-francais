@@ -1034,6 +1034,7 @@
 - [Décret n°2011-1424 du 31 octobre 2011 (ESRH1109915D)](decret-n2011-1424-du-31-octobre-2011-esrh1109915d)
 - [Décret n°74-671 du 31 juillet 1974](decret-n74-671-du-31-juillet-1974)
 - [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
+- [Décret du 31 mai 2011 (MCCC1105342D)](decret-du-31-mai-2011-mccc1105342d)
 - [Décret n°2011-619 du 31 mai 2011 (EFII1031117D)](decret-n2011-619-du-31-mai-2011-efii1031117d)
 - [Décret n°2011-1043 du 1er septembre 2011 (JUSC1105243D)](decret-n2011-1043-du-1er-septembre-2011-jusc1105243d)
 - [Décret n°2011-1044 du 1er septembre 2011 (JUSB1123729D)](decret-n2011-1044-du-1er-septembre-2011-jusb1123729d)
