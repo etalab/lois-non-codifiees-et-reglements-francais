@@ -20,8 +20,6 @@
 - [Décret n°66-809 du 28 octobre 1966](decret-n66-809-du-28-octobre-1966)
 - [Décret n°66-810 du 28 octobre 1966](decret-n66-810-du-28-octobre-1966)
 - [Décret n°66-889 du 28 novembre 1966](decret-n66-889-du-28-novembre-1966)
-- [Décret n°66-570 du 30 juillet 1966](decret-n66-570-du-30-juillet-1966)
-- [Décret n°66-571 du 30 juillet 1966](decret-n66-571-du-30-juillet-1966)
 - [Décret n°66-578 du 30 juillet 1966](decret-n66-578-du-30-juillet-1966)
 - [Décret n°66-247 du 31 mars 1966](decret-n66-247-du-31-mars-1966)
 - [Décret n°66-248 du 31 mars 1966](decret-n66-248-du-31-mars-1966)
