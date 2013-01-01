@@ -677,3 +677,85 @@ Réalisation par le candidat d'une prestation physique dans une activité physiq
 Cette prestation est suivie d'un entretien avec le jury. L'entretien porte sur les aspects techniques et didactiques de l'activité choisie par le candidat et peut être étendu à des activités permettant de répondre à des objectifs éducatifs d'un même type.
 
 L'épreuve est appréciée pour moitié sur la prestation physique et pour moitié sur les qualités manifestées par le candidat lors de l'entretien (durée de la prestation physique : trente minutes ; durée de l'entretien : quarante-cinq minutes ; coefficient 2).
+
+Section sciences médico-sociales
+
+A. - Epreuves écrites d'admissibilité
+
+1° Exploitation pédagogique d'un dossier scientifique et technique :
+
+L'épreuve, qui prend appui sur un dossier scientifique et technique relatif à un problème concernant les mises en œuvre des politiques sociales et de santé, s'organise en deux parties :
+
+La première partie permet d'évaluer les capacités du candidat à utiliser ses connaissances scientifiques et techniques pour expliciter ou valider les solutions retenues.
+
+La seconde partie permet d'évaluer les capacités du candidat à utiliser le support proposé pour élaborer un exercice permettant l'évaluation des connaissances et méthodes acquises par les élèves à un niveau de formation déterminé.
+
+Le candidat doit situer l'exercice dans un processus d'apprentissage et par rapport aux autres enseignements scientifiques ou techniques qui lui sont associés.
+
+Durée : six heures ; coefficient 1.
+
+2° Composition portant sur les politiques sociales et de santé :
+
+Le sujet comporte une ou plusieurs questions liées ou indépendantes et peut faire appel à l'utilisation de documents.
+
+L'épreuve permet d'apprécier le niveau et l'actualité des connaissances en sciences et techniques sanitaires et sociales au travers d'une analyse des grands problèmes sociaux, des politiques sociales, des politiques de santé, des stratégies et dispositifs mis en œuvre, de leurs évolutions, de leurs effets, en intégrant le cadre administratif et juridique de ces politiques.
+
+Durée : six heures ; coefficient 1.
+
+B. - Epreuves d'admission
+
+1° Soutenance d'un dossier réalisé par le candidat :
+
+L'épreuve consiste en la présentation et la soutenance par le candidat d'un dossier original relatif à un projet qu'il a conduit dans le cadre de la discipline dans laquelle il enseigne. Le thème du projet est pris dans les programmes des enseignements technologiques de la spécialité des classes du cycle terminal de lycée ou dans les classes postbaccalauréat.
+
+Le projet doit mettre en valeur :
+
+- d'une part, la dimension technologique du thème dans ses composantes scientifiques, techniques et aussi économiques, sociales et humaines,
+
+- d'autre part, les aspects pédagogiques en relation avec le niveau d'enseignement retenu.
+
+Le candidat dispose de trente minutes pour présenter :
+
+- les raisons qui l'ont conduit au choix du thème ;
+
+- les réalisations (documents, matériels, logiciels...) relatives aux aspects techniques et pédagogiques du projet ;
+
+- les objectifs pédagogiques retenus, leur opérationnalisation, notamment les modes et critères d'évaluation retenus ;
+
+- les documents d'enseignements établis.
+
+Le jury, au cours de l'entretien de trente minutes qui suit l'exposé, peut :
+
+- faire approfondir certains points du projet ;
+
+- demander des précisions sur les solutions techniques adoptées ;
+
+- faire expliciter certains aspects de la démarche pédagogique.
+
+Le jury apprécie :
+
+- la valeur scientifique et sociétale du thème retenu ;
+
+- la qualité du travail effectué ;
+
+- les connaissances scientifiques et techniques du candidat ;
+
+- la maîtrise de la didactique de la discipline, des méthodes et moyens d'enseignement ;
+
+- la connaissance de l'environnement dans lequel s'inscrit le thème ;
+
+- les qualités d'expression et de communication du candidat.
+
+Les candidats doivent impérativement déposer au secrétariat du jury le dossier qu'ils doivent présenter cinq jours francs au moins avant la date de début des épreuves d'admission.
+
+Durée : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 1.
+
+2° Exploitation de documents techniques et pédagogiques :
+
+L'épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence d'activités technologiques, éléments d'un processus d'apprentissage.
+
+Elle permet d'évaluer les capacités du candidat à proposer et justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ainsi qu'à réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
+
+Durée : six heures ; coefficient 1.
+
+Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.

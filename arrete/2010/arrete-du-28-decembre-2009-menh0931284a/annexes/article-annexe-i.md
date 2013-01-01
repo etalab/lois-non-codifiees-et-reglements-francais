@@ -1567,3 +1567,51 @@ L'épreuve est appréciée pour moitié pour la prestation physique et pour moit
 Coefficient 2.
 
 Le programme précisant la liste des APSA des épreuves 2°, 3° et 4 d'admission est publié sur le site internet du ministère chargé de l'éducation nationale.
+
+Section sciences médico-sociales
+
+A. - Epreuves écrites d'admissibilité
+
+1° Première épreuve : publics, processus, régulations et politiques sociales.
+
+L'épreuve doit permettre au candidat de mobiliser ses connaissances pour conduire une analyse systémique des grands problèmes sociaux et des politiques sociales en France et en Europe sous leurs aspects historiques, économiques, sociologiques, juridiques, géographiques et culturels.
+
+Durée : six heures ; coefficient 2.
+
+2° Seconde épreuve : publics, interventions, politiques de santé.
+
+L'épreuve doit permettre au candidat de mobiliser ses connaissances pour conduire une analyse systémique des politiques de santé et de santé publique, des stratégies et des dispositifs mis en œuvre dans un cadre administratif et juridique donné, de leurs évolutions, de leurs effets et de leurs incidences.
+
+Durée : six heures ; coefficient 2.
+
+B. - Epreuves d'admission
+
+1° Etude de cas : méthodologies d'intervention en santé et action :
+
+A partir d'une situation relative au fonctionnement d'une organisation de santé, médico-sociale ou sociale, le candidat est conduit à analyser et à mettre en œuvre des méthodes caractérisant les démarches en santé et action sociale.
+
+L'épreuve se déroule sur poste informatique muni des logiciels indiqués au programme du concours.
+
+Durée : cinq heures ; coefficient 3.
+
+2° Leçon portant sur les politiques et institutions sociales ou de santé :
+
+L'épreuve permet d'apprécier l'exactitude et l'actualisation des connaissances, leur mobilisation dans un objectif de formation au niveau postbaccalauréat, la rigueur de la démarche pédagogique ainsi que les qualités d'expression et de communication.
+
+Pour la préparation de la leçon, le candidat a accès aux ouvrages et documents de la bibliothèque du concours.
+
+Durée de préparation : quatre heures ; durée de l'épreuve : une heure (exposé : quarante-cinq minutes ; entretien : quinze minutes) ; coefficient 3.
+
+3° Etude critique de dossier :
+
+L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure ; coefficient 3).
+
+Première partie : étude critique d'un dossier scientifique et/ou technique suivie d'un entretien avec le jury (durée de l'exposé : trente minutes ; durée de l'entretien : trente minutes).
+
+Le dossier, fourni par le jury, rassemble divers documents à caractère scientifique et/ou technique (rapports, notes de recherche, études, etc.) sur les institutions, les dispositifs en santé et en action ou aide sociale. Ces documents peuvent être en langue anglaise et prendre en compte la dimension européenne. Le candidat est conduit à analyser et à expliciter la problématique et les éléments contenus dans le dossier.
+
+Seconde partie : interrogation portant sur la compétence "agir en fonctionnaire de l'Etat et de façon éthique et responsable" (présentation : dix minutes ; entretien : dix minutes).
+
+Le candidat répond pendant dix minutes à une question à partir d'un document qui lui a été remis au début de l'épreuve et pour laquelle il a préparé les éléments de réponse pendant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010 susvisé. L'exposé se poursuit par un entretien avec le jury.
+
+Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.

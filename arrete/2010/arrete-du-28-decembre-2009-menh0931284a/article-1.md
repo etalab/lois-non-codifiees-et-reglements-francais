@@ -34,4 +34,6 @@ Section biochimie-génie biologique ;
 
 Section économie et gestion ;
 
-Section éducation physique et sportive.
+Section éducation physique et sportive ;
+
+Section sciences médico-sociales.
