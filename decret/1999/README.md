@@ -179,7 +179,6 @@
 - [Décret n°99-171 du 8 mars 1999 (MENF9900112D)](decret-n99-171-du-8-mars-1999-menf9900112d)
 - [Décret n°99-270 du 8 avril 1999 (MJSK9970014D)](decret-n99-270-du-8-avril-1999-mjsk9970014d)
 - [Décret n°99-480 du 8 juin 1999 (MCCB9900411D)](decret-n99-480-du-8-juin-1999-mccb9900411d)
-- [Décret n°99-575 du 8 juillet 1999 (ECOX9900065D)](decret-n99-575-du-8-juillet-1999-ecox9900065d)
 - [Décret n°99-577 du 8 juillet 1999 (MENF9901069D)](decret-n99-577-du-8-juillet-1999-menf9901069d)
 - [Décret n°99-578 du 8 juillet 1999 (MENF9901009D)](decret-n99-578-du-8-juillet-1999-menf9901009d)
 - [Décret n°99-597 du 8 juillet 1999 (ECOM9900705D)](decret-n99-597-du-8-juillet-1999-ecom9900705d)

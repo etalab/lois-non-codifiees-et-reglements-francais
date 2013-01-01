@@ -1,3 +1,0 @@
-# CHAPITRE V : JUSTIFICATION DES OPÉRATIONS.
-
-- [Article 178](article-178.md)

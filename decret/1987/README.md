@@ -77,7 +77,6 @@
 - [Décret n°87-507 du 7 juillet 1987 (AGRS8701167D)](decret-n87-507-du-7-juillet-1987-agrs8701167d)
 - [Décret n°87-646 du 7 août 1987 (JUSE8740039D)](decret-n87-646-du-7-aout-1987-juse8740039d)
 - [Décret n°87-7 du 7 janvier 1987](decret-n87-7-du-7-janvier-1987)
-- [Décret n°87-984 du 7 décembre 1987 (ECOM8700311D)](decret-n87-984-du-7-decembre-1987-ecom8700311d)
 - [Décret n°83-644 du 8 juillet 1983](decret-n83-644-du-8-juillet-1983)
 - [Décret n°87-11 du 8 janvier 1987](decret-n87-11-du-8-janvier-1987)
 - [Décret n°87-249 du 8 avril 1987 (INTD8700094D)](decret-n87-249-du-8-avril-1987-intd8700094d)

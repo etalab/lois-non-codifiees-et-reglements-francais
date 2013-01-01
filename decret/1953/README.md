@@ -6,7 +6,6 @@
 - [Décret n°53-708 du 9 août 1953](decret-n53-708-du-9-aout-1953)
 - [Décret n°53-709 du 9 août 1953](decret-n53-709-du-9-aout-1953)
 - [Décret n°53-711 du 9 août 1953](decret-n53-711-du-9-aout-1953)
-- [Décret n°53-1227 du 10 décembre 1953](decret-n53-1227-du-10-decembre-1953)
 - [Décret n°53-192 du 14 mars 1953](decret-n53-192-du-14-mars-1953)
 - [Décret n°53-348 du 14 avril 1953](decret-n53-348-du-14-avril-1953)
 - [Décret n° 53-565 du 15 juin 1953](decret-n-53-565-du-15-juin-1953)
