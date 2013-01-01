@@ -8,6 +8,8 @@ I. - La valeur de service mentionnée au premier alinéa de l'article L. 645-5 d
 
 A compter de l'exercice 2011, le montant de cette valeur de service est revalorisée conformément à l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente.
 
+Par dérogation aux dispositions de l'alinéa précédent, le montant de cette valeur de service est revalorisé, pour les exercices 2013 à 2018 inclus, d'un pourcentage égal à l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente, diminué de deux points. Toutefois, pour ces mêmes exercices, lorsque l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente est inférieure à 2 %, il n'est pas procédé à une revalorisation de la valeur de service.
+
 II. - La valeur de service mentionnée au second alinéa de l'article L. 645-5 du code de la sécurité sociale est fixée ainsi qu'il suit pour les directeurs de laboratoires privés d'analyses médicales non médecins mentionnés à l'article L. 162-14 du code de la sécurité sociale :
 
 1. S'agissant des points liquidés en 2006 :
@@ -56,6 +58,8 @@ f) S'agissant des points acquis au titre des années 2002 à 2005 :
 
 A compter de l'exercice 2011, ces valeurs de service sont revalorisées conformément à l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente.
 
+Par dérogation aux dispositions de l'alinéa précédent, le montant de ces valeurs de service est revalorisé, pour les exercices 2013 à 2018 inclus, d'un pourcentage égal à l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente, diminué de deux points. Toutefois, pour ces mêmes exercices, lorsque l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente est inférieure à 2 %, il n'est pas procédé à une revalorisation des valeurs de service.
+
 III. - La valeur de service mentionnée au troisième alinéa de l'article L. 645-5 du code de la sécurité sociale est fixée ainsi qu'il suit pour les directeurs de laboratoires privés d'analyses médicales non médecins mentionnés à l'article L. 162-14 du code de la sécurité sociale :
 
 1,92 euros pour le premier semestre de l'exercice 2007 ;
@@ -63,3 +67,5 @@ III. - La valeur de service mentionnée au troisième alinéa de l'article L. 64
 0,30 euros pour le second semestre de l'exercice 2007.
 
 A compter de l'exercice 2008, le montant de cette valeur de service est revalorisée conformément à l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente.
+
+IV. - La section mentionnée au 5° de l'article R. 641-1 du code de la sécurité sociale établit au premier semestre de l'année 2018, puis tous les cinq ans à compter de cette date, un rapport actuariel présentant l'impact des mesures prises dans le passé et l'évolution de la situation financière du régime en fonction des paramètres de ce dernier. Ce rapport est adressé au ministre chargé de la sécurité sociale, au directeur général de l'Union nationale des caisses d'assurance maladie et aux organisations syndicales signataires de la convention mentionnée à l'article L. 162-14 du code de la sécurité sociale. Il propose l'évolution, pour les cinq années à venir, des valeurs de service prévues au présent article et des cotisations mentionnées aux articles 1er et 2 nécessaires pour garantir l'équilibre financier du régime à long terme.

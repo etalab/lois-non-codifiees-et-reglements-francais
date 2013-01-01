@@ -1,19 +1,25 @@
 # Article 1
 
-Le montant de la cotisation forfaitaire mentionnée à l'article L. 645-2 du code de la sécurité sociale est fixé pour les directeurs de laboratoires privés d'analyses médicales non médecins mentionnés à l'article L. 162-14 du code de la sécurité sociale à :
+I.-Le montant de la cotisation forfaitaire mentionnée à l'article L. 645-2 du code de la sécurité sociale est fixé, pour les directeurs de laboratoires privés d'analyses médicales non médecins mentionnés à l'article L. 162-14 du code de la sécurité sociale :
 
-172,8 euros pour le premier semestre de l'exercice 2007 ;
+1° Pour l'exercice 2013 à 1 382 euros ;
 
-432 euros pour le second semestre de l'exercice 2007 ;
+2° Pour l'exercice 2014 à 1 469 euros ;
 
-1 080 euros pour l'exercice 2008 ;
+3° Pour l'exercice 2015 à 1 555 euros ;
 
-1 296 euros pour les exercices 2009 et 2010.
+4° Pour l'exercice 2016, à :
 
-A compter de l'exercice 2011, le montant de cette cotisation est revalorisé conformément à l'évolution annuelle moyenne des prix à la consommation hors tabac de l'année précédente.
+a) 1 555 euros si, au 31 décembre 2014, le nombre de directeurs de laboratoires privés d'analyses médicales non médecins mentionnés à l'article L. 162-14 du code de la sécurité sociale exerçant leur activité professionnelle non salariée dans le cadre de la convention conclue en application du même article est supérieur ou égal à 3 650 ;
 
-Le nombre de points attribués en contrepartie de cette cotisation forfaitaire est fixé à :
+b) 1 642 euros si, au 31 décembre 2014, le nombre des directeurs mentionnés à l'alinéa précédent est inférieur à 3 650 ;
 
-131 pour l'exercice 2007 ;
+5° Pour les exercices 2017 et 2018, à :
 
-262 à compter de l'exercice 2008.
+a) 1 555 euros si, au 31 décembre 2015, le nombre des directeurs mentionnés au a du 4° du présent article est supérieur ou égal à 3 650 ;
+
+b) 1 642 euros si, au 31 décembre 2015, le nombre des directeurs mentionnés au même a est compris entre 3 601 à 3 650 ;
+
+c) 1 728 euros si, au 31 décembre 2015, le nombre des directeurs mentionnés au même a est inférieur à 3 600.
+
+II.-Le nombre de points attribués en contrepartie de la cotisation forfaitaire est fixé à 262.
