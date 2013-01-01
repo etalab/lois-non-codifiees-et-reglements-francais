@@ -1,5 +1,77 @@
 # Article 18
 
-Les fonctionnaires promus sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Ils conservent leur ancienneté d'échelon dans la limite de l'ancienneté maximale exigée pour une promotion à l'échelon supérieur lorsque l'avantage qui résulte de leur nomination est inférieur à celui qu'ils auraient retiré d'un avancement d'échelon dans leur ancien grade.
+Les infirmiers de classe normale promus à la classe supérieure sont classés dans ce grade conformément au tableau de correspondance ci-après :
 
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou emploi conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur titularisation est inférieure à celle qui résulte de leur élévation audit échelon.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>SITUATION DANS LE GRADE D'INFIRMIER <br/>
+<br/>de classe normale <br/>
+</th>
+<th>
+<br/>SITUATION DANS LE GRADE D'INFIRMIER <br/>
+<br/>de classe supérieure <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>2/3 de l'ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>

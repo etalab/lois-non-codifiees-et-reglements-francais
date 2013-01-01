@@ -5,202 +5,221 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">GRADES ET ECHELONS</p>
+<th>
+<br/>
+<br/>GRADES ET ÉCHELONS <br/>
+</th>
+<th colspan="2">
+<br/>DURÉES <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Maximale <br/>
+</th>
+<th>
+<br/>Minimale <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Infirmier de classe supérieure <br/>
 </td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">DUREES</p>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>7e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Maximale</p>
+<td align="center">
+<br/>- <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Minimale</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Infirmier de classe supérieure</i>
-</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>- <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
+<td align="center">
+<br/>6e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>4 ans 4 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans 3 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
+<td align="center">
+<br/>4 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">4e échelon</p>
+<td align="center">
+<br/>5e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans 3 mois</p>
+<td align="center">
+<br/>4 ans 4 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans 3 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
+<td align="center">
+<br/>4 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">2e échelon</p>
+<td align="center">
+<br/>4e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Infirmier de classe normale</i>
-</p>
+<td align="center">
+<br/>3e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">8e échelon</p>
+<td align="center">
+<br/>2e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
+<td align="center">
+<br/>1er échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4 ans 6 mois</p>
+<td align="center">
+<br/>2 ans 2 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">4e échelon</p>
+<td align="center">
+<br/>Infirmier de classe normale <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6mois</p>
+<td align="center">
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">2e échelon</p>
+<td align="center">
+<br/>9e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6mois</p>
+<td align="center">
+<br/>- <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>- <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1er échelon</p>
+<td align="center">
+<br/>8e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>4 ans 4 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an </p>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>4 ans 4 mois <br/>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>4 ans 4 mois <br/>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>4 ans 4 mois <br/>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>3 ans 3 mois <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>3 ans 3 mois <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+<td align="center">
+<br/>1 an<br/>
 </td>
 </tr>
 </tbody>

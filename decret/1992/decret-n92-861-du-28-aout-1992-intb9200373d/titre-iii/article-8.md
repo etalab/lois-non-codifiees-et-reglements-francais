@@ -1,3 +1,0 @@
-# Article 8
-
-Les infirmiers régis par le présent décret qui exerçaient une activité professionnelle de même nature avant leur nomination dans le présent cadre d'emplois et qui ne peuvent se prévaloir de dispositions plus favorables au titre de l'article 7 sont classés, lors de leur nomination, à un échelon déterminé en prenant en compte, sur la base des durées maximales d'avancement d'échelon, la durée des services de même nature accomplis antérieurement à leur nomination, sous réserve qu'ils justifient qu'ils possédaient les titres, diplômes ou autorisations exigés pour l'exercice de ces fonctions. Cette reprise d'ancienneté ne peut être attribuée qu'une fois au cours de la carrière des intéressés.
