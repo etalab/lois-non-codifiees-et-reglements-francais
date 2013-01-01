@@ -710,7 +710,6 @@
 - [Décret n°2006-90 du 24 janvier 2006 (AGRS0502782D)](decret-n2006-90-du-24-janvier-2006-agrs0502782d)
 - [Décret n°2004-443 du 24 mai 2004 (DEFP0400286D)](decret-n2004-443-du-24-mai-2004-defp0400286d)
 - [Décret n°2004-444 du 24 mai 2004 (DEFP0400288D)](decret-n2004-444-du-24-mai-2004-defp0400288d)
-- [Décret du 25 mars 1993 (DEFD9301297D)](decret-du-25-mars-1993-defd9301297d)
 - [Décret n°2004-1138 du 25 octobre 2004 (EQUS0401127D)](decret-n2004-1138-du-25-octobre-2004-equs0401127d)
 - [Décret n°2004-1143 du 25 octobre 2004 (AGRP0401379D)](decret-n2004-1143-du-25-octobre-2004-agrp0401379d)
 - [Décret n°2004-1259 du 25 novembre 2004 (ECOP0400932D)](decret-n2004-1259-du-25-novembre-2004-ecop0400932d)
