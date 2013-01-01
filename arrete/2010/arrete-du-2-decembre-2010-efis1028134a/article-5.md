@@ -1,6 +1,8 @@
 # Article 5
 
-a) Concours externe à spécialité  mathématiques  :Le règlement des épreuves du concours est celui adopté dans le cadre des concours communs polytechniques (CCP).
+a) Concours externe à spécialité  mathématiques  :
+
+Le règlement des épreuves du concours est celui adopté dans le cadre des concours communs polytechniques (CCP).
 
 b) Concours externe à spécialité  économie et sciences sociales  et concours externe à spécialité  économie et gestion  :
 
