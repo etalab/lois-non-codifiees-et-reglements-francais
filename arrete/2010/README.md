@@ -2150,7 +2150,6 @@
 - [Arrêté du 23 décembre 2009 (JUSC0922273A)](arrete-du-23-decembre-2009-jusc0922273a)
 - [Arrêté du 23 décembre 2009 (JUSC0927823A)](arrete-du-23-decembre-2009-jusc0927823a)
 - [Arrêté du 23 décembre 2010 (AGRG1033444A)](arrete-du-23-decembre-2010-agrg1033444a)
-- [Arrêté du 23 décembre 2010 (DEVR1032060A)](arrete-du-23-decembre-2010-devr1032060a)
 - [Arrêté du 23 décembre 2010 (EFIT1031092A)](arrete-du-23-decembre-2010-efit1031092a)
 - [Arrêté du 23 décembre 2010 (ETSP1033205A)](arrete-du-23-decembre-2010-etsp1033205a)
 - [Arrêté du 23 décembre 2010 (ETSP1033220A)](arrete-du-23-decembre-2010-etsp1033220a)
