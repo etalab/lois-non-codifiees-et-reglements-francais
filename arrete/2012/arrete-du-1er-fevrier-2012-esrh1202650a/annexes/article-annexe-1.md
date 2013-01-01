@@ -1,14 +1,8 @@
 # Article Annexe 1
 
-PROGRAMME DE L'EXAMEN PROFESSIONNEL POUR L'AVANCEMENT
+PROGRAMME DE L'EXAMEN PROFESSIONNEL POUR L'AVANCEMENT AU GRADE DE BIBLIOTHÉCAIRE ASSISTANT SPÉCIALISÉ DE CLASSE SUPÉRIEURE
 
-AU GRADE DE BIBLIOTHÉCAIRE ASSISTANT SPÉCIALISÉ DE CLASSE SUPÉRIEURE
-
-1. L'organisation administrative :
-
-― administration de l'Etat, collectivités territoriales ;
-
-― les fonctions publiques : principes généraux, statut, personnels, recrutement, droits et obligations des fonctionnaires.
+1. (Supprimé)
 
 2. L'organisation des bibliothèques :
 
