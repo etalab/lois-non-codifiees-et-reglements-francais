@@ -120,7 +120,11 @@ b. Pour chaque commune membre d'un établissement public de coopération interco
 
 -du produit intercommunal de la composante de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 HA du même code au titre de l'année 2010 sur le territoire de la commune, dont l'établissement public aurait bénéficié si les modalités de déclaration, de perception et d'affectation de cette imposition applicables au 1er janvier 2011 avaient été appliquées au titre de l'année 2010.
 
+c. Lorsque, à la suite de la dissolution d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la part de dotation de compensation de la réforme de la taxe professionnelle, calculée selon les conditions prévues aux a et b du présent D, est versée au profit de cet établissement public de coopération intercommunale.
+
 E.-En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part de dotation de compensation de la réforme de la taxe professionnelle de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux a et b du D et la dotation de compensation de l'établissement public concerné est diminuée de cette part.
+
+Lorsque, à la suite de son retrait d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la part de dotation de compensation de la réforme de la taxe professionnelle, calculée selon les conditions prévues aux a et b du D du présent IV, est versée au profit de cet établissement public de coopération intercommunale.
 
 F.-Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le montant de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III du présent 1.1 et au présent IV est versé au profit de cet établissement.
 
@@ -202,7 +206,7 @@ En tant que de besoin, le montant de la compensation relais prévue au II de l'a
 
 Pour les années 2012 et suivantes, les pourcentages mentionnés au III de l'article L. 3332-2-1 du code général des collectivités territoriales sont calculés à partir des impositions établies, des dégrèvements ordonnancés et des produits perçus jusqu'au 30 juin 2011, la plus prochaine loi de finances après cette date arrêtant leur niveau définitif.
 
-Le montant définitif des dotations, prélèvements et reversements mentionnés au premier alinéa du présent I est calculé à partir des impositions établies, des dégrèvements ordonnancés et des produits perçus jusqu'au 30 juin 2011 et actualisé en fonction des redressements opérés par les services fiscaux sur les bases de la taxe professionnelle de 2010, pendant le délai de reprise visé à l'article L. 174 du livre des procédures fiscales.
+Le montant définitif des dotations, prélèvements et reversements mentionnés au premier alinéa du présent I est calculé à partir des impositions établies, des dégrèvements ordonnancés et des produits perçus jusqu'au 30 juin 2011 et actualisé en fonction des redressements opérés par les services fiscaux sur les bases de la taxe professionnelle de 2010, jusqu'au 30 juin 2012.
 
 Le montant de la correction mentionnée au deuxième alinéa du présent I et les différences entre les montants notifiés en application du troisième alinéa et les montants correspondants notifiés en application du premier alinéa viennent en augmentation ou en diminution des attributions mensuelles de cotisation sur la valeur ajoutée des entreprises et des taxes et impositions perçues par voie de rôle restant à verser au titre de l'année 2011 à la collectivité territoriale ou à l'établissement public de coopération intercommunale concerné. En cas d'insuffisance de ces attributions, ou sur demande de la collectivité ou de l'établissement public de coopération intercommunale, cette régularisation peut être opérée sur les attributions mensuelles restant à verser au titre des années 2011 et 2012.
 
@@ -234,7 +238,7 @@ B.-En cas de scission de commune, le montant du prélèvement sur les ressources
 
 C.-En cas de fusion d'établissements publics de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement issu de la fusion est égal à la somme des prélèvements et reversements calculés conformément au présent 2 des établissements publics de coopération intercommunale participant à la fusion.
 
-D.-En cas de dissolution d'un établissement public de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement dissous est réparti entre ses communes membres selon les modalités suivantes :
+D.- a. En cas de dissolution d'un établissement public de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement dissous est réparti entre ses communes membres selon les modalités suivantes :
 
 1° Si l'établissement public de coopération intercommunale bénéficie d'un reversement mentionné au présent 2.1 :
 
@@ -252,7 +256,15 @@ D.-En cas de dissolution d'un établissement public de coopération intercommuna
 
 -la différence entre le prélèvement mis à la charge de l'établissement dissous et la somme des prélèvements et reversements mentionnés aux deuxième et troisième alinéas du présent 2° est répartie entre les communes membres au prorata de la somme des différences en valeur absolue calculées au b du même D.
 
-E.-En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part du montant du prélèvement ou du reversement de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux 1° et 2° du D du présent IV et le prélèvement ou le reversement de l'établissement public concerné est diminué de cette part.
+b. Lorsque, à la suite de la dissolution d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la fraction de reversement sur les ressources, calculée selon les conditions prévues aux 1° et 2° du a du présent D, est versée au profit de cet établissement public.
+
+Lorsque, à la suite de la dissolution d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, le prélèvement sur les ressources, calculé selon les conditions prévues aux mêmes 1° et 2°, est mis à la charge de cet établissement public.
+
+E. En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part du montant du prélèvement ou du reversement de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux 1° et 2° du a du D du présent IV et le prélèvement ou le reversement de l'établissement public concerné est diminué de cette part.
+
+Lorsque, à la suite de son retrait d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la fraction de reversement sur les ressources, calculée selon les conditions prévues aux mêmes 1° et 2°, est versée au profit de cet établissement public.
+
+Lorsque, à la suite de son retrait d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, le prélèvement sur les ressources, calculé selon les conditions prévues auxdits 1° et 2°, est mis à la charge de cet établissement public.
 
 F.-a. Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le reversement sur les ressources calculé conformément au III du présent 2.1 et au présent IV, minoré des reversements perçus par la commune au titre de 2009 en vertu du 2° du II de l'article 1648 A du même code dans sa rédaction en vigueur au 31 décembre 2009, est versé au profit de cet établissement public.
 
@@ -260,7 +272,7 @@ Le premier alinéa du présent a n'est pas applicable lorsque les reversements p
 
 b. Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le prélèvement sur les ressources calculé conformément au III du présent 2.1 et au présent IV, majoré des reversements perçus par la commune au titre de 2009 en vertu du 2° du II de l'article 1648 A du même code dans sa rédaction en vigueur au 31 décembre 2009, est mis à la charge de cet établissement public.
 
-La commune perçoit un reversement au titre du présent Fonds national de garantie individuelle des ressources communales et intercommunales égal au montant des reversements perçus par la commune au titre de 2009 en vertu du 2° du II du même article 1648 A dans sa rédaction en vigueur au 31 décembre 2009 (1).
+La commune perçoit un reversement au titre du présent Fonds national de garantie individuelle des ressources communales et intercommunales égal au montant des reversements perçus par la commune au titre de 2009 en vertu du 2° du II du même article 1648 A dans sa rédaction en vigueur au 31 décembre 2009.
 
 2.2. Fonds national de garantie individuelle des ressources départementales.
 

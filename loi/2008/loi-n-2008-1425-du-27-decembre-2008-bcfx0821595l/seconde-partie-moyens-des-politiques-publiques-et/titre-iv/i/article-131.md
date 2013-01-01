@@ -6,8 +6,14 @@ I. à III.A modifié les dispositions suivantes :
 
 > Art. 220 quaterdecies, Art. 223 O, Art. 220 Z bis
 
-> IV. ― Le I s'applique aux crédits d'impôt calculés au titre des dépenses engagées entre le 1er janvier 2009 et le 31 décembre 2012.
 >
+
+>
+
+<div align="left">
+<blockquote>IV. ― Le I s'applique aux crédits d'impôt calculés au titre des dépenses engagées entre le 1er janvier 2009 et le 31 décembre 2016.</blockquote>
+</div>
+
 > V. ― Le présent article entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2010.
 >
 >

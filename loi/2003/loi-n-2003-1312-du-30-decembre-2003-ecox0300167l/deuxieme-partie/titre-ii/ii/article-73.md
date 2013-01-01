@@ -1,6 +1,6 @@
 # Article 73
 
-A. - I. - Il est créé une taxe affectée au Centre technique interprofessionnel des fruits et légumes. Elle a pour objet de financer les missions dévolues à cet organisme par la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels, et notamment les actions de certification, de recherche et d'expérimentation dans le secteur des fruits et légumes.
+A. - I. - Il est créé une taxe dont le produit est affecté, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Centre technique interprofessionnel des fruits et légumes. Le produit ainsi affecté permet de financer les missions dévolues à cet organisme par la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels, et notamment les actions de certification, de recherche et d'expérimentation dans le secteur des fruits et légumes.
 
 Les opérations financées au moyen du produit de cette taxe font l'objet d'une comptabilité distincte tenue par le centre technique.
 

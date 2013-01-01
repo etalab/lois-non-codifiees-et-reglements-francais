@@ -19,7 +19,6 @@ NON RATTACHÉES
 - [Article 112](article-112.md)
 - [Article 115](article-115.md)
 - [Article 122](article-122.md)
-- [Article 125](article-125.md)
 - [Article 126](article-126.md)
 - [Article 128](article-128.md)
 - [Article 129](article-129.md)

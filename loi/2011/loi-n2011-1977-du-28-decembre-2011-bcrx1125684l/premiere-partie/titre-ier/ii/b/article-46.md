@@ -1,6 +1,6 @@
 # Article 46
 
-I. ― Le produit des ressources et impositions instituées par les dispositions mentionnées à la colonne A affecté aux personnes mentionnées à la colonne B est plafonné annuellement conformément aux montants inscrits à la colonne C du tableau ci-après :
+I. ― Le produit des ressources et impositions instituées par les dispositions mentionnées à la colonne A affecté aux personnes mentionnées à la colonne B est plafonné ou fixé, le cas échéant, par des dispositions spécifiques, annuellement conformément aux montants inscrits à la colonne C du tableau ci-après :
 
 (En milliers d'euros)
 
@@ -9,533 +9,633 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">A. ― IMPOSITION ou ressource affectée </p>
-</td>
-<td>
-<p align="center">B. ― PERSONNE affectataire <br/>
+<td align="left" valign="top">
+<p align="center">A. ― IMPOSITION<br/>ou ressource affectée <br/>
 </p>
 </td>
-<td>
-<p align="center">C. ―PLAFOND <br/>
+<td align="left" valign="top">
+<p align="center">B. ― PERSONNE<br/>affectataire <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">C. ― PLAFOND<br/>ou montant<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 131-5-1 du code de l'environnement <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence de l'environnement et de la maîtrise de l'énergie (ADEME) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>498 600 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 302 bis ZB du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence de financement des infrastructures de transport de France (AFITF) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>610 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 706-163 du code de procédure pénale <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence de gestion et de recouvrement des avoirs saisis et confisqués (AGRASC) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>1 806 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 232 du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence nationale de l'habitat (ANAH) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>21 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
+<p align="left">b du III de l'article 158 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011</p>
+</td>
+<td>
+<p align="left">Agence nationale des fréquences </p>
+</td>
+<td>6 000 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>Article 43 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence nationale pour la gestion des déchets radioactifs (ANDRA) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>120 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 12 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence nationale pour la rénovation urbaine (ANRU) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>95 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
+<p align="left">a du III de l'article 158 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011</p>
+</td>
+<td>
+<p align="left">Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail</p>
+</td>
+<td>
+<p align="left">2 000</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>Article 134 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2008 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Agence nationale des titres sécurisés (ANTS) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>12 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 46 de la loi n° 2006-1666 du 21 décembre 2006 de finances pour 2007 (I de l'article 953 du code général des impôts) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>ANTS <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>107 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 46 de la loi n° 2006-1666 du 21 décembre 2006 de finances pour 2007 (IV et V de l'article 953 du code général des impôts) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>ANTS <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>16 100 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 135 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>ANTS <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>43 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>Article 1605 nonies du code général des impôts </td>
+<td>Agence de services et de paiement </td>
+<td>20 000 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>Article L. 2132-13 du code des transports <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Autorité de régulation des activités ferroviaires (ARAF) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>11 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 77 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Association pour le soutien du théâtre privé <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>9 000 <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Article 1609 nonies G du code général des impôts</p>
+<p align="left">Article 1609 nonies G du code général des impôts</p>
 </td>
 <td>
-<p align="center">Caisse de garantie du logement locatif social </p>
+<p align="left">Caisse de garantie du logement locatif social</p>
 </td>
 <td>
-<p align="center">120 000</p>
+<p align="left">120 000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 224 du code des douanes <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Conservatoire de l'espace littoral et des rivages lacustres (CELRL) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>37 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>F de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centre d'étude et de recherche de l'industrie du béton (CERIB) ; Centre technique de matériaux naturels de construction (CTMNC) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>16 300 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 302 bis ZI du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centre des monuments nationaux <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>8 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Article L. 115-6 du code du cinéma et de l'image animée (taxe sur les distributeurs) <br/>
-</td>
-<td align="center">
-<br/>Centre national du cinéma et de l'image (CNC) <br/>
-</td>
-<td align="center">
-<br/>229 000 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 1609 tricies du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centre national pour le développement du sport (CNDS) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>31 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 1609 novovicies du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>CNDS <br/>
 </td>
-<td align="center">
-<br/>173 800 <br/>
+<td align="left" valign="top">
+<br/>176 300 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 59 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>CNDS <br/>
 </td>
-<td align="center">
-<br/>43 400 <br/>
+<td align="left" valign="top">
+<br/>40 900 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>a de l'article 1609 undecies du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centre national du livre (CNL) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>5 300 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>b de l'article 1609 undecies du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>CNL <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>29 400 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 76 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centre national de la chanson, des variétés et du jazz (CNV) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>27 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>D de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
+<td>
+<p align="left">Article 1604 du code général des impôts</p>
 </td>
-<td align="center">
-<br/>Comité de développement et de promotion de l'habillement <br/>
+<td>
+<p align="left">Chambres d'agriculture</p>
 </td>
-<td align="center">
-<br/>10 000 <br/>
+<td>
+<p align="left">297 000 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
+<p align="left">II de l'article 1600 du code général des impôts</p>
+</td>
+<td>
+<p align="left">Chambres de commerce et d'industrie</p>
+</td>
+<td>
+<p align="left">549 000 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">2 du III de l'article 1600 du code général des impôts</p>
+</td>
+<td>
+<p align="left">Chambres de commerce et d'industrie</p>
+</td>
+<td>
+<p align="left">819 000 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Article 1601 du code général des impôts et article 3 de la loi n° 48-977 du 16 juin 1948 relative à la taxe pour frais de chambre de métiers applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chambres de métiers et de l'artisanat</p>
+</td>
+<td align="left" valign="top">
+<p align="left">280 000 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>D de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
+</td>
+<td align="left" valign="top">
+<br/>Comité de développement et de promotion de l'habillement</td>
+<td align="left" valign="top">
+<br/>10 000</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>A de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Comité professionnel de développement des industries françaises de l'ameublement et du bois (CODIFAB) ; Institut technologique filière cellulose, bois, ameublement (FCBA) ; Centre technique des industries mécaniques (CETIM) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>16 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>B de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Comité professionnel de développement cuir, chaussure, maroquinerie (CTC) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>12 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 72 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centre technique de la conservation des produits agricoles <br/>
 </td>
-<td align="center">
-<br/>2 700 <br/>
+<td align="left" valign="top">
+<br/>2 900 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>E de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Centres techniques industriels de la mécanique (CETIM, Centre technique de l'industrie du décolletage, Centre technique industriel de la construction métallique, Centre technique des industries aérauliques et thermiques, Institut de soudure) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>70 200 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">I du A de l'article 73 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Centre technique interprofessionnel des fruits et légumes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">17 000 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>Article L. 2221-6 du code des transports <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Etablissement public de sécurité ferroviaire (EPSF) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>17 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 1601 A du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Fonds national de promotion et de communication de l'artisanat (FNPCA) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>9 910 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">I de l'article 22 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Fonds de solidarité pour le développement </p>
+</td>
+<td align="left" valign="top">
+<p align="left">60 000</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>Article 75 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>FranceAgriMer <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>4 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Article 25 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005 <br/>
+<td>
+<p align="left">Article 1609 septvicies du code général des impôts </p>
 </td>
-<td align="center">
-<br/>FranceAgriMer <br/>
+<td>
+<p align="left">FranceAgriMer</p>
 </td>
-<td align="center">
-<br/>15 000 <br/>
+<td>
+<p align="left">84 000 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 1619 du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>FranceAgriMer <br/>
 </td>
-<td align="center">
-<br/>23 000 <br/>
+<td align="left" valign="top">
+<br/>22 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>C de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
-</p>
+<td align="left" valign="top">
+<br/>C de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie, de l'orfèvrerie et des arts de la table (Francéclat) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>13 500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 642-13 du code rural et de la pêche maritime <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Institut national de l'origine et de la qualité (INAO) <br/>
 </td>
-<td align="center">
-<br/>5 000 <br/>
+<td align="left" valign="top">
+<br/>6 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 137-24 du code de la sécurité sociale <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Institut national de prévention et d'éducation pour la santé (INPES) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>5 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Article L. 524-11 du code du patrimoine </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Organismes bénéficiaires de la redevance d'archéologie préventive </p>
+</td>
+<td align="left" valign="top">
+<p align="left">122 000 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>Article L. 121-16 du code de l'énergie <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Médiateur national de l'énergie <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>7 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 311-13 du code de l'entrée et du séjour des étrangers et du droit d'asile <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Office français de l'immigration et de l'intégration (OFII) <br/>
 </td>
-<td align="center">
-<br/>109 000 <br/>
+<td align="left" valign="top">
+<br/>108 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 311-15 du code de l'entrée et du séjour des étrangers et du droit d'asile <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>OFII <br/>
 </td>
-<td align="center">
-<br/>34 000 <br/>
+<td align="left" valign="top">
+<br/>29 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 211-8 du code de l'entrée et du séjour des étrangers et du droit d'asile <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>OFII <br/>
 </td>
-<td align="center">
-<br/>7 500 <br/>
+<td align="left" valign="top">
+<br/>7 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 8253-1 du code du travail <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>OFII <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<br/>1 500 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Article L. 626-1 du code de l'entrée et du séjour des étrangers et du droit d'asile <br/>
+</td>
+<td align="left" valign="top">
+<br/>OFII <br/>
+</td>
+<td align="left" valign="top">
+<br/>500 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Article 958 du code général des impôts <br/>
+</td>
+<td align="left" valign="top">
+<br/>OFII <br/>
+</td>
+<td align="left" valign="top">
 <br/>4 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Article L. 626-1 du code de l'entrée et du séjour des étrangers et du droit d'asile <br/>
+<td>
+<p align="left">Article L. 423-27 du code de l'environnement</p>
 </td>
-<td align="center">
-<br/>OFII <br/>
+<td>
+<p align="left">Office national de la chasse et de la faune sauvage</p>
 </td>
-<td align="center">
-<br/>1 000 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Article 958 du code général des impôts <br/>
-</td>
-<td align="center">
-<br/>OFII <br/>
-</td>
-<td align="center">
-<br/>5 500 <br/>
+<td>
+<p align="left">72 000 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 31 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Société du Grand Paris (SGP) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>168 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 1609 G du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>SGP <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>117 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article 1599 quater A bis du code général des impôts <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>SGP <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>60 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <br/>Article L. 4316-3 du code des transports <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>Voies navigables de France (VNF) <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <br/>148 600 <br/>
 </td>
 </tr>
@@ -647,8 +747,6 @@ V.-A modifié les dispositions suivantes :
 > -Code de la sécurité sociale.
 
 > Art. L137-24
-
->
 
 > -Code du cinéma et de l'image animée.
 

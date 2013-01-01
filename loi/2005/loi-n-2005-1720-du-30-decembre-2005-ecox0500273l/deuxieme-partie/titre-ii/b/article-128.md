@@ -74,6 +74,8 @@ Le document relatif à la politique mentionnée au 7° comporte également :
 
 - tous les deux ans, une appréciation des différences de salaires et de prix à la consommation entre les collectivités territoriales ultramarines et la métropole.
 
+Les documents relatifs aux politiques mentionnées aux 6° et 13° comportent également la liste et l'objet des expérimentations en cours ou prévues ainsi qu'une présentation détaillée par mission des résultats des expérimentations achevées et des crédits mobilisés.
+
 II. - Les relations financières entre la France et l'Union européenne font l'objet d'une présentation détaillée dans une annexe générale jointe au projet de loi de finances de l'année intitulée : "Relations financières avec l'Union européenne".
 
 III. Paragraphe modificateur

@@ -1,6 +1,6 @@
 # Article 19
 
-I.-Les articles 15 et 16 de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux sont abrogés à compter du 1er novembre 2007. Toutefois, ces articles continuent à s'appliquer aux contrats de travail conclus avant le 1er novembre 2007 et jusqu'au terme de ceux-ci.
+I.-Les articles 15 et 16 de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux sont abrogés à compter du 1er novembre 2007. Toutefois, ces articles continuent à s'appliquer aux contrats de travail conclus avant le 1er novembre 2007 et jusqu'au terme de ceux-ci, à la condition que l'établissement géré par l'organisme ait un effectif inférieur à cinq cents salariés. Cet effectif est apprécié selon les mêmes modalités que celles définies pour l'application de l'article L. 241-13 du code de la sécurité sociale.
 
 II. et III. - A modifié les dispositions suivantes :
 

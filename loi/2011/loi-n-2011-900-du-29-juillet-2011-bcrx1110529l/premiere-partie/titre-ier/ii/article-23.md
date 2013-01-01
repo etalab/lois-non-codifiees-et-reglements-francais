@@ -20,9 +20,13 @@ b) Le financement des actions arrêtées en application des contrats d'objectifs
 
 c) Le financement d'actions nationales de communication et de promotion de l'apprentissage ;
 
-d) Le versement aux entreprises de deux cent cinquante salariés et plus dépassant le seuil prévu au I de l'article 230 H du code général des impôts d'aides en faveur de l'emploi des personnes mentionnées au même I, dans des conditions prévues par décret.
+d) Le versement aux entreprises de deux cent cinquante salariés et plus dépassant le seuil prévu au I de l'article 230 H du code général des impôts d'aides en faveur de l'emploi des personnes mentionnées au même I, dans des conditions prévues par décret ;
 
-Les sommes affectées aux financements mentionnés aux a et b du présent 2° sont versées aux fonds régionaux de l'apprentissage et de la formation professionnelle continue prévus à l'article L. 4332-1 du code général des collectivités territoriales ou aux centres de formation d'apprentis pour lesquels une convention a été conclue avec l'Etat en application de l'article L. 6232-1 du code du travail.
+e) Une fraction de la dotation générale de décentralisation " Formation professionnelle et apprentissage " en complément des versements effectués à partir du budget général au titre des compétences transférées aux régions en matière d'apprentissage et répartie selon les mêmes modalités que celles retenues pour la compensation financière de l'indemnité compensatrice forfaitaire mentionnée à l'article L. 6243-1 du code du travail et transférée aux régions par la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité ;
+
+f) Le reversement de recettes indûment perçues au titre des années antérieures à l'exercice budgétaire en cours.
+
+Les sommes affectées aux financements mentionnés aux a, b et e du présent 2° sont versées aux fonds régionaux de l'apprentissage et de la formation professionnelle continue prévus à l'article L. 4332-1 du code général des collectivités territoriales ou aux centres de formation d'apprentis pour lesquels une convention a été conclue avec l'Etat en application de l'article L. 6232-1 du code du travail.
 
 II.-Le solde du Fonds national de développement et de modernisation de l'apprentissage prévu à l'article L. 6241-3 du code du travail, tel que constaté à la date de la création du compte d'affectation spéciale mentionné au I du présent article, est porté en recettes de ce même compte.
 

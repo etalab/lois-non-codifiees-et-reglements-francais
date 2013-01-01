@@ -24,3 +24,5 @@ IV.-Au titre de l'année 2011 :
 2° La déclaration prévue à l'article 885 W du même code peut être souscrite jusqu'au 30 septembre 2011 ;
 
 3° Les redevables dont le patrimoine a une valeur nette taxable inférieure à 3 000 000 € sont dispensés du respect des obligations déclaratives prévues au VII de l'article 885-0 V bis, au V de l'article 885-0 V bis A et à l'article 885 Z du même code.
+
+4° Par dérogation au III du présent article, les a et b du 1° du II et le 3° du II du présent article s'appliquent pour le contrôle de l'impôt de solidarité sur la fortune dû au titre de l'année 2011. Pour l'application de cette disposition, les redevables mentionnés au 2 du I de l'article 885 W du code général des impôts sont ceux dont le patrimoine est compris entre 1 300 000 € et 3 000 000 € et qui se sont acquittés de leur obligation déclarative.
