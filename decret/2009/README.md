@@ -357,7 +357,6 @@
 - [Décret n°2008-932 du 12 septembre 2008 (DEFH0801140D)](decret-n2008-932-du-12-septembre-2008-defh0801140d)
 - [Décret n°2008-933 du 12 septembre 2008 (DEFH0801150D)](decret-n2008-933-du-12-septembre-2008-defh0801150d)
 - [Décret n°2008-934 du 12 septembre 2008 (DEFH0801153D)](decret-n2008-934-du-12-septembre-2008-defh0801153d)
-- [Décret n°2008-935 du 12 septembre 2008 (DEFH0801154D)](decret-n2008-935-du-12-septembre-2008-defh0801154d)
 - [Décret n°2008-937 du 12 septembre 2008 (DEFH0801157D)](decret-n2008-937-du-12-septembre-2008-defh0801157d)
 - [Décret n°2008-938 du 12 septembre 2008 (DEFH0801158D)](decret-n2008-938-du-12-septembre-2008-defh0801158d)
 - [Décret n°2008-939 du 12 septembre 2008 (DEFH0801177D)](decret-n2008-939-du-12-septembre-2008-defh0801177d)
