@@ -1,6 +1,6 @@
 # Article 8-5
 
-I.-Sont éligibles à un financement par le fonds au titre du 4° de l'article 8-1 du présent décret les dépenses de fonctionnement ou d'investissement des établissements de santé ou des groupements de coopération sanitaire relatives :
+I.-Sont éligibles à un financement par le fonds au titre du 4° de l'article 8-1 du présent décret les dépenses d'investissement des établissements de santé ou des groupements de coopération sanitaire relatives :
 
 1° Aux opérations d'investissements immobiliers ou mobiliers concourant à l'amélioration et à la modernisation des établissements de santé ou des groupements de coopération sanitaire ;
 
@@ -8,9 +8,7 @@ I.-Sont éligibles à un financement par le fonds au titre du 4° de l'article 8
 
 3° Aux opérations visant le développement des systèmes d'information ;
 
-4° Aux opérations visant la réorganisation de l'offre de soins notamment dans le cadre des conférences de territoires ;
-
-5° Aux opérations d'évaluation des pratiques professionnelles.
+4° Aux opérations visant la réorganisation de l'offre de soins.
 
 II.-Les subventions ou avances sont attribuées par le directeur de l'agence régionale de santé, dans la limite des crédits alloués par décision du ministre chargé de la santé. Un avenant au contrat pluriannuel d'objectifs et de moyens mentionné à l'article L. 6114-1 du code de la santé publique ou, en son absence, un engagement contractuel conclu entre l'agence régionale et l'établissement de santé ou le groupement de coopération sanitaire précise :
 
