@@ -418,7 +418,6 @@
 - [Arrêté du 21 décembre 1998 (AGRE9802662A)](arrete-du-21-decembre-1998-agre9802662a)
 - [Arrêté du 21 décembre 1998 (AGRG9900101A)](arrete-du-21-decembre-1998-agrg9900101a)
 - [Arrêté du 21 décembre 1998 (DEFE9855029A)](arrete-du-21-decembre-1998-defe9855029a)
-- [Arrêté du 21 décembre 1998 (MESP9824014A)](arrete-du-21-decembre-1998-mesp9824014a)
 - [Arrêté du 21 décembre 1999 (ECOI9900631A)](arrete-du-21-decembre-1999-ecoi9900631a)
 - [Arrêté du 21 décembre 1999 (ECOP9900816A)](arrete-du-21-decembre-1999-ecop9900816a)
 - [Arrêté du 21 janvier 1999 (EQUA9900098A)](arrete-du-21-janvier-1999-equa9900098a)
