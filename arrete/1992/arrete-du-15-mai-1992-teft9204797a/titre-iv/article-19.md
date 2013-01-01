@@ -1,5 +1,0 @@
-# Article 19
-
-Lorsque la pression d'une plongée en saturation dépasse les limites définies en annexe, le ministre chargé du travail devra être informé de la procédure prévue. Il en est de même si à cette occasion la masse volumique doit excéder 9 g/l ou si la durée de la saturation doit être supérieure à trente jours.
-
-Si les conditions d'intervention sont telles que certains des équipements prévus par le présent arrêté constituent par eux-mêmes une source de risque ou qu'en raison de circonstances exceptionnelles liées à la nature de l'opération, notamment en galerie, les limites de pressions des différentes méthodes, les durées maximales d'exposition ou les tables et les procédures réglementaires de décompression se révèlent inadaptées voire dangereuses, d'autres méthodes ou d'autres équipements peuvent être utilisées dès lors qu'ils offrent de meilleures garanties de sécurité pour l'opération concernée, que le personnel a reçu une formation appropriée et que l'employeur a été préalablement autorisé à les mettre en oeuvre par le ministre chargé du travail, de l'agriculture ou de la mer.
