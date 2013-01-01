@@ -2,10 +2,10 @@
 
 La sous-direction de la mobilité et du recrutement comprend quatre bureaux :
 
-1. Le bureau de la mobilité et des parcours des métiers techniques ;
+1° Le bureau du pourvoi des postes ;
 
-2. Le bureau de la mobilité et des parcours des métiers administratifs et fonctionnels ;
+2° Le bureau de la gestion de la mobilité ;
 
-3. Le bureau du recrutement et de la reconversion des corps et catégories de personnel propres à la direction générale de l'armement ;
+3° Le bureau de l'accompagnement social et des restructurations ;
 
-4. Le bureau du pourvoi des postes.
+4° Le bureau de l'encadrement supérieur.

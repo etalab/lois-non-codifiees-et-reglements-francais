@@ -4,7 +4,7 @@ Le service parisien de soutien de l'administration centrale comprend :
 
 1. La sous-direction de la performance interne ;
 
-2. La sous-direction de la gestion du personnel civil de l'administration centrale ;
+2. La sous-direction de la gestion des personnels relevant de l'administration centrale ;
 
 3. La sous-direction des achats ;
 

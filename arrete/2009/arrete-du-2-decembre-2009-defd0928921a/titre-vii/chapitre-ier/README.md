@@ -1,4 +1,0 @@
-# CHAPITRE IER : LE SERVICE D'ADMINISTRATION ET DE REMUNERATION DES PERSONNELS
-
-- [Article 72](article-72.md)
-- [Article 73](article-73.md)
