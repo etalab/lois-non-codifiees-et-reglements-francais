@@ -32,8 +32,6 @@ Semmaris (Société d'économie mixte d'aménagement et de gestion du marché d'
 
 Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ;
 
-Voies navigables de France ;
-
 Mines de potasse d'Alsace ;
 
 Les grands ports maritimes créés en application de l'article L. 5312-1 du code des transports.
