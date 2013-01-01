@@ -1,6 +1,6 @@
 # Article 28
 
-Sont obligatoirement publiés au bureau des hypothèques de la situation des immeubles :
+Sont obligatoirement publiés au service chargé de la publicité foncière de la situation des immeubles :
 
 1° Tous actes, même assortis d'une condition suspensive, et toutes décisions judiciaires, portant ou constatant entre vifs :
 

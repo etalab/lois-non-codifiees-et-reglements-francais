@@ -1,4 +1,4 @@
-# Section III : Obligations des conservateurs des hypothèques.
+# Section III : Obligations des services de la publicité foncière
 
 - [Article 8-1](article-8-1.md)
 - [Article 9](article-9.md)

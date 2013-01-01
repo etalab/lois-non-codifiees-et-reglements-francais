@@ -1,6 +1,6 @@
 # Article 26
 
-I.-Ne donnent lieu à aucune indemnité ou perception d'impôts, de droits ou de taxes, ni à aucun versement de salaires ou honoraires au profit des agents de l'Etat :
+I.-Ne donnent lieu à aucune indemnité ou perception d'impôts, de droits ou de taxes, ni à aucun versement de contribution prévue à l'article 879 du code général des impôts  ou honoraires au profit des agents de l'Etat :
 
 1° Les transferts, au profit des communes et de leurs établissements publics, de biens, droits et obligations résultant de la dissolution des établissements publics d'aménagement des villes nouvelles :
 
@@ -14,4 +14,4 @@ I.-Ne donnent lieu à aucune indemnité ou perception d'impôts, de droits ou de
 
 2° Le transfert, au profit de l'Agence foncière et technique de la région parisienne, des biens, droits et obligations résultant de la dissolution de l'établissement public d'aménagement de la ville nouvelle d'Evry, créé par le décret n° 69-356 du 12 avril 1969.
 
-II.-Les dispositions du I sont applicables au transfert des biens, droits et obligations du     Commissariat à l'énergie atomique et aux énergies alternatives et de l'Office de protection contre les rayonnements ionisants à l'établissement public qui sera chargé de la radioprotection et de la sûreté nucléaire, opéré dans des conditions qui seront prévues par décret en Conseil d'Etat.
+II.-Les dispositions du I sont applicables au transfert des biens, droits et obligations du Commissariat à l'énergie atomique et aux énergies alternatives et de l'Office de protection contre les rayonnements ionisants à l'établissement public qui sera chargé de la radioprotection et de la sûreté nucléaire, opéré dans des conditions qui seront prévues par décret en Conseil d'Etat.

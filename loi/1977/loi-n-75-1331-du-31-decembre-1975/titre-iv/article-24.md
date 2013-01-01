@@ -4,4 +4,4 @@ Les immeubles et meubles faisant partie du domaine public et du domaine privé d
 
 La liste des immeubles et des droits et obligations s'y rattachant dévolus au département de Paris est établie par décret en Conseil d'Etat, après avis du conseil de Paris.
 
-Les transferts des biens, droits et obligations prévus par la présente loi ne donnent lieu à aucune indemnité, droit, taxe, salaire ou honoraire.
+Les transferts des biens, droits et obligations prévus par la présente loi ne donnent lieu à aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts  ou honoraire.

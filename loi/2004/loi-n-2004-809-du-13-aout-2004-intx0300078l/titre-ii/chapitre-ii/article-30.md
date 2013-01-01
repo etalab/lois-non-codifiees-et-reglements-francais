@@ -18,6 +18,8 @@ III.-Pour chaque port transféré, une convention conclue entre l'Etat et la col
 
 La collectivité ou le groupement bénéficiaire du transfert succède à l'Etat dans l'ensemble de ses droits et obligations à l'égard des tiers.
 
+Les dépendances du domaine public de ces ports sont transférées à titre gratuit aux collectivités territoriales ou groupements de collectivités territoriales compétents et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraires.
+
 La convention, ou à défaut l'arrêté, précise les conditions dans lesquelles le bénéficiaire met gratuitement à la disposition de l'Etat les installations et aménagements nécessaires au fonctionnement des services chargés de la police et de la sécurité.
 
 IV.-Les délégations de service public portant sur les ports faisant l'objet des transferts de compétence prévus au présent article sont prorogées dans les conditions ci-après :
@@ -26,12 +28,14 @@ IV.-Les délégations de service public portant sur les ports faisant l'objet de
 
 2° Les délégations de service public venant à échéance au cours de l'année suivant le transfert de compétence mais avant sa première date anniversaire sont, sauf opposition du délégataire, prorogées jusqu'à cette dernière date.
 
-V.-Les ports maritimes départementaux existant à la date d'entrée en vigueur de la présente loi peuvent, sur demande du département et après accord, selon le cas, du conseil régional ou de l'assemblée de Corse, être transférés à la région ou à la collectivité territoriale de Corse.A compter de la date du transfert de compétences, la région ou la collectivité territoriale de Corse est substituée au département dans les droits et obligations à l'égard des tiers, afférents au domaine et aux biens transférés, sans que cette substitution puisse porter atteinte aux droits que les délégataires tiennent des délégations en cours.
+V.-Les ports maritimes départementaux existant à la date d'entrée en vigueur de la présente loi peuvent, sur demande du département et après accord, selon le cas, du conseil régional ou de l'assemblée de Corse, être transférés à la région ou à la collectivité territoriale de Corse. A compter de la date du transfert de compétences, la région ou la collectivité territoriale de Corse est substituée au département dans les droits et obligations à l'égard des tiers, afférents au domaine et aux biens transférés, sans que cette substitution puisse porter atteinte aux droits que les délégataires tiennent des délégations en cours.
 
 Une convention conclue entre la région ou la collectivité territoriale de Corse et le département délimite les emprises des ports, détermine les modalités du transfert de compétence, de transfert et de mise à disposition de moyens, notamment de personnels, et prévoit le versement à la région ou à la collectivité territoriale de Corse de la dotation générale de décentralisation au titre des ports maritimes de commerce et de pêche en application de l'article L. 1614-8 du code général des collectivités territoriales.
 
 VI., VII., VIII., IX.-Paragraphes modificateurs.
 
-X.-(Abrogé).
+X.-Lorsque le transfert de compétences relatif à un port a été réalisé avant la publication de la présente loi, l'Etat procède, à la demande de la collectivité, au transfert à titre gratuit des dépendances du domaine public portuaire.
 
 XI.-Paragraphe modificateur.
+
+XII.-Un décret en Conseil d'Etat fixe avant le 31 août 2005 la liste des ports des départements d'outre-mer qui sont exclus du transfert prévu au présent article.

@@ -12,4 +12,4 @@
 
 2. Seules figurent dans le certificat délivré les formalités pour lesquelles il existe une complète concordance entre la désignation des immeubles telle qu'elle figure dans la demande de renseignements et celle contenue dans les documents déposés en instance d'enregistrement au fichier immobilier.
 
-3. Un arrêté du secrétaire d'Etat au budget fixe la liste des bureaux des hypothèques dont le registre des dépôts est informatisé.
+3. Un arrêté du secrétaire d'Etat au budget fixe la liste des services chargés de la publicité foncière  dont le registre des dépôts est informatisé.

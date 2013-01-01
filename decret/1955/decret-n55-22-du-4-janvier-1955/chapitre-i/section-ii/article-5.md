@@ -1,6 +1,6 @@
 # Article 5
 
-Tout acte ou décision judiciaire sujet à publicité dans un bureau des hypothèques doit contenir les nom, prénoms dans l'ordre de l'état civil, domicile, date et lieu de naissance et profession des parties, ainsi que le nom de leur conjoint.
+Tout acte ou décision judiciaire sujet à publicité dans un service chargé de la publicité foncière doit contenir les nom, prénoms dans l'ordre de l'état civil, domicile, date et lieu de naissance et profession des parties, ainsi que le nom de leur conjoint.
 
 Les nom, prénoms dans l'ordre de l'état civil, date et lieu de naissance des parties, le nom de leur conjoint, doivent être certifiés par un notaire, huissier de justice, syndic de faillite, administrateur aux règlements judiciaires ou une autorité administrative, au pied de tout bordereau, extrait, expédition ou copie, déposé pur l'exécution de la formalité.
 

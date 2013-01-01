@@ -6,7 +6,7 @@ La région est substituée à l'Etat, dans l'ensemble des droits et obligations 
 
 Les concessions en cours à la date du transfert se poursuivent dans leurs conditions antérieures jusqu'à leur échéance, sauf accord contraire entre la région et son concessionnaire.
 
-Les transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraires.
+Les transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraires.
 
 Une convention conclue entre l'Etat et la région ou, à défaut, un arrêté du ministre chargé de l'agriculture fixe les modalités du transfert.
 

@@ -10,4 +10,4 @@ Il revêt la copie exécutoire d'une mention de référence à l'acte de mainlev
 
 Il certifie dans le même acte que les règles prévues par l'article 6, alinéas 1, 2 et 6, ont été observées.
 
-Ces énonciations dispensent le conservateur des hypothèques d'exiger d'autres justifications.
+Ces énonciations dispensent   le service chargé de la publicité foncière d'exiger d'autres justifications.

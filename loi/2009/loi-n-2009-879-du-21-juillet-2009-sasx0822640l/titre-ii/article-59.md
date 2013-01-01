@@ -19,8 +19,8 @@ A modifié les dispositions suivantes :
 > -Code de la sécurité sociale.
 > >
 
-> -Code de la santé publique
-> > , Art. L6155-1, Art. L6155-4
+> -Code de la santé
+> > publique, Art. L6155-1, Art. L6155-4
 
 A modifié les dispositions suivantes :
 
@@ -43,4 +43,4 @@ A modifié les dispositions suivantes :
 > > Art. 41
 XXI.-Les conditions dans lesquelles s'opère, après la date d'entrée en vigueur du présent article, le transfert des biens et des droits et obligations contractés par l'organisme gestionnaire conventionnel mentionné à l'article L. 162-15 du code de la sécurité sociale à l'organisme gestionnaire du développement professionnel continu font l'objet d'une convention entre ces deux organismes. Si, à cette date, l'exécution du budget de l'organisme gestionnaire conventionnel présente un résultat excédentaire, l'excédent constaté est intégralement reversé aux caisses nationales d'assurance maladie signataires de la ou des conventions mentionnées à l'article L. 162-5 du même code. Si, dans un délai de six mois à compter de l'entrée en vigueur de la présente loi, la convention entre les organismes n'a pas été signée, il revient au ministre chargé de la santé d'opérer les opérations nécessaires au transfert.
 
-Ce transfert est effectué à titre gratuit et ne donne lieu ni à indemnité, ni à perception de droits ou taxes, ni à versement de salaires ou honoraires.
+Ce transfert est effectué à titre gratuit et ne donne lieu ni à indemnité, ni à perception de droits ou taxes, ni à versement de la contribution prévue à l'article 879 du code général des impôts ou d'honoraires.

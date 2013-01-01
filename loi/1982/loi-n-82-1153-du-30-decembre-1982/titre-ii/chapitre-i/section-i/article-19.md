@@ -8,4 +8,4 @@ Les biens mobiliers des autres réseaux de chemins de fer appartenant à l'Etat 
 
 Tous les droits et obligations résultant soit des actes ou conventions passés par la société anonyme, soit des participations prises par elle dans des sociétés, groupements ou organismes tiers sont transférés à l'établissement public.
 
-Ces transferts ne donnent lieu ni à indemnité, ni à perception d'impôts, droits, taxes, salaires ou honoraires.
+Ces transferts ne donnent lieu ni à indemnité, ni à perception d'impôts, droits, taxes, contribution prévue à l' article 879 du code général des impôts  ou honoraires.

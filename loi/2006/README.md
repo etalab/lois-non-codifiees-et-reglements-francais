@@ -13,6 +13,7 @@
 - [Loi n° 2006-1772 du 30 décembre 2006 (DEVX0400302L)](loi-n-2006-1772-du-30-decembre-2006-devx0400302l)
 - [Loi n° 2006-339 du 23 mars 2006 (SOCX0500260L)](loi-n-2006-339-du-23-mars-2006-socx0500260l)
 - [Loi n° 2006-396 du 31 mars 2006 (SOCX0500298L)](loi-n-2006-396-du-31-mars-2006-socx0500298l)
+- [Loi n° 2006-405 du 5 avril 2006 (MJSX0500007L)](loi-n-2006-405-du-5-avril-2006-mjsx0500007l)
 - [Loi n° 2006-436 du 14 avril 2006 (DEVX0500070L)](loi-n-2006-436-du-14-avril-2006-devx0500070l)
 - [Loi n° 2006-450 du 18 avril 2006 (MENX0500251L)](loi-n-2006-450-du-18-avril-2006-menx0500251l)
 - [Loi n° 2006-64 du 23 janvier 2006 (INTX0500242L)](loi-n-2006-64-du-23-janvier-2006-intx0500242l)

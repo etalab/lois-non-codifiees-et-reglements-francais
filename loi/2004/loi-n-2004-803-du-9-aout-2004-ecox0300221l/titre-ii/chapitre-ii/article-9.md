@@ -4,4 +4,4 @@ Electricité de France transfère à la société mentionnée à l'article 7, pa
 
 Le bilan d'apport de la société mentionnée à l'article 7 est établi à partir du dernier compte séparé de l'activité de transport arrêté en application de l'article 25 de la loi n° 2000-108 du 10 février 2000 précitée dans sa rédaction antérieure à l'entrée en vigueur de la présente loi.
 
-Les opérations mentionnées au présent article ne donnent pas lieu à la perception de droits, impôts ou taxes de quelque nature que ce soit, et notamment des droits de publicité foncière et des salaires des conservateurs des hypothèques.
+Les opérations mentionnées au présent article ne donnent pas lieu à la perception de droits, impôts ou taxes de quelque nature que ce soit, et notamment des droits de publicité foncière      et de la contribution prévue à l'article 879 du code général des impôts .

@@ -12,4 +12,4 @@ C. - Pour les autres actes, trois mois de leur date.
 
 Toutefois, le délai est réduit à deux mois pour les actes et décisions en vertu desquels peut être requise l'inscription des privilèges prévus aux articles 2379 et 2381 du code civil.
 
-Au cas où la publicité doit être opérée dans deux ou plusieurs bureaux, les délais ci-dessus prévus sont prorogés d'un mois pour chaque bureau en sus du premier.
+Au cas où la publicité doit être opérée dans deux ou plusieurs services chargés de la publicité foncière, les délais ci-dessus prévus sont prorogés d'un mois pour chaque service en sus du premier.

@@ -20,4 +20,4 @@ A compter du 1er janvier 1997, les personnels contractuels de France Télécom p
 
 Les biens, droits et obligations nécessaires aux services chargés de missions de service public d'enseignement supérieur des télécommunications sont transférés à un ou plusieurs des établissements susvisés à compter du 1er janvier 1997. Un arrêté des ministres chargés de l'économie et des télécommunications détermine la liste des biens, droits et obligations concernés ainsi que, le cas échéant, les organismes auxquels ils sont affectés.
 
-Les transferts de biens, droits et obligations intervenant en vertu du présent paragraphe sont effectués à titre gratuit et ne donnent pas lieu à perception de droits ou taxes ni au versement de salaires ou honoraires.
+Les transferts de biens, droits et obligations intervenant en vertu du présent paragraphe sont effectués à titre gratuit et ne donnent pas lieu à perception de droits ou taxes ni au versement de la contribution prévue à l'article 879 du code général des impôts ou d'honoraires.

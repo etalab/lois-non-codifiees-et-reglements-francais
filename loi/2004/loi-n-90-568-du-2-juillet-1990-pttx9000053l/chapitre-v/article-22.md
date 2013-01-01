@@ -6,4 +6,4 @@ L'ensemble des biens immobiliers du domaine public ou privé de l'Etat attachés
 
 Le ministre chargé des postes et télécommunications et le ministre chargé de l'économie et des finances arrêtent la liste des biens nécessaires au fonctionnement du ministère de tutelle qui ne sont pas transférés aux exploitants publics et de ceux, utilisés en commun par les services centraux ou extérieurs du ministère, qu'ils répartissent entre les exploitants publics.
 
-L'ensemble des transferts prévus ci-dessus sont effectués à titre gratuit et ne donnent lieu à aucun versement de salaires ou honoraires au profit des agents de l'Etat, ni à aucune indemnité ou perception de droits ou de taxes.
+L'ensemble des transferts prévus ci-dessus sont effectués à titre gratuit et ne donnent lieu à aucun versement de la contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit des agents de l'Etat, ni à aucune indemnité ou perception de droits ou de taxes.

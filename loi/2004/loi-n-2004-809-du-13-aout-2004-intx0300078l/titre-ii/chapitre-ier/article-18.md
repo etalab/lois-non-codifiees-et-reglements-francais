@@ -16,7 +16,7 @@ La notification de la décision du représentant de l'Etat dans le département 
 
 Le représentant de l'Etat dans le département communique au conseil général toutes les informations dont il dispose sur le domaine public routier transféré.
 
-Les transferts prévus par le présent III sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
+Les transferts prévus par le présent III sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraire.
 
 Il est établi, dans les douze mois de l'entrée en vigueur de la présente loi, une étude exhaustive portant sur l'état de l'infrastructure, au moment de son transfert, ainsi que sur les investissements prévisibles à court, moyen et long termes, liés à la gestion de ce domaine routier.
 

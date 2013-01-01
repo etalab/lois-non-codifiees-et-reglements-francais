@@ -8,7 +8,7 @@ Ces cessions sont autorisées par décret pris sur le rapport du ministre de la 
 
 Le transfert de propriété intervient au jour de la signature de l'acte authentique constatant la cession. Le cessionnaire est substitué à l'Etat pour les droits et obligations liés aux biens qu'il reçoit en l'état.
 
-Les cessions réalisées dans ces conditions ne donnent lieu à paiement d'aucune indemnité ou perception de droits ou taxes, ni à aucun versement de salaires ou d'honoraires au profit d'agents de l'Etat.
+Les cessions réalisées dans ces conditions ne donnent lieu à paiement d'aucune indemnité ou perception de droits ou taxes, ni à aucun versement de la contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit d'agents de l'Etat.
 
 En cas de revente, y compris fractionnée, ou de cession de droits réels portant sur le bien considéré, pendant un délai de quinze ans à compter de la cession initiale, la commune ou le groupement verse à l'Etat, à titre de complément de prix, la somme correspondant à la moitié de la différence entre le produit des ventes et la somme des coûts afférents aux biens cédés et supportés par la commune ou le groupement, y compris les coûts de dépollution.
 
@@ -16,7 +16,7 @@ Cette obligation pèse, pendant le même délai de quinze ans, sur les acquéreu
 
 En l'absence de revente ou de cession de droits réels portant sur tout ou partie des biens cédés par l'Etat, pendant le délai de quinze ans à compter de la cession initiale et en cas de non-réalisation d'une action ou d'une opération d'aménagement prévue à l'article L. 300-1 du code de l'urbanisme, l'Etat peut convenir avec la commune du rachat de l'immeuble à l'euro symbolique. En l'absence d'opération de rachat, le complément de prix s'élève à la valeur des biens indiquée dans le décret mentionné au troisième alinéa, indexée sur la variation de l'indice du coût de la construction.
 
-Les actes de vente et de cession de droits réels successifs reprennent les obligations résultant du présent article pour en assurer la publication au bureau des hypothèques compétent.
+Les actes de vente et de cession de droits réels successifs reprennent les obligations résultant du présent article pour en assurer la publication au fichier immobilier.
 
 II.-L'article L. 240-1 et le premier alinéa de l'article L. 213-1 du code de l'urbanisme ne sont pas applicables aux cessions mentionnées au I du présent article.
 
