@@ -1,6 +1,8 @@
 # Article 28
 
-I.-(Abrogé)
+I.-La propriété, l'aménagement, l'entretien et la gestion des aérodromes civils appartenant à l'Etat à la date de publication de la présente loi sont transférés, au plus tard, le 1er mars 2007 et dans les conditions fixées au présent article, aux collectivités territoriales ou à leurs groupements dans le ressort géographique desquels sont situées ces infrastructures.
+
+Un décret en Conseil d'Etat fixe la liste des aérodromes d'intérêt national ou international et de ceux qui sont nécessaires à l'exercice des missions de l'Etat qui sont exclus du transfert.
 
 II.-Sans préjudice des dispositions du V, toute collectivité territoriale ou groupement de collectivités territoriales mentionné au I peut demander, jusqu'au 1er juillet 2006, à prendre en charge l'aménagement, l'entretien et la gestion d'un ou de plusieurs aérodromes. Cette demande est notifiée simultanément à l'Etat ainsi qu'aux collectivités et groupements intéressés.
 
@@ -20,7 +22,7 @@ III.-Pour chaque aérodrome transféré, une convention conclue entre l'Etat et 
 
 La collectivité ou le groupement bénéficiaire du transfert succède à l'Etat dans l'ensemble des droits et obligations à l'égard des tiers.
 
-Le transfert des biens de l'aérodrome appartenant à l'Etat s'opère à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraires.
+Le transfert des biens de l'aérodrome appartenant à l'Etat s'opère à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraires.
 
 Sont exclues du transfert les emprises et installations nécessaires pour les besoins de la défense nationale, de la sécurité de la circulation aérienne, de la météorologie et de la sécurité civile.
 
