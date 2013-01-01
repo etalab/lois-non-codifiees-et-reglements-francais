@@ -5,6 +5,7 @@
 - [Chapitre III : De la participation de l'assuré.](chapitre-iii)
 - [Chapitre IV : Des indemnités journalières maladie et maternité.](chapitre-iv)
 - [Chapitre IV bis :  Du capital décès](chapitre-iv-bis)
+- [Chapitre IV ter : De la pension d'invalidité.](chapitre-iv-ter)
 - [Chapitre V : Du contrôle médical.](chapitre-v)
 - [Chapitre VI : De l'interruption volontaire de grossesse.](chapitre-vi)
 - [Chapitre VII : Des frais de soins à l'étranger.](chapitre-vii)
