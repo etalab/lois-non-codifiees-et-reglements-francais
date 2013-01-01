@@ -1,5 +1,0 @@
-# Article 4
-
-Pour les installations situées dans les zones de sismicité 0 et I a, telles que définies par l'article 4 du décret n° 91-461 du 14 mai 1991 susvisé et son annexe, l'exploitant peut substituer aux dispositions prévues aux articles 2 et 3 ci-dessus la définition a priori d'un séisme majoré de sécurité. Ce dernier est alors caractérisé par le spectre de réponse, en accélération horizontale, obtenu en multipliant les ordonnées du spectre de référence, défini par l'annexe au présent arrêté, par une accélération de calage au moins égale à 1,5 m/s2 pour la zone de sismicité 0 et à 2,0 m/s2 pour la zone de sismicité I a.
-
-Lorsque le préfet dispose de résultats d'études locales mettant en évidence des différences notables entre les séismes majorés obtenus par les méthodes définies à l'alinéa précédent et aux articles 2 et 3, il peut imposer à l'exploitant d'avoir recours aux dispositions des articles 2 et 3, sans possibilité d'y déroger dans les conditions définies à l'alinéa précédent.
