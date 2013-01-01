@@ -1,7 +1,0 @@
-# Article 13
-
-I. ― L'arrêté mentionné à l'article 11 fixe les zones géographiques caractérisées par la densité de leur population ou l'importance des consommations d'électricité qui y sont constatées, à l'intérieur desquelles le niveau des exigences de qualité de la continuité globale de l'alimentation électrique sur le réseau peut être différencié.
-
-II. ― Dans un même département, la différenciation du niveau des exigences de qualité visée au I est effective dès lors que le choix en a été fait par une majorité des autorités organisatrices. Le préfet constate le choix des autorités organisatrices et notifie à ces dernières les niveaux de qualité qu'elles doivent faire respecter en application de l'article 11 du présent décret par les gestionnaires de réseaux publics de distribution d'électricité.
-
-III. ― Le classement des communes selon les zones précitées est révisé annuellement, s'il y a lieu, par le ministre chargé de l'énergie. Pour l'établissement du classement révisé, les évolutions de la répartition des communes ne découlant pas de l'évolution du classement des communes par l'INSEE au regard de la répartition de leur population font l'objet de propositions justifiées par les autorités organisatrices de la distribution d'électricité dans ces communes. Ces propositions sont transmises au ministre chargé de l'énergie par le préfet du département où sont situées ces communes.

@@ -1,6 +1,6 @@
 # Article 14
 
-I. ― A l'issue de chaque année calendaire, le gestionnaire du réseau public de distribution d'électricité procède à l'évaluation de la continuité globale, hors circonstances exceptionnelles, des tensions BT et HTA sur le réseau.A cette fin, il évalue le pourcentage d'utilisateurs dont les points de connexion connaissent dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues qui excède le seuil correspondant fixé dans l'arrêté mentionné à l'article 11. Quand le choix a été fait de différencier le niveau des exigences de qualité pour certaines zones géographiques du département, le gestionnaire du réseau public de distribution d'électricité procède à l'évaluation précitée séparément pour chacune des zones concernées.
+I. ― A l'issue de chaque année calendaire, le gestionnaire du réseau public de distribution d'électricité procède à l'évaluation de la continuité globale, hors circonstances exceptionnelles, des tensions BT et HTA sur le réseau.A cette fin, il évalue le pourcentage d'utilisateurs dont les points de connexion connaissent dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues qui excède le seuil correspondant fixé dans l'arrêté mentionné à l'article 11.
 
 Il transmet pour le 30 avril de l'année suivant la période évaluée les résultats de son évaluation aux autres gestionnaires de réseaux publics de distribution d'électricité du département.
 
