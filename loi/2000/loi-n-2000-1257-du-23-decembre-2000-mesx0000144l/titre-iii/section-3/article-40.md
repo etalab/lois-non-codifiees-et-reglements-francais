@@ -2,43 +2,33 @@
 
 I.-Il est créé un fonds pour la modernisation des établissements de santé publics et privés. Ce fonds est géré par la Caisse des dépôts et consignations.
 
-II.-Ce fonds finance des actions d'amélioration des conditions de travail des personnels des établissements de santé et d'accompagnement social de la modernisation des établissements de santé.
+II. (abrogé)
 
-A ce titre, il participe au financement :
-
-1° De contrats d'amélioration des conditions de travail ayant fait l'objet d'un accord négocié entre les responsables d'établissements et les organisations syndicales représentées au sein du comité technique d'établissement ;
-
-2° Des actions de modernisation sociale, notamment celles figurant dans le volet social des contrats d'objectifs et de moyens ;
-
-3° Des aides individuelles destinées à favoriser la mobilité et l'adaptation des personnels des établissements engagés dans des opérations de recomposition et de modernisation ou membres de communautés hospitalières de territoire mentionnées à l'article L. 6132-1 du même code.
-
-III.-Ce fonds finance des dépenses d'investissement et de fonctionnement des établissements de santé et des groupements de coopération sanitaire au moyen de subventions ou d'avances remboursables, dans le cadre d'opérations de modernisation et de restructuration de ces établissements et groupements, de réorganisation de l'offre de soins ou de création de communautés hospitalières de territoire mentionnées au même article L. 6132-1
+III.-Ce fonds finance des dépenses d'investissement des établissements de santé et des groupements de coopération sanitaire au moyen de subventions ou d'avances remboursables, dans le cadre d'opérations de modernisation et de restructuration de ces établissements et groupements, de réorganisation de l'offre de soins ou de création de communautés hospitalières de territoire mentionnées au même article L. 6132-1
 
 Il peut également financer des dépenses d'investissement d'établissements hospitaliers de coopération transfrontalière destinés à accueillir des patients résidant en France, ayant fait l'objet d'un accord avec le Gouvernement de la République française et dont les missions sont celles d'un établissement de santé tel que défini par le code de la santé publique. Ces établissements doivent répondre à des besoins de santé fixés par le schéma régional d'organisation sanitaire de la région frontalière.
 
-III bis. - Le fonds peut prendre en charge, dans la limite et selon des modalités définies par décret, le coût des ressources de conseil, de pilotage et d'accompagnement de la mise en œuvre des actions visant à améliorer la performance hospitalière.
+III bis. (abrogé)
 
-III ter.-Le fonds peut prendre en charge le financement des missions de conception des modalités de financement des activités de soins des établissements de santé et de conduite des expérimentations prévues au I de l'article 77 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 exercées par l'agence technique de l'information sur l'hospitalisation
+III ter.-Le fonds peut prendre en charge le financement des missions d'expertise exercées par l'Agence technique de l'information sur l'hospitalisation.
 
-III quater.-Le fonds prend en charge les frais de fonctionnement d'une mission d'expertise et d'audit hospitaliers placée auprès des ministres chargés de la santé et de la sécurité sociale, chargée de procéder ou de faire procéder à des audits de la gestion et de l'organisation de l'ensemble des activités des établissements de santé et de diffuser auprès de ces établissements des références et recommandations de gestion hospitalière.
+III quater. (abrogé)
 
-Le fonds prend également en charge les frais de fonctionnement d'une mission nationale d'appui à l'investissement, placée auprès du ministre chargé de la santé et de missions régionales ou interrégionales d'appui à l'investissement placées auprès des directeurs généraux d'agences régionales de santé.
+III quinquies.-Le fonds peut financer les missions d'ampleur nationale pilotées ou conduites au bénéfice des établissements de santé déléguées par le ministre chargé de la santé au groupement d'intérêt public chargé du développement des systèmes d'information de santé partagés, mentionné à l'
+article L. 1111-24 du code de la santé publique
+.
 
-IV.-Bénéficient du concours de ce fonds les actions mentionnées au II du présent article qui sont entreprises par des établissements publics de santé et des établissements de santé privés mentionnés aux b et c de l'article L. 162-22-6 du code de la sécurité sociale ayant fait l'objet d'un agrément par le ou les directeurs généraux d'agences régionales de santé compétents. Les établissements non visés par cet article peuvent également bénéficier, après agrément dans les conditions mentionnées précédemment, du concours du fonds dans le cadre d'opérations de coopération entre un ou plusieurs de ces établissements et un ou plusieurs établissements visés à l'article L. 174-1 du même code.
-
-Les sommes dues au titre des actions du fonds sont prescrites à son profit dès lors qu'elles n'ont pas fait l'objet soit d'un agrément ou d'une décision attributive de subvention, dans un délai d'un an à compter de la notification ou de la publication de l'acte de délégation des crédits du fonds, soit d'une demande de paiement justifiée dans un délai de trois ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. L'année de la constatation de la prescription, la totalité des sommes ainsi prescrites vient en diminution de la dotation de l'assurance maladie au fonds pour l'année en cours. Le montant de la dotation ainsi minoré est pris en compte en partie rectificative de la loi de financement de la sécurité sociale pour l'année suivante.
+IV.-Les sommes dues au titre des actions du fonds sont prescrites à son profit dès lors qu'elles n'ont pas fait l'objet soit d'un agrément ou d'une décision attributive de subvention, dans un délai d'un an à compter de la notification ou de la publication de l'acte de délégation des crédits du fonds, soit d'une demande de paiement justifiée dans un délai de trois ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. L'année de la constatation de la prescription, la totalité des sommes ainsi prescrites vient en diminution de la dotation de l'assurance maladie au fonds pour l'année en cours. Le montant de la dotation ainsi minoré est pris en compte en partie rectificative de la loi de financement de la sécurité sociale pour l'année suivante.
 
 L'alinéa précédent est applicable aux sommes déléguées antérieurement à la date de son entrée en vigueur.
 
-V.-Les ressources du fonds sont constituées par une participation des régimes obligatoires d'assurance maladie dont le montant est fixé chaque année par la loi de financement de la sécurité sociale et, pour 2001, à 600 millions de francs, ainsi que par le reversement des avances remboursables mentionnées au III. La répartition entre les différents régimes est effectuée dans les conditions définies par l'article L. 174-2 du code de la sécurité sociale.
+V.-Les ressources du fonds sont constituées par une participation des régimes obligatoires d'assurance maladie dont le montant est fixé chaque année par la loi de financement de la sécurité sociale et, pour 2001, à 600 millions de francs, ainsi que par le reversement des avances remboursables mentionnées au III. Le versement et la répartition entre les différents régimes sont réalisés dans des conditions fixées par décret.
 
 Les sommes apportées par les organismes de sécurité sociale et mentionnées à l'article L. 6161-3-2 du code de la santé publique sont versées au fonds.
 
 Le solde disponible du Fonds d'accompagnement social pour la modernisation des établissements de santé est versé au Fonds pour la modernisation des établissements de santé, à la date de sa création. Le montant de ce solde est constaté par arrêté interministériel.
 
-V bis. - L'attribution des financements relatifs aux actions prévues au II, au III pour les dépenses d'investissements immobiliers dont le montant est inférieur à un seuil fixé par arrêté du ministre chargé de la santé et au III bis est confiée aux agences régionales de santé dans des conditions fixées par décret. Ils peuvent être attribués sur une base pluriannuelle.
-
-Ces financements peuvent être affectés au financement des actions visées par l'article L. 221-1-1 du code de la sécurité sociale.
+V bis. (abrogé)
 
 VI.-Les modalités d'application du présent article sont déterminées par décret.
 
