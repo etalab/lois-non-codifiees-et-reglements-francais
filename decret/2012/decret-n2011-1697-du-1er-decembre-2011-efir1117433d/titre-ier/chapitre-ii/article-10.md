@@ -1,0 +1,5 @@
+# Article 10
+
+La demande d'autorisation ou de renouvellement d'autorisation ou d'autorisation de la modification d'une ligne directe existante est instruite dans les mêmes conditions et délais que ceux prévus à l'article 5.
+
+Toutefois, sans préjudice des dispositions de cet article, le préfet consulte le gestionnaire du réseau public de transport d'électricité et les gestionnaires des réseaux publics de distribution d'électricité dans la zone de desserte desquels se trouvent les utilisateurs de la ligne directe sur le respect des critères mentionnés aux 2° et 3° de l'article 8 ainsi que les autorités organisatrices de la distribution publique d'électricité compétentes. Ils disposent d'un mois pour se prononcer. Passé ce délai, leur avis est réputé donné. Lorsqu'il envisage de refuser l'autorisation, le préfet saisit pour avis la Commission de régulation de l'énergie et lui transmet le dossier. La commission dispose d'un délai de deux mois pour se prononcer. Passé ce délai, son avis est réputé donné.

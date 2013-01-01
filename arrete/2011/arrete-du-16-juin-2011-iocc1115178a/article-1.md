@@ -12,7 +12,7 @@ Chef du centre national de tir.
 
 Chef du CRF de Paris.
 
-Préfecture de police (55)
+Préfecture de police (59)
 
 Chef du service de sécurité de proximité du 1er arrondissement de Paris.
 
@@ -74,7 +74,7 @@ Chef du commissariat subdivisionnaire de Noisy-le-Sec à la DSPAP.
 
 Chef du commissariat subdivisionnaire de la Plaine Saint-Denis à la DSPAP.
 
-Chef de la section  enquêtes et recherches  au SDPJ 94.
+Chef de la section "enquêtes et recherches" au SDPJ 94.
 
 Chef de la section criminelle 2e DPJ.
 
@@ -124,7 +124,15 @@ Chef de la compagnie cynophile de l'agglomération.
 
 Chef du service de contrôle de gestion de la DSPAP.
 
-GAP de Versailles (21)
+Chef de la section enquêtes et recherches du SDPJ 93 à la DPJ.
+
+Chef du centre d'informations et de commandement à la DOPC.
+
+Chef du commissariat subdivisionnaire de Sevran à la DSPAP.
+
+Chef des unités d'appui opérationnel de la DTSP 93 à la DSPAP.
+
+SGAP de Versailles (24)
 
 Police aux frontières (5) :
 
@@ -164,23 +172,29 @@ Commandant CRS n° 8 : Bièvres.
 
 Commandant CRS n° 61 : Vélizy.
 
-Police judiciaire (2) :
+Police judiciaire (4) :
 
 Chef d'antenne de Melun.
 
 Chef GIR Cergy-Pontoise.
 
-Formation de la police nationale (1) :
+Chef GIR de Seine-et-Marne.
+
+Chef GIR de l'Essonne.
+
+Formation de la police nationale (2) :
 
 Chef du centre national de formation des unités cynotechniques.
+
+Chef du centre régional de formation de Draveil.
 
 Sécurité publique (1) :
 
 Chef du commissariat subdivisionnaire de Dammarie-les-Lys.
 
-SGAP de Marseille (28)
+SGAP de Marseille (32)
 
-Sécurité publique (5) :
+Sécurité publique (7) :
 
 Chef du SDIG à Avignon.
 
@@ -191,6 +205,10 @@ Chef du SDIG à Perpignan.
 Chef du SDIG à Digne.
 
 Chef du SDIG à Carcassonne.
+
+Chef du SDIG à Nîmes.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 05 Hautes-Alpes.
 
 Renseignement intérieur (6) :
 
@@ -206,13 +224,17 @@ Chef du SRI à Manosque.
 
 Chef du SRI à Porto-Vecchio.
 
-Police aux frontières (4) :
+Police aux frontières (6) :
 
 Directeur départemental de l'Aude.
 
 Directeur départemental de Haute-Corse.
 
 Directeur départemental du Gard.
+
+Directeur départemental du Var.
+
+Directeur départemental des Hautes-Alpes.
 
 Chef du CRA Marseille - Le Canet.
 
@@ -248,9 +270,9 @@ Formation de la police nationale (1) :
 
 Chef du CRF de Nice.
 
-SGAP de Bordeaux (36)
+SGAP de Bordeaux (43)
 
-Sécurité publique (10) :
+Sécurité publique (17) :
 
 Chef du SDIG à Rodez.
 
@@ -271,6 +293,20 @@ Chef du SDIG à Niort.
 Chef du SDIG à Montauban.
 
 Chef du SDIG à Foix.
+
+Chef du SDIG à Tarbes.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 12 Aveyron.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 24 Dordogne.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 47 Lot-et-Garonne.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 65 Hautes-Pyrénées.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 79 Deux-Sèvres.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 82 Tarn-et-Garonne.
 
 Renseignement intérieur (9) :
 
@@ -332,9 +368,9 @@ Police aux frontières (1) :
 
 Chef du CRA de Toulouse-Blagnac 2 Cornebarrieur.
 
-SGAP de Rennes (45)
+SGAP de Rennes (49)
 
-Sécurité publique (17) :
+Sécurité publique (20) :
 
 Chef SOPSR de Caen.
 
@@ -369,6 +405,12 @@ Chef du SDIG à Evreux.
 Chef du SDIG à Saint-Lô.
 
 Chef du SDIG à Blois.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 36 Indre.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 53 Mayenne.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 61 Orne.
 
 Renseignement intérieur (11) :
 
@@ -422,7 +464,7 @@ Commandant CRS n° 51 : Saran (Orléans).
 
 Commandant CRS n° 52 : Sancerre.
 
-Police judiciaire (4) :
+Police judiciaire (5) :
 
 Chef d'antenne du Havre.
 
@@ -432,13 +474,15 @@ Chef d'antenne de Tours.
 
 Chef GIR Centre.
 
+Chef GIR de la Région Bretagne.
+
 Formation de la police nationale (1) :
 
 Chef du CRF Tours.
 
-SGAP de Metz (34)
+SGAP de Metz (42)
 
-Sécurité publique (8) :
+Sécurité publique (14) :
 
 Chef du SDIG à Vesoul.
 
@@ -455,6 +499,18 @@ Chef du SDIG à Auxerre.
 Chef du SDIG à Macon.
 
 Chef du SDIG à Troyes.
+
+Chef du SDIG à Mulhouse.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 39 Jura.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 52 Haute-Marne.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 55 Meuse.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 70 Haute-Saône.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 88 Vosges.
 
 Renseignement intérieur (9) :
 
@@ -508,21 +564,27 @@ Commandant CRS n° 44 : Joigny.
 
 Commandant CRS autoroutière Lorraine-Alsace Metz.
 
-Police judiciaire (2) :
+Police judiciaire (3) :
 
 Chef d'antenne d'Auxerre.
 
 Chef GIR Alsace.
 
-Formation de la police nationale (1) :
+Chef GIR de la Région Bourgogne.
+
+Formation de la police nationale (2) :
 
 Chef du CRF Dijon.
 
-SGAP de Lille (12)
+Chef du Centre national de formation motocycliste à Sens.
 
-Sécurité publique (1) :
+SGAP de Lille (13)
+
+Sécurité publique (2) :
 
 Chef du SDIG à Laon.
+
+Chef du SDIG à Beauvais.
 
 Renseignement intérieur (2) :
 
@@ -554,9 +616,9 @@ Chef d'antenne d'Amiens.
 
 Chef d'antenne de Coquelles.
 
-SGAP de Lyon (29)
+SGAP de Lyon (31)
 
-Sécurité publique (7) :
+Sécurité publique (8) :
 
 Chef du commissariat subdivisionnaire de Décines-Meyzieu (SP Lyon).
 
@@ -571,6 +633,8 @@ Chef du SDIG à Chambéry.
 Chef du SDIG à Valence.
 
 Chef du SDIG à Moulins.
+
+Chef du service départemental de soutien opérationnel et logistique, directeur départemental de la sécurité publique ou directeur de la sécurité adjoint à la DDSP 01 Ain.
 
 Renseignement intérieur (5) :
 
@@ -614,7 +678,7 @@ Commandant CRS : CNEAS Chamonix.
 
 Commandant CRS : Montagnes-Alpes.
 
-Police judiciaire (3) :
+Police judiciaire (4) :
 
 Chef d'antenne de Chambéry.
 
@@ -622,11 +686,13 @@ Chef d'antenne de Valence.
 
 Chef d'antenne de Saint-Etienne.
 
+Chef GIR de l'Isère.
+
 Formation de la police nationale (1) :
 
 Chef du centre de Chassieu.
 
-SATPN de la Guadeloupe (2)
+SATPN de la Guadeloupe (3)
 
 Sécurité publique (1) :
 
@@ -635,6 +701,10 @@ Chef du SDIG à Pointe-à-Pitre.
 Renseignement intérieur (1) :
 
 Chef du SRI à Marigot (Saint-Martin).
+
+Police judiciaire (1)
+
+Chef GIR de Guadeloupe.
 
 SATPN de la Martinique (1)
 

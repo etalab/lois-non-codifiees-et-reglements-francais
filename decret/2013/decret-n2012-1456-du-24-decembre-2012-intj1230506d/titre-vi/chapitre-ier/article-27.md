@@ -1,0 +1,3 @@
+# Article 27
+
+Sans préjudice des dispositions prévues au deuxième alinéa de l'article L. 4139-13 du code de la défense, les officiers du corps technique et administratif de la gendarmerie nationale ne pouvant pas bénéficier d'une pension de retraite dans les conditions fixées par les dispositions du II de l'article L. 24 du code des pensions civiles et militaires de retraite peuvent déposer une demande de démission. Dans ce cas, le ministre de l'intérieur est tenu d'agréer une demande de démission dès lors que le nombre total des demandes de démission ne représente pas un nombre au moins égal à 5 %, arrondi à l'unité supérieure, des nominations effectuées chaque année au premier grade du corps.

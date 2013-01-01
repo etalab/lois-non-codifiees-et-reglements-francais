@@ -12,4 +12,4 @@ Flottille 17 F ;
 
 Détachement d'hélicoptères de sauvetage de la flottille 35 F (dans la limite de 23 ayants droit) ;
 
-CEIPM Landivisiau.
+Centre d'expertise du groupe aérien embarqué (CENTEX GAé).

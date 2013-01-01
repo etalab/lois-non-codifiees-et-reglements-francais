@@ -1,0 +1,3 @@
+# Article 11
+
+Les dossiers de candidature au concours comprennent les pièces exigées à l'article 9 du décret du 20 novembre 1985 susvisé et un certificat médical délivré par un médecin de sapeurs-pompiers, en application de l'arrêté du 6 mai 2000 fixant les conditions d'aptitude médicale des sapeurs-pompiers professionnels et volontaires et les conditions d'exercice de la médecine professionnelle et préventive au sein des services départementaux d'incendie et de secours, attestant que le candidat remplit les conditions d'aptitude physique prévues à l'article 4 du décret du 25 septembre 1990 susvisé.

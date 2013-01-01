@@ -16,7 +16,7 @@ Toutefois, les emplois de sous-directeur des services centraux de l'administrati
 
 1) Pour deux nominations sur trois, par des agents appartenant à la 2me classe depuis six ans au moins et inscrits au tableau d'avancement ;
 
-2) Pour une nomination sur trois en faisant appel aux fonctionnaires de l'Etat qui remplissent les conditions requises par l'article 3 du décret modifié n° 55-1226 du 19 septembre 1955 pour l'accès aux emplois de chef de service, de directeur adjoint ou de sous-directeur des administrations centrales de l'Etat.
+2) Pour une nomination sur trois en faisant appel aux fonctionnaires de l'Etat qui remplissent les conditions requises par le décret n° 2012-32 du 9 janvier 2012 relatif aux emplois de chef de service et de sous-directeur des administrations de l'Etat.
 
 II. - Peuvent être nommés aux emplois de la 2ème classe :
 

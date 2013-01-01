@@ -2,16 +2,22 @@
 
 La liste des organismes de la navigation aérienne réorganisés prévue à l'article 2 de l'arrêté du 3 août 2010 susvisé s'établit comme suit :
 
-― centre en route de la navigation aérienne Est ;
+- centre en route de la navigation aérienne Est ;
 
-― centre en route de la navigation aérienne Ouest ;
+- centre en route de la navigation aérienne Ouest ;
 
-― centre en route de la navigation aérienne Sud-Ouest ;
+- centre en route de la navigation aérienne Sud-Ouest ;
 
-― centre d'exploitation des systèmes de navigation aérienne centraux (CESNAC) ;
+- centre d'exploitation des systèmes de navigation aérienne centraux (CESNAC) ;
 
-― Lyon-Saint-Exupéry ;
+- centre en route de la navigation aérienne Nord ;
 
-― Nice-Côte d'Azur ;
+- centre en route de la navigation aérienne Sud-Est ;
 
-― Orly Aviation générale de la région parisienne.
+- Lyon-Saint-Exupéry ;
+
+- Nice-Côte d'Azur ;
+
+- Orly Aviation générale de la région parisienne ;
+
+- direction de la technique et de l'innovation (DTI).

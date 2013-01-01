@@ -1,19 +1,19 @@
 # Article 3
 
-Les personnels mentionnés à l'article 1er font l'objet d'un entretien annuel.
+L'entretien professionnel est conduit par le supérieur hiérarchique direct. La date de l'entretien est fixée au moins huit jours à l'avance pour permettre à l'agent et au supérieur hiérarchique direct de le préparer.
 
-L'entretien est conduit par le supérieur hiérarchique direct. Il porte sur :
+Il porte principalement sur :
 
-― les résultats professionnels obtenus l'année précédente par l'agent au regard des objectifs qui lui ont été assignés et des conditions d'organisation et de fonctionnement du service dont il relève ;
+- les résultats professionnels obtenus l'année précédente par l'agent, au regard des objectifs qui lui ont été assignés et des conditions d'organisation et de fonctionnement du service dont il relève ;
 
-― les objectifs assignés à l'agent pour l'année suivante et les moyens nécessaires à leur réalisation, compte tenu, le cas échéant, des perspectives d'évolution de l'organisation du service et de son fonctionnement ;
+- les objectifs assignés à l'agent pour l'année à venir et les perspectives d'amélioration de ses résultats professionnels, compte tenu, le cas échéant, des perspectives d'évolution de l'organisation du service et de son fonctionnement ;
 
-― la manière de servir de l'agent ;
+- la manière de servir de l'agent ;
 
-― les acquis de son expérience professionnelle ;
+- les acquis de son expérience professionnelle ;
 
-― le bilan des formations suivies par l'agent ainsi que les actions à inscrire à son bénéfice au plan de formation de l'année suivante, eu égard notamment aux missions qui lui sont imparties et aux compétences qu'il doit acquérir ;
+- le cas échéant, la manière dont il exerce les fonctions d'encadrement qui lui ont été confiées ;
 
-― les perspectives d'évolution professionnelle en termes de mobilité et, pour les fonctionnaires, en termes de carrière.
+- le bilan des formations suivies par l'agent ainsi que les besoins de formation de l'agent eu égard notamment aux missions qui lui sont imparties, aux compétences qu'il doit acquérir et à son projet professionnel ;
 
-La date de l'entretien est fixée au moins huit jours à l'avance pour permettre à l'agent et au supérieur hiérarchique de le préparer.
+- les perspectives d'évolution professionnelle de l'agent en termes de carrière et de mobilité.

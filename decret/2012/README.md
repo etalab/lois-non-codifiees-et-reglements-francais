@@ -1080,6 +1080,7 @@
 - [Décret n°2012-929 du 31 juillet 2012 (DEFD1221996D)](decret-n2012-929-du-31-juillet-2012-defd1221996d)
 - [Décret n°97-775 du 31 juillet 1997 (ECOR9704314D)](decret-n97-775-du-31-juillet-1997-ecor9704314d)
 - [Décret n°2012-786 du 31 mai 2012 (AFSA1224249D)](decret-n2012-786-du-31-mai-2012-afsa1224249d)
+- [Décret n°2011-1697 du 1er décembre 2011 (EFIR1117433D)](decret-n2011-1697-du-1er-decembre-2011-efir1117433d)
 - [Décret n°2011-930 du 1er août 2011 (EFII1108330D)](decret-n2011-930-du-1er-aout-2011-efii1108330d)
 - [Décret n°2012-1102 du 1er octobre 2012 (TRAT1203417D)](decret-n2012-1102-du-1er-octobre-2012-trat1203417d)
 - [Décret n°2012-1109 du 1er octobre 2012 (INTD1201840D)](decret-n2012-1109-du-1er-octobre-2012-intd1201840d)

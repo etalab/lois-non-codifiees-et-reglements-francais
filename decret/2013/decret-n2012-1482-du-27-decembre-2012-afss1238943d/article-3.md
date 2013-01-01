@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque le contrôle des arrêts de travail dus à une maladie d'origine non professionnelle ou à un congé maternité des salariés de la chambre de commerce et d'industrie de région Paris Ile-de-France qui relevaient antérieurement au 1er janvier 2013 du régime spécial d'assurance maladie de la chambre de commerce et d'industrie de Paris est confié, par une convention conclue entre la chambre de commerce et d'industrie de région Paris Ile-de-France et la Caisse nationale de l'assurance maladie des travailleurs salariés, aux caisses primaires d'assurance maladie et aux services du contrôle médical placés auprès d'elles, cette convention prévoit le remboursement des frais engagés.

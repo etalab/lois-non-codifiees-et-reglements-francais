@@ -3,43 +3,30 @@
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE L'EMPLOI <p>justifiant de l'obtention de la nouvelle bonification indiciaire <br/>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI JUSTIFIANT DE L'OBTENTION </p>
+<p align="center">de la nouvelle bonification indiciaire </p>
+</td>
+<td>
+<p align="center">NIVEAU DE L'EMPLOI </p>
+<p align="center">justifiant de l'obtention </p>
+<p align="center">de la nouvelle </p>
+<p align="center">bonification indiciaire </p>
+</td>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS </p>
+<p align="center">éligibles <br/>
 </p>
-</th>
-<th>
-<br/>NIVEAU DE L'EMPLOI <p>justifiant de l'obtention </p>
-<p>de la nouvelle </p>
-<p>bonification indiciaire <br/>
-</p>
-</th>
-<th>
-<p>NOMBRE D'EMPLOIS </p>
-<p>éligibles <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi </p>
-<p>(points en indice majoré) <br/>
-</p>
-</th>
+</td>
+<td>
+<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
+<p align="center">(points en indice majoré)</p>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>Responsable du budget et/ ou du contrôle de gestion et/ ou des moyens généraux et/ ou du service du personnel et/ ou du contentieux d'une direction <br/>
-</td>
-<td align="center">
-<br/>A <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (CNRACL) <br/>
 </td>
 <td align="center">
 <br/>A <br/>
@@ -87,7 +74,7 @@
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>4 <br/>
+<br/>3 <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -101,7 +88,7 @@
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>50 <br/>
+<br/>46 <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -115,7 +102,7 @@
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<br/>3 <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -151,7 +138,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Développeur d'applications sur INFO SERVICE <br/>
+<br/>Développeur d'applications sur Info Service <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -199,7 +186,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>2 <br/>
 </td>
 <td align="center">
 <br/>25 <br/>
@@ -235,7 +222,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du secteur des affaires générales ou directeurs administratifs adjoints du Comité social du groupe <br/>
+<br/>Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -277,13 +264,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien des opérations post marché ou d'opérations bancaires et/ ou financières sur secteurs prioritaires <br/>
+<br/>Technicien des opérations post-marché ou d'opérations bancaires et/ ou financières sur secteurs prioritaires <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>42 <br/>
+<br/>41 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -311,21 +298,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>23 <br/>
-</td>
-<td align="center">
-<br/>20 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Technicien d'actuariat informatique <br/>
-</td>
-<td align="center">
-<br/>B <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
+<br/>24 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -367,7 +340,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>6 <br/>
+<br/>8 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -381,7 +354,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>32 <br/>
+<br/>39 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -395,7 +368,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>50 <br/>
+<br/>56 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -403,13 +376,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière <br/>
+<br/>Assistant de contrôle budgétaire et/ ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>36 <br/>
+<br/>37 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -459,20 +432,6 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Recruteur et gestionnaire des personnels non permanents <br/>
-</td>
-<td align="center">
-<br/>B <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>20 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral <br/>
 </td>
 <td align="center">
@@ -501,13 +460,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions "système" <br/>
+<br/>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>6 <br/>
+<br/>5 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -535,7 +494,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>5 <br/>
+<br/>6 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -577,7 +536,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>30 <br/>
+<br/>32 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -605,7 +564,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>4 <br/>
+<br/>3 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -661,7 +620,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>75 <br/>
+<br/>71 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -669,7 +628,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisses de retraites de Bordeaux <br/>
+<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -683,13 +642,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux <br/>
+<br/>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche caisses de retraites de Bordeaux <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>17 <br/>
+<br/>18 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -703,7 +662,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>164 <br/>
+<br/>158 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -717,7 +676,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>8 <br/>
+<br/>6 <br/>
 </td>
 <td align="center">
 <br/>15<br/>

@@ -21,7 +21,7 @@
 <p>Responsable du secrétariat particulier du directeur de l'Institut</p>
 </td>
 <td>
-<p align="center">B</p>
+<p align="center">B ou C</p>
 </td>
 <td>
 <p align="center">1</p>
@@ -87,17 +87,31 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td>
 <p>Correspondant formation</p>
 </td>
-<td rowspan="2">
+<td>
 <p align="center">B</p>
 </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p align="center">0</p>
+<p>Régisseur d'avances et de recettes </p>
 </td>
 <td rowspan="2">
-<p align="center">20</p>
+<p align="center">B ou C</p>
+</td>
+<td rowspan="2">
+<p align="center">5</p>
+</td>
+<td rowspan="2">
+<p align="center">15</p>
 </td>
 </tr>
 </tbody>

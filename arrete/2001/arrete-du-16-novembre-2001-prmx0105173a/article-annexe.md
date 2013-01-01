@@ -32,7 +32,7 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tr>
 <tr>
 <td>
-<p>Directeur général de l'administration et de la fonction publique, délégué interministériel à la réforme de l'Etat </p>
+<p>Directeur général de l'administration et de la fonction publique, <br/>délégué interministériel à la réforme de l'Etat </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -65,8 +65,9 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tr>
 <tr>
 <td>Directeur de l'information légale et administrative</td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<p>1<br/>
+</p>
 </td>
 <td>
 <p align="center">150 </p>
@@ -74,8 +75,9 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tr>
 <tr>
 <td>Chef de service à la direction de l'information légale et administrative</td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<p>1<br/>
+</p>
 </td>
 <td>
 <p align="center">130 </p>
@@ -128,15 +130,17 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 <tr>
 <td>Chef de service, directeur de l'académie du renseignement</td>
 <td>
-<p align="center">1</p>
+<br/>
+<div align="center">1<br/>
+</div>
 </td>
 <td>
-<p align="center">110</p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef de service, adjoint au délégué à la modernisation de la gestion publique et des structures de l'Etat, </p>
+<p>Chef de service, adjoint au délégué à la modernisation de la gestion publique <br/>et des structures de l'Etat, </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -169,7 +173,7 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'information et de la légistique, des carrières et des rémunérations et sous-directeur des politiques interministérielles à la direction de l'administration et de la fonction publique </p>
+<p>Sous-directeur de l'information et de la légistique, des carrières et des rémunérations <br/>et sous-directeur des politiques interministérielles à la direction de l'administration <br/>et de la fonction publique </p>
 </td>
 <td>
 <p align="center">3 </p>
@@ -180,17 +184,24 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tr>
 <tr>
 <td>Sous-directeur à la direction de l'information légale et administrative</td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<p>1<br/>
+</p>
 </td>
 <td>
 <p align="center">110 </p>
 </td>
 </tr>
 <tr>
+<td>Expert de haut niveau auprès du directeur de l'information légale <br/>et administrative chargé de l'innovation, du développement et de la stratégie </td>
+<td align="center">1</td>
+<td align="center">90</td>
+</tr>
+<tr>
 <td>Secrétaire général de la direction de l'information légale et administrative</td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<p>1<br/>
+</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -220,12 +231,10 @@ B.-Fonctions exercées au secrétariat général de la défense et de la sécuri
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -298,7 +307,7 @@ B.-Fonctions exercées au secrétariat général de la défense et de la sécuri
 </tbody>
 </table>
 
-C.-Fonctions exercées au Centre d'analyse stratégique
+C.-Fonctions exercées au Commissariat général à la stratégie et à la prospective
 
 <table>
 <tbody>
@@ -308,18 +317,16 @@ C.-Fonctions exercées au Centre d'analyse stratégique
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur général du Centre d'analyse stratégique </p>
+<p>Commissaire général à la stratégie et à la prospective </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -330,7 +337,7 @@ C.-Fonctions exercées au Centre d'analyse stratégique
 </tr>
 <tr>
 <td rowspan="2">
-<p>Chef de service, adjoint du directeur général</p>
+<p>Chef de service, adjoint du directeur général </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -352,22 +359,20 @@ D.-Fonctions exercées à la Délégation à l'aménagement du territoire et à 
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
-<td> Chef de service, chargé de la prospective, des études de l'évaluation et de l'action internationale </td>
+<td>Chef de service, chargé de la prospective, des études de l'évaluation <br/>et de l'action internationale </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center"> 110</p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>

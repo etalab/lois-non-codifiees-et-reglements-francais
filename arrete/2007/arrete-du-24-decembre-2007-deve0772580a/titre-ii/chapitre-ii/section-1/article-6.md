@@ -16,8 +16,6 @@ II.-Au sens du présent arrêté, la consolidation de l'évaluation de la contin
 
 -volet b : le pourcentage d'utilisateurs mal alimentés du département, déterminé par mise en commun de l'ensemble des " volets a " des réseaux publics de distribution d'électricité du département.
 
-Le cas échéant, les volets a et b sont établis pour chaque catégorie de zone géographique.
-
 III.-Lorsque la consolidation visée au II fait ressortir pour les volets a et b sur le même critère un pourcentage d'utilisateurs connaissant dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues strictement supérieurs aux valeurs limites autorisées qui dépasse 5 %, le niveau de qualité de ce réseau est réputé non respecté.
 
 IV.-Le tableau ci-après donne des exemples de mise en oeuvre des dispositions du présent article dans différents cas de figure :
@@ -27,116 +25,78 @@ IV.-Le tableau ci-après donne des exemples de mise en oeuvre des dispositions d
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="3">RÉSULTATS DE L'ÉVALUATION CONSOLIDÉE <br/>
-</th>
-</tr>
-<tr>
-<th>EXEMPLES DE DIFFÉRENTS <br/>cas de figure <br/>
-</th>
-<th>Volet a <br/>(Pourcentage d'utilisateurs du réseau mal alimentés, c'est-à-dire connaissant dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues supérieur à la valeur limite fixée à l'article 7) (*) <br/>
-</th>
-<th>Volet b <br/>(Pourcentage d'utilisateurs du département mal alimentés, c'est-à-dire connaissant dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues supérieur à la valeur limite fixée à l'article 7) <br/>
-</th>
-<th>COMMENTAIRES <br/>
-</th>
-</tr>
-<tr>
-<td align="center" rowspan="3">Cas de figure 1 <br/>(niveau des exigences de qualité différencié selon des zones géographiques). <br/>
+<td rowspan="2">
+<p align="center">EXEMPLES DE DIFFÉRENTS <br/>cas de figure</p>
 </td>
-<td align="center">Zone A : 4 % <br/>
+<td colspan="2">
+<p align="center">RÉSULTATS DE L'ÉVALUATION CONSOLIDÉE</p>
 </td>
-<td align="center">Zone A : 4 % <br/>
-</td>
-<td align="center">Niveau de qualité respecté. <br/>
+<td rowspan="2">
+<p align="center">COMMENTAIRES </p>
 </td>
 </tr>
 <tr>
-<td align="center">Zone B : 4, 5 % <br/>
+<td>
+<p align="center">Volet a</p>
+<p align="center"> (pourcentage d'utilisateurs du réseau mal alimentés, c'est-à-dire connaissant dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues supérieurs à la valeur limite fixée à l'article 7) </p>
 </td>
-<td align="center">Zone B : 6 % <br/>
-</td>
-<td align="center">Niveau de qualité respecté. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Zone de base : 8 % <br/>
-</td>
-<td align="center">Zone de base : 7 % <br/>
-</td>
-<td align="center">Niveau de qualité non respecté. <br/>
+<td>
+<p align="center">Volet b</p>
+<p align="center"> (pourcentage d'utilisateurs du département mal alimentés c'est-à-dire connaissant dans l'année un nombre de coupures longues ou un nombre de coupures brèves ou une durée cumulée des coupures longues supérieurs à la valeur limite fixée à l'article 7) </p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">Cas de figure 2 <br/>(niveau des exigences de qualité différencié selon des zones géographiques). <br/>
+<td>
+<p align="center">
+<br/>Cas de figure 1 </p>
 </td>
-<td align="center">Zone A : 4 % <br/>
+<td>
+<p align="center">
+<br/>4,5 % </p>
 </td>
-<td align="center">Zone A : 4, 5 % <br/>
+<td>
+<p align="center">
+<br/>4 % </p>
 </td>
-<td align="center">Niveau de qualité respecté. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Zone de base : 7 % <br/>
-</td>
-<td align="center">Zone de base : 6 % <br/>
-</td>
-<td align="center">Niveau de qualité non respecté. <br/>
-</td>
-</tr>
-<tr>
-<td align="center" rowspan="2">Cas de figure 3 <br/>(niveau des exigences de qualité différencié selon des zones géographiques). <br/>
-</td>
-<td align="center">Zone B : 6 % <br/>
-</td>
-<td align="center">Zone B : 4, 5 % <br/>
-</td>
-<td align="center">Niveau de qualité respecté. <br/>
+<td>
+<p align="center">
+<br/>Niveau de qualité respecté </p>
 </td>
 </tr>
 <tr>
-<td align="center">Zone de base : 4, 5 % <br/>
+<td>
+<p align="center">
+<br/>Cas de figure 2 </p>
 </td>
-<td align="center">Zone de base : 6 % <br/>
+<td>
+<p align="center">
+<br/>5,2 % </p>
 </td>
-<td align="center">Niveau de qualité respecté. <br/>
+<td>
+<p align="center">
+<br/>4,8 % </p>
 </td>
-</tr>
-<tr>
-<td align="center">Cas de figure 4 <br/>(niveau des exigences de qualité non différencié). <br/>
-</td>
-<td align="center">4, 5 % <br/>
-</td>
-<td align="center">4 % <br/>
-</td>
-<td align="center">Niveau de qualité respecté. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Cas de figure 5 <br/>(niveau des exigences de qualité non différencié). <br/>
-</td>
-<td align="center">5, 2 % <br/>
-</td>
-<td align="center">4, 8 % <br/>
-</td>
-<td align="center">Niveau de qualité respecté. <br/>
+<td>
+<p align="center">
+<br/>Niveau de qualité respecté </p>
 </td>
 </tr>
 <tr>
-<td align="center">Cas de figure 6 <br/>(niveau des exigences de qualité non différencié). <br/>
+<td>
+<p align="center">
+<br/>Cas de figure 3 </p>
 </td>
-<td align="center">6 % <br/>
+<td>
+<p align="center">
+<br/>6 % </p>
 </td>
-<td align="center">5, 2 % <br/>
+<td>
+<p align="center">
+<br/>5,2 % </p>
 </td>
-<td align="center">Niveau de qualité non respecté. <br/>
-</td>
-</tr>
-<tr>
-<td colspan="4">(*) Un même réseau peut être concerné par des communes en zone A et d'autres en zone B ou en zone de base.<br/>
+<td>
+<p align="center">
+<br/>Niveau de qualité non respecté</p>
 </td>
 </tr>
 </tbody>

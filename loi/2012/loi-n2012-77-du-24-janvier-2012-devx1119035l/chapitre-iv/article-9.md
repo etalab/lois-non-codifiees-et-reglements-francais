@@ -1,0 +1,19 @@
+# Article 9
+
+I. ― Jusqu'à la constitution du comité technique unique de Voies navigables de France et des comités techniques uniques de proximité, prévus aux I et II de l'article L. 4312-3-2 du code des transports, qui intervient au plus tard deux ans après la date d'effet du transfert de services à l'établissement :
+
+1° Dans des conditions fixées par décret en Conseil d'Etat, les organisations syndicales représentatives des personnels dans les services de l'Etat visés à l'article 7 désignent, en fonction de la représentativité de ces organisations au sein de ces services, dix représentants, interlocuteurs du directeur général de Voies navigables de France pour les questions relevant des comités techniques prévus à l'article 15 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
+
+2° Le mandat des membres du comité d'entreprise en fonction à la date du transfert de services à l'établissement se poursuit jusqu'à son terme dans les conditions prévues par le code du travail ;
+
+3° Les comités techniques des services transférés sont maintenus en fonction. Les directeurs des services territoriaux de l'établissement peuvent, pendant cette période transitoire, les réunir sous leur présidence. Les membres de ces instances représentatives du personnel poursuivent leur mandat jusqu'aux prochaines élections des représentants du personnel siégeant au sein des instances prévues aux I et II de l'article L. 4312-3-2 du code des transports.
+
+II. ― Jusqu'à la constitution du comité central d'hygiène, de sécurité et des conditions de travail et des comités locaux d'hygiène, de sécurité et des conditions de travail prévus au III du même article L. 4312-3-2, qui intervient au plus tard un an après la date d'effet du transfert de services à Voies navigables de France :
+
+1° Dans des conditions fixées par décret en Conseil d'Etat, les organisations syndicales représentatives des personnels dans les services de l'Etat visés à l'article 7 désignent, en fonction de leur représentativité au sein de ces services, dix représentants, interlocuteurs du directeur général de Voies navigables de France pour les questions d'hygiène et de sécurité ;
+
+2° Les comités d'hygiène et de sécurité de Voies navigables de France et des services transférés sont maintenus en fonction. Les directeurs des services territoriaux de l'établissement peuvent, pendant cette période transitoire, les réunir sous leur présidence. Les membres de ces instances représentatives du personnel poursuivent leur mandat jusqu'aux prochaines élections des représentants du personnel siégeant au sein des instances prévues au III de l'article L. 4312-3-2 du code des transports.
+
+III. ― Le mandat des délégués du personnel en fonction à la date du transfert de services mentionné à l'article 7 se poursuit jusqu'à son terme dans les conditions prévues par le code du travail.
+
+IV. ― Les élections des représentants du personnel au conseil d'administration, dans sa composition issue de l'article L. 4312-1 du code des transports tel que modifié par la présente loi, sont organisées au plus tard un an après la date d'effet du transfert de services. Dans ce délai et jusqu'à la proclamation des résultats de ces élections, le mandat des représentants du personnel de l'établissement en fonction à la date du transfert est prorogé. Les représentants au conseil d'administration du personnel des services transférés sont désignés par décret sur proposition des organisations syndicales représentatives au sein des services mentionnés à l'article 7 et en fonction de la représentativité de chacune de ces organisations, dans des conditions définies par décret en Conseil d'Etat. Les représentants du personnel élus au conseil d'administration siègent dès leur élection et leur mandat prend fin à la même date que celui des membres nommés.

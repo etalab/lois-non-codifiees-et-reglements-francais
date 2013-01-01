@@ -5,202 +5,166 @@ Les nombres maximaux de coupures longues et brèves dans l'année ainsi que la d
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>NOMBRE DE COUPURES <br/>
-<br/>longues par année <br/>
-</th>
-<th>
-<br/>NOMBRE DE COUPURES <br/>
-<br/>brèves par année <br/>
-</th>
-<th>
-<br/>DURÉE CUMULÉE ANNUELLE <br/>
-<br/>des coupures longues <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Zones interconnectées au réseau public de transport d'électricité où le niveau des exigences de qualité est différentié par zone géographique. - Zone A <br/>
+<td/>
+<td>
+<p align="center"> NOMBRE DE COUPURES<br/>longues par année</p>
 </td>
-<td align="center">
-<br/>4 <br/>
+<td>
+<p align="center"> NOMBRE DE COUPURES<br/>brèves par année</p>
 </td>
-<td align="center">
-<br/>12 <br/>
-</td>
-<td align="center">
-<br/>6 heures <br/>
+<td>
+<p align="center"> DURÉE CUMULÉE ANNUELLE<br/>des coupures longues</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zones interconnectées au réseau public de transport d'électricité où le niveau des exigences de qualité est différentié par zone géographique. - Zone B <br/>
+<p align="left">
+<br/>Zones interconnectées au réseau public de transport d'électricité</p>
 </td>
 <td align="center">
-<br/>5 <br/>
+<br/>6<br/>
 </td>
 <td align="center">
-<br/>20 <br/>
+<br/>35<br/>
 </td>
 <td align="center">
-<br/>10 heures <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zones interconnectées au réseau public de transport d'électricité où le niveau des exigences de qualité est différentié par zone géographique. - Zone de base <br/>
-</td>
-<td align="center">
-<br/>7 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-<td align="center">
-<br/>20 heures <br/>
+<br/>13 heures<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zones interconnectées au réseau public de transport d'électricité où le niveau des exigences de qualité n'est pas différentié par zone géographique <br/>
+<p align="left">
+<br/>Corse</p>
 </td>
 <td align="center">
-<br/>6 <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>35 <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>13 heures <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone de base Corse <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone de base Guadeloupe <br/>
+<p align="left">
+<br/>Guadeloupe</p>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone de base Martinique <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone de base Saint-Barthélemy <br/>
+<p align="left">
+<br/>Martinique</p>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone de base Saint-Martin <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone de base Guyane <br/>
+<p align="left">
+<br/>Saint-Barthélemy</p>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone de base La Réunion <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
-</td>
-<td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone de base Saint-Pierre-et-Miquelon <br/>
+<p align="left">
+<br/>Saint-Martin</p>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone de base Mayotte <br/>
+<p align="left">
+<br/>Guyane</p>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé <br/>
+<br/>Réservé<br/>
 </td>
 <td align="center">
-<br/>Réservé</td>
+<br/>Réservé<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>La Réunion</p>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Saint-Pierre-et-Miquelon</p>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Mayotte</p>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
+<td align="center">
+<br/>Réservé<br/>
+</td>
 </tr>
 </tbody>
 </table>

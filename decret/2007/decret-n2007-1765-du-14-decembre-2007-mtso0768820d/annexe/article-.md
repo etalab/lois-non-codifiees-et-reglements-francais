@@ -15,3 +15,5 @@ D'UNE NOUVELLE BONIFICATION INDICIAIRE
 5. Responsable du centre de documentation.
 
 6. Correspondant formation.
+
+7. Régisseur d'avances et de recettes.

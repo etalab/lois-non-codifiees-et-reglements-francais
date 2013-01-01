@@ -1,0 +1,3 @@
+# Article 7
+
+A compter du 1er janvier 2013, les services ou parties de services déconcentrés du ministère chargé des transports et les services ou parties de services déconcentrés relevant du Premier ministre, nécessaires à l'exercice des missions confiées à Voies navigables de France et mis à sa disposition, ainsi que les parties de ces services chargées des fonctions de support, notamment en matière de gestion administrative et financière, lui sont transférés. Il en va de même des services ou parties de services faisant l'objet d'une convention d'expérimentation prévue par la loi n° 2004-809 du 13 août 2004 précitée.
