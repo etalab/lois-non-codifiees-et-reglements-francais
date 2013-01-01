@@ -1979,7 +1979,6 @@
 - [Arrêté du 21 décembre 2011 (DEFM1135672A)](arrete-du-21-decembre-2011-defm1135672a)
 - [Arrêté du 21 décembre 2011 (DEVP1134062A)](arrete-du-21-decembre-2011-devp1134062a)
 - [Arrêté du 21 décembre 2011 (DEVR1135850A)](arrete-du-21-decembre-2011-devr1135850a)
-- [Arrêté du 21 décembre 2011 (EFIC1134284A)](arrete-du-21-decembre-2011-efic1134284a)
 - [Arrêté du 21 décembre 2011 (ETSS1135035A)](arrete-du-21-decembre-2011-etss1135035a)
 - [Arrêté du 21 décembre 2011 (IOCC1134994A)](arrete-du-21-decembre-2011-iocc1134994a)
 - [Arrêté du 21 décembre 2011 (IOCD1132343A)](arrete-du-21-decembre-2011-iocd1132343a)
