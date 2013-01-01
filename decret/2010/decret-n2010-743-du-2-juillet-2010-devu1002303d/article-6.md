@@ -12,7 +12,7 @@ Le préfet des Hauts-de-Seine peut soumettre au conseil d'administration toute q
 
 La convocation du conseil d'administration est de droit si la moitié des membres au moins ou les représentants de l'Etat en adressent la demande écrite à son président.
 
-Le préfet des Hauts-de-Seine ou son représentant, l'autorité chargée du contrôle économique et financier et l'agent comptable assistent de droit aux séances du conseil d'administration. Les procès-verbaux et délibérations leur sont adressés.
+Le préfet des Hauts-de-Seine ou son représentant,        le contrôleur budgétaire et l'agent comptable assistent de droit aux séances du conseil d'administration. Les procès-verbaux et délibérations leur sont adressés.
 
 Le préfet des Hauts-de-Seine est entendu par le conseil d'administration à chaque fois qu'il le demande.
 

@@ -4,7 +4,7 @@ Le conseil de la formation transmet au préfet de région ainsi qu'au ministre c
 
 a) Un état comportant les renseignements statistiques et financiers permettant de suivre son fonctionnement, la réalisation des programmes d'intervention et l'emploi des fonds collectés ;
 
-b) Un compte financier établi par l'agent comptable et visé par l'ordonnateur dans les conditions fixées par les articles 183 et 184 du décret du 29 décembre 1962 susvisé ;
+b) Un compte financier établi dans les conditions prévues aux articles 210 à 214 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
 
 c) Un rapport présentant les principales orientations de son activité.
 

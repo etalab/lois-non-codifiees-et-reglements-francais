@@ -2,31 +2,31 @@
 
 Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-I. - Responsables des secrétariats particuliers des :
+I.-Responsables des secrétariats particuliers des :
 
 Délégués.
 
 Directeurs généraux et directeurs de l'administration centrale.
 
-Chef du service de l'inspection générale des affaires sociales (I.G.A.S.)
+Chef du service de l'inspection générale des affaires sociales (I. G. A. S.)
 
-Chef du service des statistiques, des études et des systèmes d'information (S.E.S.I.).
+Chef du service des statistiques, des études et des systèmes d'information (S. E. S. I.).
 
-II. - Régisseurs d'avances et régisseurs de recettes.
+II.-Régisseurs d'avances et régisseurs de recettes.
 
-III. - Responsables de la réalisation des tâches de photocomposition et de reprographie.
+III.-Responsables de la réalisation des tâches de photocomposition et de reprographie.
 
-IV. - Chargés de mission départementale au secrétariat d'Etat chargé des droits des femmes.
+IV.-Chargés de mission départementale au secrétariat d'Etat chargé des droits des femmes.
 
-V.  Agents chargés de l'accueil.
+V. Agents chargés de l'accueil.
 
-VI.  Personnels du service social.
+VI. Personnels du service social.
 
-VII.  Responsables de publication assistée par ordinateur.
+VII. Responsables de publication assistée par ordinateur.
 
-VIII.  Documentalistes.
+VIII. Documentalistes.
 
-IX.  Correspondants logistiques dans les bureaux d'affaires générales.
+IX. Correspondants logistiques dans les bureaux d'affaires générales.
 
 FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU MINISTÈRE CHARGÉ DES AFFAIRES SOCIALES ET DU MINISTÈRE CHARGÉ DE LA SANTÉ
 
@@ -34,23 +34,23 @@ A compter du 1er janvier 2002
 
 1. Responsable du secrétariat particulier de :
 
-- secrétaire général ;
+-secrétaire général ;
 
-- délégué ;
+-délégué ;
 
-- directeur général et directeur de l'administration centrale ;
+-directeur général et directeur de l'administration centrale ;
 
-- chef du service de l'inspection générale des affaires sociales ;
+-chef du service de l'inspection générale des affaires sociales ;
 
-- chef du service des droits des femmes ;
+-chef du service des droits des femmes ;
 
-- chef du service de l'information et de la communication ;
+-chef du service de l'information et de la communication ;
 
-- chef de service de l'administration centrale ;
+-chef de service de l'administration centrale ;
 
-- sous-directeur de l'administration centrale ;
+-sous-directeur de l'administration centrale ;
 
-- membre du corps du contrôle général économique et financier.
+-        contrôleur budgétaire.
 
 2. Régisseur d'avances et régisseur de recettes.
 
@@ -112,7 +112,7 @@ A compter du 1er août 1996
 
 7. Responsable de service social.
 
-7 bis. Chargé(e)s de l'accompagnement social du personnel.
+7 bis. Chargé (e) s de l'accompagnement social du personnel.
 
 8. Agent chargé de la production et de la diffusion des statistiques sur le marché du travail à la direction de l'animation de la recherche, des études et des statistiques.
 
@@ -124,7 +124,7 @@ A compter du 1er août 1996
 
 12. Agents chargés de la liquidation des dossiers de frais de déplacement.
 
-13. Responsable du secrétariat du membre du corps du contrôle général économique et financier.
+13. Responsable du secrétariat du        contrôleur budgétaire.
 
 14. Agents chargés de travaux de réparations.
 
@@ -142,7 +142,7 @@ A compter du 1er août 1996
 
 21. Responsables de la gestion des crédits de rémunérations principales et accessoires du secteur Travail, emploi et formation professionnelle.
 
-22. Chargé(e)s de l'administration des soins et du suivi médical.
+22. Chargé (e) s de l'administration des soins et du suivi médical.
 
 23. Responsable d'une équipe logistique d'un site.
 

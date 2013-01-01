@@ -74,7 +74,7 @@ Article 5
 
 Le président est élu en son sein par le conseil d'administration pour une durée de trois ans renouvelable.
 
-Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration.A ce titre :
+Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration. A ce titre :
 
 1° Il prépare les délibérations du conseil d'administration qu'il préside et en assure l'exécution ;
 
@@ -122,7 +122,7 @@ A l'exception des représentants des fondateurs et de l'Etat, le mandat des memb
 
 Article 7
 
-Le conseil d'administration détermine les orientations générales relatives aux actions mises en œuvre par l'établissement.A ce titre, il délibère notamment sur :
+Le conseil d'administration détermine les orientations générales relatives aux actions mises en œuvre par l'établissement. A ce titre, il délibère notamment sur :
 
 1° Les orientations générales de l'établissement ;
 
@@ -156,19 +156,13 @@ Le conseil d'administration détermine les orientations générales relatives au
 
 Dans les limites qu'il définit, le conseil d'administration peut déléguer certaines de ses attributions au président, à l'exception de celles mentionnées aux 1°, 2°, 4°, 5°, 7°, 8°, 14° et 15° ci-dessus.
 
-Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
-
-― qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
-
-― ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global. Il rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
-
 Le conseil d'administration peut proposer aux ministres chargés de l'agriculture et de la recherche toute modification aux présents statuts.
 
 Article 8
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres en exercice sont présents ou représentés. Dans le cas où le quorum n'est pas atteint, le conseil est à nouveau réuni avec le même ordre du jour dans un délai maximum de quinze jours ouvrés ; il peut alors délibérer valablement quel que soit le nombre des membres présents.
 
-Les décisions du conseil d'administration sont exécutoires sans délai.
+Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Chacun des membres du conseil d'administration ne détient qu'une seule voix.
 
@@ -208,11 +202,9 @@ Chapitre III : Dispositions financières
 
 Article 12
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation. Ce contrôle est exercé par le contrôleur budgétaire et comptable ministériel près le ministre chargé de la recherche qui assiste au conseil d'administration.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé par le contrôleur budgétaire et comptable ministériel près le ministre chargé de la recherche dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 13
-
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'agriculture, de la recherche et du budget.
+Article 13 (Abrogé).
 
 Article 14
 

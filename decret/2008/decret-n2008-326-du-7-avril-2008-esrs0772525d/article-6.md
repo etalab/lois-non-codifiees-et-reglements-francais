@@ -8,7 +8,7 @@ Il délibère notamment sur :
 
 2° Le rapport d'activité présenté annuellement par le bureau sur la situation morale et financière ;
 
-3° Les prévisions de recettes et de dépenses et les comptes de l'exercice clos, sur proposition du trésorier ;
+3°      Le budget et les comptes de l'exercice clos, sur proposition du trésorier ;
 
 4° L'acceptation des dons et des legs et les charges afférentes ainsi que les conditions générales de cette acceptation et, notamment, le montant minimal au-dessus duquel ces dons et legs peuvent être assortis de charges ;
 

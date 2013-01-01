@@ -256,7 +256,7 @@ Les membres du conseil d'administration peuvent donner procuration à un autre m
 
 Le conseil délibère valablement si la majorité des membres en exercice est présente ou représentée. Si le quorum n'est pas atteint à l'ouverture de la séance, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de huit jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés.
 
-Les décisions du conseil d'administration sont exécutoires sans délai dans le respect de la réglementation en vigueur.
+Les décisions du conseil d'administration sont exécutoires sans délai dans le respect de la réglementation en vigueur à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les délibérations sont prises à la majorité des membres présents ou représentés.
 
@@ -284,15 +284,9 @@ La composition et les modalités de fonctionnement et de désignation de ses mem
 
 Article 14
 
-Le sénat académique est composé des représentants des personnels siégeant dans les conseils d'administration, les conseils scientifiques ou leurs équivalents et les conseils des études et de la vie étudiante ou leurs équivalents des établissements fondateurs et associés. Les représentants des doctorants aux conseils des écoles doctorales siègent au sénat académique.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Le sénat académique a un rôle consultatif ; il débat des politiques conduites par le PRES dans les champs de compétences que les établissements lui délèguent. Il concourt à leur diffusion.
-
-Les modalités d'organisation et de fonctionnement du sénat académique sont fixées par le règlement intérieur.
-
-Article 15
-
-Les membres des conseils prévus aux articles 7,12,13 et 14 exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation en vigueur.
+Article 15 (Abrogé).
 
 Chapitre III
 

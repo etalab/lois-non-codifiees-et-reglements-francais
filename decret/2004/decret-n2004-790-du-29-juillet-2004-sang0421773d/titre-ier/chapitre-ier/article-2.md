@@ -12,7 +12,7 @@ Le conseil d'administration des Thermes nationaux d'Aix-les-Bains comprend quinz
 
 -le directeur de l'agence régionale de l'hospitalisation ou son représentant ;
 
--le     directeur régional de l'environnement, de l'aménagement et du logement  ou son représentant.
+-le directeur régional de l'environnement, de l'aménagement et du logement ou son représentant.
 
 2° Cinq membres nommés par décret pour cinq ans :
 
@@ -34,4 +34,4 @@ Tout membre mentionné au 3° dont le siège devient vacant pour quelque cause q
 
 Le mandat de ce nouveau membre expire à la date à laquelle aurait normalement pris fin celui de son prédécesseur.
 
-Le préfet de la Savoie ou son représentant, le membre du corps du contrôle général économique et financier, le directeur général et l'agent comptable de l'établissement assistent aux séances du conseil d'administration.
+Le préfet de la Savoie ou son représentant, le        contrôleur budgétaire, le directeur général et l'agent comptable de l'établissement assistent aux séances du conseil d'administration.

@@ -12,6 +12,6 @@ Les délibérations sont prises à la majorité des voix des membres présents o
 
 Les membres du conseil d'administration désignés aux 2°, 3°, 4° et 6° de l'article 11 peuvent donner, par écrit, mandat à un autre membre de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-Le directeur du musée national des châteaux de Versailles et de Trianon, l'administrateur général, l'autorité chargée du contrôle financier ainsi que l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur du musée national des châteaux de Versailles et de Trianon, l'administrateur général,      le contrôleur budgétaire ainsi que l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances avec voix consultative toute autre personne dont il juge la présence utile.

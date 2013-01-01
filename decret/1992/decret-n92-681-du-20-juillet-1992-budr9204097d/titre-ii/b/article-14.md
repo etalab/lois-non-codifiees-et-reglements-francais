@@ -8,4 +8,4 @@ Cette comptabilité doit faire ressortir à tout moment :
 
 -pour les régies d'avances, la situation de l'avance reçue.
 
-En application des articles 135, 136, 137 et 138 du décret du 29 décembre 1962 susvisé, les régisseurs qui détiennent des valeurs, des bons d'achat ou des bons de secours dont la nature sera mentionnée dans l'acte constitutif de la régie sont astreints à tenir une comptabilité de stock. "
+En application du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les régisseurs qui détiennent des valeurs, des bons d'achat ou des bons de secours dont la nature sera mentionnée dans l'acte constitutif de la régie sont astreints à tenir une comptabilité de stock.

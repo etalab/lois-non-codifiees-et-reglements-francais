@@ -6,7 +6,7 @@ Les orientations générales de l'école ;
 
 Les questions relatives à sa politique de recherche et de formation continue ;
 
-Les questions qui sont de sa compétence en vertu des textes législatifs et réglementaires en vigueur, et notamment des articles 14 à 25 du décret du 10 décembre 1953 et 151 à 189 du décret du 29 décembre 1962 ;
+Les questions qui sont de sa compétence en vertu des textes législatifs et réglementaires en vigueur, et notamment le titre III du décret n° 2012-1246 du 7 novembre 2012relatif à la gestion budgétaire et comptable publique ;
 
 Le rapport annuel du directeur sur l'activité et le fonctionnement administratif et financier de l'établissement, avant sa transmission au ministre chargé de l'enseignement supérieur et au ministre du budget ;
 

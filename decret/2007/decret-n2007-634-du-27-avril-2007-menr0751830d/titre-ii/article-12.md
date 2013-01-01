@@ -34,6 +34,4 @@ Il délibère notamment sur :
 
 D'une façon générale, le conseil d'administration se prononce sur toute question qui lui est soumise par son président ou par les ministres chargés de l'éducation, de l'enseignement supérieur et de la recherche.
 
-Il adresse chaque année aux ministres chargés de l'éducation, de l'enseignement supérieur et de la recherche le rapport sur l'activité et le fonctionnement de l'institut prévu au 9° et les programmes prévus au 10°. Il leur soumet en particulier ses recommandations tendant à promouvoir les enseignements sur les rapports entre la science et la société et sur le développement d'une culture scientifique, technique et de l'innovation.
-
-Pour les matières énumérées aux 4°, 8° et 13°, le conseil d'administration peut déléguer ses pouvoirs au directeur dans les limites qu'il détermine. Le directeur lui rend compte, lors de la plus prochaine séance, des décisions qu'il a prises en vertu de cette délégation.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Les délibérations portant sur les acquisitions, aliénations et échanges d'immeubles sont exécutoires dans les mêmes conditions.

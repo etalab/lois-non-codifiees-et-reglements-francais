@@ -14,6 +14,6 @@ Un procès-verbal de chaque séance, signé par le président, est adressé dans
 
 Le recteur de l'académie d'Orléans-Tours assiste ou se fait représenter aux séances du conseil.
 
-Le directeur de l'école, le secrétaire général, l'agent comptable et l'autorité chargée du contrôle financier assistent aux séances avec voix consultative.
+Le directeur de l'école, le secrétaire général, l'agent comptable et le contrôleur budgétaire assistent aux séances avec voix consultative.
 
 Le conseil d'administration peut inviter à assister aux séances, avec voix consultative, toute autre personne dont il juge la présence utile.

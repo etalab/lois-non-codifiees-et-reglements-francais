@@ -68,7 +68,7 @@ Les présidents des établissements fondateurs constituent le bureau du conseil 
 
 Article 4
 
-Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration.A ce titre :
+Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration. A ce titre :
 
 -il prépare les délibérations du conseil d'administration qu'il préside et en assure l'exécution ;
 
@@ -126,7 +126,7 @@ Le mandat des membres du conseil d'administration est fixé à deux ans renouvel
 
 Les membres mentionnés aux 4°, 5° et 6° sont élus dans les conditions fixées par délibération du conseil d'administration.
 
-Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou lorsque son siège devient vacant à la suite de démission ou décès, il est pourvu à son remplacement pour la durée de mandat qui reste à courir.S'il s'agit du président de l'un des établissements fondateurs, il est également pourvu au remplacement du deuxième représentant de cet établissement mentionné au 1° de l'article 7 ci-dessus pour la durée du mandat qui reste à courir. Le règlement intérieur de l'établissement prévoit les conditions de ces remplacements.
+Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou lorsque son siège devient vacant à la suite de démission ou décès, il est pourvu à son remplacement pour la durée de mandat qui reste à courir. S'il s'agit du président de l'un des établissements fondateurs, il est également pourvu au remplacement du deuxième représentant de cet établissement mentionné au 1° de l'article 7 ci-dessus pour la durée du mandat qui reste à courir. Le règlement intérieur de l'établissement prévoit les conditions de ces remplacements.
 
 Toute modification du nombre de membres fondateurs ou associés implique le renouvellement des membres du conseil.
 
@@ -188,7 +188,7 @@ Les membres du conseil d'administration peuvent donner procuration à un autre m
 
 Le conseil délibère valablement si la majorité des membres en exercice est présente ou représentée. Si le quorum n'est pas atteint à l'ouverture de la séance, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de huit jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés. Les délibérations sont prises à la majorité des membres présents ou représentés.
 
-Les décisions du conseil d'administration sont exécutoires sans délai.
+Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Toutefois, sont prises à l'unanimité des membres fondateurs les décisions ci-après :
 
@@ -212,11 +212,11 @@ Dispositions financières
 
 Article 13
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
 Article 14
 
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+(Abrogé).
 
 Article 15
 

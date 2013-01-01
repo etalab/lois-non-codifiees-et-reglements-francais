@@ -1,5 +1,3 @@
 # Article 40
 
-Les fonds de l'établissement sont déposés au Trésor public.
-
-Des fonds peuvent être déposés, sur dérogation accordée par le ministre chargé du budget, auprès de la Banque de France ou d'un établissement financier agréé.
+Les fonds de l'établissement sont déposés et placés dans les conditions prévues à l'article 197 du décret n° 2012-1246 du 7 novembre 2012 mentionné ci-dessus.

@@ -8,6 +8,6 @@ Le conseil d'administration de Voies navigables de France comprend :
 
 3° Huit représentants des personnels de l'établissement élus dans les conditions fixées au 3° de l'article L. 4312-1 du code des transports dont sept représentants des personnels mentionnés aux 1° à 3° de l'article L. 4312-3-1 du même code et un représentant des personnels mentionnés au 4° du même article (2).
 
-Le directeur général, le commissaire du Gouvernement, le membre du corps du contrôle général économique et financier, l'agent comptable principal et le secrétaire de la formation mentionnée au 2° du I de l'article L. 4312-3-2 du code des transports assistent aux séances du conseil d'administration avec voix consultative (2).
+Le directeur général, le commissaire du Gouvernement, le        contrôleur budgétaire, l'agent comptable principal et le secrétaire de la formation mentionnée au 2° du I de l'article L. 4312-3-2 du code des transports assistent aux séances du conseil d'administration avec voix consultative (2).
 
 Le mandat d'administrateur est gratuit, sans préjudice du remboursement par l'établissement public des frais exposés pour l'exercice dudit mandat.

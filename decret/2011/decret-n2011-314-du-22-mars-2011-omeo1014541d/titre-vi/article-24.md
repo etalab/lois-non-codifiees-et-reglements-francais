@@ -1,6 +1,6 @@
 # Article 24
 
-La comptabilité est organisée conformément au décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+La comptabilité est organisée conformément au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Conformément aux dispositions de l'article 2 du même décret, sont applicables à l'établissement public d'incendie et de secours de la Nouvelle-Calédonie les principes fondamentaux contenus dans la première partie dudit décret.
 

@@ -4,7 +4,7 @@ Lors de la séance du conseil d'administration, le recteur d'académie, chanceli
 
 1° Le projet de budget n'a pas été communiqué dans le délai fixé à l'article 12 ;
 
-2° Le budget principal ou le budget annexe ou un état prévisionnel des recettes et des dépenses n'est pas en équilibre réel eu égard notamment aux dispositions de l'article 9 relatives aux prélèvements sur le fonds de roulement ou sur les réserves ;
+2° Le budget principal ou le budget annexe ou le budget d'une fondation n'est pas en équilibre réel eu égard notamment aux dispositions de l'article 9 relatives aux prélèvements sur le fonds de roulement ou sur les réserves ;
 
 3° Le budget principal ne prévoit pas les crédits nécessaires au respect des obligations et des engagements de l'établissement ;
 

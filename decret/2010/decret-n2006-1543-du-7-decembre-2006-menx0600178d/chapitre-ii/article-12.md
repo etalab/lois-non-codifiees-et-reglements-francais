@@ -8,7 +8,7 @@ Le directeur général est nommé par décret, sur proposition du ministre charg
 
 3° Est ordonnateur des recettes et des dépenses de l'établissement ;
 
-4° Peut prendre, en accord avec l'autorité chargée du contrôle financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes, ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des dépenses de fonctionnement et les chapitres de dépenses de personnel. Ces décisions sont exécutoires après notification aux ministres chargés de l'enseignement supérieur et du budget et doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+4° Peut prendre, en accord avec      le contrôleur budgétaire, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes, ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des dépenses de fonctionnement et les chapitres de dépenses de personnel. Ces décisions sont exécutoires après notification aux ministres chargés de l'enseignement supérieur et du budget et doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
 
 5° Conclut toutes conventions se rapportant aux missions de l'établissement ;
 

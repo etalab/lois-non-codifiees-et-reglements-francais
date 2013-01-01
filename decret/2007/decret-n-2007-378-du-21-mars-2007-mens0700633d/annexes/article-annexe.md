@@ -190,7 +190,7 @@ Article 9
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres en exercice sont présents ou représentés. Dans le cas où le quorum n'est pas atteint, le conseil est à nouveau réuni avec le même ordre du jour dans un délai maximum de quinze jours ouvrés ; il peut alors délibérer valablement quel que soit le nombre des membres présents.
 
-Les décisions du conseil d'administration sont exécutoires sans délai.
+Les décisions du conseil d'administration sont exécutoires sans délai à  l'exception des délibérations portant sur le budget et le compte  financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Chaque membre dispose d'une voix au conseil d'administration.
 
@@ -234,11 +234,9 @@ Chapitre III : Dispositions financières
 
 Article 14
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012  relatif à la gestion budgétaire et comptable publique à l'exception des  articles 224 à 226. Le contrôle budgétaire est exercé dans le respect  des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 15
-
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 15 (Abrogé).
 
 Article 16
 

@@ -4,7 +4,7 @@ I. ― Un arrêté du ministre des affaires étrangères désigne les missions d
 
 Le ministre des affaires étrangères élabore un rapport annuel d'évaluation des résultats de cette expérimentation. Le premier de ces rapports est établi avant le 31 mars 2011, le second, au titre de 2012, avant le 31 mars 2013 et le dernier, qui porte sur la période du 1er janvier au 28 juillet 2013, est établi avant le 31 octobre 2013. Ce rapport est remis, chaque année, aux commissions permanentes compétentes de l'Assemblée nationale et du Sénat.
 
-II. ― Les établissements du réseau culturel français et les services culturels relevant des missions diplomatiques mentionnées au I sont rattachés à l'Institut français pendant la durée de l'expérimentation, dont ils constituent un bureau de représentation à l'étranger, ci-après dénommé « bureau local ». L'Institut français assure la programmation de leurs activités, leur suivi et leur gestion administrative et financière.
+II. ― Les établissements du réseau culturel français et les services culturels relevant des missions diplomatiques mentionnées au I sont rattachés à l'Institut français pendant la durée de l'expérimentation, dont ils constituent un bureau de représentation à l'étranger, ci-après dénommé " bureau local ". L'Institut français assure la programmation de leurs activités, leur suivi et leur gestion administrative et financière.
 
 Le bureau local est dirigé par un directeur qui conseille également l'ambassadeur en matière de coopération et d'action culturelle.
 
@@ -40,7 +40,7 @@ Le cahier des charges mentionné à l'article 11 de la loi du 27 juillet 2010 pr
 
 IV. ― Dans le cadre de cette expérimentation, les dispositions du III de l'article 2 ainsi que celles du décret du 24 août 1976 susvisé ne sont pas applicables.
 
-Les bureaux locaux sont soumis au régime financier et comptable défini par le décret du 29 décembre 1962 susvisé. L'organisation, les conditions de la gestion administrative et financière des bureaux locaux sont précisées par le cahier des charges mentionné par l'article 11 de la loi du 27 juillet 2010.
+Les bureaux locaux sont soumis au régime financier et comptable défini par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. L'organisation, les conditions de la gestion administrative et financière des bureaux locaux sont précisées par le cahier des charges mentionné par l'article 11 de la loi du 27 juillet 2010.
 
 Le cahier des charges désigne et précise les conditions dans lesquelles les bâtiments du domaine public précédemment affectés aux établissements à autonomie financière, les locaux occupés dans le périmètre de la mission diplomatique par les services dont les activités sont rattachées à l'Institut français et le mobilier nécessaire à l'accomplissement des missions des bureaux locaux sont mis à disposition de l'Institut français.
 

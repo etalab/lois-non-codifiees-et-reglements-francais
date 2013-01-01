@@ -26,6 +26,4 @@ Il est obligatoirement consulté sur les règles fixant l'organisation et le fon
 
 Sous réserve des dispositions particulières du présent décret, les délibérations du conseil d'administration sont exécutoires un mois après leur transmission au garde des sceaux, ministre de la justice, à moins que celui-ci n'y fasse opposition.
 
-Toutefois, les délibérations portant sur le budget et ses modifications, le compte financier et les emprunts sont exécutoires dans les conditions fixées par le
-décret n° 99-575 du 8 juillet 1999
-relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Les délibérations portant sur les emprunts sont exécutoires dans les mêmes conditions.

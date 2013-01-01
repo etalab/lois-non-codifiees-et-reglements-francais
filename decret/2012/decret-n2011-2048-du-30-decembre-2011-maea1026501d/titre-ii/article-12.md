@@ -44,6 +44,6 @@ Il peut être consulté par le président du conseil d'administration ou le dire
 
 Il peut émettre des avis sur les questions qui ont trait à ses missions, qui sont transmis au conseil d'administration.
 
-Le directeur général et l'autorité chargée du contrôle économique et financier assistent aux réunions du conseil d'orientation.
+Le directeur général et        le contrôleur budgétaire assistent aux réunions du conseil d'orientation.
 
 Les membres du conseil d'orientation relatif aux modalités d'accueil des étudiants et chercheurs étrangers en France exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de mission peuvent être remboursés dans les conditions prévues par le décret du 3 juillet 2006 susvisé.

@@ -6,6 +6,6 @@ Les délibérations sont prises à la majorité des voix des membres présents o
 
 Un membre du conseil d'administration autre qu'un membre de droit ou un membre élu peut donner, par écrit, mandat à un autre membre de le représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-L'administrateur général de l'établissement, l'autorité chargée du contrôle financier, l'agent comptable, le directeur du musée national de l'Orangerie des Tuileries et le directeur du musée national Hébert assistent aux séances avec voix consultative.
+L'administrateur général de l'établissement,      le contrôleur budgétaire, l'agent comptable, le directeur du musée national de l'Orangerie des Tuileries et le directeur du musée national Hébert assistent aux séances avec voix consultative.
 
 Le président peut appeler à participer aux séances toute autre personne dont il juge la présence utile.

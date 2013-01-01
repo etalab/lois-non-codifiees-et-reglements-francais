@@ -1,6 +1,6 @@
 # Article 10
 
-Les dépenses annuelles de la fondation se composent :
+Les dépenses et charges annuelles de la fondation se composent :
 
 1° Des achats de biens et de services ou d'équipements nécessaires à l'activité de la fondation ;
 

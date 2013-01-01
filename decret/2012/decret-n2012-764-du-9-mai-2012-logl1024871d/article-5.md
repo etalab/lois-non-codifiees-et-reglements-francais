@@ -48,6 +48,6 @@ Quatre personnalités socioprofessionnelles, désignées en son sein par l'organ
 
 ― un représentant du conseil économique, social et culturel de Corse.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement de Corse, le représentant de l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent également de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le directeur régional de l'environnement, de l'aménagement et du logement de Corse, le représentant         du contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent également de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
 Le préfet de Corse publie par arrêté la liste nominative des membres du conseil, d'administration et procède à son installation.

@@ -2,7 +2,7 @@
 
 Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président qui fixe l'ordre du jour. Il est, en outre, convoqué si l'un des ministres chargés de l'enseignement supérieur, de la recherche ou de la culture ou la moitié des membres le demande. Les questions dont l'examen est demandé par l'un des ministres chargés de l'enseignement supérieur, de la recherche ou de la culture ou par la moitié au moins des membres du conseil sont inscrites à l'ordre du jour.
 
-Le directeur général délégué, le directeur du département du patrimoine et des collections, le directeur du département de la recherche et de l'enseignement, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur général délégué, le directeur du département du patrimoine et des collections, le directeur du département de la recherche et de l'enseignement, le        contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il juge la présence utile.
 

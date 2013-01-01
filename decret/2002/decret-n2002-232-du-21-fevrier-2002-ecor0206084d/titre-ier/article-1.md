@@ -20,7 +20,7 @@ Lorsque, conformément à l'article 89, à l'article 90 ou à l'article 263 du c
 
 En cas de versement d'une avance, le délai global de paiement de celle-ci court à partir de la réception par la personne indiquée au marché des justificatifs éventuellement prévus au marché pour le versement de cette avance.
 
-III.-Le délai global de paiement expire à la date du règlement par le comptable au sens de l'article 33 du décret du 29 décembre 1962 susvisé.
+III.-Le délai global de paiement expire à la date du règlement par le comptable au sens du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 IV.-Le délai maximum de paiement d'une indemnité de résiliation est le délai maximum de paiement prévu au marché ou à défaut le délai maximum prévu par l'article 98 du code des marchés publics. Il commence à courir à partir du moment où, la décision de résiliation étant notifiée, le montant de l'indemnisation est arrêté.
 

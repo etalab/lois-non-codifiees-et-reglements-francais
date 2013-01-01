@@ -8,4 +8,4 @@ Le conseil d'administration ne délibère que si la moitié au moins des membres
 
 Les délibérations sont adoptées à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
 
-Le directeur général, le représentant de l'autorité chargée du contrôle économique et financier et l'agent comptable ainsi que toute personne dont le conseil ou son président souhaite recueillir l'avis assistent aux séances avec voix consultative.
+Le directeur général, le représentant du contrôleur budgétaire et l'agent comptable ainsi que toute personne dont le conseil ou son président souhaite recueillir l'avis assistent aux séances avec voix consultative.

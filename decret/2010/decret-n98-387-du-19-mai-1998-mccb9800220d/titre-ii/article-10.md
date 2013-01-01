@@ -14,7 +14,7 @@ Il définit l'organisation des services de l'établissement conformément aux pr
 
 4° Il conclut les contrats, conventions et marchés ;
 
-5° Il peut prendre, dans l'intervalle des séances du conseil d'administration et après accord de l'autorité chargée du contrôle financier, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses ni réduction du montant total des recettes ; ces décisions sont soumises pour ratification au conseil d'administration lors de sa plus prochaine séance ;
+5° (Abrogé) ;
 
 6° Il représente l'établissement en justice et dans tous les actes de la vie civile.
 

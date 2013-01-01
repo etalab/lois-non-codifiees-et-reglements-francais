@@ -4,7 +4,7 @@ Le bureau règle toutes les affaires qui lui sont renvoyées par le conseil d'ad
 
 Le préfet de la région Provence-Alpes-Côte d'Azur, préfet des Bouches-du-Rhône, les préfets des départements des Alpes-de-Haute-Provence, des Hautes-Alpes, des Alpes-Maritimes, du Var, de Vaucluse assistent de droit aux réunions du bureau et y sont entendus chaque fois qu'ils le demandent.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement (1), le         directeur régional de l'alimentation, de l'agriculture et de la forêt , le directeur régional de l'environnement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement ont accès aux réunions du bureau et y sont entendus chaque fois qu'ils le demandent.
+Le directeur régional de l'environnement, de l'aménagement et du logement (1), le directeur régional de l'alimentation, de l'agriculture et de la forêt, le directeur régional de l'environnement,        le contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement ont accès aux réunions du bureau et y sont entendus chaque fois qu'ils le demandent.
 
 Les procès-verbaux et délibérations de toutes les réunions leur sont adressées, ainsi qu'aux préfets des six départements de la région.
 

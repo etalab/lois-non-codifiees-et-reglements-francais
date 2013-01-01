@@ -1,6 +1,6 @@
 # Article 6
 
-Les délibérations du conseil d'administration relatives à l'état prévisionnel des recettes et des dépenses, à ses modifications et au compte financier sont exécutoires dans les conditions fixées par le décret du 8 juillet 1999 susvisé.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les délibérations relatives au règlement comptable et financier ne sont exécutoires qu'après approbation du ministre chargé du budget.
 

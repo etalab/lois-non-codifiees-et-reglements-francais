@@ -4,7 +4,7 @@ Le contrôle de l'Etablissement public foncier du Val-d'Oise est exercé par le 
 
 Les délibérations du conseil d'administration et celles prises par le bureau ne sont exécutoires qu'après approbation par le préfet du Val-d'Oise.
 
-L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet du Val-d'Oise des délibérations susmentionnées vaut approbation tacite, y compris dans les cas et conditions prévus par le décret du 8 juillet 1999 susvisé.
+L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet du Val-d'Oise des délibérations susmentionnées vaut approbation tacite, y compris dans les cas et conditions prévus par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Toutefois, les délibérations du conseil d'administration ou du bureau et les décisions du directeur général ou de son adjoint relatives à l'exercice du droit de préemption ou de priorité sont exécutoires de plein droit, dès leur transmission au préfet du Val-d'Oise, si l'exercice par l'établissement du droit de préemption ou de priorité est prévu dans une convention visée à l'article 2, préalablement approuvée par le préfet du Val-d'Oise.
 

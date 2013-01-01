@@ -16,7 +16,7 @@ Le directeur dirige l'établissement.A ce titre :
 
 6° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
 
-7° Il peut, dans l'intervalle des séances du conseil d'administration, prendre en accord avec le contrôleur financier des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes, ni variation de la capacité d'autofinancement. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+7° (Abrogé) ;
 
 8° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
 

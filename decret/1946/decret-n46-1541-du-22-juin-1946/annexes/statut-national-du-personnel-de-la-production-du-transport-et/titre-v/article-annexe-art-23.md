@@ -260,7 +260,7 @@ Pour l'application des dispositions du présent L :
 
 4° Pour l'application des dispositions du 2° de l'article L. 281-3 précité, la décision de révocation est prise par arrêté conjoint des ministres chargés de la sécurité sociale et du budget et après avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières.
 
-La caisse d'assurance maladie des industries électriques et gazières est soumise au contrôle économique et financier de l'Etat dans les conditions prévues par le décret n° 55-733 du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat. Le membre du corps de contrôle général économique et financier de la caisse transmet ses analyses, avis et rapports aux ministres chargés de la sécurité sociale et du budget. Les modalités d'exercice de ce contrôle sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
+La caisse d'assurance maladie des industries électriques et gazières est soumise au contrôle budgétaire dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012. Le contrôleur budgétaire de la caisse transmet ses analyses, avis et rapports aux ministres chargés de la sécurité sociale et du budget. Les modalités d'exercice de ce contrôle sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
 
 **Paragraphe 5.**
 

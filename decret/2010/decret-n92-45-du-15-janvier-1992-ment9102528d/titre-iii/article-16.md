@@ -1,3 +1,3 @@
 # Article 16
 
-La bibliothèque nationale et universitaire de Strasbourg est soumise au régime financier et comptable défini par les articles 14 à 25 du décret n° 53-1227 du 10 décembre 1953 susvisé et les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 susvisé.
+Sous réserve des dispositions du présent décret, la bibliothèque nationale et universitaire de Strasbourg est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

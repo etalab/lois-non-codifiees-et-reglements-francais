@@ -1,3 +1,3 @@
 # Article 25
 
-Après en avoir informé le président de l'université de rattachement, l'établissement peut prendre des participations financières et créer des filiales dans les conditions fixées par les articles 1er à 7 du décret n° 2000-1264 du 26 décembre 2000 susvisé.
+Après en avoir informé le président de l'université de rattachement, l'établissement peut prendre des participations financières et créer des filiales dans les conditions fixées par le décret pris pour l'application de l'article L. 719-5 du code de l'éducation.

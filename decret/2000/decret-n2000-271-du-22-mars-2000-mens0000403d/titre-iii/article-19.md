@@ -24,4 +24,4 @@ Il détermine les catégories de contrats, conventions ou marchés qui doivent l
 
 Il autorise le directeur à introduire les actions en justice.
 
-Il peut déléguer certaines de ses attributions au directeur de l'école à l'exception de celles qui sont mentionnées au 3 et aux 5 à 8 ci-dessus. Toutefois, le directeur peut recevoir délégation du conseil d'administration pour décider des modifications apportées au budget qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres de personnel et les chapitres de matériel. Ces modifications doivent faire l'objet d'un accord du membre du corps du contrôle général économique et financier. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
+Il peut déléguer certaines de ses attributions au directeur de l'école à l'exception de celles qui sont mentionnées au 3 et aux 5 à 8 ci-dessus. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.

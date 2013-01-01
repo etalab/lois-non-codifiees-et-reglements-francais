@@ -12,6 +12,6 @@ Si le quorum n'est pas atteint, le conseil est à nouveau convoqué avec le mêm
 
 Les membres du conseil d'administration désignés au 3° de l'article 9 peuvent donner, par écrit, mandat à un autre membre de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-Le directeur général et l'autorité chargée du contrôle financier ainsi que l'agent comptable assistent aux séances avec voix consultative.
+Le directeur général et      le contrôleur budgétaire ainsi que l'agent comptable assistent aux séances avec voix consultative.
 
 Le président peut appeler à participer aux séances toute autre personne dont il juge la présence utile.

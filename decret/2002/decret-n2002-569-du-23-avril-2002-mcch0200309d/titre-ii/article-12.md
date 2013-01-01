@@ -8,7 +8,7 @@ Le directeur :
 
 3° Prépare l'état prévisionnel de recettes et de dépenses de l'établissement ;
 
-4° Peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'accord de l'autorité chargée du contrôle économique et financier, des décisions modificatives de l'état prévisionnel de recettes et de dépenses qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes, ni virement de crédits entre la section des opérations en capital et la section de fonctionnement. Ces décisions doivent être ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+4° (abrogé)
 
 5° A autorité sur les services de l'établissement ;
 

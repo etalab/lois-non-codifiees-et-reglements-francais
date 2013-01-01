@@ -1,6 +1,6 @@
 # Article 13
 
-I. ― L'établissement public Campus France est soumis au régime financier et comptable défini par les dispositions du présent titre, ainsi que par les articles 151 à 153-1 et 190 à 225 du décret du 29 décembre 1962 susvisé. (1)
+I. ― L'établissement public Campus France est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 L'agent comptable de l'établissement est nommé par arrêté du ministre chargé du budget, après avis du directeur général.
 

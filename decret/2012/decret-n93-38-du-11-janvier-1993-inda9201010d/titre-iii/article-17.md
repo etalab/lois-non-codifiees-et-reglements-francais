@@ -12,4 +12,4 @@ En cas de refus d'approbation, le conseil d'administration dispose d'un délai d
 
 A l'issue de cette nouvelle délibération ou à défaut d'une nouvelle délibération, si le budget n'est pas approuvé, il est arrêté conjointement par le ministre chargé de l'industrie et le ministre chargé du budget.
 
-Les délibérations du conseil d'administration relatives à l'approbation du compte financier, aux prises de participations financières, à la création de filiales et aux emprunts sont soumises à l'approbation expresse du ministre chargé de l'industrie et à celle du ministre chargé du budget.
+Les délibérations du conseil d'administration relatives aux prises de participations financières, à la création de filiales et aux emprunts sont soumises à l'approbation expresse du ministre chargé de l'industrie et à celle du ministre chargé du budget.

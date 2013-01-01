@@ -8,7 +8,7 @@ II. ― Les décisions et délibérations du conseil d'administration mentionné
 
 Dans ce cas, ils soumettent cette décision ou délibération au ministre des affaires étrangères, au ministre chargé de l'enseignement supérieur et au ministre chargé du budget qui se prononcent dans un délai d'un mois à compter de leur saisine. A défaut de la notification d'une décision de rejet au président du conseil d'administration dans ce délai, la décision ou délibération est exécutoire.
 
-III. ― Les délibérations portant sur le budget, l'état prévisionnel de recettes et de dépenses et leurs modifications, le compte financier, l'affectation des résultats, les acquisitions, échanges et aliénations d'immeubles sont approuvées par le ministre des affaires étrangères, le ministre chargé de l'enseignement supérieur et le ministre chargé du budget dans les conditions fixées par le décret du 8 juillet 1999 susvisé.
+III. ― Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012  relatif à la gestion budgétaire et comptable publique. Les  délibérations portant sur les acquisitions, échanges et aliénations  d'immeubles sont approuvées dans les mêmes conditions.
 
 Les délibérations relatives aux emprunts ne sont exécutoires qu'après avoir été approuvées par arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 

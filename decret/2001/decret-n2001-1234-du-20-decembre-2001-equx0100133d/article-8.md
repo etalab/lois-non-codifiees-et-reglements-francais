@@ -10,7 +10,7 @@ Sa convocation est de droit si les deux tiers des membres au moins en adressent 
 
 Le préfet de la région Provence-Alpes-Côte d'Azur, préfet des Bouches-du-Rhône, les préfets des départements des Alpes-de-Haute-Provence, des Hautes-Alpes, des Alpes-Maritimes, du Var, de Vaucluse assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement, le         directeur régional de l'alimentation, de l'agriculture et de la forêt , le directeur régional de l'environnement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement ont accès aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le directeur régional de l'environnement, de l'aménagement et du logement, le directeur régional de l'alimentation, de l'agriculture et de la forêt, le directeur régional de l'environnement,        le contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement ont accès aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

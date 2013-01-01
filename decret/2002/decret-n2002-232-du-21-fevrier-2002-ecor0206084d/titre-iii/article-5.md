@@ -10,7 +10,7 @@ Les intérêts moratoires ne sont pas assujettis à la taxe sur la valeur ajout�
 
 II.-1° Le taux des intérêts moratoires est référencé dans le marché.
 
-2° Pour les organismes soumis aux délais de paiement mentionnés          au 1° de l'article 98 du code des marchés publics, qu'il soit ou non indiqué dans le marché, le taux des intérêts moratoires est égal au taux d'intérêt de la principale facilité de refinancement appliquée par la Banque centrale européenne à son opération de refinancement principal la plus récente effectuée avant le premier jour de calendrier du semestre de l'année civile au cours duquel les intérêts moratoires ont commencé à courir, majoré de sept points.
+2° Pour les organismes soumis aux délais de paiement mentionnés au 1° de l'article 98 du code des marchés publics, qu'il soit ou non indiqué dans le marché, le taux des intérêts moratoires est égal au taux d'intérêt de la principale facilité de refinancement appliquée par la Banque centrale européenne à son opération de refinancement principal la plus récente effectuée avant le premier jour de calendrier du semestre de l'année civile au cours duquel les intérêts moratoires ont commencé à courir, majoré de sept points.
 
 3° Pour les organismes soumis au délai de paiement mentionné au 2° de l'article 98 du code des marchés publics, qu'il soit ou non indiqué dans le marché, le taux des intérêts moratoires est celui de l'intérêt légal en vigueur à la date à laquelle les intérêts moratoires ont commencé à courir, augmenté de deux points.
 
@@ -26,6 +26,6 @@ IV.-Le mandatement effectué en l'absence de fonds disponibles équivaut au déf
 
 V.-En cas de désaccord sur le montant d'un acompte ou du solde, l'ordonnancement ou le mandatement est effectué sur la base provisoire des sommes admises par la personne publique contractante. Lorsque les sommes ainsi payées sont inférieures à celles qui sont finalement dues au titulaire, celui-ci a droit à des intérêts moratoires calculés sur la différence.
 
-VI.-Lorsque le dépassement du délai n'est pas imputable à la personne publique contractante, ou à l'un de ses prestataires, ou au comptable assignataire au sens de l'article 67 du décret du 29 décembre 1962 susvisé, aucun intérêt moratoire n'est exigible.
+VI.-Lorsque le dépassement du délai n'est pas imputable à la personne publique contractante, ou à l'un de ses prestataires, ou au comptable assignataire au sens du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, aucun intérêt moratoire n'est exigible.
 
 VII.-Les intérêts moratoires d'un montant inférieur à 5 euros ne sont pas ordonnancés ou mandatés.

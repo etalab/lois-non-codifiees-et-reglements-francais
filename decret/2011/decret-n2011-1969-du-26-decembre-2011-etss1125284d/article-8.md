@@ -6,6 +6,6 @@ Le directeur général de la caisse, en sa qualité de gestionnaire du fonds, ef
 
 L'agent comptable de la Caisse nationale de l'assurance maladie des travailleurs salariés effectue les paiements au vu des états liquidatifs transmis par le directeur général ordonnateur du fonds, accompagnés de toute pièce justificative.
 
-Les opérations de dépenses et de recettes du fonds sont soumises au contrôle économique et financier de l'Etat mentionné à l'article R. 282-1 du code de la sécurité sociale.
+Les opérations de dépenses et de recettes du fonds sont soumises au   contrôle budgétaire  de l'Etat mentionné à l'article R. 282-1 du code de la sécurité sociale.
 
 Au plus tard le 30 juin 2015, les comptes de clôture définitifs du fonds sont présentés pour approbation au comité de gestion. La moitié du solde constaté est reversée à l'Etat.

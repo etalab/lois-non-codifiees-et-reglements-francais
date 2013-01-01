@@ -4,4 +4,4 @@ Les délibérations du conseil d'administration autres que celles mentionnées �
 
 Les délibérations du conseil d'administration mentionnées au 8° de l'article 9 doivent faire l'objet d'une approbation expresse des ministres chargés de la culture et de la recherche.
 
-Les délibérations portant sur l'état annuel des prévisions de recettes et de dépenses ou ses modifications, ainsi que sur le compte financier sont approuvées par les ministres chargés de la culture, de la recherche et du budget dans les conditions fixées par le décret du 8 juillet 1999 susvisé.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

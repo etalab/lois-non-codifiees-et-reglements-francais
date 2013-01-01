@@ -30,4 +30,4 @@ La liste des organisations professionnelles représentatives mentionnées au 3°
 
 Pour chacun des membres mentionnés aux 1°, 2° et 5°, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
-Le directeur, le président du conseil d'orientation, l'autorité chargée du contrôle économique et financier et l'agent comptable, ainsi que toute personne dont le président souhaite recueillir l'avis, assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur, le président du conseil d'orientation,        le contrôleur budgétaire et l'agent comptable, ainsi que toute personne dont le président souhaite recueillir l'avis, assistent aux séances du conseil d'administration avec voix consultative.

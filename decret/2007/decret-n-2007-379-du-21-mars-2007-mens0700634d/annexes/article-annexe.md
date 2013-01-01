@@ -22,7 +22,7 @@ Au moment de sa création, l'établissement comprend les membres fondateurs suiv
 
 - université Paris-XI (Sud) ;
 
-- université de Versailles - Saint-Quentin-en-Yvelines ;
+- université de Versailles-Saint-Quentin-en-Yvelines ;
 
 - Ecole normale supérieure de Cachan.
 
@@ -64,7 +64,7 @@ Article 7
 
 Le conseil d'administration comprend au maximum vingt-sept membres. Il est composé de :
 
-1° Au minimum quatorze représentants des établissements fondateurs désignés selon des modalités propres à chacun, dont sept pour l'université Paris-XI (Sud), quatre pour l'université de Versailles - Saint-Quentin-en-Yvelines et trois pour l'Ecole normale supérieure de Cachan ;
+1° Au minimum quatorze représentants des établissements fondateurs désignés selon des modalités propres à chacun, dont sept pour l'université Paris-XI (Sud), quatre pour l'université de Versailles-Saint-Quentin-en-Yvelines et trois pour l'Ecole normale supérieure de Cachan ;
 
 2° Trois à quatre personnalités qualifiées, désignées d'un commun accord par les membres fondateurs ;
 
@@ -134,9 +134,9 @@ Dans les limites qu'il détermine, le conseil d'administration peut déléguer a
 
 Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
 
-- qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
+-qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
 
-- ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+-ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Il rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
 
@@ -158,9 +158,9 @@ Les délibérations sont prises à la majorité des membres présents ou représ
 
 De plus, l'unanimité des représentants des membres fondateurs est requise pour les décisions ci-après :
 
-- l'adhésion de nouveaux membres et la fixation des conditions de ces adhésions ;
+-l'adhésion de nouveaux membres et la fixation des conditions de ces adhésions ;
 
-- l'exclusion d'un membre, ce membre ne participant pas au vote le concernant.
+-l'exclusion d'un membre, ce membre ne participant pas au vote le concernant.
 
 Le président du conseil scientifique et pédagogique, le président du conseil d'orientation stratégique, le secrétaire général, l'agent comptable ainsi que toute personne dont le président souhaite recueillir l'avis assistent aux séances du conseil avec voix consultative.
 
@@ -214,11 +214,9 @@ Chapitre III : Dispositions financières
 
 Article 16
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 17
-
-L'agent comptable de l'un des établissements membres exerce les fonctions d'agent comptable de l'établissement. Il est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 17 (Abrogé).
 
 Article 18
 

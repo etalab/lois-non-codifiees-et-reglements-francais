@@ -10,7 +10,7 @@ A ce titre :
 
 3° Il peut créer des régies d'avances et des régies de recettes sur avis conforme de l'agent comptable et avec l'accord du membre du corps du contrôle général économique et financier dans les conditions prévues par le décret du 20 juillet 1992 susvisé ;
 
-4° Il peut prendre, en cas d'urgence et après approbation écrite de l'autorité chargée du contrôle financier, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel sous plafond d'emploi ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+4° (Abrogé) ;
 
 5° Il décide, au nom du ministre chargé de la culture et dans le respect de la politique définie par le conseil d'administration, des acquisitions de biens culturels faites dans les conditions prévues à l'article 5 ; dans les mêmes conditions et sous réserve des dispositions des articles L. 1121-2 et L. 1121-3 du code général de la propriété des personnes publiques, il accepte les dons et legs qui consistent en des biens culturels destinés à prendre place dans les collections dont l'établissement a la garde ;
 

@@ -1,3 +1,3 @@
 # Article 15
 
-Le laboratoire national de métrologie et d'essais est soumis au régime financier et comptable défini par les textes généraux applicables aux établissements publics à caractère industriel et commercial dotés d'un agent comptable et en particulier par le décret du 29 décembre 1962 susvisé.
+Le Laboratoire national de métrologie et d'essais est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185, 204 à 208 et 220 à 228.

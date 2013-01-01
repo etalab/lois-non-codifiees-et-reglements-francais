@@ -28,6 +28,8 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 Le conseil d'administration peut déléguer à son président les attributions prévues aux points 7, 9 et 10 ci-dessus, dans les limites qu'il détermine.
 
-Les délibérations mentionnées aux 2, 3, 4, 5, 6 et 12 ci-dessus ne sont exécutoires qu'après leur approbation par le ministre chargé du budget. Le silence gardé par celui-ci pendant un délai de quinze jours, à compter de la séance lors de laquelle a été adoptée la délibération, vaut approbation.
+Les délibérations mentionnées aux 4, 5, 6 et 12 ci-dessus ne sont exécutoires qu'après leur approbation par le ministre chargé du budget. Le silence gardé par celui-ci pendant un délai de quinze jours, à compter de la séance lors de laquelle a été adoptée la délibération, vaut approbation.
 
 Les autres délibérations sont exécutoires de plein droit sauf celles dont l'autorité chargée du contrôle économique et financier demande en séance un nouvel examen, auquel il est procédé à la séance suivante du conseil d'administration. Cette demande ne peut être formulée qu'une fois sur une même délibération.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

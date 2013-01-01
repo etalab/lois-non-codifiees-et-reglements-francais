@@ -8,4 +8,4 @@ L'entité publique fait créditer le compte technique du montant de la créance 
 
 Les conditions et modalités de fonctionnement du compte technique et délais d'approbation des montants qui y sont inscrits sont fixés par le contrat passé par l'entité publique avec l'émetteur. L'approbation est acquise par l'utilisation physique de la carte et la présence du porteur lors de la remise par l'accepteur des fournitures ou services commandés. Ces dispositions sont reproduites dans le contrat passé par l'émetteur ou son correspondant bancaire avec l'accepteur.
 
-Avant de créditer le compte technique, le comptable public assignataire effectue les contrôles réglementaires prévus au décret du 29 décembre 1962 susvisé. Il procède au paiement de l'émetteur.
+Avant de créditer le compte technique, le comptable public assignataire effectue les contrôles réglementaires prévus au     décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Il procède au paiement de l'émetteur.

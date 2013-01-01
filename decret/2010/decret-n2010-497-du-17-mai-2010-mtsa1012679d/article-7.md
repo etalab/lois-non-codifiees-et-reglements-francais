@@ -8,6 +8,6 @@ Il conclut avec le président du comité de gestion une convention, approuvée p
 
 L'agent comptable de la Caisse nationale des allocations familiales effectue les paiements au vu des états liquidatifs transmis par le directeur ordonnateur des dépenses du fonds, accompagnés le cas échéant de toute pièce justificative.
 
-Les opérations de dépenses et de recettes du fonds sont soumises au contrôle économique et financier de l'Etat mentionné à l'article R. 282-1 du code de la sécurité sociale.
+Les opérations de dépenses et de recettes du fonds sont soumises au   contrôle budgétaire  de l'Etat mentionné à l'article R. 282-1 du code de la sécurité sociale.
 
 Les sommes non engagées au 31 décembre de l'année viennent abonder le résultat du fonds.

@@ -34,6 +34,6 @@ Le comité des projets comprend :
 
 15° Un représentant du directeur général de l'Agence française de développement.
 
-Le membre du corps du contrôle général économique et financier du ministère des affaires étrangères participe aux réunions du comité des projets.
+Le        contrôleur budgétaire du ministère des affaires étrangères participe aux réunions du comité des projets.
 
 Le comité des projets se réunit sur convocation de son président. Il invite à ses délibérations, en qualité de rapporteurs, les représentants des services du ministère des affaires étrangères responsables de l'élaboration et de la mise en oeuvre des projets et programmes inscrits à son ordre du jour. Son secrétariat est assuré par la direction générale de la coopération internationale et du développement au ministère des affaires étrangères.

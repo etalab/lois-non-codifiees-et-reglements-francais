@@ -14,6 +14,6 @@ Pour chacun des membres mentionnés aux 2° et 4°, un  suppléant est désigné
 
 Le mandat des membres autres que les membres  de droit est de trois ans renouvelable. En cas de vacance, pour quelque cause  que ce soit, survenant plus de trois mois avant l'expiration du mandat d'un de  ces membres, un remplaçant est désigné ou élu dans les mêmes conditions, pour la  durée du mandat restant à courir.
 
-L'administrateur, le contrôleur d'Etat et  l'agent comptable, ainsi que toute personne dont le président souhaite  recueillir l'avis, assistent aux séances du conseil avec voix  consultative.
+L'administrateur, le contrôleur budgétaire et  l'agent comptable, ainsi que toute personne dont le président souhaite  recueillir l'avis, assistent aux séances du conseil avec voix  consultative.
 
 Les membres du conseil d'administration exercent leurs  fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour  peuvent être remboursés dans les conditions prévues par la réglementation  applicable aux fonctionnaires de l'Etat.

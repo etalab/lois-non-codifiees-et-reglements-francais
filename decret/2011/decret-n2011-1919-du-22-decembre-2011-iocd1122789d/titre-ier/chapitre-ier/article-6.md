@@ -8,6 +8,6 @@ Les décisions sont prises à la majorité des membres présents ou représenté
 
 Les membres désignés aux 2°, 3°, 4° et au 5° de l'article 2 peuvent donner, par écrit, mandat à un autre membre du collège de les représenter à une séance. Les membres désignés aux 2° et 3° ne peuvent donner mandat qu'à un membre désigné aux 1°, 2° ou 3°. Chaque membre ne peut recevoir qu'un seul mandat.
 
-Le directeur du Conseil national des activités privées de sécurité, l'autorité chargée du contrôle financier et l'agent comptable assistent de droit aux séances du collège, avec voix consultative.
+Le directeur du Conseil national des activités privées de sécurité,      le contrôleur budgétaire et l'agent comptable assistent de droit aux séances du collège, avec voix consultative.
 
 Le président du collège peut appeler le directeur de l'agence centrale des organismes de sécurité sociale ou son représentant à participer aux séances avec voix consultative.

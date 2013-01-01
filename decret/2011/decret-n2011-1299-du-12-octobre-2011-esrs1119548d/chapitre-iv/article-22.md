@@ -1,3 +1,3 @@
 # Article 22
 
-Le régime financier et comptable défini par les décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés et par l'article 60 de la loi de finances du 23 février 1963 relatif à la responsabilité des comptables est applicable au centre.
+Sous réserve des dispositions du présent décret, le centre est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

@@ -1,3 +1,3 @@
 # Article 19
 
-L'institut est soumis au régime comptable et financier défini par le décret du 10 décembre 1953 et le décret du 29 décembre 1962 susvisés.
+L'Institut national de formation des personnels du ministère de l'agriculture est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

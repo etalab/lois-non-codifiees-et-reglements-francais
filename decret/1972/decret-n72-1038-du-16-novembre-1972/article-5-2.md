@@ -1,3 +1,3 @@
 # Article 5-2
 
-L'agent comptable est nommé par arrêté conjoint du ministre du budget et du ministre de l'éducation nationale. Il exerce ses fonctions dans les conditions fixées par le décret du 29 décembre 1962 susvisé.
+L'agent comptable est nommé et exerce ses fonctions dans les conditions définies par les titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

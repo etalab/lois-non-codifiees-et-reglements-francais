@@ -32,7 +32,9 @@ Le conseil d'administration délibère sur :
 
 Il détermine les catégories de contrats, conventions et transactions qui, en raison de leur nature ou du montant financier engagé, doivent lui être soumis pour approbation et celles dont il délègue la responsabilité au directeur. Celui-ci rend compte, lors de la plus prochaine séance du conseil, des décisions qu'il a prises en vertu de cette délégation.
 
-Les délibérations du conseil d'administration mentionnées aux 3°, 4°, 5°, 6°, 8°, 9°, 10°, 12°, 13° et 14° sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce délai, quinze jours après leur réception par le ministre chargé de la culture et le ministre chargé du budget, si l'un de ceux-ci n'y a pas fait opposition dans ce délai.
+Les délibérations du conseil d'administration mentionnées aux 3°, 6°, 8°, 9°, 10°, 12°, 13° et 14° sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce délai, quinze jours après leur réception par le ministre chargé de la culture et le ministre chargé du budget, si l'un de ceux-ci n'y a pas fait opposition dans ce délai.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 La délibération mentionnée au 7° doit, pour devenir exécutoire, faire l'objet d'une approbation expresse du ministre chargé de la culture et du ministre chargé du budget et, pour les domaines qui relèvent de sa compétence, du ministre chargé de l'économie.
 

@@ -1,3 +1,3 @@
 # Article 16
 
-Le contrôle économique et financier de l'Etat s'exerce dans les conditions prévues par le décret n° 55-733 du 26 mai 1955.
+Le contrôle budgétaire de l'Etat s'exerce dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012.

@@ -32,7 +32,7 @@ g) Un représentant du ministre chargé de la culture ;
 
 Le directeur général participe aux séances avec voix consultative.
 
-L'autorité chargée du contrôle économique et financier ou son représentant et l'agent comptable ainsi que toute autre personne dont la présence est jugée utile par le président peuvent assister aux séances avec voix consultative.
+Le contrôleur budgétaire ou son représentant et l'agent comptable ainsi que toute autre personne dont la présence est jugée utile par le président peuvent assister aux séances avec voix consultative.
 
 II. ― Le président du conseil d'administration est nommé par décret parmi les personnalités qualifiées du conseil d'administration.
 

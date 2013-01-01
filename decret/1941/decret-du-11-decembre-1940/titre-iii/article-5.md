@@ -1,6 +1,6 @@
 # Article 5
 
-Le contrôle économique et financier de l'Etat sur les services de transports par fer, par route et par eau, exercé dans la métropole en vertu de l'article 1er ci-dessus, de concert par le Secrétaire d'Etat aux Communications et par le Secrétaire d'Etat aux Finances, est assuré, sous l'autorité du Secrétaire d'Etat aux Communications, par le Directeur Général des Transports et, sous l'autorité du Secrétaire d'Etat aux Finances, par le Directeur de l'Economie générale et par le Directeur du Trésor. Ces deux Directeurs préparent, chacun en ce qui le concerne, les avis à fournir et les décisions à prendre par le Ministre des Finances.
+Le   contrôle budgétaire  de l'Etat sur les services de transports par fer, par route et par eau, exercé dans la métropole en vertu de l'article 1er ci-dessus, de concert par le Secrétaire d'Etat aux Communications et par le Secrétaire d'Etat aux Finances, est assuré, sous l'autorité du Secrétaire d'Etat aux Communications, par le Directeur Général des Transports et, sous l'autorité du Secrétaire d'Etat aux Finances, par le Directeur de l'Economie générale et par le Directeur du Trésor. Ces deux Directeurs préparent, chacun en ce qui le concerne, les avis à fournir et les décisions à prendre par le Ministre des Finances.
 
 En vue d'assurer une liaison permanente entre les deux Secrétaires d'Etat :
 

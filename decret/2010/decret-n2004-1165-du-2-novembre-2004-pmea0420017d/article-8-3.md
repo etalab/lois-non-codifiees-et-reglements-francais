@@ -1,7 +1,3 @@
 # Article 8-3
 
-La comptabilité du compte mentionnée à l'article 8-1 ci-dessus est tenue dans les conditions prévues par le décret du 29 décembre 1962 susvisé. Les ministres chargés du budget et de l'artisanat fixent conjointement le plan comptable de ce compte.
-
-Les pièces justificatives de celui-ci sont conservées dans les archives de l'agent comptable qui les tient à disposition du juge des comptes jusqu'à l'apurement des comptes auxquelles elles se rapportent.
-
-Les pièces justificatives des recettes et des dépenses sont conservées pendant un délai minimum de cinq ans après la clôture de l'exercice pour être présentées à toute réquisition.
+Par dérogation aux dispositions de l'article 3 du décret n° 2012-1246 du 7 novembre 2012 relatif  à la gestion budgétaire et comptable publique, les conseils de la  formation des régions sont soumis aux dispositions des titres Ier et III  de ce même décret à l'exception des 1° et 2° de l'article 175 et des  articles 178 à 185, 204 à 208 et 220 à 228.

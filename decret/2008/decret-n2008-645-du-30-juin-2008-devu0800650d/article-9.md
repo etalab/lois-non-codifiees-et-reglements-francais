@@ -8,7 +8,7 @@ Le conseil d'administration peut également être convoqué à la demande du pr�
 
 Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
 
-Le préfet de la région Poitou-Charentes, préfet de la Vienne, le directeur régional de l'environnement de la région Poitou-Charentes, le directeur régional de l'alimentation, de l'agriculture et de la forêt, le membre du corps du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations leur sont adressés.
+Le préfet de la région Poitou-Charentes, préfet de la Vienne, le directeur régional de l'environnement de la région Poitou-Charentes, le directeur régional de l'alimentation, de l'agriculture et de la forêt, le membre du corps du   contrôle budgétaire  de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations leur sont adressés.
 
 Le préfet de la région Poitou-Charentes, préfet de la Vienne, peut soumettre au conseil d'administration toute question dont l'examen lui paraît utile. Le président est tenu de l'inscrire à l'ordre du jour.
 

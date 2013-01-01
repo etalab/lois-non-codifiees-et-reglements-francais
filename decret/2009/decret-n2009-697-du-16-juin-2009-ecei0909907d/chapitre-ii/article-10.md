@@ -8,4 +8,4 @@ Il peut s'opposer aux délibérations du conseil d'administration de l'Associati
 
 En cas d'empêchement, le commissaire du gouvernement peut se faire représenter aux séances du conseil d'administration par un agent placé sous son autorité.
 
-II. ― L'Association française de normalisation est soumise au contrôle économique et financier de l'Etat prévu par le décret du 26 mai 1955 susvisé.
+II. ― L'Association française de normalisation est soumise au contrôle budgétaire prévu par le décret n° 2012-1246 du 7 novembre 2012.

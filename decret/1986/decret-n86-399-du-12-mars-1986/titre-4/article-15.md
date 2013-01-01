@@ -1,3 +1,3 @@
 # Article 15
 
-L'agent comptable est nommé par arrêté conjoint du ministre chargé du budget, du ministre chargé de l'emploi et du ministre chargé de la recherche.
+Le centre est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

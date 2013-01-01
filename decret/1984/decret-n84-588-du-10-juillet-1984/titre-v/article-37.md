@@ -1,3 +1,3 @@
 # Article 37
 
-Les instituts régionaux d'administration sont soumis au régime financier et comptable défini par les articles 14 et 25 du décret du 10 décembre 1953 et par les articles 151 à 189 du décret du 29 décembre susindiqués.
+L'institut est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

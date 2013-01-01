@@ -18,7 +18,7 @@ Le conseil d'administration de l'institut comprend :
 
 -le directeur général de l'institut national de la statistique et des études économiques ;
 
--le    directeur général de la cohésion sociale  ;
+-le directeur général de la cohésion sociale ;
 
 Un suppléant est désigné pour chacun de ces membres ;
 
@@ -36,6 +36,6 @@ Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en
 
 Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par la réglementation applicable aux fonctionnaires de l'Etat.
 
-Le président du conseil scientifique, le directeur de l'institut, le membre du corps du contrôle général économique et financier et l'agent comptable participent aux séances du conseil d'administration avec voix consultative. Avec l'accord du président, le directeur peut se faire accompagner par tout collaborateur ou personne qualifiée de son choix.
+Le président du conseil scientifique, le directeur de l'institut, le        contrôleur budgétaire et l'agent comptable participent aux séances du conseil d'administration avec voix consultative. Avec l'accord du président, le directeur peut se faire accompagner par tout collaborateur ou personne qualifiée de son choix.
 
 Le président du conseil d'administration peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.

@@ -2,7 +2,7 @@
 
 STATUTS DE L'ÉTABLISSEMENT PUBLIC
 
-DE COOPÉRATION SCIENTIFIQUE "CAMPUS CONDORCET"
+DE COOPÉRATION SCIENTIFIQUE " CAMPUS CONDORCET "
 
 Chapitre Ier
 
@@ -10,7 +10,7 @@ Dispositions générales
 
 Article 1er
 
-Il est créé un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts. Cet établissement est dénommé "Campus Condorcet", désigné ci-après "l'établissement public".
+Il est créé un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts. Cet établissement est dénommé " Campus Condorcet ", désigné ci-après " l'établissement public ".
 
 Son siège est fixé sur le territoire de la communauté d'agglomération Plaine Commune. Il peut être transféré en tout lieu par décision du conseil d'administration.
 
@@ -32,7 +32,7 @@ Au moment de la création de l'établissement public, ses membres fondateurs son
 
 ― l'université Paris-I Panthéon-Sorbonne ;
 
-― l'université Paris-VIII Vincennes - Saint-Denis ;
+― l'université Paris-VIII Vincennes-Saint-Denis ;
 
 ― l'université Paris-XIII Nord.
 
@@ -56,7 +56,7 @@ I. ― La coopération scientifique entre les établissements d'enseignement sup
 
 ― les relations et le développement de coopérations avec les partenaires économiques, notamment ceux implantés sur les territoires de la ville de Paris et de la communauté d'agglomération Plaine Commune.
 
-II. ― La conception, la réalisation, le financement, l'exploitation, la maintenance et la valorisation des constructions universitaires et des équipements constitutifs du campus Condorcet. A ce titre, il pilote, coordonne, met en œuvre et suit des programmes immobiliers et des opérations particulières, notamment de l'"Opération Campus" ;
+II. ― La conception, la réalisation, le financement, l'exploitation, la maintenance et la valorisation des constructions universitaires et des équipements constitutifs du campus Condorcet. A ce titre, il pilote, coordonne, met en œuvre et suit des programmes immobiliers et des opérations particulières, notamment de l'" Opération Campus " ;
 
 ― l'élaboration d'une stratégie d'ensemble concernant les implantations immobilières sur le campus Condorcet, qui seront propriété de l'établissement public ou lui seront affectées pour les besoins du projet du campus Condorcet, ou qui seront mises à sa disposition par les établissements ou organismes membres ;
 
@@ -254,13 +254,13 @@ Dispositions financières
 
 Article 14
 
-L'établissement public est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
 Article 15
 
 Les recettes de l'établissement public comprennent notamment :
 
-1. Les revenus de la dotation non consommable de 450 millions d'euros acquise au Campus Condorcet dans le cadre de l'"Opération campus" ;
+1. Les revenus de la dotation non consommable de 450 millions d'euros acquise au Campus Condorcet dans le cadre de l'" Opération campus " ;
 
 2. Une contribution financière annuelle apportée par chaque membre fondateur, arrêtée par le conseil d'administration en fonction d'une grille de répartition définie dans le règlement intérieur ;
 
@@ -294,9 +294,7 @@ Article 16
 
 Les dépenses de l'établissement public comprennent les charges d'investissement, d'équipement et de fonctionnement, la rémunération des titulaires des contrats de partenariat, les éventuels frais de personnels propres à l'établissement public et, de manière générale, toutes les dépenses nécessaires à l'activité de l'établissement public.
 
-Article 17
-
-L'agent comptable de l'un des établissements membres exerce les fonctions d'agent comptable de l'établissement public.
+Article 17 (Abrogé)
 
 Article 18
 

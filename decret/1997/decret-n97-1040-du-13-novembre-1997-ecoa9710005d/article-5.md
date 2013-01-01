@@ -18,6 +18,6 @@ Le président du conseil d'administration est l'ordonnateur des dépenses et des
 
 8° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
 
-9° Il peut signer des protocoles d'accords transactionnels, après avis favorable de l'autorité chargée du contrôle financier.
+9° Il peut signer des protocoles d'accords transactionnels, après avis favorable       du contrôleur budgétaire.
 
 En ce qui concerne les matières énumérées aux 1°, 2° et au 5°, il peut déléguer ses pouvoirs au directeur de l'établissement dans les limites qu'il détermine.

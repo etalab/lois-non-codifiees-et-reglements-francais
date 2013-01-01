@@ -6,7 +6,7 @@ Un conseiller maître à la Cour des comptes, président, dont la voix est prép
 
 Trois représentants du ministre chargé de l'agriculture, dont le directeur général de la forêt et des affaires rurales, commissaire du Gouvernement ;
 
-Deux représentants du ministre chargé du budget, dont le membre du corps du contrôle général économique et financier désigné en application de l'article 35 ci-après.
+Deux représentants du ministre chargé du budget, dont le        contrôleur budgétaire désigné en application de l'article 35 ci-après.
 
 La Commission nationale de répartition du Fonds commun se réunit au moins deux fois par an. Réunie en commission d'équipement, elle examine les demandes d'aides à l'équipement et fait des propositions dans le cadre du budget alloué.
 

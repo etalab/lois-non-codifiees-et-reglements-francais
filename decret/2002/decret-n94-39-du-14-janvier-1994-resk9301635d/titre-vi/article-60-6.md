@@ -1,3 +1,3 @@
 # Article 60-6
 
-Il est établi un compte rendu budgétaire propre à chaque fondation. Ce compte rendu est agrégé au compte financier de l'établissement.
+Il est établi un compte financier propre à chaque fondation. Celui-ci est agrégé au compte financier de l'établissement.

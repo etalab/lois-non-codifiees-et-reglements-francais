@@ -22,7 +22,7 @@ f) Le chef du service du contrôle général économique et financier ou son rep
 
 3° Un représentant du personnel ou son suppléant.
 
-Assistent avec voix consultative aux délibérations du conseil d'administration le directeur, le secrétaire général, l'agent comptable, l'autorité chargée du contrôle financier de l'Académie de France à Rome ainsi que les délégués des pensionnaires mentionnés à l'article 3.
+Assistent avec voix consultative aux délibérations du conseil d'administration le directeur, le secrétaire général, l'agent comptable,      le contrôleur budgétaire de l'Académie de France à Rome ainsi que les délégués des pensionnaires mentionnés à l'article 3.
 
 Le président est nommé par décret pour une durée de trois ans.
 

@@ -6,4 +6,4 @@ Le bureau règle les affaires qui lui sont renvoyées par le conseil d'administr
 
 Le préfet de région, préfet du Nord, assiste de droit aux réunions et y est entendu chaque fois qu'il le demande.
 
-Le préfet du Pas-de-Calais, le directeur régional de l'environnement, de l'aménagement et du logement (1), le         directeur régional de l'alimentation, de l'agriculture et de la forêt , le directeur général de l'établissement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable ont accès aux séances du bureau.
+Le préfet du Pas-de-Calais, le directeur régional de l'environnement, de l'aménagement et du logement (1), le directeur régional de l'alimentation, de l'agriculture et de la forêt, le directeur général de l'établissement,        le contrôleur budgétaire de l'Etat et l'agent comptable ont accès aux séances du bureau.

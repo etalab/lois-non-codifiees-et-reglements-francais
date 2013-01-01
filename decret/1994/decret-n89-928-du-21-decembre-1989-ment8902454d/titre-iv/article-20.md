@@ -1,5 +1,5 @@
 # Article 20
 
-L'I.A.E. de Paris est soumis au régime financier et comptable fixé par les décrets n° 53-1227 du 10 décembre 1953 et n° 62-1587 du 29 décembre 1962, par l'article 60 de la loi de finances du 23 février 1963 et par les dispositions du présent titre.
+Sous réserve des dispositions du présent décret, l'institut d'administration des entreprises de Paris est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
-Toutefois, lorsque, par convention, la gestion financière de l'institut et de l'université de rattachement est assurée par un même service, le budget de l'institut est présenté selon les modalités prévues aux articles 3 et 38 du décret n° 94-39 du 14 janvier 1994 susvisé.
+Lorsque, par convention, la gestion financière de l'institut et de l'université de rattachement est assurée par un même service, le budget de l'institut est présenté selon les modalités prévues par le décret pris en application de l'article L. 719-5 du code de l'éducation.

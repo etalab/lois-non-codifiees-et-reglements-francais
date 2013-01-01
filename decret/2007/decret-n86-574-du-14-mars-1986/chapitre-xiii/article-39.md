@@ -8,7 +8,7 @@ b) Le directeur administratif et financier de l'Office national de l'eau et des 
 
 c) Le président de la commission des personnels du conseil d'administration de l'Office national de l'eau et des milieux aquatiques, ou son représentant ;
 
-d) Le membre du corps du contrôle général économique et financier de l'Office national de l'eau et des milieux aquatiques, ou son représentant ;
+d) Le        contrôleur budgétaire de l'Office national de l'eau et des milieux aquatiques, ou son représentant ;
 
 e) Trois représentants du personnel de la garderie désignés par ses représentants à la commission administrative partiaire parmi les membres titulaires ou suppléants de cette commission ;
 

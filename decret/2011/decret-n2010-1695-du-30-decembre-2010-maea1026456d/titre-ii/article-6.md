@@ -58,6 +58,6 @@ d) La Ville de Paris ;
 
 5° Trois représentants du personnel de l'établissement, élus dans les conditions prévues au chapitre II du titre II de la loi du 26 juillet 1983 susvisée.
 
-Le directeur général délégué, l'autorité chargée du contrôle économique et financier ou son représentant et l'agent comptable participent aux séances avec voix consultative.
+Le directeur général délégué,        le contrôleur budgétaire ou son représentant et l'agent comptable participent aux séances avec voix consultative.
 
 Le président peut également appeler à participer aux séances avec voix consultative toute personne dont il juge la présence utile.

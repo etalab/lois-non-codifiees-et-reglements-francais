@@ -6,7 +6,7 @@ Le conseil d'administration est convoqué par son président, qui fixe l'ordre d
 
 La convocation du conseil d'administration est de droit si la moitié des membres au moins ou le préfet des Alpes-Maritimes en adressent la demande écrite à son président.
 
-Le préfet des Alpes-Maritimes ou son représentant assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande. Le directeur départemental de l'équipement des Alpes-Maritimes, l'autorité chargée du contrôle économique et financier et l'agent comptable ont accès aux séances du conseil d'administration.
+Le préfet des Alpes-Maritimes ou son représentant assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande. Le directeur départemental de l'équipement des Alpes-Maritimes,        le contrôleur budgétaire et l'agent comptable ont accès aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Le conseil d'administration de l'Institut français de recherche pour l'exploitation de la mer comprend :
+I.-Le conseil d'administration de l'Institut français de recherche pour l'exploitation de la mer comprend :
 
 1° Huit membres représentant l'Etat nommés par décret sur proposition des ministres chargés de la recherche, de la mer, des pêches maritimes et des cultures marines, des affaires étrangères, de la défense, de l'industrie, du budget et de l'environnement ; ces membres peuvent, en cas d'absence ou d'empêchement, être remplacés par un suppléant nommément désigné dans les mêmes conditions que le titulaire ;
 
@@ -12,6 +12,6 @@ Le président du conseil d'administration, choisi parmi les membres du conseil d
 
 Les membres décédés, démissionnaires ou qui cessent d'exercer les fonctions au titre desquelles ils avaient été désignés ou élus sont remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin le mandat de leur prédécesseur.
 
-II. - Un représentant du ministre chargé de l'outre-mer et le secrétaire général de la mer ou, en cas d'absence ou d'empêchement, le secrétaire général adjoint participent aux séances du conseil d'administration avec voix consultative. Le commissaire du Gouvernement, le président du comité scientifique, le membre du corps du contrôle général économique et financier et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative. Le président peut, en outre, inviter à assister aux séances toute personne dont il estime la présence utile.
+II.-Un représentant du ministre chargé de l'outre-mer et le secrétaire général de la mer ou, en cas d'absence ou d'empêchement, le secrétaire général adjoint participent aux séances du conseil d'administration avec voix consultative. Le commissaire du Gouvernement, le président du comité scientifique, le        contrôleur budgétaire et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative. Le président peut, en outre, inviter à assister aux séances toute personne dont il estime la présence utile.
 
-III. - Les membres du conseil d'administration, à l'exception du président, exercent leurs fonctions à titre gratuit. Chaque représentant du personnel dispose pour l'exercice de son mandat d'un crédit d'heures mensuel égal à seize heures.
+III.-Les membres du conseil d'administration, à l'exception du président, exercent leurs fonctions à titre gratuit. Chaque représentant du personnel dispose pour l'exercice de son mandat d'un crédit d'heures mensuel égal à seize heures.

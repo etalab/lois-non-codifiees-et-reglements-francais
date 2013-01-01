@@ -16,4 +16,4 @@ Elle est administrée par un conseil d'administration dont la composition est la
 
 - trois personnes connaissant particulièrement les problèmes de la compétence de l'agence.
 
-Participent avec voix consultative aux travaux du conseil d'administration le directeur général, le contrôleur financier et l'agent comptable de l'agence.
+Participent avec voix consultative aux travaux du conseil d'administration le directeur général, le contrôleur budgétaire et l'agent comptable de l'agence.

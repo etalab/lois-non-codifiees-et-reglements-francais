@@ -6,4 +6,4 @@ Le bureau se réunit et délibère dans les conditions des trois derniers aliné
 
 Le préfet de région, le préfet, directeur régional de l'équipement d'Ile-de-France, et le secrétaire général des grandes opérations d'urbanisme ou leurs représentants assistent de droit aux séances du bureau et y sont entendus chaque fois qu'ils le demandent.
 
-Le membre du corps du contrôle général économique et financier et le directeur général adjoint ont accès aux séances du bureau.
+L'autorité chargée du contrôle économique et financier et le directeur général adjoint ont accès aux séances du bureau.

@@ -6,7 +6,7 @@ Le conseil d'administration comprend vingt-quatre membres :
 
 a) Trois membres de droit :
 
--le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
+-le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 -le directeur de l'évaluation de la performance et des affaires financières et immobilières ou son représentant ;
 
@@ -46,4 +46,4 @@ m) Deux représentants élus des autres personnels de l'école.
 
 Les élèves en formation initiale d'officiers de sapeurs-pompiers professionnels désignent, au sein de chacune des promotions, un représentant qui siège au conseil d'administration avec voix consultative.
 
-Le directeur de l'école, le directeur adjoint, les directeurs départementaux, le secrétaire général, l'autorité chargée du contrôle financier, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
+Le directeur de l'école, le directeur adjoint, les directeurs départementaux, le secrétaire général,      le contrôleur budgétaire, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.

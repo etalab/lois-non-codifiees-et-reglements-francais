@@ -1,5 +1,3 @@
 # Article 10
 
-Les opérations financières et comptables de l'établissement sont effectuées conformément aux dispositions des décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés.
-
-L'Académie de France à Rome est soumise au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat.
+L'Académie de France à Rome est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

@@ -6,7 +6,7 @@ I. ― L'équilibre du budget s'apprécie au regard des équilibres respectifs :
 
 2° Du budget annexe ;
 
-3° De chaque état prévisionnel des recettes et des dépenses, dans les conditions fixées par le décret du 7 avril 2008 susvisé.
+3° Du budget de chaque fondation, dans les conditions fixées par le décret du 7 avril 2008 susvisé.
 
 II. - L'équilibre du budget principal, du budget annexe et de chaque état prévisionnel des recettes et des dépenses est réalisé au niveau :
 

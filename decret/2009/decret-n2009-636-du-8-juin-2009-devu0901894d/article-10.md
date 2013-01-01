@@ -10,7 +10,7 @@ Sa convocation est de droit si les deux tiers des membres au moins en adressent 
 
 Le préfet de la région Bretagne, préfet d'Ille-et-Vilaine, assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande.
 
-Le représentant de l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le représentant         du contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

@@ -6,7 +6,7 @@ Le conseil d'administration comprend, outre son président :
 
 -le secrétaire général du ministère chargé de la culture ou son représentant ;
 
--le      directeur général des médias et des industries culturelles ou son représentant ;
+-le directeur général des médias et des industries culturelles ou son représentant ;
 
 -le directeur général de la création artistique ou son représentant ;
 
@@ -24,7 +24,7 @@ Le conseil d'administration comprend, outre son président :
 
 En cas de vacance définitive d'un siège prévu aux 2°, 4° ou 5°, pour quelque cause que ce soit, plus de trois mois avant l'expiration du mandat, un autre membre est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
 
-Le directeur général de l'établissement, les directeurs de département et les dirigeants des organismes associés, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux réunions du conseil d'administration.
+Le directeur général de l'établissement, les directeurs de département et les dirigeants des organismes associés, le        contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux réunions du conseil d'administration.
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il juge la présence utile.
 

@@ -2,7 +2,7 @@
 
 L'ordonnateur indique au comptable public, sur l'ordonnance, le mandat ou sur tout autre support en tenant lieu, le délai global de paiement sur lequel il est engagé, sa date de départ ainsi que la date de son expiration.
 
-Le comptable public indique à l'ordonnateur la date à laquelle il a procédé au règlement dans les conditions prévues par l'article 33 du décret du 29 décembre 1962 susvisé.
+Le comptable public indique à l'ordonnateur la date à laquelle il a procédé au règlement dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Dans l'hypothèse où le comptable public aurait, dans les conditions prévues au II de l'article 2 du présent décret, suspendu le délai global de paiement, il informe l'ordonnateur du point de départ et de la fin de cette suspension lorsqu'il indique la date à laquelle il a procédé au règlement.
 

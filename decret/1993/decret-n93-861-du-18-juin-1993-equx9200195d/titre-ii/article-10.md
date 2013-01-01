@@ -1,6 +1,6 @@
 # Article 10
 
-En sus des questions relevant de sa compétence, en application des décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés, le conseil d'administration délibère sur :
+En sus des questions relevant de sa compétence, en application du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, le conseil d'administration délibère sur :
 
 1° Les programmes généraux d'activités de Météo-France proposés par le directeur général ;
 

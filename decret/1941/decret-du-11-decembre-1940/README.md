@@ -2,7 +2,7 @@
 
 - [Titre Ier : Objet du contrôle de l'Etat](titre-ier)
 - [Titre II : Contrôle administratif et technique](titre-ii)
-- [Titre III : Contrôle économique et financier](titre-iii)
+- [Titre III :   Contrôle budgétaire](titre-iii)
 - [Titre IV : Vérification des comptes](titre-iv)
 - [Titre V : Dispositions diverses](titre-v)
 - [Article 19](article-19.md)

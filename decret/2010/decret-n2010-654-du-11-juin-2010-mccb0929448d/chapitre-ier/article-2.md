@@ -10,7 +10,7 @@ Les délibérations sont prises à la majorité des votants. En cas de partage d
 
 Les membres du conseil d'administration désignés aux 1°, 3°, 4° et 5° de l'article 1er peuvent donner, par écrit, mandat à un autre membre de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-L'autorité chargée du contrôle financier et l'agent comptable assistent aux séances avec voix consultative.
+Le contrôleur budgétaire et l'agent comptable assistent aux séances avec voix consultative.
 
 Le président peut, en outre, appeler à assister aux séances les responsables des directions et services de l'établissement ainsi que toute autre personne dont il juge la présence utile.
 

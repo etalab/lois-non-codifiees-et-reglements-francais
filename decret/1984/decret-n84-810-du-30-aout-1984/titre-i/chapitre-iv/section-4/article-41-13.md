@@ -10,6 +10,6 @@ I. ― Sont à la charge du propriétaire ou de l'exploitant du navire :
 
 4° Les frais des navires soumis à vérifications avant exploitation, y compris les frais de transport des inspecteurs.
 
-II. ― Sur le fondement du décompte horaire établi par l'inspecteur, les créances de l'Etat représentatives des frais d'inspection liés à une immobilisation font l'objet de titres de perception émis et recouvrés selon les modalités prévues pour les créances mentionnées à l'article 80 du décret du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+II. ― Sur le fondement du décompte horaire établi par l'inspecteur, les créances de l'Etat représentatives des frais d'inspection liés à une immobilisation font l'objet de titres de perception émis et recouvrés selon les modalités prévues pour les créances mentionnées au    décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Le titre de perception est établi à l'encontre du représentant, sur le territoire national, du propriétaire ou de l'exploitant du navire. Le propriétaire ou l'exploitant du navire désigne pour le représenter un agent maritime, consignataire du navire, ou tout autre représentant légal. A défaut, le titre est établi directement à l'encontre de ce même propriétaire ou de l'exploitant du navire. Dans ce cas, l'immobilisation éventuelle n'est levée qu'après le paiement intégral de ces créances. Le ministre chargé de la mer définit par arrêté la tarification horaire applicable et les modalités du décompte horaire visé ci-dessus.

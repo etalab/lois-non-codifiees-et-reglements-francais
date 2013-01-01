@@ -1,16 +1,5 @@
 # Article 19
 
-Le fonctionnement financier et comptable de l'établissement s'exerce
-dans les conditions prévues par le décret du 29 décembre 1962 susvisé
-en ce qui concerne les établissements publics industriels et commerciaux
-dotés d'un agent comptable. Un arrêté conjoint du ministre chargé
-de l'économie, des finances et du budget, du ministre chargé de la
-culture et du ministre chargé de l'industrie précise en tant que de
-besoin les modalités de ce fonctionnement.
+L'école est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
-L'agent comptable est nommé par arrêté conjoint du ministre chargé
-du budget, du ministre chargé de la culture et du ministre chargé
-de l'industrie.
-
-Des régies d'avances et de recettes peuvent être créées dans les
-conditions fixées par le décret du 28 mai 1964 susvisé.
+Des régies d'avances et de recettes peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.

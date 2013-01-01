@@ -22,4 +22,4 @@ Deux représentants du personnel de l'établissement assistent aux séances du c
 
 Trois commissaires du Gouvernement, représentant les ministres chargés de la mer, de la sécurité sociale et du budget, assistent aux séances du conseil d'administration et des commissions ayant reçu délégation de celui-ci. Ils sont entendus chaque fois qu'ils le demandent.
 
-Le directeur, l'agent comptable, l'autorité chargée du contrôle économique et financier et le chef du service du contrôle médical de l'établissement assistent aux séances du conseil d'administration avec voix consultative. Peuvent également assister aux séances les personnes dont l'audition est demandée par le président du conseil d'administration.
+Le directeur, l'agent comptable,        le contrôleur budgétaire et le chef du service du contrôle médical de l'établissement assistent aux séances du conseil d'administration avec voix consultative. Peuvent également assister aux séances les personnes dont l'audition est demandée par le président du conseil d'administration.

@@ -8,7 +8,7 @@ Le conseil d'administration comprend vingt-huit membres :
 
 -le directeur régional des affaires culturelles pour la région Rhône-Alpes ou son représentant ;
 
--le président de la      chambre de commerce et d'industrie territoriale de la ville de Lyon ou son représentant ;
+-le président de la chambre de commerce et d'industrie territoriale de la ville de Lyon ou son représentant ;
 
 -le maire de la ville de Lyon ou son représentant ;
 
@@ -46,6 +46,6 @@ Pour chaque membre du conseil, à l'exception des membres de droit, est désign�
 
 Le recteur de l'académie de Lyon assiste ou se fait représenter aux séances du conseil et peut être entendu chaque fois qu'il le demande.
 
-Le directeur de l'établissement, le secrétaire général, le directeur des études, l'agent comptable et le membre du corps du contrôle général économique et financier assistent aux séances avec voix consultative.
+Le directeur de l'établissement, le secrétaire général, le directeur des études, l'agent comptable et le        contrôleur budgétaire assistent aux séances avec voix consultative.
 
 Le conseil d'administration peut inviter à assister aux séances, avec voix consultative, toute autre personne dont il juge la présence utile.

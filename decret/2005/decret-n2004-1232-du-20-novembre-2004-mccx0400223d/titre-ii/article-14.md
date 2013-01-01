@@ -6,4 +6,4 @@ Les délibérations relatives aux 8° et 14° du même article sont exécutoires
 
 Les délibérations relatives aux 9° et 13° du même article doivent, pour devenir exécutoires, faire l'objet d'une approbation expresse du ministre chargé de la culture et du ministre chargé du budget et, pour les domaines qui relèvent de sa compétence, du ministre chargé de l'économie.
 
-Les délibérations portant sur l'état prévisionnel annuel de recettes et de dépenses ou ses modifications ainsi que sur le compte financier mentionnées respectivement aux 6° et 7° sont approuvées par le ministre chargé de la culture et par le ministre chargé du budget dans les conditions fixées par le décret du 8 juillet 1999 susvisé. Toutefois, le délai mentionné au premier alinéa de l'article 1er dudit décret est fixé à quinze jours.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

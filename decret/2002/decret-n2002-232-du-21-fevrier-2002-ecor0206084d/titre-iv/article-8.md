@@ -6,6 +6,6 @@ La date de réception du mandat et des pièces justificatives est constatée par
 
 A défaut de date constatée par le comptable public, la date du mandat augmentée de deux jours fait foi.
 
-II.-Toute suspension de paiement effectuée par le comptable public conformément au décret du 29 décembre 1962 susvisé suspend le délai du comptable.
+II.-Toute suspension de paiement effectuée par le comptable public conformément au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique suspend le délai du comptable.
 
-Ce délai est également suspendu pour défaut de visa du membre du corps du contrôle général économique et financier si ce visa est obligatoire ou lorsque le comptable ne peut pas payer pour manque de fonds disponibles. Le solde de ce délai reprend à dater de la réception de la régularisation par le comptable. Il ne peut, en aucun cas, être inférieur à 7 jours.
+Ce délai est également suspendu pour défaut de visa du        contrôleur budgétaire si ce visa est obligatoire ou lorsque le comptable ne peut pas payer pour manque de fonds disponibles. Le solde de ce délai reprend à dater de la réception de la régularisation par le comptable. Il ne peut, en aucun cas, être inférieur à 7 jours.

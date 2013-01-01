@@ -6,4 +6,4 @@ Les délibérations relatives aux 4° et 8° de l'article 17 deviennent exécuto
 
 Pour devenir exécutoires, les délibérations relatives aux 1°, 9°, 11°,16° et 17° de l'article 17 doivent faire l'objet d'une approbation expresse du ministre chargé de la culture ; celles relatives aux 9° et 11° du même article doivent faire, en outre, l'objet d'une approbation expresse du ministre chargé du budget.
 
-Les délibérations portant sur le budget ou sur ses modifications ainsi que sur le compte financier mentionnées aux 5° et 6° de l'article 17 sont approuvées par les ministres chargés de la culture et du budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
+Les  délibérations portant sur le budget et le compte financier, mentionnées  respectivement aux 5° et 6° de l'article 17 sont exécutoires dans les  conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

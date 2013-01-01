@@ -8,7 +8,7 @@ Sa convocation est de droit si les deux tiers des membres au moins en adressent 
 
 Le conseil d'administration peut également être convoqué à la demande du préfet des Hauts-de-Seine.
 
-L'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration.
+Le contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

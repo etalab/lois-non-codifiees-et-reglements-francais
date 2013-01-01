@@ -6,4 +6,4 @@ Le conseil est, en outre, convoqué par le président à la demande du ministre 
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres sont présents ou représentés. Si le quorum n'est pas atteint, le conseil est à nouveau convoqué dans un délai de huit jours. Il délibère alors valablement quel que soit le nombre de ses membres présents ou représentés. Les délibérations sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
 
-Le directeur général, l'autorité chargée du contrôle financier, l'agent comptable ainsi que toute personne dont le président souhaite recueillir l'avis assistent aux séances du conseil, avec voix consultative.
+Le directeur général,      le contrôleur budgétaire, l'agent comptable ainsi que toute personne dont le président souhaite recueillir l'avis assistent aux séances du conseil, avec voix consultative.

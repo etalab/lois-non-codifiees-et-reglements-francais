@@ -12,6 +12,6 @@ Si le quorum n'est pas atteint, le conseil est à nouveau convoqué avec le mêm
 
 Les membres du conseil d'administration désignés au 4° de l'article 8 peuvent donner, par écrit, mandat à un autre membre de le représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-Le directeur général de l'établissement, le directeur du département du patrimoine et des collections, le directeur du Musée national Adrien Dubouché à Limoges, le directeur du département de la création et de la production, le président du conseil artistique, scientifique et culturel, l'autorité chargée du contrôle financier ainsi que l'agent comptable assistent aux séances avec voix consultative.
+Le directeur général de l'établissement, le directeur du département du patrimoine et des collections, le directeur du Musée national Adrien Dubouché à Limoges, le directeur du département de la création et de la production, le président du conseil artistique, scientifique et culturel,      le contrôleur budgétaire ainsi que l'agent comptable assistent aux séances avec voix consultative.
 
 Le président peut appeler à participer aux séances toute autre personne dont il juge la présence utile.

@@ -28,7 +28,7 @@ Le mandat des membres élus prend effet à la date du décret de nomination des 
 
 Les membres mentionnés au 3° et au 4° ne peuvent exercer plus de deux mandats consécutifs.
 
-Le président du conseil scientifique, les directeurs généraux délégués, l'autorité chargée du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
+Le président du conseil scientifique, les directeurs généraux délégués, le contrôleur budgétaire et l'agent comptable assistent aux séances avec voix consultative.
 
 Le président du centre peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 

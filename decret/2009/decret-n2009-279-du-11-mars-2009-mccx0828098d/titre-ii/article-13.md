@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins deux fois par an à l'initiative
 
 En cas de vacance, d'absence ou d'empêchement du président, le conseil d'administration peut être convoqué par l'administrateur général. Le conseil d'administration est alors présidé par le secrétaire général du ministère chargé de la culture.
 
-Le directeur du patrimoine et des collections, l'administrateur général de l'établissement, l'autorité chargée du contrôle financier ainsi que l'agent comptable assistent aux séances avec voix consultative.
+Le directeur du patrimoine et des collections, l'administrateur général de l'établissement,      le contrôleur budgétaire ainsi que l'agent comptable assistent aux séances avec voix consultative.
 
 Le directeur régional des affaires culturelles d'Ile-de-France assiste également aux séances avec voix consultative.
 

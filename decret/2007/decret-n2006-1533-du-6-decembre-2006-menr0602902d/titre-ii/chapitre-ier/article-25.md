@@ -1,3 +1,3 @@
 # Article 25
 
-L'Académie des technologies est soumise au régime financier et comptable applicable aux établissements publics nationaux à caractère administratif, défini par les articles 151 à 189 du décret du 29 décembre 1962 susvisé et par le décret du 10 décembre 1953 susvisé, sous réserve des dispositions particulières du présent décret.
+L'Académie des technologies est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, sous réserve des dispositions particulières du présent décret.

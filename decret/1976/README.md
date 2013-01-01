@@ -50,6 +50,7 @@
 - [Décret n°76-561 du 25 juin 1976](decret-n76-561-du-25-juin-1976)
 - [Décret n°76-458 du 25 mai 1976](decret-n76-458-du-25-mai-1976)
 - [Décret n°76-459 du 25 mai 1976](decret-n76-459-du-25-mai-1976)
+- [Décret n°76-82 du 27 janvier 1976](decret-n76-82-du-27-janvier-1976)
 - [Décret n°76-488 du 28 mai 1976](decret-n76-488-du-28-mai-1976)
 - [Décret n°76-492 du 28 mai 1976](decret-n76-492-du-28-mai-1976)
 - [Décret n°76-1085 du 29 novembre 1976](decret-n76-1085-du-29-novembre-1976)

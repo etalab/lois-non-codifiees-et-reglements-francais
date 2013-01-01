@@ -10,4 +10,4 @@ Des représentants élus du personnel administratif, technique et de service don
 
 Le président, choisi parmi les membres du conseil d'administration, est nommé par le ministre chargé de la culture pour une durée de trois ans renouvelable.
 
-Le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux délibérations du conseil.
+Le        contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux délibérations du conseil.

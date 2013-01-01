@@ -10,6 +10,6 @@ Le commissaire du Gouvernement invite le membre qui n'a pas adressé cette décl
 
 Chaque année, le commissaire du Gouvernement vérifie auprès des membres du conseil d'administration qu'ils lui ont signalé les modifications intervenues dans les éléments figurant dans sa déclaration.
 
-Les informations ainsi fournies ont un caractère confidentiel. Toutefois, le commissaire du Gouvernement communique au membre chargé du contrôle économique et financier qui assiste aux séances du conseil d'administration les déclarations remplies par les membres du conseil ainsi que les modifications qui y sont apportées.
+Les informations ainsi fournies ont un caractère confidentiel. Toutefois, le commissaire du Gouvernement communique au membre chargé du   contrôle budgétaire  qui assiste aux séances du conseil d'administration les déclarations remplies par les membres du conseil ainsi que les modifications qui y sont apportées.
 
 Les membres du conseil d'administration ne peuvent prendre part aux délibérations ayant pour objet une affaire à laquelle ils ont un intérêt personnel.

@@ -6,7 +6,7 @@ Le conseil ne délibère valablement que si la moitié au moins de ses membres e
 
 Les délibérations du conseil sont prises à la majorité des suffrages exprimés ; en cas de partage égal des voix, celle du président est prépondérante.
 
-Le lieu, la date et l'heure ainsi que l'ordre du jour sont portés au moins huit jours à l'avance à la connaissance des membres du conseil d'administration ainsi que du membre du corps du contrôle général économique et financier et du commissaire du gouvernement qui participent aux séances du conseil sans prendre part aux votes.
+Le lieu, la date et l'heure ainsi que l'ordre du jour sont portés au moins huit jours à l'avance à la connaissance des membres du conseil d'administration ainsi que du        contrôleur budgétaire et du commissaire du gouvernement qui participent aux séances du conseil sans prendre part aux votes.
 
 Le président peut appeler à participer aux séances avec voix consultative toute personne dont il juge la présence utile.
 

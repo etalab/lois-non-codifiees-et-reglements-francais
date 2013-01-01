@@ -6,4 +6,4 @@ Les délibérations relatives aux 7°, 14°, 16° de l'article 8 deviennent exé
 
 Pour devenir exécutoires, les délibérations relatives aux 8°, 11° et 15° du même article doivent faire l'objet d'une approbation expresse du ministre chargé de la culture et du ministre chargé du budget.
 
-Les délibérations portant sur le budget ou sur ses modifications ainsi que sur le compte financier mentionnées respectivement aux 3° et 4° de l'article 8 sont approuvées par les ministres chargés de la culture et du budget dans les conditions fixées par le décret du 8 juillet 1999 susvisé.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

@@ -10,6 +10,6 @@ Le conseil d'administration ne peut valablement délibérer que si la moitié au
 
 Les délibérations sont prises à la majorité des voix des membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur général, le directeur général des médias et des industries culturelles ou son représentant, l'autorité chargée du contrôle financier et l'agent comptable, ainsi que toute personne dont le conseil ou son président souhaite recueillir l'avis, assistent aux séances avec voix consultative.
+Le directeur général, le directeur général des médias et des industries culturelles ou son représentant,      le contrôleur budgétaire et l'agent comptable, ainsi que toute personne dont le conseil ou son président souhaite recueillir l'avis, assistent aux séances avec voix consultative.
 
 Les membres du conseil d'administration désignés au 2° de l'article 5 peuvent donner, par écrit, mandat à un autre membre de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.

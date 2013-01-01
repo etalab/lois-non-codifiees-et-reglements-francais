@@ -22,6 +22,6 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 10° Il délibère sur les actions en justice et les transactions
 
-Généralement, il traite de toutes les questions pour lesquelles les textes en vigueur, et notamment les décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés, donnent compétence aux conseils d'administration des établissements publics nationaux à caractère administratif.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Il peut déléguer au président, dans les conditions qu'il détermine, tout ou partie des attributions définies aux 7°, 8° et 10°.

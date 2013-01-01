@@ -8,7 +8,7 @@ La convocation du conseil d'administration est de droit si la moitié des membre
 
 Le préfet de la région Rhône-Alpes, le préfet de la Loire, le secrétaire général du groupe central des grandes opérations d'urbanisme, ou leurs représentants, assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
-Le directeur départemental de l'équipement de la Loire, le membre du corps du contrôle général économique et financier et l'agent comptable ont accès aux séances du conseil d'administration.
+Le directeur départemental de l'équipement de la Loire, le        contrôleur budgétaire et l'agent comptable ont accès aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

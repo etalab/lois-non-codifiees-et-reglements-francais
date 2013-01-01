@@ -1,3 +1,3 @@
 # Article 13
 
-L'Etablissement public d'aménagement universitaire de la région Ile de France est soumis au régime financier et comptable défini par le décret du 10 décembre 1953 susvisé et les articles 151 à 189 du décret du 29 décembre 1962 susvisé ainsi qu'au contrôle financier prévu par le décret du 4 juillet 2005 susvisé.
+Sous réserve des dispositions du présent décret, l'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

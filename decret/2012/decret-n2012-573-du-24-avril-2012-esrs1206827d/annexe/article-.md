@@ -310,7 +310,7 @@ Dispositions financières
 
 Article 22
 
-Le PRES est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, et au décret modifié n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif  à la gestion budgétaire et comptable publique à l'exception des  articles 224 à 226. Le contrôle budgétaire est exercé dans le respect  des dispositions de l'article L. 719-9 du code de l'éducation.
 
 Article 23
 

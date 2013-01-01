@@ -1,3 +1,3 @@
 # Article 22
 
-L'école est soumise au régime financier et comptable fixé par les décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés, par l'article 60 de la loi de finances du 23 février 1963 et par les dispositions du présent titre.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, sous réserve des dispositions du présent décret.

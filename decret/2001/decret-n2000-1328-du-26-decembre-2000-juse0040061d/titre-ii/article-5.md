@@ -10,6 +10,6 @@ Les modalités d'élection des représentants des élèves et de ceux du personn
 
 Lorsqu'un siège devient vacant au sein du conseil d'administration, un nouveau titulaire est désigné dans les mêmes formes que son prédécesseur et achève le mandat de celui-ci, sauf si cette vacance intervient moins de six mois avant l'expiration du mandat.
 
-Le directeur de l'Ecole nationale d'administration pénitentiaire, le directeur des enseignements, le directeur de la recherche et de la diffusion, le secrétaire général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur de l'Ecole nationale d'administration pénitentiaire, le directeur des enseignements, le directeur de la recherche et de la diffusion, le secrétaire général, le        contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président peut inviter à assister aux séances du conseil d'administration avec voix consultative toute personne dont il juge la présence utile.

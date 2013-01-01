@@ -1,5 +1,3 @@
 # Article 13
 
-Le régime financier et comptable applicable à l'établissement est celui qui résulte du décret du 29 décembre 1962 susvisé.
-
-L'agent comptable est nommé par arrêté du ministre chargé du budget, après avis du conseil d'administration.
+L'agence est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et du décret du 9 août 1953 susvisé.

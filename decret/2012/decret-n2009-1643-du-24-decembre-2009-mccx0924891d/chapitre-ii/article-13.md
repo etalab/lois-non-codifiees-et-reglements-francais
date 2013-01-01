@@ -10,7 +10,7 @@ Le directeur général dirige l'établissement public. A ce titre :
 
 4° Il peut créer des régies d'avances et de recettes sur avis conforme de l'agent comptable ;
 
-5° Il peut prendre, en cas d'urgence et après approbation écrite de l'autorité chargée du contrôle financier et du président du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions sont ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+5° Il peut prendre, en cas d'urgence et après approbation écrite       du contrôleur budgétaire et du président du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions sont ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
 
 6° Il organise les départements institués à l'article 14, après avis de leur directeur, ainsi que les autres services ;
 
@@ -30,7 +30,7 @@ Le directeur général dirige l'établissement public. A ce titre :
 
 14° Il attribue les pièces de céramique dans les conditions prévues à l'article 21. Il autorise les dépôts mentionnés à l'article 22 ;
 
-15° Il préside le  comité technique et le comité d'hygiène et de sécurité.
+15° Il préside le comité technique et le comité d'hygiène et de sécurité.
 
 Il rend compte de sa gestion au conseil d'administration.
 

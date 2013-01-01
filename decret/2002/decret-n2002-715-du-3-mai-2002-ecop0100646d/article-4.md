@@ -4,6 +4,6 @@ Dans la limite des crédits ouverts à cet effet, les agents occupant un emploi 
 
 L'indemnité spécifique est exclusive de la prime de performance.
 
-Les taux moyens annuels servant de base au calcul des crédits de cette indemnité sont fixés par une décision du directeur général visée du membre du corps du contrôle général économique et financier.
+Les taux moyens annuels servant de base au calcul des crédits de cette indemnité sont fixés par une décision du directeur général visée du        contrôleur budgétaire.
 
-Les modalités d'attribution de cette indemnité sont fixées par décision du directeur général, après avis du  comité technique de l'institut.
+Les modalités d'attribution de cette indemnité sont fixées par décision du directeur général, après avis du comité technique de l'institut.

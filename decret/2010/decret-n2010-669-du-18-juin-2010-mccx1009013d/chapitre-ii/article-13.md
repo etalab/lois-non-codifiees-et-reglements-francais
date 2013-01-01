@@ -12,13 +12,13 @@ A ce titre :
 
 4° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
 
-5° Il peut, dans l'intervalle des séances du conseil d'administration, prendre en accord avec l'autorité chargée du contrôle financier des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+5° (Abrogé) ;
 
 6° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
 
 7° Il a autorité sur l'ensemble des services de l'établissement. Il gère le personnel. Il recrute les personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires à l'établissement. Il affecte les personnels dans les différents services de l'établissement ;
 
-8° Il préside le  comité technique et le comité d'hygiène et de sécurité ;
+8° Il préside le comité technique et le comité d'hygiène et de sécurité ;
 
 9° Il signe les contrats engageant l'établissement ;
 

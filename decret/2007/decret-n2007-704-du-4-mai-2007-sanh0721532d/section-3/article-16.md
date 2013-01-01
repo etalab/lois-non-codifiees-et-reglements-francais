@@ -1,3 +1,3 @@
 # Article 16
 
-Les opérations financières et comptables sont effectuées conformément aux dispositions du décret du 10 décembre 1953 susvisé relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère administratif et du décret du 29 décembre 1962 visé ci-dessus portant règlement général sur la comptabilité publique.
+Le centre est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

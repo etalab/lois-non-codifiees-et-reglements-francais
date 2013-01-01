@@ -6,9 +6,9 @@ Le président dirige l'établissement public. A ce titre :
 
 2° Il est ordonnateur des recettes et des dépenses ;
 
-3° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
+3°  Il peut créer des régies d'avances et des régies de recettes, sur avis  conforme de l'agent comptable, dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics ;
 
-4° Il peut prendre en accord avec le membre du corps du contrôle général économique et financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+4° (supprimé) ;
 
 5° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
 

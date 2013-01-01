@@ -28,6 +28,6 @@ Le conseil d'administration délibère sur :
 
 13° Les remises de créance ;
 
-14° Les acquisitions, échanges ou aliénations d'immeubles, les baux et locations, les autorisations d'occupation temporaires constitutives de droits réels sur le domaine public, les conventions d'utilisation d'immeubles conclues en application de l'article 2-1  et toutes les questions pour lesquelles les décrets susvisés du 10 décembre 1953 et du 29 décembre 1962 lui donnent compétence.
+14° Les  acquisitions, échanges ou aliénations d'immeubles, les baux et  locations, les autorisations d'occupation temporaires constitutives de  droits réels sur le domaine public, les conventions d'utilisation  d'immeubles conclues en application de l'article 2-1 ;
 
 Le conseil d'administration donne son avis sur toutes les questions pour lesquelles il est consulté par le ministre chargé de l'aviation civile.

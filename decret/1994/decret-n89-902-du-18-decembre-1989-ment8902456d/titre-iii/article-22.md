@@ -20,4 +20,4 @@ Il délibère sur :
 
 Il autorise le directeur à introduire les actions en justice.
 
-Il peut déléguer certaines de ses attributions au directeur de l'institut, à l'exception de celles mentionnées aux 3° et 6° ci-dessus. Toutefois, le directeur prend les décisions modificatives des budgets qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de personnel et les chapitres de matériel. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
+Il peut déléguer certaines de ses attributions au directeur de l'institut, à l'exception de celles mentionnées aux 3° et 6° ci-dessus. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.

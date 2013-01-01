@@ -6,7 +6,7 @@ Le président du Centre national du cinéma et de l'image animée dirige l'étab
 
 2° Il est ordonnateur des recettes et des dépenses ;
 
-3° Il peut prendre, en cas d'urgence et après approbation écrite de l'autorité chargée du contrôle financier, d'une part, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes, d'autre part, des décisions modificatives comportant des ajustements de reprises sur provisions pour charges sur les crédits destinés au financement des aides automatiques ainsi que les autorisations de dépense correspondantes. Ces décisions sont ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+3° (Abrogé) ;
 
 4° Il organise l'établissement ;
 

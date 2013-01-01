@@ -6,6 +6,6 @@ Les délibérations sont adoptées à la majorité des membres présents ou repr
 
 A l'exception de ceux qui peuvent se faire suppléer, les membres du conseil d'administration qui ne peuvent assister à une réunion peuvent donner pouvoir à un autre membre du conseil pour voter en leur nom. Nul ne peut détenir plus de deux pouvoirs.
 
-Le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier de l'établissement assistent au conseil d'administration avec voix consultative.
+Le directeur, l'agent comptable et le        contrôleur budgétaire de l'établissement assistent au conseil d'administration avec voix consultative.
 
 En outre, le président du conseil d'administration peut inviter à participer à une séance, avec voix consultative, toute personne dont il juge la présence utile.

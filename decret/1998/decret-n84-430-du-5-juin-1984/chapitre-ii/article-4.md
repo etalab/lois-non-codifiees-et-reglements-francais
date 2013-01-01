@@ -10,7 +10,7 @@ c) Six représentants élus par les personnels de l'institut pour une durée de 
 
 L'une des personnalités mentionnées au b est nommée sur proposition du ministre chargé de l'outre-mer
 
-Le ou les directeurs généraux délégués, le président du conseil scientifique, l'autorité chargée du contrôle économique et financier et l'agent comptable assistent aux séances du conseil avec voix consultative. Le président de l'institut peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
+Le ou les directeurs généraux délégués, le président du conseil scientifique,        le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil avec voix consultative. Le président de l'institut peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 
 Les administrateurs, autres que les représentants de l'Etat, décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils ont été nommés ou élus doivent être remplacés. Dans ce cas le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leurs prédécesseurs.
 

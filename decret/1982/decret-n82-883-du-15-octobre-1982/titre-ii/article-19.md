@@ -8,7 +8,7 @@ La rémunération du personnel de l'établissement, de l'agent comptable et, le 
 
 Les aides et allocations ayant pour objet le soutien à la création ;
 
-Les frais du contrôle financier ;
+Les frais du contrôle budgétaire  ;
 
 Les frais d'équipement et de fonctionnement ;
 

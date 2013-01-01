@@ -24,6 +24,6 @@ Le directeur dirige l'établissement. A ce titre :
 
 10° Il rend compte au conseil d'administration de la mise en œuvre de la politique de l'établissement et des décisions qu'il a prises en vertu des délégations qui lui ont été confiées ;
 
-11° Il peut, dans l'intervalle des séances du conseil, prendre, en accord avec l'autorité chargée du contrôle économique et financier, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil lors de la première séance qui suit leur adoption ;
+11° Il peut, dans l'intervalle des séances du conseil, prendre, en accord avec        le contrôleur budgétaire, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil lors de la première séance qui suit leur adoption ;
 
 12° Il peut déléguer sa signature ainsi qu'une partie de ses pouvoirs au directeur adjoint et à d'autres agents de l'établissement.

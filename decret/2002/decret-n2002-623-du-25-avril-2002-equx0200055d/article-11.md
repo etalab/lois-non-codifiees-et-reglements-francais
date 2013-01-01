@@ -10,7 +10,7 @@ Sa convocation est de droit si la moitié des membres au moins en adresse la dem
 
 Le préfet de la région Ile-de-France, les préfets des départements de la Seine-et-Marne, des Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise, le préfet, directeur régional de l'équipement d'Ile-de-France et le secrétaire général du groupe central des grandes opérations d'urbanisme, ou leurs représentants, assistent de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
-Le membre du corps du contrôle général économique et financier, le directeur général adjoint et l'agent comptable ont accès aux séances du conseil d'administration.
+L'autorité chargée du contrôle économique et financier le directeur général adjoint et l'agent comptable ont accès aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

@@ -10,7 +10,7 @@ Le directeur général est nommé par décret pour une durée de trois ans renou
 
 4° Il peut accepter sans autorisation préalable du conseil d'administration, à titre provisoire, les dons et les legs faits à l'établissement. L'acceptation définitive des dons et legs est inscrite à l'ordre du jour de la plus proche séance du conseil d'administration ;
 
-5° Il peut prendre, sous réserve de l'accord d'un membre du corps du contrôle général économique et financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives de l'état prévisionnel de recettes et de dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virement de crédits entre, d'une part, les chapitres de personnel et les autres chapitres de fonctionnement et, d'autre part, la section des opérations en capital et la section de fonctionnement. Ces décisions doivent être ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+5° (Abrogé) ;
 
 6° Il assure la direction des services de l'école et a autorité sur l'ensemble du personnel ;
 

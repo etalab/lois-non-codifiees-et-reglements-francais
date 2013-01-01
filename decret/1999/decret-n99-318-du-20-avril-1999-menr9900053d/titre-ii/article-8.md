@@ -10,6 +10,6 @@ Les délibérations sont prises à la majorité absolue des membres présents ou
 
 En cas de partage égal des voix, la voix du président est prépondérante.
 
-Assistent aux séances du conseil, avec voix consultative, le directeur du centre, le membre du corps du contrôle général économique et financier et l'agent comptable.
+Assistent aux séances du conseil, avec voix consultative, le directeur du centre, le        contrôleur budgétaire et l'agent comptable.
 
 Le conseil d'administration peut, sur proposition de son président, inviter toute personne dont la présence est jugée utile à assister aux séances.

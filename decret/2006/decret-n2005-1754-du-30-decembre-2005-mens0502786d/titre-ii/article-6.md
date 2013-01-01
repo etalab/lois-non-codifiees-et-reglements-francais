@@ -34,4 +34,4 @@ Le président du conseil d'administration est élu par celui-ci parmi les person
 
 Pour chaque membre élu du conseil, il est désigné un suppléant dans les mêmes conditions que le titulaire.
 
-Le directeur de l'établissement, le secrétaire général, le directeur des études, l'autorité chargée du contrôle financier, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
+Le directeur de l'établissement, le secrétaire général, le directeur des études, le contrôleur budgétaire, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.

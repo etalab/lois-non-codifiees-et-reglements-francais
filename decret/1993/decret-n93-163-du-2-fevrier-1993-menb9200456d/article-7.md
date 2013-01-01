@@ -4,7 +4,7 @@ Le conseil d'administration règle les affaires du musée sous réserve des disp
 
 1° Les orientations et l'organisation générale de l'établissement ainsi que sur son programme d'activités et d'investissement ;
 
-2° Le budget, les décisions modificatives et le compte financier ainsi que toute question de sa compétence en vertu des articles 14 à 25 du décret du 10 décembre 1953 susvisé et des articles 151 à 189 du décret du 29 décembre 1962 susvisé ;
+2° Le budget, les décisions modificatives et le compte financier ainsi que toute question de sa compétence en vertu du titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique  ;
 
 3° Les conditions de recrutement et de rémunération des agents non fonctionnaires ;
 

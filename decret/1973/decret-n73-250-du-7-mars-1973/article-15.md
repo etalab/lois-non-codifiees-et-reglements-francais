@@ -4,7 +4,7 @@ Le contrôle de l'Etablissement public foncier de Lorraine est exercé par le pr
 
 Les délibérations du conseil d'administration et celles prises par le bureau ne sont exécutoires qu'après approbation par le préfet de région.
 
-L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet de région des délibérations susmentionnées dans les cas et conditions prévus au dernier alinéa du décret du 8 juillet 1999 susvisé vaut approbation tacite.
+L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet de région des délibérations susmentionnées dans les cas et conditions prévus par le  titre III du décret n° 2012-1246 du 7 novembre 2012  relatif à la gestion budgétaire et comptable publique vaut approbation tacite.
 
 Toutefois, les délibérations du conseil d'administration ou du bureau et les décisions du directeur général ou de son adjoint relatives à l'exercice du droit de préemption ou de priorité sont exécutoires de plein droit, dès leur transmission au préfet de région, si l'exercice par l'établissement du droit de préemption ou de priorité est prévu dans une convention visée à l'article 1er, préalablement approuvée par le préfet de région.
 

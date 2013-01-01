@@ -4,4 +4,4 @@ Les dépenses de l'établissement sont réglées par l'agent comptable au vu de 
 
 Les ordres de recouvrement sont transmis par l'ordonnateur à l'agent comptable, quel qu'en soit le support.
 
-Le contrôle des dépenses exercé par l'agent comptable en application de l'article 12 du décret du 29 décembre 1962 susvisé est adapté et proportionné aux risques liés au montant et à la nature de la dépense. Les modalités de la mise en œuvre de ces procédures sont déterminées par l'agent comptable après information du président ou du directeur de l'établissement.
+Le contrôle des dépenses exercé par l'agent comptable en application de l'article 19 du décret n° 2012-1246 du 7 novembre 2012 mentionné ci-dessus est adapté et proportionné aux risques liés au montant et à la nature de la dépense. Les modalités de la mise en œuvre de ces procédures sont déterminées par l'agent comptable après information du président ou du directeur de l'établissement.

@@ -12,7 +12,7 @@ La nature des dépenses est détaillée selon les catégories suivantes :
 
 Les dépenses de personnel distinguent :
 
-- les dépenses limitatives, financées en totalité ou en partie sur subvention pour charges de service public, auxquelles est associé un plafond d'emplois autorisés exprimé en équivalent temps plein ;
+- les dépenses limitatives, financées en totalité ou en partie sur subvention pour charges de service public               ;
 
 - sous réserve des dispositions de l'article 9 ci-dessous, les dépenses non limitatives correspondant à la rémunération d'agents non permanents intégralement financée sur les autres catégories de recettes définies à l'article 5 ci-dessous. Les actes de recrutement de ces agents doivent faire mention du financement sur lequel les rémunérations seront adossées.
 

@@ -6,4 +6,4 @@ Les délibérations prévues au 8° de l'article 10 sont approuvées par décisi
 
 Les autres délibérations sont exécutoires de plein droit quinze jours après leur approbation par le conseil d'administration.
 
-Les délibérations et les décisions du président, prises par délégation du conseil d'administration, qui sont relatives aux transactions, sont exécutoires sous réserve de l'accord préalable de l'autorité chargée du contrôle financier.
+Les délibérations et les décisions du président, prises par délégation du conseil d'administration, qui sont relatives aux transactions, sont exécutoires sous réserve de l'accord préalable       du contrôleur budgétaire.

@@ -12,6 +12,6 @@ Un membre du conseil d'administration peut donner, par écrit, mandat à un autr
 
 Il est établi un procès-verbal de chaque séance, signé par le président et le secrétaire de séance. Le procès-verbal est adressé sans délai aux ministres chargés de l'éducation, de l'enseignement supérieur et de la recherche.
 
-Le directeur de l'institut, l'autorité chargée du contrôle financier et l'agent comptable assistent aux séances du conseil avec voix consultative.
+Le directeur de l'institut,      le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil avec voix consultative.
 
 Le président du conseil d'administration peut inviter à assister à tout ou partie des séances du conseil d'administration toute personne dont la présence lui paraît utile.

@@ -30,4 +30,4 @@ Le conseil d'administration est composé de vingt-cinq membres ainsi répartis :
 
 Les représentants du personnel et des élèves peuvent, en cas d'empêchement, être remplacés par un suppléant désigné dans les mêmes conditions que le titulaire.
 
-Le directeur de l'école, l'autorité chargée du contrôle financier et l'agent comptable assistent aux séances du conseil avec voix consultative.
+Le directeur de l'école,      le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil avec voix consultative.

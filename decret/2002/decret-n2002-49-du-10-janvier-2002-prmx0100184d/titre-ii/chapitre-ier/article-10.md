@@ -1,3 +1,3 @@
 # Article 10
 
-Les délibérations du conseil d'administration comportant une décision sont exécutoires dans les conditions fixées par le décret du 8 juillet 1999 susvisé.
+Les délibérations du conseil d'administration portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Les autres délibérations comportant une décision sont exécutoires dans les mêmes conditions.

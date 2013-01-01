@@ -50,6 +50,6 @@ Il peut déléguer au directeur général de l'école, dans les limites qu'il fi
 
 Le directeur général rend compte des décisions prises dans le cadre des attributions ainsi déléguées à la plus prochaine réunion du conseil d'administration.
 
-Le directeur général, les collaborateurs qu'il désigne ainsi que l'autorité chargée du contrôle financier et l'agent comptable assistent aux séances du conseil avec voix consultative.
+Le directeur général, les collaborateurs qu'il désigne ainsi que      le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil avec voix consultative.
 
 Le conseil ne délibère valablement que si le quorum des membres, arrêté par le règlement intérieur en application de l'article 12, est présent ou participe à la séance par des moyens de visioconférence ou de communication électronique permettant l'identification de ses membres et leur participation effective à une délibération collégiale.

@@ -10,9 +10,9 @@ Le président dirige l'établissement public. Les activités scientifiques de l'
 
 4° Il décide, au nom du ministre chargé de la culture, des acquisitions réalisées dans les conditions prévues à l'article 5. Sous réserve des dispositions des articles L. 1121-2 et L. 1121-3 du code général de la propriété des personnes publiques, il accepte les dons et legs faits pour les acquisitions ;
 
-5° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
+5° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable, dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics ;
 
-6° Il peut prendre en accord avec l'autorité chargée du contrôle financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes ; ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+6° (supprimé) ;
 
 7° Il signe les contrats et conventions engageant l'établissement ;
 
@@ -22,7 +22,7 @@ Le président dirige l'établissement public. Les activités scientifiques de l'
 
 10° Il a autorité sur l'ensemble des personnels de l'établissement et les affecte dans les différents services ;
 
-11° Il préside le  comité technique et le comité d'hygiène et de sécurité.
+11° Il préside le comité technique et le comité d'hygiène et de sécurité.
 
 12° Il fixe les tarifs et les droits d'entrée dans le cadre de la politique définie par le conseil d'administration en application du 4° de l'article 20. Il rend compte des décisions prises dans ce cadre.
 

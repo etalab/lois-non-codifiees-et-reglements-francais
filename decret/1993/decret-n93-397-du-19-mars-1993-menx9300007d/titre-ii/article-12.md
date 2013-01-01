@@ -6,7 +6,7 @@ Le président dirige l'établissement public. A ce titre :
 
 2° Il représente le centre en justice et dans tous les actes de la vie civile ;
 
-3° Il est l'ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés ;
+3° Il est l'ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
 
 4° Il attribue les subventions, prêts et avances prévus à l'article 4 du présent décret ;
 
@@ -14,8 +14,6 @@ Le président dirige l'établissement public. A ce titre :
 
 6° Il préside le  comité technique et le comité d'hygiène et de sécurité ;
 
-7° Il arrête les décisions modificatives provisoires portant sur le budget de l'établissement dans les conditions fixées à l'article 20 ci-après.
-
-Le président peut déléguer sa signature au directeur général ainsi que, à l'exception des décisions d'attribution des subventions, prêts et avances, aux responsables des services de l'établissement.
+7° 'Supprimé) ;
 
 8° Il propose au ministre chargé de la culture la nomination du président et des membres des commissions spécialisées prévues au 3° de l'article 10 du présent décret.

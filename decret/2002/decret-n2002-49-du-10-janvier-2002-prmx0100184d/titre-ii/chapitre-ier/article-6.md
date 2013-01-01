@@ -12,7 +12,7 @@ Le conseil d'administration peut constituer en son sein les commissions utiles �
 
 Le directeur de l'école ou, en cas d'empêchement, le secrétaire général et les collaborateurs désignés par le directeur à cet effet assistent aux séances du conseil d'administration, sans pouvoir prendre part au vote.
 
-Le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration et de la commission financière. Ils ont accès aux autres commissions lorsque les décisions qu'elles peuvent prendre ont une incidence financière.
+Le        contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration et de la commission financière. Ils ont accès aux autres commissions lorsque les décisions qu'elles peuvent prendre ont une incidence financière.
 
 Le conseil désigne un secrétaire qui peut être choisi parmi le personnel de l'école.
 

@@ -2,16 +2,16 @@
 
 Assistent aux séances du conseil d'administration avec voix consultative :
 
-- l'inspecteur de l'Ecole polytechnique ;
+-l'inspecteur de l'Ecole polytechnique ;
 
-- le membre du corps du contrôle général économique et financier près l'Ecole polytechnique ;
+-le        contrôleur budgétaire près l'Ecole polytechnique ;
 
-- l'agent comptable de l'établissement ;
+-l'agent comptable de l'établissement ;
 
-- les deux directeurs généraux adjoints ;
+-les deux directeurs généraux adjoints ;
 
-- le directeur de la formation humaine et militaire ;
+-le directeur de la formation humaine et militaire ;
 
-- le secrétaire général.
+-le secrétaire général.
 
 Le président peut faire entendre par le conseil toute personne qu'il juge susceptible de l'éclairer sur l'une des questions à l'ordre du jour.

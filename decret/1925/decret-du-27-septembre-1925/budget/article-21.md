@@ -1,7 +1,5 @@
 # Article 21
 
-Le conseil d'administration établit le budget primitif sur le rapport d'un de ses membres et sur le vu des propositions adressées au président par le directeur.
+Sous réserve des dispositions du présent décret, le port autonome est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185,204 à 208 et 220 à 228.
 
-Les autorisations spéciales de recettes ou de dépenses reconnues nécessaires en cours d'exercice sont délibérées et approuvées dans les mêmes formes que le budget.
-
-Dans le courant du premier semestre, il peut être établi, dans la forme du budget primitif, un budget supplémentaire tenant compte des résultats de l'exercice précédent, et rectifiant, s'il y a lieu, les prévisions dudit budget primitif.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

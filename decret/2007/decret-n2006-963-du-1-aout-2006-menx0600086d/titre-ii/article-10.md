@@ -6,7 +6,7 @@ Les délibérations sont adoptées à la majorité des voix des membres présent
 
 Un membre du conseil d'administration qui n'est pas suppléé peut donner, par écrit, mandat à un autre membre de le représenter à une séance. Nul ne peut détenir plus d'un mandat.
 
-Le directeur général de l'établissement, l'autorité chargée du contrôle financier et l'agent comptable assistent au conseil d'administration avec voix consultative.
+Le directeur général de l'établissement,      le contrôleur budgétaire et l'agent comptable assistent au conseil d'administration avec voix consultative.
 
 Il en est de même pour le président du conseil d'administration de l'établissement public OSEO ou son représentant.
 

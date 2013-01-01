@@ -10,9 +10,9 @@ A ce titre :
 
 3° Il décide, au nom du ministre chargé de la culture, des acquisitions réalisées dans les conditions prévues à l'article 5 ; sous réserve des dispositions des articles L. 15 et L. 19 du code du domaine de l'Etat, il accepte les dons et legs faits pour les acquisitions ;
 
-4° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
+4° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable, dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics ;
 
-5° Il peut prendre en accord avec le membre du corps du contrôle général économique et financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes ; ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+5° (abrogé) ;
 
 6° Il signe les contrats et conventions engageant l'établissement ; il est la personne responsable des marchés ;
 
@@ -22,6 +22,6 @@ A ce titre :
 
 9° Il a autorité sur l'ensemble des personnels de l'établissement et les affecte dans les différents services ;
 
-10° Il préside le  comité technique et le comité d'hygiène et de sécurité.
+10° Il préside le comité technique et le comité d'hygiène et de sécurité.
 
 Il rend compte de sa gestion au conseil d'administration.

@@ -18,7 +18,7 @@ Le président et les personnalités qualifiées sont nommés pour une durée de 
 
 En cas d'empêchement d'une personnalité qualifiée, son suppléant est choisi par le président sur une liste de huit personnalités nommées dans les mêmes conditions que les membres titulaires.
 
-II. - Les autorités chargées du contrôle financier de l'Agence nationale pour la cohésion sociale et l'égalité des chances et du Centre national du cinéma et de l'image animée participent aux séances de la Commission images de la diversité à titre consultatif.
+II. - Les autorités chargées du contrôle budgétaire de l'Agence nationale pour la cohésion sociale et l'égalité des chances et du Centre national du cinéma et de l'image animée participent aux séances de la Commission images de la diversité à titre consultatif.
 
 III. - La Commission images de la diversité fixe les modalités d'examen des demandes qui lui sont transmises. Elle établit son règlement intérieur qui est approuvé par décision conjointe du directeur général de l'Agence nationale pour la cohésion sociale et l'égalité des chances et du président du Centre national du cinéma et de l'image animée.
 

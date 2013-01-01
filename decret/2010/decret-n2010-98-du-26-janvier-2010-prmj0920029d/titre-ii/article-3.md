@@ -36,6 +36,6 @@ Les membres du conseil d'administration mentionnés aux 2°, 3° et 5° peuvent 
 
 Le président du conseil d'administration est désigné par le ministre chargé de la jeunesse, parmi les membres du conseil d'administration, pour une durée de trois ans.
 
-Le directeur de l'établissement, l'autorité chargée du contrôle financier et l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président du conseil d'administration assistent aux séances avec voix consultative.
+Le directeur de l'établissement,      le contrôleur budgétaire et l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président du conseil d'administration assistent aux séances avec voix consultative.
 
 Le président du conseil scientifique prévu à l'article 9 du présent décret assiste aux séances avec voix consultative.

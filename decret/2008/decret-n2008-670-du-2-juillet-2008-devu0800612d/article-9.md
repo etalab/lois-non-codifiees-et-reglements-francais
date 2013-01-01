@@ -8,7 +8,7 @@ Le conseil d'administration peut également être convoqué à la demande du pr�
 
 Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
 
-Le préfet de la région Languedoc-Roussillon, préfet de l'Hérault, assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande. Le directeur régional de l'alimentation de l'agriculture et de la forêt, le directeur régional de l'environnement, le membre du corps du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent également de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le préfet de la région Languedoc-Roussillon, préfet de l'Hérault, assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande. Le directeur régional de l'alimentation de l'agriculture et de la forêt, le directeur régional de l'environnement, le contrôleur budgétaire  de l'Etat et l'agent comptable de l'établissement assistent également de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

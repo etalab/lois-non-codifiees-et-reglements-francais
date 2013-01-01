@@ -194,11 +194,9 @@ Le conseil ne peut valablement délibérer que si la moitié au moins de ses mem
 
 Les décisions du conseil d'administration sont prises à la majorité des membres présents ou représentés, à l'exception des décisions ayant une incidence budgétaire qui sont prises à la majorité des membres en exercice.
 
-En cas de partage égal des voix, le président de Université Nantes Angers Le Mans a voix
+En cas de partage égal des voix, le président de Université Nantes Angers Le Mans a voix prépondérante.
 
-prépondérante.
-
-Les décisions du conseil d'administration sont exécutoires sans délai.
+Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les membres du conseil d'administration peuvent donner procuration à un autre membre du conseil. Chaque membre du conseil ne peut être porteur de plus de deux procurations.
 
@@ -234,11 +232,9 @@ Dispositions financières
 
 Article 13
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 14
-
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 14 (Abrogé).
 
 Article 15
 

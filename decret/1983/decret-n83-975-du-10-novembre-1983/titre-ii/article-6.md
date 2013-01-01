@@ -4,23 +4,23 @@ Outre le président de l'institut, le conseil d'administration comprend vingt-de
 
 1° Six représentants de l'Etat :
 
-- deux représentants du ministre chargé de la santé ;
+-deux représentants du ministre chargé de la santé ;
 
-- un représentant du ministre chargé de la recherche ;
+-un représentant du ministre chargé de la recherche ;
 
-- un représentant du ministre chargé de l'enseignement supérieur ;
+-un représentant du ministre chargé de l'enseignement supérieur ;
 
-- un représentant du ministre chargé de l'industrie ;
+-un représentant du ministre chargé de l'industrie ;
 
-- un représentant du ministre chargé du budget ;
+-un représentant du ministre chargé du budget ;
 
 2° Trois représentants d'établissements publics ayant une mission de recherche et d'enseignement supérieur :
 
-- le président du Centre national de la recherche scientifique ou son représentant nommément désigné ;
+-le président du Centre national de la recherche scientifique ou son représentant nommément désigné ;
 
-- un président d'université nommé par le ministre chargé de l'enseignement supérieur sur proposition de la Conférence des présidents d'université en raison de ses compétences dans le champ d'intervention de l'institut ou son suppléant désigné dans les mêmes conditions ;
+-un président d'université nommé par le ministre chargé de l'enseignement supérieur sur proposition de la Conférence des présidents d'université en raison de ses compétences dans le champ d'intervention de l'institut ou son suppléant désigné dans les mêmes conditions ;
 
-- un directeur de centre hospitalier universitaire choisi par le ministre chargé de la santé ou son suppléant désigné dans les mêmes conditions ;
+-un directeur de centre hospitalier universitaire choisi par le ministre chargé de la santé ou son suppléant désigné dans les mêmes conditions ;
 
 3° Six représentants des personnels de l'institut élus pour une durée de quatre ans, renouvelable une fois, trois d'entre eux représentant les personnels chercheurs, les trois autres représentant les personnels ingénieurs, techniciens et administratifs. Les modalités d'élection sont fixées par un arrêté conjoint du ministre chargé de la recherche et du ministre chargé de la santé ;
 
@@ -42,6 +42,6 @@ Le président peut appeler à participer aux séances, avec voix consultative, t
 
 Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés ou élus sont remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
 
-Le ou les directeurs généraux délégués, l'autorité chargée du contrôle économique et financier et l'agent comptable assistent aux séances avec voix consultative.
+Le ou les directeurs généraux délégués,        le contrôleur budgétaire et l'agent comptable assistent aux séances avec voix consultative.
 
 Les membres du conseil d'administration exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation en vigueur.

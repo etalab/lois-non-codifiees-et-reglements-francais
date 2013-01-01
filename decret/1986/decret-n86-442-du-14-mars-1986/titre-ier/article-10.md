@@ -6,7 +6,7 @@ Sous réserve des dispositions de l'article R. 46 du code des pensions civiles e
 
 1. Le directeur ou chef de service dont dépend l'intéressé, ou son représentant, président ;
 
-2. Le membre du corps du contrôle général économique et financier ou son représentant ;
+2. Le contrôleur budgétaire ou son représentant ;
 
 3. Deux représentants titulaires du personnel à la commission administrative paritaire dont relève le fonctionnaire intéressé, appartenant au même grade ou au même corps que ce dernier, ou éventuellement leurs suppléants, élus par les représentants du personnel titulaires et suppléants de cette commission ;
 

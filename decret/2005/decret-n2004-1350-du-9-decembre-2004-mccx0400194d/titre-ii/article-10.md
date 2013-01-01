@@ -16,7 +16,7 @@ Le président dirige l'établissement public. A ce titre :
 
 7° Il est l'ordonnateur des recettes et des dépenses ;
 
-8° Il peut prendre en accord avec le membre du corps du contrôle général économique et financier, dans l'intervalle de séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes, ni virements de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des dépenses de matériel et les chapitres des dépenses de personnel. Ces décisions sont exécutoires après notification aux ministres chargés de la tutelle et doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+8° (Abrogé) ;
 
 9° Il peut créer des régies d'avances et de recettes sur avis conforme de l'agent comptable ;
 

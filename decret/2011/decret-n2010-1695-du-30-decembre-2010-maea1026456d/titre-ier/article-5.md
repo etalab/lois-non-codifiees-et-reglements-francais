@@ -54,7 +54,7 @@ e) Un représentant du ministre chargé du budget ;
 
 19° Un représentant d'une école française à l'étranger ;
 
-20° Un représentant de l'autorité chargée du contrôle économique et financier.
+20° Le contrôleur budgétaire ou son représentant.
 
 Les membres mentionnés aux 5°, 13° et 14° sont nommés par le ministre des affaires étrangères. Les membres mentionnés aux 15° à 18° sont nommés conjointement par le ministre des affaires étrangères et le ministre chargé de la culture. Les membres mentionnés aux 12° et 19° sont nommés conjointement par le ministre des affaires étrangères et le ministre chargé de l'enseignement supérieur. Les membres mentionnés aux 3° et 20° sont nommés par les ministres concernés.
 

@@ -12,4 +12,4 @@ Les modifications apportées au budget de l'établissement en cours d'exercice d
 
 Les modifications sont rendues exécutoires selon la même procédure et dans les mêmes conditions que le budget initial auquel elles se rapportent.
 
-Lorsque l'équilibre d'un état prévisionnel des recettes et des dépenses est, en cours d'exercice, substantiellement affecté, le président ou le directeur de l'établissement demande au conseil de gestion de la fondation universitaire de procéder aux modifications nécessaires.
+Lorsque l'équilibre du budget d'une fondation est, en cours d'exercice, substantiellement affecté, le président ou le directeur de l'établissement demande au conseil de gestion de la fondation universitaire de procéder aux modifications nécessaires.

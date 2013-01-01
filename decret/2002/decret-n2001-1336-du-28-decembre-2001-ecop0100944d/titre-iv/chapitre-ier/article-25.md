@@ -6,15 +6,15 @@ CATÉGORIE D'ORIGINE : Groupe I
 
 NOUVELLE CATÉGORIE d'emplois : Hors classe.
 
-CATÉGORIE D'ORIGINE : Groupe II - Cadres techniques, échelle C
+CATÉGORIE D'ORIGINE : Groupe II-Cadres techniques, échelle C
 
 NOUVELLE CATÉGORIE d'emplois : Administrateurs.
 
-CATÉGORIE D'ORIGINE : Groupe II - Cadres techniques, échelle B
+CATÉGORIE D'ORIGINE : Groupe II-Cadres techniques, échelle B
 
 NOUVELLE CATÉGORIE d'emplois : Cadres principaux.
 
-CATÉGORIE D'ORIGINE : Groupe II - Cadres administratifs
+CATÉGORIE D'ORIGINE : Groupe II-Cadres administratifs
 
 NOUVELLE CATÉGORIE d'emplois : Cadres.
 
@@ -30,6 +30,6 @@ NOUVELLE CATÉGORIE d'emplois : Employés administratifs.
 
 3. Les agents du service de l'opposition des marques, dénommés " juristes " recrutés en contrat à durée déterminée et en fonctions à la date de publication du présent décret, peuvent demander, dans un délai de six mois à compter de cette même date, à bénéficier d'un contrat à durée indéterminée. En cas de réponse positive du directeur général, les agents chargés de fonctions d'encadrement sont classés dans la catégorie d'emplois des administrateurs, les autres dans celle des cadres principaux.
 
-Les reclassements visés aux alinéas 2° et 3° ci-dessus s'effectuent sans perte de salaire, selon des tableaux individuels de reclassement soumis à l'avis du membre du corps du contrôle général économique et financier.
+Les reclassements visés aux alinéas 2° et 3° ci-dessus s'effectuent sans perte de salaire, selon des tableaux individuels de reclassement soumis à l'avis du        contrôleur budgétaire.
 
 Un arrêté conjoint des ministres chargés du budget, de la fonction publique et de l'industrie précise les conditions de mise en oeuvre du présent article.

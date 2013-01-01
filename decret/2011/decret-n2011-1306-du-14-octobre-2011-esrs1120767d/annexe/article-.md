@@ -8,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-Le pôle de recherche et d'enseignement supérieur (PRES)  Normandie Université  est un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+Le pôle de recherche et d'enseignement supérieur (PRES) Normandie Université est un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
 Cet établissement est chargé de mener les projets prévus dans le cadre du PRES " Normandie Université " et de gérer la mise en commun des moyens que les établissements et organismes fondateurs et associés y consacrent.
 
@@ -20,7 +20,7 @@ Article 2
 
 Au moment de sa création, l'établissement comprend les membres fondateurs suivants :
 
-Université de Caen - Basse-Normandie ;
+Université de Caen-Basse-Normandie ;
 
 Ecole nationale supérieure d'ingénieurs de Caen (ENSICAEN) ;
 
@@ -148,13 +148,13 @@ Collège n° 5 : deux représentants maximum des personnels ingénieurs, adminis
 
 Collège n° 6 : quatre représentants des étudiants qui suivent une formation au sein de l'établissement.
 
-Les membres des collèges 4, 5 et 6 sont élus dans des conditions fixées par délibération du conseil d'administration.
+Les membres des collèges 4,5 et 6 sont élus dans des conditions fixées par délibération du conseil d'administration.
 
 Le recteur de l'académie où est implanté le siège de l'EPCS assiste ou se fait représenter au sein du conseil d'administration. Le conseil d'administration peut inviter toute personne dont il juge la présence utile.
 
 Article 8
 
-Le mandat des membres du collège n° 1 autres que les présidents et directeurs des établissements fondateurs ainsi que le mandat des membres des collèges n°s 2, 3, 4 et 5 de l'article 7 est fixé à trois ans, celui des membres du collège 6 est fixé à deux ans.
+Le mandat des membres du collège n° 1 autres que les présidents et directeurs des établissements fondateurs ainsi que le mandat des membres des collèges n° s 2,3,4 et 5 de l'article 7 est fixé à trois ans, celui des membres du collège 6 est fixé à deux ans.
 
 Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou élu ou lorsque son siège devient vacant à la suite de démission ou décès, il est pourvu à son remplacement pour la durée du mandat restant à courir. Le règlement intérieur de l'établissement prévoit les conditions de ce remplacement.
 
@@ -244,11 +244,9 @@ Dispositions financières
 
 Article 12
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 13
-
-L'agent comptable du pôle est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 13 (Abrogé).
 
 Article 14
 
@@ -292,8 +290,8 @@ Par dérogation à l'article 10, le premier budget primitif de l'établissement 
 
 Article 19
 
-Jusqu'à la première élection des membres des collèges 4, 5 et 6 de l'article 7, le conseil d'administration siège valablement avec les seuls membres des collèges 1, 2 et 3 de cet article et adopte le règlement intérieur à la majorité des deux tiers dans un délai de quatre mois.
+Jusqu'à la première élection des membres des collèges 4,5 et 6 de l'article 7, le conseil d'administration siège valablement avec les seuls membres des collèges 1,2 et 3 de cet article et adopte le règlement intérieur à la majorité des deux tiers dans un délai de quatre mois.
 
-En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 17 organise les élections des membres des collèges 4, 5 et 6 de l'article 7 dans un délai maximum de six mois à compter de l'adoption du règlement intérieur.
+En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 17 organise les élections des membres des collèges 4,5 et 6 de l'article 7 dans un délai maximum de six mois à compter de l'adoption du règlement intérieur.
 
-Les membres élus des collèges 4, 5 et 6 de l'article 7 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres des collèges 2 et 3 de ce même article.
+Les membres élus des collèges 4,5 et 6 de l'article 7 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres des collèges 2 et 3 de ce même article.

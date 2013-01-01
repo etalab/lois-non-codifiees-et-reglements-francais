@@ -6,7 +6,7 @@ Le conseil d'administration est convoqué par son président, qui fixe l'ordre d
 
 La convocation du conseil d'administration est de droit si la moitié des membres au moins ou le préfet de Gironde en adressent la demande écrite à son président.
 
-Le préfet de Gironde ou son représentant assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande. Le directeur départemental des territoires et de la mer de Gironde, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable ont accès aux séances du conseil d'administration.
+Le préfet de Gironde ou son représentant assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande. Le directeur départemental des territoires et de la mer de Gironde,        le contrôleur budgétaire de l'Etat et l'agent comptable ont accès aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

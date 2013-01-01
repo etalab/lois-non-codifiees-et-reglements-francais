@@ -14,7 +14,7 @@ Le directeur de l'établissement est nommé pour trois ans par arrêté du minis
 
 6° Il décide des actions en justice autres que celles désignées à l'article 16 ;
 
-7° Il rend compte de sa gestion au conseil d'administration. Il prend, en accord avec l'autorité chargée du contrôle financier, toute décision modificative du budget, autre que celles prévues au 4° de l'article 16, et la fait ratifier par le prochain conseil d'administration conformément au 13° de l'article 16.
+7° Il rend compte de sa gestion au conseil d'administration. Il prend, en accord avec      le contrôleur budgétaire, toute décision modificative du budget, autre que celles prévues au 4° de l'article 16, et la fait ratifier par le prochain conseil d'administration conformément au 13° de l'article 16.
 
 8° Il signe les baux autres que les baux emphytéotiques ainsi que les actes nécessaires à la location de logements destinés aux personnes mentionnées à l'article 2, dans la limite des dispositions prévues au 9° de l'article 16.
 

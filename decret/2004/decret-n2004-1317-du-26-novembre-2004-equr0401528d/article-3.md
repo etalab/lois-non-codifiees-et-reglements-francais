@@ -10,6 +10,6 @@ Il autorise les emprunts dans la limite d'un plafond fixé en loi de finances. T
 
 Il autorise la conclusion des conventions et marchés.
 
-Les délibérations relatives au budget de l'établissement et à ses comptes annuels sont réputées approuvées en l'absence d'opposition du ministre chargé des transports ou du ministre chargé du budget dans les quinze jours suivant leur réception par chacun de ces ministres.
+Les délibérations relatives au budget de l'établissement     sont réputées approuvées en l'absence d'opposition du ministre chargé des transports ou du ministre chargé du budget dans les quinze jours suivant leur réception par chacun de ces ministres.
 
 Le conseil d'administration établit son règlement intérieur.

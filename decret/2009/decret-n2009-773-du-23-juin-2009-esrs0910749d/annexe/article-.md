@@ -1,6 +1,6 @@
 # Article 
 
-**STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION SCIENTIFIQUE "UNIVERSITÉ DE GRENOBLE"**
+**STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION SCIENTIFIQUE " UNIVERSITÉ DE GRENOBLE "**
 
 Chapitre Ier
 
@@ -8,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-L' Université de Grenoble  est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+L'Université de Grenoble est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
 Son siège est fixé à Saint-Martin-d'Hères (Isère). Le conseil d'administration de l'établissement peut décider de transférer son siège en tout autre lieu.
 
@@ -32,7 +32,7 @@ Article 2
 
 L'établissement a pour missions, dans la perspective de la constitution d'un nouvel établissement universitaire et scientifique :
 
-― de piloter, mettre en œuvre et suivre l'exécution de  l'opération Campus  dénommée  Grenoble université de l'innovation  ;
+― de piloter, mettre en œuvre et suivre l'exécution de l'opération Campus dénommée Grenoble université de l'innovation ;
 
 ― d'accroître au niveau international sa visibilité par des actions fortement cohérentes incluant la mise en place de la signature unique Université de Grenoble dans les publications et autres activités de recherche, des partenariats internationaux ;
 
@@ -64,7 +64,7 @@ Article 3
 
 Le président, par ses décisions, dirige et le conseil d'administration, par ses délibérations, administre l'établissement.
 
-Le conseil d'administration est assisté par un comité d'orientation stratégique, un conseil scientifique et un comité  Grenoble université de l'innovation .
+Le conseil d'administration est assisté par un comité d'orientation stratégique, un conseil scientifique et un comité Grenoble université de l'innovation.
 
 Le président est assisté d'un bureau.
 
@@ -126,7 +126,7 @@ Article 7
 
 Le mandat des membres du conseil d'administration est fixé à deux ans, renouvelable.
 
-Les membres mentionnés aux points 4, 5 et 6 de l'article 6 sont élus dans les conditions fixées par délibération du conseil d'administration.
+Les membres mentionnés aux points 4,5 et 6 de l'article 6 sont élus dans les conditions fixées par délibération du conseil d'administration.
 
 Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou lorsque son siège devient vacant à la suite de démission ou décès, il est pourvu à son remplacement pour la durée de mandat qui reste à courir. S'il s'agit du président de l'un des établissements fondateurs, il est également pourvu au remplacement du deuxième représentant de cet établissement mentionné au point 1 de l'article 6 ci-dessus pour la durée du mandat qui reste à courir.
 
@@ -142,7 +142,7 @@ A ce titre, il délibère notamment sur :
 
 2. L'organisation générale et le fonctionnement de l'établissement ;
 
-3. Le budget de l'établissement et ses modifications, le compte financier et l'affectation des résultats ; les délibérations concernant le budget annexe et les documents comptables de  Grenoble université de l'innovation  sont prises après avis du comité  Grenoble université de l'innovation  ;
+3. Le budget de l'établissement et ses modifications, le compte financier et l'affectation des résultats ; les délibérations concernant le budget annexe et les documents comptables de Grenoble université de l'innovation sont prises après avis du comité Grenoble université de l'innovation ;
 
 4. Le règlement intérieur de l'établissement ;
 
@@ -168,7 +168,7 @@ A ce titre, il délibère notamment sur :
 
 15. L'exclusion d'un membre, ce dernier ne prenant pas part au vote.
 
-Dans les limites qu'il détermine, le conseil d'administration peut déléguer au président certaines de ses attributions, à l'exception de celles mentionnées aux points 1, 2, 3, 4, 5, 6, 9, 10, 14 et 15 ci-dessus.
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au président certaines de ses attributions, à l'exception de celles mentionnées aux points 1,2,3,4,5,6,9,10,14 et 15 ci-dessus.
 
 Le président peut, en outre, recevoir délégation pour prendre les décisions modificatives des budgets :
 
@@ -188,7 +188,7 @@ Les membres du conseil d'administration peuvent donner procuration à un autre m
 
 Le conseil délibère valablement si la majorité des membres en exercice est présente ou représentée. Si le quorum n'est pas atteint à l'ouverture de la séance, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de huit jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés.
 
-Les délibérations sont prises à la majorité des membres présents ou représentés et à l'unanimité des présidents et chefs d'établissement membres fondateurs. Les décisions du conseil d'administration sont exécutoires sans délai.
+Les délibérations sont prises à la majorité des membres présents ou représentés et à l'unanimité des présidents et chefs d'établissement membres fondateurs. Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 L'agent comptable, le directeur exécutif ainsi que toute personne dont le président souhaite recueillir l'avis assistent aux séances du conseil avec voix consultative.
 
@@ -200,11 +200,11 @@ La composition et les attributions de ces instances, les modalités de fonctionn
 
 Article 11
 
-Le comité  Grenoble université de l'innovation  est composé de deux collèges : le collège des membres fondateurs de l'EPCS et le collège des organismes partenaires dans l'opération  Grenoble université de l'innovation . Il peut être complété par des personnalités invitées ayant voix consultative selon les modalités fixées par le règlement intérieur qui détermine également les règles de fonctionnement du comité.
+Le comité Grenoble université de l'innovation est composé de deux collèges : le collège des membres fondateurs de l'EPCS et le collège des organismes partenaires dans l'opération Grenoble université de l'innovation. Il peut être complété par des personnalités invitées ayant voix consultative selon les modalités fixées par le règlement intérieur qui détermine également les règles de fonctionnement du comité.
 
-Le comité est présidé par le président de l'établissement public  Université de Grenoble . Il est assisté d'un vice-président issu du collège des organismes partenaires de l'opération  Grenoble université de l'innovation .
+Le comité est présidé par le président de l'établissement public Université de Grenoble. Il est assisté d'un vice-président issu du collège des organismes partenaires de l'opération Grenoble université de l'innovation.
 
-Le comité délibère sur toutes les questions relatives à la réalisation de l'opération Campus  Grenoble université de l'innovation  et, notamment, il donne un avis sur le budget annexe et les comptes afférents. Ses délibérations sont adoptées à l'unanimité des deux collèges ; elles sont transmises au conseil d'administration de l'établissement.
+Le comité délibère sur toutes les questions relatives à la réalisation de l'opération Campus Grenoble université de l'innovation et, notamment, il donne un avis sur le budget annexe et les comptes afférents. Ses délibérations sont adoptées à l'unanimité des deux collèges ; elles sont transmises au conseil d'administration de l'établissement.
 
 Le président du comité prépare les délibérations du comité ; il en assure l'exécution après approbation par le conseil d'administration.
 
@@ -214,15 +214,13 @@ Dispositions financières
 
 Article 12
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
 Article 13
 
-Toutes les ressources et toutes les dépenses relatives à l'opération  Grenoble université de l'innovation  sont retracées au sein d'un budget annexe au budget de l'établissement dont l'exécution fait l'objet de documents comptables distincts.
+Toutes les ressources et toutes les dépenses relatives à l'opération Grenoble université de l'innovation sont retracées au sein d'un budget annexe au budget de l'établissement dont l'exécution fait l'objet de documents comptables distincts.
 
-Article 14
-
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 14 (Abrogé).
 
 Article 15
 
@@ -234,7 +232,7 @@ Les recettes de l'établissement comprennent notamment :
 
 3. Les ressources obtenues au titre de la participation à des programmes nationaux ou internationaux de recherche conduits en commun ;
 
-4. Les financements de toute nature et de toute origine obtenus au titre de l'opération Campus  Grenoble université de l'innovation  ;
+4. Les financements de toute nature et de toute origine obtenus au titre de l'opération Campus Grenoble université de l'innovation ;
 
 5. Le produit des contrats de recherche ou de valorisation de la recherche ;
 
@@ -244,7 +242,7 @@ Les recettes de l'établissement comprennent notamment :
 
 8. Les dons et legs ;
 
-9. Les recettes perçues par les membres pour les services transférés à l'EPCS  Université de Grenoble  en application de l'article 2 ;
+9. Les recettes perçues par les membres pour les services transférés à l'EPCS Université de Grenoble en application de l'article 2 ;
 
 10. De manière générale, toutes autres recettes autorisées par les lois et règlements en vigueur.
 
@@ -272,8 +270,8 @@ Par dérogation à l'article 8, le premier budget primitif de l'établissement e
 
 Article 20
 
-Jusqu'à la première élection des membres mentionnés aux points 4, 5 et 6 de l'article 6, le conseil d'administration siège valablement avec les seuls membres mentionnés aux points 1, 2 et 3 de cet article et adopte le règlement intérieur dans un délai de quatre mois.
+Jusqu'à la première élection des membres mentionnés aux points 4,5 et 6 de l'article 6, le conseil d'administration siège valablement avec les seuls membres mentionnés aux points 1,2 et 3 de cet article et adopte le règlement intérieur dans un délai de quatre mois.
 
-En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 18 organise les élections des membres mentionnés aux points 4, 5 et 6 de l'article 6 dans un délai maximum de trois mois à compter de l'adoption du règlement intérieur.
+En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 18 organise les élections des membres mentionnés aux points 4,5 et 6 de l'article 6 dans un délai maximum de trois mois à compter de l'adoption du règlement intérieur.
 
-Les membres élus mentionnés aux points 4, 5 et 6 de l'article 6 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres mentionnés aux points 2 et 3 de ce même article.
+Les membres élus mentionnés aux points 4,5 et 6 de l'article 6 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres mentionnés aux points 2 et 3 de ce même article.

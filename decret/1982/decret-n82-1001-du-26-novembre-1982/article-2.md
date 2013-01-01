@@ -4,6 +4,6 @@ Le conseil d'administration se réunit au moins deux fois par an sur convocation
 
 En cas de partage des voix, la voix du président est prépondérante.
 
-Le directeur du fonds, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
+Le directeur du fonds, le        contrôleur budgétaire et l'agent comptable assistent aux séances avec voix consultative.
 
 Les délibérations du conseil sont signées par le président et transmises aux ministres de tutelle dans la quinzaine suivant la séance.

@@ -8,7 +8,7 @@ Sa convocation est de droit si les deux tiers des membres au moins en adressent 
 
 Le conseil d'administration peut également être convoqué à la demande du préfet de la Vendée.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement, l'autorité chargée du contrôle économique et financier et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration.
+Le directeur régional de l'environnement, de l'aménagement et du logement,        le contrôleur budgétaire et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

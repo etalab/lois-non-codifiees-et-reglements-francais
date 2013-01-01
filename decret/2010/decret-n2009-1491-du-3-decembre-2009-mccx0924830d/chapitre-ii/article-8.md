@@ -8,7 +8,7 @@ Le conseil ne délibère valablement que si la moitié au moins de ses membres e
 
 Les délibérations sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
 
-Le directeur général délégué, l'autorité chargée du contrôle économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur général délégué,        le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président convie les présidents de l'Etablissement public du Grand Palais et de l'Etablissement public du parc et de la grande halle de La Villette pour l'examen des sujets susceptibles de les intéresser.
 

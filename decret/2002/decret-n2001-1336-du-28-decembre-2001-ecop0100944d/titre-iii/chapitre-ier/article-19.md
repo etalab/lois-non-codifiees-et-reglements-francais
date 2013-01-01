@@ -14,7 +14,7 @@ Les agents sont classés, compte tenu de l'emploi pour lequel ils ont été recr
 
 6° Hors-classe : parcours professionnel justifiant ce classement.
 
-Par dérogation aux dispositions ci-dessus, des agents ne justifiant pas des conditions de titres ou de diplômes exigées peuvent être recrutés par décision du directeur général, compte tenu de leur expérience professionnelle antérieure et de la fonction à pourvoir, après avis du membre du corps du contrôle général économique et financier. Le nombre d'agents pouvant bénéficier de cette disposition ne peut dépasser 5 % de l'effectif budgétaire de chaque catégorie d'emplois.
+Par dérogation aux dispositions ci-dessus, des agents ne justifiant pas des conditions de titres ou de diplômes exigées peuvent être recrutés par décision du directeur général, compte tenu de leur expérience professionnelle antérieure et de la fonction à pourvoir, après avis du        contrôleur budgétaire. Le nombre d'agents pouvant bénéficier de cette disposition ne peut dépasser 5 % de l'effectif budgétaire de chaque catégorie d'emplois.
 
 Les équivalences de titres et de diplômes ainsi que l'expérience professionnelle antérieure sont appréciées par décision du directeur général.
 

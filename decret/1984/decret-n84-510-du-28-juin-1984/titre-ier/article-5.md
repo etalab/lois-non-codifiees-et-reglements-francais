@@ -1,6 +1,6 @@
 # Article 5
 
-Les délibérations du conseil d'administration portant sur les objets mentionnés aux 3° et 5° de l'article 4 sont exécutoires dans les conditions prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les délibérations portant sur les objets mentionnés aux 6°, 8° et 12° de l'article 4 sont exécutoires sauf opposition de l'un des ministres exerçant la tutelle du centre ou du ministre chargé du budget dans le mois suivant la réception du procès-verbal.
 

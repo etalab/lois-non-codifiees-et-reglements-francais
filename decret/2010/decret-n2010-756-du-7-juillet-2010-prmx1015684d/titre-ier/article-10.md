@@ -6,7 +6,7 @@ Toutefois, le président du conseil de surveillance convoque le conseil à une d
 
 II. ― Le président du conseil de surveillance fixe l'ordre du jour après consultation du président du directoire.
 
-Le commissaire du Gouvernement et l'autorité chargée du contrôle économique et financier de l'établissement peuvent demander l'inscription de tout sujet à l'ordre du jour des réunions du conseil de surveillance. Cette inscription ne peut être refusée.
+Le commissaire du Gouvernement et le contrôleur budgétaire de l'établissement peuvent demander l'inscription de tout sujet à l'ordre du jour des réunions du conseil de surveillance. Cette inscription ne peut être refusée.
 
 III. ― Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres en exercice assiste à la séance. Toutefois, si ce quorum n'est pas atteint, le conseil, réuni sur une nouvelle convocation à trois jours d'intervalle, délibère valablement quel que soit le nombre des membres présents.
 
@@ -18,9 +18,9 @@ V. ― Les délibérations sont prises à la majorité des suffrages exprimés. 
 
 Le vote a lieu au scrutin secret en cas de nomination ou d'avis sur une désignation. Dans ces deux cas, si, après deux tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin et la nomination ou la désignation a lieu à la majorité relative. A égalité de voix, la nomination ou la désignation est acquise au plus âgé.
 
-VI. ― Les membres du directoire, le commissaire du Gouvernement, l'autorité chargée du contrôle économique et financier de l'établissement et l'agent comptable assistent aux séances du conseil de surveillance avec voix consultative.
+VI. ― Les membres du directoire, le commissaire du Gouvernement, le contrôleur budgétaire de l'établissement et l'agent comptable assistent aux séances du conseil de surveillance avec voix consultative.
 
-Les convocations aux séances sont adressées au commissaire du Gouvernement, à l'autorité chargée du contrôle économique et financier et à l'agent comptable, accompagnées des ordres du jour et des mêmes documents que ceux transmis aux membres du conseil.
+Les convocations aux séances sont adressées au commissaire du Gouvernement,         au contrôleur budgétaire et à l'agent comptable, accompagnées des ordres du jour et des mêmes documents que ceux transmis aux membres du conseil.
 
 VII. ― Les procès-verbaux sont signés par le président et par le vice-président. Ils font mention des personnes présentes. L'article R. 225-47 du code de commerce est applicable.
 

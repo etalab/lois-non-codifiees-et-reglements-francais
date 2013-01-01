@@ -4,7 +4,7 @@ Le bureau règle toutes les affaires qui lui sont renvoyées par le conseil d'ad
 
 Le préfet des Hauts-de-Seine assiste de droit aux séances du bureau et y est entendu à chaque fois qu'il le demande.
 
-Le directeur départemental de l'équipement, le directeur régional de l'environnement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent de droit aux réunions du bureau.
+Le directeur départemental de l'équipement, le directeur régional de l'environnement,        le contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent de droit aux réunions du bureau.
 
 Les procès-verbaux et délibérations de toutes les réunions leur sont adressés.
 

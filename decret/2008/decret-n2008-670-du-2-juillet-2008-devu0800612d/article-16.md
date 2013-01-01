@@ -4,7 +4,7 @@ Le contrôle de l'Etablissement public foncier de Languedoc-Roussillon est exerc
 
 I. ― Les délibérations du conseil d'administration et celles prises par le bureau ainsi que les décisions relatives à l'exercice du droit de préemption ou de priorité prises par le directeur général ou son adjoint sont transmises au préfet de région. Elles ne sont exécutoires qu'après approbation par celui-ci.
 
-L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet de région des délibérations du conseil d'administration ou du bureau vaut approbation tacite, dans les conditions prévues au décret du 8 juillet 1999 susvisé.
+L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet de région des délibérations du conseil d'administration ou du bureau vaut approbation tacite, dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 II. ― Toutefois, les délibérations du conseil d'administration ou du bureau et les décisions du directeur général ou de son adjoint relatives à l'exercice du droit de préemption ou de priorité sont exécutoires de plein droit, dès leur transmission au préfet de région, si l'exercice par l'établissement du droit de préemption ou de priorité est prévu dans une convention visée à l'article 2, préalablement approuvée par le préfet de région.
 

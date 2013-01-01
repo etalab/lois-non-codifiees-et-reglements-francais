@@ -2,7 +2,7 @@
 
 STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION SCIENTIFIQUE
 
-"UNIVERSITÉ DU GRAND OUEST PARISIEN"
+" UNIVERSITÉ DU GRAND OUEST PARISIEN "
 
 Chapitre Ier
 
@@ -10,7 +10,7 @@ Dispositions générales
 
 Article 1er
 
-"Université du Grand Ouest Parisien", également appelée "UPGO" et ci-après dénommée le "PRES", est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+" Université du Grand Ouest Parisien ", également appelée " UPGO " et ci-après dénommée le " PRES ", est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
 Son siège est fixé à Saint-Germain-en-Laye. Le conseil d'administration du PRES peut décider de transférer son siège en tout autre lieu.
 
@@ -70,7 +70,7 @@ I. ― En matière de recherche :
 
 ― la mise en place, en concertation avec les organismes de recherche partenaires, de la signature commune de la production scientifique réalisée dans les unités de recherche des membres ;
 
-― la mise en place d'une politique commune en matière doctorale : coordination des écoles doctorales existantes, développement de formations doctorales communes, création de nouvelles écoles doctorales, attribution de la référence "Université du Grand Ouest Parisien" et construction d'un label "Université du Grand Ouest Parisien" pour les doctorats délivrés par les établissements membres habilités, délivrance de diplômes de doctorat par le PRES, suivi de l'insertion professionnelle des doctorants et docteurs ;
+― la mise en place d'une politique commune en matière doctorale : coordination des écoles doctorales existantes, développement de formations doctorales communes, création de nouvelles écoles doctorales, attribution de la référence " Université du Grand Ouest Parisien " et construction d'un label " Université du Grand Ouest Parisien " pour les doctorats délivrés par les établissements membres habilités, délivrance de diplômes de doctorat par le PRES, suivi de l'insertion professionnelle des doctorants et docteurs ;
 
 ― le développement de la recherche internationale et partenariale, notamment par la création de chaires et de fondations favorisant l'ouverture au monde socio-économique et à l'international ;
 
@@ -80,7 +80,7 @@ I. ― En matière de recherche :
 
 II. ― En matière de formation initiale et continue :
 
-― l'harmonisation et la promotion de l'offre de formation initiale et continue de ses membres, notamment par l'ajout de la référence "Université du Grand Ouest Parisien" aux diplômes nationaux et universitaires délivrés par les établissements membres ;
+― l'harmonisation et la promotion de l'offre de formation initiale et continue de ses membres, notamment par l'ajout de la référence " Université du Grand Ouest Parisien " aux diplômes nationaux et universitaires délivrés par les établissements membres ;
 
 ― le développement de l'accessibilité de l'offre de formation de ses membres, notamment grâce à la création d'antennes et au développement de ressources multimédias en ligne ;
 
@@ -264,7 +264,7 @@ Article 13
 
 Chaque membre dispose d'une voix au conseil d'administration. Le président a voix prépondérante en cas de partage égal des voix. Les délibérations sont prises à la majorité des membres présents ou représentés.
 
-Sous réserve des dispositions législatives et réglementaires en vigueur, les décisions du conseil d'administration sont exécutoires sans délai.
+Sous réserve des dispositions législatives et réglementaires en vigueur, les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Pour l'élection du président et du vice-président, et en matière de délibérations budgétaires, les décisions sont prises à la majorité absolue des membres présents ou représentés.
 
@@ -346,11 +346,9 @@ Dispositions financières
 
 Article 21
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 22
-
-L'agent comptable est nommé, sur proposition du président du PRES, par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 22 (Abrogé)
 
 Article 23
 

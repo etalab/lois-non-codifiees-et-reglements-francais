@@ -6,4 +6,4 @@ La convocation est de droit si elle est demandée par le commissaire du Gouverne
 
 Les membres du conseil d'administration peuvent participer à la séance par des moyens de visioconférence ou de communication électronique permettant leur identification et leur participation effective à une délibération collégiale.
 
-Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président et par le secrétaire. Le procès-verbal est adressé sans délai au commissaire du Gouvernement, aux membres du conseil, aux membres de l'autorité chargée du contrôle économique et financier et au directeur général de l'établissement.
+Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président et par le secrétaire. Le procès-verbal est adressé sans délai au commissaire du Gouvernement, aux membres du conseil, aux membres         du contrôleur budgétaire et au directeur général de l'établissement.

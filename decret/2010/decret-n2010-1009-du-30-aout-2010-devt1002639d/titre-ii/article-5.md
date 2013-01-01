@@ -10,4 +10,4 @@ Il est établi un procès-verbal de chaque séance du conseil d'administration, 
 
 Les décisions et délibérations du conseil d'administration deviennent exécutoires de plein droit quinze jours après leur réception par les ministres chargés de la mer, de la sécurité sociale et du budget si aucun d'entre eux n'y fait opposition dans ce délai.
 
-Ces mêmes décisions et délibérations sont transmises à l'autorité chargée du contrôle économique et financier.
+Ces mêmes décisions et délibérations sont transmises         au contrôleur budgétaire.

@@ -2,6 +2,6 @@
 
 Le conseil d'administration délibère sur l'affectation des résultats du budget principal et du budget annexe.
 
-Il approuve l'affectation des résultats de chaque état prévisionnel des recettes et des dépenses.
+Il approuve l'affectation des résultats du budget de chaque fondation.
 
-En cas de résultat négatif du budget principal ou du budget annexe, il détermine les conditions de retour à l'équilibre pour l'exercice suivant.
+En cas de résultat négatif du compte de résultat de l'établissement ou du service d'activités industrielles ou commerciales, il détermine les conditions de retour à l'équilibre pour l'exercice suivant.

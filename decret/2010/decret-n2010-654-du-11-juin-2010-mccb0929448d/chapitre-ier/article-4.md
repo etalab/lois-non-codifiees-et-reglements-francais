@@ -4,4 +4,4 @@ Les délibérations prévues aux 3° et 8° de l'article 3 deviennent exécutoir
 
 Pour devenir exécutoires, les délibérations prévues au 7° de l'article 3 doivent faire l'objet d'une approbation expresse du ministre chargé de la culture, du ministre chargé de l'économie et du ministre chargé du budget.
 
-Les délibérations portant sur le budget ou sur ses modifications ainsi que sur le compte financier prévues au 2° de l'article 3 sont approuvées par le ministre chargé de la culture, le ministre chargé de l'économie et le ministre chargé du budget dans les conditions fixées par le décret du 8 juillet 1999 susvisé. Le délai mentionné au premier alinéa de l'article 1er de ce décret est alors de quinze jours.
+Les délibérations portant sur le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Les délibérations portant sur le budget sont réputées approuvées à l'expiration d'un délai de quinze jours après leur réception par les ministres de tutelle dans les conditions prévues à l'article 176 du même décret.

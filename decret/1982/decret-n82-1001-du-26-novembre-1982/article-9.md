@@ -4,4 +4,4 @@ Les créances de l'établissement afférentes à la contribution de solidarité 
 
 Ces ordres de versement et états exécutoires sont notifiés aux employeurs définis à l'article 2 de la loi du 4 novembre 1982 par lettre recommandée avec demande d'avis de réception.
 
-A défaut de versement par le débiteur dans le mois suivant cette notification, il est fait application, selon le cas, soit des dispositions relatives à l'inscription et au mandatement d'office des dépenses obligatoires, soit des dispositions du décret du 29 décembre 1962 susvisé.
+A défaut de versement par le débiteur dans le mois suivant cette notification, il est fait application, selon le cas, soit des dispositions relatives à l'inscription et au mandatement d'office des dépenses obligatoires, soit des dispositions du     décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

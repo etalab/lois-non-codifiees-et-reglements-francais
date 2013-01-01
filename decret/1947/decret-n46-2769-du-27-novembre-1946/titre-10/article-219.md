@@ -14,7 +14,7 @@ A compter de l'année 2014, pour l'application de l'article 218, le montant de l
 
 Pour l'application de l'article 222, l'arrêté mentionné à l'alinéa précédent peut prévoir l'attribution de crédits de fonctionnement complémentaires pour financer des prestations dans les régions où le service social ne peut plus les assurer.
 
-L'Agence nationale pour la garantie des droits des mineurs élabore un budget d'action sanitaire et sociale dans la limite des crédits mentionnés aux deux alinéas précédents. Ce budget est soumis à l'approbation du conseil d'administration de l'Agence avant le 31 décembre de l'année précédant l'exercice considéré. Il ne devient exécutoire qu'après approbation par les ministres chargés des mines, de la sécurité sociale et du budget dans les conditions prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
+L'Agence nationale pour la garantie des droits des mineurs élabore un budget d'action sanitaire et sociale dans la limite des crédits mentionnés aux deux alinéas précédents. Ce budget est soumis à l'approbation du conseil d'administration de l'Agence avant le 31 décembre de l'année précédant l'exercice considéré. Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 L'Agence nationale pour la garantie des droits des mineurs transmet à la caisse autonome nationale, avant le 1er février qui suit la fin de l'exercice, les comptes annuels retraçant les dépenses et recettes de l'action sanitaire et sociale dont elle assure la gestion.
 

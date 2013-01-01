@@ -26,7 +26,7 @@ d) Le règlement relatif aux modalités de calcul et de versement des aides ment
 
 8° Les prises de participations financières ;
 
-9° Les échanges d'immeubles relevant de son patrimoine propre ainsi que les baux et locations lorsque leur durée ou leur montant excède les limites fixées par les articles 161 et 167 du décret du 29 décembre 1962 susvisé ;
+9° Les échanges d'immeubles relevant de son patrimoine propre ainsi que les baux et locations lorsque leur durée ou leur montant excède les limites fixées par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
 
 10° Les contrats, marchés et conventions dont le conseil d'administration a décidé qu'ils lui sont soumis en raison de leur nature, de leur montant ou de leur durée ;
 
@@ -34,7 +34,7 @@ d) Le règlement relatif aux modalités de calcul et de versement des aides ment
 
 12° Les actions en justice et les transactions ;
 
-13° La ratification des décisions modificatives du budget, autres que celles prévues au 4° ci-dessus, prises par le directeur en accord avec l'autorité chargée du contrôle financier ;
+13° La ratification des décisions modificatives du budget, autres que celles prévues au 4° ci-dessus, prises par le directeur en accord avec      le contrôleur budgétaire ;
 
 14° L'acceptation des dons et legs sous réserve des dispositions des articles L. 15 et L. 19 du code du domaine de l'Etat ;
 

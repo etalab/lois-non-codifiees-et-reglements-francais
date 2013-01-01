@@ -10,7 +10,7 @@ A ce titre :
 
 3° Il est ordonnateur des recettes et des dépenses, prépare et signe les accords d'entreprise et veille à leur bonne application ;
 
-4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable de l'autorité chargée du contrôle économique et financier, des décisions modificatives de l'état prévisionnel des recettes et dépenses qui ne comportent ni accroissement du plafond d'emploi des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+4° (Abrogé) ;
 
 5° Il signe les contrats engageant l'établissement dans la condition prévue par le 11° de l'article 9 ; il est l'autorité représentant le pouvoir adjudicateur ;
 

@@ -1,10 +1,10 @@
 # Article 46
 
-Le compte financier est établi et présenté dans les conditions prévues aux articles 183 et 184 du décret du 29 décembre 1962 susvisé.
+Le compte financier est établi et présenté dans les conditions prévues aux articles 211 à 214 du décret n° 2012-1246 du 7 novembre 2012 mentionné ci-dessus.
 
-Il est approuvé par le conseil d'administration de l'établissement avant l'expiration du quatrième mois suivant la clôture de l'exercice et communiqué sans délai au recteur d'académie, chancelier, ou, pour les établissements qui lui sont directement rattachés, au ministre chargé de l'enseignement supérieur.
+Il est approuvé par le conseil d'administration de l'établissement dans les délais fixés à l'article 212 du décret n° 2012-1246 du 7 novembre 2012 mentionné ci-dessus et communiqué sans délai au recteur d'académie, chancelier, ou, pour les établissements qui lui sont directement rattachés, au ministre chargé de l'enseignement supérieur.
 
-Si le compte financier n'est pas adressé dans les formes prescrites par l'article 187 du décret du 29 décembre 1962 susvisé, le ministre chargé de l'enseignement supérieur en est informé par son représentant au conseil d'administration.
+Si le compte financier n'est pas adressé dans les formes prescrites par l'article 214 du décret n° 2012-1246 du 7 novembre 2012 mentionné ci-dessus, le ministre chargé de l'enseignement supérieur en est informé par son représentant au conseil d'administration.
 
 Le compte financier peut également être adressé au juge des comptes sous forme dématérialisée.
 

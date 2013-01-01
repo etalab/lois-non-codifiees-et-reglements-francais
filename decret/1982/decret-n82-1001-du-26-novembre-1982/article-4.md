@@ -6,4 +6,4 @@ Toutefois, le budget, les décisions modificatives et le compte financier sont a
 
 Parmi les décisions modificatives du budget sont seules délibérées par le conseil d'administration celles qui comportent soit une augmentation du montant global des dépenses inscrites au budget de l'établissement soit des virements de crédits entre les chapitres de matériel et les chapitres de personnel.
 
-Toutes les autres décisions modificatives sont prises par le directeur en accord avec le membre du corps du contrôle général économique et financier et portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.
+Toutes les autres décisions modificatives sont prises par le directeur en accord avec le        contrôleur budgétaire et portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.

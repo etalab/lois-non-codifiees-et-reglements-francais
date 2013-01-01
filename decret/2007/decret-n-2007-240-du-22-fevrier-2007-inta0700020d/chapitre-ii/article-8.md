@@ -28,6 +28,6 @@ Le conseil d'administration règle, par ses délibérations, les affaires de l'a
 
 Il arrête son règlement intérieur.
 
-Le directeur de l'agence, l'autorité chargée du contrôle financier et l'agent comptable assistent au conseil d'administration avec voix consultative.
+Le directeur de l'agence,      le contrôleur budgétaire et l'agent comptable assistent au conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances, à titre d'expert, toute personne dont il juge la présence utile.

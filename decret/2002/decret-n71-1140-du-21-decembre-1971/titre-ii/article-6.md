@@ -11,5 +11,3 @@ Les délibérations du conseil d'administration autres que celles mentionnées a
 Les délibérations mentionnées au 10° de l'article 5 deviennent exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture et le ministre chargé du budget si aucun d'entre eux n'y a fait opposition dans ce délai. Celles mentionnées aux 7° et 13° du même article deviennent exécutoires sous les mêmes conditions, mais dans un délai d'un mois.
 
 Pour devenir exécutoires, les délibérations mentionnées aux 6°, 8° et 9° de l'article 5 doivent faire l'objet d'une approbation expresse du ministre chargé de la culture ; celles mentionnées au 8° du même article doivent faire en outre l'objet d'une approbation expresse du ministre chargé du budget.
-
-Les délibérations portant sur le budget ou sur ses modifications ainsi que sur le compte financier mentionnées respectivement aux 4° et 5° de l'article 5 sont approuvées par les ministres chargés de la culture et du budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.

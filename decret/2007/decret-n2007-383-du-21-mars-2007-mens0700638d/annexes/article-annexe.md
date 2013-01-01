@@ -1,9 +1,9 @@
 # Article ANNEXE
 
 **STATUTS DE L'ÉTABLISSEMENT**
-**PUBLIC
+**PUBLIC**
 
-DE COOPÉRATION SCIENTIFIQUE UNIVERSITÉ DE BORDEAUX**
+**DE COOPÉRATION SCIENTIFIQUE UNIVERSITÉ DE BORDEAUX**
 
 Chapitre Ier
 
@@ -191,7 +191,7 @@ Le mandat des membres mentionnés aux 2°, 3°, 4°, 5° et 6° de l'article 10 
 
 Les membres mentionnés aux 4°, 5° et 6° du même article sont élus dans les conditions fixées par délibération du conseil d'administration et précisées au règlement intérieur. Un suppléant est élu pour représenter les membres de ces catégories en cas d'empêchement du membre titulaire.
 
-Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou élu ou lorsque son siège devient vacant à la suite de démission ou décès, il est pourvu à son remplacement pour la durée de mandat qui reste à courir.S'il s'agit du président de l'un des établissements fondateurs, il est également pourvu au remplacement du deuxième représentant de cet établissement mentionné au 1° de l'article 9 ci-dessus pour la durée du mandat qui reste à courir. Le règlement intérieur de l'établissement prévoit les conditions de ce remplacement.
+Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou élu ou lorsque son siège devient vacant à la suite de démission ou décès, il est pourvu à son remplacement pour la durée de mandat qui reste à courir. S'il s'agit du président de l'un des établissements fondateurs, il est également pourvu au remplacement du deuxième représentant de cet établissement mentionné au 1° de l'article 9 ci-dessus pour la durée du mandat qui reste à courir. Le règlement intérieur de l'établissement prévoit les conditions de ce remplacement.
 
 Article 12
 
@@ -287,17 +287,9 @@ Dispositions financières
 
 Article 16
 
-L'établissement est soumis au régime financier et comptable, défini par le
-décret n° 53-1227 du 10 décembre 1953
-modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les
-articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962
-modifié portant règlement général sur la comptabilité publique ainsi qu'au contrôle financier a posteriori prévu par l'
-article L. 719-9 du code de l'éducation
-.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 17
-
-L'agent comptable de l'établissement est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 17 (Abrogé).
 
 Article 18
 
@@ -327,6 +319,4 @@ Les dépenses de l'établissement comprennent les charges d'équipement et de fo
 
 Article 20
 
-Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le
-décret n° 92-681 du 20 juillet 1992
-modifié relatif aux régies de recettes et régies d'avances des organismes publics.
+Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et régies d'avances des organismes publics.

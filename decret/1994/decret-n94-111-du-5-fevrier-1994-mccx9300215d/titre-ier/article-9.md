@@ -34,4 +34,6 @@ Le conseil d'administration peut, dans les conditions qu'il détermine, délégu
 
 Les délibérations du conseil d'administration sont transmises aux ministres chargés de la culture et du budget. Elles deviennent exécutoires quinze jours après leur réception par ceux-ci, à défaut d'opposition expresse de leur part.
 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
 Le conseil d'administration donne son avis sur toute question sur laquelle le ministre chargé de la culture le consulte.

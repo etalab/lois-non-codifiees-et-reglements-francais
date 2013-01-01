@@ -6,7 +6,7 @@ Le bureau comprend, outre le président du conseil d'administration et les sept 
 
 1° Chaque établissement public de coopération intercommunale ;
 
-2° Chaque       chambre de commerce et d'industrie de région ;
+2° Chaque chambre de commerce et d'industrie de région ;
 
 3° La chambre régionale d'agriculture de Normandie ;
 
@@ -18,6 +18,6 @@ Le bureau délibère dans les conditions énoncées aux trois derniers alinéas 
 
 Le préfet de la région Haute-Normandie, le préfet de la région Basse-Normandie et les préfets de l'Eure, de la Manche et de l'Orne assistent de droit aux réunions et y sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire représenter.
 
-Les directeurs régionaux de l'environnement, de l'aménagement et du logement (1) de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'alimentation, de l'agriculture et de la forêt de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'environnement de Haute-Normandie et de Basse-Normandie, le directeur général de l'établissement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable ont accès aux réunions du bureau.
+Les directeurs régionaux de l'environnement, de l'aménagement et du logement (1) de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'alimentation, de l'agriculture et de la forêt de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'environnement de Haute-Normandie et de Basse-Normandie, le directeur général de l'établissement,        le contrôleur budgétaire de l'Etat et l'agent comptable ont accès aux réunions du bureau.
 
 Le bureau peut inviter toute personne dont l'audition lui paraît utile.

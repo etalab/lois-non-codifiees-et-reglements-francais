@@ -28,4 +28,4 @@ Les membres mentionnés aux a et b du 4° sont élus pour un mandat de trois ans
 
 Les modalités d'élection des représentants élus sont fixées par arrêté du ministre chargé de la culture.
 
-Le directeur du conservatoire, l'autorité chargée du contrôle financier et l'agent comptable siègent au conseil d'administration avec voix consultative. Le conseil d'administration peut entendre toute personne dont il juge la présence utile à ses délibérations.
+Le directeur du conservatoire,      le contrôleur budgétaire et l'agent comptable siègent au conseil d'administration avec voix consultative. Le conseil d'administration peut entendre toute personne dont il juge la présence utile à ses délibérations.

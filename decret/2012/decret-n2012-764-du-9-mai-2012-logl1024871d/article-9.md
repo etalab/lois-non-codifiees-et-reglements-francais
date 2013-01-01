@@ -2,7 +2,7 @@
 
 Le conseil d'administration est réuni et délibère conformément aux dispositions de l'article R. * 321-3 du code de l'urbanisme.
 
-Ses procès-verbaux et délibérations sont adressés au préfet de Corse. Ils le sont également à l'autorité chargée du contrôle économique et financier et à l'agent comptable de l'établissement.
+Ses procès-verbaux et délibérations sont adressés au préfet de Corse. Ils le sont également         au contrôleur budgétaire et à l'agent comptable de l'établissement.
 
 Le conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.
 

@@ -24,4 +24,4 @@ Il détermine les catégories de contrats, conventions ou marchés qui doivent l
 
 Il autorise le directeur à introduire les actions en justice.
 
-Il peut déléguer certaines de ses attributions au directeur de l'institut, à l'exception de celles qui sont mentionnées aux 3 à 8 ci-dessus. Toutefois, le directeur prend les décisions modificatives des budgets qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section de capital ou entre les chapitres de personnel et les chapitres de matériel. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
+Il peut déléguer certaines de ses attributions au directeur de l'institut, à l'exception de celles qui sont mentionnées aux 3 à 8 ci-dessus. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.

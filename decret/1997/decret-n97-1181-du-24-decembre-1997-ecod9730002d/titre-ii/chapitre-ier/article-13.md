@@ -20,7 +20,7 @@ Un arrêté du ministre chargé des douanes détermine les conditions d'éligibi
 
 a) Le directeur de l'établissement ou son représentant ;
 
-b) L'Autorité chargée du contrôle financier ;
+b) Le contrôleur budgétaire ;
 
 c) L'agent comptable principal nommé dans les conditions définies à l'article 26, ou son représentant.
 

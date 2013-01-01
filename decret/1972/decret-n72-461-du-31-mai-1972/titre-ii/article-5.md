@@ -8,7 +8,7 @@ Sous l'autorité du directeur :
 
 1° Il est chargé de la direction de l'ensemble des services techniques, administratifs, financiers et commerciaux du théâtre ;
 
-2° Il prépare l'état annuel des prévisions de recettes et de dépenses de l'établissement et ses modifications. Il prend, après accord du contrôleur d'Etat, dans l'intervalle des séances du conseil d'administration, des décisions modificatives provisoires qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes, ni virement de crédits entre les dépenses en capital et les dépenses de fonctionnement. Ces décisions doivent être approuvées par le conseil d'administration lors de sa plus prochaine séance. L'administrateur présente à chaque réunion du conseil d'administration un état de l'exécution de l'état annuel des prévisions de recettes et de dépenses de l'exercice en cours et propose, le cas échéant, les mesures nécessaires au rétablissement de son équilibre.
+2° Il prépare l'état annuel des prévisions de recettes et de dépenses de l'établissement et ses modifications. L'administrateur présente à chaque réunion du conseil d'administration un état de l'exécution de l'état annuel des prévisions de recettes et de dépenses de l'exercice en cours et propose, le cas échéant, les mesures nécessaires au rétablissement de son équilibre.
 
 3° Il négocie les conventions collectives ;
 

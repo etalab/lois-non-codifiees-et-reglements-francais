@@ -1,3 +1,3 @@
 # Article 15
 
-L'Institution nationale des invalides est soumise au régime financier et comptable défini par les articles 14 à 25 du décret du 10 décembre 1953 susvisé et les articles 151 à 189 du décret du 29 décembre 1962 susvisé.
+L'institution est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

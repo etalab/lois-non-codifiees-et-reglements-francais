@@ -18,17 +18,17 @@ Article 2
 
 Au moment de sa création, l'établissement comprend les membres fondateurs suivants :
 
-- l'université Toulouse-I ;
+-l'université Toulouse-I ;
 
-- l'université Toulouse-II ;
+-l'université Toulouse-II ;
 
-- l'université Toulouse-III ;
+-l'université Toulouse-III ;
 
-- l'Institut national polytechnique de Toulouse ;
+-l'Institut national polytechnique de Toulouse ;
 
-- l'Institut national des sciences appliquées de Toulouse ;
+-l'Institut national des sciences appliquées de Toulouse ;
 
-- l'Ecole nationale supérieure de l'aéronautique et de l'espace.
+-l'Ecole nationale supérieure de l'aéronautique et de l'espace.
 
 Article 3
 
@@ -36,47 +36,47 @@ L'établissement a pour missions :
 
 En matière d'enseignement doctoral et de recherche :
 
-- de coordonner les études doctorales ;
+-de coordonner les études doctorales ;
 
-- de valoriser les activités de recherche ;
+-de valoriser les activités de recherche ;
 
-- de promouvoir la visibilité, l'attractivité internationale et l'accueil des étudiants et chercheurs étrangers ;
+-de promouvoir la visibilité, l'attractivité internationale et l'accueil des étudiants et chercheurs étrangers ;
 
-- de développer des projets de formation, de recherche, de documentation et d'édition transversaux et/ou pluridisciplinaires ;
+-de développer des projets de formation, de recherche, de documentation et d'édition transversaux et/ ou pluridisciplinaires ;
 
-- de mutualiser des activités pour améliorer le service public universitaire.
+-de mutualiser des activités pour améliorer le service public universitaire.
 
 L'établissement a notamment vocation à permettre :
 
-- la délivrance du doctorat par les établissements fondateurs sous le label unique Université de Toulouse ;
+-la délivrance du doctorat par les établissements fondateurs sous le label unique Université de Toulouse ;
 
-- la signature scientifique unique des publications ;
+-la signature scientifique unique des publications ;
 
-- l'harmonisation des pratiques ;
+-l'harmonisation des pratiques ;
 
-- la participation à la répartition des allocations doctorales ;
+-la participation à la répartition des allocations doctorales ;
 
-- le développement de la préparation des doctorants à l'insertion professionnelle ;
+-le développement de la préparation des doctorants à l'insertion professionnelle ;
 
-- le développement de nouvelles formations transversales et à vocation internationale au niveau master ou doctorat ;
+-le développement de nouvelles formations transversales et à vocation internationale au niveau master ou doctorat ;
 
-- le soutien aux projets de formations entre les membres fondateurs et associés.
+-le soutien aux projets de formations entre les membres fondateurs et associés.
 
 En matière de gestion d'équipements et de moyens :
 
-- de mettre en oeuvre des projets communs à tout ou partie de ses membres dans les domaines entrant dans leurs missions ;
+-de mettre en oeuvre des projets communs à tout ou partie de ses membres dans les domaines entrant dans leurs missions ;
 
-- de développer en commun la validation des acquis de l'expérience ;
+-de développer en commun la validation des acquis de l'expérience ;
 
-- d'avoir une politique mutualisée des achats.
+-d'avoir une politique mutualisée des achats.
 
 En matière de vie étudiante et sociale :
 
-- d'organiser de manière mutualisée l'orientation des étudiants ;
+-d'organiser de manière mutualisée l'orientation des étudiants ;
 
-- d'accompagner les étudiants étrangers dans leur parcours d'étude ;
+-d'accompagner les étudiants étrangers dans leur parcours d'étude ;
 
-- d'améliorer les services publics universitaires en faveur des étudiants.
+-d'améliorer les services publics universitaires en faveur des étudiants.
 
 Chapitre II : Organisation administrative
 
@@ -128,11 +128,11 @@ Le conseil d'administration comprend :
 
 3° Au maximum six représentants des membres associés au sens de l'article L. 344-7 du code de la recherche, dont au maximum deux au titre, respectivement :
 
-- des collectivités territoriales ;
+-des collectivités territoriales ;
 
-- des milieux socio-économiques ;
+-des milieux socio-économiques ;
 
-- des établissements d'enseignement supérieur et de recherche non fondateurs ;
+-des établissements d'enseignement supérieur et de recherche non fondateurs ;
 
 4° Un à deux représentants des enseignants-chercheurs, enseignants et chercheurs exerçant leurs fonctions au sein de l'établissement ;
 
@@ -196,9 +196,9 @@ Dans les limites qu'il détermine, le conseil d'administration peut déléguer a
 
 Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
 
-- qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
+-qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
 
-- ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+-ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Il rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces différentes délégations.
 
@@ -242,11 +242,9 @@ Chapitre III : Dispositions financières
 
 Article 13
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 14
-
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 14 (Abrogé).
 
 Article 15
 

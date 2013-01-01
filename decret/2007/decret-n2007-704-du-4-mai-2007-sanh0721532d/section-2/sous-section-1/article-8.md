@@ -4,7 +4,9 @@ Le conseil d'administration délibère sur :
 
 1° L'organisation générale de l'établissement et le règlement intérieur ;
 
-2° Le contrat d'objectifs et de performance passé avec l'Etat, le budget de l'établissement, les décisions modificatives, le compte financier de chaque exercice et l'affectation des résultats ;
+2° Le contrat d'objectifs et de performance passé avec l'Etat ;
+
+2° bis Le budget et le compte financier ;
 
 3° Le tableau des emplois de l'établissement ainsi que, sans préjudice des compétences du directeur général, définies notamment à l'article 15, dans la gestion de ces agents, sur les règles d'emploi et de rémunération des personnels mentionnés à l'article 21 qui ne sont pas fixées par un texte législatif ou réglementaire ;
 

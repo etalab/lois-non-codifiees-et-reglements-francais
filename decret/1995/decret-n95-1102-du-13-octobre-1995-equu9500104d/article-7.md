@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins deux fois par an sur convocation
 
 Le préfet de la région Provence-Alpes-Côte d'Azur, préfet des Bouches-du-Rhône, et le secrétaire général du groupe central des grandes opérations d'urbanisme, ou leurs représentants, assistent de droit aux séances du conseil d'administration et sont entendus chaque fois qu'ils le demandent.
 
-Le directeur départemental de l'équipement des Bouches-du-Rhône, le membre du corps du contrôle général économique et financier et l'agent comptable ont accès aux séances du conseil d'administration.
+Le directeur départemental de l'équipement des Bouches-du-Rhône, le        contrôleur budgétaire et l'agent comptable ont accès aux séances du conseil d'administration.
 
 L'ordre du jour des délibérations doit être porté à la connaissance des membres du conseil au moins dix jours à l'avance.
 

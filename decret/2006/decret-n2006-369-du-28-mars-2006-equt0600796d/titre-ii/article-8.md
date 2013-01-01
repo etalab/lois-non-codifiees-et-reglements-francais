@@ -8,4 +8,4 @@ Le conseil d'administration peut entendre toute personne dont il estime l'auditi
 
 Les administrateurs, ainsi que toute personne appelée à assister aux réunions du conseil, sont tenus à une obligation de confidentialité.
 
-Le procès-verbal signé par le président et par le secrétaire de séance est adressé sans délai aux ministres chargés des transports et du budget et à l'autorité chargée du contrôle financier.
+Le procès-verbal signé par le président et par le secrétaire de séance est adressé sans délai aux ministres chargés des transports et du budget et       au contrôleur budgétaire.

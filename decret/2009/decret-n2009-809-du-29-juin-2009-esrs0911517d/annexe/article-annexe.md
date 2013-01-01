@@ -1,6 +1,7 @@
 # Article Annexe
 
 <div align="center">STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION <br/>
+<br/>
 <p>SCIENTIFIQUE PRES LIMOUSIN POITOU-CHARENTES <br/>
 </p>
 </div>
@@ -199,7 +200,7 @@ Les séances du conseil ne sont pas publiques.
 
 Les décisions du conseil d'administration sont prises à la majorité de ses membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
 
-Sous réserve des dispositions législatives et réglementaires en vigueur, les décisions du conseil d'administration sont exécutoires sans délai.
+Sous réserve des dispositions législatives et réglementaires en vigueur, les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 L'agent comptable et toute personne dont le président ou la majorité des membres du conseil d'administration souhaitent recueillir l'avis assistent aux séances du conseil avec voix consultative.
 
@@ -233,11 +234,9 @@ Dispositions financières
 
 Article 13
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ainsi qu'au contrôle financier prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 14
-
-L'agent comptable du pôle est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 14 (Abrogé).
 
 Article 15
 

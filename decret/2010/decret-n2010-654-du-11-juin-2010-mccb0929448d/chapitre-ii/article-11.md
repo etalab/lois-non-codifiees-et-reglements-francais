@@ -1,5 +1,3 @@
 # Article 11
 
-Les opérations financières et comptables du Centre national du cinéma et de l'image animée sont effectuées conformément aux dispositions des décrets des 10 décembre 1953 et 29 décembre 1962 susvisés.
-
-L'établissement est autorisé à placer ses fonds disponibles dans les conditions fixées à l'article 175 du décret du 29 décembre 1962 susvisé.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Toutefois, par dérogation à l'article 178 du décret n° 2012-1246 du 7 novembre 2012, les dépenses d'intervention font l'objet d'une enveloppe distincte non limitative, présentée pour information à l'organe délibérant selon les modalités définies aux 1° et 2° de l'article 175 du même décret et voté par l'organe délibérant selon les modalités définies au 3° de l'article 175 du même décret.
