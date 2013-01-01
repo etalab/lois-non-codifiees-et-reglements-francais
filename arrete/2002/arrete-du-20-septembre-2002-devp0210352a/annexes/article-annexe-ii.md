@@ -20,108 +20,92 @@ C procédé : valeur limite d'émission fixée dans les tableaux de la présente
 
 I. - Dispositions applicables aux cimenteries co-incinérant des déchets
 
-C pour poussières totales, HCl, HF et NOx, métaux,
-
-dioxines et furannes (teneur en O2 de 10 %)
+C pour poussières totales, HCl, HF et NOx, métaux, dioxines et furannes (teneur en O2 de 10 %)
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="307">
-<p align="center">PARAMETRE</p>
+<td>
+<p align="center">PARAMÈTRE</p>
 </td>
-<td valign="top" width="307">
-<p align="center">C</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Poussières totales</p>
-</td>
-<td valign="top" width="307">
-<p align="center">30 mg/m3 (moyenne journalière) (*)</p>
+<td>
+<p align="center">
+<br/>VALEUR</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="307">
-<p>Chlorure d'hydrogène (HCI)</p>
+<td align="center">
+<br/>Poussières totales<br/>
 </td>
-<td valign="top" width="307">
-<p align="center">10 mg/m3 (moyenne journalière) (*)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Fluorure d'hydrogène (HF)</p>
-</td>
-<td valign="top" width="307">
-<p align="center">1 mg/m3 (moyenne journalière) (*)</p>
+<td align="center">
+<br/>30 mg/m³ (moyenne journalière) (*)<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="307">
-<p>NOx pour les installations existantes</p>
+<td align="center">
+<br/>Chlorure d'hydrogène (HCI)<br/>
 </td>
-<td valign="top" width="307">
-<p align="center">800 mg/m3, (moyenne journalière) (*)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>NOx pour les installations nouvelles</p>
-</td>
-<td valign="top" width="307">
-<p align="center">500 mg/mn3 (1)</p>
+<td align="center">
+<br/>10 mg/m³ (moyenne journalière) (*)<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="307">
-<p>Cd + TI</p>
+<td align="center">
+<br/>Fluorure d'hydrogène (HF)<br/>
 </td>
-<td valign="top" width="307">
-<p align="center">0,05 mg/m3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Hg</p>
-</td>
-<td valign="top" width="307">
-<p align="center">0,5 mg/m3</p>
+<td align="center">
+<br/>1 mg/m³ (moyenne journalière) (*)<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="307">
-<p>Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V</p>
+<td align="center">
+<br/>NOx<br/>
 </td>
-<td valign="top" width="307">
-<p align="center">0,5 mg/m3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Dioxines et furannes</p>
-</td>
-<td valign="top" width="307">
-<p align="center">0,1 ng/m3</p>
+<td align="center">
+<br/>500 mg/m³ (moyenne journalière) (*)<br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="614">
-<p align="left">(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.</p>
-<p align="left">(1) Pour l'application des valeurs limites d'émission de NOx, les cimenteries existantes qui commencent à incinérer des déchets après la date de parution au Journal officiel du présent arrêté ne doivent pas être considérées comme des installations nouvelles. Seules sont considérées comme nouvelles les cimenteries dont l'activité principale est autorisée après la date de parution au Journal officiel du présent arrêté.</p>
+<td align="center">
+<br/>Cd + TI<br/>
+</td>
+<td align="center">
+<br/>0,05 mg/m³<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Hg<br/>
+</td>
+<td align="center">
+<br/>0,05 mg/m³<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V<br/>
+</td>
+<td align="center">
+<br/>0,5 mg/m³<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Dioxines et furannes<br/>
+</td>
+<td align="center">
+<br/>0,1 ng/m³ <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
-
-Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
-
-La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
-
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les cimenteries utilisant des fours Lepol ou des fours rotatifs longs, à condition que la valeur limite C n'excède pas 800 mg/m³, et ce jusqu'au 1er janvier 2016.
 
 C pour SO2 et COT (teneur en O2 de 10 %)
 
@@ -202,174 +186,172 @@ L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différen
 
 II. - Dispositions applicables aux installations de combustion co-incinérant des déchets
 
+Pour le calcul de la puissance thermique nominale totale des installations de combustion, les règles de cumul suivantes s'appliquent :
+
+- lorsque les gaz résiduaires d'au moins deux installations de combustion distinctes sont rejetés par une cheminée commune, l'ensemble formé par ces installations est considéré comme une seule installation de combustion et les capacités de chacune d'elles s'additionnent aux fins du calcul de la puissance thermique nominale totale ;
+
+- si au moins deux installations de combustion distinctes autorisées pour la première fois le 1er juillet 1987 ou après ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation à cette date ou après sont construites de telle manière que leurs gaz résiduaires pourraient, compte tenu des facteurs techniques et économiques, être rejetés par une cheminée commune, l'ensemble formé par ces installations est considéré comme une seule installation de combustion, et les capacités de chacune d'elles s'additionnent aux fins du calcul de la puissance thermique nominale totale ;
+
+- aux fins du calcul de la puissance thermique nominale totale d'un ensemble d'installations de combustion visé aux paragraphes 1 et 2, les installations de combustion individuelles dont la puissance thermique nominale est inférieure à 15 MW ne sont pas prises en compte.
+
 Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
 
 SO2, NOx, poussières
+
+II-1. C procédé exprimé en moyennes journalières (mg/Nm³) valable jusqu'au 31 décembre 2015, pour les installations dont les installations de combustion ont été autorisées avant le 7 janvier 2013, ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation avant cette date, sous réserve que les installations soient mises en service au plus tard le 7 janvier 2014, et les installations dont les installations de combustion qui avaient obtenu une dérogation visée à l'article 4, paragraphe 4, de la directive 2001/80/CE et qui sont exploitées après le 1er janvier 2016 ; et jusqu'au 6 janvier 2013 pour les autres installations de combustion.
 
 C procédé pour les combustibles solides (moyennes journalières exprimées en mg/m³, teneur en O2 de 6 %)
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="123">
-<p align="center">PARAMETRE</p>
+<td>
+<p align="center">PARAMÈTRE</p>
 </td>
-<td valign="top" width="123">
+<td>
 <p align="center">P &lt; 50 MW</p>
 </td>
-<td valign="top" width="123">
+<td>
 <p align="center">50 &lt; P &lt; 100 MW</p>
 </td>
-<td valign="top" width="123">
-<p align="right">100 &lt; P &lt; 300 MW</p>
+<td>
+<p align="center">100 &lt; P &lt; 300 MW</p>
 </td>
-<td valign="top" width="123">
+<td>
 <p align="center">&gt; 300 MW</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="123">
-<p>SO<sub>2</sub> :</p>
+<td align="center">
+<br/>SO2 : cas général<br/>
 </td>
-<td valign="top" width="123"/>
-<td valign="top" width="123"/>
-<td valign="top" width="123"/>
-<td valign="top" width="123"/>
-</tr>
-<tr>
-<td valign="top" width="123">
-<p>Cas général</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">850</p>
+<td align="center">
+<br/>850<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">850 à 200 (décroissance linéaire)</p>
+<td align="center">
+<br/>200<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">200</p>
+<td align="center">
+<br/>200<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="123">
-<p>Combustibles produits sur le territoire national </p>
+<td align="center">
+<br/>NOx<br/>
 </td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">ou taux de désulfuration ≥ 90 %</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">ou taux de désulfuration ≥ 92 %</p>
+<td align="center">
+<br/>400<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">ou taux de désulfuration ≥ 95 %</p>
+<td align="center">
+<br/>200<br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="123">
-<p>NOx</p>
-</td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">400</p>
-</td>
-<td valign="top" width="123">
-<p align="center">300</p>
-</td>
-<td valign="top" width="123">
-<p align="center">200</p>
+<td align="center">
+<br/>200<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="123">
-<p>Poussières </p>
+<td align="center">
+<br/>Poussières<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">50 </p>
+<td align="center">
+<br/>50<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">50 </p>
+<td align="center">
+<br/>50<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">30</p>
+<td align="center">
+<br/>30<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">30</p>
+<td align="center">
+<br/>30<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-C procédé pour la biomasse (moyennes journalières exprimées en mg/m³, teneur 6 % d'O2)
+C procédé pour la biomasse (moyennes journalières
+
+exprimées en mg/m³, teneur 6 % d'O2)
 
 Par biomasse, on entend une matière végétale d'origine agricole ou forestière susceptible d'être utilisée pour récupérer son contenu énergétique de même que les déchets végétaux agricoles et forestiers, les déchets végétaux provenant du secteur de la transformation alimentaire, les déchets fibreux issus de la production de pâte vierge et de la production du papier au départ de la pâte, les déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris en particulier les déchets de bois de ce type provenant de déchets de construction ou de démolition, les déchets de liège.
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="123">
-<p align="center">PARAMETRE</p>
+<td>
+<p align="center">PARAMÈTRE</p>
 </td>
-<td valign="top" width="123">
+<td>
 <p align="center">P &lt; 50 MW</p>
 </td>
-<td valign="top" width="123">
+<td>
 <p align="center">50 &lt; P &lt; 100 MW</p>
 </td>
-<td valign="top" width="123">
+<td>
 <p align="center">100 &lt; P &lt; 300 MW</p>
 </td>
-<td valign="top" width="123">
-<p align="center">&gt; 300 MW</p>
+<td>&gt; 300 MW<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="123">
-<p>SO<sub>2</sub>
-</p>
+<td align="center">
+<br/>SO2<br/>
 </td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">200</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">200</p>
+<td align="center">
+<br/>200<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">200</p>
+<td align="center">
+<br/>200<br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="123">
-<p>NOx</p>
-</td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">350</p>
-</td>
-<td valign="top" width="123">
-<p align="center">300</p>
-</td>
-<td valign="top" width="123">
-<p align="center">300</p>
+<td align="center">
+<br/>200<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="123">
-<p>Poussières </p>
+<td align="center">
+<br/>NOx<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">50 </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">50 </p>
+<td align="center">
+<br/>350<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">30</p>
+<td align="center">
+<br/>300<br/>
 </td>
-<td valign="top" width="123">
-<p align="center">30</p>
+<td align="center">
+<br/>300<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>30<br/>
 </td>
 </tr>
 </tbody>
@@ -380,188 +362,576 @@ C procédé pour les combustibles liquides (moyennes journalières exprimées en
 <table>
 <tbody>
 <tr>
-<td valign="top" width="123">
-<p align="center">PARAMETRE</p>
-</td>
-<td valign="top" width="123">
-<p align="center">P &lt; 50 MW</p>
-</td>
-<td valign="top" width="123">
-<p align="center">50 &lt; P &lt; 100 MW</p>
-</td>
-<td valign="top" width="123">
-<p align="center">100 &lt; P &lt; 300 MW</p>
-</td>
-<td valign="top" width="123">
-<p align="center">&gt; 300 MW</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="123">
-<p>SO<sub>2</sub>
-</p>
-</td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">850</p>
-</td>
-<td valign="top" width="123">
-<p align="center">850 à 200 (décroissance linéaire)</p>
-</td>
-<td valign="top" width="123">
-<p align="center">200</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="123">
-<p>NOx</p>
-</td>
-<td valign="top" width="123"/>
-<td valign="top" width="123">
-<p align="center">400</p>
-</td>
-<td valign="top" width="123">
-<p align="center">300</p>
-</td>
-<td valign="top" width="123">
-<p align="center">200</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="123">
-<p>Poussières </p>
-</td>
-<td valign="top" width="123">
-<p align="center">50 </p>
-</td>
-<td valign="top" width="123">
-<p align="center">50 </p>
-</td>
-<td valign="top" width="123">
-<p align="center">30</p>
-</td>
-<td valign="top" width="123">
-<p align="center">30</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-HCl, HF
-
-<table>
-<tbody>
-<tr>
-<td valign="top" width="307">
-<p align="center">PARAMETRE</p>
-</td>
-<td valign="top" width="307">
-<p align="center">C (à 6 % de 0<sub>2</sub>)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Chlorure d'hydrogène (HCI)</p>
-</td>
-<td valign="top" width="307">
-<p align="center">10mg/m3 (moyenne journalière) (*)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Fluorure d'hydrogène (HF)</p>
-</td>
-<td valign="top" width="307">
-<p align="center">1mg/m3 (moyenne journalière) (*)</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="614">
-<p>* Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Métaux, dioxines
-
-<table>
-<tbody>
-<tr>
-<td valign="top" width="307">
-<p align="center">PARAMETRE</p>
-</td>
-<td valign="top" width="307">
-<p align="center">C (à 6 % de 0<sub>2</sub>)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Cd+TI</p>
-</td>
-<td valign="top" width="307">
-<p align="center">0,05 mg/m3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Hg</p>
-</td>
-<td valign="top" width="307">
-<p align="center">0,05 mg/m3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V</p>
-</td>
-<td valign="top" width="307">
-<p align="center">0,5 mg/m3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="307">
-<p>Dioxines et furannes</p>
-</td>
-<td valign="top" width="307">
-<p align="center">0,1 ng/m3</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
-
-Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
-
-La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
-
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
-
-C pour l'ammoniac (teneur en O2 de 10 %).
-
-<table>
-<tbody>
-<tr>
 <td>
 <p align="center">PARAMÈTRE</p>
 </td>
 <td>
-<p align="center">VALEUR MOYENNE JOURNALIÈRE</p>
+<p align="center">
+<br/>P &lt; 50 MW</p>
+</td>
+<td>
+<p align="center">50 &lt; P &lt; 100 MW</p>
+</td>
+<td>
+<p align="center">100 &lt; P &lt; 300 MW</p>
+</td>
+<td>
+<p align="center">&gt; 300 MW</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ammoniac<br/>
+<br/>SO2<br/>
 </td>
 <td align="center">
-<br/>30 mg/m³<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>850<br/>
+</td>
+<td align="center">
+<br/>400 à 200 (décroissance linéaire de 100 à 300 MWth)<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>400<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>30<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières (calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+II-2. C procédé exprimé en moyennes journalières (mg/Nm³) à partir du 1er janvier 2016, pour les installations dont les installations de combustion ont été autorisées avant le 7 janvier 2013, ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation avant cette date, sous réserve que les installations soient mises en service au plus tard le 7 janvier 2014, et les installations dont les installations de combustion qui avaient obtenu une dérogation visée à l'article 4, paragraphe 4, de la directive 2001/80/CE et qui sont exploitées après le 1er janvier 2016 ; et, à partir du 7 janvier 2013, pour les autres installations de combustion.
+
+II-2.1. C procédé pour les installations dont les installations de combustion ont été autorisées avant le 7 janvier 2013, ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation avant cette date, sous réserve que les installations soient mises en service au plus tard le 7 janvier 2014, et les installations dont les installations de combustion qui avaient obtenu une dérogation visée à l'article 4, paragraphe 4, de la directive 2001/80/CE et qui sont exploitées après le 1er janvier 2016.
+
+C procédé pour les combustibles solides à l'exception de la biomasse (teneur en O2 de 6 %)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SUBSTANCE POLLUANTE</p>
+</td>
+<td>
+<p align="center">&lt; 50 MW</p>
+</td>
+<td>
+<p align="center">50 à 100 MWth</p>
+</td>
+<td>
+<p align="center">100 à 300 MWth</p>
+</td>
+<td>
+<p align="center">&gt; 300 MWth</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>SO2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>400<br/>
+<br/>pour la tourbe :<br/>
+<br/>300<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>300<br/>
+<br/>pour le lignite<br/>
+<br/>pulvérisé : 400<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>25<br/>
+<br/>pour la tourbe : 20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+C procédé pour la biomasse (teneur en O2 de 6 %)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SUBSTANCE POLLUANTE</p>
+</td>
+<td>
+<p align="center">&lt; 50 MWth</p>
+</td>
+<td>
+<p align="center">50 à 100 MWth</p>
+</td>
+<td>
+<p align="center">100 à 300 MWth</p>
+</td>
+<td>
+<p align="center">&gt; 300 MWth</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>SO2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>300<br/>
+</td>
+<td align="center">
+<br/>250<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+C procédé pour les combustibles liquides (teneur en O2 de 3 %)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SUBSTANCE POLLUANTE</p>
+</td>
+<td>
+<p align="center">&lt; 50 MW<br/>
+</p>
+</td>
+<td>
+<p align="center">50 à 100 MWth</p>
+</td>
+<td>
+<p align="center">100 à 300 MWth<br/>
+</p>
+</td>
+<td>
+<p align="center">&gt; 300 MWth</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>SO2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>350<br/>
+</td>
+<td align="center">
+<br/>250<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>400<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+II-2.2. C procédé pour les autre installations de combustion, à l'exception des turbines à gaz et des moteurs à gaz).
+
+C procédé pour les combustibles solides à l'exception de la biomasse (teneur en O2 de 6 %)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SUBSTANCE POLLUANTE</p>
+</td>
+<td>
+<p align="center">&lt; 50 MWth</p>
+</td>
+<td>
+<p align="center">50 à 100 MWth</p>
+</td>
+<td>
+<p align="center">
+<br/>100 à 300 MWth</p>
+</td>
+<td>
+<p align="center">&gt; 300 MWth<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>SO2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>400<br/>
+<br/>pour la tourbe :<br/>
+<br/>300<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+<br/>pour la tourbe : 300 sauf en cas de combustion en lit fluidisé : 250<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+<br/>pour la combustion en lit fluidisé sous pression ou circulant ou, en cas de combustion de tourbe, pour toutes les combustions en lit fluidisé : 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>300<br/>
+<br/>pour la tourbe :<br/>
+<br/>250 <br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+<br/>pour la combustion<br/>
+<br/>de lignite pulvérisé : 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+<br/>pour la tourbe : 20<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+C procédé pour la biomasse (teneur en O2 de 6 %)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> SUBSTANCE POLLUANTE<br/>
+</p>
+</td>
+<td>
+<p align="center"> &lt; 50 MWth<br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>50 à 100 MWth<br/>
+</p>
+</td>
+<td>
+<p align="center"> 100 à 300 MWth<br/>
+</p>
+</td>
+<td>
+<p align="center"> &gt; 300 MWth</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>SO2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>250<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+C procédé pour les combustibles liquides (teneur en O2 de 3 %)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> SUBSTANCE POLLUANTE<br/>
+</p>
+</td>
+<td>
+<p align="center"> &lt; 50 MWth</p>
+</td>
+<td>
+<p align="center"> 50 à 100 MWth<br/>
+</p>
+</td>
+<td>
+<p align="center"> 100 à 300 MWth<br/>
+</p>
+</td>
+<td>
+<p align="center"> &gt; 300 MWth</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>SO2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>350<br/>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>NOx <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>300<br/>
+</td>
+<td align="center">
+<br/>150<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poussières<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 III. - Dispositions applicables aux secteurs industriels non visés aux points I et II et qui co-incinèrent des déchets HCl, HF
 
@@ -661,9 +1031,7 @@ C pour l'ammoniac (teneur en O2 de 10 %).
 <tr>
 <td>
 <p align="center">
-<br/>PARAMÈTRE<br/>
-<br/>
-</p>
+<br/>PARAMÈTRE</p>
 </td>
 <td>
 <p align="center">VALEUR MOYENNE JOURNALIÈRE</p>
