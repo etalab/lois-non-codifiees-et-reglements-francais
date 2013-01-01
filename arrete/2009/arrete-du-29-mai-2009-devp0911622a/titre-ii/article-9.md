@@ -4,7 +4,7 @@ Dispositions relatives aux transports en citernes.
 
 1. Transports de denrées alimentaires :
 
-Sont interdits dans une même citerne, y compris les citernes à cargaison des bateaux, les transports alternés ou simultanés de matières dangereuses non alimentaires et de denrées alimentaires.
+Sont interdits dans une même citerne, y compris les citernes à cargaison des bateaux, les transports alternés ou simultanés de matières dangereuses non alimentaires et de denrées alimentaires. Avant tout remplissage, le caractère alimentaire des matières dangereuses est signalé au transporteur par l'expéditeur dans les documents associés au transport.
 
 2. Flexibles :
 
@@ -21,3 +21,5 @@ L'aluminium n'est pas autorisé comme matériau constitutif d'un réservoir dot�
 5. Equipement des véhicules porte conteneurs-citernes ou citernes mobiles :
 
 Les véhicules immatriculés en France porteurs de conteneurs-citernes ou de citernes mobiles de plus de 3 000 litres doivent être équipés de verrous tournants d'un des modèles énumérés dans la norme ISO 1161 ou de dispositifs de fixation ayant fait l'objet d'un agrément par le ministre chargé des transports terrestres de matières dangereuses.
+
+6. Pour l'application de la disposition spéciale TU 35, il est considéré que les risques sont éliminés dès lors que la citerne est vide, non nettoyée et que la matière ne présente pas de danger pour l'environnement selon le 2.2.9.1.10. Tant qu'il subsiste un danger, le placardage de la citerne reste identique au placardage applicable à la citerne pleine.

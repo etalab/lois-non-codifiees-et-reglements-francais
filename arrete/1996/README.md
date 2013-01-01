@@ -173,7 +173,6 @@
 - [Arrêté du 7 décembre 1995 (ENVE9540388A)](arrete-du-7-decembre-1995-enve9540388a)
 - [Arrêté du 7 décembre 1995 (TASH9620771A)](arrete-du-7-decembre-1995-tash9620771a)
 - [Arrêté du 7 février 1996 (DEFP9601151A)](arrete-du-7-fevrier-1996-defp9601151a)
-- [Arrêté du 7 février 1996 (TASP9620058A)](arrete-du-7-fevrier-1996-tasp9620058a)
 - [Arrêté du 7 juin 1996 (AGRA9600901A)](arrete-du-7-juin-1996-agra9600901a)
 - [Arrêté du 7 juin 1996 (LOGC9600035A)](arrete-du-7-juin-1996-logc9600035a)
 - [Arrêté du 7 juin 1996 (LOGC9600036A)](arrete-du-7-juin-1996-logc9600036a)

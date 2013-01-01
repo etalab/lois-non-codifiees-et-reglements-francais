@@ -222,9 +222,9 @@ Dans des constructions dont le CNFPT n'est ni propriétaire, ni affectataire, ni
 
 232. Immobilisations incorporelles en cours.
 
-237. Avances et acomptes versés sur commandes d'immobilisations incorporelles.
+237. Avances versées sur commandes d'immobilisations incorporelles.
 
-238. Avances et acomptes versés sur commandes d'immobilisations corporelles.
+238. Avances versées sur commandes d'immobilisations corporelles.
 
 26. Participations et créances rattachées à des participations.
 
@@ -1114,6 +1114,8 @@ CLASSE 6. - COMPTES DE CHARGES
 
 6532. Frais de mission des administrateurs et délégués.
 
+6533. Cotisations de retraite.
+
 6535. Formation des administrateurs et délégués.
 
 654. Pertes sur créances irrécouvrables.
@@ -1183,6 +1185,12 @@ Comptes ouverts uniquement dans le budget de l'IRL.
 6718. Autres charges exceptionnelles sur opérations de gestion.
 
 673. Titres annulés (sur exercices antérieurs).
+
+674. Subvention exceptionnelle.
+
+6743. Subventions de fonctionnement aux SPIC.
+
+6748. Autres subventions exceptionnelles.
 
 675. Valeurs comptables des éléments d'actif cédés.
 

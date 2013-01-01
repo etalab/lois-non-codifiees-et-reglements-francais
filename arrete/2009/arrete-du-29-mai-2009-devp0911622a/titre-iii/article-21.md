@@ -8,6 +8,8 @@ Dispositions particulières applicables à l'ensemble des services ou organismes
 
 1.2. Dispositions particulières applicables aux registres des organismes de formation agréés :
 
+Les organismes de formation agréés visés au 2 de l'article 20 tiennent un registre des formations suivies, des résultats d'examen ainsi que des certificats et attestations qu'ils ont délivrés. Ces informations sont conservées par l'organisme de formation pendant la durée de validité du certificat ou de l'attestation. Ce registre est tenu à disposition de l'administration.
+
 1.2.1. Les organismes de formation agréés doivent tenir un registre de délivrance des attestations par spécialisation. Les attestations y sont inscrites dans l'ordre chronologique de leur délivrance et affectées d'un numéro. Cette inscription est complétée par la date de délivrance, l'identité du titulaire, l'indication du type et les dates de début et de fin du stage suivi.
 
 1.2.2. Les extensions de validité à d'autres spécialisations sont assimilées à des délivrances d'attestation. L'inscription correspondante doit en outre mentionner le numéro de référence de l'attestation dont la validité est étendue et la désignation de l'organisme agréé qui l'a délivrée.

@@ -4,11 +4,11 @@ Définitions.
 
 Aux fins du présent arrêté, on entend par :
 
-1. ADN : l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures, conclu à Genève le 26 mai 2000, y compris les amendements en vigueur le 1er janvier 2011.
+1. ADN : l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures, conclu à Genève le 26 mai 2000, y compris les amendements en vigueur le 1er janvier 2013.
 
-2. ADNR : le règlement pour le transport des matières dangereuses sur le Rhin, y compris les amendements adoptés par la résolution 2008-I-25 du 29 mai 2008 de la Commission centrale pour la navigation du Rhin à Strasbourg entrés en vigueur le 1er janvier 2009.
+2. (supprimé)
 
-3. ADR : l'accord européen relatif au transport international des marchandises dangereuses par route, conclu à Genève le 30 septembre 1957, y compris les amendements entrés en vigueur le 1er janvier 2011.
+3. ADR : l'accord européen relatif au transport international des marchandises dangereuses par route, conclu à Genève le 30 septembre 1957, y compris les amendements entrés en vigueur le 1er janvier 2013.
 
 4. Bateau : tout bateau de navigation intérieure ou un navire de mer.
 
@@ -20,7 +20,7 @@ Aux fins du présent arrêté, on entend par :
 
 8. COTIF : la convention relative aux transports internationaux ferroviaires du 9 mai 1980 dans la teneur du protocole de modification du 3 juin 1999.
 
-9. DRE : la direction régionale de l'équipement.
+9. DEAL : la direction de l'environnement, de l'aménagement et du logement.
 
 10. DREAL : la direction régionale de l'environnement, de l'aménagement et du logement.
 
@@ -28,9 +28,9 @@ Aux fins du présent arrêté, on entend par :
 
 11.1. DRIEE : la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.
 
-11.2. Direction régionale chargée des contrôles de sécurité des véhicules : les DRIRE, les DREAL ou la DRIEE.
+11.2. Direction régionale chargée des contrôles de sécurité des véhicules : les DEAL, les DREAL ou la DRIEE.
 
-11.3. Direction régionale chargée des services de transport ou du contrôle des transports terrestres : les DRE, les DREAL ou la DRIEA.
+11.3. Direction régionale chargée des services de transport ou du contrôle des transports terrestres : les DEAL, les DREAL ou la DRIEA.
 
 12. EPSF : l'Etablissement public de sécurité ferroviaire créé par la loi n° 2006-10 du 5 janvier 2006.
 
@@ -38,7 +38,7 @@ Aux fins du présent arrêté, on entend par :
 
 14. Marchandises dangereuses : les matières et objets dont le transport est interdit ou autorisé uniquement dans certaines conditions par le présent arrêté et ses annexes.
 
-15. RID : le règlement concernant le transport international ferroviaire des marchandises dangereuses, figurant comme appendice C à la convention dite COTIF conclue à Vilnius le 3 juin 1999, y compris les amendements entrés en vigueur le 1er janvier 2011.
+15. RID : le règlement concernant le transport international ferroviaire des marchandises dangereuses, figurant comme appendice C à la convention dite COTIF conclue à Vilnius le 3 juin 1999, y compris les amendements entrés en vigueur le 1er janvier 2013.
 
 16. RTMD : le règlement pour le transport des matières dangereuses par chemins de fer, par voies de terre et par voies de navigation intérieures, approuvé par arrêté du 15 avril 1945 modifié.
 
@@ -51,5 +51,3 @@ Aux fins du présent arrêté, on entend par :
 20. Wagon : tout véhicule ferroviaire dépourvu de moyens de propulsion en propre, qui roule sur ses propres roues sur une voie ferrée et qui est utilisé pour le transport de marchandises.
 
 Sont également applicables les définitions données dans les annexes I, II et III du présent arrêté.
-
-21. DRIRE : la direction régionale de l'industrie, de la recherche et de l'environnement.

@@ -404,7 +404,6 @@
 - [Arrêté du 15 décembre 1998 (ATEP9870002A)](arrete-du-15-decembre-1998-atep9870002a)
 - [Arrêté du 15 décembre 1998 (ECOC9800152A)](arrete-du-15-decembre-1998-ecoc9800152a)
 - [Arrêté du 15 janvier 1998 (MESH9820420A)](arrete-du-15-janvier-1998-mesh9820420a)
-- [Arrêté du 15 janvier 1998 (MESP9820139A)](arrete-du-15-janvier-1998-mesp9820139a)
 - [Arrêté du 15 janvier 1998 (MESP9820140A)](arrete-du-15-janvier-1998-mesp9820140a)
 - [Arrêté du 15 juillet 1998 (EQUT9800949A)](arrete-du-15-juillet-1998-equt9800949a)
 - [Arrêté du 15 juillet 1998 (MESG9810759A)](arrete-du-15-juillet-1998-mesg9810759a)

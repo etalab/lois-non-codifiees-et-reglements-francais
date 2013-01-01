@@ -158,7 +158,7 @@ Les corrections afin d'assurer une mise en conformité réglementaire durable do
 
 Lorsque l'organisme agréé constate que les dispositions mises en place par le titulaire de l'agrément ou le fabricant des emballages répondent aux exigences du présent article, celui-ci délivre une attestation de conformité relative au contrôle de fabrication conforme au modèle n° 5 figurant à l'appendice IV.5 du présent arrêté.
 
-Lorsque les seuils fixés dans les procédures visées au paragraphe 6 qui permettent de pouvoir être dispensé de contrôle sur site par un organisme agréé ne sont pas dépassés, l'organisme agréé ayant délivré l'agrément peut délivrer une attestation de dispense de contrôle sur site conforme au modèle n° 6 figurant à l'appendice IV.5 du présent arrêté.
+Lorsque les seuils fixés dans les procédures visées au paragraphe 6 qui permettent de pouvoir être dispensé de contrôle sur site par un organisme agréé ne sont pas dépassés, l'organisme agréé ayant délivré l'agrément émet une attestation de dispense de contrôle sur site conforme au modèle n° 6 figurant à l'appendice IV.5 du présent arrêté.
 
 7.5. Suivi de l'agrément.
 

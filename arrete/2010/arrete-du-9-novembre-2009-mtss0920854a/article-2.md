@@ -1,6 +1,6 @@
 # Article 2
 
-I. ― Sans préjudice des missions propres de l'inspection générale des affaires sociales et des dispositions du code de la sécurité sociale, la mission nationale de contrôle et d'audit des organismes de sécurité sociale a compétence pour réaliser, sur l'ensemble du territoire et sous l'autorité du directeur de la sécurité sociale :
+I. ― Sans préjudice des missions propres de l'inspection générale des affaires sociales et des dispositions du code de la sécurité sociale et du code rural et de la pêche maritime, la mission nationale de contrôle et d'audit des organismes de sécurité sociale a compétence pour réaliser, sur l'ensemble du territoire et sous l'autorité du directeur de la sécurité sociale :
 
 ― l'évaluation et l'audit des organismes locaux et régionaux de sécurité sociale ainsi que la veille sur ces organismes ;
 
@@ -20,4 +20,4 @@ Sans préjudice des missions propres de l'inspection mentionnée au premier alin
 
 ― assurer une fonction d'appui visant à développer des projets concourant à la performance de la gestion de la sécurité sociale.
 
-II. ― La mission nationale de contrôle et d'audit des organismes de sécurité sociale adresse un bilan annuel de son activité au ministre chargé de la sécurité sociale.
+II. ― La mission nationale de contrôle et d'audit des organismes de sécurité sociale adresse un bilan annuel de son activité au ministre chargé de la sécurité sociale et au ministre chargé de l'agriculture.

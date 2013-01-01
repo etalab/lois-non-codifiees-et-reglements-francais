@@ -26,7 +26,7 @@ Les entreprises exemptées de l'application du 1.8.3 dans le cadre du 1.8.3.2 so
 
 ― opérations de déchargement de marchandises dangereuses.
 
-Toutefois, les entreprises qui effectuent des opérations de déchargement dans des installations relevant des cas suivants ne peuvent pas bénéficier de cette exemption :
+Toutefois, au titre de ce dernier point, les entreprises qui effectuent des opérations de déchargement dans des installations relevant des cas suivants ne peuvent pas bénéficier de cette exemption :
 
 ― installations soumises à autorisation dans le cadre de la législation des installations nucléaires de base ;
 
@@ -60,6 +60,6 @@ Toutefois, les entreprises qui effectuent des opérations de déchargement dans 
 
 5.2. Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise, comportant, en annexe, les rapports de ses différents conseillers.
 
-5.3. Ce rapport annuel est établi en s'inspirant du Guide pour l'élaboration du rapport annuel du conseiller à la sécurité pour les transports de marchandises dangereuses disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( http://www.developpement-durable.gouv.fr/).
+5.3. Ce rapport annuel est établi en s'inspirant du Guide pour l'élaboration du rapport annuel du conseiller à la sécurité pour les transports de marchandises dangereuses disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( http://www.developpement-durable.gouv.fr/), et comporte une rubrique pour chacune des tâches prévues au 1.8.3.3.
 
 5.4. Le rapport annuel est conservé par l'entreprise pendant cinq ans et doit être disponible à partir du 31 mars de l'année suivant celle concernée par le rapport.

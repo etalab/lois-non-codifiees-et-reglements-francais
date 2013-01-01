@@ -88,4 +88,4 @@ Les wagons-citernes construits selon les prescriptions du RTMD applicables à le
 
 7. Dispositions relatives aux bateaux.
 
-La prescription NRT mentionnée dans les tableaux des dispositions transitoires du chapitre 1.6 de l'ADN, sous-section 1.6.7.1 pour les bateaux à cargaison sèche, et sous-section 1.6.7.2 pour les bateaux-citernes, est également applicable aux bateaux construits et équipés après le 31 décembre 1994 et avant le 31 mars 1998.
+La prescription NRT mentionnée dans les tableaux des dispositions transitoires du chapitre 1.6 de l'ADN, au 1.6.7.2.1 pour les bateaux à cargaison sèche, et au 1.6.7.2.2 pour les bateaux-citernes, est également applicable aux bateaux construits et équipés après le 31 décembre 1994 et avant le 31 mars 1998.

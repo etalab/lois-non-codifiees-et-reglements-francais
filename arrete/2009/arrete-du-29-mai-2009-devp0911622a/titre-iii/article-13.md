@@ -12,13 +12,15 @@ Classement et conditions de transport.
 
 ― pour délivrer les autorisations spéciales, au titre du 2.2.1.1.3 et de la disposition spéciale 266 du 3.3 ;
 
+― pour approuver l'exclusion de la classe 1 au titre du 2.2.1.1.8.1 ;
+
 ― pour délivrer les autorisations prévues dans les dispositions spéciales 271 et 272 du 3.3 ;
 
 ― pour approuver l'affectation des artifices de divertissement aux divisions de risque au titre du 2.2.1.1.7.2 et de la disposition spéciale 645 ;
 
 ― pour approuver l'emballage dans le cadre de l'instruction d'emballage P101 du 4.1.4.1 ;
 
-― pour approuver l'emballage en commun de certains objets explosibles avec leurs moyens propres d'amorçage au titre du renvoi a du 7.5.2.2 de l'ADR et du RID et du 6.12.5 de l'ADR ;
+― pour approuver la méthode de séparation au titre du renvoi a du 7.5.2.2 de l'ADR et du RID et du 6.12.5 de l'ADR ;
 
 - pour donner son avis concernant le fonctionnement accidentel des moyens d'amorçage des objets de la classe 1 dans le cadre du a iii) de la disposition spéciale MP21 du 4.1.10 de l'ADR et du RID.
 

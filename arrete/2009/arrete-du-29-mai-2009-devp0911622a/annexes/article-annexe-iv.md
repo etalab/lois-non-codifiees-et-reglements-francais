@@ -42,7 +42,7 @@ Dans les prescriptions qui suivent, on entend par :
 
 (3.1) Type : famille de flexibles ayant la même conception, les mêmes matériaux (en particulier les matières en contact direct avec le fluide véhiculé), un usage spécifique identique, le même mode d'assemblage des raccords quelle que soit la nature des matériaux des composants du raccord, la même pression maximale de service et des températures de service (minimale et maximale) identiques ;
 
-(3.2) Variantes du type : diamètre, épaisseur et longueur du tuyau ;
+(3.2) Variantes du type : diamètre, épaisseur et longueur du tuyau, type et matières des raccords ;
 
 (4) Constructeur : personne physique ou morale qui a la responsabilité de la conception et de la réalisation du flexible ;
 
@@ -56,7 +56,7 @@ Dans les prescriptions qui suivent, on entend par :
 
 2. Construction
 
-2.1. Sans préjudice des dispositions particulières prévues aux paragraphes 2.2 et suivants du présent appendice, les flexibles doivent satisfaire aux conditions minimales suivantes :
+2.1. Les flexibles satisfont aux conditions minimales suivantes :
 
 (1) Les flexibles doivent être construits en matériaux appropriés qui doivent être exempts de fragilité dans les conditions normales de leur utilisation.
 
@@ -66,11 +66,13 @@ Dans les prescriptions qui suivent, on entend par :
 
 (4) A l'exception des flexibles équipés de raccords en polypropylène utilisés pour le transfert des matières des classes 6.1 et 8 d'un point d'éclair supérieur à 60° C, les flexibles ont par leur constitution une résistance électrique par mètre de longueur inférieure ou égale à 10<sup>6 Ω</sup>.
 
-(5) La pression maximale de service du flexible est identique à celle du tuyau.
+(5) La pression maximale de service du flexible est identique à celle du tuyau. La pression maximale de service des flexibles est d'au moins 1 MPa (10 bars), à l'exception des flexibles pour liquides alimentaires de la classe 3 qui peuvent avoir une pression maximale de service comprise entre 0,4 et 1 MPa (4 et 10 bars).
+
+Lorsqu'une norme est citée aux 2.2 à 2.6 du présent appendice, elle est appliquée dans sa totalité, sauf lorsque les prescriptions du présent appendice sont plus contraignantes.
 
 2.2. Flexibles pour l'ammoniac du n° ONU 1005 de la classe 2.
 
-Les flexibles doivent être d'un type prévu pour ce fluide, leur diamètre intérieur nominal ne doit pas dépasser 50 mm.
+Les flexibles doivent être d'un type prévu pour ce fluide, leur diamètre intérieur nominal ne doit pas dépasser 51 mm.
 
 Les flexibles réalisés à partir de tuyaux en caoutchouc doivent être conformes à la norme NF EN ISO 5771 de novembre 2008.
 
@@ -80,21 +82,23 @@ Chapitre 4 : Pression nominale.
 
 Chapitre 10 : Marquage.
 
-2.3. Flexibles pour les hydrocarbures gazeux en mélange liquéfiés nsa du n° ONU 1965 de la classe 2.
+2.3. Flexibles pour les matières de la classe 2 des n°s ONU 1011, 1075, 1965, 1969 et 1978.
 
-Les flexibles doivent être d'un seul tenant et être conformes à la norme NF EN 1762 de mai 2004.
+Les flexibles sont d'un seul tenant et sont conformes à la norme NF EN 1762 de mai 2004.
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
-Les flexibles doivent être conformes à la norme NF EN 12434 de février 2001.
+Les flexibles sont conformes à la norme NF EN 12434 de février 2001.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1360 de novembre 2005, ou à la norme NF EN 1361 de novembre 2004, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005.
+Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1360 de novembre 2005, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005, ou à la norme NF EN 13765 de juin 2010, ou à la norme NF EN ISO 1825 de juillet 2011.
 
-2.6. Flexibles pour les autres matières liquides ou gazeuses.
+2.6. Flexibles en caoutchouc et en matériaux thermoplastiques pour matières chimiques liquides ou gazeuses.
 
-La pression maximale de service des flexibles doit être d'au moins 1 MPa (10 bar).
+Les flexibles sont conformes à la norme NF EN 12115 d'avril 2011 ou à la norme NF EN 13765 de juin 2010.
+
+2.7. Les normes NF EN 12115, NF EN 13765 et NF EN ISO 1825 précitées peuvent n'être appliquées qu'à compter du 1er janvier 2014.
 
 3. Agrément des flexibles
 
@@ -110,9 +114,11 @@ La pression maximale de service des flexibles doit être d'au moins 1 MPa (10 ba
 
 - un essai de tenue à la pression d'éclatement au cours duquel il sera vérifié que le flexible supporte une pression au moins égale à 3 fois la pression maximale de service.
 
-(3) Tout flexible visé par une homologation de type selon la procédure définie au 2 du 3.1 du présent appendice est construit et éprouvé suivant un plan d'assurance de la qualité pour la production, l'examen final et la mise à l'épreuve. Ce système d'assurance de la qualité, basé sur la norme ISO 9001, est certifié par un organisme certificateur reconnu.
+(3) Tout flexible visé par une homologation de type selon le présent appendice est construit et éprouvé suivant un plan d'assurance de la qualité pour la production, l'examen final et la mise à l'épreuve. Ce système d'assurance de la qualité est certifié selon la norme ISO 9001 par un organisme certificateur reconnu.
 
-(4) Lorsqu'ils ne sont pas construits suivant un programme d'assurance de la qualité, les flexibles doivent être individuellement examinés, éprouvés et agréés par un organisme agréé sur la base de la documentation technique et du certificat délivré par le constructeur et attestant la conformité du flexible avec les dispositions applicables suivant le présent appendice.
+(4) Lorsqu'ils ne sont pas construits suivant un programme d'assurance de la qualité, les flexibles sont individuellement examinés, éprouvés et agréés par un organisme agréé sur la base de la documentation technique et du certificat délivré par le constructeur, attestant la conformité du flexible aux dispositions applicables du présent appendice.
+
+(5) Si un constructeur a recours aux services d'un sous-traitant, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, et assume l'entière responsabilité de cette sous-traitance. Dans tous les cas, l'épreuve hydraulique initiale, la mesure de la résistance électrique et la délivrance des certificats d'épreuves sont effectuées par le constructeur lui-même.
 
 3.2. Etat descriptif.
 
@@ -136,9 +142,9 @@ Avant leur mise en service, les flexibles doivent être soumis à une épreuve d
 
 4.2. Contrôles périodiques.
 
-(1) Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu à l'établissement d'une fiche de suivi qui est présentée, lorsque le flexible est monté sur un véhicule, lors de la visite technique selon le 9.1.2.1.1 de l'ADR. Ce contrôle visuel est effectué, sous la responsabilité du propriétaire, par une personne compétente choisie en dehors des personnes qui utilisent les flexibles ou participent à leur entretien. Lorsqu'au cours de l'un de ces contrôles le flexible présente des traces manifestes de détériorations (fissures, crevasses ou usures anormales), il est réformé immédiatement.
+(1) Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu à l'établissement d'une fiche de suivi qui est présentée, lorsque le flexible est monté sur un véhicule, lors de la visite technique selon le 9.1.2.3 de l'ADR. Ce contrôle visuel est effectué, sous la responsabilité du propriétaire, par une personne compétente choisie en dehors des personnes qui utilisent les flexibles ou participent à leur entretien. Lorsqu'au cours de l'un de ces contrôles le flexible présente des traces manifestes de détériorations (fissures, crevasses ou usures anormales), il est réformé immédiatement.
 
-(2) Les flexibles pour l'ammoniac sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale, sous le contrôle d'un organisme agréé.
+(2) Les flexibles pour l'ammoniac du n° ONU 1005 de la classe 2 sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale, sous le contrôle d'un organisme agréé.
 
 (3) Les flexibles pour les hydrocarbures de la classe 2 sont soumis à une épreuve d'étanchéité sous le contrôle d'un organisme agréé au plus tard trois ans après la date de l'épreuve initiale.
 
@@ -150,7 +156,7 @@ Après réparation ou transformation, l'épreuve de pression hydraulique initial
 
 4.4. Réforme.
 
-Les flexibles sont réformés au plus tard six ans après la date d'épreuve initiale. Les flexibles pour l'ammoniac sont réformés au plus tard trois ans après la date d'épreuve initiale.
+Les flexibles sont réformés au plus tard six ans après la date d'épreuve initiale. Les flexibles pour l'ammoniac du n° ONU 1005 de la classe 2 sont réformés au plus tard trois ans après la date d'épreuve initiale.
 
 4.5. Certificats d'épreuves.
 
@@ -168,7 +174,7 @@ Les épreuves donnent lieu, quel qu'en soit le résultat, à l'établissement d'
 
 - date de fabrication (trimestre, année) ;
 
-- norme à laquelle est soumis le cas échéant le tuyau ou le flexible.
+- norme (avec sa date)à laquelle est soumis le cas échéant le tuyau ou le flexible.
 
 Ce marquage doit être reporté au minimum tous les cinq mètres avec impérativement un marquage par flexible.
 
@@ -188,13 +194,15 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 
 6. Service
 
-6.1. Les dispositifs de pompage doivent être tels que, quelles que soient les manœuvres qui puissent être effectuées sur les vannes, la pression maximale en un point quelconque des flexibles ne puisse jamais dépasser la pression maximale de service.
+6.1. Les dispositifs de pompage doivent être tels que, quelles que soient les manœuvres qui puissent être effectuées sur les vannes, la pression maximale en un point quelconque des flexibles ne puisse jamais dépasser la pression maximale de service. La pression maximale de service du flexible ne doit pas être inférieure à la pression maximale de service de la citerne.
 
 6.2. En ce qui concerne les flexibles à utilisation multiple, le propriétaire et l'utilisateur doivent prendre toutes les mesures pour éviter le contact entre des matières susceptibles de réagir dangereusement entre elles ou d'affaiblir le matériau constitutif de manière appréciable.
 
 6.3. Un dispositif de protection des flexibles contre les chocs et les frottements doit être prévu lors des opérations de transport.
 
 6.4. Tout utilisateur de flexible qui constate des détériorations ou usures anormales doit le signaler sans délai à la personne chargée des contrôles annuels.
+
+6.5. Les flexibles construits avant le 1er janvier 2014 selon les prescriptions de l'appendice IV.1 applicables avant cette date peuvent continuer à être utilisés dans les conditions des 4.2 à 4.4 ci-dessus.
 
 APPENDICE IV.2 : LISTE DE CONTRÔLE (Voir 5.3 de l'annexe I du présent arrêté)
 
@@ -204,7 +212,7 @@ Vous pouvez consulter le tableau dans le JO n° 147 du 27/06/2009 texte numéro 
 
 APPENDICE IV.3 : TABLEAU DE RAPPORT STATISTIQUE
 
-(Voir 5.7 de l'annexe I du présent arrêté)
+(Voir 5.6 de l'annexe I du présent arrêté)
 
 MODÈLE DE FORMULAIRE NORMALISÉ POUR L'ÉLABORATION DU RAPPORT
 
@@ -219,11 +227,13 @@ Contrôle des transports de marchandises dangereuses par route
 <tr>
 <td colspan="2" rowspan="2" width="301">
 <br/>
+<br/>
 </td>
 <td colspan="3" width="287">
 <p align="center">Lieu d'immatriculation des véhicules (1)</p>
 </td>
 <td width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -350,153 +360,7 @@ Contrôle des transports de marchandises dangereuses par route
 
 (2) Lorsqu'il y a plusieurs infractions par unité de transport, seule la catégorie des risques les plus graves doit être appliquée.
 
-APPENDICE IV.4 : PRESCRIPTIONS RELATIVES À LA CONSTRUCTION, ET À L'UTILISATION JUSQU'AU 30 JUIN 2012, DES MATÉRIELS DE TRANSPORT DE L'AMMONIAC EMPLOYÉS UNIQUEMENT EN AGRICULTURE
-
-(Voir 3.3 de l'annexe I du présent arrêté)
-
-Préambule
-
-a) Les transports visés au a du 3.3.1 de l'annexe I du présent arrêté peuvent être effectués par des véhicules routiers, au sens de l'article 2 du présent arrêté, si ce sont des véhicules AT tels que définis au 9.1.1.2. Les conditions auxquelles ces transports sont tenus de répondre sont précisées dans le présent appendice.
-
-b) Dispositions transitoires relatives aux réservoirs et citernes destinés au transport de l'ammoniac utilisé uniquement en agriculture :
-
-- les réservoirs pour le transport d'ammoniac, employés uniquement en agriculture, construits avant le 7 novembre 1982 et non conformes à la section 2 de l'appendice C. 8 de l'arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route, ne sont admis au transport que si leur épreuve initiale date de moins de trente ans ;
-
-- les citernes construites avant le 1er janvier 2003 conformément à l'appendice C. 8 de l'arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route peuvent continuer à être utilisées ;
-
-- les réservoirs et citernes susvisés sont soumis aux contrôles et épreuves périodiques selon les 6.8.2.4.2 à 6.8.2.4.4 de l'ADR ;
-
-- les citernes construites avant le 1er janvier 2009 et qui ne répondent pas au 2.2.1 du présent appendice peuvent continuer à être utilisées jusqu'à la date du prochain contrôle prévu au 6.8.2.4.2 de l'ADR.
-
-c) A compter du 1er janvier 2011, aucun nouvel agrément de citerne spécifiquement conçue pour le transport d'ammoniac utilisé uniquement en agriculture ne peut être délivré.
-
-1. Généralités, domaine d'application
-
-1.1. Les présentes prescriptions s'appliquent aux transports par route de citernes fixes, citernes démontables et citernes sur berce, dont l'emploi est uniquement réservé au transport de l'ammoniac du n° ONU 1005 pour l'agriculture et de volume au moins égal à 250 litres sans être supérieur à 15 000 litres.
-
-1.2. Sauf disposition contraire, ces transports ne sont pas soumis aux autres prescriptions du présent arrêté, à condition de ne pas concerner d'autres matières dangereuses. Cependant, les entreprises effectuant des transports routiers à l'aide de véhicules autres que ceux visés au 3.3.1 de l'annexe I du présent arrêté sont soumis à l'obligation de désigner un conseiller à la sécurité conformément au 1.8.3 de l'ADR et à l'article 6 du présent arrêté.
-
-1.3. Les citernes visées au paragraphe 1.1 ci-dessus doivent satisfaire à toutes les prescriptions du 6.8 de l'ADR applicables aux citernes fixes, sauf en ce qui concerne les équipements pour lesquels les dispositions des paragraphes 2.1, 2.2 et 2.4 du présent appendice s'appliquent.
-
-1.4. En cas d'incident ou d'accident, les dispositions de l'article 7 et du 2.3.3 de l'annexe I du présent arrêté s'appliquent.
-
-2. Equipements
-
-2.1. Les matériaux constitutifs des équipements de service doivent être compatibles avec l'ammoniac.
-
-Chaque réservoir doit être muni :
-
-a) D'une jauge permettant de contrôler le volume du liquide contenu ;
-
-b) D'un dispositif de détection permettant de constater que le taux de remplissage est respecté ;
-
-c) D'une soupape réglée à une pression au moins égale à 19 bar, qui doit être complètement ouverte à une pression au plus égale à 1,2 fois la pression d'ouverture et dont le débit est assuré au minimum par une section totale de passage libre au moins égale à 2,5 cm² par tranche de 8 m³ de volume du réservoir. La soupape doit être en communication avec la phase gazeuse, d'un type qui puisse résister aux effets dynamiques, mouvement des liquides compris. L'emploi de soupapes à poids mort ou à contrepoids est interdit. La soupape doit être plombée.
-
-2.2. Orifices de remplissage et de vidange.
-
-(1) Les robinets de remplissage et de vidange doivent avoir un diamètre intérieur nominal de 51 mm au plus.
-
-(2) Les orifices de remplissage et de vidange situés sur la phase liquide doivent être munis d'une obturation interne à fermeture automatique.
-
-(3) Lorsque ces orifices sont indépendants, ils sont réputés satisfaire au paragraphe (2) dès lors qu'ils satisfont aux prescriptions suivantes :
-
-- le circuit de vidange est muni d'un clapet limiteur de débit, taré à 10 t/h pour les citernes de volume supérieur ou égal à 4 000 litres et 4 t/h pour les citernes de volume inférieur, assurant la quasi-fermeture du circuit en cas de rupture de canalisation ;
-
-- le circuit de remplissage est muni d'un clapet anti-retour ;
-
-- ces clapets sont fixés directement sur les corps du réservoir ;
-
-- la tubulure de vidange utilisée pour les transvasements porte, le plus près possible du corps du réservoir, une vanne d'isolement ; cette vanne est à fermeture rapide (par exemple du type quart de tour ) et doit pouvoir être commandée à distance.
-
-(4) Les organes de remplissage et de vidange ainsi que tous les organes restant normalement pleins doivent être :
-
-- conçus de façon à empêcher toute ouverture intempestive sous l'effet d'un choc ou d'une action non délibérée ;
-
-- munis d'un dispositif d'obturation supplémentaire à ceux prévus au paragraphe (2) du 2.2 du présent appendice.
-
-2.3. Protection des organes.
-
-Lorsqu'ils ne sont pas situés à au moins 200 mm en retrait par rapport au hors-tout du châssis, les organes de remplissage et de vidange ainsi que tous les organes restant normalement pleins doivent :
-
-- soit être protégés de tout choc latéral par une lisse ayant un module d'inertie au moins égal à 20 cm³ et dont la fixation présente une résistance équivalente ;
-
-- soit posséder un dispositif fragilisant situé entre eux et les éléments d'obturation interne ou équivalents.
-
-2.4. Les véhicules porteurs de citernes démontables ou sur berce doivent répondre aux prescriptions du 9.7.6 de l'ADR relatives à la protection arrière.
-
-2.5. Les flexibles doivent respecter les prescriptions de l'appendice IV.1 du présent arrêté.
-
-2.6. Les remorques agricoles doivent être munies au minimum d'un frein de stationnement.
-
-3. Service
-
-3.1. Le 1 de l'article 9 et le 2.1 de l'annexe I du présent arrêté ainsi que les dispositions des 4.3.2.3 et 4.3.2.4 de l'ADR sont applicables dans le cadre du présent appendice.
-
-3.2. Circulation.
-
-Les transports visés au présent appendice sont assujettis aux conditions suivantes :
-
-(1) A l'exception des transports effectués avec des véhicules visés au 3.3.2 de l'annexe I du présent arrêté, seuls les transports dont le trajet n'excède pas 50 km entre le dépôt et l'exploitation agricole sont autorisés.
-
-(2) Le transport doit avoir lieu sans arrêts autres que ceux qui sont imposés par les règles de la circulation routière.
-
-(3) Le conducteur du tracteur ne doit pas être âgé de moins de 18 ans.
-
-(4) Le conducteur et l'opérateur doivent être titulaires d'une attestation de formation conformément au 8.2.1 de l'ADR. Toutefois, la formation donnée constitue une spécialisation réduite au seul transport visé dans le présent appendice. Elle porte, d'une part, sur la mise en œuvre du matériel et sur l'application de l'ammoniac, d'autre part, sur la réglementation pour le transport des marchandises dangereuses. Elle comprend un stage initial de 8 heures et un recyclage annuel de 4 heures. Le certificat de formation doit avoir une présentation spécifique inspirée du modèle figurant au 8.2.2.8.3 de l'ADR.
-
-3.3. Stationnement sur la voie publique et dans les installations.
-
-Lorsque le stationnement sur la voie publique est d'une durée comprise entre 2 heures et 12 heures, les citernes visées au 1.1 du présent appendice stationnent à plus de 10 mètres de toute habitation ou de tout établissement recevant du public.
-
-Lorsque le stationnement sur la voie publique est d'une durée supérieure à 12 heures, les citernes visées au 1.1 du présent appendice stationnent à plus de 50 mètres de toute habitation ou de tout établissement recevant du public.
-
-En outre, le stationnement en agglomération n'est pas autorisé pour les transports en véhicules agricoles, quelle que soit la durée, et pour les transports en véhicules routiers pour une durée supérieure à 2 heures.
-
-Au sein d'une installation ou exploitation agricole, les citernes visées au 1.1 du présent appendice stationnent à plus de 50 mètres de tout local habité ou occupé par des tiers ou de tout établissement recevant du public.
-
-Elles doivent, en outre, stationner à 10 mètres au moins de toute matière combustible entreposée dans l'exploitation.
-
-3.4. Manutentions et transvasements.
-
-La manutention des citernes démontables ou sur berce ainsi que les transvasements d'ammoniac sont interdits sur voie publique.
-
-Les transvasements sont réalisés à une distance par rapport aux locaux habités ou occupés par des tiers et aux établissements recevant du public supérieure aux distances spécifiées ci-après :
-
-1. Pour les citernes de contenance supérieure ou égale à 12 000 litres : 140 m.
-
-2. Pour les citernes de contenance inférieure à 12 000 litres : 80 m.
-
-3.5. Périodes de stationnement et de déchargement.
-
-Les citernes utilisées pour la livraison d'ammoniac à l'exploitation agricole ne peuvent ni stationner ni être déchargées dans ladite exploitation en dehors des périodes d'épandage fixées par arrêté préfectoral.
-
-Pendant les périodes d'épandage, il ne peut stationner dans l'exploitation agricole plus de deux citernes utilisées pour la livraison. La durée du stationnement de chaque citerne ne peut excéder sept jours.
-
-Les citernes appartenant à l'exploitation agricole peuvent stationner sur l'exploitation, vides et non dégazées, hors des périodes d'épandage autorisées.
-
-Le stationnement ou le déchargement s'effectuent dans les conditions prévues au présent appendice.
-
-3.6. Signalisation et placardage des véhicules.
-
-1. Les réservoirs ou les véhicules doivent porter sur les deux côtés latéraux et à l'arrière :
-
-- l'inscription AMMONIAC en lettres noires de 8 cm de hauteur et de 1,5 cm d'épaisseur, sur fond orangé ;
-
-- les plaques-étiquettes des modèles n°s 2.3 et 8.
-
-2. Ces prescriptions s'appliquent également aux citernes vides, non nettoyées et non dégazées.
-
-3.7. Taux de remplissage.
-
-Le taux de remplissage doit être au plus de 85 % à la température de remplissage sans pouvoir dépasser pendant l'utilisation 95 % à 50 °C.
-
-3.8. Consigne écrite.
-
-La consigne écrite relative à l'ammoniac, contenant les dispositions reproduites ci-dessous à la suite du 3.9., doit être placée dans un endroit bien visible à bord de chaque véhicule concerné.
-
-Vous pouvez consulter le tableau dans le JO n° 147 du 27/06/2009 texte numéro 11
-
-3.9. Les fournisseurs d'ammoniac transmettent au préfet de région - DREAL ou DRIEE selon qu'il convient - la liste des exploitations agricoles destinataires des livraisons d'ammoniac.
+APPENDICE IV.4 : (supprimé)
 
 APPENDICE IV.5 : MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
 
@@ -510,15 +374,17 @@ Transport des marchandises dangereuses
 
 CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE N°
 
-1. Demandeur :
+1. Demandeur :Site de conditionnement
+
+(le cas échéant) :
 
 2. Documents de référence :
 
 Transport par route : ADR, à jour au
 
-Transport par chemin de fer : RID, à jour au
+Transport ferroviaire : RID, à jour au
 
-Transport par voie navigable : ADN, à jour au
+Transport par voies de navigation intérieures : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
@@ -556,13 +422,11 @@ Particularités :
 
 Groupes d'emballage :
 
-Densité/Masse brute maximale :
+Densité/masse brute maximale :
 
 Pression de vapeur maximale à 55 °C/50 °C :
 
-Gerbage : hauteur/charge maximale :
-
-Nota. - La compatibilité chimique, si elle est exigée par les prescriptions réglementaires, doit faire l'objet d'un certificat complémentaire.
+Gerbage : charge maximale :
 
 5. Epreuves et marquage :
 
@@ -575,6 +439,8 @@ Modèle de marquage à apposer (sous réserve du respect des dispositions régle
 Délivré à [lieu de délivrance], le [date], pour une durée de cinq ans.
 
 Le responsable du laboratoire agréé
+
+6. Eléments de repérage :
 
 Modèle n° 2
 
@@ -590,9 +456,9 @@ CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE COMBINÉ N°
 
 Transport par route : ADR, à jour au
 
-Transport par chemin de fer : RID, à jour au
+Transport ferroviaire : RID, à jour au
 
-Transport par voie navigable : ADN, à jour au
+Transport par voies de navigation intérieures : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
@@ -636,7 +502,9 @@ Groupes d'emballage :
 
 Masse brute maximale :
 
-Gerbage : hauteur maximale :
+Gerbage : charge maximale :
+
+Domaine d'utilisation dans le cadre du 6.1.5.1.7 :
 
 5. Epreuves et marquage :
 
@@ -650,6 +518,8 @@ Délivré à [lieu de délivrance], le [date], pour une durée de cinq ans.
 
 Le responsable du laboratoire agréé
 
+6. Eléments de repérage :
+
 Modèle n° 3
 
 Ministère chargé des transports terrestres et maritime de matières dangereuses [Organisme agréé] (Désignation officielle).
@@ -658,15 +528,13 @@ Transport des marchandises dangereuses de la classe 1
 
 CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE N°
 
-1. Demandeur : Site de conditionnement (le cas échéant) :
-
 2. Documents de référence :
 
 Transport par route : ADR, à jour au
 
-Transport par chemin de fer : RID, à jour au
+Transport ferroviaire : RID, à jour au
 
-Transport par voie navigable : ADN, à jour au
+Transport par voies de navigation intérieures : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
@@ -676,21 +544,41 @@ Transport sous couvert de dérogation :
 
 Emballage extérieur :
 
-Fabricant : Site de fabrication :
+Fabricant :
 
-Type, matériau : Code d'emballage :
+Site de fabrication :
 
-Mode de fabrication : Référence commerciale :
+Type, matériau :
+
+Code d'emballage :
+
+Mode de fabrication :
+
+Référence commerciale :
 
 Matière première constitutive :
 
+Plans :
+
+Capacité nominale :
+
+Capacité réelle :
+
 Poids à vide (tare) :
+
+Poids à vide du récipient nu :
 
 Dimensions extérieures hors tout :
 
 Epaisseurs minimales :
 
 Fermetures :
+
+Manutention :
+
+Décompression :
+
+Particularités :
 
 Emballages et aménagements intérieurs et intermédiaires :
 
@@ -702,9 +590,11 @@ Autres caractéristiques d'identification des éléments :
 
 4. Domaine d'utilisation agréé : matières/objets explosibles dans les conditions suivantes :
 
-Masse brute maximale :
+Densité/masse brute maximale :
 
-Gerbage : hauteur maximale :
+Gerbage : charge maximale :
+
+Domaine d'utilisation dans le cadre du 6.1.5.1.7 :
 
 5. Epreuves et marquage :
 
@@ -717,6 +607,8 @@ Modèle de marquage à apposer (sous réserve du respect des dispositions régle
 Délivré à [lieu de délivrance], le [date].
 
 Le responsable du laboratoire agréé
+
+6. Eléments de repérage :
 
 Modèle n° 4
 
@@ -732,9 +624,9 @@ CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE N°
 
 Transport par route : ADR, à jour au
 
-Transport par chemin de fer : RID, à jour au
+Transport ferroviaire : RID, à jour au
 
-Transport par voie navigable : ADN, à jour au
+Transport par voies de navigation intérieures : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
@@ -776,11 +668,13 @@ Fermetures :
 
 Aménagement intérieur :
 
-4. Domaine d'utilisation agréé : matières infectieuses des numéros ONU 2814 et 2900 dans les conditions suivantes :
+4. Domaine d'utilisation agréé : marchandises dangereuses liquides/solides dans les conditions suivantes :
 
 Masse brute maximale :
 
 Conditions particulières :
+
+Domaine d'utilisation dans le cadre du 6.3.5.1.6 :
 
 5. Epreuves et marquage :
 
@@ -793,6 +687,8 @@ Modèle de marquage à apposer (sous réserve du respect des dispositions régle
 Délivré à [lieu de délivrance], le [date], pour une durée de cinq ans.
 
 Le responsable du laboratoire agréé
+
+6. Eléments de repérage :
 
 Modèle n° 5
 
@@ -808,9 +704,9 @@ Documents de référence :
 
 Transport par route : ADR, à jour au
 
-Transport par chemin de fer : RID, à jour au
+Transport ferroviaire : RID, à jour au
 
-Transport par voie navigable : ADN, à jour au
+Transport par voies de navigation intérieures : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
@@ -858,9 +754,9 @@ Documents de référence :
 
 Transport par route : ADR, à jour au
 
-Transport par chemin de fer : RID, à jour au
+Transport ferroviaire : RID, à jour au
 
-Transport par voie navigable : ADN, à jour au
+Transport par voies de navigation intérieures  : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
@@ -1224,6 +1120,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 </td>
 <td width="107">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1248,6 +1145,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>État, présence et conformité</p>
 </td>
 <td width="107">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1286,6 +1184,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 </td>
 <td width="107">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1309,6 +1208,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>7.12. Fixations</p>
 </td>
 <td width="107">
+<br/>
 <br/>
 </td>
 </tr>
