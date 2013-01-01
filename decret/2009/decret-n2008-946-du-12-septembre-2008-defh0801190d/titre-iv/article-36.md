@@ -7,14 +7,22 @@ Les conditions d'accès à l'échelon sont déterminées par grade conformément
 <table>
 <tbody>
 <tr>
-<th>GRADES<br/>
-</th>
-<th>DÉSIGNATION<br/>des échelons<br/>
-</th>
-<th>CONDITIONS<br/>d'accès à l'échelon<br/>
-</th>
-<th>RÈGLES<br/>particulières<br/>
-</th>
+<td>
+<p align="center">GRADES<br/>
+</p>
+</td>
+<td>
+<p align="center">DÉSIGNATION<br/>des échelons<br/>
+</p>
+</td>
+<td>
+<p align="center">CONDITIONS<br/>d'accès à l'échelon<br/>
+</p>
+</td>
+<td>
+<p align="center">RÈGLES<br/>particulières<br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">Général de division <br/>
@@ -43,12 +51,9 @@ Les conditions d'accès à l'échelon sont déterminées par grade conformément
 <tr>
 <td align="center">Colonel<br/>
 </td>
-<td align="center">Echelon exceptionnel<br/>
-</td>
-<td align="center">Après 5 ans de grade, dont 1 an dans l'échelon précédent, pour les colonels nommés à un emploi fonctionnel figurant sur une liste fixée par décision du ministre de l'intérieur ; ou après 7 ans de grade dont 1 an dans l'échelon précédent.<br/>
-</td>
-<td align="center">Echelon accessible dans la limite d'un contingent numérique fixé par arrêté du ministre de l'intérieur et des ministres chargés du budget et de la fonction publique.<br/>
-</td>
+<td align="center">4e échelon </td>
+<td align="center">Au choix à cinq ans de grade dans la limite d'un contingent fixé par arrêté interministériel ou après 7 ans de grade</td>
+<td align="center">Echelons accessibles dans la limite de contingents numériques fixés par arrêté du ministre de l'intérieur et des ministres chargés du budget et de la fonction publique. Lorsqu'ils sont atteints, à l'ancienneté, ces échelons ne sont pas soumis aux contingents fixés par arrêté du ministre de l'intérieur et des ministres chargés du budget et de la fonction publique. </td>
 </tr>
 <tr>
 <td align="center">
