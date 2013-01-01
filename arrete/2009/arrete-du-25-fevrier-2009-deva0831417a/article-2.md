@@ -20,8 +20,6 @@ Le service technique de l'aviation civile est chargé, principalement dans les d
 
 Il peut être chargé de la gestion directe d'opérations conduites par l'Etat pour son propre compte.
 
-Il peut réaliser certains travaux afférents aux aérodromes dans le cadre de politiques publiques relatives à la sécurité ou à la sûreté.
-
 Dans ses domaines de compétences, le service technique de l'aviation civile anime l'activité technique des services de l'Etat. Il participe à l'animation des milieux professionnels correspondants.
 
 Il participe à la coopération scientifique et technique internationale et peut fournir des prestations relatives à une ou plusieurs activités énoncées ci-dessus pour des organismes étrangers ou multinationaux.

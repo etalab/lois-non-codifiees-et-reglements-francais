@@ -68,27 +68,27 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </td>
 </tr>
 <tr>
-<td valign="top" width="130">
-<p>40.1ZB</p>
-</td>
-<td valign="top" width="550">
-<p>Agents statutaires : entreprises non nationalisées. </p>
-</td>
+<td>40.1ZB</td>
+<td>Agents statutaires : entreprises non nationalisées. </td>
+</tr>
+<tr>
+<td>40.1ZC</td>
+<td>Agents temporaires : entreprises nationalisées. </td>
+</tr>
+<tr>
+<td>40.1ZD</td>
+<td>Agents temporaires : entreprises non nationalisées. </td>
+</tr>
+<tr>
+<td>40.1ZE</td>
+<td>Agents statutaires des industries électriques et gazières. </td>
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>40.1ZC</p>
+<p>40.1ZF</p>
 </td>
 <td valign="top" width="550">
-<p>Agents temporaires : entreprises nationalisées. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>40.1ZD</p>
-</td>
-<td valign="top" width="550">
-<p>Agents temporaires : entreprises non nationalisées. </p>
+<p>Salariés non statutaires des industries électriques et gazières.</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>80.2 AA</p>
+<p>80.2AA</p>
 </td>
 <td valign="top" width="550">
 <p>Elèves et étudiants des établissements publics ou privés d'enseignement secondaire, supérieur ou spécialisé visés à l'article L. 412-8 (2°, b) du code de la sécurité sociale.</p>
@@ -258,23 +258,59 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>80.2 CA</p>
+<p>80.2CA</p>
 </td>
 <td valign="top" width="550">
 <p>Elèves et étudiants des établissements publics et privés d'enseignement technique visés à l'article L. 412-8 (2°, a) du code de la sécurité sociale. </p>
 </td>
 </tr>
 <tr>
+<td>85.3 AA</td>
+<td>Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, centres de réadaptation fonctionnelle et rééducation professionnelle et centres d'aide par le travail (personnel administratif et enseignant). </td>
+</tr>
+<tr>
 <td valign="top" width="130">
-<p>85.3 AA</p>
+<p align="left">85.3AB </p>
 </td>
 <td valign="top" width="550">
-<p>Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, centres de réadaptation fonctionnelle et rééducation professionnelle et centres d'aide par le travail (personnel administratif et enseignant). </p>
+<p>Services d'aide sociale à domicile (auxiliaires de vie, aides ménagères...). </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">85.3AC </p>
+</td>
+<td>
+<p align="left">Accueil, hébergement en établissement pour personnes âgées (maisons de retraite...). </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">85.3AD </p>
+</td>
+<td>
+<p align="left">Accueil, hébergement en établissement pour personnes handicapées (enfants et adultes). </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">85.3AE </p>
+</td>
+<td>
+<p align="left">Accueil, hébergement, prévention pour la petite enfance, l'enfance, l'adolescence (1). </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">85.3BA</p>
+</td>
+<td>
+<p align="left">Action sociale sous toutes ses formes hors risques 85. 3AB/85. 3AC/85. 3AD/85. 3AE.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>85.3 HA</p>
+<p>85.3HA</p>
 </td>
 <td valign="top" width="550">
 <p>Stagiaires des centres de formation professionnelle, de réadaptation fonctionnelle, de rééducation professionnelle. </p>
@@ -282,7 +318,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>85.3 HB</p>
+<p>85.3HB</p>
 </td>
 <td valign="top" width="550">
 <p>Travailleurs handicapés des centres d'aide par le travail. </p>
@@ -290,7 +326,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>85.3 KD</p>
+<p>85.3KD</p>
 </td>
 <td valign="top" width="550">
 <p>Association intermédiaire (personnes dépourvues d'emploi et mises à disposition pour une durée supérieure à celle prévue à l'article D. 241-6 du code de la sécurité sociale).</p>
@@ -298,7 +334,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.1 AB</p>
+<p>91.1AB</p>
 </td>
 <td valign="top" width="550">
 <p>Caisses de congés payés (en ce qui concerne le personnel qu'elles emploient). </p>
@@ -306,7 +342,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.1 AC</p>
+<p>91.1AC</p>
 </td>
 <td valign="top" width="550">
 <p>Ordres, syndicats et organisations professionnels d'employeurs et de non-salariés. </p>
@@ -314,7 +350,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.1 AD</p>
+<p>91.1AD</p>
 </td>
 <td valign="top" width="550">
 <p>Organisations économiques. </p>
@@ -322,7 +358,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.1 AE</p>
+<p>91.1AE</p>
 </td>
 <td valign="top" width="550">
 <p>Caisses de congés payés des spectacles (en ce qui concerne les indemnités versées par ces organismes). </p>
@@ -330,7 +366,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.2 ZA</p>
+<p>91.2ZA</p>
 </td>
 <td valign="top" width="550">
 <p>Syndicats de salariés. </p>
@@ -338,7 +374,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.3 AA</p>
+<p>91.3AA</p>
 </td>
 <td valign="top" width="550">
 <p>Organisations religieuses et philosophiques. </p>
@@ -346,7 +382,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.3 EA</p>
+<p>91.3EA</p>
 </td>
 <td valign="top" width="550">
 <p>Associations culturelles et socio-éducatives ne gérant pas d'équipements. </p>
@@ -354,7 +390,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.3 EB</p>
+<p>91.3EB</p>
 </td>
 <td valign="top" width="550">
 <p>Autres services fournis à la collectivité. </p>
@@ -362,7 +398,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>92.3 AB</p>
+<p>92.3AB</p>
 </td>
 <td valign="top" width="550">
 <p>Création et interprétation littéraires et artistiques. </p>
@@ -370,7 +406,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>92.3 AC</p>
+<p>92.3AC</p>
 </td>
 <td valign="top" width="550">
 <p>Artistes, pour toutes leurs activités. </p>
@@ -378,7 +414,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>92.3 BA</p>
+<p>92.3BA</p>
 </td>
 <td valign="top" width="550">
 <p>Services annexes des spectacles. </p>
@@ -386,7 +422,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>92.6 CC</p>
+<p>92.6CC</p>
 </td>
 <td valign="top" width="550">
 <p>Cadets de golf. </p>
@@ -394,7 +430,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>92.6 CG</p>
+<p>92.6CG</p>
 </td>
 <td valign="top" width="550">
 <p>Associations sportives ne gérant pas d'équipements. </p>
@@ -402,10 +438,15 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>99.0 ZA</p>
+<p>99.0ZA</p>
 </td>
 <td valign="top" width="550">
 <p>Représentation diplomatique étrangère en France. Organismes internationaux. Services des armées alliées. </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="left">(1) Y compris les crèches, garderies, centres aérés et de loisirs..., à l'exclusion des structures et colonies de vacances visées au numéro de risque 55. 2E.</p>
 </td>
 </tr>
 </tbody>

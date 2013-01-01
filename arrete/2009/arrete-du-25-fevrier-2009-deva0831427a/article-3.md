@@ -1,6 +1,6 @@
 # Article 3
 
-Le département « infrastructures aéroportuaires » (STAC/IA) est chargé, pour la conception, la construction, l'exploitation et la maintenance des infrastructures aéroportuaires :
+Le département "infrastructures aéroportuaires" (STAC/IA) est chargé, pour la conception, la construction, l'exploitation et la maintenance des infrastructures aéroportuaires :
 
 ― de développer la recherche, d'établir des méthodologies, de réaliser et diffuser des guides techniques, outils, méthodes ou matériels ;
 
@@ -13,5 +13,3 @@ Le département « infrastructures aéroportuaires » (STAC/IA) est chargé, pou
 ― d'assister les services centraux ou déconcentrés de l'Etat, sous forme de conseil, d'expertise ou d'avis ;
 
 ― d'effectuer des auscultations de chaussées aéronautiques pour déterminer notamment leurs caractéristiques de portance, de glissance ou d'uni.
-
-Il peut être chargé d'effectuer des travaux de terrassement et d'entretien contribuant à la sécurité des aérodromes.

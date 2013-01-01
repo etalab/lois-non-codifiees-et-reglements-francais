@@ -29,19 +29,21 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="372">
 <p>Laminage à chaud ou relaminage sans fabrication de fonte ni fabrication d'acier.</p>
 </td>
-<td nowrap="nowrap" valign="top" width="96">
+<td valign="top" width="96">
 <p align="center">27.1ZD</p>
 </td>
 <td nowrap="nowrap" valign="top" width="84">
 <p align="center">4,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -57,6 +59,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -70,6 +73,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -85,6 +89,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -98,6 +103,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -113,6 +119,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -126,6 +133,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -141,6 +149,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -154,6 +163,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -169,6 +179,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -182,6 +193,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -197,6 +209,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -210,6 +223,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">4,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -225,6 +239,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -238,6 +253,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -253,6 +269,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -266,6 +283,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -281,6 +299,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -294,6 +313,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -309,6 +329,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -322,6 +343,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -337,6 +359,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -350,6 +373,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -365,6 +389,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -378,6 +403,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -393,6 +419,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -406,6 +433,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -421,6 +449,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -434,6 +463,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -449,6 +479,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -462,6 +493,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -477,6 +509,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -490,6 +523,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -505,6 +539,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -518,6 +553,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -533,6 +569,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -546,6 +583,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -561,6 +599,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -574,6 +613,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -589,6 +629,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -602,6 +643,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -617,6 +659,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -630,6 +673,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -645,6 +689,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -658,6 +703,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -673,6 +719,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -686,6 +733,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -701,6 +749,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -714,6 +763,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -729,6 +779,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -742,6 +793,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -757,6 +809,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -770,6 +823,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -785,6 +839,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -798,6 +853,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -813,6 +869,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -826,6 +883,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -841,6 +899,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -854,6 +913,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -869,6 +929,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -882,6 +943,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -897,6 +959,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -910,6 +973,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -925,6 +989,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -938,6 +1003,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -953,6 +1019,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -966,6 +1033,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -981,6 +1049,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -994,6 +1063,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1009,6 +1079,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1022,6 +1093,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1037,6 +1109,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1050,6 +1123,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1065,6 +1139,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1078,6 +1153,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1093,6 +1169,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1106,6 +1183,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1121,6 +1199,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1134,6 +1213,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1149,6 +1229,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1162,6 +1243,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1177,6 +1259,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1190,6 +1273,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1205,6 +1289,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1218,6 +1303,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1233,6 +1319,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1246,6 +1333,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1261,6 +1349,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1274,6 +1363,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1289,6 +1379,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1302,6 +1393,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1317,6 +1409,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1330,6 +1423,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1345,6 +1439,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1358,6 +1453,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1373,6 +1469,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1386,6 +1483,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1401,6 +1499,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1414,6 +1513,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1429,6 +1529,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1442,6 +1543,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1457,6 +1559,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1470,6 +1573,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1485,6 +1589,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1498,6 +1603,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1513,6 +1619,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1526,6 +1633,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1541,6 +1649,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1554,6 +1663,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1569,6 +1679,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1582,6 +1693,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1597,6 +1709,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1610,6 +1723,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1625,6 +1739,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1638,6 +1753,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1653,6 +1769,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1666,6 +1783,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1681,6 +1799,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1694,6 +1813,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1709,6 +1829,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1722,6 +1843,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1737,6 +1859,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1750,6 +1873,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1765,6 +1889,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1778,6 +1903,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1793,6 +1919,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1806,6 +1933,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1821,6 +1949,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1834,6 +1963,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1849,6 +1979,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1862,6 +1993,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1877,6 +2009,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1890,6 +2023,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1905,6 +2039,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1918,6 +2053,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1933,6 +2069,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1946,6 +2083,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1961,6 +2099,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1974,6 +2113,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1989,6 +2129,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2002,6 +2143,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2017,6 +2159,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2030,6 +2173,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2045,6 +2189,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2058,6 +2203,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2073,6 +2219,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2086,6 +2233,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2101,6 +2249,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2114,6 +2263,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2129,6 +2279,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2142,6 +2293,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2157,6 +2309,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2170,6 +2323,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2185,6 +2339,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2198,6 +2353,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2213,6 +2369,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2227,6 +2384,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 </tbody>
@@ -2235,6 +2393,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <div/>
 <div>TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES</div>
 <div>POUR LES INDUSTRIES DU BATIMENT ET DES TRAVAUX PUBLICS</div>
+<div/>
 <table>
 <tbody>
 <tr>
@@ -2260,6 +2419,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2273,6 +2433,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2288,6 +2449,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2301,6 +2463,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">7,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2316,6 +2479,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2329,6 +2493,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">7,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2344,6 +2509,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2357,6 +2523,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2372,6 +2539,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2385,6 +2553,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2400,6 +2569,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2413,6 +2583,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2428,6 +2599,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2441,6 +2613,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">9,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2456,6 +2629,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2469,6 +2643,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2484,6 +2659,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2497,6 +2673,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">9,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2512,6 +2689,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2525,6 +2703,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2540,6 +2719,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2553,6 +2733,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">7,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2568,6 +2749,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2581,6 +2763,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2608,6 +2791,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2621,6 +2805,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">9,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2636,6 +2821,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2649,6 +2835,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2664,6 +2851,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2677,6 +2865,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2692,6 +2881,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2705,6 +2895,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2720,6 +2911,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2733,6 +2925,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2748,6 +2941,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2761,6 +2955,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">6,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2776,6 +2971,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2789,6 +2985,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2804,6 +3001,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2817,6 +3015,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2832,6 +3031,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2845,6 +3045,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2860,6 +3061,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2873,6 +3075,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">5,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2888,6 +3091,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2901,6 +3105,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2916,6 +3121,7 @@ DES INDUSTRIES DE LA METALLURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2929,6 +3135,7 @@ DES INDUSTRIES DE LA METALLURGIE
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2982,7 +3189,9 @@ DES INDUSTRIES DE LA METALLURGIE
 </tbody>
 </table>
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DES TRANSPORTS, DE L'EAU, DU GAZ, DE L'ELECTRICITE, DU LIVRE ET DE LA COMMUNICATION
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DES TRANSPORTS,
+
+DE L'EAU, DU GAZ, DE L'ELECTRICITE, DU LIVRE ET DE LA COMMUNICATION
 
 <table>
 <tbody>
@@ -3009,6 +3218,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3022,6 +3232,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3037,6 +3248,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3050,6 +3262,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3065,6 +3278,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3078,6 +3292,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3093,6 +3308,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3106,6 +3322,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3121,6 +3338,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3134,6 +3352,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3149,6 +3368,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3162,6 +3382,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3177,14 +3398,39 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="left">Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises nationalisées (b).</td>
+<td align="center"> 40.1ZA</td>
+<td align="center"> 0,20</td>
+<td align="center"> TC</td>
+</tr>
+<tr>
+<td align="left">Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises non nationalisées (b).</td>
+<td align="center"> 40.1ZB</td>
+<td align="center"> 0,20</td>
+<td align="center"> TC</td>
+</tr>
+<tr>
+<td align="left">Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises nationalisées (b).</td>
+<td align="center"> 40.1ZC</td>
+<td align="center"> 2,20</td>
+<td align="center"> TC</td>
+</tr>
+<tr>
+<td align="left">Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises non nationalisées (b)</td>
+<td align="center"> 40.1ZD</td>
+<td align="center"> 2,20</td>
+<td align="center"> TC</td>
+</tr>
+<tr>
 <td valign="top" width="372">
-<p>Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises nationalisées (b).</p>
+<p align="left">Agents statutaires des industries électriques et gazières. </p>
 </td>
 <td nowrap="nowrap" valign="top" width="96">
-<p align="center">40.1ZA</p>
+<p align="center">40.1ZE</p>
 </td>
 <td nowrap="nowrap" valign="top" width="84">
 <p align="center">0,20</p>
@@ -3195,38 +3441,10 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </tr>
 <tr>
 <td valign="top" width="372">
-<p>Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises non nationalisées (b).</p>
+<p align="left">Salariés non statutaires des industries électriques et gazières.</p>
 </td>
 <td nowrap="nowrap" valign="top" width="96">
-<p align="center">40.1ZB</p>
-</td>
-<td nowrap="nowrap" valign="top" width="84">
-<p align="center">0,20</p>
-</td>
-<td nowrap="nowrap" valign="top" width="89">
-<p align="center">TC</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="372">
-<p>Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises nationalisées (b).</p>
-</td>
-<td nowrap="nowrap" valign="top" width="96">
-<p align="center">40.1ZC</p>
-</td>
-<td nowrap="nowrap" valign="top" width="84">
-<p align="center">2,20</p>
-</td>
-<td nowrap="nowrap" valign="top" width="89">
-<p align="center">TC</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="372">
-<p>Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises non nationalisées (b)</p>
-</td>
-<td nowrap="nowrap" valign="top" width="96">
-<p align="center">40.1ZD</p>
+<p align="center">40.1ZF</p>
 </td>
 <td nowrap="nowrap" valign="top" width="84">
 <p align="center">2,20</p>
@@ -3247,6 +3465,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3261,6 +3480,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3274,6 +3494,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3303,6 +3524,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3316,6 +3538,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3331,6 +3554,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3344,6 +3568,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3359,6 +3584,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3372,6 +3598,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3387,6 +3614,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3400,6 +3628,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3415,6 +3644,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3428,6 +3658,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3443,6 +3674,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3456,6 +3688,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3471,6 +3704,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3484,6 +3718,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3499,6 +3734,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3512,6 +3748,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">11,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3527,6 +3764,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3540,6 +3778,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3555,6 +3794,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3568,6 +3808,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3583,6 +3824,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3596,6 +3838,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3611,6 +3854,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3624,6 +3868,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3639,6 +3884,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3652,6 +3898,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3667,6 +3914,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3680,6 +3928,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3695,6 +3944,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3708,6 +3958,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3723,6 +3974,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3736,6 +3988,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3765,6 +4018,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3793,6 +4047,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3806,6 +4061,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3821,6 +4077,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3834,6 +4091,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3849,6 +4107,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3862,6 +4121,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3877,6 +4137,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3891,6 +4152,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3904,6 +4166,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3933,6 +4196,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3946,6 +4210,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3961,6 +4226,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3974,6 +4240,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3989,6 +4256,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4002,6 +4270,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4017,6 +4286,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4030,6 +4300,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4045,6 +4316,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4058,6 +4330,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4073,6 +4346,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4086,6 +4360,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4101,6 +4376,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4115,6 +4391,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4128,6 +4405,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4185,6 +4463,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4198,6 +4477,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4213,6 +4493,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4226,6 +4507,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4241,6 +4523,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4255,6 +4538,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4268,6 +4552,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4297,6 +4582,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4310,6 +4596,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4325,6 +4612,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4339,6 +4627,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4352,6 +4641,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4403,6 +4693,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4416,6 +4707,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">6,30</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4431,6 +4723,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4444,6 +4737,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4459,6 +4753,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4472,6 +4767,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">3,70</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4487,6 +4783,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4500,6 +4797,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4515,6 +4813,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4528,6 +4827,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">3,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4543,6 +4843,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4556,6 +4857,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4571,6 +4873,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4584,6 +4887,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4599,6 +4903,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4612,6 +4917,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4627,6 +4933,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4640,6 +4947,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">1,20</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4655,6 +4963,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4668,6 +4977,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4683,6 +4993,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4696,6 +5007,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4711,6 +5023,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4724,6 +5037,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4739,6 +5053,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4752,6 +5067,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">3,20</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4767,6 +5083,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4780,6 +5097,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,30</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4795,6 +5113,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4808,6 +5127,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">2,30</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4823,6 +5143,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4837,6 +5158,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4850,6 +5172,7 @@ POUR LES SERVICES, COMMERCES ET INDUSTRIES DE L'ALIMENTATION
 <p align="center">3,60</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4885,6 +5208,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4898,6 +5222,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4913,6 +5238,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4926,6 +5252,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4941,6 +5268,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4954,6 +5282,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4969,6 +5298,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4982,6 +5312,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4997,6 +5328,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5010,6 +5342,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5025,6 +5358,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5038,6 +5372,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5053,6 +5388,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5066,6 +5402,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5081,6 +5418,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5094,6 +5432,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5109,6 +5448,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5122,6 +5462,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5137,6 +5478,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5150,6 +5492,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5165,6 +5508,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5178,6 +5522,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5193,6 +5538,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5206,6 +5552,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5221,6 +5568,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5234,6 +5582,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5249,6 +5598,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5262,6 +5612,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5277,6 +5628,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5290,6 +5642,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5305,6 +5658,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5318,6 +5672,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5333,6 +5688,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5346,6 +5702,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5361,6 +5718,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5374,6 +5732,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5389,6 +5748,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5402,6 +5762,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5417,6 +5778,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5430,6 +5792,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5445,6 +5808,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5458,6 +5822,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5473,6 +5838,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5486,6 +5852,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5501,6 +5868,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5514,6 +5882,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5529,6 +5898,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5542,6 +5912,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5557,6 +5928,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5570,6 +5942,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5585,6 +5958,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5598,6 +5972,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5613,6 +5988,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5626,6 +6002,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5641,6 +6018,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5654,6 +6032,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5669,6 +6048,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5682,6 +6062,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5697,6 +6078,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5710,6 +6092,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">3,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5725,6 +6108,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5738,6 +6122,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5753,6 +6138,7 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5767,12 +6153,17 @@ DES INDUSTRIES DE LA CHIMIE, DU CAOUTCHOUC ET DE LA PLASTURGIE
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DU BOIS, DE L'AMEUBLEMENT, DU PAPIER-CARTON, DU TEXTILE, DU VETEMENT, DES CUIRS ET DES PEAUX ET DES PIERRES ET TERRES A FEU
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DU BOIS,
+
+DE L'AMEUBLEMENT, DU PAPIER-CARTON, DU TEXTILE, DU VETEMENT,
+
+DES CUIRS ET DES PEAUX ET DES PIERRES ET TERRES A FEU
 
 <table>
 <tbody>
@@ -5799,6 +6190,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5812,6 +6204,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5827,6 +6220,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5840,6 +6234,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5855,6 +6250,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5868,6 +6264,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5883,6 +6280,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5896,6 +6294,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5911,6 +6310,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5924,6 +6324,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5939,6 +6340,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5952,6 +6354,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5967,6 +6370,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5980,6 +6384,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5995,6 +6400,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6008,6 +6414,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6023,6 +6430,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6036,6 +6444,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6051,6 +6460,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6064,6 +6474,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6079,6 +6490,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6092,6 +6504,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6107,6 +6520,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6120,6 +6534,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6135,6 +6550,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6148,6 +6564,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6163,6 +6580,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6176,6 +6594,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6191,6 +6610,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6204,6 +6624,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6219,6 +6640,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6232,6 +6654,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6247,6 +6670,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6260,6 +6684,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6275,6 +6700,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6288,6 +6714,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6303,6 +6730,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6316,6 +6744,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6331,6 +6760,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6344,6 +6774,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6359,6 +6790,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6372,6 +6804,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6387,6 +6820,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6400,6 +6834,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6415,6 +6850,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6428,6 +6864,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6443,6 +6880,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6456,6 +6894,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">6,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6471,6 +6910,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6484,6 +6924,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6499,6 +6940,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6512,6 +6954,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6527,6 +6970,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6540,6 +6984,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6555,6 +7000,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6568,6 +7014,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6583,6 +7030,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6596,6 +7044,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">28,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6611,6 +7060,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6624,6 +7074,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6639,6 +7090,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6652,6 +7104,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6667,6 +7120,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6680,6 +7134,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6695,6 +7150,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6708,6 +7164,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6723,6 +7180,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6736,6 +7194,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6751,6 +7210,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6764,6 +7224,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6779,6 +7240,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6792,6 +7254,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6807,6 +7270,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6820,6 +7284,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">3,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6835,6 +7300,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6848,6 +7314,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6863,6 +7330,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6876,6 +7344,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6891,6 +7360,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6904,6 +7374,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6919,6 +7390,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6932,6 +7404,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6947,6 +7420,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6960,6 +7434,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">5,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6975,6 +7450,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6988,6 +7464,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7003,6 +7480,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7016,6 +7494,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">1,90</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7031,6 +7510,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7045,6 +7525,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7058,6 +7539,7 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES IN
 <p align="center">2,80</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7100,6 +7582,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7113,6 +7596,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7128,6 +7612,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7141,6 +7626,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,20</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7156,6 +7642,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7169,6 +7656,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7184,6 +7672,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7197,6 +7686,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7212,6 +7702,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7225,6 +7716,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,60</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7240,6 +7732,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7253,6 +7746,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7268,6 +7762,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7281,6 +7776,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7296,6 +7792,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7309,6 +7806,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7324,6 +7822,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7337,6 +7836,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7352,6 +7852,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7365,6 +7866,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7380,6 +7882,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7393,6 +7896,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7408,6 +7912,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7421,6 +7926,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,20</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7436,6 +7942,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7449,6 +7956,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,10</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7464,6 +7972,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7477,6 +7986,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,70</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7492,6 +8002,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7505,6 +8016,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7520,6 +8032,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7533,6 +8046,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7548,6 +8062,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7561,6 +8076,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7576,6 +8092,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7589,6 +8106,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7604,6 +8122,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7617,6 +8136,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7632,6 +8152,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7645,6 +8166,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,80</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7660,6 +8182,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7674,6 +8197,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7687,6 +8211,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,40</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7716,6 +8241,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7729,6 +8255,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7744,6 +8271,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7757,6 +8285,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">2,60</p>
 </td>
 <td nowrap="nowrap" valign="bottom" width="93">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7774,8 +8303,10 @@ DES COMMERCES NON ALIMENTAIRES
 </tbody>
 </table>
 
-<div>TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES</div>
-<div>POUR LES ACTIVITES DE SERVICES I</div>
+<div align="left">TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES<br/> POUR LES ACTIVITES DE SERVICES I</div>
+<div align="left"/>
+<div/>
+<div/>
 <table>
 <tbody>
 <tr>
@@ -7871,6 +8402,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7884,6 +8416,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7899,6 +8432,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7912,6 +8446,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7955,6 +8490,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7983,6 +8519,7 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7996,6 +8533,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,20</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8024,6 +8562,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8056,18 +8595,35 @@ DES COMMERCES NON ALIMENTAIRES
 </td>
 </tr>
 <tr>
+<td>Collectivités territoriales (communales, départementales, régionales..., y compris leurs établissements publics).</td>
+<td align="center"> 75.1AD</td>
+<td align="center"> 1,70</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="372">
-<p>Collectivités territoriales (communales, départementales, régionales..., y compris leurs établissements publics).</p>
+<p align="left">Collectivités territoriales (communales, départementales, régionales...,) y compris leurs établissements publics hors secteur médico-social. </p>
 </td>
 <td nowrap="nowrap" valign="top" width="96">
-<p align="center">75.1AD</p>
+<p align="center">75.1BA</p>
 </td>
 <td nowrap="nowrap" valign="top" width="84">
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
 <br/>
+<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Etablissements publics médico-sociaux des collectivités territoriales.</p>
+</td>
+<td>
+<p align="center">75.1BB</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="372">
@@ -8080,6 +8636,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,70</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8094,6 +8651,7 @@ DES COMMERCES NON ALIMENTAIRES
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8202,7 +8760,6 @@ TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
 
 POUR LES ACTIVITES DE SERVICES II
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -8228,6 +8785,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8241,6 +8799,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">1,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8256,6 +8815,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8269,6 +8829,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">3,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8284,6 +8845,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8297,6 +8859,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">4,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8312,6 +8875,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8325,6 +8889,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">3,30</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8340,21 +8905,39 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
+<td>Etablissements de soins privés : cliniques générales ou spécialisées, établissements hospitaliers, généraux ou spécialisés, dispensaires, etc.</td>
+<td align="center"> 85.1AA</td>
+<td align="center"> 2,40</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="354">
-<p>Etablissements de soins privés : cliniques générales ou spécialisées, établissements hospitaliers, généraux ou spécialisés, dispensaires, etc.</p>
+<p align="left">Etablissements de soins privés y compris centres de réadaptation fonctionnelle. </p>
 </td>
 <td nowrap="nowrap" valign="top" width="102">
-<p align="center">85.1AA</p>
+<p align="center">85.1AB</p>
 </td>
 <td nowrap="nowrap" valign="top" width="90">
 <p align="center">2,40</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Services de soins privés médicaux exclusivement à domicile. </p>
+</td>
+<td>
+<p align="center">85.1AC</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="354">
@@ -8367,6 +8950,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">1,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8382,6 +8966,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8395,6 +8980,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">1,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8410,6 +8996,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8423,6 +9010,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">1,50</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8438,6 +9026,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8452,14 +9041,21 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
+<td>Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, centres de réadaptation fonctionnelle et rééducation professionnelle et établissements ou services d'aide par le travail (personnel administratif et enseignant).</td>
+<td align="center"> 85.3AA</td>
+<td align="center"> 2,80</td>
+<td align="center"> TC</td>
+</tr>
+<tr>
 <td valign="top" width="354">
-<p>Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, centres de réadaptation fonctionnelle et rééducation professionnelle et établissements ou services d'aide par le travail (personnel administratif et enseignant).</p>
+<p align="left">Services d'aide sociale à domicile (auxiliaires de vie, aides ménagères...).</p>
 </td>
 <td nowrap="nowrap" valign="top" width="102">
-<p align="center">85.3AA</p>
+<p align="center">85.3AB</p>
 </td>
 <td nowrap="nowrap" valign="top" width="90">
 <p align="center">2,80</p>
@@ -8467,6 +9063,48 @@ POUR LES ACTIVITES DE SERVICES II
 <td nowrap="nowrap" valign="top" width="95">
 <p align="center">TC</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Accueil, hébergement en établissement pour personnes âgées (maisons de retraite...). </p>
+</td>
+<td>
+<p align="center">85.3AC</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Accueil, hébergement en établissement pour personnes handicapées (enfants et adultes). </p>
+</td>
+<td>
+<p align="center">85.3AD</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Accueil, hébergement, prévention pour la petite enfance, l'enfance, l'adolescence (2). <br/>
+</p>
+</td>
+<td>
+<p align="center">85.3AE</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Action sociale sous toutes ses formes hors risques 85. 3AB/85. 3AC/85. 3AD/85. 3AE. <br/>
+</p>
+</td>
+<td>
+<p align="center">85.3BA</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="354">
@@ -8634,6 +9272,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8647,6 +9286,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">2,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8662,6 +9302,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8675,6 +9316,7 @@ POUR LES ACTIVITES DE SERVICES II
 <p align="center">3,00</p>
 </td>
 <td nowrap="nowrap" valign="top" width="95">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8690,6 +9332,7 @@ POUR LES ACTIVITES DE SERVICES II
 </td>
 <td nowrap="nowrap" valign="top" width="95">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8698,11 +9341,11 @@ POUR LES ACTIVITES DE SERVICES II
 <p>Le taux du numéro de risque 74.5BB est applicable aux établissements occupant exclusivement du personnel paramédical.</p>
 <p>Le taux du numéro de risque 74.5BD est applicable aux établissements occupants, soit uniquement du personnel pour tous autres travaux, soit simultanément du personnel pour tous autres travaux et/ou du personnel pour travaux de bureau ou du personnel paramédical ou ces deux catégories de personnel.</p>
 <p>Le taux du numéro de risque 74.5BC est applicable au personnel de ces entreprises non visé les articles L. 1251-16 et L. 1251-17 du code du travail.</p>
+<p>(2) Y compris les crèches, garderies, centres aérés et de loisirs..., à l'exclusion des structures et colonies de vacances visées au numéro de risque 55. 2EC. </p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
 
 CATEGORIES DE TRAVAILLEURS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-22
 
@@ -8864,7 +9507,11 @@ DU CODE DE LA SECURITE SOCIALE
 </tbody>
 </table>
 
-CATEGORIES DE PERSONNELS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-21 DU CODE DE LA SECURITE SOCIALE ET A L'ARTICLE 1er (III) DE L'ARRETE DU 17 OCTOBRE 1995 RELATIF A LA TARIFICATION DES RISQUES D'ACCIDENTS DU TRAVAIL ET DE MALADIES PROFESSIONNELLES
+CATEGORIES DE PERSONNELS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-21 DU CODE DE LA SECURITE SOCIALE
+
+ET A L'ARTICLE 1er (III) DE L'ARRETE DU 17 OCTOBRE 1995 RELATIF A LA TARIFICATION DES RISQUES D'ACCIDENTS
+
+DU TRAVAIL ET DE MALADIES PROFESSIONNELLES
 
 <table>
 <tbody>
@@ -8890,6 +9537,7 @@ CATEGORIES DE PERSONNELS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-21 DU CODE
 <p align="center">1,10</p>
 </td>
 <td nowrap="nowrap" valign="top" width="89">
+<br/>
 <br/>
 </td>
 </tr>
