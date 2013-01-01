@@ -8,105 +8,105 @@ Ministère de l'éducation nationale et ministère de l'enseignement supérieur 
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">GRADES DU CORPS D'ORIGINE<br/>de la fonction publique de l'Etat</p>
+<p align="center">GRADES DU CORPS D'ORIGINE<br clear="none"/>de la fonction publique de l'Etat</p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br/>de la fonction publique territoriale</p>
+<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br clear="none"/>de la fonction publique territoriale</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur de recherche hors classe.<br/>
+<p>Ingénieur de recherche hors classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial en chef de classe exceptionnelle.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ingénieur de recherche de 1re classe, 5e échelon.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ingénieur territorial en chef de classe normale, 11e échelon provisoire.<br/>
+<p>Ingénieur territorial en chef de classe exceptionnelle.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur de recherche de 1re classe, jusqu'au 4e échelon.<br/>
+<p>Ingénieur de recherche de 1re classe, 5e échelon.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial en chef de classe normale.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ingénieur de 2e classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ingénieur territorial en chef de classe normale.<br/>
+<p>Ingénieur territorial en chef de classe normale, 11e échelon provisoire.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur d'études hors classe.<br/>
+<p>Ingénieur de recherche de 1re classe, jusqu'au 4e échelon.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial principal.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ingénieur d'études de 1re classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ingénieur territorial principal.<br/>
+<p>Ingénieur territorial en chef de classe normale.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur d'études de 2e classe.<br/>
+<p>Ingénieur de 2e classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Technicien de recherche et formation de classe exceptionnelle.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Technicien territorial principal de 1re classe.<br/>
+<p>Ingénieur territorial en chef de classe normale.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Technicien de recherche et formation de classe supérieure.<br/>
+<p>Ingénieur d'études hors classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Technicien territorial principal de 1re classe. <br/>
+<p>Ingénieur territorial principal.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Technicien de recherche et formation de classe normale.<br/>
+<p>Ingénieur d'études de 1re classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Ingénieur territorial principal.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Ingénieur d'études de 2e classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Ingénieur territorial.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Technicien de recherche et formation de classe exceptionnelle.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Technicien territorial principal de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Technicien de recherche et formation de classe supérieure.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Technicien territorial principal de 1re classe. <br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Technicien de recherche et formation de classe normale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -115,11 +115,11 @@ Ministère de l'éducation nationale et ministère de l'enseignement supérieur 
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Technicien de l'éducation nationale de classe supérieure.<br/>
+<p>Technicien de l'éducation nationale de classe supérieure.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Contrôleur territorial de travaux principal.<br/>
+<p>Contrôleur territorial de travaux principal.<br clear="none"/>
 </p>
 </td>
 </tr>
@@ -133,241 +133,250 @@ Ministère de l'éducation nationale et ministère de l'enseignement supérieur 
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique principal de 1re classe des établissements d'enseignement du ministère de l'éducation nationale.<br/>
+<p>Adjoint technique principal de 1re classe des établissements d'enseignement du ministère de l'éducation nationale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial principal de 1re classe des établissements d'enseignement.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique principal de 2e classe des établissements d'enseignement du ministère de l'éducation nationale.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial principal de 2e classe des établissements d'enseignement.<br/>
+<p>Adjoint technique territorial principal de 1re classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique de 1re classe des établissements d'enseignement du ministère de l'éducation nationale.<br/>
+<p>Adjoint technique principal de 2e classe des établissements d'enseignement du ministère de l'éducation nationale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial de 1re classe des établissements d'enseignement.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique de 2e classe des établissements d'enseignement du ministère de l'éducation nationale.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial de 2e classe des établissements d'enseignement.<br/>
+<p>Adjoint technique territorial principal de 2e classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique principal de recherche et de formation de 1re classe.<br/>
+<p>Adjoint technique de 1re classe des établissements d'enseignement du ministère de l'éducation nationale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Agent de maîtrise territorial principal.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique principal de recherche et de formation de 2e classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Agent de maîtrise territorial.<br/>
+<p>Adjoint technique territorial de 1re classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique de recherche et de formation de 1re classe.<br/>
+<p>Adjoint technique de 2e classe des établissements d'enseignement du ministère de l'éducation nationale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial de 1re classe.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique de recherche et de formation de 2e classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial de 2e classe.<br/>
+<p>Adjoint technique territorial de 2e classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Conseiller technique de service social.<br/>
+<p>Adjoint technique principal de recherche et de formation de 1re classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Conseiller territorial socio-éducatif.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Assistant de service social principal.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Assistant territorial socio-éducatif principal.<br/>
+<p>Agent de maîtrise territorial principal.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Assistant de service social.<br/>
+<p>Adjoint technique principal de recherche et de formation de 2e classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Assistant territorial socio-éducatif.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Infirmier de classe supérieure.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Infirmier territorial de classe supérieure.<br/>
+<p>Agent de maîtrise territorial.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Infirmier de classe normale.<br/>
+<p>Adjoint technique de recherche et de formation de 1re classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Infirmier territorial de classe normale.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Conseiller d'administration scolaire et universitaire hors classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Directeur territorial.<br/>
+<p>Adjoint technique territorial de 1re classe.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Conseiller d'administration scolaire et universitaire de classe normale.<br/>
+<p>Adjoint technique de recherche et de formation de 2e classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Attaché territorial principal.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Attaché principal d'administration de l'éducation nationale et de l'enseignement supérieur .<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Attaché territorial principal.<br/>
+<p>Adjoint technique territorial de 2e classe.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Attaché d'administration de l'éducation nationale et de l'enseignement supérieur.<br/>
+<p>Conseiller technique de service social.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Attaché territorial.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Secrétaire d'administration scolaire et universitaire de classe exceptionnelle.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Rédacteur territorial principal de 1re classe.<br/>
+<p>Conseiller territorial socio-éducatif.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Secrétaire d'administration scolaire et universitaire de classe supérieure.<br/>
+<p>Assistant de service social principal.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial principal de 2e classe.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Secrétaire d'administration scolaire et universitaire de classe normale.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Rédacteur territorial.<br/>
+<p>Assistant territorial socio-éducatif principal.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint administratif principal des services déconcentrés de 1re classe.<br/>
+<p>Assistant de service social.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint administratif territorial principal de 1re classe.<br/>
+<p>Assistant territorial socio-éducatif.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Infirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat </td>
+<td align="left" valign="top">
+<p>Infirmier territorial de classe supérieure.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint administratif principal des services déconcentrés de 2e classe.<br/>
+<p>Infirmier de classe normale relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint administratif territorial principal de 2e classe.<br/>
+<p>Infirmier territorial de classe normale.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td>Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux de classe normale.</td>
+</tr>
+<tr>
+<td>Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux de classe supérieure.</td>
+</tr>
+<tr>
+<td>Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux hors classe.</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Conseiller d'administration scolaire et universitaire hors classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Directeur territorial.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint administratif des services déconcentrés du ministère de l'éducation nationale de 1re classe.<br/>
+<p>Conseiller d'administration scolaire et universitaire de classe normale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint administratif territorial de 1re classe.<br/>
+<p>Attaché territorial principal.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint administratif des services déconcentrés du ministère de l'éducation nationale de 2e classe.<br/>
+<p>Attaché principal d'administration de l'éducation nationale et de l'enseignement supérieur .<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint administratif territorial de 2e classe<br/>
+<p>Attaché territorial principal.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Attaché d'administration de l'éducation nationale et de l'enseignement supérieur.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Attaché territorial.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Secrétaire d'administration scolaire et universitaire de classe exceptionnelle.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Rédacteur territorial principal de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Secrétaire d'administration scolaire et universitaire de classe supérieure.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Rédacteur territorial principal de 2e classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Secrétaire d'administration scolaire et universitaire de classe normale.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Rédacteur territorial.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif principal des services déconcentrés de 1re classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial principal de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif principal des services déconcentrés de 2e classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial principal de 2e classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif des services déconcentrés du ministère de l'éducation nationale de 1re classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif des services déconcentrés du ministère de l'éducation nationale de 2e classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial de 2e classe<br clear="none"/>
 </p>
 </td>
 </tr>
@@ -376,7 +385,6 @@ Ministère de l'éducation nationale et ministère de l'enseignement supérieur 
 
 <div align="center"/>
 <div align="center">
-<br/>
 <p>II. - TABLEAU DE CORRESPONDANCE </p>
 </div>
 
@@ -386,75 +394,75 @@ Ministère de l'agriculture et de la pêche
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">GRADES DU CORPS D'ORIGINE<br/>de la fonction publique de l'Etat</p>
+<p align="center">GRADES DU CORPS D'ORIGINE<br clear="none"/>de la fonction publique de l'Etat</p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br/>de la fonction publique territoriale</p>
+<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br clear="none"/>de la fonction publique territoriale</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur en chef du génie rural, des eaux et des forêts.<br/>
+<p>Ingénieur en chef du génie rural, des eaux et des forêts.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial en chef de classe exceptionnelle.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ingénieur du génie rural, des eaux et des forêts.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ingénieur territorial en chef de classe normale.<br/>
+<p>Ingénieur territorial en chef de classe exceptionnelle.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur divisionnaire de l'agriculture et de l'environnement, nommé chef de mission de l'agriculture et de l'environnement.<br/>
+<p>Ingénieur du génie rural, des eaux et des forêts.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial principal, 5e à 11e échelon provisoire.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ingénieur divisionnaire de l'agriculture et de l'environnement.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ingénieur territorial principal.<br/>
+<p>Ingénieur territorial en chef de classe normale.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ingénieur de l'agriculture et de l'environnement, 10e et 11e échelon.<br/>
+<p>Ingénieur divisionnaire de l'agriculture et de l'environnement, nommé chef de mission de l'agriculture et de l'environnement.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ingénieur territorial, 10e et 11e échelon provisoire.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ingénieur de l'agriculture et de l'environnement.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ingénieur territorial.<br/>
+<p>Ingénieur territorial principal, 5e à 11e échelon provisoire.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Chef technicien supérieur des services.<br/>
+<p>Ingénieur divisionnaire de l'agriculture et de l'environnement.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Ingénieur territorial principal.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Ingénieur de l'agriculture et de l'environnement, 10e et 11e échelon.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Ingénieur territorial, 10e et 11e échelon provisoire.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Ingénieur de l'agriculture et de l'environnement.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Ingénieur territorial.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Chef technicien supérieur des services.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -463,7 +471,7 @@ Ministère de l'agriculture et de la pêche
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Technicien supérieur des services principal.<br/>
+<p>Technicien supérieur des services principal.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -472,7 +480,7 @@ Ministère de l'agriculture et de la pêche
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Technicien supérieur des services.<br/>
+<p>Technicien supérieur des services.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -481,11 +489,11 @@ Ministère de l'agriculture et de la pêche
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Technicien des établissements publics de l'enseignement technique agricole de classe principale.<br/>
+<p>Technicien des établissements publics de l'enseignement technique agricole de classe principale.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Contrôleur territorial de travaux principal.<br/>
+<p>Contrôleur territorial de travaux principal.<br clear="none"/>
 </p>
 </td>
 </tr>
@@ -499,171 +507,171 @@ Ministère de l'agriculture et de la pêche
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique principal de 1re classe des établissements d'enseignement agricole publics.<br/>
+<p>Adjoint technique principal de 1re classe des établissements d'enseignement agricole publics.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial principal de 1re classe des établissements d'enseignement.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique principal de 2e classe des établissements d'enseignement agricole publics.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial principal de 2e classe des établissements d'enseignement.<br/>
+<p>Adjoint technique territorial principal de 1re classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique de 1re classe des établissements d'enseignement agricole publics.<br/>
+<p>Adjoint technique principal de 2e classe des établissements d'enseignement agricole publics.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial de 1re classe des établissements d'enseignement.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique de 2e classe des établissements d'enseignement agricole publics.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial de 2e classe des établissements d'enseignement.<br/>
+<p>Adjoint technique territorial principal de 2e classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique principal du ministère de l'agriculture et de la pêche de 1re classe.<br/>
+<p>Adjoint technique de 1re classe des établissements d'enseignement agricole publics.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial principal de 1re classe.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique principal du ministère de l'agriculture et de la pêche de 2e classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial principal de 2e classe.<br/>
+<p>Adjoint technique territorial de 1re classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint technique du ministère de l'agriculture et de la pêche de 1re classe.<br/>
+<p>Adjoint technique de 2e classe des établissements d'enseignement agricole publics.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint technique territorial de 1re classe.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint technique du ministère de l'agriculture et de la pêche de 2e classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint technique territorial de 2e classe.<br/>
+<p>Adjoint technique territorial de 2e classe des établissements d'enseignement.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Attaché principal d'administration du ministère de l'agriculture et de la pêche.<br/>
+<p>Adjoint technique principal du ministère de l'agriculture et de la pêche de 1re classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Attaché territorial principal.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Attaché d'administration du ministère de l'agriculture et de la pêche.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Attaché territorial.<br/>
+<p>Adjoint technique territorial principal de 1re classe.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Secrétaire administratif du ministère de l'agriculture et de la pêche de classe exceptionnelle.<br/>
+<p>Adjoint technique principal du ministère de l'agriculture et de la pêche de 2e classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial principal de 1re classe.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Secrétaire administratif du ministère de l'agriculture et de la pêche de classe supérieure.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Rédacteur territorial principal de 2e classe.<br/>
+<p>Adjoint technique territorial principal de 2e classe.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Secrétaire administratif du ministère de l'agriculture et de la pêche de classe normale.<br/>
+<p>Adjoint technique du ministère de l'agriculture et de la pêche de 1re classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rédacteur territorial.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint administratif principal du ministère de l'agriculture et de la pêche de 1re classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint administratif territorial principal de 1re classe.<br/>
+<p>Adjoint technique territorial de 1re classe.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint administratif principal du ministère de l'agriculture et de la pêche de 2e classe.<br/>
+<p>Adjoint technique du ministère de l'agriculture et de la pêche de 2e classe.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint administratif territorial principal de 2e classe.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Adjoint administratif du ministère de l'agriculture et de la pêche de 1re classe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint administratif territorial de 1re classe.<br/>
+<p>Adjoint technique territorial de 2e classe.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Adjoint administratif du ministère de l'agriculture et de la pêche de 2e classe.<br/>
+<p>Attaché principal d'administration du ministère de l'agriculture et de la pêche.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint administratif territorial de 2e classe.<br/>
+<p>Attaché territorial principal.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Attaché d'administration du ministère de l'agriculture et de la pêche.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Attaché territorial.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Secrétaire administratif du ministère de l'agriculture et de la pêche de classe exceptionnelle.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Rédacteur territorial principal de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Secrétaire administratif du ministère de l'agriculture et de la pêche de classe supérieure.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Rédacteur territorial principal de 2e classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Secrétaire administratif du ministère de l'agriculture et de la pêche de classe normale.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Rédacteur territorial.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif principal du ministère de l'agriculture et de la pêche de 1re classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial principal de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif principal du ministère de l'agriculture et de la pêche de 2e classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial principal de 2e classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif du ministère de l'agriculture et de la pêche de 1re classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial de 1re classe.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Adjoint administratif du ministère de l'agriculture et de la pêche de 2e classe.<br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Adjoint administratif territorial de 2e classe.<br clear="none"/>
 </p>
 </td>
 </tr>
@@ -680,10 +688,10 @@ du développement durable et de l'aménagement du territoire
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">GRADES DU CORPS D'ORIGINE<br/>de la fonction publique de l'Etat</p>
+<p align="center">GRADES DU CORPS D'ORIGINE<br clear="none"/>de la fonction publique de l'Etat</p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br/>de la fonction publique territoriale</p>
+<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br clear="none"/>de la fonction publique territoriale</p>
 </td>
 </tr>
 <tr>
@@ -1023,20 +1031,28 @@ du développement durable et de l'aménagement du territoire
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Infirmier de classe supérieure.</p>
-</td>
+<td align="left" valign="top">nfirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat </td>
 <td align="left" valign="top">
 <p align="left">Infirmier territorial de classe supérieure.</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Infirmier de classe normale.</p>
-</td>
+<td align="left" valign="top">Infirmier de classe normale relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat.</td>
 <td align="left" valign="top">
 <p align="left">Infirmier territorial de classe normale.</p>
 </td>
+</tr>
+<tr>
+<td>Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux de classe normale.</td>
+</tr>
+<tr>
+<td>Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux de classe supérieure.</td>
+</tr>
+<tr>
+<td>Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux hors classe.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -1168,7 +1184,7 @@ Ministère de la culture et de la communication
 <tbody>
 <tr>
 <td width="318">
-<p align="center">GRADES DU CORPS D'ORIGINE<br/>de la fonction publique de l'Etat</p>
+<p align="center">GRADES DU CORPS D'ORIGINE<br clear="none"/>de la fonction publique de l'Etat</p>
 </td>
 <td width="318">
 <p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL</p>
@@ -1553,20 +1569,18 @@ Ministère de la culture et de la communication
 <div align="center"/>
 <div align="center"/>
 <div align="center">
-<br/>
 <p>V. - TABLEAU DE CORRESPONDANCE </p>
-<p>Ministère du travail, des relations sociales, de la famille et de la solidarité<br/>ministère de la santé, de la jeunesse, des sports et de la vie associative</p>
-<br/>
+<p>Ministère du travail, des relations sociales, de la famille et de la solidarité<br clear="none"/>ministère de la santé, de la jeunesse, des sports et de la vie associative</p>
 </div>
 
 <table>
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">GRADES DU CORPS D'ORIGINE<br/>de la fonction publique de l'Etat</p>
+<p align="center">GRADES DU CORPS D'ORIGINE<br clear="none"/>de la fonction publique de l'Etat</p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br/>de la fonction publique territoriale</p>
+<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br clear="none"/>de la fonction publique territoriale</p>
 </td>
 </tr>
 <tr>
@@ -1722,20 +1736,28 @@ Ministère de la culture et de la communication
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Infirmier de classe normale.</p>
-</td>
+<td align="left" valign="top">Infirmier de classe normale relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat.</td>
 <td align="left" valign="top">
 <p>Infirmier territorial de classe normale.</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Infirmier de classe supérieure.</p>
-</td>
+<td align="left" valign="top">Infirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat </td>
 <td align="left" valign="top">
 <p>Infirmier territorial de classe supérieure.</p>
 </td>
+</tr>
+<tr>
+<td> Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td> Infirmier territorial en soins généraux de classe normale.</td>
+</tr>
+<tr>
+<td> Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td> Infirmier territorial en soins généraux de classe supérieure.</td>
+</tr>
+<tr>
+<td> Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td> Infirmier territorial en soins généraux hors classe.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -1892,10 +1914,10 @@ Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">GRADES DU CORPS D'ORIGINE<br/>de la fonction publique de l'Etat</p>
+<p align="center">GRADES DU CORPS D'ORIGINE<br clear="none"/>de la fonction publique de l'Etat</p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br/>de la fonction publique territoriale</p>
+<p align="center">GRADES DU CADRE D'EMPLOIS D'ACCUEIL<br clear="none"/>de la fonction publique territoriale</p>
 </td>
 </tr>
 <tr>
