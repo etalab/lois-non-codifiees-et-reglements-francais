@@ -1,6 +1,6 @@
 # Article 30
 
-1. En exécution de l'article 40 du décret du 4 janvier 1955, un extrait cadastral est remis au conservateur des hypothèques à l'appui de la première formalité requise à partir du 1er janvier 1956, même lorsque cette première formalité n'a pas pour objet de publier une attestation après décès ou un acte ou décision translatif, déclaratif, constitutif ou extinctif de droit de propriété, d'usufruit, d'emphytéose ou de superficie.
+1. En exécution de l'article 40 du décret du 4 janvier 1955, un extrait cadastral est remis au service de la publicité foncière des hypothèques à l'appui de la première formalité requise à partir du 1er janvier 1956, même lorsque cette première formalité n'a pas pour objet de publier une attestation après décès ou un acte ou décision translatif, déclaratif, constitutif ou extinctif de droit de propriété, d'usufruit, d'emphytéose ou de superficie.
 
 Il en est ainsi, notamment, en cas de publication de l'un des documents, actes ou décisions énumérés ci-après :
 
@@ -34,14 +34,14 @@ Il en est ainsi, notamment, en cas de publication de l'un des documents, actes o
 
 - décision portant limitation administrative au droit de propriété ou dérogation à une limitation.
 
-L'extrait cadastral est conforme au modèle (n° 3) fixé par le directeur général des impôts.
+L'extrait cadastral est conforme au modèle (n° 3) fixé par le directeur général des finances publiques.
 
 2. En ce qui concerne spécialement les actes ou décisions relatifs à des servitudes réelles, l'extrait cadastral est produit tant pour le fonds servant que pour le fonds dominant.
 
-3. Par dérogation à l'article 8, les fiches parcellaires sont annotées des mentions de référence à la formalité de publicité donnée à l'un des documents, actes ou décisions énumérés ou 1 ci-dessus, si cette formalité est la première au sens de la présente disposition.    4. L'extrait cadastral, qui doit porter une mention de référence à l'article 40 du décret n° 55-22 du 4 janvier 1955 modifié et avoir moins de six mois de date au jour où la publicité est requise, est établi par le service du cadastre.
+3. Par dérogation à l'article 8, les fiches parcellaires sont annotées des mentions de référence à la formalité de publicité donnée à l'un des documents, actes ou décisions énumérés ou 1 ci-dessus, si cette formalité est la première au sens de la présente disposition. 4. L'extrait cadastral, qui doit porter une mention de référence à l'article 40 du décret n° 55-22 du 4 janvier 1955 modifié et avoir moins de six mois de date au jour où la publicité est requise, est établi par le service du cadastre.
 
-L'extrait (modèle n° 3) est produit à l'appui du document déposé à la conservation des hypothèques ; il est transmis au service du cadastre suivant les modalités fixées par le directeur général des impôts.
+L'extrait (modèle n° 3) est produit à l'appui du document déposé au service de la publicité foncière ; il est transmis au service du cadastre suivant les modalités fixées par le directeur général des finances publiques.
 
-Lorsque l'extrait n'est pas annexé à ce document et qu'après avoir accepté le dépôt le conservateur constate qu'il s'agit de la première formalité depuis le 1er janvier 1956, il ne procède pas aux annotations sur le fichier immobilier et invite le signataire du certificat d'identité, dans le délai maximum d'un mois à compter du dépôt, à se faire délivrer et à remettre un extrait cadastral. Les dispositions des deuxième et troisième alinéas du 3 de l'article 34 du présent décret sont applicables.
+Lorsque l'extrait n'est pas annexé à ce document et qu'après avoir accepté le dépôt le service de la publicité foncière constate qu'il s'agit de la première formalité depuis le 1er janvier 1956, il ne procède pas aux annotations sur le fichier immobilier et invite le signataire du certificat d'identité, dans le délai maximum d'un mois à compter du dépôt, à se faire délivrer et à remettre un extrait cadastral. Les dispositions des deuxième et troisième alinéas du 3 de l'article 34 du présent décret sont applicables.
 
-Si, à l'expiration du délai d'un mois à compter de la notification faite par le conservateur, l'extrait ne lui a pas été remis, la formalité est rejetée suivant les modalités prévues aux deux derniers alinéas du 3 de l'article 34.
+Si, à l'expiration du délai d'un mois à compter de la notification faite par le service de la publicité foncière, l'extrait ne lui a pas été remis, la formalité est rejetée suivant les modalités prévues aux deux derniers alinéas du 3 de l'article 34.

@@ -1,6 +1,6 @@
 # Article 55
 
-1. Le bordereau destiné à être conservé au bureau des hypothèques, pour opérer l'inscription d'un privilège ou d'une hypothèque, est seul obligatoirement rédigé sur une formule spéciale fournie par l'Administration ou sur un formulaire reproduit selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
+1. Le bordereau destiné à être conservé dans les registres du service de la publicité foncière, pour opérer l'inscription d'un privilège ou d'une hypothèque, est seul obligatoirement rédigé sur une formule spéciale fournie par l'Administration ou sur un formulaire reproduit selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
 
 2. Les bordereaux commencent obligatoirement par la réquisition suivante, portée en lettres majuscules d'imprimerie et précisant la nature de la sûreté : " INSCRIPTION DE PRIVILEGE (OU D'HYPOTHEQUE)... AYANT EFFET JUSQU'AU... EST REQUISE... ".
 
@@ -20,8 +20,8 @@ Ils indiquent, en outre, dans un cadre spécialement ménagé, si le principal d
 
 7° La certification que les montants figurant sur le bordereau, celui du capital de la créance garantie et, le cas échéant, celui du capital pour lequel l'hypothèque peut être affectée en garantie d'autres créances ne sont pas supérieurs à ceux figurant dans le titre générateur de la sûreté ou de la créance.
 
-3. Si le signataire ne s'est servi, pour la rédaction d'aucun des deux bordereaux, du modèle fourni par l'administration ou d'un formulaire reproduit selon des normes fixées par instruction publiée au Bulletin officiel des impôts, le conservateur doit néanmoins classer provisoirement l'un de ceux-ci à la place assignée par l'inscription au registre de dépôts. Mais, dans le mois au plus tard à compter de la date du dépôt, il invite le signataire, dans la forme prévue à l'article 34, 3, du présent décret, à substituer au document irrégulier un bordereau réglementaire, dans le délai d'un mois à compter de la notification et sous peine du rejet prévu au premier alinéa de l'article 2148 du Code civil.
+3. Si le signataire ne s'est servi, pour la rédaction d'aucun des deux bordereaux, du modèle fourni par l'administration ou d'un formulaire reproduit selon des normes fixées par instruction publiée au Bulletin officiel des impôts, le service de la publicité foncière doit néanmoins classer provisoirement l'un de ceux-ci à la place assignée par l'inscription au registre de dépôts. Mais, dans le mois au plus tard à compter de la date du dépôt, il invite le signataire, dans la forme prévue à l'article 34,3, du présent décret, à substituer au document irrégulier un bordereau réglementaire, dans le délai d'un mois à compter de la notification et sous peine du rejet prévu au premier alinéa de l'article 2148 du Code civil.
 
-Après régularisation, le bordereau réglementaire prend la place du document irrégulier qui est retenu par le conservateur. La substitution est constatée par un enregistrement pour ordre au registre de dépôts.
+Après régularisation, le bordereau réglementaire prend la place du document irrégulier qui est retenu par le service de la publicité foncière. La substitution est constatée par un enregistrement pour ordre au registre de dépôts.
 
 4. *Paragraphe abrogé*.

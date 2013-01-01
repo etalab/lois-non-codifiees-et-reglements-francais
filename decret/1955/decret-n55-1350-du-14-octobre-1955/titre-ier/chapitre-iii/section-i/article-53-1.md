@@ -14,9 +14,9 @@ En cas d'usufruits successifs, le fichier est annoté uniquement au nom du premi
 
 Il n'est pas effectué d'annotation au nom des propriétaires d'une fraction d'immeuble lorsque leur identité n'est pas certifiée et que le document à publier est établi à la requête du représentant de la collectivité des copropriétaires.
 
-Un arrêté du ministre chargé du budget fixe la liste des bureaux des hypothèques dont le fichier immobilier est informatisé.
+Un arrêté du ministre chargé du budget fixe la liste des services de la publicité foncière dont le fichier immobilier est informatisé.
 
-2. Le conservateur mentionne au fichier immobilier les formalités répertoriées, avec, pour chacune d'elles, l'indication :
+2. Le service de la publicité foncière mentionne au fichier immobilier les formalités répertoriées, avec, pour chacune d'elles, l'indication :
 
 - de sa date et du numéro de classement dans les archives ;
 
@@ -34,4 +34,4 @@ Un arrêté du ministre chargé du budget fixe la liste des bureaux des hypothè
 
 - de la date extrême d'effet de l'inscription.
 
-3. Les erreurs détectées au fichier immobilier imputables aux agents des conservations sont rectifiées dès leur découverte. La décision de rectification ainsi que sa date sont portées au fichier immobilier par le conservateur des hypothèques ou par un agent dûment habilité par ce dernier.
+3. Les erreurs détectées au fichier immobilier imputables aux agents des services de la publicité foncière sont rectifiées dès leur découverte. La décision de rectification ainsi que sa date sont portées au fichier immobilier par l'agent du service de la publicité foncière dûment habilité à procéder à la régularisation des annotations erronées.

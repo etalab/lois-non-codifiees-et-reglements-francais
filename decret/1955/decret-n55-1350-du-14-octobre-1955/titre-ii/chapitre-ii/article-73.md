@@ -4,11 +4,11 @@ Sont publiés au fichier immobilier, pour l'information des usagers, par applica
 
 Il en est ainsi notamment :
 
-1° Des autorisations de lotissement délivrées en application de l'article 106 du Code de l'urbanisme et de l'habitation, ainsi que des arrêtés de permis de construire visés à l'article 89 bis du même code ;
+1° Du permis d'aménager et du cahier des charges prévus à l'article L. 442-7 du code de l'urbanisme et de leurs modificatifs éventuels ;
 
 2° Des arrêtés prononçant interdiction d'habiter pris en application de l'article L. 1331-28 du code de la santé publique ;
 
-3° Des extraits de la délibération du conseil départemental de l'environnement et des risques sanitaires et technologiques prévu aux articles L. 1331-19 et L1331-20 du code de la santé publique ; mention est faite au fichier immobilier de l'arrêté préfectoral visé à l'article L. 1331-22 du même code ;
+3° Des extraits de la délibération du conseil départemental de l'environnement et des risques sanitaires et technologiques prévu aux articles L. 1331-19 et L. 1331-20 du code de la santé publique ; mention est faite au fichier immobilier de l'arrêté préfectoral visé à l'article L. 1331-22 du même code ;
 
 4° Des arrêtés de péril pris en application des articles L. 511-1 à L. 511-3 du Code de la construction et de l'habitation ;
 
@@ -22,8 +22,8 @@ Il en est ainsi notamment :
 
 9° Des extraits des arrêtés préfectoraux prévus à l'article 3 du décret du 30 octobre 1935 portant création des servitudes de visibilité sur les voies publiques ;
 
-10° Des extraits des décrets prévus à l'article 1er du décret du 30 octobre 1935, portant création des servitudes à la charge des terrains nécessaires à l'amélioration des routes nationales.
+10° Des extraits des décrets prévus à l'article 1er du décret n° 58-1316 du 23 décembre 1958 relatif aux servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes ;
 
-11° Des arrêtés prévus à l'alinéa 2 de l'article 4 de la loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et préenseignes.(1)
+11° Des arrêtés prévus à l'article L. 581-4 du code de l'environnement.
 
-La publicité est assurée par le dépôt, au bureau des hypothèques de la situation des immeubles intéressés, de deux ampliations ou copies certifiées conformes des décrets, arrêtés ou décisions, dont l'une est obligatoirement établie sur formule réglementaire pour être conservée et doit comporter la mention de certification de l'identité des parties.
+La publicité est assurée au fichier immobilier par le dépôt de deux ampliations ou copies certifiées conformes des décrets, arrêtés ou décisions, dont l'une est obligatoirement établie sur formule réglementaire pour être conservée et doit comporter la mention de certification de l'identité des parties.

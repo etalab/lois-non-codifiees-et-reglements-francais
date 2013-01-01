@@ -8,7 +8,7 @@ Sont publiés au bureau des hypothèques de la situation des immeubles, en exéc
 
 survenus postérieurement à la première formalité exécutée à partir du 1er janvier 1956 et intéressant celles de ces personnes titulaires d'un droit réel susceptible d'hypothèque, d'un droit d'usage ou d'habitation ou d'un bail de plus de douze ans.
 
-La publicité est assurée par le dépôt, dans les conditions prévues à l'article 34 du décret précité, de deux expéditions, extraits littéraux ou copies, certifiées conformes par un officier public ou ministériel ou une autorité administrative, des pièces justificatives des changements, celui des deux documents à conserver au bureau étant seul obligatoirement établi sur la formule spéciale. Ces pièces justificatives peuvent être :
+La publicité est assurée par le dépôt, dans les conditions prévues à l'article 34 du décret précité, de deux expéditions, extraits littéraux ou copies, certifiées conformes par un officier public ou ministériel ou une autorité administrative, des pièces justificatives des changements, celui des deux documents à conserver dans les registres du service de la publicité foncière étant seul obligatoirement établi sur la formule spéciale. Ces pièces justificatives peuvent être :
 
 - Pour les personnes physiques, une expédition de l'acte de naissance faisant apparaître le changement de nom ou de prénom ;
 

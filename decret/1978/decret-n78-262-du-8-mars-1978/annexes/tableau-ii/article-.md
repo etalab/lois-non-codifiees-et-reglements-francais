@@ -635,23 +635,23 @@
 <td>
 <p align="center">32</p>
 </td>
-<td>Pour les actes destinés à être publiés au bureau des hypothèques : actes d'état civil, attestations, demandes de cadastre, copies authentiques, copies sur papier libre, copies publicité foncière, extraits d'acte, réquisitions d'état </td>
+<td>Pour les actes destinés à être publiés au fichier immobilier : actes d'état civil, attestations, demandes de cadastre, copies authentiques, copies sur papier libre, copies publicité foncière, extraits d'acte, réquisitions d'état. </td>
 <td>
-<p align="center">90 </p>
+<p align="center">90 UV</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 33</p>
+<p align="center">33</p>
 </td>
 <td>
-<p> Formalités de publicité pour les deux partenaires : <br/>
-<br/>- lors de la déclaration du pacte civil de solidarité reçu par un notaire</p>
+<p>Formalités de publicité pour les deux partenaires : </p>
+<p>- lors de la déclaration du pacte civil de solidarité reçu par un notaire</p>
 <p>- lors de la modification du pacte civil de solidarité reçu par un notaire</p>
 <p>- lors de la dissolution du pacte civil de solidarité reçu par un notaire </p>
 </td>
 <td>
-<p align="center"> 3 UV</p>
+<p align="center">3 UV</p>
 </td>
 </tr>
 </tbody>

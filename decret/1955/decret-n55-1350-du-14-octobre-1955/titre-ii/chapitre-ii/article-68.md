@@ -1,6 +1,6 @@
 # Article 68
 
-1. Sont notamment établis conformément aux prescriptions des articles 67-3 et 76-1 du présent décret, les expéditions, extraits littéraux ou copies destinés à être conservés au bureau des hypothèques :
+1. Sont notamment établis conformément aux prescriptions des articles 67-3 et 76-1 du présent décret, les expéditions, extraits littéraux ou copies destinés à être conservés dans les registres du service de la publicité foncière :
 
 - Des actes de l'autorité publique ;
 
@@ -24,7 +24,7 @@
 
 - Des citations en justice et des commandements interruptifs de prescription en vertu de l'article 2224 du Code civil.
 
-2. Par application de l'article 4 du décret du 4 janvier 1955 et sous réserve des mesures transitoires prévues aux articles 84 et 85 du présent décret, les conventions ou dispositions contenues dans un acte sous seing privé ayant acquis date certaine postérieurement au 31 décembre 1955 ne peuvent être portées à la connaissance des tiers ou leur devenir opposables par leur publication au bureau des hypothèques que si elles sont constatées à nouveau dans un acte dressé en la forme authentique, le conservateur des hypothèques étant tenu de refuser le dépôt, toutes les fois que les actes dont la publicité est requise n'ont pas été dressés en cette forme.
+2. Par application de l'article 4 du décret du 4 janvier 1955 et sous réserve des mesures transitoires prévues aux articles 84 et 85 du présent décret, les conventions ou dispositions contenues dans un acte sous seing privé ayant acquis date certaine postérieurement au 31 décembre 1955 ne peuvent être portées à la connaissance des tiers ou leur devenir opposables par leur publication au fichier immobilier que si elles sont constatées à nouveau dans un acte dressé en la forme authentique, le service de la publicité foncière étant tenu de refuser le dépôt, toutes les fois que les actes dont la publicité est requise n'ont pas été dressés en cette forme.
 
 3. Ne sont pas soumis à publicité :
 

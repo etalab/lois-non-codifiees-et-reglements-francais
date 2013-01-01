@@ -1,5 +1,9 @@
 # Article 53-7
 
-Pour l'application des dispositions de l'article 9-1 du décret n° 55-22 du 4 janvier 1955 modifié, le dépôt de la demande accompagnant un document soumis à publicité doit être effectué dans un délai maximum de douze mois à compter du dépôt de la demande initiale.
+Les dispositions de l'article 9-1 du décret du 4 janvier 1955 susvisé s'appliquent lorsque les conditions suivantes sont réunies :
 
-La demande de renseignements sur formalité doit obligatoirement être établie sur l'imprimé administratif de prorogation joint à l'état ou au certificat délivré suite à la demande de renseignements hors formalité.
+- le requérant est celui ayant présenté la demande initiale ;
+
+- le dépôt de la demande accompagnant un document soumis à publicité est effectué dans un délai de douze mois à compter de sa demande initiale.
+
+L'état complémentaire délivré par le service de la publicité foncière donne lieu à la délivrance des formalités se rapportant à l'immeuble interrogé qui, depuis la demande initiale, ont été publiées ou acceptées au dépôt et en instance d'enregistrement au fichier immobilier.

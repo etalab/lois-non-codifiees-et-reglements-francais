@@ -1,8 +1,8 @@
 # Article 57-4
 
-I.-L'acte notarié par lequel le prêteur de deniers renonce à son privilège inscrit avant le 20 février 2007, en contrepartie de la constitution par le débiteur d'une hypothèque rechargeable, est inscrit, conformément aux dispositions de l'article 2428 du code civil, sur le bordereau établi en deux exemplaires déposés au bureau des hypothèques de la situation des immeubles.
+I.-L'acte notarié par lequel le prêteur de deniers renonce à son privilège inscrit avant le 20 février 2007, en contrepartie de la constitution par le débiteur d'une hypothèque rechargeable, est inscrit au fichier immobilier conformément aux dispositions de l'article 2428 du code civil sur le dépôt d'un bordereau établi en deux exemplaires.
 
-L'exemplaire du bordereau conservé au bureau des hypothèques est établi dans les conditions et sous la sanction prévues à l'article 56 ; il est rédigé sur une formule spéciale fournie par l'administration ou reproduite selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
+L'exemplaire du bordereau conservé dans les registres du service de la publicité foncière est établi dans les conditions et sous la sanction prévues à l'article 56 ; il est rédigé sur une formule spéciale fournie par l'administration ou reproduite selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
 
 II.-Chaque bordereau commence par la réquisition suivante, portée en lettres majuscules d'imprimerie : " INSCRIPTION D'HYPOTHÈQUE CONVENTIONNELLE RECHARGEABLE, CONSTITUÉE PAR RÉNONCIATION À PRIVILÈGE DE PRÊTEUR DE DENIERS EN VERTU D'UN ACTE AUTHENTIQUE EN DATE DU... AYANT EFFET JUSQU'AU... ".
 

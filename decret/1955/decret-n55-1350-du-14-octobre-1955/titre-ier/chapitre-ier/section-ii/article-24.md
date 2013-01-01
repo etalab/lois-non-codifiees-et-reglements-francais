@@ -1,6 +1,6 @@
 # Article 24
 
-Les extraits (modèle n° 1) conformes aux documents publiés sont transmis au service du cadastre, et versés aux archives de ce service, selon les modalités fixées par arrêté du directeur général des impôts.
+Les extraits (modèle n° 1) conformes aux documents publiés sont transmis au service du cadastre, et versés aux archives de ce service, selon les modalités fixées par arrêté du   directeur général des finances publiques.
 
 Ceux de ces extraits dont les énonciations relatives à la désignation des immeubles ne sont pas conformes aux énonciations correspondantes des documents publiés sont transmis au service du cadastre dans une liasse spéciale, complétés des références à la date, au volume et au numéro de la formalité, et annotés des différences constatées.
 

@@ -8,7 +8,7 @@ L'association syndicale issue de la fusion est substituée de plein droit aux an
 
 Les cocontractants des associations fusionnées sont informés de la substitution de personne morale par l'association issue de la fusion.
 
-Les indemnités, droits, taxes, salaires ou honoraires résultant de la fusion sont à la charge de l'association issue de la fusion.
+Les indemnités, droits, taxes, contribution de sécurité immobilière prévue à l'article 879 du code général des impôts ou honoraires résultant de la fusion sont à la charge de l'association issue de la fusion.
 
 L'ensemble des personnels des associations syndicales fusionnées est réputé relever de l'association syndicale issue de la fusion dans les conditions de statut et d'emploi qui sont les leurs.
 

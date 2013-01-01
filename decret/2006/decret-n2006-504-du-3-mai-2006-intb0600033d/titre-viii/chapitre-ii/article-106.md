@@ -8,7 +8,7 @@ I. - Pour l'application du présent décret aux îles Wallis et Futuna, les term
 
 - " arrêté préfectoral " par " arrêté de l'administrateur supérieur " ;
 
-- " bureau de conservation des hypothèques " par " greffe du tribunal de première instance " ;
+- " service de la publicité foncière " par " fichier immobilier " ;
 
 - " commune " par " circonscription " ;
 

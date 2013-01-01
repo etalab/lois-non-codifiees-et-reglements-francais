@@ -1,0 +1,5 @@
+# Article 22
+
+Les receveurs municipaux sont tenus de faire sous leur responsabilité personnelle toutes les diligences nécessaires pour la recette et la perception des revenus des communes et pour le recouvrement des legs, donations et autres ressources affectées au service de celles-ci ; de faire faire contre tous les débiteurs en retard de payer, les exploits, significations, poursuites et commandements, d'avertir les administrations de l'échéance des baux, d'empêcher les prescriptions, de veiller à la conservation des domaines, droits, privilèges et hypothèques, de requérir à cet effet   au service de la publicité foncière, inscription de tous les titres qui en seront susceptibles et de tenir registre desdites inscriptions et autres poursuites et diligences.
+
+Pour faciliter aux receveurs l'exécution des obligations qui leur sont imposées par le paragraphe 1er du présent article, ceux-ci pourront se faire délivrer par le maire une expédition en forme de tous les contrats, titres nouveaux, déclarations, jugements et autres actes concernant les revenus dont la perception leur est confiée, ou se faire remettre lesdits titres et actes sous leur récépissé.

@@ -1,6 +1,6 @@
 # Article 57-2
 
-Pour l'application des articles R511-6 et R533-4 du code des procédures civiles d'exécution, le conservateur s'assure :
+Pour l'application des articles R511-6 et R533-4 du code des procédures civiles d'exécution, le service de la publicité foncière s'assure :
 
 a) Du respect du délai de trois mois accordé au créancier à compter de l'ordonnance du juge de l'exécution ou du président du tribunal de commerce pour inscrire l'hypothèque judiciaire conservatoire provisoire ;
 

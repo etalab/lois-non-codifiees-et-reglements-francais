@@ -12,6 +12,6 @@ Outre la réquisition prévue à l'article 103 et le certificat de conformité, 
 
 5° En cas de changement dans la personne ou l'état civil du créancier, son identification faite conformément aux dispositions des articles 64 et 65, en énonçant sommairement les causes et titres en vertu desquels il est devenu titulaire de la créance. L'identification du créancier est certifiée dans les conditions prévues par l'article 66 ;
 
-6° Si l'étendue de la garantie se trouve diminuée par l'inscription de l'avenant, la désignation actuelle de chacun des immeubles restant grevés, conformément aux dispositions de l'article 68 ;
+6° Si l'étendue de la garantie se trouve diminuée par l'inscription de l'avenant, la désignation actuelle de chacun des immeubles restant grevés, conformément aux dispositions de   l'article 67 ;
 
 7° Le cas échéant, la mention de la clause prévoyant que le créancier hypothécaire impayé deviendra propriétaire de l'immeuble hypothéqué.

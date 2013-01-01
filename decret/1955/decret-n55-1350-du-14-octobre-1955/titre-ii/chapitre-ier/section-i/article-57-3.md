@@ -1,8 +1,8 @@
 # Article 57-3
 
-1° L'avenant prévoyant que la dernière hypothèque conventionnelle inscrite avant le 25 mars 2006 peut être affectée à la garantie d'autres créances est inscrit, conformément aux dispositions de l'article 2428 du code civil, sur le dépôt d'un bordereau établi en deux exemplaires, au bureau des hypothèques de la situation des biens.
+1° L'avenant prévoyant que la dernière hypothèque conventionnelle inscrite avant le 25 mars 2006 peut être affectée à la garantie d'autres créances est inscrit au fichier immobilier conformément aux dispositions de l'article 2428 du code civil sur le dépôt d'un bordereau établi en deux exemplaires.
 
-L'exemplaire du bordereau conservé au bureau des hypothèques est établi dans les conditions et sous la sanction prévues à l'article 56 ; il est rédigé sur une formule spéciale fournie par l'administration ou reproduite selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
+L'exemplaire du bordereau conservé dans les registres du service de la publicité foncière est établi dans les conditions et sous la sanction prévues à l'article 56 ; il est rédigé sur une formule spéciale fournie par l'administration ou reproduite selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
 
 2° Chaque bordereau commence par la réquisition suivante, portée en lettres majuscules d'imprimerie : " Inscription d'hypothèque conventionnelle rechargeable par avenant ayant effet jusqu'au... "
 

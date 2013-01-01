@@ -6,6 +6,6 @@ Une collectivité territoriale, un établissement public de coopération interco
 
 L'acte de délaissement est dressé par le préfet. La désignation de l'immeuble et l'identité du propriétaire sont précisées comme en matière d'expropriation. Un extrait de cet acte est affiché dans la commune où est situé l'immeuble et, en outre, inséré dans un journal d'annonces légales de l'arrondissement ou, s'il n'en existe aucun, dans un des journaux du département.
 
-Immédiatement après l'accomplissement de ces formalités, l'acte de délaissement est publié au bureau de la conservation des hypothèques dans les conditions prévues à l'article 13.
+Immédiatement après l'accomplissement de ces formalités, l'acte de délaissement est publié au fichier immobilier dans les conditions prévues à l'article 13.
 
 Il est procédé à la purge des privilèges et des hypothèques comme en matière d'expropriation.

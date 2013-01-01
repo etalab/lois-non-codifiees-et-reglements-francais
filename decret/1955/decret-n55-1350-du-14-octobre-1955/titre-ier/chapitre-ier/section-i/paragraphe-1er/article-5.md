@@ -1,10 +1,10 @@
 # Article 5
 
-Le conservateur mentionne :
+Le service de la publicité foncière mentionne :
 
 - Au tableau I, la liste des immeubles urbains, au sens de l'article 2 du présent décret, quelle que soit leur nature (terrains nus, bâtiments, appartements, etc), chaque immeuble étant désigné par la section et le numéro du plan cadastral, le nom de la rue et le numéro, ou à défaut, le lieudit ; les formalités concernant les immeubles urbains sont répertoriées au tableau III des fiches d'immeuble prévues à l'article 10 ci-après ;
 
-- au tableau II, le détail des immeubles ruraux, au sens du même texte, chaque îlot de propriété ou parcelle - suivant le mode de numérotage du plan cadastral - étant désigné par la section et le numéro du plan cadastral et recevant un numéro d'ordre ;
+- au tableau II, le détail des immeubles ruraux, au sens du même texte, chaque îlot de propriété ou parcelle-suivant le mode de numérotage du plan cadastral-étant désigné par la section et le numéro du plan cadastral et recevant un numéro d'ordre ;
 
 - au tableau III, les formalités répertoriées concernant les immeubles ruraux avec, notamment, pour chacune d'elles, l'indication :
 
