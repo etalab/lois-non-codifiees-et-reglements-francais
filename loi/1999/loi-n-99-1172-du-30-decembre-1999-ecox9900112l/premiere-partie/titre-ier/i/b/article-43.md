@@ -155,28 +155,17 @@ Ces taxes sont dues par l'exploitant, sans réduction possible, à compter de la
 
 Pour toutes les catégories d'installations visées dans le précédent tableau, les valeurs des coefficients pour 2007 sont fixées à 4, 0 pour la taxe additionnelle " recherche ", à 1, 0 pour la taxe additionnelle " d'accompagnement " et à 0, 8 pour la taxe additionnelle " diffusion technologique ".
 
-Pour 2010, 2011 et 2012, les valeurs des coefficients s'appliquant aux catégories d'installations visées dans le tableau précédent sont fixées comme suit :
+Pour 2010, 2011 et 2012, en ce qui concerne la taxe additionnelle dite "de recherche”,  et pour 2010, 2011, 2012, 2013 et 2014 en ce qui concerne les taxes  additionnelles dites "d'accompagnement” et "de diffusion technologique”, les valeurs des coefficients s'appliquant aux catégories d'installations visées dans le tableau précédent sont fixées comme suit :
+
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CATÉGORIES <br/>
-</th>
-<th>
-<br/>COEFFICIENT <p>multiplicateur <br/>
-</p>
-</th>
-<th>
-<br/>COEFFICIENT <p>multiplicateur <br/>
-</p>
-</th>
-<th>
-<br/>COEFFICIENT <p>multiplicateur <br/>
-</p>
-</th>
+<td align="center" rowspan="2"> CATÉGORIES </td>
+<td align="center"> COEFFICIENT multiplicateur </td>
+<td align="center"> COEFFICIENT multiplicateur</td>
+<td align="center"> COEFFICIENT multiplicateur</td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <br/>Recherche <br/>
 </td>
@@ -254,15 +243,13 @@ Sous déduction des frais de collecte fixés à 1 % des sommes recouvrées, le p
 
 Sous déduction des frais de collecte fixés à 1 % des sommes recouvrées, le produit de la taxe additionnelle dite de " diffusion technologique " est reversé aux groupements d'intérêt public mentionnés à l'article L. 542-11 du même code à égalité entre eux.
 
-VI.-Il est créé une taxe additionnelle à la taxe sur les installations nucléaires de base, dite " de stockage ". Le montant de cette taxe additionnelle est déterminé, selon chaque catégorie d'installation destinée au stockage définitif de substances radioactives, par application d'un coefficient multiplicateur à une somme forfaitaire. La somme forfaitaire est calculée comme le produit de la capacité du stockage par une imposition au mètre cube, fixée à 2, 2 euros / m ³. Les coefficients sont fixés par décret en Conseil d'Etat après avis des collectivités territoriales concernées, dans les limites indiquées dans le tableau ci-dessous, notamment en fonction des caractéristiques des déchets stockés et à stocker, en particulier leur activité et leur durée de vie. La taxe additionnelle de stockage est recouvrée jusqu'à la fin de l'exploitation des installations concernées.
+VI.-Il est créé une taxe additionnelle à la taxe sur les installations nucléaires de base, dite " de stockage ". Le montant de cette taxe additionnelle est déterminé, selon chaque catégorie d'installation destinée au stockage définitif de substances radioactives, par application d'un coefficient multiplicateur à une somme forfaitaire. La somme forfaitaire est calculée comme le produit de la capacité du stockage par une imposition au mètre cube, fixée à 2, 2 euros / m ³. Les coefficients sont fixés par décret en Conseil d'Etat après avis des collectivités territoriales concernées, dans les limites indiquées dans le tableau ci-dessous, notamment en fonction des caractéristiques des déchets stockés et à stocker, en particulier leur activité et leur durée de vie. Le  coefficient multiplicateur applicable aux installations de stockage de  déchets de faible activité et de déchets de moyenne activité à vie  courte est fixé à 1,3 pour l'année 2012. La taxe additionnelle de stockage est recouvrée jusqu'à la fin de l'exploitation des installations concernées.
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CATÉGORIE D'INSTALLATION</th>
-<th>
-<br/>COEFFICIENT <br/>multiplicateur</th>
+<td align="center"> CATÉGORIE D'INSTALLATION</td>
+<td align="center"> COEFFICIENT <br/>multiplicateur</td>
 </tr>
 <tr>
 <td align="center">
