@@ -7,125 +7,109 @@ DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE
 <table>
 <tbody>
 <tr>
-<th>
+<td width="340">
 <p align="center">DÉNOMINATION</p>
-</th>
-<th>
-<br/>CIRCONSCRIPTIONS RÉGIONALES <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>CENTRE <br/>
-<br/>(siège à Dijon) </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Centre <br/>
-<br/>Bourgogne </p>
+<td width="340">
+<p align="center">CIRCONSCRIPTIONS RÉGIONALES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>CENTRE EST <br/>
-<br/>(siège à Lyon) </p>
+<td width="340">
+<p>GRAND CENTRE </p>
+<p>(siège à Dijon) </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Auvergne <br/>
-<br/>Rhône-Alpes </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">
-<br/>GRAND EST <br/>
-<br/>(siège à Nancy) </p>
-</td>
-<td align="left" valign="top">
-<p align="left">
-<br/>Alsace <br/>
-<br/>Lorraine <br/>
-<br/>Franche-Comté <br/>
-<br/>Champagne-Ardenne </p>
+<td width="340">
+<p>Centre </p>
+<p>Bourgogne </p>
+<p>Champagne-Ardenne </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">
-<br/>GRAND OUEST <br/>
-<br/>(siège à Rennes) </p>
+<td width="340">
+<p>CENTRE EST </p>
+<p>(siège à Lyon) </p>
 </td>
-<td align="left" valign="top">
-<p align="left">
-<br/>Bretagne <br/>
-<br/>Pays de la Loire <br/>
-<br/>Basse-Normandie </p>
+<td width="340">
+<p>Auvergne </p>
+<p>Rhône-Alpes </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>ÎLE-DE-FRANCE-OUTRE-MER <br/>
-<br/>(siège à Paris) </p>
+<td width="340">
+<p>GRAND EST </p>
+<p>(siège à Nancy) </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Ile-de-France <br/>
-<br/>Outre-mer </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>GRAND NORD <br/>
-<br/>(siège à Lille) </p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Haute-Normandie <br/>
-<br/>Nord-Pas-de-Calais <br/>
-<br/>Picardie </p>
+<td width="340">
+<p>Alsace </p>
+<p>Lorraine </p>
+<p>Franche-Comté </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>SUD <br/>
-<br/>(siège à Toulouse) </p>
+<td width="340">
+<p>GRAND OUEST </p>
+<p>(siège à Rennes) </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Midi-Pyrénées <br/>
-<br/>Languedoc-Roussillon </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>SUD-EST <br/>
-<br/>(siège à Marseille) </p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Provence-Alpes-Côte d'Azur <br/>
-<br/>Corse </p>
+<td width="340">
+<p>Bretagne </p>
+<p>Pays de la Loire </p>
+<p>Basse-Normandie </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>SUD-OUEST <br/>
-<br/>(siège à Bordeaux) </p>
+<td width="340">
+<p>ILE-DE-FRANCE-OUTRE-MER </p>
+<p>(siège à Paris) </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Aquitaine <br/>
-<br/>Limousin <br/>
-<br/>Poitou-Charentes</p>
+<td width="340">
+<p>Ile-de-France </p>
+<p>Outre-mer </p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p>GRAND NORD </p>
+<p>(siège à Lille) </p>
+</td>
+<td width="340">
+<p>Haute-Normandie </p>
+<p>Nord-Pas-de-Calais </p>
+<p>Picardie </p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p>SUD </p>
+<p>(siège à Toulouse) </p>
+</td>
+<td width="340">
+<p>Midi-Pyrénées </p>
+<p>Languedoc-Roussillon </p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p>SUD-EST </p>
+<p>(siège à Marseille) </p>
+</td>
+<td width="340">
+<p>Provence-Alpes-Côte d'Azur </p>
+<p>Corse </p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p>SUD-OUEST </p>
+<p>(siège à Bordeaux) </p>
+</td>
+<td width="340">
+<p>Aquitaine </p>
+<p>Limousin </p>
+<p>Poitou-Charentes</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
