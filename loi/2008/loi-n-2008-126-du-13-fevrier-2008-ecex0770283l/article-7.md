@@ -8,4 +8,16 @@ II.-A la date de création de l'institution mentionnée à l'article L. 311-7 du
 
 III.-Jusqu'à la date d'entrée en vigueur de la convention collective mentionnée au même article L. 311-7-7, les personnes recrutées par l'institution mentionnée à l'article L. 311-7 du même code bénéficient de la convention collective applicable aux salariés des organismes gestionnaires du régime d'assurance chômage.
 
-IV.-Pour leur régime de retraite complémentaire, les agents visés au I du présent article qui n'ont pas opté pour la convention collective prévue à l'article L. 311-7-7 du même code demeurent affiliés à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques.
+IV.-Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail sont affiliés à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques.
+
+Par dérogation au premier alinéa du présent IV et au second alinéa de l'article L. 922-2 du code de la sécurité sociale, jusqu'à la rupture de leur contrat de travail, demeurent affiliés à des institutions de retraite complémentaire mentionnées à l'article L. 922-1 du même code :
+
+1° Les salariés mentionnés au II du présent article ;
+
+2° Les salariés mentionnés à l'article 53 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au long de la vie ;
+
+3° Les agents recrutés par l'institution mentionnée à l'article L. 5312-1 du code du travail entre le 19 décembre 2008 et le 31 octobre 2009.
+
+Les droits acquis par ces affiliés, les adhérents antérieurs ainsi que leurs ayants droit sont maintenus par ces institutions de retraite complémentaire.
+
+Une convention entre les fédérations d'institutions de retraite complémentaire mentionnées à l'article L. 922-4 du code de la sécurité sociale et l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques organise les transferts financiers résultant de l'application du présent IV, en tenant compte des charges et des recettes respectives de chacun de ces organismes. A défaut de signature de la convention dans les douze mois qui suivent la promulgation de la loi n° 2012-1189 du 26 octobre 2012 portant création des emplois d'avenir, un décret en Conseil d'Etat organise ces transferts financiers.
