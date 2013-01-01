@@ -219,6 +219,40 @@ Code de l'environnement
 </tbody>
 </table>
 
+Décret n° 2012-1538 du 28 décembre 2012 relatif  à la mise en place d'une consigne ou d'un système de reprise équivalent  des bouteilles de gaz destinées à un usage individuel et à la gestion  des déchets de bouteilles de gaz.
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Agrément  et retrait d'agrément des organismes chargés de la gestion des déchets  de bouteilles de gaz destinées à un usage individuel. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. <br/>
+</td>
+<td align="center">
+<br/>Article R. 543-267 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Agrément  et retrait d'agrément des organismes coordonnateurs chargés de la  gestion des déchets de bouteilles de gaz destinées à un usage  individuel. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. <br/>
+</td>
+<td align="center">
+<br/>Article R. 543-268 </td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
 2. Décisions administratives individuelles prises par le ministre de l'intérieur
 
 CIRCULATION ET SÉCURITÉ ROUTIÈRES

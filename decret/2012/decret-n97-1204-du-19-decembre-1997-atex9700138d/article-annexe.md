@@ -51,9 +51,9 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 </tr>
 <tr>
 <td/>
-<td>Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux.</td>
+<td>Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux. </td>
 <td>
-<p align="left">Article R. 411-36-I (4°)</p>
+<p align="left">Article R. 411-36-I (4°) </p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p align="left">Arrêté conjoint des ministres chargés de l'environnement et de l'industrie </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 543-233</p>
+<p align="left">Article R. 543-233 </p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 543-234</p>
+<p align="left">Article R. 543-234 </p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 543-235<br/>
+<p align="left">Article R. 543-235 <br/>
 </p>
 </td>
 </tr>
@@ -214,6 +214,28 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <td>Approbation et retrait d'approbation des systèmes individuels, agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. </td>
 <td>Articles R. 543-251, R. 543-252 et R. 543-253. </td>
 </tr>
+<tr>
+<td/>
+<td>Approbation et retrait d'approbation des systèmes individuels chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement et de l'industrie. </td>
+<td>Article R. 543-266 </td>
+</tr>
+<tr>
+<td/>
+<td>Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </td>
+<td>Article R. 543-267 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<br/>Agrément et retrait d'agrément des organismes coordonnateurs chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. <br/>
+</td>
+<td>Article R. 543-268<br/>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -246,6 +268,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Opposition à une délibération à caractère budgétaire ou financier du conseil d'administration d'une agence de l'eau. </p>
@@ -256,6 +279,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -268,6 +292,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Agrément de laboratoires ou d'organismes en vue de la réalisation des analyses, contrôles et évaluations nécessaires pour l'application des législations sur l'eau. </p>
@@ -278,6 +303,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -290,6 +316,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Désignation de l'organisme chargé de coordonner les programmes de contrôle organisés par la Commission européenne pour s'assurer de la qualité des mesures réalisées par les organismes chargés de la surveillance de la qualité de l'air. </p>
@@ -300,6 +327,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -312,6 +340,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Affectation de quotas en raison d'une forte augmentation de production d'une installation donnant lieu à un accroissement d'émission de gaz à effet de serre ou en raison de l'autorisation d'une nouvelle installation. </p>
@@ -322,6 +351,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -334,6 +364,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Modification de la répartition annuelle des quotas en cas de variation exceptionnelle de l'activité d'une installation. </p>
@@ -344,6 +375,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -356,6 +388,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Décision d'interdiction de tout transfert des quotas délivrés au titre d'une installation en cas d'absence ou d'irrégularité de la déclaration relative aux émissions de gaz à effet de serre. </p>
@@ -366,6 +399,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -378,6 +412,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Agrément, après avis du ministre chargé des finances, des activités de projet prévues par le protocole de Kyoto mises en œuvre sur le territoire national. </p>
@@ -388,6 +423,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -411,6 +447,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Maintien ou levée de l'opposition du commissaire du Gouvernement à une délibération du conseil d'administration d'un établissement public de parc national. </p>
@@ -422,6 +459,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisation de modification de l'état ou de l'aspect d'une réserve naturelle nationale en cas d'avis défavorable d'une des commissions dont la consultation est obligatoire. </p>
@@ -432,6 +470,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -455,6 +494,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisations d'introduction dans le milieu naturel d'animaux appartenant à une espèce de vertébrés, protégée au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse observée ou prévisible de ses effectifs et dont l'aire de répartition excède le territoire d'un département. </p>
@@ -465,6 +505,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -477,6 +518,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Nomination des membres des comités directeurs des réserves nationales de chasse et de faune sauvage. </p>
@@ -487,6 +529,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -499,6 +542,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Décision de confier la gestion d'une fédération départementale de pêche au préfet en cas de défaillance de celle-ci. </p>
@@ -509,6 +553,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -521,6 +566,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Approbation des statuts des associations de pêcheurs professionnels en eau douce et de leurs modifications. </p>
@@ -531,6 +577,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -543,10 +590,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent des opérations conduites sur le territoire de plus de dix départements, à des fins de recherche et d'éducation, par des personnes morales placées sous la tutelle ou le contrôle de l'Etat.</p>
+<p align="left">Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent des opérations conduites sur le territoire de plus de dix départements, à des fins de recherche et d'éducation, par des personnes morales placées sous la tutelle ou le contrôle de l'Etat. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 411-7</p>
+<p align="left">Article R. 411-7 </p>
 </td>
 </tr>
 <tr>
@@ -563,6 +610,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Agrément des organismes chargés du contrôle périodique des installations classées prévu à l'article L. 512-11. </p>
@@ -573,6 +621,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -585,6 +634,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Sanction du manquement à l'obligation de constitution de garanties financières faite à certaines installations classées. </p>
@@ -595,6 +645,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -607,6 +658,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisation provisoire de mise sur le marché d'une substance active biocide. </p>
@@ -617,6 +669,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -629,6 +682,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Modification des conditions d'utilisation définies dans l'autorisation de mise sur le marché d'un produit biocide. </p>
@@ -639,6 +693,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -651,6 +706,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisation de mise sur le marché d'un produit biocide contenant une ou plusieurs substances inscrites sur la liste I définie à l'article R. 522-2. </p>
@@ -661,6 +717,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -673,6 +730,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisation provisoire de mise sur le marché de produits biocides prise en application des 1° et 2° du I de l'article L. 522-7. </p>
@@ -683,6 +741,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -695,6 +754,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisation et détermination des conditions de toute expérience ou essai portant sur une substance active ou un produit biocide. </p>
@@ -705,6 +765,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -717,6 +778,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Toutes décisions relatives à l'exportation et à l'importation de certains produits chimiques dangereux conformément aux articles 3,4 et 5 du règlement n° 304/2003/ CE. </p>
@@ -727,6 +789,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -739,6 +802,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Autorisation de dissémination d'organismes génétiquement modifiés, sauf si cette compétence est dévolue à un autre ministre. </p>
@@ -749,6 +813,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -761,6 +826,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Toutes décisions relatives au transit d'un déchet sur le territoire national conformément au règlement communautaire mentionné à l'article R. 541-62. </p>
@@ -772,6 +838,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <tr>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="378">
 <p>Approbation de certains systèmes individuels de collecte des déchets électriques et électroniques ménagers. </p>
@@ -782,6 +849,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="378">
@@ -847,7 +915,7 @@ IV.-Code de la santé publique :
 
 Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8.
 
-V. - Code rural et de la pêche maritime :
+V.-Code rural et de la pêche maritime :
 
 <table>
 <tbody>
