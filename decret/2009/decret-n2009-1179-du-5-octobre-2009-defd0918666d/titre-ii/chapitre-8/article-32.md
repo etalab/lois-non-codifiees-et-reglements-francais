@@ -1,9 +1,17 @@
 # Article 32
 
-Le service parisien de soutien de l'administration centrale assure la rémunération du personnel civil de l'administration centrale et met en œuvre les actions de formation professionnelle le concernant. Il peut assurer la rémunération de certains personnels militaires dans les conditions fixées par arrêté.
+Le service parisien de soutien de l'administration centrale est chargé :
 
-Pour le personnel civil de l'administration centrale, il est chargé du service de la médecine du travail et du service du contrôle médical ; il est compétent pour accorder les congés pour raison de santé, de maternité, de paternité ou d'adoption rémunérés.
+1° De la rémunération du personnel civil de l'administration centrale et de la rémunération de certains personnels civils et militaires dans les conditions fixées par arrêté ;
 
-A l'exception des actes mentionnés à l'article 2 du décret du 24 octobre 2000 susvisé, il assure la gestion du personnel civil pour les catégories fixées par arrêté du ministre de la défense.
+2° A l'exception des actes mentionnés à l'article 4 du décret n° 2011-1864 du 12 décembre 2011 autorisant le ministre de la défense et des anciens combattants à déléguer certains de ses pouvoirs en matière d'administration et de gestion du personnel civil du ministère de la défense, de la gestion :
 
-Il gère les crédits de rémunération, de fonctionnement et d'équipement qui lui sont délégués notamment en ce qui concerne les organismes interarmées, les participations du ministère aux organismes militaires internationaux et à l'assistance aux armées étrangères séjournant sur le territoire national.
+a) Du personnel civil de l'administration centrale pour les catégories fixées par arrêté du ministre de la défense ;
+
+b) Du personnel civil de la direction générale de l'armement pour les catégories et organismes d'affectation dont la liste est fixée par arrêté du ministre de la défense ;
+
+c) Du personnel officier des corps de l'armement ;
+
+3° Pour le personnel dont il assure la gestion, du service du contrôle médical ; il est compétent pour accorder les congés pour raisons de santé, de maternité, de paternité ou d'adoption rémunérés ;
+
+4° De mettre en œuvre des actions de formation concernant le personnel de l'administration centrale, ainsi que le personnel civil et militaire de la direction générale de l'armement dans des conditions précisées par instruction.
