@@ -2046,7 +2046,6 @@
 - [Arrêté du 24 avril 2009 (IOCD0909476A)](arrete-du-24-avril-2009-iocd0909476a)
 - [Arrêté du 24 avril 2009 (IOCE0907984A)](arrete-du-24-avril-2009-ioce0907984a)
 - [Arrêté du 24 décembre 2003 (SOCF0312092A)](arrete-du-24-decembre-2003-socf0312092a)
-- [Arrêté du 24 décembre 2008 (ECEP0831191A)](arrete-du-24-decembre-2008-ecep0831191a)
 - [Arrêté du 24 décembre 2008 (ESRS0827975A)](arrete-du-24-decembre-2008-esrs0827975a)
 - [Arrêté du 24 décembre 2008 (ESRS0828463A)](arrete-du-24-decembre-2008-esrs0828463a)
 - [Arrêté du 24 décembre 2008 (JUSC0830156A)](arrete-du-24-decembre-2008-jusc0830156a)
