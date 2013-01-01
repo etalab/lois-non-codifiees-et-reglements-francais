@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidats ne réunissant pas, lors de la visite médicale préliminaire, les conditions médicales d'aptitude minimales exigées pour suivre l'enseignement dispensé à l'Ecole navale peuvent faire appel devant la commission médicale supérieure prévue à l'article 6.
+Les candidats ne réunissant pas, lors de la visite médicale préliminaire, les conditions médicales d'aptitude minimales exigées pour suivre au moins l'une des filières d'enseignement de l'Ecole navale peuvent faire appel devant la commission médicale supérieure prévue à l'article 6.
 
 Cette commission, présidée par un médecin des armées, se réunit à Paris au moins un mois avant les épreuves écrites des concours. Elle ordonne toute contre-visite qu'elle juge opportune pour les candidats ayant fait appel des conclusions de la visite médicale préliminaire. Elle juge sur dossier ou convoque les candidats.
 
