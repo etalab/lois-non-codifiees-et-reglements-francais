@@ -2,7 +2,7 @@
 
 La pêche professionnelle de l'anguille argentée est autorisée, pour la saison 2012-2013, dans les unités de gestion Bretagne et Loire, côtiers vendéens et Sèvre niortaise en domaine fluvial sur les cours d'eau suivants : Loire pour les seuls pêcheurs professionnels exerçant à l'aide de dideau, lac de Grandlieu, Erdre, marais de Mazerolles, Vilaine selon les dates fixées dans le tableau ci-dessous.
 
-La pêche professionnelle de l'anguille argentée est autorisée, pour la saison 2012-2013, dans le bassin Rhône-Méditerranée sur le Bas-Rhône, d'une part, en domaine fluvial dans les départements des Bouches-du-Rhône et du Gard et, d'autre part, en domaine maritime, selon les dates fixées dans le tableau ci-après.
+La pêche professionnelle de l'anguille argentée est autorisée, pour la saison 2012-2013 dans le bassin Rhône-Méditerranée et dans le bassin corse, d'une part, en domaine fluvial sur le secteur Bas-Rhône dans les départements des Bouches-du-Rhône et du Gard et, d'autre part, en domaine maritime, selon les dates fixées dans le tableau ci-après.
 
 <table>
 <tbody>
@@ -62,12 +62,8 @@ La pêche professionnelle de l'anguille argentée est autorisée, pour la saison
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="113">
-<p>Rhône,<br/>Méditerranée</p>
-</td>
-<td rowspan="2" width="202">
-<p>Bas-Rhône</p>
-</td>
+<td rowspan="2" width="113">Rhône, Méditerranée, Corse </td>
+<td rowspan="2" width="202">domaine fluvial : Bas-Rhône, domaine maritime : ensemble des lagunes méditerranéennes </td>
 <td width="183">
 <p align="center">Zone fluviale<br/>Départements<br/>Bouches du Rhône (13)<br/>et Gard (30)</p>
 </td>
@@ -80,7 +76,7 @@ La pêche professionnelle de l'anguille argentée est autorisée, pour la saison
 <p align="center">du 01.09.2012 au 15.10.2012</p>
 </td>
 <td width="183">
-<p align="center">du 15.09.2011 au 15.02.2012</p>
+<p align="center">du 15.09.2012 au 15.02.2013</p>
 </td>
 </tr>
 </tbody>
