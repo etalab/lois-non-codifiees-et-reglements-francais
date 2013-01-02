@@ -245,8 +245,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">Président du conseil d'administration de l'établissement public OSEO<br/>
-</td>
+<td align="center">Directeur général de la société anonyme BPI-Groupe</td>
 <td align="center">Commission compétente en matière d'activités financières<br/>
 </td>
 </tr>
