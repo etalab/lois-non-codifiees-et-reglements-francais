@@ -325,10 +325,10 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Etablissement public OSEO<br/>
+<br/>Société anonyme BPI-Groupe <br/>
 </td>
 <td align="center">
-<br/>Président du conseil d'administration<br/>
+<br/>Directeur général<br/>
 </td>
 </tr>
 <tr>
