@@ -107,8 +107,7 @@ Secteur affaires sociales et santé
 <br/>Délégation à l'information et à la communication<br/>
 </td>
 <td align="center">
-<br/>Chef de la mission de la communication interne<br/>
-</td>
+<br/>Chef du bureau de la communication interne et de l'animation </td>
 </tr>
 <tr>
 <td align="center">
@@ -306,7 +305,7 @@ Secteur travail
 <p align="center">Direction de l'administration générale et de la modernisation des services</p>
 </td>
 <td>
-<p align="center"> Chef du bureau des questions juridiques et statutaires et des relations sociales </p>
+<p align="center">Chef du bureau des questions juridiques et statutaires et des relations sociales </p>
 </td>
 </tr>
 <tr>
@@ -331,6 +330,14 @@ Secteur travail
 </td>
 <td align="center">
 <br/>Chef du bureau chargé des achats, de la logistique, du patrimoine immobilier de l'administration centrale et du développement durable<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction de l'administration générale et de la modernisation des services </p>
+</td>
+<td>
+<p align="center">Chargé de mission auprès du sous-directeur des ressources humaines </p>
 </td>
 </tr>
 <tr>
@@ -371,6 +378,22 @@ Secteur travail
 </td>
 <td align="center">
 <br/>Secrétaire général<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Délégation générale à l'emploi et à la formation professionnelle </p>
+</td>
+<td>
+<p align="center">Chargé de mission " politiques de formation et de qualification"</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Délégation générale à l'emploi et à la formation professionnelle </p>
+</td>
+<td>
+<p align="center">Chef du bureau " ressources humaines et affaires générales"</p>
 </td>
 </tr>
 </tbody>
