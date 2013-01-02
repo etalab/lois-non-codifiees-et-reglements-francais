@@ -1,0 +1,5 @@
+# TITRE II : DISPOSITIONS DIVERSES D'ADAPTATION DE LA LÉGISLATION FINANCIÈRE AU DROIT DE L'UNION EUROPÉENNE
+
+- [Article 16](article-16.md)
+- [Article 18](article-18.md)
+- [Article 19](article-19.md)

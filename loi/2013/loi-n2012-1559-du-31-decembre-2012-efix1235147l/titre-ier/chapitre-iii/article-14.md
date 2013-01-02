@@ -1,0 +1,5 @@
+# Article 14
+
+Les transferts par l'établissement public BPI-Groupe et la Caisse des dépôts et consignations de leurs participations dans la société dénommée OSEO à la société anonyme BPI-Groupe n'entraînent aucune remise en cause des autorisations dont sont titulaires la société dénommée OSEO ou ses filiales. Ils n'entraînent aucune remise en cause des contrats en cours d'exécution, quelle que soit leur qualification juridique, conclus par la société dénommée OSEO ou les sociétés qui lui sont liées au sens des articles L. 233-1 à L. 233-4 du code de commerce et ne sont de nature à justifier ni leur résiliation, ni la modification de l'une quelconque de leurs clauses, ni, le cas échéant, le remboursement anticipé des dettes qui en sont l'objet.
+
+L'ensemble des opérations liées aux transferts mentionnés au premier alinéa du présent article ou pouvant intervenir pour les besoins de la création du groupe mentionné à l'article 1er de la présente loi ne donnent lieu à aucune perception de droits, impôts ou taxes de quelque nature que ce soit.
