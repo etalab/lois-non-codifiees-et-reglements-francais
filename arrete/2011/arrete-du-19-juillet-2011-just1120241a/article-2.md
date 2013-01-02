@@ -24,4 +24,6 @@ En application de l'article 3 du décret du 28 octobre 2008 susvisé, les foncti
 
 ― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Centre ;
 
--chef du département des ressources humaines au secrétariat général.
+- chef du département des ressources humaines au secrétariat général ;
+
+- chef du bureau des affaires administratives et de la valorisation des ressources du service du casier judiciaire national.

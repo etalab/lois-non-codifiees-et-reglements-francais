@@ -158,7 +158,6 @@
 - [Arrêté du 3 janvier 2012 (ESRS1135668A)](arrete-du-3-janvier-2012-esrs1135668a)
 - [Arrêté du 3 janvier 2012 (ESRS1135669A)](arrete-du-3-janvier-2012-esrs1135669a)
 - [Arrêté du 3 janvier 2012 (ETSS1200225A)](arrete-du-3-janvier-2012-etss1200225a)
-- [Arrêté du 3 janvier 2012 (IOCS1134710A)](arrete-du-3-janvier-2012-iocs1134710a)
 - [Arrêté du 3 janvier 2012 (MENE1200213A)](arrete-du-3-janvier-2012-mene1200213a)
 - [Arrêté du 3 janvier 2012 (MENE1200228A)](arrete-du-3-janvier-2012-mene1200228a)
 - [Arrêté du 3 juillet 2012 (AFSH1228054A)](arrete-du-3-juillet-2012-afsh1228054a)

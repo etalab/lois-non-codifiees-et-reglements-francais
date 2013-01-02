@@ -34,15 +34,13 @@ A la sous-direction de l'immobilier :
 
 Au service de l'administration centrale :
 
-― chef du département des moyens généraux ;
+― chef du département de la programmation budgétaire et de la comptabilité ;
 
 ― chef de la cellule de suivi personnalisé des parcours professionnels ;
 
 A la direction des services judiciaires
 
 ― adjoint au sous-directeur des ressources humaines des greffes ;
-
-― chef du bureau des affaires administratives et de la valorisation des ressources du service du casier judiciaire national ;
 
 ― chef du bureau des frais de justice et de l'optimisation de la dépense ;
 
