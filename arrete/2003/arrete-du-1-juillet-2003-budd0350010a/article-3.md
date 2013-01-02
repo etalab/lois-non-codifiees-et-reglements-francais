@@ -12,7 +12,7 @@ Les catégories d'informations directement ou indirectement nominatives suscepti
 
 - au titre des suites administratives et judiciaires réservées aux constatations de fraude : date de saisine de l'autorité judiciaire, suivi et déroulement des actions contentieuses, montant et qualification des sommes liquidées, étapes de la procédure de recouvrement ;
 
-- pour les déclarations de mouvements de sommes, titres ou valeurs : sens du transfert (importation ou exportation), provenance et destination, sommes déclarées (nature, montant, monnaie), identification du propriétaire des fonds ou de son représentant ;
+- pour les déclarations de mouvements de sommes, titres ou valeurs : sens du transfert (entrée ou sortie), provenance et destination, sommes déclarées (nature, montant, monnaie), identification du propriétaire des fonds ou de son représentant  ainsi que la désignation du lieu de franchissement de la frontière aérienne ou maritime ou de la région géographique de franchissement de la frontière terrestre, la date et le numéro d'enregistrement lorsque la déclaration est souscrite par internet ;
 
 - pour les agents des douanes : nom, prénom, fonctions et données d'identification au sein de l'organisation administrative.
 

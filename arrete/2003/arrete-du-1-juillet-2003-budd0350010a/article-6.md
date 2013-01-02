@@ -2,7 +2,7 @@
 
 Peuvent se connecter au SI LCF suivant une procédure d'identification individuelle et accéder aux informations qu'ils ont à connaître dans le cadre de leurs attributions fonctionnelles et de leurs compétences territoriales respectives les agents suivants de la direction générale des douanes et droits indirects :
 
-1. Les agents dûment habilités des services spécialisés dans l'analyse du risque et le traitement du renseignement sont seuls destinataires des informations relatives aux risques de fraude et des données relatives aux déclarations déposées en application de l'article 464 du code des douanes aussi longtemps que ces services ne les ont pas validées en vue de leur utilisation et de leur diffusion à des fins de contrôle ou d'enquête sous la forme d'avis de fraude ou de fiches d'enquête.
+1. Les agents dûment habilités des services spécialisés dans l'analyse du risque et le traitement du renseignement sont seuls destinataires des informations relatives aux risques de fraude aussi longtemps que ces services ne les ont pas validées en vue de leur utilisation et de leur diffusion à des fins de contrôle ou d'enquête sous la forme d'avis de fraude ou de fiches d'enquête.
 
 Toutefois, les agents des services ayant signalé un risque de fraude conservent la possibilité d'accéder aux informations relatives à ce signalement.
 
@@ -17,5 +17,7 @@ Toutefois, les agents des services ayant signalé un risque de fraude conservent
 6. Les agents dûment habilités de l'administration centrale en charge du pilotage de la lutte contre la fraude accèdent à l'ensemble des informations conservées dans le SI LCF.
 
 7. Les autorités hiérarchiques accèdent à l'ensemble des informations relatives à l'activité des services qui relèvent de leur compétence.
+
+8. En outre, les agents dûment habilités des services spécialisés dans l'analyse du risque et le traitement du renseignement ainsi que ceux investis d'une mission de lutte contre la fraude sont destinataires des données relatives aux déclarations déposées en application du règlement (CE) n° 1889/2005 du Parlement européen et du Conseil du 26 octobre 2005 relatif aux contrôles de l'argent liquide entrant ou sortant de la Communauté ainsi qu'en application de l'article 464 du code des douane, d'une part, et des articles L. 721-2, L. 731-3, L. 741-4, L. 751-4 et L. 761-3 du code monétaire et financier, d'autre part.
 
 Chaque interrogation du SI LCF donne lieu à l'enregistrement de l'identité de l'auteur, du motif et de l'étendue de la requête, et, lorsqu'elle est effectuée pour le compte d'une personne n'appartenant pas à la direction générale des douanes et droits indirects, de son fondement juridique.
