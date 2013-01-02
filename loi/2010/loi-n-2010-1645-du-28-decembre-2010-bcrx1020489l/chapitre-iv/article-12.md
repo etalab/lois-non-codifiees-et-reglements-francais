@@ -6,3 +6,5 @@ II. - A modifié les dispositions suivantes :
 
 > - Code de la santé publique
 > > Art. L6141-2-1
+
+III. - Le présent article ne s'applique pas aux emprunts contractés auprès de la Banque européenne d'investissement.
