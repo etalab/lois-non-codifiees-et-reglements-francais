@@ -1,5 +1,13 @@
 # Article 3
 
-Les enseignements des classes de première et des classes terminales comprennent, pour tous les élèves, des enseignements communs aux trois séries, un accompagnement personnalisé, des enseignements spécifiques de chaque série et des enseignements facultatifs. Certains enseignements spécifiques peuvent faire l'objet d'un choix.
+Les enseignements des classes de première et des classes terminales des séries économique et sociale (ES), littéraire (L) et scientifique (S) comprennent :
 
-Des enseignements facultatifs peuvent être choisis selon les modalités fixées par l'annexe du présent arrêté. En classe terminale de la série S, un enseignement d'histoire-géographie peut être choisi par un élève à ce titre, en sus de deux autres enseignements facultatifs.
+- des enseignements communs aux trois séries ;
+
+- un accompagnement personnalisé ;
+
+- des enseignements spécifiques à chaque série. Certains de ces enseignements peuvent faire l'objet d'un choix ;
+
+- des enseignements facultatifs.
+
+L'horaire de ces enseignements est fixé dans les tableaux figurant en annexe du présent arrêté.
