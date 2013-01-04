@@ -762,9 +762,7 @@ SARL Dourmap et Cie :
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
-SARL Michel LE BEC mécanique marine T e r r e - p l e i n O u e s t , p o r t d e L e s c o n i l , 29740 Plobannalec
-
-De 1980 à 2000
+SARL Michel LE BEC mécanique marine Terre-plein Ouest, port de Lesconil, 29740 Plobannalec De 1980 à 2000
 
 SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
@@ -959,6 +957,8 @@ SOLORPEC, 10, boulevard Jean-Pierre-Calloch, 56100 Lorient, depuis 1969, puis ru
 SLPN, 42, quai de la Douane, puis 3, rue Alain-Colas, puis 485, rue Alain-Colas, 29200 Brest, depuis 1979, 17, rue Amiral-Nielly, 29200 Brest, de 1984 à 1985
 
 SONOCAR, 13, place Napoléon-III, 29200 Brest : de 1980 à 1990.
+
+SOTRAMA (Société de transports, manutention et travaux publics) 8, avenue de Kergroise, 56323 Lorient Cedex De 1980 à 1998.
 
 Soudure tuyauterie montage industriel :
 
@@ -1238,7 +1238,7 @@ SERMI :
 
 service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen, de 1947 à 2005.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Bois-Guilbert, BP 4075, 76100 Rouen, de 1947 à 2012
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
