@@ -116,7 +116,6 @@
 - [Décret n°2007-696 du 3 mai 2007 (MENH0753057D)](decret-n2007-696-du-3-mai-2007-menh0753057d)
 - [Décret n°2007-697 du 3 mai 2007 (MENS0751549D)](decret-n2007-697-du-3-mai-2007-mens0751549d)
 - [Décret n°2007-699 du 3 mai 2007 (JUSD0730029D)](decret-n2007-699-du-3-mai-2007-jusd0730029d)
-- [Décret n°2007-700 du 3 mai 2007 (EQUT0602181D)](decret-n2007-700-du-3-mai-2007-equt0602181d)
 - [Décret n°2007-702 du 3 mai 2007 (MCCB0753152D)](decret-n2007-702-du-3-mai-2007-mccb0753152d)
 - [Décret n°2007-710 du 3 mai 2007 (ECOP0751453D)](decret-n2007-710-du-3-mai-2007-ecop0751453d)
 - [Décret n°2007-717 du 3 mai 2007 (ECOU0752002D)](decret-n2007-717-du-3-mai-2007-ecou0752002d)

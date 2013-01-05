@@ -1,3 +1,0 @@
-# Article 2
-
-N'entrent pas dans le champ d'application du présent décret les ouvrages d'infrastructures de transport dont l'exploitation est réglementée en tant qu'installation ou équipement connexe, par le biais de l'arrêté d'autorisation et d'arrêtés complémentaires le cas échéant, soit d'une installation classée pour la protection de l'environnement au sens de l'article L. 511-1 du code de l'environnement, soit d'une installation nucléaire de base au sens de l'article 28 de la loi du 13 juin 2006 susvisée, soit d'un stockage souterrain de gaz ou d'hydrocarbures liquides ou liquéfiés au sens du titre V bis du livre Ier du code minier.
