@@ -2231,7 +2231,6 @@
 - [Arrêté du 24 mai 2011 (JUSB1114366A)](arrete-du-24-mai-2011-jusb1114366a)
 - [Arrêté du 24 mai 2011 (MENE1114358A)](arrete-du-24-mai-2011-mene1114358a)
 - [Arrêté du 24 mai 2011 (MENE1114370A)](arrete-du-24-mai-2011-mene1114370a)
-- [Arrêté du 24 mai 2011 (SCSA1101781A)](arrete-du-24-mai-2011-scsa1101781a)
 - [Arrêté du 25 août 2011 (AGRG1121044A)](arrete-du-25-aout-2011-agrg1121044a)
 - [Arrêté du 25 août 2011 (DEVA1123563A)](arrete-du-25-aout-2011-deva1123563a)
 - [Arrêté du 25 août 2011 (ESRS1116743A)](arrete-du-25-aout-2011-esrs1116743a)
