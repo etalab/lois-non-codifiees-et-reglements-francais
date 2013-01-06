@@ -2075,7 +2075,6 @@
 - [Arrêté du 23 décembre 2010 (MENH1016082A)](arrete-du-23-decembre-2010-menh1016082a)
 - [Arrêté du 23 décembre 2011 (AGRT1134810A)](arrete-du-23-decembre-2011-agrt1134810a)
 - [Arrêté du 23 décembre 2011 (BCRB1135261A)](arrete-du-23-decembre-2011-bcrb1135261a)
-- [Arrêté du 23 décembre 2011 (BCRB1135266A)](arrete-du-23-decembre-2011-bcrb1135266a)
 - [Arrêté du 23 décembre 2011 (DEVL1126191A)](arrete-du-23-decembre-2011-devl1126191a)
 - [Arrêté du 23 décembre 2011 (DEVL1134082A)](arrete-du-23-decembre-2011-devl1134082a)
 - [Arrêté du 23 décembre 2011 (EFIP1127781A)](arrete-du-23-decembre-2011-efip1127781a)
