@@ -906,7 +906,6 @@
 - [Arrêté du 12 avril 2012 (ETSH1220318A)](arrete-du-12-avril-2012-etsh1220318a)
 - [Arrêté du 12 avril 2012 (ETSS1220315A)](arrete-du-12-avril-2012-etss1220315a)
 - [Arrêté du 12 avril 2012 (MCCC1209621A)](arrete-du-12-avril-2012-mccc1209621a)
-- [Arrêté du 12 décembre 2011 (EFIN1134562A)](arrete-du-12-decembre-2011-efin1134562a)
 - [Arrêté du 12 décembre 2012 (ACTI1241815A)](arrete-du-12-decembre-2012-acti1241815a)
 - [Arrêté du 12 décembre 2012 (AFSA1242287A)](arrete-du-12-decembre-2012-afsa1242287a)
 - [Arrêté du 12 décembre 2012 (AFSA1242293A)](arrete-du-12-decembre-2012-afsa1242293a)
