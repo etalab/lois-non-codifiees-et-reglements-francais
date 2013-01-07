@@ -318,6 +318,20 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td align="center">
+<p align="center">77</p>
+</td>
+<td align="center">
+<p align="left">Seine-et-Marne</p>
+</td>
+<td align="center">
+<p align="center">1</p>
+</td>
+<td align="center">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td align="center">
 <p align="center">78</p>
 </td>
 <td align="center">
@@ -329,20 +343,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 <td align="center">
 <p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">92</p>
-</td>
-<td align="center">
-<p align="left">Hauts-de-Seine.</p>
-</td>
-<td align="center">
-<p align="center">1</p>
-</td>
-<td align="center">
-<p align="center">50</p>
 </td>
 </tr>
 <tr>

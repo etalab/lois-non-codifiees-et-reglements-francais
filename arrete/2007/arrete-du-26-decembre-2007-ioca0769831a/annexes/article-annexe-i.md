@@ -49,7 +49,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="4" valign="top">
+<td align="left" rowspan="5" valign="top">
 <p align="left">Direction des libertés publiques et des affaires juridiques. <br/>
 </p>
 </td>
@@ -81,6 +81,14 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Adjoint au chef du bureau des polices administratives.</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
 <td align="left" rowspan="5" valign="top">
 <p align="left">Direction générale de la sécurité civile et de la gestion des crises. <br/>
 </p>
@@ -94,7 +102,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="center">
-<p align="left">Chef du bureau du statut, du management et du dialogue social. </p>
+<p align="left">Chef du bureau des statuts et du management. </p>
 </td>
 <td align="center">
 <p align="center">30</p>
@@ -117,7 +125,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du bureau de l'alerte, de la planification et de la préparation aux crises. </p>
+<p align="left">Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">30</p>
@@ -144,7 +152,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" rowspan="5" valign="top">
-<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières. (2)</p>
+<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Chef du bureau du budget et du fonctionnement.</p>
@@ -155,7 +163,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td>
-<p align="left">Chef du bureau de la qualité juridique et comptable. </p>
+<p align="left">Chef du bureau du contrôle interne comptable. </p>
 </td>
 <td>
 <p align="center">50 </p>
@@ -186,20 +194,11 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">Direction de la modernisation et de l'action territoriale. <br/>
 </p>
 </td>
-<td align="center">
-<p align="left">Adjoint au chef du bureau des polices administratives <br/>
-</p>
-</td>
-<td align="center">
-<br/>30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+<td align="left">
 <p>Chef du bureau de la sécurité et de la réglementation routières. <br/>
 </p>
 </td>
@@ -318,7 +317,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="12" valign="top">
+<td align="left" rowspan="13" valign="top">
 <p align="left">Direction générale de la police nationale. <br/>
 </p>
 </td>
@@ -365,7 +364,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Chef du bureau de la gestion et de la formation des personnels. <br/>
 </p>
 </td>
@@ -415,8 +414,13 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left"> Chef du bureau des politiques sociales. </td>
+<td>Adjoint au chef du bureau des affaires juridiques et statutaires. <br/>
+</td>
 <td align="center"> 30</td>
+</tr>
+<tr>
+<td align="left">Chef du bureau des politiques sociales. </td>
+<td align="center">30</td>
 </tr>
 <tr>
 <td align="center">
@@ -459,13 +463,29 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
 <p align="left">Direction des ressources humaines.</p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau du recrutement.</p>
+<p align="left">Chef du service de la modernisation et de la performance.</p>
 </td>
 <td align="center">
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoint au chef du service de gestion des personnels de la police nationale.</p>
+</td>
+<td>
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoint au chef du service de gestion des personnels d'administration générale, chef du bureau du dialogue social, des affaires statutaires et indemnitaires.</p>
+</td>
+<td>
 <p align="center">50</p>
 </td>
 </tr>
@@ -583,12 +603,10 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction de la police urbaine de proximité. <br/>
-</p>
+<p align="left">Direction de la sécurité de proximité de l'agglomération parisienne. </p>
 </td>
 <td align="center">
-<p align="left">Chef du service de gestion opérationnelle des personnels et des équipements. <br/>
-</p>
+<p align="left">Chef du service de gestion opérationnelle des personnels et des équipements. </p>
 </td>
 <td align="center">60 <br/>
 </td>
@@ -652,26 +670,39 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire. <br/>
-</p>
+<td align="left" rowspan="2" valign="top">
+<p>Secrétariat général à l'immigration et à l'intégration.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Chef du bureau du droit de l'éloignement. </p>
-<p align="left">Chef du département de l'asile à la frontière et de l'admission au séjour. <br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="center">30 </p>
-<p align="center">30<br/>
+<p align="center">
+<br/>
 </p>
 </td>
+</tr>
+<tr>
+<td>Chef du département de l'asile à la frontière et de l'admission au séjour. <br/>
+</td>
+<td align="center"> 30</td>
 </tr>
 <tr>
 <td>
 <p align="left">Agence nationale des titres sécurisés.</p>
 </td>
-<td>Chef du département qualité.</td>
+<td>
+<p align="left">Chef du département qualité.</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>Direction générale de la gendarmerie nationale. </td>
+<td>Chef du bureau du personnel civil.</td>
 <td>
 <p align="center">30</p>
 </td>
