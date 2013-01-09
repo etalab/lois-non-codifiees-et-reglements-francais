@@ -911,7 +911,6 @@
 - [Arrêté du 28 février 1997 (MENF9603703A)](arrete-du-28-fevrier-1997-menf9603703a)
 - [Arrêté du 28 février 1997 (TASG9710350A)](arrete-du-28-fevrier-1997-tasg9710350a)
 - [Arrêté du 28 janvier 1997 (DEFF9701154A)](arrete-du-28-janvier-1997-deff9701154a)
-- [Arrêté du 28 janvier 1997 (ECOP9700017A)](arrete-du-28-janvier-1997-ecop9700017a)
 - [Arrêté du 28 janvier 1997 (ECOP9700061A)](arrete-du-28-janvier-1997-ecop9700061a)
 - [Arrêté du 28 janvier 1997 (EQUP9601724A)](arrete-du-28-janvier-1997-equp9601724a)
 - [Arrêté du 28 janvier 1997 (MENU9602831A)](arrete-du-28-janvier-1997-menu9602831a)
