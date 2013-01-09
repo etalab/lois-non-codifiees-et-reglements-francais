@@ -389,7 +389,6 @@
 - [Décret n°2008-1182 du 14 novembre 2008 (AGRS0824003D)](decret-n2008-1182-du-14-novembre-2008-agrs0824003d)
 - [Décret n°2008-1183 du 14 novembre 2008 (MENJ0810045D)](decret-n2008-1183-du-14-novembre-2008-menj0810045d)
 - [Décret n°2008-1184 du 14 novembre 2008 (BCFB0824806D)](decret-n2008-1184-du-14-novembre-2008-bcfb0824806d)
-- [Décret n°2008-1188 du 14 novembre 2008 (PRMX0826256D)](decret-n2008-1188-du-14-novembre-2008-prmx0826256d)
 - [Décret n°2008-139 du 14 février 2008 (MENE0766469D)](decret-n2008-139-du-14-fevrier-2008-mene0766469d)
 - [Décret n°2008-143 du 14 février 2008 (MTSS0800995D)](decret-n2008-143-du-14-fevrier-2008-mtss0800995d)
 - [Décret n°2008-259 du 14 mars 2008 (DEVN0800719D)](decret-n2008-259-du-14-mars-2008-devn0800719d)
