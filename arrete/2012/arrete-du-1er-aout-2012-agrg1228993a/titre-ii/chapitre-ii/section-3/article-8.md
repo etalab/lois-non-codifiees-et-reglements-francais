@@ -10,4 +10,4 @@ Sans préjudice des dispositions de l'article 3, le marquage par implantation d'
 
 4° Le contrôle après injection de la lisibilité du code du transpondeur contenu dans l'insert.
 
-En cas de dysfonctionnement, les dispositions de l'article 21 doivent être mises en œuvre.
+En cas de dysfonctionnement, les opérations précédentes doivent être renouvelées.
