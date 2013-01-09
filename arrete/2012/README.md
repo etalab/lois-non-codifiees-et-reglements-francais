@@ -2725,7 +2725,6 @@
 - [Arrêté du 27 décembre 2011 (DEVA1118509A)](arrete-du-27-decembre-2011-deva1118509a)
 - [Arrêté du 27 décembre 2011 (DEVD1002155A)](arrete-du-27-decembre-2011-devd1002155a)
 - [Arrêté du 27 décembre 2011 (DEVL1133432A)](arrete-du-27-decembre-2011-devl1133432a)
-- [Arrêté du 27 décembre 2011 (EFIC1133386A)](arrete-du-27-decembre-2011-efic1133386a)
 - [Arrêté du 27 décembre 2011 (EFII1128481A)](arrete-du-27-decembre-2011-efii1128481a)
 - [Arrêté du 27 décembre 2011 (ETSD1132695A)](arrete-du-27-decembre-2011-etsd1132695a)
 - [Arrêté du 27 décembre 2011 (MAEA1134733A)](arrete-du-27-decembre-2011-maea1134733a)
