@@ -14,7 +14,7 @@ Une épreuve de culture générale consistant en une dissertation sur un sujet f
 
 Une épreuve de note de synthèse à partir d'un dossier sur un sujet en rapport avec la sécurité intérieure (durée : quatre heures ; coefficient 4).
 
-Un questionnaire à choix multiple portant sur l'organisation et le fonctionnement de la police nationale (durée : deux heures ; coefficient 3) ou, au choix du candidat, sur la pyrotechnie, les interventions sur objets suspects et la technologie munitionnaire. Le candidat indique son choix dans sa demande d'inscription au concours. Il ne peut en aucun cas en changer au moment des épreuves (durée : une heure ; coefficient 3).
+Un questionnaire à choix multiple portant au choix du candidat soit sur l'organisation et le fonctionnement de la police nationale, soit sur le déminage, ce qui comprend la pyrotechnie, les interventions sur les objets suspects à but d'attentats et la technologie munitionnaire (durée : une heure ; coefficient 3). Le candidat indique son choix dans sa demande d'inscription au concours. Il ne peut en aucun cas en changer au moment des épreuves.
 
 Les épreuves écrites font l'objet d'une double correction, à l'exception du questionnaire à choix multiple.
 
@@ -28,13 +28,13 @@ Un entretien d'évaluation permettant d'apprécier les qualités de réflexion e
 
 Les membres du jury disposent, pour aide à la décision, des résultats des tests psychotechniques passés par le candidat, interprétés par le psychologue.
 
-Une interrogation orale portant sur le droit pénal général et/ou le droit pénal spécial et/ou la procédure pénale (durée : vingt minutes ; coefficient 3) ou, au choix du candidat, sur les interventions sur objets suspects et munitions, les modes opératoires et les règles de sécurité. Le candidat indique son choix dans sa demande d'inscription au concours. Il ne peut en aucun cas en changer au moment des épreuves.
+Une interrogation orale portant au choix du candidat soit sur le droit pénal général et/ ou le droit pénal spécial et/ ou la procédure pénale, soit sur le déminage, ce qui comprend la pyrotechnie, les interventions sur objets suspects à but d'attentats et la technologie munitionnaire (durée : vingt minutes ; coefficient 3). Le candidat indique son choix dans sa demande d'inscription au concours. Il ne peut en aucun cas en changer au moment des épreuves.
 
 Une épreuve orale de langue étrangère consistant en une conversation (durée : quinze minutes ; coefficient 3).
 
 Les langues admises sont l'allemand, l'anglais, l'arabe, l'espagnol, l'italien. Le candidat indique son choix dans sa demande d'inscription au concours. Il ne peut en aucun cas en changer au moment des épreuves.
 
-Des épreuves d'exercices physiques, dont la nature et les barèmes sont fixés par arrêté du ministre de l'intérieur et de l'aménagement du territoire et du ministre chargé de la fonction publique (coefficient 3) ;
+Des épreuves d'exercices physiques, dont la nature et les barèmes sont fixés par arrêté du ministre chargé de l'intérieur et du ministre chargé de la fonction publique (coefficient 3) ;
 
 b) Une épreuve facultative de langue étrangère consistant en une conversation (durée : quinze minutes ; coefficient 1). Seuls les points au-dessus de la moyenne sont pris en compte.
 

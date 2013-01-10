@@ -6,9 +6,9 @@ Concours externe
 
 Droit pénal général
 
-Notions générales d'histoire du droit pénal, de criminologie et de science pénitentiaire.
+Notions générales d'histoire du droit pénal, de criminologie et de science pénitentiaire
 
-1. La loi pénale.
+1. La loi pénale :
 
 a) La loi pénale en elle-même :
 
@@ -16,7 +16,7 @@ a) La loi pénale en elle-même :
 
 - sa nature ;
 
-- son domaine d'application dans le temps et dans l'espace.
+- son domaine d'application dans le temps et dans l'espace ;
 
 b) La loi pénale et le juge :
 
@@ -24,7 +24,7 @@ b) La loi pénale et le juge :
 
 - l'interprétation de la loi ;
 
-- le contrôle de régularité de la loi.
+- le contrôle de régularité de la loi ;
 
 c) La loi pénale et l'infraction :
 
@@ -44,7 +44,7 @@ a) La responsabilité pénale du délinquant :
 
 - la distinction personne physique/ personne morale, mineur/ majeur ;
 
-- le cas particulier des responsables politiques.
+- le cas particulier des responsables politiques ;
 
 b) L'irresponsabilité pénale du délinquant :
 
@@ -56,9 +56,9 @@ b) L'irresponsabilité pénale du délinquant :
 
 3. Les peines :
 
-a) La peine encourue.
+a) La peine encourue ;
 
-b) La peine prononcée.
+b) La peine prononcée ;
 
 c) La peine exécutée.
 
@@ -68,35 +68,35 @@ Procédure pénale
 
 2. Les acteurs de la procédure pénale :
 
-a) Police judiciaire.
+a) Police judiciaire ;
 
-b) Parquet.
+b) Parquet ;
 
-c) Avocats.
+c) Avocats ;
 
-d) Juridictions d'instruction, de jugement et d'application des peines.
+d) Juridictions d'instruction, de jugement et d'application des peines ;
 
 e) Cour pénale internationale et les tribunaux pénaux internationaux.
 
 3. La dynamique de la procédure pénale :
 
-a) Action publique.
+a) Action publique ;
 
 b) Action civile.
 
 4. La mise en état des affaires pénales :
 
-a) La preuve pénale.
+a) La preuve pénale ;
 
-b) Les enquêtes de police.
+b) Les enquêtes de police ;
 
 c) L'instruction préparatoire.
 
 5. Le jugement des affaires pénales :
 
-a) Les diverses procédures de jugement.
+a) Les diverses procédures de jugement ;
 
-b) Les voies de recours internes.
+b) Les voies de recours internes ;
 
 c) Les voies de recours internationales.
 
@@ -108,7 +108,7 @@ a) Les cadres institutionnels de l'entraide :
 
 - Conseil de l'Europe ;
 
-- Union européenne.
+- Union européenne ;
 
 b) Les mécanismes et les structures de l'entraide :
 
@@ -132,7 +132,7 @@ Droit constitutionnel
 
 1. Théorie générale du droit constitutionnel :
 
-a) Les éléments constitutifs et les formes de l'Etat.
+a) Les éléments constitutifs et les formes de l'Etat ;
 
 b) L'organisation du pouvoir dans l'Etat :
 
@@ -142,13 +142,13 @@ b) L'organisation du pouvoir dans l'Etat :
 
 2. Les institutions politiques françaises :
 
-a) L'histoire constitutionnelle française depuis 1875.
+a) L'histoire constitutionnelle française depuis 1875 ;
 
-b) La Constitution de la ve République :
+b) La Constitution de la Ve République :
 
 - les caractéristiques du régime ;
 
-- les organes de la ve République ;
+- les organes de la Ve République ;
 
 - le pouvoir exécutif : le Président de la République, le Gouvernement ;
 
@@ -162,7 +162,7 @@ Droit administratif
 
 1. Les sources du droit administratif :
 
-a) Les sources internes.
+a) Les sources internes ;
 
 b) Les sources internationales et européennes.
 
@@ -174,15 +174,15 @@ a) Les principes de l'organisation administrative :
 
 - décentralisation ;
 
-- déconcentration.
+- déconcentration ;
 
 b) L'administration de l'Etat : l'administration centrale, les services déconcentrés de l'Etat :
 
-- les établissements publics à caractère administratif, et à caractère industriel et commercial ;
+- les établissements publics à caractère administratif et à caractère industriel et commercial ;
 
 - les autorités administratives indépendantes ;
 
-- le ou les représentants de l'Etat au niveau territorial : les préfets et sous-préfets.
+- le ou les représentants de l'Etat au niveau territorial : les préfets et sous-préfets ;
 
 c) Les collectivités territoriales :
 
@@ -194,21 +194,21 @@ c) Les collectivités territoriales :
 
 - l'intercommunalité et les groupements de collectivités territoriales ;
 
-- le statut de Paris-Lyon-Marseille ;
+- le statut de Paris, Lyon, Marseille ;
 
 - le contrôle administratif des collectivités locales.
 
 3. L'action de l'administration :
 
-a) Les actes administratifs unilatéraux (élaboration, exécution et disparition).
+a) Les actes administratifs unilatéraux (élaboration, exécution et disparition) ;
 
-b) Les contrats administratifs (les principales catégories ; les règles essentielles relatives à la conclusion et à l'exécution).
+b) Les contrats administratifs (les principales catégories ; les règles essentielles relatives à la conclusion et à l'exécution) ;
 
 c) L'objet de l'action de l'administration :
 
 - la théorie générale des services publics et modes de gestion (régie directe, gestion déléguée) ;
 
-- la police administrative.
+- la police administrative ;
 
 d) La responsabilité administrative extracontractuelle :
 
@@ -228,7 +228,7 @@ a) Les principales juridictions administratives :
 
 - les tribunaux administratifs ;
 
-- le tribunal des conflits.
+- le tribunal des conflits ;
 
 b) Les recours contentieux :
 
@@ -242,9 +242,9 @@ b) Les recours contentieux :
 
 5. La fonction publique d'Etat :
 
-a) Les sources.
+a) Les sources ;
 
-b) Le statut général des fonctionnaire de l'Etat : les droits et obligations du fonctionnaire, la responsabilité, le statut d'agents publics, l'accès aux emplois publics, le dialogue social et la participation.
+b) Le statut général des fonctionnaires de l'Etat : les droits et obligations du fonctionnaire, la responsabilité, le statut d'agents publics, l'accès aux emplois publics, le dialogue social et la participation.
 
 Libertés fondamentales
 
@@ -252,23 +252,23 @@ Libertés fondamentales
 
 a) Les sources des libertés publiques :
 
-- Déclaration des droits de l'homme et du citoyen (26 août 1789) ;
+- déclaration des droits de l'homme et du citoyen (26 août 1789) ;
 
-- Préambule de la Constitution de 1946 ;
+- préambule de la Constitution de 1946 ;
 
-- Déclaration universelle des droits de l'homme (10 décembre 1948) ;
+- déclaration universelle des droits de l'homme (10 décembre 1948) ;
 
-- Préambule de la Constitution de 1958 ;
+- préambule de la Constitution de 1958 ;
 
-- Convention européenne des droits de l'homme ;
+- convention européenne des droits de l'homme ;
 
-- Charte de l'environnement ;
+- charte de l'environnement ;
 
-- Charte des droits fondamentaux de l'Union européenne.
+- charte des droits fondamentaux de l'Union européenne ;
 
 b) L'aménagement des libertés fondamentales :
 
-- les régimes exceptionnels (art. 16, état de siège, état d'urgence, théorie des circonstances exceptionnelles).
+- les régimes exceptionnels (article 16, état de siège, état d'urgence, théorie des circonstances exceptionnelles) ;
 
 c) La protection juridictionnelle des libertés publiques :
 
@@ -292,7 +292,7 @@ a) Les libertés physiques :
 
 - le droit au respect de la vie privée ;
 
-- le droit à la vie, le respect de l'intégrité physique et la dignité de la personne humaine.
+- le droit à la vie, le respect de l'intégrité physique et la dignité de la personne humaine ;
 
 b) Les libertés intellectuelles :
 
@@ -302,7 +302,7 @@ b) Les libertés intellectuelles :
 
 - la liberté de l'enseignement ;
 
-- la liberté de religion.
+- la liberté de religion ;
 
 c) Les libertés d'expression collective :
 
@@ -330,7 +330,7 @@ Institutions de l'Union européenne
 
 - la Banque centrale européenne.
 
-2. Les organismes consultatifs de l'Union prévus par le Traité sur le fonctionnement de l'Union Européenne :
+2. Les organismes consultatifs de l'Union prévus par le traité sur le fonctionnement de l'Union européenne :
 
 - le Comité économique et social ;
 
@@ -344,13 +344,13 @@ Droit des affaires
 
 1. Les commerçants :
 
-a) Activité commerciale : les actes de commerce.
+a) Activité commerciale : les actes de commerce ;
 
-b) Qualité de commerçant.
+b) Qualité de commerçant ;
 
-c) Statut du commerçant.
+c) Statut du commerçant ;
 
-d) Fonds de commerce.
+d) Fonds de commerce ;
 
 e) Tribunaux de commerce.
 
@@ -358,11 +358,11 @@ e) Tribunaux de commerce.
 
 3. Les sociétés commerciales :
 
-a) Notion.
+a) Notion ;
 
-b) Droit commun.
+b) Droit commun ;
 
-c) Sociétés de capitaux et de personnes.
+c) Sociétés de capitaux et de personnes ;
 
 d) Droit pénal des sociétés commerciales :
 
@@ -378,15 +378,15 @@ d) Droit pénal des sociétés commerciales :
 
 4. Les modes de règlements commerciaux :
 
-a) Lettre de change.
+a) Lettre de change ;
 
-b) Billet à ordre.
+b) Billet à ordre ;
 
 c) Chèque.
 
 5. Les entreprises en difficultés :
 
-a) Prévention des difficultés.
+a) Prévention des difficultés ;
 
 b) Procédures collectives.
 
@@ -394,7 +394,7 @@ Droit civil
 
 Le droit des personnes
 
-1. La classification des personnes.
+1. La classification des personnes :
 
 a) Personnes physiques :
 
@@ -412,13 +412,13 @@ b) Personnes morales :
 
 2. L'identification des personnes physiques :
 
-a) Le nom.
+a) Le nom ;
 
-b) Le domicile.
+b) Le domicile ;
 
 c) Les actes de l'état civil.
 
-3. La capacité des personnes physiques.
+3. La capacité des personnes physiques :
 
 a) La protection des mineurs :
 
@@ -428,7 +428,7 @@ a) La protection des mineurs :
 
 - l'administration des biens du mineur ;
 
-- la tutelle des mineurs.
+- la tutelle des mineurs ;
 
 b) La protection des majeurs :
 
@@ -446,7 +446,7 @@ b) La protection des majeurs :
 
 Le droit de la famille
 
-1. Le couple.
+1. Le couple :
 
 a) Le mariage :
 
@@ -454,7 +454,7 @@ a) Le mariage :
 
 - les effets (d'ordre personnel, d'ordre pécuniaire) ;
 
-- la dissolution (divorce, séparation de corps).
+- la dissolution (divorce, séparation de corps) ;
 
 b) Le concubinage :
 
@@ -462,7 +462,7 @@ b) Le concubinage :
 
 - les effets du concubinage ;
 
-- la rupture du concubinage.
+- la rupture du concubinage ;
 
 c) Le pacte civil de solidarité (PACS) :
 
@@ -474,11 +474,11 @@ c) Le pacte civil de solidarité (PACS) :
 
 2. L'enfant : la filiation :
 
-a) Les règles communes.
+a) Les règles communes ;
 
-b) La filiation par le sang.
+b) La filiation par le sang ;
 
-c) La filiation adoptive.
+c) La filiation adoptive ;
 
 d) La filiation par procréation médicalement assistée.
 
@@ -486,7 +486,7 @@ Le droit des obligations
 
 1. L'acte juridique. Le contrat :
 
-a) Les conditions de formation du contrat.
+a) Les conditions de formation du contrat ;
 
 b) L'exécution du contrat :
 
@@ -494,13 +494,13 @@ b) L'exécution du contrat :
 
 - l'effet obligatoire du contrat à l'égard du juge ;
 
-- l'effet relatif du contrat à l'égard des tiers.
+- l'effet relatif du contrat à l'égard des tiers ;
 
 c) L'inexécution du contrat :
 
 - le régime général de la responsabilité contractuelle ;
 
-- les règles spécifiques à l'inexécution des contrats synallagmatiques.
+- les règles spécifiques à l'inexécution des contrats synallagmatiques ;
 
 d) Les modes d'exécution du contrat :
 
@@ -510,9 +510,9 @@ d) Les modes d'exécution du contrat :
 
 2. Les quasi-contrats :
 
-a) La gestion d'affaires.
+a) La gestion d'affaires ;
 
-b) La répétition de l'indu.
+b) La répétition de l'indu ;
 
 c) L'enrichissement sans cause.
 
@@ -522,7 +522,7 @@ a) Les éléments constants de la responsabilité civile délictuelle :
 
 - le dommage ;
 
-- le lien de causalité.
+- le lien de causalité ;
 
 b) L'élément variable de la responsabilité civile délictuelle : le fait générateur :
 
@@ -530,7 +530,7 @@ b) L'élément variable de la responsabilité civile délictuelle : le fait gén
 
 - la responsabilité du fait des choses ;
 
-- la responsabilité du fait d'autrui.
+- la responsabilité du fait d'autrui ;
 
 c) La mise en œuvre de la responsabilité civile délictuelle :
 
@@ -542,17 +542,17 @@ Le droit des biens
 
 1. Les fondements du droit des biens :
 
-a) La notion de biens.
+a) La notion de biens ;
 
-b) Les classifications des biens.
+b) Les classifications des biens ;
 
 c) Le réceptacle des biens : le patrimoine.
 
 2. La possession :
 
-a) La notion de possession.
+a) La notion de possession ;
 
-b) Les effets de la possession.
+b) Les effets de la possession ;
 
 c) La protection de la possession.
 
@@ -564,33 +564,33 @@ a) La structure du droit de propriété :
 
 - les attributs du droit de propriété ;
 
-- les limites apportées à l'exercice de droit de propriété.
+- les limites apportées à l'exercice de droit de propriété ;
 
-b) L'acquisition de la propriété.
+b) L'acquisition de la propriété ;
 
 c) L'étendue du droit de propriété :
 
 - dans l'espace ;
 
-- dans le temps : l'accession.
+- dans le temps : l'accession ;
 
 d) La protection de la propriété :
 
 - l'action en revendication ;
 
-- la preuve du droit de propriété.
+- la preuve du droit de propriété ;
 
 e) Les modalités du droit de propriété :
 
 - l'indivision ;
 
-- la copropriété des immeubles bâtis.
+- la copropriété des immeubles bâtis ;
 
 f) Les servitudes.
 
 4. Les démembrements de la propriété :
 
-a) L'usufruit et la nue-propriété.
+a) L'usufruit et la nue-propriété ;
 
 b) L'usage et l'habitation : les diminutifs de l'usufruit.
 
@@ -598,31 +598,31 @@ Géographie économique et humaine
 
 1. Les grands ensembles régionaux du monde :
 
-a) La triade (Amérique du Nord, Europe, Asie orientale) et la globalisation.
+a) La triade (Amérique du Nord, Europe, Asie orientale) et la globalisation ;
 
-b) Pays en développement et pays émergents.
+b) Pays en développement et pays émergents ;
 
 c) L'Europe et ses voisins (monde russe, Proche-Orient, Maghreb).
 
-2. L'espace urbain.
+2. L'espace urbain ;
 
 a) La ville :
 
 - définitions ;
 
-- délimitation.
+- délimitation ;
 
-b) L'urbanisation dans le monde.
+b) L'urbanisation dans le monde ;
 
-c) Les réseaux urbains en France et en Europe.
+c) Les réseaux urbains en France et en Europe ;
 
 d) L'espace urbain et les sociétés urbaines.
 
 3. L'espace rural :
 
-a) Les espaces ruraux dans le monde.
+a) Les espaces ruraux dans le monde ;
 
-b) Les mutations agricoles.
+b) Les mutations agricoles ;
 
 c) L'incidence de la politique agricole commune sur l'espace rural français.
 
@@ -630,63 +630,61 @@ Histoire contemporaine
 
 1. La construction du monde contemporain (de 1945 aux années 1960) :
 
-a) Le monde en 1945.
+a) Le monde en 1945 ;
 
-b) Le modèle communiste et son expansion mondiale.
+b) Le modèle communiste et son expansion mondiale ;
 
-c) Puissance et influence du modèle américain.
+c) Puissance et influence du modèle américain ;
 
-d) La renaissance de l'Europe et ses limites.
+d) La renaissance de l'Europe et ses limites ;
 
-e) La fin des empires coloniaux.
+e) La fin des empires coloniaux ;
 
 f) Un monde bipolaire : guerre froide et coexistence pacifique.
 
-2. La croissance et la crise (des années 60 à la fin des années 80) :
+2. La croissance et la crise (des années 1960 à la fin des années 1980) :
 
-a) La croissance économique et la société de la prospérité (1950-1973).
+a) La croissance économique et la société de la prospérité (1950-1973) ;
 
-b) Les relations Est-Ouest à l'heure de l'équilibre.
+b) Les relations Est-Ouest à l'heure de l'équilibre ;
 
-c) Le tiers-monde à l'écart de la croissance.
+c) Le tiers-monde à l'écart de la croissance ;
 
-d) La longue crise, sa signification et ses retombées sociales.
+d) La longue crise, sa signification et ses retombées sociales ;
 
-e) L'échec du modèle communiste en Europe et la fin de l'URSS.
+e) L'échec du modèle communiste en Europe et la fin de l'URSS ;
 
 f) L'élaboration d'un nouvel ordre mondial dominé par l'hyperpuissance américaine.
 
 3. La France depuis 1945 :
 
-a) La reconstruction politique et économique de la France après 1945.
+a) La reconstruction politique et économique de la France après 1945 ;
 
-b) Les guerres coloniales et l'échec de la IVe République.
+b) Les guerres coloniales et l'échec de la IVe République ;
 
-c) Naissance et consolidation de la Ve République (1958-1969).
+c) Naissance et consolidation de la Ve République (1958-1969) ;
 
-d) La Ve République après 1969 : les expériences néogaullistes, libérales, socialistes.
+d) La Ve République après 1969 : les expériences néo-gaullistes, libérales, socialistes ;
 
-e) L'évolution de la Ve République au temps des alternances et des cohabitations (1986-2002).
+e) L'évolution de la Ve République au temps des alternances et des cohabitations (1986-2002) ;
 
 f) Les mutations sociales et culturelles depuis 1945.
 
 4. Le monde au début du xxie siècle :
 
-a) L'hyperpuissance américaine.
+a) L'hyperpuissance américaine ;
 
-b) La mondialisation : signification, aspects et problèmes.
+b) La mondialisation : signification, aspects et problèmes ;
 
-c) La percée de l'islam intégriste et la menace du terrorisme.
+c) La percée de l'islam intégriste et la menace du terrorisme ;
 
-d) Approfondissement et élargissement de la construction européenne.
+d) Approfondissement et élargissement de la construction européenne ;
 
-e) Les contrastes de l'aire asiatique.
+e) Les contrastes de l'aire asiatique ;
 
 f) La diversité des tiers-mondes.
 
-Technologies de l'information
-
-et de la communication
+Technologies de l'information et de la communication
 
 1. Programmation-algorithmique :
 
@@ -704,7 +702,7 @@ Architecture : circuits logiques, représentation des nombres, processeur, jeu d
 
 Système : système de fichiers, processus.
 
-Réseau : architecture des réseaux locaux, protocoles internet (pile TCP/ IP et protocoles applicatifs).
+Réseau : architecture des réseaux locaux, protocoles Internet (pile TCP/ IP et protocoles applicatifs).
 
 Sciences économiques
 
@@ -718,7 +716,7 @@ a) Les grandeurs de la macroéconomie :
 
 - revenus et patrimoine ;
 
-- consommation, épargne et investissement.
+- consommation, épargne et investissement ;
 
 b) L'analyse économique :
 
@@ -738,13 +736,13 @@ a) Modèles de croissance :
 
 - modèle néoclassique de croissance ;
 
-- théorie de la croissance endogène.
+- théorie de la croissance endogène ;
 
 b) Les cycles :
 
 - cycles longs et cycles d'affaires ;
 
-- explications du cycle.
+- explications du cycle ;
 
 c) Dynamique des prix et de l'emploi :
 
@@ -760,7 +758,7 @@ a) Théorie de l'échange international :
 
 - formes de l'échange, systèmes productifs et répartition ;
 
-- modèle ricardien, modèle HOS, nouvelles théories du commerce international.
+- modèle ricardien, modèle HOS, nouvelles théories du commerce international ;
 
 b) Le cadre institutionnel des échanges : GATT, OMC.
 
@@ -770,9 +768,9 @@ a) Les régimes de change :
 
 - changes fixes/ changes flottants ;
 
-- le système monétaire international depuis 1944, le FMI.
+- le système monétaire international depuis 1944, le FMI ;
 
-b) Les théories du change et les politiques de change.
+b) Les théories du change et les politiques de change ;
 
 c) Finance internationale :
 
@@ -788,7 +786,7 @@ a) Politique conjoncturelle et politique structurelle :
 
 - chocs exogènes et endogènes ;
 
-- réformes structurelles.
+- réformes structurelles ;
 
 b) Le budget :
 
@@ -796,25 +794,23 @@ b) Le budget :
 
 - solde budgétaire ;
 
-- dette publique.
+- dette publique ;
 
 c) La monnaie :
 
 - le rôle de la Banque centrale ;
 
-- les outils de la politique monétaire.
+- les outils de la politique monétaire ;
 
 d) Les objectifs de la politique économique :
 
 - soutien de l'activité : la tradition keynésienne et ses prolongements ;
 
-- stabilité des prix : la tradition néoclassique et ses prolongements.
+- stabilité des prix : la tradition néoclassique et ses prolongements ;
 
 e) La politique économique au sein de l'Union européenne.
 
-Sociologie des organisations
-
-et gestion des ressources humaines
+Sociologie des organisations et gestion des ressources humaines
 
 1. Le système social :
 
@@ -852,87 +848,87 @@ Mathématiques
 
 1. Logique :
 
-a) Connecteurs.
+a) Connecteurs ;
 
 b) Raisonnement par récurrence.
 
 2. Arithmétique :
 
-a) Division euclidienne, PGCD, algorithme d'Euclide.
+a) Division euclidienne, PGCD, algorithme d'Euclide ;
 
-b) Décomposition en facteurs premiers.
+b) Décomposition en facteurs premiers ;
 
-c) Entiers premiers entre eux, théorème de Bezout, théorème de Gauss.
+c) Entiers premiers entre eux, théorème de Bezout, théorème de Gauss ;
 
 d) Application à la cryptographie RSA.
 
 3. Polynômes :
 
-a) Division euclidienne, PGCD normalisé.
+a) Division euclidienne, PGCD normalisé ;
 
-b) Racine d'un polynôme.
+b) Racine d'un polynôme ;
 
 c) Décomposition en facteurs irréductibles.
 
 4. Suites et séries :
 
-a) Convergence d'une suite numérique, critère de convergence.
+a) Convergence d'une suite numérique, critère de convergence ;
 
-b) Suite de Cauchy.
+b) Suite de Cauchy ;
 
-c) Séries numériques, critères de convergence des séries numériques positives.
+c) Séries numériques, critères de convergence des séries numériques positives ;
 
 d) Suite et séries de fonctions réelles, convergence simple, convergence normale.
 
 5. Fonctions réelles d'une variable :
 
-a) Limite, comparaison de fonctions, continuité, dérivabilité.
+a) Limite, comparaison de fonctions, continuité, dérivabilité ;
 
-b) Théorème de Rolle, théorème des accroissements finis.
+b) Théorème de Rolle, théorème des accroissements finis ;
 
-c) Formules de Taylor, développements limités, applications aux calculs de limites et d'asymptote.
+c) Formules de Taylor, développements limités, applications aux calculs de limites et d'asymptote ;
 
 d) Tableau de variations et représentation graphique.
 
 6. Intégration :
 
-a) Intégration des fonctions continues sur un segment, somme de Riemann.
+a) Intégration des fonctions continues sur un segment, somme de Riemann ;
 
-b) Intégration par parties, changement de variable.
+b) Intégration par parties, changement de variable ;
 
-c) décomposition et intégration des fractions rationnelles.
+c) Décomposition et intégration des fractions rationnelles ;
 
 d) Intégrales généralisées, intégrales de Riemann, critères de convergence.
 
 7. Equations différentielles :
 
-a) Equations différentielles du premier ordre linéaires.
+a) Equations différentielles du premier ordre linéaires ;
 
-b) Equations différentielles du second ordres à coefficients constants.
+b) Equations différentielles du second ordre à coefficients constants.
 
 8. Fonctions de plusieurs variables :
 
-a) Limite, continuité.
+a) Limite, continuité ;
 
-b) Différentiabilité, dérivées partielles.
+b) Différentiabilité, dérivées partielles ;
 
-c) extrema libres, extrema liés.
+c) Extrema libres, extrema liés.
 
 9. Nombres complexes :
 
-a) Module et argument, forme exponentielle.
+a) Module et argument, forme exponentielle ;
 
-b) Racine nième d'un nombre complexe.
+b) Racine nième d'un nombre complexe ;
 
 c) Applications des nombres complexes à la géométrie.
 
 10. Algèbre linéaire en dimension finie :
 
-a) Familles libres, familles génératrices, bases, dimension.
+a) Familles libres, familles génératrices, bases, dimension ;
 
-b) Applications linéaires, image, noyau.
+b) Applications linéaires, image, noyau ;
 
-c) Matrices, calcul matriciel, déterminant.
+c) Matrices, calcul matriciel, déterminant ;
 
 d) Diagonalisation des endomorphismes.
 
@@ -940,25 +936,25 @@ Statistique
 
 1. Statistique descriptive :
 
-a) Indicateurs de tendance centrale.
+a) Indicateurs de tendance centrale ;
 
-b) Indicateurs de dispersion, concentration.
+b) Indicateurs de dispersion, concentration ;
 
 c) Régression linéaire, corrélation et ajustement.
 
 2. Statistique mathématique :
 
-a) Echantillonnage.
+a) Echantillonnage ;
 
-b) Estimation ponctuelle, par intervalles.
+b) Estimation ponctuelle, par intervalles ;
 
 c) Tests paramétriques, non paramétriques.
 
 3. Statistiques multidimensionnelle :
 
-a) Tableau de correspondances, technique de codage.
+a) Tableau de correspondances, technique de codage ;
 
-b) Analyse générale, en composantes principales.
+b) Analyse générale, en composantes principales ;
 
 c) Analyse des correspondances simples, binaires, multiples.
 
@@ -968,9 +964,9 @@ Psychologie
 
 a) Typologie et personnalité : impact des facteurs environnementaux, génétiques et épidémiologiques ;
 
-b) Approche sémiologique, épidémiologique et étiologique des pathologies comportementales à risque (troubles bipolaires, schizophrénie, addictions...) : les classifications internationales (CIM-10 et DSM-IV TR).
+b) Approche sémiologique, épidémiologique et étiologique des pathologies comportementales à risque (troubles bipolaires, schizophrénie, addictions...) : les classifications internationales (CIM-10 et DSM-IV TR) ;
 
-c) Troubles des conduites et addictions.
+c) Troubles des conduites et addictions ;
 
 d) Les interventions thérapeutiques scientifiquement fondées :
 
@@ -978,13 +974,13 @@ d) Les interventions thérapeutiques scientifiquement fondées :
 
 - les interventions psycho-éducatives ;
 
-- la notion de projet thérapeutique.
+- la notion de projet thérapeutique ;
 
 e) Enfance, risques et prévention précoce :
 
 - la maltraitance et les abus sexuels ;
 
-- psychopathologie des violences intrafamiliales.
+- psychopathologie des violences intrafamiliales ;
 
 f) Approches psychologiques de la délinquance et des violences juvéniles :
 
@@ -1008,11 +1004,11 @@ b) La gestion des communications dans le travail :
 
 3. Psychologie sociale :
 
-a) Approches psychosociales des comportements d'agression.
+a) Approches psychosociales des comportements d'agression ;
 
-b) Les phénomènes de groupe : leadership, imitation et conduites de transgression.
+b) Les phénomènes de groupe : leadership, imitation et conduites de transgression ;
 
-c) Identités de groupe et relations interculturelles.
+c) Identités de groupe et relations interculturelles ;
 
 d) Formation des impressions, catégorisation sociale et comportements :
 
@@ -1022,9 +1018,105 @@ d) Formation des impressions, catégorisation sociale et comportements :
 
 Concours interne
 
+Le déminage
+
+1. La pyrotechnie :
+
+a) Les matériaux actifs énergétiques : classification, familles, propriétés, effets, emplois :
+
+- poudres ;
+
+- explosifs ;
+
+- compositions pyrotechniques ;
+
+b) Les chargements d'emploi particulier : classification, familles, propriétés, effets, emplois :
+
+- chargements toxiques ;
+
+- chargements fumigènes ;
+
+- chargements incendiaires ;
+
+c) La sécurité pyrotechnique et la réglementation concernant :
+
+- le stockage ;
+
+- les manipulations ;
+
+- le transport (réglementation ADR) ;
+
+- les destructions ;
+
+- le classement des objets et matières explosibles (division de risques, groupes de compatibilité, probabilité d'accidents, zones de dangers, études de sécurité pyrotechniques).
+
+2. Les interventions sur objets suspects à but d'attentat :
+
+a) Historique et évolution des engins à but de terrorisme :
+
+- analyse de la menace ;
+
+b) Composants, constitution, modes de fonctionnement des engins :
+
+- évolution des chargements explosifs (industriels, militaires, artisanaux) ;
+
+- les différents types de fonctionnement (mécaniques, électriques, électroniques et chimiques) ;
+
+c) Evolution de la menace : les engins NR, B et C ;
+
+d) Les moyens de détection, d'identification, de lever de doute, de protection et de confinement ;
+
+e) Evaluation des zones de danger ;
+
+f) Le cadre juridique des interventions, le rôle du DCI ;
+
+g) La méthodologie d'intervention ;
+
+h) Les matériels d'intervention et leurs mises en œuvre ;
+
+i) Les règles de protection et de sécurité ;
+
+j) Radioprotection ;
+
+k) La préservation des preuves.
+
+3. Technologie munitionnaire :
+
+Connaissance des principales familles de munitions (française, britannique, allemande, italienne et russe), organisation, amorçage, effets terminaux (effet de souffle, effet de fragmentation, charge creuse, charge d'écrasement, charge génératrice de noyaux, effet thermique, effet de bulles).
+
+a) Le désobusage :
+
+- grenades à main, grenades à fusils ;
+
+- projectiles pour lanceurs spécialisés ;
+
+- munitions pour canon ;
+
+- munitions pour mortier ;
+
+- munitions autopropulsées (roquettes et missiles) ;
+
+- mines terrestres.
+
+b) Le débombage :
+
+- bombes d'aviation ;
+
+- sous-munitions ;
+
+- roquettes (air-sol, air-air).
+
+c) L'intervention :
+
+- procédures et matériels d'intervention (détection, neutralisation, démantèlement, transport, stockage, destruction, incinération) ;
+
+- organisation d'un chantier de dépollution pyrotechnique (détection, désobusage, débombage) ;
+
+- modes opératoires et règles de sécurité.
+
 Droit pénal général
 
-Notions générales d'histoire du droit pénal, de criminologie et de science pénitentiaire :
+Notions générales d'histoire du droit pénal, de criminologie et de science pénitentiaire
 
 1. La loi pénale.
 
@@ -1034,7 +1126,7 @@ a) La loi pénale en elle-même :
 
 - sa nature ;
 
-- son domaine d'application dans le temps et dans l'espace.
+- son domaine d'application dans le temps et dans l'espace ;
 
 b) La loi pénale et le juge :
 
@@ -1042,7 +1134,7 @@ b) La loi pénale et le juge :
 
 - l'interprétation de la loi ;
 
-- le contrôle de régularité de la loi.
+- le contrôle de régularité de la loi ;
 
 c) La loi pénale et l'infraction :
 
@@ -1062,7 +1154,7 @@ a) La responsabilité pénale du délinquant :
 
 - la distinction personne physique/ personne morale, mineur/ majeur ;
 
-- le cas particulier des responsables politiques.
+- le cas particulier des responsables politiques ;
 
 b) L'irresponsabilité pénale du délinquant :
 
@@ -1074,9 +1166,9 @@ b) L'irresponsabilité pénale du délinquant :
 
 3. Les peines :
 
-a) La peine encourue.
+a) La peine encourue ;
 
-b) La peine prononcée.
+b) La peine prononcée ;
 
 c) La peine exécutée.
 
@@ -1086,35 +1178,35 @@ Procédure pénale
 
 2. Les acteurs de la procédure pénale :
 
-a) Police judiciaire.
+a) Police judiciaire ;
 
-b) Parquet.
+b) Parquet ;
 
-c) Avocats.
+c) Avocats ;
 
-d) Juridictions d'instruction, de jugement et d'application des peines.
+d) Juridictions d'instruction, de jugement et d'application des peines ;
 
 e) Cour pénale internationale et les tribunaux pénaux internationaux.
 
 3. La dynamique de la procédure pénale :
 
-a) Action publique.
+a) Action publique ;
 
 b) Action civile.
 
 4. La mise en état des affaires pénales :
 
-a) La preuve pénale.
+a) La preuve pénale ;
 
-b) Les enquêtes de police.
+b) Les enquêtes de police ;
 
 c) L'instruction préparatoire.
 
 5. Le jugement des affaires pénales :
 
-a) Les diverses procédures de jugement.
+a) Les diverses procédures de jugement ;
 
-b) Les voies de recours internes.
+b) Les voies de recours internes ;
 
 c) Les voies de recours internationales.
 
@@ -1146,75 +1238,75 @@ Droit pénal spécial
 
 1. Les crimes et délits contre les personnes :
 
-a) Les atteintes volontaires à la vie.
+a) Les atteintes volontaires à la vie ;
 
-b) Les atteintes involontaires à la vie et à l'intégrité de la personne.
+b) Les atteintes involontaires à la vie et à l'intégrité de la personne ;
 
-c) Les atteintes volontaires à l'intégrité physique et psychique de la personne.
+c) Les atteintes volontaires à l'intégrité physique et psychique de la personne ;
 
-d) Les agressions sexuelles : le viol, les autres agressions sexuelles, l'exhibition sexuelle et le harcèlement sexuel.
+d) Les agressions sexuelles : le viol, les autres agressions sexuelles, l'exhibition sexuelle et le harcèlement sexuel ;
 
-e) La mise en danger de la personne.
+e) La mise en danger de la personne ;
 
 f) Les atteintes aux libertés de la personne.
 
 2. Les crimes et délits contre les biens :
 
-a) Le vol.
+a) Le vol ;
 
-b) L'escroquerie.
+b) L'escroquerie ;
 
-c) Les infractions voisines de l'escroquerie.
+c) Les infractions voisines de l'escroquerie ;
 
-d) Le recel et la non-justification de ressources.
+d) Le recel et la non-justification de ressources ;
 
-e) L'immunité familiale.
+e) L'immunité familiale ;
 
 f) Les destructions, dégradations et détériorations.
 
 3. Les crimes et délits contre la Nation, l'Etat et la paix publique :
 
-a) Les abus d'autorité commis contre les particuliers.
+a) Les abus d'autorité commis contre les particuliers ;
 
-b) Les manquements au devoir de probité.
+b) Les manquements au devoir de probité ;
 
-c) Les atteintes à l'administration publique commises par les particuliers.
+c) Les atteintes à l'administration publique commises par les particuliers ;
 
-d) L'usurpation de fonctions.
+d) L'usurpation de fonctions ;
 
 e) L'usurpation de signes réservés à l'autorité publique.
 
 4. Les atteintes à la dignité de la personne :
 
-a) Les discriminations.
+a) Les discriminations ;
 
-b) La traite des êtres humains.
+b) La traite des êtres humains ;
 
-c) Le proxénétisme et les infractions assimilées.
+c) Le proxénétisme et les infractions assimilées ;
 
-d) le recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.
+d) Le recours à la prostitution de mineurs ou de personnes particulièrement vulnérables ;
 
-e) Les conditions de travail et d'hébergement contraires à la dignité de la personne humaine.
+e) Les conditions de travail et d'hébergement contraires à la dignité de la personne humaine ;
 
 f) Les atteintes au respect dû aux morts.
 
 5. Les atteintes aux mineurs et à la famille :
 
-a) Le délaissement de mineur.
+a) Le délaissement de mineur ;
 
-b) L'abandon de famille.
+b) L'abandon de famille ;
 
-c) Les atteintes à l'exercice de l'autorité parentale.
+c) Les atteintes à l'exercice de l'autorité parentale ;
 
-d) Les atteintes à la filiation.
+d) Les atteintes à la filiation ;
 
 e) La mise en péril des mineurs.
 
 6. L'usage et le trafic de stupéfiants :
 
-a) Définition légale des stupéfiants.
+a) Définition légale des stupéfiants ;
 
-b) Usage et provocation à l'usage illicite de stupéfiants.
+b) Usage et provocation à l'usage illicite de stupéfiants ;
 
 c) Le trafic de stupéfiants.
 
@@ -1226,10 +1318,10 @@ c) Le trafic de stupéfiants.
 
 10. Les détournements :
 
-a) L'abus de confiance.
+a) L'abus de confiance ;
 
-b) La destruction ou détournement d'objet gage.
+b) La destruction ou détournement d'objet gage ;
 
-c) La destruction ou détournement d'objet saisi.
+c) La destruction ou détournement d'objet saisi ;
 
 d) L'organisation frauduleuse d'insolvabilité.

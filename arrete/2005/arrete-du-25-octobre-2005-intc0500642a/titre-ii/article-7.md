@@ -8,7 +8,7 @@ La composition des jurys est fixée comme suit :
 
 - deux magistrats de l'ordre judiciaire, dont le vice-président du jury ;
 
-- deux administrateurs civils ou attachés principaux affectés au ministère de l'intérieur et de l'aménagement du territoire ;
+- deux administrateurs civils ou attachés principaux affectés au ministre chargé de l'intérieur ;
 
 - deux membres du corps de conception et de direction de la police nationale ;
 
@@ -20,7 +20,7 @@ La composition des jurys est fixée comme suit :
 
 - deux magistrats de l'ordre judiciaire, dont le vice-président du jury ;
 
-- un administrateur civil ou attaché principal d'administration affecté au ministère de l'intérieur et de l'aménagement du territoire ;
+- un administrateur civil ou attaché principal affecté au ministère chargé de l'intérieur ;
 
 - deux membres du corps de conception et de direction de la police nationale ;
 
