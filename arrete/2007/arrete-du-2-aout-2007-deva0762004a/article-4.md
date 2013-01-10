@@ -134,4 +134,14 @@ Jusqu'au 1er novembre 2017 :
 
 Bordeaux - Marrakech (Maroc).
 
+Jusqu'au 31 décembre 2017 :
+
+Paris-Casablanca (Maroc) ;
+
+Paris-Marrakech (Maroc) ;
+
+Toulon-Alger (Algérie) ;
+
+Toulon-Oran (Algérie).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
