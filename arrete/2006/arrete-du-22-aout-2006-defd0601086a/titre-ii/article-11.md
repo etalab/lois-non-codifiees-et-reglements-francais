@@ -2,7 +2,7 @@
 
 Sont directement subordonnés au chef d'état-major de la marine les autorités et organismes suivants :
 
-1. L'inspection de la marine nationale et l'inspecteur du service de santé pour la marine ;
+1. L'inspection de la marine nationale ;
 
 2. Le délégué au rayonnement de la marine ;
 
