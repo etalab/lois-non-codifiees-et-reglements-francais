@@ -1,0 +1,4 @@
+# TITRE III : MODALITÉS TRANSITOIRES DE FONCTIONNEMENT  DU CONSEIL D'ADMINISTRATION
+
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
