@@ -8,7 +8,7 @@ En application de l'article 3 du décret du 23 décembre 2010 susvisé et dans l
 
 ― adjoint au directeur interrégional des services pénitentiaires ;
 
-― adjoint au directeur de l'Ecole nationale d'administration pénitentiaire ;
+―           directeur de l'Ecole nationale d'administration pénitentiaire  ;
 
 ― directeur fonctionnel des services pénitentiaires d'insertion et de probation des Bouches-du-Rhône ;
 

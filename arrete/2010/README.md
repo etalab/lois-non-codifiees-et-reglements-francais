@@ -1986,7 +1986,6 @@
 - [Arrêté du 22 décembre 2009 (ECES0931228A)](arrete-du-22-decembre-2009-eces0931228a)
 - [Arrêté du 22 décembre 2009 (MAEA0928771A)](arrete-du-22-decembre-2009-maea0928771a)
 - [Arrêté du 22 décembre 2009 (MAEA0929192A)](arrete-du-22-decembre-2009-maea0929192a)
-- [Arrêté du 22 décembre 2009 (MENE0930032A)](arrete-du-22-decembre-2009-mene0930032a)
 - [Arrêté du 22 décembre 2010 (AGRG1029678A)](arrete-du-22-decembre-2010-agrg1029678a)
 - [Arrêté du 22 décembre 2010 (AGRS1032580A)](arrete-du-22-decembre-2010-agrs1032580a)
 - [Arrêté du 22 décembre 2010 (BCRS1033409A)](arrete-du-22-decembre-2010-bcrs1033409a)
