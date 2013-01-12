@@ -1,4 +1,4 @@
-# Arrêté du 1er juillet 2008 portant création de la mention " haltérophilie, musculation et force athlétique ” du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement sportif ”
+# Arrêté du 21 décembre 2012 portant organisation de la direction générale de la sécurité extérieure
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,3 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)

@@ -1,4 +1,4 @@
-# Arrêté du 1er juillet 2008 portant création de la mention " haltérophilie, musculation et force athlétique ” du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement sportif ”
+# Arrêté du 7 janvier 2013 relatif aux modes de calcul de l'affectation des quotas d'émission de gaz à effet de serre
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
