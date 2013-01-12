@@ -1,3 +1,0 @@
-# TITRE II :   ADMISSION DES ÉTUDIANTS   EN FORMATION DE SPÉCIALISATION
-
-- [Article 3](article-3.md)
