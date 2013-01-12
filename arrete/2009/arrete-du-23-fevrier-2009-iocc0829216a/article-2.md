@@ -8,4 +8,6 @@ L'inspection technique comprend :
 
 ― le bureau des audits, de la réglementation et des affaires juridiques ;
 
-― le bureau des expertises techniques et opérationnelles et des enquêtes disciplinaires.
+― le bureau des expertises techniques et opérationnelles et des enquêtes disciplinaires ;
+
+― le bureau de défense et de protection du secret.

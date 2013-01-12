@@ -1,6 +1,6 @@
 # Article 8
 
-Dans les cinq ans suivant la date de publication du présent arrêté, les titulaires :
+Dans les six ans suivant la date de publication du présent arrêté, les titulaires :
 
 ― du brevet d'Etat d'éducateur sportif du premier degré option « judo-jujitsu » ; ou
 

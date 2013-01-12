@@ -1,7 +1,5 @@
 # Article 
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -21,7 +19,9 @@
 <tr>
 <td align="center">Direction zonale de Paris<br/>
 </td>
-<td align="center">Zone Paris (Ile-de-France)<br/>
+<td align="center">
+<p align="center">Zone Paris (Ile-de-France)<br/>
+</p>
 </td>
 <td align="center">Ile-de-France<br/>
 </td>
@@ -730,7 +730,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Centre de formation des CRS de Toulouse<br/>
+<td align="center">
+<p align="center">Centre de formation des CRS de Toulouse<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -743,13 +745,21 @@
 </td>
 </tr>
 <tr>
-<td align="center">Direction zonale Sud <br/>
+<td align="center">
+<p align="center">Direction zonale Sud <br/>
+</p>
 </td>
-<td align="center">Zone Sud (siège : Marseille)<br/>
+<td align="center">
+<p align="center">Zone Sud (siège : Marseille)<br/>
+</p>
 </td>
-<td align="center">Corse<br/>
+<td align="center">
+<p align="center">Corse<br/>
+</p>
 </td>
-<td align="center">Corse-du-Sud, Haute-Corse<br/>
+<td align="center">
+<p align="center">Corse-du-Sud, Haute-Corse<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -764,31 +774,26 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 6 Nice (Saint-Laurent-du-Var) (1) (6) <br/>
+<td align="center">
+<p align="center">CRS n° 6 Nice<br/>(Saint-Laurent-du-Var) (1) (6) <br/>
+</p>
 </td>
 <td align="center">
 <br/>
 </td>
-<td align="center">Provence-Alpes-Côte d'Azur<br/>
+<td align="center">
+<p align="center">Provence-Alpes-Côte d'Azur<br/>
+</p>
 </td>
-<td align="center">Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse<br/>
+<td align="center">
+<p align="center">Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 53 Marseille<br/>
-</td>
 <td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 54 Marseille<br/>
+<p align="center">CRS n° 53 Marseille<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -801,7 +806,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 55 Marseille (1)<br/>
+<td align="center">
+<p align="center">CRS n° 54 Marseille<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -814,7 +821,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 56 Montpellier (1)<br/>
+<td align="center">
+<p align="center">CRS n° 55 Marseille (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -827,7 +836,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 57 Carcassonne<br/>
+<td align="center">
+<p align="center">CRS n° 56 Montpellier (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -840,7 +851,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 58 Perpignan (6)<br/>
+<td align="center">
+<p align="center">CRS n° 57 Carcassonne<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -853,7 +866,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 59 Toulon (Ollioules) (3)<br/>
+<td align="center">
+<p align="center">CRS n° 58 Perpignan (6)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -866,7 +881,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 60 Avignon (Montfavet) (1)<br/>
+<td align="center">
+<p align="center">CRS n° 59 Toulon (Ollioules) (3)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -879,7 +896,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS autoroutière Provence (Marseille)<br/>
+<td align="center">
+<p align="center">CRS n° 60 Avignon (Montfavet) (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -892,7 +911,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Délégation des CRS de Corse (Ajaccio)<br/>
+<td align="center">
+<p align="center">CRS autoroutière Provence (Marseille)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -905,7 +926,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Délégation des CRS de Languedoc-Roussillon (Montpellier)<br/>
+<td align="center">
+<p align="center">Délégation des CRS de Corse (Ajaccio)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -918,7 +941,24 @@
 </td>
 </tr>
 <tr>
-<td align="center">Unité motocycliste zonale des CRS Sud (Marseille)<br/>
+<td align="center">
+<p align="center">Délégation des CRS de Languedoc-Roussillon (Montpellier)<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Unité motocycliste zonale des CRS Sud (Marseille)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -933,7 +973,9 @@
 <tr>
 <td align="center">Direction zonale Sud-Est<br/>
 </td>
-<td align="center">Zone Sud-Est (siège : Lyon)<br/>
+<td align="center">
+<p align="center">Zone Sud-Est (siège : Lyon)<br/>
+</p>
 </td>
 <td align="center">Auvergne<br/>
 </td>
@@ -941,96 +983,91 @@
 </td>
 </tr>
 <tr>
-<td align="center">Siège : Lyon<br/>
+<td align="center">
+<p align="center">Siège : Lyon<br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Rhône-Alpes<br/>
+<td align="center">
+<p align="center">Rhône-Alpes<br/>
+</p>
 </td>
-<td align="center">Ain, Ardèche, Drôme, Haute-Savoie, Isère, Loire, Rhône, Savoie<br/>
+<td align="center">
+<p align="center">Ain, Ardèche, Drôme, Haute-Savoie, Isère, Loire, Rhône, Savoie<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 34 Roanne<br/>
+<td align="center">
+<p align="center">CRS n° 34 Roanne<br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 45 Lyon (Chassieu)<br/>
+<td align="center">
+<p align="center">CRS n° 45 Lyon (Chassieu)<br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 46 Lyon (Sainte Foy-lès-Lyon) (1)<br/>
+<td align="center">
+<p align="center">CRS n° 46 Lyon (Sainte Foy-lès-Lyon) (1)<br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 47 Grenoble (1)<br/>
-</td>
 <td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 48 Clermont-Ferrand (Aubière) (1)<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 49 Montélimar<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 50 Saint-Etienne (La Talaudière) (4)<br/>
+<p align="center">CRS n° 47 Grenoble (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1043,7 +1080,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS autoroutière Rhône-Alpes-Auvergne Lyon (Chassieu)<br/>
+<td align="center">
+<p align="center">CRS n° 48 Châtel-Guyon (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1056,7 +1095,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS Alpes (détachements de Grenoble, Alberville, Briançon)<br/>
+<td align="center">
+<p align="center">CRS n° 49 Montélimar<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1069,7 +1110,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Unité motocycliste zonale des CRS Sud-Est (Lyon)<br/>
+<td align="center">
+<p align="center">CRS n° 50 Saint-Etienne (La Talaudière) (4)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1082,7 +1125,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Centre national d'entraînement à l'alpinisme et au ski (Chamonix)<br/>
+<td align="center">
+<p align="center">CRS autoroutière Rhône-Alpes-Auvergne Lyon (Chassieu)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1095,7 +1140,54 @@
 </td>
 </tr>
 <tr>
-<td align="center">Centre de formation des CRS de Sainte-Foy-lès-Lyon<br/>
+<td align="center">
+<p align="center">CRS Alpes (détachements de Grenoble, Alberville, Briançon)<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Unité motocycliste zonale des CRS Sud-Est (Lyon)<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Centre national d'entraînement à l'alpinisme et au ski (Chamonix)<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Centre de formation des CRS de Sainte-Foy-lès-Lyon<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1110,7 +1202,9 @@
 <tr>
 <td align="center">Direction zonale Est<br/>
 </td>
-<td align="center">Zone Est (siège : Metz)<br/>
+<td align="center">
+<p align="center">Zone Est (siège : Châtel-Saint-Germain)<br/>
+</p>
 </td>
 <td align="center">Alsace<br/>
 </td>
@@ -1118,90 +1212,79 @@
 </td>
 </tr>
 <tr>
-<td align="center">Siège : Metz<br/>
-</td>
+<td align="center">Siège : Châtel-Saint-Germain </td>
 <td align="center">
 <br/>
 </td>
-<td align="center">Bourgogne<br/>
+<td align="center">
+<p align="center">Bourgogne<br/>
+</p>
 </td>
-<td align="center">Côte-d'Or, Nièvre, Saône-et-Loire, Yonne<br/>
+<td align="center">
+<p align="center">Côte-d'Or, Nièvre, Saône-et-Loire, Yonne<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 23 Charleville-Mézières<br/>
+<td align="center">
+<p align="center">CRS n° 23 Charleville-Mézières<br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Ardennes<br/>
+<td align="center">
+<p align="center">Ardennes<br/>
+</p>
 </td>
-<td align="center">Ardennes, Aube, Haute-Marne, Marne<br/>
+<td align="center">
+<p align="center">Ardennes, Aube, Haute-Marne, Marne<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 30 Metz<br/>
+<td align="center">
+<p align="center">CRS n° 30 Châtel-Saint-Germain </p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Franche-Comté<br/>
+<td align="center">
+<p align="center">Franche-Comté<br/>
+</p>
 </td>
-<td align="center">Doubs, Jura, Haute-Saône, Territoire de Belfort<br/>
+<td align="center">
+<p align="center">Doubs, Jura, Haute-Saône, Territoire de Belfort<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 33 Reims (1)<br/>
+<td align="center">
+<p align="center">CRS n° 33 Reims (1)<br/>
+</p>
 </td>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Lorraine<br/>
+<td align="center">
+<p align="center">Lorraine<br/>
+</p>
 </td>
-<td align="center">Meurthe-et-Moselle, Meuse, Moselle, Vosges<br/>
+<td align="center">
+<p align="center">Meurthe-et-Moselle, Meuse, Moselle, Vosges<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 35 Troyes<br/>
-</td>
 <td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 36 Thionville (1)<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 37 Strasbourg (5)<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CRS n° 38 Mulhouse (Illzach-Modenheim) (1)<br/>
+<p align="center">CRS n° 35 Troyes<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1214,7 +1297,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 39 Nancy (Jarville) (5)<br/>
+<td align="center">
+<p align="center">CRS n° 36 Châtel-Saint-Germain (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1227,7 +1312,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 40 Dijon (Pombières-lès-Dijon) (1)<br/>
+<td align="center">
+<p align="center">CRS n° 37 Strasbourg (5)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1240,7 +1327,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 43 Chalon-sur-Saône<br/>
+<td align="center">
+<p align="center">CRS n° 38 Mulhouse (Illzach-Modenheim) (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1253,7 +1342,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 44 Joigny <br/>
+<td align="center">
+<p align="center">CRS n° 39 Nancy (Jarville) (5)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1266,7 +1357,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS autoroutière Lorraine-Alsace (Metz)<br/>
+<td align="center">
+<p align="center">CRS n° 40 Dijon (Pombières-lès-Dijon) (1)<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1279,7 +1372,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Délégation des CRS d'Alsace (Strasbourg)<br/>
+<td align="center">
+<p align="center">CRS n° 43 Chalon-sur-Saône<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1292,7 +1387,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Unité motocycliste zonale des CRS Est (Metz)<br/>
+<td align="center">
+<p align="center">CRS n° 44 Joigny <br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1305,7 +1402,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Centre de formation des CRS de Dijon (Plombières-lès-Dijon)<br/>
+<td align="center">
+<p align="center">CRS autoroutière Lorraine-Alsace (Châtel-Saint-Germain )<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1318,10 +1417,55 @@
 </td>
 </tr>
 <tr>
-<td colspan="4">(1) Où réside un détachement de l'unité motocycliste zonale (DUMZ).<br/>(2) Où réside un détachement de la CRS autoroutière Nord - Pas-de-Calais.<br/>(3) Où réside un détachement de la CRS autoroutière Provence.<br/>(4) Où réside un détachement de la CRS autoroutière Rhône-Alpes-Auvergne.<br/>(5) Où réside un détachement de la CRS autoroutière Lorraine-Alsace.<br/>(6) Dont une section montagne.<br/>
+<td align="center">
+<p align="center">Délégation des CRS d'Alsace (Strasbourg)<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Unité motocycliste zonale des CRS Est (Châtel-Saint-Germain )<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Centre de formation des CRS de Dijon (Plombières-lès-Dijon)<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="left">(1) Où réside un détachement de l'unité motocycliste zonale (DUMZ).<br/>(2) Où réside un détachement de la CRS autoroutière Nord - Pas-de-Calais.<br/>(3) Où réside un détachement de la CRS autoroutière Provence.<br/>(4) Où réside un détachement de la CRS autoroutière Rhône-Alpes-Auvergne.<br/>(5) Où réside un détachement de la CRS autoroutière Lorraine-Alsace.<br/>(6) Dont une section montagne.<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
