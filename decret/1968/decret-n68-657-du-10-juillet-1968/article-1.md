@@ -14,6 +14,8 @@ Ecole du commissariat de la marine ;
 
 Ecole du commissariat de l'air ;
 
+Ecole des commissaires des armées ;
+
 Ecole de l'intendance.
 
 Cette prime est également allouée, dans les mêmes conditions, aux officiers recrutés en application de l'article 14-1 du décret du 22 décembre 1975 susvisé.
