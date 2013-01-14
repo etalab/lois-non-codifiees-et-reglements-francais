@@ -16,4 +16,6 @@ c) La langue de tournage.
 
 4° Toute pièce justifiant du respect des conditions énumérées à l'article 9-1 lorsque les prix de qualité sont décernés aux seuls réalisateurs ;
 
-5° Une copie du ou des contrats de cession portant sur les droits de propriété littéraire et artistique du ou des auteurs accompagnée de la justification de leur inscription au registre public de la cinématographie et de l'audiovisuel ou, à défaut de contrat de cession, une déclaration sur l'honneur du réalisateur inscrite au registre public de la cinématographie et de l'audiovisuel et attestant qu'il est seul détenteur du droit d'exploiter l'œuvre cinématographique.
+5° Une copie du ou des contrats de cession portant sur les droits de propriété littéraire et artistique du ou des auteurs accompagnée de la justification de leur inscription au registre public de la cinématographie et de l'audiovisuel ou, à défaut de contrat de cession, une déclaration sur l'honneur du réalisateur inscrite au registre public de la cinématographie et de l'audiovisuel et attestant qu'il est seul détenteur du droit d'exploiter l'œuvre cinématographique ;
+
+6° Le cas échéant, une copie du ou des contrats de cession portant sur les droits de propriété littéraire et artistique du ou des auteurs des compositions musicales accompagnant l'œuvre cinématographique de courte durée.
