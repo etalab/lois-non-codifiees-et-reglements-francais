@@ -335,7 +335,6 @@
 - [Arrêté du 29 mai 2006 (DEVP0650328A)](arrete-du-29-mai-2006-devp0650328a)
 - [Arrêté du 30 décembre 2005 (AGRP0502750A)](arrete-du-30-decembre-2005-agrp0502750a)
 - [Arrêté du 30 décembre 2005 (INTC0500859A)](arrete-du-30-decembre-2005-intc0500859a)
-- [Arrêté du 30 janvier 2006 (AGRP0600290A)](arrete-du-30-janvier-2006-agrp0600290a)
 - [Arrêté du 30 juin 2006 (ECOP0600220A)](arrete-du-30-juin-2006-ecop0600220a)
 - [Arrêté du 30 mars 2006 (DEFA0600400A)](arrete-du-30-mars-2006-defa0600400a)
 - [Arrêté du 30 mars 2006 (DEFA0600401A)](arrete-du-30-mars-2006-defa0600401a)
