@@ -3149,7 +3149,6 @@
 - [Arrêté du 30 août 2012 (MENH1228928A)](arrete-du-30-aout-2012-menh1228928a)
 - [Arrêté du 30 avril 2012 (BCRE1202957A)](arrete-du-30-avril-2012-bcre1202957a)
 - [Arrêté du 30 avril 2012 (DEFD1222770A)](arrete-du-30-avril-2012-defd1222770a)
-- [Arrêté du 30 avril 2012 (DEVA1220431A)](arrete-du-30-avril-2012-deva1220431a)
 - [Arrêté du 30 avril 2012 (DEVA1222344A)](arrete-du-30-avril-2012-deva1222344a)
 - [Arrêté du 30 avril 2012 (DEVA1222346A)](arrete-du-30-avril-2012-deva1222346a)
 - [Arrêté du 30 avril 2012 (ESRH1122741A)](arrete-du-30-avril-2012-esrh1122741a)
