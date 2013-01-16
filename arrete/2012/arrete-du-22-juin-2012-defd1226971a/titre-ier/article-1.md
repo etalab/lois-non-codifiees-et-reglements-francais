@@ -6,6 +6,8 @@ Outre les directions et services mentionnés dans le décret du 5 octobre 2009 f
 
 ― la sous-direction du pilotage des programmes budgétaires ;
 
+― la délégation pour le regroupement des états-majors, directions et services centraux du ministère de la défense ;
+
 ― la mission des systèmes d'information ;
 
 ― la mission des achats du ministère de la défense ;
