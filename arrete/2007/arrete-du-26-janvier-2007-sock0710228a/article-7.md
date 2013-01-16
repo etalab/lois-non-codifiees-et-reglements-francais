@@ -1,3 +1,0 @@
-# Article 7
-
-Toutes les élèves des classes terminales des lycées d'enseignement général, technologique, professionnel et agricole, du secteur public et privé sous contrat, ou scolarisées dans le réseau des établissements à enseignement français de l'étranger dont le suivi est assuré par l'agence pour l'enseignement français à l'étranger (AEFE), établissement public placé sous la tutelle du ministère des affaires étrangères et européennes, sont autorisées à concourir pour l'obtention du prix, dès lors qu'elles s'orientent vers des filières scientifiques et/ou technologiques de l'enseignement supérieur français où la part des jeunes filles inscrites ne dépasse pas 40 %.

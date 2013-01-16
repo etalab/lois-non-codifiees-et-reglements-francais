@@ -863,7 +863,6 @@
 - [Arrêté du 26 février 2007 (ECOP0700012A)](arrete-du-26-fevrier-2007-ecop0700012a)
 - [Arrêté du 26 février 2007 (PRMX0709979A)](arrete-du-26-fevrier-2007-prmx0709979a)
 - [Arrêté du 26 janvier 2007 (SOCC0710160A)](arrete-du-26-janvier-2007-socc0710160a)
-- [Arrêté du 26 janvier 2007 (SOCK0710228A)](arrete-du-26-janvier-2007-sock0710228a)
 - [Arrêté du 26 juillet 2007 (AGRP0761512A)](arrete-du-26-juillet-2007-agrp0761512a)
 - [Arrêté du 26 juillet 2007 (BCFB0760940A)](arrete-du-26-juillet-2007-bcfb0760940a)
 - [Arrêté du 26 juillet 2007 (BCFB0760941A)](arrete-du-26-juillet-2007-bcfb0760941a)
