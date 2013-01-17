@@ -40,21 +40,37 @@ Cet entretien de 30 minutes se compose d'un exposé suivi d'un échange avec le 
 
 2.1.1. Exposé
 
-(durée : 10 minutes / préparation : 20 minutes)
+(durée : 10 minutes/préparation : 20 minutes)
 
 Il s'agit de présenter un sujet tiré au sort portant sur l'un des textes se rattachant aux thèmes suivants :
 
-Le cadre constitutionnel, légal et réglementaire encadrant l'action de la gendarmerie
+a) Les principaux enjeux de sécurité intérieure ;
+
+b) Le cadre constitutionnel, légal et réglementaire encadrant l'action, l'organisation et l'emploi des unités de la gendarmerie nationale :
 
 Les principes des libertés publiques : liberté d'aller et venir, respect de la vie privée, liberté de réunion.
 
-Les principes législatifs régissant l'informatique et la liberté.
-
 La législation et la réglementation relatives à l'ordre public.
 
-Les dispositions relatives aux plans de secours.
+Les principes législatifs et réglementaires régissant l'informatique, les fichiers et les libertés.
 
-Les partenaires institutionnels et associatifs de la gendarmerie
+Les statuts particuliers des militaires de la gendarmerie nationale.
+
+La représentation et la participation au sein de la gendarmerie nationale.
+
+La notation des militaires de la gendarmerie nationale.
+
+La mission de renseignement de la gendarmerie nationale.
+
+Les règles relatives à l'armement en gendarmerie.
+
+La logistique en gendarmerie.
+
+Les dispositions relatives aux plans de secours ;
+
+c) La connaissance des institutions et des partenaires de la gendarmerie nationale :
+
+La connaissance des institutions de la Ve République.
 
 Les institutions étatiques déconcentrées.
 
@@ -64,17 +80,7 @@ Le rôle des maires en matière de sécurité et d'ordre publics.
 
 Les dispositifs territoriaux de sécurité et de coopération pour la prévention et la lutte contre la délinquance.
 
-Les autorités administratives indépendantes : la Haute Autorité de lutte contre la discrimination et pour l'égalité, la Commission nationale de l'informatique et des libertés.
-
-Les principaux enjeux de sécurité intérieure
-
-La criminalité organisée et les réseaux.
-
-L'immigration irrégulière.
-
-Le travail dissimulé.
-
-Le terrorisme.
+Le Défenseur des droits.
 
 Après l'exposé du sujet principal tiré au sort et préparé pendant 20 minutes, les candidats peuvent être également interrogés sur plusieurs autres sujets se rattachant aux thèmes énumérés ci-dessus de manière à ce que leurs connaissances d'ensemble soient objectivement évaluées.
 
@@ -96,7 +102,7 @@ effectuée sur une piste d'athlétisme, avec départ en ligne
 
 Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées.
 
-Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
+Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à vingt.
 
 2.2.2. Barème de l'épreuve sportive
 

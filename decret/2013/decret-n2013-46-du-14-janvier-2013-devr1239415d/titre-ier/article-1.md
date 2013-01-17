@@ -1,0 +1,7 @@
+# Article 1
+
+Les aides à l'électrification rurale dont peuvent bénéficier les autorités organisatrices d'un réseau public de distribution d'électricité sont réparties en deux programmes annuels :
+
+― un programme principal comportant les aides mentionnées au septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales. Les aides financées par ce programme sont réparties, par arrêté du ministre chargé de l'énergie pris après avis du conseil à l'électrification rurale, en sous-programmes correspondant aux catégories de travaux suivantes : renforcement des réseaux, extension des réseaux, enfouissement ou pose en façade des réseaux pour raison d'ordre esthétique, sécurisation des réseaux, enfouissement de réseaux pour les communes traversées par de nouvelles lignes à très haute tension, renforcement anticipé de départs de réseaux endommagés par des intempéries ;
+
+― un programme spécial comportant les aides mentionnées au huitième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales. Les aides financées par ce programme sont réparties, par arrêté du ministre chargé de l'énergie pris après avis du conseil à l'électrification rurale, en sous-programmes correspondant aux opérations suivantes : opération de production décentralisée à partir d'énergies renouvelables en sites isolés, opération de production à partir d'installations de proximité en zone non interconnectée, maîtrise de la demande d'électricité.
