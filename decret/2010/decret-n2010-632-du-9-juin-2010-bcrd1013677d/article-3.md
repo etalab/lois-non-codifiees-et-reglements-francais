@@ -1,6 +1,6 @@
 # Article 3
 
-I. ― Un entrepositaire agréé ou un expéditeur enregistré établi dans un autre Etat membre de l'Union européenne peut livrer directement en France en suspension de droits d'accise des produits, sous couvert du document administratif électronique unique mentionné à l'article 158 septdecies du code des douanes, à un opérateur autre qu'un particulier désigné par un destinataire enregistré en France, sans que ces produits soient préalablement réceptionnés dans les locaux de ce dernier. Pour chaque livraison, l'adresse de l'unique destinataire doit figurer sur le document d'accompagnement.
+I. - Un entrepositaire agréé ou un expéditeur enregistré établi dans un autre Etat membre de l'Union européenne peut livrer directement en France métropolitaine en suspension des droits d'accise des produits, sous couvert du document administratif électronique unique mentionné à l'article 158 septdecies du code des douanes, à des opérateurs, autres que des particuliers, désignés par un destinataire enregistré en France métropolitaine, sans que ces produits soient préalablement réceptionnés dans les locaux de ce dernier. Pour chaque livraison, l'adresse du dernier destinataire réel figurera sur le document d'accompagnement.
 
 II. ― Le destinataire enregistré désigne un bureau de douane et droits indirects de domiciliation auprès duquel il acquitte, le cas échéant, les droits d'accise sur les produits livrés.
 
