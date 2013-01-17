@@ -72,7 +72,7 @@ Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme,
 
 Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées.
 
-Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
+Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à vingt.
 
 2.2.4. Epreuve de tractions et abdominaux
 

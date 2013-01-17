@@ -2,7 +2,7 @@
 
 Le concours sur titres comprend une épreuve d'admissibilité. Elle se compose d'un examen du dossier de chaque candidat.
 
-Le jury apprécie le dossier de chaque candidat par une note sur 20.
+Le jury apprécie le dossier de chaque candidat puis établit une présélection des candidats.
 
 Le dossier du candidat comprend :
 

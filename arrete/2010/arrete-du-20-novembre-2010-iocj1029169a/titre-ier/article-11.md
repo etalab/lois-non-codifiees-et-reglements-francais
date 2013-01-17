@@ -6,7 +6,7 @@ L'organisation de chaque concours nécessite la mise en place :
 
 a) Pour les concours prévus aux 1°,2° et 3° de l'article 6 et aux 1° et 2° de l'article 8 du décret du 12 septembre 2008 susvisé :
 
-― un officier général de gendarmerie, président ;
+―un président : officier général ou officier supérieur de gendarmerie du grade de colonel ;
 
 ― des correcteurs pour les épreuves écrites ;
 
@@ -24,13 +24,13 @@ Le président, les examinateurs des épreuves orales, les officiers chargés de 
 
 b) Pour le concours prévu au 4° de l'article 6 du décret du 12 septembre 2008 susvisé :
 
-― un officier général de gendarmerie, président, assisté d'officiers supérieurs de gendarmerie ;
+― un président : officier général ou officier supérieur de gendarmerie du grade de colonel, assisté d'un ou de plusieurs officiers supérieurs de gendarmerie ;
 
 ― des psychologues militaires ou civils ;
 
 ― éventuellement, des experts militaires ou civils à titre de conseillers.
 
-Pour l'ensemble des concours, les membres du jury et le remplaçant du président dans le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa mission sont désignés annuellement par le directeur général de la gendarmerie nationale.
+Pour l'ensemble des concours, les membres du jury et le remplaçant du président dans le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa mission sont désignés annuellement par le directeur des personnels militaires de la gendarmerie nationale.
 
 Le secrétariat est assuré par un officier qui n'a ni voix délibérative ni voix consultative.
 

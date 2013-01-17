@@ -1,6 +1,6 @@
 # Article 32
 
-Le directeur général de la gendarmerie nationale arrête, par ordre de mérite et pour chaque concours, à partir de la liste de classement des candidats :
+Le directeur des personnels militaires de la gendarmerie nationale arrête, par ordre de mérite et pour chaque concours, à partir de la liste de classement des candidats :
 
 ― une liste des candidats déclarés admis ;
 

@@ -4,6 +4,6 @@ A l'issue de la correction des épreuves écrites, la commission d'admissibilit�
 
 ― établit la liste anonyme de classement des candidats par ordre de mérite ;
 
-― propose au directeur général de la gendarmerie nationale le nombre total de points au-dessus duquel elle estime que les candidats peuvent être déclarés admissibles.
+― propose au directeur des personnels militaires de la gendarmerie nationale le nombre total de points au-dessus duquel elle estime que les candidats peuvent être déclarés admissibles.
 
-Au vu de cette proposition, le directeur général de la gendarmerie nationale arrête pour chaque concours, par ordre alphabétique, la liste nominative des candidats déclarés admissibles. Elle est consultable sur le site internet de la gendarmerie nationale.
+Au vu de cette proposition, le directeur des personnels militaires de la gendarmerie nationale arrête pour chaque concours, par ordre alphabétique, la liste nominative des candidats déclarés admissibles. Elle est consultable sur le site internet de la gendarmerie nationale.
