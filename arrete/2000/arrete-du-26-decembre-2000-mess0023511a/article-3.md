@@ -2,120 +2,95 @@
 
 Pour l'application de l'article D. 542-5-2 du même code :
 
-1° TF est donné par le tableau suivant :
+1° Le taux TF prévu à son seizième alinéa est fixé selon le tableau suivant :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">BÉNÉFICIAIRE </p>
+<td width="454">
+<p align="center">FOYER </p>
 </td>
-<td>
+<td width="227">
 <p align="center">POURCENTAGE </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Personne isolée sans personne à charge </p>
+<td width="454">
+<p>Personne seule sans personne à charge </p>
 </td>
-<td>
-<p align="center">3,08</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Couple sans personne à charge</p>
-</td>
-<td>
-<p align="center">3,31</p>
+<td width="227">
+<p align="center">2,83 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Personne isolée ou couple avec une personne à charge </p>
+<td width="454">
+<p>Couple sans personne à charge </p>
 </td>
-<td>
-<p align="center">2,78</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Personne isolée ou couple avec deux personnes à charge </p>
-</td>
-<td>
-<p align="center">2,57</p>
+<td width="227">
+<p align="center">3,15 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Personne isolée ou couple avec trois personnes à charge</p>
+<td width="454">
+<p>Personne seule ou couple ayant :</p>
+<p>- une personne à charge </p>
+<p>- deux personnes à charge </p>
+<p>- trois personnes à charge </p>
+<p>- quatre personnes à charge </p>
+<p>- par personne à charge supplémentaire</p>
 </td>
-<td>
-<p align="center">2,28</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Personne isolée ou couple avec quatre personnes à charge </p>
-</td>
-<td>
-<p align="center">2,17</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Par personne à charge supplémentaire</p>
-</td>
-<td>
-<p align="center">- 0,06</p>
+<td width="227">
+<br/>
+<br/>
+<p align="center">2,70</p>
+<p align="center">2,38</p>
+<p align="center">2,01</p>
+<p align="center">1,85</p>
+<p align="center">-0,06 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-2° Le loyer de référence pris en compte pour le calcul de TL est défini selon le tableau :
+2° Pour l'application du dix-septième alinéa de l'article D. 542-5-2 du même code, le loyer de référence pris en compte pour le calcul de TL est fixé selon le tableau suivant :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">PERSONNE ISOLÉE</p>
-<p align="center">sans personne à charge</p>
+<td width="454">
+<p align="center">FOYER </p>
 </td>
-<td>
-<p align="center">COUPLE</p>
-<p align="center">sans personne à charge</p>
-</td>
-<td>
-<p align="center">MÉNAGE</p>
-<p align="center">ayant une personne</p>
-<p align="center">à charge</p>
-</td>
-<td>
-<p align="center">MÉNAGE</p>
-<p align="center">ayant deux personnes</p>
-<p align="center">à charge</p>
-</td>
-<td>
-<p align="center">PAR PERSONNE</p>
-<p align="center">supplémentaire à charge</p>
+<td width="227">
+<p align="center">MONTANT </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">1 385 F</p>
+<td width="454">
+<p>Personne seule sans personne à charge </p>
 </td>
-<td>
-<p align="center">1 696 F</p>
+<td width="227">
+<p align="center">253,58 € </p>
 </td>
-<td>
-<p align="center">1 908 F</p>
+</tr>
+<tr>
+<td width="454">
+<p>Couple sans personne à charge </p>
 </td>
-<td>
-<p align="center">2 186 F</p>
+<td width="227">
+<p align="center">310,38 € </p>
 </td>
-<td>
-<p align="center">278 F</p>
+</tr>
+<tr>
+<td width="454">
+<p>Personne seule ou couple ayant :</p>
+<p>- une personne à charge </p>
+<p>- par personne à charge supplémentaire </p>
+</td>
+<td width="227">
+<br/>
+<br/>
+<p align="center">349,26 €</p>
+<p align="center">50,83 € </p>
 </td>
 </tr>
 </tbody>

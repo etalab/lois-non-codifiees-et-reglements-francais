@@ -1,89 +1,89 @@
 # Article 1
 
-I. - A compter du 1er janvier 2001, en application de l'article D. 542-5-2 du code de la sécurité sociale, les plafonds de loyers visés sont fixés comme suit :
+I.-Les plafonds de loyers prévus en application du quatrième alinéa de l'
+article D. 542-5-2
+et de l'
+article D. 542-21
+du code de la sécurité sociale sont fixés selon le tableau suivant :
 
+<div>
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION</p>
+<td width="340">
+<p align="center">FOYER </p>
 </td>
-<td>
+<td width="113">
 <p align="center">ZONE 1 </p>
-<p align="center">(en francs) </p>
 </td>
-<td>
+<td width="113">
 <p align="center">ZONE 2 </p>
-<p align="center">(en francs) </p>
 </td>
-<td>
+<td width="113">
 <p align="center">ZONE 3 </p>
-<p align="center">(en francs) </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Personne isolée sans personne à charge </p>
+<td width="340">
+<p>Personne seule sans personne à charge </p>
 </td>
-<td>
-<p align="center">1577</p>
+<td width="113">
+<p align="center">290,96 € </p>
 </td>
-<td>
-<p align="center">1385</p>
+<td width="113">
+<p align="center">253,58 € </p>
 </td>
-<td>
-<p align="center">1298</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Couple sans personne à charge</p>
-</td>
-<td>
-<p align="center">1902</p>
-</td>
-<td>
-<p align="center">1696</p>
-</td>
-<td>
-<p align="center">1574</p>
+<td width="113">
+<p align="center">237,67 € </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Personne seule ou couple ayant une personne à charge </p>
+<td width="340">
+<p>Couple sans personne à charge </p>
 </td>
-<td>
-<p align="center">2139</p>
+<td width="113">
+<p align="center">350,92 € </p>
 </td>
-<td>
-<p align="center">1908</p>
+<td width="113">
+<p align="center">310,38 € </p>
 </td>
-<td>
-<p align="center">1765</p>
+<td width="113">
+<p align="center">288,12 € </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Par personne à charge supplémentaire </p>
+<td width="340">
+<p>Personne seule ou couple ayant :</p>
+<p>- une personne à charge </p>
+<p>- par personne à charge supplémentaire </p>
 </td>
-<td>
-<p align="center">310</p>
+<td width="113">
+<br/>
+<br clear="none"/>
+<p align="center">396,61 € </p>
+<p align="center">57,53 € </p>
 </td>
-<td>
-<p align="center">278</p>
+<td width="113">
+<br/>
+<br clear="none"/>
+<p align="center">349,26 € </p>
+<p align="center">50,83 € </p>
 </td>
-<td>
-<p align="center">253</p>
+<td width="113">
+<br/>
+<br clear="none"/>
+<p align="center">323,05 €</p>
+<p align="center">46,30 € </p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
 
-II. - Les zones géographiques prévues au II sont celles définies par l'arrêté du 17 mars 1978 susvisé.
+II.-Les zones géographiques prévues au II sont celles définies par l'arrêté du 17 mars 1978 susvisé.
 
-III. - Dans le cas des colocataires, les plafonds de loyers sont fixés à 75 % des plafonds de loyers mentionnés ci-dessus.
+III.-Dans le cas des colocataires, les plafonds de loyers sont fixés à 75 % des plafonds de loyers mentionnés ci-dessus.
 
-IV. - Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus sauf dans le cas visé au troisième alinéa de l'article L. 831-4 où ce plafond est fixé à 75 %.
+IV.-Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus sauf dans le cas visé au dernier alinéa de l'article L. 831-4 où ce plafond est fixé à 75 %.
 
-Les montants obtenus par l'application de ces pourcentages sont arrondis au franc le plus proche.
+Les montants obtenus par l'application de ces pourcentages sont arrondis à l'euro le plus proche.
