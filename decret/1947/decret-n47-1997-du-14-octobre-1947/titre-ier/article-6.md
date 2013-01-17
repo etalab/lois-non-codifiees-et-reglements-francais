@@ -1,3 +1,0 @@
-# Article 6
-
-Des décisions du conseil d'administration déterminent les règles suivant lesquelles sont établis, sur les bases fixées ci-dessus, les taux de participation du fonds pour chaque emprunt, en tenant compte, notamment, de la durée réelle des emprunts, de l'utilité sociale et économique des travaux, des conditions techniques de construction des réseaux, du financement des travaux par appel aux ressources locales, ainsi que des simplifications administratives et financières, de l'atténuation ou de la suppression des disparités de tarifs, de l'organisation rationnelle de l'exécution des travaux réalisés par la voie du groupement des collectivités en cause.

@@ -1,7 +1,0 @@
-# Article 4
-
-La charge annuelle de la collectivité intéressée est évaluée à la valeur d'une annuité constante basée sur le montant des dépenses de premier établissement, d'extension, de renforcement et de perfectionnement des ouvrages d'électrification rurale que cette collectivité a fait exécuter et sur un taux d'intérêt et une durée d'amortissement fixés d'une manière forfaitaire respectivement à 4 1/2 % l'an et à trente ans. Toutefois, lorsqu'il est fait appel à des emprunts provenant de caisses publiques, il est alors établi un taux moyen pondéré, correspondant aux diverses catégories de ressources réunies par les collectivités locales, en faisant état, pour les emprunts en question, non plus du taux forfaitaire de 4 1/2 %, mais des taux réels.
-
-Pour tenir compte des variations du loyer de l'argent, ces taux d'intérêt peuvent être revisés par le conseil du fonds d'amortissement prévu à l'article 11 ci-après. Celle revision s'applique aux participations déjà allouées par le fonds dans le cas où elles font apparaître un taux d'intérêt inférieur à celui ayant servi de base aux calculs desdites participations d'au moins un demi-point pour les sommes provenant d'emprunts effectués auprès des caisses publiques et d'au moins un point pour les sommes ayant une autre origine. Dans le cas contraire, il n'est pas fait de revision.
-
-Lorsque la durée d'un emprunt est inférieure à trente années, la durée réelle de l'emprunt est retenue pour le calcul de l'annuité, sans toutefois que ce calcul puisse être établi sur une base inférieure à quinze ans.
