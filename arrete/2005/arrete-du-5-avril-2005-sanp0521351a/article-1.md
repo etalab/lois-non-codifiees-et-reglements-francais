@@ -46,7 +46,7 @@ Centre hospitalier, hôpital Corvisart (service de médecine interne), 28, rue d
 
 Centre hospitalier général (centre de vaccination amarile et conseils aux voyageurs), 101, avenue Anatole-France, 10000 Troyes.
 
-11 - Aude :
+11 - Aude
 
 Centre hospitalier, 5 bis, rue du Bois-Rolland, 11000 Narbonne.
 
@@ -67,6 +67,8 @@ Hôpital Nord, chemin des Bourrellys, 13015 Marseille.
 Service communal d'hygiène et de santé, 6-8, rue Briffaut, 13005 Marseille.
 
 Fondation hôpital Ambroise Paré, hôpital Ambroise Paré, sis 1, rue d'Eylau, 13006 Marseille.
+
+Direction de la santé, de l'environnement et de la citoyenneté de la ville de Salon-de-Provence, 123, rue de Bucarest, 13300 Salon-de-Provence.
 
 14 - Calvados
 
@@ -359,6 +361,8 @@ Hôpital Saint-Antoine, 184, rue du Faubourg-Saint-Antoine, 75571 Paris Cedex 12
 Institut Alfred Fournier, 25, boulevard Saint-Jacques, 75680 Paris Cedex 14.
 
 UNESCO, place de Fontenoy, 75007 Paris.
+
+Institut Alfred Fournier-Chemin Vert, 44-50, rue Pétion, 75011 Paris.
 
 76 - Seine-Maritime
 
