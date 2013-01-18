@@ -779,7 +779,6 @@
 - [Arrêté du 10 février 2012 (PRMG1204143A)](arrete-du-10-fevrier-2012-prmg1204143a)
 - [Arrêté du 10 janvier 2002 (EQUP0101580A)](arrete-du-10-janvier-2002-equp0101580a)
 - [Arrêté du 10 janvier 2012 (AGRM1131385A)](arrete-du-10-janvier-2012-agrm1131385a)
-- [Arrêté du 10 janvier 2012 (AGRT1200114A)](arrete-du-10-janvier-2012-agrt1200114a)
 - [Arrêté du 10 janvier 2012 (DEVA1131814A)](arrete-du-10-janvier-2012-deva1131814a)
 - [Arrêté du 10 janvier 2012 (DEVS1200649A)](arrete-du-10-janvier-2012-devs1200649a)
 - [Arrêté du 10 janvier 2012 (ESRS1129423A)](arrete-du-10-janvier-2012-esrs1129423a)

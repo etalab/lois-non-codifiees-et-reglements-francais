@@ -26,7 +26,7 @@ L'épreuve orale d'admission consiste en un exposé du candidat à partir d'un t
 
 En vue de l'épreuve d'entretien, le candidat adresse une fiche individuelle de renseignement au service gestionnaire du concours à une date fixée par le service et avant le début des épreuves d'admission. Le jury dispose de cette fiche de renseignement pour la conduite de l'entretien qui suit l'exposé. La fiche individuelle de renseignement est disponible sur le site internet du ministère de l'intérieur.
 
-Durée : vingt-cinq minutes, dont cinq minutes d'exposé, coefficient 3.
+Durée : vingt-cinq minutes, dont cinq minutes d'exposé, coefficient 3. Cette épreuve est précédée d'un temps de préparation d'une durée de vingt-cinq minutes.
 
 Toute note inférieure à 10 sur 20 est éliminatoire.
 
