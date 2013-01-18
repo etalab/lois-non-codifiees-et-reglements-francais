@@ -44,7 +44,7 @@ B.-Autres dispositifs de signalisation dynamique.
 
 Barrière dynamique XK3.
 
-Le signal XK3 est constitué d'une lisse ou de deux demi-lisses, barrant la chaussée, portant sur leur face avant une série de rectangles alternativement rouges et blancs rétroréfléchissants et, le cas échéant, un signal B0 ou B1. Lorsqu'il est activé, le signal XK3 matérialise le point d'effet d'une interdiction de franchir prescrite par le signal qui lui est associé (panneau B0 ou B1 ou feu R23 ou R24).
+Le signal XK3 est associé à un signal d'interdiction de circulation B0 ou B1 ou à un signal lumineux de circulation R23 ou R24. Il est constitué d'une lisse ou de deux demi-lisses, barrant la chaussée, portant sur leur face avant une série de rectangles alternativement rouges et blancs rétroréfléchissants. Lorsqu'il est activé, le signal XK3 signifie l'interdiction de circulation prescrite par le signal B0 ou B1 qu'il peut porter et en matérialise le point d'effet.
 
 Glissière mobile d'affectation de voie XK4.
 

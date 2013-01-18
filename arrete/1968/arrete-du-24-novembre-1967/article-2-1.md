@@ -18,11 +18,11 @@ PANONCEAUX DE POSITION OU DIRECTIONNELS M 3
 
 Un panonceau M3 indique la position ou la direction de la voie concernée par le panneau qu'il complète. On distingue les différents types suivants :
 
--M3a qui indique la position de la voie concernée par le panneau qu'il complète ;
+M3a qui indique la position de la voie concernée par le panneau qu'il complète ;
 
--M3b qui indique la direction à suivre, et éventuellement sur quelle distance, pour rencontrer le service indiqué par le panneau ;
+M3b qui indique la direction à suivre, et éventuellement sur quelle distance, pour rencontrer le service indiqué par le panneau ;
 
--M3d qui indique que le panneau qu'il complète se rapporte à la voie au-dessus de laquelle il est implanté.
+M3d qui indique que le panneau qu'il complète se rapporte à la voie au-dessus de laquelle il est implanté.
 
 PANONCEAU DE CATEGORIE M 4
 
@@ -82,6 +82,8 @@ M 4 x qui désigne les véhicules tractant une caravane ou une remorque de plus 
 
 M4 y qui désigne les cavaliers.
 
+M4z qui désigne les véhicules bénéficiant du label "autopartage".
+
 PANONCEAU STOP M 5
 
 Il indique la distance comprise entre le signal et l'endroit où le conducteur doit marquer l'arrêt et céder le passage.
@@ -111,6 +113,8 @@ M 6 g qui donne des indications diverses ne concernant pas les interdictions.
 M 6 h qui signale que le stationnement est réservé, en application de l'article L. 2213-2 (3°) du code général des collectivités territoriales, aux véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du code de l'action sociale et des familles.
 
 M 6 i qui signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs.
+
+M6 j qui signale que l'arrêt ou le stationnement est réservé aux véhicules bénéficiant du label "autopartage".
 
 PANONCEAU SCHEMA M 7
 

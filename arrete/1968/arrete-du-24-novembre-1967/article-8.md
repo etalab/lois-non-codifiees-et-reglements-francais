@@ -48,6 +48,8 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 -Le mot Taxi : cette inscription sur la chaussée signale que les emplacements de stationnement contigus et délimités par du marquage sont réservés à l'arrêt et au stationnement des taxis durant l'exercice de leur profession.
 
+- le mot autopartage : cette inscription sur la chaussée indique que les emplacements de stationnement contigus et délimités par du marquage sont réservés aux véhicules bénéficiant du label "autopartage".
+
 -marques relatives aux aménagements de modération de la vitesse : le marquage constitué d'un ensemble de triangles blancs indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
 
 -marques relatives aux emplacements réservés au stationnement des véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du code de l'action sociale et des familles : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur les limites ou le long d'un emplacement de stationnement, indique que cet emplacement est réservé au stationnement des véhicules utilisés par les personnes mentionnées ci-dessus ;

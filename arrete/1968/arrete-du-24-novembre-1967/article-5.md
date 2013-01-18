@@ -4,7 +4,7 @@ A. - Signalisation d'indication.
 
 Les panneaux d'indication de type C donnent des informations utiles pour la conduite des véhicules. Ils sont les suivants :
 
-Panneau C1a. Lieu aménagé pour le stationnement.
+Panneau C1a. Lieu aménagé pour le stationnement. Ce panneau peut être complété par un panonceau indiquant que des emplacements, délimités par un marquage approprié, sont aménagés ou réservés à une ou plusieurs catégories de véhicules.
 
 Panneau C1b. Lieu aménagé pour le stationnement gratuit à durée limitée avec contrôle par disque.
 
@@ -21,6 +21,8 @@ Panneau C5. Station de taxis. L'arrêt et le stationnement y sont réservés aux
 Panneau C6. Arrêt d'autobus. L'arrêt et le stationnement des autres véhicules sont interdits sur une étendue signalée par le marquage approprié.
 
 Panneau C8. Emplacement d'arrêt d'urgence. L'emplacement constitué par un aménagement ponctuel de l'accotement est réservé aux arrêts d'urgence.
+
+Panneau C9. Station d'autopartage. L'arrêt et le stationnement y sont réservés aux véhicules bénéficiant du label "autopartage". Le marquage approprié signale l'étendue de cette réservation.
 
 Panneau C12. Circulation à sens unique.
 
@@ -238,6 +240,8 @@ Panneau CE30b. Issue de secours vers la gauche.
 
 Panneau CE50. Installations ou services divers.
 
+Panneau CE51. Point du réseau de distribution "écotaxe" (taxe nationale sur les véhicules de transport de marchandises).
+
 Les panneaux de type CE sont de forme carrée. Fait exception le panneau CE3b, qui est de forme rectangulaire et peut comporter plusieurs faces.
 
 Les panneaux de type CE sont à fond blanc, avec une bordure bleue, elle-même entourée d'un listel blanc. Les pictogrammes et inscriptions sont noirs. Font exception :
@@ -249,3 +253,5 @@ Les panneaux de type CE sont à fond blanc, avec une bordure bleue, elle-même e
 - le panneau CE29, dont le pictogramme est rouge ;
 
 - les panneaux CE30a et CE30b, dont le fond est vert avec listel et pictogramme blancs.
+
+- le panneau CE51 dont une partie du pictogramme est verte.

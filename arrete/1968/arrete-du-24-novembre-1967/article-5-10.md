@@ -118,6 +118,10 @@ ID35. Zone industrielle ou parc d'activités.
 
 ID36. Centre commercial.
 
+ID37. Station pour les véhicules bénéficiant du label "autopartage".
+
+ID38. Point du réseau de distribution "écotaxe".
+
 Les idéogrammes sont de forme carrée. Ils sont à fond blanc avec un pictogramme noir. Font exception :
 
 ― les idéogrammes ID1a et ID1b qui sont à fond bleu, avec un pictogramme blanc ;
@@ -127,3 +131,5 @@ Les idéogrammes sont de forme carrée. Ils sont à fond blanc avec un pictogram
 ― les idéogrammes ID15 et ID16 qui sont à fond blanc ou marron avec un pictogramme marron ou blanc ;
 
 ― l'idéogramme ID22 qui comporte un pictogramme bleu, blanc et rouge.
+
+― l'idéogramme ID 38 dont une partie du pictogramme est verte.
