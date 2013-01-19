@@ -1,6 +1,6 @@
 # Article 5
 
-Sont exclus de la délégation mentionnée à l'article 2 les actes concernant les immeubles et opérations suivants :
+Sont exclus de la délégation mentionnée à l'article 3 les actes concernant les immeubles et opérations suivants :
 
 1° Les lieux de mémoire, y compris les nécropoles, et les monuments historiques placés sous la responsabilité du ministère de la défense ;
 
