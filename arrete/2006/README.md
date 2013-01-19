@@ -283,7 +283,6 @@
 - [Arrêté du 26 juillet 2006 (EQUP0601571A)](arrete-du-26-juillet-2006-equp0601571a)
 - [Arrêté du 26 septembre 2006 (JUSK0640203A)](arrete-du-26-septembre-2006-jusk0640203a)
 - [Arrêté du 26 mai 2006 (PMEA0620042A)](arrete-du-26-mai-2006-pmea0620042a)
-- [Arrêté du 27 décembre 2005 (EQUS0502213A)](arrete-du-27-decembre-2005-equs0502213a)
 - [Arrêté du 27 décembre 2006 (soco0612612a)](arrete-du-27-decembre-2006-soco0612612a)
 - [Arrêté du 27 janvier 2006 (JUSC0620003A)](arrete-du-27-janvier-2006-jusc0620003a)
 - [Arrêté du 27 juillet 2003 (BUDD0370009A)](arrete-du-27-juillet-2003-budd0370009a)
