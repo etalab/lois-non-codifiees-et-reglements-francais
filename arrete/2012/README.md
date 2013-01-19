@@ -590,7 +590,6 @@
 - [Arrêté du 8 décembre 2011 (ETSD1133828A)](arrete-du-8-decembre-2011-etsd1133828a)
 - [Arrêté du 8 décembre 2011 (ETSP1131802A)](arrete-du-8-decembre-2011-etsp1131802a)
 - [Arrêté du 8 février 2012 (BCRD1204094A)](arrete-du-8-fevrier-2012-bcrd1204094a)
-- [Arrêté du 8 février 2012 (DEFF1203932A)](arrete-du-8-fevrier-2012-deff1203932a)
 - [Arrêté du 8 février 2012 (DEVA1203233A)](arrete-du-8-fevrier-2012-deva1203233a)
 - [Arrêté du 8 février 2012 (DEVL1202651A)](arrete-du-8-fevrier-2012-devl1202651a)
 - [Arrêté du 8 février 2012 (DEVL1202653A)](arrete-du-8-fevrier-2012-devl1202653a)
