@@ -159,7 +159,6 @@
 - [Arrêté du 8 décembre 1999 (EQUS9901728A)](arrete-du-8-decembre-1999-equs9901728a)
 - [Arrêté du 8 février 1999 (EQUS9900102A)](arrete-du-8-fevrier-1999-equs9900102a)
 - [Arrêté du 8 février 1999 (EQUS9900103A)](arrete-du-8-fevrier-1999-equs9900103a)
-- [Arrêté du 8 février 1999 (EQUS9900105A)](arrete-du-8-fevrier-1999-equs9900105a)
 - [Arrêté du 8 février 1999 (MCCB9900110A)](arrete-du-8-fevrier-1999-mccb9900110a)
 - [Arrêté du 8 janvier 1999 (ECOI9900005A)](arrete-du-8-janvier-1999-ecoi9900005a)
 - [Arrêté du 8 janvier 1999 (ECOT9951775A)](arrete-du-8-janvier-1999-ecot9951775a)
