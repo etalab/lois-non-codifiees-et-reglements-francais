@@ -494,7 +494,6 @@
 - [Arrêté du 21 mars 2002 (AGRP0200612A)](arrete-du-21-mars-2002-agrp0200612a)
 - [Arrêté du 21 mars 2002 (ATEN0210091A)](arrete-du-21-mars-2002-aten0210091a)
 - [Arrêté du 21 novembre 2002 (MCCB0200772A)](arrete-du-21-novembre-2002-mccb0200772a)
-- [Arrêté du 21 octobre 2002 (EQUP0201636A)](arrete-du-21-octobre-2002-equp0201636a)
 - [Arrêté du 21 mai 2003 (SPRK0370042A)](arrete-du-21-mai-2003-sprk0370042a)
 - [Arrêté du 22 août 2002 (EQUT0201381A)](arrete-du-22-aout-2002-equt0201381a)
 - [Arrêté du 22 avril 2002 (AGRP0200958A)](arrete-du-22-avril-2002-agrp0200958a)
