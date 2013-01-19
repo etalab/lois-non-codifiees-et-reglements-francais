@@ -6,7 +6,7 @@ I.-Peuvent être nommés inspecteurs généraux, pour quatre emplois vacants sur
 
 2° Les chefs de service, les directeurs adjoints et sous-directeurs d'administration centrale, les directeurs régionaux des affaires culturelles et les fonctionnaires occupant un emploi fonctionnel doté d'un indice terminal correspondant au moins au groupe hors échelle B, et justifiant d'une durée minimale de services de trois ans dans l'un ou l'autre de ces emplois ;
 
-3° Les administrateurs civils ayant atteint le dernier échelon de la hors-classe ;
+3° Les administrateurs civils ayant atteint le 7e échelon de la hors-classe ;
 
 4° Les conservateurs généraux du patrimoine et les conservateurs généraux des bibliothèques ayant atteint l'avant-dernier échelon de leur corps ;
 
