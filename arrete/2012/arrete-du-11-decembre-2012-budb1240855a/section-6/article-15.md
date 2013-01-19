@@ -8,7 +8,7 @@ Le compte rendu de gestion par programme s'appuie sur :
 
 1° L'actualisation du document prévisionnel de gestion des emplois et des crédits de personnel et d'une prévision de consommation ;
 
-2° L'actualisation du document mentionné à l'article 10 retraçant la programmation des autres crédits et d'une prévision de leur consommation ;
+2° L'actualisation du document mentionné à l'article 9 retraçant la programmation des autres crédits et d'une prévision de leur consommation ;
 
 3° Une note de synthèse qui analyse l'exécution des crédits et la prévision des crédits non consommés et qui identifie les risques éventuels d'insoutenabilité de l'exécution et les mesures correctrices envisagées.
 
