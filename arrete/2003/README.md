@@ -455,7 +455,6 @@
 - [Arrêté du 17 décembre 2002 (INDI0300863A)](arrete-du-17-decembre-2002-indi0300863a)
 - [Arrêté du 17 décembre 2002 (MENF0203015A)](arrete-du-17-decembre-2002-menf0203015a)
 - [Arrêté du 17 décembre 2003 (AGRA0302549A)](arrete-du-17-decembre-2003-agra0302549a)
-- [Arrêté du 17 décembre 2003 (EQUS0301874A)](arrete-du-17-decembre-2003-equs0301874a)
 - [Arrêté du 17 février 2003 (PRMX0306362A)](arrete-du-17-fevrier-2003-prmx0306362a)
 - [Arrêté du 17 janvier 2003 (INDI0301013A)](arrete-du-17-janvier-2003-indi0301013a)
 - [Arrêté du 17 janvier 2003 (MCCB0300045A)](arrete-du-17-janvier-2003-mccb0300045a)
