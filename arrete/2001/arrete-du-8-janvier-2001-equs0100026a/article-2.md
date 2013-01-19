@@ -18,13 +18,13 @@ a) Pour le demandeur :
 
 7° (Abrogé)
 
-8° La justification de l'inscription au rôle de la taxe professionnelle ou, à défaut, une déclaration d'inscription à l'URSSAF.
+8° La justification de l'inscription au rôle de la cotisation foncière des entreprises ou, à défaut, une déclaration d'inscription à l'URSSAF.
 
 b), 9°, 10° (Abrogé)
 
 c) Pour les moyens de l'établissement :
 
-11° Le nom et la qualité de l'établissement : raison sociale, numéro SIREN ou SIRET, coordonnées de l'établissement : l'adresse, le téléphone ... ;
+11° Le nom et la qualité de l'établissement : raison sociale, numéro SIREN ou SIRET, coordonnées de l'établissement : l'adresse, le téléphone... ;
 
 12° La photocopie du titre de propriété ou du bail de location du local ;
 
@@ -32,7 +32,7 @@ c) Pour les moyens de l'établissement :
 
 14° La justification de la propriété ou de la location du ou des véhicules d'enseignement ainsi que, pour chacun d'eux, l'attestation d'assurance couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances.
 
-Le demandeur est exonéré de la justification de la propriété ou de la location pour les tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes, les quadricycles lourds à moteur et les véhicules utilisés par les personnes handicapées de l'appareil locomoteur, lorsque ces véhicules sont fournis par les élèves inscrits dans l'établissement.
+Le demandeur est exonéré de la justification de la propriété ou de la location pour les tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes, les quadricycles légers et lourds à moteur et les véhicules utilisés par les personnes handicapées de l'appareil locomoteur, lorsque ces véhicules sont fournis par les élèves inscrits dans l'établissement.
 
 d) Pour les enseignants de la conduite :
 

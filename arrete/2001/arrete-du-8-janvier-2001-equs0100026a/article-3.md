@@ -1,6 +1,6 @@
 # Article 3
 
-Le préfet accuse réception du dossier du demandeur dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant. Il complète le dossier par l'extrait du casier judiciaire n° 2 afin de vérifier que l'intéressé n'a fait l'objet d'aucune des condamnations mentionnées aux articles L. 29-7 et R. 243-2 du code de la route.
+Le préfet accuse réception du dossier du demandeur dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant. Il complète le dossier par l'extrait du casier judiciaire n° 2 afin de vérifier que l'intéressé n'a fait l'objet d'aucune des condamnations mentionnées aux articles L. 213-3 et R. 212-4 du code de la route.
 
 Il peut faire procéder aux enquêtes nécessaires pour vérifier la conformité du local et des moyens de l'établissement à la réglementation.
 
