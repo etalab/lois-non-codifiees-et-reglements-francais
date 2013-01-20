@@ -1,8 +1,10 @@
 # Article 7
 
-I. ― Un bien immobilier appartenant à l'Etat ou à ses établissements publics peut faire l'objet du bail emphytéotique prévu à l'article L. 451-1 du code rural et de la pêche maritime en vue de la réalisation de logements sociaux. Ce bail emphytéotique est dénommé bail emphytéotique administratif.
+I. ― Un bien immobilier appartenant à l'Etat ou à ses établissements publics peut faire l'objet du bail emphytéotique prévu à l'article L. 451-1 du code rural et de la pêche maritime ou du bail prévu au chapitre Ier du titre V du livre II du code de la construction et de l'habitation en vue de la réalisation de logements sociaux. Ce bail emphytéotique est dénommé bail emphytéotique administratif.
 
 Un tel bail peut être conclu même si le bien sur lequel il porte, en raison notamment de l'affectation du bien résultant soit du bail ou d'une convention non détachable de ce bail, soit des conditions de la gestion du bien ou du contrôle par la personne publique de cette gestion, constitue une dépendance du domaine public, sous réserve que cette dépendance demeure hors du champ d'application de la contravention de voirie.
+
+Le prix d'un bail conclu par l'Etat ou l'un de ses établissements publics est fixé par référence à la valeur vénale du bien bénéficiant, le cas échéant, de la décote prévue aux articles L. 3211-7 et L. 3211-13-1 du code général de la propriété des personnes publiques.
 
 II. ― Les baux passés en application du I satisfont aux conditions particulières suivantes :
 

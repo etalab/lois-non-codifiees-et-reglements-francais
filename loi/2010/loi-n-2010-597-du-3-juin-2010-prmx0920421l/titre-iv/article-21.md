@@ -2,23 +2,21 @@
 
 I. ― Des contrats de développement territorial peuvent être conclus pour la mise en œuvre des objectifs définis à l'article 1er entre le représentant de l'Etat dans la région, d'une part, et les communes et les établissements publics de coopération intercommunale pour les objets relevant des compétences qui leur ont été transférées, d'autre part.
 
-La région, le département concerné, l'association des maires d'Ile-de-France et le syndicat mixte Paris-Métropole sont consultés préalablement à la signature du contrat.
+La région, le département concerné, l'association des maires d'Ile-de-France et le syndicat mixte Paris-Métropole sont consultés préalablement à la signature des contrats.
+
+La région et les départements territorialement concernés peuvent également, à leur demande, être signataires des contrats.
 
 Les contrats définissent, dans le respect des principes énoncés aux articles L. 110 et L. 121-1 du code de l'urbanisme, les objectifs et les priorités en matière d'urbanisme, de logement, de transports, de déplacements et de lutte contre l'étalement urbain, d'équipement commercial, de développement économique, sportif et culturel, de protection des espaces naturels, agricoles et forestiers et des paysages et des ressources naturelles.
 
-Ces contrats font l'objet, préalablement à leur signature, d'une enquête publique réalisée conformément aux dispositions du chapitre III du titre II du livre Ier du code de l'environnement. La décision d'ouverture de cette enquête intervient au plus tard :
-
-― pour les communes situées dans le périmètre de l'établissement public Paris-Saclay prévu au titre VI de la présente loi, dans un délai de dix-huit mois à compter de sa publication ;
-
-― pour les autres communes, dans un délai de dix-huit mois à compter de l'approbation du schéma d'ensemble du réseau de transport public du Grand Paris.
+Ces contrats font l'objet, préalablement à leur signature, d'une enquête publique réalisée conformément aux dispositions du chapitre III du titre II du livre Ier du code de l'environnement. La décision d'ouverture de cette enquête intervient au plus tard le 31 décembre 2013.
 
 Chaque contrat porte sur le développement d'un territoire inclus dans un ensemble de communes d'un seul tenant et sans enclave. Il fixe la liste des communes concernées.
 
-Toute commune ou établissement public de coopération intercommunale, sous réserve qu'il soit attenant à un ensemble de communes tel que défini par le précédent alinéa, peut, sans préjudice des délais mentionnés aux cinquième et sixième alinéas, adhérer à un contrat de développement territorial existant, à condition d'avoir obtenu l'accord des cocontractants.
+Toute commune ou établissement public de coopération intercommunale, sous réserve qu'il soit attenant à un ensemble de communes tel que défini par le précédent alinéa, peut, sans préjudice des délais mentionnés au cinquième alinéa, adhérer à un contrat de développement territorial existant, à condition d'avoir obtenu l'accord des cocontractants.
 
-II. ― Le contrat de développement territorial définit les modalités de mise en œuvre des objectifs visés au troisième alinéa du I.
+II. ― Le contrat de développement territorial définit les modalités de mise en œuvre des objectifs visés au quatrième alinéa du I.
 
-Il est procédé à l'établissement d'un diagnostic spécifique tenant compte de la situation locale en matière de logement et de logement social sur les territoires inclus dans le périmètre du contrat.
+Il est procédé à l'établissement d'un diagnostic spécifique tenant compte de la situation locale en matière de logement et de logement social sur les territoires inclus dans le périmètre des contrats.
 
 Au vu de ce diagnostic, le contrat précise le nombre de logements et le pourcentage de logements sociaux à réaliser. Ces objectifs quantitatifs ne peuvent être inférieurs à ceux prévus dans le cadre du programme local de l'habitat.
 
@@ -26,7 +24,7 @@ Le contrat de développement territorial comporte des engagements permettant d'a
 
 Il peut prévoir la création de zones d'aménagement différé dont il dresse la liste, fixe le périmètre, et définit les bénéficiaires des droits de préemption institués dans ces zones.
 
-Il précise les actions ou opérations d'aménagement ou les projets d'infrastructures nécessaires à la mise en œuvre des objectifs visés au troisième alinéa du I, ainsi que les conditions de leur mise en œuvre et l'échéancier prévisionnel de leur réalisation. Il définit, après consultation de l'atelier international du Grand Paris, les conditions de leur insertion dans le tissu urbain existant.
+Il précise les actions ou opérations d'aménagement ou les projets d'infrastructures nécessaires à la mise en œuvre des objectifs visés au quatrième alinéa du I, ainsi que les conditions de leur mise en œuvre et l'échéancier prévisionnel de leur réalisation. Il définit, après consultation de l'atelier international du Grand Paris, les conditions de leur insertion dans le tissu urbain existant.
 
 Il présente les conditions générales de leur financement. Ce financement inclut :
 
@@ -42,7 +40,9 @@ Dans les zones d'aménagement différé mentionnées au II du présent article, 
 
 IV. ― Le contrat de développement territorial peut valoir déclaration de projet des actions ou opérations d'aménagement et des projets d'infrastructures visés au sixième alinéa du II du présent article pour l'application de l'article L. 300-6 du code de l'urbanisme. Dans ce cas, le contrat précise les actions et opérations pour lesquelles il vaut déclaration de l'intérêt général.
 
-Si ces actions ou opérations d'aménagement ou ces projets d'infrastructures ne sont pas compatibles avec le schéma directeur de la région d'Ile-de-France, les schémas de cohérence territoriale, les schémas de secteurs et les plans locaux d'urbanisme, l'autorité administrative engage les procédures de mise en compatibilité prévues par les articles L. 122-15, L. 122-16-1, L. 123-14, L. 123-14-2 et L. 141-1-2 du même code. L'enquête publique visée au quatrième alinéa du I du présent article est organisée dans les conditions prévues par ces articles.
+Ces actions ou opérations d'aménagement ou ces projets d'infrastructures sont compatibles avec le schéma directeur de la région d'Ile-de-France. Jusqu'à l'entrée en vigueur du décret abrogeant le schéma approuvé par le décret du 26 avril 1994 portant approbation de la révision du schéma directeur de la région d'Ile-de-France, ce rapport de compatibilité s'apprécie au regard des dispositions du dernier projet de schéma directeur de la région d'Ile-de-France, adopté par délibération du conseil régional, qui ne sont pas contraires à la présente loi.
+
+Si ces actions ou opérations d'aménagement ou ces projets d'infrastructures ne sont pas compatibles avec les schémas de cohérence territoriale, les schémas de secteurs et les plans locaux d'urbanisme, l'autorité administrative engage les procédures de mise en compatibilité prévues par les articles L. 122-15, L. 122-16-1, L. 123-14, et L. 123-16 du même code. L'enquête publique visée au cinquième alinéa du I du présent article est organisée dans les conditions prévues par ces articles.
 
 V. ― Les règles de publicité et de communication définies aux articles L. 2121-24 et L. 2121-26 du code général des collectivités territoriales sont applicables aux contrats de développement territorial.
 
