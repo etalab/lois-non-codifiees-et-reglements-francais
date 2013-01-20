@@ -2,7 +2,7 @@
 
 La commission spécialisée de terminologie et de néologie comprend :
 
-1° Le délégué général à la langue française et aux langues de France ou son représentant ;
+1° Le délégué général à la langue française et aux langues de France ou son représentant :
 
 - un représentant de l'Académie française ;
 
@@ -10,11 +10,13 @@ La commission spécialisée de terminologie et de néologie comprend :
 
 - un représentant d'un organisme agréé de normalisation, désigné par le ministre chargé de l'agriculture ;
 
-- le représentant du ministre de l'éducation nationale ;
+- le représentant du ministre chargé de l'éducation nationale ;
 
-- le représentant du ministre de l'enseignement supérieur et de la recherche ;
+- le représentant du ministre chargé de l'enseignement supérieur et de la recherche ;
 
-- le représentant du ministre de l'écologie, du développement et de l'aménagement durables ;
+- le représentant du ministre chargé de l'écologie ;
+
+- le représentant du ministre chargé de la pêche.
 
 2° Des représentants de l'administration, désignés par le ministre chargé de l'agriculture ;
 
