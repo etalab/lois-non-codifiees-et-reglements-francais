@@ -1,0 +1,3 @@
+# Article 1
+
+Le fonctionnaire en activité ou en position de détachement dont un ascendant, un descendant, un frère, une sœur, une personne partageant le même domicile ou l'ayant désigné comme sa personne de confiance, au sens de l'article L. 1111-6 du code de la santé publique, souffre d'une pathologie mettant en jeu le pronostic vital ou est en phase avancée ou phase terminale d'une affection grave et incurable quelle qu'en soit la cause a droit au congé de solidarité familiale prévu au 9° de l'article 34 de la loi du 11 janvier 1984 susvisée, au 10° de l'article 57 de la loi du 26 janvier 1984 susvisée et au 9° de l'article 41 de la loi du 9 janvier 1986 susvisée.
