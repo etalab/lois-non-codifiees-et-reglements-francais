@@ -1,4 +1,4 @@
-# Article 19 ter
+# Article 14-3
 
 I.-L'agent non titulaire en activité a droit à un congé de solidarité familiale lorsqu'un ascendant, un descendant, un frère, une sœur, une personne partageant le même domicile ou l'ayant désigné comme sa personne de confiance au sens de l'article L. 1111-6 du code de la santé publique souffre d'une pathologie mettant en jeu le pronostic vital ou est en phase avancée ou terminale d'une affection grave et incurable, quelle qu'en soit la cause.
 
