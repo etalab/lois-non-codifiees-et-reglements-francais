@@ -251,7 +251,6 @@
 - [Arrêté du 11 août 2004 (AGRA0401594A)](arrete-du-11-aout-2004-agra0401594a)
 - [Arrêté du 11 août 2004 (ECOT0410508A)](arrete-du-11-aout-2004-ecot0410508a)
 - [Arrêté du 11 décembre 2003 (EQUS0301815A)](arrete-du-11-decembre-2003-equs0301815a)
-- [Arrêté du 11 décembre 2003 (INTA0300793A)](arrete-du-11-decembre-2003-inta0300793a)
 - [Arrêté du 11 février 2004 (BUDD0450013A)](arrete-du-11-fevrier-2004-budd0450013a)
 - [Arrêté du 11 février 2004 (EQUP0400246A)](arrete-du-11-fevrier-2004-equp0400246a)
 - [Arrêté du 11 février 2004 (INTC0400125A)](arrete-du-11-fevrier-2004-intc0400125a)
