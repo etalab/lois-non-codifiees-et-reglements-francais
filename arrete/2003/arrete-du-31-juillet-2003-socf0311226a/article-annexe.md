@@ -2,9 +2,7 @@
 
 **INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
-Intitulé :
-
-Titre professionnel : agent d'accueil touristique.
+Intitulé : agent (e) d'accueil touristique.
 
 Niveau : V.
 
@@ -12,59 +10,75 @@ Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-L'agent d'accueil touristique assure, à partir de ressources mises à sa disposition, l'accueil et l'information des visiteurs d'une entreprise ou d'une destination touristique. Il peut s'exprimer dans un anglais simple auprès des visiteurs anglophones. Il propose, prépare, réserve et peut vendre des visites et des excursions simples. Il participe à la préparation et à la réalisation de manifestations festives et culturelles.
+L'agent (e) d'accueil touristique accueille, informe et oriente des visiteurs individuels ou en groupe. Il (elle) exerce principalement son emploi sur une zone d'accueil en face à face mais aussi par téléphone.
 
-Il est en contact direct avec le client, en face à face ou au téléphone. Il est soumis aux conditions de travail propres au contact avec le public : qualité de sa présentation et de son expression, vigilance permanente aux règles d'hygiène et de sécurité des personnes et des biens.
+Il (elle) prépare et assiste les clients sur des prestations (visites, excursions), il (elle) promeut et vend les prestations sur catalogue et les produits en boutique. L'agent (e) d'accueil participe également à l'organisation et à l'animation d'événements festifs, culturels au sein de la structure touristique. Dans le cadre de sa mission, il applique les procédures internes à l'entreprise et s'exprime généralement en français et en anglais.
 
-L'emploi est souvent saisonnier. La durée hebdomadaire de travail peut être variable et inclure les soirées, les week-ends et les jours fériés.
+L'agent (e) d'accueil touristique exerce seul (e) ou au sein d'une équipe ses activités sous la responsabilité d'un hiérarchique. Il (elle) est le plus souvent sédentaire.
+
+Il (elle) est quotidiennement en relation avec les visiteurs et les institutionnels du tourisme (office de tourisme, comité départemental de tourisme, comité régional de tourisme, office de tourisme syndicat d'initiative...), ainsi qu'avec ses collègues et supérieurs hiérarchiques. Il (elle) utilise les technologies de traitement de l'information et de la communication dans le cadre de ses fonctions.
+
+Selon la taille de l'entreprise, l'agent (e) d'accueil touristique exerce son activité à temps plein ou à temps partiel en qualité de saisonnier. Les horaires peuvent être variables et s'effectuer en soirées, les week-ends et jours fériés. La rémunération est fixe.
+
+Cet emploi s'exerce dans des structures de taille variable allant des maisons de pays aux villages vacances. Il (elle) assure sa mission le plus souvent en station debout et prolongée, dans un contexte sonore plus ou moins amplifié en fonction de l'affluence des clients.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Accueillir et informer les visiteurs
+1. Tenir une zone d'accueil dans une entreprise
 
-dans une entreprise de tourisme et de loisirs
+de tourisme et de loisirs
 
-Répondre, éventuellement en anglais simple, aux demandes des visiteurs d'une entreprise de tourisme et de loisirs en prenant en compte leurs spécificités.
+Accueillir, informer et orienter la clientèle touristique.
 
-Maintenir constante une attitude de représentation de l'entreprise de tourisme et de loisirs vis-à-vis du public et veiller à l'esthétique des lieux d'accueil.
+Entretenir les lieux et veiller au bon fonctionnement des supports d'information papiers et numériques proposés aux visiteurs.
 
-Développer et maintenir des relations de travail d'équipe en entreprise de tourisme et de loisirs par les échanges d'information et l'entraide avec ses collègues.
+Transmettre des informations aux différents services internes d'une entreprise de tourisme et de loisirs et aux prestataires externes.
 
-Participer à la sécurité des personnes et des biens, par une vigilance constante à son environnement et intervenir selon les procédures prescrites par l'entreprise de tourisme et de loisirs en cas d'urgence.
+2. Assister la clientèle sur des prestations
 
-2. Assister les visiteurs individuels
+touristiques et de loisirs
 
-dans leur découverte touristique
+Préparer des prestations découvertes personnalisées en réponse aux demandes des clients.
 
-Préparer, en tenant compte des données du contexte, des visites ou des excursions simples.
+Promouvoir, réserver et vendre des prestations touristiques et de loisirs simples et des produits en boutique.
 
-Réserver et éventuellement vendre diverses prestations touristiques simples (articles locaux et produits dérivés), y compris pour une clientèle anglophone.
+3. Participer à l'organisation et à l'animation
 
-3. Participer à l'organisation d'une manifestation
+d'événements festifs et culturels
 
-festive ou culturelle
+Participer à la promotion d'événements festifs et culturels.
 
-Diffuser l'annonce de la manifestation festive ou culturelle après avoir réalisé les supports de communication adaptés, éventuellement en anglais.
+Contribuer à l'organisation d'événements festifs et culturels.
 
-Contribuer à l'organisation de la manifestation festive ou culturelle en exécutant des tâches simples d'aménagement et de décor adapté au thème de la manifestation.
+Participer à l'animation d'événements festifs et culturels.
 
-Développer et maintenir des relations de travail d'équipe en entreprise de tourisme ou de loisirs par les échanges d'information et l'entraide avec ses collègues.
+Compétences transversales de l'emploi
 
-Participer à la sécurité des personnes et des biens, par une vigilance constante à son environnement et intervenir selon les procédures prescrites par l'entreprise de tourisme ou de loisirs en cas d'urgence.
+(le cas échéant)
+
+Mobiliser un comportement orienté client et une posture de service en tourisme.
+
+Appliquer les règles d'hygiène, de santé et de sécurité dans un établissement de tourisme ou de loisirs.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi s'exerce généralement dans des structures réceptives (offices de tourisme, syndicats d'initiative) ou des structures d'hébergement telles que les villages de vacances et l'hôtellerie de plein air.
+Les différents secteurs d'activités concernés sont principalement les maisons de pays, office de tourisme, hôtellerie de plein air, tourisme social et familial, villages vacances, ports de plaisance, casinos, golf, les musées, les centres culturels et les festivals.
 
-L'emploi peut s'exercer également dans des centres de congrès, sur les bateaux de croisière et sur les sites touristiques.
+Les types d'emplois accessibles sont les suivants :
+
+-hôte, hôtesse d'accueil et d'information ;
+
+-hôte, hôtesse de tourisme ;
+
+-chargé (e) d'accueil.
 
 Code ROME :
 
-12112-Agent (e) d'accueil.
+G1101-Accueil touristique.
 
 Réglementation de l'activité :
 
@@ -76,6 +90,11 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation : les articles L. 335-5, L. 335-6
+et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 1er août 2013.

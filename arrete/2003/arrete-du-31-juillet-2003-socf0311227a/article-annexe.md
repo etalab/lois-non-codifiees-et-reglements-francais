@@ -2,9 +2,7 @@
 
 **INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
-Intitulé :
-
-Titre professionnel : agent de loisirs.
+Intitulé : agent (e) de loisirs.
 
 Niveau : V.
 
@@ -12,81 +10,75 @@ Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-L'agent de loisirs effectue les activités correspondant aux divers services rendus aux visiteurs d'un parc de loisirs : accueil, information et orientation du public, vente d'articles en boutique, restauration légère, animations diverses. En contact permanent avec les visiteurs, il représente l'image spécifique dont son entreprise souhaite être porteuse auprès de son public.
+L'agent (e) de loisirs est une personne qui, dans le cadre de sa fonction, accompagne les clients tout au long de leurs visites. Il (elle) accueille, informe et oriente les visiteurs dans une entreprise de loisirs. Il (elle) anime un public lors des files d'attentes et participe au fonctionnement des attractions. L'agent (e) de loisirs vend des produits en boutique ainsi que des produits de restauration légère durant le séjour des visiteurs.
 
-Il peut exercer l'une ou l'autre des ces activités au cours d'une même journée, en poste isolé ou en binôme. Il n'assure que très exceptionnellement les spectacles.
+Il (elle) exerce principalement son emploi en face à face avec le public. L'agent (e) de loisirs travaille le plus souvent au sein d'une équipe sous la responsabilité d'un supérieu hiérarchique. Il (elle) est en lien permanent avec le personnel de sécurité et les opérateurs d'attractions. Il (elle) est présent sur site dans le cadre de ses activités.
 
-Il est soumis aux conditions de travail propres au contact avec le public : qualité de sa présentation et de son expression, vigilance permanente aux règles d'hygiène et de sécurité des personnes et des biens. Il peut s'exprimer dans un anglais simple auprès de visiteurs étrangers.
+L'emploi d'agent (e) de loisirs s'exerce dans une entreprise de loisirs, ouverte au public, à vocation récréative et/ ou culturelle, aménagée en espace clos et comportant des attractions de diverses natures. L'agent (e) de loisirs est souvent à l'extérieur, en station debout en présence du public, dans un environnement sonore.
 
-Placé sous l'autorité d'un agent de maîtrise, il lui rend compte de son activité.
+Dans une structure de loisirs, la tenue vestimentaire peut être imposée. Les entreprises de loisirs peuvent être ouvertes tout au long de l'année ou de manière saisonnière. La durée de travail peut être répartie de manière égale ou inégale sur cinq ou six jours pendant la saison, y compris les week-ends et jours fériés.
+
+Il contribue à l'image de l'entreprise par son comportement, sa présentation personnelle et le respect des standards de l'entreprise. Il prend acte de la réglementation concernant la sécurité, la non-discrimination et les engagements de l'entreprise en matière de développement durable.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Accueillir et informer les visiteurs dans une entreprise
+1. Accueillir et animer la clientèle
 
-de tourisme et de loisirs
+dans un site de loisirs
 
-Répondre, éventuellement en anglais simple, aux demandes des visiteurs en prenant en compte leurs spécificités.
+Accueillir, informer et orienter les visiteurs sur une structure de loisirs.
 
-Maintenir constante une attitude de représentation de l'entreprise vis-à-vis du public et veiller à l'esthétique des lieux d'accueil.
+Faire participer le public aux attractions et aux spectacles.
 
-Développer et maintenir des relations de travail d'équipe par les échanges d'informations et l'entraide avec ses collègues.
+Contribuer au fonctionnement d'une attraction de loisirs.
 
-Participer à la sécurité des personnes et des biens, par une vigilance constante à son environnement et intervenir selon les procédures prescrites en cas d'urgence.
+2. Participer à l'activité boutique
 
-2. Assurer l'animation
+dans une entreprise de loisirs
 
-en entreprise de loisirs
+Vendre des produits en boutique aux visiteurs.
 
-Assurer l'animation par un comportement et une gestuelle adaptée pour susciter la participation des publics aux activités proposées, y compris en anglais pour le public étranger.
+Contribuer au fonctionnement du point de vente ou du stand.
 
-Assurer l'animation pendant les périodes d'attente du public et gérer les situations d'affluence aux attractions ou aux spectacles.
+3. Tenir un espace de restauration légère
 
-Animer ou faire fonctionner une attraction, en vérifiant l'état de fonctionnement et de propreté des appareils ou des équipements.
+dans une entreprise de loisirs
 
-Participer à la sécurité des personnes et des biens, par une vigilance constante à son environnement et intervenir selon les procédures prescrites en cas d'urgence.
+Réaliser en assemblage des préparations froides et chaudes en restauration légère.
 
-3. Vendre en boutique aux visiteurs
+Enregistrer et distribuer les commandes des clients en restauration légère.
 
-Vendre, accueillir, conseiller le client dans ses choix, y compris en anglais simple.
+Maintenir propre et accueillant l'espace de restauration en respectant les règles d'hygiène et les standards.
 
-Encaisser suivant les différents modes de paiement choisis en appliquant éventuellement les procédures sur les réductions et escomptes.
+Compétences transversales de l'emploi
 
-Gérer le point de vente en effectuant l'inventaire, en réceptionnant et contrôlant les livraisons, en réapprovisionnant les produits.
+(le cas échéant)
 
-Veiller à l'agencement harmonieux du point de vente.
+Appliquer les règles d'hygiène, de santé et de sécurité dans un établissement de tourisme et loisirs.
 
-Participer à la sécurité des personnes et des biens, par une vigilance constante à son environnement et intervenir selon les procédures prescrites en cas d'urgence.
+Mobiliser un comportement orienté client et une posture de service en tourisme.
 
-4. Préparer et distribuer des produits
+Secteurs d'activités ou types d'emploi
 
-de restauration légère
+accessibles par le détenteur du titre
 
-Réaliser en assemblage des préparations froides et chaudes en appliquant les normes d'hygiène alimentaire et réapprovisionner les présentoirs.
+Les différents secteurs d'activités concernés sont principalement les parcs d'attractions et de loisirs, les sites culturels, les parcs ludo-éducatifs, les parcs animaliers, les bases de loisirs en hôtellerie de plein air.
 
-Maintenir propre et accueillant l'espace de consommation, enregistrer et distribuer les commandes, y compris dans un anglais simple.
+Les types d'emplois accessibles sont les suivants :
 
-Encaisser et vérifier les sommes suivant les différents modes de paiement choisis en appliquant éventuellement les procédures sur les réductions et escomptes.
+-opérateur d'attraction, conducteur d'attractions ;
 
-Participer à la sécurité des personnes et des biens, par une vigilance constante à son environnement et intervenir selon les procédures prescrites en cas d'urgence.
+-employé de restauration légère ;
 
-Secteur d'activité ou type d'emploi accessibles
+-vendeur de produits boutique ;
 
-par le détenteur du titre
+-animateur et présentateur de spectacles adaptés aux parcs de loisirs et d'attraction.
 
-L'emploi d'agent de loisirs s'exerce dans une entreprise de loisirs, ouverte au public, à vocation récréative et / ou culturelle, aménagée en espace clos et comportant des attractions de diverse nature.
+Code ROME :
 
-Codes ROME :
-
-12112-Agent d'accueil.
-
-21241-Opérateur d'attractions.
-
-14225-Vendeur en produits culturels et ludiques.
-
-13221-Employé polyvalent de restauration.
+G1205-Personnel d'attractions ou de structures de loisirs.
 
 Réglementation de l'activité :
 
@@ -98,8 +90,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation : les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 1er août 2013.

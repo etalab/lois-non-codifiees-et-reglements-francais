@@ -1,11 +1,11 @@
 # Article 3
 
-Le titre professionnel d'agent d'accueil touristique est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel d'agent (e) d'accueil touristique est composé des trois unités constitutives suivantes :
 
-1. Accueillir et informer les visiteurs dans une entreprise de tourisme et de loisirs ;
+1. Tenir une zone d'accueil dans une entreprise de tourisme et de loisirs.
 
-2. Assister les visiteurs individuels dans leur découverte touristique ;
+2. Assister la clientèle sur des prestations touristiques et de loisirs.
 
-3. Participer a l'organisation d'une manifestation festive ou culturelle.
+3. Participer à l'organisation et à l'animation d'événements festifs et culturels.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
