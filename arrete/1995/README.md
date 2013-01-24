@@ -401,7 +401,6 @@
 - [Arrêté du 10 mars 1995 (DEFD9501296A)](arrete-du-10-mars-1995-defd9501296a)
 - [Arrêté du 10 mars 1995 (DEFP9501094A)](arrete-du-10-mars-1995-defp9501094a)
 - [Arrêté du 10 mars 1995 (EQUS9500063A)](arrete-du-10-mars-1995-equs9500063a)
-- [Arrêté du 10 mars 1995 (SPSA9500815A)](arrete-du-10-mars-1995-spsa9500815a)
 - [Arrêté du 10 novembre 1994 (INTE9400577A)](arrete-du-10-novembre-1994-inte9400577a)
 - [Arrêté du 10 octobre 1994 (EQUR9401685A)](arrete-du-10-octobre-1994-equr9401685a)
 - [Arrêté du 10 mai 1995 (AGRS9500958A)](arrete-du-10-mai-1995-agrs9500958a)
