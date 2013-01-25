@@ -231,3 +231,5 @@ Tableau de correspondance entre épreuves
 </tr>
 </tbody>
 </table>
+
+L'ajout de la correspondance des épreuves facultatives  sera mis en ligne sur le site  http://www.enseignementsup-recherche.gouv.fr/
