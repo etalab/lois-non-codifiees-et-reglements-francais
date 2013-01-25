@@ -4,7 +4,7 @@ Les commissions administratives paritaires compétentes à l'égard des personne
 
 N° 1. - Corps des inspecteurs des affaires maritimes ;
 
-N° 2. - Corps des contrôleurs des affaires maritimes ;
+N° 2. - Supprimée ;
 
 N° 3. - Supprimée ;
 

@@ -82,58 +82,24 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 </td>
 </tr>
 <tr>
-<td>
-<p>N° 2</p>
-</td>
-<td>
-<p>Contrôleurs des affaires maritimes de classe exceptionnelle </p>
-<p>Contrôleurs des affaires maritimes de classe supérieure </p>
-<p>Contrôleurs des affaires maritimes de classe normale</p>
-</td>
-<td>
-<p align="center">2 </p>
-<br/>
-<p align="center">2 </p>
-<br/>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2 </p>
-<br/>
-<p align="center">2 </p>
-<br/>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>N° 7</p>
-</td>
+<td>N° 7</td>
 <td>
 <p>Agents des services techniques de 1re classe </p>
 <p>Agents des services techniques de 1re classe</p>
 </td>
 <td>
-<p align="center">1 </p>
-<br/>
+<p align="center"> 1</p>
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">1 </p>
-<br/>
+<p align="center"> 1</p>
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center"> 3</p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center"> 3</p>
 </td>
 </tr>
 <tr>
