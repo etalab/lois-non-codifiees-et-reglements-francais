@@ -2397,7 +2397,6 @@
 - [Arrêté du 26 juillet 2011 (ETSR1120827A)](arrete-du-26-juillet-2011-etsr1120827a)
 - [Arrêté du 26 juillet 2011 (ETSR1120831A)](arrete-du-26-juillet-2011-etsr1120831a)
 - [Arrêté du 26 juillet 2011 (INDR1118618A)](arrete-du-26-juillet-2011-indr1118618a)
-- [Arrêté du 26 juillet 2011 (IOCJ1112616A)](arrete-du-26-juillet-2011-iocj1112616a)
 - [Arrêté du 26 juillet 2011 (IOCL1113712A)](arrete-du-26-juillet-2011-iocl1113712a)
 - [Arrêté du 26 juillet 2011 (IOCL1113715A)](arrete-du-26-juillet-2011-iocl1113715a)
 - [Arrêté du 26 juillet 2011 (IOCL1113716A)](arrete-du-26-juillet-2011-iocl1113716a)
