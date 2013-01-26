@@ -88,6 +88,7 @@
 - [Décret n°93-398 du 18 mars 1993 (INTB9300128D)](decret-n93-398-du-18-mars-1993-intb9300128d)
 - [Décret n°2012-1438 du 21 décembre 2012 (INTB1240092D)](decret-n2012-1438-du-21-decembre-2012-intb1240092d)
 - [Décret n°2008-387 du 23 avril 2008 (ECEU0768945D)](decret-n2008-387-du-23-avril-2008-eceu0768945d)
+- [Décret n°2013-73 du 23 janvier 2013 (AFSH1230070D)](decret-n2013-73-du-23-janvier-2013-afsh1230070d)
 - [Décret n°2012-1444 du 24 décembre 2012 (JUSB1241952D)](decret-n2012-1444-du-24-decembre-2012-jusb1241952d)
 - [Décret n°2012-1445 du 24 décembre 2012 (EFIT1240419D)](decret-n2012-1445-du-24-decembre-2012-efit1240419d)
 - [Décret n°2012-1455 du 24 décembre 2012 (INTC1222192D)](decret-n2012-1455-du-24-decembre-2012-intc1222192d)
