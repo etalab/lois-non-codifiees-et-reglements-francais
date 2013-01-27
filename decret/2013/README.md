@@ -93,6 +93,8 @@
 - [Décret n°2012-1445 du 24 décembre 2012 (EFIT1240419D)](decret-n2012-1445-du-24-decembre-2012-efit1240419d)
 - [Décret n°2012-1455 du 24 décembre 2012 (INTC1222192D)](decret-n2012-1455-du-24-decembre-2012-intc1222192d)
 - [Décret n°2012-1456 du 24 décembre 2012 (INTJ1230506D)](decret-n2012-1456-du-24-decembre-2012-intj1230506d)
+- [Décret n°2013-77 du 24 janvier 2013 (MENE1301789D)](decret-n2013-77-du-24-janvier-2013-mene1301789d)
+- [Décret n°2013-76 du 25 janvier 2013 (PRMX1243290D)](decret-n2013-76-du-25-janvier-2013-prmx1243290d)
 - [Décret n°2011-462 du 26 avril 2011 (ETSG1106371D)](decret-n2011-462-du-26-avril-2011-etsg1106371d)
 - [Décret n°2012-1462 du 26 décembre 2012 (EFIE1225116D)](decret-n2012-1462-du-26-decembre-2012-efie1225116d)
 - [Décret n°2012-1463 du 26 décembre 2012 (EFIE1225113D)](decret-n2012-1463-du-26-decembre-2012-efie1225113d)
