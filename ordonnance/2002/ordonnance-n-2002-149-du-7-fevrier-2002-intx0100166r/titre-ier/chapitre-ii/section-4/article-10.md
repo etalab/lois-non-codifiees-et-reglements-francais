@@ -1,15 +1,23 @@
 # Article 10
 
-L'allocation de logement est accordée, au titre de sa résidence principale et sur sa demande, à toute personne percevant les allocations familiales qui paie un minimum de loyer, compte tenu des ressources de la personne ou du ménage, et du nombre d'enfants à sa charge. Sont assimilées à un loyer les mensualités versées pour accéder à la propriété de l'habitation.
+L'article L. 755-21 du code de la sécurité sociale est applicable à Mayotte ainsi que, pour les besoins de cette application, les dispositions du code de la sécurité sociale auxquelles il renvoie, sous réserve des adaptations suivantes :
 
-Le logement doit répondre à des conditions minima de salubrité et de peuplement déterminées par arrêté du représentant de l'Etat.
+1° Au premier alinéa, les mots : " dans les départements mentionnés à l'article L. 751-1 " sont remplacés par les mots : " à Mayotte " ;
 
-Les barèmes de cette allocation sont fixés par voie réglementaire.
+2° Au deuxième alinéa, les mots : " au sens du livre IX du code du travail " sont remplacés par les mots : " au sens du livre VII du code du travail applicable à Mayotte " ;
 
-La caisse gestionnaire est habilitée à faire vérifier sur place si le logement satisfait aux exigences prévues au présent article. Le même droit est reconnu aux médecins inspecteurs de la santé et aux inspecteurs des affaires sanitaires et sociales. Le contrôle du montant des loyers et de l'importance des ressources du bénéficiaire est assuré par le personnel assermenté de cette caisse auquel les administrations publiques et les administrations financières sont tenues de communiquer toutes les pièces nécessaires à l'exercice de leurs fonctions.
+3° Le dernier alinéa est ainsi modifié :
 
-Lorsque, par suite d'un défaut d'entretien imputable au bénéficiaire, le logement cesse de remplir les conditions prévues au deuxième alinéa du présent article ou lorsque le bénéficiaire refuse de se soumettre au contrôle prévu, le versement des allocations peut être suspendu ou interrompu.
+a) Après la référence : " L. 542-2 ", sont insérés les mots : ", à l'exception de la deuxième et de la troisième phrases du troisième alinéa ainsi que du cinquième alinéa " ;
 
-Pour les locataires, ainsi qu'en cas d'accession à la propriété avec un emprunt, l'allocation de logement est versée directement au bailleur ou au prêteur. Son montant est déduit, par le bailleur ou prêteur, du montant du loyer et des dépenses accessoires de logement, ou de celui des charges de remboursement de l'emprunt. Cette déduction est portée à la connaissance de l'allocataire. Ces dispositions ne sont pas applicables en cas de refus du bailleur ou du prêteur.
+b) Les mots : " et L. 542-8 " sont supprimés ;
 
-L'allocation de logement n'est pas due aux personnes qui sont locataires d'un logement appartenant à l'un de leurs ascendants ou descendants ou ceux de leur conjoint ou concubin ou de toutes personnes liées à elles par un contrat conclu en application de l'article L. 515-1 du code civil.
+c) Les mots : " dans ces départements " sont remplacés par les mots : " à Mayotte " ;
+
+d) Il est ajouté une phrase ainsi rédigée : " Si un logement devient surpeuplé, du fait de l'arrivée au foyer d'un enfant à charge, d'un conjoint, concubin ou partenaire lié par un pacte civil de solidarité, ou d'un ascendant à charge, les allocations sont maintenues pendant une durée déterminée, dans des conditions fixées par voie réglementaire. " ;
+
+4° Il est ajouté deux derniers alinéas ainsi rédigés :
+
+" Outre les revalorisations prévues par l'article L. 542-5, il est procédé par voie réglementaire à des revalorisations spécifiques à Mayotte des paramètres de calcul de l'allocation, en vue de réduire la différence de montant de l'allocation avec la métropole et les départements mentionnés à l'article L. 751-1. ;
+
+" Les dispositions du II et du premier alinéa du III de l'article L. 553-4 du code de la sécurité sociale sont applicables à Mayotte. "
