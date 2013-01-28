@@ -228,6 +228,7 @@
 - [Arrêté du 21 janvier 2013 (PRMG1300693A)](arrete-du-21-janvier-2013-prmg1300693a)
 - [Arrêté du 21 septembre 2012 (DEVA1235187A)](arrete-du-21-septembre-2012-deva1235187a)
 - [Arrêté du 22 décembre 2012 (DEVR1300062A)](arrete-du-22-decembre-2012-devr1300062a)
+- [Arrêté du 22 janvier 2013 (MENH1240284A)](arrete-du-22-janvier-2013-menh1240284a)
 - [Arrêté du 22 janvier 2013 (PRMG1300689A)](arrete-du-22-janvier-2013-prmg1300689a)
 - [Arrêté du 22 novembre 2012 (DEVP1239731A)](arrete-du-22-novembre-2012-devp1239731a)
 - [Arrêté du 22 novembre 2012 (DEVP1239767A)](arrete-du-22-novembre-2012-devp1239767a)
