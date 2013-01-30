@@ -2,23 +2,25 @@
 
 LE TEST TECHNIQUE D'ACCÈS
 
-I. ― Composition du dossier d'inscription
+I. - Composition du dossier d'inscription
 
 Le dossier comprend les pièces suivantes :
 
-1. Une demande d'inscription établie sur un imprimé normalisé ;
+1. Une demande d'inscription établie sur un imprimé normalisé (*).
 
-2. Une photographie d'identité récente ;
+2. Une photographie d'identité récente.
 
-3. Une photocopie recto verso de la carte nationale d'identité ou du passeport ;
+3. Une photocopie recto verso de la carte nationale d'identité ou du passeport.
 
-4. Pour les candidats de nationalité française, nés à partir de 1979 pour les hommes et à partir de 1983 pour les femmes, une photocopie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et citoyenneté ;
+4. Pour les candidats de nationalité française nés à partir de 1979 pour les hommes et à partir de 1983 pour les femmes, une photocopie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et citoyenneté.
 
-5. Pour les personnes mineures, l'autorisation parentale ou celle du tuteur légal ;
+5. Pour les personnes mineures, l'autorisation parentale ou celle du tuteur légal.
 
-6. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski datant de moins d'un an à la date de clôture de la première inscription ;
+6. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski datant de moins d'un an à la date de clôture de la première inscription.
 
-7. Trois enveloppes autocollantes de format 23 × 16 cm affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat ;
+7. Trois enveloppes autocollantes de format 23 × 16 cm affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat (*).
+
+Les convocations aux tests de la première période (tests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait aux tests, en vue d'une éventuelle inscription aux tests de la seconde période (test se déroulant entre les mois de mars et avril) .
 
 II. ― Modalités d'organisation
 
@@ -44,9 +46,7 @@ A titre d'exemple :
 
 ― l'ouvreur noté à 18 est affecté du coefficient 0,98.
 
-III. ― Modalités de calcul du temps de base
-
-et du temps maximal à réaliser pour l'admission
+III. ― Modalités de calcul du temps de base et du temps maximal à réaliser pour l'admission
 
 Le temps de base est calculé comme suit, à partir du meilleur temps compensé des ouvreurs :
 
