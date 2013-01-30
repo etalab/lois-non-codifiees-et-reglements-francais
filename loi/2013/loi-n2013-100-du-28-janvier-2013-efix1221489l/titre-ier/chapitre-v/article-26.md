@@ -1,0 +1,7 @@
+# Article 26
+
+Les établissements de crédit, autres que ceux mentionnés à l'article 25, peuvent opter, dans les six mois à compter de la promulgation de la présente loi, pour le statut d'établissement de monnaie électronique mentionné au chapitre VI du titre II du livre V du code monétaire et financier. Ils notifient leur choix à l'Autorité de contrôle prudentiel, en précisant les opérations qu'ils souhaitent fournir ainsi que, le cas échéant, le maintien des formalités de reconnaissance mutuelle de leur agrément effectuées sous le statut d'établissement de crédit. L'Autorité de contrôle prudentiel se prononce dans un délai de deux mois à compter de la réception de la notification.
+
+A défaut d'une telle notification, ils sont réputés garder le statut d'établissement de crédit à l'issue du délai d'option.
+
+Lorsqu'ils optent pour le statut d'établissement de monnaie électronique et ont fourni à l'Autorité de contrôle prudentiel la preuve du respect des exigences fixées aux articles L. 526-8 et L. 526-9 du même code, les établissements de crédit sont réputés être titulaires de l'agrément pour exercer l'ensemble des opérations notifiées sur le territoire de la République ainsi que, le cas échéant, dans les autres Etats membres de l'Union européenne ou dans les autres Etats parties à l'accord sur l'Espace économique européen. Ils mettent leurs statuts en conformité avec les exigences relatives au statut d'établissement de monnaie électronique.

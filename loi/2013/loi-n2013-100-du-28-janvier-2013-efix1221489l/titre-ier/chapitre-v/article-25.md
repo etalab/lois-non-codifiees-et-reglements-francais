@@ -1,0 +1,3 @@
+# Article 25
+
+Les établissements de crédit agréés, avant la promulgation de la présente loi, en qualité de société financière et dont l'activité est limitée à l'émission, la mise à la disposition du public ou la gestion de monnaie électronique sont réputés être titulaires de l'agrément d'établissement de monnaie électronique et respecter les exigences fixées aux articles L. 526-8 et L. 526-9 du code monétaire et financier. Ils mettent leurs statuts en conformité avec les exigences relatives à la qualité d'établissement de monnaie électronique dans un délai de six mois à compter de la promulgation de la présente loi.
