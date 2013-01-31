@@ -2218,7 +2218,6 @@
 - [Arrêté du 24 octobre 2011 (ESRH1129351A)](arrete-du-24-octobre-2011-esrh1129351a)
 - [Arrêté du 24 octobre 2011 (ETSH1122259A)](arrete-du-24-octobre-2011-etsh1122259a)
 - [Arrêté du 24 octobre 2011 (ETSH1129592A)](arrete-du-24-octobre-2011-etsh1129592a)
-- [Arrêté du 24 octobre 2011 (IOCC1123744A)](arrete-du-24-octobre-2011-iocc1123744a)
 - [Arrêté du 24 octobre 2011 (IOCE1129884A)](arrete-du-24-octobre-2011-ioce1129884a)
 - [Arrêté du 24 octobre 2011 (PRMG1125391A)](arrete-du-24-octobre-2011-prmg1125391a)
 - [Arrêté du 24 mai 2011 (AGRT1112035A)](arrete-du-24-mai-2011-agrt1112035a)
