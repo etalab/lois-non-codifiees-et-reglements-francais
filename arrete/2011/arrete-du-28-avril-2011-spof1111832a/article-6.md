@@ -1,8 +1,10 @@
 # Article 6
 
-Est dispensé de la vérification des exigences préalables définies à l'article 5 le candidat titulaire de l'un des diplômes ou brevets fédéraux suivants :
+Est dispensé de la vérification des exigences préalables définies à l'article 5 le candidat titulaire de l'un des diplômes, certificats de qualification professionnelle ou brevets fédéraux suivants :
 
-― brevet d'Etat d'éducateur sportif premier degré option « motocyclisme » ;
+― brevet d'Etat d'éducateur sportif premier degré option motocyclisme ;
+
+― certificat de qualification professionnelle " initiateur en motocyclisme " ;
 
 ― brevet fédéral d'éducateur délivré par la Fédération française de motocyclisme ;
 
