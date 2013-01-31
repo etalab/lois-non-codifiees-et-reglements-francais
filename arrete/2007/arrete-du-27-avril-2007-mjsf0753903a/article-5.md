@@ -1,11 +1,13 @@
 # Article 5
 
-Les candidats titulaires du brevet d'Etat d'éducateur sportif du premier degré option « golf » ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « golf » obtiennent de droit la validation de l'unité capitalisable 4 « être capable d'encadrer le golf en sécurité » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « golf ».
+Les exigences préalables à la mise en situation pédagogique sont les suivantes :
 
-Les candidats titulaires du diplôme fédéral d'entraîneur de club de la Fédération française de golf obtiennent de droit la validation des unités capitalisables suivantes du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « golf » :
+- être capable d'évaluer les risques objectifs liés à la pratique de la discipline ;
 
-- unité capitalisable 1 : « être capable de concevoir un projet d'action » ;
+- être capable d'anticiper les risques potentiels pour le pratiquant ;
 
-- unité capitalisable 2 : « être capable de coordonner la mise en oeuvre d'un projet d'action ;
+- être capable de maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident ;
 
-- unité capitalisable 4 : « être capable d'encadrer le golf en sécurité ».
+- être capable de mettre en œuvre une séance d'entraînement en golf en sécurité.
+
+Il est procédé à la vérification de ces exigences préalables lors de la mise en place d'une séance d'entraînement en sécurité en golf d'une durée de trente minutes suivie d'un entretien d'une durée de quinze minutes.

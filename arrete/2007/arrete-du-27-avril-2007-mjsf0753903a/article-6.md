@@ -1,3 +1,9 @@
 # Article 6
 
-Le directeur de la vie associative, de l'emploi et des formations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Est dispensé de la vérification des exigences préalables définies à l'article 5 le candidat titulaire de l'un des diplômes ou brevet fédéral suivants :
+
+- brevet d'Etat d'éducateur sportif du premier degré option "golf" ;
+
+- brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "golf" ;
+
+- "diplôme fédéral d'entraîneur de club" délivré par la Fédération française de golf.

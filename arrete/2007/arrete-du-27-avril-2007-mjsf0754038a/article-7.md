@@ -1,3 +1,5 @@
 # Article 7
 
-Le directeur de la vie associative, de l'emploi et des formations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les candidats titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "perfectionnement sportif", mention "golf", obtiennent de droit la validation de l'unité capitalisable 4 "être capable d'encadrer le golf en sécurité" du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité "performance sportive", mention "golf".
+
+Les candidats titulaires du "diplôme fédéral d'entraîneur de club" délivré par la Fédération française de golf obtiennent de droit la validation de l'unité capitalisable suivante du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité "performance sportive", mention "golf" : unité capitalisable 4 (UC4) : "être capable d'encadrer le golf en sécurité".
