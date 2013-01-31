@@ -1,14 +1,16 @@
 # Article 8
 
-Les montants de rémunération des intervenants participant à titre d'activité accessoire au fonctionnement de jurys qui ne relèvent pas de l'article 6 du présent arrêté s'échelonnent ainsi qu'il suit :
+Les montants de rémunération des intervenants participant à titre d'activité accessoire au fonctionnement de jurys qui ne relèvent pas de l'article 7 du présent arrêté s'échelonnent ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
-<th>TYPES DE FORMATION<br/>
-</th>
-<th colspan="4">MONTANTS<br/>
-</th>
+<td>
+<p align="center"> ACTIVITÉS</p>
+</td>
+<td colspan="4">
+<p align="center"> MONTANTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">

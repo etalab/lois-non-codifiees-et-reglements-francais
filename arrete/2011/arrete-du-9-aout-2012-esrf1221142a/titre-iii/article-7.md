@@ -5,10 +5,12 @@ I. ― Les montants de rémunération des intervenants participant à titre d'ac
 <table>
 <tbody>
 <tr>
-<th>TYPES DE FORMATION<br/>
-</th>
-<th colspan="4">MONTANTS<br/>
-</th>
+<td>
+<p align="center"> ACTIVITÉS</p>
+</td>
+<td colspan="4">
+<p align="center"> MONTANTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -47,6 +49,6 @@ I. ― Les montants de rémunération des intervenants participant à titre d'ac
 
 Par dérogation aux montants fixés ci-dessus, un coefficient multiplicateur de 1,25 peut être appliqué pour la correction de copie par délibération du conseil d'administration en fonction du niveau de difficulté.
 
-Par dérogation aux montants fixés ci-dessus, et sur délibération du conseil d'administration, les montants plafonds prévus pour la conception de sujet peut être multiplié par un coefficient maximal de 2,2 pour tenir compte du niveau de difficulté exceptionnel et des contraintes liées à la conception de sujets demandant une expertise particulière.
+Par dérogation aux montants fixés ci-dessus, et sur délibération du conseil d'administration, le montant plafond prévu pour la conception de sujet peut être multiplié par un coefficient maximal de 2,2 pour tenir compte du niveau de difficulté exceptionnel et des contraintes liées à la conception de sujets demandant une expertise particulière.
 
 II. ― Les activités liées à la présidence des concours d'entrée aux écoles normales supérieures, qui sont assumées par le président, les vice-présidents et les enseignants secrétaires, peuvent être rémunérées sur la base d'une délibération du conseil d'administration dans la limite de 1 500 € par bénéficiaire.

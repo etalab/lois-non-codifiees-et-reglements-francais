@@ -1,14 +1,16 @@
 # Article 11
 
-Les montants de rémunération visés à l'article 8 pour le premier cycle d'enseignement supérieur défini à l'article L. 612-2 du code de l'éducation sont fixés ainsi qu'il suit :
+Les montants de rémunération visés à l'article 9 pour le premier cycle d'enseignement supérieur défini à l'article L. 612-2 du code de l'éducation sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
-<th>TYPES DE FORMATION <br/>
-</th>
-<th colspan="4">MONTANTS <br/>
-</th>
+<td>
+<p align="center"> ACTIVITÉS</p>
+</td>
+<td colspan="4">
+<p align="center"> MONTANTS </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -37,4 +39,4 @@ Les montants de rémunération visés à l'article 8 pour le premier cycle d'ens
 </tbody>
 </table>
 
-Par dérogation, le diplôme de comptabilité et de gestion est rémunéré selon les dispositions de l'article 9.
+Par dérogation, le diplôme de comptabilité et de gestion est rémunéré selon les dispositions de l'article 10.

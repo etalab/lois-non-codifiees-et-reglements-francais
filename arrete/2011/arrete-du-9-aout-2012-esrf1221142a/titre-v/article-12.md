@@ -5,10 +5,12 @@ Les montants de rémunération des personnes apportant leur concours au fonction
 <table>
 <tbody>
 <tr>
-<th>TYPES DE FORMATION<br/>
-</th>
-<th colspan="4">MONTANTS<br/>
-</th>
+<td>
+<p align="center"> ACTIVITÉS</p>
+</td>
+<td colspan="4">
+<p align="center"> MONTANTS</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">

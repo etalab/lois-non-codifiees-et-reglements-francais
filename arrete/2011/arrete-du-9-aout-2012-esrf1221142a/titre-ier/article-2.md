@@ -5,55 +5,58 @@ Les montants de rémunération des activités de formation prévues par le prés
 <table>
 <tbody>
 <tr>
-<th>TYPES DE FORMATION<br/>
-</th>
-<th colspan="4">MONTANTS<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Formation pratique</p>
+<td>
+<p align="center"> TYPES DE FORMATION <br/>
+</p>
 </td>
-<td align="center">
-<p align="center">15 € à 30 € par heure</p>
+<td colspan="4">
+<p align="center"> MONTANTS </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Formation théorique comportant des exercices d'application</p>
+<p align="left">Formation pratique </p>
 </td>
 <td align="center">
-<p align="center">30 € à 50 € par heure</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Formation théorique</p>
-</td>
-<td align="center">
-<p align="center">50 € à 80 € par heure</p>
+<p align="center">15 € à 30 € par heure </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Conférences occasionnelles inédites</p>
+<p align="left">Formation théorique comportant des exercices d'application </p>
 </td>
 <td align="center">
-<p align="center">80 € à 150 € par heure</p>
+<p align="center">30 € à 50 € par heure </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Conférences exceptionnelles</p>
+<p align="left">Formation théorique </p>
 </td>
 <td align="center">
-<p align="center">150 € à 250 € par heure</p>
+<p align="center">50 € à 80 € par heure </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Conférences occasionnelles inédites </p>
+</td>
+<td align="center">
+<p align="center">80 € à 150 € par heure </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Conférences exceptionnelles </p>
+</td>
+<td align="center">
+<p align="center">150 € à 250 € par heure </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Sauf dérogations prévues à l'article 3 du présent arrêté, les montants de rémunération prévus au présent article couvrent les services d'enseignement ainsi que la préparation et le contrôle des connaissances y afférents.
+Sauf dérogations prévues à l'article 4 du présent arrêté, les montants de rémunération prévus au présent article couvrent les services d'enseignement ainsi que la préparation et le contrôle des connaissances y afférents.
 
 Les montants versés aux enseignants et enseignants-chercheurs pour des activités de formation hors conférences occasionnelles inédites, assurées au sein de leur établissement, sont fixés dans la limite des taux des heures complémentaires prévues par le décret n° 83-1175 du 23 décembre 1983 relatif aux indemnités pour enseignements complémentaires institués dans les établissements publics à caractère scientifique et culturel et les autres établissements d'enseignement supérieur relevant du ministère de l'éducation nationale.
 

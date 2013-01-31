@@ -1,14 +1,16 @@
 # Article 10
 
-Les montants de rémunération visés à l'article 8 pour un niveau d'études supérieures équivalent ou supérieur à la première année de deuxième cycle défini à l'article L. 612-5 du code de l'éducation sont fixés ainsi qu'il suit :
+Les montants de rémunération visés à l'article 9 pour un niveau d'études supérieures équivalent ou supérieur à la première année de deuxième cycle défini à l'article L. 612-5 du code de l'éducation sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
-<th>TYPES DE FORMATION <br/>
-</th>
-<th colspan="4">MONTANTS <br/>
-</th>
+<td>
+<p align="center"> ACTIVITÉS</p>
+</td>
+<td colspan="4">
+<p align="center"> MONTANTS </p>
+</td>
 </tr>
 <tr>
 <td align="center">
