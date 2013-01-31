@@ -149,6 +149,7 @@
 - [Décret n°2012-1517 du 29 décembre 2012 (EFIT1239723D)](decret-n2012-1517-du-29-decembre-2012-efit1239723d)
 - [Décret n°2012-1531 du 29 décembre 2012 (ETLL1240304D)](decret-n2012-1531-du-29-decembre-2012-etll1240304d)
 - [Décret n°2012-833 du 29 juin 2012 (DEVA1200358D)](decret-n2012-833-du-29-juin-2012-deva1200358d)
+- [Décret n°2013-101 du 29 janvier 2013 (INTA1240739D)](decret-n2013-101-du-29-janvier-2013-inta1240739d)
 - [Décret n°2012-1334 du 30 novembre 2012 (MCCB1209585D)](decret-n2012-1334-du-30-novembre-2012-mccb1209585d)
 - [Décret n°2012-1336 du 30 novembre 2012 (AGRS1235544D)](decret-n2012-1336-du-30-novembre-2012-agrs1235544d)
 - [Décret n°2012-139 du 30 janvier 2012 (ETSS1200204D)](decret-n2012-139-du-30-janvier-2012-etss1200204d)
