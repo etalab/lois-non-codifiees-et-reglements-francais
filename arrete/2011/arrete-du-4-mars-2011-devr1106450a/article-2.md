@@ -4,11 +4,7 @@ L'installation du producteur est décrite dans le contrat d'achat, qui précise 
 
 1. Lieu, département et région ou collectivité territoriale de l'installation ;
 
-2. Nature de l'installation :
-
-― installation respectant les critères d'intégration au bâti, installation respectant les critères d'intégration simplifiée au bâti ; autre installation ;
-
-― usage principal du bâtiment d'implantation lorsque l'installation respecte les critères d'intégration au bâti ;
+2. Nature de l'installation : installation respectant les critères d'intégration au bâti, installation respectant les critères d'intégration simplifiée au bâti, autre installation ;
 
 3. Nature de l'exploitation : vente en surplus ou vente en totalité ;
 

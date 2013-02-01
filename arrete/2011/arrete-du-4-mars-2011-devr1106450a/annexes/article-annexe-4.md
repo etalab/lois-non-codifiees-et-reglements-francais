@@ -7,113 +7,107 @@ Dans le bilan trimestriel qu'il adresse à la Commission de régulation de l'én
 <table>
 <tbody>
 <tr>
-<th>DEMANDES COMPLÈTES DE RACCORDEMENT<br/>reçues durant le trimestre considéré<br/>
-</th>
-<th>PUISSANCE CRÊTE<br/>de l'installation (kW)<br/>
-</th>
-<th>NOMBRE DE DEMANDES<br/>complètes<br/>de raccordement reçues<br/>
-</th>
-<th>PUISSANCE CRÊTE CUMULÉE<br/>des demandes complètes<br/>de raccordement reçues (kW)<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Installations situées sur des bâtiments à usage principal d'habitation et souhaitant bénéficier de l'intégration au bâti<br/>
+<td>
+<p align="center">DEMANDES COMPLÈTES DE RACCORDEMENT<br/>reçues durant le trimestre considéré</p>
 </td>
-<td align="center">Inférieure ou égale à 3 kW<br/>
-</td>
-<td align="center">
+<td>
+<p align="center">PUISSANCE CRÊTE <br/>de l'installation (kW)<br/>
 <br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td>
+<p align="center">
+<br/>NOMBRE DE DEMANDES <br/>complètes de raccordement reçues</p>
+</td>
+<td>
+<p align="center">
+<br/>PUISSANCE CRÊTE CUMULÉE <br/>des demandes complètes <br/>de raccordement reçues (kW)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td rowspan="2">
+<p>
+<br/>Installations souhaitant bénéficier de l'intégration au bâti</p>
+<p align="center">
 <br/>
-</td>
-<td align="center">Supérieure à 3 kW et inférieure<br/>ou égale à 9 kW<br/>
-</td>
-<td align="center">
 <br/>
+</p>
 </td>
-<td align="center">
+<td>
+<p>
+<br/>Inférieure ou égale à 3 kW </p>
+</td>
+<td>
+<p align="center">
 <br/>
+<br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td>
+<p>
+<br/>Supérieure à 3 kW et inférieure ou égale à 9 kW </p>
 </td>
-<td align="center">Supérieure à 9 kW et inférieure<br/>ou égale à 36 kW<br/>
-</td>
-<td align="center">
+<td>
+<p align="center">
 <br/>
-</td>
-<td align="center">
 <br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Installations situées sur des bâtiments à usage principal autre que l'habitation et souhaitant bénéficier de l'intégration au bâti<br/>
-</td>
-<td align="center">Inférieure ou égale à 3 kW<br/>
-</td>
-<td align="center">
+<td rowspan="2">
+<p>
+<br/>Installations souhaitant bénéficier de l'intégration simplifiée au bâti </p>
+<p align="center">
 <br/>
-</td>
-<td align="center">
 <br/>
+</p>
+</td>
+<td>
+<p>
+<br/>Inférieure ou égale à 36 kW </p>
+</td>
+<td>
+<p align="center">
+<br/>
+<br/>
+</p>
+</td>
+<td>
+<p align="center">
+<br/>
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
+<p>
+<br/>Supérieure à 36 kW et inférieure ou égale à 100 kW<br/>
 <br/>
+</p>
 </td>
-<td align="center">Supérieure à 3 kW et inférieure<br/>ou égale à 9 kW<br/>
-</td>
-<td align="center">
+<td>
+<p align="center">
 <br/>
-</td>
-<td align="center">
 <br/>
+</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Supérieure à 9 kW et inférieure<br/>ou égale à 36 kW<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Installations souhaitant bénéficier de l'intégration simplifiée au bâti<br/>
-</td>
-<td align="center">Inférieure ou égale à 36 kW<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Supérieure à 36 kW et inférieure<br/>ou égale à 100 kW<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
+<td>
 <br/>
 </td>
 </tr>

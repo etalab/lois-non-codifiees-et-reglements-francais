@@ -21,7 +21,3 @@ Le plan des éléments de couverture est défini comme étant le plan tangent au
 Plan du système photovoltaïque.
 
 Le plan du système photovoltaïque est défini comme étant le plan tangent aux points hauts du champ des modules photovoltaïques, hors éléments en saillie (chatières, abergements, éléments de ventilation du procédé...).
-
-Bâtiment à usage principal d'habitation, d'enseignement ou de santé.
-
-Un bâtiment est considéré comme étant à usage principal d'habitation, d'enseignement ou de santé, lorsque plus de 50 % de la surface hors d'œuvre nette est dédiée à un usage d'habitation, d'enseignement ou de santé.
