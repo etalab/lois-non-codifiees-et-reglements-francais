@@ -4,7 +4,7 @@ Toute société demandant une habilitation pour la fourniture d'un service de t�
 
 a) Détenir une certification EN ISO 9001 ou équivalente ;
 
-b) Disposer des équipements techniques et d'une déclaration CE ou d'un certificat attestant la conformité des constituants d'interopérabilité nécessaires à la fourniture du service européen de télépéage, conformément à la décision de la Commission européenne n° 2009/750/CE du 6 octobre 2009 susvisée, et notamment à son annexe IV ;
+b) Disposer des équipements techniques et d'une déclaration CE ou d'un certificat attestant la conformité des constituants d'interopérabilité nécessaires à la fourniture du service européen de télépéage conformément à la décision de la Commission européenne n° 2009/750/CE du 6 octobre 2009 susvisée, notamment à son annexe IV. Toutefois et par dérogation au point 2.1.2 de son annexe III, il n'est pas exigé que les applications de ce service de télépéage soient conformes pour les équipements embarqués à la norme ETSI ES 200674-1 ;
 
 c) Justifier de compétences en matière de prestation de services de télépéage ou dans des domaines connexes ;
 
