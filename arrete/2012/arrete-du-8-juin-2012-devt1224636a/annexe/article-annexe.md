@@ -823,7 +823,7 @@ Article 59
 
 Etanchéité
 
-Le boîtier de l'outil de contrôle manuel portable ainsi que l'enveloppe de toit du lecteur mobile d'équipements embarqués fournissent un niveau de protection contre la pénétration de corps solides étrangers et la pénétration d'eau au moins équivalent à l'indice IP 43 (étanchéité à la pluie) pour le boîtier de l'outil de contrôle manuel portable et au moins équivalent à l'indice IP 66 (projection puissante à la lance) pour l'enveloppe de toit du lecteur mobile d'équipements embarqués, selon la norme NF EN 60529.
+Le boîtier de l'outil de contrôle manuel portable ainsi que l'enveloppe de toit du lecteur mobile d'équipements embarqués fournissent un niveau de protection contre la pénétration de corps solides étrangers et la pénétration d'eau au moins équivalent à l'indice IP 43 (étanchéité à la pluie) pour le boîtier de l'outil de contrôle manuel portable et au moins équivalent à l'indice IP 55 pour l'enveloppe de toit du lecteur mobile d'équipements embarqués, selon la norme NF EN 60529.
 
 Article 60
 
