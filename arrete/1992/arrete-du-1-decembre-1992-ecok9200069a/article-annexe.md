@@ -3,26 +3,33 @@
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI JUSTIFIANT DE L'OBTENTION </p>
-<p align="center">de la nouvelle bonification indiciaire </p>
-</td>
-<td>
-<p align="center">NIVEAU DE L'EMPLOI </p>
-<p align="center">justifiant de l'obtention </p>
-<p align="center">de la nouvelle </p>
-<p align="center">bonification indiciaire </p>
-</td>
-<td>
-<p align="center"> NOMBRE D'EMPLOIS </p>
-<p align="center">éligibles <br/>
+<th>
+<br/>DÉSIGNATION DE L'EMPLOI JUSTIFIANT DE L'OBTENTION <br/>
+<br/>
+<p>de la nouvelle bonification indiciaire <br/>
 </p>
-</td>
-<td>
-<p align="center"> NOMBRE DE POINTS </p>
-<p align="center">par emploi </p>
-<p align="center">(points en indice majoré)</p>
-</td>
+</th>
+<th>
+<br/>NIVEAU DE L'EMPLOI <br/>
+<br/>
+<p>justifiant de l'obtention </p>
+<p>de la nouvelle </p>
+<p>bonification indiciaire <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+<br/>
+<p>éligibles <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+<br/>
+<p>par emploi </p>
+<p>(points en indice majoré) <br/>
+</p>
+</th>
 </tr>
 <tr>
 <td align="center">
@@ -81,18 +88,12 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service <br/>
+<td>
+<p>  Agent ayant un pouvoir de décision, d'animation et de coordination du  niveau d'un responsable d'unité ou assistant d'un chef de service </p>
 </td>
-<td align="center">
-<br/>A <br/>
-</td>
-<td align="center">
-<br/>46 <br/>
-</td>
-<td align="center">
-<br/>30 <br/>
-</td>
+<td align="center"> A</td>
+<td align="center"> 45</td>
+<td align="center"> 30</td>
 </tr>
 <tr>
 <td align="center">
@@ -200,7 +201,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>3 <br/>
+<br/>2 <br/>
 </td>
 <td align="center">
 <br/>25 <br/>
@@ -354,7 +355,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>39 <br/>
+<br/>40<br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -460,7 +461,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système <br/>
+<br/>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions  système  <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -578,7 +579,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>6 <br/>
+<br/>7 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -620,7 +621,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>71 <br/>
+<br/>72 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
