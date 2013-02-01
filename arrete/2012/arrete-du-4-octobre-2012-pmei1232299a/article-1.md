@@ -2,7 +2,7 @@
 
 Le programme philatélique de l'année 2013 est complété comme suit :
 
-Série « Commémoratifs et divers :
+Série " Commémoratifs et divers " :
 
 ― salon philatélique de printemps ;
 
@@ -10,4 +10,8 @@ Série « Commémoratifs et divers :
 
 ― Pierre-Georges Latécoère ;
 
-― centenaire du « 36 quai des Orfèvres ».
+― centenaire du " 36 quai des Orfèvres " ;
+
+― pont levant Jacques Chaban-Delmas à Bordeaux ;
+
+― Gaston Doumergue.
