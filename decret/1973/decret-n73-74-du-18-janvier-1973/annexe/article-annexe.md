@@ -4,7 +4,7 @@ GUIDE-BARÈME POUR L'ÉVALUATION DES INVALIDITÉS CONTRACTÉES PAR LES MILITAIRE
 
 I. - Considérations générales.
 
-Si la captivité n'est pas un fait exceptionnel en soi puisqu'elle peut accompagner toutes les guerres, il est indéniable que celle qu'ont connue nos soldats entre 1940 et 1995 dans certains camps a été marquée par une sévérité particulière résultant du régime répressif, de la rudesse et de l'insalubrité du climat, de la sous-alimentation et des conditions d'hygiène déplorables. Il s'agit des camps de Rawa Ruska, Kobierzyn, Lübeck, Colditz et leurs com­mandos, de la forteresse de Graudenz, du camp russe de Tambow ou ses camps annexes et des camps d'Indochine.
+Si la captivité n'est pas un fait exceptionnel en soi puisqu'elle peut accompagner toutes les guerres, il est indéniable que celle qu'ont connue nos soldats entre 1940 et 1995 dans certains camps a été marquée par une sévérité particulière résultant du régime répressif, de la rudesse et de l'insalubrité du climat, de la sous-alimentation et des conditions d'hygiène déplorables. Il s'agit des camps de Rawa Ruska, Kobierzyn, Lübeck, Colditz et leurs com­mandos, de la forteresse de Graudenz, des camps sous contrôle de l'armée soviétique et des camps d'Indochine.
 
 Tous ces facteurs ont retenti d'une manière plus ou moins importante et durable sur l'état de santé des prisonniers qui ont été détenus dans ces camps et ont créé chez eux une pathologie spéciale.
 
@@ -16,7 +16,7 @@ Après des études qui ont mis en évidence les caractères particuliers de cett
 
 II. - Dispositions particulières et taux d'invalidité.
 
-Ces directives s'appliquent à tous les prisonniers de guerre transférés dans les camps de représailles de Rawa Ruska, Kobierzyn, Lübeck, Colditz et leurs commandos, forteresse de Graudenz, aux internés du camp de Tambow ou des camps annexes, ainsi qu'aux militaires détenus en Indochine.
+Ces directives s'appliquent à tous les prisonniers de guerre transférés dans les camps de représailles de Rawa Ruska, Kobierzyn, Lübeck, Colditz et leurs commandos, forteresse de Graudenz, aux internés des camps sous contrôle de l'armée soviétique, ainsi qu'aux militaires détenus en Indochine.
 
 Les constats susceptibles de fonder l'imputabilité doivent avoir été établis dans les conditions et délais fixés ci-dessous par un médecin militaire en activité ou faisant fonctions, une commission de réforme, un établissement hospitalier public, un dispensaire ou résulter d'un document de la sécurité sociale ou de tous autres documents offrant des garanties équivalentes.
 
