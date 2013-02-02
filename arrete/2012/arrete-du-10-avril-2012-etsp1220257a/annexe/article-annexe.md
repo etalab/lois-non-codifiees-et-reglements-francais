@@ -38,10 +38,10 @@
 <p>1. Auxerre, site d'Auxerre</p>
 <p>2. Belfort, site de Belfort Nord - Franche-Comté</p>
 <p>3. Besançon, site de Besançon n° 1</p>
-<p>4. Besançon, site de Besançon n° 2</p>
+<p>4. Supprimé ;</p>
 <p>5. Chalon-sur-Saône, site de Chalon-sur-Saône</p>
 <p>6. Dijon, site de Dijon Bocage</p>
-<p>7. Dijon, site de Dijon n° 2</p>
+<p>7. Supprimé ;</p>
 <p>8. Mâcon, site de Mâcon</p>
 <p>9. Nevers, site de Nevers</p>
 <p>10. Sens, site de Sens</p>
@@ -174,17 +174,6 @@
 </td>
 <td width="265">
 <p>Pontarlier</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">25</p>
-</td>
-<td width="284">
-<p>Centre hospitalier universitaire de Besançon</p>
-</td>
-<td width="265">
-<p>Besançon</p>
 </td>
 </tr>
 <tr>

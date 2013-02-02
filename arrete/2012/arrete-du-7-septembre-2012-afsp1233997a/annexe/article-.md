@@ -73,7 +73,7 @@
 <p>6. Sites réalisant des analyses IH receveur</p>
 </td>
 <td>
-<p>1. Aurillac, site d'Aurillac<br/>2. Clermont-Ferrand, site de Clermont-Ferrand<br/>3. Montluçon, site de Montluçon<br/>4. Moulins, site de Moulins<br/>5. Le Puy-en-Velay, site du Puy-en-Velay<br/>6. Roanne, site de Roanne<br/>7. Saint-Priez-en-Jarez, site de Saint-Priez-en-Jarez</p>
+<p>1. (supprimé)<br/>2. Clermont-Ferrand, site de Clermont-Ferrand<br/>3. (supprimé)<br/>4. Moulins, site de Moulins<br/>5. Le Puy-en-Velay, site du Puy-en-Velay<br/>6. Roanne, site de Roanne<br/>7. Saint-Priez-en-Jarez, site de Saint-Priez-en-Jarez</p>
 </td>
 </tr>
 </tbody>

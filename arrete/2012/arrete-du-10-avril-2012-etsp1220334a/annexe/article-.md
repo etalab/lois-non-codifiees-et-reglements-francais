@@ -73,7 +73,7 @@
 <p>9. Lyon, site Hôpital Edouard Herriot</p>
 <p>10. Lyon, site de Lyon-Sud</p>
 <p>11. Valence, site de Valence</p>
-<p>12. Saint-Ismier, site de Grenoble - Saint-Ismier</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -480,17 +480,6 @@
 <p align="center">69</p>
 </td>
 <td width="284">
-<p>Clinique Saint-Louis</p>
-</td>
-<td width="284">
-<p>Lyon</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">69</p>
-</td>
-<td width="284">
 <p>Clinique du Val-d'Ouest</p>
 </td>
 <td width="284">
@@ -755,18 +744,7 @@
 <p align="center">74</p>
 </td>
 <td width="284">
-<p>Clinique Lamartine (hôpital privé Savoie-Nord)</p>
-</td>
-<td width="284">
-<p>Thonon-les-Bains</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">74</p>
-</td>
-<td width="284">
-<p>Hôpital privé Savoie-Nord, site d'Annemasse</p>
+<p>Hôpital privé Pays de Savoie</p>
 </td>
 <td width="284">
 <p>Annemasse</p>

@@ -1,3 +1,3 @@
 # Article 2
 
-Seuls les animaux inscrits à un stud-book reconnu dans l'Union européenne peuvent porter l'appellation de leur race.
+L'appellation d'un équidé enregistré est la dénomination de la race du livre généalogique auquel il est inscrit.
