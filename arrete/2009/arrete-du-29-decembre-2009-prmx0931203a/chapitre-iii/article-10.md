@@ -8,7 +8,7 @@ Ille-et-Vilaine.
 
 Groupe IV
 
-Allier, Ardèche, Aude, Aveyron, Charente, Corrèze, Dordogne, Doubs, Eure-et-Loir, Indre, Landes, Loir-et-Cher, Lot-et-Garonne, Marne, Mayenne, Orne, Hautes-Pyrénées, Haut-Rhin, Savoie, Deux-Sèvres, Tarn, Haute-Vienne, Vosges.
+Allier, Ardèche, Aude, Aveyron, Charente, Corrèze, Dordogne, Doubs, Eure-et-Loir, Ille-et-Vilaine, Indre, Landes, Loir-et-Cher, Lot-et-Garonne, Marne, Mayenne, Orne, Hautes-Pyrénées, Haut-Rhin, Savoie, Deux-Sèvres, Tarn, Haute-Vienne, Vosges.
 
 Groupe V
 
