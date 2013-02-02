@@ -15,43 +15,39 @@ T = ministère chargé des transports.
 <table>
 <tbody>
 <tr>
-<th rowspan="2">
-<br/>N° <br/>
-</th>
-<th rowspan="2">
-<br/>AUTORITÉ <p>compétente <br/>
-</p>
-</th>
-<th rowspan="2">
-<br/>OBJET <br/>
-</th>
-<th rowspan="2">
-<br/>DIRECTIVES DE BASE <p>et annexes <br/>
-</p>
-</th>
-<th rowspan="2">
-<br/>DATE D'APPLICATION <p>pour les nouveaux types <br/>
-</p>
-</th>
-<th rowspan="2">
-<br/>DATE D'APPLICATION <p>pour tous les types (8) <br/>
-</p>
-</th>
-<th colspan="3">
-<br/>APPLICABILITÉ <p>pour T1, T2 et T3 <br/>
-</p>
-</th>
+<td rowspan="2">
+<p align="center">N°</p>
+</td>
+<td rowspan="2">
+<p align="center">AUTORITÉ<br/>compétente</p>
+</td>
+<td rowspan="2">
+<p align="center">OBJET</p>
+</td>
+<td rowspan="2">
+<p align="center">DIRECTIVES DE BASE<br/>et annexes</p>
+</td>
+<td rowspan="2">
+<p align="center">DATE D'APPLICATION<br/>pour les nouveaux types</p>
+</td>
+<td rowspan="2">
+<p align="center">DATE D'APPLICATION<br/>pour tous les types (8)</p>
+</td>
+<td colspan="3">
+<p align="center">APPLICABILITÉ </p>
+<p align="center">pour T1, T2 et T3 </p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>T1 <br/>
-</th>
-<th>
-<br/>T2 <br/>
-</th>
-<th>
-<br/>T3 <br/>
-</th>
+<td>
+<p align="center">T1</p>
+</td>
+<td>
+<p align="center">T2</p>
+</td>
+<td>
+<p align="center">T3 </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -61,8 +57,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Masse maximale en charge (5) <br/>
+<p>Masse maximale en charge (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -95,8 +90,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Plaque d'immatriculation (5) <br/>
+<p>Plaque d'immatriculation (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -127,8 +121,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Réservoir de carburant <br/>
+<p>Réservoir de carburant <br/>
 </p>
 </td>
 <td align="center">
@@ -159,8 +152,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Masses d'alourdissement (5) <br/>
+<p>Masses d'alourdissement (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -191,8 +183,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Avertisseur acoustique (2) (3) <br/>
+<p>Avertisseur acoustique (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -223,8 +214,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau sonore (externe) (2) (3) <br/>
+<p>Niveau sonore (externe) (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -255,8 +245,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Vitesse maximale <br/>
+<p>Vitesse maximale <br/>
 </p>
 </td>
 <td align="center">
@@ -287,8 +276,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Plates-formes de chargement <br/>
+<p>Plates-formes de chargement <br/>
 </p>
 </td>
 <td align="center">
@@ -319,8 +307,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Rétroviseurs <br/>
+<p>Rétroviseurs <br/>
 </p>
 </td>
 <td align="center">
@@ -351,8 +338,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Champ de vision et essuie-glaces (2) (3) (5) <br/>
+<p>Champ de vision et essuie-glaces (2) (3) (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -383,8 +369,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dispositif de direction (2) (3) <br/>
+<p>Dispositif de direction (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -415,8 +400,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Compatibilité électromagnétique (2) (3) (5) <br/>
+<p>Compatibilité électromagnétique (2) (3) (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -447,8 +431,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Freinage (2) (3) <br/>
+<p>Freinage (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -478,8 +461,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Sièges de convoyeur <br/>
+<p>Sièges de convoyeur <br/>
 </p>
 </td>
 <td align="center">
@@ -511,8 +493,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau sonore (interne) <br/>
+<p>Niveau sonore (interne) <br/>
 </p>
 </td>
 <td align="center">
@@ -545,8 +526,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Protection en cas de renversement (4) <br/>
+<p>Protection en cas de renversement (4) <br/>
 </p>
 </td>
 <td align="center">
@@ -577,8 +557,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Siège du conducteur <br/>
+<p>Siège du conducteur <br/>
 </p>
 </td>
 <td align="center">
@@ -608,8 +587,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Installation des dispositifs d'éclairage (3) <br/>
+<p>Installation des dispositifs d'éclairage (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -642,8 +620,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dispositifs d'éclairage et de signalisation lumineuse (2) (3) <br/>
+<p>Dispositifs d'éclairage et de signalisation lumineuse (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -674,8 +651,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dispositifs de remorquage et de marche arrière <br/>
+<p>Dispositifs de remorquage et de marche arrière <br/>
 </p>
 </td>
 <td align="center">
@@ -706,8 +682,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Protection en cas de renversement (essais statiques) (4) <br/>
+<p>Protection en cas de renversement (essais statiques) (4) <br/>
 </p>
 </td>
 <td align="center">
@@ -738,8 +713,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Espace de manœuvre et accès au poste de conduite <br/>
+<p>Espace de manœuvre et accès au poste de conduite <br/>
 </p>
 </td>
 <td align="center">
@@ -772,20 +746,24 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Prises de force <br/>
+<p>Prises de force <br/>
 </p>
 </td>
 <td align="center">
-<br/>86/297/CEE modifiée par 2010/62/UE <br/>
-</td>
-<td align="center">
-<br/>(7) <p>29 septembre 2011 <br/>
+<p>86/297/CEE modifiée par 2010/62/UE </p>
+<p>modifiée par 2012/24/UE<br/>
 </p>
 </td>
 <td align="center">
-<br/>(7) <p>29 septembre 2012 <br/>
+<br/>(7) <p>29 septembre 2011 </p>
+<p>1er novembre 2013<br/>
 </p>
+</td>
+<td align="center">
+<br/>(7) <p>29 septembre 2012 </p>
+<p>1er novembre 2013<br/>
+</p>
+<br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -805,8 +783,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dispositifs de protection en cas de renversement montés à l'arrière (tracteurs à voie étroite) (4) <br/>
+<p>Dispositifs de protection en cas de renversement montés à l'arrière (tracteurs à voie étroite) (4) <br/>
 </p>
 </td>
 <td align="center">
@@ -837,8 +814,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Installation, emplacement, fonctionnement et identification des commandes (5) <br/>
+<p>Installation, emplacement, fonctionnement et identification des commandes (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -869,8 +845,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Installation, emplacement, fonctionnement et identification des commandes <br/>
+<p>Installation, emplacement, fonctionnement et identification des commandes <br/>
 </p>
 </td>
 <td align="center">
@@ -901,8 +876,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dispositifs de protection en cas de renversement montés à l'avant (tracteurs à voie étroite) (4) <br/>
+<p>Dispositifs de protection en cas de renversement montés à l'avant (tracteurs à voie étroite) (4) <br/>
 </p>
 </td>
 <td align="center">
@@ -933,8 +907,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dimensions et masse remorquable (5) <br/>
+<p>Dimensions et masse remorquable (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -967,8 +940,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Vitres (2) (3) <br/>
+<p>Vitres (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -1003,8 +975,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Régulateur de vitesse (5) <br/>
+<p>Régulateur de vitesse (5) <br/>
 </p>
 </td>
 <td align="center">
@@ -1037,8 +1008,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Protection des éléments moteurs et exigences de sécurité supplémentaires et manuel d'utilisation <br/>
+<p>Protection des éléments moteurs et exigences de sécurité supplémentaires et manuel d'utilisation <br/>
 </p>
 </td>
 <td align="center">
@@ -1074,8 +1044,7 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Liaisons mécaniques <br/>
+<p>Liaisons mécaniques <br/>
 </p>
 </td>
 <td align="center">
@@ -1108,8 +1077,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Plaque réglementaire <br/>
+<p>Plaque réglementaire <br/>
 </p>
 </td>
 <td align="center">
@@ -1142,8 +1110,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Liaison de freinage avec les remorques <br/>
+<p>Liaison de freinage avec les remorques <br/>
 </p>
 </td>
 <td align="center">
@@ -1176,8 +1143,7 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Emission de polluants (2) (3) <br/>
+<p>Emission de polluants (2) (3) <br/>
 </p>
 </td>
 <td align="center">
@@ -1215,14 +1181,8 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>[.../.../CE] <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
 <br/>X <br/>
 </td>
@@ -1241,8 +1201,7 @@ T = ministère chargé des transports.
 <br/>T ou A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Points d'ancrage ceintures de sécurité (6) <br/>
+<p>Points d'ancrage ceintures de sécurité (6) <br/>
 </p>
 </td>
 <td align="center">
