@@ -170,6 +170,7 @@
 - [Décret n°2012-1565 du 31 décembre 2012 (AFSS1243135D)](decret-n2012-1565-du-31-decembre-2012-afss1243135d)
 - [Décret n°2012-1566 du 31 décembre 2012 (ETSD1240201D)](decret-n2012-1566-du-31-decembre-2012-etsd1240201d)
 - [Décret n°2012-1567 du 31 décembre 2012 (BUDD1242097D)](decret-n2012-1567-du-31-decembre-2012-budd1242097d)
+- [Décret n°2013-113 du 31 janvier 2013 (INTV1239427D)](decret-n2013-113-du-31-janvier-2013-intv1239427d)
 - [Décret n°2012-1103 du 1er octobre 2012 (TRAT1203425D)](decret-n2012-1103-du-1er-octobre-2012-trat1203425d)
 - [Décret n°2012-1104 du 1er octobre 2012 (TRAT1203426D)](decret-n2012-1104-du-1er-octobre-2012-trat1203426d)
 - [Décret n°2012-1105 du 1er octobre 2012 (TRAT1203427D)](decret-n2012-1105-du-1er-octobre-2012-trat1203427d)
