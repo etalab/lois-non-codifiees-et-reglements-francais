@@ -4,23 +4,23 @@ EXIGENCES MINIMALES PREALABLES A LA MISE EN SITUATION PEDAGOGIQUE
 
 La mise en situation pédagogique d'alternance en structure du candidat, définie à l'article 14 de l'arrêté du 18 avril 2002, est précédée d'exigences minimales, précisées à l'article 6 du présent arrêté. Ces exigences minimales nécessitent, pour une mise en situation pédagogique, la possession par le candidat, d'une attestation de capacités et connaissances, délivrée par l'organisme de formation, dont les objectifs sont définis en annexe IV au présent arrêté.
 
-Mention " aviron et disciplines associées " et supports " aviron et disciplines associées de mer ", " aviron et disciplines associées d'initiation et de découverte "
+Mention " aviron et disciplines associées " et supports " aviron de mer ", " aviron d'initiation et de découverte "
 
-Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention " aviron et disciplines associées " et les supports " aviron et disciplines associées de mer ", " aviron et disciplines associées d'initiation et de découverte ".
+Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention " aviron et disciplines associées " et les supports " aviron de mer ", " aviron d'initiation et de découverte ".
 
 1/ Exigences préalables à la mise en situation pédagogique, communes à la mention et aux supports précités :
 
-- mention "aviron et disciplines associées" : détention du permis de conduire des bateaux de plaisance à moteur, option "côtière" et option "eaux intérieures" ;
+-mention " aviron et disciplines associées " : détention du permis de conduire des bateaux de plaisance à moteur, option " côtière " et option " eaux intérieures " ;
 
-- support "aviron de mer" : détention du permis de conduire des bateaux de plaisance à moteur, option "côtière" ;
+-support " aviron de mer " : détention du permis de conduire des bateaux de plaisance à moteur, option " côtière " ;
 
--support "aviron d'initiation et de découverte" : détention du permis de conduire des bateaux de plaisance à moteur, option "eaux intérieures" ;
+-support " aviron d'initiation et de découverte " : détention du permis de conduire des bateaux de plaisance à moteur, option " eaux intérieures " ;
 
 Etre capable de :
 
 -S'insérer activement dans un dispositif de sécurité adapté à la structure.
 
--Maîtriser les commandements de manoeuvre des bateaux d'aviron et disciplines associées.
+-Maîtriser les commandements de manoeuvre des bateaux d'aviron.
 
 -Utiliser de façon appropriée le matériel et en réaliser l'entretien courant.
 
@@ -32,11 +32,11 @@ Etre capable de :
 
 2/ Dispenses et équivalences :
 
-- est dispensé des exigences préalables à la mise en situation pédagogique définies à l'annexe IV, pour la mention "aviron et disciplines associées" et les supports "aviron de mer" et "aviron d'initiation et de découverte", le titulaire :
+-est dispensé des exigences préalables à la mise en situation pédagogique définies à l'annexe IV, pour la mention " aviron et disciplines associées " et les supports " aviron de mer " et " aviron d'initiation et de découverte ", le titulaire :
 
-- du diplôme d'éducateur fédéral d'aviron délivré par la Fédération française des sociétés d'aviron, ou
+-du diplôme d'éducateur fédéral d'aviron délivré par la Fédération française des sociétés d'aviron, ou
 
-- du certificat de qualification professionnelle "moniteur d'aviron".
+-du certificat de qualification professionnelle " moniteur d'aviron ".
 
 Mention " canoë-kayak " et disciplines associées et supports " canoë-kayak, eau calme, mer et vagues ", " canoë-kayak, eau calme et rivière d'eau vive "
 
@@ -122,43 +122,43 @@ Etre capable de :
 
 Le diplôme de " moniteur fédéral de char à voile " délivré par la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test de capacités et connaissances, préalables à la mise en situation pédagogique pour la mention " char à voile " et le support " char à voile d'initiation et de découverte " de la spécialité " activités nautiques " du B. P. J. E. P. S. Le certificat de qualification professionnelle " assistant moniteur char à voile " dispense du test de capacités et connaissances préalable à la mise en situation pédagogique pour la mention " char à voile " et le support " char à voile d'initiation et de découverte " de la spécialité " activités nautiques " du BPJEPS.
 
-Mention "glisses aérotractées".
+Mention " glisses aérotractées ".
 
 Objectifs correspondants aux exigences minimales permettant la mise en situation pédagogique :
 
 Etre capable :
 
-- d'encadrer une séance de traction à l'aide d'un cerf-volant de traction pour trois élèves sur terre en glissade puis en nage tractée, en eau profonde ;
+-d'encadrer une séance de traction à l'aide d'un cerf-volant de traction pour trois élèves sur terre en glissade puis en nage tractée, en eau profonde ;
 
-- d'expliquer les conditions aérologiques et l'état de la mer pour la séance ;
+-d'expliquer les conditions aérologiques et l'état de la mer pour la séance ;
 
-- d'expliquer le domaine de vol d'un cerf-volant de traction à l'aide d'un petit cerf-volant peu tractif ;
+-d'expliquer le domaine de vol d'un cerf-volant de traction à l'aide d'un petit cerf-volant peu tractif ;
 
-- d'expliquer pourquoi un profil aérodynamique captif comme le cerf-volant de traction génère une force tractive ;
+-d'expliquer pourquoi un profil aérodynamique captif comme le cerf-volant de traction génère une force tractive ;
 
-- d'expliquer le rapport poids/force du vent/surface du cerf-volant de traction en relation avec la maîtrise du pilotage ;
+-d'expliquer le rapport poids/ force du vent/ surface du cerf-volant de traction en relation avec la maîtrise du pilotage ;
 
-- d'expliquer les montages et les réglages des cerfs-volants de traction ;
+-d'expliquer les montages et les réglages des cerfs-volants de traction ;
 
-- d'expliquer la circulation entre zone de préparation et zone d'évolution ;
+-d'expliquer la circulation entre zone de préparation et zone d'évolution ;
 
-- d'expliquer les distances de sécurité entre les élèves dans une zone d'évolution ;
+-d'expliquer les distances de sécurité entre les élèves dans une zone d'évolution ;
 
-- d'expliquer les adaptations de l'organisme et reconnaître les signes de fatigue dus à l'effort et au froid dans l'eau ;
+-d'expliquer les adaptations de l'organisme et reconnaître les signes de fatigue dus à l'effort et au froid dans l'eau ;
 
-- de préparer le matériel nécessaire pour un exercice glissade sur la plage puis de nage tractée en eau profonde ;
+-de préparer le matériel nécessaire pour un exercice glissade sur la plage puis de nage tractée en eau profonde ;
 
-- de conditionner et de charger ce matériel pour le transport sur les zones de préparation et d'évolution ;
+-de conditionner et de charger ce matériel pour le transport sur les zones de préparation et d'évolution ;
 
-- d'encadrer trois stagiaires en glissade sur terre depuis la zone de préparation puis en nage tractée depuis le bateau ;
+-d'encadrer trois stagiaires en glissade sur terre depuis la zone de préparation puis en nage tractée depuis le bateau ;
 
-- d'effectuer une rotation entre stagiaires sous un même matériel sur terre puis sur l'eau ;
+-d'effectuer une rotation entre stagiaires sous un même matériel sur terre puis sur l'eau ;
 
-- de gérer depuis le bateau la dérive d'un groupe en nage tractée ;
+-de gérer depuis le bateau la dérive d'un groupe en nage tractée ;
 
-- de récupérer les personnes avec leur matériel à la fin de la dérive ;
+-de récupérer les personnes avec leur matériel à la fin de la dérive ;
 
-- de faire face rapidement à un incident de vol du profil dû soit à une rupture de ligne, soit au déclenchement intempestif du système de sécurité, soit à une dyssimétrie de vol conduisant dans tous les cas à une traction non maîtrisée et constante du cerf-volant de traction.
+-de faire face rapidement à un incident de vol du profil dû soit à une rupture de ligne, soit au déclenchement intempestif du système de sécurité, soit à une dyssimétrie de vol conduisant dans tous les cas à une traction non maîtrisée et constante du cerf-volant de traction.
 
 Mention " motonautisme " et supports " jet ", " bateau à moteur d'initiation et de découverte ", " engins tractés "
 
@@ -220,25 +220,25 @@ Le diplôme de " moniteur fédéral jet 1er degré " délivré par la fédérati
 
 Mention ski nautique et disciplines associées et support ski nautique d'initiation et de découverte :
 
-1. Exigences préalables à la mise en situation pédagogique, spécifiques à la mention "ski nautique et disciplines associées" et au support "ski nautique d'initiation et de découverte" :
+1. Exigences préalables à la mise en situation pédagogique, spécifiques à la mention " ski nautique et disciplines associées " et au support " ski nautique d'initiation et de découverte " :
 
-- production du permis de conduire des bateaux de plaisance à moteur, option "côtière" et option "eaux intérieures" ; et
+-production du permis de conduire des bateaux de plaisance à moteur, option " côtière " et option " eaux intérieures " ; et
 
-- être capable :
+-être capable :
 
-- d'évaluer les risques liés à la pratique ;
+-d'évaluer les risques liés à la pratique ;
 
-- de mettre en place un dispositif de sécurité sur l'eau et au sol ;
+-de mettre en place un dispositif de sécurité sur l'eau et au sol ;
 
-- d'intervenir auprès d'un pratiquant en difficulté ;
+-d'intervenir auprès d'un pratiquant en difficulté ;
 
-- d'encadrer, en sécurité, une séance d'initiation.
+-d'encadrer, en sécurité, une séance d'initiation.
 
 Il est procédé à la vérification de ces exigences préalables au moyen d'une séance d'initiation dans une des activités supports de la discipline.
 
 2. Dispenses et équivalences.
 
-Le diplôme de "moniteur fédéral" délivré par la Fédération française de ski nautique et de wakeboard dispense de la séance d'initiation préalable à la mise en situation pédagogique pour la mention "ski nautique et disciplines associées" et le support "ski nautique d'initiation et de découverte" de la spécialité "activités nautiques" du BPJEPS.
+Le diplôme de " moniteur fédéral " délivré par la Fédération française de ski nautique et de wakeboard dispense de la séance d'initiation préalable à la mise en situation pédagogique pour la mention " ski nautique et disciplines associées " et le support " ski nautique d'initiation et de découverte " de la spécialité " activités nautiques " du BPJEPS.
 
 Mention " voile " et supports " planche à voile ", " multicoque et dériveurs ", " croisière côtière "
 
