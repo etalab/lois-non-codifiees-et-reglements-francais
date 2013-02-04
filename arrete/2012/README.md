@@ -88,7 +88,6 @@
 - [Arrêté du 2 octobre 2012 (BUDE1236382A)](arrete-du-2-octobre-2012-bude1236382a)
 - [Arrêté du 2 octobre 2012 (BUDE1236393A)](arrete-du-2-octobre-2012-bude1236393a)
 - [Arrêté du 2 octobre 2012 (BUDE1236399A)](arrete-du-2-octobre-2012-bude1236399a)
-- [Arrêté du 2 octobre 2012 (EFIK1200098A)](arrete-du-2-octobre-2012-efik1200098a)
 - [Arrêté du 2 octobre 2012 (ESRS1227031A)](arrete-du-2-octobre-2012-esrs1227031a)
 - [Arrêté du 2 octobre 2012 (ETLL1226916A)](arrete-du-2-octobre-2012-etll1226916a)
 - [Arrêté du 2 octobre 2012 (MAEA1235714A)](arrete-du-2-octobre-2012-maea1235714a)
