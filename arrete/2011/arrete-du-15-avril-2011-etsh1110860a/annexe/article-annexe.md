@@ -6,153 +6,167 @@ DU CONCOURS D'ACCÈS AU CORPS DE DIRECTEUR DES SOINS
 
 (Ce programme est commun aux deux concours)
 
-A. ― Le droit hospitalier
+A. - Le droit hospitalier
 
-A.1. Evolution historique et caractéristiques de l'organisation hospitalière française.
+Introduction.
 
-A.2. L'établissement public de santé dans son environnement économique :
+Evolution historique et caractéristiques de l'organisation hospitalière française.
 
-― l'organisation hospitalière française.
+L'établissement public de santé dans son environnement économique.
 
-A.3. Les missions de service public :
+Notions d'organisation hospitalière dans les principaux pays européens.
 
-― le champ des missions de service public ;
+1. Organisation hospitalière française.
 
-― les acteurs de santé attributaires d'une mission de service public ;
+1.1. Les missions de service public :
 
-― les missions de service public et l'organisation régionale de l'offre de soins ;
+- le champ des missions ;
 
-― les attributions des missions de service public et ses effets.
+- les acteurs de santé attributaires d'une mission de service public ;
 
-A.4. Les moyens mis en place :
+- les missions de service public et l'organisation régionale de l'offre de soins ;
 
-― les territoires de santé et planification sanitaire ;
+- les attributions des missions de service public et ses effets.
 
-― le régime des autorisations ;
+1.2. Les moyens mis en place :
 
-― les organes de concertation et de coopération interhospitalière ;
+- les territoires de santé et la planification sanitaire ;
 
-― l'instrumentation juridique traditionnelle : syndicats interhospitaliers ; communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ; groupements de coopération sanitaire (GCS) ; communauté hospitalière de territoire (CHT) ;
+- le régime des autorisations ;
 
-― le classement des établissements assurant le service public hospitalier ;
+- les organes de concertation et de coopération interhospitalière ;
 
-― l'évaluation des soins : la Haute Autorité de santé (HAS), le développement professionnel continu (DPC), la certification des établissements de santé, l'accréditation des médecins.
+- l'instrumentation juridique traditionnelle : syndicats interhospitaliers ; communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ; groupements de coopération sanitaire (GCS) ; communauté hospitalière de territoire (CHT) ;
 
-A.5. L'organisation de l'établissement public de santé.
+- l'évaluation des soins : la Haute Autorité de santé (HAS), le développement professionnel continu (DPC), la certification des établissements de santé, l'accréditation des médecins.
 
-A.5.1. L'organisation administrative :
+2. L'organisation de l'établissement public de santé.
 
-― le statut juridique de l'établissement public de santé (EPS) ;
+2.1. L'organisation administrative :
 
-― la création, transformation, suppression des EPS ;
+- le statut juridique de l'établissement public de santé (EPS) ;
 
-― les principes de la nouvelle gouvernance hospitalière ;
+- création, transformation, suppression des EPS ;
 
-― les organes de décision à l'EPS : directoire, directeur, conseil de surveillance ;
+- les principes de l'organisation interne ;
 
-― les instances consultatives ;
+- les organes de décision à l'EPS ;
 
-― les contrôles et la tutelle exercés par l'Etat et par les agences régionales de santé.
+- les instances.
 
-A.5.2. L'organisation médicale :
+2.2. L'organisation médicale :
 
-― les pôles d'activité, services, unités fonctionnelles ;
+- les pôles et leurs structures internes ;
 
-― la recherche au sein des établissements publics de santé.
+- la contractualisation interne ;
 
-A.6. Les statuts des personnels.
+- les contrôles et la tutelle exercés par l'Etat et par les agences régionales de santé.
 
-A.6.1. Le personnel médical :
+3. Les statuts des personnels.
 
-― la démographie médicale hospitalière ;
+3.1. Le personnel médical :
 
-― les praticiens exerçant à temps plein ou à temps partiels ;
+- la démographie médicale hospitalière ;
 
-― les personnels hospitalo-universitaires ;
+- les praticiens exerçant à temps plein ou à temps partiel ;
 
-― les praticiens attachés ;
+- les personnels hospitalo-universitaires ;
 
-― les internes ;
+- les praticiens attachés ;
 
-― les études médicales à l'hôpital ;
+- les internes ;
 
-― les consultants ;
+- les études médicales à l'hôpital ;
 
-― les sages-femmes.
+- les consultants ;
 
-A.6.2. Les personnels non médicaux :
+- les sages-femmes.
 
-La démographie des personnels hospitaliers non médicaux.
+3.2. Le personnel non médical :
 
-Les règles générales :
+- la démographie des personnels hospitaliers non médicaux.
 
-― les droits et obligations des fonctionnaires hospitaliers (titre IV) ;
+3.2.1. Les règles générales :
 
-― le Conseil supérieur de la fonction publique hospitalière ;
+- les droits et obligations des fonctionnaires hospitaliers (titres Ier et IV) ;
 
-― la formation permanente continue.
+- le Conseil supérieur de la fonction publique hospitalière ;
 
-A.6.3. Notions sur les statuts particuliers :
+- les outils de la formation des personnels.
 
-― les personnels administratifs dont les personnels de direction ;
+3.2.2. Notions sur les statuts particuliers :
 
-― les personnels techniques et ouvriers ;
+- les personnels administratifs dont les personnels de direction ;
 
-― les personnels des services de soins, médico-techniques et de rééducation dont les directeurs des soins ;
+- les personnels techniques et ouvriers ;
 
-― les personnels socio-éducatifs ;
+- les personnels des services de soins, médicotechniques et de rééducation et les directeurs des soins ;
 
-― les psychologues.
+- les personnels socio-éducatifs ;
 
-A.7. Le statut du malade et l'éthique dans le monde hospitalier :
+- les psychologues.
 
-― le malade hospitalisé en hôpital général et en psychiatrie ;
+4. Le statut du malade et l'éthique dans le monde hospitalier.
 
-― la charte du malade hospitalisé ;
+4.1. Le malade hospitalisé :
 
-― l'éthique en milieu hospitalier ;
+- la charte du malade hospitalisé : le cadre de la loi du 4 mars 2002 ;
 
-― le Comité national d'éthique ;
+- l'éthique en milieu hospitalier ; le Comité national d'éthique ;
 
-― le comité de protection des personnes ;
+- le respect du secret médical et sa protection en EPS ;
 
-― les prélèvements d'organes ;
+- les règles spécifiques à la santé mentale et ses évolutions récentes ;
 
-― le malade non hospitalisé ;
+- les prélèvements d'organes.
 
-― les consultations externes.
+4.2. Le malade non hospitalisé :
 
-A.8. Le fonctionnement financier.
+- les consultations externes.
 
-A.8.1. La gestion financière :
+5. Le fonctionnement économique et financier.
 
-― la tarification à l'activité (T2A) : ses principes, son champ d'application, ses modalités de mise en œuvre ;
+5.1. Les modalités d'allocation des ressources :
 
-― les autres sources de financement ; l'état prévisionnel des recettes et des dépenses (EPRD), le plan global de financement prévisionnel (PGFP), le plan prévisionnel d'investissement (PPI) ;
+- T2A (principes, champs d'application et modalités de mise en œuvre) ;
 
-― la procédure budgétaire ;
+- les autres sources de financement des activités sanitaires des EPS (MIGAC, DAF, produits des tarifications journalières, forfait journalier, autres recettes...) ;
 
-― le nouveau régime comptable des EPS ;
+- le financement des activités sociales et médico-sociales gérées par les EPS ;
 
-― la gestion financière d'un institut de formation ;
+- le régime comptable des EPS ;
 
-― le rôle de l'ordonnateur et du comptable.
+- la séparation de l'ordonnateur et du comptable ;
 
-A.9. La responsabilité des établissements publics de santé.
+- la procédure et les documents budgétaires des EPS :
 
-Responsabilité des établissements ;
+- le financement des investissements : le plan global de financement pluriannuel (PGFP) ;
 
-Responsabilité des personnels hospitaliers ;
+- l'annualité budgétaire : l'état prévisionnel des recettes et des dépenses (EPRD) et ses annexes ;
+
+- les équilibres financiers : tableau de financement, capacité d'autofinancement (CAF), fonds de roulement (FDR), besoin en fonds de roulement (BFR) et trésorerie.
+
+5.2. Gestion économique :
+
+- le comptable matière ;
+
+- l'achat public.
+
+6. La responsabilité des établissements publics de santé.
+
+Responsabilité des établissements.
+
+Responsabilité des personnels hospitaliers.
 
 Principes généraux de la responsabilité administrative du secteur hospitalier :
 
-― problème de compétence ;
+- problème de compétence ;
 
-― fondements de la responsabilité ;
+- fondements de la responsabilité ;
 
-― évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
+- évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
 
-― indemnisation des malades, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
+- l'indemnisation des malades, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
 
 B. ― Management et gestion hospitalière
 

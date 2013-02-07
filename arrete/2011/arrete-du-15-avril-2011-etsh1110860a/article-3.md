@@ -6,7 +6,7 @@ Le jury, commun aux deux concours, est nommé par arrêté du directeur généra
 
 ― deux membres du personnel de direction des établissements publics de santé, issu du corps des directeurs d'hôpital, dont un directeur chef d'établissement ;
 
-― un président de commission médicale d'établissement ou son suppléant ;
+― un professeur des universités-praticien hospitalier ou un maître de conférences des universités-praticien hospitalier ou un praticien hospitalier ;
 
 ― trois membres du corps des directeurs de soins, dont au moins un coordonnateur général des soins et un directeur d'institut de formation ;
 

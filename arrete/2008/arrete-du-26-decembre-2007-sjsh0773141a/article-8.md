@@ -2,7 +2,7 @@
 
 Il est attribué à chacune des épreuves une note de 0 à 20 qui est multipliée par le coefficient correspondant prévu aux articles 3 et 4. Nul ne peut être déclaré admissible ou admis s'il a obtenu une note inférieure à 5 à l'une des épreuves obligatoires, sauf décision motivée du jury.
 
-Peuvent être déclarés admissibles les candidats ayant obtenu, après somme des notes des trois épreuves écrites affectées de leur coefficient respectif, un total de points égal ou supérieur à 110.
+Peuvent être déclarés admissibles les candidats ayant obtenu, après totalisation des quatre épreuves écrites affectées de leur coefficient respectif, un total de points égal ou supérieur à 160.
 
 Le jury apprécie souverainement le nombre de candidats à convoquer aux épreuves d'admission, avant que soit levé l'anonymat.
 

@@ -14,7 +14,7 @@ Indicateurs :
 
 - santé (incidence, prévalence, morbidité, mortalité infantile).
 
-Principes des indicateurs de qualité de crise.
+Principes des indicateurs de qualité de vie
 
 Recueils de données en épidémiologie.
 
