@@ -1,0 +1,3 @@
+# Article 20
+
+En application de l'article 143 du décret du 7 novembre 2012 susvisé, si une opération de débit émise par un correspondant du Trésor ne peut être imputée sur son compte au Trésor le jour de sa réception par les services de la direction générale des finances publiques, faute de provision suffisante, l'Etat peut percevoir des intérêts débiteurs calculés proportionnellement au nombre de jours calendaires écoulés entre la date de survenance du débit en anomalie et la date de régularisation de l'incident par imputation du suspens au débit du compte du correspondant provisionné à cet effet.
