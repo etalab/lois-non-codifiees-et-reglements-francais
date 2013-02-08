@@ -1,0 +1,3 @@
+# Article 11
+
+En application de l'article R. 214-126 du code rural et de la pêche maritime, le ministre chargé de la recherche peut retirer l'autorisation de projet lorsque ce dernier n'est pas exécuté en conformité avec l'autorisation. Le retrait de l'autorisation de projet est notifié par courrier avec accusé de réception au responsable de l'établissement utilisateur. Le responsable de l'établissement utilisateur prend toutes les mesures nécessaires pour assurer le bien-être des animaux qui étaient utilisés dans le projet dont l'autorisation est retirée. Le ministre chargé de l'agriculture est informé de ce retrait d'autorisation de projet et fait procéder en cas de besoin à une inspection de l'établissement utilisateur.
