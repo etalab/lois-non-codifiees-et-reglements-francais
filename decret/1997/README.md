@@ -401,7 +401,6 @@
 - [Décret n°97-1069 du 19 novembre 1997 (MESH9722489D)](decret-n97-1069-du-19-novembre-1997-mesh9722489d)
 - [Décret n°97-1078 du 19 novembre 1997 (MENF9702326D)](decret-n97-1078-du-19-novembre-1997-menf9702326d)
 - [Décret n°97-1082 du 19 novembre 1997 (ATEN9750091D)](decret-n97-1082-du-19-novembre-1997-aten9750091d)
-- [Décret n°97-1196 du 19 décembre 1997 (DEFX9700136D)](decret-n97-1196-du-19-decembre-1997-defx9700136d)
 - [Décret n°97-1205 du 19 décembre 1997 (FPPX9700131D)](decret-n97-1205-du-19-decembre-1997-fppx9700131d)
 - [Décret n°97-152 du 19 février 1997 (INDC9700012D)](decret-n97-152-du-19-fevrier-1997-indc9700012d)
 - [Décret n°97-156 du 19 février 1997 (EQUX9600158D)](decret-n97-156-du-19-fevrier-1997-equx9600158d)
