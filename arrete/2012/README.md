@@ -137,7 +137,6 @@
 - [Arrêté du 3 février 1993 (SANH9202687A)](arrete-du-3-fevrier-1993-sanh9202687a)
 - [Arrêté du 3 février 2012 (AGRS1133185A)](arrete-du-3-fevrier-2012-agrs1133185a)
 - [Arrêté du 3 février 2012 (AGRT1200492A)](arrete-du-3-fevrier-2012-agrt1200492a)
-- [Arrêté du 3 février 2012 (BCRD1203495A)](arrete-du-3-fevrier-2012-bcrd1203495a)
 - [Arrêté du 3 février 2012 (BCRD1203500A)](arrete-du-3-fevrier-2012-bcrd1203500a)
 - [Arrêté du 3 février 2012 (DEVK1133148A)](arrete-du-3-fevrier-2012-devk1133148a)
 - [Arrêté du 3 février 2012 (DEVK1133504A)](arrete-du-3-fevrier-2012-devk1133504a)
