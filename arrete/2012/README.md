@@ -2551,7 +2551,6 @@
 - [Arrêté du 26 janvier 2012 (ETSH1203179A)](arrete-du-26-janvier-2012-etsh1203179a)
 - [Arrêté du 26 janvier 2012 (ETSP1202517A)](arrete-du-26-janvier-2012-etsp1202517a)
 - [Arrêté du 26 janvier 2012 (INDR1203198A)](arrete-du-26-janvier-2012-indr1203198a)
-- [Arrêté du 26 janvier 2012 (JUSC1202394A)](arrete-du-26-janvier-2012-jusc1202394a)
 - [Arrêté du 26 janvier 2012 (JUSF1203234A)](arrete-du-26-janvier-2012-jusf1203234a)
 - [Arrêté du 26 janvier 2012 (JUSF1203821A)](arrete-du-26-janvier-2012-jusf1203821a)
 - [Arrêté du 26 janvier 2012 (JUSF1203822A)](arrete-du-26-janvier-2012-jusf1203822a)
