@@ -48,11 +48,11 @@ En application de l'article 4 du décret du 9 novembre 2009 susvisé, les emploi
 </tr>
 <tr>
 <td align="center">
-<p align="left">Chef du bureau de l'emploi et de la rémunération </p>
+<p align="left">Chef du bureau du dialogue social et de l'expertise statutaire </p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="top">
+<td align="left" rowspan="4" valign="top">
 <p align="left">Direction générale des patrimoines</p>
 </td>
 <td align="left" valign="top">
@@ -68,6 +68,9 @@ En application de l'article 4 du décret du 9 novembre 2009 susvisé, les emploi
 <td align="center">
 <p align="left">Chef de la mission "action territoriale" auprès du sous-directeur des affaires financières et générales </p>
 </td>
+</tr>
+<tr>
+<td>Chef de la mission " dialogue social " auprès du sous-directeur des affaires financières et générales </td>
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
@@ -160,7 +163,7 @@ En application de l'article 4 du décret du 9 novembre 2009 susvisé, les emploi
 <p align="left">Service à compétence nationale "Musée des civilisations d'Europe et de la Méditerranée"</p>
 </td>
 <td align="center">
-<p align="left">Administrateur</p>
+<p align="left">-</p>
 </td>
 </tr>
 <tr>
