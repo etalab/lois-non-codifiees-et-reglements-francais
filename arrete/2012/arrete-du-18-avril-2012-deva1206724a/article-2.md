@@ -1,6 +1,6 @@
 # Article 2
 
-Lorsqu'un passager se présente pour enregistrer un bagage de soute, l'entreprise de transport aérien est tenue :
+Lorsqu'un passager remet à l'entreprise de transport aérien un bagage de soute pour le vol sur lequel ce passager est enregistré, l'entreprise de transport aérien est tenue :
 
 a) De vérifier la concordance entre les trois documents suivants :
 
