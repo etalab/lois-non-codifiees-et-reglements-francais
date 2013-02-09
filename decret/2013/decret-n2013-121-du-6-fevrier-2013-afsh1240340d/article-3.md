@@ -1,0 +1,3 @@
+# Article 3
+
+Les agents en congé de mobilité prévu à l'article 31-2 du décret du 6 février 1991 susvisé à la date du 31 mars 2011 peuvent se présenter soit aux recrutements réservés qui sont ouverts dans leur établissement d'origine pour l'accès aux corps de la fonction publique hospitalière, soit aux recrutements réservés ouverts pour l'accès aux corps ou aux cadres d'emplois de la personne morale de droit public auprès de laquelle ils exercent effectivement leurs fonctions à cette date, sous réserve, dans ce dernier cas, de remplir les conditions d'ancienneté exigées par la loi du 12 mars 2012 susvisée pour l'accès à ces corps ou cadres d'emplois.
