@@ -16,7 +16,7 @@ CRNA Ouest (niveau 6).
 
 Lyon - Saint-Exupéry (niveau 1).
 
-Marseille-Provence (niveau 1).
+Marseille-Provence (niveau 2) (à compter du 1er janvier 2012).
 
 Nice-Côte d'Azur (niveau 2).
 
@@ -46,11 +46,13 @@ Strasbourg-Entzheim.
 
 Tahiti-Faa'a.
 
+Paris-Le Bourget (à compter du 1er janvier 2012).
+
 Groupe D
 
 Ajaccio-Napoléon Bonaparte.
 
-Biarritz-Bayonne-Anglet.
+Beauvais-Tillé (à compter du 1er janvier 2012).
 
 Brest-Bretagne.
 
@@ -62,8 +64,6 @@ Martinique-Aimé Césaire.
 
 Melun-Villaroche.
 
-Paris-Le Bourget.
-
 Pyrénées.
 
 Rennes - Saint-Jacques.
@@ -72,7 +72,7 @@ Groupe E
 
 Bastia-Poretta.
 
-Beauvais-Tillé.
+Biarritz-Bayonne-Anglet (à compter du 1er janvier 2012)
 
 Chambéry - Aix-les-Bains.
 
