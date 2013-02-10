@@ -10,6 +10,8 @@ Le carnet métrologique d'un cinémomètre de contrôle routier doit au minimum 
 
 - le numéro du certificat d'examen de type ;
 
+- le cas échéant, les dimensions de la marque de contrôle en service prévues par le certificat d'examen de type ;
+
 - pour la vérification primitive :
 
 - l'identification de l'entité qui effectue la vérification (dénomination, adresse et marque d'identification) ;
@@ -34,6 +36,8 @@ Le carnet métrologique d'un cinémomètre de contrôle routier doit au minimum 
 
 - l'identification de l'organisme désigné qui effectue la vérification (dénomination, adresse et marque d'identification) ;
 
+- la date et le lieu de réalisation de la vérification ;
+
 - la décision prononcée à l'issue de la vérification ;
 
 - pour la réparation :
@@ -47,3 +51,5 @@ Le carnet métrologique d'un cinémomètre de contrôle routier doit au minimum 
 - la date de la vérification primitive après réparation.
 
 Dans tous les cas, l'identification de l'organisme qui met en service un carnet ainsi que la date et le motif de cette ouverture (premier carnet, perte ou destruction du carnet précédent...) doivent être mentionnés.
+
+Les renseignements concernant la vérification de l'installation des cinémomètres installés à poste fixe non déplaçables peuvent figurer dans un certificat d'installation.
