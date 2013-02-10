@@ -1,5 +1,5 @@
 # Article 1
 
-Tout organisme qui sollicite, en application de l'article R. 521-59 du code de l'environnement, un agrément pour délivrer des certificats au personnel intervenant dans la récupération de solvants à base de gaz à effet de serre en fait la demande au ministre chargé de l'environnement dans le délai de six mois à compter de la publication du présent arrêté au Journal officiel de la République française.
+Tout organisme qui sollicite, en application de l'article R. 521-59 du code de l'environnement, un agrément pour délivrer des certificats au personnel intervenant dans la récupération de solvants à base de gaz à effet de serre en fait la demande au ministre chargé de l'environnement.
 
 Ce délai ne s'applique pas à la demande de renouvellement d'agrément prévue à l'article 7 du présent arrêté.
