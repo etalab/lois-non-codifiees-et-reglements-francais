@@ -38,16 +38,12 @@ m) Le service spécialisé de la logistique et du transport ;
 
 a) Le centre d'expertise et d'analyse comptable ;
 
-b) Le centre d'études et de développement informatique du commissariat des armées ;
+b) Les centres de production alimentaire ;
 
-c) Les centres de production alimentaire ;
+c) Le centre interarmées de la solde ;
 
-d) Le centre interarmées de la solde ;
+d) Les établissements logistiques ;
 
-e) Les établissements logistiques ;
+e) L'établissement de diffusion, d'impression et d'archives du commissariat des armées ;
 
-f) L'établissement de diffusion, d'impression et d'archives du commissariat des armées ;
-
-g) Le laboratoire du commissariat des armées ;
-
-h) Les commissariats de l'armée de terre.
+f) Le laboratoire du commissariat des armées.
