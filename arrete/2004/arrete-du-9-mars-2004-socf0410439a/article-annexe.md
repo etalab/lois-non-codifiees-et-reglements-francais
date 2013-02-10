@@ -1,70 +1,108 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : technicien (ne) supérieur (e) en méthodes et exploitation logistique.
+Intitulé : technicien (ne) supérieur (e) en méthodes et exploitation logistique
 
 Niveau : III.
 
 Code NSF : 311 p.
 
-**Résumé du référentiel d'emploi**
+Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique supervise et pilote les activités du site logistique afin d'optimiser le service et les coûts en relation avec les partenaires de la chaîne logistique.
+Garant des dispositifs réglementaires et contractuels, le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique pilote tout ou partie des activités logistiques du site et participe à leur développement à travers l'élaboration et la mise en œuvre de solutions logistiques afin de garantir les niveaux de productivité, de rentabilité et de service visés.
 
-Il (elle) assure le suivi et la coordination des activités du site, il (elle) adapte les moyens humains (chefs d'équipes, caristes, opérateurs logistiques) et matériels en fonction des fluctuations du volume prévisionnel d'activité, tout en veillant à optimiser le rapport qualité / service / coût pour l'entreprise et ses clients.
+A partir des prévisions et des fluctuations du volume de l'activité, le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique dimensionne et planifie les moyens humains et matériels.
 
-Garant des dispositions réglementaires et contractuelles sur le site, des procédures qualité et sécurité, il (elle) gère un budget délégué dans le respect de la stratégie logistique de l'entreprise définie par sa hiérarchie. Il (elle) utilise les systèmes informatisés de gestion de l'entreprise.
+Responsable opérationnel, il (elle) organise et supervise les opérations et analyse les performances de ses équipes, élabore et exploite des indicateurs logistiques pour le suivi de l'activité. Il (elle) manage les opérateurs logistiques.
 
-En relation permanente avec les interlocuteurs externes du site logistique (clients, fournisseurs, prestataires de service, donneurs d'ordres, administrations, etc.), le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique se doit de répondre aux offres ou demandes de ses interlocuteurs afin d'élaborer une proposition argumentée. Pour cela, il identifie les projets et conduit la mise en œuvre concrète des changements techniques, technologiques et organisationnels afin de maintenir ou améliorer le niveau de service et de rentabilité visé. Ces échanges s'effectuent en anglais avec les interlocuteurs étrangers.
+Il (elle) identifie et analyse les dysfonctionnements et les dérives de l'exploitation logistique. Il (elle) élabore et met en œuvre des solutions opérationnelles pour traiter les non-conformités et les situations à risques.
 
-Le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique exerce son activité dans des entrepôts, dédiés ou prestataires de service, des dépôts de stockage d'entreprises de production ou des plates formes de distribution.
+Pour répondre aux besoins d'évolution et optimiser le fonctionnement de l'activité du site logistique, le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique réalise et argumente une étude de faisabilité technique et économique des solutions logistiques qu'il (elle) a identifiées. II (elle) définit et formalise un plan d'action pour déployer la solution retenue. Il (elle) élabore, communique et veille au respect des procédures de travail. Il (elle) aménage les zones logistiques et implante les produits en fonction des contraintes physiques et réglementaires.
 
-Le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique est amené, selon les clients et les produits qu'il (elle) gère, à respecter des contraintes réglementaires et techniques spécifiques (produits dangereux, périssables, sites classés, températures dirigées positives ou négatives, etc.).
+Il (elle) prend en compte et s'assure du respect des règles d'hygiène, de sécurité, de sûreté et de qualité, de la responsabilité sociétale de l'entreprise et des règles de développement durable.
 
-**Capacités attestées et descriptif des composantes de la certification**
+Le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique peut agir comme représentant (e) légal (e) de son entreprise.
 
-1. Piloter les équipes opérationnelles du site logistique
+Selon la taille du site logistique ou des flux traités, il (elle) est responsable d'une unité logistique ou d'un service au sein de ce site.
 
-Définir le planning d'activité du site logistique à partir des volumes prévisionnels identifiés.
+Il (elle) est en contact permanent avec des interlocuteurs diversifiés de tous niveaux : chefs d'équipes, opérateurs, hiérarchie, fournisseurs, prestataires de service, transporteurs, clients, administrations, douanes, services internes de l'entreprise. Les échanges s'effectuent en dans une langue étrangère, principalement l'anglais, si nécessaire.
 
-Adapter les besoins en personnels et en qualifications en adéquation avec les contraintes des activités du site logistique.
+Le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique exerce son emploi dans un entrepôt, une plate-forme, une unité de production ou un magasin de stockage.
 
-Elaborer et analyser les tableaux de bord d'activité du site logistique.
+Les conditions d'exercice sont impactées par le mode d'organisation, le système de gestion informatisé des flux logistiques et le degré d'automatisation du site, la nature et les caractéristiques des marchandises, le cadre réglementaire et contractuel. Le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique évolue dans un contexte soumis aux fluctuations de l'activité nécessitant des ajustements permanents. En fonction des contraintes de l'activité du site, des fluctuations et aléas, ses horaires de travail peuvent être décalés ou postés et des astreintes sont possibles. Le port d'équipements de protection individuelle est requis.
 
-Etablir et actualiser le budget prévisionnel des activités logistiques.
+La mobilité géographique peut amener le (la) technicien (ne) supérieur (e) en méthodes et exploitation logistique à évoluer dans des environnements culturels divers.
 
-2. Organiser le suivi d'un projet sur le site logistique
+Capacités attestées et descriptif des composantes de la certification
 
-Planifier et suivre les étapes du projet.
+1. Piloter les activités du site logistique
 
-Argumenter les plans d'actions auprès des équipes logistiques du site et des interlocuteurs concernés, y compris en anglais.
+Planifier les activités logistiques du site à partir des volumes prévisionnels.
 
-Rationaliser les implantations des produits dans les zones de stockage dans le respect des règles de sécurité.
+Organiser et superviser la gestion des flux produits du site logistique.
 
-Elaborer des procédures de travail en fonction des évolutions technologiques et réglementaires.
+Déterminer et exploiter les indicateurs logistiques.
 
-3. Elaborer des solutions optimisées en termes de qualité / service / coût en réponse aux demandes des clients et des donneurs d'ordres, y compris en anglais
+Assurer le management des équipes logistiques.
 
-Réaliser l'étude de faisabilité en réponse aux demandes d'évolution des activités du site logistique.
+Repérer et traiter les dysfonctionnements et dérives de l'exploitation logistique, y compris en anglais.
 
-Définir les spécifications techniques en réponse aux appels d'offre de prestations logistiques, en anglais si nécessaire.
+2. Elaborer et mettre en œuvre des solutions techniques en réponse aux besoins du site logistique, y compris en anglais
 
-Proposer une solution chiffrée suite à une demande de prestations logistiques, en anglais si nécessaire.
+Effectuer une étude de faisabilité technique et économique d'un projet logistique.
 
-Remédier aux dérives relatives à l'exploitation logistique dans le cadre d'une démarche qualité et de service client, y compris en anglais.
+Définir et conduire un plan d'actions dans le cadre du déploiement d'une solution logistique.
 
-**Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre**
+Rationaliser l'agencement des zones logistiques et l'implantation des produits.
 
-Tout secteur industriel ou commercial comportant une activité logistique, d'entreposage ou de stockage, notamment les entrepôts, dédiés ou prestataires de service, les dépôts de stockage d'entreprises de production, ou des plates-formes de distribution.
+Elaborer des procédures de travail adaptées aux activités logistiques.
+
+Compétences transversales de l'emploi
+
+(le cas échéant)
+
+Rendre compte des activités logistiques et communiquer avec les interlocuteurs concernés, y compris en anglais.
+
+Mettre en œuvre et faire respecter les règles d'hygiène, de sécurité, de sûreté et de qualité.
+
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+
+Les différents secteurs d'activités concernés sont principalement tout secteur de distribution, industriel ou prestataire de services, comportant des activités de réception, de stockage/ déstockage, de préparation de commandes, d'expédition et/ ou de logistique des retours.
+
+Les types d'emplois accessibles sont les suivants (selon la taille de l'établissement) :
+
+-responsable de service réceptions ;
+
+-responsable de service préparation des commandes ;
+
+-responsable de service expéditions ;
+
+-responsable gestion de stock ;
+
+-responsable magasin ;
+
+-responsable de dépôt ;
+
+-responsable d'entrepôt ;
+
+-responsable de plate-forme ;
+
+-responsable d'exploitation logistique ;
+
+-responsable méthodes logistiques ;
+
+-responsable ordonnancement production.
+
+Codes ROME :
+
+N1302-Direction de site logistique.
+
+N1303-Intervention technique d'exploitation logistique.
 
 Réglementation de l'activité :
 
 Néant.
-
-Code ROME :
-
-61311-Responsable logistique.
 
 Autorité responsable de la certification :
 
@@ -72,6 +110,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi ;
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 8 mars 2013.
