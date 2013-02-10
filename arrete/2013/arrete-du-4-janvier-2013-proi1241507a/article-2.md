@@ -48,7 +48,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat.<br/>
+<p align="left">Chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat (Supprimé le 1er juin 2013).<br/>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement du Centre.<br/>
+<p align="left">Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement du Centre (Supprimé le 1er octobre 2013).<br/>
 </p>
 </td>
 </tr>
@@ -162,13 +162,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du service risques, chef de la division risques accidentels, à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur<br/>
+<p align="left">Chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (Supprimé le 1er avril 2013)<br/>
 </p>
 </td>
 </tr>

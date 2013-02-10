@@ -414,7 +414,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable du groupe de subdivisions de Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.<br/>
+<p align="left">Chef de l'unité territoriale de la Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (à compter du 27 novembre 2012).<br/>
 </p>
 </td>
 </tr>
@@ -614,6 +614,26 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <td align="left" valign="top">
 <p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin (Ajouté le 1er février 2013)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement de l'aménagement et du logement de Nord - Pas-de-Calais (Ajouté le 1er février 2013)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (Ajouté le 1er avril 2013)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat (Ajouté le 1er juin 2013)</p>
 </td>
 </tr>
 </tbody>
