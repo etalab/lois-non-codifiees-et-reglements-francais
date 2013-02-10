@@ -10,7 +10,7 @@ La période de nuit peut être divisée en demi-période de permanence sur place
 
 - pour la seconde partie de la nuit, la demi-période peut être prolongée par une demi-astreinte opérationnelle.
 
-A. - Les praticiens hospitaliers, les praticiens à temps partiel, les assistants des hôpitaux, les praticiens attachés,  les praticiens  contractuels et les praticiens adjoints contractuels :
+A. - Les praticiens hospitaliers, les praticiens à temps partiel, les assistants des hôpitaux, les praticiens attachés, les praticiens contractuels et les praticiens adjoints contractuels :
 
 1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires la nuit, le samedi après-midi, le dimanche ou jour férié :
 
@@ -62,7 +62,7 @@ Montant pour :
 
 - ne demi-nuit, un samedi après-midi : 108, 70 €.
 
-Afin de maintenir la situation indemnitaire de certains praticiens attachés associés et assistants associés en fonction à la date du 30 janvier 2002, le montant de l'indemnité de sujétion mentionné ci-dessus peut, au plus tard jusqu'au 31 décembre 2011, à titre exceptionnel et dérogatoire, être majoré à concurrence d'un montant de 238 euros pour une nuit, un dimanche ou jour férié et de 119 euros pour une demi-nuit ou un samedi après-midi.
+Afin de maintenir la situation indemnitaire de certains praticiens attachés associés et assistants associés en fonction à la date du 3 août 2010, le montant de l'indemnité de sujétion mentionné ci-dessus peut, au plus tard jusqu'au 31 décembre 2016, à titre exceptionnel et dérogatoire, être majoré à concurrence d'un montant de 238 euros pour une nuit, un dimanche ou jour férié et de 119 euros pour une demi-nuit ou un samedi après-midi.
 
 2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli de jour du lundi matin au samedi après-midi inclus, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
