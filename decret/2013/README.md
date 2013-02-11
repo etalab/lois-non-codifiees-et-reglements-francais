@@ -42,6 +42,7 @@
 - [Décret n°2012-731 du 7 mai 2012 (IOCE1221405D)](decret-n2012-731-du-7-mai-2012-ioce1221405d)
 - [Décret n°2000-1089 du 8 novembre 2000 (ECOU0000003D)](decret-n2000-1089-du-8-novembre-2000-ecou0000003d)
 - [Décret n°2000-1090 du 8 novembre 2000 (ECOU0000008D)](decret-n2000-1090-du-8-novembre-2000-ecou0000008d)
+- [Décret n°2013-132 du 8 février 2013 (AGRS1243416D)](decret-n2013-132-du-8-fevrier-2013-agrs1243416d)
 - [Décret n°2013-14 du 8 janvier 2013 (PRMX1300389D)](decret-n2013-14-du-8-janvier-2013-prmx1300389d)
 - [Décret n°2013-22 du 8 janvier 2013 (AFSA1209114D)](decret-n2013-22-du-8-janvier-2013-afsa1209114d)
 - [Décret n°2013-23 du 8 janvier 2013 (MCCK1237915D)](decret-n2013-23-du-8-janvier-2013-mcck1237915d)
