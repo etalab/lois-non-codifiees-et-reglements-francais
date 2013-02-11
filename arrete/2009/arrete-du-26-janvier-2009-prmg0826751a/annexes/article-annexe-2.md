@@ -5,62 +5,71 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 <table>
 <tbody>
 <tr>
-<th>SERVICES ET DIRECTIONS<br/>
-</th>
-<th>FONCTIONS</th>
-<th>NOMBRE<br/>d'emplois<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Secrétariat général du Gouvernement.<br/>
+<td width="224">
+<p align="center">SERVICES ET DIRECTIONS</p>
 </td>
-<td align="center">Chef du cabinet du secrétaire général du Gouvernement<br/>
+<td width="373">
+<p align="center">FONCTIONS</p>
 </td>
-<td align="center">1<br/>
+<td width="75">
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des services administratifs et financiers.<br/>
+<td width="224">
+<p>Secrétariat général du Gouvernement</p>
 </td>
-<td align="center">Chef du bureau de la commande publique<br/>
+<td width="373">
+<p>Chef du cabinet du secrétaire général du Gouvernement</p>
 </td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Chef du bureau de l'administration des personnels et des rémunérations <br/>
-</td>
-<td align="center">1<br/>
+<td width="75">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction de l'information légale et administrative</td>
-<td align="center">Directeur du centre interministériel de renseignements administratifs de Metz <br/>
+<td rowspan="2" valign="top" width="224">
+<p>Direction des services administratifs et financiers</p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td width="373">
+<p>Chef du bureau des achats ministériels </p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Responsable de la mission du contrôle de gestion<br/>
-</td>
-<td align="center">1<br/>
+<td width="75">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td width="373">
+<p>Chef du bureau de la gestion administrative et de la paie des personnels </p>
 </td>
-<td align="center">Responsable du département des périodiques, des collections et du conseil éditorial<br/>
+<td width="75">
+<p align="center">1</p>
 </td>
-<td align="center">
-<br/>1<br/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="224">
+<p>Direction de l'information légale et administrative</p>
+</td>
+<td width="373">
+<p>Responsable du département de la qualité et du contrôle interne</p>
+</td>
+<td width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td width="373">
+<p>Responsable du département de l'édition</p>
+</td>
+<td width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td width="373">
+<p>Directeur du centre d'appels interministériel</p>
+</td>
+<td width="75">
+<p align="center">1</p>
 </td>
 </tr>
 </tbody>
