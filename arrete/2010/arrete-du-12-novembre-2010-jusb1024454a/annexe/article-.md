@@ -188,11 +188,15 @@ de tribunal de grande instance**
 
 Aix-en-Provence.
 
+Ajaccio.
+
 Amiens.
 
 Angers.
 
 Avignon.
+
+Bastia.
 
 Bayonne.
 
@@ -266,7 +270,7 @@ Rennes.
 
 Rouen.
 
-Saint-Denis-de-la Réunion.
+Saint-Denis de La Réunion.
 
 Saint-Etienne.
 
