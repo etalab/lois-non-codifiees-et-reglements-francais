@@ -4,4 +4,4 @@ L'unité de valeur n° 1 est constituée d'un examen sanctionnant une phase de p
 
 Toute note inférieure à 5 sur 20 à l'une de ces épreuves est éliminatoire.
 
-Les programmes et la nature des épreuves sont fixés en annexe I du présent arrêté.
+Le programme, la nature des épreuves et les coefficients applicables sont fixés à l'annexe I du présent arrêté.

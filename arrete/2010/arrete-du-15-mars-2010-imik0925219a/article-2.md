@@ -1,7 +1,0 @@
-# Article 2
-
-Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'espace économique européen et de la Confédération helvétique remplissent les conditions de permanence visées à l'article R. 441-1 (1°) du code de la construction et de l'habitation lorsqu'ils justifient disposer d'un droit de séjour dans les conditions définies à l'article L. 121-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
-
-Les ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires par leur traité d'adhésion et exerçant une activité professionnelle doivent être titulaires d'une carte de séjour portant l'une des mentions suivantes : « CE - toutes activités professionnelles », « CE - toutes activités professionnelles, sauf salariées », « CE - membre de famille - toutes activités professionnelles », « CE - membre de famille - toutes activités professionnelles, sauf salariées » ou récépissé de demande de renouvellement de ce titre.
-
-Les membres de famille des ressortissants visés aux alinéas précédents, lorsqu'ils possèdent la nationalité d'un Etat tiers, doivent être titulaires d'une carte de séjour portant l'une des mentions suivantes : « CE - membre de famille - toutes activités professionnelles » ou « CE - membre de famille - toutes activités professionnelles, sauf salariées » ou « CE - séjour permanent - toutes activités professionnelles » ou « CE - séjour permanent toutes activités professionnelles, sauf salariées » ou du récépissé de demande de renouvellement de ce titre.
