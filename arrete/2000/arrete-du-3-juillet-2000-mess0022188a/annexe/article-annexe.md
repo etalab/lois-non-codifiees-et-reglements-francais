@@ -748,6 +748,8 @@ Société Construction Maintenance industrielle (CMI), 1, rue du général-Mangi
 
 Société lorraine des anciens établissements De Dietrich et compagnie de Lunéville, de 1948 à 1964, puis CIMT, de 1964 à 1970, puis Trailor, 9, avenue de la Libération, 54300 Lunéville, de 1970 à 1992 ;
 
+Solvay et Cie puis Solvay, usine de Dombasle, Rue Gabriel-Péri, BP n° 1, 54110 Dombasle-sur-Meurthe : De 1966 à 1990 ;
+
 Vosgisol, 57, rue Chanzy, 88500 Mirecourt : de 1973 à 1984 ;
 
 Wanner/Wanner Isofi/Wanner Industrie, 63 bis, boulevard Henri-Barbusse, 54510 Tomblaine : de 1957 à 1997 ;
