@@ -10,8 +10,6 @@ Il est institué auprès de chaque directeur ou chef de service des directions o
 
 ― directions de l'équipement de Mayotte et de Saint-Pierre-et-Miquelon ;
 
-― services de navigation ;
-
 ― directions régionales de l'environnement, de l'aménagement et du logement (DREAL).
 
-Les commissions administratives paritaires locales instituées auprès des directions régionales de l'environnement, de l'aménagement et du logement (DREAL) sont compétentes pour l'ensemble des services situés dans leur périmètre géographique à l'exception des directions interdépartementales des routes (DIR) et des services de navigation (SN) qui disposent de leur propre commission administrative paritaire.
+Les commissions administratives paritaires locales instituées auprès des directions régionales de l'environnement, de l'aménagement et du logement (DREAL) sont compétentes pour l'ensemble des services situés dans leur périmètre géographique à l'exception des directions interdépartementales des routes (DIR) qui disposent de leur propre commission administrative paritaire.
