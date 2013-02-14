@@ -2,106 +2,106 @@
 
 LISTE DES CLASSES THÉRAPEUTIQUES OU MÉDICAMENTS AUTORISÉS AUX SAGES-FEMMES POUR LEUR USAGE PROFESSIONNEL OU LEUR PRESCRIPTION AUPRÈS DES FEMMES
 
-A. - En primo-prescription :
+I. - En primo-prescription :
 
-Antiacides gastriques d'action locale et pansements gastro-intestinaux.
+1° Antiacides gastriques d'action locale et pansements gastro-intestinaux ;
 
-Antisécrétoires gastriques :
+2° Antisécrétoires gastriques :
 
-― antihistaminiques H2, de préférence la ranitidine ou la famotidine ;
+- antihistaminiques H2, de préférence la ranitidine ou la famotidine ;
 
-― inhibiteurs de la pompe à protons, de préférence l'oméprazole.
+- inhibiteurs de la pompe à protons, de préférence l'oméprazole ;
 
-Antiseptiques locaux.
+3° Antiseptiques locaux ;
 
-Anesthésiques locaux :
+4° Anesthésiques locaux :
 
-― médicaments renfermant de la lidocaïne.
+- médicaments renfermant de la lidocaïne ;
 
-Antibiotiques par voie orale dans le traitement curatif de première ligne des cystites et bactériuries asymptomatiques chez la femme enceinte selon les recommandations officielles en vigueur. Prescription non renouvelable pour une infection donnée.
+5° Antibiotiques par voie orale dans le traitement curatif de première ligne des cystites et bactériuries asymptomatiques chez la femme enceinte selon les recommandations officielles en vigueur. Prescription non renouvelable pour une infection donnée ;
 
-Antibiotiques par voie orale ou parentérale en prévention d'infections materno-fœtales chez la femme enceinte, selon les recommandations officielles en vigueur.
+6° Antibiotiques par voie orale ou parentérale en prévention d'infections materno-fœtales chez la femme enceinte, selon les recommandations officielles en vigueur ;
 
-Anti-infectieux locaux utilisés dans le traitement des vulvo-vaginites : antifongiques, trichomonacides, antibactériens et antiherpétiques.
+7° Anti-infectieux locaux utilisés dans le traitement des vulvo-vaginites : antifongiques, trichomonacides, antibactériens et antiherpétiques ;
 
-Antispasmodiques.
+8° Antispasmodiques ;
 
-Antiémétiques.
+9° Antiémétiques ;
 
-Antalgiques :
+10° Antalgiques :
 
-― paracétamol ;
+- paracétamol ;
 
-― tramadol ;
+- tramadol ;
 
-― nefopam ;
+- néfopam ;
 
-― association de paracétamol et de codéine ;
+- association de paracétamol et de codéine ;
 
-― association de paracétamol et de tramadol ;
+- association de paracétamol et de tramadol ;
 
-― nalbuphine, ampoules dosées à 20 mg. La prescription est réalisée dans le cadre d'un protocole mis en place avec le médecin anesthésiste-réanimateur. L'usage est limité au début du travail et à une seule ampoule par patiente.
+- nalbuphine, ampoules dosées à 20 mg. La prescription est réalisée dans le cadre d'un protocole mis en place avec le médecin anesthésiste-réanimateur. L'usage est limité au début du travail et à une seule ampoule par patiente ;
 
-Anti-inflammatoires non stéroïdiens en post-partum immédiat.
+11° Anti-inflammatoires non stéroïdiens en post-partum immédiat ;
 
-Antiviraux en prévention des récurrences d'herpès génital en fin de grossesse.
+12° Antiviraux en prévention des récurrences d'herpès génital en fin de grossesse ;
 
-Contraceptifs sous toutes leurs formes et voies d'administration.
+13° Contraceptifs sous toutes leurs formes et voies d'administration ;
 
-Médicaments homéopathiques.
+14° Médicaments homéopathiques ;
 
-Laxatifs.
+15° Laxatifs ;
 
-Vitamines et sels minéraux par voie orale.
+16° Vitamines et sels minéraux par voie orale ;
 
-Acide folique aux doses recommandées dans la prévention primaire des anomalies embryonnaires de fermeture du tube neural.
+17° Acide folique aux doses recommandées dans la prévention primaire des anomalies embryonnaires de fermeture du tube neural ;
 
-Topiques à activité trophique et protectrice.
+18° Topiques à activité trophique et protectrice ;
 
-Médicaments de proctologie : topiques locaux avec ou sans corticoïdes et avec ou sans anesthésiques.
+19° Médicaments de proctologie : topiques locaux avec ou sans corticoïdes et avec ou sans anesthésiques ;
 
-Solutions de perfusion.
+20° Solutions de perfusion :
 
-― solutés de glucose de toute concentration ;
+- solutés de glucose de toute concentration ;
 
-― solutés de chlorure de sodium isotonique à 0,9 % ;
+- solutés de chlorure de sodium isotonique à 0,9 % ;
 
-― solutés de gluconate de calcium à 10 % ;
+- solutés de gluconate de calcium à 10 % ;
 
-― solutions de Ringer.
+- solutions de Ringer ;
 
-Ocytociques :
+21° Ocytociques :
 
-― produits renfermant de l'oxytocine.
+- produits renfermant de l'oxytocine ;
 
-Oxygène.
+22° Oxygène ;
 
-Médicaments assurant le blocage de la lactation.
+23° Médicaments assurant le blocage de la lactation ;
 
-Mélange équimoléculaire oxygène protoxyde d'azote exclusivement en milieu hospitalier, et sous réserve d'une formation adaptée.
+24° Mélange équimoléculaire oxygène protoxyde d'azote exclusivement en milieu hospitalier, et sous réserve d'une formation adaptée ;
 
-Vaccins sous forme monovalente ou associés contre les pathologies suivantes : tétanos, diphtérie, poliomyélite, coqueluche (vaccin acellulaire), rubéole, hépatite B, grippe et vaccin préventif contre les lésions de col de l'utérus (HPV).
+25° Vaccins sous forme monovalente ou associés contre les pathologies suivantes : tétanos, diphtérie, poliomyélite, coqueluche (vaccin acellulaire), rougeole, oreillons, rubéole, hépatite B, grippe, affections liées au papillomavirus humain, infections invasives par le méningocoque C ;
 
-Immunoglobulines anti-D.
+26° Immunoglobulines anti-D ;
 
-Produits de substitution nicotinique.
+27° Produits de substitution nicotinique ;
 
-Salbutamol par voie orale et rectale.
+28° Salbutamol par voies orale et rectale.
 
-B. ― Les sages-femmes sont autorisées à renouveler la prescription faite par un médecin des médicaments suivants :
+II. - Les sages-femmes sont autorisées à renouveler la prescription faite par un médecin des médicaments suivants :
 
-― anti-inflammatoires non stéroïdiens indiqués dans le traitement des dysménorrhées, notamment l'acide méfénamique ;
+1° Anti-inflammatoires non stéroïdiens indiqués dans le traitement des dysménorrhées, notamment l'acide méfénamique ;
 
-― nicardipine, selon les protocoles en vigueur préétablis ;
+2° Nicardipine, selon les protocoles en vigueur préétablis ;
 
-― nifédipine selon les protocoles en vigueur préétablis.
+3° Nifédipine selon les protocoles en vigueur préétablis.
 
-C. ― En cas d'urgence, en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
+III. - En cas d'urgence, en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
 
-― succédanés du plasma composés d'hydroxyéthylamidon dans les états de choc ;
+1° Succédanés du plasma composés d'hydroxyéthylamidon dans les états de choc ;
 
-― éphédrine injectable dans la limite d'une ampoule dosée à 30 mg par patiente ;
+2° Ephédrine injectable dans la limite d'une ampoule dosée à 30 mg par patiente ;
 
-― adrénaline injectable par voie sous-cutanée dans les cas d'anaphylaxie ;
+3° Adrénaline injectable par voie sous-cutanée dans les cas d'anaphylaxie ;
 
-― dérivés nitrés, selon les protocoles en vigueur préétablis.
+4° Dérivés nitrés, selon les protocoles en vigueur préétablis.

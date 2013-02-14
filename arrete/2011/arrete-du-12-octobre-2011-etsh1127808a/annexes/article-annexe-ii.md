@@ -2,46 +2,46 @@
 
 LISTE DES CLASSES THÉRAPEUTIQUES OU DES MÉDICAMENTS AUTORISÉS AUX SAGES-FEMMES POUR LEUR USAGE PROFESSIONNEL OU LEUR PRESCRIPTION AUPRÈS DES NOUVEAU-NÉS
 
-A. - En primo-prescription :
+I.-En primo-prescription :
 
-Antiseptiques locaux.
+1° Antiseptiques locaux ;
 
-Anesthésiques locaux :
+2° Anesthésiques locaux :
 
-- crèmes ou patches contenant une association de lidocaïne et de prilocaïne.
+- crèmes ou patches contenant une association de lidocaïne et de prilocaïne ;
 
-Antalgiques :
+3° Antalgiques :
 
-- paracétamol par voie orale ou rectale.
+- paracétamol par voie orale ou rectale ;
 
-Antifongiques locaux.
+4° Antifongiques locaux ;
 
-Collyres antiseptiques, antibactériens et antiviraux sans anesthésiques, sans corticoïdes et sans vasoconstricteurs.
+5° Collyres antiseptiques, antibactériens et antiviraux sans anesthésiques, sans corticoïdes et sans vasoconstricteurs ;
 
-Oxygène.
+6° Oxygène ;
 
-Vitamines et sels minéraux par voie orale :
+7° Vitamines et sels minéraux par voie orale :
 
-- la forme injectable est autorisée pour la vitamine K1.
+- la forme injectable est autorisée pour la vitamine K1 ;
 
-Topiques à activité trophique et protectrice.
+8° Topiques à activité trophique et protectrice ;
 
-Solutions pour perfusion :
+9° Solutions pour perfusion :
 
 - solutés de glucose (de toute concentration) ;
 
 - soluté de chlorure de sodium isotonique à 0,9 % ;
 
-- soluté de gluconate de calcium à 10 %.
+- soluté de gluconate de calcium à 10 % ;
 
-Vaccins :
+10° Vaccins :
 
-- vaccin et immunoglobulines anti-hépatite B ;
+- Vaccin et immunoglobulines anti-hépatite B ;
 
 - BCG.
 
-B. - En cas d'urgence et en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
+II. - En cas d'urgence et en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
 
-- adrénaline par voie injectable ou intratrachéale dans la réanimation du nouveau-né ;
+1° Adrénaline par voie injectable ou intratrachéale dans la réanimation du nouveau-né ;
 
-- naloxone.
+2° Naloxone.
