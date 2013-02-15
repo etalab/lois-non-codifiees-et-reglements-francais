@@ -1296,7 +1296,6 @@
 - [Arrêté du 15 juillet 2004 (SOCF0411496A)](arrete-du-15-juillet-2004-socf0411496a)
 - [Arrêté du 15 juillet 2010 (AGRM0929344A)](arrete-du-15-juillet-2010-agrm0929344a)
 - [Arrêté du 15 juillet 2010 (AGRM1018902A)](arrete-du-15-juillet-2010-agrm1018902a)
-- [Arrêté du 15 juillet 2010 (AGRM1018906A)](arrete-du-15-juillet-2010-agrm1018906a)
 - [Arrêté du 15 juillet 2010 (AGRM1018909A)](arrete-du-15-juillet-2010-agrm1018909a)
 - [Arrêté du 15 juillet 2010 (AGRS1017099A)](arrete-du-15-juillet-2010-agrs1017099a)
 - [Arrêté du 15 juillet 2010 (AGRT1018095A)](arrete-du-15-juillet-2010-agrt1018095a)
