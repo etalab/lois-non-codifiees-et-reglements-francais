@@ -5,18 +5,18 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 <table>
 <tbody>
 <tr>
-<td width="337">
+<td align="left" valign="top">
 <p align="center">SERVICE</p>
 </td>
-<td width="337">
+<td align="left" valign="top">
 <p align="center">DÉPARTEMENTS CONCERNÉS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="337">
+<td align="left" valign="top">
 <p>DDTM du Pyrénées-Orientales</p>
 </td>
-<td valign="top" width="337">
+<td align="left" valign="top">
 <p>Pyrénées-Orientales </p>
 <p>Hérault</p>
 <p>Aude</p>
@@ -25,10 +25,10 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </td>
 </tr>
 <tr>
-<td valign="top" width="337">
+<td align="left" valign="top">
 <p>DDT de la Haute-Marne</p>
 </td>
-<td valign="top" width="337">
+<td align="left" valign="top">
 <p>Haute-Marne</p>
 <p>Aube</p>
 </td>
@@ -38,9 +38,31 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 <p align="left">DDT de Maine-et-Loire </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Maine-et-Loire <br/>
-<br/>Mayenne <br/>
-<br/>Sarthe</p>
+<p align="left">Maine-et-Loire </p>
+<p>Mayenne </p>
+<p>Sarthe</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DDT de la Dordogne </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dordogne </p>
+<p>Gironde </p>
+<p>Landes </p>
+<p>Lot-et-Garonne </p>
+<p>Pyrénées-Atlantiques</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DDTM des Bouches-du-Rhône</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bouches-du-Rhône </p>
+<p>Var </p>
+<p>Alpes-Maritimes</p>
 </td>
 </tr>
 </tbody>
