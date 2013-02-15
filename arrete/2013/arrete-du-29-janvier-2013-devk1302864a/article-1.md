@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des diplômes exigés pour se présenter à l'un des concours sur titres pour le recrutement d'administrateurs des affaires maritimes, mentionnée aux articles 6 (2°), 7-I (1°), 7-II (2°) et 7-II (3°) du décret du 28 décembre 2012 susvisé est fixée comme suit :
+La liste des diplômes exigés pour se présenter à l'un des concours sur titres pour le recrutement d'administrateurs des affaires maritimes, mentionnée aux articles 6 (2°), 7-I, 7-II (1°) et 7-II (3°) du décret du 28 décembre 2012 susvisé est fixée comme suit :
 
 a) Recrutement au grade d'administrateur de 1re classe (article 6 [2°]) :
 
