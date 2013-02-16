@@ -346,9 +346,9 @@ Azur Montage, ZI Les Bartavelles-les Négadoux, 83140 Six-Fours-les-Plages : de 
 
 Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille. De 1987 à 1992.
 
-Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
+Boulogne et Huard, Boulogne et Huard - Diesel hydrau ZI La Feuillane Lot 841/62-63 13270 FOS-SUR-MER ZI Marseille Nord 13480 CABRIES Le Collet rouge Plan de campagne 13170 LES PENNES-MIRABEAU De 1975 à 1996
 
-Boulogne et Huard. ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau. De 1975 à 1996.
+Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
 
 Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983.
 
@@ -500,9 +500,7 @@ Electric Marine :
 
 - boulevard National, 13003 Marseille : de 1950 à 1985.
 
-Electricité navale :
-
-- 258, chemin de la Madrague, ville, 13015 Marseille, et formes 8 et 9, porte 4 PAM, aire de Mourepiane, 13002 Marseille : depuis 1979.
+Electricité navale 5-7, La Canebière 13001 MARSEILLE Et 258, chemin de la Madrague-Ville 13015 MARSEILLE De 1979 à 2001 Puis Electricité navale et industrielle (ENI) 201, chemin de Gibbes 13014 MARSEILLE Et Enceinte portuaire, porte 4, Forme 8 et 9 BP 415 13312 MARSEILLE Cedex 14 De 2001 à 2012.
 
 EMI (Entretien marine industrie) 11, quai de la Tourette, 13002 Marseille De 1969 à 1974.
 
@@ -688,9 +686,7 @@ Macor Marine/Macor Neptun :
 
 Maintenance et applications techniques, ZI Les Paluds, 13400 Aubagne : de 1980 à 1983.
 
-MAK Méditerranée :
-
-- rue Gaston-Castel, ZAC Somtay-Seon, 13016 Marseille : depuis 1978.
+MAK MÉDITERRANÉE Villa d'Este 15, avenue Robert-Schumann 13002 MARSEILLE De 1978 à 1980 Puis quartier du Rigon Plan de campagne Les Pennes-Mirabeau 13170 LA CAVOTTE De 1980 à 1982 Puis 38, boulevard Gay-Lussac 13014 MARSEILLE De 1983 à 1995 Puis 770, avenue Guilibert-de-la-Lauzière 13290 LES MILLES De 1995 à 1999 Puis Moteurs-Marine-Méditerranée/MAK Méditerranée/MAK/MAK MED ZAC Saumaty Séon 25, avenue Gaston-CastelAngle chemin de Saint-Henri 13016 MARSEILLE De 1999 à 2012.
 
 MARCELIN AUGUSTE, 10, boulevard d'Athènes, 13001 Marseille. De 1942 à 1967. Mourepiane, port de Marseille, 13016 Marseille. De 1953 à 1967. puis ENTREPRISE AUGUSTE MARCELLIN OCEAN INDIEN. 10, boulevard d'Athènes, 13001 Marseille. Mourepiane, port de Marseille, 13016 Marseille. De 1966 à 1976.
 
@@ -774,7 +770,7 @@ CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment Primin
 
 Philippou :
 
-- route du Cimetière, puis quartier Jeausseranne, 13110 Port-de-Bouc : de 1967 à 1980
+- route du Cimetière, puis quartier Jeausseranne, 13110 Port-de-Bouc : de 1967 à 1980.
 
 Plaisance peinture nettoyage, 17, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1995.
 
