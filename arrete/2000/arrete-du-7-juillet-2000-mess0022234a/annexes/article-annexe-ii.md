@@ -762,7 +762,7 @@ SARL Dourmap et Cie :
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
-SARL Michel LE BEC mécanique marine Terre-plein Ouest, port de Lesconil, 29740 Plobannalec De 1980 à 2000
+SARL Michel LE BEC mécanique marine Ter r e - p l <font color="#000000" size="1">e i n O u e s</font> t , p o r t d e Lesconil , 29740 Plobannalec De 1980 à 2000.
 
 SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
@@ -835,6 +835,8 @@ SMCT (Société de montage en chaudronnerie et tuyauterie de Brest) :
 - 71, rue de la Porte, 29200 Brest : depuis 1992.
 
 SMCT (Société de montage en chaudronnerie et tuyauterie), de 1984 à 1992, puis SMCTL (Société de montage en chaudronnerie et tuyauterie de Lorient), 27, quai des Indes, 56100 Lorient, de 1993 à 1995, puis 12, boulevard Abbé-Le-Cam, 56100 Lorient, depuis 1995.
+
+SMCTO.B (Société de montage en chaudronnerie et tuyauterie de l'ouest Brest) 21, rue Jurien-de-la-Gravière 29200 BREST De 1995 à 2005 Puis 3, rue du Colonel-Berthaud 29200 BREST De 2006 à 2010 Et 280, rue Alain-Colas 29200 BREST En 2010
 
 SMPO (Société métallurgique des peinture de l'Ouest), 11, rue Amiral-Troude, 29200 Brest : de 1969 à 1989.
 
@@ -1238,7 +1240,7 @@ SERMI :
 
 service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Bois-Guilbert, BP 4075, 76100 Rouen, de 1947 à 2012
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Bois-Guilbert, BP 4075, 76100 Rouen, de 1947 à 2012.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
