@@ -1,174 +1,234 @@
 # Article 2
 
-<div>
-<br/>Le nombre de voix dont disposent les présidents de chambre de commerce et d'industrie de région à l'assemblée générale des chambres françaises de commerce et d'industrie, établi au prorata du poids économique de leur chambre, déterminé en fonction de l'étude économique mentionnée à l'article R. 713-66, est déterminé comme suit : <br/>
+Le nombre de voix dont disposent les présidents de chambre de commerce et d'industrie de région à l'assemblée générale des chambres françaises de commerce et d'industrie, établi au prorata du poids économique de leur chambre, déterminé en fonction de l'étude économique mentionnée à l'article R. 713-66, est déterminé comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>PRÉSIDENT DE LA CHAMBRE <br/>de commerce et d'industrie de région </th>
-<th>
-<br/>NOMBRE DE VOIX </th>
+<td width="454">
+<p align="center">PRÉSIDENT DE LA CHAMBRE DE COMMERCE<br/>et d'industrie de région</p>
+</td>
+<td width="227">
+<p align="center">NOMBRE DE VOIX</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Alsace </td>
-<td align="center">
-<br/>4,33 </td>
+<td width="454">
+<p>Alsace </p>
+</td>
+<td width="227">
+<p align="center">4,27 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aquitaine </td>
-<td align="center">
-<br/>6,11 </td>
+<td width="454">
+<p>Aquitaine </p>
+</td>
+<td width="227">
+<p align="center">6,02 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Auvergne </td>
-<td align="center">
-<br/>2,45 </td>
+<td width="454">
+<p>Auvergne </p>
+</td>
+<td width="227">
+<p align="center">2,41 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Basse-Normandie </td>
-<td align="center">
-<br/>3,00 </td>
+<td width="454">
+<p>Basse-Normandie </p>
+</td>
+<td width="227">
+<p align="center">2,96 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bourgogne </td>
-<td align="center">
-<br/>3,19 </td>
+<td width="454">
+<p>Bourgogne </p>
+</td>
+<td width="227">
+<p align="center">3,14 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bretagne </td>
-<td align="center">
-<br/>5,62 </td>
+<td width="454">
+<p>Bretagne </p>
+</td>
+<td width="227">
+<p align="center">5,54 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Centre </td>
-<td align="center">
-<br/>4,95 </td>
+<td width="454">
+<p>Centre </p>
+</td>
+<td width="227">
+<p align="center">4,88 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Champagne-Ardenne </td>
-<td align="center">
-<br/>2,45 </td>
+<td width="454">
+<p>Champagne-Ardenne </p>
+</td>
+<td width="227">
+<p align="center">2,42 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corse </td>
-<td align="center">
-<br/>0,64 </td>
+<td width="454">
+<p>Corse </p>
+</td>
+<td width="227">
+<p align="center">0,63 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Franche-Comté </td>
-<td align="center">
-<br/>2,31 </td>
+<td width="454">
+<p>Franche-Comté </p>
+</td>
+<td width="227">
+<p align="center">2,27 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Guadeloupe </td>
-<td align="center">
-<br/>0,86 </td>
+<td width="454">
+<p>Guadeloupe </p>
+</td>
+<td width="227">
+<p align="center">0,84 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Guyane </td>
-<td align="center">
-<br/>0,27 </td>
+<td width="454">
+<p>Guyane </p>
+</td>
+<td width="227">
+<p align="center">0,27 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Normandie </td>
-<td align="center">
-<br/>4,19 </td>
+<td width="454">
+<p>Haute-Normandie </p>
+</td>
+<td width="227">
+<p align="center">4,13 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ile-de-France </td>
-<td align="center">
-<br/>32,43 </td>
+<td width="454">
+<p>Paris-Ile-de-France </p>
+</td>
+<td width="227">
+<p align="center">31,95 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Languedoc-Roussillon </td>
-<td align="center">
-<br/>4,80 </td>
+<td width="454">
+<p>Languedoc-Roussillon </p>
+</td>
+<td width="227">
+<p align="center">4,73 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Limousin </td>
-<td align="center">
-<br/>1,18 </td>
+<td width="454">
+<p>Limousin </p>
+</td>
+<td width="227">
+<p align="center">1,16 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lorraine </td>
-<td align="center">
-<br/>4,41 </td>
+<td width="454">
+<p>Lorraine </p>
+</td>
+<td width="227">
+<p align="center">4,35 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Martinique </td>
-<td align="center">
-<br/>0,70 </td>
+<td width="454">
+<p>Martinique </p>
+</td>
+<td width="227">
+<p align="center">0,69 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Midi-Pyrénées </td>
-<td align="center">
-<br/>5,43 </td>
+<td width="454">
+<p>Midi-Pyrénées </p>
+</td>
+<td width="227">
+<p align="center">5,35 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nord-Pas-de-Calais </td>
-<td align="center">
-<br/>7,91 </td>
+<td width="454">
+<p>Nord de France </p>
+</td>
+<td width="227">
+<p align="center">7,80 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Provence-Alpes-Côte d'Azur </td>
-<td align="center">
-<br/>10,54 </td>
+<td width="454">
+<p>Provence-Alpes-Côte d'Azur </p>
+</td>
+<td width="227">
+<p align="center">10,39 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pays de la Loire </td>
-<td align="center">
-<br/>6,82 </td>
+<td width="454">
+<p>Pays de la Loire </p>
+</td>
+<td width="227">
+<p align="center">6,72 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Picardie </td>
-<td align="center">
-<br/>3,43 </td>
+<td width="454">
+<p>Picardie </p>
+</td>
+<td width="227">
+<p align="center">3,38 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Poitou-Charentes </td>
-<td align="center">
-<br/>2,94 </td>
+<td width="454">
+<p>Poitou-Charentes </p>
+</td>
+<td width="227">
+<p align="center">2,89 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Réunion </td>
-<td align="center">
-<br/>1,14 </td>
+<td width="454">
+<p>Réunion </p>
+</td>
+<td width="227">
+<p align="center">1,13 </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rhône-Alpes </td>
-<td align="center">
-<br/>14,90</td>
+<td width="454">
+<p>Rhône-Alpes </p>
+</td>
+<td width="227">
+<p align="center">14,68</p>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
+<p align="left">
 <br/>
+</p>
+<br/>
+<br/>
+
 </div>
