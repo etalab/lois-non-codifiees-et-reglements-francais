@@ -998,6 +998,7 @@
 - [Décret n°2002-1105 du 30 août 2002 (PRMG0270573D)](decret-n2002-1105-du-30-aout-2002-prmg0270573d)
 - [Décret n°2011-2048 du 30 décembre 2011 (MAEA1026501D)](decret-n2011-2048-du-30-decembre-2011-maea1026501d)
 - [Décret n°2011-2085 du 30 décembre 2011 (BCRS1135079D)](decret-n2011-2085-du-30-decembre-2011-bcrs1135079d)
+- [Décret n°2011-2097 du 30 décembre 2011 (SCSA1132481D)](decret-n2011-2097-du-30-decembre-2011-scsa1132481d)
 - [Décret n°2011-2111 du 30 décembre 2011 (IOCJ1128526D)](decret-n2011-2111-du-30-decembre-2011-iocj1128526d)
 - [Décret n°2011-2112 du 30 décembre 2011 (EFIE1124864D)](decret-n2011-2112-du-30-decembre-2011-efie1124864d)
 - [Décret n°2012-117 du 30 janvier 2012 (DEFD1128841D)](decret-n2012-117-du-30-janvier-2012-defd1128841d)
