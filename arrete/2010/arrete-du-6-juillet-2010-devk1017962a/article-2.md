@@ -24,7 +24,7 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 ― responsable d'un service ou adjoint au responsable d'un service à enjeux particuliers, responsable d'une division à enjeux particuliers au sein d'un service, dans une direction régionale de l'environnement, de l'aménagement et du logement ;
 
-― responsable d'un service ou adjoint au responsable d'un service à enjeux particuliers, au sein d'un service navigation, d'une direction interdépartementale des routes, d'une direction interrégionale de la mer ou d'une direction régionale et interdépartementale d'Ile-de-France ;
+― responsable d'un service ou adjoint au responsable d'un service à enjeux particuliers au sein d'une direction territoriale de l'établissement public Voies navigables de France, d'une direction interdépartementale des routes, d'une direction interrégionale de la mer ou d'une direction régionale et interdépartementale d'Ile-de-France ;
 
 ― responsable d'un service membre du CODIR d'une direction départementale interministérielle ;
 

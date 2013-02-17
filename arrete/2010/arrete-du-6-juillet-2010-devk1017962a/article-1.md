@@ -24,9 +24,9 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 ― délégué territorial d'une délégation à enjeux particuliers, chargé de mission d'inspection à la mission interministérielle d'inspection du logement social ;
 
-― chargé de direction, directeur adjoint, adjoint au directeur ou équivalent d'un service déconcentré ;
+― chargé de direction, directeur adjoint, adjoint au directeur ou équivalent d'un service déconcentré ou d'une direction territoriale de l'établissement public Voies navigables de France ;
 
-― responsable d'un service à enjeux particuliers au sein d'une direction régionale de l'environnement, de l'aménagement et du logement, d'un service de navigation, d'une direction interdépartementale des routes, d'une direction interrégionale de la mer ou d'une direction régionale et interdépartementale d'Ile-de-France ;
+― responsable d'un service à enjeux particuliers au sein d'une direction régionale de l'environnement, de l'aménagement et du logement, d'une direction territoriale de l'établissement public Voies navigables de France, d'une direction interdépartementale des routes, d'une direction interrégionale de la mer ou d'une direction interdépartementale d'Ile-de-France ;
 
 ― responsable d'un service à enjeux particuliers au sein d'une direction départementale interministérielle importante ;
 
