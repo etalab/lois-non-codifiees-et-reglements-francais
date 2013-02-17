@@ -439,6 +439,7 @@
 - [Arrêté du 30 octobre 2012 (ETSD1236752A)](arrete-du-30-octobre-2012-etsd1236752a)
 - [Arrêté du 30 octobre 2012 (ETST1229420A)](arrete-du-30-octobre-2012-etst1229420a)
 - [Arrêté du 30 octobre 2012 (ETST1229456A)](arrete-du-30-octobre-2012-etst1229456a)
+- [Arrêté du 31 août 2004 (MENP0401520A)](arrete-du-31-aout-2004-menp0401520a)
 - [Arrêté du 31 août 2012 (PRMX1233046A)](arrete-du-31-aout-2012-prmx1233046a)
 - [Arrêté du 31 décembre 2012 (AFSR1243082A)](arrete-du-31-decembre-2012-afsr1243082a)
 - [Arrêté du 31 décembre 2012 (BUDB1242766A)](arrete-du-31-decembre-2012-budb1242766a)
