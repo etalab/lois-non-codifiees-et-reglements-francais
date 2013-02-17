@@ -6,7 +6,7 @@ I.-Au moment de la demande :
 
 1° a) En cas de location, soit la copie du contrat établi au nom du demandeur ainsi que l'original ou la copie de la quittance de loyer établie au même nom qui comprend la mensualité de juillet, soit une attestation du bailleur précisant le montant du loyer pour le mois de juillet ou, éventuellement, une quittance ou une attestation correspondant au mois pris en considération pour le calcul de l'allocation de logement.
 
-Lorsque l'allocation de logement est versée en application des 1° et 2° du quatrième alinéa de l'article L. 553-4 du code de la sécurité sociale et des e et g du 1° du I de l'article 31 du code général des impôts, le demandeur fournit une attestation du bailleur précisant le montant du loyer pour le mois de juillet ou, éventuellement, dans les cas prévus à l'article D. 542-20 du code de la sécurité sociale, une attestation dudit bailleur correspondant au mois pris en considération pour le calcul de l'allocation ;
+Lorsque l'allocation de logement est versée en application du II de l'article L. 553-4 du code de la sécurité sociale, le demandeur fournit une attestation du bailleur précisant le montant du loyer pour le mois de juillet ou, éventuellement, dans les cas prévus à l'article D. 542-20 du code de la sécurité sociale, une attestation dudit bailleur correspondant au mois pris en considération pour le calcul de l'allocation ;
 
 b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le salaire, la production du bulletin de salaire qui justifiera du paiement d'un loyer ;
 
@@ -18,7 +18,7 @@ c) En cas d'accession à la propriété, l'allocataire doit justifier des obliga
 
 4° Une déclaration sur l'honneur indiquant le total des ressources perçues au cours de l'année civile de référence par toutes les personnes vivant habituellement au foyer dans les conditions déterminées aux articles D. 542-9 à D. 542-11 du code de la sécurité sociale ;
 
-5° Toutes justifications des situations prévues aux articles R. 531-12 à R. 531-13 du code de la sécurité sociale.
+5° Toutes justifications des situations prévues aux articles R. 532-5 à R. 532-7 du code de la sécurité sociale.
 
 II.-Pour le renouvellement des droits doivent être fournis avant le 1er janvier de chaque année :
 

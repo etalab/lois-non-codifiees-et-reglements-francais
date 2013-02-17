@@ -4,7 +4,6 @@
 - [Arrêté du 1 décembre 1986](arrete-du-1-decembre-1986)
 - [Arrêté du 1 juillet 1986](arrete-du-1-juillet-1986)
 - [Arrêté du 1 octobre 1986](arrete-du-1-octobre-1986)
-- [Arrêté du 1 septembre 1986](arrete-du-1-septembre-1986)
 - [Arrêté du 2 décembre 1986](arrete-du-2-decembre-1986)
 - [Arrêté du 2 janvier 1986](arrete-du-2-janvier-1986)
 - [Arrêté du 2 juillet 1986](arrete-du-2-juillet-1986)
