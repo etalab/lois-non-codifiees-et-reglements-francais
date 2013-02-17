@@ -121,7 +121,6 @@
 - [Arrêté du 3 août 2012 (OMEO1222358A)](arrete-du-3-aout-2012-omeo1222358a)
 - [Arrêté du 3 août 2012 (SPOF1233687A)](arrete-du-3-aout-2012-spof1233687a)
 - [Arrêté du 3 avril 2012 (AGRM1206609A)](arrete-du-3-avril-2012-agrm1206609a)
-- [Arrêté du 3 avril 2012 (DEVL1107115A)](arrete-du-3-avril-2012-devl1107115a)
 - [Arrêté du 3 avril 2012 (DEVL1107123A)](arrete-du-3-avril-2012-devl1107123a)
 - [Arrêté du 3 avril 2012 (ETSO1133838A)](arrete-du-3-avril-2012-etso1133838a)
 - [Arrêté du 3 avril 2012 (JUSK1220688A)](arrete-du-3-avril-2012-jusk1220688a)
