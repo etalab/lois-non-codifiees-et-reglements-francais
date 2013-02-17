@@ -18,7 +18,7 @@ Type de produit 8 : produits de protection du bois
 </td>
 <td>
 <p align="center">
-<font color="#000000" size="1">SPÉCIFICATIONS<br/>concernant la substance active</font>
+<font color="#000000" size="1">SPÉCIFICATIONS<br/>concernant la substance active (*)</font>
 </p>
 </td>
 <td>
@@ -31,7 +31,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td>
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -345,7 +345,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td width="147">
-<p align="center">SPÉCIFICATIONS<br/>concernant la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant la substance active (*)</p>
 </td>
 <td width="148">
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -357,7 +357,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td width="145">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -418,7 +418,8 @@ Type de produit 8 : produits de protection du bois
 <p>Tétraborate de disodium</p>
 </td>
 <td valign="top" width="147">
-<p>Identité :<br/>Dénomination de l'UICPA : tétraborate de disodium<br/>N° CE : 215-540-4<br/>N° CAS (anhydre) : 1330-43-4<br/>N° CAS (pentahydrate) : 12267-73-1<br/>N° CAS (décahydrate) : 1303-96-4<br/>Pureté minimale :<br/>≥ 990 g/kg</p>
+<p>Identité :<br/>Dénomination de l'UICPA : tétraborate de disodium<br/>N° CE : 215-540-4<br/>N° CAS (anhydre) : 1330-43-4<br/>N° CAS (pentahydrate) : 12179-04-3</p>
+<p>N° CAS (décahydrate) : 1303-96-4<br/>Pureté minimale :<br/>≥ 990 g/kg</p>
 </td>
 <td valign="top" width="148">
 <p>S'il y a lieu, les groupes de population susceptibles d'être exposés au produit ainsi que les usages et les scénarios d'exposition qui n'ont pas été pris en considération de façon représentative dans l'évaluation des risques au niveau communautaire sont évalués.</p>
@@ -528,7 +529,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">SPÉCIFICATIONS<br/>concernant la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant la substance<br/>active (*)</p>
 </td>
 <td align="center" valign="middle">
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -541,7 +542,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -917,6 +918,55 @@ Type de produit 8 : produits de protection du bois
 <p>II. - Pour les produits contenant du flufénoxuron comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Carbonate de DDA</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Identité : </p>
+<p>Dénomination de l'UICPA : </p>
+<p>Masse de réaction du carbonate de N, N-didécyl-N, N-diméthylammonium et de bicarbonate de N, N-didécyl-N, N-diméthylammonium </p>
+<p>N° CE : 451-900-9 </p>
+<p>N° CAS : 894406-76-9 </p>
+<p>Pureté minimale : </p>
+<p>Poids sec </p>
+<p>≥ 740 g/ kg</p>
+</td>
+<td align="left" valign="top">
+<p align="left">L'évaluation des risques réalisée au niveau de l'Union n'a pas abordé toutes les utilisations possibles ; certaines utilisations, telles que l'utilisation par des utilisateurs non professionnels ont été exclues. Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations humaines et les milieux naturels qui n'ont pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués. </p>
+<p>Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. </p>
+<p>Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes : </p>
+<p>1. Des procédures opérationnelles sûres doivent être établies pour les utilisateurs industriels et les produits doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il puisse être démontré dans la demande d'autorisation du produit que les risques peuvent être ramenés à un niveau acceptable par d'autres moyens ; </p>
+<p>2. Des étiquettes et, le cas échéant, des fiches de données de sécurité des produits autorisés doivent indiquer que l'application industrielle doit être effectuée dans une zone confinée ou sur une surface en dur imperméable avec enceintes de protection, que le bois fraîchement traité doit être stocké après son traitement sous abri ou sur une surface en dur imperméable, ou les deux, pour éviter des pertes directes dans le sol ou les eaux, et que les pertes liées à l'application du produit doivent être récupérées en vue de leur réutilisation ou de leur élimination ; </p>
+<p>3. Les produits ne sont pas autorisés pour le traitement du bois qui sera en contact avec l'eau douce ou utilisé dans des constructions en plein air situées à proximité de l'eau ou sur l'eau, ou pour le traitement par trempage du bois qui sera exposé en permanence aux intempéries ou fréquemment exposé à l'humidité, à moins que ne soient fournies des données démontrant que le produit répond aux exigences de l'article L. 522-4 du code de l'environnement et à celles de l'annexe VI du présent arrêté, si nécessaire par l'application de mesures d'atténuation appropriées. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er février 2013</p>
+</td>
+<td align="left" valign="top">
+<p align="left">31 janvier 2023</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sans objet (nouvelle substance active)</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">(*) La pureté indiquée correspond au degré minimal de pureté de la substance active utilisée pour l'évaluation effectuée conformément aux articles R. 522-2 à R. 522-8 du code de l'environnement. La substance active contenue dans le produit mis sur le marché peut présenter un degré de pureté identique ou différent, dès lors qu'elle a été reconnue techniquement équivalente à la substance évaluée. </p>
+<p>(**) Les délais ne sont pas applicables dans les cas suivants : </p>
+<p>a) Dans le cas des produits contenant plusieurs substances actives relevant de l'article R. 522-2 du code de l'environnement, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est celle qui s'applique à la dernière de ces substances actives à inclure dans la présente annexe ; </p>
+<p>b) Dans le cas des produits dont la première autorisation a été accordée par un autre Etat membre de l'Union européenne après la date correspondant à cent vingt jours avant la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement et pour lesquels une demande complète de reconnaissance mutuelle en France au titre de l'article R. 522-26 du code de l'environnement a été présentée dans les soixante jours suivant l'octroi de la première autorisation, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, en ce qui concerne ladite demande, est portée à cent vingt jours à compter de la date de réception de la demande complète de reconnaissance mutuelle ; </p>
+<p>c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadre d'une procédure de reconnaissance mutuelle conformément à l'article R. 522-26 du code de l'environnement fait l'objet d'une décision spécifique de la Commission, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est portée à trente jours après la date de la décision de la Commission.</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -929,7 +979,7 @@ Type de produit 12 : produits antimoisissures
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active </p>
+<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active (*)</p>
 </td>
 <td align="center" valign="middle">
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -941,7 +991,7 @@ Type de produit 12 : produits antimoisissures
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -972,6 +1022,23 @@ Type de produit 12 : produits antimoisissures
 <td align="left" valign="top">
 <br/>Sans objet (nouvelle substance active) : les produits doivent être autorisés avant d'être mis sur le marc</td>
 </tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">(*) La pureté indiquée correspond au degré minimal de pureté de la substance active utilisée pour l'évaluation effectuée conformément aux articles R. 522-2 à R. 522-8 du code de l'environnement. La substance active contenue dans le produit mis sur le marché peut présenter un degré de pureté identique ou différent, dès lors qu'elle a été reconnue techniquement équivalente à la substance évaluée. </p>
+<p>(**) Les délais ne sont pas applicables dans les cas suivants : </p>
+<p>a) Dans le cas des produits contenant plusieurs substances actives relevant de l'article R. 522-2 du code de l'environnement, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est celle qui s'applique à la dernière de ces substances actives à inclure dans la présente annexe ; </p>
+<p>b) Dans le cas des produits dont la première autorisation a été accordée par un autre Etat membre de l'Union européenne après la date correspondant à cent vingt jours avant la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement et pour lesquels une demande complète de reconnaissance mutuelle en France au titre de l'article R. 522-26 du code de l'environnement a été présentée dans les soixante jours suivant l'octroi de la première autorisation, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, en ce qui concerne ladite demande, est portée à cent vingt jours à compter de la date de réception de la demande complète de reconnaissance mutuelle ; </p>
+<p>c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadre d'une procédure de reconnaissance mutuelle conformément à l'article R. 522-26 du code de l'environnement fait l'objet d'une décision spécifique de la Commission, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est portée à trente jours après la date de la décision de la Commission.</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -984,7 +1051,7 @@ Type de produit 14 : rodenticides
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td>
-<p align="center">SPÉCIFICATIONS<br/>concernant la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant la substance active (*)</p>
 </td>
 <td>
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -996,7 +1063,7 @@ Type de produit 14 : rodenticides
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td>
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -1111,7 +1178,7 @@ Type de produit 14 : rodenticides
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td width="144">
-<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance<br/>active (*)</p>
 <br/>
 </td>
 <td width="148">
@@ -1124,7 +1191,7 @@ Type de produit 14 : rodenticides
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td width="145">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -1270,7 +1337,7 @@ Type de produit 14 : rodenticides
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance<br/>active (*)</p>
 </td>
 <td align="center" valign="middle">
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -1282,7 +1349,7 @@ Type de produit 14 : rodenticides
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -1411,7 +1478,7 @@ Type de produit 14 : rodenticides
 <p>1. La concentration nominale de la substance active dans les produits n'excède pas 50 mg/kg et seuls les produits prêts à l'emploi sont autorisés.</p>
 <p>2. Les produits doivent contenir un agent provoquant une aversion et, s'il y a lieu, un colorant. </p>
 <p>3. Les produits ne doivent pas être utilisés comme poison de piste.</p>
-<p align="left">4.L'exposition directe et indirecte de l'homme, des animaux non visés et de l'environnement sont minimisées par l'examen et l'application de toutes les mesures d'atténuation des risques disponibles et appropriées. Celles-ci incluent notamment la restriction du produit au seul usage professionnel, la fixation d'une limite maximale applicable à la taille du conditionnement et l'obligation d'utiliser des caisses d'appâts inviolables et scellées. </p>
+<p align="left">4. L'exposition directe et indirecte de l'homme, des animaux non visés et de l'environnement sont minimisées par l'examen et l'application de toutes les mesures d'atténuation des risques disponibles et appropriées. Celles-ci incluent notamment la restriction du produit au seul usage professionnel, la fixation d'une limite maximale applicable à la taille du conditionnement et l'obligation d'utiliser des caisses d'appâts inviolables et scellées. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">1er février 2012</p>
@@ -1429,6 +1496,23 @@ Type de produit 14 : rodenticides
 <p>II. - Pour les produits contenant du brodifacoum comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
 </td>
 </tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">(*) La pureté indiquée correspond au degré minimal de pureté de la substance active utilisée pour l'évaluation effectuée conformément aux articles R. 522-2 à R. 522-8 du code de l'environnement. La substance active contenue dans le produit mis sur le marché peut présenter un degré de pureté identique ou différent, dès lors qu'elle a été reconnue techniquement équivalente à la substance évaluée. </p>
+<p>(**) Les délais ne sont pas applicables dans les cas suivants : </p>
+<p>a) Dans le cas des produits contenant plusieurs substances actives relevant de l'article R. 522-2 du code de l'environnement, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est celle qui s'applique à la dernière de ces substances actives à inclure dans la présente annexe ; </p>
+<p>b) Dans le cas des produits dont la première autorisation a été accordée par un autre Etat membre de l'Union européenne après la date correspondant à cent vingt jours avant la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement et pour lesquels une demande complète de reconnaissance mutuelle en France au titre de l'article R. 522-26 du code de l'environnement a été présentée dans les soixante jours suivant l'octroi de la première autorisation, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, en ce qui concerne ladite demande, est portée à cent vingt jours à compter de la date de réception de la demande complète de reconnaissance mutuelle ; </p>
+<p>c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadre d'une procédure de reconnaissance mutuelle conformément à l'article R. 522-26 du code de l'environnement fait l'objet d'une décision spécifique de la Commission, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est portée à trente jours après la date de la décision de la Commission.</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -1441,7 +1525,7 @@ Type de produit 18 : insecticides, acaricides et produits utilisés pour lutter 
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td>
-<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active (*)</p>
 </td>
 <td>
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -1453,7 +1537,7 @@ Type de produit 18 : insecticides, acaricides et produits utilisés pour lutter 
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td>
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -2020,6 +2104,23 @@ Type de produit 18 : insecticides, acaricides et produits utilisés pour lutter 
 <p>II. - Pour les produits contenant de l'extrait de margousier, comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er mai 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
 </td>
 </tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">(*) La pureté indiquée correspond au degré minimal de pureté de la substance active utilisée pour l'évaluation effectuée conformément aux articles R. 522-2 à R. 522-8 du code de l'environnement. La substance active contenue dans le produit mis sur le marché peut présenter un degré de pureté identique ou différent, dès lors qu'elle a été reconnue techniquement équivalente à la substance évaluée. </p>
+<p>(**) Les délais ne sont pas applicables dans les cas suivants : </p>
+<p>a) Dans le cas des produits contenant plusieurs substances actives relevant de l'article R. 522-2 du code de l'environnement, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est celle qui s'applique à la dernière de ces substances actives à inclure dans la présente annexe ; </p>
+<p>b) Dans le cas des produits dont la première autorisation a été accordée par un autre Etat membre de l'Union européenne après la date correspondant à cent vingt jours avant la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement et pour lesquels une demande complète de reconnaissance mutuelle en France au titre de l'article R. 522-26 du code de l'environnement a été présentée dans les soixante jours suivant l'octroi de la première autorisation, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, en ce qui concerne ladite demande, est portée à cent vingt jours à compter de la date de réception de la demande complète de reconnaissance mutuelle ; </p>
+<p>c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadre d'une procédure de reconnaissance mutuelle conformément à l'article R. 522-26 du code de l'environnement fait l'objet d'une décision spécifique de la Commission, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est portée à trente jours après la date de la décision de la Commission.</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -2032,7 +2133,7 @@ Type de produit 19 : répulsifs et appâts
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td>
-<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance<br/>active </p>
+<p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance<br/>active (*)</p>
 </td>
 <td>
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre<br/>des principes<br/>communs de l'annexe VI<br/>et des mesures<br/>de limitations<br/>prévues à l'article R. 522-32<br/>du code de l'environnement</p>
@@ -2044,7 +2145,7 @@ Type de produit 19 : répulsifs et appâts
 <p align="center">DATE<br/>d'expiration<br/>de<br/>l'inscription </p>
 </td>
 <td>
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité<br/>des produits contenant<br/>la substance active<br/>avec l'article L. 522-4<br/>du code de l'environnement </p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité<br/>des produits contenant<br/>la substance active<br/>avec l'article L. 522-4<br/>du code de<br/>l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -2182,6 +2283,23 @@ Type de produit 19 : répulsifs et appâts
 <p>II. - Pour les produits contenant de la méthylnonylcétone comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er mai 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
 </td>
 </tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">(*) La pureté indiquée correspond au degré minimal de pureté de la substance active utilisée pour l'évaluation effectuée conformément aux articles R. 522-2 à R. 522-8 du code de l'environnement. La substance active contenue dans le produit mis sur le marché peut présenter un degré de pureté identique ou différent, dès lors qu'elle a été reconnue techniquement équivalente à la substance évaluée. </p>
+<p>(**) Les délais ne sont pas applicables dans les cas suivants : </p>
+<p>a) Dans le cas des produits contenant plusieurs substances actives relevant de l'article R. 522-2 du code de l'environnement, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est celle qui s'applique à la dernière de ces substances actives à inclure dans la présente annexe ; </p>
+<p>b) Dans le cas des produits dont la première autorisation a été accordée par un autre Etat membre de l'Union européenne après la date correspondant à cent vingt jours avant la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement et pour lesquels une demande complète de reconnaissance mutuelle en France au titre de l'article R. 522-26 du code de l'environnement a été présentée dans les soixante jours suivant l'octroi de la première autorisation, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, en ce qui concerne ladite demande, est portée à cent vingt jours à compter de la date de réception de la demande complète de reconnaissance mutuelle ; </p>
+<p>c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadre d'une procédure de reconnaissance mutuelle conformément à l'article R. 522-26 du code de l'environnement fait l'objet d'une décision spécifique de la Commission, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est portée à trente jours après la date de la décision de la Commission.</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -2194,7 +2312,7 @@ Type de produit 2 : Désinfectants utilisés dans le domaine privé et dans le d
 <p align="center">SUBSTANCE<br/>active</p>
 </td>
 <td>
-<p align="center">SPÉCIFICATIONS<br/>concernant la substance active</p>
+<p align="center">SPÉCIFICATIONS<br/>concernant la substance<br/>active (*)</p>
 </td>
 <td>
 <p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
@@ -2206,7 +2324,7 @@ Type de produit 2 : Désinfectants utilisés dans le domaine privé et dans le d
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td>
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement (**)</p>
 </td>
 </tr>
 <tr>
@@ -2236,6 +2354,23 @@ Type de produit 2 : Désinfectants utilisés dans le domaine privé et dans le d
 <p>c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision ; </p>
 <p>2° A compter du 1er mai 2014, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.</p>
 <p>II. - Pour les produits contenant de l'acide chlorhydrique comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er mai 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">(*) La pureté indiquée correspond au degré minimal de pureté de la substance active utilisée pour l'évaluation effectuée conformément aux articles R. 522-2 à R. 522-8 du code de l'environnement. La substance active contenue dans le produit mis sur le marché peut présenter un degré de pureté identique ou différent, dès lors qu'elle a été reconnue techniquement équivalente à la substance évaluée. </p>
+<p>(**) Les délais ne sont pas applicables dans les cas suivants : </p>
+<p>a) Dans le cas des produits contenant plusieurs substances actives relevant de l'article R. 522-2 du code de l'environnement, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est celle qui s'applique à la dernière de ces substances actives à inclure dans la présente annexe ; </p>
+<p>b) Dans le cas des produits dont la première autorisation a été accordée par un autre Etat membre de l'Union européenne après la date correspondant à cent vingt jours avant la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement et pour lesquels une demande complète de reconnaissance mutuelle en France au titre de l'article R. 522-26 du code de l'environnement a été présentée dans les soixante jours suivant l'octroi de la première autorisation, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, en ce qui concerne ladite demande, est portée à cent vingt jours à compter de la date de réception de la demande complète de reconnaissance mutuelle ; </p>
+<p>c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadre d'une procédure de reconnaissance mutuelle conformément à l'article R. 522-26 du code de l'environnement fait l'objet d'une décision spécifique de la Commission, la date limite de mise en conformité avec l'article L. 522-4 du code de l'environnement, est portée à trente jours après la date de la décision de la Commission.</p>
 </td>
 </tr>
 </tbody>
