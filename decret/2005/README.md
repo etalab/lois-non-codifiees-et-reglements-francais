@@ -47,6 +47,7 @@
 - [Décret n°2005-460 du 13 mai 2005 (JUSC0520359D)](decret-n2005-460-du-13-mai-2005-jusc0520359d)
 - [Décret n°2005-119 du 14 février 2005 (MENF0500001D)](decret-n2005-119-du-14-fevrier-2005-menf0500001d)
 - [Décret n°2005-123 du 14 février 2005 (INDI0504588D)](decret-n2005-123-du-14-fevrier-2005-indi0504588d)
+- [Décret n°2005-1286 du 14 octobre 2005 (SANS0522968D)](decret-n2005-1286-du-14-octobre-2005-sans0522968d)
 - [Décret n°2005-1302 du 14 octobre 2005 (DOMA0500025D)](decret-n2005-1302-du-14-octobre-2005-doma0500025d)
 - [Décret n°2005-240 du 14 mars 2005 (SOCU0412534D)](decret-n2005-240-du-14-mars-2005-socu0412534d)
 - [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
