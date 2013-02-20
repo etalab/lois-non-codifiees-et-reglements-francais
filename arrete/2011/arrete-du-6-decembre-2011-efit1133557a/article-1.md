@@ -40,7 +40,7 @@ Turquie : Ankara.
 
 En Afrique
 
-Afrique de l'Ouest (Etats de la Banque centrale des Etats de l'Afrique de l'Ouest, Cap-Vert, Gambie, Ghana, Guinée, Liberia, Mauritanie, Nigeria, Sierra Leone) : Dakar ;
+Etats de l'Union économique et monétaire ouest-africaine, Cap-Vert, Gambie, Guinée, Mauritanie : Dakar ; Nigeria, Ghana, Liberia, Sierra Leone : Abuja ;
 
 Afrique centrale (Etats de la Banque des Etats de l'Afrique centrale, République démocratique du Congo, Sao Tomé-et-Principe) : Yaoundé ;
 
