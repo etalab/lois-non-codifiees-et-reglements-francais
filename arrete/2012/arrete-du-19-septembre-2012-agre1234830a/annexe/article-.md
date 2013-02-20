@@ -2,8 +2,6 @@
 
 DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 2012 RELATIF AUX CONDITIONS DE DÉLIVRANCE DU CERTIFICAT DE COMPÉTENCE CONCERNANT LA PROTECTION DES ANIMAUX DANS LE CADRE DE LEUR MISE À MORT
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -109,7 +107,37 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <td align="center">//<br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center">AVIPOLE FORMATION, Zoopole Les Croix, rue Camille-Guérin, 22400 Ploufragan </p>
+</td>
+<td>
+<p align="center">RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement </p>
+</td>
+<td>
+<p align="center">1er février 2013 <br/>
+</p>
+</td>
+<td>
+<p align="center">31 janvier 2018 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">GAD FORMATION, 14, rue Louis-Armand, zone industrielle de Kériven, 29600 Saint-Martin-des-Champs </p>
+</td>
+<td>
+<p align="center">Opérateur, porcins-manipulations et soins-mise à mort </p>
+</td>
+<td>
+<p align="center">1er février 2013 <br/>
+</p>
+</td>
+<td>
+<p align="center">31 janvier 2018<br/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
