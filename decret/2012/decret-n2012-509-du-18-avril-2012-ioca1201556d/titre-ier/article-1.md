@@ -8,8 +8,6 @@ Agence nationale pour la rénovation urbaine (ANRU), dans les conditions prévue
 
 Agence nationale pour la cohésion sociale et l'égalité des chances (ACSé), dans les conditions prévues par l'article L. 121-15 du code de l'action sociale et des familles ;
 
-Agence de l'environnement et de la maîtrise de l'énergie (ADEME) ;
-
 Centre national pour le développement du sport (CNDS) ;
 
 Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer), dans les conditions prévues par l'article L. 621-6 du code rural et de la pêche maritime.
