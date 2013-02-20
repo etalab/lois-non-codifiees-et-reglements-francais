@@ -36,6 +36,8 @@ Le Conseil national de l'urgence hospitalière comprend les membres suivants :
 
 ― le président de la Société française de pédiatrie ou son représentant ;
 
+— le président du Collège national des gynécologues et obstétriciens français ;
+
 ― le président de la Fédération française de psychiatrie ou son représentant ;
 
 ― le président de la Société française de gériatrie et de gérontologie ou son représentant ;
@@ -51,6 +53,8 @@ Le Conseil national de l'urgence hospitalière comprend les membres suivants :
 ― le président du Conseil professionnel de la radiologie française ou son représentant ;
 
 ― le président de la Société française d'hématologie ou son représentant ;
+
+— le président de la Société française de biologie clinique ;
 
 ― le président de l'Association nationale des professeurs et des maîtres de conférences biochimistes des unités de formation et de recherche médicales ou son représentant.
 
