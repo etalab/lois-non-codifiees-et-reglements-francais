@@ -2,7 +2,7 @@
 
 Le revenu supplémentaire temporaire d'activité n'est dû qu'au titre des périodes d'emploi précédant l'entrée en vigueur, dans les territoires mentionnés à l'article 1er, de la loi du 1er décembre 2008 susvisée.
 
-Toutefois, le revenu supplémentaire temporaire d'activité continue d'être dû au titre des périodes d'emploi effectuées entre le 1er janvier 2011 et le 31 décembre 2012 à tout bénéficiaire disposant d'un droit ouvert à cette prestation au titre du mois de novembre 2010 ou de décembre 2010 et qui :
+Toutefois, le revenu supplémentaire temporaire d'activité continue d'être dû au titre des périodes d'emploi effectuées entre le 1er janvier 2011 et le 31 mai 2013 à tout bénéficiaire disposant d'un droit ouvert à cette prestation au titre du mois de novembre 2010 ou de décembre 2010 et qui :
 
 1° Continue de satisfaire aux conditions d'attribution prévues par l'article 2 du présent décret à compter du 1er janvier 2011, sans interruption de droit au moins égale à deux mois consécutifs ;
 
