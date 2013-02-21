@@ -1,3 +1,3 @@
 # Article 13
 
-Les membres sont nommés pour une durée de trois ans. Le mandat des membres représentant les bénéficiaires du régime est renouvelable une fois.
+Les membres représentant les bénéficiaires en activité du régime sont nommés pour une durée de trois ans. Leur mandat est renouvelable une fois.

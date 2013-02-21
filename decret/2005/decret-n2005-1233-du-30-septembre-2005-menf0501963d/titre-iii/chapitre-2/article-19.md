@@ -16,7 +16,7 @@ II. - Ce rapport présente une analyse des conditions dans lesquelles l'organism
 
 Ce rapport est transmis aux ministres chargés de l'éducation nationale, de l'agriculture, de la sécurité sociale et du budget, après approbation par le comité de participation à la gestion.
 
-III. - Ce rapport évalue également le ratio d'équilibre financier à long terme du régime et son ratio de couverture.
+III. - Ce rapport évalue également le ratio d'équilibre financier à long terme du régime, son ratio de couverture et le ratio d'équilibre de charges.
 
 1° Le ratio d'équilibre financier à long terme est défini, pour la population constituée des cotisants et bénéficiaires connus à la date de l'évaluation, comme le rapport entre :
 
@@ -28,7 +28,15 @@ b) La valeur actuelle probable des prestations qui seront versées aux bénéfic
 
 a) La réserve de financement mentionnée à l'article 17, et
 
-b) La valeur actuelle probable des prestations qui seront versées aux bénéficiaires du régime au titre des périodes validées à la date de l'évaluation.
+b) La valeur actuelle probable des prestations qui seront versées aux bénéficiaires du régime au titre des périodes validées à la date de l'évaluation ;
+
+3° Le ratio d'équilibre de charges est défini comme le rapport entre :
+
+a) La somme de la réserve de financement mentionnée à l'article 17, de la valeur actualisée des ressources diverses affectées au régime et de la valeur actuelle probable des cotisations qui lui seront versées ;
+
+b) La valeur actuelle probable des prestations qui seront versées aux bénéficiaires du régime.
+
+Ce ratio est calculé sur la base d'un renouvellement des effectifs et les cotisations et prestations sont estimées sur une période de vingt-cinq ans. Il est obligatoirement présenté à compter du rapport sur la situation du régime à la clôture de l'exercice 2012.
 
 Ces ratios sont évalués sur la base des taux de cotisation de l'année en cours.
 
