@@ -2152,7 +2152,6 @@
 - [Arrêté du 23 avril 2012 (AGRG1221834A)](arrete-du-23-avril-2012-agrg1221834a)
 - [Arrêté du 23 avril 2012 (AGRM1221305A)](arrete-du-23-avril-2012-agrm1221305a)
 - [Arrêté du 23 avril 2012 (AGRT1220572A)](arrete-du-23-avril-2012-agrt1220572a)
-- [Arrêté du 23 avril 2012 (BCRD1222347A)](arrete-du-23-avril-2012-bcrd1222347a)
 - [Arrêté du 23 avril 2012 (DEFD1221563A)](arrete-du-23-avril-2012-defd1221563a)
 - [Arrêté du 23 avril 2012 (DEFD1221568A)](arrete-du-23-avril-2012-defd1221568a)
 - [Arrêté du 23 avril 2012 (DEVK1208415A)](arrete-du-23-avril-2012-devk1208415a)
