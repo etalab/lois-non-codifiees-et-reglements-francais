@@ -1,122 +1,78 @@
 # Article Annexe
 
-**INFORMATIONS**
-**REQUISES POUR L'INSCRIPTION**
-**DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : électromécanicien (ne) de maintenance industrielle (ancien intitulé agent de maintenance des équipements industriels).
+Intitulé : électromécanicien (ne) de maintenance industrielle.
 
 Niveau : V.
 
-Code NSF : 250 r.
+Code NSF : 250r.
 
 Résumé du référentiel d'emploi
 
-Dans un contexte économique fortement concurrentiel, l'amélioration de la productivité et la réduction des coûts de production constituent un enjeu important pour les entreprises.L'organisation de l'activité maintenance contribue efficacement à l'atteinte de ces objectifs. Les évolutions techniques impactent les dispositifs de production de plus en plus complexes mais les technologies traditionnelles (mécanique, hydraulique, pneumatique, électrotechnique, automatisme) demeurent la base de constitution des outils de production industrielle. Dès lors, les causes des pannes peuvent être diverses et variées et concernent l'ensemble de ces technologies qui impliquent de la part de l'électromécanicien (ne) de maintenance industrielle une réelle polyvalence technique.
+L'électromécanicien (ne) de maintenance industrielle réalise les opérations visant à maintenir ou à rétablir les équipements industriels dans un état de référence permettant d'assurer les fonctions de production requise.
 
-Les missions qui lui sont confiées sur instruction se définissent autour de trois grands objectifs qui sont fonction de la disponibilité de l'équipement.
+Si l'équipement est en contexte d'exploitation, il (elle) prévient l'apparition de pannes ou de dysfonctionnements par la maintenance préventive. En cas de défaillance de l'équipement, il (elle) effectue le dépannage par échange standard de composants ou d'organes et participe à la remise en service du bien dans les meilleurs délais. Si l'équipement est hors contexte d'exploitation, il (elle) répare les circuits, pièces ou organes défectueux sur les éléments d'équipement en intervenant au cœur des mécanismes.
 
-L'équipement industriel se trouve en situation de production et la maintenance consiste à :
+L'électromécanicien (ne) intervient sur instructions, à partir des plannings et procédures, en respectant toutes mesures de prévention des risques et en accord avec la responsabilité sociétale de l'entreprise.
 
--prévenir l'apparition de pannes ou de dysfonctionnements : c'est la maintenance préventive, constituée de visites, de collectes de paramètres d'état d'un bien, de campagnes de graissage et de remplacement de filtres, etc. ;
+L'interaction avec le service production est forte et lors de pannes complexes, il (elle) dialogue avec le constructeur afin de s'informer sur les consignes techniques de dépannage.
 
--faire en sorte que l'équipement en panne redémarre aussi vite que possible : c'est le dépannage, constitué d'opérations de localisation de la fonction défaillante, d'échanges standard d'éléments ou de sous-ensembles multitechnologiques, de remise en service.
+Les équipements industriels sont construits pour une exploitation professionnelle en conditions parfois sévères (cadences, environnement) et constituées de composants de technologies multiples. L'électromécanicien (ne) est, pour sa part, mobilisé (e) principalement sur les technologies traditionnelles que représentent la mécanique, l'électricité, le pneumatique et l'hydraulique.
 
-Le sous-ensemble ou l'élément d'équipement se trouve hors situation de production (arrêt programmé, réparation en atelier) et la maintenance consiste à remettre en état le sous-ensemble ou l'élément d'équipement industriel : c'est la réparation, constituée de changements de composants mécaniques (joints, roulements, etc.), d'usinage ou de soudage, de remise en état de portions de circuits électriques.
+Les conditions d'exercice de l'emploi se caractérisent par la prédominance de tâches pratiques réalisées sur les équipements. Les lieux d'intervention sont très différents d'un secteur à l'autre : atelier, site de production, salle propre. Une capacité d'adaptation est donc requise avec des conditions de travail souvent exigeantes.
 
-De manière plus marginale, ses compétences techniques de manutention peuvent être mobilisées dans le cadre de déménagement, d'installation ou de modification d'équipements.
-
-L'ensemble des missions comportent une phase de préparation de l'intervention (outils, identification des équipements et des consignes de sécurité, bon de travail) et une phase de compte rendu sur les documents de maintenance (historique, dossier technique, etc.).
-
-L'activité s'exerce principalement sur des équipements de type industriel (machines, process...) implantés dans des secteurs industriels (agroalimentaire, construction automobile, métallurgie), mais également dans des secteurs tertiaires ou de services.
-
-L'électromécanicien (ne) de maintenance industrielle travaille généralement sur le site de production ou en atelier, pour le compte de l'entreprise ou d'un tiers prestataire de services ». Les horaires de travail dépendent souvent de l'organisation de la production ; la disponibilité limitée des équipements implique parfois des aménagements d'horaires spécifiques pour effectuer les opérations de maintenance : travail de nuit ou de week-end.
-
-Caractérisé par une grande diversité des tâches, l'aspect pratique de l'emploi n'interdit pas des perspectives d'évolution au plan technique et parfois managérial, au service d'une activité maintenance qui reste stratégique dans le processus de fabrication des entreprises.
+Le métier est fortement coloré service avec des échanges de type client-fournisseur qui nécessitent des compétences techniques mais également relationnelles.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser, sur instruction, la maintenance préventive et le dépannage d'équipements mécaniques automatisés en situation de production industrie et services
+1. Réaliser, en sécurité et sur instructions, la maintenance préventive et le dépannage d'équipements en situation de production-industrie et services
 
-Préparer et organiser son intervention de maintenance préventive et de dépannage en concertation avec l'exploitant et en respect des règlementations de sécurité et des exigences environnementales.
+Effectuer des visites préventives d'équipements industriels.
 
-Effectuer des visites préventives d'équipements industriels en intégrant des collectes et des mesures de paramètres d'état d'un bien.
+Repérer la fonction technique défaillante sur un équipement industriel.
 
-Localiser l'origine d'un dysfonctionnement et repérer la fonction défaillante en appliquant une méthode.
+Dépanner des équipements industriels par échanges standard mécaniques, électriques, pneumatiques et hydrauliques.
 
-Manutentionner, en sécurité et avec des moyens adaptés, des éléments ou sous-ensembles d'équipements industriels.
+2. Réparer, en sécurité et sur instructions,
 
-Procéder, sur un équipement industriel à l'arrêt et sur instructions, à des échanges standard d'organes mécaniques.
+des éléments d'équipements-industrie et services
 
-Procéder, sur un équipement industriel à l'arrêt et sur instructions, à des échanges standard de composants électriques.
+Remettre en état les éléments de circuits électriques d'un équipement industriel.
 
-Procéder, sur un équipement industriel à l'arrêt et sur instructions, à des échanges standard de composants pneumatiques et hydrauliques.
+Remettre en état les éléments de circuits pneumatiques d'un équipement industriel.
 
-Remettre en service, sur instruction, un équipement industriel.
+Remettre en état les éléments de circuits hydrauliques d'un équipement industriel.
 
-Renseigner un compte rendu d'intervention et les documents de maintenance préventive et de dépannage.
+Réparer les mécanismes d'un équipement industriel.
 
-2. Réparer et contrôler la fonctionnalité, sur instruction, des éléments d'équipements mécaniques automatisés, industrie et services
+Remettre en état une pièce mécanique simple par retouche et adaptation manuelle et par soudage.
 
-Réaliser, à partir d'un plan, la distribution électrique et le câblage des composants de commande et de puissance d'une installation industrielle.
-
-Connecter au réseau pneumatique, à partir d'un plan, un équipement industriel et raccorder ses composants.
-
-Assembler, à partir d'un plan, les sous-ensembles hydrauliques d'un équipement industriel et raccorder ses composants.
-
-Remplacer les pièces à l'intérieur d'un organe mécanique d'un équipement industriel.
-
-Réaliser ou remettre en état une pièce mécanique simple par opérations de sciage, limage, perçage, taraudage, meulage, en respectant les règles de sécurité.
-
-Réaliser ou remettre en état une pièce mécanique simple d'équipement industriel par usinage traditionnel : tournage, fraisage.
-
-Réaliser ou remettre en état une pièce mécanique simple d'équipement industriel par soudage.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Les différents secteurs d'activités industrielles concernés sont principalement :
+Entreprises de fabrication de biens en métallurgie, agroalimentaire, pharmaceutique, plasturgie, automobile, chimie.
 
--l'industrie agroalimentaire ;
+Entreprises de production d'énergie, de transport de personnes.
 
--la construction automobile ;
+Entreprises de service.
 
--la métallurgie, la sidérurgie ;
-
--les constructeurs d'équipements électriques et électroniques ;
-
--les constructeurs de machines spéciales et d'équipements industriels ;
-
--la construction navale.
-
-Et dans une moindre mesure :
-
--l'industrie chimique ;
-
--l'industrie du caoutchouc et des plastiques ;
-
--l'industrie du papier et du carton ;
-
--l'industrie du textile et de l'habillement.
+Industries chimique, caoutchouc et plastique, papier et carton, textile et habillement.
 
 Codes ROME :
 
-44311-Mécanicien de maintenance.
+I1304-Installation et maintenance d'équipements industriels et d'exploitation.
 
-44331-Electricien de maintenance.
+I1309-Maintenance électrique.
 
-44341-Polymaintenicien.
-
-52312-Installateur-maintenicien en systèmes automatisés.
+I1310-Maintenance mécanique industrielle.
 
 Réglementation de l'activité :
 
-Néant.
+La formation à la prévention des risques électriques est généralement requise, en vue de l'habilitation électrique attribuée par l'employeur (NF C 18-510).
 
 Autorité responsable de la certification :
 
