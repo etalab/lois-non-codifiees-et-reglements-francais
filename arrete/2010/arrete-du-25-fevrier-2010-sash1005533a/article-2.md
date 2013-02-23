@@ -24,27 +24,19 @@ II. ― En sus des pièces mentionnées au I, pour les candidats lauréats des �
 
 9.L'original des attestations établies par le directeur de l'établissement concerné indiquant le statut sous lequel le candidat a exercé ses fonctions ainsi que le temps de travail décompté en vacations hebdomadaires pour les attachés associés et en demi-journées hebdomadaires pour les praticiens relevant des autres statuts ;
 
-10. Le rapport d'évaluation figurant en annexe 2, 3, 4 ou 5 selon la profession du candidat.
+10. Le rapport d'évaluation figurant en annexe 2, 3, 4 ou 5 selon la profession du candidat. Le rapport est établi semestriellement.
 
-III. ― En sus des pièces mentionnées au I, pour les personnes mentionnées au deuxième alinéa du IV de l'article 83 de la loi du 21 décembre 2006 susvisée, réputées avoir satisfait aux épreuves de vérification des connaissances :
-
-11. Un curriculum vitae détaillé ;
-
-12. La notification ministérielle de réussite aux épreuves mentionnées au premier alinéa du B de l'article 60 de la loi du 27 juillet 1999 susvisée ou, à défaut, tout document pouvant justifier de la réussite aux épreuves ;
-
-13. Tous documents justifiant de l'exercice de fonctions rémunérées exercées conformément aux dispositions du II de l'article 3 du décret du 29 janvier 2007 susvisé (contrat de travail, bulletins de salaire, attestation de l'employeur).
-
-IV. ― En sus des pièces mentionnées au I, pour les candidats non ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen titulaires d'un titre de formation délivré par l'un de ces Etats sollicitant une autorisation d'exercice en application des dispositions des articles L. 4111-2 (I bis) et L. 4221-9 du code de la santé publique :
+III. ― En sus des pièces mentionnées au I, pour les candidats non ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen titulaires d'un titre de formation délivré par l'un de ces Etats sollicitant une autorisation d'exercice en application des dispositions des articles L. 4111-2 (I bis) et L. 4221-9 du code de la santé publique :
 
 14. Un curriculum vitae détaillé ;
 
 15. Pour les diplômes répondant aux exigences minimales de formation prévues par la directive susvisée, une attestation de conformité.
 
-V. ― En sus des pièces mentionnées au I, pour les candidats ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen titulaires d'un titre de formation délivré par l'un de ces Etats et sollicitant une autorisation d'exercice en application des dispositions des articles L. 4131-1-1, L. 4141-3-1, L. 4151-5-1 et L. 4221-14-1 du code de la santé publique :
+IV. ― En sus des pièces mentionnées au I, pour les candidats ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen titulaires d'un titre de formation délivré par l'un de ces Etats et sollicitant une autorisation d'exercice en application des dispositions des articles L. 4131-1-1, L. 4141-3-1, L. 4151-5-1 et L. 4221-14-1 du code de la santé publique :
 
 16. Une copie des attestations des autorités ayant délivré le titre de formation, spécifiant le niveau de la formation et, année par année, le détail et le volume horaire des enseignements suivis ainsi que le contenu et la durée des stages validés.
 
-VI. ― En sus des pièces mentionnées au I, pour les candidats ressortissants d'un Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen, titulaires d'un titre de formation délivré par un Etat tiers et reconnu dans un Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen autre que la France et sollicitant une autorisation d'exercice en application des dispositions des articles L. 4111-2 (II) et L. 4221-14-2 du code de la santé publique :
+V. ― En sus des pièces mentionnées au I, pour les candidats ressortissants d'un Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen, titulaires d'un titre de formation délivré par un Etat tiers et reconnu dans un Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen autre que la France et sollicitant une autorisation d'exercice en application des dispositions des articles L. 4111-2 (II) et L. 4221-14-2 du code de la santé publique :
 
 17. La reconnaissance du titre de formation et, le cas échéant, du titre de formation de spécialiste, établie par les autorités de l'Etat, membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, ayant reconnu ces titres. Cette reconnaissance doit permettre au bénéficiaire d'y exercer sa profession ;
 
