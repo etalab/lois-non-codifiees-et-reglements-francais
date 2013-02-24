@@ -6,7 +6,7 @@ Au cours de la première année de formation, les élèves en formation doivent 
 
 Au cours de la deuxième année de formation, les élèves en formation doivent se présenter aux épreuves des unités de valeur 6 à 9, aux épreuves de pédagogie pratique, ainsi que, le cas échéant, aux épreuves auxquelles ils ont échoué lors de la première année.
 
-Les épreuves écrites, orales et pratiques portent sur les matières enseignées dans le cadre du programme annexé au présent arrêté (1).
+Les épreuves écrites, orales et pratiques portent sur les matières enseignées dans le cadre du programme annexé au présent arrêté (1). Le règlement d'examen en vue de l'obtention du certificat d'aptitude au professorat de l'enseignement des jeunes sourds est annexé au présent arrêté.
 
 Les épreuves écrites bénéficient d'une double correction.
 

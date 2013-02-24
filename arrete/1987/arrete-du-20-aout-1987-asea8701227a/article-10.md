@@ -2,13 +2,13 @@
 
 Le jury plénier du certificat d'aptitude au professorat de l'enseignement des jeunes sourds est nommé par arrêté du ministre chargé des affaires sociales. Il comprend :
 
-- le directeur de l'action sociale ou son représentant, président ;
+- directeur général de la cohésion sociale ou son représentant, président ;
 
-deux inspecteurs de l'enseignement des déficients auditifs du ministère chargé des affaires sociales ;
+- deux inspecteurs de l'enseignement des déficients auditifs du ministère chargé des affaires sociales ;
 
 - un inspecteur de l'enseignement public spécialisé du ministère de l'éducation nationale ;
 
-trois responsables enseignants des centres de formation publics ou privés agréés ;
+- trois personnes chargées d'enseignement dans le cadre de la formation préparatoire au diplôme ;
 
 - deux directeurs pédagogiques, censeurs, chefs de service pédagogique ou professeurs en exercice dans les établissements ou services spécialisés pour déficients auditifs ;
 
