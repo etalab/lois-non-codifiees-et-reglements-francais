@@ -146,10 +146,10 @@ Niveaux relatifs aux éléments traces
 <p align="center">ÉLÉMENTS TRACES</p>
 </td>
 <td valign="top" width="256">
-<p align="center">NIVEAU N1</p>
+<p align="center">NIVEAU N 1</p>
 </td>
 <td valign="top" width="256">
-<p align="center">NIVEAU N2</p>
+<p align="center">NIVEAU N 2</p>
 </td>
 </tr>
 <tr>
@@ -357,6 +357,204 @@ Niveaux relatifs aux composés traces
 </td>
 <td>
 <p align="center">0,4</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tableau III bis
+
+Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
+
+(en µg/kg de sédiment sec analysé sur la fraction inférieure à 2 mm)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">HAP</p>
+</td>
+<td>
+<p align="center">NIVEAU N1</p>
+</td>
+<td>
+<p align="center">NIVEAU N2</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Naphtalène</p>
+</td>
+<td align="center">
+<br/>160<br/>
+</td>
+<td align="center">
+<br/>1 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Acénaphtène</p>
+</td>
+<td align="center">
+<br/>15<br/>
+</td>
+<td align="center">
+<br/>260<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Acénaphtylène</p>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+<td align="center">
+<br/>340<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Fluorène</p>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>280<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Anthracène</p>
+</td>
+<td align="center">
+<br/>85<br/>
+</td>
+<td align="center">
+<br/>590<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Phénanthrène</p>
+</td>
+<td align="center">
+<br/>240<br/>
+</td>
+<td align="center">
+<br/>870<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Fluoranthène</p>
+</td>
+<td align="center">
+<br/>600<br/>
+</td>
+<td align="center">
+<br/>2 850<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Pyrène</p>
+</td>
+<td align="center">
+<br/>500<br/>
+</td>
+<td align="center">
+<br/>1 500<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Benzo [a] anthracène</p>
+</td>
+<td align="center">
+<br/>260<br/>
+</td>
+<td align="center">
+<br/>930<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Chrysène</p>
+</td>
+<td align="center">
+<br/>380<br/>
+</td>
+<td align="center">
+<br/>1 590<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Benzo [b] fluoranthène </p>
+</td>
+<td align="center">
+<br/>400<br/>
+</td>
+<td align="center">
+<br/>900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Benzo [k] fluoranthène</p>
+</td>
+<td align="center">
+<br/>200<br/>
+</td>
+<td align="center">
+<br/>400<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Benzo [a] pyrène</p>
+</td>
+<td align="center">
+<br/>430<br/>
+</td>
+<td align="center">
+<br/>1 015<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Di benzo [a,h] anthracène </p>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+<td align="center">
+<br/>160<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Benzo [g,h,i] pérylène</p>
+</td>
+<td align="center">
+<br/>1 700<br/>
+</td>
+<td align="center">
+<br/>5 650<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Indéno [1,2,3-cd] pyrène</p>
+</td>
+<td align="center">
+<br/>1 700<br/>
+</td>
+<td align="center">
+<br/>5 650<br/>
 </td>
 </tr>
 </tbody>
