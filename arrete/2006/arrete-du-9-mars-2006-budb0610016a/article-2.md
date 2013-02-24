@@ -8,7 +8,7 @@ La part des sommes misées qui est dévolue au jeu se compose de la part affect�
 
 3. Pour Joker +, la part affectée aux gagnants est de 56,600 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1,000 % ;
 
-4. Pour Keno, la part affectée aux gagnants est de 63,000 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1,930 % ;
+4. Pour Keno, la part affectée aux gagnants est de 63,000 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1,000 % ;
 
 5. Pour Rapido, la part affectée aux gagnants est de 66,520 % et la part affectée à la dotation structurelle du fonds de contrepartie de 0,180 % ;
 
