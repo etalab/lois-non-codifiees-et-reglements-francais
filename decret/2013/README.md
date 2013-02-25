@@ -6,6 +6,7 @@
 - [Décret n°2013-3 du 2 janvier 2013 (INTJ1237374D)](decret-n2013-3-du-2-janvier-2013-intj1237374d)
 - [Décret n°2013-4 du 2 janvier 2013 (DEVP1237593D)](decret-n2013-4-du-2-janvier-2013-devp1237593d)
 - [Décret n°2013-5 du 2 janvier 2013 (DEVP1116418D)](decret-n2013-5-du-2-janvier-2013-devp1116418d)
+- [Décret n°2010-596 du 3 juin 2010 (INDI1012151D)](decret-n2010-596-du-3-juin-2010-indi1012151d)
 - [Décret n°2013-10 du 3 janvier 2013 (TRAT1228477D)](decret-n2013-10-du-3-janvier-2013-trat1228477d)
 - [Décret n°2013-6 du 3 janvier 2013 (AFSS1205251D)](decret-n2013-6-du-3-janvier-2013-afss1205251d)
 - [Décret n°2013-7 du 3 janvier 2013 (DFEX1242343D)](decret-n2013-7-du-3-janvier-2013-dfex1242343d)
