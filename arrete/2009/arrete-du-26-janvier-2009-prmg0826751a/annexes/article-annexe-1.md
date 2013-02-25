@@ -163,7 +163,7 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 <p>Adjoint au responsable du département de l'édition </p>
 </td>
 <td width="75">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
