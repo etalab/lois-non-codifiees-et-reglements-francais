@@ -1,9 +1,7 @@
 # Article 27
 
-La décision préfectorale d'agrément est notifiée simultanément au réseau demandeur, à l'exploitant de l'établissement qui abrite l'installation auxiliaire et à l'organisme technique central.
+La décision préfectorale de maintien d'agrément est notifiée simultanément au réseau demandeur, à l'exploitant de l'établissement qui abrite l'installation auxiliaire et à l'organisme technique central.
 
-La décision d'agrément doit également mentionner la date limite de validité de l'agrément conformément aux dispositions du II de l'article R. 323-14 du code de la route susvisé.
-
-En cas de décision de rejet de la demande d'agrément, la décision est motivée et notifiée, simultanément au réseau demandeur, à l'exploitant de l'établissement abritant l'installation auxiliaire de contrôle de véhicules lourds et à l'organisme technique central.
+La décision de maintien ou non d'agrément mentionne la date limite de validité de l'agrément qui ne peut excéder le 11 octobre 2016.
 
 Les dispositions relatives aux modifications d'agrément d'une installation auxiliaire sont décrites au paragraphe IV du chapitre IV de l'annexe VII du présent arrêté.

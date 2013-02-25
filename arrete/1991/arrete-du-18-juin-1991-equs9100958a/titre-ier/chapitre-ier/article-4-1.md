@@ -6,4 +6,10 @@ Les véhicules équipés de moteur à allumage commandé (essence) mis pour la p
 
 La date limite de validité d'une visite technique complémentaire ou contre-visite technique complémentaire est identique à celle de la dernière visite technique périodique.
 
-Ne sont pas soumis au contrôle technique complémentaire les véhicules soumis à réglementation spécifique au sens du présent arrêté ou ayant une des carrosseries suivantes : Caravane, FG Funer ou Handicap.
+Ne sont pas soumis au contrôle technique complémentaire :
+
+― les véhicules soumis à réglementation spécifique au sens de la partie A de l'annexe VIII du présent arrêté ;
+
+― les véhicules de catégorie internationale M1 et ayant pour genre VASP avec l'une des carrosseries suivantes : Caravane, FG Funer ou Handicap ;
+
+― les véhicules électriques ou hybrides.

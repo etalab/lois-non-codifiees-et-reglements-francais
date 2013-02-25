@@ -10,6 +10,8 @@ Déroulement du contrôle technique
 
 L'identification du véhicule (numéros d'immatriculation, de la plaque constructeur et de frappe à froid) est la première opération de contrôle à réaliser.
 
+Toutefois, pour les véhicules dont la lecture du numéro de frappe à froid nécessite d'être sous le véhicule, l'identification par ce numéro est réalisée lorsque le véhicule est sur la fosse ou sur le pont élévateur. L'identification en première opération de contrôle est limitée dans ce cas, aux numéros d'immatriculation et de la plaque constructeur.
+
 Les essais de freinage prévus au cours du contrôle technique périodique sont effectués au minimum aux deux tiers du poids total autorisé en charge. Toutefois, les véhicules dont la destination ne permet pas la présentation en charge peuvent être présentés à vide. L'appendice 2 de la présente annexe précise selon la catégorie du véhicule concerné et la nature du contrôle technique réalisé les conditions de présentation du véhicule.
 
 La liste des "défauts et anomalies constatables" est la somme de tous les défauts susceptibles d'être identifiés, pour tous les types de véhicules. Elle couvre toutes les catégories de véhicules et reprend toutes les possibilités technologiques susceptibles d'être présentes sur un véhicule. Elle excède donc très nettement ce qui peut être relevé au cours de l'examen d'un seul véhicule qui ne sera concerné que par certaines de ces dispositions.
@@ -24,11 +26,11 @@ Les contrôles portent sur la présence, l'état, le fonctionnement, la fixation
 
 Les vérifications sont effectuées sans aucun démontage à l'exception de la prise EOBD, le véhicule étant dans sa configuration routière, suivant les instructions fixées par l'administration. Elles comprennent un examen visuel ou auditif des organes à vérifier et l'exécution des essais permis par les moyens de contrôle mis à la disposition du contrôleur dans le centre et dont la liste figure en annexe III du présent arrêté.
 
-La vérification des points de contrôle est réalisée conformément aux méthodes de contrôle établies par l'organisme technique central et approuvées par le ministère chargé des transports.
+La vérification des points de contrôle est réalisée conformément aux méthodes de contrôle établies par l'organisme technique central et approuvées par le ministre chargé des transports.
 
 Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine des méthodes ou prescriptions particulières adaptées à la technologie dudit véhicule, le constructeur (ou son représentant) les transmet à l'organisme technique central qui les met à la disposition des organismes agréés.
 
-Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés. En conséquence, les opérations suivantes ne sont pas réalisées :
+Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés, hormis le contrôle de l'opacité des fumées sur les véhicules disposant d'un échappement vertical latéral. En conséquence, les opérations suivantes ne sont pas réalisées :
 
 - les vérifications des équipements nécessitant de monter sur le véhicule ou qui imposent un engagement sous celui-ci en dehors de la fosse prévue à cet effet et qui entrent dans le cadre de l'entretien du véhicule ;
 

@@ -10,7 +10,7 @@ Seuls peuvent être présentés au contrôle technique les véhicules en état d
 
 Les contrôles sont effectués sans démontage, à l'exception de la dépose d'éléments permettant d'accéder au numéro de frappe à froid, à la prise EOBD ou au réservoir de gaz carburant.
 
-La vérification des points de contrôle est réalisée conformément aux méthodes de contrôle établies par l'organisme technique central et approuvées par le ministère chargé des transports.
+La vérification des points de contrôle est réalisée conformément aux instructions techniques établies par l'organisme technique central et approuvées par le ministre chargé des transports. Ces instructions définissent les méthodologies de contrôle à appliquer ainsi que les critères d'application des défauts constatables et les commentaires spécifiques à utiliser.
 
 Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine des méthodes ou prescriptions particulières adaptées à la technologie dudit véhicule, le constructeur (ou son représentant) les transmet à l'organisme technique central qui les met à la disposition des organismes agréés.
 

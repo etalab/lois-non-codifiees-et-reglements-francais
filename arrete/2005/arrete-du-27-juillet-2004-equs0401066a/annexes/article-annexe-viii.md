@@ -28,13 +28,11 @@ les remorques spécialisées (RESP)
 
 les véhicules de transport en commun de personnes (TCP)
 
-les véhicules utilisés dans le transport de marchandises dangereuses et disposant d'un certificat d'agrément ;
+les véhicules utilisés dans le transport de marchandises dangereuses et disposant d'un certificat d'agrément (tout genre) ;
 
 les camionnettes (CTTE) utilisées dans le transport en commun de personnes.
 
 Les véhicules de genre TRR dont le poids total en charge n'excède pas 3 500 kg mis en circulation à compter du 1er mai 2009 et ne justifiant pas d'un contrôle technique périodique en cours de validité, font l'objet d'un contrôle technique réalisé conformément aux dispositions du présent arrêté, au plus tard dans le délai d'un an à compter de la date de leur première mise en circulation.
-
-Les véhicules de genre TRR dont le poids total en charge n'excède pas 3 500 kg mis en circulation avant le 1er mai 2009 justifiant d'un contrôle technique périodique en cours de validité datant de plus d'un an font l'objet d'un contrôle technique réalisé conformément aux dispositions du présent arrêté, au plus tard le 14 octobre 2010.
 
 B. catégories de véhicules soumis à réglementation spécifique
 
@@ -48,7 +46,7 @@ Véhicules de transport en commun de personnes
 
 Véhicules de transport de marchandises dangereuses
 
-C. Périodicité et validité des visas
+D. Périodicité et validité des visas
 
 <table>
 <tbody>

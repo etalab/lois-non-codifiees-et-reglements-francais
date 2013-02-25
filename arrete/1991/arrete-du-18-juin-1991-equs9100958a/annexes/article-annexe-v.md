@@ -8,13 +8,15 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 1.2. La personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet, par le titulaire de l'agrément du centre, doit justifier d'une formation spécifique telle que définie au paragraphe 7 de l'annexe IV du présent arrêté. Elle se tient informée de l'évolution de la réglementation du contrôle technique, de la technologie des véhicules légers et de celle des appareils de mesure et de contrôle.
 
+1.3. Chaque centre non rattaché dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 29 du présent arrêté et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec l'organisme technique central, dans le respect des dispositions du point 2 de l'annexe III et du protocole en vigueur, prévu au point b de l'article 27 du présent arrêté.
+
 2. Qualification et suivi des contrôleurs
 
 2.1. L'exploitant des installations d'un centre de contrôle doit s'assurer que les contrôleurs rattachés à ce centre possèdent une connaissance satisfaisante des prescriptions relatives aux contrôles qu'ils effectuent, une pratique suffisante de ces contrôles sanctionnée par une des qualifications requises à l'annexe IV. Il doit également s'assurer que les contrôleurs maintiennent leur qualification, conformément aux prescriptions de l'annexe IV du présent arrêté.
 
 2.2. A cet effet, chaque centre de contrôle rattaché à un réseau de contrôle agréé s'engage à détacher ses contrôleurs pour participer aux compléments de formation conformément, aux procédures définies par le réseau dont il dépend.
 
-2.3. Chaque centre de contrôle non rattaché s'engage à détacher ses contrôleurs pour participer à des compléments de formation et de recyclage, conformément au cahier des charges joint à la décision d'agrément.
+2.3. Chaque centre de contrôle non rattaché s'engage à détacher ses contrôleurs pour participer à des compléments de formation et de recyclage, conformément au cahier des charges joint à la demande d'agrément.
 
 2.4. L'exploitant des installations d'un centre de contrôle vérifie que le prestataire visé à l'article 26-6 du présent arrêté possède une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue, maîtrise l'utilisation des équipements de contrôle, des applications informatiques et du système qualité du centre. Cette vérification fait l'objet d'un enregistrement qui est conservé avec les autres documents visés au point 6 de la présente annexe.
 
@@ -36,7 +38,7 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 5.1. Chaque installation de contrôle rattachée à un réseau transmet les résultats des contrôles effectués à la direction du réseau, conformément à la procédure spécifique définie par ce réseau.
 
-5.2. Chaque centre de contrôle non rattaché transmet les résultats des contrôles effectués, conformément à une procédure établie par l'Organisme Technique Central.
+5.2. Chaque centre de contrôle non rattaché transmet les résultats des contrôles effectués, conformément au protocole prévu au b de l'article 27 du présent arrêté, établi par l'Organisme Technique Central.
 
 5.3. Le titulaire de l'agrément de l'installation de contrôle ne doit diffuser un résultat de contrôle à aucune personne ou organisme autre que l'organisme technique central, la direction du réseau auquel il est éventuellement rattaché, les agents de l'administration chargés du contrôle des installations de contrôle, tout organisme désigné à cette fin par le ministre chargé des transports et la personne ayant soumis son véhicule à la visite technique pour ce qui la concerne.
 
@@ -58,11 +60,35 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 7. Audit des installations de contrôle
 
-7.1. On désigne par audit des installations de contrôle l'examen auquel ces installations et leur organisation sont soumises dans le cadre normal de leur activité.
+7.1. On désigne par audit l'examen auquel ces installations et leur organisation sont soumises, réalisé dans le cadre normal de leur activité. Cet audit porte a minima sur :
+
+- la cohérence de l'installation avec le dossier d'agrément initial et des déclarations à la préfecture le cas échéant ;
+
+- le respect des dispositions réglementaires, des instructions techniques et des cahiers des charges matériels ;
+
+- la présence et l'application des procédures internes de l'installation ;
+
+- le contenu et la cohérence des procédures internes de l'installation mentionnées à l'annexe VII, chapitre III, du présent arrêté, pour les centres non rattachés ;
+
+- le contenu, la cohérence et l'application des procédures non exigées par la réglementation, que l'installation a mis en place.
 
 7.2. Les installations de contrôle respectent les procédures de déclenchement et de déroulement d'audit définies par les organismes visés aux points 26-3 et 26-4 du présent arrêté.
 
-7.3. Toute installation de contrôle agréée fait l'objet d'un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d'audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire annuel. Si deux audits défavorables se succèdent, le responsable de l'installation transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
+7.3. Toute installation de contrôle agréée fait l'objet d'un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d'audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire annuel. Si deux audits défavorables se succèdent, le responsable de l'installation transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Dans le cas d'un premier ou d'un nouvel agrément d'un centre, l'audit est réalisé au plus tard au cours du sixième mois qui suit la date d'agrément.
+
+7.4. L'audit initial prévu au point 4 du I du chapitre II et au point 3 du I du chapitre III de l'annexe VII est l'examen auquel l'installation et son organisation sont soumises dans le cadre de la demande d'agrément.
+
+Cet audit porte a minima sur :
+
+- la cohérence de l'installation avec le dossier de demande d'agrément initial et des déclarations à la préfecture le cas échéant ;
+
+- le respect des dispositions réglementaires, des instructions techniques, des cahiers des charges matériels ;
+
+- le fonctionnement et la cohérence des transmissions informatiques entre le matériel et l'informatique de l'installation ;
+
+- le contenu et la cohérence des procédures internes de l'installation ;
+
+- le contenu et la cohérence des procédures non exigées par la réglementation, que l'installation a mis en place.
 
 8. Installations auxiliaires
 
@@ -70,7 +96,7 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 8.2. L'ensemble des matériels nécessaires aux contrôles techniques doit être regroupé sur cet emplacement et mis à disposition exclusive des contrôleurs pendant toute la durée de leur présence dans l'installation.
 
-8.3. Le réseau de contrôle doit s'assurer que les contrôles réalisés dans l'installation sont effectués par un contrôleur respectant les prescriptions du III de l'article R. 323-17 du code de la route.
+8.3. Le réseau de contrôle s'assure que les contrôles réalisés dans l'installation sont effectués par un contrôleur respectant les prescriptions du III de l'article R. 323-17 du code de la route dans sa version antérieure à la publication du décret n° 2012-1145 du 10 octobre 2012.
 
 9. Information du public
 

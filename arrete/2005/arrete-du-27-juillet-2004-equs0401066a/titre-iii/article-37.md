@@ -12,7 +12,7 @@ d) L'OTC centralise et archive les résultats des contrôles dans les conditions
 
 e) L'OTC analyse les résultats des contrôles afin de caractériser le fonctionnement des installations et des réseaux de contrôle et de s'assurer de l'homogénéité des contrôles effectués ;
 
-f) L'OTC apporte une assistance technique à l'administration pour l'agrément des installations des centres de contrôles non rattachés, des installations auxiliaires et des réseaux de contrôles techniques de véhicules lourds ;
+f) L'OTC apporte une assistance technique à l'administration pour l'agrément des installations des centres de contrôles non rattachés et de leurs contrôleurs et des réseaux de contrôles techniques de véhicules lourds ;
 
 g) L'OTC établit annuellement un bilan du parc de véhicules lourds contrôlé et de ses caractéristiques techniques conformément aux directives données par le ministre chargé des transports ;
 
@@ -20,6 +20,8 @@ h) L'OTC centralise et maintient à jour l'ensemble des éléments techniques n�
 
 i) L'OTC élabore et tient à jour les informations prévues aux III des articles R. 323-14 et R. 323-18 du code de la route ;
 
-j) L'OTC contrôle la conformité de l'outil informatique des réseaux et installations de contrôle par rapport aux spécifications fonctionnelles et au protocole de communication prévus à l'article 38.
+j) L'OTC contrôle la conformité de l'outil informatique des réseaux et installations de contrôle par rapport aux spécifications fonctionnelles et au protocole de communication prévus à l'article 38 ;
 
-L'ensemble des informations est mis à disposition du ministère chargé des transports et des administrations chargées de la surveillance administrative des réseaux, des installations de contrôle et des contrôleurs.
+k) L'OTC apporte une assistance technique à l'administration dans le cadre des approbations de programme des formations prévues à l'annexe IV du présent arrêté et de l'agrément des organismes d'audits prévu à l'article 35-1 du présent arrêté.
+
+L'ensemble des informations est mis à disposition du ministre chargé des transports et des administrations chargées de la surveillance administrative des réseaux, des installations de contrôle et des contrôleurs.

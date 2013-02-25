@@ -1,3 +1,3 @@
 # Article 48
 
-La déléguée à la sécurité et à la circulation routières est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur général de l'énergie et du climat est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

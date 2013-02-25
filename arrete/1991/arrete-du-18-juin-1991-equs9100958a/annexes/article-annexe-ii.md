@@ -88,7 +88,7 @@ La date du contrôle ;
 
 -" Contrôles du lambda, du CO ralenti et du CO ralenti accéléré réalisés selon une méthode spécifique " ;
 
--"Numéro d'identification de la frappe à froid identique à la plaque constructeur" est signalé sur le PV de conrôle
+"Numéro d'identification de la frappe à froid identique à la plaque constructeur" est signalé sur le PV de contrôle " ;
 
 -Les mesures réalisées ;
 

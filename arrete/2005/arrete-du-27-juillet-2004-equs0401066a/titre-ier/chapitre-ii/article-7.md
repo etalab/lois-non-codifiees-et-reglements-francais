@@ -6,9 +6,9 @@ L'original du certificat d'immatriculation est présenté préalablement au cont
 
 -en cas de perte ou vol du certificat d'immatriculation, la fiche d'identification du véhicule délivrée par les services préfectoraux et la copie de la demande de duplicata du certificat d'immatriculation ou la copie de la déclaration de perte ou vol du certificat d'immatriculation ;
 
--en cas d'immobilisation du véhicule, la fiche de circulation provisoire prévue à l'article R. 325-6 du code de la route ;
+-en cas d'immobilisation du véhicule, la fiche de circulation provisoire prévue à l' article R. 325-6 du code de la route ;
 
--dans le cas d'un véhicule de plus de trente ans d'âge sans certificat d'immatriculation, l'attestation prévue au point a du II du paragraphe 4 E de l'article 4 de l'arrêté du 9 février 2009 susvisé ;
+-dans le cas d'un véhicule de plus de trente ans d'âge sans certificat d'immatriculation, l'attestation prévue au point a du II du paragraphe 4 E de l' article 4 de l'arrêté du 9 février 2009 susvisé ;
 
 - dans le cas d'un véhicule précédemment immatriculé hors du territoire français (hors série spéciale FFECSA), un certificat d'immatriculation étranger ou une pièce officielle prouvant l'origine de propriété du véhicule et visée par les autorités administratives du pays d'origine ou une pièce officielle certifiant que le certificat d'immatriculation a été retiré.
 
@@ -26,7 +26,7 @@ Est également fourni l'original du certificat de conformité communautaire ou s
 
 -dans le cas d'un véhicule appartenant aux services de l'Etat, tout document permettant l'identification du véhicule.
 
-En cas de changement de source d'énergie, le procès-verbal de réception à titre isolé pour changement de source d'énergie est présenté en complément du certificat d'immatriculation.
+En cas de changement de source d'énergie, l'attestation de dépôt de dossier de réception à titre isolé pour changement de source d'énergie est présentée en complément du certificat d'immatriculation.
 
 La désignation du document présenté au lieu du certificat d'immatriculation ou en complément de celui-ci dans le cas de changement de source d'énergie figure sur le procès-verbal de contrôle et dans les enregistrements informatiques relatifs au contrôle technique.
 
@@ -34,7 +34,7 @@ En complément du certificat d'immatriculation ou de l'un des documents d'identi
 
 -notice descriptive ou copie du certificat de conformité européen du véhicule, le cas échéant ;
 
--pour les véhicules livrés non prêts à l'emploi et à la première présentation à la visite technique périodique : un certificat de conformité initial conforme à l'arrêté du 18 novembre 2005 susvisé ;
+-pour les véhicules livrés non prêts à l'emploi et à la première présentation à la visite technique périodique : un certificat de conformité initial conforme à l' arrêté du 18 novembre 2005 susvisé ;
 
 -procès-verbal de réception à titre isolé, le cas échéant ;
 
@@ -42,10 +42,10 @@ En complément du certificat d'immatriculation ou de l'un des documents d'identi
 
 -pour les véhicules à usage spécifique, autorisation de circulation prévue par la réglementation concernée ;
 
--pour les véhicules visés aux articles R. 317-6 et R. 317-6-1 du code de la route, une attestation de vérification du système de limitation de vitesse datant de moins d'un an et conforme au modèle figurant en annexe IX du présent arrêté.
+-pour les véhicules visés aux  articles R. 317-6 et R. 317-6-1 du code de la route, une attestation de vérification du système de limitation de vitesse datant de moins d'un an et conforme au modèle figurant en annexe IX du présent arrêté.
 
 Cette attestation est délivrée, suite à la vérification du fonctionnement du système de limitation de vitesse et de la valeur de réglage de vitesse limite de celui-ci, par le constructeur du véhicule, son représentant ou par une station spécialement agréée par le préfet pour le contrôle du chronotachygraphe. La liste des représentants des constructeurs, des centres de contrôle et des stations autorisés à délivrer une attestation de vérification du système de limitation est communiquée au ministre en charge des transports. Les listes communiquées sont disponibles sur le site internet de l'organisme technique central ;
 
--pour les véhicules de transport en commun de personnes visés à l'article R. 311-1 du code de la route et affectés au transport d'enfants, mis en circulation à partir du 1er janvier 2010, un certificat d'installation du dispositif éthylotest antidémarrage établi conformément à la circulaire du 28 janvier 2009 susvisée (annexe I) et, à compter de la deuxième année d'installation du dispositif, une attestation datant de moins d'un an de vérification périodique du dispositif. A compter du 1er janvier 2012, cette attestation est conforme à l'annexe XII de l'arrêté du 2 juillet 1982 susvisé.
+-pour les véhicules de transport en commun de personnes visés à l'article  R. 311-1 du code de la route et affectés au transport d'enfants, mis en circulation à partir du 1er janvier 2010, un certificat d'installation du dispositif éthylotest antidémarrage établi conformément à la circulaire du 28 janvier 2009 susvisée (annexe I) et, à compter de la deuxième année d'installation du dispositif, une attestation datant de moins d'un an de vérification périodique du dispositif, conforme à l'annexe XII de l'arrêté du 2 juillet 1982 relatif au transport en commun de personnes
 
 Le certificat d'installation est délivré suite à l'installation du dispositif éthylotest antidémarrage, par le constructeur du véhicule, son représentant ou par un installateur indépendant qualifié par l'Union technique de l'automobile et du cycle. La liste des installateurs indépendants autorisés à installer un dispositif éthylotest antidémarrage est communiquée au ministre en charge des transports. Les listes communiquées sont disponibles sur le site internet de l'Union technique de l'automobile et du cycle.

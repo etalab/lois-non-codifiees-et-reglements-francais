@@ -2,15 +2,15 @@
 
 ÉQUIPEMENTS DE CONTRÔLE
 
-Dans la présente annexe, la " conformité à une norme ou à un cahier des charges " signifie la conformité à cette norme ou à ce cahier des charges ou à des prescriptions reconnues équivalentes en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
+Dans la présente annexe, la "conformité à une norme" signifie la conformité à cette norme ou à des prescriptions reconnues équivalentes en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
 
-Dans les installations de contrôles faisant l'objet d'un premier agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable.
+Dans les installations de contrôle faisant l'objet d'un premier agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
-Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel visé aux points 1.1,1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concernés applicables dans les six mois qui suivent le nouvel agrément.
+Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concernés applicables, y compris la transmission informatique entre le matériel et l'informatique de l'installation, dans les six mois qui suivent le nouvel agrément.
 
-Dans les installations déjà agréées et dans le cadre du même agrément, un délai de douze mois est accordé pour la mise en conformité du matériel visé aux points 1.1, 1.2 et 1.5 quand une nouvelle version de norme ou de cahier des charges est applicable.
+Dans les installations déjà agréées et dans le cadre du même agrément, un délai de douze mois est accordé pour la mise en conformité du matériel visé aux points 1.1, 1.2 et 1.5 quand une nouvelle version de norme ou de cahier des charges est applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
-En cas de remplacement d'un matériel visé aux points 1.1, 1.2 et 1.5 sur une installation agréée, le nouveau matériel visé aux points 1.1, 1.2 et 1.5 est conforme aux dispositions prévues par la mise jour la plus récente de la norme ou du cahier des charges applicable.
+En cas de remplacement d'un matériel visé aux points 1.1, 1.2 et 1.5 sur une installation agréée, le nouveau matériel visé aux points 1.1, 1.2 et 1.5 est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
 Dans le cas particulier des dispositifs de contrôle du réglage des feux d'éclairage, la mise à niveau est effectuée au plus tard le 1er janvier 2015.
 
@@ -24,6 +24,8 @@ Les équipements suivants transmettent les mesures par liaison informatique :
 
 -dispositif de contrôle du réglage des feux d'éclairage (à compter du 1er janvier 2015).
 
+La liste des mesures transmises par liaison informatique est définie dans le protocole prévu au point c de l'article 38 du présent arrêté.
+
 Pour chaque matériel de contrôle visé aux points 1.1, 1.2 et 1.5, les normes ou cahiers des charges concernés applicables ainsi que les dates de mise en application dans les installations de contrôle sont définis dans une liste approuvée par le ministre chargé des transports, tenue à jour par l'organisme technique central et disponible sur le site internet de l'organisme technique central.
 
 1. Equipements mécaniques
@@ -34,9 +36,9 @@ Ce certificat ou ce carnet métrologique sont présentés, à toute réquisition
 
 Les installations de contrôle sont équipées de la façon suivante :
 
-1.1. Dispositif de contrôle du réglage des feux d'éclairage
+1.1. Dispositif de contrôle du réglage des feux d'éclairage.
 
-1.1.1. Les dispositifs de contrôle du réglage des feux d'éclairage mis en service jusqu'au 31 décembre 2010 sont conformes à la norme NF-R-63-801. Les dispositifs de contrôle du réglage des feux d'éclairage mis en service à compter du 1er janvier 2011 sont conformes à la norme NF-R-63-801 complétée par un cahier des charges défini par l'OTC et approuvé par le ministre chargé des transports
+1.1.1. Les dispositifs de contrôle du réglage des feux d'éclairage mis en service jusqu'au 31 décembre 2010 sont conformes à la norme NF-R-63-801. Les dispositifs de contrôle du réglage des feux d'éclairage mis en service à compter du 1er janvier 2011 sont conformes à la norme NF-R-63-801 complétée par un cahier des charges défini par l'organisme technique central et approuvé par le ministre chargé des transports
 
 1.1.2. Le cahier des charges est disponible sur demande auprès des services du ministre chargé des transports.
 
@@ -44,11 +46,11 @@ La conformité du dispositif de contrôle du réglage des feux d'éclairage aux 
 
 1.2. Dispositifs pour le contrôle du freinage
 
-1.2.1. Un freinomètre par ligne de contrôle conforme aux dispositions de l'arrêté du 18 août 1955 susvisé et répondant au cahier des charges établi par l'OTC et approuvé par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'OTC.
+1.2.1. Un freinomètre par ligne de contrôle conforme aux dispositions de l'arrêté du 18 août 1955 susvisé et répondant au cahier des charges établi par l'organisme technique central et approuvé par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'organisme technique central.
 
 1.2.2. Un décéléromètre ou un appareil de mesure de la distance d'arrêt associé à une mesure de la vitesse initiale lorsque le contrôle du freinage est réalisé sur une piste d'essai.
 
-Le décéléromètre utilisé est conforme au cahier des charges établi par l'OTC et approuvé par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'OTC.
+Le décéléromètre utilisé est conforme au cahier des charges établi par l'organisme technique central et approuvé par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'organisme technique central.
 
 La conformité de ces matériels est démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO/ CEI 17025.
 
@@ -58,9 +60,9 @@ Les contrôles sont réalisés au moyen de plaques à jeux placées de façon à
 
 1.4. Dispositif de mesure de l'opacité des fumées
 
-Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées émises par les véhicules équipés de moteurs à allumage par compression sont conformes à la réglementation en vigueur relative à la construction, au contrôle et à l'utilisation des opacimètres établie par le ministre en charge de l'industrie.
+Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées émises par les véhicules équipés de moteurs à allumage par compression sont conformes aux dispositions de l'arrêté du 22 novembre 1996 relatif à la construction, au contrôle et à l'utilisation des opacimètres.
 
-1.5. Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule (dispositions applicables à compter du 1er janvier 2011)
+1.5. Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule.
 
 1.5.1. Le dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule est conforme au cahier des charges approuvé par le ministre chargé des transports.
 
@@ -68,41 +70,47 @@ Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées ém
 
 La conformité du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1. 5. 1 est démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO / CEI 17025.
 
-1.6. Spécifications générales.
+1.7. Spécifications générales.
 
-1.6.1. L'ensemble des matériels fait l'objet de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
+1.7.1. L'ensemble des matériels fait l'objet de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
 
-1.6.2. L'ensemble des matériels de mesure fait l'objet de dispositions pour le contrôle régulier de la chaîne de mesure.
+1.7.2. L'ensemble des matériels de mesure fait l'objet de dispositions pour le contrôle régulier de la chaîne de mesure.
 
-1.6.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
+1.7.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
 
-1.7. Spécifications particulières.
+1.8. Spécifications particulières.
 
-1.7.1. Toute installation d'un matériel ou toute modification conduisant à déplacer un matériel visé au point 1.2.1 s'accompagne d'un étalonnage à la mise en service sur l'installation de contrôle. Cet étalonnage est réalisé par des personnels qualifiés, préalablement à la première opération de contrôle nécessitant l'utilisation dudit matériel.
+1.8.1. Toute installation d'un matériel ou toute modification conduisant à déplacer un matériel visé au point 1.2.1 s'accompagne d'un étalonnage à la mise en service sur l'installation de contrôle. Cet étalonnage est réalisé par des personnels qualifiés, préalablement à la première opération de contrôle nécessitant l'utilisation dudit matériel.
 
-1.7.2. Les matériels visés au point 1.1.1 et conformes au cahier des charges cité à ce point et ceux visés aux points 1.2.1 et 1.4 de la présente annexe font l'objet :
+1.8.2. Les matériels visés au point 1.1.1 et conformes au cahier des charges cité à ce point et ceux visés aux points 1.2.1 et 1.4 de la présente annexe font l'objet :
 
--d'un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas huit mois ;
+- d'un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas huit mois ;
 
--d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
+- d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
 
 Les opérations d'étalonnage et de maintenance préventive font l'objet d'un contrat avec un organisme habilité ou agréé pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles. Le contrat comporte un engagement de respect des dates réglementaires et un engagement à ne faire intervenir que des personnels qualifiés pour les matériels concernés.
 
-1.7.3. Le matériel visé au point 1.2.2 de la présente annexe fait l'objet :
+1.8.3. Le matériel visé au point 1.2.2 de la présente annexe fait l'objet :
 
--d'un minimum d'un étalonnage par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas quatorze mois ;
+- d'un minimum d'un étalonnage par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas quatorze mois ;
 
--d'un minimum d'une visite de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas quatorze mois.
+- d'un minimum d'une visite de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas quatorze mois.
 
-1.7.4. Les matériels prévus aux points 1.1.1 et conformes au cahier des charges cité à ce point, 1.2,1.4 et 1.5.1 de la présente annexe font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné. Cette disposition est formalisée par un contrat de maintenance.
+1.8.4. Le matériel visé au 1.6 de la présente annexe fait l'objet d'un étalonnage tous les vingt-quatre mois.
 
-1.7.5. En cas de défaut,
+1.8.5. Les matériels prévus aux points 1.1.1, et conformes au cahier des charges cité à ce point, 1.2.1, 1.4 et 1.5.1 de la présente annexe font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné, dans le respect de l'approbation métrologique le cas échéant. Cette disposition est formalisée par un contrat de maintenance.
+
+1.8.6. En cas de défaut :
 
 a) Les matériels sont remis en état ou remplacés dans les huit jours ouvrables suivant l'apparition du défaut, par des personnels qualifiés dépendant d'un organisme habilité ou agréé pour les matériels concernés ;
 
 b) Des méthodes alternatives prévues dans les procédures de l'installation de contrôle peuvent être mises en œuvre dans l'attente de la remise en état ou du remplacement du matériel. L'utilisation de ces méthodes ne peut excéder huit jours ouvrables. A défaut de telles méthodes, l'activité de l'installation de contrôle est arrêtée immédiatement, à l'exception des contrôles techniques ne nécessitant pas l'usage du matériel défectueux, jusqu'à la remise en état ou le remplacement du matériel.
 
-1.7.6. Un cahier des charges approuvé par le ministre chargé des transports définit les conditions d'habilitation des organismes et de qualification des intervenants mentionnés au présent point.
+1.8.7. Des cahiers des charges établis par l'organisme technique central et approuvés par le ministre chargé des transports définissent les conditions d'habilitation des organismes et de qualification des intervenants mentionnés au présent point (partie mécanique).
+
+1.8.8. Les opérations d'installation, d'étalonnage, de maintenance, de vérification de conformité en service des différents matériels sont réalisées conformément aux cahiers des charges définis par l'organisme technique central et approuvés par le ministre chargé des transports.
+
+1.8.9. Toute installation/ mise en service d'un matériel visé aux points 1.1.1, 1.2.1, 1.4 et 1.5 s'accompagne d'un contrôle de la liaison informatique entre l'appareil de contrôle et l'outil informatique conformément au cahier des charges établis par l'organisme technique central et approuvé par le ministre chargé des transports.
 
 2. Equipements informatiques
 
@@ -146,7 +154,7 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 -le numéro du châssis de la frappe à froid ;
 
--l'état de charge du véhicule (V ou C) ;
+- l'état de charge du véhicule ;
 
 -les valeurs de l'efficacité des dispositifs de freinage relevées en l'absence de transmission des mesures entre le freinomètre à rouleaux et le micro-ordinateur ;
 
@@ -162,7 +170,7 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 2.2.2.1. Le mode de transmission entre le terminal de saisie portable et le micro-ordinateur est fiable et garantit l'intégrité des données.
 
-2.2.2.2. Dans le cas où les équipements mécaniques utilisés pour effectuer les contrôles incluent des bancs de mesure informatisés permettant une transmission des informations vers le micro-ordinateur, le transfert des informations présente les mêmes garanties de fonctionnement que celles citées au paragraphe 2.2.2.1 ci-dessus.
+2.2.2.2. Dans le cas où les équipements mécaniques utilisés pour effectuer les contrôles incluent des bancs de mesure informatisés permettant une transmission des informations vers le micro-ordinateur, le transfert des informations présente les mêmes garanties de fonctionnement que celles citées au paragraphe 2.2.2.1 ci-dessus et la modification des informations transmises par les bancs de mesures est impossible en dehors des dispositions prévues dans le protocole visé au b de l'article 38 du présent arrêté.
 
 2.2.2.3. Le logiciel est facile d'emploi, garantit l'intégrité et la confidentialité des données, gère les erreurs éventuelles et assure la traçabilité des modifications apportées :
 
@@ -219,6 +227,8 @@ L'outil informatique des installations de contrôle est composé de produits log
 -véhicule de collection remorqué ;
 
 -véhicule-école TCP ;
+
+- véhicule électrique ou hybride (disposition applicable au 10 janvier 2014) ;
 
 -le numéro du procès-verbal de contrôle ;
 
@@ -308,13 +318,13 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 2.2.3. Transferts d'informations entre l'installation de contrôle et l'organisme technique central.
 
-2.2.3.1. Ces transferts se font suivant une procédure définie par l'exploitant de l'installation de contrôle, conformément aux dispositions minimales du protocole visé à l'article 39 du présent arrêté.
+2.2.3.1. Ces transferts se font suivant une procédure définie par l'exploitant de l'installation de contrôle, conformément aux dispositions minimales du protocole visé au point b de l'article 38 du présent arrêté.
 
 2.2.3.2. L'installation de contrôle est pourvue de moyens de communications compatibles avec cette procédure.
 
-2.2.3.3. Le logiciel utilisé par l'installation de contrôle crée automatiquement un fichier suivant un format défini dans la procédure de transfert.
+2.2.3.3. Le logiciel utilisé par l'installation de contrôle crée automatiquement un fichier conformément au protocole visé au point b de l'article 38 du présent arrêté.
 
-2.2.3.4. Ce fichier comprend au minimum l'ensemble des informations nécessaires à la description de l'installation de contrôle ainsi que l'ensemble des informations relatives aux véhicules contrôlés dans l'installation telles que définies aux paragraphes 2.2.1.3 et 2.2.2.5 de la présente annexe.
+2.2.3.4. Ce fichier comprend au minimum l'ensemble des informations prévues dans le protocole visé au point b de l'article 38 du présent arrêté.
 
 3. Infrastructures de l'installation
 
@@ -333,6 +343,8 @@ Spécifications relatives aux infrastructures d'une installation de contrôle
 -longueur : 18,75 mètres ;
 
 -largeur : 2,60 mètres.
+
+Les zones de contrôle et d'accueil de la clientèle, les places de stationnement, les entrées et sorties des personnes et des véhicules dans le bâtiment sont physiquement séparées de toute activité de commerce ou de réparation automobile.
 
 1.2. Sans préjuger des autres réglementations non spécifiques applicables, l'installation de contrôle tient compte des éléments suivants :
 
@@ -355,10 +367,6 @@ Spécifications relatives aux infrastructures d'une installation de contrôle
 Sur la façade du bâtiment et à la partie la plus visible du public est portée l'identification du centre de contrôle. Les couleurs et l'identification ne produisent aucune confusion avec des entreprises de commerce ou de réparation automobile voisines.
 
 Le panneau distinctif d'agrément est affiché dans le délai maximum d'un mois qui suit la date d'agrément du centre. Il est visible de l'extérieur du bâtiment par les usagers.
-
-2.2. Installation auxiliaire
-
-Le panneau distinctif d'agrément est affiché dans le délai maximum d'un mois qui suit la date d'agrément du réseau pour l'installation auxiliaire. Il est visible de l'extérieur du bâtiment par les usagers.
 
 3. Sécurité
 

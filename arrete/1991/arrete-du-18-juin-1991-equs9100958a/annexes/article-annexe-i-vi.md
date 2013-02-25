@@ -659,7 +659,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H H.2.5.2. Spécification</p>
+<p>H.2.5.2. Spécification</p>
 </td>
 <td valign="top" width="88"/>
 <td width="1"/>
@@ -1226,7 +1226,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="593">
-<p>H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C)</p>
+<p>H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C</p>
 </td>
 <td valign="top" width="88">
 <p align="center">N</p>

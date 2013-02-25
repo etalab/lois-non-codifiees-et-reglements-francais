@@ -143,7 +143,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="608">
-<p>5.2.6.1.2. issure, cassure (AV, AR.)</p>
+<p>5.2.6.1.2. Fissure, cassure (AV, AR.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>

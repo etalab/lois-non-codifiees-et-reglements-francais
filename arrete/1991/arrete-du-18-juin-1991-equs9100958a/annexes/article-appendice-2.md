@@ -12,7 +12,7 @@ Energie moteur :
 
 0.4.1.1.1 Non concordance avec le(s) document(s) d'identification
 
-Ce défaut ne doit pas être constaté si un procès-verbal de réception à titre isolé pour changement de la source d'énergie du véhicule est présenté en complément du certificat d'immatriculation. Dans ce cas, la mention "Changement de la source d'énergie du véhicule : présentation du procès-verbal de réception à titre isolé n° " suivie du numéro du procès-verbal de réception à titre isolé présenté, doit figurer, conformément aux dispositions de l'article 9, sur le procès-verbal de contrôle technique et dans les enregistrements informatiques relatifs à la visite.
+Ce défaut ne doit pas être constaté si une attestation de dépôt de dossier de réception à titre isolé pour changement d'énergie est présentée.
 
 Dans tous les cas, l'énergie mentionnée sur le procès-verbal de contrôle technique et les contrôles de pollution effectués lors de la visite doivent correspondre à l'énergie du moteur réellement constatée sur le véhicule, même en cas de divergence avec l'énergie indiquée sur le certificat d'immatriculation.
 

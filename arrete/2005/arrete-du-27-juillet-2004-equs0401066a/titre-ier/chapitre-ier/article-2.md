@@ -6,7 +6,7 @@ Au sens du présent arrêté, les termes ci-après ont le sens qui leur est donn
 
 -véhicules légers : les véhicules désignés comme tels à l'article R. 323-6 du code de la route, à l'exception des véhicules dont le PTAC n'excède pas 3 500 kg mentionnés aux parties A et B de l'annexe VIII ;
 
--véhicules soumis à réglementation spécifique les véhicules appartenant à l'une des catégories répertoriées dans le tableau figurant en partie B de l'annexe VIII ;
+- véhicules soumis à réglementation spécifique : les véhicules appartenant à l'une des catégories répertoriées dans le tableau figurant en partie B de l'annexe VIII ;
 
 -véhicules prêts à l'emploi : on entend par véhicule prêt à l'emploi, au sens de l'article R. 323-25 du code de la route, les véhicules dont l'immatriculation ne nécessite pas la présentation du certificat de carrossage prévu à l'annexe VII de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
@@ -32,8 +32,4 @@ Au sens du présent arrêté, les termes ci-après ont le sens qui leur est donn
 
 -" véhicule de collection " : véhicule dont le certificat d'immatriculation porte la mention d'usage " véhicule de collection ".
 
-Les catégories de contrôles techniques sont les suivantes :
-
--contrôle technique des véhicules légers ;
-
--contrôle technique des véhicules lourds.
+- véhicule électrique ou hybride : tout véhicule dont le mode de propulsion est assuré par au moins un moteur électrique.

@@ -30,10 +30,10 @@ Est également fourni l'original du certificat de conformité communautaire ou s
 
 -dans le cas d'un véhicule appartenant aux services de l'Etat, tout document permettant l'identification du véhicule.
 
-En cas de changement de source d'énergie, le procès-verbal de réception à titre isolé pour changement de source d'énergie est présenté en complément du certificat d'immatriculation.
+- dans le cas d'un véhicule disposant précédemment d'une immatriculation en série CMD, CD, C ou K, tout document permettant l'identification du véhicule.
+
+En cas de changement de source d'énergie, l'attestation de dépôt de dossier de réception à titre isolé pour changement de source d'énergie est présentée en complément du certificat d'immatriculation.
 
 La désignation du document présenté au lieu du certificat d'immatriculation ou en complément de celui-ci dans le cas de changement de source d'énergie figure sur le procès-verbal de contrôle et dans les enregistrements informatiques relatifs au contrôle technique.
 
 A l'issue du contrôle technique, le contrôleur ou toute autre personne du centre désignée par une procédure spécifique réseau (ou spécifique centre lorsqu'il n'est pas rattaché) appose sur le certificat d'immatriculation, à l'exclusion des autres documents susvisés, à l'emplacement réservé à cet effet, un timbre dit " timbre certificat d'immatriculation " conforme aux dispositions de l'annexe II du présent arrêté.
-
-Ce timbre indique notamment la date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à nouveau contrôle technique ou pour les véhicules mentionnés au premier alinéa de l'article 4-1 du présent arrêté, à une visite technique complémentaire, ainsi que la lettre A ou S selon, respectivement, que les défectuosités constatées, s'il y en a, ne justifient pas une contre-visite ou justifient une contre-visite et, à compter du 01/01/2011, l'immatriculation du véhicule.

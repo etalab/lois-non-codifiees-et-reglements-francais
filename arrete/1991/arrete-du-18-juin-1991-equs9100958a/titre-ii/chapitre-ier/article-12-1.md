@@ -1,7 +1,3 @@
 # Article 12-1
 
-Pour réaliser les contrôles techniques prévus à la fonction G de l'annexe I du présent arrêté, le contrôleur dispose d'une attestation de qualification spécifique délivrée par le réseau ou le centre non rattaché.
-
-Cette qualification spécifique doit indiquer le numéro d'agrément préfectoral et doit être notifiée à l'organisme technique central.
-
-Elle doit être présentée par le contrôleur à toute réquisition avec l'attestation de formation complémentaire et la dernière attestation de maintien de qualification spécifique, prévues aux paragraphes 3 et 4. 3 de l'annexe IV du présent arrêté.
+Pour réaliser les contrôles techniques prévus à la fonction G de l'annexe I du présent arrêté, le contrôleur dispose d'une attestation de qualification spécifique délivrée par son réseau de rattachement ou par son centre de rattachement dans le cas d'un centre non rattaché à un réseau. Cette attestation de qualification spécifique indique le numéro d'agrément préfectoral et les périodes d'habilitation. La qualification est notifiée à l'organisme technique central via le registre national des centres et des contrôleurs. L'attestation de qualification est présentée par le contrôleur à toute demande des services de l'Etat avec l'attestation de formation complémentaire, le cas échéant.

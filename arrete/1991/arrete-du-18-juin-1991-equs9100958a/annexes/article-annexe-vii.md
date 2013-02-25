@@ -10,7 +10,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément en tant que contrôleur, indiquant le centre de contrôle (ainsi que le réseau de contrôle agréé auquel il est éventuellement rattaché) dans lequel le demandeur compte exercer son activité à titre principal, et précisant en quelle qualité (exploitant ou salarié) ;
 
-2. Le bulletin n° 2 de son casier judiciaire faisant apparaître que le demandeur n'a fait l'objet d'aucune condamnation ;
+2. Le bulletin n° 2 de son casier judiciaire faisant apparaître que le demandeur n'a fait l'objet d'aucune condamnation (document directement requis par le préfet auprès du casier judiciaire national) ;
 
 3. La copie d'une des pièces suivantes, en cours de validité, permettant de justifier de l'identité du contrôleur :
 
@@ -26,7 +26,7 @@ I. - Composition du dossier
 
 4. Les pièces justificatives de la qualification requise pour exercer l'activité de contrôleur (cf. annexe IV) accompagnées d'une fiche récapitulative conforme au modèle de l'appendice 1 de la présente annexe s'il s'agit d'un ressortissant étranger, celui-ci doit fournir un document équivalent établi depuis moins de trois mois à la date de la demande d'agrément et rédigé en français ou accompagné d'une traduction officielle ;
 
-5. L'avis du réseau de contrôle agréé dont le demandeur dépend, ou à défaut, l'avis de l'Organisme Technique Central, suivant le modèle de l'appendice 2 de la présente annexe ;
+5. L'avis du réseau de contrôle agréé dont le demandeur dépend, ou dans le cas d'un contrôleur non rattaché à un réseau, l'avis de l'organisme technique central, suivant le modèle de l'appendice 2 de la présente annexe ;
 
 6. Si le contrôleur est salarié, une copie du contrat de travail ou bien une lettre d'engagement du centre de contrôle employeur ;
 
@@ -34,15 +34,18 @@ I. - Composition du dossier
 
 II. - Demande d'agrément
 
-L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché.
+L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché, à l'exception de l'avis de l'organisme technique central qui est directement transmis au préfet par l'organisme technique central.
 
 <div align="center">III. - Modification du dossier d'agrément </div>
+<div align="center"/>
 <div align="left"/>
 <div align="left">3.1. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture les modifications suivantes entraînant l'annulation de l'agrément :</div>
 
 3.1.1. La cessation d'activité.
 
 3.1.2. La cessation de rattachement du contrôleur à un centre de contrôle (hors changement de centre de rattachement prévu au point 3.3 du présent chapitre).
+
+Ces modifications peuvent entraîner l'annulation de l'agrément qu'elles aient été ou non signalées par le contrôleur, son centre de rattachement ou son réseau éventuel. La décision d'annulation d'agrément est notifiée simultanément au contrôleur, au centre de contrôle auquel il est rattaché, à la direction du réseau auquel il est rattaché le cas échéant et, pour les contrôleurs non rattachés, à l'organisme technique central.
 
 3.2. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture toute modification entraînant un non-respect :
 
@@ -54,7 +57,7 @@ L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture 
 
 Le contrôleur doit signaler à la préfecture toute modification entraînant un non-respect des conditions posées lors de la délivrance de l'agrément au niveau du point 2 du paragraphe I du présent chapitre.
 
-Dans ce cas, l'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées aux articles 13-1 et 13-2.
+Dans les cas de non-respect précités, l'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées aux articles 13-1 et 13-2, que le non-respect ait été ou non signalé par le contrôleur, son centre de rattachement ou son réseau éventuel.
 
 3.3. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler, préalablement, à la préfecture les modifications suivantes :
 
@@ -116,13 +119,15 @@ I. - Composition du dossier
 
 3. Une attestation de l'affiliation à un réseau de contrôle agréé, suivant le modèle de l'appendice 5 de la présente annexe ;
 
-4. Une attestation du réseau de contrôle certifiant que le centre de contrôle a fait l'objet d'un audit favorable (avec indication de la date et de la référence du rapport) et que le dossier est conforme aux prescriptions du présent chapitre, et une copie du rapport d'audit ;
+4. Une attestation du réseau de contrôle certifiant que le centre de contrôle a fait l'objet d'un audit initial favorable (avec indication de la date et de la référence du rapport) et que le dossier est conforme aux prescriptions du présent chapitre, et une copie du rapport de l'audit initial ;
 
 5. Le cahier des charges visé au 2ème alinéa du I de l'article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 6 de la présente annexe ;
+a) Une description de l'organisation, des moyens matériels et de la liste des contrôleurs rattachés, suivant le modèle de l'appendice 6 de la présente annexe ;
 
 b) L'engagement du demandeur d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
+
+6. L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 II. - Demande d'agrément
 
@@ -190,13 +195,13 @@ S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en co
 
 - Carte de séjour temporaire, carte de résident, certificat de résidence de ressortissant algérien, carte de ressortissant d'un Etat membre de Union Européenne ou de l'Espace économique européen
 
-3. Un rapport d'audit établi par un organisme agréé ;
+3. Un rapport d'audit initial établi par un organisme agréé ;
 
 4. L'avis de l'Organisme Technique Central, suivant le modèle de l'appendice 7 de la présente annexe ;
 
 5. Le cahier des charges visé au 2ème alinéa du I de l'article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 6 de la présente annexe ;
+a) Une description de l'organisation, des moyens matériels et de la liste des contrôleurs rattachés, suivant le modèle de l'appendice 6 de la présente annexe ;
 
 b) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe :
 
@@ -205,6 +210,8 @@ b) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présent
 - faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle ;
 
 - de signer la convention d'assistance technique prévue au point d de l'article 29 du présent arrêté.
+
+- l'engagement du demandeur à respecter le cahier des charges susvisé.
 
 c) Les procédures internes du centre de contrôle permettant de s'assurer du respect des prescriptions du I de l'article R323-14 du code de la route susvisé, ainsi que du paragraphe 1er du chapitre II du titre II du présent arrêté, et notamment :
 
@@ -282,71 +289,31 @@ Dans le cas prévu au paragraphe 3.3.2 ci-dessus, le titulaire de l'agrément du
 
 Dans le cas prévu au paragraphe 3.3.3 ci-dessus, le titulaire de l'agrément du centre doit transmettre un justificatif d'existence légal à jour.
 
-CHAPITRE IV
+<div align="center">Chapitre IV </div>
 
 Installation auxiliaire
 
-I. - Composition du dossier
+I. - Modifications du dossier d'agrément
 
-1. Une demande d'agrément motivée, sur papier à en-tête du réseau de contrôle agréé à laquelle l'installation auxiliaire est rattachée (cf. 2ème alinéa du II de l'article R. 323-14 du code de la route) ;
+1.1. Le réseau signale au préfet la cessation de l'exploitation de l'installation ; dans ce cas, le préfet prononce l'annulation de l'agrément de l'installation auxiliaire. La décision d'annulation d'agrément est notifiée simultanément à l'exploitant de l'établissement abritant l'installation auxiliaire, au réseau et à l'organisme technique central.
 
-2. Une justification de l'existence légale, de moins de trois mois, de la personne qui exploite l'établissement qui abrite l'installation auxiliaire s'il s'agit d'une personne morale ;
+1.2. Dans le cas d'un changement d'exploitant de l'établissement abritant l'installation auxiliaire ou de toute autre modification du dossier d'agrément, le réseau en informe le préfet et démontre que les circonstances locales justifient le maintien de cet agrément car l'installation permet d'assurer une meilleure couverture géographique et répond aux besoins des usagers.
 
-S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en cours de validité, permettant de justifier de l'identité de la personne qui demande l'agrément des installations :
+Il fournit, en outre, un dossier comprenant les éléments suivants :
 
-- Carte nationale d'identité française ou étrangère ;
+- une justification de l'existence légale, de moins de trois mois, de la personne qui exploite l'établissement qui abrite l'installation auxiliaire s'il s'agit d'une personne morale ;
 
-- Passeport français ou étranger ;
+- une copie de la convention passée entre le réseau de contrôle et l'exploitant de l'établissement qui abrite l'installation auxiliaire ;
 
-- Permis de conduire français ou étranger ;
+- une copie d'un rapport d'audit datant de moins de six mois ;
 
-- Carte de combattant délivrée par les autorités françaises ;
+- la description de l'organisation et des moyens matériels.
 
-- Carte de séjour temporaire, carte de résident, certificat de résidence de ressortissant algérien, carte de ressortissant d'un Etat membre de Union Européenne ou de l'Espace économique européen
+La décision préfectorale de maintien ou non de l'agrément est notifiée, simultanément, au réseau demandeur, à l'exploitant de l'établissement abritant l'installation auxiliaire et à l'organisme technique central.
 
-3. Une copie de la convention passée entre le réseau de contrôle et l'exploitant de l'établissement qui abrite l'installation auxiliaire, comportant notamment :
-
-- Les modalités de la mise à disposition des installations à titre onéreux ;
-
-- L'engagement par le réseau de la prise en charge de la réalisation et de la facturation des visites techniques effectuées dans l'installation auxiliaire ;
-
-- L'engagement des deux parties de faciliter la mission des agents désignés par le ministre chargé des transports pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
-
-4. Une attestation du réseau de contrôle certifiant que l'installation auxiliaire a fait l'objet d'un audit favorable (avec indication de la date et de la référence du rapport) et que le dossier est conforme aux prescriptions du présent chapitre, et une copie du rapport d'audit ;
-
-5. Le cahier des charges visé au 2ème alinéa du II de l'article R. 323-14 du code de la route comprenant notamment une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 6 de la présente annexe
-
-6. L'avis de l'Organisme Technique Central, suivant le modèle de l'appendice 8 de la présente annexe.
-
-II. - Demande d'agrément
-
-L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation de l'installation auxiliaire.
-
-III. - Modifications du dossier d'agrément
-
-3.1. Le réseau doit signaler à la préfecture les modifications importantes suivantes :
-
-3.1.1. La cessation de l'exploitation de l'installation ;
-
-3.1.2. Le changement d'exploitant de l'établissement abritant l'installation auxiliaire.
-
-Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément de l'installation auxiliaire. Celle-ci est également prononcée sur demande du réseau.
-
-La décision d'annulation d'agrément est notifiée simultanément à l'exploitant de l'établissement abritant l'installation auxiliaire, au réseau et à l'organisme technique central.
-
-3.2. Le réseau doit signaler au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement de l'installation ou des prescriptions qui leur sont imposées.
+1.3. Le réseau signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement de l'installation ou des prescriptions qui leur sont imposées.
 
 Dans ce cas, l'agrément de l'installation auxiliaire peut être suspendu ou retiré dans les conditions fixées aux articles 19-1 et 19-2.
-
-3.3. Le réseau doit signaler à la préfecture les modifications suivantes :
-
-3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément.
-
-3.3.2. Pour une personne morale, changement de la dénomination sociale ou de la forme juridique, sans changement du numéro de registre du commerce et des sociétés, de l'exploitant de l'établissement abritant l'installation auxiliaire.
-
-Dans le cas prévu au paragraphe 3.3.1 ci-dessus, le réseau doit transmettre l'attestation d'audit du réseau favorable suite aux travaux effectués.
-
-Dans le cas prévu au paragraphe 3.3.2 ci-dessus, le réseau doit transmettre un justificatif d'existence légal à jour. Le préfet notifie à l'exploitant de l'établissement abritant l'installation auxiliaire et au réseau de rattachement la prise en compte de la modification d'agrément.
 
 CHAPITRE V
 
@@ -364,11 +331,11 @@ I. - Composition du dossier
 
 a) La description et la présentation générale du réseau ;
 
-b) La description détaillée de l'organisation de la structure centrale du réseau de contrôle (organigramme, nom des personnes responsables, moyens en personnel...) ;
+b) La description détaillée de l'organisation de la structure centrale du réseau de contrôle (organigramme, nom des personnes responsables, moyens en personnel) et le système qualité (manuel qualité, plan qualité éventuel, procédures...) ;
 
 c) Description des moyens techniques ;
 
-d) Le protocole établi avec l'Organisme Technique Central conformément à l'article 28 du présent arrêté ;
+d) Le protocole établi par l'Organisme Technique Central conformément à l'article 28 du présent arrêté ;
 
 e) L'engagement du demandeur :
 
@@ -377,6 +344,8 @@ e) L'engagement du demandeur :
 - de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
 
 - de signer la convention d'assistance technique prévue au point d de l'article 29 du présent arrêté ;
+
+- d'appliquer les évolutions des protocoles informatiques prévus aux points b et c de l'article 27 du présent arrêté, établis par l'organisme technique central ;
 
 f) La liste des installations de contrôle agréées affiliées au réseau de contrôle (cf. paragraphe II ci-dessous) ;
 
@@ -390,7 +359,7 @@ i) L'attestation de conformité de l'outil informatique délivrée par l'OTC en 
 
 II. - Demande initiale d'agrément
 
-L'ensemble du dossier doit être transmis en trois exemplaires au ministère chargé des transports. La demande initiale doit comporter la liste des centres de contrôle faisant déjà l'objet d'un accord de rattachement au réseau. Cette liste est accompagnée, pour chacun des centres de contrôle, d'une attestation d'affiliation exclusive suivant le modèle de l'appendice 5 de la présente annexe, ainsi que d'une description du Centre de contrôle suivant le modèle de l'appendice 6.
+L'ensemble du dossier est transmis en trois exemplaires au ministre chargé des transports (direction générale de l'énergie et du climat). La demande initiale doit comporter la liste des centres de contrôle faisant déjà l'objet d'un accord de rattachement au réseau. Cette liste est accompagnée, pour chacun des centres de contrôle, d'une attestation d'affiliation exclusive suivant le modèle de l'appendice 5 de la présente annexe, ainsi que d'une description du Centre de contrôle suivant le modèle de l'appendice 6.
 
 III. - Modifications du dossier d'agrément
 
@@ -430,7 +399,7 @@ APPENDICE 2 : AGREMENT D'UN CONTROLEUR
 
 APPENDICE 3 : AGREMENT D'UN CONTROLEUR DECLARATION SUR L'HONNEUR
 
-APPENDICE 4 : AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LEGERS DECLARATION SUR L'HONNEUR
+APPENDICE 4 : AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LEGERSDECLARATION SUR L'HONNEUR
 
 APPENDICE 5 : AGREMENT DES INSTALLATIONS D'UN CENTRE DE CONTROLEATTESTATION D'AFFILIATION A UN RESEAU PARTIE A REMPLIR PAR LE CENTRE DE CONTROLE
 

@@ -28,13 +28,13 @@ Les pièces justificatives relatives à l'expérience et à la qualification req
 
 4. Une déclaration sur l'honneur visée par le contrôleur et le réseau ou le centre non rattaché, suivant le modèle de l'appendice 2 de la présente annexe, certifiant l'exactitude des renseignements fournis, attestant ne pas être sous le coup de retrait d'agrément datant de moins de cinq ans, s'engageant à ne pas exercer, pendant la durée de l'agrément, une quelconque activité dans la réparation ou le commerce automobile et à ne pas utiliser les résultats des contrôles à d'autres fins que celles prévues par la réglementation.
 
-5. Le bulletin n° 2 de son casier judiciaire, ou un document équivalent s'agissant d'un ressortissant de l'Union européenne, faisant apparaître que le demandeur n'a fait l'objet d'aucune condamnation.
+5. Le bulletin n° 2 de son casier judiciaire, ou un document équivalent s'agissant d'un ressortissant de l'Union européenne, faisant apparaître que le demandeur n'a fait l'objet d'aucune condamnation (document directement requis par le préfet auprès du casier judiciaire national).
 
 6. Dans le cas où le centre de rattachement du contrôleur est un centre non rattaché, l'avis de l'organisme technique central suivant le modèle de l'appendice 3 de la présente annexe.
 
 II. - Demande d'agrément
 
-Les pièces prévues aux points 1 à 5 du paragraphe 1 de la présente annexe sont transmises en deux exemplaires à la préfecture de département du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché.
+Les pièces prévues aux points 1 à 5 du paragraphe 1 de la présente annexe sont transmises en deux exemplaires à la préfecture de département du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché, à l'exception de l'avis de l'organisme technique central qui est directement transmis au préfet par l'organisme technique central.
 
 III. - Décision
 
@@ -46,13 +46,25 @@ IV. - Modification du dossier d'agrément
 
 4.1.1. La cessation d'activité.
 
-4.1.2. La cessation de rattachement du contrôleur au centre de contrôle (hors changement de rattachement prévu au point 4. 3 de la présente annexe).
+4.1.2. La cessation de rattachement du contrôleur au centre de contrôle (hors changement de rattachement prévu au point 4.3 de la présente annexe).
+
+Ces modifications entraînent l'annulation de l'agrément, qu'elles aient été ou non signalées par le contrôleur, son centre de rattachement ou son réseau éventuel.
+
+La décision d'annulation d'agrément est notifiée simultanément au contrôleur, au centre de contrôle auquel il est rattaché, à la direction du réseau auquel il est rattaché le cas échéant et, pour les contrôleurs non rattachés, à l'organisme technique central.
 
 4.1.3. Le non-respect des prescriptions relatives au maintien de qualification pour les véhicules de transport de marchandises prévues à l'annexe IV.
 
 Dans ces cas, l'annulation de l'agrément est prononcée sur demande du bénéficiaire de l'agrément, du centre de rattachement ou du réseau de rattachement.
 
-4.2. L'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées aux articles 19 et 19-1 si les exigences d'informations prévues au paragraphe 4. 1 ne sont pas respectées.
+4.2. Le contrôleur et son centre de rattachement signalent à la préfecture le non-respect :
+
+- des conditions posées lors de la délivrance de l'agrément ;
+
+- des règles fixant l'exercice de l'activité du contrôleur ;
+
+- des prescriptions relatives aux maintiens de qualification.
+
+Dans les cas de non-respect précités, l'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées aux articles 25 et 25-1, que le non-respect ait été ou non signalé par le contrôleur, son centre de rattachement ou son réseau éventuel.
 
 4.3. Le contrôleur et son centre de rattachement signalent à la préfecture les modifications suivantes :
 
@@ -82,23 +94,25 @@ A défaut, l'attestation visée par l'ancien centre est remplacée par une copie
 
 Chapitre II
 
-Centre de contrôle rattaché à un réseau
+Centre de contrôle exploité par un réseau
 
 I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête.
 
-2. Une attestation du réseau de contrôle, suivant le modèle de l'appendice 5 de la présente annexe, certifiant que les installations ont fait l'objet d'un audit favorable (avec indication de la date et de la référence du rapport) et que le dossier est conforme aux prescriptions du présent chapitre, et une copie du rapport d'audit ;
+2. Une attestation du réseau de contrôle, suivant le modèle de l'appendice 5 de la présente annexe, certifiant que les installations ont fait l'objet d'un audit initial favorable (avec indication de la date et de la référence du rapport) et que le dossier est conforme aux prescriptions du présent chapitre, et une copie du rapport de l'audit initial ;
 
-3. L'engagement visé au I de l'article R. 323-14 du code de la route comprenant notamment :
+3. Le cahier des charges visé au I de l'article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 7 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
+a) Une description de l'organisation et des moyens matériels, y compris la liste des contrôleurs demandant le rattachement à ce centre, suivant le modèle de l'appendice 7 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
 
 b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe, d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
 
 4. La copie de la notification d'agrément du réseau pour le contrôle technique des véhicules lourds.
 
 5. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté ou un récépissé délivré par l'organisme accréditeur indiquant que la demande d'intégration de l'installation dans le périmètre d'accréditation du réseau a été déposée.
+
+6. L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 II. - Demande d'agrément
 
@@ -152,9 +166,9 @@ S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en co
 
 3. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 22 du présent arrêté attestant que le centre a déposé, en vue de son accréditation, son système qualité complet et conforme à la norme NF EN ISO/CEI 17020 : 2005.
 
-4. L'engagement visé au I de l'article R. 323-14 du code de la route comprenant notamment :
+4. Le cahier des charges visé au I de l'article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 7 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
+a) Une description de l'organisation et des moyens matériels, y compris la liste des contrôleurs demandant le rattachement à ce centre, suivant le modèle de l'appendice 7 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
 
 b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe :
 
@@ -168,11 +182,13 @@ c) Les procédures prévues au paragraphe 1.2 de l'annexe V du présent arrêté
 
 5. Les références techniques permettant d'apprécier l'expérience du demandeur dans le domaine du contrôle technique.
 
-6. Le rapport d'audit favorable établi par un organisme agréé par le ministère chargé des transports.
+6. Le rapport d'audit initial favorable établi par un organisme agréé par le ministre chargé des transports.
 
 7. L'avis de l'organisme technique central suivant le modèle de l'appendice 8 de la présente annexe.
 
 8. L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 37 du présent arrêté.
+
+9. L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 II. - Demande d'agrément
 
@@ -206,67 +222,29 @@ Chapitre IV
 
 Installation auxiliaire
 
-I. - Composition du dossier
-
-1. Une demande d'agrément motivée, sur papier à en-tête du réseau de contrôle agréé.
-
-2. Une copie de la convention passée entre le réseau de contrôle et l'exploitant de l'établissement qui abrite l'installation auxiliaire, comportant notamment :
-
-- les modalités de la mise à disposition des installations à titre onéreux ;
-
-- l'engagement par le réseau de la prise en charge de la réalisation et de la facturation des visites techniques effectuées dans l'installation auxiliaire ;
-
-- l'engagement des deux parties de faciliter la mission des agents désignés par le ministre chargé des transports pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
-
-3. Le rapport d'audit favorable et l'attestation du réseau de contrôle suivant le modèle de l'appendice 5 de la présente annexe.
-
-4. L'engagement visé au II de l'article R. 323-14 du code de la route, comprenant notamment :
-
-a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 9 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
-
-b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe, d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
-
-5. Les justificatifs permettant d'apprécier que l'installation répond aux besoins des usagers ou assure une meilleure couverture géographique ou réduit les déplacements imposés aux véhicules lourds.
-
-6. L'avis de l'organisme technique central suivant le modèle de l'appendice 10 de la présente annexe.
-
-7. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté ou un récépissé délivré par l'organisme accréditeur indiquant que la demande d'intégration de l'installation dans le périmètre d'accréditation du réseau a été déposée.
-
-8. Dans le cas d'une demande de renouvellement d'agrément :
-
-a) Les éléments permettant d'apprécier que l'installation répond aux besoins des usagers, assure une meilleure couverture géographique ou réduit les déplacements imposés aux véhicules lourds ;
-
-b) Un bilan d'activité sur les quatre dernières années permettant d'apprécier l'objectivité et la qualité des contrôles techniques effectués.
-
-c. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté.
-
-II. - Demande d'agrément
-
-L'ensemble du dossier est transmis en trois exemplaires à la préfecture du lieu d'implantation de l'installation auxiliaire.
-
-III. - Décision d'agrément
-
-La décision relative à l'agrément de l'installation de contrôle est notifiée par la préfecture conformément aux dispositions de l'article 27 du présent arrêté.
-
 IV. - Modifications du dossier d'agrément
 
-4.1. Le réseau signale à la préfecture les modifications suivantes :
+4.1.1. Le réseau signale au préfet la cessation de l'exploitation de l'installation ; dans ce cas, le préfet prononce l'annulation de l'agrément de l'installation auxiliaire. La décision d'annulation d'agrément est notifiée simultanément à l'exploitant de l'établissement abritant l'installation auxiliaire, au réseau et à l'organisme technique central.
 
-4.1.1. La cessation d'activité ;
+4.1.2. Dans le cas d'un changement d'exploitant de l'établissement abritant l'installation auxiliaire ou de toute autre modification du dossier d'agrément, le réseau en informe le préfet et démontre que les circonstances locales justifient le maintien de cet agrément car l'installation permet d'assurer une meilleure couverture géographique et répond aux besoins des usagers.
 
-4.1.2. Le changement d'exploitant de l'établissement abritant l'installation auxiliaire.
+Il fournit, en outre, un dossier comprenant les éléments suivants :
 
-Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément de l'installation auxiliaire. Celle-ci est également prononcée sur demande du réseau ou lorsque le préfet constate que l'un des cas visés ci-dessus est manifestement rempli et que le bénéficiaire de l'agrément ne l'en a pas informé.
+- une justification de l'existence légale, de moins de trois mois, de la personne qui exploite l'établissement qui abrite l'installation auxiliaire s'il s'agit d'une personne morale ;
 
-La décision d'annulation d'agrément est notifiée simultanément au réseau et à l'organisme technique central.
+- une copie de la convention passée entre le réseau de contrôle et l'exploitant de l'établissement qui abrite l'installation auxiliaire ;
+
+- une copie d'un rapport d'audit datant de moins de six mois ;
+
+- la description de l'organisation et des moyens matériels.
+
+La décision préfectorale de maintien ou non de l'agrément est notifiée, après avis de l'organisme technique central, simultanément au réseau demandeur, à l'exploitant de l'établissement abritant l'installation auxiliaire et à l'organisme technique central.
 
 4.2. Le réseau signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement de l'installation ou des prescriptions qui leur sont imposées.
 
 Dans ce cas, l'agrément de l'installation auxiliaire peut être suspendu ou retiré dans les conditions fixées aux articles 30 et 30-1.
 
-4.3. Le réseau signale à la préfecture toute modification des installations par rapport au descriptif figurant dans le dossier d'agrément.
-
-La modification ci-dessus affectant le plan de situation ou le plan de masse nécessite, en outre, la transmission de l'attestation d'audit du réseau favorable suite aux travaux effectués.
+.
 
 Chapitre V
 
@@ -280,15 +258,15 @@ I. - Composition du dossier
 
 3. Un exemplaire des statuts ainsi qu'une note de présentation explicative faisant apparaître l'expérience technique, la surface financière, la composition du partenariat, permettant d'apprécier la capacité d'investissement et de développement du réseau pour aboutir à la mise en place d'une organisation nationale capable de maîtriser la gestion du contrôle technique des véhicules sur l'ensemble du territoire.
 
-4.L'engagement visé à l'article R. 323-9 du code de la route comprenant notamment :
+4. L'engagement visé à l'article R. 323-9 du code de la route comprenant notamment :
 
 a) La description et la présentation générale du réseau ;
 
-b) La description détaillée de l'organisation de la structure du réseau de contrôle (organigramme, nom des personnes responsables, moyens en personnel...) ;
+b) La description détaillée de l'organisation de la structure du réseau de contrôle (organigramme, nom des personnes responsables, moyens en personnel, manuel qualité...).
 
 c) Description des moyens techniques ;
 
-d) Le protocole établi avec l'organisme technique central, conformément à l'article 39 du présent arrêté ;
+d) Le protocole établi par l'organisme technique central, conformément à l'article 39 du présent arrêté ;
 
 e) L'engagement du demandeur :
 
@@ -297,6 +275,8 @@ e) L'engagement du demandeur :
 - de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
 
 - de signer la convention d'assistance technique prévue au point d de l'article 37 du présent arrêté ;
+
+- d'appliquer les évolutions des protocoles informatiques prévus aux points b et c de l'article 38 du présent arrêté, établis par l'organisme technique central ;
 
 f) La liste des installations de contrôle agréées exploitées par le réseau de contrôle (cf. paragraphe II ci-dessous) ;
 
@@ -448,7 +428,7 @@ Adresse :
 
 N° d'agrément du centre de contrôle des véhicules lourds de rattachement :
 
-- Atteste avoir vérifier que les renseignements portés sur le dossiers de demande d'agrément sont conformes ;
+- Atteste avoir vérifié que les renseignements portés sur le dossier de demande d'agrément sont conformes ;
 
 - Atteste que l'ensemble des pièces justificatives relatives à la qualification et à l'expérience professionnelle sont à la disposition des services chargés de la surveillance des installations au niveau du centre de rattachement.
 
@@ -587,7 +567,7 @@ Je déclare (pour les centres non rattachés à un réseau) :
 
 - que le centre de contrôle est conforme aux exigences spécifiées dans l'appendice 1 de l'annexe III de l'arrêté relatif au contrôle technique des véhicules lourds et à respecter l'ensemble des exigences qui y sont mentionnées ;
 
-- avoir pris connaissance du protocole informatique établi avec l'Organisme Technique Central conformément à l'article 39 de l'arrêté relatif au contrôle technique des véhicules lourds. Je m'engage à le mettre en œuvre et à suivre ses évolutions ;
+- avoir pris connaissance du protocole informatique établi avec l'Organisme technique central conformément au point b de l'article 38 de l'arrêté relatif au contrôle technique des véhicules lourds. Je m'engage à le mettre en œuvre et à suivre ses évolutions.
 
 A ..............................., le ..................................
 
@@ -619,9 +599,11 @@ Numéro de téléphone :
 
 Bâtiments
 
-Surface totale de l'emprise immobilière : .................................................
+Surface totale de l'emprise immobilière : .........................................................
 
-Accès à l'installation de contrôle et aux parking :
+Surface de l'emprise immobilière réservée à l'activité poids lourds : ................
+
+Accès à l'installation de contrôle et aux parkings :
 
 - Hauteur :
 
