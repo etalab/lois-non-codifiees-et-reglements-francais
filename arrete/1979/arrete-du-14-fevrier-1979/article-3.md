@@ -10,13 +10,13 @@ c) La participation des organismes collecteurs mentionnés à l'article R. 313-9
 
 Pour chaque exercice le montant maximal du prélèvement correspondant au c ci-dessus est déterminé déterminé en appliquant aux sommes recueillies au cours de l'exercice précédent les pourcentages ci-après :
 
-1, 5 p. 100 pour la tranche des sommes recueillies égale ou inférieure à 3 810 000 euros, ou 30 000 euros ;
+1,5 p. 100 pour la tranche des sommes recueillies égale ou inférieure à 3 810 000 euros, ou 30 000 euros ;
 
 1 p. 100 pour la tranche des sommes recueillies comprise entre 3 810 000 euros et 7 720 000 euros ;
 
-0, 5 p. 100 pour la tranche des sommes recueillies comprise entre 7 720 000 euros et 15 440 000 euros ;
+0,5 p. 100 pour la tranche des sommes recueillies comprise entre 7 720 000 euros et 15 440 000 euros ;
 
-0, 2 p. 100 pour la tranche des sommes recueillies comprise entre 15 440 000 euros et 23 160 000 euros ;
+0,2 p. 100 pour la tranche des sommes recueillies comprise entre 15 440 000 euros et 23 160 000 euros ;
 
 d) Des dépenses de gestion de l'assistance logement des salariés d'entreprises assujetties à la participation des employeurs à l'effort de construction en difficulté dans leur parcours résidentiel, supportées par les organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), dans la limite de 400 euros par engagement réciproque signé par l'organisme et le salarié bénéficiaire. Ces dépenses comprennent, le cas échéant, la couverture des dépenses mentionnées au a et au b de l'article 3 du présent arrêté et peuvent être assimilées à celles qui sont mentionnées au premier alinéa de l'article 4-2 dans la mesure où la limite de 2 % fixée au troisième alinéa du même article est respectée ;
 
@@ -24,4 +24,12 @@ e) Des dépenses de gestion supportées par les organismes collecteurs agréés 
 
 Ces dépenses portent sur les dossiers attribués par l'association pour l'accès aux garanties locatives mentionnées à l'article L. 313-33 suite à un impayé de loyer donnant lieu à une analyse de la situation sociale du locataire et, le cas échéant, à la signature d'un plan d'apurement amiable ou à la mise en place d'un protocole social en cas de capacité contributive insuffisante du locataire, ainsi qu'un suivi du dossier en cas d'incident de paiement sur le plan d'apurement. Elles sont prises en compte sous réserve d'une certification du service fait par l'Association pour l'accès aux garanties locatives.
 
-Ces dépenses peuvent correspondre à des coûts internes ou à des dépenses externalisées.A compter du 1er janvier 2011, les organismes auprès desquels l'externalisation est réalisée doivent être agréés au titre des activités d'ingénierie sociale, technique et financière mentionnées au 2° de l'article L. 365-1 du même code. Lorsque les dépenses externalisées donnent lieu à un prélèvement au titre du présente, elles ne sont pas prises en compte au titre de l'emploi défini au III du R. 313-19-3 du même code.
+Ces dépenses peuvent correspondre à des coûts internes ou à des dépenses externalisées. A compter du 1er janvier 2011, les organismes auprès desquels l'externalisation est réalisée doivent être agréés au titre des activités d'ingénierie sociale, technique et financière mentionnées au 2° de l'article L. 365-1 du même code. Lorsque les dépenses externalisées donnent lieu à un prélèvement au titre du présente, elles ne sont pas prises en compte au titre de l'emploi défini au III du R. 313-19-3 du même code.
+
+f) Des dépenses de gestion supportées par les organismes collecteurs agréés mentionnés au deuxième alinéa de l'article L. 313-18 du code de la construction et de l'habitation dans le cadre de la mise en œuvre de l'obligation de mobilisation au titre du droit au logement opposable qui leur incombe en application de l'article L. 313-26-2 du même code ou de la mise en œuvre, pour le compte de l'Association foncière logement mentionnée à l'article L. 313-34 du même code, de l'obligation qui incombe à cette association en application de l'article L. 313-35 du même code, dans les limites déterminées ci-après :
+
+-lorsque ces dépenses portent sur les dossiers de salariés ou demandeurs d'emploi reconnus comme prioritaires et auxquels un logement doit être attribué en urgence en application de l'article L. 441-2-3 du même code, ayant fait l'objet d'une décision favorable de la commission d'attribution de l'organisme bailleur ou de l'organisme gestionnaire, la limite est fixée à 350 euros par dossier ;
+
+-lorsque ces dépenses portent sur les dossiers de salariés ou demandeurs d'emploi reconnus comme prioritaires et auxquels un logement doit être attribué en urgence en application de l'article L. 441-2-3 du même code, ayant fait l'objet d'une décision défavorable de la commission d'attribution de l'organisme bailleur ou de l'organisme gestionnaire, la limite est fixée à 200 euros par dossier.
+
+Ces dépenses correspondent à l'ensemble des coûts supportés par l'organisme collecteur agréé mentionné au deuxième alinéa de l'article L. 313-18 du même code pour accompagner le demandeur en vue de la constitution du dossier présenté en commission d'attribution de l'organisme bailleur ou présenté à l'organisme gestionnaire pour le compte de l'Association foncière logement, jusqu'à ce que la décision soit rendue. Elles incluent, le cas échéant, la constitution par l'organisme précité du dossier du demandeur faisant l'objet d'un examen par ladite commission ou ledit gestionnaire.
