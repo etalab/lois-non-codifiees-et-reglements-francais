@@ -6,5 +6,4 @@
 - [Section 3 : Sennes coulissantes.](section-3)
 - [Section 4 : Gangui.](section-4)
 - [Section 5 : Dragues.](section-5)
-- [Section 6 : Mesures d'ordre et de précaution.](section-6)
 - [Article 27](article-27.md)
