@@ -1,13 +1,31 @@
 # Article 21
 
-Les caractéristiques de la drague que les titulaires d'une licence drague sont autorisés à détenir à bord sont les suivantes :
+1. La drague à coquillages, aussi appelée "drague-barre" doit respecter les caractéristiques suivantes :
 
-- partie inférieure de l'armature métallique de la drague constituée exclusivement d'une barre plate non coupante et sans dents, d'une longueur inférieure ou égale à 4 mètres ;
+a) La partie inférieure de l'armature métallique est exclusivement constituée d'une barre plate non coupante sans dent et sans patin ou volet plongeur ;
 
-- poids total de l'engin, avec sa patte d'oie, inférieur ou égal à 70 kilogrammes.
+b) Les systèmes de dragues hydrauliques sont interdits ;
 
-Dans les cas particuliers de dragues utilisées sur les gisements d'huîtres, les caractéristiques de la drague sont les suivantes :
+c) L'armature métallique de l'engin, y compris la patte d'oie, ne doit pas excéder 90 kilogrammes ;
 
-- partie inférieure de l'armature métallique de la drague constituée exclusivement d'une barre plate non coupante et sans dents, d'une longueur inférieure ou égale à 1,25 mètre dans les lagunes, étangs salés et zones portuaires et à 2,50 mètres en mer ;
+d) Le maillage minimal est de 55 millimètres ;
 
-- poids total de l'engin, avec sa patte d'oie, inférieur ou égal à 25 kilogrammes dans les lagunes, étangs salés et zones portuaires et à 50 kilogrammes pour les navires exerçant leur activité en mer.
+e) La longueur maximale de la barre est de 3 mètres ;
+
+La présence à bord d'autres engins de pêche que la drague à coquillages est interdite.
+
+2. La petite drague à coquillage doit respecter les caractéristiques suivantes :
+
+a) La partie inférieure de l'armature métallique est exclusivement constituée d'une barre plate non coupante sans dent et sans patin ou volet plongeur ;
+
+b) Les systèmes de dragues hydrauliques sont interdits ;
+
+c) Avoir une longueur maximale de 1,25 mètre ;
+
+d) L'armature métallique de l'engin, y compris la patte d'oie, ne doit pas excéder 35 kg ;
+
+e) Le maillage minimal est de 75 mm ;
+
+f) L'utilisation d'une seule drague à bord ;
+
+La présence à bord d'autres engins de pêche que la petite drague à coquillages est interdite.

@@ -7,5 +7,4 @@
 - [Section 4 : Gangui.](section-4)
 - [Section 5 : Dragues.](section-5)
 - [Section 6 : Mesures d'ordre et de précaution.](section-6)
-- [Section 7 : Dispositions transitoires.](section-7)
 - [Article 27](article-27.md)
