@@ -18,7 +18,6 @@
 - [Article Annexe 8 liste 2 (suite 1)](article-annexe-8-liste-2-suite-1.md)
 - [Article Annexe 8 liste 2 (suite 2)](article-annexe-8-liste-2-suite-2.md)
 - [Article Annexe 8 liste 3](article-annexe-8-liste-3.md)
-- [Article Annexe 9](article-annexe-9.md)
 - [Article Annexe 10](article-annexe-10.md)
 - [Article Annexe 11](article-annexe-11.md)
 - [Article Annexe 12](article-annexe-12.md)

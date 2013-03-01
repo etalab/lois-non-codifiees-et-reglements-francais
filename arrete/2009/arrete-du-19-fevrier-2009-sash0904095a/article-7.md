@@ -112,39 +112,37 @@ o) Lorsque les prestations de séjour et de soins délivrées au patient donnent
 
 ― du GHS 4968 dans les autres cas.
 
-p) (supprimé)
-
-q) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'interventions pour infections ostéoarticulaires, la prise en charge du patient donne lieu à facturation de l'un des GHS suivants :
+p) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'interventions pour infections ostéoarticulaires, la prise en charge du patient donne lieu à facturation de l'un des GHS suivants :
 
 ― lorsque le patient a recours à un centre de référence ou un centre correspondant pour la prise en charge d'une infection ostéoarticulaire complexe établie après une réunion de concertation pluridisciplinaire, la production du GHM 08C561, 08C562, 08C563 ou 08C564 donne respectivement lieu à facturation du GHS 2922, 2923, 2924 ou 2925 ;
 
 ― dans les autres cas, la production du GHM 08C561, 08C562, 08C563 ou 08C564 donne respectivement lieu à facturation du GHS 2918, 2919, 2920 ou 2921.
 
-r) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'allogreffe de cornée, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+q) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'allogreffe de cornée, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
 -dès lors que l'acte de conjonctivokératoplastie par greffe de membrane amniotique humaine (BDMA006) a été réalisé, la production du GHM 02C091, 02C092, 02C093, 02C094 ou 02C09J donne respectivement lieu à facturation du GHS 460, 461, 462, 463 ou 464 ;
 
 -dans les autres cas, la production du GHM 02C091, 02C092, 02C093, 02C094 ou 02C09J donne respectivement lieu à facturation du GHS 440, 441, 442, 443 ou 444.
 
-s) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de reconstruction des seins, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+r) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de reconstruction des seins, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
 -dès lors que l'un des actes figurant sur la liste fixée en annexe 6 a été réalisé, la production du GHM 09C111, 09C112, 09C113 ou 09C114 donne respectivement lieu à facturation du GHS 3362, 3363, 3364 ou 3365 ;
 
 -dans les autres cas, la production du GHM 09C111, 09C112, 09C113 ou 09C114 donne respectivement lieu à facturation du GHS 3358, 3359, 3360 ou 3361.
 
-t) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de chirurgie de remplacement valvulaire avec circulation extracorporelle, avec ou sans cathétérisme cardiaque ou coronarographie, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+s) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de chirurgie de remplacement valvulaire avec circulation extracorporelle, avec ou sans cathétérisme cardiaque ou coronarographie, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
 -dès lors que l'acte de remplacement de la valve aortique et de la valve atrioventriculaire gauche par prothèse mécanique ou par bioprothèse avec armature, par thoracotomie avec CEC (DBKA009) a été réalisé, la production du GHM 05C021, 05C022, 05C023, 05C024, 05C031, 05C032, 05C033 ou 05C034 donne respectivement lieu à facturation du GHS 1524, 1525, 1526, 1527, 1528, 1529, 1530 ou 1531 ;
 
 -dans les autres cas, la production du GHM 05C021, 05C022, 05C023, 05C024, 05C031, 05C032, 05C033 ou 05C034 donne respectivement lieu à facturation du GHS 1430, 1431, 1432, 1433, 1434, 1435, 1436 ou 1437.
 
-u) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+t) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
-- dès lors que l'acte de prélèvement d'un rein sur un donneur vivant, par abord direct (JAFA013) ou l'acte de prélèvement d'un rein sur un donneur vivant, par cœlioscopie ou par rétropéritonéoscopie (JAFC003) a été réalisé, la production du GHM 11C031, 11C032, 11C033 ou 11C034 donne respectivement lieu à facturation du GHS 4149, 4150, 4151 ou 4152 ;
+- dès lors que l'acte de prélèvement d'un rein sur un donneur vivant, par cœlioscopie ou par rétropéritonéoscopie (JAFC003) a été réalisé, la production du GHM 11C031, 11C032, 11C033 ou 11C034 donne respectivement lieu à facturation du GHS 4149, 4150, 4151 ou 4152 ;
 
 - dans les autres cas, la production du GHM 11C031, 11C032, 11C033 ou 11C034 donne respectivement lieu à facturation du GHS 4116, 4117, 4118 ou 4119.
 
-v) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production du GHM de prélèvements d'ovocytes, en ambulatoire (13C16J), la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+u) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production du GHM de prélèvements d'ovocytes, en ambulatoire (13C16J), la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
 - le GHS 4989 lorsque la patiente est prise en charge dans le cadre d'un don d'ovocyte (Z52.80) ;
 
@@ -212,13 +210,9 @@ c) Un supplément dénommé "réanimation néonatale" (NN3) pour chaque journée
 
 Lorsque l'une de ces conditions n'est pas remplie, la prise en charge du patient donne lieu à facturation de consultations ou actes mentionnés à l'article L. 162-26 du code de la sécurité sociale ou réalisés en médecine de ville.
 
-10° Jusqu'en 2013, les établissements de santé privés mentionnés aux d et e de l'article L. 162-22-6 du code de la sécurité sociale facturent les forfaits D couvrant les prestations de séjour et de soins afférentes au traitement de l'insuffisance rénale chronique figurant en annexe 9.
+10° Lorsque la prise en charge de la patiente donne lieu à la production de l'un des GHM figurant sur la liste 1 fixée à l'annexe 12 et que le diagnostic établi correspond à un des diagnostics figurant sur la liste 2 de la même annexe, un supplément journalier dénommé "ante partum" (ANT) est facturé pour chaque journée de la période de l'ante partum, à l'exception des deux jours qui précèdent la date de l'accouchement.
 
-L'un des forfaits figurant en annexe 9 peut être facturé en sus du GHS couvrant les prestations de séjour et de soins délivrées au patient, à l'exception des cas où ce GHS est l'un de ceux figurant sur la liste 2 fixée à l'annexe 5, lorsqu'un des actes de traitement de l'insuffisance rénale chronique mentionnés sur la liste 1 figurant en annexe 5 est réalisé.
-
-11° Lorsque la prise en charge de la patiente donne lieu à la production de l'un des GHM figurant sur la liste 1 fixée à l'annexe 12 et que le diagnostic établi correspond à un des diagnostics figurant sur la liste 2 de la même annexe, un supplément journalier dénommé "ante partum" (ANT) est facturé pour chaque journée de la période de l'ante partum, à l'exception des deux jours qui précèdent la date de l'accouchement.
-
-12° La prise en charge d'un patient de moins de 18 ans pour une séance de radiothérapie donne lieu à la facturation d'un supplément au séjour dénommé "radiothérapie pédiatrique" (RAP) en sus d'un des GHS couvrant les prestations de séjour et de soins correspondant à une séance de radiothérapie de la catégorie majeure 28 définie à l'annexe I de l'arrêté du 22 février 2008 susvisé.
+11° La prise en charge d'un patient de moins de 18 ans pour une séance de radiothérapie donne lieu à la facturation d'un supplément au séjour dénommé "radiothérapie pédiatrique" (RAP) en sus d'un des GHS couvrant les prestations de séjour et de soins correspondant à une séance de radiothérapie de la catégorie majeure 28 définie à l'annexe I de l'arrêté du 22 février 2008 susvisé.
 
 II.-Un forfait "groupe homogène de tarifs" (GHT) est facturé pour chaque journée où le patient est hospitalisé à son domicile. Lorsque le patient est hospitalisé moins d'une journée en dehors de son domicile, un forfait GHT est facturé. Ce forfait peut être facturé en sus d'un GHS correspondant à un GHM pour lequel la date de sortie est égale à la date d'entrée ou à un GHM correspondant à la catégorie majeure 28 définie à l'annexe I de l'arrêté du 22 février 2008 précité, ou d'un SE.
 

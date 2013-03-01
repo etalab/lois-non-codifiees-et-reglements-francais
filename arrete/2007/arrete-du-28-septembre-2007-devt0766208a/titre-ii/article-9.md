@@ -14,17 +14,17 @@ d) Une photocopie de la décision écrite nommant responsable de formation un de
 
 9.3. Le dossier de demande d'agrément à adresser au service instructeur comprend en ce qui concerne l'établissement :
 
--une photocopie de l'imprimé K bis ou d'un extrait d'inscription à la chambre de métiers ou de commerce de moins d'un an ;
+- une photocopie de l'imprimé K bis ou d'un extrait d'inscription à la chambre de métiers ou de commerce de moins d'un an ;
 
--pour les associations, une photocopie de la déclaration en préfecture de l'association et une photocopie de ses statuts ;
+- pour les associations, une photocopie de la déclaration en préfecture de l'association et une photocopie de ses statuts ;
 
--un justificatif de l'occupation des locaux de l'établissement. Si l'établissement dispose de locaux de formation situés à des adresses différentes, il doit demander autant d'agréments. En cas de bail temporaire, non reconductible, l'agrément est suspendu automatiquement dès que celui-ci vient à échéance ;
+- un justificatif de l'occupation des locaux de l'établissement. Si l'établissement dispose de locaux de formation situés à des adresses différentes, il doit demander autant d'agréments. En cas de bail temporaire, non reconductible, l'agrément est suspendu automatiquement dès que celui-ci vient à échéance ;
 
--une photocopie du titre de navigation du ou des bateaux de formation utilisés. Les bateaux peuvent être soit enregistrés pour la mer, soit pour les eaux intérieures, en fonction de la réglementation du plan d'eau utilisé ; lorsque ce ou ces bateaux ne sont pas propriété de l'établissement, une photocopie du contrat de location du ou des bateaux doit être fournie. Dans ce cas, l'agrément est automatiquement suspendu dès que le ou les contrats viennent à échéance ;
+- une photocopie du titre de navigation du ou des bateaux de formation utilisés. L'établissement doit disposer au moins d'un bateau de manière permanente et exclusive. Les bateaux peuvent être soit enregistrés pour la mer, soit pour les eaux intérieures, en fonction de la réglementation du plan d'eau utilisé ; lorsque ce ou ces bateaux ne sont pas propriété de l'établissement, une photocopie du contrat de location du ou des bateaux doit être fournie. Dans ce cas, l'agrément est automatiquement suspendu dès que le ou les contrats viennent à échéance ;
 
--la description du plan d'eau utilisé pour la formation pratique et sa matérialisation sur une carte maritime ou fluviale ;
+- la description du plan d'eau utilisé pour la formation pratique et sa matérialisation sur une carte maritime ou fluviale ;
 
--une photocopie des autorisations d'enseigner des formateurs de l'établissement et la justification de leur lien social ou de subordination avec l'établissement.
+- une photocopie des autorisations d'enseigner des formateurs de l'établissement et la justification de leur lien social ou de subordination avec l'établissement.
 
 9.4. Lorsque l'ensemble des conditions requises est rempli, une décision d'agrément dont le modèle figure en annexe IV du présent arrêté est délivrée à l'établissement.
 

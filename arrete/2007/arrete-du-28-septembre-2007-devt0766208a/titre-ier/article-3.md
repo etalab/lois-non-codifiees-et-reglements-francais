@@ -16,15 +16,15 @@ Ces objectifs sont détaillés dans un livret d'apprentissage et repris à l'ann
 
 La durée de formation pratique ne peut être inférieure à trois heures trente minutes ainsi réparties :
 
-- une heure trente minutes qui peut être collective pour les points a, b et c du présent article ;
+-une heure trente minutes qui peut être collective pour les points a, b et c du présent article ;
 
-- deux heures de conduite effective par candidat sur le bateau de formation pour les points d et e du présent article ; le nombre d'élèves embarqués ne doit pas dépasser quatre.
+-deux heures de conduite effective par candidat sur le bateau de formation pour les points d et e du présent article ; le nombre d'élèves embarqués ne doit pas dépasser quatre.
 
 Le formateur valide au fur et à mesure les compétences acquises par l'élève au cours de la formation. Lorsque l'ensemble des compétences a été validé, la formation est réputée effectuée et l'établissement de formation agréé délivre à l'élève une attestation de réussite à la formation. Cette attestation ne doit pas être délivrée avant la réussite à l'épreuve théorique. Les litiges éventuels entre l'établissement de formation agréé et l'élève en matière de validation des connaissances pratiques sont examinés par le service instructeur.
 
-Pendant la durée de la formation pratique embarquée, le port par l'élève d'un gilet de sauvetage ou d'une brassière conforme aux exigences du règlement annexé à l'arrêté du 23 novembre 1987 susvisé est obligatoire.
+Pendant la durée de la formation pratique, toute personne embarquée doit porter un équipement individuel de flottabilité adapté à la zone de navigation.
 
-(1) L'établissement de formation tient à jour un registre de bord pour chaque bateau de formation utilisé. Ce registre, paginé, daté et composé de feuillets non détachables est visé par le service instructeur préalablement à sa première utilisation. Il doit être à bord du bateau pendant la durée de la formation. L'établissement conserve ce registre à la disposition de l'administration pendant cinq années après la date de fin d'utilisation.
+L'établissement de formation tient à jour un registre de bord pour chaque bateau de formation utilisé. Ce registre, paginé, daté et composé de feuillets non détachables est visé par le service instructeur préalablement à sa première utilisation. Il doit être à bord du bateau pendant la durée de la formation. L'établissement conserve ce registre à la disposition de l'administration pendant cinq années après la date de fin d'utilisation.
 
 Les informations devant obligatoirement figurer sur ce registre sont les suivantes :
 
