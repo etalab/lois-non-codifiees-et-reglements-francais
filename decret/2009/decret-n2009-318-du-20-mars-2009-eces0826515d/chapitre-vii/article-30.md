@@ -1,3 +1,0 @@
-# Article 30
-
-Les dispositions du présent décret entrent en vigueur le premier jour du deuxième mois suivant celui de sa publication. Les procédures et travaux en cours à cette date au sein du Conseil national de l'information statistique, du comité du contentieux des enquêtes statistiques obligatoires, du comité du label, de la Commission nationale des nomenclatures économiques et sociales, de la Commission nationale d'évaluation du recensement de la population et des commissions thématiques et groupes de travail ainsi que devant le comité du secret statistique se poursuivent dans le cadre fixé par les dispositions du présent décret.
