@@ -10,6 +10,4 @@ L'exploitation doit s'effectuer selon les règles suivantes :
 
 - disposer les déchets de manière à assurer la stabilité de la masse des déchets et des structures associées et, en particulier, à éviter les glissements.
 
-- respecter les prescriptions de l'annexe III.
-
-L'exploitation du site de stockage est confiée à une personne physique nommément désignée et techniquement compétente. La formation professionnelle et technique du personnel est assurée par l'exploitant.
+L'exploitation du site de stockage respecte les prescriptions de l'annexe III et est confiée à une personne physique nommément désignée et techniquement compétente. La formation professionnelle et technique du personnel est assurée par l'exploitant.

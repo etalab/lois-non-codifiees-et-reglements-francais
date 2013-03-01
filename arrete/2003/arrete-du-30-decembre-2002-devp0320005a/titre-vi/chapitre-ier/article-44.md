@@ -12,8 +12,8 @@ L'exploitant vérifie également que le chargement est accompagné d'un borderea
 
 Afin de limiter pour les agents de l'installation de stockage le risque d'inhalation de l'amiante, l'exploitant n'est pas tenu de mettre en oeuvre les prescriptions du chapitre Ier du titre V et du chapitre III du titre Ier, sous réserve que les prescriptions des deux alinéas précédents soient respectées.
 
-Pour un chargement donné, l'exploitant du centre de stockage doit pouvoir donner le lieu précis du stockage et les numéros des scellés.
+Pour un chargement donné, l'exploitant de l'installation de stockage doit pouvoir donner le lieu précis du stockage et les numéros des scellés.
 
 Lorsque le déchet est définitivement accepté sur le site de stockage, un accusé de réception écrit est délivré au producteur ou détenteur du déchet.
 
-En cas de non-présentation de l'exemplaire original d'un des documents de suivi ou de non-conformité du déchet reçu avec le déchet annoncé, le chargement est refusé. L'exploitant du centre de stockage adresse dans les meilleurs délais, et au plus tard 12 heures après le refus, une copie de la notification motivée du refus de chargement. Cette notification est à envoyer au préfet du département du centre de stockage, au préfet du département du producteur du déchet, au producteur (ou détenteur) du déchet et, si nécessaire, aux différents intermédiaires notés sur le bordereau de suivi.
+En cas de non-présentation de l'exemplaire original d'un des documents de suivi ou de non-conformité du déchet reçu avec le déchet annoncé, le chargement est refusé. L'exploitant de l'installation de stockage  adresse dans les meilleurs délais, et au plus tard 12 heures après le refus, une copie de la notification motivée du refus de chargement. Cette notification est à envoyer au préfet du département de l'installation de stockage, au préfet du département du producteur du déchet, au producteur (ou détenteur) du déchet et, si nécessaire, aux différents intermédiaires notés sur le bordereau de suivi.

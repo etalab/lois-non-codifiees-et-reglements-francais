@@ -10,7 +10,7 @@ Installation de stockage de déchets dangereux : installation d'élimination de 
 
 ou
 
-- de stockage des déchets avant valorisation ou traitement pour une durée supérieure à trois ans ;
+- de stockage des déchets avant valorisation pour une durée supérieure à trois ans ; ou de stockage de déchets de mercure métallique pour une durée de plus d'un an ;
 
 - à l'exclusion :
 

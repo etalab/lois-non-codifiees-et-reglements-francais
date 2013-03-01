@@ -4,4 +4,4 @@ L'exploitant consigne sur un registre (ou sous forme électronique) tenu à la d
 
 L'exploitant reporte également sur un autre registre (ou sous forme électronique) les résultats de toutes les analyses prévues dans ce présent titre, ainsi que toutes les entrées de déchets sur le site (masse, nature, producteur, transporteur, provenance).
 
-Conformément à l'arrêté du 4 janvier 1985 susvisé, l'exploitant doit transmettre au préfet, chaque trimestre, un récapitulatif des déchets admis et refusés dans son installation de stockage.
+L'exploitant doit transmettre au préfet, chaque trimestre, un récapitulatif des déchets admis et refusés dans son installation de stockage.

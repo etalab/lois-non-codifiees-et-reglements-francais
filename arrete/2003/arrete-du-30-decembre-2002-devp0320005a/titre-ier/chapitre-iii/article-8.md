@@ -1,6 +1,6 @@
 # Article 8
 
-La procédure d'acceptation en centre de stockage pour déchets dangereux comprend trois niveaux de vérification : la caractérisation de base, la vérification de la conformité, la vérification sur place.
+La procédure d'acceptation en installation de stockage de déchets dangereux comprend trois niveaux de vérification : la caractérisation de base, la vérification de la conformité, la vérification sur place.
 
 Le producteur, ou détenteur, du déchet doit en premier lieu faire procéder à la caractérisation de base définie au point 1.1 de l'annexe I.
 

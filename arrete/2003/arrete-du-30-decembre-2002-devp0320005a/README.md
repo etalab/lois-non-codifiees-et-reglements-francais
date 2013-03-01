@@ -9,6 +9,7 @@
 - [TITRE IV : REAMENAGEMENT DU SITE APRES EXPLOITATION.](titre-iv)
 - [TITRE V : VERIFICATION ET SUIVI.](titre-v)
 - [TITRE VI : DECHETS CONTENANT DE L'AMIANTE](titre-vi)
+- [TITRE VI bis : DÉCHETS DE MERCURE MÉTALLIQUE](titre-vi-bis)
 - [TITRE VII : DISPOSITIONS DIVERSES.](titre-vii)
 - [Article 52](article-52.md)
 - [Annexes](annexes)

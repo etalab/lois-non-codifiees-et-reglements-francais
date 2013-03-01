@@ -12,4 +12,6 @@ L'exploitant doit tenir à jour un plan et des coupes de l'installation de stock
 
 - les déchets stockés casier par casier, alvéole par alvéole, couche par couche (provenance, nature, tonnage) ;
 
-- les zones aménagées.
+- les zones aménagées ;
+
+- les zones de stockage temporaire de déchet de mercure métallique, le cas échéant.

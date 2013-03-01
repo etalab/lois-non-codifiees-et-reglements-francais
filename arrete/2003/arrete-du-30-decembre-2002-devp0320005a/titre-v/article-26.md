@@ -8,7 +8,7 @@ Une surveillance performante et fiable de la qualité :
 
 - des déchets reçus,
 
-- des lixiviats produits,
+- des lixiviats produits, à l'exception du stockage temporaire des déchets de mercure métallique,
 
 - de l'exploitation,
 
