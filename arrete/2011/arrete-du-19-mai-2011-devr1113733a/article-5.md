@@ -1,6 +1,6 @@
 # Article 5
 
-Peut bénéficier d'un contrat d'achat aux tarifs définis dans les conditions indiquées à l'article 3 ci-dessus, dans la mesure où elle respecte à la date de signature du contrat d'achat les conditions des décrets du 6 décembre 2000 et du 10 mai 2001 susvisés, une installation mise en service pour la première fois après la date de publication du présent arrêté et dont les éléments principaux (chaudière, moteurs, turbines, alternateur, éléments nécessaires à la production, l'épuration et le stockage du biogaz) n'ont jamais servi à produire d'électricité à des fins d'autoconsommation ou dans le cadre d'un contrat commercial.
+Peut bénéficier d'un contrat d'achat aux tarifs définis dans les conditions indiquées à l'article 3 ci-dessus, dans la mesure où elle respecte à la date de signature du contrat d'achat les conditions des décrets du 6 décembre 2000 et du 10 mai 2001 susvisés, une installation mise en service pour la première fois après la date de publication du présent arrêté et dont les éléments principaux (chaudière, moteurs, turbines, alternateur, éléments nécessaires à la production, l'épuration et le stockage du biogaz) n'ont jamais servi à                  une production de biogaz ou permis la valorisation énergétique d'une production de biogaz, exception faite des éléments de récupération du biogaz dans le cadre d'une production fatale issue d'une installation de stockage de déchets non dangereux.
 
 La date de mise en service de l'installation correspond à la date de mise en service de son raccordement au réseau public.
 

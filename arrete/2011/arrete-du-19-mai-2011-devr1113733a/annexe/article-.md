@@ -30,7 +30,7 @@ Les modalités de contrôle du calcul de Ef sont précisées dans le contrat d'a
 
 III. - Calcul du tarif d'achat
 
-On note Pmax la puissance électrique maximale installée.
+Exception faite du cas mentionné au IX, on note Pmax la puissance électrique maximale installée.
 
 1° A l'exception des installations de stockage de déchets non dangereux, le tarif applicable à E<sub>élec</sub> est égal à T, défini ci-dessous, auquel peuvent s'ajouter les primes Pe et Pr dont les définitions sont données respectivement en IV et V de cette annexe.
 
@@ -39,12 +39,12 @@ On note Pmax la puissance électrique maximale installée.
 <tr>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Pmax</b>
+<b>VALEUR<br clear="none"/>de Pmax</b>
 </p>
 </td>
 <td>
 <p align="center">
-<b>VALEUR<br/>de T [c€/kWh]</b>
+<b>VALEUR<br clear="none"/>de T [c€/kWh]</b>
 </p>
 </td>
 </tr>
@@ -100,12 +100,12 @@ Les valeurs intermédiaires sont déterminées par interpolation linéaire.
 <tr>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Pmax</b>
+<b>VALEUR<br clear="none"/>de Pmax</b>
 </p>
 </td>
 <td>
 <p align="center">
-<b>VALEUR<br/>de TISND [c€/kWh]</b>
+<b>VALEUR<br clear="none"/>de TISND [c€/kWh]</b>
 </p>
 </td>
 </tr>
@@ -139,12 +139,12 @@ Pe est la prime à l'efficacité énergétique et est définie de la façon suiv
 <tr>
 <td>
 <p align="center">
-<b>VALEUR<br/>de V</b>
+<b>VALEUR<br clear="none"/>de V</b>
 </p>
 </td>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Pe [c€/kWh]</b>
+<b>VALEUR<br clear="none"/>de Pe [c€/kWh]</b>
 </p>
 </td>
 </tr>
@@ -178,12 +178,12 @@ Pr est la prime pour le traitement d'effluents d'élevage dont la valeur maximal
 <tr>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Pmax</b>
+<b>VALEUR<br clear="none"/>de Pmax</b>
 </p>
 </td>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Prmax [c€/kWh]</b>
+<b>VALEUR<br clear="none"/>de Prmax [c€/kWh]</b>
 </p>
 </td>
 </tr>
@@ -215,12 +215,12 @@ La valeur de Pr applicable à une installation est définie de la façon suivant
 <tr>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Ef</b>
+<b>VALEUR<br clear="none"/>de Ef</b>
 </p>
 </td>
 <td>
 <p align="center">
-<b>VALEUR<br/>de Pr [c€/kWh]</b>
+<b>VALEUR<br clear="none"/>de Pr [c€/kWh]</b>
 </p>
 </td>
 </tr>
@@ -261,3 +261,27 @@ Si, postérieurement à la deuxième année de contrat, V diminue du fait de la 
 VIII. - Outre-mer
 
 T et T<sub>ISDND</sub> sont majorés de 10 % pour les installations situées dans les départements d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+IX. - Installations de valorisation mixte du biogaz par injection de biométhane dans les réseaux de gaz naturel et production d'électricité
+
+Pour les installations bénéficiant également d'un contrat souscrit en application de l'article L. 446-2 du code de l'énergie, Pmax est défini comme suit :
+
+Vous pouvez consulter la formule dans le JO
+
+n° 50 du 28/02/2013 texte numéro 42 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130228&numTexte=42&pageDebut=03762&pageFin=03762
+
+où :
+
+1° Cinjection est la capacité maximale de production de biométhane de l'installation est exprimée en Nm³/h, dont la valeur est précisée dans le contrat d'achat mentionné à l'article 4 du décret n° 2011-1597 du 21 novembre 2011 relatif aux conditions de contractualisation entre producteurs de biométhane et fournisseurs de gaz naturel ;
+
+2° Pcogénération est la puissance électrique maximale installée de l'installation, exprimée en kW ;
+
+3° pinjection est le taux de pertes de méthane lors du processus d'épuration du biogaz en biométhane et ne faisant pas l'objet d'une valorisation ;
+
+4° cogénération est le rendement électrique moyen du groupe de cogénération, défini comme la quantité brute d'électricité produite à partir d'un volume unitaire de biogaz en entrée de centrale, exprimée en kWh/Nm³, rapportée au pouvoir calorifique supérieur de ce biogaz, exprimé dans la même unité ;
+
+5° PCSbiométhane représente le pouvoir calorifique supérieur du biométhane injecté par l'installation, exprimé en kWh/Nm³. Pour les installations situées en zone H, la valeur de PCSbiométhane est fixée à 10,8 kWh/Nm³. Pour les installations situées en zone B, la valeur de PCSbiométhane est fixée à 10 kWh/Nm³ ;
+
+Pour le calcul de Pmax, le producteur communique à l'acheteur l'ensemble des pièces justificatives nécessaires prévues par le contrat d'achat et s'engage à informer l'acheteur des évolutions de son installation d'injection.
