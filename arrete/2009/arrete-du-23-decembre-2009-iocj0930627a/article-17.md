@@ -6,7 +6,7 @@ I. ― La sous-direction de l'accompagnement du personnel :
 
 2° Instruit les dossiers emportant attributions des décorations, récompenses, sanctions disciplinaires et professionnels relevant du niveau ministériel et contrôle les décisions prises en ces domaines par les échelons subordonnés ;
 
-3° Veille au conseil et à la protection juridiques des personnels et instruit les dossiers contentieux ayant trait au domaine statutaire ;
+3° Veille à la protection juridique des personnels, instruit les dossiers relatifs au contentieux de la fonction militaire ainsi que ceux emportant l'autorisation d'exercer une activité accessoire et conseille les échelons hiérarchiques dans son domaine ;
 
 4° Elabore, propose et met en œuvre la politique de reconversion au sein de la gendarmerie nationale ;
 

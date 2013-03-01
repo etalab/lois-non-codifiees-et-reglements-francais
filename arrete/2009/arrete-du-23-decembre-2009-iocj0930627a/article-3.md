@@ -10,7 +10,7 @@ Le directeur général de la gendarmerie nationale dispose d'un cabinet placé s
 
 Cet officier général a également autorité sur :
 
-1° Le quartier général ;
+1°  Le commandement militaire du site central ;
 
 2° Le centre de renseignement opérationnel de la gendarmerie (CROGEND).
 
