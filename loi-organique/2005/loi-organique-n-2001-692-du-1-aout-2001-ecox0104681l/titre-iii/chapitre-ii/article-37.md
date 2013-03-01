@@ -1,12 +1,14 @@
 # Article 37
 
-I. - La loi de règlement arrête le montant définitif des recettes et des dépenses du budget auquel elle se rapporte, ainsi que le résultat budgétaire qui en découle.
+I A.-La loi de règlement comprend l'article liminaire mentionné à l'article 8 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée.
 
-II. - La loi de règlement arrête le montant définitif des ressources et des charges de trésorerie ayant concouru à la réalisation de l'équilibre financier de l'année correspondante, présenté dans un tableau de financement.
+I.-La loi de règlement arrête le montant définitif des recettes et des dépenses du budget auquel elle se rapporte, ainsi que le résultat budgétaire qui en découle.
 
-III. - La loi de règlement approuve le compte de résultat de l'exercice, établi à partir des ressources et des charges constatées dans les conditions prévues à l'article 30. Elle affecte au bilan le résultat comptable de l'exercice et approuve le bilan après affectation ainsi que ses annexes.
+II.-La loi de règlement arrête le montant définitif des ressources et des charges de trésorerie ayant concouru à la réalisation de l'équilibre financier de l'année correspondante, présenté dans un tableau de financement.
 
-IV. - Le cas échéant, la loi de règlement :
+III.-La loi de règlement approuve le compte de résultat de l'exercice, établi à partir des ressources et des charges constatées dans les conditions prévues à l'article 30. Elle affecte au bilan le résultat comptable de l'exercice et approuve le bilan après affectation ainsi que ses annexes.
+
+IV.-Le cas échéant, la loi de règlement :
 
 1° Ratifie les modifications apportées par décret d'avance aux crédits ouverts par la dernière loi de finances afférente à cette année ;
 
@@ -18,4 +20,4 @@ IV. - Le cas échéant, la loi de règlement :
 
 5° Apure les profits et pertes survenus sur chaque compte spécial.
 
-V. - La loi de règlement peut également comporter toutes dispositions relatives à l'information et au contrôle du Parlement sur la gestion des finances publiques, ainsi qu'à la comptabilité de l'Etat et au régime de la responsabilité pécuniaire des agents des services publics.
+V.-La loi de règlement peut également comporter toutes dispositions relatives à l'information et au contrôle du Parlement sur la gestion des finances publiques, ainsi qu'à la comptabilité de l'Etat et au régime de la responsabilité pécuniaire des agents des services publics.

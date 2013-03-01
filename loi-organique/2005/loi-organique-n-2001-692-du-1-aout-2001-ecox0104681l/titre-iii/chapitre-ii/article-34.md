@@ -1,8 +1,8 @@
 # Article 34
 
-La loi de finances de l'année comprend deux parties distinctes.
+Outre l'article liminaire mentionné à l'article 7 de la loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques, la loi de finances de l'année comprend deux parties distinctes.
 
-I. - Dans la première partie, la loi de finances de l'année :
+I.-Dans la première partie, la loi de finances de l'année :
 
 1° Autorise, pour l'année, la perception des ressources de l'Etat et des impositions de toute nature affectées à des personnes morales autres que l'Etat ;
 
@@ -24,7 +24,7 @@ I. - Dans la première partie, la loi de finances de l'année :
 
 10° Arrête les modalités selon lesquelles sont utilisés les éventuels surplus, par rapport aux évaluations de la loi de finances de l'année, du produit des impositions de toute nature établies au profit de l'Etat.
 
-II. - Dans la seconde partie, la loi de finances de l'année :
+II.-Dans la seconde partie, la loi de finances de l'année :
 
 1° Fixe, pour le budget général, par mission, le montant des autorisations d'engagement et des crédits de paiement ;
 
@@ -52,4 +52,4 @@ e) Comporter toutes dispositions relatives à l'information et au contrôle du P
 
 f) Comporter toutes dispositions relatives à la comptabilité de l'Etat et au régime de la responsabilité pécuniaire des agents des services publics.
 
-III. - La loi de finances de l'année doit comporter les dispositions prévues aux 1°, 5°, 6°, 7° et 8° du I et aux 1°, 2° et 3° du II.
+III.-La loi de finances de l'année doit comporter les dispositions prévues aux 1°, 5°, 6°, 7° et 8° du I et aux 1°, 2° et 3° du II.

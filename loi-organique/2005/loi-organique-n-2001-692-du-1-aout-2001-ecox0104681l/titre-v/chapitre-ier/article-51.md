@@ -12,6 +12,8 @@ Sont joints au projet de loi de finances de l'année :
 
 4° bis Une présentation des mesures envisagées pour assurer en exécution le respect du plafond global des dépenses du budget général voté par le Parlement, indiquant en particulier, pour les programmes dotés de crédits limitatifs, le taux de mise en réserve prévu pour les crédits ouverts sur le titre des dépenses de personnel et celui prévu pour les crédits ouverts sur les autres titres ;
 
+4° ter Le cas échéant, le rapport mentionné au III de l'article 23 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée ;
+
 5° Des annexes explicatives développant conformément aux dispositions de l'article 5, pour l'année en cours et l'année considérée, par programme ou par dotation, le montant des crédits présentés par titre et présentant, dans les mêmes conditions, une estimation des crédits susceptibles d'être ouverts par voie de fonds de concours. Ces annexes sont accompagnées du projet annuel de performances de chaque programme précisant :
 
 a) La présentation des actions, des coûts associés, des objectifs poursuivis, des résultats obtenus et attendus pour les années à venir mesurés au moyen d'indicateurs précis dont le choix est justifié ;
@@ -30,4 +32,4 @@ f) Une présentation indicative des emplois rémunérés par les organismes bén
 
 7° Des annexes générales prévues par les lois et règlements destinées à l'information et au contrôle du Parlement ;
 
-8° Pour les dispositions relevant du 2° du I et du 7° du II de l'article 34, une évaluation préalable comportant les documents visés aux dix derniers alinéas de l'article 8 de la loi organique n° 2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44 de la Constitution.
+8° Pour les dispositions relevant du 2° du I et du 7° du II de l'article 34, une évaluation préalable comportant les documents visés aux dix derniers alinéas de l'article 8 de la loi organique n° 2009-403 du 15 avril 2009 relative à l'application des articles 34-1,39 et 44 de la Constitution.

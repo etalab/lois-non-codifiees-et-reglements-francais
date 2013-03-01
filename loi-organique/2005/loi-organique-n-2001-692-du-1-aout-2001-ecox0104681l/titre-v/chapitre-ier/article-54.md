@@ -2,7 +2,7 @@
 
 Sont joints au projet de loi de règlement :
 
-1° Le développement des recettes du budget général ;
+1° Le développement des recettes du budget général et le montant des dépenses fiscales ;
 
 2° Des annexes explicatives, développant, par programme ou par dotation, le montant définitif des crédits ouverts et des dépenses constatées, en indiquant les écarts avec la présentation par titre des crédits ouverts, et les modifications de crédits demandées. Elles présentent également l'écart entre les estimations et les réalisations au titre des fonds de concours ;
 
@@ -18,8 +18,12 @@ c) La gestion des autorisations d'emplois, en précisant, d'une part, la répart
 
 d) La présentation des emplois effectivement rémunérés par les organismes bénéficiaires d'une subvention pour charges de service public prévue au II de l'article 5 ;
 
+e) Le montant des dépenses fiscales ;
+
 5° Des annexes explicatives développant, par programme ou par dotation, pour chaque budget annexe et chaque compte spécial, le montant définitif des recettes et des dépenses constatées, des crédits ouverts ou du découvert autorisé, ainsi que les modifications de crédits ou de découvert démandées, Ces annexes sont accompagnées du rapport annuel de performances de chacun d'entre eux, dans les conditions prévues au 4° ;
 
 6° Des annexes explicatives présentant les résultats de la comptabilité selon les dispositions prévues au deuxième alinéa de l'article 27 ;
 
-7° Le compte général de l'Etat, qui comprend la balance générale des comptes, le compte de résultat, le bilan et ses annexes parmi lesquelles la présentation du traitement comptable des opérations mentionnées au deuxième alinéa de l'article 8, ainsi qu'une évaluation des engagements hors bilan de l'Etat. Il est accompagné d'un rapport de présentation, qui indique notamment les changements des méthodes et des règles comptables appliqués au cours de l'exercice.
+7° Le compte général de l'Etat, qui comprend la balance générale des comptes, le compte de résultat, le bilan et ses annexes parmi lesquelles la présentation du traitement comptable des opérations mentionnées au deuxième alinéa de l'article 8, une évaluation des engagements hors bilan de l'Etat, ainsi que la liste des contrats de partenariat et des baux emphytéotiques avec leurs montants et leurs dates d'échéances. Il est accompagné d'un rapport de présentation, qui indique notamment les changements des méthodes et des règles comptables appliqués au cours de l'exercice ;
+
+8° L'avis du Haut Conseil des finances publiques mentionné au I de l'article 23 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée.
