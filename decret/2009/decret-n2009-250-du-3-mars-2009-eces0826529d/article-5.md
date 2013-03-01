@@ -1,6 +1,6 @@
 # Article 5
 
-Les membres de l'autorité sont nommés pour six ans. Toutefois, la durée du mandat du président du comité du secret statistique est celle prévue par le décret mentionné à l'article 6 bis de la loi du 7 juin 1951 susvisée.
+Les membres de l'autorité sont nommés pour six ans.
 
 Le mandat du président n'est pas renouvelable.
 
