@@ -12,6 +12,7 @@
 - [Décret n°2011-1813 du 6 décembre 2011 (AGRT1130625D)](decret-n2011-1813-du-6-decembre-2011-agrt1130625d)
 - [Décret n°2011-1260 du 7 octobre 2011 (AGRT1111376D)](decret-n2011-1260-du-7-octobre-2011-agrt1111376d)
 - [Décret n°2011-1819 du 7 décembre 2011 (AGRT1119940D)](decret-n2011-1819-du-7-decembre-2011-agrt1119940d)
+- [Décret n°2011-380 du 7 avril 2011 (EFIE1102366D)](decret-n2011-380-du-7-avril-2011-efie1102366d)
 - [Décret n°2011-1475 du 9 novembre 2011 (IOCS1101081D)](decret-n2011-1475-du-9-novembre-2011-iocs1101081d)
 - [Décret n°2011-954 du 10 août 2011 (ETSH1114682D)](decret-n2011-954-du-10-aout-2011-etsh1114682d)
 - [Décret n°2011-1615 du 22 novembre 2011 (AGRT1127064D)](decret-n2011-1615-du-22-novembre-2011-agrt1127064d)
