@@ -1,0 +1,3 @@
+# Article 16
+
+Lorsque, au cours de l'examen par le Parlement d'un projet de loi de programmation des finances publiques, d'un projet de loi de finances ou d'un projet de loi de financement de la sécurité sociale, le Gouvernement entend réviser les prévisions macroéconomiques sur lesquelles reposait initialement son projet, il informe sans délai le Haut Conseil des finances publiques du nouvel état de ses prévisions. Avant l'adoption définitive de la loi de programmation des finances publiques, de la loi de finances ou de la loi de financement de la sécurité sociale, le Haut Conseil rend un avis public sur ces prévisions.

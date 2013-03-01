@@ -1,0 +1,5 @@
+# Article 16
+
+Le nombre total de nominations susceptibles d'être prononcées au titre du 4° du I de l'article 7 et du 4° du I de l'article 11 ne peut excéder deux cinquièmes du nombre des nominations prononcées par l'autorité de rattachement concernée, au sens de l'article 5, en application des 1°, 2° et 3° du I des articles 7 et 11, des détachements de longue durée et des intégrations directes prononcés par l'autorité de rattachement concernée. Sont également prises en compte les mutations de techniciens sanitaires et de sécurité sanitaire conduisant à un changement d'autorité de rattachement, tel que défini à l'article 5.
+
+Toutefois, ce nombre peut être calculé en appliquant une proportion d'un cinquième à 5 % de l'effectif des fonctionnaires du corps régi par le présent décret relevant de l'autorité de rattachement concernée, en position d'activité et de détachement au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations, lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des dispositions du premier alinéa.

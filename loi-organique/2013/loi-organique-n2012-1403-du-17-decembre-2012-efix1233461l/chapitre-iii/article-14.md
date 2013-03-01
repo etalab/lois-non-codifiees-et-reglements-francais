@@ -1,0 +1,5 @@
+# Article 14
+
+Le Haut Conseil des finances publiques est saisi par le Gouvernement des prévisions macroéconomiques sur lesquelles reposent le projet de loi de finances de l'année et le projet de loi de financement de la sécurité sociale de l'année. Au plus tard une semaine avant que le Conseil d'Etat soit saisi du projet de loi de finances de l'année, le Gouvernement transmet au Haut Conseil les éléments du projet de loi de finances de l'année et du projet de loi de financement de la sécurité sociale de l'année permettant à ce dernier d'apprécier la cohérence de l'article liminaire du projet de loi de finances de l'année au regard des orientations pluriannuelles de solde structurel définies dans la loi de programmation des finances publiques.
+
+Le Haut Conseil rend un avis sur l'ensemble des éléments mentionnés au premier alinéa. Cet avis est joint au projet de loi de finances de l'année lors de sa transmission au Conseil d'Etat. Il est joint au projet de loi de finances de l'année déposé à l'Assemblée nationale et rendu public par le Haut Conseil lors de ce dépôt.

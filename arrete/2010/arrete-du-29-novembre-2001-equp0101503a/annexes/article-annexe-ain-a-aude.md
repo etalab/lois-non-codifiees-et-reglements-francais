@@ -19,7 +19,9 @@ Direction départementale de l'équipement de l'Ain
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">Chargé de mission pour la politique de la ville au service habitat</td>
+<td rowspan="2" valign="top">
+<p align="left">Chargé de mission pour la politique de la ville au service habitat</p>
+</td>
 <td rowspan="2">
 <p align="center">A</p>
 </td>
@@ -115,7 +117,9 @@ Direction départementale de l'équipement de l'Allier
 </td>
 </tr>
 <tr>
-<td>Chef de bureau des études de l'habitat et de la ville</td>
+<td>
+<p align="left">Chef de bureau des études de l'habitat et de la ville</p>
+</td>
 <td>
 <p align="center">A</p>
 </td>
@@ -127,7 +131,9 @@ Direction départementale de l'équipement de l'Allier
 </td>
 </tr>
 <tr>
-<td rowspan="2">Adjoint au chef du bureau des études de l'habitat et de la ville</td>
+<td rowspan="2">
+<p align="left">Adjoint au chef du bureau des études de l'habitat et de la ville</p>
+</td>
 <td rowspan="2">
 <p align="center">B</p>
 </td>
@@ -160,7 +166,9 @@ Direction départementale de l'équipement et de l'agriculture (2) des Alpes-de-
 </td>
 </tr>
 <tr>
-<td rowspan="2">Chargé de la politique de la ville</td>
+<td rowspan="2">
+<p align="left">Chargé de la politique de la ville</p>
+</td>
 <td rowspan="2">
 <p align="center">B</p>
 </td>
@@ -174,38 +182,37 @@ Direction départementale de l'équipement et de l'agriculture (2) des Alpes-de-
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) des Alpes-Maritimes
+Direction départementale des territoires et de la mer des Alpes-Maritimes
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> FONCTIONS EXERCÉES </p>
+<p align="center">
+<br/>FONCTIONS EXERCÉES</p>
 </td>
 <td>
-<p align="center"> NIVEAU <br/>de qualification <br/>de l'emploi </p>
+<p align="center">NIVEAU<br/>de qualification<br/>de l'emploi</p>
 </td>
 <td>
-<p align="center"> NOMBRE <br/>d'emplois </p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 <td>
-<p align="center"> NOMBRE <br/>de points (IM) <br/>par emploi </p>
+<p align="center">
+<br/>NOMBRE<br/>de points (IM)<br/>par emploi</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Adjoint au directeur chargé de la politique de la ville </p>
+<br/>Adjoint au chef du service logement et construction </p>
 </td>
 <td align="center">
-<br/>A <br/>
-</td>
+<br/>A</td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>1</td>
 <td align="center">
-<br/>50 <br/>
-</td>
+<br/>50</td>
 </tr>
 <tr>
 <td align="center">
@@ -213,151 +220,128 @@ Direction départementale de l'équipement et de l'agriculture (2) des Alpes-Mar
 <br/>Responsable du pôle habitat - Service territorial Est montagne </p>
 </td>
 <td align="center">
-<br/>A <br/>
-</td>
+<br/>A</td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>1</td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du pôle développement de l'offre de logement - Service logement construction <br/>
-</td>
-<td align="center">
-<br/>A <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
+<br/>40</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Instructeur rénovation urbaine - Service territorial Est montagne </p>
+<br/>Responsable du pôle développement de l'offre de logement - Service logement construction</p>
 </td>
 <td align="center">
-<br/>B <br/>
-</td>
+<br/>A</td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>1</td>
 <td align="center">
-<br/>30 <br/>
-</td>
+<br/>40</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Administrateur de données à la mission foncière - Service logement construction </p>
+<br/>Instructeur rénovation urbaine - Service territorial Est montagne</p>
 </td>
 <td align="center">
-<br/>B <br/>
-</td>
+<br/>B</td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>1</td>
 <td align="center">
-<br/>30 <br/>
-</td>
+<br/>30</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Chargé du pôle habitat - Service territorial Ouest </p>
+<br/>Administrateur de données à la mission foncière - Service logement construction</p>
 </td>
 <td align="center">
-<br/>B <br/>
-</td>
+<br/>B</td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>1</td>
 <td align="center">
-<br/>30 <br/>
-</td>
+<br/>30</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Instructeur rénovation urbaine - Service territorial Ouest </p>
+<br/>Chargé du pôle habitat - Service territorial Ouest</p>
 </td>
 <td align="center">
-<br/>B <br/>
-</td>
+<br/>B</td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>1</td>
 <td align="center">
-<br/>30 <br/>
-</td>
+<br/>30</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Chargé de mission habitat - Service territorial Est montagne </p>
+<br/>Instructeur rénovation urbaine - Service territorial Ouest</p>
 </td>
 <td align="center">
-<br/>B <br/>
+<br/>B</td>
+<td align="center">
+<br/>1</td>
+<td align="center">
+<br/>30</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Chargé de mission habitat - Service territorial Est montagne</p>
 </td>
 <td align="center">
-<br/>1 <br/>
-</td>
+<br/>B</td>
 <td align="center">
-<br/>30 <br/>
-</td>
+<br/>1</td>
+<td align="center">
+<br/>30</td>
 </tr>
 </tbody>
 </table>
 
-Direction départementale de la cohésion sociale des Alpes-Maritimes
+<div align="center">Direction départementale de la cohésion sociale des Alpes-Maritimes</div>
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> FONCTIONS EXERCÉES </p>
+<p align="center">
+<br/>FONCTIONS EXERCÉES</p>
 </td>
 <td>
-<p align="center"> NIVEAU <br/>de qualification <br/>de l'emploi </p>
+<p align="center">
+<br/>NIVEAU<br/>de qualification<br/>de l'emploi</p>
 </td>
 <td>
-<p align="center"> NOMBRE <br/>d'emplois </p>
+<p align="center">
+<br/>NOMBRE<br/>d'emplois</p>
 </td>
 <td>
-<p align="center"> NOMBRE <br/>de points (IM) <br/>par emploi </p>
+<p align="center">NOMBRE<br/>de points (IM)<br/>par emploi</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la mission logement - Service du logement <br/>
+<p align="left">Responsable de la mission logement - Service du logement</p>
 </td>
-<td align="center">
-<br/>A <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
+<td align="center">A</td>
+<td align="center">1</td>
+<td align="center">40</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Animateur du plan départemental d'action pour le logement des personnes défavorisées (PDALDP) et des droits au logement opposable (DALO), adjoint au chef de la mission logement au service du logement <br/>
+<td align="left" valign="top">
+<p align="left">Animateur du plan départemental d'action pour le logement des personnes défavorisées (PDALDP) et des droits au logement opposable (DALO), adjoint au chef de la mission logement au service du logement</p>
 </td>
-<td align="center">
-<br/>B <br/>
+<td align="left" valign="top">
+<p align="center">B</p>
 </td>
-<td align="center">
-<br/>1 <br/>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="left" valign="top">
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>

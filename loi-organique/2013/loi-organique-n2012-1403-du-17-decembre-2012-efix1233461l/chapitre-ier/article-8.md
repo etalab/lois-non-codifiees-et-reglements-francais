@@ -1,0 +1,3 @@
+# Article 8
+
+La loi de règlement comprend un article liminaire présentant un tableau de synthèse retraçant le solde structurel et le solde effectif de l'ensemble des administrations publiques résultant de l'exécution de l'année à laquelle elle se rapporte. Le cas échéant, l'écart aux soldes prévus par la loi de finances de l'année et par la loi de programmation des finances publiques est indiqué. Il est également indiqué, dans l'exposé des motifs du projet de loi de règlement, si les hypothèses ayant permis le calcul du solde structurel sont les mêmes que celles ayant permis de le calculer pour cette même année dans le cadre de la loi de finances de l'année et dans le cadre de la loi de programmation des finances publiques.
