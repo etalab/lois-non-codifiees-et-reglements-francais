@@ -46,7 +46,7 @@ Secrétaires administratifs d'administration centrale.
 
 Secrétaires administratifs des services déconcentrés.
 
-Techniciens sanitaires.
+Techniciens sanitaires et de sécurité sanitaire.
 
 Catégorie C
 

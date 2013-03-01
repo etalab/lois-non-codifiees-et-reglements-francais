@@ -203,6 +203,7 @@
 - [Décret n°2012-608 du 30 avril 2012 (IOCB1207302D)](decret-n2012-608-du-30-avril-2012-iocb1207302d)
 - [Décret n°2013-106 du 30 janvier 2013 (AGRS1240975D)](decret-n2013-106-du-30-janvier-2013-agrs1240975d)
 - [Décret n°2013-109 du 30 janvier 2013 (JUSC1237633D)](decret-n2013-109-du-30-janvier-2013-jusc1237633d)
+- [Décret n°92-1438 du 30 décembre 1992 (SPSG9202938D)](decret-n92-1438-du-30-decembre-1992-spsg9202938d)
 - [Décret n°2012-1220 du 31 octobre 2012 (AGRG1210094D)](decret-n2012-1220-du-31-octobre-2012-agrg1210094d)
 - [Décret n°2012-1562 du 31 décembre 2012 (AFSP1240709D)](decret-n2012-1562-du-31-decembre-2012-afsp1240709d)
 - [Décret n°2012-1563 du 31 décembre 2012 (AFSS1238492D)](decret-n2012-1563-du-31-decembre-2012-afss1238492d)

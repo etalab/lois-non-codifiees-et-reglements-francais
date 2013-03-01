@@ -1291,6 +1291,7 @@
 - [Arrêté du 1er août 2008 (SJSS0818344A)](arrete-du-1er-aout-2008-sjss0818344a)
 - [Arrêté du 1er avril 2008 (DEVO0772024A)](arrete-du-1er-avril-2008-devo0772024a)
 - [Arrêté du 1er avril 2008 (DEVT0807134A)](arrete-du-1er-avril-2008-devt0807134a)
+- [Arrêté du 1er avril 2008 (SJSP0808277A)](arrete-du-1er-avril-2008-sjsp0808277a)
 - [Arrêté du 1er décembre 2008 (ECED0828309A)](arrete-du-1er-decembre-2008-eced0828309a)
 - [Arrêté du 1er décembre 2008 (ECET0823990A)](arrete-du-1er-decembre-2008-ecet0823990a)
 - [Arrêté du 1er décembre 2008 (IMIC0827547A)](arrete-du-1er-decembre-2008-imic0827547a)

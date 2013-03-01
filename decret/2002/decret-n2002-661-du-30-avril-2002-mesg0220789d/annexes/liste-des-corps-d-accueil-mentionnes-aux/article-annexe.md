@@ -20,7 +20,7 @@ Contrôleurs du travail.
 
 Educateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles.
 
-Techniciens sanitaires.
+Techniciens sanitaires et de sécurité sanitaire.
 
 Corps de catégorie C
 

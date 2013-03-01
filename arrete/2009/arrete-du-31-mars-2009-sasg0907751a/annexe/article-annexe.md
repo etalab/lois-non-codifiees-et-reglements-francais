@@ -36,7 +36,7 @@ Techniciens de physiothérapie relevant du ministre chargé de la santé.
 
 Secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
-Techniciens sanitaires.
+Techniciens sanitaires et de sécurité sanitaire.
 
 Catégorie C
 

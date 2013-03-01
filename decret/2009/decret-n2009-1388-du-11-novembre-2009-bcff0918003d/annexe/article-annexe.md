@@ -87,3 +87,5 @@ Techniciens de la recherche de l'Institut de recherche pour le développement.
 Techniciens de la recherche de l'Institut national de recherche en informatique et en automatique.
 
 Techniciens de la recherche de l'Institut national de la santé et de la recherche médicale.
+
+Techniciens sanitaires et de sécurité sanitaire.

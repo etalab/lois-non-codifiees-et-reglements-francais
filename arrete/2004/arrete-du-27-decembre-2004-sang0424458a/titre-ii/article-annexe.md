@@ -8,4 +8,4 @@ Personnels scientifiques de laboratoire de l'Agence française de sécurité san
 
 Catégorie B
 
-Techniciens de laboratoire de l'Agence française de sécurité sanitaire des produits de santé.
+Techniciens sanitaires et de sécurité sanitaire.
