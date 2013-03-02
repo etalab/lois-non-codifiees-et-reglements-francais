@@ -4,32 +4,6 @@ I. - Sur les liaisons auxquelles le règlement (CEE) n° 2408 / 92 du 23 juillet
 
 II. - La société est également autorisée, sous réserve des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services réguliers de passagers, de courrier et de fret sur les liaisons suivantes :
 
-Jusqu'au 31 mai 2012
-
-Egypte :
-
-Paris-Louqsor.
-
-Paris-Hourghada.
-
-Maroc :
-
-Paris-Agadir ;
-
-Paris-Fès ;
-
-Paris-Ouarzazate ;
-
-Paris-Oujda.
-
-Tunisie :
-
-Paris-Djerba ;
-
-Paris-Monastir ;
-
-Paris-Tozeur.
-
 Jusqu'au 15 juillet 2013
 
 Maroc :
@@ -111,3 +85,7 @@ Paris-Boa Vista (Cap-Vert) ;
 Paris-Sal (Cap-Vert) ;
 
 Paris-Sao Vicente (Cap-Vert).
+
+Jusqu'au 17 février 2018 :
+
+Lille - Marrakech (Maroc).

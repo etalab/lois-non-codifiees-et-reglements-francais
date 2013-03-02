@@ -1,5 +1,6 @@
 # Article annexe I (suite)
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -57,6 +58,7 @@
 </tr>
 <tr>
 <td rowspan="78" valign="top" width="15">
+<br/>
 <br/>
 </td>
 <td rowspan="78" valign="top" width="91"/>
@@ -206,6 +208,7 @@
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="left">d) = 2,5</p>
@@ -228,6 +231,7 @@
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="left">d) = 1,8</p>
@@ -248,6 +252,7 @@
 <p align="left">Fédération Départementale des Chasseurs de l'Hérault.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
@@ -270,6 +275,7 @@
 <p align="left">Etablissements Laurenti, Aubagne 13.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
@@ -294,6 +300,7 @@
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="left">d) = 1,6</p>
@@ -315,6 +322,7 @@
 <p align="left">R. Pont, Quillan 11.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
@@ -339,6 +347,7 @@
 <p align="left">Association des Piègeurs Marnais.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
@@ -365,6 +374,7 @@
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="left">d) = 1,6</p>
@@ -386,6 +396,7 @@
 <p align="left">Société de chasse de Pourrières, 83.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
@@ -409,6 +420,7 @@
 <p align="left">Fédération départementale des Chasseurs de la Lozère.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
@@ -1402,12 +1414,22 @@
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td/>
-<td colspan="2"/>
-<td colspan="2"/>
-<td colspan="2"/>
+<td align="center"> 48<br/>
+</td>
+<td> Entreprise Jean-Nicolas Ducatillon (59) <br/>
+<br/>
+</td>
+<td> DUCATILLON<br/>
+</td>
+<td colspan="2"> d) = 2 <p>c) = 20 </p>
+<br/>
+</td>
+<td align="center" colspan="2"> 780<br/>
+</td>
+<td colspan="2"> a) Patte antiretour <p>b), c), d) Bagues métalliques serties </p>
+<p>e) Le câble peut être brut ou peint en noir</p>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -2146,3 +2168,4 @@
 </tr>
 </tbody>
 </table>
+</div>
