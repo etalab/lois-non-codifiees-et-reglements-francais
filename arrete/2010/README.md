@@ -493,7 +493,6 @@
 - [Arrêté du 7 juin 2010 (ECES1015111A)](arrete-du-7-juin-2010-eces1015111a)
 - [Arrêté du 7 juin 2010 (IOCE1015144A)](arrete-du-7-juin-2010-ioce1015144a)
 - [Arrêté du 7 juin 2010 (IOCJ1010398A)](arrete-du-7-juin-2010-iocj1010398a)
-- [Arrêté du 7 juin 2010 (IOCJ1010423A)](arrete-du-7-juin-2010-iocj1010423a)
 - [Arrêté du 7 juin 2010 (JUSA1014871A)](arrete-du-7-juin-2010-jusa1014871a)
 - [Arrêté du 7 juin 2010 (MCCB1014511A)](arrete-du-7-juin-2010-mccb1014511a)
 - [Arrêté du 7 juin 2010 (MENE1010854A)](arrete-du-7-juin-2010-mene1010854a)
