@@ -52,7 +52,6 @@
 - [Arrêté du 6 février 2006 (AGRS0600124A)](arrete-du-6-fevrier-2006-agrs0600124a)
 - [Arrêté du 6 janvier 2006 (MJSK0570273A)](arrete-du-6-janvier-2006-mjsk0570273a)
 - [Arrêté du 6 juillet 2006 (EQUP0601457A)](arrete-du-6-juillet-2006-equp0601457a)
-- [Arrêté du 6 juin 2006 (EQUA0600721A)](arrete-du-6-juin-2006-equa0600721a)
 - [Arrêté du 6 juin 2006 (INTC0600544A)](arrete-du-6-juin-2006-intc0600544a)
 - [Arrêté du 6 mars 2006 (MENS0600741A)](arrete-du-6-mars-2006-mens0600741a)
 - [Arrêté du 6 novembre 2006 (AGRE0602362A)](arrete-du-6-novembre-2006-agre0602362a)
