@@ -1,6 +1,6 @@
 # Article 9
 
-La liste des catégories d'ingrédients pouvant être utilisées pour l'étiquetage des aliments composés pour animaux familiers, prévue par l'article 15, alinéa d, du décret susvisé, est la suivante :
+La liste des catégories d'ingrédients pouvant être utilisées pour l'étiquetage des aliments composés pour animaux familiers,              est la suivante :
 
 1. Viandes et sous-produits animaux : toutes les parties carnées d'animaux terrestres à sang chaud abattus, à l'état frais ou conservées par un traitement approprié et tous les produits et sous-produits provenant de la transformation du corps ou de parties du corps d'animaux terrestres à sang chaud.
 

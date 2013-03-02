@@ -1,6 +1,6 @@
 # Article 10-1
 
-Dans la mesure où, conformément aux dispositions de l'article 19 (2, I), point d, du décret du 15 septembre 1986 susvisé, la valeur énergétique des aliments diététiques pour chiens et chats est déclarée sur les préemballages, récipients, étiquettes ou documents d'accompagnement, cette valeur doit être calculée selon la méthode décrite ci-dessous :
+Dans la mesure où la valeur énergétique des aliments diététiques pour chiens et chats est déclarée sur les préemballages, récipients, étiquettes ou documents d'accompagnement, cette valeur doit être calculée selon la méthode décrite ci-dessous :
 
 a) Mode de calcul et expression de la valeur énergétique :
 
@@ -16,10 +16,6 @@ Le pourcentage d'extrait non azoté prévu dans la formule est calculé par la d
 
 Le résultat obtenu est indiqué à une décimale près.
 
-b) Tolérances applicables aux valeurs déclarées sur l'étiquetage :
+b) (Abrogé)
 
-Si on constate un écart entre le résultat du contrôle et la valeur énergétique déclarée constituant une augmentation ou une diminution de la valeur énergétique de l'aliment, une tolérance de 15 % est appliquée.
-
-c) Modes de prélèvement des échantillons et méthodes d'analyse à appliquer :
-
-Le prélèvement de l'échantillon de l'aliment composé et le dosage des teneurs des constituants analytiques indiquées dans la méthode de calcul sont réalisés respectivement selon les modes de prélèvement d'échantillons et les méthodes d'analyse officielles pour le contrôle des aliments des animaux fixés par l'arrêté du 19 septembre 1983 modifié.
+c) (Abrogé)
