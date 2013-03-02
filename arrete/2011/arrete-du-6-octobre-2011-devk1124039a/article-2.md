@@ -14,10 +14,10 @@ En application de l'article 3 du décret du 6 septembre 2007 susvisé, correspon
 
 ― adjoint à un directeur ou à un chef de service cité à l'article 1er du présent arrêté ;
 
-― chef de service fonctionnel, ou chef d'unité fonctionnelle ou territoriale importante, en service déconcentré ou dans un service à compétence nationale ou dans une école ou un établissement relevant du ministère ;
+- chef de service fonctionnel, ou chef d'unité fonctionnelle ou territoriale importante, en service déconcentré ou dans une direction territoriale de l'établissement public Voies navigables de France ou dans un service à compétence nationale ou dans une école ou un établissement relevant du ministère ;
 
 ― délégué territorial, chargé de mission d'inspection à la mission interministérielle d'inspection du logement social ;
 
-― chargé de mission ou de projet de haut niveau auprès d'un chef de service fonctionnel ou territorial visé aux alinéas 13 et 14 de l'article 1er du présent arrêté ;
+- chargé de mission ou de projet de haut niveau auprès d'un chef de service fonctionnel ou territorial visé aux alinéas 14 et 15 de l'article 1er du présent arrêté ;
 
 ― expert reconnu par une instance d'évaluation.

@@ -26,7 +26,7 @@ En application de l'article 5 du décret du 6 septembre 2007 susvisé, les fonct
 
 ― directeur d'une école, directeur d'un établissement d'enseignement et de recherche ;
 
-― chef d'un service important, au sein d'une direction régionale de l'environnement, de l'aménagement et du logement, d'un service de navigation, d'une direction interdépartementale des routes, d'une direction interrégionale de la mer ou d'une direction régionale et interdépartementale d'Ile-de-France ;
+- chef d'un service important, au sein d'une direction régionale de l'environnement, de l'aménagement et du logement, d'une direction territoriale de l'établissement public Voies navigables de France, d'une direction interdépartementale des routes, d'une direction interrégionale de la mer ou d'une direction régionale et interdépartementale d'Ile-de-France ;
 
 ― chef d'un service à enjeux particuliers au sein d'une direction départementale interministérielle dont l'importance le justifie ;
 
