@@ -28,4 +28,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'antenne de Longwy de la direction départementale des territoires de Meurthe-et-Moselle ;
 
-- fermeture du site de Romans-sur-Isère de la direction départementale des territoires de la Drôme.
+- fermeture du site de Romans-sur-Isère de la direction départementale des territoires de la Drôme ;
+
+- le transfert à Voies navigables de France des parties des directions départementales des territoires de la Côte-d'Or, de Lot-et-Garonne, de la Haute-Marne, de la Nièvre et de Saône-et-Loire et de la direction départementale des territoires et de la mer de la Loire-Atlantique qui sont nécessaires à l'exercice des missions confiées à cet établissement public ainsi que les parties de ces services chargées des fonctions de support, notamment en matière de gestion administrative et financière ;
+
+- fermeture du site de Biot de la direction départementale de la protection des populations des Alpes-Maritimes.
