@@ -4,7 +4,7 @@ Limites d'utilisation :
 
 1. Un aéronef titulaire du CNRAC ne peut pas effectuer :
 
-a) Du transport aérien à titre onéreux ;
+a) Du transport aérien public tel que défini dans les articles L. 6412-1 et suivants du code des transports ;
 
 b) Des vols locaux à titre onéreux définis à l'article D. 510-7 du code de l'aviation civile ;
 
@@ -44,9 +44,9 @@ La limite en terme de personnes transportées mentionnée ci-dessus ne peut en a
 
 Le ministre chargé de l'aviation civile peut annuler cette extension si les conditions précédentes ne sont pas satisfaites. Il notifie par écrit sa décision à l'exploitant de l'aéronef.
 
-f) Des vols autrement que selon les règles du vol à vue (VFR) de jour, sauf autorisation spécifique du ministre chargé de l'aviation civile.
+f) Des vols autrement que selon les règles du vol à vue (VFR) de jour, sauf autorisation du ministre chargé de l'aviation civile lorsque le postulant répond de manière satisfaisante aux conditions techniques complémentaires qui lui sont notifiées à sa demande par le ministre chargé de l'aviation civile.
 
-g) Des vols à sensations, tels que définis dans l'arrêté du 24 juillet 1991 susvisé.
+g) Des vols à sensations à titre onéreux ou, recourant à la publicité, au démarchage, à des déclarations dans les médias ou sur internet ou à tout autre moyen visant à faire connaître leur activité auprès du public.
 
 2. Toutefois, le ministre chargé de l'aviation civile peut autoriser des vols ayant pour but la mise en valeur du patrimoine aéronautique, notamment lors de tournages cinématographiques, si les conditions techniques complémentaires qu'il notifie sont satisfaites.
 
@@ -54,6 +54,8 @@ g) Des vols à sensations, tels que définis dans l'arrêté du 24 juillet 1991 
 
 4. Dans le but d'assurer la sécurité, le ministre chargé de l'aviation civile peut fixer toute autre limitation, soit au moyen d'une consigne opérationnelle ou de navigabilité, soit par annotation sur le CNRAC, notamment, de limitations relatives aux zones de survol autorisées, aux conditions d'entraînement des équipages, et aux conditions de convoyage de l'aéronef.
 
-5. Une plaquette parfaitement lisible par le pilote et les passagers doit être apposée. Elle porte l'inscription suivante : " Cet aéronef circule avec un certificat de navigabilité restreint. Son utilisation est soumise à des restrictions spécifiques, notamment le transport de passagers à titre onéreux est interdit. "
+5. Une plaquette parfaitement lisible par le pilote et les passagers doit être apposée. Elle porte l'inscription suivante :
 
-Toutefois, toute plaquette ayant le même objet et apposée dans les conditions requises par la réglementation antérieure demeure valable.
+" Cet aéronef circule avec un certificat de navigabilité restreint. Son utilisation est soumise à des restrictions spécifiques, notamment le transport aérien public est interdit. "
+
+Toutefois, toute plaquette apposée dans les conditions requises par la réglementation antérieure demeure valable.

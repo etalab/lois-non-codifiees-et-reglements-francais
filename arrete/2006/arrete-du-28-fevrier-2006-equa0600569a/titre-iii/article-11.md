@@ -10,6 +10,6 @@ Le postulant présente comme documentation associée au CNRAC le dossier techniq
 
 - les restrictions d'emploi propres à l'aéronef ;
 
-- un manuel de maintenance, incluant, le cas échéant, les références aux documents antérieurs de maintenance de l'aéronef, notamment ceux émis par le constructeur de l'aéronef.
+- un programme d'entretien, incluant, le cas échéant, les références aux documents antérieurs de maintenance de l'aéronef, notamment ceux émis par le constructeur de l'aéronef.
 
 Le postulant présente tout document ou toute information complémentaire nécessaire à l'instruction de la demande.
