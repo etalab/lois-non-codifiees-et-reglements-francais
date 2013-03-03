@@ -118,6 +118,8 @@ Le prestataire de services météorologiques met en œuvre les dispositions pré
 
 - au paragraphe 4.3.1.2, l'emplacement du visibilimètre est fixé entre 120 et 170 mètres de l'axe de la piste ;
 
+- au paragraphe 4.3.2.2, lorsque la RVR minimum à l'atterrissage publiée est égale ou supérieure à 800 mètres, la RVR peut être obtenue par conversion de la visibilité météo signalée.
+
 - au paragraphe 4.3.5, l'intensité lumineuse du balisage utilisée pour le calcul de la RVR est l'intensité maximale disponible sur la piste considérée ;
 
 - au paragraphe 4.3.6.3, dans les messages d'observations régulières et spéciales locales, les RVR supérieures à la valeur maximale qui peut être déterminée par le système sont indiquées par P suivie de la valeur maximale. Lorsque les RVR sont inférieures à la valeur minimale qui peut être déterminée par le système, elles sont indiquées par M suivie de la valeur minimale ;
