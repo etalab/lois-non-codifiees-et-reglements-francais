@@ -2748,8 +2748,6 @@
 - [Arrêté du 27 février 2012 (MCCK1204003A)](arrete-du-27-fevrier-2012-mcck1204003a)
 - [Arrêté du 27 février 2012 (MENE1206085A)](arrete-du-27-fevrier-2012-mene1206085a)
 - [Arrêté du 27 février 2012 (MENH1202292A)](arrete-du-27-fevrier-2012-menh1202292a)
-- [Arrêté du 27 janvier 2012 (DEFH1200795A)](arrete-du-27-janvier-2012-defh1200795a)
-- [Arrêté du 27 janvier 2012 (DEFH1200800A)](arrete-du-27-janvier-2012-defh1200800a)
 - [Arrêté du 27 janvier 2012 (DEVL1135797A)](arrete-du-27-janvier-2012-devl1135797a)
 - [Arrêté du 27 janvier 2012 (ETSH1202931A)](arrete-du-27-janvier-2012-etsh1202931a)
 - [Arrêté du 27 janvier 2012 (ETSH1202939A)](arrete-du-27-janvier-2012-etsh1202939a)
