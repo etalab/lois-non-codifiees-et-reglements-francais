@@ -16,4 +16,4 @@ Pour la passation des ordres, la société de gestion de fonds communs de créan
 
 7° Ne pas réaffecter a posteriori les opérations effectuées.
 
-Pour les investissements en titres non négociés sur des marchés réglementés mentionnés à l'article L. 422-1 du code monétaire et financier ou sur les marchés réglementés en fonctionnement régulier d'un Etat ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen pour autant que ces marchés n'ont pas été écartés par l'AMF, la société de gestion de fonds communs de créances doit se doter de procédures spécifiques et adaptées aux titres concernés.
+Pour les investissements en titres non négociés sur des marchés réglementés mentionnés à l'article L. 422-1 du code monétaire et financier ou sur les marchés réglementés en fonctionnement régulier d'un Etat ni membre de l'Union européenne ni partie à l'accord sur l'Espace économique européen pour autant que ces marchés n'ont pas été écartés par l'AMF, la société de gestion de fonds communs de créances doit se doter de procédures spécifiques et adaptées aux titres concernés.

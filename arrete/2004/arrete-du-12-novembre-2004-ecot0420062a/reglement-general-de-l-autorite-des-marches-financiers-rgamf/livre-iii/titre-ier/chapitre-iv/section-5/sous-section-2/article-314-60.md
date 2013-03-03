@@ -6,7 +6,7 @@ Le mandat de gestion mentionne au moins :
 
 2° Les catégories d'instruments financiers que peut comporter le portefeuille. Sauf convention contraire, les instruments autorisés sont :
 
-a) Les instruments financiers négociés sur un marché réglementé ou sur un marché réglementé en fonctionnement régulier d'un Etat ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen pour autant que ce marché ne figure pas sur une liste de marchés exclus établie par l'AMF ;
+a) Les instruments financiers négociés sur un marché réglementé ou sur un marché réglementé en fonctionnement régulier d'un Etat ni membre de l'Union européenne ni partie à l'accord sur l'Espace économique européen pour autant que ce marché ne figure pas sur une liste de marchés exclus établie par l'AMF ;
 
 b) Les OPCVM conformes à la directive 2009/65/ CE du 13 juillet 2009 et les OPCVM de droit français ouverts à tous souscripteurs ;
 

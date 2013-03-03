@@ -12,7 +12,7 @@ Pendant la période comprise entre la date de la demande d'informations par l'AM
 
 3° L'AMF peut porter la suspension mentionnée à l'alinéa précédent à trente jours ouvrables, si le candidat acquéreur :
 
-a) Est établi hors de la Communauté européenne ou relève d'une réglementation non communautaire ;
+a) Est établi hors de l'Union européenne ou relève d'une réglementation non communautaire ;
 
 b) Ou est une personne qui n'est pas soumise à une surveillance en vertu des directives européennes 2006/48/ CE, 85/611/ CE, 92/49/ CEE, 2002/83/ CE, 2004/39/ CE ou 2005/68/ CE.
 

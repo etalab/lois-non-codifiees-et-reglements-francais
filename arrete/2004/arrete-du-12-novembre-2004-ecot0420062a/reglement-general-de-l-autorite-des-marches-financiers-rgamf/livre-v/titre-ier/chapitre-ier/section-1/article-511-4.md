@@ -18,4 +18,4 @@ d) Un dispositif de contrôle déontologique de ses activités et de ses collabo
 
 4° L'entreprise de marché a prévu les conséquences en cas de non respect des obligations incombant aux personnes mentionnées aux b et d du 3°.
 
-Lorsque les personnes mentionnées au 3° de l'article 511-2 dirigent déjà les activités et l'exploitation d'un marché réglementé d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, elles sont réputées posséder l'honorabilité nécessaire et l'expérience adéquate pour garantir la gestion saine et prudente du marché réglementé.
+Lorsque les personnes mentionnées au 3° de l'article 511-2 dirigent déjà les activités et l'exploitation d'un marché réglementé d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, elles sont réputées posséder l'honorabilité nécessaire et l'expérience adéquate pour garantir la gestion saine et prudente du marché réglementé.
