@@ -808,7 +808,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Institut de communication appliquée/école de la communication visuelle Paris (ICA/ECV) ; Institut de communication bordelais. ― Ecole de la communication visuelle (ICB-ECV) ; Institut de communication de Provence. ― Ecole de la communication visuelle (ICP-ECV) ; Institut de communication nantais. ― Ecole de la communication visuelle (ICN-ECV).<br/>
+<p align="left">Institut de communication appliquée (ICA)-Institut de communication bordelais (ICB)-Institut de communication de Provence (ICP)-ECV-Institut de communication nantais (ICN)-ECV Atlantique.<br/>
 </p>
 </td>
 </tr>
@@ -1090,9 +1090,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Ecole supérieure de commerce et d'industrie de l'Ain (ESCI)<br/>
-<br/>
-</p>
+<p align="left">Ecole supérieure de commerce et d'industrie de l'Ain (ESCI)</p>
 </td>
 </tr>
 <tr>
