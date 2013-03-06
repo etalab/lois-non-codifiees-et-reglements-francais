@@ -1,6 +1,6 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé : agent (e) d'accueil touristique.
 
@@ -10,15 +10,15 @@ Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-L'agent (e) d'accueil touristique accueille, informe et oriente des visiteurs individuels ou en groupe. Il (elle) exerce principalement son emploi sur une zone d'accueil en face à face mais aussi par téléphone.
+L'agent (e) d'accueil touristique accueille, informe et oriente des visiteurs individuels ou en groupe. Il (elle) exerce principalement son emploi sur une zone d'accueil en face à face, mais aussi par téléphone et par messagerie internet.
 
-Il (elle) prépare et assiste les clients sur des prestations (visites, excursions), il (elle) promeut et vend les prestations sur catalogue et les produits en boutique. L'agent (e) d'accueil participe également à l'organisation et à l'animation d'événements festifs, culturels au sein de la structure touristique. Dans le cadre de sa mission, il applique les procédures internes à l'entreprise et s'exprime généralement en français et en anglais.
+Il (elle) prépare et assiste les clients sur des prestations (visites, excursions), il (elle) promeut et vend les prestations sur catalogue et les produits en boutique. L'agent (e) d'accueil participe également à l'organisation et à l'animation d'événements festifs, culturels au sein de la structure touristique. Dans le cadre de sa mission, il applique les procédures internes à l'entreprise. Il (elle) s'exprime en français et éventuellement en langue étrangère (le plus souvent en anglais : niveau A2 du CECR).
 
 L'agent (e) d'accueil touristique exerce seul (e) ou au sein d'une équipe ses activités sous la responsabilité d'un hiérarchique. Il (elle) est le plus souvent sédentaire.
 
-Il (elle) est quotidiennement en relation avec les visiteurs et les institutionnels du tourisme (office de tourisme, comité départemental de tourisme, comité régional de tourisme, office de tourisme syndicat d'initiative...), ainsi qu'avec ses collègues et supérieurs hiérarchiques. Il (elle) utilise les technologies de traitement de l'information et de la communication dans le cadre de ses fonctions.
+Il (elle) est quotidiennement en relation avec les visiteurs et les institutionnels du tourisme (office de tourisme, comité départemental de tourisme, comité régional de tourisme) ainsi qu'avec ses collègues et supérieurs hiérarchiques. Il (elle) utilise les technologies de traitement de l'information et de la communication dans le cadre de ses fonctions.
 
-Selon la taille de l'entreprise, l'agent (e) d'accueil touristique exerce son activité à temps plein ou à temps partiel en qualité de saisonnier. Les horaires peuvent être variables et s'effectuer en soirées, les week-ends et jours fériés. La rémunération est fixe.
+Selon la taille de l'entreprise, l'agent (e) d'accueil touristique exerce son activité à temps plein ou à temps partiel, en tant que permanent ou saisonnier. Les horaires peuvent être variables et s'effectuer en soirées, les week-ends et jours fériés. La rémunération est fixe.
 
 Cet emploi s'exerce dans des structures de taille variable allant des maisons de pays aux villages vacances. Il (elle) assure sa mission le plus souvent en station debout et prolongée, dans un contexte sonore plus ou moins amplifié en fonction de l'affluence des clients.
 
@@ -26,9 +26,9 @@ Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Tenir une zone d'accueil dans une entreprise
+1. Tenir une zone d'accueil
 
-de tourisme et de loisirs
+dans une entreprise de tourisme et de loisirs
 
 Accueillir, informer et orienter la clientèle touristique.
 
@@ -36,23 +36,23 @@ Entretenir les lieux et veiller au bon fonctionnement des supports d'information
 
 Transmettre des informations aux différents services internes d'une entreprise de tourisme et de loisirs et aux prestataires externes.
 
-2. Assister la clientèle sur des prestations
+2. Assister la clientèle dans la découverte
 
-touristiques et de loisirs
-
-Préparer des prestations découvertes personnalisées en réponse aux demandes des clients.
+de prestations touristiques et de loisirs
 
 Promouvoir, réserver et vendre des prestations touristiques et de loisirs simples et des produits en boutique.
 
-3. Participer à l'organisation et à l'animation
+Composer des prestations découvertes personnalisées en réponse aux demandes des clients.
+
+3. Contribuer à l'organisation et à l'animation
 
 d'événements festifs et culturels
 
-Participer à la promotion d'événements festifs et culturels.
+Réaliser des supports de promotion d'événements festifs et culturels.
 
 Contribuer à l'organisation d'événements festifs et culturels.
 
-Participer à l'animation d'événements festifs et culturels.
+Contribuer à l'animation d'événements festifs et culturels.
 
 Compétences transversales de l'emploi
 
@@ -90,8 +90,7 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Code de l'éducation : les articles L. 335-5, L. 335-6
-et R. 338-1 et suivants ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
