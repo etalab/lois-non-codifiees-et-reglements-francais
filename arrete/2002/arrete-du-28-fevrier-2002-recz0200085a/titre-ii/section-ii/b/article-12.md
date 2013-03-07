@@ -4,4 +4,4 @@ La phase d'admission comporte une audition des candidats admissibles qui débute
 
 Cet entretien doit permettre d'apprécier les aptitudes du candidat à occuper l'emploi type mis au concours.
 
-Sa durée est fixée à quinze minutes, dont cinq minutes maximum pour l'exposé du candidat et dix minutes minimum pour l'entretien. L'épreuve est affectée du coefficient 3.
+Sa durée est fixée à vingt minutes, dont cinq minutes maximum pour l'exposé du candidat et quinze minutes minimum pour l'entretien. L'épreuve est affectée du coefficient 3.

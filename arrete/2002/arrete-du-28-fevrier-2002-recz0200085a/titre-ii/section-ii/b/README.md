@@ -1,4 +1,4 @@
-# B. - Recrutement des adjoints techniques de la recherche et des agents techniques de la recherche
+# B. - Recrutement des adjoints techniques principaux de la recherche de 2e classe
 
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
