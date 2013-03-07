@@ -1,4 +1,0 @@
-# TITRE IV : RÉGIES D'AVANCES ET DE RECETTES DES GROUPEMENTS ET DES COMPAGNIES RÉPUBLICAINES DE SÉCURITÉ
-
-- [A. - Régies d'avances.](a)
-- [B. - Régies de recettes.](b)

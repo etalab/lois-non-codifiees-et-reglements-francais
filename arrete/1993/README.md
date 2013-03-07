@@ -926,7 +926,6 @@
 - [Arrêté du 29 janvier 1993 (TEFT9300127A)](arrete-du-29-janvier-1993-teft9300127a)
 - [Arrêté du 29 juillet 1993 (ECOC9300132A)](arrete-du-29-juillet-1993-ecoc9300132a)
 - [Arrêté du 29 juillet 1993 (INTB9300440A)](arrete-du-29-juillet-1993-intb9300440a)
-- [Arrêté du 29 juillet 1993 (INTF9300473A)](arrete-du-29-juillet-1993-intf9300473a)
 - [Arrêté du 29 juillet 1993 (MENL9305625A)](arrete-du-29-juillet-1993-menl9305625a)
 - [Arrêté du 29 juillet 1993 (SPSS9302192A)](arrete-du-29-juillet-1993-spss9302192a)
 - [Arrêté du 29 juillet 1993 (SPSS9302214A)](arrete-du-29-juillet-1993-spss9302214a)
