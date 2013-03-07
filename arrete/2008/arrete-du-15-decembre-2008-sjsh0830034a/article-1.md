@@ -76,7 +76,7 @@ Centre hospitalier, à Ruffec (Charente) ;
 
 Centre hospitalier, à Confolens (Charente) ;
 
-Établissement public départemental Les Deux Monts, à Montlieu-la-Garde (Charente-Maritime) ;
+Etablissement public départemental Les Deux Monts, à Montlieu-la-Garde (Charente-Maritime) ;
 
 Etablissement d'hébergement pour personnes âgées, à Bourges (Cher) ;
 
@@ -118,7 +118,7 @@ Centre de long séjour Bellevaux, à Besançon (Doubs) ;
 
 Centre de soins Les Tilleroyes, à Besançon (Doubs) ;
 
-Centre de réadaptation, à Quingey, et établissement d'hébergement pour personnes âgées dépendantes, à Levier (Doubs), direction commune ;
+Centre de réadaptation, à Quingey (Doubs) ;
 
 Centre hospitalier, à Pacy-sur-Eure (Eure) ;
 
@@ -126,7 +126,7 @@ Centre hospitalier, à Bourg-Achard (Eure) ;
 
 Centre hospitalier des Andelys et maison de retraite, à Ecouis (Eure), direction commune ;
 
-Centres hospitaliers, à Verneuil-sur-Avre et à Rugles (Eure), direction commune ;
+Centres hospitaliers, à Verneuil-sur-Avre, à Rugles et à Breteuil-sur-Iton (Eure), direction commune ;
 
 Centre hospitalier du Neubourg (Eure) ;
 
@@ -144,15 +144,9 @@ Hôpital local, à Pont-Saint-Esprit (Gard) ;
 
 Centre départemental d'accueil des familles et foyer départemental de l'enfance, à Nîmes (Gard), direction commune ;
 
-Centre hospitalier du Vigan et maisons de retraite, à Saint-Hippolyte-du-Fort et à Sauve (Gard), direction commune ;
+Centre hospitalier du Vigan et maisons de retraite, à Saint-Hippolyte-du-Fort, à Sauve et à Lasalle (Gard), direction commune ;
 
 Centre hospitalier à Uzès et établissements d'hébergement pour personnes âgées dépendantes, à Aramon, Redessan-Cabrières et à Montfrin (Gard), direction commune ;
-
-Centre hospitalier "Les hôpitaux de Luchon", à Bagnères-de-Luchon (Haute-Garonne) ;
-
-Hôpital local, à Muret (Haute-Garonne) ;
-
-Centre départemental de l'enfance et de la famille, à Toulouse (Haute-Garonne) ;
 
 Etablissement public de santé intercommunal de Lomagne, à Fleurance (Gers) ;
 
@@ -165,6 +159,18 @@ Centre hospitalier, à Lombez, et établissement d'hébergement pour personnes �
 Centre hospitalier, à Gimont (Gers) ;
 
 Centre départemental de l'enfance et de la famille, à Eysines (Gironde) ;
+
+Centre hospitalier "Les hôpitaux de Luchon", à Bagnères-de-Luchon (Haute-Garonne) ;
+
+Hôpital local, à Muret (Haute-Garonne) ;
+
+Centre départemental de l'enfance et de la famille, à Toulouse (Haute-Garonne) ;
+
+Centre hospitalier, à Yssingeaux, et établissement d'hébergement pour personnes âgées dépendantes, à Saint-Maurice-de-Lignon (Haute-Loire), direction commune ;
+
+Centre hospitalier, à Bourbonne-les-Bains (Haute-Marne) ;
+
+Centres hospitaliers, à Joinville et à Wassy (Haute-Marne), direction commune ;
 
 Hôpital local, à Lodève (Hérault) ;
 
@@ -218,8 +224,6 @@ Maison de retraite de la Loire, à Saint-Just-Saint-Rambert (Loire) ;
 
 Centre hospitalier, à Saint-Galmier (Loire) ;
 
-Centre hospitalier, à Yssingeaux, et établissement d'hébergement pour personnes âgées dépendantes, à Saint-Maurice-de-Lignon (Haute-Loire), direction commune ;
-
 Centre hospitalier, à Langeac, et établissement d'hébergement pour personnes âgées dépendantes, à Saugues (Haute-Loire), direction commune ;
 
 Institut public pour handicapés visuels, à Vertou (Loire-Atlantique) ;
@@ -230,7 +234,7 @@ Hôpital local intercommunal, à Sèvre-et-Loire (Loire-Atlantique) ;
 
 Centre départemental Enfance familles, à Saint-Sébastien-sur-Loire (Loire-Atlantique) ;
 
-Etablissement et service d'aide par le travail, à Savenay, et établissement public médico-social, à Châteaubriant (Loire-Atlantique), direction commune ;
+Etablissement et service d'aide par le travail, à Savenay et établissement public médico-social, à Châteaubriand, et maison d'accueil spécialisée Le Fraîche Pasquier, à Couëron (Loire-Atlantique), direction commune ;
 
 Maison départementale Mer et Pins, à Saint-Brévin-les-Pins (Loire-Atlantique) ;
 
@@ -246,7 +250,7 @@ Hôpital intercommunal, à Baugeois-Vallée (Maine-et-Loire) ;
 
 Centre hospitalier, à Chalonnes-sur-Loire (Maine-et-Loire) ;
 
-Etablissement d'hébergement pour personnes âgées dépendantes, à Doué-la-Fontaine (Maine-et-Loire) ;
+Centre hospitalier, à Doué-la-Fontaine (Maine-et-Loire) ;
 
 Etablissement de services publics d'accompagnement éducatifF et social, à Pouancé (Maine-et-Loire) ;
 
@@ -266,10 +270,6 @@ Centre hospitalier, à Saint-James et centre d'accueil et de soins, à Saint-Jam
 
 Centre hospitalier, à Sainte-Ménehould, et établissement d'hébergement pour personnes âgées dépendantes, à Vienne-le-Château (Marne), direction commune ;
 
-Centre hospitalier, à Bourbonne-les-Bains (Haute-Marne) ;
-
-Centres hospitaliers, à Joinville et à Wassy (Haute-Marne), direction commune ;
-
 Hôpital local, à Ernée-et-Montenay (Mayenne) ;
 
 Foyer occupationnel, établissement d'hébergement pour personnes âgées dépendantes, foyer logement, à Bais et foyer d'accueil médicalisé, à Hambers (Mayenne), direction commune ;
@@ -281,6 +281,8 @@ Hôpital local intercommunal, à Pompey - Lay-Saint-Christophe (Meurthe-et-Mosel
 Réseau éducatif de Meurthe-et-Moselle, à Laxou (Meurthe-et-Moselle) ;
 
 Centre hospitalier 3H Santé, à Cirey-sur-Vezouze (Meurthe-et-Moselle) ;
+
+Etablissements d'hébergement pour personnes âgées dépendantes, à Pont-à-Mousson et à Faulx (Meurthe-et-Moselle), direction commune ;
 
 Carrefour d'accompagnement public social, à Rosières-aux-Salines (Meurthe-et-Moselle), et centre social d'Argonne, aux Islettes (Meuse), direction commune ;
 
@@ -438,7 +440,7 @@ Etablissement public intercommunal de l'agglomération d'Annecy, à Poisy (Haute
 
 Etablissement d'hébergement pour personnes âgées dépendantes, à La Tour (Haute-Savoie) ;
 
-Maison départementale de l'enfance et de la famille, à Taninges et EPDA, à Argonnay, et établissement d'hébergement pour personnes âgées dépendantes, à Cluzes (Haute-Savoie), direction commune ;
+Maison départementale de l'enfance et de la famille, à Taninges, et établissement public départemental autonome de prévention spécialisé, à Cluzes (Haute-Savoie), direction commune ;
 
 Centre de gérontologie Les Abondances, à Boulogne-Billancourt (Hauts-de-Seine) ;
 
