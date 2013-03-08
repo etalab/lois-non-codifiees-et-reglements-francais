@@ -881,7 +881,6 @@
 - [Décret n°2004-628 du 28 juin 2004 (ECOR0460115D)](decret-n2004-628-du-28-juin-2004-ecor0460115d)
 - [Décret n°2004-760 du 28 juillet 2004 (SOCT0411143D)](decret-n2004-760-du-28-juillet-2004-soct0411143d)
 - [Décret n°2004-761 du 28 juillet 2004 (SANH0421475D)](decret-n2004-761-du-28-juillet-2004-sanh0421475d)
-- [Décret n°2004-762 du 28 juillet 2004 (AGRF0401414D)](decret-n2004-762-du-28-juillet-2004-agrf0401414d)
 - [Décret n°2004-763 du 28 juillet 2004 (MCCB0400382D)](decret-n2004-763-du-28-juillet-2004-mccb0400382d)
 - [Décret n°2004-764 du 28 juillet 2004 (INDI0403328D)](decret-n2004-764-du-28-juillet-2004-indi0403328d)
 - [Décret n°2004-772 du 28 juillet 2004 (INDI0403094D)](decret-n2004-772-du-28-juillet-2004-indi0403094d)
