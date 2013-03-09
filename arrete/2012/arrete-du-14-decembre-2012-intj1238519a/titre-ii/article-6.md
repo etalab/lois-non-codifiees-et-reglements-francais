@@ -34,7 +34,7 @@ En application de l'article 25 du décret n° 2008-955 du 12 septembre 2008 susv
 
 ― le commandant de la gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-― le commandant de la gendarmerie de La Réunion ;
+― le commandant de la gendarmerie  de La Réunion, commandant de la gendarmerie pour la zone de défense et de sécurité du Sud de l'océan Indien ;
 
 ― le commandant de la gendarmerie de Mayotte ;
 

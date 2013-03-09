@@ -36,12 +36,12 @@ En application de l'article 1er du décret n° 2009-1723 du 30 décembre 2009 su
 
 ― le commandant de la gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-― le commandant de la gendarmerie de La Réunion ;
+― le commandant de la gendarmerie de La Réunion, commandant de la gendarmerie pour la zone de défense et de sécurité du Sud de l'océan Indien ;
 
 ― le commandant de la gendarmerie de Mayotte ;
 
 ― le commandant de la gendarmerie pour la Polynésie française ;
 
-― le commandant de la gendarmerie de Saint-Pierre-et-Miquelon ;
+― le commandant de la gendarmerie       pour Saint-Pierre-et-Miquelon ;
 
 ― le commandant du groupe d'intervention de la gendarmerie nationale.

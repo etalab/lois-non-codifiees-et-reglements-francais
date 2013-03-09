@@ -34,7 +34,7 @@ Les autorités désignées ci-après reçoivent délégation de pouvoirs du mini
 
 ― commandant de la gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-― commandant de la gendarmerie de La Réunion ;
+― commandant de la gendarmerie  de La Réunion, commandant de la gendarmerie pour la zone de défense et de sécurité du Sud de l'océan Indien ;
 
 ― commandant de la gendarmerie de Mayotte ;
 

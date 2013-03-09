@@ -12,13 +12,13 @@ I. - En application de l'article 29 du décret n° 2008-952 du 12 septembre 2008
 
 - le commandant de la gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-- le commandant de la gendarmerie de La Réunion ;
+- le commandant de la gendarmerie de La Réunion, commandant de la gendarmerie pour la zone de défense et de sécurité du Sud de l'océan Indien ;
 
 - le commandant de la gendarmerie de Mayotte ;
 
 - le commandant de la gendarmerie pour la Polynésie française ;
 
-- le commandant de la gendarmerie de Saint-Pierre-et-Miquelon ;
+- le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
 - le commandant de la garde républicaine.
 
@@ -58,12 +58,12 @@ II. - En application de l'article 29 du décret n° 2008-952 du 12 septembre 200
 
 - le commandant de la gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-- le commandant de la gendarmerie de La Réunion ;
+- le commandant de la gendarmerie de La Réunion, commandant de la gendarmerie pour la zone de défense et de sécurité du Sud de l'océan Indien ;
 
 - le commandant de la gendarmerie de Mayotte ;
 
 - le commandant de la gendarmerie pour la Polynésie française ;
 
-- le commandant de la gendarmerie de Saint-Pierre-et-Miquelon ;
+- le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
 - le commandant du groupe d'intervention de la gendarmerie nationale.

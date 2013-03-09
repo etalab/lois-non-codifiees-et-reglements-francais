@@ -36,13 +36,13 @@ En application de l'article 23 du décret n° 2008-961 du 12 septembre 2008 susv
 
 ― le commandant de la gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-― le commandant de la gendarmerie de La Réunion ;
+― le commandant de la gendarmerie de La Réunion, commandant de la gendarmerie pour la zone de défense et de sécurité du Sud de l'océan Indien ;
 
 ― le commandant de la gendarmerie de Mayotte ;
 
 ― le commandant de la gendarmerie pour la Polynésie française ;
 
-― le commandant de la gendarmerie de Saint-Pierre-et-Miquelon ;
+― le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
 ― le commandant du groupe d'intervention de la gendarmerie nationale,
 
@@ -50,4 +50,4 @@ reçoivent, en ce qui concerne les militaires engagés de la gendarmerie nationa
 
 ― signer les contrats d'engagement ;
 
-― renouveler ou refuser de renouveler les contrats d'engagement.
+― signer les contrats renouvelant l'engagement.
