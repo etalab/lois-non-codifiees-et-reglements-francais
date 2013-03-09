@@ -34,8 +34,6 @@ d) Pour les jeux des machines à sous sont établis :
 
 Le montant du produit brut mentionné sur ce dernier état et les résultats du registre de contrôle susvisé sont ensuite reportés sur un carnet des prélèvements (modèle n° 13) qui sert à déterminer le montant des différents prélèvements auxquels le casino est assujetti.
 
-Cotés et paraphés avant tout usage les fonctionnaires du ministère de l'intérieur chargés du contrôle les différents registres et carnets (modèles n° s 10, 10 bis, 11, 11 ter, 11 quater, 12, 29, 32, 33 et 35) sont tenus dans les conditions de régularité exigées pour les livres de commerce. Ils ne doivent présenter ni grattages, ni surcharges. En cas d'erreurs, les rectifications sont faites à l'encre rouge et elles sont approuvées en toutes lettres par le directeur ou le membre du comité de direction qui le remplace.
-
-Il est établi, en outre, une fois par mois, un bordereau de versement du prélèvement à la commune en vertu du cahier des charges (modèle n° 14).
+Cotés et paraphés avant tout usage par les fonctionnaires du ministère de l'intérieur chargés du contrôle, les différents registres et carnets (modèles n<sup>os</sup> 10, 10 bis, 11, 11 ter, 11 quater, 12, 29, 32, 33 et 35) sont tenus dans les conditions de régularité exigées pour les livres de commerce. Ils ne doivent présenter ni grattages, ni surcharges. En cas d'erreurs, les rectifications sont faites à l'encre rouge et elles sont approuvées en toutes lettres par le directeur ou le membre du comité de direction qui le remplace.
 
 Lorsque la gestion comptable est informatisée, les documents de la comptabilité spéciale peuvent être établis par informatique garantissant la traçabilité des opérations et validés par signature électronique.

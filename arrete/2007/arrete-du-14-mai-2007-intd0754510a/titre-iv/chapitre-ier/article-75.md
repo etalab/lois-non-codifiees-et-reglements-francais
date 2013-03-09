@@ -12,6 +12,6 @@ Le carnet des prélèvements établi par le casino est tenu à livre ouvert et c
 
 - le montant, par journée, des produits enregistrés au titre des jeux de contrepartie, des jeux dits de cercle, des jeux de contrepartie et des jeux de cercle exploités sous la forme électronique, du premier au dernier jour du mois, ainsi que le montant total du produit réel des jeux des machines à sous réalisé au cours du mois considéré. Il est complété, après inscription des opérations du dernier jour du mois, par le report des résultats antérieurs, de manière à déterminer le produit brut réel des jeux depuis le début de la saison (1er novembre de l'année N - 31 octobre de l'année N + 1).
 
-- l'assiette des différents prélèvements et leurs éléments de calcul.
+- l'assiette des différents prélèvements opérés par l'Etat, les communes, les établissements publics de coopération intercommunale et les organismes sociaux sur les jeux ainsi que leurs éléments de calcul.
 
 Dans le cas où le casino adopterait une gestion comptable informatisée, le carnet des prélèvements peut être établi par procédé informatique garantissant la traçabilité des opérations.
