@@ -2708,7 +2708,6 @@
 - [Arrêté du 29 octobre 2009 (ECET0924324A)](arrete-du-29-octobre-2009-ecet0924324a)
 - [Arrêté du 29 octobre 2009 (IOCC0921904A)](arrete-du-29-octobre-2009-iocc0921904a)
 - [Arrêté du 29 octobre 2009 (SASP0925431A)](arrete-du-29-octobre-2009-sasp0925431a)
-- [Arrêté du 29 octobre 2010 (BCRE1011675A)](arrete-du-29-octobre-2010-bcre1011675a)
 - [Arrêté du 29 septembre 2009 (AGRE0922538A)](arrete-du-29-septembre-2009-agre0922538a)
 - [Arrêté du 29 septembre 2009 (BCFD0922576A)](arrete-du-29-septembre-2009-bcfd0922576a)
 - [Arrêté du 29 septembre 2009 (DEVA0916303A)](arrete-du-29-septembre-2009-deva0916303a)
