@@ -1,155 +1,597 @@
 # Article 15
 
-Redevance de dispositif de sûreté. - Le montant de la redevance de dispositif de sûreté relative à la certification ou à la justification de performances des équipements de détection et des autres moyens utilisés pour la sûreté du transport aérien, prévue au IV de l'article R. 611-5 du code de l'aviation civile, est fixé ainsi qu'il suit.
+Redevance de dispositif de sûreté.-Le montant de la redevance de dispositif de sûreté relative à la certification ou à la justification de performances des équipements de détection et des autres moyens utilisés pour la sûreté du transport aérien, prévue au IV de l'article R. 611-5 du code de l'aviation civile, est fixé ainsi qu'il suit.
 
 Son montant est fixé selon le tableau suivant :
 
 <table>
 <tbody>
 <tr>
-<td width="548">
-<p align="center">ÉQUIPEMENTS</p>
+<th>
+<br/>ÉQUIPEMENTS <br/>
+</th>
+<th>
+<br/>PRESTATIONS <br/>
+</th>
+<th>
+<br/>TARIFS <br/>
+<p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center" rowspan="4">
+<br/>Portiques détecteurs de masses métalliques <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
-<td width="151">
-<p align="center">TARIFS<br/>(en euros)</p>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat de type le cas échéant <br/>
+</td>
+<td align="center">
+<br/>10 000 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Equipement portatif de détection des masses métalliques sur les personnes.</p>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Portique de détection des masses métalliques.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">790</p>
+<td align="center">
+<br/>500 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Appareil de détection de masses métalliques dans les colis.</p>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">1 650</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Equipement d'imagerie radioscopique d'inspection des bagages et/ou des colis dont le tunnel d'inspection a une section inférieure ou égale à 1 m<sup>2</sup>.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">1 650</p>
+<td align="center">
+<br/>2 400 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Equipement d'imagerie radioscopique d'inspection des bagages et/ou des colis, dont l et h expriment la largeur et la hauteur du tunnel d'inspection en mètre lorsque sa section est strictement supérieure à 1 m<sup>2</sup>.</p>
+<td align="center">
+<br/>Demande d'amendement du certificat avec tests partiels <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">1 650 x l x h</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Système de détection PEDS monogénérateur.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">11 000</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Système de détection PEDS multigénérateur.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">16 500</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Système de détection EDS dont la cadence d'inspection est inférieure ou égale à 200 bagages par heure.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">16 500</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Système de détection EDS dont la cadence d'inspection est comprise entre 200 et 500 bagages par heure.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">24 000</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Système de détection EDS dont la cadence d'inspection est supérieure ou égale à 500 bagages par heure.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">33 000</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Equipement de détection de traces.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">2 200</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Chien de recherche d'explosifs pour un premier domaine d'emploi.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">1 100</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chien de recherche d'explosifs pour un domaine d'emploi additionnel.</p>
-</td>
-<td>
-<p align="center">550</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p align="left">Equipement utilisant une technologie biométrique Nb1 étant le nombre de lecteurs biométriques concernés par l'installation.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">550 (1 + Nb1 <sup>0,5</sup>)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Système automatique de suivi des bagages ; Tab est la capacité annuelle de traitement des bagages, au départ et en transit, de la partie d'aérogare concernée par le système.</p>
-</td>
-<td>
-<p align="center">0,02 × Tab</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Système automatique de suivi des colis ; NbLi est le nombre de lignes concernées par le système.</p>
-</td>
-<td>
-<p align="center">11 000 × NbLi <sup>0,8</sup>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 2 000 euros par jour de test <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p align="left">Système automatique de suivi des passagers ; Tap est la capacité annuelle de traitement au départ des passagers de la partie d'aérogare concernée par le système.</p>
+<td align="center" rowspan="4">
+<br/>Détecteurs de masses métalliques dans le fret <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="151">
-<p align="center">11 × Tap <sup>0,5</sup>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat de type le cas échéant <br/>
+</td>
+<td align="center">
+<br/>9 900 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>1 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat avec tests partiels <br/>
+</td>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 1 300 euros par jour de test <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<br/>Détecteurs de masses métalliques portatifs <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>3 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="4">
+<br/>Appareils d'imagerie radioscopique <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat de type le cas échéant <br/>
+</td>
+<td align="center">
+<br/>7 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat avec tests partiels <br/>
+</td>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 1 750 euros par jour de test <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Agrément initial d'une bibliothèque d'images fictives ou d'images de menace (TIP) <br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat d'agrément initial le cas échéant <br/>
+</td>
+<td align="center">
+<br/>3 700 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Agrément d'une modification d'une bibliothèque TIP <br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat d'agrément d'une modification le cas échéant <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="7">
+<br/>Systèmes de détection d'explosifs (EDS) pour les bagages de soute <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire lors de créneaux programmés <br/>
+</td>
+<td align="center">
+<br/>21 400 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation en laboratoire lors de créneaux non programmés <br/>
+</td>
+<td align="center">
+<br/>42 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>2 500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>4 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat avec tests partiels <br/>
+</td>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 3 160 euros par jour de test <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation sur simulateur <br/>
+</td>
+<td align="center">
+<br/>13 300 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="6">
+<br/>Appareils détecteurs de traces d'explosifs <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire lors de créneaux programmés <br/>
+</td>
+<td align="center">
+<br/>6 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation en laboratoire lors de créneaux non programmés <br/>
+</td>
+<td align="center">
+<br/>24 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>900 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>900 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat avec tests partiels <br/>
+</td>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 1 200 euros par jour de test <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="6">
+<br/>Appareils analyseurs de liquides <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire lors de créneaux programmés <br/>
+</td>
+<td align="center">
+<br/>40 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation en laboratoire lors de créneaux non programmés <br/>
+</td>
+<td align="center">
+<br/>120 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>2 400 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>4 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat avec tests partiels <br/>
+</td>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 8 000 euros par jour de test <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<br/>EDS pour les bagages de cabine <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>2 400 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>4 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">
+<br/>Equipe cynotechnique <br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat le cas échéant-premier domaine d'emploi <br/>
+</td>
+<td align="center">
+<br/>470 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat le cas échéant-par domaine d'emploi supplémentaire <br/>
+</td>
+<td align="center">
+<br/>290 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<br/>Système odorologie <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Evaluation en laboratoire et délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>4 400 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type avec tests partiels <br/>
+</td>
+<td align="center">
+<br/>Selon devis sur la base d'un tarif <br/>
+<p>de 1 090 euros par jour de test <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<br/>Scanner de sécurité <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Délivrance d'un certificat de type <br/>
+</td>
+<td align="center">
+<br/>1 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délivrance d'un certificat individuel <br/>
+</td>
+<td align="center">
+<br/>600 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Demande d'amendement du certificat de type sans test <br/>
+</td>
+<td align="center">
+<br/>1 800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation d'un système de contrôle d'accès utilisant une technologie biométrique (Nbl est le nombre de lecteurs biométriques concernés par l'installation) <br/>
+</td>
+<td align="center">
+<br/>Evaluation sur site et délivrance d'un certificat le cas échéant <br/>
+</td>
+<td align="center">
+<br/>550 (1 + Nbl0, 5) <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation d'un système automatique de suivi des bagages (Tab est la capacité annuelle de traitement des bagages, au départ et en transit, de la partie d'aérogare concernée par le système) <br/>
+</td>
+<td align="center">
+<br/>Evaluation sur site et délivrance d'un certificat le cas échéant <br/>
+</td>
+<td align="center">
+<br/>0,02 × Tab <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation d'un système automatique de suivi des colis (NbLi est le nombre de lignes concernées par le système) <br/>
+</td>
+<td align="center">
+<br/>Evaluation sur site et délivrance d'un certificat le cas échéant <br/>
+</td>
+<td align="center">
+<br/>11 000 × NbLi0, 8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Evaluation d'un système automatique de suivi des passagers (Tap est la capacité annuelle de traitement au départ des passagers de la partie d'aérogare concernée par le système) <br/>
+</td>
+<td align="center">
+<br/>Evaluation sur site et délivrance d'un certificat le cas échéant <br/>
+</td>
+<td align="center">
+<br/>11 × Tap0, 5<br/>
 </td>
 </tr>
 </tbody>

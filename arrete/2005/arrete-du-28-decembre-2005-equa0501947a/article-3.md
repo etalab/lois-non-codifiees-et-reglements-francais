@@ -1,6 +1,6 @@
 # Article 3
 
-Redevance de maintenance.-Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de maintenance prévue par le III de l'article R. 611-3 ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
+Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de maintenance prévue par le III de l'article R. 611-3 du code de l'aviation civile pour tout organisme postulant à la délivrance ou titulaire d'un agrément prévu par les parties 145 et M du règlement (CE) n° 2042/2003 et par le 3° de l'article R. 133-1-1 susvisés ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
 
 Les organismes assujettis à cette redevance sont tenus de déclarer à l'organisme technique habilité les éléments utiles au calcul de cette redevance au plus tard le 10e jour qui suit l'établissement ou la modification des paramètres " effectif ", " Nbase ", " Nligne ", " A ", " M ", " E " " Nsites " et " Naprs " ci-après définis.
 
@@ -306,7 +306,7 @@ Organismes dont le périmètre d'agrément inclut des aéronefs complets :
 <p align="center">DURÉE <br/>d'instruction <br/>inférieure <br/>ou égale <br/>à 4 mois </p>
 </td>
 <td width="205">
-<p align="center">AU-DELÀ, <br/>pro rata temporis <br/>sur la base de <br/>n heures/ mois d'instruction <br/>supplémentaire </p>
+<p align="center">AU-DELÀ, <br/>pro rata temporis <br/>sur la base de <br/>n k2/ mois d'instruction <br/>supplémentaire </p>
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ Organismes dont le périmètre d'agrément inclut des aéronefs complets :
 <p>2,7 t ou moins </p>
 </td>
 <td valign="top" width="205">
-<p align="center">12 heures </p>
+<p align="center">12 k2 </p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 4 </p>
@@ -325,7 +325,7 @@ Organismes dont le périmètre d'agrément inclut des aéronefs complets :
 <p>Plus de 2,7 t </p>
 </td>
 <td valign="top" width="205">
-<p align="center">24 heures </p>
+<p align="center">24 k2 </p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 8 </p>
@@ -346,7 +346,7 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <p align="center">DURÉE <br/>d'instruction <br/>inférieure <br/>ou égale <br/>à 4 mois </p>
 </td>
 <td width="205">
-<p align="center">AU-DELÀ, <br/>pro rata temporis <br/>sur la base de <br/>n heures/ mois d'instruction <br/>supplémentaire </p>
+<p align="center">AU-DELÀ, <br/>pro rata temporis <br/>sur la base de <br/>n k2/ mois d'instruction <br/>supplémentaire </p>
 </td>
 </tr>
 <tr>
@@ -354,7 +354,7 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <p>Moteurs à piston </p>
 </td>
 <td valign="top" width="205">
-<p align="center">12 heures </p>
+<p align="center">12 k2 </p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 4 </p>
@@ -365,7 +365,7 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <p>Turbopropulseurs </p>
 </td>
 <td valign="top" width="205">
-<p align="center">18 heures </p>
+<p align="center">18 k2 </p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 6 </p>
@@ -376,7 +376,7 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <p>Réacteur </p>
 </td>
 <td valign="top" width="205">
-<p align="center">24 heures </p>
+<p align="center">24 k2 </p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 8 </p>
@@ -394,12 +394,12 @@ Autres organismes :
 <p align="center">DURÉE D'INSTRUCTION <br/>inférieure ou égale à 4 mois </p>
 </td>
 <td width="467">
-<p align="center">AU-DELÀ, PRO RATA TEMPORIS <br/>sur la base de n heures/ mois d'instruction <br/>supplémentaire </p>
+<p align="center">AU-DELÀ, PRO RATA TEMPORIS <br/>sur la base de n k2/ mois d'instruction <br/>supplémentaire </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="233">
-<p>12 heures </p>
+<p>12 k2 </p>
 </td>
 <td valign="top" width="467">
 <p align="center">n = 4 </p>

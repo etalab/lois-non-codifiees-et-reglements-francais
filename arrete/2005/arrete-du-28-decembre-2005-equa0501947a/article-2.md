@@ -345,7 +345,7 @@ L'instruction effectuée en vue de la délivrance d'un agrément selon la sous-p
 <p align="center">DURÉE<br/>d'instruction<br/>inférieure<br/>ou égale<br/>à 4 mois</p>
 </td>
 <td width="205">
-<p align="center">AU-DELÀ,<br/>pro rata temporis<br/>sur la base de<br/>n heures/mois d'instruction<br/>supplémentaire</p>
+<p align="center">AU-DELÀ,<br/>pro rata temporis<br/>sur la base de<br/>n k1/mois d'instruction<br/>supplémentaire</p>
 </td>
 </tr>
 <tr>
@@ -353,7 +353,7 @@ L'instruction effectuée en vue de la délivrance d'un agrément selon la sous-p
 <p>2,7 t ou moins</p>
 </td>
 <td valign="top" width="205">
-<p align="center">12 heures</p>
+<p align="center">12 k1</p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 4</p>
@@ -364,7 +364,7 @@ L'instruction effectuée en vue de la délivrance d'un agrément selon la sous-p
 <p>Entre 2,7 t et 5,7 t</p>
 </td>
 <td valign="top" width="205">
-<p align="center">24 heures</p>
+<p align="center">24 k1</p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 8</p>
@@ -375,7 +375,7 @@ L'instruction effectuée en vue de la délivrance d'un agrément selon la sous-p
 <p>Entre 5,7 t et 8,6 t</p>
 </td>
 <td valign="top" width="205">
-<p align="center">40 heures</p>
+<p align="center">40 k1</p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 12</p>
@@ -386,7 +386,7 @@ L'instruction effectuée en vue de la délivrance d'un agrément selon la sous-p
 <p>Entre 8,6 t et 25 t</p>
 </td>
 <td valign="top" width="205">
-<p align="center">60 heures</p>
+<p align="center">60 k1</p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 16</p>
@@ -397,7 +397,7 @@ L'instruction effectuée en vue de la délivrance d'un agrément selon la sous-p
 <p>Au-dessus de 25 t</p>
 </td>
 <td valign="top" width="205">
-<p align="center">100 heures</p>
+<p align="center">100 k1</p>
 </td>
 <td valign="top" width="205">
 <p align="center">n = 20</p>

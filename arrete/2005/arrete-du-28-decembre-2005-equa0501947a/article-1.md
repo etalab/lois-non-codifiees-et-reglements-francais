@@ -1,12 +1,12 @@
 # Article 1
 
-Redevance de production. - Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de production prévue par le I de l'article R. 611-3 du code de l'aviation civile ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
+Redevance de production.-Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de production prévue par le I de l'article R. 611-3 du code de l'aviation civile ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
 
-Les entreprises assujetties au paiement de la redevance de production sont tenues de déclarer à l'organisme technique habilité  les éléments utiles au calcul de cette redevance au plus tard le 31 décembre de l'année N-1 aux fins de déterminer le montant annuel de la redevance de l'année N suivante.
+Les entreprises assujetties au paiement de la redevance de production sont tenues de déclarer à l'organisme technique habilité les éléments utiles au calcul de cette redevance au plus tard le 31 décembre de l'année N-1 aux fins de déterminer le montant annuel de la redevance de l'année N suivante.
 
 Ces entreprises sont :
 
-A.-Les entreprises titulaires d'un agrément de production prévu par la sous-partie G des sections A et B de la partie 21 du règlement (CE) n° 1702/2003 de la Commission du 24 septembre 2003 établissant des règles d'application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production.
+A.-Les entreprises titulaires d'un agrément de production prévu par la sous-partie G des sections A et B de la partie 21 du règlement (CE) n°  748/2012 de la Commission du 24 septembre 2003 établissant des règles d'application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production.
 
 Le montant annuel de la redevance est calculé à partir d'une redevance de référence pour l'année.
 
@@ -175,11 +175,11 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 
 (iv) La redevance de production pour l'année N est la moyenne des redevances de référence déterminées en appliquant les dispositions prévues aux alinéas (i), (ii) et (iii) aux chiffres d'affaires des trois derniers exercices sociaux arrêtés déclarés par l'entreprise, multipliée par <sub>k0</sub>, où " <sub>k0</sub> " est un coefficient de proportionnalité qui est fonction du taux horaire et du nombre d'unités de surveillance et se déduit du coût complet des contrôles organisés sur l'ensemble des entreprises de production considérés. La valeur de " <sub>k0</sub> " est fixée en annexe au présent arrêté.
 
-(v) Dans le cas de l'instruction d'une demande d'agrément de production, le montant de la redevance d'instruction est égale au double de la redevance de référence déterminée en appliquant les dispositions prévues aux alinéas (i), (ii) et (iii) au chiffre d'affaires du dernier exercice social arrêté déclaré par l'entreprise.
+(v) Dans le cas de l'instruction d'une demande d'agrément de production, le montant de la redevance d'instruction est égal au double de la redevance de référence déterminée en appliquant les dispositions prévues aux alinéas (i), (ii) et (iii) au chiffre d'affaires du dernier exercice social arrêté déclaré par l'entreprise postulante, multiplié par k0.
 
 (vi) Dans le cas où l'entreprise est titulaire d'un agrément de production depuis moins de trois ans au 1er janvier de l'année en cours, le montant de la redevance pour cette année est la moyenne des redevances de référence déterminées en appliquant les dispositions prévues aux alinéas (i), (ii) et (iii) aux chiffres d'affaires des exercices sociaux arrêtés déclarés par l'entreprise depuis la date de demande d'agrément de production.
 
-B.-Les entreprises postulant à la délivrance ou titulaires d'une autorisation de production en vertu de la sous-partie F des sections A et B de la partie 21 du règlement (CE) n° 1702/2003 susmentionné.
+B.-Les entreprises postulant à la délivrance ou titulaires d'une autorisation de production en vertu de la sous-partie F des sections A et B de la partie 21 du règlement (CE) n°  748/2012 susmentionné.
 
 Le montant de la redevance est établi, y compris dans le cas où cette redevance concerne l'instruction de la demande d'autorisation, par le ministre chargé de l'aviation civile en fonction du temps passé.
 

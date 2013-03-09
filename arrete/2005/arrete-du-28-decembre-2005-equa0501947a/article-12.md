@@ -18,11 +18,11 @@ Cette redevance couvre également l'établissement du certificat d'examen de nav
 
 Pour les aéronefs exploités par un transporteur aérien soumis à la redevance d'exploitant d'aéronef, le montant de la redevance (R) est établi sur la base forfaitaire suivante :
 
-(R) = <sub>k10</sub> × 6,9 pour un aéronef certifié selon les codes de navigabilités communautaires CS 25 ou CS 29 ou selon des codes équivalents ;
+(R) = <sub>k10 </sub>× 6,9 pour un aéronef certifié selon les codes de navigabilités communautaires CS 25 ou CS 29 ou selon des codes équivalents ;
 
-(R) = <sub>k10</sub> × 3,6 pour les autres aéronefs,
+(R) = <sub>k10 </sub>× 3,6 pour les autres aéronefs,
 
-où <sub>k10</sub> est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des aéronefs concernés. La valeur de <sub>k10</sub> est fixée en annexe au présent arrêté.
+où <sub>k10 </sub>est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des aéronefs concernés. La valeur de <sub>k10 </sub>est fixée en annexe au présent arrêté.
 
 Pour les autres aéronefs, le montant de la redevance (R) est établi selon les tableaux suivants, en fonction, d'une part, de la puissance de la motorisation de l'aéronef et, d'autre part, de la périodicité des examens de navigabilité.
 
@@ -113,12 +113,12 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 </tr>
 <tr>
 <td valign="top" width="294">
-<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à <sub>k10</sub> × 11. </p>
+<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à <sub>k10 </sub>× 11. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="294">
-<p>Pour les autres aéronefs, (R) est plafonnée à <sub>k10</sub> × 6. </p>
+<p>Pour les autres aéronefs, (R) est plafonnée à <sub>k10 </sub>× 6. </p>
 </td>
 </tr>
 <tr>
@@ -139,12 +139,12 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 </tr>
 <tr>
 <td valign="top" width="294">
-<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à <sub>k10</sub> × 6,9. </p>
+<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à <sub>k10 </sub>× 6,9. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="294">
-<p>Pour les autres aéronefs, (R) est plafonnée à <sub>k10</sub> × 3,6. </p>
+<p>Pour les autres aéronefs, (R) est plafonnée à <sub>k10 </sub>× 3,6. </p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 </tr>
 <tr>
 <td valign="top" width="294">
-<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à <sub>k10</sub> × 11. </p>
+<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à <sub>k10 </sub>× 11. </p>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>Aéronef non motorisé entretenu en cadre agréé depuis le précédent examen </p>
 </td>
 <td valign="top" width="233">
-<p align="center">0,4 <sub>k10</sub>
+<p align="center">0,4 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -243,7 +243,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>Autres aéronefs non motorisés </p>
 </td>
 <td valign="top" width="233">
-<p align="center">0,7 <sub>k10</sub>
+<p align="center">0,7 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -252,7 +252,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>Aéronef motorisé entretenu en cadre agréé depuis le précédent examen </p>
 </td>
 <td valign="top" width="233">
-<p align="center">0,7 <sub>k10</sub>
+<p align="center">0,7 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -261,7 +261,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>Autre aéronef motorisé </p>
 </td>
 <td valign="top" width="233">
-<p align="center">1 <sub>k10</sub>
+<p align="center">1 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -270,7 +270,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>MMD ≤ 2,7 t. </p>
 </td>
 <td valign="top" width="233">
-<p align="center">1 <sub>k10</sub>
+<p align="center">1 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -279,7 +279,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>2,7 t &lt; MMD ≤ 5,7 t. </p>
 </td>
 <td valign="top" width="233">
-<p align="center">2 <sub>k10</sub>
+<p align="center">2 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -288,7 +288,7 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>5,7 t &lt; MMD ≤ 2,5 t. </p>
 </td>
 <td valign="top" width="233">
-<p align="center">4 <sub>k10</sub>
+<p align="center">4 <sub>k10 </sub>
 </p>
 </td>
 </tr>
@@ -428,7 +428,7 @@ F.-Pour ce qui concerne les aéronefs ultra-légers motorisés (ULM), le montant
 
 La redevance est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile.
 
-G.-Pour ce qui concerne les laissez-passer délivrés en application du IV de l'article R. 133-1 du code de l'aviation civile ou de la sous-partie P de la partie 21 du règlement (CE) 1702/2003, le montant de la redevance d'aptitude au vol est déterminé selon les conditions d'instruction du laissez-passer et la catégorie d'aéronefs concernée. Il est établi selon le tableau suivant :
+G.-Pour ce qui concerne les laissez-passer délivrés en application du IV de l'article R. 133-1 du code de l'aviation civile ou de la sous-partie P de la partie 21 du règlement (CE) 748/2012, le montant de la redevance d'aptitude au vol est déterminé selon les conditions d'instruction du laissez-passer et la catégorie d'aéronefs concernée. Il est établi selon le tableau suivant :
 
 <table>
 <tbody>
