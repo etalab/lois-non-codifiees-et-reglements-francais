@@ -85,12 +85,8 @@ Les services de prévision des crues par bassins et sous-bassins
 <td valign="top" width="132">
 <p>Artois-Picardie.</p>
 </td>
-<td valign="top" width="151">
-<p>DIREN Nord -Pas-de-Calais.</p>
-</td>
-<td width="265">
-<p>Fleuves côtiers du Boulonnais, Aa, Lys, Scarpe, Escaut, Sambre, Canche, Authie, Somme.</p>
-</td>
+<td valign="top" width="151">DREAL Nord-Pas-de-Calais.</td>
+<td width="265">Fleuves côtiers du Boulonnais, Aa, Lys, Scarpe, Escaut, Sambre, Canche, Authie, Somme.</td>
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="132">
@@ -99,11 +95,9 @@ Les services de prévision des crues par bassins et sous-bassins
 <td width="132">
 <p>Allier.</p>
 </td>
-<td width="151">
-<p>DDE du Puy-de-Dôme.</p>
-</td>
+<td width="151">DREAL Auvergne.</td>
 <td width="265">
-<p>Allier.</p>
+<p>Bassin de l'Allier. </p>
 </td>
 </tr>
 <tr>
@@ -143,9 +137,7 @@ Les services de prévision des crues par bassins et sous-bassins
 <td width="132">
 <p>Vilaine-côtiers bretons.</p>
 </td>
-<td width="151">
-<p>DDE d'Ille-et-Vilaine.</p>
-</td>
+<td width="151">DREAL Bretagne.</td>
 <td width="265">
 <p>Côtiers bretons, de la Vilaine au Couesnon inclus.</p>
 </td>
@@ -157,22 +149,18 @@ Les services de prévision des crues par bassins et sous-bassins
 <td width="132">
 <p>Rhin-Sarre.</p>
 </td>
-<td width="151">
-<p>SN Strasbourg.</p>
-</td>
+<td width="151">DREAL Alsace.</td>
 <td width="265">
-<p>Rhin, Sarre, Ill, Zorn.</p>
+<p>Rhin et ses affluents alsaciens, Sarre (Nieds exclus). </p>
 </td>
 </tr>
 <tr>
 <td width="132">
 <p>Meuse-Moselle.</p>
 </td>
-<td width="151">
-<p>DIREN Lorraine.</p>
-</td>
+<td width="151">DREAL Lorraine.</td>
 <td width="265">
-<p>Meuse, Moselle, Nieds.</p>
+<p>Bassin de la Meuse, bassin de la Moselle y compris Nieds (Sarre exclue). </p>
 </td>
 </tr>
 <tr>
@@ -182,55 +170,43 @@ Les services de prévision des crues par bassins et sous-bassins
 <td valign="top" width="132">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="151">
-<p>DIREN Rhône-Alpes.</p>
-</td>
-<td width="265">
-<p>Saône, Rhône (rive droite du Rhône jusqu'à la limite nord du département de l'Ardèche, rive gauche du Rhône du Guiers [non inclus] à la limite nord du département de la Drôme).</p>
+<td valign="top" width="151">DREAL Rhône-Alpes.</td>
+<td width="265">Saône, Rhône et ses affluents jusqu'à la limite nord du département de la Drôme, exceptés les bassins concernés par le service de prévision des crues Alpes du Nord. <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
 <p>Alpes du Nord.</p>
 </td>
-<td valign="top" width="151">
-<p>DDE de l'Isère.</p>
-</td>
-<td width="265">
-<p>Isère, rive gauche du Rhône jusqu'au Guiers (inclus) et les affluents rive gauche de la limite nord du département de la Drôme au bassin versant de l'Isère inclus.</p>
-</td>
+<td valign="top" width="151">DREAL Rhône-Alpes.</td>
+<td width="265">Isère, les affluents rive gauche du lac Léman et du Rhône jusqu'au Guiers (inclus), les affluents rive gauche du Rhône du Dolon (inclus) à l'Isère.</td>
 </tr>
 <tr>
 <td valign="top" width="132">
 <p>Grand Delta.</p>
 </td>
-<td valign="top" width="151">
-<p>DDE du Gard.</p>
+<td valign="top" width="151">DREAL Rhône-Alpes. <br/>
 </td>
-<td width="265">
-<p>Rhône aval (rive droite à l'aval de la limite nord du département de l'Ardèche, rive gauche à l'aval du bassin versant de l'Isère), Vidourle, Vistre.</p>
+<td width="265">Rhône aval (à l'aval de la limite nord du département de la Drôme), et ses principaux affluents, bassins du Vidourle et du Vistre. <br/>
 </td>
 </tr>
 <tr>
 <td width="132">
 <p>Méditerranée Ouest.</p>
 </td>
-<td width="151">
-<p>DDE de l'Aude.</p>
+<td width="151">DREAL Languedoc-Roussillon. <br/>
 </td>
 <td width="265">
-<p>Tech, Têt, Réart, Agly, Aude, Orb, Hérault, Lez.</p>
+<p>Cours d'eau côtiers méditerranéens à l'ouest du Lez (inclus). </p>
 </td>
 </tr>
 <tr>
 <td width="132">
 <p>Méditerranée Est.</p>
 </td>
-<td width="151">
-<p>Météo-France, DIRSE.</p>
+<td width="151">Météo-France, DIRSE. <br/>
 </td>
-<td width="265">
-<p>Touloubre, Huveaune, Argens, Loup, Siagne, Var.</p>
+<td width="265">Cours d'eau côtiers à l'est du Rhône (non inclus). <br/>
 </td>
 </tr>
 <tr>
@@ -240,44 +216,37 @@ Les services de prévision des crues par bassins et sous-bassins
 <td valign="top" width="132">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="151">
-<p>DDE de la Seine-Maritime.</p>
+<td valign="top" width="151">DREAL Haute-Normandie. <br/>
 </td>
-<td width="265">
-<p>Seine en aval de la limite sud du département de l'Eure, côtiers normands, Epte.</p>
+<td width="265">Bassin des fleuves côtiers normands, de l'Eure, de l'Epte et de la Seine à partir de la limite sud du département de l'Eure. Fleuve Seine à l'aval du barrage de Poses. <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="151">
-<p>DIREN Ile-de-France.</p>
+<td valign="top" width="151">DRIEE. <br/>
 </td>
-<td valign="top" width="265">
-<p>Seine à partir du département de Seine-et-Marne inclus et jusqu'à la limite sud du département de l'Eure, Marne à partir du département de Seine-et-Marne inclus, Yonne, Loing, Oise à partir du département du Val-d'Oise inclus.</p>
+<td valign="top" width="265">Bassins du Loing, de l'Yonne ; bassin de la Seine en Ile-de-France à l'exception des sous-bassins de l'Eure et de l'Epte. Fleuve Seine de l'Ile-de-France au barrage de Poses. <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
 <p>Seine amont-Marne amont.</p>
 </td>
-<td valign="top" width="151">
-<p>DIREN Champagne-Ardenne.</p>
+<td valign="top" width="151">DREAL Champagne-Ardenne. <br/>
 </td>
-<td width="265">
-<p>Seine en amont du département de Seine-et-Marne, Marne en amont du département de Seine-et-Marne.</p>
+<td width="265">Bassin de la Seine en amont du département de Seine-et-Marne ; bassin de la Marne en amont du département de Seine-et-Marne. <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
 <p>Oise-Aisne.</p>
 </td>
-<td width="151">
-<p>SN Seine (arrondissement territorial Picardie).</p>
+<td width="151">DREAL Champagne-Ardenne. <br/>
 </td>
 <td valign="top" width="265">
-<p>Oise en amont du département du Val-d'Oise.</p>
+<p>Bassin de l'Oise en amont du département du Val-d'Oise.</p>
 </td>
 </tr>
 </tbody>
@@ -305,12 +274,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -342,9 +307,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Loire-Cher-Indre.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -359,9 +322,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Grand Delta.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -376,9 +337,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Alpes du Nord.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -390,12 +349,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Méditerranée Est.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -415,6 +370,15 @@ Les départements et les services de prévision des crues correspondants
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">07</p>
+</td>
+<td colspan="2"> Ardèche.</td>
+<td>Rhône amont-Saône.</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td width="38">
 <p align="center">08</p>
 </td>
@@ -427,9 +391,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Oise-Aisne.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -444,9 +406,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Méditerranée Ouest.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -459,11 +419,9 @@ Les départements et les services de prévision des crues correspondants
 <p>Seine amont-Marne amont.</p>
 </td>
 <td valign="top" width="170">
-<br/>
+<p>Seine-Moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -475,12 +433,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Méditerranée Ouest.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -492,12 +446,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Tarn-Lot.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170">Méditerranée Ouest.</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -512,9 +462,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Méditerranée Est.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -526,12 +474,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -580,9 +524,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Dordogne.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -597,9 +539,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Loire-Cher-Indre.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -614,9 +554,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vienne-Thouet.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -645,12 +583,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Loire-Cher-Indre.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -662,12 +596,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vilaine-côtiers bretons.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -682,9 +612,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vienne-Thouet.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -696,12 +624,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Dordogne.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -713,12 +637,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -733,9 +653,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Alpes du Nord.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -750,9 +668,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -767,9 +683,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -781,12 +695,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vilaine-côtiers bretons.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -818,9 +728,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Tarn-Lot.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -835,9 +743,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Garonne.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -869,9 +775,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Grand Delta.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -883,12 +787,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vilaine-côtiers bretons.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -903,9 +803,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vienne-Thouet.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -937,9 +835,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -951,12 +847,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -968,12 +860,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Adour.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -988,9 +876,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Maine-Loire aval.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1005,9 +891,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1022,9 +906,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Loire-Cher-Indre.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1039,9 +921,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vilaine-côtiers bretons.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1056,9 +936,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1073,9 +951,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Tarn-Lot.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1090,9 +966,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Tarn-Lot.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1124,9 +998,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Maine-Loire aval.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1138,12 +1010,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1158,9 +1026,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Oise-Aisne.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1189,12 +1055,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Maine-Loire aval.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1206,12 +1068,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Meuse-Moselle.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1240,12 +1098,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vilaine-côtiers bretons.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1260,9 +1114,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Meuse-Moselle.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1291,12 +1143,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Artois-Picardie.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1316,6 +1164,15 @@ Les départements et les services de prévision des crues correspondants
 </td>
 </tr>
 <tr>
+<td colspan="2">
+<p align="center"> 60</p>
+</td>
+<td> Oise.</td>
+<td> Seine amont-Marne amont.</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td colspan="2" width="38">
 <p align="center">61</p>
 </td>
@@ -1328,9 +1185,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1342,12 +1197,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Artois-Picardie.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td colspan="2" width="38">
@@ -1376,12 +1227,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Adour.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1396,9 +1243,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Garonne.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1410,12 +1255,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Méditerranée Ouest.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1427,12 +1268,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhin-Sarre.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1444,12 +1281,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhin-Sarre.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1464,9 +1297,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Loire-Cher-Indre.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1478,12 +1309,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1498,9 +1325,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Loire-Cher-Indre.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1512,12 +1337,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Maine-Loire aval.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1532,9 +1353,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1549,9 +1368,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1563,12 +1380,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1580,12 +1393,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1597,12 +1406,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1614,12 +1419,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170">Seine aval-côtiers normands.</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1651,9 +1452,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine aval-côtiers normands.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1665,12 +1464,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Tarn-Lot.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170">Méditerranée Ouest.</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1685,9 +1480,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Tarn-Lot.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1702,9 +1495,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Grand Delta.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1716,12 +1507,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Grand Delta.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1736,9 +1523,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Maine-Loire aval.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1753,9 +1538,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Littoral atlantique.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1767,12 +1550,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Vienne-Thouet.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1787,9 +1566,7 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1801,12 +1578,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1818,12 +1591,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Rhône amont-Saône.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1835,12 +1604,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1852,12 +1617,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1869,12 +1630,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1886,12 +1643,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="152"/>
 </tr>
 <tr>
 <td width="38">
@@ -1903,12 +1656,8 @@ Les départements et les services de prévision des crues correspondants
 <td width="170">
 <p>Seine moyenne-Yonne-Loing.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="170">Seine aval-côtiers normands.</td>
+<td valign="top" width="152"/>
 </tr>
 </tbody>
 </table>
