@@ -2,9 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-1. Liaisons entre la France métropolitaine et les collectivités
-
-territoriales d'outre-mer associées à l'Union européenne
+1. Liaisons entre la France métropolitaine et les collectivités territoriales d'outre-mer associées à l'Union européenne
 
 France métropolitaine ― Mayotte ;
 
@@ -283,6 +281,8 @@ Paris ― Shantou ;
 Paris ― Shenyang ;
 
 Paris ― Shenzhen ;
+
+Paris - Taïpei
 
 Paris ― Taiyuan ;
 
