@@ -6,7 +6,7 @@ I - LATIN
 
 1 - Textes, genres et références historiques et culturelles
 
-La liste des textes est donnée à titre indicatif et non limitatif. Elle favorise les parcours personnels des enseignants. Le professeur organise son projet pédagogique annuel autour des entrées (interrogations philosophiques ; interrogations scientifiques ; interrogations politiques ; œuvre au programme) et des sous-entrées (par exemple, pour interrogations philosophiques : choix de vie, construction de soi ; épicurisme et stoïcisme) :
+La liste des textes est donnée à titre indicatif et non limitatif. Elle favorise les parcours personnels des enseignants. Le professeur organise son projet pédagogique annuel autour des entrées (interrogations philosophiques ; interrogations scientifiques ; interrogations politiques et juridiques ; œuvre au programme) et des sous-entrées (par exemple, pour interrogations philosophiques : choix de vie, construction de soi ; épicurisme et stoïcisme) :
 
 <table>
 <tbody>
@@ -176,7 +176,7 @@ Prolongements
 
 1.4 Lecture de l'œuvre mise au programme
 
-L'œuvre mise au programme relève du genre théâtral, poétique ou romanesque. Le programme est révisable tous les deux ans.
+L'œuvre mise au programme relève de tous les genres et formes attestés dans la tradition des lettres latines (correspondance, éloquence, histoire, philosophie, prose technique, poésie épique, lyrique, didactique ou dramatique, fictions narratives). Elle peut être choisie en toute époque de la tradition, depuis Ennius jusqu'aux auteurs latins médiévaux ou modernes. Le programme est révisable tous les deux ans.
 
 C'est sur l'œuvre mise au programme que porte exclusivement l'épreuve écrite obligatoire et de spécialité, en série littéraire.
 
@@ -185,6 +185,8 @@ L'œuvre est lue dans son intégralité, dans le texte traduit, et étudiée dan
 Comme les élèves l'ont fait depuis la classe de cinquième, ils continuent, à l'occasion de la lecture des textes, à découvrir les expressions artistiques romaines en référence au programme (statuaire, peinture, sculpture), en utilisant les ressources documentaires les plus variées. On trouvera sur le site Musagora un répertoire des principales bases de textes et d'images :
 
 http://www.educnet.education.fr/musagora/ressources.htm
+
+En terminale, l'étude de la langue latine gagnera à être envisagée dans toute l'ampleur de son évolution diachronique. Des œuvres latines du Moyen Age ou des Temps modernes (lues en langue originale, au moins en partie) pourront être utilement mises à contribution, notamment au titre des " prolongements ", mais également sous forme d'extraits inclus dans certains groupements de textes.
 
 2 - Langue
 
@@ -370,7 +372,7 @@ Euripide, Les Phéniciennes.
 
 1.4 Lecture de l'œuvre mise au programme
 
-L'œuvre mise au programme relève du genre théâtral ou poétique. Le programme est révisable tous les deux ans.
+L'œuvre mise au programme relève de tous les genres et formes attestés dans la tradition des lettres grecques (éloquence, histoire, dialogues, philosophie, correspondance, prose scientifique ou technique, poésie épique, lyrique ou dramatique, fictions narratives). Elle peut être choisie en toute époque de la tradition, depuis Homère jusqu'aux auteurs byzantins. Le programme est révisable tous les deux ans.
 
 C'est sur l'œuvre mise au programme que porte exclusivement l'épreuve écrite obligatoire et de spécialité, en série littéraire.
 
