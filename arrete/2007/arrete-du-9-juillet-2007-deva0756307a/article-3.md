@@ -89,3 +89,9 @@ Paris-Sao Vicente (Cap-Vert).
 Jusqu'au 17 février 2018 :
 
 Lille - Marrakech (Maroc).
+
+Jusqu'au 1er mars 2018 :
+
+Lyon - Tunis (Tunisie)
+
+Paris - Essaouira (Maroc).
