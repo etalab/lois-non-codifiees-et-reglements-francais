@@ -10,13 +10,15 @@ Les plantes et substances ou préparations classées comme psychotropes en appli
 
 Les précurseurs chimiques de stupéfiants ou de substances psychotropes.
 
-Les déchets définis au II de l'article L. 541-1 du code de l'environnement, régis par les articles L. 541-40 à L. 541-42 du même code et les dispositions réglementaires prises pour leur application ainsi que par le règlement (CEE) n° 259 / 93 du Conseil du 1er février 1993 et les décisions communautaires prises en son application.
+Les déchets définis à l'article L. 541-1-1 du code de l'environnement régis par les articles L. 541-40 à L. 541-42-2 du même code et les dispositions réglementaires prises pour leur application ainsi que par le règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts des déchets et les règlements et décisions européens pris pour son application.
 
-2. Marchandises dangereuses pour la sécurité publique.
+2. Marchandises dangereuses pour la sécurité publique
 
-Les armes et les munitions reprises au chapitre 93 du tarif des douanes.
+Les matériels des 1re, 2e, 3e, 4e, 5e et 6e catégories mentionnés à l'article L. 2335-1 du code de la défense.
 
-Les poudres et substances explosives visées par les articles D. 2352-7 et R. 2352-2 et suivants du code de la défense.
+Les produits chimiques du tableau I annexé à la convention de Paris et mentionnés à l'article L. 2342-8 du code de la défense.
+
+Les produits explosifs mentionnés à l'article L. 2352-1 du code de la défense.
 
 3. Marchandises dangereuses pour la moralité publique.
 

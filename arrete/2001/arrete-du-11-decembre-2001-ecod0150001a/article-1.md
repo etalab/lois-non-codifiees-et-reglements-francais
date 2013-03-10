@@ -10,11 +10,14 @@ Les plantes et substances ou préparations classées comme psychotropes en appli
 
 Les substances interdites ou réglementées au sens des I à IV de l'article L. 234-2 du code rural.
 
-2. Marchandises dangereuses pour la sécurité publique.
+2. Marchandises dangereuses pour la sécurité publique
 
-Les armes et les munitions reprises au chapitre 93 du tarif des douanes, à l'exclusion des fusils et carabines de chasse de la 5e catégorie, ainsi que les projectiles et munitions de chasse pour lesquels les personnes visées à l'article 215 du code des douanes justifient qu'ils sont exclusivement affectés à leur usage personnel.
+Les matériels des 1re, 2e, 3e, 4e, 5e et 6e catégories mentionnés à l'article L. 2335-1 du code de la défense, à l'exclusion des
+fusils et carabines de chasse de la 5e catégorie ainsi que des projectiles et munitions de chasse, pour lesquels les détenteurs ou les transporteurs justifient qu'ils sont exclusivement affectés à leur usage personnel.
 
-Les poudres et substances explosives visées par les articles D. 2352-7 et R. 2352-2 et suivants du code de la défense.
+Les produits chimiques du tableau I annexé à la convention de Paris et mentionnés à l'article L. 2342-8 du code de la défense.
+
+Les produits explosifs mentionnés à l'article L. 2352-1 du code de la défense.
 
 3. Marchandises dangereuses pour la moralité publique.
 
@@ -34,6 +37,12 @@ Les spécimens d'espèces de la faune et de la flore sauvages menacées d'extinc
 
 Les substances classifiées en catégorie 1 par les annexes I du règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues et du règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant les règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers.
 
+Les matériels de guerre et matériels assimilés mentionnés à l'article L. 2335-2 du code de la défense.
+
+Les produits liés à la défense mentionnés à l'article L. 2335-10 du code de la défense.
+
+Les matériels mentionnés à l'article L. 2335-18 du code de la défense.
+
 6. Marchandises faisant l'objet d'un courant de fraude international et d'un marché clandestin préjudiciant aux intérêts légitimes du commerce régulier et à ceux du Trésor.
 
 L'alcool et les spiritueux, mentionnés au b de l'article 401 du code général des impôts, à l'exclusion :
@@ -50,8 +59,11 @@ Les tabacs manufacturés, à l'exclusion :
 
 L'anéthol, en nature ou en mélange, concentré ou non.
 
-Les perles fines, y compris les perles de culture et les pierres gemmes, à l'exclusion de celles pour lesquelles les personnes visées à l'article 215 du code des douanes justifient qu'elles sont exclusivement affectées à leur usage personnel.
+Les perles fines, y compris les perles de culture et les pierres gemmes, à l'exclusion de
+celles pour lesquelles les personnes visées à l'article 215 du code des douanes justifient qu'elles sont exclusivement affectées à leur usage personnel.
 
-Les articles de bijouterie comportant ou non des perles fines, y compris des perles de culture ou des pierres gemmes, à l'exclusion de ceux pour lesquels les personnes visées à l'article 215 du code des douanes justifient qu'ils sont exclusivement affectés à leur usage personnel.
+Les articles de bijouterie comportant ou non des perles fines, y compris des perles de culture ou des pierres gemmes, à l'exclusion de
+ceux pour lesquels les personnes visées à l'article 215 du code des douanes justifient qu'ils sont exclusivement affectés à leur usage personnel.
 
-Les ouvrages en perles fines, y compris les perles de culture, et en pierres gemmes, à l'exclusion de ceux pour lesquels les personnes visées à l'article 215 du code des douanes justifient qu'ils sont exclusivement affectés à leur usage personnel.
+Les ouvrages en perles fines, y compris les perles de culture, et en pierres gemmes, à l'exclusion de
+ceux pour lesquels les personnes visées à l'article 215 du code des douanes justifient qu'ils sont exclusivement affectés à leur usage personnel.
