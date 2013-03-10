@@ -14,9 +14,9 @@ d) De disposer sous format électronique d'un plan sur lequel est reportée l'em
 
 e) De disposer sous format électronique des tracés en position géoréferencée des ouvrages souterrains non démantelés arrêtés définitivement qui lui ont été communiqués par leurs exploitants lorsque ces ouvrages sont situés dans ou à proximité de l'emprise des travaux prévus ;
 
-f) A des fins d'établissement de leurs déclarations de projet de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité ;
+f) A des fins d'établissement de leurs déclarations de projet de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité, ainsi que de fichiers électroniques normalisés comprenant l'ensemble des données des formulaires et de la consultation et autorisant leur traitement automatisé ;
 
-g) A des fins d'établissement de leurs déclarations d'intention de commencement de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité ;
+g) A des fins d'établissement de leurs déclarations d'intention de commencement de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité, ainsi que de fichiers électroniques normalisés comprenant l'ensemble des données des formulaires et de la consultation et autorisant leur traitement automatisé ;
 
 h) D'utiliser leurs données à caractère personnel grâce à un compte personnel permettant de conserver les informations personnelles les concernant ainsi que l'historique sur les douze derniers mois de leurs consultations abouties du téléservice et les résultats attenants relatifs à la liste et aux coordonnées des exploitants d'ouvrages mentionnées au a et aux coordonnées géoréférencées des polygones mentionnées au d ;
 
