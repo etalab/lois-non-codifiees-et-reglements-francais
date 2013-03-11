@@ -1,6 +1,6 @@
 # Article 16
 
-Avant le 1er mai (si l'inscription s'effectue par voie postale) ou le 5 mai (si l'inscription s'effectue par voie dématérialisée) de l'année précédant celle pour laquelle est établie la liste d'aptitude, la personne susceptible de réunir, au 1er janvier suivant, les conditions requises et qui désire être inscrite sur la liste d'aptitude formule à cet effet une demande.
+Avant le 1er mai (si l'inscription s'effectue par voie postale) ou le 6 mai (si l'inscription s'effectue par voie dématérialisée) de l'année précédant celle pour laquelle est établie la liste d'aptitude, la personne susceptible de réunir, au 1er janvier suivant, les conditions requises et qui désire être inscrite sur la liste d'aptitude formule à cet effet une demande.
 
 Cette demande d'inscription sur la liste d'aptitude s'effectue par voie dématérialisée ou postale selon les modalités précisées ci-après.
 
@@ -35,7 +35,7 @@ Les demandes d'inscription et leur dépôt se font sur le site internet de l'UCA
 <p>Date et heure limite de validation des inscriptions et fermeture du serveur</p>
 </td>
 <td valign="top" width="307">
-<p>5 mai, à minuit, de l'année précédant celle au titre de laquelle la liste d'aptitude est établie (heure de Paris)</p>
+<p>6 mai, à minuit, de l'année précédant celle au titre de laquelle la liste d'aptitude est établie (heure de Paris)</p>
 </td>
 </tr>
 </tbody>
