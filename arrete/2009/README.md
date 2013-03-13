@@ -1383,7 +1383,6 @@
 - [Arrêté du 18 février 2009 (AGRS0824403A)](arrete-du-18-fevrier-2009-agrs0824403a)
 - [Arrêté du 18 février 2009 (AGRS0902412A)](arrete-du-18-fevrier-2009-agrs0902412a)
 - [Arrêté du 18 février 2009 (AGRS0903190A)](arrete-du-18-fevrier-2009-agrs0903190a)
-- [Arrêté du 18 février 2009 (BCFF0904102A)](arrete-du-18-fevrier-2009-bcff0904102a)
 - [Arrêté du 18 février 2009 (DEVP0822088A)](arrete-du-18-fevrier-2009-devp0822088a)
 - [Arrêté du 18 février 2009 (ECET0901502A)](arrete-du-18-fevrier-2009-ecet0901502a)
 - [Arrêté du 18 février 2009 (ESRH0815424A)](arrete-du-18-fevrier-2009-esrh0815424a)
