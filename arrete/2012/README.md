@@ -435,7 +435,6 @@
 - [Arrêté du 6 janvier 2012 (DEFD1129559A)](arrete-du-6-janvier-2012-defd1129559a)
 - [Arrêté du 6 janvier 2012 (DEVA1200284A)](arrete-du-6-janvier-2012-deva1200284a)
 - [Arrêté du 6 janvier 2012 (DEVV1134322A)](arrete-du-6-janvier-2012-devv1134322a)
-- [Arrêté du 6 janvier 2012 (ETSH1200104A)](arrete-du-6-janvier-2012-etsh1200104a)
 - [Arrêté du 6 janvier 2012 (ETSS1134068A)](arrete-du-6-janvier-2012-etss1134068a)
 - [Arrêté du 6 janvier 2012 (IOCB1129981A)](arrete-du-6-janvier-2012-iocb1129981a)
 - [Arrêté du 6 janvier 2012 (SCSA1135502A)](arrete-du-6-janvier-2012-scsa1135502a)
