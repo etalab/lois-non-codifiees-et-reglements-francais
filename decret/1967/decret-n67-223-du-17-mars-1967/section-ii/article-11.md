@@ -10,7 +10,7 @@ I.-Pour la validité de la décision :
 
 La présentation des documents énumérés au 1° et au 2° ci-dessus est conforme aux modèles établis par le décret relatif aux comptes du syndicat des copropriétaires et ses annexes ;
 
-3° Les conditions essentielles du contrat ou, en cas d'appel à la concurrence, des contrats proposés, lorsque l'assemblée est appelée à approuver un contrat, un devis ou un marché, notamment pour la réalisation de travaux ;
+3° Les conditions essentielles du contrat ou, en cas d'appel à la concurrence, des contrats proposés, lorsque l'assemblée est appelée à approuver un contrat, un devis ou un marché, notamment pour la réalisation de travaux ainsi que les conditions générales et particulières du projet de contrat et la proposition d'engagement de caution mentionné au deuxième alinéa de l'article 26-7 de la loi du 10 juillet 1965 lorsque le contrat proposé a pour objet la souscription d'un prêt bancaire au nom du syndicat dans les conditions prévues à l'article 26-4 de cette loi ;
 
 4° Le ou les projets de contrat du syndic, lorsque l'assemblée est appelée à désigner le représentant légal du syndicat ;
 
@@ -18,7 +18,8 @@ La présentation des documents énumérés au 1° et au 2° ci-dessus est confor
 
 6° Le projet de règlement de copropriété, de l'état descriptif de division, de l'état de répartition des charges ou le projet de modification desdits actes, lorsque l'assemblée est appelée, suivant le cas, à établir ou à modifier ces actes ;
 
-7° Le projet de résolution lorsque l'assemblée est appelée à statuer sur l'une des questions mentionnées aux articles 14-1 (2e et 3e alinéa), 14-2 (2e alinéa), 18 (7e alinéa), 24 (alinéas 2 et 3), 25,26, 30 (alinéas 1er, 2 et 3), 35,37 (alinéas 3 et 4) et 39 de la loi du 10 juillet 1965 ;
+7° Le projet de résolution lorsque l'assemblée est appelée à statuer sur l'une des questions mentionnées aux articles 14-1 (2e et 3e alinéa), 14-2 (2e alinéa), 18 (7e alinéa), 24 (alinéas 2 et 3), 25,26, 30 (alinéas 1er, 2 et 3), 35,
+37 (alinéas 3 et 4) et 39 de la loi du 10 juillet 1965 ;
 
 8° Le projet de résolution tendant à autoriser, s'il y a lieu, le syndic à introduire une demande en justice ;
 

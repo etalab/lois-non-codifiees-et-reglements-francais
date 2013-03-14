@@ -10,7 +10,7 @@ b) Des provisions exigibles des dépenses non comprises dans le budget prévisio
 
 c) Des charges impayées sur les exercices antérieurs ;
 
-d) Des sommes mentionnées à l'article 33 de la loi du 10 juillet 1965 ;
+d) Des sommes mentionnées aux articles 26-6 et 33 de la loi du 10 juillet 1965 ;
 
 e) Des avances exigibles.
 
@@ -18,7 +18,7 @@ Ces indications sont communiquées par le syndic au notaire ou au propriétaire 
 
 2° Dans la deuxième partie, le syndic indique, d'une manière même approximative et sous réserve de l'apurement des comptes, les sommes dont le syndicat pourrait être débiteur, pour le lot considéré, à l'égard du copropriétaire cédant, au titre :
 
-a) Des avances mentionnées à l'article 45-1 ;
+a) Des avances mentionnées  à l'article 45-1 ;
 
 b) Des provisions du budget prévisionnel pour les périodes postérieures à la période en cours et rendues exigibles en raison de la déchéance du terme prévue par l'article 19-2 de la loi du 10 juillet 1965.
 
