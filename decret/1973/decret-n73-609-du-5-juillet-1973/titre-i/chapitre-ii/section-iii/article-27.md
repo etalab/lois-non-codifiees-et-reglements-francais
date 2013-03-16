@@ -1,3 +1,3 @@
 # Article 27
 
-Le programme et la durée des enseignements sont fixés par les conseils d'administration des centres de formation professionnelle, sous réserve de l'approbation par le Centre national de l'enseignement professionnel notarial et par le garde des sceaux, ministre de la justice.
+Les élèves suivent les modules d'enseignement dans l'établissement où ils ont été admis à s'inscrire. Toutefois, sur dérogation du conseil d'administration de l'établissement concerné, un ou plusieurs modules peuvent être suivis dans un autre établissement.

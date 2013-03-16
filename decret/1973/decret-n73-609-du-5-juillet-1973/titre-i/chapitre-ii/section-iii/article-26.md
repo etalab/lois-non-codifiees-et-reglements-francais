@@ -1,5 +1,5 @@
 # Article 26
 
-Au cours de la période d'enseignement prévue à l'article 25, les élèves reçoivent une initiation à la pratique professionnelle dans un office de notaire.
+Le module initial de la formation est consacré aux spécificités juridiques et professionnelles du notariat.
 
-Cette initiation ne peut excéder deux mois. Elle peut toutefois être effectuée pour la moitié de sa durée auprès d'un autre professionnel du droit, ou auprès d'un expert comptable, d'un commissaire aux comptes ou dans le service juridique d'une entreprise.
+Le programme et la durée des modules d'enseignement sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de l'enseignement supérieur, après avis du Centre national de l'enseignement professionnel notarial et du Conseil supérieur du notariat.

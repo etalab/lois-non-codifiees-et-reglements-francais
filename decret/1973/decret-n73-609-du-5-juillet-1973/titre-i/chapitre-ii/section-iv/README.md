@@ -1,4 +1,4 @@
-# Section IV : Le diplôme d'aptitude aux fonctions de notaire.
+# Section IV :  Le diplôme de notaire.
 
 - [Article 28](article-28.md)
 - [Article 29](article-29.md)

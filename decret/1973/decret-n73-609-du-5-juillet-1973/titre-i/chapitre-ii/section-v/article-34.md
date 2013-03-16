@@ -1,6 +1,6 @@
 # Article 34
 
-Les personnes admises au stage portent le titre de notaire stagiaire. Elles sont inscrites sur le registre du stage tenu à cet effet par le centre de formation professionnelle dans le ressort duquel elles exerceront les activités du stage. Toutefois, elles peuvent rester inscrites dans le centre où elles ont reçu l'enseignement prévu par l'article 25, avec l'accord du conseil d'administration de ce centre.
+Les personnes admises au stage portent le titre de notaire stagiaire. Elles sont inscrites sur le registre du stage tenu à cet effet par le centre de formation professionnelle dans le ressort duquel elles exerceront les activités du stage.
 
 Le procureur général peut à tout moment demander communication du registre de stage.
 

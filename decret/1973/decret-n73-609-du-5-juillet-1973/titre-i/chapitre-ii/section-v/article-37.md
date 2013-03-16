@@ -8,7 +8,7 @@ Les travaux de pratique professionnelle sont effectués, sous le contrôle du ce
 
 3° Dans un organisme professionnel notarial d'enseignement, de documentation, de recherche ou d'assistance technique ;
 
-4° Dans un pays étranger auprès d'une personne exerçant une profession judiciaire ou juridique réglementée.
+4° Dans un pays étranger auprès d'une personne exerçant une profession judiciaire ou juridique réglementée. Sur dérogation du conseil d'administration de l'établissement de formation, la durée des travaux de pratique professionnelle effectués dans un pays étranger peut être portée de six mois à un an au maximum.
 
 Le Conseil supérieur du notariat procède à l'affectation dans un office de notaire des stagiaires qui n'ont pas trouvé de stage.
 
