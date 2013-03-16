@@ -4,9 +4,7 @@ La vérification de la conformité des véhicules spécialement adaptés aux tra
 
 Le laboratoire s'assure que le carrossier a mis en place un système qualité pertinent.
 
-Le laboratoire s'assure de la conformité des véhicules spécialement adaptés aux transports sanitaires selon les modalités prévues dans le guide d'application GA 64-022 " Guide d'application de la norme NF EN 1789 par un examen sur dossier de la conformité des caractéristiques du type véhicules spécialement adaptés aux transports sanitaires terrestres ".
-
-Le laboratoire transmet la liste des types de véhicules conformes à l'autorité sanitaire et fournit, pour chaque véhicule, une attestation de conformité rédigée en français qui sera remise par l'entreprise de transport sanitaire à l'autorité sanitaire.
+Le laboratoire fournit, pour chaque véhicule, une attestation de conformité rédigée en français qui sera remise par l'entreprise de transport sanitaire à l'autorité sanitaire.
 
 L'autorité sanitaire s'assure de la conformité des conditions particulières exigées des véhicules de transports sanitaires terrestres des types A, B et C et des conditions communes exigées des véhicules de transports sanitaires terrestres des types A, B et C et de la catégorie D, pour la délivrance des autorisations de mise en service des véhicules, suivant les deux modalités suivantes :
 
