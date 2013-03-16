@@ -2751,7 +2751,6 @@
 - [Arrêté du 27 janvier 2012 (ETSH1202939A)](arrete-du-27-janvier-2012-etsh1202939a)
 - [Arrêté du 27 janvier 2012 (ETSH1202943A)](arrete-du-27-janvier-2012-etsh1202943a)
 - [Arrêté du 27 janvier 2012 (ETSO1202125A)](arrete-du-27-janvier-2012-etso1202125a)
-- [Arrêté du 27 janvier 2012 (ETSS1202695A)](arrete-du-27-janvier-2012-etss1202695a)
 - [Arrêté du 27 janvier 2012 (INDR1202854A)](arrete-du-27-janvier-2012-indr1202854a)
 - [Arrêté du 27 janvier 2012 (IOCE1202670A)](arrete-du-27-janvier-2012-ioce1202670a)
 - [Arrêté du 27 janvier 2012 (JUSD1202857A)](arrete-du-27-janvier-2012-jusd1202857a)
