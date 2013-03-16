@@ -1273,7 +1273,6 @@
 - [Arrêté du 14 septembre 2012 (INTE1242897A)](arrete-du-14-septembre-2012-inte1242897a)
 - [Arrêté du 14 septembre 2012 (INTE1242905A)](arrete-du-14-septembre-2012-inte1242905a)
 - [Arrêté du 14 mai 1991 (EQUX9110312A)](arrete-du-14-mai-1991-equx9110312a)
-- [Arrêté du 15 décembre 1998 (ECOI9801078A)](arrete-du-15-decembre-1998-ecoi9801078a)
 - [Arrêté du 15 décembre 2009 (MTST0924708A)](arrete-du-15-decembre-2009-mtst0924708a)
 - [Arrêté du 15 décembre 2011 (BCRE1134867A)](arrete-du-15-decembre-2011-bcre1134867a)
 - [Arrêté du 15 décembre 2011 (DEVL1130783A)](arrete-du-15-decembre-2011-devl1130783a)
