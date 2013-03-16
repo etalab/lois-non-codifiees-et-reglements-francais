@@ -4,7 +4,7 @@ I.-Lorsqu'une offre au public de titres financiers mentionnés aux I et IV de l'
 
 Par dérogation, le prospectus peut être rédigé dans une langue usuelle en matière financière autre que le français dans les cas suivants :
 
-1° L'offre au public porte sur des titres financiers mentionnés au II de l'article L. 621-8 susvisé et est réalisée uniquement en France ou dans un ou plusieurs autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, y compris en France ;
+1° L'offre au public porte sur des titres de créance mentionnés aux I et II de l'article L. 621-8 susvisé et est réalisée uniquement en France ou dans un ou plusieurs autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, y compris en France ;
 
 2° L'émetteur a son siège statutaire dans un Etat non partie à l'accord sur l'Espace économique européen et le prospectus est établi en vue d'une offre de titres financiers ouverte aux salariés exerçant leur activité dans des filiales ou établissements en France.
 
