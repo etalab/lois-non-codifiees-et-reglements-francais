@@ -31,7 +31,7 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <tr>
 <td>Calais </td>
 <td>
-<p align="center">De 1974 à 1980, de 1983 à 1985, de 1987 à 1991</p>
+<p align="center">De 1974 à 1993</p>
 </td>
 </tr>
 <tr>
