@@ -6,7 +6,7 @@ Sous réserve des dispositions de l'article 12 de la loi du 31 décembre 1991 su
 
 2° Dans un délai d'un an à compter de la notification de la décision de concession initiale, en cas d'erreur de droit ;
 
-3° En cas d'aggravation du taux d'invalidité, et jusqu'à l'âge de soixante-deux ans, selon la procédure prévue pour les fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.
+3° En cas d'aggravation du taux d'invalidité, et jusqu'à l'âge de soixante-cinq ans, selon la procédure prévue pour les fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.
 
 La restitution des sommes payées indûment est exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie à la diligence de la Caisse des dépôts et consignations.
 
