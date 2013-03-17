@@ -935,7 +935,6 @@
 - [Arrêté du 27 mars 2007 (EQUS0700567A)](arrete-du-27-mars-2007-equs0700567a)
 - [Arrêté du 27 mars 2007 (SOCF0710455A)](arrete-du-27-mars-2007-socf0710455a)
 - [Arrêté du 27 novembre 2007 (AGRP0771147A)](arrete-du-27-novembre-2007-agrp0771147a)
-- [Arrêté du 27 novembre 2007 (BCFR0772012A)](arrete-du-27-novembre-2007-bcfr0772012a)
 - [Arrêté du 27 novembre 2007 (IOCE0771719A)](arrete-du-27-novembre-2007-ioce0771719a)
 - [Arrêté du 27 septembre 2007 (DEVL0765465A)](arrete-du-27-septembre-2007-devl0765465a)
 - [Arrêté du 27 septembre 2007 (ECEL0773239A)](arrete-du-27-septembre-2007-ecel0773239a)
