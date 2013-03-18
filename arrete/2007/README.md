@@ -728,7 +728,6 @@
 - [Arrêté du 23 décembre 2006 (JUSC0620943A)](arrete-du-23-decembre-2006-jusc0620943a)
 - [Arrêté du 23 décembre 2006 (JUSC0620944A)](arrete-du-23-decembre-2006-jusc0620944a)
 - [Arrêté du 23 décembre 2006 (JUSC0620945A)](arrete-du-23-decembre-2006-jusc0620945a)
-- [Arrêté du 23 décembre 2006 (PRMX0609827A)](arrete-du-23-decembre-2006-prmx0609827a)
 - [Arrêté du 23 février 2007 (DEVN0750092A)](arrete-du-23-fevrier-2007-devn0750092a)
 - [Arrêté du 23 février 2007 (DEVN0750874A)](arrete-du-23-fevrier-2007-devn0750874a)
 - [Arrêté du 23 février 2007 (MCCB0700127A)](arrete-du-23-fevrier-2007-mccb0700127a)
