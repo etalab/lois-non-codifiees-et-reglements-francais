@@ -467,6 +467,7 @@
 - [Arrêté du 22 novembre 2012 (DEVP1239767A)](arrete-du-22-novembre-2012-devp1239767a)
 - [Arrêté du 23 avril 2012 (IOCS1221481A)](arrete-du-23-avril-2012-iocs1221481a)
 - [Arrêté du 23 avril 2012 (IOCS1221485A)](arrete-du-23-avril-2012-iocs1221485a)
+- [Arrêté du 23 décembre 2006 (PRMX0609827A)](arrete-du-23-decembre-2006-prmx0609827a)
 - [Arrêté du 23 janvier 2013 (AFSP1228322A)](arrete-du-23-janvier-2013-afsp1228322a)
 - [Arrêté du 23 janvier 2013 (BUDE1229838A)](arrete-du-23-janvier-2013-bude1229838a)
 - [Arrêté du 23 janvier 2013 (DEFK1304252A)](arrete-du-23-janvier-2013-defk1304252a)
