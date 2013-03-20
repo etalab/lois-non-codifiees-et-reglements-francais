@@ -146,17 +146,13 @@ Article 5
 
 Droit de rétractation
 
-A compter de la date de signature du contrat, un délai de rétractation de deux mois calendaires est ouvert aux parties.
-
-Pour l'exercice de ce droit, la partie en prenant l'initiative respecte un délai de prévenance de sept jours calendaires qui ne peut pas avoir pour effet d'augmenter la durée du délai de rétractation.
+(Annulé)
 
 Article 6
 
 Résiliation du contrat et règlement des litiges
 
 En cas de désaccord soulevé par l'interprétation du présent contrat ou par son exécution, les deux parties conviennent de soumettre leur différend à deux conciliateurs afin de trouver une solution à l'amiable. L'un des conciliateurs devra être un membre du conseil départemental de l'Ordre des médecins, l'autre est choisi par le directeur de l'EHPAD. Le médecin traitant et le directeur de l'EHPAD peuvent se faire assister par la personne de leur choix.
-
-Il pourra être mis fin à ce contrat à l'initiative de l'une ou l'autre des parties sous réserve du respect d'un préavis de deux mois.
 
 Article 7
 
@@ -314,9 +310,7 @@ Article 5
 
 Droit de rétractation
 
-A compter de la date de signature du contrat, un délai de rétractation de deux mois calendaires est ouvert aux parties.
-
-Pour l'exercice de ce droit, la partie en prenant l'initiative respecte un délai de prévenance de sept jours calendaires qui ne peut pas avoir pour effet d'augmenter la durée du délai de rétractation.
+(Annulé)
 
 Article 6
 
@@ -325,8 +319,6 @@ Résiliation du contrat
 et règlement des litiges
 
 En cas de désaccord soulevé par l'interprétation du présent contrat ou par son exécution, les deux parties conviennent de soumettre leur différend à deux conciliateurs afin de trouver une solution à l'amiable. L'un des conciliateurs devra être un membre du conseil départemental de l'Ordre des masseurs-kinésithérapeutes, l'autre est choisi par le directeur de l'EHPAD. Le masseur-kinésithérapeute et le directeur de l'EHPAD peuvent se faire assister par la personne de leur choix.
-
-Il pourra être mis fin à ce contrat à l'initiative de l'une ou l'autre des parties sous réserve du respect d'un préavis de deux mois.
 
 Article 7
 
