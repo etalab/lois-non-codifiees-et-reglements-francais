@@ -52,6 +52,8 @@ Le montant de la tirelire constituée au titre du ou d'un des rapports "Bonus" o
 
 e) Pour tous les autres types de paris :
 
-Le montant de la tirelire constituée pour le type de pari considéré est ajouté à la masse à partager du même type de pari organisé la journée suivante sur la première course sur lequel il est proposé.
+Le montant de la tirelire constituée pour le type de pari considéré est ajouté à la masse à partager du même type de pari organisé la journée suivante sur la première course courue au titre de la réunion durant laquelle est organisé le pari défini au chapitre 14 du titre II et donnant lieu à l'enregistrement du type de pari considéré.
 
-Si plusieurs réunions sont organisées lors de la journée suivante, la tirelire est distribuée sur la première course courue au titre de ces réunions et donnant lieu à l'enregistrement du type de pari considéré.
+A défaut, et si plusieurs réunions sont organisées lors de la journée suivante, la tirelire est distribuée sur la première course courue au titre de ces réunions et donnant lieu à l'enregistrement du type de pari considéré sur l'ensemble du territoire.
+
+A défaut, les dispositions des deux alinéas précédents s'appliquent dans les mêmes conditions sur la première journée consécutive où le type de pari considéré est proposé.
