@@ -478,7 +478,6 @@
 - [Arrêté du 7 décembre 2011 (TRAT1128528A)](arrete-du-7-decembre-2011-trat1128528a)
 - [Arrêté du 7 décembre 2012 (AFSH1241779A)](arrete-du-7-decembre-2012-afsh1241779a)
 - [Arrêté du 7 décembre 2012 (AFSH1241845A)](arrete-du-7-decembre-2012-afsh1241845a)
-- [Arrêté du 7 décembre 2012 (AFSP1241841A)](arrete-du-7-decembre-2012-afsp1241841a)
 - [Arrêté du 7 décembre 2012 (BUDW1229550A)](arrete-du-7-decembre-2012-budw1229550a)
 - [Arrêté du 7 décembre 2012 (BUDW1237312A)](arrete-du-7-decembre-2012-budw1237312a)
 - [Arrêté du 7 décembre 2012 (BUDW1237360A)](arrete-du-7-decembre-2012-budw1237360a)
