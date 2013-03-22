@@ -8,15 +8,155 @@ Sous-partie A : Dispositions générales
 
 Paragraphe
 
-Vous pouvez consulter le tableau dans le JO n° 61 du 13/03/2005 texte numéro 13
+FCL 3.001 Définitions et abréviations
+
+FCL 3.005 (réservé)
+
+FCL 3.010 (réservé)
+
+FCL 3.015 (réservé)
+
+FCL 3.020 (réservé)
+
+FCL 3.025 (réservé)
+
+FCL 3.030 (réservé)
+
+FCL 3.035 Aptitude physique et mentale
+
+FCL 3.040 Diminution de l'aptitude physique et mentale
+
+FCL 3.045 Circonstances spéciales
+
+FCL 3.050 (réservé)
+
+FCL 3.055 (réservé)
+
+FCL 3.060 (réservé)
+
+FCL 3.065 (réservé)
+
+FCL 3.070 (réservé)
+
+FCL 3.075 (réservé)
+
+FCL 3.080 Secret médical
+
+FCL 3.085 (réservé)
+
+FCL 3.090 (réservé)
+
+FCL 3.095 Examens médicaux
+
+FCL 3.100 Certificats médicaux
+
+FCL 3.105 Durée de validité de certificats médicaux
+
+FCL 3.110 Conditions exigées pour la constatation d'une aptitude médicale
+
+FCL 3.115 Usage de médicaments, de drogues et autres traitements
+
+FCL 3.120 Obligations du candidat
+
+FCL 3.125 Dérogations et appel
+
+Appendice
+
+au FCL 3.105 Durée de validité des certificats médicaux
 
 Sous-partie B : Normes médicales de classe 1
 
-Vous pouvez consulter le tableau dans le JO n° 61 du 13/03/2005 texte numéro 13
+FCL 3.130 Appareil cardio-vasculaire : Examen
+
+FCL 3.135 Appareil cardio-vasculaire : Pression artérielle
+
+FCL 3.140 Appareil cardio-vasculaire : Coronopathie
+
+FCL 3.145 Appareil cardio-vasculaire : Troubles du rythme et de la conduction
+
+FCL 3.150 Appareil cardio-vasculaire : Autres affections
+
+FCL 3.155 Appareil respiratoire : Généralités
+
+FCL 3.160 Affections respiratoires
+
+FCL 3.165 Appareil digestif
+
+FCL 3.170 Affections digestives
+
+FCL 3.175 Maladies métaboliques, nutritionnelles et endocriniennes
+
+FCL 3.180 Hématologie
+
+FCL 3.185 Appareil urinaire
+
+FCL 3.190 Maladies sexuellement transmissibles et autres infections
+
+FCL 3.195 Gynécologie et obstétrique
+
+FCL 3.200 Conditions d'aptitude musculo-squelettique
+
+FCL 3.205 Conditions d'aptitude psychiatrique
+
+FCL 3.210 Conditions d'aptitude neurologique
+
+FCL 3.215 Conditions d'aptitude ophtalmologique
+
+FCL 3.220 Normes de vision
+
+FCL 3.225 Perception des couleurs
+
+FCL 3.230 Conditions d'aptitude oto-rhino-laryngologique
+
+FCL 3.235 Normes d'audition
+
+FCL 3.240 Conditions d'aptitude psychologique
+
+FCL 3.245 Conditions d'aptitude dermatologique
+
+FCL 3.250 Oncologie
 
 APPENDICES À LA SOUS-PARTIE B
 
-Vous pouvez consulter le tableau dans le JO n° 61 du 13/03/2005 texte numéro 13
+APPENDICE 1 Appareil cardio-vasculaire
+
+APPENDICE 2 Appareil respiratoire
+
+APPENDICE 3 Appareil digestif
+
+APPENDICE 4 Troubles métaboliques, nutritionnels et endocriniens
+
+APPENDICE 5 Hématologie
+
+APPENDICE 6 Appareil urinaire
+
+APPENDICE 7 Maladies sexuellement transmissibles et autres affections
+
+APPENDICE 8 Gynécologie et obstétrique
+
+APPENDICE 9 Conditions d'aptitude musculo-squelettique
+
+APPENDICE 10 Conditions d'aptitude psychiatrique
+
+APPENDICE 11 Conditions d'aptitude neurologique
+
+APPENDICE 12 Conditions d'aptitude ophtalmologique
+
+APPENDICE 13 Normes de vision
+
+APPENDICE 14 Perception des couleurs
+
+APPENDICE 15 Conditions d'aptitude oto-rhino-laryngologique
+
+APPENDICE 16 Normes d'audition
+
+APPENDICE 17 Conditions d'aptitude psychologique
+
+APPENDICE 18 Conditions d'aptitude dermatologique
+
+APPENDICE 19 Oncologie
+
+APPENDICE 20 Tableau des exigences médicales périodiques minimales
 
 FCL 3.001
 
@@ -94,9 +234,7 @@ Diminution de l'aptitude physique et mentale
 
 (2) Atteint d'une maladie entraînant l'inaptitude à ses fonctions pendant une période de 21 jours ou plus ;
 
-(3) Enceinte,
-
-doit s'abstenir d'exercer ses fonctions.
+(3) Enceinte, doit s'abstenir d'exercer ses fonctions.
 
 Le certificat médical est considéré comme suspendu à partir du moment où la blessure s'est produite ou de la fin de la période de 21 jours de maladie ou de la confirmation de la grossesse, puis :
 
@@ -128,7 +266,11 @@ Examens médicaux
 
 (a) Certificats médicaux de classe 1 :
 
-L'examen d'admission pour la délivrance d'un certificat médical de classe 1 et les examens révisionnels de ce certificat doivent être effectués par un CEMA.
+L'examen d'admission pour la délivrance d'un certificat médical de classe 1 doit être effectué par un CEMA.
+
+Les examens révisionnels de ce certificat peuvent être effectués par un CEMA ou par un médecin examinateur agréé au sens de l'article D. 410-2 du code de l'aviation civile et détenant des privilèges étendus pour effectuer les examens révisionnels.
+
+Le médecin examinateur agréé détenant les privilèges d'effectuer les examens révisionnels est signataire des rapports et des certificats médicaux de classe 1 pour la prorogation ou le renouvellement de l'aptitude médicale du personnel navigant.
 
 (b) (Réservé.)
 
@@ -1464,8 +1606,92 @@ Tableau des exigences périodiques minimales (1)
 
 Voir FCL 3.095 (d)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 61 du 13/03/2005 texte numéro 13
+<table>
+<tbody>
+<tr>
+<td width="388">
+<p align="center">LICENCE</p>
+</td>
+<td valign="top" width="452">
+<p align="center">CLASSE 1</p>
+<p align="center">Pilote professionnel, pilote de ligne, mécanicien navigant, ingénieur navigant, navigateur, parachutiste</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Radiopulmonaire.</p>
+</td>
+<td width="452">
+<p>A l'examen d'admission.</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Electroencéphalogramme.</p>
+</td>
+<td width="452">
+<p>A l'examen d'admission.</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Hémoglobine (FCL 3.180).</p>
+</td>
+<td width="452">
+<p>A l'examen d'admission et lors de chaque examen.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="388">
+<p>Electrocardiogramme (FCL 3.130).</p>
+</td>
+<td valign="top" width="452">
+<p>A l'examen d'admission puis avant 30 ans tous les 5 ans; de 30 à 39 ans tous les 2 ans; de 40 à 49 ans tous les ans; à 50 ans et plus tous les 6 mois.</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Audiogramme (FCL 3.235).</p>
+</td>
+<td valign="top" width="452">
+<p>A l'examen d'admission puis avant 40 ans tous les 5 ans; à 40 ans et plus tous les 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Examen otorhinolaryngologique approfondi (FCL 3.230).</p>
+</td>
+<td valign="top" width="452">
+<p>A l'examen d'admission puis avant 40 ans tous les 5 ans; à 40 ans et plus tous les 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Examen ophtalmologique approfondi (FCL 3.215).</p>
+</td>
+<td width="452">
+<p>A l'examen d'admission puis avant 40 ans tous les 5 ans; à 40 ans et plus tous les 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td width="388">
+<p>Dosage des lipides.</p>
+</td>
+<td width="452">
+<p>A l'examen d'admission puis à 40 ans.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="388">
+<p>Examen fonctionnel pulmonaire (FCL 3.155).</p>
+</td>
+<td valign="top" width="452">A l'examen d'admission puis débit de pointe à l'âge de 30, 35, 40 ans tous les 4 ans</td>
+</tr>
+<tr>
+<td>Analyse d'urine (FCL 3.155).</td>
+<td>A l'examen d'admission puis lors de chaque examen.</td>
+</tr>
+</tbody>
+</table>
 
 (1) Note : tout examen complémentaire peut être exigé n'importe quand s'il est indiqué par l'examen clinique.
