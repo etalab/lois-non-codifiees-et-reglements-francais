@@ -531,7 +531,6 @@
 - [Arrêté du 27 mai 2005 (BUDF0500017A)](arrete-du-27-mai-2005-budf0500017a)
 - [Arrêté du 27 mai 2005 (DEFP0500537A)](arrete-du-27-mai-2005-defp0500537a)
 - [Arrêté du 27 mai 2005 (DEFP0500626A)](arrete-du-27-mai-2005-defp0500626a)
-- [Arrêté du 27 mai 2005 (JUSA0500170A)](arrete-du-27-mai-2005-jusa0500170a)
 - [Arrêté du 28 avril 2005 (MENE0500889A)](arrete-du-28-avril-2005-mene0500889a)
 - [Arrêté du 28 avril 2005 (MENE0500898A)](arrete-du-28-avril-2005-mene0500898a)
 - [Arrêté du 28 avril 2005 (SANP0521624A)](arrete-du-28-avril-2005-sanp0521624a)
