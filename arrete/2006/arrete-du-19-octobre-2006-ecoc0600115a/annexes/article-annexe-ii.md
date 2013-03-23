@@ -143,6 +143,14 @@ IV. - Critères de pureté spécifiques
 <td>Par dérogation aux critères de pureté des enzymes fixés à la partie I de l'annexe II du présent arrêté, la teneur maximale en arsenic est de 2 mg/kg. </td>
 </tr>
 <tr>
+<td>Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta. </td>
+<td>10 % d'acides bêta (1-lupulone, 2-colupulone, 3-adlupulone) <p>acides alpha : pas plus de 0,1 % (m/ m) </p>
+<p>hydroxyde de potassium : pas plus de 3 % </p>
+<p>Absence de polyphénol </p>
+<p>Masse volumique : 1   020 kg/ m ³</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="320">
 <p>Glutaraldéhyde.</p>
 </td>

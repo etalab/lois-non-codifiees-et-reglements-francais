@@ -7,7 +7,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <tr>
 <td align="left" valign="top">
 <p align="center">
-<font size="1">AUXILIAIRES<br/>technologiques</font>
+<font size="1">AUXILIAIRES<br/>technologiques </font>
 </p>
 </td>
 <td align="left" valign="top">
@@ -309,7 +309,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">Légumes racines. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">7 g/kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.</p>
+<p align="left">7 g / kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Teneur résiduelle en aluminium ≤3 mg/kg de matière sèche dans le produit fini.</p>
@@ -868,25 +868,38 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta. <br/>
+<td>
+<p align="left">Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta. </p>
+</td>
+<td>
+<p align="left">Divers. </p>
+</td>
+<td>
+<p align="left">Production de levures. </p>
+</td>
+<td>
+<p align="left">A la dose maximale de 500 mg/kg </p>
+</td>
+<td>
+<p align="left">Teneur résiduelle inférieure à 50 mg/ kg de levure. <br/>
 </p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Divers. <br/>
-</p>
+<p align="left">Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta.</p>
 </td>
 <td align="left" valign="top">
-<p>Sucre.<br/>
-</p>
+<p>Divers. </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol. <br/>
-</p>
+<p>Sucre.</p>
 </td>
 <td align="left" valign="top">
-<p>20 µg/kg de sucre. <br/>
-</p>
+<p>A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol. </p>
+</td>
+<td align="left" valign="top">
+<p>20 µg/kg de sucre. </p>
 </td>
 </tr>
 <tr>
@@ -1057,7 +1070,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1342,11 +1355,11 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg. <br/>
+<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg. <br/>
 </p>
 </td>
 </tr>
