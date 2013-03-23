@@ -2,13 +2,13 @@
 
 Les concours et l'examen professionnel permettant l'accès au premier grade du corps des techniciens et techniciens supérieurs hospitaliers régi par le décret du 27 juin 2011 susvisé sont ouverts conformément aux articles 3, 4 et 5 de ce même décret dans les spécialités suivantes :
 
-1° Spécialités du domaine « bâtiment et génie civil » :
+1° Spécialités du domaine  bâtiment et génie civil  :
 
 ― gestion technique et contrôle ;
 
 ― réalisation de travaux de tous corps d'état.
 
-2° Spécialités du domaine « contrôle, gestion, installation et maintenance technique » :
+2° Spécialités du domaine  contrôle, gestion, installation et maintenance technique  :
 
 ― installation et maintenance de matériels électroniques, électriques et automatismes ;
 
@@ -18,9 +18,11 @@ Les concours et l'examen professionnel permettant l'accès au premier grade du c
 
 ― fluides médicaux.
 
-3° Spécialités du domaine « logistique et activité hôtelières » :
+3° Spécialités du domaine logistique et activités hôtelières   :
 
 ― gestion de la logistique ;
+
+― logistique et production pharmaceutiques ;
 
 ― logistique de transport ;
 
@@ -32,13 +34,13 @@ Les concours et l'examen professionnel permettant l'accès au premier grade du c
 
 ― espaces verts.
 
-4° Spécialités du domaine « hygiène et sécurité » :
+4° Spécialités du domaine  hygiène et sécurité  :
 
 ― sécurité des biens et des personnes ;
 
 ― hygiène et bio-nettoyage.
 
-5° Spécialités du domaine « reprographie, dessin, documentation » :
+5° Spécialités du domaine  reprographie, dessin, documentation  :
 
 ― imprimerie, reprographie ;
 
