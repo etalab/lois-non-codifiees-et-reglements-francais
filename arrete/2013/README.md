@@ -667,6 +667,7 @@
 - [Arrêté du 29 janvier 2013 (TRAA1303900A)](arrete-du-29-janvier-2013-traa1303900a)
 - [Arrêté du 29 janvier 2013 (TRAM1240353A)](arrete-du-29-janvier-2013-tram1240353a)
 - [Arrêté du 29 janvier 2013 (TRAM1303021A)](arrete-du-29-janvier-2013-tram1303021a)
+- [Arrêté du 29 novembre 2004 (SOCF0412389A)](arrete-du-29-novembre-2004-socf0412389a)
 - [Arrêté du 29 novembre 2012 (AFSH1240902A)](arrete-du-29-novembre-2012-afsh1240902a)
 - [Arrêté du 29 novembre 2012 (AFSH1240912A)](arrete-du-29-novembre-2012-afsh1240912a)
 - [Arrêté du 29 novembre 2012 (BUDE1238302A)](arrete-du-29-novembre-2012-bude1238302a)
