@@ -18,6 +18,6 @@ ou de leurs représentants.
 
 Il peut également associer des personnes qualifiées qu'il désigne.
 
-Le directeur chargé de la gestion publique à la direction générale des finances publiques assure la présidence du comité ainsi que son secrétariat avec l'appui du service des retraites de l'Etat.
+Le directeur général des finances publiques assure la présidence du comité ainsi que son secrétariat avec l'appui du service des retraites de l'Etat.
 
 Une fois par an, le comité se réunit sous la présidence d'une personnalité désignée par le ministre chargé du budget et le ministre chargé de la fonction publique afin de préparer le bilan des travaux du comité.
