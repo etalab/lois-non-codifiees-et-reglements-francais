@@ -2856,7 +2856,6 @@
 - [Arrêté du 29 mars 2010 (JUSF1009007A)](arrete-du-29-mars-2010-jusf1009007a)
 - [Arrêté du 29 mars 2010 (SASP1007002A)](arrete-du-29-mars-2010-sasp1007002a)
 - [Arrêté du 29 novembre 2001 (EQUP0101503A)](arrete-du-29-novembre-2001-equp0101503a)
-- [Arrêté du 29 novembre 2004 (SOCF0412389A)](arrete-du-29-novembre-2004-socf0412389a)
 - [Arrêté du 29 novembre 2010 (AGRM1029680A)](arrete-du-29-novembre-2010-agrm1029680a)
 - [Arrêté du 29 novembre 2010 (AGRS1031261A)](arrete-du-29-novembre-2010-agrs1031261a)
 - [Arrêté du 29 novembre 2010 (BCRB1029204A)](arrete-du-29-novembre-2010-bcrb1029204a)

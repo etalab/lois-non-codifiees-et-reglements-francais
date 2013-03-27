@@ -666,7 +666,6 @@
 - [Arrêté du 26 juillet 2004 (ECOD0440003A)](arrete-du-26-juillet-2004-ecod0440003a)
 - [Arrêté du 26 juillet 2004 (MENG0401634A)](arrete-du-26-juillet-2004-meng0401634a)
 - [Arrêté du 26 juillet 2004 (SOCF0411540A)](arrete-du-26-juillet-2004-socf0411540a)
-- [Arrêté du 26 juillet 2004 (SOCF0411542A)](arrete-du-26-juillet-2004-socf0411542a)
 - [Arrêté du 26 mars 2004 (BUDF0400013A)](arrete-du-26-mars-2004-budf0400013a)
 - [Arrêté du 26 mars 2004 (DEVN0430046A)](arrete-du-26-mars-2004-devn0430046a)
 - [Arrêté du 26 mars 2004 (EQUA0400377A)](arrete-du-26-mars-2004-equa0400377a)
