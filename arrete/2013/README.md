@@ -569,6 +569,7 @@
 - [Arrêté du 26 février 2013 (DEVA1303848A)](arrete-du-26-fevrier-2013-deva1303848a)
 - [Arrêté du 26 février 2013 (DEVA1306203A)](arrete-du-26-fevrier-2013-deva1306203a)
 - [Arrêté du 26 février 2013 (DEVL1239437A)](arrete-du-26-fevrier-2013-devl1239437a)
+- [Arrêté du 26 juillet 2004 (SOCF0411542A)](arrete-du-26-juillet-2004-socf0411542a)
 - [Arrêté du 26 novembre 2012 (ETSD1242010A)](arrete-du-26-novembre-2012-etsd1242010a)
 - [Arrêté du 27 décembre 2012 (DEFD1241557A)](arrete-du-27-decembre-2012-defd1241557a)
 - [Arrêté du 27 décembre 2012 (DEVA1243425A)](arrete-du-27-decembre-2012-deva1243425a)
