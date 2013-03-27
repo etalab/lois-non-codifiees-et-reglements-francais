@@ -1969,7 +1969,6 @@
 - [Arrêté du 23 juin 2009 (SASP0907163A)](arrete-du-23-juin-2009-sasp0907163a)
 - [Arrêté du 23 juin 2009 (SASS0912227A)](arrete-du-23-juin-2009-sass0912227a)
 - [Arrêté du 23 mars 2009 (DEFH0906776A)](arrete-du-23-mars-2009-defh0906776a)
-- [Arrêté du 23 mars 2009 (DEFH0906988A)](arrete-du-23-mars-2009-defh0906988a)
 - [Arrêté du 23 mars 2009 (DEFP0950789A)](arrete-du-23-mars-2009-defp0950789a)
 - [Arrêté du 23 mars 2009 (DEVA0906736A)](arrete-du-23-mars-2009-deva0906736a)
 - [Arrêté du 23 mars 2009 (DEVK0908526A)](arrete-du-23-mars-2009-devk0908526a)
