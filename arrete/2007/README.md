@@ -953,7 +953,6 @@
 - [Arrêté du 28 février 2000 (AGRG0000462A)](arrete-du-28-fevrier-2000-agrg0000462a)
 - [Arrêté du 28 février 2007 (ECOP0700095A)](arrete-du-28-fevrier-2007-ecop0700095a)
 - [Arrêté du 28 février 2007 (EQUP0700260A)](arrete-du-28-fevrier-2007-equp0700260a)
-- [Arrêté du 28 juillet 2008 (MAEA0818593A)](arrete-du-28-juillet-2008-maea0818593a)
 - [Arrêté du 28 juin 2007 (BCFL0758657A)](arrete-du-28-juin-2007-bcfl0758657a)
 - [Arrêté du 28 juin 2007 (ECES0755117A)](arrete-du-28-juin-2007-eces0755117a)
 - [Arrêté du 28 juin 2007 (ESRR0757401A)](arrete-du-28-juin-2007-esrr0757401a)
