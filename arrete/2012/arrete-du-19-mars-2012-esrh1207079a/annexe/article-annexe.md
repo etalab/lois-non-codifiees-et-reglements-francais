@@ -126,8 +126,24 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Pour 2013 </p>
+</td>
+<td>
+<p align="center">13 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014</p>
+</td>
+<td>
+<p align="center">13 %</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p align="center">Bibliothécaire assistant spécialisé de classe exceptionnelle  </p>
+<p align="center">Bibliothécaire assistant spécialisé de classe exceptionnelle </p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -143,6 +159,14 @@
 <td align="left" valign="top">
 <p align="center">11 % <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2013</p>
+</td>
+<td>
+<p align="center">12 %</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +430,9 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Corps des ingénieurs d'études du ministère de l'éducation nationale <br/>
+<td align="left" valign="top">
+<p align="center">Corps des ingénieurs d'études du ministère de l'éducation nationale <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -551,6 +577,22 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Pour 2013</p>
+</td>
+<td>
+<p align="center">10 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014</p>
+</td>
+<td>
+<p align="center">10 %</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="center">Technicien de recherche et de formation de classe exceptionnelle <br/>
 </p>
@@ -569,6 +611,22 @@
 <td align="left" valign="top">
 <p align="center">20 % <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2013</p>
+</td>
+<td>
+<p align="center">20 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014</p>
+</td>
+<td>
+<p align="center">20 %</p>
 </td>
 </tr>
 <tr>
@@ -615,6 +673,22 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Pour 2013</p>
+</td>
+<td>
+<p align="center">12 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014</p>
+</td>
+<td>
+<p align="center">12 %</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="center">Adjoint technique principal de 2e classe <br/>
 </p>
@@ -636,6 +710,22 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Pour 2013</p>
+</td>
+<td>
+<p align="center">10 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014</p>
+</td>
+<td>
+<p align="center">10 %</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="center">Adjoint technique principal de 1re classe <br/>
 </p>
@@ -654,6 +744,22 @@
 <td align="left" valign="top">
 <p align="center">20 %<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2013</p>
+</td>
+<td>
+<p align="center">18 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014</p>
+</td>
+<td>
+<p align="center">15 %</p>
 </td>
 </tr>
 </tbody>
