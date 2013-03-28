@@ -9,3 +9,5 @@ L'Ecole nationale supérieure de la sécurité sociale, les agences régionales 
 Le Centre des liaisons européennes et internationales de sécurité sociale.
 
 Le Fonds de financement de la protection complémentaire de la couverture universelle du risque maladie.
+
+L'Agence nationale pour la garantie des droits des mineurs.
