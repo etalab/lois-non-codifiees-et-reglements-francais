@@ -3136,7 +3136,6 @@
 - [Arrêté du 30 avril 2012 (ETSP1222410A)](arrete-du-30-avril-2012-etsp1222410a)
 - [Arrêté du 30 avril 2012 (ETST1221914A)](arrete-du-30-avril-2012-etst1221914a)
 - [Arrêté du 30 avril 2012 (IOCV1221885A)](arrete-du-30-avril-2012-iocv1221885a)
-- [Arrêté du 30 avril 2012 (JUSA1221869A)](arrete-du-30-avril-2012-jusa1221869a)
 - [Arrêté du 30 avril 2012 (JUSC1221512A)](arrete-du-30-avril-2012-jusc1221512a)
 - [Arrêté du 30 avril 2012 (SPOV1222734A)](arrete-du-30-avril-2012-spov1222734a)
 - [Arrêté du 30 avril 2012 (SPOV1222804A)](arrete-du-30-avril-2012-spov1222804a)
