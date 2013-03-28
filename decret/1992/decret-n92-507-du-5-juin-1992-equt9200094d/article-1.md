@@ -1,3 +1,0 @@
-# Article 1
-
-Pour l'application du présent décret, est regardée comme exerçant la profession de transporteur de marchandises par voie navigable toute personne physique ou toute entreprise dont l'activité, même si elle n'est exercée qu'à titre occasionnel, consiste à effectuer au moyen d'un bateau de navigation intérieure un transport de marchandises pour le compte d'autrui. Est considérée comme une telle entreprise tout groupement ou coopérative de bateliers, même n'ayant pas la personnalité morale, ayant pour objet de passer des contrats avec des chargeurs en vue d'en répartir l'exécution entre ses adhérents ou ses membres.

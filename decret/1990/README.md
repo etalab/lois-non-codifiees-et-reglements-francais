@@ -175,7 +175,6 @@
 - [Décret n°90-317 du 9 avril 1990 (BUDD9070001D)](decret-n90-317-du-9-avril-1990-budd9070001d)
 - [Décret n°90-323 du 9 avril 1990 (EQUT9000012D)](decret-n90-323-du-9-avril-1990-equt9000012d)
 - [Décret n°90-41 du 9 janvier 1990 (MENZ8902226D)](decret-n90-41-du-9-janvier-1990-menz8902226d)
-- [Décret n°90-43 du 9 janvier 1990 (EQUT8900506D)](decret-n90-43-du-9-janvier-1990-equt8900506d)
 - [Décret n°90-582 du 9 juillet 1990 (DEFM9001685D)](decret-n90-582-du-9-juillet-1990-defm9001685d)
 - [Décret n°90-583 du 9 juillet 1990 (INTD9000155D)](decret-n90-583-du-9-juillet-1990-intd9000155d)
 - [Décret n°90-606 du 9 juillet 1990 (INTA9000159D)](decret-n90-606-du-9-juillet-1990-inta9000159d)

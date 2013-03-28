@@ -740,7 +740,6 @@
 - [Décret n°96-77 du 30 janvier 1996 (ECOT9510239D)](decret-n96-77-du-30-janvier-1996-ecot9510239d)
 - [Décret n°96-83 du 30 janvier 1996 (FPPA9500149D)](decret-n96-83-du-30-janvier-1996-fppa9500149d)
 - [Décret n°96-85 du 30 janvier 1996 (AGRA9502213D)](decret-n96-85-du-30-janvier-1996-agra9502213d)
-- [Décret n°96-855 du 30 septembre 1996 (EQUT9601125D)](decret-n96-855-du-30-septembre-1996-equt9601125d)
 - [Décret n°96-873 du 30 septembre 1996 (JUSC9620715D)](decret-n96-873-du-30-septembre-1996-jusc9620715d)
 - [Décret n°96-874 du 30 septembre 1996 (EQUB9600959D)](decret-n96-874-du-30-septembre-1996-equb9600959d)
 - [Décret n°96-947 du 30 octobre 1996 (AGRR9602157D)](decret-n96-947-du-30-octobre-1996-agrr9602157d)
@@ -768,5 +767,4 @@
 - [Décret n°96-474 du 31 mai 1996 (EQUA9600522D)](decret-n96-474-du-31-mai-1996-equa9600522d)
 - [Décret n°96-478 du 31 mai 1996 (MCCL9600061D)](decret-n96-478-du-31-mai-1996-mccl9600061d)
 - [Décret n°96-479 du 31 mai 1996 (AGRS9600447D)](decret-n96-479-du-31-mai-1996-agrs9600447d)
-- [Décret n°96-488 du 31 mai 1996 (EQUT9600427D)](decret-n96-488-du-31-mai-1996-equt9600427d)
 - [Décret n°97-657 du 31 mai 1997 (ECOP9700270D)](decret-n97-657-du-31-mai-1997-ecop9700270d)

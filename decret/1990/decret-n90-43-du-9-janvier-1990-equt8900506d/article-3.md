@@ -1,3 +1,0 @@
-# Article 3
-
-Les dispositions du présent décret s'appliquent aux établissements existant à la date de sa publication. Toutefois, leurs propriétaires ou exploitants sont tenus de demander que ces établissements fassent l'objet, dans le délai d'un an à compter de ladite date, d'une visite de contrôle de la commission consultative départementale de la protection civile, de la sécurité et de l'accessibilité. Dans les conditions prévues à l'article R. 123-13 du code de la construction et de l'habitation et notamment sur avis conforme de cette commission, le préfet peut accorder, dans des cas d'espèce, des dérogations aux règles de sécurité arrêtées par le ministre compétent et prescrire des travaux d'aménagement de nature à compenser les atténuations aux règles précitées.
