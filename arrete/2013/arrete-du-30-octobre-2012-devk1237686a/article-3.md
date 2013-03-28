@@ -1,6 +1,6 @@
 # Article 3
 
-Les services instructeurs mentionnés à l'article 6 du décret n° 2007-1168 du 2 août 2007 susvisé sont les suivants :
+Les services instructeurs mentionnés à l'article R*. 4100-1 du code des transports sont les suivants :
 
 ― la direction départementale des territoires de la Loire-Atlantique ;
 
