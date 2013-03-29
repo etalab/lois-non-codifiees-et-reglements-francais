@@ -16,8 +16,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Ain</p>
+<td align="left">
+<p>Ain</p>
 </td>
 <td align="center">
 <p align="center">591 263</p>
@@ -27,8 +27,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Aisne</p>
+<td align="left">
+<p>Aisne</p>
 </td>
 <td align="center">
 <p align="center">547 724</p>
@@ -38,8 +38,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Allier</p>
+<td align="left">
+<p>Allier</p>
 </td>
 <td align="center">
 <p align="center">358 038</p>
@@ -49,8 +49,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Hautes-Alpes</p>
+<td align="left">
+<p>Hautes-Alpes</p>
 </td>
 <td align="center">
 <p align="center">186 234</p>
@@ -60,8 +60,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Ardennes</p>
+<td align="left">
+<p>Ardennes</p>
 </td>
 <td align="center">
 <p align="center">290 008</p>
@@ -71,8 +71,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Ariège</p>
+<td align="left">
+<p>Ariège</p>
 </td>
 <td align="center">
 <p align="center">173 347</p>
@@ -82,8 +82,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Aude</p>
+<td align="left">
+<p>Aude</p>
 </td>
 <td align="center">
 <p align="center">407 137</p>
@@ -93,8 +93,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Bataillon de marins-pompiers de Marseille</p>
+<td align="left">
+<p>Bataillon de marins-pompiers de Marseille</p>
 </td>
 <td align="center">
 <p align="center">866 864</p>
@@ -104,8 +104,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Calvados</p>
+<td align="left">
+<p>Calvados</p>
 </td>
 <td align="center">
 <p align="center">743 879</p>
@@ -115,8 +115,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Cantal</p>
+<td align="left">
+<p>Cantal</p>
 </td>
 <td align="center">
 <p align="center">168 648</p>
@@ -126,8 +126,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Charente-Maritime</p>
+<td align="left">
+<p>Charente-Maritime</p>
 </td>
 <td align="center">
 <p align="center">699 790</p>
@@ -137,8 +137,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Côte-d'Or</p>
+<td align="left">
+<p>Côte-d'Or</p>
 </td>
 <td align="center">
 <p align="center">534 051</p>
@@ -148,8 +148,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Côtes-d'Armor</p>
+<td align="left">
+<p>Côtes-d'Armor</p>
 </td>
 <td align="center">
 <p align="center">628 334</p>
@@ -159,8 +159,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Dordogne</p>
+<td align="left">
+<p>Dordogne</p>
 </td>
 <td align="center">
 <p align="center">441 272</p>
@@ -170,8 +170,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Doubs</p>
+<td align="left">
+<p>Doubs</p>
 </td>
 <td align="center">
 <p align="center">532 066</p>
@@ -181,8 +181,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Drôme</p>
+<td align="left">
+<p>Drôme</p>
 </td>
 <td align="center">
 <p align="center">492 832</p>
@@ -192,8 +192,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Eure-et-Loir</p>
+<td align="left">
+<p>Eure-et-Loir</p>
 </td>
 <td align="center">
 <p align="center">436 497</p>
@@ -203,19 +203,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Gard</p>
-</td>
-<td align="center">
-<p align="center">737 637</p>
-</td>
-<td align="center">
-<p align="center">152 058,42</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Haute-Garonne</p>
+<td align="left">
+<p>Haute-Garonne</p>
 </td>
 <td align="center">
 <p align="center">1 224 791</p>
@@ -225,8 +214,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Gers</p>
+<td align="left">
+<p>Gers</p>
 </td>
 <td align="center">
 <p align="center">192 769</p>
@@ -236,8 +225,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Gironde</p>
+<td align="left">
+<p>Gironde</p>
 </td>
 <td align="center">
 <p align="center">1 472 078</p>
@@ -247,8 +236,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Indre</p>
+<td align="left">
+<p>Indre</p>
 </td>
 <td align="center">
 <p align="center">246 811</p>
@@ -258,8 +247,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Isère</p>
+<td align="left">
+<p>Isère</p>
 </td>
 <td align="center">
 <p align="center">1 229 260</p>
@@ -269,8 +258,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Jura</p>
+<td align="left">
+<p>Jura</p>
 </td>
 <td align="center">
 <p align="center">274 214</p>
@@ -280,8 +269,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Landes</p>
+<td align="left">
+<p>Landes</p>
 </td>
 <td align="center">
 <p align="center">418 430</p>
@@ -291,8 +280,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Lot-et-Garonne</p>
+<td align="left">
+<p>Lot-et-Garonne</p>
 </td>
 <td align="center">
 <p align="center">333 622</p>
@@ -302,19 +291,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Haute-Marne</p>
-</td>
-<td align="center">
-<p align="center">194 801</p>
-</td>
-<td align="center">
-<p align="center">40 156,79</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Meurthe-et-Moselle</p>
+<td align="left">
+<p>Meurthe-et-Moselle</p>
 </td>
 <td align="center">
 <p align="center">732 379</p>
@@ -324,8 +302,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Meuse</p>
+<td align="left">
+<p>Meuse</p>
 </td>
 <td align="center">
 <p align="center">199 004</p>
@@ -335,8 +313,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Nord</p>
+<td align="left">
+<p>Nord</p>
 </td>
 <td align="center">
 <p align="center">2 578 330</p>
@@ -346,8 +324,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Oise</p>
+<td align="left">
+<p>Oise</p>
 </td>
 <td align="center">
 <p align="center">806 925</p>
@@ -357,8 +335,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Pas-de-Calais</p>
+<td align="left">
+<p>Pas-de-Calais</p>
 </td>
 <td align="center">
 <p align="center">1 501 399</p>
@@ -368,8 +346,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Puy-de-Dôme</p>
+<td align="left">
+<p>Puy-de-Dôme</p>
 </td>
 <td align="center">
 <p align="center">663 139</p>
@@ -379,8 +357,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Pyrénées-Atlantiques</p>
+<td align="left">
+<p>Pyrénées-Atlantiques</p>
 </td>
 <td align="center">
 <p align="center">688 546</p>
@@ -390,8 +368,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Hautes-Pyrénées</p>
+<td align="left">
+<p>Hautes-Pyrénées</p>
 </td>
 <td align="center">
 <p align="center">259 275</p>
@@ -401,8 +379,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Bas-Rhin</p>
+<td align="left">
+<p>Bas-Rhin</p>
 </td>
 <td align="center">
 <p align="center">1 096 234</p>
@@ -412,8 +390,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Haut-Rhin</p>
+<td align="left">
+<p>Haut-Rhin</p>
 </td>
 <td align="center">
 <p align="center">750 962</p>
@@ -423,8 +401,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Rhône</p>
+<td align="left">
+<p>Rhône</p>
 </td>
 <td align="center">
 <p align="center">1 694 703</p>
@@ -434,8 +412,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Sarthe</p>
+<td align="left">
+<p>Sarthe</p>
 </td>
 <td align="center">
 <p align="center">571 676</p>
@@ -445,8 +423,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Savoie</p>
+<td align="left">
+<p>Savoie</p>
 </td>
 <td align="center">
 <p align="center">520 841</p>
@@ -456,8 +434,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Haute-Savoie</p>
+<td align="left">
+<p>Haute-Savoie</p>
 </td>
 <td align="center">
 <p align="center">811 592</p>
@@ -467,8 +445,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Seine-Maritime</p>
+<td align="left">
+<p>Seine-Maritime</p>
 </td>
 <td align="center">
 <p align="center">1 265 468</p>
@@ -478,8 +456,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Seine-et-Marne</p>
+<td align="left">
+<p>Seine-et-Marne</p>
 </td>
 <td align="center">
 <p align="center">1 307 628</p>
@@ -489,8 +467,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Somme</p>
+<td align="left">
+<p>Somme</p>
 </td>
 <td align="center">
 <p align="center">588 908</p>
@@ -500,8 +478,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Tarn</p>
+<td align="left">
+<p>Tarn</p>
 </td>
 <td align="center">
 <p align="center">384 035</p>
@@ -511,8 +489,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Tarn-et-Garonne</p>
+<td align="left">
+<p>Tarn-et-Garonne</p>
 </td>
 <td align="center">
 <p align="center">238 664</p>
@@ -522,8 +500,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Var</p>
+<td align="left">
+<p>Var</p>
 </td>
 <td align="center">
 <p align="center">1 166 296</p>
@@ -533,8 +511,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Vaucluse</p>
+<td align="left">
+<p>Vaucluse</p>
 </td>
 <td align="center">
 <p align="center">557 344</p>
@@ -544,8 +522,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Vosges</p>
+<td align="left">
+<p>Vosges</p>
 </td>
 <td align="center">
 <p align="center">398 225</p>
@@ -555,8 +533,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Val-d'Oise</p>
+<td align="left">
+<p>Val-d'Oise</p>
 </td>
 <td align="center">
 <p align="center">1 165 415</p>
@@ -566,8 +544,8 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Total de la population DGF métropolitaine hors départements 75, 92, 93 et 94 </p>
+<td align="left">
+<p>Total de la population DGF métropolitaine hors départements 75, 92, 93 et 94 </p>
 </td>
 <td align="center">
 <p align="center">
@@ -579,16 +557,16 @@ MONTANT 2011 DE LA CONTRIBUTION DES SERVICES D'INCENDIE ET DE SECOURS PAR DÉPAR
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Total de la population entrant dans le calcul du montant de la dotation globale de fonctionnement des départements utilisant l'INPT </p>
+<td align="left">
+<p>Total de la population entrant dans le calcul du montant de la dotation globale de fonctionnement des départements utilisant l'INPT </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>34 369 385</p>
+<br/>33 436 947</p>
 </td>
 <td align="center">
 <p align="center">
-<br/>7 084 994,85</p>
+<br/>6 892 779,64</p>
 </td>
 </tr>
 </tbody>
