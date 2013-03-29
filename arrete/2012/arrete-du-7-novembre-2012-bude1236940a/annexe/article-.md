@@ -20,6 +20,21 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">59 - Nord </p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Lille Seclin </p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Lille Seclin. </p>
+<p>SIP de Grand Lille Est (*). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er avril 2013 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">62 - Pas-de Calais</p>
 </td>
 <td align="left" valign="top">
@@ -35,7 +50,8 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">69 - Rhône</p>
+<p align="left">69 - Rhône<br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">SIP de Villeurbanne<br/>
@@ -46,8 +62,22 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">1er décembre 2012</p>
+<p align="left">1er décembre 2012<br/>
+</p>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">76 - Seine-Maritime </p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Rouen Ouest</p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Rouen Ouest. </p>
+<p>Trésorerie de Déville-lès-Rouen.</p>
+</td>
+<td align="left" valign="top">1er avril 2013 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -60,10 +90,9 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td align="left" valign="top">
 <div align="left">CDI de Saint-Quentin-en-Yvelines Ouest.</div>
 <p align="left">Trésorerie de Maurepas.</p>
+<br/>
 </td>
-<td align="left" valign="top">
-<p align="left">1er janvier 2013</p>
-</td>
+<td align="left" valign="top">1er janvier 2013</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -75,6 +104,9 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td align="left" valign="top">
 <div align="left">CDI de Fort-de-France Extérieur.</div>
 <p align="left">Trésorerie de Fort-de-France et banlieue (*).</p>
+<p align="left">
+<br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">1er janvier 2013 </p>
@@ -82,8 +114,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </tr>
 <tr>
 <td align="left" colspan="4" valign="top">
-<p align="left">(*) Seul le recouvrement des rôles d'impôt des contribuables ayant leur domicile ou leur résidence dans la commune de Schœlcher et dont la mise en recouvrement est postérieure au 1er janvier 2013 est confié au comptable du SIP de Fort-de-France Extérieur.<br/>
-</p>
+<p align="left">(*) Seul le recouvrement des rôles d'impôt des contribuables ayant leur domicile ou leur résidence dans la commune de Mons-en-Barœul et dont la mise en recouvrement est postérieure au 1er avril 2013 est confié au comptable du SIP de Lille Seclin.</p>
 </td>
 </tr>
 </tbody>

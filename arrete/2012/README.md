@@ -3261,7 +3261,6 @@
 - [Arrêté du 31 janvier 2012 (IOCA1131292A)](arrete-du-31-janvier-2012-ioca1131292a)
 - [Arrêté du 31 janvier 2012 (IOCA1205003A)](arrete-du-31-janvier-2012-ioca1205003a)
 - [Arrêté du 31 janvier 2012 (IOCG1203072A)](arrete-du-31-janvier-2012-iocg1203072a)
-- [Arrêté du 31 janvier 2012 (MAEA1202085A)](arrete-du-31-janvier-2012-maea1202085a)
 - [Arrêté du 31 janvier 2012 (SPOF1200175A)](arrete-du-31-janvier-2012-spof1200175a)
 - [Arrêté du 31 janvier 2012 (TRAT1131773A)](arrete-du-31-janvier-2012-trat1131773a)
 - [Arrêté du 31 juillet 2003 (SOCF0311191A)](arrete-du-31-juillet-2003-socf0311191a)
