@@ -1,14 +1,16 @@
 # Article Annexe 1
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé : agent (e) de médiation, information, services.
 
-Niveau : V.
+Niveau : V
 
-Code NSF : 344 t.
+Codes NSF : 332 et 344.
 
-Résumé du référentiel d'emploi :
+Résumé du référentiel d'emploi
 
 L'agent (e) de médiation, information, services (AMIS) contribue par une présence active de proximité à la prévention des conflits et des actes d'incivilité sur son territoire d'intervention. Il (elle) détecte les besoins et y apporte des réponses en termes d'information ou d'orientation dans le respect de ses limites d'intervention. Il (elle) contribue ainsi au renforcement du sentiment de sécurité, des attitudes civiques et du lien social.
 
@@ -38,9 +40,9 @@ Informer et orienter le public sur son territoire d'intervention.
 
 Transmettre les observations et les informations recueillies dans le cadre de la veille technique et sociale.
 
-2. Réguler par la médiation
+2. Réguler par la médiation des situations
 
-des situations de tension et de conflit
+de tension et de conflit
 
 Désamorcer et calmer les situations d'incompréhension ou de tension en coordination avec ses coéquipiers.
 
@@ -62,7 +64,7 @@ Préparer la diffusion d'une information ciblée et structurée.
 
 S'adresser à un groupe de personnes dans le cadre d'un projet partenarial.
 
-Secteur d'activité ou types d'emploi
+Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
@@ -80,11 +82,11 @@ Les employeurs peuvent être des associations, des collectivités locales, des e
 
 Code ROME :
 
-K1204-Facilitation de la vie sociale.
+K1204-Médiation sociale et facilitation de la vie en société.
 
 Réglementation de l'activité :
 
-Attestation de PSC1 (prévention et secours civiques de niveau 1) ou du certificat de sauveteur secouriste du travail (SST), en cours de validité.
+Attestation de PSC1 (prévention et secours civiques de niveau 1) ou certificat de sauveteur secouriste du travail (SST) en cours de validité.
 
 Autorité responsable de la certification :
 
@@ -94,11 +96,11 @@ Liens avec d'autres certifications :
 
 Selon des modalités définies par arrêté relatif au titre professionnel AMIS, liens avec :
 
-CAP gardien d'immeubles ;
+- CAP gardien d'immeubles ;
 
-CAP agent de prévention et de médiation ;
+- CAP agent de prévention et de médiation ;
 
-BAPAAT.
+- BAPAAT.
 
 Bases légales et réglementaires :
 
