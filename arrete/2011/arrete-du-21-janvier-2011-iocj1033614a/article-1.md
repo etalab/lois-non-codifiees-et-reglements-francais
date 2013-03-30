@@ -112,6 +112,8 @@ Pour la gendarmerie nationale, la liste des emplois de militaires commissionnés
 
 ― choriste du chœur de l'armée française ;
 
+- copiste-arrangeur ;
+
 ― maréchal ferrant ;
 
 ― sellier-bourrelier ;
@@ -148,4 +150,6 @@ Pour la gendarmerie nationale, la liste des emplois de militaires commissionnés
 
 ― expert e-learning ;
 
-― scénariste e-learning.
+― scénariste e-learning
+
+-imprimeur de labeur.
