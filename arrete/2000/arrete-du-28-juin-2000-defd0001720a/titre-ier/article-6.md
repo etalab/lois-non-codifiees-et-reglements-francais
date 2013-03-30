@@ -16,7 +16,7 @@ La sous-direction logistique est responsable de l'action du service visant à as
 
 7. De veiller au maintien des niveaux prescrits du stock militaire de matériel naval, de procéder aux ajustements de ce stock et d'en prononcer ou proposer la réforme, suivant des modalités définies par arrêté ministériel ;
 
-8. D'ordonner et de coordonner l'action logistique des organismes chargés des entrepôts et magasins, la gestion des rechanges d'usage courant étant normalement confiée au service du commissariat de la marine ;
+8. D'ordonner et de coordonner l'action logistique des organismes chargés des entrepôts et magasins ;
 
 9. De décider du ravitaillement des éléments de force maritime et de l'ordonner s'il ne l'effectue pas ;
 
