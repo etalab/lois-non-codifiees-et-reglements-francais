@@ -18,4 +18,8 @@ g) Remorquage de planeur ;
 
 h) Votige ;
 
-i) Qualification ou habilitation au vol de nuit.
+i) Qualification ou habilitation au vol de nuit ;
+
+j) Qualification de vol aux instruments avion (IR [A]) monomoteur ;
+
+k) Qualification d'instructeur.

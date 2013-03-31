@@ -4,7 +4,7 @@ Le conseil médical de l'aéronautique civile peut, en application des articles 
 
 Cette décision d'aptitude :
 
-a) Ne peut être prise que pour un candidat pour lequel il est établi que l'affection, la maladie ou la déficience n'est pas susceptible de le mettre subitement dans l'impossibilité d'utiliser l'aéronef de manière sûre ou de s'acquitter avec sécurité des fonctions qui lui sont assignées et qui a démontré à un instructeur agréé par le ministre chargé de l'aviation civile être capable, par ses propres moyens, de monter à bord de l'aéronef utilisé et de l'évacuer ;
+a)  Ne peut être prise que pour un candidat pour lequel il est établi que  l'affection, la maladie ou la déficience n'est pas susceptible de le  mettre subitement dans l'impossibilité d'utiliser l'aéronef de manière  sûre ou de s'acquitter avec sécurité des fonctions qui lui sont  assignées et qui a démontré à un instructeur agréé par le ministre  chargé de l'aviation civile être capable, par ses propres moyens, de  s'installer aux commandes de l'aéronef utilisé et de l'évacuer ; il doit  également avoir démontré sa capacité à effectuer la visite prévol et à  monter à bord de l'aéronef, le cas échéant avec une aide extérieure  appropriée ;
 
 b) Est prise pour un ou plusieurs titres aéronautiques, une ou plusieurs qualifications ou activités prévues à l'article 2 ci-dessous. L'extension de cette aptitude à un nouveau titre aéronautique, à une nouvelle qualification ou à une nouvelle activité nécessite une nouvelle saisine du conseil médical.
 
