@@ -1,0 +1,3 @@
+# Article 5
+
+Les traitements mentionnés à l'article 4 sont décrits dans un cahier des charges établi entre la Caisse nationale d'assurance vieillesse des travailleurs salariés, l'Agence centrale des organismes de sécurité sociale ou la Caisse centrale de la mutualité sociale agricole, d'une part, et les administrations et organismes destinataires, d'autre part. Les organismes mentionnés au II de l'article R. 133-13 du code de la sécurité sociale et la Caisse nationale d'assurance vieillesse des travailleurs salariés sont garants de la conformité des données transmises aux administrations et organismes destinataires pour les déclarations prévues au IV de l'article R. 133-14 du même code aux données qu'ils ont reçues et aux traitements prévus par le cahier des charges.
