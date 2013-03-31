@@ -4,7 +4,7 @@ Les services qui sollicitent une aide de l'Etat via les agences régionales de l
 
 Sont retenus les dossiers qui cumulent les critères suivants :
 
-― le dossier est complet et a été envoyé à l'agence régionale de santé avant le 29 mars 2013 ;
+― le dossier est complet et a été envoyé à l'agence régionale de santé avant le 30 avril 2013 ;
 
 ― le service d'aide à domicile existe depuis au moins le 1er janvier 2009 ;
 
