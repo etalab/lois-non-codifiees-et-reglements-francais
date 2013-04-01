@@ -7,34 +7,44 @@ A compter du 1er janvier 2008, les tarifs de la taxe sur les nuisances sonores a
 <table>
 <tbody>
 <tr>
-<th>AÉRODROMES<br/>
-</th>
-<th>TARIF<br/>(en euros)<br/>
-</th>
+<td>
+<p align="center"> AÉRODROMES</p>
+</td>
+<td>
+<p align="center"> TARIF<br/>(en euros)</p>
+</td>
 </tr>
 <tr>
 <td>
-<p align="center">Beauvais-Tillé</p>
+<p align="left">Beauvais-Tillé</p>
 </td>
 <td>
 <p align="center">4,50</p>
 </td>
 </tr>
 <tr>
-<td align="center">Bordeaux-Mérignac</td>
+<td align="center">
+<p align="left">Bordeaux-Mérignac</p>
+</td>
 <td align="center">6,00</td>
 </tr>
 <tr>
-<td align="center">Lyon - Saint-Exupéry</td>
+<td align="center">
+<p align="left">Lyon - Saint-Exupéry</p>
+</td>
 <td align="center">7,00</td>
 </tr>
 <tr>
-<td align="center">Marseille-Provence</td>
+<td align="center">
+<p align="left">Marseille-Provence</p>
+</td>
 <td align="center">7,00</td>
 </tr>
 <tr>
-<td align="center">Nice-Côte d'Azur</td>
-<td align="center">6,00</td>
+<td align="center">
+<p align="left">Nice-Côte d'Azur</p>
+</td>
+<td align="center">4,00</td>
 </tr>
 </tbody>
 </table>
