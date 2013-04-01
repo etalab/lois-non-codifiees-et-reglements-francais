@@ -2696,7 +2696,6 @@
 - [Arrêté du 29 décembre 2010 (JUSC1033513A)](arrete-du-29-decembre-2010-jusc1033513a)
 - [Arrêté du 29 décembre 2010 (PRMX1033867A)](arrete-du-29-decembre-2010-prmx1033867a)
 - [Arrêté du 29 décembre 2010 (SCSA1030234A)](arrete-du-29-decembre-2010-scsa1030234a)
-- [Arrêté du 29 décembre 2011 (DEVA1133315A)](arrete-du-29-decembre-2011-deva1133315a)
 - [Arrêté du 29 décembre 2011 (ETSS1135534A)](arrete-du-29-decembre-2011-etss1135534a)
 - [Arrêté du 29 décembre 2011 (ETSS1135540A)](arrete-du-29-decembre-2011-etss1135540a)
 - [Arrêté du 29 décembre 2011 (ETSS1135543A)](arrete-du-29-decembre-2011-etss1135543a)
