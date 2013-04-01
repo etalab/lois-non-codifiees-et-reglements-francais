@@ -14,7 +14,7 @@ Pour le décompte de la durée minimale d'affiliation et de la durée minimale d
 
 Les périodes accomplies hors de la branche des industries électriques et gazières sont prises en compte dans les conditions et modalités expressément prévues par des conventions ou protocoles antérieurement au 1er juillet 2008.
 
-**TITRE Ier : CONSTITUTION DU DROIT À PENSION DE VIEILLESSE ET DURÉE D'ASSURANCE**
+TITRE Ier : CONSTITUTION DU DROIT À PENSION DE VIEILLESSE ET DURÉE D'ASSURANCE
 
 Article 2
 
@@ -150,9 +150,9 @@ Article 9
 
 Décompte des prestations
 
-Les services et bonifications pris en compte aux articles 2,3,4,5,8 et 12 servent de base au calcul des prestations ci-après, les périodes de service à temps partiel étant retenues, sous réserve des dispositions de l'article 11, pour la fraction de leur durée correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
+Les services et bonifications pris en compte aux articles 2, 3, 4, 5, 8 et 12 servent de base au calcul des prestations ci-après, les périodes de service à temps partiel étant retenues, sous réserve des dispositions de l'article 11, pour la fraction de leur durée correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
 
-La durée des services et des bonifications prévus aux articles 2,3,4,5,8 et 12 et prises en compte en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
+La durée des services et des bonifications prévus aux articles 2, 3, 4, 5, 8 et 12 et prises en compte en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 Sous réserve des dispositions transitoires du I de l'article 45 ci-après, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à cent soixante trimestres et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
@@ -268,7 +268,7 @@ Les agents élevant à leur domicile un enfant de moins de vingt ans atteint d'u
 
 La majoration prévue au présent article est cumulable avec la majoration éventuellement accordée en vertu des dispositions de l'article 14.
 
-**TITRE II : LIQUIDATION DES DROITS AUX PRESTATIONS DE VIEILLESSE**
+TITRE II : LIQUIDATION DES DROITS AUX PRESTATIONS DE VIEILLESSE
 
 Article 16
 
@@ -441,7 +441,7 @@ La pension ainsi majorée ne peut excéder celle qui aurait été obtenue par ap
 
 Article 17-1
 
-I. ― L'âge de soixante ans mentionné au 1° du I de l'article 16 est abaissé pour les assurés relevant du régime spécial de retraite et d'invalidité du personnel des industries électriques et gazières qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée des services et des bonifications nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 9 de la présente annexe et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
+I.-L'âge de soixante ans mentionné au 1° du I de l'article 16 est abaissé pour les assurés relevant du régime spécial de retraite et d'invalidité du personnel des industries électriques et gazières qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée des services et des bonifications nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 9 de la présente annexe et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
 
 1° A cinquante-six ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, et ayant commencé leur activité avant l'âge de seize ans ;
 
@@ -451,23 +451,21 @@ I. ― L'âge de soixante ans mentionné au 1° du I de l'article 16 est abaiss�
 
 Pour l'application de la condition d'âge de début d'activité définie aux 1°, 2° et 3°, sont considérés comme ayant commencé leur activité avant l'âge de seize ou dix-sept ans les assurés justifiant :
 
-― soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire ;
+-soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire ;
 
-― soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire.
+-soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire.
 
 Pour l'application de la condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés définie aux 1°, 2° et 3° ci-dessus, sont réputées avoir donné lieu à cotisations :
 
-― les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la plus favorable étant retenue ;
+-les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la plus favorable étant retenue ;
 
-― les périodes pendant lesquelles les assurés ont été placés en congé de maladie statutaire ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire.
+-les périodes pendant lesquelles les assurés ont été placés en congé de maladie statutaire ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire.
 
 Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile.
 
 Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés, il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a été affilié successivement ou simultanément à plusieurs des régimes considérés.
 
-Pour l'application de la condition de durée d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont prises en compte la bonification pour enfant mentionnée à l'article 12, les majorations de durée d'assurance mentionnées aux articles 14 et 15 et les périodes d'interruption d'activité mentionnées au 1° de l'article 4, à l'article 5 et à l'article 7.
-
-II. ― L'année au cours de laquelle sont réunies les conditions définies au I du présent article est l'année retenue pour l'application des dispositions du I et du II de l'article 45, à condition que l'assuré demande à bénéficier des dispositions du présent article avant son soixantième anniversaire.
+II.-L'année au cours de laquelle sont réunies les conditions définies au I du présent article est l'année retenue pour l'application des dispositions du I et du II de l'article 45, à condition que l'assuré demande à bénéficier des dispositions du présent article avant son soixantième anniversaire.
 
 Article 18
 
@@ -596,7 +594,7 @@ III.-En cas de décès de l'ouvrant droit avant la constitution des neuf ans de 
 
 IV.-La majoration pour enfant n'est pas servie aux ayants droit, au titre des enfants bénéficiaires de la prestation visée aux articles 27 et 29 ci-après, et ce jusqu'à extinction de celle-ci.
 
-**TITRE III : DROITS DES AYANTS DROIT**
+TITRE III : DROITS DES AYANTS DROIT
 
 I.-DROITS DES CONJOINTS
 
@@ -608,7 +606,7 @@ I.-Les conjoints, les conjoints séparés de corps et les ex-conjoints non remar
 
 Les dispositions du présent article sont applicables aux conjoints, conjoints séparés de corps et ex-conjoints non remariés d'agents décédés avant le 1er juillet 2008 s'ils en font la demande, sous réserve que le droit à réversion ne donne pas déjà lieu au versement d'une prestation à un autre ayant droit, et sous réserve du remboursement du capital décès éventuellement perçu au moment du décès.
 
-Sauf pour l'application des dispositions du précédent alinéa, la pension de réversion prend effet soit le premier jour du mois suivant le décès pour les agents en activité, soit le premier jour du trimestre suivant le décès de l'ouvrant droit pour les agents titulaires d'une pension vieillesse ou d'une pension d'invalidité.
+Sauf pour l'application des dispositions du précédent alinéa, la pension de réversion prend effet le premier jour du mois suivant le décès.
 
 II.-L'ex-conjoint remarié avant le décès de l'ouvrant droit est exclu du droit à pension de réversion sauf si, en cas de nouveau veuvage, il n'est susceptible de bénéficier d'aucun droit à pension de réversion du chef de son dernier conjoint décédé et si le droit du premier conjoint n'est pas ouvert au profit d'un autre ayant droit. Cette disposition est applicable aux pensions de réversion prenant effet postérieurement au 14 juillet 1982.
 
@@ -646,7 +644,7 @@ Article 26
 
 Allocation de conjoint survivant
 
-Lorsqu'un ex-conjoint n'a pas demandé sa part de réversion au terme de trois ans à compter de la date à laquelle le droit est ouvert, celle-ci est attribuée de manière réversible à la veuve ou au veuf qui en fait la demande, sous la forme d'une allocation de conjoint survivant. Le versement de cette allocation cesse le premier jour du trimestre qui suit la manifestation de l'ex-conjoint ouvrant droit.
+Lorsqu'un ex-conjoint n'a pas demandé sa part de réversion au terme de trois ans à compter de la date à laquelle le droit est ouvert, celle-ci est attribuée de manière réversible à la veuve ou au veuf qui en fait la demande, sous la forme d'une allocation de conjoint survivant. Le versement de cette allocation cesse le premier jour du mois qui suit la manifestation de l'ex-conjoint ouvrant droit.
 
 Lorsqu'un ex-conjoint entend faire valoir son bénéfice à pension de réversion, celui-ci lui est attribué, dans le respect des prescriptions légales, le premier jour du mois qui suit sa demande.
 
@@ -664,9 +662,9 @@ Chaque orphelin né de l'agent ou adopté plénier a droit, jusqu'à l'âge de v
 
 Les pensions temporaires d'orphelin sont servies en addition de la réversion à concurrence respectivement, de la pension de vieillesse de l'ouvrant droit hors majoration pour enfants en cas de décès en inactivité, ou de 75 % du dernier salaire de l'ouvrant droit tel que défini à l'article 18 en cas de décès en activité.
 
-Cette pension prend effet soit le premier jour du mois suivant le décès pour les agents en activité, soit le premier jour du trimestre suivant le décès de l'ouvrant droit pour les agents titulaires d'une pension de vieillesse ou d'invalidité.
+Cette pension prend effet le premier jour du mois suivant le décès.
 
-La pension d'orphelin s'éteint au dernier jour du trimestre au cours duquel l'orphelin atteint son vingt et unième anniversaire ou de son décès.
+La pension d'orphelin s'éteint au dernier jour du mois au cours duquel l'orphelin atteint son vingt et unième anniversaire ou de son décès.
 
 Article 28
 
@@ -678,11 +676,11 @@ Article 29
 
 Droits des orphelins handicapés
 
-Les dispositions des articles 25,27 et 28 sont applicables, sans limitation en raison de leur âge, aux enfants nés de l'agent ou adoptés pléniers qui au jour du décès de l'ouvrant droit et avant leur vingt et unième anniversaire sont atteints d'une incapacité égale ou supérieure à 80 %, ou dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap. Le versement de la pension d'orphelin susceptible de leur être attribuée est suspendu dès lors qu'ils sont soit bénéficiaires de l'allocation aux adultes handicapés pour un montant qui excède le montant de la pension à laquelle ils peuvent prétendre, soit hospitalisés depuis plus de trois mois, soit reconnus aptes à exercer une activité rémunérée par le médecin-conseil du régime spécial.
+Les dispositions des articles 25, 27 et 28 sont applicables, sans limitation en raison de leur âge, aux enfants nés de l'agent ou adoptés pléniers qui au jour du décès de l'ouvrant droit et avant leur vingt et unième anniversaire sont atteints d'une incapacité égale ou supérieure à 80 %, ou dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap. Le versement de la pension d'orphelin susceptible de leur être attribuée est suspendu dès lors qu'ils sont soit bénéficiaires de l'allocation aux adultes handicapés pour un montant qui excède le montant de la pension à laquelle ils peuvent prétendre, soit hospitalisés depuis plus de trois mois, soit reconnus aptes à exercer une activité rémunérée par le médecin-conseil du régime spécial.
 
-Le bénéfice des dispositions des articles 25,27 et 28 est également applicable dans les conditions fixées à l'alinéa précédent aux enfants nés de l'agent ou adoptés pléniers atteints, après le décès de l'agent, mais avant leur vingt et unième anniversaire, d'une incapacité égale ou supérieure à 80 %, ou à défaut dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap.
+Le bénéfice des dispositions des articles 25, 27 et 28 est également applicable dans les conditions fixées à l'alinéa précédent aux enfants nés de l'agent ou adoptés pléniers atteints, après le décès de l'agent, mais avant leur vingt et unième anniversaire, d'une incapacité égale ou supérieure à 80 %, ou à défaut dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap.
 
-**TITRE IV : PRESTATIONS INVALIDITÉ, ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES**
+TITRE IV : PRESTATIONS INVALIDITÉ, ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
 
 Article 30
 
@@ -778,7 +776,7 @@ III.-Lorsque l'état de santé de l'agent invalide, apprécié par le médecin-c
 
 a) A la première échéance de versement de la pension d'invalidité qui suit la décision de la caisse en cas d'amélioration ;
 
-b) A la date de constatation de l'aggravation de l'état de santé de l'invalide.
+b) A la date de constatation de l'aggravation de l'état de santé de l'invalide
 
 Article 37
 
@@ -800,7 +798,23 @@ Revalorisation des pensions d'invalidité
 
 Les pensions servies en vertu du présent titre sont revalorisées dans les conditions prévues à l'article 20 de la présente annexe.
 
-**TITRE V : DISPOSITIONS DIVERSES**
+TITRE IV BIS : PRESTATIONS DÉCÈS
+
+Art. 38-1.
+
+Une indemnité de secours immédiat est attribuée, en cas de décès d'un agent lié à l'entreprise par le contrat de travail résultant de l'article 4 du statut national du personnel des industries électriques et gazières ou d'un titulaire d'une pension statutaire de vieillesse de droit direct ou d'invalidité, au conjoint, ou, à défaut, à parts égales, aux enfants nés de l'agent ou adoptés, ou, à défaut, à parts égales, aux ascendants à charge.
+
+En cas de décès d'un agent lié à l'entreprise par le contrat de travail résultant de l'article 4 du statut national du personnel des industries électriques et gazières ou d'un titulaire d'une pension d'invalidité exerçant une activité professionnelle en tant qu'agent statutaire dans les industries électriques et gazières, l'indemnité de secours immédiat est égale à deux mois de la rémunération dont bénéficiait ou aurait bénéficié l'agent décédé. La rémunération prise en compte est calculée pour un horaire de travail à temps plein, quelle que soit la situation de l'agent décédé, sur la base de son coefficient hiérarchique, ancienneté, majoration résidentielle et gratification de fin d'année prévue à l'article 14 du statut national du personnel des industries électriques et gazières, comprises.
+
+En cas de décès d'un titulaire d'une pension de vieillesse de droit direct prévue au titre Ier de la présente annexe ou d'un titulaire d'une pension d'invalidité prévue au titre IV de la présente annexe n'exerçant aucune activité professionnelle dans les industries électriques et gazières, l'indemnité de secours immédiat est égale à trois mois de la pension dont bénéficiait l'agent décédé.
+
+L'indemnité de secours immédiat calculée en application des deuxième et troisième alinéas du présent article ne peut être d'un montant inférieur au coefficient hiérarchique dont la valeur est immédiatement supérieure à 325.
+
+L'indemnité de secours immédiat est servie sur demande des bénéficiaires mentionnés au présent article auprès de la Caisse nationale des industries électriques et gazières.
+
+Nota : Décret n° 2012-53 du 15 janvier 2013, article 9 : Les dispositions de l'article 38-1 de l'annexe 3 au statut national du personnel des industries électriques et gazières s'appliquent pour les décès survenus à compter du 1er avril 2013.
+
+TITRE V : DISPOSITIONS DIVERSES
 
 Article 39
 
@@ -812,15 +826,15 @@ Le service de la pension est subordonné à la rupture du lien contractuel uniss
 
 La demande est adressée par l'affilié à la Caisse nationale des industries électriques et gazières sur le formulaire de demande de pension mis à la disposition des affiliés par les services de la caisse. Elle est accompagnée des pièces justificatives nécessaires au paiement des prestations.
 
-Par dérogation aux dispositions du premier alinéa, les prestations dues à compter du décès de l'ouvrant droit sont servies sur demande des ayants droit auprès de la Caisse nationale des industries électriques et gazières dans le respect des prescriptions légales et à compter du premier jour du mois suivant le décès pour les agents en activité ou du premier jour du trimestre suivant le décès pour les agents titulaires d'une pension de vieillesse ou d'invalidité.
+Par dérogation aux dispositions du premier alinéa, les prestations dues à compter du décès de l'ouvrant droit sont servies sur demande des ayants droit auprès de la Caisse nationale des industries électriques et gazières dans le respect des prescriptions légales et à compter du premier jour du mois suivant le décès.
 
 Article 40
 
 Paiement des pensions
 
-Les prestations prévues aux titres II, III et IV sont payées par trimestre d'avance le premier jour ouvré des mois de janvier, avril, juillet et octobre de chaque année par virement et sont acquises aux ayants droit en cas de décès du prestataire bénéficiaire en cours de trimestre.
+Les prestations prévues aux titres II, III et IV sont payées par mois d'avance le premier jour ouvré de chaque mois par virement et sont acquises aux ayants droit en cas de décès du bénéficiaire en cours de mois.
 
-Par dérogation aux dispositions de l'alinéa précédent, les pensions dont le montant rapporté au mois est inférieur au montant mensuel fixé par le décret mentionné au II de l'article L. 90 du code des pensions civiles et militaires de retraite sont payées, soit sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret.
+Par dérogation aux dispositions de l'alinéa précédent, les pensions dont le montant mensuel est inférieur au montant mensuel fixé par le décret mentionné au II de l'article L. 90 du code des pensions civiles et militaires de retraite sont payées, soit sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret.
 
 Article 41
 
@@ -1190,7 +1204,7 @@ Pour les agents nés à compter du 1er janvier 1964 qui justifient de la durée 
 </tbody>
 </table>
 
-b) Pour les agents nés antérieurement au 1er janvier 1964, l'âge d'ouverture du droit à pension est abaissé à :
+<div align="left">b) Pour les agents nés antérieurement au 1er janvier 1964, l'âge d'ouverture du droit à pension est abaissé à :</div>
 
 -cinquante-huit ans pour les agents nés avant le 1er janvier 1959 ;
 
@@ -1436,7 +1450,7 @@ Pour les agents nés à compter du 1er janvier 1966 qui justifient de la durée 
 <p align="center">POUR LES AGENTS NÉS À COMPTER DU 1er JANVIER 1966 <br/>qui justifient d'une durée de services effectifs actifs, <br/>insalubres et militaires de douze ans...</p>
 </td>
 <td>
-<p align="center">..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES <br/>et militaires ouvrant droit à un abaissement <br/>de quatre ans de l'âge d'ouverture du droit à pension <br/>en application du 2° du I de l'article 16 est fixée à...</p>
+<p align="center">..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES <br/>et militaires ouvrant droit à un abaissement <br/>de quatre ans de l'âge d'ouverture du droit à pension <br/>en application du 2° du I de l'article 16 est fixée à... </p>
 </td>
 </tr>
 <tr>
@@ -1490,7 +1504,9 @@ Pour les agents nés à compter du 1er janvier 1966 qui justifient de la durée 
 </tbody>
 </table>
 
-b) Pour les agents nés antérieurement au 1er janvier 1966, l'âge d'ouverture du droit à pension est abaissé à :
+<div align="left"/>
+<div align="left"/>
+<div align="left">b) Pour les agents nés antérieurement au 1er janvier 1966, l'âge d'ouverture du droit à pension est abaissé à :</div>
 
 -cinquante-six ans pour les agents nés avant le 1er janvier 1961 ;
 
@@ -1575,7 +1591,14 @@ c) Le b du présent 9° s'applique aux agents justifiant d'une durée de service
 </tbody>
 </table>
 
-10° Par dérogation, les 6°, 7°, 8° et 9° du présent V ne sont pas applicables aux agents qui, après avoir effectué les durées de services de trois ans, six ans, neuf ans et douze ans mentionnées auxdits 6°, 7°, 8° et 9° avant la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, soit ont été intégrés dans un emploi relevant de la catégorie des services sédentaires, soit ont quitté la branche professionnelle des industries électriques et gazières.
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">10° Par dérogation, les 6°, 7°, 8° et 9° du présent V ne sont pas applicables aux agents qui, après avoir effectué les durées de services de trois ans, six ans, neuf ans et douze ans mentionnées auxdits 6°, 7°, 8° et 9° avant la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, soit ont été intégrés dans un emploi relevant de la catégorie des services sédentaires, soit ont quitté la branche professionnelle des industries électriques et gazières. </div>
 
 VI.-1° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension des agents parents de deux enfants est fixé à cinquante-sept ans sous réserve que ces agents aient, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées à l'article 13 et à condition qu'ils justifient d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2017 et qu'ils atteignent l'âge de cinquante-sept ans avant cette même date. Lorsque ces conditions de durée de services et d'âge sont remplies à compter du 1er janvier 2017, l'âge d'ouverture du droit à pension de ces agents est fixé comme indiqué dans le tableau suivant :
 
@@ -1586,7 +1609,7 @@ VI.-1° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension 
 <p align="center">POUR LES AGENTS PARENTS DE DEUX ENFANTS QUI JUSTIFIENT <br/>d'une durée minimale de services de quinze ans <br/>telle que définie à l'article 1er et qui ont atteint <br/>l'âge de cinquante-sept ans...</p>
 </td>
 <td>
-<p align="center">..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À...</p>
+<p align="center">..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À... </p>
 </td>
 </tr>
 <tr>
@@ -1641,7 +1664,7 @@ VI.-1° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension 
 <p align="center">POUR LES AGENTS PARENTS D'UN ENFANT QUI JUSTIFIENT <br/>d'une durée minimale de services de quinze ans <br/>telle que définie à l'article 1er <br/>et qui ont atteint l'âge de cinquante-neuf ans...</p>
 </td>
 <td>
-<p align="center">..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À...</p>
+<p align="center">..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À... </p>
 </td>
 </tr>
 <tr>
@@ -1719,9 +1742,9 @@ Pour l'application des dispositions du a du 1° de l'article 2 de la présente a
 
 A. Définition des services actifs.
 
-I. - Sont classés en services actifs les emplois répondant aux critères de pénibilité prévus au II appréciés dans les conditions fixées au III.
+I.-Sont classés en services actifs les emplois répondant aux critères de pénibilité prévus au II appréciés dans les conditions fixées au III.
 
-II. - Les critères de pénibilité pour le classement des emplois en services actifs sont les suivants :
+II.-Les critères de pénibilité pour le classement des emplois en services actifs sont les suivants :
 
 1° Efforts physiques importants :
 
@@ -1763,7 +1786,7 @@ b) Travail de nuit dans le cadre de l'horaire normal pendant au moins 270 heures
 
 c) Sollicitations (sorties du domicile pour interventions ou dérangements au domicile : appels téléphoniques, alarmes notamment) au titre de l'exploitation des ouvrages industriels dans le cadre de l'astreinte : sur un cycle annuel, au moins quinze nuits donnant lieu à sorties hors du domicile pour interventions ou vingt-six nuits donnant lieu à sorties du domicile pour interventions ou dérangements au domicile.
 
-III. - Décompte des services actifs et détermination du taux de services actifs.
+III.-Décompte des services actifs et détermination du taux de services actifs.
 
 1° Sont retenues, pour la qualification des emplois en services actifs et l'appréciation d'un taux de services actifs, les heures de travail correspondant à l'horaire normal de l'emploi, mettant en œuvre un ou plusieurs critères de pénibilité définis au II.
 
@@ -1787,9 +1810,9 @@ b) Une majoration de 20 points du taux de services actifs résultant du décompt
 
 B. Méthode de classement des emplois en services actifs.
 
-I. - Un référentiel de classement des emplois applicable à l'ensemble des entreprises de la branche professionnelle des industries électriques et gazières détermine le taux ou la fourchette de taux de services actifs à affecter à chaque emploi ou famille d'emplois conformément au A. A la suite de travaux menés au sein d'un groupe de travail paritaire installé à l'initiative des groupements d'employeurs de la branche professionnelle des industries électriques et gazières, le référentiel est transmis pour avis à la Commission supérieure nationale du personnel. Le référentiel, les délibérations et l'avis rendu par la Commission supérieure nationale du personnel sont transmis par le président de celle-ci au ministre chargé de la sécurité sociale. Le référentiel est approuvé par arrêté du ministre chargé de la sécurité sociale.
+I.-Un référentiel de classement des emplois applicable à l'ensemble des entreprises de la branche professionnelle des industries électriques et gazières détermine le taux ou la fourchette de taux de services actifs à affecter à chaque emploi ou famille d'emplois conformément au A. A la suite de travaux menés au sein d'un groupe de travail paritaire installé à l'initiative des groupements d'employeurs de la branche professionnelle des industries électriques et gazières, le référentiel est transmis pour avis à la Commission supérieure nationale du personnel. Le référentiel, les délibérations et l'avis rendu par la Commission supérieure nationale du personnel sont transmis par le président de celle-ci au ministre chargé de la sécurité sociale. Le référentiel est approuvé par arrêté du ministre chargé de la sécurité sociale.
 
-II. - Le référentiel mentionné au I est réalisé à partir de l'examen des emplois effectué dans les entreprises de la branche professionnelle des industries électriques et gazières.
+II.-Le référentiel mentionné au I est réalisé à partir de l'examen des emplois effectué dans les entreprises de la branche professionnelle des industries électriques et gazières.
 
 L'examen des emplois s'effectue, en fonction des caractéristiques de l'entreprise et selon les emplois, au niveau de l'entreprise ou au niveau de l'établissement. L'examen des emplois peut concerner des emplois génériques, regroupant plusieurs emplois ayant des caractéristiques proches, notamment au regard de la pénibilité, ou des emplois uniques.
 
@@ -1803,7 +1826,7 @@ Ces travaux de quantification font l'objet d'une concertation au sein d'un group
 
 L'examen du classement des emplois est effectué tous les trois ans, selon la méthode précisée au présent II. Le référentiel de classement des emplois est révisé en conséquence.
 
-III. - Sur la base du référentiel de classement des emplois mentionné au I et de l'examen des emplois au sein de l'entreprise, l'employeur détermine le classement en services actifs ou sédentaires et, le cas échéant, le taux de services actifs de chaque emploi dans l'entreprise.
+III.-Sur la base du référentiel de classement des emplois mentionné au I et de l'examen des emplois au sein de l'entreprise, l'employeur détermine le classement en services actifs ou sédentaires et, le cas échéant, le taux de services actifs de chaque emploi dans l'entreprise.
 
 En fonction du niveau choisi par l'entreprise pour l'examen des emplois, le classement en services actifs ou sédentaires et le taux de services actifs envisagé pour chaque emploi est soumis au préalable pour avis, selon le cas :
 
@@ -1817,19 +1840,19 @@ Le classement en services actifs ou sédentaires et le taux de services actifs d
 
 Toute création d'un nouvel emploi donne lieu à la procédure de classement prévue au présent III.
 
-IV. - Tout agent ayant occupé effectivement un emploi au cours d'une année se voit notifier par son employeur, avant le 30 avril de l'année suivante, le taux de services actifs affecté à cet emploi pour l'année considérée, à l'exception des situations mentionnées au V du présent B et au III de l'article 3 du décret n° 2011-1175 du 23 septembre 2011. Le taux de services actifs est pris en compte au prorata du temps de travail effectif.
+IV.-Tout agent ayant occupé effectivement un emploi au cours d'une année se voit notifier par son employeur, avant le 30 avril de l'année suivante, le taux de services actifs affecté à cet emploi pour l'année considérée, à l'exception des situations mentionnées au V du présent B et au III de l'article 3 du décret n° 2011-1175 du 23 septembre 2011. Le taux de services actifs est pris en compte au prorata du temps de travail effectif.
 
 Les taux et qualifications retenus pour l'année considérée, pour chaque agent et pour le ou les emplois occupés pendant l'année considérée, sont communiqués pour information au début de l'année suivante à la commission secondaire du personnel compétente préalablement à la notification à chaque agent concerné.
 
 Pour les agents occupant un emploi en services discontinus une partie de l'année et assurant un remplacement dans un emploi en services continus une autre partie de l'année, le taux de services actifs à attribuer à chacun de ces emplois fait l'objet d'un calcul conformément aux dispositions du 6° du A. Les agents qui auraient, sur une année civile, effectué un remplacement en services continus pendant plus de neuf mois se voient attribuer un taux de services actifs de 100 % pour la totalité de l'exercice.
 
-V. - Les agents en arrêt de travail relevant des dispositions de l'article 22 du présent statut national du personnel conservent, pendant la durée de leur interruption de travail, le classement en services actifs dont ils bénéficiaient avant cette interruption de travail.
+V.-Les agents en arrêt de travail relevant des dispositions de l'article 22 du présent statut national du personnel conservent, pendant la durée de leur interruption de travail, le classement en services actifs dont ils bénéficiaient avant cette interruption de travail.
 
 Les agents accidentés du travail ou victimes d'une maladie professionnelle reprenant un emploi classé en services sédentaires à l'issue de leur période d'arrêt de travail conservent, à titre personnel, le bénéfice du taux de services actifs dont ils bénéficiaient avant leur interruption de travail pour la seule détermination de l'âge d'ouverture du droit à pension du régime spécial.
 
 La situation des agents placés en position d'invalidité est précisée à l'article 37 de l'annexe 3 du présent statut.
 
-VI. - L'employeur notifie annuellement à la Caisse nationale des industries électriques et gazières ses décisions d'attribution de taux de services actifs aux affiliés du régime spécial des industries électriques et gazières ainsi que l'emploi ou la famille d'emplois figurant dans le référentiel de classement des emplois mentionné au I du présent B justifiant l'attribution de ce taux.
+VI.-L'employeur notifie annuellement à la Caisse nationale des industries électriques et gazières ses décisions d'attribution de taux de services actifs aux affiliés du régime spécial des industries électriques et gazières ainsi que l'emploi ou la famille d'emplois figurant dans le référentiel de classement des emplois mentionné au I du présent B justifiant l'attribution de ce taux.
 
 Un état des taux de services actifs attribués aux affiliés du régime spécial des industries électriques et gazières est élaboré chaque année par la Caisse nationale des industries électriques et gazières et communiqué à son conseil d'administration.
 

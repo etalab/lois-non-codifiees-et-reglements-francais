@@ -52,7 +52,7 @@ La condition prévue au deuxième alinéa du paragraphe 4 du présent article s'
 
 Paragraphe 5.
 
-En cas de décès d'un agent en activité de service ou en situation d'inactivité (pensionné), ses ayants droit (conjoint ou, à défaut, enfants, ou, à défaut, ascendants à charge) se verront, sur leur demande, attribuer une indemnité dite de secours immédiat, égale au montant de deux mois du salaire, ou de la pension dont bénéficiait le décédé.
+Abrogé.
 
 Paragraphe 6.
 
