@@ -14,7 +14,7 @@ Les sommes misées aux jeux organisés et exploités par la Française des jeux 
 
 6. Prélèvement au profit du Centre national pour le développement du sport institué par les articles 1609 novovicies et 1609 tricies du code général des impôts ;
 
-7. Frais d'organisation et de placement, en pourcentage des mises : 11, 320 % pour les jeux de loterie instantanée, 11, 230 % pour les jeux Loto et Super Loto et le jeu Joker + exploité conjointement avec les jeux Loto et Super Loto, 10, 830 % pour les autres jeux de loterie, y compris le jeu Joker + exploité seul ou avec d'autres jeux que les jeux Loto et Super Loto et 10, 830 % maximum en moyenne pour l'ensemble des paris sportifs ;
+7. Frais d'organisation et de placement, en pourcentage des mises : 11, 320 % pour les jeux de loterie instantanée, 11,420 % (1) pour les autres jeux de loterie et 10, 830 % maximum en moyenne pour l'ensemble des paris sportifs ;
 
 8. Taxe sur la valeur ajoutée au taux en vigueur applicable en vertu du 2° de l'article 261 E du code général des impôts ;
 
