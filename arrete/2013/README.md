@@ -377,7 +377,6 @@
 - [Arrêté du 18 décembre 2012 (INTA1242877A)](arrete-du-18-decembre-2012-inta1242877a)
 - [Arrêté du 18 décembre 2012 (INTS1242380A)](arrete-du-18-decembre-2012-ints1242380a)
 - [Arrêté du 18 décembre 2012 (JUST1243523A)](arrete-du-18-decembre-2012-just1243523a)
-- [Arrêté du 18 décembre 2012 (MAEA1238812A)](arrete-du-18-decembre-2012-maea1238812a)
 - [Arrêté du 18 février 2013 (AFSH1240732A)](arrete-du-18-fevrier-2013-afsh1240732a)
 - [Arrêté du 18 février 2013 (AFSH1304542A)](arrete-du-18-fevrier-2013-afsh1304542a)
 - [Arrêté du 18 février 2013 (AFSR1304669A)](arrete-du-18-fevrier-2013-afsr1304669a)
