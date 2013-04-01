@@ -2698,7 +2698,6 @@
 - [Arrêté du 29 décembre 2010 (SCSA1030234A)](arrete-du-29-decembre-2010-scsa1030234a)
 - [Arrêté du 29 décembre 2011 (ETSS1135534A)](arrete-du-29-decembre-2011-etss1135534a)
 - [Arrêté du 29 décembre 2011 (ETSS1135540A)](arrete-du-29-decembre-2011-etss1135540a)
-- [Arrêté du 29 décembre 2011 (ETSS1135543A)](arrete-du-29-decembre-2011-etss1135543a)
 - [Arrêté du 29 juillet 2011 (AGRS1111191A)](arrete-du-29-juillet-2011-agrs1111191a)
 - [Arrêté du 29 juillet 2011 (AGRS1121411A)](arrete-du-29-juillet-2011-agrs1121411a)
 - [Arrêté du 29 juillet 2011 (BCRP1121163A)](arrete-du-29-juillet-2011-bcrp1121163a)
