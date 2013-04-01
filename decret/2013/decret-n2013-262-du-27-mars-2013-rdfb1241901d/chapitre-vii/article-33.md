@@ -1,0 +1,5 @@
+# Article 33
+
+I. ― Les tableaux d'avancement établis au titre de l'année 2013 pour l'accès aux grades de rééducateur de classe supérieure ou d'assistant médico-technique de classe supérieure demeurent valables jusqu'au 31 décembre 2013.
+
+II. ― Les fonctionnaires promus en application du I postérieurement à la date d'entrée en vigueur du présent décret sont classés dans le grade de technicien paramédical de classe supérieure, en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien cadre d'emplois jusqu'à la date de leur promotion, puis avaient été promus dans le grade d'avancement de ce cadre d'emplois en application des dispositions, selon le cas, du décret n° 92-863 du 28 août 1992 portant statut particulier du cadre d'emplois des rééducateurs territoriaux ou du décret n° 92-871 du 28 août 1992 portant statut particulier du cadre d'emplois des assistants médico-techniques territoriaux et enfin été reclassés, à la date de leur promotion, conformément au tableau de correspondance figurant à l'article 27 du présent décret.
