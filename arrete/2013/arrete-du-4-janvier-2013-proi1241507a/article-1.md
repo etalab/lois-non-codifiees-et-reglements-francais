@@ -606,12 +606,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
 </p>
 </td>
