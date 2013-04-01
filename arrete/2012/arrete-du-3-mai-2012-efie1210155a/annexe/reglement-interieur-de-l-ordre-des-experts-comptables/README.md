@@ -5,3 +5,4 @@
 - [Titre III : Dispositions générales et diverses](titre-iii)
 - [Titre IV : Du contrôle de qualité](titre-iv)
 - [Titre V : Règlement du stage d'expertise comptable](titre-v)
+- [Titre VI : Des participations financières et des mandats sociaux](titre-vi)
