@@ -4,6 +4,8 @@ I.-Aux fins de sa liquidation, le montant de la pension est calculé en multipli
 
 Pour les intéressés rémunérés en fonction des salaires pratiqués dans l'industrie, les émoluments susvisés sont déterminés par la somme brute obtenue en multipliant par 1 759 le salaire horaire de référence correspondant à leur catégorie professionnelle au moment de la radiation des contrôles ou, dans le cas prévu au II, à la catégorie professionnelle correspondant à l'emploi occupé. Ce produit est affecté d'un coefficient égal au rapport existant entre le salaire horaire résultant des gains et de la durée effective du travail pendant l'année expirant à la fin de la période dont il doit éventuellement être fait état et le salaire horaire de référence durant la même année. Le coefficient est arrondi au centième le plus proche.
 
+Lorsque les intéressés bénéficient du congé de reclassement prévu par le décret n° 2013-184 du 28 février 2013 relatif au congé de reclassement des personnels à statut ouvrier du ministère de la défense et qu'ils demandent la liquidation de leurs droits à pension sans avoir repris du service dans leur administration d'origine, le coefficient est calculé à la date de prise d'effet du congé de reclassement.
+
 II.-La pension peut être calculée sur la base des émoluments soumis à retenue afférents à un emploi occupé de façon continue pendant quatre ans au moins au cours des quinze dernières années d'activité lorsque ces émoluments sont supérieurs à ceux mentionnés au premier alinéa du I du présent article et sous réserve que la diminution de rémunération résulte des motifs suivants :
 
 1° Rétrogradation de groupe professionnel par suite :
