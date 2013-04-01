@@ -34,7 +34,7 @@ b) Sur ressources propres (en fonction des conventions passées avec l'Etat et d
 
 14° Arriérés de taxes foncières émises au nom de l'Etat, services des domaines ;
 
-15° Remboursement de prêts complémentaires accordés par le Crédit foncier de France, réservés aux fonctionnaires en vue de la construction de logements et bénéficiant de la garantie de l'Etat (art.R. 314-1 et suivants du code de la construction et de l'habitation) ;
+15° Remboursement de prêts complémentaires accordés par le Crédit foncier de France, réservés aux fonctionnaires en vue de la construction de logements et bénéficiant de la garantie de l'Etat (art. R. 314-1 et suivants du code de la construction et de l'habitation) ;
 
 16° Taxe définie au II de l'article 45 de la loi de finances pour 1987, modifié par l'article 40 de la loi de finances rectificative pour 1991 et par l'article 36 de la loi de finances pour 1997 (taxe forfaitaire de brouillage ou de non-conformité) ;
 
@@ -62,4 +62,6 @@ d) les demandes de reconnaissance d'une autorisation de mise sur le marché ;
 
 e) Les demandes d'autorisation d'importation parallèle ;
 
-f) Les demandes de dépôt de publicité.
+f) Les demandes de dépôt de publicité ;
+
+24° Contribution pour frais de contrôle prévue à l'article L. 612-20 du code monétaire et financier.
