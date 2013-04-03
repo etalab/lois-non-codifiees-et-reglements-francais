@@ -1008,7 +1008,6 @@
 - [Arrêté du 26 décembre 2008 (ESRS0828306A)](arrete-du-26-decembre-2008-esrs0828306a)
 - [Arrêté du 26 février 2008 (AGRG0803839A)](arrete-du-26-fevrier-2008-agrg0803839a)
 - [Arrêté du 26 février 2008 (AGRG0803847A)](arrete-du-26-fevrier-2008-agrg0803847a)
-- [Arrêté du 26 février 2008 (AGRM0804683A)](arrete-du-26-fevrier-2008-agrm0804683a)
 - [Arrêté du 26 février 2008 (DEFH0800541A)](arrete-du-26-fevrier-2008-defh0800541a)
 - [Arrêté du 26 février 2008 (DEVT0804426A)](arrete-du-26-fevrier-2008-devt0804426a)
 - [Arrêté du 26 février 2008 (ECED0805157A)](arrete-du-26-fevrier-2008-eced0805157a)
