@@ -166,5 +166,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </p>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes<br/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
