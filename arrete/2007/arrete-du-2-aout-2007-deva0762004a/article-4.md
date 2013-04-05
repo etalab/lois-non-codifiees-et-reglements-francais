@@ -144,4 +144,20 @@ Toulon-Alger (Algérie) ;
 
 Toulon-Oran (Algérie).
 
+Jusqu'au 31 mars 2018 :
+
+Lyon - Bodrum (Turquie) ;
+
+Nantes - Bodrum (Turquie) ;
+
+Paris - Dubrovnik (Croatie) ;
+
+Lyon - Split (Croatie) ;
+
+Marseille - Split (Croatie) ;
+
+Mulhouse - Split (Croatie) ;
+
+Nantes - Split (Croatie).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
