@@ -2,7 +2,7 @@
 
 I. ― En application de l'article D. 654-112-1 du code rural et de la pêche maritime, un dispositif de transfert spécifique de quotas laitiers est mis en œuvre au niveau du bassin laitier, en complément des dispositifs prévus à l'article 1er du présent arrêté.
 
-II. - Le préfet coordonnateur arrête, après avis de la conférence de bassin laitier, les catégories de producteurs demandeurs de quotas admis à participer à ce dispositif ainsi que, éventuellement, les critères de priorité d'accès au dispositif de transfert spécifique, les critères de calcul et le montant maximal de ces quotas supplémentaires. Ces critères sont retenus parmi les catégories de producteurs définies au niveau national à l'article 2 de l'arrêté du 10 mars 2011 relatif à l'attribution de quotas en provenance de la réserve nationale pour la livraison pour les campagnes 2011-2012 à 2014-2015.
+II.-Le préfet coordonnateur arrête, après avis de la conférence de bassin laitier, les catégories de producteurs demandeurs de quotas admis à participer à ce dispositif ainsi que, éventuellement, les critères de priorité d'accès au dispositif de transfert spécifique, les critères de calcul et le montant maximal de ces quotas supplémentaires. Ces critères sont retenus parmi les catégories de producteurs définies au niveau national à l'article 2 de l'arrêté du 10 mars 2011 relatif à l'attribution de quotas en provenance de la réserve nationale pour la livraison pour les campagnes 2011-2012 à 2014-2015.
 
 Seuls peuvent souscrire à ce dispositif les producteurs pour lesquels l'attribution de quotas ne remet pas en cause la compatibilité aux normes environnementales. Ainsi l'exploitation, après augmentation de la quantité d'azote produite, doit être en conformité avec les articles L. 512-1 et L. 512-8 du code de l'environnement.
 
@@ -20,17 +20,9 @@ Il examine et statue sur sa recevabilité au regard :
 
 Il notifie directement aux demandeurs concernés les constats d'irrecevabilité au sens de l'alinéa ci-dessus.
 
-IV. - Dans la limite des quantités restant disponibles après la mise en œuvre des dispositifs prévus par l'article 1er du présent arrêté, le préfet coordonnateur établit la liste nominative des producteurs bénéficiaires d'une attribution ainsi que le volume individuel qui leur est attribué et le montant correspondant du versement à effectuer.
+IV.-Dans la limite des quantités restant disponibles après la mise en œuvre des dispositifs prévus par l'article 1er du présent arrêté, le préfet coordonnateur établit la liste nominative des producteurs bénéficiaires d'une attribution ainsi que le volume individuel qui leur est attribué et le montant correspondant du versement à effectuer.
 
-Ce montant est calculé par application du taux suivant :
-
-0,15 € par litre pour la campagne 2010-2011 ;
-
-0,1125 € par litre pour la campagne 2011-2012 ;
-
-0,075 € par litre pour la campagne 2012-2013 ;
-
-0,0375 € par litre pour la campagne 2013-2014.
+Ce montant est calculé par application d'un barème identique à celui du dispositif national d'octroi d'une indemnité à l'abandon total ou partiel de la production laitière, défini à l'article 6 du présent arrêté.
 
 Toutefois, lorsque les demandes de rachat déposées au sein d'un bassin laitier ne permettent pas de financer l'ensemble des cessations d'activité laitières, le reliquat de ces quotas peut être attribué dans le cadre d'une mutualisation au niveau national, décidée par arrêté du ministre chargé de l'agriculture. Les reliquats de demandes de transfert spécifique sans terre (TSST) sont alors satisfaits en répartissant le solde de besoin de financement entre les bassins selon le poids des demandes résiduelles de TSST de chacun des bassins. Ces volumes sont communiqués par le directeur général de FranceAgriMer aux préfets coordonnateurs de bassin.
 
