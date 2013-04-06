@@ -14,7 +14,7 @@ Ce concours est ouvert aux fonctionnaires et agents de l'Etat, des collectivité
 
 Ce concours est également ouvert aux candidats justifiant de quatre ans de services auprès d'une administration, un organisme ou un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par cet alinéa.
 
-3° Par voie d'un examen professionnel accessible aux fonctionnaires appartenant à un corps de catégorie C ou de même niveau dont la liste est fixée par décret en Conseil d'Etat, justifiant, au 1er janvier de l'année au titre de laquelle les nominations interviennent, de onze années de services publics.
+3° Par voie d'un examen professionnel accessible aux fonctionnaires appartenant à un corps de catégorie C ou de même niveau dont la liste est fixée par décret en Conseil d'Etat, justifiant, au 1er janvier de l'année au titre de laquelle les nominations interviennent, de onze années de services publics. Cet examen professionnel est également accessible aux fonctionnaires détachés dans l'un de ces corps justifiant, au 1er janvier de l'année au titre de laquelle les nominations interviennent, de onze années de services publics.
 
 II.-Les recrutements dans le deuxième grade peuvent également donner lieu à un troisième concours sur épreuves ouvert aux candidats justifiant, au 1er janvier de l'année au titre de laquelle il est ouvert, de l'exercice pendant quatre ans au moins d'une ou plusieurs des activités professionnelles ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée.
 

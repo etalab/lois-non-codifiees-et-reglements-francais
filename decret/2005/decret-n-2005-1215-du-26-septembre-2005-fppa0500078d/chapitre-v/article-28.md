@@ -1,7 +1,5 @@
 # Article 28
 
-Les fonctionnaires placés en position de détachement depuis deux ans au moins dans un corps d'attachés peuvent être, sur leur demande, intégrés dans ce corps.
-
-Ils sont nommés au grade et à l'échelon qu'ils occupent en position de détachement avec conservation de l'ancienneté acquise dans l'échelon.
-
-Les services accomplis dans le corps ou le cadre d'emplois d'origine sont assimilés à des services accomplis dans le corps d'intégration.
+Peuvent également être détachés dans l'un des corps d'attachés d'administration mentionnés à l'article 1er du présent décret les militaires mentionnés à l'
+article 13 ter de la loi du 13 juillet 1983 susvisée
+, dans les conditions fixées par le décret prévu par les mêmes dispositions.

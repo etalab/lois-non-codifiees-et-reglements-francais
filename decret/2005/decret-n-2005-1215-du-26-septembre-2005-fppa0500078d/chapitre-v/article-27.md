@@ -1,9 +1,12 @@
 # Article 27
 
-Peuvent être placés en position de détachement dans un corps d'attachés d'administration les fonctionnaires appartenant à un corps ou à un cadre d'emplois classé dans la catégorie A ou de même niveau.
+Les fonctionnaires appartenant à un corps ou cadre d'emplois de catégorie A ou de même niveau peuvent être détachés ou directement intégrés dans un des corps mentionnés à l'article 1er conformément aux
+dispositions de l'article 13 bis de la loi du 13 juillet 1983 susvisée
+.
 
-Le détachement est prononcé à équivalence de grade et à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son grade d'origine.
+Les fonctionnaires détachés ou directement intégrés dans l'un de ces corps sont respectivement soumis aux dispositions des titres II et III bis du décret du 16 septembre 1985 susvisé
+.
 
-Le fonctionnaire détaché conserve, dans la limite de l'ancienneté moyenne exigée à l'article 22 pour une promotion à l'échelon supérieur, l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement consécutive à son détachement est inférieure ou égale à celle qui aurait résulté d'un avancement d'échelon dans son grade d'origine ou à celle qui a résulté de sa promotion au dernier échelon lorsqu'il a déjà atteint l'échelon terminal de son grade d'origine.
+Les fonctionnaires placés en position de détachement dans un corps d'attachés d'administration peuvent être intégrés, sur leur demande, dans ce corps.
 
-Les fonctionnaires placés en position de détachement dans un corps d'attachés d'administration concourent pour les avancements d'échelon et de grade dans les mêmes conditions que les fonctionnaires de ce corps.
+Les services accomplis dans le corps ou cadre d'emplois d'origine sont assimilés à des services accomplis dans le corps d'intégration.

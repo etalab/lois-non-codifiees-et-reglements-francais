@@ -463,4 +463,4 @@ V. - Les fonctionnaires autres que ceux mentionnés aux II, III et IV sont class
 
 Dans la limite de l'ancienneté moyenne exigée à l'article 24, pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur grade d'origine lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation.
 
-Les fonctionnaires nommés alors qu'ils ont atteint le dernier échelon de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui a résulté de leur promotion à ce dernier échelon.
+Les fonctionnaires nommés alors qu'ils ont atteint le dernier échelon de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'une promotion à ce dernier échelon.

@@ -14,7 +14,7 @@ Ce concours est également ouvert aux candidats justifiant de quatre ans de serv
 
 3° Après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire compétente :
 
-Peuvent être inscrits sur cette liste d'aptitude les fonctionnaires appartenant à un corps de catégorie C ou de même niveau dont la liste est fixée par décret en Conseil d'Etat, justifiant d'au moins neuf années de services publics.
+Peuvent être inscrits sur cette liste d'aptitude les fonctionnaires appartenant à un corps de catégorie C ou de même niveau dont la liste est fixée par décret en Conseil d'Etat, justifiant d'au moins neuf années de services publics. Peuvent également être inscrits sur cette liste les fonctionnaires détachés dans l'un de ces corps, justifiant d'au moins neuf années de services publics.
 
 Ces recrutements peuvent cependant, pour certains corps, avoir lieu par voie d'examen professionnel, dans des conditions fixées par décret en Conseil d'Etat.
 

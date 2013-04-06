@@ -22,17 +22,15 @@ Corps des chefs de travaux d'art du ministère chargé de la culture.
 
 **Ministère de l'économie, des finances et de l'industrie**
 
-Corps des personnels de catégorie A des services déconcentrés de la direction générale des impôts.
-
 Corps des agents de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects.
-
-Corps des personnels de la catégorie A du Trésor public.
 
 Corps des agents de catégorie A des services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
 Corps des attachés économiques.
 
 Corps des personnels scientifiques de laboratoire du ministère de l'économie, des finances et de l'industrie.
+
+Corps des personnels de catégorie A de la direction générale des finances publiques
 
 **Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche**
 

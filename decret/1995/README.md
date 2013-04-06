@@ -235,7 +235,6 @@
 - [Décret n°95-369 du 7 avril 1995 (EQUK9500535D)](decret-n95-369-du-7-avril-1995-equk9500535d)
 - [Décret n°95-387 du 7 avril 1995 (INTB9500084D)](decret-n95-387-du-7-avril-1995-intb9500084d)
 - [Décret n°95-389 du 7 avril 1995 (ECOT9440220D)](decret-n95-389-du-7-avril-1995-ecot9440220d)
-- [Décret n°95-888 du 7 août 1995 (PRMG9570346D)](decret-n95-888-du-7-aout-1995-prmg9570346d)
 - [Décret n°95-889 du 7 août 1995 (TEFE9500821D)](decret-n95-889-du-7-aout-1995-tefe9500821d)
 - [Décret n°95-890 du 7 août 1995 (MENF9501523D)](decret-n95-890-du-7-aout-1995-menf9501523d)
 - [Décret n°95-891 du 7 août 1995 (MENF9501524D)](decret-n95-891-du-7-aout-1995-menf9501524d)
