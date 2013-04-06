@@ -1,4 +1,0 @@
-# Arrêté du 25 janvier 1989 RELATIF A L'ECHELONNEMENT INDICIAIRE DES PROFESSEURS DE L'ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

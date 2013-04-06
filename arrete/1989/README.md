@@ -403,7 +403,6 @@
 - [Arrêté du 25 août 1989 (PTTP8900820A)](arrete-du-25-aout-1989-pttp8900820a)
 - [Arrêté du 25 février 1984](arrete-du-25-fevrier-1984)
 - [Arrêté du 25 janvier 1989 (JUSG8960003A)](arrete-du-25-janvier-1989-jusg8960003a)
-- [Arrêté du 25 janvier 1989 (MENU8900436A)](arrete-du-25-janvier-1989-menu8900436a)
 - [Arrêté du 25 juillet 1989 (EQUA8900843A)](arrete-du-25-juillet-1989-equa8900843a)
 - [Arrêté du 25 juillet 1989 (PTTT8900712A)](arrete-du-25-juillet-1989-pttt8900712a)
 - [Arrêté du 25 octobre 1989 (MCCB8900647A)](arrete-du-25-octobre-1989-mccb8900647a)
