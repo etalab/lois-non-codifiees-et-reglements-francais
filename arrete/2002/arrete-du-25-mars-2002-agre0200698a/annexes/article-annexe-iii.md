@@ -2,72 +2,82 @@
 
 Règlement de l'évaluation
 
-L'épreuve de contrôle des connaissances se déroule selon une procédure et des modalités d'évaluation identiques sur tout le territoire. L'épreuve est constituée d'un QCM (Questionnaire à choix multiples) dont la correction est automatisée.
+L'épreuve de contrôle des connaissances se déroule selon une procédure et des modalités d'évaluation identiques sur l'ensemble du territoire. L'épreuve est constituée d'un QCM (questionnaire à choix multiple) dont la correction est automatisée.
 
-Elle se déroule en un temps limité, géré par l'ordinateur. Elle est précédée d'une phase d'initiation qui permet au candidat de se familiariser avec l'outil, avec l'aide éventuelle du personnel de surveillance, pour faciliter la prise en main.
+Elle se déroule en un temps limité.
+
+Le candidat est informé de la mise en page de l'application informatique par une copie d'écran mise à sa disposition avant l'épreuve.
 
 Dispositif d'évaluation
 
-Phase d'examen
+Phase d'évaluation :
 
-Elle est fondée sur une banque d'environ 500 questions, réparties en 6 domaines :
+Elle est fondée sur une banque de questions, actualisées et organisées en huit domaines :
 
-- alimentation ;
+- "alimentation  ;
 
-- comportement ;
+- "comportement" ;
 
-- logement ;
+- "logement" ;
 
-- réglementation ;
+- "droit" ;
 
-- reproduction ;
+- "reproduction" ;
 
-- soins, hygiène, santé.
+- "médecine animale" ;
 
-Un ensemble de 30 questions couvrant l'ensemble du référentiel est tiré au sort pour chaque candidat. Ce tirage est orienté pour balayer l'ensemble du référentiel en privilégiant les trois secteurs d'activités choisis par le candidat parmi les 5 options suivantes :
+- "transport" ;
 
-- chiens ;
+- "sélection" ;
 
-- chats ;
+Un ensemble de trente questions couvrant l'ensemble du programme d'évaluation est tiré au sort pour chaque candidat.
 
-- autres espèces ;
+Le candidat choisit de se présenter à l'évaluation pour une ou plusieurs catégories d'animaux :
 
-- exposition/vente ;
+- "chien" ;
 
-- éducation.
+- "chat" ;
 
-Néanmoins, aucun domaine de compétence n'est exclu a priori du champ des questions posées.
+- "animaux de compagnie d'espèces domestiques autres que les chiens et les chats",
 
-Les questions apparaissent l'une après l'autre sur l'écran, sous une forme écrite, accompagnées d'une photographie qui sert de support à la question ou qui en est une simple illustration. Le nombre de bonnes réponses est affiché.
+testées seules ou combinées par deux ou trois.
 
-Le candidat clique simplement avec sa souris sur la ou les bonnes réponses, ce qui lui permet de passer à la question suivante. Il n'y a pas de retour en arrière possible.
+Cette disposition conduit donc à sept situations possibles correspondant à sept profils d'évaluation :
 
-La durée normale de l'évaluation est de 30 minutes et l'ordinateur interrompt automatiquement cette évaluation au bout d'une heure. A l'issue de ce délai, le logiciel affiche un message de fin, arrête la phase d'évaluation et passe à la correction.
+- "chien" ;
+
+- "chat" ;
+
+- "animaux de compagnie d'espèces domestiques autres que les chiens et les chats" ;
+
+- "chien et chat" ;
+
+- "chien et animaux de compagnie d'espèces domestiques autres que les chiens et les chats" ;
+
+- "chat et animaux de compagnie d'espèces domestiques autres que les chiens et les chats" ;
+
+- "chien, chat et animaux de compagnie d'espèces domestiques autres que les chiens et les chats".
+
+Ces sept profils donnent la possibilité au responsable de l'évaluation de mettre à disposition, simultanément, dans l'outil informatique, sept sessions d'évaluations durant l'épreuve de contrôle des connaissances.
+
+Les questions apparaissent à l'écran les unes après les autres. Pour chacune des questions posées, le nombre attendu de bonnes réponses est affiché.
+
+Par un clic, le candidat désigne simplement avec sa souris la ou les bonnes réponses, ce qui lui permet de passer à la question suivante. Le retour en arrière est possible durant l'évaluation.
+
+La durée de chacune des sessions d'évaluation est de trente minutes. Le responsable de l'épreuve de contrôle des connaissances confirme la fin de chacune des sessions d'évaluation ce qui déclenche leur correction par l'outil informatique.
 
 Phase de correction
 
-Elle est entièrement automatisée et quasi instantanée.
+Le seuil de réussite est fixé à 18 bonnes réponses sur 30.
 
-Le logiciel analyse les réponses données, en considérant comme justes les items pour lesquels toutes les réponses justes ont été cliquées.
+Pour chacune des sessions d'évaluation, le résultat est connu quelques minutes après la clôture de la session d'évaluation correspondante. Un rapport de correction est téléchargé et sauvegardé au format "pdf" par le responsable de l'épreuve de contrôle des connaissances.
 
-Le nombre d'items justes nécessaires pour obtenir l'attestation de connaissances est fixé à 18.
-
-L'ordinateur enregistre le score réalisé et reste bloqué dans cette configuration jusqu'à reprise en main par le centre d'évaluation. Un bordereau de résultat est édité sous une forme papier.
-
-Le président de la commission d'évaluation de l'établisement habilité adresse un procès-verbal signé, à l'issue de chaque session d'évaluation, au DRAF ou DAF.
+Le responsable de l'épreuve de contrôle des connaissances pour l'établissement habilité, adresse un procès-verbal signé, à l'issue de chaque épreuve, à la direction régionale de l'alimentation, de l'agriculture et de la forêt ou la direction de l'alimentation, de l'agriculture et de la forêt.
 
 Ergonomie du dispositif
 
-Le dispositif prend la forme d'un cédérom. Il est conçu de façon à :
+Le dispositif de contrôle des connaissances est un service en ligne sécurisé, accessible par identifiant et mot de passe.
 
-- faciliter la prise en main par des personnes n'ayant aucune notion d'informatique ;
+Le centre d'évaluation de l'établissement habilité accède à l'outil d'évaluation, introduit les données d'identification du candidat et crée la session d'évaluation, avant de placer le candidat devant le poste informatique qui lui correspond.
 
-- éviter les manipulations intempestives par des personnes rompues aux secrets de cette même informatique.
-
-Le centre d'examen démarre le programme, introduit les données d'identification du candidat et ouvre la séquence d'évaluation, avant de placer le candidat devant le poste informatique qui lui servira. Le candidat n'a alors accès à aucune fonction de l'ordinateur, si ce n'est le clic de la souris.
-
-Le candidat clique sur un bouton de démarrage. Le logiciel commence en rappelant le principe de l'examen et en proposant une séquence de démonstration-apprentissage qui permet au candidat de se familiariser avec l'outil sans que le personnel de surveillance n'ait à intervenir.
-
-Il a ensuite accès à une séquence de choix durant laquelle il va indiquer les 3 secteurs d'activités sur lesquels il souhaite être prioritairement interrogé. Un écran lui rappelle que pour garantir l'unité de l'attestation, la répartition des questions au sein des secteurs d'activités est faite de telle façon que le choix du candidat oriente fortement le questionnaire dans la direction souhaitée, mais sans exclure totalement les questions relevant des autres secteurs.
-
-Un bouton d'accès, sur lequel il faut à nouveau cliquer, apparaît pour lancer la phase d'examen et le décompte de temps.
+Le candidat vérifie les informations portées sur l'écran de session d'évaluation qui lui correspond et débute l'évaluation sous la surveillance du responsable de l'évaluation.
