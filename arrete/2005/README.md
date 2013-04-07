@@ -202,8 +202,6 @@
 - [Arrêté du 13 décembre 2005 (INTD0500788A)](arrete-du-13-decembre-2005-intd0500788a)
 - [Arrêté du 13 décembre 2005 (INTD0500789A)](arrete-du-13-decembre-2005-intd0500789a)
 - [Arrêté du 13 décembre 2005 (MENF0502399A)](arrete-du-13-decembre-2005-menf0502399a)
-- [Arrêté du 13 décembre 2005 (MJSK0570260A)](arrete-du-13-decembre-2005-mjsk0570260a)
-- [Arrêté du 13 décembre 2005 (MJSK0570261A)](arrete-du-13-decembre-2005-mjsk0570261a)
 - [Arrêté du 13 janvier 2005 (DEFB0500129A)](arrete-du-13-janvier-2005-defb0500129a)
 - [Arrêté du 13 juillet 2005 (EQUN0501173A)](arrete-du-13-juillet-2005-equn0501173a)
 - [Arrêté du 13 juillet 2005 (MJSK0570141A)](arrete-du-13-juillet-2005-mjsk0570141a)
