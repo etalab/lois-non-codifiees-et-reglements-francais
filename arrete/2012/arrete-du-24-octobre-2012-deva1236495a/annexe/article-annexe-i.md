@@ -36,7 +36,7 @@ France métropolitaine ― Serbie.
 
 3. Liaisons internationales extracommunautaires
 
-3.1. De/ vers la France métropolitaine
+3.1. De/vers la France métropolitaine
 
 Afrique du Sud :
 
@@ -56,11 +56,17 @@ Paris ― Luanda ;
 
 Arabie saoudite :
 
+Paris - Abha ;
+
 Paris ― Dammam ;
 
 Paris ― Dharan ;
 
 Paris ― Djedda ;
+
+Paris - Hail ;
+
+Paris - Jazan ;
 
 Paris ― Riyad ;
 
@@ -140,6 +146,8 @@ Paris ― Campinas ;
 
 Paris ― Campo Grande ;
 
+Paris - Cuiab ;
+
 Paris ― Curitiba ;
 
 Paris ― Florianopolis ;
@@ -160,6 +168,8 @@ Paris ― Manaus ;
 
 Paris ― Natal ;
 
+Paris - Navegantes ;
+
 Paris ― Palmas ;
 
 Paris ― Porto Alegre ;
@@ -171,6 +181,8 @@ Paris ― Recife ;
 Paris ― Rio de Janeiro
 
 Paris ― Salvador de Bahia ;
+
+Paris - São Luis ;
 
 Paris ― São Paulo ;
 
@@ -256,9 +268,19 @@ Paris ― Harbin ;
 
 Paris ― Hefei ;
 
+Paris - Huaian ;
+
 Paris ― Jinan ;
 
 Paris ― Kunming ;
+
+Paris - Lanzhou ;
+
+Paris - Lianyungang ;
+
+Paris - Linyi ;
+
+Paris - Luoyang ;
 
 Paris ― Nanchang ;
 
@@ -286,13 +308,21 @@ Paris - Taïpei
 
 Paris ― Taiyuan ;
 
+Paris - Taiyang ;
+
+Paris - Urumqi ;
+
 Paris ― Wenzhou ;
 
 Paris ― Wuhan ;
 
+Paris - Wuxi ;
+
 Paris ― Xi'an ;
 
 Paris ― Xiamen ;
+
+Paris - Xining ;
 
 Paris ― Yanji ;
 
@@ -303,6 +333,8 @@ Paris ― Yinchuan ;
 Paris ― Yiwu ;
 
 Paris ― Zhengzhou ;
+
+Paris - Zhuhai ;
 
 Colombie :
 
@@ -394,6 +426,8 @@ Paris ― Detroit (Michigan) ;
 
 Paris ― Fort Lauderdale (Floride) ;
 
+Paris - Guam (Guam) ;
+
 Paris ― Houston (Texas) ;
 
 Paris ― Las Vegas (Nevada) ;
@@ -419,6 +453,8 @@ Paris ― Phoenix (Arizona) ;
 Paris ― Pittsburgh (Pennsylvanie) ;
 
 Paris ― Raleigh Durham (Caroline du Nord) ;
+
+Paris - Saipan (îles Mariannes du Nord) ;
 
 Paris ― Saint-Louis (Missouri) ;
 
@@ -547,6 +583,8 @@ Paris ― Okinawa ;
 Paris ― Osaka ;
 
 Paris ― Sapporo ;
+
+Paris - Sendai ;
 
 Paris ― Tokyo ;
 
@@ -687,6 +725,10 @@ Paris ― Veracruz ;
 Paris ― Villahermosa ;
 
 Paris ― Zihuatanejo ;
+
+Mongolie :
+
+Paris - Oulan-Bator ;
 
 Namibie :
 
@@ -888,11 +930,17 @@ Marseille ― Tunis ;
 
 Nice ― Tunis ;
 
+Paris - Djerba ;
+
 Paris ― Tunis ;
 
 Toulouse ― Tunis ;
 
 Turquie :
+
+Paris - Antalya ;
+
+Paris - Ankara ;
 
 Paris ― Istanbul ;
 

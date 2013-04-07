@@ -177,3 +177,25 @@ Lyon-Biskra (Algérie) ;
 Metz-Alger (Algérie) ;
 
 Nice-Constantine (Algérie).
+
+Jusqu'au 31 mars 2018
+
+Paris-Alger (Algérie) ;
+
+Paris-Annaba (Algérie) ;
+
+Paris-Bejaia (Algérie) ;
+
+Paris-Constantine (Algérie) ;
+
+Paris-Oran (Algérie) ;
+
+Paris-Tlemcen (Algérie) ;
+
+Lyon-Alger (Algérie) ;
+
+Lyon-Constantine (Algérie) ;
+
+Lille-Alger (Algérie) ;
+
+Mulhouse-Sétif (Algérie).
