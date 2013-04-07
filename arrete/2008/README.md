@@ -303,7 +303,6 @@
 - [Arrêté du 10 avril 2008 (DEVS0807488A)](arrete-du-10-avril-2008-devs0807488a)
 - [Arrêté du 10 avril 2008 (ESRH0806607A)](arrete-du-10-avril-2008-esrh0806607a)
 - [Arrêté du 10 avril 2008 (MENH0804096A)](arrete-du-10-avril-2008-menh0804096a)
-- [Arrêté du 10 avril 2008 (MENH0807983A)](arrete-du-10-avril-2008-menh0807983a)
 - [Arrêté du 10 décembre 2008 (AGRG0829420A)](arrete-du-10-decembre-2008-agrg0829420a)
 - [Arrêté du 10 décembre 2008 (AGRP0826934A)](arrete-du-10-decembre-2008-agrp0826934a)
 - [Arrêté du 10 décembre 2008 (BCFS0829671A)](arrete-du-10-decembre-2008-bcfs0829671a)
