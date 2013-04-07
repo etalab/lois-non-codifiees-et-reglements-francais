@@ -980,7 +980,6 @@
 - [Arrêté du 13 mars 2009 (ECED0905542A)](arrete-du-13-mars-2009-eced0905542a)
 - [Arrêté du 13 mars 2009 (ECES0905746A)](arrete-du-13-mars-2009-eces0905746a)
 - [Arrêté du 13 mars 2009 (PRMX0904856A)](arrete-du-13-mars-2009-prmx0904856a)
-- [Arrêté du 13 mars 2009 (SASH0904823A)](arrete-du-13-mars-2009-sash0904823a)
 - [Arrêté du 13 novembre 2009 (AGRE0927155A)](arrete-du-13-novembre-2009-agre0927155a)
 - [Arrêté du 13 novembre 2009 (AGRE0927163A)](arrete-du-13-novembre-2009-agre0927163a)
 - [Arrêté du 13 novembre 2009 (AGRE0927173A)](arrete-du-13-novembre-2009-agre0927173a)
