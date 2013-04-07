@@ -1578,7 +1578,6 @@
 - [Arrêté du 18 avril 2012 (PRMX1210071A)](arrete-du-18-avril-2012-prmx1210071a)
 - [Arrêté du 18 décembre 2012 (AFSA1240609A)](arrete-du-18-decembre-2012-afsa1240609a)
 - [Arrêté du 18 décembre 2012 (AGRS1240537A)](arrete-du-18-decembre-2012-agrs1240537a)
-- [Arrêté du 18 décembre 2012 (AGRT1242470A)](arrete-du-18-decembre-2012-agrt1242470a)
 - [Arrêté du 18 décembre 2012 (BUDW1237313A)](arrete-du-18-decembre-2012-budw1237313a)
 - [Arrêté du 18 décembre 2012 (DEVL1240631A)](arrete-du-18-decembre-2012-devl1240631a)
 - [Arrêté du 18 décembre 2012 (EFIC1238435A)](arrete-du-18-decembre-2012-efic1238435a)
