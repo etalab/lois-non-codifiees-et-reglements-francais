@@ -1,0 +1,5 @@
+# Décret n° 2013-292 du 5 avril 2013 relatif au régime de droit public applicable aux personnels des groupements d'intérêt public
+
+- [TITRE Ier : DU RECRUTEMENT ET DES CONDITIONS D'EMPLOI  DES PERSONNELS DES GROUPEMENTS D'INTÉRÊT PUBLIC](titre-ier)
+- [TITRE II : DU DIALOGUE SOCIAL ET DES CONDITIONS DE TRAVAIL  DES PERSONNELS DES GROUPEMENTS D'INTÉRÊT PUBLIC](titre-ii)
+- [TITRE III : DISPOSITIONS TRANSITOIRES ET FINALES](titre-iii)

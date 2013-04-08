@@ -1,0 +1,5 @@
+# Article 33
+
+I. ― Le groupement d'intérêt public transmet sans délai à l'administration la décision de son assemblée générale ou à défaut son conseil d'administration prise en application du premier alinéa du I de l'article 110 de la loi du 17 mai 2011 susvisée.
+
+II. ― Lorsque la convention constitutive d'un groupement d'intérêt public est, en application de l'article 1er du décret du 26 janvier 2012 susvisé, soumise à l'approbation de l'Etat antérieurement à la publication du présent décret puis approuvée ultérieurement à cette publication, la modification de cette convention prise pour l'application du II de l'article 110 de la loi du 17 mai 2011 susvisée est, par dérogation aux dispositions de l'article 2 du décret du 26 janvier 2012 susvisé, réputée approuvée à compter de la transmission à l'administration, dans le délai de trois mois suivant l'approbation de la convention constitutive, de la décision de l'assemblée générale ou à défaut du conseil d'administration de ce groupement procédant à cette modification.

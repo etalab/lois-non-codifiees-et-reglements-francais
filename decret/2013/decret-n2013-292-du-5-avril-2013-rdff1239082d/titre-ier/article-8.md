@@ -1,0 +1,5 @@
+# Article 8
+
+Sans préjudice de la reprise des services antérieurement accomplis en application des dispositions de l'article 111 de la loi du 17 mai 2011 susvisée, pour les agents mentionnés au II de l'article 1er dans le cadre de la détermination de la durée de service requise pour l'ouverture des droits aux congés tels que les congés annuels, congés pour formation syndicale, pour formation des cadres et d'animateurs pour la jeunesse, congés pour formation professionnelle, congés pour représentation, congés pour raison de santé, de maternité, de paternité, d'adoption, ou d'accident du travail ou de maladie professionnelle ou encore pour congés non rémunérés pour raisons familiales ou personnelles, l'ancienneté est calculée compte tenu des services accomplis auprès du groupement ou des personnes publiques ou privées qui en sont membres, y compris ceux effectués avant une interruption de fonctions, sous réserve que la durée de celle-ci n'ait pas été supérieure à quatre mois.
+
+Les services accomplis avant un licenciement à titre de sanction disciplinaire ne sont pas pris en compte quelle qu'ait été la durée de l'éloignement du service.
