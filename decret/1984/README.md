@@ -165,7 +165,6 @@
 - [Décret n°84-868 du 26 septembre 1984](decret-n84-868-du-26-septembre-1984)
 - [Décret n°84-965 du 26 octobre 1984](decret-n84-965-du-26-octobre-1984)
 - [Décret n°84-968 du 26 octobre 1984](decret-n84-968-du-26-octobre-1984)
-- [Décret n°84-969 du 26 octobre 1984](decret-n84-969-du-26-octobre-1984)
 - [Décret n°84-972 du 26 octobre 1984](decret-n84-972-du-26-octobre-1984)
 - [Décret n°84-1181 du 27 décembre 1984](decret-n84-1181-du-27-decembre-1984)
 - [Décret n°84-1185 du 27 décembre 1984](decret-n84-1185-du-27-decembre-1984)
