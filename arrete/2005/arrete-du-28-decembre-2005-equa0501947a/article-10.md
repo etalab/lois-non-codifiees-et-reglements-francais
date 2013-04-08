@@ -9,71 +9,68 @@ A. - Délivrance de la licence et des qualifications initiales :
 <table>
 <tbody>
 <tr>
-<td width="548">
-<p align="center">TITRE</p>
+<th>
+<br/>TITRE <br/>
+</th>
+<th>
+<br/>TARIF <p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Personnel navigant technique professionnel - pilote de ligne <br/>
 </td>
-<td width="151">
-<p align="center">TARIF<br/>(en euros)</p>
+<td align="center">
+<br/>425 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Personnel navigant technique professionnel - pilote de ligne</p>
+<td align="center">
+<br/>Personnel navigant technique professionnel - pilote en équipage multiple <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">425</p>
-</td>
-</tr>
-<tr>
-<td>Personnel navigant technique professionnel - pilote en équipage multiple</td>
-<td>
-<p align="center">340</p>
+<td align="center">
+<br/>340 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Personnel navigant technique professionnel - mécanicien navigant</p>
+<td align="center">
+<br/>Personnel navigant technique professionnel - mécanicien navigant <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">340</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Personnel navigant technique professionnel - pilote professionnel</p>
-</td>
-<td valign="top" width="151">
-<p align="center">225</p>
+<td align="center">
+<br/>340 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Autre personnel navigant technique professionnel</p>
+<td align="center">
+<br/>Personnel navigant technique professionnel - pilote professionnel <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td>Pilote non professionnel </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>225 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Certificat de formation à la sécurité délivré en application des articles 8 à 11 de l'arrêté du 25 septembre 2007 </p>
+<td align="center">
+<br/>Autre personnel navigant technique professionnel <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">65</p>
+<td align="center">
+<br/>110 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Duplicata</p>
+<td align="center">
+<br/>Pilote non professionnel <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">50</p>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Certificat de membre d'équipage de cabine <br/>
+</td>
+<td align="center">
+<br/>65 <br/>
 </td>
 </tr>
 </tbody>
@@ -84,67 +81,60 @@ B. - Délivrance de qualifications additionnelles :
 <table>
 <tbody>
 <tr>
-<td width="548">
-<p align="center">QUALIFICATIONS</p>
+<th>
+<br/>QUALIFICATIONS <br/>
+</th>
+<th>
+<br/>TARIF <p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Qualification de classe MEP ou qualification monomoteur à turbopropulseur <br/>
 </td>
-<td width="151">
-<p align="center">TARIF<br/>(en euros)</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Qualification de classe MEP ou qualification monomoteur à turbopropulseur</p>
+<td align="center">
+<br/>Qualification de type autre que monomoteur à pistons hélicoptère <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Qualification de type autre que monomoteur à pistons hélicoptère</p>
-</td>
-<td valign="top" width="151">
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Qualification de vol aux instruments</p>
+<td align="center">
+<br/>Qualification de vol aux instruments <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Qualification d'instructeur </p>
-</td>
-<td valign="top" width="151">
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>Qualification de classe MEP, qualification monomoteur à turbopropulseur et qualification de type passée dans un Etat étranger</td>
-<td>
-<p align="center">170</p>
+<td align="center">
+<br/>Qualification d'instructeur <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>Décision d'aptitude à la pratique de la voltige élémentaire ou autorisation équivalente</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>Autorisation d'examinateur <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>Première qualification montagne</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>Toute qualification autre que qualification de classe, de type et de vol aux instruments ou d'instructeur <br/>
 </td>
-</tr>
-<tr>
-<td>Qualification de saut en parachute biplace</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 </tbody>
@@ -155,77 +145,100 @@ C. - Délivrance d'autres actes :
 <table>
 <tbody>
 <tr>
-<td width="453">
-<p align="center">ACTES</p>
+<th>
+<br/>ACTES <br/>
+</th>
+<th>
+<br/>TARIF <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Autorisation ou qualification d'instructeur sur entraîneur synthétique de vol ou d'instructeur à la formation au travail en équipage <br/>
 </td>
-<td width="246">
-<p align="center">TARIF<br/>(en euros)</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="453">
-<p>Autorisation d'instructeur sur entraîneur synthétique de vol ou d'instructeur à la formation au travail en équipage</p>
+<td align="center">
+<br/>Carte de stagiaire <br/>
 </td>
-<td valign="top" width="246">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>Carte de stagiaire</p>
-</td>
-<td valign="top" width="246">
-<p align="center">21</p>
+<td align="center">
+<br/>21 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="453">
-<p>Décision de validation d'une licence étrangère de personnel navigant non professionnel ou d'une licence étrangère de personnel navigant professionnel pour l'exercice des privilèges de pilote non professionnel</p>
+<td align="center">
+<br/>Décision de validation d'une licence de personnel navigant non professionnel ou d'une licence de personnel navigant professionnel pour l'exercice des privilèges de pilote non professionnel <br/>
 </td>
-<td valign="top" width="246">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>Décision de validation d'une licence étrangère de personnel navigant professionnel</p>
-</td>
-<td valign="top" width="246">
-<p align="center">170</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="453">
-<p>Instruction d'une demande de dérogation présentée au groupe d'experts du conseil du personnel navigant</p>
+<td align="center">
+<br/>Décision de validation d'une licence de personnel navigant professionnel <br/>
 </td>
-<td valign="top" width="246">
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>Contrôle effectué par un inspecteur de l'Autorité, associé à une dérogation ou à une validation</p>
-</td>
-<td valign="top" width="246">
-<p align="left">Le tarif est déterminé en fonction de la nature et des conditions du contrôle en vol plafonné à 940</p>
+<td align="center">
+<br/>170 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="453">Décision de renouvellement de qualification de classe, de type ou de vol aux instruments, autre que monomoteur à piston hélicoptère, ne nécessitant pas de programme de réentraînement</td>
-<td valign="top" width="246">
-<p align="center">62</p>
+<td align="center">
+<br/>Instruction d'une demande de dérogation présentée au groupe d'experts <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
 </td>
 </tr>
 <tr>
-<td>Autorisation spéciale délivrée en application des paragraphes FCL 1.230 et 2.230 des annexes aux arrêtés du 29 mars 1999 (FCL 1) et du 12 juillet 2005 (FCL 2) </td>
-<td>
-<p align="center">170</p>
+<td align="center">
+<br/>Contrôle effectué par un examinateur de l'autorité <br/>
+</td>
+<td align="center">
+<br/>Le tarif est déterminé en fonction de la nature et des conditions de contrôle, en vol plafonné à 940. <br/>
 </td>
 </tr>
 <tr>
-<td>Autorisation spéciale délivrée en application des paragraphes FCL 1.300 (a 2) et 2.300 (a 2) des annexes aux arrêtés du 29 mars 1999 (FCL 1) et du 12 juillet 2005 (FCL 2) </td>
-<td>
-<p align="center">170</p>
+<td align="center">
+<br/>Décision de renouvellement de qualification de classe, de type ou de vol aux instruments, autre que monomoteur à piston hélicoptère, ne nécessitant pas de programme de réentraînement <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Autorisation spéciale valant qualification de classe ou de type <br/>
+</td>
+<td align="center">
+<br/>170 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Autorisation spéciale valant qualification spécifique d'instructeur <br/>
+</td>
+<td align="center">
+<br/>170 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Décision de reconnaissance ou de validation d'un privilège national <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Actes liés à l'échange de licences de personnel navigant professionnel ou non professionnel, délivrées par les Etats membres de l'Union européenne ou la Suisse <br/>
+</td>
+<td align="center">
+<br/>80<br/>
 </td>
 </tr>
 </tbody>

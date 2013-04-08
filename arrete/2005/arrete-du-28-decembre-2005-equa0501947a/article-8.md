@@ -406,18 +406,6 @@ où
 </tr>
 <tr>
 <td valign="top" width="60">
-<p align="center">30</p>
-</td>
-<td valign="top" width="348">
-<p>Cours de renouvellement d'une qualification de type d'avion</p>
-</td>
-<td valign="top" width="116">
-<p align="center">0,1</p>
-</td>
-<td valign="top" width="175"/>
-</tr>
-<tr>
-<td valign="top" width="60">
 <p align="center">31</p>
 </td>
 <td valign="top" width="348">
@@ -695,34 +683,6 @@ où
 </td>
 <td valign="top" width="116">
 <p align="center">0,15</p>
-</td>
-<td valign="top" width="175">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="60">
-<p align="center">53</p>
-</td>
-<td valign="top" width="348">
-<p>Cours de formation aux connaissances JAR/OPS 3-JAR/FCL 2 et 3</p>
-</td>
-<td valign="top" width="116">
-<p align="center">0,05</p>
-</td>
-<td valign="top" width="175">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="60">
-<p align="center">54</p>
-</td>
-<td valign="top" width="348">
-<p>Cours de formation aux connaissances JAR/OPS 1-JAR/FCL 4 et 3</p>
-</td>
-<td valign="top" width="116">
-<p align="center">0,05</p>
 </td>
 <td valign="top" width="175">
 <br/>

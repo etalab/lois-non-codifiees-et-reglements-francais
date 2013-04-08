@@ -7,153 +7,159 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <table>
 <tbody>
 <tr>
-<td width="387">
-<p align="center">EXAMEN THÉORIQUE</p>
+<th>
+<br/>EXAMEN THÉORIQUE <br/>
+</th>
+<th>
+<br/>TARIF PAR ÉPREUVE <p>isolée </p>
+<p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>FORFAIT <p>pour l'examen </p>
+<p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilote de ligne <br/>
 </td>
-<td width="137">
-<p align="center">TARIF<br/>par preuve isolée<br/>(en euros)</p>
+<td align="center">
+<br/>75 <br/>
 </td>
-<td width="138">
-<p align="center">FORFAIT<br/>pour l'examen<br/>(en euros)</p>
+<td align="center">
+<br/>970 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Pilote de ligne</p>
+<td align="center">
+<br/>Pilote professionnel <br/>
 </td>
-<td width="137">
-<p align="center">75</p>
+<td align="center">
+<br/>60 <br/>
 </td>
-<td width="138">
-<p align="center">970</p>
-</td>
-</tr>
-<tr>
-<td width="387">
-<p>Pilote professionnel</p>
-</td>
-<td width="137">
-<p align="center">60</p>
-</td>
-<td width="138">
-<p align="center">350</p>
+<td align="center">
+<br/>350 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Qualification de vol aux instruments</p>
+<td align="center">
+<br/>Qualification de vol aux instruments <br/>
 </td>
-<td width="137">
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
-<td width="138">
-<p align="center">300</p>
+<td align="center">
+<br/>300 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Certificat de formation à la sécurité</p>
+<td align="center">
+<br/>Membre d'équipage de cabine <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">70</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Examen d'aptitude à la langue anglaise (FCL 1.200/FCL 2.200)</p>
+<td align="center">
+<br/>Examen d'aptitude à la langue anglaise pour les titulaires de la qualification de vol aux instruments <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">100</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Contrôle du niveau de compétence linguistique IFR</p>
+<td align="center">
+<br/>Contrôle du niveau de compétence IFR <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">100</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Contrôle du niveau de compétence linguistique VFR</p>
+<td align="center">
+<br/>Contrôle du niveau de compétence linguistique VFR <br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td>
-<p align="center">75</p>
+<td align="center">
+<br/>75 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Parachutiste professionnel</p>
+<td align="center">
+<br/>Parachutiste professionnel <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">65</p>
+<td align="center">
+<br/>65 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Photographe navigant professionnel</p>
+<td align="center">
+<br/>Photographe navigant professionnel <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">65</p>
+<td align="center">
+<br/>65 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Préévaluation d'instructeur de vol avion (FI [A])</p>
+<td align="center">
+<br/>Pilote non professionnel selon les règles dites FCL <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Pilote non professionnel selon les règles dites "FCL" </p>
+<td align="center">
+<br/>Pilote non professionnel selon les règles autres que celles dites FCL <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">60</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td width="387">
-<p>Pilote non professionnel selon les règles autres que celles dites "FCL" </p>
+<td align="center">
+<br/>Evaluation théorique d'instructeur de pilote ULM <br/>
 </td>
-<td width="137">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="138">
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td>Evaluation théorique d'instructeur de pilote d'ULM </td>
-<td/>
-<td>
-<p align="center">30</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 </tbody>
@@ -164,75 +170,76 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <table>
 <tbody>
 <tr>
-<td width="548">
-<p align="center">ÉPREUVE PRATIQUE</p>
+<th>
+<br/>ÉPREUVE PRATIQUE <br/>
+</th>
+<th>
+<br/>TARIF <br/>
+<br/>par inscription (en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilote de ligne <br/>
 </td>
-<td width="151">
-<p align="center">TARIF<br/>par inscription<br/>(en euros)</p>
+<td align="center">
+<br/>640 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Pilote de ligne</p>
+<td align="center">
+<br/>Pilote en équipage multiple <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">940</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Pilote en équipage multiple</p>
-</td>
-<td valign="top" width="151">
-<p align="center">940</p>
+<td align="center">
+<br/>640 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Mécanicien navigant</p>
+<td align="center">
+<br/>Mécanicien navigant <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">630</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Pilote professionnel </p>
-</td>
-<td valign="top" width="151">
-<p align="center">470</p>
+<td align="center">
+<br/>630 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Qualification de vol aux instruments</p>
+<td align="center">
+<br/>Pilote professionnel <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">470</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Certificat de formation à la sécurité</p>
-</td>
-<td valign="top" width="151">
-<p align="center">280</p>
+<td align="center">
+<br/>270 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Parachutiste professionnel</p>
+<td align="center">
+<br/>Qualification de vol aux instruments <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">240</p>
+<td align="center">
+<br/>270 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="548">
-<p>Photographe navigant professionnel</p>
+<td align="center">
+<br/>Membre d'équipage de cabine <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">240</p>
+<td align="center">
+<br/>280 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Parachutiste professionnel <br/>
+</td>
+<td align="center">
+<br/>240 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Photographe navigant professionnel <br/>
+</td>
+<td align="center">
+<br/>240<br/>
 </td>
 </tr>
 </tbody>
