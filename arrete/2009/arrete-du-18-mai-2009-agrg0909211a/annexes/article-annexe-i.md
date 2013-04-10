@@ -5,12 +5,12 @@ POSTES D'INSPECTION FRONTALIERS
 <table>
 <tbody>
 <tr>
-<td align="center"> NOM </td>
-<td align="center"> CODE TRACES </td>
-<td align="center"> TYPE </td>
-<td align="center"> CENTRE D'INSPECTION </td>
-<td align="center"> PRODUITS </td>
-<td align="center"> ANIMAUX VIVANTS </td>
+<td align="center">NOM </td>
+<td align="center">CODE TRACES </td>
+<td align="center">TYPE </td>
+<td align="center">CENTRE D'INSPECTION </td>
+<td align="center">PRODUITS </td>
+<td align="center">ANIMAUX VIVANTS </td>
 </tr>
 <tr>
 <td align="center">
@@ -307,7 +307,7 @@ POSTES D'INSPECTION FRONTALIERS
 <br/>
 </td>
 <td align="center">
-<p align="left">HC-T (1) (2), HC-NT <br/>
+<p align="left">HC-T (CH) (1) (2), HC-NT <br/>
 </p>
 </td>
 <td align="center">
@@ -504,7 +504,7 @@ POSTES D'INSPECTION FRONTALIERS
 <p align="left">HC-T (1) (2), HC-NT (2), NHC (2) <br/>
 </p>
 </td>
-<td align="center">O <br/>
+<td align="center">O (d)<br/>
 </td>
 </tr>
 <tr>
@@ -546,6 +546,7 @@ POSTES D'INSPECTION FRONTALIERS
 <p align="left">(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
 <p align="left">b) Cette autorisation est valable jusqu'au 1er septembre 2013. </p>
 <p align="left">c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
+<p align="left">d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.</p>
 <p align="left">(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
 </p>
 </td>

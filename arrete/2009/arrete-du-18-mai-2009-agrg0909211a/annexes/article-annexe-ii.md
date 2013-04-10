@@ -5,8 +5,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center"> NOM</td>
-<td align="center" colspan="5"> TYPE</td>
+<td align="center">NOM</td>
+<td align="center" colspan="5">TYPE</td>
 </tr>
 <tr>
 <td align="left">Baie-Mahault<br/>
@@ -39,6 +39,10 @@
 </td>
 </tr>
 <tr>
+<td>Fos-sur-Mer</td>
+<td align="center">Port</td>
+</tr>
+<tr>
 <td align="left">Fort-de-France <br/>
 </td>
 <td align="center">Port<br/>
@@ -69,9 +73,11 @@
 </td>
 </tr>
 <tr>
-<td align="left">Fos-sur-Mer<br/>
+<td>
+<p align="left">Marseille</p>
 </td>
-<td align="center">Port<br/>
+<td>
+<p align="center"> Port</p>
 </td>
 </tr>
 <tr>
