@@ -278,7 +278,6 @@
 - [Décret n°2012-343 du 9 mars 2012 (IOCD1129840D)](decret-n2012-343-du-9-mars-2012-iocd1129840d)
 - [Décret n°2012-796 du 9 juin 2012 (BUDX1224471D)](decret-n2012-796-du-9-juin-2012-budx1224471d)
 - [Décret n°2012-797 du 9 juin 2012 (REDX1224458D)](decret-n2012-797-du-9-juin-2012-redx1224458d)
-- [Décret n°2012-798 du 9 juin 2012 (EURX1224507D)](decret-n2012-798-du-9-juin-2012-eurx1224507d)
 - [Décret n°2012-799 du 9 juin 2012 (PADX1224700D)](decret-n2012-799-du-9-juin-2012-padx1224700d)
 - [Décret n°2012-800 du 9 juin 2012 (ACTX1224702D)](decret-n2012-800-du-9-juin-2012-actx1224702d)
 - [Décret n°2012-801 du 9 juin 2012 (FAMX1224686D)](decret-n2012-801-du-9-juin-2012-famx1224686d)
