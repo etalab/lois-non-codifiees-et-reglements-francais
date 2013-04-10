@@ -6,19 +6,23 @@ Pour certaines activités, les dispositions des articles 27 et 29 sont modifiée
 
 Si le flux horaire est supérieur à 25 kg/h, la valeur limite de concentration est de 500 mg/m3.
 
-2° Fabrication du dioxyde de titane : les dispositions du 1° de l'article 27 sont remplacées par les dispositions suivantes :
+2° Fabrication du dioxyde de titane :
 
-La valeur limite de concentration pour les rejets de poussières est de 50 mg/m3 pour les sources principales et de 150 mg/m3 pour les autres sources (sources diffuses).
+Les dispositions du 1° de l'article 27 sont remplacées par les dispositions suivantes :
+
+La valeur limite de concentration pour les rejets de poussières est de 50 mg/ Nm ³ en moyenne horaire pour les sources principales et de 150 mg/ Nm ³ en moyenne horaire pour les autres sources.
 
 Les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes :
 
-La valeur limite pour les rejets d'oxydes de soufre est de :
+La valeur limite pour les rejets d'oxydes de soufre est pour les unités de digestion et de calcination de 6 kg d'équivalent SO2 par tonne de dioxyde de titane produite (en moyenne annuelle) et 500 mg/ Nm ³ d'équivalent SO2 pour les unités de concentration de déchets acides (moyenne horaire).
 
-10 kg d'équivalent SO2 par tonne de dioxyde de titane produite pour les unités de digestion et de calcination ;
+Des dispositifs permettant d'éviter les émissions de vésicules acides sont installés et les installations de calcination des sels produits par le traitement des déchets sont équipées selon la meilleure technologie disponible en vue de réduire les émissions d'oxydes de soufre.
 
-et 500 mg/m3 d'équivalent SO2 pour les unités de concentration de déchets acides.
+Les dispositions du 5° de l'article 27 sont remplacées par les dispositions suivantes :
 
-De plus, des dispositifs permettant de supprimer l'émission de vésicules acides sont installés et les installations de grillage des sels produits par le traitement des déchets sont équipées selon la meilleure technologie disponible en vue de réduire les émissions d'oxydes de soufre.
+Les valeurs limites de concentration pour les rejets de chlorure, dans le cas des unités utilisant le procédé au chlore sont de 5 mg/ Nm ³ en moyenne journalière et de 40 mg/ Nm ³ à tout instant.
+
+Des dispositifs permettant d'éviter les émissions de vésicules acides sont installés.
 
 3° Plates-formes de raffinage de pétrole.
 

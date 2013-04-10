@@ -72,11 +72,15 @@ f) Dérogation aux valeurs limites d'émissions :
 
 Pour les installations visées aux 19° à 36° de l'article 30, des dérogations peuvent être accordées aux valeurs limites d'émissions diffuses de COV, si l'exploitant démontre le caractère acceptable des risques pour la santé humaine ou l'environnement et qu'il fait appel aux meilleures techniques disponibles.
 
+g) Opérations de démarrage et d'arrêt :
+
+L'exploitant prend toutes les dispositions nécessaires pour réduire les émissions de composés organiques volatils lors des opérations de démarrage et d'arrêt.
+
 (1) Une dérogation à cette valeur pourra être accordée si les effluents à traiter contiennent des composés azotés (amines, amides ...).
 
 (2) Des guides techniques seront établis par le ministère chargé de l'environnement en concertation avec les professions concernées pour aider à la mise en place de tel schéma.
 
-8o Métaux et composés de métaux (gazeux et particulaires) :
+8° Métaux et composés de métaux (gazeux et particulaires) :
 
 a) Rejets de cadmium, mercure et thallium, et de leurs composés : si le flux horaire total de cadmium, mercure et thallium, et de leurs composés dépasse 1 g/h, la valeur limite de concentration est de 0,05 mg/m3 par métal et de 0,1 mg/m3 pour la somme des métaux (exprimés en Cd + Hg + Tl) ;
 

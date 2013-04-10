@@ -12,21 +12,23 @@ Indice phénols : 0,1 mg/l et 0,15 g/t de coke produite.
 
 HAP (hydrocarbures aromatiques polycycliques) : 0,1 mg/l et 0,03 g/t de coke produite.
 
-2° Fabrication du dioxyde de titane : pour les installations utilisant le procédé au sulfate, les déchets faiblement acides et les déchets neutralisés sont réduits, dans toutes les eaux, à une valeur n'excédant pas 800 kg de sulfate total par tonne de dioxyde de titane produite (c'est-à-dire équivalant aux ions SO4-- contenus dans l'acide sulfurique libre et dans les sulfates métalliques).
+2° Fabrication de dioxyde de titane :
 
-Pour les installations utilisant le procédé au chlore, les déchets faiblement acides, les déchets de traitement et les déchets neutralisés sont réduits, dans toutes les eaux, aux valeurs suivantes de chlorure total par tonne de dioxyde de titane produite (c'est-à-dire équivalant aux ions Cl- contenus dans l'acide chlorhydrique libre et dans les chlorures métalliques) :
+Pour les installations utilisant le procédé au sulfate, les émissions dans l'eau ne dépassent pas la valeur limite en moyenne annuelle de 550 kg de sulfate total (1) par tonne de dioxyde de titane produite.
 
-130 kg en cas d'utilisation de rutile naturel ;
+Pour les installations utilisant le procédé au chlore, les émissions dans l'eau ne dépassent pas les valeurs limites en moyenne annuelle de :
 
-228 kg en cas d'utilisation de rutile synthétique ;
+a) 130 kg de chlorure total (2) par tonne de dioxyde de titane produite en cas d'utilisation de rutile naturel ;
 
-450 kg en cas d'utilisation de slag.
+b) 228 kg de chlorure total (2) par tonne de dioxyde de titane produite en cas d'utilisation de rutile synthétique ;
 
-Lorsqu'une installation utilise plus d'un type de minerai, les valeurs s'appliquent en proportion des quantités de chaque minerai utilisées.
+c) 330 kg de chlorure total (2) par tonne de dioxyde de titane produite en cas d'utilisation de minerais enrichis de type " slag ". Les installations rejetant dans les eaux de mer (estuariennes, côtières, pleine mer) peuvent être soumises à une valeur limite d'émission de 450 kg de chlorure total (2) par tonne de dioxyde de titane produite en cas d'utilisation de minerais enrichis de type " slag ".
 
-Pour les installations existantes, les dispositions de l'article 31, alinéa 3, et de l'article 32 sont remplacées par les dispositions suivantes :
+Lorsqu'une installation mettant en œuvre le procédé au chlore et utilisant plus d'un type de minerai, les valeurs s'appliquent en proportion des quantités de chaque minerai utilisées.
 
-La température des effluents rejetés est inférieure à 30 °C ;
+Les dispositions de l'article 31, alinéa 3, et de l'article 32 sont remplacées par les dispositions suivantes :
+
+La température des effluents rejetés est inférieure à 30° C ;
 
 Les effluents rejetés respectent les valeurs limites de flux spécifique, exprimées en kilogramme par tonne de dioxyde de titane produite, ci-après :
 
@@ -52,11 +54,15 @@ Fer : 85 ;
 
 Manganèse : 3 ;
 
-Mercure : 30 x 10-6 ;
+Mercure : 30.10-6 ;
 
 Plomb : 0,02 ;
 
 Zinc : 0,7.
+
+_(1) C'est-à-dire équivalant aux ions SO4 ² - contenus dans l'acide sulfurique libre et dans les sulfates métalliques._
+
+_(2) C'est-à-dire équivalant aux ions Cl - contenus dans l'acide chlorhydrique libre et dans les chlorures métalliques._
 
 3° Raffineries de produits pétroliers : les raffineries sont réparties en quatre catégories suivant leur degré de complexité :
 

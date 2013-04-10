@@ -513,3 +513,13 @@ On entend par "utilisation de solvants organiques" la quantité de solvants orga
 On entend par "émission diffuse de COV" toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées.
 
 Pour le cas spécifique des COV, cette définition couvre, sauf indi­cation contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
+
+On entend par "rejets canalisés" le rejet gazeux final contenant des composés organiques volatils ou d'autres polluants et rejeté dans l'air par une cheminée ou d'autres équipements de réduction ;
+
+On entend par "émissions totales" la somme des émissions diffuses et des émissions sous forme de rejets canalisés ;
+
+On entend par "mélange" un mélange au sens de l'article 3, paragraphe 2, du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances (REACH) et instituant une Agence européenne des substances chimiques ;
+
+On entend par "solvants organiques utilisés à l'entrée" la quantité de solvants organiques, à l'état pur ou dans des mélanges, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, et qui est comptée chaque fois que les solvants sont utilisés pour l'exercice de l'activité ;
+
+On entend par "opérations de démarrage et d'arrêt" les opérations de mise en service, de mise hors service ou de mise au ralenti d'une installation, d'un équipement ou d'une cuve à l'exception des phases d'activité fluctuante survenant dans les conditions normales de fonctionnement.
