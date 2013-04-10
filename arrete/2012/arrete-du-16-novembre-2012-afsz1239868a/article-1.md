@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article 14 du décret n° 2011-1217 du 29 septembre 2011 susvisé et en complément de la liste fixée en annexe III de l'arrêté du 1er septembre 2012, la liste des nouveaux établissements de santé expérimentateurs concernés par un démarrage de l'expérimentation de facturation individuelle des prestations de soins hospitaliers aux caisses d'assurance maladie le 1er novembre 2012 ainsi que le périmètre de cette expérimentation sont fixés en annexe au présent arrêté.
+En application de l'article 11 du décret n° 2011-1217 du 29 septembre 2011 susvisé et en complément de la liste fixée en annexe III de l'arrêté du 1er septembre 2012, la liste des nouveaux établissements de santé expérimentateurs concernés par un démarrage de l'expérimentation de facturation individuelle des prestations de soins hospitaliers aux caisses d'assurance maladie le 1er novembre 2012 ainsi que le périmètre de cette expérimentation sont fixés en annexe au présent arrêté.
 
 Dès lors que la date des soins est postérieure au 31 octobre 2012, les données d'activité mentionnées au g de l'article 3 de l'arrêté du 23 janvier 2008 relatif aux modalités de versement des ressources des établissements publics de santé et des établissements mentionnés aux a, b et c de l'article L. 162-22-6 du code de la sécurité sociale par les caisses d'assurance maladie mentionnées à l'article R. 174-1 du code de la sécurité sociale ne sont plus valorisées.
 
