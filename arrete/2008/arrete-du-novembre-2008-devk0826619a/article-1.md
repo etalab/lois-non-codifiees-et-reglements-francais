@@ -72,4 +72,8 @@ Les opérations de restructuration de service listées ci-après ouvrent droit a
 
 34° Le rattachement des missions de police de la navigation et des missions d'instruction des titres de sécurité des bateaux et de conduite exercées par les services de navigation aux directions départementales des territoires concernées ainsi qu'à la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France ;
 
-35° La transformation des ports de Fort-de-France, Dégrad-des-Cannes, Port-Réunion et Pointe-à-Pitre en grands ports maritimes.
+35° La transformation des ports de Fort-de-France, Dégrad-des-Cannes, Port-Réunion et Pointe-à-Pitre en grands ports maritimes ;
+
+36° Le regroupement des laboratoires d'hydrobiologie des directions régionales de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais et de Basse-Normandie avec ceux des directions régionales de l'environnement, de l'aménagement et du logement de Picardie et de Haute-Normandie ;
+
+37° Le transfert de la direction des pêches maritimes et de l'aquaculture au ministère de l'écologie, du développement durable et de l'énergie.
