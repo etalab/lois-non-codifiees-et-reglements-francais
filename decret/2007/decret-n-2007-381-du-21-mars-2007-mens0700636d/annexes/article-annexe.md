@@ -1,8 +1,8 @@
 # Article Annexe
 
-STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION SCIENTIFIQUE
+STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION
 
-UNIVERSITÉ EUROPÉENNE DE BRETAGNE
+SCIENTIFIQUE "UNIVERSITÉ EUROPÉENNE DE BRETAGNE"
 
 Chapitre Ier
 
@@ -10,7 +10,9 @@ Dispositions générales
 
 Article 1er
 
-L'Université européenne de Bretagne est un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+L'Université européenne de Bretagne est un établissement public de coopération scientifique régi par les
+articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche
+et par les présents statuts.
 
 Article 2
 
@@ -26,23 +28,23 @@ Article 4
 
 Au moment de sa création, l'établissement comprend les membres fondateurs suivants :
 
-― université de Brest ;
+- université de Brest ;
 
-― université de Bretagne-Sud ;
+- université de Bretagne-Sud ;
 
-― université Rennes-I ;
+- université Rennes-I ;
 
-― université Rennes-II ;
+- université Rennes-II ;
 
-― Agrocampus Ouest ;
+- Agrocampus Ouest ;
 
-― Institut national des sciences appliquées de Rennes ;
+- Institut national des sciences appliquées de Rennes ;
 
-― Institut Télécom (Télécom Bretagne) ;
+- Institut Télécom (Télécom Bretagne) ;
 
-― Ecole normale supérieure de Cachan (antenne de Bretagne) ;
+- Ecole normale supérieure de Cachan (antenne de Bretagne) ;
 
-― Ecole nationale supérieure de chimie de Rennes.
+- Ecole nationale supérieure de chimie de Rennes.
 
 Article 5
 
@@ -60,9 +62,9 @@ L'établissement a pour missions :
 
 4° La coordination des activités des écoles doctorales ; la création d'un collège doctoral international avec une gestion en commun des doctorats préparés dans les écoles doctorales des membres et délivrés au sceau de l'Université européenne de Bretagne par les établissements habilités ; le suivi de l'insertion professionnelle des docteurs ;
 
-5° Des activités d'inscription dans l'Espace européen de l'enseignement supérieur et de la recherche, dont la promotion internationale des activités de l'établissement et la contribution aux activités de la Société européenne de l'information pour la recherche et l'enseignement supérieur ;
+5° Des activités d'inscription dans l'espace européen de l'enseignement supérieur et de la recherche dont la promotion internationale des activités de l'établissement et la contribution aux activités de la société européenne de l'information pour la recherche et l'enseignement supérieur.
 
-6° Le pilotage et la mise en œuvre du projet campus prometteur de Bretagne, la mise en place et la gestion des équipements, des services et des prestations d'intérêt commun partagés entre les membres fondateurs et associés en assurant une qualité de service homogène à tous les membres, la négociation, la conclusion et le suivi, pour les volets immobiliers et numériques, de contrat, notamment de partenariat public-privé.
+6° Le pilotage et la mise en œuvre du projet campus prometteur de Bretagne, la mise en place et la gestion des équipements, des services et des prestations d'intérêt commun partagés entre les membres fondateurs et associés en assurant une qualité de service homogène à tous les membres, la négociation, la conclusion et le suivi, pour les volets immobiliers et numériques, de contrat notamment de partenariat public-privé.
 
 Plus généralement, l'établissement a vocation à assurer la mise en œuvre de projets communs à tout ou partie de ses membres dans les domaines entrant dans leurs missions.
 
@@ -86,7 +88,7 @@ Article 9
 
 Le président est élu par le conseil d'administration en son sein, pour un mandat de trois ans renouvelable une fois, dans les conditions fixées au septième alinéa de l'article 16 ci-dessous.
 
-Le président est assisté de vice-présidents qui sont élus sur proposition du président par le conseil d'administration. Le mandat des vice-présidents est de trois ans renouvelable une fois.
+Le président est assisté de vice-présidents qui sont élus sur proposition du président par le conseil d'administration. Le mandat des vice-présidents est de trois ans renouvelable.
 
 Le mandat des vice-présidents prend fin avec celui du président.
 
@@ -128,7 +130,7 @@ Article 11
 
 Le conseil d'administration comprend :
 
-1° Au minimum dix-neuf sièges au titre des membres fondateurs, dont six représentants de l'université Rennes-I, trois représentants de l'université de Bretagne occidentale, trois représentants de l'université Rennes-II, deux représentants de l'université de Bretagne-Sud, un représentant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, un représentant de l'Institut national des sciences appliquées de Rennes, un représentant de l'Institut Télécom (Télécom Bretagne), un représentant de l'Ecole normale supérieure de Cachan (antenne de Bretagne) et un représentant de l'Ecole supérieure de chimie de Rennes ;
+1° Au minimum dix-neuf sièges au titre des membres fondateurs, dont six représentants de l'université Rennes-I, trois représentants de l'université de Bretagne occidentale, trois représentants de l'université Rennes-II, deux représentants de l'université de Bretagne-Sud, un représentant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, un représentant de l'Institut national des sciences appliquées de Rennes, un représentant de l'Institut Télécom (Télécom Bretagne) et un représentant de l'Ecole normale supérieure de Cachan (antenne de Bretagne) et un représentant de l'Ecole supérieure de chimie de Rennes ;
 
 2° Une personnalité qualifiée désignée à la majorité des voix des membres fondateurs, sur proposition du président ;
 
@@ -144,13 +146,15 @@ d) Deux représentants des organismes de recherche associés ;
 
 e) Quatre représentants des établissements d'enseignement supérieur associés à l'Université européenne de Bretagne ;
 
-4° Un représentant des enseignants-chercheurs et chercheurs exerçant leurs fonctions au sein de l'Université européenne de Bretagne ;
+4° Un représentant des enseignants-chercheurs et chercheurs exerçant leurs fonctions au sein de l'université européenne de Bretagne ;
 
 5° Un représentant des autres personnels exerçant leurs fonctions au sein de l'établissement ;
 
 6° Un représentant des étudiants inscrits dans les écoles doctorales.
 
-Le règlement intérieur fixe la composition du conseil d'administration, conformément au dernier alinéa de l'article L. 344-7 du code de la recherche.
+Le règlement intérieur fixe la composition du conseil d'administration conformément au
+dernier alinéa de l'article L. 344-7 du code de la recherche
+.
 
 Le recteur d'académie, chancelier des universités, assiste ou se fait représenter au sein du conseil d'administration.
 
@@ -160,7 +164,7 @@ Les membres fondateurs désignent leurs représentants.
 
 Les membres associés mentionnés au 3° de l'article 11 ci-dessus désignent leurs représentants dans des conditions déterminées par le conseil d'administration.
 
-Le mandat des membres du conseil d'administration est fixé à trois ans. Il peut être renouvelé une fois sous réserve que l'intéressé conserve la qualité pour laquelle il a été désigné membre.
+Le mandat des membres du conseil d'administration est fixé à trois ans. Il peut être renouvelé sous réserve que l'intéressé conserve la qualité pour laquelle il a été désigné membre.
 
 Toute modification du nombre de membres fondateurs ou associés implique le renouvellement des membres du conseil.
 
@@ -170,7 +174,7 @@ Article 13
 
 Le conseil scientifique comprend des responsables scientifiques des membres fondateurs ou associés, des organismes de recherche associés et de l'établissement. Il est sollicité pour avis par le président du conseil d'administration.
 
-Le conseil d'orientation stratégique est composé de personnalités extérieures, de scientifiques, notamment européens, de personnalités du monde économique, de représentants des collectivités territoriales. Il est sollicité régulièrement pour avis par le président du conseil d'administration, notamment sur les questions de pilotage et d'évaluation de la recherche.
+Le conseil d'orientation stratégique est composé de personnalités extérieures, de scientifiques notamment européens, de personnalités du monde économique, de représentants des collectivités territoriales. Il est sollicité régulièrement pour avis par le président du conseil d'administration, notamment sur les questions de pilotage et d'évaluation de la recherche.
 
 La composition de ces conseils, leurs modalités de fonctionnement et de désignation de leurs membres sont définies dans le règlement intérieur.
 
@@ -220,15 +224,17 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 19° La prise de participation et la création de filiales.
 
-Le conseil d'administration émet, en outre, un avis sur la désignation des titulaires des fonctions de responsabilité de l'établissement dont la liste figure au règlement intérieur. Il donne également un avis sur la désignation des membres du conseil scientifique et du conseil d'orientation stratégique.
+Le conseil d'administration émet en outre un avis sur la désignation des titulaires des fonctions de responsabilité de l'établissement dont la liste figure au règlement intérieur. Il donne également un avis sur la désignation des membres du conseil scientifique et du conseil d'orientation stratégique.
 
-Dans les limites qu'il détermine, le conseil d'administration peut déléguer certaines de ses attributions au président, à l'exclusion de celles mentionnées aux 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 11°, 12°, 16°, 17°, 18° et 19° ci-dessus.
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer certaines de ses attributions au président à l'exclusion de
+celles mentionnées aux 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 11°, 12°, 16°, 17°, 18° et 19° ci-dessus
+.
 
-Le président peut, en outre, recevoir délégation pour prendre les décisions modificatives des budgets :
+Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
 
-― qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ; ou
+- qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ; ou
 
-― qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+- qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Le président rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces différentes délégations.
 
@@ -248,7 +254,9 @@ Chaque membre dispose d'une voix au conseil d'administration.
 
 Les membres du conseil d'administration peuvent donner une procuration à un autre membre du conseil. Chaque membre du conseil ne peut être porteur que d'une seule procuration.
 
-Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le
+titre III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 Les délibérations prévues aux 3°, 6° et 16° de l'article 15 ainsi que l'élection du président et des vice-présidents sont prises à la majorité des deux tiers des membres présents et représentés.
 
@@ -270,9 +278,7 @@ Article 17
 
 L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 18 (Abrogé).
-
-Article 19
+Article 18
 
 Les recettes de l'établissement comprennent notamment :
 
@@ -288,28 +294,12 @@ Les recettes de l'établissement comprennent notamment :
 
 6° De manière générale, toutes autres recettes autorisées par les lois et règlements en vigueur.
 
-Article 20
+Article 19
 
 Les dépenses de l'établissement comprennent les frais de personnel propres à l'établissement, les charges d'équipement et de fonctionnement et, de manière générale, toutes les dépenses nécessaires à l'activité de l'établissement.
 
-Article 21
+Article 20
 
-Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et régies d'avances des organismes publics.
-
-Chapitre IV
-
-Dispositions transitoires
-
-Article 22
-
-Par dérogation à l'article 9 ci-dessus, les représentants des membres fondateurs élisent un président qui prendra toutes les mesures nécessaires au fonctionnement de l'établissement jusqu'à la constitution définitive du conseil d'administration prévu à l'article 11.
-
-Article 23
-
-Par dérogation à l'article 15, le premier budget primitif de l'établissement est arrêté par les membres fondateurs, sur proposition du président élu dans les conditions prévues à l'article 22.
-
-Article 24
-
-Jusqu'à la première élection des membres mentionnés aux 4°, 5°, 6° de l'article 11, le conseil d'administration siège valablement avec les seuls membres mentionnés aux 1°, 2° et 3° de cet article et adopte dans un délai de quatre mois le règlement intérieur. En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 22 organise les élections des membres mentionnés aux 4°, 5° et 6° de l'article 11, dans un délai maximum de six mois à compter de l'adoption du règlement intérieur.
-
-Les membres élus mentionnés aux 4°, 5° et 6° de l'article 11 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres mentionnés aux 2° et 3° de ce même article.
+Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le
+décret n° 92-681 du 20 juillet 1992
+modifié relatif aux régies de recettes et régies d'avances des organismes publics.
