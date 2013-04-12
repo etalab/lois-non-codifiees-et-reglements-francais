@@ -2990,7 +2990,6 @@
 - [Arrêté du 30 septembre 2010 (IOCC1021503A)](arrete-du-30-septembre-2010-iocc1021503a)
 - [Arrêté du 30 septembre 2010 (IOCE1025488A)](arrete-du-30-septembre-2010-ioce1025488a)
 - [Arrêté du 30 septembre 2010 (MCCB1025140A)](arrete-du-30-septembre-2010-mccb1025140a)
-- [Arrêté du 30 mai 2005 (JUSF0550039A)](arrete-du-30-mai-2005-jusf0550039a)
 - [Arrêté du 31 août 2007 (BCFB0755421A)](arrete-du-31-aout-2007-bcfb0755421a)
 - [Arrêté du 31 août 2010 (AGRE1023035A)](arrete-du-31-aout-2010-agre1023035a)
 - [Arrêté du 31 août 2010 (BCRD1023173A)](arrete-du-31-aout-2010-bcrd1023173a)
