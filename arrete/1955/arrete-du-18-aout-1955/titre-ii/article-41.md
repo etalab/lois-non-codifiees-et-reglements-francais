@@ -13,3 +13,13 @@ Cette installation peut ne comporter qu'un seul dispositif de freinage à condit
 Par ailleurs, les remorques et appareils remorqués comporteront un dispositif de freinage agissant automatiquement en cas de rupture d'attelage. Cette prescription n'est pas applicable aux remorques et appareils qui bénéficient des dispositions de l'article 43, 2e alinéa, à condition qu'ils soient munis d'attache de secours telle que décrite à l'article R. 317-18 du code de la route.
 
 Les essais de maintien à l'arrêt des véhicules ou ensembles de véhicules sur déclivité ascendante ou descendante de 18 à 12 p. 100 peuvent être remplacés par des essais de traction en marche avant et arrière, sur route sèche en palier donnant de bonnes conditions d'adhérence, au cours desquels il est vérifié que ces véhicules restent immobiles pour des efforts de traction respectivement inférieurs ou égaux à 18 p. 100 de leur poids total autorisé en charge et à 12 p. 100 de leur poids total roulant autorisé.
+
+Les véhicules de catégorie S2a de type " charrue à socs ” ou " charrue à disques ” sont dispensés de freinage sous les conditions suivantes :
+
+― dans la limite de 10 tonnes de poids total autorisé en charge (PTAC) ;
+
+― dans la limite d'une vitesse maximale de 25 km/ h ;
+
+― le ratio du PTAC de la charrue sur la masse à vide du tracteur est inférieur à 1,5 ;
+
+― les informations pertinentes sur les vitesses et masses ci-dessus sont portées sur une plaque à proximité de la plaque du constructeur et à proximité de la tête d'attelage.
