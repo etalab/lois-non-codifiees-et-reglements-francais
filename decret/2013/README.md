@@ -78,6 +78,7 @@
 - [Décret n°2013-295 du 8 avril 2013 (ESRS1306680D)](decret-n2013-295-du-8-avril-2013-esrs1306680d)
 - [Décret n°2012-1250 du 9 novembre 2012 (AGRT1230752D)](decret-n2012-1250-du-9-novembre-2012-agrt1230752d)
 - [Décret n°2012-32 du 9 janvier 2012 (PRMG1120637D)](decret-n2012-32-du-9-janvier-2012-prmg1120637d)
+- [Décret n°2013-299 du 9 avril 2013 (JUSF1131521D)](decret-n2013-299-du-9-avril-2013-jusf1131521d)
 - [Décret n°2013-30 du 9 janvier 2013 (AFSP1209969D)](decret-n2013-30-du-9-janvier-2013-afsp1209969d)
 - [Décret n°2013-31 du 9 janvier 2013 (AFSH1240405D)](decret-n2013-31-du-9-janvier-2013-afsh1240405d)
 - [Décret n°2013-32 du 9 janvier 2013 (AGRG1200321D)](decret-n2013-32-du-9-janvier-2013-agrg1200321d)
