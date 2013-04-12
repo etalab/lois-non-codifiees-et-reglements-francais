@@ -104,7 +104,7 @@ Réalisation d'une basse non chiffrée ou d'un chant donné, de style tonal, de 
 
 L'épreuve comprendra deux parties :
 
--	une partie pratique qui devra être, soit un montage de bande dans les conditions définies par le texte d'épreuve qui sera remis aux candidats en même temps que les fragments de bande magnétique à monter, soit l'écoute d'une bande enregistrée, suivi d'une critique technique avec l'identification des sources sonores ;
+- une partie pratique qui devra être soit un montage de fichiers audionumériques dans les conditions définies par le texte d'épreuve qui sera remis aux candidats en même temps que les fichiers à monter, soit l'écoute d'un enregistrement, suivi d'une critique technique avec l'identification des sources sonores ;
 
 -	à la suite de cette épreuve pratique, une interrogation orale portant soit sur l'épreuve elle-même, soit sur d'autres points du programme.
 
