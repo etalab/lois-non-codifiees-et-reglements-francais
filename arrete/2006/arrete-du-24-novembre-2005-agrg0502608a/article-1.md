@@ -10,7 +10,7 @@ Au sens du présent arrêté, on entend par :
 
 - site d'élevage porcin : bâtiment ou ensemble de bâtiments, parcelle ou ensemble de parcelles d'une même exploitation éloignés des autres bâtiments ou parcelles de la même exploitation d'une distance inférieure ou égale à 500 mètres ;
 
-- porcin : animal de la famille des suidés et du genre Sus, de l'espèce Sus scrofa et qui comprend notamment le sanglier Sus scrofa scrofa et le porc domestique Sus scrofa domesticus ainsi que leurs croisements, à l'exclusion des animaux de parcs zoologiques, qui relèvent d'une réglementation particulière ;
+- porcin : animal de la famille des suidés et du genre Sus, de l'espèce Sus scrofa et qui comprend notamment le sanglier Sus scrofa scrofa et le porc domestique Sus scrofa domesticus ainsi que leurs croisements ;
 
 - porcin reproducteur (ou porcin d'élevage) : porcin utilisé en vue de la multiplication de l'espèce ;
 
