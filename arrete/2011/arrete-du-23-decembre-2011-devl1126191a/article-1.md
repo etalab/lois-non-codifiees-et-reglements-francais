@@ -1,3 +1,3 @@
 # Article 1
 
-La chasse de la bernache du Canada (Branta canadensis) est autorisée sur le territoire européen de la France, jusqu'au 10 février 2015.
+La bernache du Canada (Branta canadensis) est considérée comme gibier d'eau jusqu'au 31 janvier 2015. Sa chasse est autorisée jusqu'à cette date.
