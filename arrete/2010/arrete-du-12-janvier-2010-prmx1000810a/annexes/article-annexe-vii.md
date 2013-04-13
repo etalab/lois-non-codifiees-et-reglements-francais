@@ -65,5 +65,15 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 <p>Alpes-Maritimes</p>
 </td>
 </tr>
+<tr>
+<td align="left">
+<p align="left">DDTM de la Loire-Atlantique </p>
+</td>
+<td align="left">
+<p>Loire-Atlantique </p>
+<p>Vendée<br/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>

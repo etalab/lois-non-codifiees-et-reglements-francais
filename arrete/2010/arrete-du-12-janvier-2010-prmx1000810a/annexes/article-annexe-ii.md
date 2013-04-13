@@ -18,24 +18,21 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>DDTM de Loire-Atlantique</p>
-</td>
-<td align="left" valign="top">
-<p>Loire</p>
-</td>
-<td align="left" valign="top">
-<p>Loire<br/>Maine-et-Loire</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p>DDT de la Haute-Marne</p>
 </td>
 <td align="left" valign="top">
 <p>Canal entre Champagne et Bourgogne</p>
 </td>
-<td align="left" valign="top">
-<p>Côte-d'Or<br/>Marne<br/>Meuse<br/>Haute-Saône</p>
+<td align="left" valign="top">Haute-Marne <br/>
+<br/>Marne <br/>
+<br/>Meuse <br/>
+</td>
+</tr>
+<tr>
+<td> DDT de la Côte-d'Or </td>
+<td> Canal entre Champagne et Bourgogne </td>
+<td> Côte-d'Or <br/>
+<br/>Haute-Saône <br/>
 </td>
 </tr>
 <tr>

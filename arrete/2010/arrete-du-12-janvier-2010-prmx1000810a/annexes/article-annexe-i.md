@@ -22,20 +22,6 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>DDTM de l'Aude</p>
-</td>
-<td align="left" valign="top">
-<p>Rhône-Méditerranée</p>
-</td>
-<td align="left" valign="top">
-<p>Bassins des cours d'eau suivants : Lez, Hérault, Orb, Aude, Agly, Têt, Réart et Tech</p>
-</td>
-<td align="left" valign="top">
-<p>Ariège<br/>Aude<br/>Gard<br/>Hérault<br/>Pyrénées-Orientales</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p>DDTM de Charente-Maritime</p>
 </td>
 <td align="left" valign="top">
@@ -64,20 +50,6 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>DDTM du Gard</p>
-</td>
-<td align="left" valign="top">
-<p>Rhône-Méditerranée</p>
-</td>
-<td align="left" valign="top">
-<p>Bassins du Vidourle et du Vistre, bassin du Rhône en aval de la frontière entre les départements de la Loire et de l'Ardèche, hors bassin de l'Isère</p>
-</td>
-<td align="left" valign="top">
-<p>Alpes-de-Haute-Provence<br/>Hautes-Alpes<br/>Ardèche<br/>Bouches-du-Rhône<br/>Drôme<br/>Gard<br/>Lozère<br/>Var<br/>Vaucluse</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p>DDT de Maine-et-Loire</p>
 </td>
 <td align="left" valign="top">
@@ -102,20 +74,6 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </td>
 <td align="left" valign="top">
 <p>Gers<br/>Landes<br/>Pyrénées-Atlantiques<br/>Hautes-Pyrénées</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>DDTM de Seine-Maritime</p>
-</td>
-<td align="left" valign="top">
-<p>Seine-Normandie</p>
-</td>
-<td align="left" valign="top">
-<p>Bassins de la Seine en aval du barrage de Poses et bassins des fleuves côtiers normands</p>
-</td>
-<td align="left" valign="top">
-<p>Calvados<br/>Eure<br/>Eure-et-Loir<br/>Manche<br/>Orne<br/>Seine-Maritime<br/>Somme</p>
 </td>
 </tr>
 <tr>

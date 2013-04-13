@@ -1,3 +1,3 @@
 # Article 3
 
-Le montant mensuel de l'indemnité prévue à titre transitoire pour les magistrats délégués à la formation dépendant des cours d'appel d'Amiens, Rennes et Versailles est de 568,67 Euros.
+Le montant annuel de l'indemnité visée à l'article 3-1 du décret du 26 septembre 2003 est fixé à 1 166,52 euros.
