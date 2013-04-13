@@ -108,6 +108,10 @@ Paris ― Perth ;
 
 Paris ― Sydney ;
 
+Azerbaïdjan :
+
+Paris - Bakou ;
+
 Bahamas :
 
 Paris ― Nassau ;
