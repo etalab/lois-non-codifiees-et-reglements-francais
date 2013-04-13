@@ -301,7 +301,6 @@
 - [Arrêté du 10 décembre 1991 (ENVP9161466A)](arrete-du-10-decembre-1991-envp9161466a)
 - [Arrêté du 10 décembre 1991 (SPSS9102714A)](arrete-du-10-decembre-1991-spss9102714a)
 - [Arrêté du 10 décembre 1992 (EQUT9201541A)](arrete-du-10-decembre-1992-equt9201541a)
-- [Arrêté du 10 décembre 1992 (MENN9204474A)](arrete-du-10-decembre-1992-menn9204474a)
 - [Arrêté du 10 février 1992 (JUSC9220120A)](arrete-du-10-fevrier-1992-jusc9220120a)
 - [Arrêté du 10 février 1992 (MCCB9100493A)](arrete-du-10-fevrier-1992-mccb9100493a)
 - [Arrêté du 10 février 1992 (MCCB9200054A)](arrete-du-10-fevrier-1992-mccb9200054a)
