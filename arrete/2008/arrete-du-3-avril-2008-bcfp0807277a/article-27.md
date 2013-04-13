@@ -10,7 +10,7 @@ Il coordonne l'élaboration et le suivi de l'exécution du budget de la directio
 
 Le bureau achats et logistique
 
-Il définit et conduit la politique des achats de la direction générale, hors marchés informatiques et immobiliers, assure les relations avec le service des achats de l'Etat et apporte son soutien aux services déconcentrés. Il s'assure des relations avec les grands opérateurs. Il veille aux aspects logistiques des campagnes d'impôts. Il conduit la politique en matière de production d'imprimés et suit l'exécution du budget des services centraux.
+Il définit et conduit la politique des achats de la direction générale, hors marchés informatiques et immobiliers, assure les relations avec le service des achats de l'Etat et apporte son soutien aux services déconcentrés. Il s'assure des relations avec les grands opérateurs.  Il  veille aux aspects logistiques des campagnes d'impôts et conduit la  politique en matière de production d'imprimés. Il coordonne la mise en  œuvre des actions du plan " administration  exemplaire ”. Il assure une mission d'animation et de conseil du réseau  pour ce qui concerne les dépenses d'affranchissement. Il suit  l'exécution du budget des services centraux.
 
 Le bureau immobilier et sécurité
 
@@ -21,7 +21,3 @@ Il a capacité, dans son domaine de compétence, à rédiger, conclure et suivre
 Il est, par ailleurs, le référent du réseau de la direction générale, dans le domaine immobilier, et assure, à ce titre, des formations et le développement de modules de gestion (Antilope) ainsi que la production documentaire relevant de son domaine de compétence.
 
 La cellule sécurité définit et anime la politique de sécurité dans les services déconcentrés. Elle conduit les audits de sécurité et établit la doctrine de formation des délégués départementaux de sécurité.
-
-La mission de coordination CHORUS gestionnaire
-
-La mission de coordination CHORUS gestionnaire est l'interlocutrice des partenaires extérieurs de la direction générale et pilote les centres de services partagés en lien avec les bureaux de la sous-direction, en soutien desquels elle intervient.

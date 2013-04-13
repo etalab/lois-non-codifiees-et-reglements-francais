@@ -14,6 +14,10 @@ Il est chargé de la définition et de la mise en œuvre de l'organisation compt
 
 Le bureau opérateurs de l'Etat
 
-Il définit les règles financières et comptables applicables aux établissements publics nationaux, aux établissements publics locaux d'enseignement et aux organismes de sécurité sociale. Il assure l'animation, la formation et le soutien technique et juridique du réseau des agents comptables de ces établissements.
+Il définit les règles financières et comptables applicables aux établissements publics nationaux, aux groupements d'intérêt public nationaux, aux établissements publics locaux d'enseignement et aux organismes de sécurité sociale, soumis aux règles de la comptabilité publique. Il assure l'animation, l'information et le soutien juridique, comptable et technique du réseau des agents comptables de ces établissements. Il met en œuvre au profit de ces établissements l'offre de service de la direction générale des finances publiques, notamment en matière de modernisation des procédures de gestion.
 
-Il est ordonnateur principal délégué du compte spécial Liquidation d'établissements publics et liquidations diverses .
+Il contribue à l'amélioration de la qualité comptable des entités valorisées dans les comptes de l'Etat.
+
+Il assure la maîtrise d'ouvrage de l'infocentre des établissements publics nationaux et des groupements d'intérêt public nationaux soumis aux règles de la comptabilité publique.
+
+Il est ordonnateur principal délégué du compte spécial "liquidation d'établissements publics et liquidations diverses".

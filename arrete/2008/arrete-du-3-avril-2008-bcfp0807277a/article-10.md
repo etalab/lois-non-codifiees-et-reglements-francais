@@ -10,8 +10,8 @@ Il organise et anime la mission topographique. Il détermine les règles, les pr
 
 Le bureau publicité foncière et fiscalité du patrimoine ;
 
-Il organise et anime les services chargés de la fiscalité patrimoniale et immobilière ainsi que les conservations des hypothèques. Il est responsable du droit et des techniques relatifs à la publicité foncière. Il pilote l'informatisation des conservations des hypothèques et est chargé de la maîtrise d'ouvrage des applications informatiques employées dans ce domaine.
+Il organise et anime les services chargés de la fiscalité patrimoniale et immobilière ainsi que les services chargés de la publicité foncière. Il est responsable des techniques relatives à la publicité foncière. Il pilote l'informatisation des conservations des hypothèques et est chargé de la maîtrise d'ouvrage des applications informatiques employées dans ce domaine.
 
 Le bureau études statistiques en matière fiscale ;
 
-Il élabore des prévisions, des statistiques et des études à usage interne et externe pour l'ensemble des impôts. Il est chargé du suivi des recettes fiscales.
+Il élabore des prévisions, des statistiques et des études à usage interne et externe pour l'ensemble des impôts. Il est chargé du suivi des recettes fiscales et de la communication des données statistiques.

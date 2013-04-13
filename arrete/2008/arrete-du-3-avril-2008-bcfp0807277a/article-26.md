@@ -6,7 +6,7 @@ La sous-direction de la performance et du contrôle de gestion comprend :
 
 Le bureau contrôle de gestion et coordination ;
 
-Il pilote et évalue la performance, élabore et suit les indicateurs de performance, coordonne la contractualisation. Il assure le contrôle de gestion, en développe les outils et les méthodes. Il est chargé de la comptabilité analytique et des études de coût. Il procède à des études comparatives internationales. Il coordonne les relations avec la Cour des comptes et l'inspection générale des finances ainsi que les relations interdirectionnelles.
+Il pilote la stratégie nationale et sa déclinaison dans le réseau. Il pilote le contrôle et le dialogue de gestion, en conçoit les méthodes et les outils. Il assure le suivi du dialogue de gestion départemental, des services à compétence nationale et des directions spécialisées ainsi que des lettres de mission de leurs directeurs. Il est chargé de la comptabilité analytique et des études de coût. Il procède à des études comparatives internationales. Il coordonne les relations avec les parlementaires et la Cour des comptes.
 
 Le bureau pilotage des emplois et évolution des structures ;
 

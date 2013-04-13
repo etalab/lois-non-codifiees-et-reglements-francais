@@ -40,7 +40,7 @@ La sous-direction (E) prospective et relations internationales comprend :
 
 Le bureau E 1
 
-Il conçoit et élabore les règles de fiscalité internationale. Il représente le ministère dans les négociations des conventions fiscales et en assure l'interprétation. Il est chargé des procédures amiables.
+Il conçoit et élabore les règles de fiscalité internationale dont il assure l'interprétation. Il négocie ces règles dans les enceintes multilatérales. Il représente le ministère dans les négociations des conventions fiscales dont il assure l'interprétation.
 
 Le bureau E 2
 

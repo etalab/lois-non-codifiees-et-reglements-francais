@@ -1,8 +1,8 @@
 # Article 1
 
-I. ― La direction générale des finances publiques comprend une direction et un service directement placés auprès du directeur général,        ainsi que huit services.
+I. - La direction générale des finances publiques comprend une direction et neuf services ainsi que, directement placées auprès du directeur général, une délégation aux simplifications, une mission nationale d'audit, une mission nationale " maîtrise des risques ", une mission " communication et relation avec les publics ", une délégation à la gestion des cadres et personnels de centrale et à la responsabilité des comptables, une mission de coopération internationale et une mission " animation du réseau et coordination ". Le directeur général dispose en outre d'un cabinet.
 
-II. - Une mission nationale d'audit, une mission nationale "maîtrise des risques", une mission nationale de réingénierie des processus et une mission "communication et relation avec les publics" sont directement placées auprès du directeur général qui dispose en outre d'un cabinet.
+II. - La délégation aux simplifications est chargée de mettre en place une démarche de simplification des procédures et d'allégement des tâches, au bénéfice des agents, des usagers et des partenaires de la direction générale.
 
 III. - La mission nationale d'audit est chargée, d'une part, de l'ensemble de la politique menée en matière d'audit à la direction générale et, d'autre part, de missions de conseil pour le compte du directeur général. Elle réalise, en outre, des missions d'audit interne au sein des services déconcentrés et des services centraux de la direction générale ainsi que des audits extérieurs et partenariaux.
 
@@ -16,6 +16,12 @@ Elle exerce une fonction de soutien méthodologique aux pôles métiers en mati�
 
 Elle assure le pilotage et l'animation des missions " maîtrise des risques " placées auprès des directions régionales et départementales des finances publiques.
 
-V. - La mission nationale de réingénierie des processus est chargée de définir et de proposer la stratégie en matière de réingénierie et de dématérialisation. Elle assure le pilotage et l'animation des travaux de réingénierie réalisés dans les services déconcentrés et apporte le soutien méthodologique nécessaire.
+V. - La mission "communication et relation avec les publics" est chargée de définir et de mettre en œuvre la communication interne et externe dans toutes ses composantes. Elle est également chargée de concevoir et de piloter la relation aux usagers de la direction générale, notamment en matière d'accueil, quel que soit le mode de contact, et de qualité de service.
 
-VI. - La mission "communication et relation avec les publics" est chargée de définir et de mettre en œuvre la communication interne et externe dans toutes ses composantes. Elle est également chargée de concevoir et de piloter la relation aux usagers de la direction générale, notamment en matière d'accueil, quel que soit le mode de contact, et de qualité de service.
+VI. - La délégation à la gestion des cadres et personnels de centrale et à la responsabilité des comptables assure le suivi personnalisé des personnels de statut d'administration centrale. En matière de responsabilité des comptables publics et des régisseurs, elle conduit la politique générale et suit les questions de mise en débet ainsi que les demandes de constatation de la force majeure ou en remise gracieuse.
+
+VII. - La mission de coopération internationale est chargée d'organiser et de coordonner les actions de coopération internationale de la direction générale.
+
+VIII. - La mission " animation du réseau et coordination " est chargée du suivi de l'animation du réseau au niveau départemental et infradépartemental ainsi que des relations entre l'administration centrale et le réseau. Elle est le point d'entrée unique pour tous les sujets liés à la fusion. Elle s'assure du bon fonctionnement des nouvelles structures fusionnées.
+
+IX. - Au sein du cabinet, le cabinet international établit les relations entre le directeur général et ses homologues étrangers. Il réalise des études internationales en matière de gestion fiscale, de gestion publique et de gestion transversale.

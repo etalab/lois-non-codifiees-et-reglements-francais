@@ -6,7 +6,7 @@ La sous-direction du contentieux des impôts des professionnels comprend :
 
 Le bureau études générales, pilotage et documentation ;
 
-Il est chargé des études juridiques générales, du pilotage de l'activité contentieuse des services, du traitement de certains contentieux particuliers et de l'élaboration de la documentation fiscale.
+Il est chargé des études juridiques générales, du pilotage de l'activité contentieuse des services, de la maîtrise d'ouvrage de l'application informatique du contentieux d'assiette, du traitement de certains contentieux particuliers et de l'élaboration de la documentation fiscale.
 
 Le bureau contentieux et recours gracieux relatifs aux impôts directs des professionnels ;
 

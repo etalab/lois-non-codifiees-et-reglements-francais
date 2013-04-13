@@ -10,7 +10,7 @@ Il organise et anime la gestion de l'assiette et du recouvrement amiable des imp
 
 Le bureau droit et outils du recouvrement ;
 
-Il est chargé de l'élaboration du droit du recouvrement et de l'harmonisation des outils juridiques de recouvrement forcé des produits fiscaux ainsi que des amendes et des produits divers. Il organise et anime les services chargés du recouvrement forcé. Il est chargé de l'expertise et du contentieux du recouvrement ainsi que des dossiers évoqués auprès de lui. Il assure la maîtrise d'ouvrage des applications informatiques employées dans ce domaine. Il est responsable de l'animation et du pilotage des inspecteurs chargés des fonctions d'huissier ainsi que des conventions avec les huissiers de justice. Il est chargé de la tutelle des professions comptables et des organismes agréés.
+Il est chargé de l'élaboration du droit du recouvrement et de l'harmonisation des outils juridiques de recouvrement forcé des produits fiscaux ainsi que des amendes et des produits divers. Il pilote l'assistance internationale au recouvrement des produits fiscaux. Il organise et anime les services chargés du recouvrement forcé. Il est chargé de l'expertise et du contentieux du recouvrement ainsi que des dossiers évoqués auprès de lui. Il assure la maîtrise d'ouvrage des applications informatiques employées dans ce domaine. Il est responsable de l'animation et du pilotage des inspecteurs chargés des fonctions d'huissier ainsi que des conventions avec les huissiers de justice. Il est chargé de la tutelle des professions comptables et des organismes agréés.
 
 Le bureau modernisation de la gestion de la fiscalité des professionnels et du recouvrement ;
 
