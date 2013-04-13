@@ -16,7 +16,7 @@ Major général des armées.
 
 Major général d'armée.
 
-Adjoint au délégué général pour l'armement, directeur des systèmes d'armes.
+Directeur général adjoint de la direction générale de l'armement.
 
 Général d'armée (terre), inspecteur général des armées.
 
@@ -35,6 +35,8 @@ Délégué.
 Sous-chef d'état-major de l'état-major des armées.
 
 III. - Emplois de chef de service et assimilé
+
+Adjoint à un sous-chef d'état-major de l'état-major des armées.
 
 Chef de service.
 
