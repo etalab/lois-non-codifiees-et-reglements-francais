@@ -282,6 +282,7 @@
 - [Arrêté du 12 février 2013 (PRMG1300933A)](arrete-du-12-fevrier-2013-prmg1300933a)
 - [Arrêté du 12 février 2013 (SPOF1304814A)](arrete-du-12-fevrier-2013-spof1304814a)
 - [Arrêté du 12 février 2013 (TRAT1301334A)](arrete-du-12-fevrier-2013-trat1301334a)
+- [Arrêté du 12 juin 1970](arrete-du-12-juin-1970)
 - [Arrêté du 12 mars 2013 (AFSH1305477A)](arrete-du-12-mars-2013-afsh1305477a)
 - [Arrêté du 12 mars 2013 (DEFH1304922A)](arrete-du-12-mars-2013-defh1304922a)
 - [Arrêté du 12 mars 2013 (DEVK1304900A)](arrete-du-12-mars-2013-devk1304900a)
