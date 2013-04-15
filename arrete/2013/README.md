@@ -11,6 +11,7 @@
 - [Arrêté du 2 avril 2013 (MCCB1307631A)](arrete-du-2-avril-2013-mccb1307631a)
 - [Arrêté du 2 avril 2013 (MCCB1307769A)](arrete-du-2-avril-2013-mccb1307769a)
 - [Arrêté du 2 avril 2013 (TRAM1303969A)](arrete-du-2-avril-2013-tram1303969a)
+- [Arrêté du 2 décembre 2011 (MCCE1128183A)](arrete-du-2-decembre-2011-mcce1128183a)
 - [Arrêté du 2 janvier 2013 (DEFF1300805A)](arrete-du-2-janvier-2013-deff1300805a)
 - [Arrêté du 2 janvier 2013 (DEVK1238194A)](arrete-du-2-janvier-2013-devk1238194a)
 - [Arrêté du 2 janvier 2013 (DEVK1238196A)](arrete-du-2-janvier-2013-devk1238196a)
