@@ -47,7 +47,6 @@
 - [Arrêté du 2 février 2010 (MTSE0914372A)](arrete-du-2-fevrier-2010-mtse0914372a)
 - [Arrêté du 2 janvier 1990 (PRMX8910302A)](arrete-du-2-janvier-1990-prmx8910302a)
 - [Arrêté du 2 juillet 2010 (BCRE1018369A)](arrete-du-2-juillet-2010-bcre1018369a)
-- [Arrêté du 2 juillet 2010 (IMIK1017125A)](arrete-du-2-juillet-2010-imik1017125a)
 - [Arrêté du 2 juillet 2010 (MCCB1017465A)](arrete-du-2-juillet-2010-mccb1017465a)
 - [Arrêté du 2 juillet 2010 (MTSS1017738A)](arrete-du-2-juillet-2010-mtss1017738a)
 - [Arrêté du 2 juin 2010 (DEVD1007589A)](arrete-du-2-juin-2010-devd1007589a)
