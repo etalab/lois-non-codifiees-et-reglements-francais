@@ -11,23 +11,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Agence nationale des fréquences <br/>
-</p>
+<td>
+<p align="left">Agence nationale des fréquences </p>
 </td>
-<td align="center">
-<p align="left">Chef du service informatique <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Agence nationale des fréquences <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Directeur adjoint de la direction technique du contrôle du spectre (supprimé à compter du 1er janvier 2013)<br/>
-</p>
+<td>
+<p align="left">Conseiller auprès du directeur général pour l'audit et le système d'information (ajouté à compter du 21 janvier 2013)</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +29,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
-<td>Direction générale de l'administration et de la fonction publique</td>
+<td>
+<p align="left">Direction générale de l'administration et de la fonction publique</p>
+</td>
 <td>
 <p align="left">Chef du bureau des statuts particuliers et des filières de métiers (à compter du 16 avril 2012)</p>
 </td>
@@ -58,22 +48,18 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
-</p>
+<p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef du bureau de la communication et de l'accueil du public<br/>
-</p>
+<p align="left">Adjoint au chef du bureau de la communication et de l'accueil du public</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Conseil général de l'économie, de l'industrie, de l'énergie et des technologies <br/>
-</p>
+<p align="left">Conseil général de l'économie, de l'industrie, de l'énergie et des technologies </p>
 </td>
 <td align="center">
-<p align="left">Secrétaire général de l'Ecole nationale supérieure des mines de Paris <br/>
-</p>
+<p align="left">Secrétaire général de l'Ecole nationale supérieure des mines de Paris </p>
 </td>
 </tr>
 <tr>
@@ -117,16 +103,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </tr>
 <tr>
 <td align="center">
-<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef de projet en charge de la consolidation transversale des politiques d'emploi et de la formation des branches et des entreprises <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction générale des finances publiques <br/>
 </p>
 </td>
@@ -154,6 +130,12 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Direction régionale de l'environnement, de l'aménagement et du logement du Centre </p>
+</td>
+<td>Secrétaire général (ajouté à compter du 12 février 2013)</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Service des retraites de l'Etat <br/>
 </p>
@@ -177,7 +159,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <td>
 <p align="left">Service des retraites de l'Etat </p>
 </td>
-<td>Chef du bureau "retraites" <br/>
+<td>
+<p align="left">Chef du bureau "retraites" <br/>
+</p>
 </td>
 </tr>
 <tr>

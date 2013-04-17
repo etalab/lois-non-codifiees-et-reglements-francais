@@ -5,10 +5,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <table>
 <tbody>
 <tr>
-<th>SERVICES OU DIRECTIONS <br/>
-</th>
-<th colspan="2">DÉSIGNATION DE L'EMPLOI <br/>
-</th>
+<td>
+<p align="center"> SERVICES OU DIRECTIONS <br/>
+</p>
+</td>
+<td colspan="2">
+<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -86,24 +89,24 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left">Direction du budget </td>
-<td align="left">
-<p>Adjoint au chef du département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</p>
+<td>
+<p align="left">Adjoint au chef du département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Direction du budget </p>
 </td>
-<td align="left">
-<p>Responsable du secteur "rémunération des dirigeants des établissements publics"</p>
+<td align="center">
+<p align="left">Responsable du secteur "rémunération des dirigeants des établissements publics"</p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="left">Direction du budget </p>
 </td>
-<td align="left">
-<p>Responsable du pôle solidarité, prévention de l'exclusion et politique de la ville au département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</p>
+<td>
+<p align="left">Responsable du pôle solidarité, prévention de l'exclusion et politique de la ville au département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</p>
 </td>
 </tr>
 <tr>
@@ -580,56 +583,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef du bureau "ressources humaines et affaires générales" <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chargé de mission à la mission "développement de l'emploi et des compétences" <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chargé de mission "politiques de formation et de qualification" <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chargé de mission à la mission "développement de l'emploi et des compétences" <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Délégation générale à l'emploi et à la formation professionnelle <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chef de la mission "insertion des jeunes" <br/>
-</p>
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
 <p align="left">Direction générale de l'énergie et du climat <br/>
 </p>
@@ -682,15 +635,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction générale des finances publiques <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Responsable des secteurs "expertise et veille juridiques", "modernisation des procédures de gestion" et "animation du réseau" au bureau des opérateurs de l'Etat </p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction générale des finances publiques </p>
 </td>
 <td align="center">
@@ -699,11 +643,17 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Direction générale des finances publiques </p>
+<p align="left">Direction générale des finances publiques </p>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au chef du bureau "expertise et actions économiques" (A compter du 1er mai 2012) </p>
+<p align="left">Adjoint au chef du bureau "expertise et actions économiques" (à compter du 1er mai 2012) </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction générale des finances publiques </p>
+</td>
+<td align="left">Adjoint au chef du bureau des opérateurs de l'Etat (ajouté à compter du 1er février 2013)</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -715,21 +665,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Direction interministérielle pour la modernisation de l'action publique </p>
+<td>
+<p align="left">Secrétariat général pour la modernisation de l'action publique </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Chef du pôle "ressources humaines" </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Direction régionale de l'environnement, de l'aménagement et du logement du Centre </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
+<td align="left">Chef du pôle "ressources humaines" (ajouté à compter du 31 octobre 2012)</td>
 </tr>
 <tr>
 <td align="center">
@@ -738,16 +677,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">
 <p align="left">Responsable du bureau de gestion administrative et financière <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Mission interministérielle aux rapatriés <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Secrétaire général <br/>
 </p>
 </td>
 </tr>
@@ -1052,12 +981,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left">
-<p>Secrétariat général </p>
+<td>
+<p align="left">Secrétariat général </p>
 </td>
-<td align="left">
-<p>Adjoint au chef du bureau "recrutement et valorisation des personnels de catégories A, B et C" <br/>
-</p>
+<td>
+<p align="left">Adjoint au chef du bureau "recrutement et valorisation des personnels de catégories A, B et C" </p>
 </td>
 </tr>
 <tr>
@@ -1066,6 +994,14 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">
 <p align="left">Responsable de la coordination à la mission Parlement européen </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Secrétariat général </p>
+</td>
+<td>
+<p align="left">Inspectrice coordonnatrice nationale de l'inspection santé et sécurité au travail (ajouté à compter du 1er janvier 2013)</p>
 </td>
 </tr>
 <tr>
