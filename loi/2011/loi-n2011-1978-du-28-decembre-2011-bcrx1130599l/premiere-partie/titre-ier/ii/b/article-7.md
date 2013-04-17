@@ -8,7 +8,7 @@ Ce compte retrace :
 
 2° En dépenses :
 
-a) Les aides liées au financement d'une partie du coût des travaux de développement et d'adaptation des réseaux ruraux de distribution publique d'électricité, prévues aux septième et huitième alinéas du I du même article L. 2224-31 ;
+a) Les aides liées au financement d'une partie du coût des travaux de développement et d'adaptation des réseaux ruraux de distribution publique d'électricité, prévues aux huitième et neuvième alinéas du I du même article L. 2224-31 ;
 
 b) Les frais liés à la gestion de ces aides.
 
