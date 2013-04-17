@@ -6,7 +6,7 @@ La section du travail et de l'emploi est compétente dans les domaines des relat
 
 La section de l'aménagement durable des territoires est compétente dans les domaines de la décentralisation, du développement régional, de la planification et de l'organisation territoriales, du développement local et de l'aménagement du territoire, de l'urbanisme et du logement, des équipements collectifs, des transports, des communications, du tourisme.
 
-La section de l'économie et des finances est compétente dans les domaines des politiques économiques et financières, du rapport annuel sur l'état de la France, de la répartition et de l'évolution du revenu national, de l'information économique et financière, des questions relatives à l'épargne et au crédit, aux systèmes bancaire et d'assurances, aux finances publiques et à la fiscalité.
+La section de l'économie et des finances est compétente dans les domaines des politiques économiques et financières,           de la répartition et de l'évolution du revenu national, de l'information économique et financière, des questions relatives à l'épargne et au crédit, aux systèmes bancaire et d'assurances, aux finances publiques et à la fiscalité.
 
 La section des affaires européennes et internationales est compétente dans les domaines de la coopération et de l'aide au développement, des questions bilatérales et multilatérales, des relations internationales, des questions migratoires, des questions européennes et des relations avec les institutions internationales et de l'Union européenne, de la francophonie.
 
