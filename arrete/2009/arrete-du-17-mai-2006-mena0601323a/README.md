@@ -1,6 +1,7 @@
 # Arrêté du 17 mai 2006 fixant l'organisation de l'administration centrale des ministères de l'éducation nationale et de l'enseignement supérieur et de la recherche.
 
 - [Article 1](article-1.md)
+- [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
