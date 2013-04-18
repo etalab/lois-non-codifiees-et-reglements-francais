@@ -14,6 +14,4 @@ Le contrôleur budgétaire et comptable ministériel près les ministères des s
 
 ― Institut national des jeunes sourds de Paris ;
 
-― Musée national du sport ;
-
-― Office français de protection des réfugiés et apatrides.
+― Musée national du sport.
