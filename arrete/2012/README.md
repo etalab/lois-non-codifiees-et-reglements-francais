@@ -774,7 +774,6 @@
 - [Arrêté du 10 janvier 2012 (AGRM1131385A)](arrete-du-10-janvier-2012-agrm1131385a)
 - [Arrêté du 10 janvier 2012 (DEVA1131814A)](arrete-du-10-janvier-2012-deva1131814a)
 - [Arrêté du 10 janvier 2012 (DEVS1200649A)](arrete-du-10-janvier-2012-devs1200649a)
-- [Arrêté du 10 janvier 2012 (ESRS1129423A)](arrete-du-10-janvier-2012-esrs1129423a)
 - [Arrêté du 10 janvier 2012 (ETSR1132523A)](arrete-du-10-janvier-2012-etsr1132523a)
 - [Arrêté du 10 janvier 2012 (ETSS1200585A)](arrete-du-10-janvier-2012-etss1200585a)
 - [Arrêté du 10 janvier 2012 (IOCE1200941A)](arrete-du-10-janvier-2012-ioce1200941a)
