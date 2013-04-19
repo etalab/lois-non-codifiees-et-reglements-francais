@@ -1543,7 +1543,6 @@
 - [Arrêté du 18 décembre 2008 (AGRP0828914A)](arrete-du-18-decembre-2008-agrp0828914a)
 - [Arrêté du 18 décembre 2009 (BCFP0928762A)](arrete-du-18-decembre-2009-bcfp0928762a)
 - [Arrêté du 18 décembre 2009 (DEVL0929214A)](arrete-du-18-decembre-2009-devl0929214a)
-- [Arrêté du 18 décembre 2009 (JUSF0910898A)](arrete-du-18-decembre-2009-jusf0910898a)
 - [Arrêté du 18 décembre 2009 (MCCB0928769A)](arrete-du-18-decembre-2009-mccb0928769a)
 - [Arrêté du 18 décembre 2009 (MCCB0928772A)](arrete-du-18-decembre-2009-mccb0928772a)
 - [Arrêté du 18 décembre 2009 (MCCB0928774A)](arrete-du-18-decembre-2009-mccb0928774a)

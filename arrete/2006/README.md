@@ -24,7 +24,6 @@
 - [Arrêté du 3 juillet 2006 (BUDB0620005A)](arrete-du-3-juillet-2006-budb0620005a)
 - [Arrêté du 3 juillet 2006 (BUDB0630030A)](arrete-du-3-juillet-2006-budb0630030a)
 - [Arrêté du 3 juillet 2006 (MENH0601382A)](arrete-du-3-juillet-2006-menh0601382a)
-- [Arrêté du 3 novembre 2006 (JUSF0650130A)](arrete-du-3-novembre-2006-jusf0650130a)
 - [Arrêté du 3 novembre 2006 (PRMX0609663A)](arrete-du-3-novembre-2006-prmx0609663a)
 - [Arrêté du 3 octobre 2006 (INTE0600843A)](arrete-du-3-octobre-2006-inte0600843a)
 - [Arrêté du 3 mai 2006 (MCCK0600349A)](arrete-du-3-mai-2006-mcck0600349a)
