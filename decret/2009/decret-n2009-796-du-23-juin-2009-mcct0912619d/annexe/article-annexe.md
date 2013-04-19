@@ -388,7 +388,15 @@ IV. ― France Télévisions consacre chaque année une part de son chiffre d'af
 
 Cette contribution est au moins égale à 18,5 % en 2009,19 % en 2010,19,5 % en 2011 et 20 % à compter de 2012.
 
-Elle est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 et indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010. Toutefois, dans la limite de 5 % de son montant, la contribution peut être réalisée avec des entreprises qui ne sont pas indépendantes au sens de l'article 15 du décret précité. Les dépenses prises en compte sont celles mentionnées aux 1° à 6° de l'article 12 du même décret.
+Elle est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 et indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010. Toutefois, dans la limite de 5 % de son montant, la contribution peut être réalisée avec des entreprises qui ne sont pas indépendantes au sens de l'article 15 du décret précité.
+
+Les dépenses prises en compte sont celles mentionnées à l'article 12 du même décret. Toutefois, ne sont prises en compte au titre de celles mentionnées au 7° de cet article que :
+
+1° Les dépenses de financement de festivals dans la limite de 0,1 % du montant de l'obligation ;
+
+2° Les dépenses externes d'achat d'espaces publicitaires et de campagnes d'affichage consacrées à des œuvres identifiées sur lesquelles porte la contribution, pour la part supérieure à 500 000 euros de ces dépenses.
+
+Conformément au 5° de l'article 14 du même décret, la contribution de l'exercice en cours peut prendre en compte les dépenses engagées au titre de l'exercice précédent qui n'ont pas été prises en compte au titre de ce dernier, dans la limite de 2 % de l'obligation de l'exercice en cours.
 
 Elle porte globalement sur le chiffre d'affaires réalisé par les services suivants :
 
@@ -398,7 +406,7 @@ Elle porte globalement sur le chiffre d'affaires réalisé par les services suiv
 
 A la condition que France Télévisions en informe le Conseil supérieur de l'audiovisuel avant le 1er juillet de chaque année, pourra également être pris en compte le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques.
 
-La société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés.
+La société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés. France Télévisions peut en outre procéder à une multidiffusion supplémentaire sur ses services régionaux et locaux de télévision diffusés en outre-mer correspondant à un passage sur chacun de ces services.
 
 Article 10
 
