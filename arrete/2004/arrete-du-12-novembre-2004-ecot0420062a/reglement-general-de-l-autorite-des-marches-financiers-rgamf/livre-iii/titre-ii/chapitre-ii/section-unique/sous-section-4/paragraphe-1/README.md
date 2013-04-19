@@ -12,6 +12,3 @@
 - [Article 322-58](article-322-58.md)
 - [Article 322-59](article-322-59.md)
 - [Article 322-60](article-322-60.md)
-- [Article 322-86](article-322-86.md)
-- [Article 322-87](article-322-87.md)
-- [Article 322-88](article-322-88.md)

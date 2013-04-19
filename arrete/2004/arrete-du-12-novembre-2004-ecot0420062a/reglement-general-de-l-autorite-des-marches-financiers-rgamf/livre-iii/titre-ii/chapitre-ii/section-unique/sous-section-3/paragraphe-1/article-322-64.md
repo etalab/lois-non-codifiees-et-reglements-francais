@@ -1,7 +1,0 @@
-# Article 322-64
-
-En cas de changement de titulaire d'un instrument financier nominatif administré ou de changement dans le mode d'administration du compte ou de toute autre modification affectant l'inscription en compte d'un titulaire d'un instrument financier nominatif administré, chaque intermédiaire teneur de compte conservateur concerné établit le bordereau de références nominatives du titulaire mentionné au premier alinéa de l'article L. 211-19 du code monétaire et financier et procède, s'il y a lieu, aux opérations de règlement d'espèces et de livraison d'instruments financiers convenues.
-
-Lorsqu'un titulaire d'instruments financiers nominatifs charge un intermédiaire teneur de compte conservateur de gérer son compte ouvert chez une personne morale émettrice d'instruments financiers admis aux opérations d'un dépositaire central, cette personne morale émettrice établit un bordereau de références nominatives. Dès lors qu'il tient un compte d'administration, l'intermédiaire teneur de compte conservateur est seul habilité à recevoir de la part du titulaire des ordres portant sur les instruments financiers en cause ; il établit en conséquence les bordereaux de références nominatives, dans les conditions prévues au premier alinéa.
-
-Tout bordereau de références nominatives est matérialisé par un ensemble de données informatisées, établies conformément aux normes fixées par une instruction de l'AMF et destinées à être télétransmises.

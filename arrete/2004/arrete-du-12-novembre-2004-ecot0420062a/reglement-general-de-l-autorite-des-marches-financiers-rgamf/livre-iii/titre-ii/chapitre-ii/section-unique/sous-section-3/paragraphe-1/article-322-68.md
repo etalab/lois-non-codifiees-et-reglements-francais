@@ -1,3 +1,0 @@
-# Article 322-68
-
-Les règles de fonctionnement établissent les pénalités auxquelles sont soumis les intermédiaires teneurs de compte conservateurs et les personnes morales émettrices qui n'établissent pas les bordereaux de références nominatives dans les délais requis. Les règles prévoient en conséquence les délais générateurs de pénalités et leurs montants. En fonction de contraintes techniques spécifiques liées aux modalités pratiques de règlement et de livraison et de l'évolution de ces contraintes, les règles peuvent prévoir à titre transitoire des délais supérieurs à ceux qui sont mentionnés à l'article 322-65, dans les limites fixées aux articles 322-69 et 322-70.

@@ -13,5 +13,3 @@
 - [Article 322-71](article-322-71.md)
 - [Article 322-71-1](article-322-71-1.md)
 - [Article 322-72](article-322-72.md)
-- [Article 322-89](article-322-89.md)
-- [Article 322-90](article-322-90.md)
