@@ -26,7 +26,7 @@ j) Un communiqué qui précise les modalités de mise à disposition ou de consu
 
 k) Les informations publiées en application de l'article 223-21 ;
 
-Lorsque les titres financiers de l'émetteur sont admis aux négociations sur un système multilatéral de négociation organisé au sens de l'article 524-1, le terme : information réglementée désigne les documents et informations mentionnés aux points h et i.
+Lorsque les titres financiers de l'émetteur sont admis aux négociations sur un système multilatéral de négociation organisé au sens de l'article 524-1, le terme : information réglementée désigne les documents et informations mentionnés aux points g, h et i.
 
 2° Le terme : " personne désigne une personne physique ou une personne morale.
 

@@ -1,0 +1,3 @@
+# Article 322-56
+
+La personne morale émettrice ou l'intermédiaire teneur de compte-conservateur chargé de l'établissement d'un bordereau de références nominatives à la suite d'un changement dans le mode d'administration du compte d'un titulaire d'un titre financier adresse, dans un délai maximal de deux jours de négociation à compter de la date à laquelle il a enregistré le changement au compte dudit titulaire tenu dans ses livres, ce bordereau au dépositaire central. Le dépositaire central transmet le bordereau de références nominatives au teneur de compte-conservateur en cause au plus tard le jour de négociation suivant la réception dudit bordereau.

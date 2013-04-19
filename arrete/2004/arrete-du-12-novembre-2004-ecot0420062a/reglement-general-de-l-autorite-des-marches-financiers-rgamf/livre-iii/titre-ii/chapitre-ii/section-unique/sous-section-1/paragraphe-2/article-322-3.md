@@ -1,11 +1,17 @@
 # Article 322-3
 
-Préalablement à l'ouverture d'un compte d'instruments financiers au nom d'une personne physique, le teneur de compte conservateur vérifie l'identité du client et s'assure le cas échéant de l'identité de la personne pour le compte de laquelle le client agit.
+L'activité de tenue de compte-conservation consiste :
 
-Le prestataire habilité s'assure que le client a la capacité juridique et la qualité requises pour effectuer cette opération.
+1° A inscrire dans un compte-titres les titres financiers au nom de leur titulaire, c'est-à-dire à reconnaître au titulaire ses droits sur lesdits titres financiers.
 
-S'agissant d'un client personne morale, le prestataire habilité vérifie que le représentant de cette personne morale a capacité à agir, soit en vertu de sa qualité de représentant légal, soit au titre d'une délégation ou d'un mandat dont il bénéficie. A cet effet, le prestataire habilité demande la production de tout document lui permettant de vérifier l'habilitation ou la désignation du représentant.
+S'agissant des titres financiers nominatifs, en application de l'article R. 211-4 du code monétaire et financier, un propriétaire de titres financiers nominatifs peut charger un intermédiaire de tenir son compte-titres ouvert chez l'émetteur. En ce cas, les inscriptions figurant sur ce compte-titres figurent également dans un compte d'administration tenu au nom de ce propriétaire par cet intermédiaire. Les titres revêtent alors la forme dite " nominatif administré " ;
 
-Le teneur de compte conservateur peut demander aux personnes physiques et morales soumises à la législation d'un Etat étranger de présenter un certificat de coutume attestant la régularité des opérations envisagées au regard de cette législation.
+2° A conserver les avoirs correspondants ;
 
-Le compte d'instruments financiers doit mentionner les éléments d'identification des personnes au nom desquelles il a été ouvert et les spécificités éventuelles affectant l'exercice de leurs droits.
+Pour la conservation des avoirs correspondant aux titres financiers mentionnés au I de l'article 322-2, l'intermédiaire teneur de compte-conservateur mentionné aux 2° à 7° de l'article L. 542-1 du code monétaire et financier :
+
+-ouvre un ou plusieurs comptes auprès du dépositaire central, ou ouvre un ou plusieurs comptes auprès d'un autre teneur de compte-conservateur ou d'une entité étrangère ayant un statut équivalent ;
+
+-ouvre un ou plusieurs comptes auprès de l'émetteur ou de la personne agissant pour le compte de ce dernier, si les titres financiers sont des parts ou actions d'OPCVM non admises aux opérations du dépositaire central.
+
+3° A traiter les événements intervenant dans la vie des titres financiers conservés.

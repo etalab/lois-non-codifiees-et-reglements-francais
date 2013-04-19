@@ -1,6 +1,6 @@
 # Article 631-5
 
-Les dispositions de la section 1 du présent chapitre ne s'appliquent pas aux opérations effectuées par un émetteur sur ses propres titres dans le cadre de programmes de rachat dès lors que ces opérations :
+Les dispositions de la section 1 du présent chapitre ne s'appliquent pas aux opérations effectuées, dans le cadre de programmes de rachat, par un émetteur sur ses propres titres de capital admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation organisé au sens de l'article 524-1 dès lors que ces opérations :
 
 1° Sont effectuées conformément aux dispositions du règlement n° 2273/2003 de la Commission européenne du 22 décembre 2003 ;
 

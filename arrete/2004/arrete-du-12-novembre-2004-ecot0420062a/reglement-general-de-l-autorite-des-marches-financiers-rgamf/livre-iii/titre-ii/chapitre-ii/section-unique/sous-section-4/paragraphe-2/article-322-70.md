@@ -1,0 +1,3 @@
+# Article 322-70
+
+Lorsque la personne morale émettrice est conduite à réaliser, sur instruction d'un détenteur de titres financiers nominatifs purs, un transfert de portefeuille de titres financiers auprès d'un intermédiaire teneur de compte-conservateur, dans les conditions mentionnées au 5° de l'article 322-7, elle fournit dans les meilleurs délais au nouveau teneur de compte-conservateur toutes les informations qui lui sont nécessaires, notamment celles relatives à l'identification précise des détenteurs concernés et celles qui sont exigées pour l'établissement des déclarations fiscales, en particulier les informations sur le prix de revient fiscal.

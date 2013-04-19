@@ -8,6 +8,8 @@ Les tâches de la tenue de compte émission sont les suivantes :
 
 3° Organiser le règlement et la livraison simultanés consécutifs à la création ou à la radiation de parts ou d'actions ; le teneur de compte émetteur organise également la livraison et, le cas échéant, le règlement consécutifs à tout autre transfert de parts ou d'actions. Lorsqu'un système de règlement et de livraison de titres est utilisé, il s'assure de l'existence de procédures adaptées ;
 
-4° S'assurer que le nombre total de parts ou d'actions émises, à une date donnée, correspond au nombre de parts ou actions en circulation à la même date, revêtant la forme nominative et, le cas échéant, au porteur.
+4° S'assurer que le nombre total de parts ou d'actions émises, à une date donnée, correspond au nombre de parts ou actions en circulation à la même date, revêtant la forme nominative et, le cas échéant, au porteur ;
 
-5° Organiser le paiement des coupons et des dividendes et organiser le traitement des opérations sur parts ou actions de l'OPCVM.
+5° Organiser le paiement des coupons et des dividendes et organiser le traitement des opérations sur parts ou actions de l'OPCVM ;
+
+6° Assurer la transmission des informations particulières mentionnées au II (3°) de l'article 322-12, selon le cas, soit aux porteurs directement, soit à leurs intermédiaires teneurs de compte-conservateurs directement, par le dépositaire central ou par tout autre moyen.

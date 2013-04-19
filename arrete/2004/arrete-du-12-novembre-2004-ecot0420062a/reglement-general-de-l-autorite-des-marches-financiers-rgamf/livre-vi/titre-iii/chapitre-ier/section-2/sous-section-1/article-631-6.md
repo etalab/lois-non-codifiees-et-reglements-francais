@@ -1,6 +1,6 @@
 # Article 631-6
 
-Conformément aux dispositions de l'article 6 du règlement n° 2273/2003 de la Commission européenne du 22 décembre 2003, l'émetteur doit s'abstenir d'intervenir sur ses propres titres :
+Conformément aux dispositions de l'article 6 du règlement n° 2273/2003 de la Commission européenne du 22 décembre 2003, l'émetteur dont les titres de capital sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation organisé au sens de l'article 524-1 doit s'abstenir d'intervenir sur ses propres titres :
 
 1° Pendant la période comprise entre la date à laquelle cette société a connaissance d'une information privilégiée et la date à laquelle cette information est rendue publique ;
 
