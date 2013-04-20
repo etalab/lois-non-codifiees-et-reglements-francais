@@ -9,11 +9,13 @@ La série du baccalauréat décerné aux élèves italiens sera déterminée con
 <tr>
 <th>
 <br/>SÉRIES DU SYSTÈME <br/>
-<br/>éducatif italien <br/>
+<p>éducatif italien <br/>
+</p>
 </th>
 <th colspan="4">
 <br/>SÉRIES DU SYSTÈME <br/>
-<br/>éducatif français <br/>
+<p>éducatif français <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -58,16 +60,19 @@ La série de l'Esame di Stato décerné aux élèves français sera déterminée
 <tr>
 <th>
 <br/>SÉRIES DU SYSTÈME <br/>
-<br/>éducatif français <br/>
+<p>éducatif français <br/>
+</p>
 </th>
 <th colspan="4">
 <br/>SÉRIES DU SYSTÈME <br/>
-<br/>éducatif italien <br/>
+<p>éducatif italien <br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Baccalauréat série littéraire avec latin et grec en épreuves facultatives <br/>
+<br/>Baccalauréat série littéraire avec les deux épreuves facultatives suivantes :<p>- langues et cultures de l'antiquité : latin ;</p>
+<p>- langues et cultures de l'antiquité : grec</p>
 </td>
 <td align="center">
 <br/>Liceo classico <br/>

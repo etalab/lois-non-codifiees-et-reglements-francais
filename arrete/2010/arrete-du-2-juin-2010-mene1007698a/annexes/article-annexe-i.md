@@ -1,14 +1,12 @@
 # Article Annexe I
 
-<div align="center">GRILLE DE CONVERSION DES NOTES ENTRE LE SYSTÈME FRANÇAIS ET LE SYSTÈME ALLEMAND</div>
-<div align="center"/>
+GRILLE DE CONVERSION DES NOTES ENTRE LE SYSTÈME FRANÇAIS ET LE SYSTÈME ALLEMAND
+
 <div align="center">
 <table>
 <tbody>
 <tr>
 <td width="79">
-<br/>
-<br/>
 <br/>
 </td>
 <td width="88">
@@ -102,8 +100,6 @@
 <p align="right">14 </p>
 </td>
 <td rowspan="3" width="81">
-<br/>
-<br/>
 <br/>
 </td>
 </tr>
@@ -389,7 +385,7 @@
 <p align="right">1,7 </p>
 </td>
 <td width="80">
-<p align="right">11,89 </p>
+<p align="right">11,90 </p>
 </td>
 <td width="42">
 <p align="center">-</p>
@@ -432,8 +428,6 @@
 <p align="right">11 </p>
 </td>
 <td rowspan="8" width="81">
-<br/>
-<br/>
 <br/>
 </td>
 </tr>
@@ -693,7 +687,7 @@
 <p align="center">12,4 </p>
 </td>
 <td width="80">
-<p align="right">9,58 </p>
+<p align="right">9,59 </p>
 </td>
 <td width="42">
 <p align="center">-</p>
@@ -842,8 +836,6 @@
 </td>
 <td rowspan="7" width="81">
 <br/>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -950,7 +942,7 @@
 <p align="center">-</p>
 </td>
 <td width="80">
-<p align="right">4,41 </p>
+<p align="right">7,40 </p>
 </td>
 <td rowspan="4" width="79">
 <p align="right">07 </p>
@@ -1018,7 +1010,7 @@
 <p align="right">3,5 </p>
 </td>
 <td width="80">
-<p align="right">6,50 </p>
+<p align="right">6,59 </p>
 </td>
 <td width="42">
 <p align="center">-</p>
@@ -1061,7 +1053,7 @@
 <p align="right">3,7 </p>
 </td>
 <td width="80">
-<p align="right">5,80 </p>
+<p align="right">5,90 </p>
 </td>
 <td width="42">
 <p align="center">-</p>
@@ -1090,8 +1082,6 @@
 <p align="right">05 </p>
 </td>
 <td rowspan="3" width="81">
-<br/>
-<br/>
 <br/>
 </td>
 </tr>
@@ -1128,7 +1118,6 @@
 <p align="center">Nicht bestanden / Ajourné(e)</p>
 </td>
 <td width="81">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1585,8 +1574,6 @@
 </td>
 <td rowspan="14" width="81">
 <br/>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1750,7 +1737,7 @@
 <p align="right">4,70 </p>
 </td>
 <td width="80">
-<p align="right">3,20 </p>
+<p align="right">3,29 </p>
 </td>
 <td width="42">
 <p align="center">-</p>
@@ -1966,7 +1953,7 @@
 <p align="center">-</p>
 </td>
 <td width="80">
-<p align="right">0,65 </p>
+<p align="right">2,65 </p>
 </td>
 </tr>
 <tr>
@@ -2043,8 +2030,6 @@
 <p align="center">Ungenügend (insuffisant)</p>
 </td>
 <td rowspan="50" width="81">
-<br/>
-<br/>
 <br/>
 </td>
 </tr>
@@ -2821,7 +2806,7 @@
 <p align="right">5,94 </p>
 </td>
 <td width="80">
-<p align="right">0,29 </p>
+<p align="right">0,19 </p>
 </td>
 <td width="42">
 <p align="center">-</p>
@@ -2883,5 +2868,4 @@
 </tr>
 </tbody>
 </table>
-<br/>
 </div>

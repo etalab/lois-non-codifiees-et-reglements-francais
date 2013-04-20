@@ -4,9 +4,9 @@ Les candidats au Bachibac subissent les épreuves de la série du baccalauréat 
 
 En vue de l'obtention du baccalauréat, la moyenne du candidat est établie selon la réglementation en vigueur pour la série du baccalauréat concernée. Aux notes de langue vivante 1 et d'histoire-géographie se substituent les notes obtenues aux épreuves spécifiques, de la manière suivante :
 
-― la note obtenue à l'épreuve écrite de langue et littérature espagnoles est prise en compte au titre de la note de langue vivante 1 ;
+- la moyenne des notes obtenues aux épreuves écrite et orale de langue et littérature espagnoles est prise en compte au titre de la note de langue vivante 1 ;
 
-― la note globale obtenue à l'épreuve spécifique d'histoire-géographie est prise en compte au titre de la note d'histoire-géographie.
+- la note globale obtenue à l'épreuve spécifique d'histoire-géographie est prise en compte au titre de la note d'histoire-géographie.
 
 A compter de la session 2013 de l'examen du baccalauréat général, les candidats de la série scientifique scolarisés dans une section Bachibac :
 
@@ -16,4 +16,8 @@ A compter de la session 2013 de l'examen du baccalauréat général, les candida
 
 - s'ils choisissent de ne pas se présenter au titre du Bachibac, passent en fin de classe terminale l'épreuve obligatoire d'histoire-géographie telle qu'elle est prévue par les dispositions de l'arrêté du 15 septembre 1993 susvisé relatif aux épreuves anticipées du baccalauréat général et du baccalauréat technologique.
 
-A compter de la session 2013 de l'examen du baccalauréat général, les candidats au titre du Bachibac dans la série littéraire subissent l'épreuve de littérature étrangère en langue étrangère dans une autre langue que la langue espagnole.
+A compter de la session 2013 de l'examen du baccalauréat général, les candidats au titre du Bachibac dans la série littéraire :
+
+- subissent l'épreuve de littérature étrangère en langue étrangère dans une autre langue que la langue espagnole ;
+
+- ne sont pas autorisés à choisir une langue vivante régionale au titre de l'épreuve de langue vivante 2.
