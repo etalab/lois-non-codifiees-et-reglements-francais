@@ -4,7 +4,7 @@ La composition de ce comité est fixée comme suit :
 
 a) Représentants de l'administration :
 
-― le chef d'organisme de l'Hôtel national des invalides ou son représentant qui en assure la présidence ;
+― le chef d'emprise de l'Hôtel national des invalides ou son représentant qui en assure la présidence ;
 
 ― les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
 
