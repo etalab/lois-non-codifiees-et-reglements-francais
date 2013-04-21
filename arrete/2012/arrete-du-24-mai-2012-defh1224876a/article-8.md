@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur du service national de Compiègne est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur du service national d'Orléans est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

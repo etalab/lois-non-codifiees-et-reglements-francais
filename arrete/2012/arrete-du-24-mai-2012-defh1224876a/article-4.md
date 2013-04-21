@@ -4,7 +4,7 @@ La composition de ce comité est fixée comme suit :
 
 a) Représentants de l'administration :
 
-― le directeur du service national de Compiègne ou son représentant qui en assure la présidence ;
+― le directeur du service national d'Orléans ou son représentant qui en assure la présidence ;
 
 ― les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
 
