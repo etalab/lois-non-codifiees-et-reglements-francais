@@ -1018,7 +1018,6 @@
 - [Arrêté du 12 juin 2012 (DEFH1226481A)](arrete-du-12-juin-2012-defh1226481a)
 - [Arrêté du 12 juin 2012 (DEFH1226485A)](arrete-du-12-juin-2012-defh1226485a)
 - [Arrêté du 12 juin 2012 (DEFH1226497A)](arrete-du-12-juin-2012-defh1226497a)
-- [Arrêté du 12 juin 2012 (DEFH1226501A)](arrete-du-12-juin-2012-defh1226501a)
 - [Arrêté du 12 juin 2012 (DEFH1226504A)](arrete-du-12-juin-2012-defh1226504a)
 - [Arrêté du 12 juin 2012 (DEFH1226522A)](arrete-du-12-juin-2012-defh1226522a)
 - [Arrêté du 12 juin 2012 (DEFH1226526A)](arrete-du-12-juin-2012-defh1226526a)
