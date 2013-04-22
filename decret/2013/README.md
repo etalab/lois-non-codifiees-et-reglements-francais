@@ -181,6 +181,7 @@
 - [Décret n°2013-153 du 19 février 2013 (INTE1232814D)](decret-n2013-153-du-19-fevrier-2013-inte1232814d)
 - [Décret n°2013-231 du 19 mars 2013 (INTJ1232046D)](decret-n2013-231-du-19-mars-2013-intj1232046d)
 - [Décret n°2013-328 du 19 avril 2013 (MENH1305375D)](decret-n2013-328-du-19-avril-2013-menh1305375d)
+- [Décret n°2013-332 du 19 avril 2013 (BUDD1308136D)](decret-n2013-332-du-19-avril-2013-budd1308136d)
 - [Décret n°97-1189 du 19 décembre 1997 (MENX9700150D)](decret-n97-1189-du-19-decembre-1997-menx9700150d)
 - [Décret n°97-1196 du 19 décembre 1997 (DEFX9700136D)](decret-n97-1196-du-19-decembre-1997-defx9700136d)
 - [Décret n°2009-318 du 20 mars 2009 (ECES0826515D)](decret-n2009-318-du-20-mars-2009-eces0826515d)
