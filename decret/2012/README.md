@@ -996,6 +996,7 @@
 - [Décret n°92-1370 du 29 décembre 1992 (BUDR9204121D)](decret-n92-1370-du-29-decembre-1992-budr9204121d)
 - [Décret n°2002-1105 du 30 août 2002 (PRMG0270573D)](decret-n2002-1105-du-30-aout-2002-prmg0270573d)
 - [Décret n°2011-2048 du 30 décembre 2011 (MAEA1026501D)](decret-n2011-2048-du-30-decembre-2011-maea1026501d)
+- [Décret n°2011-2080 du 30 décembre 2011 (BCRD1134061D)](decret-n2011-2080-du-30-decembre-2011-bcrd1134061d)
 - [Décret n°2011-2085 du 30 décembre 2011 (BCRS1135079D)](decret-n2011-2085-du-30-decembre-2011-bcrs1135079d)
 - [Décret n°2011-2097 du 30 décembre 2011 (SCSA1132481D)](decret-n2011-2097-du-30-decembre-2011-scsa1132481d)
 - [Décret n°2011-2111 du 30 décembre 2011 (IOCJ1128526D)](decret-n2011-2111-du-30-decembre-2011-iocj1128526d)
