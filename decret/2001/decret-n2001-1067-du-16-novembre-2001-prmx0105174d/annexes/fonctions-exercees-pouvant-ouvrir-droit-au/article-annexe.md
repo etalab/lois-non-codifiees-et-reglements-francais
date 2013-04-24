@@ -24,9 +24,9 @@ B.-Fonctions exercées au secrétariat général de la défense et de la sécuri
 
 4° Directeur adjoint et sous-directeur d'administration centrale.
 
-C.-Fonctions exercées au Centre d'analyse stratégique
+C.-Fonctions exercées au Commissariat général à la stratégie et à la prospective.
 
-1° Directeur général du Centre d'analyse stratégique.
+1° Commissaire général à la stratégie et à la prospective.
 
 2° Chef de service.
 
