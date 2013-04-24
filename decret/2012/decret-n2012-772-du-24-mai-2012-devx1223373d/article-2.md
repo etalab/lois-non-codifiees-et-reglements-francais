@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Le ministre de l'écologie, du développement durable et de l'énergie a autorité sur les services mentionnés dans le décret du 9 juillet 2008 susvisé, à l'exception de la délégation à la sécurité et à la circulation routières, sur le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques, sur le centre d'études techniques maritimes et fluviales et sur la direction des pêches maritimes et de l'aquaculture.
+I.-Le ministre de l'écologie, du développement durable et de l'énergie a autorité sur les services mentionnés dans le décret du 9 juillet 2008 susvisé, à l'exception de la délégation à la sécurité et à la circulation routières, sur le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques, sur le centre d'études techniques maritimes et fluviales et sur la direction des pêches maritimes et de l'aquaculture.
 
 Cette autorité s'exerce :
 
@@ -8,7 +8,7 @@ Cette autorité s'exerce :
 
 2° Conjointement avec le ministre des affaires sociales et de la santé sur la direction générale de la prévention des risques lorsque celle-ci exerce ses compétences en matière de radioprotection.
 
-II. - Le ministre de l'écologie, du développement durable et de l'énergie dispose :
+II.-Le ministre de l'écologie, du développement durable et de l'énergie dispose :
 
 1° Du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
@@ -30,7 +30,7 @@ II. - Le ministre de l'écologie, du développement durable et de l'énergie dis
 
 10° Pour les affaires relatives à l'énergie, de la direction des affaires juridiques du ministère de l'économie, des finances et de l'industrie.
 
-III. - Le ministre de l'écologie, du développement durable et de l'énergie peut faire appel :
+III.-Le ministre de l'écologie, du développement durable et de l'énergie peut faire appel :
 
 1° En tant que de besoin, à l'inspection générale des affaires sociales ;
 
@@ -40,4 +40,4 @@ III. - Le ministre de l'écologie, du développement durable et de l'énergie pe
 
 4° Aux services qui concourent à la politique en matière de pêche maritime et de cultures marines ;
 
-5° Au Centre d'analyse stratégique.
+5° Au    Commissariat général à la stratégie et à la prospective.

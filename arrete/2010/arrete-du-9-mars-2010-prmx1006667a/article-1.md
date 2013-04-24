@@ -8,7 +8,7 @@ Dans les services du Premier ministre, le comité d'attribution mentionné à l'
 
 ― le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
-― le directeur général du centre d'analyse stratégique ;
+― le commissaire général à la stratégie et à la prospective ;
 
 ― le directeur des services administratifs et financiers ;
 

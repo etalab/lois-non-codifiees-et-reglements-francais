@@ -27,3 +27,4 @@
 - [Décret n°2011-1034 du 30 août 2011 (ETSS1123735D)](decret-n2011-1034-du-30-aout-2011-etss1123735d)
 - [Décret n°2011-1723 du 30 novembre 2011 (AGRT1122179D)](decret-n2011-1723-du-30-novembre-2011-agrt1122179d)
 - [Décret n°2011-616 du 30 mai 2011 (BCRW1025336D)](decret-n2011-616-du-30-mai-2011-bcrw1025336d)
+- [Décret n°2011-628 du 1er juin 2011 (VILV1030268D)](decret-n2011-628-du-1er-juin-2011-vilv1030268d)

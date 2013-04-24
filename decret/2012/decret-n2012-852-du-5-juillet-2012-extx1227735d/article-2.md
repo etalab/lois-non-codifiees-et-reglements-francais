@@ -18,4 +18,4 @@ III. ― Conjointement avec le ministre de l'économie et des finances, le minis
 
 IV. ― Pour l'exercice de ses attributions, le ministre du commerce extérieur dispose de la direction générale de la compétitivité, de l'industrie et des services.
 
-V. ― Le ministre du commerce extérieur fait appel, en tant que de besoin, au Centre d'analyse stratégique et aux autres administrations qui concourent à l'exercice de ses attributions.
+V. ― Le ministre du commerce extérieur fait appel, en tant que de besoin, au    Commissariat général à la stratégie et à la prospective et aux autres administrations qui concourent à l'exercice de ses attributions.

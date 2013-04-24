@@ -4,27 +4,27 @@ Le conseil du centre comprend un président et dix-sept membres.
 
 Sont membres de droit du conseil :
 
-- le directeur général du Centre d'analyse stratégique ;
+-le Commissaire général à la stratégie et à la prospective ;
 
-- le secrétaire général de la défense et de la sécurité nationale ;
+-le secrétaire général de la défense et de la sécurité nationale ;
 
-- le directeur général du Trésor ;
+-le directeur général du Trésor ;
 
-- le sous-gouverneur de la Banque de France ;
+-le sous-gouverneur de la Banque de France ;
 
-- le directeur général de la compétitivité, de l'industrie et des services ;
+-le directeur général de la compétitivité, de l'industrie et des services ;
 
-- le directeur général de la mondialisation, du développement et des partenariats ;
+-le directeur général de la mondialisation, du développement et des partenariats ;
 
-- le directeur de la prospective au ministère chargé des affaires étrangères ;
+-le directeur de la prospective au ministère chargé des affaires étrangères ;
 
-- le directeur général de l'Institut national de la statistique et des études économiques ;
+-le directeur général de l'Institut national de la statistique et des études économiques ;
 
-- le directeur général d'UBIFRANCE ;
+-le directeur général d'UBIFRANCE ;
 
-- le directeur général des politiques agricole, alimentaire et des territoires ;
+-le directeur général des politiques agricole, alimentaire et des territoires ;
 
-- le directeur de l'Institut français des relations internationales.
+-le directeur de l'Institut français des relations internationales.
 
 Le conseil comprend également six personnalités choisies en raison de leur compétence et de leur expérience dans le domaine d'activité du centre.
 

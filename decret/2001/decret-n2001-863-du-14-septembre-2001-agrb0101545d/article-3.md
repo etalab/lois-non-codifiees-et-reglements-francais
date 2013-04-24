@@ -6,7 +6,7 @@ Sont membres de droit de la commission :
 
 -le directeur général de l'INSEE ;
 
--le        directeur général du Trésor ;
+-le directeur général du Trésor ;
 
 -le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
@@ -18,7 +18,7 @@ Sont membres de droit de la commission :
 
 -le chef du service de la statistique et de la prospective ;
 
--le directeur général du centre d'analyse stratégique.
+-le Commissaire général à la stratégie et à la prospective.
 
 Les autres membres de la commission sont désignés par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de l'agriculture, pour une durée de trois ans ; ils comprennent :
 

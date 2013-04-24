@@ -6,7 +6,7 @@ Le secrétaire général du Gouvernement.
 
 Le secrétaire général de la défense et de la sécurité nationale.
 
-Le directeur général du Centre d'analyse stratégique.
+Le Commissaire général à la stratégie et à la prospective.
 
 Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale.
 

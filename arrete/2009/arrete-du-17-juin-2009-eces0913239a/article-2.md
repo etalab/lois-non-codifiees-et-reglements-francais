@@ -4,9 +4,9 @@ Outre le président, elle comprend les membres suivants :
 
 1. Le gouverneur de la Banque de France ;
 
-2. Le directeur du Centre d'analyse stratégique ;
+2. Le Commissaire général à la stratégie et à la prospective ;
 
-3. Le directeur général de l'  Institut national de l'information géographique et forestière ;
+3. Le directeur général de l'Institut national de l'information géographique et forestière ;
 
 4. Le délégué à l'aménagement et à la compétitivité des territoires ;
 

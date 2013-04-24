@@ -66,4 +66,4 @@ V. ― Pour l'exercice de ses attributions, le ministre de l'économie et des fi
 
 ― de la direction générale de l'offre de soins.
 
-VI. ― Le ministre de l'économie et des finances fait appel, en tant que de besoin, au Centre d'analyse stratégique.
+VI. ― Le ministre de l'économie et des finances fait appel, en tant que de besoin, au Commissariat général à la stratégie et à la prospective.

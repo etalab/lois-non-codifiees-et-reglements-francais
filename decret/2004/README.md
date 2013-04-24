@@ -178,7 +178,6 @@
 - [Décret n°2004-325 du 8 avril 2004 (INDI0302128D)](decret-n2004-325-du-8-avril-2004-indi0302128d)
 - [Décret n°2004-515 du 8 juin 2004 (MENF0400811D)](decret-n2004-515-du-8-juin-2004-menf0400811d)
 - [Décret n°2004-516 du 8 juin 2004 (MENF0400812D)](decret-n2004-516-du-8-juin-2004-menf0400812d)
-- [Décret n°2004-666 du 8 juillet 2004 (PRMX0407460D)](decret-n2004-666-du-8-juillet-2004-prmx0407460d)
 - [Décret n°2004-668 du 8 juillet 2004 (MCCX0407456D)](decret-n2004-668-du-8-juillet-2004-mccx0407456d)
 - [Décret n°2004-673 du 8 juillet 2004 (INTA0400177D)](decret-n2004-673-du-8-juillet-2004-inta0400177d)
 - [Décret n°2004-674 du 8 juillet 2004 (SOCV0410804D)](decret-n2004-674-du-8-juillet-2004-socv0410804d)

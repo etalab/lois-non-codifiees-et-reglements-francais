@@ -26,13 +26,13 @@ j) Un membre désigné par l'Union nationale des professions libérales (UNAPL) 
 
 2° Deux députés et deux sénateurs respectivement désignés par le président de l'Assemblée nationale et par le président du Sénat ;
 
-3° Deux membres du   Conseil économique, social et environnemental désignés par le président du   Conseil économique, social et environnemental ;
+3° Deux membres du Conseil économique, social et environnemental désignés par le président du Conseil économique, social et environnemental ;
 
 4° Un représentant de l'Association des maires de France (AMF), un représentant de l'Assemblée des départements de France (ADF), un représentant de l'Association des régions de France (ARF) ;
 
 5° Douze représentants des administrations et organismes chargés d'une mission de service public :
 
-a) Le directeur général du Centre d'analyse stratégique ;
+a) Commissaire général à la stratégie et à la prospective.
 
 b) Le délégué général à l'emploi et à la formation professionnelle ;
 
@@ -56,10 +56,10 @@ k) Le directeur général de l'UNEDIC ;
 
 l) Le directeur de la sécurité sociale ;
 
-6° Le président du Conseil de l'emploi, des revenus et de la cohésion sociale ;
+6° (Supprimé)
 
 7° Quinze personnalités choisies en raison de leur compétence et de leur expérience et nommées par le Premier ministre.
 
 Le Premier ministre nomme le président et le vice-président du Conseil d'orientation pour l'emploi parmi les membres mentionnés au 7°.
 
-Les membres autres que ceux énumérés aux 5° et 6° sont nommés pour une durée de trois ans. Toutefois, les désignations prévues au 2° sont renouvelées après chaque élection générale en ce qui concerne les députés et après chaque renouvellement triennal du Sénat en ce qui concerne les sénateurs. Toute personne ayant perdu la qualité en raison de laquelle elle a été nommée cesse d'appartenir au conseil.
+Les membres autres que ceux énumérés au 5° sont nommés pour une durée de trois ans. Toutefois, les désignations prévues au 2° sont renouvelées après chaque élection générale en ce qui concerne les députés et après chaque renouvellement triennal du Sénat en ce qui concerne les sénateurs. Toute personne ayant perdu la qualité en raison de laquelle elle a été nommée cesse d'appartenir au conseil.

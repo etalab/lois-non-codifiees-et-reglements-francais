@@ -4,7 +4,7 @@ Sont membres du Conseil national de l'information statistique et participent à 
 
 1° Un député, un sénateur et un membre du conseil économique, social et environnemental ;
 
-2° Le directeur général de l'Institut national de la statistique et des études économiques, le gouverneur de la Banque de France, le directeur de l'Institut national d'études démographiques, le directeur général du Centre d'analyse stratégique, ou leur représentant ;
+2° Le directeur général de l'Institut national de la statistique et des études économiques, le gouverneur de la Banque de France, le directeur de l'Institut national d'études démographiques, le Commissaire général à la stratégie et à la prospective ou leur représentant ;
 
 3° Un représentant de la Confédération générale du travail, un représentant de la Confédération française démocratique du travail, un représentant de la Confédération générale du travail-Force ouvrière, un représentant de la Confédération française des travailleurs chrétiens et un représentant de la Confédération française de l'encadrement-CGC désignés par les organisations qu'ils représentent ;
 

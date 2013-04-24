@@ -224,6 +224,7 @@
 - [Décret n°2013-95 du 24 janvier 2013 (AGRT1235857D)](decret-n2013-95-du-24-janvier-2013-agrt1235857d)
 - [Décret n°2013-96 du 24 janvier 2013 (AGRT1235847D)](decret-n2013-96-du-24-janvier-2013-agrt1235847d)
 - [Décret n°2013-97 du 24 janvier 2013 (AGRT1241590D)](decret-n2013-97-du-24-janvier-2013-agrt1241590d)
+- [Décret n°76-842 du 24 août 1976](decret-n76-842-du-24-aout-1976)
 - [Décret n°2013-167 du 25 février 2013 (ETLK1242990D)](decret-n2013-167-du-25-fevrier-2013-etlk1242990d)
 - [Décret n°2013-168 du 25 février 2013 (DEVL1301289D)](decret-n2013-168-du-25-fevrier-2013-devl1301289d)
 - [Décret n°2013-169 du 25 février 2013 (DEVL1301290D)](decret-n2013-169-du-25-fevrier-2013-devl1301290d)

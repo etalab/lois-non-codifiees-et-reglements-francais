@@ -26,4 +26,4 @@ IV. ― Le ministre de l'artisanat, du commerce et du tourisme fait appel, en ta
 
 ― au service du contrôle général économique et financier ;
 
-― au Centre d'analyse stratégique.
+― au    Commissariat général à la stratégie et à la prospective.

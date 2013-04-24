@@ -1,3 +1,3 @@
 # Article 5
 
-Les fonctionnaires relevant du Centre d'analyse stratégique sont notés tous les ans.
+Les fonctionnaires relevant du    Commissariat général à la stratégie et à la prospective sont notés tous les ans.

@@ -4,11 +4,11 @@ Le secrétaire général de la mer réunit en tant que de besoin sous sa présid
 
 -le chef d'état-major de la marine ou son représentant ;
 
--le     secrétaire général de la défense et de la sécurité nationale ou son représentant ;
+-le secrétaire général de la défense et de la sécurité nationale ou son représentant ;
 
 -le secrétaire général du comité interministériel pour les questions de coopération économique européenne, ou son représentant ;
 
--le directeur général du Centre d'analyse stratégique ou son représentant ;
+-le Commissaire général à la stratégie et à la prospective ou son représentant ;
 
 -le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
 

@@ -16,7 +16,6 @@
 - [Décret n°2000-200 du 6 mars 2000 (MAEF9910042D)](decret-n2000-200-du-6-mars-2000-maef9910042d)
 - [Décret n°2000-216 du 6 mars 2000 (MENK0000420D)](decret-n2000-216-du-6-mars-2000-menk0000420d)
 - [Décret n°2000-981 du 6 octobre 2000 (JUSA0000116D)](decret-n2000-981-du-6-octobre-2000-jusa0000116d)
-- [Décret n°2000-302 du 7 avril 2000 (PRMX0000055D)](decret-n2000-302-du-7-avril-2000-prmx0000055d)
 - [Décret n°2000-874 du 7 septembre 2000 (ECOI0000361D)](decret-n2000-874-du-7-septembre-2000-ecoi0000361d)
 - [Décret n°2000-877 du 7 septembre 2000 (ECOI0000375D)](decret-n2000-877-du-7-septembre-2000-ecoi0000375d)
 - [Décret n°2000-103 du 8 février 2000 (ECOR9904577D)](decret-n2000-103-du-8-fevrier-2000-ecor9904577d)

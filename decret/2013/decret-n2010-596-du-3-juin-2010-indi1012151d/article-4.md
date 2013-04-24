@@ -14,6 +14,8 @@ Le conseil national de l'industrie comprend, outre son président :
 
 - le président de l'Assemblée permanente des chambres de métiers et de l'artisanat ;
 
+- le commissaire général à la stratégie et à la prospective ;
+
 - le commissaire général à l'investissement ;
 
 - le commissaire aux participations de l'Etat ;

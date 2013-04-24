@@ -6,7 +6,7 @@ Le bureau du Conseil national de l'information statistique, présidé par le pr�
 
 2° Le gouverneur de la Banque de France ou son représentant ;
 
-3° Le directeur général du Centre d'analyse stratégique ou son représentant ;
+3° Le Commissaire général à la stratégie et à la prospective ou son représentant ;
 
 4° Les représentants de la Confédération générale du travail, de la Confédération française démocratique du travail, de la Confédération générale du travail-Force ouvrière, de la Confédération française des travailleurs chrétiens et de la Confédération française de l'encadrement-CGC mentionnés au 3° de l'article 5 ;
 

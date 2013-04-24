@@ -6,13 +6,13 @@ Le conseil scientifique comprend :
 
 2° Quatre personnalités désignées, respectivement, sur proposition :
 
--du directeur général du Centre d'analyse stratégique ;
+-du Commissaire général à la stratégie et à la prospective ;
 
 -du directeur général du Centre national de la recherche scientifique ;
 
 -du directeur général de l'Institut national de la statistique et des études économiques ;
 
--du directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
+-du directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 3° Trois membres élus par les personnels du centre selon des modalités définies par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé de la recherche.
 
