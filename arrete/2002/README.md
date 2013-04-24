@@ -207,7 +207,6 @@
 - [Arrêté du 8 février 2002 (ECOP0100532A)](arrete-du-8-fevrier-2002-ecop0100532a)
 - [Arrêté du 8 février 2002 (EQUP0200225A)](arrete-du-8-fevrier-2002-equp0200225a)
 - [Arrêté du 8 février 2002 (EQUP0200226A)](arrete-du-8-fevrier-2002-equp0200226a)
-- [Arrêté du 8 février 2002 (PRMX0205371A)](arrete-du-8-fevrier-2002-prmx0205371a)
 - [Arrêté du 8 janvier 2002 (ECOC0100129A)](arrete-du-8-janvier-2002-ecoc0100129a)
 - [Arrêté du 8 janvier 2002 (EQUT0101837A)](arrete-du-8-janvier-2002-equt0101837a)
 - [Arrêté du 8 janvier 2002 (MCCB0100739A)](arrete-du-8-janvier-2002-mccb0100739a)
