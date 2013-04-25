@@ -17,6 +17,6 @@ La réduction prévue au deuxième alinéa du I de l'article L. 136-2 du code de
 
 L'employeur notifie, au plus tard le 31 décembre de l'année suivant le versement à l'organisme de recouvrement dont il relève, le montant des sommes versées aux salariés en précisant le montant par salarié.
 
-II bis.-La durée maximale de l'exclusion d'assiette prévue au II est portée à quatre ans.
+II bis.-La durée maximale de l'exclusion d'assiette prévue au II est portée à cinq ans et s'applique, par dérogation au dernier alinéa du I, aux sommes versées au plus tard le 31 décembre 2013.
 
 III. ― Les II et II bis sont applicables à Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy.
