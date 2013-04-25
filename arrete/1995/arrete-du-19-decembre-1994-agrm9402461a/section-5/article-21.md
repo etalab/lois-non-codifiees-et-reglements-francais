@@ -29,3 +29,5 @@ e) Le maillage minimal est de 75 mm ;
 f) L'utilisation d'une seule drague à bord ;
 
 La présence à bord d'autres engins de pêche que la petite drague à coquillages est interdite.
+
+3. La puissance maximale du moteur autorisée pour les navires pratiquant la pêche à la petite drague à coquillages, également appelée "drague d'étang", est de 85 kilowatts. Cette puissance ne peut être atteinte par tarage de l'appareil propulsif.
