@@ -1212,6 +1212,8 @@ Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 4250
 
 Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Porte-lès-Valence : de 1950 à 1996 ;
 
+PRODUITS CHIMIQUES UGINE KUHLMANN puis AIDCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
+
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
 
 SAVIEM puis RVI, Avenue Ferdinand-Janvier, 07100 Annonay : de 1962 à 1993 ;
