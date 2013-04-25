@@ -20,6 +20,7 @@
 - [Décret n°2011-199 du 22 février 2011 (IOCA1032643D)](decret-n2011-199-du-22-fevrier-2011-ioca1032643d)
 - [Décret n°2010-1639 du 23 décembre 2010 (JUSK1026110D)](decret-n2010-1639-du-23-decembre-2010-jusk1026110d)
 - [Décret n°2010-1640 du 23 décembre 2010 (JUSK1026111D)](decret-n2010-1640-du-23-decembre-2010-jusk1026111d)
+- [Décret n°2011-1181 du 23 septembre 2011 (AGRT1111379D)](decret-n2011-1181-du-23-septembre-2011-agrt1111379d)
 - [Décret n°2011-1184 du 23 septembre 2011 (AGRT1111392D)](decret-n2011-1184-du-23-septembre-2011-agrt1111392d)
 - [Décret n°2011-1617 du 23 novembre 2011 (AGRT1127602D)](decret-n2011-1617-du-23-novembre-2011-agrt1127602d)
 - [Décret n°2011-1618 du 23 novembre 2011 (AGRT1122636D)](decret-n2011-1618-du-23-novembre-2011-agrt1122636d)
