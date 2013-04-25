@@ -2345,7 +2345,6 @@
 - [Arrêté du 25 juillet 2008 (MTSS0818823A)](arrete-du-25-juillet-2008-mtss0818823a)
 - [Arrêté du 25 juin 2009 (ECED0914150A)](arrete-du-25-juin-2009-eced0914150a)
 - [Arrêté du 25 juin 2010 (AGRT1016650A)](arrete-du-25-juin-2010-agrt1016650a)
-- [Arrêté du 25 juin 2010 (DEFK1017177A)](arrete-du-25-juin-2010-defk1017177a)
 - [Arrêté du 25 juin 2010 (DEVE1019092A)](arrete-du-25-juin-2010-deve1019092a)
 - [Arrêté du 25 juin 2010 (DEVO1011638A)](arrete-du-25-juin-2010-devo1011638a)
 - [Arrêté du 25 juin 2010 (ECED1017538A)](arrete-du-25-juin-2010-eced1017538a)
