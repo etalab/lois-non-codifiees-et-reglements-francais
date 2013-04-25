@@ -3302,29 +3302,6 @@ Etablissements en France
 <p align="left">NANCY-METZ </p>
 </td>
 <td valign="top" width="95">
-<p align="left">ALLEMANDE </p>
-</td>
-<td valign="top" width="95">
-<p align="left">Lycée de l'Institution Sainte-Chrétienne </p>
-</td>
-<td valign="top" width="95">
-<p align="left">L</p>
-</td>
-<td valign="top" width="95">
-<p align="left">SARREGUEMINES </p>
-</td>
-<td valign="top" width="113">
-<p align="left">2016</p>
-</td>
-<td valign="top" width="95">
-<p align="left">X</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="95">
-<p align="left">NANCY-METZ </p>
-</td>
-<td valign="top" width="95">
 <p align="left">AMERICAINE </p>
 </td>
 <td valign="top" width="95">
@@ -8367,29 +8344,6 @@ Etablissements français à l'étranger
 </td>
 <td valign="top" width="92">
 <br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="93">
-<p align="left">LUXEMBOURG </p>
-</td>
-<td valign="top" width="93">
-<p align="left">ALLEMANDE </p>
-</td>
-<td valign="top" width="94">
-<p align="left">Lycée Vauban </p>
-</td>
-<td valign="top" width="90">
-<p align="left">L</p>
-</td>
-<td valign="top" width="95">
-<p align="left">LUXEMBOURG </p>
-</td>
-<td valign="top" width="109">
-<p align="left">2016</p>
-</td>
-<td valign="top" width="92">
-<p align="left">X</p>
 </td>
 </tr>
 <tr>
