@@ -573,7 +573,6 @@
 - [Arrêté du 8 janvier 2010 (MENE0925419A)](arrete-du-8-janvier-2010-mene0925419a)
 - [Arrêté du 8 janvier 2010 (MENE0925433A)](arrete-du-8-janvier-2010-mene0925433a)
 - [Arrêté du 8 janvier 2010 (MENE0930030A)](arrete-du-8-janvier-2010-mene0930030a)
-- [Arrêté du 8 janvier 2010 (SASH0917631A)](arrete-du-8-janvier-2010-sash0917631a)
 - [Arrêté du 8 janvier 2010 (SASH0917636A)](arrete-du-8-janvier-2010-sash0917636a)
 - [Arrêté du 8 juillet 2008 (AGRF0816981A)](arrete-du-8-juillet-2008-agrf0816981a)
 - [Arrêté du 8 juillet 2010 (AGRT1016004A)](arrete-du-8-juillet-2010-agrt1016004a)
