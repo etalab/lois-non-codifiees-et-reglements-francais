@@ -6,6 +6,6 @@ Il coordonne au niveau ministériel la mise en œuvre des nouveaux processus et 
 
 Il assure des prestations spécifiques de gestion budgétaire et financière, en dépenses et en recettes.
 
-Il préside le comité ministériel d'audit et assure la coordination et le suivi des audits internes que programme cette instance.
+Il met en place et coordonne le dispositif ministériel de maîtrise des risques et de contrôle interne des ministères économiques et financiers et du ministère chargé de la réforme de l'Etat et de la fonction publique. Il assiste aux séances du comité d'audit interne des ministères qui définit la politique d'audit desdits ministères.
 
 Il élabore les orientations des ministères en matière de politique immobilière et suit leur application. Il apporte l'expertise nécessaire à une gestion efficiente du patrimoine immobilier des directions et services et peut assurer pour eux la maîtrise d'ouvrage et la conduite de certaines opérations.
