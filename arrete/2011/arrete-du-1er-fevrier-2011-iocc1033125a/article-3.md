@@ -10,6 +10,4 @@ La direction centrale de la sécurité publique comprend :
 
 ― la sous-direction des ressources humaines et de la logistique ;
 
-― la mission d'audit et d'assistance ;
-
-― la division nationale de lutte contre le hooliganisme.
+― la coordination centrale des audits et assistances.

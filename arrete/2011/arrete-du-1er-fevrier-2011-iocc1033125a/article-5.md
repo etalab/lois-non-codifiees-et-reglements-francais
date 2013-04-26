@@ -2,9 +2,13 @@
 
 La sous-direction des missions de sécurité comprend :
 
-― la division des unités territoriales et de l'ordre public ;
+― le pôle judiciaire comprenant :
 
 ― la division des activités judiciaires ;
+
+― la division de la police technique et scientifique de proximité ;
+
+― la division des unités territoriales et de l'ordre public ;
 
 ― la division de la prévention et des partenariats ;
 
