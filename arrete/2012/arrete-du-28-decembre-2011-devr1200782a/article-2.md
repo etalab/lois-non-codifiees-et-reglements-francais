@@ -7,6 +7,9 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <table>
 <tbody>
@@ -79,7 +82,7 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">1</p>
 </td>
 <td valign="top" width="75">
-<p align="center">10 mars 2011 -<br/>30 juin<br/>2011</p>
+<p align="center">10 mars<br/>2011 -<br/>30 juin 2011</p>
 </td>
 <td valign="top" width="75">
 <p align="center">0</p>
@@ -282,6 +285,108 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 </td>
 <td valign="top" width="75">
 <p align="center">10,51</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">7</p>
+</td>
+<td valign="top" width="75">
+<p align="center">1er octobre<br/>2012 -<br/>1er décembre<br/>2012</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,035</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,075</p>
+</td>
+<td valign="top" width="75">
+<p align="center">34,15</p>
+</td>
+<td valign="top" width="75">
+<p align="center">29,88</p>
+</td>
+<td valign="top" width="75">
+<p align="center">22,79</p>
+</td>
+<td valign="top" width="75">
+<p align="center">19,76</p>
+</td>
+<td valign="top" width="75">
+<p align="center">19,34</p>
+</td>
+<td valign="top" width="75">
+<p align="center">18,37</p>
+</td>
+<td valign="top" width="75">
+<p align="center">8,40</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="57">
+<p align="center">8</p>
+</td>
+<td valign="top" width="75">
+<p align="center">1er janvier<br/>2013 -<br/>31 janvier 2013</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,075</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,060</p>
+</td>
+<td valign="top" width="75">
+<p align="center">31,59</p>
+</td>
+<td valign="top" width="75">
+<p align="center">27,64</p>
+</td>
+<td valign="top" width="75">
+<p align="center">21,43</p>
+</td>
+<td valign="top" width="75">
+<p align="center">18,58</p>
+</td>
+<td valign="top" width="75">
+<p align="center">18,17</p>
+</td>
+<td valign="top" width="75">
+<p align="center">17,27</p>
+</td>
+<td valign="top" width="75">
+<p align="center">8,18</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p align="center">1er février<br/>2013 -<br/>31 mars 2013</p>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="75">
+<p align="center">Supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">Supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">Supprimé</p>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
 </td>
 </tr>
 </tbody>
