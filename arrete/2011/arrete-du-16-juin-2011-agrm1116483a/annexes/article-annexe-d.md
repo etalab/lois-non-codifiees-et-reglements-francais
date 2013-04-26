@@ -14,4 +14,6 @@ Saint-Guénolé.
 
 Concarneau.
 
+Lorient.
+
 Saint-Jean-de-Luz.

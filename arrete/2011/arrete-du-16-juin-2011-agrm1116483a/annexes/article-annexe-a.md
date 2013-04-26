@@ -10,8 +10,6 @@ Fécamp.
 
 Port-en-Bessin.
 
-Barfleur.
-
 Cherbourg.
 
 Roscoff.
