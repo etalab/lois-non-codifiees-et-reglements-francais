@@ -84,6 +84,8 @@ Centre hospitalier, à Sancerre (Cher) ;
 
 Centre hospitalier gériatrique, à Cornil (Corrèze) ;
 
+établissement public départemental autonome du Glandier, à Beyssac (Corrèze) ;
+
 Centre hospitalier intercommunal, à Corte-Tattone (Haute-Corse) ;
 
 Centre hospitalier, à Bonifacio (Corse-du-Sud) ;
@@ -152,9 +154,9 @@ Etablissement public de santé intercommunal de Lomagne, à Fleurance (Gers) ;
 
 Centre hospitalier, à Condom (Gers) ;
 
-Centre hospitalier, à Nogaro, et établissement d'hébergement pour personnes âgées dépendantes à Eauze (Gers), direction commune ;
+Centre hospitalier intercommunal, à Lombez-Samatan (Gers) ;
 
-Centre hospitalier, à Lombez, et établissement d'hébergement pour personnes âgées dépendantes, à Samatan (Gers), direction commune ;
+Centre hospitalier, à Nogaro, et établissement d'hébergement pour personnes âgées dépendantes à Eauze (Gers), direction commune ;
 
 Centre hospitalier, à Gimont (Gers) ;
 
@@ -306,7 +308,7 @@ Centre départemental de l'enfance, à Metz (Moselle) ;
 
 Etablissement d'hébergement pour personnes âgées dépendantes et Unité de soins de longue durée, à Gorze (Moselle), direction commune ;
 
-Centre hospitalier, à Dieuze, et établissements d'hébergement pour personnes âgées dépendantes, à Albestroff et à Saint-Epvre (Moselle), direction commune ;
+Centre hospitalier, à Dieuze (Moselle).
 
 Centre hospitalier, à La Charité-sur-Loire (Nièvre) ;
 
@@ -355,8 +357,6 @@ EPDAHA, à Arras (Pas-de-Calais) ;
 Centre hospitalier, à Carvin (Pas-de-Calais) ;
 
 Centre hospitalier, à Hesdin (Pas-de-Calais) ;
-
-Institut Albert Calmette, à Camiers (Pas-de-Calais) ;
 
 Etablissement d'hébergement pour personnes âgées dépendantes et établissement public communal, à Saint-Venant (Pas-de-Calais), direction commune ;
 

@@ -136,6 +136,10 @@ Centre de rééducation fonctionnelle du Cantal, à Chaudes-Aigues (Cantal) ;
 
 Hôpital local de Murat (Cantal) ;
 
+Centre hospitalier de Confolens (Charente) ;
+
+Centre hospitalier de Ruffec (Charente) ;
+
 Hôpital local de Jarnac (Charente) ;
 
 Hôpital local et centre d'hébergement du pays d'Horte et Tardoire, à La Rochefoucauld (Charente) ;
@@ -276,9 +280,9 @@ Hôpital local de Muret (Haute-Garonne) ;
 
 Centre hospitalier de Condom (Gers) ;
 
-Hôpital local de Gimont (Gers) ;
+Centre hospitalier intercommunal de Lombez-Samatan (Gers) ;
 
-Hôpital local de Lombez (Gers) ;
+Hôpital local de Gimont (Gers) ;
 
 Hôpital local de Mauvezin (Gers) ;
 
@@ -550,8 +554,6 @@ Centre hospitalier de Jeumont (Nord) ;
 
 Centre hospitalier d'Hautmont (Nord) ;
 
-Centre hospitalier du Quesnoy (Nord) ;
-
 Centre hospitalier de Bailleul (Nord) ;
 
 Centre hospitalier de Zuydcoote (Nord) ;
@@ -595,6 +597,8 @@ Hôpital local de Billom (Puy-de-Dôme) ;
 Hôpital local de Mauléon (Pyrénées-Atlantiques) ;
 
 Centre de long séjour intercommunal de Pontacq (Pyrénées-Atlantiques) ;
+
+Centre hospitalier de Bagnères-de-Bigorre (Hautes-Pyrénées) ;
 
 Hôpital Le Montaigu, à Astugue (Hautes-Pyrénées) ;
 
@@ -735,6 +739,8 @@ Centre hospitalier du Bois Petit, à Sotteville-lès-Rouen (Seine-Maritime) ;
 Centre hospitalier de Caudebec-lès-Elbeuf (Seine-Maritime) ;
 
 Centre hospitalier Desaint-Jean, au Havre (Seine-Maritime) ;
+
+Centre hospitalier de Jouarre (Seine-et-Marne).
 
 Hôpital local de Tournan-en-Brie (Seine-et-Marne) ;
 

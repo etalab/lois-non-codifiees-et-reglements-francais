@@ -148,11 +148,11 @@ Maison de retraite, à Achun (Nièvre) ;
 
 Etablissement d'hébergement pour personnes âgées, à Morbecque (Nord) ;
 
-Etablissement d'hébergement pour personnes âgées, à Annœullin (Nord) ;
-
 Etablissement d'hébergement pour personnes âgées, à Anzin (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Bavay (Nord) ;
+
+Etablissement et services d'aide par le travail, à Montigny-en-Ostrevent (Nord).
 
 Etablissement d'hébergement pour personnes âgées, à Sainghin-en-Weppes (Nord) ;
 

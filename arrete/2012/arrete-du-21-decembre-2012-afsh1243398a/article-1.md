@@ -2,8 +2,6 @@
 
 La liste des établissements relative aux emplois fonctionnels de direction mentionnés à l'article 1er du décret du 9 mai 2012 susvisé est fixée comme suit :
 
-― centre hospitalier du Quesnoy, établissement d'hébergement pour personnes âgées dépendantes à Landrecies et établissement d'hébergement pour personnes âgées dépendantes à Solesmes (Nord), direction commune ;
-
 ― établissement public départemental de soins, d'adaptation et d'éducation, à Lille (Nord) ;
 
 ― institut départemental de l'enfance, de la famille et du handicap pour l'insertion, à Canteleu (Seine-Maritime) ;
