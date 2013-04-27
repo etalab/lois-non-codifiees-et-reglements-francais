@@ -24,14 +24,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services.<br/>
-</p>
+<p align="left">Responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chargé de mission fonds stratégique d'investissement auprès du directeur général de la compétitivité, de l'industrie et des services.<br/>
-</p>
+<p align="left">Chargé de mission fonds stratégique d'investissement auprès du directeur général de la compétitivité, de l'industrie et des services.</p>
 </td>
 </tr>
 <tr>
@@ -120,74 +118,62 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du département compétitivité de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Rhône-Alpes.<br/>
-</p>
+<p align="left">Chef du département compétitivité de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux.<br/>
-</p>
+<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai.<br/>
-</p>
+<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au directeur de la recherche de l'Ecole des mines de Douai.<br/>
-</p>
+<p align="left">Adjoint au directeur de la recherche de l'Ecole des mines de Douai.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au directeur des centrales nucléaires à l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Adjoint au directeur des centrales nucléaires à l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division de Châlons-en-Champagne de l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Chef de la division de Châlons-en-Champagne de l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division de Douai de l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Chef de la division de Douai de l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division de Nantes de l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Chef de la division de Nantes de l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef de la division installations nucléaires, chargé des réacteurs à eau sous-pression au sein de l'Autorité de sûreté nucléaire d'Orléans.<br/>
-</p>
+<p align="left">Adjoint au chef de la division installations nucléaires, chargé des réacteurs à eau sous-pression au sein de l'Autorité de sûreté nucléaire d'Orléans.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable de la mission expertise et animation de l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Responsable de la mission expertise et animation de l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Secrétaire général de l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au directeur des centrales nucléaires et chef du bureau exploitation à la direction des centrales nucléaires de l'Autorité de sûreté nucléaire.<br/>
-</p>
+<p align="left">Adjoint au directeur des centrales nucléaires et chef du bureau exploitation à la direction des centrales nucléaires de l'Autorité de sûreté nucléaire.</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +400,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale de la Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (à compter du 27 novembre 2012).<br/>
+<p align="left">Chef de l'unité territoriale de la Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France. (à compter du 27 novembre 2012).<br/>
 </p>
 </td>
 </tr>
@@ -438,8 +424,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du pôle maîtrise des aléas technologiques à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de― France.<br/>
-</p>
+<p align="left">Adjoint au chef du pôle maîtrise des aléas technologiques à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
@@ -456,8 +441,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service énergie, climat et ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement du Languedoc― Roussillon.<br/>
-</p>
+<p align="left">Chef du service énergie, climat et ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement du Languedoc-Roussillon.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoint au chef du service risques, chef de l'unité risques technologiques accidentels de la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon. (Ajouté le 1er juillet 2013)</p>
 </td>
 </tr>
 <tr>
@@ -612,23 +601,26 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin (Ajouté le 1er février 2013)</p>
+<p align="left">Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin. (Ajouté le 1er février 2013)</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement de l'aménagement et du logement de Nord - Pas-de-Calais (Ajouté le 1er février 2013)</p>
+<p align="left">Adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement de l'aménagement et du logement de Nord - Pas-de-Calais. (Ajouté le 1er février 2013)</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (Ajouté le 1er avril 2013)</p>
+<p align="left">Chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur. (Ajouté le 1er avril 2013)</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat (Ajouté le 1er juin 2013)</p>
+<p align="left">Chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat. (Ajouté le 1er juin 2013)</p>
 </td>
+</tr>
+<tr>
+<td/>
 </tr>
 </tbody>
 </table>
