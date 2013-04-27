@@ -3064,7 +3064,6 @@
 - [Arrêté du 29 mai 2012 (AFSR1224845A)](arrete-du-29-mai-2012-afsr1224845a)
 - [Arrêté du 29 mai 2012 (AGRE1224460A)](arrete-du-29-mai-2012-agre1224460a)
 - [Arrêté du 29 mai 2012 (AGRT1223090A)](arrete-du-29-mai-2012-agrt1223090a)
-- [Arrêté du 29 mai 2012 (BUDD1226118A)](arrete-du-29-mai-2012-budd1226118a)
 - [Arrêté du 29 mai 2012 (DEFH1202644A)](arrete-du-29-mai-2012-defh1202644a)
 - [Arrêté du 29 mai 2012 (DEFH1225154A)](arrete-du-29-mai-2012-defh1225154a)
 - [Arrêté du 29 mai 2012 (DEFH1225161A)](arrete-du-29-mai-2012-defh1225161a)

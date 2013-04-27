@@ -1086,7 +1086,6 @@
 - [Arrêté du 13 juin 2007 (BCFR0755166A)](arrete-du-13-juin-2007-bcfr0755166a)
 - [Arrêté du 13 juin 2007 (BCFR0755167A)](arrete-du-13-juin-2007-bcfr0755167a)
 - [Arrêté du 13 mars 2011 (ETSH1107827A)](arrete-du-13-mars-2011-etsh1107827a)
-- [Arrêté du 13 octobre 2011 (BCRD1127991A)](arrete-du-13-octobre-2011-bcrd1127991a)
 - [Arrêté du 13 octobre 2011 (BCRP1127722A)](arrete-du-13-octobre-2011-bcrp1127722a)
 - [Arrêté du 13 octobre 2011 (DEFM1128382A)](arrete-du-13-octobre-2011-defm1128382a)
 - [Arrêté du 13 octobre 2011 (EFII1127646A)](arrete-du-13-octobre-2011-efii1127646a)
