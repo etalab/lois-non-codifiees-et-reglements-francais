@@ -43,7 +43,6 @@
 - [Décret n°95-872 du 2 août 1995 (ECOP9500372D)](decret-n95-872-du-2-aout-1995-ecop9500372d)
 - [Décret n°95-873 du 2 août 1995 (ECOP9500373D)](decret-n95-873-du-2-aout-1995-ecop9500373d)
 - [Décret n°95-874 du 2 août 1995 (ECOP9500374D)](decret-n95-874-du-2-aout-1995-ecop9500374d)
-- [Décret n°96-863 du 2 octobre 1996 (JUSG9660046D)](decret-n96-863-du-2-octobre-1996-jusg9660046d)
 - [Décret n°96-88 du 2 février 1996 (EQUH9600141D)](decret-n96-88-du-2-fevrier-1996-equh9600141d)
 - [Décret n°95-503 du 2 mai 1995 (RESK9500620D)](decret-n95-503-du-2-mai-1995-resk9500620d)
 - [Décret n°95-510 du 2 mai 1995 (DEFP9501465D)](decret-n95-510-du-2-mai-1995-defp9501465d)

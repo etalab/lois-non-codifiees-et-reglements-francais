@@ -4,6 +4,8 @@ Assistants d'administration de l'aviation civile.
 
 Bibliothécaires assistants spécialisés.
 
+Chargés d'éducation des maisons d'éducation de la Légion d'honneur
+
 Contrôleurs des douanes et droits indirects.
 
 Contrôleurs des finances publiques.
