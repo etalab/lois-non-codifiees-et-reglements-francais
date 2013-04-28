@@ -2494,7 +2494,6 @@
 - [Arrêté du 26 avril 2012 (DEVA1221828A)](arrete-du-26-avril-2012-deva1221828a)
 - [Arrêté du 26 avril 2012 (ESRH1221646A)](arrete-du-26-avril-2012-esrh1221646a)
 - [Arrêté du 26 avril 2012 (ESRS1221738A)](arrete-du-26-avril-2012-esrs1221738a)
-- [Arrêté du 26 avril 2012 (ETSH1222625A)](arrete-du-26-avril-2012-etsh1222625a)
 - [Arrêté du 26 avril 2012 (ETSP1222340A)](arrete-du-26-avril-2012-etsp1222340a)
 - [Arrêté du 26 avril 2012 (ETST1221892A)](arrete-du-26-avril-2012-etst1221892a)
 - [Arrêté du 26 avril 2012 (ETSZ1221712A)](arrete-du-26-avril-2012-etsz1221712a)
