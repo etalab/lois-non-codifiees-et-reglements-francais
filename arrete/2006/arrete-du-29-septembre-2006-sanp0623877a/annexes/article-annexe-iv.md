@@ -122,8 +122,6 @@ IV. - STRATÉGIE D'INVITATION ET DE REMISE DES TESTS
 
 En premier lieu, la structure de gestion s'assure de la disponibilité des fichiers des individus concernés auprès des caisses et sollicite l'obtention de l'accord de la Commission nationale de l'informatique et des libertés (CNIL).
 
-Une stratégie "couplée" est indispensable : celle-ci allie la remise du test par les médecins (phase médicale) et l'utilisation du fichier des personnes concernées pour l'envoi postal du test (phase postale) aux personnes n'ayant pas consulté dans la phase de distribution médicale.
-
 La stratégie d'invitation implique successivement :
 
 L'information préalable de la population par lettre d'invitation individuelle :
@@ -150,13 +148,15 @@ L'envoi de relance(s) :
 
 Trois mois après la première invitation, la structure de gestion adresse un courrier de relance aux personnes qui n'ont pas encore répondu.
 
-A noter : s'il n'a pas été joint au premier courrier, le coupon-réponse pour les exclusions sera adressé avec cette relance.
-
-De préférence six mois après la première invitation, en l'absence d'un refus documenté de bénéficier du dépistage, la structure de gestion adresse un nouveau courrier de relance accompagné d'un test aux personnes pour lesquelles :
+De préférence six mois après la première invitation, en l'absence d'un refus documenté de bénéficier du dépistage, la structure de gestion adresse un nouveau courrier de relance aux personnes pour lesquelles :
 
 - elle n'a recensé aucun test ;
 
 - elle ne dispose d'aucun signalement documenté d'exclusion (coupon-réponse ou signalement du médecin).
+
+Des stratégies de remise de tests associant d'autres professionnels de santé (pharmaciens, médecins du travail, etc.) peuvent être développées localement avec l'accord de l'Agence régionale de santé concernée.
+
+La remise du test doit obligatoirement être accompagnée d'un document explicatif écrit.
 
 La dernière phase postale avec envoi du test est obligatoire puisque ce test s'adresse à l'ensemble de la population générale.
 

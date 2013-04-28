@@ -1,0 +1,5 @@
+# Article 2
+
+Par dérogation à l'article 4 du décret du 15 février 2011 susvisé, le comité technique unique d'administration centrale compétent pour connaître de toutes les questions intéressant les services d'administration centrale et les services à compétence nationale relevant du périmètre des administrations centrales du ministère de l'économie, des finances et de l'industrie, du ministère du budget, des comptes publics et de la réforme de l'Etat et du ministère de la fonction publique, demeure compétent, jusqu'au prochain renouvellement général des comités techniques, pour connaître de toutes les questions intéressant les services centraux, et les services à compétence nationale du périmètre des administrations centrales, relevant de l'autorité exclusive ou conjointe du ministre de l'économie et des finances, du ministre du commerce extérieur, du ministre du redressement productif, du ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et du ministre de l'artisanat, du commerce et du tourisme, à l'exception de la direction générale des collectivités locales.
+
+Le mandat de ses membres est maintenu jusqu'à la même échéance.
