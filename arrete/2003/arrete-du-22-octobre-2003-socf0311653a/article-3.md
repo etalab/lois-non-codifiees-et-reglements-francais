@@ -1,9 +1,40 @@
 # Article 3
 
-Le titre professionnel de formateur(trice) professionnel(le) d'adultes est composé de deux unités constitutives dont la liste suit :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
-1. Préparer et animer des actions de formation.
-
-2. Contribuer à l'élaboration de dispositifs et accompagner des parcours de formation.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">TITRE PROFESSIONNEL<br/>
+<br/>formateur(trice) professionnel(le) d'adultes<br/>
+<br/>(arrêté du 10 mars 2008)</p>
+</td>
+<td>
+<p align="center"> TITRE PROFESSIONNEL<br/>
+<br/>formateur(trice) professionnel(le) d'adultes<br/>
+<br/>(présent arrêté)</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Préparer et animer des actions de formation.</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Préparer et animer des actions de formation.</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Contribuer à l'élaboration de dispositifs de formation et accompagner les apprenants dans leur parcours.</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Contribuer à l'élaboration de dispositifs de formation et accompagner les apprenants dans leur parcours.</p>
+</td>
+</tr>
+</tbody>
+</table>
