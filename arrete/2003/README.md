@@ -249,7 +249,6 @@
 - [Arrêté du 8 septembre 2003 (SOCF0311425A)](arrete-du-8-septembre-2003-socf0311425a)
 - [Arrêté du 8 septembre 2003 (SOCF0311426A)](arrete-du-8-septembre-2003-socf0311426a)
 - [Arrêté du 8 septembre 2003 (SOCF0311428A)](arrete-du-8-septembre-2003-socf0311428a)
-- [Arrêté du 8 septembre 2003 (SOCF0311430A)](arrete-du-8-septembre-2003-socf0311430a)
 - [Arrêté du 8 septembre 2003 (SOCF0311433A)](arrete-du-8-septembre-2003-socf0311433a)
 - [Arrêté du 9 décembre 2003 (BUDB0320028A)](arrete-du-9-decembre-2003-budb0320028a)
 - [Arrêté du 9 décembre 2003 (INDI0302165A)](arrete-du-9-decembre-2003-indi0302165a)
