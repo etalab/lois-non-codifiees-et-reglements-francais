@@ -223,6 +223,7 @@
 - [Arrêté du 8 novembre 2012 (INTJ1233896A)](arrete-du-8-novembre-2012-intj1233896a)
 - [Arrêté du 8 novembre 2012 (INTS1239008A)](arrete-du-8-novembre-2012-ints1239008a)
 - [Arrêté du 8 novembre 2012 (INTS1239010A)](arrete-du-8-novembre-2012-ints1239010a)
+- [Arrêté du 8 septembre 2003 (SOCF0311430A)](arrete-du-8-septembre-2003-socf0311430a)
 - [Arrêté du 9 avril 2013 (AFSP1309326A)](arrete-du-9-avril-2013-afsp1309326a)
 - [Arrêté du 9 avril 2013 (AFSS1309331A)](arrete-du-9-avril-2013-afss1309331a)
 - [Arrêté du 9 avril 2013 (BUDB1305395A)](arrete-du-9-avril-2013-budb1305395a)
