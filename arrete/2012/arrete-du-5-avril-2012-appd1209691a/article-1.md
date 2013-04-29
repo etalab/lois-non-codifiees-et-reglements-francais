@@ -1073,7 +1073,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Nouvelle agence culturelle régionale Rhône-Alpes - NACRe</p>
+<p>ECAD consultants, IESA (Institut d'études supérieures des arts) </p>
 </td>
 </tr>
 <tr>
@@ -1090,7 +1090,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Nouvelle agence culturelle régionale Rhône-Alpes - NACRe</p>
+<p>ECAD consultants, IESA (Institut d'études supérieures des arts)</p>
 </td>
 </tr>
 <tr>
@@ -1651,7 +1651,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Conservatoire national des arts et métiers (CNAM)</p>
+<p>Conservatoire national des arts et métiers (CNAM), Institut d'études économiques et juridiques appliquées à la construction et à l'habitation (ICH)</p>
 </td>
 </tr>
 <tr>
@@ -1668,7 +1668,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Conservatoire national des arts et métiers (CNAM)</p>
+<p>Conservatoire national des arts et métiers (CNAM), Institut d'études économiques et juridiques appliquées à la construction et à l'habitation (ICH)</p>
 </td>
 </tr>
 <tr>
@@ -1838,7 +1838,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Studialis - Conservatoire libre du cinéma français (CLCF)</p>
+<p>Leader films Conservatoire libre du cinéma français (CLCF) </p>
 </td>
 </tr>
 <tr>
@@ -2008,7 +2008,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Conservatoire national des arts et métiers (CNAM)</p>
+<p>Conservatoire national des arts et métiers (CNAM), Institut d'études économiques et juridiques appliquées à la construction et à l'habitation (ICH)</p>
 </td>
 </tr>
 <tr>
@@ -2076,7 +2076,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Studialis - IESA (Institut d'études supérieures des arts)</p>
+<p>ECAD consultants, IESA (Institut d'études supérieures des arts)</p>
 </td>
 </tr>
 <tr>

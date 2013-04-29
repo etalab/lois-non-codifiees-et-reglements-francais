@@ -1090,7 +1090,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Ecole supérieure de commerce et d'industrie de l'Ain (ESCI)</p>
+<p align="left">Ecole supérieure de commerce et d'industrie de l'Ain (ESCI).</p>
 </td>
 </tr>
 <tr>
@@ -1111,7 +1111,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chambre de commerce et d'industrie de Versailles - Val-d'Oise - Yvelines (CCIV). ― Ecole supérieure de gestion et de finance (ESCIA).<br/>
+<p align="left">CCI Paris Ile-de-France, ITESCIA.<br/>
+<br/>
 </p>
 </td>
 </tr>

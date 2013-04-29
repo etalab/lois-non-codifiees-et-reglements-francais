@@ -481,7 +481,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chambre de commerce et d'industrie de Versailles - Val-d'Oise - Yvelines (CCIV) ― Ecole supérieure de gestion et de finance (ESCIA)</p>
+<p align="left">CCI Paris Ile-de-France, ITESCIA</p>
 </td>
 </tr>
 <tr>
