@@ -1000,7 +1000,6 @@
 - [Arrêté du 12 octobre 2011 (ETSH1127909A)](arrete-du-12-octobre-2011-etsh1127909a)
 - [Arrêté du 12 octobre 2011 (ETSH1128313A)](arrete-du-12-octobre-2011-etsh1128313a)
 - [Arrêté du 12 octobre 2011 (IOCJ1127941A)](arrete-du-12-octobre-2011-iocj1127941a)
-- [Arrêté du 12 octobre 2011 (JUSD1126737A)](arrete-du-12-octobre-2011-jusd1126737a)
 - [Arrêté du 12 septembre 2011 (DEVK1107119A)](arrete-du-12-septembre-2011-devk1107119a)
 - [Arrêté du 12 septembre 2011 (DEVK1107124A)](arrete-du-12-septembre-2011-devk1107124a)
 - [Arrêté du 12 septembre 2011 (EFIP1124650A)](arrete-du-12-septembre-2011-efip1124650a)
