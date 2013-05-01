@@ -229,8 +229,6 @@
 - [Arrêté du 4 novembre 2011 (AGRT1129971A)](arrete-du-4-novembre-2011-agrt1129971a)
 - [Arrêté du 4 novembre 2011 (AGRT1130004A)](arrete-du-4-novembre-2011-agrt1130004a)
 - [Arrêté du 4 novembre 2011 (DEFH1109003A)](arrete-du-4-novembre-2011-defh1109003a)
-- [Arrêté du 4 novembre 2011 (DEFH1109008A)](arrete-du-4-novembre-2011-defh1109008a)
-- [Arrêté du 4 novembre 2011 (DEFH1109013A)](arrete-du-4-novembre-2011-defh1109013a)
 - [Arrêté du 4 novembre 2011 (DEVA1130106A)](arrete-du-4-novembre-2011-deva1130106a)
 - [Arrêté du 4 novembre 2011 (DEVA1130116A)](arrete-du-4-novembre-2011-deva1130116a)
 - [Arrêté du 4 novembre 2011 (EFIG1126231A)](arrete-du-4-novembre-2011-efig1126231a)
