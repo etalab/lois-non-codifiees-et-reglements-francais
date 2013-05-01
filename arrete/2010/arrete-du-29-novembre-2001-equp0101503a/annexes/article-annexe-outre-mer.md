@@ -63,7 +63,7 @@ Direction départementale de l'équipement de la Martinique
 </tbody>
 </table>
 
-Direction départementale de l'équipement de la Guyane
+Direction de l'environnement, de l'aménagement et du logement de Guyane
 
 <table>
 <tbody>
@@ -83,7 +83,42 @@ Direction départementale de l'équipement de la Guyane
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Adjoint au chef du service habitat, aménagement, urbanisme et construction </p>
+<p align="left">Chef du service aménagement, urbanisme, construction et logement  </p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">50 points</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Direction de la jeunesse, des sports et de la cohésion sociale de Guyane
+
+<table>
+<tbody>
+<tr>
+<td align="center" valign="middle">
+<p align="center">FONCTIONS EXERCEES</p>
+</td>
+<td>
+<p align="center">NIVEAU<br/>de qualification de l'emploi</p>
+</td>
+<td>
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS (IM)<br/>par emploi</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="left">Chef du service de l'observation de la cohésion et de l'égalité des biens </p>
 </td>
 <td>
 <p align="center">A</p>
@@ -96,22 +131,8 @@ Direction départementale de l'équipement de la Guyane
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Chef de cellule ville, chargé des problèmes d'insalubrité et du logement social</p>
-</td>
 <td>
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">50 points</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="left">Responsable du suivi des crédits de la politique de la ville et de la coordination des services de l'Etat</p>
+<p align="left">Responsable du suivi des crédits de la politique de la ville </p>
 </td>
 <td>
 <p align="center">B</p>
@@ -120,20 +141,20 @@ Direction départementale de l'équipement de la Guyane
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">30 points</p>
+<p align="center">30 points </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
-<p align="left">Adjoint au responsable du suivi des crédits de la politique de la ville et de la coordination des services de l'Etat</p>
+<td>
+<p align="left">Adjoint au responsable du suivi des crédits de la politique de la ville </p>
 </td>
-<td rowspan="2">
+<td>
 <p align="center">C</p>
 </td>
-<td rowspan="2">
+<td>
 <p align="center">1</p>
 </td>
-<td rowspan="2">
+<td>
 <p align="center">20 points</p>
 </td>
 </tr>

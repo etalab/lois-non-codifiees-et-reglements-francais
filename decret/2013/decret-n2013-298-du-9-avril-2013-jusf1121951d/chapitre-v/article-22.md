@@ -1,0 +1,5 @@
+# Article 22
+
+Les directeurs fonctionnels du deuxième et du troisième groupe et les directeurs départementaux de la protection judicaire de la jeunesse régis par le décret n° 2005-533 du 24 mai 2005 relatif aux statuts d'emplois des directeurs territoriaux et des directeurs fonctionnels de la protection judiciaire de la jeunesse sont reclassés, selon les fonctions qu'ils exercent, dans un des emplois de directeur fonctionnel du deuxième ou du troisième groupe, à l'un des échelons prévus aux articles 11 et 15 comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur précédent emploi avec conservation de l'ancienneté d'échelon qu'ils détenaient dans la limite de la durée de l'échelon d'accueil.
+
+Lorsque l'application de l'alinéa ci-dessus conduit à classer un agent à un échelon doté d'un indice inférieur à celui qu'il détenait dans son ancien emploi, l'intéressé conserve, à titre personnel, son indice pour la période restant à courir au titre de son détachement en cours.
