@@ -1,7 +1,5 @@
 # Article Annexe IV
 
-Annexe IV
-
 Les objectifs de formation en philosophie
 
 Le cours de lettres première année permet de consolider le travail commencé en classe terminale, dont le double objectif a conduit à favoriser l'exercice réfléchi du jugement et l'acquisition d'une culture philosophique initiale. Il s'agit donc de poursuivre l'effort de réflexion et de lecture, et d'affermir la maîtrise des exercices de dissertation et d'explication de textes inaugurés l'année précédente. Les élèves seront ainsi en mesure d'accéder au bon usage de l'abstraction, à la position rigoureuse de problèmes précis et à leur traitement argumenté, progressif et cohérent.
@@ -56,4 +54,4 @@ Afin d'atteindre les objectifs pédagogiques précédemment définis et de prép
 
 - des notions, questions ou problèmes respectivement liés aux cinq domaines de la métaphysique, de la science, de la morale, de la politique et du droit, de l'art et de la technique (les deux premiers se situant dans l'axe de la connaissance, les trois autres dans celui de l'action) ;
 
-- deux œuvres dans leur continuité, l'une de philosophie ancienne ou médiévale, l'autre de philosophie moderne ou contemporaine.
+- deux oeuvres dans leur continuité, l'une de philosophie ancienne ou médiévale, l'autre de philosophie moderne ou contemporaine.

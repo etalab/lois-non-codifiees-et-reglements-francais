@@ -1,7 +1,5 @@
 # Article Annexe II
 
-Annexe II
-
 Les objectifs de formation en langues et culture de l'antiquité
 
 L'enseignement des langues et culture de l'Antiquité en classe préparatoire de lettres première année a pour objectif de donner accès à un ensemble de références à travers la lecture de textes anciens et de légitimer le rôle mémoriel, culturel, fédérateur des langues anciennes pour les pratiquer, les décrire et les inscrire dans le présent de notre culture.

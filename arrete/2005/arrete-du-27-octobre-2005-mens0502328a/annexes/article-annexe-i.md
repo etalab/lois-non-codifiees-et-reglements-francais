@@ -33,7 +33,7 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 <tbody>
 <tr>
 <td charoff="50">
-<p>Technologies biochimiques et biologiques</p>
+<p>Biotechnologies</p>
 </td>
 <td charoff="50">
 <p align="center">2 h</p>
@@ -87,7 +87,7 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 <p>Mathématiques</p>
 </td>
 <td charoff="50">
-<p align="center">3 h</p>
+<p align="center">3,5 h</p>
 </td>
 <td charoff="50">
 <p align="center">3 h</p>
@@ -105,11 +105,13 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 </td>
 <td charoff="50">
 <br/>
+<br/>
 </td>
 <td charoff="50">
 <p align="center">2 h</p>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 <td charoff="50">
@@ -142,11 +144,13 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 </td>
 <td charoff="50">
 <br/>
+<br/>
 </td>
 <td charoff="50">
 <p align="center">2 h</p>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 </tr>
@@ -159,11 +163,13 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 </td>
 <td charoff="50">
 <br/>
+<br/>
 </td>
 <td charoff="50">
 <p align="center">2 h</p>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 </tr>
@@ -173,11 +179,13 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 </td>
 <td charoff="50">
 <br/>
+<br/>
 </td>
 <td charoff="50">
 <p align="center">1 h</p>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 <td charoff="50">
@@ -189,16 +197,16 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 <p>Géographie</p>
 </td>
 <td charoff="50">
-<p align="center">0,5</p>
+<br/>
 </td>
 <td charoff="50">
-<p align="center">0,5</p>
+<br/>
 </td>
 <td charoff="50">
-<p align="center">0,5</p>
+<p align="center">0,5 h</p>
 </td>
 <td charoff="50">
-<p align="center">0,5</p>
+<p align="center">1 h</p>
 </td>
 </tr>
 <tr>
@@ -210,11 +218,13 @@ Horaire hebdomadaire des classes préparatoires scientifiques de la voie technol
 </td>
 <td charoff="50">
 <br/>
+<br/>
 </td>
 <td charoff="50">
 <p align="center">2 h</p>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 </tr>

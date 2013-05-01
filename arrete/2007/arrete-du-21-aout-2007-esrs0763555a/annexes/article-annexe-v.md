@@ -1,7 +1,5 @@
 # Article Annexe V
 
-Annexe V
-
 Les objectifs de la formation pour l'enseignement de l'histoire en classe préparatoire de lettres première année
 
 L'enseignement de l'histoire en classe préparatoire de lettres première année a pour objectif de permettre aux étudiants d'acquérir les bases d'une culture générale historique solide.

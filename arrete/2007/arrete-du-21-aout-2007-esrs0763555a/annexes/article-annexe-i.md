@@ -1,8 +1,6 @@
 # Article Annexe I
 
-Annexe I
-
-Les objectifs généraux de la formation dan SLES classes de lettres première année
+Les objectifs généraux de la formation dans les classes de lettres première année
 
 Situées entre la classe terminale des lycées et l'entrée dans les écoles normales supérieures (ENS), les autres grandes écoles ou les universités, les classes de lettres première et seconde années constituent un parcours de haut niveau et s'inscrivent dans le cadre de l'architecture européenne des études au sein des études conduisant à la licence.
 

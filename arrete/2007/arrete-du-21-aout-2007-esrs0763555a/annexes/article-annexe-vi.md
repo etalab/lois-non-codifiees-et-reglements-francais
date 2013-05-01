@@ -1,7 +1,5 @@
 # Article Annexe VI
 
-Annexe VI
-
 Les objectifs de la formation pour l'enseignement de la géographie en classe préparatoire de lettres première année
 
 L'enseignement de la géographie en classe préparatoire de lettres première année a pour objectif de permettre aux étudiants d'acquérir les bases d'une culture générale géographique solide et, pour les optionnaires, de se préparer aussi à la poursuite d'études universitaires.
