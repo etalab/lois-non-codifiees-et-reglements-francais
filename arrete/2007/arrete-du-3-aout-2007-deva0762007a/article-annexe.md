@@ -137,3 +137,15 @@ Paris - Rio de Janeiro (Brésil).
 Jusqu'au 1er novembre 2017 :
 
 Paris - Abidjan (Côte d'Ivoire).
+
+Jusqu'au 31 mars 2018 :
+
+Paris - Agadir (Maroc) ;
+
+Paris - Casablanca (Maroc) ;
+
+Paris - Fès (Maroc) ;
+
+Paris - Marrakech (Maroc) ;
+
+Paris - Rabat (Maroc).
