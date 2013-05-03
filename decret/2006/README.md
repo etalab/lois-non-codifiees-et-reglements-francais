@@ -16,7 +16,6 @@
 - [Décret n°2006-1344 du 6 novembre 2006 (EQUG0601213D)](decret-n2006-1344-du-6-novembre-2006-equg0601213d)
 - [Décret n°2006-21 du 6 janvier 2006 (FPPA0500141D)](decret-n2006-21-du-6-janvier-2006-fppa0500141d)
 - [Décret n°2006-798 du 6 juillet 2006 (ECOX0500023D)](decret-n2006-798-du-6-juillet-2006-ecox0500023d)
-- [Décret n°2006-1551 du 7 décembre 2006 (DEFD0601418D)](decret-n2006-1551-du-7-decembre-2006-defd0601418d)
 - [Décret n°2006-665 du 7 juin 2006 (ECOJ0600006D)](decret-n2006-665-du-7-juin-2006-ecoj0600006d)
 - [Décret n°2006-814 du 7 juillet 2006 (ECOP0600334D)](decret-n2006-814-du-7-juillet-2006-ecop0600334d)
 - [Décret n°2006-130 du 8 février 2006 (SANA0620591D)](decret-n2006-130-du-8-fevrier-2006-sana0620591d)
