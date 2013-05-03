@@ -122,7 +122,7 @@ Département de l'Aude (11)
 
 Renard : ensemble du département sauf les communes de Belcaire, Belfort-sur-Rébenty, Belvis, Coudons, Espezel, Roquefeuil.
 
-Corneille noire : ensemble du département.
+Corneille noire : ensemble du département à l'exception des communes de Fleury-d'Aude, Narbonne, Gruissan, Port-la-Nouvelle, La Palme et Leucate.
 
 Pie bavarde : ensemble du département.
 
@@ -137,6 +137,8 @@ Renard : ensemble du département.
 Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
+
+Martre : ensemble du département
 
 Département des Bouches-du-Rhône (13)
 
@@ -162,9 +164,15 @@ Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
 
+Etourneau sansonnet : ensemble du département
+
 Département du Cantal (15)
 
 Renard : ensemble du département.
+
+Martre : ensemble du département
+
+Corneille noire : cantons de Arpajon-sur-Cère, Aurillac 1, Aurillac 2, Jussac, Laroquebrou, Maurs, Saint-Cernin, Vic-sur-Cère, Montsalvy, Saint-Mamet-la-Salvetat, Saint-Flour ville, Saint-Flour Nord, Saint-Flour Sud
 
 Département de la Charente (16)
 
@@ -213,6 +221,8 @@ Corneille noire : ensemble du département.
 Pie bavarde : ensemble du département.
 
 Etourneau sansonnet : ensemble du département.
+
+Martre : ensemble du département
 
 Département de la Côte-d'Or (21)
 
@@ -312,6 +322,8 @@ Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
 
+Etourneau sansonnet : ensemble du département.
+
 Département du Gard (30)
 
 Fouine : ensemble du département.
@@ -392,9 +404,11 @@ Fouine : ensemble du département.
 
 Renard : ensemble du département.
 
-Corbeau freux : arrondissements de Châteauroux et Issoudun.
+Corbeau freux : ensemble du département .
 
 Corneille noire : ensemble du département.
+
+Martre : ensemble du département
 
 Département d'Indre-et-Loire (37)
 
@@ -434,6 +448,8 @@ Corbeau freux : ensemble du département.
 
 Corneille noire : ensemble du département.
 
+Fouine : ensemble du département
+
 Département des Landes (40)
 
 Fouine : ensemble du département.
@@ -458,13 +474,15 @@ Corneille noire : ensemble du département.
 
 Etourneau sansonnet : ensemble du département.
 
+Martre : ensemble du département
+
 Département de la Loire (42)
 
 Fouine : ensemble du département.
 
 Renard : ensemble du département.
 
-Corbeau freux : arrondissements de Roanne et de Saint-Etienne.
+Corbeau freux : ensemble du département.
 
 Corneille noire : ensemble du département.
 
@@ -572,6 +590,8 @@ Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
 
+Etourneau sansonnet : ensemble du département.
+
 Département de la Marne (51)
 
 Fouine : ensemble du département.
@@ -597,6 +617,8 @@ Corbeau freux : ensemble du département.
 Corneille noire : ensemble du département.
 
 Etourneau sansonnet : ensemble du département.
+
+Fouine : ensemble du département.
 
 Département de la Mayenne (53)
 
@@ -732,6 +754,10 @@ Corbeau freux : les cantons d'Aigueperse, Aubière, Billom, Champeix, Chateldon,
 
 Corneille noire : tout le département sauf les cantons de Manzat, Pontgibaud, Herment, Tauves, La Tour-d'Auvergne, Ardes-sur-Couze, Saint-Germain-l'Herm.
 
+Pie bavarde : cantons de Aigueperse, Ardes, Aubière, Beaumont, Billom, Chamalières, Champeix, Châteldon, Clermont-Ferrand Nord-Ouest, Clermont-Ferrand Nord, Clermont-Ferrand Centre, Clermont-Ferrand Ouest, Clermont-Ferrand Sud, Clermont-Ferrand Est, Clermont-Ferrand Sud-Est, Clermont-Ferrand Sud-Ouest, Combronde, Cournon d'Auvergne, Ennezat, Gerzat, Issoire, Jumeaux, Lezoux, Manzat, Maringues, Menat, Montaigut, Montferrand, Pionsat, Pont-du-Château, Randan, Riom-Est, Riom-Ouest, Royat, Saint-Amant-Tallende, Saint-Germain-Lembron, Saint-Gervais-d'Auvergne, Sauxillanges, Thiers, Vertaizon, Veyre-Monton, Vic-le-Comte.
+
+Etourneau sansonnet : cantons de Aigueperse, Ardes, Aubière, Beaumont, Billom, Chamalières, Champeix, Châteldon, Clermont-Ferrand Nord-Ouest, Clermont-Ferrand Nord, Clermont-Ferrand Centre, Clermont-Ferrand Ouest, Clermont-Ferrand Sud, Clermont-Ferrand Est, Clermont-Ferrand Sud-Est, Clermont-Ferrand Sud-Ouest, Combronde, Cournon-d'Auvergne, Ennezat, Gerzat, Issoire, Jumeaux, Lezoux, Manzat, Maringues, Menat, Montaigut, Montferrand, Pionsat, Pont-du-Château, Randan, Riom Est, Riom Ouest, Royat, Saint-Amant-Tallende, Saint-Germain-Lembron, Saint-Gervais-d'Auvergne, Sauxillanges, Thiers, Vertaizon, Veyre-Monton, Vic-le-Comte.
+
 Département des Pyrénées-Atlantiques (64)
 
 Fouine : ensemble du département.
@@ -756,13 +782,15 @@ Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
 
+Martre : sur les cantons de Aucun, Argelès-Gazost, Luz-Saint-Sauveur, Vielle-Aure, Arreau, Bordères-Louron, Campan, Bagnères-de-Bigorre, La Barthe-de-Neste, Lourdes Est, Lourdes Ouest, Mauléon-Barousse, Saint-Laurent-de-Neste, Saint-Pé-de-Bigorre et : Etourneau sansonnet : ensemble du département excepté les cantons de Aucun, Argelès-Gazost, Luz-Saint-Sauveur, Vielle-Aure, Arreau, Bordères-Louron.
+
 Département des Pyrénées-Orientales (66)
 
-Martre : en zone de montagne.
+Martre : en zone de montagne telle que définie par l'arrêté ministériel du 6 septembre 1985 délimitant la zone de montagne en France métropolitaine.
 
-Renard : ensemble du département.
+Renard : ensemble du département à l'exception des communes de Bompas, Claira, Pia, Sainte-Hippolyte, Sainte-Marie-la-mer, Torreilles et Villelongue-de-la-Salanque.
 
-Corneille noire : ensemble du département.
+Corneille noire : en zone de montagne telle que définie par l'arrêté ministériel du 6 septembre 1985 délimitant la zone de montagne en France métropolitaine.
 
 Pie bavarde : ensemble du département.
 
@@ -800,15 +828,15 @@ Fouine : ensemble du département.
 
 Renard : ensemble du département.
 
-Corbeau freux : cantons de : Ecully, Neuville-sur-Saône, Saint-Symphorien-sur-Coise, Limonest, Irigny, Givors, Condrieu, Saint-Genis Laval, Anse, Saint-Laurent-de-Chamousset, Tarare, Vaugneray, Mornant, L'Arbresle, Belleville, Rillieux-la-Pape, Caluire-et-Cuire, Tassin-la-Demi-Lune, Vaulx-en-Velin, Villeurbanne, Décines, Meyzieu, Bron, Saint-Priest, Sainte-Foy-lès-Lyon, Saint-Symphorien d'Ozon, Vénissieux, Saint-Fons, Oullins.
+Corbeau freux : ensemble du département.
 
 Communes de : Arnas, Gleizé, Limas, Villefranche-sur-Saône, Lacenas, Cogny.
 
-Corneille noire : cantons de : Ecully, Neuville-sur-Saône, Saint-Symphorien-sur-Coise, Limonest, Irigny, Givors, Condrieu, Saint-Genis-Laval, Anse, Saint-Laurent-de-Chamousset, Tarare, Vaugneray, Mornant, L'Arbresle, Belleville, Rillieux-la-Pape, Caluire-et-Cuire, Tassin-la-Demi-Lune, Vaulx-en-Velin, Villeurbanne, Décines, Meyzieu, Bron, Saint-Priest, Sainte-Foy-lès-Lyon, Saint-Symphorien-d'Ozon, Vénissieux, Saint-Fons, Oullins.
+Corneille noire : ensemble du département.
 
 Communes de : Arnas, Gleizé, Limas, Villefranche-sur-Saône, Lacenas, Cogny.
 
-Pie bavarde : cantons de : Ecully, Neuville-sur-Saône, Saint-Symphorien-sur-Coise, Limonest, Irigny, Givors, Condrieu, Saint-Genis-Laval, Anse, Saint-Laurent-de-Chamousset, Tarare, Vaugneray, Mornant, L'Arbresle, Belleville, Rillieux-la-Pape, Caluire-et-Cuire, Tassin-la-Demi-Lune, Vaulx-en-Velin, Villeurbanne, Décines, Meyzieu, Bron, Saint-Priest, Sainte-Foy-lès-Lyon, Saint-Symphorien-d'Ozon, Vénissieux, Saint-Fons, Oullins.
+Pie bavarde : cantons de : Ecully, Neuville-sur-Saône, Saint-Symphorien-sur-Coise, Limonest, Irigny, Givors, Condrieu, Saint-Genis-Laval, Anse, Saint-Laurent-de-Chamousset, Tarare, Vaugneray, Mornant, L'Arbresle, Belleville, Rillieux-la-Pape, Caluire-et-Cuire, Tassin-la-Demi-Lune, Vaulx-en-Velin, Villeurbanne, Décines, Meyzieu, Bron, Saint-Priest, Sainte-Foy-lès-Lyon, Saint-Symphorien-d'Ozon, Vénissieux, Saint-Fons, Oullins, Bois-d'Oingt.
 
 Communes de : Arnas, Gleizé, Limas, Villefranche-sur-Saône, Lacenas, Cogny.
 
@@ -822,13 +850,15 @@ Corbeau freux : ensemble du département.
 
 Corneille noire : ensemble du département.
 
+Etourneau sansonnet : ensemble du département.
+
 Département de Saône-et-Loire (71)
 
 Fouine : ensemble du département.
 
 Martre : ensemble du département.
 
-Renard : ensemble du département, sauf sur les communes de : Amanzé, Anglure-sous-Dun, Anzy-le-Duc, Artaix, Ballore, Baron, Baudemont, Baugy, Bois-Sainte-Marie, Bourg-le-Comte, Briant, Céron, Chambilly, Champlecy, Changy, Charolles, Chassigny-sous-Dun, Châteauneuf, Châtenay, Chauffailles, Chenay-le-Châtel, Colombier-en-Brionnais, Coublanc, Curbigny, Digoin, Dyo, Fleury-la-Montagne, Germolles-sur-Grosne, Gibles, Grandvaux, Hautefond, Iguerande, La-Chapelle-sous-Dun, La Clayette, L'Hôpital-le-Mercier, Ligny-en-Brionnais, Lugny-lès-Charolles, Mailly, Marcigny, Marcilly-la-Gueurce, Matour, Melay, Montceaux-l'Etoile, Montmelard, Mussy-sous-Dun, Nochize, Oudry, Ouroux-sous-le-Bois-Sainte-Marie, Oyé, Ozolles, Palinges, Paray-le-Monial, Poisson, Prizy, Saint-Aubin-en-Charollais, Saint-Bonnet-de-Cray, Saint-Christophe-en-Brionnais, Saint-Didier-en-Brionnais, Saint-Edmond, Saint-Germain-en-Brionnais, Saint-Igny-de-Roche, Saint-Julien-de-Civry, Saint-Julien-de-Jonzy, Saint-Laurent-en-Brionnais, Saint-Léger-lès-Paray, Saint-Martin-de-Lixy, Saint-Martin-du-Lac, Saint-Maurice-lès-Châteauneuf, Saint-Pierre-le-Vieux, Saint-Racho, Saint-Symphorien-des-Bois, Saint-Vincent-Bragny, Saint-Yan, Sainte-Foy, Sarry, Semur-en-Brionnais, Tancon, Tramayes, Trivy, Vareilles, Varenne-l'Arconce, Varenne-Saint-Germain, Varennes-sous-Dun, Vauban, Vaudebarrier, Vendenesse-lès-Charolles, Vérosvres, Versaugues, Vindecy, Viry, Vitry-en-Charollais, Volesvres.
+Renard : ensemble du département.
 
 Corbeau freux : ensemble du département.
 
@@ -856,11 +886,21 @@ Renard : ensemble du département sauf communes de : Pralognan-la-Vanoise, Lesch
 
 Corneille noire : ensemble du département.
 
+Fouine : ensemble du département
+
 Département de la Haute-Savoie (74)
 
 Renard : ensemble du département.
 
 Corneille noire : ensemble du département.
+
+Fouine : ensemble du département.
+
+Pie bavarde : ensemble du département.
+
+Département de Paris (75)
+
+Fouine : ensemble du département.
 
 Département de la Seine-Maritime (76)
 
@@ -895,6 +935,10 @@ Renard : ensemble du département.
 Corbeau freux : ensemble du département.
 
 Corneille noire : ensemble du département.
+
+Fouine : ensemble du département.
+
+Pie bavarde : ensemble du département.
 
 Département des Deux-Sèvres (79)
 
@@ -944,6 +988,8 @@ Pie bavarde : ensemble du département.
 
 Etourneau sansonnet : ensemble du département.
 
+Geai des chênes : ensemble du département.
+
 Département du Var (83)
 
 Renard : ensemble du département.
@@ -988,6 +1034,8 @@ Corneille noire : ensemble du département.
 
 Etourneau sansonnet : ensemble du département.
 
+Fouine : ensemble du département.
+
 Département de la Haute-Vienne (87)
 
 Renard : ensemble du département.
@@ -995,6 +1043,12 @@ Renard : ensemble du département.
 Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
+
+Martre : ensemble du département.
+
+Corbeau freux : ensemble du département.
+
+Etourneau sansonnet : ensemble du département.
 
 Département des Vosges (88)
 
@@ -1038,11 +1092,15 @@ Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
 
+Fouine : ensemble du département.
+
 Département des Hauts-de-Seine (92)
 
 Renard : ensemble du département.
 
 Pie bavarde : ensemble du département.
+
+Fouine : ensemble du département.
 
 Département de la Seine-Saint-Denis (93)
 
@@ -1050,11 +1108,15 @@ Renard : ensemble du département.
 
 Pie bavarde : ensemble de département.
 
+Fouine : ensemble du département.
+
 Département du Val-de-Marne (94)
 
 Renard : ensemble du département.
 
 Pie bavarde : ensemble de département.
+
+Fouine : ensemble du département.
 
 Département du Val-d'Oise (95)
 
@@ -1065,3 +1127,5 @@ Corbeau freux : ensemble du département.
 Corneille noire : ensemble du département.
 
 Pie bavarde : ensemble du département.
+
+Fouine : ensemble du département.

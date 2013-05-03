@@ -38,7 +38,7 @@ Le geai des chênes peut également être piégé du 31 mars au 30 juin dans les
 
 6° L'étourneau sansonnet (Sturnus vulgaris) peut être détruit à tir entre la date de clôture générale de la chasse et le 31 mars au plus tard. La période de destruction à tir peut être prolongée jusqu'à la date d'ouverture générale de la chasse, sur autorisation individuelle délivrée par le préfet et dès lors qu'il n'existe aucune autre solution satisfaisante et que l'un au moins des intérêts mentionnés à l'article R. 427-6 du code de l'environnement est menacé.
 
-Le tir s'effectue à poste fixe matérialisé de main d'homme, sans être accompagné de chien, dans les cultures maraîchères et les vergers et à moins de 250 mètres autour des installations de stockage de l'ensilage. Le tir dans les nids est interdit.
+Le tir s'effectue à poste fixe matérialisé de main d'homme, sans être accompagné de chien, dans les cultures maraîchères, les vergers et les vignes et à moins de 250 mètres autour des installations de stockage de l'ensilage. Le tir dans les nids est interdit.
 
 L'étourneau sansonnet peut être piégé toute l'année et en tout lieu ;
 
