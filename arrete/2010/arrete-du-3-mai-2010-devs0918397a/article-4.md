@@ -1,6 +1,6 @@
 # Article 4
 
-Une session annuelle est organisée à une date fixée chaque année par arrêté du ministre chargé des transports.
+Une session annuelle est organisée à une date fixée chaque année par arrêté du   ministre chargé de la sécurité routière.
 
 Un délai maximum de deux mois sépare la date de l'épreuve spéciale de contrôle de niveau de celle des épreuves d'admissibilité.
 

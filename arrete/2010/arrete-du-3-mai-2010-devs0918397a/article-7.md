@@ -8,4 +8,4 @@ Le jury prononce sa décision à l'issue d'une procédure contradictoire au cour
 
 Toute décision de sanction doit être motivée. Elle est signée par le président du jury et deux membres du jury puis notifiée sans délai à l'intéressé par lettre recommandée avec accusé de réception. Toute sanction prend effet le jour de sa notification. Si la prise d'effet est postérieure à la délivrance du diplôme, le diplôme est annulé par le préfet.
 
-Le rapport et la décision prise par le président du jury sont transmis au ministère chargé des transports.
+Le rapport et la décision prise par le président du jury sont transmis au   ministère chargé de la sécurité routière.

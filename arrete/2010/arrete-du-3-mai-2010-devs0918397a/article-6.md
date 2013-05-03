@@ -16,7 +16,7 @@ Le jury comporte neuf membres titulaires et neuf membres suppléants désignés 
 
 Sur ces huit membres enseignants de la conduite, deux titulaires et deux suppléants doivent être choisis parmi les enseignants salariés. De plus, la nomination de deux titulaires au moins du brevet d'aptitude à la formation des moniteurs d'enseignement de la conduite des véhicules terrestres à moteur (BAFM) est souhaitable, ces deux conditions n'étant pas exclusives.
 
-Le ou les coordinateurs pédagogiques ou leurs suppléants nommés par arrêté du ministre chargé des transports siègent de droit au jury. En l'absence d'un ou plusieurs de ses membres, le jury peut néanmoins délibérer valablement dans la mesure où la moitié au moins de ses membres sont présents.
+Le ou les coordinateurs pédagogiques ou leurs suppléants nommés par arrêté du   ministre chargé de la sécurité routière siègent de droit au jury. En l'absence d'un ou plusieurs de ses membres, le jury peut néanmoins délibérer valablement dans la mesure où la moitié au moins de ses membres sont présents.
 
 Pour délibérer à l'issue de l'épreuve de contrôle de niveau, des épreuves de rattrapage et des épreuves des mentions, le jury peut donner délégation à un jury restreint composé au moins du président du jury, d'un représentant des administrations, d'un représentant des enseignants de la conduite membres du jury et d'un coordinateur pédagogique.
 
