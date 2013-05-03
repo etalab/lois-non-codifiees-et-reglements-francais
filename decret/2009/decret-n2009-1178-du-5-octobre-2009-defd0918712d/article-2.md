@@ -51,3 +51,5 @@ II. ― Le contrôle général des armées.
 III. ― Le service de la poste interarmées, service à compétence nationale, relevant du chef d'état-major des armées.
 
 IV. ― Le bureau enquêtes accidents défense transports terrestres, le bureau enquêtes accidents défense mer et le bureau enquêtes accidents défense air, services à compétence nationale, placés respectivement auprès des officiers généraux de l'armée de terre, de la marine nationale et de l'armée de l'air, inspecteurs généraux des armées.
+
+V. - La direction de la sécurité aéronautique d'Etat, service à compétence nationale placée auprès du ministre de la défense.
