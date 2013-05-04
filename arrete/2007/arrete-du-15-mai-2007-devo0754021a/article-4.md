@@ -12,11 +12,11 @@ Un représentant de la batellerie désigné conjointement par le Comité des arm
 
 Un représentant du tourisme désigné par le préfet coordonnateur du bassin sur proposition des instances représentatives du tourisme du bassin ;
 
-Douze représentants de l'industrie désignés par un collège formé par :
+Douze représentants de l'industrie, dont un issu des industries portuaires ou du tourisme littoral, désignés par un collège formé par :
 
--les présidents des       chambres de commerce et d'industrie de région  du Nord-Pas-de-Calais et de Picardie ;
+- les présidents des chambres de commerce et d'industrie de région du Nord-Pas-de-Calais et de Picardie ;
 
--les présidents du MEDEF régional (Mouvement des entreprises de France) du Nord-Pas-de-Calais, de Picardie et le président de COOP de France.
+- les présidents du MEDEF régional (Mouvement des entreprises de France) du Nord-Pas-de-Calais, de Picardie et le président de COOP de France.
 
 Un représentant des producteurs d'électricité désigné par l'Union française de l'électricité ;
 
@@ -24,7 +24,7 @@ Un représentant des distributeurs d'eau désigné par la fédération professio
 
 Deux représentants des associations agréées de défense des consommateurs désignés par le préfet coordonnateur de bassin, sur proposition des instances représentatives des consommateurs du bassin ;
 
-Trois représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
+Trois représentants des associations agréées de protection de la nature, dont un ayant compétence dans le domaine littoral ou des milieux marins, désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
 
 Un représentant d'un syndicat mixte créé en application de l'article L. 5721-2 du code général des collectivités territoriales, ou d'une association syndicale créée en application de l'ordonnance n° 2004-232 du 1er juillet 2004 relative aux associations syndicales de propiétaires, ou d'une association créée en application de l'article 1er de la loi du 1er juillet 1901 relative au contrat d'association, ayant compétence ou ayant pour objet l'entretien des cours d'eau désigné par le préfet coordonnateur de bassin, après consultation des autres préfets représentant l'Etat au comité.
 

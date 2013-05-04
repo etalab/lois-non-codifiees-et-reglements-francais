@@ -20,11 +20,11 @@ Un représentant du tourisme désigné par le préfet coordonnateur de bassin su
 
 Un représentant des activités nautiques désignés par le préfet coordonnateur de bassin sur proposition des instances représentatives de ces activités dans le bassin ;
 
-Vingt-cinq représentants de l'industrie désignés par un collège formé par :
+Vingt-cinq représentants de l'industrie, dont un issu des industries portuaires et un du tourisme littoral, désignés par un collège formé par :
 
--les présidents des       chambres de commerce et d'industrie de région  d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin-Poitou-Charentes, des Pays de la Loire et de Rhône-Alpes ;
+- les présidents des chambres de commerce et d'industrie de région d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin-Poitou-Charentes, des Pays de la Loire et de Rhône-Alpes ;
 
--les présidents du MEDEF régional (Mouvement des entreprises de France) d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin, des Pays de la Loire, de Poitou-Charentes, de Rhône-Alpes et le président de COOP de France ;
+- les présidents du MEDEF régional (Mouvement des entreprises de France) d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin, des Pays de la Loire, de Poitou-Charentes, de Rhône-Alpes et le président de COOP de France ;
 
 Deux représentant des producteurs d'électricité désignés par l'Union française de l'électricité ;
 
@@ -32,7 +32,7 @@ Deux représentant des distributeurs d'eau désignés par la Fédération profes
 
 Six représentants des associations agréées de défense des consommateurs désignés par le préfet coordonnateur de bassin sur proposition des instances représentatives des consommateurs du bassin ;
 
-Sept représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
+Sept représentants des associations agréées de protection de la nature, dont un ayant compétence dans le domaine littoral ou des milieux marins, désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
 
 Un représentant des organismes de protection des marais atlantiques désigné par le préfet coordonnateur de bassin, après consultation des autres préfets représentant l'Etat au comité.
 

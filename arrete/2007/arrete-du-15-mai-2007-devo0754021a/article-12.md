@@ -20,7 +20,7 @@ Un représentant du tourisme désigné par le préfet coordonnateur de bassin su
 
 Un représentant des activités nautiques désignés par le préfet coordonnateur de bassin sur proposition des instances représentatives de ces activités dans le bassin ;
 
-Vingt-cinq représentants de l'industrie désignés par un collège formé par :
+Vingt-cinq représentants de l'industrie, dont un issu des industries portuaires et un du tourisme littoral, désignés par un collège formé par :
 
 - les présidents des chambres régionales de commerce et d'industrie de Bourgogne, du Centre, de Champagne-Ardenne, d'Ile-de-France, de Basse-Normandie, de Haute-Normandie, de Picardie et de Paris ;
 
@@ -32,7 +32,7 @@ Trois représentants des distributeurs d'eau désignés par la Fédération prof
 
 Six représentants des associations agréées de défense des consommateurs désignés par le préfet coordonnateur de bassin, sur proposition des instances représentatives des consommateurs du bassin ;
 
-Neuf représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin.
+Neuf représentants des associations agréées de protection de la nature, dont un ayant compétence dans le domaine littoral ou des milieux marins, désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin.
 
 Le préfet coordonnateur de bassin invite chaque collège, association ou organisme ci-dessus mentionné à lui faire connaître le nom ou les noms des représentants qu'il a désignés.
 

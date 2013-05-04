@@ -16,11 +16,11 @@ Un représentant de l'aquaculture (eau douce) désigné par la Fédération fran
 
 Un représentant du tourisme ou un représentant des activités nautiques désigné par le préfet coordonnateur de bassin sur proposition des instances représentatives de ces activités dans le bassin ;
 
-Seize représentants de l'industrie désignés par un collège formé par :
+Seize représentants de l'industrie, dont un issu des industries portuaires et un du tourisme littoral, désignés par un collège formé par :
 
--les présidents des       chambres de commerce et d'industrie de région , d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées et de Poitou-Charentes ;
+- les présidents des chambres de commerce et d'industrie de région , d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées et de Poitou-Charentes ;
 
--les présidents du MEDEF régional (Mouvement des entreprises de France) d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées, de Poitou-Charentes et le président de COOP de France.
+- les présidents du MEDEF régional (Mouvement des entreprises de France) d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées, de Poitou-Charentes et le président de COOP de France.
 
 Deux représentants des producteurs d'électricité désignés par l'Union française de l'électricité ;
 
@@ -30,7 +30,7 @@ Un représentant des sociétés d'aménagement régional désigné par le collè
 
 Quatre représentants des associations agréées de défense des consommateurs désignés par le préfet coordonnateur de bassin sur proposition des instances représentatives des consommateurs du bassin ;
 
-Cinq représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
+Cinq représentants des associations agréées de protection de la nature, dont un ayant compétence dans le domaine littoral ou des milieux marins, désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
 
 Le préfet coordonnateur de bassin invite chaque collège, association ou organisme ci-dessus mentionné à lui faire connaître le nom ou les noms des représentants qu'il a désignés.
 

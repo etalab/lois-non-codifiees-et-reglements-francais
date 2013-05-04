@@ -20,11 +20,11 @@ Un représentant du tourisme désigné par le préfet coordonnateur de bassin su
 
 Un représentant des activités nautiques désigné par le préfet coordonnateur de bassin sur proposition des instances représentatives de ces activités dans le bassin ;
 
-Vingt-trois représentants de l'industrie désignés par un collège formé par :
+Vingt-trois représentants de l'industrie, dont un issu des industries portuaires et un issu du tourisme littoral, désignés par un collège formé par :
 
--les présidents des       chambres de commerce et d'industrie de région  de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur-Corse et de Rhône-Alpes ;
+- les présidents des chambres de commerce et d'industrie de région de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur-Corse et de Rhône-Alpes ;
 
--les présidents du MEDEF régional (Mouvement des entreprises de France) de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur et de Rhône-Alpes et le président de COOP de France ;
+- les présidents du MEDEF régional (Mouvement des entreprises de France) de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur et de Rhône-Alpes et le président de COOP de France ;
 
 Deux représentants des producteurs d'électricité désignés par l'Union française de l'électricité ;
 
@@ -34,7 +34,7 @@ Cinq représentants des associations agréées de défense des consommateurs dé
 
 Deux représentants des sociétés d'aménagement régional désignés par un collège formé par les présidents de la Société du canal de Provence et d'aménagement de la région provençale et de la Compagnie nationale d'aménagement du Bas-Rhône et du Languedoc ;
 
-Six représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
+Six représentants des associations agréées de protection de la nature, dont un ayant compétence dans le domaine littoral ou des milieux marins, désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
 
 Le préfet coordonnateur de bassin invite chaque collège, association ou organisme ci-dessus mentionné à lui faire connaître le nom ou les noms des représentants qu'il a désignés.
 
