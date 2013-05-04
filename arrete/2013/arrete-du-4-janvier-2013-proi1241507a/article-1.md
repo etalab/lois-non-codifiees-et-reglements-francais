@@ -298,12 +298,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service risques de la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne.<br/>
 </p>
 </td>
@@ -325,6 +319,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <p align="left">Chef du service environnement industriel et risques (SEIR) à la direction régionale de l'environnement, de l'aménagement et du logement du Centre.<br/>
 </p>
 </td>
+</tr>
+<tr>
+<td>Secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement du Centre. (Ajouté le 1er avril 2013) </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -597,6 +594,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <td align="left" valign="top">
 <p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013)<br/>
 </td>
 </tr>
 <tr>

@@ -120,7 +120,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
+<p align="left">Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Supprimé le 1er juillet 2013)</p>
 </td>
 </tr>
 <tr>
@@ -137,6 +137,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 <td align="left" valign="top">
 <p align="left">Chef de service, adjoint au titre de la coordination de l'inspection des installations classées, au service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Supprimé le 1er juillet 2013)</p>
 </td>
+</tr>
+<tr>
+<td>Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013) </td>
 </tr>
 <tr>
 <td align="left" valign="top">
