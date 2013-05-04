@@ -262,7 +262,6 @@
 - [Arrêté du 15 juillet 2005 (DEFD0501018A)](arrete-du-15-juillet-2005-defd0501018a)
 - [Arrêté du 15 juillet 2005 (SANP0522730A)](arrete-du-15-juillet-2005-sanp0522730a)
 - [Arrêté du 15 mars 2005 (EQUA0500526A)](arrete-du-15-mars-2005-equa0500526a)
-- [Arrêté du 15 mars 2005 (SOCF0510481A)](arrete-du-15-mars-2005-socf0510481a)
 - [Arrêté du 15 novembre 2005 (ECOP0500676A)](arrete-du-15-novembre-2005-ecop0500676a)
 - [Arrêté du 15 novembre 2005 (MAEA0520442A)](arrete-du-15-novembre-2005-maea0520442a)
 - [Arrêté du 15 septembre 2005 (AGRF0502168A)](arrete-du-15-septembre-2005-agrf0502168a)
