@@ -6,6 +6,4 @@ Les épreuves d'admission comprennent :
 
 - un exposé oral portant sur les matières du même titre ;
 
-- une épreuve consistant à rédiger en quatre heures, à partir d'un dossier, une note de synthèse portant sur les matières du programme ;
-
 - un entretien avec le jury d'une durée d'une demi-heure portant sur des sujets d'actualité. Cet entretien doit permettre au jury, concurremment avec l'examen des dossiers individuels, de parfaire son opinion sur la personnalité des candidats.
