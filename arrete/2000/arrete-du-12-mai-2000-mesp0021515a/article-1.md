@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des diplômes de médecine du don visée à l'article R. 1222-17 comprend le diplôme de formation en médecine du don délivré conjointement par l'Etablissement français du sang et l'Institut national de la transfusion sanguine, le diplôme interuniversitaire de transfusion sanguine et de don du sang des facultés de médecine des universités Lyon-I, Grenoble, Saint-Etienne et Clermont-Ferrand et le diplôme interuniversitaire de transfusion sanguine et de médecine du don des facultés de médecine des universités Nancy-I, Besançon, Dijon, Lille, Reims et Strasbourg.
+La liste des diplômes de médecine du don visée à l'article R. 1222-17 comprend le diplôme de formation en médecine du don délivré conjointement par l'Etablissement français du sang et l'Institut national de la transfusion sanguine, le diplôme universitaire de médecine du don délivré par l'université Paris-Est Créteil, le diplôme interuniversitaire de transfusion sanguine et de don du sang des facultés de médecine des universités Lyon-I, Grenoble, Saint-Etienne et Clermont-Ferrand et le diplôme interuniversitaire de transfusion sanguine et de médecine du don des facultés de médecine des universités Nancy-I, Besançon, Dijon, Lille, Reims et Strasbourg.
 
 Toutefois, d'autres enseignements ou formations peuvent être inscrits sur la présente liste. Ces enseignements ou formations comprennent au moins les thèmes suivants :
 

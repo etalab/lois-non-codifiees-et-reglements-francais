@@ -1,6 +1,6 @@
 # Article 2
 
-La liste des diplômes spécifiques à la médecine transfusionnelle visée à l'article R. 1222-24 comprend le diplôme universitaire de technologie thérapeutique transfusionnelle délivré par l'université Pierre et Marie Curie - Paris-VI.
+La liste des diplômes spécifiques à la médecine transfusionnelle visée à l'article R. 1222-24 comprend le diplôme universitaire de technologie thérapeutique transfusionnelle délivré par l'université Pierre et Marie Curie - Paris-VI et le diplôme universitaire de transfusion sanguine délivré par l'université Paris-Est Créteil.
 
 Toutefois, d'autres enseignements ou formations peuvent être inscrits sur la présente liste. Ces enseignements ou formations comprennent au moins les thèmes suivants :
 
