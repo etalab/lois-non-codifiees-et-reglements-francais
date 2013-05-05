@@ -1,10 +1,10 @@
 # Article 19
 
-Pour qu'un établissement de paiement ayant son siège social dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique européen puisse créer une succursale, recourir à un agent, ou intervenir en libre prestation de services en vue de fournir des services de paiement sur le territoire de la France métropolitaine, dans les départements d'outre-mer, à Saint-Martin ou à Saint-Barthélemy et selon les dispositions prévues par le II de l'article L. 522-13 du code monétaire et financier, le Comité des établissements de crédit et des entreprises d'investissement doit avoir au préalable reçu de l'autorité compétente de l'Etat d'origine les informations suivantes accompagnées de leurs traductions certifiées conformes en français :
+Pour qu'un établissement de paiement ayant son siège social dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique européen puisse créer une succursale, recourir à un agent, ou intervenir en libre prestation de services en vue de fournir des services de paiement sur le territoire de la France métropolitaine, dans les départements d'outre-mer ou à Saint-Martin  et selon les dispositions prévues par le II de l'article L. 522-13 du code monétaire et financier, le Comité des établissements de crédit et des entreprises d'investissement doit avoir au préalable reçu de l'autorité compétente de l'Etat d'origine les informations suivantes accompagnées de leurs traductions certifiées conformes en français :
 
 1° La dénomination sociale et l'adresse du siège social, ou, le cas échéant, de l'administration centrale de l'établissement de paiement ;
 
-2° Le type de services de paiement que l'établissement entend fournir sur le territoire de la France métropolitaine, des départements d'outre-mer, à Saint-Barthélemy ou à Saint-Martin ;
+2° Le type de services de paiement que l'établissement entend fournir sur le territoire de la France métropolitaine, des départements d'outre-mer ou à Saint-Martin ;
 
 ainsi que, pour les succursales :
 

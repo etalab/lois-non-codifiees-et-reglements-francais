@@ -1,0 +1,3 @@
+# Article 3-6
+
+<div align="left">Par  dérogation à l'article 2-1, les établissements de monnaie électronique  qui octroient des crédits dans le cadre de la fourniture de services  connexes à la prestation de services de paiement mentionnée à l'article L. 526-2 du code monétaire et financier  doivent à tout moment disposer d'un montant de fonds propres égal à la  somme des exigences fixées par l'article 42 de l'arrêté du 2 mai 2013  portant sur la réglementation prudentielle des établissements de monnaie  électronique et des exigences telles que déterminées pour l'approche  standard du risque de crédit.</div>

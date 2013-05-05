@@ -1,6 +1,6 @@
 # Article 16
 
-Tout établissement assujetti ayant son siège social sur le territoire de la France métropolitaine, dans les départements d'outre-mer, à Saint-Martin ou à Saint-Barthélemy, désirant établir une succursale ou intervenir en libre prestation de services pour la première fois dans un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen pour fournir des services de paiement, selon les dispositions du I de l'article L. 522-13 du code monétaire et financier, communique au Comité des établissements de crédit et des entreprises d'investissement les informations suivantes :
+Tout établissement assujetti ayant son siège social sur le territoire de la France métropolitaine, dans les départements d'outre-mer         ou à Saint-Martin, désirant établir une succursale ou intervenir en libre prestation de services pour la première fois dans un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen pour fournir des services de paiement, selon les dispositions du I de l'article L. 522-13 du code monétaire et financier, communique au Comité des établissements de crédit et des entreprises d'investissement les informations suivantes :
 
 1° Sa dénomination sociale et l'adresse de son siège social ;
 

@@ -4,7 +4,7 @@ Méthode C.
 
 Le montant des fonds propres est, à tout moment, supérieur ou égal à l'indicateur défini au point a multiplié par le facteur p déterminé au point b et par le facteur k défini à l'article 30 du présent arrêté.
 
-a) L'indicateur applicable est la somme des éléments suivants :
+a) L'indicateur applicable est égal à la somme des éléments suivants observés, à la fin de l'exercice précédent, sur les douze derniers mois constituant cet exercice :
 
 ― produits d'intérêts ;
 
@@ -14,9 +14,9 @@ a) L'indicateur applicable est la somme des éléments suivants :
 
 ― autres produits d'exploitation.
 
-Chaque élément, tel que défini par les règles comptables applicables aux établissements assujettis, est inclus dans la somme avec son signe, positif ou négatif. Les produits exceptionnels ou inhabituels ne sont pas utilisés pour calculer l'indicateur applicable. Les dépenses liées à l'externalisation de services fournis par des tiers peuvent minorer l'indicateur applicable si elles sont engagées par un autre établissement assujetti ou par un autre prestataire de services de paiement. L'indicateur applicable est calculé sur la base de l'observation de douze mois effectuée à la fin de l'exercice précédent. Lorsque les chiffres utilisés ne proviennent pas des comptes publiés, des estimations peuvent être utilisées à moins que la Commission bancaire n'exige un ajustement de ces estimations.
+Chaque élément, tel que défini par les règles comptables applicables aux établissements assujettis, est inclus dans la somme avec son signe, positif ou négatif. Les produits exceptionnels ou inhabituels ne sont pas utilisés pour calculer l'indicateur applicable. Les dépenses liées à l'externalisation de services fournis par des tiers peuvent minorer l'indicateur applicable si elles sont engagées par un autre établissement assujetti ou par un autre prestataire de services de paiement. Lorsque les chiffres utilisés ne proviennent pas des comptes publiés, des estimations peuvent être utilisées à moins que la Commission bancaire n'exige un ajustement de ces estimations.
 
-Le montant des fonds propres calculé suivant cette méthode ne peut pas être inférieur à 80 % de la moyenne des trois exercices précédents pour l'indicateur applicable.
+Le montant des fonds propres calculé suivant cette méthode ne peut pas être inférieur à 80 % du montant qui aurait été calculé, selon la méthode C, en appliquant pour ce calcul un indicateur moyen calculé sur les trois exercices précédents.
 
 b) Le facteur p de multiplication est égal à :
 
