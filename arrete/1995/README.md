@@ -465,7 +465,6 @@
 - [Arrêté du 12 janvier 1995 (SPSS9500100A)](arrete-du-12-janvier-1995-spss9500100a)
 - [Arrêté du 12 juillet 1995 (AGRP9501382A)](arrete-du-12-juillet-1995-agrp9501382a)
 - [Arrêté du 12 juillet 1995 (DEFT9501820A)](arrete-du-12-juillet-1995-deft9501820a)
-- [Arrêté du 12 juillet 1995 (MENL9501425A)](arrete-du-12-juillet-1995-menl9501425a)
 - [Arrêté du 12 juin 1995 (DEFT9501694A)](arrete-du-12-juin-1995-deft9501694a)
 - [Arrêté du 12 juin 1995 (DEFT9501695A)](arrete-du-12-juin-1995-deft9501695a)
 - [Arrêté du 12 juin 1995 (ECOT9510237A)](arrete-du-12-juin-1995-ecot9510237a)
