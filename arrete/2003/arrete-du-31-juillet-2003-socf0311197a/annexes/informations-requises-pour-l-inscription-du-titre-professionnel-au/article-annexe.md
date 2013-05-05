@@ -2,83 +2,85 @@
 
 Intitulé :
 
-Titre professionnel : monteur-dépanneur frigoriste.
+Titre professionnel : monteur, dépanneur, frigoriste (ancien intitulé : monteur-dépanneur frigoriste).
 
 Niveau : V.
 
-Code NSF : 227 r.
+Code NSF : 227 f.
 
 Résumé du référentiel d'emploi
 
-Le monteur-dépanneur frigoriste installe, met en service et maintient, sur instructions, les équipements frigorifiques monopostes utilisés pour la conservation de denrées périssables équipant les points de distribution alimentaire, (chambres froides, vitrines et armoires réfrigérées, machines à glace, équipements frigorifiques, etc.) et des équipements de confort thermodynamique (pompe à chaleur, refroidisseur d'eau, etc.).
+Le monteur dépanneur frigoriste réalise l'installation, la mise en service et la maintenance d'équipements frigorifiques monopostes et thermodynamiques de conception technologique élémentaire, tels que petites chambres froides, meubles frigorifiques de vente, armoires réfrigérées, pompes à chaleur de petite puissance, climatisations réversibles.
 
-Pour des équipements frigorifiques centralisés, il réalise les raccordements fluidiques et électriques, participe, en appui à un technicien, aux activités de mise en service et réalise, sur instructions, la maintenance préventive des premier et deuxième niveaux.
+Il assure, sur instructions, le montage, la préparation à la mise en service et la maintenance préventive des équipements frigorifiques de conception technologique complexe tels que centrales frigorifiques, équipements en cascade ou en booster, équipements à circuit secondaire de refroidissement pour les surfaces de vente, les petits process industriels et le conditionnement d'air dans le petit collectif.
 
-Il travaille souvent seul, ce qui nécessite une attention soutenue, le respect des normes de sécurité et l'application de la réglementation en vigueur. Il est amené à effectuer des opérations dans un contexte à risques : lors de la manipulation de fluides frigorigènes, à l'occasion d'interventions sur les équipements électriques et sur des appareils à pression. Pour certaines de ces interventions, il doit être certifié et habilité.
+Il travaille souvent seul et se rend sur les sites avec un véhicule de service. Il est exposé aux risques liés au travail sur site : manutention, travail en hauteur, utilisation des postes à souder, risques électriques, risques liés à l'utilisation des fluides frigorigènes et aux appareils sous pression.
 
-Le monteur-dépanneur frigoriste n'intervient pas dans la fonction étude, celle-ci étant réalisée par un technicien pour les petites études et par un bureau d'études pour les autres.
+Il tient l'emploi dans le respect des règles de sécurité individuelles et collectives et, s'il existe, en application du plan particulier de sécurité et de protection de la santé (PPSPS), sinon du plan de prévention, des règles sur la protection de l'environnement concernant les fluides frigorigènes et de la réglementation des équipements sous pression.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes de la certification
 
-des composantes de la certification
+1. Installer et mettre en service des équipements frigorifiques monopostes
 
-1. Installer et mettre en service
+Préparer l'installation d'un équipement frigorifique de conservation à température positive ou négative.
 
-des équipements frigorifiques monopostes
+Réaliser le montage fluidique et électrique d'un équipement frigorifique de conservation à température positive ou négative.
 
-Réaliser l'installation et la mise en service d'un équipement frigorifique à température positive.
+Réaliser la mise en service et la restitution d'un équipement frigorifique de conservation à température positive.
 
-Réaliser le remplacement d'un groupe frigorifique sur un équipement frigorifique monoposte.
+Réaliser la mise en service et la restitution d'un équipement frigorifique de conservation à température négative.
 
-Réaliser l'installation et la mise en service d'un équipement frigorifique à température négative.
+2. Réaliser la maintenance des équipements frigorifiques monopostes ou thermodynamiques
 
-Réaliser le montage de chambres froides, de meubles et de matériels frigorifiques.
+Réaliser la maintenance corrective d'un équipement frigorifique monoposte ou thermodynamique.
 
-2. Réaliser, sur instructions, la maintenance
+Réaliser la maintenance préventive d'un équipement frigorifique monoposte ou thermodynamique.
 
-des équipements frigorifiques monopostes
+3. Réaliser, sur instructions, l'installation, la préparation à la mise en service et la maintenance préventive des équipements frigorifiques complexes ou centralisés
 
-Diagnostiquer les causes de dysfonctionnement d'un équipement frigorifique monoposte.
+Réaliser, sur instructions, l'installation fluidique d'un équipement frigorifique complexe ou centralisé.
 
-Remplacer les éléments défectueux d'un équipement frigorifique monoposte et le remettre en service.
+Réaliser, sur instructions, l'installation électrique d'un équipement frigorifique complexe ou centralisé.
 
-Réaliser, sur instructions, la maintenance préventive des équipements frigorifiques monopostes.
+Préparer, sur instructions, la mise en service d'un équipement frigorifique complexe ou centralisé.
 
-Réaliser, sur instructions, la maintenance des équipements frigorifiques monopostes complexes.
+Réaliser, sur instructions, la maintenance préventive d'un équipement frigorifique complexe ou centralisé.
 
-3. Installer, participer à la mise en service et réaliser, sur instructions, la maintenance préventive des équipements frigorifiques centralisés
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Réaliser l'installation fluidique d'un équipement frigorifique centralisé.
+Le froid commercial et industriel (maintien de la chaîne du froid des produits agroalimentaires, depuis leur production jusqu'à leur point de vente).
 
-Réaliser l'installation électrique d'un équipement frigorifique centralisé.
+L'équipement technique de cuisines professionnelles.
 
-Participer à la mise en service d'un équipement frigorifique centralisé.
+Le confort thermodynamique et le conditionnement d'air,
 
-Réaliser, sur instructions, la maintenance préventive des premier et deuxième niveaux des équipements frigorifiques centralisés.
+pour des activités de construction, d'installation, de maintenance et d'exploitation.
 
-Secteurs d'activités et types d'emploi
+Frigoriste.
 
-accessibles par le détenteur du titre
+Dépanneur en installations de froid et climatisation.
 
-Entreprises du froid, d'équipements de cuisines professionnelles et du conditionnement d'air.
+Electricien frigoriste.
 
-Constructeurs d'équipement de froid, de cuisines professionnelles et de climatisation, lorsqu'ils possèdent un service installation ou un service après-vente.
-
-Entreprises de maintenance assurant la gestion technique d'équipements, par contrat, pour le compte de leurs clients.
-
-Gros utilisateurs lorsque ceux-ci assurent eux-mêmes la maintenance de leurs équipements.
+Electromécanicien frigoriste.
 
 Code ROME :
 
-52332-Maintenicien (ne) des systèmes thermiques, climatiques et frigorifiques.
+I1306-Installation et maintenance en froid, conditionnement d'air.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (norme C18-510) ;
+Articles R. 4544-9 et R. 4544-10 du code du travail : habilitation électrique délivrée par l'employeur au niveau :
 
-Agrément pour la manipulation de fluides frigorigènes ;
+BR pour la mise en service et la maintenance ;
 
-Certification de braseur pour les appareils sous pression.
+B1V pour le montage électrique ;
+
+Article R. 543-106 du code de l'environnement : attestation d'aptitude à la manipulation des fluides frigorigènes, catégorie I ;
+
+Arrêté du 15 mars 2000 et cahiers techniques professionnels relatifs à l'inspection en service des équipements sous pression utilisés en réfrigération et conditionnement de l'air : habilitation aux inspections périodiques des équipements sous pression ;
+
+NF EN 13133 et annexe B EN 14276-1 relative à la certification de qualification de braseur de catégorie 1.
 
 Autorité responsable de la certification :
 

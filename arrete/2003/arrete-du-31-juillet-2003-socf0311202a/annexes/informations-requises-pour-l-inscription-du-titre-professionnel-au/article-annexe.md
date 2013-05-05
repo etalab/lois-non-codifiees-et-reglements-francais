@@ -2,95 +2,95 @@
 
 Intitulé :
 
-Titre professionnel : technicien d'intervention en froid commercial et climatisation.
+Titre professionnel : technicien d'intervention en froid commercial et climatisation (ancien intitulé : technicien d'intervention en froid commercial et climatisation).
 
 Niveau : IV.
 
-Code NSF : 227 r.
+Code NSF : 227 f.
 
 Résumé du référentiel d'emploi
 
-Le technicien d'intervention en froid commercial et climatisation étudie, organise, installe, met en service et assure la maintenance des équipements utilisés pour la conservation de denrées périssables équipant les points de distribution alimentaire (chambres froides, vitrines et armoires réfrigérées, équipements de froid grand public, équipements mono-et multicompresseurs), ainsi que les équipements de conditionnement d'air (climatisation et pompe à chaleur à détente directe, réversibles, monoblocs, split ou multisplit) ou à circuit secondaire de refroidissement pour l'habitat résidentiel ou le petit collectif. La fonction étude des équipements frigorifiques centralisés ne fait pas partie de ses activités.
+Le technicien d'intervention en froid commercial et climatisation réalise la sélection, l'installation, la mise en service et la maintenance d'équipements frigorifiques monopostes et d'équipements thermodynamiques de conception technologique élémentaire, tels que petites chambres froides, meubles frigorifiques de vente, armoires réfrigérées, pompe à chaleur, climatisation réversible.
 
-Il est amené à diriger une équipe de monteurs sur un chantier d'installation et à assister un responsable de service après-vente. Afin d'améliorer les conditions de fonctionnement des équipements, il propose à la clientèle des modifications d'équipements et en prépare le chiffrage.
+Il organise et assure la mise en service, la maintenance et l'optimisation énergétique des équipements frigorifiques complexes ou centralisés, tels que centrales frigorifiques, équipements en cascade ou en booster, équipements à circuit secondaire de refroidissement pour les surfaces de ventes, les petits process industriels et le conditionnement d'air dans le petit collectif.
 
-Il travaille souvent seul ce qui nécessite une attention soutenue, le respect des normes de sécurité et l'application de la réglementation en vigueur. Il est amené à effectuer des opérations dans un contexte à risques : lors de la manipulation de fluides frigorigènes, à l'occasion d'interventions sur les équipements électriques et sur des appareils à pression. Pour certaines de ces interventions, il doit être certifié et habilité.
+Il collecte les éléments qui serviront à réaliser le dossier réglementaire des équipements sous pression.
 
-La fonction étude concerne à la fois la réalisation d'équipements neufs monopostes de froid commercial et la modification d'équipements existants lors des opérations de maintenance. Par contre, l'étude d'équipements équipant les grandes surfaces d'alimentation est prise en charge par des bureaux d'étude.
+Il travaille souvent seul et se rend sur les sites avec un véhicule de service. Il est exposé aux risques liés au travail sur site : manutention, travail en hauteur, utilisation des postes à souder, risques électriques, risques liés à l'utilisation des fluides frigorigènes et aux appareils sous pression.
 
-Capacités attestées et descriptif
+Il tient l'emploi dans le respect des règles de sécurité individuelle et collective et, s'il existe, en application du plan particulier de sécurité et de protection de la santé (PPSPS), sinon du plan de prévention, des règles sur la protection de l'environnement concernant les fluides frigorigènes et de la réglementation des équipements sous pression.
 
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Sélectionner les composants, installer
+1. Sélectionner les composants, installer et mettre en service des équipements frigorifiques monopostes
 
-et mettre en service des équipements frigorifiques monopostes
+Sélectionner et préparer l'installation d'un équipement frigorifique monoposte.
 
-Sélectionner et réaliser l'installation et la mise en service d'un équipement frigorifique à température positive.
+Réaliser le montage fluidique et électrique d'un équipement frigorifique de conservation à température positive ou négative.
 
-Sélectionner, organiser, réaliser l'installation et la mise en service d'un équipement frigorifique à température négative.
+Réaliser la mise en service d'un équipement frigorifique monoposte à température positive.
 
-Organiser, réaliser le montage de chambres froides, de meubles frigorifiques et de leurs équipements.
+Réaliser la mise en service d'un équipement frigorifique monoposte à température négative.
 
-2. Assurer et organiser la maintenance
+Réaliser le dossier technique et la mise à disposition d'un équipement frigorifique monoposte.
 
-des équipements frigorifiques monopostes
+2. Organiser et assurer la maintenance des équipements frigorifiques monopostes ou thermodynamiques
 
-Diagnostiquer les causes de dysfonctionnement d'un équipement frigorifique monoposte.
+Réaliser la maintenance corrective d'un équipement frigorifique monoposte ou thermodynamique.
 
-Remplacer les éléments défectueux d'un équipement frigorifique monoposte et le remettre en service.
+Elaborer le plan de maintenance préventive d'un équipement frigorifique monoposte ou thermodynamique.
 
-Elaborer un plan de maintenance préventive d'un équipement frigorifique monoposte.
+Réaliser la maintenance préventive d'un équipement frigorifique monoposte ou thermodynamique.
 
-Assurer les fonctions de chef d'équipe de maintenance intervenant sur les équipements frigorifiques monopostes.
+3. Organiser et assurer la mise en service des équipements frigorifiques complexes ou centralisés
 
-3. Organiser l'installation et assurer la mise en service
+Préparer et organiser la mise en service d'un équipement frigorifique complexe ou centralisé.
 
-des équipements frigorifiques centralisés
+Réaliser la mise en service d'un équipement frigorifique complexe ou centralisé.
 
-Organiser et réaliser l'installation d'équipements frigorifiques centralisés.
+Réaliser la mise au point et l'optimisation d'un équipement frigorifique complexe ou centralisé.
 
-Organiser et réaliser les opérations préalables à la mise en service des équipements frigorifiques centralisés.
+4. Organiser et assurer la maintenance des équipements frigorifiques complexes ou centralisés
 
-Mettre en service des équipements frigorifiques centralisés.
+Réaliser la maintenance corrective d'un équipement frigorifique complexe ou centralisé.
 
-Assurer les fonctions de chef d'équipe dans les services montage et de maintenance avec service d'astreinte, de metteur au point d'équipement frigorifique dans les surfaces de vente.
+Elaborer le plan de maintenance préventive d'un équipement frigorifique complexe ou centralisé.
 
-4. Organiser la maintenance préventive et assurer la maintenance
+Réaliser la maintenance préventive d'un équipement frigorifique complexe ou centralisé.
 
-corrective de 4e niveau des équipements frigorifiques centralisés
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Diagnostiquer les causes de dysfonctionnement d'un équipement frigorifique centralisé.
+Le froid commercial et industriel : maintien de la chaîne du froid des produits agroalimentaires, depuis leur production jusqu'à leur point de vente.
 
-Remplacer les éléments défectueux d'un équipement frigorifique centralisé et le remettre en service.
+L'équipement technique des cuisines professionnelles.
 
-Elaborer un plan de maintenance préventive d'un équipement frigorifique centralisé.
+Le confort thermodynamique et le conditionnement d'air,
 
-Assurer les fonctions de chef d'équipe de maintenance intervenant sur un équipement frigorifique centralisé.
+pour des activités de construction, d'installation, de maintenance et d'exploitation.
 
-Secteurs d'activités et types d'emploi
+Technicien en froid et climatisation.
 
-accessibles par le détenteur du titre
+Dépanneur en installations de froid et climatisations, électricien frigoriste.
 
-Les entreprises du froid, d'équipements de cuisines professionnelles et du conditionnement d'air.
-
-Les constructeurs d'équipements de froid, de cuisines professionnelles et de climatisation, lorsqu'ils possèdent un service installation ou un service après-vente.
-
-Les entreprises de maintenance assurant la gestion technique d'équipements, par contrat, pour le compte de leurs clients.
-
-Les gros utilisateurs, lorsque ceux-ci assurent eux-mêmes la maintenance de leurs équipements.
+Electromécanicien frigoriste, frigoriste.
 
 Code ROME :
 
-52332-Maintenicien (ne) des systèmes thermiques, climatiques et frigorifiques.
+I1306-Installation et maintenance en froid, conditionnement d'air.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (norme C18-510) ;
+Articles R. 4544-9 et R. 4544-10 du code du travail : habilitation électrique délivrée par l'employeur au niveau :
 
-Agrément pour la manipulation de fluides frigorigènes ;
+BR pour la mise en service et la maintenance ;
 
-Certification de braseur pour les appareils sous pression.
+B2V pour le montage électrique ;
+
+Article R. 543-106 du code de l'environnement : attestation d'aptitude à la manipulation des fluides frigorigènes, catégorie I ;
+
+Arrêté du 15 mars 2000 et cahiers techniques professionnels relatifs à l'inspection en service des équipements sous pression utilisés en réfrigération et conditionnement de l'air : habilitation aux inspections périodiques des équipements sous pression ;
+
+NF EN 13133 et annexe B EN 14276-1 relative à la certification de qualification de braseur de catégorie 1.
 
 Autorité responsable de la certification :
 
