@@ -2017,7 +2017,6 @@
 - [Arrêté du 24 août 2009 (IOCC0908319A)](arrete-du-24-aout-2009-iocc0908319a)
 - [Arrêté du 24 août 2009 (JUSF0920048A)](arrete-du-24-aout-2009-jusf0920048a)
 - [Arrêté du 24 août 2009 (MTSA0916034A)](arrete-du-24-aout-2009-mtsa0916034a)
-- [Arrêté du 24 avril 2009 (AGRF0909508A)](arrete-du-24-avril-2009-agrf0909508a)
 - [Arrêté du 24 avril 2009 (AGRF0909509A)](arrete-du-24-avril-2009-agrf0909509a)
 - [Arrêté du 24 avril 2009 (AGRF0909511A)](arrete-du-24-avril-2009-agrf0909511a)
 - [Arrêté du 24 avril 2009 (AGRF0909512A)](arrete-du-24-avril-2009-agrf0909512a)

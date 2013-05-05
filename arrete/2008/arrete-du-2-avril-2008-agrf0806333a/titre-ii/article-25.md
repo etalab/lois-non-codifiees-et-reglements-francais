@@ -9,5 +9,3 @@ La validité des documents étrangers attestant des origines de l'équidé est c
 ― les informations relatives à la filiation de l'animal sont certifiées par cette autorité.
 
 En tant que de besoin, une enquête est diligentée par l'établissement public l'Institut français du cheval et de l'équitation.
-
-Lorsque les origines de l'équidé sont certifiées par une autorité reconnue, elles sont prises en compte. Lorsque l'équidé est inscrit dans un stud-book reconnu, il porte l'appellation du stud-book dans lequel il est inscrit. Dans le cas contraire, l'équidé porte l'appellation  origine étrangère .

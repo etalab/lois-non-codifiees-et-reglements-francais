@@ -1,3 +1,0 @@
-# Article 24
-
-La concordance entre les signalements relevés sur le territoire national et ceux attestés sur les documents étrangers est validée par l'établissement public l'Institut français du cheval et de l'équitation. En cas d'anomalie, un complément d'information est demandé à la personne habilitée et, le cas échéant, une enquête est ouverte auprès de l'autorité étrangère ayant émis ces documents.

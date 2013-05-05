@@ -1,113 +1,25 @@
 # Article Annexe II
 
-INSTRUCTIONS RELATIVES À LA PROCÉDURE À SUIVRE POUR L'ENREGISTREMENT DE LA FILIATION D'UN ÉQUIDÉ
+INSTRUCTIONS RELATIVES À LA PROCÉDURE À SUIVRE POUR L'ENREGISTREMENT DE LA FILIATION D'UN ÉQUIDÉ DANS LE FICHIER CENTRAL ZOOTECHNIQUE DES ÉQUIDÉS
 
-Chapitre Ier : Produits issus de saillies déclarées d'étalons ou de baudets approuvés pour produire dans un stud-book ou un registre.
+I. - Produits issus de saillies déclarées d'étalons ou de baudets approuvés pour produire dans un stud-book ou un registre
 
-Section 1 : Obligations de l'étalonnier
+Pour tout étalon approuvé conformément aux dispositions de l'article R. 653-82 du code rural et de la pêche maritime, un ensemble de cartes de saillie, valable pour une seule saison de monte, est remis par l'organisme qui tient le livre généalogique concerné au propriétaire de l'étalon ou aux personnes titulaires d'un mandat du propriétaire ou pouvant attester de la propriété des doses.
 
-Pour tout étalon approuvé conformément aux dispositions de l'article R. 653-82 du code rural et de la pêche maritime, un ensemble de cartes de saillie, valable pour une seule saison de monte, est remis par l'établissement public l'Institut français du cheval et de l'équitation au propriétaire de l'étalon ou aux personnes titulaires d'un mandat du propriétaire ou pouvant attester de la propriété des doses.
+L'étalonnier doit se conformer aux instructions concernant la tenue des documents de monte qui lui sont communiqués par l'organisme qui tient le livre généalogique.
 
-Ces cartes indiquent les stud-books et registres pour lesquels l'étalon est approuvé.
+Lorsque l'Institut français du cheval et de l'équitation tient le livre généalogique, la participation des propriétaires d'étalons aux frais d'établissement des cartes de saillie est fixée chaque année par le conseil d'administration de cet institut.
 
-L'étalonnier doit se conformer aux instructions concernant la tenue des documents de monte qui lui sont communiqués par l'établissement public l'Institut français du cheval et de l'équitation.
+Le certificat de saillie au verso duquel figure la déclaration de naissance est remis à l'éleveur en fin de monte. L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
 
-La participation des propriétaires d'étalons aux frais d'établissement des cartes de saillie est fixée chaque année par le conseil d'administration de l'établissement public l'institut français du cheval et de l'équitation.
+Un cahier des charges établi par l'organisme qui tient le livre généalogique définit les modalités de gestion de la monte, dont les instructions auxquelles doit se conformer l'étalonnier.
 
-Lorsque l'étalon doit changer de lieu de stationnement en cours de saison de monte, le propriétaire de l'étalon doit en aviser l'établissement public l'Institut français du cheval et de l'équitation dans les huit jours suivant le changement. La procédure est identique en cas de mutation en cours de saison de monte.
+II. - Certification de la parenté
 
-Les cartes de saillie, délivrées uniquement aux étalons et aux baudets approuvés pour produire dans un stud-book ou un registre, sont le support utilisé pour l'enregistrement de la filiation de leurs produits. Elles se présentent sous la forme d'une liasse autocopiante composée de plusieurs volets dont une déclaration de premier saut (DPS).
+Pour les équidés d'élevage et de rente nés en France, la parenté peut être certifiée si l'équidé est :
 
-L'étalonnier est tenu de vérifier l'identité des juments qui lui sont présentées préalablement à la saillie et d'apposer son visa sur le document d'identification de la jument.L'étalonnier remplit la DPS dès la première présentation de la jument à l'étalon et la transmet dans les quinze jours suivant le premier saut à l'établissement public l'Institut français du cheval et de l'équitation. Lorsque la monte fait intervenir l'emploi de techniques artificielles de reproduction, ces responsabilités sont assumées par les personnes réalisant les opérations d'insémination et de récolte et de transfert d'embryon.
+- soit issu d'une saillie régulièrement déclarée auprès de l'Institut français du cheval et de l'équitation, d'un étalon ou d'un baudet destiné à la reproduction dans un livre généalogique ;
 
-Le manquement à ces règles peut conduire au retrait de l'approbation de l'étalon. En outre, le conseil d'administration de l'établissement public l'institu français du cheval et de l'équitation peut fixer les délais au delà desquels l'enregistrement de la DPS donne lieu à un paiement de frais d'instruction, dont il fixe le montant.
+- soit issu d'une saillie non déclarée et a fait l'objet d'une déclaration de naissance et d'un contrôle de filiation compatible par génotype et conforme aux normes de l'ISAG (International Society of Animal Genetics).
 
-Les saillies peuvent aussi être déclarées par voie électronique sur le site de l'établissement public l'Institut français du cheval et de l'équitation.
-
-Les cartes de saillie non utilisées et les souches doivent être retournées à l'établissement public l'Institut français du cheval et de l'équitation avant le 1er septembre. Dans le cadre de la monte en liberté ou lorsqu'une jument doit être saillie avant son départ pour l'hémisphère sud, la saison de monte se poursuit jusqu'au 31 décembre et les cartes de saillie doivent être retournées avant le 15 janvier de l'année suivante à l'établissement public l'Institut français du cheval et de l'équitation.
-
-Section 2 : Les étalons de sang et poneys
-
-La liasse est composée de quatre volets :
-
-1. La déclaration de premier saut.
-
-2.L'attestation de saillie est remise par l'étalonnier à l'éleveur en fin de monte.L'étalonnier doit y mentionner chaque saut et certifier, par sa signature, la date du dernier saut :
-
-Elle atteste la réalisation de la saillie et permet à l'acheteur éventuel de la jument d'être informé sur les sommes restant à verser à l'étalonnier lorsqu'il s'agit d'une saillie à paiement fractionné.
-
-Elle doit obligatoirement être présentée lors du relevé de signalement. Elle permet notamment à la personne chargée de relever le signalement d'identifier la saillie dont est issu le produit et de certifier son intervention.
-
-Elle permet de déclarer, le cas échéant, l'avortement, la vacuité ou la mort de la jument et / ou de son produit, et doit alors être retournée, après avoir été complétée au verso, à l'établissement public l'Institut français du cheval et de l'équitation.
-
-3. Le certificat de saillie au verso duquel figure la déclaration de naissance est remis à l'éleveur en fin de monte.L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
-
-La déclaration de naissance doit être transmise, après avoir été dûment complétée, dans les quinze jours suivant la naissance à l'établissement public l'Institut français du cheval et de l'équitation.
-
-L'envoi doit être accompagné d'un chèque d'un montant qui correspond à une participation aux frais engagés pour établir le document d'accompagnement et la carte d'immatriculation du produit augmenté, le cas échéant, du montant relatif au contrôle de filiation ou du typage ADN de la mère du produit.
-
-Il appartient au naisseur ou aux conaisseurs éventuels de s'assurer que la déclaration du naisseur est correctement remplie avant l'envoi de la déclaration de naissance.
-
-4. La déclaration de saillie doit demeurer attachée au carnet de saillie archivé à l'établissement public l'Institut français du cheval et de l'équitation.
-
-Section 3 : Les étalons de trait et ânes
-
-La liasse est composée de trois volets :
-
-1. La déclaration de premier saut de l'année et la déclaration du résultat de la saillie de l'année précédente figurent sur un même document.
-
-La déclaration du résultat de la saillie de l'année précédente est complétée par l'étalonnier et comprend, le cas échéant, la déclaration de naissance du produit qui doit être visée par le naisseur. Il appartient au naisseur de s'assurer que ladite déclaration est correctement remplie avant l'envoi de ce document.
-
-2. Le certificat de saillie est remis par l'étalonnier à l'éleveur en fin de monte.L'étalonnier doit y mentionner chaque saut et certifier, par sa signature, la date du dernier saut.L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
-
-Il doit être présenté lors du relevé de signalement. Il permet notamment à la personne chargée de relever le signalement d'identifier la saillie dont est issu le produit et de certifier son intervention.
-
-Lorsque la jument n'est pas présentée l'année suivante à la saillie d'un étalon de type trait, ce document permet de déclarer le résultat de la saillie de l'année et, le cas échéant, la naissance du produit. Il doit être transmis, après avoir été dûment complété, dans les quinze jours suivant la naissance à l'établissement public l'Institut français du cheval et de l'équitation.
-
-3. La déclaration de saillie doit demeurer attachée au carnet de saillie archivé à l'établissement public l'Institut français du cheval et de l'équitation.
-
-Chapitre II : Cas particuliers
-
-1. Produits issus de saillies non déclarées.
-
-Les étalons et les baudets non approuvés ne reçoivent pas de cartes de saillies.
-
-La naissance du produit doit être déclarée à l'aide du formulaire prévu à cet effet.
-
-Le formulaire est composé d'une liasse de 2 volets :
-
--le premier volet doit être adressé dans les quinze jours à l'établissement public l'Institut français du cheval et de l'équitation ;
-
--le second volet est conservé par le naisseur, il doit être présenté lors du relevé de signalement et il permet notamment à la personne chargée de relever le signalement de le rapprocher de la déclaration de naissance du produit.
-
-Un contrôle de filiation doit être réalisé pour authentifier la filiation.
-
-2. Les transferts d'embryons :
-
-Une jument qui est à l'origine d'un transfert embryonnaire doit être déclarée, préalablement à la première saillie, sur un formulaire prévu à cet effet rempli par le propriétaire et transmis à l'établissement public l'Institut français du cheval et de l'équitation.
-
-Après le premier saut, l'étalonnier doit remettre à l'éleveur l'attestation de saillie sur laquelle figure la déclaration du transfert embryonnaire.L'attestation de saillie doit être transmise, après avoir été dûment complétée par le centre de transfert, à l'établissement public l'Institut français du cheval et de l'équitation. Elle sera visée et retournée à l'éleveur de la jument sous huit jours.
-
-Lorsqu'une jument est à l'origine de plusieurs transferts, il doit être établi autant de déclarations de premier saut que d'embryons transférés.
-
-Un contrôle de filiation doit être réalisé pour authentifier la filiation.
-
-3. Cas particulier des revues :
-
-Si la jument a été saillie la même année par plusieurs étalons, il y a délivrance de plusieurs documents de saillie.C'est le document correspondant au dernier étalon qu'il convient d'utiliser pour établir la déclaration de naissance.
-
-Un contrôle de filiation doit être réalisé pour authentifier la filiation.
-
-4. Pour les produits nés en France de poulinières saillies à l'étranger :
-
-L'établissement public l'Institut français du cheval et de l'équitation met à la disposition des éleveurs les documents spéciaux pour les juments poulinant en France d'un produit conçu à l'étranger.
-
-Le certificat de saillie étranger doit être joint à la déclaration de naissance et adressé dans les quinze jours qui suivent la naissance à l'établissement public l'Institut français du cheval et de l'équitation.
-
-Une photocopie visée par l'établissement public l'Institut français du cheval et de l'équitation du certificat de saillie étranger est conservée avec l'attestation de saillie pour être présentée à l'identificateur au moment du relevé de signalement du produit sous la mère.
-
-5. Enquêtes :
-
-En cas de doute quant à l'identité du produit et dans tous les cas prévus par la réglementation, le propriétaire du produit doit se soumettre à l'enquête ouverte par l'établissement public l'Institut français du cheval et de l'équitation. Cette enquête comporte, le cas échéant, des examens biologiques sur la poulinière et son produit.
-
-La prise en charge financière des frais de prélèvement et d'analyse est effectuée conformément aux dispositions de l'arrêté du 15 février 1994 modifié susvisé.
+Pour la vérification des données et afin que le produit puisse prétendre à l'appellation "origine constatée" dans le fichier central zootechnique des équidés, le détenteur doit mettre à disposition de l'identificateur l'attestation de saillie remise par l'étalonnier après le premier saut ou, à défaut, une copie de la déclaration de naissance.
