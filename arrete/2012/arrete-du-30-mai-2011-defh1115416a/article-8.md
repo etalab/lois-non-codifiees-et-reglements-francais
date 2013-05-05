@@ -22,7 +22,9 @@ Les commissions administratives paritaires locales sont compétentes dans les ma
 
 10° En matière de refus de congé en matière de compte épargne-temps, elles sont saisies de tout refus en matière d'administration du compte en application du décret n° 2002-634 du 29 avril 2002 ;
 
-11° En matière de notation, par application du deuxième alinéa de l'article 55 de la loi du 11 janvier 1984 susvisée, elles ont connaissance des notes et appréciations des agents du corps. A la demande de l'intéressé, elles peuvent proposer au chef de service la révision de sa notation ;
+11° En matière d'évaluation professionnelle, elles peuvent, à la requête de l'intéressé, demander à l'autorité hiérarchique la révision du compte rendu de l'entretien professionnel ;
+
+11° bis En matière de réductions de temps de service, elles émettent un avis sur leur répartition entre les agents et les corps. En matière de majorations de temps de service, elles formulent un avis sur les propositions faites par le chef de service. En matière de réductions et de majorations de temps, elles peuvent, à la requête de l'agent, proposer une révision des propositions faites par le chef de service ;
 
 12° Elles sont informées, en application du décret du 28 mai 1982 susvisé, des refus opposés pour la deuxième fois aux demandes d'autorisation d'absence présentées en vue de suivre, pendant la durée normale du travail, des cours de préparation aux concours ou examens professionnels ;
 
