@@ -417,7 +417,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Chef de service à la        direction interministérielle pour la modernisation de l'action publique </p>
+<p>Chef de service à la direction interministérielle pour la modernisation de l'action publique </p>
 </td>
 <td>
 <p align="center">3 </p>
@@ -535,7 +535,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'un service au secrétariat général des ministères économique et financier </p>
+<p align="center">En charge d'un service au secrétariat général des   ministères économiques et financiers </p>
 </td>
 <td/>
 <td/>
@@ -611,7 +611,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">En charge d'une sous-direction relevant du secrétariat général des ministères économique et financier </p>
+<p align="center">En charge d'une sous-direction relevant du secrétariat général des   ministères économiques et financiers </p>
 </td>
 </tr>
 <tr>

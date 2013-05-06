@@ -10,7 +10,7 @@ II. ― La sous-direction de la communication, de la programmation et de la veil
 
 Le bureau de la communication et de l'accueil des publics :
 
-Il est chargé de proposer et de mettre en œuvre les actions de communication interne et externe de la direction générale, en liaison avec le service de la communication du secrétariat général des ministères économique et financier.
+Il est chargé de proposer et de mettre en œuvre les actions de communication interne et externe de la direction générale, en liaison avec le service de la communication du secrétariat général des   ministères économiques et financiers.
 
 Il est responsable de l'information des consommateurs, des entreprises, des organismes professionnels et des partenaires par la diffusion de publications et de documentations administratives, par la coordination éditoriale des sites internet et intranet et par la communication événementielle (colloques, salons, manifestations, etc.).
 
@@ -32,7 +32,7 @@ Il assure la coordination et le suivi de l'activité du service national des enq
 
 Il établit les protocoles de coopération avec les autres administrations et assure le suivi de leur mise en œuvre.
 
-III. ― La sous-direction des ressources humaines, des affaires financières, de la qualité et de la performance est chargée, en liaison avec le secrétariat général des ministères économique et financier, de la gestion des ressources humaines, de la formation et de la valorisation des compétences et de la gestion des moyens financiers, matériels et informatiques. Elle est également chargée de la qualité, de la performance et de la coopération internationale. Elle comprend :
+III. ― La sous-direction des ressources humaines, des affaires financières, de la qualité et de la performance est chargée, en liaison avec le secrétariat général des   ministères économiques et financiers, de la gestion des ressources humaines, de la formation et de la valorisation des compétences et de la gestion des moyens financiers, matériels et informatiques. Elle est également chargée de la qualité, de la performance et de la coopération internationale. Elle comprend :
 
 Le bureau des ressources humaines :
 

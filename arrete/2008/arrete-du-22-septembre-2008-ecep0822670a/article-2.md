@@ -4,7 +4,7 @@ La composition de cette commission est fixée ainsi qu'il suit :
 
 a) Membres avec voix délibérative :
 
-Pour le secrétariat général des ministères économique et financier :
+Pour le secrétariat général des   ministères économiques et financiers :
 
 ― relevant de la sous-direction des politiques sociales et des conditions de travail :
 

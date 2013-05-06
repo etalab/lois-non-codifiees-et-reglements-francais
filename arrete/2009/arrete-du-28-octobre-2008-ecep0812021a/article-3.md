@@ -18,7 +18,7 @@ B. ― Pour le compte des services de l'Etat mentionnés au A, l'agence assure l
 
 ― mise en œuvre de la politique des ressources humaines et développement d'actions de formation spécifique ;
 
-― mise en œuvre de la politique informatique, en liaison avec le secrétariat général des ministères économique et financier.
+― mise en œuvre de la politique informatique, en liaison avec le secrétariat général des   ministères économiques et financiers.
 
 En outre, l'agence met en œuvre la politique informatique des services centraux de la direction générale du Trésor.
 

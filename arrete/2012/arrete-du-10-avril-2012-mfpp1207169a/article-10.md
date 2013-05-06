@@ -4,7 +4,7 @@ I. ― Une mission « animation et qualité » placée auprès du directeur gén
 
 Elle organise l'accueil des délégations étrangères. Elle suit les travaux des institutions européennes et du secrétariat général des affaires européennes.
 
-II. ― Le bureau de la communication, en liaison avec le secrétariat général des ministères économique et financier :
+II. ― Le bureau de la communication, en liaison avec le secrétariat général des   ministères économiques et financiers :
 
 ― propose et met en œuvre la politique de communication interne et externe et d'information du public et coordonne les actions dans ce domaine ; à ce titre, il élabore et suit la réalisation des supports de communication et d'information et assure l'organisation des manifestations ;
 

@@ -10,11 +10,11 @@ Il coordonne l'élaboration et le suivi de l'exécution du budget de la directio
 
 Le bureau achats et logistique
 
-Il définit et conduit la politique des achats de la direction générale, hors marchés informatiques et immobiliers, assure les relations avec le service des achats de l'Etat et apporte son soutien aux services déconcentrés. Il s'assure des relations avec les grands opérateurs.  Il  veille aux aspects logistiques des campagnes d'impôts et conduit la  politique en matière de production d'imprimés. Il coordonne la mise en  œuvre des actions du plan " administration  exemplaire ”. Il assure une mission d'animation et de conseil du réseau  pour ce qui concerne les dépenses d'affranchissement. Il suit  l'exécution du budget des services centraux.
+Il définit et conduit la politique des achats de la direction générale, hors marchés informatiques et immobiliers, assure les relations avec le service des achats de l'Etat et apporte son soutien aux services déconcentrés. Il s'assure des relations avec les grands opérateurs. Il veille aux aspects logistiques des campagnes d'impôts et conduit la politique en matière de production d'imprimés. Il coordonne la mise en œuvre des actions du plan " administration exemplaire ”. Il assure une mission d'animation et de conseil du réseau pour ce qui concerne les dépenses d'affranchissement. Il suit l'exécution du budget des services centraux.
 
 Le bureau immobilier et sécurité
 
-Il définit, coordonne et anime la politique immobilière de la direction générale (locations, acquisitions, cessions, abandons de locaux, etc.). Il détermine et veille au suivi des opérations immobilières de construction, d'aménagement et de réinstallation des services, en liaison avec les services déconcentrés et dans le cadre des orientations définies par le secrétaire général des ministères économique et financier. Il suit, également, en liaison avec ce dernier, les implantations immobilières des services centraux de la direction générale.
+Il définit, coordonne et anime la politique immobilière de la direction générale (locations, acquisitions, cessions, abandons de locaux, etc.). Il détermine et veille au suivi des opérations immobilières de construction, d'aménagement et de réinstallation des services, en liaison avec les services déconcentrés et dans le cadre des orientations définies par le secrétaire général des   ministères économiques et financiers. Il suit, également, en liaison avec ce dernier, les implantations immobilières des services centraux de la direction générale.
 
 Il a capacité, dans son domaine de compétence, à rédiger, conclure et suivre l'exécution de marchés publics.
 

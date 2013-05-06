@@ -4,7 +4,7 @@ I. ― Le secrétariat général comprend, outre une mission temporaire d'appui,
 
 1° Le bureau des ressources humaines :
 
-Il élabore, anime et met en œuvre la politique de gestion des ressources humaines et la politique de formation, en liaison avec le secrétariat général des ministères économique et financier.
+Il élabore, anime et met en œuvre la politique de gestion des ressources humaines et la politique de formation, en liaison avec le secrétariat général des   ministères économiques et financiers.
 
 Il est chargé de la préparation du budget lié au personnel et pilote la gestion de la masse salariale et du plafond d'emplois autorisé dans un cadre pluriannuel.
 
@@ -36,7 +36,7 @@ Il assure le secrétariat du comité de gestion des aides aux entreprises, charg
 
 5° Le bureau des moyens des services et de la logistique :
 
-Il prépare et suit le budget de fonctionnement de la direction générale en liaison avec le secrétariat général des ministères économique et financier.
+Il prépare et suit le budget de fonctionnement de la direction générale en liaison avec le secrétariat général des   ministères économiques et financiers.
 
 Il est le représentant de la direction générale en matière d'action sociale, d'hygiène et de sécurité.
 
@@ -52,7 +52,7 @@ Il est chargé de définir et de mettre en œuvre la politique de communication 
 
 7° Le bureau de l'informatique :
 
-Il élabore et met en œuvre, en liaison avec le secrétariat général des ministères économique et financier, le schéma directeur des systèmes d'information et des réseaux de la direction générale.
+Il élabore et met en œuvre, en liaison avec le secrétariat général des   ministères économiques et financiers, le schéma directeur des systèmes d'information et des réseaux de la direction générale.
 
 Il gère et assure la sécurité des moyens informatiques, des applications, des infrastructures techniques et des équipements de bureautique, de téléphonie et de mobilité et assiste les utilisateurs.
 

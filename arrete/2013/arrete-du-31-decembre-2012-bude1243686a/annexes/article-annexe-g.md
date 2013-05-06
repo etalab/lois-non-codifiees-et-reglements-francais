@@ -9,8 +9,8 @@ a) Dépenses après ordonnancement et recettes
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
-<td align="center"> COMPTABLE ASSIGNATAIRE</td>
+<td align="center">DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
+<td align="center">COMPTABLE ASSIGNATAIRE</td>
 </tr>
 <tr>
 <td align="left">
@@ -36,9 +36,9 @@ b) Dépenses sans ordonnancement
 <table>
 <tbody>
 <tr>
-<td align="center"> SERVICE LIQUIDATEUR</td>
-<td align="center"> DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
-<td align="center"> COMPTABLE ASSIGNATAIRE</td>
+<td align="center">SERVICE LIQUIDATEUR</td>
+<td align="center">DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
+<td align="center">COMPTABLE ASSIGNATAIRE</td>
 </tr>
 <tr>
 <td align="left">
@@ -213,8 +213,8 @@ b) Dépenses sans ordonnancement
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
-<td align="center"> COMPTABLE ASSIGNATAIRE</td>
+<td align="center">DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
+<td align="center">COMPTABLE ASSIGNATAIRE</td>
 </tr>
 <tr>
 <td align="left">
@@ -234,8 +234,8 @@ des départements et collectivités d'outre-mer
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE<br/>du centre de services partagés</td>
-<td align="center"> COMPTABLE PRINCIPAL DES SERVICES<br/>déconcentrés des finances publiques assignataire</td>
+<td align="center">DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE<br/>du centre de services partagés</td>
+<td align="center">COMPTABLE PRINCIPAL DES SERVICES<br/>déconcentrés des finances publiques assignataire</td>
 </tr>
 <tr>
 <td align="left">
@@ -317,17 +317,15 @@ des départements et collectivités d'outre-mer
 <table>
 <tbody>
 <tr>
-<td align="center"> SERVICE</td>
-<td align="center"> COMPTABLE ASSIGNATAIRE</td>
+<td align="center">SERVICE</td>
+<td align="center">COMPTABLE ASSIGNATAIRE</td>
 </tr>
 <tr>
 <td align="left">
 <br/>Centre de services partagés de la direction des résidents à l'étranger et des services généraux<br/>
 </td>
 <td align="left" rowspan="2">
-<br/>Contrôleur budgétaire et comptable ministériel auprès des ministères économique et financier<br/>
-<br/>
-</td>
+<br/>Contrôleur budgétaire et comptable ministériel auprès des ministères économique et financier</td>
 </tr>
 <tr>
 <td align="left">
@@ -342,8 +340,8 @@ des départements et collectivités d'outre-mer
 <table>
 <tbody>
 <tr>
-<td align="center"> SERVICE</td>
-<td align="center"> COMPTABLE ASSIGNATAIRE</td>
+<td align="center">SERVICE</td>
+<td align="center">COMPTABLE ASSIGNATAIRE</td>
 </tr>
 <tr>
 <td align="left">
@@ -361,16 +359,15 @@ des départements et collectivités d'outre-mer
 <table>
 <tbody>
 <tr>
-<td align="center"> RECETTES</td>
-<td align="center"> COMPTABLE ASSIGNATAIRE</td>
+<td align="center">RECETTES</td>
+<td align="center">COMPTABLE ASSIGNATAIRE</td>
 </tr>
 <tr>
 <td align="left">
 <br/>Recettes ordonnancées en application de l'article R. 52-3-19 du code des postes et des communications électroniques<br/>
 </td>
 <td align="left">
-<br/>Contrôleur budgétaire et comptable ministériel auprès des ministères économique et financier<br/>
-</td>
+<br/>Contrôleur budgétaire et comptable ministériel auprès des ministères économiques et financiers</td>
 </tr>
 </tbody>
 </table>

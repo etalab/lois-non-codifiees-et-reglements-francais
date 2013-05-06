@@ -6,4 +6,4 @@ La ministre de l'économie, de l'industrie et de l'emploi fixe la composition du
 
 -un fonctionnaire de la direction générale du Trésor titulaire d'un grade au moins égal à celui d'administrateur civil ou de conseiller économique ;
 
--un fonctionnaire du secrétariat général des ministères économique et financier ayant au moins rang de chef de bureau.
+-un fonctionnaire du secrétariat général des   ministères économiques et financiers ayant au moins rang de chef de bureau.

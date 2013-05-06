@@ -1,6 +1,6 @@
 # Article 8
 
-Le bureau de l'information et de la communication est chargé, dans le cadre des orientations fixées par le service de la communication du secrétariat général des ministères économique et financier, de définir les politiques de communication interne et externe. A ce titre :
+Le bureau de l'information et de la communication est chargé, dans le cadre des orientations fixées par le service de la communication du secrétariat général des   ministères économiques et financiers, de définir les politiques de communication interne et externe. A ce titre :
 
 Il est responsable des relations avec la presse et des relations publiques de la douane.
 

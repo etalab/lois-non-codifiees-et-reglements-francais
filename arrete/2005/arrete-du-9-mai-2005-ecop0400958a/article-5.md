@@ -1,6 +1,6 @@
 # Article 5
 
-L'affectation des responsables des missions du contrôle général économique et financier est arrêtée par les ministres chargés de l'économie et du budget, sur le rapport du chef du service et du            secrétaire général des ministères économique et financier, après avis du comité stratégique.
+L'affectation des responsables des missions du contrôle général économique et financier est arrêtée par les ministres chargés de l'économie et du budget, sur le rapport du chef du service et du secrétaire général des   ministères économiques et financiers, après avis du comité stratégique.
 
 L'affectation des membres du corps du contrôle général économique et financier exerçant des missions autres que le contrôle financier des administrations de l'Etat et de ses établissements publics administratifs est arrêtée par les ministres chargés de l'économie et du budget, après avis du comité stratégique.
 

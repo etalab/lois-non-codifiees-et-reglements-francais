@@ -10,6 +10,6 @@ I.-Les missions constituées au sein du service du contrôle général économiq
 
 Toute création de mission ou modification de son champ d'attribution est soumise à l'avis du comité stratégique en application de l'article 5 du décret du 9 mai 2005 susvisé.
 
-II.-Les moyens nécessaires au fonctionnement du service et leurs modalités de gestion sont définis conjointement par le secrétaire général des ministères économique et financier et le chef du service, qui établissent à cette fin tout protocole de gestion approprié.
+II.-Les moyens nécessaires au fonctionnement du service et leurs modalités de gestion sont définis conjointement par le secrétaire général des   ministères économiques et financiers et le chef du service, qui établissent à cette fin tout protocole de gestion approprié.
 
 III.-Les membres du corps du contrôle général économique et financier signent leurs rapports.

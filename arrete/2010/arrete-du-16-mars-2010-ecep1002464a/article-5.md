@@ -2,11 +2,11 @@
 
 Le jury, désigné par arrêté des ministres en charge de l'économie et du budget, comprend :
 
-― un membre du Conseil d'Etat, un magistrat de la Cour des comptes ou un membre d'une inspection générale autre que celle des ministères économique et financier, président ;
+― un membre du Conseil d'Etat, un magistrat de la Cour des comptes ou un membre d'une inspection générale autre que celle des   ministères économiques et financiers, président ;
 
-― des fonctionnaires des ministères économique et financier, d'autres ministères ou d'un établissement public de l'Etat ou, à défaut, de la fonction publique territoriale ou hospitalière, titulaires d'un grade au moins égal à celui d'administrateur civil ;
+― des fonctionnaires des   ministères économiques et financiers, d'autres ministères ou d'un établissement public de l'Etat ou, à défaut, de la fonction publique territoriale ou hospitalière, titulaires d'un grade au moins égal à celui d'administrateur civil ;
 
-― un ou des fonctionnaires des ministères économique et financier appartenant au corps des attachés d'administration, ayant au moins le grade d'attaché principal.
+― un ou des fonctionnaires des   ministères économiques et financiers appartenant au corps des attachés d'administration, ayant au moins le grade d'attaché principal.
 
 Le même arrêté désigne le membre du jury appelé à remplacer le président dans le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa mission.
 

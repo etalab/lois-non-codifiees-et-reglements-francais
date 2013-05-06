@@ -12,6 +12,6 @@ Cet entretien a comme point de départ un exposé d'une durée de dix minutes ma
 
 La conversation porte notamment :
 
-a) Sur des domaines ressortissant aux attributions des ministères économique et financier, de l'administration, des services déconcentrés ou de l'établissement auprès duquel est affecté le candidat, en activité ou en service détaché ;
+a) Sur des domaines ressortissant aux attributions des   ministères économiques et financiers, de l'administration, des services déconcentrés ou de l'établissement auprès duquel est affecté le candidat, en activité ou en service détaché ;
 
 b) Sur des questions posées par le jury et destinées à permettre d'apprécier les connaissances administratives, les motivations, les compétences professionnelles, les capacités d'analyse ainsi que les aptitudes du candidat à accéder aux fonctions d'encadrement du grade supérieur (durée : 30 minutes, coefficient 1).

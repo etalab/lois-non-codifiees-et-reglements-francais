@@ -1,8 +1,8 @@
 # Article 10
 
-I. ― Sous réserve des dispositions des II à IV,le présent arrêté entre en vigueur le 1er septembre 2012.
+I. ― Sous réserve des dispositions des II à IV, le présent arrêté entre en vigueur le 1er septembre 2012.
 
-II. ― Les dispositions des dixième, onzième et douzième alinéas du II de l'article 3 prennent effet à des dates fixées par décision du directeur général de l'Institut national de la statistique et des études économiques publiée au Bulletin officiel des ministères économique et financier.
+II. ― Les dispositions des dixième, onzième et douzième alinéas du II de l'article 3 prennent effet à des dates fixées par décision du directeur général de l'Institut national de la statistique et des études économiques publiée au Bulletin officiel des   ministères économiques et financiers.
 
 III. ― Dans l'attente de disposer des attributions prévues par le présent arrêté :
 

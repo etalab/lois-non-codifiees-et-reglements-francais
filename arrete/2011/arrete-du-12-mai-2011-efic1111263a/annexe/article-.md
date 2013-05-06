@@ -39,6 +39,6 @@ Tableau récapitulatif des documents à fournir.
 Accusé de réception.
 
 <font color="#808080" size="1">
-<em>(*) Le dossier de RAEP et le guide d'aide au remplissage sont disponibles sur le site intranet de la direction générale de la concurrence, de la consommation et de la répression des fraudes et sur le portail des concours et métiers des ministères économique et financier à l'adresse suivante :  http://www11.minefi.gouv.fr/metiers-concours/
+<em>(*) Le dossier de RAEP et le guide d'aide au remplissage sont disponibles sur le site intranet de la direction générale de la concurrence, de la consommation et de la répression des fraudes et sur le portail des concours et métiers des ministères économiques et financiers à l'adresse suivante :  http://www11.minefi.gouv.fr/metiers-concours/
 </em>
 </font>

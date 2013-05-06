@@ -1,6 +1,6 @@
 # Article 26
 
-Le délégué départemental de l'action sociale est placé sous l'autorité du secrétariat général des ministères économique et financier. Il est responsable de la mise en oeuvre de l'action sociale dans le département.
+Le délégué départemental de l'action sociale est placé sous l'autorité du secrétariat général des   ministères économiques et financiers. Il est responsable de la mise en oeuvre de l'action sociale dans le département.
 
 A ce titre, il anime, exécute et coordonne l'ensemble des missions d'action sociale mises en place par le ministère et met en oeuvre les actions définies par le conseil départemental dans le cadre de ses attributions.
 

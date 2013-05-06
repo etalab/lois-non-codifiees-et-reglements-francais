@@ -12,4 +12,4 @@ II. ― Dans la région :
 
 2° Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi est assisté, en tant que de besoin, par un conseiller régional de défense et de sécurité et par le chargé de mission régional à l'intelligence économique, également chargé des missions de sécurité économique.
 
-III. ― Les correspondants et chargés de mission régionaux, mentionnés aux I et II, exercent leurs fonctions de sécurité économique en liaison avec les chargés de mission de sécurité économique placés auprès du préfet de zone de défense et de sécurité par le haut fonctionnaire de défense et de sécurité des ministères économique et financier.
+III. ― Les correspondants et chargés de mission régionaux, mentionnés aux I et II, exercent leurs fonctions de sécurité économique en liaison avec les chargés de mission de sécurité économique placés auprès du préfet de zone de défense et de sécurité par le haut fonctionnaire de défense et de sécurité des   ministères économiques et financiers.

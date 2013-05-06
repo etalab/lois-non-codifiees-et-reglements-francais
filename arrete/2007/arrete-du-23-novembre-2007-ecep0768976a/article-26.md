@@ -1,6 +1,6 @@
 # Article 26
 
-Les commissions consultatives paritaires sont présidées par le            secrétaire général des ministères économique et financier ou son représentant.
+Les commissions consultatives paritaires sont présidées par le secrétaire général des   ministères économiques et financiers ou son représentant.
 
 Les commissions élaborent leur propre règlement intérieur qui doit être soumis à l'approbation du ministre de l'économie, des finances et de l'emploi et du ministre du budget, des comptes publics et de la fonction publique.
 

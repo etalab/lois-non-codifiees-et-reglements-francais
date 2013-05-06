@@ -10,13 +10,13 @@ DE L'ARRÊTÉ AU TITRE DE L'ANNÉE 2009
 
 ― corps des fonctionnaires techniques de l'Imprimerie nationale, régis par le décret n° 69-795 du 7 août 1969 fixant le statut particulier des fonctionnaires techniques de l'Imprimerie nationale ;
 
-― corps de conseiller technique de service social des ministères économique et financier, régi par le décret n° 91-784 du 1er août 1991 relatif aux dispositions statutaires communes applicables aux corps des conseillers techniques de service social des administrations de l'Etat ;
+― corps de conseiller technique de service social des   ministères économiques et financiers, régi par le décret n° 91-784 du 1er août 1991 relatif aux dispositions statutaires communes applicables aux corps des conseillers techniques de service social des administrations de l'Etat ;
 
-― corps des assistants de service social des ministères économique et financier, régi par le décret n° 91-783 du 1er août 1991 relatif aux dispositions statutaires communes applicables aux corps d'assistants de service social des administrations de l'Etat ;
+― corps des assistants de service social des   ministères économiques et financiers, régi par le décret n° 91-783 du 1er août 1991 relatif aux dispositions statutaires communes applicables aux corps d'assistants de service social des administrations de l'Etat ;
 
 ― corps des secrétaires administratifs du ministère de l'économie, des finances et de l'industrie, régi par le décret n° 94-1017 du 18 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues ;
 
-― le corps des       techniciens de laboratoire des écoles nationales supérieures des mines , régi par le décret n° 2012-379 du 19 mars 2012 portant statut particulier des techniciens de laboratoire relevant des ministres chargés de l'économie et du budget ;
+― le corps des techniciens de laboratoire des écoles nationales supérieures des mines, régi par le décret n° 2012-379 du 19 mars 2012 portant statut particulier des techniciens de laboratoire relevant des ministres chargés de l'économie et du budget ;
 
 ― corps des dessinateurs projeteurs du ministère des finances, régi par le décret n° 61-1145 du 13 octobre 1961 portant statut particulier du corps des dessinateurs projeteurs du ministère des finances ;
 

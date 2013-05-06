@@ -2,7 +2,7 @@
 
 Sont appelés à siéger, en qualité de membres représentant l'administration au Conseil national de l'action sociale :
 
--le secrétaire général des ministères économique et financier, président ou son représentant ;
+-le secrétaire général des   ministères économiques et financiers, président ou son représentant ;
 
 -le directeur général des finances publiques ;
 
@@ -16,6 +16,6 @@ Sont appelés à siéger, en qualité de membres représentant l'administration 
 
 -le chef de service du contrôle général économique et financier ;
 
--le chef de service du secrétariat général des ministères économique et financier ;
+-le chef de service du secrétariat général des   ministères économiques et financiers ;
 
 -le sous-directeur des politiques sociales et des conditions de travail ;

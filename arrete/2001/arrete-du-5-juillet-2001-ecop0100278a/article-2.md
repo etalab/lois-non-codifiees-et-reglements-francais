@@ -2,7 +2,7 @@
 
 L'institut est chargé :
 
--de mettre en oeuvre, dans le cadre de la politique ministérielle de formation, des activités de formation pour l'ensemble des personnels             des ministères économique et financier , et notamment les personnels d'administration centrale ;
+-de mettre en oeuvre, dans le cadre de la politique ministérielle de formation, des activités de formation pour l'ensemble des personnels des   ministères économiques et financiers, et notamment les personnels d'administration centrale ;
 
 -de concevoir et de réaliser des activités de formation, notamment dans le domaine de la gestion publique ;
 
@@ -12,4 +12,4 @@ L'institut est chargé :
 
 -de développer la recherche historique et prospective sur les domaines relevant de la compétence des ministres ;
 
--de concourir à l'action européenne et internationale des ministères  dans le cadre de leurs missions .
+-de concourir à l'action européenne et internationale des ministères dans le cadre de leurs missions.

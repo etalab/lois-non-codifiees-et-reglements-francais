@@ -22,7 +22,7 @@ Sont également membres de droit de l'observatoire :
 
 8° Le directeur du budget ou son représentant ;
 
-9° Le secrétaire général des ministères économique et financier du ministère chargé de l'économie ou son représentant ;
+9° Le secrétaire général des   ministères économiques et financiers du ministère chargé de l'économie ou son représentant ;
 
 10° Le directeur des affaires juridiques du ministère chargé de l'économie ou son représentant ;
 
