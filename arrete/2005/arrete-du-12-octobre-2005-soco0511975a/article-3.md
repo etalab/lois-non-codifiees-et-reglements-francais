@@ -16,7 +16,7 @@ Elle élabore les propositions budgétaires dans le cadre des missions, programm
 
 Elle suit la consommation des crédits mis en place au niveau central et dans les services déconcentrés ou délégués aux organismes qui assurent, pour le compte du ministère, le versement d'aides à l'emploi ou à la formation professionnelle.
 
-Elle assure la préparation et le suivi des projets annuels de performance, pour les programmes de la mission "Travail et emploi" placés sous la responsabilité de la délégation générale.
+Elle assure la préparation et le suivi des projets annuels de performance, pour les programmes de la mission " Travail et emploi " placés sous la responsabilité de la délégation générale.
 
 Elle élabore et anime la politique de contrôle de gestion de la délégation générale. Elle assure les remontées régulières de statistiques, le suivi des plans d'action, l'exploitation et la restitution des données physiques et financières sur l'action territorialisée des politiques de l'emploi. Elle assure la synthèse des données permettant le suivi de l'exécution des programmes.
 
@@ -30,7 +30,7 @@ Ainsi, elle participe, en liaison avec la direction de l'administration généra
 
 Elle appuie les missions de la délégation générale dans l'exercice de la maîtrise d'ouvrage des systèmes d'information du champ de l'emploi et de la formation professionnelle, en veillant à la cohérence de l'ensemble au regard de celle qu'assume la DAGEMO pour le ministère chargé du travail.
 
-Elle gère le parc de matériels et de logiciels de la délégation générale et assure l'assistance aux utilisateurs des moyens informatiques et bureautiques en lien avec le secrétariat général des ministères économique et financier.
+Elle gère le parc de matériels et de logiciels de la délégation générale et assure l'assistance aux utilisateurs des moyens informatiques et bureautiques en lien avec le secrétariat général des   ministères économiques et financiers.
 
 2° La sous-direction du fonds social européen comprend :
 
@@ -46,7 +46,7 @@ Elle est chargée de la définition des orientations et du pilotage national des
 
 Elle assure l'animation et le secrétariat des comités de suivi des programmes nationaux, et veille, avec les services déconcentrés, au bon fonctionnement des comités mis en place pour les programmes régionaux.
 
-Elle est l'autorité de gestion et de paiement pour les programmes nationaux du fonds social européen.A ce titre, elle veille au respect et contrôle l'application des règles communautaires dans la gestion des crédits du FSE, s'assure de la traçabilité des dépenses, de la fiabilité des systèmes d'information, de suivi et de comptes rendus.
+Elle est l'autorité de gestion et de paiement pour les programmes nationaux du fonds social européen. A ce titre, elle veille au respect et contrôle l'application des règles communautaires dans la gestion des crédits du FSE, s'assure de la traçabilité des dépenses, de la fiabilité des systèmes d'information, de suivi et de comptes rendus.
 
 Elle participe aux instances communautaires chargées de préparer les orientations et décisions qui régissent le fonds social européen.
 
@@ -68,7 +68,7 @@ Elle conduit et accompagne les démarches de modernisation concernant la délég
 
 Elle est chargée de la gestion administrative des situations individuelles des agents.
 
-Elle suscite et recueille les besoins de formation, participe à l'élaboration du plan de formation de l'administration centrale et en assure l'exécution en relation avec le secrétariat général des ministères économique et financier.
+Elle suscite et recueille les besoins de formation, participe à l'élaboration du plan de formation de l'administration centrale et en assure l'exécution en relation avec le secrétariat général des   ministères économiques et financiers.
 
 Elle participe à la définition de la politique de gestion prévisionnelle des emplois et des compétences et suit l'ensemble des relations humaines et sociales internes à la délégation générale.
 
