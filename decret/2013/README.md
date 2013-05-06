@@ -27,6 +27,8 @@
 - [Décret n°2013-7 du 3 janvier 2013 (DFEX1242343D)](decret-n2013-7-du-3-janvier-2013-dfex1242343d)
 - [Décret n°2013-8 du 3 janvier 2013 (DFEX1242344D)](decret-n2013-8-du-3-janvier-2013-dfex1242344d)
 - [Décret n°2013-9 du 3 janvier 2013 (OMEO1129065D)](decret-n2013-9-du-3-janvier-2013-omeo1129065d)
+- [Décret n°2013-380 du 3 mai 2013 (MCCK1302687D)](decret-n2013-380-du-3-mai-2013-mcck1302687d)
+- [Décret n°2013-381 du 3 mai 2013 (ACTI1240785D)](decret-n2013-381-du-3-mai-2013-acti1240785d)
 - [Décret n°2004-1066 du 4 octobre 2004 (ECOU0400001D)](decret-n2004-1066-du-4-octobre-2004-ecou0400001d)
 - [Décret n°2012-1351 du 4 décembre 2012 (MENE1238923D)](decret-n2012-1351-du-4-decembre-2012-mene1238923d)
 - [Décret n°2012-1352 du 4 décembre 2012 (EFIE1238652D)](decret-n2012-1352-du-4-decembre-2012-efie1238652d)
