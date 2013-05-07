@@ -2,9 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de conducteur (trice) de travaux aménagement finitions.
+Intitulé du titre professionnel : conducteur de travaux aménagement finitions.
 
 Niveau : III.
 
@@ -12,53 +10,59 @@ Code NSF : 233 p.
 
 Résumé du référentiel d'emploi
 
-Le conducteur de travaux aménagement finitions est responsable de la réalisation d'un ou plusieurs chantiers d'aménagement et de finition, en construction neuve comme en rénovation. Sa responsabilité porte plus précisément sur l'organisation, la conduite, la coordination, le pilotage, le suivi de l'exécution des travaux et la gestion contractuelle des marchés publics et privés. Il doit faire respecter le cadre prévisionnel qualitatif, quantitatif, financier et calendaire prédéfini sur les pièces contractuelles des marchés de travaux. Il est garant des dépenses engagées et du suivi des recettes pour les chantiers qui lui sont confiés par le chef d'entreprise. Responsable des études liées aux travaux modificatifs des lots du secteur de l'aménagement finition, il peut également intervenir sur le plan technique lors des négociations finales avec les clients. C'est lui qui fait appliquer sur ses chantiers la réglementation concernant la sécurité, le traitement des déchets et la conformité de la mise en œuvre des matériaux.
+Le conducteur de travaux aménagement finitions est le responsable technique, administratif et budgétaire de chantiers d'aménagement-finitions depuis leur préparation jusqu'à leur livraison.
 
-Il travaille principalement au siège de l'entreprise, et se déplace fréquemment chez les clients et sur ses différents chantiers. Ses horaires de travail sont irréguliers, importants et adaptés aux variations de charge de travail liées aux demandes des clients et aux besoins des chantiers.
+A partir d'un dossier de consultation et de l'étude de prix, il définit les éléments matériels et humains dont il aura besoin pour la réalisation de ses chantiers.
+
+Il planifie les travaux dans le cadre du planning imposé par le maître d'œuvre ou le maître d'ouvrage.
+
+Il passe commande des matières d'œuvre et des locations de matériels. Il consulte les sous-traitants et contractualise avec eux. Il demande les diverses autorisations administratives nécessaires au déroulement du chantier et rédige le plan particulier de sécurité et de protection de la santé (PPSPS) qui sera remis au coordonateur de sécurité et protection de la santé (SPS).
+
+Sur les chantiers il est particulièrement vigilant sur la qualité des travaux surtout quand ceux-ci ont une incidence sur le bilan énergétique du bâtiment. Il ajuste les moyens matériels et les équipes en fonction de l'état d'avancement des chantiers de façon à respecter les plannings de livraison. Il représente son entreprise aux réunions de chantier. Il doit être en mesure de chiffrer les travaux supplémentaires demandés au cours du chantier. Il est très attentif à la gestion des déchets de chantier.
+
+Il rédige les situations, valide les factures et assure un suivi financier et administratif des ses chantiers.
+
+Il assure les opérations de clôture des chantiers, met en œuvre les moyens nécessaires au lever des réserves, rédige le décompte définitif des travaux, transmet au coordonateur SPS le dossier d'intervention ultérieure sur l'ouvrage (DIUO).
+
+Le conducteur de travaux aménagement finitions exerce ses activités dans les entreprises de plus de trente salariés. Il intervient sur l'ensemble des activités à des degrés de responsabilités variables en fonction de l'organisation de l'entreprise. Il exerce à partir du siège de l'entreprise. De ce fait, il effectue de fréquents déplacements entre le siège de l'entreprise, les clients et les différents chantiers. Les horaires de travail sont irréguliers, importants et adaptés aux variations de charge de travail liée aux demandes des clients et aux besoins des chantiers.
+
+Il est porteur de l'image de marque de son entreprise et s'attache à fidéliser ses clients et ses éventuels partenaires lorsque son entreprise participe à des groupements en réponse globale.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Elaborer des réponses aux consultations de travaux des entreprises de l'aménagement et de la finition
+1. Préparer les chantiers d'aménagement-finitions
 
-Etablir les quantitatifs et le déboursé sec des travaux des entreprises de l'aménagement et de la finition.
+Analyser, synthétiser et compléter les éléments d'un dossier de consultation.
 
-Etablir le prix de vente de travaux des entreprises de l'aménagement et de la finition.
+Définir les moyens et les plannings humains, matériels et financiers.
 
-Constituer les dossiers de réponses aux appels d'offres de travaux des entreprises de l'aménagement et de la finition.
+Passer les commandes (locations et achats) et les contrats de sous-traitance.
 
-Proposer les matériaux de l'aménagement finition adaptés à la protection de l'environnement.
+Elaborer les documents relatifs à la sécurité et à la qualité des chantiers d'aménagement-finitions.
 
-2. Préparer la réalisation des travaux des entreprises de l'aménagement et de la finition
+2. Conduire des chantiers d'aménagement-finitions
 
-Elaborer les documents relatifs à la sécurité et à la qualité des chantiers des entreprises de l'aménagement et de la finition.
+Organiser et contrôler les travaux d'aménagement-finitions.
 
-Préparer les contrats des différents actes nécessaires à la réalisation des travaux des entreprises de l'aménagement et de la finition.
+Coordonner et ajuster les équipes et les moyens mis en œuvre en fonction des travaux et de leur avancement.
 
-Réaliser la préparation technique et organisationnelle des travaux des entreprises de l'aménagement et de la finition.
+Assurer la gestion financière et administrative des chantiers.
 
-Définir les budgets pour réaliser les travaux des entreprises de l'aménagement et de la finition.
+Clore techniquement, administrativement et financièrement un chantier.
 
-Proposer les matériaux de l'aménagement finition adaptés à la protection de l'environnement.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-3. Conduire des travaux pour des entreprises de l'aménagement et de la finition
+Les entreprises de l'aménagement-finitions et plus particulièrement celles de la plâtrerie et plaques de plâtre, du carrelage et de la céramique, de la pose de sols souples et de la peinture et des finitions :
 
-Suivre l'exécution des travaux des entreprises de l'aménagement et de la finition.
+Conducteur de travaux de l'aménagement-finitions.
 
-Gérer les contrats liés aux réalisations de travaux des entreprises de l'aménagement et de la finition.
+Conducteur de travaux du bâtiment.
 
-Gérer les budgets de travaux des entreprises de l'aménagement et de la finition.
+Chargé d'affaires de l'aménagement-finitions.
 
-Clore administrativement les chantiers des entreprises de l'aménagement et de la finition.
+Code ROME :
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
-
-Moyennes et grandes entreprises du second œuvre intervenant dans le domaine de l'aménagement finitions.
-
-Codes ROME :
-
-61232-Conducteur de travaux du BTP ;
-
-61223-Chargé d'études techniques du BTP.
+F1201-Conduite de travaux du BTP.
 
 Réglementation de l'activité :
 
