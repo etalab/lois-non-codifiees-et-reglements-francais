@@ -4,89 +4,94 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
 AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de technicien (ne) d'équipement en électricité.
+Intitulé : technicien d'équipement en électricité.
 
 Niveau : IV.
 
-Code NSF : 255p.
+Code NSF : 255 p.
 
-Résumé du référentiel d'emploi :
+Résumé du référentiel d'emploi
 
-Le technicien d'équipement en électricité prépare et organise de petits chantiers d'installation électrique dans tous types de bâtiments (logements, bureaux, locaux industriels). Il s'appuie sur le dossier technique établi par le bureau d'études pour déterminer les moyens humains et matériels nécessaires : planning des interventions, éléments logistiques, répartition de l'équipe.
+Le technicien d'équipement en électricité réalise des travaux d'installation électrique en basse tension pour des locaux à usage d'habitation ou à usage professionnel et sur des équipements industriels. Les installations sont appliquées aux courants forts et aux courants faibles.
 
-Puis il installe le chantier et réalise, avec l'équipe d'électriciens d'équipement qu'il encadre, les travaux spécifiés (pose des canalisations et chemins de câbles, tirage des câbles, mise en place et raccordement des appareils). Durant ces opérations, il veille à respecter et faire respecter rigoureusement les consignes de sécurité et les normes d'installation. Après les contrôles préalables, il procède à la mise en service et participe à la réception des travaux.
+En amont de la mise en œuvre de l'installation, le technicien prépare et organise son chantier à partir du dossier d'exécution. Il effectue ensuite les travaux de mise en œuvre. Lorsque l'installation ou l'équipement est réalisé, il en effectue le contrôle et il réalise la mise en service ou, si l'étendue du chantier est importante, il réalise la mise en service avec le responsable du chantier.
 
-Ce technicien est responsable du chantier qui lui est confié et rend compte de l'avancement des travaux à sa hiérarchie. Il intervient sur des chantiers de construction et de rénovation ou en atelier, et travaille en coordination avec les autres corps de métier, dans des locaux vides ou occupés par des usagers. Les déplacements en véhicule utilitaire sont fréquents. Il utilise l'outil informatique pour la gestion du chantier ou la rédaction de rapports.
+Le technicien d'équipement en électricité intervient sur des chantiers de construction et de rénovation ou en atelier. Il veille au maintien de perméabilité à l'air et d'isolation du bâtiment, en particulier dans le respect de la réglementation thermique en vigueur. Il reçoit les instructions de son responsable et travaille en équipe. Il travaille en coordination avec les autres corps de métier, dans des locaux vides ou occupés par des usagers.
 
-Capacités attestées et descriptif des composantes de la certification :
+Il se déplace en fonction des chantiers. Il travaille avec des horaires réguliers, cependant les impératifs de délais peuvent occasionner des dépassements ou changement d'horaires.
 
-1. Préparer et organiser un chantier
+Il tient l'emploi dans le respect des règles de sécurité individuelles et collectives (et, s'il existe, en application du PPSPS, sinon du plan de prévention).
 
-d'équipement électrique
+Capacités attestées et descriptif
 
-Etablir le dossier de mise en œuvre et les études de détail un chantier d'équipement électrique.
+des composantes de la certification
 
-Préparer les commandes de matériel et prestations nécessaires au lancement d'un chantier d'équipement électrique.
+1. Procéder à l'installation électrique de locaux d'habitation
 
-Réaliser l'étude et le chiffrage de travaux supplémentaires sur une installation électrique à destination du chargé d'affaires.
+et la mettre en service
 
-Participer aux réunions de chantier sur une affaire d'équipement électrique.
+Préparer et organiser l'installation électrique de locaux d'habitation.
 
-2. Mettre en œuvre et réaliser un chantier
+Réaliser l'installation électrique de locaux d'habitation.
 
-d'équipement électrique
+Contrôler et mettre en service l'installation électrique de locaux d'habitation.
 
-Approvisionner un chantier d'équipement électrique en fonction de l'avancement des travaux.
+2. Procéder à l'installation électrique de locaux professionnels
 
-Encadrer des travaux de préfabrication d'équipement électrique en atelier ou sous-traités.
+et effectuer les contrôles préalables à sa mise en service
 
-Encadrer une équipe d'électriciens d'équipement et assurer la sécurité sur un chantier.
+Préparer et organiser un chantier pour réaliser l'installation électrique de locaux professionnels.
 
-Réaliser avec son équipe sur un chantier d'équipement électrique la mise en place des matériels incorporés au gros œuvre, la pose des conduits et le tirage des câbles et conducteurs.
+Réaliser l'installation électrique de locaux professionnels.
 
-Réaliser avec son équipe sur un chantier d'équipement électrique la pose des appareillages et armoires et le raccordement des équipements.
+Effectuer les contrôles préalables et intervenir dans la mise en service d'une installation électrique de locaux professionnels.
 
-Réaliser avec son équipe des prestations de modification d'une installation électrique.
+3. Procéder à l'installation d'un équipement électrique industriel
 
-Rendre compte de son activité et de l'avancement des travaux sur un chantier d'équipement électrique.
+et effectuer les contrôles préalables à sa mise en service
 
-Corriger le dossier technique d'une affaire d'équipement électrique en fonction des modifications effectuées sur le chantier.
+Préparer et organiser un chantier d'équipements électriques industriels.
 
-3. Mettre en service et réceptionner un chantier
+Réaliser l'installation d'équipements électriques industriels.
 
-d'équipement électrique
+Effectuer les contrôles préalables et intervenir dans la mise en service d'un équipement électrique industriel.
 
-Corriger le dossier technique d'une affaire d'équipement électrique en fonction des modifications effectuées sur le chantier.
+Secteurs d'activités et types d'emploi accessibles
 
-Effectuer les contrôles préalables à la mise en service des installations électriques.
+par le détenteur du titre
 
-Paramétrer les équipements fournis par l'entreprise d'équipement électrique.
+Les entreprises spécialisées en installation électrique.
 
-Procéder aux contrôles de conformité et essais de mise en service d'une installation électrique dans le cadre de la réception des travaux.
+Les agences de travail intérimaire.
 
-Assister le client sur la spécialité électricité lors des essais de fonctionnement ou dans le cadre du soutien après la vente.
+Les services travaux neufs de sites industriels tels que les usines, les unités de production.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
+Les services travaux neufs et entretien de collectivités tels que les hôpitaux, les hôtels, les grandes surfaces, les écoles, les municipalités.
 
-- les entreprises spécialisées en installation électrique ;
+Electricien.
 
-- les agences de travail intérimaire ;
+Electricien bâtiment.
 
-- les services travaux neufs de sites industriels (usines, unités de production...) ;
+Electricien industriel.
 
-- les services travaux neufs et entretien de collectivités (hôpitaux, hôtels, grandes surfaces, écoles, municipalités...).
+Monteur électricien.
 
-Codes ROME :
+Installateur électricien.
 
-52311 : technicien (ne) d ` installation d ` équipements industriels et professionnels.
+Après une expérience significative, le technicien pourra être amené à encadrer une équipe.
 
-52221 : technicien (ne) de contrôle-essai-qualité en électricité et électronique.
+Code ROME :
+
+F1602-Electricité bâtiment.
 
 Réglementation de l'activité :
 
-Une habilitation au risque électrique (norme C18-510).
+Articles R. 4544-9 et R. 4544-10 du code du travail
+: habilitation électrique délivrée par l'employeur au niveau :
+
+B2V, BR, BC pour des installations électriques de locaux à usage d'habitation ;
+
+B2V essais, BR, BC pour des installations électriques de locaux à usage professionnel et les équipements industriels.
 
 Autorité responsable de la certification :
 
