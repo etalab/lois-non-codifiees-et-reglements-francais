@@ -1,0 +1,3 @@
+# Article 5
+
+Le ministre des affaires étrangères, le ministre de l'éducation nationale, la garde des sceaux, ministre de la justice, la ministre de l'égalité des territoires et du logement, le ministre de l'intérieur, le ministre de la défense, la ministre de la culture et de la communication, la ministre de l'enseignement supérieur et de la recherche, le ministre des outre-mer et le ministre délégué auprès de la ministre de l'égalité des territoires et du logement, chargé de la ville, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

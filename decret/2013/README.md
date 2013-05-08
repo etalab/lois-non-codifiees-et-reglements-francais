@@ -55,6 +55,7 @@
 - [Décret n°2012-1362 du 6 décembre 2012 (AFSX1237083D)](decret-n2012-1362-du-6-decembre-2012-afsx1237083d)
 - [Décret n°2013-121 du 6 février 2013 (AFSH1240340D)](decret-n2013-121-du-6-fevrier-2013-afsh1240340d)
 - [Décret n°2013-122 du 6 février 2013 (DEVK1239969D)](decret-n2013-122-du-6-fevrier-2013-devk1239969d)
+- [Décret n°2013-382 du 6 mai 2013 (OMEO1309144D)](decret-n2013-382-du-6-mai-2013-omeo1309144d)
 - [Décret n°2012-1245 du 7 novembre 2012 (BUDD1235807D)](decret-n2012-1245-du-7-novembre-2012-budd1235807d)
 - [Décret n°2013-123 du 7 février 2013 (ETSX1301417D)](decret-n2013-123-du-7-fevrier-2013-etsx1301417d)
 - [Décret n°2013-126 du 7 février 2013 (AFSX1240256D)](decret-n2013-126-du-7-fevrier-2013-afsx1240256d)
