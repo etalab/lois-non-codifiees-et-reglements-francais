@@ -95,3 +95,13 @@ Jusqu'au 1er mars 2018 :
 Lyon - Tunis (Tunisie)
 
 Paris - Essaouira (Maroc).
+
+Jusqu'au 31 mars 2018 :
+
+Lyon-Marrakech (Maroc) ;
+
+Lyon-Oujda (Maroc) ;
+
+Lille-Agadir (Maroc) ;
+
+Lille-Oujda (Maroc).
