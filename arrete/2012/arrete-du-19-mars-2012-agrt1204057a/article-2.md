@@ -2,10 +2,10 @@
 
 La répartition budgétaire entre les quatre départements d'outre-mer de l'allocation mentionnée à l'article 1er est ainsi effectuée :
 
-Guadeloupe : 444 162 € ;
+Guadeloupe : 374 162 € ;
 
-Guyane : 312 403 € ;
+Guyane : 262 403 € ;
 
 Martinique : 875 878 € ;
 
-La Réunion : 207 557 €.
+La Réunion : 327 557 €.
