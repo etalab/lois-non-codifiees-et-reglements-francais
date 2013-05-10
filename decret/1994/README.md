@@ -298,7 +298,6 @@
 - [Décret n°94-301 du 13 avril 1994 (SPSS9400023D)](decret-n94-301-du-13-avril-1994-spss9400023d)
 - [Décret n°94-302 du 13 avril 1994 (SPSG9303115D)](decret-n94-302-du-13-avril-1994-spsg9303115d)
 - [Décret n°94-304 du 13 avril 1994 (EQUA9400670D)](decret-n94-304-du-13-avril-1994-equa9400670d)
-- [Décret n°94-317 du 13 avril 1994 (LOGC9400019D)](decret-n94-317-du-13-avril-1994-logc9400019d)
 - [Décret n°94-318 du 13 avril 1994 (LOGC9400020D)](decret-n94-318-du-13-avril-1994-logc9400020d)
 - [Décret n°94-41 du 13 janvier 1994 (DOMP9300041D)](decret-n94-41-du-13-janvier-1994-domp9300041d)
 - [Décret n°94-492 du 13 juin 1994 (AGRG9400646D)](decret-n94-492-du-13-juin-1994-agrg9400646d)
