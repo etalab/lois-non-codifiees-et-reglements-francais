@@ -2,9 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de technicien (ne) supérieur (e) d'études en génie climatique.
+Intitulé : titre professionnel de technicien supérieur d'études en génie climatique.
 
 Niveau : III.
 
@@ -12,79 +10,69 @@ Code NSF : 227 n.
 
 Résumé du référentiel d'emploi
 
-Le technicien supérieur d'études en génie climatique réalise des études techniques de chauffage, de climatisation, de ventilation, de production d'eau chaude sanitaire, de distribution d'eau chaude et d'eau froide sanitaire et d'évacuation d'eaux-vannes et d'eaux usées. Il détermine les équipements répondant aux besoins de confort thermique et sanitaire dans des bâtiments destinés au logement, aux activités tertiaires ou industrielles (hors process). Il est de plus en plus souvent amené à intégrer l'utilisation des énergies renouvelables dans ses études.
+A partir de plans d'architecte ou sur relevés pour des bâtiments en rénovation et d'un descriptif plus ou moins sommaire des locaux à traiter, le technicien supérieur d'études en génie climatique réalise des études techniques de chauffage, de climatisation, de ventilation, de production d'eau chaude sanitaire, de distribution d'eau chaude et d'eau froide sanitaire et d'évacuation d'eaux-vannes et d'eaux usées. Il détermine les équipements répondant aux besoins de confort thermique et sanitaire dans des bâtiments de type logement, tertiaire ou industriel (hors process). Il intègre l'utilisation des énergies renouvelables dans ses études et prend en compte des solutions économes en énergie. Ses missions portent sur l'établissement des documents techniques de réponse à des appels d'offres et sur la réalisation de dossiers techniques d'exécution concernant des lots chauffage, climatisation, ventilation ou VMC, sanitaire. Sur des installations de technicité courante, il est amené à effectuer les choix techniques adaptés au bâtiment. Il rend compte et justifie les résultats de son étude.
 
-La phase de conception est réalisée dans un bureau. Toutefois des déplacements sont à prévoir pour réaliser des relevés lorsque le chantier concerne des locaux existants ainsi que pour le suivi de conformité des travaux. La phase d'exécution nécessite des déplacements sur site pour le suivi et l'assistance technique pendant les travaux.
+Il exploite les réglementations du bâtiment nécessaires à son étude telles que DTU, normes. Il utilise l'outil informatique équipé de progiciels de bureautique et spécialisés et d'un logiciel de dessin assisté par ordinateur (DAO) spécialisé bâtiment. Sur des études courantes, il est autonome dans la réalisation de son étude et est responsable des dossiers qu'il élabore. Sur des études plus complexes, il est amené à se faire aider et à faire contrôler les documents qu'il élabore par un ingénieur ou professionnel plus expérimenté. Son activité est réalisée principalement en bureau mais peut nécessiter des déplacements pour effectuer des relevés, des contrôles ou participer à des réunions sur le chantier concerné par l'étude.
 
-Ces activités impliquent de nombreux contacts avec les autres employés et la direction de l'entreprise, mais aussi avec les partenaires extérieurs.
-
-L'emploi nécessite une bonne connaissance de la réglementation et la maîtrise de l'outil informatique pour l'utilisation de progiciels et de DAO ainsi qu'une bonne culture du bâtiment et des bases solides en dessin du bâtiment et lecture de plans.
+Les horaires sont réguliers, mais le respect des délais et la charge de travail peuvent conduire à des ajustements. Ses études impliquent de nombreux contacts avec d'autres professionnels : dessinateurs, chargés d'affaires, architectes, maîtres d'ouvrage, technico-commerciaux.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser des études de génie climatique pour des bâtiments résidentiels.
+1. Réaliser le bilan thermique, les études de chauffage à eau chaude et de sanitaire d'une partie ou de la totalité d'un bâtiment non climatisé
 
-Réaliser l'étude des réseaux de distribution d'eau froide, d'eau chaude et d'évacuation d'eaux-vannes et d'eaux usées.
+Réaliser des études d'installations sanitaires.
 
-Réaliser l'étude d'une installation de ventilation mécanique contrôlée.
+Réaliser le bilan thermique pour des bâtiments ou partie de bâtiment non climatisés.
 
-Réaliser les notes de calcul des déperditions thermiques d'un bâtiment.
+Réaliser les études des équipements du local technique de production de chaleur utilisant des énergies fossiles et renouvelables.
 
-Réaliser l'étude de la distribution d'une installation de chauffage à eau chaude par radiateurs, par aérotherme et / ou par planchers chauffants.
+Réaliser des études de distribution à eau chaude et d'émission de chaleur d'installations de chauffage.
 
-Réaliser l'étude d'une chaufferie de puissance utile inférieure à 70 kW utilisant les énergies fossiles.
+2. Réaliser le bilan thermique, les études de ventilation et de climatisation de confort d'une partie ou de la totalité d'un bâtiment
 
-Réaliser l'étude d'une installation de production d'eau chaude sanitaire utilisant des capteurs solaires thermiques.
+Réaliser le bilan thermique d'un bâtiment ou d'une partie de bâtiment climatisé.
 
-Réaliser l'étude d'une chaufferie comprenant des capteurs solaires thermiques.
+Réaliser des études d'installations de climatisation de confort par terminaux.
 
-2. Réaliser des études de génie climatique pour des bâtiments non résidentiels.
+Réaliser les études des réseaux aérauliques.
 
-Réaliser l'étude d'une installation de ventilation mécanique contrôlée.
+Réaliser des études d'installations de production d'eau glacée et de traitement d'air centralisé.
 
-Réaliser les notes de calcul des déperditions thermiques d'un bâtiment.
-
-Réaliser l'étude de la distribution d'une installation de chauffage à eau chaude par radiateurs, par aérotherme et / ou par planchers chauffants.
-
-Réaliser l'étude d'une chaufferie de puissance utile inférieure à 70 kW utilisant les énergies fossiles.
-
-Réaliser l'étude d'une chaufferie utilisant une chaudière bois automatique.
-
-Réaliser l'étude d'une chaufferie de puissance utile supérieure à 70 kW utilisant les énergies fossiles.
-
-Réaliser les notes de calcul des charges thermiques d'un bâtiment.
-
-Réaliser l'étude d'une installation de climatisation par air et par ventilo-convecteur.
-
-Réaliser l'étude de la production d'eau chaude et d'eau glacée par pompe à chaleur pour la climatisation d'un bâtiment.
-
-Vérifier la conformité d'un bâtiment vis-à-vis de la réglementation thermique en vigueur.
-
-Etablir les éléments techniques de réponse à un appel d'offres de lots du génie climatique.
-
-Rédiger les pièces techniques d'un dossier d'appel d'offres pour une installation courante de génie climatique.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprises de petite, moyenne et grosse importance en chauffage et sanitaire.
+Entreprises du bâtiment de petite, moyenne ou grosse importance en génie climatique.
 
-Bureaux d'étude ou cabinets d'ingénieurs-conseils.
-
-Entreprises d'intérim.
+Bureaux d'études ou cabinets d'ingénieurs-conseils du bâtiment.
 
 Entreprises de maintenance en génie climatique pour répondre aux besoins de réhabilitation de leur clientèle.
 
+Services techniques d'un organisme public ou privé.
+
+Bureaux de contrôle.
+
+Distributeurs, grossistes et fabricants de matériel de génie climatique.
+
+Technicien supérieur d'études en génie climatique.
+
+Technicien/ technicienne d'études en génie climatique.
+
+Technicien conseil thermicien.
+
+Chargé d'affaires en génie climatique.
+
+Technicien BE en génie climatique.
+
 Code ROME :
 
-61223-Chargé (e) d'études techniques du BTP.
+F 1106-Ingénierie et études du BTP.
 
 Réglementation de l'activité :
 
-Réglementation thermique en vigueur.
+Néant.
 
 Autorité responsable de la certification :
 

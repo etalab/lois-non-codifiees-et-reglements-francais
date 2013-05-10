@@ -2,9 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel d'installateur(trice) antenniste.
+Intitulé : titre professionnel : installateur antenniste (ancien intitulé : installateur [trice] antenniste).
 
 Niveau : V.
 
@@ -12,61 +10,68 @@ Code NSF : 255 s.
 
 Résumé du référentiel d'emploi
 
-L'installateur(trice) antenniste réalise, dans les pavillons de particuliers et dans les immeubles collectifs, à partir des directives de son responsable hiérarchique, de plans d'intérieurs et d'études, tous les travaux d'installation concernant la réception audiovisuelle (pose, fixation, orientation, raccordement, installation de matériels de réseau). Il (elle) informe le client sur le fonctionnement du réseau installé et effectue les dépannages ainsi que les modifications de ces types d'installations. Il (elle) procède en outre à la mise en service de l'installation et mesure et équilibre les signaux en fonction des valeurs prévues par l'étude.
+L'installateur d'antenne effectue tous les travaux et interventions permettant, sur une installation collective ou individuelle, de recevoir et d'émettre (en individuel) à l'aide d'une ou plusieurs antennes les signaux numériques demandés par le client.
 
-Il (elle) peut également participer au devis, établir la facturation et percevoir directement le règlement du client.
+L'installateur réalise la pose des antennes terrestres et satellites, leur fixation et leur orientation. Il tire les câbles des antennes jusqu'aux points d'utilisation demandés par le client, en passant par les produits actifs et passifs de la station de tête (dans les installations collectives) et du réseau de distribution, qu'il a préalablement fixés. Il règle les produits actifs et mesure la qualité des signaux reçus aux prises utilisateurs. Dans les installations individuelles, l'installateur raccorde et paramètre les terminaux et périphériques souhaités par le client, il en vérifie le fonctionnement et l'explique au client.
 
-L'installateur(trice) antenniste travaille en toute saison, le plus souvent à l'extérieur des bâtiments, sur les toits des maisons, sur les terrasses d'immeubles ou sur les pignons de façades. Son espace de travail l'amène donc à utiliser des échelles, à grimper et marcher sur des surfaces fragiles, tantôt inclinées, tantôt humides et glissantes. Il (elle) doit en conséquence, à tout moment, respecter les règles élémentaires de sécurité et se conformer au port des équipements de protection individuelle. Il (elle) ne doit pas être sujet au vertige. Il (elle) exerce aussi son activité à l'intérieur d'immeubles ou d'habitations individuelles.
+En cas de panne, l'installateur en recherche la cause par observation directe et réalisation de mesures, il la diagnostique, y remédie et règle l'installation afin d'en assurer le fonctionnement optimal. Il établit sa fiche d'intervention et rend compte au client du travail réalisé.
 
-Capacités attestées et descriptif des composantes de la certification
+L'antenniste travaille seul ou en binôme, pour des maisons individuelles et des bâtiments collectifs, neufs ou existants. Il travaille en toute saison à l'extérieur des bâtiments, parfois sous la pluie, sur les toits de maisons, sur les terrasses d'immeubles pour fixer les antennes sur les cheminées, sur les pignons de façades ou au sol.
 
-1. Installer tout type de réceptions audiovisuelles pour un particulier
+A l'intérieur, il achemine les câbles dans des combles souvent exigus, froids ou surchauffés. Il doit veiller au respect de la propreté des lieux, des biens du client et au maintien de l'étanchéité des bâtiments, en particulier dans le respect de la réglementation thermique en vigueur.
 
-Poser et orienter les antennes ou paraboles pour une réception audiovisuelle de particulier.
+Ses déplacements sont fréquents, limités géographiquement dans l'individuel mais parfois sur des chantiers éloignés pour les installations collectives. Le travail implique des horaires adaptés (journée continue, travail en fin d'après-midi) lorsqu'il est nécessaire que le client soit présent.
 
-Poser la distribution d'une installation de réceptions audiovisuelles de particulier.
+L'antenniste est en relation avec son responsable hiérarchique, à qui il rend compte du travail effectué et des difficultés rencontrées, et avec le client pour préciser les besoins et définir les périodes d'intervention. Il réalise ses activités dans le respect des règles de sécurité individuelles et collectives (et, s'il existe, en application du PPSPS, sinon du plan de prévention).
 
-Procéder à la mise en service et au réglage d'une installation de réceptions audiovisuelles de particulier.
+Capacités attestées et descriptif
 
-Installer et mettre en service les terminaux et périphériques d'une installation de réceptions audiovisuelles de particulier.
+des composantes de la certification
 
-Expliquer au client le fonctionnement des terminaux et périphériques d'une installation de réceptions audiovisuelles de particulier.
+1. Réaliser les installations individuelles de réception
 
-Participer à la facturation des travaux d'une installation de réceptions audiovisuelles de particulier.
+et d'émission de signaux numériques par antenne
 
-Dépanner et modifier une installation de réceptions audiovisuelles de particulier.
+Chiffrer les travaux d'installation individuelle de réception et d'émission de signaux numériques par antenne.
 
-2. Installer des réseaux de réceptions audiovisuelles
+Installer les antennes individuelles terrestres et satellites pour la réception et l'émission de signaux numériques.
 
-en collectifs
+Câbler et raccorder les antennes individuelles aux points d'utilisation du client.
 
-Poser et orienter les antennes ou paraboles d'un réseau de réceptions audiovisuelles en collectifs.
+Installer et paramétrer les terminaux et périphériques de réception et d'émission de signaux numériques par antenne individuelle.
 
-Installer les matériels d'une station de tête de réseaux de réceptions audiovisuelles en collectifs.
+Dépanner une installation individuelle de réception et d'émission de signaux numérique par antenne.
 
-Installer la distribution de réseaux de réceptions audiovisuelles en collectifs.
+2. Réaliser les installations collectives de réception
 
-Mettre en service et consigner les mesures des réseaux de réceptions audiovisuelles en collectifs.
+de signaux numériques par antenne
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Poser et orienter les antennes des installations collectives de réception des signaux numériques.
 
-Les entreprises d'installation d'antennes de télévision.
+Réaliser le réseau de distribution des installations collectives de réception de signaux numériques par antenne.
 
-Les entreprises d'électricité.
+Installer la station de tête de réception collective de signaux numériques par antennes.
 
-Les câblo-opérateurs.
+Mettre en service les installations collectives de réception de signaux numériques par antennes.
 
-La grande distribution du brun (TV, hi-fi).
+Assurer la maintenance des installations collectives de réception de signaux numériques par antennes.
 
-Codes ROME :
+Secteurs d'activités et types d'emploi accessibles
 
-42211 - Electricien(ne) du bâtiment et des travaux publics ;
+par le détenteur du titre
 
-52311 - Technicien(ne) d'installation d'équipements industriels et professionnels.
+Les artisans et les PME spécialistes de cette activité (appelés couramment antennistes) ; les artisans radioélectriciens, vendeurs d'appareils de télévision, dépositaires de terminaux pour chaînes cryptées à abonnement ; les entreprises d'électricité ou de courants faibles avec un département spécialisé en antennes ; les grandes surfaces de distribution ; les distributeurs de matériels d'antennes.
+
+Installateur d'antenne, antenniste, monteur de paraboles et d'antennes, électricien antenniste.
+
+Code ROME :
+
+I1307-Installation et maintenance télécoms et courants faibles
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (norme C18-510).
+Articles R. 4544-9 et R. 4544-10 du code du travail
+: habilitation électrique délivrée par l'employeur au niveau BR sur les installations d'antennes.
 
 Autorité responsable de la certification :
 
@@ -74,8 +79,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
