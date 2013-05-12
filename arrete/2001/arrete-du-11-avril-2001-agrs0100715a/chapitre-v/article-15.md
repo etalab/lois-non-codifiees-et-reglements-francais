@@ -2,7 +2,7 @@
 
 La commission examine pour l'inscription les dossiers des candidats dans les conditions fixées au présent arrêté et qui présentent les garanties de compétences suffisantes pour l'accès aux emplois des listes demandées.
 
-Ces garanties de compétence sont appréciées par la commission au vu des divers éléments contenus dans les dossiers et en fonction des avis complémentaires qu'elle juge opportun de recueillir, notamment auprès du président ou du directeur de l'organisme employeur du candidat, du chef de la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole ou de son représentant ou, le cas échéant, du chef de la mission nationale de contrôle et d'audit des organismes de sécurité sociale ou de son représentant.
+Ces garanties de compétence sont appréciées par la commission au vu des divers éléments contenus dans les dossiers et en fonction des avis complémentaires qu'elle juge opportun de recueillir, notamment auprès du président ou du directeur de l'organisme employeur du candidat, du chef de la mission nationale de contrôle et d'audit des organismes de sécurité sociale ou de son représentant.
 
 La commission peut proposer, pour toute autre personne qui n'occupe plus à la date de son inscription un emploi dans un organisme visé par le présent arrêté, une assimilation de sa situation par rapport à un emploi de cadre ou d'agent de direction dans un tel organisme, compte tenu de l'ancienneté, de l'emploi exercé et des responsabilités assumées antérieurement.
 
