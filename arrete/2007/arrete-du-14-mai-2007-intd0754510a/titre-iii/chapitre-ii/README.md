@@ -11,6 +11,7 @@
 - [Section 9 : Règles particulières applicables au punto banco.](section-9)
 - [Section 10 : Règles applicables au stud poker de casino.](section-10)
 - [Section 11 : Règles applicables au hold'em poker de casino.](section-11)
+- [Section 12 : Règles particulières applicables à la bataille.](section-12)
 - [Article 42](article-42.md)
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)
