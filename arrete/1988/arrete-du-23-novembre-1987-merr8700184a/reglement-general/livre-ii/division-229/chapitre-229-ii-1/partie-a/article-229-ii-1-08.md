@@ -56,11 +56,9 @@ Généralités sur le franc-bord
 
 4.3. A l'issue de cette inspection, le certificat de franc-bord est soit visé par la société de classification chargée du renouvellement, soit retiré lorsque des modifications affectant les conditions d'assignation du franc-bord ont été apportées ou lorsque des installations ou dispositifs n'ont pas été maintenus dans des conditions offrant la sécurité qu'ils avaient lors de la délivrance du certificat de franc-bord.
 
-5. Visite à sec de la coque :
+5. Inspection de la face externe de la carène :
 
-Une visite à sec de la coque doit avoir lieu conformément à la division 130 du présent règlement.
-
-A l'occasion de cette visite à sec, les prises d'eau, le gouvernail, les sorties d'arbres et les chaînes d'ancres notamment doivent faire l'objet d'un examen particulier.
+Une inspection de la face externe de la carène doit avoir lieu conformément à la division 130 du présent règlement. A l'occasion de cette inspection, les prises d'eau, le gouvernail, les sorties d'arbres et les chaînes d'ancres notamment doivent faire l'objet d'un examen particulier.
 
 6. Echelles et marques de tirant d'eau :
 
