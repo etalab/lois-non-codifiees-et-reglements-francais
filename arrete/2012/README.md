@@ -2855,7 +2855,6 @@
 - [Arrêté du 28 février 2012 (DEFL1206525A)](arrete-du-28-fevrier-2012-defl1206525a)
 - [Arrêté du 28 février 2012 (DEFL1206538A)](arrete-du-28-fevrier-2012-defl1206538a)
 - [Arrêté du 28 février 2012 (DEVP1208070A)](arrete-du-28-fevrier-2012-devp1208070a)
-- [Arrêté du 28 février 2012 (ESRS1203528A)](arrete-du-28-fevrier-2012-esrs1203528a)
 - [Arrêté du 28 février 2012 (IOCR1135745A)](arrete-du-28-fevrier-2012-iocr1135745a)
 - [Arrêté du 28 février 2012 (IOCR1135781A)](arrete-du-28-fevrier-2012-iocr1135781a)
 - [Arrêté du 28 février 2012 (IOCR1135798A)](arrete-du-28-fevrier-2012-iocr1135798a)
