@@ -1,0 +1,9 @@
+# Article 26-4
+
+L'assemblée générale ne peut, sauf à l'unanimité des voix des copropriétaires, décider la souscription d'un emprunt bancaire au nom du syndicat des copropriétaires pour le financement soit de travaux régulièrement votés concernant les parties communes ou de travaux d'intérêt collectif sur parties privatives régulièrement votés, soit des actes d'acquisition conformes à l'objet du syndicat et régulièrement votés.
+
+Par dérogation au premier alinéa, l'assemblée générale peut également, à la même majorité que celle nécessaire au vote des travaux concernant les parties communes ou de travaux d'intérêt collectif sur parties privatives, voter la souscription d'un emprunt bancaire au nom du syndicat des copropriétaires lorsque cet emprunt a pour unique objectif le préfinancement de subventions publiques accordées au syndicat pour la réalisation des travaux votés.
+
+Par dérogation au premier alinéa, l'assemblée générale peut, à la même majorité que celle nécessaire au vote soit des travaux concernant les parties communes ou de travaux d'intérêt collectif sur parties privatives, soit des actes d'acquisition conformes à l'objet du syndicat, voter la souscription d'un emprunt bancaire au nom du syndicat des copropriétaires au bénéfice des seuls copropriétaires décidant d'y participer.
+
+Les copropriétaires qui décident de participer à l'emprunt doivent notifier leur décision au syndic en précisant le montant de l'emprunt qu'ils entendent solliciter, dans la limite de leur quote-part des dépenses. A peine de forclusion, la notification au syndic doit intervenir dans le délai de deux mois à compter de la notification du procès-verbal d'assemblée générale pour les copropriétaires opposants ou défaillants et, pour les autres copropriétaires, à compter de la tenue de l'assemblée générale.
