@@ -776,7 +776,6 @@
 - [Décret n°98-1244 du 29 décembre 1998 (ECOT9820111D)](decret-n98-1244-du-29-decembre-1998-ecot9820111d)
 - [Décret n°98-1245 du 29 décembre 1998 (ECOR9806013D)](decret-n98-1245-du-29-decembre-1998-ecor9806013d)
 - [Décret n°98-1246 du 29 décembre 1998 (ECOR9806014D)](decret-n98-1246-du-29-decembre-1998-ecor9806014d)
-- [Décret n°98-1249 du 29 décembre 1998 (EQUU9801742D)](decret-n98-1249-du-29-decembre-1998-equu9801742d)
 - [Décret n°98-1250 du 29 décembre 1998 (EQUT9801630D)](decret-n98-1250-du-29-decembre-1998-equt9801630d)
 - [Décret n°98-1251 du 29 décembre 1998 (EQUK9801733D)](decret-n98-1251-du-29-decembre-1998-equk9801733d)
 - [Décret n°98-1252 du 29 décembre 1998 (EQUH9801730D)](decret-n98-1252-du-29-decembre-1998-equh9801730d)
