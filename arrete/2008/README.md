@@ -792,7 +792,6 @@
 - [Arrêté du 21 juillet 2008 (DEVL0816391A)](arrete-du-21-juillet-2008-devl0816391a)
 - [Arrêté du 21 juillet 2008 (ECED0818222A)](arrete-du-21-juillet-2008-eced0818222a)
 - [Arrêté du 21 juillet 2008 (ECED0818223A)](arrete-du-21-juillet-2008-eced0818223a)
-- [Arrêté du 21 juillet 2008 (ECEG0812577A)](arrete-du-21-juillet-2008-eceg0812577a)
 - [Arrêté du 21 juillet 2008 (IOCB0808595A)](arrete-du-21-juillet-2008-iocb0808595a)
 - [Arrêté du 21 juillet 2008 (SJSP0817990A)](arrete-du-21-juillet-2008-sjsp0817990a)
 - [Arrêté du 21 juillet 2008 (SJSP0818095A)](arrete-du-21-juillet-2008-sjsp0818095a)
