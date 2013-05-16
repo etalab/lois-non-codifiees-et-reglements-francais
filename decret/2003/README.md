@@ -152,7 +152,6 @@
 - [Décret n°2003-637 du 9 juillet 2003 (EQUS0301025D)](decret-n2003-637-du-9-juillet-2003-equs0301025d)
 - [Décret n°2003-639 du 9 juillet 2003 (BUDB0310010D)](decret-n2003-639-du-9-juillet-2003-budb0310010d)
 - [Décret n°2003-641 du 9 juillet 2003 (AGRB0300142D)](decret-n2003-641-du-9-juillet-2003-agrb0300142d)
-- [Décret n°2003-866 du 9 septembre 2003 (ECOC0300055D)](decret-n2003-866-du-9-septembre-2003-ecoc0300055d)
 - [Décret n°2003-967 du 9 octobre 2003 (AGRG0301482D)](decret-n2003-967-du-9-octobre-2003-agrg0301482d)
 - [Décret n°2003-968 du 9 octobre 2003 (SANH0323576D)](decret-n2003-968-du-9-octobre-2003-sanh0323576d)
 - [Décret n°2003-969 du 9 octobre 2003 (SANH0323577D)](decret-n2003-969-du-9-octobre-2003-sanh0323577d)

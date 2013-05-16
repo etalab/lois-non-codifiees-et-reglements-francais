@@ -69,7 +69,6 @@
 - [Décret n°79-318 du 19 avril 1979](decret-n79-318-du-19-avril-1979)
 - [Décret n°79-822 du 19 septembre 1979](decret-n79-822-du-19-septembre-1979)
 - [Décret n°79-1109 du 20 décembre 1979](decret-n79-1109-du-20-decembre-1979)
-- [Décret n°79-489 du 20 juin 1979](decret-n79-489-du-20-juin-1979)
 - [Décret n°79-811 du 20 septembre 1979](decret-n79-811-du-20-septembre-1979)
 - [Décret n°79-998 du 20 novembre 1979](decret-n79-998-du-20-novembre-1979)
 - [Décret n°79-1119 du 21 décembre 1979](decret-n79-1119-du-21-decembre-1979)

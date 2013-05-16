@@ -30,6 +30,14 @@ Par volume de la phase liquide , on entend le volume qui est occupé par les pha
 
 Par conditions d'essai , on entend les pressions d'épreuve et de rupture exercées hydrauliquement à 20 °C (à ± 5 °C).
 
+1.7 bis Substance
+
+Par  "   substance" au sens du présent décret, on entend une substance telle que définie à l'article 2, paragraphe 7, du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 modifié relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006.
+
+1.7 ter Mélange
+
+Par "mélange" au sens du présent décret, on entend un mélange tel que défini à l'article 2, paragraphe 8, du règlement (CE) n° 1272/2008 du 16 décembre 2008 mentionné ci-dessus.
+
 1.8. Composants inflammables
 
 Les composants d'un aérosol sont considérés comme inflammables dès lors qu'ils contiennent un composant quelconque classé comme inflammable :
@@ -92,9 +100,9 @@ La chaleur chimique de combustion (Hc), exprimée en kilojoules par gramme (kJ/g
 
 Pour une préparation d'aérosol comprenant plusieurs composants, la chaleur chimique de combustion est la somme des valeurs pondérées des chaleurs de combustion pour les composants individuels, calculée comme suit :
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter la formule à l'adresse suivante
 
-n° 71 du 25/03/2010 texte numéro 14 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100325&numTexte=14&pageDebut=05843&pageFin=05846
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130515&numTexte=7&pageDebut=08080&pageFin=08081
 
 où :
 
@@ -122,35 +130,27 @@ Il doit ensuite tenir compte des résultats de l'analyse lors de la conception, 
 
 2.2. Etiquetage
 
-Sans préjudice des dispositions des directives relatives à la classification, à l'emballage et à l'étiquetage des substances et préparations dangereuses notamment en matière de danger pour la santé et/ou l'environnement, tout générateur d'aérosol doit porter de manière visible, lisible et indélébile les mentions suivantes :
+Sans préjudice du règlement (CE) n° 1272/2008 du 16 décembre 2008 mentionné ci-dessus, tout générateur d'aérosol doit porter de manière lisible et indélébile les mentions suivantes :
 
-a) Quel que soit son contenu : Récipient sous pression. A protéger contre les rayons solaires et à ne pas exposer à une température supérieure à 50 °C. Ne pas percer ou brûler même après usage ;
+a) Quel que soit son contenu :
 
-b) Lorsqu'il est classé comme inflammable ou extrêmement inflammable selon les critères énoncés au point 1.9 :
+-  "   Récipient sous pression : peut éclater sous l'effet de la chaleur." ;
 
-― le symbole d'une flamme, conforme au modèle figurant à l'annexe II de la directive du 27 juin 1967 susvisée ;
+- les conseils de prudence P210, P251, P410+P412 et lorsque le générateur d'aérosol est un produit grand public, le conseil de prudence P102, qui figurent à l'annexe IV, partie 1, du règlement (CE) n° 1272/2008 du 16 décembre 2008 mentionné ci-dessus ;
 
-― inflammable ou extrêmement inflammable selon que l'aérosol est classé comme inflammable ou extrêmement inflammable .
+- toute précaution additionnelle d'emploi qui informe les consommateurs sur les dangers spécifiques du produit ; si le générateur d'aérosol est accompagné d'une notice d'utilisation séparée, cette dernière doit également faire état de telles précautions ;
 
-2.3. Mentions spécifiques liées à l'utilisation
+b) Lorsque l'aérosol est classé comme "ininflammable" selon les critères énoncés au point 1.9, la mention d'avertissement "Attention" ;
 
-Sans préjudice des directives relatives à la classification, à l'emballage et à l'étiquetage des substances et préparations dangereuses notamment en matière de danger pour la santé ou l'environnement, tout générateur d'aérosol doit porter de manière visible, lisible et indélébile les mentions suivantes :
+c) Lorsque l'aérosol est classé comme "inflammable" selon les critères énoncés au point 1.9, les éléments d'étiquetage relevant de la catégorie 2 figurant dans le tableau 2.3.1 de l'annexe I du règlement (CE) n° 1272/2008 du 16 décembre 2008 mentionné ci-dessus ;
 
-a) Quel que soit son contenu, toute précaution additionnelle d'emploi qui informe les consommateurs sur les dangers spécifiques du produit ; si le générateur d'aérosol est accompagné d'une notice d'utilisation séparée, cette dernière doit également faire état de telles précautions ;
+d) Lorsque l'aérosol est classé comme "extrêmement inflammable" selon les critères énoncés au point 1.9, les éléments d'étiquetage relevant de la catégorie 1 figurant dans le tableau 2.3.1 de l'annexe I du règlement (CE) n° 1272/2008 du 16 décembre 2008 mentionné ci-dessus.
 
-b) Lorsqu'il est classé comme inflammable ou extrêmement inflammable selon les critères énoncés au point 1.9 les avertissements suivants :
-
-― les conseils de prudence S2 et S16 figurant à l'annexe IV de la directive du 27 juin 1967 susvisée ;
-
-― Ne pas vaporiser vers une flamme ou un corps incandescent .
-
-2.4. Volume de la phase liquide
+2.3. Volume de la phase liquide
 
 A 50 °C, le volume de la phase liquide existante ne doit pas dépasser 90 % de la capacité nette.
 
-3. Dispositions particulières relatives aux générateurs aérosols
-
-dont le récipient est en métal
+3. Dispositions particulières relatives aux générateurs aérosols dont le récipient est en métal
 
 3.1. Capacité
 
@@ -168,13 +168,9 @@ A 50 °C, la pression du générateur d'aérosol ne doit pas dépasser 12 bars.
 
 Toutefois, si le générateur d'aérosol ne contient aucun gaz ou mélange de gaz ayant un domaine d'inflammabilité en mélange avec l'air à 20 °C et à une pression normale de 1,013 bar, la pression maximale admissible à 50 °C est de 13,2 bars.
 
-4. Dispositions particulières relatives aux générateurs aérosols
+4. Dispositions particulières relatives aux générateurs aérosols dont le récipient est en verre
 
-dont le récipient est en verre
-
-4.1. Récipients plastifiés ou protégés
-
-de façon permanente
+4.1. Récipients plastifiés ou protégés de façon permanente
 
 Les récipients de ce type peuvent être utilisés pour le conditionnement au gaz comprimé, liquéfié ou dissous.
 
@@ -328,9 +324,7 @@ Ce tableau indique les limites de pression admissibles à 20 °C en fonction du 
 
 Pour les pourcentages de gaz qui ne figurent pas dans ce tableau, les pressions limites sont calculées par extrapolation.
 
-5. Dispositions particulières relatives
-
-aux générateurs aérosols dont le récipient est en plastique
+5. Dispositions particulières relatives aux générateurs aérosols dont le récipient est en plastique
 
 5.1. Les générateurs aérosols dont le récipient est en plastique et qui, à la rupture, peuvent produire des éclats sont assimilés à des générateurs aérosols dont le récipient est en verre non protégé.
 
