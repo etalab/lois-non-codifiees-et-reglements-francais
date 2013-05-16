@@ -1,4 +1,4 @@
-# Décret n°91-1163 du 12 novembre 1991 portant application de l'article L. 214-1 du code de la consommation en ce qui concerne les produits en fourrure
+# Arrêté du 30 avril 2013 relatif à l'entretien professionnel et à la reconnaissance de la valeur professionnelle des agents de la protection judiciaire de la jeunesse
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,6 +10,7 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 10 bis](article-10-bis.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 15](article-15.md)
