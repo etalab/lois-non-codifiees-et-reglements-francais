@@ -1717,7 +1717,6 @@
 - [Arrêté du 21 juillet 2009 (ECEG0912347A)](arrete-du-21-juillet-2009-eceg0912347a)
 - [Arrêté du 21 juillet 2009 (ECEG0912352A)](arrete-du-21-juillet-2009-eceg0912352a)
 - [Arrêté du 21 juillet 2009 (ECEG0912354A)](arrete-du-21-juillet-2009-eceg0912354a)
-- [Arrêté du 21 juillet 2009 (JUSF0917573A)](arrete-du-21-juillet-2009-jusf0917573a)
 - [Arrêté du 21 juillet 2009 (SASH0917454A)](arrete-du-21-juillet-2009-sash0917454a)
 - [Arrêté du 21 juillet 2009 (SASH0917455A)](arrete-du-21-juillet-2009-sash0917455a)
 - [Arrêté du 21 juillet 2009 (SASH0917858A)](arrete-du-21-juillet-2009-sash0917858a)

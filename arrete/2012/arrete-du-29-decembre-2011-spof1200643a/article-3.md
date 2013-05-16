@@ -32,7 +32,7 @@ La réussite à cet entretien permet l'accès à l'épreuve technique composée 
 
 ― le dégagement d'un équipier sur bloqueurs par la méthode du balancier, technique au choix, dans un temps limité à cinq minutes ;
 
-― l'équipement d'une section verticale comprenant au moins un fractionnement avec planter de spit effectué obligatoirement par le candidat.
+― l'équipement d'une section verticale comprenant au moins un fractionnement.
 
 Les candidats n'ayant pas, au cours de cette première épreuve, démontré une connaissance des règles et principes de sécurité et une maîtrise de leur mise en application suffisante ne sont pas admis à participer à l'épreuve pratique d'exploration en cavité suivante :
 
