@@ -8,4 +8,4 @@ Lorsque l'indicateur de marché est inférieur de :
 
 3. 15 % à la référence définie à l'article 2, pour chacun des autres produits listés à l'annexe I,
 
-le SNM communique quotidiennement l'indicateur du jour ouvré précédent. Cette information est consultable gratuitement sur le site électronique du SNM.
+FranceAgriMer communique quotidiennement l'écart à la référence définie à l'article 2 de l'indicateur du jour ouvré précédent. Cette information est consultable sur le site internet  http :// www. rnm. franceagrimer. fr.

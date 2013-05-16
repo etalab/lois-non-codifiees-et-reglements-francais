@@ -136,7 +136,6 @@
 - [Arrêté du 5 avril 2003 (SANH0321153A)](arrete-du-5-avril-2003-sanh0321153a)
 - [Arrêté du 5 décembre 2002 (EQUT0201749A)](arrete-du-5-decembre-2002-equt0201749a)
 - [Arrêté du 5 décembre 2002 (SANS0320992A)](arrete-du-5-decembre-2002-sans0320992a)
-- [Arrêté du 5 décembre 2003 (EQUS0300956A)](arrete-du-5-decembre-2003-equs0300956a)
 - [Arrêté du 5 février 2003 (ECOA0220055A)](arrete-du-5-fevrier-2003-ecoa0220055a)
 - [Arrêté du 5 juin 2003 (AGRG0301193A)](arrete-du-5-juin-2003-agrg0301193a)
 - [Arrêté du 5 juin 2003 (AGRM0301215A)](arrete-du-5-juin-2003-agrm0301215a)

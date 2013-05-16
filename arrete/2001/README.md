@@ -70,7 +70,6 @@
 - [Arrêté du 5 septembre 2001 (DEFP0101629A)](arrete-du-5-septembre-2001-defp0101629a)
 - [Arrêté du 6 août 2001 (DEFP0101962A)](arrete-du-6-aout-2001-defp0101962a)
 - [Arrêté du 6 août 2001 (EQUZ0101265A)](arrete-du-6-aout-2001-equz0101265a)
-- [Arrêté du 6 avril 2001 (EQUS0100519A)](arrete-du-6-avril-2001-equs0100519a)
 - [Arrêté du 6 décembre 2000 (EQUT0001891A)](arrete-du-6-decembre-2000-equt0001891a)
 - [Arrêté du 6 décembre 2001 (EQUS0101835A)](arrete-du-6-decembre-2001-equs0101835a)
 - [Arrêté du 6 décembre 2001 (EQUS0101836A)](arrete-du-6-decembre-2001-equs0101836a)
