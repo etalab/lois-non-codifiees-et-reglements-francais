@@ -6,7 +6,7 @@ En application du point I de l'article D. 615-51 du code rural et de la pêche m
 
 Ne sont pas soumis au maintien de la surface de référence en prairie temporaire et en pâturage permanent :
 
-― les exploitants laitiers ayant déposé une demande d'aide éligible à la cessation d'activité laitière, pour les campagnes 2008-2009, 2009-2010, 2010-2011 et 2011-2012  ;
+― les exploitants laitiers ayant déposé une demande d'aide éligible à la cessation d'activité laitière, pour les campagnes 2008-2009 à 2012-2013 ;
 
 ― les exploitants agricoles placés en redressement judiciaire, dont le plan de redressement a fait l'objet d'une décision du tribunal postérieurement au 16 mai 2008 ;
 
