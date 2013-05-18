@@ -1,16 +1,14 @@
 # Article 
 
-RÉPARTITION DES COMPÉTENCES
-
-ET DU PÉRIMÈTRE DES CENTRES MINISTÉRIELS DE GESTION
+RÉPARTITION DES COMPÉTENCES ET DU PÉRIMÈTRE DES CENTRES MINISTÉRIELS DE GESTION
 
 I. ― Le centre ministériel de gestion de Saint-Germain-en-Laye est chargé de l'administration et de la gestion :
 
-1. Des agents en fonctions dans les organismes implantés dans les départements suivants :
+1. Des agents en fonctions dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Oise (60).
 
-Paris (75), à l'exception des agents d'administration centrale gérés par le service de soutien de l'administration centrale.
+Paris (75).
 
 Seine-et-Marne (77).
 
@@ -22,19 +20,19 @@ Hauts-de-Seine (92).
 
 Seine-Saint-Denis (93).
 
-Val-de-Marne (94), à l'exception des agents d'administration centrale gérés par le service de soutien de l'administration centrale.
+Val-de-Marne (94).
 
 Val-d'Oise (95).
 
-2. Des agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer.
+2. Des agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer y compris au sein du service militaire adapté.
 
 3. Des agents affectés à l'étranger, à l'exception du personnel exerçant en Allemagne et du personnel en poste permanent à l'étranger.
 
-4. Des agents en fonctions dans les sociétés DCNS, GIAT/NEXTER et au Commissariat à l'énergie atomique.
+4. Des agents en fonctions dans les sociétés DCNS, GIAT/ NEXTER et au Commissariat à l'énergie atomique et aux énergies alternatives.
 
-5. Des agents civils du service de santé des armées, appartenant aux corps et catégories suivants :
+5. Des agents civils appartenant aux corps et catégories suivants :
 
-― infirmières et infirmiers des services médicaux des administrations de l'Etat ;
+― infirmiers de la défense ;
 
 ― aides-soignants et agents des services hospitaliers qualifiés civils du ministère de la défense ;
 
@@ -44,15 +42,15 @@ Val-d'Oise (95).
 
 ― infirmiers civils de soins généraux du ministère de la défense ;
 
-― agents non titulaires recrutés au titre des articles 4 et 6 de la loi susvisée ;
+― agents non titulaires du service de santé des armées recrutés au titre de la loi du 11 janvier 1984 susvisée, hors articles 22 bis et 27 et hors loi du 17 juillet 1992 ;
 
-― ouvriers de l'Etat relevant de la branche 9 et de la branche 15.
+― ouvriers de l'Etat relevant de la branche 9 et de la branche 15 affectés au sein du service de santé des armées.
 
 6. Des agents en fonctions au sein de la direction de la protection et de la sécurité de la défense.
 
 II. ― Le centre ministériel de gestion de Metz est chargé de l'administration et de la gestion des agents en fonctions :
 
-1. Dans les organismes implantés dans les départements suivants :
+1. Dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Aisne (02).
 
@@ -100,17 +98,9 @@ Territoire de Belfort (90).
 
 2. En Allemagne.
 
-III. ― Le centre ministériel de gestion de Brest est chargé de l'administration et de la gestion des agents en fonctions :
+III (Supprimé)
 
-1. Dans les organismes implantés dans le département du Finistère (29).
-
-2. Dans les organismes de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense implantés dans les départements du Morbihan (56) et de la Manche (50).
-
-3. Dans les organismes du ministère de la défense situés à Lorient (56).
-
-4. Au sein de la base d'aéronautique navale de Lann-Bihoué.
-
-IV. - Le centre ministériel de gestion de Rennes est chargé de l'administration et de la gestion des agents en fonction dans les organismes implantés dans les départements suivants :
+IV.-Le centre ministériel de gestion de Rennes est chargé de l'administration et de la gestion des agents en fonction dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Calvados (14).
 
@@ -121,6 +111,8 @@ Côtes-d'Armor (22).
 Eure (27).
 
 Eure-et-Loir (28).
+
+Finistère (29)
 
 Ille-et-Vilaine (35).
 
@@ -136,17 +128,11 @@ Loiret (45).
 
 Maine-et-Loire (49).
 
-Manche (50), à l'exception des organismes de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense.
+Manche (50).
 
 Mayenne (53).
 
-Morbihan (56), à l'exception :
-
-a) Des organismes de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense implantés dans ce département ;
-
-b) Des organismes du ministère de la défense situés à Lorient ;
-
-c) Des agents en fonctions au sein de la base d'aéronautique navale de Lann-Bihoué.
+Morbihan (56).
 
 Orne (61).
 
@@ -158,7 +144,7 @@ Vendée (85).
 
 V. ― Le centre ministériel de gestion de Bordeaux est chargé de l'administration et de la gestion des agents en fonctions :
 
-1. Dans les organismes implantés dans les départements suivants :
+1. Dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Ariège (09).
 
@@ -202,7 +188,7 @@ Haute-Vienne (87).
 
 2. A DGA essais de missiles.
 
-VI. - Le centre ministériel de gestion de Toulon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants :
+VI.-Le centre ministériel de gestion de Toulon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants, à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Corse-du-Sud (2A).
 
@@ -230,7 +216,7 @@ Var (83).
 
 Vaucluse (84).
 
-VII. ― Le centre ministériel de gestion de Lyon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants :
+VII. ― Le centre ministériel de gestion de Lyon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants, à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Ain (01).
 
@@ -256,11 +242,19 @@ Savoie (73).
 
 Haute-Savoie (74).
 
-VIII. - Par dérogation à la répartition des compétences entre les centres ministériels de gestion selon le lieu d'implantation des organismes :
+VIII.-Par dérogation à la répartition des compétences entre les centres ministériels de gestion selon le lieu d'implantation des organismes :
 
-1. Le centre ministériel de gestion de Metz est chargé de l'administration et de la gestion des agents en fonctions dans les organismes relevant du service des essences des armées.
+1. Le centre ministériel de gestion de Bordeaux est chargé de l'administration et de la gestion :
 
-2. Le centre ministériel de gestion de Toulon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
+-des agents en fonctions au sein du centre des archives du personnel militaire de Pau ;
+
+-des agents non titulaires relevant de la loi du 11 janvier 1984 susvisée exerçant les fonctions d'agents du culte.
+
+2. Le service de soutien de l'administration centrale est chargé de l'administration et de la gestion des agents régis par le décret n° 69-697 du 18 juin 1969 modifié portant fixation du statut des agents contractuels de l'Etat et des établissements publics de l'Etat à caractère administratif, de nationalité française, en service à l'étranger.
+
+3. Le centre ministériel de gestion de Metz est chargé de l'administration et de la gestion des agents en fonctions dans les organismes relevant du service des essences des armées.
+
+4. Le centre ministériel de gestion de Toulon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
 a) DGA Essais en vol ;
 
