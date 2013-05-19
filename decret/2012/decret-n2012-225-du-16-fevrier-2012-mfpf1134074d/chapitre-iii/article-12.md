@@ -6,4 +6,4 @@ La formation spécialisée mentionnée au 1° du II de l'article 11 comprend les
 
 Au sein de ces formations spécialisées, chaque organisation syndicale dispose de deux fois plus de suppléants que de titulaires.
 
-Au sein des commissions prévues au IV de l'article 11 et aux articles 15, 16 et 17, les représentants des organisations syndicales peuvent ne pas être choisis parmi les membres titulaires ou suppléants du Conseil supérieur de la fonction publique de l'Etat.
+Au sein des commissions prévues au IV de l'article 11 et aux articles 16 et 17, les représentants des organisations syndicales peuvent ne pas être choisis parmi les membres titulaires ou suppléants du Conseil supérieur de la fonction publique de l'Etat.
