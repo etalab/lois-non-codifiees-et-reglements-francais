@@ -1778,7 +1778,6 @@
 - [Arrêté du 22 décembre 2008 (SJSH0830921A)](arrete-du-22-decembre-2008-sjsh0830921a)
 - [Arrêté du 22 décembre 2008 (SJSS0830954A)](arrete-du-22-decembre-2008-sjss0830954a)
 - [Arrêté du 22 décembre 2009 (AGRG0927983A)](arrete-du-22-decembre-2009-agrg0927983a)
-- [Arrêté du 22 décembre 2009 (AGRG0927988A)](arrete-du-22-decembre-2009-agrg0927988a)
 - [Arrêté du 22 décembre 2009 (AGRM0931226A)](arrete-du-22-decembre-2009-agrm0931226a)
 - [Arrêté du 22 décembre 2009 (AGRM0931230A)](arrete-du-22-decembre-2009-agrm0931230a)
 - [Arrêté du 22 décembre 2009 (AGRT0929325A)](arrete-du-22-decembre-2009-agrt0929325a)
