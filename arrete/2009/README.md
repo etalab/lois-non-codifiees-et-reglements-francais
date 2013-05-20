@@ -1659,7 +1659,6 @@
 - [Arrêté du 20 octobre 2009 (MTSA0924265A)](arrete-du-20-octobre-2009-mtsa0924265a)
 - [Arrêté du 20 octobre 2009 (SASF0924751A)](arrete-du-20-octobre-2009-sasf0924751a)
 - [Arrêté du 20 septembre 2009 (IOCE0921849A)](arrete-du-20-septembre-2009-ioce0921849a)
-- [Arrêté du 20 mai 2009 (AGRF0906429A)](arrete-du-20-mai-2009-agrf0906429a)
 - [Arrêté du 20 mai 2009 (AGRG0900095A)](arrete-du-20-mai-2009-agrg0900095a)
 - [Arrêté du 20 mai 2009 (BCFF0906420A)](arrete-du-20-mai-2009-bcff0906420a)
 - [Arrêté du 20 mai 2009 (DEFH0905899A)](arrete-du-20-mai-2009-defh0905899a)
