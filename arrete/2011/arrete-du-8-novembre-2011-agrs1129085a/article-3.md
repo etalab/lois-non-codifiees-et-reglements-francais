@@ -1,8 +1,8 @@
 # Article 3
 
-La première section « mission d'inspection générale et d'audit » du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux constitue la mission ministérielle d'audit interne. Ses membres exercent leurs missions dans les conditions prévues par la charte de déontologie du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
+La première section " mission d'inspection générale et d'audit " du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux constitue la mission ministérielle d'audit interne. Ses membres exercent leurs missions dans les conditions prévues par la charte de déontologie du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
 
-Le président de cette mission est responsable de l'audit interne au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire.
+Le président de cette mission est responsable de l'audit interne au ministère de l'agriculture, de l'agroalimentaire et de la forêt.
 
 La mission d'inspection générale et d'audit propose, sur la base d'une analyse fondée sur les risques, et après consultation des directions d'administration centrale intéressées, le programme d'audit ministériel, qu'elle soumet à l'approbation du comité ministériel d'audit interne.
 
