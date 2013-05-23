@@ -59,6 +59,27 @@ D'UNE AUTORISATION DE PÊCHE ORGP NON CONTINGENTÉE
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Article 5 du règlement (CE) n° 1236/2010 établissant un régime de contrôle et de coercition dans la zone de la CPANE. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">La pêche des espèces pélagiques, océaniques et d'eau profonde énumérée à l'annexe du règlement (CE) n° 1236/2010 dans la zone de convention CPANE est soumise à la détention d'une autorisation de pêche ORGP "Espèces pélagiques, océaniques et d'eau profonde en zone CPANE".</p>
+</td>
+<td align="left" valign="top">
+<p align="left">10 jours ouvrés avant la date d'entrée dans la zone CPANE. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sont éligibles les navires ayant accès aux quotas de captures en vigueur sur la zone pour les navires de pêche battant pavillon français. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">L'autorisation mentionne les espèces pêchées par le couple navire-armateur titulaire de l'autorisation.<br/>
+</p>
+</td>
+</tr>
+<tr>
 <td colspan="5">
 <p align="left">(*) Une prise active d'espadon en mer Méditerranée s'entend pour toute marée où les captures d'espadon représentent plus de 5 % en poids des captures totales du navire.<br/>(**) Longueur maxillaire inférieure-fourche.</p>
 </td>
