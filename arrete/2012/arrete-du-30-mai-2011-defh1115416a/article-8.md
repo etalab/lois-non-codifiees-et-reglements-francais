@@ -24,7 +24,7 @@ Les commissions administratives paritaires locales sont compétentes dans les ma
 
 11° En matière d'évaluation professionnelle, elles peuvent, à la requête de l'intéressé, demander à l'autorité hiérarchique la révision du compte rendu de l'entretien professionnel ;
 
-11° bis En matière de réductions de temps de service, elles émettent un avis sur leur répartition entre les agents et les corps. En matière de majorations de temps de service, elles formulent un avis sur les propositions faites par le chef de service. En matière de réductions et de majorations de temps, elles peuvent, à la requête de l'agent, proposer une révision des propositions faites par le chef de service ;
+11° bis En matière de réductions de temps de service, elles émettent un avis sur leur répartition entre les armées et services et les corps. En matière de majorations de temps de service, elles  formulent un avis sur les propositions faites par le chef de service. En matière de réductions et de majorations de temps, elles peuvent, à la requête de l'agent, proposer une révision de la décision notifiée par le chef de service ;
 
 12° Elles sont informées, en application du décret du 28 mai 1982 susvisé, des refus opposés pour la deuxième fois aux demandes d'autorisation d'absence présentées en vue de suivre, pendant la durée normale du travail, des cours de préparation aux concours ou examens professionnels ;
 
