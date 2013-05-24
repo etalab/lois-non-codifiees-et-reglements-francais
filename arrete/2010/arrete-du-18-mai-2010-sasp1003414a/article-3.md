@@ -10,7 +10,7 @@ Le Comité national d'évaluation de la formation pratique mentionné à l'artic
 
 ― de faire évaluer, dans les entreprises où s'effectue le stage pratique, l'acquisition des compétences pratiques de l'élève thanatopracteur.
 
-Le Comité national d'évaluation de la formation pratique comprend un membre titulaire et un membre suppléant de chacun des centres ou écoles de formation mentionnés à l'annexe 3 du présent arrêté.
+Le comité national d'évaluation de la formation pratique détermine son règlement de fonctionnement. Il comprend un membre titulaire et un membre suppléant de chacun des centres ou écoles de formation remplissant les conditions prévues au règlement intérieur dudit comité pour être membre actif.
 
 Il détermine son règlement de fonctionnement.
 
