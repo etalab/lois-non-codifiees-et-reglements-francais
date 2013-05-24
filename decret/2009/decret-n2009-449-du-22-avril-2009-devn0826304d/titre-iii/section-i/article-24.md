@@ -50,23 +50,23 @@ b) Huit personnalités à compétence locale, désignées sur proposition du pr�
 
 ― un représentant de la pêche maritime et des élevages marins ;
 
-- une personnalité compétente en matière d'agriculture ;
+-une personnalité compétente en matière d'agriculture ;
 
 ― un propriétaire dans l'île de Port-Cros et un résident permanent dans l'île de Porquerolles ;
 
 c) Six personnalités à compétence nationale :
 
-- quatre personnalités désignées par le ministre chargé de la protection de la nature, dont au moins deux sur proposition du Conseil national de la protection de la nature appartenant aux associations agréées de protection de l'environnement ou au milieu de la recherche scientifique.
+-quatre personnalités désignées par le ministre chargé de la protection de la nature, dont au moins deux sur proposition du Conseil national de la protection de la nature appartenant aux associations agréées de protection de l'environnement ou au milieu de la recherche scientifique.
 
-- un représentant du Conservatoire de l'espace littoral et des rivages lacustres ;
+-un représentant du Conservatoire de l'espace littoral et des rivages lacustres ;
 
-- un représentant de l'Agence des aires marines protégées.
+-un représentant de l'Agence des aires marines protégées.
 
 4° Un représentant du personnel élu avec son suppléant par le personnel permanent de l'établissement public du parc.
 
-II. - Les représentants de l'Etat peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
+II.-Les représentants de l'Etat peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
 
-Les représentants des collectivités territoriales peuvent se faire suppléer par un élu de la même assemblée délibérante désigné par celle-ci pour les représentants mentionnés aux c et d du 2° du I, à l'exception des maires mentionnés au b du 2° du I qui ne peuvent se faire suppléer que par le maire d'une autre commune littorale du département désigné dans les mêmes conditions.
+Les représentants des collectivités territoriales peuvent se faire suppléer par un élu de la même assemblée délibérante désigné par celle-ci pour les représentants mentionnés                                              aux b, c et d du 2° du I. Le maire et les présidents mentionnés aux a, e et f du 2° du I peuvent se faire suppléer par un élu de la même assemblée délibérante.
 
 Les membres mentionnés au 3° peuvent donner mandat à un autre membre du conseil d'administration.
 
