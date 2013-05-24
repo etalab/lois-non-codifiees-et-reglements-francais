@@ -250,7 +250,7 @@ Evers-Silitex/Evers Isolation, rue Henri-Tournon, 76113 Epouville : de 1950 à 1
 
 Ferodo/Valeo, route de Bueil, 27640 Breuilpont : de 1970 à 1988 ;
 
-ISOMARBAT, 57-59, rue Armand-Barbes, 76600 Le Havre, de 1970 à 1997 ;
+ISOMARBAT, 57/59, rue Armand-Barbès, 76600 Le Havre : de 1970 à 1997 ;
 
 Isotherma, 39, rue Paul-Doumer, 76700 Harfleur : de 1946 à 1997 ; - rue de Fleurus, 76600 Le Havre : de 1956 à 1997 ;
 
@@ -260,15 +260,15 @@ Prodamia Silitex, 2, rue Paul-Bert, 76320 Caudebec-lès-Elbeuf : de 1960 à 1993
 
 Ravera Normandie, 76680 Saint-Hellier : de 1981 à 1996 ;
 
-SARL AGROVISOL, 375, rue Gustave-Eiffel, 76330 Notre-Dame-de-Gravenchon puis 16, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon, de 1995 à 1997 ;
+SARL AGROVISOL, 375, rue Gustave-Eiffel, 76330 Notre-Dame-de-Gravenchon puis 16, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon : de 1995 à 1997 ;
 
-SARL ECHAFISOL, parc des Marais, 76700 Gonfreville-l'Orcher, de 1995 à 1997 ;
+SARL ECHAFISOL, parc des Marais, 76700 Gonfreville-l'Orcher : de 1995 à 1997 ;
 
-SARL ISOMARBAT, 57-59, rue Armand-Barbes, 76600 Le Havre, de 1995 à 1997 ;
+SARL ISOMARBAT, 57/59, rue Armand-Barbès, 76600 Le Havre : de 1995 à 1997 ;
 
-SARL NORISOLEC, 16, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon, de 1995 à 1997 ;
+SARL NORISOLEC, 16, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon de 1995 à 1997 ;
 
-SARL TRAVISOLEC, 1, rue de l'Industrie, 76530 Grand-Couronne, de 1995 à 1997 ;
+SARL TRAVISOLEC, 1, rue de l'Industrie, 76530 Grand-Couronne : de 1995 à 1997 ;
 
 Société d'exploitation des adhésifs (SEA), 14, avenue de l'Ile-de-France, 27200 Vernon : de 1962 à 1994 ;
 
@@ -276,9 +276,11 @@ Silitex, BP 29, rue Henri-Ternon, 76133 Epouville : de 1950 à 1996 ;
 
 SNECI-Calo, ZI de Rogerville, 76700 Rogerville : de 1972 à 1997 ;
 
-TRAVISOL, Lillebonne (76), puis TRAVISOL, rue Deshaies, 76330 Notre-Dame-de-Gravenchon, puis 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon, de 1964 à 1997 ;
+TRAVISOL - LILLEBONNE (76) puis TRAVISOL, rue Deshaies, 76330 Notre-Dame-de-Gravenchon puis 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon : de 1964 à 1997 ;
 
-TRAVISOL SA, 2, rue Lefort, 76530 Grand-Couronne, de 1969 à 1997 ;
+TRAVISOL SA, 2, rue Lefort, 76530 Grand-Couronne : de 1969 à 1997 ;
+
+TRAVISOL SA, 86, rue Dumont-d'Urville, 76600 Le Havre : de 1982 à 1990 ;
 
 Wanner/Wanner Isofi , rue de l'Essard, 76100 Rouen, puis rue de l'Industrie, 76530 Grand-Couronne : de 1967 à 1997.
 
@@ -662,6 +664,8 @@ Précicable, 151, rue Michel-Carré, BP 10, 95102 Argenteuil Cedex : de sa créa
 
 Raschig SAS : depuis 1998 ;
 
+REVCO puis GURIT ESSEX puis DOW AUTOMOTIVE, route de Jamard, 77390 Ozouer-le-Voulgis : de 1977 à 1983 ;
+
 Rieter/Keller, laboratoire de recherche, route de l'Hautil, 95000 Boisemont, puis 78410 Aubergenville : de 1971 à 1981 ;
 
 Rincheval puis Famaro Rincheval, 3 avenue des Cures, 95320 Soisy-sous-Montmorency ;
@@ -866,7 +870,7 @@ Bitumes spéciaux, zone industrielle, allée Paul-Sabatier, 27940 Aubevoye : de 
 
 Carel Fouche Industrie, 27940 Aubevoye, de 1936 à 1989 ;
 
-Compagnie des produits chimiques et matières colorantes (CPCMC), Francolor, Compagnie française des matières colorantes (CFMC), FMC, division des établissements Kuhlmann, Pechiney Ugine Kuhlmann, ICI, Crompton et Knowles, de 1919 à 1996 ;
+COMPAGNIE DES PRODUITS CHIMIQUES ET MATIÈRES COLORANTES (CPCMC), FRANCOLOR, COMPAGNIE FRANÇAISE DES MATIÈRES COLORANTES (CFMC), FMC, division des établissements KUHLMANN, PECHINEY UGINE KUHLMANN, ICI, CROMPTON et KNOWLES, FRANCOLOR PIGMENTS, ICI FRANCOLOR, ICI PLC : de 1919 à 1996 ;
 
 Etablissement Julin, filiale SIM, rue d'Elbeuf, 76100 Rouen, rue Méridienne, 76100 Rouen, avenue du Général-Leclerc, 76120 Le Grand-Quevilly, depuis sa création à 1980 ;
 
@@ -942,6 +946,8 @@ Carel et Fouche, puis Construction ferroviaire du Mans, 2, rue du Miroir, 72000 
 
 EATON SA, ZI de Brais, 44611 Saint-Nazaire : De 1974 à 1996 ;
 
+GARDILOIRE puis COFAZ puis NORSK HYDRO AZOTE, HYDRO AZOTE, HYDRO AGRI FRANCE, Usine de Montoir de Bretagne, zone portuaire, BP 11, 44550 Montoir-de-Bretagne : de 1971 à 1996 ;
+
 Inoxydable de l'Ouest, 53800 Congrier : de 1961 à 1982 ;
 
 Isotherma, ZI Noes, BP 23, 44550 Montoire-de-Bretagne : de 1961 à 1999 ;
@@ -1002,8 +1008,6 @@ Etablissements DBA/Bendix/Honeywelle/Allied Signal, Tille, 60000 Beauvais : de 1
 
 Frendo/Fren J./Fren Brex SA/Roulunds Codan, Z.I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997.
 
-Gurit Essex, Dow Automotive, ZI du Nord, route d'Amiens, 60130 Saint-Just-en-Chaussée, de 1977 à 1983.
-
 Hazemeyer, 285, rue de Guise, 02100 Saint-Quentin : de 1948 à 1981 ;
 
 Inmont, Saint-Just-en-Chaussée : de 1970 à 1974 ;
@@ -1021,6 +1025,8 @@ Matériel scientifique moderne, 4 bis, rue des Archers, 80000 Amiens, de 1950 à
 Max Perles et Cie, 4, rue du Professeur Dubos, 60119 Henonville, de 1970 à 1996 ;
 
 Moulinage et retorderie de l'Oise (MERO), 57, boulevard Lebègue, 60530 Neuilly-en-Thelle, de 1988 à 1990 ;
+
+REVCO puis GURIT ESSEX puis DOW AUTOMOTIVE, route d'Amiens, zone industrielle Nord, 60130 Saint-Just-en-Chaussée : de 1981 à 1983 ;
 
 SA Fichet Bauche, 80460 Oust-Marest : De 1969 à 1977 ;
 
@@ -1060,6 +1066,8 @@ Alpha Isolation, ZI Les Estroublans, 1, rue No-5, 13127 Vitrolles : depuis 1976 
 
 AMI FROID, 52, chemin du Gavaou, 13380 Plan-de-Cuques : De 1979 à 1982, puis 5, avenue des Pins, 13013 Marseille, et 176, avenue des Poilus, quartier Les Olives, 13013 Marseille : De 1983 à 1986, puis ZAC de la Haute-Bédoule, 13240 Septèmes-les-Vallons : De 1986 à 1996 ;
 
+ATELIER LE CANET DE MARSEILLE puis CAMOM SA puis SOCIETE NOUVELLE CAMOM puis UIE (Union Industrielle et d'Entreprise) puis SOCIETE NOUVELLE CAMOM puis CAMOM SNC, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1962 à 1996 ;
+
 Atofina, site de Fos, Carrefour du Caban, RN 568, BP 111, 13773 Fos-sur-Mer : de 1975 à 2001 ;
 
 ATOFINA, établissement de Port-de-Bouc, carrefour du Caban, RN 268, BP 111, 13773 Fos-sur-Mer : de 1940 à 1995 ;
@@ -1095,6 +1103,8 @@ France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : 
 FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : de 1988 à 1996 ;
 
 Société de tuyauterie et de montage Friedlander, établissement secondaire de Saint-Auban, ZI Les Blâches Gombert, 04160 Château-Arnoux : De 1970 à 1996 ;
+
+IHP (Isolation Haute Provence),  ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1976 à 1980 puis Zone artisanale, 04160 L'Escale : de 1981 à 1996 ;
 
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
@@ -1133,6 +1143,8 @@ Saint-Gobain Industrie, puis Isover Saint-Gobain, Usine d'Orange, 235, rue du Po
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
 
 SARL Plisson, Quartier du Trébon, route de Tarascon, 13200 Arles : de 1987 à 1996 ;
+
+SAS SAIT Centre d'exploitation de Château-Arnoux, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1981 à 1996 ;
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
@@ -1215,6 +1227,8 @@ Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equi
 PRODUITS CHIMIQUES UGINE KUHLMANN puis AIDCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
+
+SA CRICERAM puis RSA LE RUBIS, Route nationale 85, 38560 Jarrie : de 1983 à 1996 ;
 
 SAVIEM puis RVI, Avenue Ferdinand-Janvier, 07100 Annonay : de 1962 à 1993 ;
 
