@@ -1,9 +1,9 @@
 # Article 16
 
-Le rapport d'homologation est notifié par l'administration au commanditaire et le certificat d'homologation peut être assorti de recommandations.
+Au terme des travaux d'évaluation, chaque centre d'évaluation de la sécurité des technologies de l'information remet un rapport au commanditaire et à la direction générale   des finances publiques  du ministère en charge du budget. Ce rapport est un document confidentiel dont les informations sont couvertes par le secret industriel et commercial.
 
-L'homologation est délivrée pour une période de cinq ans. Toute prolongation au-delà de cette période nécessite une nouvelle évaluation du dispositif. Si, pendant cette période, des modifications substantielles du dispositif homologué interviennent, le commanditaire opère une nouvelle saisine du centre d'évaluation de la sécurité des technologies de l'information pour que son certificat d'homologation soit complété pour les prendre en compte.
+Le commanditaire et l'administration valident les rapports d'évaluation en liaison avec le centre d'évaluation concerné. Sur la base du ou des rapports d'évaluation validés, l'administration établit un rapport tendant à prononcer l'homologation ou à la refuser.
 
-En cas de discordance entre le dispositif homologué et sa mise en oeuvre opérationnelle, l'homologation peut être annulée par arrêté du ministre en charge du budget.
+L'administration peut, en complément des travaux d'évaluation du ou des centres d'évaluation, procéder, en lien avec le commanditaire, à des vérifications complémentaires de son dispositif.
 
-Le ministère en charge du budget ne peut être tenu responsable des dysfonctionnements des dispositifs de transmission et de leurs conséquences pour        les organismes publics visés à l'article 1er  qui les mettent en oeuvre.
+Le dispositif de transmission ainsi homologué peut être mis en oeuvre par un ou plusieurs tiers de transmission et utilisé pour le compte de plusieurs collectivités et établissements publics locaux.

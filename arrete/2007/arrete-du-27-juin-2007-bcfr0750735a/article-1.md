@@ -1,11 +1,13 @@
 # Article 1
 
-Le présent arrêté définit les conditions dans lesquelles s'effectue la dématérialisation du compte de gestion ou financier des collectivités territoriales, de leurs établissements publics et des établissements publics de santé, des décisions budgétaires, des mandats de dépenses, des titres de recettes, des pièces justifiant ces mandats et ces titres ainsi que des bordereaux les récapitulant.
+Conformément à l'
+article 51 du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique, le présent arrêté définit les conditions de la dématérialisation des comptes des collectivités territoriales, de leurs groupements, de leurs établissements publics et des établissements publics de santé ainsi que des pièces budgétaires, comptables (mandats de dépenses, titres de recettes et bordereaux les récapitulant) et justificatives intégrées à ces comptes.
 
-Ces conditions de dématérialisation permettent le jugement du compte de gestion par la chambre régionale des comptes ou l'apurement administratif prévu à l'article L. 211-2 du code des juridictions financières.
+Les organismes publics précités, lorsqu'ils effectuent par voie ou sous forme électronique la transmission de tout ou partie des pièces mentionnées aux
+articles D. 1617-19, D. 1617-21 et D. 1617-23 du code général des collectivités territoriales
+, recourent à l'une des modalités de transmission fixées par le présent arrêté.
 
-Sa mise en oeuvre s'effectue dans le cadre de la charte nationale partenariale de dématérialisation et de la convention-cadre nationale de dématérialisation des documents de la chaîne comptable et financière des collectivités et établissements publics locaux versions 1 et suivantes, prise en application de cette charte, publiées à l'adresse électronique suivante :
+Ces modalités informatiques sont détaillées par la convention-cadre nationale de dématérialisation des documents de la chaîne comptable et financière des collectivités et établissements publics locaux versions 1.3 et suivantes, prise en application de la charte nationale partenariale de dématérialisation, qui sont publiées sur internet à l'adresse électronique suivante :
 
-http://www.colloc.bercy.gouv.fr/colo_struct_fina_loca/dema.html.
-
-Les collectivités territoriales, leurs établissements publics et les établissements publics de santé, lorsqu'ils choisissent d'effectuer par voie ou sous forme électronique la transmission de tout ou partie des pièces mentionnées aux articles D. 1617-19 et D. 1617-23 du code général des collectivités territoriales, recourent à l'une des modalités de transmission fixées par le présent arrêté.
+http :// www. colloc. bercy. gouv. fr/ colo _ struct _ fina _ loca/ dema _ chai. html

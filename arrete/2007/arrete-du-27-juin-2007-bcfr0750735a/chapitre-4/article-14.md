@@ -1,21 +1,7 @@
 # Article 14
 
-Le responsable du dispositif de transmission sécurisée, dénommé commanditaire, peut adresser à la direction générale   des finances publiques  du ministère en charge du budget une demande d'homologation dans laquelle il s'engage à présenter un dispositif conforme aux exigences du cahier des charges. Cette demande doit s'accompagner d'un dossier qui comprend :
+L'homologation a pour objet de certifier la conformité au cahier des charges annexé au présent arrêté des dispositifs techniques proposés aux ordonnateurs par les tiers de transmission dans le cadre de l'option ouverte par l'article 11 du présent arrêté.
 
--une description du dispositif de transmission à homologuer incluant la documentation sur les modalités de mise en oeuvre de ce dispositif ;
+L'homologation du tiers de transmission est subordonnée au respect des obligations générales énumérées à l'article D. 1617-23 du code général des collectivités territoriales et au respect des obligations techniques décrites dans le cahier des charges en annexe n° 1 du présent arrêté.
 
--toutes autres indications pouvant être utiles dans la connaissance de ce dispositif (références éventuelles d'utilisation...).
-
-Il est émis un accusé de réception du dépôt de cette demande dont l'instruction par l'administration est subordonnée à la présentation d'un ou plusieurs rapports d'évaluation établis par un ou plusieurs centres d'évaluation mentionnés au précédent article.
-
-Le commanditaire choisit à cette fin un ou plusieurs centres d'évaluation avec chacun desquels il détermine :
-
--le dispositif objet de l'homologation ;
-
--les conditions de protection de la confidentialité des informations traitées dans le cadre de l'homologation ;
-
--le calendrier et les modalités pratiques de l'homologation ;
-
--le coût et les modalités de paiement de l'évaluation à la charge du commanditaire.
-
-Le commanditaire doit mettre à la disposition du ou des centres d'évaluation agréés qu'il a choisis ainsi que de l'administration, si elle en fait la demande, tous les éléments nécessaires à la procédure d'homologation, après accord, le cas échéant, des fabricants concernés.
+L'homologation de tout ou partie d'un dispositif de transmission est prononcée par le ministre en charge du budget sur la base d'un rapport d'évaluation établi par un ou plusieurs centres d'évaluation de la sécurité des technologies de l'information agréés et référencés pour les domaines " techniques informatiques et réseaux " par les services du Premier ministre, conformément au décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.

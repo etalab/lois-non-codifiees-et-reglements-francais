@@ -1,0 +1,3 @@
+# Article 10
+
+L'approbation dématérialisée des comptes, visés au premier alinéa du I de l'article 60 de la loi n° 63-156 du 29 février 1963, aux articles 21 et 52 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et à l'article 1er du décret n° 79-124 du 5 février 1979, est effectuée par le comptable public, le directeur départemental ou régional des finances publiques sous l'autorité duquel il est placé et l'ordonnateur concernés par le cochage par chacun d'entre eux de la zone " validation " dans l'application CDG-D de la direction générale des finances publiques.

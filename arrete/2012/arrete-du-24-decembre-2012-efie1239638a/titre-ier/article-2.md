@@ -14,15 +14,15 @@ b) Par l'une des formes de carte de paiement suivantes :
 
 ― carte bancaire établie au nom d'un agent comptable, d'un trésorier militaire ou d'un régisseur d'avances dans le respect de la réglementation applicable à ces derniers ;
 
-― carte d'achat selon les modalités fixées par l'article 11 du présent arrêté ;
+― carte d'achat selon les modalités fixées par l'article 10 du présent arrêté ;
 
 ― autres cartes de paiement sur autorisation préalable du directeur général des finances publiques ;
 
-c) En espèces par le comptable public, le trésorier militaire ou le régisseur dans les cas prévus au paragraphe 6-II de l'article 3 ou lorsque le montant unitaire de la dépense est inférieure à 300 euros ;
+c) En espèces par le comptable public, le trésorier militaire ou le régisseur dans les cas prévus au paragraphe II de l'article 3 ou lorsque le montant unitaire de la dépense est inférieure à 300 euros ;
 
 d) Par mandat postal dans les cas définis par le directeur général des finances publiques ;
 
-e) Par chèque sur le Trésor, transmis au débiteur par le comptable, dans les cas définis par le directeur général des finances publiques. Le chèque sur le Trésor est barré lorsqu'il excède un montant de 300 euros ;
+e) Par chèque sur le Trésor, dans les cas définis par le directeur général des finances publiques. Le chèque sur le Trésor est barré lorsqu'il excède un montant de 300 euros, sauf dans les cas définis par le directeur général des finances publiques ;
 
 f) Par chèque tiré sur un compte de dépôt de fonds au Trésor, au choix du titulaire de l'organisme autorisé à ouvrir un tel compte. Les chèques tirés sur un compte de dépôt de fonds au Trésor sont barrés lorsqu'ils excèdent un montant de 300 euros, même lorsque la formule utilisée a été soumise au droit de timbre ;
 

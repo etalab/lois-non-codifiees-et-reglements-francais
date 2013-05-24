@@ -6,7 +6,7 @@ a) Pour toutes les dépenses, y compris les traitements et leurs accessoires, do
 
 b) Pour les pensions et leurs accessoires à la charge de l'Etat payés en France.
 
-II. ― Par dérogation à la règle posée au paragraphe I ci-dessus, sont dispensés du règlement obligatoire par virement :
+II. ― Par dérogation à la règle posée au paragraphe I ci-dessus, sont dispensés du règlement obligatoire par virement dans les cas et selon les modalités définis par le directeur général des finances publiques :
 
 a) Les dépenses, réglées par l'intermédiaire des régisseurs ;
 

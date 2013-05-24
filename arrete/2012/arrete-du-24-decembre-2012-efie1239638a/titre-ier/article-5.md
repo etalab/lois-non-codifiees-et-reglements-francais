@@ -36,6 +36,6 @@ VI. ― Lorsqu'une lettre de change-relevé n'a pu être payée à l'échéance,
 
 ― par virement ;
 
-― par une nouvelle lettre de change-relevé émise dans les conditions prévues par le présent décret.
+― par une nouvelle lettre de change-relevé émise dans les conditions prévues par le présent arrêté.
 
 VII. ― Le règlement des intérêts moratoires peut être effectué par virement ou par lettre de change-relevé.
