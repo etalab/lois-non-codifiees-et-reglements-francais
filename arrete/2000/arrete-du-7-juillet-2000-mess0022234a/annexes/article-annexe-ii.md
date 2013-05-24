@@ -834,7 +834,7 @@ SMCT (Société de montage en chaudronnerie et tuyauterie de Brest) :
 
 - 71, rue de la Porte, 29200 Brest : depuis 1992.
 
-SMCT (Société de montage en chaudronnerie et tuyauterie), de 1984 à 1992, puis SMCTL (Société de montage en chaudronnerie et tuyauterie de Lorient), 27, quai des Indes, 56100 Lorient, de 1993 à 1995, puis 12, boulevard Abbé-Le-Cam, 56100 Lorient, depuis 1995.
+SMCT (Société de montage en chaudronnerie et tuyauterie), de 1984 à 1992, puis SMCTL (Société de montage en chaudronnerie et tuyauterie de Lorient), 27, quai des Indes, 56100 Lorient, de 1993 à 1995, puis 12, boulevard Abbé-le-Cam, 56100 Lorient, de 1995 à 2008.
 
 SMCTO.B (Société de montage en chaudronnerie et tuyauterie de l'ouest Brest) 21, rue Jurien-de-la-Gravière 29200 BREST De 1995 à 2005 Puis 3, rue du Colonel-Berthaud 29200 BREST De 2006 à 2010 Et 280, rue Alain-Colas 29200 BREST En 2010
 
