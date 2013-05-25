@@ -792,7 +792,6 @@
 - [Décret n°2012-88 du 25 janvier 2012 (DEVL1122563D)](decret-n2012-88-du-25-janvier-2012-devl1122563d)
 - [Décret n°2012-912 du 25 juillet 2012 (ESSX1229715D)](decret-n2012-912-du-25-juillet-2012-essx1229715d)
 - [Décret n°2012-914 du 25 juillet 2012 (EFIT1220515D)](decret-n2012-914-du-25-juillet-2012-efit1220515d)
-- [Décret n°95-452 du 25 avril 1995 (EQUP9500151D)](decret-n95-452-du-25-avril-1995-equp9500151d)
 - [Décret n°2009-1303 du 26 octobre 2009 (MEND0914374D)](decret-n2009-1303-du-26-octobre-2009-mend0914374d)
 - [Décret n°2011-1029 du 26 août 2011 (MENE1119958D)](decret-n2011-1029-du-26-aout-2011-mene1119958d)
 - [Décret n°2012-101 du 26 janvier 2012 (EFIT1111223D)](decret-n2012-101-du-26-janvier-2012-efit1111223d)
