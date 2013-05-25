@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : ORGANISATION GÉNÉRALE](titre-ier)
-- [TITRE II : OBSERVATOIRE NATIONAL DES EMPLOIS, DES ACTIVITES ET DES FORMATIONS DES SAPEURS-POMPIERS.](titre-ii)
 - [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
 - [Article 29](article-29.md)

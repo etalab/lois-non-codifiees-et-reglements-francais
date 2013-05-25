@@ -18,6 +18,4 @@ Le décret prévoit en outre les conditions dans lesquelles les conseils d'admin
 
 III.-Les conventions visées au deuxième alinéa du A du II de l'article 6 de la loi n° 2008-1061 du 16 octobre 2008 précitée déjà conclues à la date de publication de la présente loi sont révisées en conséquence du I.
 
-IV.-Le comité de suivi du dispositif de financement de l'économie française créé en application de l'article 6 de la loi n° 2008-1061 du 16 octobre 2008 précitée examine la mise en œuvre des dispositions du présent article.
-
-> >
+IV.-Abrogé.

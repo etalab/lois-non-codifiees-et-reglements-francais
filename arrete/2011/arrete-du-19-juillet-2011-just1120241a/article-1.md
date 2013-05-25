@@ -4,10 +4,6 @@ En application de l'article 3 du décret du 28 octobre 2008 susvisé, les foncti
 
 Au secrétariat général
 
-Auprès du secrétaire général :
-
-― secrétaire permanent du comité de gouvernance des systèmes d'information.
-
 A la sous-direction de la synthèse des ressources humaines :
 
 ― chef du bureau des ressources transversales ;

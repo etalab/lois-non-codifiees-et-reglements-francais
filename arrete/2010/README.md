@@ -941,7 +941,6 @@
 - [Arrêté du 12 avril 2010 (MAEF1009370A)](arrete-du-12-avril-2010-maef1009370a)
 - [Arrêté du 12 avril 2010 (MAEF1009849A)](arrete-du-12-avril-2010-maef1009849a)
 - [Arrêté du 12 décembre 2011 (TRAT1125723A)](arrete-du-12-decembre-2011-trat1125723a)
-- [Arrêté du 12 février 2001 (MCCI0100097A)](arrete-du-12-fevrier-2001-mcci0100097a)
 - [Arrêté du 12 février 2010 (AGRS1002186A)](arrete-du-12-fevrier-2010-agrs1002186a)
 - [Arrêté du 12 février 2010 (DEVA1003943A)](arrete-du-12-fevrier-2010-deva1003943a)
 - [Arrêté du 12 février 2010 (DEVA1004328A)](arrete-du-12-fevrier-2010-deva1004328a)

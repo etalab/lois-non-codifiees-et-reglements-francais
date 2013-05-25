@@ -26,8 +26,6 @@ b) Les autres membres à voix délibérative sont :
 
 ― le cas échéant, le chargé d'opération ou le chef de projet concerné par le projet de marché ou d'accord-cadre ;
 
-― le secrétaire permanent du comité de gouvernance des systèmes d'information, ou son représentant, pour les marchés ou accords-cadres entrant dans le champ de ses attributions ;
-
 ― le responsable du bureau des marchés et de la modernisation des achats du département de l'administration et de la valorisation des ressources de la sous-direction de l'informatique et des télécommunications pour les marchés relevant de cette sous-direction et de la sous-direction de la statistique et des études, ou son représentant ;
 
 ― l'expert marché du service immobilier du palais de justice de Paris pour les marchés ou accords-cadres entrant dans le champ de ses attributions, ou son représentant ;

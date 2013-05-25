@@ -4,7 +4,7 @@ Service de la coordination des politiques culturelles et de l'innovation.
 
 I. ― Le service de la coordination des politiques culturelles et de l'innovation est chargé, en relation avec les services du ministère et les départements ministériels concernés, des politiques culturelles en matière de transmission des savoirs, de démocratisation culturelle et de développement de la recherche culturelle. Il assure la synthèse des informations relatives à ces politiques culturelles. Il contribue à la connaissance de l'environnement économique et social de la culture et à l'évaluation des politiques culturelles. Il engage et promeut des politiques innovantes et expérimentales dans les domaines artistique et culturel.
 
-Il prépare les travaux du conseil ministériel de la recherche et du conseil ministériel des études.
+Il prépare les travaux du conseil ministériel de la recherche.
 
 Il met en œuvre la tutelle des opérateurs relevant de son domaine de compétence ou y participe dans son champ de compétence transversale.
 

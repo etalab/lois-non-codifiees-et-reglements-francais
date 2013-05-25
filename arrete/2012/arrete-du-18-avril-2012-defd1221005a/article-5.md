@@ -2,7 +2,7 @@
 
 I. ― La sous-direction des questions économiques, fiscales et internationales est chargée :
 
-1° De conduire les études relatives à l'environnement économique et financier et d'en diffuser les enseignements. A ce titre, elle contribue aux travaux du conseil économique de la défense ;
+1° De conduire les études relatives à l'environnement économique et financier et d'en diffuser les enseignements ;
 
 2° D'être le correspondant pour le ministère de l'Institut national de la statistique et des études économiques dans le cadre des programmes statistiques publics. Elle représente le ministère au Conseil national pour l'information statistique ;
 

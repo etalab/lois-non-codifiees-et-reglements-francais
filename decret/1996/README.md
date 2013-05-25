@@ -639,7 +639,6 @@
 - [Décret n°96-69 du 26 janvier 1996 (TASS9523421D)](decret-n96-69-du-26-janvier-1996-tass9523421d)
 - [Décret n°96-856 du 26 septembre 1996 (TASH9622891D)](decret-n96-856-du-26-septembre-1996-tash9622891d)
 - [Décret n°96-859 du 26 septembre 1996 (EQUM9600802D)](decret-n96-859-du-26-septembre-1996-equm9600802d)
-- [Décret n°96-1022 du 27 novembre 1996 (ECOX9600130D)](decret-n96-1022-du-27-novembre-1996-ecox9600130d)
 - [Décret n°96-1034 du 27 novembre 1996 (MCCX9600109D)](decret-n96-1034-du-27-novembre-1996-mccx9600109d)
 - [Décret n°96-1169 du 27 décembre 1996 (TASS9624451D)](decret-n96-1169-du-27-decembre-1996-tass9624451d)
 - [Décret n°96-1174 du 27 décembre 1996 (MIPP9600495D)](decret-n96-1174-du-27-decembre-1996-mipp9600495d)

@@ -1,6 +1,6 @@
 # Article 7
 
-La sous-direction de l'informatique et des télécommunications définit, au regard des orientations interministérielles et en lien avec le comité de gouvernance du système d'information, la stratégie technique du ministère.
+La sous-direction de l'informatique et des télécommunications définit, au regard des orientations interministérielles, la stratégie technique du ministère.
 
 Elle participe, avec les directions et services maîtres d'ouvrage, à la mise en œuvre de la politique du ministère en matière de systèmes d'information et de systèmes et réseaux de télécommunication.
 

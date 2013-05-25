@@ -93,14 +93,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Comité de pilotage restreint et groupes de travail du comité national de suivi du plan pour préserver l'efficacité des antibiotiques <br/>
-</td>
-<td align="center">DGS <br/>RI3 <br/>
-</td>
-<td align="center">Arrêté du 29 mai 2002 <br/>Arrêté du 5 mai 2008 <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Comité national de santé publique <br/>
 </td>
 <td align="center">DGS <br/>DP1 <br/>
@@ -146,14 +138,6 @@
 <td align="center">DGS <br/>MC1 <br/>
 </td>
 <td align="center">Décret n° 2009-1216 du 9 octobre 2009 <br/>Arrêté du 13 mars 2011 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Commission nationale de l'échographie obstétricale et fœtale <br/>
-</td>
-<td align="center">DGS <br/>PP4 <br/>
-</td>
-<td align="center">Décret n° 2010-766 du 7 juillet 2010 <br/>
 </td>
 </tr>
 <tr>

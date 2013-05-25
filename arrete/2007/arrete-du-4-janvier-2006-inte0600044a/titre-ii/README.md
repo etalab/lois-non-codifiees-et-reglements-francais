@@ -1,5 +1,0 @@
-# TITRE II : OBSERVATOIRE NATIONAL DES EMPLOIS, DES ACTIVITES ET DES FORMATIONS DES SAPEURS-POMPIERS.
-
-- [Article 25](article-25.md)
-- [Article 26](article-26.md)
-- [Article 27](article-27.md)

@@ -692,7 +692,6 @@
 - [Arrêté du 9 mars 2011 (ESRH1105895A)](arrete-du-9-mars-2011-esrh1105895a)
 - [Arrêté du 9 mars 2011 (ETSH1107375A)](arrete-du-9-mars-2011-etsh1107375a)
 - [Arrêté du 9 mars 2011 (ETSS1033016A)](arrete-du-9-mars-2011-etss1033016a)
-- [Arrêté du 9 mars 2011 (IOCE1106974A)](arrete-du-9-mars-2011-ioce1106974a)
 - [Arrêté du 9 novembre 2011 (DEFH1130613A)](arrete-du-9-novembre-2011-defh1130613a)
 - [Arrêté du 9 novembre 2011 (DEVA1130652A)](arrete-du-9-novembre-2011-deva1130652a)
 - [Arrêté du 9 novembre 2011 (EFIS1126437A)](arrete-du-9-novembre-2011-efis1126437a)

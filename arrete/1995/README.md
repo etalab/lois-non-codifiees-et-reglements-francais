@@ -244,7 +244,6 @@
 - [Arrêté du 6 novembre 1995 (PRMG9570554A)](arrete-du-6-novembre-1995-prmg9570554a)
 - [Arrêté du 6 novembre 1995 (REFB9500644A)](arrete-du-6-novembre-1995-refb9500644a)
 - [Arrêté du 6 novembre 1995 (SANH9503277A)](arrete-du-6-novembre-1995-sanh9503277a)
-- [Arrêté du 6 novembre 1995 (SANP9503270A)](arrete-du-6-novembre-1995-sanp9503270a)
 - [Arrêté du 6 novembre 1995 (SANP9503276A)](arrete-du-6-novembre-1995-sanp9503276a)
 - [Arrêté du 6 novembre 1995 (TEFC9501015A)](arrete-du-6-novembre-1995-tefc9501015a)
 - [Arrêté du 6 septembre 1995 (EQUS9501397A)](arrete-du-6-septembre-1995-equs9501397a)

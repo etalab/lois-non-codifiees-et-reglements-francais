@@ -24,8 +24,6 @@ Secrétariat général pour l'administration/cellule audit interne de Paris, Sai
 
 Secrétariat général pour l'administration/cabinet de Paris, Saint-Thomas-d'Aquin ;
 
-Secrétariat général pour l'administration/conseil économique de la défense de Paris, Saint-Thomas-d'Aquin ;
-
 Secrétariat général pour l'administration/cellule communication de Paris, Saint-Thomas-d'Aquin ;
 
 Secrétariat général pour l'administration/inspecteurs techniques de l'infrastructure de la défense de Paris, Saint-Thomas-d'Aquin ;

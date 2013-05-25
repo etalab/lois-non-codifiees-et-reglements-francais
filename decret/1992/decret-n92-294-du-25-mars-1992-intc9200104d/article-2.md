@@ -1,3 +1,0 @@
-# Article 2
-
-Le Conseil supérieur de la police technique et scientifique est chargé de proposer un schéma directeur définissant les orientations de la police technique et scientifique. Il veille à la cohérence de l'application de la politique mise en oeuvre par les services compétents. A cet effet, il lui est rendu compte chaque année des actions menées par ceux-ci. Il s'assure que les moyens de police technique et scientifique développés permettent de satisfaire aux besoins exprimés par les autorités judiciaires et traitent indistinctement des demandes émanant de la police et de la gendarmerie.

@@ -6,4 +6,4 @@ La présidence du jury est confiée obligatoirement à un enseignant appartenant
 
 En cas d'impossibilité, et seulement pour les centres ouverts à l'étranger, la présidence du jury pourra être assurée par un profes­seur agrégé ou certifié de lettres ou de langues, ou par un inspecteur départemental de l'éducation nationale.
 
-Les autres membres du jury appartiennent à l'un des corps du ministère de l'éducation nationale, sauf, pour les centres ouverts à l'étranger, sur dérogation accordée par le président de la commission nationale.
+Les autres membres du jury appartiennent à l'un des corps du ministère de l'éducation nationale, sauf, pour les centres ouverts à l'étranger, sur dérogation accordée par le directeur du Centre international d'études pédagogiques.

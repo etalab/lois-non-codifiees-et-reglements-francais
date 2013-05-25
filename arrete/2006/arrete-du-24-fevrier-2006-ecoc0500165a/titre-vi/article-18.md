@@ -1,6 +1,6 @@
 # Article 18
 
-Tout aménagement des méthodes de réception définies au présent arrêté et à ses annexes, et notamment l'installation d'appareil dont l'utilisation pourrait impliquer une modification des dispositions de ce dernier, devra faire l'objet de l'agrément préalable de la direction générale de la concurrence, de la consommation et de la répression des fraudes, sur avis, le cas échéant, de la commission consultative visée à l'article précédent.
+Tout aménagement des méthodes de réception définies au présent arrêté et à ses annexes, et notamment l'installation d'appareil dont l'utilisation pourrait impliquer une modification des dispositions de ce dernier, devra faire l'objet de l'agrément préalable de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
 A cette fin, les planteurs ou industriels intéressés, ou leurs organisations représentatives, seront tenus d'adresser au service précité un dossier décrivant les méthodes et matériels en cause et de fournir tous renseignements complémentaires sollicités.
 

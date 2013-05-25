@@ -10,8 +10,6 @@ Les conventions mentionnées au premier alinéa indiquent les conditions d'expos
 
 Le présent article est applicable jusqu'au 31 décembre 2010. Un décret en fixe les conditions d'application.
 
-Le comité de suivi du dispositif de financement de l'économie française examine la mise en œuvre de ces dispositions.
-
 II.-A modifié les dispositions suivantes :
 
 > -LOI n° 2008-1443 du 30 décembre 2008
