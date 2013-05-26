@@ -1,7 +1,17 @@
 # Article 2
 
-L'approvisionnement de l'usine se fera avec de l'hexafluorure d'uranium livré à l'état solide en conteneur de transport.
+L'approvisionnement de l'usine se fera avec :
 
-L'uranium de recyclage, fabriqué à partir d'uranium provenant d'usines de traitement de combustibles irradiés, ne pourra toutefois être utilisé qu'après autorisation du ministre de l'industrie, du commerce et de l'artisanat, après avis du ministre de la santé et de la sécurité sociale, la proportion de cet uranium dans le flux annuel moyen d'alimentation de la cascade d'enrichissement ne pouvant pas être supérieure à 10 p. 100.
+- du trifluorure de chlore livré à l'état liquide en conteneurs de transport ;
 
-La teneur en isotope 235 de l'uranium de l'hexafluorure d'uranium sortant de l'usine sera au maximum de 5 p. 100. En tout état de cause, la teneur isoptique en uranium 235 des composés d'uranium présents dans l'installation sera toujours inférieure ou égale à 5 p. 100.
+- de l'hexafluorure d'uranium d'origine naturelle, relatif aux opérations liées à la fin de vie de l'usine, livré à l'état solide en conteneurs de transport.
+
+La teneur en isotope 235 de l'uranium de l'hexafluorure d'uranium présent dans l'installation sera au maximum de 5 pour 100. En tout état de cause, la teneur isotopique en uranium 235 des composés d'uranium présents dans l'installation sera toujours inférieure ou égale à 5 pour 100.
+
+La quantité totale de trifluorure de chlore présente sur l'installation sera limitée à 38,5 tonnes réparties comme suit :
+
+15 tonnes au maximum à l'intérieur du parc de stockage de ClF3 ;
+
+3,5 tonnes au maximum à l'intérieur de l'annexe U ;
+
+20 tonnes au maximum à l'intérieur de la cascade d'enrichissement.

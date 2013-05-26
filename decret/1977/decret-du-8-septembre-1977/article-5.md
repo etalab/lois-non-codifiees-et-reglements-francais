@@ -10,4 +10,6 @@ Sans préjudice du respect de la réglementation en vigueur, Eurodif-Production 
 
 4° Dans le cadre du programme général de surveillance de l'environnement du site du Tricastin, Eurodif-Production procédera, en plus des prescriptions de l'article 4.7, aux mesures nécessaires pour permettre le contrôle des rejets visés par le présent article, de leurs effets sur l'environnement ainsi que du bruit émis par ses installations. Les résultats de ces mesures seront archivés.
 
+5° Les pompages et les réinjections d'eau de la nappe alluviale du site du Tricastin, liés aux opérations de traitement des composés organo-halogénés volatils de cette nappe et à son confinement hydraulique, ne doivent pas entraîner de modification notable de la température ou des autres caractéristiques des eaux de la nappe pouvant en altérer sensiblement la qualité. Ces prélèvements et ces rejets ne doivent pas entraîner de conséquence préjudiciable à la tenue mécanique des sols du site.
+
 Par ailleurs, afin de permettre la déterminiation de l'état de référence du site, ces mesures commenceront avant le 1er septembre 1977.

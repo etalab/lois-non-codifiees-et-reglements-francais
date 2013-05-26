@@ -26,11 +26,11 @@ Des dispositions de construction appropriées seront prises pour que, compte ten
 
 La prévention des accidents de criticité sera assurée en tenant compte de l'enrichissement maximal de l'uranium produit précisé dans l'article 2 ci-dessus.
 
-L'installation sera conçue, réalisée et exploitée de façon à éviter toute excursion critique. En particulier au niveau des jonctions et des groupes de diffusion, les circuits primaires dans lesquels circule l'eau de refroidissement de l'hexafluorure d'uranium seront fermés et le refroidissement de l'eau de ces circuits sera assuré par les échangeurs intermédiaires, eux-mêmes refroidis par une circulation d'eau en circuits ouverts. L'eau de ces circuits primaires contiendra un élement neutrophage dont la concentration sera telle que le risque de criticité puisse être considéré comme nul en cas de cristallisation dans les échangeurs de groupe et de jonction ou d'entrée d'eau dans les circuits d'hexafluorure d'uranium par suite d'une fuite au niveau des échangeurs. Des dispositions seront prévues pour contrôler la concentration en élément neutrophage et pour éviter toute baisse accidentelle de cette concentration.
+L'installation sera conçue, réalisée et exploitée de façon à éviter toute excursion critique. En particulier, au niveau des jonctions et des groupes de diffusion, des équipements de traitement des effluents gazeux et des circuits reliant les groupes à ces équipements, le risque de criticité doit pouvoir être considéré comme nul en cas de cristallisation d'hexafluorure d'uranium ou d'entrée d'eau dans les circuits d'hexafluorure d'uranium par suite d'une fuite.
 
 Dans l'annexe U, les fluides d'échange dans les cristallisoirs seront exclusivement des produits chlorés ou chlorofluorés. Les évaporateurs à chauffage par vapeur d'eau, utilisés pour la réémission de l'hexafluorure d'uranium seront à double tube et un contrôle de l'espace intermédiaire sera effectué. Un dossier présentant notamment l'ensemble des dispositions prises pour faire face au risque de criticité sera adressé au ministre de l'industrie, du commerce et de l'artisanat six mois avant l'introduction d'hexafluorure d'uranium dans cette unité. La mise en service de cette annexe U ne pourra avoir lieu qu'après accord du ministre de l'industrie, du commerce et de l'artisanat.
 
-Pour l'ensemble des usines de diffusion, les dispositions prises pour faire face au risque de criticité apparaîtront dans le rapport provisoire de sûreté prévu à l'article 6.
+Pour l'ensemble des installations mentionnées à l'article 1er du présent décret, les dispositions prises pour faire face au risque précité figurent dans les études de sûreté relatives à la criticité comprises dans le rapport de sûreté établi en application de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives.
 
 5. Protection contre les séismes.
 
@@ -40,7 +40,7 @@ Un dossier précisant les caractéristiques du séisme maximal à prendre en com
 
 6. Déchets liquides.
 
-Les solutions provenant de la tour de lavage des effluents gazeux seront transportées à des stations de traitement situées hors du périmètre de l'installation nucléaire de base autorisée par le présent décret. Ce transport sera effectué conformément à la réglementation applicable selon la nature des produits transportés.
+Les solutions provenant des installations de traitement des effluents gazeux seront transportées à des stations de traitement situées hors du périmètre de l'installation nucléaire de base autorisée par le présent décret. Ce transport sera effectué conformément à la réglementation applicable selon la nature des produits transportés.
 
 Le choix des stations de traitement et les conditions de ce traitement seront, sans préjudice de la réglementation en vigueur, soumis à l'approbation du ministre de l'industrie, du commerce et de l'artisanat.
 
@@ -60,11 +60,17 @@ Les déchets seront triés par catégorie de nuisance chimique ou radioactive.
 
 L'exploitation de l'installation se fera de façon que la production des déchets solides soit la plus réduite possible.
 
+Les déchets résultant des opérations liées au dégagement des zones périphériques aux usines sont triés par nature et par catégorie de nuisance chimique ou radioactive en vue de faciliter leur traitement, leur valorisation par réemploi ou recyclage, leur conditionnement et leur stockage ultérieur dans des centres autorisés.
+
+L'exploitant est responsable des déchets produits lors des opérations liées au dégagement des zones périphériques aux usines. Il assure un suivi des déchets depuis leur production jusqu'à leur élimination définitive dans des installations autorisées en s'appuyant sur des documents dont la conservation et l'archivage sont assurés.
+
+L'inventaire des déchets produits est tenu à jour au fur et à mesure de l'avancement des opérations liées au dégagement des zones périphériques aux usines, notamment pour ce qui concerne les quantités produites, les caractéristiques radiologiques et l'origine des déchets.
+
 Aucun stockage, définitif de substance radioactive n'aura lieu à l'intérieur du périmètre de l'installation.
 
 9. Hexafluorure d'uranium.
 
-La quantité totale d'hexafluorure d'uranium présente sur le site, y compris les produits intermédiaires, sera limitée. Le stockage sera organisé suivant les modalités qui seront soumises au ministre de l'industrie, du commerce et de l'artisanat avant le 1er juillet 1978. Sous réserve des dispositions de l'alinéa suivant, cette quantité totale sera inférieure à 50 000 tonnes.
+La quantité totale d'hexafluorure d'uranium présente sur le site, y compris les produits intermédiaires, sera limitée. Le stockage sera organisé suivant les modalités qui seront soumises au ministre de l'industrie, du commerce et de l'artisanat avant le 1er juillet 1978. Sous réserve des  dispositions de l'alinéa suivant, cette quantité totale sera inférieure à 50 000 tonnes.
 
 Avant le 1er janvier 1979, l'exploitant fera des propositions au ministre de l'industrie, du commerce et de l'artisanat pour que soit réexaminée la limite de 50 000 tonnes mentionnée à l'alinéa précédent, compte tenu de l'obligation faite à l'exploitant de procéder à la résorption complète des produits intermédiaires à partir du 1er janvier 1982. Aucun stockage définitif d'uranium appauvri sous forme d'hexafluorure n'est autorisé sur le site.
 
@@ -72,9 +78,9 @@ La capacité unitaire des récipients renfermant l'hexafluorure d'uranium ne ser
 
 10. Agents fluorants.
 
-La présence d'agents fluorants hors des enceintes de chauffage n'est pas autorisée. La contenance des conteneurs utilisés sera inférieure ou égale à 500 kilogrammes.
+La présence d'agents fluorants hors des enceintes de chauffage et du parc de stockage de trifluorure de chlore n'est pas autorisée.
 
-Un dispositif de captage et de neutralisation des agents fluorants accidentellement émis équipera les enceintes de chauffage où les conteneurs seront placés. Ce dispositif pourra na pas être à poste fixe s'il peut être mis en place dans des délais très brefs.
+Un dispositif de captage et de neutralisation des agents fluorants accidentellement émis équipera les enceintes de chauffage et le parc de stockage de trifluorure de chlore où les conteneurs seront placés. Ce dispositif pourra na pas être à poste fixe s'il peut être mis en place dans des délais très brefs.
 
 11. Transports des produits dangereux sur le site.
 
