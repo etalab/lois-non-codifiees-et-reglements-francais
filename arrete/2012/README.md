@@ -2074,7 +2074,6 @@
 - [Arrêté du 22 juin 2012 (AFSH1227610A)](arrete-du-22-juin-2012-afsh1227610a)
 - [Arrêté du 22 juin 2012 (AFSP1227093A)](arrete-du-22-juin-2012-afsp1227093a)
 - [Arrêté du 22 juin 2012 (BUDE1224003A)](arrete-du-22-juin-2012-bude1224003a)
-- [Arrêté du 22 juin 2012 (DEFD1226971A)](arrete-du-22-juin-2012-defd1226971a)
 - [Arrêté du 22 juin 2012 (DEFD1226995A)](arrete-du-22-juin-2012-defd1226995a)
 - [Arrêté du 22 juin 2012 (DEVL1226248A)](arrete-du-22-juin-2012-devl1226248a)
 - [Arrêté du 22 juin 2012 (DEVR1225508A)](arrete-du-22-juin-2012-devr1225508a)
