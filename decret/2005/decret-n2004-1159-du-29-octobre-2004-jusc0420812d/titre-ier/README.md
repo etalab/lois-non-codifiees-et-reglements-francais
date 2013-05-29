@@ -4,4 +4,3 @@
 - [Section 2 : La déclaration conjointe de choix de nom de l'enfant devenu français.](section-2)
 - [Section 3 : La déclaration conjointe de changement de nom.](section-3)
 - [Section 4 : Dispositions communes.](section-4)
-- [Section 5 : Dispositions communes.](section-5)
