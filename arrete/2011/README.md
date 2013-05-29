@@ -734,7 +734,6 @@
 - [Arrêté du 9 mai 1990 (JUSG9060032A)](arrete-du-9-mai-1990-jusg9060032a)
 - [Arrêté du 9 mai 2000 (EQUA0000905A)](arrete-du-9-mai-2000-equa0000905a)
 - [Arrêté du 9 mai 2011 (AGRM1112341A)](arrete-du-9-mai-2011-agrm1112341a)
-- [Arrêté du 9 mai 2011 (DEVL1112010A)](arrete-du-9-mai-2011-devl1112010a)
 - [Arrêté du 9 mai 2011 (DEVT1030090A)](arrete-du-9-mai-2011-devt1030090a)
 - [Arrêté du 9 mai 2011 (DEVT1108035A)](arrete-du-9-mai-2011-devt1108035a)
 - [Arrêté du 9 mai 2011 (DEVT1111661A)](arrete-du-9-mai-2011-devt1111661a)
