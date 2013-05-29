@@ -548,7 +548,6 @@
 - [Arrêté du 7 septembre 2012 (DEVM1229889A)](arrete-du-7-septembre-2012-devm1229889a)
 - [Arrêté du 7 mai 2012 (DEVL1210288A)](arrete-du-7-mai-2012-devl1210288a)
 - [Arrêté du 7 mai 2012 (DEVL1222778A)](arrete-du-7-mai-2012-devl1222778a)
-- [Arrêté du 7 mai 2012 (DEVL1222779A)](arrete-du-7-mai-2012-devl1222779a)
 - [Arrêté du 7 mai 2012 (DEVP1222427A)](arrete-du-7-mai-2012-devp1222427a)
 - [Arrêté du 7 mai 2012 (EFII1208789A)](arrete-du-7-mai-2012-efii1208789a)
 - [Arrêté du 7 mai 2012 (EFII1208792A)](arrete-du-7-mai-2012-efii1208792a)
