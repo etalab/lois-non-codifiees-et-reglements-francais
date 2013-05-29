@@ -1,6 +1,6 @@
 # Article 9
 
-La présidence du jury est exercée par l'enseignant odontologiste le plus ancien en qualité de professeur des universités. A ancienneté égale, la présidence du jury échoit au plus âgé.
+Parmi les membres du jury tirés au sort, le président du jury est nommé par le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière, sur proposition du président du conseil scientifique en odontologie.
 
 Une commission de vérification est instituée pour l'examen des sujets avant l'ouverture des épreuves le jour du concours.
 
