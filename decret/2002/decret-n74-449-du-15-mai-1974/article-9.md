@@ -2,9 +2,7 @@
 
 Les actes ou jugements qui ont une incidence sur un acte ou un certificat en tenant lieu dont l'extrait figure au livret de famille doivent être mentionnés, selon le cas, par l'officier de l'état civil ou par le directeur général de l'Office français de protection des réfugiés et apatrides à la suite de cet extrait.
 
-Pour les enfants nés avant le 1er janvier 2005, les déclarations conjointes faites par application des articles 334-2 et 334-5 du code civil, dans leur rédaction antérieure à la loi n° 2002-304 du 4 mars 2002, sont portées sur le livret de famille par le greffier en chef du tribunal de grande instance ou par l'officier de l'état civil dépositaire de l'acte de naissance.
-
-Pour les enfants nés à compter du 1er janvier 2005, les déclarations conjointes faites par application des articles 311-21, premier alinéa, 311-21, alinéa 4, et 311-23 du code civil sont portées sur le livret de famille par l'officier de l'état civil qui les reçoit ou par l'officier de l'état civil dépositaire de l'acte de naissance.
+Les déclarations conjointes faites en application du premier alinéa de l'article 311-21, du quatrième alinéa de l'article 311-21, du deuxième alinéa de l'article 311-23 et des deuxième et sixième alinéas de l'article 357 du code civil sont portées sur le livret de famille par l'officier de l'état civil qui les reçoit ou par l'officier de l'état civil dépositaire de l'acte de naissance.
 
 L'indication d'enfant sans vie ainsi que la date et le lieu de l'accouchement peuvent être apposés sur le livret de famille, à la demande des parents, par l'officier de l'état civil qui a établi l'acte.
 

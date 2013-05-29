@@ -1,4 +1,3 @@
-# Section 4 : La déclaration conjointe d'adjonction de nom.
+# Section 4 : Dispositions communes.
 
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
+- [Article 13](article-13.md)
