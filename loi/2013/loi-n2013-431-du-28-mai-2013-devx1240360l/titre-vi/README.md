@@ -1,0 +1,3 @@
+# TITRE VI : DISPOSITIONS RELATIVES À LA LOGISTIQUE
+
+- [Article 41](article-41.md)

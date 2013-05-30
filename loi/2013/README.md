@@ -15,4 +15,5 @@
 - [LOI n°2013-403 du 17 mai 2013 (INTX1238496L)](loi-n2013-403-du-17-mai-2013-intx1238496l)
 - [LOI n°2013-404 du 17 mai 2013 (JUSC1236338L)](loi-n2013-404-du-17-mai-2013-jusc1236338l)
 - [LOI n°2013-428 du 27 mai 2013 (INTX1237011L)](loi-n2013-428-du-27-mai-2013-intx1237011l)
+- [LOI n°2013-431 du 28 mai 2013 (DEVX1240360L)](loi-n2013-431-du-28-mai-2013-devx1240360l)
 - [LOI n°2013-61 du 18 janvier 2013 (ETLX1238053L)](loi-n2013-61-du-18-janvier-2013-etlx1238053l)
