@@ -10,7 +10,7 @@ I. ― Sont habilités à procéder aux contrôles nécessaires en vue de vérif
 
 4° Les agents mentionnés à l'article L. 1421-1 du code de la santé publique ;
 
-5° Les administrateurs et les inspecteurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes, les contrôleurs des affaires maritimes, les commandants des bâtiments de l'Etat et les commandants de bord des aéronefs de l'Etat chargés de la surveillance de la mer.
+5° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes, les fonctionnaires de catégories A et B affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, les commandants des bâtiments de l'Etat et les commandants de bord des aéronefs de l'Etat chargés de la surveillance en mer.
 
 Les agents mentionnés aux 1° à 5° sont astreints au secret professionnel dans les conditions et sous les sanctions prévues aux articles 226-13 et 226-14 du code pénal.
 
