@@ -28,7 +28,7 @@ Sont également mises à part, sans être ouvertes, les enveloppes émanant d'é
 
 Les votes par correspondance parvenus au bureau de vote central après l'heure de clôture du scrutin sont renvoyés aux votants avec l'indication de la date et de l'heure de leur réception.
 
-Le bureau de vote central constate le nombre de votants à partir des émargements portés sur les listes électorales. Il est procédé au dépouillement sous réserve des dispositions de l'article 1er du présent arrêté.
+Le bureau de vote central constate le nombre de votants à partir des émargements portés sur les listes électorales. Il est procédé au dépouillement dans les conditions prévues à l'article 1er du présent arrêté.
 
 Les bulletins blancs ou nuls sont annexés au procès-verbal ainsi que les enveloppes non réglementaires et contresignés par les membres du bureau.
 
