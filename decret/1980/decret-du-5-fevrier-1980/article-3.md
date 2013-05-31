@@ -16,9 +16,9 @@ Les notes de calculs, plans d'exécution, programmes et procès-verbaux d'essais
 
 2. Elements combustibles.
 
-Le cœur du réacteur sera formé d'éléments combustibles où la matière fissile sera constituée par de l'oxyde d'uranium légèrement enrichi en uranium 235.
+Le cœur du réacteur sera formé d'éléments combustibles où la matière fissile sera constituée par de l'oxyde d'uranium légèrement enrichi en uranium 235 ou par de l'oxyde mixte d'uranium et de plutonium.
 
-Un dispositif de mesure de la radioactivité de l'eau de refroidissement du cœur du réacteur permettra d'évaluer les défauts éventuels du gainage du combustible situé dans le réacteur. L'activité volumique maximale admissible du circuit primaire en fonction des modalités d'exploitation et les consignes correspondantes seront fixées dans les règles générales d'exploitation prévues aux articles 4 et 5 du présent décret.
+Un dispositif de mesure de la radioactivité de l'eau de refroidissement du cœur du réacteur permettra d'évaluer les défauts éventuels du gainage du combustible situé dans le réacteur. L'activité volumique maximale admissible du circuit primaire en fonction des modalités d'exploitation et les consignes correspondantes seront fixées dans les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives.
 
 3. Cuve, circuit primaire et équipements internes.
 
@@ -30,7 +30,7 @@ Les vibrations et autres sollicitations mécaniques en régime stable ou transit
 
 Des dispositions de construction seront prises pour permettre, durant toute la vie de la tranche, l'inspection à l'arrêt et la surveillance des principaux composants du circuit primaire avec des moyens appropriés, afin de vérifier leur aptitude à assurer l'intégrité structurale de ce circuit.
 
-Les mesures de surveillance en exploitation, et notamment celles qui s'appliquent à l'observation de l'évolution des caractéristiques du métal constitutif de la cuve, seront explicitées dans les rapports provisoires et définitif de sûreté et les règles générales d'exploitation prévues aux articles 4 et 5.
+Les mesures de surveillance en exploitation, et notamment celles qui s'appliquent à l'observation de l'évolution des caractéristiques du métal constitutif de la cuve, seront explicitées dans les rapports provisoires et définitif de sûreté et les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives.
 
 4. Enceinte de confinement.
 
@@ -40,7 +40,7 @@ L'enceinte de confinement sera en particulier conçue pour supporter, sans perte
 
 Dans les conditions de cet accident, le taux de fuite maximal de l'enceinte sera inférieur à 0,3 p. 100 par jour de la masse de gaz contenue dans cette enceinte. Un circuit d'aspersion permettra de réduire la pression dans l'enceinte de confinement.
 
-L'étanchéité de l'enceinte et de ses traversées sera périodiquement contrôlée. La première épreuve d'étanchéité sera effectuée à la pression de calcul de l'enceinte. Les modalités et les pressions des épreuves périodiques ultérieures seront précisées dans les règles générales d'exploitation prévues aux articles 4 et 5.
+L'étanchéité de l'enceinte et de ses traversées sera périodiquement contrôlée. La première épreuve d'étanchéité sera effectuée à la pression de calcul de l'enceinte. Les modalités et les pressions des épreuves périodiques ultérieures seront précisées dans les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives.
 
 Les tuyauteries traversant les parois de l'enceinte seront munies soit d'obturateurs fixes étanches, soit d'obturateurs à fermeture mobile télécommandés.
 
@@ -48,7 +48,7 @@ Le circuit de ventilation à faible débit de l'enceinte de confinement sera mun
 
 5. Refroidissement du cœur en fonctionnement normal ou accidentel.
 
-En marche normale, la chaleur produite par le cœur du réacteur sera évacuée vers le circuit secondaire des générateurs de vapeur par circulation d'eau sous pression. Les conditions de fonctionnement selon le nombre de pompes primaires en service seront précisées dans les règles générales d'exploitation prévues aux articles 4 et 5.
+En marche normale, la chaleur produite par le cœur du réacteur sera évacuée vers le circuit secondaire des générateurs de vapeur par circulation d'eau sous pression. Les conditions de fonctionnement selon le nombre de pompes primaires en service seront précisées dans les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives.
 
 Les générateurs de vapeur et les tuyauteries d'alimentation seront conçus et réalisés de telle sorte que la mise en service de l'alimentation de secours des générateurs de vapeur ne constitue pas un danger pour leur intégrité.
 
@@ -62,13 +62,13 @@ Des circuits d'injection de secours seront prévus pour assurer un refroidisseme
 
 Des systèmes de régulation destinés à maintenir la chaudière dans sa plage normale de fonctionnement et deux moyens indépendants de maîtrise de la réaction en chaîne, l'un comportant un absorbant neutronique inclus dans des grappes de commande et l'autre un absorbant neutronique soluble dans l'eau de refroidissement du cœur du réacteur, étant entendu que l'un au moins de ces moyens sera capable de maintenir le réacteur dans un état sous-critique à froid avec une marge suffisante de sécurité, seront prévus.
 
-Les vitesses de déplacement des grappes de commande seront déterminées de telle sorte que leur manœuvre normale ou accidentelle. par .suite d'erreur d'opérateur ou d'avarie d'automate, ne provoque pas d'excursion de puissance non maîtrisée par les systèmes de protection et de sécurité.
+Les vitesses de déplacement des grappes de commande seront déterminées de telle sorte que leur manœuvre normale ou accidentelle. par. suite d'erreur d'opérateur ou d'avarie d'automate, ne provoque pas d'excursion de puissance non maîtrisée par les systèmes de protection et de sécurité.
 
 Des dispositions de construction seront prises pour empêcher toute éjection accidentelle hors du cœur d'une grappe de commande.
 
 Les vitesses maximales de changement de concentration en matériau absorbant soluble dans l'eau de refroidissement du cœur seront telles qu'elles ne provoquent pas d'excursion de puissance non maîtrisée par les systèmes de protection et de sécurité.
 
-La mesure du flux neutronique sera effectuée par plusieurs ensembles indépendants. Elle permettra de suivre en permanence la puissance du réacteur depuis la puissance résultant de la multiplication sous-critique au niveau "sources" jusqu'au-delà de la puissance nominale.
+La mesure du flux neutronique sera effectuée par plusieurs ensembles indépendants. Elle permettra de suivre en permanence la puissance du réacteur depuis la puissance résultant de la multiplication sous-critique au niveau " sources " jusqu'au-delà de la puissance nominale.
 
 L'intensité des sources et les performances de l'instrumentation seront choisies et maintenues telles que l'on n'ait jamais à démarrer la circulation primaire principale ni à entreprendre une diminution de la concentration en absorbant neutronique soluble de l'eau de refroidissement sans disposer d'une mesure significative du flux neutronique.
 
@@ -104,23 +104,23 @@ Les circuits de ventilation des zones présentant des risques permanents de cont
 
 Le circuit de rejet à la cheminée sera muni de filtres à poussière ininflammables, de pièges à iode et d'un dispositif de contrôle continu de l'activité des rejets. L'efficacité de l'ensemble des filtres et des pièges à iode fera l'objet de contrôles avant leur mise en service. Par la suite, il sera procédé à des vérifications périodiques.
 
-Les règles générales d'exploitation prévues aux articles 4 et 5 préciseront les modalités de surveillance des rejets. En particulier, toutes dispositions seront prises pour qu'en cas d'accident, il soit possible de limiter l'extension de la contamination et de contrôles le rejet éventuel à l'extérieur. Les mesures à prendre figureront dans un plan d'urgence qui devra être établi en même temps que le rapport provisoire de sûreté prévu à l'article 4 et qui sera communiqué au service central de protection contre les rayonnements ionisants.
+Les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives préciseront les modalités de surveillance des rejets. En particulier, toutes dispositions seront prises pour qu'en cas d'accident, il soit possible de limiter l'extension de la contamination et de contrôles le rejet éventuel à l'extérieur. Les mesures à prendre figurent dans le plan d'urgence interne établi en application du II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives.
 
 11. Manutention et stockage des éléments combustibles.
 
 Le stockage et toute manutention des éléments combustibles neufs ou irradiés seront réalisés de manière à exclure tout risque da criticité et à limiter les risques d'échauffement et de chute pouvant endommager le combustible. Ils seront, en outre, conçus et exploités de façon à limiter les conséquences d'accidents ou de défectuosités des éléments combustibles.
 
-Les règles générales d'exploitation prévues aux articles 4 et 5 devront préciser les consignes de sécurité et les procédures à respecter pour les opérations de stockage et de manutention du combustible.
+Les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives devront préciser les consignes de sécurité et les procédures à respecter pour les opérations de stockage et de manutention du combustible.
 
 12. Protection contre les séismes.
 
-La conception des ouvrages sera telle que, pour un séisme d'intensité VIII de l'échelle M.S.K., l'arrêt sûr de la réaction en chaîne, le maintien des fonctions de sécurité du réacteur, dont le refroidissement du réacteur, l'intégrité de l'enveloppe du circuit primaire, le confinement des substances radioactives et la mesure des rayonnements ionisants soient assurés.
+La conception des ouvrages sera telle que, pour un séisme d'intensité VIII de l'échelle M. S. K., l'arrêt sûr de la réaction en chaîne, le maintien des fonctions de sécurité du réacteur, dont le refroidissement du réacteur, l'intégrité de l'enveloppe du circuit primaire, le confinement des substances radioactives et la mesure des rayonnements ionisants soient assurés.
 
 13. Protection contre les agressions de l'environnement.
 
 Des dispositions appropriées seront prises pour permettre le maintien du confinement des produits radioactifs, l'arrêt sûr et le refroidissement à long terme du combustible des différentes tranches compte tenu de toutes les circonstances plausibles pouvant résulter du fonctionnement normal ou accidentel des installations voisines et de la présence des navires empruntant la Gironde.
 
-Electricité de France, informe d'un projet de modification de l'environnement par rapport à la description du dossier joint à la demande d'autorisation de création susvisée, ayant ou pouvant avoir des conséquences sur le respect des dispositions du présent décret, présentera au ministre de l'industrie un dossier précisant les conséquence de la modification envisagée, compte tenu des circonstances normales et accidentelles prévisibles.
+Electricité de France, informe d'un projet de modification de l'environnement par rapport à la description du dossier joint à la demande d'autorisation de création susvisée, ayant ou pouvant avoir des conséquences sur le respect des dispositions du présent décret, présentera à l'Autorité de sûreté nucléaire un dossier précisant les conséquence de la modification envisagée, compte tenu des circonstances normales et accidentelles prévisibles. Si cette modification affecte de manière notable les conditions au vu desquelles l'installation a été autorisée, Electricité de France en informe le ministre chargé de la sûreté nucléaire.
 
 14. Protection contre tes projectiles et les effets dynamiques.
 
@@ -142,7 +142,7 @@ Des dispositions seront prises pour minimiser les risques et les conséquences d
 
 Les diverses sources d'alimentation en énergie et en fluides seront de capacité, de redondance et en nombre appropriés pour assurer à tout moment l'alimentation des systèmes de protection et de sécurité du réacteur, ainsi que des systèmes de régulation et des systèmes d'évacuation de la chaleur produite par l'installation.
 
-En particulier, en cas de défaillance ou d'indisponibilité d'une ou plusieurs sources électriques de secours, le fonctionnement des tranches concernées ne pourra pas être prolongé au-delà d'une durée qui sera fixée dans les règles générales d'exploitation prévues aux articles 4 et 5, compte tenu de la nature et du nombre de sources électriques défaillantes.
+En particulier, en cas de défaillance ou d'indisponibilité d'une ou plusieurs sources électriques de secours, le fonctionnement des tranches concernées ne pourra pas être prolongé au-delà d'une durée qui sera fixée dans les règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives, compte tenu de la nature et du nombre de sources électriques défaillantes.
 
 Des dispositions seront prises pour permettre dans toutes les circonstances plausibles une alimentation suffisante des circuits secourus de la centrale en eau de refroidissement.
 
@@ -158,7 +158,7 @@ Une station de traitement des effluents liquides radioactifs avant rejet sera pr
 
 Des mesures de surveillance appropriées seront prises pour ce qui concerne les risques de fuites des systèmes de traitement et de stockage des effluents.
 
-Des dispositions de construction appropriées seront prises pour que, compte tenu des règles générales d'exploitation prévues aux articles 4 et 5, les équivalents de doses reçus par les travailleurs restent, dans les limites fixées par la réglementation en vigueur, aussi faibles que possible, compte tenu des différents travaux prévisibles, notamment du déchargement du combustible et des opérations d'entretien et de réparation.
+Des dispositions de construction appropriées seront prises pour que, compte tenu des règles générales d'exploitation prévues au II de l'article 20 du décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives, les équivalents de doses reçus par les travailleurs restent, dans les limites fixées par la réglementation en vigueur, au niveau le plus faible qu'il est raisonnablement possible d'atteindre, compte tenu de l'état des techniques et des facteurs économiques et sociaux, ainsi que des différents travaux prévisibles, notamment du déchargement du combustible et des opérations d'entretien et de réparation.
 
 19. Transport des produits radioactifs.
 
