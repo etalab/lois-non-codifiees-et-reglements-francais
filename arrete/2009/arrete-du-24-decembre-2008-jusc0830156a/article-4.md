@@ -1,3 +1,3 @@
 # Article 4
 
-Pour utiliser la procédure électronique de transmission faisant l'objet de la présente expérimentation, les parties ou leur représentant doivent disposer d'un navigateur Internet Explorer, version 5.5 ou supérieure, ou bien Netscape, version 7 ou supérieure, ainsi que du logiciel Adobe Reader, version 6 ou ultérieure.
+Les articles 7, 8 et 9 de l'arrêté du 12 mars 2013 susvisé sont applicables aux procédures entrant dans le champ de l'expérimentation prévue par l'arrêté du 24 décembre 2008 susvisé.

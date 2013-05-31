@@ -4,6 +4,4 @@ Les parties représentées par un avocat, un avocat au Conseil d'Etat et à la C
 
 Les requêtes ainsi introduites sont communiquées, les mémoires et pièces sont adressés au greffe des juridictions mentionnées ci-dessus, et communiqués par le greffe aux parties ou à leur mandataire, et les décisions prises pour l'instruction sont notifiées aux parties ou à leur mandataire par le même moyen. Il en est de même de la notification des décisions juridictionnelles à l'administration, sous réserve de son accord exprès.
 
-Les parties ou leur mandataire peuvent également adresser des mémoires et des pièces au greffe des juridictions mentionnées ci-dessus par télécopie, dès lors qu'ils utilisent le numéro qui leur a été indiqué par ces juridictions et la page de garde éditée à cet effet.
-
 Une requête introduite par la voie matérielle ordinaire peut être numérisée par le greffe des juridictions mentionnées ci-dessus puis communiquée aux services fiscaux par la voie électronique, sous réserve que l'auteur de la requête ait expressément accepté que la procédure électronique de transmission faisant l'objet de la présente expérimentation soit utilisée pour l'instruction de cette requête.
