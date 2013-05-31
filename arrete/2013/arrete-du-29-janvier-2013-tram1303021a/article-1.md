@@ -8,4 +8,4 @@ Il est réparti dans les proportions suivantes :
 
 247 tonnes du quota français sont réparties entre les navires immatriculés en Atlantique selon les modalités décrites à l'article 4 ;
 
-20 tonnes du quota français sont réparties de façon collective entre les navires immatriculés en mer Méditerranée et en Atlantique dans le cadre de la pêche sportive et récréative.
+25 tonnes du quota français sont réparties de façon collective entre les navires immatriculés en mer Méditerranée et en Atlantique dans le cadre de la pêche sportive et récréative. Les modalités de la répartition sont décrites à l'annexe III du présent arrêté.

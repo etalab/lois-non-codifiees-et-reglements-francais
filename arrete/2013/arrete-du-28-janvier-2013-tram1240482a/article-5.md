@@ -1,3 +1,3 @@
 # Article 5
 
-La directrice des pêches maritimes et de l'aquaculture est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les échanges de sous-quota d'effort de pêche sont réalisés conformément aux dispositions de l'arrêté du 26 décembre 2006 établissant les modalités de répartition et de gestion collective des possibilités de pêche (quotas de captures et quotas d'effort de pêche) des navires français immatriculés dans la Communauté européenne.
