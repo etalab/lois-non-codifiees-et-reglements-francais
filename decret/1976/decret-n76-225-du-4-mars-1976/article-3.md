@@ -2,7 +2,11 @@
 
 Par dérogation aux dispositions de l'article 2 :
 
-1° En ce qui concerne les munitions chimiques, le ministre de l'intérieur procède aux opérations de collecte, détermine leur appartenance à cette catégorie et assure leur transport jusqu'au lieu de démantèlement. Le ministre de la défense est responsable du stockage sur le site du démantèlement, du démantèlement de ces munitions et de l'élimination des déchets toxiques résiduels ;
+1° En ce qui concerne les munitions chimiques ou présumées telles, le ministre de l'intérieur procède aux opérations de collecte, détermine leur appartenance à cette catégorie et assure leur transport. Il est responsable de leur stockage, hors du site de destruction, dans l'attente de leur destruction.
+
+Le ministre de la défense est responsable de l'entreposage et de la destruction des munitions chimiques sur le site de destruction ainsi que de la gestion des déchets issus de cette destruction.
+
+S'agissant des munitions chimiques que leur état de dégradation rend intransportables, le ministre de l'intérieur assure leur élimination sur l'ensemble du territoire national ainsi que la gestion des déchets qui en sont issus.
 
 2° Le ministre de l'intérieur et le ministre de la défense peuvent, par convention et de manière ponctuelle, intervenir sur des terrains ne relevant pas de leurs compétences respectives au titre de l'article 2 du présent décret et du 1° du présent article ;
 
