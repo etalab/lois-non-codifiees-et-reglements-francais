@@ -96,7 +96,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 -chef de la mission des systèmes d'information du secrétariat général pour l'administration ;
 
--chef du bureau du pilotage financier et de la modernisation à la direction générale des systèmes d'information et de communication ;
+-chef du bureau de la planification stratégique et financière de la mission des systèmes d'information d'administration et de gestion à la délégation des systèmes d'information d'administration et de gestion du secrétariat général pour l'administration ;
 
 -chef du bureau du budget opérationnel de programme de l'administration centrale du secrétariat général pour l'administration ;
 
@@ -124,6 +124,6 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 -responsable du dispositif dédié à la réparation des conséquences sanitaires des essais nucléaires à la direction des ressources humaines du ministère de la défense ;
 
--secrétaire général de             l'Ecole nationale supérieure de techniques avancées Bretagne ;
+-secrétaire général de l'Ecole nationale supérieure de techniques avancées Bretagne ;
 
 -sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand.

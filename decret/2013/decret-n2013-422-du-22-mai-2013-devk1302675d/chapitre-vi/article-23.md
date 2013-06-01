@@ -1,0 +1,3 @@
+# Article 23
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade d'inspecteur du permis de conduire et de la sécurité routière de 3e classe du corps régi par le décret n° 87-997 du 10 décembre 1987 modifié relatif au statut particulier du corps des inspecteurs du permis de conduire et de la sécurité routière sont maintenus en fonctions et ont vocation à être titularisés dans le grade d'inspecteur du permis de conduire et de la sécurité routière de 3e classe du corps régi par le présent décret.
