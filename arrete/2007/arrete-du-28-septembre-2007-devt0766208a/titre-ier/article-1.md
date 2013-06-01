@@ -35,3 +35,5 @@ Le candidat conserve le bénéfice de la réussite à l'épreuve théorique pend
 - l'initiation à la lecture d'une carte marine : connaissance des symboles élémentaires ;
 
 - les règles d'utilisation des écluses gardées ou automatiques.
+
+1.3. La durée de formation théorique en salle et en présence du formateur, qui peut être collective, ne peut être inférieure à cinq heures. Les candidats titulaires de l'option "eaux intérieures" du permis de conduire des bateaux de plaisance à moteur ou d'un titre équivalent ne sont pas soumis à cette obligation.
