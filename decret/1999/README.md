@@ -210,7 +210,6 @@
 - [Décret n°99-85 du 9 février 1999 (DEFM9802180D)](decret-n99-85-du-9-fevrier-1999-defm9802180d)
 - [Décret n°99-86 du 9 février 1999 (JUSE9940005D)](decret-n99-86-du-9-fevrier-1999-juse9940005d)
 - [Décret n°99-100 du 10 février 1999 (ATEN9860076D)](decret-n99-100-du-10-fevrier-1999-aten9860076d)
-- [Décret n°99-1039 du 10 décembre 1999 (INTE9900284D)](decret-n99-1039-du-10-decembre-1999-inte9900284d)
 - [Décret n°99-1040 du 10 décembre 1999 (INTE9900285D)](decret-n99-1040-du-10-decembre-1999-inte9900285d)
 - [Décret n°99-1043 du 10 décembre 1999 (INTB9900246D)](decret-n99-1043-du-10-decembre-1999-intb9900246d)
 - [Décret n°99-178 du 10 mars 1999 (ECOM9900134D)](decret-n99-178-du-10-mars-1999-ecom9900134d)
