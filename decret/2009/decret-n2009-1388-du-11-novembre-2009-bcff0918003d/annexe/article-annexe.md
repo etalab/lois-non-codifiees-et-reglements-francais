@@ -18,6 +18,8 @@ Contrôleurs des services techniques du ministère de l'intérieur.
 
 Géomètres-cadastreurs des finances publiques.
 
+Inspecteurs du permis de conduire et de la sécurité routière.
+
 Rédacteurs-techniciens du Conseil économique, social et environnemental.
 
 Secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
@@ -46,9 +48,11 @@ Secrétaires administratifs du ministère de la culture et de la communication.
 
 Secrétaires de chancellerie.
 
+Secrétaires d'administration et de contrôle du développement durable.
+
 Techniciens d'art.
 
-techniciens de formation et de recherche du ministère de l'agriculture.
+Techniciens de formation et de recherche du ministère de l'agriculture.
 
 Techniciens des services culturels et des Bâtiments de France
 
