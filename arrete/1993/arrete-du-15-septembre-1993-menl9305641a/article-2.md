@@ -1,21 +1,17 @@
 # Article 2
 
-Les épreuves facultatives du baccalauréat technologique sont fixées comme suit :
+Les épreuves facultatives dans les séries ST2S, STD 2A, STI2D, STL et STMG du baccalauréat technologique sont choisies dans la liste suivante :
 
-- Série ST2S : langue vivante étrangère ou régionale, langue des signes française (LSF), éducation physique et sportive, arts.
+- langue des signes française (LSF) ;
 
-Cette disposition est applicable à compter de la session 2009 et prend effet pour les épreuves anticipées passées en 2008.
+- éducation physique et sportive ;
 
-Série STD 2A : langue vivante étrangère ou régionale (uniquement pour les sessions 2013 à 2016 de l'examen), langue des signes française (LSF), éducation physique et sportive, arts.
+- arts.
 
-Série STI2D : langue vivante étrangère ou régionale (uniquement pour les sessions 2013 à 2016 de l'examen), langue des signes française (LSF), éducation physique et sportive, arts.
+Dans les séries STI2D, STL et STD 2A, pour les sessions 2013 à 2016 de l'examen uniquement, une épreuve de langue vivante étrangère ou régionale s'ajoute à la liste précédente.
 
-Série STL : langue vivante étrangère ou régionale (uniquement pour les sessions 2013 à 2016 de l'examen), langue des signes française (LSF), éducation physique et sportive, arts
-
-- Série STG : langue vivante étrangère ou régionale, éducation physique et sportive, arts et langue des signes française (LSF).
-
-L'épreuve facultative d'arts est organisée à compter de la session de 1998. Elle porte, au choix des candidats, sur l'un des domaines suivants : arts plastiques ou cinéma audiovisuel ou histoire des arts ou musique ou théâtre ou danse.
+L'épreuve facultative d'arts porte, au choix du candidat, sur l'un des domaines suivants : arts plastiques, cinéma audiovisuel, histoire des arts, musique, théâtre ou danse.
 
 Les candidats à l'épreuve d'éducation physique et sportive de complément ne peuvent s'inscrire à l'épreuve facultative d'éducation physique et sportive.
 
-Pour les élèves scolarisés dans les sections européennes ou de langues orientales des différentes séries, l'une des épreuves facultatives énumérées aux alinéas précédents peut, au choix du candidat, être remplacée par l'évaluation spécifique prévue par l'arrêté du 9 mai 2003 relatif aux conditions d'attribution de l'indication "section européenne" ou section de langue orientale sur les diplômes du baccalauréat général et du baccalauréat technologique.
+Pour les élèves scolarisés dans les sections européennes ou de langues orientales, l'une des épreuves facultatives énumérées aux alinéas précédents peut, au choix du candidat, être remplacée par l'évaluation spécifique prévue par l'arrêté du 9 mai 2003 relatif aux conditions d'attribution de l'indication section européenne ou section de langue orientale sur les diplômes du baccalauréat général et du baccalauréat technologique.
