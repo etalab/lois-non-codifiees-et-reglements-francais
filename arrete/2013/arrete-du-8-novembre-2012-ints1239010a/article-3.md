@@ -8,7 +8,7 @@ Pour assurer la partie pratique, option cyclomoteur, les responsables de ces ét
 
 ― une photocopie de l'autorisation d'enseigner la conduite des véhicules de la catégorie A d'un enseignant attaché à l'établissement ;
 
-― la justification de la propriété ou de la location du ou des cyclomoteurs ainsi que, pour chacun d'eux, l'attestation couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances.
+― la justification de la propriété ou de la location du ou des cyclomoteurs ainsi que, pour chacun d'eux, l'attestation couvrant les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances.
 
 Lorsque les conditions énumérées ci-dessus sont remplies, le préfet délivre un agrément valable pour la formation pratique du brevet de sécurité routière, option cyclomoteur, par un arrêté modifiant l'arrêté de délivrance de l'agrément principal pour les responsables des établissements et associations mentionnés au premier alinéa du présent article ; la durée de validité de l'agrément est liée à la durée de validité de l'agrément principal.
 

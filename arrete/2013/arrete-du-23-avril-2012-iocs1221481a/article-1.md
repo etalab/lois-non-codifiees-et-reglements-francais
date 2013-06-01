@@ -82,7 +82,7 @@ Les véhicules utilisés pour l'examen doivent répondre aux caractéristiques t
 
 Si le véhicule présente une ou plusieurs défectuosités ne mettant pas en cause la sécurité, l'expert procède à l'examen du candidat ; il informe le délégué de circonscription, à charge pour ce dernier d'intervenir sans retard auprès de l'établissement d'enseignement et si nécessaire auprès du préfet.
 
-Les véhicules doivent faire l'objet d'une police d'assurance couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers ainsi qu'aux personnes se trouvant sur la motocyclette, à l'occasion des épreuves pratiques.
+Les véhicules doivent faire l'objet d'une police d'assurance couvrant les dommages pouvant résulter d'accidents causés aux tiers ainsi qu'aux personnes se trouvant sur la motocyclette, à l'occasion des épreuves pratiques.
 
 Les épreuves hors et en circulation pourront, éventuellement, se dérouler sur des machines différentes, étant entendu que chacune d'elles doit répondre aux caractéristiques de la moto d'examen définie à l'article 1-III-A et que le type de boîte de vitesse doit rester identique.
 

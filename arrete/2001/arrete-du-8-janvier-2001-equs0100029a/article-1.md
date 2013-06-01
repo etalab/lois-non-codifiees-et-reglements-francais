@@ -14,4 +14,4 @@ Toute association qui exerce, au sens de l'article R. 246 du code de la route, s
 
 6° L'adresse, la description et le plan du local destiné à l'enseignement de la conduite et de la sécurité routière ;
 
-7° La justification de propriété ou de location du ou des véhicules d'enseignement ainsi que, pour chaque véhicule, l'attestation d'assurance couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances.
+7° La justification de propriété ou de location du ou des véhicules d'enseignement ainsi que, pour chaque véhicule, l'attestation d'assurance couvrant les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances.

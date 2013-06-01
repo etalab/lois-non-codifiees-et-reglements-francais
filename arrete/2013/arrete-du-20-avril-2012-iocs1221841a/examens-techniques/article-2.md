@@ -152,7 +152,7 @@ III. ― Dispositions communes à tous les véhicules d'examen.
 
 Les épreuves pratiques des examens du permis de conduire sont passées avec des véhicules d'examen dont les caractéristiques techniques sont définies par arrêtés du ministre chargé de la sécurité routière.
 
-Les véhicules utilisés pour les examens doivent faire l'objet d'une police d'assurance couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers ainsi qu'aux personnes se trouvant à l'intérieur du véhicule, à l'occasion des épreuves pratiques.
+Les véhicules utilisés pour les examens doivent faire l'objet d'une police d'assurance couvrant les dommages pouvant résulter d'accidents causés aux tiers ainsi qu'aux personnes se trouvant à l'intérieur du véhicule, à l'occasion des épreuves pratiques.
 
 L'attestation d'assurance n'est demandée qu'aux candidats individuels. Elle est présentée à l'expert.
 
