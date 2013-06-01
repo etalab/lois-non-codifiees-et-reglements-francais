@@ -1,10 +1,10 @@
 # Article 4
 
-Le contenu de la formation visée au II de l'article R. 3332-4-1 du code de la santé publique est le suivant :
+Le contenu de la formation visée au troisième alinéa  de l'article R. 3332-4-1 du code de la santé publique est le suivant :
 
 I.-Présentation liminaire de la formation
 
-La raison d'être de l'obligation de formation mentionnée au II de l'article R. 3332-4-1 du code de la santé publique.
+La raison d'être de l'obligation de formation mentionnée au troisième alinéa  de l'article R. 3332-4-1 du code de la santé publique.
 
 Présentation de l'attestation dite permis de vente de boissons alcooliques la nuit.
 

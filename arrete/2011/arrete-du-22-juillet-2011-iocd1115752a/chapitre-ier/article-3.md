@@ -1,10 +1,10 @@
 # Article 3
 
-Le contenu de la formation mentionnée au I de l'article R. 3332-4-1 du code de la santé publique est le suivant :
+Le contenu de la formation mentionnée au premier alinéa de l'article R. 3332-4-1 du code de la santé publique est le suivant :
 
 I.-Présentation liminaire de la formation
 
-La raison d'être de l'obligation de formation mentionnée au I de l'article R. 3332-4-1 du code de la santé publique.
+La raison d'être de l'obligation de formation mentionnée au premier alinéa de l'article R. 3332-4-1 du code de la santé publique.
 
 Présentation du permis d'exploitation.
 
