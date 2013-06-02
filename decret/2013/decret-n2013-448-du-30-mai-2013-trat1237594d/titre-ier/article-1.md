@@ -1,0 +1,3 @@
+# Article 1
+
+La Commission nationale des sanctions administratives, placée auprès du ministre chargé des transports, est compétente pour formuler des avis sur les recours hiérarchiques formés contre les décisions préfectorales de sanction pour manquement aux réglementations des transports, du travail, de la santé ou de la sécurité relatives aux transports routiers de personnes et de marchandises, prononcées en application des articles 6, 44-1 et 44-2 du décret du 16 août 1985 susvisé, de l'article 21 du décret du 5 mars 1990 susvisé et des articles 7, 18 et 18-1 du décret du 30 août 1999 susvisé.
