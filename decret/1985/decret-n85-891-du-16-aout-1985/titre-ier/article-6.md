@@ -58,7 +58,7 @@ f) Infraction mentionnée au 5° du I de l'article L. 541-46 du code de l'enviro
 
 III. - Les personnes physiques mentionnées au I qui souhaitent créer une activité de transport, diriger une entreprise de transport ou devenir gestionnaire de transport ne satisfont pas à l'exigence d'honorabilité professionnelle lorsqu'elles ont fait l'objet de plusieurs des condamnations mentionnées au II.
 
-IV. - Les personnes physiques mentionnées au I qui dirigent une entreprise de transport ou sont gestionnaires de transport dans une entreprise inscrite au registre électronique national des entreprises de transport par route ne satisfont pas à l'exigence d'honorabilité au regard de l'exercice de la profession lorsqu'elles font l'objet d'une décision motivée du préfet de région ayant prononcé la perte de cette honorabilité au vu des condamnations pour des infractions mentionnées au II.
+IV. - Les personnes mentionnées au I ne satisfont pas à l'exigence d'honorabilité au regard de l'exercice de la profession lorsqu'elles font l'objet d'une décision motivée du préfet de région ayant prononcé la perte de cette honorabilité au vu des condamnations pour des infractions mentionnées au II.
 
 V. - Le préfet de région est, à sa demande, informé des condamnations mentionnées au II au moyen du bulletin n° 2 du casier judiciaire.
 

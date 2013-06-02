@@ -44,5 +44,3 @@ g) Infractions aux dispositions de l'article 23-1 de la loi n° 95-96 du 1er fé
 Le préfet de région est, à sa demande, informé des condamnations mentionnées ci-dessus au moyen du bulletin n° 2 du casier judiciaire.
 
 3° Les personnes résidant en France depuis moins de cinq ans et dont les pays de leurs précédentes résidences appartiennent à l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen doivent apporter la preuve qu'elles y satisfaisaient à la condition d'honorabilité professionnelle définie par ces pays pour l'accès à la profession de transporteur de marchandises et de transporteur de voyageurs par route.
-
-Les personnes résidant en France depuis moins de cinq ans et dont les pays de leurs précédentes résidences n'appartiennent pas à l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ne peuvent exercer en France l'activité de commissionnaire que si elles n'ont pas subi dans ce ou ces pays des condamnations pour des délits semblables à ceux mentionnés au 2° ci-dessus.
