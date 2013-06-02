@@ -34,7 +34,7 @@ Le nombre des compas magnétiques des navires s'éloignant de plus de 5 milles a
 
 .4 De cartes marines et de publications nautiques permettant de planifier et d'afficher la route du navire pour le voyage prévu et d'indiquer la position et de la surveiller tout au long du voyage. Un système de visualisation de cartes électroniques et d'information (ECDIS) est aussi accepté comme satisfaisant aux prescriptions du présent alinéa relatives à l'emport de cartes. Les navires auxquels s'applique le paragraphe 2.10 doivent satisfaire aux prescriptions relatives à l'emport d'ECDIS qui y sont spécifiées ;
 
-.5 de dispositifs de secours permettant d'assurer les fonctions prescrites au paragraphe .4 par un autre moyen, si cette fonction est assurée en partie ou entièrement par des moyens électroniques1 ;
+.5 de dispositifs de secours permettant d'assurer les fonctions prescrites au paragraphe .4 par un autre moyen, si cette fonction est assurée en partie ou entièrement par des moyens électroniques (1) (2) ;
 
 .6 d'un récepteur fonctionnant dans le cadre d'un système global de navigation par satellite ou d'un système de radionavigation à infrastructure terrestre ou d'autres moyens permettant à tout moment, tout au long du voyage prévu, de déterminer et de corriger la position du navire par des moyens automatiques ;
 
@@ -92,13 +92,15 @@ Le système d'alarme de quart à la passerelle de navigation doit être en servi
 
 .1 navires construits le 1er juillet 2002 ou après cette date ;
 
-.2 navires qui effectuent des voyages internationaux, construits avant le 1er juillet 2002 ; .2.1 dans le cas des navires à passagers, au plus tard le 1er juillet 2003 ;
+.2 navires qui effectuent des voyages internationaux, construits avant le 1er juillet 2002 ;
 
-.2.2 dans le cas des navires-citernes, au plus tard lors de la première visite du matériel de sécurité (2) qui a lieu après le 1er juillet 2003 ou après cette date ;
+.2.1 dans le cas des navires à passagers, au plus tard le 1er juillet 2003 ;
+
+.2.2 dans le cas des navires-citernes, au plus tard lors de la première visite du matériel de sécurité (1) qui a lieu après le 1er juillet 2003 ou après cette date ;
 
 .2.3 dans le cas des navires, autres que les navires à passagers et les navires-citernes, d'une jauge brute égale ou supérieure à 50 000, au plus tard le 1er juillet 2004 ;
 
-2.4. dans le cas des navires, autres que les navires à passagers et les navires-citernes, d'une jauge brute égale ou supérieure à 300 mais inférieure à 50 000, au plus tard lors de la première visite (3) du matériel de sécurité qui a lieu après le 1er juillet 2004 ou d'ici au 31 décembre 2004, si cette dernière date est plus rapprochée ; et
+2.4. dans le cas des navires, autres que les navires à passagers et les navires-citernes, d'une jauge brute égale ou supérieure à 300 mais inférieure à 50 000, au plus tard lors de la première visite (2) du matériel de sécurité qui a lieu après le 1er juillet 2004 ou d'ici au 31 décembre 2004, si cette dernière date est plus rapprochée ; et
 
 .3 navires qui n'effectuent pas des voyages internationaux, construits avant le 1er juillet 2002, au plus tard le 1er juillet 2008 ;
 
@@ -116,7 +118,7 @@ Le système d'alarme de quart à la passerelle de navigation doit être en servi
 
 .6 les prescriptions du paragraphe 2.4.5 ne doivent pas être appliquées lorsque des articles, normes ou accords internationaux prévoient la protection des renseignements de navigation ;
 
-.7 l'AIS doit être exploité en tenant compte des directives adoptées par l'Organisation (4). Les navires équipés de matériel AIS doivent maintenir ce matériel en fonctionnement à tout moment, sauf lorsque des accords, règles ou normes internationaux prévoient la protection des renseignements relatifs à la navigation.
+.7 l'AIS doit être exploité en tenant compte des directives adoptées par l'Organisation (3). Les navires équipés de matériel AIS doivent maintenir ce matériel en fonctionnement à tout moment, sauf lorsque des accords, règles ou normes internationaux prévoient la protection des renseignements relatifs à la navigation.
 
 2.5 Tous les navires d'une jauge brute égale ou supérieure à 500 doivent satisfaire aux
 
