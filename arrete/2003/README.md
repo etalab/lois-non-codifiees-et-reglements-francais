@@ -581,7 +581,6 @@
 - [Arrêté du 21 novembre 2003 (ECOC0300029A)](arrete-du-21-novembre-2003-ecoc0300029a)
 - [Arrêté du 21 novembre 2003 (ECOC0300095A)](arrete-du-21-novembre-2003-ecoc0300095a)
 - [Arrêté du 21 novembre 2003 (JUSB0310660A)](arrete-du-21-novembre-2003-jusb0310660a)
-- [Arrêté du 21 novembre 2003 (MENS0301260A)](arrete-du-21-novembre-2003-mens0301260a)
 - [Arrêté du 21 octobre 2003 (DEFP0301971A)](arrete-du-21-octobre-2003-defp0301971a)
 - [Arrêté du 21 octobre 2003 (MENS0302309A)](arrete-du-21-octobre-2003-mens0302309a)
 - [Arrêté du 21 octobre 2003 (SOCF0311655A)](arrete-du-21-octobre-2003-socf0311655a)
