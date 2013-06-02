@@ -7,5 +7,6 @@
 - [Titre VI : L'assurance, la garantie financière, les règlements pécuniaires et la comptabilité des avocats](titre-vi)
 - [Titre VII : Dispositions transitoires.](titre-vii)
 - [Titre VIII : Dispositions diverses.](titre-viii)
+- [Titre IX : Dispositions relatives à l'outre-mer.](titre-ix)
 - [Article 285](article-285.md)
 - [Article 286](article-286.md)
