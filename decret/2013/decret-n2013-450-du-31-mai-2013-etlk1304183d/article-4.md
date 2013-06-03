@@ -1,0 +1,3 @@
+# Article 4
+
+Les données à caractère personnel mentionnées à l'article 2 sont conservées dans le traitement de données à caractère personnel dénommé « ReHuCIT-GP » cinq années après la rupture de tous liens avec la personne morale gestionnaire, puis archivées en administration centrale, sous forme de dossier papier, jusqu'à la quatre-vingt-dixième année de l'agent, à l'exception des données mentionnées au VII de l'annexe du présent décret relatives à la situation financière, conservées pour une durée n'excédant pas quatre années à compter de la date de début de l'exercice budgétaire auquel elles se rapportent.
