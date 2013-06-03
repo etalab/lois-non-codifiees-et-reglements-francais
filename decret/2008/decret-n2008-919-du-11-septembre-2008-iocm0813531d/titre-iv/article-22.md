@@ -1,18 +1,22 @@
 # Article 22
 
-Le conseil consultatif des Terres australes et antarctiques françaises, chargé d'assister l'administrateur supérieur, comprend treize membres, nommés pour quatre ans par arrêté du ministre chargé de l'outre-mer :
+Le conseil consultatif des Terres australes et antarctiques françaises, chargé d'assister l'administrateur supérieur, comprend treize membres :
 
-1° Huit membres désignés par le ministre chargé de l'outre-mer ;
+1° Un député et un sénateur désignés par leur assemblée respective ;
 
-2° Un membre proposé par le ministre de la défense ;
+2° Six membres désignés par le ministre chargé de l'outre-mer ;
 
-3° Un membre proposé par le ministre chargé de la recherche ;
+3° Un membre proposé par le ministre de la défense ;
 
-4° Un membre proposé par le ministre chargé de la pêche ;
+4° Un membre proposé par le ministre chargé de la recherche ;
 
-5° Un membre proposé par le ministre chargé de l'environnement ;
+5° Un membre proposé par le ministre chargé de la pêche ;
 
-6° Un membre proposé par le ministre chargé des affaires étrangères.
+6° Un membre proposé par le ministre chargé de l'environnement ;
+
+7° Un membre proposé par le ministre chargé des affaires étrangères.
+
+Le député et le sénateur sont désignés pour la durée de leur mandat parlementaire. Les autres membres sont nommés pour une durée de quatre ans par arrêté du ministre chargé de l'outre-mer.
 
 Un suppléant est désigné dans les mêmes conditions pour chaque membre titulaire. En cas d'empêchement, les membres peuvent se faire représenter par leur suppléant.
 
