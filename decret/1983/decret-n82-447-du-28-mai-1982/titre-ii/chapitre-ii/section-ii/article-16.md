@@ -26,6 +26,8 @@ V. - Le contingent global de crédit de temps syndical propre à un établisseme
 
 2° L'autre moitié est répartie entre toutes les organisations syndicales ayant présenté leur candidature à l'élection du même comité technique, proportionnellement au nombre de voix qu'elles ont obtenues.
 
+V bis. - Chaque organisation syndicale bénéficiaire de crédits de temps syndical au titre d'un contingent global ministériel et de contingents propres d'établissements publics relevant du périmètre du ministère concerné peut regrouper ces crédits de temps syndical après information du ministre et des autorités des établissements publics concernés.
+
 VI. - Les organisations syndicales désignent librement parmi leurs représentants les bénéficiaires de crédits de temps syndical.
 
 Les décharges de service sont exprimées sous forme d'une quotité annuelle de temps de travail. Les crédits d'heures sont utilisés sous forme d'autorisations d'absence d'une demi-journée minimum.
