@@ -2,6 +2,7 @@
 
 - [Arrêté du 1 juillet 2008 (SJSF0816445A)](arrete-du-1-juillet-2008-sjsf0816445a)
 - [Arrêté du 1 juillet 2008 (SJSF0816889A)](arrete-du-1-juillet-2008-sjsf0816889a)
+- [Arrêté du 2 août 2010 (SASH1017893A)](arrete-du-2-aout-2010-sash1017893a)
 - [Arrêté du 2 avril 2013 (DEFH1304920A)](arrete-du-2-avril-2013-defh1304920a)
 - [Arrêté du 2 avril 2013 (DEFH1306894A)](arrete-du-2-avril-2013-defh1306894a)
 - [Arrêté du 2 avril 2013 (DEFH1306897A)](arrete-du-2-avril-2013-defh1306897a)
