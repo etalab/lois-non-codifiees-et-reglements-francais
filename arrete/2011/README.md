@@ -2709,7 +2709,6 @@
 - [Arrêté du 29 juin 2011 (EFIT1116522A)](arrete-du-29-juin-2011-efit1116522a)
 - [Arrêté du 29 juin 2011 (EFIZ1121731A)](arrete-du-29-juin-2011-efiz1121731a)
 - [Arrêté du 29 juin 2011 (ETSH1117800A)](arrete-du-29-juin-2011-etsh1117800a)
-- [Arrêté du 29 juin 2011 (ETSP1117877A)](arrete-du-29-juin-2011-etsp1117877a)
 - [Arrêté du 29 juin 2011 (ETSR1117944A)](arrete-du-29-juin-2011-etsr1117944a)
 - [Arrêté du 29 juin 2011 (ETSR1119181A)](arrete-du-29-juin-2011-etsr1119181a)
 - [Arrêté du 29 juin 2011 (ETSR1119182A)](arrete-du-29-juin-2011-etsr1119182a)
