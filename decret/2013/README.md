@@ -25,6 +25,7 @@
 - [Décret n°2013-283 du 3 avril 2013 (ESRH1232783D)](decret-n2013-283-du-3-avril-2013-esrh1232783d)
 - [Décret n°2013-284 du 3 avril 2013 (ESRS1305440D)](decret-n2013-284-du-3-avril-2013-esrs1305440d)
 - [Décret n°2013-285 du 3 avril 2013 (RDFF1242129D)](decret-n2013-285-du-3-avril-2013-rdff1242129d)
+- [Décret n°2013-454 du 3 juin 2013 (ETLK1307256D)](decret-n2013-454-du-3-juin-2013-etlk1307256d)
 - [Décret n°2013-6 du 3 janvier 2013 (AFSS1205251D)](decret-n2013-6-du-3-janvier-2013-afss1205251d)
 - [Décret n°2013-7 du 3 janvier 2013 (DFEX1242343D)](decret-n2013-7-du-3-janvier-2013-dfex1242343d)
 - [Décret n°2013-8 du 3 janvier 2013 (DFEX1242344D)](decret-n2013-8-du-3-janvier-2013-dfex1242344d)
