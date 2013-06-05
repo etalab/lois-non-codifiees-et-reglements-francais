@@ -1,84 +1,92 @@
 # Article 1
 
-<div>
-<br/>Les montants moyens annuels de la prime de fonctions, prévus à l'article 2 du décret du 29 juin 2005 susvisé, sont fixés     ainsi qu'il suit : <br/>
-<div align="center">
+Les montants moyens annuels de la prime de fonctions, prévus à l'article 2 du décret du 29 juin 2005 susvisé, sont fixés pour l'année 2013 ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>CADRE D'EMPLOIS </th>
-<th>
-<br/>MONTANT MOYEN ANNUEL <br/>(en euros) </th>
+<td>
+<p align="center">CADRE D'EMPLOIS</p>
+</td>
+<td>
+<p align="center">MONTANT MOYEN ANNUEL </p>
+<p align="center">(en euros) </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Cadre d'emplois I </td>
+<p>Cadre d'emplois I </p>
+<p align="left">Directeur général adjoint <br/>
+</p>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>16 196 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur général adjoint </td>
+<p align="left">Hors catégorie/ médecin-chef <br/>
+</p>
+</td>
 <td align="center">
-<br/>16   196 </td>
+<br/>10 278 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Hors catégorie/ médecin-chef </td>
+<p align="left">Première catégorie <br/>
+</p>
+</td>
 <td align="center">
-<br/>10   278 </td>
+<br/>8 601 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Première catégorie </td>
+<p>Seconde catégorie/ catégorie unique <br/>
+</p>
+</td>
 <td align="center">
-<br/>8   300 </td>
+<br/>7 779 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seconde catégorie/ catégorie unique </td>
+<p>Cadre d'emplois II </p>
+<p align="left">Premières catégories <br/>
+</p>
+</td>
 <td align="center">
-<br/>6   300 </td>
+<br/>5 715 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Cadre d'emplois II </td>
+<p align="left">Secondes catégories <br/>
+</p>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>4 986 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Premières catégories </td>
+<p>Cadre d'emplois III </p>
+<p align="left">Première catégorie <br/>
+</p>
+</td>
 <td align="center">
-<br/>4   870 </td>
+<br/>4 042 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Secondes catégories </td>
+<p align="left">Seconde catégorie <br/>
+</p>
+</td>
 <td align="center">
-<br/>4   200 </td>
+<br/>3 958<br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>Cadre d'emplois III </td>
-<td align="center">
-<br/>  </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Première catégorie </td>
-<td align="center">
-<br/>3   700 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Seconde catégorie </td>
-<td align="center">
-<br/>3   450</td>
-</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
