@@ -4,13 +4,13 @@ I. ― Le permis de conduire français est délivré soit après la réussite à
 
 Sa délivrance est subordonnée à au moins une présentation en personne du demandeur devant un agent de l'Etat compétent.
 
-II. - Toute personne désirant obtenir le permis de conduire prévu aux articles R. 211-1, R. 221-1, R. 221-2 et D. 221-3 du code de la route doit en faire la demande au préfet du département de sa résidence normale ou au préfet du département dans lequel vont être subies les épreuves de l'examen si elle se présente dans un département autre que celui de sa résidence normale.
+II.-Toute personne désirant obtenir le permis de conduire prévu aux articles R. 211-1, R. 221-1, R. 221-2 et D. 221-3 du code de la route doit en faire la demande au préfet du département de sa résidence normale ou au préfet du département dans lequel vont être subies les épreuves de l'examen si elle se présente dans un département autre que celui de sa résidence normale.
 
 Cette demande ne peut être effectuée avant l'âge de 16 ans révolus, à l'exception de la catégorie AM pour laquelle l'âge est de 14 ans révolus. Pour les personnes nées après le 31 décembre 1987, la demande de cette dernière catégorie intervient après obtention du brevet de sécurité routière prévu à l'article R. 211-1 du code précité.
 
 La demande concernant un mineur doit être formulée par la personne ou l'institution investie de l'autorité parentale ou du droit de garde. Le mineur émancipé doit en apporter la preuve.
 
-Cette demande, faite sur le formulaire réglementaire de demande de permis de conduire par inscription à l'examen ou attestation d'une formation , énonce les nom, prénom(s), nationalité, lieu de résidence, lieu et date de naissance, du demandeur. A l'exception de la seule catégorie AM, la demande doit comporter la déclaration sur l'honneur que le candidat n'est pas atteint d'une infirmité d'un ou de plusieurs membres ni d'une affection, dont il a connaissance, susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire, ou encore de donner lieu à la délivrance d'un permis de conduire de durée de validité limitée.
+Cette demande, faite sur le formulaire réglementaire de demande de permis de conduire par inscription à l'examen ou attestation d'une formation, énonce les nom, prénom (s), nationalité, lieu de résidence, lieu et date de naissance, du demandeur. A l'exception de la seule catégorie AM, la demande doit comporter la déclaration sur l'honneur que le candidat n'est pas atteint d'une infirmité d'un ou de plusieurs membres ni d'une affection, dont il a connaissance, susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire, ou encore de donner lieu à la délivrance d'un permis de conduire de durée de validité limitée.
 
 A l'exception de la seule catégorie AM, le candidat doit indiquer également s'il est titulaire d'une pension d'invalidité à titre civil ou militaire.
 
@@ -18,7 +18,7 @@ En outre, il précise la ou les catégories de permis sollicitées.
 
 Le candidat soumis à un contrôle médical en vertu des articles R. 226-1 à R. 226-4 du code de la route et qui a été reconnu apte adresse au préfet sa demande de permis de conduire accompagnée du dossier réglementaire.
 
-III. - Le dossier réglementaire comprend :
+III.-Le dossier réglementaire comprend :
 
 A. ― La justification de l'état civil du candidat. Les candidats étrangers doivent être en situation régulière vis-à-vis de la législation et de la réglementation sur le séjour des étrangers sur le territoire national. Ils doivent, en outre, y avoir fixé leur résidence normale, à l'exception des candidats énumérés dans la liste prévue au troisième alinéa ci-dessous.
 
@@ -28,7 +28,7 @@ Une liste des documents pouvant être exigés des candidats afin de justifier de
 
 B. ― Le cas échéant, l'avis médical résultant du contrôle médical mentionné au dernier alinéa du II du présent article.
 
-C. ― Jusqu'au 15 septembre 2013 deux photographies du candidat et à compter du 16 septembre 2013 sa photographie, toutes répondant à la norme NFZ 12010 ou à des normes techniques officielles en vigueur dans l'un des Etats membres de l'Union européenne ou dans un Etat appartenant à l'Espace économique européen.
+C. ― Jusqu'au 15 septembre 2013 deux photographies du candidat et à compter du 16 septembre 2013 sa photographie, toutes répondant à la norme définie par l'arrêté du 10 avril 2007 relatif à l'apposition de photographies d'identité sur les documents d'identité et de voyage, les permis de conduire et les titres de séjour ou à des normes techniques officielles en vigueur dans l'un des Etats membres de l'Union européenne ou dans un Etat appartenant à l'Espace économique européen.
 
 D. ― Pour la première obtention de la catégorie AM, s'agissant des personnes nées après le 31 décembre 1987, l'original du BSR ou son duplicata accompagné d'une déclaration de perte ou de vol, ou l'attestation de suivi de la formation pratique du brevet de sécurité routière accompagnée de l'attestation scolaire de sécurité routière de premier ou de second niveau ou de l'attestation de sécurité routière.
 
@@ -52,13 +52,13 @@ J. ― Pour les candidats à la catégorie D1, la copie du permis de conduire de
 
 K. ― Pour les candidats à la catégorie D1E, la copie du permis de conduire de la catégorie D1.
 
-L. ―Pour les candidats à la catégorie D, la copie du permis de conduire de la catégorie B et, éventuellement, la copie du diplôme, certificat ou titre professionnel constatant l'achèvement d'une formation de conducteur de transport de voyageurs, conformément aux dispositions du décret du 11 septembre 2007 susvisé.
+L. ― Pour les candidats à la catégorie D, la copie du permis de conduire de la catégorie B et, éventuellement, la copie du diplôme, certificat ou titre professionnel constatant l'achèvement d'une formation de conducteur de transport de voyageurs, conformément aux dispositions du décret du 11 septembre 2007 susvisé.
 
 M. ― Pour les candidats à la catégorie DE, la copie du permis de conduire de la catégorie D et, éventuellement, la copie du diplôme, certificat ou titre professionnel constatant l'achèvement d'une formation de conducteur de transport de voyageurs, conformément aux dispositions du décret du 11 septembre 2007 susvisé.
 
 N. ― Pour les candidats à la catégorie D n'ayant pas atteint l'âge de 24 ans révolus mais bénéficiant des dispositions relatives à l'âge figurant dans le décret du 11 septembre 2007 susvisé, la copie du permis de conduire de la catégorie B et soit l'engagement sur l'honneur à suivre la qualification initiale dénommée formation initiale minimale obligatoire (FIMO) dans le délai prévu au V de l'article 5 du présent arrêté, soit la copie de l'attestation de FIMO.
 
-O. - Pour les candidats à la catégorie DE n'ayant pas atteint l'âge de 24 ans révolus mais bénéficiant des dispositions relatives à l'âge figurant dans le décret du 11 septembre 2007 susvisé, la copie du permis de conduire de la catégorie D et soit l'engagement sur l'honneur à suivre la qualification initiale dénommée formation initiale minimale obligatoire (FIMO) dans le délai prévu au V de l'article 5 du présent arrêté, soit la copie de l'attestation de FIMO.
+O.-Pour les candidats à la catégorie DE n'ayant pas atteint l'âge de 24 ans révolus mais bénéficiant des dispositions relatives à l'âge figurant dans le décret du 11 septembre 2007 susvisé, la copie du permis de conduire de la catégorie D et soit l'engagement sur l'honneur à suivre la qualification initiale dénommée formation initiale minimale obligatoire (FIMO) dans le délai prévu au V de l'article 5 du présent arrêté, soit la copie de l'attestation de FIMO.
 
 P ― Pour les candidats à la catégorie BE ou C1, la copie du permis de conduire de la catégorie B.
 

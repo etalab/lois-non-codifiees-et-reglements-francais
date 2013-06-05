@@ -1,6 +1,6 @@
 # Article 7
 
-I.-Sous réserve des dispositions du II ci-après, le préfet délivre le permis de conduire sur avis favorable d'un expert ou conformément aux dispositions des articles R. 211-1,  D. 221-3 et D. 222-8 du code de la route .
+I.-Sous réserve des dispositions du II ci-après, le préfet délivre le permis de conduire sur avis favorable d'un expert ou conformément aux dispositions des articles R. 211-1, D. 221-3 et D. 222-8 du code de la route.
 
 Le titre délivré est conforme au modèle de l'Union européenne défini à l'article 8 du présent arrêté.
 
@@ -20,6 +20,6 @@ La demande de permis de conduire international doit être établie sur le formul
 
 ― photocopie couleur recto-verso de la pièce d'identité (carte nationale d'identité française en cours de validité ou périmée depuis moins de deux ans, passeport en cours de validité) pour les Français et les ressortissants de l'Union européenne ou de l'Espace économique européen ou du titre de séjour ou du visa long séjour en cours de validité pour les autres ressortissants ;
 
-― deux photographies récentes répondant à la norme NFZ 12010 ;
+― deux photographies récentes répondant à la norme définie par l'arrêté du 10 avril 2007 relatif à l'apposition de photographies d'identité sur les documents d'identité et de voyage, les permis de conduire et les titres de séjour ;
 
 ― une enveloppe affranchie en recommandé avec accusé de réception libellé au nom et adresse du demandeur si la demande est formulée par correspondance.
