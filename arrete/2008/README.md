@@ -43,6 +43,7 @@
 - [Arrêté du 3 décembre 2008 (MTST0828676A)](arrete-du-3-decembre-2008-mtst0828676a)
 - [Arrêté du 3 décembre 2008 (SJSH0823331A)](arrete-du-3-decembre-2008-sjsh0823331a)
 - [Arrêté du 3 décembre 2008 (SJSP0829095A)](arrete-du-3-decembre-2008-sjsp0829095a)
+- [Arrêté du 3 janvier 2008 (DEVT0774008A)](arrete-du-3-janvier-2008-devt0774008a)
 - [Arrêté du 3 janvier 2008 (DEVT0774013A)](arrete-du-3-janvier-2008-devt0774013a)
 - [Arrêté du 3 janvier 2008 (JUSB0800237A)](arrete-du-3-janvier-2008-jusb0800237a)
 - [Arrêté du 3 juillet 2002 (ECOP0200569A)](arrete-du-3-juillet-2002-ecop0200569a)
