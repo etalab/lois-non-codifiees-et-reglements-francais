@@ -22,4 +22,4 @@
 
 11. Président de chambre régionale ou territoriale des comptes ;
 
-12. Vice-président de la chambre régionale des comptes d'Ile-de-France.
+12. Vice-président de chambre régionale des comptes.
