@@ -2,59 +2,65 @@
 
 Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-1. Président d'une section
+Président d'une section
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="212">
-<p align="center">Désignation de l'emploi</p>
+<td>
+<p align="center">
+<br/>DÉSIGNATION DE L'EMPLOI<br/>
+</p>
 </td>
-<td valign="top" width="105">
-<p align="center">Nombre d'emplois</p>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS</p>
 </td>
-<td valign="top" width="99">
-<p align="center">Nombre de points par emploi</p>
+<td>
+<p align="center"> NOMBRE DE POINTS PAR EMPLOI</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="212">
-<p>Président d'une section</p>
+<td align="center">
+<p align="left">
+<br/>Président d'une section<br/>
+</p>
 </td>
-<td valign="top" width="105">
-<p align="center">45</p>
+<td align="center">
+<br/>47<br/>
 </td>
-<td valign="top" width="99">
-<p align="center">80</p>
+<td align="center">
+<br/>80<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-2. Premier commissaire du Gouvernement
+Procureur financier dirigeant le ministère public
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="212">
-<p align="center">Désignation de l'emploi</p>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
 </td>
-<td valign="top" width="102">
-<p align="center">Nombre d'emplois</p>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS</p>
 </td>
-<td valign="top" width="102">
-<p align="center">Nombre de points par emploi</p>
+<td>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="212">
-<p>Premier commissaire du Gouvernement</p>
+<td align="center">
+<p align="left">
+<br/>Procureur financier dirigeant le ministère public<br/>
+</p>
 </td>
-<td valign="top" width="102">
-<p align="center">3</p>
+<td align="center">
+<br/>6<br/>
 </td>
-<td valign="top" width="102">
-<p align="center">80</p>
+<td align="center">
+<br/>80<br/>
 </td>
 </tr>
 </tbody>

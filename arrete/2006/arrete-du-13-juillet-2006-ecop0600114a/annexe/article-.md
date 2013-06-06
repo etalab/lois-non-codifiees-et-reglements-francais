@@ -1,25 +1,30 @@
 # Article 
 
-**FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE**
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 1. Premier président
 
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi </p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="135">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="202">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Premier président</td>
-<td>
+<td width="336">
+<p>Premier président</p>
+</td>
+<td width="135">
 <p align="center">1</p>
 </td>
-<td>
+<td width="202">
 <p align="center">200</p>
 </td>
 </tr>
@@ -31,19 +36,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="136">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="200">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Procureur général</td>
-<td>
+<td width="336">
+<p>Procureur général</p>
+</td>
+<td width="136">
 <p align="center">1</p>
 </td>
-<td>
+<td width="200">
 <p align="center">200</p>
 </td>
 </tr>
@@ -55,19 +65,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="138">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="198">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Président de chambre</td>
-<td>
+<td width="336">
+<p>Président de chambre</p>
+</td>
+<td width="138">
 <p align="center">8</p>
 </td>
-<td>
+<td width="198">
 <p align="center">180</p>
 </td>
 </tr>
@@ -79,19 +94,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="137">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="199">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Président de section</td>
-<td>
+<td width="336">
+<p>Président de section</p>
+</td>
+<td width="137">
 <p align="center">24</p>
 </td>
-<td>
+<td width="199">
 <p align="center">110</p>
 </td>
 </tr>
@@ -103,19 +123,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="139">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="197">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Rapporteur général adjoint</td>
-<td>
+<td width="336">
+<p>Rapporteur général adjoint</p>
+</td>
+<td width="139">
 <p align="center">2</p>
 </td>
-<td>
+<td width="197">
 <p align="center">140</p>
 </td>
 </tr>
@@ -127,19 +152,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="138">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="198">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Secrétaire général</td>
-<td>
+<td width="336">
+<p>Secrétaire général</p>
+</td>
+<td width="138">
 <p align="center">1</p>
 </td>
-<td>
+<td width="198">
 <p align="center">160</p>
 </td>
 </tr>
@@ -151,19 +181,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="141">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="195">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Premier avocat général</td>
-<td>
+<td width="336">
+<p>Premier avocat général</p>
+</td>
+<td width="141">
 <p align="center">1</p>
 </td>
-<td>
+<td width="195">
 <p align="center">160</p>
 </td>
 </tr>
@@ -175,19 +210,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="141">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="195">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Secrétaire général adjoint</td>
-<td>
+<td width="336">
+<p>Secrétaire général adjoint</p>
+</td>
+<td width="141">
 <p align="center">3</p>
 </td>
-<td>
+<td width="195">
 <p align="center">120</p>
 </td>
 </tr>
@@ -199,19 +239,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="141">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="195">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>Avocat général</td>
-<td>
+<td width="336">
+<p>Avocat général</p>
+</td>
+<td width="141">
 <p align="center">4</p>
 </td>
-<td>
+<td width="195">
 <p align="center">120</p>
 </td>
 </tr>
@@ -223,22 +268,24 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="141">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="195">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Président de la mission permanente </p>
-<p>d'inspection des chambres régionales des comptes</p>
+<td width="336">
+<p>Président de la mission permanente d'inspection des chambres régionales des comptes</p>
 </td>
-<td>
+<td width="141">
 <p align="center">1</p>
 </td>
-<td>
+<td width="195">
 <p align="center">130</p>
 </td>
 </tr>
@@ -250,74 +297,87 @@
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="142">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="194">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Président de chambre régionale des comptes </p>
-<p>d'Ile-de-France</p>
+<td width="336">
+<p>Président de la chambre régionale des comptes d'Ile-de-France</p>
 </td>
-<td>
+<td width="142">
 <p align="center">1</p>
 </td>
-<td>
+<td width="194">
 <p align="center">160</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Président d'une chambre comprenant au moins</p>
-<p>trois sections</p>
+<td width="336">
+<p>Président d'une chambre régionale des comptes comprenant au moins trois sections</p>
 </td>
-<td>
-<p align="center">6</p>
+<td width="142">
+<p align="center">8</p>
 </td>
-<td>
+<td width="194">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Président d'une chambre comprenant moins</p>
-<p>trois sections</p>
+<td width="336">
+<p>Président d'une chambre régionale ou territoriale des comptes comprenant moins de trois sections</p>
 </td>
-<td>
-<p align="center">19</p>
+<td width="142">
+<p align="center">10</p>
 </td>
-<td>
+<td width="194">
 <p align="center">140</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-12. Vice-président de la chambre régionale des comptes d'Ile-de-France
+12. Vice-président de chambre régionale des comptes
 
 <table>
 <tbody>
 <tr>
-<td>DESIGNATION DE L'EMPLOI</td>
-<td>NOMBRE D'EMPLOIS</td>
-<td>
-<p>NOMBRE DE POINTS </p>
-<p align="center">par emploi</p>
+<td width="336">
+<p align="center">DESIGNATION DE L'EMPLOI</p>
+</td>
+<td width="141">
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td width="195">
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Vice-président de la chambre régionale des </p>
-<p>comptes d'Ile-de-France</p>
+<td width="336">
+<p>Vice-président de la chambre régionale des comptes d'Ile-de-France</p>
 </td>
-<td>
+<td width="141">
 <p align="center">1</p>
 </td>
-<td>
+<td width="195">
 <p align="center">140</p>
+</td>
+</tr>
+<tr>
+<td width="336">
+<p>Vice-président d'une autre chambre régionale des comptes que celle d'Ile-de-France</p>
+</td>
+<td width="141">
+<p align="center">4</p>
+</td>
+<td width="195">
+<p align="center">120</p>
 </td>
 </tr>
 </tbody>
