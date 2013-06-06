@@ -6,4 +6,6 @@ Est dispensé de la vérification des exigences préalables définies à l'artic
 
 ― brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités sports collectifs", mention "basket-ball" ;
 
+― brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "basket-ball" ;
+
 ― certificat de qualification professionnelle "technicien sportif régional de basket-ball" et titulaire de l'unité d'enseignement "prévention et secours civiques de niveau 1" (PSC 1).
