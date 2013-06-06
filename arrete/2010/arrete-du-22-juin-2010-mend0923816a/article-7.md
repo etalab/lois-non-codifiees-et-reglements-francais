@@ -14,4 +14,4 @@ Les jurys des concours mentionnés à l'article 1er ci-dessus sont nommés par l
 
 Le jury du concours de recrutement des inspecteurs de l'éducation nationale comprend en outre des inspecteurs de l'éducation nationale.
 
-Les présidents de jury sont nommés par le ministre chargé de l'éducation nationale et peuvent être assistés d'un ou plusieurs vice-présidents.
+Les présidents de jury sont nommés par le ministre chargé de l'éducation nationale. Ils sont assistés d'un vice-président nommé dans les mêmes conditions, lequel est appelé à remplacer le président dans le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa mission.

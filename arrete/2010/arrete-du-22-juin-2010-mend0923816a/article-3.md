@@ -40,11 +40,15 @@ Le concours de recrutement des inspecteurs d'académie-inspecteurs pédagogiques
 
 - sciences de la vie et de la terre ;
 
+- biotechnologies génie biologique ;
+
+- sciences médico-sociales ;
+
 - sciences physiques et chimiques ;
 
 - sciences économiques et sociales ;
 
-- sciences et techniques industrielles (options arts appliqués ; biotechnologies génie biologique ; sciences industrielles ; sciences médico-sociales) ;
+- sciences et techniques industrielles (options arts appliqués ; sciences industrielles) ;
 
 - administration et vie scolaires.
 

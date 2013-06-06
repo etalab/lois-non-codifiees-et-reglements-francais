@@ -10,7 +10,9 @@ Le concours de recrutement des inspecteurs de l'éducation nationale peut être 
 
 ― économie et gestion ;
 
-― sciences et techniques industrielles (dominantes arts appliqués ; sciences biologiques et sciences sociales appliquées ; sciences industrielles) ;
+― sciences et techniques industrielles (dominantes arts appliqués ; sciences industrielles) ;
+
+― sciences biologiques et sciences sociales appliquées ;
 
 4° Enseignement général, options :
 
