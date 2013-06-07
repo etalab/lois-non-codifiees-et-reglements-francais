@@ -1,4 +1,4 @@
-# Article Annexe IIa
+# Article Annexe III
 
 Le présent arrêté et ses annexes seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale en date du 27 juin 2013 sur le site  http://www.education.gouv.fr.
 
