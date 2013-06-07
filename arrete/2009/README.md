@@ -1698,7 +1698,6 @@
 - [Arrêté du 21 décembre 2009 (MCCT0929622A)](arrete-du-21-decembre-2009-mcct0929622a)
 - [Arrêté du 21 janvier 2009 (AGRG0901728A)](arrete-du-21-janvier-2009-agrg0901728a)
 - [Arrêté du 21 janvier 2009 (DEVR0901622A)](arrete-du-21-janvier-2009-devr0901622a)
-- [Arrêté du 21 janvier 2009 (ECEP0820362A)](arrete-du-21-janvier-2009-ecep0820362a)
 - [Arrêté du 21 janvier 2009 (ECEP0820364A)](arrete-du-21-janvier-2009-ecep0820364a)
 - [Arrêté du 21 janvier 2009 (ECES0901309A)](arrete-du-21-janvier-2009-eces0901309a)
 - [Arrêté du 21 janvier 2009 (ESRS0831183A)](arrete-du-21-janvier-2009-esrs0831183a)
