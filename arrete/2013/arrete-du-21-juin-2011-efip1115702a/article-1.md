@@ -6,11 +6,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tbody>
 <tr>
 <td>
-<p align="center"> SERVICES OU DIRECTIONS <br/>
+<p align="center">SERVICES OU DIRECTIONS <br/>
 </p>
 </td>
 <td colspan="2">
-<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 </tr>
 <tr>
@@ -568,16 +568,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section "gestion financière" <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction générale des douanes et droits indirects <br/>
-</p>
-</td>
-<td align="center">
 <p align="left">Adjoint au chef du bureau "fiscalités de l'énergie, de l'environnement et des lois de finances", responsable de la section "régime douanier et fiscal des produits énergétiques" <br/>
 </p>
 </td>
@@ -665,12 +655,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Secrétariat général pour la modernisation de l'action publique </p>
-</td>
-<td align="left">Chef du pôle "ressources humaines" (ajouté à compter du 31 octobre 2012)</td>
-</tr>
-<tr>
 <td align="center">
 <p align="left">Service de l'inspection générale des finances <br/>
 </p>
@@ -715,15 +699,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">
 <p align="left">Adjoint au responsable chargé de la mission "organisation des services, qualité, simplifications" </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Secrétariat général <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chargé de mission "projet miroir ONP" </p>
 </td>
 </tr>
 <tr>
@@ -978,6 +953,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">
 <p align="left">Chef du bureau gestion administrative et paye </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Secrétariat général </p>
+</td>
+<td align="left">Chef de la mission préfiguration du pilotage ministériel de paye (ajouté à compter du 6 mai 2013)<br/>
 </td>
 </tr>
 <tr>
