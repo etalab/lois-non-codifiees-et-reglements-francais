@@ -8,9 +8,9 @@ La composition de la commission, présidée par un membre du Conseil d'Etat ou u
 
 a) Le directeur du service des affaires financières, sociales et logistiques ou son représentant ;
 
-b) Le chef du bureau des organismes de protection sociale agricole ou son représentant ;
+b) Le chef du bureau des organismes de protection sociale agricole ou son représentant.
 
-c) Le référent agricole de la cellule nationale de la mission nationale de contrôle et d'audit des organismes de sécurité sociale ou son représentant.
+Le chef de la mission nationale de contrôle et d'audit des organismes de sécurité sociale ou son représentant.
 
 2. Représentants de la Fédération nationale des employeurs de la mutualité sociale agricole (FNEMSA) et de la Caisse centrale de la mutualité sociale agricole (CCMSA) :
 
