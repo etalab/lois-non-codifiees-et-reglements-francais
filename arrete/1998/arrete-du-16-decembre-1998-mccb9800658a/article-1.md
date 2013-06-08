@@ -8,19 +8,9 @@ A compter du 1er janvier 1999, sont érigés en services à compétence national
 
 - le musée du Moyen Age, thermes et hôtel de Cluny ;
 
-- le musée Picasso à Paris ;
-
 - le musée des civilisations de l'Europe et de la Méditerranée ;
 
-- le musée de l'Orangerie des Tuileries à Paris ;
-
-- le musée de la Céramique à Sèvres ;
-
-- le musée du château de Pau ;
-
 - le musée Magnin à Dijon ;
-
-- le musée de la porcelaine Adrien Dubouché, à Limoges ;
 
 - le musée Clemenceau et de Lattre de Tassigny, à Mouilleron-en-Pareds ;
 
@@ -36,6 +26,6 @@ A compter du 1er janvier 1999, sont érigés en services à compétence national
 
 - le musée de préhistoire des Eyzies-de-Tayac ;
 
-Ces services ont pour mission, à titre permanent, de conserver, inventorier, étudier, restaurer, enrichir et exposer, en vue de l'éducation et de la délectation du public, les collections appartenant à l'Etat et inscrites sur l'inventaire des musées nationaux.
+Ces services sont rattachés au directeur général des patrimoines.
 
-Ces services sont rattachés au directeur des musées de France.
+Dans le cadre des orientations fixées par le service des musées de France de la direction générale des patrimoines, ces services ont pour mission, à titre permanent, de conserver, inventorier, étudier, restaurer, enrichir et exposer, en vue de l'éducation et de la délectation du public, les collections appartenant à l'Etat et inscrites sur l'inventaire des musées nationaux.
