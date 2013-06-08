@@ -8,4 +8,4 @@ Une personne physique titulaire d'un office d'avocat au Conseil d'Etat et à la 
 
 Des personnes physiques remplissant les conditions requises, sans qu'aucune d'entre elles soit titulaire d'un office.
 
-Le nombre des associés ne peut être supérieur à trois.
+Le nombre des associés ne peut être supérieur à quatre.
