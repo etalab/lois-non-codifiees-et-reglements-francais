@@ -731,6 +731,15 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">
+<em>Dracocephalum ruyschiana</em> L. </p>
+</td>
+<td>
+<p align="left">Dracocéphale de Ruysch.</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="302">
 <p align="left">
 <i>Echinospartum horridum (Vahl) Rothm.</i>
@@ -3003,6 +3012,15 @@
 <tr>
 <td>
 <p align="left">
+<em>Orchis provincialis</em> Balbis. </p>
+</td>
+<td>
+<p align="left">Orchis de Provence. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
 <i>Orchis provincialis</i> Balbis ssp. <i>pauciflora</i> (Ten.) Camus.</p>
 </td>
 <td>
@@ -3432,9 +3450,7 @@
 <i>Dryopteris tyrrhena </i>Fraser-Jenkins. </p>
 </td>
 <td>
-<p align="left">
-<font face="Times New Roman" size="2">Dryoptéris tyrrhénienne.</font>
-</p>
+<p align="left">Dryoptéris tyrrhénienne.</p>
 </td>
 </tr>
 <tr>
@@ -3642,6 +3658,151 @@
 </td>
 <td valign="top" width="302">
 <p align="left">Woodwardia.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Charophycées</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<i>Tolypella salina</i> R. Cor.</p>
+</td>
+<td>
+<p align="left">Tolypelle saline.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Bryophytes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Bruchia vogesiaca</em> Nestl. Ex Schwägr.</p>
+</td>
+<td>
+<p align="left">Bruchie des Vosges.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Buxbaumia viridis</em> (DC.) Moug. &amp; Nestl.</p>
+</td>
+<td>
+<p align="left">Buxbaumie verte. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Dichelyma capillaceum</em> (Dicks.) Myr.</p>
+</td>
+<td>
+<p align="left">Fontinale chevelue.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Dicranum viride</em> (Sull. &amp; Lesq.) Lindb.</p>
+</td>
+<td>
+<p align="left">Dicrane vert. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Hamatocaulis vernicosus</em> (Mitt.) Hedenäs.</p>
+</td>
+<td>
+<p align="left">Hypne vernissé.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Mannia triandra</em> (Scop.) Grolle.</p>
+</td>
+<td>
+<p align="left">Grimaldie rupestre.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Meesia longiseta</em> Hedw.</p>
+</td>
+<td>
+<p align="left">Meesie à longue soie.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Orthotricum rogeri</em> Brid.</p>
+</td>
+<td>
+<p align="left">Orthotric de Roger.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Pyramidula tetragona</em> (Brid.) Brid.</p>
+</td>
+<td>
+<p align="left">Pyramidule tétragone.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Riccia breidleri</em> Jur. Ex Steph.</p>
+</td>
+<td>
+<p align="left">Riccie de Breidler.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Riella helicophylla</em> (Bory &amp; Mont.) Mont.</p>
+</td>
+<td>
+<p align="left">Riella à thalle hélicoïde.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Riella notarisii</em> (Mont.) Mont.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Riella parisii</em> Gottsche.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Sphagnum pylaesii</em> Brid.</p>
+</td>
+<td>
+<p align="left">Sphaigne de la Pylaie.</p>
 </td>
 </tr>
 </tbody>
