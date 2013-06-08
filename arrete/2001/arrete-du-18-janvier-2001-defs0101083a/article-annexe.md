@@ -110,4 +110,4 @@ Général commandant les forces françaises stationnées à Djibouti.
 
 Général commandant les forces françaises au Gabon.
 
-Général commandant les forces françaises du Cap-Vert.
+Général commandant les éléments français au Sénégal.

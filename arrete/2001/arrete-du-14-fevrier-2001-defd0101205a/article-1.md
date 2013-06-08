@@ -24,6 +24,6 @@ Le commandant des forces françaises et de l'élément civil stationnés en Alle
 
 Le commandant des forces françaises stationnées à Djibouti ;
 
-Le commandant des forces françaises du Cap-Vert ;
+Le commandant des éléments français au Sénégal ;
 
 Le commandant des forces françaises au Gabon.
