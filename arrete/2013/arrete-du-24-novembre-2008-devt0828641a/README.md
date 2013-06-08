@@ -4,6 +4,7 @@
 - [Annexes](annexes)
 - [Champ d'application](champ-d-application)
 - [Décision du jury de validation des acquis de l'expérience](decision-du-jury-de-validation-des-acquis-de-l-experience)
+- [Dispositions générales](dispositions-generales)
 - [Mise en œuvre du dispositif](mise-en-oeuvre-du-dispositif)
 - [Organisation des jurys de validation des acquis de l'expérience](organisation-des-jurys-de-validation-des-acquis-de-l-experience)
 - [Recevabilité de la demande de validation des acquis de l'expérience](recevabilite-de-la-demande-de-validation-des-acquis-de-l-experience)

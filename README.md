@@ -3,6 +3,7 @@
 - [ARRETE](arrete)
 - [CONSTITUTION](constitution)
 - [CONVENTION](convention)
+- [DECISION](decision)
 - [DECLARATION](declaration)
 - [DECRET](decret)
 - [DECRET_LOI](decret-loi)
