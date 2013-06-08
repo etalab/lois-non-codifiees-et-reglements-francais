@@ -2046,7 +2046,7 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </tr>
 <tr>
 <td align="center">
-<br/>Niort-Souché</td>
+<br/>Niort-Marais poitevin</td>
 <td align="center">
 <br/>Deux-Sèvres</td>
 <td align="center">
