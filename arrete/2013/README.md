@@ -904,6 +904,7 @@
 - [Arrêté du 24 janvier 2013 (OMEO1302387A)](arrete-du-24-janvier-2013-omeo1302387a)
 - [Arrêté du 24 janvier 2013 (OMEO1302388A)](arrete-du-24-janvier-2013-omeo1302388a)
 - [Arrêté du 24 janvier 2013 (TRAT1242121A)](arrete-du-24-janvier-2013-trat1242121a)
+- [Arrêté du 24 novembre 2008 (DEVT0828641A)](arrete-du-24-novembre-2008-devt0828641a)
 - [Arrêté du 24 octobre 2012 (TRAA1238086A)](arrete-du-24-octobre-2012-traa1238086a)
 - [Arrêté du 24 octobre 2012 (TRAT1237436A)](arrete-du-24-octobre-2012-trat1237436a)
 - [Arrêté du 24 mai 2013 (AFSP1243354A)](arrete-du-24-mai-2013-afsp1243354a)
