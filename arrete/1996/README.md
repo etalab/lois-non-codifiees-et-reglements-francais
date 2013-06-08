@@ -522,7 +522,6 @@
 - [Arrêté du 17 janvier 1996 (TASG9511276A)](arrete-du-17-janvier-1996-tasg9511276a)
 - [Arrêté du 17 janvier 2002 (INTC0100435A)](arrete-du-17-janvier-2002-intc0100435a)
 - [Arrêté du 17 juillet 1996 (AGRP9601521A)](arrete-du-17-juillet-1996-agrp9601521a)
-- [Arrêté du 17 juillet 1996 (DEFB9601724A)](arrete-du-17-juillet-1996-defb9601724a)
 - [Arrêté du 17 juillet 1996 (MENN9602698A)](arrete-du-17-juillet-1996-menn9602698a)
 - [Arrêté du 17 juillet 1996 (MIPP9600266A)](arrete-du-17-juillet-1996-mipp9600266a)
 - [Arrêté du 17 juin 1996 (AGRE9601209A)](arrete-du-17-juin-1996-agre9601209a)

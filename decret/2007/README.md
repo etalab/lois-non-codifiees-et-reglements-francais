@@ -206,7 +206,6 @@
 - [Décret n°2007-1711 du 5 décembre 2007 (IMID0772076D)](decret-n2007-1711-du-5-decembre-2007-imid0772076d)
 - [Décret n°2007-1713 du 5 décembre 2007 (BCFB0768597D)](decret-n2007-1713-du-5-decembre-2007-bcfb0768597d)
 - [Décret n°2007-1714 du 5 décembre 2007 (DEVL0766570D)](decret-n2007-1714-du-5-decembre-2007-devl0766570d)
-- [Décret n°2007-24 du 5 janvier 2007 (DEFD0601447D)](decret-n2007-24-du-5-janvier-2007-defd0601447d)
 - [Décret n°2007-519 du 5 avril 2007 (SANP0721014D)](decret-n2007-519-du-5-avril-2007-sanp0721014d)
 - [Décret n°2007-521 du 5 avril 2007 (DEVN0710019D)](decret-n2007-521-du-5-avril-2007-devn0710019d)
 - [Décret n°2007-526 du 5 avril 2007 (SANH0720587D)](decret-n2007-526-du-5-avril-2007-sanh0720587d)
