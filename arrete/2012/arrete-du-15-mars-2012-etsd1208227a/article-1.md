@@ -1,5 +1,5 @@
 # Article 1
 
-Le titre professionnel de piqueur (se) à plat en maroquinerie est créé pour une durée d'un an à compter de la publication du présent arrêté.
+Le titre professionnel de piqueur (se) en maroquinerie est créé pour une durée d'un an à compter de la publication du présent arrêté.
 
-Il est classé au niveau V de la nomenclature des niveaux de formation telle que définie à l'article R. 335-13 du code de l'éducation et dans le domaine d'activité 243 s (code NSF).
+Le titre piqueur (se) en maroquinerie est enregistré pour une durée de cinq ans au répertoire national des certifications professionnelles à compter de l'entrée en vigueur du présent arrêté.
