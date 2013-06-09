@@ -6,6 +6,6 @@ La sous-direction de la politique des ressources humaines comprend quatre bureau
 
 2. Le bureau de la politique des emplois et des compétences ;
 
-3. Le bureau du pilotage et de la formation ;
+3. Le bureau du pilotage de la formation ;
 
 4. Le bureau du dialogue social.
