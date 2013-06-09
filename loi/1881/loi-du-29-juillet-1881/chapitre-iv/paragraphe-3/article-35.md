@@ -10,7 +10,7 @@ a) Lorsque l'imputation concerne la vie privée de la personne ;
 
 b) (Abrogé)
 
-c) Lorsque l'imputation se réfère à un fait constituant une infraction amnistiée ou prescrite, ou qui a donné lieu à une condamnation effacée par la réhabilitation ou la révision ;
+c)  (Abrogé)
 
 Les deux alinéas a et b qui précèdent ne s'appliquent pas lorsque les faits sont prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27 du code pénal et ont été commis contre un mineur.
 
