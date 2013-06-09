@@ -168,4 +168,12 @@ Strasbourg-Tel-Aviv (Israël) ;
 
 Toulouse-Tel-Aviv (Israël).
 
+Jusqu'au 30 juin 2018 :
+
+Paris - Monastir (Tunisie) ;
+
+Toulouse - Marrakech (Maroc) ;
+
+Nantes - Marrakech (Maroc).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
