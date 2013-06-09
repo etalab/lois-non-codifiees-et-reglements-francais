@@ -1,43 +1,39 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel d'installateur de réseaux câblés de communications selon le tableau de correspondances figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles  obtenus antérieurement à la publication du présent arrêté modificatif  sont réputés avoir obtenu les certificats de compétences  professionnelles mentionnés au précédent article selon le tableau  figurant ci-dessous :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>INSTALLATEUR DE RÉSEAUX <br/>
-<br/>câblés de communications <br/>
-<br/>(arrêté du 9 / 12 / 2003) <br/>
-</th>
-<th>
-<br/>INSTALLATEUR DE RÉSEAUX <br/>
-<br/>câblés de communications <br/>
-<br/>(présent arrêté) <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Construire des réseaux câblés de communications. <br/>
+<td>
+<p align="center"> INSTALLATEUR DE RÉSEAUX<br/>câblés de communications<br/>(arrêté du 9 décembre 2003, modifié<br/>par l'arrêté du 7 juillet 2008)</p>
 </td>
-<td align="center">
-<br/>Construire des réseaux câblés hybrides de communications. <br/>
+<td>
+<p align="center"> INSTALLATEUR DE RÉSEAUX<br/>câblés de communications<br/>(présent arrêté modificatif)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Raccorder des clients aux réseaux câblés de communications. <br/>
+<p align="left">Construire des réseaux câblés hybrides de communications</p>
 </td>
 <td align="center">
-<br/>Raccorder des clients à un réseau câblé hybride de communications. <br/>
+<p align="left">Construire des réseaux câblés de communications</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Réparer et modifier des réseaux câblés de communications. <br/>
+<p align="left">Raccorder des clients à un réseau câblé hybride de communications</p>
 </td>
 <td align="center">
-<br/>Réparer et modifier des réseaux câblés hybrides de communications . <br/>
+<p align="left">Raccorder l'installation d'un client à un réseau câblé de communications</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Réparer et modifier des réseaux câblés hybrides de communications</p>
+</td>
+<td align="center">
+<p align="left">Aucune correspondance</p>
 </td>
 </tr>
 </tbody>
