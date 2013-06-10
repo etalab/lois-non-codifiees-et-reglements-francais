@@ -8,11 +8,11 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27, 64-1, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat des dotations annuelles correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27,64-1,64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat des dotations annuelles correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
-2° Les interventions au cours de la garde à vue ou de la retenue douanière en cas de désignation d'office ;
+2° Les interventions au cours de la garde à vue, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour en cas de désignation d'office ;
 
 3° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante qu'ils accomplissent ;
 
@@ -32,7 +32,7 @@ Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture
 
 a) Carpa-aide juridictionnelle ;
 
-b) Carpa-garde à vue et de la retenue douanière ;
+b) Carpa-garde à vue, de la retenue douanière et de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ;
 
 c) Carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
 
@@ -170,11 +170,11 @@ Article 18
 
 Section 2
 
-Les interventions au cours de la garde à vue ou de la retenue douanière
+Les interventions au cours de la garde à vue, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour
 
 Article 19
 
-La rétribution pour l'intervention de l'avocat au cours de la garde à vue ou de la retenue douanière est versée à l'avocat commis d'office contre la remise de l'imprimé visé au deuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police, de gendarmerie ou de douane compétentes ainsi que par le bâtonnier ou son représentant.
+La rétribution pour l'intervention de l'avocat au cours de la garde à vue, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour est versée à l'avocat commis d'office contre la remise de l'imprimé visé au deuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police, de gendarmerie ou de douane compétentes ainsi que par le bâtonnier ou son représentant.
 
 Article 20
 
@@ -220,7 +220,7 @@ Il fournit les références du compte ouvert dans les livres d'un établissement
 
 Article 22
 
-L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue ou de la retenue douanière et pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
+L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour et pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
 Article 23
 
@@ -230,11 +230,11 @@ a) Mentionné dans la décision du bureau d'aide juridictionnelle ;
 
 b) Mentionné dans la décision du président de ce bureau pour les interventions en matière de médiation ou de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ;
 
-c) Désigné par le bâtonnier pour les interventions au cours de la garde à vue et de la retenue douanière ;
+c) Désigné par le bâtonnier pour les interventions au cours de la garde à vue, de la retenue douanière et de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ;
 
 d) Désigné par le bâtonnier ou choisi par le détenu pour les interventions en matière d'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue ou de retenue douanière, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'imprimé visé à l'article 132-5 du décret du 19 décembre 1991 sous réserve des règles de répartition prévues à l'article 103 du même décret.
+Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue, de retenue douanière ou de retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'imprimé visé à l'article 132-5 du décret du 19 décembre 1991 sous réserve des règles de répartition prévues à l'article 103 du même décret.
 
 Article 24
 
@@ -328,7 +328,7 @@ I.-La Carpa transmet à l'ordonnateur compétent un état de trésorerie mensuel
 
 1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
 
-2° Le nombre d'interventions et les montants des rétributions versées par nature d'intervention pour les interventions des avocats au cours de la garde à vue ou de la retenue douanière ;
+2° Le nombre d'interventions et les montants des rétributions versées par nature d'intervention pour les interventions des avocats au cours de la garde à vue, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ;
 
 3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
 
