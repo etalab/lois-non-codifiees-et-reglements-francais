@@ -1670,7 +1670,6 @@
 - [Arrêté du 19 février 2010 (ECES1004574A)](arrete-du-19-fevrier-2010-eces1004574a)
 - [Arrêté du 19 février 2010 (ECES1004577A)](arrete-du-19-fevrier-2010-eces1004577a)
 - [Arrêté du 19 février 2010 (ECES1004582A)](arrete-du-19-fevrier-2010-eces1004582a)
-- [Arrêté du 19 février 2010 (INDI0921133A)](arrete-du-19-fevrier-2010-indi0921133a)
 - [Arrêté du 19 février 2010 (INDI1001814A)](arrete-du-19-fevrier-2010-indi1001814a)
 - [Arrêté du 19 février 2010 (MAEF1004914A)](arrete-du-19-fevrier-2010-maef1004914a)
 - [Arrêté du 19 février 2010 (MAEF1004916A)](arrete-du-19-fevrier-2010-maef1004916a)
