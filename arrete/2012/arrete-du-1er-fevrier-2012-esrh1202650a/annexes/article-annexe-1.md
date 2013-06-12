@@ -1,51 +1,41 @@
 # Article Annexe 1
 
-PROGRAMME DE L'EXAMEN PROFESSIONNEL POUR L'AVANCEMENT AU GRADE DE BIBLIOTHÉCAIRE ASSISTANT SPÉCIALISÉ DE CLASSE SUPÉRIEURE
+RUBRIQUES DU DOSSIER DE RECONNAISSANCE
 
-1. (Supprimé)
+DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP)
 
-2. L'organisation des bibliothèques :
+Examen professionnel pour l'avancement au grade de bibliothécaire
 
-― les différents types de bibliothèques et de services de documentation : organisation, missions et moyens ;
+assistant spécialisé de classe supérieure ou de classe exceptionnelle
 
-― les grands organismes documentaires ;
+Identification du candidat
 
-― les réseaux de coopération documentaire.
+Numéro de dossier d'inscription :
 
-3. Gestion et traitement documentaires :
+Nom d'usage ou de femme mariée :
 
-― les types de documents, sur support ou en ligne ;
+Prénom :
 
-― les modes d'acquisition des ressources documentaires ;
+Votre expérience professionnelle
 
-― formats et normes de traitement documentaires, métadonnées, langages d'indexation ;
+Vos activités antérieures.
 
-― préservation et conservation des collections ;
+(Vous pourrez joindre au présent dossier deux documents/travaux au maximum que vous auriez réalisés au cours de vos activités et qu'il vous paraîtrait pertinent de porter à la connaissance du jury au regard de l'expérience professionnelle recherchée.)
 
-― systèmes informatisés de gestion de bibliothèque.
+Votre formation professionnelle et continue
 
-4. Les services aux usagers :
+Les actions de formation professionnelle et continue que vous jugez importantes pour votre compétence professionnelle.
 
-― accueil et formation des lecteurs ;
+Les acquis de votre expérience professionnelle au regard du profil recherché
 
-― recherche documentaire : outils disponibles (ressources imprimées ou en ligne) : annuaires, bibliographies, sites et portails de grandes bibliothèques et institutionnels, moteurs de recherche, métamoteurs, etc ;
+Caractérisez, en quelques mots, les éléments qui constituent, selon vous, les acquis de votre expérience professionnelle et vos atouts au regard des connaissances, compétences et aptitudes recherchées, et précisez, le cas échéant, vos motivations pour exercer l'un des emplois d'affectation de l'examen professionnel d'avancement au grade de bibliothécaire assistant spécialisé de classe supérieure ou de classe exceptionnelle (1 à 2 pages dactylographiées maximum).
 
-― accès aux documents ;
+Annexes
 
-― animation et valorisation ;
+Tableau récapitulatif des documents à fournir.
 
-― notions relatives au droit d'auteur et à la propriété intellectuelle.
+Accusé de réception.
 
-5. Economie du livre et des autres formes d'édition :
+Déclaration sur l'honneur.
 
-― production et diffusion des documents imprimés (livres périodiques, etc) ;
-
-― édition électronique et multimédia ;
-
-― littérature grise et diffusion des travaux de recherche.
-
-6. Gestion des locaux et des équipements :
-
-― notions sur la sécurité des personnes, des locaux et des équipements ;
-
-― notions sur la sécurité des réseaux informatiques et des logiciels.
+Visa de l'autorité compétente.
