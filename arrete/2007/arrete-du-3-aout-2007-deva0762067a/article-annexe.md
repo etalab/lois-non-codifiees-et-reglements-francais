@@ -83,3 +83,7 @@ République dominicaine :
 Bordeaux-Punta Cana ;
 
 Marseille-Dzaoudzi.
+
+Jusqu'au 1er juin 2018 :
+
+Marseille - New York (Etats-Unis).
