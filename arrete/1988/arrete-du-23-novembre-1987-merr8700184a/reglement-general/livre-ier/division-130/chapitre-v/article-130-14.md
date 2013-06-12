@@ -1,31 +1,11 @@
 # Article 130.14
 
-Délivrance des titres et certificats prévus par les conventions internationales pertinentes.
+Délivrance d'un certificat de jaugeage pour un navire d'une longueur supérieure ou égale à 15 mètres.
 
-En application des articles 3 et 10 du décret n° 84-810 du 30 août 1984 modifié, les titres et certificats prévus par les conventions internationales pertinentes sont délivrés selon les modalités suivantes :
+En application de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, le certificat de jaugeage d'un navire d'une longueur hors tout supérieure ou égale à 15 mètres est délivré par une société de classification habilitée au titre de la division 140 du présent règlement.
 
-1. Le système harmonisé prévu dans la résolution OMI A.1053(27) telle que modifiée s'applique pour la délivrance, le visa ou le renouvellement des titres internationaux.
+Toute demande de jaugeage ou de rejaugeage est à adresser par l'armateur à une société de classification visée dans l'annexe 140. A. 1 " Liste des sociétés de classification habilitées et de leurs compétences respectives ".
 
-Les modalités d'application dudit système sont celles définies dans la résolution OMI A.718(17), telle que modifiée par les résolutions OMI A.745(18) et A.883(21), ainsi que dans la résolution OMI MEPC.39(29) pour la prévention de la pollution par les navires.
+Une copie de la demande est adressée par l'autorité compétente au service des douanes du lieu de construction du navire lorsque celui-ci est construit en France ou à celui choisi comme port d'attache par le propriétaire dans les autres cas en application de l'article L. 5114-2 du code des transports et de l'article 5 du décret n° 67-967 du 27 octobre 1967 relatif au statut des navires.
 
-En outre, il est fait application des autres instruments rendus obligatoires par les conventions auxquelles la France est partie.
-
-2. La commission de visite instituée par l'article 26 du décret n° 84-810 du 30 août 1984 modifié, ou, selon les cas, la société de classification habilitée, effectue la visite  initiale , prévue dans le système harmonisé de la résolution A.1053(27) modifiée.
-
-3. La commission de visite instituée par l'article 27 du décret n° 84-810 du 30 août 1984 modifié, ou, selon les cas, la société de classification habilitée, effectue les visites  de renouvellement ,  périodique ,  intermédiaire  ou  annuelle  prévues dans le système harmonisé de la résolution A.1053(27) modifiée.
-
-4. Préalablement à la délivrance des titres et certificats internationaux, pour les navires dont les titres sont délivrés par l'administration au sens des paragraphes II (2°) et II (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, l'autorité compétente, après avis de la commission d'étude compétente, indique qu'elle ne s'y oppose pas, compte tenu de l'avancement de l'étude des plans et documents.
-
-5. Les certificats internationaux de sécurité sont délivrés pour une période maximale de :
-
-- un an pour les certificats internationaux pour navire à passagers ;
-
-- cinq ans pour les certificats internationaux des autres navires.
-
-6. Des titres provisoires de sécurité et de prévention de la pollution peuvent être délivrés pour une période maximum de cinq mois, selon le cas, par le chef du centre de sécurité des navires ou à défaut par l'autorité consulaire, ou par une société de classification habilitée :
-
-a) Aux navires construits ou acquis sur le territoire de la République française ou à l'étranger pour leur permettre de rallier un port où une visite de mise en service pourra être effectuée conformément aux dispositions de l'article 26 ;
-
-b) Aux navires en essais.
-
-7. Les titres et certificats internationaux de sécurité et de prévention de la pollution peuvent être prorogés, dans les conditions fixées par les conventions internationales, par le chef du centre de sécurité des navires ou son délégué, l'autorité consulaire sur accord du chef du centre de sécurité des navires, toute autorité étrangère compétente intervenant à la demande du Gouvernement français, ou la société de classification habilitée qui a délivré le certificat.
+Une copie du certificat de jaugeage est adressée par l'autorité compétente au bureau de douane où est francisé le navire.

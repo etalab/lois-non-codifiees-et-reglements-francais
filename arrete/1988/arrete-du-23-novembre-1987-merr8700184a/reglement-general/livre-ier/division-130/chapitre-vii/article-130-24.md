@@ -1,5 +1,7 @@
 # Article 130.24
 
-Publication des décisions de suspension et de retrait.
+Généralités.
 
-Les décisions de suspension et de retrait des titres de sécurité et certificats de prévention de la pollution (y compris le permis de navigation) sont publiées sur le site internet du ministère chargé de la mer.
+1. Toute compagnie qui exploite un navire soumis à l'obligation de détenir un certificat de gestion de la sécurité, en application de la convention SOLAS ou du règlement (CE) n° 336/2006, doit être en possession d'un document de conformité au code ISM.
+
+2. Le document de conformité et le certificat de gestion de la sécurité sont délivrés pour une période maximale de cinq ans.

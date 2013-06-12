@@ -1,25 +1,19 @@
 # Article 130.42
 
-Visite de mise en service.
+Soumission des documents à une commission régionale de sécurité.
 
-La visite de mise en service visée par l'article 26 du décret n° 84-810 du 30 août 1984 modifié répond aux modalités suivantes :
+1. Lorsque l'examen du dossier d'un navire relève de la compétence d'une commission régionale de sécurité, il lui est fourni un exemplaire de chacun des documents visé par l'annexe 130-A.1. Les documents relatifs aux installations de radiocommunication sont fournis en deux exemplaires.
 
-1. La visite de mise en service du navire est effectuée par la commission de visite du centre de sécurité compétent durant la procédure d'étude.
+2. Les plans et documents relatifs aux installations de radiocommunication sont transmis, par l'administration, pour avis, à l'Agence nationale des fréquences (ANFr), en vue de leur examen en commission régionale de sécurité.
 
-2. Si le centre de sécurité des navires compétent n'est pas celui du port d'immatriculation, sur décision conjointe des chefs de centre concernés, des inspecteurs du centre de sécurité dont relève le port d'immatriculation du navire peuvent participer aux essais et à la visite de mise en service.
+3. Les plans et documents fournis sont examinés et font l'objet d'une étude de conformité par la commission conformément à la liste des points étudiés prévus à l'annexe 130-A.1.
 
-3. Le chef du centre de sécurité des navires compétent, ou son délégué, peut autoriser la délivrance des titres de sécurité et de prévention de la pollution d'un navire français mentionnés au II de l'article 3-1 du décret n° 84-810. Dans ce cas, l'autorité consulaire procède à cette délivrance, sur demande du chef du centre de sécurité des navires compétent, ou son délégué.
+4. Pour les navires soumis à l'obligation de classification, les plans et documents soumis à l'examen de la commission doivent, préalablement à leur envoi à la commission, être visés par une société de classification habilitée, de façon à attester de leur examen par cette société de classification conformément à son règlement de classe et suivant les domaines techniques requis (cf. art. 130.32). Les plans et documents, y compris ceux modifiés, sont transmis accompagnés des commentaires de la société de classification habilitée.
 
-4. Si le navire se trouve dans un chantier d'un pays signataire de la ou des conventions internationales dont le respect conditionne la délivrance des titres de sécurité, ceux-ci peuvent être délivrés par l'autorité maritime de ce pays, sur requête de l'autorité consulaire et après accord du ministre chargé de la mer.
+5. Les plans et documents relatifs à des domaines techniques non couverts par le règlement de classe de la société de classification habilitée et ceux des navires non soumis à l'obligation de classification ne sont pas soumis à cette obligation de visa. Les plans et documents modifiés doivent également être transmis à la commission.
 
-5. Dans ce dernier cas, le consul délivre des titres provisoires, après réunion d'une commission de visite de mise en service.
+6. Les études et visas des différents documents et manuels qui doivent être présents sur les navires sont répartis entre la commission et le centre de sécurité compétent de la manière détaillée dans l'annexe 130-A.3.
 
-6. La visite de mise en service a pour objet, en vue de la délivrance des titres de sécurité et certificats de prévention de la pollution prévus à l'article 3 du décret n° 84-810, de :
+7. Préalablement à la délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, la commission formule dans ses avis les prescriptions dont elle estime indispensable la réalisation. La commission peut, en outre, requérir un délai d'étude supplémentaire avant d'émettre un avis ne s'opposant pas à la délivrance des titres.
 
-― vérifier que toutes les prescriptions de l'autorité compétente fixées, s'il y a lieu, après avis de la commission d'étude ont bien été suivies ;
-
-― s'assurer de la conformité et de la mise en place du matériel mobile de sécurité ;
-
-― constater, par le biais du rapport de visite de mise en service, la situation du navire à ce moment ;
-
-― s'assurer de l'exécution des essais prévus par le règlement et de ceux prescrits par l'autorité compétente après avis de la commission d'étude.
+8. Elle procède de même en vue de la délivrance des titres définitifs de sécurité.

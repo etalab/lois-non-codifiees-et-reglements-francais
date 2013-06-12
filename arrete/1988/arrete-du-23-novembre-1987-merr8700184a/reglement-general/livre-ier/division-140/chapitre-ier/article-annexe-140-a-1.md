@@ -677,3 +677,88 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 </div>
 
 <div align="left"/>
+
+3. Certificats de jaugeage des navires délivrés au nom de l'Etat pour tous les navires d'une longueur hors tout supérieure ou égale à 15 mètres :
+
+H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de jaugeage des navires, en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
+
+<table>
+<tbody>
+<tr>
+<td/>
+<td>
+<p align="center">
+<br/>CERTIFICATS/ VISITES <br/>
+</p>
+</td>
+<td>
+<p align="center"> BUREAU </p>
+<p align="center">Veritas <br/>
+</p>
+</td>
+<td>
+<p align="center"> DET NORSKE </p>
+<p align="center">Veritas <br/>
+</p>
+</td>
+<td>
+<p align="center"> GERMANISCHER </p>
+<p align="center">Lloyd </p>
+</td>
+<td>
+<p align="center"> LLOYD'S </p>
+<p align="center">Register </p>
+</td>
+<td>
+<p align="center"> RINA </p>
+<p align="center">Services SpA </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Visites relatives au certificat international de jaugeage des navires/ Certificat international de jaugeage des navires <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Visites relatives au certificat national de jaugeage des navires/ certificat national de jaugeage des navires <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H <br/>
+</td>
+<td align="center">
+<br/>H<br/>
+</td>
+</tr>
+</tbody>
+</table>

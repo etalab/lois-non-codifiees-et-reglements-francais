@@ -1,21 +1,27 @@
 # Article 130.33
 
-Soumission des documents et examen en commission centrale de sécurité.
+Navires soumis à une obligation d'approbation de structure au titre de l'article 42-6 du décret n° 84-810 du 30 août 1984 modifié.
 
-1. Lorsque l'examen du dossier d'un navire relève de la compétence de la commission centrale de sécurité, l'exploitant du navire ou son représentant lui présente un exemplaire de chacun des plans et documents visés par l'annexe 130-A.2.
+En application des dispositions de l'article 42-6 du décret n° 84-810 du 30 août 1984 modifié, à l'exception des navires de plaisance, tout navire neuf ou acquis à l'étranger d'une longueur inférieure à 24 mètres doit faire l'objet d'une approbation de sa structure par une société de classification habilitée.
 
-2. Les plans et documents relatifs aux installations de radiocommunication sont fournis en deux exemplaires. Ces plans et documents relatifs aux installations de radiocommunication sont transmis, par l'administration, pour avis à l'Agence nationale des fréquences (ANFR), en vue de leur examen en commission centrale de sécurité.
+Les navires existants à la date de publication du présent règlement restent soumis aux dispositions du décret n° 84-810 et de l'arrêté du 23 novembre 1987 dans leur rédaction antérieure.
 
-3. Les plans et documents soumis à l'examen de la commission, doivent,  préalablement à leur envoi à la commission, être visés par une société  de classification habilitée, de façon à attester de leur examen par  cette société de classification conformément à son règlement de classe  et suivant les domaines techniques requis (cf. article 130.26). Les  plans et documents relatifs à des domaines techniques non couverts par  le règlement de classe de la société de classification habilitée ne sont  pas soumis à cette obligation de visa. Les plans et documents, y  compris ceux modifiés, sont transmis accompagnés des commentaires de la  société de classification habilitée.
+1. La solidité générale et le mode de construction de la coque et, le cas échéant, des superstructures fermées, des roufs, de la timonerie, des collecteurs d'échappement, des descentes et des autres structures participant à la résistance générale ainsi que de l'équipement principal intéressant l'étanchéité sont examinés par une société de classification habilitée. La vérification de la résistance à la fissuration progressive sous charges cycliques ou chocs n'est pas requise au titre de cet examen.
 
-4. Les plans et documents fournis sont examinés par la commission conformément à la liste des points étudiés prévus à l'annexe 130-A.2.
+2. A cet effet, l'exploitant du navire transmet à cette société de classification les documents suivants :
 
-5. L'annexe 130-A.2 donne une liste de certificats spécifiques et de documents soumis à l'approbation de l'autorité compétente et précise pour chaque document l'entité responsable de l'étude et celle chargée de le viser après approbation formelle de l'autorité compétente.
+― plan d'ensemble, comportant les dimensions principales, le tirant d'eau, la vitesse maximale prévue et les mentions de navigation et de service ;
 
-6. Les plans et documents font l'objet d'une étude de conformité pour chaque item identifié au titre de l'annexe 130-A.2
+― plan de coupe au maître, indiquant les propriétés mécaniques des matériaux et l'espacement des couples et l'échantillonnage ;
 
-7. Les études et visas des différents documents et manuels qui doivent être présents sur les navires sont répartis entre la commission et le centre de sécurité compétent de la manière détaillée dans l'annexe 130-A.3.
+― plan de charpente avant et de charpente arrière ;
 
-8. Préalablement à la délivrance des titres de sécurité de durée inférieure à la durée maximale prévue, la commission formule dans ses avis les prescriptions dont elle estime indispensable la réalisation. La commission peut, en outre, requérir un délai d'étude supplémentaire avant d'émettre un avis ne s'opposant pas à la délivrance des titres.
+― plan de structure générale ;
 
-9. Elle procède de même en vue de la délivrance des titres définitifs de sécurité.
+― plan des panneaux d'écoutilles avec les charges à considérer ;
+
+― plans et documents relatifs à la construction et à l'étanchéité de la timonerie.
+
+3. Les documents sont datés et portent la mention de leur origine ainsi que leur indice de révision. Les renseignements exigés par deux ou plusieurs des rubriques ci-dessus peuvent être réunis sur un même document, sous réserve que leur clarté et leur lisibilité ne soient pas affectées par une telle disposition.
+
+4. L'exploitant du navire présente à la commission d'étude ou de visite une attestation d'intervention de la société de classification habilitée (cf. modèle annexe 130-A.6) ainsi que les plans requis au paragraphe 2, visés et accompagnés du rapport d'examen de la société de classification, indiquant les limites de service et particulièrement la puissance propulsive maximale continue que la structure du navire peut supporter.

@@ -64,8 +64,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>Pêche arts dormants et encerclants (senne, bolinche) </p>
+<p>Pêche arts dormants et encerclants (senne, bolinche) </p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -74,8 +73,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>Pêche arts traînants (drague, chalut) (1)</p>
+<p>Pêche arts traînants (drague, chalut) (1)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -309,6 +307,7 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -373,12 +372,12 @@ Lors de la première visite périodique après le 1er octobre 2012, la périodic
 
 6. Le critère d'évaluation est calculé au jour de la visite périodique.
 
-7. Sous réserve de l'échéance de l'inspection de la carène (l'article 130.50), la périodicité est définie de la manière suivante :
+7. Sous réserve de l'échéance de l'inspection de la carène (art. 130.56), la périodicité est définie de la manière suivante :
 
 - navire ayant un critère d'évaluation inférieur ou égal à 5. La durée de validité du permis de navigation est de cinq ans maximum ;
 
-- navire ayant un critère d'évaluation compris entre 6 et 9. La durée de validité du permis de navigation est de 2,5 ans maximum ;
+- navire ayant un critère d'évaluation compris entre 6 et 9. La durée de validité du permis de navigation est de deux ans et demi maximum ;
 
-- navire ayant un critère d'évaluation supérieur ou égal à 10. La durée de validité du permis de navigation est d'un maximum.
+- navire ayant un critère d'évaluation supérieur ou égal à 10. La durée de validité du permis de navigation est d'un an maximum.
 
 8. Il revient à l'exploitant du navire de solliciter le centre de sécurité des navires, pour la réalisation de la visite périodique, au minimum un mois avant l'échéance du permis de navigation.

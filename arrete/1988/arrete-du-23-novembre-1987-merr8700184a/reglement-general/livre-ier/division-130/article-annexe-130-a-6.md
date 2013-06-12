@@ -2,99 +2,79 @@
 
 MODÈLE D'ATTESTATION D'INTERVENTION D'UNE SOCIÉTÉ DE CLASSIFICATION HABILITÉE
 
-Attestation d'intervention d'une société de classification habilitée.
+Attestation d'intervention d'une société de classification habilitée
 
-Article 130.26, article 130.27, article 130.28 de la division 130 du règlement annexé à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires
+Article 130.32, article 130.33, article 130.34 de la division 130 du règlement
+
+annexé à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires
 
 <table>
 <tbody>
 <tr>
-<td width="302">
-<p>Nom du navire </p>
+<td width="340">
+<p align="left">Nom du navire</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Immatriculation </p>
+<td width="340">
+<p align="left">Immatriculation </p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Référence registre d'une société de classification (si requis) </p>
+<td width="340">
+<p align="left">Référence registre d'une société de classification (si requis)</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Type de navire </p>
+<td width="340">
+<p align="left">Type de navire</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Jauge brute </p>
+<td width="340">
+<p>Jauge brute</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Longueur hors tout </p>
+<td width="340">
+<p align="left">Longueur hors tout</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Nombre équipage </p>
+<td width="340">
+<p>Nombre équipage</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Nombre passagers </p>
+<td width="340">
+<p align="left">Nombre passagers</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Nombre personnel spécial </p>
+<td width="340">
+<p>Nombre du personnel spécial </p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Date prévue de pose de quille </p>
+<td width="340">
+<p align="left">Date prévue de pose de quille</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Type d'exploitation </p>
+<td width="340">
+<p>Type d'exploitation</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="340">.</td>
 </tr>
 </tbody>
 </table>
@@ -104,36 +84,28 @@ Article 130.26, article 130.27, article 130.28 de la division 130 du règlement 
 <table>
 <tbody>
 <tr>
-<td width="302">
-<p>Nom de la société de classification </p>
+<td width="337">
+<p align="left">Nom de la société de classification</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="337">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Coordonnées de la société de classification </p>
+<td width="337">
+<p align="left">Coordonnées de la société de classification</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="337">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Nom de l'exploitant du navire </p>
+<td width="337">
+<p align="left">Nom de l'exploitant du navire</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="337">.</td>
 </tr>
 <tr>
-<td width="302">
-<p>Coordonnées de l'exploitant du navire </p>
+<td width="337">
+<p align="left">Coordonnées de l'exploitant du navire</p>
 </td>
-<td width="378">
-<br/>
-</td>
+<td width="337">.</td>
 </tr>
 </tbody>
 </table>
@@ -144,133 +116,133 @@ Article 130.26, article 130.27, article 130.28 de la division 130 du règlement 
 <tbody>
 <tr>
 <td rowspan="16" valign="top" width="224">
-<p>Domaines techniques suivis par la société de classification au titre de l'article 130.26 </p>
+<p align="left">Domaines techniques suivis par la société de classification au titre de l'article 130.32</p>
 </td>
 <td width="374">
-<p align="center">Construction de la coque</p>
+<p align="left">Construction de la coque</p>
 </td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Compartimentage</p>
+<p align="left">Compartimentage</p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Stabilité à l'état intact</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Stabilité après avarie</p>
+<p align="left">Stabilité à l'état intact</p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Installations de mouillage</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Machine</p>
+<p align="left">Stabilité après avarie</p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Chaudières</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Installations frigorifiques</p>
+<p align="left">Installations de mouillage</p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Installations hydrauliques</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Installations électriques</p>
+<p align="left">Machine</p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Prévention contre l'incendie : protection</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Prévention contre l'incendie : détection</p>
+<p align="left">Chaudières</p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Prévention contre l'incendie : extinction</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Prévention contre l'incendie : ventilation</p>
+<p align="left">Installations frigorifiques </p>
 </td>
-<td width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="374">
-<p align="center">Evacuation</p>
-</td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="374">
-<p align="center">Prévention de la pollution</p>
+<p align="left">Installations hydrauliques</p>
 </td>
-<td width="74">
-<br/>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Installations électriques</p>
+</td>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Prévention contre l'incendie : protection</p>
+</td>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Prévention contre l'incendie : détection</p>
+</td>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Prévention contre l'incendie : extinction</p>
+</td>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Prévention contre l'incendie : ventilation</p>
+</td>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Evacuation</p>
+</td>
+<td width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="374">
+<p align="left">Prévention de la pollution</p>
+</td>
+<td width="75">
+<p align="left">.</p>
 </td>
 </tr>
 </tbody>
@@ -282,21 +254,21 @@ Article 130.26, article 130.27, article 130.28 de la division 130 du règlement 
 <tbody>
 <tr>
 <td rowspan="2" valign="top" width="224">
-<p>Navires "délégués" </p>
+<p align="left">Navires "délégués" </p>
 </td>
-<td valign="top" width="374">
-<p>Etudes et visites réalisées conformément à la division 215 </p>
+<td width="374">
+<p align="left">Etudes et visites réalisées conformément à la division 215</p>
 </td>
 <td width="75">
-<br/>
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="374">
-<p>Etudes et visites réalisées conformément à la division 217 </p>
+<td width="374">
+<p align="left">Etudes et visites réalisées conformément à la division 217</p>
 </td>
 <td width="75">
-<br/>
+<p align="left">.</p>
 </td>
 </tr>
 </tbody>
@@ -308,23 +280,23 @@ Article 130.26, article 130.27, article 130.28 de la division 130 du règlement 
 <tbody>
 <tr>
 <td colspan="2" width="676">
-<p align="center">APPROBATION DE LA STRUCTURE AU TITRE DE L'ARTICLE 130.27</p>
+<p align="center">APPROBATION DE LA STRUCTURE AU TITRE DE L'ARTICLE 130.33</p>
 </td>
 </tr>
 <tr>
-<td width="225">
-<p>Caractéristiques de service et de navigation </p>
+<td width="338">
+<p align="left">Caractéristiques de service et de navigation</p>
 </td>
-<td width="449">
-<br/>
+<td width="337">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
-<td width="225">
-<p>Puissance propulsive prise en compte </p>
+<td width="338">
+<p align="left">Puissance propulsive prise en compte</p>
 </td>
-<td width="449">
-<br/>
+<td width="337">
+<p align="left">.</p>
 </td>
 </tr>
 </tbody>
@@ -336,37 +308,37 @@ Article 130.26, article 130.27, article 130.28 de la division 130 du règlement 
 <tbody>
 <tr>
 <td rowspan="4" valign="top" width="224">
-<p>Navires à passagers suivis par la société de classification au titre de l'article 130.28 </p>
+<p align="left">Navires à passagers suivis par la société de classification au titre de l'article 130.34</p>
 </td>
-<td width="373">
-<p align="center">Construction et entretien de la coque</p>
+<td valign="top" width="373">
+<p align="left">Construction et entretien de la coque</p>
 </td>
-<td width="75">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="373">
-<p align="center">Machines principales et auxiliaires</p>
-</td>
-<td width="75">
-<br/>
+<td valign="top" width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
-<td width="373">
-<p align="center">Installation électriques</p>
+<td valign="top" width="373">
+<p align="left">Machines principales et auxiliaires</p>
 </td>
-<td width="75">
-<br/>
+<td valign="top" width="75">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
-<td width="373">
-<p align="center">Automatismes</p>
+<td valign="top" width="373">
+<p align="left">Installations électriques</p>
 </td>
-<td width="75">
-<br/>
+<td valign="top" width="75">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="373">
+<p align="left">Automatismes</p>
+</td>
+<td valign="top" width="75">
+<p align="left">.</p>
 </td>
 </tr>
 </tbody>
@@ -378,27 +350,42 @@ Article 130.26, article 130.27, article 130.28 de la division 130 du règlement 
 <tbody>
 <tr>
 <td width="227">
-<p>Visa de la société de classification </p>
+<p align="left">Visa de la société de classification</p>
 </td>
-<td width="454">
-<br/>
+<td width="378">
+<p align="left">.</p>
 </td>
-</tr>
-<tr>
-<td width="227">
-<p>Date </p>
-</td>
-<td width="454">
-<br/>
+<td width="76">
+<p align="left">.</p>
 </td>
 </tr>
 <tr>
 <td width="227">
-<p>Lieu </p>
+<p align="left">Date</p>
 </td>
-<td width="454">
-<br/>
+<td width="378">
+<p align="left">.</p>
+</td>
+<td width="76">
+<p align="left">.</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p align="left">Lieu</p>
+</td>
+<td width="378">
+<p align="left">.</p>
+</td>
+<td width="76">
+<p align="left">.</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+
+<div align="left"/>
+<div align="left"/>

@@ -19,12 +19,15 @@ Disposition applicable pour tout navire dont les titres et certificats sont dél
 <table>
 <tbody>
 <tr>
-<th>DOCUMENTS <br/>
-</th>
-<th>ÉTUDE <br/>
-</th>
-<th>VISA <br/>
-</th>
+<td>
+<p align="center"> DOCUMENTS </p>
+</td>
+<td>
+<p align="center"> ÉTUDE </p>
+</td>
+<td>
+<p align="center"> VISA </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -310,12 +313,15 @@ Disposition applicable pour tout navire dont les titres et certificats sont dél
 <table>
 <tbody>
 <tr>
-<th>CERTIFICATS SPÉCIFIQUES <br/>
-</th>
-<th>ÉTUDE <br/>
-</th>
-<th>VISA <br/>
-</th>
+<td>
+<p align="center"> CERTIFICATS SPÉCIFIQUES </p>
+</td>
+<td>
+<p align="center"> ÉTUDE </p>
+</td>
+<td>
+<p align="center"> VISA </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -365,12 +371,16 @@ Disposition applicable pour tout navire dont les titres et certificats sont dél
 <table>
 <tbody>
 <tr>
-<th>CERTIFICATS D'EXEMPTION DES NAVIRES DONT LA DÉLIVRANCE <br/>des titres relève de la compétence d'une société de classification habilitée (SCH) <br/>
-</th>
-<th>AVIS CONFORME <br/>
-</th>
-<th>VISA <br/>
-</th>
+<td>
+<p align="center"> CERTIFICATS D'EXEMPTION DES NAVIRES DONT LA DÉLIVRANCE <br/>des titres relève de la compétence d'une société de classification habilitée (SCH) <br/>
+</p>
+</td>
+<td>
+<p align="center"> AVIS <br/>CONFORME </p>
+</td>
+<td>
+<p align="center"> VISA </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -378,12 +388,10 @@ Disposition applicable pour tout navire dont les titres et certificats sont dél
 </p>
 </td>
 <td align="center">
-<p align="left">CCS <br/>
-</p>
+<p align="center">CCS</p>
 </td>
 <td align="center">
-<p align="left">SCH <br/>
-</p>
+<p align="center">SCH</p>
 </td>
 </tr>
 <tr>
@@ -391,10 +399,8 @@ Disposition applicable pour tout navire dont les titres et certificats sont dél
 <p align="left">Renouvellement des certificats d'exemption <br/>
 </p>
 </td>
-<td align="center">SCH <br/>
-</td>
-<td align="center">SCH <br/>
-</td>
+<td align="center">SCH</td>
+<td align="center">SCH</td>
 </tr>
 </tbody>
 </table>
@@ -404,12 +410,16 @@ Disposition applicable pour tout navire dont les titres et certificats sont dél
 <table>
 <tbody>
 <tr>
-<th>CERTIFICATS D'EXEMPTIONS DES NAVIRES DONT LA DÉLIVRANCE <br/>des titres relève de la compétence de l'administration <br/>
-</th>
-<th>AVIS <br/>
-</th>
-<th>VISA <br/>
-</th>
+<td>
+<p align="center"> CERTIFICATS D'EXEMPTIONS DES NAVIRES DONT LA DÉLIVRANCE <br/>des titres relève de la compétence de l'administration <br/>
+</p>
+</td>
+<td>
+<p align="center"> AVIS</p>
+</td>
+<td>
+<p align="center">VISA</p>
+</td>
 </tr>
 <tr>
 <td align="center">

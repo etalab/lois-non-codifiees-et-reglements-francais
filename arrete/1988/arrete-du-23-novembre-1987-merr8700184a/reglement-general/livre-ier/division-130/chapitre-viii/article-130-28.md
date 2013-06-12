@@ -1,7 +1,19 @@
 # Article 130.28
 
-Navires à passagers.
+Mesure de fin de suspension des titres de sécurité.
 
-Sans préjudice des dispositions de l'article 130.26 et de l'article  130.27, la construction et l'entretien de la coque, des machines  principales et auxiliaires, des installations électriques et  automatiques de tous les navires à passagers concernés par l'article 6  de la directive 2009/45/ CE et de tous les autres navires à passagers  doivent satisfaire aux normes spécifiées en vue de la classification  suivant les règles d'une société de classification habilitée.
+La suspension produit effet, selon le cas, dans la limite de trois mois :
 
-L'exploitant  du navire présente à la commission d'étude ou de visite une attestation  d'intervention de la société de classification habilitée (cf. modèle  annexe 130-A. 6).
+1. Jusqu'à ce que le navire soit à nouveau conforme aux conditions de délivrance du ou des titres et certificats.
+
+2. Jusqu'à ce que la réparation ait été signalée et estimée satisfaisante.
+
+3. Jusqu'à nouvelle attribution de classe.
+
+4. Jusqu'à l'exécution de la prescription visée au 1.3.
+
+5. Jusqu'à la restitution du document de conformité au code ISM ou la délivrance d'un nouveau document de conformité à ce code.
+
+Après vérification que le navire satisfait à nouveau aux conditions de délivrance du titre de sécurité ou de prévention de la pollution, le chef du centre de sécurité des navires ou la société de classification habilitée notifient au propriétaire et au capitaine du navire la fin de la mesure de suspension.
+
+Il est mis fin à la mesure de suspension, selon le cas, dans les conditions mentionnés aux 1° à 5° ou après que la visite spéciale a été effectuée.

@@ -1,21 +1,15 @@
 # Article 130.15
 
-Processus de transfert pour les navires.
+Délivrance d'un certificat de jaugeage pour un navire d'une longueur inférieure à 15 mètres.
 
-Les titres sont délivrés par une société de classification habilitée au sens du paragraphe I (1°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié.
+En application de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, le certificat de jaugeage d'un navire d'une longueur hors tout inférieure à 15 mètres est délivré par le chef de centre de sécurité des navires ou son délégué.
 
-A la date de publication du présent règlement, les navires entrant dans le champ d'application du paragraphe I (1°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié sont soumis à la procédure de transfert suivante :
+Les demandes de jaugeage s'effectuent conformément aux dispositions de l'article 130.7 de la présente division. Chaque demande doit comprendre, a minima, les éléments suivants :
 
-Quatre mois avant l'échéance du premier visa ou renouvellement de l'un des titres de sécurité ou certificats de prévention de la pollution, l'exploitant du navire transmet au centre de sécurité des navires compétent le nom et les coordonnées de la société de classification habilitée qu'il a choisie.
+1. Le support de la demande, constitué par la déclaration dont le modèle figure à l'annexe 130. A. 4 de la présente division ;
 
-Trois mois avant l'échéance du premier visa ou renouvellement de l'un des titres de sécurité ou certificats de prévention de la pollution, le centre de sécurité des navires compétent adresse à la société de classification habilitée, choisie par l'exploitant du navire, les éléments suivants :
+2. Le document préparatoire à la délivrance d'un certificat national de jaugeage des navires dont le modèle figure à l'annexe 210. A. 4 de la division 210.
 
-- rapport de visite de mise en service ;
+Une copie de la demande est adressée par l'autorité compétente au service des douanes du lieu de construction du navire lorsque celui-ci est construit en France ou à celui choisi comme port d'attache par le propriétaire dans les autres cas, en application de l'article L. 5114-2 du code des transports et de l'article 5 du décret n° 67-967 du 27 octobre 1967 relatif au statut des navires.
 
-- dernier rapport de visite annuelle ;
-
-- dernier rapport de visite ayant conduit au renouvellement des certificats internationaux ;
-
-- procès-verbaux de la commission centrale de sécurité ;
-
-- copie des certificats internationaux en cours de validité.
+Une copie du certificat de jaugeage est adressée par l'autorité compétente au bureau de douane où est francisé le navire.

@@ -1,8 +1,8 @@
 # Article 120.10
 
-Titres et certificats délivrés en application de la directive 2009/45/CE
+Titres et certificats délivrés en application de la directive 97/70/CE
 
-Le présent article ne s'applique qu'aux navires à passagers effectuant une navigation nationale ou une navigation nationale à l'étranger dans les eaux communautaire.
+Le présent article ne s'applique qu'aux navires de pêche d'une longueur supérieure ou égale à 24 mètres.
 
 <div align="left">
 <table>
@@ -19,16 +19,30 @@ Le présent article ne s'applique qu'aux navires à passagers effectuant une nav
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Certificat de sécurité pour navire à passagers</p>
+<td valign="top" width="175">
+<p>Certificat de conformité (pour navire de pêche L &gt; 24 m)</p>
 </td>
-<td align="left" valign="top">
-<p align="left">Directive 98/18/CE<br/>Directive 2009/45/CE<br/>Directive 2010/36/CE</p>
+<td valign="top" width="226">
+<p>Directive 97/70/CE</p>
 </td>
-<td align="left" valign="top">
-<p align="left">Tout navire à passager effectuant une navigation nationale ou une navigation nationale à l'étranger dans les eaux communautaires</p>
+<td valign="top" width="205">
+<p>navires de pêche d'une longueur supérieure ou égale à 24 mètres.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="175">
+<p>Fiche d'équipement pour le certificat de conformité (pour navire de pêche L &gt; 24 m)</p>
+</td>
+<td valign="top" width="226">
+<p>Directive 97/70/CE</p>
+</td>
+<td valign="top" width="205">
+<p>navires de pêche d'une longueur supérieure ou égale à 24 mètres.</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>

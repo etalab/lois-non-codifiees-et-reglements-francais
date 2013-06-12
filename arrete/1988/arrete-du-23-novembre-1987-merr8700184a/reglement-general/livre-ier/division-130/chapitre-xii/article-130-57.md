@@ -1,5 +1,5 @@
 # Article 130.57
 
-Systèmes d'information.
+Délivrance et renouvellement des titres de sécurité.
 
-Le système d'information GINA doit être validé après chaque visite de mise en service, périodique, inopinée, sur réclamation de l'équipage et spéciale par le président de la commission de visite.
+Le chef du centre de sécurité des navires compétent peut autoriser la délivrance ou le renouvellement des titres de sécurité et de prévention de la pollution des navires se trouvant à l'étranger. Dans ce cas, l'autorité consulaire procède à cette délivrance ou à ce renouvellement. Elle peut toutefois déléguer cette compétence aux présidents des commissions de visite ou au représentant d'une société de classification habilitée.

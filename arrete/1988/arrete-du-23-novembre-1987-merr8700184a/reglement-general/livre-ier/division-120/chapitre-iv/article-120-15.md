@@ -1,29 +1,37 @@
 # Article 120.15
 
-Certificat délivré en application des dispositions de la division 333
+Certificat national de jaugeage
+
+Tout navire, s'il n'est pas soumis à l'obligation de détenir un certificat international de jauge, est muni d'un certificat national de jaugeage :
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="175">
-<p>Intitulé du certificat</p>
+<td>
+<p align="center"> INTITULÉ DU CERTIFICAT </p>
 </td>
-<td valign="top" width="226">
-<p>Textes de référence</p>
+<td>
+<p align="center"> TEXTES DE RÉFÉRENCE </p>
 </td>
-<td valign="top" width="205">
-<p>Navires concernés</p>
+<td>
+<p align="center"> NAVIRES CONCERNÉS </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="175">
-<p>Certificat d'inspection d'une embarcation de sauvetage </p>
+<td align="center">
+<p align="left">
+<br/>Certificat national de jaugeage des navires <br/>
+</p>
 </td>
-<td valign="top" width="226">
-<p>Division 333</p>
+<td align="center">
+<br/>Division 210 <br/>
 </td>
-<td valign="top" width="205">
-<p>Embarcations de sauvetage, lorsqu'elles sont utilisées comme annexes (tender) sur les navires à passagers comme moyen de liaison entre le bord et la terre ou lorsqu'elles sont utilisées à fin de promenade.</p>
+<td align="center">
+<p align="left">
+<br/>Tout navire (hors plaisance) d'une longueur égale ou supérieure à 15 m </p>
+<p align="left">Tout navire de plaisance à usage personnel ou de formation d'une longueur égale ou supérieure à 24 m </p>
+<p align="left">Tout navire de plaisance à utilisation commerciale d'une longueur égale ou supérieure à 15 m <br/>
+</p>
 </td>
 </tr>
 </tbody>
