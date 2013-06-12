@@ -34,12 +34,12 @@ j) Deux techniciens de deux sociétés de classification habilitées différente
 
 k) Un représentant de l'Union des chantiers navals ;
 
-l) Deux titulaires de brevets permettant le commandement de navires à utilisation commerciale ;
+l) Deux titulaires de brevets permettant le commandement de navires de plaisance à utilisation commerciale ;
 
 m) Pour des questions relatives à la réglementation ou au contrôle de la sécurité des navires, le chef du bureau de la réglementation et de la sécurité des navires ;
 
 n) Deux représentants des organisations syndicales des gens de mer les plus représentatives sur le plan national.
 
-Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers. Le     ministre chargé de la mer  nomme pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leurs suppléants. Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur proposition de ces groupements ou organisations.
+Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers. Le ministre chargé de la mer nomme pour une durée de trois ans renouvelable les membres de la commission autres que les membres de droit et leurs suppléants. Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur proposition de ces groupements ou organisations.
 
-Le     ministre chargé de la mer  désigne en tant que de besoin, à titre d'experts, des représentants de groupements ou d'organismes compétents.
+Le ministre chargé de la mer désigne en tant que de besoin, à titre d'experts, des représentants de groupements ou d'organismes compétents.

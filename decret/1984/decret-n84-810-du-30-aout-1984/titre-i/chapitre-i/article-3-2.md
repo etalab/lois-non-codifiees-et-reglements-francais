@@ -10,6 +10,6 @@ II. - Pour les autres catégories de navires, le certificat d'exemption est dél
 
 2° Par le directeur interrégional de la mer, si sa durée de validité est supérieure ou égale à six mois et si les plans et documents ont été soumis à la commission régionale de sécurité ;
 
-3° Par le chef du centre de sécurité des navires compétent ou son délégué, si sa durée de validité est inférieure à six mois.
+3° Par le chef du centre de sécurité des navires compétent, si sa durée de validité est inférieure à six mois.
 
 Il est renouvelé par le chef du centre de sécurité des navires ou son délégué.

@@ -8,13 +8,13 @@ I.-Elles examinent :
 
 1.1. De tout navire à passagers ne relevant pas de la commission centrale de sécurité ;
 
-1.2. De tout navire spécial de charge ou de pêche d'une longueur supérieure ou égale à 12 mètres ne relevant pas de la commission centrale de sécurité ;
+1.2. De tout navire spécial de charge ou de pêche d'une longueur supérieure ou égale à 12 mètres ne relevant pas de la commission centrale de sécurité, à l'exception des navires relevant, en application du 1° du I de l'article 3-1, de la compétence des sociétés de classification habilitées ;
 
-1.3. Relatifs aux dispositions spécifiques applicables à tout navire à utilisation collective d'une longueur inférieure à 24 mètres et supérieure ou égale à 12 mètres, autre que ceux visés au 2 du I de l'article 17 ;
+1.3. Relatifs aux dispositions spécifiques applicables à tout navire à utilisation commerciale d'une longueur inférieure à 24 mètres et supérieure ou égale à 12 mètres, autre que ceux mentionnés au 4° du I de l'article 17 ;
 
 1.4. Des mêmes navires en cas de mise en refonte, de travaux importants, de modifications ou de réparations susceptibles d'affecter leur niveau de sécurité ou de prévention de la pollution.
 
-2. En vue de leur approbation par le    directeur interrégional de la mer, les documents nécessaires aux navires mentionnés ci-dessus quand, en application des conventions internationales ou des prescriptions du présent décret ou des arrêtés pris pour son application, ces études et documents doivent être approuvés.
+2. En vue de leur approbation par le directeur interrégional de la mer, les documents nécessaires aux navires mentionnés ci-dessus quand, en application des conventions internationales ou des prescriptions du présent décret ou des arrêtés pris pour son application, ces études et documents doivent être approuvés.
 
 2 bis. En vue de leur adoption par le ministre chargé de la mer, les mesures particulières de sécurité mentionnées au VI de l'article 55 du présent décret.
 

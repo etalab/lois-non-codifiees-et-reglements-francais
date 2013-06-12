@@ -8,7 +8,7 @@ I.-Elle examine :
 
 1.1. De tout navire à passagers d'une jauge brute égale ou supérieure à 500 ou destiné à effectuer soit des voyages internationaux, soit des voyages nationaux à plus de vingt milles ;
 
-1.2. De tout navire de charge ou navire spécial d'une jauge brute égale ou supérieure à 500 et destiné à effectuer soit des voyages internationaux, soit des voyages nationaux à plus de vingt milles ;
+1.2. De tout navire de charge ou navire spécial d'une jauge brute égale ou supérieure à 500 et destiné à effectuer soit des voyages internationaux, soit des voyages nationaux à plus de vingt milles, à l'exception des navires relevant, en application du 1° du I de l'article 3-1, de la compétence des sociétés de classification habilitées ;
 
 1.3. De tout navire de pêche d'une longueur égale ou supérieure à 45 mètres ;
 

@@ -4,21 +4,27 @@ Pour l'application du présent décret :
 
 I.-Les types fondamentaux de navires sont définis comme suit :
 
-1. Navire à passagers : tout navire qui transporte plus de douze passagers. Sont exclus de cette définition les navires à voile qui ne transportent pas plus de trente personnes.
+1. Navire à passagers : tout navire, autre qu'un navire de plaisance à utilisation commerciale, qui transporte plus de douze passagers.
 
 2. Navire de pêche : tout navire utilisé à des fins commerciales pour la capture et le traitement des poissons, des autres animaux marins, la récolte des végétaux marins ou l'exploitation des ressources vivantes de la mer.
 
 3. Navires de plaisance :
 
-3.1. Navire à usage personnel : tout navire utilisé à titre privé par son propriétaire, une association à but non lucratif, un locataire qui en a l'entière disposition ou un emprunteur à titre gratuit, pour une navigation touristique ou sportive ;
+3.1. Navire de plaisance à usage personnel : tout navire de plaisance utilisé à titre privé par son propriétaire, une association à but non lucratif, un locataire qui en a l'entière disposition ou un emprunteur à titre gratuit, pour une navigation de loisir ou de sport, sans qu'il puisse être utilisé pour une activité commerciale à l'exception de l'affichage de messages de parrainage ;
 
-3.2. Navire de formation : tout navire utilisé dans le cadre des activités :
+3.2. Navire de plaisance de formation : tout navire de plaisance utilisé dans le cadre des activités :
 
--d'un centre nautique ou subaquatique soumis aux dispositions de l'article L. 322-3 du code du sport ;
+a) D'un centre nautique ou subaquatique soumis au régime déclaratif prévu à l'article R. 322-1 du code du sport ;
 
--d'un établissement de formation agréé visant à l'obtention des titres permettant la conduite des navires de plaisance ;
+b) D'un établissement de formation agréé visant à l'obtention des titres permettant la conduite des navires de plaisance ;
 
-3.3. Navire de plaisance à utilisation commerciale : tout navire de plaisance sur lequel sont embarqués, dans des conditions définies par arrêté du ministre chargé de la mer, sous la responsabilité du propriétaire, de son représentant ou de son préposé, lui-même embarqué, des passagers effectuant une navigation touristique ou sportive. Cette navigation exclut toute exploitation d'une ligne régulière.
+3.3. Navire de plaisance à utilisation commerciale : tout navire de plaisance utilisé pour une prestation commerciale d'embarquement de passagers au sens du 4 du II du présent article, dans les conditions suivantes :
+
+a) Le navire est placé sous la responsabilité de l'armateur ou de son représentant, le capitaine ;
+
+b) Le navire effectue une navigation touristique ou sportive, à l'exclusion de toute exploitation d'une ligne régulière ;
+
+c) Le nombre de passagers pouvant être admis à bord est limité dans des conditions définies par arrêté du ministre chargé de la mer en fonction de la configuration du navire et du type de voyage, sans pouvoir excéder douze passagers sur un navire à propulsion mécanique et trente passagers sur un navire à voile, sauf s'il s'agit d'un navire à voile historique conçu avant 1965 ou de la réplique individuelle d'un tel navire, sur lequel le nombre de passagers n'excède pas cent vingt ;
 
 4. Navire de charge : tout navire autre qu'un navire à passagers, un navire de pêche ou un navire de plaisance.
 
@@ -68,11 +74,7 @@ N'entrent pas en compte, dans le nombre de passagers, les personnes qui se trouv
 
 17. Longueur de référence : 96 p. 100 de la longueur totale à la flottaison, située à une distance de la ligne de quille égale à 85 p. 100 du creux minimal ou à la distance entre la face avant de l'étrave et l'axe de la mèche du gouvernail à cette flottaison si cette valeur est supérieure. Dans le cas des navires conçus avec une quille inclinée, la flottaison à laquelle la longueur est mesurée doit être parallèle à la flottaison en charge prévue.
 
-18. Jauge brute : la jauge déduite du volume de l'ensemble des espaces du navire limités par la coque, les cloisons et les ponts, conformément à la convention internationale de 1969 sur le jaugeage des navires ; elle s'exprime par un chiffre sans unité.
-
-L'expression " tonneaux de jauge brute ", quand elle est utilisée dans les arrêtés pris en application du présent décret ainsi que dans les conventions, recueils de règles et autres documents de l'Organisation maritime internationale relatifs à la sécurité des navires et à la prévention de la pollution, est considérée comme signifiant également " jauge brute de... " calculée conformément aux dispositions de ladite convention.
-
-Pour tout navire jaugé différemment en application de règles nationales, la jauge brute exprimée sans unité dans le décret et les arrêtés pris pour son application est considérée comme représentative des volumes exprimés en tonneaux sur le certificat national de jauge.
+18. Jauge brute : la jauge résulte du calcul du volume de l'ensemble des espaces du navire limités par la coque, les cloisons et les ponts, conformément aux dispositions de la convention sur le jaugeage des navires, faite à Londres le 23 juin 1969 ou du règlement (CE) n° 2930/86 du Conseil du 22 septembre 1986 définissant les caractéristiques des navires de pêche. La jauge est exprimée sans unité.
 
 19. Equipement marin : tout appareil ou engin de sécurité ou de prévention de la pollution ainsi que tout autre dispositif, installation ou matériau qui doivent être montés à bord d'un navire autre que de plaisance quand, en application des conventions internationales ou des prescriptions du présent décret ou des arrêtés pris pour son application, ces équipements doivent être d'un type approuvé.
 

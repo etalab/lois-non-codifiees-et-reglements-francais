@@ -4,9 +4,9 @@ Chaque commission régionale de sécurité comprend :
 
 I.-Des membres de droit, à savoir :
 
-a) Le directeur interrégional de la mer ou son délégué, président ;
+a) Le directeur interrégional de la mer ou son représentant, président ;
 
-b) L'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes  ayant instruit le dossier examiné.
+b) L'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ayant instruit le dossier examiné.
 
 II. - Des membres nommés :
 

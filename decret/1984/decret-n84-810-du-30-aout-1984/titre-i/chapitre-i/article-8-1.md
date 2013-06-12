@@ -32,7 +32,7 @@ II. - La suspension produit effet, selon le cas, dans la limite de trois mois :
 
 III. - Après vérification que le navire satisfait à nouveau aux conditions de délivrance du titre de sécurité ou de prévention de la pollution, le chef du centre de sécurité des navires ou la société de classification habilitée, notifient au propriétaire et au capitaine du navire la fin de la mesure de suspension.
 
-IV. - Pour les navires ne disposant pas de titres et certificats internationaux de sécurité et de prévention de la pollution, à l'exception du certificat international de prévention de la pollution de l'atmosphère par les moteurs, le permis de navigation est suspendu lorsque le chef du centre de sécurité des navires ou son délégué constate l'un des manquements mentionnés aux 2° à 5° du I ou lorsqu'il est fait obstacle à l'accomplissement par l'autorité administrative compétente d'une visite spéciale. Les dispositions du I sont applicables.
+IV. - Pour les navires ne disposant pas de titres et certificats internationaux de sécurité et de prévention de la pollution, à l'exception du certificat international de prévention de la pollution de l'atmosphère par les moteurs, le permis de navigation est suspendu lorsque le chef du centre de sécurité des navires constate l'un des manquements mentionnés aux 2° à 5° du I ou lorsqu'il est fait obstacle à l'accomplissement par l'autorité administrative compétente d'une visite spéciale. Les dispositions du I sont applicables.
 
 Il est mis fin à la mesure de suspension, selon le cas, dans les conditions fixées au II ou après que la visite spéciale a été effectuée.
 

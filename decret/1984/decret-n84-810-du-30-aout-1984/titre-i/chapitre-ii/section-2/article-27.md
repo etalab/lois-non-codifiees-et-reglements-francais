@@ -6,11 +6,11 @@ II. - Lorsque la délivrance des titres et certificats relève de l'autorité ad
 
 Une commission de visite est constituée dans chacun des centres de sécurité des navires.
 
-Le chef du centre de sécurité des navires compétent ou son délégué désigne les membres de la commission de visite périodique, dans les conditions arrêtées par le ministre chargé de la mer.
+Le chef du centre de sécurité des navires compétent désigne les membres de la commission de visite périodique, dans les conditions arrêtées par le ministre chargé de la mer.
 
 III. - Chaque commission de visite périodique comprend :
 
-a) Le chef du centre de sécurité des navires ou son délégué, président. Il peut être accompagné de un ou deux inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes.
+a) Le chef du centre de sécurité des navires ou son représentant, président. Il peut être accompagné de un ou deux inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes.
 
 b) Pour les navires munis d'une installation radioélectrique, un représentant de l'Agence nationale des fréquences dans les conditions arrêtées par le ministre chargé de la mer selon les catégories de navires ;
 

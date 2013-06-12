@@ -2,7 +2,7 @@
 
 I. - Les sociétés de classification agréées par la Commission européenne en application du règlement (CE) n° 391/2009 du Parlement européen et du Conseil du 23 avril 2009 établissant des règles et normes communes concernant les organismes habilités à effectuer l'inspection et la visite des navires sont habilitées par le ministre chargé de la mer dans des conditions définies par arrêté. Elles doivent notamment disposer d'un établissement stable et d'une représentation effective sur le territoire français.
 
-Elles délivrent, visent, renouvellent, suspendent et retirent les titres de sécurité et de prévention de la pollution mentionnés au I de l'article 3-1 en toute indépendance à l'égard de leurs cocontractants. A cet effet, il ne doit exister aucun lien de préposition ou de subordination, de droit ou de fait, entre la société de classification habilitée et le constructeur, le propriétaire ou l'exploitant du navire, sous peine de nullité des titres.
+Elles délivrent, visent, renouvellent, suspendent et retirent les titres de sécurité et de prévention de la pollution mentionnés au I et II de l'article 3-1 en toute indépendance à l'égard de leurs cocontractants. A cet effet, il ne doit exister aucun lien de préposition ou de subordination, de droit ou de fait, entre la société de classification habilitée et le constructeur, le propriétaire ou l'exploitant du navire, sous peine de nullité des titres.
 
 Elles disposent des prérogatives de puissance publique nécessaires à l'accomplissement de leur mission de service public.
 

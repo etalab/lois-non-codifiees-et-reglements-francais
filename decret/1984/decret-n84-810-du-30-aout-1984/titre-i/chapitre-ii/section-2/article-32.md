@@ -1,6 +1,6 @@
 # Article 32
 
-I. - Une visite spéciale peut être organisée par le chef de centre de sécurité des navires ou son délégué :
+I. - Une visite spéciale peut être organisée par le chef de centre de sécurité des navires ou son représentant :
 
 1° A la demande de l'autorité administrative compétente :
 
@@ -25,6 +25,8 @@ i) D'une manière générale, pour répondre à toute question spécifique en ma
 j) Pour délivrer des titres provisoires, au titre de l'article 10, aux navires visés à l'article 25-2 ;
 
 k) Pour répondre à toute question spécifique relative à la sécurité et la prévention de la pollution suite à inspection par l'Etat du port ;
+
+l) Pour recalculer la jauge d'un navire d'une longueur inférieure à 15 mètres, suivant les modalités définies par arrêté du ministre chargé de la mer.
 
 2° A la demande du propriétaire, de l'exploitant ou du constructeur du navire, pour examiner la bonne réalisation des prescriptions d'une visite.
 

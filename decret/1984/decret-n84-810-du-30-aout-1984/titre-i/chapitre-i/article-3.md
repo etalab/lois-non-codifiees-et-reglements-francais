@@ -1,15 +1,17 @@
 # Article 3
 
-I.-Les titres de sécurité et les certificats de prévention de la pollution mentionnés à l'article L. 5241-3 du code des transports comprennent :
+I.-Les titres de sécurité et les certificats de prévention de la pollution mentionnés aux articles L. 5112-2 et L. 5241-3 du code des transports comprennent :
 
-1° Les certificats internationaux de sécurité et de prévention de la pollution ou, le cas échéant, les certificats d'exemption, prévus par les conventions internationales pertinentes ;
+1° Les certificats internationaux de sécurité et de prévention de la pollution ou, le cas échéant, les certificats d'exemption, prévus par les conventions internationales ;
 
-2° Les titres et certificats prévus par les directives et règlements communautaires ;
+2° Les titres et certificats de sécurité et de prévention de la pollution prévus par la réglementation de l'Union européenne ;
 
-3° Le certificat national de franc bord, lorsque le navire n'est pas titulaire d'un certificat international de franc-bord ;
+3° Le certificat national de franc-bord, lorsque le navire n'est pas titulaire d'un certificat international de franc-bord ;
 
-4° Le permis de navigation prévu à l'article 4 du présent décret.
+4° Le certificat national de jaugeage, lorsque le navire n'est pas titulaire d'un certificat international de jaugeage ;
 
-II.-La liste des titres et certificats mentionnés au 1° et au 2°, les catégories de navires auxquels s'appliquent l'ensemble des titres et certificats, ainsi que la durée de validité de ceux-ci sont fixés par arrêté du ministre chargé de la mer.
+5° Le permis de navigation prévu à l'article 4.
 
-La délivrance, le visa et renouvellement des titres et certificats sont subordonnés à des visites du navire et, le cas échéant, à des études de plans et documents, dans les conditions fixées par le présent décret, complétées, le cas échéant, par arrêté du ministre chargé de la mer.
+II.-La délivrance, le visa et le renouvellement des titres et certificats mentionnés au I sont subordonnés à des visites du navire et, le cas échéant, à des études sur plans et documents, dans les conditions fixées par le présent décret et selon des modalités définies par arrêté du ministre chargé de la mer.
+
+Un arrêté du ministre chargé de la mer précise la liste de ces titres et certificats, en indiquant les catégories de navires auxquels ils s'appliquent et la durée de leur validité.

@@ -8,15 +8,13 @@ I.-Tout navire armé est tenu de détenir en permanence à son bord :
 
 2. La totalité du matériel de sécurité correspondant à la navigation autorisée par le permis. Lorsqu'un navire est autorisé par ce document à transporter des passagers en nombre variable selon la catégorie pratiquée, le matériel de sauvetage doit être prévu pour le plus grand nombre et être rigoureusement conforme à celui exigé pour la catégorie maximale autorisée.
 
-Sur les navires de plaisance qui ne sont pas soumis à l'obligation de permis de navigation, le matériel doit correspondre à celui qui est requis pour la catégorie de navigation maximale pour laquelle le navire a été approuvé ou éventuellement à celui requis pour une catégorie ou un nombre de personnes autorisé plus restreint inscrit par un service des affaires maritimes sur le titre de navigation.
-
-Toutefois, sur un navire de plaisance à usage personnel réservé à l'utilisation privée par le propriétaire ou un emprunteur à titre gratuit, le matériel individuel de sauvetage peut être réduit à celui nécessaire pour la totalité des personnes embarquées.
+Sur les navires de plaisance qui ne sont pas soumis à l'obligation de permis de navigation, le matériel d'armement et de sécurité embarqué à bord correspond à la zone de navigation, dans les conditions définies par arrêté du ministre chargé de la mer, et est adapté aux personnes présentes à bord ;
 
 II.-L'organisation de la sécurité de tout navire de charge ou à passagers doit être assurée par l'exploitant dans des conditions arrêtées par le ministre chargé de la mer.
 
 III.-Tout navire de plaisance à usage personnel qui est loué ou qui appartient à une association et tout navire de plaisance de formation doivent faire l'objet chaque année d'une vérification spéciale effectuée sous la responsabilité du loueur ou du responsable de l'organisme ou de l'association. Le résultat de ce contrôle est inscrit sur un registre spécial tenu à la disposition de l'autorité et des usagers.
 
-IV.-Tout navire de plaisance doit être doté d'une plaque signalétique inaltérable et fixée à demeure. S'il est fabriqué ou importé en série, il doit comporter un numéro d'identification faisant partie intégrante de la coque.
+IV. - Tout navire de plaisance doit être doté d'une plaque signalétique inaltérable et fixée à demeure. Il comporte en outre un numéro d'identification sur la coque.
 
 V.-Il est interdit :
 

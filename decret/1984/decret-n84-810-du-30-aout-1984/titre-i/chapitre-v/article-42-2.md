@@ -12,7 +12,7 @@ III. - La décision d'habilitation est prise compte tenu des garanties de compé
 
 L'organisme chargé d'exécuter les opérations de vérification de la conformité et son personnel ne peuvent, notamment, avoir aucun lien avec le concepteur, le constructeur, le fournisseur ou l'installateur des équipements marins dont ils vérifient la conformité ; ils ne peuvent intervenir ni directement ni comme mandataire dans la conception, la construction, ou la commercialisation de ces produits.
 
-IV. - Selon le cas, le ministre chargé du transport des marchandises dangereuses, le ministre chargé de la mer ou l'Autorité de sûreté nucléaire peut retirer l'habilitation d'un organisme, après avis de la commission centrale de sécurité, s'il y a lieu après constatation lors de contrôles par l'autorité administrative compétente.
+IV. - Selon le cas, le ministre chargé du transport des marchandises dangereuses, le ministre chargé de la mer ou l'Autorité de sûreté nucléaire peut retirer l'habilitation d'un organisme, après avis de la commission interministérielle du transport des matières dangereuses, s'il y a lieu après constatation lors de contrôles par l'autorité administrative compétente.
 
 Le retrait peut être prononcé dans les cas suivants :
 
