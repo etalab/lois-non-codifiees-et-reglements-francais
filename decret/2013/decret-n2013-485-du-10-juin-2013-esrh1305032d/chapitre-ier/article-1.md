@@ -1,0 +1,7 @@
+# Article 1
+
+Les corps et grades de fonctionnaires mentionnés à l'annexe du présent décret sont accessibles, dans les conditions prévues à l'article 2 du décret du 3 mai 2012 susvisé et à cette annexe, aux agents contractuels relevant du ministre chargé de l'enseignement supérieur et de la recherche ou d'un de ses établissements publics, aux agents contractuels de l'Agence d'évaluation de la recherche et de l'enseignement supérieur, ainsi qu'aux agents contractuels relevant du ministre chargé de l'éducation nationale ou d'un de ses établissements publics, qui remplissent les conditions fixées aux articles 2 et 4 de la loi du 12 mars 2012 susvisée.
+
+Les corps et grades relevant du décret du 31 décembre 1985 susvisé mentionnés à l'annexe du présent décret sont également accessibles, dans les mêmes conditions, aux agents contractuels relevant d'un groupement d'établissements créé en application de l'article L. 423-1 du code de l'éducation, dans sa version antérieure à l'entrée en vigueur des dispositions de la loi du 17 mai 2011 susvisée, ou qui est constitué, à la date de clôture des inscriptions, sous forme de groupement d'intérêt public en application des dispositions du chapitre II de la loi du 17 mai 2011 susvisée.
+
+L'annexe au présent décret détermine les corps qui sont également accessibles, dans les mêmes conditions, aux agents contractuels relevant d'un autre service ou d'un autre établissement public de l'Etat que ceux mentionnés au présent article.
