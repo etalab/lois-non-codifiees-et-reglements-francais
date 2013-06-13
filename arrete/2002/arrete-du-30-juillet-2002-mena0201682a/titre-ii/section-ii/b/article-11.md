@@ -4,4 +4,4 @@ La phase d'admissibilité consiste en une épreuve écrite ou technique permetta
 
 Cette épreuve peut consister, notamment, pour les candidats à répondre à une série de questions, en la rédaction d'un courrier ou d'une note, en l'élaboration de tableaux chiffrés au vu d'un dossier ou en un questionnaire à choix multiples.
 
-Sa durée est fixée à une heure. Elle est affectée du coefficient 1.
+Sa durée est fixée à une heure. Cette épreuve est notée de 0 à 20 et affectée du coefficient 1.

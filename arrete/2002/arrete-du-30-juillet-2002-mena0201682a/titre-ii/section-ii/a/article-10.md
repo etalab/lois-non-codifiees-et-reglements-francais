@@ -6,8 +6,8 @@ L'épreuve écrite doit permettre d'apprécier la culture générale des candida
 
 L'épreuve pratique doit permettre de vérifier les connaissances techniques des candidats et d'apprécier leurs capacités à remplir les fonctions postulées.
 
-La durée de l'épreuve écrite est fixée à deux heures pour le recrutement des ingénieurs de recherche et des ingénieurs d'études et à une heure et trente minutes pour le recrutement des assistants ingénieurs et des techniciens de la recherche.
+La durée de l'épreuve écrite est fixée à deux heures pour le recrutement des ingénieurs de recherche et des ingénieurs d'études et à une heure et trente minutes pour le recrutement des assistants ingénieurs, des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale.
 
-La durée de l'épreuve pratique est fixée à quarante-cinq minutes pour le recrutement des ingénieurs de recherche et des ingénieurs d'études et à trente minutes pour le recrutement des assistants ingénieurs et des techniciens de la recherche.
+La durée de l'épreuve pratique est fixée à quarante-cinq minutes pour le recrutement des ingénieurs de recherche et des ingénieurs d'études et à trente minutes pour le recrutement des assistants ingénieurs, des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale.
 
-L'épreuve technique est affectée du coefficient 1.
+L'épreuve technique est notée de 0 à 20 et affectée du coefficient 1.

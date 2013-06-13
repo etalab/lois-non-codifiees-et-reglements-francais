@@ -6,8 +6,10 @@ Cet entretien doit permettre d'apprécier les qualités de réflexion et les con
 
 La durée de l'audition est fixée :
 
-a) Pour le recrutement des ingénieurs de recherche et des ingénieurs d'études, à trente minutes, dont dix minutes au maximum pour l'exposé du candidat et vingt minutes au minimum pour l'entretien avec le jury ;
+a) Pour le recrutement des ingénieurs de recherche, à quarante-cinq minutes, dont quinze minutes au maximum pour l'exposé du candidat et trente minutes au minimum pour l'entretien avec le jury ;
 
-b) Pour le recrutement des assistants ingénieurs et des techniciens de la recherche, à vingt minutes, dont huit au maximum pour l'exposé du candidat et douze minutes au minimum pour l'entretien avec le jury.
+b) Pour le recrutement des ingénieurs d'études, à trente minutes, dont dix minutes au maximum pour l'exposé du candidat et vingt minutes au minimum pour l'entretien avec le jury ;
 
-Elle est affectée du coefficient 2.
+c) Pour le recrutement des assistants ingénieurs, des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale, à vingt minutes, dont huit minutes au maximum pour l'exposé du candidat et douze minutes au minimum pour l'entretien avec le jury.
+
+Cette audition est notée de 0 à 20 et affectée du coefficient 2.
