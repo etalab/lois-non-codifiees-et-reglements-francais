@@ -18,8 +18,6 @@ Cadre d'emplois des professeurs territoriaux d'enseignement artistique.
 
 Cadre d'emplois des conseillers territoriaux des activités physiques et sportives.
 
-Cadre d'emplois des conseillers territoriaux socio-éducatifs.
-
 Cadre d'emplois des psychologues territoriaux.
 
 Cadre d'emplois des directeurs de police municipale.

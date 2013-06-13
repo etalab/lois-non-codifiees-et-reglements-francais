@@ -778,7 +778,6 @@
 - [Décret n°92-754 du 28 juillet 1992 (SPSS9201144D)](decret-n92-754-du-28-juillet-1992-spss9201144d)
 - [Décret n°92-839 du 28 août 1992 (JUSF9250033D)](decret-n92-839-du-28-aout-1992-jusf9250033d)
 - [Décret n°92-840 du 28 août 1992 (JUSB9210212D)](decret-n92-840-du-28-aout-1992-jusb9210212d)
-- [Décret n°92-841 du 28 août 1992 (INTX9200355D)](decret-n92-841-du-28-aout-1992-intx9200355d)
 - [Décret n°92-842 du 28 août 1992 (INTB9200356D)](decret-n92-842-du-28-aout-1992-intb9200356d)
 - [Décret n°92-843 du 28 août 1992 (INTB9200357D)](decret-n92-843-du-28-aout-1992-intb9200357d)
 - [Décret n°92-844 du 28 août 1992 (INTB9200358D)](decret-n92-844-du-28-aout-1992-intb9200358d)
