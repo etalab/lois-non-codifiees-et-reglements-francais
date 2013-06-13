@@ -356,7 +356,6 @@
 - [Décret n°95-280 du 10 mars 1995 (ECOU9400001D)](decret-n95-280-du-10-mars-1995-ecou9400001d)
 - [Décret n°95-295 du 10 mars 1995 (BUDD9450012D)](decret-n95-295-du-10-mars-1995-budd9450012d)
 - [Décret n°95-31 du 10 janvier 1995 (INTB9400483D)](decret-n95-31-du-10-janvier-1995-intb9400483d)
-- [Décret n°95-32 du 10 janvier 1995 (INTB9400480D)](decret-n95-32-du-10-janvier-1995-intb9400480d)
 - [Décret n°95-374 du 10 avril 1995 (JUSC9520162D)](decret-n95-374-du-10-avril-1995-jusc9520162d)
 - [Décret n°95-380 du 10 avril 1995 (BUDP9500055D)](decret-n95-380-du-10-avril-1995-budp9500055d)
 - [Décret n°95-385 du 10 avril 1995 (INDD9500142D)](decret-n95-385-du-10-avril-1995-indd9500142d)
