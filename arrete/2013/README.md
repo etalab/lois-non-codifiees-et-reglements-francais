@@ -53,7 +53,6 @@
 - [Arrêté du 3 avril 2013 (MENE1308718A)](arrete-du-3-avril-2013-mene1308718a)
 - [Arrêté du 3 avril 2013 (MENE1308741A)](arrete-du-3-avril-2013-mene1308741a)
 - [Arrêté du 3 décembre 2012 (ETSD1240779A)](arrete-du-3-decembre-2012-etsd1240779a)
-- [Arrêté du 3 décembre 2012 (TRAT1241149A)](arrete-du-3-decembre-2012-trat1241149a)
 - [Arrêté du 3 décembre 2013 (DEVK1329748A)](arrete-du-3-decembre-2013-devk1329748a)
 - [Arrêté du 3 janvier 2013 (AGRT1243066A)](arrete-du-3-janvier-2013-agrt1243066a)
 - [Arrêté du 3 janvier 2013 (DEFD1227895A)](arrete-du-3-janvier-2013-defd1227895a)

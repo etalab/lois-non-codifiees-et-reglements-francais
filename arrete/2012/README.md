@@ -816,7 +816,6 @@
 - [Arrêté du 10 septembre 2012 (JUST1234235A)](arrete-du-10-septembre-2012-just1234235a)
 - [Arrêté du 10 septembre 2012 (MENH1234007A)](arrete-du-10-septembre-2012-menh1234007a)
 - [Arrêté du 10 septembre 2012 (PRMX1234122A)](arrete-du-10-septembre-2012-prmx1234122a)
-- [Arrêté du 10 septembre 2012 (TRAT1234144A)](arrete-du-10-septembre-2012-trat1234144a)
 - [Arrêté du 11 avril 1995 (EQUP9500474A)](arrete-du-11-avril-1995-equp9500474a)
 - [Arrêté du 11 avril 1995 (EQUP9500476A)](arrete-du-11-avril-1995-equp9500476a)
 - [Arrêté du 11 avril 2012 (AGRT1131371A)](arrete-du-11-avril-2012-agrt1131371a)

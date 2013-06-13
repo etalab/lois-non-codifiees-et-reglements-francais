@@ -194,23 +194,47 @@ Le compte rendu du résultat est adressé au médecin prescripteur et à celui a
 
 Le commentaire du calcul de risque et les limites à ce calcul sont clairement explicités notamment si les valeurs des marqueurs sont au-delà des bornages du logiciel utilisé.
 
-4.3 Suivi
+4.3. Transmission des données.
 
-Les praticiens agréés pour effectuer les analyses mentionnées au 6° de l'article R. 2131-1 doivent être en mesure de fournir :
+Les biologistes médicaux chargés du calcul de risque transmettent à l'Agence de la biomédecine (ABM) les données pertinentes et nécessaires dont ils sont détenteurs ou destinataires et, au minimum :
 
-― le pourcentage de femmes considérées à risque (risque supérieur ou égal à 1/250) au sein de l'ensemble des femmes pour lesquelles le calcul a été réalisé ;
+- le numéro identifiant du laboratoire autorisé pour effectuer les analyses mentionnées au 6° de l'article R. 2131-1 du code de la santé publique ;
 
-― la structure d'âge de la population testée ;
+- le code attribué par le laboratoire aux résultats individuels des examens ;
 
-― la valeur prédictive positive du test pour la trisomie 21 (proportion de femmes porteuses d'un fœtus atteint de trisomie 21 parmi l'ensemble des femmes considérées comme à risque) ;
+- la date de naissance de la femme enceinte ;
 
-― les médianes et la distribution de chacun des marqueurs biochimiques ;
+- la date de réalisation de l'échographie du premier trimestre ;
 
-― les médianes et la distribution de la clarté nucale, par opérateur (désigné par son identifiant) ;
+- le numéro identifiant de l'échographiste ;
 
-― le suivi des issues de grossesse y compris le taux de perdues de vue.
+- la valeur de la clarté nucale et de la longueur cranio-caudale ;
 
-A cet effet, une procédure de transmission des données entre l'ensemble des professionnels concernés est établie par le ou les réseaux de périnatalité.
+- la valeur en multiple de la médiane de la clarté nucale ;
+
+- la date du prélèvement sanguin (dosage des marqueurs sériques maternels) ;
+
+- la valeur en multiple de la médiane de la PAPP-A et de la sous-unité béta libre de l'hCG (marqueurs sériques du premier trimestre), le cas échéant de l'hCG totale ou de la sous-unité béta libre de l'hCG et de l'AFP ou de l'œstriol non conjugué (marqueurs du deuxième trimestre) ;
+
+- le résultat du calcul de risque (mentionné aux articles 6, 8 ou 9 du présent arrêté) en précisant le logiciel et les réactifs utilisés ;
+
+- s'il a été réalisé, le résultat du caryotype prénatal.
+
+Ces données sont recueillies tous les six mois et mises à la disposition :
+
+- de la Fédération française des réseaux de santé en périnatalité ;
+
+- des organismes agréés par la Haute Autorité de santé (HAS) pour l'accréditation de la qualité de la pratique professionnelle pour les spécialités concernées par le dépistage et le diagnostic prénatal de la trisomie 21.
+
+Pour garantir la transmission de l'ensemble des données aux biologistes médicaux :
+
+- dans le cadre des articles 7 et 9 de l'arrêté du 23 juin 2009 modifié susvisé, les praticiens mesurant la clarté nucale et, le cas échéant, ceux membres d'un centre pluridisciplinaire de diagnostic prénatal (CPDPN) adressent aux biologistes médicaux les données dont ils sont détenteurs ou destinataires, et notamment la valeur en multiple de la médiane de la clarté nucale et les éléments indispensables au calcul de risque ;
+
+- les cytogénéticiens communiquent aux biologistes médicaux les informations utiles à l'évaluation des nouvelles modalités de dépistages et de diagnostic et au contrôle qualité du dispositif, et notamment les résultats des caryotypes prénatals.
+
+Chacun est responsable de la transmission des données en sa possession.
+
+Les mesures nécessaires sont prises pour garantir, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relatives à l'informatique, aux fichiers et aux libertés, la confidentialité et la sécurité des données recueillies, conservées et mises à disposition, en particulier leur pérennité et leur intégrité.
 
 4.4. Conservation des échantillons et documents
 
@@ -267,3 +291,47 @@ Les réseaux de périnatalité ont naturellement vocation à coordonner l'ensemb
 Les centres pluridisciplinaires de diagnostic prénatal ont notamment pour mission de constituer un pôle de compétences cliniques et biologiques au service des patients et des praticiens (article R. 2131-10-1). A ce titre, ils s'associent à un ou plusieurs réseaux de périnatalité dont ils constituent la référence en matière d'expertise.
 
 L'adhésion des échographistes mentionnés au troisième alinéa à un réseau de périnatalité est conditionnée à leur engagement à respecter les critères de qualité mentionnés au point 2 de la présente annexe. Le réseau de périnatalité délivre alors un identifiant unique à chaque échographiste adhérant au réseau. Cet identifiant permet notamment au biologiste de prendre en compte les mesures échographiques dans le calcul de risque.
+
+7. Evaluation.
+
+L'ABM est chargée d'évaluer le dépistage de la trisomie 21.
+
+La HAS définit avec les professionnels les conditions de l'assurance qualité des pratiques professionnelles et qualifie les données nécessaires à cet effet.
+
+L'Agence de la biomédecine transmet au moins annuellement :
+
+7.1. A la direction générale de la santé les résultats relatifs à l'ensemble de la population testée, et notamment :
+
+- la structure d'âge de cette population ;
+
+- les médianes et la distribution de chacun des marqueurs biochimiques ;
+
+- les médianes et la distribution de la clarté nucale en fonction de la longueur cranio-caudale ;
+
+- le pourcentage des femmes considérées à risque (risque supérieur ou égal à 1/250) ;
+
+- la valeur prédictive positive du test ;
+
+- l'estimation du taux de faux positifs ;
+
+- l'estimation de la spécificité et de la sensibilité du test.
+
+7.2. A l'Agence nationale de sécurité du médicament et des produits de santé :
+
+- les informations mentionnées au point 7.1 pour chaque type de dépistage (dépistage combiné du premier trimestre, dépistage séquentiel intégré du deuxième trimestre et dépistage par les seuls marqueurs sériques du deuxième trimestre) et pour chaque couple logiciel/réactifs utilisés.
+
+7.3. A chaque réseau de périnatalité :
+
+- les données ci-dessus mentionnées au paragraphe 4.3 et les résultats ci-dessus mentionnés au paragraphe 7.1, portant sur la population suivie par les professionnels adhérant au réseau ;
+
+- les médianes et la distribution de la clarté nucale en fonction de la longueur cranio-caudale par échographiste adhérant à ce réseau.
+
+7.4. A chaque organisme agréé par la HAS :
+
+- les données ci-dessus mentionnées au paragraphe 4.3 et les résultats ci-dessus mentionnés au paragraphe 7.1, concernant les échographistes ayant adhéré au programme d'assurance qualité de cet organisme ;
+
+- les médianes et la distribution de la clarté nucale en fonction de la longueur cranio-caudale par échographiste ayant adhéré au programme d'assurance qualité de cet organisme ;
+
+7.5. A l'Association des biologistes agréés :
+
+- les résultats ci-dessus mentionnés au paragraphe 7.1.
