@@ -1,0 +1,3 @@
+# Article 33
+
+Les fonctionnaires promus en application des articles 31 et 32 ci-dessus sont classés dans le grade d'éducateur principal de jeunes enfants en tenant compte de la situation qui aurait été la leur s'ils avaient poursuivi, jusqu'à la date de leur promotion, leur carrière dans leur ancien grade, et avaient été classés dans le grade d'éducateur principal de jeunes enfants ou d'éducateur-chef de jeunes enfants en application des dispositions du décret du 10 janvier 1995 susvisé dans sa rédaction antérieure au présent décret, puis reclassés à la date de leur promotion dans les conditions fixées par le tableau mentionné à l'article 29 du présent décret.
