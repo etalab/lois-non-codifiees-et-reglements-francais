@@ -781,7 +781,6 @@
 - [Décret n°92-843 du 28 août 1992 (INTB9200357D)](decret-n92-843-du-28-aout-1992-intb9200357d)
 - [Décret n°92-844 du 28 août 1992 (INTB9200358D)](decret-n92-844-du-28-aout-1992-intb9200358d)
 - [Décret n°92-846 du 28 août 1992 (INTB9200360D)](decret-n92-846-du-28-aout-1992-intb9200360d)
-- [Décret n°92-848 du 28 août 1992 (INTB9200362D)](decret-n92-848-du-28-aout-1992-intb9200362d)
 - [Décret n°92-849 du 28 août 1992 (INTB9200363D)](decret-n92-849-du-28-aout-1992-intb9200363d)
 - [Décret n°92-850 du 28 août 1992 (INTB9200364D)](decret-n92-850-du-28-aout-1992-intb9200364d)
 - [Décret n°92-851 du 28 août 1992 (INTB9200365D)](decret-n92-851-du-28-aout-1992-intb9200365d)
