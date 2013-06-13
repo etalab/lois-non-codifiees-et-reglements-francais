@@ -1,6 +1,6 @@
 # Article 11
 
-La phase d'admission consiste en une audition par le jury des candidats admissibles.
+La phase d'admission consiste en une audition des candidats admissibles par le jury.
 
 Cette audition, qui tient compte de la spécificité des emplois à pourvoir, comporte une présentation par le candidat de son expérience professionnelle ou la réalisation d'une épreuve pratique relevant de l'emploi type correspondant aux emplois à pourvoir.
 

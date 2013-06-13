@@ -1,6 +1,6 @@
 # Article 8
 
-La phase d'admission consiste en l'audition par le jury des candidats admissibles.
+La phase d'admission consiste en l'audition des candidats admissibles par le jury.
 
 Cette audition doit permettre d'apprécier les aptitudes du candidat à occuper l'emploi mis au concours. Cette appréciation porte :
 
@@ -10,6 +10,6 @@ Cette audition doit permettre d'apprécier les aptitudes du candidat à occuper 
 
 3° Pour le recrutement des assistants ingénieurs, sur les capacités du candidat à veiller à la préparation et au contrôle de l'exécution de toutes les opérations techniques réalisées dans les unités et services de recherche ;
 
-4° Pour le recrutement des techniciens de la recherche, sur les capacités du candidat à mettre en oeuvre l'ensemble des techniques exigées pour la réalisation des programmes d'activité qui sont entrepris au sein des unités et services de recherche où ils sont affectés.
+4° Pour le recrutement des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale, sur les capacités du candidat à mettre en oeuvre l'ensemble des techniques exigées pour la réalisation des programmes d'activité qui sont entrepris au sein des unités et services de recherche où ils sont affectés.
 
 Sa durée est fixée à trente minutes. Elle est affectée du coefficient 2.

@@ -1,4 +1,4 @@
-# A. - Recrutement des ingénieurs de recherche, des ingénieurs d'études, des assistants ingénieurs et des techniciens de la recherche
+# A. - Recrutement des ingénieurs de recherche, des ingénieurs d'études, des assistants ingénieurs, des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale.
 
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)

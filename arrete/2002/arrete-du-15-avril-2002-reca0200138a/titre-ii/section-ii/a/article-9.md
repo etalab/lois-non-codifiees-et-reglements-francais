@@ -6,6 +6,6 @@ L'épreuve technique consiste en l'analyse d'un dossier. Elle doit permettre d'a
 
 L'épreuve de langue étrangère consiste en un commentaire de texte dans une langue étrangère précisée par l'arrêté d'ouverture du concours.
 
-La durée de l'épreuve technique est fixée à trois heures pour le recrutement des ingénieurs de recherche et des ingénieurs d'études et à deux heures pour le recrutement des assistants ingénieurs et des techniciens de la recherche. Elle est affectée du coefficient 1.
+La durée de l'épreuve technique est fixée à trois heures pour le recrutement des ingénieurs de recherche et des ingénieurs d'études et à deux heures pour le recrutement des assistants ingénieurs, des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale. Elle est affectée du coefficient 1.
 
 La durée de l'épreuve de langue étrangère est fixée à deux heures. Elle est affectée du coefficient 1.
