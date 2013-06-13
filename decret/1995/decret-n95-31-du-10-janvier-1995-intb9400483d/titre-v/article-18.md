@@ -1,5 +1,5 @@
 # Article 18
 
-Les fonctionnaires de catégorie B exerçant des fonctions de même nature que les éducateurs territoriaux de jeunes enfants peuvent être détachés dans le présent cadre d'emplois s'ils justifient du diplôme d'Etat d'éducateur de jeunes enfants.
+Les fonctionnaires appartenant à un corps ou un cadre d'emplois classé dans la catégorie B ou de niveau équivalent peuvent être détachés ou directement intégrés dans le présent cadre d'emplois s'ils justifient de l'un des diplômes ou titres mentionnés à l'article 4 du présent décret.
 
-Le détachement intervient dans les conditions de grade, d'échelon et d'ancienneté prévues par l'article 19 ci-après.
+Les fonctionnaires détachés dans le présent cadre d'emploi peuvent, à tout moment, demander à y être intégrés.
