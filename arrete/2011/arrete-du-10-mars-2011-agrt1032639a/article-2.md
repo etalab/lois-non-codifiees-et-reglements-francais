@@ -9,5 +9,3 @@ En application de l'article D. 654-39 du code rural et de la pêche maritime, le
 ― des mises en réserve d'une fraction des quotas inutilisés par les producteurs, en application des articles D. 654-81 à D. 654-88 du code rural et de la pêche maritime (sous-réalisations structurelles) ;
 
 ― des transferts et prélèvements de quotas effectués, en application des articles D. 654-101 à D. 654-113 du code rural et de la pêche maritime.
-
-Au terme de chaque campagne sont, le cas échéant, annulés et mis en réserve à compter du 1er avril de la campagne suivante les quotas dont les titulaires n'ont pas respecté leur engagement d'exercer ou de développer l'activité « ventes directes » sur la période des deux campagnes suivant l'attribution.
