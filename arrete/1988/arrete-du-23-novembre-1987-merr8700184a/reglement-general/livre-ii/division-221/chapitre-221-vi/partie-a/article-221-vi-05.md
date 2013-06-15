@@ -2,11 +2,9 @@
 
 Arrimage et assujettissement
 
-1. Il faut charger, arrimer et assujettir les cargaisons (2) et les engins de transport (3) qui sont transportés en pontée ou sous pont de manière à éviter, autant qu'il est possible dans la pratique, pendant toute la durée du voyage, les dommages ou dangers pour le navire et les personnes à bord, et les pertes de cargaison par-dessus bord.
+1. Il faut charger, arrimer et assujettir les cargaisons et les engins de transport (2) qui sont transportés en pontée ou sous pont de manière à éviter, autant qu'il est possible dans la pratique, pendant toute la durée du voyage, les dommages ou dangers pour le navire et les personnes à bord et les pertes de cargaison par-dessus bord.
 
-(2) Se reporter à la résolution A.714(17), telle que modifiée.
-
-(3) Se reporter au code IMDG tel que défini dans la division 411.
+(2) Se reporter à la résolution A.714(17), telle que modifiée, et au code IMDG tel que défini dans la division 411.
 
 2 Les cargaisons transportées dans des engins de transport doivent être chargées et assujetties à l'intérieur de ces engins de manière à éviter, pendant toute la durée du voyage, les dommages ou dangers pour le navire et les personnes à bord.
 
@@ -16,6 +14,6 @@ Arrimage et assujettissement
 
 5 Le chargement des conteneurs ne doit pas excéder la masse brute maximale indiquée sur la plaque d'agrément aux fins de la sécurité prévue dans la Convention internationale sur la sécurité des conteneurs (CSC).
 
-6. Toutes les cargaisons autres que les cargaisons solides et liquides en vrac et tous les engins de transport doivent être chargés, arrimés et assujettis pendant toute la durée du voyage conformément aux dispositions du manuel d'assujettissement de la cargaison qui a été approuvé par l'administration. A bord des navires dotés d'espaces rouliers à cargaison, tels que définis à l'article 221-II-2/03.41, toutes ces cargaisons doivent être assujetties conformément au manuel d'assujettissement de la cargaison avant que le navire quitte le poste à quai. La rédaction du manuel d'assujettissement de la cargaison doit être d'une qualité au moins équivalente à celle qui est préconisée dans les directives pertinentes élaborées par l'Organisation maritime internationale (*).
+6. Toutes les cargaisons autres que les cargaisons solides et liquides en vrac et tous les engins de transport doivent être chargés, arrimés et assujettis pendant toute la durée du voyage conformément aux dispositions du manuel d'assujettissement de la cargaison qui a été approuvé par l'administration. A bord des navires dotés d'espaces rouliers à cargaison, tels que définis à l'article 221-II-2/03.41, toutes ces cargaisons doivent être assujetties conformément au manuel d'assujettissement de la cargaison avant que le navire quitte le poste à quai. La rédaction du manuel d'assujettissement de la cargaison doit être d'une qualité au moins équivalente à celle qui est préconisée dans les directives pertinentes élaborées par l'organisation maritime internationale (3).
 
-(*) Se reporter aux directives pour l'élaboration du manuel d'assujettissement de la cargaison (circulaire MSC/Circ.745).
+(3) Se reporter aux directives pour l'élaboration du manuel d'assujettissement de la cargaison (circulaire MSC/Circ.745 ou circulaire MSC1/.1353).

@@ -73,7 +73,6 @@
 - [Arrêté du 7 novembre 2006 (BUDR0601372A)](arrete-du-7-novembre-2006-budr0601372a)
 - [Arrêté du 7 novembre 2006 (BUDR0660134A)](arrete-du-7-novembre-2006-budr0660134a)
 - [Arrêté du 7 novembre 2006 (DEVO0650538A)](arrete-du-7-novembre-2006-devo0650538a)
-- [Arrêté du 7 novembre 2006 (ECOP0600361A)](arrete-du-7-novembre-2006-ecop0600361a)
 - [Arrêté du 8 décembre 2006 (JUSA0600335A)](arrete-du-8-decembre-2006-jusa0600335a)
 - [Arrêté du 8 décembre 2006 (SANS0624984A)](arrete-du-8-decembre-2006-sans0624984a)
 - [Arrêté du 8 juin 2006 (ECOP0600249A)](arrete-du-8-juin-2006-ecop0600249a)
