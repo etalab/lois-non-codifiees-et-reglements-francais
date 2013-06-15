@@ -2,6 +2,8 @@
 
 Le présent arrêté s'applique aux agents mentionnés à l'article 1er travaillant au sein de l'un des établissements suivants :
 
+Agence nationale des fréquences ;
+
 Ecole nationale supérieure des mines de Paris ;
 
 Ecole nationale supérieure des mines de Saint-Etienne ;
