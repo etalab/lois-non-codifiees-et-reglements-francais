@@ -13,7 +13,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">1. Personnels administratifs <br/>
+<td align="center">
+<p align="center">1. Personnels administratifs <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,19 +92,27 @@
 </td>
 </tr>
 <tr>
-<td>Adjoint administratif de l'éducation nationale et de l'enseignement supérieur de 1re classe : </td>
+<td>
+<p align="left">Adjoint administratif de l'éducation nationale et de l'enseignement supérieur de 1re classe : </p>
+</td>
 <td/>
 </tr>
 <tr>
-<td>Pour 2012 </td>
+<td>
+<p align="left">Pour 2012 </p>
+</td>
 <td align="center">50 % </td>
 </tr>
 <tr>
-<td>Pour 2013 </td>
+<td>
+<p align="left">Pour 2013 </p>
+</td>
 <td align="center">45 % </td>
 </tr>
 <tr>
-<td>Pour 2014 </td>
+<td>
+<p align="left">Pour 2014 </p>
+</td>
 <td align="center">40 % </td>
 </tr>
 <tr>
@@ -164,7 +174,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">2. Personnels de la filière ouvrière <br/>
+<td align="center">
+<p align="center">2. Personnels de la filière ouvrière <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +310,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">3. Personnels sociaux et de santé <br/>
+<td align="center">
+<p align="center">3. Personnels sociaux et de santé <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -321,6 +335,18 @@
 <p align="left">Pour 2012 </p>
 </td>
 <td align="center">11,5 % <br/>
+</td>
+</tr>
+<tr>
+<td align="left">Pour 2013 </td>
+<td>
+<p align="center">11,5%</p>
+</td>
+</tr>
+<tr>
+<td align="left">Pour 2014 </td>
+<td>
+<p align="center">11,5%</p>
 </td>
 </tr>
 <tr>
@@ -348,33 +374,74 @@
 <tr>
 <td>
 <p align="center">Corps des infirmiers de l'éducation nationale et de l'enseignement supérieur </p>
-<p>régi par le décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes </p>
-<p>aux corps d'infirmiers de catégorie A des administrations de l'Etat <br/>
+<p>régi par le décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat <br/>
 </p>
 </td>
 <td/>
 </tr>
 <tr>
-<td>Infirmiers de l'éducation nationale et de l'enseignement supérieur hors classe : <br/>
+<td>
+<p align="left">Infirmiers de l'éducation nationale et de l'enseignement supérieur hors classe : <br/>
+</p>
 </td>
 <td/>
 </tr>
 <tr>
-<td>Pour 2012 <br/>
+<td>
+<p align="left">Pour 2012 <br/>
+</p>
 </td>
 <td>
 <p align="center">10 %</p>
 </td>
 </tr>
 <tr>
-<td>Infirmiers de l'éducation nationale et de l'enseignement supérieur de classe supérieure :</td>
+<td>
+<p align="left">Pour 2013 </p>
+</td>
+<td>
+<p align="center">10,4%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014 </p>
+</td>
+<td>
+<p align="center">10,8%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Infirmiers de l'éducation nationale et de l'enseignement supérieur de classe supérieure :</p>
+</td>
 <td/>
 </tr>
 <tr>
-<td>Pour 2012 <br/>
+<td>
+<p align="left">Pour 2012 <br/>
+</p>
 </td>
 <td>
 <p align="center">11 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2013 <br/>
+</p>
+</td>
+<td>
+<p align="center">11%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pour 2014 <br/>
+</p>
+</td>
+<td>
+<p align="center">11%</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +467,21 @@
 </td>
 </tr>
 <tr>
-<td align="center">4. Personnels de direction <br/>
+<td align="left">Pour 2013 </td>
+<td>
+<p align="center">12,3%</p>
+</td>
+</tr>
+<tr>
+<td align="left">Pour 2014 </td>
+<td>
+<p align="center">12,3%</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">4. Personnels de direction <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -470,7 +551,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">5. Personnels d'inspection </td>
+<td align="center">
+<p align="center">5. Personnels d'inspection </p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -480,19 +563,27 @@
 <td/>
 </tr>
 <tr>
-<td>Inspecteur d'académie-inspecteur pédagogique régional hors classe : </td>
+<td>
+<p align="left">Inspecteur d'académie-inspecteur pédagogique régional hors classe : </p>
+</td>
 <td/>
 </tr>
 <tr>
-<td>Pour 2012 </td>
+<td>
+<p align="left">Pour 2012 </p>
+</td>
 <td align="center">50 % </td>
 </tr>
 <tr>
-<td>Pour 2013 </td>
+<td>
+<p align="left">Pour 2013 </p>
+</td>
 <td align="center">45 % </td>
 </tr>
 <tr>
-<td>Pour 2014 </td>
+<td>
+<p align="left">Pour 2014 </p>
+</td>
 <td align="center">40 % </td>
 </tr>
 <tr>
@@ -502,19 +593,27 @@
 <td/>
 </tr>
 <tr>
-<td>Inspecteur de l'éducation nationale hors classe : </td>
+<td>
+<p align="left">Inspecteur de l'éducation nationale hors classe : </p>
+</td>
 <td/>
 </tr>
 <tr>
-<td>Pour 2012 </td>
+<td>
+<p align="left">Pour 2012 </p>
+</td>
 <td align="center">34,5 % </td>
 </tr>
 <tr>
-<td>Pour 2013 </td>
+<td>
+<p align="left">Pour 2013 </p>
+</td>
 <td align="center">33 % </td>
 </tr>
 <tr>
-<td>Pour 2014 </td>
+<td>
+<p align="left">Pour 2014 </p>
+</td>
 <td align="center">32 %</td>
 </tr>
 </tbody>
