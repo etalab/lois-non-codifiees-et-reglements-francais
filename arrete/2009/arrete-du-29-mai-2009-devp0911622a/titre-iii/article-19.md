@@ -4,7 +4,7 @@ Procédure d'agrément des organismes agréés.
 
 1. Les organismes agréés pour organiser les formations et examens ou pour accorder les certificats, agréments, ou homologations prévus par le présent arrêté sont désignés, selon les attributions précisées à l'article 5, soit par arrêté publié au Journal officiel par le ministre chargé des transports terrestres de matières dangereuses, soit par décision de l'Autorité de sûreté nucléaire, après avis de la CITMD, pour une durée maximale de cinq ans.
 
-2. Les demandes d'agrément sont adressées soit au ministre chargé des transports terrestres de matières dangereuses, soit à l'Autorité de sûreté nucléaire selon les attributions précisées à l'article 5. Ces demandes sont conformes aux dispositions de l'article 20. Le demandeur doit justifier notamment qu'il dispose des moyens techniques et humains nécessaires ainsi que d'une organisation de la qualité convenable pour exercer l'activité souhaitée.
+2. Les demandes d'agrément sont adressées soit au ministre chargé des transports terrestres de matières dangereuses, soit à l'Autorité de sûreté nucléaire selon les attributions précisées à l'article 5. Ces demandes sont conformes aux dispositions de l'article 20.
 
 3. Les arrêtés ou décisions relatifs aux agréments dans le cadre du 1 du présent article sont pris au plus tard dans l'année qui suit la demande. Ils fixent le cas échéant des conditions particulières. La liste des organismes agréés par le ministre chargé des transports terrestres de matières dangereuses ainsi que les références et dates de validité de leurs agréments sont tenues à jour sur le site internet du ministère chargé des transports terrestres de matières dangereuses.
 

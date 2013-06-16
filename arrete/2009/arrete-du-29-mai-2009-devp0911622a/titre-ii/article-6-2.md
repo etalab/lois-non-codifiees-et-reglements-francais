@@ -22,7 +22,7 @@ Prélèvements d'échantillons de matières dangereuses expédiés aux fins d'an
 
 - générateurs d'aérosols :
 
-- 1 pour les aérosols ne présentant pas de risque de toxicité ;
+- 1 litre pour les aérosols ne présentant pas de risque de toxicité ;
 
 - 120 ml pour les aérosols présentant un risque de toxicité.
 

@@ -14,23 +14,35 @@ Seuls peuvent être délivrés des certificats réalisés par l'Imprimerie natio
 
 Le titulaire conserve la garde du certificat, qui peut lui être retiré par décision de l'autorité compétente en cas d'acquisition frauduleuse.
 
-1.3. En vue de l'établissement du certificat de formation, un dossier d'inscription comportant les données nécessaires à sa réalisation est transmis à l'Imprimerie nationale par l'organisme de formation agréé au plus tard cinq jours ouvrés avant le début de la session de formation. Ce dossier comprend :
+1.3. En vue de l'établissement du certificat de formation, un dossier d'inscription comportant les données nécessaires à sa réalisation est transmis à l'Imprimerie nationale par l'organisme de formation agréé. Ce dossier comprend :
 
-- les dates et la référence du stage de formation choisi ;
+- les dates et la référence de la session de formation choisie ;
 
-- l'état civil du stagiaire et ses coordonnées (notamment l'adresse postale de livraison du certificat) ;
+- l'état civil du stagiaire et ses coordonnées personnelles (notamment l'adresse postale de livraison du certificat) ;
 
-- une photographie d'identité et la signature du stagiaire ou, si le stagiaire en est titulaire, et que ceux-ci ont été émis par l'Imprimerie nationale, le numéro de sa carte de chronotachygraphe ou de sa carte de qualification de conducteur.
+- une photographie d'identité et la signature du stagiaire ou, si le stagiaire en est titulaire, et que ceux-ci ont été émis par l'Imprimerie nationale, le numéro de sa carte de chronotachygraphe ou de sa carte de qualification de conducteur ;
 
 - si le candidat est déjà titulaire d'un certificat de formation ADR émis par l'Imprimerie nationale, le dossier comprend le numéro du certificat de formation en cours ; cette mention dispense de la transmission des pièces mentionnées à l'alinéa précédent.
 
-Une session de formation ne peut être annulée après la date limite de remise des dossiers d'inscription mentionnée ci-dessus.
+Pour assurer un niveau de vérification d'identité compatible avec le 1.10.1.4, l'organisme de formation demande au stagiaire la présentation d'une pièce d'identité avec photographie le premier jour du stage.
 
-Un planning des sessions des formations proposées est transmis annuellement par les organismes de formation à l'autorité compétente, ainsi que les éventuelles mises à jour en cours d'année, qui sont transmises systématiquement.
+Lors de la réalisation du certificat, l'Imprimerie nationale effectue les vérifications conformément à la réglementation et aux conditions fixées contractuellement entre l'Imprimerie nationale et les organismes de formation agréés.
 
-A l'issue de l'examen, les résultats sont transmis par l'organisme agréé à l'Imprimerie nationale, qui tient à jour le registre mentionné au 1.10.1.6.
+Pour ce faire, les délais suivants s'appliquent :
 
-Une procédure prise par décision du ministre chargé des transports terrestres de matières dangereuses, ou de l'Autorité de sûreté nucléaire, selon les attributions précisées à l'article 5, après avis de la CITMD, est mise en place afin de fixer les conditions dans lesquelles il peut être dérogé aux délais mentionnés dans le présent paragraphe en cas d'urgence motivée.
+- sous réserve de la réception par l'Imprimerie nationale du dossier complet mentionné ci-dessus dans un délai de cinq jours ouvrés avant le début de la session de formation, et de l'authentification du stagiaire, le premier jour de la session de formation, par l'organisme de formation agréé, l'Imprimerie nationale expédie le certificat au conducteur au plus tard dix jours ouvrés à compter de date de notification de réussite à l'examen ;
+
+- dans le cas contraire, l'Imprimerie nationale expédie le certificat au conducteur dans un délai maximal de vingt jours ouvrés dès la réalisation des deux conditions suivantes :
+
+- notification de réussite à l'examen ; et
+
+- réception du dossier complet mentionné ci-dessus.
+
+Une session de formation ne peut être annulée moins de cinq jours ouvrés avant sa date de commencement.
+
+Un planning des sessions de formation proposées est transmis annuellement par les organismes de formation à l'autorité compétente, ainsi que les éventuelles mises à jour en cours d'année, qui sont transmises systématiquement.
+
+A l'issue de l'examen, les résultats sont transmis par l'organisme agréé à l'Imprimerie nationale qui tient à jour le registre mentionné au 1.10.1.6.
 
 2. Formation, examens et attestations d'experts au titre de l'ADN
 

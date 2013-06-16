@@ -6,9 +6,9 @@ Cette annexe comporte les appendices suivants :
 
 2. Appendice IV.2. - Liste de contrôle (voir 5.3 de l'annexe I du présent arrêté).
 
-3. Appendice IV.3. - Tableau de rapport statistique (voir 5.7 de l'annexe I du présent arrêté).
+3. Appendice IV. 3. - Tableau de rapport statistique (voir 5.6 de l'annexe I du présent arrêté).
 
-4. Appendice IV.4. - Prescriptions relatives à la construction et à l'utilisation des matériels de transport de l'ammoniac employés uniquement en agriculture (voir 3.3 de l'annexe I du présent arrêté).
+4. Appendice IV. 4. - "Supprimé."
 
 5. Appendice IV.5. - Modèles de certificats d'agrément des modèles types d'emballage et d'attestations liées au contrôle de fabrication des emballages (voir articles 10 et 11).
 
@@ -756,7 +756,7 @@ Transport par route : ADR, à jour au
 
 Transport ferroviaire : RID, à jour au
 
-Transport par voies de navigation intérieures  : ADN, à jour au
+Transport par voies de navigation intérieures : ADN, à jour au
 
 Transport par voie maritime : code IMDG, à jour au
 
