@@ -106,7 +106,6 @@
 - [Arrêté du 22 novembre 2000 (MAEA0020511A)](arrete-du-22-novembre-2000-maea0020511a)
 - [Arrêté du 22 septembre 2000 (DEFD0002136A)](arrete-du-22-septembre-2000-defd0002136a)
 - [Arrêté du 23 décembre 1999 (AGRG9902777A)](arrete-du-23-decembre-1999-agrg9902777a)
-- [Arrêté du 23 février 2000 (EQUA0000341A)](arrete-du-23-fevrier-2000-equa0000341a)
 - [Arrêté du 23 février 2000 (EQUI0000260A)](arrete-du-23-fevrier-2000-equi0000260a)
 - [Arrêté du 23 juin 2000 (MESP0021771A)](arrete-du-23-juin-2000-mesp0021771a)
 - [Arrêté du 23 novembre 2000 (AGRG0002363A)](arrete-du-23-novembre-2000-agrg0002363a)
