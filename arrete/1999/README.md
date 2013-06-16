@@ -115,7 +115,6 @@
 - [Arrêté du 6 septembre 1999 (DEFE9901894A)](arrete-du-6-septembre-1999-defe9901894a)
 - [Arrêté du 6 mai 1999 (MESH9921529A)](arrete-du-6-mai-1999-mesh9921529a)
 - [Arrêté du 7 avril 1999 (DEFD9901400A)](arrete-du-7-avril-1999-defd9901400a)
-- [Arrêté du 7 avril 1999 (ECOI9801077A)](arrete-du-7-avril-1999-ecoi9801077a)
 - [Arrêté du 7 avril 1999 (ECOL9900060A)](arrete-du-7-avril-1999-ecol9900060a)
 - [Arrêté du 7 avril 1999 (INTE9900165A)](arrete-du-7-avril-1999-inte9900165a)
 - [Arrêté du 7 avril 1999 (PRMX9903513A)](arrete-du-7-avril-1999-prmx9903513a)
