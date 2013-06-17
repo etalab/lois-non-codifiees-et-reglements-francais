@@ -26,7 +26,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center" valign="top">V<br/>
 </td>
-<td align="left" valign="top">Préparateur(trice) vendeur(se) option boucherie, option charcutier-traiteur (CTM)<br/>
+<td align="left" valign="top">Préparateur(trice) vendeur(se) option boucherie, option charcuterie-traiteur (CTM)<br/>
 </td>
 <td align="center" valign="top">221s<br/>
 </td>
@@ -404,7 +404,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">IPL  ISEFAC Paris Lille <br/>
+<td align="left" valign="top">IPL ISEFAC Paris Lille <br/>
 </td>
 </tr>
 <tr>
