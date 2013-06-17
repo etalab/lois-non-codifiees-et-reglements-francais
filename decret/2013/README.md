@@ -191,6 +191,8 @@
 - [Décret n°2013-47 du 14 janvier 2013 (ACTI1232006D)](decret-n2013-47-du-14-janvier-2013-acti1232006d)
 - [Décret n°2013-48 du 14 janvier 2013 (BUDD1230755D)](decret-n2013-48-du-14-janvier-2013-budd1230755d)
 - [Décret n°2013-49 du 14 janvier 2013 (FAMS1242774D)](decret-n2013-49-du-14-janvier-2013-fams1242774d)
+- [Décret n°2013-505 du 14 juin 2013 (EFIT1312873D)](decret-n2013-505-du-14-juin-2013-efit1312873d)
+- [Décret n°2013-506 du 14 juin 2013 (AFSS1308945D)](decret-n2013-506-du-14-juin-2013-afss1308945d)
 - [Décret n°86-583 du 14 mars 1986](decret-n86-583-du-14-mars-1986)
 - [Décret n°2013-395 du 14 mai 2013 (JUSX1311608D)](decret-n2013-395-du-14-mai-2013-jusx1311608d)
 - [Décret n°2013-141 du 15 février 2013 (AFSA1300035D)](decret-n2013-141-du-15-fevrier-2013-afsa1300035d)
