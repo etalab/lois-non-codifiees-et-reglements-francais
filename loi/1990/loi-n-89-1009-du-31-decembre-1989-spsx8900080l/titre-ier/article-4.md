@@ -2,7 +2,7 @@
 
 Lorsque des salariés sont garantis collectivement, dans les conditions prévues à l'article 2 de la présente loi, en vue d'obtenir le remboursement ou l'indemnisation des frais occasionnés par une maladie, une maternité ou un accident, le contrat ou la convention doit prévoir, sans condition de période probatoire ni d'examen ou de questionnaire médicaux, les modalités et les conditions tarifaires des nouveaux contrats ou conventions par lesquels l'organisme maintient cette couverture :
 
-1° Au profit des anciens salariés bénéficiaires d'une rente d'incapacité ou d'invalidité, d'une pension de retraite ou, s'ils sont privés d'emploi, d'un revenu de remplacement, sans condition de durée, sous réserve que les intéressés en fassent la demande dans les six mois qui suivent la rupture de leur contrat de travail ;
+1° Au profit des anciens salariés bénéficiaires d'une rente d'incapacité ou d'invalidité, d'une pension de retraite ou, s'ils sont privés d'emploi, d'un revenu de remplacement, sans condition de durée, sous réserve que les intéressés en fassent la demande dans les six mois qui suivent la rupture de leur contrat de travail ou, le cas échéant, dans les six mois suivant l'expiration de la période durant laquelle ils bénéficient à titre temporaire du maintien de ces garanties ;
 
 2° Au profit des personnes garanties du chef de l'assuré décédé, pendant une durée minimale de douze mois à compter du décès, sous réserve que les intéressés en fassent la demande dans les six mois suivant le décès.
 

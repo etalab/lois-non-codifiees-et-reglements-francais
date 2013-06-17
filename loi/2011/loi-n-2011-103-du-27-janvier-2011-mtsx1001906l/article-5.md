@@ -1,6 +1,6 @@
 # Article 5
 
-I. ― Les II à VI et le VIII de l'article 1er, les III à VII de l'article 2 et le II de l'article 4 entrent en vigueur à compter du 1er janvier de la sixième année suivant l'année de publication de la présente loi. La conformité de la composition des conseils d'administration et des conseils de surveillance des sociétés concernées est appréciée à l'issue de la première assemblée générale ordinaire qui suit cette date.
+I. ― Les II à V et le VIII de l'article 1er, les III à VII de l'article 2 et le II de l'article 4 entrent en vigueur à compter du 1er janvier de la sixième année suivant l'année de publication de la présente loi. La conformité de la composition des conseils d'administration et des conseils de surveillance des sociétés concernées est appréciée à l'issue de la première assemblée générale ordinaire qui suit cette date.
 
 Le troisième exercice consécutif prévu au premier alinéa des articles L. 225-18-1, L. 225-69-1 et L. 226-4-1 du code de commerce s'entend à compter du 1er janvier de la sixième année suivant l'année de publication de la présente loi.
 
