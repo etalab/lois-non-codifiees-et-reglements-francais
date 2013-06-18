@@ -2,11 +2,11 @@
 
 Lors de l'entrée en relation avec un nouveau client, le conseiller en investissements financiers lui remet un document comportant les mentions suivantes :
 
-1° Son statut de conseiller en investissements financiers et le numéro d'enregistrement qui lui est attribué en cette qualité par l'association à laquelle il adhère ;
+1° Son nom ou sa dénomination sociale, son adresse professionnelle ou celle de son siège social, son statut de conseiller en investissements financiers et son numéro d'immatriculation au registre mentionné au I de l'article L. 546-1 du code monétaire et financier ;
 
 2° L'identité de l'association professionnelle à laquelle il adhère ;
 
-3° Le cas échéant, son statut de démarcheur, son numéro d'enregistrement en cette qualité et l'identité du ou des mandants pour lesquels il exerce une activité de démarcharge ;
+3° Le cas échéant, sa qualité de démarcheur et l'identité du ou des mandants pour lesquels il exerce une activité de démarchage ;
 
 4° Le cas échéant, l'identité du ou des établissements promoteurs de produits mentionnés au 1° de l'article L. 341-3 du code monétaire et financier avec lesquels il entretient une relation significative de nature capitalistique ou commerciale ;
 
