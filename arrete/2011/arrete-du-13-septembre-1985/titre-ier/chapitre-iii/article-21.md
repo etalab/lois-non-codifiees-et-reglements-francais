@@ -6,7 +6,9 @@ Dans le cas où, avant paiement, les services du pari mutuel seraient avisés d'
 
 Tout paiement peut, à l'initiative des services du pari mutuel, donner lieu à un règlement par chèque barré non endossable à l'ordre du bénéficiaire.
 
-Tout gain supérieur à 5 000 euros en paris " Tiercé ", " Quarté plus " et " Quinté plus " est exclusivement payable par chèque à l'ordre du bénéficiaire sur présentation d'une pièce d'identité.
+Toute somme revenant aux parieurs gagnants à la fin d'une transaction de paris supérieure à 3 000 € est exclusivement payable par monnaie scripturale.
+
+Le paiement est opéré uniquement sur présentation de tout document écrit probant de l'identité des parieurs et après enregistrement par les services du pari mutuel du nom et de l'adresse de ces parieurs ainsi que du montant des sommes qu'ils ont gagnées. Ces informations sont conservées pendant cinq ans.
 
 Tout paiement d'un gain par le PMU supérieur à 300 euros peut, à la demande du parieur, faire l'objet d'un règlement par chèque sur présentation d'une pièce d'identité.
 
