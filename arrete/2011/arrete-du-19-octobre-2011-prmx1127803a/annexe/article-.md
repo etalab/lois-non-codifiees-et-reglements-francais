@@ -32,4 +32,14 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - le transfert à Voies navigables de France des parties des directions départementales des territoires de la Côte-d'Or, de Lot-et-Garonne, de la Haute-Marne, de la Nièvre et de Saône-et-Loire et de la direction départementale des territoires et de la mer de la Loire-Atlantique qui sont nécessaires à l'exercice des missions confiées à cet établissement public ainsi que les parties de ces services chargées des fonctions de support, notamment en matière de gestion administrative et financière ;
 
-- fermeture du site de Biot de la direction départementale de la protection des populations des Alpes-Maritimes.
+- fermeture du site de Biot de la direction départementale de la protection des populations des Alpes-Maritimes ;
+
+- fermeture de l'antenne de Lézignan-Corbières de la direction départementale des territoires et de la mer de l'Aude ;
+
+- fermeture de l'implantation territoriale d'Epernay, sise à Dizy, de la direction départementale des territoires de la Marne ;
+
+- fermeture de l'unité territoriale de Ribeauvillé et réorganisation de l'unité territoriale de Guebwiller de la direction départementale des territoires du Haut-Rhin ;
+
+- fermeture de l'implantation d'Istres du service territorial Centre de la direction départementale des territoires et de la mer des Bouches-du-Rhône ;
+
+- fermeture du service territorial Est de Gonesse de la direction départementale des territoires du Val-d'Oise.
