@@ -7,7 +7,6 @@
 - [Décret n°96-606 du 1 juillet 1996 (INDE9600142D)](decret-n96-606-du-1-juillet-1996-inde9600142d)
 - [Décret n°96-763 du 1 septembre 1996 (PRMX9600080D)](decret-n96-763-du-1-septembre-1996-prmx9600080d)
 - [Décret n°96-96 du 1 février 1996 (TASS9523378D)](decret-n96-96-du-1-fevrier-1996-tass9523378d)
-- [Décret du 2 septembre 1996 (DOMP9600016D)](decret-du-2-septembre-1996-domp9600016d)
 - [Décret n°96-103 du 2 février 1996 (MCCB9500661D)](decret-n96-103-du-2-fevrier-1996-mccb9500661d)
 - [Décret n°96-1038 du 2 décembre 1996 (EQUM9602082D)](decret-n96-1038-du-2-decembre-1996-equm9602082d)
 - [Décret n°96-1040 du 2 décembre 1996 (FPPA9610031D)](decret-n96-1040-du-2-decembre-1996-fppa9610031d)
