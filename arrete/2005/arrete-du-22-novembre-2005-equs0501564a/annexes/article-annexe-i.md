@@ -763,7 +763,6 @@ T = ministère chargé des transports.
 <br/>(7) <p>29 septembre 2012 </p>
 <p>1er novembre 2013<br/>
 </p>
-<br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -1048,16 +1047,14 @@ T = ministère chargé des transports.
 </p>
 </td>
 <td align="center">
-<br/>Annexe IV 89/173/CEE remplacée par 2009/144/CE modifiée par 2010/52/ UE <br/>
+<br/>Annexe IV 89/173/CEE remplacée par 2009/144/CE modifiée par 2010/52/UE modifiée par 2013/8/UE <br/>
 </td>
 <td align="center">
 <br/>(7) <p>1er juin 2010 </p>
-<p>(9) <br/>
-</p>
+<p>(9) <br/>Au plus tard le<br/>31 mars 2014 </p>
 </td>
 <td align="center">
-<br/>(7) <p>(9) <br/>
-</p>
+<br/>(7) <p>(9) <br/>Au plus tard<br/>le 31 mars 2014</p>
 </td>
 <td align="center">
 <br/>X <br/>

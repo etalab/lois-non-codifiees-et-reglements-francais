@@ -588,8 +588,7 @@ T = ministère chargé des transports.
 </p>
 </td>
 <td align="center">
-<p>
-<br/>86/297/CEE modifiée par 2010/62/UE</p>
+<p>86/297/CEE modifiée par 2010/62/UE</p>
 <p>modifiée par 2012/24/UE <br/>
 </p>
 </td>
@@ -784,7 +783,7 @@ T = ministère chargé des transports.
 </p>
 </td>
 <td align="center">
-<br/>Annexe II, 2,3 et 4 2009/144/CE modifiée par 2010/52/ UE <br/>
+<br/>Annexe II, 2,3 et 4 2009/144/CE modifiée par 2010/52/UE <br/>
 </td>
 <td align="center">
 <br/>(7) <p>2 septembre 2011 <br/>
@@ -810,15 +809,13 @@ T = ministère chargé des transports.
 </p>
 </td>
 <td align="center">
-<br/>Annexe IV 2009/144/CE modifiée par 2010/52/ UE <br/>
+<br/>Annexe IV 2009/144/CE modifiée par 2010/52/UE modifiée par 2013/8/UE <br/>
 </td>
 <td align="center">
-<br/>(7) <p>(9) <br/>
-</p>
+<br/>(7) <p>(9) <br/>Au plus tard le<br/>31 mars 2014 </p>
 </td>
 <td align="center">
-<br/>(7) <p>(9) <br/>
-</p>
+<br/>(7) <p>(9) <br/>Au plus tard le<br/>31 mars 2014 </p>
 </td>
 <td align="center">
 <br/>X <br/>
