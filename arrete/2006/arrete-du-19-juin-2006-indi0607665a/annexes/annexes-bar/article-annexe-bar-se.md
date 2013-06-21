@@ -124,13 +124,13 @@ Remarque :
 
 Afin  de ne pas attribuer une double bonification, la somme des montants de  CEE de chaque opération standardisée incluse dans le CPE n'intègre pas  la bonification liée à l'opération de maintenance prévue par les fiches  BAR-TH-07-SE, BAR-TH-09-SE et BAR-TH-14-SE.
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° BAR-SE-04
 
-Rééquilibrage d'une installation collective
+Acquisition et réglage d'organes d'équilibrage neufs
 
-de chauffage à eau chaude du secteur résidentiel
+d'une installation collective de chauffage à eau chaude
 
 1. Secteur d'application :
 
@@ -138,17 +138,19 @@ Appartements existants équipés d'une installation collective de chauffage à e
 
 2. Dénomination :
 
-Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
-
-Une  installation collective de chauffage à eau chaude est considérée comme  équilibrée si l'écart de température entre le logement le plus chauffé  et le moins chauffé d'un même bâtiment est strictement inférieur à 2 °C.
+Acquisition  et réglage d'organes d'équilibrage neufs d'une installation collective  de chauffage à eau chaude, en vue d'assurer une température uniforme  dans tous les locaux.
 
 3. Conditions pour la délivrance de certificats :
 
-Installation  et réglage d'organes d'équilibrage neufs, en pied de colonne et/ou au  niveau des logements, effectués par un professionnel.
+Installation  et réglage d'organes d'équilibrage neufs, en pied de colonne et/ ou au  niveau des logements, effectués par un professionnel.
 
-Afin de  prouver que les organes d'équilibrage assurent une température uniforme  dans tous les locaux, le professionnel fournit le tableau  d'enregistrement, signé par ses soins et par le client, des températures  moyennes, après l'installation de ces organes d'équilibrage.
+Une  installation collective de chauffage à eau chaude est considérée comme  équilibrée si l'écart de température entre le logement le plus chauffé  et le moins chauffé d'un même bâtiment est strictement inférieur à 2° C.
 
-4. Durée de vie conventionnelle : 10 ans.
+Afin de prouver que les organes d'équilibrage assurent une  température uniforme dans tous les locaux, le professionnel fournit le  tableau d'enregistrement signé par ses soins et par le client des  températures moyennes, après l'installation de ces organes  d'équilibrage.
+
+4. Durée de vie conventionnelle :
+
+Dix ans.
 
 5. Montant de certificats en kWh cumac :
 
@@ -156,9 +158,9 @@ Afin de  prouver que les organes d'équilibrage assurent une température unifor
 <tbody>
 <tr>
 <td align="center">ZONE CLIMATIQUE  </td>
-<td align="center">MONTANT EN kWh CUMAC <br/>par appartement </td>
+<td align="center">MONTANT EN kWh cumac <br/>par appartement </td>
 <td align="center"/>
-<td align="center"> NOMBRE<br/>d'appartements </td>
+<td align="center"> NOMBRE D'APPARTEMENTS  </td>
 </tr>
 <tr>
 <td align="center">H1 </td>
