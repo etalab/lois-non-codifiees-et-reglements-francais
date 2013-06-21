@@ -2,17 +2,17 @@
 
 En application du second alinéa de l'article 3 du décret du 29 août 2012 susvisé, les emplois permettant l'accès à l'échelon spécial dans l'emploi de chef de services administratifs et financiers de la Caisse des dépôts et consignations sont :
 
-Direction générale et secrétariat général
+Direction des ressources humaines Groupe.
 
 Directeur (trice) des relations sociales de l'établissement public et du groupe.
 
-Direction des retraites
+Direction des retraites et de la solidarité.
 
 Adjoint (e) au directeur d'établissement, directeur (trice) des gestions et des prestations clients (Angers).
 
 Directeur (trice) de la solidarité et des risques professionnels (établissement de Bordeaux).
 
-Direction du développement territorial et du réseau
+Direction du développement territorial et du réseau.
 
 Secrétaire général (e) de la direction du développement territorial et du réseau.
 
