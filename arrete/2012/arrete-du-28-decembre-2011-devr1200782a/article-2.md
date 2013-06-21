@@ -10,6 +10,9 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <table>
 <tbody>
@@ -292,7 +295,7 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">7</p>
 </td>
 <td valign="top" width="75">
-<p align="center">1er octobre<br/>2012 -<br/>1er décembre<br/>2012</p>
+<p align="center">1er octobre<br/>2012 -<br/>31 décembre 2012</p>
 </td>
 <td valign="top" width="75">
 <p align="center">0,035</p>
@@ -387,6 +390,41 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 </td>
 <td valign="top" width="75">
 <br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">9</p>
+</td>
+<td valign="top" width="75">
+<p align="center">1er avril<br/>2013 -<br/>30 juin 2013</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,026</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,075</p>
+</td>
+<td valign="top" width="75">
+<p align="center">30,77</p>
+</td>
+<td valign="top" width="75">
+<p align="center">Supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">Supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">Supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">16,81</p>
+</td>
+<td valign="top" width="75">
+<p align="center">15,97</p>
+</td>
+<td valign="top" width="75">
+<p align="center">7,96</p>
 </td>
 </tr>
 </tbody>
