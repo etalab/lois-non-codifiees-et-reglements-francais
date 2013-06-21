@@ -10,6 +10,16 @@
 
 Le premier tiret du paragraphe précédent ne s'applique pas pour les paiements relatifs aux demandes d'aide déposées au titre de la campagne 2008-2009.
 
+A partir de la campagne 2011-2012, l'aide due est minorée :
+
+- de 5 % si la superficie totale éligible est supérieure ou égale à 70 % mais inférieure à 80 % de la superficie totale demandée ;
+
+- de 10 % si la superficie totale éligible est supérieure ou égale à 60 % mais inférieure à 70 % de la superficie totale demandée ;
+
+- de 20 % si la superficie totale éligible est supérieure ou égale à 50 % mais inférieure à 60 % de la superficie totale demandée ;
+
+- de 50 % si la superficie totale éligible est inférieure à 50 % de la superficie totale demandée.
+
 Le calcul de la minoration s'effectue sur la base du taux moyen à l'hectare du dossier.
 
 En cas de versement par avance, le calcul de la minoration s'effectue après application des dispositions spécifiques aux avances prévues par le règlement (CEE) n° 2220 / 85.
