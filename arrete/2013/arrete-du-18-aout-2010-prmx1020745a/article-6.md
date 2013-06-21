@@ -1,6 +1,6 @@
 # Article 6
 
-Les membres des commissions consultatives paritaires sont désignés pour une période maximale de trois ans.
+Les membres des commissions consultatives paritaires sont désignés pour une période de quatre ans. Leur mandat peut être renouvelé.
 
 Les représentants de l'administration, titulaires et suppléants, sont nommés par arrêté ministériel.
 
