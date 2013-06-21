@@ -10,7 +10,7 @@ Les membres du conseil peuvent participer aux séances par un moyen de visioconf
 
 En cas d'absence du président, la présidence de séance est assurée par le doyen d'âge.
 
-Le directeur général ou son représentant et le directeur chargé de la recherche de l'institut assistent aux séances avec voix consultative.
+Le directeur général ou son représentant, le directeur chargé de la recherche de l'institut, un représentant désigné par le ministre chargé du développement durable et un représentant désigné par le ministre chargé des forêts assistent aux séances avec voix consultative.
 
 Assistent également aux séances avec voix consultative les personnes dont l'audition est demandée par le président du conseil.
 

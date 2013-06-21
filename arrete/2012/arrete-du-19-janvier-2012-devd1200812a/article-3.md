@@ -4,21 +4,21 @@ Le conseil comprend les membres suivants nommés, dans les conditions de l'artic
 
 1° Huit personnalités scientifiques extérieures à l'institut, françaises ou étrangères, appartenant à la communauté scientifique ou aux secteurs économiques et sociaux ;
 
-2° Cinq représentants des ministres chargés respectivement de l'équipement, des forêts, de la recherche, de l'enseignement supérieur et de l'environnement ;
+2° Cinq experts des ministres chargés respectivement de l'équipement, des forêts, de la recherche, de l'enseignement supérieur et de l'environnement ;
 
-3° Un représentant de la direction générale de l'armement ;
+3° Un expert de la direction générale de l'armement ;
 
-4° Un représentant du service hydrographique et océanographique de la marine ;
+4° Un expert du service hydrographique et océanographique de la marine ;
 
-5° Un représentant du Centre national d'études spatiales ;
+5° Un expert du Centre national d'études spatiales ;
 
-6° Un représentant du Centre national de la recherche scientifique ;
+6° Un expert du Centre national de la recherche scientifique ;
 
-7° Un représentant de l'Institut national des sciences de l'Univers ;
+7° Un expert de l'Institut national des sciences de l'Univers ;
 
-8° Un représentant de l'Institut national de la recherche agronomique ;
+8° Un expert de l'Institut national de la recherche agronomique ;
 
-9° Un représentant de l'Ecole nationale des sciences géographiques ;
+9° Un expert de l'Ecole nationale des sciences géographiques ;
 
 10° Un représentant élu des chercheurs de l'institut, au vu des résultats du scrutin dont les modalités sont arrêtées par le directeur général.
 
