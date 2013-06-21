@@ -1,0 +1,3 @@
+# Article 1
+
+Tout militaire radié des cadres ou des contrôles, inactif, demandeur d'emploi ou retraité et non titulaire d'une pension d'invalidité au titre d'une des affections liées à des agents désignés ci-après, qui, du fait de ses fonctions au sein du ministère de la défense ou, pour les militaires de la gendarmerie nationale, au sein du ministère de l'intérieur, a été exposé à des agents cancérogènes, au sens de l'article D. 461-25 du code de la sécurité sociale, ou à des agents mutagènes ou toxiques pour la reproduction, définis à l'article R. 4412-60 du code du travail, a droit, sur sa demande, à une surveillance médicale postprofessionnelle prise en charge par le dernier ministère employeur.
