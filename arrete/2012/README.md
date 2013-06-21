@@ -688,7 +688,6 @@
 - [Arrêté du 9 juillet 2012 (DEVA1227289A)](arrete-du-9-juillet-2012-deva1227289a)
 - [Arrêté du 9 juillet 2012 (DEVK1226832A)](arrete-du-9-juillet-2012-devk1226832a)
 - [Arrêté du 9 juillet 2012 (ETSO1227536A)](arrete-du-9-juillet-2012-etso1227536a)
-- [Arrêté du 9 juillet 2012 (MAEF1228096A)](arrete-du-9-juillet-2012-maef1228096a)
 - [Arrêté du 9 juillet 2012 (MCCC1228727A)](arrete-du-9-juillet-2012-mccc1228727a)
 - [Arrêté du 9 juillet 2012 (PRMG1226275A)](arrete-du-9-juillet-2012-prmg1226275a)
 - [Arrêté du 9 juillet 2012 (PRMG1226277A)](arrete-du-9-juillet-2012-prmg1226277a)
