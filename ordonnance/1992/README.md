@@ -8,4 +8,5 @@
 - [Ordonnance n° 92-1140 du 12 octobre 1992 (DOMX9200081R)](ordonnance-n-92-1140-du-12-octobre-1992-domx9200081r)
 - [Ordonnance n° 92-1142 du 12 octobre 1992 (DOMX9200159R)](ordonnance-n-92-1142-du-12-octobre-1992-domx9200159r)
 - [Ordonnance n° 92-1145 du 12 octobre 1992 (DOMX9200166R)](ordonnance-n-92-1145-du-12-octobre-1992-domx9200166r)
+- [Ordonnance n° 92-1146 du 12 octobre 1992 (DOMX9200163R)](ordonnance-n-92-1146-du-12-octobre-1992-domx9200163r)
 - [Ordonnance n° 92-1148 du 12 octobre 1992 (DOMX9200167R)](ordonnance-n-92-1148-du-12-octobre-1992-domx9200167r)
