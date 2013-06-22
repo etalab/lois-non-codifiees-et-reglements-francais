@@ -1,7 +1,3 @@
 # Article 4
 
-Des liaisons informatisées sont mises en place avec :
-
-- l'application RED-PHARE de la DGCP ;
-
-- les applications de la direction générale des impôts.
+Des liaisons informatisées sont mises en place avec les applications relatives à l'établissement de l'assiette des impôts et au recouvrement des impôts de la direction générale des finances publiques.

@@ -1,3 +1,3 @@
 # Article 3
 
-Les destinataires potentiels des informations traitées sont les agents habilités de la direction générale de la comptabilité publique et de la direction générale des impôts.
+Les destinataires des informations traitées sont, dans la limite de leurs attributions, les agents habilités de la direction générale des finances publiques.
