@@ -1326,7 +1326,6 @@
 - [Décret n°2009-498 du 30 avril 2009 (MTST0905598D)](decret-n2009-498-du-30-avril-2009-mtst0905598d)
 - [Décret n°2009-499 du 30 avril 2009 (AGRP0904094D)](decret-n2009-499-du-30-avril-2009-agrp0904094d)
 - [Décret n°2009-500 du 30 avril 2009 (LOGU0903683D)](decret-n2009-500-du-30-avril-2009-logu0903683d)
-- [Décret n°2009-808 du 30 juin 2009 (MENH0901599D)](decret-n2009-808-du-30-juin-2009-menh0901599d)
 - [Décret n°2009-810 du 30 juin 2009 (ECEL0912875D)](decret-n2009-810-du-30-juin-2009-ecel0912875d)
 - [Décret n°2009-811 du 30 juin 2009 (ECEL0913060D)](decret-n2009-811-du-30-juin-2009-ecel0913060d)
 - [Décret n°79-267 du 30 mars 1979](decret-n79-267-du-30-mars-1979)
