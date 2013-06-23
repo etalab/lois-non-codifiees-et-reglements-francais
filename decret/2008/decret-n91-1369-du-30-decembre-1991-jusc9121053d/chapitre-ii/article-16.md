@@ -12,4 +12,4 @@ Peut en outre être admise toute autre personne morale de droit public ou privé
 
 Le conseil d'administration du conseil de l'accès au droit est présidé par le président du tribunal supérieur d'appel, dont la voix est prépondérante en cas de partage égal des voix.
 
-Il comprend un représentant de l'Etat désigné par le préfet et un membre du conseil général élu par celui-ci.
+Il comprend un représentant de l'Etat désigné par le préfet et un membre du conseil territorial élu par celui-ci.

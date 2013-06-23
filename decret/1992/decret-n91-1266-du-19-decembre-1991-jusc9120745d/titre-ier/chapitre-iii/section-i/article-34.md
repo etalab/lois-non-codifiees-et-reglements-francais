@@ -20,8 +20,10 @@ Le requérant doit joindre à cette demande :
 
 9° La justification de l'assurance de protection juridique ou du système de protection dont il a déclaré le bénéfice par la production de tout document approprié ainsi que la décision de prise en charge ou de non-prise en charge notifiée, selon le cas, par l'assureur à la suite de la déclaration de sinistre faite en application de l'article L. 113-2 du code des assurances, ou par l'employeur, précisant le montant des plafonds de garantie et de remboursement des frais, émoluments et honoraires couverts.
 
-Si le requérant bénéficie de l'allocation de solidarité aux personnes âgées ou du revenu de solidarité active et que pour ce dernier, ses ressources n'excèdent pas le montant forfaitaire visé au 2° de l'article L. 262-2 du code de l'action sociale et des familles, la déclaration de ressources prévue au 1° du présent article est remplacée par tout document justifiant de la perception de la prestation. Il en est de même pour le demandeur d'asile bénéficiant de l'allocation temporaire d'attente.
+Si le requérant bénéficie de l'allocation de solidarité aux personnes âgées ou du revenu de solidarité active et que pour ce dernier, ses ressources n'excèdent pas le montant forfaitaire visé au 2° de l'article L. 262-2 du code de l'action sociale et des familles, la déclaration de ressources prévue au 1° du présent article est remplacée par tout document justifiant de la perception de la prestation.
 
 La décision de l'assureur est établie selon un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie, de l'industrie et de l'emploi.
 
-10° Le cas échéant, la justification de versement du montant de la pension alimentaire.
+10° Le cas échéant, la justification de versement du montant de la pension alimentaire ;
+
+11° Par dérogation au 1° du présent article, devant la Cour nationale du droit d'asile, le demandeur à l'aide juridictionnelle produit une déclaration sur l'honneur attestant qu'il ne dispose pas, en France ou en provenance de l'étranger, de ressources d'un montant supérieur aux seuils prévus par l'article 4 de la loi n° 91-647 du 10 juillet 1991. Le cas échéant, le demandeur d'asile bénéficiaire de l'allocation temporaire d'attente produit tout document justifiant de la perception de cette prestation.

@@ -12,4 +12,4 @@ Elle contient les indications suivantes :
 
 Le bureau ou la section de bureau prononce l'admission à l'aide juridictionnelle totale ou partielle en fonction des ressources dont bénéficiait l'intéressé au jour de sa demande initiale.
 
-Le dossier est transmis au greffier ou au secrétaire de la juridiction qui a rendu la décision. L'ordonnateur compétent ou son délégataire procède à la liquidation et à l'ordonnancement des sommes dues qui sont réglées par le comptable assignataire.
+Le dossier est transmis au greffier ou au secrétaire de la juridiction qui a rendu la décision. L'ordonnateur compétent ou son délégataire procède à la liquidation et à l'ordonnancement des sommes dues qui sont réglées par le comptable de la direction générale des finances publiques.

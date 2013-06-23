@@ -48,31 +48,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td valign="top" width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td valign="top" width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td valign="top" width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <p align="center">2</p>
@@ -163,7 +163,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <p align="center">2</p>
@@ -190,11 +190,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -218,27 +218,27 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -247,31 +247,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -280,31 +280,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -316,11 +316,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -344,11 +344,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -372,11 +372,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -400,11 +400,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -428,11 +428,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -453,31 +453,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -486,31 +486,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -522,11 +522,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -550,11 +550,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -575,31 +575,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -638,11 +638,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -666,11 +666,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -694,27 +694,27 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -726,27 +726,27 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -758,27 +758,27 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -790,33 +790,33 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td>IV. 8. Procédure judiciaire de mainlevée et de contrôle des mesures de soins psychiatriques <br/>
+<td>IV. 8. Procédure judiciaire de mainlevée et de contrôle des mesures de soins psychiatriques <br clear="none"/>
 </td>
-<td align="center"> 4 (10)</td>
+<td align="center">4 (10)</td>
 <td/>
 <td/>
 <td/>
@@ -830,31 +830,31 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td width="58">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="79">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="68">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="73">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -869,7 +869,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -896,7 +896,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td width="69">
 <p align="center">4</p>
@@ -923,7 +923,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <p align="center">4</p>
@@ -950,7 +950,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td>
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 <td>
 <p align="center">4</p>
@@ -976,13 +976,11 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 <p>(7) Ces coefficients sont applicables aux procédures introduites devant la cour d'appel à compter du 1er janvier 2012.</p>
 <p>Pour les procédures en cours devant la cour d'appel au 1er janvier 2012, la rétribution de l'avocat est fixée à 14 UV et 18 UV ; elle peut être majorée en fonction des diligences accomplies par l'avocat :</p>
 <p>- de 8 UV dans le cas où l'avocat reprend les fonctions de postulation et que seule la déclaration d'appel ou la constitution d'intimé a été déposée par l'avoué dessaisi au 31 décembre 2011 ;</p>
-<p>- de 3 UV dans le cas où l'avocat reprend les fonctions de postulation et que les premières conclusions ont été déposées par l'avoué dessaisi au 31 décembre 2011.<br/>
+<p>- de 3 UV dans le cas où l'avocat reprend les fonctions de postulation et que les premières conclusions ont été déposées par l'avoué dessaisi au 31 décembre 2011.<br clear="none"/>
 </p>
 <p>(8) Ce coefficient est porté à 36 UV en cas de projet d'acte notarié de liquidation du régime matrimonial homologué par le juge aux affaires familiales lors du prononcé du divorce. </p>
 <p>(9) Y compris l'ouverture d'une mesure judiciaire d'aide à la gestion du budget familial sur requête ou saisine d'office du juge.</p>
 <p>(10) Y compris en appel devant le premier président.</p>
-<br/>
-<br/>
 </td>
 </tr>
 </tbody>
@@ -1003,7 +1001,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1060,7 +1058,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1069,7 +1067,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1094,7 +1092,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1175,7 +1173,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1208,7 +1206,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1233,7 +1231,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1242,7 +1240,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1251,7 +1249,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1284,7 +1282,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1309,7 +1307,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1334,7 +1332,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1379,37 +1377,45 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td valign="top" width="535">
-<p>XIV.6. Reconduite d'étrangers à la frontière</p>
+<p>XIV.6. Recours dirigés contre les décisions mentionnées à l'article R. 776-1 du code de justice administrative, lorsque l'étranger est placé en rétention ou assigné à résidence </p>
 </td>
 <td valign="top" width="69">
-<p align="center">6</p>
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="535">
-<p>XIV.7. Contentieux du titre de séjour assorti d'une obligation de quitter le territoire français</p>
+<p>XIV.7.Recours dirigés contre les décisions mentionnées à l'article R. 776-1 du code de justice administrative, lorsque l'étranger n'est pas placé en rétention ou assigné à résidence </p>
 </td>
 <td valign="top" width="69">
-<p align="center">20</p>
+<p align="center">16</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="535">
 <p align="center">XV. - Cour nationale du droit d'asile </p>
 </td>
-<td valign="top" width="69">
-<br/>
-<br/>
+<td valign="top" width="69"/>
+</tr>
+<tr>
+<td align="left">
+<p>XV.1. Procédures en audiences publiques </p>
+</td>
+<td>
+<p align="center">16</p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="535">
-<p>XVI. - Assistance d'un requérant devant le tribunal départemental des pensions ou la cour régionale des pensions et les autres juridictions administratives, sauf le Conseil d'Etat</p>
+<td align="left">
+<p>XV.2. Autres procédures </p>
 </td>
-<td valign="top" width="69">
-<br/>
-<br/>
+<td>
+<p align="center">4</p>
 </td>
+</tr>
+<tr>
+<td align="center"> XVI. - Assistance d'un requérant devant le tribunal départemental des  pensions ou la cour régionale des pensions et les autres juridictions  administratives, sauf le Conseil d'Etat</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="535">
@@ -1433,7 +1439,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -1466,7 +1472,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>

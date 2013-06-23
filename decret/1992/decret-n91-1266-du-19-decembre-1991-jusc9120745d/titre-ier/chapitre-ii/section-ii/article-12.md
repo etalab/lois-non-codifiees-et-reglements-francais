@@ -6,8 +6,8 @@ Outre son président et son vice-président, le bureau ou la section du bureau c
 
 2° Un huissier de justice choisi parmi les huissiers de justice en résidence dans le ressort du tribunal de grande instance ;
 
-3° Le directeur départemental des services fiscaux ou son représentant ;
+3° Le directeur départemental des finances publiques ou son représentant ;
 
-4° Le directeur départemental des affaires sanitaires et sociales ou son représentant ;
+4° Le directeur départemental de la cohésion sociale ou, le cas échéant, de la cohésion sociale et de la protection des populations ou son représentant ;
 
 5° Un membre désigné au titre des usagers.

@@ -8,7 +8,7 @@ Il comprend en outre :
 
 2. Deux directeurs de l'administration centrale du ministère de la justice ;
 
-3. Le directeur de l'action sociale au ministère chargé des affaires sociales ;
+3. Le directeur général de la cohésion sociale au ministère chargé des affaires sociales ;
 
 4. Un directeur de l'administration centrale du ministère chargé du budget ;
 
