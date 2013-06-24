@@ -189,7 +189,7 @@
 </tbody>
 </table>
 
-A N N E X E 1
+ANNEXE 1
 
 FICHE N° 1
 
@@ -268,7 +268,7 @@ FICHE N° 1
 </tbody>
 </table>
 
-A N N E X E 2
+ANNEXE 2
 
 FICHE N° 2.1
 
@@ -414,7 +414,7 @@ FICHE N° 2.2
 </tbody>
 </table>
 
-A N N E X E 3
+ANNEXE 3
 
 FICHE N° 3.1
 
@@ -600,7 +600,7 @@ FICHE N° 3.2
 </tbody>
 </table>
 
-A N N E X E 4
+ANNEXE 4
 
 FICHE N° 4
 
@@ -699,7 +699,7 @@ FICHE N° 4
 </tbody>
 </table>
 
-A N N E X E 5
+ANNEXE 5
 
 FICHE N° 5
 
@@ -778,7 +778,7 @@ FICHE N° 5
 </tbody>
 </table>
 
-A N N E X E 6
+ANNEXE 6
 
 FICHE N° 6.1
 
@@ -1096,7 +1096,7 @@ FICHE N° 6.4
 </tbody>
 </table>
 
-A N N E X E 7
+ANNEXE  7
 
 FICHE N° 7.1
 
@@ -1252,7 +1252,7 @@ FICHE N° 7.2
 </tbody>
 </table>
 
-A N N E X E 8
+ANNEXE 8
 
 FICHE N° 8
 
@@ -1331,7 +1331,7 @@ FICHE N° 8
 </tbody>
 </table>
 
-A N N E X E 9
+ANNEXE 9
 
 FICHE N° 9.1
 
@@ -1527,7 +1527,7 @@ FICHE N° 9.2
 </tbody>
 </table>
 
-A N N E X E 1 0
+ANNEXE 10
 
 FICHE N° 10.1
 
@@ -1713,7 +1713,7 @@ FICHE N° 10.2
 </tbody>
 </table>
 
-A N N E X E 1 1
+ANNEXE 11
 
 FICHE N° 11
 
@@ -1792,7 +1792,7 @@ FICHE N° 11
 </tbody>
 </table>
 
-A N N E X E 1 2
+ANNEXE 12
 
 FICHE N° 12
 
@@ -1881,7 +1881,7 @@ FICHE N° 12
 </tbody>
 </table>
 
-A N N E X E 1 3
+ANNEXE 13
 
 FICHE N° 13
 
@@ -2057,7 +2057,7 @@ FICHE N° 13.2
 </tbody>
 </table>
 
-A N N E X E 1 4
+ANNEXE 14
 
 FICHE N° 14.1
 
@@ -2213,7 +2213,7 @@ FICHE N° 14.2
 </tbody>
 </table>
 
-A N N E X E 1 5
+ANNEXE 15
 
 FICHE N° 15
 
@@ -2292,7 +2292,7 @@ FICHE N° 15
 </tbody>
 </table>
 
-A N N E X E 1 6
+ANNEXE 16
 
 FICHE N° 16
 
@@ -2381,7 +2381,7 @@ FICHE N° 16
 </tbody>
 </table>
 
-A N N E X E 1 7
+ANNEXE 17
 
 FICHE N° 17
 
@@ -2450,7 +2450,7 @@ FICHE N° 17
 </tbody>
 </table>
 
-A N N E X E 1 8
+ANNEXE 18
 
 FICHE N° 18
 
@@ -2539,7 +2539,7 @@ FICHE N° 18
 </tbody>
 </table>
 
-A N N E X E 1 9
+ANNEXE 19
 
 FICHE N° 19
 
@@ -2620,7 +2620,7 @@ FICHE N° 19
 </table>
 </div>
 
-A N N E X E 2 0
+ANNEXE 20
 
 FICHE N° 20.1
 
@@ -2816,7 +2816,7 @@ FICHE N° 20.3
 </p>
 </td>
 <td align="center">
-<p align="left">Navigation au-delà de 2 milles nautiques d'un abri.<br/>
+<p align="left">Navigation jusqu'à 200 milles nautiques d'un abri.<br/>
 </p>
 </td>
 </tr>
@@ -2933,7 +2933,8 @@ FICHE N° 20.4
 </p>
 </td>
 <td align="center">
-<p align="left">Une personne titulaire de la qualification chef de flottille peut encadrer :<br/>― une flottille de dix bateaux découverts jusqu'à un vent de force 3 Beaufort inclus et un éloignement maximum de 2 milles nautiques d'un abri ;<br/>― une flottille de quatre bateaux jusqu'à un vent de force 5 Beaufort inclus et un éloignement maximum de 6 milles nautiques d'un abri dès lors que chaque embarcation est pourvue d'un patron d'embarcation ou d'un chef de quart.<br/>Une personne titulaire de la qualification chef de quart peut encadrer :<br/>― une flottille de dix bateaux découverts jusqu'à un vent de force 3 Beaufort inclus et un éloignement maximum de 2 milles nautiques d'un abri ;<br/>― une flottille de quatre bateaux découverts ou habitables jusqu'à un vent de force 5 Beaufort inclus et un éloignement maximum de 2 milles nautiques d'un abri.<br/>Une personne titulaire de la qualification chef de quart peut commander un bateau en autonomie jusqu'à un vent de force 5 Beaufort inclus et un éloignement maximum de 6 milles nautiques d'un abri.<br/>
+<p align="left">Une personne titulaire de la qualification chef de flottille peut encadrer :<br/>
+<br/>― une flottille de dix bateaux découverts jusqu'à un vent de force 3 Beaufort inclus et un éloignement maximum de 2 milles nautiques d'un abri ;<br/>― une flottille de quatre bateaux jusqu'à un vent de force 5 Beaufort inclus et un éloignement maximum de 6 milles nautiques d'un abri dès lors que chaque embarcation est pourvue d'un patron d'embarcation ou d'un chef de quart.<br/>Une personne titulaire de la qualification chef de quart peut encadrer :<br/>― une flottille de dix bateaux découverts jusqu'à un vent de force 3 Beaufort inclus et un éloignement maximum de 2 milles nautiques d'un abri ;<br/>― une flottille de quatre bateaux découverts ou habitables jusqu'à un vent de force 5 Beaufort inclus et un éloignement maximum de 2 milles nautiques d'un abri.<br/>Une personne titulaire de la qualification chef de quart peut commander un bateau en autonomie jusqu'à un vent de force 5 Beaufort inclus et un éloignement maximum de 6 milles nautiques d'un abri.<br/>
 </p>
 </td>
 </tr>
@@ -2943,7 +2944,8 @@ FICHE N° 20.4
 </p>
 </td>
 <td align="center">
-<p align="left">Peut encadrer toute personne majeure membre permanent de l'équipe pédagogique d'un accueil de scoutisme et titulaire de l'une des qualifications chef de flottille ou chef de quart délivrée par la commission marine pour les seules associations suivantes :<br/>Eclaireurs et éclaireuses de France ;<br/>Eclaireurs et éclaireuses israélites de France ;<br/>scouts musulmans de France ;<br/>Eclaireurs et éclaireuses unionistes de France ;<br/>Scouts et guides de France ;<br/>Guides et scouts d'Europe ;<br/>Scouts unitaires de France.<br/>
+<p align="left">Peut encadrer toute personne majeure membre permanent de l'équipe pédagogique d'un accueil de scoutisme et titulaire de l'une des qualifications chef de flottille ou chef de quart délivrée par la commission marine pour les seules associations suivantes :<br/>
+<br/>Eclaireurs et éclaireuses de France ;<br/>Eclaireurs et éclaireuses israélites de France ;<br/>scouts musulmans de France ;<br/>Eclaireurs et éclaireuses unionistes de France ;<br/>Scouts et guides de France ;<br/>Guides et scouts d'Europe ;<br/>Scouts unitaires de France.<br/>
 </p>
 </td>
 </tr>
@@ -2973,14 +2975,15 @@ FICHE N° 20.4
 </p>
 </td>
 <td align="center">
-<p align="left">L'activité se déroule conformément aux dispositions des articles A. 322-64 à A. 322-70 du code du sport.<br/>Stage de formation : Dans le cadre exclusif des stages de formation préparant des mineurs de plus de quinze ans à la qualification patron d'embarcation , la navigation est autorisée avec un éloignement maximum de 20 milles nautiques d'un abri dans les conditions validées par l'une des associations nationales de scoutisme agréées, autorisées à délivrer les qualifications mentionnées dans la présente fiche.<br/>Les dispositions de la présente fiche sont en vigueur jusqu'au 1er juillet 2013.<br/>
+<p align="left">L'activité se déroule conformément aux dispositions des articles A. 322-64 à A. 322-70 du code du sport.<br/>
+<br/>Stage de formation : Dans le cadre exclusif des stages de formation préparant des mineurs de plus de quinze ans à la qualification patron d'embarcation , la navigation est autorisée avec un éloignement maximum de 20 milles nautiques d'un abri dans les conditions validées par l'une des associations nationales de scoutisme agréées, autorisées à délivrer les qualifications mentionnées dans la présente fiche.<br/>Les dispositions de la présente fiche sont en vigueur jusqu'au 1er juillet 2018.<br/>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-A N N E X E 2 1
+ANNEXE 21
 
 FICHE N° 21.1
 
@@ -3042,7 +3045,8 @@ FICHE N° 21.1
 </p>
 </td>
 <td align="center">
-<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° de l'article R. 227-13 du code de l'action sociale et des familles.<br/>Sous réserve que l'activité soit mise en œuvre par une association affiliée à la fédération française de vol libre ou à la fédération française de parachutisme, peut également encadrer un bénévole membre de cette association titulaire :<br/>― de la qualification moniteur ou animateur, deltaplane ou parapente délivrée par la fédération française de vol libre dans les limites qu'elle prévoit ;<br/>― de la qualification moniteur parapente, en cours de validité, délivrée par la fédération française de parachutisme dans les limites qu'elle prévoit.<br/>
+<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° de l'article R. 227-13 du code de l'action sociale et des familles.<br/>
+<br/>Sous réserve que l'activité soit mise en œuvre par une association affiliée à la fédération française de vol libre ou à la fédération française de parachutisme, peut également encadrer un bénévole membre de cette association titulaire :<br/>― de la qualification moniteur ou animateur, deltaplane ou parapente délivrée par la fédération française de vol libre dans les limites qu'elle prévoit ;<br/>― de la qualification moniteur parapente, en cours de validité, délivrée par la fédération française de parachutisme dans les limites qu'elle prévoit.<br/>
 </p>
 </td>
 </tr>
@@ -3129,7 +3133,8 @@ FICHE N° 21.2
 </p>
 </td>
 <td align="center">
-<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° de l'article R. 227-13 du code de l'action sociale et des familles.<br/>Sous réserve que l'activité soit mise en œuvre par une association affiliée à la fédération française de vol libre ou à la fédération française de parachutisme, peut également encadrer, un bénévole membre de cette association titulaire :<br/>― de la qualification moniteur deltaplane ou parapente délivrée par la fédération française de vol libre dans les limites qu'elle prévoit ;<br/>― de la qualification moniteur parapente, en cours de validité, délivrée par la fédération française de parachutisme dans les limites qu'elle prévoit.<br/>
+<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° de l'article R. 227-13 du code de l'action sociale et des familles.<br/>Sous réserve que l'activité soit mise en œuvre par une association affiliée à la fédération française de vol libre ou à la fédération française de parachutisme, peut également encadrer, un bénévole membre de cette association titulaire :<br/>
+<br/>― de la qualification moniteur deltaplane ou parapente délivrée par la fédération française de vol libre dans les limites qu'elle prévoit ;<br/>― de la qualification moniteur parapente, en cours de validité, délivrée par la fédération française de parachutisme dans les limites qu'elle prévoit.<br/>
 </p>
 </td>
 </tr>
@@ -3139,7 +3144,8 @@ FICHE N° 21.2
 </p>
 </td>
 <td align="center">
-<p align="left">La pratique de ces activités est conditionnée à la présentation :<br/>― d'une autorisation parentale ;<br/>― d'un certificat médical de non-contre indication à la pratique de l'activité.<br/>
+<p align="left">La pratique de ces activités est conditionnée à la présentation :<br/>
+<br/>― d'une autorisation parentale ;<br/>― d'un certificat médical de non-contre indication à la pratique de l'activité.<br/>
 </p>
 </td>
 </tr>
@@ -3206,7 +3212,8 @@ FICHE N° 21.3
 </p>
 </td>
 <td align="center">
-<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° de l'article R. 227-13 du code de l'action sociale et des familles.<br/>Sous réserve que l'activité soit mise en œuvre par une association affiliée à la fédération française de vol libre ou à la fédération française de parachutisme, peut également encadrer, un bénévole membre de cette association titulaire :<br/>― de la qualification biplace deltaplane ou parapente délivrée par la fédération française de vol libre dans les limites qu'elle prévoit ;<br/>― de la qualification moniteur porteur tandem parapente, en cours de validité, délivrée par la fédération française de parachutisme dans les limites qu'elle prévoit.<br/>
+<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° de l'article R. 227-13 du code de l'action sociale et des familles.<br/>Sous réserve que l'activité soit mise en œuvre par une association affiliée à la fédération française de vol libre ou à la fédération française de parachutisme, peut également encadrer, un bénévole membre de cette association titulaire :<br/>
+<br/>― de la qualification biplace deltaplane ou parapente délivrée par la fédération française de vol libre dans les limites qu'elle prévoit ;<br/>― de la qualification moniteur porteur tandem parapente, en cours de validité, délivrée par la fédération française de parachutisme dans les limites qu'elle prévoit.<br/>
 </p>
 </td>
 </tr>
@@ -3407,7 +3414,7 @@ FICHE N° 21.5
 </tbody>
 </table>
 
-A N N E X E 2 2
+ANNEXE 22
 
 FICHE N° 22.1
 
@@ -3439,7 +3446,8 @@ FICHE N° 22.1
 </p>
 </td>
 <td align="center">
-<p align="left">Terrain peu ou pas accidenté :<br/>― itinéraire balisé spécifiquement pour le VTT de randonnée, de niveau vert ou bleu, dans un site VTT FFC labellisé ou une base VTT FFCT également labellisée ou itinéraire équivalent (tous les itinéraires descendants et circuits de descente sont exclus de cette catégorie) ;<br/>― espace clos propice à la mise en place de zone de maniabilité à vélo, peu accidenté et privilégiant la maîtrise de l'engin à vitesse lente.<br/>
+<p align="left">Terrain peu ou pas accidenté :<br/>
+<br/>― itinéraire balisé spécifiquement pour le VTT de randonnée, de niveau vert ou bleu, dans un site VTT FFC labellisé ou une base VTT FFCT également labellisée ou itinéraire équivalent (tous les itinéraires descendants et circuits de descente sont exclus de cette catégorie) ;<br/>― espace clos propice à la mise en place de zone de maniabilité à vélo, peu accidenté et privilégiant la maîtrise de l'engin à vitesse lente.<br/>
 </p>
 </td>
 </tr>
@@ -3469,7 +3477,8 @@ FICHE N° 22.1
 </p>
 </td>
 <td align="center">
-<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° l'article R. 227-13 du code de l'action sociale et des familles.<br/>Peut aussi encadrer, une personne majeure, déclarée comme faisant partie de l'équipe pédagogique permanente de l'accueil, titulaire soit :<br/>― du brevet fédéral de moniteur VTT délivré par la Fédération française de cyclotourisme ;<br/>― du brevet fédéral du 2e degré délivré par la Fédération française de cyclisme.<br/>
+<p align="left">Peut encadrer, toute personne majeure répondant aux conditions prévues aux 1°, 2° ou 3° l'article R. 227-13 du code de l'action sociale et des familles.<br/>Peut aussi encadrer, une personne majeure, déclarée comme faisant partie de l'équipe pédagogique permanente de l'accueil, titulaire soit :<br/>
+<br/>― du brevet fédéral de moniteur VTT délivré par la Fédération française de cyclotourisme ;<br/>― du brevet fédéral du 2e degré délivré par la Fédération française de cyclisme.<br/>
 </p>
 </td>
 </tr>
@@ -3489,7 +3498,8 @@ FICHE N° 22.1
 </p>
 </td>
 <td align="center">
-<p align="left">Le directeur de l'accueil communique la liste de tous les participants et leur âge à l'encadrant.<br/>L'encadrant porte le projet d'activité à la connaissance du directeur de l'accueil et l'informe de l'heure exacte de départ du groupe et de l'heure prévue pour le retour.<br/>L'équipement du pratiquant comprend :<br/>― un casque homologué et conforme à la norme CE en vigueur ;<br/>― un vélo prévu pour le tout terrain (VTT) conforme au décret n° 95-937 du 24 août 1995 relatif à la prévention des risques résultant de l'usage des bicyclettes ;<br/>― les équipements de protection adaptés au public et à l'activité.<br/>
+<p align="left">Le directeur de l'accueil communique la liste de tous les participants et leur âge à l'encadrant.<br/>L'encadrant porte le projet d'activité à la connaissance du directeur de l'accueil et l'informe de l'heure exacte de départ du groupe et de l'heure prévue pour le retour.<br/>L'équipement du pratiquant comprend :<br/>
+<br/>― un casque homologué et conforme à la norme CE en vigueur ;<br/>― un vélo prévu pour le tout terrain (VTT) conforme au décret n° 95-937 du 24 août 1995 relatif à la prévention des risques résultant de l'usage des bicyclettes ;<br/>― les équipements de protection adaptés au public et à l'activité.<br/>
 </p>
 </td>
 </tr>
