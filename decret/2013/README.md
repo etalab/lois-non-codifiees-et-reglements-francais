@@ -285,6 +285,8 @@
 - [Décret n°2013-233 du 21 mars 2013 (DEFD1302399D)](decret-n2013-233-du-21-mars-2013-defd1302399d)
 - [Décret n°2013-235 du 21 mars 2013 (INTV1301087D)](decret-n2013-235-du-21-mars-2013-intv1301087d)
 - [Décret n°2013-236 du 21 mars 2013 (OMEO1304942D)](decret-n2013-236-du-21-mars-2013-omeo1304942d)
+- [Décret n°2013-529 du 21 juin 2013 (EFIT1315661D)](decret-n2013-529-du-21-juin-2013-efit1315661d)
+- [Décret n°2013-530 du 21 juin 2013 (AFSS1303769D)](decret-n2013-530-du-21-juin-2013-afss1303769d)
 - [Décret n°2013-413 du 21 mai 2013 (AFSP1306657D)](decret-n2013-413-du-21-mai-2013-afsp1306657d)
 - [Décret n°2013-414 du 21 mai 2013 (AFSP1304115D)](decret-n2013-414-du-21-mai-2013-afsp1304115d)
 - [Décret n°2013-415 du 21 mai 2013 (AFSH1311868D)](decret-n2013-415-du-21-mai-2013-afsh1311868d)
