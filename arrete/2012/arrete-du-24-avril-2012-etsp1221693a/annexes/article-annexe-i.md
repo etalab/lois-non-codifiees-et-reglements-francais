@@ -68,6 +68,23 @@ Liste II
 </tr>
 <tr>
 <td>
+<p align="center">Aminophylline </p>
+</td>
+<td>
+<p align="center">Voie orale</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+<td>
+<p align="center">0,2</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">Butopiprine </p>
 </td>
 <td>
@@ -112,6 +129,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">0,45</p>
@@ -122,6 +141,8 @@ Liste II
 <p align="center">Comprimé</p>
 </td>
 <td>
+<br/>
+<br/>
 <br/>
 </td>
 <td>
@@ -160,6 +181,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">0,33</p>
@@ -170,6 +193,8 @@ Liste II
 <p align="center">Comprimé</p>
 </td>
 <td>
+<br/>
+<br/>
 <br/>
 </td>
 <td>
@@ -188,6 +213,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">0,01</p>
@@ -201,6 +228,8 @@ Liste II
 <p align="center">Comprimé</p>
 </td>
 <td>
+<br/>
+<br/>
 <br/>
 </td>
 <td>
@@ -218,6 +247,8 @@ Liste II
 <p align="center">2</p>
 </td>
 <td>
+<br/>
+<br/>
 <br/>
 </td>
 <td>
@@ -250,6 +281,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">0,05</p>
@@ -264,6 +297,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">0,72</p>
@@ -277,6 +312,8 @@ Liste II
 <p align="center">Sucre</p>
 </td>
 <td>
+<br/>
+<br/>
 <br/>
 </td>
 <td>
@@ -295,6 +332,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">7,5</p>
@@ -312,6 +351,8 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">2,3</p>
@@ -325,6 +366,8 @@ Liste II
 <p align="center">Comprimé</p>
 </td>
 <td>
+<br/>
+<br/>
 <br/>
 </td>
 <td>
@@ -343,9 +386,28 @@ Liste II
 </td>
 <td>
 <br/>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">0,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Théophylline</p>
+</td>
+<td>
+<p align="center">Voie orale</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+<td>
+<p align="center">0,1</p>
+</td>
+<td>
+<p align="center">3,6</p>
 </td>
 </tr>
 </tbody>
