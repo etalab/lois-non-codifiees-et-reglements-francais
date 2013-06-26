@@ -1,6 +1,6 @@
 # Article 5
 
-Tout distributeur exerçant une activité de vente au détail des carburants affiche ses prix de vente au détail aux consommateurs des supercarburants à teneur en éthanol maximale de 10 % (indice d'octane recherche 95), des supercarburants à teneur en éthanol maximale de 5 % (indice d'octane recherche 95), du superéthanol E85, du gazole, et du GPLc sur le site internet : www. prix-carburants. gouv. fr. Toute modification du prix de vente est en outre immédiatement affichée.
+Tout distributeur exerçant une activité de vente au détail des carburants affiche, lorsqu'il les propose à la vente, ses prix de vente au détail aux consommateurs des supercarburants à teneur en éthanol maximale de 10 % (indice d'octane recherche 95), des supercarburants à teneur en éthanol maximale de 5 %, du superéthanol E85, du gazole, et du GPLc sur le site internet :  www.prix-carburants.gouv.fr. Toute modification du prix de vente est en outre immédiatement affichée.
 
 La communication par le distributeur des prix de vente en vue de leur affichage sur le site internet précité s'effectue par internet ou par un service vocal.
 
