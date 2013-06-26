@@ -2,11 +2,9 @@
 
 Les attributions des commissions administratives paritaires locales sont limitées à la préparation des travaux des commissions paritaires nationales désignées à l'article 1er ci-avant pour les actes de gestion suivants :
 
-- avancement de grade ;
-
 - avancement de corps par liste d'aptitude ;
 
-- révision de la notation.
+- révision du compte rendu de l'entretien professionnel.
 
 Les attributions des commissions administratives paritaires locales sont investies de compétences propres pour les actes de gestion suivants :
 
