@@ -2,9 +2,9 @@
 
 Récolte en vert et non-récolte.
 
-1. Les produits éligibles à la récolte en vert et à la non-récolte et le montant maximal des paiements à l'hectare sont précisés à l'annexe III du présent arrêté.
+1. Les produits éligibles à la récolte en vert et à la non-récolte, ainsi que les montants maximaux des paiements à l'hectare correspondants sont précisés dans l'annexe W de la stratégie nationale.
 
-2. Les procédés utilisés pour la récolte en vert ou la non-récolte doivent être compatibles avec le cahier des charges des techniques respectueuses de l'environnement disponible sur le site de l'office (www. franceagrimer. fr).
+2. Les procédés utilisés pour la récolte en vert ou la non-récolte doivent être compatibles avec le cahier des charges des techniques respectueuses de l'environnement publié sous la forme de fiche produit sur le site internet de FranceAgriMer.
 
 3. Les organisations de producteurs ou leurs associations notifient chaque opération de récolte en vert ou de non-récolte par télécommunication écrite ou message électronique au moins 72 heures (jours ouvrables) à l'avance, à l'office.
 

@@ -16,7 +16,7 @@ Il est strictement interdit d'utiliser des produits tels que la chaux vive, l'ea
 
 L'organisation de producteurs qui souhaite procéder à l'épandage de produits retirés du marché adresse au préfet compétent une demande d'agrément des parcelles agricoles concernées au plus tard le 30 septembre précédant la mise en œuvre du fonds opérationnel.
 
-Les méthodes et seuils d'épandage que doit respecter l'organisation figurent à l'annexe IV du présent arrêté.
+Les méthodes et seuils d'épandage que doit respecter l'organisation de producteurs sont publiés sous la forme de fiche produit sur le site internet de FranceAgriMer.
 
 L'organisation de producteurs tient à jour un fichier de tous les sites sur lesquels sont épandus des produits retirés.
 
@@ -28,24 +28,26 @@ A chaque réception de produits, l'éleveur ou l'entreprise assimilée qui a ét
 
 3. Distribution gratuite des produits à l'état frais :
 
-Les organismes mentionnés à l'article D. 664-21 du code rural qui souhaitent bénéficier gratuitement des fruits et légumes retirés du marché adressent à l'office une demande d'agrément avant le 30 septembre de l'année qui précède la mise en œuvre du fonds opérationnel.
+En application du décret n° 2012-63 du 19 janvier 2012 et notamment les articles D. 230-19 et D. 230-20, les organismes mentionnés à l'article D. 664-21 du code rural et de la pêche maritime qui souhaitent bénéficier gratuitement des fruits et légumes retirés du marché demandent leur habilitation soit auprès du ministre chargé de l'alimentation (habilitation nationale), soit au préfet de région du siège social de la personne morale (habilitation régionale).
 
-L'agrément est accordé, le cas échéant, au bénéfice des antennes locales de l'organisme agréé. La liste de ces antennes est annexée à la décision d'agrément.
+L'arrêté du 8 août 2012 relatif aux données chiffrées de l'aide alimentaire et aux modalités de leur transmission définit la composition du dossier de demande d'habilitation.
 
-A l'appui de leur demande d'agrément, les organismes s'engagent à :
+4. Transformation des produits retirés du marché en vue de leur distribution dans le cadre de l'aide alimentaire.
 
-― respecter les dispositions des règlement (CE) n° 1234/2007 et règlement d'exécution (UE) n° 543/2011 ainsi que du présent arrêté ;
+L'organisation caritative qui dispose d'un outil de transformation mis en œuvre dans le cadre d'une action sociale peut transformer pour son propre compte les produits retirés du marché et cédés gratuitement par les organisations de producteurs.
 
-― tenir une comptabilité-matière qui reflète en détail les opérations en cause ;
+Dans ce cas, les produits finis ne doivent pas être vendus dans un cadre commercial mais doivent être distribués dans le cadre de l'aide alimentaire aux plus démunis, y compris dans les épiceries solidaires pour un montant symbolique.
 
-― se soumettre aux opérations de contrôle prévues par la réglementation communautaire ainsi que par le présent arrêté ;
+Dans ce cas, les organisations caritatives tiennent une comptabilité matière spécifique traçant :
 
-― attester des quantités réceptionnées en remplissant un certificat de prise en charge délivré par l'office.
+- les quantités de produits frais réceptionnés (date, quantités, provenance) ;
 
-4. Au plus tard trois mois avant les opérations de retrait, les transformateurs intéressés se déclarent candidats auprès de FranceAgriMer.
+- les quantités entrant dans le processus de transformation (date, type de transformation) ;
 
-L'office assure la sélection des transformateurs dans le cadre d'une procédure d'adjudication permanente européenne.
+- les quantités de produits finis obtenus.
 
-Afin d'assurer l'exécution de l'offre, le transformateur constitue une garantie de prise en charge des retraits. Cette garantie prend la forme d'une caution bancaire au profit de FranceAgriMer.
+5. Les organisations caritatives agréées ont l'autorisation de demander une contribution symbolique aux destinataires finaux des produits retirés du marché.
 
-Après transmission du projet d'attribution du contrat de transformation et décision favorable de la Commission des Communautés européennes, l'attribution est effectuée par l'office. Pour chaque lot, l'office informe le transformateur, au fur et à mesure des retraits, des organisations de producteurs chez lesquelles il peut s'approvisionner en produits frais, en lui accordant la priorité par rapport aux autres destinations possibles pour les produits retirés.
+Cette contribution ne doit pas excéder 20 % de la valeur marchande des produits.
+
+L'organisation caritative qui prélève une telle contribution doit être en mesure de justifier avec des données comptables et financières que cette contribution ne constitue pas un quelconque profit pour elle.

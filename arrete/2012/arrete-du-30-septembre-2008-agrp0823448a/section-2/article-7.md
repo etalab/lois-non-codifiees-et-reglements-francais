@@ -22,4 +22,4 @@ La notification des modifications de programmes pour l'année en cours, non soum
 
 En revanche, toute autre modification doit être soumise à autorisation et fait basculer le programme opérationnel sous le règlement (CE) n° 1234/2007 et règlement d'exécution (UE) n° 543/2011. Cela concerne en particulier la création de nouvelles mesures ou actions, les modifications du mode d'alimentation du fonds opérationnel et / ou le mode de calcul des contributions, y compris les contributions différenciées.
 
-La notification de ces modifications de programmes pour l'année en cours est adressée au directeur général de FranceAgriMer au plus tard le 31 décembre de l'année.
+La notification de ces modifications de programmes pour l'année en cours est réceptionnée par le directeur général de FranceAgriMer au plus tard le 31 décembre de l'année.

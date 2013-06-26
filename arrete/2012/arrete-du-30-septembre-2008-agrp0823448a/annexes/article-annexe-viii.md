@@ -1,10 +1,6 @@
 # Article Annexe VIII
 
-**MODÈLE DE CONVENTION RELATIVE À LA RÉALISATION D'ACTIONS
-
-ET D'INVESTISSEMENTS CHEZ UN ADHÉRENT D'UNE ORGANISATION DE
-
-PRODUCTEURS DANS LE CADRE DU PROGRAMME OPÉRATIONNEL 20../20.. (ANNÉE 20..)**
+**MODÈLE DE CONVENTION RELATIVE À LA RÉALISATION D'ACTIONS ET D'INVESTISSEMENTS CHEZ UN ADHÉRENT D'UNE ORGANISATION DE PRODUCTEURS DANS LE CADRE DU PROGRAMME OPÉRATIONNEL 20../20.. (ANNÉE 20..)**
 
 Entre :
 
@@ -50,7 +46,7 @@ Cette action est prise en charge à hauteur de X % de son montant HT.
 
 Cette action est prise en charge à hauteur de X % de son montant HT.
 
-L'adhérent acquitte les factures relatives à la réalisation de cette action ou de cet investissement et effectue une demande de prise en charge auprès de l'OP à hauteur de X % du coût HT de cette action ou de cet investissement. Il joint à sa demande la copie de la facture acquittée.
+L'adhérent s'acquitte des factures relatives à la réalisation de cette action ou de cet investissement et effectue une demande de prise en charge auprès de l'organisation de producteurs à hauteur de X % du coût HT de cette action ou de cet investissement. Il fournit à l'organisation de producteurs la copie de la facture acquittée avant le 15 février.
 
 L'OP verse à l'adhérent le montant correspondant inscrit au fonds opérationnel 20. Cette dépense doit être débitée du compte bancaire de l'OP, au plus tard le 15 février.
 

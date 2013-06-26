@@ -12,7 +12,7 @@ Celle-ci est établie selon les modalités suivantes. Le montant du forfait, cal
 
 3° Et agréé par le ministère de l'agriculture et de la pêche (direction générale des politiques agricole, agroalimentaire et des territoires [DGPAAT]).
 
-2. La liste des forfaits agréés est présentée à l'annexe VII du présent arrêté.
+2. La liste des forfaits agréés est publiée sur le site internet de FranceAgriMer.
 
 Lorsqu'un forfait existe, son utilisation reste facultative. Par ailleurs, l'organisation de producteurs peut retenir un montant forfaitaire inférieur au montant du forfait agréé.
 
@@ -42,7 +42,9 @@ Seuls des montants forfaitaires se rapportant à une ou plusieurs des actions pr
 
 ― elle est agréée par le ministère de l'agriculture et de la pêche (direction générale des politiques agricole, agroalimentaire et des territoires [DGPAAT]).
 
-4. Les coûts spécifiques de gestion environnementale des emballages de commercialisation, hors palettes, peuvent être pris en compte sur la base d'un taux forfaitaire correspondant à 6 % maximum du coût des emballages, sur présentation par l'organisation de producteurs des factures acquittées d'achat ou de location. La prise en compte de ces coûts spécifiques sur la base du taux forfaitaire de 6 % des dépenses éligibles liées à la gestion environnementale des emballages de commercialisation est exclusive de tout autre prise en charge par le programme opérationnel d'autres frais réels concernant la gestion environnementale des emballages de commercialisation et vice versa. Pour les programmes opérationnels approuvés après le 22 juin 2011, les dépenses liées aux actions de gestion des emballages respectueuse de l'environnement ne peuvent pas dépasser 20 % des dépenses annuelles au titre d'un programme opérationnel.
+4. Les coûts spécifiques de gestion environnementale des emballages de commercialisation sur la base d'un forfait du coup d'achat de ces emballages ne sont pas éligibles.
+
+Cependant, la dépense reste éligible dans le cas où le programme opérationnel a été agréé pour la mesure en question et sous réserve de sa mise en œuvre dans les conditions prévues dans la stratégie nationale en matière de programmes opérationnels à caractère durable avant le 28 août 2012.
 
 5. Les coûts spécifiques pour la réduction de l'emploi de produits phytosanitaires par utilisation de plants greffés (plants maraîchers) peuvent être pris en charge sur la base d'un taux forfaitaire correspondant à 40 % maximum du coût hors taxe des plants greffés sur présentation par l'organisation de producteurs des factures acquittées.
 
