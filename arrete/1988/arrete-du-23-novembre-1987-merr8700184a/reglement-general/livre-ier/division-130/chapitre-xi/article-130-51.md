@@ -30,4 +30,12 @@ C. - Dispositions particulières :
 
 2. La délibération de la commission peut valablement se faire en l'absence du médecin des gens de mer et du représentant de l'Agence nationale des fréquences s'ils ont, préalablement, remis par écrit au président un rapport de visite, effectuée dans les trois mois précédents, précisant les observations ou prescriptions qu'ils ont été amenés à émettre dans le cadre de leur spécialité. Ces rapports sont joints au procès-verbal de visite.
 
-3. A compter du 1er octobre 2012, pour les navires de charge et de pêche d'une longueur inférieure à 12 mètres, la délibération de la commission peut valablement se faire en l'absence du médecin des gens de mer du représentant de l'Agence nationale des fréquences s'ils ont, préalablement, remis par écrit au président un rapport de visite, effectuée dans les six mois précédents, précisant les observations ou prescriptions qu'ils ont été amenés à émettre dans le cadre de leur spécialité. Ces rapports sont joints au procès-verbal de visite.
+3. Pour les navires de charge et de pêche d'une longueur inférieure à 12 mètres, la délibération de la commission peut valablement se faire en l'absence du médecin des gens de mer, s'il a, préalablement, remis par écrit au président un rapport de visite, effectuée dans les six mois précédents, précisant les observations ou prescriptions qu'il a été amené à émettre. Ces rapports sont joints au procès-verbal de visite.
+
+4. Pour les navires de charge et de pêche d'une longueur inférieure à 12 mètres, la délibération de la commission peut valablement se faire en l'absence du représentant de l'Agence nationale des fréquences selon les modalités suivantes :
+
+- pour les navires disposant d'un permis de navigation en 3e catégorie et les navires disposant d'un permis de navigation en 4e catégorie et soumis à l'obligation d'emport d'un équipement requérant un numéro MMSI, le rapport de visite du représentant de l'Agence nationale des fréquences date de moins de deux ans ;
+
+- pour les navires disposant d'un permis de navigation en 4e et 5e catégorie, le rapport de visite du représentant de l'Agence nationale des fréquences date de moins de quatre ans.
+
+5. Les navires ne disposant que d'installations radioélectriques portatives ne sont pas à considérer comme disposant d'une installation radioélectrique au sens de l'article 27 du décret n° 84-810 du 30 août 1984.
