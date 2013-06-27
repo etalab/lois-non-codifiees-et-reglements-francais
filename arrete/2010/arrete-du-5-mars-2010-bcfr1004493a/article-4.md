@@ -2,7 +2,7 @@
 
 Le recouvrement des créances suivantes lui est confié :
 
-1° Arrêtés de débet prévus à l'article 84 du décret du 29 décembre 1962 susvisé ;
+1° Arrêtés de débet prévus à l'article 112 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
 
 2° Débets et amendes prononcés par la Cour des comptes ainsi que par les chambres régionales ou territoriales des comptes ;
 
@@ -64,4 +64,6 @@ e) Les demandes d'autorisation d'importation parallèle ;
 
 f) Les demandes de dépôt de publicité ;
 
-24° Contribution pour frais de contrôle prévue à l'article L. 612-20 du code monétaire et financier.
+24° Contribution pour frais de contrôle prévue à l'article L. 612-20 du code monétaire et financier ;
+
+25° Prélèvement au profit du Fonds national d'aide au logement sur la collecte de participation des employeurs à l'effort de construction.
