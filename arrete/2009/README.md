@@ -1768,8 +1768,6 @@
 - [Arrêté du 22 décembre 2008 (ECER0829701A)](arrete-du-22-decembre-2008-ecer0829701a)
 - [Arrêté du 22 décembre 2008 (JUSB0817588A)](arrete-du-22-decembre-2008-jusb0817588a)
 - [Arrêté du 22 décembre 2008 (JUSB0831278A)](arrete-du-22-decembre-2008-jusb0831278a)
-- [Arrêté du 22 décembre 2008 (MAEA0829560A)](arrete-du-22-decembre-2008-maea0829560a)
-- [Arrêté du 22 décembre 2008 (MAEA0829562A)](arrete-du-22-decembre-2008-maea0829562a)
 - [Arrêté du 22 décembre 2008 (MLVU0827163A)](arrete-du-22-decembre-2008-mlvu0827163a)
 - [Arrêté du 22 décembre 2008 (MLVU0827164A)](arrete-du-22-decembre-2008-mlvu0827164a)
 - [Arrêté du 22 décembre 2008 (MTSS0830941A)](arrete-du-22-decembre-2008-mtss0830941a)
