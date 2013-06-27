@@ -1,3 +1,3 @@
 # Article 10
 
-La directrice générale de l'offre de soins et le directeur de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Par exception aux dispositions du présent arrêté et en application des dispositions du IV de l'article 128 de la loi n° 2009-879 du 21 juillet 2009, les décisions de zonages arrêtées antérieurement par les missions régionales de santé sur la base de l'article L. 162-47 du code de la sécurité sociale demeurent en vigueur jusqu'à publication par le directeur général de l'agence régionale de santé des zones définies au cinquième alinéa de l'article L. 1434-7 du code de santé publique, dans les conditions mentionnées au paragraphe II de l'article 4 de la loi n° 2011-940 du 10 août 2011.

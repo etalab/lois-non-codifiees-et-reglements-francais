@@ -1501,3 +1501,5 @@ Tableau. ― Définition des scores
 <i>(1) Sauf MSA, SNCF, MINES et APRIA-AMEXA sur le mois de décembre 2010. </i>
 <br/>
 </div>
+<div align="left"/>
+<div align="left">Par décision dûment motivée, l'agence régionale de santé de Guyane pourra déroger aux principes d'adaptation régionale prévus dans la présente méthodologie pour le classement des zones par catégorie.</div>

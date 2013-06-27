@@ -1016,3 +1016,5 @@ Tableau. - Adaptation régionale par les ARS
 </table>
 
 Par dérogation à la présente méthodologie, l'ensemble du territoire de Mayotte est classé en zone très sous-dotée.
+
+Par décision dûment motivée, l'agence régionale de santé de Guyane pourra déroger aux principes d'adaptation régionale prévus dans la présente méthodologie pour le classement des zones par catégorie.
