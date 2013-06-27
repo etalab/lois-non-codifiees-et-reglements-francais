@@ -1,3 +1,3 @@
 # Article 9
 
-Par exception aux dispositions du présent arrêté et en application des dispositions du IV de l'article 128 de la loi n° 2009-879 du 21 juillet 2009, les décisions de zonages arrêtées antérieurement par les missions régionales de santé sur la base de l'article L. 162-47 du code de la sécurité sociale demeurent en vigueur jusqu'à publication par le directeur général de l'agence régionale de santé des zones définies au cinquième alinéa de l'article L. 1434-7 du code de santé publique, dans les conditions mentionnées au paragraphe II de l'article 4 de la loi n° 2011-940 du 10 août 2011.
+Le présent arrêté pourra être révisé afin de tenir compte, le cas échéant, des modalités de mise en œuvre des mesures destinées à favoriser une meilleure répartition géographique des professionnels de santé et prévues par les conventions mentionnées au chapitre II du titre VI du livre Ier du code de la sécurité sociale.
