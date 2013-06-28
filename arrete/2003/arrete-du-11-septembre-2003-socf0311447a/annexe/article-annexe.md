@@ -1,102 +1,97 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+**INFORMATIONS REQUISES**
+**POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
-Intitulé :
-
-Titre professionnel d'ouvrier du paysage.
+Intitulé : ouvrier du paysage.
 
 Niveau : V.
 
-Code NSF : 214r.
+Codes NSF : 214 r, 214 s.
 
-Résumé du référentiel d'emploi :
+Résumé du référentiel d'emploi
 
-L'ouvrier du paysage participe à la création et à l'entretien des espaces verts à vocation ornementale qui améliorent le cadre de vie (parcs et jardins).
+L'ouvrier du paysage aménage et entretient des espaces verts à vocation ornementale destinés à l'amélioration du cadre de vie (parcs, jardins, sols sportifs).
 
-Il intervient dans un milieu naturel afin de mettre en valeur le patrimoine végétal (berges de cours d'eau, zones boisées, marécageuses, littorales, de montagne), ou entretenir la forêt (sélection, débroussaillages, petits abattages, etc.).
+Il intervient dans un milieu naturel afin de mettre en valeur le patrimoine végétal. Il assure également l'aménagement et l'entretien des sols sportifs et des aires de jeux.
 
-Il assure l'aménagement et l'entretien des sols sportifs et des aires de jeux.
+Il intervient sur tout le cycle de vie des végétaux (sélection, plantation, entretien). Il effectue des travaux de maçonnerie paysagère, installe des systèmes d'arrosage et entretient le matériel utilisé.
 
-Ouvrier polyvalent, il s'occupe des végétaux et est aussi capable d'effectuer des travaux de maçonnerie, d'installer des systèmes d'irrigation et d'entretenir le matériel qu'il met en œuvre.
+A partir de consignes et d'informations (plans, schémas ou croquis) transmises sur le chantier par son responsable hiérarchique, l'ouvrier du paysage participe aux implantations des travaux, réalise les travaux de préparation du sol, les plantations d'arbres, d'arbustes et de décors floraux, les engazonnements et les petits travaux de maçonnerie paysagère. Il nettoie les abords, entretient les massifs, les végétaux et les gazons et assure la maintenance de premier niveau du matériel qu'il met en œuvre. Sous la responsabilité de son hiérarchique, il applique des produits phytopharmaceutiques.
 
-Il exerce ses activités, seul ou en équipe, en plein air, en toutes saisons. Il utilise fréquemment des matériels motorisés (parfois bruyants, spécifiques et coûteux) et des produits (chimiques et / ou organiques) dans le respect des mesures de sécurité prévues. En fonction de l'activité de l'entreprise et de la situation géographique des différents chantiers, les déplacements peuvent être fréquents, souvent dans un périmètre permettant un retour quotidien au domicile ; le travail implique parfois des horaires adaptés (journée continue, etc.).
+Il exerce l'emploi seul ou en équipe en appliquant les directives de son responsable hiérarchique ou du client. Il se déplace pour se rendre sur les chantiers, dans un périmètre géographique local. Il travaille en plein air. La nature de ses activités est soumise à la saisonnalité et aux conditions climatiques. Il utilise fréquemment des matériels motorisés spécifiques.
 
-L'ouvrier du paysage travaille principalement dans des entreprises du paysage dont la taille moyenne est inférieure à dix salariés, ou les services espaces verts des collectivités territoriales.
+Il respecte la législation sur l'utilisation des produits phytopharmaceutiques, en intégrant les principes du développement durable. Il tient l'emploi dans le respect des règles de sécurité individuelle et collective (et, s'il existe, en application du PPSPS, sinon du plan de prévention).
 
-**Capacités attestées et descriptif des composantes de la certification**
+Capacités attestées et descriptif
+
+des composantes de la certification
 
 1. Entretenir un espace vert ornemental
 
-Tondre et entretenir un gazon.
+Identifier un végétal d'ornement et contrôler son état sanitaire.
 
-Débroussailler mécaniquement une zone herbacée et semi-ligneuse.
+Entretenir un gazon et une surface semi-ligneuse.
 
-Exécuter les façons culturales et les soins lors de l'entretien d'un espace vert.
+Tailler des arbres et des arbustes.
 
-Tailler un arbre de petite dimension ou un arbuste.
+Effectuer les façons culturales et les apports nécessaires au développement des végétaux d'ornement.
 
-Tailler une haie.
-
-Abattre depuis le sol, et débiter des arbres de petite dimension.
-
-Appliquer un produit phytopharmaceutique sur des végétaux.
-
-Entretenir un réseau d'arrosage.
+Protéger des végétaux d'ornement des parasites, maladies et adventices.
 
 2. Planter et engazonner des espaces verts
 
-Réaliser un gazon.
+Identifier un végétal d'ornement et contrôler son état sanitaire.
 
-Planter un arbre tige, un conifère.
+Réaliser un gazon et un pas japonais.
 
-Planter un massif d'arbustes, une haie.
+Planter des arbres et des arbustes.
 
-Planter un décor floral.
+Réaliser un massif de plantes à fleurs.
 
-Réaliser un paillage pour une plantation.
+3. Poser et entretenir des circulations, dallages,
 
-3. Poser et entretenir des circulations, dallages, pavages et équipements d'espaces verts
+pavages et équipements d'espaces verts
 
-Poser des réseaux dans le cadre d'un chantier d'espaces verts (hors arrosage).
+Poser et entretenir des bordures et des équipements dans le cadre d'un chantier d'espaces verts.
 
-Poser des dallages et des pavages dans le cadre d'un chantier d'espaces verts.
+Réaliser et entretenir des dallages, des pavages et des surfaces minérales dans le cadre d'un chantier d'espaces verts.
 
-Poser des éléments réguliers de bordure dans le cadre d'un chantier d'espaces verts.
+Poser et entretenir un réseau d'arrosage.
 
-Sceller, monter et entretenir des équipements de parcs et jardins.
+Secteurs d'activités et types d'emploi accessibles
 
-Entretenir des surfaces minérales de parcs et jardins.
+par le détenteur du titre
 
-Traiter une surface minérale dans un espace paysagé.
+Entreprise du paysage.
 
-**Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre**
+Parcs et jardins.
 
-Les GEIQ (Groupement d'entreprises pour l'insertion et la qualification) espaces verts.
+Sols sportifs.
 
-Les entreprises de travaux forestiers et de reboisement.
+Services techniques des collectivités.
 
-Les parcs naturels nationaux et régionaux et les associations concernées par le patrimoine naturel.
+Services techniques des complexes touristiques.
 
-Les entreprises de travail temporaire.
+Jardinier, jardinier d'espaces verts, jardinier paysagiste.
 
-Les entreprises de travaux publics ayant un département espaces verts.
+Ouvrier des espaces verts.
 
-Les entreprises de nettoyage ayant un département espaces verts.
+Ouvrier paysagiste.
 
-Les copropriétés.
-
-Des propriétaires privés.
+Agent d'entretien des parcs et jardins.
 
 Code ROME :
 
-41113 : jardinier (ère) d'espaces verts.
+A1203-Entretien des espaces verts.
 
 Réglementation de l'activité :
 
-Certificat d'aptitude à la conduite d'engins en sécurité (CACES) ;
+Les titulaires du titre professionnel d'ouvrier du paysage sont réputés avoir satisfait aux conditions d'obtention du certificat individuel pour l'activité utilisation à titre professionnel des produits phytopharmaceutiques dans les catégories spécifiées par les arrêtés suivants :
 
-Certificat pour les applicateurs et distributeurs de produits antiparasitaires à usage agricole et produits assimilés.
+L'arrêté du 21 octobre 2011 modifié portant création et fixant les modalités d'obtention du certificat individuel pour l'activité utilisation à titre professionnel des produits phytopharmaceutiques pour la catégorie opérateur en travaux et services ;
+
+L'arrêté du 7 février 2012, modifié par l'arrêté du 1er mars 2012, portant création et fixant les modalités d'obtention du certificat individuel pour l'activité utilisation à titre professionnel des produits phytopharmaceutiques pour la catégorie applicateur opérationnel.
 
 Autorité responsable de la certification :
 
@@ -104,6 +99,7 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation
+;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
