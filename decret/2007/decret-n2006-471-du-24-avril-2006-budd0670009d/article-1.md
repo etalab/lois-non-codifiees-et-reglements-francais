@@ -1,5 +1,0 @@
-# Article 1
-
-Les gérants d'un débit de tabac ordinaire au sens des dispositions de l' article 3 du décret n° 2007-906 susvisé, situé dans un département en difficulté et dont le montant annuel des livraisons de tabacs manufacturés a baissé de façon significative par rapport à 2002, peuvent bénéficier, sur leur demande, d'une indemnité de fin d'activité. Son montant est égal à trois fois celui de la remise nette définie à l'article 56 AC de l'annexe IV au même code et celui du complément de remise instauré par le décret n° 2006-157 du 13 février 2006 susvisé, perçus en 2002.
-
-Pour pouvoir bénéficier de l'indemnité visée à l'alinéa précédent, le gérant du débit de tabac doit être en activité, selon les conditions définies à l'article 4-I-1 du décret n° 2007-906 susvisé, au moment de la présentation de sa demande. Pour l'application du présent décret, un débitant, dont le fonds de commerce annexé au débit fait l'objet d'une procédure de redressement ou de liquidation judiciaire, est considéré en position d'activité.
