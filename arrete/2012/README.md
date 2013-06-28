@@ -2625,7 +2625,6 @@
 - [Arrêté du 26 juin 2012 (EFIT1220701A)](arrete-du-26-juin-2012-efit1220701a)
 - [Arrêté du 26 juin 2012 (INTS1226850A)](arrete-du-26-juin-2012-ints1226850a)
 - [Arrêté du 26 juin 2012 (INTS1226881A)](arrete-du-26-juin-2012-ints1226881a)
-- [Arrêté du 26 mars 2012 (AGRR1208799A)](arrete-du-26-mars-2012-agrr1208799a)
 - [Arrêté du 26 mars 2012 (DEFD1208802A)](arrete-du-26-mars-2012-defd1208802a)
 - [Arrêté du 26 mars 2012 (DEVA1208796A)](arrete-du-26-mars-2012-deva1208796a)
 - [Arrêté du 26 mars 2012 (DEVK1208406A)](arrete-du-26-mars-2012-devk1208406a)
