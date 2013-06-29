@@ -8,7 +8,11 @@ Un membre du conseil de l'ordre de la Légion d'honneur nommé par le ministre d
 
 Le directeur du cabinet du ministre de l'agriculture,
 
-Cinq directeurs généraux ou directeurs du ministère de l'agriculture nommés par arrêté du ministre de l'agiculture.
+Le vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
+
+Le secrétaire général du ministère chargé de l'agriculture.
+
+Quatre directeurs généraux ou directeurs du ministère de l'agriculture nommés par arrêté du ministre de l'agiculture.
 
 Huit personnalités choisies parmi les notabilités du monde agricole ayant le grade de commandeur du Mérite agricole, nommées par arrêté du ministre de l'agriculture pour une durée de trois ans renouvelable.
 
