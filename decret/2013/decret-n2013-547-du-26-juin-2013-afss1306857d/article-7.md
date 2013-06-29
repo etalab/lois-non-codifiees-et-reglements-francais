@@ -1,0 +1,5 @@
+# Article 7
+
+I. ― A la date d'installation des sections des assurances sociales des ordres des masseurs-kinésithérapeutes, des pédicures-podologues et au 1er janvier 2015 pour les sections des assurances sociales de l'ordre des infirmiers, toutes les plaintes et toutes les procédures du contentieux du contrôle technique en cours qui n'ont pas fait l'objet d'une inscription à une audience de première instance sont transférées en l'état, archives comprises, auprès des sections des assurances sociales de chacun des ordres. Les plaintes et mémoires produits en première instance sont transférés à la section des assurances sociales des chambres disciplinaires régionales ou interrégionales et les plaintes et mémoires relevant des cas prévus à l'article R. 145-19 du code de la sécurité sociale sont transférés à la section des assurances sociales du conseil national de l'ordre concerné.
+
+II. ― La section des assurances sociales de l'ordre national des médecins demeure compétente pour statuer en appel contre les décisions rendues par les sections des assurances sociales des chambres disciplinaires de première instance de l'ordre des médecins.
