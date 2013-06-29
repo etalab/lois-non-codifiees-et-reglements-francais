@@ -14,7 +14,7 @@ d) Pistolets à impulsions électriques.
 
 2° 6e catégorie :
 
-a) Matraques de type "bâton de défense" ou "tonfa" ;
+a) Matraques de type "bâton de défense" ou "tonfa", matraques ou tonfas télescopiques ;
 
 b) Générateurs d'aérosols incapacitants ou lacrymogènes ;
 
