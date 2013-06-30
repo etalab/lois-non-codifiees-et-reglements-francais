@@ -1,5 +1,0 @@
-# Article 1
-
-Le brevet d'Etat d'éducateur sportif du premier degré, option "ski alpin", atteste pour tout public les compétences requises du moniteur professionnel de ski alpin pour l'encadrement, l'animation, l'enseignement et l'entraînement en sécurité du ski alpin et de ses activités dérivées définies en annexe VII du présent arrêté, en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées, définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. Par encadrement et animation, on entend notamment l'activité d'accompagnement sur le domaine skiable.
-
-Il permet à son titulaire d'exercer en toute autonomie et indépendance, avec tout type de matériel de ski alpin et tout type d'engin dérivé de ce matériel, sur pistes et hors des pistes, à l'exception des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme. Il confère le droit de porter le titre de moniteur national.

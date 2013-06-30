@@ -638,7 +638,6 @@
 - [Arrêté du 25 novembre 2004 (PRMD0407775A)](arrete-du-25-novembre-2004-prmd0407775a)
 - [Arrêté du 25 octobre 2004 (AGRP0401380A)](arrete-du-25-octobre-2004-agrp0401380a)
 - [Arrêté du 25 octobre 2004 (CPTE0400110A)](arrete-du-25-octobre-2004-cpte0400110a)
-- [Arrêté du 25 octobre 2004 (MJSK0470218A)](arrete-du-25-octobre-2004-mjsk0470218a)
 - [Arrêté du 25 mai 2004 (AGRP0401349A)](arrete-du-25-mai-2004-agrp0401349a)
 - [Arrêté du 25 mai 2004 (ECOB0410024A)](arrete-du-25-mai-2004-ecob0410024a)
 - [Arrêté du 25 mai 2004 (ECOB0410028A)](arrete-du-25-mai-2004-ecob0410028a)
