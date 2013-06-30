@@ -10,23 +10,23 @@ Le système de verrouillage automatique des portes, qui ne doit pouvoir être ac
 
 Le système d'ouverture des portes ne doit pas permettre l'ouverture simultanée de deux portes du véhicule.
 
-3. La partie du véhicule destinée à recevoir les fonds doit être entièrement isolée de la cabine de conduite par une cloison blindée, dans laquelle est aménagée une porte de communication, également blindée, et équipée d'une serrure de sûreté. Pour les véhicules blindés en service à la date de publication du décret du 28 avril 2000 susvisé et non encore rendus conformes aux normes de l'article 2, cette porte de communication doit répondre aux normes minimales de résistance des blindages prévues au 1° du II de l'article 3.
+3. La partie du véhicule destinée à recevoir les fonds doit être entièrement isolée de la cabine de conduite par une cloison blindée, dans laquelle est aménagée une porte de communication, également blindée, et équipée d'un dispositif de verrouillage de sûreté.
 
 4. Des meurtrières, visibles ou invisibles, destinées à permettre le tir en cas d'agression doivent être aménagées dans les parois de la cabine de conduite. Elles peuvent être aménagées dans le compartiment destiné à recevoir les fonds. Elles doivent pouvoir être fermées de l'intérieur du véhicule par un volet blindé pouvant lui-même être verrouillé.
 
-Les meurtrières doivent être situées à proximité d'un vitrage assurant une bonne visibilité et répondant aux normes minimales de résistance prévues, selon la date de mise en service du véhicule, aux articles 2 ou 3 du présent arrêté.
+Les meurtrières doivent être situées à proximité d'un vitrage assurant une bonne visibilité et répondant aux normes minimales de résistance prévues, à l'article 2 du présent arrêté.
 
 Elles ne doivent pas pouvoir être arrachées de l'extérieur.
 
 5. Une goulotte doit être aménagée dans le compartiment destiné à recevoir les fonds, afin d'y placer, en cas d'agression, les clefs du véhicule.
 
-6. Le véhicule doit être équipé d'une issue de secours, accessible par l'équipage, répondant aux normes de blindage prévues, selon la date de mise en service du véhicule, aux articles 2 ou 3 du présent arrêté. Cette issue de secours doit être dotée d'un système de sécurité déclenchant une alarme en cas d'ouverture de l'extérieur.
+6. Le véhicule doit être équipé d'une issue de secours dans chacun des compartiments avant du véhicule, accessible par l'équipage, répondant aux normes de blindage prévues, à l'article 2 du présent arrêté. Ces issues de secours doivent être dotées d'un système de sécurité déclenchant une alarme en cas d'ouverture de l'extérieur.
 
 7. L'alarme du véhicule doit pouvoir être déclenchée manuellement, à partir de trois commandes au moins, directement accessibles par les convoyeurs.
 
 8. La cabine de conduite doit être équipée d'un extincteur à poudre polyvalente homologué et soit d'une couverture anti-feu, soit d'un extincteur à eau pulvérisée adapté aux feux de personnes.
 
-9. Un dispositif de ventilation ou de climatisation doit être installé dans le véhicule blindé.
+9. Le véhicule blindé est équipé d'un dispositif de ventilation et de climatisation dont la commande est à la disposition de l'équipage.
 
 L'aspiration d'air extérieur, servant au refroidissement du moteur ainsi qu'à la ventilation de la cabine de conduite et du compartiment destiné à recevoir les fonds, doit être réalisée par l'intermédiaire d'orifices disposés en chicane interdisant toute introduction d'objet ou de projectile.
 
