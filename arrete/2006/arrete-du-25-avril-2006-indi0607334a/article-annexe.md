@@ -1,8 +1,9 @@
 # Article Annexe
 
-INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER
-
-GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
+<div align="center">INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER<br/>
+<p>GÉRÉES PAR LE DPSM (BRGM) AU 1er JANVIER 2013<br/>
+</p>
+</div>
 
 <div align="center">
 
@@ -10,8 +11,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <tbody>
 <tr>
 <th>
-<br/>BASSIN<br/>
-<br/>minier<br/>
+<br/>BASSIN MINIER<br/>
 </th>
 <th>
 <br/>NATURE DE L'INSTALLATION<br/>
@@ -52,13 +52,14 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Emergences minières<br/>
 </td>
 <td align="center">
-<br/>Le Périmètre de l'Aumance<br/>
+<br/>La Vernade<br/>
 </td>
 <td align="center">
-<br/>Buxières-les-Mines<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>Les Gauthrins<br/>
+<br/>Saint-Eloy<br/>
 </td>
 </tr>
 <tr>
@@ -71,13 +72,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>La Vernade<br/>
+<br/>Le Périmètre de l'Aumance<br/>
 </td>
 <td align="center">
-<br/>Saint-Eloy-les-Mines<br/>
+<br/>Buxières-les-Mines<br/>
 </td>
 <td align="center">
-<br/>Saint-Eloy<br/>
+<br/>Les Gauthrins<br/>
 </td>
 </tr>
 <tr>
@@ -109,7 +110,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Blanzy-Montceau<br/>
+<br/>Blanzy Montceau<br/>
 </td>
 <td align="center">
 <br/>Blanzy<br/>
@@ -147,111 +148,47 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Piézomètres<br/>
 </td>
 <td align="center">
+<br/>Barbecot<br/>
+</td>
+<td align="center">
+<br/>Chapdes-Beaufort<br/>
+</td>
+<td align="center">
+<br/>BBT1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>BBT2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>Le Périmètre de l'Aumance<br/>
-</td>
-<td align="center">
-<br/>Buxières-les-Mines<br/>
-</td>
-<td align="center">
-<br/>Gauthrins 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Gauthrins 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Saint-Paul<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Sondage panneau 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Déviat<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>Saint-Hilaire<br/>
@@ -270,48 +207,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Blanzy-Montceau<br/>
-</td>
-<td align="center">
-<br/>Montceau-les-Mines<br/>
-</td>
-<td align="center">
-<br/>Maugrand<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Pyramide<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<br/>Blanzy Montceau<br/>
 </td>
 <td align="center">
 <br/>Perrecy-les-Forges<br/>
@@ -388,7 +284,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Blanzy-Montceau<br/>
+<br/>Blanzy Montceau<br/>
 </td>
 <td align="center">
 <br/>Perrecy-les-Forges<br/>
@@ -406,55 +302,35 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Surverses de lacs miniers<br/>
 </td>
 <td align="center">
-<br/>Blanzy-Montceau<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>Montceau-les-Mines<br/>
 </td>
 <td align="center">
+<br/>Barrat Lucy<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>La Carrière de la Poudrière<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Saint-Pierre<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Barrat-Lucy<br/>
 </td>
 </tr>
 <tr>
@@ -492,10 +368,11 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Sanvignes-les-Mines<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>Saint-Amédée<br/>
+<br/>Saint-Pierre<br/>
 </td>
 </tr>
 <tr>
@@ -512,8 +389,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Sanvignes-les-Mines<br/>
 </td>
 <td align="center">
 <br/>Les Fouthiaux<br/>
@@ -521,19 +397,60 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </tr>
 <tr>
 <td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Saint-Amédée<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <br/>Est<br/>
 </td>
 <td align="center">
-<br/>Digues<br/>
+<br/>Canalisations<br/>
 </td>
 <td align="center">
 <br/>De Wendel H<br/>
 </td>
 <td align="center">
-<br/>Rosbruck<br/>
+<br/>Petite-Rosselle<br/>
 </td>
 <td align="center">
-<br/>Rosbruck<br/>
+<br/>Ouvrage de gestion des eaux<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Digues<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Bassin Saint-Charles<br/>
 </td>
 </tr>
 <tr>
@@ -550,10 +467,10 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Petite Rosselle<br/>
+<br/>Rosbruck<br/>
 </td>
 <td align="center">
-<br/>Bassin Saint-Charles<br/>
+<br/>Rosbruck<br/>
 </td>
 </tr>
 <tr>
@@ -609,7 +526,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Moyeuvre-Grande<br/>
 </td>
 <td align="center">
-<br/>Galerie de Moyeuvre-Grande<br/>
+<br/>Ancienne galerie de Moyeuvre<br/>
 </td>
 </tr>
 <tr>
@@ -630,7 +547,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Ancienne galerie de Moyeuvre<br/>
+<br/>Galerie de Moyeuvre Grande<br/>
 </td>
 </tr>
 <tr>
@@ -661,10 +578,128 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Forages de rabattement<br/>
 </td>
 <td align="center">
+<br/>Amodiation du Warndt - Allemagne<br/>
+</td>
+<td align="center">
+<br/>Nassweiler<br/>
+</td>
+<td align="center">
+<br/>F10<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>F11<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>De Wendel H<br/>
+</td>
+<td align="center">
+<br/>Forbach<br/>
+</td>
+<td align="center">
+<br/>Forbach 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Forbach 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Est<br/>
+</td>
+<td align="center">
+<br/>Forages de rabattement<br/>
+</td>
+<td align="center">
+<br/>De Wendel H<br/>
+</td>
+<td align="center">
+<br/>Rosbruck<br/>
+</td>
+<td align="center">
+<br/>F12<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>F13<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>Sarre et Moselle<br/>
 </td>
 <td align="center">
-<br/>Betting-les-Saint-Avold<br/>
+<br/>Betting-lès-Saint-Avold<br/>
 </td>
 <td align="center">
 <br/>F4<br/>
@@ -788,7 +823,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Hombourg Haut<br/>
+<br/>Hombourg-Haut<br/>
 </td>
 <td align="center">
 <br/>F7<br/>
@@ -862,8 +897,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Piézomètres<br/>
 </td>
 <td align="center">
 <br/>De Wendel H<br/>
@@ -872,7 +906,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Forbach<br/>
 </td>
 <td align="center">
-<br/>Forbach 1<br/>
+<br/>FORB ALL 1<br/>
 </td>
 </tr>
 <tr>
@@ -893,7 +927,173 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Forbach 2<br/>
+<br/>FORB ALL 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>FORB GTI 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits Marienau<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits Simon 5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ SDEC E2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>SP 2003 06<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Morsbach<br/>
+</td>
+<td align="center">
+<br/>IPA3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Petite-Rosselle<br/>
+</td>
+<td align="center">
+<br/>SP 2003 04<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits Saint-Charles 3<br/>
 </td>
 </tr>
 <tr>
@@ -913,7 +1113,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Rosbruck<br/>
 </td>
 <td align="center">
-<br/>F12<br/>
+<br/>ROS ALL 1<br/>
 </td>
 </tr>
 <tr>
@@ -934,26 +1134,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>F13<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Amodiation du Warndt - Allemagne<br/>
-</td>
-<td align="center">
-<br/>Nassweiler<br/>
-</td>
-<td align="center">
-<br/>F10<br/>
+<br/>ROS ALL 2<br/>
 </td>
 </tr>
 <tr>
@@ -974,7 +1155,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>F11<br/>
+<br/>ROS GTI 1<br/>
 </td>
 </tr>
 <tr>
@@ -983,76 +1164,96 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Piézomètres<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Schoeneck<br/>
+</td>
+<td align="center">
+<br/>P50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ SDEC E5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>SP 2007 01<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Stiring Wendel<br/>
+</td>
+<td align="center">
+<br/>PZ SDEC E10<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>La Houve<br/>
 </td>
 <td align="center">
 <br/>Creutzwald<br/>
-</td>
-<td align="center">
-<br/>Puits 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits 4<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>LH 2003 01<br/>
@@ -1181,65 +1382,84 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>Puits 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits 4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>PZ SDEC 02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
+<br/>Est<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ Gti Lac Creutzwald<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ Gti Barrois<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<br/>Piézomètres<br/>
 </td>
 <td align="center">
 <br/>Sarre et Moselle<br/>
 </td>
 <td align="center">
-<br/>Betting-les-Saint-Avold<br/>
+<br/>Betting-lès-Saint-Avold<br/>
 </td>
 <td align="center">
 <br/>BET ALL 1<br/>
@@ -1408,6 +1628,90 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Creutzwald<br/>
 </td>
 <td align="center">
+<br/>IPA1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits Barrois<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ Gti Barrois<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ GTi Lac Creutzwald<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>PZ SDEC 04<br/>
 </td>
 </tr>
@@ -1450,7 +1754,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Puits Barrois<br/>
+<br/>CREU-GTi 2<br/>
 </td>
 </tr>
 <tr>
@@ -1471,7 +1775,49 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>IPA1<br/>
+<br/>CREU-All 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>CREU-All 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>CREU-GTi 1<br/>
 </td>
 </tr>
 <tr>
@@ -1489,27 +1835,6 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </td>
 <td align="center">
 <br/>Freyming-Merlebach<br/>
-</td>
-<td align="center">
-<br/>Puits Vouters<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>MERL ALL 1<br/>
@@ -1571,6 +1896,27 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits Vouters<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>Ham-sous-Varsberg<br/>
 </td>
 <td align="center">
@@ -1612,7 +1958,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Hombourg Haut<br/>
+<br/>Hombourg-Haut<br/>
 </td>
 <td align="center">
 <br/>HOM ALL 1<br/>
@@ -1768,35 +2114,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Stations de pompage<br/>
 </td>
 <td align="center">
 <br/>De Wendel H<br/>
 </td>
 <td align="center">
 <br/>Forbach<br/>
-</td>
-<td align="center">
-<br/>Puits Marienau<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>Puits Simon 5<br/>
@@ -1812,319 +2136,10 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>FORB ALL 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>FORB ALL 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>FORB GTI 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ SDEC E2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>SP 2003 06<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Morsbach<br/>
-</td>
-<td align="center">
-<br/>IPA3<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Petite-Rosselle<br/>
-</td>
-<td align="center">
-<br/>SP 2003 04<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Rosbruck<br/>
-</td>
-<td align="center">
-<br/>ROS ALL 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>ROS ALL 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>ROS GTI 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Schoeneck<br/>
-</td>
-<td align="center">
-<br/>P50<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ SDEC E5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>SP 2007 01<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stiring Wendel<br/>
-</td>
-<td align="center">
-<br/>PZ SDEC E10<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stations de pompage<br/>
-</td>
-<td align="center">
 <br/>La Houve<br/>
 </td>
 <td align="center">
 <br/>Creutzwald<br/>
-</td>
-<td align="center">
-<br/>Puits 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>Forage F28<br/>
@@ -2140,7 +2155,28 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Sarre-et-Moselle<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Puits 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Sarre et Moselle<br/>
 </td>
 <td align="center">
 <br/>Freyming-Merlebach<br/>
@@ -2155,17 +2191,16 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Stations de relevage des eaux<br/>
 </td>
 <td align="center">
-<br/>De Wendel H<br/>
+<br/>Amodiation du Warndt - Allemagne<br/>
 </td>
 <td align="center">
-<br/>Forbach<br/>
+<br/>Grossrosseln<br/>
 </td>
 <td align="center">
-<br/>Puits Simon 5<br/>
+<br/>Grande Rosselle<br/>
 </td>
 </tr>
 <tr>
@@ -2174,7 +2209,8 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Stations de relevage des eaux<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>De Wendel H<br/>
@@ -2257,32 +2293,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Sarre-et-Moselle<br/>
+<br/>Sarre et Moselle<br/>
 </td>
 <td align="center">
 <br/>Ham-sous-Varsberg<br/>
 </td>
 <td align="center">
-<br/>Dispositifs de drainage<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Amodiation du Warndt ― Allemagne<br/>
-</td>
-<td align="center">
-<br/>Grossrosseln<br/>
-</td>
-<td align="center">
-<br/>Grande-Rosselle<br/>
+<br/>dispositif de drainage<br/>
 </td>
 </tr>
 <tr>
@@ -2292,6 +2309,25 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </td>
 <td align="center">
 <br/>Stations de traitement des eaux<br/>
+</td>
+<td align="center">
+<br/>De Wendel H<br/>
+</td>
+<td align="center">
+<br/>Forbach<br/>
+</td>
+<td align="center">
+<br/>Simon<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>La Houve<br/>
@@ -2324,25 +2360,6 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
-</td>
-<td align="center">
-<br/>Forbach<br/>
-</td>
-<td align="center">
-<br/>Simon<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Nord<br/>
 </td>
 <td align="center">
@@ -2352,7 +2369,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Bruay<br/>
 </td>
 <td align="center">
-<br/>Bruay-la-Buissière<br/>
+<br/>Bruay-la-Buissière <br/>
 </td>
 <td align="center">
 <br/>Bruay<br/>
@@ -2367,13 +2384,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Piézomètres<br/>
 </td>
 <td align="center">
-<br/>Auchy-au-Bois<br/>
+<br/>Auchy au Bois<br/>
 </td>
 <td align="center">
 <br/>Ligny-lès-Aire<br/>
 </td>
 <td align="center">
-<br/>PZC L bis<br/>
+<br/>Puits 2 ― 2 bis<br/>
 </td>
 </tr>
 <tr>
@@ -2394,7 +2411,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Puits 2 - 2 bis<br/>
+<br/>PZC L bis<br/>
 </td>
 </tr>
 <tr>
@@ -2527,13 +2544,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Vimy-Fresnoy<br/>
+<br/>Vimy Fresnoy<br/>
 </td>
 <td align="center">
 <br/>Vimy<br/>
 </td>
 <td align="center">
-<br/>PZC V<br/>
+<br/>Puits 1 ― 1 bis<br/>
 </td>
 </tr>
 <tr>
@@ -2554,7 +2571,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Puits 1 - 1 bis<br/>
+<br/>PZC V<br/>
 </td>
 </tr>
 <tr>
@@ -2654,7 +2671,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Lemay-Sainte-Marie<br/>
+<br/>Lemay Sainte Marie<br/>
 </td>
 </tr>
 <tr>
@@ -2915,7 +2932,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Bruay<br/>
 </td>
 <td align="center">
-<br/>Bruay-la-Buissière<br/>
+<br/>Bruay-la-Buissière <br/>
 </td>
 <td align="center">
 <br/>Marmottan<br/>
@@ -3031,6 +3048,82 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <td align="center">
 <br/>
 <br/>
+</td>
+<td align="center">
+<br/>Escautpont<br/>
+</td>
+<td align="center">
+<br/>Fresnes-sur-Escaut<br/>
+</td>
+<td align="center">
+<br/>Putemont rive droite<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Putemont rive gauche<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Flines les Raches<br/>
+</td>
+<td align="center">
+<br/>Anhiers<br/>
+</td>
+<td align="center">
+<br/>Belle Inutile<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Fresnes<br/>
+</td>
+<td align="center">
+<br/>Fresnes-sur-Escaut<br/>
+</td>
+<td align="center">
+<br/>Fort Masys<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Nord<br/>
+</td>
+<td align="center">
+<br/>Stations de relevage des eaux<br/>
 </td>
 <td align="center">
 <br/>L'Escarpelle<br/>
@@ -3159,7 +3252,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Roost-Warendin<br/>
+<br/>Roost Warendin<br/>
 </td>
 <td align="center">
 <br/>Bernicourt<br/>
@@ -3238,91 +3331,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Escautpont<br/>
-</td>
-<td align="center">
-<br/>Fresnes-sur-Escaut<br/>
-</td>
-<td align="center">
-<br/>Putemont rive droite<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Putemont rive gauche<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Flines les Raches<br/>
-</td>
-<td align="center">
-<br/>Anhiers<br/>
-</td>
-<td align="center">
-<br/>Belle Inutile<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Fresnes<br/>
-</td>
-<td align="center">
-<br/>Fresnes-sur-Escaut<br/>
-</td>
-<td align="center">
-<br/>Fort Masys<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
 <br/>Marles<br/>
 </td>
 <td align="center">
 <br/>Marles-les-Mines<br/>
 </td>
 <td align="center">
-<br/>Rue des Ecoles<br/>
+<br/>Pont de Divion<br/>
 </td>
 </tr>
 <tr>
@@ -3343,7 +3358,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Pont de Divion<br/>
+<br/>Rue des Ecoles<br/>
 </td>
 </tr>
 <tr>
@@ -3599,7 +3614,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Vieux Condé<br/>
+<br/>Vieux-Condé<br/>
 </td>
 <td align="center">
 <br/>Amaury rive gauche<br/>
@@ -3636,7 +3651,8 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Laval-Pradel<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>Plan incliné des Oules<br/>
@@ -3652,10 +3668,31 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>fossé des Oules<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>C3<br/>
 </td>
 <td align="center">
-<br/>Fuveau - Gréasque<br/>
+<br/>Fuveau ― Gréasque<br/>
 </td>
 <td align="center">
 <br/>Madame d'André<br/>
@@ -3673,7 +3710,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Boussagues<br/>
 </td>
 <td align="center">
-<br/>La Tour sur Orb<br/>
+<br/>La Tour-sur-Orb<br/>
 </td>
 <td align="center">
 <br/>TB Frangouille<br/>
@@ -3832,6 +3869,25 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>Le Devois de Graissessac<br/>
+</td>
+<td align="center">
+<br/>Graissessac<br/>
+</td>
+<td align="center">
+<br/>TB de Grand Champ<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>Portes &amp; Senechas<br/>
 </td>
 <td align="center">
@@ -3883,16 +3939,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
+<br/>Sud<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Emergences minières<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Robiac &amp; Meyrannes<br/>
 </td>
 <td align="center">
 <br/>Molières-sur-Cèze<br/>
@@ -4013,6 +4066,25 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>Ruffas<br/>
+</td>
+<td align="center">
+<br/>Le Bousquet-d'Orb<br/>
+</td>
+<td align="center">
+<br/>TB 250<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>Trelys &amp; Palmesalade<br/>
 </td>
 <td align="center">
@@ -4094,70 +4166,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Le Devois de Graissessac<br/>
-</td>
-<td align="center">
-<br/>Graissessac<br/>
-</td>
-<td align="center">
-<br/>TB de Grand Champ<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Ruffas<br/>
-</td>
-<td align="center">
-<br/>Le Bousquet d'Orb<br/>
-</td>
-<td align="center">
-<br/>TB 250<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Hors concession<br/>
-</td>
-<td align="center">
-<br/>Lastours<br/>
-</td>
-<td align="center">
-<br/>Emergence de La Caunette<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
 <br/>Combes<br/>
 </td>
 <td align="center">
 <br/>Aubin<br/>
 </td>
 <td align="center">
-<br/>Emergence Combes Feuillantines<br/>
+<br/>Ecoulement Destresse<br/>
 </td>
 </tr>
 <tr>
@@ -4178,7 +4193,28 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Ecoulement du Bois-Noir et La Peyrade<br/>
+<br/>Ecoulement du Bois Noir et La Peyrade<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Emergence Combes Feuillantines<br/>
 </td>
 </tr>
 <tr>
@@ -4212,55 +4248,34 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Ecoulement Destresse<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
 <br/>Cransac<br/>
 </td>
 <td align="center">
 <br/>Cransac<br/>
-</td>
-<td align="center">
-<br/>Emergence Augustin<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>Ecoulement de Bézelgues<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Emergence Augustin<br/>
 </td>
 </tr>
 <tr>
@@ -4360,7 +4375,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Aubin<br/>
 </td>
 <td align="center">
-<br/>Emergence du Crol-Bas<br/>
+<br/>Emergence du Crol Bas<br/>
 </td>
 </tr>
 <tr>
@@ -4454,44 +4469,6 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>C3<br/>
-</td>
-<td align="center">
-<br/>Fuveau<br/>
-</td>
-<td align="center">
-<br/>Galerie de Fuveau<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>C8<br/>
-</td>
-<td align="center">
-<br/>Peypin<br/>
-</td>
-<td align="center">
-<br/>Galerie la Doria<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
 <br/>C11<br/>
 </td>
 <td align="center">
@@ -4530,6 +4507,44 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>C3<br/>
+</td>
+<td align="center">
+<br/>Fuveau<br/>
+</td>
+<td align="center">
+<br/>Galerie de Fuveau<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>C8<br/>
+</td>
+<td align="center">
+<br/>Peypin<br/>
+</td>
+<td align="center">
+<br/>Galerie la Doria<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
 <br/>Hors concession - C4 - C5<br/>
 </td>
 <td align="center">
@@ -4549,13 +4564,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Côte-en-Velin<br/>
+<br/>Cluzel<br/>
 </td>
 <td align="center">
-<br/>Fourneaux<br/>
+<br/>Saint-Genest-Lerpt<br/>
 </td>
 <td align="center">
-<br/>Côte-en-Velin<br/>
+<br/>Bas Cluzel<br/>
 </td>
 </tr>
 <tr>
@@ -4566,33 +4581,50 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <td align="center">
 <br/>
 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Cluzel Haut <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Côte en Velin<br/>
+</td>
+<td align="center">
+<br/>Fourneaux<br/>
+</td>
+<td align="center">
+<br/>Côte en Velin<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sud<br/>
+</td>
+<td align="center">
+<br/>Emergences minières<br/>
 </td>
 <td align="center">
 <br/>La Jonche<br/>
 </td>
 <td align="center">
 <br/>Saint-Arey<br/>
-</td>
-<td align="center">
-<br/>Galerie de la Beaume<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
 </td>
 <td align="center">
 <br/>Galerie de Combe Neveuse<br/>
@@ -4608,55 +4640,34 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>La Motte d'Aveillans<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>La Motte d'Aveillans<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Galerie de la Beaume<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>La Motte-d'Aveillans<br/>
+</td>
+<td align="center">
+<br/>La Motte-d'Aveillans<br/>
 </td>
 <td align="center">
 <br/>Forage de décharge<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Galerie N4 bis<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Galerie N6 Comberamis<br/>
 </td>
 </tr>
 <tr>
@@ -4715,10 +4726,11 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>La Motte-Saint-Martin<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>Galerie N3 sous la Molière<br/>
+<br/>Galerie N4 bis<br/>
 </td>
 </tr>
 <tr>
@@ -4739,7 +4751,67 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
+<br/>Galerie N6 Comberamis<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>La Motte-Saint-Martin<br/>
+</td>
+<td align="center">
 <br/>Galerie de la Faurie<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Galerie N3 sous la Molière<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Montrambert<br/>
+</td>
+<td align="center">
+<br/>La Ricamarie<br/>
+</td>
+<td align="center">
+<br/>Fendue Lyon<br/>
 </td>
 </tr>
 <tr>
@@ -4799,27 +4871,6 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>Susville<br/>
 </td>
 <td align="center">
-<br/>Galerie Fontveille 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
 <br/>Galerie du Peychagnard N10<br/>
 </td>
 </tr>
@@ -4833,17 +4884,6 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Cluzel<br/>
-</td>
-<td align="center">
-<br/>Saint-Genest-Lerpt<br/>
-</td>
-<td align="center">
-<br/>Bas Cluzel<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>
 <br/>
 </td>
@@ -4852,15 +4892,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Cluzel Haut <br/>
+<br/>Galerie Fontveille 1<br/>
 </td>
 </tr>
 <tr>
@@ -4873,26 +4905,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Montrambert<br/>
-</td>
-<td align="center">
-<br/>La Ricamarie<br/>
-</td>
-<td align="center">
-<br/>Fendue Lyon<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Roche la Molière &amp; Firminy<br/>
+<br/>Roche-la-Molière &amp; Firminy<br/>
 </td>
 <td align="center">
 <br/>Firminy<br/>
@@ -5047,34 +5060,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>Hors concession<br/>
+<br/>Salsigne<br/>
 </td>
 <td align="center">
-<br/>Limousis<br/>
+<br/>Salsigne<br/>
 </td>
 <td align="center">
-<br/>AD 7<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>AD 9<br/>
+<br/>Cheminée Panneau Sud<br/>
 </td>
 </tr>
 <tr>
@@ -5087,15 +5079,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Bouquiès<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Decazeville<br/>
 </td>
 <td align="center">
-<br/>AD 10<br/>
+<br/>Crucifix<br/>
 </td>
 </tr>
 <tr>
@@ -5108,15 +5098,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Combes<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Aubin<br/>
 </td>
 <td align="center">
-<br/>AD 12<br/>
+<br/>Lunelle<br/>
 </td>
 </tr>
 <tr>
@@ -5129,15 +5117,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Cransac<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Cransac<br/>
 </td>
 <td align="center">
-<br/>AD 14<br/>
+<br/>Puits 1 nouveau<br/>
 </td>
 </tr>
 <tr>
@@ -5150,36 +5136,13 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Decazeville Firmi<br/>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>Decazeville<br/>
 </td>
 <td align="center">
-<br/>AD 15<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>AD 16<br/>
+<br/>Vialarels 1/150<br/>
 </td>
 </tr>
 <tr>
@@ -5214,7 +5177,8 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 <br/>C4<br/>
 </td>
 <td align="center">
-<br/>Gardanne<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>Puits Y<br/>
@@ -5238,6 +5202,108 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </td>
 <td align="center">
 <br/>Puits Gérard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Fontsante<br/>
+</td>
+<td align="center">
+<br/>Tanneron/Callian<br/>
+</td>
+<td align="center">
+<br/>PZ1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>PZ4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Prélèvements d'eaux de surface<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>P1<br/>
 </td>
 </tr>
 <tr>
@@ -5298,8 +5364,7 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
+<br/>Sud<br/>
 </td>
 <td align="center">
 <br/>Stations de relevage des eaux<br/>
@@ -5349,25 +5414,6 @@ GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
 </td>
 <td align="center">
 <br/>Destival<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Hors concession<br/>
-</td>
-<td align="center">
-<br/>Limousis<br/>
-</td>
-<td align="center">
-<br/>Station de traitement des eaux arseniées<br/>
 </td>
 </tr>
 <tr>
