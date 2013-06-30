@@ -9,3 +9,5 @@ La formation initiale des médecins prévue à l'article 6 ci-dessus a pour obje
 ― de connaître le cadre réglementaire et l'organisation administrative dans lesquels s'exerce l'activité du contrôle médical ;
 
 ― d'utiliser les outils de diagnostic médical pour le repérage des conduites et situations à risque les plus fréquentes en matière de sécurité routière.
+
+La formation initiale a également pour objectif de permettre aux médecins de répondre à des exigences spécifiques fixées à l'annexe III.

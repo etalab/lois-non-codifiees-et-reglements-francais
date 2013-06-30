@@ -6,3 +6,4 @@
 - [Chapitre IV : Formation des médecins agréés](chapitre-iv)
 - [Chapitre V : Dispositions finales](chapitre-v)
 - [Annexe](annexe)
+- [Annexes](annexes)

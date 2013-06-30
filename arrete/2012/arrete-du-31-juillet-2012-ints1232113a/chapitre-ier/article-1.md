@@ -22,7 +22,7 @@ a) Les candidats aux catégories A et B du permis de conduire atteints d'une inc
 
 b) Les candidats aux catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du handicap du conducteur ;
 
-c) Les candidats aux catégories C, D, E et à compter du 19 janvier 2013, C1, C1E, D1 et D1E du permis de conduire ;
+c) Les candidats aux catégories C, D, E et à compter du 19 janvier 2013, BE, C1, C1E, D1 et D1E du permis de conduire ;
 
 d) Les titulaires de la catégorie B du permis conduisant des taxis, des voitures de tourisme avec chauffeur, des voitures de remise, des ambulances, des véhicules affectés au ramassage scolaire et des véhicules affectés au transport public des personnes ;
 
