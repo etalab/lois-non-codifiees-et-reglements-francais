@@ -1380,7 +1380,6 @@
 - [Arrêté du 16 juillet 2012 (AGRT1228855A)](arrete-du-16-juillet-2012-agrt1228855a)
 - [Arrêté du 16 juillet 2012 (BUDD1229418A)](arrete-du-16-juillet-2012-budd1229418a)
 - [Arrêté du 16 juillet 2012 (BUDE1228433A)](arrete-du-16-juillet-2012-bude1228433a)
-- [Arrêté du 16 juillet 2012 (DEFD1222009A)](arrete-du-16-juillet-2012-defd1222009a)
 - [Arrêté du 16 juillet 2012 (DEVA1230353A)](arrete-du-16-juillet-2012-deva1230353a)
 - [Arrêté du 16 juillet 2012 (DEVA1230372A)](arrete-du-16-juillet-2012-deva1230372a)
 - [Arrêté du 16 juillet 2012 (DEVL1220720A)](arrete-du-16-juillet-2012-devl1220720a)
