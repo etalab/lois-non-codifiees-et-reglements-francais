@@ -1130,7 +1130,6 @@
 - [Arrêté du 30 décembre 1994 (INDF9500004A)](arrete-du-30-decembre-1994-indf9500004a)
 - [Arrêté du 30 décembre 1994 (INDF9500005A)](arrete-du-30-decembre-1994-indf9500005a)
 - [Arrêté du 30 décembre 1994 (MJSK9470168A)](arrete-du-30-decembre-1994-mjsk9470168a)
-- [Arrêté du 30 décembre 1995 (TASS9523561A)](arrete-du-30-decembre-1995-tass9523561a)
 - [Arrêté du 30 janvier 1995 (LOGC9500005A)](arrete-du-30-janvier-1995-logc9500005a)
 - [Arrêté du 30 janvier 1995 (LOGC9500006A)](arrete-du-30-janvier-1995-logc9500006a)
 - [Arrêté du 30 mars 1995 (ECOT9510233A)](arrete-du-30-mars-1995-ecot9510233a)
