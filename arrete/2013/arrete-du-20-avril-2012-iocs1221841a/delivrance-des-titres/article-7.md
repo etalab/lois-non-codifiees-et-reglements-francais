@@ -10,11 +10,11 @@ III. ― Les catégories BE, C, C1, C1E, CE, D, D1, D1E, DE du permis de conduir
 
 IV. ― Les mentions additionnelles ou restrictives doivent être indiquées sur le titre de conduite sous forme codifiée. Les codes utilisés et leur signification sont joints en annexe 1.
 
-V. ― Tout titulaire d'un permis de conduire national ayant sa résidence normale en France peut demander la délivrance d'un permis de conduire international.
+V. ― Tout titulaire d'un permis de conduire national ayant sa résidence normale en France peut demander la délivrance d'un permis de conduire international, conformément au modèle présenté en annexe 5,.
 
-Le permis de conduire international autorise la conduite des mêmes catégories de véhicules que celles du permis national. Il est valable trois ans uniquement en dehors du territoire national et à condition d'être accompagné du permis de conduire national en cours de validité.
+Le permis de conduire international, conformément au modèle présenté en annexe 5, autorise la conduite des mêmes catégories de véhicules que celles du permis national. Il est valable trois ans uniquement en dehors du territoire national et à condition d'être accompagné du permis de conduire national en cours de validité.
 
-La demande de permis de conduire international doit être établie sur le formulaire CERFA approprié dûment renseigné et signé et déposée ou adressée au préfet du département dans lequel est situé le domicile du demandeur accompagnée des pièces suivantes :
+La demande de permis de conduire international, conformément au modèle présenté en annexe 5, doit être établie sur le formulaire CERFA approprié dûment renseigné et signé et déposée ou adressée au préfet du département dans lequel est situé le domicile du demandeur accompagnée des pièces suivantes :
 
 ― photocopie couleur recto-verso du permis de conduire français en cours de validité ;
 

@@ -1,24 +1,24 @@
 # Article 8
 
-I. - Les permis de conduire délivrés avant le 19 janvier 2013 demeurent valables pour la conduite des catégories de véhicules auxquels ils se rapportent, au plus tard jusqu'au 19 janvier 2033. Les équivalences éventuelles auxquelles ces permis donnent droit conformément à l'annexe 2 du présent arrêté sont reconnues sur le territoire français, même si elles ne sont pas mentionnées sur ces titres.
+I.-Les permis de conduire délivrés avant le 19 janvier 2013 demeurent valables pour la conduite des catégories de véhicules auxquels ils se rapportent, au plus tard jusqu'au 19 janvier 2033. Les équivalences éventuelles auxquelles ces permis donnent droit conformément à l'annexe 2 du présent arrêté sont reconnues sur le territoire français, même si elles ne sont pas mentionnées sur ces titres.
 
-Du 19 janvier 2013 au 15 septembre 2013, un modèle de permis, joint en annexe 3 bis (modèle trois volets de couleur rose), est institué à titre transitoire. Les permis délivrés selon ce modèle transitoire seront remplacés au plus tard avant le 31 décembre 2014 par des permis suivant le modèle de l'annexe 3 du présent arrêté.
+Du 19 janvier 2013 au 15 septembre 2013, un modèle de permis conforme à l'annexe 3 bis jusqu'au 30 juin 2013 et à l'annexe 3 ter à compter du 1er juillet est institué. Les permis délivrés selon ce modèle seront remplacés à une date fixée par le ministre chargé de la sécurité routière par des permis suivant le modèle de l'annexe 3 du présent arrêté.
 
 Il sera substitué au plus tard avant le 19 janvier 2033, dans les conditions fixées par un arrêté du ministre chargé de la sécurité routière, aux permis de conduire délivrés avant le 19 janvier 2013 un nouveau modèle de permis de conduire, joint en annexe 3. Ce nouveau modèle de permis de conduire est doté d'une puce électronique.
 
-Il est, en outre, obligatoirement procédé à la délivrance d'un duplicata du titre délivré selon un modèle antérieur à celui du 19 janvier 2013, contre un permis de conduire tel qu'il est présenté en annexe 3 bis au présent arrêté pendant la période transitoire du 19 janvier 2013 au 15 septembre 2013 dans les cas suivants :
+Du 19 janvier au 15 septembre 2013, il est procédé à la délivrance d'un duplicata du titre conformément aux modèles présentés en annexe 3 bis ou 3 ter dans les cas suivants :
 
-- perte ou vol ;
+-perte ou vol ;
 
-- détérioration de l'original ;
+-détérioration de l'original ;
 
-- extension de catégorie ;
+-extension de catégorie ;
 
-- changement d'état matrimonial ;
+-changement d'état matrimonial ;
 
-- suspension ou annulation d'une catégorie par le préfet pour un motif médical.
+-suspension ou annulation d'une catégorie par le préfet pour un motif médical.
 
-II. - A compter du 16 septembre 2013, il est obligatoirement procédé au renouvellement du titre délivré, contre un permis de conduire tel qu'il est présenté en annexe 3 du présent arrêté dans les cas visés au I ci-dessus.  Le renouvellement des titres délivrés après le 19 janvier 2013 intervient, sans préjudice des dispositions du I bis de l'article R. 221-1 du code de la route, à l'occasion de chaque modification des informations portées sur les titres ou au terme de leur période de validité, et en tout état de cause tous les quinze ans à compter de leur date de délivrance.
+II.-A compter du 16 septembre 2013, il est obligatoirement procédé au renouvellement du titre délivré, contre un permis de conduire tel qu'il est présenté en annexe 3 du présent arrêté dans les cas visés au I ci-dessus. Le renouvellement des titres délivrés après le 19 janvier 2013 intervient, sans préjudice des dispositions du I bis de l'article R. 221-1 du code de la route, à l'occasion de chaque modification des informations portées sur les titres ou au terme de leur période de validité, et en tout état de cause tous les quinze ans à compter de leur date de délivrance.
 
 III. ― Le renouvellement s'effectue au vu du formulaire réglementaire de demande de renouvellement du permis de conduire. La liste des pièces à produire à l'appui de la demande de renouvellement est fixée par circulaire.
 
