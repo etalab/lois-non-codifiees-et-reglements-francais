@@ -1,6 +1,6 @@
 # Article 21-6
 
-L'enregistrement des paris par l'intermédiaire d'une carte privative, dénommée " La Carte PMU ", peut être proposé dans les postes d'enregistrement du Pari mutuel urbain offrant cette possibilité.
+L'enregistrement des paris par l'intermédiaire d'une carte privative, dénommée la " Carte PMU  "   , peut être proposé dans les postes d'enregistrement du pari mutuel urbain et aux guichets des hippodromes connectés au système central du pari mutuel urbain, offrant cette possibilité.
 
 Les paris ne peuvent être enregistrés par l'intermédiaire de la Carte PMU qu'en compte courant.
 

@@ -15,7 +15,7 @@
 - [Chapitre X bis : Pari "Trio ordre international"](chapitre-x-bis)
 - [Chapitre XI : Pari quarté](chapitre-xi)
 - [Chapitre XII : Pari quartet](chapitre-xii)
-- [Chapitre XII bis : Pari "quarté plus"](chapitre-xii-bis)
+- [Chapitre XII bis : Pari "Quarté Plus"](chapitre-xii-bis)
 - [Chapitre XIII : Pari MULTI](chapitre-xiii)
 - [Chapitre XIII bis : Pari à quatre chevaux sans ordre parmi une sélection de six chevaux maximum, dont le nom commercial retenu par le PMU est porté à la connaissance des parieurs](chapitre-xiii-bis)
 - [Chapitre XV : Pari à cinq chevaux dont le nom commercial retenu par le PMU est porté à la connaissance des parieurs](chapitre-xv)

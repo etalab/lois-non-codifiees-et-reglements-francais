@@ -10,7 +10,7 @@ Le titulaire ne peut engager de paris sur son compte courant que dans la limite 
 
 Le titulaire du compte transmet ses ordres de paris au Pari mutuel urbain, qui les enregistre et lui délivre un reçu non payable. Le reçu comporte le détail des opérations effectuées sur le compte courant conformément aux ordres transmis ainsi que le détail du ou de chacun des paris engagés. Par l'acceptation du reçu, le titulaire reconnaît la conformité des opérations à ses ordres.
 
-Aucune réclamation concernant une erreur éventuelle dans la délivrance ou l'établissement du reçu n'est admise après que le parieur a quitté le poste d'enregistrement.
+Aucune réclamation concernant une erreur éventuelle dans la délivrance ou l'établissement du reçu n'est admise après que le parieur a quitté le poste d'enregistrement ou le guichet de l'hippodrome.
 
 En cas de distorsion entre les caractéristiques du pari telles qu'elles ont été enregistrées par le Pari mutuel urbain et celles figurant sur le reçu remis au titulaire, seules les caractéristiques enregistrées sur support magnétique avec scellement de données sur le système informatique central du Pari mutuel urbain fonctionnant en temps réel font foi. Notamment, la preuve testimoniale n'est pas admise.
 

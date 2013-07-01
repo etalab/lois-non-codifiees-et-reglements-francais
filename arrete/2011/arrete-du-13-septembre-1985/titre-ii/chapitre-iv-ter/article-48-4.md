@@ -2,15 +2,9 @@
 
 Cas particuliers.
 
-1. Arrivée normale sans "dead heat" :
+1. Lorsque dans une épreuve où fonctionne le pari " Couplé ordre international  "   , il n'y a aucune mise sur la permutation des deux premiers chevaux classés dans l'ordre exact d'arrivée ou, dans le cas d'arrivée " dead heat " de deux chevaux ou plus à la première ou à la deuxième place, s'il n'y a aucune mise sur aucune des permutations payables, les modalités particulières de traitement selon le pays concerné sont portées à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
 
-A défaut de mises dans l'ordre exact d'arrivée sur la combinaison payable, tous les paris "Couplé ordre international sont remboursés.
-
-2. Arrivée avec "dead heat" :
-
-a) Dans le cas d'arrivée " dead heat  "   , s'il n'y a aucune mise sur l'une des combinaisons payables, la fraction de la masse à partager afférente à cette combinaison est réservée pour constituer une tirelire. La part de cette tirelire constituée par les enjeux centralisés en France est ajoutée à la masse à partager du premier pari " Couplé ordre international " organisé en masse commune avec le même pays où la tirelire a été constituée, soit sur la première journée suivante, soit proposé sur une journée portée à la connaissance des parieurs.
-
-b) Dans le cas d'arrivée "dead heat" de deux chevaux ou plus à la première ou à la deuxième place, s'il n'y a aucune mise sur aucune des combinaisons payables, tous les paris "Couplé ordre international correspondants sont remboursés.
+2. Dans le cas d'arrivée " dead heat ", s'il n'y a aucune mise sur l'une des combinaisons payables, la fraction de la masse à partager afférente à cette combinaison est réservée pour constituer une tirelire. La part de cette tirelire constituée par les enjeux centralisés en France est ajoutée à la masse à partager du premier pari " Couplé ordre international " organisé en masse commune avec le même pays où la tirelire a été constituée, soit sur la première journée suivante, soit proposé sur une journée portée à la connaissance des parieurs.
 
 3. Tous les paris "Couplé ordre international" sont remboursés lorsque le nombre de chevaux ayant pris part à la course est inférieur au nombre minimum de participants déterminé par le règlement du pays organisateur et porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari.
 

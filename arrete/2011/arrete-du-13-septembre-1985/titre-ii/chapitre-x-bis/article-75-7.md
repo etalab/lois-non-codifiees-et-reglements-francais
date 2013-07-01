@@ -10,7 +10,7 @@ a) Dans le cas d'arrivée "dead heat" dans une course, s'il n'y a aucune mise su
 
 Ces modalités particulières selon le pays considéré ainsi que la journée mentionnée ci-dessus sont portées à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
 
-b) Lorsque dans une épreuve où fonctionne le pari "Trio ordre international" il n'y a aucune mise sur la permutation des trois premiers chevaux classés dans l'ordre exact d'arrivée ou, en cas de "dead heat, s'il n'y a aucune mise sur aucune des permutations payables, tous les paris "Trio ordre international correspondants sont remboursés.
+b) Lorsque dans une épreuve où fonctionne le pari " Trio ordre international  "   , il n'y a aucune mise sur la permutation des trois premiers chevaux classés dans l'ordre exact d'arrivée ou, en cas de " dead heat ", s'il n'y a aucune mise sur aucune des permutations payables les modalités particulières de traitement selon le pays concerné sont portées à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
 
 c) Lorsqu'une course sur laquelle fonctionne le pari "Trio ordre international" compte moins de trois chevaux à l'arrivée, tous les paris "Trio ordre international sont remboursés.
 
