@@ -159,6 +159,7 @@
 - [Arrêté du 4 mars 2013 (MENE1306114A)](arrete-du-4-mars-2013-mene1306114a)
 - [Arrêté du 4 mars 2013 (MENE1306121A)](arrete-du-4-mars-2013-mene1306121a)
 - [Arrêté du 4 septembre 2003 (SOCF0311416A)](arrete-du-4-septembre-2003-socf0311416a)
+- [Arrêté du 4 septembre 2012 (INTE1233730A)](arrete-du-4-septembre-2012-inte1233730a)
 - [Arrêté du 5 avril 2013 (AFSP1309083A)](arrete-du-5-avril-2013-afsp1309083a)
 - [Arrêté du 5 avril 2013 (AGRS1309030A)](arrete-du-5-avril-2013-agrs1309030a)
 - [Arrêté du 5 avril 2013 (BUDE1306856A)](arrete-du-5-avril-2013-bude1306856a)
