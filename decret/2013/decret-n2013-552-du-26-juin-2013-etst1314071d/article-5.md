@@ -1,3 +1,3 @@
 # Article 5
 
-en cours de traitement
+Le présent décret entre en vigueur le 1er juillet 2013.

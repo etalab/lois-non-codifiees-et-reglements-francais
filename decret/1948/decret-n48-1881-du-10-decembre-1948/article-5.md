@@ -1,66 +1,59 @@
 # Article 5
 
-A compter du 1er juillet 2012, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
+A compter du 1er juillet 2013, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="4">
-<br/>VALEUR LOCATIVE MENSUELLE EN EUROS <br/>
-</th>
+<td rowspan="3"> CATÉGORIES </td>
+<td colspan="4">
+<p align="center"> VALEUR LOCATIVE MENSUELLE EN EUROS </p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>CATÉGORIE <br/>
-</th>
-<th colspan="2">
-<br/>Agglomération parisienne <br/>
-</th>
-<th colspan="2">
-<br/>Hors agglomération parisienne <br/>
-</th>
+<td colspan="2">
+<p align="center"> Agglomération parisienne </p>
+</td>
+<td colspan="2">
+<p align="center"> Hors agglomération parisienne </p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>Prix de base de chacun <br/>
-<br/>des dix premiers mètres <br/>
-<br/>carrés de surface corrigée <br/>
-</th>
-<th>
-<br/>Prix de base <br/>
-<br/>des mètres carrés suivants <br/>
-</th>
-<th>
-<br/>Prix de base de chacun <br/>
-<br/>des dix premiers mètres <br/>
-<br/>carrés de surface corrigée <br/>
-</th>
-<th>
-<br/>Prix de base <br/>
-<br/>des mètres carrés suivants <br/>
-</th>
+<td>
+<p align="center"> Prix de base de chacun </p>
+<p align="center">des dix premiers mètres </p>
+<p align="center">carrés de surface corrigée </p>
+</td>
+<td>
+<p align="center"> Prix de base </p>
+<p align="center">des mètres carrés suivants </p>
+</td>
+<td>
+<p align="center"> Prix de base de chacun </p>
+<p align="center">des dix premiers mètres </p>
+<p align="center">carrés de surface corrigée <br/>
+</p>
+</td>
+<td>
+<p align="center"> Prix de base </p>
+<p align="center">des mètres carrés suivants </p>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>II A <br/>
 </td>
 <td align="center">
-<br/>11,78 <br/>
+<br/>11,96 <br/>
 </td>
 <td align="center">
-<br/>6,98 <br/>
+<br/>7,09 <br/>
 </td>
 <td align="center">
-<br/>9,62 <br/>
+<br/>9,77 <br/>
 </td>
 <td align="center">
-<br/>5,73 <br/>
+<br/>5,82 <br/>
 </td>
 </tr>
 <tr>
@@ -68,16 +61,16 @@ A compter du 1er juillet 2012, le prix de base de la valeur locative mensuelle d
 <br/>II B <br/>
 </td>
 <td align="center">
-<br/>8,11 <br/>
+<br/>8,23 <br/>
 </td>
 <td align="center">
-<br/>4,38 <br/>
+<br/>4,45 <br/>
 </td>
 <td align="center">
-<br/>6,64 <br/>
+<br/>6,74 <br/>
 </td>
 <td align="center">
-<br/>3,60 <br/>
+<br/>3,66 <br/>
 </td>
 </tr>
 <tr>
@@ -85,16 +78,16 @@ A compter du 1er juillet 2012, le prix de base de la valeur locative mensuelle d
 <br/>II C <br/>
 </td>
 <td align="center">
-<br/>6,20 <br/>
+<br/>6,30 <br/>
 </td>
 <td align="center">
-<br/>3,31 <br/>
+<br/>3,36 <br/>
 </td>
 <td align="center">
-<br/>5,07 <br/>
+<br/>5,15 <br/>
 </td>
 <td align="center">
-<br/>2,73 <br/>
+<br/>2,77 <br/>
 </td>
 </tr>
 <tr>
@@ -102,16 +95,16 @@ A compter du 1er juillet 2012, le prix de base de la valeur locative mensuelle d
 <br/>III A <br/>
 </td>
 <td align="center">
-<br/>3,75 <br/>
+<br/>3,81 <br/>
 </td>
 <td align="center">
-<br/>2,02 <br/>
+<br/>2,05 <br/>
 </td>
 <td align="center">
-<br/>3,08 <br/>
+<br/>3,13 <br/>
 </td>
 <td align="center">
-<br/>1,70 <br/>
+<br/>1,73 <br/>
 </td>
 </tr>
 <tr>
@@ -119,16 +112,16 @@ A compter du 1er juillet 2012, le prix de base de la valeur locative mensuelle d
 <br/>III B <br/>
 </td>
 <td align="center">
-<br/>2,24 <br/>
+<br/>2,27 <br/>
 </td>
 <td align="center">
-<br/>1,16 <br/>
+<br/>1,18 <br/>
 </td>
 <td align="center">
-<br/>1,83 <br/>
+<br/>1,86 <br/>
 </td>
 <td align="center">
-<br/>0,95 <br/>
+<br/>0,96 <br/>
 </td>
 </tr>
 <tr>

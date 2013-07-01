@@ -1,0 +1,5 @@
+# Article 4.1.11
+
+I. ― Le rejet, dans les eaux de surface ou dans le milieu marin, des substances mentionnées dans le tableau annexé à l'article R. 211-11-1 du code de l'environnement, ne peut être réalisé que si une décision de l'Autorité de sûreté nucléaire prise en application du 2° du IV de l'article 18 du décret du 2 novembre 2007 susvisé, et après avis du conseil départemental mentionné à l'article R. 1416-1 du code de la santé publique, fixe des limites de rejet pour ces substances, sur la base des justifications fournies par l'exploitant quant au caractère optimal de ces rejets et à l'acceptabilité de leurs impacts. Les limites susmentionnées sont réexaminées périodiquement. L'exploitant inclut les éléments permettant ce réexamen dans le rapport de réexamen prévu à l'article L. 593-19 du code de l'environnement.
+
+II. ― Les effluents liquides rejetés ne provoquent ni coloration ou irisation visible ni, en dehors de la zone de mélange, gêne à la reproduction des espèces animales ou effets létaux dans les eaux réceptrices.

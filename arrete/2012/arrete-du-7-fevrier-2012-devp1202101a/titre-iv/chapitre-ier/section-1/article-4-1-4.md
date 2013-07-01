@@ -1,0 +1,3 @@
+# Article 4.1.4
+
+Tout transfert d'effluents liquides ou d'eau prélevée dans l'environnement à une autre installation, nucléaire de base ou non, dépendant d'un autre exploitant, fait préalablement l'objet d'une convention passée entre l'exploitant de l'installation nucléaire de base et l'exploitant de l'autre installation. Cette convention fixe les caractéristiques et les quantités des effluents ou des eaux transférés. Elle rappelle également les obligations des deux exploitants en matière de contrôle et de surveillance. Cette convention et ses modifications sont portées à la connaissance de l'Autorité de sûreté nucléaire avant leur mise en œuvre.

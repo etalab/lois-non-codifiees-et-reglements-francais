@@ -1,0 +1,3 @@
+# Article 2.2.4
+
+L'exploitant présente les modalités mises en œuvre pour exercer la surveillance des intervenants extérieurs dans les règles générales d'exploitation mentionnées au 2° du II de l'article 20 du décret du 2 novembre 2007 susvisé, dans les règles générales de surveillance et d'entretien mentionnées au 10° du II de l'article 37 du même décret, dans les règles générales de surveillance mentionnées au 10° du II de l'article 43 du même décret ou, avant la mise en service de l'installation, dans la notice mentionnée au II de l'article 8 du même décret. Il précise notamment les principes et l'organisation de cette surveillance ainsi que les ressources qui lui sont consacrées.

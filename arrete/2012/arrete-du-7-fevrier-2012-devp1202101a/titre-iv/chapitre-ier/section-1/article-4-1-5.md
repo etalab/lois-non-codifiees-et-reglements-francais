@@ -1,0 +1,3 @@
+# Article 4.1.5
+
+Sur un site comprenant une ou plusieurs installations nucléaires de base utilisant des solvants sous la responsabilité d'un même exploitant, lorsque les quantités de solvants consommées par an, pour l'ensemble des installations, sont supérieures à 1 tonne, l'exploitant met en place un plan de gestion des solvants, mentionnant notamment les entrées et sorties de solvants de chaque installation. Si cette consommation annuelle de solvant est supérieure à 30 tonnes, l'exploitant transmet annuellement le plan de gestion de solvants à l'Autorité de sûreté nucléaire et l'informe de ses actions visant à réduire leur consommation.

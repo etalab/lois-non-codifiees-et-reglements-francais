@@ -1,0 +1,5 @@
+# Article 4.1.2
+
+I. ― Les valeurs limites d'émission, de prélèvement d'eau et de rejet d'effluents de l'installation sont fixées sur la base des meilleures techniques disponibles dans des conditions techniquement et économiquement acceptables en prenant en considération les caractéristiques de l'installation, son implantation géographique et les conditions locales de l'environnement.
+
+II. ― Les rejets d'effluents ne peuvent dépasser les limites fixées aux articles 27, 31, 32, 34, et au 14° de l'article 33 de l'arrêté du 2 février 1998 susvisé dans sa version mentionnée en annexe I, sauf disposition contraire fixée par décision de l'Autorité de sûreté nucléaire prise en application du 2° du IV de l'article 18 du décret du 2 novembre 2007 susvisé, sur la base des justifications fournies par l'exploitant quant au caractère optimal des limites proposées et à l'acceptabilité de leurs impacts, et après avis du conseil départemental mentionné à l'article R. 1416-1 du code de la santé publique.
