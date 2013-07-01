@@ -1,0 +1,5 @@
+# Article 222-8.03
+
+L'analyse des risques
+
+1. Toute conception ou modification doit être analysée en utilisant une méthode d'analyse des risques de type AMDEC ou équivalent. Celle-ci a pour objectif d'identifier les risques spécifiques présentés par l'exploitation d'une installation de propulsion ou de production d'énergie électrique par moteurs à gaz ou installations mixtes. Elle doit intégrer notamment les phases de conduite, de maintenance et d'avitaillement. L'analyse de risque doit en particulier démontrer que la disponibilité de l'installation machine et des machines électriques est équivalente à celle d'un navire utilisant un combustible liquide. L'analyse de risque doit tenir compte au moins des pertes de fonction dues aux dommages à des éléments, incendies, explosions et décharges électriques. Elle doit garantir que les risques sont éliminés dans toute la mesure possible. Les risques qui ne peuvent pas être éliminés doivent être atténués comme il convient. Les informations relatives à ces risques et la façon dont ils sont atténués doivent figurer dans le manuel d'exploitation. L'analyse de risque doit présentée à la commission d'étude compétente.
