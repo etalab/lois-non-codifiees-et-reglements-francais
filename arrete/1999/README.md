@@ -25,7 +25,6 @@
 - [Arrêté du 1 mars 2000 (EQUA0000302A)](arrete-du-1-mars-2000-equa0000302a)
 - [Arrêté du 1 septembre 1999 (EQUA9901248A)](arrete-du-1-septembre-1999-equa9901248a)
 - [Arrêté du 1 septembre 1999 (FPPA9910008A)](arrete-du-1-septembre-1999-fppa9910008a)
-- [Arrêté du 2 août 1999 (ECOR9904540A)](arrete-du-2-aout-1999-ecor9904540a)
 - [Arrêté du 2 août 1999 (MESW9911200A)](arrete-du-2-aout-1999-mesw9911200a)
 - [Arrêté du 2 avril 1999 (DEFD9901380A)](arrete-du-2-avril-1999-defd9901380a)
 - [Arrêté du 2 avril 1999 (ECOT9910370A)](arrete-du-2-avril-1999-ecot9910370a)
