@@ -24,7 +24,7 @@ B. - Quinze membres élus conformément au troisième alinéa de l'article 9 ci-
 
 3. Un représentant des maîtres de conférences et chargés de recherche du Centre national de la recherche scientifique et personnels assimilés en fonctions dans un centre de l'école ;
 
-4. Un représentant des assistants, des professeurs agrégés et des professeurs certifiés affectés à l'école ;
+4. Un représentant des assistants, des professeurs agrégés et des professeurs certifiés affectés à l'école, des attachés temporaires d'enseignement et de recherche, des agents contractuels d'enseignement ou de recherche et des chargés d'enseignement vacataires ;
 
 5. Un représentant des ingénieurs de recherche et de formation, des ingénieurs contractuels de type CNRS, des ingénieurs des établissements publics à caractère scientifique et technologique en fonctions dans un centre de l'école ;
 
