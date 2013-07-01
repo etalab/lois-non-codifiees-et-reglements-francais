@@ -1,5 +1,0 @@
-# Article 7 bis
-
-En cas de difficulté d'application due à la complexité particulière de la mise en oeuvre des mesures prescrites par le présent arrêté, à leur coût particulièrement élevé ou à leur impact sur la sûreté de l'installation nucléaire de base ou sur son environnement, l'exploitant transmet la justification de ces difficultés à la DGSNR et à la DRIRE territorialement compétente avant la date d'applicabilité des dispositions concernées.
-
-Cette justification est assortie de la proposition de mesures dérogatoires, assorties des délais de leur mise en oeuvre. Ces mesures doivent permettre d'atteindre le meilleur niveau de protection des intérêts mentionnés à l'article 1er du présent arrêté dans des conditions technico-économiques acceptables. Ces mesures sont soumises à l'approbation du directeur général de la sûreté nucléaire et de la radioprotection. Il peut imposer à l'exploitant de recourir à un expert dont le choix est soumis à son approbation ; les frais en sont supportés par l'exploitant. Le directeur général de la sûreté nucléaire et de la radioprotection peut imposer à l'exploitant des mesures complémentaires.
