@@ -30,7 +30,6 @@
 - [Arrêté du 2 décembre 2002 (MENS0202822A)](arrete-du-2-decembre-2002-mens0202822a)
 - [Arrêté du 2 décembre 2002 (MENS0202824A)](arrete-du-2-decembre-2002-mens0202824a)
 - [Arrêté du 2 janvier 2002 (AGRE0200015A)](arrete-du-2-janvier-2002-agre0200015a)
-- [Arrêté du 2 janvier 2002 (EQUU0200046A)](arrete-du-2-janvier-2002-equu0200046a)
 - [Arrêté du 2 janvier 2003 (AGRA0202694A)](arrete-du-2-janvier-2003-agra0202694a)
 - [Arrêté du 2 juillet 2002 (AGRG0201469A)](arrete-du-2-juillet-2002-agrg0201469a)
 - [Arrêté du 2 juillet 2003 (EQUI0200467A)](arrete-du-2-juillet-2003-equi0200467a)
