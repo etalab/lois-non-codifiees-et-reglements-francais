@@ -20,6 +20,7 @@
 - [Décret n°2006-814 du 7 juillet 2006 (ECOP0600334D)](decret-n2006-814-du-7-juillet-2006-ecop0600334d)
 - [Décret n°2006-130 du 8 février 2006 (SANA0620591D)](decret-n2006-130-du-8-fevrier-2006-sana0620591d)
 - [Décret n°2006-1359 du 8 novembre 2006 (SOCU0612037D)](decret-n2006-1359-du-8-novembre-2006-socu0612037d)
+- [Décret n°2006-672 du 8 juin 2006 (BUDX0600088D)](decret-n2006-672-du-8-juin-2006-budx0600088d)
 - [Décret n°2006-1370 du 10 novembre 2006 (SANS0624118D)](decret-n2006-1370-du-10-novembre-2006-sans0624118d)
 - [Décret n°2006-142 du 10 février 2006 (EQUT0600298D)](decret-n2006-142-du-10-fevrier-2006-equt0600298d)
 - [Décret n°2006-313 du 10 mars 2006 (DEFD0600178D)](decret-n2006-313-du-10-mars-2006-defd0600178d)

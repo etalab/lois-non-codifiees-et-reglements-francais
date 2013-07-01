@@ -8,4 +8,4 @@ Le secrétariat de la commission est assuré par un secrétaire général désig
 
 La commission est réunie, au moins une fois par an, sur convocation de son président ou à la demande d'au moins un tiers de ses membres. Les séances ne sont pas publiques.
 
-Le fonctionnement de la commission est régi par le présent décret, le règlement intérieur adopté par la commission et, à titre supplétif, par les dispositions des chapitres II et III du décret du 8 juin 2006 susvisé.
+Le fonctionnement de la commission est régi par le présent décret, le règlement intérieur adopté par la commission et, à titre supplétif, par les dispositions du décret du 8 juin 2006 susvisé.
