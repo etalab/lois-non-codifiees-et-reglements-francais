@@ -8,7 +8,7 @@ Remarques préliminaires
 
 3. Le fabricant du composant de sécurité et l'installateur de l'ascenseur ont l'obligation d'effectuer une analyse des risques afin de rechercher tous ceux qui s'appliquent à leur produit ; ils doivent, ensuite, le concevoir et le construire, en prenant en compte cette analyse.
 
-4. Les exigences essentielles de la directive 89/106/CEE, transposées par le décret n° 92-647 du 8 juillet 1992 modifié concernant l'aptitude à l'usage des produits de construction et modifié par le décret n° 95-1051 du 20 septembre 1995 susvisé, non reprises dans le présent décret s'appliquent aux ascenseurs.
+4. Les exigences fondamentales applicables aux ouvrages de construction, définies à l'annexe I du règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/ CEE du Conseil, non reprises dans le présent décret s'appliquent aux ascenseurs.
 
 1. Généralités
 
