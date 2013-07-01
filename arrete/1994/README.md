@@ -487,7 +487,6 @@
 - [Arrêté du 16 mars 1994 (SPSS9401152A)](arrete-du-16-mars-1994-spss9401152a)
 - [Arrêté du 16 mars 1994 (TEFE9400151A)](arrete-du-16-mars-1994-tefe9400151a)
 - [Arrêté du 16 novembre 1994 (ECOT9451387A)](arrete-du-16-novembre-1994-ecot9451387a)
-- [Arrêté du 16 novembre 1994 (INDG9400773A)](arrete-du-16-novembre-1994-indg9400773a)
 - [Arrêté du 16 novembre 1994 (SPSA9403540A)](arrete-du-16-novembre-1994-spsa9403540a)
 - [Arrêté du 16 septembre 1994 (DOMP9400046A)](arrete-du-16-septembre-1994-domp9400046a)
 - [Arrêté du 16 septembre 1994 (ECOT9410219A)](arrete-du-16-septembre-1994-ecot9410219a)
