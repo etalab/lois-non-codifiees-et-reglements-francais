@@ -2,9 +2,7 @@
 
 PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LES RUBRIQUES 2101 (ÉLEVAGES DE BOVINS), 2111 (ÉLEVAGES DE VOLAILLES ET/OU DE GIBIER À PLUMES) ET 2102 (ÉLEVAGES DE PORCS) DE LA NOMENCLATURE
 
-1. Dispositions générales
-
-1.1. Conformité de l'installation à la déclaration
+1. Dispositions générales1.1. Conformité de l'installation à la déclaration
 
 Pour l'application du présent arrêté, on entend par :
 
@@ -62,19 +60,17 @@ Lorsqu'une installation cesse l'activité au titre de laquelle elle était décl
 
 1.8. Dispositions particulières
 
-Dans les zones vulnérables, délimitées en application du décret no 93-1038 du 27 août 1993, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation. En particulier, l'exploitant devra s'assurer de la possibilité de s'installer ou de s'étendre conformément à ces programmes ou à d'autres textes législatifs ou réglementaires.
+Dans les zones vulnérables, délimitées en application du décret n<sup>o</sup> 93-1038 du 27 août 1993, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation. En particulier, l'exploitant devra s'assurer de la possibilité de s'installer ou de s'étendre conformément à ces programmes ou à d'autres textes législatifs ou réglementaires.
 
 1.9. Contrôles périodiques
 
-Les installations classées au titre des rubriques 2101-1 (b) et 2111-2 sont soumises à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+Les installations classées au titre des rubriques 2101-1 (b), 2101-2 (c) et 2111-2 sont soumises à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
 
-Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées à l'annexe IV du présent arrêté, modifiées le cas échéant par arrêté préfectoral, lorsqu'elles lui sont applicables.
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe IV du présent arrêté, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables. Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées à l'annexe IV par la mention " (susceptible de donner lieu à une non-conformité majeure) ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le "dossier installation classée" prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leur date de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4 de l'annexe I de l'arrêté du 7 février 2005 susvisé. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier prévu au point 1.4 de l'annexe I susvisée.
 
-2. Implantation. - Aménagement
-
-2.1. Règles d'implantation des bâtiments
+2. Implantation**. -**Aménagement2.1. Règles d'implantation des bâtiments
 
 2.1.1. Règles générales
 
@@ -114,7 +110,7 @@ Toutes les précautions sont prises pour éviter l'écoulement direct de boues e
 
 2.1.3. Cas des élevages de porcs en plein air
 
-2.1.3.a. Implantation des élevages
+2.1.3._a_. Implantation des élevages
 
 L'élevage de porcs en plein air est implanté sur un terrain de nature à supporter les animaux en toutes saisons, maintenu en bon état, et de perméabilité suffisante pour éviter la stagnation des eaux.
 
@@ -124,7 +120,7 @@ Les distances à respecter vis-à-vis des lieux de baignade, des plages, des pis
 
 Toutes les précautions sont prises pour éviter l'écoulement direct de boues et d'eau polluée vers les cours d'eau, le domaine public et les terrains des tiers.
 
-2.1.3.b. Aménagement et entretien des élevages,
+2.1.3._b_. Aménagement et entretien des élevages,
 
 gestion des animaux
 
@@ -156,9 +152,7 @@ La distance d'implantation par rapport aux habitations des tiers, aux locaux hab
 
 L'exploitant prend les dispositions appropriées pour intégrer l'élevage dans le paysage.
 
-3. Exploitation. - Entretien
-
-3.1. Surveillance de l'exploitation
+3. Exploitation**. -**Entretien3.1. Surveillance de l'exploitation
 
 L'exploitation doit se faire sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
 
@@ -168,15 +162,13 @@ L'installation est maintenue en parfait état d'entretien.
 
 Les parcours des volailles et des porcs élevés en plein air sont herbeux ou ombragés et maintenus en bon état. Toutes les dispositions sont prises en matière d'aménagement des parcours afin de favoriser leur fréquentation sur toute leur surface par les animaux.
 
-4. Risques
-
-4.1. Risque incendie
+4. Risques4.1. Risque incendie
 
 Les installations techniques (gaz, chauffage, fuel) sont réalisées conformément aux dispositions des normes et réglementations en vigueur.
 
 Les installations électriques sont réalisées conformément aux normes et réglementations en vigueur et maintenues en bon état. Elles sont contrôlées au moins tous les cinq ans par un technicien compétent. Les rapports de vérification et les justificatifs de la réalisation des travaux rendus nécessaires suite à ces rapports sont tenus à la disposition des organismes de contrôle et de l'inspecteur des installations classées.
 
-Lorsque l'exploitant emploie du personnel, les installations électriques sont réalisées et contrôlées conformément au décret no 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail.
+Lorsque l'exploitant emploie du personnel, les installations électriques sont réalisées et contrôlées conformément au décret n<sup>o</sup> 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail.
 
 L'installation dispose de moyens de lutte contre l'incendie adaptés aux risques.
 
@@ -194,13 +186,13 @@ Les extincteurs font l'objet de vérifications périodiques conformément à la 
 
 Doivent être affichées à proximité du téléphone urbain, dans la mesure où il existe, et près de l'entrée du bâtiment, des consignes précises indiquant notamment :
 
-- le no d'appel des sapeurs-pompiers : 18 ;
+- le n<sup>o</sup> d'appel des sapeurs-pompiers : 18 ;
 
-- le no d'appel de la gendarmerie : 17 ;
+- le n<sup>o</sup> d'appel de la gendarmerie : 17 ;
 
-- le no d'appel du SAMU : 15 ;
+- le n<sup>o</sup> d'appel du SAMU : 15 ;
 
-- le no d'appel des secours à partir d'un téléphone mobile : 112.
+- le n<sup>o</sup> d'appel des secours à partir d'un téléphone mobile : 112.
 
 Ainsi que les dispositions immédiates à prendre en cas de sinistre ou d'accident de toute nature pour assurer la sécurité des personnels et la sauvegarde de l'établissement.
 
@@ -218,11 +210,7 @@ Les dispositions de l'arrêté du 11 septembre 2003 relatif aux forages sont app
 
 5.2. Consommation
 
-Toutes les dispositions sont prises pour limiter la consommation d'eau.
-
-5.3 Réseau de collecte
-
-5.3.1. Sols des bâtiments
+Toutes les dispositions sont prises pour limiter la consommation d'eau.5.3 _Réseau de collecte_5.3.1. Sols des bâtiments
 
 Tous les sols des bâtiments d'élevage, de la salle de traite, de la laiterie et des aires d'ensilage susceptibles de produire des jus, toutes les installations d'évacuation (canalisations, y compris celles permettant l'évacuation des effluents vers les ouvrages de stockage et de traitement, caniveaux à lisier, etc.) ou de stockage des effluents sont imperméables et maintenus en parfait état d'étanchéité. La pente des sols des bâtiments d'élevage ou des installations annexes permet l'écoulement des effluents vers les ouvrages de stockage ou de traitement. Ces dispositions ne s'appliquent pas aux sols des enclos, volières, parcours et des bâtiments des élevages sur litière accumulée.
 
@@ -244,7 +232,7 @@ Les aliments stockés en dehors des bâtiments, à l'exception du front d'attaqu
 
 Des dispositions sont prises pour qu'il ne puisse pas y avoir, en cas d'accident, déversement de matières dangereuses dans les égouts publics ou le milieu naturel.
 
-5.5. Stockage des effluents
+5.5.Stockage des effluents
 
 5.5.1. Capacité de stockage
 
@@ -256,7 +244,7 @@ Lorsque, pour les élevages bovins, la durée de présence des animaux dans les 
 
 Pour les élevages en plein air ou lorsque les effluents sont rejetés dans le milieu naturel après traitement, le préfet peut, sur demande de l'exploitant, permettre une capacité de stockage inférieure à quatre mois.
 
-Les ouvrages de stockage à l'air libre des effluents liquides sont signalés et entourés d'une clôture de sécurité efficace. Les nouveaux ouvrages sont dotés de dispositifs de contrôle de l'étanchéité. Les ouvrages de stockage des lisiers et effluents liquides construits après la publication du présent arrêté au Journal officiel sont conformes aux I à V et VII à IX du cahier des charges de l'annexe II de l'arrêté du 26 février 2002 relatif aux travaux de maîtrise des pollutions liées aux effluents d'élevage.
+Les ouvrages de stockage à l'air libre des effluents liquides sont signalés et entourés d'une clôture de sécurité efficace. Les nouveaux ouvrages sont dotés de dispositifs de contrôle de l'étanchéité. Les ouvrages de stockage des lisiers et effluents liquides construits après la publication du présent arrêté au _Journal officiel_sont conformes aux I à V et VII à IX du cahier des charges de l'annexe II de l'arrêté du 26 février 2002 relatif aux travaux de maîtrise des pollutions liées aux effluents d'élevage.
 
 5.5.2. Stockage de certains effluents
 
@@ -269,9 +257,9 @@ Le tableau suivant indique, en fonction de la fréquence du curage, s'il y a ou 
 <table>
 <tbody>
 <tr>
-<td align="center"> TYPE DE BÂTIMENT</td>
-<td align="center"> FRÉQUENCE DU CURAGE</td>
-<td align="center"> MISE EN PLATE-FORME<br/>de stockage</td>
+<th>TYPE DE BÂTIMENT</th>
+<th>FRÉQUENCE DU CURAGE</th>
+<th>MISE EN PLATE-FORME<br/>de stockage</th>
 </tr>
 <tr>
 <td align="center">Bovins</td>
@@ -356,11 +344,12 @@ Les effluents de l'élevage sont traités :
 
 - soit par tout autre moyen équivalent autorisé par le préfet.
 
-En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les obligations de traitement des effluents, ainsi que les délais pour les satisfaire.
+En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les obligations de traitement des effluents, ainsi que les délais pour les satisfaire.
 
 5.6.2. Traitement sur un site spécialisé
 
-Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ier ou du livre V du code de l'environnement.
+Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre I<sup>e</sup>
+<sup>r</sup> ou du livre V du code de l'environnement.
 
 L'exploitant tient à la disposition de l'inspecteur des installations classées le relevé des quantités livrées et la date de livraison.
 
@@ -412,7 +401,7 @@ Toute modification notable du plan d'épandage doit être portée avant sa réal
 
 5.8.3. Quantités maximales épandables
 
-En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
+En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
 
 S'il apparaît nécessaire de renforcer la protection des eaux, le préfet peut fixer les quantités épandables d'azote et de phosphore à ne pas dépasser.
 
@@ -423,9 +412,11 @@ Les distances minimales entre, d'une part, les parcelles d'épandage des effluen
 <table>
 <tbody>
 <tr>
-<td/>
-<td align="center"> DISTANCE<br/>minimale</td>
-<td align="center"> DÉLAI<br/>maximal d'enfouissement après épandage sur terres nues</td>
+<th>
+<br/>
+</th>
+<th>DISTANCE<br/>minimale</th>
+<th>DÉLAI<br/>maximal d'enfouissement après épandage sur terres nues</th>
 </tr>
 <tr>
 <td align="center">Composts visés au 5.8.5</td>
@@ -480,7 +471,7 @@ Les distances minimales définies au 5.8.4 s'appliquent aux composts élaborés,
 
 - les andains font l'objet d'au minimum deux retournements ou d'une aération forcée ;
 
-- la température des andains est supérieure à 55 °C pendant 15 jours ou à 50 oC pendant six semaines. L'élévation de la température est surveillée par des prises de température hebdomadaires, en plusieurs endroits en prenant la précaution de mesurer le milieu de l'andain.
+- la température des andains est supérieure à 55 °C pendant 15 jours ou à 50 <sup>o</sup>C pendant six semaines. L'élévation de la température est surveillée par des prises de température hebdomadaires, en plusieurs endroits en prenant la précaution de mesurer le milieu de l'andain.
 
 Les résultats des prises de températures sont consignés sur un cahier d'enregistrement où sont indiqués, pour chaque site de compostage, la nature des produits compostés, les dates de début et de fin de compostage ainsi que celles de retournement des andains et l'aspect macroscopique du produit final (couleur, odeur, texture).
 
@@ -548,13 +539,13 @@ En cas de rejet dans le milieu naturel, le point de rejet de l'effluent traité 
 
 Les résultats de ces analyses sont conservés cinq ans et présentés à sa demande à l'inspecteur des installations classées.
 
-6.Air - Odeurs
+6.**Air - Odeurs**
 
 Les bâtiments sont correctement ventilés.
 
 L'exploitant prend des dispositions pour atténuer les émissions d'odeurs, de gaz ou de poussières susceptibles de créer des nuisances de voisinage.
 
-7.Déchets7.1. Déchets
+7.**Déchets**7.1. Déchets
 
 Les déchets de l'exploitation, et notamment les emballages et les déchets de soins vétérinaires, sont stockés dans des conditions ne présentant pas de risques (prévention des envols, des infiltrations dans le sol et des odeurs, etc.) pour les populations avoisinantes humaines et animales et l'environnement.
 
@@ -572,7 +563,7 @@ Les animaux de grande taille morts sur le site, sont stockés avant leur enlève
 
 Le brûlage à l'air libre des cadavres est interdit.
 
-8. Bruits
+8. **Bruits**
 
 Les dispositions de l'arrêté du 20 août 1985 relatif aux bruits aériens émis dans l'environnement par les installations classées pour la protection de l'environnement sont complétées en matière d'émergence par les dispositions suivantes.
 
@@ -583,8 +574,8 @@ Pour la période allant de 6 heures à 22 heures :
 <table>
 <tbody>
 <tr>
-<td align="center"> DUREE CUMULEE<br/>d'apparition du bruit particulier T</td>
-<td align="center"> EMERGENCE MAXIMALE<br/>admissible en db(A)</td>
+<th>DURËE CUMULËE<br/>d'apparition du bruit particulier T</th>
+<th>ËMERGENCE MAXIMALE<br/>admissible en db(A)</th>
 </tr>
 <tr>
 <td align="center">T &lt; 20 minutes</td>

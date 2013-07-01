@@ -2,89 +2,141 @@
 
 PRESCRIPTIONS FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE
 
-Le contrôle prévu au point 1.9 de l'annexe I porte sur les dispositions suivantes (les points mentionnés font référence à l'annexe I).
+Le contrôle prévu au point 1.9 de l'annexe I porte sur les objets suivants (les références réglementaires mentionnées sont celles de l'annexe I). Les points de contrôle pouvant faire l'objet d'une vérification documentaire par l'organisme certificateur et les points susceptibles de faire l'objet de non-conformités majeures sont mentionnés.
 
-1. Dispositions générales
+I. - Dossier ICPE et notification des changements notables
 
-1.4. Dossier installation classée :
+Référence réglementaire : 1.2, 1.4, 1.6, 1.7, 1.9, 5.8.5
 
-L'exploitant doit établir et tenir à jour un dossier comportant les documents suivants :
+Le dossier de déclaration ou d'autorisation, le cas échéant, est disponible et tenu à jour. Les changements notables dans le mode d'exploitation sont portés à la connaissance du préfet. Le changement d'exploitant est notifié le cas échéant.
 
-- le dossier de déclaration ;
+Le contrôleur vérifie la présence des documents suivants :
+
+- le dossier de déclaration ou d'autorisation, le cas échéant ;
 
 - les plans actualisés ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- le récépissé de déclaration et les prescriptions générales, le cas échéant ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
-- un registre à jour des effectifs d'animaux présents dans l'élevage, constitué, le cas échéant, du registre d'élevage tel que prévu par le code rural ;
+- un registre à jour des effectifs d'animaux présents dans l'élevage ;
 
-- les documents prévus aux points 2.1.3 (b), 4.1, 5.6.2, 5.8.2, 5.8.5, 5.9.1 et 5.9.2 de la présente annexe.
+- le (ou les) rapport(s) de visite des contrôles périodiques antérieurs, les documents décrivant la (les) action(s) corrective(s) et leur date de mise en œuvre le cas échéant ;
 
-Objet du contrôle :
+- le ou les rapports des services de contrôles, les rapports d'audit charte des bonnes pratiques d'élevage le cas échéant ;
 
-- présence du récépissé de déclaration, le cas échéant ;
+- le registre de livraison prévu dans le cadre de traitement des effluents sur un site spécialisé, le cas échéant ;
 
-- présence des prescriptions générales ;
+- le plan d'épandage ;
 
-- présence des arrêtés préfectoraux individuels relatifs à l'installation, le cas échéant ;
+- le cahier d'enregistrement des données de compostage, le cas échéant ;
 
-- présence (du) des rapport(s) de visite des contrôles périodiques antérieurs ainsi que d'un document décrivant la (les) action(s) corrective(s) et leur date de mise en œuvre le cas échéant ;
+- le cahier d'épandage ;
 
-- effectifs au jour du contrôle selon le registre (pour les espèces concernées par le contrôle périodique).
+- les résultats des analyses dans le cas de traitement des effluents dans une station d'épuration, le cas échéant ;
 
-4. Risques
+- les bordereaux d'enlèvement des différents déchets lorsque des filières organisées sont disponibles.
 
-4.1. Risque incendie :
+II. - Effectifs
 
-Les installations techniques (gaz, chauffage, fuel) sont réalisées conformément aux dispositions des normes et réglementations en vigueur.
+Référence réglementaire : 1.3
 
-Les installations électriques sont réalisées conformément aux normes et réglementations en vigueur et maintenues en bon état. Elles sont contrôlées au moins tous les cinq ans par un technicien compétent. Les rapports de vérification et les justificatifs de la réalisation des travaux rendus nécessaires suite à ces rapports sont tenus à la disposition des organismes de contrôle et de l'inspecteur des installations classées.
+L'effectif au jour du contrôle selon le registre, l'extraction de la base de données nationale d'identification (BDNI), les bordereaux de livraison ou tout autre document tenu à jour par l'exploitant (pour les espèces concernées par le contrôle périodique) est conforme ou inférieur à l'effectif défini sur le récépissé de déclaration ou l'arrêté préfectoral.
 
-Lorsque l'exploitant emploie du personnel, les installations électriques sont réalisées et contrôlées conformément au décret n° 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail.
+Ce point de contrôle est susceptible de donner lieu à une non-conformité majeure.
 
-L'installation dispose de moyens de lutte contre l'incendie adaptés aux risques.
+III. - Implantation et aménagement des parcours de volailles
 
-La protection interne contre l'incendie peut être assurée par des extincteurs portatifs dont les agents d'extinction doivent être appropriés aux risques à combattre.
+Référence réglementaire : 2.1.2
 
-Ces moyens sont complétés :
+Les clôtures sont implantées en respectant les distances définies à l'article 2.1.2 de l'annexe I.
 
-- s'il existe un stockage de fuel ou de gaz, par la mise en place à proximité d'un extincteur portatif à poudre polyvalente de 6 kg, en précisant "ne pas se servir sur flamme gaz";
+Les parcours des volailles élevées en plein air sont herbeux et ombragés et maintenus en bon état (gestion du couvert végétal sauf en cas de conditions climatiques exceptionnelles justifiant une absence d'herbe). Toutes les dispositions sont prises en matière d'aménagement et de gestion des parcours afin que toute la surface soit accessible aux volailles.
 
-- par la mise en place d'un extincteur portatif "dioxyde de carbone" de 2 à 6 kg à proximité des armoires ou locaux électriques.
+IV. - Entretien et nettoyage
 
-Les vannes de barrage (gaz, fuel, électricité) sont installées à l'entrée des bâtiments dans un boîtier sous verre dormant correctement identifié.
+Référence réglementaire : 3.2
 
-Les extincteurs font l'objet de vérifications périodiques conformément à la réglementation en vigueur.
+L'installation est maintenue en parfait état d'entretien notamment les voies d'accès sont en bon état, propres et permettant les manœuvres de camions. Les abords sont aménagés. Les matériels et matériaux sont rangés et ceux qui sont hors d'usage sont évacués ou stockés en vue de leur évacuation.
 
-Doivent être affichées à proximité du téléphone urbain, dans la mesure où il existe, et près de l'entrée du bâtiment, des consignes précises indiquant notamment :
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
 
-- le numéro d'appel des sapeurs-pompiers : 18 ;
+V. - Prévention du risque incendie
 
-- le numéro d'appel de la gendarmerie : 17 ;
+Référence réglementaire : 4.1
 
-- le numéro d'appel du SAMU : 15 ;
+V.1. L'exploitant a mis en œuvre tous les moyens pour que ses installations électriques soient contrôlées (tous les cinq ans, ou tous les ans si l'exploitant emploie des salariés).
 
-- le numéro d'appel des secours à partir d'un téléphone mobile : 112.
+Les justificatifs de la réalisation des travaux sont présents, le cas échéant.
 
-ainsi que les dispositions immédiates à prendre en cas de sinistre ou d'accident de toute nature pour assurer la sécurité des personnels et la sauvegarde de l'établissement.
+V.2. Le contrôleur s'assure de :
 
-Objet du contrôle :
+- la présence et l'affichage des consignes de sécurité à proximité du téléphone urbain (dans la mesure où il existe) ou près de l'entrée du bâtiment ;
 
-- présence et affichage des consignes ;
+- la présence et la validité des extincteurs sur l'exploitation. La présence d'un contrat écrit en cours de validité avec un organisme de contrôle vaut conformité de la validité des extincteurs ;
 
-- présence d'extincteur(s) ;
+- la présence de vannes de barrage correctement identifiées à l'entrée des bâtiments. Est considéré comme vanne de barrage tout système de coupure centralisée de l'électricité et du gaz le cas échéant.
 
-- présence d'une date de vérification en cours de validité du ou des extincteurs.
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
 
-4.2. Autres risques :
+L'absence des extincteurs ou des vannes de barrage est susceptible de donner lieu à une non-conformité majeure.
 
-Les produits de nettoyage, de désinfection, de traitement le fuel et les produits dangereux sont stockés dans des conditions propres à éviter tout déversement accidentel dans le milieu naturel et tous risques pour la sécurité et la santé des populations avoisinantes et pour la protection de l'environnement.
+VI. - Mesures de lutte contre les insectes
 
-Objet du contrôle :
+et les rongeurs
 
-Conditions de stockage évitant tout déversement dans le milieu naturel pour :
+Référence réglementaire : 4.2
+
+L'exploitant justifie de la lutte contre la prolifération des insectes et des rongeurs ou de l'absence de lutte, le cas échéant.
+
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
+
+_(1) Est considéré comme rapport de contrôle tout rapport établi par un inspecteur rattaché à un service déconcentré de l'Etat (DD[CS]PP, DRAAF, DREAL...). (2) Est considéré comme rapport d'audit tout rapport établi par un technicien charte des bonnes pratiques d'élevage._
+
+VII. - Déclaration de forage et surveillance
+
+des prélèvements d'eau
+
+Référence réglementaire : 5.1, 5.2
+
+VII.1. Lorsqu'un forage alimente en eau l'installation, il est mentionné dans le dossier de déclaration ou a été porté à la connaissance du préfet dans le cadre de la notification des changements notables.
+
+VII.2. L'exploitant dispose d'un moyen pour surveiller sa consommation d'eau, la présence d'un compteur d'eau volumétrique et d'un disconnecteur muni d'un système de non-retour installés sur la conduite d'alimentation en eau de l'installation étant réglementairement obligatoires.
+
+L'exploitant a mis en place des moyens pour limiter sa consommation d'eau (recyclage de l'eau pluie, abreuvoirs antigaspillage, pratiques ou dispositifs économes...).
+
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+
+Toute fuite d'eau visible sans projet de réparation est susceptible de donner lieu à une non-conformité majeure.
+
+VIII. - Gestion des effluents y compris les eaux résiduaires (eaux vertes et eaux brunes) et séparation des réseaux de collecte des eaux de pluie
+
+Référence réglementaire : 5.3.1, 5.3.3, 5.5
+
+VIII.1. Les effluents d'élevage (y compris les eaux résiduaires) issus des bâtiments d'élevage et de leurs annexes sont dirigés vers les installations de stockage ou de traitement. L'exploitant justifie de dispositifs de séparation des réseaux de collecte.
+
+Les documents disponibles sur l'exploitation doivent être consultés (plans des bâtiments et des équipements, étude préalable dans le cadre du programme de maîtrise des pollutions d'origine agricoles...).
+
+Les exploitations qui n'ont pas besoin d'ouvrages de stockage des effluents (stockage au champ des fumiers compacts pailleux dans les conditions définies dans l'arrêté) sont exonérés de ce contrôle.
+
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+
+VIII.2. L'exploitant justifie que les capacités des ouvrages de stockage permet de stocker au moins quatre mois de production d'effluents (y compris les eaux résiduaires). Le cas échéant, les documents disponibles sur l'exploitation doivent être consultés (plans des bâtiments et des équipements, étude préalable dans le cadre du programme de maîtrise des pollutions d'origine agricoles...).
+
+En zone vulnérable, une capacité de stockage de moins de quatre mois qui n'est pas justifiée par une conduite particulière d'exploitation est susceptible de donner lieu à une non-conformité majeure.
+
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+
+VIII.3. Tout écoulement direct des boues ou eaux polluées vers les cours d'eau, le domaine public et les terrains des tiers ou tout rejet visible et direct d'effluent ou d'eaux résiduaires dans le milieu naturel ou dans les eaux souterraines et de rejet directs d'effluents non traités dans les eaux superficielles douces et marines est susceptible de donner lieu à une non-conformité majeure.
+
+IX. - Stockage des produits de nettoyage, de désinfection,
+
+de traitement, du fuel et des autres produits dangereux
+
+Référence réglementaire : 2.1.2, 4.2, 5.3.1, 5.3.2, 5.7, 5.5
+
+IX.1. Le contrôleur s'assure que les conditions de stockage évitent tout déversement dans le milieu naturel (il ne doit pas y avoir de fuite visible) pour :
 
 - les produits de nettoyage, de désinfection ;
 
@@ -92,137 +144,35 @@ Conditions de stockage évitant tout déversement dans le milieu naturel pour :
 
 - le fuel et les produits dangereux.
 
-5. Eau
+Pour ces derniers produits, des dispositifs de contrôle de l'étanchéité des ouvrages de stockage ou des cuves de rétention ou des parois double peau sont présents le cas échéant.
 
-5.1. Prélèvements d'eau :
+IX.2. Tout écoulement direct des boues ou eaux polluées vers les cours d'eau, le domaine public et les terrains des tiers, tout déversement dans le milieu naturel des produits de nettoyage, de traitement ou des produits dangereux est susceptible de donner lieu à une non-conformité majeure.
 
-Un compteur d'eau volumétrique est installé sur la conduite d'alimentation en eau de l'installation. En cas de raccordement sur un réseau public ou sur un forage en nappe, l'ouvrage est équipé d'un dispositif de disconnexion muni d'un système de non-retour.
+X. - Plan d'épandage
 
-Les dispositions de l'arrêté du 11 septembre 2003 relatif aux forages sont applicables aux forages de l'installation.
+Référence réglementaire : 5.8.1, 5.8.2, 5.8.4, 5.8.6
 
-Objet du contrôle :
+Le plan d'épandage est complet et permet de visualiser les zones d'exclusion :
 
-- présence d'un compteur d'eau ;
+- la carte réalisée à partir d'un plan cadastral ou de tout autre support cartographique permet de localiser les surfaces où l'épandage des effluents d'élevage est possible ainsi que les zones exclues réglementairement à l'épandage ;
 
-- en cas de forage : le forage est mentionné dans le dossier de déclaration ou de demande d'autorisation
+- il existe un document mentionnant l'identité et l'adresse des prêteurs de terres qui ont souscrit un contrat avec l'exploitant ;
 
-5.3. Réseau de collecte :
+- il existe un tableau référençant les surfaces repérées sur le support cartographique et indiquant pour chaque unité la superficie totale et la surface épandable. En zone vulnérable, les surfaces de prairie pâturée exclues réglementairement de l'épandage sont identifiées ;
 
-5.3.1. Sols des bâtiments
+- il existe un tableau comportant la quantité d'azote issu des animaux de l'élevage épandue sur ces surfaces. Le cas échéant, figure également la quantité d'azote des effluents provenant d'autres élevages.
 
-Tous les sols des bâtiments d'élevage, [...] et des aires d'ensilage susceptibles de produire des jus, toutes les installations d'évacuation (canalisations, y compris celles permettant l'évacuation des effluents vers les ouvrages de stockage et de traitement, caniveaux à lisier, etc.) ou de stockage des effluents sont imperméables et maintenus en parfait état d'étanchéité. La pente des sols des bâtiments d'élevage ou des installations annexes permet l'écoulement des effluents vers les ouvrages de stockage ou de traitement. Ces dispositions ne s'appliquent pas aux sols des enclos, volières, parcours et des bâtiments des élevages sur litière accumulée.
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
 
-A l'intérieur des bâtiments d'élevage, [...], le bas des murs est imperméable et maintenu en parfait état d'étanchéité sur une hauteur d'un mètre au moins. Cette disposition n'est pas applicable aux enclos, volières, parcours et aux bâtiments des élevages sur litière accumulée et de poules pondeuses en cages.
+L'absence de zones d'exclusion de 35 mètres, éventuellement réduite à 10 mètres avec bandes enherbées ou boisée ne recevant aucun intrant, le long des berges des cours d'eau est susceptible de donner lieu à une non-conformité majeure.
 
-Lorsque les volailles ont accès à un parcours en plein air, un trottoir en béton ou en tout autre matériau étanche, d'une largeur minimale d'un mètre est mis en place à la sortie des bâtiments fixes. Les déjections rejetées sur les trottoirs sont raclées et soit dirigées vers la litière, soit stockées puis traitées comme les autres déjections.
+Ce point peut également être contrôlé à l'aide du support cartographique qui permet de visualiser les zones enherbées.
 
-5.3.2. Eaux de nettoyage
+XI. - Cahier d'épandage
 
-Toutes les eaux de nettoyage nécessaires à l'entretien des bâtiments et des annexes et susceptibles de ruisseler sur les aires bétonnées sont collectées par un réseau étanche et dirigées vers les installations de stockage ou de traitement des eaux résiduaires ou des effluents.
+Référence réglementaire : 5.9.1, 5.8.1
 
-5.3.3. Eaux de pluie
-
-Les eaux de pluie provenant des toitures ne sont en aucun cas mélangées aux effluents d'élevage, ni rejetées sur les aires d'exercice. Lorsque ce risque existe, elles sont collectées par une gouttière ou tout autre dispositif équivalent. Elles sont alors soit stockées en vue d'une utilisation ultérieure, soit évacuées vers le milieu naturel ou un réseau particulier.
-
-Les aliments stockés en dehors des bâtiments, à l'exception du front d'attaque des silos en libre-service et des racines et tubercules, sont couverts en permanence par une bâche maintenue en bon état ou tout autre dispositif équivalent afin de les protéger de la pluie.
-
-Objet du contrôle :
-
-Présence de dispositifs de séparation des réseaux de collecte (contrôle visuel).
-
-5.6. Traitement des effluents
-
-5.6.1. Modes de traitement :
-
-Les effluents de l'élevage sont traités :
-
-- soit par épandage sur des terres agricoles, conformément aux dispositions du 5.8 ;
-
-- soit dans une station de traitement dans les conditions prévues au 5.6.3 en ce qui concerne les effluents ;
-
-- soit sur un site spécialisé dans les conditions prévues au 5.6.2 ;
-
-- soit par tout autre moyen équivalent autorisé par le préfet.
-
-Objet du contrôle :
-
-Les effluents (issus des installations faisant l'objet du contrôle périodique) sont traités par une méthode autorisée tel que prévu à l'article 5.6.1.
-
-5.6.2. Traitement sur un site spécialisé
-
-Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ier, ou du livre V du code de l'environnement.
-
-L'exploitant tient à la disposition de l'inspecteur des installations classées le relevé des quantités livrées et la date de livraison.
-
-Objet du contrôle :
-
-Présence des bordereaux incluant quantité livrée + date (pour les effluents issus des installations faisant l'objet du contrôle périodique).
-
-5.6.3. Station de traitement des effluents :
-
-Pour les stations de traitement des effluents, le niveau minimal de traitement et, en cas de rejet dans les eaux superficielles d'effluents traités, le flux journalier maximal de pollution admissible compatible avec les objectifs de qualité fixés pour le milieu récepteur sont fixés par le préfet.
-
-Objet du contrôle :
-
-Les flux mesurés sont compatibles avec les prescriptions de l'arrêté préfectoral.
-
-5.7. Interdictions de rejet :
-
-Tout rejet direct d'effluents dans les eaux souterraines est interdit. Tout rejet d'effluents non traités dans les eaux superficielles douces et marines est strictement interdit.
-
-Objet du contrôle :
-
-Absence de rejets non autorisés, voir 5.3 (contrôle visuel).
-
-5.8. Epandage :
-
-5.8.2. Plan d'épandage :
-
-Tout épandage est subordonné à la production d'un plan d'épandage. Ce plan permet d'identifier les surfaces épandables compte tenu des surfaces exclues pour des raisons réglementaires et d'évaluer l'adéquation entre les quantités d'azote à épandre et les surfaces disponibles.
-
-Le plan d'épandage est constitué :
-
-- d'une carte à une échelle minimum de 1/12 500 réalisée à partir d'un plan cadastral ou de tout autre support cartographique et permettant de localiser les surfaces où l'épandage des effluents d'élevage est possible compte tenu des exclusions réglementaires mentionnées aux 5.8.4 à 5.8.6.
-
-Sur la carte doivent apparaître les contours et le numéro des unités de surface permettant de les repérer, ainsi que les zones exclues réglementairement à l'épandage :
-
-- d'un document mentionnant l'identité et l'adresse des prêteurs de terres qui ont souscrit un contrat écrit avec l'exploitant ;
-
-- d'un tableau référençant les surfaces repérées sur le support cartographique et indiquant, pour chaque unité, la superficie totale et la superficie épandable. En zone vulnérable, les surfaces de prairie pâturée exclues réglementairement de l'épandage sont à identifier ;
-
-- d'un tableau comportant la quantité d'azote issu des animaux de l'élevage épandue sur ces surfaces. Le cas échéant, figure également la quantité d'azote des effluents provenant d'autres élevages.
-
-L'ensemble de ces éléments est présenté dans un document de synthèse tenu à disposition de l'inspecteur des installations classées.
-
-Toute modification notable du plan d'épandage doit être portée avant sa réalisation à la connaissance du préfet.
-
-Objet du contrôle :
-
-Présence d'un plan d'épandage conforme et non modifié sans information du préfet : à savoir, présence des documents suivants à jour et renseignés :
-
-- carte réalisée à partir d'un plan cadastral ou de tout autre support cartographique et permettant de localiser les surfaces où l'épandage des effluents d'élevage est possible ; sur la carte, doivent apparaître les contours et le numéro des unités de surface permettant de les repérer, ainsi que les zones exclues réglementairement à l'épandage ;
-
-- document à jour mentionnant :
-
-- l'identité des prêteurs de terres qui ont souscrit un contrat écrit avec l'exploitant ;
-
-- l'adresse des prêteurs de terres qui ont souscrit un contrat écrit avec l'exploitant ;
-
-- tableau référençant les surfaces repérées sur le support cartographique et indiquant, pour chaque unité, la superficie totale et la superficie épandable. En zone vulnérable, les surfaces de prairie pâturée exclues réglementairement de l'épandage sont à identifier ;
-
-- tableau comportant la quantité d'azote issu des animaux de l'élevage épandue sur ces surfaces. Le cas échéant, figure également la quantité d'azote des effluents provenant d'autres élevages.
-
-- courrier(s) informant le préfet de modifications éventuelles.
-
-5.9. Surveillance
-
-5.9.1. Cahier d'épandage :
-
-L'enregistrement des pratiques de fertilisation azotée est réalisé par la tenue à jour d'un cahier d'épandage pour chaque parcelle ou îlot cultural, y compris pour les parcelles mises à disposition par des tiers. Par îlot cultural, on entend un regroupement de parcelles homogènes du point de vue de la culture concernée, de l'histoire culturale (notamment pour ce qui concerne les successions et les apports organiques) et de la nature du terrain.
-
-Le cahier d'épandage regroupe les informations suivantes relatives aux effluents d'élevage issus de l'exploitation :
-
-- le bilan global de fertilisation ;
+Le cahier d'épandage est à jour et renseigné, il contient :
 
 - l'identification des parcelles (ou îlots) réceptrices épandues ;
 
@@ -234,82 +184,44 @@ Le cahier d'épandage regroupe les informations suivantes relatives aux effluent
 
 - les volumes par nature d'effluent et les quantités d'azote épandues, en précisant les autres apports d'azote organique et minéral ;
 
-- le mode d'épandage et le délai d'enfouissement ;
-
-- le traitement mis en œuvre pour atténuer les odeurs (s'il existe).
-
-En outre, chaque fois que des effluents d'élevage produits par une exploitation sont épandus sur des parcelles mises à disposition par des tiers, le cahier d'épandage comprend un bordereau cosigné par le producteur des effluents et le destinataire. Ce bordereau est établi au plus tard à la fin du chantier d'épandage ; il comporte l'identification des parcelles réceptrices, les volumes par nature d'effluent et les quantités d'azote épandues.
-
-Le cahier d'épandage est tenu à la disposition de l'inspecteur des installations classées.
-
-Objet du contrôle :
-
-Présence d'un cahier d'épandage conforme :
-
-A savoir, présence des informations ou documents suivants à jour et renseignés :
-
-- l'identification des parcelles (ou îlots) réceptrices épandues ;
-
-- les superficies effectivement épandues ;
-
-- les dates d'épandage ;
-
-- la nature des cultures ;
-
-- les volumes par nature d'effluent et les quantités d'azote épandues, en précisant les autres apports d'azote organique et minéral ;
-
-- épandage :
-
-- le mode d'épandage (avec enfouissement / sans enfouissement) ;
+- le mode d'épandage (avec enfouissement/sans enfouissement) ;
 
 - en cas d'enfouissement, le délai d'enfouissement ;
 
 - le traitement mis en œuvre pour atténuer les odeurs (s'il existe) ;
 
-- bordereau cosigné (éleveur + prêteur) en cas d'épandage sur des parcelles mises à disposition par des tiers.
+- les bordereaux cosignés (éleveur prêteur) en cas d'épandage sur des parcelles mises à disposition par des tiers.
 
-5.9.2. Analyses :
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
 
-En cas de traitement des effluents dans une station d'épuration, une analyse de l'azote et du phosphore contenus dans les boues et produits issus du traitement des effluents est réalisée annuellement.
+L'absence des mentions relatives aux dates d'épandage et aux quantités d'azote épandues (azote organique ou minéral) par parcelle ou îlot cultural est susceptible de donner lieu à une non-conformité majeure.
 
-En cas de rejet dans le milieu naturel, le point de rejet de l'effluent traité dans le milieu est unique et aménagé en vue de pouvoir procéder à des prélèvements et à des mesures de débit utilisant soit un seuil déversoir dans un regard spécialement aménagé à cet effet, soit une capacité de volume connu. Des mesures du débit et des analyses permettant de connaître la DCO, la DBO5, les MES, le phosphore et l'azote global (NGL) de l'effluent rejeté dans le milieu naturel sont faites aux frais de l'exploitant au minimum une fois par semestre.
+L'absence des bordereaux cosignés est susceptible de donner lieu à une non-conformité majeure.
 
-Les résultats de ces analyses sont conservés cinq ans et présentés à sa demande à l'inspecteur des installations classées.
+La période de contrôle considérée est l'année culturale n - 1.
 
-Objet du contrôle :
+XII. - Compostage
 
-- présence de résultats d'analyse (pour les effluents issus des installations faisant l'objet du contrôle périodique) ;
+Référence réglementaire : 5.8.5
 
-- fréquence d'analyse conforme.
+Le cahier de compostage est à jour et renseigné, notamment en ce qui concerne les prises de températures, conformément à l'article 5.8.5 de l'annexe I.
 
-7. Déchets
+Ce point de contrôle est susceptible de donner lieu à une non-conformité majeure.
 
-7.1. Déchets :
+XIII. - Gestion des déchets et animaux morts
 
-Les déchets de l'exploitation, et notamment les emballages et les déchets de soins vétérinaires, sont stockés dans des conditions ne présentant pas de risques (prévention des envols, des infiltrations dans le sol et des odeurs, etc.) pour les populations avoisinantes humaines et animales et l'environnement.
+Référence réglementaire : 7.1, 7.2
 
-Ils sont éliminés ou recyclés conformément à la réglementation en vigueur.
+XIII.1. Il existe un mode d'élimination, des bidons de désinfectants, des déchets de soins vétérinaires et, le cas échéant, des sacs d'aliment attesté par des bordereaux ou justificatifs d'enlèvements.
 
-Tout brûlage à l'air libre de déchets est interdit.
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
 
-Objet du contrôle :
+XIII.2. Le contrôleur s'assure que :
 
-- élimination des déchets de soins :
+- les déchets sont triés et stockés en attente de leur évacuation ;
 
-- présence de containers de stockage des déchets (conformes à la réglementation le cas échéant) ;
+- les cadavres sont stockés conformément à l'annexe I en attente de leur évacuation.
 
-- présence de bordereaux d'enlèvement ;
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
 
-- existence d'un mode d'élimination des sacs d'aliments et des bidons de désinfectants.
-
-7.2. Animaux morts
-
-Les animaux morts sont entreposés et enlevés par l'équarrisseur ou détruits selon les modalités prévues par le code rural.
-
-En vue de leur enlèvement, les animaux morts de petite taille (porcelets, volailles) sont placés dans des conteneurs étanches et fermés, de manipulation facile par un moyen mécanique, disposés sur un emplacement séparé de toute autre activité et réservé à cet usage. Dans l'attente de leur enlèvement, quand celui-ci est différé, sauf mortalité exceptionnelle, ils sont stockés dans un récipient fermé et étanche, à température négative destiné à ce seul usage et identifié.
-
-Les animaux de grande taille morts sur le site sont stockés avant leur enlèvement par l'équarrisseur sur un emplacement facile à nettoyer et à désinfecter, et accessible à l'équarrisseur.
-
-Objet du contrôle :
-
-Présence de systèmes ou emplacements de stockage des cadavres conformes.
+L'accumulation importante de déchets non triés sur l'exploitation ou l'accumulation de cadavres sans justification due à des conditions exceptionnelles est susceptible de donner lieu à une non-conformité majeure.
