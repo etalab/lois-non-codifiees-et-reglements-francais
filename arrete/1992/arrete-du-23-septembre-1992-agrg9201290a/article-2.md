@@ -16,7 +16,7 @@ L'Etat participe financièrement aux opérations suivantes effectuées par les v
 
 -la rédaction et l'envoi des documents réglementaires.
 
-Par visite effectuée : trois A. M. O. (acte médical de l'ordre).
+Par visite effectuée : trois fois le montant de l'acte médical vétérinaire.
 
 Une seule visite est prise en charge par suspicion.
 
@@ -34,19 +34,19 @@ Une seule visite est prise en charge par suspicion.
 
 -la rédaction et l'envoi des documents réglementaires.
 
-Par visite effectuée : trois A. M. O.
+Par visite effectuée : trois fois le montant de l'acte médical vétérinaire.
 
 Une seule visite est prise en charge par déclaration.
 
 3° Visite de l'établissement déclaré infecté d'anémie infectieuse en cours d'assainissement comprenant l'ensemble des opérations prévues au paragraphe 2° ci-dessus, premier, deuxième, troisième, cinquième et sixièmes tirets.
 
-Par visite effectuée et donnant lieu à la réalisation de prélèvements sur tout l'effectif : trois A. M. O.
+Par visite effectuée et donnant lieu à la réalisation de prélèvements sur tout l'effectif : trois fois le montant de l'acte médical vétérinaire.
 
 Une visite par mois au maximum est prise en charge.
 
 4° Visite dans le but de marquer le ou les équidés qui se révèlent infectés après les visites prévues aux paragraphes 2° et 3° ci-dessus.
 
-Par visite effectuée : deux A. M. O.
+Par visite effectuée : deux fois le montant de l'acte médical vétérinaire.
 
 Une seule visite par équidé à marquer ou par groupe d'équidés à marquer, s'ils ont été trouvés positifs en même temps, est prise en charge.
 
@@ -60,12 +60,12 @@ Une seule visite par équidé à marquer ou par groupe d'équidés à marquer, s
 
 -la rédaction et l'envoi des documents réglementaires.
 
-Par visite effectuée : trois A. M. O.
+Par visite effectuée : trois fois le montant de l'acte médical vétérinaire.
 
 Une seule visite est prise en charge par établissement.
 
 6° Prélèvements destinés au diagnostic de l'anémie infectieuse par l'épreuve d'immunodiffusion en gélose effectués en application de l'arrêté du 23 septembre 1992 susvisé.
 
-Pour chaque équidé prélevé : un quart d'A. M. O.
+Pour chaque équidé prélevé : un quart du montant de l'acte médical vétérinaire.
 
 7° Les déplacements pour l'exécution des opérations visées aux paragraphes 1° à 5° selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires mandatés pour les opérations de police sanitaire.

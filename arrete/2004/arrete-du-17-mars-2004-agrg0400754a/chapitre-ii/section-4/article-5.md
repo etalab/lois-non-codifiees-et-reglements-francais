@@ -6,15 +6,15 @@ Les opérations financées par l'Etat, ainsi que leur montant fixé hors taxe, s
 
 Visite d'une exploitation comprenant forfaitairement :
 
-- le recensement exact des suidés entretenus sur l'exploitation ;
+-le recensement exact des suidés entretenus sur l'exploitation ;
 
-- la vaccination d'urgence des suidés présents sur l'exploitation, le vaccin antipestique étant fourni gratuitement par l'administration ;
+-la vaccination d'urgence des suidés présents sur l'exploitation, le vaccin antipestique étant fourni gratuitement par l'administration ;
 
-- l'identification des suidés vaccinés ;
+-l'identification des suidés vaccinés ;
 
-- la rédaction et l'envoi des documents réglementaires.
+-la rédaction et l'envoi des documents réglementaires.
 
-Par visite effectuée : trois fois le montant de l'acte médical de l'ordre (3 AMO) par demi-heure de présence, avec un minimum forfaitaire de trois fois le montant de l'acte médical défini par l'ordre des vétérinaires et à l'exclusion de toute autre rémunération pour les actes effectués.
+Par visite effectuée : trois fois le montant de l'acte médical vétérinaire par demi-heure de présence, avec un minimum forfaitaire de trois fois le montant de l'acte médical vétérinaire et à l'exclusion de toute autre rémunération pour les actes effectués.
 
 Le financement de ces opérations n'est pas cumulable avec celui prévu à la section précédente (cas d'une vaccination d'urgence en zone de protection ou de surveillance).
 

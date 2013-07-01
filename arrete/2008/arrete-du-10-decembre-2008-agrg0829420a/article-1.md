@@ -14,17 +14,17 @@ a) Visite des animaux suspects et de l'exploitation, qu'elle soit accompagnée o
 
 ― le rapport de visite.
 
-Par visite effectuée : trois fois le montant de l'acte médical défini par l'ordre des vétérinaires, ou par heure de présence, si la visite dure plus de trente minutes : six fois le montant de l'acte défini par l'ordre des vétérinaires ;
+Par visite effectuée : trois fois le            montant de l'acte médical vétérinaire, ou par heure de présence, si la visite dure plus de trente minutes : six fois le montant de l'acte défini par l'ordre des vétérinaires ;
 
 b) Prélèvements destinés au diagnostic de laboratoire :
 
-― par prélèvement de sang dans l'espèce bovine : un cinquième du montant de l'acte médical défini par l'ordre des vétérinaires ;
+― par prélèvement de sang dans l'espèce bovine : un cinquième du            montant de l'acte médical vétérinaire ;
 
-― par prélèvement de sang dans les espèces ovine et caprine : un dixième du montant de l'acte médical défini par l'ordre des vétérinaires ;
+― par prélèvement de sang dans les espèces ovine et caprine : un dixième du            montant de l'acte médical vétérinaire ;
 
-― en cas de nécessité de prélèvements d'organes aux fins d'analyses virologiques, par prélèvement : un cinquième du montant de l'acte médical défini par l'ordre des vétérinaires.
+― en cas de nécessité de prélèvements d'organes aux fins d'analyses virologiques, par prélèvement : un cinquième du            montant de l'acte médical vétérinaire.
 
-2° En cas d'épizootie : visite des exploitations situées dans les zones de protection et de surveillance et, le cas échéant, réalisation d'une vaccination d'urgence : par heure de présence, six fois le montant de l'acte médical défini par l'ordre des vétérinaires, à l'exclusion de toute autre rémunération pour les actes effectués.
+2° En cas d'épizootie : visite des exploitations situées dans les zones de protection et de surveillance et, le cas échéant, réalisation d'une vaccination d'urgence : par heure de présence, six fois le            montant de l'acte médical vétérinaire, à l'exclusion de toute autre rémunération pour les actes effectués.
 
 En cas de vaccination d'urgence, le vaccin contre la fièvre catarrhale du mouton est fourni gratuitement par l'administration.
 
