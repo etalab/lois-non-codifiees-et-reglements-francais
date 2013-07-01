@@ -4,4 +4,4 @@ La participation mentionnée à l'article 112 de la loi susvisée est versée un
 
 a) Le versement de la participation au titre de chaque année civile est subordonné au versement par le bénéficiaire à un de ces organismes de cotisations dont le cumul pour cette même période ne peut être inférieur à 500 euros ;
 
-b) Le montant de la participation est égal à 5 % des émoluments hospitaliers bruts effectivement perçus par le bénéficiaire au cours de l'année civile de référence dans la limite du cumul de cotisations mentionné au a et sans que ce montant puisse excéder 2 000 euros.
+b) Le montant de la participation est égal à 9 % des émoluments hospitaliers bruts effectivement perçus par le bénéficiaire au cours de l'année civile de référence dans la limite du cumul de cotisations mentionné au a.
