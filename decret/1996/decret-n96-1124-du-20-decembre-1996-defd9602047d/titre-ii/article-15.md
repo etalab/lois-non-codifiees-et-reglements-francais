@@ -1,3 +1,7 @@
 # Article 15
 
-Le directeur de la formation humaine et militaire est un officier supérieur. Il exerce à l'égard du personnel militaire de l'école, y compris les élèves, le pouvoir de notation et le pouvoir disciplinaire de chef de corps en application des dispositions du décret du 28 juillet 1975 susvisé. Il est responsable de la formation militaire des élèves.
+Le directeur de la formation humaine et militaire est un officier supérieur.
+
+Sous l'autorité du directeur général, il est chargé de la formation humaine et militaire des élèves, de la notation et de la discipline du personnel militaire. Il contribue à la gestion du personnel militaire de l'école.
+
+Il dispose des prérogatives conférées à l'autorité militaire de premier niveau par l'article R. 4137-10 du code de la défense.

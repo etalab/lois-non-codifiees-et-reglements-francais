@@ -1,5 +1,5 @@
 # Article 14
 
-Le secrétaire général est nommé par arrêté du ministre de la défense, sur proposition du directeur général.
+Le secrétaire général est nommé dans les conditions prévues par le décret n° 2012-32 du 9 janvier 2012 modifié relatif aux emplois de chef de service et de sous-directeur des administrations de l'Etat, sur proposition du directeur général.
 
-Il assiste le directeur général dans ses fonctions et, à ce titre, il assure la direction des services administratifs, financiers et généraux de l'école et coordonne leurs activités. Il est notamment responsable de la gestion du personnel civil et militaire de l'école ainsi que de la préparation et de l'exécution du budget.
+Il assiste le directeur général dans ses fonctions, notamment en assurant la direction des services administratifs, financiers et généraux de l'école

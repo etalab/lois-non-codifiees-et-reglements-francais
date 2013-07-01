@@ -4,9 +4,9 @@ Le conseil d'administration de l'Ecole polytechnique comprend :
 
 - le président ;
 
-- le directeur général de l'école, vice-président ;
+- le directeur général ;
 
-- sept membres représentant l'Etat :
+- six membres représentant l'Etat :
 
 - deux représentants du ministre de la défense ;
 
@@ -14,34 +14,30 @@ Le conseil d'administration de l'Ecole polytechnique comprend :
 
 - un représentant du ministre chargé de l'industrie ;
 
-- un représentant du ministre chargé de la fonction publique ;
-
 - un représentant du ministre chargé de l'enseignement supérieur ;
 
-- un représentant du ministre chargé du budget ;
+- un représentant du ministre chargé de l'économie ;
 
-- onze membres choisis en raison de leur compétence :
+- neuf membres choisis en raison de leur compétence :
 
-- le directeur d'une école d'application d'ingénieurs de l'armement ;
+- deux personnalités issues d'un établissement d'enseignement supérieur et de recherche, dont au moins une issue d'un établissement étranger ;
 
-- le directeur d'une école d'application d'ingénieurs civils ;
+- un représentant de l'Association des anciens élèves et diplômés de l'Ecole polytechnique ;
 
-- six membres désignés parmi les membres des grands corps de l'Etat et les cadres des entreprises publiques nationalisées, de l'industrie privée et des établissements scientifiques ;
+- six personnalités qualifiées dont au moins trois sont cadres supérieurs d'entreprise et une est de nationalité étrangère. Parmi celles-ci, une au moins est issue du secteur public ;
 
-- deux directeurs d'institutions étrangères d'enseignement et de recherche ;
+- huit membres représentant le personnel et les étudiants de l'école, y compris de ses laboratoires :
 
-- un représentant de la société Amicale des anciens élèves de l'Ecole polytechnique ;
+- deux membres représentant le personnel d'enseignement, dont au moins un enseignant-chercheur exerçant à temps complet, élus par ce personnel ;
 
-- six membres représentant le personnel et les élèves de l'école :
+- deux élèves choisis parmi les promotions admises à l'école depuis plus d'un an, sur proposition de ces promotions ;
 
-- deux membres du personnel enseignant de l'école désignés par ce personnel ;
+- un membre représentant les étudiants en master et en doctorat, élu par ces derniers ;
 
-- deux élèves, à raison d'un par promotion admise à l'école depuis plus d'un an, choisis sur proposition de leur promotion respective ;
+- deux membres représentant le personnel de recherche et le personnel technique et administratif de l'école, élus par ce personnel ;
 
-- un membre du personnel de recherche de l'école désigné par ce personnel ;
-
-- un membre du personnel technique et administratif de l'école désigné par ce personnel.
+- un membre représentant le personnel de recherche affecté dans les laboratoires de l'école et dont elle n'est pas employeur, élu par ce personnel.
 
 Cinq au moins des membres du conseil d'administration, compte non tenu des membres du personnel et des élèves, doivent être choisis parmi les anciens élèves de l'Ecole polytechnique.
 
-Les fonctions de président et de membre du conseil d'administration sont exercées à titre gratuit. Toutefois, les membres peuvent percevoir des indemnités liées à leurs déplacements dans les conditions fixées par les décrets du 28 mai 1990, du 7 mai 1991 et du 21 février 1992 susvisés.
+Les fonctions de président et de membre du conseil d'administration sont exercées à titre gratuit. Toutefois, les membres peuvent percevoir des indemnités liées à leurs déplacements dans les conditions fixées par le décret du 7 mai 1991 susvisé, le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat et le décret n° 2009-545 du 14 mai 2009 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires du personnel militaire.
