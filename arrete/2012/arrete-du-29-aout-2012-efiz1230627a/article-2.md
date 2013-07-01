@@ -4,7 +4,7 @@ En application du second alinéa de l'article 3 du décret du 29 août 2012 susv
 
 Direction des ressources humaines Groupe.
 
-Directeur (trice) des relations sociales de l'établissement public et du groupe.
+Secrétaire général de la direction des ressources humaines.
 
 Direction des retraites et de la solidarité.
 

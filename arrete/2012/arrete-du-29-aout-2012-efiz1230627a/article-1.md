@@ -8,7 +8,7 @@ Adjoint (e) au directeur du budget, du contrôle de gestion et performance écon
 
 Direction des ressources humaines Groupe.
 
-Responsable administratif et financier à la direction des ressources humaines de l'établissement public.
+Responsable du secteur statut-contrats à la direction des ressources humaines de l'établissement public.
 
 Pôle finances, stratégie, filiales et international.
 
@@ -30,7 +30,7 @@ Directeur (trice) des moyens et ressources opérationnels (établissement de Bor
 
 Directeur (trice) de la relation client (établissement de Bordeaux).
 
-Responsable vie sociale et affaires juridiques (établissement de Bordeaux).
+Directeur de la gouvernance des fonds (établissement de Bordeaux).
 
 Responsable de la direction du pilotage et de la coordination à l'établissement d'Angers.
 
@@ -38,7 +38,7 @@ Direction des fonds d'épargne.
 
 Responsable du département des ressources humaines et du pilotage à la direction des fonds d'épargne.
 
-Responsable du département de la gestion et la comptabilité des prêts à la direction des fonds d'épargne.
+Responsable risques et engagements.
 
 Direction du développement territorial et du réseau.
 
@@ -64,7 +64,7 @@ Directeur (trice) régional (e) pour la région Antilles-Guyane.
 
 Responsable de département des investissements.
 
-Responsable du département du pilotage stratégique et financier.
+Responsable pilotage et finances.
 
 Responsable du département action territoriale, partenariat et communication.
 
@@ -74,4 +74,4 @@ Caisse générale, direction de l'exécution des opérations financières.
 
 Responsable des relations de place.
 
-Responsable du service des organismes sociaux au sein du département des clientèles  de la direction des services bancaires.
+Responsable du service des organismes sociaux au sein du département des clientèles de la direction des services bancaires.
