@@ -7,3 +7,4 @@
 - [Chapitre 222-5 : Installations électriques](chapitre-222-5)
 - [Chapitre 222-6 : Sécurité de la navigation](chapitre-222-6)
 - [Chapitre 222-7 : Engins de sauvetage](chapitre-222-7)
+- [Chapitre 222-8 : Dispositions relatives aux installations de propulsion et/ou de production d'énergie fonctionnant au gaz naturel](chapitre-222-8)
