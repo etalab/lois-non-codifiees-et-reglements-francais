@@ -3,7 +3,7 @@
 La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'article L. 241-2 du code rural qui ouvrent droit à l'exercice en France des activités de vétérinaire aux ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, ou de la Suisse, est établie comme suit :
 
 <table>
-<thead>
+<tbody>
 <tr>
 <td>
 <p align="center">PAYS</p>
@@ -21,40 +21,40 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <p align="center">DATE<br/>de référence</p>
 </td>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td>
-<p align="left">Allemagne</p>
+<td valign="top">
+<p>Allemagne</p>
 </td>
-<td>
+<td valign="top">
 <p>Zeugnis über das Ergebnis des Dritten Abschnitts der Tierärztlichen Prüfung und das Gesamtergebnis der Tierärztlichen Prüfung</p>
 </td>
-<td>
+<td valign="top">
 <p>Der Vorsitzende des Prüfungsausschusses für die Tierärztliche Prüfung einer Universität oder Hochschule</p>
 </td>
-<td/>
-<td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
 <p align="center">21/12/80</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Autriche</p>
+<td valign="top">
+<p>Autriche</p>
 </td>
-<td align="left" valign="top">
-<p align="left">1. Diplom-Tierarzt</p>
-<p align="left">2. Magister medicinae veterinariae</p>
+<td valign="top">
+<p>1. Diplom-Tierarzt</p>
+<p>2. Magister medicinae veterinariae</p>
 </td>
-<td align="left" valign="top">
+<td valign="top">
 <p>Universität</p>
 </td>
-<td align="left" valign="top">
+<td valign="top">
 <p>1. Doktor der Veterinärmedizin</p>
 <p>2. Doctor medicinae veterinariae</p>
 <p>3. Fachtierarzt</p>
 </td>
-<td align="left" valign="top">
+<td valign="top">
 <p align="center">01/01/94</p>
 </td>
 </tr>
@@ -70,7 +70,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <p>1. De universiteiten / les universités</p>
 <p>4. De bevoegde Examencommissie van de Vlaamse Gemeenschap / le jury compétent d'enseignement de la communauté française</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -89,7 +91,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <p>1. Лесотехнически университет - Факултет по ветеринарна медицина</p>
 <p>2. Тракийски университет - Факултет по ветеринарна медицина</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/01/07</p>
 </td>
@@ -105,9 +109,28 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Κτηνιατρικό Συµβούλιο</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Croatie</p>
+</td>
+<td valign="top">
+<p>Diploma "doktor veterinarske <br/>medicine/ <br/>doktorica veterinarske <br/>medicine" </p>
+</td>
+<td valign="top">
+<p>Veterinarski fakultet <br/>Sveucilišta u Zagrebu</p>
+</td>
+<td valign="top">
+<br/>
+</td>
+<td valign="top">
+<p align="center">01/07/13</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +143,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Kongelige Veterinær- og Landbohøjskole</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -136,7 +161,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <p>Ministerio de Educación y Cultura</p>
 <p>El rector de una Universidad</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/01/86</p>
 </td>
@@ -151,7 +178,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Eesti Põllumajandusülikool</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -166,7 +195,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Helsingin yliopisto / Helsingfors universitet</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/01/94</p>
 </td>
@@ -178,8 +209,12 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="183">
 <p>Diplôme d'Etat de docteur vétérinaire</p>
 </td>
-<td valign="top" width="165"/>
-<td valign="top" width="164"/>
+<td valign="top" width="165">
+<br/>
+</td>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -194,7 +229,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Panepiotήmio QessalonίkhV kai QessalίaV</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/01/81</p>
 </td>
@@ -209,7 +246,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Szent István Egyetem Állatorvos-tudományi Kar</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -222,8 +261,12 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <p>1. Diploma of Bachelor in/of Veterinary Medicine (MVB)</p>
 <p>5. Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS)</p>
 </td>
-<td valign="top" width="165"/>
-<td valign="top" width="164"/>
+<td valign="top" width="165">
+<br/>
+</td>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -255,7 +298,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Latvijas Lauksaimniecības Universitāte</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -271,7 +316,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Lietuvos Veterinarijos Akademija</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -286,7 +333,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Jury d'examen d'Etat</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -301,7 +350,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Kunsill tal-Kirurġi Veterinarji</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -313,8 +364,12 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="183">
 <p>Getuigschrift van met goed gevolg afgelegd diergeneeskundig/veeartsenijkundig examen</p>
 </td>
-<td valign="top" width="165"/>
-<td valign="top" width="164"/>
+<td valign="top" width="165">
+<br/>
+</td>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -332,7 +387,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <p>3. Akademia Rolnicza w Lublinie</p>
 <p>4. Uniwersytet Warmińsko-Mazurski w Olsztynie</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -347,7 +404,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Universidade</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/01/86</p>
 </td>
@@ -363,7 +422,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Veterinární fakulta univerzity v České republice</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -378,7 +439,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Universităţi</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/01/07</p>
 </td>
@@ -393,7 +456,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>1. University of Bristol</p>
 </td>
-<td rowspan="6" valign="top" width="164"/>
+<td rowspan="6" valign="top" width="164">
+<br/>
+</td>
 <td rowspan="6" valign="top" width="83">
 <p align="center">21/12/80</p>
 </td>
@@ -448,7 +513,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Univerzita veterinárskeho lekárstva</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <p align="center">01/05/04</p>
 </td>
@@ -472,20 +539,24 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 </tr>
 <tr>
 <td>
-<p align="left">Suède</p>
+<p>Suède</p>
 </td>
 <td>
-<p align="left">Veterinärexamen</p>
+<p>Veterinärexamen</p>
 </td>
-<td>Sveriges Landbruksuniversitet </td>
-<td/>
+<td>
+<p>Sveriges Landbruksuniversitet </p>
+</td>
+<td>
+<br/>
+</td>
 <td>
 <p align="center">01/01/94</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="86">
-<p align="left">Suisse</p>
+<p>Suisse</p>
 </td>
 <td valign="top" width="183">
 <p>Eidgenössisch diplomierter Tierarzt</p>
@@ -495,7 +566,9 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="165">
 <p>Département fédéral de l'intérieur</p>
 </td>
-<td valign="top" width="164"/>
+<td valign="top" width="164">
+<br/>
+</td>
 <td valign="top" width="83">
 <br/>
 </td>
