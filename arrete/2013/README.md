@@ -1131,7 +1131,6 @@
 - [Arrêté du 20 février 2013 (JUST1304845A)](arrete-du-20-fevrier-2013-just1304845a)
 - [Arrêté du 20 février 2013 (MENE1304876A)](arrete-du-20-fevrier-2013-mene1304876a)
 - [Arrêté du 20 février 2013 (MENE1304894A)](arrete-du-20-fevrier-2013-mene1304894a)
-- [Arrêté du 20 juillet 2012 (DEVK1230428A)](arrete-du-20-juillet-2012-devk1230428a)
 - [Arrêté du 20 juillet 2012 (DEVM1228314A)](arrete-du-20-juillet-2012-devm1228314a)
 - [Arrêté du 20 juin 2012 (DEFH1223072A)](arrete-du-20-juin-2012-defh1223072a)
 - [Arrêté du 20 juin 2013 (AFSP1311382A)](arrete-du-20-juin-2013-afsp1311382a)
