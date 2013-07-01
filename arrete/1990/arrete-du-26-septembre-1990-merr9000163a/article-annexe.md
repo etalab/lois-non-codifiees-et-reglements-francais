@@ -22,7 +22,7 @@ Ils consistent dans l'utilisation pratique de ce document.
 
 d) Anglais :
 
-L'épreuve d'anglais consiste dans une version et un thème (sans dictionnaire) sur un sujet maritime.
+L'épreuve d'anglais consiste dans une version (sans dictionnaire) sur un sujet maritime.
 
 2. Epreuves orales
 
@@ -36,7 +36,7 @@ I.N. et livres des feux.
 
 Tenue à jour des documents nautiques.
 
-2° Navigation en vue de terre.
+2° Navigation en vue de terre :
 
 Détermination de la position par :
 
@@ -58,51 +58,43 @@ Routes à suivre :
 
 - sensibilité d'un alignement.
 
-3° Navigation à l'estime.
+3° Navigation à l'estime :
 
-Compas magnétique, principe, utilisation.
+- généralité ;
 
-Variation, détermination.
+- estime en vue de terre ;
 
-Compas gyroscopique, principe, corrections.
+- estime au large ;
 
-Vérification des compas.
+4° Equipement de bord, utilisation pour la navigation :
 
-Lochs, électromagnétique, à effet Doppler, principe, utilisation.
+- radar, fonctions navigation et anticollision ;
 
-Sondeurs, principe, utilisation.
+- répondeurs et réflecteurs radars ;
 
-Dérive, vent et courant.
+- ECDIS (Electronic Chart Display and Information System) ;
 
-Routes et caps.
+- AIS (système d'identification automatique) ;
 
-4° Systèmes de radio navigation: principe, utilisation, précision.
+- compas ;
 
-Radar, fonctions navigation et anti-collision.
+- lochs ;
 
-Répondeurs et réflecteurs radars.
+- sondeurs ;
 
-Radio-goniométrie.
+- systèmes satellitaires ;
 
-Radio alignements.
+5° Météorologie :
 
-Systèmes hyperboliques à grande et moyenne portées.
+- éléments météorologiques, détermination ;
 
-Systèmes satellitaires.
+- les cartes météorologiques, analyse et prévision ;
 
-5° Météorologie.
+- phénomènes météorologiques ;
 
-Eléments météorologiques, détermination.
+- incidence de la météo sur la navigation (choix de route, manœuvre par gros temps, manœuvre dans les cyclones).
 
-Les cartes météorologiques, analyse et prévision.
-
-Echelle Beaufort.
-
-6° Tonnage et déplacements des navires.
-
-Navire de guerre.
-
-Navire de commerce :
+6° Tonnage et déplacements des navires :
 
 - tirants d'eau ;
 
@@ -110,43 +102,41 @@ Navire de commerce :
 
 - marques de franc-bord.
 
-7° Types de navires.
+7° Types de navires :
 
-Conception.
+- construction ;
 
-Exploitation.
+- exploitation ;
 
-Sécurité.
+- sécurité ;
 
-8° Organisation du trafic maritime.
+8° Organisation du trafic maritime :
 
-Dispositifs de séparation de trafic.
+- dispositifs de séparation de trafic ;
 
-Chenaux d'accès portuaires.
+- chenaux d'accès portuaires ;
 
-Services de trafic maritime côtier, C.R.O.S.S.
+- services de trafic maritime côtier, sémaphores, CROSS ;
 
-Services de trafic maritime portuaire, centres de régulation.
+- services de trafic maritime portuaire, centres de régulation.
 
 b) Réglementation relative à la navigation maritime.
 
-1° Pollution de la mer.
-
-Prévention ;
+1° Prévention des pollutions :
 
 - conventions internationales ;
 
-- réglementation française.
+- réglementation française ;
 
-Organisation française de lutte contre la pollution.
+- organisation française de lutte contre la pollution ;
 
-2° Protection des conduites et câbles sous-marins.
+2° Protection des conduites et câbles sous-marins ;
 
-3° Signalisation maritime.
+3° Signalisation maritime :
 
-Balisage.
+- balisage ;
 
-Signalisations visuelles :
+- signalisations visuelles :
 
 - signaux de marées ;
 
@@ -156,7 +146,7 @@ Signalisations visuelles :
 
 4° Règlement pour prévenir les abordages en mer :
 
-Règlement international en vigueur :
+- règlement international en vigueur ;
 
 - commandements à la barre ;
 
@@ -164,49 +154,45 @@ Règlement international en vigueur :
 
 5° Sauvegarde de la vie humaine en mer :
 
-Convention internationale, Solas.
+- convention internationale SOLAS, chapitre IV, SMDSM (système mondial de détresse et de sécurité en mer) ;
 
-Echelle de pilote.
-
-Messages radiotéléphoniques d'urgence, de sécurité, de détresse.
-
-Recherche et sauvetage des personnes.
-
-Signaux de détresse.
-
-Echange de signaux entre aéronefs et navires.
+- convention internationale SOLAS, chapitre V, Sécurité de la navigation ;
 
 6° Sécurité maritime :
 
-Contrôle de la sécurité des navires.
+- contrôle de la sécurité des navires ;
 
-Rôle du pilote, textes applicables.
+- rôle du pilote, textes applicables.
 
 c) Réglementation relative au pilotage.
 
 1° Législation du pilotage :
 
-Loi du 28 mars 1928 modifiée fixant le régime du pilotage dans les eaux maritimes.
+- articles L. 5341-1 à L. 5341-10 du code des transports ;
 
-Décret du 19 mai 1969 modifié relatif au régime du pilotage dans les eaux maritimes.
+- décret du 19 mai 1969 modifié relatif au régime du pilotage dans les eaux maritimes ;
 
-Décret du 14 décembre 1929 modifié portant règlement général du pilotage.
+- décret du 14 décembre 1929 modifié portant règlement général du pilotage ;
 
-Règlement local de la station.
+- règlement local de la station.
 
 Responsabilité civile du pilote :
 
-- loi du 3 janvier 1969 et décret du 19 juin 1969.
+- article L. 5524-3-1 du code des transports.
 
 2° Réglementation portuaire :
 
-Code des ports maritimes : police des ports maritimes.
+- code des ports maritimes ;
 
-Règlements de navigation portuaire des ports de la station.
+- code des transports : articles L. 5331-1 à L. 5338-1 relatifs à la police des ports maritimes ;
 
-3° Réglementation relative à la circulation des navires en zone littorale.
+- décret n° 2009-877 du 17 juillet 2009 modifié portant règlement général de police dans les ports maritimes, de commerce et de pêche ;
 
-Navires-citernes et navires transportant des marchandises dangereuses.
+- règlements particuliers de police des ports concernés par la station.
+
+3° Réglementation relative à la circulation des navires en zone littorale :
+
+- navires-citernes et navires transportant des marchandises dangereuses.
 
 d) Manœuvre des bâtiments.
 
@@ -220,7 +206,9 @@ d) Manœuvre des bâtiments.
 
 - le gouvernail ;
 
-- les propulseurs transversaux.
+- les propulseurs transversaux ;
+
+- les propulseurs azimutaux et épicycloïdaux ;
 
 2° Le navire en mouvement :
 
@@ -232,13 +220,13 @@ d) Manœuvre des bâtiments.
 
 - position d'équilibre ;
 
-- distances d'arrêt.
+- distances d'arrêt ;
 
 3° Vent, courant, houle :
 
 - influence sur la manœuvre ;
 
-- effets combinés.
+- effets combinés ;
 
 4° Remorquage :
 
@@ -246,7 +234,7 @@ d) Manœuvre des bâtiments.
 
 - utilisations ;
 
-- remorquage d'assistance.
+- remorquage d'assistance ;
 
 5° Mouillage :
 
@@ -258,7 +246,7 @@ d) Manœuvre des bâtiments.
 
 - surveillance ;
 
-- manœuvres en utilisant les ancres.
+- manœuvres en utilisant les ancres ;
 
 6° Amarrage :
 
@@ -266,7 +254,7 @@ d) Manœuvre des bâtiments.
 
 - défenses ;
 
-- manœuvres en utilisant les amarres (pointes ou gardes).
+- manœuvres en utilisant les amarres (pointes ou gardes) ;
 
 7° Echouage :
 
@@ -274,13 +262,13 @@ d) Manœuvre des bâtiments.
 
 - moyens de se déséchouer ;
 
-- dispositions à prendre suivant les avaries du navire.
+- dispositions à prendre suivant les avaries du navire ;
 
 8° Effets des petits fonds :
 
 - influence sur la manœuvre ;
 
-- pied de pilote.
+- pied de pilote ;
 
 9° Navigation en chenaux et rivières :
 
@@ -292,20 +280,20 @@ d) Manœuvre des bâtiments.
 
 - croisements ;
 
-- dépassements.
+- dépassements ;
 
-10° Différentes manœuvres d'accostage et d'appareillage.
+10° Application des grands principes de manœuvre.
 
 e) Pilotage :
 
-Programme annexé au règlement local de la station.
+- programme annexé au règlement local de la station ;
 
 f) Anglais :
 
-Vocabulaire maritime normalisé O.M.I.
+- vocabulaire maritime normalisé OMI ;
 
-Conversation sur un sujet maritime.
+- conversation sur un sujet maritime ;
 
 g) Epreuves facultatives de langues vivantes :
 
-Conversation sur un sujet maritime.
+- conversation sur un sujet maritime.

@@ -2,7 +2,7 @@
 
 A. - Ecrit :
 
-Tous les membres du jury notent les épreuves a, b et c de l'article 6, ainsi que le dossier de navigation.
+Tous les membres du jury notent les épreuves a, b et c de l'article 6.
 
 Le président et l'examinateur d'anglais notent l'épreuve d'anglais d.
 
@@ -16,7 +16,11 @@ Le président et l'examinateur d'anglais notent cette épreuve.
 
 L'examinateur de langue étrangère facultative note seul cette épreuve.
 
-C. - Notes :
+C. - Entretien individuel :
+
+Tous les membres du jury notent l'entretien individuel.
+
+D. - Notes :
 
 Chaque membre du jury appelé à noter une épreuve l'apprécie par une note de 0 à 20, sans décimale. Les notes ainsi données à une même épreuve sont additionnées et leur total est multiplié par le coefficient dont elle est affectée, puis divisé par le nombre des membres du jury ayant noté. Ainsi est obtenue, pour chaque matière, la note moyenne avec ou sans décimale comptant pour le classement du candidat.
 

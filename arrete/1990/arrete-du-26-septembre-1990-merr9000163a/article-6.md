@@ -8,7 +8,7 @@ B. - Des épreuves orales.
 
 Le programme de ces épreuves est annexé au présent arrêté.
 
-C. - L'appréciation du dossier de navigation.
+C. - Un entretien individuel.
 
 Les candidats sont appelés à passer l'ensemble des épreuves écrites et orales.
 
@@ -20,7 +20,7 @@ b) Problèmes pratiques de stabilité (durée : une heure trente ; coefficient 2
 
 c) Problèmes sur l'annuaire des marées (durée : une heure ; coefficient 2) ;
 
-d) Anglais (durée : une heure trente ; coefficient 2).
+d) Anglais (durée : une heure ; coefficient 2).
 
 B. - Epreuves orales :
 
@@ -38,6 +38,6 @@ f) Anglais (coefficient 2) ;
 
 g) Autre langue étrangère (facultative).
 
-C. - Dossier de navigation :
+C. - Entretien individuel :
 
-Le dossier de navigation est affecté du coefficient 5.
+L'entretien individuel, d'une durée de trente minutes, permet aux membres du jury d'apprécier le degré de motivation du candidat et inclut la présentation du dossier de navigation par chaque candidat (coefficient 5).
