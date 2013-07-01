@@ -1,6 +1,6 @@
 # Article 5
 
-Les jurys d'examen du brevet national de moniteur des premiers secours sont constitués dans chaque département par arrêté du préfet.
+Les jurys d'examen du certificat de compétences de "formateur en prévention et secours civiques" sont constitués dans chaque département par arrêté du préfet.
 
 Chaque jury est composé de cinq membres désignés par le préfet :
 

@@ -1,6 +1,6 @@
 # Article 4
 
-Nul ne peut être admis à subir les épreuves de l'examen du brevet national de moniteur des premiers secours s'il ne satisfait aux conditions suivantes :
+Nul ne peut être admis à subir les épreuves de l'examen du certificat de compétences de "formateur en prévention et secours civiques" s'il ne satisfait aux conditions suivantes :
 
 1° Etre titulaire du brevet national des premiers secours ;
 

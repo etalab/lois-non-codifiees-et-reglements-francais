@@ -613,7 +613,6 @@
 - [Arrêté du 22 juillet 2003 (SOCF0311066A)](arrete-du-22-juillet-2003-socf0311066a)
 - [Arrêté du 22 juillet 2003 (SOCI0321331A)](arrete-du-22-juillet-2003-soci0321331a)
 - [Arrêté du 22 juin 2003 (FAMA0322467A)](arrete-du-22-juin-2003-fama0322467a)
-- [Arrêté du 22 octobre 2003 (INTE0300659A)](arrete-du-22-octobre-2003-inte0300659a)
 - [Arrêté du 22 octobre 2003 (SOCF0311653A)](arrete-du-22-octobre-2003-socf0311653a)
 - [Arrêté du 22 septembre 2003 (EQUI0301202A)](arrete-du-22-septembre-2003-equi0301202a)
 - [Arrêté du 22 septembre 2003 (EQUS0301343A)](arrete-du-22-septembre-2003-equs0301343a)
