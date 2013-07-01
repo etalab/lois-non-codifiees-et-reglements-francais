@@ -42,7 +42,6 @@
 - [Arrêté du 2 mai 2013 (SPOF1313578A)](arrete-du-2-mai-2013-spof1313578a)
 - [Arrêté du 2 mai 2013 (SPOF1313582A)](arrete-du-2-mai-2013-spof1313582a)
 - [Arrêté du 2 mai 2013 (SPOF1313588A)](arrete-du-2-mai-2013-spof1313588a)
-- [Arrêté du 3 avril 2012 (DEVL1107115A)](arrete-du-3-avril-2012-devl1107115a)
 - [Arrêté du 3 avril 2013 (AFSP1308779A)](arrete-du-3-avril-2013-afsp1308779a)
 - [Arrêté du 3 avril 2013 (DEFD1308672A)](arrete-du-3-avril-2013-defd1308672a)
 - [Arrêté du 3 avril 2013 (DEVA1305144A)](arrete-du-3-avril-2013-deva1305144a)
