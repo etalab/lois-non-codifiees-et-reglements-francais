@@ -1,3 +1,9 @@
 # Article 8
 
-Le directeur général des entreprises est chargé de l'exécution du  présent arrêté, qui sera publié au Journal officiel de la République  française.
+Le prestataire indique dans les conditions générales de vente :
+
+- le délai de distribution ;
+
+- les modalités permettant le suivi de l'envoi recommandé entre son dépôt dans le réseau du prestataire et sa distribution ;
+
+- la liste de pièces acceptées pour justifier l'identité du destinataire.
