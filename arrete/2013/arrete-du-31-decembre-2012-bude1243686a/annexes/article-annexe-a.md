@@ -1,14 +1,16 @@
 # Article Annexe A
 
-ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MINISTÈRE DES OUTRE-MER
+ASSIGNATION DES ORDONNATEURS SECONDAIRES
+
+DU MINISTÈRE DE L'INTÉRIEUR ET DU MINISTÈRE DES OUTRE-MER
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
-<td align="center"> COMPTABLE PRINCIPAL DES SERVICES<br/>déconcentrés des finances publiques assignataire</td>
+<td align="center">DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
+<td align="center">COMPTABLE PRINCIPAL DES SERVICES<br/>déconcentrés des finances publiques assignataire</td>
 </tr>
 <tr>
 <td align="left">AIN<br/>
@@ -53,20 +55,24 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 </td>
 </tr>
 <tr>
-<td align="left">BOUCHES-DU-RHÔNE<br/>
+<td align="left" valign="top">
+<p align="left">BOUCHES-DU-RHÔNE<br/>
+</p>
 </td>
-<td align="left" rowspan="3">BOUCHES-DU-RHÔNE<br/>
-<p>
-<br/>
+<td align="left" rowspan="3" valign="top">
+<p align="left">BOUCHES-DU-RHÔNE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">BOUCHES-DU-RHÔNE (zone de défense) gendarmerie nationale<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td>BOUCHES-DU-RHÔNE (zone de défense) gendarmerie nationale<br/>
-</td>
-</tr>
-<tr>
-<td>BOUCHES-DU-RHÔNE (zone de défense) secrétariat général pour l'administration de la police<br/>
+<td>
+<p align="left">BOUCHES-DU-RHÔNE (zone de défense) secrétariat général pour l'administration de la police<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -138,11 +144,7 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 <tr>
 <td align="left">GIRONDE<br/>
 </td>
-<td align="left" rowspan="3">GIRONDE<br/>
-<p>
-<br/>
-</p>
-</td>
+<td align="left" rowspan="3">GIRONDE</td>
 </tr>
 <tr>
 <td>GIRONDE (zone de défense) gendarmerie nationale<br/>
@@ -159,12 +161,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 </td>
 </tr>
 <tr>
-<td align="left">ILLE-ET-VILAINE<br/>
-</td>
-<td align="left" rowspan="3">ILLE-ET-VILAINE<br/>
-<p>
-<br/>
+<td align="left" valign="top">
+<p align="left">ILLE-ET-VILAINE<br/>
 </p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="left">ILLE-ET-VILAINE</p>
 </td>
 </tr>
 <tr>
@@ -278,12 +280,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 </td>
 </tr>
 <tr>
-<td align="left">MOSELLE<br/>
-</td>
-<td align="left" rowspan="3">MOSELLE<br/>
-<p>
-<br/>
+<td align="left" valign="top">
+<p align="left">MOSELLE<br/>
 </p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="left">MOSELLE</p>
 </td>
 </tr>
 <tr>
@@ -301,12 +303,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 </td>
 </tr>
 <tr>
-<td align="left">NORD<br/>
-</td>
-<td align="left" rowspan="3">NORD<br/>
-<p>
-<br/>
+<td align="left" valign="top">
+<p align="left">NORD<br/>
 </p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="left">NORD</p>
 </td>
 </tr>
 <tr>
@@ -366,12 +368,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 </td>
 </tr>
 <tr>
-<td align="left">RHÔNE<br/>
-</td>
-<td align="left" rowspan="3">RHÔNE<br/>
-<p>
-<br/>
+<td align="left" valign="top">
+<p align="left">RHÔNE<br/>
 </p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="left">RHÔNE</p>
 </td>
 </tr>
 <tr>
@@ -407,20 +409,21 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MIN
 </td>
 </tr>
 <tr>
-<td align="left">PARIS<br/>
-</td>
-<td align="left" rowspan="3">PARIS<br/>
-<p>
-<br/>
+<td align="left" valign="top">
+<p align="left">PARIS<br/>
 </p>
 </td>
-</tr>
-<tr>
-<td>PARIS (zone de défense) gendarmerie nationale<br/>
+<td align="left" rowspan="3" valign="top">
+<p align="left">PARIS</p>
 </td>
 </tr>
 <tr>
-<td>PARIS (zone de défense) secrétariat général pour l'administration de la police<br/>
+<td>VAL-DE-MARNE (zone de défense) gendarmerie nationale <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">PARIS (zone de défense) secrétariat général pour l'administration de la police</p>
 </td>
 </tr>
 <tr>
