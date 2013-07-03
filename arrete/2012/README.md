@@ -111,7 +111,6 @@
 - [Arrêté du 3 août 2012 (AFSH1231935A)](arrete-du-3-aout-2012-afsh1231935a)
 - [Arrêté du 3 août 2012 (AFSH1231936A)](arrete-du-3-aout-2012-afsh1231936a)
 - [Arrêté du 3 août 2012 (AFSH1231937A)](arrete-du-3-aout-2012-afsh1231937a)
-- [Arrêté du 3 août 2012 (BUDE1210182A)](arrete-du-3-aout-2012-bude1210182a)
 - [Arrêté du 3 août 2012 (INTJ1228826A)](arrete-du-3-aout-2012-intj1228826a)
 - [Arrêté du 3 août 2012 (MCCB1227201A)](arrete-du-3-aout-2012-mccb1227201a)
 - [Arrêté du 3 août 2012 (MCCB1227203A)](arrete-du-3-aout-2012-mccb1227203a)

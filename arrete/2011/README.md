@@ -2522,7 +2522,6 @@
 - [Arrêté du 28 décembre 2010 (IOCF1032944A)](arrete-du-28-decembre-2010-iocf1032944a)
 - [Arrêté du 28 décembre 2011 (AGRG1133530A)](arrete-du-28-decembre-2011-agrg1133530a)
 - [Arrêté du 28 décembre 2011 (BCRB1129998A)](arrete-du-28-decembre-2011-bcrb1129998a)
-- [Arrêté du 28 décembre 2011 (BCRE1122437A)](arrete-du-28-decembre-2011-bcre1122437a)
 - [Arrêté du 28 décembre 2011 (DEVL1132543A)](arrete-du-28-decembre-2011-devl1132543a)
 - [Arrêté du 28 décembre 2011 (DEVT1131784A)](arrete-du-28-decembre-2011-devt1131784a)
 - [Arrêté du 28 décembre 2011 (JUSC1130802A)](arrete-du-28-decembre-2011-jusc1130802a)
