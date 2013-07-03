@@ -73,14 +73,6 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Marseille</p>
-</td>
-<td>
-<p align="center"> Port</p>
-</td>
-</tr>
-<tr>
 <td align="left">Nantes - Saint-Nazaire<br/>
 </td>
 <td align="center">Port<br/>

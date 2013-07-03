@@ -364,7 +364,7 @@ POSTES D'INSPECTION FRONTALIERS
 <td align="center">SFS <br/>
 </td>
 <td align="center">
-<p align="left">HC-T (1) (2), HC-NT (2), NHC <br/>
+<p align="left">HC-T (1) (2), HC-NT (2), NHC-NT<br/>
 </p>
 </td>
 <td align="center">
