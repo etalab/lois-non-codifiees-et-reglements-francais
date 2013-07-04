@@ -499,7 +499,6 @@
 - [Arrêté du 20 janvier 2004 (SOCF0410152A)](arrete-du-20-janvier-2004-socf0410152a)
 - [Arrêté du 20 juillet 2004 (EQUA0400933A)](arrete-du-20-juillet-2004-equa0400933a)
 - [Arrêté du 20 septembre 2004 (SANG0423013A)](arrete-du-20-septembre-2004-sang0423013a)
-- [Arrêté du 20 septembre 2004 (SANG0423014A)](arrete-du-20-septembre-2004-sang0423014a)
 - [Arrêté du 20 septembre 2004 (SOCF0411889A)](arrete-du-20-septembre-2004-socf0411889a)
 - [Arrêté du 20 septembre 2004 (SOCF0411891A)](arrete-du-20-septembre-2004-socf0411891a)
 - [Arrêté du 21 décembre 2004 (EQUT0401664A)](arrete-du-21-decembre-2004-equt0401664a)

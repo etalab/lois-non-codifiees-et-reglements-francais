@@ -365,7 +365,6 @@
 - [Arrêté du 16 novembre 2001 (ATEN0100422A)](arrete-du-16-novembre-2001-aten0100422a)
 - [Arrêté du 16 novembre 2001 (ATEN0100423A)](arrete-du-16-novembre-2001-aten0100423a)
 - [Arrêté du 16 octobre 2002 (PRMX0205888A)](arrete-du-16-octobre-2002-prmx0205888a)
-- [Arrêté du 16 septembre 2002 (SANG0222936A)](arrete-du-16-septembre-2002-sang0222936a)
 - [Arrêté du 16 mai 2002 (ECOT0294984A)](arrete-du-16-mai-2002-ecot0294984a)
 - [Arrêté du 17 avril 2002 (INTD0200168A)](arrete-du-17-avril-2002-intd0200168a)
 - [Arrêté du 17 avril 2002 (MENE0200947A)](arrete-du-17-avril-2002-mene0200947a)
