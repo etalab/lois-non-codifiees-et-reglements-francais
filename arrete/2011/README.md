@@ -1999,7 +1999,6 @@
 - [Arrêté du 22 septembre 2011 (BCRS1125995A)](arrete-du-22-septembre-2011-bcrs1125995a)
 - [Arrêté du 22 septembre 2011 (DEFH1126292A)](arrete-du-22-septembre-2011-defh1126292a)
 - [Arrêté du 22 septembre 2011 (DEFH1126293A)](arrete-du-22-septembre-2011-defh1126293a)
-- [Arrêté du 22 septembre 2011 (DEVT1125927A)](arrete-du-22-septembre-2011-devt1125927a)
 - [Arrêté du 22 septembre 2011 (ESRH1126154A)](arrete-du-22-septembre-2011-esrh1126154a)
 - [Arrêté du 22 septembre 2011 (ETSH1125449A)](arrete-du-22-septembre-2011-etsh1125449a)
 - [Arrêté du 22 septembre 2011 (ETSP1125904A)](arrete-du-22-septembre-2011-etsp1125904a)
