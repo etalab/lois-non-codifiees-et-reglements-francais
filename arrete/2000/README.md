@@ -131,7 +131,6 @@
 - [Arrêté du 26 décembre 2000 (MCCB0000675A)](arrete-du-26-decembre-2000-mccb0000675a)
 - [Arrêté du 26 décembre 2000 (MENS0003041A)](arrete-du-26-decembre-2000-mens0003041a)
 - [Arrêté du 26 décembre 2000 (MESA0023831A)](arrete-du-26-decembre-2000-mesa0023831a)
-- [Arrêté du 26 décembre 2000 (MESG0023149A)](arrete-du-26-decembre-2000-mesg0023149a)
 - [Arrêté du 26 décembre 2000 (MESS0023511A)](arrete-du-26-decembre-2000-mess0023511a)
 - [Arrêté du 26 janvier 2000 (DEFE9955048A)](arrete-du-26-janvier-2000-defe9955048a)
 - [Arrêté du 27 décembre 1999 (MENP9902848A)](arrete-du-27-decembre-1999-menp9902848a)

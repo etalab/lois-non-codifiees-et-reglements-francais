@@ -654,7 +654,6 @@
 - [Arrêté du 21 juillet 1994 (SANP9402314A)](arrete-du-21-juillet-1994-sanp9402314a)
 - [Arrêté du 21 juin 1994 (AGRS9401198A)](arrete-du-21-juin-1994-agrs9401198a)
 - [Arrêté du 21 juin 1994 (ECOT9490049A)](arrete-du-21-juin-1994-ecot9490049a)
-- [Arrêté du 21 juin 1994 (MJSK9470091A)](arrete-du-21-juin-1994-mjsk9470091a)
 - [Arrêté du 21 mars 1994 (DEFG9401310A)](arrete-du-21-mars-1994-defg9401310a)
 - [Arrêté du 21 mars 1994 (DEFG9401311A)](arrete-du-21-mars-1994-defg9401311a)
 - [Arrêté du 21 mars 1994 (MCCB9300415A)](arrete-du-21-mars-1994-mccb9300415a)
