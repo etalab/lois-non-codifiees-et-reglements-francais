@@ -1,7 +1,5 @@
-# Arrêté du 24 juin 1970 relatif aux modalités de fixation du montant du cautionnement auquel sont astreints les comptables des caisses des organisations autonomes d'assurance vieillesse des professions libérales, artisanales, industrielles et commerciales et les personnes agissant pour leur compte
+# Arrêté du 24 juin 1970 fixant les modèles de dossier médical et de fiche de visite du travail prévus à l'article 16 du décret n° 69-623 du 13 juin 1969 relatif à l'organisation des services médicaux du travail
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
