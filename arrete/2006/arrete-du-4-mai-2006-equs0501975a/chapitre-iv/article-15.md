@@ -50,4 +50,4 @@ Un convoi de masse totale roulante de 1re ou 2e catégorie ne satisfaisant pas a
 
 Un convoi de masse totale roulante de 1re ou 2e catégorie ne satisfaisant pas aux règles de charges concernant les limites de charge par essieu qui le concernent ne peut bénéficier d'une autorisation individuelle au voyage sur un itinéraire précis de 3e catégorie que s'il satisfait aux règles de charges des convois de 3e catégorie.
 
-Un convoi ne satisfaisant pas aux règles de charges concernant les limites de charge par essieu des convois de 3e catégorie n'est pas autorisé à circuler sur les voies ouvertes à la circulation publique et doit dans ce cas être transporté.
+Un convoi ne satisfaisant pas aux règles de charges concernant les limites de charge par essieu des convois de 3e catégorie n'est pas autorisé à circuler sur les voies ouvertes à la circulation publique et doit dans ce cas être transporté. Toutefois, un convoi peut être autorisé à circuler en dépassement des seuils fixés aux annexes 2 et 3 du présent arrêté sur des voies ouvertes à la circulation publique aménagées pour résister aux sollicitations imposées par un tel convoi.
