@@ -45,32 +45,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </tr>
 <tr>
 <td valign="top" width="137">
-<p>Acétate de2-butoxyéthyle</p>
-</td>
-<td valign="top" width="77">
-<p align="center">203-933-3</p>
-</td>
-<td valign="top" width="77">
-<p align="center">112-07-2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">13,3</p>
-</td>
-<td valign="top" width="77">
-<p align="center">2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">199,8</p>
-</td>
-<td valign="top" width="59">
-<p align="center">30</p>
-</td>
-<td valign="top" width="99">
-<p align="center">Peau (7)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
 <p>Acétate de 3-pentyle</p>
 </td>
 <td valign="top" width="77">
@@ -428,32 +402,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td>
 <p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>2-butoxyéthanol</p>
-</td>
-<td valign="top" width="77">
-<p align="center">203-905-0</p>
-</td>
-<td valign="top" width="77">
-<p align="center">111-76-2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">9,8</p>
-</td>
-<td valign="top" width="77">
-<p align="center">2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">147,6</p>
-</td>
-<td valign="top" width="59">
-<p align="center">30</p>
-</td>
-<td valign="top" width="99">
-<p align="center">Peau (7)</p>
 </td>
 </tr>
 <tr>
