@@ -1,142 +1,119 @@
 # Article Annexe
 
+ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE
+
+À L'ECOLE NATIONALE DE LA MAGISTRATURE
+
 <table>
 <tbody>
 <tr>
-<td width="245">
-<p align="center">Définition de l'emploi</p>
+<td width="454">
+<p align="center">EMPLOI</p>
 </td>
-<td width="84">
-<p align="center">Niveau de l'emploi</p>
+<td width="113">
+<p align="center">NOMBRES<br/>de postes éligibles</p>
 </td>
-<td width="84">
-<p align="center">Nombre de postes éligibles</p>
-</td>
-<td width="108">
-<p align="center">Montant</p>
-<p align="center">(en points majorés)</p>
-</td>
-<td width="84">
-<p align="center">Date d'effet</p>
+<td width="113">
+<p align="center">MONTANTS<br/>(en points majorés)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="245">
-<p>Chargé des fonctions de secrétaire général adjoint</p>
+<td valign="top" width="454">
+<p>Technicien système et réseaux</p>
 </td>
-<td valign="top" width="84">
-<p align="center">A</p>
-</td>
-<td valign="top" width="84">
+<td valign="top" width="113">
 <p align="center">2</p>
 </td>
-<td valign="top" width="108">
-<p align="center">20</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1er août 1994</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="245">
-<p>Chef du service Concours</p>
-</td>
-<td valign="top" width="84">
-<p align="center">B</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1</p>
-</td>
-<td valign="top" width="108">
-<p align="center">19</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1er août 1990</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="245">
-<p>Chef du service Intendance</p>
-</td>
-<td valign="top" width="84">
-<p align="center">B</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1</p>
-</td>
-<td valign="top" width="108">
-<p align="center">19</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1er août 1993</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="245">
-<p>Responsable de l'installation et de la maintenance des systèmes informatiques</p>
-</td>
-<td valign="top" width="84">
-<p align="center">B</p>
-</td>
-<td valign="top" width="84">
-<p align="center">2</p>
-</td>
-<td valign="top" width="108">
-<p align="center">17</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1er août 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="245">
-<p>Adjoint au chef du service Concours</p>
-</td>
-<td valign="top" width="84">
-<p align="center">B</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1</p>
-</td>
-<td valign="top" width="108">
-<p align="center">17</p>
-</td>
-<td valign="top" width="84">
-<p align="center">1er août 1991</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="245">
-<p>Agent chargé du service de la reprographie</p>
-</td>
-<td valign="top" width="84">
-<p align="center">C</p>
-</td>
-<td valign="top" width="84">
-<p align="center">2</p>
-</td>
-<td valign="top" width="108">
+<td valign="top" width="113">
 <p align="center">16</p>
 </td>
-<td valign="top" width="84">
-<p align="center">1er août 1995</p>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>1er adjoint au chef du service des recrutements et de la validation des compétences</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
+<p align="center">18</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="245">
-<p>Chef du service financier</p>
+<td valign="top" width="454">
+<p>Agent en charge de l'animation des activités de reprographie</p>
 </td>
-<td valign="top" width="84">
-<p align="center">B</p>
+<td valign="top" width="113">
+<p align="center">2</p>
 </td>
-<td valign="top" width="84">
+<td valign="top" width="113">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Responsable de la cellule conventions au sein du service financier</p>
+</td>
+<td valign="top" width="113">
 <p align="center">1</p>
 </td>
-<td valign="top" width="108">
-<p align="center">19</p>
+<td valign="top" width="113">
+<p align="center">18</p>
 </td>
-<td valign="top" width="84">
-<p align="center">1er août 1996</p>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Agent chargé du secrétariat du directeur</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Agent en charge du pôle social au sein du service des ressources humaines</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Agent en charge de la gestion des procédures de marchés publics au sein du service financier</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Agent en charge de l'encadrement des opérations de paye au sein du service des ressources humaines</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Chauffeur principal du directeur</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16</p>
 </td>
 </tr>
 </tbody>
