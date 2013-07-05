@@ -439,8 +439,6 @@
 - [Arrêté du 6 juillet 2012 (AFSS1228489A)](arrete-du-6-juillet-2012-afss1228489a)
 - [Arrêté du 6 juillet 2012 (ETSD1207056A)](arrete-du-6-juillet-2012-etsd1207056a)
 - [Arrêté du 6 juillet 2012 (INTJ1229600A)](arrete-du-6-juillet-2012-intj1229600a)
-- [Arrêté du 6 juillet 2012 (MENF1224983A)](arrete-du-6-juillet-2012-menf1224983a)
-- [Arrêté du 6 juillet 2012 (MENF1224989A)](arrete-du-6-juillet-2012-menf1224989a)
 - [Arrêté du 6 juin 1984](arrete-du-6-juin-1984)
 - [Arrêté du 6 juin 2012 (AFSA1225366A)](arrete-du-6-juin-2012-afsa1225366a)
 - [Arrêté du 6 juin 2012 (AGRG1225285A)](arrete-du-6-juin-2012-agrg1225285a)
