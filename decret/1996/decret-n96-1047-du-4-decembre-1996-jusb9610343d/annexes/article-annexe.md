@@ -2,34 +2,22 @@
 
 ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE À L'ÉCOLE NATIONALE DE LA MAGISTRATURE
 
-DÉFINITION DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire
+Emploi dont les fonctions justifient l'obtention de la nouvelle bonification indiciaire
 
-NIVEAU DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire
+Technicien système et réseaux.
 
-- Chargé des fonctions de secrétaire général adjoint.
+1er adjoint au chef du service des recrutements et de la validation des compétences.
 
-Emploi administratif du niveau de la catégorie A.
+Agent en charge de l'animation des activités de reprographie.
 
-- Chef du service Concours.
+Responsable de la cellule "conventions" au sein du service financier.
 
-Emploi administratif du niveau de la catégorie B.
+Agent chargé du secrétariat du directeur.
 
-- Chef du service Intendance.
+Agent en charge du pôle social au sein du service des ressources humaines.
 
-Emploi administratif du niveau de la catégorie B.
+Agent en charge de la gestion des procédures de marchés publics au sein du service financier.
 
-- Responsable de l'installation et de la maintenance des systèmes informatiques.
+Agent en charge de l'encadrement des opérations de paye au sein du service des ressources humaines.
 
-Emploi administratif du niveau de la catégorie B.
-
-- Adjoint au chef du service Concours.
-
-Emploi administratif du niveau de la catégorie B.
-
-- Agent chargé du service de la reprographie.
-
-Emploi administratif du niveau de la catégorie C.
-
-- Chef du service financier.
-
-Emploi administratif du niveau de la catégorie B.
+Chauffeur principal du directeur.
