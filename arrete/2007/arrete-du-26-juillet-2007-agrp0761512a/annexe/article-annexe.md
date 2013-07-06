@@ -2,491 +2,448 @@
 
 LISTE DES RACES RECONNUES DES ESPÈCES BOVINE, OVINE, CAPRINE ET PORCINE, DES RACES LOCALES ET DES RACES À PETITS EFFECTIFS DE CES MÊMES ESPÈCES
 
-I.-Espèce bovine
+I. - Espèce bovine
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RACES RECONNUES <br/>
-</th>
-<th>
-<br/>RACES LOCALES <br/>
-</th>
-<th>
-<br/>RACES À PETITS EFFECTIFS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p>Abondance <br/>
-</p>
+<td width="256">
+<p align="center">
+<br/>RACES RECONNUES</p>
 </td>
-<td align="center">
-<br/>Abondance <br/>
+<td width="118">
+<p align="center">
+<br/>RACES LOCALES</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Armoricaine <br/>
-</p>
-</td>
-<td align="center">
-<br/>Armoricaine <br/>
-</td>
-<td align="center">
-<br/>Armoricaine <br/>
+<td width="112">
+<p align="center">
+<br/>RACES À PETITS EFFECTIFS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Aubrac <br/>
-</p>
+<td width="256">
+<p>Abondance</p>
 </td>
-<td align="center">
-<br/>Aubrac <br/>
+<td width="118">
+<p>Abondance</p>
 </td>
-<td align="center"/>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Aurochs-reconstitué (Néo-Aurochs) <br/>
-</p>
+<td width="256">
+<p>Armoricaine</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>Aurochs reconstitué <br/>
+<td width="118">
+<p>Armoricaine</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p>Bazadaise <br/>
-</p>
-</td>
-<td align="center">
-<br/>Bazadaise <br/>
-</td>
-<td align="center">
-<br/>Bazadaise <br/>
+<td width="112">
+<p>Armoricaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Béarnaise <br/>
-</p>
+<td width="256">
+<p>Aubrac</p>
 </td>
-<td align="center">
-<br/>Béarnaise <br/>
+<td width="118">
+<p>Aubrac</p>
 </td>
-<td align="center">
-<br/>Béarnaise <br/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Aurochs-reconstitué (Néo-Aurochs)</p>
+</td>
+<td width="118"/>
+<td width="112">
+<p>Aurochs reconstitué</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Blanc Bleu <br/>
-</p>
+<td width="256">
+<p>Bazadaise</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Bleue de Bazougers <br/>
-</p>
+<td width="118">
+<p>Bazadaise</p>
 </td>
-<td align="center">
-<br/>Bleue de Bazougers <br/>
-</td>
-<td align="center">
-<br/>Bleue de Bazougers <br/>
+<td width="112">
+<p>Bazadaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Bleue du Nord <br/>
-</p>
+<td width="256">
+<p>Béarnaise</p>
 </td>
-<td align="center">
-<br/>Bleue du Nord <br/>
+<td width="118">
+<p>Béarnaise</p>
 </td>
-<td align="center">
-<br/>Bleue du Nord <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Blonde d'Aquitaine <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Bordelaise <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Bordelaise <br/>
+<td width="112">
+<p>Béarnaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Brahman <br/>
-</p>
+<td width="256">
+<p>Blanc Bleu</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>Brahman <br/>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Bleue de Bazougers</p>
+</td>
+<td width="118">
+<p>Bleue de Bazougers</p>
+</td>
+<td width="112">
+<p>Bleue de Bazougers</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Bretonne Pie noire <br/>
-</p>
+<td width="256">
+<p>Bleue du Nord</p>
 </td>
-<td align="center">
-<br/>Bretonne Pie noire <br/>
+<td width="118">
+<p>Bleue du Nord</p>
 </td>
-<td align="center">
-<br/>Bretonne pie noire <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Brune <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Canadienne <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Casta (Aure et Saint-Girons) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Casta <br/>
-</td>
-<td align="center">
-<br/>Casta <br/>
+<td width="112">
+<p>Bleue du Nord</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Charolaise <br/>
-</p>
+<td width="256">
+<p>Blonde d'Aquitaine</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="118"/>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Corse <br/>
-</p>
+<td width="256">
+<p>Bordelaise</p>
 </td>
-<td align="center">
-<br/>Corse <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Créole <br/>
-</p>
-</td>
-<td align="center">
-<br/>Créole <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>De Combat (Espagnole Brava) <br/>
-</p>
-</td>
-<td align="center">
-<br/>De Combat <br/>
-</td>
-<td align="center">
-<br/>De Combat <br/>
+<td width="118"/>
+<td width="112">
+<p>Bordelaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Ferrandaise <br/>
-</p>
+<td width="256">
+<p>Brahman</p>
 </td>
-<td align="center">
-<br/>Ferrandaise <br/>
-</td>
-<td align="center">
-<br/>Ferrandaise <br/>
+<td width="118"/>
+<td width="112">
+<p>Brahman</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Froment du Léon <br/>
-</p>
+<td width="256">
+<p>Bretonne Pie Noire</p>
 </td>
-<td align="center">
-<br/>Froment du Léon <br/>
+<td width="118">
+<p>Bretonne Pie Noire</p>
 </td>
-<td align="center">
-<br/>Froment du Léon <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Gasconne <br/>
-</p>
-</td>
-<td align="center">
-<br/>Gasconne <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Hereford <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Hérens <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Hérens <br/>
+<td width="112">
+<p>Bretonne pie noire</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>INRA 95 <br/>
-</p>
+<td width="256">
+<p>Brune</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>INRA 95 <br/>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Canadienne</p>
+</td>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Casta (Aure et Saint-Girons)</p>
+</td>
+<td width="118">
+<p>Casta</p>
+</td>
+<td width="112">
+<p>Casta</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Jersiaise <br/>
-</p>
+<td width="256">
+<p>Charolaise</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="118"/>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Limousine <br/>
-</p>
+<td width="256">
+<p>Corse</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="118">
+<p>Corse</p>
+</td>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Lourdaise <br/>
-</p>
+<td width="256">
+<p>Créole</p>
 </td>
-<td align="center">
-<br/>Lourdaise <br/>
+<td width="118">
+<p>Créole</p>
 </td>
-<td align="center">
-<br/>Lourdaise <br/>
-</td>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Maraîchine <br/>
-</p>
+<td width="256">
+<p>De Combat (Espagnole Brava)</p>
 </td>
-<td align="center">
-<br/>Maraîchine <br/>
+<td width="118">
+<p>De Combat</p>
 </td>
-<td align="center">
-<br/>Maraîchine <br/>
+<td width="112">
+<p>De Combat</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Mirandaise (Gasconne aréolée) <br/>
-</p>
+<td width="256">
+<p>Ferrandaise</p>
 </td>
-<td align="center">
-<br/>Mirandaise <br/>
+<td width="118">
+<p>Ferrandaise</p>
 </td>
-<td align="center">
-<br/>Mirandaise <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Montbéliarde <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Nantaise <br/>
-</p>
-</td>
-<td align="center">
-<br/>Nantaise <br/>
-</td>
-<td align="center">
-<br/>Nantaise <br/>
+<td width="112">
+<p>Ferrandaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Normande <br/>
-</p>
+<td width="256">
+<p>Froment du Léon</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Parthenaise <br/>
-</p>
+<td width="118">
+<p>Froment du Léon</p>
 </td>
-<td align="center">
-<br/>Parthenaise <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Pie rouge des Plaines <br/>
-</p>
-</td>
-<td align="center">
-<br/>Pie rouge des Plaines <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Prim'Holstein <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Raço di Bioù (Camargue) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Raço di Bioù <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Rouge Flamande (Rouge du Nord) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Rouge Flamande <br/>
-</td>
-<td align="center">
-<br/>Rouge Flamande <br/>
+<td width="112">
+<p>Froment du Léon</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Rouge des Prés (Maine Anjou) <br/>
-</p>
+<td width="256">
+<p>Gasconne</p>
 </td>
-<td align="center">
-<br/>Rouge des Prés <br/>
+<td width="118">
+<p>Gasconne</p>
 </td>
-<td align="center"/>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Salers <br/>
-</p>
+<td width="256">
+<p>Hereford</p>
 </td>
-<td align="center">
-<br/>Salers <br/>
-</td>
-<td align="center"/>
+<td width="118"/>
+<td width="112"/>
 </tr>
 <tr>
-<td align="center">
-<p>Saosnoise <br/>
-</p>
+<td width="256">
+<p>Hérens</p>
 </td>
-<td align="center">
-<br/>Saosnoise <br/>
-</td>
-<td align="center">
-<br/>Saosnoise <br/>
+<td width="118"/>
+<td width="112">
+<p>Hérens</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Simmental Française <br/>
-</p>
+<td width="256">
+<p>Inra 95</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Tarentaise (Tarine) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Tarentaise <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Villard de Lans <br/>
-</p>
-</td>
-<td align="center">
-<br/>Villard de Lans <br/>
-</td>
-<td align="center">
-<br/>Villard de Lans <br/>
+<td width="118"/>
+<td width="112">
+<p>Inra 95</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Vosgienne <br/>
-</p>
+<td width="256">
+<p>Jersiaise</p>
 </td>
-<td align="center">
-<br/>Vosgienne <br/>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Limousine</p>
 </td>
-<td align="center">
-<br/>Vosgienne <br/>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Lourdaise</p>
+</td>
+<td width="118">
+<p>Lourdaise</p>
+</td>
+<td width="112">
+<p>Lourdaise</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Maraîchine</p>
+</td>
+<td width="118">
+<p>Maraîchine</p>
+</td>
+<td width="112">
+<p>Maraîchine</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Mirandaise (Gasconne aréolée)</p>
+</td>
+<td width="118">
+<p>Mirandaise</p>
+</td>
+<td width="112">
+<p>Mirandaise</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Montbéliarde</p>
+</td>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Nantaise</p>
+</td>
+<td width="118">
+<p>Nantaise</p>
+</td>
+<td width="112">
+<p>Nantaise</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Normande</p>
+</td>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Parthenaise</p>
+</td>
+<td width="118">
+<p>Parthenaise</p>
+</td>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Pie Rouge des Plaines</p>
+</td>
+<td width="118">
+<p>Pie Rouge des Plaines</p>
+</td>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Prim' Holstein</p>
+</td>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Raço di Bioù (Camargue)</p>
+</td>
+<td width="118">
+<p>Raço di Bioù</p>
+</td>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Rouge Flamande (Rouge du Nord)</p>
+</td>
+<td width="118">
+<p>Rouge Flamande</p>
+</td>
+<td width="112">
+<p>Rouge Flamande</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Rouge des Prés (Maine Anjou)</p>
+</td>
+<td width="118">
+<p>Rouge des Prés</p>
+</td>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Salers</p>
+</td>
+<td width="118">
+<p>Salers</p>
+</td>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Saosnoise</p>
+</td>
+<td width="118">
+<p>Saosnoise</p>
+</td>
+<td width="112">
+<p>Saosnoise</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Simmental française</p>
+</td>
+<td width="118"/>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Tarentaise (Tarine)</p>
+</td>
+<td width="118">
+<p>Tarentaise</p>
+</td>
+<td width="112"/>
+</tr>
+<tr>
+<td width="256">
+<p>Villard de Lans</p>
+</td>
+<td width="118">
+<p>Villard de Lans</p>
+</td>
+<td width="112">
+<p>Villard de Lans</p>
+</td>
+</tr>
+<tr>
+<td width="256">
+<p>Vosgienne</p>
+</td>
+<td width="118">
+<p>Vosgienne</p>
+</td>
+<td width="112">
+<p>Vosgienne</p>
 </td>
 </tr>
 </tbody>
@@ -497,612 +454,558 @@ II. - Espèce ovine
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RACES RECONNUES <br/>
-</th>
-<th>
-<br/>RACES LOCALES <br/>
-</th>
-<th>
-<br/>RACES À PETITS EFFECTIFS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p>Aure et Campan (Auroise) <br/>
-</p>
+<td width="273">
+<p align="center">
+<br/>RACES RECONNUES</p>
 </td>
-<td align="center">
-<br/>Aure et Campan <br/>
+<td width="163">
+<p align="center">
+<br/>RACES LOCALES</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Avranchin <br/>
-</p>
-</td>
-<td align="center">
-<br/>Avranchin <br/>
-</td>
-<td align="center">
-<br/>Avranchin <br/>
+<td width="114">
+<p align="center">
+<br/>RACES À PETITS EFFECTIFS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Barégeoise <br/>
-</p>
+<td width="273">
+<p>Aure et Campan (Auroise)</p>
 </td>
-<td align="center">
-<br/>Barégeoise <br/>
+<td width="163">
+<p>Aure et Campan</p>
 </td>
-<td align="center">
-<br/>Barégeoise <br/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Avranchin</p>
+</td>
+<td width="163">
+<p>Avranchin</p>
+</td>
+<td width="114">
+<p>Avranchin</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Basco-Béarnaise <br/>
-</p>
+<td width="273">
+<p>Barégeoise</p>
 </td>
-<td align="center">
-<br/>Basco-Béarnaise <br/>
+<td width="163">
+<p>Barégeoise</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Belle Ile (race de Deux) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Belle Ile <br/>
-</td>
-<td align="center">
-<br/>Belle Ile <br/>
+<td width="114">
+<p>Barégeoise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Berrichon du Cher (BCF) <br/>
-</p>
+<td width="273">
+<p>Basco-Béarnaise</p>
 </td>
-<td align="center">
-<br/>Berrichon du Cher <br/>
+<td width="163">
+<p>Basco-Béarnaise</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Berrichon de l'Indre <br/>
-</p>
+<td width="273">
+<p>Belle Ile (race de Deux)</p>
 </td>
-<td align="center">
-<br/>Berrichon de l'Indre <br/>
+<td width="163">
+<p>Belle Ile</p>
 </td>
-<td align="center">
-<br/>Berrichon de l'Indre <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Bizet <br/>
-</p>
-</td>
-<td align="center">
-<br/>Bizet <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Blanc du Massif central <br/>
-</p>
-</td>
-<td align="center">
-<br/>Blanc du Massif central <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Bleu du Maine <br/>
-</p>
-</td>
-<td align="center">
-<br/>Bleu du Maine <br/>
-</td>
-<td align="center">
-<br/>Bleu du Maine <br/>
+<td width="114">
+<p>Belle Ile</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Boulonnaise <br/>
-</p>
+<td width="273">
+<p>Berrichon du Cher (BCF)</p>
 </td>
-<td align="center">
-<br/>Boulonnaise <br/>
+<td width="163">
+<p>Berrichon du Cher</p>
 </td>
-<td align="center">
-<br/>Boulonnaise <br/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Berrichon de l'Indre</p>
+</td>
+<td width="163">
+<p>Berrichon de l'Indre</p>
+</td>
+<td width="114">
+<p>Berrichon de l'Indre</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Brigasque (Brigasca) <br/>
-</p>
+<td width="273">
+<p>Bizet</p>
 </td>
-<td align="center">
-<br/>Brigasque <br/>
+<td width="163">
+<p>Bizet</p>
 </td>
-<td align="center">
-<br/>Brigasque <br/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Blanc du Massif central</p>
+</td>
+<td width="163">
+<p>Blanc du Massif central</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Bleu du Maine</p>
+</td>
+<td width="163">
+<p>Bleu du Maine</p>
+</td>
+<td width="114">
+<p>Bleu du Maine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Castillonnaise <br/>
-</p>
+<td width="273">
+<p>Boulonnaise</p>
 </td>
-<td align="center">
-<br/>Castillonnaise <br/>
+<td width="163">
+<p>Boulonnaise</p>
 </td>
-<td align="center">
-<br/>Castillonnaise <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Caussenarde des Garrigues <br/>
-</p>
-</td>
-<td align="center">
-<br/>Caussenarde des Garrigues <br/>
-</td>
-<td align="center">
-<br/>Caussenarde des Garrigues <br/>
+<td width="114">
+<p>Boulonnaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Causses du Lot <br/>
-</p>
+<td width="273">
+<p>Brigasque (Brigasca)</p>
 </td>
-<td align="center">
-<br/>Causses du Lot <br/>
+<td width="163">
+<p>Brigasque</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Charmoise <br/>
-</p>
-</td>
-<td align="center">
-<br/>Charmoise <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Clun Forest <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Clun Forest <br/>
+<td width="114">
+<p>Brigasque</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Corse (race ovine Corse) <br/>
-</p>
+<td width="273">
+<p>Castillonnaise</p>
 </td>
-<td align="center">
-<br/>Corse <br/>
+<td width="163">
+<p>Castillonnaise</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Cotentin <br/>
-</p>
-</td>
-<td align="center">
-<br/>Cotentin <br/>
-</td>
-<td align="center">
-<br/>Cotentin <br/>
+<td width="114">
+<p>Castillonnaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Dorset Down <br/>
-</p>
+<td width="273">
+<p>Caussenarde des Garrigues</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>Dorset down <br/>
+<td width="163">
+<p>Caussenarde des Garrigues</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p>Est à laine Mérinos <br/>
-</p>
-</td>
-<td align="center">
-<br/>Est à laine Mérinos <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Finnoise <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Finnoise <br/>
+<td width="114">
+<p>Caussenarde des Garrigues</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Grivette <br/>
-</p>
+<td width="273">
+<p>Causses du Lot</p>
 </td>
-<td align="center">
-<br/>Grivette <br/>
+<td width="163">
+<p>Causses du Lot</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Hampshire <br/>
-</p>
+<td width="273">
+<p>Charmoise</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="163">
+<p>Charmoise</p>
+</td>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Ile-de-France (OIF) <br/>
-</p>
+<td width="273">
+<p>Clun Forest</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>INRA 401 (Romane) <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Lacaune Lait <br/>
-</p>
-</td>
-<td align="center">
-<br/>Lacaune Lait <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Lacaune Viande <br/>
-</p>
-</td>
-<td align="center">
-<br/>Lacaune Viande <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Landaise (Landes de Gascogne) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Landaise <br/>
-</td>
-<td align="center">
-<br/>Landaise <br/>
+<td width="163"/>
+<td width="114">
+<p>Clun Forest</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Landes de Bretagne (Landes de l'Ouest) <br/>
-</p>
+<td width="273">
+<p>Corse (race ovine Corse)</p>
 </td>
-<td align="center">
-<br/>Landes de Bretagne <br/>
+<td width="163">
+<p>Corse</p>
 </td>
-<td align="center">
-<br/>Landes de Bretagne <br/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Cotentin</p>
+</td>
+<td width="163">
+<p>Cotentin</p>
+</td>
+<td width="114">
+<p>Cotentin</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Limousine <br/>
-</p>
+<td width="273">
+<p>Dorset Down</p>
 </td>
-<td align="center">
-<br/>Limousine <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Lourdaise <br/>
-</p>
-</td>
-<td align="center">
-<br/>Lourdaise <br/>
-</td>
-<td align="center">
-<br/>Lourdaise <br/>
+<td width="163"/>
+<td width="114">
+<p>Dorset down</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Manech noire (Manech Tête noire) <br/>
-</p>
+<td width="273">
+<p>Est à laine Mérinos</p>
 </td>
-<td align="center">
-<br/>Manech Tête noire <br/>
+<td width="163">
+<p>Est à laine Mérinos</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Manech rousse (Manech Tête rousse) <br/>
-</p>
+<td width="273">
+<p>Finnoise</p>
 </td>
-<td align="center">
-<br/>Manech Tête rousse <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Martinik (OMK) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Martinik <br/>
-</td>
-<td align="center">
-<br/>Martinik <br/>
+<td width="163"/>
+<td width="114">
+<p>Finnoise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Mérinos d'Arles (Mérinos de la Crau, Métis) <br/>
-</p>
+<td width="273">
+<p>Grivette</p>
 </td>
-<td align="center">
-<br/>Mérinos d'Arles <br/>
+<td width="163">
+<p>Grivette</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Mérinos de Rambouillet <br/>
-</p>
+<td width="273">
+<p>Hampshire</p>
 </td>
-<td align="center">
-<br/>Mérinos de Rambouillet <br/>
-</td>
-<td align="center">
-<br/>Mérinos de Rambouillet <br/>
-</td>
+<td width="163"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Mérinos précoce <br/>
-</p>
+<td width="273">
+<p>Ile-de-France (OIF)</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>Mérinos précoce <br/>
-</td>
+<td width="163"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Montagne noire <br/>
-</p>
+<td width="273">
+<p>Inra 401 (Romane)</p>
 </td>
-<td align="center">
-<br/>Montagne noire <br/>
-</td>
-<td align="center">
-<br/>Montagne noire <br/>
-</td>
+<td width="163"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Mourerous (Peone, Guillaume) <br/>
-</p>
+<td width="273">
+<p>Lacaune lait</p>
 </td>
-<td align="center">
-<br/>Mourérous <br/>
+<td width="163">
+<p>Lacaune lait</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Mouton charollais <br/>
-</p>
+<td width="273">
+<p>Lacaune viande</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="163">
+<p>Lacaune viande</p>
+</td>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Mouton vendéen <br/>
-</p>
+<td width="273">
+<p>Landaise (Landes de Gascogne)</p>
 </td>
-<td align="center">
-<br/>Mouton vendéen <br/>
+<td width="163">
+<p>Landaise</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Noir du Velay <br/>
-</p>
-</td>
-<td align="center">
-<br/>Noir du Velay <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Ouessant <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Ouessant <br/>
+<td width="114">
+<p>Landaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Préalpes du Sud <br/>
-</p>
+<td width="273">
+<p>Landes de Bretagne (Landes de l'Ouest)</p>
 </td>
-<td align="center">
-<br/>Préalpes du Sud <br/>
+<td width="163">
+<p>Landes de Bretagne</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Raïole (Rayole) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Raïole <br/>
-</td>
-<td align="center">
-<br/>Raïole <br/>
+<td width="114">
+<p>Landes de Bretagne</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Rava <br/>
-</p>
+<td width="273">
+<p>Limousine</p>
 </td>
-<td align="center">
-<br/>Rava <br/>
+<td width="163">
+<p>Limousine</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Romanov <br/>
-</p>
+<td width="273">
+<p>Lourdaise</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>Romanov <br/>
+<td width="163">
+<p>Lourdaise</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p>Rouge de l'Ouest <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Rouge du Roussillon <br/>
-</p>
-</td>
-<td align="center">
-<br/>Rouge du Roussillon <br/>
-</td>
-<td align="center">
-<br/>Rouge du Roussillon <br/>
+<td width="114">
+<p>Lourdaise</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Roussin de la Hague (Roussin) <br/>
-</p>
+<td width="273">
+<p>Manech Noire (Manech Tête noire)</p>
 </td>
-<td align="center">
-<br/>Roussin de la Hague <br/>
+<td width="163">
+<p>Manech Tête noire</p>
 </td>
-<td align="center"/>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Solognote <br/>
-</p>
+<td width="273">
+<p>Manech Rousse (Manech Tête rousse)</p>
 </td>
-<td align="center">
-<br/>Solognote <br/>
+<td width="163">
+<p>Manech Tête rousse</p>
 </td>
-<td align="center">
-<br/>Solognote <br/>
-</td>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Southdown (Français) <br/>
-</p>
+<td width="273">
+<p>Martinik (OMK)</p>
 </td>
-<td align="center">
-<br/>Southdown <br/>
+<td width="163">
+<p>Martinik</p>
 </td>
-<td align="center">
-<br/>Southdown <br/>
+<td width="114">
+<p>Martinik</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Suffolk <br/>
-</p>
+<td width="273">
+<p>Mérinos d'Arles (Mérinos de la Crau, Métis)</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="163">
+<p>Mérinos d'Arles</p>
+</td>
+<td width="114"/>
 </tr>
 <tr>
-<td align="center">
-<p>Tarasconnaise <br/>
-</p>
+<td width="273">
+<p>Mérinos de Rambouillet</p>
 </td>
-<td align="center">
-<br/>Tarasconnaise <br/>
+<td width="163">
+<p>Mérinos de Rambouillet</p>
 </td>
-<td align="center"/>
+<td width="114">
+<p>Mérinos de Rambouillet</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<p>Texel <br/>
-</p>
+<td width="273">
+<p>Mérinos Précoce</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="163"/>
+<td width="114">
+<p>Mérinos précoce</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<p>Thônes et Marthod <br/>
-</p>
+<td width="273">
+<p>Montagne noire</p>
 </td>
-<td align="center">
-<br/>Thônes et Marthod <br/>
+<td width="163">
+<p>Montagne noire</p>
 </td>
-<td align="center">
-<br/>Thônes et Marthod <br/>
+<td width="114">
+<p>Montagne noire</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Mourerous (Peone, Guillaume)</p>
+</td>
+<td width="163">
+<p>Mourérous</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Mouton Charollais</p>
+</td>
+<td width="163"/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Mouton Vendéen</p>
+</td>
+<td width="163">
+<p>Mouton Vendéen</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Noir du Velay</p>
+</td>
+<td width="163">
+<p>Noir du Velay</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Ouessant</p>
+</td>
+<td width="163"/>
+<td width="114">
+<p>Ouessant</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Préalpes du Sud</p>
+</td>
+<td width="163">
+<p>Préalpes du Sud</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Raïole (Ravole)</p>
+</td>
+<td width="163">
+<p>Raïole</p>
+</td>
+<td width="114">
+<p>Raïole</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Rava</p>
+</td>
+<td width="163">
+<p>Rava</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Romanov</p>
+</td>
+<td width="163"/>
+<td width="114">
+<p>Romanov</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Rouge de l'Ouest</p>
+</td>
+<td width="163"/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Rouge du Roussillon</p>
+</td>
+<td width="163">
+<p>Rouge du Roussillon</p>
+</td>
+<td width="114">
+<p>Rouge du Roussillon</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Roussin de la Hague (Roussin)</p>
+</td>
+<td width="163">
+<p>Roussin de la Hague</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Solognote</p>
+</td>
+<td width="163">
+<p>Solognote</p>
+</td>
+<td width="114">
+<p>Solognote</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Southdown (français)</p>
+</td>
+<td width="163">
+<p>Southdown</p>
+</td>
+<td width="114">
+<p>Southdown</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Suffolk</p>
+</td>
+<td width="163"/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Tarasconnaise</p>
+</td>
+<td width="163">
+<p>Tarasconnaise</p>
+</td>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Texel</p>
+</td>
+<td width="163"/>
+<td width="114"/>
+</tr>
+<tr>
+<td width="273">
+<p>Thônes et Marthod</p>
+</td>
+<td width="163">
+<p>Thônes et Marthod</p>
+</td>
+<td width="114">
+<p>Thônes et Marthod</p>
 </td>
 </tr>
 </tbody>
@@ -1113,153 +1016,136 @@ III. - Espèce caprine
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RACES RECONNUES <br/>
-</th>
-<th>
-<br/>RACES LOCALES <br/>
-</th>
-<th>
-<br/>RACES À PETITS EFFECTIFS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p>Alpine (Alpine chamoisée) <br/>
-</p>
+<td width="314">
+<p align="center">
+<br/>RACES RECONNUES</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Angora <br/>
-</p>
+<td width="103">
+<p align="center">
+<br/>RACES LOCALES</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>Angora <br/>
+<td width="133">
+<p align="center">
+<br/>RACES À PETITS EFFECTIFS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Boer <br/>
-</p>
+<td width="314">
+<p>Alpine (Alpine chamoisée)</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="103"/>
+<td width="133"/>
 </tr>
 <tr>
-<td align="center">
-<p>Corse <br/>
-</p>
+<td width="314">
+<p>Angora</p>
 </td>
-<td align="center">
-<br/>Corse <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Créole (Cabri créole) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Créole <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Des Fossés <br/>
-</p>
-</td>
-<td align="center">
-<br/>Des Fossés <br/>
-</td>
-<td align="center">
-<br/>Des Fossés <br/>
+<td width="103"/>
+<td width="133">
+<p>Angora</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Du Massif central <br/>
-</p>
+<td width="314">
+<p>Corse</p>
 </td>
-<td align="center">
-<br/>Du Massif central <br/>
+<td width="103">
+<p>Corse</p>
 </td>
-<td align="center">
-<br/>Du Massif central <br/>
+<td width="133"/>
+</tr>
+<tr>
+<td width="314">
+<p>Créole (Cabri Créole)</p>
+</td>
+<td width="103">
+<p>Créole</p>
+</td>
+<td width="133"/>
+</tr>
+<tr>
+<td width="314">
+<p>Des Fossés</p>
+</td>
+<td width="103">
+<p>Des Fossés</p>
+</td>
+<td width="133">
+<p>Des Fossés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Péï <br/>
-</p>
+<td width="314">
+<p>De Lorraine</p>
 </td>
-<td align="center">
-<br/>Péï <br/>
+<td width="103">
+<p>De Lorraine</p>
 </td>
-<td align="center">
-<br/>Péï <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Poitevine (du Poitou) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Poitevine <br/>
-</td>
-<td align="center">
-<br/>Poitevine <br/>
+<td width="133">
+<p>De Lorraine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Provençale (Payse, Commune provençale) <br/>
-</p>
+<td width="314">
+<p>Du Massif central</p>
 </td>
-<td align="center">
-<br/>Provençale <br/>
+<td width="103">
+<p>Du Massif central</p>
 </td>
-<td align="center">
-<br/>Provençale <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Pyrénéenne (des Pyrénées) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Pyrénéenne <br/>
-</td>
-<td align="center">
-<br/>Pyrénéenne <br/>
+<td width="133">
+<p>Du Massif central</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Rove (du Rove) <br/>
-</p>
+<td width="314">
+<p>Poitevine (du Poitou)</p>
 </td>
-<td align="center">
-<br/>Rove <br/>
+<td width="103">
+<p>Poitevine</p>
 </td>
-<td align="center">
-<br/>Rove <br/>
+<td width="133">
+<p>Poitevine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Saanen (Alpine Saanen) <br/>
-</p>
+<td width="314">
+<p>Provençale (Payse, commune provençale)</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="103">
+<p>Provençale</p>
+</td>
+<td width="133">
+<p>Provençale</p>
+</td>
+</tr>
+<tr>
+<td width="314">
+<p>Pyrénéenne (des Pyrénées)</p>
+</td>
+<td width="103">
+<p>Pyrénéenne</p>
+</td>
+<td width="133">
+<p>Pyrénéenne</p>
+</td>
+</tr>
+<tr>
+<td width="314">
+<p>Rove (du Rove)</p>
+</td>
+<td width="103">
+<p>Rove</p>
+</td>
+<td width="133">
+<p>Rove</p>
+</td>
+</tr>
+<tr>
+<td width="314">
+<p>Saanen (Alpine Saanen)</p>
+</td>
+<td width="103"/>
+<td width="133"/>
 </tr>
 </tbody>
 </table>
@@ -1269,138 +1155,129 @@ IV. - Espèce porcine
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RACES RECONNUES <br/>
-</th>
-<th>
-<br/>RACES LOCALES <br/>
-</th>
-<th>
-<br/>RACES À PETITS EFFECTIFS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p>Créole de Guadeloupe (Cochon Planche) <br/>
-</p>
+<td>
+<p align="center">
+<br/>RACES RECONNUES</p>
 </td>
-<td align="center">
-<br/>Créole de Guadeloupe <br/>
+<td>
+<p align="center">
+<br/>RACES LOCALES</p>
 </td>
-<td align="center">
-<br/>Créole de Guadeloupe <br/>
+<td>
+<p align="center">
+<br/>RACES À PETITS EFFECTIFS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Cul noir Limousin (Porc de Saint-Yrieix, Périgourdin, Cul noir, Limousin) <br/>
-</p>
+<td>
+<p>Créole de Guadeloupe (cochon Planche)</p>
 </td>
-<td align="center">
-<br/>Cul noir Limousin <br/>
+<td>
+<p>Créole de Guadeloupe</p>
 </td>
-<td align="center">
-<br/>Cul noir Limousin <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Duroc <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Gascon (Gasconne) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Gascon <br/>
-</td>
-<td align="center">
-<br/>Gascon <br/>
+<td>
+<p>Créole de Guadeloupe</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Landrace français (Landrace) <br/>
-</p>
+<td>
+<p>Cul Noir Limousin (porc de Saint-Yrieix, Périgourdin, Cul Noir, Limousin)</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Large White <br/>
-</p>
+<td>
+<p>Cul Noir Limousin</p>
 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Mei-Shan (Chinois) <br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p>Nustrale (Corse) <br/>
-</p>
-</td>
-<td align="center">
-<br/>Nustrale <br/>
-</td>
-<td align="center">
-<br/>Nustrale <br/>
+<td>
+<p>Cul Noir Limousin</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Pie noir du Pays basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin) <br/>
-</p>
+<td>
+<p>Duroc</p>
 </td>
-<td align="center">
-<br/>Pie noir du Pays basque <br/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Gascon (Gasconne)</p>
 </td>
-<td align="center">
-<br/>Pie noir du Pays basque <br/>
+<td>
+<p>Gascon</p>
+</td>
+<td>
+<p>Gascon</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Piétrain <br/>
-</p>
+<td>
+<p>Landrace français (Landrace)</p>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td/>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<p>Porc blanc de l'Ouest <br/>
-</p>
+<td>
+<p>Large White</p>
 </td>
-<td align="center">
-<br/>Porc blanc de l'Ouest <br/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Mei-Shan (Chinois)</p>
 </td>
-<td align="center">
-<br/>Porc blanc de l'Ouest <br/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nustrale (Corse)</p>
+</td>
+<td>
+<p>Nustrale</p>
+</td>
+<td>
+<p>Nustrale</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Porc de Bayeux <br/>
-</p>
+<td>
+<p>Pie Noir du Pays Basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin)</p>
 </td>
-<td align="center">
-<br/>Porc de Bayeux <br/>
+<td>
+<p>Pie Noir du Pays Basque</p>
 </td>
-<td align="center">
-<br/>Porc de Bayeux<br/>
+<td>
+<p>Pie Noir du Pays Basque</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Piétrain</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Porc Blanc de l'Ouest</p>
+</td>
+<td>
+<p>Porc Blanc de l'Ouest</p>
+</td>
+<td>
+<p>Porc Blanc de l'Ouest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Porc de Bayeux</p>
+</td>
+<td>
+<p>Porc de Bayeux</p>
+</td>
+<td>
+<p>Porc de Bayeux</p>
 </td>
 </tr>
 </tbody>
