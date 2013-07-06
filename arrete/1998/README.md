@@ -473,7 +473,6 @@
 - [Arrêté du 17 juin 1998 (ECOT9851694A)](arrete-du-17-juin-1998-ecot9851694a)
 - [Arrêté du 17 juin 1998 (EQUZ9800638A)](arrete-du-17-juin-1998-equz9800638a)
 - [Arrêté du 17 juin 1998 (MAEC9800069A)](arrete-du-17-juin-1998-maec9800069a)
-- [Arrêté du 17 juin 1998 (MCCB9800447A)](arrete-du-17-juin-1998-mccb9800447a)
 - [Arrêté du 17 juin 1998 (MESS9822057A)](arrete-du-17-juin-1998-mess9822057a)
 - [Arrêté du 17 juin 1998 (MESS9822088A)](arrete-du-17-juin-1998-mess9822088a)
 - [Arrêté du 17 mars 1998 (AGRS9800492A)](arrete-du-17-mars-1998-agrs9800492a)
