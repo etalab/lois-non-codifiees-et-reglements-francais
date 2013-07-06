@@ -1,5 +1,0 @@
-# TITRE II : RÉFÉRENCES D'ÉTAT CIVIL ET RÉFÉRENCES ZOOTECHNIQUES ET GÉNÉTIQUES EXIGÉES POUR L'ADMISSION DES VERRATS À LA MONTE PUBLIQUE ARTIFICIELLE.
-
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
