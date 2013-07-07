@@ -1,0 +1,5 @@
+# Article 26
+
+I. ― Les tableaux d'avancement établis au titre de l'année 2011 pour l'accès aux grades de préparateur en pharmacie hospitalière de classe supérieure, de technicien de laboratoire de classe supérieure ou de manipulateur d'électroradiologie médicale de classe supérieure demeurent valables jusqu'au 31 décembre 2011.
+
+II. ― Les fonctionnaires promus en application du I postérieurement à la date d'entrée en vigueur du présent décret sont classés, selon le cas, dans le grade de préparateur en pharmacie hospitalière du premier grade, de technicien de laboratoire médical du premier grade ou de manipulateur d'électroradiologie médicale du premier grade, en tenant compte de la situation qui aurait été la leur s'ils avaient été promus respectivement dans l'un ou l'autre des grades mentionnés au I dans les conditions prévues à l'article 38 du décret du 1er septembre 1989 susvisé dans sa rédaction antérieure à l'entrée en vigueur du présent décret, puis reclassés à la date de leur promotion en application des dispositions de l'article 22 du présent décret.
