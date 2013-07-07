@@ -1,6 +1,8 @@
 # Article Annexe I
 
-**LISTE DES DISCIPLINES ET SPÉCIALITÉS POUVANT ÊTRE OFFERTES AU CONCOURS ET DES DIPLÔMES, CERTIFICATS OU TITRES REQUIS POUR S'INSCRIRE DANS LESDITES SPÉCIALITÉS**
+LISTE DES DISCIPLINES ET SPÉCIALITÉS POUVANT ÊTRE OFFERTES AU CONCOURS ET DES DIPLÔMES,
+
+CERTIFICATS OU TITRES REQUIS POUR S'INSCRIRE DANS LESDITES SPÉCIALITÉS
 
 <table>
 <tbody>
@@ -9,10 +11,10 @@
 <p align="center">CODE </p>
 </td>
 <td>
-<p>LIBELLÉ spécialité </p>
+<p align="center">LIBELLÉ<br/>spécialité </p>
 </td>
 <td>
-<p>DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité </p>
+<p align="center">DIPLÔME(S), CERTIFICAT(S) OU TITRE(S)<br/>permettant de se présenter dans la spécialité </p>
 </td>
 </tr>
 <tr>
@@ -302,10 +304,10 @@
 <p align="center">CODE </p>
 </td>
 <td>
-<p>LIBELLÉ spécialité </p>
+<p align="center">LIBELLÉ<br/>spécialité </p>
 </td>
 <td>
-<p>DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité </p>
+<p align="center">DIPLÔME(S), CERTIFICAT(S) OU TITRE(S)<br/>permettant de se présenter dans la spécialité </p>
 </td>
 </tr>
 <tr>
@@ -500,10 +502,10 @@
 <p align="center">43 </p>
 </td>
 <td width="145">
-<p>Réanimation médicale. </p>
+<p>Réanimation. </p>
 </td>
 <td width="422">
-<p>DESC de réanimation médicale. </p>
+<p>DESC de réanimation </p>
 </td>
 </tr>
 <tr>

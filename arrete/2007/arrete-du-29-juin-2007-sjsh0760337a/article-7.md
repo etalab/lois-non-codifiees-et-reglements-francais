@@ -2,7 +2,7 @@
 
 Ce dossier technique constitue l'épreuve mentionnée aux articles R. 6152-303 et R. 6152-304 du code de la santé publique.
 
-Il est établi par le candidat, sous sa responsabilité, en trois exemplaires, ou quatre exemplaires pour les disciplines de pharmacie et psychiatrie.
+Il est établi par le candidat, sous sa responsabilité.
 
 Il est envoyé au service mentionné à l'article 4 du présent arrêté, concomitamment avec la demande de candidature, sous enveloppes cachetées et affranchies à la charge du candidat, au tarif lettre en vigueur.
 

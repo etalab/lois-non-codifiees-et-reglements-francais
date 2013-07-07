@@ -6,6 +6,6 @@ Les collèges des praticiens hospitaliers sont constitués à partir du fichier 
 
 Les jurys constitués sont représentatifs des composantes de la spécialité.
 
-Il est désigné un nombre de suppléants triple de celui des titulaires.
+Il est désigné un nombre de suppléants double de celui des titulaires.
 
 La désignation des groupes de rapporteurs est effectuée par tirage au sort.
