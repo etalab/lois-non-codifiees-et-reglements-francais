@@ -4,4 +4,4 @@ Les agents territoriaux spécialisés des écoles maternelles constituent un cad
 
 Ce cadre d'emplois comprend les grades d'agent spécialisé de 1re classe des écoles maternelles, d'agent spécialisé principal de 2e classe des écoles maternelles et d'agent spécialisé principal de 1re classe des écoles maternelles, qui relèvent respectivement des échelles 4,5 et 6 de rémunération.
 
-Les agents spécialisés principaux de 1re classe des écoles maternelles peuvent accéder à l'échelon spécial prévu au quatrième alinéa de l'article 1er du décret n° 87-1107 du 30 décembre 1987 susvisé dans les conditions fixées par ce même alinéa et par le IV de l'article 4 du même décret.
+.
