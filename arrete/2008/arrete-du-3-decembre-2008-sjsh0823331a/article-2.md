@@ -19,7 +19,7 @@ L'échelonnement indiciaire applicable à l'échelle 6 de rémunération de la c
 </tr>
 <tr>
 <td valign="top" width="449">
-<p>Spécial</p>
+<p>8e échelon</p>
 </td>
 <td width="225">
 <p align="center">499</p>
@@ -84,6 +84,5 @@ L'échelonnement indiciaire applicable à l'échelle 6 de rémunération de la c
 </tbody>
 </table>
 
-<div align="left"/>
 <div align="left"/>
 <div align="left"/>
