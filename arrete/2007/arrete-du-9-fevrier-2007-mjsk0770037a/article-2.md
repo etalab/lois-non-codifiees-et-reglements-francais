@@ -26,4 +26,6 @@ Les fonctions d'animation peuvent être exercées dans les séjours de vacances,
 
 - Licence sciences de l'éducation ;
 
--certificat de qualification professionnelle animateur périscolaire.
+- Certificat de qualification professionnelle animateur périscolaire.
+
+- Brevet de technicien supérieur agricole option " gestion et protection de la nature ".
