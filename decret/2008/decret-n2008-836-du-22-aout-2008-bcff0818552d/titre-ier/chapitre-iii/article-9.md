@@ -1,6 +1,6 @@
 # Article 9
 
-I. ― L'échelonnement indiciaire afférent aux échelles de rémunération instituées à l'article 1er du décret du 29 septembre 2005 susvisé est fixé, à compter du 1er juillet 2008, ainsi qu'il suit :
+I. - L'échelonnement indiciaire afférent aux échelles de rémunération instituées à l'article 1er du décret du 29 septembre 2005 susvisé est fixé ainsi qu'il suit :
 
 1. Echelonnement indiciaire afférent à l'échelle 6 :
 
@@ -9,13 +9,15 @@ I. ― L'échelonnement indiciaire afférent aux échelles de rémunération ins
 <table>
 <tbody>
 <tr>
-<th>ÉCHELONS<br/>
-</th>
-<th>INDICES BRUTS<br/>
-</th>
+<td>
+<p align="center"> ÉCHELONS</p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS</p>
+</td>
 </tr>
 <tr>
-<td align="center">Echelon spécial<br/>
+<td align="center">8e échelon<br/>
 </td>
 <td align="center">499<br/>
 </td>
@@ -69,24 +71,29 @@ I. ― L'échelonnement indiciaire afférent aux échelles de rémunération ins
 
 2. Echelonnement indiciaire afférent aux échelles 3, 4 et 5 :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>ÉCHELONS<br/>
-</th>
-<th colspan="3">INDICES BRUTS<br/>
-</th>
+<td rowspan="2">
+<p align="center"> ÉCHELONS</p>
+</td>
+<td colspan="3">
+<p align="center"> INDICES BRUTS</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th>Echelle 3<br/>
-</th>
-<th>Echelle 4<br/>
-</th>
-<th>Echelle 5<br/>
-</th>
+<td>
+<p align="center"> Echelle 3<br/>
+</p>
+</td>
+<td>
+<p align="center"> Echelle 4<br/>
+</p>
+</td>
+<td>
+<p align="center"> Echelle 5<br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">11e échelon<br/>
@@ -200,8 +207,6 @@ I. ― L'échelonnement indiciaire afférent aux échelles de rémunération ins
 </tr>
 </tbody>
 </table>
-
-</div>
 
 II. - A modifié les dispositions suivantes
 
