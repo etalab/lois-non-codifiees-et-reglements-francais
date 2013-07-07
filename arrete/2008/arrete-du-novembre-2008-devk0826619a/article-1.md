@@ -76,4 +76,8 @@ Les opérations de restructuration de service listées ci-après ouvrent droit a
 
 36° Le regroupement des laboratoires d'hydrobiologie des directions régionales de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais et de Basse-Normandie avec ceux des directions régionales de l'environnement, de l'aménagement et du logement de Picardie et de Haute-Normandie ;
 
-37° Le transfert de la direction des pêches maritimes et de l'aquaculture au ministère de l'écologie, du développement durable et de l'énergie.
+37° Le transfert de la direction des pêches maritimes et de l'aquaculture au ministère de l'écologie, du développement durable et de l'énergie ;
+
+38° Les restructurations des services liées à la création du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
+
+39° Le transfert des personnels du service de défense, de sécurité et d'intelligence économique au pôle ministériel du boulevard Saint-Germain à Paris.
