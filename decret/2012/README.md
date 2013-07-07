@@ -625,6 +625,7 @@
 - [Décret n°2012-974 du 20 août 2012 (AGRG1230417D)](decret-n2012-974-du-20-aout-2012-agrg1230417d)
 - [Décret n°2012-975 du 20 août 2012 (BUDE1203513D)](decret-n2012-975-du-20-aout-2012-bude1203513d)
 - [Décret n°2012-977 du 20 août 2012 (BUDB1222806D)](decret-n2012-977-du-20-aout-2012-budb1222806d)
+- [Décret n°67-91 du 20 janvier 1967](decret-n67-91-du-20-janvier-1967)
 - [Décret n°93-1335 du 20 décembre 1993 (RESM9300954D)](decret-n93-1335-du-20-decembre-1993-resm9300954d)
 - [Décret n°2006-1030 du 21 août 2006 (MENF0601865D)](decret-n2006-1030-du-21-aout-2006-menf0601865d)
 - [Décret n°2012-1073 du 21 septembre 2012 (EFIE1207287D)](decret-n2012-1073-du-21-septembre-2012-efie1207287d)

@@ -5,21 +5,14 @@ I. - La durée moyenne et la durée minimale du temps passé dans chacun des éc
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<b>ECHELONS</b>
-</p>
+<td rowspan="2">
+<p align="center">ECHELONS</p>
 </td>
-<td align="left" colspan="2" valign="top">
-<p align="center">
-<b>DUREE</b>
-</p>
+<td colspan="2">
+<p align="center">DUREE</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
 <td align="left" valign="top">
 <p align="center">Moyenne</p>
 </td>
@@ -156,127 +149,130 @@ II. - La durée moyenne et la durée minimale du temps passé dans chacun des é
 <table>
 <tbody>
 <tr>
-<td align="left" colspan="2" valign="middle">
-<div align="center">
-<pre> </pre>
-</div>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">
-<b>DURÉE </b>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
+<td rowspan="2">
 <p align="center">ÉCHELONS</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Moyenne </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Minimale </p>
+<td colspan="2">
+<p align="center">DURÉE</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="right">7e </p>
+<td>
+<p align="center">Moyenne</p>
 </td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">- </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">- </p>
+<td>
+<p align="center">Minimale</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="right">6e </p>
+<td align="center">
+<p align="left">
+<br/>8e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
+<td align="center">
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4 ans </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="right">5e </p>
+<td align="center">
+<p align="left">
+<br/>7e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
+<td align="center">
+<p align="center">
+<br/>4 ans </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="right">4e </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
+<td align="center">
+<p align="center">
+<br/>3 ans </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="right">3e </p>
+<td align="center">
+<p align="left">
+<br/>6e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
+<td align="center">
+<p align="center">
+<br/>4 ans </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="right">2e </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois </p>
+<td align="center">
+<p align="center">
+<br/>3 ans </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="right">1er </p>
+<td align="center">
+<p align="left">
+<br/>5e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">échelon </p>
+<td align="center">
+<p align="center">
+<br/>3 ans </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans </p>
+<td align="center">
+<p align="center">
+<br/>2 ans </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois </p>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>4e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 ans </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 ans </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>3e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 ans </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 ans </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>2e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 ans </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>1 an 6 mois </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>1er échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 ans </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>1 an 6 mois</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-III. - Pour les corps mentionnés au troisième alinéa de l'article 1er, la durée moyenne du 7e échelon est fixée à quatre ans et la durée minimale à trois ans pour l'accès à l'échelon spécial. Pour les autres corps, les conditions d'accès à l'échelon spécial sont celles mentionnées au quatrième alinéa de l'article 1er.
