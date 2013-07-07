@@ -2,7 +2,6 @@
 
 L'échelonnement indiciaire applicable à l'échelle 6 de rémunération de la catégorie C instituée par l'article 1er du décret n° 87-1107 du 30 décembre 1987 susvisé est fixé ainsi qu'il suit :
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -10,13 +9,13 @@ L'échelonnement indiciaire applicable à l'échelle 6 de rémunération de la c
 <br/>ÉCHELONS <br/>
 </th>
 <th>
-<br/>INDICES BRUTS <br/>
-<br/>Echelle 6 <br/>
+<br/>INDICES BRUTS <p>Echelle 6 <br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Spécial <br/>
+<br/>8e échelon<br/>
 </td>
 <td align="center">
 <br/>499 <br/>
@@ -80,4 +79,3 @@ L'échelonnement indiciaire applicable à l'échelle 6 de rémunération de la c
 </tr>
 </tbody>
 </table>
-</div>
