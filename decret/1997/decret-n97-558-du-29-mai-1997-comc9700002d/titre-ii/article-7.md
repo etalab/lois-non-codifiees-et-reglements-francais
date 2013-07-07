@@ -2,7 +2,7 @@
 
 I.-Un arrêté du ministre chargé de l'artisanat fixe la liste des informations afférentes à la demande d'attestation de qualification professionnelle mentionnée au III de l'article 6 ainsi que des pièces qui sont annexées à cette demande.
 
-La demande d'attestation de qualification professionnelle est adressée à la       chambre de métiers et de l'artisanat de région  de région du département où l'intéressé souhaite exercer. La chambre agit en tant qu'autorité compétente au sens de l'article 3 de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
+La demande d'attestation de qualification professionnelle est adressée à la chambre de métiers et de l'artisanat de région   ou à la chambre régionale de métiers et de l'artisanat dans le ressort de laquelle où l'intéressé souhaite exercer. La chambre agit en tant qu'autorité compétente au sens de l'article 3 de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
 
 La chambre délivre un récépissé qui mentionne la date de réception de la demande complète dans un délai d'un mois à compter de sa réception.
 
@@ -18,7 +18,7 @@ Lorsqu'une mesure de compensation est exigée, la chambre en informe par écrit 
 
 Les décisions de la chambre sont motivées.
 
-III.-En cas de doute sérieux, la chambre peut demander à l'autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen de confirmer l'authenticité des attestations et titres de formation délivrés dans cet autre Etat.
+III.-En cas de doute sérieux, la chambre peut demander à l'autorité compétente d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen de confirmer l'authenticité des attestations et titres de formation délivrés dans cet autre Etat.
 
 En cas de doute sérieux, la chambre peut vérifier auprès de l'autorité compétente de l'Etat, membre ou partie, qui a délivré un titre de formation comprenant une formation reçue en tout ou en partie dans un établissement légalement établi sur le territoire d'un troisième Etat, membre ou partie :
 
@@ -38,10 +38,10 @@ Tout recours contentieux contre la décision de la chambre tendant à demander u
 
 V.-L'épreuve d'aptitude prend la forme d'un examen devant un jury constitué auprès de la chambre, organisé selon des modalités définies par un règlement d'examen établi par l'assemblée permanente des chambres de métiers et de l'artisanat, après avis des organisations professionnelles les plus représentatives et approuvé par arrêté du ministre chargé de l'artisanat.
 
-L'épreuve d'aptitude est organisée dans un délai de six mois à compter de la réception par la chambre de la décision du demandeur d'opter pour cette épreuve.A défaut, la reconnaissance de la qualification professionnelle est réputée acquise et la chambre établit une attestation de qualification professionnelle.
+L'épreuve d'aptitude est organisée dans un délai de six mois à compter de la réception par la chambre de la décision du demandeur d'opter pour cette épreuve. A défaut, la reconnaissance de la qualification professionnelle est réputée acquise et la chambre établit une attestation de qualification professionnelle.
 
 A l'issue de l'épreuve d'aptitude, la chambre délivre, dans un délai d'un mois, une attestation de qualification professionnelle au demandeur ayant réussi l'épreuve.
 
-VI.-Dans un délai d'un mois à compter de la réception de la décision du demandeur d'opter pour le stage d'adaptation, la chambre lui adresse la liste de l'ensemble des organismes susceptibles d'organiser ce stage.A défaut, la reconnaissance de la qualification professionnelle est réputée acquise et la chambre établit une attestation de qualification professionnelle.
+VI.-Dans un délai d'un mois à compter de la réception de la décision du demandeur d'opter pour le stage d'adaptation, la chambre lui adresse la liste de l'ensemble des organismes susceptibles d'organiser ce stage. A défaut, la reconnaissance de la qualification professionnelle est réputée acquise et la chambre établit une attestation de qualification professionnelle.
 
 A l'issue du stage d'adaptation, le demandeur adresse à la chambre une attestation certifiant qu'il a accompli ce stage, accompagnée d'une évaluation de l'organisme qui l'a organisé. Sur la base de cette attestation, la chambre délivre à l'intéressé, dans un délai d'un mois, une attestation de qualification professionnelle.

@@ -2,7 +2,7 @@
 
 I.-L'assemblée permanente des chambres de métiers et de l'artisanat se réunit au moins deux fois par an en assemblée générale.
 
-Les présidents en exercice des chambres de métiers et de l'artisanat de région, des sections de ces dernières, des chambres régionales de métiers et de l'artisanat, de la       chambre de métiers et de l'artisanat de région  de Mayotte ainsi que des chambres de métiers et de l'artisanat départementales sont membres de droit de l'assemblée générale.
+Les présidents en exercice des chambres de métiers et de l'artisanat de région, des sections de ces dernières, des chambres régionales de métiers et de l'artisanat, de la chambre de métiers et de l'artisanat de Mayotte ainsi que des chambres de métiers et de l'artisanat départementales sont membres de droit de l'assemblée générale.
 
 Sont également membres associés de l'assemblée générale les présidents en exercice des chambres de métiers régies par les articles 103 et suivants du code professionnel local maintenu par la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 

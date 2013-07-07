@@ -11,7 +11,7 @@ Ces décisions s'imposent aux établissements du réseau, pendant toute la duré
 
 En application du troisième alinéa de l'article 5-1 du code de l'artisanat, ces décisions s'appliquent aux chambres de métiers régies par les articles 103 et suivants du code professionnel local maintenu par la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, avec leur accord.
 
-II.-Lorsque les achats et accords-cadres concernent l'ensemble des établissements, les décisions sont votées à la majorité simple par les présidents de chambres de métiers et de l'artisanat de région, de section de celles-ci, de chambres régionales de métiers et de l'artisanat et de chambres de métiers et de l'artisanat de département.
+II.-Lorsque les achats et accords-cadres concernent l'ensemble des établissements, les décisions sont votées à la majorité simple par les présidents de chambres de métiers et de l'artisanat de région, de section de celles-ci, de chambres régionales de métiers et de l'artisanat et de chambres de métiers et de l'artisanat départementales.
 
 Lorsque les achats et accords-cadres ne concernent que certaines chambres ou sections, préalablement recensées, les décisions sont votées à la majorité simple par les présidents des chambres ou de section concernées.
 

@@ -1,0 +1,5 @@
+# Article 20
+
+Les listes de candidats sont déposées à la préfecture dans le délai prévu à l'article 19 par un mandataire ayant qualité d'électeur à la section ou à la chambre de métiers et de l'artisanat départementale. A cet effet, chaque candidat établit un mandat signé de lui, confiant au mandataire de la liste le soin de faire toutes déclarations et démarches utiles à l'enregistrement de la liste. Les listes doivent être accompagnées de ces mandats, des attestations prévues au dernier alinéa du II de l'article 18 et, le cas échéant, de la déclaration individuelle prévue à l'avant-dernier alinéa du II de ce même article.
+
+Il est délivré au mandataire de la liste un récépissé de dépôt de la liste de candidats. Aucun retrait de liste ou changement de candidature n'est accepté après la date limite fixée pour le dépôt des listes de candidats. Toutefois, en cas de décès de l'un des candidats après la date limite de dépôt, celui-ci n'est pas remplacé. Dans ce cas la liste demeure valide même si elle comporte moins de 35 candidats.

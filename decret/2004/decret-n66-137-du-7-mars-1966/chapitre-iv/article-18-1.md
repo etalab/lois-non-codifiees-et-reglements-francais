@@ -1,6 +1,6 @@
 # Article 18-1
 
-I. ― Le compte de gestion de l'Assemblée permanente des chambres de métiers et de l'artisanat retrace l'exécution du budget de chaque exercice, en fonctionnement et en investissement. Il est certifié par un commissaire aux comptes.
+I. ― Le compte de gestion de l'Assemblée permanente des chambres de métiers et de l'artisanat et ses annexes sont établis selon les règles prévues aux deux premiers alinéas du I de l'article 28 du code de l'artisanat. Ils sont certifiés par un commissaire aux comptes.
 
 A l'issue de l'exercice, le président de l'établissement adresse le projet de compte de gestion, assorti des pièces et justificatifs nécessaires, au commissaire aux comptes. Celui-ci exerce sa mission conformément aux dispositions des articles L. 823-9 à L. 823-18 du code de commerce.
 

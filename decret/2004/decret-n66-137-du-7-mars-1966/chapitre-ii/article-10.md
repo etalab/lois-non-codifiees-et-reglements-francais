@@ -4,7 +4,7 @@ I. - Les délibérations de l'assemblée générale sont exécutoires dès leur 
 
 1° Le règlement intérieur, dans les conditions prévues à l'article 15 ;
 
-2° Le budget primitif, les budgets rectificatifs et les comptes, dans les conditions prévues à l'article 18 ;
+2° Les budgets primitif et rectificatifs, dans les conditions prévues à l'article 18 ;
 
 3° Le recours à l'emprunt en vue de subvenir aux dépenses nécessaires à l'exercice des missions de l'assemblée permanente, à l'exclusion des dépenses ordinaires ;
 

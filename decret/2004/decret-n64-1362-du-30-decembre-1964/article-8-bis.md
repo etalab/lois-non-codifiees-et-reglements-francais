@@ -14,7 +14,7 @@ La commission du développement économique et territorial, chargée notamment d
 
 La commission de la formation professionnelle, chargée de l'étude de toutes les questions d'apprentissage et de perfectionnement professionnel ;
 
-Les chambres de métiers et de l'artisanat départementales peuvent créer une commission du développement économique et territorial et une commission de la formation professionnelle. Ces commissions se prononcent sur les questions qui relèvent de leurs compétences dans le cadre des orientations fixées par la chambre de métiers et de l'artisanat de région à laquelle elles sont rattachées.
+Les chambres de métiers et de l'artisanat départementales peuvent créer une commission du développement économique et territorial et une commission de la formation professionnelle. Ces commissions se prononcent sur les questions qui relèvent de leurs compétences dans le cadre des orientations fixées par la chambre de métiers et de l'artisanat de région ou par la chambre régionale de métiers et de l'artisanat à laquelle elles sont rattachées.
 
 Les membres des commissions sont désignés par l'assemblée générale.
 

@@ -1,12 +1,12 @@
 # Article 29
 
-I.-Le présent décret est applicable à la       chambre de métiers et de l'artisanat de région  de Mayotte, à l'exception du deuxième alinéa de l'article 1er, du II de l'article 18 et de l'article 30, sous réserve des adaptations suivantes :
+I.-Le présent décret est applicable à la chambre de métiers et de l'artisanat de Mayotte, à l'exception du deuxième alinéa de l'article 1er, du II de l'article 18 et de l'article 30, sous réserve des  adaptations suivantes :
 
 II.-Pour l'application du présent décret à Mayotte :
 
--les mots : " des chambres de commerce et d'industrie " sont remplacés par les mots : " de la chambre de commerce et d'industrie de Mayotte " et les mots : " des chambres de métiers " sont remplacés par les mots : " de la       chambre de métiers et de l'artisanat de région  de Mayotte " ;
+-les mots : " des chambres de commerce et d'industrie " sont remplacés par les mots : " de la chambre de commerce et d'industrie de Mayotte " et les mots : " chambre de métiers et de l'artisanat de région " ou " chambre de métiers et de l'artisanat départementale " sont remplacés par les mots : " chambre de métiers et de l'artisanat de Mayotte " ;
 
--les mots : " chambre régionale des métiers " sont remplacés par les mots : "       chambre de métiers et de l'artisanat de région  de Mayotte " ;
+-les mots : " chambre régionale de métiers et de l'artisanat " sont remplacés par les mots : " chambre de métiers et de l'artisanat de Mayotte " ;
 
 -les mots : " commission régionale des qualifications " sont remplacés par les mots : " commission des qualifications " ;
 

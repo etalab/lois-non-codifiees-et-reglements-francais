@@ -1,6 +1,6 @@
 # Article 19
 
-Chaque       chambre de métiers et de l'artisanat de région  tient le répertoire des métiers des entreprises situées dans son ressort conformément aux dispositions prévues à l'article 9.
+Chaque chambre de métiers et de l'artisanat de région ou, dans les départements où existe une chambre de métiers et de l'artisanat départementale, chaque chambre de métiers et de l'artisanat départementale tient le répertoire des métiers des entreprises situées dans son ressort conformément aux dispositions prévues à l'article 9.
 
 Le répertoire des métiers est constitué par :
 

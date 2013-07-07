@@ -1,6 +1,6 @@
 # Article 3-1
 
-I.-La demande d'attestation de qualification professionnelle mentionnée au IV de l'article 3 est adressée à la       chambre de métiers et de l'artisanat de région  du département où le ressortissant d'un Etat, membre ou partie, souhaite exercer.
+I.-La demande d'attestation de qualification professionnelle mentionnée au IV de l'article 3 est adressée à la chambre de métiers et de l'artisanat de région  ou à la chambre régionale de métiers et de l'artisanat dans le ressort de laquelle le ressortissant d'un Etat, membre ou partie, souhaite exercer.
 
 La chambre délivre un récépissé qui mentionne la date de réception de la demande complète dans un délai d'un mois à compter de sa réception.
 
@@ -18,7 +18,7 @@ Lorsqu'une mesure de compensation est exigée, la chambre en informe par écrit 
 
 Les décisions de la chambre sont motivées.
 
-III.-En cas de doute sérieux, la chambre peut demander à l'autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen de confirmer l'authenticité des attestations et titres de formation délivrés dans cet autre Etat.
+III.-En cas de doute sérieux, la chambre peut demander à l'autorité compétente d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen de confirmer l'authenticité des attestations et titres de formation délivrés dans cet autre Etat.
 
 En cas de doute sérieux, la chambre peut vérifier auprès de l'autorité compétente de l'Etat, membre ou partie, qui a délivré un titre de formation comprenant une formation reçue en tout ou en partie dans un établissement légalement établi sur le territoire d'un troisième Etat, membre ou partie :
 
