@@ -1,0 +1,3 @@
+# Article 6
+
+La liste électorale pour l'élection à la chambre interdépartementale siégeant en comité mixte est dressée par la chambre régionale des huissiers de justice du ressort de la cour d'appel de Caen siégeant en comité mixte. Cette liste est arrêtée au plus tard quarante-cinq jours avant la date du scrutin. Les contestations relatives à l'établissement de cette liste sont portées, un mois au plus tard avant cette date, devant la chambre régionale des huissiers de justice du ressort de la cour d'appel de Caen siégeant en comité mixte. Celle-ci statue sur pièces dans les quinze jours de sa saisine.
