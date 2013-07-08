@@ -1,21 +1,19 @@
 # Article 1
 
-La liste des diplômes compatibles avec l'exercice des missions de la personne spécialisée en radiophysique médicale et permettant l'inscription à la formation spécialisée prévue à l'article 4       de l'arrêté du 6 décembre 2011  est fixée comme suit :
+La liste des diplômes compatibles avec l'exercice des missions de la personne spécialisée en radiophysique médicale et permettant l'inscription à la formation spécialisée prévue à l'article 4 de l'arrêté du 6 décembre 2011 est fixée comme suit :
 
-Master " radiophysique et imagerie médicales ", option 1 : recherche : radiophysique, délivré par l'université Paul Sabatier de Toulouse ;
+Master "ingénieries pour la santé et le médicament" (ISM), spécialité physique médicale délivré par l'université Joseph Fourier de Grenoble au plus tard au titre de la promotion 2016-2017 ;
 
-Master " ingénierie pour la santé et le médicament ", spécialité physique qualité radioprotection, option professionnel et recherche : physique médicale, délivré par l'université Joseph Fournier de Grenoble ;
+Master "électronique, électrotechnique, automatique-aéronautique, espace, énergie, télécom, santé", spécialité signal, imagerie et applications, parcours radiophysique médicale délivré par l'université Paul Sabatier de Toulouse au plus tard au titre de la promotion 2016-2017 ;
 
-Master " physique médicale et biologique ", spécialité professionnel et recherche : radiophysique médicale, délivré par l'université Paris-Sud ;
+Master mention "physique médicale", spécialité radiophysique médicale, délivré par l'université Paris-Sud au plus tard au titre de la promotion 2016-2017 ;
 
-Diplôme d'étude approfondie rayonnements et imagerie en médecine, option 1 : physique radiologique et médicale, délivré par l'université Paul Sabatier de Toulouse ;
+Master "applications et recherches subatomiques", option rayonnements ionisants et applications médicales, délivré par l'université de Nantes au plus tard au titre de la promotion 2016-2017 ;
 
-Master professionnel mention physique électronique, spécialité rayonnements ionisants et applications, délivré par l'université de Nantes ;
+Master mention "physique", spécialité physique biologique et médicale, délivré par l'université Lille-I sciences et technologies au plus tard au titre de la promotion 2016-2017 ;
 
-Master " sciences, technologie, santé ", mention physique, spécialité physique médicale et biologique, délivré par l'université des sciences et technologies de Lille.
+Master "sciences, technologie, santé", mention physique, parcours physique médical délivré par l'université Rennes-I au plus tard au titre de la promotion 2016-2017 ;
 
-Master " sciences, technologie, santé, mention physique ", parcours " physique médicale ", délivré par l'université Rennes-I ;
+Master "physique et technologies des rayonnements pour l'industrie et la physique médicale" délivré par l'université Blaise Pascal de Clermont-Ferrand au plus tard au titre de la promotion 2015-2016 ;
 
-Master " physique et technologies des rayonnements pour l'industrie et la physique médicale " délivré par l'université Blaise Pascal de Clermont-Ferrand.
-
-Master ingénierie pour la santé, spécialité professionnel et recherche : physique médicale, délivré par l'université Claude Bernard - Lyon-I au plus tard au titre de la promotion 2012-2013.
+Master "ingénierie pour la santé", spécialité professionnel et recherche : physique médicale, délivré par l'université Claude Bernard-Lyon-I au plus tard au titre de la promotion 2012-2013.
