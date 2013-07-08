@@ -87,3 +87,7 @@ Marseille-Dzaoudzi.
 Jusqu'au 1er juin 2018 :
 
 Marseille - New York (Etats-Unis).
+
+Jusqu'au 30 juin 2018 :
+
+Paris - Miami (Etats-Unis).
