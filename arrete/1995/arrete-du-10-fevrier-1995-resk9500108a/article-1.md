@@ -56,4 +56,4 @@ Classe préparatoire à l'Ecole normale supérieure de Cachan, section C, dépar
 
 Classe de seconde année :
 
-Classe préparatoire à l'Ecole normale supérieure de Cachan, section C, département Arts-création industrielle.
+Classe préparatoire à l'Ecole normale supérieure de Cachan, section C, département Arts et design.
