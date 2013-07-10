@@ -1,0 +1,3 @@
+# Article 88
+
+Un décret institue un comité de suivi chargé d'évaluer l'application de la présente loi. Ce comité, composé à parité d'hommes et de femmes, comprend notamment quatre députés et quatre sénateurs, désignés par les commissions compétentes en matière d'éducation de leurs assemblées respectives. Il transmet chaque année au Parlement un rapport sur ses travaux. Ce comité doit notamment étudier la formation des enseignants et des personnels d'éducation en suivant la mise en place des écoles supérieures du professorat et de l'éducation ainsi que les questions de prérecrutement et d'évolution du concours de recrutement des enseignants.

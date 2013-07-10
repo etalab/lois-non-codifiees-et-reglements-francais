@@ -1,0 +1,3 @@
+# Article 48
+
+A titre expérimental, pour une durée maximale de trois ans, dans des académies et des conditions déterminées par le ministre chargé de l'éducation nationale, la procédure d'orientation prévue à l'article L. 331-8 du code de l'éducation peut être modifiée afin que, après avoir fait l'objet d'une proposition du conseil de classe et au terme d'une concertation approfondie avec l'équipe éducative, la décision d'orientation revienne aux responsables légaux de l'élève ou à celui-ci lorsqu'il est majeur. Cette expérimentation fait l'objet d'un rapport d'évaluation transmis aux commissions permanentes compétentes en matière d'éducation de l'Assemblée nationale et du Sénat.
