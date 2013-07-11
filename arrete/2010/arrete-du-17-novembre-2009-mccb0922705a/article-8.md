@@ -18,9 +18,7 @@ La sous-direction des systèmes d'information comprend :
 
 ― le bureau de la planification et de la gestion ;
 
-― le bureau des relations métiers ;
-
-― le bureau des projets, études et applications ;
+- le bureau des études et du pilotage ;
 
 ― le bureau des services aux utilisateurs ;
 

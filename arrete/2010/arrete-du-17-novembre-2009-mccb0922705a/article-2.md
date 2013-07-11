@@ -2,19 +2,21 @@
 
 Service des ressources humaines.
 
-I. ― Le service des ressources humaines conçoit et met en œuvre, en liaison avec les directions générales, la politique de gestion des ressources humaines. Il assure la gestion administrative et budgétaire de tous les corps et emplois relevant du ministère. Il élabore et met en œuvre la politique sociale en faveur des personnels. Il anime et coordonne le dialogue social avec les organisations syndicales.
+I. - Le service des ressources humaines conçoit et met en œuvre, en liaison avec les directions générales, la politique de gestion des ressources humaines. Il assure la gestion administrative et budgétaire de tous les corps et emplois relevant du ministère. Il élabore et met en œuvre la politique sociale en faveur des personnels. Il anime et coordonne le dialogue social avec les organisations syndicales.
 
 Il assure une fonction de conseil et d'expertise auprès des directions générales, des services et des opérateurs du ministère.
 
 Il élabore les orientations de la politique d'encadrement supérieur du ministère et assure le suivi personnalisé des cadres dirigeants en fonction dans les services centraux du ministère.
 
-Il comprend, outre la mission encadrement supérieur, deux sous-directions :
+Il conduit le programme en vue du raccordement du ministère à l'opérateur national de paye et, à compter de ce raccordement, est le garant du bon fonctionnement des activités de gestion administrative et de paye en relation avec l'opérateur.
 
-― la sous-direction des métiers et des carrières ;
+Il comprend deux sous-directions :
 
-― la sous-direction des politiques de ressources humaines et des relations sociales.
+- la sous-direction des métiers et des carrières ;
 
-II. ― La sous-direction des métiers et des carrières est chargée de l'ensemble des questions relatives à la gestion collective et individuelle des carrières, à la rémunération et aux pensions des agents relevant du ministère.
+- la sous-direction des politiques de ressources humaines et des relations sociales.
+
+II. - La sous-direction des métiers et des carrières est chargée de l'ensemble des questions relatives à la gestion collective et individuelle des carrières, à la rémunération et aux pensions des agents relevant du ministère.
 
 A ce titre, elle définit les politiques de gestion relatives aux différentes catégories de personnel et veille à leur mise en œuvre. Elle assure la rémunération des personnels affectés sur le budget de l'Etat.
 
@@ -22,15 +24,17 @@ En liaison avec les services concernés, elle assure le secrétariat des commiss
 
 La sous-direction des métiers et des carrières comprend :
 
-― le bureau de la filière administrative et des agents non titulaires ;
+- le bureau de la filière administrative et des agents non titulaires ;
 
-― le bureau de la filière scientifique et de l'enseignement ;
+- le bureau de la filière scientifique et de l'enseignement ;
 
-― le bureau de la filière technique et des métiers d'art ;
+- le bureau de la filière technique et des métiers d'art ;
 
-― le bureau des pensions.
+- le bureau des pensions ;
 
-III. ― La sous-direction des politiques de ressources humaines et des relations sociales élabore les textes statutaires et les dispositions ministérielles applicables aux agents du ministère et des établissements placés sous sa tutelle, en liaison avec les ministères concernés et celui du budget. Elle veille à l'application de ces dispositions et apporte, dans ce domaine, son concours aux services du ministère. Elle constitue, à ce titre, l'interlocuteur du Conseil d'Etat.
+- le bureau des affaires transversales.
+
+III. - La sous-direction des politiques de ressources humaines et des relations sociales élabore les textes statutaires et les dispositions ministérielles applicables aux agents du ministère et des établissements placés sous sa tutelle, en liaison avec les ministères concernés et celui du budget. Elle veille à l'application de ces dispositions et apporte, dans ce domaine, son concours aux services du ministère. Elle constitue, à ce titre, l'interlocuteur du Conseil d'Etat.
 
 En liaison avec le service des affaires financières et générales et la sous-direction des métiers et des carrières, elle prépare la partie du budget relative aux dépenses de personnel. Elle assure le suivi des emplois et de la masse salariale. Elle est garante du respect des équilibres ministériels en emplois et en crédits de personnel.
 
@@ -44,14 +48,12 @@ Elle définit les politiques relatives à l'action sociale, à la médecine de p
 
 Elle organise le dialogue social ministériel. A ce titre, elle assure le secrétariat du comité technique ministériel, du comité technique placé auprès du secrétaire général, du Comité national d'action sociale, du comité ministériel d'hygiène et de sécurité et du comité d'hygiène et de sécurité placé auprès du secrétaire général. Elle établit le bilan social du ministère.
 
-Elle conduit le programme en vue du raccordement du ministère à l'opérateur national de paye et, à compter de ce raccordement, est le garant du bon fonctionnement des activités de gestion administrative et de paye en relation avec l'opérateur.
-
 La sous-direction des politiques de ressources humaines et des relations sociales comprend :
 
-― le département du recrutement, de la mobilité et de la formation ;
+- le département du recrutement, de la mobilité et de la formation ;
 
-― le bureau de l'emploi et de la rémunération ;
+- le bureau de l'emploi et de la politique de rémunération ;
 
-― le bureau de l'action sociale et de la prévention ;
+- le bureau de l'action sociale et de la prévention ;
 
-― le bureau du dialogue social et de l'expertise statutaire.
+- le bureau du dialogue social et de l'expertise statutaire.

@@ -8,7 +8,9 @@ Il prépare les travaux du conseil ministériel de la recherche.
 
 Il met en œuvre la tutelle des opérateurs relevant de son domaine de compétence ou y participe dans son champ de compétence transversale.
 
-Il comprend, outre le bureau de gestion :
+Il élabore et coordonne la politique documentaire du ministère, en liaison avec les directions générales et les services déconcentrés.
+
+Il comprend, :
 
 ― le département de l'éducation et du développement artistiques et culturels ;
 
@@ -16,7 +18,9 @@ Il comprend, outre le bureau de gestion :
 
 ― le département des études, de la prospective et des statistiques ;
 
-― le département des programmes numériques.
+― le département des programmes numériques ;
+
+- la mission de la politique documentaire.
 
 II. ― Le département de l'éducation et du développement artistiques et culturels concourt à l'élaboration de la politique et engage des actions en matière de démocratisation culturelle et d'éducation artistique et culturelle, de développement des pratiques culturelles ainsi que des actions qui visent à promouvoir l'accès à l'art et à la culture pour les différentes catégories de publics et l'ensemble de la population. Il coordonne les actions des services du ministère dans ces domaines. Il assure le lien avec les partenaires concernés, publics, associatifs et privés.
 

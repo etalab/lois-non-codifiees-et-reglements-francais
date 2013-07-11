@@ -18,6 +18,6 @@ Le secrétariat général comprend, outre le haut fonctionnaire chargé du déve
 
 ― la sous-direction des systèmes d'information ;
 
-― la mission de la communication interne ;
+- la délégation à l'information et à la communication
 
-― le secrétariat général des programmes dont il a la responsabilité.
+― le département de la programmation et des moyens dont il a la responsabilité.
