@@ -10,6 +10,8 @@ L'Agence nationale de l'habitat ;
 
 L'Agence nationale pour la rénovation urbaine ;
 
+L'Agence de services et de paiement ;
+
 Le Centre national d'études spatiales ;
 
 Le Commissariat à l'énergie atomique et aux énergies alternatives ;
