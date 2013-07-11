@@ -12,7 +12,7 @@ Il participe à l'exercice de la tutelle des organismes relevant du ministère.
 
 Il est chargé des affaires juridiques et fiscales, coordonne la préparation des textes législatifs et réglementaires et en assure l'expertise. Il élabore notamment les textes en matière de propriété littéraire et artistique. Il représente le ministre devant les juridictions. Il anime le réseau juridique des directions générales et des organismes relevant du ministère.
 
-Il définit et met en œuvre la stratégie du ministère en matière de systèmes d'information, de politique immobilière et de grands projets d'investissement, d'achat public et de communication interne.
+Il définit et met en œuvre la stratégie du ministère en matière de systèmes d'information, de politique immobilière et de grands projets d'investissement, d'achat public et de communication .
 
 Il promeut le développement durable auprès des services et des organismes relevant du ministère et coordonne sa mise en œuvre.
 
@@ -32,6 +32,6 @@ Il coordonne les initiatives visant à développer l'aménagement culturel du te
 
 Il conduit et réalise des études prospectives et d'évaluation. Il coordonne la production, l'exploitation et la publication des statistiques culturelles.
 
-III. ― Le secrétaire général préside le comité des directeurs. Il peut présider, en tant que représentant du ministre, le  comité technique ministériel et le comité ministériel d'hygiène et de sécurité.
+III. ― Le secrétaire général préside le comité des directeurs. Il peut présider, en tant que représentant du ministre, le comité technique ministériel et le comité ministériel d'hygiène et de sécurité.
 
 IV. ― Le secrétaire général est assisté d'un secrétaire général adjoint, directeur.

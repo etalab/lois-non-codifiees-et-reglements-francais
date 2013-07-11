@@ -1,6 +1,6 @@
 # Article 1
 
-L'administration centrale du ministère chargé de la culture comprend, outre l'inspection générale des affaires culturelles, le haut fonctionnaire de défense et de sécurité, la délégation générale à la langue française et aux langues de France, le département de l'information et de la communication et le bureau du cabinet, directement rattachés au ministre :
+L'administration centrale du ministère chargé de la culture comprend, outre l'inspection générale des affaires culturelles, le haut fonctionnaire de défense et de sécurité, la délégation générale à la langue française et aux langues de France,          et le bureau du cabinet, directement rattachés au ministre :
 
 1° Le secrétariat général ;
 
