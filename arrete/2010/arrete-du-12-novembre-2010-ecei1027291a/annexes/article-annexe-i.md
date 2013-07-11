@@ -21,14 +21,18 @@ L'office de tourisme classé dans la catégorie I est une structure de type entr
 <table>
 <tbody>
 <tr>
-<th>CRITÈRES<br/>
-</th>
-<th>CATÉGORIE III<br/>
-</th>
-<th>CATÉGORIE II<br/>
-</th>
-<th>CATÉGORIE I<br/>
-</th>
+<td>
+<p align="center"> CRITÈRES</p>
+</td>
+<td>
+<p align="center"> CATÉGORIE III</p>
+</td>
+<td>
+<p align="center"> CATÉGORIE II</p>
+</td>
+<td>
+<p align="center"> CATÉGORIE I</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -231,7 +235,7 @@ L'office de tourisme classé dans la catégorie I est une structure de type entr
 </tr>
 <tr>
 <td align="center">
-<p align="left">1.1.3.5. L'office de tourisme doit s'engager à ouvrir son espace d'accueil au moins trois cent cinq jours par an, dont le samedi et le dimanche obligatoirement, en période de fréquentation touristique. Il est également ouvert en sus lors des manifestations événementielles sur sa zone géographique d'intervention.</p>
+<p align="left">1.1.3.5. Pour les communes dont la population municipale est supérieure ou égale à 5 000 habitants, l'office de tourisme doit s'engager à ouvrir son espace d'accueil au moins trois cent cinq jours par an, dont le samedi et le dimanche obligatoirement, en période de fréquentation touristique. Il est également ouvert en sus lors des manifestations événementielles sur sa zone géographique d'intervention. </p>
 </td>
 <td align="center">
 <br/>
@@ -240,6 +244,16 @@ L'office de tourisme classé dans la catégorie I est une structure de type entr
 <br/>
 </td>
 <td align="center">x<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">1.1.3.6. Pour les communes dont la population municipale est inférieure à 5 000 habitants, l'office de tourisme doit s'engager à ouvrir son espace d'accueil au moins deux cent quarante jours par an, dont le samedi et le dimanche obligatoirement, en période de fréquentation touristique. Il est également ouvert en sus lors des manifestations événementielles sur sa zone géographique d'intervention. </p>
+</td>
+<td/>
+<td/>
+<td>
+<p align="center">x</p>
 </td>
 </tr>
 <tr>
