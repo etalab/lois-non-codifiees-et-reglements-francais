@@ -1,0 +1,3 @@
+# Arrêté du 2 juillet 2013 modifiant l'arrêté du 17 décembre 2010 relatif aux seuils en matière de transaction, d'emprunt et d'ouverture d'une ligne de trésorerie au-dessous desquels l'autorisation de l'autorité de tutelle n'est pas requise par les chambres de métiers et de l'artisanat de région, les chambres régionales de métiers et de l'artisanat et les chambres de métiers et de l'artisanat départementales et l'arrêté du 17 décembre 2010 relatif aux seuils en matière d'emprunt et d'ouverture d'une ligne de trésorerie au-dessous desquels l'autorisation du ministre n'est pas requise par l'Assemblée permanente des chambres de métiers et de l'artisanat
+
+- [Article 3](article-3.md)
