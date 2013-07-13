@@ -4,4 +4,5 @@
 - [Titre III : Autorisation de certains types ou procédés de pêche et limitation du nombre de leurs bénéficiaires.](titre-iii)
 - [Titre IV : Limitation du volume des captures.](titre-iv)
 - [Titre VI : Prohibitions diverses.](titre-vi)
+- [Titre VIII : Mesures d'ordre et de précaution.](titre-viii)
 - [Titre IX : Champ d'application territorial.](titre-ix)
