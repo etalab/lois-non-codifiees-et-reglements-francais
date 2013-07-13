@@ -1,0 +1,5 @@
+# Article 3
+
+Le préfet maritime est l'autorité compétente pour délivrer, en application des dispositions de l'article 4 de la loi n° 76-655 du 16 juillet 1976 et conformément aux stipulations des articles 56, 60, 79, 80 et 87 de la convention des Nations unies sur le droit de la mer du 10 décembre 1982, les autorisations nécessaires à la construction, à l'exploitation et à l'utilisation des îles artificielles, des installations, des ouvrages et de leurs installations connexes sur le plateau continental, ainsi que dans la zone économique et la zone de protection écologique, définies dans la loi n° 76-655 du 16 juillet 1976.
+
+Le préfet maritime est l'autorité compétente pour délivrer une autorisation temporaire d'une durée inférieure à deux ans sur la base du dossier de demande mentionné à l'article 4 sans qu'il soit procédé à la publicité et à la consultation prévues aux articles 6, 7 et 8 dès lors que cette demande porte sur un projet expérimental ou scientifique, sans exploitation commerciale. Les articles 14 et 17 ne s'appliquent pas à cette autorisation temporaire.
