@@ -6,3 +6,5 @@
 - [Titre VI : Prohibitions diverses.](titre-vi)
 - [Titre VIII : Mesures d'ordre et de précaution.](titre-viii)
 - [Titre IX : Champ d'application territorial.](titre-ix)
+- [Titre X : Abrogations.](titre-x)
+- [Article 34](article-34.md)
