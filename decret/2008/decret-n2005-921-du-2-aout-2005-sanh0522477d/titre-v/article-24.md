@@ -1,6 +1,6 @@
 # Article 24
 
-Toute nomination dans l'un des grades du corps des personnels de direction est prononcée à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son grade antérieur.
+Toute nomination dans l'un des grades du corps des personnels de direction soumis aux dispositions du présent décret est prononcée à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son grade antérieur.
 
 Lorsque ce mode de classement n'apporte pas un gain indiciaire au moins égal à celui qui aurait résulté d'un avancement d'échelon dans le grade inférieur, l'ancienneté acquise dans l'échelon précédemment occupé est conservée dans la limite de la durée moyenne d'ancienneté requise pour accéder à l'échelon supérieur.
 

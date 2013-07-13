@@ -1,6 +1,6 @@
 # Article 2
 
-Le corps des personnels de direction comprend deux grades :
+Le corps des personnels de direction soumis aux dispositions du présent décret comprend deux grades :
 
 - la hors-classe qui comprend sept échelons ;
 

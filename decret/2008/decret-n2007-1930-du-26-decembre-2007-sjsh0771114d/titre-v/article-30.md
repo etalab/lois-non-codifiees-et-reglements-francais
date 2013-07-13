@@ -2,12 +2,14 @@
 
 Le fonctionnaire peut postuler aux emplois dont la vacance est publiée.
 
-Au cours de la période de recherche d'affectation, le directeur général du Centre national de gestion adresse au fonctionnaire des propositions d'offres d'emploi public fermes et précises, correspondant à son grade et à son projet personnalisé d'évolution professionnelle et tenant compte de sa situation de famille et de son lieu de résidence habituel.
+Au cours de la période de recherche d'affectation, le directeur général du Centre national de gestion adresse au fonctionnaire des propositions d'offres d'emploi public fermes et précises, correspondant à son grade et à son projet personnalisé d'évolution professionnelle et tenant compte de sa situation de famille et de son lieu de résidence habituel. Les emplois de chef d'établissement ne sont proposés qu'aux fonctionnaires qui exerçaient de telles fonctions avant leur placement en recherche d'affectation.
+
+Dès leur publication ou, le cas échéant, la finalisation du projet personnalisé d'évolution professionnelle si ces fonctions n'ont à cette date pas été pourvues après publication, le directeur général du Centre national de gestion en informe le fonctionnaire concerné. Par dérogation à l'article 15, il adresse le curriculum vitae et le projet personnalisé d'évolution professionnelle de ce fonctionnaire aux autorités qui ont formulé l'offre d'emploi.
+
+Ce fonctionnaire est reçu par ces autorités pour un entretien.
+
+Par dérogation à l'article 15, son nom peut être inclus dans la liste de candidats prévue au deuxième alinéa de l'article 4 du décret n° 2010-263 du 11 mars 2010 relatif aux procédures de sélection et de nomination aux emplois de direction des établissements mentionnés aux 2° à 6° de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière et figurant sur la liste mentionnée à l'article 1er du décret n° 2007-1930 du 26 décembre 2007 portant statut particulier du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière.
+
+Le cas échéant, ces autorités informent le directeur général du Centre national de gestion des offres d'emploi qui sont formulées à ce fonctionnaire.
 
 Le fonctionnaire qui refuse successivement trois offres d'emploi formulées dans les conditions définies ci-dessus est placé en position de disponibilité d'office, dans les conditions prévues à l'article 62 de la loi du 9 janvier 1986 susvisée, ou admis à la retraite s'il remplit les conditions nécessaires.
-
-Lorsque, moins de quatre mois avant la fin de la période de la recherche d'affectation, le fonctionnaire s'est vu présenter moins de trois offres d'emploi satisfaisant aux conditions prévues au cinquième alinéa du présent article, le directeur général du Centre national de gestion peut décider, après avis du directeur de l'établissement d'accueil, une nomination en surnombre selon les modalités définies au quatrième alinéa de l'article 116 de la loi du 9 janvier 1986 précitée. Cette nomination doit correspondre au grade et au projet personnalisé d'évolution professionnelle et tenir compte de la situation de famille et du lieu de résidence habituel. Le Centre national de gestion continue d'assurer un suivi individualisé et régulier ainsi qu'un appui dans les démarches du fonctionnaire ainsi placé en surnombre. La période prévue au premier alinéa du présent article est, dans ce cadre, prolongée pour permettre l'application du cinquième alinéa.
-
-Le Centre national de gestion verse les allocations mentionnées à l'article L. 5424-1 du code du travail aux fonctionnaires involontairement privés d'emploi au cours de leur recherche d'affectation, au lieu et place de leur dernier employeur.
-
-Le Centre national de gestion présente annuellement à la commission administrative paritaire nationale un bilan de la gestion des personnels de direction en recherche d'affectation.
