@@ -10,7 +10,7 @@ Lorsqu'il recourt à la procédure d'appel d'offres prévue à l'article 8 de la
 
 4° Les conditions d'exploitation et les durées de fonctionnement prévues ;
 
-5° La région d'implantation de l'installation ;
+5° La région d'implantation de l'installation repérée, le cas échéant, par les coordonnées en latitude et longitude exprimées en degrés et minutes décimales, rapportées au système géodésique WGS 84, lorsqu'elle est située sur le domaine public maritime ou dans la zone économique ;
 
 6° Les principes de pondération et de hiérarchisation des critères mentionnés à l'article 9 de la loi du 10 février 2000 susvisée ;
 
