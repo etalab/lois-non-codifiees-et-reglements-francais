@@ -1,3 +1,5 @@
 # Article 8
 
-Pour l'application du deuxième alinéa de l'article R. 1211-22 du code de la santé publique, pour la greffe de cœur, de foie ou de poumon, lorsque les éléments du corps humain utilisés sur le territoire français sont importés d'un Etat dans lequel les analyses de biologie médicale permettant le diagnostic de l'infection par le virus HTLV I ne sont pas exécutées, le médecin qui réalise la greffe peut, dans les conditions prévues audit alinéa, transplanter un cœur, un foie ou un poumon provenant d'un donneur pour lequel les analyses de biologie médicale permettant le diagnostic de l'infection par le virus HTLV I n'ont pu être exécutées.
+A abrogé les dispositions suivantes :
+> - Arrêté du 21 décembre 2005
+> > Art. 11,   Sct. I. - Dispositions pour l'application du premier alinéa de l'article R. 1211-14 et du premier alinéa de l'article R. 1211-15.,   Art. 1,   Art. 2,   Sct. II  - Dispositions pour l'application du deuxième alinéa de l'article R. 1211-14 et pour l'application du troisième alinéa de l'article R. 1211-15.,   Art. 3,   Art. 4,   Art. 5,   Sct. III  - Dispositions pour l'application de l'article R. 1211-16.,   Art. 6,   Sct. IV  - Dispositions pour l'application de l'article R. 1211-21.,   Art. 7,   Art. 8,   Art. 9,   Art. 10
