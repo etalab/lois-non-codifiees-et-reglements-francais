@@ -106,7 +106,6 @@
 - [Arrêté du 2 mai 2012 (ETST1202853A)](arrete-du-2-mai-2012-etst1202853a)
 - [Arrêté du 2 mai 2012 (INDR1222901A)](arrete-du-2-mai-2012-indr1222901a)
 - [Arrêté du 2 mai 2012 (JUSD1222297A)](arrete-du-2-mai-2012-jusd1222297a)
-- [Arrêté du 2 mai 2012 (SCSA1222451A)](arrete-du-2-mai-2012-scsa1222451a)
 - [Arrêté du 3 août 2012 (AFSA1231967A)](arrete-du-3-aout-2012-afsa1231967a)
 - [Arrêté du 3 août 2012 (AFSH1231935A)](arrete-du-3-aout-2012-afsh1231935a)
 - [Arrêté du 3 août 2012 (AFSH1231936A)](arrete-du-3-aout-2012-afsh1231936a)
