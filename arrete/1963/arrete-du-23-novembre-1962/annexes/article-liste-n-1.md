@@ -2427,7 +2427,7 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </tr>
 <tr>
 <td align="center">
-<br/>Rodez-Marcillac</td>
+<br/>Rodez-Aveyron</td>
 <td align="center">
 <br/>Aveyron</td>
 <td align="center">
