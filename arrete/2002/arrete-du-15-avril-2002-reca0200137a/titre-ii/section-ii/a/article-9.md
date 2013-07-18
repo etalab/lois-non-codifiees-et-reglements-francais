@@ -10,6 +10,6 @@ Sa durée est fixée :
 
 a) Pour le recrutement des ingénieurs de recherche, des ingénieurs d'études et des assistants ingénieurs, à trente minutes, dont dix minutes au maximum pour l'exposé du candidat et vingt minutes au minimum pour l'entretien avec le jury ;
 
-b) Pour le recrutement des techniciens de la recherche, à vingt minutes, dont huit minutes au maximum pour l'exposé du candidat et douze minutes au minimum pour l'entretien avec le jury.
+b) Pour le recrutement des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale, à vingt minutes, dont huit minutes au maximum pour l'exposé du candidat et douze minutes au minimum pour l'entretien avec le jury.
 
-Elle est affectée du coefficient 3 pour le recrutement des ingénieurs de recherche, des ingénieurs d'études et des assistants ingénieurs et du coefficient 2 pour le recrutement des techniciens de la recherche.
+Elle est affectée du coefficient 3 pour le recrutement des ingénieurs de recherche, des ingénieurs d'études et des assistants ingénieurs et du coefficient 2 pour le recrutement des techniciens de la recherche de classe supérieure et des techniciens de la recherche de classe normale.
