@@ -1,15 +1,6 @@
 # Décret n° 2009-300 du 17 mars 2009 portant création du service des achats de l'Etat
 
-- [Article 1](article-1.md)
 - [Titre Ier : Dispositions générales](titre-ier)
-- [Article 2](article-2.md)
 - [Titre II : Dispositions relatives à l'Etat](titre-ii)
-- [Article 3](article-3.md)
 - [Titre III : Dispositions relatives aux établissements publics de l'Etat](titre-iii)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
 - [Article 11](article-11.md)
