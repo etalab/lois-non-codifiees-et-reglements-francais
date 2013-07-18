@@ -12,12 +12,12 @@ Les frais correspondent respectivement aux frais de gestion des sinistres, aux f
 
 Les montants définis aux 1° à 3° sont exprimés en pourcentage des cotisations ou primes afférents à la garantie.
 
-II. ― Les informations mentionnées au I sont communiquées, pour les contrats et opérations individuels, sur l'avis d'échéance annuelle de prime ou de cotisation afférent à la garantie, et, pour les contrats institués selon l'une des procédures mentionnée à l'article L. 911-1 du code de la sécurité sociale, par un document écrit adressé chaque année.
+II. ― Les informations mentionnées au I sont communiquées, pour les contrats et opérations individuels, simultanément à l'envoi de l'avis d'échéance annuelle de prime ou de cotisation afférent à la garantie, et, pour les contrats institués selon l'une des procédures mentionnée à l'article L. 911-1 du code de la sécurité sociale, par un document écrit adressé chaque année.
 
 Elles sont libellées de manière lisible, claire et intelligible.
 
 Elles sont complétées par une mention ainsi rédigée :
 
-« Ces frais recouvrent l'ensemble des sommes engagées pour concevoir les contrats, les commercialiser (dont le réseau commercial, le marketing, les commissions des intermédiaires), les souscrire (dont l'encaissement des cotisations, la gestion des résiliations, le suivi comptable et juridique) et les gérer (dont les remboursements, la gestion du tiers payant, l'information client, l'assistance, les services, les prestations complémentaires), c'est-à-dire accomplir toutes les tâches incombant à l'organisme assureur dans le respect des garanties contractuelles. »
+Ces frais recouvrent l'ensemble des sommes engagées pour concevoir les contrats, les commercialiser (dont le réseau commercial, le marketing, les commissions des intermédiaires), les souscrire (dont l'encaissement des cotisations, la gestion des résiliations, le suivi comptable et juridique) et les gérer (dont les remboursements, la gestion du tiers payant, l'information client, l'assistance, les services, les prestations complémentaires), c'est-à-dire accomplir toutes les tâches incombant à l'organisme assureur dans le respect des garanties contractuelles.
 
 III. ― Par dérogation aux dispositions du présent article, l'obligation de communication définie au premier alinéa de l'article L. 871-1 du code de la sécurité sociale est réputée satisfaite lorsque le montant des frais de gestion contractuels apparaît, de manière lisible, dans le rapport adressé annuellement au souscripteur par l'organisme assureur en application de l'article 3 du décret du 30 août 1990 susvisé.
