@@ -367,6 +367,15 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.<br/>Utilisable par les hélicoptères.</td>
 </tr>
 <tr>
+<td>
+<p align="center"> Kourou</p>
+</td>
+<td>
+<p align="center"> Guyane</p>
+</td>
+<td> Réservé aux aéronefs basés et aux pilotes autorisés pour une utilisation dans le cadre des activités opérationnelles de la base spatiale et pour des évacuations sanitaires en situation de crise accidentelle majeure.</td>
+</tr>
+<tr>
 <td align="center">
 <br/>L'Alpe-d'Huez</td>
 <td align="center">
