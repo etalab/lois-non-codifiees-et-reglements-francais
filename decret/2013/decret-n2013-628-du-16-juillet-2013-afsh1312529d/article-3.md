@@ -1,0 +1,3 @@
+# Article 3
+
+Les fonctions probatoires prévues au quatrième alinéa du I de l'article L. 4111-2 du code de la santé publique, au quatrième alinéa de l'article L. 4221-12 du même code ou au I de l'article 3 du décret du 4 mai 2012 susvisé, exercées par les internes à titre étranger et les titulaires du certificat d'études cliniques spéciales mention orthodontie, lauréats des épreuves de vérification des connaissances à la date du dépôt de la demande d'autorisation d'exercice ne font pas l'objet du rapport d'évaluation mentionné aux articles D. 4111-8 ou D. 4221-9 du code de la santé publique et au IV de l'article 3 du décret du 4 mai 2012 susvisé.
