@@ -18,13 +18,13 @@ d) Centre national de gestion des praticiens hospitaliers et des personnels de d
 
 e) Comité national et comités locaux du fonds pour l'insertion des personnes handicapées dans la fonction publique ;
 
-f) Conseils d'administration des organismes de retraite, des organismes de sécurité sociale et des mutuelles.
+f) Conseils d'administration des organismes de retraite, des organismes de sécurité sociale et des mutuelles ;
 
-II.-Bénéficient des mêmes droits :
+g) Conseil économique, social et environnemental et conseils économiques, sociaux et environnementaux régionaux ;
 
-1° Les représentants du personnel détenant un mandat de titulaire ou de suppléant dans les instances énumérées au I lorsqu'ils participent à des réunions ou des groupes de travail convoqués par l'administration ou l'autorité responsable ;
+h) Organisme gestionnaire du développement professionnel continu.
 
-2° Les représentants des personnels appelés à participer à des négociations dans le cadre de l'article 8 bis de la loi n° 83-634 du 13 juillet 1983 susvisée.
+II.-Les représentants syndicaux bénéficient des mêmes droits lorsqu'ils prennent part, en cette qualité, à des réunions de travail convoquées par l'administration ou lorsqu'ils participent à des négociations prévues à l'article 8 bis de la loi n° 83-634 du 13 juillet 1983 susvisée.
 
 III.-La durée de l'autorisation d'absence comprend, outre les délais de route, une durée de temps égale au double de la durée prévisible de la réunion, destinée à permettre aux intéressés d'assurer la préparation et le compte rendu des travaux.
 

@@ -4,8 +4,16 @@ I. - Des autorisations spéciales d'absence sont accordées, sous réserve des n
 
 Les demandes d'autorisation doivent être formulées trois jours ouvrables au moins avant la date de la réunion.
 
-II.-La durée des autorisations spéciales d'absence accordées en application du I à un même agent, au cours d'une année, ne peut excéder dix jours dans le cas de participation aux congrès ou aux réunions des organismes directeurs des unions, fédérations ou confédérations de syndicats non représentés au conseil commun de la fonction publique. Les syndicats nationaux qui leur sont affiliés disposent des mêmes droits.
+II. - 1° La durée des autorisations spéciales d'absence accordées en application du I à un même agent, au cours d'une année, ne peut excéder dix jours en cas de participations :
 
-Cette limite est portée à vingt jours par an dans le cas de participation aux congrès ou aux réunions des organismes directeurs des organisations syndicales internationales, ou aux congrès et aux réunions des organismes directeurs des unions, fédérations ou confédérations représentées au conseil commun de la fonction publique. Les syndicats nationaux qui leur sont affiliés bénéficient des mêmes droits.
+a) Aux congrès ou aux réunions des organismes directeurs des unions, fédérations ou confédérations de syndicats non représentées au conseil commun de la fonction publique ;
 
-III.-Les représentants syndicaux mandatés pour participer aux congrès ou aux réunions statutaires des organismes directeurs d'organisations syndicales d'un autre niveau que ceux mentionnés au II peuvent bénéficier d'autorisations d'absence imputées sur les crédits d'heure définis en application de l'article 16.
+b) Aux congrès ou aux réunions des organismes directeurs des syndicats nationaux et locaux, des unions régionales et des unions départementales ou interdépartementales de syndicats, affiliés aux unions, fédérations ou confédérations mentionnées au a ;
+
+2° Cette limite est portée à vingt jours par an lorsque l'agent est appelé à participer :
+
+a) Aux congrès ou aux réunions des organismes directeurs des organisations syndicales internationales ;
+
+b) Aux congrès ou aux réunions des organismes directeurs des unions, fédérations ou confédérations de syndicats représentées au conseil commun de la fonction publique ;
+
+c) Aux congrès ou aux réunions des syndicats nationaux ou locaux, des unions régionales et des unions départementales ou interdépartementales de syndicats, affiliés aux unions, fédérations ou confédérations mentionnées au b.
