@@ -2259,7 +2259,6 @@
 - [Arrêté du 24 janvier 2008 (BCFB0760457A)](arrete-du-24-janvier-2008-bcfb0760457a)
 - [Arrêté du 24 juin 2008 (SJSS0815492A)](arrete-du-24-juin-2008-sjss0815492a)
 - [Arrêté du 24 juin 2010 (AGRS1005461A)](arrete-du-24-juin-2010-agrs1005461a)
-- [Arrêté du 24 juin 2010 (AGRT1016703A)](arrete-du-24-juin-2010-agrt1016703a)
 - [Arrêté du 24 juin 2010 (DEVA1012001A)](arrete-du-24-juin-2010-deva1012001a)
 - [Arrêté du 24 juin 2010 (ESRS1016194A)](arrete-du-24-juin-2010-esrs1016194a)
 - [Arrêté du 24 juin 2010 (MENF1009736A)](arrete-du-24-juin-2010-menf1009736a)
