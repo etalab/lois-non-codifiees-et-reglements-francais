@@ -228,7 +228,6 @@
 - [Arrêté du 13 février 1987 (EQUC8700036A)](arrete-du-13-fevrier-1987-equc8700036a)
 - [Arrêté du 13 février 1987 (EQUP8700306A)](arrete-du-13-fevrier-1987-equp8700306a)
 - [Arrêté du 13 février 1987 (JUSB8710070A)](arrete-du-13-fevrier-1987-jusb8710070a)
-- [Arrêté du 13 janvier 1987 (AGRH8700130A)](arrete-du-13-janvier-1987-agrh8700130a)
 - [Arrêté du 13 janvier 1987 (ASES8700065A)](arrete-du-13-janvier-1987-ases8700065a)
 - [Arrêté du 13 mars 1987 (AGRD8700540A)](arrete-du-13-mars-1987-agrd8700540a)
 - [Arrêté du 13 mars 1987 (AGRD8700542A)](arrete-du-13-mars-1987-agrd8700542a)
