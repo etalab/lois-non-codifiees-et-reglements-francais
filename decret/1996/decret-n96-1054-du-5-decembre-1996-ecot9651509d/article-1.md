@@ -30,8 +30,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <tr>
 <td>
 <p>AREVA NC </p>
-<br/>
-<br/>
 </td>
 <td>
 <p align="center">4 </p>
@@ -41,8 +39,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Défense. </p>
 <p>Economie. </p>
 <p>Industrie. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -55,15 +51,11 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <td>
 <p>Economie. </p>
 <p>Industrie. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td>
 <p>Société financière de gestion de fonds de garantie d'outre-mer (SOGECOM). </p>
-<br/>
-<br/>
 </td>
 <td>
 <p align="center">2 </p>
@@ -71,8 +63,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <td>
 <p>Economie. </p>
 <p>Outre-mer. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -87,15 +77,11 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Budget. </p>
 <p>Economie. </p>
 <p>Industrie. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td>
 <p>Société française du tunnel routier du Fréjus </p>
-<br/>
-<br/>
 </td>
 <td>
 <p align="center">6 </p>
@@ -106,15 +92,11 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Collectivités territoriales. </p>
 <p>Economie. </p>
 <p>Transport (x 2). </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td>
 <p>Société nationale maritime Corse-Méditerranée </p>
-<br/>
-<br/>
 </td>
 <td>
 <p align="center">3 </p>
@@ -123,8 +105,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Budget. </p>
 <p>Economie. </p>
 <p>Transports. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -138,8 +118,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Economie. </p>
 <p>Industrie. </p>
 <p>Petites et moyennes entreprises. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -151,8 +129,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 </td>
 <td>
 <p>Transports (x 2). </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -165,15 +141,11 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <td>Economie (× 2) <p>Industrie </p>
 <p>Affaires étrangères <br/>
 </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td>
 <p>France 4 </p>
-<br/>
-<br/>
 </td>
 <td>
 <p align="center">3 </p>
@@ -182,8 +154,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Premier ministre. </p>
 <p>Communication. </p>
 <p>Economie. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -196,8 +166,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <td>
 <p>Economie (X 2). </p>
 <p>Petites et moyennes entreprises. </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -211,8 +179,43 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p>Santé (X 2). </p>
 <p>Economie </p>
 <p>Recherche</p>
-<br/>
-<br/>
+</td>
+</tr>
+<tr>
+<td>OSEO (devant être renommée Bpifrance Financement) </td>
+<td>
+<p align="center">3</p>
+</td>
+<td>Economie, industrie, recherche <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fonds stratégique d'investissement (FSI) (devant être renommé Bpifrance Participations)</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>Economie (× 2), industrie </td>
+</tr>
+<tr>
+<td>
+<p>CDC Entreprises (devant être renommée Bpifrance Investissement) </p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>Economie (× 2), Industrie</td>
+</tr>
+<tr>
+<td>
+<p align="left">Société de financement et d'investissement pour la réforme et le développement (SOFIRED) (1)</p>
+</td>
+<td>
+<p align="center">3 </p>
+</td>
+<td>
+<p>Défense (× 3)</p>
 </td>
 </tr>
 </tbody>
