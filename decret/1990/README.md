@@ -225,7 +225,6 @@
 - [Décret n°89-315 du 11 mai 1989 (BUDD8963063D)](decret-n89-315-du-11-mai-1989-budd8963063d)
 - [Décret n°90-392 du 11 mai 1990 (LOGC9000032D)](decret-n90-392-du-11-mai-1990-logc9000032d)
 - [Décret n°90-402 du 11 mai 1990 (INDX9000083D)](decret-n90-402-du-11-mai-1990-indx9000083d)
-- [Décret n°89-662 du 12 septembre 1989 (INDD8900533D)](decret-n89-662-du-12-septembre-1989-indd8900533d)
 - [Décret n°90-1012 du 12 novembre 1990 (MAEJ9030085D)](decret-n90-1012-du-12-novembre-1990-maej9030085d)
 - [Décret n°90-1118 du 12 décembre 1990 (SPSP9002207D)](decret-n90-1118-du-12-decembre-1990-spsp9002207d)
 - [Décret n°90-346 du 12 avril 1990 (MCCE9000067D)](decret-n90-346-du-12-avril-1990-mcce9000067d)
