@@ -1,139 +1,197 @@
 # Article 
 
-A. - Ministère des affaires sociales et de la santé et ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social
+A. - Ministère des affaires sociales et de la santé et ministère du travail, de l'emploi,
+
+de la formation professionnelle et du dialogue social
 
 Filière administrative
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
-</tr>
-<tr>
-<td colspan="2">Corps des attachés d'administration des affaires sociales<br/>(Décret n° 2006-1818 du 23 décembre 2006)</td>
-</tr>
-<tr>
-<td align="left">Attaché principal<br/>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
 </td>
-<td align="center">9 % en 2013, 8 % en 2014 et 7,5 % en 2015<br/>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des secrétaires administratifs relevant des ministres chargés des affaires sociales<br/>(Décret n° 2012-483 du 13 avril 2012)</td>
-</tr>
-<tr>
-<td align="left">Secrétaire administratif de classe supérieure<br/>
-</td>
-<td align="center">10 %<br/>
+<td colspan="2">
+<p align="center">Corps des attachés d'administration des affaires sociales<br/>(Décret n° 2006-1818 du 23 décembre 2006)</p>
 </td>
 </tr>
 <tr>
-<td align="left">Secrétaire administratif de classe exceptionnelle<br/>
+<td align="left">
+<p align="left">Attaché principal<br/>
+</p>
 </td>
-<td align="center">7,5 %<br/>
-</td>
-</tr>
-<tr>
-<td colspan="2">Corps des adjoints administratifs des administrations de l'Etat relevant des ministres chargés des affaires sociales<br/>(Décret n° 2006-1760 du 23 décembre 2006 modifié)</td>
-</tr>
-<tr>
-<td align="left">Adjoint administratif de 1re classe<br/>
-</td>
-<td align="center">30 % en 2013 et 20 % en 2014 et 2015<br/>
+<td align="center">
+<p align="center">9 % en 2013, 8 % en 2014 et 7,5 % en 2015<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">Adjoint administratif principal de 2e classe<br/>
-</td>
-<td align="center">13 %<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Adjoint administratif principal de 1re classe<br/>
-</td>
-<td align="center">15 %<br/>
+<td colspan="2">
+<p align="center">Corps des secrétaires administratifs relevant des ministres chargés des affaires sociales<br/>(Décret n° 2012-483 du 13 avril 2012)</p>
 </td>
 </tr>
 <tr>
-<td align="left">Echelon spécial du grade d'adjoint administratif principal de 1re classe<br/>
+<td align="left">
+<p align="left">Secrétaire administratif de classe supérieure<br/>
+</p>
 </td>
-<td align="center">30 % en 2013 et 20 % en 2014 et 2015<br/>
+<td align="center">
+<p align="center">10 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Secrétaire administratif de classe exceptionnelle<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">7,5 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des adjoints administratifs des administrations de l'Etat relevant des ministres chargés des affaires sociales<br/>(Décret n° 2006-1760 du 23 décembre 2006 modifié)</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Adjoint administratif de 1re classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">30 % en 2013 et 20 % en 2014 et 2015<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Adjoint administratif principal de 2e classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">13 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Adjoint administratif principal de 1re classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">15 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Echelon spécial du grade d'adjoint administratif principal de 1re classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">30 % en 2013 et 20 % en 2014 et 2015<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 Filière technico-administrative
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
 <td align="center">TAUX APPLICABLES</td>
 </tr>
 <tr>
-<td colspan="2">Corps des techniciens de physiothérapie relevant du ministre chargé de la santé<br/>(Décret n° 2012-482 du 13 avril 2012)</td>
-</tr>
-<tr>
-<td align="center">Technicien de physiothérapie de classe supérieure<br/>
-</td>
-<td align="center">11 %<br/>
+<td colspan="2">
+<p align="center">Corps des techniciens de physiothérapie relevant du ministre chargé de la santé<br/>(Décret n° 2012-482 du 13 avril 2012)</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien de physiothérapie de classe exceptionnelle<br/>
+<td align="center">
+<p align="left">Technicien de physiothérapie de classe supérieure<br/>
+</p>
 </td>
-<td align="center">10 %<br/>
+<td align="center">
+<p align="center">11 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Technicien de physiothérapie de classe exceptionnelle<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">10 %<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 Filière technico-ouvrière
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
-</tr>
-<tr>
-<td colspan="2">Corps des adjoints techniques des administrations de l'Etat relevant des ministres chargés des affaires sociales<br/>(Décret n° 2006-1761 du 23 décembre 2006) <br/>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
 </td>
 </tr>
 <tr>
-<td align="center">Adjoint technique de 1re classe<br/>
-</td>
-<td align="center">20 % en 2013, 15 % en 2014 et 10 % en 2015<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Adjoint technique principal de 2e classe<br/>
-</td>
-<td align="center">25 % en 2013, 23 % en 2014 et 20 % en 2015<br/>
+<td colspan="2">
+<p align="center">Corps des adjoints techniques des administrations de l'Etat relevant des ministres chargés des affaires sociales<br/>(Décret n° 2006-1761 du 23 décembre 2006) <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Adjoint technique principal de 1re classe<br/>
+<td align="center">
+<p align="left">Adjoint technique de 1re classe<br/>
+</p>
 </td>
-<td align="center">30 %<br/>
+<td align="center">
+<p align="center">20 % en 2013, 15 % en 2014 et 10 % en 2015<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Adjoint technique principal de 2e classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">25 % en 2013, 23 % en 2014 et 20 % en 2015<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Adjoint technique principal de 1re classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">30 %<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 Filière santé environnement
 
@@ -142,11 +200,17 @@ Filière santé environnement
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
+</td>
 </tr>
 <tr>
-<td colspan="2">Corps des ingénieurs du génie sanitaire<br/>(Décret n° 90-973 du 30 octobre 1990 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des ingénieurs du génie sanitaire<br/>(Décret n° 90-973 du 30 octobre 1990 modifié)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Ingénieur en chef<br/>
@@ -161,7 +225,9 @@ Filière santé environnement
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des ingénieurs d'études sanitaires<br/>(Décret n° 90-975 du 30 octobre 1990 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des ingénieurs d'études sanitaires<br/>(Décret n° 90-975 du 30 octobre 1990 modifié)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Ingénieur d'études principal<br/>
@@ -170,7 +236,9 @@ Filière santé environnement
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des techniciens sanitaires<br/>(Décret n° 96-41 du 17 janvier 1996 modifié) <br/>
+<td colspan="2">
+<p align="center">Corps des techniciens sanitaires<br/>(Décret n° 96-41 du 17 janvier 1996 modifié) <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +254,9 @@ Filière santé environnement
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des adjoints sanitaires<br/>(Décret n° 92-1437 du 30 décembre 1992 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des adjoints sanitaires<br/>(Décret n° 92-1437 du 30 décembre 1992 modifié)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Adjoint sanitaire de 1re classe<br/>
@@ -224,14 +294,35 @@ Filière socio-éducative
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
+</td>
 </tr>
 <tr>
-<td colspan="2">Corps des éducateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles<br/>(Décret n° 94-464 du 3 juin 1994 modifié)</td>
+<td colspan="2">
+<p align="center">Corps interministériel des assistants de service social des administrations de l'Etat<br/>(décret n° 2012-1098 du 28 septembre 2012) </p>
+</td>
 </tr>
 <tr>
-<td align="center">Educateur spécialisé de 1re classe<br/>
+<td>
+<p align="left">Assistant principal de service social </p>
+</td>
+<td>
+<p align="left">11 % en 2013 et 10 % en 2014 et 2015</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des éducateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles<br/>(Décret n° 94-464 du 3 juin 1994 modifié)</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Educateur spécialisé de 1re classe<br/>
+</p>
 </td>
 <td align="center">7 %<br/>
 </td>
@@ -248,50 +339,72 @@ Filière inspection
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
+</td>
 </tr>
 <tr>
-<td colspan="2">Corps des médecins inspecteurs de santé publique<br/>(Décret n° 91-1025 du 7 octobre 1991 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des médecins inspecteurs de santé publique<br/>(Décret n° 91-1025 du 7 octobre 1991 modifié)</p>
+</td>
 </tr>
 <tr>
-<td align="left">Médecin inspecteur en chef de santé publique<br/>
+<td align="left">
+<p align="left">Médecin inspecteur en chef de santé publique<br/>
+</p>
 </td>
 <td align="center">25 %<br/>
 </td>
 </tr>
 <tr>
-<td align="left">Médecin général de santé publique<br/>
+<td align="left">
+<p align="left">Médecin général de santé publique<br/>
+</p>
 </td>
 <td align="center">15 % en 2013 et 12 % en 2014 et 2015<br/>
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des pharmaciens inspecteurs de santé publique<br/>(Décret n° 92-1432 du 30 décembre 1992 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des pharmaciens inspecteurs de santé publique<br/>(Décret n° 92-1432 du 30 décembre 1992 modifié)</p>
+</td>
 </tr>
 <tr>
-<td align="left">Pharmacien inspecteur en chef de santé publique<br/>
+<td align="left">
+<p align="left">Pharmacien inspecteur en chef de santé publique<br/>
+</p>
 </td>
 <td align="center">25 %<br/>
 </td>
 </tr>
 <tr>
-<td align="left">Pharmacien général de santé publique<br/>
+<td align="left">
+<p align="left">Pharmacien général de santé publique<br/>
+</p>
 </td>
 <td align="center">15 % en 2013 et 13 % en 2014 et 2015<br/>
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des inspecteurs de l'action sanitaire et sociale<br/>(Décret n° 2002-1569 du 24 décembre 2002 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des inspecteurs de l'action sanitaire et sociale<br/>(Décret n° 2002-1569 du 24 décembre 2002 modifié)</p>
+</td>
 </tr>
 <tr>
-<td align="left">Inspecteur principal <br/>
+<td align="left">
+<p align="left">Inspecteur principal <br/>
+</p>
 </td>
 <td align="center">7 %<br/>
 </td>
 </tr>
 <tr>
-<td align="left">Inspecteur hors classe <br/>
+<td align="left">
+<p align="left">Inspecteur hors classe <br/>
+</p>
 </td>
 <td align="center">20 % en 2013 et 17 % en 2014 et 2015<br/>
 </td>
@@ -308,11 +421,17 @@ Filière enseignante
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
+</td>
 </tr>
 <tr>
-<td colspan="2">Corps des professeurs d'enseignement général de l'Institut national des jeunes aveugles<br/>(Décret n° 93-292 du 8 mars 1993 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des professeurs d'enseignement général de l'Institut national des jeunes aveugles<br/>(Décret n° 93-292 du 8 mars 1993 modifié)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Professeur hors classe<br/>
@@ -321,7 +440,9 @@ Filière enseignante
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des professeurs d'enseignement général des instituts nationaux de jeunes sourds<br/>(Décret n° 93-293 du 8 mars 1993 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des professeurs d'enseignement général des instituts nationaux de jeunes sourds<br/>(Décret n° 93-293 du 8 mars 1993 modifié)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Professeur hors classe<br/>
@@ -330,10 +451,14 @@ Filière enseignante
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des professeurs d'enseignement technique des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles<br/>(Décret n° 93-294 du 8 mars 1993 modifié)</td>
+<td colspan="2">
+<p align="center">Corps des professeurs d'enseignement technique des instituts nationaux<br/>de jeunes sourds et de l'Institut national des jeunes aveugles<br/>(Décret n° 93-294 du 8 mars 1993 modifié)</p>
+</td>
 </tr>
 <tr>
-<td align="left">Professeur hors classe<br/>
+<td align="left">
+<p align="left">Professeur hors classe<br/>
+</p>
 </td>
 <td align="center">22 %<br/>
 </td>
@@ -350,11 +475,17 @@ Filière infirmière
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
+</td>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
+</td>
 </tr>
 <tr>
-<td colspan="2">Corps interministériel des infirmières et infirmiers des services médicaux des administrations de l'Etat<br/>(Décret n° 94-1020 du 23 novembre 1994 modifié)</td>
+<td colspan="2">
+<p align="center">Corps interministériel des infirmières et infirmiers des services médicaux des administrations de l'Etat<br/>(Décret n° 94-1020 du 23 novembre 1994 modifié)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Infirmier de classe supérieure<br/>
@@ -363,7 +494,9 @@ Filière infirmière
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps d'infirmiers de catégorie A des administrations de l'Etat<br/>(Décret n° 2012-762 du 9 mai 2012)</td>
+<td colspan="2">
+<p align="center">Corps d'infirmiers de catégorie A des administrations de l'Etat<br/>(Décret n° 2012-762 du 9 mai 2012)</p>
+</td>
 </tr>
 <tr>
 <td align="left">Infirmier de classe supérieure<br/>
@@ -386,72 +519,98 @@ B. - Ministère des sports, de la jeunesse, de l'éducation populaire et de la v
 
 Filière technique et pédagogique
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
-</tr>
-<tr>
-<td colspan="2">Corps des professeurs de sport<br/>(Décret n° 85-720 du 10 juillet 1985)</td>
-</tr>
-<tr>
-<td align="left">Professeur hors classe<br/>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
 </td>
-<td align="center">7 %<br/>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Corps des professeurs de sport<br/>(Décret n° 85-720 du 10 juillet 1985)</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Professeur hors classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">7 %<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">Corps des conseillers d'éducation populaire et de jeunesse<br/>(Décret n° 85-721 du 10 juillet 1985)</td>
 </tr>
 <tr>
-<td align="left">Conseiller hors classe<br/>
+<td align="left">
+<p align="left">Conseiller hors classe<br/>
+</p>
 </td>
-<td align="center">5 %<br/>
+<td align="center">
+<p align="center">5 %<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td colspan="2">Corps des conseillers techniques et pédagogiques supérieurs<br/>Décret n° 2004-272 du 24 mars 2004</td>
+<td colspan="2">
+<p align="center">Corps des conseillers techniques et pédagogiques supérieurs<br/>Décret n° 2004-272 du 24 mars 2004</p>
+</td>
 </tr>
 <tr>
-<td align="left">Conseiller technique et pédagogique supérieur hors classe<br/>
+<td align="left">
+<p align="left">Conseiller technique et pédagogique supérieur hors classe<br/>
+</p>
 </td>
-<td align="center">10 %<br/>
+<td align="center">
+<p align="center">10 %<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
 Filière inspection
-
-<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center">CORPS ET GRADES</td>
-<td align="center">TAUX APPLICABLES</td>
-</tr>
-<tr>
-<td colspan="2">Corps des inspecteurs de la jeunesse et des sports<br/>(Décret n° 2004-697 du 12 juillet 2004)</td>
-</tr>
-<tr>
-<td align="left">Inspecteur de 1re classe<br/>
+<td align="center">
+<p align="center">CORPS ET GRADES</p>
 </td>
-<td align="center">30 %<br/>
+<td align="center">
+<p align="center">TAUX APPLICABLES</p>
 </td>
 </tr>
 <tr>
-<td align="left">Inspecteur principal<br/>
+<td colspan="2">
+<p align="center">Corps des inspecteurs de la jeunesse et des sports<br/>(Décret n° 2004-697 du 12 juillet 2004)</p>
 </td>
-<td align="center">12 %<br/>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Inspecteur de 1re classe<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">30 %<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Inspecteur principal<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">12 %<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
