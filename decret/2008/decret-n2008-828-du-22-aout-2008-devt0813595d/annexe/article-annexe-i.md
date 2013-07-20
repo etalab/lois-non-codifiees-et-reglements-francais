@@ -1,6 +1,6 @@
 # Article Annexe I
 
-**CONTRAT TYPE APPLICABLE AUX SERVICES OCCASIONNELS COLLECTIFS DE TRANSPORTS INTÉRIEURS PUBLICS ROUTIERS DE PERSONNES**
+CONTRAT TYPE APPLICABLE AUX SERVICES OCCASIONNELS COLLECTIFS DE TRANSPORTS INTÉRIEURS PUBLICS ROUTIERS DE PERSONNES
 
 Article 1er
 
@@ -18,37 +18,37 @@ Définitions
 
 Aux fins du présent contrat, on entend par :
 
-―  donneur d'ordre » la partie qui conclut le contrat de transport avec le transporteur. Le donneur d'ordre peut être le bénéficiaire du transport ou l'intermédiaire chargé d'organiser le transport pour le bénéficiaire ;
+― "donneur d'ordre" la partie qui conclut le contrat de transport avec le transporteur. Le donneur d'ordre peut être le bénéficiaire du transport ou l'intermédiaire chargé d'organiser le transport pour le bénéficiaire ;
 
-―  transporteur » la partie au contrat, régulièrement inscrite au registre des entreprises de transport public routier de personnes, qui s'engage, en vertu du contrat, à acheminer, dans les conditions visées à l'article 1er, à titre onéreux, un groupe de personnes et leurs bagages, d'un lieu défini à destination d'un autre lieu défini ;
+― "transporteur" la partie au contrat, régulièrement inscrite au registre des entreprises de transport public routier de personnes, qui s'engage, en vertu du contrat, à acheminer, dans les conditions visées à l'article 1er, à titre onéreux, un groupe de personnes et leurs bagages, d'un lieu défini à destination d'un autre lieu défini ;
 
-―  conducteur » la personne qui conduit l'autocar ou qui se trouve à bord de l'autocar dans le cadre du service pour assurer la relève de son collègue ;
+― "conducteur" la personne qui conduit l'autocar ou qui se trouve à bord de l'autocar dans le cadre du service pour assurer la relève de son collègue ;
 
-―  membre d'équipage » la personne chargée de seconder le conducteur ou de remplir les fonctions d'hôtesse, de steward ou de guide ;
+― "membre d'équipage" la personne chargée de seconder le conducteur ou de remplir les fonctions d'hôtesse, de steward ou de guide ;
 
-―  passagers » les personnes qui prennent place à bord de l'autocar à l'exception du conducteur ;
+― "passagers" les personnes qui prennent place à bord de l'autocar à l'exception du conducteur ;
 
-―  service » le service occasionnel collectif, qui comporte la mise d'un autocar à la disposition exclusive d'un groupe ou de plusieurs groupes d'au moins dix personnes. Ces groupes sont constitués préalablement à leur prise en charge ;
+― "service" le service occasionnel collectif, qui comporte la mise d'un autocar à la disposition exclusive d'un groupe ou de plusieurs groupes. Ces groupes sont constitués préalablement à leur prise en charge ;
 
-―  transport en commun d'enfants » le transport organisé à titre principal pour des personnes de moins de dix-huit ans ;
+― "transport en commun d'enfants" le transport organisé à titre principal pour des personnes de moins de dix-huit ans ;
 
-―  prise en charge initiale » le moment où le premier passager commence à monter dans l'autocar ;
+― "prise en charge initiale" le moment où le premier passager commence à monter dans l'autocar ;
 
-―  dépose finale » le moment où le dernier passager achève de descendre de l'autocar ;
+― "dépose finale" le moment où le dernier passager achève de descendre de l'autocar ;
 
-―  durée de mise à disposition » le temps qui s'écoule entre le moment où l'autocar est mis à disposition du donneur d'ordre et celui où le transporteur retrouve la liberté d'usage de celui-ci. La durée de mise à disposition inclut le temps de prise en charge et de dépose des passagers et de leurs bagages, variable selon la nature du service ;
+― "durée de mise à disposition" le temps qui s'écoule entre le moment où l'autocar est mis à disposition du donneur d'ordre et celui où le transporteur retrouve la liberté d'usage de celui-ci. La durée de mise à disposition inclut le temps de prise en charge et de dépose des passagers et de leurs bagages, variable selon la nature du service ;
 
-―  points d'arrêt intermédiaires » les lieux autres que le point de prise en charge initiale et le point de dépose finale, où l'autocar doit s'arrêter à la demande exprimée par le donneur d'ordre lors de la conclusion du contrat ;
+― "points d'arrêt intermédiaires" les lieux autres que le point de prise en charge initiale et le point de dépose finale, où l'autocar doit s'arrêter à la demande exprimée par le donneur d'ordre lors de la conclusion du contrat ;
 
-―  horaires » les horaires définis en fonction de conditions normales de circulation et de déroulement de transport, garantissant le respect des obligations de sécurité et de la réglementation sociale relative aux temps de conduite et de repos des conducteurs ;
+―" horaires" les horaires définis en fonction de conditions normales de circulation et de déroulement de transport, garantissant le respect des obligations de sécurité et de la réglementation sociale relative aux temps de conduite et de repos des conducteurs ;
 
-―  itinéraire » l'itinéraire laissé à l'initiative du transporteur, sauf exigence particulière du donneur d'ordre explicitement indiquée, à charge pour lui d'en informer le transporteur avant le début du service ;
+― "itinéraire" l'itinéraire laissé à l'initiative du transporteur, sauf exigence particulière du donneur d'ordre explicitement indiquée, à charge pour lui d'en informer le transporteur avant le début du service ;
 
-―  bagages » les biens identifiés transportés à bord de l'autocar ou de sa remorque et appartenant aux passagers ;
+― bagages les biens identifiés transportés à bord de l'autocar ou de sa remorque et appartenant aux passagers ;
 
-―  bagages placés en soute » les bagages acheminés dans la soute ou la remorque de l'autocar ;
+― "bagages placés en soute" les bagages acheminés dans la soute ou la remorque de l'autocar ;
 
-―  bagages à main » les bagages que le passager conserve avec lui.
+― "bagages à main" les bagages que le passager conserve avec lui.
 
 Article 3
 
@@ -148,11 +148,13 @@ Article 6
 
 Bagages
 
+La perte ou la détérioration de bagage liée à un accident résultant de l'utilisation de l'autocar donne lieu à une indemnisation du passager par le transporteur pout tout dommage justifié dont il sera tenu pour responsable. Le montant maximal de l'indemnisation est fixé à 1 200 € par bagage. Ce montant peut être majoré dans le cadre d'une clause particulière conclue entre les parties.
+
 Le transporteur est responsable des bagages placés en soute. Ces bagages doivent faire l'objet d'un étiquetage par leur propriétaire.
 
 En cas de perte ou d'avarie de bagages placés en soute, l'indemnité que devra verser le transporteur pour tout dommage justifié dont il sera tenu pour responsable est limitée à la somme de 800 € par unité de bagage. Cette limite d'indemnisation ne s'applique toutefois pas en cas de faute intentionnelle ou inexcusable du transporteur.
 
-Le cas échéant, les pertes et avaries de bagages placés en soute doivent immédiatement faire l'objet de réserves émises par le donneur d'ordre ou par le passager auprès du transporteur. Sauf lorsque ces réserves sont explicitement acceptées par le transporteur ou en cas de perte totale de bagages, une protestation motivée les confirmant doit lui être adressée par lettre recommandée ou par acte extrajudiciaire, au plus tard trois jours, non compris les jours fériés, après la récupération des bagages, objets du litige.
+Le cas échéant, les pertes et avaries de bagages placés en soute, sans lien avec un accident lié à l'utilisation de l'autocar, dont les conditions d'indemnisation sont précisées au premier alinéa, doivent immédiatement faire l'objet de réserves émises par le donneur d'ordre ou par le passager auprès du transporteur. Sauf lorsque ces réserves sont explicitement acceptées par le transporteur ou en cas de perte totale de bagages, une protestation motivée les confirmant doit lui être adressée par lettre recommandée ou par acte extrajudiciaire, au plus tard trois jours, non compris les jours fériés, après la récupération des bagages, objets du litige.
 
 Le transporteur, ou son préposé-conducteur, se réserve le droit de refuser les bagages dont le poids, les dimensions ou la nature ne correspondent pas à ce qui avait été convenu avec le donneur d'ordre, ainsi que ceux qu'il estime préjudiciable à la sécurité du transport.
 
@@ -162,19 +164,23 @@ Avant l'exécution du service, le donneur d'ordre informe chaque passager des di
 
 A la fin du transport, le donneur d'ordre, son représentant et les passagers sont tenus de s'assurer qu'aucun objet n'a été oublié dans l'autocar. Le transporteur décline toute responsabilité en cas de détérioration ou de vol de tout ce qui pourrait y avoir été laissé.
 
+Article 6-1
+
+Fauteuils roulants, équipements de mobilité,
+
+dispositifs d'assistance
+
+En cas de détérioration de fauteuils roulants, ou de tout autre équipement de mobilité ou de dispositif d'assistance, le coût de l'indemnisation est au moins égal au coût de remplacement ou de réparation du matériel.
+
 Article 7
 
-Diffusion publique de musique ou projection
-
-d'une œuvre audiovisuelle dans un autocar
+Diffusion publique de musique ou projection d'une œuvre audiovisuelle dans un autocar
 
 La diffusion publique dans un autocar d'œuvres musicales, cinématographiques, télévisuelles ou d'enregistrements personnels doit faire l'objet d'une déclaration préalable et être autorisée par les titulaires de droits d'auteur.
 
 Article 8
 
-Rémunération du transport
-
-et des prestations annexes et complémentaires
+Rémunération du transport et des prestations annexes et complémentaires
 
 La rémunération du transporteur comprend le prix du transport stricto sensu, qui inclut notamment la rémunération du ou des conducteurs, celui des prestations annexes et complémentaires, auxquelles s'ajoutent les frais liés à l'établissement et à la gestion administrative et informatique du contrat de transport, ainsi que toute taxe liée au transport et, ou, tout droit dont la perception est mise à la charge du transporteur.
 
@@ -208,7 +214,7 @@ Le solde du prix du transport, des prestations annexes et complémentaires, est 
 
 Lorsque le transporteur consent au donneur d'ordre des délais de paiement, la facture mentionne la date à laquelle le paiement doit intervenir.
 
-Tout retard dans le paiement, après mise en demeure restée sans effet, entraîne de plein droit le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux légal, telles que définies à l'article L. 441-6 du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
+Tout retard dans le paiement, après mise en demeure restée sans effet, entraîne de plein droit le versement de pénalités, telles que définies à l'article L. 441-6 du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
 
 Le non-paiement total ou partiel d'une facture à une seule échéance emporte, sans formalité, la déchéance du terme entraînant l'exigibilité immédiate du règlement, sans mise en demeure, de toutes sommes dues, même à terme, à la date de ce manquement et autorise le transporteur à exiger le paiement comptant avant l'exécution de toute nouvelle opération.
 
