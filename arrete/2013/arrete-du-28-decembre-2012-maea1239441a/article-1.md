@@ -8,7 +8,7 @@ La direction générale des affaires politiques et de sécurité est composée :
 
 ― la sous-direction des droits de l'homme et des affaires humanitaires ;
 
-― la sous-direction des affaires institutionnelles et des contributions internationales ;
+― la sous-direction des affaires économiques et budgétaires ;
 
 ― la délégation des affaires francophones ;
 
@@ -64,9 +64,11 @@ Elle comprend en outre, sous la coordination du directeur général :
 
 4° La direction des Amériques et des Caraïbes, qui comprend :
 
-― la sous-direction d'Amérique du Nord et du Mexique ;
+- la sous-direction d'Amérique du Nord ;
 
-― la sous-direction d'Amérique centrale, d'Amérique du Sud et des Caraïbes ;
+- la sous-direction d'Amérique du Sud ;
+
+- la mission du Mexique, d'Amérique centrale et des Caraïbes ;
 
 5° La direction d'Asie et d'Océanie, qui comprend :
 
@@ -77,8 +79,6 @@ Elle comprend en outre, sous la coordination du directeur général :
 ― la sous-direction d'Extrême-Orient ;
 
 ― la mission d'Océanie ;
-
-― le secrétariat permanent pour le Pacifique ;
 
 ― la cellule interministérielle pour l'Afghanistan et le Pakistan ;
 
