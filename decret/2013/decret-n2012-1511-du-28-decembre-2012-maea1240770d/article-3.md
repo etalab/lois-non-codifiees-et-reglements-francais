@@ -8,7 +8,7 @@ II. ― L'inspection générale des affaires étrangères est chargée de contr�
 
 L'inspecteur général est secondé dans ses fonctions par un inspecteur général adjoint.
 
-III. ― Le centre d'analyse et de prospective prépare les décisions du ministre par l'analyse des évolutions à moyen et à long terme des relations internationales et des questions qui les influencent, notamment religieuses, migratoires et démographiques.
+III. ― Le      centre d'analyse, de prévision et de stratégie prépare les décisions du ministre par l'analyse des évolutions à moyen et à long terme des relations internationales et des questions qui les influencent, notamment religieuses, migratoires et démographiques.
 
 Il fait appel, le cas échéant, à des organismes publics ou privés et à des personnes choisies pour leurs compétences. Il participe à l'orientation des activités des instituts français de recherche à l'étranger et à leur valorisation.
 

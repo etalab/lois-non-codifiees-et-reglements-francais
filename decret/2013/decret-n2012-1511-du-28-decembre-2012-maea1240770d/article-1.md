@@ -4,7 +4,7 @@ L'administration centrale du ministère des affaires étrangères comprend :
 
 I. ― Le secrétariat général, dirigé par le secrétaire général du ministère des affaires étrangères.
 
-II. ― Le protocole, l'inspection générale des affaires étrangères, le centre d'analyse et de prospective et le centre de crise, rattachés directement au ministre.
+II. ― Le protocole, l'inspection générale des affaires étrangères, le      centre d'analyse, de prévision et de stratégie et le centre de crise, rattachés directement au ministre.
 
 III. ― La direction générale des affaires politiques et de sécurité, composée de :
 
