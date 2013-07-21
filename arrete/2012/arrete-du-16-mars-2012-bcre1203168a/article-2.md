@@ -6,4 +6,4 @@ I. ― Les directions spécialisées de contrôle fiscal assurent, dans la limit
 
 2° Des personnes, groupements ou entités qui, même en l'absence d'obligation déclarative, ont été ou auraient dû être imposés par ces mêmes services ou dont la résidence principale, le siège ou le principal établissement est situé dans le ressort desdits services.
 
-II. ― Ces directions effectuent le contrôle des systèmes de télétransmission des factures dans les conditions prévues aux articles 289 bis du code général des impôts et 96-I de l'annexe III au même code.
+II. ― Ces directions effectuent le contrôle des systèmes de télétransmission des factures et des procédures de signature électronique avancée dans les conditions prévues aux articles L. 80 FA du livre des procédures fiscales et R. 80 F-1 et suivants du même livre.

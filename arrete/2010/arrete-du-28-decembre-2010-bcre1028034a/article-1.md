@@ -18,7 +18,7 @@ e) Les personnes transférant leur domicile hors de France, imposables en France
 
 3° L'instruction et le contrôle des exonérations, abattements, remboursements ou restitutions, quelle qu'en soit la nature, qui bénéficient aux personnes, groupements ou entités domiciliés ou établis en France ou hors de France ainsi qu'aux organisations internationales établies dans ce pays, et le recouvrement des sommes de toute nature qui en résulterait ;
 
-4° Le contrôle des systèmes de télétransmission des factures dans les conditions prévues aux articles 289 bis du code général des impôts et 96 I de l'annexe III au même code ;
+4° Le contrôle des systèmes de télétransmission des factures et des procédures de signature électronique avancée dans les conditions prévues aux articles L. 80 FA du livre des procédures fiscales et R. 80 F-1 et suivants du même livre ;
 
 5° L'instruction des demandes d'exonération fiscale présentées par les représentations étrangères en France et les organisations internationales ainsi que la gestion et le contrôle des documents relatifs aux pensions versées par les organisations coordonnées ;
 
