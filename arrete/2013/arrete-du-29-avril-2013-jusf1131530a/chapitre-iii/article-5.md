@@ -82,7 +82,7 @@ Directeur territorial dans les territoires suivants : Mayotte ; Polynésie.
 
 Directeur territorial adjoint dans les territoires suivants : Essonne ; Sarthe - Mayenne - Maine-et-Loire ; Hauts-de-Seine ; Savoie(s) ; Val-d'Oise ; Val-de-Marne ; Yvelines ; Finistère-Morbihan ; Isère ; Aquitaine-Sud ; Var ; Oise ; Gard-Lozère ; Loire ; Hautes-Alpes - Alpes-de-Haute-Provence - Vaucluse ; Aude - Pyrénées-Orientales ; Alpes-Maritimes, Drôme-Ardèche, La Réunion ; Guadeloupe, Martinique, Guyane.
 
-Responsable des politiques institutionnelles en direction territoriale : Nord ; Seine-Saint-Denis ; Aquitaine-Nord ; Rhône-Ain ; Bouches-du-Rhône ; Pas-de-Calais ; Paris ; Haute-Normandie ; Alsace ; Seine-et-Marne ; Vosges - Meurthe-et-Moselle - Meuse, Loire-Atlantique - Vendée ; Essonne ; Poitou-Charentes ; Sarthe - Mayenne - Maine-et-Loire ; Hauts-de-Seine ; Savoie(s) ; Haute-Garonne - Ariège - Hautes-Pyrénées ; Somme-Aisne ; Basse-Normandie ; Val-d'Oise ; Auvergne ; Val-de-Marne ; Yvelines ; Finistère-Morbihan ; Franche-Comté ; Ille-et-Vilaine - Côtes-d'Armor ; Isère ; Hérault ; Moselle ; Aquitaine-Sud ; Marne-Ardennes ; Var ; Oise ; Centre-Orléans ; Côte-d'Or - Saône-et-Loire ; Gard-Lozère ; Loire ; Alpes-Vaucluse ; Aude - Pyrénées-Orientales ; Alpes-Maritimes ; Drôme-Ardèche ; Limousin ; La Réunion ; Guadeloupe ; Touraine-Berry ; Yonne-Nièvre ; Aube - Haute-Marne ; Tarn-Aveyron ; Tarn-et-Garonne - Gers - Lot ; Corse ; Martinique ; Guyane, Mayotte ; Polynésie.
+Responsable des politiques institutionnelles en direction territoriale : Nord ; Seine-Saint-Denis ; Aquitaine-Nord ; Rhône-Ain ; Bouches-du-Rhône ; Pas-de-Calais ; Paris ; Haute-Normandie ; Alsace ; Seine-et-Marne ; Vosges - Meurthe-et-Moselle - Meuse, Loire-Atlantique - Vendée ; Essonne ; Poitou-Charentes ; Sarthe - Mayenne - Maine-et-Loire ; Hauts-de-Seine ; Savoie(s) ; Haute-Garonne - Ariège - Hautes-Pyrénées ; Somme-Aisne ; Basse-Normandie ; Val-d'Oise ; Auvergne ; Val-de-Marne ; Yvelines ; Finistère-Morbihan ; Franche-Comté ; Ille-et-Vilaine - Côtes-d'Armor ; Isère ; Hérault ; Moselle ; Aquitaine-Sud ; Marne-Ardennes ; Var ; Oise ; Centre-Orléans ; Côte-d'Or - Saône-et-Loire ; Gard-Lozère ; Loire ; Alpes-Vaucluse ; Aude - Pyrénées-Orientales ; Alpes-Maritimes ; Drôme-Ardèche ; Limousin ; La Réunion ; Guadeloupe ; Yonne-Nièvre ; Aube - Haute-Marne ; Tarn-Aveyron ; Tarn-et-Garonne - Gers - Lot ; Corse ; Martinique ; Guyane, Mayotte ; Polynésie.
 
 C. ― A l'Ecole nationale de protection judiciaire de la jeunesse
 
@@ -92,7 +92,7 @@ Directeur de pôle territorial de formation Centre-Est - Lyon.
 
 Directeur de pôle territorial de formation Grand Centre-Dijon.
 
-Directeur de pôle territorial de formation Grand Ouest - Nantes.
+Directeur de pôle territorial de formation Grand Ouest-Rennes.
 
 Directeur de pôle territorial de formation Grand Nord-Roubaix.
 
