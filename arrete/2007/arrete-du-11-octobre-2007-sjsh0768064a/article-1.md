@@ -1,6 +1,6 @@
 # Article 1
 
-Les taux de promotion permettant de déterminer le nombre maximum des avancements de grade pouvant être prononcés au titre de l'année 2013 dans certains corps de la fonction publique hospitalière, en application du décret du 3 août 2007 susvisé relatif à l'avancement de grade dans certains corps de la fonction publique hospitalière, figurent en annexe au présent arrêté à l'exception des taux de promotion relatifs à l'avancement aux grades d'aides-soignants de classe supérieure et d'aides-soignants de classe exceptionnelle, au grade d'adjoint administratif de 1re classe, au grade d'infirmiers de classe supérieure du corps des infirmiers régis par le décret n° 88-1077 du 30 novembre 1988 ainsi qu'au grade d'attaché principal du corps des attachés d'administration hospitalière ; pour ces grades, les taux figurant en annexe sont applicables au titre de l'année 2012.
+En application du décret du 3 août 2007 susvisé relatif à l'avancement de grade dans certains corps de la fonction publique hospitalière, les taux de promotion permettant de déterminer le nombre maximum des avancements de grade pouvant être prononcés au titre de l'année 2013 dans certains corps de la fonction publique hospitalière figurent en annexe au présent arrêté.
 
 Les taux de promotion relatifs à l'avancement de grade des corps d'adjoints des cadres et d'assistants médico-administratifs sont applicables au titre des années 2011, 2012 et 2013.
 

@@ -28,7 +28,7 @@
 <p align="left">Attachés principaux </p>
 </td>
 <td>
-<p align="center">15 %</p>
+<p align="center">10 %</p>
 </td>
 </tr>
 <tr>
@@ -58,9 +58,7 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Assistants médico-administratifs de classe supérieure</p>
-</td>
+<td>Assistants médico-administratifs de classe supérieure</td>
 <td>
 <p align="center">12 %</p>
 </td>
@@ -79,9 +77,11 @@
 </td>
 </tr>
 <tr>
-<td>Adjoint administratif de 1re classe</td>
 <td>
-<p align="center">12 %</p>
+<p align="left">Adjoint administratif de 1re classe</p>
+</td>
+<td>
+<p align="center">6 %</p>
 </td>
 </tr>
 <tr>
@@ -230,14 +230,18 @@
 <td>
 <p align="left">Technicien supérieur hospitalier de 2e classe </p>
 </td>
-<td align="center">10 %<br/>
+<td align="center">
+<p align="center">10 %<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="left">Technicien supérieur hospitalier de 1re classe</p>
 </td>
-<td align="center">20 %<br/>
+<td align="center">
+<p align="center">20 %<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -269,9 +273,11 @@
 </td>
 </tr>
 <tr>
-<td>Aide-soignant de classe supérieure</td>
 <td>
-<p align="center">15 %</p>
+<p align="left">Aide-soignant de classe supérieure</p>
+</td>
+<td>
+<p align="center">10 %</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +291,7 @@
 <tr>
 <td>Aide-soignants de classe exceptionnelle </td>
 <td>
-<p align="center">20 %</p>
+<p align="center">15 %</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +303,7 @@
 <td>
 <p align="left">Infirmiers de classe supérieure </p>
 </td>
-<td align="center">26 %</td>
+<td align="center">18 %</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -327,7 +333,9 @@
 <td>
 <p align="left">Pédicures de classe supérieure </p>
 </td>
-<td align="center">50 %</td>
+<td align="center">
+<p align="center">50 %</p>
+</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -361,7 +369,9 @@
 <td>
 <p align="left">Psychomotriciens de classe supérieure </p>
 </td>
-<td align="center">28 %<br/>
+<td align="center">
+<p align="center">28 %<br/>
+</p>
 </td>
 </tr>
 <tr>
