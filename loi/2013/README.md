@@ -26,3 +26,5 @@
 - [LOI n°2013-61 du 18 janvier 2013 (ETLX1238053L)](loi-n2013-61-du-18-janvier-2013-etlx1238053l)
 - [LOI n°2013-619 du 16 juillet 2013 (DEVK1240259L)](loi-n2013-619-du-16-juillet-2013-devk1240259l)
 - [LOI n°2013-642 du 19 juillet 2013 (DEFX1308316L)](loi-n2013-642-du-19-juillet-2013-defx1308316l)
+- [LOI n°2013-659 du 22 juillet 2013 (MAEX1301702L)](loi-n2013-659-du-22-juillet-2013-maex1301702l)
+- [LOI n°2013-660 du 22 juillet 2013 (ESRJ1304228L)](loi-n2013-660-du-22-juillet-2013-esrj1304228l)

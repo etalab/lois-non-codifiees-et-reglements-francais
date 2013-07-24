@@ -1,0 +1,5 @@
+# Article 40
+
+A titre expérimental, pour une durée de six ans, des modalités particulières d'admission dans des formations paramédicales dont la liste est définie par arrêté conjoint des ministres chargés de la santé et de l'enseignement supérieur, après consultation des représentants, étudiants et professionnels des spécialités concernées, peuvent être fixées par décret sous la forme d'une première année commune à ces formations. Sont exclues de cette expérimentation les formations préparant au diplôme français d'Etat d'infirmier ou d'infirmière mentionné à l'article L. 4311-3 du code de la santé publique.
+
+Au cours de la cinquième année de l'expérimentation, les ministres chargés de l'enseignement supérieur et de la santé présentent conjointement au Conseil national de l'enseignement supérieur et de la recherche un rapport d'évaluation des expérimentations menées au titre du présent article. Ce rapport, accompagné de l'avis du Conseil national de l'enseignement supérieur et de la recherche, est adressé au Parlement.
