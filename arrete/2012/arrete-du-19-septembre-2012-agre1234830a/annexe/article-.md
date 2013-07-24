@@ -5,138 +5,211 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <table>
 <tbody>
 <tr>
-<th>DISPENSATEUR DE FORMATION <br/>
-</th>
-<th>TYPES D'HABILITATION <br/>
-</th>
-<th colspan="2">HABILITATION <br/>
-</th>
-</tr>
-<tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>A compter du <br/>
-</th>
-<th>Jusqu'au</th>
-</tr>
-<tr>
-<td align="center">ADIV Développement, 10, rue Jacqueline-Auriol, zac des Gravanches, 63039 Clermont-Ferrand Cedex 2 <br/>
+<td align="left" rowspan="2" valign="top">
+<p align="center">DISPENSATEUR DE FORMATION</p>
 </td>
-<td align="center">RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement <br/>RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement <br/>
+<td align="left" rowspan="2" valign="top">
+<p align="center">TYPES D'HABILITATION <br/>
+</p>
 </td>
-<td align="center">20 septembre 2012<br/>//<br/>
-</td>
-<td align="center">20 septembre 2017<br/>// <br/>
+<td align="left" colspan="2" valign="top">
+<p align="center">HABILITATION</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">A compter du</p>
 </td>
-<td align="center">RPA et opérateur, porcins-manipulations et soins-mise à mort<br/>
-</td>
-<td align="center">//<br/>
-</td>
-<td align="center">// <br/>
+<td align="left" valign="top">
+<p align="center">Jusqu'au</p>
 </td>
 </tr>
 <tr>
-<td align="center">ADOFIA, 24, rue des Vignoles, 75020 Paris <br/>
+<td align="left" rowspan="3" valign="top">
+<p align="left">ADIV Développement, 10, rue Jacqueline-Auriol, zac des Gravanches, 63039 Clermont-Ferrand Cedex 2 </p>
 </td>
-<td align="center">RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement <br/>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement</p>
 </td>
-<td align="center">20 septembre 2012 <br/>
+<td align="left" valign="top">
+<p align="center">20 septembre 2012</p>
 </td>
-<td align="center">20 septembre 2017 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement<br/>
-</td>
-<td align="center">//<br/>
-</td>
-<td align="center">// <br/>
+<td align="left" valign="top">
+<p align="center">20 septembre 2017</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">RPA et opérateur, porcins-manipulations et soins-mise à mort<br/>
-</td>
-<td align="center">//<br/>
-</td>
-<td align="center">// <br/>
-</td>
-</tr>
-<tr>
-<td align="center">IFIP, Institut du porc, 149, rue de Bercy, 75020 PARIS <br/>
-</td>
-<td align="center">RPA et opérateur, porcins-manipulations et soins-mise à mort <br/>
-</td>
-<td align="center">20 septembre 2012 <br/>
-</td>
-<td align="center">20 septembre 2017 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Institut de l'élevage, 149, rue de Bercy, 75020 Paris <br/>
-</td>
-<td align="center">RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement <br/>
-</td>
-<td align="center">20 septembre 2012 <br/>
-</td>
-<td align="center">20 septembre 2017 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement<br/>
-</td>
-<td align="center">//<br/>
-</td>
-<td align="center">//<br/>
-</td>
-</tr>
-<tr>
+<td>RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement </td>
 <td>
-<p align="center">AVIPOLE FORMATION, Zoopole Les Croix, rue Camille-Guérin, 22400 Ploufragan </p>
+<p align="center">//</p>
 </td>
 <td>
-<p align="center">RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement </p>
+<p align="center">//</p>
 </td>
-<td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, porcins-manipulations et soins-mise à mort</p>
+</td>
+<td align="left" valign="top">
+<p align="center">//</p>
+</td>
+<td align="left" valign="top">
+<p align="center">// </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="left">ADOFIA, 24, rue des Vignoles, 75020 Paris</p>
+</td>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement </p>
+</td>
+<td align="left" valign="top">
+<p align="center">20 septembre 2012 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">20 septembre 2017 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement</p>
+</td>
+<td align="left" valign="top">
+<p align="center">//</p>
+</td>
+<td align="left" valign="top">
+<p align="center">// </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, porcins-manipulations et soins-mise à mort</p>
+</td>
+<td align="left" valign="top">
+<p align="center">//</p>
+</td>
+<td align="left" valign="top">
+<p align="center">// </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">IFIP, Institut du porc, 149, rue de Bercy, 75020 PARIS <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, porcins-manipulations et soins-mise à mort <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">20 septembre 2012 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">20 septembre 2017 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Institut de l'élevage, 149, rue de Bercy, 75020 Paris</p>
+</td>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement </p>
+</td>
+<td align="left" valign="top">
+<p align="center">20 septembre 2012 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">20 septembre 2017 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement</p>
+</td>
+<td align="left" valign="top">
+<p align="center">//</p>
+</td>
+<td align="left" valign="top">
+<p align="center">//</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">AVIPOLE FORMATION, Zoopole Les Croix, rue Camille-Guérin, 22400 Ploufragan </p>
+</td>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement </p>
+</td>
+<td align="left" valign="top">
 <p align="center">1er février 2013 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">31 janvier 2018 <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">GAD FORMATION, 14, rue Louis-Armand, zone industrielle de Kériven, 29600 Saint-Martin-des-Champs </p>
+<td align="left" valign="top">
+<p align="left">GAD FORMATION, 14, rue Louis-Armand, zone industrielle de Kériven, 29600 Saint-Martin-des-Champs </p>
 </td>
-<td>
-<p align="center">Opérateur, porcins-manipulations et soins-mise à mort </p>
+<td align="left" valign="top">
+<p align="left">Opérateur, porcins-manipulations et soins-mise à mort </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1er février 2013 <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">31 janvier 2018<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CFPPA du Gers, 32300 Mirande </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement </p>
+</td>
+<td align="left" valign="top">
+<p align="center">1er juillet 2013</p>
+</td>
+<td align="left" valign="top">
+<p align="center">30 juin 2018</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">IFIP, Institut du porc, 3-5, rue Lespagnol, 75020 Paris </p>
+</td>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement</p>
+<p align="left">RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement </p>
+</td>
+<td align="left" valign="top">
+<p align="center">1er juillet 2013</p>
+</td>
+<td align="left" valign="top">
+<p align="center">30 juin 2018</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Institut de l'élevage, 149, rue de Bercy, 75595 Paris Cedex 12 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">RPA et opérateur, porcins-manipulations et soins-mise à mort </p>
+</td>
+<td align="left" valign="top">
+<p align="center">1er juillet 2013</p>
+</td>
+<td align="left" valign="top">
+<p align="center">30 juin 2018</p>
 </td>
 </tr>
 </tbody>
