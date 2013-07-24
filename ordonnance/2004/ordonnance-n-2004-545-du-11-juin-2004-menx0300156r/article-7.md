@@ -18,23 +18,13 @@ d) L'article 13 ;
 
 4° S'agissant de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France :
 
-a) Au dernier alinéa de l'article 3, les mots suivants : " après consultation du Conseil supérieur de la recherche et de la technologie " ;
-
-b) Les deuxième et troisième alinéas de l'article 10 ;
-
-c) Au troisième alinéa de l'article 15, les mots suivants :
-
-" après consultation du Conseil supérieur de la recherche et de la technologie " ;
-
-d) A la fin du cinquième alinéa de l'article 17, les mots suivants : " après avis du Conseil supérieur de la recherche et de la technologie prévu à l'article 10 " ;
+a) à d) (abrogés)
 
 e) Le deuxième alinéa de l'article 19 ;
 
 f) La dernière phrase du deuxième alinéa de l'article 19-1 ;
 
-g) Au début du premier alinéa de l'article 22, les mots suivants :
-
-" Dans le cadre des responsabilités conférées par la loi au ministre chargé de l'éducation nationale " ;
+g) (abrogé)
 
 h) Le délai mentionné au troisième alinéa de l'article 25-1 ;
 

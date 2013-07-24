@@ -17,3 +17,9 @@ IV. ― Est créée au sein de l'établissement une commission d'établissement 
 Les membres représentant chaque catégorie de fonctionnaires dans la commission d'établissement sont élus à la représentation proportionnelle. Les listes de candidats sont présentées par les organisations syndicales dans les conditions fixées à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. La commission d'établissement est consultée sur les décisions individuelles concernant les membres des corps mentionnés au premier alinéa du présent IV et prépare les travaux des commissions administratives paritaires de ces corps.
 
 Un décret en Conseil d'Etat détermine la composition, l'organisation et le fonctionnement de la commission d'établissement.
+
+V.-Dans la limite du nombre d'emplois résultant de l'affectation  mentionnée au I du présent article, des concours internes de recrutement  dans les corps régis par le décret n° 85-1534 du 31 décembre 1985  fixant les dispositions statutaires applicables aux ingénieurs et aux  personnels techniques et administratifs de recherche et de formation du  ministère chargé de l'enseignement supérieur peuvent être organisés au  sein de l'établissement. Les lauréats de ces concours sont, à titre  dérogatoire, affectés auprès de l'établissement.
+
+VI.-Les  fonctionnaires affectés auprès de l'établissement peuvent bénéficier de  l'accord d'intéressement conclu en application des dispositions du titre  Ier du livre III de la troisième partie du code du travail relatives à  l'intéressement.
+
+Les conditions dans lesquelles ces agents  bénéficient d'un intéressement sont fixées par le conseil  d'administration de l'établissement.
