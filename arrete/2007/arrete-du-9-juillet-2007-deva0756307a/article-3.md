@@ -4,12 +4,6 @@ I. - Sur les liaisons auxquelles le règlement (CEE) n° 2408 / 92 du 23 juillet
 
 II. - La société est également autorisée, sous réserve des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services réguliers de passagers, de courrier et de fret sur les liaisons suivantes :
 
-Jusqu'au 15 juillet 2013
-
-Maroc :
-
-Paris-Marrakech.
-
 Jusqu'au 15 octobre 2014
 
 Turquie :
@@ -105,3 +99,7 @@ Lyon-Oujda (Maroc) ;
 Lille-Agadir (Maroc) ;
 
 Lille-Oujda (Maroc).
+
+Jusqu'au 31 juillet 2018 :
+
+Paris - Marrakech (Maroc).
