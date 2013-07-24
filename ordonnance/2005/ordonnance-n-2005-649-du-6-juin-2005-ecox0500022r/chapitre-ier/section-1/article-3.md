@@ -10,7 +10,7 @@ b) Soit la gestion est soumise à un contrôle par un pouvoir adjudicateur soumi
 
 c) Soit l'organe d'administration, de direction ou de surveillance est composé de membres dont plus de la moitié sont désignés par un pouvoir adjudicateur soumis au code des marchés publics ou à la présente ordonnance ;
 
-2° La Banque de France, l'Institut de France, l'Académie française, l'Académie des inscriptions et belles-lettres, l'Académie des sciences, l'Académie des beaux-arts et l'Académie des sciences morales et politiques ;
+2° La Banque de France, l'Institut de France, l'Académie française, l'Académie des inscriptions et belles-lettres, l'Académie des sciences, l'Académie des beaux-arts, l'Académie nationale de médecine et l'Académie des sciences morales et politiques ;
 
 3° La Caisse des dépôts et consignations ;
 
