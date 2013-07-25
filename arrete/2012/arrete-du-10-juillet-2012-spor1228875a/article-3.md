@@ -1,117 +1,161 @@
 # Article 3
 
-<div>
-<br/>La composition de chacun de ces comités est fixée comme suit :<br/> a) Représentants de l'administration :<br/> ― le directeur du centre de ressources, d'expertise et de performance sportives ou son représentant ;<br/> ― le responsable ayant autorité en matière de gestion des ressources humaines ou son représentant ;<br/> b) Représentants du personnel :<br/>
+La composition de chacun de ces comités est fixée comme suit :
+
+a) Représentants de l'administration :
+
+― le directeur du centre de ressources, d'expertise et de performance sportives ou son représentant ;
+
+― le responsable ayant autorité en matière de gestion des ressources humaines ou son représentant ;
+
+b) Représentants du personnel :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>CREPS </th>
-<th>
-<br/>MEMBRES TITULAIRES<br/>
-</th>
-<th colspan="2">
-<br/>MEMBRES SUPPLÉANTS</th>
+<td>
+<p align="center"> CREPS </p>
+</td>
+<td>
+<p align="center"> MEMBRES TITULAIRES</p>
+</td>
+<td colspan="2">
+<p align="center"> MEMBRES SUPPLÉANTS</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bordeaux</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">
+<p>Bordeaux</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ile-de-France</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">Dijon</td>
+<td>
+<p align="center"> 5</p>
+</td>
+<td>
+<p align="center"> 5</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Montpellier</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">
+<p>Ile-de-France</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pays de la Loire</td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>5</td>
+<td align="left">
+<p>Montpellier</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pointe-à-Pitre </td>
-<td align="center">
-<br/>7</td>
-<td align="center">
-<br/>7</td>
+<td align="left">
+<p>Pays de la Loire</p>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">5<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Poitou-Charentes</td>
-<td align="center">
-<br/>7</td>
-<td align="center">
-<br/>7</td>
+<td align="left">
+<p>Pointe-à-Pitre </p>
+</td>
+<td align="center">7<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Reims</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">
+<p>Poitou-Charentes</p>
+</td>
+<td align="center">7<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>La Réunion</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">
+<p>Reims</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Strasbourg</td>
-<td align="center">
-<br/>7</td>
-<td align="center">
-<br/>7</td>
+<td align="left">
+<p>La Réunion</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sud-Est </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>5</td>
+<td align="left">
+<p>Strasbourg</p>
+</td>
+<td align="center">7<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Toulouse Midi-Pyrénées</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">
+<p>Sud-Est </p>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">5<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Wattignies</td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="left">
+<p>Toulouse Midi-Pyrénées</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
+<tr>
+<td align="left">Vichy</td>
+<td>
+<p align="center"> 4</p>
+</td>
+<td>
+<p align="center"> 4</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>Wattignies</p>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
+</tr>
+</tbody>
 </table>
 
 </div>
-<br/>
-<br/> c) Le médecin de prévention et l'assistant de prévention du centre de ressources, d'expertise et de performance sportives ;<br/> d) L'inspecteur santé et sécurité au travail.</div>
+
+c) Le médecin de prévention et l'assistant de prévention du centre de ressources, d'expertise et de performance sportives ;
+
+d) L'inspecteur santé et sécurité au travail.
