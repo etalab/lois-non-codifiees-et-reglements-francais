@@ -1,0 +1,3 @@
+# Article 2
+
+Le candidat justifiant de l'obtention de la totalité des modules de formation théorique et pratique au brevet de capitaine 200 voile obtient dans un délai de cinq ans à compter de celle-ci, sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, l'unité capitalisable 4 (UC4) du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « voile », s'il justifie être titulaire de l'attestation de formation au dispositif de sécurisation des activités nautiques et de l'attestation de formation au dispositif de surveillance et d'intervention des activités de voile, délivrées par le directeur technique national de la Fédération française de voile.
