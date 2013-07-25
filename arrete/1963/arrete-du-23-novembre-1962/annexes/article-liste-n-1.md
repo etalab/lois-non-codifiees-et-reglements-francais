@@ -239,7 +239,7 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </tr>
 <tr>
 <td align="center">
-<br/>Auch-Lamothe</td>
+<br/>Auch-Gers</td>
 <td align="center">
 <br/>Gers</td>
 <td align="center">
