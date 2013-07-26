@@ -1081,7 +1081,6 @@
 - [Décret n°2008-630 du 30 juin 2008 (PRMX0815961D)](decret-n2008-630-du-30-juin-2008-prmx0815961d)
 - [Décret n°2008-634 du 30 juin 2008 (IMIK0812451D)](decret-n2008-634-du-30-juin-2008-imik0812451d)
 - [Décret n°2008-635 du 30 juin 2008 (AGRS0812221D)](decret-n2008-635-du-30-juin-2008-agrs0812221d)
-- [Décret n°2008-636 du 30 juin 2008 (AGRS0812195D)](decret-n2008-636-du-30-juin-2008-agrs0812195d)
 - [Décret n°2008-637 du 30 juin 2008 (MTSS0813151D)](decret-n2008-637-du-30-juin-2008-mtss0813151d)
 - [Décret n°2008-638 du 30 juin 2008 (MTSS0815373D)](decret-n2008-638-du-30-juin-2008-mtss0815373d)
 - [Décret n°2008-639 du 30 juin 2008 (MTSS0813153D)](decret-n2008-639-du-30-juin-2008-mtss0813153d)
