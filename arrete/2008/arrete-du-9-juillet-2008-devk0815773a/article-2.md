@@ -18,4 +18,6 @@ Le secrétariat général, outre le cabinet, comprend :
 
 ― le service de défense, de sécurité et d'intelligence économique ;
 
-- la délégation aux cadres dirigeants.
+- la délégation aux cadres dirigeants ;
+
+- la délégation ministérielle à l'accessibilité.

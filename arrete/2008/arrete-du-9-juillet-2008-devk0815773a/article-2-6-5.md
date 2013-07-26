@@ -26,7 +26,7 @@ Enfin, il est chargé de la maîtrise d'ouvrage des projets immobiliers de l'adm
 
 La délégation à l'action foncière et immobilière est rattachée au chef du service du pilotage et de l'évolution des services.
 
-La délégation à l'action foncière et immobilière est dirigée par le délégué à l'action foncière et immobilière nommé par arrêté du ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire. Il a autorité sur les personnels de la délégation.
+La délégation à l'action foncière et immobilière est placée sous l'autorité d'un chef de service, délégué à l'action foncière et immobilière. Il a autorité sur les personnels de la délégation.
 
 Le délégué est assisté, pour l'ensemble de ses attributions, par un délégué adjoint à l'action foncière et immobilière, nommé par le ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
 

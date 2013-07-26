@@ -28,6 +28,4 @@ Elle comprend :
 
 ― le bureau " réseaux de transport et de distribution électriques " ;
 
-― le bureau " réglementation de l'énergie et des marchés " ;
-
 ― mission du financement de l'électrification rurale.

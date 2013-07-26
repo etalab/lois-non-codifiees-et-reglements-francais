@@ -14,7 +14,7 @@ La sous-direction des affaires financières et du contrôle de gestion est charg
 
 ― d'assurer la maîtrise d'ouvrage du système d'information financier central et de l'ensemble de ses composantes en liaison avec le service des systèmes d'information et de la modernisation ;
 
-― de définir et de mettre en œuvre, dans le cadre de la politique du ministère, la politique des achats de la direction générale de l'aviation civile et d'assister le représentant du pouvoir adjudicateur ou de l'entité adjudicatrice ;
+― de préparer et de conclure les marchés et conventions relatifs aux domaines de compétences de la direction dans la limite des attributions dévolues au service du secrétariat général gérant les prestations communes.
 
 Elle comprend :
 

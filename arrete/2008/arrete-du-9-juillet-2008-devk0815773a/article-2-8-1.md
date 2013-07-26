@@ -1,8 +1,8 @@
 # Article 2.8.1
 
-La sous-direction du budget et des contrôles, en liaison avec les directions d'administration centrale et les responsables de programme, prépare les projets de loi de finances et les arbitrages budgétaires et assure la coordination de tous les travaux associés au domaine budgétaire et fiscal.
+La sous-direction du budget et des contrôles, en liaison avec les directions d'administration centrale et les responsables de programme, prépare les projets de loi de finances et les arbitrages budgétaires et assure la coordination de tous les travaux associés au domaine budgétaire et fiscal pour le compte du secrétaire général, responsable de la fonction financière ministérielle.
 
-Elle assure le suivi et le contrôle de l'exécution budgétaire, en lien avec le contrôleur budgétaire et comptable du ministère. Elle établit la comptabilité d'analyse des coûts des programmes et le suivi de la performance dans les documents budgétaires.
+Cette sous-direction assure le suivi et le contrôle de l'exécution budgétaire, en lien avec le contrôleur budgétaire et comptable du ministère. Elle établit la comptabilité d'analyse des coûts des programmes et le suivi de la performance dans les documents budgétaires.
 
 Elle effectue l'analyse de l'exécution des lois de finances pour la Cour des comptes et la production des documents nécessaires à l'élaboration de la loi de règlement. Elle participe à la préparation des projets de loi portant diverses dispositions d'ordre économique et financier.
 
@@ -24,7 +24,7 @@ Elle anime le réseau des correspondants du contrôle interne comptable dans les
 
 Elle élabore les textes de désignation des ordonnateurs secondaires, les textes portant création des régies d'avances et de recettes, la nomination des régisseurs.
 
-Elle est le correspondant du ministère pour la Cour des comptes et le représentant de l'ordonnateur principal délégué pour le compte de commerce des parcs et ateliers de l'équipement.
+Elle est le correspondant du ministère pour la Cour des comptes.
 
 Elle est responsable de l'animation de la fonction comptable ministérielle ; elle anime le réseau des responsables comptables.
 

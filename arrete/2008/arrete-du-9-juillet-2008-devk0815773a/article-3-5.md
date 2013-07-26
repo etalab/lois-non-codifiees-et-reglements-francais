@@ -4,9 +4,9 @@ La sous-direction des affaires générales du commissariat général est chargé
 
 A ce titre, elle est notamment chargée d'assurer la gestion de proximité des agents affectés au commissariat (gestion prévisionnelle des emplois, suivi des équivalents temps plein, préparation des cycles de mobilité, propositions d'avancement, évaluation des agents, proposition des primes et indemnités) en liaison avec le secrétariat général du ministère.
 
-Elle est également chargée d'organiser le dialogue social du commissariat ( comité technique spécial, commission locale de formation), d'élaborer le plan de formation du commissariat et d'assurer la maîtrise d'ouvrage des formations métiers correspondantes. Elle assure la fonction de correspondant hygiène et sécurité.
+Elle est également chargée d'organiser le dialogue social du commissariat (comité technique spécial, commission locale de formation), d'élaborer le plan de formation du commissariat et d'assurer la maîtrise d'ouvrage des formations métiers correspondantes. Elle assure la fonction de correspondant hygiène et sécurité.
 
-Elle est chargée d'assurer un suivi et un contrôle interne de la régularité des procédures d'achat public dans les domaines de compétences du commissariat général, sans préjudice des attributions dévolues au secrétariat général.
+Elle est chargée de préparer et de conclure les marchés et conventions relatifs aux domaines de compétences du commissariat dans la limite des attributions dévolues au service du secrétariat général gérant les prestations communes.
 
 Elle assure la maîtrise d'ouvrage des applications et outils informatiques correspondant aux activités et aux métiers dans le domaine de compétences du commissariat.
 

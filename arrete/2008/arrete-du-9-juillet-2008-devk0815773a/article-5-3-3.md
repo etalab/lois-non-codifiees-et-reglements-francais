@@ -2,7 +2,9 @@
 
 La sous-direction des activités maritimes exerce les attributions suivantes :
 
-― en liaison avec les services du secrétariat général et du service de l'administration générale et de la stratégie, préparation et exécution des budgets des programmes relevant de la responsabilité de la direction des affaires maritimes, préparation des documents annuels de performance et préparation du dialogue de gestion avec les services et organismes relevant de la direction des affaires maritimes.
+― en liaison avec les services du secrétariat général et du service de l'administration générale et de la stratégie, préparation et exécution des budgets des programmes relevant de la responsabilité de la direction des affaires maritimes, préparation des documents annuels de performance et préparation du dialogue de gestion avec les services et organismes relevant de la direction des affaires maritimes ;
+
+― préparation et conclusion des marchés et conventions relatifs aux domaines de compétences de la direction dans la limite des attributions dévolues au service du secrétariat général gérant les prestations communes ;
 
 ― participation à l'élaboration et à la mise en œuvre de l'action de l'Etat en mer , notamment de la fonction garde-côtes ;
 

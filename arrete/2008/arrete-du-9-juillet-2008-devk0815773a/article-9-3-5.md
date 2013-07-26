@@ -1,0 +1,3 @@
+# Article 9.3.5
+
+La mission des affaires générales est chargée d'assurer la gestion des moyens communs à l'ensemble de la direction. Elle assure le suivi des relations avec le personnel et la gestion administrative de proximité des agents. Elle prépare les éléments du budget du ressort de la direction et en assure l'exécution. Elle est chargée de préparer et conclure les marchés et conventions relatifs aux domaines de compétence de la direction dans la limite des attributions dévolues au service du secrétariat général gérant les prestations communes. Elle est la correspondante de la direction de la communication pour les questions de communication.
