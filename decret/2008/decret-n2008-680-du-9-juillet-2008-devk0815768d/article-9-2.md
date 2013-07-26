@@ -1,0 +1,7 @@
+# Article 9-2
+
+<div align="left">La  direction des pêches maritimes et de l'aquaculture élabore et met en  œuvre la politique en matière de pêches maritimes, de produits de la mer  et d'aquaculture marine et continentale. Elle contribue aux  négociations internationales et communautaires relatives à cette  politique.<br/>
+<br/> Elle élabore les réglementations relatives à  l'exercice des pêches maritimes et des autorisations de cultures marines  et veille à leur application.<br/>
+<br/> Elle élabore la politique de contrôle et de  surveillance de ces activités, décide des actions à mener et veille à  leur application.<br/>
+<br/> Elle détermine la politique d'aide à  l'investissement et de financement des entreprises de pêche maritime et  de pêche professionnelle en eau douce, de produits de la mer et  d'aquaculture.<br/>
+<br/> Elle exerce, pour le compte du ministre chargé  des pêches maritimes et des cultures marines, la tutelle sur l'Institut  français de recherche pour l'exploitation de la mer, et, pour les  activités relevant de son domaine de compétence, sur l'Etablissement  national des produits de l'agriculture et de la mer (FranceAgriMer) ;  elle est chargée du contrôle de l'organisation professionnelle des  pêches maritimes et des élevages marins, de l'organisation  interprofessionnelle de la conchyliculture, de l'organisation  interprofessionnelle de la pisciculture et des organismes de la  coopération maritime et du Crédit maritime mutuel.</div>
