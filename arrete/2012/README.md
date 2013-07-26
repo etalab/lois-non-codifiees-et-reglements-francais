@@ -435,7 +435,6 @@
 - [Arrêté du 6 janvier 2012 (IOCB1129981A)](arrete-du-6-janvier-2012-iocb1129981a)
 - [Arrêté du 6 janvier 2012 (SCSA1135502A)](arrete-du-6-janvier-2012-scsa1135502a)
 - [Arrêté du 6 juillet 2000 (MENF0001968A)](arrete-du-6-juillet-2000-menf0001968a)
-- [Arrêté du 6 juillet 2012 (AFSS1228489A)](arrete-du-6-juillet-2012-afss1228489a)
 - [Arrêté du 6 juillet 2012 (ETSD1207056A)](arrete-du-6-juillet-2012-etsd1207056a)
 - [Arrêté du 6 juillet 2012 (INTJ1229600A)](arrete-du-6-juillet-2012-intj1229600a)
 - [Arrêté du 6 juin 1984](arrete-du-6-juin-1984)
