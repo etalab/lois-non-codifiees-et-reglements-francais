@@ -1079,7 +1079,6 @@
 - [Décret n°2009-1043 du 27 août 2009 (DEVP0908248D)](decret-n2009-1043-du-27-aout-2009-devp0908248d)
 - [Décret n°2009-1046 du 27 août 2009 (ECEL0824288D)](decret-n2009-1046-du-27-aout-2009-ecel0824288d)
 - [Décret n°2009-1047 du 27 août 2009 (ECEL0915052D)](decret-n2009-1047-du-27-aout-2009-ecel0915052d)
-- [Décret n°2009-1048 du 27 août 2009 (ECEI0911834D)](decret-n2009-1048-du-27-aout-2009-ecei0911834d)
 - [Décret n°2009-1049 du 27 août 2009 (MTST0910764D)](decret-n2009-1049-du-27-aout-2009-mtst0910764d)
 - [Décret n°2009-1050 du 27 août 2009 (MTSS0916786D)](decret-n2009-1050-du-27-aout-2009-mtss0916786d)
 - [Décret n°2009-1296 du 27 octobre 2009 (DEVU0908436D)](decret-n2009-1296-du-27-octobre-2009-devu0908436d)
