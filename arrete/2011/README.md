@@ -2444,7 +2444,6 @@
 - [Arrêté du 27 juin 2011 (AGRS1117335A)](arrete-du-27-juin-2011-agrs1117335a)
 - [Arrêté du 27 juin 2011 (AGRT1115188A)](arrete-du-27-juin-2011-agrt1115188a)
 - [Arrêté du 27 juin 2011 (AGRT1117162A)](arrete-du-27-juin-2011-agrt1117162a)
-- [Arrêté du 27 juin 2011 (BCRP1117294A)](arrete-du-27-juin-2011-bcrp1117294a)
 - [Arrêté du 27 juin 2011 (DEFD1111679A)](arrete-du-27-juin-2011-defd1111679a)
 - [Arrêté du 27 juin 2011 (DEFH1117834A)](arrete-du-27-juin-2011-defh1117834a)
 - [Arrêté du 27 juin 2011 (DEVK1117141A)](arrete-du-27-juin-2011-devk1117141a)
