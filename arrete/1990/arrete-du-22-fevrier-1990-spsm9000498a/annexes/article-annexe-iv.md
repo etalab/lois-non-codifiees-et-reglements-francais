@@ -165,3 +165,5 @@ Tilétamine et ses sels, à l'exception de leurs préparations injectables
 TMA-2 ou 2,4,5-triméthoxyamphétamine
 
 4-méthylamphétamine
+
+5-IT ou 5-(2-aminopropyl) indole
