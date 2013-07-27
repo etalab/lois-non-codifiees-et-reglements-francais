@@ -6,19 +6,19 @@ I.-Sont enregistrées comme dossier en cours d'instruction :
 
 ― les saisines des commissions de surendettement qui sont communiquées par ces dernières à la Banque de France ;
 
-― les décisions de recevabilité prises par le juge de l'exécution en cas de recours, qui sont communiquées à la Banque de France par le gref fe du juge de l'exécution en application du III de l'article L. 333-4 du code de la consommation ;
+― les décisions de recevabilité prises par le    juge du tribunal d'instance en cas de recours, qui sont communiquées à la Banque de France par le greffe du tribunal d'instance en application du III de l'article L. 333-4 du code de la consommation ;
 
-― en cas de recours sur la décision de déchéance prise par la commission de surendettement en application de l'article L. 333-2, la décision prise par le juge de l'exécution de poursuivre l'étude du dossier après avoir infirmé la décision de la commission. Cette décision est communiquée à la Banque de France par le greffe du juge de l'exécution.
+― en cas de recours sur la décision de déchéance prise par la commission de surendettement en application de l'article L. 333-2, la décision prise par le    juge du tribunal d'instance de poursuivre l'étude du dossier après avoir infirmé la décision de la commission. Cette décision est communiquée à la Banque de France par le greffe du tribunal d'instance.
 
 L'inscription des dossiers en cours d'instruction est conservée dans le fichier pour une durée de trente-six mois et peut faire l'objet de prorogations par période d'un an décidées par la commission.
 
 II.-L'inscription des dossiers en cours d'instruction est radiée :
 
-― lorsque le dossier est irrecevable à la procédure de traitement du surendettement. La commission informe immédiatement la Banque de France de cette irrecevabilité. En cas de recours, le greffe du juge de l'exécution communique à la Banque de France le jugement confirmant l'irrecevabilité ;
+― lorsque le dossier est irrecevable à la procédure de traitement du surendettement. La commission informe immédiatement la Banque de France de cette irrecevabilité. En cas de recours, le greffe du tribunal d'instance communique à la Banque de France le jugement confirmant l'irrecevabilité ;
 
-― lorsque la déchéance a été prononcée en vertu de l'article L. 333-2 du code de la consommation. La commission informe immédiatement la Banque de France de cette déchéance. En cas de recours, le greffe du juge de l'exécution communique à la Banque de France le jugement confirmant la déchéance ;
+― lorsque la déchéance a été prononcée en vertu de l'article L. 333-2 du code de la consommation. La commission informe immédiatement la Banque de France de cette déchéance. En cas de recours, le greffe du tribunal d'instance communique à la Banque de France le jugement confirmant la déchéance ;
 
-― en cas d'extinction de l'instance devant le juge de l'exécution portée à la connaissance de la Banque de France par le greffe.
+― en cas d'extinction de l'instance devant le    juge du tribunal d'instance portée à la connaissance de la Banque de France par le greffe.
 
 III.-L'inscription des dossiers en cours d'instruction est remplacée par l'inscription d'une mesure :
 
@@ -28,11 +28,11 @@ III.-L'inscription des dossiers en cours d'instruction est remplacée par l'insc
 
 ― la commission informe la Banque de France que les mesures définies à l'article L. 331-7 du même code s'imposent aux parties ;
 
-― le greffe du juge de l'exécution communique à la Banque de France les informations concernant les mesures prises en vertu des articles L. 331-7, L. 331-7-1 et L. 331-7-2 du même code.
+― le greffe du tribunal d'instance communique à la Banque de France les informations concernant les mesures prises en vertu des articles L. 331-7, L. 331-7-1 et L. 331-7-2 du même code.
 
 L'inscription de ces mesures est conservée pendant toute la durée d'exécution de celles-ci, sans pouvoir excéder huit ans.
 
-2° Lorsque le greffe du juge de l'exécution communique à la Banque de France les décisions du juge relatives à la clôture de la procédure de rétablissement personnel avec liquidation judiciaire ou à la décision du juge donnant force exécutoire à la recommandation de rétablissement personnel sans liquidation judiciaire en vertu des articles L. 332-5 et suivants du code de la consommation.
+2° Lorsque le greffe du tribunal d'instance communique à la Banque de France les décisions du juge relatives à la clôture de la procédure de rétablissement personnel avec liquidation judiciaire ou à la décision du juge donnant force exécutoire à la recommandation de rétablissement personnel sans liquidation judiciaire en vertu des articles L. 332-5 et suivants du code de la consommation.
 
 L'inscription de ces décisions est maintenue pour une période de cinq ans.
 

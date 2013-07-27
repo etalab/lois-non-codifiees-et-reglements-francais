@@ -4,7 +4,7 @@ Par exception aux dispositions des articles 1er et 2, dans les départements de 
 
 Par exception aux dispositions de l'article 2, dans le département de l'Hérault la chasse à la foulque macroule est ouverte le premier jour de la troisième décade d'août à 6 heures.
 
-Par exception aux dispositions de l'article 2, dans le département de la Gironde, la chasse des canards de surface, des canards plongeurs, des oies et des limicoles (excepté le vanneau huppé) est ouverte le premier jour de la deuxième décade d'août, à 6 heures, sur les territoires mentionnés à l'article L. 424-6 du code de l'environnement des cantons de Saint-Vivien-de-Médoc, Lesparre-Médoc, Saint-Ciers-sur-Gironde et Blaye. Le tir est limité sur la nappe d'eau depuis l'intérieur des installations de chasse avec fusil déchargé à l'aller et au retour de la tonne.
+Par exception aux dispositions de l'article 2, dans le département de la Gironde, la chasse des canards de surface, des canards plongeurs, des oies et des limicoles (excepté le vanneau huppé) est ouverte le premier samedi d'août, à 6 heures, sur les territoires mentionnés à l'article L. 424-6 du code de l'environnement des cantons de Saint-Vivien-de-Médoc, Lesparre-Médoc, Saint-Ciers-sur-Gironde et Blaye. Le tir est limité sur la nappe d'eau depuis l'intérieur des installations de chasse avec fusil déchargé à l'aller et au retour de la tonne.
 
 Par exception aux dispositions de l'article 2, dans le département de l'Hérault, la chasse des oies, des canards de surface, des canards plongeurs, des rallidés et des limicoles (excepté le vanneau huppé) est ouverte le 15 août à 6 heures :
 
@@ -12,7 +12,7 @@ Par exception aux dispositions de l'article 2, dans le département de l'Héraul
 
 -sur les étangs et marais non asséchés, salés ou saumâtres suivants : étangs palavasiens Vic, Méjean et Grec.
 
-Par exception aux dispositions de l'article 2, dans le département du Gard, la chasse des oies, des canards de surface, des canards plongeurs, des rallidés et des limicoles (excepté le vanneau huppé) est ouverte le 15 août à 6 heures sur la partie du domaine public maritime amodiée à l'association de chasse maritime de l'étang de l'Or.
+Par exception aux dispositions de l'article 2, dans le département du Gard, la chasse des oies, des canards de surface, des canards plongeurs, des rallidés et des limicoles (excepté le vanneau huppé) est ouverte le 15 août à 6 heures sur la partie du domaine public de l'étang de l'Or amodiée à l'Association des chasseurs et propriétaires d'Aigues-Mortes.
 
 Dans les départements de l'Hérault et du Gard, dans les secteurs énumérés ci-dessus, l'emploi des chiens est interdit du 15 août au premier jour de la troisième décade de ce mois.
 

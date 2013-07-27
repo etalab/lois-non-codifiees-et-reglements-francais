@@ -4,7 +4,7 @@ Modalités et contenu de la déclaration.
 
 I. ― Pour chaque incident de paiement caractérisé devenu déclarable, les établissements et organismes mentionnés à l'article 1er communiquent à la Banque de France au plus tard le quatrième jour ouvré suivant la date à laquelle l'incident est devenu déclarable, sous peine des sanctions prévues à l'article 16 :
 
-― le nom de famille et le nom marital, les prénoms dans l'ordre de l'état civil, la date de naissance, le sexe, le code géographique du lieu de naissance pour les personnes nées en France métropolitaine, dans les départements d'outre-mer (DOM) et dans les communautés d'outre-mer (COM), ou le lieu de naissance et code ISO du pays de naissance pour les personnes nées à l'étranger ;
+― le nom de famille et le nom marital, les prénoms dans l'ordre de l'état civil, la date de naissance, le sexe, le code géographique du lieu de naissance pour les personnes nées en France métropolitaine, dans les départements d'outre-mer (DOM), dans le Département de Mayotte, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, ou le lieu de naissance et code ISO du pays de naissance pour les personnes nées à l'étranger ;
 
 ― la nature du crédit ayant donné lieu à l'incident de paiement ;
 
