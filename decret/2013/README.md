@@ -394,6 +394,8 @@
 - [Décret n°2013-534 du 24 juin 2013 (AGRT1303657D)](decret-n2013-534-du-24-juin-2013-agrt1303657d)
 - [Décret n°2013-535 du 24 juin 2013 (AGRS1311549D)](decret-n2013-535-du-24-juin-2013-agrs1311549d)
 - [Décret n°2013-536 du 24 juin 2013 (RDFB1309064D)](decret-n2013-536-du-24-juin-2013-rdfb1309064d)
+- [Décret n°2013-670 du 24 juillet 2013 (ETLL1307423D)](decret-n2013-670-du-24-juillet-2013-etll1307423d)
+- [Décret n°2013-671 du 24 juillet 2013 (ETLL1314777D)](decret-n2013-671-du-24-juillet-2013-etll1314777d)
 - [Décret n°2013-77 du 24 janvier 2013 (MENE1301789D)](decret-n2013-77-du-24-janvier-2013-mene1301789d)
 - [Décret n°2013-82 du 24 janvier 2013 (AGRT1240853D)](decret-n2013-82-du-24-janvier-2013-agrt1240853d)
 - [Décret n°2013-83 du 24 janvier 2013 (AGRT1235833D)](decret-n2013-83-du-24-janvier-2013-agrt1235833d)
