@@ -29,3 +29,4 @@
 - [LOI n°2013-659 du 22 juillet 2013 (MAEX1301702L)](loi-n2013-659-du-22-juillet-2013-maex1301702l)
 - [LOI n°2013-660 du 22 juillet 2013 (ESRJ1304228L)](loi-n2013-660-du-22-juillet-2013-esrj1304228l)
 - [LOI n°2013-669 du 25 juillet 2013 (JUSX1302549L)](loi-n2013-669-du-25-juillet-2013-jusx1302549l)
+- [LOI n°2013-672 du 26 juillet 2013 (EFIX1239994L)](loi-n2013-672-du-26-juillet-2013-efix1239994l)

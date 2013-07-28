@@ -1,0 +1,7 @@
+# Article 34
+
+I. ― Les fonds communs d'intervention sur les marchés à terme relevant de l'article L. 214-42 dans sa rédaction antérieure à l'ordonnance du 1er août 2011 susvisée, existants au jour de la publication de la présente ordonnance, peuvent, soit se placer sous le régime d'un fonds ouvert à des investisseurs professionnels, sous réserve d'avoir informé au préalable chaque porteur de parts ou d'actions, soit, s'ils se transforment en un OPCVM ou un FIA autre qu'un fonds ouvert à des investisseurs professionnels, demander leur agrément avant le 22 juillet 2014.
+
+II. ― Les OPCVM bénéficiant d'une procédure allégée relevant de l'article L. 214-35 dans sa rédaction antérieure à la loi n° 2003-706 du 1er août 2003 de sécurité financière, existants au jour de la publication de la présente ordonnance, peuvent soit se placer sous le régime d'un fonds ouvert à des investisseurs professionnels sous réserve d'avoir informé au préalable chaque porteur de parts ou d'actions, soit, lorsqu'il s'agit d'un FIA autre qu'un fonds ouvert à des investisseurs professionnels, demander leur agrément avant le 22 juillet 2014.
+
+III. ― Les fonds communs de créance relevant de l'article L. 214-43 dans sa rédaction antérieure à la date de publication de l'ordonnance du 13 juin 2008 susvisée, existants au jour de la publication de la présente ordonnance, doivent se placer sous le régime des organismes de titrisation avant le 22 juillet 2014.

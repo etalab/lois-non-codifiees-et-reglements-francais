@@ -1,0 +1,3 @@
+# Article 4
+
+La préparation au cycle terminal du baccalauréat professionnel par la voie de l'enseignement à distance, pour les catégories de candidats mentionnés à l'article 3, dure deux années. Cette durée peut être réduite à une année après une décision de positionnement prenant en compte les études suivies, les titres ou diplômes possédés, les compétences professionnelles ainsi que les dispenses d'épreuves dont le stagiaire peut bénéficier au titre de la validation des acquis académiques et, le cas échéant, de la validation des acquis de l'expérience, après avis du responsable de formation.
