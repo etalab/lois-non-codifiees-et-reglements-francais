@@ -8,6 +8,6 @@ Les exploitations faisant l'objet d'un APMS ou un APDI au titre des articles 9 �
 
 3. Dépistage par réalisation de tests rapides autorisés pour la recherche des EST visés au 4 du II de l'article 3 sur la totalité ou sur un échantillon des ovins âgés de plus de dix-huit mois euthanasiés, morts ou mis à la réforme, dans les conditions fixées par une instruction du ministre chargé de l'agriculture.
 
-4. Lorsque le préfet le décide pour faciliter le suivi sanitaire de l'exploitation, surveillance par visite sanitaire périodique de l'exploitation, par la direction départementale des services vétérinaires ou par le vétérinaire sanitaire, dans les conditions fixées par une instruction du ministre chargé de l'agriculture.
+4. Lorsque le préfet le décide pour faciliter le suivi sanitaire de l'exploitation, surveillance par visite sanitaire périodique de l'exploitation, par la direction départementale  en charge de la protection des populations  ou par le vétérinaire sanitaire, dans les conditions fixées par une instruction du ministre chargé de l'agriculture.
 
 5. Les animaux soumis à la présente surveillance en vertu de l'article 9 ne peuvent être abattus en dehors d'un abattoir en vue de l'autoconsommation que s'ils sont âgés de moins de 18 mois, sans préjudice de l'obligation de retrait et de destruction des matériels à risque spécifiés.

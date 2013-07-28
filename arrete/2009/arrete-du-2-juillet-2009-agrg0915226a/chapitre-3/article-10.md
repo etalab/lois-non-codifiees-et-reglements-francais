@@ -2,13 +2,13 @@
 
 En cas de confirmation d'un cas de tremblante classique, et dans les situations assimilées prévues à l'article 8, les mesures suivantes s'appliquent :
 
-I. - Ovin dit « sédentaire » : APDI.
+I.-Ovin dit "sédentaire" : APDI.
 
-Si l'ovin atteint de tremblante classique a toujours séjourné dans la même exploitation depuis sa naissance et au moins jusqu'à six mois avant la suspicion, le préfet prend, sur proposition du directeur départemental des services vétérinaires, un arrêté portant déclaration d'infection de l'exploitation de naissance de l'ovin. L'APDI entraîne l'application des mesures suivantes :
+Si l'ovin atteint de tremblante classique a toujours séjourné dans la même exploitation depuis sa naissance et au moins jusqu'à six mois avant la suspicion, le préfet prend, sur proposition du directeur départemental  en charge de la protection des populations , un arrêté portant déclaration d'infection de l'exploitation de naissance de l'ovin. L'APDI entraîne l'application des mesures suivantes :
 
 A. ― Dispositions relatives à l'assainissement :
 
-1. Prélèvement sanguin et génotypage aux quatre codons du gène PrP de l'ensemble des ovins de l'exploitation ainsi que de la première génération d'ovins nés, dans les cinq mois suivant la prise de l'APDI, des femelles considérées comme génétiquement résistantes à la tremblante classique ; le directeur départemental des services vétérinaires peut décider que les animaux dont les génotypes sont connus selon les modalités fixées par instruction du ministre chargé de l'agriculture ne subissent pas de prélèvement sanguin et de génotypage, leur sensibilité ou leur résistance ainsi connue étant prise en compte.
+1. Prélèvement sanguin et génotypage aux quatre codons du gène PrP de l'ensemble des ovins de l'exploitation ainsi que de la première génération d'ovins nés, dans les cinq mois suivant la prise de l'APDI, des femelles considérées comme génétiquement résistantes à la tremblante classique ; le directeur départemental  en charge de la protection des populations  peut décider que les animaux dont les génotypes sont connus selon les modalités fixées par instruction du ministre chargé de l'agriculture ne subissent pas de prélèvement sanguin et de génotypage, leur sensibilité ou leur résistance ainsi connue étant prise en compte.
 
 2. Marquage, dans les conditions définies par instruction du ministre chargé de l'agriculture, des ovins de l'exploitation appartenant aux catégories considérées comme génétiquement sensibles et très sensibles à la tremblante classique.
 
@@ -24,9 +24,9 @@ c) Prolonger le délai d'abattage à cinq mois au lieu d'un mois s'il s'agit d'u
 
 Pendant ces périodes dérogatoires, sont également euthanasiés dans le délai d'un mois, et leurs cadavres détruits conformément au règlement CE/1774/2002, les ovins âgés de moins de six mois et considérés comme génétiquement sensibles et très sensibles à la tremblante classique.
 
-5. En dérogation aux points 1 à 4, peuvent être exemptés de génotypage, de marquage et expédiés directement à l'abattoir tous les agneaux âgés de moins de trois mois, sous couvert d'un laissez-passer émis par le directeur départemental des services vétérinaires. Sans préjudice de l'obligation de retrait et de destruction des matériels à risque spécifiés, la totalité des intestins et de la tête de ces animaux devra être retirée de la consommation humaine et animale puis détruite.
+5. En dérogation aux points 1 à 4, peuvent être exemptés de génotypage, de marquage et expédiés directement à l'abattoir tous les agneaux âgés de moins de trois mois, sous couvert d'un laissez-passer émis par le directeur départemental  en charge de la protection des populations . Sans préjudice de l'obligation de retrait et de destruction des matériels à risque spécifiés, la totalité des intestins et de la tête de ces animaux devra être retirée de la consommation humaine et animale puis détruite.
 
-6. En dérogation aux points 1 à 4, peuvent être exemptés de génotypage, de marquage et expédiés directement à l'abattoir, sous couvert d'un laissez-passer émis par le directeur départemental des services vétérinaires, les animaux pour lesquels il peut être établi avec certitude qu'au moins l'un des deux parents est de génotype homozygote résistant. Sans préjudice de l'obligation de retrait et de destruction des matériels à risque spécifiés, la totalité des intestins et de la tête de ces animaux devra être retirée de la consommation humaine et animale puis détruite.
+6. En dérogation aux points 1 à 4, peuvent être exemptés de génotypage, de marquage et expédiés directement à l'abattoir, sous couvert d'un laissez-passer émis par le directeur départemental  en charge de la protection des populations , les animaux pour lesquels il peut être établi avec certitude qu'au moins l'un des deux parents est de génotype homozygote résistant. Sans préjudice de l'obligation de retrait et de destruction des matériels à risque spécifiés, la totalité des intestins et de la tête de ces animaux devra être retirée de la consommation humaine et animale puis détruite.
 
 7. Après l'euthanasie de l'ensemble ou de la majeure partie des animaux marqués, réalisation d'un nettoyage et d'une désinfection complète de l'exploitation dans les conditions fixées par instruction du ministre chargé de l'agriculture.
 
@@ -38,7 +38,7 @@ C. ― Autres dispositions :
 
 1. Interdiction de sortir de l'exploitation, et en particulier de mettre en pâture collective, des ovins génétiquement sensibles ou très sensibles.
 
-2. Interdiction pour l'éleveur, le détenteur ou le propriétaire des animaux de livrer à la consommation humaine le lait et les produits laitiers provenant, totalement ou en partie, des ovins génétiquement sensibles ou de génotype inconnu de l'exploitation. Néanmoins, cette interdiction ne s'applique pas au lait des animaux de génotype ARR/VRQ et assimilé. Le lait et les produits ainsi écartés de la consommation humaine ne doivent pas non plus être destinés à l'alimentation des espèces de rente, excepté à l'alimentation des animaux du troupeau.
+2. Interdiction pour l'éleveur, le détenteur ou le propriétaire des animaux de livrer à la consommation humaine le lait et les produits laitiers provenant, totalement ou en partie, des ovins génétiquement sensibles ou de génotype inconnu de l'exploitation. Néanmoins, cette interdiction ne s'applique pas au lait des animaux de génotype ARR/ VRQ et assimilé. Le lait et les produits ainsi écartés de la consommation humaine ne doivent pas non plus être destinés à l'alimentation des espèces de rente, excepté à l'alimentation des animaux du troupeau.
 
 3. Obligation pour l'éleveur, le détenteur ou le propriétaire des animaux de ne vendre ou ne céder des ovins génétiquement résistants que :
 
@@ -48,7 +48,7 @@ C. ― Autres dispositions :
 
 ― à destination d'un abattoir.
 
-Ces ventes et cessions doivent être déclarées au directeur départemental des services vétérinaires.
+Ces ventes et cessions doivent être déclarées au directeur départemental  en charge de la protection des populations.
 
 4. En dérogation au point précédent, les ovins de génotype homozygote résistant ne font l'objet d'aucune restriction de mouvement.
 
@@ -56,11 +56,11 @@ Ces ventes et cessions doivent être déclarées au directeur départemental des
 
 6. L'APDI est levé par le préfet après l'euthanasie de l'ensemble des ovins marqués et une période de deux ans suivant la détection du dernier cas de tremblante classique dans l'exploitation.
 
-II. ― Ovin dit « sédentaire » : APMS de contrôle pour recherche des cohortes.
+II. ― Ovin dit "sédentaire" : APMS de contrôle pour recherche des cohortes.
 
 Lorsqu'une exploitation est placée sous APDI en application du point précédent, des investigations doivent être menées afin de rechercher les ovins qui ont été élevés, à un quelconque moment des douze premiers mois de leur existence, avec l'animal atteint de tremblante classique alors que ce dernier était âgé de moins de un an et qui ont été vendus ou cédés à d'autres exploitations à partir de cette exploitation sous APDI. L'exploitation de chacun de ces ovins est placée sous APMS de contrôle entraînant l'application des mesures suivantes :
 
-1. Prélèvement et génotypage aux quatre codons du gène PrP de l'ensemble des ovins cités au paragraphe ci-dessus ; le directeur départemental des services vétérinaires peut décider que les animaux dont les génotypes sont connus selon les modalités fixées par instruction du ministre chargé de l'agriculture ne subissent pas de prélèvement sanguin et de génotypage.
+1. Prélèvement et génotypage aux quatre codons du gène PrP de l'ensemble des ovins cités au paragraphe ci-dessus ; le directeur départemental  en charge de la protection des populations  peut décider que les animaux dont les génotypes sont connus selon les modalités fixées par instruction du ministre chargé de l'agriculture ne subissent pas de prélèvement sanguin et de génotypage.
 
 2. Marquage, dans les conditions définies par instruction du ministre chargé de l'agriculture, des ovins susvisés et appartenant aux catégories considérées comme génétiquement sensibles et très sensibles à la tremblante classique.
 
@@ -70,17 +70,17 @@ Lorsqu'une exploitation est placée sous APDI en application du point précéden
 
 5. L'APMS de contrôle est levé par le préfet dès que la totalité des ovins marqués a été éliminée.
 
-III. ― Ovin dit « nomade » : APMS de suivi des cheptels à risque.
+III. ― Ovin dit "nomade" : APMS de suivi des cheptels à risque.
 
-Si l'ovin atteint de tremblante classique a séjourné dans des exploitations différentes depuis sa naissance, chaque préfet prend, sur proposition du directeur départemental des services vétérinaires de son département, un APMS de suivi de l'exploitation de naissance de l'ovin et de toutes les exploitations où il a mis bas. L'APMS de suivi entraîne l'application des mesures suivantes :
+Si l'ovin atteint de tremblante classique a séjourné dans des exploitations différentes depuis sa naissance, chaque préfet prend, sur proposition du directeur départemental  en charge de la protection des populations  de son département, un APMS de suivi de l'exploitation de naissance de l'ovin et de toutes les exploitations où il a mis bas. L'APMS de suivi entraîne l'application des mesures suivantes :
 
 1. Les ovins de l'exploitation sous APMS sont soumis aux mesures de dépistage prévues à l'article 14 du présent arrêté.
 
-2. Lorsque le préfet le décide pour faciliter le suivi sanitaire de l'exploitation, tous les mouvements d'ovins ayant lieu au cours de la surveillance doivent être déclarés au directeur départemental des services vétérinaires.
+2. Lorsque le préfet le décide pour faciliter le suivi sanitaire de l'exploitation, tous les mouvements d'ovins ayant lieu au cours de la surveillance doivent être déclarés au directeur départemental  en charge de la protection des populations.
 
 3. L'APMS de suivi est levé par le préfet après une période de trois ans.
 
-4. Lorsque cette exploitation a déjà fait l'objet d'un tel APMS au cours des cinq dernières années, et qu'au cours de cette période aucun cas de tremblante classique n'a justifié la prise d'un APDI conformément au I de l'article 10, le préfet prend, sur proposition du directeur départemental des services vétérinaires, un APDI entraînant l'application des mesures prévues au I de l'article 10. En fonction de la situation épidémiologique, le préfet peut déroger à l'application du présent alinéa.
+4. Lorsque cette exploitation a déjà fait l'objet d'un tel APMS au cours des cinq dernières années, et qu'au cours de cette période aucun cas de tremblante classique n'a justifié la prise d'un APDI conformément au I de l'article 10, le préfet prend, sur proposition du directeur départemental  en charge de la protection des populations , un APDI entraînant l'application des mesures prévues au I de l'article 10. En fonction de la situation épidémiologique, le préfet peut déroger à l'application du présent alinéa.
 
 5. Le non-respect des dispositions prescrites par l'APMS de suivi peut entraîner :
 
@@ -88,6 +88,6 @@ Si l'ovin atteint de tremblante classique a séjourné dans des exploitations di
 
 ― un prolongement de la durée de l'APMS de suivi, avec ou sans mise sous séquestre, de sorte qu'une surveillance effective du cheptel ait lieu pendant trois ans.
 
-IV. ― Ovin dit « sédentaire » ou « nomade » : APMS de contrôle pour recherche des parents.
+IV. ― Ovin dit "sédentaire" ou "nomade" : APMS de contrôle pour recherche des parents.
 
 Des investigations doivent être menées afin de rechercher la mère de l'animal atteint de tremblante classique ainsi que, si ce dernier est une femelle, ses descendants des deux dernières années. Les exploitations qui les détiennent sont placées sous APMS entraînant leur génotypage, et quand ces animaux sont génétiquement sensibles et très sensibles, leur marquage et leur euthanasie dans les meilleurs délais. Les ovins ainsi euthanasiés sont soumis aux mesures de dépistage prévues à l'article 14 du présent arrêté. Si l'animal atteint de tremblante classique est une femelle, des investigations doivent également être menées afin de rechercher ses embryons et ovules, et de les détruire si la certitude qu'ils ne portent exclusivement que des allèles ARR ou ALRR ne peut être acquise. Chaque APMS est levé après élimination de tous les animaux ainsi marqués dans l'exploitation, ou lorsque aucun de ces animaux n'est sensible ou très sensible.

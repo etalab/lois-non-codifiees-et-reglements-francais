@@ -1,6 +1,6 @@
 # Article 11
 
-En cas de suspicion d'ESB sur une EST confirmée, le préfet prend, sur proposition du directeur départemental des services vétérinaires, un arrêté portant déclaration d'infection de l'exploitation de naissance du caprin et de toutes les exploitations où il a mis bas. L'APDI entraîne l'application des mesures suivantes :
+En cas de suspicion d'ESB sur une EST confirmée, le préfet prend, sur proposition du directeur départemental en charge de la protection des populations, un arrêté portant déclaration d'infection de l'exploitation de naissance du caprin et de toutes les exploitations où il a mis bas. L'APDI entraîne l'application des mesures suivantes :
 
 1. Interdiction de sortir des caprins de l'exploitation, ainsi que d'introduire de nouveaux caprins dans l'exploitation ;
 

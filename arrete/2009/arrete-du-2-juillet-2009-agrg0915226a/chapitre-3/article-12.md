@@ -2,7 +2,7 @@
 
 En présence d'un cas d'EST similaire à l'ESB, les mesures suivantes s'appliquent :
 
-I. ― Le préfet prend, sur proposition du directeur départemental des services vétérinaires, un arrêté portant déclaration d'infection de l'exploitation de naissance de l'ovin et de toutes les exploitations où il a mis bas. L'APDI entraîne l'application des mesures suivantes dans chaque exploitation :
+I. ― Le préfet prend, sur proposition du directeur départemental  en charge de la protection des populations , un arrêté portant déclaration d'infection de l'exploitation de naissance de l'ovin et de toutes les exploitations où il a mis bas. L'APDI entraîne l'application des mesures suivantes dans chaque exploitation :
 
 A. ― Dispositions relatives à l'assainissement :
 

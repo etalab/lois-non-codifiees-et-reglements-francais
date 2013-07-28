@@ -4,7 +4,7 @@ En cas de confirmation d'un cas de tremblante classique, et dans les situations 
 
 I. ― Caprin dit sédentaire : APDI.
 
-Si le caprin atteint de tremblante classique a toujours séjourné dans la même exploitation depuis sa naissance et au moins jusqu'à six mois avant la suspicion, le préfet prend, sur proposition du directeur départemental des services vétérinaires, un arrêté portant déclaration d'infection de l'exploitation de naissance du caprin. L'APDI entraîne l'application des mesures suivantes :
+Si le caprin atteint de tremblante classique a toujours séjourné dans la même exploitation depuis sa naissance et au moins jusqu'à six mois avant la suspicion, le préfet prend, sur proposition du directeur départemental en charge de la protection des populations, un arrêté portant déclaration d'infection de l'exploitation de naissance du caprin. L'APDI entraîne l'application des mesures suivantes :
 
 A. ― Dispositions relatives à l'assainissement :
 
@@ -16,9 +16,9 @@ A. ― Dispositions relatives à l'assainissement :
 
 4. En dérogation aux dispositions prévues aux points 1 et 2 du présent point A, tous les chevreaux âgés de moins de trois mois peuvent être exemptés de marquage et d'euthanasie et expédiés sous couvert d'un laissez-passer émis par le directeur départemental en charge de la protection des populations :
 
-- directement à l'abattoir ;
+-directement à l'abattoir ;
 
-- directement dans un atelier d'engraissement spécialisé, dès lors qu'ils en sortent avant l'âge de trois mois, directement à destination d'un abattoir ou d'un équarrissage et sous couvert d'un laissez-passer émis par le directeur départemental en charge de la protection des populations.
+-directement dans un atelier d'engraissement spécialisé, dès lors qu'ils en sortent avant l'âge de trois mois, directement à destination d'un abattoir ou d'un équarrissage et sous couvert d'un laissez-passer émis par le directeur départemental en charge de la protection des populations.
 
 Sans préjudice de l'obligation de retrait et de destruction des matériels à risque spécifiés, la totalité de la tête et des intestins de ces animaux devra être retirée de la consommation humaine et animale puis détruite.
 
@@ -28,7 +28,7 @@ B. ― Autres dispositions :
 
 2. Interdiction d'introduire des caprins dans l'exploitation préalablement ou pendant la réalisation du nettoyage et de la désinfection ;
 
-3. Interdiction de sortir de l'exploitation des caprins marqués, sauf à destination directe d'un établissement d'études et de recherches sur autorisation du directeur départemental des services vétérinaires et sous couvert d'un laissez-passer. En particulier, interdiction de mettre des caprins en pâture collective ;
+3. Interdiction de sortir de l'exploitation des caprins marqués, sauf à destination directe d'un établissement d'études et de recherches sur autorisation du directeur départemental en charge de la protection des populations et sous couvert d'un laissez-passer. En particulier, interdiction de mettre des caprins en pâture collective ;
 
 4. Le renouvellement du troupeau ne peut avoir lieu qu'après la réalisation du nettoyage et de la désinfection ;
 
@@ -50,15 +50,15 @@ Lorsqu'une exploitation est placée sous APDI en application du point précéden
 
 III. ― Caprin dit nomade : APMS de suivi des cheptels à risque.
 
-Si le caprin atteint de tremblante classique a séjourné dans des exploitations différentes depuis sa naissance, le préfet prend, sur proposition du directeur départemental des services vétérinaires, un APMS de suivi de l'exploitation de naissance du caprin et de toutes les exploitations où il a mis bas. L'APMS de suivi entraîne l'application des mesures suivantes :
+Si le caprin atteint de tremblante classique a séjourné dans des exploitations différentes depuis sa naissance, le préfet prend, sur proposition du directeur départemental en charge de la protection des populations , un APMS de suivi de l'exploitation de naissance du caprin et de toutes les exploitations où il a mis bas. L'APMS de suivi entraîne l'application des mesures suivantes :
 
 1. Les caprins de l'exploitation sous APMS de suivi sont soumis aux mesures de dépistage prévues à l'article 14 du présent arrêté ;
 
-2. Lorsque le préfet le décide pour faciliter le suivi sanitaire de l'exploitation, tous les mouvements de caprins ayant lieu au cours de la surveillance doivent être déclarés au directeur départemental des services vétérinaires ;
+2. Lorsque le préfet le décide pour faciliter le suivi sanitaire de l'exploitation, tous les mouvements de caprins ayant lieu au cours de la surveillance doivent être déclarés au directeur départemental en charge de la protection des populations ;
 
 3. L'APMS de suivi est levé par le préfet après une période de trois ans.
 
-4. Lorsque cette exploitation a déjà fait l'objet d'un tel APMS au cours des cinq dernières années, et qu'au cours de cette période aucun cas de tremblante classique n'a justifié la prise d'un APDI conformément au I de l'article 10, le préfet prend, sur proposition du directeur départemental des services vétérinaires, un APDI entraînant l'application des mesures prévues au I de l'article 10. En fonction de la situation épidémiologique, le préfet peut déroger à l'application du présent alinéa ;
+4. Lorsque cette exploitation a déjà fait l'objet d'un tel APMS au cours des cinq dernières années, et qu'au cours de cette période aucun cas de tremblante classique n'a justifié la prise d'un APDI conformément au I de l'article 10, le préfet prend, sur proposition du directeur départemental en charge de la protection des populations , un APDI entraînant l'application des mesures prévues au I de l'article 10. En fonction de la situation épidémiologique, le préfet peut déroger à l'application du présent alinéa ;
 
 5. Le non-respect des dispositions prescrites par l'APMS de suivi peut entraîner :
 

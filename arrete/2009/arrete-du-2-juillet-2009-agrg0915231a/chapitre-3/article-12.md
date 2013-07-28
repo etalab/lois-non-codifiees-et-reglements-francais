@@ -2,7 +2,7 @@
 
 En présence d'un cas d'EST similaire à l'ESB, les mesures suivantes s'appliquent :
 
-I. ― Le préfet prend, sur proposition du directeur départemental des services vétérinaires, un arrêté portant déclaration d'infection de l'exploitation de naissance du caprin et de toutes les exploitations où il a mis bas. L'APDI entraîne l'application des mesures suivantes dans chaque exploitation :
+I. ― Le préfet prend, sur proposition du directeur départemental en charge de la protection des populations, un arrêté portant déclaration d'infection de l'exploitation de naissance du caprin et de toutes les exploitations où il a mis bas. L'APDI entraîne l'application des mesures suivantes dans chaque exploitation :
 
 1. Isolement et marquage de tous les caprins de l'exploitation ;
 
@@ -20,7 +20,7 @@ I. ― Le préfet prend, sur proposition du directeur départemental des service
 
 8. L'APDI est levé par le préfet après une période de deux ans suivant la réalisation des opérations de nettoyage et de désinfection.
 
-II. - Des investigations doivent être menées afin de rechercher les caprins qui ont été élevés, à un quelconque moment des douze premiers mois de leur existence, avec l'animal atteint d'EST alors que ce dernier était âgé de moins d'un an et qui ont été vendus ou cédés à d'autres exploitations. L'exploitation de chacun de ces caprins est placée sous APMS de contrôle entraînant l'application des mesures suivantes :
+II.-Des investigations doivent être menées afin de rechercher les caprins qui ont été élevés, à un quelconque moment des douze premiers mois de leur existence, avec l'animal atteint d'EST alors que ce dernier était âgé de moins d'un an et qui ont été vendus ou cédés à d'autres exploitations. L'exploitation de chacun de ces caprins est placée sous APMS de contrôle entraînant l'application des mesures suivantes :
 
 1. Isolement et marquage, dans les conditions définies par instruction du ministre chargé de l'agriculture, des caprins cités au paragraphe ci-dessus ;
 
