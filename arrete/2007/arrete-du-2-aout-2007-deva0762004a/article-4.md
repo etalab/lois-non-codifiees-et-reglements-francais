@@ -176,4 +176,20 @@ Toulouse - Marrakech (Maroc) ;
 
 Nantes - Marrakech (Maroc).
 
+Jusqu'au 31 juillet 2018 :
+
+Dans la limite de huit fréquences hebdomadaires au total sur les liaisons suivantes :
+
+Lyon - Dakar (Sénégal) ;
+
+Marseille - Dakar (Sénégal) ;
+
+Toulouse - Dakar (Sénégal) ;
+
+Brest - Dakar (Sénégal) ;
+
+Bordeaux - Dakar (Sénégal) ;
+
+Nantes - Dakar (Sénégal).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.

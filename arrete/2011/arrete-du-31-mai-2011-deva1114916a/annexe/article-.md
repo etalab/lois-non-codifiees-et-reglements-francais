@@ -199,3 +199,11 @@ Lyon-Constantine (Algérie) ;
 Lille-Alger (Algérie) ;
 
 Mulhouse-Sétif (Algérie).
+
+Jusqu'au 31 juillet 2018 :
+
+Dans la limite de trois fréquences hebdomadaires au total sur les liaisons suivantes :
+
+Lyon - Dakar (Sénégal) ;
+
+Marseille - Dakar (Sénégal).
