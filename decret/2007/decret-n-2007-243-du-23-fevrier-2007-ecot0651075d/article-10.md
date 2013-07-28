@@ -8,4 +8,4 @@ b) Les sorties d'actifs ne donnant pas lieu à des entrées équivalentes doiven
 
 c) Les informations définies au a ci-dessus doivent pouvoir être consultées à tout moment, pour chaque intitulé de valeur.
 
-Une synthèse de cet inventaire est transmise trimestriellement à l'autorité administrative.
+Une synthèse de cet inventaire est transmise trimestriellement au ministre chargé de l'économie et au ministre chargé de l'énergie.

@@ -6,6 +6,6 @@ Il se prononce en particulier sur la gestion actif-passif, la stratégie d'alloc
 
 Il détermine les limites aux risques de marché, de contrepartie et de liquidité.
 
-En cas de modification du cadre de la politique de constitution et de gestion des actifs, l'exploitant en informe sans délai l'autorité administrative.
+En cas de modification du cadre de la politique de constitution et de gestion des actifs, l'exploitant en informe sans délai le ministre chargé de l'économie et le ministre chargé de l'énergie.
 
 L'exploitant expose le cadre de la politique de constitution et de gestion des actifs dans le rapport mentionné à l'article 12.
