@@ -1,6 +1,6 @@
 # Article 347-1
 
-L'Autorité  de contrôle prudentiel peut reconnaître l'utilisation du modèle interne  pour les mesures de valeur en risque de l'établissement assujetti pour  la mesure du risque spécifique lié aux positions sur titres de créances  et de propriété si ce modèle répond aux conditions suivantes :
+L'Autorité de contrôle prudentiel et de résolution peut reconnaître l'utilisation du modèle interne pour les mesures de valeur en risque de l'établissement assujetti pour la mesure du risque spécifique lié aux positions sur titres de créances et de propriété si ce modèle répond aux conditions suivantes :
 
 a) Il est apte à expliquer ex ante les variations historiques de valeur du portefeuille ;
 
@@ -22,6 +22,6 @@ i) Les approximations sont suffisamment prudentes et ne sont utilisées que lors
 
 j) Les établissements assujettis tiennent compte des dernières évolutions méthodologiques et des meilleures pratiques en matière de modélisation.
 
-Les  établissements assujettis ne sont pas tenus de prendre en compte les  risques de défaut et de migration pour les titres de créance dans leur  modèle interne lorsqu'ils tiennent compte de ces risques au moyen des  exigences énoncées aux articles 347-2 à 347-2-9 ;
+Les établissements assujettis ne sont pas tenus de prendre en compte les risques de défaut et de migration pour les titres de créance dans leur modèle interne lorsqu'ils tiennent compte de ces risques au moyen des exigences énoncées aux articles 347-2 à 347-2-9 ;
 
-k)  Les établissements assujettis peuvent exclure les positions de  titrisation ou les dérivés de crédit au nième défaut pour lesquels ils  calculent les exigences de fonds propres pour risques de position  conformément au chapitre III du présent titre, à l'exception des  positions qui sont soumises à l'approche énoncée à l'article 347-2-10.
+k) Les établissements assujettis peuvent exclure les positions de titrisation ou les dérivés de crédit au nième défaut pour lesquels ils calculent les exigences de fonds propres pour risques de position conformément au chapitre III du présent titre, à l'exception des positions qui sont soumises à l'approche énoncée à l'article 347-2-10.

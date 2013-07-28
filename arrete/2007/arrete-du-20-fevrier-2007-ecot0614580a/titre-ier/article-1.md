@@ -12,6 +12,6 @@ Les entreprises assujetties au présent arrêté, dénommées ci-après établis
 
 - les personnes mentionnées au point 4 de l'article L. 442-2 et au point 5 de l'article L. 542-1 du code monétaire et financier.
 
-Le présent arrêté s'applique sur base consolidée aux établissements assujettis dont l'Autorité de contrôle prudentiel assure la surveillance prudentielle sur base consolidée conformément au règlement n° 2000-03.
+Le présent arrêté s'applique sur base consolidée aux établissements assujettis dont l'Autorité de contrôle prudentiel et de résolution assure la surveillance prudentielle sur base consolidée conformément au règlement n° 2000-03.
 
-L'Autorité de contrôle prudentiel précise les adaptations nécessaires, le cas échéant, pour l'inclusion d'une compagnie financière donnée dans la surveillance sur base consolidée.
+L'Autorité de contrôle prudentiel et de résolution précise les adaptations nécessaires, le cas échéant, pour l'inclusion d'une compagnie financière donnée dans la surveillance sur base consolidée.

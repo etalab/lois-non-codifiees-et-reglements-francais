@@ -22,6 +22,6 @@ f) L'établissement assujetti prend en considération les effets de la compensat
 
 g) Le risque de crédit sur chaque contrepartie est agrégé de façon à obtenir sur un plan juridique une exposition unique pour l'ensemble des opérations. La valeur agrégée ainsi obtenue est utilisée pour les limites de crédit et pour l'évaluation de l'adéquation du capital interne.
 
-Les contrats des accords de novation ou des conventions de compensation ainsi que les avis juridiques afférents sont tenus à la disposition du secrétariat général de l'Autorité de contrôle prudentiel.
+Les contrats des accords de novation ou des conventions de compensation ainsi que les avis juridiques afférents sont tenus à la disposition du secrétariat général de l'Autorité de contrôle prudentiel et de résolution.
 
-L'Autorité de contrôle prudentiel peut s'opposer à la prise en compte de ces accords ou de ces conventions si elle estime que leur validité n'est pas assurée, après consultation, le cas échéant, des autorités compétentes des autres Etats membres concernés.
+L'Autorité de contrôle prudentiel et de résolution peut s'opposer à la prise en compte de ces accords ou de ces conventions si elle estime que leur validité n'est pas assurée, après consultation, le cas échéant, des autorités compétentes des autres Etats membres concernés.

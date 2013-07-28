@@ -6,7 +6,7 @@ a) La conception et le fonctionnement de leurs systèmes de notation. Cette docu
 
 b) Les raisons et l'analyse qui ont motivé les choix des critères de notation ;
 
-c) Tout changement important apporté au dispositif de notation. Cette documentation rend compte des modifications mises en oeuvre suite aux observations adressées par l'Autorité de contrôle prudentiel à l'établissement, le cas échéant ;
+c) Tout changement important apporté au dispositif de notation. Cette documentation rend compte des modifications mises en oeuvre suite aux observations adressées par l'Autorité de contrôle prudentiel et de résolution à l'établissement, le cas échéant ;
 
 d) L'ensemble du dispositif de notation et d'affectation des expositions, ainsi que le contrôle interne associé ;
 

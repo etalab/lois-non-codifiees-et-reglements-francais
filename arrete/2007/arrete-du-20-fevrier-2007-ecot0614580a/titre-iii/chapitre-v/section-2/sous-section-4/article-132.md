@@ -10,6 +10,6 @@ c) Pour les créances achetées relevant de la clientèle de détail, les établ
 
 d) Les estimations de pertes en cas de défaut sont fondées sur des données collectées sur une période minimum de 5 ans.
 
-Nonobstant l'article 126-1, les établissements assujettis peuvent ne pas accorder la même importance à toutes les données historiques, sous réserve qu'ils démontrent à l'Autorité de contrôle prudentiel que les données les plus récentes ont un meilleur pouvoir prédictif des taux de perte.
+Nonobstant l'article 126-1, les établissements assujettis peuvent ne pas accorder la même importance à toutes les données historiques, sous réserve qu'ils démontrent à l'Autorité de contrôle prudentiel et de résolution que les données les plus récentes ont un meilleur pouvoir prédictif des taux de perte.
 
-Les établissements assujettis peuvent disposer d'historiques de données d'au moins deux ans au moment où ils sont autorisés par l'Autorité de contrôle prudentiel à utiliser les approches notations internes. Ces historiques augmentent d'un an tous les ans jusqu'à couvrir une période de 5 ans.
+Les établissements assujettis peuvent disposer d'historiques de données d'au moins deux ans au moment où ils sont autorisés par l'Autorité de contrôle prudentiel et de résolution à utiliser les approches notations internes. Ces historiques augmentent d'un an tous les ans jusqu'à couvrir une période de 5 ans.

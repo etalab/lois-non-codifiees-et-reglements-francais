@@ -1,6 +1,6 @@
 # Article 256
 
-Les établissements assujettis désignent, le cas échéant, un ou plusieurs organismes externes d'évaluation de crédit reconnus par l'Autorité de contrôle prudentiel pour le calcul des montants d'expositions pondérées.
+Les établissements assujettis désignent, le cas échéant, un ou plusieurs organismes externes d'évaluation de crédit reconnus par l'Autorité de contrôle prudentiel et de résolution pour le calcul des montants d'expositions pondérées.
 
 L'utilisation des évaluations externes de crédit doit être cohérente pour l'ensemble des positions de titrisation. Ces évaluations ne peuvent être utilisées de manière sélective.
 

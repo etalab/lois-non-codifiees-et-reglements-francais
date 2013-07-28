@@ -8,10 +8,10 @@ Toute succursale d'établissement de crédit ayant son siège social dans un aut
 
 ― il n'existe pas d'obstacle au transfert de fonds entre l'établissement du siège social et la succursale ;
 
-― l'autorité compétente du pays d'origine confirme que les conditions ci-dessus sont remplies et s'engage à informer l'Autorité de contrôle prudentiel de toute modification notable de cette situation, en particulier de tout manquement persistant ou significatif aux règles de liquidité.
+― l'autorité compétente du pays d'origine confirme que les conditions ci-dessus sont remplies et s'engage à informer l'Autorité de contrôle prudentiel et de résolution de toute modification notable de cette situation, en particulier de tout manquement persistant ou significatif aux règles de liquidité.
 
-L'Autorité de contrôle prudentiel  vérifie que les conditions ci-dessus sont satisfaites.
+L'Autorité de contrôle prudentiel et de résolution vérifie que les conditions ci-dessus sont satisfaites.
 
-Les établissements concernés informent l'Autorité de contrôle prudentiel de toute évolution significative pour lui permettre de vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
+Les établissements concernés informent l'Autorité de contrôle prudentiel et de résolution de toute évolution significative pour lui permettre de vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
 
-L'Autorité de contrôle prudentiel peut retirer le bénéfice des dispositions du présent article à une succursale lorsqu'elle estime que l'une des conditions n'est plus remplie.
+L'Autorité de contrôle prudentiel et de résolution peut retirer le bénéfice des dispositions du présent article à une succursale lorsqu'elle estime que l'une des conditions n'est plus remplie.

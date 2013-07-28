@@ -18,7 +18,7 @@ b) Lorsque les autorités compétentes d'un autre Etat membre appliquent le trai
 
 c) Ce traitement est soumis au respect des conditions visées aux i), ii) et iii) de l'alinéa c de l'article 19.
 
-L'Autorité de contrôle prudentiel peut autoriser les établissements assujettis à déroger aux dispositions visées au ii) de l'alinéa c de l'article 19, lorsque le marché de la location-financement et de la location à caractère financier portant sur des biens immobiliers à usage professionnel est suffisamment développé, sous réserve que les taux de perte suivants soient respectés :
+L'Autorité de contrôle prudentiel et de résolution peut autoriser les établissements assujettis à déroger aux dispositions visées au ii) de l'alinéa c de l'article 19, lorsque le marché de la location-financement et de la location à caractère financier portant sur des biens immobiliers à usage professionnel est suffisamment développé, sous réserve que les taux de perte suivants soient respectés :
 
 i) les pertes générées chaque année par les contrats de location-financement et de location à caractère financier dont l'encours financier est inférieur ou égal à 50 % de la valeur de marché ou à 60 % de la valeur hypothécaire du bien immobilier sous-jacent ne dépassent pas 0,3 % de l'encours financier total des contrats de location-financement et de location à caractère financier ;
 

@@ -1,6 +1,6 @@
 # Article 15
 
-Préalablement à leur prise en compte dans le calcul du coefficient de liquidité, les accords de refinancement sont communiqués à l'Autorité de contrôle prudentiel.
+Préalablement à leur prise en compte dans le calcul du coefficient de liquidité, les accords de refinancement sont communiqués à l'Autorité de contrôle prudentiel et de résolution.
 
 Celle-ci dispose d'un délai de trois mois pour s'opposer à la prise en compte de l'accord dans le calcul du coefficient de liquidité.
 

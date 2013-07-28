@@ -1,6 +1,6 @@
 # Article 19
 
-Lorsqu'un établissement mentionné à l'article 16 intervient en libre prestation de services, il communique à l'Autorité de contrôle prudentiel les informations suivantes :
+Lorsqu'un établissement mentionné à l'article 16 intervient en libre prestation de services, il communique à l'Autorité de contrôle prudentiel et de résolution les informations suivantes :
 
 1° Sa dénomination sociale et l'adresse de son siège social ;
 

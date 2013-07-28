@@ -194,7 +194,7 @@ Article 13
 
 Renseignements statistiques
 
-L'organisme prêteur doit fournir à la SGFGAS, au début de chaque mois ou de chaque trimestre, en fonction de la périodicité retenue par l'Autorité de contrôle prudentiel pour la production de certains documents comptables :
+L'organisme prêteur doit fournir à la SGFGAS, au début de chaque mois ou de chaque trimestre, en fonction de la périodicité retenue par l'Autorité de contrôle prudentiel et de résolution pour la production de certains documents comptables :
 
 - un état des prêts conventionnés accordés au cours du mois ou du trimestre précédent (en nombre de logements et en montant) ;
 

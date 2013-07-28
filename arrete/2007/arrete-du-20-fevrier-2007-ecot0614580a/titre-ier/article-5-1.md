@@ -10,8 +10,8 @@ Les succursales d'établissements de crédit ayant leur siège social dans un Et
 
 - l'autorité compétente du pays d'origine donne son accord à la demande, confirme la régularité de la situation de l'établissement et s'engage à informer l'Autorité de contrôle prudentiel de toute modification significative des conditions précitées.
 
-L'Autorité de contrôle prudentiel vérifie que les conditions ci-dessus sont satisfaites et, sous réserve que les établissements de crédit français puissent bénéficier d'un traitement équivalent de la part de l'autorité compétente de l'Etat d'origine, accorde aux succursales qui en font la demande le bénéfice du présent article.
+L'Autorité de contrôle prudentiel et de résolution vérifie que les conditions ci-dessus sont satisfaites et, sous réserve que les établissements de crédit français puissent bénéficier d'un traitement équivalent de la part de l'autorité compétente de l'Etat d'origine, accorde aux succursales qui en font la demande le bénéfice du présent article.
 
-Les établissements concernés informent l'Autorité de contrôle prudentiel de toute évolution pertinente pour vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
+Les établissements concernés informent l'Autorité de contrôle prudentiel et de résolution de toute évolution pertinente pour vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
 
-l'Autorité de contrôle prudentiel peut retirer le bénéfice du présent article à un établissement lorsqu'elle estime que l'une des conditions n'est plus remplie. Elle peut également refuser le bénéfice  du présent article lorsqu'elle estime que le régime de supervision  prudentielle, sur une matière autre que les exigences de solvabilité,  n'est pas équivalent à celui applicable en France.
+L'Autorité de contrôle prudentiel et de résolution peut retirer le bénéfice du présent article à un établissement lorsqu'elle estime que l'une des conditions n'est plus remplie. Elle peut également refuser le bénéfice du présent article lorsqu'elle estime que le régime de supervision prudentielle, sur une matière autre que les exigences de solvabilité, n'est pas équivalent à celui applicable en France.

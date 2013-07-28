@@ -1,6 +1,6 @@
 # Article 6
 
-Sont soumises à autorisation préalable de l'Autorité de contrôle prudentiel les modifications qu'il est prévu d'apporter à la situation des établissements assujettis qui concernent les éléments suivants :
+Sont soumises à autorisation préalable de l'Autorité de contrôle prudentiel et de résolution les modifications qu'il est prévu d'apporter à la situation des établissements assujettis qui concernent les éléments suivants :
 
 ― la forme juridique ;
 

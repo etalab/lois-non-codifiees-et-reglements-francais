@@ -14,4 +14,4 @@ e) Les établissements assujettis tiennent compte des politiques spécifiques ad
 
 f) Les établissements assujettis mettent en place des procédures et des systèmes appropriés pour contrôler les lignes de crédit, les encours par rapport aux lignes accordées et les modifications d'encours par débiteur et par note. Ils sont en mesure de suivre les soldes sur une base quotidienne ;
 
-g) Lorsqu'ils utilisent des estimations de facteurs de conversion différentes pour le calcul des montants d'expositions pondérées et pour leurs besoins internes, les établissements assujettis documentent les raisons de ce choix et démontrent sa cohérence à l'Autorité de contrôle prudentiel.
+g) Lorsqu'ils utilisent des estimations de facteurs de conversion différentes pour le calcul des montants d'expositions pondérées et pour leurs besoins internes, les établissements assujettis documentent les raisons de ce choix et démontrent sa cohérence à l'Autorité de contrôle prudentiel et de résolution.

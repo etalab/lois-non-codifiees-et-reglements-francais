@@ -1,6 +1,6 @@
 # Article 392-2
 
-L'Autorité de contrôle prudentiel  peut autoriser un établissement assujetti à utiliser, pour une ou plusieurs catégories d'expositions, l'une des approches du risque de crédit visées aux titres II et III et les dispositions visées au règlement n° 91-05. Dans ce cas, les dispositions suivantes s'appliquent :
+L'Autorité de contrôle prudentiel et de résolution peut autoriser un établissement assujetti à utiliser, pour une ou plusieurs catégories d'expositions, l'une des approches du risque de crédit visées aux titres II et III et les dispositions visées au règlement n° 91-05. Dans ce cas, les dispositions suivantes s'appliquent :
 
 a) Les techniques de réduction du risque de crédit visées au titre IV s'appliquent seulement aux catégories d'expositions qui sont soumises au titre III. Les établissements assujettis s'assurent que les techniques de réduction du risque de crédit utilisées dans le cadre d'opérations intragroupes ne sont pas motivées par des considérations d'arbitrage réglementaire ;
 

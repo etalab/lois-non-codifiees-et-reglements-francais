@@ -1,6 +1,6 @@
 # Article 379
 
-L'Autorité de contrôle prudentiel  peut exiger des établissements assujettis :
+L'Autorité de contrôle prudentiel et de résolution peut exiger des établissements assujettis :
 
 a) Qu'ils publient une ou plusieurs informations visées notamment au chapitre II du présent titre ;
 

@@ -73,7 +73,7 @@ d) Pour l'application des deux alinéas précédents, les établissements assuje
 
 e) Les établissements assujettis peuvent appliquer les pondérations visées aux alinéas b à d, lorsque les conditions d'éligibilité suivantes sont respectées :
 
-i) l'organisme de placement collectif est géré par une société contrôlée par une autorité d'un Etat membre, ou d'un pays tiers lorsque le régime de surveillance de ce pays est jugé par l'Autorité de contrôle prudentiel équivalent aux dispositions en vigueur en France ;
+i) l'organisme de placement collectif est géré par une société contrôlée par une autorité d'un Etat membre, ou d'un pays tiers lorsque le régime de surveillance de ce pays est jugé par l'Autorité de contrôle prudentiel et de résolution équivalent aux dispositions en vigueur en France ;
 
 ii) le prospectus de l'organisme de placement collectif ou un document équivalent, tel qu'un mandat de gestion, contient :
 

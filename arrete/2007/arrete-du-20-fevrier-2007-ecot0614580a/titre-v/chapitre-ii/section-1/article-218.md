@@ -12,7 +12,7 @@ i) Les montants des expositions pondérés des positions de titrisation mezzanin
 
 ii) Lorsqu'il n'existe pas de positions de titrisation mezzanine dans une titrisation donnée et que l'originateur peut démontrer que la valeur exposée au risque des positions de titrisation pouvant faire l'objet d'une déduction des fonds propres ou d'une pondération de risque de 1 250 % dépasse, avec une marge substantielle, l'estimation motivée des pertes attendues sur les expositions titrisées, l'établissement assujetti originateur ne détient pas plus de 20 % des valeurs exposées au risque des positions de titrisation pouvant faire l'objet d'une déduction des fonds propres ou d'une pondération de risque de 1 250 %.
 
-L'Autorité de contrôle prudentiel se réserve le droit d'apprécier si la réduction éventuelle des montants des expositions pondérés que l'établissement assujetti originateur obtiendrait par cette titrisation n'est pas justifiée par un transfert proportionné de risque de crédit à des tiers.
+L'Autorité de contrôle prudentiel et de résolution se réserve le droit d'apprécier si la réduction éventuelle des montants des expositions pondérés que l'établissement assujetti originateur obtiendrait par cette titrisation n'est pas justifiée par un transfert proportionné de risque de crédit à des tiers.
 
 c) Aux fins de l'alinéa b, on entend par " positions de titrisation mezzanine " des positions de titrisation auxquelles s'applique une pondération de risque inférieure à 1 250 % et qui sont de rang inférieur à la position de rang le plus élevé dans cette titrisation et à toute position de titrisation dans cette titrisation, à laquelle :
 

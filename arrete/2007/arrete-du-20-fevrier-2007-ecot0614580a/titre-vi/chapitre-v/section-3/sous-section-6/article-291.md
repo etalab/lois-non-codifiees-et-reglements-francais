@@ -1,6 +1,6 @@
 # Article 291
 
-Pour être autorisé par l'Autorité de contrôle prudentiel, tout modèle de calcul de l'exposition positive attendue utilisé par un établissement assujetti doit également satisfaire les exigences suivantes :
+Pour être autorisé par l'Autorité de contrôle prudentiel et de résolution, tout modèle de calcul de l'exposition positive attendue utilisé par un établissement assujetti doit également satisfaire les exigences suivantes :
 
 a) Les critères qualitatifs visés au chapitre VII du titre VII sont respectés ;
 

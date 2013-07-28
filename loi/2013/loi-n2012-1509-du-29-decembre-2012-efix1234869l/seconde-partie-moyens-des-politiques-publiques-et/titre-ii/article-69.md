@@ -1,73 +1,73 @@
 # Article 69
 
-<div>
-<br/>Pour 2013, le plafond des autorisations d'emplois des autorités publiques indépendantes dotées de la personnalité morale et des autorités administratives indépendantes dont les effectifs ne sont pas inclus dans un plafond d'autorisation des emplois rémunérés par l'Etat, exprimé en équivalents temps plein travaillé, est fixé à 2 289 emplois. Ce plafond est réparti comme suit :<br/>
+Pour 2013, le plafond des autorisations d'emplois des autorités publiques indépendantes dotées de la personnalité morale et des autorités administratives indépendantes dont les effectifs ne sont pas inclus dans un plafond d'autorisation des emplois rémunérés par l'Etat, exprimé en équivalents temps plein travaillé, est fixé à 2 289 emplois. Ce plafond est réparti comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
 <th>
 <br/>
 </th>
-<th>
-<br/>PLAFOND EXPRIMÉ<br/>en équivalents<br/>temps plein travaillé</th>
+<th>PLAFOND EXPRIMÉ<br/>en équivalents<br/>temps plein travaillé<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Autorité de contrôle prudentiel</td>
-<td align="center">
-<br/>1 121</td>
+<td align="center">Autorité de contrôle prudentiel et de résolution<br/>
+</td>
+<td align="center">1 121<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Agence française de lutte contre le dopage</td>
-<td align="center">
-<br/>65</td>
+<td align="center">Agence française de lutte contre le dopage<br/>
+</td>
+<td align="center">65<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Autorité des marchés financiers</td>
-<td align="center">
-<br/>469</td>
+<td align="center">Autorité des marchés financiers<br/>
+</td>
+<td align="center">469<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Autorité de régulation des activités ferroviaires</td>
-<td align="center">
-<br/>56</td>
+<td align="center">Autorité de régulation des activités ferroviaires<br/>
+</td>
+<td align="center">56<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haut Conseil du commissariat aux comptes</td>
-<td align="center">
-<br/>50</td>
+<td align="center">Haut Conseil du commissariat aux comptes<br/>
+</td>
+<td align="center">50<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet</td>
-<td align="center">
-<br/>71</td>
+<td align="center">Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<br/>
+</td>
+<td align="center">71<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute Autorité de santé</td>
-<td align="center">
-<br/>411</td>
+<td align="center">Haute Autorité de santé<br/>
+</td>
+<td align="center">411<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Médiateur national de l'énergie</td>
-<td align="center">
-<br/>46</td>
+<td align="center">Médiateur national de l'énergie<br/>
+</td>
+<td align="center">46<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   Total</td>
-<td align="center">
-<br/>2 289</td>
+<td align="center">Total<br/>
+</td>
+<td align="center">2 289<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>

@@ -51,4 +51,4 @@ Lorsque des contrats ne sont pas inclus dans un accord de novation ou une conven
 </tbody>
 </table>
 
-Pour les contrats sur taux d'intérêt, les établissements peuvent toutefois se référer à la durée résiduelle, dans la mesure où leur activité le justifie. L'Autorité de contrôle prudentiel peut s'y opposer si elle estime que cette condition n'est pas remplie.
+Pour les contrats sur taux d'intérêt, les établissements peuvent toutefois se référer à la durée résiduelle, dans la mesure où leur activité le justifie. L'Autorité de contrôle prudentiel et de résolution peut s'y opposer si elle estime que cette condition n'est pas remplie.

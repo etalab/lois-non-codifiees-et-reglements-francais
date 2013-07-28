@@ -26,4 +26,4 @@ g) Un établissement assujetti utilisant des modèles statistiques de prévision
 
 h) La période d'observation des données est d'au moins 5 ans pour l'une au moins des sources de données utilisées par l'établissement assujetti qu'elles soient externes, internes ou partagées. Lorsque la période d'observation disponible pour une source de données est plus longue que pour les autres sources, cette dernière est retenue sous réserve que les données correspondantes soient pertinentes.
 
-Les établissements assujettis peuvent disposer d'historiques de données d'au moins deux ans au moment où ils sont autorisés par l'Autorité de contrôle prudentiel à utiliser l'approche notations internes fondation. Ces historiques augmentent d'un an tous les ans jusqu'à couvrir une période de 5 ans.
+Les établissements assujettis peuvent disposer d'historiques de données d'au moins deux ans au moment où ils sont autorisés par l'Autorité de contrôle prudentiel et de résolution à utiliser l'approche notations internes fondation. Ces historiques augmentent d'un an tous les ans jusqu'à couvrir une période de 5 ans.

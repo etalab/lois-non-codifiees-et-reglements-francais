@@ -2,7 +2,7 @@
 
 Les établissements assujettis qui utilisent les approches notations internes avancées du risque de crédit publient les informations suivantes :
 
-a) Une mention de l'autorisation de l'Autorité de contrôle prudentiel pour l'approche retenue en précisant, le cas échéant, les principales étapes ;
+a) Une mention de l'autorisation de l'Autorité de contrôle prudentiel et de résolution pour l'approche retenue en précisant, le cas échéant, les principales étapes ;
 
 b) Une explication et une analyse :
 

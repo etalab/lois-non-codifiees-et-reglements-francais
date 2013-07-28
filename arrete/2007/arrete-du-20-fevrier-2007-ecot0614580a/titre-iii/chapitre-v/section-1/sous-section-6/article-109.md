@@ -2,7 +2,7 @@
 
 Lorsqu'un établissement assujetti utilise un modèle statistique ou tout autre dispositif automatisé pour attribuer aux expositions les différents notes ou lots, les conditions suivantes doivent être respectées :
 
-a) L'établissement assujetti démontre à l'Autorité de contrôle prudentiel que le modèle a une bonne capacité de prévision et que son utilisation n'entraîne pas de distorsion des exigences de fonds propres. Les variables qui alimentent le modèle forment une base cohérente et efficace permettant le calcul des prévisions. Le modèle ne fait pas l'objet de biais significatifs ;
+a) L'établissement assujetti démontre à l'Autorité de contrôle prudentiel et de résolution que le modèle a une bonne capacité de prévision et que son utilisation n'entraîne pas de distorsion des exigences de fonds propres. Les variables qui alimentent le modèle forment une base cohérente et efficace permettant le calcul des prévisions. Le modèle ne fait pas l'objet de biais significatifs ;
 
 b) L'établissement assujetti a mis en place une procédure permettant de vérifier les données d'entrée du modèle, et plus particulièrement d'en contrôler l'exactitude, l'exhaustivité et la pertinence ;
 

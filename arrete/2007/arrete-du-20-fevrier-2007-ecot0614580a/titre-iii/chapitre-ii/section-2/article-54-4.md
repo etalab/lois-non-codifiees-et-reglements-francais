@@ -10,6 +10,6 @@ b) Les expositions sont renouvelables, ne font l'objet d'aucune protection de cr
 
 c) L'exposition maximum sous forme de crédit accordé à une personne physique donnée au titre de ce sous-portefeuille ne dépasse pas 100 000 euros ;
 
-d) Les établissements assujettis démontrent à l'Autorité de contrôle prudentiel que l'utilisation de la formule de corrélation ci-dessus est limitée aux sous-portefeuilles affichant une faible volatilité des taux de perte par rapport au niveau moyen de ces taux, notamment dans les fourchettes basses de probabilité de défaut.
+d) Les établissements assujettis démontrent à l'Autorité de contrôle prudentiel et de résolution que l'utilisation de la formule de corrélation ci-dessus est limitée aux sous-portefeuilles affichant une faible volatilité des taux de perte par rapport au niveau moyen de ces taux, notamment dans les fourchettes basses de probabilité de défaut.
 
 Les établissements assujettis contrôlent la volatilité relative des taux de perte du sous-portefeuille des expositions renouvelables sur la clientèle de détail pour s'assurer que ce traitement est cohérent avec les caractéristiques de risque sous-jacent du sous-portefeuille.

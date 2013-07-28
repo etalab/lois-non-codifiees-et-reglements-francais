@@ -8,7 +8,7 @@ Elle est dispensée :
 
 -lors d'un cycle d'études à l'Institut d'études politiques de Paris, à l'Ecole nationale de la statistique et de l'administration économique ou dans tout autre établissement délivrant des enseignements adaptés aux besoins du contrôle, et
 
--au sein de l'Autorité de contrôle prudentiel.
+-au sein de l'Autorité de contrôle prudentiel et de résolution.
 
 2° La formation pratique comporte :
 

@@ -1,14 +1,14 @@
 # Article 239
 
-Sous réserve de l'autorisation de l'Autorité de contrôle prudentiel , un établissement assujetti peut attribuer une notation dérivée à une position ne bénéficiant pas d'une évaluation externe de crédit dans un programme de papier commercial adossé à des actifs lorsque les conditions suivantes sont respectées :
+Sous réserve de l'autorisation de l'Autorité de contrôle prudentiel et de résolution, un établissement assujetti peut attribuer une notation dérivée à une position ne bénéficiant pas d'une évaluation externe de crédit dans un programme de papier commercial adossé à des actifs lorsque les conditions suivantes sont respectées :
 
 a) Les positions sur du papier commercial émis dans le cadre du programme bénéficient d'une évaluation externe de crédit ;
 
-b) Les établissements assujettis démontrent à l'Autorité de contrôle prudentiel  que leur méthode d'évaluation interne de la qualité de crédit de la position considérée est aussi fiable, du point de vue des objectifs de la surveillance prudentielle, que la méthodologie mise en oeuvre pour la notation de titres adossés à des expositions du même type que les expositions titrisées par un ou plusieurs organismes externes d'évaluation de crédit reconnus par l'Autorité de contrôle prudentiel . Cette méthodologie doit être publiquement accessible ;
+b) Les établissements assujettis démontrent à l'Autorité de contrôle prudentiel et de résolution que leur méthode d'évaluation interne de la qualité de crédit de la position considérée est aussi fiable, du point de vue des objectifs de la surveillance prudentielle, que la méthodologie mise en oeuvre pour la notation de titres adossés à des expositions du même type que les expositions titrisées par un ou plusieurs organismes externes d'évaluation de crédit reconnus par l'Autorité de contrôle prudentiel. Cette méthodologie doit être publiquement accessible ;
 
 c) Les organismes externes d'évaluation de crédit dont la méthodologie de notation est visée au paragraphe précédent incluent les organismes qui ont fourni une évaluation externe de crédit du papier commercial émis dans le cadre du programme. Les éléments quantitatifs tels que les paramètres de simulation de crise utilisés dans l'attribution d'une qualité de crédit donnée à une position de titrisation sont au moins aussi prudents que ceux utilisés par la méthodologie des organismes externes d'évaluation de crédit ;
 
-d) Lorsqu'ils élaborent leur méthode d'évaluation interne, les établissements assujettis tiennent compte des méthodologies de notation appropriées rendues publiques par des organismes externes d'évaluation de crédit reconnus par l'Autorité de contrôle prudentiel  qui évaluent le papier commercial du programme de papier commercial adossé à des actifs. Cette analyse est documentée et actualisée régulièrement ;
+d) Lorsqu'ils élaborent leur méthode d'évaluation interne, les établissements assujettis tiennent compte des méthodologies de notation appropriées rendues publiques par des organismes externes d'évaluation de crédit reconnus par l'Autorité de contrôle prudentiel et de résolution qui évaluent le papier commercial du programme de papier commercial adossé à des actifs. Cette analyse est documentée et actualisée régulièrement ;
 
 e) La méthodologie d'évaluation interne des établissements assujettis inclut des notes qui font l'objet d'une mise en correspondance dûment documentée avec les évaluations externes de crédit ;
 
@@ -36,4 +36,4 @@ m) Pour évaluer le niveau de rehaussement requis, des séries historiques sur p
 
 n) Le programme de papier commercial adossé à des actifs inclut les éléments structurels, tels que des seuils d'arrêts de rechargement, pour l'acquisition d'expositions, afin de réduire les risques de détérioration de la qualité de crédit du portefeuille sous-jacent.
 
-L'Autorité de contrôle prudentiel  peut autoriser un établissement assujetti à déroger aux exigences d'accès public visées à l'alinéa d ci-dessus lorsqu'il n'existe pas encore de méthode d'évaluation publiquement accessible en raison des caractéristiques spécifiques de la titrisation tel que le caractère unique de la structure.
+L'Autorité de contrôle prudentiel et de résolution peut autoriser un établissement assujetti à déroger aux exigences d'accès public visées à l'alinéa d ci-dessus lorsqu'il n'existe pas encore de méthode d'évaluation publiquement accessible en raison des caractéristiques spécifiques de la titrisation tel que le caractère unique de la structure.

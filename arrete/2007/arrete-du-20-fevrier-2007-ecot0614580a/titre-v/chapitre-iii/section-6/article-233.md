@@ -121,4 +121,4 @@ Dans le tableau susvisé, on entend par :
 
 Lorsque la titrisation comporte une clause de remboursement anticipé des expositions sur la clientèle de détail non confirmées et révocables sans condition à tout moment et sans préavis, et que le remboursement anticipé est déclenché par référence à un seuil quantitatif autre que la marge nette moyenne sur trois mois, l'Autorité de contrôle prudentiel peut appliquer un traitement différent pour déterminer le facteur de conversion. Ce traitement doit se rapprocher étroitement de celui visé à l'article précédent.
 
-L'Autorité de contrôle prudentiel consulte les autorités compétentes de tous les autres Etats membres de l'Union européenne et tient compte des opinions exprimées. Les opinions exprimées durant cette consultation et le traitement adopté sont rendus publics par l'Autorité de contrôle prudentiel.
+L'Autorité de contrôle prudentiel consulte les autorités compétentes de tous les autres Etats membres de l'Union européenne et tient compte des opinions exprimées. Les opinions exprimées durant cette consultation et le traitement adopté sont rendus publics par l'Autorité de contrôle prudentiel et de résolution.

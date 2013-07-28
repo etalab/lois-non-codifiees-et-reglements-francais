@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'application de l'article 74 de la loi n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière, l'Autorité de contrôle prudentiel et de résolution dispose d'un délai de trois mois à compter de la réception du rapport du contrôleur spécifique pour rendre sa décision. Si l'Autorité de contrôle prudentiel et de résolution l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée avec demande d'avis de réception adressée à l'établissement de crédit concerné. Le délai de trois mois prévu ci-dessus est suspendu jusqu'à la réception des informations complémentaires.

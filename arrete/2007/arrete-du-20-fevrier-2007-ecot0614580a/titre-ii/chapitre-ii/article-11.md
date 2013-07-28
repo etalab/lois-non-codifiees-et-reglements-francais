@@ -71,7 +71,7 @@ c) Les expositions sur la Banque centrale européenne sont pondérées à 0 % ;
 
 d) Les expositions sur les administrations centrales et sur les banques centrales des Etats membres libellées et financées dans la devise de l'emprunteur sont pondérées à 0 % ;
 
-e) Lorsque les autorités compétentes d'un pays tiers autorisent l'utilisation d'une pondération inférieure à 100 % ou à la pondération visée à l'alinéa a pour les expositions sur leur administration centrale ou leur banque centrale qui sont libellées et financées dans leur monnaie nationale, les établissements assujettis peuvent appliquer cette même pondération à leurs expositions sur lesdites administration centrale et banque centrale, sous réserve que la réglementation et le régime de surveillance prudentielle soient jugés par l'Autorité de contrôle prudentiel équivalents aux dispositions en vigueur en France ;
+e) Lorsque les autorités compétentes d'un pays tiers autorisent l'utilisation d'une pondération inférieure à 100 % ou à la pondération visée à l'alinéa a pour les expositions sur leur administration centrale ou leur banque centrale qui sont libellées et financées dans leur monnaie nationale, les établissements assujettis peuvent appliquer cette même pondération à leurs expositions sur lesdites administration centrale et banque centrale, sous réserve que la réglementation et le régime de surveillance prudentielle soient jugés par l'Autorité de contrôle prudentiel et de résolution équivalents aux dispositions en vigueur en France ;
 
 f) Les établissements assujettis qui utilisent des évaluations externes de crédit établies par un organisme de crédit à l'exportation appliquent les taux de pondération suivants :
 

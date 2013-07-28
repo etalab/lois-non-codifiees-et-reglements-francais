@@ -6,6 +6,6 @@ a) Les dénominations des organismes externes d'évaluation de crédit et des or
 
 b) Une description de la procédure retenue lorsque les évaluations de crédit de l'émission ou de l'émetteur sont utilisées pour des éléments appartenant au portefeuille bancaire pour lesquels aucune évaluation externe de crédit est disponible ;
 
-c) La mise en correspondance entre les évaluations externes de crédit effectuées par chaque organisme utilisé et les différents échelons de qualité de crédit définis au titre II lorsque celle-ci est plus prudente que celle publiée par l'Autorité de contrôle prudentiel. Cette publication n'est pas exigée lorsque l'établissement assujetti respecte la mise en correspondance publiée par l'Autorité de contrôle prudentiel ;
+c) La mise en correspondance entre les évaluations externes de crédit effectuées par chaque organisme utilisé et les différents échelons de qualité de crédit définis au titre II lorsque celle-ci est plus prudente que celle publiée par l'Autorité de contrôle prudentiel et de résolution. Cette publication n'est pas exigée lorsque l'établissement assujetti respecte la mise en correspondance publiée par l'Autorité de contrôle prudentiel et de résolution ;
 
 d) Les valeurs des expositions et les valeurs exposées au risque ventilées par échelon de qualité de crédit, ainsi que celles déduites des fonds propres.

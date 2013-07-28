@@ -14,7 +14,7 @@ I.-1° Il comporte trois épreuves écrites notées :
 
 -le cycle d'études prévu au 1° de l'article 1er est affecté d'une note qui tient compte des résultats obtenus dans ce cadre (coefficient : 1) ;
 
--les stages visés au 2° de l'article 1er sont affectés chacun d'une note (coefficients : 1 pour le stage dans un organisme d'assurance, 2 pour le stage au sein de l'Autorité de contrôle prudentiel).
+-les stages visés au 2° de l'article 1er sont affectés chacun d'une note (coefficients : 1 pour le stage dans un organisme d'assurance, 2 pour le stage au sein de l'Autorité de contrôle prudentiel et de résolution).
 
 II.-Un jury présidé par le chef du corps de contrôle des assurances est nommé par le ministre chargé de l'économie. Des examinateurs spécialisés peuvent être également désignés par la même autorité afin d'assurer la correction des épreuves de composition et de proposer au jury des notes relatives à ces épreuves.
 

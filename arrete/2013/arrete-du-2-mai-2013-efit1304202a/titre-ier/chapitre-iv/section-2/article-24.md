@@ -1,6 +1,6 @@
 # Article 24
 
-Lorsqu'un établissement mentionné à l'article 22 mandate des personnes implantées sur le territoire de la France métropolitaine, des départements d'outre-mer ou à Saint-Martin pour distribuer, au sens de l'article L. 525-8 du code monétaire et financier, de la monnaie électronique, l'autorité compétente du pays d'origine communique à l'Autorité de contrôle prudentiel les informations suivantes :
+Lorsqu'un établissement mentionné à l'article 22 mandate des personnes implantées sur le territoire de la France métropolitaine, des départements d'outre-mer ou à Saint-Martin pour distribuer, au sens de l'article L. 525-8 du code monétaire et financier, de la monnaie électronique, l'autorité compétente du pays d'origine communique à l'Autorité de contrôle prudentiel et de résolution les informations suivantes :
 
 1° La dénomination sociale et l'adresse du siège social ou, le cas échéant, de l'administration centrale de l'établissement de monnaie électronique ;
 

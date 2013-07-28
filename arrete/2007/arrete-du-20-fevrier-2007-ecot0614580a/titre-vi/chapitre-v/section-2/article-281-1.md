@@ -1,6 +1,6 @@
 # Article 281-1
 
-Nonobstant les dispositions de l'article précédent, l'Autorité de contrôle prudentiel peut autoriser les établissements assujettis à utiliser leurs propres estimations du facteur alpha dans les conditions suivantes :
+Nonobstant les dispositions de l'article précédent, l'Autorité de contrôle prudentiel et de résolution peut autoriser les établissements assujettis à utiliser leurs propres estimations du facteur alpha dans les conditions suivantes :
 
 a) Ce facteur ne peut être inférieur à 1,2 ;
 

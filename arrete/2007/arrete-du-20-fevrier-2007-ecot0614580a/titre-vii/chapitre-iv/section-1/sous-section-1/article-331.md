@@ -14,7 +14,7 @@ i) les éléments retenus sont les suivants :
 
 - la position nette à terme, c'est-à-dire tous les montants à recevoir moins tous les montants à payer en vertu d'opérations de change à terme. Sont considérées comme opérations de change à terme les opérations d'achat ou de vente de devises dont les parties décident de différer le dénouement pour des motifs autres que le délai d'usance prévu à l'article 2 du règlement n° 89-01 susvisé et les contrats financiers à terme sur devises ;
 
-- l'équivalent delta net, ou calculé sur la base du delta, du portefeuille total d'options sur devises. Les positions ainsi obtenues peuvent être compensées avec les positions de signe opposé dans des devises identiques. Lorsque le delta utilisé n'est pas calculé par une autorité de marché, sa méthode de calcul est communiquée préalablement au secrétariat général de l'Autorité de contrôle prudentiel. L'Autorité de contrôle prudentiel peut s'y opposer ;
+- l'équivalent delta net, ou calculé sur la base du delta, du portefeuille total d'options sur devises. Les positions ainsi obtenues peuvent être compensées avec les positions de signe opposé dans des devises identiques. Lorsque le delta utilisé n'est pas calculé par une autorité de marché, sa méthode de calcul est communiquée préalablement au secrétariat général de l'Autorité de contrôle prudentiel et de résolution. L'Autorité de contrôle prudentiel et de résolution peut s'y opposer ;
 
 Les provisions qui sont affectées à la couverture d'éléments d'actif ou hors bilan et qui sont constituées dans des devises autres que celles des éléments d'actif ou hors bilan doivent être :
 
@@ -32,11 +32,11 @@ ii) les éléments exclus sont les suivants :
 
 - les opérations dont le risque de change est supporté par l'Etat ;
 
-- sur sa demande, un établissement peut être autorisé par l'Autorité de contrôle prudentiel à exclure les actifs durables et structurels tels que les titres de participation et de filiales, les immobilisations corporelles et incorporelles, qui sont financés dans une devise autre que leur devise de libellé.
+- sur sa demande, un établissement peut être autorisé par l'Autorité de contrôle prudentiel et de résolution à exclure les actifs durables et structurels tels que les titres de participation et de filiales, les immobilisations corporelles et incorporelles, qui sont financés dans une devise autre que leur devise de libellé.
 
 Toute modification des conditions d'exclusion de ces catégories d'opérations nécessite l'autorisation de l'Autorité de contrôle prudentiel.
 
-L'utilisation de la valeur actuelle est admise pour le calcul de la position nette ouverte dans chaque devise. Cette possibilité est toutefois subordonnée à l'utilisation d'une méthode jugée satisfaisante par le secrétariat général de l'Autorité de contrôle prudentiel, notamment en ce qui concerne les taux d'intérêt retenus pour les calculs d'actualisation.
+L'utilisation de la valeur actuelle est admise pour le calcul de la position nette ouverte dans chaque devise. Cette possibilité est toutefois subordonnée à l'utilisation d'une méthode jugée satisfaisante par le secrétariat général de l'Autorité de contrôle prudentiel et de résolution, notamment en ce qui concerne les taux d'intérêt retenus pour les calculs d'actualisation.
 
 La position sur or est calculée séparément ;
 

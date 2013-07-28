@@ -2,7 +2,7 @@
 
 CLASSIFICATION DES ÉLÉMENTS HORS BILAN
 
-Les éléments qui ne sont pas mentionnés dans cette liste sont classés par les établissements assujettis dans la catégorie des opérations qui présentent des caractéristiques similaires. Le secrétariat général de l'Autorité de contrôle prudentiel peut s'opposer au classement retenu par les établissements assujettis.
+Les éléments qui ne sont pas mentionnés dans cette liste sont classés par les établissements assujettis dans la catégorie des opérations qui présentent des caractéristiques similaires. Le secrétariat général de l'Autorité de contrôle prudentiel et de résolution peut s'opposer au classement retenu par les établissements assujettis.
 
 Eléments classés comme présentant un risque élevé :
 

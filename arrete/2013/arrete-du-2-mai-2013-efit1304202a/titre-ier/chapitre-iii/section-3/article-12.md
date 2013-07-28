@@ -1,6 +1,6 @@
 # Article 12
 
-Sont déclarées dans le délai d'un mois à l'Autorité de contrôle prudentiel les modifications apportées :
+Sont déclarées dans le délai d'un mois à l'Autorité de contrôle prudentiel et de résolution les modifications apportées :
 
 ― aux opérations mentionnées au 2°, à l'exclusion de l'octroi de crédits, et au 3° de l'article L. 526-2 du code monétaire et financier pour lesquelles l'établissement assujetti a été agréé ;
 

@@ -1,6 +1,6 @@
 # Article 44-1
 
-Sous réserve de l'autorisation de l'Autorité de contrôle prudentiel, les établissements assujettis peuvent appliquer l'approche standard du risque de crédit pour les expositions suivantes :
+Sous réserve de l'autorisation de l'Autorité de contrôle prudentiel et de résolution, les établissements assujettis peuvent appliquer l'approche standard du risque de crédit pour les expositions suivantes :
 
 a) Les expositions sur les administrations centrales, les banques centrales et les établissements, lorsque le nombre de contreparties significatives est limité et que la mise en oeuvre d'un système de notations internes pour ces contreparties représenterait une contrainte excessive pour l'établissement assujetti ;
 

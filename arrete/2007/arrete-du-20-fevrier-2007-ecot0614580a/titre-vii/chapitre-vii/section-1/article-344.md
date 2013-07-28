@@ -1,6 +1,6 @@
 # Article 344
 
-En application de l'article 292-3, l'utilisation des modèles internes pour le calcul des exigences de fonds propres est soumise à l'autorisation de l'Autorité de contrôle prudentiel qui subordonne cette autorisation au respect des exigences minimales suivantes :
+En application de l'article 292-3, l'utilisation des modèles internes pour le calcul des exigences de fonds propres est soumise à l'autorisation de l'Autorité de contrôle prudentiel et de résolution qui subordonne cette autorisation au respect des exigences minimales suivantes :
 
 a) Le système de gestion des risques de l'établissement repose sur des principes sains et il est mis en oeuvre de manière intègre ;
 

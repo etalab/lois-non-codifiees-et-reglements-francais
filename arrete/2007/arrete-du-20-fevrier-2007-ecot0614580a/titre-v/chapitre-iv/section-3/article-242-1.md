@@ -1,6 +1,6 @@
 # Article 242-1
 
-Le  montant d'exposition pondérée d'une position de titrisation ou de  retitrisation bénéficiant d'une évaluation externe de crédit est calculé  en appliquant à la valeur exposée au risque la pondération visée  ci-dessous conformément à la décision de mise en correspondance de  l'Autorité de contrôle prudentiel et en multipliant le résultat obtenu  par 1,06. Ce facteur multiplicateur n'est pas appliqué aux positions  pondérées à 1 250 %.
+Le montant d'exposition pondérée d'une position de titrisation ou de retitrisation bénéficiant d'une évaluation externe de crédit est calculé en appliquant à la valeur exposée au risque la pondération visée ci-dessous conformément à la décision de mise en correspondance de l'Autorité de contrôle prudentiel et de résolution et en multipliant le résultat obtenu par 1,06. Ce facteur multiplicateur n'est pas appliqué aux positions pondérées à 1 250 %.
 
 <div align="center">
 
@@ -30,12 +30,12 @@ Le  montant d'exposition pondérée d'une position de titrisation ou de  retitri
 </tr>
 <tr>
 <th>
-<br/>Evaluations de crédit <br/>
-<br/>autres qu'à court terme <br/>
+<br/>Evaluations de crédit <p>autres qu'à court terme <br/>
+</p>
 </th>
 <th>
-<br/>Evaluations de crédit <br/>
-<br/>à court terme <br/>
+<br/>Evaluations de crédit <p>à court terme <br/>
+</p>
 </th>
 <th>
 <br/>A <br/>
@@ -332,7 +332,7 @@ Le  montant d'exposition pondérée d'une position de titrisation ou de  retitri
 </td>
 <td/>
 <td align="center">
-<br/>1   250 </td>
+<br/>1 250 </td>
 </tr>
 </tbody>
 </table>

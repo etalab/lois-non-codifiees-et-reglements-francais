@@ -1,6 +1,6 @@
 # Article 23
 
-Lorsqu'un établissement mentionné à l'article 22 désire établir une succursale, l'autorité compétente du pays d'origine communique à l'Autorité de contrôle prudentiel les informations suivantes :
+Lorsqu'un établissement mentionné à l'article 22 désire établir une succursale, l'autorité compétente du pays d'origine communique à l'Autorité de contrôle prudentiel et de résolution les informations suivantes :
 
 1° La dénomination sociale et l'adresse du siège social ou, le cas échéant, de l'administration centrale de l'établissement de monnaie électronique ;
 

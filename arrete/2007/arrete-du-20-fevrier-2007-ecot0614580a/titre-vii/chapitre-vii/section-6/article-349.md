@@ -10,8 +10,8 @@ b) Elles doivent revêtir un caractère quantitatif et qualitatif, de manière �
 
 c) Un premier type de scénario consiste à tester le portefeuille courant dans les situations passées de perturbations majeures, en tenant compte des fortes variations de prix et de la vive réduction de la liquidité associées à ces événements. Un deuxième type de scénario évalue la sensibilité des positions de marché aux modifications des hypothèses de volatilité et corrélations, ce qui nécessite une mesure des marges de fluctuation de ces valeurs dans le passé et un calcul sur la base des chiffres extrêmes ;
 
-d) Des scénarios doivent notamment comprendre les situations que l'établissement identifie comme étant les plus défavorables, sur la base des caractéristiques de son portefeuille. Il communique à l'Autorité de contrôle prudentiel  une description de la méthodologie utilisée pour identifier les scénarios et mesurer leur impact.
+d) Des scénarios doivent notamment comprendre les situations que l'établissement identifie comme étant les plus défavorables, sur la base des caractéristiques de son portefeuille. Il communique à l'Autorité de contrôle prudentiel et de résolution une description de la méthodologie utilisée pour identifier les scénarios et mesurer leur impact.
 
-Outre les simulations réalisées par les établissements assujettis eux-mêmes, l'Autorité de contrôle prudentiel peut leur demander d'évaluer l'impact de scénarios qu'elle a définis et de lui communiquer l'ensemble des conclusions.
+Outre les simulations réalisées par les établissements assujettis eux-mêmes, l'Autorité de contrôle prudentiel et de résolution peut leur demander d'évaluer l'impact de scénarios qu'elle a définis et de lui communiquer l'ensemble des conclusions.
 
 Les établissements assujettis effectuent également des scénarios de crise inversés (reversed stress tests).

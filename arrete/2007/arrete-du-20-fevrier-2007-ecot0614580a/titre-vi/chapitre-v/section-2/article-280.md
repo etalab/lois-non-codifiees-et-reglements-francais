@@ -12,7 +12,7 @@ où :
 
 - est égal à 1,4.
 
-l'Autorité de contrôle prudentiel peut exiger un facteur alpha supérieur à 1,4.
+l'Autorité de contrôle prudentiel et de résolution peut exiger un facteur alpha supérieur à 1,4.
 
 L'exposition positive attendue effective est calculée comme suit :
 
@@ -38,7 +38,9 @@ où :
 
 L'exposition positive attendue effective est la valeur moyenne de l'exposition attendue effective calculée sur un horizon d'un an. Lorsque tous les contrats inclus dans l'ensemble de compensation arrivent à échéance à cet horizon, l'exposition positive attendue est égale à la moyenne des expositions attendues jusqu'à ce que tous ces contrats arrivent à échéance. L'exposition positive attendue effective est égale à la moyenne pondérée des expositions attendues effectives conformément à la formule suivante :
 
-Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 12
+Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 12 à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20070301&numTexte=12&pageDebut=03796&pageFin=03880
 
 où les pondérations tk = tk- tk-1 permettent de tenir compte des cas où l'exposition future est estimée à des dates qui ne sont pas uniformément réparties dans le temps.
 

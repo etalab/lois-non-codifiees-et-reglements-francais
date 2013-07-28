@@ -22,4 +22,4 @@ d) Lorsqu'ils répartissent leurs expositions par note ou par lot, les établiss
 
 - les caractéristiques de risque de la transaction, y compris la nature du produit ou celle des sûretés réelles. Les établissements assujettis considèrent explicitement les cas où plusieurs expositions sont assorties de la même sûreté réelle ;
 
-- les incidents de paiement, à moins que l'établissement assujetti ne démontre à l'Autorité de contrôle prudentiel qu'il ne s'agit pas d'un facteur de risque significatif.
+- les incidents de paiement, à moins que l'établissement assujetti ne démontre à l'Autorité de contrôle prudentiel et de résolution qu'il ne s'agit pas d'un facteur de risque significatif.

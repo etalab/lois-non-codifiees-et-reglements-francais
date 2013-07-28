@@ -1,6 +1,9 @@
 # Article Annexe
 
-<div align="left">OSEO<br clear="none"/>Société anonyme au capital de 594 778 400 euros<br clear="none"/>Siège social : 27-31, avenue du Général-Leclerc<br clear="none"/>94710 Maisons-Alfort<br clear="none"/>320 252 489 RCS Créteil<br clear="none"/>STATUTS<br clear="none"/>Adoptés par l'assemblée générale extraordinaire<br clear="none"/>du 7 décembre 2010<br clear="none"/>TITRE Ier<br clear="none"/>FORME. ― OBJET. ― DÉNOMINATION. ―<br clear="none"/>SIÈGE. ― DURÉE<br clear="none"/>
+<div align="left">OSEO<br clear="none"/>Société anonyme au capital de 594 778 400 euros<br clear="none"/>Siège social : 27-31, avenue du Général-Leclerc<br clear="none"/>94710 Maisons-Alfort<br clear="none"/>320 252 489 RCS Créteil<br clear="none"/>STATUTS<br clear="none"/>Adoptés par l'assemblée générale extraordinaire<br clear="none"/>du 7 décembre 2010<br clear="none"/>
+<br clear="none"/>
+<br clear="none"/>TITRE Ier<br clear="none"/>
+<br clear="none"/>FORME. ― OBJET. ― DÉNOMINATION. ―SIÈGE. ― DURÉE<br clear="none"/>
 </div>
 
 Article 1er
@@ -11,7 +14,8 @@ La Société est une société anonyme régie par les dispositions législatives
 
 La Société est agréée en qualité de banque et soumise comme telle aux dispositions légales et réglementaires applicables.
 
-<div align="left">Article 2<br clear="none"/>Objet social</div>
+<div align="left">Article 2<br clear="none"/>
+<br clear="none"/>Objet social</div>
 
 2.1. La Société a pour objet, conformément à l'ordonnance du 29 juin 2005 susmentionnée, d'exercer les missions d'intérêt général suivantes :
 
@@ -75,19 +79,22 @@ Les bénéficiaires des garanties consenties par la Société doivent avoir ét�
 
 A l'effet des activités susvisées, la Société peut effectuer toutes opérations mobilières ou immobilières, et notamment acquérir et vendre, prendre et donner à bail à construction ou emphytéotique, faire construire tous immeubles.
 
-<div align="left">Article 3<br clear="none"/>Dénomination sociale</div>
+<div align="left">Article 3<br clear="none"/>
+<br clear="none"/>Dénomination sociale</div>
 
 La dénomination de la Société est : OSEO .
 
 Les actes et documents émanant de la Société et destinés aux tiers doivent indiquer la dénomination sociale, précédée ou suivie immédiatement et lisiblement des mots société anonyme ou des initiales SA et de l'énonciation du montant du capital social.
 
-<div align="left">Article 4<br clear="none"/>Siège social</div>
+<div align="left">Article 4<br clear="none"/>
+<br clear="none"/>Siège social</div>
 
 Le siège social de la Société est fixé 27-31, avenue du Général-Leclerc, 94710 Maisons-Alfort.
 
 Il peut être déplacé dans le même département ou dans un département limitrophe par décision du conseil d'administration, sous réserve de ratification de cette décision par la plus prochaine assemblée générale ordinaire, et ailleurs en vertu d'une décision de l'assemblée générale extraordinaire.
 
-<div align="left">Article 5<br clear="none"/>Durée de la Société</div>
+<div align="left">Article 5<br clear="none"/>
+<br clear="none"/>Durée de la Société</div>
 
 Sauf prorogation ou dissolution anticipée, la durée de la Société est fixée à 99 années à compter de son immatriculation au registre du commerce et des sociétés, soit du 13 novembre 1980.
 
@@ -95,23 +102,27 @@ TITRE II
 
 CAPITAL. ― FORME DES ACTIONS. ― DROITS ATTACHÉS AUX ACTIONS. ― LIBÉRATION DES ACTIONS. ― TRANSMISSION DES ACTIONS
 
-<div align="left">Article 6<br clear="none"/>Capital social</div>
+<div align="left">Article 6<br clear="none"/>
+<br clear="none"/>Capital social</div>
 
 Le capital social est fixé à cinq cent quatre-vingt-quatorze millions sept cent soixante-dix-huit mille quatre cents euros (594 778 400 €). Il est divisé en soixante quatorze millions trois cent quarante-sept mille trois cents (74 347 300) actions de huit euros (8 €) de valeur nominale chacune, entièrement libérées, toutes de même catégorie.
 
 Conformément à l'ordonnance du 29 juin 2005 susmentionnée, l'Etat et l'établissement public OSEO détiennent plus de 50 % du capital de la Société.
 
-<div align="left">Article 7<br clear="none"/>Forme des actions</div>
+<div align="left">Article 7<br clear="none"/>
+<br clear="none"/>Forme des actions</div>
 
 Les actions sont nominatives. Elles donnent lieu à une inscription en compte au nom de leur propriétaire dans les conditions et selon les modalités prévues par les lois et règlements applicables.
 
-<div align="left">Article 8<br clear="none"/>Droits et obligations attachés aux actions</div>
+<div align="left">Article 8<br clear="none"/>
+<br clear="none"/>Droits et obligations attachés aux actions</div>
 
 Outre le droit de vote qui lui est attribué par la loi, chaque action, proportionnellement au nombre d'actions existantes, donne droit à une quotité de l'actif social, des bénéfices ou du boni de liquidation, sous réserve des dispositions de l'article 24.1 ci-dessous.
 
 Chaque fois qu'il est nécessaire de posséder un certain nombre d'actions pour exercer un droit, il appartient aux propriétaires qui ne possèdent pas ce nombre de faire leur affaire du groupement d'actions requis.
 
-<div align="left">Article 9<br clear="none"/>Libération des actions</div>
+<div align="left">Article 9<br clear="none"/>
+<br clear="none"/>Libération des actions</div>
 
 En cas d'augmentation de capital, les actions souscrites en numéraire sont obligatoirement libérées, lors de la souscription, d'un quart au moins de leur valeur nominale et, le cas échéant, de la totalité de la prime d'émission. La libération du surplus intervient, en une ou plusieurs fois, sur décision du conseil d'administration, dans un délai de cinq (5) ans à compter du jour où l'augmentation de capital est devenue définitive.
 
@@ -119,7 +130,8 @@ Les appels de fonds sont portés à la connaissance des actionnaires quinze (15)
 
 A défaut pour l'actionnaire de se libérer des versements exigibles à leur échéance, les sommes dues sont, de plein droit et sans qu'il soit besoin de procéder à une formalité quelconque, productives d'un intérêt au taux légal majoré de deux (2) points, jour après jour, à compter de la date d'exigibilité, sans préjudice de l'action personnelle que la Société peut exercer contre l'actionnaire défaillant et des autres recours et sanctions prévus par la loi.
 
-<div align="left">Article 10<br clear="none"/>Transmission des actions</div>
+<div align="left">Article 10<br clear="none"/>
+<br clear="none"/>Transmission des actions</div>
 
 Sauf en cas de succession, de liquidation du régime matrimonial ou de cession, soit à un conjoint, soit à un ascendant ou à un descendant, et dans les cas de cessions intragroupe indiqués ci-après, la cession d'actions est, à peine de nullité, soumise à l'agrément préalable du conseil d'administration dans les conditions prévues par la loi.
 
@@ -133,11 +145,10 @@ Dans le présent article :
 
 TITRE III
 
-CONSEIL D'ADMINISTRATION. ―
+CONSEIL D'ADMINISTRATION. ―DIRECTION GÉNÉRALE. ― CENSEURS. ― COMITÉS
 
-DIRECTION GÉNÉRALE. ― CENSEURS. ― COMITÉS
-
-<div align="left">Article 11<br clear="none"/>Composition et président du conseil d'administration<br clear="none"/>
+<div align="left">Article 11<br clear="none"/>
+<br clear="none"/>Composition et président du conseil d'administration<br clear="none"/>
 </div>
 
 11.1. Composition du conseil d'administration
@@ -202,7 +213,8 @@ Le temps passé par les membres du conseil aux séances n'est pas déduit de ce 
 
 Les administrateurs ainsi que toute personne appelée à assister aux réunions du conseil d'administration sont tenus à la discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président du conseil d'administration.
 
-<div align="left">Article 12<br clear="none"/>Pouvoirs du conseil d'administration<br clear="none"/>
+<div align="left">Article 12<br clear="none"/>
+<br clear="none"/>Pouvoirs du conseil d'administration<br clear="none"/>
 </div>
 
 12.1. Pouvoirs généraux du conseil d'administration
@@ -217,9 +229,7 @@ Le conseil d'administration procède aux contrôles et vérifications qu'il juge
 
 Conformément à l'ordonnance du 29 juin 2005 susmentionnée, le conseil d'administration fixe, dans des conditions fixées par voie réglementaire, le plafond d'intervention de l'activité mentionnée au paragraphe 1) de l'article 2.1 ci-dessus au titre de chaque exercice, notamment sous forme de subventions publiques ou d'avances remboursables.
 
-12.3. Décisions nécessitant l'autorisation préalable
-
-du conseil d'administration
+12.3. Décisions nécessitant l'autorisation préalable du conseil d'administration
 
 Les décisions suivantes relatives à la Société ou, le cas échéant, à l'une de ses filiales (définies comme les sociétés ou autres entités que la Société contrôle au sens de l'article L. 233-3 du code de commerce, étant précisé que Groupe désigne la Société et ses filiales) devront faire l'objet d'une autorisation préalable du conseil d'administration :
 
@@ -251,7 +261,7 @@ Les décisions suivantes relatives à la Société ou, le cas échéant, à l'un
 
 14) Nomination ou révocation des directeurs généraux délégués de la Société et des directeurs généraux et directeurs généraux délégués des filiales ;
 
-15) Toute décision de la Société entraînant un changement du statut législatif ou réglementaire qui lui est applicable et impliquant une décision de l'Autorité de contrôle prudentiel ;
+15) Toute décision de la Société entraînant un changement du statut législatif ou réglementaire qui lui est applicable et impliquant une décision de l'Autorité de contrôle prudentiel et de résolution ;
 
 16) Toute décision ou opération qui concerne directement ou indirectement l'utilisation des concours financiers de l'Etat ;
 
@@ -261,7 +271,8 @@ Les décisions suivantes relatives à la Société ou, le cas échéant, à l'un
 
 Le conseil d'administration est informé de toute acquisition par la Société de titres de filiales ou de participations d'un montant inférieur à 30 M€.
 
-<div align="left">Article 13<br clear="none"/>Délibérations du conseil d'administration<br clear="none"/>
+<div align="left">Article 13<br clear="none"/>
+<br clear="none"/>Délibérations du conseil d'administration<br clear="none"/>
 </div>
 
 13.1. Convocation du conseil d'administration
@@ -301,10 +312,10 @@ Le règlement intérieur peut prévoir que sont réputés présents, pour le cal
 </font>
 
 <div>
-<p>
-<br clear="none"/>13.3. Majorité</p>
-<p>
-<br clear="none"/>Les décisions sont prises à la majorité des membres présents ou représentés, sous réserve des stipulations contraires des présents statuts. En cas de partage des voix, la voix du président de séance est prépondérante.<br clear="none"/>Toutefois, par exception aux dispositions du paragraphe précédent, les décisions suivantes sont prises à la majorité des membres présents ou représentés et à la majorité des administrateurs représentants des actionnaires visés au paragraphe 2) de l'article 11.1 présents ou représentés (2) :<br clear="none"/>1) Proposition de toute augmentation ou réduction de capital, fusion, scission ou apport de la Société et de ses filiales ;<br clear="none"/>2) Autres propositions de modification des statuts de la Société et de ses filiales ;<br clear="none"/>3) Création ou dissolution de filiales ou d'entités, notamment entraînant une responsabilité indéfinie, par la Société et ses filiales ;<br clear="none"/>4) Signature de conventions d'emprunt portant sur des opérations de financement et refinancement de la Société et ses filiales, les conditions de cette autorisation pouvant, le cas échéant, être précisées par le règlement intérieur du conseil d'administration ;<br clear="none"/>5) Cession, acquisition ou opération d'apport de fonds de commerce, de titres de filiales, de participations, ou d'autres actifs d'un montant supérieur à 30 M€ par la Société et ses filiales ;<br clear="none"/>6) L'adoption et la modification du règlement intérieur du conseil et des comités.<br clear="none"/>En outre, conformément à l'ordonnance du 29 juin 2005 susmentionnée, les délibérations du conseil d'administration qui portent directement ou indirectement sur la mise en œuvre des concours financiers de l'Etat ne peuvent être adoptées sans le vote favorable des représentants de l'Etat mentionnés au paragraphe 2) (i) de l'article 11.1 ci-dessus.</p>
+<p>13.3. Majorité</p>
+<p>Les décisions sont prises à la majorité des membres présents ou représentés, sous réserve des stipulations contraires des présents statuts. En cas de partage des voix, la voix du président de séance est prépondérante.<br clear="none"/>Toutefois, par exception aux dispositions du paragraphe précédent, les décisions suivantes sont prises à la majorité des membres présents ou représentés et à la majorité des administrateurs représentants des actionnaires visés au paragraphe 2) de l'article 11.1 présents ou représentés (2) :<br clear="none"/>
+<br clear="none"/>1) Proposition de toute augmentation ou réduction de capital, fusion, scission ou apport de la Société et de ses filiales ;<br clear="none"/>2) Autres propositions de modification des statuts de la Société et de ses filiales ;<br clear="none"/>3) Création ou dissolution de filiales ou d'entités, notamment entraînant une responsabilité indéfinie, par la Société et ses filiales ;<br clear="none"/>4) Signature de conventions d'emprunt portant sur des opérations de financement et refinancement de la Société et ses filiales, les conditions de cette autorisation pouvant, le cas échéant, être précisées par le règlement intérieur du conseil d'administration ;<br clear="none"/>5) Cession, acquisition ou opération d'apport de fonds de commerce, de titres de filiales, de participations, ou d'autres actifs d'un montant supérieur à 30 M€ par la Société et ses filiales ;<br clear="none"/>6) L'adoption et la modification du règlement intérieur du conseil et des comités.<br clear="none"/>
+<br clear="none"/>En outre, conformément à l'ordonnance du 29 juin 2005 susmentionnée, les délibérations du conseil d'administration qui portent directement ou indirectement sur la mise en œuvre des concours financiers de l'Etat ne peuvent être adoptées sans le vote favorable des représentants de l'Etat mentionnés au paragraphe 2) (i) de l'article 11.1 ci-dessus.</p>
 <font color="#808080" size="1">
 <i>(2) Pour mémoire, cette disposition constitue un avantage particulier et devra être adoptée en suivant la procédure spécifique correspondante. </i>
 </font>
@@ -312,72 +323,81 @@ Le règlement intérieur peut prévoir que sont réputés présents, pour le cal
 
 <div>
 <div/>
-<p>
-<br clear="none"/>13.4. Procès-verbaux</p>
-<p>
-<br clear="none"/>Les procès-verbaux des délibérations du conseil d'administration sont établis et des copies ou extraits en sont délivrés et certifiés conformément aux dispositions légales et réglementaires applicables, selon des modalités définies dans le règlement intérieur du conseil d'administration.</p>
-<div align="left">Article 14<br clear="none"/>Direction générale de la Société<br clear="none"/>
+<p>13.4. Procès-verbaux</p>
+<p>Les procès-verbaux des délibérations du conseil d'administration sont établis et des copies ou extraits en sont délivrés et certifiés conformément aux dispositions légales et réglementaires applicables, selon des modalités définies dans le règlement intérieur du conseil d'administration.</p>
+<div align="left">Article 14<br clear="none"/>
+<br clear="none"/>Direction générale de la Société<br clear="none"/>
 </div>
 <p>14.1. Principes d'organisation de la direction générale</p>
-<p>
-<br clear="none"/>La direction générale de la Société est assumée, sous sa responsabilité, soit par le président du conseil d'administration, soit par une autre personne physique nommée par le conseil d'administration et portant le titre de directeur général.<br clear="none"/>Le conseil d'administration, statuant à la majorité de ses membres présents ou représentés, choisit entre ces deux modes d'exercice de la direction générale. Il peut à tout moment modifier son choix. Les actionnaires et les tiers sont informés du choix opéré par le conseil d'administration dans les conditions légales et réglementaires applicables.<br clear="none"/>Lorsque la direction générale de la Société est assumée par le président du conseil d'administration, les dispositions des présents statuts relatives au directeur général lui sont applicables.</p>
-<p>
-<br clear="none"/>14.2. Directeur général</p>
-<p>
-<br clear="none"/>Le directeur général est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société. Il exerce ces pouvoirs dans la limite de l'objet social et sous réserve de ceux que la loi attribue expressément aux assemblées d'actionnaires et au conseil d'administration.<br clear="none"/>Il représente la Société dans ses rapports avec les tiers. La Société est engagée même par les actes du directeur général qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.<br clear="none"/>A titre d'ordre interne, les pouvoirs du directeur général et, le cas échéant, des directeurs généraux délégués sont limités par l'article 12.3 ci-dessus.<br clear="none"/>Les dispositions des statuts ou les décisions du conseil d'administration limitant les pouvoirs du directeur général sont inopposables aux tiers.<br clear="none"/>Conformément à l'article 3 du décret n° 53-707 du 9 août 1953, la rémunération du directeur général est fixée par décision conjointe du ministre chargé de l'économie et des finances et du ministre chargé du budget, sur proposition du conseil d'administration.</p>
-<p>
-<br clear="none"/>14.3. Directeurs généraux délégués</p>
-<p>
-<br clear="none"/>Sur proposition du directeur général, le conseil d'administration peut nommer jusqu'à cinq (5) personnes physiques chargées d'assister le directeur général et portant le titre de directeurs généraux délégués.<br clear="none"/>Conformément à l'article 3 du décret n° 53-707 du 9 août 1953, la rémunération des directeurs généraux délégués est fixée par décision conjointe du ministre chargé de l'économie et des finances et du ministre chargé du budget, sur proposition du conseil d'administration.<br clear="none"/>En accord avec le directeur général, le conseil d'administration détermine l'étendue et la durée des pouvoirs des directeurs généraux délégués, qui disposent à l'égard des tiers des mêmes pouvoirs que le directeur général.</p>
-<div align="left">Article 15<br clear="none"/>Comités<br clear="none"/>
+<p>La direction générale de la Société est assumée, sous sa responsabilité, soit par le président du conseil d'administration, soit par une autre personne physique nommée par le conseil d'administration et portant le titre de directeur général.<br clear="none"/>
+<br clear="none"/>Le conseil d'administration, statuant à la majorité de ses membres présents ou représentés, choisit entre ces deux modes d'exercice de la direction générale. Il peut à tout moment modifier son choix. Les actionnaires et les tiers sont informés du choix opéré par le conseil d'administration dans les conditions légales et réglementaires applicables.<br clear="none"/>
+<br clear="none"/>Lorsque la direction générale de la Société est assumée par le président du conseil d'administration, les dispositions des présents statuts relatives au directeur général lui sont applicables.</p>
+<p>14.2. Directeur général</p>
+<p>Le directeur général est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société. Il exerce ces pouvoirs dans la limite de l'objet social et sous réserve de ceux que la loi attribue expressément aux assemblées d'actionnaires et au conseil d'administration.<br clear="none"/>
+<br clear="none"/>Il représente la Société dans ses rapports avec les tiers. La Société est engagée même par les actes du directeur général qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.<br clear="none"/>
+<br clear="none"/>A titre d'ordre interne, les pouvoirs du directeur général et, le cas échéant, des directeurs généraux délégués sont limités par l'article 12.3 ci-dessus.<br clear="none"/>
+<br clear="none"/>Les dispositions des statuts ou les décisions du conseil d'administration limitant les pouvoirs du directeur général sont inopposables aux tiers.<br clear="none"/>
+<br clear="none"/>Conformément à l'article 3 du décret n° 53-707 du 9 août 1953, la rémunération du directeur général est fixée par décision conjointe du ministre chargé de l'économie et des finances et du ministre chargé du budget, sur proposition du conseil d'administration.</p>
+<p>14.3. Directeurs généraux délégués</p>
+<p>Sur proposition du directeur général, le conseil d'administration peut nommer jusqu'à cinq (5) personnes physiques chargées d'assister le directeur général et portant le titre de directeurs généraux délégués.<br clear="none"/>Conformément à l'article 3 du décret n° 53-707 du 9 août 1953, la rémunération des directeurs généraux délégués est fixée par décision conjointe du ministre chargé de l'économie et des finances et du ministre chargé du budget, sur proposition du conseil d'administration.<br clear="none"/>
+<br clear="none"/>En accord avec le directeur général, le conseil d'administration détermine l'étendue et la durée des pouvoirs des directeurs généraux délégués, qui disposent à l'égard des tiers des mêmes pouvoirs que le directeur général.</p>
+<div align="left">Article 15<br clear="none"/>
+<br clear="none"/>Comités<br clear="none"/>
 </div>
 <p>15.1. Comités du conseil</p>
-<p>
-<br clear="none"/>Le conseil d'administration met en place un comité chargé d'assurer le suivi des questions relatives à l'élaboration et au contrôle des informations comptables et financières, conformément à l'article L. 823-19 du code de commerce.<br clear="none"/>Le conseil d'administration peut décider la création d'autres comités chargés d'étudier les questions que lui-même ou son président soumet, pour avis, à leur examen. Il précise dans son règlement intérieur la composition et les attributions des comités qui exercent leur activité sous sa responsabilité.</p>
-<p>
-<br clear="none"/>15.2. Comité de sélection et d'engagement pour l'activité<br clear="none"/>innovation stratégique industrielle </p>
-<p>
-<br clear="none"/>Un comité spécialisé est chargé de suivre l'instruction des dossiers et de proposer des décisions d'engagement sur les projets instruits dans le cadre de l'activité innovation stratégique industrielle . En cas de désaccord du commissaire du Gouvernement sur une proposition d'engagement, elle est soumise au conseil d'administration. La composition du comité et ses modalités précises de fonctionnement seront définies dans un règlement intérieur du comité, approuvé par le conseil d'administration.</p>
-<p>
-<br clear="none"/>15.3. Conseil d'orientation</p>
-<p>
-<br clear="none"/>Un conseil d'orientation est chargé d'exprimer un avis consultatif sur le rôle et sur les modalités d'exercice, par la Société et ses filiales, de leurs missions. Ses avis sont communiqués au conseil d'administration.<br clear="none"/>Il se réunit au moins deux fois par an, sur convocation de son président. Sa composition est fixée par un arrêté du ministre chargé de l'économie et du ministre chargé de la recherche.</p>
-<div align="left">Article 16<br clear="none"/>Collège des censeurs</div>
-<p>
-<br clear="none"/>Un collège de censeurs peut être désigné par l'assemblée générale pour assister, avec voix consultative mais sans prendre part au vote, aux réunions du conseil d'administration. Le nombre de censeurs ne pourra pas être supérieur à huit.<br clear="none"/>Ils sont nommés pour une durée égale à celle du mandat des membres du conseil d'administration et sont rééligibles.<br clear="none"/>L'assemblée générale fixe la rémunération des censeurs.</p>
-<p>
-<br clear="none"/>TITRE IV<br clear="none"/>CONTRÔLE DE LA SOCIÉTÉ</p>
-<div align="left">Article 17<br clear="none"/>Conventions réglementées</div>
-<p>
-<br clear="none"/>Conformément à l'ordonnance du 29 juin 2005 susmentionnée, l'article L. 225-38 du code de commerce ne s'applique pas aux conventions conclues entre l'Etat et la Société en application des I et III de l'article 6 de ladite ordonnance et visées à l'article 2.1 ci-dessus.</p>
-<div align="left">Article 18<br clear="none"/>Commissaires aux comptes</div>
-<p>
-<br clear="none"/>Au moins deux commissaires aux comptes titulaires et deux commissaires aux comptes suppléants sont nommés et exercent leurs fonctions dans les conditions prévues par les lois et règlements applicables.</p>
-<p>
-<br clear="none"/>TITRE V<br clear="none"/>ASSEMBLÉES GÉNÉRALES</p>
-<div align="left">Article 19<br clear="none"/>Assemblées générales</div>
-<p>
-<br clear="none"/>Les assemblées générales sont convoquées et délibèrent dans les conditions prévues par les lois et règlements applicables.<br clear="none"/>Elles sont réunies au siège social ou en tout autre lieu indiqué dans la convocation.<br clear="none"/>Tout actionnaire a le droit d'assister aux assemblées générales et de participer aux délibérations personnellement ou par mandataire, ou de voter par correspondance, dans les conditions prévues par les lois et règlements applicables. Pour être pris en compte, le formulaire de vote par correspondance doit avoir été reçu par la Société trois (3) jours au moins avant la date de l'assemblée.<br clear="none"/>Les assemblées sont présidées par le président du conseil d'administration ou, en son absence, par le vice-président du conseil d'administration ou, en l'absence de ce dernier, par un administrateur spécialement délégué à cet effet par le conseil. A défaut, l'assemblée élit elle-même son président.<br clear="none"/>Les procès-verbaux d'assemblées sont dressés et des copies ou extraits sont certifiés et délivrés conformément aux dispositions légales et réglementaires applicables.</p>
-<p>
-<br clear="none"/>TITRE VI<br clear="none"/>ORGANISATION. ― EXERCICE SOCIAL. ― ENREGISTREMENT<br clear="none"/>COMPTABLE. ― AFFECTATION DES RÉSULTATS</p>
-<div align="left">Article 20<br clear="none"/>Organisation</div>
-<p>
-<br clear="none"/>Conformément à l'ordonnance du 29 juin 2005 susmentionnée, la Société est organisée afin que l'activité mentionnée au paragraphe 1) de l'article 2.1 ci-dessus soit exercée de manière distincte de ses autres activités. A cet effet, notamment, la dotation de fonctionnement versée par l'Etat à la Société au titre de cette activité ne peut être affectée qu'aux coûts que cette activité engendre.</p>
-<div align="left">Article 21<br clear="none"/>Exercice social</div>
-<p>
-<br clear="none"/>Chaque exercice social a une durée d'une année, qui commence le premier (1er) janvier et finit le 31 décembre.</p>
-<div align="left">Article 22<br clear="none"/>Comptes. ― Enregistrement comptable<br clear="none"/>et comptabilité analytique</div>
-<p>
-<br clear="none"/>22.1. Les comptes de l'exercice sont arrêtés par le conseil d'administration et approuvés par l'assemblée générale conformément aux lois en vigueur.<br clear="none"/>22.2. Par ailleurs, conformément à l'ordonnance du 29 juin 2005 susmentionnée, la Société établit un enregistrement comptable distinct pour les opérations qu'elle réalise au titre des activités mentionnées au paragraphe 1) de l'article 2.1 ci-dessus et tient une comptabilité analytique distinguant les activités respectivement mentionnées aux paragraphes 1), 2) et 3) de l'article 2.1 ci-dessus, dont les principes sont déterminés par le conseil d'administration après avis du comité d'audit visé à l'article 15 ci-dessus et sont soumis à approbation par le commissaire du Gouvernement.<br clear="none"/>Une ou plusieurs conventions entre l'Etat et la Société précisent les modalités selon lesquelles cet enregistrement et cette gestion comptable sont effectués ainsi que les conditions dans lesquelles ils sont contrôlés et certifiés par un ou plusieurs commissaires aux comptes.</p>
-<div align="left">Article 23<br clear="none"/>Affectation du résultat</div>
-<p>
-<br clear="none"/>23.1. Conformément à l'ordonnance du 29 juin 2005 susmentionnée, les résultats dégagés grâce à l'utilisation de dotations publiques versées à la Société au titre de l'activité mentionnée au paragraphe 1), de l'article 2.1 ci-dessus sont reversés aux financeurs publics ou réaffectés à ladite activité.<br clear="none"/>23.2. Sous réserve des stipulations du paragraphe précédent, si le résultat de l'exercice le permet, après prélèvement destiné à constituer ou parfaire la réserve légale, l'assemblée peut prélever toutes sommes qu'elle juge convenable de fixer soit pour être reportées à nouveau sur l'exercice suivant, soit pour être affectées à un ou plusieurs fonds de réserve généraux ou spéciaux, soit pour être réparties entre les actionnaires.<br clear="none"/>23.3. L'assemblée générale statuant sur les comptes de l'exercice a la faculté d'accorder à chaque actionnaire, pour tout ou partie du dividende mis en distribution ou des acomptes sur dividendes, une option entre le paiement en numéraire ou en actions, dans les conditions prévues par les dispositions législatives et réglementaires en vigueur au jour de sa décision.</p>
-<p>
-<br clear="none"/>TITRE VII<br clear="none"/>DISSOLUTION, LIQUIDATION. ― CONTESTATIONS</p>
-<div align="left">Article 24<br clear="none"/>Dissolution. ― Liquidation</div>
-<p>
-<br clear="none"/>A la dissolution de la Société, un ou plusieurs liquidateurs sont nommés par l'assemblée générale extraordinaire aux conditions de quorum et de majorité prévues pour les assemblées générales ordinaires.<br clear="none"/>Le liquidateur représente la Société jusqu'à la clôture de la liquidation. Il est investi des pouvoirs les plus étendus pour réaliser l'actif, même à l'amiable. Il est habilité à payer les créanciers et répartir le solde disponible. L'assemblée générale des actionnaires peut l'autoriser à continuer les affaires en cours ou à en engager de nouvelles pour les besoins de la liquidation.<br clear="none"/>Il rend compte aux actionnaires de l'accomplissement de sa mission une fois par an sous forme d'un rapport écrit décrivant les diligences effectuées pendant l'année écoulée.</p>
-<div align="left">Article 25<br clear="none"/>Contestations</div>
-<p>
-<br clear="none"/>Toutes contestations qui pourraient s'élever, pendant la durée de la Société ou lors de sa liquidation, soit entre la Société et les actionnaires, soit entre les actionnaires eux-mêmes, concernant les affaires sociales seront soumises à la juridiction des tribunaux compétents du siège social.</p>
+<p>Le conseil d'administration met en place un comité chargé d'assurer le suivi des questions relatives à l'élaboration et au contrôle des informations comptables et financières, conformément à l'article L. 823-19 du code de commerce.<br clear="none"/>
+<br clear="none"/>Le conseil d'administration peut décider la création d'autres comités chargés d'étudier les questions que lui-même ou son président soumet, pour avis, à leur examen. Il précise dans son règlement intérieur la composition et les attributions des comités qui exercent leur activité sous sa responsabilité.</p>
+<p>15.2. Comité de sélection et d'engagement pour l'activité innovation stratégique industrielle </p>
+<p>Un comité spécialisé est chargé de suivre l'instruction des dossiers et de proposer des décisions d'engagement sur les projets instruits dans le cadre de l'activité innovation stratégique industrielle . En cas de désaccord du commissaire du Gouvernement sur une proposition d'engagement, elle est soumise au conseil d'administration. La composition du comité et ses modalités précises de fonctionnement seront définies dans un règlement intérieur du comité, approuvé par le conseil d'administration.</p>
+<p>15.3. Conseil d'orientation</p>
+<p>Un conseil d'orientation est chargé d'exprimer un avis consultatif sur le rôle et sur les modalités d'exercice, par la Société et ses filiales, de leurs missions. Ses avis sont communiqués au conseil d'administration.<br clear="none"/>Il se réunit au moins deux fois par an, sur convocation de son président. Sa composition est fixée par un arrêté du ministre chargé de l'économie et du ministre chargé de la recherche.</p>
+<div align="left">Article 16<br clear="none"/>
+<br clear="none"/>Collège des censeurs</div>
+<p>Un collège de censeurs peut être désigné par l'assemblée générale pour assister, avec voix consultative mais sans prendre part au vote, aux réunions du conseil d'administration. Le nombre de censeurs ne pourra pas être supérieur à huit.<br clear="none"/>
+<br clear="none"/>Ils sont nommés pour une durée égale à celle du mandat des membres du conseil d'administration et sont rééligibles.<br clear="none"/>
+<br clear="none"/>L'assemblée générale fixe la rémunération des censeurs.</p>
+<p>TITRE IV<br clear="none"/>
+<br clear="none"/>CONTRÔLE DE LA SOCIÉTÉ</p>
+<div align="left">Article 17<br clear="none"/>
+<br clear="none"/>Conventions réglementées</div>
+<p>Conformément à l'ordonnance du 29 juin 2005 susmentionnée, l'article L. 225-38 du code de commerce ne s'applique pas aux conventions conclues entre l'Etat et la Société en application des I et III de l'article 6 de ladite ordonnance et visées à l'article 2.1 ci-dessus.</p>
+<div align="left">Article 18<br clear="none"/>
+<br clear="none"/>Commissaires aux comptes</div>
+<p>Au moins deux commissaires aux comptes titulaires et deux commissaires aux comptes suppléants sont nommés et exercent leurs fonctions dans les conditions prévues par les lois et règlements applicables.</p>
+<p>TITRE V<br clear="none"/>
+<br clear="none"/>ASSEMBLÉES GÉNÉRALES</p>
+<div align="left">Article 19<br clear="none"/>
+<br clear="none"/>Assemblées générales</div>
+<p>Les assemblées générales sont convoquées et délibèrent dans les conditions prévues par les lois et règlements applicables.<br clear="none"/>
+<br clear="none"/>Elles sont réunies au siège social ou en tout autre lieu indiqué dans la convocation.<br clear="none"/>
+<br clear="none"/>Tout actionnaire a le droit d'assister aux assemblées générales et de participer aux délibérations personnellement ou par mandataire, ou de voter par correspondance, dans les conditions prévues par les lois et règlements applicables. Pour être pris en compte, le formulaire de vote par correspondance doit avoir été reçu par la Société trois (3) jours au moins avant la date de l'assemblée.<br clear="none"/>
+<br clear="none"/>Les assemblées sont présidées par le président du conseil d'administration ou, en son absence, par le vice-président du conseil d'administration ou, en l'absence de ce dernier, par un administrateur spécialement délégué à cet effet par le conseil. A défaut, l'assemblée élit elle-même son président.<br clear="none"/>
+<br clear="none"/>Les procès-verbaux d'assemblées sont dressés et des copies ou extraits sont certifiés et délivrés conformément aux dispositions légales et réglementaires applicables.</p>
+<p>TITRE VI<br clear="none"/>
+<br clear="none"/>ORGANISATION. ― EXERCICE SOCIAL. ― ENREGISTREMENT COMPTABLE. ― AFFECTATION DES RÉSULTATS</p>
+<div align="left">Article 20<br clear="none"/>
+<br clear="none"/>Organisation</div>
+<p>Conformément à l'ordonnance du 29 juin 2005 susmentionnée, la Société est organisée afin que l'activité mentionnée au paragraphe 1) de l'article 2.1 ci-dessus soit exercée de manière distincte de ses autres activités. A cet effet, notamment, la dotation de fonctionnement versée par l'Etat à la Société au titre de cette activité ne peut être affectée qu'aux coûts que cette activité engendre.</p>
+<div align="left">Article 21<br clear="none"/>
+<br clear="none"/>Exercice social</div>
+<p>Chaque exercice social a une durée d'une année, qui commence le premier (1er) janvier et finit le 31 décembre.</p>
+<div align="left">Article 22<br clear="none"/>
+<br clear="none"/>Comptes. ― Enregistrement comptable et comptabilité analytique</div>
+<p>22.1. Les comptes de l'exercice sont arrêtés par le conseil d'administration et approuvés par l'assemblée générale conformément aux lois en vigueur.<br clear="none"/>
+<br clear="none"/>22.2. Par ailleurs, conformément à l'ordonnance du 29 juin 2005 susmentionnée, la Société établit un enregistrement comptable distinct pour les opérations qu'elle réalise au titre des activités mentionnées au paragraphe 1) de l'article 2.1 ci-dessus et tient une comptabilité analytique distinguant les activités respectivement mentionnées aux paragraphes 1), 2) et 3) de l'article 2.1 ci-dessus, dont les principes sont déterminés par le conseil d'administration après avis du comité d'audit visé à l'article 15 ci-dessus et sont soumis à approbation par le commissaire du Gouvernement.<br clear="none"/>
+<br clear="none"/>Une ou plusieurs conventions entre l'Etat et la Société précisent les modalités selon lesquelles cet enregistrement et cette gestion comptable sont effectués ainsi que les conditions dans lesquelles ils sont contrôlés et certifiés par un ou plusieurs commissaires aux comptes.</p>
+<div align="left">Article 23<br clear="none"/>
+<br clear="none"/>Affectation du résultat</div>
+<p>23.1. Conformément à l'ordonnance du 29 juin 2005 susmentionnée, les résultats dégagés grâce à l'utilisation de dotations publiques versées à la Société au titre de l'activité mentionnée au paragraphe 1), de l'article 2.1 ci-dessus sont reversés aux financeurs publics ou réaffectés à ladite activité.<br clear="none"/>
+<br clear="none"/>23.2. Sous réserve des stipulations du paragraphe précédent, si le résultat de l'exercice le permet, après prélèvement destiné à constituer ou parfaire la réserve légale, l'assemblée peut prélever toutes sommes qu'elle juge convenable de fixer soit pour être reportées à nouveau sur l'exercice suivant, soit pour être affectées à un ou plusieurs fonds de réserve généraux ou spéciaux, soit pour être réparties entre les actionnaires.<br clear="none"/>23.3. L'assemblée générale statuant sur les comptes de l'exercice a la faculté d'accorder à chaque actionnaire, pour tout ou partie du dividende mis en distribution ou des acomptes sur dividendes, une option entre le paiement en numéraire ou en actions, dans les conditions prévues par les dispositions législatives et réglementaires en vigueur au jour de sa décision.</p>
+<p>TITRE VII<br clear="none"/>
+<br clear="none"/>DISSOLUTION, LIQUIDATION. ― CONTESTATIONS</p>
+<div align="left">Article 24<br clear="none"/>
+<br clear="none"/>Dissolution. ― Liquidation</div>
+<p>A la dissolution de la Société, un ou plusieurs liquidateurs sont nommés par l'assemblée générale extraordinaire aux conditions de quorum et de majorité prévues pour les assemblées générales ordinaires.<br clear="none"/>
+<br clear="none"/>Le liquidateur représente la Société jusqu'à la clôture de la liquidation. Il est investi des pouvoirs les plus étendus pour réaliser l'actif, même à l'amiable. Il est habilité à payer les créanciers et répartir le solde disponible. L'assemblée générale des actionnaires peut l'autoriser à continuer les affaires en cours ou à en engager de nouvelles pour les besoins de la liquidation.<br clear="none"/>
+<br clear="none"/>Il rend compte aux actionnaires de l'accomplissement de sa mission une fois par an sous forme d'un rapport écrit décrivant les diligences effectuées pendant l'année écoulée.</p>
+<div align="left">Article 25<br clear="none"/>
+<br clear="none"/>Contestations</div>
+<p>Toutes contestations qui pourraient s'élever, pendant la durée de la Société ou lors de sa liquidation, soit entre la Société et les actionnaires, soit entre les actionnaires eux-mêmes, concernant les affaires sociales seront soumises à la juridiction des tribunaux compétents du siège social.</p>
 </div>

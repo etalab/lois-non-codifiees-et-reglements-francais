@@ -38,7 +38,7 @@ i) les paiements dans le cadre de l'opération ou du montage dépendent des flux
 
 ii) la subordination des tranches détermine l'allocation des pertes pendant la durée de l'opération ou du montage ;
 
-ma)  Retitrisation : une titrisation dans laquelle le risque de crédit  associé à un portefeuille d'expositions sous-jacentes est subdivisé en  tranches et dont au moins une des expositions sous-jacentes est une  position de titrisation ;
+ma) Retitrisation : une titrisation dans laquelle le risque de crédit associé à un portefeuille d'expositions sous-jacentes est subdivisé en tranches et dont au moins une des expositions sous-jacentes est une position de titrisation ;
 
 n) Position de titrisation : une exposition sur une opération ou un montage de titrisation. Les positions de titrisation comprennent les expositions sur une titrisation résultant de contrats dérivés sur taux d'intérêt ou sur taux de change ;
 
@@ -48,7 +48,7 @@ o) Marché reconnu : un marché répondant, quel que soit son pays d'établissem
 
 p) Etat membre : tout Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
-q) Evaluations externes de crédit : pour l'application des dispositions relatives au risque de crédit, les évaluations de crédit établies par un organisme externe d'évaluation de crédit reconnu par l'Autorité de contrôle prudentiel et utilisées conformément aux dispositions du chapitre IV du titre II et, le cas échéant, conformément aux dispositions du chapitre V du titre V ;
+q) Evaluations externes de crédit : pour l'application des dispositions relatives au risque de crédit, les évaluations de crédit établies par un organisme externe d'évaluation de crédit reconnu par l'Autorité de contrôle prudentiel et de résolution et utilisées conformément aux dispositions du chapitre IV du titre II et, le cas échéant, conformément aux dispositions du chapitre V du titre V ;
 
 r) Entités du secteur public : les organismes administratifs non commerciaux sur lesquels les administrations centrales, régionales ou locales exercent un contrôle, les autorités qui exercent des responsabilités similaires aux administrations régionales ou locales, ou tout autre organisme présentant des caractéristiques similaires ;
 
@@ -62,7 +62,7 @@ ii) et en l'absence de garantie de prise en charge par le preneur ou par un tier
 
 u) Portefeuille bancaire : ensemble des éléments d'actifs ou hors bilan qui n'appartiennent pas au portefeuille de négociation tel que défini au titre VII ;
 
-v) Valeur de l'exposition : pour les éléments d'actif, dans le cadre de l'approche standard du risque de crédit, la valeur comptable après déduction, le cas échéant, des dépréciations collectives applicables à ces éléments selon les modalités déterminées par l'Autorité de contrôle prudentiel et, dans le cadre des approches notations internes du risque de crédit, la valeur comptable hors ajustement de valeur et plus ou moins values latentes non prises en compte dans le résultat et dans les fonds propres, et sans tenir compte des plus ou moins-values latentes sur éléments couverts ; pour les éléments hors bilan, le montant nominal ;
+v) Valeur de l'exposition : pour les éléments d'actif, dans le cadre de l'approche standard du risque de crédit, la valeur comptable après déduction, le cas échéant, des dépréciations collectives applicables à ces éléments selon les modalités déterminées par l'Autorité de contrôle prudentiel et de résolution et, dans le cadre des approches notations internes du risque de crédit, la valeur comptable hors ajustement de valeur et plus ou moins values latentes non prises en compte dans le résultat et dans les fonds propres, et sans tenir compte des plus ou moins-values latentes sur éléments couverts ; pour les éléments hors bilan, le montant nominal ;
 
 w) Contrats de location-financement : les contrats de location ayant pour effet, au commencement du contrat, de transférer au preneur la quasi-totalité des risques et des avantages inhérents à la propriété du bien loué, lorsqu'ils sont conclus par les établissements assujettis soumis aux normes IFRS, qui sont ceux qui publient des comptes consolidés selon les normes comptables internationales au sens du règlement (CE) n° 1606-2002 ;
 

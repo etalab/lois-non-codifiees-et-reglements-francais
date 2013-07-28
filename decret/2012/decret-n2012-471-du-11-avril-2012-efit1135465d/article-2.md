@@ -4,4 +4,4 @@ Les habilitations délivrées à la date d'entrée en vigueur du présent décre
 
 Durant ce délai, les dispositions du II de l'article R. 518-58, dans sa rédaction issue du présent décret, leur sont applicables.
 
-A l'issue de ce délai, ces associations et fondations doivent formuler une nouvelle demande d'habilitation auprès de l'Autorité de contrôle prudentiel.
+A l'issue de ce délai, ces associations et fondations doivent formuler une nouvelle demande d'habilitation auprès de l'Autorité de contrôle prudentiel et de résolution.

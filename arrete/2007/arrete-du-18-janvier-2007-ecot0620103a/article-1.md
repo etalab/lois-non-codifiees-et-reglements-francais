@@ -1,6 +1,6 @@
 # Article 1
 
-I.-La notification mentionnée au premier alinéa du III de l'article 8 de l'ordonnance du 23 mars 2006 susvisée est remise à l'Autorité de contrôle prudentiel et contient :
+I.-La notification mentionnée au premier alinéa du III de l'article 8 de l'ordonnance du 23 mars 2006 susvisée est remise à l'Autorité de contrôle prudentiel et de résolution et contient :
 
 a) Le nom et les coordonnées de la personne morale administrant des institutions de retraite professionnelle collective ;
 

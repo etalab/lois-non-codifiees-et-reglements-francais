@@ -1,6 +1,6 @@
 # Article 327
 
-Les établissements assujettis pourront utiliser les techniques de valorisation par actualisation de flux financiers pour calculer directement, par fourchette d'échéance, les sensibilités des instruments de taux et de leur couverture. L'algorithme employé par l'établissement doit être communiqué préalablement au secrétariat général de l'Autorité de contrôle prudentiel. L'Autorité de contrôle prudentiel peut s'opposer à son utilisation. Cette sensibilité doit être évaluée par rapport aux fluctuations indépendantes d'un échantillon de taux sur la courbe de rendement et comporter un point de sensibilité au moins pour chacune des fourchettes visées au tableau ci-dessous :
+Les établissements assujettis pourront utiliser les techniques de valorisation par actualisation de flux financiers pour calculer directement, par fourchette d'échéance, les sensibilités des instruments de taux et de leur couverture. L'algorithme employé par l'établissement doit être communiqué préalablement au secrétariat général de l'Autorité de contrôle prudentiel et de résolution. L'Autorité de contrôle prudentiel et de résolution peut s'opposer à son utilisation. Cette sensibilité doit être évaluée par rapport aux fluctuations indépendantes d'un échantillon de taux sur la courbe de rendement et comporter un point de sensibilité au moins pour chacune des fourchettes visées au tableau ci-dessous :
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 # Article 326
 
-Un établissement assujetti qui souhaite utiliser la méthode de la duration doit faire part préalablement de son intention au secrétariat général de l'Autorité de contrôle prudentiel. L'Autorité de contrôle prudentiel peut s'opposer à l'utilisation de cette méthode. Seuls peuvent y recourir les établissements qui ont les moyens de l'utiliser de manière continue.
+Un établissement assujetti qui souhaite utiliser la méthode de la duration doit faire part préalablement de son intention au secrétariat général de l'Autorité de contrôle prudentiel et de résolution. L'Autorité de contrôle prudentiel et de résolution peut s'opposer à l'utilisation de cette méthode. Seuls peuvent y recourir les établissements qui ont les moyens de l'utiliser de manière continue.
 
 La méthode de la duration comporte les quatre étapes suivantes définies aux alinéas a à d ci-après :
 

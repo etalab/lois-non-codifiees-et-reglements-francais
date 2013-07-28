@@ -18,7 +18,7 @@ iii) les exigences minimales relatives aux biens immobiliers éligibles en tant 
 
 La pondération de 35 % ne s'applique qu'aux expositions ou parts d'exposition dont le montant évalué sur une base régulière est inférieur ou égal à 80 % de la valeur du bien donné en garantie ;
 
-d) l'Autorité de contrôle prudentiel peut autoriser les établissements assujettis à déroger au ii) de l'alinéa c, lorsque le marché immobilier est suffisamment développé et qu'il présente des taux de pertes suffisamment faibles pour justifier ce traitement.
+d) l'Autorité de contrôle prudentiel et de résolution peut autoriser les établissements assujettis à déroger au ii) de l'alinéa c, lorsque le marché immobilier est suffisamment développé et qu'il présente des taux de pertes suffisamment faibles pour justifier ce traitement.
 
 Lorsque les autorités compétentes d'un autre Etat membre appliquent la disposition ci-dessus, les établissements assujettis peuvent appliquer une pondération de 35 % aux opérations conclues avec une contrepartie établie dans cet Etat sous réserve du respect des conditions visées à l'alinéa c.
 

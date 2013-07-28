@@ -1,6 +1,6 @@
 # Article 244
 
-Sous  réserve des dispositions de l'alinéa b de l'article 246, la pondération  applicable à une position de titrisation est déterminée conformément à  la formule suivante lorsque cette dernière est supérieure à 7 % pour une  position de titrisation et à 20 % pour une position de retitrisation :
+Sous réserve des dispositions de l'alinéa b de l'article 246, la pondération applicable à une position de titrisation est déterminée conformément à la formule suivante lorsque cette dernière est supérieure à 7 % pour une position de titrisation et à 20 % pour une position de retitrisation :
 
 Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 12
 
@@ -8,11 +8,13 @@ Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 1
 
 - T est l'épaisseur de la tranche dans laquelle la position est détenue qui est égal au rapport entre le montant nominal de ladite tranche et la somme des valeurs exposées au risque des expositions titrisées. La valeur exposée au risque d'un instrument dérivé visé à l'annexe II est égale au risque de crédit potentiel futur calculé conformément au titre VI, lorsque le coût de remplacement actuel n'est pas une valeur positive ;
 
-- KIRBR est égal au rapport entre KIRB et la somme des valeurs exposées au risque des expositions titrisées. KIRBR est exprimé sous forme décimale ;
+- K<sub>IRBR</sub> est égal au rapport entre K<sub>IRB</sub> et la somme des valeurs exposées au risque des expositions titrisées.
+
+K<sub>IRBR</sub> est exprimé sous forme décimale ;
 
 - L est le niveau du rehaussement de crédit. Il est égal au rapport entre le montant nominal de toutes les tranches subordonnées à la tranche dans laquelle la position est détenue et la somme des valeurs exposées au risque des expositions titrisées. Les bénéfices futurs capitalisés ne sont pas inclus dans le calcul de L. Les montants dus par les contreparties d'instruments dérivés visés à l'annexe II qui représentent des tranches de rang inférieur à la tranche considérée peuvent être mesurés sur la base du coût de remplacement actuel, hors risque potentiel futur ;
 
-- N est le nombre effectif d'expositions titrisées, calculé conformément aux dispositions de l'article 242-4. En  ce qui concerne les retitrisations, l'établissement assujetti tient  compte du nombre d'expositions du portefeuille sous-jacent aux positions  de retitrisation et non pas du portefeuille sous-jacent aux positions  de titrisations ;
+- N est le nombre effectif d'expositions titrisées, calculé conformément aux dispositions de l'article 242-4. En ce qui concerne les retitrisations, l'établissement assujetti tient compte du nombre d'expositions du portefeuille sous-jacent aux positions de retitrisation et non pas du portefeuille sous-jacent aux positions de titrisations ;
 
 - ELGD est la valeur moyenne pondérée des pertes en cas de défaut des expositions titrisées, calculée comme suit :
 
@@ -40,4 +42,4 @@ où C<sub>m</sub> est le rapport entre la somme des valeurs exposées au risque 
 
 - soit N = 1 / C<sub>1,</sub> si seul C<sub>1</sub> est disponible ;
 
-- pour les titrisations comprenant uniquement des expositions sur la clientèle de détail h et v sont égaux à zéro, sauf opposition de l'Autorité de contrôle prudentiel.
+- pour les titrisations comprenant uniquement des expositions sur la clientèle de détail h et v sont égaux à zéro, sauf opposition de l'Autorité de contrôle prudentiel et de résolution.

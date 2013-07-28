@@ -26,7 +26,7 @@ Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 1
 
 où dfk est le taux d'actualisation sans risque pour la période future tk.
 
-Lorsqu'il recourt à un modèle interne pour calculer un ajustement unilatéral de l'évaluation de crédit, un établissement assujetti peut, sous réserve de l'autorisation de l'Autorité de contrôle prudentiel, prendre pour valeur de (M) la duration effective du crédit telle qu'estimée par ledit modèle.
+Lorsqu'il recourt à un modèle interne pour calculer un ajustement unilatéral de l'évaluation de crédit, un établissement assujetti peut, sous réserve de l'autorisation de l'Autorité de contrôle prudentiel et de résolution, prendre pour valeur de (M) la duration effective du crédit telle qu'estimée par ledit modèle.
 
 Sous réserve des dispositions de l'article 89-2, la formule mentionnée au point a s'applique pour les ensembles de compensation ne comprenant que des contrats d'une échéance initiale inférieure à un an.
 

@@ -1,6 +1,6 @@
 # Article 363-1
 
-L'Autorité de contrôle prudentiel peut autoriser les établissements assujettis à utiliser des modèles de mesure avancée, fondée sur leurs propres systèmes de mesure du risque opérationnel, sur la base notamment des éléments suivants :
+L'Autorité de contrôle prudentiel et de résolution peut autoriser les établissements assujettis à utiliser des modèles de mesure avancée, fondée sur leurs propres systèmes de mesure du risque opérationnel, sur la base notamment des éléments suivants :
 
 a) Les dispositifs de validation interne des établissements doivent fonctionner de manière efficace ;
 

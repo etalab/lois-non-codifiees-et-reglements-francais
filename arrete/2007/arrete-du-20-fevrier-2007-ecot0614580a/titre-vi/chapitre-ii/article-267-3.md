@@ -97,7 +97,7 @@ Pour les contrats structurés de manière à présenter un effet de levier par r
 
 Les contrats ne rentrant dans aucune des catégories visées au tableau précédent se voient affecter le coefficient le plus élevé, après prise en compte de leur durée résiduelle.
 
-Après autorisation de l'Autorité de contrôle prudentiel, les établissements assujettis qui exercent une activité importante sur produits de base et disposent d'un portefeuille diversifié de ces produits peuvent utiliser les coefficients suivants à la place des coefficients prévus pour les contrats sur métaux précieux autres que l'or et les contrats sur produits de base :
+Après autorisation de l'Autorité de contrôle prudentiel et de résolution, les établissements assujettis qui exercent une activité importante sur produits de base et disposent d'un portefeuille diversifié de ces produits peuvent utiliser les coefficients suivants à la place des coefficients prévus pour les contrats sur métaux précieux autres que l'or et les contrats sur produits de base :
 
 <table>
 <tbody>

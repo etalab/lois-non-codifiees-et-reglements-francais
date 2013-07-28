@@ -1474,6 +1474,7 @@
 - [Arrêté du 24 janvier 2013 (OMEO1302388A)](arrete-du-24-janvier-2013-omeo1302388a)
 - [Arrêté du 24 janvier 2013 (TRAT1242121A)](arrete-du-24-janvier-2013-trat1242121a)
 - [Arrêté du 24 juillet 2013 (PRMR1318374A)](arrete-du-24-juillet-2013-prmr1318374a)
+- [Arrêté du 24 juin 2008 (SJSS0815492A)](arrete-du-24-juin-2008-sjss0815492a)
 - [Arrêté du 24 juin 2013 (BUDE1312600A)](arrete-du-24-juin-2013-bude1312600a)
 - [Arrêté du 24 juin 2013 (BUDE1316684A)](arrete-du-24-juin-2013-bude1316684a)
 - [Arrêté du 24 juin 2013 (DEVA1302020A)](arrete-du-24-juin-2013-deva1302020a)

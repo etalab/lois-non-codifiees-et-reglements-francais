@@ -4,4 +4,4 @@ Pour l'application des articles L. 526-27 et L. 526-32 du code monétaire et fin
 
 Lorsque l'établissement assujetti n'a pas encore effectué un exercice complet à la date du calcul, il reprend pour le premier trimestre à venir le chiffre prévu dans son programme d'activité majoré de 30 %, puis le chiffre du premier trimestre écoulé majoré de 20 %, puis le chiffre des deux premiers trimestres en retenant le plus élevé, majoré de 20 %, enfin le chiffre des trois premiers trimestres en retenant le plus élevé, majoré de 10 %.
 
-L'Autorité de contrôle prudentiel peut ajuster ces exigences si la situation le justifie.
+L'Autorité de contrôle prudentiel et de résolution peut ajuster ces exigences si la situation le justifie.
