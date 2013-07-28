@@ -1,3 +1,3 @@
 # Article 8
 
-L'arrêté mentionné à l'article L. 11 du code du domaine de l'Etat acceptant la libéralité consentie à l'Etat vaut titre de perception.
+L'arrêté mentionné à l'article R. 1121-1 du code général de la propriété des personnes publiques permet la comptabilisation de la recette correspondante selon la procédure de fonds de concours.
