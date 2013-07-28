@@ -209,7 +209,6 @@
 - [Arrêté du 4 décembre 2012 (ETSD1240859A)](arrete-du-4-decembre-2012-etsd1240859a)
 - [Arrêté du 4 décembre 2012 (INTA1236363A)](arrete-du-4-decembre-2012-inta1236363a)
 - [Arrêté du 4 décembre 2012 (INTC1236270A)](arrete-du-4-decembre-2012-intc1236270a)
-- [Arrêté du 4 décembre 2012 (INTJ1225954A)](arrete-du-4-decembre-2012-intj1225954a)
 - [Arrêté du 4 décembre 2012 (INTV1240594A)](arrete-du-4-decembre-2012-intv1240594a)
 - [Arrêté du 4 février 2004 (MENF0302903A)](arrete-du-4-fevrier-2004-menf0302903a)
 - [Arrêté du 4 janvier 2012 (AGRE1131213A)](arrete-du-4-janvier-2012-agre1131213a)
