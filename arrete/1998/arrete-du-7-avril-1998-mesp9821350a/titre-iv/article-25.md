@@ -22,7 +22,7 @@ Sont dispensées de la première année d'études en vue du diplôme d'Etat de p
 
 -licence des sciences et techniques des activités physiques et sportives ;
 
--brevets d'Etat classés dans le tableau A de l'arrêté du 4 mai 1995 fixant la liste des diplômes ouvrant droit à l'enseignement, l'encadrement et l'animation des activités physiques et sportives conformément à l'article 43 de la loi n° 84-610 du 16 juillet 1984 modifiée relative à l'organisation et à la promotion de ces activités ;
+-diplômes mentionnés en annexe de l'article A. 212-2 du code des sports et mentionné à l'article D. 212-35 du code des sports s ;
 
 -diplôme de maître d'éducation physique ;
 
