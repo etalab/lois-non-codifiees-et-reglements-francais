@@ -936,7 +936,6 @@
 - [Arrêté du 31 juillet 2003 (SOCF0311226A)](arrete-du-31-juillet-2003-socf0311226a)
 - [Arrêté du 31 juillet 2003 (SOCF0311227A)](arrete-du-31-juillet-2003-socf0311227a)
 - [Arrêté du 31 juillet 2003 (SOCF0311231A)](arrete-du-31-juillet-2003-socf0311231a)
-- [Arrêté du 31 juillet 2003 (SOCF0311233A)](arrete-du-31-juillet-2003-socf0311233a)
 - [Arrêté du 31 juillet 2003 (SOCF0311234A)](arrete-du-31-juillet-2003-socf0311234a)
 - [Arrêté du 31 juillet 2003 (SOCF0311235A)](arrete-du-31-juillet-2003-socf0311235a)
 - [Arrêté du 31 juillet 2003 (SPRK0370140A)](arrete-du-31-juillet-2003-sprk0370140a)
