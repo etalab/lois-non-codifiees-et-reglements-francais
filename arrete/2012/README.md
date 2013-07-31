@@ -137,7 +137,6 @@
 - [Arrêté du 3 février 2012 (DEVK1133148A)](arrete-du-3-fevrier-2012-devk1133148a)
 - [Arrêté du 3 février 2012 (DEVK1133504A)](arrete-du-3-fevrier-2012-devk1133504a)
 - [Arrêté du 3 février 2012 (DEVK1202528A)](arrete-du-3-fevrier-2012-devk1202528a)
-- [Arrêté du 3 février 2012 (DEVL1203355A)](arrete-du-3-fevrier-2012-devl1203355a)
 - [Arrêté du 3 février 2012 (ETSD1203416A)](arrete-du-3-fevrier-2012-etsd1203416a)
 - [Arrêté du 3 février 2012 (ETSP1203709A)](arrete-du-3-fevrier-2012-etsp1203709a)
 - [Arrêté du 3 février 2012 (JUSA1203783A)](arrete-du-3-fevrier-2012-jusa1203783a)

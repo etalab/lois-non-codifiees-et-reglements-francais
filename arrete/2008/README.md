@@ -1193,7 +1193,6 @@
 - [Arrêté du 30 juillet 2008 (DEVA0819000A)](arrete-du-30-juillet-2008-deva0819000a)
 - [Arrêté du 30 juillet 2008 (DEVK0818255A)](arrete-du-30-juillet-2008-devk0818255a)
 - [Arrêté du 30 juillet 2008 (DEVN0816507A)](arrete-du-30-juillet-2008-devn0816507a)
-- [Arrêté du 30 juillet 2008 (DEVN0816513A)](arrete-du-30-juillet-2008-devn0816513a)
 - [Arrêté du 30 juillet 2008 (ECEC0814095A)](arrete-du-30-juillet-2008-ecec0814095a)
 - [Arrêté du 30 juillet 2008 (ECES0819398A)](arrete-du-30-juillet-2008-eces0819398a)
 - [Arrêté du 30 juillet 2008 (MTSS0818996A)](arrete-du-30-juillet-2008-mtss0818996a)
