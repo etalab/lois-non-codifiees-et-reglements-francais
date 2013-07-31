@@ -267,28 +267,6 @@
 <p align="center">57</p>
 </td>
 <td width="284">
-<p>Centre hospitalier régional de Metz-Thionville, site hôpital-maternité de Metz </p>
-</td>
-<td width="284">
-<p>Metz</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">57</p>
-</td>
-<td width="284">
-<p>Alpha-Santé, site de l'hôpital d'Hayange</p>
-</td>
-<td width="284">
-<p>Hayange</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">57</p>
-</td>
-<td width="284">
 <p>Hôpital d'instruction des armées Legouest</p>
 </td>
 <td width="284">
@@ -410,7 +388,7 @@
 <p align="center">88</p>
 </td>
 <td width="284">
-<p>Centre hospitalier de Neufchâteau</p>
+<p>88. Centre hospitalier Ouest vosgien (CHOV) </p>
 </td>
 <td width="284">
 <p>Neufchâteau</p>

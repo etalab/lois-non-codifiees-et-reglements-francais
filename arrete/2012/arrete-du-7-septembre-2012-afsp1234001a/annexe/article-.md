@@ -29,7 +29,7 @@
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
 <td>
-<p>1. Lille, site de Lille Trévise Belfort (D'Halluin)</p>
+<p>1. site de Loos Eurasanté Epi de Soil </p>
 </td>
 </tr>
 <tr>
@@ -183,9 +183,6 @@
 
 <br/>
 <p>2. Etablissements de santé autorisés à gérer un dépôt de sang</p>
-<p>
-<br/>
-</p>
 <div align="center">
 
 <table>
