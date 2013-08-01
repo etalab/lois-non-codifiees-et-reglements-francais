@@ -42,13 +42,9 @@ Son travail nécessite le plus souvent :
 
 -une spécialisation passant par des certifications d'éditeurs et de fabricants ou par la contribution à une communauté du logiciel libre.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes de la certification
 
-des composantes de la certification
-
-1. Intervenir et assister à distance
-
-en centre de services informatiques
+1. Intervenir et assister à distance en centre de services informatiques
 
 Assister les utilisateurs dans un environnement informatique et numérique.
 
@@ -62,9 +58,7 @@ Participer au suivi de parc et à la gestion des configurations informatiques.
 
 Mettre en œuvre et maintenir des machines virtuelles.
 
-2. Intervenir et assister sur les systèmes
-
-et les réseaux informatiques
+2. Intervenir et assister sur les systèmes et les réseaux informatiques
 
 Intervenir sur une infrastructure de réseau TCP / IP.
 
@@ -80,9 +74,7 @@ Déployer des postes de travail sur un réseau d'entreprise.
 
 Contribuer à la gestion des problèmes informatiques.
 
-3. Intervenir et assister sur les applications
-
-informatiques transverses
+3. Intervenir et assister sur les applications informatiques transverses
 
 Intervenir sur un système de messagerie informatique.
 
@@ -96,9 +88,7 @@ Organiser et développer la veille technologique en informatique.
 
 Utiliser l'anglais dans son activité professionnelle en informatique.
 
-Secteur d'activité ou types d'emploi
-
-accessibles par le détenteur du titre
+Secteur d'activité ou types d'emploi accessibles par le détenteur du titre
 
 Tous les secteurs d'activité sont concernés par ce métier, qui peut s'exercer en entreprise ou en société de services en ingénierie informatiques (SSII).
 
