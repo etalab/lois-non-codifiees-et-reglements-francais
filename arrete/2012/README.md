@@ -1390,7 +1390,6 @@
 - [Arrêté du 16 juin 2012 (PRMX1224080A)](arrete-du-16-juin-2012-prmx1224080a)
 - [Arrêté du 16 mars 2007 (AGRG0700691A)](arrete-du-16-mars-2007-agrg0700691a)
 - [Arrêté du 16 mars 2007 (AGRG0700692A)](arrete-du-16-mars-2007-agrg0700692a)
-- [Arrêté du 16 mars 2012 (AGRG1207518A)](arrete-du-16-mars-2012-agrg1207518a)
 - [Arrêté du 16 mars 2012 (BCRE1203168A)](arrete-du-16-mars-2012-bcre1203168a)
 - [Arrêté du 16 mars 2012 (BCRE1203975A)](arrete-du-16-mars-2012-bcre1203975a)
 - [Arrêté du 16 mars 2012 (DEFD1209196A)](arrete-du-16-mars-2012-defd1209196a)
