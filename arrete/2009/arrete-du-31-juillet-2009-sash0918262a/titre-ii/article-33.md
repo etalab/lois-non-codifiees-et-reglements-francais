@@ -10,6 +10,4 @@ Sont autorisées à se présenter au jury du diplôme d'Etat d'infirmier prévu 
 
 4° Avoir réalisé un stage à temps complet d'une durée de cinq semaines permettant la validation de l'acquisition des compétences 1 et 4 définies à l'annexe II.
 
-Les modalités du stage sont fixées par le directeur de l'institut de formation.
-
-Le conseil pédagogique en est informé.
+Les modalités du stage sont fixées par le directeur de l'institut de formation après avis du conseil pédagogique.

@@ -2,9 +2,9 @@
 
 Peuvent se présenter aux épreuves de sélection :
 
-1° Les titulaires du baccalauréat français ;
+1° Les titulaires du baccalauréat français, les candidats titulaires d'un titre ou diplôme étranger leur permettant d'accéder directement à des études universitaires dans le pays où il a été obtenu ;
 
-2° Les titulaires de l'un des titres énoncés par l'arrêté du 25 août 1969 modifié susvisé, ou d'un titre admis en dispense du baccalauréat français en application du décret n° 81-1221 du 31 décembre 1981 susvisé ;
+2° Les titulaires de l'un des titres énoncés par l'arrêté du 25 août 1969 modifié susvisé, ou d'un titre admis en dispense du baccalauréat français, en application du décret n° 81-1221 du 31 décembre 1981 susvisé ;
 
 3° Les titulaires d'un titre homologué au minimum au niveau IV ;
 
