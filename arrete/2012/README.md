@@ -1551,7 +1551,6 @@
 - [Arrêté du 18 avril 2012 (JUST1222336A)](arrete-du-18-avril-2012-just1222336a)
 - [Arrêté du 18 avril 2012 (MCCB1210158A)](arrete-du-18-avril-2012-mccb1210158a)
 - [Arrêté du 18 avril 2012 (MENE1221025A)](arrete-du-18-avril-2012-mene1221025a)
-- [Arrêté du 18 avril 2012 (OMEO1220986A)](arrete-du-18-avril-2012-omeo1220986a)
 - [Arrêté du 18 avril 2012 (PRMX1210071A)](arrete-du-18-avril-2012-prmx1210071a)
 - [Arrêté du 18 décembre 2012 (AFSA1240609A)](arrete-du-18-decembre-2012-afsa1240609a)
 - [Arrêté du 18 décembre 2012 (AGRS1240537A)](arrete-du-18-decembre-2012-agrs1240537a)
