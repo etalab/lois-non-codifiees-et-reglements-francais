@@ -42,4 +42,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'implantation d'Istres du service territorial Centre de la direction départementale des territoires et de la mer des Bouches-du-Rhône ;
 
-- fermeture du service territorial Est de Gonesse de la direction départementale des territoires du Val-d'Oise.
+- fermeture du service territorial Est de Gonesse de la direction départementale des territoires du Val-d'Oise ;
+
+- fermeture du site territorial de Fontainebleau de la direction départementale des territoires de Seine-et-Marne ;
+
+- fermeture du site d'inspection sanitaire permanente de l'abattoir de Nogent-le-Rotrou de la direction départementale de la cohésion sociale et de la protection des populations d'Eure-et-Loir.
