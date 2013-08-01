@@ -2,7 +2,7 @@
 
 L'évaluation de fin d'études est sanctionnée par la délivrance d'un diplôme. Il est décerné aux étudiants ayant satisfait au cursus général des études et soutenu leurs travaux de fin d'études devant le jury. Les étudiants sont déclarés diplômés après délibération du jury.
 
-Le directeur général de l'école désigne un jury pour chaque département : production, scénario, réalisation, décor, image, son, montage, scripte, distribution-exploitation.
+Le directeur général de l'école désigne un jury pour chaque département : production, scénario, réalisation, décor, image, son, montage, scripte, distribution-exploitation, création de séries télévisuelles.
 
 Chaque jury est présidé par le président du conseil d'administration de l'école ou son représentant. Il comprend également :
 

@@ -15,3 +15,7 @@ Les étudiants du cursus scripte suivent le tronc commun du cursus principal, pu
 III. - Le cursus distribution-exploitation a une durée de deux ans.
 
 Les étudiants du cursus distribution-exploitation suivent une partie du tronc commun du cursus principal, puis un enseignement spécifique.
+
+IV. - Le cursus création de séries télévisuelles a une durée d'un an.
+
+Les étudiants du cursus création de séries télévisuelles suivent un enseignement spécifique comprenant des séquences d'analyse des caractéristiques dramaturgiques et des particularités de la production de séries télévisuelles, des ateliers spécifiques et des projets d'écriture.

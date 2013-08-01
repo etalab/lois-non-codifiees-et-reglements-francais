@@ -1,6 +1,6 @@
 # Article 1
 
-La formation initiale dispensée à l'Ecole nationale supérieure des métiers de l'image et du son est composée des trois cursus suivants :
+La formation initiale dispensée à l'Ecole nationale supérieure des métiers de l'image et du son est composée des cursus suivants :
 
 1° Un cursus principal organisé autour de sept départements :
 
@@ -24,4 +24,6 @@ g) Montage ;
 
 a) Distribution ;
 
-b) Exploitation.
+b) Exploitation ;
+
+4° Un cursus création de séries télévisuelles avec un département : création de séries télévisuelles.
