@@ -4,6 +4,7 @@ Pendant une période de trois ans à compter de l'entrée en vigueur du présent
 
 Lorsque le nombre d'inscriptions en liste d'aptitude calculé en application de l'alinéa précédent n'est pas un nombre entier, la décimale est ajoutée au nombre calculé au titre de l'année suivante.
 
-Par dérogation aux dispositions de l'article 20-5 du décret du 20 novembre 1985 susvisé, lorsque l'application des dispositions qui précèdent n'a permis de procéder à aucune inscription en liste d'aptitude, une inscription peut être réalisée au titre de l'année 2015.
+Par dérogation aux dispositions de l'article 30 du décret n° 2013-593 du 5 juillet 2013
+relatif aux conditions générales de recrutement et d'avancement de grade et portant dispositions statutaires diverses applicables aux fonctionnaires de la fonction publique territoriale, lorsque l'application des dispositions qui précèdent n'a permis de procéder à aucune inscription en liste d'aptitude, une inscription peut être réalisée au titre de l'année 2015.
 
 Les dispositions du présent article s'appliquent lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des dispositions du premier alinéa de l'article 9 du décret du 22 mars 2010 susvisé.
