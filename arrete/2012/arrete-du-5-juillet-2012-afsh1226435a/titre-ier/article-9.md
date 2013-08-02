@@ -1,8 +1,8 @@
 # Article 9
 
-L'acquisition des compétences en situation et la validation des actes, activités et techniques de soins, se fait progressivement au cours de la formation.
+L'acquisition des compétences en situation et leur validation se font progressivement au cours de la formation.
 
-La progression de l'étudiant au cours de la formation clinique est appréciée à partir du portfolio dont le modèle est défini à l'annexe V. Le portfolio comporte des éléments inscrits par l'étudiant, le tuteur, et le formateur référent de la formation clinique de l'institut de formation.
+La progression de l'étudiant au cours de la formation clinique est appréciée à partir du portfolio dont le modèle est défini à l'annexe V. Le portfolio comporte des éléments inscrits par l'étudiant, le tuteur et le formateur référent de la formation clinique de l'institut de formation. Les activités réalisées en formation clinique font l'objet d'un suivi et d'une traçabilité.
 
 A l'issue de chaque période de formation clinique, les responsables de l'encadrement évaluent les acquisitions des éléments de chacune des compétences sur la base des critères et indicateurs notifiés dans le portfolio.
 
