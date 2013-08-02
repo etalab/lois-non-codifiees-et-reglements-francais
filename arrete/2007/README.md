@@ -1041,7 +1041,6 @@
 - [Arrêté du 30 octobre 2007 (AGRS0766404A)](arrete-du-30-octobre-2007-agrs0766404a)
 - [Arrêté du 30 octobre 2007 (SJSP0770001A)](arrete-du-30-octobre-2007-sjsp0770001a)
 - [Arrêté du 30 mai 2007 (JUSA0755185A)](arrete-du-30-mai-2007-jusa0755185a)
-- [Arrêté du 30 mai 2007 (MAEA0755385A)](arrete-du-30-mai-2007-maea0755385a)
 - [Arrêté du 31 janvier 2007 (SOCK0710043A)](arrete-du-31-janvier-2007-sock0710043a)
 - [Arrêté du 31 juillet 2003 (SOCF0311186A)](arrete-du-31-juillet-2003-socf0311186a)
 - [Arrêté du 31 juillet 2007 (AGRP0761907A)](arrete-du-31-juillet-2007-agrp0761907a)

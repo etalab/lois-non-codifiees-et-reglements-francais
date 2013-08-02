@@ -290,7 +290,6 @@
 - [Arrêté du 9 septembre 1992 (INTA9200437A)](arrete-du-9-septembre-1992-inta9200437a)
 - [Arrêté du 9 septembre 1992 (INTA9200439A)](arrete-du-9-septembre-1992-inta9200439a)
 - [Arrêté du 9 septembre 1992 (INTA9200443A)](arrete-du-9-septembre-1992-inta9200443a)
-- [Arrêté du 9 septembre 1992 (INTA9220119A)](arrete-du-9-septembre-1992-inta9220119a)
 - [Arrêté du 9 septembre 1992 (MERG9200129A)](arrete-du-9-septembre-1992-merg9200129a)
 - [Arrêté du 9 septembre 1992 (SANM9201517A)](arrete-du-9-septembre-1992-sanm9201517a)
 - [Arrêté du 10 août 1988 (MENK8870006A)](arrete-du-10-aout-1988-menk8870006a)
