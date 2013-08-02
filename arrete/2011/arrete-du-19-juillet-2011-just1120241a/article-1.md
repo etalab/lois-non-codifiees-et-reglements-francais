@@ -36,8 +36,6 @@ Au service de l'administration centrale :
 
 A la direction des services judiciaires
 
-― adjoint au sous-directeur des ressources humaines des greffes ;
-
 ― chef du bureau des frais de justice et de l'optimisation de la dépense ;
 
 ― chef du bureau des carrières et de la mobilité professionnelle ;
@@ -92,6 +90,8 @@ A la direction de la protection judiciaire de la jeunesse
 
 ― chef du bureau des relations sociales et des statuts de la direction de la protection judiciaire de la jeunesse ;
 
+― chef du bureau du contrôle de gestion et d'appui au pilotage à la direction de la protection judiciaire de la jeunesse
+
 ― auditeur au service audit central national ;
 
 ― chargé de la mission du suivi personnalisé des carrières de l'encadrement de la protection judiciaire de la jeunesse ;
@@ -106,7 +106,7 @@ A la direction de la protection judiciaire de la jeunesse
 
 ― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Centre Est ;
 
-― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Grand Est ;
+― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Grand-Nord  ;
 
 ― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Sud-Est ;
 
@@ -122,4 +122,4 @@ A la direction de la protection judiciaire de la jeunesse
 
 ― directeur des ressources humaines en direction interrégionale Sud-Est ;
 
-― directeur des ressources humaines en direction interrégionale Centre.
+― directeur des ressources humaines en direction interrégionale Grand-Centre.
