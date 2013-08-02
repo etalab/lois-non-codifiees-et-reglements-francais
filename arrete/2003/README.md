@@ -938,7 +938,6 @@
 - [Arrêté du 31 juillet 2003 (SOCF0311235A)](arrete-du-31-juillet-2003-socf0311235a)
 - [Arrêté du 31 juillet 2003 (SPRK0370140A)](arrete-du-31-juillet-2003-sprk0370140a)
 - [Arrêté du 31 mars 2003 (AGRP0300756A)](arrete-du-31-mars-2003-agrp0300756a)
-- [Arrêté du 31 mars 2003 (AGRP0300757A)](arrete-du-31-mars-2003-agrp0300757a)
 - [Arrêté du 31 mars 2003 (BUDF0300009A)](arrete-du-31-mars-2003-budf0300009a)
 - [Arrêté du 31 mars 2003 (EQUS0300598A)](arrete-du-31-mars-2003-equs0300598a)
 - [Arrêté du 31 mars 2003 (PRMD0350004A)](arrete-du-31-mars-2003-prmd0350004a)
