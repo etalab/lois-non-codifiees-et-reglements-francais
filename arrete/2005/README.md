@@ -162,7 +162,6 @@
 - [Arrêté du 11 avril 2005 (AGRA0500749A)](arrete-du-11-avril-2005-agra0500749a)
 - [Arrêté du 11 avril 2005 (EQUP0500598A)](arrete-du-11-avril-2005-equp0500598a)
 - [Arrêté du 11 avril 2005 (INTB0500227D)](arrete-du-11-avril-2005-intb0500227d)
-- [Arrêté du 11 avril 2005 (MENA0402949A)](arrete-du-11-avril-2005-mena0402949a)
 - [Arrêté du 11 janvier 2005 (DEFP0500101A)](arrete-du-11-janvier-2005-defp0500101a)
 - [Arrêté du 11 janvier 2005 (ECOK0400092A)](arrete-du-11-janvier-2005-ecok0400092a)
 - [Arrêté du 11 juillet 2005 (MENE0501451A)](arrete-du-11-juillet-2005-mene0501451a)
