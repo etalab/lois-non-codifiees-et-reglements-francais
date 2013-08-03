@@ -110,6 +110,8 @@ Interopérabilité
 
 Les équipements techniques du dispositif sont conformes avec les exigences de la directive européenne 2004/52/ CE du 29 avril 2004 et avec la décision 2009/750/ CE de la Commission européenne concernant l'interopérabilité des systèmes de télépéage routiers dans la Communauté.
 
+Toutefois et par dérogation au point 2.1.2 de l'annexe III de la décision 2009/750/CE susmentionnée, il n'est pas exigé que les équipements techniques du dispositif soient conformes à la norme ETSI ES 200674-1.
+
 Article 5
 
 Conformité électrique

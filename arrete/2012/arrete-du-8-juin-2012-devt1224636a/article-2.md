@@ -6,7 +6,7 @@ II. - La demande d'agrément est adressée au ministre chargé des transports, a
 
 III. - Le périmètre de l'agrément est identique à celui de la demande d'accréditation ayant conduit à la délivrance du courrier notifiant la recevabilité opérationnelle.
 
-L'agrément est délivré pour une durée de douze mois. Il peut être renouvelé une fois, pour une durée maximale de six mois.
+L'agrément est délivré pour une durée de douze mois. Il peut être renouvelé plusieurs fois, par périodes de de six mois.
 
 IV. ― Un organisme certificateur dont l'accréditation a été suspendue peut, à titre dérogatoire, recevoir un agrément sans qu'il soit nécessaire de remplir les conditions prévues aux alinéas précédents du présent article, d'une durée limitée à la durée de cette suspension, quand les conditions suivantes sont réunies :
 
