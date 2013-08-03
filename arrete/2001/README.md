@@ -299,7 +299,6 @@
 - [Arrêté du 18 octobre 2001 (AGRA0101523A)](arrete-du-18-octobre-2001-agra0101523a)
 - [Arrêté du 18 octobre 2001 (JUSB0110430A)](arrete-du-18-octobre-2001-jusb0110430a)
 - [Arrêté du 18 septembre 2001 (ATEG0100276A)](arrete-du-18-septembre-2001-ateg0100276a)
-- [Arrêté du 18 septembre 2001 (ECOT0110437A)](arrete-du-18-septembre-2001-ecot0110437a)
 - [Arrêté du 18 mai 2001 (JUSE0140010A)](arrete-du-18-mai-2001-juse0140010a)
 - [Arrêté du 19 avril 2001 (AGRG0100849A)](arrete-du-19-avril-2001-agrg0100849a)
 - [Arrêté du 19 avril 2001 (ECOC0000118A)](arrete-du-19-avril-2001-ecoc0000118a)
