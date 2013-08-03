@@ -1,0 +1,3 @@
+# Article 6
+
+Un fichier de données individuelles anonymes et un fichier de logements anonymes, tous deux issus du recensement de la population des îles Wallis et Futuna de 2013, sont constitués par le STSEE. Ils sont définis de telle sorte que la confidentialité des données soit garantie. Les lieux d'habitation, de travail et de scolarisation que ces fichiers contiennent ne sont donnés qu'au niveau de la circonscription. La transmission des fichiers de données anonymes à un utilisateur ne peut se faire que dans le cadre de la statistique publique ou d'un programme de recherche scientifique. Cette session s'opère sous réserve de la signature d'une licence d'usage spécifique, dont le modèle a été transmis à la Commission nationale de l'informatique et des libertés (CNIL).

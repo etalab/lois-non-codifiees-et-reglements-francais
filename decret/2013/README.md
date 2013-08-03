@@ -613,6 +613,8 @@
 - [Décret n°2012-1566 du 31 décembre 2012 (ETSD1240201D)](decret-n2012-1566-du-31-decembre-2012-etsd1240201d)
 - [Décret n°2012-1567 du 31 décembre 2012 (BUDD1242097D)](decret-n2012-1567-du-31-decembre-2012-budd1242097d)
 - [Décret n°2013-113 du 31 janvier 2013 (INTV1239427D)](decret-n2013-113-du-31-janvier-2013-intv1239427d)
+- [Décret n°2013-699 du 31 juillet 2013 (EFIZ1312011D)](decret-n2013-699-du-31-juillet-2013-efiz1312011d)
+- [Décret n°2013-701 du 31 juillet 2013 (DEVL1030790D)](decret-n2013-701-du-31-juillet-2013-devl1030790d)
 - [Décret n°2013-449 du 31 mai 2013 (AFSH1300414D)](decret-n2013-449-du-31-mai-2013-afsh1300414d)
 - [Décret n°2013-450 du 31 mai 2013 (ETLK1304183D)](decret-n2013-450-du-31-mai-2013-etlk1304183d)
 - [Décret n°2013-451 du 31 mai 2013 (RDFF1303484D)](decret-n2013-451-du-31-mai-2013-rdff1303484d)
