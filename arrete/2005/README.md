@@ -74,7 +74,6 @@
 - [Arrêté du 5 avril 2005 (SANH0521326A)](arrete-du-5-avril-2005-sanh0521326a)
 - [Arrêté du 5 avril 2005 (SANP0521351A)](arrete-du-5-avril-2005-sanp0521351a)
 - [Arrêté du 5 décembre 2005 (DEFC0501402A)](arrete-du-5-decembre-2005-defc0501402a)
-- [Arrêté du 5 décembre 2005 (INTE0500856A)](arrete-du-5-decembre-2005-inte0500856a)
 - [Arrêté du 5 décembre 2005 (MENE0502631A)](arrete-du-5-decembre-2005-mene0502631a)
 - [Arrêté du 5 janvier 2005 (ECOT0510517A)](arrete-du-5-janvier-2005-ecot0510517a)
 - [Arrêté du 5 janvier 2005 (EQUA0500093A)](arrete-du-5-janvier-2005-equa0500093a)
