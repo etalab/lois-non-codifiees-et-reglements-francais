@@ -6,11 +6,11 @@ Peuvent bénéficier de cette subvention, hors investissements de banc d'essai m
 
 ― les propriétaires bailleurs de biens fonciers à usage agricole, le preneur devant remplir les conditions d'obtention des aides ;
 
-― les fermiers ou métayers, s'ils sont autorisés à effectuer les travaux par leur propriétaire ou à défaut par le tribunal paritaire des baux ruraux, à moins qu'ils ne soient légalement dispensés de cette autorisation (art.L. 411-73 du code rural et de la pêche maritime).
+― les fermiers ou métayers, s'ils sont autorisés à effectuer les travaux par leur propriétaire ou à défaut par le tribunal paritaire des baux ruraux, à moins qu'ils ne soient légalement dispensés de cette autorisation (art. L. 411-73 du code rural et de la pêche maritime).
 
-Le demandeur ou le preneur dans le cas des propriétaires bailleurs doit satisfaire, à la        date de l'engagement juridique de l'aide, les conditions énumérées ci-après :
+Le demandeur ou le preneur dans le cas des propriétaires bailleurs doit satisfaire, à la date de l'engagement juridique de l'aide, les conditions énumérées ci-après :
 
-1° Déclarer être âgé d'au moins 18 ans et de moins de 60 ans, la situation est appréciée au 1er janvier de l'année civile de dépôt de la demande ;
+1° Déclarer être âgé d'au moins 18 ans et ne pas avoir atteint l'âge prévu à l'article D. 161-2-1-9 du code de la sécurité sociale, la situation est appréciée au 1er janvier de l'année civile de dépôt de la demande ;
 
 2° Déclarer sur l'honneur être à jour des obligations fiscales et sociales légalement exigibles aux régimes de base obligatoires de protection sociale de salariés et de non-salariés, sauf accord d'étalement. Les redevances émises par les agences de l'eau sont assimilées aux contributions fiscales ;
 

@@ -1,6 +1,6 @@
 # Article 22
 
-Pour les projets collectifs et individuels de méthanisation faisant l'objet d'une aide accordée par le ministère chargé de l'agriculture, les règles des articles 3, 4, 6 et 11 du présent arrêté sont applicables à l'exception des points dérogatoires suivants :
+Pour les projets collectifs et individuels de méthanisation sélectionnés en 2010 et  faisant l'objet d'une aide accordée par le ministère chargé de l'agriculture, les règles des articles 3, 4, 6 et 11 du présent arrêté sont applicables à l'exception des points dérogatoires suivants :
 
 - ces projets ne relèvent pas de l'axe 1 du PDRH et sont adossés au régime cadre exempté de notification N° X63 / 2008 relatif aux aides pour la protection de l'environnement.L'aide peut être complétée par d'autres financeurs qui interviennent sur ces projets dans la limite des taux maximaux d'aide publique autorisés ;
 

@@ -16,8 +16,10 @@ A titre exceptionnel et uniquement pour les dossiers sélectionnés hors plan de
 
 Pour les projets collectifs et individuels de méthanisation sélectionnés dans le cadre du plan de relance de l'économie, le préfet du département peut, par décision motivée, accorder une prorogation du délai pour le commencement de l'exécution du projet d'une durée maximale d'un an.
 
+Nonobstant les délais prévus ci-dessus, pour tous les engagements réalisés avant le 31 décembre 2013 dans le cadre du présent arrêté, le demandeur doit prévoir d'achever ses travaux avant une date fixée par le ministre en charge de l'agriculture, date au-delà de laquelle aucune demande de paiement ne pourra être présentée au guichet unique par le demandeur.
+
 Le commencement d'exécution se détermine à compter du premier acte juridique qui lie le bénéficiaire de l'aide au fournisseur ou à l'entreprise. Un bon de commande, un devis signé du bénéficiaire, un premier versement quel qu'en soit le montant constituent un premier acte juridique. A défaut de ce premier acte juridique, la date de paiement de la première dépense est prise en compte pour définir le commencement d'exécution du projet. Les études préalables ne constituent pas un début de commencement d'exécution du projet.
 
-L'aide du PPE peut se cumuler avec celle accordée au titre du plan de modernisation des bâtiments d'élevage et du plan végétal pour l'environnement.
+L'aide du PPE peut se cumuler avec celle accordée au titre du plan de modernisation des bâtiments d'élevage et du plan végétal pour l'environnement sur un même projet mais pas sur un même investissement.
 
 Dans ces cas, le projet de modernisation présenté dans le cadre du plan de modernisation des bâtiments d'élevage (PMBE) ou un projet présenté dans le cadre du plan végétal pour l'environnement (PVE) conservent leur règle de gestion. Toutefois les règles spécifiques du présent arrêté s'appliquent au volet "énergie" des projets PMBE ou PVE. Des règles d'articulation seront précisées dans l'arrêté préfectoral prévu à l'article 6 de cet arrêté pour les investissements susceptibles d'être financés dans les deux dispositifs.

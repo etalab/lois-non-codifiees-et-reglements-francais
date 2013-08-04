@@ -4,7 +4,7 @@ Le demandeur prend les engagements suivants :
 
 ― démarrer son projet après la date de la décision d'attribution de l'aide ;
 
-― poursuivre son activité agricole au sens de l'article L. 311-1 du code rural et tout particulièrement son activité d'élevage ayant bénéficié des aides pendant une période de cinq années à compter de la date de signature de la décision d'octroi de la subvention ;
+― poursuivre son activité agricole au sens de l'article L. 311-1 du code rural et de la pêche maritime et tout particulièrement son activité d'élevage ayant bénéficié des aides pendant une période de cinq années à compter de la date de signature de la décision d'octroi de la subvention ;
 
 ― maintenir en bon état fonctionnel et pour un usage identique les constructions ayant bénéficié des aides ainsi que le cheptel correspondant pendant une durée de cinq ans à compter de la date de signature de la décision d'octroi de la subvention ; s'agissant de l'aide à la mécanisation en zone de montagne, s'engager à ne pas revendre le matériel subventionné sur une période de cinq ans à compter de la date de signature de la décision d'octroi de la subvention ;
 
