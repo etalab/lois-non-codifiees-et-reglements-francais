@@ -22,4 +22,4 @@ Les candidats doivent en outre justifier de l'une des trois formations suivantes
 
 2° Formation délivrée conformément à l'accord-cadre relatif à la formation à la sécurité du personnel navigant des entreprises de transport maritime ; ou
 
-3° Certificat de formation de base à la sécurité délivré conformément à l'arrêté du 7 juillet 1999 susvisé.
+3° Certificat de formation de base à la sécurité délivré conformément à l'arrêté du 26 juillet 2013 susvisé.

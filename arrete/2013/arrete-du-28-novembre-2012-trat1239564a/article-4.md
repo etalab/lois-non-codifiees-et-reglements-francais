@@ -6,7 +6,7 @@ Certificat de formation de base aux opérations liées à la cargaison des navir
 
 2° Le certificat de formation de base aux opérations liées à la cargaison des navires-citernes pour gaz liquéfiés est délivré aux candidats qui :
 
-1. Sont titulaires du certificat de formation de base à la sécurité délivré en application de l'arrêté du 7 juillet 1999 susvisé ; et
+1. Sont titulaires du certificat de formation de base à la sécurité délivré en application de l'arrêté du 26 juillet 2013 susvisé ; et
 
 2. Justifient avoir accompli :
 

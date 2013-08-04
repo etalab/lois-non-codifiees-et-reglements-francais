@@ -4,4 +4,4 @@ En outre, les candidats qui ont réussi l'examen probatoire se voient délivrer 
 
 ― certificat de qualification avancée à la lutte contre l'incendie mentionné à l'arrêté du 5 juillet 1999 susvisé ;
 
-― certificat de formation de base à la sécurité mentionné à l'arrêté du 7 juillet 1999 susvisé.
+― certificat de formation de base à la sécurité mentionné à l'    arrêté du 26 juillet 2013  susvisé.

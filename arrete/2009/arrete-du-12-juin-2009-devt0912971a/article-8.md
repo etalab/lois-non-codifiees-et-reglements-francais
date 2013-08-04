@@ -8,7 +8,7 @@ Le brevet de chef de quart passerelle est délivré aux candidats qui satisfont 
 
 3° Justifier des certificats suivants :
 
-― certificat de base à la sécurité conformément à l'arrêté du 7 juillet 1999 susvisé ;
+― certificat de base à la sécurité conformément à l'arrêté du 26 juillet 2013 susvisé ;
 
 ― formation à l'enseignement médical de niveau II (EM II) conformément à l'arrêté du 2 juillet 1999 susvisé ;
 
