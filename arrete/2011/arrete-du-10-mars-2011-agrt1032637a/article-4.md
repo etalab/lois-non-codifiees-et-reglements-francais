@@ -6,11 +6,11 @@ Elle ne peut pas non plus excéder le volume nécessaire pour permettre l'améli
 
 Les plafonds d'attribution par exploitation sont de :
 
-30 000 litres pour les producteurs spécialisés en vente directe (vendeurs directs sans activité de livraison ou vendeurs directs mixtes, dont le quota pour la livraison est inférieur ou égal à 20 % de la somme des quotas pour la vente directe et pour la livraison) ;
+60 000 litres pour les producteurs spécialisés en vente directe (vendeurs directs sans activité de livraison ou vendeurs directs mixtes, dont le quota pour la livraison est inférieur ou égal à 20 % de la somme des quotas pour la vente directe et pour la livraison) ;
 
-15 000 litres pour les producteurs mixtes détenant, au préalable, un quota pour la livraison supérieur à 20 % de la somme des quotas pour la vente directe et pour la livraison.
+30 000 litres pour les producteurs mixtes détenant, au préalable, un quota pour la livraison supérieur à 20 % de la somme des quotas pour la vente directe et pour la livraison.
 
-II. ― Pour la catégorie des jeunes agriculteurs, les plafonds mentionnés au premier alinéa peuvent être augmentés, afin de porter l'attribution du producteur à un maximum, respectivement de 60 000 litres et de 30 000 litres.
+II. ― Pour la catégorie des jeunes agriculteurs, les plafonds mentionnés au premier alinéa peuvent être augmentés, afin de porter l'attribution du producteur à un maximum, respectivement de 90 000 litres et de 45 000 litres.
 
 III. ― Les quotas attribués peuvent être modulés au niveau départemental ou au niveau du bassin laitier en tenant compte des critères suivants :
 
