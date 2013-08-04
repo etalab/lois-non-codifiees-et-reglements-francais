@@ -1,0 +1,3 @@
+# Article 2
+
+A titre transitoire, l'attestation délivrée au professionnel de santé ayant réalisé des actions de formation continue et d'évaluation des pratiques professionnelles concourant au développement professionnel continu, dispensées par des organismes cités au II de l'article 4 de l'arrêté susvisé ou par les organismes enregistrés en tant qu'organismes de développement professionnel continu et évalués favorablement à l'issue de l'une des périodes mentionnées au I de l'article 4 du même arrêté, lui permet de justifier, pour l'année 2013, de sa participation à un programme de développement professionnel continu.
