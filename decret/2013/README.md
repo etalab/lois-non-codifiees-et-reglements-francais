@@ -15,6 +15,8 @@
 - [Décret n°2013-574 du 2 juillet 2013 (JUSB1311277D)](decret-n2013-574-du-2-juillet-2013-jusb1311277d)
 - [Décret n°2013-575 du 2 juillet 2013 (EFIE1238869D)](decret-n2013-575-du-2-juillet-2013-efie1238869d)
 - [Décret n°2013-576 du 2 juillet 2013 (EFIE1303053D)](decret-n2013-576-du-2-juillet-2013-efie1303053d)
+- [Décret n°2013-705 du 2 août 2013 (MENF1315911D)](decret-n2013-705-du-2-aout-2013-menf1315911d)
+- [Décret n°2013-706 du 2 août 2013 (MCCE1314870D)](decret-n2013-706-du-2-aout-2013-mcce1314870d)
 - [Décret n°2013-372 du 2 mai 2013 (EFIT1304176D)](decret-n2013-372-du-2-mai-2013-efit1304176d)
 - [Décret n°2013-374 du 2 mai 2013 (DEVP1238371D)](decret-n2013-374-du-2-mai-2013-devp1238371d)
 - [Décret n°2013-375 du 2 mai 2013 (DEVP1238373D)](decret-n2013-375-du-2-mai-2013-devp1238373d)
