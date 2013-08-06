@@ -1971,7 +1971,6 @@
 - [Arrêté du 30 novembre 2012 (EFIP1241019A)](arrete-du-30-novembre-2012-efip1241019a)
 - [Arrêté du 30 octobre 2012 (DEVK1237686A)](arrete-du-30-octobre-2012-devk1237686a)
 - [Arrêté du 30 octobre 2012 (ETSD1235744A)](arrete-du-30-octobre-2012-etsd1235744a)
-- [Arrêté du 30 octobre 2012 (ETSD1236752A)](arrete-du-30-octobre-2012-etsd1236752a)
 - [Arrêté du 30 octobre 2012 (ETST1229420A)](arrete-du-30-octobre-2012-etst1229420a)
 - [Arrêté du 30 octobre 2012 (ETST1229456A)](arrete-du-30-octobre-2012-etst1229456a)
 - [Arrêté du 30 mai 2013 (AGRS1310716A)](arrete-du-30-mai-2013-agrs1310716a)
