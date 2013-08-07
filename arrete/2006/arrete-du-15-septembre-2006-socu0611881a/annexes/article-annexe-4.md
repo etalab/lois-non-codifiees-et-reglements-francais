@@ -19,22 +19,13 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>CHAUFFAGE <br clear="none"/>
-</th>
-<th>
-<br clear="none"/>PRODUCTION D'EAU <p>chaude sanitaire <br clear="none"/>
-</p>
-</th>
-<th>
-<br clear="none"/>REFROIDISSEMENT <br clear="none"/>
-</th>
+<td/>
+<td align="center"> CHAUFFAGE </td>
+<td align="center"> PRODUCTION D'EAU chaude sanitaire</td>
+<td align="center"> REFROIDISSEMENT </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Bois, biomasse </p>
 </td>
 <td align="center">
@@ -43,13 +34,10 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 <td align="center">
 <br clear="none"/>0,013 <br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-<br clear="none"/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Gaz naturel </p>
 </td>
 <td align="center">
@@ -63,7 +51,7 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Fioul domestique </p>
 </td>
 <td align="center">
@@ -77,22 +65,18 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Charbon </p>
 </td>
 <td align="center">
-<br clear="none"/>0,342 <br clear="none"/>
+<br clear="none"/>0,384 <br clear="none"/>
 </td>
 <td align="center">
-<br clear="none"/>0,342 <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>
-<br clear="none"/>
-</td>
+<br clear="none"/>0,384 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Gaz propane ou butane </p>
 </td>
 <td align="center">
@@ -106,7 +90,7 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Autres combustibles fossiles </p>
 </td>
 <td align="center">
@@ -115,13 +99,10 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 <td align="center">
 <br clear="none"/>0,320 <br clear="none"/>
 </td>
-<td align="center">
-<br clear="none"/>
-<br clear="none"/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Electricité d'origine renouvelable utilisée dans le bâtiment </p>
 </td>
 <td align="center">
@@ -135,7 +116,7 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Electricité (hors électricité d'origine renouvelable utilisée dans le bâtiment) </p>
 </td>
 <td align="center">
@@ -166,15 +147,11 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>
-</th>
-<th>
-<br clear="none"/>TOUS USAGES <br clear="none"/>
-</th>
+<td/>
+<td align="center"> TOUS USAGES </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Bois, biomasse </p>
 </td>
 <td align="center">
@@ -182,7 +159,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Gaz naturel </p>
 </td>
 <td align="center">
@@ -190,7 +167,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Fioul domestique </p>
 </td>
 <td align="center">
@@ -198,7 +175,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Charbon </p>
 </td>
 <td align="center">
@@ -206,7 +183,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Gaz propane ou butane </p>
 </td>
 <td align="center">
@@ -214,7 +191,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Autres combustibles fossiles </p>
 </td>
 <td align="center">
@@ -222,7 +199,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Electricité d'origine renouvelable utilisée dans le bâtiment </p>
 </td>
 <td align="center">
@@ -230,7 +207,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <p>Electricité (hors électricité d'origine renouvelable utilisée dans le bâtiment) </p>
 </td>
 <td align="center">
@@ -301,13 +278,8 @@ La structuration des classes de l'étiquette climat est la suivante :
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>DÉSIGNATION DE LA CLASSE <br clear="none"/>
-</th>
-<th>
-<br clear="none"/>PLAGE DE CONSOMMATIONS <p>(kgéqCO2/ m ². an) <br clear="none"/>
-</p>
-</th>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) </td>
 </tr>
 <tr>
 <td align="center">
@@ -379,13 +351,8 @@ Pour ces bâtiments, la structuration des classes de l'étiquette climat est la 
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>DÉSIGNATION DE LA CLASSE <br clear="none"/>
-</th>
-<th>
-<br clear="none"/>PLAGE DE CONSOMMATIONS <p>(kgéqCO2/ m ². an) <br clear="none"/>
-</p>
-</th>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) </td>
 </tr>
 <tr>
 <td align="center">
@@ -453,13 +420,8 @@ Pour ces bâtiments, la structuration des classes de l'étiquette climat est la 
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>DÉSIGNATION DE LA CLASSE <br clear="none"/>
-</th>
-<th>
-<br clear="none"/>PLAGE DE CONSOMMATIONS <p>(kgéqCO2/ m ². an) <br clear="none"/>
-</p>
-</th>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) </td>
 </tr>
 <tr>
 <td align="center">
@@ -527,13 +489,8 @@ Pour ces bâtiments, la structuration des classes de l'étiquette climat est la 
 <table>
 <tbody>
 <tr>
-<th>
-<br clear="none"/>DÉSIGNATION DE LA CLASSE <br clear="none"/>
-</th>
-<th>
-<br clear="none"/>PLAGE DE CONSOMMATIONS <p>(kgéqCO2/ m ². an) <br clear="none"/>
-</p>
-</th>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) </td>
 </tr>
 <tr>
 <td align="center">

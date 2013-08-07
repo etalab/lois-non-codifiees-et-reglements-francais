@@ -5,23 +5,11 @@
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉP. <br/>
-</th>
-<th>
-<br/>NOM DU RÉSEAU <br/>
-</th>
-<th>
-<br/>LOCALISATION <br/>
-</th>
-<th>
-<br/>CHALEUR (C) <br/>
-<br/>ou froid (F) <br/>
-</th>
-<th>
-<br/>CO2 <br/>
-<br/>(kg/ kWh) <br/>
-</th>
+<td align="center"> DÉPARTEMENT </td>
+<td align="center"> NOM DU RÉSEAU </td>
+<td align="center"> LOCALISATION </td>
+<td align="center"> CHALEUR (C) ou froid (F)</td>
+<td align="center"> CO2 (kg/ kWh) </td>
 </tr>
 <tr>
 <td align="center">
@@ -37,7 +25,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,161 <br/>
+<br/>0,179 <br/>
 </td>
 </tr>
 <tr>
@@ -54,7 +42,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,200 <br/>
+<br/>0,209 <br/>
 </td>
 </tr>
 <tr>
@@ -71,7 +59,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,213 <br/>
 </td>
 </tr>
 <tr>
@@ -88,7 +76,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,241 <br/>
+<br/>0,259 <br/>
 </td>
 </tr>
 <tr>
@@ -105,7 +93,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,230 <br/>
+<br/>0,204 <br/>
 </td>
 </tr>
 <tr>
@@ -122,7 +110,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,024 <br/>
+<br/>0,025 <br/>
 </td>
 </tr>
 <tr>
@@ -139,7 +127,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,276 <br/>
+<br/>0,330 <br/>
 </td>
 </tr>
 <tr>
@@ -156,7 +144,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,071 <br/>
+<br/>0,138 <br/>
 </td>
 </tr>
 <tr>
@@ -173,7 +161,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,011 <br/>
+<br/>0,139 <br/>
 </td>
 </tr>
 <tr>
@@ -190,7 +178,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,151 <br/>
+<br/>0,083 <br/>
 </td>
 </tr>
 <tr>
@@ -212,10 +200,27 @@
 </tr>
 <tr>
 <td align="center">
+<br/>05 <br/>
+</td>
+<td align="center">
+<br/>Réseau quartier Gare <br/>
+</td>
+<td align="center">
+<br/>Embrun <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <br/>06 <br/>
 </td>
 <td align="center">
-<br/>Sonitherm - Réseau de l'Ariane <br/>
+<br/>Sonitherm-réseau de l'Ariane <br/>
 </td>
 <td align="center">
 <br/>Nice <br/>
@@ -224,7 +229,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,006 <br/>
+<br/>0,008 <br/>
 </td>
 </tr>
 <tr>
@@ -241,7 +246,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,192 <br/>
+<br/>0,194 <br/>
 </td>
 </tr>
 <tr>
@@ -258,7 +263,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,132 <br/>
+<br/>0,022 <br/>
 </td>
 </tr>
 <tr>
@@ -275,7 +280,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,224 <br/>
+<br/>0,280 <br/>
 </td>
 </tr>
 <tr>
@@ -292,7 +297,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,222 <br/>
+<br/>0,221 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08 <br/>
+</td>
+<td align="center">
+<br/>Ronde couture <br/>
+</td>
+<td align="center">
+<br/>Charleville-Mézières <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,067 <br/>
 </td>
 </tr>
 <tr>
@@ -309,24 +331,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,151 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>08 <br/>
-</td>
-<td align="center">
-<br/>Revin <br/>
-</td>
-<td align="center">
-<br/>Revin <br/>
-</td>
-<td align="center">
-<br/>C <br/>
-</td>
-<td align="center">
-<br/>0,065 <br/>
+<br/>0,125 <br/>
 </td>
 </tr>
 <tr>
@@ -343,7 +348,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,295 <br/>
+<br/>0,324 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08 <br/>
+</td>
+<td align="center">
+<br/>Revin <br/>
+</td>
+<td align="center">
+<br/>Revin <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,171 <br/>
 </td>
 </tr>
 <tr>
@@ -360,7 +382,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,224 <br/>
+<br/>0,232 <br/>
 </td>
 </tr>
 <tr>
@@ -377,7 +399,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,189 <br/>
+<br/>0,202 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>Biomasse de Piney <br/>
+</td>
+<td align="center">
+<br/>Piney <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,068 <br/>
 </td>
 </tr>
 <tr>
@@ -394,7 +433,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,116 <br/>
+<br/>0,118 <br/>
 </td>
 </tr>
 <tr>
@@ -411,7 +450,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,042 <br/>
+<br/>0,011 <br/>
 </td>
 </tr>
 <tr>
@@ -428,7 +467,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,217 <br/>
+<br/>0,270 <br/>
 </td>
 </tr>
 <tr>
@@ -445,7 +484,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,251 <br/>
+<br/>0,294 <br/>
 </td>
 </tr>
 <tr>
@@ -462,7 +501,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,221 <br/>
+<br/>0,222 <br/>
 </td>
 </tr>
 <tr>
@@ -479,7 +518,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,213 <br/>
+<br/>0,217 <br/>
 </td>
 </tr>
 <tr>
@@ -496,7 +535,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,248 <br/>
+<br/>0,295 <br/>
 </td>
 </tr>
 <tr>
@@ -513,7 +552,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,229 <br/>
+<br/>0,287 <br/>
 </td>
 </tr>
 <tr>
@@ -530,7 +569,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,044 <br/>
+<br/>0,021 <br/>
 </td>
 </tr>
 <tr>
@@ -547,7 +586,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,009 <br/>
+<br/>0,003 <br/>
 </td>
 </tr>
 <tr>
@@ -564,7 +603,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,040 <br/>
+<br/>0,048 <br/>
 </td>
 </tr>
 <tr>
@@ -581,7 +620,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,180 <br/>
+<br/>0,184 <br/>
 </td>
 </tr>
 <tr>
@@ -589,7 +628,24 @@
 <br/>14 <br/>
 </td>
 <td align="center">
-<br/>Réseau de bois I <br/>
+<br/>Grâce de Dieu <br/>
+</td>
+<td align="center">
+<br/>Caen <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,212 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14 <br/>
+</td>
+<td align="center">
+<br/>Réseau Bois I <br/>
 </td>
 <td align="center">
 <br/>Bayeux <br/>
@@ -598,7 +654,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,069 <br/>
+<br/>0,075 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14 <br/>
+</td>
+<td align="center">
+<br/>Réseau Bois vallée des près <br/>
+</td>
+<td align="center">
+<br/>Bayeux <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,060 <br/>
 </td>
 </tr>
 <tr>
@@ -606,7 +679,7 @@
 <br/>17 <br/>
 </td>
 <td align="center">
-<br/>Villeneuve les Salines <br/>
+<br/>Villeneuve-les-Salines <br/>
 </td>
 <td align="center">
 <br/>La Rochelle <br/>
@@ -615,7 +688,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,087 <br/>
+<br/>0,095 <br/>
 </td>
 </tr>
 <tr>
@@ -632,7 +705,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,106 <br/>
+<br/>0,139 <br/>
 </td>
 </tr>
 <tr>
@@ -649,7 +722,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,088 <br/>
+<br/>0,053 <br/>
 </td>
 </tr>
 <tr>
@@ -666,7 +739,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,246 <br/>
+<br/>0,172 <br/>
 </td>
 </tr>
 <tr>
@@ -683,7 +756,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,001 <br/>
+<br/>0,193 <br/>
 </td>
 </tr>
 <tr>
@@ -694,13 +767,13 @@
 <br/>Chancellerie Gibjoncs-ZUP de Bourges <br/>
 </td>
 <td align="center">
-<br/>Asnières-lès-Bourges <br/>
+<br/>Asnières-les-Bourges <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,077 <br/>
+<br/>0,052 <br/>
 </td>
 </tr>
 <tr>
@@ -717,7 +790,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,307 <br/>
+<br/>0,325 <br/>
 </td>
 </tr>
 <tr>
@@ -725,7 +798,7 @@
 <br/>19 <br/>
 </td>
 <td align="center">
-<br/>Réseau UIOM Brive <br/>
+<br/>Centre valorisation énergétique Brive <br/>
 </td>
 <td align="center">
 <br/>Saint-Pantaléon-de-Larche <br/>
@@ -742,7 +815,7 @@
 <br/>19 <br/>
 </td>
 <td align="center">
-<br/>Egletons Bois Energie <br/>
+<br/>Egletons bois énergie <br/>
 </td>
 <td align="center">
 <br/>Egletons <br/>
@@ -751,7 +824,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,048 <br/>
+<br/>0,051 <br/>
 </td>
 </tr>
 <tr>
@@ -768,7 +841,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,022 <br/>
+<br/>0,026 <br/>
 </td>
 </tr>
 <tr>
@@ -785,7 +858,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,248 <br/>
+<br/>0,267 <br/>
 </td>
 </tr>
 <tr>
@@ -793,16 +866,16 @@
 <br/>21 <br/>
 </td>
 <td align="center">
-<br/>ZUP de Chenove <br/>
+<br/>ZUP de Chenôve <br/>
 </td>
 <td align="center">
-<br/>Chenove <br/>
+<br/>Chenôve <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,293 <br/>
+<br/>0,287 <br/>
 </td>
 </tr>
 <tr>
@@ -810,16 +883,16 @@
 <br/>21 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Quetigny <br/>
+<br/>Réseau de Quétigny <br/>
 </td>
 <td align="center">
-<br/>Quetigny <br/>
+<br/>Quétigny <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,153 <br/>
+<br/>0,160 <br/>
 </td>
 </tr>
 <tr>
@@ -827,7 +900,7 @@
 <br/>21 <br/>
 </td>
 <td align="center">
-<br/>Les Gresilles <br/>
+<br/>Les Grésilles <br/>
 </td>
 <td align="center">
 <br/>Dijon <br/>
@@ -836,7 +909,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,222 <br/>
+<br/>0,099 <br/>
 </td>
 </tr>
 <tr>
@@ -853,7 +926,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,150 <br/>
+<br/>0,014 <br/>
 </td>
 </tr>
 <tr>
@@ -887,7 +960,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,156 <br/>
+<br/>0,155 <br/>
 </td>
 </tr>
 <tr>
@@ -904,7 +977,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,072 <br/>
+<br/>0,069 <br/>
 </td>
 </tr>
 <tr>
@@ -921,7 +994,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,221 <br/>
+<br/>0,233 <br/>
 </td>
 </tr>
 <tr>
@@ -929,7 +1002,7 @@
 <br/>25 <br/>
 </td>
 <td align="center">
-<br/>Chaufferie Bois du Russey <br/>
+<br/>Chaufferie bois du Russey <br/>
 </td>
 <td align="center">
 <br/>Le Russey <br/>
@@ -938,7 +1011,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,053 <br/>
+<br/>0,057 <br/>
 </td>
 </tr>
 <tr>
@@ -955,7 +1028,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,127 <br/>
+<br/>0,161 <br/>
 </td>
 </tr>
 <tr>
@@ -972,7 +1045,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,051 <br/>
+<br/>0,043 <br/>
 </td>
 </tr>
 <tr>
@@ -989,7 +1062,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,089 <br/>
+<br/>0,092 <br/>
 </td>
 </tr>
 <tr>
@@ -1006,7 +1079,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,283 <br/>
+<br/>0,295 <br/>
 </td>
 </tr>
 <tr>
@@ -1014,7 +1087,7 @@
 <br/>26 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Pierrelatte Des <br/>
+<br/>Réseau de Pierrelatte-Des <br/>
 </td>
 <td align="center">
 <br/>Pierrelatte <br/>
@@ -1023,7 +1096,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,013 <br/>
+<br/>0,000 <br/>
 </td>
 </tr>
 <tr>
@@ -1040,7 +1113,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,197 <br/>
+<br/>0,209 <br/>
 </td>
 </tr>
 <tr>
@@ -1057,7 +1130,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,264 <br/>
+<br/>0,271 <br/>
 </td>
 </tr>
 <tr>
@@ -1074,7 +1147,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,252 <br/>
+<br/>0,273 <br/>
 </td>
 </tr>
 <tr>
@@ -1091,7 +1164,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,251 <br/>
+<br/>0,216 <br/>
 </td>
 </tr>
 <tr>
@@ -1099,7 +1172,7 @@
 <br/>27 <br/>
 </td>
 <td align="center">
-<br/>Tours du Levant Clos Galots <br/>
+<br/>Tours du Levant clos Galots <br/>
 </td>
 <td align="center">
 <br/>Les Andelys <br/>
@@ -1108,7 +1181,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,262 <br/>
+<br/>0,277 <br/>
 </td>
 </tr>
 <tr>
@@ -1125,7 +1198,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,252 <br/>
+<br/>0,242 <br/>
 </td>
 </tr>
 <tr>
@@ -1142,7 +1215,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,245 <br/>
+<br/>0,273 <br/>
 </td>
 </tr>
 <tr>
@@ -1159,7 +1232,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,237 <br/>
+<br/>0,266 <br/>
 </td>
 </tr>
 <tr>
@@ -1176,7 +1249,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,041 <br/>
+<br/>0,049 <br/>
 </td>
 </tr>
 <tr>
@@ -1193,7 +1266,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,049 <br/>
+<br/>0,057 <br/>
 </td>
 </tr>
 <tr>
@@ -1210,7 +1283,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,219 <br/>
+<br/>0,238 <br/>
 </td>
 </tr>
 <tr>
@@ -1227,7 +1300,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,228 <br/>
+<br/>0,265 <br/>
 </td>
 </tr>
 <tr>
@@ -1261,7 +1334,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,149 <br/>
+<br/>0,170 <br/>
 </td>
 </tr>
 <tr>
@@ -1278,7 +1351,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,205 <br/>
+<br/>0,216 <br/>
 </td>
 </tr>
 <tr>
@@ -1286,7 +1359,24 @@
 <br/>33 <br/>
 </td>
 <td align="center">
-<br/>Parc de Mérignac Ville Stemer <br/>
+<br/>Réseau de Pellegrue <br/>
+</td>
+<td align="center">
+<br/>Pellegrue <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,005 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>33 <br/>
+</td>
+<td align="center">
+<br/>Parc de Mérignac ville Stemer <br/>
 </td>
 <td align="center">
 <br/>Mérignac <br/>
@@ -1295,7 +1385,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,220 <br/>
+<br/>0,240 <br/>
 </td>
 </tr>
 <tr>
@@ -1306,13 +1396,13 @@
 <br/>Hauts de Garonne <br/>
 </td>
 <td align="center">
-<br/>Cenon, Lormont, Floirac <br/>
+<br/>Cenon-Lormont-Floirac <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,043 <br/>
+<br/>0,051 <br/>
 </td>
 </tr>
 <tr>
@@ -1329,7 +1419,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,155 <br/>
+<br/>0,173 <br/>
 </td>
 </tr>
 <tr>
@@ -1337,7 +1427,7 @@
 <br/>33 <br/>
 </td>
 <td align="center">
-<br/>La Benauge-Cité Pinçon <br/>
+<br/>La Benauge-cité Pinçon <br/>
 </td>
 <td align="center">
 <br/>Bordeaux <br/>
@@ -1346,7 +1436,41 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,195 <br/>
+<br/>0,199 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>33 <br/>
+</td>
+<td align="center">
+<br/>Réseau de chaleur de Gironde-sur-Dropt <br/>
+</td>
+<td align="center">
+<br/>Gironde-sur-Dropt <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,006 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>33 <br/>
+</td>
+<td align="center">
+<br/>Réseau de chaleur de Saint-Pierre-d'Aurillac <br/>
+</td>
+<td align="center">
+<br/>Saint-Pierre-d'Aurillac <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,022 <br/>
 </td>
 </tr>
 <tr>
@@ -1363,7 +1487,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,239 <br/>
+<br/>0,220 <br/>
 </td>
 </tr>
 <tr>
@@ -1380,7 +1504,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,196 <br/>
+<br/>0,230 <br/>
 </td>
 </tr>
 <tr>
@@ -1397,7 +1521,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,236 <br/>
+<br/>0,209 <br/>
 </td>
 </tr>
 <tr>
@@ -1414,7 +1538,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,200 <br/>
 </td>
 </tr>
 <tr>
@@ -1431,7 +1555,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,129 <br/>
+<br/>0,104 <br/>
 </td>
 </tr>
 <tr>
@@ -1448,7 +1572,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,013 <br/>
+<br/>0,014 <br/>
 </td>
 </tr>
 <tr>
@@ -1465,7 +1589,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,018 <br/>
+<br/>0,019 <br/>
 </td>
 </tr>
 <tr>
@@ -1482,7 +1606,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,195 <br/>
+<br/>0,216 <br/>
 </td>
 </tr>
 <tr>
@@ -1499,7 +1623,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,013 <br/>
+<br/>0,014 <br/>
 </td>
 </tr>
 <tr>
@@ -1516,7 +1640,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,269 <br/>
+<br/>0,263 <br/>
 </td>
 </tr>
 <tr>
@@ -1533,7 +1657,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,058 <br/>
+<br/>0,034 <br/>
 </td>
 </tr>
 <tr>
@@ -1550,7 +1674,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,192 <br/>
+<br/>0,205 <br/>
 </td>
 </tr>
 <tr>
@@ -1567,7 +1691,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,192 <br/>
+<br/>0,189 <br/>
 </td>
 </tr>
 <tr>
@@ -1584,7 +1708,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,243 <br/>
+<br/>0,206 <br/>
 </td>
 </tr>
 <tr>
@@ -1592,7 +1716,7 @@
 <br/>36 <br/>
 </td>
 <td align="center">
-<br/>Géothermie du quartier Saint-Jean <br/>
+<br/>Cité Saint-Jean <br/>
 </td>
 <td align="center">
 <br/>Châteauroux <br/>
@@ -1601,7 +1725,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,279 <br/>
+<br/>0,069 <br/>
 </td>
 </tr>
 <tr>
@@ -1618,7 +1742,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,219 <br/>
+<br/>0,224 <br/>
 </td>
 </tr>
 <tr>
@@ -1626,7 +1750,7 @@
 <br/>37 <br/>
 </td>
 <td align="center">
-<br/>ZUP des Bords de Cher <br/>
+<br/>ZUP des bords de Cher <br/>
 </td>
 <td align="center">
 <br/>Tours <br/>
@@ -1635,7 +1759,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,228 <br/>
+<br/>0,210 <br/>
 </td>
 </tr>
 <tr>
@@ -1652,7 +1776,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,259 <br/>
+<br/>0,245 <br/>
 </td>
 </tr>
 <tr>
@@ -1660,7 +1784,7 @@
 <br/>37 <br/>
 </td>
 <td align="center">
-<br/>Quartier Chateaubriand <br/>
+<br/>Quartier Châteaubriand <br/>
 </td>
 <td align="center">
 <br/>Tours <br/>
@@ -1669,7 +1793,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,206 <br/>
+<br/>0,207 <br/>
 </td>
 </tr>
 <tr>
@@ -1686,7 +1810,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,257 <br/>
+<br/>0,184 <br/>
 </td>
 </tr>
 <tr>
@@ -1697,7 +1821,7 @@
 <br/>Réseau UIOM Chinon <br/>
 </td>
 <td align="center">
-<br/>Saint-Pierre-des-Corps <br/>
+<br/>Saint-Benoît-la-Forêt <br/>
 </td>
 <td align="center">
 <br/>C <br/>
@@ -1711,7 +1835,7 @@
 <br/>37 <br/>
 </td>
 <td align="center">
-<br/>Réseau de la Riche-Quartier <br/>
+<br/>Réseau de La Riche-quartier <br/>
 </td>
 <td align="center">
 <br/>La Riche <br/>
@@ -1720,7 +1844,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,230 <br/>
+<br/>0,234 <br/>
 </td>
 </tr>
 <tr>
@@ -1737,7 +1861,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,137 <br/>
+<br/>0,146 <br/>
 </td>
 </tr>
 <tr>
@@ -1754,7 +1878,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,008 <br/>
+<br/>0,010 <br/>
 </td>
 </tr>
 <tr>
@@ -1771,7 +1895,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,256 <br/>
+<br/>0,000 <br/>
 </td>
 </tr>
 <tr>
@@ -1788,7 +1912,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,007 <br/>
+<br/>0,009 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>38 <br/>
+</td>
+<td align="center">
+<br/>Allevard <br/>
+</td>
+<td align="center">
+<br/>Allevard <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,025 <br/>
 </td>
 </tr>
 <tr>
@@ -1805,7 +1946,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,189 <br/>
+<br/>0,167 <br/>
 </td>
 </tr>
 <tr>
@@ -1822,7 +1963,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,082 <br/>
+<br/>0,098 <br/>
 </td>
 </tr>
 <tr>
@@ -1839,7 +1980,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,177 <br/>
+<br/>0,140 <br/>
 </td>
 </tr>
 <tr>
@@ -1847,7 +1988,7 @@
 <br/>40 <br/>
 </td>
 <td align="center">
-<br/>ZAC des Bords de l'Adour <br/>
+<br/>ZAC des bords de l'Adour <br/>
 </td>
 <td align="center">
 <br/>Dax <br/>
@@ -1856,7 +1997,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,274 <br/>
 </td>
 </tr>
 <tr>
@@ -1873,7 +2014,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,077 <br/>
+<br/>0,040 <br/>
 </td>
 </tr>
 <tr>
@@ -1890,7 +2031,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,077 <br/>
+<br/>0,050 <br/>
 </td>
 </tr>
 <tr>
@@ -1907,7 +2048,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,143 <br/>
+<br/>0,061 <br/>
 </td>
 </tr>
 <tr>
@@ -1941,7 +2082,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,232 <br/>
+<br/>0,233 <br/>
 </td>
 </tr>
 <tr>
@@ -1958,7 +2099,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,229 <br/>
+<br/>0,243 <br/>
 </td>
 </tr>
 <tr>
@@ -1975,7 +2116,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,261 <br/>
+<br/>0,265 <br/>
 </td>
 </tr>
 <tr>
@@ -1992,7 +2133,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,281 <br/>
+<br/>0,313 <br/>
 </td>
 </tr>
 <tr>
@@ -2009,7 +2150,41 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,258 <br/>
+<br/>0,295 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>42 <br/>
+</td>
+<td align="center">
+<br/>Réseau de chaleur VIACONFORT <br/>
+</td>
+<td align="center">
+<br/>Saint-Etienne <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,073 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>42 <br/>
+</td>
+<td align="center">
+<br/>Réseau de froid VIACONFORT <br/>
+</td>
+<td align="center">
+<br/>Saint-Etienne <br/>
+</td>
+<td align="center">
+<br/>F <br/>
+</td>
+<td align="center">
+<br/>0,013 <br/>
 </td>
 </tr>
 <tr>
@@ -2026,7 +2201,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,064 <br/>
+<br/>0,068 <br/>
 </td>
 </tr>
 <tr>
@@ -2043,7 +2218,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,060 <br/>
+<br/>0,066 <br/>
 </td>
 </tr>
 <tr>
@@ -2060,7 +2235,41 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,016 <br/>
+<br/>0,018 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>43 <br/>
+</td>
+<td align="center">
+<br/>Langeac <br/>
+</td>
+<td align="center">
+<br/>Langeac <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>43 <br/>
+</td>
+<td align="center">
+<br/>Réseau de chaleur YES <br/>
+</td>
+<td align="center">
+<br/>Yssingeaux <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,114 <br/>
 </td>
 </tr>
 <tr>
@@ -2077,7 +2286,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,000 <br/>
+<br/>0,128 <br/>
 </td>
 </tr>
 <tr>
@@ -2094,7 +2303,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,000 <br/>
+<br/>0,128 <br/>
 </td>
 </tr>
 <tr>
@@ -2111,7 +2320,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,024 <br/>
+<br/>0,015 <br/>
 </td>
 </tr>
 <tr>
@@ -2128,7 +2337,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,231 <br/>
+<br/>0,240 <br/>
 </td>
 </tr>
 <tr>
@@ -2145,7 +2354,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,278 <br/>
+<br/>0,260 <br/>
 </td>
 </tr>
 <tr>
@@ -2162,7 +2371,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,236 <br/>
+<br/>0,241 <br/>
 </td>
 </tr>
 <tr>
@@ -2170,7 +2379,7 @@
 <br/>45 <br/>
 </td>
 <td align="center">
-<br/>ZUP de Socham <br/>
+<br/>ZUP du Grand clos <br/>
 </td>
 <td align="center">
 <br/>Montargis <br/>
@@ -2179,7 +2388,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,088 <br/>
+<br/>0,064 <br/>
 </td>
 </tr>
 <tr>
@@ -2196,7 +2405,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,250 <br/>
+<br/>0,255 <br/>
 </td>
 </tr>
 <tr>
@@ -2204,7 +2413,7 @@
 <br/>45 <br/>
 </td>
 <td align="center">
-<br/>Réseau UIOM de Pithiviers <br/>
+<br/>CVE Pithiviers <br/>
 </td>
 <td align="center">
 <br/>Pithiviers <br/>
@@ -2213,7 +2422,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,005 <br/>
+<br/>0,000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Cazals terrain des Prades <br/>
+</td>
+<td align="center">
+<br/>Cazals <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,000 <br/>
 </td>
 </tr>
 <tr>
@@ -2230,7 +2456,143 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,066 <br/>
+<br/>0,278 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Biars-sur-Cère <br/>
+</td>
+<td align="center">
+<br/>Biars-sur-Cère <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,020 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Cajarc <br/>
+</td>
+<td align="center">
+<br/>Cajarc <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,011 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Catus <br/>
+</td>
+<td align="center">
+<br/>Catus <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,023 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Caillac <br/>
+</td>
+<td align="center">
+<br/>Caillac <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,037 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Saint-Germain-du-Bel-Air <br/>
+</td>
+<td align="center">
+<br/>Saint-Germain-du-Bel-Air <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,044 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau des Quatre-Routes-du-Lot <br/>
+</td>
+<td align="center">
+<br/>Les Quatre-Routes-du-Lot <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,053 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Sousceyrac <br/>
+</td>
+<td align="center">
+<br/>Sousceyrac <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,014 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Figeac <br/>
+</td>
+<td align="center">
+<br/>Figeac <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,010 <br/>
 </td>
 </tr>
 <tr>
@@ -2238,7 +2600,7 @@
 <br/>47 <br/>
 </td>
 <td align="center">
-<br/>Novergie Sud Ouest-Sogad (UIOM) <br/>
+<br/>Novergie Sud-Ouest Sogad (UIOM) <br/>
 </td>
 <td align="center">
 <br/>Le Passage <br/>
@@ -2247,7 +2609,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,000 <br/>
+<br/>0,256 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>48 <br/>
+</td>
+<td align="center">
+<br/>Mende <br/>
+</td>
+<td align="center">
+<br/>Mende <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,001 <br/>
 </td>
 </tr>
 <tr>
@@ -2264,7 +2643,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,080 <br/>
+<br/>0,143 <br/>
 </td>
 </tr>
 <tr>
@@ -2272,7 +2651,7 @@
 <br/>49 <br/>
 </td>
 <td align="center">
-<br/>ZUP de Jeanne d'Arc <br/>
+<br/>ZUP de Jeanne-d'Arc <br/>
 </td>
 <td align="center">
 <br/>Angers <br/>
@@ -2281,7 +2660,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,230 <br/>
+<br/>0,228 <br/>
 </td>
 </tr>
 <tr>
@@ -2298,7 +2677,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,219 <br/>
+<br/>0,213 <br/>
 </td>
 </tr>
 <tr>
@@ -2315,7 +2694,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,259 <br/>
+<br/>0,078 <br/>
 </td>
 </tr>
 <tr>
@@ -2332,7 +2711,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,000 <br/>
+<br/>0,009 <br/>
 </td>
 </tr>
 <tr>
@@ -2349,7 +2728,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,252 <br/>
+<br/>0,127 <br/>
 </td>
 </tr>
 <tr>
@@ -2366,7 +2745,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,261 <br/>
+<br/>0,264 <br/>
 </td>
 </tr>
 <tr>
@@ -2374,7 +2753,7 @@
 <br/>51 <br/>
 </td>
 <td align="center">
-<br/>ZUP Laon Neufchâtel <br/>
+<br/>ZUP Laon-Neufchâtel <br/>
 </td>
 <td align="center">
 <br/>Reims <br/>
@@ -2383,7 +2762,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,202 <br/>
+<br/>0,212 <br/>
 </td>
 </tr>
 <tr>
@@ -2400,7 +2779,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,114 <br/>
+<br/>0,000 <br/>
 </td>
 </tr>
 <tr>
@@ -2417,7 +2796,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,189 <br/>
+<br/>0,175 <br/>
 </td>
 </tr>
 <tr>
@@ -2425,7 +2804,7 @@
 <br/>51 <br/>
 </td>
 <td align="center">
-<br/>Croix Rouge <br/>
+<br/>Croix-Rouge <br/>
 </td>
 <td align="center">
 <br/>Reims <br/>
@@ -2434,7 +2813,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,243 <br/>
+<br/>0,248 <br/>
 </td>
 </tr>
 <tr>
@@ -2451,7 +2830,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,199 <br/>
+<br/>0,213 <br/>
 </td>
 </tr>
 <tr>
@@ -2459,7 +2838,7 @@
 <br/>52 <br/>
 </td>
 <td align="center">
-<br/>Ensemble du Vert Bois <br/>
+<br/>Ensemble du Vert bois <br/>
 </td>
 <td align="center">
 <br/>Saint-Dizier <br/>
@@ -2468,7 +2847,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,188 <br/>
+<br/>0,202 <br/>
 </td>
 </tr>
 <tr>
@@ -2485,7 +2864,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,240 <br/>
+<br/>0,259 <br/>
 </td>
 </tr>
 <tr>
@@ -2502,7 +2881,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,222 <br/>
+<br/>0,232 <br/>
 </td>
 </tr>
 <tr>
@@ -2519,7 +2898,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,163 <br/>
+<br/>0,119 <br/>
 </td>
 </tr>
 <tr>
@@ -2536,7 +2915,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,053 <br/>
+<br/>0,037 <br/>
 </td>
 </tr>
 <tr>
@@ -2553,7 +2932,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,096 <br/>
+<br/>0,110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>54 <br/>
+</td>
+<td align="center">
+<br/>Réseau d'Ecrouves <br/>
+</td>
+<td align="center">
+<br/>Ecrouves <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,168 <br/>
 </td>
 </tr>
 <tr>
@@ -2570,7 +2966,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,249 <br/>
+<br/>0,246 <br/>
 </td>
 </tr>
 <tr>
@@ -2587,7 +2983,58 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,226 <br/>
+<br/>0,197 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>55 <br/>
+</td>
+<td align="center">
+<br/>Ligny-en-Barrois <br/>
+</td>
+<td align="center">
+<br/>Ligny-en-Barrois <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,041 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Lanester <br/>
+</td>
+<td align="center">
+<br/>Lanester <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,013 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>Réseau de chaleur ZAC Centre <br/>
+</td>
+<td align="center">
+<br/>Hennebont <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,033 <br/>
 </td>
 </tr>
 <tr>
@@ -2604,7 +3051,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,187 <br/>
+<br/>0,181 <br/>
 </td>
 </tr>
 <tr>
@@ -2621,7 +3068,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,223 <br/>
+<br/>0,218 <br/>
 </td>
 </tr>
 <tr>
@@ -2638,7 +3085,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,201 <br/>
+<br/>0,223 <br/>
 </td>
 </tr>
 <tr>
@@ -2655,7 +3102,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,227 <br/>
+<br/>0,223 <br/>
 </td>
 </tr>
 <tr>
@@ -2672,7 +3119,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,287 <br/>
+<br/>0,297 <br/>
 </td>
 </tr>
 <tr>
@@ -2689,7 +3136,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,258 <br/>
+<br/>0,238 <br/>
 </td>
 </tr>
 <tr>
@@ -2706,7 +3153,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,051 <br/>
+<br/>0,056 <br/>
 </td>
 </tr>
 <tr>
@@ -2723,7 +3170,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,184 <br/>
+<br/>0,194 <br/>
 </td>
 </tr>
 <tr>
@@ -2740,7 +3187,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,233 <br/>
+<br/>0,199 <br/>
 </td>
 </tr>
 <tr>
@@ -2757,7 +3204,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,234 <br/>
+<br/>0,179 <br/>
 </td>
 </tr>
 <tr>
@@ -2774,7 +3221,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,239 <br/>
+<br/>0,224 <br/>
 </td>
 </tr>
 <tr>
@@ -2791,7 +3238,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,285 <br/>
+<br/>0,216 <br/>
 </td>
 </tr>
 <tr>
@@ -2808,7 +3255,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,182 <br/>
+<br/>0,175 <br/>
 </td>
 </tr>
 <tr>
@@ -2825,7 +3272,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,233 <br/>
+<br/>0,236 <br/>
 </td>
 </tr>
 <tr>
@@ -2842,7 +3289,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,184 <br/>
+<br/>0,191 <br/>
 </td>
 </tr>
 <tr>
@@ -2850,16 +3297,16 @@
 <br/>59 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Roubaix-Wattrelos <br/>
+<br/>Réseau de Wattrelos <br/>
 </td>
 <td align="center">
-<br/>Roubaix <br/>
+<br/>Wattrelos <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,229 <br/>
+<br/>0,230 <br/>
 </td>
 </tr>
 <tr>
@@ -2876,7 +3323,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,212 <br/>
+<br/>0,211 <br/>
 </td>
 </tr>
 <tr>
@@ -2884,7 +3331,7 @@
 <br/>59 <br/>
 </td>
 <td align="center">
-<br/>Monsénergie <br/>
+<br/>Monsenergie <br/>
 </td>
 <td align="center">
 <br/>Mons-en-Barœul <br/>
@@ -2893,7 +3340,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,225 <br/>
 </td>
 </tr>
 <tr>
@@ -2918,7 +3365,7 @@
 <br/>59 <br/>
 </td>
 <td align="center">
-<br/>ZUP de la Caserne Joyeuse <br/>
+<br/>ZUP de la Caserne joyeuse <br/>
 </td>
 <td align="center">
 <br/>Maubeuge <br/>
@@ -2927,7 +3374,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,236 <br/>
+<br/>0,221 <br/>
 </td>
 </tr>
 <tr>
@@ -2944,7 +3391,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,128 <br/>
+<br/>0,107 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>59 <br/>
+</td>
+<td align="center">
+<br/>Réseau de chauffage d'Hazebrouck <br/>
+</td>
+<td align="center">
+<br/>Hazebrouck <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,242 <br/>
 </td>
 </tr>
 <tr>
@@ -2961,7 +3425,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,242 <br/>
+<br/>0,250 <br/>
 </td>
 </tr>
 <tr>
@@ -2978,7 +3442,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,139 <br/>
 </td>
 </tr>
 <tr>
@@ -2995,7 +3459,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,241 <br/>
+<br/>0,250 <br/>
 </td>
 </tr>
 <tr>
@@ -3012,7 +3476,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,213 <br/>
+<br/>0,218 <br/>
 </td>
 </tr>
 <tr>
@@ -3029,7 +3493,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,203 <br/>
+<br/>0,264 <br/>
 </td>
 </tr>
 <tr>
@@ -3046,7 +3510,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,209 <br/>
+<br/>0,187 <br/>
 </td>
 </tr>
 <tr>
@@ -3063,7 +3527,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,312 <br/>
+<br/>0,348 <br/>
 </td>
 </tr>
 <tr>
@@ -3071,7 +3535,7 @@
 <br/>61 <br/>
 </td>
 <td align="center">
-<br/>Quartier Nord-Route de Falaise <br/>
+<br/>Quartier Nord-route de Falaise <br/>
 </td>
 <td align="center">
 <br/>Argentan <br/>
@@ -3080,7 +3544,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,026 <br/>
+<br/>0,019 <br/>
 </td>
 </tr>
 <tr>
@@ -3097,7 +3561,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,004 <br/>
+<br/>0,016 <br/>
 </td>
 </tr>
 <tr>
@@ -3114,7 +3578,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,215 <br/>
+<br/>0,232 <br/>
 </td>
 </tr>
 <tr>
@@ -3131,7 +3595,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,237 <br/>
+<br/>0,229 <br/>
 </td>
 </tr>
 <tr>
@@ -3148,7 +3612,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,230 <br/>
+<br/>0,235 <br/>
 </td>
 </tr>
 <tr>
@@ -3165,7 +3629,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,237 <br/>
+<br/>0,244 <br/>
 </td>
 </tr>
 <tr>
@@ -3182,7 +3646,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,209 <br/>
+<br/>0,193 <br/>
 </td>
 </tr>
 <tr>
@@ -3199,7 +3663,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,248 <br/>
+<br/>0,230 <br/>
 </td>
 </tr>
 <tr>
@@ -3216,7 +3680,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,193 <br/>
+<br/>0,212 <br/>
 </td>
 </tr>
 <tr>
@@ -3233,7 +3697,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,212 <br/>
+<br/>0,226 <br/>
 </td>
 </tr>
 <tr>
@@ -3250,7 +3714,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,215 <br/>
+<br/>0,220 <br/>
 </td>
 </tr>
 <tr>
@@ -3267,7 +3731,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,238 <br/>
+<br/>0,237 <br/>
 </td>
 </tr>
 <tr>
@@ -3284,7 +3748,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,218 <br/>
 </td>
 </tr>
 <tr>
@@ -3301,7 +3765,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,224 <br/>
+<br/>0,214 <br/>
 </td>
 </tr>
 <tr>
@@ -3318,7 +3782,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,247 <br/>
+<br/>0,248 <br/>
 </td>
 </tr>
 <tr>
@@ -3335,7 +3799,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,225 <br/>
+<br/>0,219 <br/>
 </td>
 </tr>
 <tr>
@@ -3352,7 +3816,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,242 <br/>
+<br/>0,235 <br/>
 </td>
 </tr>
 <tr>
@@ -3369,7 +3833,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,226 <br/>
 </td>
 </tr>
 <tr>
@@ -3386,7 +3850,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,091 <br/>
+<br/>0,117 <br/>
 </td>
 </tr>
 <tr>
@@ -3403,7 +3867,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,265 <br/>
+<br/>0,063 <br/>
 </td>
 </tr>
 <tr>
@@ -3420,7 +3884,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,147 <br/>
+<br/>0,109 <br/>
 </td>
 </tr>
 <tr>
@@ -3437,7 +3901,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,229 <br/>
+<br/>0,230 <br/>
 </td>
 </tr>
 <tr>
@@ -3445,7 +3909,7 @@
 <br/>68 <br/>
 </td>
 <td align="center">
-<br/>Cité Technique <br/>
+<br/>Cité technique <br/>
 </td>
 <td align="center">
 <br/>Saint-Louis <br/>
@@ -3454,7 +3918,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,238 <br/>
+<br/>0,228 <br/>
 </td>
 </tr>
 <tr>
@@ -3471,7 +3935,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,206 <br/>
+<br/>0,198 <br/>
 </td>
 </tr>
 <tr>
@@ -3488,7 +3952,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,224 <br/>
+<br/>0,272 <br/>
 </td>
 </tr>
 <tr>
@@ -3505,7 +3969,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,244 <br/>
+<br/>0,292 <br/>
 </td>
 </tr>
 <tr>
@@ -3522,24 +3986,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,227 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>68 <br/>
-</td>
-<td align="center">
-<br/>Réseau d'Heimersdorf <br/>
-</td>
-<td align="center">
-<br/>Heimersdorf <br/>
-</td>
-<td align="center">
-<br/>C <br/>
-</td>
-<td align="center">
-<br/>0,259 <br/>
+<br/>0,253 <br/>
 </td>
 </tr>
 <tr>
@@ -3556,7 +4003,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,032 <br/>
+<br/>0,022 <br/>
 </td>
 </tr>
 <tr>
@@ -3573,7 +4020,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,235 <br/>
+<br/>0,182 <br/>
 </td>
 </tr>
 <tr>
@@ -3590,7 +4037,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,207 <br/>
+<br/>0,222 <br/>
 </td>
 </tr>
 <tr>
@@ -3598,7 +4045,7 @@
 <br/>69 <br/>
 </td>
 <td align="center">
-<br/>La Duchère et Lyon 9e <br/>
+<br/>La Duchère et Lyon (9e) <br/>
 </td>
 <td align="center">
 <br/>Champagne-au-Mont-d'Or <br/>
@@ -3607,7 +4054,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,088 <br/>
+<br/>0,087 <br/>
 </td>
 </tr>
 <tr>
@@ -3624,7 +4071,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,122 <br/>
+<br/>0,110 <br/>
 </td>
 </tr>
 <tr>
@@ -3658,7 +4105,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,328 <br/>
+<br/>0,349 <br/>
 </td>
 </tr>
 <tr>
@@ -3675,7 +4122,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,228 <br/>
+<br/>0,248 <br/>
 </td>
 </tr>
 <tr>
@@ -3692,7 +4139,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,208 <br/>
+<br/>0,214 <br/>
 </td>
 </tr>
 <tr>
@@ -3709,7 +4156,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,085 <br/>
+<br/>0,187 <br/>
 </td>
 </tr>
 <tr>
@@ -3717,7 +4164,7 @@
 <br/>69 <br/>
 </td>
 <td align="center">
-<br/>ZUP de Bron Parilly <br/>
+<br/>ZUP de Bron-Parilly <br/>
 </td>
 <td align="center">
 <br/>Bron <br/>
@@ -3726,7 +4173,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,206 <br/>
+<br/>0,200 <br/>
 </td>
 </tr>
 <tr>
@@ -3743,7 +4190,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,252 <br/>
+<br/>0,234 <br/>
 </td>
 </tr>
 <tr>
@@ -3760,7 +4207,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,000 <br/>
+<br/>0,007 <br/>
 </td>
 </tr>
 <tr>
@@ -3777,7 +4224,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,226 <br/>
+<br/>0,234 <br/>
 </td>
 </tr>
 <tr>
@@ -3794,7 +4241,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,246 <br/>
+<br/>0,239 <br/>
 </td>
 </tr>
 <tr>
@@ -3828,7 +4275,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,100 <br/>
+<br/>0,081 <br/>
 </td>
 </tr>
 <tr>
@@ -3845,7 +4292,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,192 <br/>
+<br/>0,193 <br/>
 </td>
 </tr>
 <tr>
@@ -3862,7 +4309,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,226 <br/>
+<br/>0,229 <br/>
 </td>
 </tr>
 <tr>
@@ -3879,7 +4326,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,032 <br/>
+<br/>0,038 <br/>
 </td>
 </tr>
 <tr>
@@ -3896,24 +4343,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,134 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>70 <br/>
-</td>
-<td align="center">
-<br/>Réseau de Dampierre-sur-Linotte <br/>
-</td>
-<td align="center">
-<br/>Dampierre-sur-Linotte <br/>
-</td>
-<td align="center">
-<br/>C <br/>
-</td>
-<td align="center">
-<br/>0,256 <br/>
+<br/>0,007 <br/>
 </td>
 </tr>
 <tr>
@@ -3930,7 +4360,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,233 <br/>
+<br/>0,176 <br/>
 </td>
 </tr>
 <tr>
@@ -3938,7 +4368,7 @@
 <br/>71 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Montceau-les-mines <br/>
+<br/>Réseau de Montceau-les-Mines <br/>
 </td>
 <td align="center">
 <br/>Montceau-les-Mines <br/>
@@ -3947,7 +4377,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,324 <br/>
+<br/>0,325 <br/>
 </td>
 </tr>
 <tr>
@@ -3964,7 +4394,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,356 <br/>
+<br/>0,362 <br/>
 </td>
 </tr>
 <tr>
@@ -3981,7 +4411,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,121 <br/>
+<br/>0,117 <br/>
 </td>
 </tr>
 <tr>
@@ -3998,7 +4428,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,028 <br/>
+<br/>0,023 <br/>
 </td>
 </tr>
 <tr>
@@ -4015,7 +4445,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,247 <br/>
+<br/>0,221 <br/>
 </td>
 </tr>
 <tr>
@@ -4043,13 +4473,13 @@
 <br/>ZUP d'Allonnes <br/>
 </td>
 <td align="center">
-<br/>Le Mans-Allonnes <br/>
+<br/>Le Mans Allonnes <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,084 <br/>
+<br/>0,122 <br/>
 </td>
 </tr>
 <tr>
@@ -4066,7 +4496,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,061 <br/>
+<br/>0,057 <br/>
 </td>
 </tr>
 <tr>
@@ -4083,7 +4513,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,187 <br/>
+<br/>0,173 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>73 <br/>
+</td>
+<td align="center">
+<br/>La Plagne <br/>
+</td>
+<td align="center">
+<br/>Macôt-la-Plagne <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,134 <br/>
 </td>
 </tr>
 <tr>
@@ -4117,7 +4564,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,075 <br/>
+<br/>0,281 <br/>
 </td>
 </tr>
 <tr>
@@ -4134,7 +4581,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,209 <br/>
+<br/>0,211 <br/>
 </td>
 </tr>
 <tr>
@@ -4151,7 +4598,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,031 <br/>
+<br/>0,049 <br/>
 </td>
 </tr>
 <tr>
@@ -4168,7 +4615,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,289 <br/>
+<br/>0,294 <br/>
 </td>
 </tr>
 <tr>
@@ -4179,13 +4626,13 @@
 <br/>Flaine <br/>
 </td>
 <td align="center">
-<br/>Arraches-la-Frasse <br/>
+<br/>Les Carroz-d'Arraches <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,277 <br/>
+<br/>0,257 <br/>
 </td>
 </tr>
 <tr>
@@ -4202,7 +4649,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,246 <br/>
+<br/>0,247 <br/>
 </td>
 </tr>
 <tr>
@@ -4219,7 +4666,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,002 <br/>
+<br/>0,009 <br/>
 </td>
 </tr>
 <tr>
@@ -4236,7 +4683,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,228 <br/>
+<br/>0,276 <br/>
 </td>
 </tr>
 <tr>
@@ -4244,7 +4691,7 @@
 <br/>75 <br/>
 </td>
 <td align="center">
-<br/>Paris et communes limitrophes <br/>
+<br/>CPCU-Paris et communes limitrophes <br/>
 </td>
 <td align="center">
 <br/>Paris <br/>
@@ -4253,7 +4700,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,197 <br/>
+<br/>0,195 <br/>
 </td>
 </tr>
 <tr>
@@ -4270,7 +4717,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,204 <br/>
+<br/>0,212 <br/>
 </td>
 </tr>
 <tr>
@@ -4287,7 +4734,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,010 <br/>
+<br/>0,007 <br/>
 </td>
 </tr>
 <tr>
@@ -4304,7 +4751,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,215 <br/>
+<br/>0,217 <br/>
 </td>
 </tr>
 <tr>
@@ -4321,7 +4768,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,300 <br/>
+<br/>0,305 <br/>
 </td>
 </tr>
 <tr>
@@ -4338,7 +4785,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,256 <br/>
+<br/>0,259 <br/>
 </td>
 </tr>
 <tr>
@@ -4355,7 +4802,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,276 <br/>
+<br/>0,258 <br/>
 </td>
 </tr>
 <tr>
@@ -4372,7 +4819,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,227 <br/>
+<br/>0,215 <br/>
 </td>
 </tr>
 <tr>
@@ -4389,7 +4836,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,249 <br/>
+<br/>0,256 <br/>
 </td>
 </tr>
 <tr>
@@ -4406,7 +4853,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,043 <br/>
+<br/>0,029 <br/>
 </td>
 </tr>
 <tr>
@@ -4423,7 +4870,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,204 <br/>
+<br/>0,243 <br/>
 </td>
 </tr>
 <tr>
@@ -4440,7 +4887,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,204 <br/>
+<br/>0,195 <br/>
 </td>
 </tr>
 <tr>
@@ -4457,7 +4904,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,251 <br/>
+<br/>0,267 <br/>
 </td>
 </tr>
 <tr>
@@ -4474,7 +4921,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,236 <br/>
+<br/>0,243 <br/>
 </td>
 </tr>
 <tr>
@@ -4491,7 +4938,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,065 <br/>
+<br/>0,027 <br/>
 </td>
 </tr>
 <tr>
@@ -4508,7 +4955,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,158 <br/>
+<br/>0,169 <br/>
 </td>
 </tr>
 <tr>
@@ -4525,7 +4972,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,177 <br/>
+<br/>0,198 <br/>
 </td>
 </tr>
 <tr>
@@ -4550,7 +4997,7 @@
 <br/>77 <br/>
 </td>
 <td align="center">
-<br/>ZUP du mont Saint-Martin (GTNM) <br/>
+<br/>ZUP du Mont Saint-Martin (GTNM) <br/>
 </td>
 <td align="center">
 <br/>Nemours <br/>
@@ -4559,7 +5006,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,271 <br/>
+<br/>0,207 <br/>
 </td>
 </tr>
 <tr>
@@ -4576,7 +5023,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,234 <br/>
+<br/>0,213 <br/>
 </td>
 </tr>
 <tr>
@@ -4593,7 +5040,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,282 <br/>
+<br/>0,241 <br/>
 </td>
 </tr>
 <tr>
@@ -4610,7 +5057,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,173 <br/>
+<br/>0,193 <br/>
 </td>
 </tr>
 <tr>
@@ -4627,7 +5074,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,260 <br/>
+<br/>0,257 <br/>
 </td>
 </tr>
 <tr>
@@ -4644,7 +5091,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,001 <br/>
+<br/>0,032 <br/>
 </td>
 </tr>
 <tr>
@@ -4661,7 +5108,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,238 <br/>
+<br/>0,220 <br/>
 </td>
 </tr>
 <tr>
@@ -4678,7 +5125,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,219 <br/>
+<br/>0,222 <br/>
 </td>
 </tr>
 <tr>
@@ -4695,7 +5142,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,138 <br/>
+<br/>0,172 <br/>
 </td>
 </tr>
 <tr>
@@ -4712,7 +5159,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,233 <br/>
+<br/>0,209 <br/>
 </td>
 </tr>
 <tr>
@@ -4729,7 +5176,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,244 <br/>
+<br/>0,226 <br/>
 </td>
 </tr>
 <tr>
@@ -4746,7 +5193,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,250 <br/>
+<br/>0,258 <br/>
 </td>
 </tr>
 <tr>
@@ -4763,7 +5210,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,211 <br/>
+<br/>0,215 <br/>
 </td>
 </tr>
 <tr>
@@ -4780,7 +5227,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,217 <br/>
+<br/>0,204 <br/>
 </td>
 </tr>
 <tr>
@@ -4797,7 +5244,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,182 <br/>
+<br/>0,158 <br/>
 </td>
 </tr>
 <tr>
@@ -4805,7 +5252,7 @@
 <br/>78 <br/>
 </td>
 <td align="center">
-<br/>Quartier Grand Ouest <br/>
+<br/>Quartier Grand Ouest et des Musiciens <br/>
 </td>
 <td align="center">
 <br/>Les Mureaux <br/>
@@ -4814,7 +5261,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,271 <br/>
+<br/>0,247 <br/>
 </td>
 </tr>
 <tr>
@@ -4831,7 +5278,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,217 <br/>
+<br/>0,226 <br/>
 </td>
 </tr>
 <tr>
@@ -4882,7 +5329,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,002 <br/>
+<br/>0,009 <br/>
 </td>
 </tr>
 <tr>
@@ -4899,7 +5346,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,203 <br/>
+<br/>0,207 <br/>
 </td>
 </tr>
 <tr>
@@ -4916,7 +5363,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,010 <br/>
+<br/>0,026 <br/>
 </td>
 </tr>
 <tr>
@@ -4933,7 +5380,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,219 <br/>
+<br/>0,276 <br/>
 </td>
 </tr>
 <tr>
@@ -4950,7 +5397,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,199 <br/>
+<br/>0,203 <br/>
 </td>
 </tr>
 <tr>
@@ -4967,7 +5414,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,118 <br/>
+<br/>0,068 <br/>
 </td>
 </tr>
 <tr>
@@ -4984,7 +5431,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,174 <br/>
+<br/>0,144 <br/>
 </td>
 </tr>
 <tr>
@@ -5001,7 +5448,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,056 <br/>
+<br/>0,062 <br/>
 </td>
 </tr>
 <tr>
@@ -5009,7 +5456,7 @@
 <br/>81 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Castres Lameilhé <br/>
+<br/>Réseau de Castres-Lameilhé <br/>
 </td>
 <td align="center">
 <br/>Castres <br/>
@@ -5018,7 +5465,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,065 <br/>
+<br/>0,012 <br/>
 </td>
 </tr>
 <tr>
@@ -5030,6 +5477,23 @@
 </td>
 <td align="center">
 <br/>Montauban <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,017 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>82 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Caylus <br/>
+</td>
+<td align="center">
+<br/>Caylus <br/>
 </td>
 <td align="center">
 <br/>C <br/>
@@ -5052,7 +5516,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,000 <br/>
+<br/>0,128 <br/>
 </td>
 </tr>
 <tr>
@@ -5069,7 +5533,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,227 <br/>
+<br/>0,229 <br/>
 </td>
 </tr>
 <tr>
@@ -5086,7 +5550,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,326 <br/>
+<br/>0,349 <br/>
 </td>
 </tr>
 <tr>
@@ -5103,7 +5567,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,072 <br/>
+<br/>0,073 <br/>
 </td>
 </tr>
 <tr>
@@ -5120,7 +5584,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,117 <br/>
+<br/>0,094 <br/>
 </td>
 </tr>
 <tr>
@@ -5137,7 +5601,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,230 <br/>
+<br/>0,218 <br/>
 </td>
 </tr>
 <tr>
@@ -5154,7 +5618,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,013 <br/>
+<br/>0,005 <br/>
 </td>
 </tr>
 <tr>
@@ -5162,7 +5626,7 @@
 <br/>87 <br/>
 </td>
 <td align="center">
-<br/>Quartier de l'Hôtel de Ville <br/>
+<br/>Quartier de l'hôtel de ville <br/>
 </td>
 <td align="center">
 <br/>Limoges <br/>
@@ -5171,7 +5635,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,273 <br/>
+<br/>0,229 <br/>
 </td>
 </tr>
 <tr>
@@ -5188,7 +5652,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,115 <br/>
+<br/>0,132 <br/>
 </td>
 </tr>
 <tr>
@@ -5205,7 +5669,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,210 <br/>
+<br/>0,064 <br/>
 </td>
 </tr>
 <tr>
@@ -5222,7 +5686,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,245 <br/>
+<br/>0,240 <br/>
 </td>
 </tr>
 <tr>
@@ -5239,7 +5703,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,029 <br/>
+<br/>0,007 <br/>
 </td>
 </tr>
 <tr>
@@ -5256,7 +5720,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,200 <br/>
+<br/>0,126 <br/>
 </td>
 </tr>
 <tr>
@@ -5273,7 +5737,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,223 <br/>
+<br/>0,257 <br/>
 </td>
 </tr>
 <tr>
@@ -5290,7 +5754,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,235 <br/>
+<br/>0,232 <br/>
 </td>
 </tr>
 <tr>
@@ -5307,7 +5771,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,227 <br/>
+<br/>0,233 <br/>
 </td>
 </tr>
 <tr>
@@ -5324,7 +5788,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,155 <br/>
+<br/>0,153 <br/>
 </td>
 </tr>
 <tr>
@@ -5341,7 +5805,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,172 <br/>
+<br/>0,103 <br/>
 </td>
 </tr>
 <tr>
@@ -5358,7 +5822,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,226 <br/>
+<br/>0,207 <br/>
 </td>
 </tr>
 <tr>
@@ -5375,7 +5839,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,214 <br/>
+<br/>0,275 <br/>
 </td>
 </tr>
 <tr>
@@ -5392,7 +5856,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,201 <br/>
+<br/>0,205 <br/>
 </td>
 </tr>
 <tr>
@@ -5409,7 +5873,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,221 <br/>
+<br/>0,202 <br/>
 </td>
 </tr>
 <tr>
@@ -5426,7 +5890,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,249 <br/>
+<br/>0,253 <br/>
 </td>
 </tr>
 <tr>
@@ -5443,7 +5907,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,107 <br/>
+<br/>0,113 <br/>
 </td>
 </tr>
 <tr>
@@ -5460,7 +5924,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,072 <br/>
+<br/>0,182 <br/>
 </td>
 </tr>
 <tr>
@@ -5477,7 +5941,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,138 <br/>
+<br/>0,153 <br/>
 </td>
 </tr>
 <tr>
@@ -5494,7 +5958,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,209 <br/>
+<br/>0,210 <br/>
 </td>
 </tr>
 <tr>
@@ -5502,7 +5966,7 @@
 <br/>91 <br/>
 </td>
 <td align="center">
-<br/>Les Tarterets <br/>
+<br/>Les Tarterêts <br/>
 </td>
 <td align="center">
 <br/>Corbeil-Essonnes <br/>
@@ -5511,7 +5975,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,221 <br/>
+<br/>0,220 <br/>
 </td>
 </tr>
 <tr>
@@ -5528,7 +5992,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,236 <br/>
+<br/>0,240 <br/>
 </td>
 </tr>
 <tr>
@@ -5562,7 +6026,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,228 <br/>
+<br/>0,229 <br/>
 </td>
 </tr>
 <tr>
@@ -5570,7 +6034,7 @@
 <br/>92 <br/>
 </td>
 <td align="center">
-<br/>Les Fosses Jean Nord <br/>
+<br/>Les Fossés Jean Nord <br/>
 </td>
 <td align="center">
 <br/>Colombes <br/>
@@ -5596,7 +6060,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,237 <br/>
+<br/>0,241 <br/>
 </td>
 </tr>
 <tr>
@@ -5613,7 +6077,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,235 <br/>
+<br/>0,236 <br/>
 </td>
 </tr>
 <tr>
@@ -5630,7 +6094,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,212 <br/>
+<br/>0,217 <br/>
 </td>
 </tr>
 <tr>
@@ -5647,7 +6111,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,248 <br/>
+<br/>0,249 <br/>
 </td>
 </tr>
 <tr>
@@ -5664,7 +6128,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,248 <br/>
+<br/>0,250 <br/>
 </td>
 </tr>
 <tr>
@@ -5681,7 +6145,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,207 <br/>
+<br/>0,223 <br/>
 </td>
 </tr>
 <tr>
@@ -5698,7 +6162,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,273 <br/>
+<br/>0,276 <br/>
 </td>
 </tr>
 <tr>
@@ -5706,7 +6170,7 @@
 <br/>92 <br/>
 </td>
 <td align="center">
-<br/>ZAC île Séguin Rives de Seine <br/>
+<br/>ZAC île Séguin-Rives de Seine <br/>
 </td>
 <td align="center">
 <br/>Boulogne-Billancourt <br/>
@@ -5715,7 +6179,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,243 <br/>
+<br/>0,189 <br/>
 </td>
 </tr>
 <tr>
@@ -5723,7 +6187,7 @@
 <br/>92 <br/>
 </td>
 <td align="center">
-<br/>ZAC île Séguin Rives de Seine <br/>
+<br/>ZAC île Séguin-Rives de Seine <br/>
 </td>
 <td align="center">
 <br/>Boulogne-Billancourt <br/>
@@ -5732,24 +6196,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,025 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>92 <br/>
-</td>
-<td align="center">
-<br/>Le Point du Jour <br/>
-</td>
-<td align="center">
-<br/>Boulogne-Billancourt <br/>
-</td>
-<td align="center">
-<br/>C <br/>
-</td>
-<td align="center">
-<br/>0,195 <br/>
+<br/>0,020 <br/>
 </td>
 </tr>
 <tr>
@@ -5766,7 +6213,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,280 <br/>
+<br/>0,278 <br/>
 </td>
 </tr>
 <tr>
@@ -5783,7 +6230,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,235 <br/>
+<br/>0,203 <br/>
 </td>
 </tr>
 <tr>
@@ -5800,7 +6247,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,273 <br/>
+<br/>0,243 <br/>
 </td>
 </tr>
 <tr>
@@ -5817,7 +6264,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,271 <br/>
+<br/>0,266 <br/>
 </td>
 </tr>
 <tr>
@@ -5851,7 +6298,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,191 <br/>
+<br/>0,175 <br/>
 </td>
 </tr>
 <tr>
@@ -5868,7 +6315,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,234 <br/>
+<br/>0,216 <br/>
 </td>
 </tr>
 <tr>
@@ -5885,7 +6332,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,014 <br/>
+<br/>0,018 <br/>
 </td>
 </tr>
 <tr>
@@ -5902,7 +6349,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,224 <br/>
+<br/>0,219 <br/>
 </td>
 </tr>
 <tr>
@@ -5919,7 +6366,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,225 <br/>
+<br/>0,226 <br/>
 </td>
 </tr>
 <tr>
@@ -5936,7 +6383,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,236 <br/>
+<br/>0,229 <br/>
 </td>
 </tr>
 <tr>
@@ -5953,7 +6400,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,260 <br/>
+<br/>0,261 <br/>
 </td>
 </tr>
 <tr>
@@ -5970,7 +6417,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,226 <br/>
+<br/>0,212 <br/>
 </td>
 </tr>
 <tr>
@@ -5987,7 +6434,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,208 <br/>
+<br/>0,211 <br/>
 </td>
 </tr>
 <tr>
@@ -6004,7 +6451,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,194 <br/>
+<br/>0,168 <br/>
 </td>
 </tr>
 <tr>
@@ -6012,7 +6459,7 @@
 <br/>93 <br/>
 </td>
 <td align="center">
-<br/>Réseau ADP Le Bouget <br/>
+<br/>Réseau ADP-Le Bourget <br/>
 </td>
 <td align="center">
 <br/>Le Bourget <br/>
@@ -6021,7 +6468,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,262 <br/>
+<br/>0,252 <br/>
 </td>
 </tr>
 <tr>
@@ -6038,7 +6485,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,127 <br/>
+<br/>0,188 <br/>
 </td>
 </tr>
 <tr>
@@ -6055,7 +6502,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,200 <br/>
+<br/>0,198 <br/>
 </td>
 </tr>
 <tr>
@@ -6063,7 +6510,7 @@
 <br/>93 <br/>
 </td>
 <td align="center">
-<br/>La Courneuve Quartier Nord <br/>
+<br/>La Courneuve quartier Nord <br/>
 </td>
 <td align="center">
 <br/>La Courneuve <br/>
@@ -6072,7 +6519,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,080 <br/>
+<br/>0,108 <br/>
 </td>
 </tr>
 <tr>
@@ -6089,7 +6536,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,243 <br/>
+<br/>0,063 <br/>
 </td>
 </tr>
 <tr>
@@ -6106,7 +6553,24 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,205 <br/>
+<br/>0,211 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>Réseau de Bondy <br/>
+</td>
+<td align="center">
+<br/>Bondy <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>0,242 <br/>
 </td>
 </tr>
 <tr>
@@ -6117,13 +6581,13 @@
 <br/>Garonor <br/>
 </td>
 <td align="center">
-<br/>Aulnay-sous-bois <br/>
+<br/>Aulnay-sous-Bois <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,326 <br/>
+<br/>0,300 <br/>
 </td>
 </tr>
 <tr>
@@ -6134,13 +6598,13 @@
 <br/>Aulnay 3000-Rose des Vents <br/>
 </td>
 <td align="center">
-<br/>Aulnay-sous-bois <br/>
+<br/>Aulnay-sous-Bois <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,200 <br/>
+<br/>0,161 <br/>
 </td>
 </tr>
 <tr>
@@ -6157,7 +6621,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,243 <br/>
+<br/>0,251 <br/>
 </td>
 </tr>
 <tr>
@@ -6182,7 +6646,7 @@
 <br/>93 <br/>
 </td>
 <td align="center">
-<br/>La Courneuve Quartier Sud <br/>
+<br/>La Courneuve quartier Sud <br/>
 </td>
 <td align="center">
 <br/>La Courneuve <br/>
@@ -6191,7 +6655,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,168 <br/>
+<br/>0,163 <br/>
 </td>
 </tr>
 <tr>
@@ -6208,7 +6672,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,206 <br/>
+<br/>0,212 <br/>
 </td>
 </tr>
 <tr>
@@ -6225,7 +6689,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,143 <br/>
+<br/>0,111 <br/>
 </td>
 </tr>
 <tr>
@@ -6242,7 +6706,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,216 <br/>
+<br/>0,220 <br/>
 </td>
 </tr>
 <tr>
@@ -6259,7 +6723,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,217 <br/>
+<br/>0,199 <br/>
 </td>
 </tr>
 <tr>
@@ -6276,7 +6740,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,205 <br/>
+<br/>0,296 <br/>
 </td>
 </tr>
 <tr>
@@ -6293,7 +6757,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,025 <br/>
+<br/>0,038 <br/>
 </td>
 </tr>
 <tr>
@@ -6310,7 +6774,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,056 <br/>
+<br/>0,035 <br/>
 </td>
 </tr>
 <tr>
@@ -6327,7 +6791,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,085 <br/>
+<br/>0,094 <br/>
 </td>
 </tr>
 <tr>
@@ -6335,16 +6799,16 @@
 <br/>94 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Maisons-Alfort <br/>
+<br/>Réseau de Maison-Alfort <br/>
 </td>
 <td align="center">
-<br/>Maisons-Alfort <br/>
+<br/>Maison-Alfort <br/>
 </td>
 <td align="center">
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,100 <br/>
+<br/>0,203 <br/>
 </td>
 </tr>
 <tr>
@@ -6361,7 +6825,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,047 <br/>
+<br/>0,038 <br/>
 </td>
 </tr>
 <tr>
@@ -6378,7 +6842,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,084 <br/>
+<br/>0,056 <br/>
 </td>
 </tr>
 <tr>
@@ -6386,7 +6850,7 @@
 <br/>94 <br/>
 </td>
 <td align="center">
-<br/>Réseau de Chevilly-Larue et L'Hay ¨-les-Roses <br/>
+<br/>Réseau de Chevilly-Larue et l'Hay ¨-les-Roses <br/>
 </td>
 <td align="center">
 <br/>L'Hay ¨-les-Roses <br/>
@@ -6395,7 +6859,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,095 <br/>
+<br/>0,092 <br/>
 </td>
 </tr>
 <tr>
@@ -6412,7 +6876,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,157 <br/>
+<br/>0,071 <br/>
 </td>
 </tr>
 <tr>
@@ -6429,7 +6893,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,056 <br/>
+<br/>0,031 <br/>
 </td>
 </tr>
 <tr>
@@ -6446,7 +6910,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,057 <br/>
+<br/>0,036 <br/>
 </td>
 </tr>
 <tr>
@@ -6463,7 +6927,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,235 <br/>
+<br/>0,176 <br/>
 </td>
 </tr>
 <tr>
@@ -6480,7 +6944,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,075 <br/>
+<br/>0,077 <br/>
 </td>
 </tr>
 <tr>
@@ -6497,7 +6961,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,201 <br/>
+<br/>0,143 <br/>
 </td>
 </tr>
 <tr>
@@ -6514,7 +6978,7 @@
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>0,009 <br/>
+<br/>0,010 <br/>
 </td>
 </tr>
 <tr>
@@ -6531,7 +6995,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,240 <br/>
+<br/>0,239 <br/>
 </td>
 </tr>
 <tr>
@@ -6539,7 +7003,7 @@
 <br/>95 <br/>
 </td>
 <td align="center">
-<br/>Grand Ensemble Sarcelles-Locheres <br/>
+<br/>Grand ensemble Sarcelles-Lochères <br/>
 </td>
 <td align="center">
 <br/>Sarcelles <br/>
@@ -6548,7 +7012,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,164 <br/>
+<br/>0,010 <br/>
 </td>
 </tr>
 <tr>
@@ -6565,7 +7029,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,201 <br/>
+<br/>0,168 <br/>
 </td>
 </tr>
 <tr>
@@ -6582,7 +7046,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,187 <br/>
+<br/>0,183 <br/>
 </td>
 </tr>
 <tr>
@@ -6599,7 +7063,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,231 <br/>
+<br/>0,235 <br/>
 </td>
 </tr>
 <tr>
@@ -6616,7 +7080,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,040 <br/>
+<br/>0,156 <br/>
 </td>
 </tr>
 <tr>
@@ -6633,7 +7097,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,211 <br/>
+<br/>0,182 <br/>
 </td>
 </tr>
 <tr>
@@ -6667,24 +7131,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,249 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>95 <br/>
-</td>
-<td align="center">
-<br/>Réseau de Villiers-le-Bel <br/>
-</td>
-<td align="center">
-<br/>Villiers-le-Bel <br/>
-</td>
-<td align="center">
-<br/>C <br/>
-</td>
-<td align="center">
-<br/>0,236 <br/>
+<br/>0,260 <br/>
 </td>
 </tr>
 <tr>
@@ -6701,7 +7148,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,142 <br/>
+<br/>0,156 <br/>
 </td>
 </tr>
 <tr>
@@ -6718,7 +7165,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,208 <br/>
+<br/>0,180 <br/>
 </td>
 </tr>
 <tr>
@@ -6735,7 +7182,7 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>0,249 <br/>
+<br/>0,231<br/>
 </td>
 </tr>
 </tbody>
