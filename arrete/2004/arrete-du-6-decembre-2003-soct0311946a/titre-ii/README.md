@@ -1,3 +1,0 @@
-# TITRE II : TRANSMISSION DES RÉSULTATS DE LA DOSIMÉTRIE.
-
-- [Article 6](article-6.md)
