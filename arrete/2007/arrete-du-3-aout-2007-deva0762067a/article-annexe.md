@@ -91,3 +91,11 @@ Marseille - New York (Etats-Unis).
 Jusqu'au 30 juin 2018 :
 
 Paris - Miami (Etats-Unis).
+
+Jusqu'au 31 juillet 2018 :
+
+Dans la limite de deux fréquences hebdomadaires au total sur les liaisons suivantes :
+
+Paris - Cap-Skirring (Sénégal) ;
+
+Paris - Saint-Louis (Sénégal).

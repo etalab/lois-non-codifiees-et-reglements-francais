@@ -103,3 +103,9 @@ Lille-Oujda (Maroc).
 Jusqu'au 31 juillet 2018 :
 
 Paris - Marrakech (Maroc).
+
+Dans la limite d'une fréquence hebdomadaire au total sur les liaisons suivantes :
+
+Lille - Dakar (Sénégal) ;
+
+Strasbourg - Dakar (Sénégal).
