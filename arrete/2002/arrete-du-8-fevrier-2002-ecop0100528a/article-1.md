@@ -14,4 +14,8 @@ Certains agents du ministère de l'économie, des finances et de l'industrie peu
 
 - assurer, de manière permanente, la mobilisation des moyens aériens ou maritimes pour toute mission urgente de surveillance, de sauvetage en mer, de lutte contre les pollutionsmaritimes, de défense maritime ou opérationnelle du territoire, la répression du trafic illicite des stupéfiants, d'armes, d'explosifs ;
 
-- répondre aux demandes d'intervention en urgence des juridictions administratives ou des autorités judiciaires.
+- répondre aux demandes d'intervention en urgence des juridictions administratives ou des autorités judiciaires ;
+
+- assurer le contrôle et l'exécution des opérations négociées par l'Agence France Trésor pendant certains jours fériés.
+
+Certains agents de l'Autorité de régulation des jeux en ligne peuvent être appelés à effectuer des astreintes à domicile ou à proximité et à intervenir, si nécessaire, pour assurer un contrôle permanent de l'activité des opérateurs de jeux ou de paris en ligne agréés.
