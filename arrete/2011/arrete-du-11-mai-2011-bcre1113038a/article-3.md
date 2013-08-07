@@ -1,6 +1,6 @@
 # Article 3
 
-Sur la base du rapport décrit à l'article 2, l'ordonnateur et le comptable peuvent signer une convention instaurant le contrôle allégé en partenariat des dépenses dont les procédures ont été auditées lorsqu'ils constatent que les mesures qu'ils ont prises assurent une maîtrise satisfaisante et durable des risques.
+Sur la base du rapport décrit à l'article 2 et conformément au IX de l'article 60 de la loi n° 63-156 du 23 février 1963 ainsi qu'au second alinéa de l'article 42 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, l'ordonnateur et le comptable peuvent signer une convention instaurant le contrôle allégé en partenariat des dépenses dont les procédures ont été auditées lorsqu'ils constatent que les mesures qu'ils ont prises assurent une maîtrise satisfaisante et durable des risques.
 
 Cette convention, visant le présent arrêté, indique notamment :
 
