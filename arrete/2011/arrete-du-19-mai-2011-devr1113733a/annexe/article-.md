@@ -30,7 +30,7 @@ Les modalités de contrôle du calcul de Ef sont précisées dans le contrat d'a
 
 III. - Calcul du tarif d'achat
 
-Exception faite du cas mentionné au IX, on note Pmax la puissance électrique maximale installée.
+Exception faite du cas mentionné au IX, on note P<sub>max</sub> la puissance électrique maximale installée.
 
 1° A l'exception des installations de stockage de déchets non dangereux, le tarif applicable à E<sub>élec</sub> est égal à T, défini ci-dessous, auquel peuvent s'ajouter les primes Pe et Pr dont les définitions sont données respectivement en IV et V de cette annexe.
 
@@ -38,19 +38,16 @@ Exception faite du cas mentionné au IX, on note Pmax la puissance électrique m
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Pmax</b>
+<p align="center">VALEUR<br clear="none"/>de P<sub>max</sub>
 </p>
 </td>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de T [c€/kWh]</b>
-</p>
+<p align="center">VALEUR<br clear="none"/>de T [c€/kWh]</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Pmax ≤ 150 kW</p>
+<p>P<sub>max</sub> ≤ 150 kW</p>
 </td>
 <td>
 <p align="center">13,37</p>
@@ -58,7 +55,7 @@ Exception faite du cas mentionné au IX, on note Pmax la puissance électrique m
 </tr>
 <tr>
 <td>
-<p>Pmax = 300 kW</p>
+<p>P<sub>max</sub> = 300 kW</p>
 </td>
 <td>
 <p align="center">12,67</p>
@@ -66,7 +63,7 @@ Exception faite du cas mentionné au IX, on note Pmax la puissance électrique m
 </tr>
 <tr>
 <td>
-<p>Pmax = 500 kW</p>
+<p>P<sub>max</sub> = 500 kW</p>
 </td>
 <td>
 <p align="center">12,18</p>
@@ -74,7 +71,7 @@ Exception faite du cas mentionné au IX, on note Pmax la puissance électrique m
 </tr>
 <tr>
 <td>
-<p>Pmax = 1 000 kW</p>
+<p>P<sub>max</sub> = 1 000 kW</p>
 </td>
 <td>
 <p align="center">11,68</p>
@@ -82,7 +79,7 @@ Exception faite du cas mentionné au IX, on note Pmax la puissance électrique m
 </tr>
 <tr>
 <td>
-<p>Pmax ≥ 2 000 kW</p>
+<p>P<sub>max</sub> ≥ 2 000 kW</p>
 </td>
 <td>
 <p align="center">11,19</p>
@@ -99,19 +96,16 @@ Les valeurs intermédiaires sont déterminées par interpolation linéaire.
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Pmax</b>
+<p align="center">VALEUR<br clear="none"/>de P<sub>max</sub>
 </p>
 </td>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de TISND [c€/kWh]</b>
-</p>
+<p align="center">VALEUR<br clear="none"/>de TISND [c€/kWh]</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Pmax ≤ 150 kW</p>
+<p align="center">P<sub>max</sub> ≤ 150 kW</p>
 </td>
 <td>
 <p align="center">9,745</p>
@@ -119,7 +113,7 @@ Les valeurs intermédiaires sont déterminées par interpolation linéaire.
 </tr>
 <tr>
 <td>
-<p align="center">Pmax ≥ 2 MW</p>
+<p align="center">P<sub>max</sub> ≥ 2 MW</p>
 </td>
 <td>
 <p align="center">8,121</p>
@@ -138,14 +132,10 @@ Pe est la prime à l'efficacité énergétique et est définie de la façon suiv
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de V</b>
-</p>
+<p align="center">VALEUR<br clear="none"/>de V</p>
 </td>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Pe [c€/kWh]</b>
-</p>
+<p align="center">VALEUR<br clear="none"/>de Pe [c€/kWh]</p>
 </td>
 </tr>
 <tr>
@@ -177,68 +167,80 @@ Pr est la prime pour le traitement d'effluents d'élevage dont la valeur maximal
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Pmax</b>
+<p align="center">VALEUR DE P<sub>max</sub>
 </p>
 </td>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Prmax [c€/kWh]</b>
+<p align="center">VALEUR DE Pr<sub>max</sub>
 </p>
+<p align="center">[c €/ kWh] </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">P<sub>max</sub> ≤ 150 kW</p>
+<td align="center">
+<br clear="none"/>P<sub>max</sub> ≤ 300 kW <br clear="none"/>
 </td>
-<td>
-<p align="center">2,6</p>
+<td align="center">
+<br clear="none"/>2,6 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">P<sub>max</sub> ≥ 1 000 kW</p>
+<td align="center">
+<br clear="none"/>P<sub>max</sub> = 500 kW <br clear="none"/>
 </td>
-<td>
-<p align="center">0</p>
+<td align="center">
+<br clear="none"/>2,1 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br clear="none"/>P<sub>max</sub> ≥ 1 000 kW <br clear="none"/>
+</td>
+<td align="center">
+<br clear="none"/>0 <br clear="none"/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Les valeurs intermédiaires de Pr<sub>max</sub> sont déterminées par interpolation linéaire.
-
-La valeur de Pr applicable à une installation est définie de la façon suivante :
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">.</div>
+<div align="left"/>
+<div align="left">Les valeurs intermédiaires de Pr<sub>max</sub> sont déterminées par interpolation linéaire. </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">La valeur de Pr applicable à une installation est définie de la façon suivante : </div>
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Ef</b>
-</p>
+<p align="center">VALEUR DE Ef </p>
 </td>
 <td>
-<p align="center">
-<b>VALEUR<br clear="none"/>de Pr [c€/kWh]</b>
+<p align="center">VALEUR DE Pr </p>
+<p align="center">[c €/ kWh] <br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">≤ 20 %</p>
+<td align="center">
+<br clear="none"/>≤ 20 % <br clear="none"/>
 </td>
-<td>
-<p align="center">0</p>
+<td align="center">
+<br clear="none"/>0 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">≥ 60 %</p>
+<td align="center">
+<br clear="none"/>≥ 60 % <br clear="none"/>
 </td>
-<td>
-<p align="center">Pr<sub>max</sub>
-</p>
+<td align="center">
+<br clear="none"/>Pr<sub>max</sub>
+<br clear="none"/>
 </td>
 </tr>
 </tbody>
@@ -264,7 +266,7 @@ T et T<sub>ISDND</sub> sont majorés de 10 % pour les installations situées dan
 
 IX. - Installations de valorisation mixte du biogaz par injection de biométhane dans les réseaux de gaz naturel et production d'électricité
 
-Pour les installations bénéficiant également d'un contrat souscrit en application de l'article L. 446-2 du code de l'énergie, Pmax est défini comme suit :
+Pour les installations bénéficiant également d'un contrat souscrit en application de l'article L. 446-2 du code de l'énergie, P<sub>max</sub> est défini comme suit :
 
 Vous pouvez consulter la formule dans le JO
 
@@ -284,4 +286,4 @@ où :
 
 5° PCSbiométhane représente le pouvoir calorifique supérieur du biométhane injecté par l'installation, exprimé en kWh/Nm³. Pour les installations situées en zone H, la valeur de PCSbiométhane est fixée à 10,8 kWh/Nm³. Pour les installations situées en zone B, la valeur de PCSbiométhane est fixée à 10 kWh/Nm³ ;
 
-Pour le calcul de Pmax, le producteur communique à l'acheteur l'ensemble des pièces justificatives nécessaires prévues par le contrat d'achat et s'engage à informer l'acheteur des évolutions de son installation d'injection.
+Pour le calcul de P<sub>max</sub>, le producteur communique à l'acheteur l'ensemble des pièces justificatives nécessaires prévues par le contrat d'achat et s'engage à informer l'acheteur des évolutions de son installation d'injection.

@@ -32,11 +32,15 @@ d) Marquage des bovins présents dans une exploitation à risques ou originaires
 
 Pour les déplacements afférents aux visites et actes mentionnés aux paragraphes 1 et 2 ci-dessus du présent article, les vétérinaires mandatés sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires mandatés pour les opérations de police sanitaire ;
 
-3. Lors de la surveillance épidémiologique de l'ESB sur les bovins morts âgés de vingt-quatre mois et plus :
+3. Lors de la surveillance épidémiologique de l'ESB sur les bovins morts :
+
+- âgés de quarante-huit mois et plus pour les bovins nés dans l'un des Etats membres et territoires mentionnés à l'annexe de la décision 2009/719/CE ;
+
+- âgés de vingt-quatre mois et plus pour les bovins qui ne sont pas nés dans l'un des Etats membres et territoires mentionnés à l'annexe de la décision 2009/719/CE,
 
 a) et b) (paragraphes supprimés) ;
 
-c) Pour le prélèvement de système nerveux central, une fois le            montant de l'acte médical vétérinaire. Ce tarif s'entend hors matériel à usage unique spécifiquement nécessaire au prélèvement.
+c) Pour le prélèvement de système nerveux central, une fois le montant de l'acte médical vétérinaire. Ce tarif s'entend hors matériel à usage unique spécifiquement nécessaire au prélèvement.
 
 Ces montants sont fixés hors taxe et comprennent les déplacements.
 
