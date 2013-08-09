@@ -4,6 +4,6 @@ Pour se voir délivrer le brevet de second mécanicien limité à 8 000 kW ou le
 
 ― formation à l'enseignement médical de niveau II (EM II) conformément à l'arrêté du 2 juillet 1999 susvisé ;
 
-― certificat de qualification avancée à la lutte contre l'incendie délivré conformément à l'arrêté du 5 juillet 1999 susvisé ;
+― certificat de qualification avancée à la lutte contre l'incendie délivré conformément à l'arrêté du 26 juillet 2013 susvisé ;
 
-― brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage délivré conformément à l'arrêté du 2 juillet 1999 susvisé.
+― brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage délivré conformément à l'arrêté du 26 juillet 2013.

@@ -14,8 +14,8 @@ Le brevet de chef de quart passerelle est délivré aux candidats qui satisfont 
 
 ― certificat général d'opérateur (CGO) délivré conformément à l'arrêté du 15 juillet 1999 susvisé ;
 
-― brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage délivré conformément à l'arrêté du 2 juillet 1999 susvisé ;
+― brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage délivré conformément à l'arrêté du 26 juillet 2013 ;
 
-― certificat de qualification avancée à la lutte contre l'incendie délivré conformément à l'arrêté du 5 juillet 1999 susvisé ;
+― certificat de qualification avancée à la lutte contre l'incendie délivré conformément à l'arrêté du 26 juillet 2013 susvisé ;
 
 ― certificat d'aptitude aux fonctions d'agent de sûreté du navire obtenu conformément aux dispositions de l'arrêté du 26 juin 2008 susvisé.
