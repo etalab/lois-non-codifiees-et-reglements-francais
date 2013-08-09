@@ -335,7 +335,6 @@
 - [Arrêté du 12 février 2003 (MENS0300305A)](arrete-du-12-fevrier-2003-mens0300305a)
 - [Arrêté du 12 février 2003 (SANH0320470A)](arrete-du-12-fevrier-2003-sanh0320470a)
 - [Arrêté du 12 juin 2003 (EQUZ0300295A)](arrete-du-12-juin-2003-equz0300295a)
-- [Arrêté du 12 juin 2003 (SANS0322113A)](arrete-du-12-juin-2003-sans0322113a)
 - [Arrêté du 12 mars 2003 (AGRG0300582A)](arrete-du-12-mars-2003-agrg0300582a)
 - [Arrêté du 12 mars 2003 (DEVP0320122A)](arrete-du-12-mars-2003-devp0320122a)
 - [Arrêté du 12 mars 2003 (MCCB0300044A)](arrete-du-12-mars-2003-mccb0300044a)
