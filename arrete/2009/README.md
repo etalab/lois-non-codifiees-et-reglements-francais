@@ -175,7 +175,6 @@
 - [Arrêté du 4 avril 2009 (IOCB0906059A)](arrete-du-4-avril-2009-iocb0906059a)
 - [Arrêté du 4 décembre 2008 (ECEC0827128A)](arrete-du-4-decembre-2008-ecec0827128a)
 - [Arrêté du 4 décembre 2008 (ECET0827168A)](arrete-du-4-decembre-2008-ecet0827168a)
-- [Arrêté du 4 décembre 2008 (ECET0828180A)](arrete-du-4-decembre-2008-ecet0828180a)
 - [Arrêté du 4 décembre 2009 (BCFF0922544A)](arrete-du-4-decembre-2009-bcff0922544a)
 - [Arrêté du 4 décembre 2009 (DEVA0929342A)](arrete-du-4-decembre-2009-deva0929342a)
 - [Arrêté du 4 décembre 2009 (DEVN0926793A)](arrete-du-4-decembre-2009-devn0926793a)
