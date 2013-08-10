@@ -116,6 +116,8 @@ Notamment :
 
 - methédrone ou PMMC ou 4-méthoxymethcathinone ou bk-PMMA ou 1-(4-méthoxyphényl)-2-(méthylamino) propan-1-one ;
 
+- méthoxétamine ;
+
 - 4-méthylbuphédrone ou 4-Me-MABP ou bk-N-méthyl-4-MAB ou 2-(méthylamino)-1-(4-méthylphényl) butan-1-one ;
 
 - méthylone ou MDMCAT ou bk-MDMA ou 2-méthylamino-1-[3,4-méthylènedioxyphényl] propan-1-one ;
