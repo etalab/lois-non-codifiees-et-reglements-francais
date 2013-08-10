@@ -1713,7 +1713,6 @@
 - [Arrêté du 20 juin 2011 (ETSP1116751A)](arrete-du-20-juin-2011-etsp1116751a)
 - [Arrêté du 20 juin 2011 (ETSR1118449A)](arrete-du-20-juin-2011-etsr1118449a)
 - [Arrêté du 20 juin 2011 (IOCC1115245A)](arrete-du-20-juin-2011-iocc1115245a)
-- [Arrêté du 20 juin 2011 (IOCE1117758A)](arrete-du-20-juin-2011-ioce1117758a)
 - [Arrêté du 20 juin 2011 (JUSA1113303A)](arrete-du-20-juin-2011-jusa1113303a)
 - [Arrêté du 20 juin 2011 (JUSF1117187A)](arrete-du-20-juin-2011-jusf1117187a)
 - [Arrêté du 20 juin 2011 (JUSF1117194A)](arrete-du-20-juin-2011-jusf1117194a)

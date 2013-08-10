@@ -33,6 +33,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
+<td>Directeur des ressources humaines à Mines Paris Tech. (Ajouté le 14 juin 2013) </td>
+</tr>
+<tr>
+<td>Chef du bureau de la qualité écologique des produits à la direction générale de la prévention des risques. (Ajouté le 1er septembre 2013) </td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Chef du service interventions sectorielles de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Alsace.<br/>
 </p>
@@ -291,8 +297,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
+<td>Chargé de mission à la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie. (Ajouté le 1er octobre 2013) </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p align="left">Chef du service prévention des risques de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne.<br/>
+<p align="left">Chef du service prévention des risques de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne. (Supprimé le 1er juillet 2013)<br/>
 </p>
 </td>
 </tr>
@@ -379,8 +388,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de projet certification et chargé de mission défense et sécurité à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie.<br/>
-</p>
+<p align="left">Chef de projet certification et chargé de mission défense et sécurité à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie. (Supprimé le 1er octobre 2013)</p>
 </td>
 </tr>
 <tr>
@@ -601,8 +609,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin. (Ajouté le 1er février 2013)</p>
+<td>Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er septembre 2013) <br/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin. (Ajouté le 1er février 2013)</p>
 </td>
 </tr>
 <tr>

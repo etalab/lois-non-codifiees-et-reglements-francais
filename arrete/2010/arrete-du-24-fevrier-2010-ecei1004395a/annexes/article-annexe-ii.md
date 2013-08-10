@@ -102,12 +102,14 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <br/>
 </p>
 </td>
-<td/>
+<td align="center">NUM<font size="1">ÉRO CAS<br/>
+</font>
+</td>
 </tr>
 <tr>
 <td align="center">(1) <br/>
 </td>
-<td align="center">Huile de racine d'aunée (Inula helenium) <br/>
+<td align="left">Huile de racine d'aunée (Inula helenium) <br/>
 </td>
 <td align="center">97976-35-2 <br/>
 </td>
@@ -115,7 +117,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(2) <br/>
 </td>
-<td align="center">Allylisothiocyanate <br/>
+<td align="left">Allylisothiocyanate <br/>
 </td>
 <td align="center">57-06-7 <br/>
 </td>
@@ -123,7 +125,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(3) <br/>
 </td>
-<td align="center">Cyanure de benzyle <br/>
+<td align="left">Cyanure de benzyle <br/>
 </td>
 <td align="center">140-29-4 <br/>
 </td>
@@ -131,7 +133,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(4) <br/>
 </td>
-<td align="center">4 tert-butylphénol <br/>
+<td align="left">4 tert-butylphénol <br/>
 </td>
 <td align="center">98-54-4 <br/>
 </td>
@@ -139,7 +141,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(5) <br/>
 </td>
-<td align="center">Huile de chénopode <br/>
+<td align="left">Huile de chénopode <br/>
 </td>
 <td align="center">8006-99-3 <br/>
 </td>
@@ -147,7 +149,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(6) <br/>
 </td>
-<td align="center">Alcool de cyclamen <br/>
+<td align="left">Alcool de cyclamen <br/>
 </td>
 <td align="center">4756-19-8 <br/>
 </td>
@@ -155,7 +157,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(7) <br/>
 </td>
-<td align="center">Maléate diéthylique <br/>
+<td align="left">Maléate diéthylique <br/>
 </td>
 <td align="center">141-05-9 <br/>
 </td>
@@ -163,7 +165,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(8) <br/>
 </td>
-<td align="center">Dihydrocoumarine <br/>
+<td align="left">Dihydrocoumarine <br/>
 </td>
 <td align="center">119-84-6 <br/>
 </td>
@@ -171,7 +173,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(9) <br/>
 </td>
-<td align="center">2, 4-dihydroxy-3-methylbenzaldéhyde <br/>
+<td align="left">2, 4-dihydroxy-3-methylbenzaldéhyde <br/>
 </td>
 <td align="center">6248-20-0 <br/>
 </td>
@@ -179,7 +181,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(10) <br/>
 </td>
-<td align="center">3, 7-diméthyle-2-octen-1-ol (6, 7-dihydrogéraniol) <br/>
+<td align="left">3, 7-diméthyle-2-octen-1-ol (6, 7-dihydrogéraniol) <br/>
 </td>
 <td align="center">40607-48-5 <br/>
 </td>
@@ -187,7 +189,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(11) <br/>
 </td>
-<td align="center">4, 6-diméthyle-8-tert-butylcoumarine <br/>
+<td align="left">4, 6-diméthyle-8-tert-butylcoumarine <br/>
 </td>
 <td align="center">17874-34-9 <br/>
 </td>
@@ -195,7 +197,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(12) <br/>
 </td>
-<td align="center">Citraconate de diméthyle <br/>
+<td align="left">Citraconate de diméthyle <br/>
 </td>
 <td align="center">617-54-9 <br/>
 </td>
@@ -203,7 +205,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(13) <br/>
 </td>
-<td align="center">7, 11-diméthyle-4, 6, 10-dodécatrien-3-one <br/>
+<td align="left">7, 11-diméthyle-4, 6, 10-dodécatrien-3-one <br/>
 </td>
 <td align="center">26651-96-7 <br/>
 </td>
@@ -211,7 +213,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(14) <br/>
 </td>
-<td align="center">6, 10-diméthyle-3, 5, 9-undécatrien-2-one <br/>
+<td align="left">6, 10-diméthyle-3, 5, 9-undécatrien-2-one <br/>
 </td>
 <td align="center">141-10-6 <br/>
 </td>
@@ -219,7 +221,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(15) <br/>
 </td>
-<td align="center">Diphénylamine <br/>
+<td align="left">Diphénylamine <br/>
 </td>
 <td align="center">122-39-4 <br/>
 </td>
@@ -227,7 +229,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(16) <br/>
 </td>
-<td align="center">Acrylate d'éthyle <br/>
+<td align="left">Acrylate d'éthyle <br/>
 </td>
 <td align="center">140-88-5 <br/>
 </td>
@@ -235,7 +237,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(17) <br/>
 </td>
-<td align="center">Feuille de figuier, fraîche et préparations <br/>
+<td align="left">Feuille de figuier, fraîche et préparations <br/>
 </td>
 <td align="center">68916-52-9 <br/>
 </td>
@@ -243,7 +245,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(18) <br/>
 </td>
-<td align="center">trans-2-Hepténal <br/>
+<td align="left">trans-2-Hepténal <br/>
 </td>
 <td align="center">18829-55-5 <br/>
 </td>
@@ -251,7 +253,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(19) <br/>
 </td>
-<td align="center">trans-2-Hexénal diéthyle acétal <br/>
+<td align="left">trans-2-Hexénal diéthyle acétal <br/>
 </td>
 <td align="center">67746-30-9 <br/>
 </td>
@@ -259,7 +261,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(20) <br/>
 </td>
-<td align="center">trans-2-Hexénal dimethyle acétal <br/>
+<td align="left">trans-2-Hexénal dimethyle acétal <br/>
 </td>
 <td align="center">18318-83-7 <br/>
 </td>
@@ -267,7 +269,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(21) <br/>
 </td>
-<td align="center">Alcool hydroabiétylique <br/>
+<td align="left">Alcool hydroabiétylique <br/>
 </td>
 <td align="center">13393-93-6 <br/>
 </td>
@@ -275,7 +277,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(22) <br/>
 </td>
-<td align="center">4-éthoxy-phénol <br/>
+<td align="left">4-éthoxy-phénol <br/>
 </td>
 <td align="center">622-62-8 <br/>
 </td>
@@ -283,7 +285,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(23) <br/>
 </td>
-<td align="center">6-décahydro-6-isopropyl-2-naphtol <br/>
+<td align="left">6-décahydro-6-isopropyl-2-naphtol <br/>
 </td>
 <td align="center">34131-99-2 <br/>
 </td>
@@ -291,7 +293,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(24) <br/>
 </td>
-<td align="center">7-méthoxycoumarine <br/>
+<td align="left">7-méthoxycoumarine <br/>
 </td>
 <td align="center">531-59-9 <br/>
 </td>
@@ -299,7 +301,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(25) <br/>
 </td>
-<td align="center">4-méthoxyphénol <br/>
+<td align="left">4-méthoxyphénol <br/>
 </td>
 <td align="center">150-76-5 <br/>
 </td>
@@ -307,7 +309,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(26) <br/>
 </td>
-<td align="center">4-(3-méthoxyphényl)-3-butane-2-one <br/>
+<td align="left">4-(3-méthoxyphényl)-3-butane-2-one <br/>
 </td>
 <td align="center">943-88-4 <br/>
 </td>
@@ -315,7 +317,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(27) <br/>
 </td>
-<td align="center">1-(p-méthoxyphényl)-1-pentène-3-one <br/>
+<td align="left">1-(p-méthoxyphényl)-1-pentène-3-one <br/>
 </td>
 <td align="center">104-27-8 <br/>
 </td>
@@ -323,7 +325,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(28) <br/>
 </td>
-<td align="center">Méthyl trans-2-buténoate <br/>
+<td align="left">Méthyl trans-2-buténoate <br/>
 </td>
 <td align="center">623-43-8 <br/>
 </td>
@@ -331,7 +333,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(29) <br/>
 </td>
-<td align="center">Méthyl-6-coumarine <br/>
+<td align="left">Méthyl-6-coumarine <br/>
 </td>
 <td align="center">92-48-8 <br/>
 </td>
@@ -339,7 +341,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(30) <br/>
 </td>
-<td align="center">Méthyl-7-coumarine <br/>
+<td align="left">Méthyl-7-coumarine <br/>
 </td>
 <td align="center">2445-83-2 <br/>
 </td>
@@ -347,7 +349,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(31) <br/>
 </td>
-<td align="center">Méthyl-5-2, 3-hexanédione <br/>
+<td align="left">Méthyl-5-2, 3-hexanédione <br/>
 </td>
 <td align="center">13706-86-0 <br/>
 </td>
@@ -355,7 +357,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(32) <br/>
 </td>
-<td align="center">Huile de racine de costus (Saussurea lappa Clarke) <br/>
+<td align="left">Huile de racine de costus (Saussurea lappa Clarke) <br/>
 </td>
 <td align="center">8023-88-9 <br/>
 </td>
@@ -363,7 +365,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(33) <br/>
 </td>
-<td align="center">7-éthoxy-4-méthylcoumarine <br/>
+<td align="left">7-éthoxy-4-méthylcoumarine <br/>
 </td>
 <td align="center">87-05-8 <br/>
 </td>
@@ -371,7 +373,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(34) <br/>
 </td>
-<td align="center">Hexahydrocoumarine <br/>
+<td align="left">Hexahydrocoumarine <br/>
 </td>
 <td align="center">700-82-3 <br/>
 </td>
@@ -379,7 +381,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(35) <br/>
 </td>
-<td align="center">Baume du Pérou, brut (Exsudation de Myroxylon Pereirae Klotzsch) <br/>
+<td align="left">Baume du Pérou, brut (Exsudation de Myroxylon Pereirae Klotzsch) <br/>
 </td>
 <td align="center">8007-00-9 <br/>
 </td>
@@ -387,7 +389,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(36) <br/>
 </td>
-<td align="center">2-pentylidène-cyclohexanone <br/>
+<td align="left">2-pentylidène-cyclohexanone <br/>
 </td>
 <td align="center">25677-40-1 <br/>
 </td>
@@ -395,7 +397,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(37) <br/>
 </td>
-<td align="center">3, 6, 10-triméthyl-3, 5, 9-undécatrien-2-one <br/>
+<td align="left">3, 6, 10-triméthyl-3, 5, 9-undécatrien-2-one <br/>
 </td>
 <td align="center">1117-41-5 <br/>
 </td>
@@ -403,7 +405,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(38) <br/>
 </td>
-<td align="center">Huile de verbena (Lippia citriodora Kunth) <br/>
+<td align="left">Huile de verbena (Lippia citriodora Kunth) <br/>
 </td>
 <td align="center">8024-12-2 <br/>
 </td>
@@ -411,7 +413,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(39) <br/>
 </td>
-<td align="center">Musk ambrette (4-ter-butyl-3-méthoxy-2, 6-dinitro-toluène) <br/>
+<td align="left">Musk ambrette (4-ter-butyl-3-méthoxy-2, 6-dinitro-toluène) <br/>
 </td>
 <td align="center">83-66-9 <br/>
 </td>
@@ -419,7 +421,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(40) <br/>
 </td>
-<td align="center">4-phényl-3-buten-2-one <br/>
+<td align="left">4-phényl-3-buten-2-one <br/>
 </td>
 <td align="center">122-57-6 <br/>
 </td>
@@ -427,7 +429,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(41) <br/>
 </td>
-<td align="center">Amyl cinnamal <br/>
+<td align="left">Amyl cinnamal <br/>
 </td>
 <td align="center">122-40-7 <br/>
 </td>
@@ -435,7 +437,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(42) <br/>
 </td>
-<td align="center">Amylcinnamyl alcool <br/>
+<td align="left">Amylcinnamyl alcool <br/>
 </td>
 <td align="center">101-85-9 <br/>
 </td>
@@ -443,7 +445,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(43) <br/>
 </td>
-<td align="center">Alcool de benzyle <br/>
+<td align="left">Alcool de benzyle <br/>
 </td>
 <td align="center">100-51-6 <br/>
 </td>
@@ -451,7 +453,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(44) <br/>
 </td>
-<td align="center">Salicylate de benzyle <br/>
+<td align="left">Salicylate de benzyle <br/>
 </td>
 <td align="center">118-58-1 <br/>
 </td>
@@ -459,7 +461,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(45) <br/>
 </td>
-<td align="center">Cinnamyl alcool <br/>
+<td align="left">Cinnamyl alcool <br/>
 </td>
 <td align="center">104-54-1 <br/>
 </td>
@@ -467,7 +469,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(46) <br/>
 </td>
-<td align="center">Cinnamal <br/>
+<td align="left">Cinnamal <br/>
 </td>
 <td align="center">104-55-2 <br/>
 </td>
@@ -475,7 +477,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(47) <br/>
 </td>
-<td align="center">Citral <br/>
+<td align="left">Citral <br/>
 </td>
 <td align="center">5392-40-5 <br/>
 </td>
@@ -483,7 +485,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(48) <br/>
 </td>
-<td align="center">Coumarine <br/>
+<td align="left">Coumarine <br/>
 </td>
 <td align="center">91-64-5 <br/>
 </td>
@@ -491,7 +493,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(49) <br/>
 </td>
-<td align="center">Eugénol <br/>
+<td align="left">Eugénol <br/>
 </td>
 <td align="center">97-53-0 <br/>
 </td>
@@ -499,7 +501,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(50) <br/>
 </td>
-<td align="center">Géraniol <br/>
+<td align="left">Géraniol <br/>
 </td>
 <td align="center">106-24-1 <br/>
 </td>
@@ -507,7 +509,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(51) <br/>
 </td>
-<td align="center">Hydroxy-citronellal <br/>
+<td align="left">Hydroxy-citronellal <br/>
 </td>
 <td align="center">107-75-5 <br/>
 </td>
@@ -515,7 +517,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(52) <br/>
 </td>
-<td align="center">Hydroxy-méthylpentylcyclohexènecarboxaldéhyde <br/>
+<td align="left">Hydroxy-méthylpentylcyclohexènecarboxaldéhyde <br/>
 </td>
 <td align="center">31906-04-4 <br/>
 </td>
@@ -523,7 +525,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(53) <br/>
 </td>
-<td align="center">Isoeugénol <br/>
+<td align="left">Isoeugénol <br/>
 </td>
 <td align="center">97-54-1 <br/>
 </td>
@@ -531,7 +533,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(54) <br/>
 </td>
-<td align="center">Extraits de mousse de chêne <br/>
+<td align="left">Extraits de mousse de chêne <br/>
 </td>
 <td align="center">90028-68-5 <br/>
 </td>
@@ -539,7 +541,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 <tr>
 <td align="center">(55) <br/>
 </td>
-<td align="center">Extraits de mousse d'arbre <br/>
+<td align="left">Extraits de mousse d'arbre <br/>
 </td>
 <td align="center">90028-67-4 <br/>
 </td>
@@ -549,7 +551,7 @@ V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouet
 
 Toutefois, la présence de traces de ces substances parfumantes est tolérée à condition qu'elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu'elle ne dépasse pas 100 mg/kg.
 
-2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg / kg du jouet ou des composantes de celui-ci.
+2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg/kg du jouet ou des composantes de celui-ci.
 
 <table>
 <tbody>
@@ -572,7 +574,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(1) <br/>
 </td>
-<td align="center">Alcool anisique <br/>
+<td align="left">Alcool anisique <br/>
 </td>
 <td align="center">105-13-5 <br/>
 </td>
@@ -580,7 +582,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(2) <br/>
 </td>
-<td align="center">Benzoate de benzyle <br/>
+<td align="left">Benzoate de benzyle <br/>
 </td>
 <td align="center">120-51-4 <br/>
 </td>
@@ -588,7 +590,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(3) <br/>
 </td>
-<td align="center">Cinnamate de benzyle <br/>
+<td align="left">Cinnamate de benzyle <br/>
 </td>
 <td align="center">103-41-3 <br/>
 </td>
@@ -596,7 +598,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(4) <br/>
 </td>
-<td align="center">Citronellol <br/>
+<td align="left">Citronellol <br/>
 </td>
 <td align="center">106-22-9 <br/>
 </td>
@@ -604,7 +606,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(5) <br/>
 </td>
-<td align="center">Farnesol <br/>
+<td align="left">Farnesol <br/>
 </td>
 <td align="center">4602-84-0 <br/>
 </td>
@@ -612,7 +614,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(6) <br/>
 </td>
-<td align="center">Hexylcinnamaldéhyde <br/>
+<td align="left">Hexylcinnamaldéhyde <br/>
 </td>
 <td align="center">101-86-0 <br/>
 </td>
@@ -620,7 +622,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(7) <br/>
 </td>
-<td align="center">Lilial <br/>
+<td align="left">Lilial <br/>
 </td>
 <td align="center">80-54-6 <br/>
 </td>
@@ -628,7 +630,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(8) <br/>
 </td>
-<td align="center">d-Limonene <br/>
+<td align="left">d-Limonene <br/>
 </td>
 <td align="center">5989-27-5 <br/>
 </td>
@@ -636,7 +638,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(9) <br/>
 </td>
-<td align="center">Linalol <br/>
+<td align="left">Linalol <br/>
 </td>
 <td align="center">78-70-6 <br/>
 </td>
@@ -644,7 +646,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(10) <br/>
 </td>
-<td align="center">Méthyl heptine carbonate <br/>
+<td align="left">Méthyl heptine carbonate <br/>
 </td>
 <td align="center">111-12-6 <br/>
 </td>
@@ -652,7 +654,7 @@ Toutefois, la présence de traces de ces substances parfumantes est tolérée à
 <tr>
 <td align="center">(11) <br/>
 </td>
-<td align="center">3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one <br/>
+<td align="left">3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one <br/>
 </td>
 <td align="center">127-51-5 <br/>
 </td>
@@ -708,7 +710,7 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Aluminium <br/>
+<td align="left">Aluminium <br/>
 </td>
 <td align="center">5 625 <br/>
 </td>
@@ -718,37 +720,37 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Antimoine <br/>
+<td align="left">Antimoine <br/>
 </td>
 <td align="center">45 <br/>
 </td>
-<td align="center">11, 3 <br/>
+<td align="center">11,3 <br/>
 </td>
 <td align="center">560 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Arsenic <br/>
+<td align="left">Arsenic <br/>
 </td>
-<td align="center">3, 8 <br/>
+<td align="center">3,8 <br/>
 </td>
-<td align="center">0, 9 <br/>
+<td align="center">0,9 <br/>
 </td>
 <td align="center">47 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Baryum <br/>
+<td align="left">Baryum <br/>
 </td>
-<td align="center">4 500 <br/>
+<td align="center">1 500 <br/>
 </td>
-<td align="center">1 125 <br/>
+<td align="center">375<br/>
 </td>
-<td align="center">56 000 <br/>
+<td align="center">18 750<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Bore <br/>
+<td align="left">Bore <br/>
 </td>
 <td align="center">1 200 <br/>
 </td>
@@ -758,48 +760,48 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Cadmium <br/>
+<td align="left">Cadmium <br/>
 </td>
-<td align="center">1, 3<br/>
+<td align="center">1,3<br/>
 </td>
-<td align="center">0, 3<br/>
+<td align="center">0,3<br/>
 </td>
 <td align="center">17</td>
 </tr>
 <tr>
-<td align="center">Chrome (III) <br/>
+<td align="left">Chrome (III) <br/>
 </td>
-<td align="center">37, 5 <br/>
+<td align="center">37,5 <br/>
 </td>
-<td align="center">9, 4 <br/>
+<td align="center">9,4 <br/>
 </td>
 <td align="center">460 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Chrome (VI) <br/>
+<td align="left">Chrome (VI) <br/>
 </td>
-<td align="center">0, 02 <br/>
+<td align="center">0,02 <br/>
 </td>
-<td align="center">0, 005 <br/>
+<td align="center">0,005 <br/>
 </td>
-<td align="center">0, 2 <br/>
+<td align="center">0,2 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Cobalt <br/>
+<td align="left">Cobalt <br/>
 </td>
-<td align="center">10, 5 <br/>
+<td align="center">10,5 <br/>
 </td>
-<td align="center">2, 6 <br/>
+<td align="center">2,6 <br/>
 </td>
 <td align="center">130 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Cuivre <br/>
+<td align="left">Cuivre <br/>
 </td>
-<td align="center">622, 5 <br/>
+<td align="center">622,5 <br/>
 </td>
 <td align="center">156 <br/>
 </td>
@@ -807,17 +809,17 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Plomb <br/>
+<td align="left">Plomb <br/>
 </td>
-<td align="center">13, 5 <br/>
+<td align="center">13,5 <br/>
 </td>
-<td align="center">3, 4 <br/>
+<td align="center">3,4 <br/>
 </td>
 <td align="center">160 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Manganèse <br/>
+<td align="left">Manganèse <br/>
 </td>
 <td align="center">1 200 <br/>
 </td>
@@ -827,37 +829,37 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Mercure <br/>
+<td align="left">Mercure <br/>
 </td>
-<td align="center">7, 5 <br/>
+<td align="center">7,5 <br/>
 </td>
-<td align="center">1, 9 <br/>
+<td align="center">1,9 <br/>
 </td>
 <td align="center">94 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Nickel <br/>
+<td align="left">Nickel <br/>
 </td>
 <td align="center">75 <br/>
 </td>
-<td align="center">18, 8 <br/>
+<td align="center">18,8 <br/>
 </td>
 <td align="center">930 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Sélénium <br/>
+<td align="left">Sélénium <br/>
 </td>
-<td align="center">37, 5 <br/>
+<td align="center">37,5 <br/>
 </td>
-<td align="center">9, 4 <br/>
+<td align="center">9,4 <br/>
 </td>
 <td align="center">460 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Strontium <br/>
+<td align="left">Strontium <br/>
 </td>
 <td align="center">4 500 <br/>
 </td>
@@ -867,7 +869,7 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Etain <br/>
+<td align="left">Etain <br/>
 </td>
 <td align="center">15 000 <br/>
 </td>
@@ -877,17 +879,17 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 </td>
 </tr>
 <tr>
-<td align="center">Etain organique <br/>
+<td align="left">Etain organique <br/>
 </td>
-<td align="center">0, 9 <br/>
+<td align="center">0,9 <br/>
 </td>
-<td align="center">0, 2 <br/>
+<td align="center">0,2 <br/>
 </td>
 <td align="center">12 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Zinc <br/>
+<td align="left">Zinc <br/>
 </td>
 <td align="center">3 750 <br/>
 </td>
