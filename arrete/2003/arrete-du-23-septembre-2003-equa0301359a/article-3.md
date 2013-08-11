@@ -4,4 +4,4 @@ I. - Sur les liaisons auxquelles le règlement (CEE) n° 2408/92 du 23 juillet 1
 
 II. - La société est également autorisée, sous réserve du respect des dispositions des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services aériens réguliers de passagers, de courrier et de fret sur la ligne suivante :
 
-Nice-Monaco (jusqu'au 31 juillet 2008).
+Nice-Monaco (jusqu'au 31 juillet 2014).
