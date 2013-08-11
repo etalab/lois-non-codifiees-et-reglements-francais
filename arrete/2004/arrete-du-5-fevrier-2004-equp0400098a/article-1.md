@@ -2,29 +2,39 @@
 
 Pour l'application des dispositions des articles 1er et 3 du décret du 21 décembre 2001 susvisé, les postes définis ci-après ouvrent aux inspecteurs principaux des affaires maritimes qui les occupent ou viennent à les occuper la vocation à l'emploi de conseiller des affaires maritimes dans lequel ils peuvent être nommés, à concurrence des emplois inscrits au budget :
 
-I.-En services déconcentrés :
+I. - En services déconcentrés :
 
--directeur interrégional adjoint de la mer ;
+- adjoint au directeur d'une direction interrégionale de la mer, d'une direction départementale des territoires et de la mer, ou d'une direction de la mer ;
 
--directeur départemental ou interdépartemental des affaires maritimes ;
+- adjoint au directeur de la direction des territoires, de l'alimentation et de la mer ;
 
--directeur départemental ou interdépartemental délégué des affaires maritimes ;
+- chef des services des affaires maritimes de Polynésie française et de Nouvelle-Calédonie ;
 
--chef des services des affaires maritimes de Polynésie française et de Nouvelle-Calédonie ;
+- chef des centres de sécurité des navires de Marseille, du Havre, de Saint-Nazaire, de Dunkerque, de Rouen et de Bordeaux ;
 
--chef des centres de sécurité des navires de Marseille, du Havre, de Saint-Nazaire, de Dunkerque et de Lorient ;
+- chef d'un service important ou d'un service à enjeux particuliers dont l'importance le justifie au sein d'une direction interrégionale de la mer ;
 
--chef des services des moyens des services déconcentrés à la direction interrégionale de la mer de Haute-Normandie, de Bretagne, des Pays de la Loire, d'Aquitaine et de Provence-Alpes-Côte d'Azur ;
+- chef d'un service important ou d'un service à enjeux particuliers dont l'importance le justifie, dans le domaine des affaires maritimes, au sein d'une direction départementale des territoires et de la mer ou d'une direction de la mer ;
 
--directeur d'établissement secondaire d'enseignement maritime.
+- chargé de mission, chef de projet ou conseiller de haut niveau dans le domaine des affaires maritimes auprès d'un directeur d'une direction interrégionale de la mer d'une direction départementale des territoires et de la mer ou d'une direction de la mer ;
 
-II.-En administration centrale :
+- directeur d'établissement secondaire d'enseignement maritime ;
 
--chef de bureau dont l'importance le justifie ;
+- expert reconnu par une instance d'évaluation.
 
--chargé de mission ou de projet de haut niveau auprès d'un directeur d'administration centrale, d'un sous-directeur, d'un chef de service, ou en cabinet ministériel ;
+II. - En administration centrale et en établissement public :
 
--chef du centre de liquidation des prestations d'assurance maladie de la direction de l'Etablissement national des invalides de la marine de Saint-Malo.
+- chef de bureau dont l'importance le justifie ;
+
+- chargé de mission ou de projet de haut niveau auprès d'un directeur d'administration centrale, d'un sous-directeur, d'un chef de service ou en cabinet ministériel ;
+
+- chargé de sous-direction, adjoint à un chef de service, à un sous-directeur ou à un chargé de sous-direction ;
+
+- expert reconnu par une instance d'évaluation ;
+
+- chef de service fonctionnel, ou chef d'unité fonctionnelle ou territoriale importante de l'Etablissement national des invalides de la marine ;
+
+- adjoint au directeur ou directeur adjoint de l'Ecole nationale de la sécurité et de l'administration de la mer.
 
 III.-En représentation diplomatique :
 
