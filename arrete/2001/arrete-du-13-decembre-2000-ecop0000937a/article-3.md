@@ -4,7 +4,7 @@ Elle assure sur l'ensemble du territoire national, concurremment avec les servic
 
 a) L'assiette, le recouvrement et le contrôle de tous impôts, droits et taxes dus par ces personnes physiques ou morales, groupements de personnes de fait ou de droit ou entités, quelle qu'en soit la forme juridique et quel que soit le lieu de leur principal établissement, de leur direction effective, de leur siège social ou de leur domicile ;
 
-b) Le contrôle des systèmes de télétransmission des factures dans les conditions prévues aux articles 289 bis et 96 I de l'annexe III au code général des impôts ;
+b) Le contrôle des systèmes de télétransmission des factures et des procédures de signature électronique avancée dans les conditions prévues aux articles L. 80 FA du livre des procédures fiscales et R. 80 F-1 et suivants du même livre ;
 
 c) La recherche des renseignements nécessaires à l'assiette, au contrôle et au recouvrement des impôts, droits et taxes de toute nature ;
 
