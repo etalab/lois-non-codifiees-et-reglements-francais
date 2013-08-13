@@ -2,91 +2,89 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
+Intitulé
 
 Titre professionnel : agent (e) de propreté et d'hygiène.
 
 Niveau : V.
 
-Code NSF : 343 T (nettoyage de locaux, décontamination des locaux hospitaliers et industriels, assainissement urbain).
+Code NSF : 343 t-Nettoyage, assainissement, protection de l'environnement.
 
 Résumé du référentiel d'emploi
 
-L'agent (e) de propreté et d'hygiène (APH) assure la propreté et l'hygiène de locaux à usage professionnel, d'habitats collectifs ou éventuellement privatifs.
+L'agent (e) de propreté et d'hygiène travaille seul (e) ou en équipe sous la responsabilité d'un hiérarchique auquel il (elle) rend compte. Dans le respect des consignes, l'agent (e) de propreté et d'hygiène contribue au maintien en état de propreté et d'hygiène des locaux, au bien-être et au confort du client et/ ou de l'usager. Il (elle) met en œuvre les techniques et méthodes appropriées à tout type de prestation de nettoyage.
 
-Il (elle) réalise une prestation de service destinée à répondre aux besoins exprimés par un client donneur d'ordres-externe ou interne-et définis dans le cadre d'un cahier des charges.
+Tout au long de son service, l'agent (e) de propreté et d'hygiène respecte les règles d'hygiène et de sécurité, d'ergonomie et contribue au développement durable par la pratique d'éco-gestes. Dans le respect de sa fiche de poste, il (elle) prend connaissance du diagnostic de l'état des sols et des surfaces, choisit sa tenue de travail, prépare les produits et les matériels nécessaires en fonction de la méthode préconisée et manipule avec précaution les produits actifs et les matériels. Il (elle) organise son intervention en fonction du temps imparti et dans le souci de limiter la gêne occasionnée pour les usagers des lieux. Il (elle) réalise des prestations d'entretien courant manuel et des prestations d'entretien mécanisé ou de remise en état sur tout type de sols. Il (elle) peut réaliser le nettoyage manuel et le nettoyage mécanisé lors d'une même prestation.
 
-A partir des consignes de ce cahier des charges, l'APH organise sa prestation en respectant, pour chaque technique mise en œuvre, les modes opératoires dans chacune des étapes du chantier : préparation, réalisation, finition et rangement.
+Dans les locaux à risque de bio contamination, l'agent (e) se conforme strictement au protocole de nettoyage défini par le client. Il (elle) contrôle sa prestation en vérifiant l'atteinte du niveau de qualité exigé et il (elle) rend compte sur les documents de traçabilité.
 
-L'activité relative à l'entretien courant est constituée des tâches principales suivantes : le dépoussiérage des sols par balayage ou aspiration, le lavage des sols, le lavage des vitres à faible hauteur, la désinfection de certaines surfaces, l'entretien courant des sanitaires.
+Il (elle) maintient son matériel en état de propreté, en assure l'entretien courant et informe son responsable hiérarchique de l'état des stocks dans le cadre d'une procédure d'approvisionnement.
 
-L'activité relative à l'entretien mécanisé et / ou à la remise en état mécanisée des surfaces est constituée des tâches suivantes : lavage mécanisé des sols durs (passage de l'autolaveuse ou de la monobrosse), entretien des sols au moyen des techniques de lustrage, des méthodes spray, d'injection-extraction, remise en état des sols au moyen des techniques de décapage au mouillé ou à sec et du shampoing moquette.
+Il (elle) peut être amené (e) à ajuster ses tâches pour répondre à une demande ponctuelle d'un client. Il (elle) respecte la confidentialité des informations reçues et les conditions d'accès au site.
 
-Quel que soit le lieu d'intervention, l'APH respecte les règles de sécurité définies, tant dans l'organisation et la préparation du chantier que dans l'utilisation des produits et des matériels.
+Il (elle) transmet des informations en direct ou par écrit aux autres agents et peut être en contact avec d'autres intervenants externes.
 
-Pour des interventions dans des locaux risquant une bio-contamination (secteurs de l'agroalimentaire, médico-social ou hospitalier...), il (elle) se conforme strictement aux protocoles requis.
+Il (elle) exerce dans des milieux professionnels diversifiés, dans le cadre d'une prestation de nettoyage, externalisée ou non. Il (elle) peut intervenir seul (e) et/ ou en équipe sur plusieurs sites, parfois distants les uns des autres. L'agent (e) de propreté et d'hygiène porte obligatoirement un équipement de protection individuelle. Il (elle) manipule du matériel mécanisé. L'emploi exige une station debout prolongée avec parfois un rythme de travail soutenu. La prestation s'effectue généralement en dehors des horaires habituels de travail et d'utilisation des locaux, tôt le matin, mais également tard le soir ou durant la nuit.
 
-Il (elle) assure un suivi des stocks de produits et d'accessoires et transmet l'état des stocks à son responsable.
+Capacités attestées et descriptif des composantes de la certification
 
-Il (elle) maintient son matériel en état de propreté et en assure la maintenance de premier niveau.
+1. Réaliser une prestation de service d'entretien manuel adaptée aux locaux, aux surfaces et à leur utilisation
 
-Il (elle) contrôle ses prestations en vérifiant l'atteinte du niveau de qualité requis (autocontrôle).
+Réaliser l'entretien manuel des locaux à usage professionnel et/ ou privatif.
 
-Il (elle) informe son responsable de la réalisation de sa prestation et des difficultés ou des incidents rencontrés.
+Réaliser l'entretien manuel courant et périodique des sanitaires.
 
-L'intervention peut se faire en intérieur ou en extérieur, en présence ou non de l'usager des lieux.
+Réaliser l'entretien manuel des locaux dans le respect des protocoles liés à des environnements spécifiques.
 
-Dans les entreprises prestataires, l'APH peut intervenir dans une même journée sur plusieurs chantiers de nettoyage de différents types. Ces chantiers peuvent être distants les uns des autres.
+2. Réaliser une prestation de service d'entretien mécanisé et/ ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation
 
-L'APH travaille seul ou en équipe. Il (elle) intervient en tenant compte des règles de fonctionnement du site et notamment du règlement intérieur.
+Réaliser le lavage mécanisé ou la remise en état des sols durs.
 
-Les horaires peuvent se situer hors des horaires habituels de travail, selon la nature de l'activité.
+Réaliser l'entretien mécanisé ou la remise en état des sols souples protégés ou non protégés.
 
-Capacités attestées et descriptif
+Réaliser l'entretien mécanisé ou la remise en état des surfaces textiles.
 
-des composantes de la certification
+Secteur d'activité ou types d'emploi accessibles par le détenteur du titre
 
-1. Réaliser une prestation de service d'entretien manuel
+Les différents secteurs d'activités concernés sont principalement :
 
-adaptée aux locaux, aux surfaces et à leur utilisation
+Tout type d'entreprise et de collectivité dans des environnements très diversifiés :
 
-Réaliser par des méthodes manuelles l'entretien courant de locaux à usage professionnel ou privatif.
+-bureaux, locaux administratifs, immeubles d'habitation ;
 
-Réaliser par des méthodes manuelles l'entretien courant des sanitaires.
+-hôpitaux et cliniques, établissements médico-sociaux, établissement d'hébergement pour personnes âgées dépendantes (EHPAD) ;
 
-Réaliser par des méthodes manuelles l'entretien de locaux soumis à des normes ou contraintes spécifiques.
+-magasins, hypermarchés ;
 
-2. Réaliser une prestation de service d'entretien mécanisé et / ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation
+-locaux industriels ;
 
-Réaliser par des méthodes mécanisées le lavage des surfaces dures.
+-salles de sport, musées, cinémas, hôtellerie ;
 
-Entretenir ou remettre en état des sols souples protégés en utilisant des méthodes mécanisées.
+-restauration collective ;
 
-Entretenir ou remettre en état des surfaces textiles en utilisant des techniques mécanisées.
+-transports en commun.
 
-Secteurs d'activités ou types d'emploi
+Les types d'emploi accessibles sont les suivants :
 
-accessibles par le détenteur du titre
+-agent de nettoyage en collectivité ;
 
-L'emploi s'exerce dans des milieux professionnels très diversifiés, dans le cadre d'une prestation externalisée ou non à une entreprise de nettoyage :
+-agent des services hospitaliers qualifié ;
 
--espaces d'activité tertiaire (bureaux, écoles, gymnases) ou commerciale ;
+-agent de nettoyage industriel ;
 
--structures médico-sociales d'accueil et / ou de soins de personnes, structures hospitalières ou médicalisées ;
+-agent de propreté des locaux ;
 
--entreprises industrielles ou de transport ;
+-agent de propreté en grande surface ;
 
--éventuellement locaux d'habitation collectifs ou de particuliers.
+-agent d'entretien polyvalent.
 
-Code ROME :
+Codes ROME :
 
-11211-Agent (e) de nettoyage.
+K2204 Nettoyage de locaux.
 
 Réglementation de l'activité :
 
-Néant.
-
-La présente certification est accessible à compter du 13 août 2008.
+Sans objet.
 
 Autorité responsable de la certification :
 
@@ -94,10 +92,16 @@ Ministère chargé de l'emploi.
 
 Liens avec d'autres certifications :
 
-Les correspondances entre le titre professionnel et les CQP de la branche "propreté" enregistrés au RNCP sont définies par l'arrêté de spécialité du titre professionnel d'agent(e) de propreté et d'hygiène.
+-CQP " agent machiniste classique " (Commission nationale paritaire de l'emploi et de la formation professionnelle-CPNE FP propreté) ;
+
+-CQP " agent d'entretien et de rénovation propreté " (Commission nationale paritaire de l'emploi et de la formation professionnelle-CPNE FP propreté).
 
 Bases légales et réglementaires :
 
-Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2.
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 13 août 2013.

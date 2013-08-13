@@ -5,32 +5,25 @@ Les titulaires des certificats de compétences professionnelles obtenus antérie
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AGENT (E) DE PROPRETÉ <p>et d'hygiène </p>
-<p>(arrêté du 31 juillet 2003) <br/>
-</p>
-</th>
-<th>
-<br/>AGENT (E) DE PROPRETÉ <p>et d'hygiène </p>
-<p>(présent arrêté) <br/>
-</p>
-</th>
+<td align="center"> TITRE PROFESSIONNEL<br/>
+<p>d'agent (s) de propreté et d'hygiène </p>(arrêté du 31 juillet 2003 modifié) </td>
+<td align="center"> TITRE PROFESSIONNEL <p>d'agent (e) de propreté et d'hygiène </p>(présent arrêté) </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nettoyer et entretenir des locaux en utilisant des techniques manuelles. <br/>
+<td align="left">
+<br/>Réaliser une prestation de service d'entretien manuel adaptée aux locaux, aux surfaces et à leur utilisation <br/>
 </td>
-<td align="center">
-<br/>Réaliser une prestation de service d'entretien manuel adaptée aux locaux, aux surfaces et à leur utilisation. <br/>
+<td align="left">
+<br/>Réaliser une prestation de service d'entretien manuel adaptée aux locaux, aux surfaces et à leur utilisation <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nettoyer et entretenir des locaux en utilisant des techniques mécanisées. <p>Mettre ou remettre en état des sols en utilisant des techniques mécanisées. <br/>
-</p>
+<td align="left">
+<br/>Réaliser une prestation de service d'entretien mécanisé et/ ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation <br/>
 </td>
-<td align="center">
-<br/>Réaliser une prestation de service d'entretien mécanisé et / ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation.</td>
+<td align="left">
+<br/>Réaliser une prestation de service d'entretien mécanisé et/ ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation<br/>
+</td>
 </tr>
 </tbody>
 </table>
