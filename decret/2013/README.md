@@ -220,6 +220,7 @@
 - [Décret n°2013-635 du 12 juillet 2013 (EFIT1314872D)](decret-n2013-635-du-12-juillet-2013-efit1314872d)
 - [Décret n°2013-636 du 12 juillet 2013 (EFIT1316747D)](decret-n2013-636-du-12-juillet-2013-efit1316747d)
 - [Décret n°2013-637 du 12 juillet 2013 (EFIT1316700D)](decret-n2013-637-du-12-juillet-2013-efit1316700d)
+- [Décret n°2013-724 du 12 août 2013 (INTD1306277D)](decret-n2013-724-du-12-aout-2013-intd1306277d)
 - [Décret n°91-1163 du 12 novembre 1991 (ECOC9100074D)](decret-n91-1163-du-12-novembre-1991-ecoc9100074d)
 - [Décret n°2012-1401 du 13 décembre 2012 (JUSC1238748D)](decret-n2012-1401-du-13-decembre-2012-jusc1238748d)
 - [Décret n°2013-136 du 13 février 2013 (PRMX1301498D)](decret-n2013-136-du-13-fevrier-2013-prmx1301498d)
