@@ -1,0 +1,5 @@
+# Article 318-1
+
+La société de gestion de portefeuille utilise à tout moment les ressources humaines et techniques adaptées et appropriées nécessaires pour la bonne gestion des FIA.
+
+Elle doit être dotée, compte tenu de la nature des FIA qu'elle gère, de solides procédures administratives et comptables, des dispositifs de contrôle et de sauvegarde dans le domaine du traitement électronique des données, ainsi que des mécanismes de contrôle interne adéquats incluant, notamment, des règles concernant les transactions personnelles de ses employés ou la participation ou la gestion d'investissements en vue d'investir pour son propre compte et garantissant, au minimum, que chaque transaction concernant les FIA peut être reconstituée quant à son origine, aux parties concernées, à sa nature, ainsi qu'au moment et au lieu où elle a été effectuée, et que les actifs des FIA gérés sont investis conformément au règlement ou aux statuts du FIA et aux dispositions législatives et réglementaires en vigueur.

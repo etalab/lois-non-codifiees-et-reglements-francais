@@ -5,3 +5,6 @@
 - [Chapitre III : Règles d'organisation](chapitre-iii)
 - [Chapitre IV : Règles de bonne conduite](chapitre-iv)
 - [Chapitre V :  Autres dispositions](chapitre-v)
+- [Article 311-1 C](article-311-1-c.md)
+- [Article 311-1 A](article-311-1-a.md)
+- [Article 311-1 B](article-311-1-b.md)

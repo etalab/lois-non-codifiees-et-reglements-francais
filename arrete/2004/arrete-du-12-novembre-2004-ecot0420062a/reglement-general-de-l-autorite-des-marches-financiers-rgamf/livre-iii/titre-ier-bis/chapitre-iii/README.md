@@ -1,0 +1,21 @@
+# Chapitre III : Règles d'organisation
+
+- [Section 1 : Règles d'organisation générales](section-1)
+- [Section 2 : Dispositif de conformité](section-2)
+- [Section 3 : Responsabilités des dirigeants et des instances de surveillance](section-3)
+- [Section 4 : Vérification du niveau de connaissances de certaines personnes](section-4)
+- [Section 5 : Traitement des réclamations](section-5)
+- [Section 6 : Transactions personnelles](section-6)
+- [Section 7 : Conflits d'intérêts](section-7)
+- [Section 8 : Carte professionnelle](section-8)
+- [Section 9 : Enregistrements et conservation des données](section-9)
+- [Section 10 : Fiche de renseignements annuels](section-10)
+- [Section 11  : Gestion des risques](section-11)
+- [Section 12 : Gestion de la liquidité](section-12)
+- [Section 13 : Transmission d'informations sur les contrats financiers](section-13)
+- [Section 14 : Contrôle périodique](section-14)
+- [Section 15 : L'organisation des fonctions de conformité 
+et de contrôle interne](section-15)
+- [Section 16 : Délégation de la gestion de FIA](section-16)
+- [Article 318-1](article-318-1.md)
+- [Article 318-2](article-318-2.md)

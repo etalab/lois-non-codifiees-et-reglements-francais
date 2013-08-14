@@ -1,0 +1,7 @@
+# Article 323-23
+
+En application du I de l'article L. 214-24-8 du code monétaire et financier, le dépositaire veille de façon générale au suivi adéquat des flux de liquidités du FIA et, plus particulièrement à ce que tous les paiements effectués par des investisseurs ou en leur nom lors de la souscription de parts ou d'actions de FIA aient été reçus et que toutes les liquidités du FIA aient été comptabilisées sur des comptes d'espèces ouverts au nom du FIA ou au nom de sa société de gestion de portefeuille ou au nom du dépositaire agissant pour le compte du FIA auprès d'une entité mentionnée à l'article 3 de l'arrêté du 2 juillet 2007 relatif au cantonnement des fonds de la clientèle des entreprises d'investissement ou d'une autre entité de la même nature, sur le marché pertinent sur lequel des comptes de liquidités sont exigés, pour autant que cette entité soit soumise à une réglementation et une surveillance prudentielles efficaces qui produisent les mêmes effets que le droit de l'Union européenne et sont effectivement appliquées, et qui garantit notamment le respect des principes énoncés à l'article 313-13.
+
+Lorsque les comptes de liquidités sont ouverts au nom du dépositaire agissant pour le compte du FIA, aucune liquidité de l'entité visée au premier alinéa et aucune liquidité propre du dépositaire ne sont comptabilisées sur de tels comptes.
+
+Les conditions d'application du présent article sont précisées aux articles 85 à 87 du règlement délégué (UE) n° 231/2013 de la Commission du 19 décembre 2012.

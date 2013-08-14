@@ -1,0 +1,3 @@
+# Article 317-11
+
+Pour l'application du présent chapitre, les droits de vote sont calculés conformément aux I et IV de l'article L. 233-7 et de l'article L. 233-9 du code de commerce. Il n'est pas tenu compte des droits de vote que des entreprises d'investissement ou des établissements de crédit détiennent à la suite de la prise ferme ou du placement garanti d'instruments financiers, au sens des 6-1 ou 6-2 de l'article D. 321-1 du code monétaire et financier, pour autant que ces droits ne soient pas exercés ni utilisés autrement pour intervenir dans la gestion de l'émetteur et à condition qu'ils soient cédés dans le délai d'un an après l'acquisition.

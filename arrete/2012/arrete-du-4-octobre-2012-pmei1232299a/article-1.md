@@ -14,4 +14,6 @@ Série " Commémoratifs et divers " :
 
 ― pont levant Jacques Chaban-Delmas à Bordeaux ;
 
-― Gaston Doumergue.
+― Gaston Doumergue ;
+
+― 2003-2013 dix ans de mécénat.

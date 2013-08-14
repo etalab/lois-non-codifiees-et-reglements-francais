@@ -2,9 +2,9 @@
 
 Le programme philatélique de l'année 2014, 2e partie, est fixé comme suit :
 
-Série « Commémoratifs et divers » :
+Série Commémoratifs et divers :
 
-― le « bleuet de France » ;
+― le bleuet de France ;
 
 ― Benjamin Rabier ;
 
@@ -18,7 +18,15 @@ Série « Commémoratifs et divers » :
 
 ― Evariste Désiré de Forges ;
 
-― cinquantenaire de l'INSERM.
+― cinquantenaire de l'INSERM ;
+
+― Charles Péguy (1873-1914) ;
+
+― émission commune France-océan Indien ;
+
+― salon philatélique de la jeunesse ;
+
+― salon philatélique de printemps.
 
 Série touristique :
 
@@ -28,12 +36,16 @@ Série touristique :
 
 Série artistique :
 
-― Jean Fautrier.
+― Jean Fautrier ;
+
+― Jean Dufy (1888-1964) ;
+
+― métropole : la vitalité de nos villes.
 
 Le coin du collectionneur (six timbres) :
 
 ― les appareils photos.
 
-Série « Sur les chemins de Saint-Jacques de Compostelle ».
+Série Sur les chemins de Saint-Jacques de Compostelle.
 
-Série « Les grandes heures de l'Histoire de France ».
+Série Les grandes heures de l'Histoire de France .
