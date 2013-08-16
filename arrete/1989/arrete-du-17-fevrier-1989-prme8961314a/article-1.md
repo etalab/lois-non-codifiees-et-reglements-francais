@@ -349,18 +349,6 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170"/>
-<td valign="top" width="170">
-<p>Calidris canutus.</p>
-</td>
-<td valign="top" width="170">
-<p>Bécasseau maubèche.</p>
-</td>
-<td valign="top" width="170">
-<p>Couchante. </p>
-</td>
-</tr>
-<tr>
 <td valign="top" width="170">
 <p align="center">Columbiformes</p>
 </td>

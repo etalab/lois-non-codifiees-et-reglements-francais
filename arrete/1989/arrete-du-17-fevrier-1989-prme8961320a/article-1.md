@@ -22,15 +22,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Podicipédiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -50,15 +44,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Procellariiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -75,32 +63,22 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Puffinus gravis.</p>
 </td>
 <td valign="top" width="170">
 <p>Puffin majeur.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
 <p align="center">Pélécaniformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -117,9 +95,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Phaeton lepturus.</p>
 </td>
@@ -159,9 +135,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sula dactylatra.</p>
 </td>
@@ -173,9 +147,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sula sula.</p>
 </td>
@@ -204,15 +176,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Ciconiiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -229,9 +195,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Florida caerulea.</p>
 </td>
@@ -243,9 +207,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Egretta thula.</p>
 </td>
@@ -257,9 +219,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Ardeola ibis.</p>
 </td>
@@ -271,9 +231,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Nycticorax violacea.</p>
 </td>
@@ -285,9 +243,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Casmerodius albus.</p>
 </td>
@@ -313,32 +269,22 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Ajaia ajaja.</p>
 </td>
 <td valign="top" width="170">
 <p>Spatule rose.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
 <p align="center">Ansériformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -355,9 +301,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Oxyura jamaicensis.</p>
 </td>
@@ -372,15 +316,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Falconiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -397,9 +335,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Buteo platypterus.</p>
 </td>
@@ -411,9 +347,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Falco sparverius.</p>
 </td>
@@ -425,9 +359,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Falco peregrinus.</p>
 </td>
@@ -439,9 +371,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Falco columbarius.</p>
 </td>
@@ -456,15 +386,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Gruiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -481,9 +405,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Porphyrula martinica.</p>
 </td>
@@ -495,9 +417,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Fulica caribaea.</p>
 </td>
@@ -509,9 +429,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Fulica americana.</p>
 </td>
@@ -523,9 +441,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Porzana carolina.</p>
 </td>
@@ -540,15 +456,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Charadriiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -579,9 +489,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Charadrius wilsonia.</p>
 </td>
@@ -593,9 +501,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Charadrius vociferus.</p>
 </td>
@@ -621,9 +527,17 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
+<td/>
+<td>
+<p align="left">Calidris canutus</p>
 </td>
+<td>
+<p align="left">Bécasseau maubèche</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris alba.</p>
 </td>
@@ -635,9 +549,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris minutilla.</p>
 </td>
@@ -649,9 +561,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris pusilla.</p>
 </td>
@@ -663,9 +573,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris mauri.</p>
 </td>
@@ -677,23 +585,17 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris fuscicollis.</p>
 </td>
 <td valign="top" width="170">
 <p>Bécasseau à croupion blanc.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Tryngites rubruficollis.</p>
 </td>
@@ -705,9 +607,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Tringa solitaria.</p>
 </td>
@@ -728,37 +628,27 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p>Labbe à longue queue. </p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Stercorarius parasitiens.</p>
 </td>
 <td valign="top" width="170">
 <p>Labbe parasite.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Stercorarius pomarinus.</p>
 </td>
 <td valign="top" width="170">
 <p>Labbe pomarin.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -775,9 +665,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sterna albifrons.</p>
 </td>
@@ -789,9 +677,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sterna hirundo.</p>
 </td>
@@ -803,9 +689,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sterna dougallii.</p>
 </td>
@@ -817,9 +701,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sterna fuscata.</p>
 </td>
@@ -831,9 +713,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sterna anaethetus.</p>
 </td>
@@ -845,9 +725,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Thalasseus maximus.</p>
 </td>
@@ -859,9 +737,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anous stolidus.</p>
 </td>
@@ -876,15 +752,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Columbiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -901,9 +771,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Geotrygon mystacea.</p>
 </td>
@@ -918,15 +786,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Cuculiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -943,9 +805,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Coccyzus minor.</p>
 </td>
@@ -957,9 +817,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Crotophaga ani.</p>
 </td>
@@ -974,15 +832,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Caprimulgiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -999,9 +851,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Chordeiles minor.</p>
 </td>
@@ -1016,15 +866,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Apodiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -1041,9 +885,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Nephoecetes niger.</p>
 </td>
@@ -1069,60 +911,42 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Eulampis jugularis.</p>
 </td>
 <td valign="top" width="170">
 <p>Madère.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sericotes holosericeus.</p>
 </td>
 <td valign="top" width="170">
 <p>Falle vert.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Cyanophaia bicolor.</p>
 </td>
 <td valign="top" width="170">
 <p>Colibri à tête bleue.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
 <p align="center">Coraciiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -1139,9 +963,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Ceryle alcyon.</p>
 </td>
@@ -1156,15 +978,9 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p align="center">Passériformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -1181,9 +997,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Myiarchus stolidus.</p>
 </td>
@@ -1195,9 +1009,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Elaenia martinica.</p>
 </td>
@@ -1209,9 +1021,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Contopus latirostris.</p>
 </td>
@@ -1237,9 +1047,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Hirundo rustica.</p>
 </td>
@@ -1251,9 +1059,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Riparia riparia.</p>
 </td>
@@ -1293,9 +1099,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Mimus gilvus.</p>
 </td>
@@ -1307,9 +1111,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Ramphocynclus brachyurus.</p>
 </td>
@@ -1335,9 +1137,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Turdus nudigenis.</p>
 </td>
@@ -1363,9 +1163,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Piranga olivacea.</p>
 </td>
@@ -1391,149 +1189,107 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendroica discolor.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette à moustache.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendroica virens.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette verte.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendroica striata.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette rayée.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendroica coronata.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette à croupion jaune.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendroica dominica.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette à gorge jaune.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendroica fusca.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette à gorge orangée.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Parula americana.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette parula.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Wilsonia canadensis.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette du Canada.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Wilsonia citrina.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette à capuchon.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Protonotaria citrea.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette orangée.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Mniotilta varia.</p>
 </td>
@@ -1545,9 +1301,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Setophaga ruticilla.</p>
 </td>
@@ -1559,51 +1313,37 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Seiurus noveboracensis.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette des ruisseaux.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Seiurus motacilla.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette hoche-queue.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Seiurus aurocapillus.</p>
 </td>
 <td valign="top" width="170">
 <p>Sylvette couronnée.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Coereba flaveola.</p>
 </td>
@@ -1643,9 +1383,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Quiscalus lugubris.</p>
 </td>
@@ -1657,9 +1395,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Icterus bonana.</p>
 </td>
@@ -1680,14 +1416,10 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 <td valign="top" width="170">
 <p>Saltator groc bec.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Loxigilla noctis.</p>
 </td>
@@ -1699,9 +1431,7 @@ Sont interdits sur tout le territoire du département de la Martinique et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Tiaris bicolor.</p>
 </td>
