@@ -212,5 +212,18 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <p align="center">30 juin 2018</p>
 </td>
 </tr>
+<tr>
+<td> Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris <br/>
+</td>
+<td> Opérateur, bovins, manipulations et soins, mise à mort, complément sans étourdissement <br/>
+<br/>Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement <br/>
+<br/>Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement</td>
+<td>
+<p align="center"> 1er août 2013 </p>
+</td>
+<td>
+<p align="center"> 31 juillet 2018</p>
+</td>
+</tr>
 </tbody>
 </table>
