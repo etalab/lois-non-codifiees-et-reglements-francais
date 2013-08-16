@@ -159,7 +159,6 @@
 - [Arrêté du 6 mars 1996 (INDE9600164A)](arrete-du-6-mars-1996-inde9600164a)
 - [Arrêté du 6 mars 1996 (MENF9600588A)](arrete-du-6-mars-1996-menf9600588a)
 - [Arrêté du 6 mars 1996 (MENF9600600A)](arrete-du-6-mars-1996-menf9600600a)
-- [Arrêté du 6 novembre 1996 (AGRA9602384A)](arrete-du-6-novembre-1996-agra9602384a)
 - [Arrêté du 6 novembre 1996 (ENVE9650394A)](arrete-du-6-novembre-1996-enve9650394a)
 - [Arrêté du 6 septembre 1996 (INTE9600425A)](arrete-du-6-septembre-1996-inte9600425a)
 - [Arrêté du 6 septembre 1996 (TASA9623350A)](arrete-du-6-septembre-1996-tasa9623350a)
