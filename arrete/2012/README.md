@@ -791,7 +791,6 @@
 - [Arrêté du 10 octobre 2012 (AFSP1235548A)](arrete-du-10-octobre-2012-afsp1235548a)
 - [Arrêté du 10 octobre 2012 (AFSP1236549A)](arrete-du-10-octobre-2012-afsp1236549a)
 - [Arrêté du 10 octobre 2012 (AGRT1228952A)](arrete-du-10-octobre-2012-agrt1228952a)
-- [Arrêté du 10 octobre 2012 (DEFA1236640A)](arrete-du-10-octobre-2012-defa1236640a)
 - [Arrêté du 10 octobre 2012 (EFIC1233762A)](arrete-du-10-octobre-2012-efic1233762a)
 - [Arrêté du 10 septembre 2012 (AFSP1234140A)](arrete-du-10-septembre-2012-afsp1234140a)
 - [Arrêté du 10 septembre 2012 (DEFH1234312A)](arrete-du-10-septembre-2012-defh1234312a)
