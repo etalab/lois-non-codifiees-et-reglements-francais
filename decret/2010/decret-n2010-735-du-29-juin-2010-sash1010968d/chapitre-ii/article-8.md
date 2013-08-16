@@ -6,4 +6,4 @@ I. ― Tout médecin ayant signé un contrat d'engagement de service public, et 
 
 2° Auprès du directeur général du centre national de gestion, un changement de région d'exercice, après avis du directeur général de l'agence régionale de santé de la région dans laquelle il exerce et de celui de la région dans laquelle il souhaite exercer, sous réserve de postuler pour un autre des lieux d'exercice mentionnés à l'article 6.
 
-II. ― En cas de changement de lieu d'exercice autorisé dans les conditions mentionnées au I, le directeur général de l'agence régionale de santé informe par écrit le directeur général du centre national de gestion.
+II. ― En cas de changement de lieu d'exercice au sein d'une même région autorisé dans les conditions mentionnées au I, le directeur général de l'agence régionale de santé informe par écrit le directeur général du centre national de gestion.
