@@ -544,7 +544,7 @@ POSTES D'INSPECTION FRONTALIERS
 <p align="left">(4) Uniquement protéines animales. </p>
 <p align="left">(6) Graisses, huiles et huiles de poisson liquides uniquement.</p>
 <p align="left">(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
-<p align="left">b) Cette autorisation est valable jusqu'au 1er septembre 2013. </p>
+<p align="left">b) Cette autorisation est valable jusqu'au 31 décembre 2013. </p>
 <p align="left">c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
 <p align="left">d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.</p>
 <p align="left">(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
