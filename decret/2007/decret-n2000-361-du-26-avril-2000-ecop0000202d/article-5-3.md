@@ -1,7 +1,6 @@
 # Article 5-3
 
 1° Les coefficients multiplicateurs de la taxe additionnelle à la taxe sur les installations nucléaires de base, dite "de stockage", prévue au VI de l'article 43 de la loi de finances pour 2000 susvisée, sont fixés dans le tableau ci-dessous :
-
 <table>
 <tbody>
 <tr>
@@ -9,17 +8,16 @@
 <br/>CATÉGORIE D'INSTALLATION <br/>
 </th>
 <th>
-<br/>COEFFICIENT <br/>
-<br/>multiplicateur <br/>
+<br/>COEFFICIENT <p>multiplicateur <br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Déchets de faible activité et déchets de moyenne activité à vie courte </p>
+<p>Déchets de faible activité et déchets de moyenne activité à vie courte </p>
 </td>
 <td align="center">
-<br/>1,1 <br/>
+<br/>1,5 <br/>
 </td>
 </tr>
 </tbody>
