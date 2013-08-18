@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td>
-<p>Cadres supérieurs de santé</p>
+<p>Cadres supérieurs de santé et cadres supérieurs de santé paramédicaux </p>
 </td>
 <td>
 <p align="center">167,45</p>
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td>
-<p>Cadres de santé (filières infirmière, de rééducation et médico-technique)</p>
+<p>Cadres de santé et cadres de santé paramédicaux (filières infirmière, de rééducation et médico-technique)</p>
 </td>
 <td>
 <p align="center">91,22</p>
