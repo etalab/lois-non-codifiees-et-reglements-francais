@@ -18,4 +18,4 @@ Les fonctionnaires titulaires et stagiaires énumérés ci-après, en activité 
 
 13° Sages-femmes et sages-femmes surveillantes chefs.
 
-14° Fonctionnaires et stagiaires nommés dans l'un des corps régis par le décret du 18 décembre 1991 susvisé
+14° Fonctionnaires et stagiaires mentionnés soit au 1° de l'article 1er du décret n° 2001-1375 du 31 décembre 2001 portant statut particulier du corps des cadres de santé de la fonction publique hospitalière, soit au 1° de l'article 1er du décret n° 2012-1466 du 26 décembre 2012 portant statut particulier du corps des cadres de santé paramédicaux de la fonction publique hospitalière.

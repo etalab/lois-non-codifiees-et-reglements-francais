@@ -16,7 +16,7 @@ Les personnels énumérés ci-après, fonctionnaires et stagiaires, en activité
 
 7° Sages-femmes cadres supérieurs ;
 
-8° Cadres supérieurs de santé ;
+8° Cadres de santé régis par le décret n° 2001-1375 du 31 décembre 2001 portant statut particulier du corps des cadres de santé de la fonction publique hospitalière et cadres de santé paramédicaux régis par le décret n° 2012-1466 du 26 décembre 2012 portant statut particulier du corps des cadres de santé paramédicaux de la fonction publique hospitalière ;
 
 9° Sages-femmes cadres ;
 
