@@ -1,6 +1,6 @@
 # Article 2
 
-I. ― Sont inscrites dans le fichier les personnes faisant l'objet des décisions judiciaires mentionnées au I de l'article 23 de la loi du 18 mars 2003 susvisée.
+I. ― Sont inscrites dans le fichier les personnes faisant l'objet des décisions judiciaires mentionnées à l'article 230-19 du code de procédure pénale.
 
 II. ― Sont inscrites dans le fichier, à la demande des services et unités de police judiciaire ou des autorités judiciaires, les personnes faisant l'objet d'une recherche pour les besoins d'une enquête de police judiciaire :
 
@@ -42,14 +42,14 @@ IV. ― Peuvent également être inscrits dans le fichier à l'initiative des au
 
 4° Les personnes qui font l'objet d'une décision de retrait d'une carte nationale d'identité ou d'un passeport obtenus indûment et celles qui ont tenté d'obtenir la délivrance d'une carte nationale d'identité ou d'un passeport en violation des dispositions des décrets des 22 octobre 1955 et 30 décembre 2005 susvisés ;
 
-5° Les étrangers faisant l'objet d'une obligation de quitter le territoire français non exécutée, en application du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+5° Les étrangers faisant l'objet d'une obligation de quitter le territoire français non exécutée, en application du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
-6° Les étrangers faisant l'objet d'un arrêté de reconduite à la frontière non exécuté, en application du II de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+6° Les étrangers faisant l'objet d'une interdiction de retour en application du III de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, pendant sa période de validité ;
 
-7° Les étrangers faisant l'objet d'un arrêté de reconduite à la frontière pris depuis moins d'un an en application du 8° du II de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, alors même que la mesure de reconduite a été exécutée ;
+7° Les étrangers faisant l'objet d'un arrêté de reconduite à la frontière pris depuis moins de trois ans en application de l'article L. 533-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, alors même que la mesure de reconduite a été exécutée ;
 
 8° Les étrangers faisant l'objet d'un arrêté d'expulsion pris en application du titre II du livre V du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
-9° Les étrangers faisant l'objet d'une assignation à résidence en application des articles L. 513-4, L. 523-3, L. 523-4 ou L. 523-5 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+9° Les étrangers faisant l'objet d'une assignation à résidence en application des articles L. 523-3 à L. 523-5 ou du titre VI du livre V du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
-V. ― En tant que de besoin et dans le respect des conditions prévues à l'article 24 de la loi du 18 mars 2003 susvisée, le fichier est également constitué de données à caractère personnel issues de traitements gérés par des organismes de coopération internationale en matière de police judiciaire ou des services de police étrangers.
+V. ― En tant que de besoin et dans le respect des conditions prévues à l'article L. 235-1 du code de la sécurité intérieure, le fichier est également constitué de données à caractère personnel issues de traitements gérés par des organismes de coopération internationale en matière de police judiciaire ou des services de police étrangers.
