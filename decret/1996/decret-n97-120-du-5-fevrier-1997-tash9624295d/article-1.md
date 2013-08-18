@@ -4,7 +4,7 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 1° Directeurs des soins, directeurs d'institut de formation préparant au diplôme d'Etat de pédicure-podologue : 30 points majorés ;
 
-2° Agents nommés dans le corps des pédicures podologues cadres de santé ; 13 points majorés ;
+2° Agents nommés dans le corps des pédicures podologues cadres de santé et dans le  corps des pédicures podologues cadres de santé paramédicaux ; 13 points majorés ;
 
 3° Agents affectés dans un service de "grands brûlés" et participant directement aux soins dont ces malades bénéficient :
 
