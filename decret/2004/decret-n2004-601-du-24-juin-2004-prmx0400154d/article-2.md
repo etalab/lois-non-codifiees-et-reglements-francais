@@ -8,6 +8,6 @@ Il met en oeuvre des actions d'évaluation, de formation et de communication et 
 
 Il anime et coordonne l'action des hauts fonctionnaires chargés du développement durable, mentionnés à l'article D134-11 du code de l'environnement.
 
-Il est associé à la définition du programme des travaux du    Comité national du développement durable et du Grenelle de l'environnement.
+Il est associé à la définition du programme des travaux du           Conseil national de la transition écologique.
 
 Il rend compte de ses travaux au Premier ministre et au ministre chargé du développement durable.
