@@ -21,6 +21,7 @@
 - [Décret n°2011-954 du 10 août 2011 (ETSH1114682D)](decret-n2011-954-du-10-aout-2011-etsh1114682d)
 - [Décret n°2011-45 du 11 janvier 2011 (ETST1023798D)](decret-n2011-45-du-11-janvier-2011-etst1023798d)
 - [Décret n°2011-49 du 12 janvier 2011 (EFIP1028377D)](decret-n2011-49-du-12-janvier-2011-efip1028377d)
+- [Décret n°2011-833 du 12 juillet 2011 (DEVD1113961D)](decret-n2011-833-du-12-juillet-2011-devd1113961d)
 - [Décret n°2011-388 du 13 avril 2011 (IOCJ1104080D)](decret-n2011-388-du-13-avril-2011-iocj1104080d)
 - [Décret n°2011-661 du 14 juin 2011 (ETSH1105688D)](decret-n2011-661-du-14-juin-2011-etsh1105688d)
 - [Décret n°2011-275 du 16 mars 2011 (EFIT1103770D)](decret-n2011-275-du-16-mars-2011-efit1103770d)
