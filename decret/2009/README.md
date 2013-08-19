@@ -659,7 +659,6 @@
 - [Décret n°2009-1260 du 19 octobre 2009 (MTSS0909735D)](decret-n2009-1260-du-19-octobre-2009-mtss0909735d)
 - [Décret n°2009-1261 du 19 octobre 2009 (SJSH0831286D)](decret-n2009-1261-du-19-octobre-2009-sjsh0831286d)
 - [Décret n°2009-1263 du 19 octobre 2009 (MCCT0913331D)](decret-n2009-1263-du-19-octobre-2009-mcct0913331d)
-- [Décret n°2009-1268 du 19 octobre 2009 (AGRT0917334D)](decret-n2009-1268-du-19-octobre-2009-agrt0917334d)
 - [Décret n°2009-1414 du 19 novembre 2009 (DEVU0901753D)](decret-n2009-1414-du-19-novembre-2009-devu0901753d)
 - [Décret n°2009-1421 du 19 novembre 2009 (ESRS0916990D)](decret-n2009-1421-du-19-novembre-2009-esrs0916990d)
 - [Décret n°2009-1423 du 19 novembre 2009 (MCCT0923436D)](decret-n2009-1423-du-19-novembre-2009-mcct0923436d)
