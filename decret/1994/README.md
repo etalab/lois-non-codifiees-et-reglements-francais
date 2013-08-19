@@ -653,7 +653,6 @@
 - [Décret n°94-847 du 26 septembre 1994 (ECOT9491010D)](decret-n94-847-du-26-septembre-1994-ecot9491010d)
 - [Décret n°94-85 du 26 janvier 1994 (BUDF9320634D)](decret-n94-85-du-26-janvier-1994-budf9320634d)
 - [Décret n°94-86 du 26 janvier 1994 (LOGC9300027D)](decret-n94-86-du-26-janvier-1994-logc9300027d)
-- [Décret n°94-92 du 26 janvier 1994 (AGRS9302026D)](decret-n94-92-du-26-janvier-1994-agrs9302026d)
 - [Décret n°95-502 du 26 avril 1995 (AGRA9500605D)](decret-n95-502-du-26-avril-1995-agra9500605d)
 - [Décret n°94-430 du 26 mai 1994 (MJSK9470057D)](decret-n94-430-du-26-mai-1994-mjsk9470057d)
 - [Décret n°93-1023 du 27 août 1993 (SPSS9302211D)](decret-n93-1023-du-27-aout-1993-spss9302211d)
