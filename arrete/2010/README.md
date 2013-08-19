@@ -1031,7 +1031,6 @@
 - [Arrêté du 12 mai 2004 (AGRA0400590A)](arrete-du-12-mai-2004-agra0400590a)
 - [Arrêté du 12 mai 2010 (AGRG1010271A)](arrete-du-12-mai-2010-agrg1010271a)
 - [Arrêté du 12 mai 2010 (AGRM1012776A)](arrete-du-12-mai-2010-agrm1012776a)
-- [Arrêté du 12 mai 2010 (AGRT1012951A)](arrete-du-12-mai-2010-agrt1012951a)
 - [Arrêté du 12 mai 2010 (DEFH1008895A)](arrete-du-12-mai-2010-defh1008895a)
 - [Arrêté du 12 mai 2010 (DEVA1012756A)](arrete-du-12-mai-2010-deva1012756a)
 - [Arrêté du 12 mai 2010 (ECES1011758A)](arrete-du-12-mai-2010-eces1011758a)
