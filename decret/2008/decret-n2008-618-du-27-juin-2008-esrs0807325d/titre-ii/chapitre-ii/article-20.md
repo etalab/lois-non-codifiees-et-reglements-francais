@@ -2,7 +2,7 @@
 
 Les modifications apportées au budget de l'établissement en cours d'exercice dans les cas suivants sont adoptées par le conseil d'administration dans les mêmes conditions que le budget initial :
 
-1° Modification de l'équilibre du compte de résultat prévisionnel et de l'équilibre du tableau de financement abrégé prévisionnel du budget principal ou du budget annexe  ;
+1° Modification de l'équilibre du tableau présentant l'équilibre financier, de  l'équilibre du compte de résultat prévisionnel ou de l'équilibre de l'état  prévisionnel de l'évolution de la situation patrimoniale du budget principal ou  du budget annexe ;
 
 2° Virement de crédits entre enveloppes du budget principal ;
 
