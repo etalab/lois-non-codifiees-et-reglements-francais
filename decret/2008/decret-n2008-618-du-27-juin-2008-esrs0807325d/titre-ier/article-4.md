@@ -2,17 +2,19 @@
 
 I. ― Le budget principal, le budget annexe et       le budget de chaque fondation sont établis conformément aux dispositions de l'article 175 du décret n° 2012-1246 du 7 novembre 2012 mentionné ci-dessus :
 
-Les modalités d'application du premier alinéa sont définies par arrêté conjoint  du ministre chargé du budget et du ministre chargé de l'enseignement supérieur.
+1° Le compte de résultat prévisionnel, qui présente les prévisions de dépenses et de recettes liées au fonctionnement, détermine le résultat prévisionnel ;
+
+2° Le tableau de financement abrégé prévisionnel, qui présente les prévisions de dépenses et de recettes liées à l'investissement, détermine la variation prévisionnelle du fonds de roulement.
 
 II.-Les crédits sont présentés en croisant la destination et la nature de chaque dépense. La répartition des crédits par nature distingue :
 
-1° L'enveloppe consacrée aux dépenses de personnel  qui est assortie :
+1° L'enveloppe consacrée à la masse salariale qui est assortie :
 
 a) D'un plafond d'autorisation de l'ensemble des emplois rémunérés par l'établissement ;
 
 b) D'un plafond d'emplois fixé par l'Etat relatif aux emplois financés par l'Etat ;
 
-2° L'enveloppe des crédits de fonctionnement hors dépenses de personnel ;
+2° L'enveloppe des crédits de fonctionnement hors masse salariale, y compris les charges d'amortissement et les charges de provisions ;
 
 3° L'enveloppe des crédits d'investissement.
 

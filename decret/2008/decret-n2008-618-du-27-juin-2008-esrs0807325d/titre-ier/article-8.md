@@ -1,5 +1,5 @@
 # Article 8
 
-Le budget décrit l'intégralité des recettes et des dépenses et l'intégralité des charges et des produits.
+L'intégralité des produits doit être inscrite en recettes. L'intégralité des charges doit être imputée en dépenses.
 
 Les recettes attribuées à l'établissement avec une destination déterminée conservent leur affectation.
