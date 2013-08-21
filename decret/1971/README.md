@@ -22,7 +22,6 @@
 - [Décret n°71-638 du 13 juillet 1971](decret-n71-638-du-13-juillet-1971)
 - [Décret n°71-847 du 13 octobre 1971](decret-n71-847-du-13-octobre-1971)
 - [Décret n°71-990 du 13 décembre 1971](decret-n71-990-du-13-decembre-1971)
-- [Décret n°71-376 du 13 mai 1971](decret-n71-376-du-13-mai-1971)
 - [Décret du 14 juin 1971](decret-du-14-juin-1971)
 - [Décret n°71-292 du 14 avril 1971](decret-n71-292-du-14-avril-1971)
 - [Décret n°71-365 du 14 mai 1971](decret-n71-365-du-14-mai-1971)
