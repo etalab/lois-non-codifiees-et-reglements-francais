@@ -452,7 +452,6 @@
 - [Décret n°94-69 du 19 janvier 1994 (EQUT9301689D)](decret-n94-69-du-19-janvier-1994-equt9301689d)
 - [Décret n°94-726 du 19 août 1994 (MAEA9420390D)](decret-n94-726-du-19-aout-1994-maea9420390d)
 - [Décret n°94-728 du 19 août 1994 (COMK9404001D)](decret-n94-728-du-19-aout-1994-comk9404001d)
-- [Décret n°94-735 du 19 août 1994 (RESK9401003D)](decret-n94-735-du-19-aout-1994-resk9401003d)
 - [Décret n°94-817 du 19 septembre 1994 (LOGC9400018D)](decret-n94-817-du-19-septembre-1994-logc9400018d)
 - [Décret n°94-818 du 19 septembre 1994 (JUSB9410398D)](decret-n94-818-du-19-septembre-1994-jusb9410398d)
 - [Décret n°94-82 du 19 janvier 1994 (INDA9300577D)](decret-n94-82-du-19-janvier-1994-inda9300577d)
