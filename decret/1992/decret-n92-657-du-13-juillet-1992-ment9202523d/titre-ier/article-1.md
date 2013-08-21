@@ -1,3 +1,0 @@
-# Article 1
-
-Le pouvoir disciplinaire prévu à l'article 29 de la loi du 26 janvier 1984 susvisée est exercé en premier ressort par le conseil d'administration constitué en section disciplinaire des établissements publics à caractère scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur placés sous la tutelle du ministre chargé de l'enseignement supérieur dans les conditions et selon la procédure prévues au présent décret, sous réserve des dispositions prévues à l'article 9 du décret du 14 novembre 1990 susvisé ainsi que des dérogations en vigueur dans les établissements mentionnés aux articles 37 et 70 de la loi du 26 janvier 1984 précitée.

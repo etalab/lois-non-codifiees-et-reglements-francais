@@ -1,3 +1,3 @@
 # Article 4
 
-Les élèves des classes sous contrat d'association peuvent recevoir des bourses, dans les mêmes conditions que les élèves des établissements d'enseignement publics.
+Les étudiants des classes post-baccalauréat des établissements d'enseignement privés sous contrat d'association avec l'Etat peuvent recevoir des bourses d'enseignement supérieur, dans les mêmes conditions que les étudiants des classes post-baccalauréat et des établissements d'enseignement supérieur publics.

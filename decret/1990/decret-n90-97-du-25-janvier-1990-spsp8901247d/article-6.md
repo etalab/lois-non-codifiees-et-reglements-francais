@@ -1,3 +1,0 @@
-# Article 6
-
-Les internes recrutés au titre du présent décret choisissent leur poste dans les services agréés pour la formation des internes suivant les modalités fixées par les alinéas 1, 3, 4 et 6 de l'article 10 et l'article 17 du décret du 16 janvier 2004 relatif à l'organisation du troisième cycle des études médicales.A ancienneté égale avec celle des internes issus des concours organisés en application des titres I et III du décret du 16 janvier 2004 relatif à l'organisation du troisième cycle des études médicales, ce choix intervient après celui des internes issus des concours précités.

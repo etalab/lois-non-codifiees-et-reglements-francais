@@ -635,7 +635,6 @@
 - [Décret n°93-261 du 26 février 1993 (ENVN9300059D)](decret-n93-261-du-26-fevrier-1993-envn9300059d)
 - [Décret n°93-262 du 26 février 1993 (EQUX9300018D)](decret-n93-262-du-26-fevrier-1993-equx9300018d)
 - [Décret n°93-275 du 26 février 1993 (AGRS9300035D)](decret-n93-275-du-26-fevrier-1993-agrs9300035d)
-- [Décret n°93-489 du 26 mars 1993 (MENL9304879D)](decret-n93-489-du-26-mars-1993-menl9304879d)
 - [Décret n°93-493 du 26 mars 1993 (DEFP9301146D)](decret-n93-493-du-26-mars-1993-defp9301146d)
 - [Décret n°93-498 du 26 mars 1993 (ECOT9336075D)](decret-n93-498-du-26-mars-1993-ecot9336075d)
 - [Décret n°93-507 du 26 mars 1993 (BUDF9300017D)](decret-n93-507-du-26-mars-1993-budf9300017d)

@@ -212,7 +212,6 @@
 - [Décret n°89-753 du 18 octobre 1989 (DEFP8901866D)](decret-n89-753-du-18-octobre-1989-defp8901866d)
 - [Décret n°89-754 du 18 octobre 1989 (DEFP8901867D)](decret-n89-754-du-18-octobre-1989-defp8901867d)
 - [Décret n°89-755 du 18 octobre 1989 (DEFP8901868D)](decret-n89-755-du-18-octobre-1989-defp8901868d)
-- [Décret n°89-901 du 18 décembre 1989 (MENT8902455D)](decret-n89-901-du-18-decembre-1989-ment8902455d)
 - [Décret n°89-249 du 19 avril 1989 (SPSH8900706D)](decret-n89-249-du-19-avril-1989-spsh8900706d)
 - [Décret n°89-31 du 19 janvier 1989 (MICT8900040D)](decret-n89-31-du-19-janvier-1989-mict8900040d)
 - [Décret n°89-32 du 19 janvier 1989 (PTTT8800733D)](decret-n89-32-du-19-janvier-1989-pttt8800733d)

@@ -31,7 +31,6 @@
 - [Décret n° 70-360 du 21 avril 1970](decret-n-70-360-du-21-avril-1970)
 - [Décret du 23 décembre 1970](decret-du-23-decembre-1970)
 - [Décret n°70-1096 du 23 novembre 1970](decret-n70-1096-du-23-novembre-1970)
-- [Décret n°70-1269 du 23 décembre 1970](decret-n70-1269-du-23-decembre-1970)
 - [Décret n°70-1277 du 23 décembre 1970](decret-n70-1277-du-23-decembre-1970)
 - [Décret n°72-430 du 24 mai 1972](decret-n72-430-du-24-mai-1972)
 - [Décret n°71-159 du 26 février 1971](decret-n71-159-du-26-fevrier-1971)

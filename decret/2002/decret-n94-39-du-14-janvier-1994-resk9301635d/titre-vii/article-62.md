@@ -1,9 +1,0 @@
-# Article 62
-
-Les dispositions du présent décret sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction en vigueur à la date d'entrée en vigueur du décret n° 2010-1652 du 28 décembre 2010, telles qu'elles ont été modifiées par ce décret, sous réserve des adaptations suivantes :
-
-Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues au recteur d'académie.
-
-A l'article 20, les mots : "quinze jours" sont remplacés par les mots : "un mois".
-
-A l'article 26, les mots : "les quinze jours" sont remplacés par les mots : "le mois".

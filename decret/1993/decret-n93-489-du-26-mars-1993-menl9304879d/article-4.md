@@ -1,3 +1,0 @@
-# Article 4
-
-La demande de validation, qui précise les épreuves ou les unités de contrôle capitalisables dont la dispense est demandée, est accompagnée d'un dossier dont les éléments constitutifs, fixés par arrêté du ministre compétent, comprennent notamment la description des fonctions exercées et des tâches remplies définies, s'il y a lieu par référence aux classifications en vigueur dans la ou les professions exercées par le candidat et attestées dans la mesure du possible par ses employeurs ainsi que, le cas échéant, les documents attestant les formations suivies, les stages effectués et les diplômes obtenus.

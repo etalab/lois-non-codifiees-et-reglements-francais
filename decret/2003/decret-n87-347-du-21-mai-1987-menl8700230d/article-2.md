@@ -1,5 +1,0 @@
-# Article 2
-
-Pour chaque spécialité du diplôme des métiers d'art, un arrêté du ministre chargé de l'enseignement supérieur établit le référentiel d'activités professionnelles, le répertoire des capacités, connaissances et savoir-faire et leur niveau d'exigence, définit les domaines de formation et les unités d'enseignement qui les constituent ainsi que leur ordre d'acquisition et fixe la durée et les finalités du stage en milieu professionnel. Chaque unité d'enseignement est dotée d'une valeur en crédits définie dans le respect des conditions fixées à l'article 5 du décret n° 2002-482 du 8 avril 2002 portant application au système français d'enseignement supérieur de la construction de l'Espace européen de l'enseignement supérieur, modifié par le décret n° 2004-703 du 13 juillet 2004. Cet arrêté prévoit, le cas échéant, les unités d'enseignement communes à plusieurs diplômes.
-
-Chaque spécialité de diplôme des métiers d'art comporte au moins trois domaines de formation : un domaine de formation générale, un domaine de formation artistique et un domaine de formation professionnelle. Chaque domaine de formation est constitué d'au moins deux unités d'enseignement.

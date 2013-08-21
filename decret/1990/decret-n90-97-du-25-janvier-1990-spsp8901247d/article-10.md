@@ -1,5 +1,0 @@
-# Article 10
-
-Les médecins militaires étrangers autres que les ressortissants des Etats membres des Communautés européennes ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Principauté d'Andorre peuvent, après avoir subi les épreuves du concours de l'assistanat des hôpitaux des armées organisé en application de l'article 45 du décret du 16 janvier 2004 susvisé, accéder à la préparation d'un diplôme d'études spécialisées.
-
-Le nombre de postes à titre étranger offerts au concours de l'assistanat des hôpitaux des armées est fixé chaque année, par diplôme d'études spécialisées ou regroupement de diplômes d'études spécialisées et par centre hospitalier universitaire de rattachement, par arrêté conjoint des ministres de la défense, des universités et de la santé en fonction des besoins exprimés par les Etats d'appartenance des candidats. Ces postes viennent en sus de ceux ouverts au titre du concours prévu à l'article 1er du présent décret et de ceux ouverts au titre de l'article 46 du décret du 16 janvier 2004 susvisé.

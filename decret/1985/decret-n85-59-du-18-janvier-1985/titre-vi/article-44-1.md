@@ -1,7 +1,0 @@
-# Article 44-1
-
-Le présent décret, dans sa version en vigueur à la date d'entrée en vigueur du décret n° 2009-1337 du 28 octobre 2009 portant extension en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna des décrets n° 2007-1551 du 30 octobre 2007 et n° 2008-1424 du 19 décembre 2008 modifiant le décret n° 85-59 du 18 janvier 1985 fixant les conditions d'exercice du droit de suffrage, la composition des collèges électoraux et les modalités d'assimilation et d'équivalence de niveau pour la représentation des personnels et des étudiants aux conseils des établissements publics à caractère scientifique, culturel et professionnel ainsi que les modalités de recours contre les élections, est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, sous réserve des adaptations suivantes :
-
-"I - Pour l'application de l'article 37 du présent décret dans le territoire de la Polynésie française, les termes : "dans chaque académie" sont remplacés par les termes : "dans le territoire de la Polynésie française". En Nouvelle-Calédonie, les termes : "dans chaque académie" sont remplacés par les termes : "en Nouvelle-Calédonie". Pour cette application, le terme : "recteur" est remplacé par le terme : "ministre".
-
-"II - Pour l'application du deuxième alinéa de l'article 37, du deuxième alinéa de l'article 38 et du premier alinéa de l'article 39 du présent décret, les termes : "le recteur" sont remplacés par les termes : "le ministre"."

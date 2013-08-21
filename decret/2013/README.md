@@ -368,7 +368,6 @@
 - [Décret n°97-1196 du 19 décembre 1997 (DEFX9700136D)](decret-n97-1196-du-19-decembre-1997-defx9700136d)
 - [Décret n°2009-318 du 20 mars 2009 (ECES0826515D)](decret-n2009-318-du-20-mars-2009-eces0826515d)
 - [Décret n°2012-901 du 20 juillet 2012 (DEFD1207449D)](decret-n2012-901-du-20-juillet-2012-defd1207449d)
-- [Décret n°2013-156 du 20 février 2013 (MCCB1229371D)](decret-n2013-156-du-20-fevrier-2013-mccb1229371d)
 - [Décret n°2013-232 du 20 mars 2013 (EFIT1235463D)](decret-n2013-232-du-20-mars-2013-efit1235463d)
 - [Décret n°2013-234 du 20 mars 2013 (TRAA1242441D)](decret-n2013-234-du-20-mars-2013-traa1242441d)
 - [Décret n°2013-525 du 20 juin 2013 (JUST1303874D)](decret-n2013-525-du-20-juin-2013-just1303874d)
