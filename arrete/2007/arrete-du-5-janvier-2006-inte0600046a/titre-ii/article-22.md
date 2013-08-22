@@ -1,3 +1,0 @@
-# Article 22
-
-En application de l'article 54 du décret n° 99-1039 du 10 décembre 1999 et de l'article 23 de l'arrêté relatif au schéma national des emplois, des activités et des formations des sapeurs-pompiers professionnels et volontaires susvisés, le comité consultatif départemental des sapeurs-pompiers volontaires, réuni en formation de commission de validation des acquis de l'expérience, émet un avis sur la reconnaissance des attestations, titres et diplômes et la validation des acquis de l'expérience des sapeurs-pompiers volontaires, conformément aux dispositions prévues dans le guide national de référence mentionné à l'article 1er du présent arrêté.
