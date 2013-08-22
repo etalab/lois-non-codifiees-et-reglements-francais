@@ -379,7 +379,6 @@
 - [Arrêté du 6 août 2012 (ESRH1230926A)](arrete-du-6-aout-2012-esrh1230926a)
 - [Arrêté du 6 août 2012 (ETSO1228482A)](arrete-du-6-aout-2012-etso1228482a)
 - [Arrêté du 6 août 2012 (MAEA1228944A)](arrete-du-6-aout-2012-maea1228944a)
-- [Arrêté du 6 août 2012 (TRAT1230878A)](arrete-du-6-aout-2012-trat1230878a)
 - [Arrêté du 6 avril 2012 (AGRM1210035A)](arrete-du-6-avril-2012-agrm1210035a)
 - [Arrêté du 6 avril 2012 (AGRT1209270A)](arrete-du-6-avril-2012-agrt1209270a)
 - [Arrêté du 6 avril 2012 (BCRB1135749A)](arrete-du-6-avril-2012-bcrb1135749a)
