@@ -14,6 +14,10 @@ Elle est chargée d'assurer la gestion du programme budgétaire dont le directeu
 
 Elle participe à la mise en place et à l'évolution fonctionnelle des systèmes d'information intéressant les missions de contrôle sanitaire et phytosanitaire. Elle assure la maîtrise d'ouvrage des projets informatiques de la direction. Elle veille à l'harmonisation de la collecte et à la validité des données, ainsi qu'à l'appropriation des outils par la direction et les services de contrôle sanitaire.
 
+Elle est chargée de la mise en œuvre de la démarche de management par la qualité de la direction générale et des services de contrôle sanitaire.
+
+Elle a également en charge le contrôle de gestion et le volet performance du programme budgétaire dont la direction générale est responsable, le suivi des audits internes et externes.
+
 La sous-direction du pilotage des ressources et des actions transversales comprend :
 
 - le bureau des laboratoires et de la coordination des contrôles officiels ;

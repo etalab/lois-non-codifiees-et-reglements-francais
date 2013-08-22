@@ -10,7 +10,7 @@ La direction générale de l'alimentation comprend :
 
 4. La mission des urgences sanitaires.
 
-5. La mission d'appui au pilotage de la performance.
+5. (Supprimé)
 
 6. La brigade d'enquêtes vétérinaires et phytosanitaires.
 

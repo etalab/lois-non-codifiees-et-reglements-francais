@@ -1805,7 +1805,6 @@
 - [Arrêté du 20 octobre 2010 (IOCA1026919A)](arrete-du-20-octobre-2010-ioca1026919a)
 - [Arrêté du 20 octobre 2010 (JUSF1027049A)](arrete-du-20-octobre-2010-jusf1027049a)
 - [Arrêté du 20 octobre 2010 (SASS1027217A)](arrete-du-20-octobre-2010-sass1027217a)
-- [Arrêté du 20 septembre 2010 (AGRG1024339A)](arrete-du-20-septembre-2010-agrg1024339a)
 - [Arrêté du 20 septembre 2010 (DEVT1023338A)](arrete-du-20-septembre-2010-devt1023338a)
 - [Arrêté du 20 septembre 2010 (ECEI1024074A)](arrete-du-20-septembre-2010-ecei1024074a)
 - [Arrêté du 20 septembre 2010 (ECEP1024127A)](arrete-du-20-septembre-2010-ecep1024127a)
