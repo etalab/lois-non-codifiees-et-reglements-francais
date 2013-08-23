@@ -1,7 +1,5 @@
-# Titre II : Mode de désignation des membres de la commission
+# Chapitre III : Apposition, caractéristique et gestion  des marques auriculaires agréées
 
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
@@ -15,8 +13,3 @@
 - [Article 23](article-23.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
-- [Article 26](article-26.md)
-- [Article 27](article-27.md)
-- [Article 28](article-28.md)
-- [Article 29](article-29.md)
-- [Article 31](article-31.md)

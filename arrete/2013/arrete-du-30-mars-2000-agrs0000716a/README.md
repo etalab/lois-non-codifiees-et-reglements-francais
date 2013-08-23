@@ -2,3 +2,4 @@
 
 - [Titre Ier : Règles de fonctionnement](titre-ier)
 - [Titre II : Mode de désignation des membres de la commission](titre-ii)
+- [Article 32](article-32.md)
