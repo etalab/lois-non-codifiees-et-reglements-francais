@@ -153,7 +153,6 @@
 - [Arrêté du 28 novembre 2000 (EQUS0001855A)](arrete-du-28-novembre-2000-equs0001855a)
 - [Arrêté du 29 décembre 2000 (ECOF0000035A)](arrete-du-29-decembre-2000-ecof0000035a)
 - [Arrêté du 29 novembre 2000 (EQUS0001901A)](arrete-du-29-novembre-2000-equs0001901a)
-- [Arrêté du 30 mars 2000 (AGRS0000716A)](arrete-du-30-mars-2000-agrs0000716a)
 - [Arrêté du 30 octobre 2000 (MESF0011417A)](arrete-du-30-octobre-2000-mesf0011417a)
 - [Arrêté du 31 août 2000 (ECOM9900121A)](arrete-du-31-aout-2000-ecom9900121a)
 - [Arrêté du 31 décembre 1999 (MESS9924029A)](arrete-du-31-decembre-1999-mess9924029a)
