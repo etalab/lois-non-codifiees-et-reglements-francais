@@ -2911,7 +2911,6 @@
 - [Arrêté du 29 décembre 2011 (JUSF1200968A)](arrete-du-29-decembre-2011-jusf1200968a)
 - [Arrêté du 29 décembre 2011 (JUSF1200972A)](arrete-du-29-decembre-2011-jusf1200972a)
 - [Arrêté du 29 décembre 2011 (JUSF1200974A)](arrete-du-29-decembre-2011-jusf1200974a)
-- [Arrêté du 29 décembre 2011 (JUSF1200976A)](arrete-du-29-decembre-2011-jusf1200976a)
 - [Arrêté du 29 décembre 2011 (SPOF1135851A)](arrete-du-29-decembre-2011-spof1135851a)
 - [Arrêté du 29 décembre 2011 (SPOF1135852A)](arrete-du-29-decembre-2011-spof1135852a)
 - [Arrêté du 29 décembre 2011 (SPOF1135854A)](arrete-du-29-decembre-2011-spof1135854a)
