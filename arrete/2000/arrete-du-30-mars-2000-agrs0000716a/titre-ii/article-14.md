@@ -1,0 +1,3 @@
+# Article 14
+
+Sont électeurs, dans le premier collège, les praticiens-conseils visés à l'article 12 ci-dessus, en fonction depuis trois mois avant la date limite fixée pour le vote ; dans le deuxième collège, les praticiens-conseils, visés à l'article 12 ci-dessus, qui sont titulaires. Le recensement des électeurs par collège est effectué par les chefs des services régionaux de l'inspection du travail, de l'emploi et de la politique sociale agricoles. La liste ainsi établie par le chef du service de l'inspection du travail, de l'emploi et de la politique sociale agricoles est envoyée, en deux exemplaires, au ministère de l'agriculture et de la pêche. La liste nationale des électeurs est dressée et arrêtée par le ministre de l'agriculture et de la pêche.
