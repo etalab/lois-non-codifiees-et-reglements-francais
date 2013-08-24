@@ -1108,7 +1108,6 @@
 - [Décret n°92-732 du 30 juillet 1992 (MAEC9200011D)](decret-n92-732-du-30-juillet-1992-maec9200011d)
 - [Décret n°2001-713 du 31 juillet 2001 (DEFD0101573D)](decret-n2001-713-du-31-juillet-2001-defd0101573d)
 - [Décret n°2008-100 du 31 janvier 2008 (IOCE0757931D)](decret-n2008-100-du-31-janvier-2008-ioce0757931d)
-- [Décret n°2008-101 du 31 janvier 2008 (SJSP0771850D)](decret-n2008-101-du-31-janvier-2008-sjsp0771850d)
 - [Décret n°2008-1116 du 31 octobre 2008 (MTST0819438D)](decret-n2008-1116-du-31-octobre-2008-mtst0819438d)
 - [Décret n°2008-1117 du 31 octobre 2008 (MTST0824048D)](decret-n2008-1117-du-31-octobre-2008-mtst0824048d)
 - [Décret n°2008-1120 du 31 octobre 2008 (SJSH0822315D)](decret-n2008-1120-du-31-octobre-2008-sjsh0822315d)
