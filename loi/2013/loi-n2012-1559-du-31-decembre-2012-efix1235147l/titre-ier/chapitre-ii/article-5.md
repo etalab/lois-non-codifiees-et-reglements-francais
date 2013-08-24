@@ -6,4 +6,4 @@ Le rapport détaille notamment l'état du dialogue social au sein du groupe, l'i
 
 Ce rapport identifie les évolutions du financement public et privé des entreprises et leurs conséquences sur les orientations stratégiques de la Banque publique d'investissement ; il identifie les secteurs d'interventions prioritaires et les mécanismes de soutien envisagés sur un horizon pluriannuel.
 
-Ce rapport est également transmis au comité national d'orientation et aux comités régionaux d'orientation visés aux articles 7-2 et 7-3 de l'ordonnance n° 2005-722 du 29 juin 2005 relative à la Banque publique d'investissement.
+Ce rapport est également transmis au comité national d'orientation, aux comités régionaux d'orientation, aux comités territoriaux d'orientation et au comité départemental d'orientation de Mayotte visés aux articles 7-2, 7-3 et 7-4 de l'ordonnance n° 2005-722 du 29 juin 2005 relative à la Banque publique d'investissement.
