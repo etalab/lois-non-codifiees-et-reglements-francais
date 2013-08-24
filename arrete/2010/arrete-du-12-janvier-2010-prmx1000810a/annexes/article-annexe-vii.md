@@ -66,13 +66,17 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </td>
 </tr>
 <tr>
-<td align="left">
-<p align="left">DDTM de la Loire-Atlantique </p>
-</td>
-<td align="left">
-<p>Loire-Atlantique </p>
-<p>Vendée<br/>
+<td>DDTM de la Loire-Atlantique </td>
+<td>Loire-Atlantique <p>Vendée<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>DDT de Vaucluse </td>
+<td>
+<p>Vaucluse</p>
+<p>Alpes-de-Haute-Provence</p>
+<p>Hautes-Alpes</p>
 </td>
 </tr>
 </tbody>
