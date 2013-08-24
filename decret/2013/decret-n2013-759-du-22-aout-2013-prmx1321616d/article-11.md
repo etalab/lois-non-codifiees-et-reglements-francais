@@ -1,0 +1,3 @@
+# Article 11
+
+Le Premier ministre, le ministre des affaires étrangères, la garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre de l'intérieur, la ministre du commerce extérieur, le ministre du redressement productif, le ministre de l'écologie, du développement durable et de l'énergie, le ministre de la défense, la ministre de l'enseignement supérieur et de la recherche, le ministre de l'agriculture, de l'agroalimentaire et de la forêt et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.
