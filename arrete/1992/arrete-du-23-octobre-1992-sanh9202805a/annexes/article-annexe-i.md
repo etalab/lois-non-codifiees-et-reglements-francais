@@ -92,4 +92,6 @@ Institut des sciences de la matière et du rayonnement de Caen,
 
 et un diplôme de troisième cycle obtenu dans une spécialité mentionnée au b ci-dessus.
 
-e) Diplôme universitaire d'ingénieur biomédical et hospitalier délivré conjointement par l'université de technologie de Compiègne et l'Ecole nationale de la santé publique (reconnu comme mastère depuis 1987).
+e) Diplôme universitaire d'ingénieur biomédical et hospitalier délivré conjointement par l'université de technologie de Compiègne et l'Ecole nationale de la santé publique (reconnu comme mastère depuis 1987) ;
+
+Mastère spécialisé "Ingénierie et management des technologies de santé" délivré par l'Ecole des hautes études en santé publique conjointement avec l'université de technologie de Compiègne.
