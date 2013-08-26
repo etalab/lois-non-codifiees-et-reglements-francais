@@ -842,7 +842,6 @@
 - [Décret n°93-1412 du 29 décembre 1993 (ENVP9310069D)](decret-n93-1412-du-29-decembre-1993-envp9310069d)
 - [Décret n°93-720 du 29 mars 1993 (MENT9304962D)](decret-n93-720-du-29-mars-1993-ment9304962d)
 - [Décret n°93-722 du 29 mars 1993 (MENX9310927D)](decret-n93-722-du-29-mars-1993-menx9310927d)
-- [Décret n°93-724 du 29 mars 1993 (MENA9300163D)](decret-n93-724-du-29-mars-1993-mena9300163d)
 - [Décret n°93-725 du 29 mars 1993 (MAEJ9230074D)](decret-n93-725-du-29-mars-1993-maej9230074d)
 - [Décret n°93-727 du 29 mars 1993 (JUSC9220656D)](decret-n93-727-du-29-mars-1993-jusc9220656d)
 - [Décret n°93-729 du 29 mars 1993 (INTB9300215D)](decret-n93-729-du-29-mars-1993-intb9300215d)
