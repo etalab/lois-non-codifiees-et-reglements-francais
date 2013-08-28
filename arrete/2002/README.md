@@ -103,7 +103,6 @@
 - [Arrêté du 4 décembre 2002 (AGRP0202724A)](arrete-du-4-decembre-2002-agrp0202724a)
 - [Arrêté du 4 décembre 2002 (ECOP0201020A)](arrete-du-4-decembre-2002-ecop0201020a)
 - [Arrêté du 4 février 2002 (AGRG0200242A)](arrete-du-4-fevrier-2002-agrg0200242a)
-- [Arrêté du 4 février 2002 (MENA0200262A)](arrete-du-4-fevrier-2002-mena0200262a)
 - [Arrêté du 4 janvier 2002 (AGRG0200035A)](arrete-du-4-janvier-2002-agrg0200035a)
 - [Arrêté du 4 janvier 2002 (MAEA0120487A)](arrete-du-4-janvier-2002-maea0120487a)
 - [Arrêté du 4 janvier 2002 (MAEA0120491A)](arrete-du-4-janvier-2002-maea0120491a)
