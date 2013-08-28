@@ -172,7 +172,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Nouvelles carrières Ouest (NCO)</p>
+<p>C3 consultants</p>
 </td>
 </tr>
 <tr>

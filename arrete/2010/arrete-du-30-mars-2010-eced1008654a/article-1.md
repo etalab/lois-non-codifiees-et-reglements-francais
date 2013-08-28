@@ -390,7 +390,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Groupe OMENDO</p>
+<p align="left">AFDCC</p>
 </td>
 </tr>
 <tr>
