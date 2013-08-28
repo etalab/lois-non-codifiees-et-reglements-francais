@@ -423,6 +423,8 @@
 - [Décret n°2013-667 du 23 juillet 2013 (AGRS1310064D)](decret-n2013-667-du-23-juillet-2013-agrs1310064d)
 - [Décret n°2013-668 du 23 juillet 2013 (RDFF1311667D)](decret-n2013-668-du-23-juillet-2013-rdff1311667d)
 - [Décret n°2013-73 du 23 janvier 2013 (AFSH1230070D)](decret-n2013-73-du-23-janvier-2013-afsh1230070d)
+- [Décret n°2013-767 du 23 août 2013 (MENF1314966D)](decret-n2013-767-du-23-aout-2013-menf1314966d)
+- [Décret n°2013-768 du 23 août 2013 (MENH1315260D)](decret-n2013-768-du-23-aout-2013-menh1315260d)
 - [Décret n°98-651 du 23 juillet 1998 (MESG9821970D)](decret-n98-651-du-23-juillet-1998-mesg9821970d)
 - [Décret n°2013-420 du 23 mai 2013 (PRMX1308552D)](decret-n2013-420-du-23-mai-2013-prmx1308552d)
 - [Décret n°2012-1078 du 24 septembre 2012 (DEVL1221364D)](decret-n2012-1078-du-24-septembre-2012-devl1221364d)
