@@ -1,14 +1,16 @@
 # Article 4
 
-I.-Peuvent se présenter au concours externe les candidats justifiant :
+I. - Peuvent se présenter au concours externe les candidats justifiant :
 
 1° Soit de la licence en psychologie ;
 
-2° Soit d'une qualification reconnue comme équivalente au diplôme mentionné au 1°, conformément au chapitre III du décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique ;
+2° Soit d'un diplôme de l'enseignement supérieur sanctionnant au moins trois années d'études postsecondaires en psychologie délivré dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et reconnu par l'autorité compétente de l'Etat considéré ;
 
-3° Soit de l'un des diplômes permettant de faire usage professionnel du titre de psychologue dont la liste est fixée par le décret du 22 mars 1990 susvisé.
+3° Soit d'un diplôme en psychologie homologué au niveau I ou au niveau II de la nomenclature interministérielle des niveaux de formation ;
 
-II.-Peuvent se présenter au concours interne :
+4° Soit de l'un des autres diplômes permettant de faire usage professionnel du titre de psychologue dont la liste est fixée par le décret du 22 mars 1990 susvisé.
+
+II. - Peuvent se présenter au concours interne :
 
 1° Les fonctionnaires de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, y compris ceux mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière et les militaires ;
 
@@ -18,7 +20,7 @@ II.-Peuvent se présenter au concours interne :
 
 L'ensemble des candidats au concours interne doit justifier de trois années de services publics et de l'un des diplômes requis des candidats au concours externe.
 
-III.-Les conditions mentionnées aux I et II s'apprécient à la date de clôture des registres d'inscription aux concours fixée par arrêté du ministre chargé de l'éducation.
+III. - Les conditions mentionnées aux I et II s'apprécient à la date de clôture des registres d'inscription aux concours fixée par arrêté du ministre chargé de l'éducation.
 
 Les règles d'organisation générale de ces concours, la nature et le programme de l'épreuve ou des épreuves sont fixés par un arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.
 
