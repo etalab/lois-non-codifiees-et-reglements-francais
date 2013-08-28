@@ -442,13 +442,11 @@ Elle a pour but de vérifier que le candidat est capable de mobiliser ses connai
 
 Durée : quatre heures ; coefficient 2.
 
-2° Epreuve de conception préliminaire et modélisation d'un système, d'un procédé ou d'une organisation :
+2° Exploitation pédagogique d'un dossier technique.
 
 L'épreuve est spécifique à l'option choisie.
 
-A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable de synthétiser ses connaissances pour modéliser, valider ou concevoir des solutions constructives ou d'industrialisation d'un système technique dans le domaine de la spécialité du concours dans l'option choisie.
-
-Durée : six heures ; coefficient 1.
+A partir d'un dossier technique fourni au candidat comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, dont le thème est proposé par le jury, relative aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée, et aux enseignements des BTS du domaine considéré ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation) (durée : six heures ; coefficient 1).
 
 B. - Epreuves d'admission
 
