@@ -6,77 +6,83 @@ Intitulé : comptable gestionnaire.
 
 Niveau : III.
 
-Code NSF : 314 P Comptabilité, gestion.
+Code NSF : 314 t-comptabilité, gestion.
 
 Résumé du référentiel d'emploi
 
-Le (la) comptable gestionnaire est responsable de la tenue de la comptabilité et de la mise à disposition des informations de gestion.
+Le (la) comptable gestionnaire est responsable de la tenue de la comptabilité et de la mise à disposition des informations de gestion dans les entreprises et organisations du secteur privé. L'emploi associe des activités d'exécution et de réalisation à des activités de conception, d'organisation, de conseil et parfois d'encadrement.
 
-L'emploi associe des activités d'exécution et de réalisation à des activités de conception, d'organisation, de conseil et parfois d'encadrement.
+Le (la) comptable gestionnaire assure la tenue de la comptabilité jusqu'aux opérations d'inventaire, réalise les travaux de paie courants et les travaux de fin d'exercice comptable, fiscal et social, ainsi que le retraitement des données comptables en normes internationales et des travaux simples de consolidation.
 
-Les domaines d'intervention du (de la) comptable gestionnaire sont la comptabilité, la paie, la fiscalité, la gestion.
+Il (elle) conçoit, met en place et suit le processus budgétaire propre à l'entreprise ; il (elle) conçoit et met en œuvre le calcul des coûts avec la méthode appropriée à l'entreprise et les outils nécessaires au diagnostic de gestion périodique.
 
-En comptabilité, et en fiscalité, le (la) comptable gestionnaire prend en charge la totalité des obligations de l'entreprise en lien avec l'expert-comptable.
+Dans les petites et moyennes entreprises, en assistance directe aux organes de direction, le (la) comptable gestionnaire assure seul (e) ou à la tête d'une petite équipe l'ensemble des travaux de comptabilité et de gestion.
 
-En paie, le (la) comptable gestionnaire prend en charge les travaux courants de paie et de déclarations sociales en lien avec un conseil spécialisé.
+Dans les cabinets d'expertise comptable, sous l'autorité d'un chef de groupe ou de l'expert comptable, le (la) comptable gestionnaire assure la tenue de la comptabilité et effectue les travaux de fin d'exercice des dossiers clients dont il a la charge. En lien avec son supérieur hiérarchique, il (elle) conseille les clients sur les questions de fiscalité, de droit commercial, de droit des sociétés et de gestion budgétaire et financière.
 
-En gestion, le (la) comptable gestionnaire met en œuvre, au contact direct de l'équipe de direction, les outils de contrôle et de prévision adaptés au pilotage de l'entreprise.
+Dans une entreprise de taille intermédiaire, le (la) comptable gestionnaire sera spécialisé (e) sur une activité spécifique et intégré (e) au sein d'une équipe pluridisciplinaire.
 
-Le (la) comptable gestionnaire s'appuie sur les acquis techniques suivants :
+Le (la) comptable gestionnaire est en relation avec les clients, les fournisseurs, les banques et les administrations fiscales et sociales. Son principal interlocuteur interne est le chef d'entreprise ou le responsable d'une division ou d'un établissement.
 
--connaissance approfondie de la réglementation comptable, des techniques d'enregistrement et des méthodes de travail assurant la fiabilité du contrôle interne ;
+Il (elle) réalise ses travaux à l'aide de logiciels de comptabilité courants ou spécifiques en fonction du type d'entreprise. Il (elle) maîtrise les outils bureautiques les plus courants et les modes de communication et de transfert de données via internet. Il (elle) assure une veille fiscale et sociale permanente.
 
--maîtrise de la réglementation fiscale et sociale ;
+Capacités attestées et descriptif des composantes de la certification
 
--maîtrise des techniques courantes de gestion budgétaire et financière ;
+1. Assurer la tenue de la comptabilité et la réalisation des paies courantes
 
--maîtrise d'un logiciel de gestion comptable et d'un logiciel de gestion de la paie.
+Organiser et réaliser les travaux courants de comptabilité.
 
-Dans les petites entreprises, le (la) comptable gestionnaire est fréquemment le (la) seul (e) porteur de la fonction et agit en toute autonomie avec des responsabilités étendues. Dans les cabinets d'expertise comptable ou dans les grandes entreprises son autonomie et son champ de responsabilité sont plus restreints. Dans tous les cas, l'emploi exige la précision et la rigueur nécessaires à un cadre réglementaire strict.
+Organiser et réaliser les travaux d'inventaire et l'arrêté des comptes.
 
-Capacités attestées et descriptif
+Etablir les paies courantes et les déclarations sociales.
 
-des composantes de la certification
+2. Assurer les obligations fiscales et réglementaires
 
-1. Organiser et assurer le traitement des comptes de l'entreprise :
+Etablir les déclarations fiscales périodiques.
 
--organiser et assurer la fiabilité des procédures administratives et comptables ;
+Préparer les retraitements comptables pour l'information interne et externe et la consolidation.
 
--réaliser les travaux comptables et fiscaux périodiques ;
+3. Assurer le traitement des informations de gestion
 
--préparer le retraitement des informations comptables en normes internationales ;
+Analyser le compte de résultat de l'entreprise.
 
--préparer les actes de secrétariat juridique des sociétés commerciales ;
+Analyser le bilan de l'entreprise.
 
--établir la paie et les déclarations sociales.
+Etablir la trésorerie prévisionnelle et les autres budgets.
 
-2. Organiser et assurer le traitement des informations de gestion :
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
--élaborer et suivre des budgets et des documents de synthèse prévisionnels ;
+Tous les secteurs d'activités sont concernés.
 
--déterminer des coûts ;
+Les types d'emploi accessibles sont les suivants :
 
--établir un diagnostic à partir du bilan et du compte de résultat.
-
-Secteur d'activité ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Cet emploi s'exerce dans les entreprises de toutes tailles et dans tous les secteurs d'activité.
+Comptable gestionnaire, comptable, comptable unique, comptable général, agent comptable, collaborateur de cabinet comptable, chef comptable, responsable comptable, responsable comptable et financier.
 
 Codes ROME :
 
-12142-Technicien / technicienne des services comptables.
+M1203-Comptabilité ;
 
-32111-Cadre de la comptabilité.
+M1206-Management de groupe et de service comptable.
 
-Réglementation de l'activité : néant.
+Réglementation de l'activité :
 
-Autorité responsable de la certification : ministère chargé de l'emploi.
+Néant.
+
+Autorité responsable de la certification :
+
+Ministère chargé de l'emploi.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
 Code de l'éducation, notamment les articles L. 335-5, L. 335-6,
 R. 335-13 et R. 338-2 ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 1er janvier 2014.

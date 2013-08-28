@@ -1,9 +1,11 @@
 # Article 3
 
-Le titre professionnel de comptable gestionnaire est composé des deux unités constitutives dont la liste suit :
+Le titre professionnel comptable gestionnaire est composé des trois unités constitutives suivantes :
 
-1. Organiser et assurer le traitement des comptes de l'entreprise ;
+1. Assurer la tenue de la comptabilité et la réalisation des paies courantes.
 
-2. Organiser et assurer le traitement des informations de gestion.
+2. Assurer les obligations fiscales et réglementaires.
+
+3. Assurer le traitement des informations de gestion.
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

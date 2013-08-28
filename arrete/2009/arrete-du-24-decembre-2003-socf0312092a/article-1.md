@@ -1,9 +1,3 @@
 # Article 1
 
-Le titre professionnel technicien(ne) supérieur(e) comptable et financier(ère) est créé.
-
-Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
-
-Il est classé au niveau III de la nomenclature des niveaux de formation, telle que définie à l'article 2 du décret n° 2002-616 du 26 avril 2002 susvisé et dans le domaine d'activité 314 p (code NSF).
-
-Il sera réexaminé par la commission professionnelle consultative compétente dans un délai de cinq années.
+Le titre professionnel de comptable gestionnaire est enregistré au répertoire national des certifications professionnelles pour une durée de cinq ans, au niveau III, et dans le domaine d'activité 314 t (code NSF), à compter du 1er janvier 2014.
