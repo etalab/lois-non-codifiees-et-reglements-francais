@@ -104,7 +104,6 @@
 - [Arrêté du 3 février 2009 (MTSS0902804A)](arrete-du-3-fevrier-2009-mtss0902804a)
 - [Arrêté du 3 février 2009 (PRMX0902459A)](arrete-du-3-fevrier-2009-prmx0902459a)
 - [Arrêté du 3 février 2009 (SASP0902813A)](arrete-du-3-fevrier-2009-sasp0902813a)
-- [Arrêté du 3 juillet 2009 (BCFD0916127A)](arrete-du-3-juillet-2009-bcfd0916127a)
 - [Arrêté du 3 juillet 2009 (DEFH0915565A)](arrete-du-3-juillet-2009-defh0915565a)
 - [Arrêté du 3 juillet 2009 (DEFK0916198A)](arrete-du-3-juillet-2009-defk0916198a)
 - [Arrêté du 3 juillet 2009 (DEVN0913375A)](arrete-du-3-juillet-2009-devn0913375a)
