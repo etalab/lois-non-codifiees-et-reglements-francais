@@ -6,44 +6,46 @@ Groupe I
 
 Direction générale de la sécurité civile et de la gestion des crises :
 
-― chef de service, adjoint au directeur général, chargé de la direction des sapeurs-pompiers.
+- chef de service, adjoint au directeur général, chargé de la direction des sapeurs-pompiers.
 
 Direction générale des collectivités locales :
 
-― chef de service, adjoint au directeur général.
+- chef de service, adjoint au directeur général.
 
 Direction de la modernisation et de l'action territoriale :
 
-― chef de service, adjoint au directeur.
+- chef de service, adjoint au directeur et chef du service de la modernisation de l'action publique.
 
-Délégation générale à l'outre-mer :
+Direction générale des outre-mer :
 
-― chef de service, adjoint au délégué général.
+- chef de service, adjoint au directeur général.
 
-Délégation aux affaires internationales et européennes :
+Direction de l'évaluation de la performance et des affaires financières et immobilières :
 
-― chef de service, délégué aux affaires internationales et européennes.
+- chef du service des affaires financières.
 
-Secrétariat général à l'immigration et à l'intégration :
+Direction générale de la police nationale, direction générale de la gendarmerie nationale, direction générale de la sécurité civile et de la gestion des crises : (1)
 
-― chef de service, adjoint au directeur de l'immigration ;
+- chef du service de l'achat, de l'équipement et de la logistique. (1)
 
-― chef de service, adjoint au directeur de l'accueil, de l'intégration et de la citoyenneté ;
+Direction générale des étrangers en France :
 
-― chef du service de l'asile.
+- chef de service, adjoint au directeur de l'immigration ;
+
+- chef de service, adjoint au directeur de l'accueil, de l'accompagnement et de la nationalité ;
+
+- chef du service de l'asile.
 
 Délégation à la sécurité et à la circulation routières :
 
-― chef de service, adjoint au délégué à la sécurité et à la circulation routières.
+- chef de service, adjoint au délégué à la sécurité et à la circulation routières.
 
 Groupe II
 
-Secrétariat général à l'immigration et à l'intégration :
+Direction générale des étrangers en France :
 
-― chef du service des affaires européennes ;
-
-― chef du service des affaires internationales et du développement solidaire.
+- chef du service de la stratégie et des affaires internationales.
 
 Préfecture de police :
 
-― chef du service des affaires immobilières.
+- chef du service des affaires immobilières.
