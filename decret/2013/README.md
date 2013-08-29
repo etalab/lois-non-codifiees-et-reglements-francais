@@ -540,6 +540,8 @@
 - [Décret n°2013-565 du 26 juin 2013 (TRAA1242038D)](decret-n2013-565-du-26-juin-2013-traa1242038d)
 - [Décret n°2013-567 du 26 juin 2013 (INTC1314995D)](decret-n2013-567-du-26-juin-2013-intc1314995d)
 - [Décret n°2013-568 du 26 juin 2013 (INTJ1304420D)](decret-n2013-568-du-26-juin-2013-intj1304420d)
+- [Décret n°2013-769 du 26 août 2013 (MENE1319860D)](decret-n2013-769-du-26-aout-2013-mene1319860d)
+- [Décret n°2013-770 du 26 août 2013 (JUSB1243698D)](decret-n2013-770-du-26-aout-2013-jusb1243698d)
 - [Décret n°93-582 du 26 mars 1993 (ECOU9300001D)](decret-n93-582-du-26-mars-1993-ecou9300001d)
 - [Décret n°2012-1478 du 27 décembre 2012 (EFIT1224072D)](decret-n2012-1478-du-27-decembre-2012-efit1224072d)
 - [Décret n°2012-1481 du 27 décembre 2012 (AFSH1240451D)](decret-n2012-1481-du-27-decembre-2012-afsh1240451d)
