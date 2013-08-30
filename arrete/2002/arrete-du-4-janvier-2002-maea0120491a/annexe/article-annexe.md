@@ -3,36 +3,23 @@
 <table>
 <tbody>
 <tr>
-<th>PAYS <br/>
-</th>
-<th>
-<br/>ISVL G1 <br/>
-</th>
-<th>
-<br/>ISVL G2 <br/>
-</th>
-<th>
-<br/>ISVL G3 <br/>
-</th>
-<th>
-<br/>ISVL G4 <br/>
-</th>
-<th>
-<br/>ISVL G5 <br/>
-</th>
-<th>
-<br/>ISVL G6 <br/>
-</th>
-<th>
-<br/>ISVL G7 <br/>
-</th>
-<th>
-<br/>ISVL G8 <br/>
-</th>
+<td>
+<p align="center"> PAYS </p>
+</td>
+<td> ISVL G1 </td>
+<td> ISVL G2 </td>
+<td> ISVL G3 </td>
+<td> ISVL G4 </td>
+<td> ISVL G5 </td>
+<td> ISVL G6 </td>
+<td>
+<br/>ISVL G7<br/>
+</td>
+<td> ISVL G8</td>
 </tr>
 <tr>
 <td align="center">
-<p>AFRIQUE DU SUD (autres villes) </p>
+<p align="left">AFRIQUE DU SUD (autres villes) </p>
 </td>
 <td align="center">
 <br/>8 660 <br/>
@@ -61,7 +48,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>AFRIQUE DU SUD (Johannesburg, Pretoria) </p>
+<p align="left">AFRIQUE DU SUD (Johannesburg, Pretoria) </p>
 </td>
 <td align="center">
 <br/>9 394 <br/>
@@ -90,7 +77,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALGÉRIE </p>
+<p align="left">ALGÉRIE </p>
 </td>
 <td align="center">
 <br/>23 481 <br/>
@@ -119,7 +106,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Berlin) </p>
+<p align="left">ALLEMAGNE (Berlin) </p>
 </td>
 <td align="center">
 <br/>8 449 <br/>
@@ -148,7 +135,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Bonn) </p>
+<p align="left">ALLEMAGNE (Bonn) </p>
 </td>
 <td align="center">
 <br/>8 449 <br/>
@@ -177,7 +164,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Düsseldorf) </p>
+<p align="left">ALLEMAGNE (Düsseldorf) </p>
 </td>
 <td align="center">
 <br/>8 539 <br/>
@@ -206,7 +193,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Francfort) </p>
+<p align="left">ALLEMAGNE (Francfort) </p>
 </td>
 <td align="center">
 <br/>8 449 <br/>
@@ -235,7 +222,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Fribourg) </p>
+<p align="left">ALLEMAGNE (Fribourg) </p>
 </td>
 <td align="center">
 <br/>8 449 <br/>
@@ -264,7 +251,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Hambourg) </p>
+<p align="left">ALLEMAGNE (Hambourg) </p>
 </td>
 <td align="center">
 <br/>8 539 <br/>
@@ -293,7 +280,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Heidelberg) </p>
+<p align="left">ALLEMAGNE (Heidelberg) </p>
 </td>
 <td align="center">
 <br/>8 449 <br/>
@@ -322,7 +309,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Munich) </p>
+<p align="left">ALLEMAGNE (Munich) </p>
 </td>
 <td align="center">
 <br/>8 715 <br/>
@@ -351,7 +338,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Sarrebruck) </p>
+<p align="left">ALLEMAGNE (Sarrebruck) </p>
 </td>
 <td align="center">
 <br/>8 192 <br/>
@@ -380,7 +367,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ALLEMAGNE (Stuttgart) </p>
+<p align="left">ALLEMAGNE (Stuttgart) </p>
 </td>
 <td align="center">
 <br/>8 449 <br/>
@@ -409,7 +396,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ANGOLA </p>
+<p align="left">ANGOLA </p>
 </td>
 <td align="center">
 <br/>61 071 <br/>
@@ -438,7 +425,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ARABIE SAOUDITE (Riyad) </p>
+<p align="left">ARABIE SAOUDITE (Riyad) </p>
 </td>
 <td align="center">
 <br/>43 201 <br/>
@@ -467,7 +454,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ARGENTINE </p>
+<p align="left">ARGENTINE </p>
 </td>
 <td align="center">
 <br/>14 355 <br/>
@@ -496,7 +483,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>AUSTRALIE </p>
+<p align="left">AUSTRALIE </p>
 </td>
 <td align="center">
 <br/>21 888 <br/>
@@ -525,7 +512,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>AUTRICHE </p>
+<p align="left">AUTRICHE </p>
 </td>
 <td align="center">
 <br/>10 886 <br/>
@@ -554,7 +541,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BANGLADESH </p>
+<p align="left">BANGLADESH </p>
 </td>
 <td align="center">
 <br/>17 292 <br/>
@@ -583,7 +570,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BELGIQUE (Anvers) </p>
+<p align="left">BELGIQUE (Anvers) </p>
 </td>
 <td align="center">
 <br/>7 673 <br/>
@@ -612,7 +599,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BELGIQUE (Bruxelles) </p>
+<p align="left">BELGIQUE (Bruxelles) </p>
 </td>
 <td align="center">
 <br/>7 673 <br/>
@@ -641,7 +628,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BÉNIN </p>
+<p align="left">BÉNIN </p>
 </td>
 <td align="center">
 <br/>9 060 <br/>
@@ -670,7 +657,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BOLIVIE </p>
+<p align="left">BOLIVIE </p>
 </td>
 <td align="center">
 <br/>12 878 <br/>
@@ -699,7 +686,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BRÉSIL (Brasilia) </p>
+<p align="left">BRÉSIL (Brasilia) </p>
 </td>
 <td align="center">
 <br/>18 336 <br/>
@@ -728,7 +715,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BRÉSIL (Rio) </p>
+<p align="left">BRÉSIL (Rio) </p>
 </td>
 <td align="center">
 <br/>18 336 <br/>
@@ -757,7 +744,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BRÉSIL (São Paulo) </p>
+<p align="left">BRÉSIL (São Paulo) </p>
 </td>
 <td align="center">
 <br/>18 336 <br/>
@@ -786,7 +773,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BULGARIE </p>
+<p align="left">BULGARIE </p>
 </td>
 <td align="center">
 <br/>9 063 <br/>
@@ -815,7 +802,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>BURKINA FASO </p>
+<p align="left">BURKINA FASO </p>
 </td>
 <td align="center">
 <br/>9 613 <br/>
@@ -844,7 +831,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CAMBODGE </p>
+<p align="left">CAMBODGE </p>
 </td>
 <td align="center">
 <br/>9 972 <br/>
@@ -873,7 +860,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CAMEROUN (Douala) </p>
+<p align="left">CAMEROUN (Douala) </p>
 </td>
 <td align="center">
 <br/>13 795 <br/>
@@ -902,7 +889,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CAMEROUN (Yaoundé) </p>
+<p align="left">CAMEROUN (Yaoundé) </p>
 </td>
 <td align="center">
 <br/>12 539 <br/>
@@ -931,7 +918,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CANADA (Calgary) </p>
+<p align="left">CANADA (Calgary) </p>
 </td>
 <td align="center">
 <br/>16 213 <br/>
@@ -960,7 +947,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CANADA (Montréal) </p>
+<p align="left">CANADA (Montréal) </p>
 </td>
 <td align="center">
 <br/>13 663 <br/>
@@ -989,7 +976,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CANADA (Ottawa) </p>
+<p align="left">CANADA (Ottawa) </p>
 </td>
 <td align="center">
 <br/>13 663 <br/>
@@ -1018,7 +1005,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CANADA (Québec) </p>
+<p align="left">CANADA (Québec) </p>
 </td>
 <td align="center">
 <br/>13 663 <br/>
@@ -1047,7 +1034,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CANADA (Toronto) </p>
+<p align="left">CANADA (Toronto) </p>
 </td>
 <td align="center">
 <br/>15 239 <br/>
@@ -1076,7 +1063,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CHILI </p>
+<p align="left">CHILI </p>
 </td>
 <td align="center">
 <br/>12 852 <br/>
@@ -1105,7 +1092,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CHINE (Hong Kong) </p>
+<p align="left">CHINE (Hong Kong) </p>
 </td>
 <td align="center">
 <br/>42 934 <br/>
@@ -1134,7 +1121,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CHINE (Pékin) </p>
+<p align="left">CHINE (Pékin) </p>
 </td>
 <td align="center">
 <br/>27 393 <br/>
@@ -1163,7 +1150,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CHINE (Shanghai) </p>
+<p align="left">CHINE (Shanghai) </p>
 </td>
 <td align="center">
 <br/>26 019 <br/>
@@ -1192,7 +1179,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CHYPRE </p>
+<p align="left">CHYPRE </p>
 </td>
 <td align="center">
 <br/>5 439 <br/>
@@ -1221,7 +1208,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>COLOMBIE </p>
+<p align="left">COLOMBIE </p>
 </td>
 <td align="center">
 <br/>16 423 <br/>
@@ -1250,7 +1237,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>COMORES </p>
+<p align="left">COMORES </p>
 </td>
 <td align="center">
 <br/>19 197 <br/>
@@ -1279,7 +1266,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CONGO (Brazzaville) </p>
+<p align="left">CONGO (Brazzaville) </p>
 </td>
 <td align="center">
 <br/>18 728 <br/>
@@ -1308,7 +1295,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CONGO (Pointe-Noire) </p>
+<p align="left">CONGO (Pointe-Noire) </p>
 </td>
 <td align="center">
 <br/>18 728 <br/>
@@ -1337,7 +1324,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CORÉE DU SUD </p>
+<p align="left">CORÉE DU SUD </p>
 </td>
 <td align="center">
 <br/>35 024 <br/>
@@ -1366,7 +1353,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>COSTA RICA </p>
+<p align="left">COSTA RICA </p>
 </td>
 <td align="center">
 <br/>9 304 <br/>
@@ -1395,7 +1382,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CROATIE </p>
+<p align="left">CROATIE </p>
 </td>
 <td align="center">
 <br/>7 357 <br/>
@@ -1424,7 +1411,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>CUBA </p>
+<p align="left">CUBA </p>
 </td>
 <td align="center">
 <br/>11 722 <br/>
@@ -1453,7 +1440,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>DANEMARK </p>
+<p align="left">DANEMARK </p>
 </td>
 <td align="center">
 <br/>16 489 <br/>
@@ -1482,7 +1469,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>DJIBOUTI </p>
+<p align="left">DJIBOUTI </p>
 </td>
 <td align="center">
 <br/>18 889 <br/>
@@ -1511,7 +1498,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ÉGYPTE </p>
+<p align="left">ÉGYPTE </p>
 </td>
 <td align="center">
 <br/>14 943 <br/>
@@ -1540,7 +1527,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ÉMIRATS ARABES UNIS (Abu Dhabi) </p>
+<p align="left">ÉMIRATS ARABES UNIS (Abu Dhabi) </p>
 </td>
 <td align="center">
 <br/>26 688 <br/>
@@ -1569,7 +1556,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ÉMIRATS ARABES UNIS (autres villes) </p>
+<p align="left">ÉMIRATS ARABES UNIS (autres villes) </p>
 </td>
 <td align="center">
 <br/>26 504 <br/>
@@ -1598,7 +1585,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ÉQUATEUR </p>
+<p align="left">ÉQUATEUR </p>
 </td>
 <td align="center">
 <br/>10 078 <br/>
@@ -1627,7 +1614,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Alicante) </p>
+<p align="left">ESPAGNE (Alicante) </p>
 </td>
 <td align="center">
 <br/>7 724 <br/>
@@ -1656,7 +1643,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Barcelone) </p>
+<p align="left">ESPAGNE (Barcelone) </p>
 </td>
 <td align="center">
 <br/>8 072 <br/>
@@ -1685,7 +1672,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Bilbao) </p>
+<p align="left">ESPAGNE (Bilbao) </p>
 </td>
 <td align="center">
 <br/>8 072 <br/>
@@ -1714,7 +1701,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Ibiza) </p>
+<p align="left">ESPAGNE (Ibiza) </p>
 </td>
 <td align="center">
 <br/>7 716 <br/>
@@ -1743,7 +1730,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Madrid) </p>
+<p align="left">ESPAGNE (Madrid) </p>
 </td>
 <td align="center">
 <br/>8 072 <br/>
@@ -1772,7 +1759,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Malaga) </p>
+<p align="left">ESPAGNE (Malaga) </p>
 </td>
 <td align="center">
 <br/>7 716 <br/>
@@ -1801,7 +1788,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Valence) </p>
+<p align="left">ESPAGNE (Valence) </p>
 </td>
 <td align="center">
 <br/>7 716 <br/>
@@ -1830,7 +1817,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ESPAGNE (Villanueva) </p>
+<p align="left">ESPAGNE (Villanueva) </p>
 </td>
 <td align="center">
 <br/>8 072 <br/>
@@ -1859,7 +1846,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ÉTHIOPIE </p>
+<p align="left">ÉTHIOPIE </p>
 </td>
 <td align="center">
 <br/>12 184 <br/>
@@ -1888,7 +1875,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>FINLANDE </p>
+<p align="left">FINLANDE </p>
 </td>
 <td align="center">
 <br/>6 590 <br/>
@@ -1917,7 +1904,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GABON (Libreville) </p>
+<p align="left">GABON (Libreville) </p>
 </td>
 <td align="center">
 <br/>15 542 <br/>
@@ -1946,7 +1933,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GABON (Port-Gentil) </p>
+<p align="left">GABON (Port-Gentil) </p>
 </td>
 <td align="center">
 <br/>15 542 <br/>
@@ -1975,7 +1962,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GAMBIE </p>
+<p align="left">GAMBIE </p>
 </td>
 <td align="center">
 <br/>8 362 <br/>
@@ -2004,7 +1991,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GÉORGIE </p>
+<p align="left">GÉORGIE </p>
 </td>
 <td align="center">
 <br/>8 144 <br/>
@@ -2033,7 +2020,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GHANA </p>
+<p align="left">GHANA </p>
 </td>
 <td align="center">
 <br/>9 679 <br/>
@@ -2062,7 +2049,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GRÈCE (Athènes) </p>
+<p align="left">GRÈCE (Athènes) </p>
 </td>
 <td align="center">
 <br/>5 521 <br/>
@@ -2091,7 +2078,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GUATEMALA </p>
+<p align="left">GUATEMALA </p>
 </td>
 <td align="center">
 <br/>13 628 <br/>
@@ -2120,7 +2107,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GUINÉE </p>
+<p align="left">GUINÉE </p>
 </td>
 <td align="center">
 <br/>22 822 <br/>
@@ -2149,7 +2136,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>GUINÉE ÉQUATORIALE </p>
+<p align="left">GUINÉE ÉQUATORIALE </p>
 </td>
 <td align="center">
 <br/>37 820 <br/>
@@ -2178,7 +2165,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>HAÏTI </p>
+<p align="left">HAÏTI </p>
 </td>
 <td align="center">
 <br/>25 518 <br/>
@@ -2207,7 +2194,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>HONDURAS </p>
+<p align="left">HONDURAS </p>
 </td>
 <td align="center">
 <br/>13 099 <br/>
@@ -2236,7 +2223,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>HONGRIE </p>
+<p align="left">HONGRIE </p>
 </td>
 <td align="center">
 <br/>8 879 <br/>
@@ -2264,8 +2251,37 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">INDE (Bombay)</p>
+</td>
+<td>
+<p align="center">9 800</p>
+</td>
+<td>
+<p align="center">8 251</p>
+</td>
+<td>
+<p align="center">7 425</p>
+</td>
+<td>
+<p align="center">6 807</p>
+</td>
+<td>
+<p align="center">6 530</p>
+</td>
+<td>
+<p align="center">5 439</p>
+</td>
+<td>
+<p align="center">5 007</p>
+</td>
+<td>
+<p align="center">4 678</p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p>INDE (New Delhi) </p>
+<p align="left">INDE (New Delhi) </p>
 </td>
 <td align="center">
 <br/>9 804 <br/>
@@ -2294,7 +2310,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>INDE (Pondichéry) </p>
+<p align="left">INDE (Pondichéry) </p>
 </td>
 <td align="center">
 <br/>9 516 <br/>
@@ -2323,7 +2339,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>INDONÉSIE </p>
+<p align="left">INDONÉSIE </p>
 </td>
 <td align="center">
 <br/>11 562 <br/>
@@ -2352,7 +2368,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>IRAN </p>
+<p align="left">IRAN </p>
 </td>
 <td align="center">
 <br/>27 911 <br/>
@@ -2381,7 +2397,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>IRLANDE </p>
+<p align="left">IRLANDE </p>
 </td>
 <td align="center">
 <br/>11 781 <br/>
@@ -2410,7 +2426,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ISRAËL </p>
+<p align="left">ISRAËL </p>
 </td>
 <td align="center">
 <br/>12 391 <br/>
@@ -2439,7 +2455,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ITALIE (Milan) </p>
+<p align="left">ITALIE (Milan) </p>
 </td>
 <td align="center">
 <br/>8 410 <br/>
@@ -2468,7 +2484,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ITALIE (Naples) </p>
+<p align="left">ITALIE (Naples) </p>
 </td>
 <td align="center">
 <br/>8 410 <br/>
@@ -2497,7 +2513,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ITALIE (Rome) </p>
+<p align="left">ITALIE (Rome) </p>
 </td>
 <td align="center">
 <br/>8 568 <br/>
@@ -2526,7 +2542,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>ITALIE (Turin) </p>
+<p align="left">ITALIE (Turin) </p>
 </td>
 <td align="center">
 <br/>8 253 <br/>
