@@ -403,7 +403,6 @@
 - [Arrêté du 18 mars 2002 (ECOC0200013A)](arrete-du-18-mars-2002-ecoc0200013a)
 - [Arrêté du 18 mars 2002 (ECOT0226297A)](arrete-du-18-mars-2002-ecot0226297a)
 - [Arrêté du 18 mars 2002 (MENE0200545A)](arrete-du-18-mars-2002-mene0200545a)
-- [Arrêté du 18 novembre 2002 (INTC0200554A)](arrete-du-18-novembre-2002-intc0200554a)
 - [Arrêté du 18 octobre 2002 (AGRB0202158A)](arrete-du-18-octobre-2002-agrb0202158a)
 - [Arrêté du 18 octobre 2002 (BUDD0270049A)](arrete-du-18-octobre-2002-budd0270049a)
 - [Arrêté du 18 octobre 2002 (SANA0222826A)](arrete-du-18-octobre-2002-sana0222826a)
