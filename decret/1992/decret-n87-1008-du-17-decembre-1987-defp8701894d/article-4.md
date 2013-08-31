@@ -1,15 +1,17 @@
 # Article 4
 
-Un conseil de discipline est mis en place dans chaque établissement employant au moins cent agents à statut ouvrier ou quatre cents personnels civils ou militaires dont cinquante agents à statut ouvrier.
+Il est institué un conseil de discipline dans chaque centre ministériel de gestion et dans chaque commandement supérieur d'outre-mer. Ce conseil de discipline est compétent à l'égard des ouvriers, chefs d'équipe et techniciens à statut ouvrier en fonctions dans les établissements implantés dans le ressort du centre ministériel de gestion ou du commandement supérieur d'outre-mer correspondant.
 
-Il est composé comme suit :
+Il est présidé par le directeur du centre ministériel de gestion ou le commandant supérieur d'outre-mer ou leur représentant.
 
--le directeur de l'établissement ou son représentant, président ;
+Il comprend, outre son président :
 
--deux officiers ou fonctionnaires de catégorie A en fonctions dans l'établissement, désignés par le directeur de cet établissement, membres ;
+- un représentant de l'employeur dans le ressort du centre ministériel de gestion ou un officier ou fonctionnaire de catégorie A en fonctions dans le ressort territorial du commandement supérieur d'outre-mer. En l'absence de représentant de l'employeur dans le centre ministériel de gestion, un officier ou fonctionnaire de catégorie A en fonctions dans le ressort territorial correspondant peut être désigné ;
 
--trois agents à statut ouvrier en fonctions dans l'établissement, membres.
+- un officier ou fonctionnaire de catégorie A en fonctions dans un ou plusieurs établissements implantés dans le ressort territorial du centre ministériel de gestion ou du commandement supérieur d'outre-mer ;
 
-Les membres représentant le personnel, au nombre de trois titulaires et de trois suppléants, sont désignés par les syndicats, constitués et reconnus les plus représentatifs dans l'établissement au vu des suffrages exprimés par les agents à statut ouvrier, lors des dernières élections des représentants du personnel aux comités d'hygiène, de sécurité et des conditions de travail.
+- trois représentants d'agents à statut ouvrier en fonctions dans un ou plusieurs établissements implantés dans le ressort de compétence du centre ministériel de gestion ou du commandement supérieur d'outre-mer.
 
-Un conseil de discipline, constitué dans les conditions définies ci-dessus, est mis en place au sein du service parisien de soutien de l'administration centrale. Il est compétent à l'égard du personnel à statut ouvrier affecté en administration centrale du ministère de la défense ainsi qu'au centre automobile de la défense géré par ce service. Le chef du service parisien de soutien de l'administration centrale exerce à l'égard du personnel précité toutes les attributions dévolues par le présent décret aux directeurs d'établissement.
+Les membres représentant le personnel, au nombre de trois titulaires et de trois suppléants, sont désignés par les trois syndicats ayant obtenu les meilleurs résultats lors des élections aux commissions d'avancement des ouvriers de l'Etat et aux commissions d'avancement des techniciens à statut ouvrier dans le ressort du centre ministériel de gestion ou du commandement supérieur d'outre-mer.
+
+Le directeur de l'établissement dans lequel l'ouvrier est en fonction ou son représentant siège au conseil de discipline avec voix consultative.

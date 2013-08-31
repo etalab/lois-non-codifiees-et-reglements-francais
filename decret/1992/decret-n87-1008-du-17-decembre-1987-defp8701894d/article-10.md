@@ -4,7 +4,7 @@ L'agent à statut ouvrier passible d'une sanction doit être entendu par le dire
 
 Lorsque la sanction envisagée est un avertissement, l'agent peut, lors de cette audition, se faire assister par une personne choisie parmi les agents de l'établissement.
 
-Lorsque la sanction envisagée est d'un niveau supérieur à l'avertissement, l'ouvrier peut également se faire assister, à l'occasion de son audition par le directeur de l'établissement ainsi que lors de sa comparution éventuelle devant le conseil de discipline, et choisir son conseil parmi les agents de l'établissement, les délégués syndicaux exerçant leur mandat à l'échelon de cet établissement ou de la région de rattachement et les membres du barreau.
+Lorsque la sanction envisagée est d'un niveau supérieur à l'avertissement, l'ouvrier peut également se faire assister, à l'occasion de son audition par le directeur de l'établissement ainsi que lors de sa comparution éventuelle devant le conseil de discipline, et choisir son conseil parmi les agents de l'établissement, les délégués syndicaux exerçant leur mandat à l'échelon de cet établissement, ou de la base de défense de rattachement, ou du centre ministériel de gestion de rattachement et les membres du barreau.
 
 Dans tous les cas, la personne qui assiste l'ouvrier est habilitée à prendre connaissance du dossier de ce dernier.
 
