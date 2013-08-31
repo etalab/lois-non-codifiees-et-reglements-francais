@@ -1,12 +1,10 @@
 # Article Annexe II
 
-Annexe II
-
 Les périodes de formation en milieu professionnel
 
 Période de formation en milieu professionnel
 
-Option  à domicile
+Option à domicile
 
 1. Objectifs et durée
 
@@ -42,7 +40,7 @@ Conformément à la législation en vigueur, les candidats doivent satisfaire au
 
 2. Organisation de la période de formation en milieu professionnel dans les différentes voies
 
-2. 1 Voie scolaire
+2.1 Voie scolaire
 
 L'organisation de la formation en milieu professionnel fait obligatoirement l'objet d'une convention entre l'établissement de formation et l'entreprise d'accueil. Cette convention est établie conformément à celle définie par la note de service n° 2008-176 du 24-12-2008 (BOEN n° 2 du 8 janvier 2009).
 
@@ -72,7 +70,7 @@ Seize semaines sont réparties en première et terminale dont huit semaines mini
 
 Dix semaines, au moins, se déroulent dans le secteur de l'aide et/ou du maintien à domicile et servent de support aux évaluations des épreuves E13 et E3 du baccalauréat professionnel.
 
-2. 2 Voie de l'apprentissage
+2.2 Voie de l'apprentissage
 
 La formation fait l'objet d'un contrat conclu entre l'apprenti et son employeur conformément aux dispositions en vigueur du code du travail.
 
@@ -80,9 +78,9 @@ Afin d'assurer la cohérence dans la formation, l'équipe pédagogique du centre
 
 Il est important que les divers aspects de la formation en milieu professionnel soient effectués par l'apprenti. En cas de situation d'entreprise n'offrant pas tous les aspects de la formation, l'article R 6223-10 du code du travail sera mis en application.
 
-2. 3 Voie de la formation professionnelle continue
+2.3 Voie de la formation professionnelle continue
 
-2. 3. 1 Candidat en situation de première formation pour ce diplôme ou de reconversion
+2.3.1 Candidat en situation de première formation pour ce diplôme ou de reconversion
 
 La durée de la formation en milieu professionnel (22 semaines) s'ajoute aux durées de formation dispensées dans le centre de formation continue conformément au règlement général des baccalauréats professionnels qui précise par ailleurs les durées minimales de formation nécessaires pour les candidats de la formation professionnelle continue.
 
@@ -92,11 +90,11 @@ Lorsque cette formation s'effectue dans le cadre d'un contrat de travail de type
 
 Il appartient au centre de formation continue de mettre en œuvre les moyens qui assurent l'acquisition des compétences que le stagiaire ne peut pas acquérir en entreprise.
 
-2. 3. 2 Candidat en situation de perfectionnement
+2.3.2 Candidat en situation de perfectionnement
 
 Les attestations de formation en milieu professionnel sont remplacées par un ou plusieurs certificats de travail attestant que l'intéressé a exercé les activités dans un ou plusieurs secteurs d'activités du baccalauréat en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
 
-2. 4 Candidat qui se présente au titre de trois années d'expérience professionnelle
+2.4 Candidat qui se présente au titre de trois années d'expérience professionnelle
 
 Le candidat doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant aux objectifs du baccalauréat professionnel. Le candidat produit ses certificats de travail pour l'inscription à l'examen.
 
@@ -136,7 +134,7 @@ Conformément à la législation en vigueur, les candidats doivent satisfaire au
 
 2. Organisation de la période de formation en milieu professionnel dans les différentes voies
 
-2. 1 Voie scolaire
+2.1 Voie scolaire
 
 L'organisation de la formation en milieu professionnel fait obligatoirement l'objet d'une convention entre l'établissement de formation et l'entreprise d'accueil. Cette convention est établie conformément à celle définie par la note de service n° 2008-176 du 24-12-2008 (BOEN n° 2 du 8 janvier 2009).
 
@@ -162,13 +160,13 @@ Six semaines sont effectuées en classe de seconde : elles sont le support d'une
 
 Seize semaines sont réparties en classes de première et terminale dont huit semaines minimum en année terminale.
 
-Les douze dernières semaines, au moins, se déroulent en établissements de santé, en structures médico-sociales et, selon le projet professionnel de l'élève, peuvent se dérouler en écoles élémentaires.
+Les douze dernières semaines, au moins, se déroulent en établissements de santé, en structures médico-sociales ou sociales, en structures d'accueil collectif de la petite enfance, en écoles maternelles et, selon le projet professionnel de l'élève, peuvent se dérouler en écoles élémentaires.
 
 Sur les seize semaines, dix semaines au moins doivent se dérouler auprès d'adultes non autonomes.
 
 Les douze dernières semaines servent de support aux évaluations des épreuves E13 et E3 du baccalauréat professionnel.
 
-2. 2 Voie de l'apprentissage
+2.2 Voie de l'apprentissage
 
 La formation fait l'objet d'un contrat conclu entre l'apprenti et son employeur conformément aux dispositions en vigueur du code du travail.
 
@@ -176,9 +174,9 @@ Afin d'assurer la cohérence dans la formation, l'équipe pédagogique du centre
 
 Il est important que les divers aspects de la formation en milieu professionnel soient effectués par l'apprenti. En cas de situation d'entreprise n'offrant pas tous les aspects de la formation, l'article R 6223-10 du code du travail sera mis en application.
 
-2. 3 Voie de la formation professionnelle continue
+2.3 Voie de la formation professionnelle continue
 
-2. 3. 1 Candidat en situation de première formation pour ce diplôme ou de reconversion
+2.3.1 Candidat en situation de première formation pour ce diplôme ou de reconversion
 
 La durée de la formation en milieu professionnel (22 semaines) s'ajoute aux durées de formation dispensées dans le centre de formation continue conformément au règlement général des baccalauréats professionnels qui précise par ailleurs les durées minimales de formation nécessaires pour les candidats de la formation professionnelle continue.
 
@@ -188,10 +186,10 @@ Il appartient au centre de formation continue de mettre en œuvre les moyens qui
 
 Les modalités de formation en milieu professionnel sont les mêmes que pour les candidats scolaires.
 
-2. 3. 2 Candidat en situation de perfectionnement
+2.3.2 Candidat en situation de perfectionnement
 
 Les attestations de formation en milieu professionnel sont remplacées par un ou plusieurs certificats de travail attestant que l'intéressé a exercé les activités dans un ou plusieurs secteurs d'activités du baccalauréat en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
 
-2. 4 Candidat qui se présente au titre de trois années d'expérience professionnelle
+2.4 Candidat qui se présente au titre de trois années d'expérience professionnelle
 
 Le candidat doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant aux objectifs du baccalauréat professionnel pour lequel il s'inscrit. Le candidat produit ses certificats de travail pour l'inscription à l'examen.

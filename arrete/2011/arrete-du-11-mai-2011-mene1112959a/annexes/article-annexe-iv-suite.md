@@ -914,7 +914,7 @@ La sous-épreuve doit permettre de vérifier que le candidat est capable :
 
 - de développer les étapes de la mise en œuvre de l'action.
 
-Cette sous-épreuve prend appui sur un dossier élaboré par le candidat, au cours de sa formation en milieu professionnel ou de son expérience professionnelle dans le secteur d'activités, il doit s'appuyer sur des actions menées individuellement ou collectivement.
+Cette sous-épreuve prend appui sur un dossier élaboré par le candidat, au cours de sa formation ou de son expérience professionnelle dans le secteur d'activité ; il doit s'appuyer sur des actions menées individuellement ou collectivement.
 
 Le dossier, de 10 à 15 pages, annexes non comprises, présente :
 
