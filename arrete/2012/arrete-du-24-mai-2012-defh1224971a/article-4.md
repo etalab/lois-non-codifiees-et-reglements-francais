@@ -4,9 +4,9 @@ La composition de ce comité est fixée comme suit :
 
 a) représentants de l'administration :
 
-― le chef du contrôle général des armées ou son représentant qui en assure la présidence ;
+- le chef du service parisien de soutien de l'administration centrale ;
 
-― les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
+- les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
 
 b) Représentants du personnel : 4 membres titulaires et 4 membres suppléants dont la répartition est la suivante :
 
