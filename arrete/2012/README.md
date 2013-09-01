@@ -3210,7 +3210,6 @@
 - [Arrêté du 31 juillet 2012 (DEVA1209108A)](arrete-du-31-juillet-2012-deva1209108a)
 - [Arrêté du 31 juillet 2012 (DEVP1227565A)](arrete-du-31-juillet-2012-devp1227565a)
 - [Arrêté du 31 juillet 2012 (ESRS1222725A)](arrete-du-31-juillet-2012-esrs1222725a)
-- [Arrêté du 31 juillet 2012 (ESRS1228243A)](arrete-du-31-juillet-2012-esrs1228243a)
 - [Arrêté du 31 juillet 2012 (ESRS1228718A)](arrete-du-31-juillet-2012-esrs1228718a)
 - [Arrêté du 31 juillet 2012 (ESRS1228720A)](arrete-du-31-juillet-2012-esrs1228720a)
 - [Arrêté du 31 juillet 2012 (ETSD1231535A)](arrete-du-31-juillet-2012-etsd1231535a)
