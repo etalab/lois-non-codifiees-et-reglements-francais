@@ -339,6 +339,14 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <p>Phtalocyanine contenant du cuivre, polychloro (Pigment Green 7 ; CI 74260) (CAS : 1328-53-6 ; EINECS : 215-524-7) en cas d'utilisation comme substance dans les teintures capillaires. </p>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center">1373</p>
+</td>
+<td>
+<p align="left">N-(2-Nitro-4-aminophényl)-allylamine (HC Red No. 16) et ses sels (n° CAS : 160219-76-1)</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
