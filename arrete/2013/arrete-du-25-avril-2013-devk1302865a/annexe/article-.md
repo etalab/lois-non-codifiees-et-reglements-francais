@@ -5,132 +5,208 @@ FORMATION SUIVIE À TITRE PRINCIPAL
 <table>
 <tbody>
 <tr>
-<td align="center">Formation conduisant au diplôme d'ingénieur<br/>de l'Ecole nationale des ponts et chaussées<br/>
-</td>
-<td align="center">Taux plein<br/>(en euros)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">1re année<br/>
-</td>
-<td align="center">1 302,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2e année<br/>
-</td>
-<td align="center">1 302,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Stage long<br/>
-</td>
-<td align="center">844,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3e année<br/>
-</td>
-<td align="center">1 302,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Mais si effectuée à l'extérieur dans le cadre d'un accord d'échange<br/>
-</td>
-<td align="center">596,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Mais si effectuée à l'extérieur hors du cadre d'un accord d'échange<br/>
-</td>
-<td align="center">844,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Prolongation inférieure à six mois avec accord d'échange<br/>
-</td>
-<td align="center">298,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Prolongation inférieure à six mois hors accord d'échange<br/>
-</td>
-<td align="center">546,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Formation complémentaire intégrée<br/>
+<td align="center">
+<p align="center">
+<br/>Formation conduisant au diplôme d'ingénieur de l'Ecole nationale des ponts et chaussées<br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<br/>Taux plein <p>(en euros)<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Ingénieurs-élèves des ponts, des eaux et des forêts<br/>
-</td>
-<td align="center">706,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Autres élèves<br/>
-</td>
-<td align="center">1 302,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Formation conduisant au diplôme de docteur<br/>de l'Ecole nationale des ponts et chaussées<br/>
+<td align="center">
+<p align="left">
+<br/>1re année<br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<br/>1 351,00<br/>
 </td>
 </tr>
 <tr>
-<td align="center">1re année<br/>
-</td>
-<td align="center">380,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2e année<br/>
-</td>
-<td align="center">380,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3e année<br/>
-</td>
-<td align="center">380,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Toutes années ultérieures<br/>
-</td>
-<td align="center">380,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Validation des acquis diplôme d'ingénieur<br/>de l'Ecole nationale des ponts et chaussées<br/>
+<td align="center">
+<p align="left">
+<br/>2e année<br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<br/>1 351,00<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Expertise précandidature<br/>
+<td align="center">
+<p align="left">
+<br/>Stage long<br/>
+</p>
 </td>
-<td align="center">410,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Candidature-jury<br/>
-</td>
-<td align="center">4 032,00<br/>
+<td align="center">
+<br/>855,00<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Autre type de formation conduisant<br/>au grade de master (2e année)<br/>
+<td align="center">
+<p align="left">
+<br/>3e année<br/>
+</p>
 </td>
-<td align="center">498,00<br/>
+<td align="center">
+<br/>1 351,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Mais si effectuée à l'extérieur dans le cadre d'un accord d'échange<br/>
+</p>
+</td>
+<td align="center">
+<br/>618,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Mais si effectuée à l'extérieur hors du cadre d'un accord d'échange<br/>
+</p>
+</td>
+<td align="center">
+<br/>876,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Prolongation inférieure à six mois avec accord d'échange<br/>
+</p>
+</td>
+<td align="center">
+<br/>309,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Prolongation inférieure à six mois hors accord d'échange<br/>
+</p>
+</td>
+<td align="center">
+<br/>566,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Formation complémentaire intégrée<br/>
+</p>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Ingénieurs-élèves des ponts, des eaux et des forêts<br/>
+</p>
+</td>
+<td align="center">
+<br/>732,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Autres élèves<br/>
+</p>
+</td>
+<td align="center">
+<br/>1 351,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Formation conduisant au diplôme de docteur de l'Ecole nationale des ponts et chaussées<br/>
+</p>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>1re année<br/>
+</p>
+</td>
+<td align="center">
+<br/>394,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>2e année<br/>
+</p>
+</td>
+<td align="center">
+<br/>394,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>3e année<br/>
+</p>
+</td>
+<td align="center">
+<br/>394,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Toutes années ultérieures<br/>
+</p>
+</td>
+<td align="center">
+<br/>394,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Validation des acquis du diplôme d'ingénieur de l'Ecole nationale des ponts et chaussées<br/>
+</p>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Expertise-précandidature<br/>
+</p>
+</td>
+<td align="center">
+<br/>410,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Candidature-jury<br/>
+</p>
+</td>
+<td align="center">
+<br/>4 032,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Autre type de formation conduisant au grade de master (2e année)<br/>
+</p>
+</td>
+<td align="center">
+<br/>498,00<br/>
 </td>
 </tr>
 </tbody>
@@ -142,15 +218,23 @@ FORMATION SUIVIE À TITRE COMPLÉMENTAIRE
 <tbody>
 <tr>
 <td align="center">
-<br/>
+<p align="center">
+<br/>Formation conduisant au grade de master </p>
+<p>(2e année)<br/>
+</p>
 </td>
-<td align="center">Taux réduit<br/>(en euros)<br/>
+<td align="center">
+<br/>Taux plein <p>(en euros)<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Formation conduisant au grade de master<br/>(2e année)<br/>
+<td align="center">
+<br/>Formation conduisant au grade de master <p>(2e année)<br/>
+</p>
 </td>
-<td align="center">164,00<br/>
+<td align="center">
+<br/>170,00<br/>
 </td>
 </tr>
 </tbody>
