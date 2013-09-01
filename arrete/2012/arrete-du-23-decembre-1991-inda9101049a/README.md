@@ -6,5 +6,4 @@
 - [TITRE III : CONDITIONS D'EXERCICE DU DROIT DE SUFFRAGE](titre-iii)
 - [TITRE IV : CONDITIONS D'ELIGIBILITE](titre-iv)
 - [TITRE V : DEROULEMENT ET REGULARITE DES SCRUTINS](titre-v)
-- [Article 24](article-24.md)
 - [Article 26](article-26.md)
