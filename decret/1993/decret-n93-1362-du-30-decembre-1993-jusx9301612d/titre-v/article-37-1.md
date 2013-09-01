@@ -18,9 +18,7 @@ La demande est accompagnée des pièces suivantes :
 
 8° Le cas échéant, tout document justifiant de la nationalité française du ou des enfants mineurs qui résident avec lui de manière habituelle ou alternativement dans le cas de séparation ou de divorce ;
 
-9° Un diplôme ou une attestation justifiant d'un niveau égal ou supérieur au niveau de langue exigé en application de l'article 37 ou, à défaut, une des attestations, délivrée depuis moins de deux ans, figurant dans la liste fixée par l'arrêté mentionné au second alinéa du même article.
-
-Sont toutefois dispensées de la production de ce diplôme ou de cette attestation les personnes mentionnées au troisième alinéa de l'article 41.
+9° Un diplôme ou une attestation justifiant d'un niveau de langue égal ou supérieur à celui exigé en application de l'article 37 et délivré dans les conditions définies par cet article ou, à défaut, une attestation délivrée dans les mêmes conditions justifiant d'un niveau inférieur. Sont toutefois dispensées de la production de ce diplôme ou de cette attestation les personnes titulaires d'un diplôme délivré dans un pays francophone à l'issue d'études suivies en français. Bénéficient également de cette dispense les personnes souffrant d'un handicap ou d'un état de santé déficient chronique ou âgées d'au moins soixante ans.
 
 Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou de la Suisse, produite en original.
 

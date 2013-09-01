@@ -4,6 +4,14 @@ Dès la souscription de la déclaration, le préfet du département de résidenc
 
 Lorsque le déclarant réside à l'étranger, l'enquête est diligentée par les services consulaires.
 
-Les personnes qui, en raison de leur âge, d'un état de santé déficient chronique ou d'un handicap, ne sont pas en mesure d'accomplir les démarches nécessaires à la production du diplôme ou de l'attestation mentionné au 9° de l'article 14-1 font l'objet d'un entretien individuel destiné à s'assurer qu'elles maîtrisent un niveau de langue correspondant au niveau exigé en vertu de l'article 14.
+Font l'objet d'un entretien individuel destiné à vérifier qu'ils maîtrisent un niveau de langue correspondant à celui exigé en vertu de l'article 14 :
+
+a) Les déclarants titulaires d'un diplôme délivré dans un pays francophone à l'issue d'études suivies en français ;
+
+b) Les déclarants souffrant d'un handicap ou d'un état de santé déficient chronique ou âgés d'au moins soixante ans.
+
+Font également l'objet d'un entretien individuel destiné à connaître leur niveau linguistique les déclarants qui produisent une attestation justifiant d'un niveau inférieur à celui défini à l'article 14. L'autorité administrative peut se fonder sur le déroulement de cet entretien pour conclure que le déclarant possède le niveau linguistique requis.
+
+Un agent est désigné par le préfet ou l'autorité consulaire pour procéder aux entretiens mentionnés aux premier, troisième et sixième alinéas.
 
 Dans les six mois suivant la souscription de la déclaration, l'autorité qui a procédé à l'enquête en transmet directement le résultat, assorti de son avis motivé, au ministre chargé des naturalisations. Celui-ci peut faire procéder à toute enquête complémentaire qu'il estime utile quant à la situation du déclarant au regard des motifs permettant de s'opposer à ce qu'il acquière la nationalité française.

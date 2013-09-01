@@ -2,8 +2,14 @@
 
 Le postulant se présente en personne devant un agent désigné nominativement par le préfet ou l'autorité consulaire.
 
-Lors d'un entretien individuel, l'agent s'assure, à l'aide de questions posées sous forme de questionnaire à choix multiple et dont le nombre est fixé par arrêté du ministre chargé des naturalisations, que les conditions fixées à l'article 37 en ce qui concerne la connaissance par le demandeur, selon sa condition, de l'histoire, de la culture et de la société françaises sont remplies.
+Lors d'un entretien individuel, l'agent vérifie que le demandeur possède les connaissances attendues de lui, selon sa condition, sur l'histoire, la culture et la société françaises, telles qu'elles sont définies au 2° de l'article 37.
 
 A l'issue de cet entretien individuel, cet agent établit un compte rendu constatant le degré d'assimilation du postulant à la communauté française ainsi que, selon sa condition, son niveau de connaissance des droits et devoirs conférés par la nationalité française.
 
-L'entretien individuel prévu au deuxième alinéa permet de constater que les personnes qui, en raison de leur âge, d'un état de santé déficient chronique ou d'un handicap, ne sont pas en mesure d'accomplir les démarches nécessaires à la production du diplôme ou de l'attestation mentionné au 9° de l'article 37-1 maîtrisent un niveau de langue correspondant au niveau exigé en vertu de l'article 37.
+L'entretien individuel prévu au deuxième alinéa permet de vérifier que maîtrisent un niveau de langue correspondant au niveau exigé en vertu de l'article 37 :
+
+a) Les demandeurs titulaires d'un diplôme délivré dans un pays francophone à l'issue d'études suivies en français ;
+
+b) Les demandeurs souffrant d'un handicap ou d'un état de santé déficient chronique ou âgés d'au moins soixante ans.
+
+Font également l'objet d'un entretien individuel destiné à connaître leur niveau linguistique les postulants qui produisent une attestation justifiant d'un niveau inférieur à celui défini à l'article 37. L'autorité administrative peut se fonder sur le déroulement de cet entretien pour conclure que le postulant possède le niveau linguistique requis.

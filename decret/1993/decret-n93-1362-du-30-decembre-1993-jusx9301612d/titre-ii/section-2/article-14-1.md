@@ -18,6 +18,4 @@ Pour souscrire la déclaration prévue à l'article 21-2 du code civil, le décl
 
 8° Le cas échéant, en cas d'unions antérieures, les copies intégrales des actes de mariage et tous documents justifiant leur dissolution ;
 
-9° Un diplôme ou une attestation justifiant d'un niveau égal ou supérieur au niveau de langue exigé en application de l'article 14 ou, à défaut, une des attestations, délivrée depuis moins de deux ans, figurant dans la liste fixée par l'arrêté mentionné au second alinéa du même article.
-
-Sont toutefois dispensées de la production de ce diplôme ou de cette attestation les personnes mentionnées au deuxième alinéa de l'article 15.
+9° Un diplôme ou une attestation justifiant d'un niveau de langue égal ou supérieur à celui exigé en application de l'article 14 et délivré dans les conditions définies par cet article ou, à défaut, une attestation délivrée dans les mêmes conditions justifiant d'un niveau inférieur. Sont toutefois dispensées de la production de ce diplôme ou de cette attestation les personnes titulaires d'un diplôme délivré dans un pays francophone à l'issue d'études suivies en français. Bénéficient également de cette dispense les personnes souffrant d'un handicap ou d'un état de santé déficient chronique ou âgées d'au moins soixante ans.
