@@ -1,3 +1,0 @@
-# Article 14
-
-Le ministre chargé de l'éducation nationale peut, conformément aux dispositions du deuxième alinéa de l'article 23 du décret du 4 juillet 1972 susvisé, dispenser, sur leur demande, les élèves des écoles normales supérieures, remplissant les conditions de diplômes prévues pour l'inscription au concours externe des épreuves d'admissibilité de ce concours. Le jury attribue aux élèves ayant obtenu cette dispense un nombre de points correspondant à la moyenne des notes obtenues aux épreuves d'admissibilité par les candidats admissibles au concours dans la section considérée. Ces candidats sont tenus de subir les épreuves d'admission.

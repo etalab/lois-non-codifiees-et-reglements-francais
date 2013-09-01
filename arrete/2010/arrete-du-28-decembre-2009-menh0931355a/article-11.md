@@ -1,3 +1,0 @@
-# Article 11
-
-Lorsque le président du jury se trouve dans l'impossibilité de poursuivre sa mission, un vice-président ou un autre membre du jury appartenant à l'une des catégories d'agents visés à l'article 9 est désigné sans délai par le ministre, sur proposition du directeur chargé des personnels enseignants, pour le remplacer.
