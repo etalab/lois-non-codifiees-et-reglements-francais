@@ -1,6 +1,8 @@
 # Article Annexe II
 
-**LISTE DES ÉQUIVALENCES ENTRE DES DIPLÔMES OU TITRES ET LES UC DU BP REA MIS EN PLACE PAR LE PRÉSENT ARRÊTÉ**
+LISTE DES UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL, OPTION "RESPONSABLE D'EXPLOITATION AGRICOLE"
+
+VALIDÉES AU TITRE DE LA DÉTENTION DE CERTAINS DIPLÔMES
 
 <table>
 <tbody>
@@ -9,7 +11,8 @@
 <br/>DIPLÔMES <br/>
 </th>
 <th>
-<br/>UC BP REA <br/>
+<br/>UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL <br/>
+<br/>option "responsable d'exploitation agricole"<br/>
 </th>
 </tr>
 <tr>
@@ -22,42 +25,42 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité pêche de loisir . <br/>
+<br/>Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité "pêche de loisir ".<br/>
 </td>
 <td align="center">
-<br/>UCG 1, 2 UCARE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités équestres . <br/>
-</td>
-<td align="center">
-<br/>UCG 1, UCP 3, UCP 5, UCP 6, UCT 1, 1 UCARE <br/>
+<br/>UCG 1, UCG 2,2 UCARE <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Brevet professionnel, ministère de l'agriculture. <br/>
+<br/>Brevet professionnel de la jeunesse, de l'éducation populaire et du sport. <br/>
 </td>
 <td align="center">
-<br/>UCG 1, UCG 2, 2 UCARE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Baccalauréat professionnel agricole toutes options-BTA. <br/>
-</td>
-<td align="center">
-<br/>UCG 1, UCG 2, 2 UCARE <br/>
+<br/>UCG1, UCG2, 1 UCARE <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Baccalauréat professionnel éducation nationale et BIT. <br/>
+<br/>Brevet professionnel ministère de l'agriculture. <br/>
 </td>
 <td align="center">
-<br/>UCG 1, 1 UCARE <br/>
+<br/>UCG1, UCG2, 2 UCARE <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Baccalauréat professionnel délivré par le ministère chargé de l'agriculture et brevet de technicien agricole. <br/>
+</td>
+<td align="center">
+<br/>UCG 1, UCG 2,2 UCARE <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Baccalauréat professionnel délivré par le ministère chargé de l'éducation. <br/>
+</td>
+<td align="center">
+<br/>UCG 1,1 UCARE <br/>
 </td>
 </tr>
 <tr>
@@ -70,26 +73,10 @@
 </tr>
 <tr>
 <td align="center">
-<br/>BTSA-BTS éducation nationale, DUT. <br/>
+<br/>Diplômes de niveau III et plus. <br/>
 </td>
 <td align="center">
-<br/>UCG 1, UCG 2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Autres diplômes de niveau III et plus. <br/>
-</td>
-<td align="center">
-<br/>UCG 1, UCG 2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Docteur vétérinaire. <br/>
-</td>
-<td align="center">
-<br/>UCG 1, UCG 2, UCP 2, 2 UCARE<br/>
+<br/>UCG 1, UCG 2<br/>
 </td>
 </tr>
 </tbody>
