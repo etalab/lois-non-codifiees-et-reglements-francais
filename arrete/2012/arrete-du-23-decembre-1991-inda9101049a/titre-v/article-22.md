@@ -10,6 +10,4 @@ Les bulletins blancs et nuls sont annexés au procès-verbal ainsi que les envel
 
 Chacun des bulletins annexés doit porter mention des causes de l'annexion.
 
-Les membres de la commission de contrôle des opérations électorales ont accès à tout moment aux opérations de dépouillement.
-
-A l'issue des opérations électorales chaque bureau de vote dresse un procès-verbal qui est remis au président de la commission de contrôle des opérations électorales.
+A l'issue des opérations électorales chaque bureau de vote dresse un procès-verbal.
