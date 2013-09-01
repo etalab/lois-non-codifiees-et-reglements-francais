@@ -38,16 +38,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction du budget <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chargé de l'animation du club des gestionnaires et de la formation à la gestion financière (école de la LOLF et e-formation) <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 <td align="center">
@@ -133,7 +123,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <td>
 <p align="left">Direction régionale de l'environnement, de l'aménagement et du logement du Centre </p>
 </td>
-<td>Secrétaire général (ajouté à compter du 12 février 2013)</td>
+<td align="left">Secrétaire général (ajouté à compter du 12 février 2013)</td>
 </tr>
 <tr>
 <td align="center">
@@ -168,7 +158,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <td>
 <p align="left">Service des retraites de l'Etat </p>
 </td>
-<td>Chef de la mission "maîtrise des risques"</td>
+<td align="left">Chef de la mission "maîtrise des risques"</td>
 </tr>
 <tr>
 <td align="center">
@@ -215,6 +205,14 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 <td>
 <p align="left">Chef du bureau "infrastructures informatiques et télécommunications" (ajouté à compter du 8 décembre 2012)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Secrétariat général </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Responsable de la mission de coordination et de promotion de l'offre internet (ajouté à compter du 1er août 2013)</p>
 </td>
 </tr>
 <tr>

@@ -27,7 +27,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Agence nationale des fréquences <br/>
 </p>
 </td>
-<td align="left">Chef du service régional de Villejuif (à compter du 1er janvier 2013)</td>
+<td align="left">Chef du service régional de Villejuif (A compter du 1er janvier 2013)</td>
 </tr>
 <tr>
 <td align="center">
@@ -88,9 +88,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left">Direction du budget </td>
-<td>
-<p align="left">Adjoint au chef du département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</p>
+<td align="left" valign="top">
+<p align="left">Direction du budget </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative </p>
 </td>
 </tr>
 <tr>
@@ -106,7 +108,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction du budget </p>
 </td>
 <td>
-<p align="left">Responsable du pôle solidarité, prévention de l'exclusion et politique de la ville au département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (A compter du 1er janvier 2012)</p>
+<p align="left">Responsable du pôle solidarité, prévention de l'exclusion et politique de la ville au département de contrôle budgétaire du ministère des affaires sociales et de la santé, du ministère des droits des femmes, du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative</p>
 </td>
 </tr>
 <tr>
@@ -150,10 +152,16 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">Direction du budget </td>
+<td>
+<p align="left">Chargé de la coordination de la réglementation et de l'animation du réseau du contrôle budgétaire central (A compter du 1er janvier 2013)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">Direction générale de l'Institut national de la statistique et des études économiques</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Responsable des ressources humaines au groupe des écoles nationales d'économie et de statistiques</p>
 </td>
 </tr>
@@ -174,20 +182,19 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale du Trésor</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint auprès du chef du pôle "entreprises, emploi et économie" de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi Franche-Comté, chargé de mission auprès du SGAR Franche-Comté</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction générale du Trésor <br/>
-</p>
+<td>
+<p align="left">Direction générale du Trésor </p>
 </td>
-<td align="center">
-<p align="left">Chef du bureau " institutions et évaluation des politiques sociales et de l'emploi" </p>
+<td>
+<p align="left">Chargé de mission auprès du chef du service des politiques publiques (A compter du 15 juin 2013)</p>
 </td>
 </tr>
 <tr>
@@ -215,50 +222,58 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint au chef du bureau des produits et prestations de santé et des services à la personne </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint au chef du bureau de la qualité, de la performance et des systèmes d'information </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint au chef du bureau des services financiers et des professions réglementées <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint au chef du bureau des produits industriels </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint au chef du bureau des ressources humaines <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du bureau du soutien juridique et des affaires juridiques européennes et internationales (A compter du 1er août 2013) </p>
 </td>
 </tr>
 <tr>
@@ -272,11 +287,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction générale de la compétitivité, de l'industrie et des services <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du bureau des questions juridiques et institutionnelles postales <br/>
 </p>
 </td>
@@ -495,11 +510,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Conseil général de l'économie, de l'industrie, de l'énergie et des technologies <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Secrétaire général de l'Ecole nationale supérieure des mines de Saint-Etienne<br/>
 </p>
 </td>
@@ -620,14 +635,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction générale des finances publiques </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef de section "politiques sectorielles et taxes sur les transactions : pays tiers et autres taxes" </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction générale des finances publiques </p>
-</td>
-<td align="center">
 <p align="left">Adjoint au responsable de la réforme de l'administration territoriale de l'Etat et des schémas pluriannuels de stratégie immobilière des services déconcentrés et des opérateurs à la mission politique immobilière de l'Etat au sein du service France Domaine </p>
 </td>
 </tr>
@@ -636,14 +643,22 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction générale des finances publiques </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du bureau "expertise et actions économiques" (à compter du 1er mai 2012) </p>
+<p align="left">Adjoint au chef du bureau "expertise et actions économiques" </p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="left">Direction générale des finances publiques </p>
 </td>
-<td align="left">Adjoint au chef du bureau des opérateurs de l'Etat (ajouté à compter du 1er février 2013)</td>
+<td align="left">Adjoint au chef du bureau des opérateurs de l'Etat (A compter du 1er février 2013)</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Direction générale des finances publiques </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du bureau des politiques sectorielles et taxes sur les transactions (A compter du 1er juin 2013)</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -753,15 +768,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="center">
 <p align="left">Chef du bureau des affaires juridiques </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Secrétariat général <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef du bureau "gestion des compétences, formation, emploi et mobilité"</p>
 </td>
 </tr>
 <tr>
@@ -959,7 +965,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td>
 <p align="left">Secrétariat général </p>
 </td>
-<td align="left">Chef de la mission préfiguration du pilotage ministériel de paye (ajouté à compter du 6 mai 2013)<br/>
+<td align="left">Chef de la mission préfiguration du pilotage ministériel de paye (A compter du 6 mai 2013)<br/>
 </td>
 </tr>
 <tr>
@@ -983,7 +989,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Secrétariat général </p>
 </td>
 <td>
-<p align="left">Inspectrice coordonnatrice nationale de l'inspection santé et sécurité au travail (ajouté à compter du 1er janvier 2013)</p>
+<p align="left">Inspectrice coordonnatrice nationale de l'inspection santé et sécurité au travail (A compter du 1er janvier 2013)</p>
 </td>
 </tr>
 <tr>
