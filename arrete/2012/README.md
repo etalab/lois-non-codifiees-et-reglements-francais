@@ -2176,7 +2176,6 @@
 - [Arrêté du 23 juillet 2012 (DEVL1228181A)](arrete-du-23-juillet-2012-devl1228181a)
 - [Arrêté du 23 juillet 2012 (DEVP1230759A)](arrete-du-23-juillet-2012-devp1230759a)
 - [Arrêté du 23 juillet 2012 (DEVR1230217A)](arrete-du-23-juillet-2012-devr1230217a)
-- [Arrêté du 23 juillet 2012 (ESRS1227986A)](arrete-du-23-juillet-2012-esrs1227986a)
 - [Arrêté du 23 juillet 2012 (HANA1230309A)](arrete-du-23-juillet-2012-hana1230309a)
 - [Arrêté du 23 juillet 2012 (JUSF1230896A)](arrete-du-23-juillet-2012-jusf1230896a)
 - [Arrêté du 23 juillet 2012 (JUSF1230898A)](arrete-du-23-juillet-2012-jusf1230898a)
