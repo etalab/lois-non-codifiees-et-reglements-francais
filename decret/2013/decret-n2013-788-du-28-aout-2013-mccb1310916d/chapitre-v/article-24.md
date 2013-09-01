@@ -1,0 +1,5 @@
+# Article 24
+
+Peuvent être nommés au choix au grade de conservateur général, les conservateurs en chef inscrits à un tableau d'avancement justifiant d'un parcours professionnel diversifié apprécié, par la commission administrative paritaire compétente, au regard de l'exercice de responsabilités d'encadrement ou de la qualité des travaux scientifiques effectués, et ayant atteint depuis au moins un an le quatrième échelon de leur grade.
+
+Les conservateurs généraux du patrimoine sont nommés par décret à un échelon comportant un indice égal ou immédiatement supérieur à celui qu'ils détenaient dans leur ancien grade. Dans la limite de l'ancienneté exigée pour l'accès à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans le grade de conservateur en chef lorsque l'augmentation de traitement consécutive à leur promotion est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation, ou, s'ils avaient atteint le dernier échelon de leur grade, à celle que leur aurait procurée une élévation audit échelon.

@@ -1,0 +1,3 @@
+# TITRE V : TAUX APPLICABLE AUX ÉTUDES D'ARCHITECTURE
+
+- [Article 7](article-7.md)
