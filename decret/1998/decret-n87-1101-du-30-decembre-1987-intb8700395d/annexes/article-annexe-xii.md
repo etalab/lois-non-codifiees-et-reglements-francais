@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td>
-<p>Directeur d'office public d'habitations à loyer modéré de : </p>
+<p>Directeur général d'office public de l'habitat de : </p>
 <p>5.000 logements à 10.000 au plus.</p>
 </td>
 <td>
@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td>
-<p>Directeur d'office public d'habitations à loyer modéré de : </p>
+<p>Directeur général d'office public de l'habitat de : </p>
 <p>Plus de 10.000 logements à 15.000 au plus.</p>
 </td>
 <td>
@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td>
-<p>Directeur d'office public d'habitations à loyer modéré de : </p>
+<p>Directeur général d'office public de l'habitat de : </p>
 <p>Plus de 15.000 logements à 20.000 au plus.</p>
 </td>
 <td>
@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur d'office public d'habitations à loyer modéré de : </p>
+<p>Directeur général d'office public de l'habitat de : </p>
 <p>Plus de 20.000 logements.</p>
 </td>
 <td rowspan="2">

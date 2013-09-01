@@ -28,7 +28,7 @@ f) Les syndicats intercommunaux et les syndicats mixtes exclusivements composés
 
 g) Les centres communaux d'action sociale et les centres intercommunaux d'action sociale dont l'importance du budget de fonctionnement et le nombre et la qualification des agents à encadrer le permettent sont assimilés à des communes de plus de 10 000 habitants.
 
-III.-Pour l'application de ces dispositions, les emplois de directeur de caisse de crédit municipal, de directeur de caisse de crédit municipal habilitée à exercer les activités de crédit mentionnées au second alinéa de l'article 1er du décret n° 55-622 du 20 mai 1955 et de directeur d'office public d'habitations à loyer modéré sont assimilés à des emplois de directeur général des services de commune dans les conditions fixées à l'annexe XII.
+III.-Pour l'application de ces dispositions, les emplois de directeur de caisse de crédit municipal, de directeur de caisse de crédit municipal habilitée à exercer les activités de crédit mentionnées au second alinéa de l'article 1er du décret n° 55-622 du 20 mai 1955 et de directeur général d'office public de l'habitat sont assimilés à des emplois de directeur général des services de commune dans les conditions fixées à l'annexe XII.
 
 IV.-Pour l'application de ces dispositions, l'emploi de directeur de délégation du Centre national de la fonction publique territoriale ne peut être assimilé à un emploi supérieur à celui de directeur général adjoint des services d'un département de plus de 900 000 habitants.
 
