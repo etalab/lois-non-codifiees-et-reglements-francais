@@ -1,6 +1,6 @@
 # Article 3
 
-A titre expérimental, à compter du 1er avril 2013 et pour une durée de dix-huit mois, dans le cadre des consultations organisées sur certains projets de décrets et d'arrêtés ministériels en application de l'article L. 120-1 du code de l'environnement, dans sa rédaction issue de la présente loi, et sous réserve des III et IV du même article :
+A titre expérimental, à compter du 1er avril 2013 et pour une durée de dix-huit mois, dans le cadre des consultations organisées sur certains projets de décrets et d'arrêtés ministériels en application de l'article L. 120-1 du code de l'environnement, dans sa rédaction issue de la présente loi, et sous réserve des articles L. 120-1-2 et L. 120-1-3 du même code :
 
 1° Les observations du public formulées par voie électronique sont rendues accessibles par voie électronique au fur et à mesure de leur réception et maintenues à la disposition du public pendant la même durée que la synthèse prévue au II du même article L. 120-1 ;
 
