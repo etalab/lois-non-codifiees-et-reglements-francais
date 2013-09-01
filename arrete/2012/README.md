@@ -2705,7 +2705,6 @@
 - [Arrêté du 27 juillet 2012 (AFSS1231019A)](arrete-du-27-juillet-2012-afss1231019a)
 - [Arrêté du 27 juillet 2012 (AGRG1230891A)](arrete-du-27-juillet-2012-agrg1230891a)
 - [Arrêté du 27 juillet 2012 (BUDE1228471A)](arrete-du-27-juillet-2012-bude1228471a)
-- [Arrêté du 27 juillet 2012 (DEFH1229980A)](arrete-du-27-juillet-2012-defh1229980a)
 - [Arrêté du 27 juillet 2012 (DEVA1100262A)](arrete-du-27-juillet-2012-deva1100262a)
 - [Arrêté du 27 juillet 2012 (DEVA1231022A)](arrete-du-27-juillet-2012-deva1231022a)
 - [Arrêté du 27 juillet 2012 (DEVP1230939A)](arrete-du-27-juillet-2012-devp1230939a)

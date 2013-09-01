@@ -1,8 +1,6 @@
 # Article 
 
-1. Liste des établissements et groupements d'établissements d'enseignement placés en gestion directe auprès de l'Agence
-
-pour l'enseignement français à l'étranger dans les conditions fixées par l'article L. 452-3 du code de l'éducation
+1. Liste des établissements et groupements d'établissements d'enseignement placés en gestion directe auprès de l'Agence pour l'enseignement français à l'étranger dans les conditions fixées par l'article L. 452-3 du code de l'éducation
 
 <table>
 <tbody>
@@ -29,8 +27,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -41,13 +41,17 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Lycée français</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -58,14 +62,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Voltaire</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Berlin</p>
@@ -75,13 +77,23 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="5" valign="top" width="151">
 <p align="left">Lycée français Jean Renoir</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -92,30 +104,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole franco-allemande de Fribourg</p>
 </td>
 <td valign="top" width="151">
 <br/>
-</td>
-<td valign="top" width="113">
-<p align="left">Fribourg-en-Brisgau</p>
-</td>
-<td valign="top" width="132">
-<p align="left">Allemagne</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<br/>
-</td>
-<td valign="top" width="132">
-<p align="left">Lycée franco-allemand</p>
-</td>
-<td valign="top" width="151">
 <br/>
 </td>
 <td valign="top" width="113">
@@ -126,13 +119,26 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Lycée franco-allemand</p>
 </td>
 <td valign="top" width="151">
+<br/>
+<br/>
+</td>
+<td valign="top" width="113">
+<p align="left">Fribourg-en-Brisgau</p>
+</td>
+<td valign="top" width="132">
+<p align="left">Allemagne</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p align="left">Lycée franco-allemand</p>
+</td>
+<td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -143,13 +149,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole élémentaire franco-allemande de Stuttgart-Sillenbuch</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -165,8 +169,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -182,8 +188,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -199,8 +207,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -216,8 +226,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -233,8 +245,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -250,8 +264,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -267,8 +283,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -284,8 +302,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -301,8 +321,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -313,13 +335,17 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Lycée français</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -330,13 +356,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Saint-Exupéry (annexe)</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -352,8 +376,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -369,8 +395,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -386,8 +414,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -398,13 +428,17 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Lycée Chateaubriand</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -415,13 +449,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole française de Naples Alexandre Dumas</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -432,13 +464,21 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Lycée français</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -449,13 +489,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole primaire A</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -466,13 +504,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole primaire B et son annexe l'école primaire française D</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -483,13 +519,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole primaire C</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -500,13 +534,29 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="8" valign="top" width="151">
 <p align="left">Lycée Lyautey</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -517,14 +567,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Collège Anatole France</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Casablanca</p>
@@ -534,14 +582,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Claude Bernard</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Casablanca</p>
@@ -551,14 +597,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Georges Bizet</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Casablanca</p>
@@ -568,14 +612,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Théophile Gautier</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Casablanca</p>
@@ -585,14 +627,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Molière</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Casablanca</p>
@@ -602,14 +642,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Ernest Renan</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Casablanca</p>
@@ -619,13 +657,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Groupe scolaire Claude Monnet</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -636,13 +672,19 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Lycée Victor Hugo</p>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -653,13 +695,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Groupe scolaire Paul Gauguin</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -670,13 +710,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Auguste Renoir</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -687,13 +725,19 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Lycée Paul Valéry</p>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -704,13 +748,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Groupe scolaire Jean de La Fontaine</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -721,13 +763,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Jean-Jacques Rousseau</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -738,13 +778,27 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="7" valign="top" width="151">
 <p align="left">Lycée Descartes</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -755,14 +809,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Collège Saint-Exupéry</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Rabat</p>
@@ -772,13 +824,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Groupe scolaire Honoré de Balzac</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -789,14 +839,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Albert Camus</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Rabat</p>
@@ -806,14 +854,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Paul Cézanne</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Rabat</p>
@@ -823,14 +869,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole André Chénier</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Rabat</p>
@@ -840,14 +884,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Pierre de Ronsard</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Rabat</p>
@@ -857,13 +899,17 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Lycée Régnault</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -874,13 +920,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Adrien Berchet</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -896,8 +940,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -913,8 +959,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -925,13 +973,17 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Lycée français Vincent Van Gogh</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -942,13 +994,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole française annexe du lycée Van Gogh</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -964,8 +1014,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -981,8 +1033,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -993,13 +1047,19 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Lycée français Charles de Gaulle</p>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1010,14 +1070,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole André Malraux d'Ealing, annexe du lycée Charles de Gaulle</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Londres</p>
@@ -1027,13 +1085,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole de Wix, annexe du lycée Charles de Gaulle</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1044,13 +1100,17 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Lycée Alexandre Dumas</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1061,13 +1121,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole française André Malraux</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1083,8 +1141,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1095,13 +1155,25 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="6" valign="top" width="151">
 <p align="left">Lycée français Gustave Flaubert</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1112,13 +1184,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Collège Charles Nicolle</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1129,13 +1199,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Jean Giono</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1146,13 +1214,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Paul Verlaine et son annexe l'école de La Soukra</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1163,13 +1229,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole George Sand</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1180,13 +1244,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Guy de Maupassant</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1197,13 +1259,19 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Lycée Pierre Mendès-France</p>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1214,14 +1282,12 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Robert Desnos El Omrane</p>
 </td>
 <td valign="top" width="151">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="left">Tunis</p>
@@ -1231,13 +1297,11 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-</td>
 <td valign="top" width="132">
 <p align="left">Ecole Georges Brassens</p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1253,8 +1317,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1270,8 +1336,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1287,8 +1355,10 @@ pour l'enseignement français à l'étranger dans les conditions fixées par l'a
 </td>
 <td valign="top" width="132">
 <br/>
+<br/>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 <td valign="top" width="113">
@@ -1325,13 +1395,17 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
-<td valign="top" width="153">
+<td rowspan="2" valign="top" width="153">
 <p align="left">Lycée français Jules Verne</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1342,13 +1416,11 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
-<td valign="top" width="153">
-<br/>
-</td>
 <td valign="top" width="145">
 <p align="left">Annexe Myriam Makeba de Pretoria</p>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1364,8 +1436,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1381,8 +1455,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1398,8 +1474,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1415,8 +1493,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1432,8 +1512,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1448,6 +1530,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française Pierre et Marie Curie maternelle et élémentaire</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -1466,8 +1549,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1483,8 +1568,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1500,8 +1587,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1517,8 +1606,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1534,8 +1625,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1551,8 +1644,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1568,8 +1663,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1585,8 +1682,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1602,8 +1701,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1619,8 +1720,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1636,8 +1739,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1653,8 +1758,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1670,8 +1777,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1687,8 +1796,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1704,8 +1815,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1721,8 +1834,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1738,8 +1853,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1755,8 +1872,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1772,8 +1891,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1789,8 +1910,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1806,8 +1929,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1818,13 +1943,17 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
-<td valign="top" width="153">
+<td rowspan="2" valign="top" width="153">
 <p align="left">Collège Stanislas</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1835,13 +1964,11 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
-<td valign="top" width="153">
-<br/>
-</td>
 <td valign="top" width="145">
 <p align="left">Collège Stanislas, annexe de Québec</p>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1857,8 +1984,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1874,8 +2003,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1891,8 +2022,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1908,8 +2041,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1925,8 +2060,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1942,8 +2079,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1959,8 +2098,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1976,8 +2117,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -1993,8 +2136,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2010,8 +2155,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2027,8 +2174,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2044,8 +2193,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2061,8 +2212,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2078,8 +2231,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2094,6 +2249,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française Charlemagne</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -2112,8 +2268,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2129,8 +2287,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2146,8 +2306,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2163,8 +2325,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2180,8 +2344,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2197,8 +2363,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2214,8 +2382,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2231,8 +2401,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2248,8 +2420,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2265,8 +2439,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2277,13 +2453,17 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
-<td valign="top" width="153">
+<td rowspan="2" valign="top" width="153">
 <p align="left">Lycée français MLF Pierre Deschamps</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2294,13 +2474,11 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
-<td valign="top" width="153">
-<br/>
-</td>
 <td valign="top" width="145">
 <p align="left">Ecole française MLF Pablo Picasso de Benidorm (annexe)</p>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2316,8 +2494,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2333,8 +2513,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2349,6 +2531,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française d'Ibiza</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -2367,8 +2550,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2384,8 +2569,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2401,8 +2588,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2418,8 +2607,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2435,8 +2626,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2452,8 +2645,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2469,8 +2664,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2486,8 +2683,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2503,8 +2702,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2515,13 +2716,22 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 </tr>
 <tr>
+<td>Ecole française du Caucase </td>
+<td/>
+<td/>
+<td>Tbilissi</td>
+<td>Géorgie</td>
+</tr>
+<tr>
 <td valign="top" width="153">
 <p align="left">Ecole française d'Accra</p>
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2537,8 +2747,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2554,8 +2766,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2571,8 +2785,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2588,8 +2804,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2605,8 +2823,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2622,8 +2842,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2639,8 +2861,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2656,8 +2880,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2673,8 +2899,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2690,8 +2918,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2707,8 +2937,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2723,6 +2955,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole franco-irlandaise</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -2741,8 +2974,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2758,8 +2993,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2775,8 +3012,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2792,8 +3031,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2809,8 +3050,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2825,6 +3068,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française d'Amman</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -2843,8 +3087,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2860,8 +3106,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2877,8 +3125,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2894,8 +3144,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2911,8 +3163,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2928,8 +3182,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2945,8 +3201,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2962,8 +3220,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2979,8 +3239,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -2995,6 +3257,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française de Vilnius</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3013,8 +3276,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3030,8 +3295,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3047,8 +3314,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3064,8 +3333,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3081,8 +3352,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3098,8 +3371,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3115,8 +3390,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3132,8 +3409,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3149,8 +3428,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3166,8 +3447,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3183,8 +3466,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3200,8 +3485,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3217,8 +3504,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3234,8 +3523,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3251,8 +3542,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3268,8 +3561,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3285,8 +3580,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3302,8 +3599,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3319,8 +3618,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3335,6 +3636,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Lycée français d'Oslo</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3353,8 +3655,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3370,8 +3674,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3386,6 +3692,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française Paul Gauguin</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3404,6 +3711,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
 <p align="left">Lycée français international Marcel Pagnol</p>
@@ -3421,8 +3729,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3438,8 +3748,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3454,6 +3766,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Lycée français de Varsovie</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3472,8 +3785,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3488,6 +3803,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Lycée français de Doha</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3506,8 +3822,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3523,8 +3841,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3539,6 +3859,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française de Londres</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3557,8 +3878,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3574,8 +3897,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3591,8 +3916,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3608,8 +3935,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3625,8 +3954,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3642,8 +3973,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3659,8 +3992,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3676,8 +4011,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3693,8 +4030,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3710,8 +4049,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3727,8 +4068,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3744,8 +4087,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3761,8 +4106,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3777,6 +4124,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Lycée français de Zurich</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3795,8 +4143,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3812,8 +4162,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3829,8 +4181,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3846,8 +4200,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3863,8 +4219,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3880,8 +4238,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3896,6 +4256,7 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 <p align="left">Ecole française de Kiev</p>
 </td>
 <td valign="top" width="145">
+<br/>
 <br/>
 </td>
 <td valign="top" width="158">
@@ -3914,8 +4275,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3931,8 +4294,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3948,8 +4313,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3965,8 +4332,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
@@ -3982,8 +4351,10 @@ et pédagogique avec l'Agence pour l'enseignement français à l'étranger
 </td>
 <td valign="top" width="145">
 <br/>
+<br/>
 </td>
 <td valign="top" width="158">
+<br/>
 <br/>
 </td>
 <td valign="top" width="117">
