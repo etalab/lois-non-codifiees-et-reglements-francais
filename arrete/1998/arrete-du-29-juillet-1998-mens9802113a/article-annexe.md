@@ -1,5 +1,5 @@
 # Article Annexe
 
-Les annexes sont publiés au Bulletin officiel de l'éducation nationale du 24 septembre 1998, disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
+Les annexes seront consultables au Bulletin officiel du ministère de l'éducation nationale et du
 
-L'arrêté et l'ensemble de ses annexes seront diffusés par les centres précités.
+ministère de l'enseignement supérieur et de la recherche du 23 mai 2013 mis en ligne sur les sites  www.education.gouv.fr. et   www.enseignementsup-recherche.gouv.fr.
