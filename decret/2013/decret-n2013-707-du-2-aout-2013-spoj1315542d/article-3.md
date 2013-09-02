@@ -1,0 +1,3 @@
+# Article 3
+
+L'évaluation de l'expérimentation prévue au I de l'article 2 fait l'objet, six mois avant son terme, d'un rapport réalisé par le comité de pilotage mentionné à l'article L. 551-1 du code de l'éducation réunissant l'ensemble des partenaires du projet éducatif territorial signataires de la convention mentionnée au I de l'article 1er et transmis au préfet du département et au recteur d'académie. Ces autorités adressent aux ministres chargés de l'éducation nationale et de la jeunesse, au plus tard quatre mois avant la fin de l'expérimentation, une synthèse de ces rapports d'évaluation. Au vu de ces rapports, le Gouvernement décide soit de mettre fin à l'expérimentation, soit de pérenniser tout ou partie des mesures prises à titre expérimental.

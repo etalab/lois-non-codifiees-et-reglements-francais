@@ -1,0 +1,3 @@
+# Article 10
+
+Les étudiants peuvent, sur leur demande, être autorisés à effectuer une partie de leurs fonctions hospitalières, pour une durée n'excédant pas trois mois, dans un établissement de santé situé hors de l'académie où se trouve l'unité de formation et de recherche de rattachement de l'étudiant. Le terrain de stage doit être agréé par le directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques et doit présenter toutes les garanties d'une formation au moins équivalente à celle offerte dans les établissements publics de santé liés par convention à l'université.
