@@ -10,6 +10,4 @@ Les directions et services actifs de la préfecture de police sont :
 
 - la direction du renseignement ;
 
-- la direction opérationnelle des services techniques et logistiques ;
-
-- l'inspection générale des services.
+- la direction opérationnelle des services techniques et logistiques.

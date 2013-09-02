@@ -6,5 +6,4 @@
 - [Chapitre IV : Dispositions particulières à la direction de la police judiciaire de la préfecture de police.](chapitre-iv)
 - [Chapitre V : Dispositions particulières à la direction du renseignement](chapitre-v)
 - [Chapitre VI : Dispositions particulières à la direction opérationnelle des services techniques et logistiques de la préfecture de police.](chapitre-vi)
-- [Chapitre VII : Dispositions particulières à l'inspection générale des services.](chapitre-vii)
 - [Article 2120-1](article-2120-1.md)

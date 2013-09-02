@@ -10,5 +10,4 @@
 - [Article 2121-8](article-2121-8.md)
 - [Article 2121-9](article-2121-9.md)
 - [Article 2121-10](article-2121-10.md)
-- [Article 2121-11](article-2121-11.md)
 - [Article 2121-12](article-2121-12.md)

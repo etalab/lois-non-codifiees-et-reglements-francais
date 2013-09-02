@@ -2503,7 +2503,6 @@
 - [Arrêté du 27 août 2010 (IOCC1018612A)](arrete-du-27-aout-2010-iocc1018612a)
 - [Arrêté du 27 août 2010 (IOCC1018618A)](arrete-du-27-aout-2010-iocc1018618a)
 - [Arrêté du 27 août 2010 (IOCC1018627A)](arrete-du-27-aout-2010-iocc1018627a)
-- [Arrêté du 27 août 2010 (IOCC1018672A)](arrete-du-27-aout-2010-iocc1018672a)
 - [Arrêté du 27 août 2010 (IOCD1020163A)](arrete-du-27-aout-2010-iocd1020163a)
 - [Arrêté du 27 août 2010 (IOCE1017969A)](arrete-du-27-aout-2010-ioce1017969a)
 - [Arrêté du 27 août 2010 (IOCE1019455A)](arrete-du-27-aout-2010-ioce1019455a)
