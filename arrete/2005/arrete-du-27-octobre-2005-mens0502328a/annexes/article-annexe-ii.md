@@ -83,8 +83,10 @@ Durée hebdomadaire des interrogations orales dans les classes préparatoires sc
 </td>
 <td charoff="50">
 <br/>
+<br/>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 </tr>
@@ -94,8 +96,10 @@ Durée hebdomadaire des interrogations orales dans les classes préparatoires sc
 </td>
 <td charoff="50">
 <br/>
+<div align="center">5 min </div>
 </td>
 <td charoff="50">
+<br/>
 <br/>
 </td>
 </tr>
@@ -115,7 +119,7 @@ Durée hebdomadaire des interrogations orales dans les classes préparatoires sc
 <p>Géographie</p>
 </td>
 <td charoff="50">
-<p align="center">5 min</p>
+<p align="center">-</p>
 </td>
 <td charoff="50">
 <p align="center">5 min</p>
