@@ -8,6 +8,6 @@ b) Au collège, l'attestation est délivrée par le chef d'établissement sur pr
 
 Dans le cas contraire, les feuilles de position et tout renseignement complémentaire sont transmis au jury du diplôme national du brevet, qui se prononce sur la validation du B2i collège. Cette validation entraîne la délivrance de l'attestation du B2i.
 
-c) Au lycée, l'attestation est délivrée par le chef d'établissement sur proposition du professeur principal, après consultation de l'équipe pédagogique de la classe, lorsque sont validés en dehors des items optionnels 80 % des items, et au moins la moitié des items de chacun des domaines.
+c) Au lycée, l'attestation est délivrée par le chef d'établissement sur proposition du professeur principal, après consultation de l'équipe pédagogique de la classe lorsque sont validés 80 % des items constitutifs du B2i et au moins la moitié des items de chacun des domaines ;
 
-d) Dans les centres de formation d'apprentis (CFA) et les sections d'apprentissage (SA) gérés par des EPLE, l'attestation est délivrée par le directeur du CFA ou le chef d'établissement responsable de la SA, après consultation de l'équipe pédagogique, lorsque sont validés en dehors des items optionnels 80 % des items, et au moins la moitié des items de chacun des domaines.
+d) Dans les centres de formation d'apprentis (CFA) et les sections d'apprentissage (SA), l'attestation est délivrée par le directeur du CFA ou le chef d'établissement responsable de la section d'apprentissage, après consultation de l'équipe pédagogique, lorsque sont validés 80 % des items constitutifs du B2i et au moins la moitié des items de chacun des domaines.

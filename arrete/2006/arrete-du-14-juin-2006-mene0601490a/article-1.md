@@ -8,4 +8,4 @@ Le niveau collège atteste l'acquisition des connaissances, capacités et attitu
 
 Le niveau lycée atteste l'acquisition des connaissances, capacités et attitudes que les élèves doivent maîtriser à l'issue de leur scolarité au lycée (enseignement général, technologique ou professionnel).
 
-Le cas échéant, le brevet informatique et internet collège peut être délivré aux élèves des lycées professionnels, aux élèves et apprentis des centres de formation d'apprentis et des sections d'apprentissage gérés par les établissements publics locaux d'enseignement, et le brevet informatique et internet lycée aux élèves et apprentis des centres de formation d'apprentis et des sections d'apprentissage gérés par les établissements publics locaux d'enseignement.
+Le cas échéant, le brevet informatique et internet niveau collège peut être délivré aux élèves des lycées professionnels, aux apprentis des centres de formation d'apprentis et des sections d'apprentissage. Le brevet informatique et internet niveau lycée peut être aussi délivré aux apprentis des centres de formation d'apprentis et des sections d'apprentissage.

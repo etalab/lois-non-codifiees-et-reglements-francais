@@ -4,124 +4,90 @@ Brevet informatique et internet
 
 B2i LYCÉE
 
-Orientations pédagogiques
+Les compétences à acquérir pour former les élèves à un usage raisonné et citoyen du numérique résultent d'une combinaison de connaissances, de capacités et d'attitudes à mobiliser dans des situations concrètes.
 
-Les compétences à acquérir pour la maîtrise des techniques usuelles de l'information et de la communication résultent d'une combinaison de connaissances, de capacités et d'attitudes à mobiliser dans des situations concrètes.
+Les contenus sont organisés en cinq domaines :
 
-Les connaissances, capacités et attitudes ci-après sont donc un fondement pour la mise en oeuvre de ces compétences.
+Domaine 1 : travailler dans un environnement
 
-Les contenus pédagogiques sont organisés en cinq domaines communs aux trois niveaux.
+numérique évolutif
 
-Domaine 1 : S'approprier un environnement informatique de travail
+Construire des identités adaptées aux différents contextes (public, privé, professionnel, personnel).
 
-Connaissances principales
+Paramétrer ses applications et les services en ligne utilisés de façon à gérer et contrôler ses traces (mots de passe, gestion de l'historique, données de formulaire, etc.).
 
-Un environnement informatique permet grâce à des logiciels d'acquérir, stocker, traiter des données codées pour produire des résultats.
+Changer les règles de confidentialité et les paramètres des services utilisés sur le web ; en vérifier régulièrement les modifications.
 
-Les environnements informatiques peuvent communiquer entre eux et en particulier en réseau.
+S'inscrire et se désinscrire d'un service numérique (lettre d'information, réseau social, flux, etc.).
 
-Objectif
+Identifier les éléments de stratégie commerciale des services et matériels utilisés.
 
-Gérer son espace de travail dans un environnement en réseau.
+Identifier les enjeux associés aux modes de codage et de programmation (diversité des langages de programmation, open source) ; identifier leur impact sur les usages.
 
-Capacités
+Repérer lors des recherches et de la navigation les traces personnelles issues de la collecte (formulaires ; cookies).
 
-L'élève doit être capable de :
+Domaine 2 : être responsable
 
-- organiser son espace de travail ;
+Comprendre et respecter les grands principes résultant de la loi informatique et libertés (droit à l'information, d'accès, de rectification des données, de suppression, d'opposition ; principes de finalité, de pertinence et de proportionnalité).
 
-- être autonome dans l'usage des services et des outils ;
+Comprendre et appliquer les conditions d'utilisation des services en ligne (autoriser ou pas l'utilisation de la géolocalisation, du partage de données et d'application, etc.).
 
-- être responsable vis à vis des services et outils et conscient des coûts d'usage.
+Porter un avis critique sur une situation liée à l'usage du numérique dans le respect des règles (modalités de diffusion des informations : buzz, hoax, etc.).
 
-Domaine 2 : Adopter une attitude responsable
+Etre responsable de toutes ses publications, y compris lors de l'utilisation d'un pseudonyme.
 
-Connaissances principales
+Utiliser les ressources du web en respectant le droit d'auteur et la propriété intellectuelle.
 
-Des lois et des règlements régissent l'usage des TIC.    La validité des résultats est liée à la validité des données et des traitements informatiques.
+Domaine 3 : produire, traiter, exploiter et diffuser des documents numériques
 
-Objectif
+Maîtriser les fonctions de base des suites bureautiques.
 
-Être un utilisateur impliqué dans le respect des règles et des usages de l'informatique et de l'internet.
+Distinguer une simulation ou une modélisation de la réalité lors du traitement des informations ; préciser le contexte associé aux résultats obtenus et ses conséquences sur leur interprétation. Identifier la nature des modèles employés et leurs limites de validité.
 
-Capacités
+Structurer un document (listes, styles, etc.). Créer et réutiliser un modèle, une feuille de style. Insérer automatiquement des informations dans un document, un classeur (notes de bas de page, date de création, numéro de page, etc.).
 
-L'élève doit être capable de :
+Créer et modifier un document numérique composite transportable et publiable. Choisir les formats d'importation adaptés au besoin.
 
-- connaître et respecter les règles élémentaires du droit relatif à l'informatique et à l'internet ;
+Utiliser des outils de suivi des modifications.
 
-- protéger sa personne et ses données ;
+Modifier les métadonnées attachées à son document (titre, auteur, date, etc.).
 
-- faire preuve d'esprit critique face à l'information et à son traitement ;
+Choisir des types de représentation adaptés à l'information à traiter.
 
-- participer à des travaux collaboratifs en connaissant les enjeux et en respectant les règles.
+Domaine 4 : organiser la recherche d'informations
 
-Domaine 3 : Créer, produire, traiter, exploiter des données
+Structurer un travail de recherche en définissant son besoin, les outils à mobiliser, la démarche à mettre en œuvre.
 
-Connaissances principales
+Construire une veille numérique en utilisant des outils de veille adaptés (alertes, fils RSS, abonnements, podcast, etc.).
 
-L'adéquation entre la nature des données et le type de logiciel détermine la pertinence du résultat des traitements.
+Mettre en œuvre, sur un moteur de recherche, les filtres nécessaires pour que la requête soit pertinente.
 
-Objectif
+Connaître les critères de tri du moteur de recherche utilisé.
 
-Concevoir, réaliser et publier des documents numériques.
+Chercher et identifier l'origine de la publication en utilisant au besoin le code source, pour exploiter un document.
 
-Capacités
+Elaborer une bibliographie incluant des documents d'origine numérique.
 
-L'élève doit être capable de :
+Domaine 5 : communiquer, travailler en réseau et collaborer
 
-- concevoir des documents numériques en choisissant le logiciel, le service ou le matériel adapté ;
+Connaître et prendre en compte les critères d'accessibilité.
 
-- exploiter des données ou des documents numériques ;
+Choisir des types de présentation adaptés au mode de communication.
 
-- coopérer à la réalisation collective d'un document ;
+Publier un document en s'appuyant sur des ressources dont l'élève n'est pas l'auteur dans le respect des règles (droit de citation, respect des licences, etc.).
 
-- modifier un ou plusieurs paramètres d'une situation simulée ou modélisée.
+Participer à une production numérique collective (site collaboratif, wiki, etc.) dans un esprit de mutualisation, de recherche ; choisir des stratégies collaboratives adaptées aux besoins.
 
-Domaine 4 : S'informer, se documenter
+S'exprimer via les réseaux en identifiant la qualité de l'espace de publication (publique, privée, professionnelle, personnelle).
 
-Connaissances principales
-
-Les outils de recherche utilisent des critères de classement et de sélection de l'information.
-
-Objectif
-
-Construire une démarche de recherche auto nome en prenant en compte les possibilités et les limites des ressources disponibles sur les réseaux.
-
-Capacités
-
-L'élève doit être capable de :
-
-- consulter des bases documentaires en mode expert ou avancé ;
-
-- choisir et consulter des ressources ;
-
-- identifier, trier et évaluer les informations.
-
-Domaine 5 : Communiquer, échanger
-
-Connaissances principales
-
-Il existe des outils de communication permettant des échanges en mode direct ou en mode différé.
-
-Objectif
-
-Communiquer, échanger et publier avec les technologies de l'information et de la communication de façon autonome.
-
-Capacités
-
-L'élève doit être capable de :
-
-- produire et diffuser un message ou un commentaire en choisissant le mode de communication, privé ou public en mode direct ou différé, selon l'information à diffuser ;
-
-- recevoir un message y compris avec pièces jointes ou un commentaire.
+Participer à un débat en ligne dans le respect des interlocuteurs (Nétiquette).
 
 Modalités d'évaluation
 
-L'évaluation des compétences du brevet informatique et internet lycée fait l'objet d'un travail régulier tout au long de la scolarité au lycée.
+L'évaluation des compétences du brevet informatique et internet lycée fait l'objet d'un travail régulier tout au long des trois années du lycée.
 
 Tous les enseignants sont susceptibles de contribuer à la validation de ces compétences.
 
-La liste des connaissances, capacités et attitudes faisant l'objet d'une feuille de position élève sera publiée dans la circulaire de mise en oeuvre de cet arrêté.
+L'élève a acquis le B2i niveau lycée s'il a validé 80 % des items dont au moins 50 % dans chaque domaine.
 
-Cette feuille de position suit l'élève jusqu'à l'obtention du brevet informatique et internet lycée et renseigne ainsi sur la progression de ses acquisitions.
+La liste des compétences du B2i fait l'objet d'une feuille de position élève qui est publiée dans la circulaire de mise en œuvre de cet arrêté, accessible notamment sur le site EDUSCOL de la direction générale de l'enseignement scolaire ( http://eduscol.education.fr/b2i).
