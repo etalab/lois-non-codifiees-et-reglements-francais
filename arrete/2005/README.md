@@ -141,7 +141,6 @@
 - [Arrêté du 9 mai 2005 (MENE0500720A)](arrete-du-9-mai-2005-mene0500720a)
 - [Arrêté du 9 mai 2005 (PMEA0520022A)](arrete-du-9-mai-2005-pmea0520022a)
 - [Arrêté du 9 mai 2006 (PRMX0609301A)](arrete-du-9-mai-2006-prmx0609301a)
-- [Arrêté du 10 août 2005 (MENS0501795A)](arrete-du-10-aout-2005-mens0501795a)
 - [Arrêté du 10 août 2005 (MJSK0570165A)](arrete-du-10-aout-2005-mjsk0570165a)
 - [Arrêté du 10 décembre 2004 (INTE0400920A)](arrete-du-10-decembre-2004-inte0400920a)
 - [Arrêté du 10 janvier 2005 (DEFD0500156A)](arrete-du-10-janvier-2005-defd0500156a)
