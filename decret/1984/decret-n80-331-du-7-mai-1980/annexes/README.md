@@ -1,3 +1,0 @@
-# Annexes
-
-- [Titre : Vibrations](titre)
