@@ -9,7 +9,6 @@
 - [Arrêté du 1 mars 2006 (ECOS0650010A)](arrete-du-1-mars-2006-ecos0650010a)
 - [Arrêté du 1 septembre 2006 (INTC0600705A)](arrete-du-1-septembre-2006-intc0600705a)
 - [Arrêté du 1 septembre 2006 (MENE0601970A)](arrete-du-1-septembre-2006-mene0601970a)
-- [Arrêté du 1 septembre 2006 (MENE0602202A)](arrete-du-1-septembre-2006-mene0602202a)
 - [Arrêté du 2 août 2006 (SANA0622995A)](arrete-du-2-aout-2006-sana0622995a)
 - [Arrêté du 2 août 2006 (SANH0623119A)](arrete-du-2-aout-2006-sanh0623119a)
 - [Arrêté du 2 août 2006 (SOCA0623232A)](arrete-du-2-aout-2006-soca0623232a)

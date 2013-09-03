@@ -342,7 +342,6 @@
 - [Arrêté du 14 janvier 2004 (MCCI0400026A)](arrete-du-14-janvier-2004-mcci0400026a)
 - [Arrêté du 14 janvier 2004 (MCCI0400028A)](arrete-du-14-janvier-2004-mcci0400028a)
 - [Arrêté du 14 janvier 2004 (MCCI0400029A)](arrete-du-14-janvier-2004-mcci0400029a)
-- [Arrêté du 14 janvier 2004 (MENE0400018A)](arrete-du-14-janvier-2004-mene0400018a)
 - [Arrêté du 14 janvier 2004 (MENE0400020A)](arrete-du-14-janvier-2004-mene0400020a)
 - [Arrêté du 14 janvier 2004 (MENE0400021A)](arrete-du-14-janvier-2004-mene0400021a)
 - [Arrêté du 14 janvier 2004 (MENE0400022A)](arrete-du-14-janvier-2004-mene0400022a)
