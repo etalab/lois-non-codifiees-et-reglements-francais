@@ -452,6 +452,7 @@
 - [Décret n°2013-680 du 24 juillet 2013 (BUDB1312285D)](decret-n2013-680-du-24-juillet-2013-budb1312285d)
 - [Décret n°2013-681 du 24 juillet 2013 (MENE1318909D)](decret-n2013-681-du-24-juillet-2013-mene1318909d)
 - [Décret n°2013-682 du 24 juillet 2013 (MENE1318869D)](decret-n2013-682-du-24-juillet-2013-mene1318869d)
+- [Décret n°2013-683 du 24 juillet 2013 (MENE1318884D)](decret-n2013-683-du-24-juillet-2013-mene1318884d)
 - [Décret n°2013-684 du 24 juillet 2013 (JUSC1316975D)](decret-n2013-684-du-24-juillet-2013-jusc1316975d)
 - [Décret n°2013-685 du 24 juillet 2013 (AFSS1316845D)](decret-n2013-685-du-24-juillet-2013-afss1316845d)
 - [Décret n°2013-686 du 24 juillet 2013 (JUSB1315768D)](decret-n2013-686-du-24-juillet-2013-jusb1315768d)
