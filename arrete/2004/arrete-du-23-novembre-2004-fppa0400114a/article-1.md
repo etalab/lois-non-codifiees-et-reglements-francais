@@ -10,9 +10,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </td>
 <td>
 <p align="center">MONTANTS </p>
-<br/>
 <p align="center">de référence </p>
-<br/>
 <p align="center">(en euros)</p>
 </td>
 </tr>
@@ -29,7 +27,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents de catégorie C rémunérés en échelle 3</p>
 </td>
 <td>
-<p align="center">426,59</p>
+<p align="center">449,29</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +35,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents de catégorie C rémunérés en échelle 4</p>
 </td>
 <td>
-<p align="center">440,84</p>
+<p align="center">464,30</p>
 </td>
 </tr>
 <tr>
@@ -45,23 +43,23 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents de catégorie C rémunérés en échelle 5</p>
 </td>
 <td>
-<p align="center">445,93</p>
+<p align="center">469,67</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Agents de catégorie C rémunérés en nouvelle échelle indiciaire</p>
+<p>Agents de la catégorie C rémunérés en échelle 6 sans échelon spécial</p>
 </td>
 <td>
-<p align="center">452,04</p>
+<p align="center">476,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Agents de catégorie C rémunérés en espace indiciaire spécifique</p>
+<p>Agents de la catégorie C rémunérés en échelle 6 avec échelon spécial</p>
 </td>
 <td>
-<p align="center">465,27</p>
+<p align="center">490,03</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +67,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents du premier grade de la catégorie B</p>
 </td>
 <td>
-<p align="center">558,94</p>
+<p align="center">610</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +75,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents du deuxième grade de la catégorie B</p>
 </td>
 <td>
-<p align="center">670,93</p>
+<p align="center">690</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +83,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents du troisième grade de la catégorie B</p>
 </td>
 <td rowspan="2">
-<p align="center">690,28</p>
+<p align="center">710</p>
 </td>
 </tr>
 </tbody>
