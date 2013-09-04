@@ -11,20 +11,21 @@ a) Betterave à sucre
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont inférieures aux valeurs par défaut<br/>
+<td>
+<p align="center">RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
+</td>
+<td>
+<p align="center">ÉMISSIONS </p>
+<p align="center">en g CO2eq/MJ<br/>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -35,8 +36,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Alsace<br/>
+<p align="left">Alsace<br/>
 </p>
 </td>
 <td align="center">
@@ -47,8 +47,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Auvergne<br/>
+<p align="left">Auvergne<br/>
 </p>
 </td>
 <td align="center">
@@ -59,8 +58,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Basse-Normandie<br/>
+<p align="left">Basse-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -71,8 +69,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bourgogne<br/>
+<p align="left">Bourgogne<br/>
 </p>
 </td>
 <td align="center">
@@ -83,8 +80,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Centre<br/>
+<p align="left">Centre<br/>
 </p>
 </td>
 <td align="center">
@@ -95,8 +91,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Champagne-Ardenne<br/>
+<p align="left">Champagne-Ardenne<br/>
 </p>
 </td>
 <td align="center">
@@ -107,8 +102,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Haute-Normandie<br/>
+<p align="left">Haute-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -119,8 +113,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ile-de-France<br/>
+<p align="left">Ile-de-France<br/>
 </p>
 </td>
 <td align="center">
@@ -131,8 +124,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nord - Pas-de-Calais<br/>
+<p align="left">Nord - Pas-de-Calais<br/>
 </p>
 </td>
 <td align="center">
@@ -143,8 +135,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Picardie<br/>
+<p align="left">Picardie<br/>
 </p>
 </td>
 <td align="center">
@@ -161,20 +152,21 @@ b) Blé tendre
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont inférieures aux valeurs par défaut<br/>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
+</td>
+<td>
+<p align="center"> ÉMISSIONS </p>
+<p align="center">en g CO2eq/MJ<br/>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -185,8 +177,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Alsace<br/>
+<p align="left">Alsace<br/>
 </p>
 </td>
 <td align="center">
@@ -197,8 +188,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Basse-Normandie<br/>
+<p align="left">Basse-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -209,8 +199,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bourgogne<br/>
+<p align="left">Bourgogne<br/>
 </p>
 </td>
 <td align="center">
@@ -221,8 +210,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bretagne<br/>
+<p align="left">Bretagne<br/>
 </p>
 </td>
 <td align="center">
@@ -233,8 +221,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Centre<br/>
+<p align="left">Centre<br/>
 </p>
 </td>
 <td align="center">
@@ -245,8 +232,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Champagne-Ardenne<br/>
+<p align="left">Champagne-Ardenne<br/>
 </p>
 </td>
 <td align="center">
@@ -257,8 +243,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Franche-Comté<br/>
+<p align="left">Franche-Comté<br/>
 </p>
 </td>
 <td align="center">
@@ -269,8 +254,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Haute-Normandie<br/>
+<p align="left">Haute-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -281,8 +265,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ile-de-France<br/>
+<p align="left">Ile-de-France<br/>
 </p>
 </td>
 <td align="center">
@@ -293,8 +276,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lorraine<br/>
+<p align="left">Lorraine<br/>
 </p>
 </td>
 <td align="center">
@@ -305,8 +287,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nord - Pas-de-Calais<br/>
+<p align="left">Nord - Pas-de-Calais<br/>
 </p>
 </td>
 <td align="center">
@@ -317,8 +298,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pays de la Loire<br/>
+<p align="left">Pays de la Loire<br/>
 </p>
 </td>
 <td align="center">
@@ -329,8 +309,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Picardie<br/>
+<p align="left">Picardie<br/>
 </p>
 </td>
 <td align="center">
@@ -341,8 +320,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Poitou-Charentes<br/>
+<p align="left">Poitou-Charentes<br/>
 </p>
 </td>
 <td align="center">
@@ -353,8 +331,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Rhône-Alpes, uniquement pour le département de l'Ain<br/>
+<p align="left">Rhône-Alpes, uniquement pour le département de l'Ain<br/>
 </p>
 </td>
 <td align="center">
@@ -371,20 +348,21 @@ c) Maïs grain
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont inférieures aux valeurs par défaut<br/>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
+</td>
+<td>
+<p align="center"> ÉMISSIONS </p>
+<p align="center">en g CO2eq/MJ<br/>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -393,8 +371,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Alsace<br/>
+<p align="left">Alsace<br/>
 </p>
 </td>
 <td align="center">
@@ -403,8 +380,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aquitaine<br/>
+<p align="left">Aquitaine<br/>
 </p>
 </td>
 <td align="center">
@@ -413,8 +389,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Auvergne<br/>
+<p align="left">Auvergne<br/>
 </p>
 </td>
 <td align="center">
@@ -423,8 +398,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Basse-Normandie<br/>
+<p align="left">Basse-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -433,8 +407,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bourgogne<br/>
+<p align="left">Bourgogne<br/>
 </p>
 </td>
 <td align="center">
@@ -443,8 +416,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bretagne<br/>
+<p align="left">Bretagne<br/>
 </p>
 </td>
 <td align="center">
@@ -453,8 +425,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Centre<br/>
+<p align="left">Centre<br/>
 </p>
 </td>
 <td align="center">
@@ -463,8 +434,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Champagne-Ardenne<br/>
+<p align="left">Champagne-Ardenne<br/>
 </p>
 </td>
 <td align="center">
@@ -473,8 +443,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Franche-Comté<br/>
+<p align="left">Franche-Comté<br/>
 </p>
 </td>
 <td align="center">
@@ -483,8 +452,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Haute-Normandie<br/>
+<p align="left">Haute-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -493,8 +461,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center" valign="middle">
-<p align="left">
-<br/>Ile-de-France<br/>
+<p align="left">Ile-de-France<br/>
 </p>
 </td>
 <td align="center">
@@ -503,8 +470,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lorraine<br/>
+<p align="left">Lorraine<br/>
 </p>
 </td>
 <td align="center">
@@ -513,8 +479,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Midi-Pyrénées<br/>
+<p align="left">Midi-Pyrénées<br/>
 </p>
 </td>
 <td align="center">
@@ -523,8 +488,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nord - Pas-de-Calais<br/>
+<p align="left">Nord - Pas-de-Calais<br/>
 </p>
 </td>
 <td align="center">
@@ -533,8 +497,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pays de la Loire<br/>
+<p align="left">Pays de la Loire<br/>
 </p>
 </td>
 <td align="center">
@@ -543,8 +506,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Picardie<br/>
+<p align="left">Picardie<br/>
 </p>
 </td>
 <td align="center">
@@ -553,8 +515,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Poitou-Charentes<br/>
+<p align="left">Poitou-Charentes<br/>
 </p>
 </td>
 <td align="center">
@@ -563,8 +524,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Rhône-Alpes<br/>
+<p align="left">Rhône-Alpes<br/>
 </p>
 </td>
 <td align="center">
@@ -581,20 +541,21 @@ a) Colza
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont inférieures aux valeurs par défaut<br/>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
+</td>
+<td>
+<p align="center"> ÉMISSIONS </p>
+<p align="center">en g CO2eq/MJ<br/>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -602,9 +563,24 @@ a) Colza
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Alsace</p>
+</td>
+<td>
+<p align="center">23</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Aquitaine</p>
+</td>
+<td>
+<p align="center">26</p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">
-<br/>Auvergne<br/>
+<p align="left">Auvergne<br/>
 </p>
 </td>
 <td align="center">
@@ -613,8 +589,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Basse-Normandie<br/>
+<p align="left">Basse-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -623,8 +598,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bourgogne<br/>
+<p align="left">Bourgogne<br/>
 </p>
 </td>
 <td align="center">
@@ -633,8 +607,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bretagne<br/>
+<p align="left">Bretagne<br/>
 </p>
 </td>
 <td align="center">
@@ -643,8 +616,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Centre<br/>
+<p align="left">Centre<br/>
 </p>
 </td>
 <td align="center">
@@ -653,8 +625,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Champagne-Ardenne<br/>
+<p align="left">Champagne-Ardenne<br/>
 </p>
 </td>
 <td align="center">
@@ -663,8 +634,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Franche-Comté<br/>
+<p align="left">Franche-Comté<br/>
 </p>
 </td>
 <td align="center">
@@ -673,8 +643,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Haute-Normandie<br/>
+<p align="left">Haute-Normandie<br/>
 </p>
 </td>
 <td align="center">
@@ -683,8 +652,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ile-de-France<br/>
+<p align="left">Ile-de-France<br/>
 </p>
 </td>
 <td align="center">
@@ -693,8 +661,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Languedoc-Roussillon<br/>
+<p align="left">Languedoc-Roussillon<br/>
 </p>
 </td>
 <td align="center">
@@ -703,8 +670,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Limousin<br/>
+<p align="left">Limousin<br/>
 </p>
 </td>
 <td align="center">
@@ -713,8 +679,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lorraine<br/>
+<p align="left">Lorraine<br/>
 </p>
 </td>
 <td align="center">
@@ -723,8 +688,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Midi-Pyrénées<br/>
+<p align="left">Midi-Pyrénées<br/>
 </p>
 </td>
 <td align="center">
@@ -733,8 +697,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nord - Pas-de-Calais<br/>
+<p align="left">Nord - Pas-de-Calais<br/>
 </p>
 </td>
 <td align="center">
@@ -743,8 +706,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pays de la Loire<br/>
+<p align="left">Pays de la Loire<br/>
 </p>
 </td>
 <td align="center">
@@ -753,8 +715,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Picardie<br/>
+<p align="left">Picardie<br/>
 </p>
 </td>
 <td align="center">
@@ -763,8 +724,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Poitou-Charentes<br/>
+<p align="left">Poitou-Charentes<br/>
 </p>
 </td>
 <td align="center">
@@ -773,8 +733,7 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Rhône-Alpes<br/>
+<p align="left">Rhône-Alpes<br/>
 </p>
 </td>
 <td align="center">
@@ -801,8 +760,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p>Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -811,8 +769,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aquitaine<br/>
+<p>Aquitaine<br/>
 </p>
 </td>
 <td align="center">
@@ -821,8 +778,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Auvergne<br/>
+<p>Auvergne<br/>
 </p>
 </td>
 <td align="center">
@@ -831,8 +787,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bourgogne<br/>
+<p>Bourgogne<br/>
 </p>
 </td>
 <td align="center">
@@ -841,8 +796,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Centre<br/>
+<p>Centre<br/>
 </p>
 </td>
 <td align="center">
@@ -851,8 +805,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Champagne-Ardenne<br/>
+<p>Champagne-Ardenne<br/>
 </p>
 </td>
 <td align="center">
@@ -861,8 +814,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ile-de-France<br/>
+<p>Ile-de-France<br/>
 </p>
 </td>
 <td align="center">
@@ -871,8 +823,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Languedoc-Roussillon<br/>
+<p>Languedoc-Roussillon<br/>
 </p>
 </td>
 <td align="center">
@@ -881,8 +832,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Midi-Pyrénées<br/>
+<p>Midi-Pyrénées<br/>
 </p>
 </td>
 <td align="center">
@@ -891,8 +841,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pays de la Loire<br/>
+<p>Pays de la Loire<br/>
 </p>
 </td>
 <td align="center">
@@ -901,8 +850,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Poitou-Charentes<br/>
+<p>Poitou-Charentes<br/>
 </p>
 </td>
 <td align="center">
@@ -910,9 +858,16 @@ b) Tournesol
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Provence-Alpes-Côte d'Azur </p>
+</td>
+<td>
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">
-<br/>Rhône-Alpes<br/>
+<p>Rhône-Alpes<br/>
 </p>
 </td>
 <td align="center">

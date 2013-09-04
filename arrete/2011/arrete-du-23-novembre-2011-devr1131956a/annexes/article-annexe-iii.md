@@ -13,20 +13,19 @@ a) Betterave à sucre
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont supérieures aux valeurs par défaut<br/>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont supérieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
-</p>
-</th>
+</td>
+<td>
+<p align="center"> ÉMISSIONS<br/>en g CO2eq/MJ</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -35,8 +34,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aucune région productrice<br/>
+<p align="left">Aucune région productrice<br/>
 </p>
 </td>
 <td align="center">
@@ -45,8 +43,7 @@ a) Betterave à sucre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Les régions Franche-Comté, Lorraine, Pays de la Loire, Rhône-Alpes, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional<br/>
+<p align="left">Les régions Franche-Comté, Lorraine, Pays de la Loire, Rhône-Alpes, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional<br/>
 </p>
 </td>
 <td align="center">
@@ -61,20 +58,18 @@ b) Blé tendre
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont supérieures aux valeurs par défaut<br/>
-</p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
-</p>
-</th>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont supérieures aux valeurs par défaut</p>
+</td>
+<td>
+<p align="center"> ÉMISSIONS <br/>en g CO2eq/MJ</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -83,8 +78,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aquitaine<br/>
+<p align="left">Aquitaine<br/>
 </p>
 </td>
 <td align="center">
@@ -93,8 +87,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Auvergne<br/>
+<p align="left">Auvergne<br/>
 </p>
 </td>
 <td align="center">
@@ -103,8 +96,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Midi-Pyrénées<br/>
+<p align="left">Midi-Pyrénées<br/>
 </p>
 </td>
 <td align="center">
@@ -113,8 +105,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Rhône-Alpes, hors le département de l'Ain<br/>
+<p align="left">Rhône-Alpes, hors le département de l'Ain<br/>
 </p>
 </td>
 <td align="center">
@@ -123,8 +114,7 @@ b) Blé tendre
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Les régions Corse, Languedoc-Roussillon, Limousin, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional<br/>
+<p align="left">Les régions Corse, Languedoc-Roussillon, Limousin, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional<br/>
 </p>
 </td>
 <td align="center">
@@ -139,20 +129,19 @@ c) Maïs grain
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont supérieures aux valeurs par défaut<br/>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont supérieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
-</p>
-</th>
+</td>
+<td>
+<p align="center">ÉMISSIONS<br/>en g CO2eq/MJ</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -161,8 +150,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aucune région productrice<br/>
+<p align="left">Aucune région productrice<br/>
 </p>
 </td>
 <td align="center">
@@ -171,8 +159,7 @@ c) Maïs grain
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Les régions Corse, Languedoc-Roussillon, Limousin, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques<br/>
+<p align="left">Les régions Corse, Languedoc-Roussillon, Limousin, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques<br/>
 </p>
 </td>
 <td align="center">
@@ -189,21 +176,18 @@ a) Colza
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont supérieures aux valeurs par défaut<br/>
-</p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
-</p>
-</th>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont supérieures aux valeurs par défaut</p>
+</td>
+<td>
+<p align="center"> ÉMISSIONS<br/>en g CO2eq/MJ</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
-</p>
+<p align="left">Valeur par défaut détaillée pour la culture</p>
 </td>
 <td align="center">
 <br/>29<br/>
@@ -211,19 +195,14 @@ a) Colza
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aucune région productrice<br/>
-</p>
+<p align="left">Provence-Alpes-Côte d'Azur </p>
 </td>
 <td align="center">
-<br/>-<br/>
-</td>
+<br/>33</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Les régions Alsace, Aquitaine, Corse, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional<br/>
-</p>
+<p align="left">La région Corse, faiblement productrice, ne dispose pas de données robustes sur les itinéraires techniques au niveau régional </p>
 </td>
 <td align="center">
 <br/>-<br/>
@@ -237,30 +216,27 @@ b) Tournesol
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont supérieures aux valeurs par défaut<br/>
-</p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Valeur par défaut détaillée pour la culture<br/>
-</p>
+<td>
+<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont supérieures aux valeurs par défaut</p>
 </td>
-<td align="center">
-<br/>18<br/>
+<td>
+<p align="center"> ÉMISSIONS<br/>en g CO2eq/MJ<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Aucune région productrice<br/>
+<p align="left">Valeur par défaut détaillée pour la culture <br/>
+</p>
+</td>
+<td align="center">
+<br/>18</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Aucune région productrice <br/>
 </p>
 </td>
 <td align="center">
@@ -269,9 +245,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Limousin, Lorraine, Nord - Pas-de-Calais, Picardie, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional<br/>
-</p>
+<p align="left">Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Limousin, Lorraine, Nord-Pas-de-Calais, Picardie, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional</p>
 </td>
 <td align="center">
 <br/>-<br/>
