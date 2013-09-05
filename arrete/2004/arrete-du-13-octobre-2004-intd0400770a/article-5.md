@@ -8,11 +8,11 @@ Dans le cadre des finalités prévues à l'article 1er et sous réserve du respe
 
 - le traitement automatisé de suivi du recouvrement des amendes et des condamnations pécuniaires ;
 
-- les traitements relatifs à la gestion des contrats de location et des véhicules loués mis en oeuvre par les sociétés ayant pour activité la location de véhicules, dans les conditions prévues par une convention signée avec le Centre national de traitement du contrôle automatisé ;
+- les traitements relatifs à la gestion des contrats de location et des véhicules loués mis en œuvre par les sociétés ayant pour activité la location de véhicules, dans les conditions prévues par une convention signée avec le Centre national de traitement du contrôle automatisé ;
 
-- les traitements relatifs à la gestion du parc automobile mis en oeuvre par les sociétés ou établissements mettant des véhicules à disposition de leurs collaborateurs ou clients, dans les conditions prévues par une convention signée avec le Centre national de traitement du contrôle automatisé ;
+- les traitements relatifs à la gestion du parc automobile mis en œuvre par les sociétés ou établissements mettant des véhicules à disposition de leurs collaborateurs ou clients, dans les conditions prévues par une convention signée avec le Centre national de traitement du contrôle automatisé ;
 
-- les systèmes de télépaiement des amendes mis en oeuvre par les services compétents du Trésor public ;
+- les systèmes de télépaiement des amendes mis en œuvre par les services compétents de la direction générale des finances publiques ;
 
 - les traitements automatisés relatifs au traitement des ordonnances pénales et jugements devant les tribunaux de police ;
 
