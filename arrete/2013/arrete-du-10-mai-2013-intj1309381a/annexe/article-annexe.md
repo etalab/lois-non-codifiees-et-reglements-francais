@@ -292,7 +292,7 @@ Brigade motorisée de Verdun (55), dissoute à compter du 1er septembre 2012.
 
 Brigade de gendarmerie de l'air de Metz (57), dissoute à compter du 1er octobre 2012.
 
-Brigade motorisée de Phalsbourg (57), dissoute à compter du 1er septembre 2012.
+Peloton d'autoroute de Phalsbourg (57), dissout à compter du 1er septembre 2012.
 
 Détachement du centre de rétention administrative de Metz (57), dissous à compter du 1er juillet 2012.
 
