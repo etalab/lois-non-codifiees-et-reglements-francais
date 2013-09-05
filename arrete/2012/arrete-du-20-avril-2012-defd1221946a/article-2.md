@@ -1,6 +1,6 @@
 # Article 2
 
-Le directeur des ressources humaines du ministère de la défense est assisté d'un adjoint, chef de service, qui le seconde et le supplée dans l'exercice de ses attributions.
+Le directeur des ressources humaines du ministère de la défense est assisté d'un adjoint qui le seconde et le supplée dans l'exercice de ses attributions. L'adjoint au directeur a autorité sur l'ensemble de la direction.
 
 Il dispose de chargés de mission et d'un chef de cabinet.
 
