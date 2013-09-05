@@ -2425,7 +2425,6 @@
 - [Arrêté du 25 novembre 2011 (MENH1129874A)](arrete-du-25-novembre-2011-menh1129874a)
 - [Arrêté du 25 octobre 2011 (IOCE1129259A)](arrete-du-25-octobre-2011-ioce1129259a)
 - [Arrêté du 25 octobre 2012 (DEVA1235239A)](arrete-du-25-octobre-2012-deva1235239a)
-- [Arrêté du 25 octobre 2012 (DEVA1237465A)](arrete-du-25-octobre-2012-deva1237465a)
 - [Arrêté du 25 octobre 2012 (DEVA1237469A)](arrete-du-25-octobre-2012-deva1237469a)
 - [Arrêté du 25 octobre 2012 (DEVA1237894A)](arrete-du-25-octobre-2012-deva1237894a)
 - [Arrêté du 25 octobre 2012 (DEVK1236937A)](arrete-du-25-octobre-2012-devk1236937a)
