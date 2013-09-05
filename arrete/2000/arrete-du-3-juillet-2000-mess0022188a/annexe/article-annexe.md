@@ -648,6 +648,8 @@ ISOMACO, 13-17 rue Saint-Germain, 93230 Romainville : de 1969 à 1984 ;
 
 Isotherma, 79, rue de la Gare, 78370 Plaisir : de 1965 à 1979 ;
 
+KELLER BARTOLAC, 1, impasse Réaumur, 78200 Mantes-la-Jolie : de 1972 à 1985 ;
+
 Le Joint français, 84, 116, rue Salvador-Allende, 95870 Bezons : de 1907 à 1995 ;
 
 3-M France, parc Barrachin, 95250 Beauchamp : de 1971 à 1975 ;
@@ -660,7 +662,7 @@ La Bakélite française : de 1932 à 1985 ;
 
 Perstorp : de 1985 à 1998 ;
 
-Précicable, 151, rue Michel-Carré, BP 10, 95102 Argenteuil Cedex : de sa création à 1985 ;
+4PRECICABLE/TREFICABLE PIRELLI/CABLES PIRELLI, 151 et 138, rue Michel-Carré, BP 10, 95102 Argenteuil Cedex : de sa création à 1985 ;
 
 Raschig SAS : depuis 1998 ;
 
@@ -1104,7 +1106,7 @@ FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 3
 
 Société de tuyauterie et de montage Friedlander, établissement secondaire de Saint-Auban, ZI Les Blâches Gombert, 04160 Château-Arnoux : De 1970 à 1996 ;
 
-IHP (Isolation Haute Provence),  ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1976 à 1980 puis Zone artisanale, 04160 L'Escale : de 1981 à 1996 ;
+IHP (Isolation Haute Provence), ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1976 à 1980 puis Zone artisanale, 04160 L'Escale : de 1981 à 1996 ;
 
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
@@ -1244,7 +1246,7 @@ SNIG/SITUB, ZI Faveyrolle, 19, avenue Paul-Sabatier, 26700 Pierrelatte : de 1985
 
 Société d'électrochimie de Jarrie et de Thaon, puis Société d'électrochimie, d'électrométallurgie des aciéries électriques d'Ugine (SECEMAEU), puis Pechiney Ugine Kuhlmann, puis Elf Atochem, Usine de Jarrie, route nationale 85, BP 1, 38560 Jarrie : De 1916 à 1996 ;
 
-Société Le Chlore Liquide/PROGIL/Rhône PROGIL/Rhône Poulenc SA, puis CHLORALP, rue Lavoisier, 38800 Pont-de-Claix : de 1916 à 1996, de 1997 à 2001 ;
+SOCIÉTÉ LE CHLORE LIQUIDE/PROGIL/RHONE PROGIL/RHÔNE POULENC SA, puis CHLORALP, rue Lavoisier, 38800 PONT-DE-CLAIX, de 1916 à 1996 : de 1997 à 2001, et de de 2002 à 2005 ;
 
 Société de Paris et du Rhône, de 1915 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1989, 36, avenue Jean-Mermoz, 69355 Lyon ;
 
