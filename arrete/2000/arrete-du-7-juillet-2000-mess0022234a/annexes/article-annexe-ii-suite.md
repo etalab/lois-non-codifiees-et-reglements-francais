@@ -132,9 +132,7 @@ Mac Gegor :
 
 - 4, impasse des Alisées, 44474 Carquefou Cedex : depuis sa création.
 
-Mahe :
-
-- ZI Villejanus, rue des Saveurs, 44350 Guérande : depuis sa création.
+MAHE rue de la Gare, 44510 Le Pouliguen, de 1947 à 1971 Leniphen, 44350 Guérande, de 1971 à 1993 Parc de Villejames, 4, rue des Sources, 44350 Guérande, de 1994 à 2005
 
 Masson SA, quai de la Cabaude, 85100 Les Sables-d'Olonne, depuis 1972.
 
