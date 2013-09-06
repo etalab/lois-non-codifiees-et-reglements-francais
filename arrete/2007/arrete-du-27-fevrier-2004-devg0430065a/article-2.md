@@ -1,3 +1,5 @@
 # Article 2
 
-Les établissements publics chargés des parcs nationaux, l'Office national de l'eau et des milieux aquatiques et l'Office national de la chasse et de la faune sauvage peuvent acquérir et détenir les armes, éléments d'armes et munitions définis à l'article 1er ainsi que les matériels du paragraphe 4 (a) de la 2e catégorie en vue de leur remise aux agents visés par cet arrêté, pour l'exercice de leurs fonctions.
+Les fonctionnaires et agents, commissionnés et assermentés, en fonctions dans les parcs nationaux, à l'Office national de l'eau et des milieux aquatiques, à l'Office national de la chasse et de la faune sauvage et à l'agence des aires marines protégées sont astreints, dans les conditions définies à l'article 6 ci-dessous, à porter l'armement et l'équipement qui leur sont fournis par leur établissement. Dans ce cadre, ils sont autorisés dans les conditions ci-après à détenir, porter ou transporter les matériels de guerre, armes, éléments et munitions mentionnés à l'article 1er.
+
+Ils peuvent en outre être autorisés à acquérir, détenir, porter ou transporter des armes de la catégorie B en application du premier alinéa du III de l'article 25 du décret n° 2013-700 du 30 juillet 2013 déjà mentionné et à détenir, porter et transporter des armes visés à l'article 1er.

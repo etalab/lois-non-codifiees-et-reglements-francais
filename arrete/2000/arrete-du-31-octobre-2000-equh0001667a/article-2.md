@@ -1,6 +1,6 @@
 # Article 2
 
-En application du 1° (a) de l'article 25 du décret du 6 mai 1995 susvisé, les fonctionnaires et agents des affaires maritimes chargés d'un service de police ou de répression et appartenant à l'une des catégories suivantes :
+En application du III de l'article 25 du décret n° 2013-700 du 30 juillet 2013 modifié, les fonctionnaires et agents des affaires maritimes chargés d'un service de police ou de répression et appartenant à l'une des catégories suivantes :
 
 -administrateurs des affaires maritimes ;
 
@@ -8,7 +8,7 @@ En application du 1° (a) de l'article 25 du décret du 6 mai 1995 susvisé, les
 
 -inspecteurs des affaires maritimes ;
 
--contrôleurs des affaires maritimes ;
+-techniciens supérieurs du développement durable relevant de la spécialité "navigation, sécurité maritime et gestion de la ressource halieutique et des espaces marin et littoral ;
 
 -syndics des gens de mer,
 

@@ -4,4 +4,4 @@ Lorsque l'agent est muté dans un autre établissement public que celui dans leq
 
 Il en est de même lorsque l'agent est médicalement reconnu inapte physiquement ou mentalement, ainsi que lorsqu'il cesse définitivement ses fonctions.
 
-L'autorisation de port d'arme devient également caduque et doit donc être restituée sans délai à l'établissement public lorsque l'agent fait l'objet de procédures préfectorales de saisie d'armes prévues par les articles 19 et 19-1 du décret du 18 avril 1939 susvisé.
+L'autorisation de port d'arme devient également caduque et doit donc être restituée sans délai à l'établissement public lorsque l'agent fait l'objet de procédures préfectorales de saisie d'armes prévues par les articles L. 312-7 et L. 312-11 du code de la sécurité intérieure.
