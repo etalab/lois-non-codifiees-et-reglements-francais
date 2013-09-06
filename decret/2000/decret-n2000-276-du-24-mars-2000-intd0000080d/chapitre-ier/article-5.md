@@ -1,6 +1,6 @@
 # Article 5
 
-Les agents de police municipale autorisés à porter une arme de la 4e ou de la 7e catégorie mentionnée à l'article 2 sont astreints à suivre périodiquement un entraînement au maniement de cette arme, défini dans les conditions prévues à l'article 5-1.
+Les agents de police municipale autorisés à porter une arme mentionnées aux 1° et 3° de l'article 2 sont astreints à suivre périodiquement un entraînement au maniement de cette arme, défini dans les conditions prévues à l'article 5-1.
 
 Le préfet peut suspendre l'autorisation de port d'arme d'un agent qui n'a pas suivi les séances d'entraînement réglementaires, jusqu'à l'accomplissement de cette obligation. A cette fin, il est informé par le Centre national de la fonction publique territoriale de tout manquement à l'obligation d'assiduité.
 

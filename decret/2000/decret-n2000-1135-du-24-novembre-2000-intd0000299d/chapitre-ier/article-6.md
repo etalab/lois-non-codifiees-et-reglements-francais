@@ -8,6 +8,6 @@ Les armes mentionnées au 1° de l'article 2 sont portées dans leur étui. Si e
 
 III. - A la fin du service, les armes remises à l'agent du service interne de sécurité et, le cas échéant, les munitions correspondantes sont réintégrées dans les coffres-forts ou armoires fortes de l'entreprise, conformément à l'article 9.
 
-IV. - Pour les séances de formation prévues à l'article 4, lors des trajets entre les locaux dans lesquels les armes sont entreposées et le centre d'entraînement, l'agent du service interne de sécurité transporte déchargée et rangée dans une mallette fermée à clef l'arme de 4e catégorie qui lui a été remise. Il prend toutes les précautions utiles de nature à éviter le vol de l'arme et des munitions.
+IV. - Pour les séances de formation prévues à l'article 4, lors des trajets entre les locaux dans lesquels les armes sont entreposées et le centre d'entraînement, l'agent du service interne de sécurité transporte déchargée et rangée dans une mallette fermée à clef l'arme du 1° de la catégorie B qui lui a été remise. Il prend toutes les précautions utiles de nature à éviter le vol de l'arme et des munitions.
 
 V. - L'agent du service interne de sécurité est tenu de signaler sans délai, par écrit, à l'autorité hiérarchique dont il relève, tout vol ou toute perte ou détérioration de l'arme ou des munitions qui lui ont été remises.

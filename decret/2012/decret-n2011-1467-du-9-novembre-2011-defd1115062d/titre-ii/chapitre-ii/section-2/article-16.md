@@ -6,9 +6,9 @@ a) Les matériels transportés par voie ferrée en transit direct de frontière 
 
 b) Les matériels transbordés de bord à bord avec mise à terre dans les ports et les aérodromes de France dans les cas suivants :
 
-1. Lorsqu'il s'agit d'armes, munitions et leurs éléments de la 1re, de la 4e et de la 5e catégorie détenus ou portés par des personnes physiques qui changent d'aéronef ou de navire et qui ont été autorisées par leurs autorités nationales à les détenir ou les porter ;
+1. Lorsqu'il s'agit d'armes, munitions et leurs éléments des catégories A et B, des 1°, 2°, 6°, 7° et 8° de la catégorie C et du 1° de la catégorie D détenus ou portés par des personnes physiques qui changent d'aéronef ou de navire et qui ont été autorisées par leurs autorités nationales à les détenir ou les porter ;
 
-2. Lorsqu'il s'agit d'armes, munitions et leurs éléments de la 5e catégorie soumis aux dispositions de l'arrêté du ministre de la défense mentionné à l'alinéa 1 de l'article 11 du présent décret ;
+2. Lorsqu'il s'agit d'armes, munitions et leurs éléments des 1°, 2°, 6°, 7° et 8° de la catégorie C et du 1° de la catégorie D soumis aux dispositions de l'arrêté du ministre de la défense mentionné à l'alinéa 1 de l'article 11 du présent décret ;
 
 3. Lorsqu'il s'agit des composants, parties, accessoires, matériels d'environnement, équipements de maintenance et outillages spécifiques de fabrication des matériels relevant des ML 5, ML 6, ML 9, ML 10, ML 11, ML 13, ML 14, ML 15, ML 17 a, b, d, e, g, i, j, o, ML 21, ML 22 et des matériels visés dans la catégorie ML 16 de l'arrêté du ministre de la défense mentionné à l'alinéa 1 de l'article 11 du présent décret, ainsi que les matériels visés dans la deuxième partie, 1 a et 1 b, de l'annexe du même arrêté ;
 
@@ -24,19 +24,19 @@ e) Les armes, munitions et parachutes exportés temporairement à l'occasion de 
 
 f) Les matériels exportés sous le régime douanier du perfectionnement passif pour réparation tel que ce régime est prévu par les textes cités au deuxième alinéa du b précédent. La dispense ne peut, dans ce cas, bénéficier qu'aux exportations à destination du fabricant ;
 
-g) Les fusils et carabines à canon rayé et à percussion centrale mentionnés au paragraphe 2 du II de la 5e catégorie du décret du 6 mai 1995 susvisé et leurs éléments ainsi que leurs munitions et les éléments de celles-ci ;
+g) Les fusils et carabines à canon rayé et à percussion centrale mentionnés au 1° de la catégorie C du décret du 30 juillet 2013 susmentionné et leurs éléments ainsi que leurs munitions et les éléments de celles-ci ;
 
 h) Les dispositifs de visée optiques dépourvus de traitement électronique de l'image, d'un grossissement supérieur à 4, non spécialement conçus pour l'usage militaire ;
 
-i) Les pièces de forge, de fonderie et autres produits non finis destinés à la fabrication de matériels autres que ceux mentionnés par les catégories 1 à 4 du décret du 6 mai 1995 susvisé ;
+i) Les pièces de forge, de fonderie et autres produits non finis destinés à la fabrication de matériels autres que ceux mentionnés par les catégories A et B du décret du 30 juillet 2013 susmentionné ;
 
-j) Les matériels de 2e catégorie réexportés en suite d'admission temporaire, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques conformément à l'article R. 314-1 du code de la route ;
+j) Les matériels des 8°, 9°, 10°, 12°, 13° et 14° de la catégorie A2 réexportés en suite d'admission temporaire, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques conformément à l'article R. 314-1 du code de la route ;
 
 k) Les matériels, armes ou éléments d'arme réexportés suite à une importation temporaire à l'occasion de concours internationaux ou de stages de formation de moniteurs de tir effectués par des fonctionnaires de police étrangers auprès du Centre national de perfectionnement au tir de la police nationale ;
 
-l) L'exportation temporaire des matériels de 2e catégorie par des personnes autorisées à détenir des mêmes matériels en application de l'article 32 du décret du 6 mai 1995 susvisé, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques conformément à l'article R. 314-1 du code de la route ;
+l) L'exportation temporaire des matériels des 8°, 9°, 10°, 12°, 13° et 14° de la catégorie A2 par des personnes autorisées à détenir des mêmes matériels en application de l' article 27 du décret du 30 juillet 2013 susmentionné, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques conformément à l'article R. 314-1 du code de la route ;
 
-m) L'exportation d'armes et de munitions par des personnes quittant le territoire national et autorisées à détenir ces mêmes armes et munitions en application des dispositions des articles 23 à 30 et 46-1 du décret du 6 mai 1995 susvisé ;
+m) L'exportation d'armes et de munitions par des personnes quittant le territoire national et autorisées à détenir ces mêmes armes et munitions en application des dispositions des articles 19, 25, 26, 30, 32, 34, 36, 42, du décret du 30 juillet 2013 susmentionné ;
 
 n) L'exportation des pièces de rechanges destinées à la réparation et à l'entretien des appareils utilisés par les sociétés françaises bénéficiaires d'un arrêté du ministre des transports portant octroi d'autorisation et d'agrément de transport aérien.
 
