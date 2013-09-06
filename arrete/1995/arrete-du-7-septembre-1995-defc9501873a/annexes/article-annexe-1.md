@@ -1,187 +1,776 @@
 # Article Annexe 1
 
-Sont classées en 8e catégorie (paragraphe 1) les armes qui figurent dans les tableaux suivants :
-
-a) Dénomination, modèle, calibre :
-
-Fusils, carabines et mousquetons Gras, 1874, 11 mm.
-
-Fusils Kropatchek, 1878, 11 mm.
-
-Revolvers de marine, 1870, 11 mm.
-
-Revolvers d'ordonnance, 1873-1874, 11 mm.
-
-b) Pays d'origine, dénomination, marque, modèle, calibre métrique :
-
-Allemagne :
-
-Revolver dit "Zig-Zag" : Mauser, 1878 7,6, 9 et 10,6 mm.
-
-Revolver réglementaire de l'armée : Commission revolver, 1879-1883, 10,55 mm.
-
-Pistolet à répétition Mauser : Waffen FBK Mauser, C. 1886, 7,6 mm.
-
-Pistolet à répétition et magasin rotatif : Bittner, 1890, 7,7 mm.
-
-Pistolet semi-automatique : Mieg-Heidelberg, 1895, 6,65 mm.
-
-Pistolet semi-automatique : Bergmann, 1893, 1894, 1895, 1896, 5, 6,5, 7, 8 mm.
-
-Pistolet semi-automatique Schwarzlose "Standart et Perfekt" :
-
-Schwarzlose, 1894-1896, 7,65 mm.
-
-Pistolet semi-automatique : Borchardt, 1894, 7,65 mm.
-
-Pistolet semi-automatique Mannlicher : DWM Steyr, 1894, 6,5 mm R.
-
-Carabine semi-automatique d'origine : Mauser, 1896-1900, 7,63 mm.
-
-Revolver Bâr à 4 coups, 2 canons superposés : Sauer-Sohn, 1897, 7 mm.
-
-Pistolet semi-automatique Bergmann "Bayard" : Bergmann, 1898-1899, 7,5 mm.
-
-Pistolet semi-automatique Bergmann : Simplex, 1901, 8 mm.
-
-Carabine semi-automatique d'origine : Luger (Parabellum), 1900-1902, 7,65 mm.
-
-Pistolet semi-automatique Adler : Waf-Hermsdorff, 1905, 7,25 mm.
-
-Pistolet semi-automatique Mann : F. Mann-Werk, 1919, 6,33 mm.
-
-Pistolet semi-automatique Liliput : Waffen FBK Menz Suhl, 1927, 4,25 mm Liliput.
-
-Autriche :
-
-Pistolet à répétition Passler-Seidl : Passler, 1887, 7 mm.
-
-Pistolet semi-automatique "Mannlicher" : O.W.G. Steyr, 1894, 8 mm.
-
-Pistolet semi-automatique "Mannlicher" : O.W.G. Steyr, 1894, 6,5 mm R, 7,6 mm R.
-
-Pistolet semi-automatique "Mannlicher" : O.W.G. Steyr, 1896, 7,6 mm R.
-
-Pistolet semi-automatique "Mannlicher" : O.W.G. Steyr, 1896, 8 mm spécial.
-
-Pistolet semi-automatique "Mannlicher" : Schwarzlose et Männlicher, 1896, 7,63 mm.
-
-Pistolet semi-automatique "Mannlicher" : Schwarzlose et Männlicher, 1900, 7,63 mm Mannlicher.
-
-Pistolet semi-automatique Erika (petit et grand modèle) :
-
-F-Pfannl, 1910-1913, 4,25 mm Liliput.
-
-Pistolet semi-automatique Kolibri : F-Grâbner, 1913-1920, 2,7, 3 mm.
-
-Belgique :
-
-Pistolet double de gendarmerie Rolling Block : Nagant, 1877, 9,4 mm.
-
-Revolver d'ordonnance : Nagant, 1878, 8, 9,4 mm.
-
-Pistolet à répétition Francotte : Francotte, 1896, 7,65, 8 mm Francotte.
-
-Pistolet semi-automatique Clément : Clément, 1903, 5 mm Clément.
-
-Espagne :
-
-Pistolet semi-automatique Charola Anitua : Garaté Anitua, 1897, 5 mm Clément.
-
-Revolver semi-automatique Zulaica : Zulaica, 1910, 5,5 mm Velodog.
-
-France :
-
-Tous pistolets à répétition tels que Rouchouse, Merveilleux, Gaulois : Manufrance Saint-Etienne, 1880 à 1890, 8 mm.
-
-Pistolet à répétition Berger : Berger, 1881, 7 et 8 mm.
-
-Pistolet à répétition Protector : Turbiaux, 1882, 6 et 8 mm.
-
-Revolver d'ordonnance : Manufacture d'armes de Saint-Etienne (M.A.S.), 1885, 11 mm.
-
-Revolver d'ordonnance : Manufacture d'armes de Saint-Etienne (M.A.S.), 1887, 8 mm.
-
-Pistolet semi-automatique des frères Clair : Manufacture d'armes de Saint-Etienne (M.A.S.), 1888, 8 mm.
-
-Revolver à 12 coups dit "Explorateur mitraille" 2 canons juxtaposés : Manufacture Saint-Etienne, 1888, 6 mm Vélodog.
-
-Revolver à 16 coups dit "Le Terrible" 2 canons superposés :
-
-Manufacture Saint-Etienne, 1888, 7,65 mm.
-
-Revolver à 20 coups dit "Le Redoutable" 2 canons superposés :
-
-Manufacture Saint-Etienne, 1888, 6,35 mm.    Revolver d'ordonnance dit "A pompe" : Manufacture d'armes de Saint-Etienne (M.A.S.), 1892, 8 mm.
-
-Grande-Bretagne :
-
-Revolver d'ordonnance MK 1 et 2, calibre 476 : Enfield, 1880, 12,4 mm.
-
-Pistolet réglementaire d'officier à 2 et 4 canons, calibre 455 et 476 : Lancaster, 1881, 11,5 et 12,4 mm.
-
-Revolver Webley Ric, calibre 450 ou 455 : Webley & Scott, 1, 2, 3 et 4 modèle 1868-1876, n° 1 modèle 1883, 11,4 ou 11,5 mm.
-
-Revolver Webley Ric, calibre 320, 380 ou 450 : Webley & Scott, British Bulldog (anglais ou belge), 1869-1900, 8, 12 ou 9,6 ou 11,4 mm.
-
-Pistolet semi-automatique Gabbett-Fairfax "Mars", calibre 455 :
-
-Webley-Mars, 1895, 11,5 mm.
-
-Pistolet semi-automatique Gabbett-Fairfax "Mars", calibre 45 :
-
-Webley-Mars, 1900, 11,5 mm.
-
-Revolver automatique réglementaire Fosberry, calibre 455 : Webley, 1902, 11,5 mm.
-
-Italie :
-
-Revolver d'ordonnance Glisenti : Glisenti, 1878, 10,35 mm.
-
-Norvège :
-
-Revolver à éjecteur automatique Landstad à 6 coups : H.F. Landstad, 1889, 7,5 mm Nagant.
-
-Suède :
-
-Pistolet semi-automatique Hamilton : Torrsin Sons Alingsas, 1901, 6,5 mm Bergmann.
-
-Suisse :
-
-Revolver d'ordonnance Schmidt-Rubin : Schmidt-Rubin, 1872, 10,4 mm.
-
-Revolver d'ordonnance Schmidt-Rubin : Schmidt-Rubin, 1878, 10,4 mm.
-
-U.S.A.
-
-Revolver à piston à poudre noire transformé pour le tir de cartouches métalliques suivant les brevets Tuher, Mason, Mason-Richard : Colt, 1849-1851, 1855-1860 à 1862, sans distinction.
-
-Revolver n° 3 First Model American, calibre 44 S.W. et 44 Henry :
-
-Smith and Wesson, 1869, 10,55 et 11,28 mm.
-
-Revolver n° 3 Second Model American, calibre 44 S.W. et 44 Henry :
-
-Smith and Wesson, 1869, 10,55 et 11,28 mm.
-
-Revolver Russian 1er modèle, calibre 44 S.W. et 44 Henry : Smith and Wesson, 1869, 10,55 et 11,28 mm.
-
-Revolver Russian 2e modèle, calibre 44 S.W. et 44 Henry : Smith and Wesson, 1869 à 1878, 10,55 et 11,28 mm.
-
-Revolver Russian 3e modèle, calibre 44 S.W. et 44 Henry : Smith and Wesson, 1869 à 1878, 10,55 et 11,28 mm.
-
-Revolver New model n° 3 Turkish Model, calibre 44 R.F : Smith and Wesson, 1869, 11,15 mm.
-
-Pistolet semi-automatique de poche "Rider", magasin tubulaire à 5 cartouches, calibre 32 R.F : Remington, 1871, 8 mm.
-
-Revolver "Open Top Frontier", calibre 44 R.F : Colt, 1872, 11,2 mm.
-
-Revolver Schofield, 1er et 2e type, calibre 45 S.W : Smith and Wesson, 1875, 11,4 mm.
-
-Revolver-carabine 320 S.W : Smith and Wesson, 1879, 8 mm.
-
-Revolver "Navy", calibre 38 et 41 long et court : Colt, 1889, 9 et 10,3 mm.
-
-Pistolet semi-automatique, calibre 38 : Colt, 1900, 9 mm.
-
-Revolver "Lady Smith", calibre 22 : Smith and Wesson, 1902, 5,6 mm.
+A.-Sont classées au g du 2° de la catégorie D les armes qui figurent dans le tableau suivant :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">PAYS D'ORIGINE <br/>
+</p>
+</td>
+<td>
+<p align="center">DÉNOMINATION </p>
+</td>
+<td>
+<p align="center">MARQUE </p>
+</td>
+<td>
+<p align="center">MODÈLE </p>
+</td>
+<td>
+<p align="center">CALIBRE MÉTRIQUE </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Allemagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Bergmann <br/>
+</p>
+</td>
+<td align="center">
+<br/>Simplex <br/>
+</td>
+<td align="center">
+<br/>1901 <br/>
+</td>
+<td align="center">
+<br/>8 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Allemagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Carabine semi-automatique d'origine <br/>
+</p>
+</td>
+<td align="center">
+<br/>Luger (Parabellum) <br/>
+</td>
+<td align="center">
+<br/>1900-1902 <br/>
+</td>
+<td align="center">
+<br/>7,65 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Allemagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Adler <br/>
+</p>
+</td>
+<td align="center">
+<br/>Waf-Hermsdorff <br/>
+</td>
+<td align="center">
+<br/>1905 <br/>
+</td>
+<td align="center">
+<br/>7,25 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Allemagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Mann <br/>
+</p>
+</td>
+<td align="center">
+<br/>F. Mann-Werk <br/>
+</td>
+<td align="center">
+<br/>1919 <br/>
+</td>
+<td align="center">
+<br/>6,33 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Allemagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Liliput <br/>
+</p>
+</td>
+<td align="center">
+<br/>Waffen FBK Menz Suhl <br/>
+</td>
+<td align="center">
+<br/>1927 <br/>
+</td>
+<td align="center">
+<br/>4,25 mm Liliput <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Autriche <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Mannlicher <br/>
+</p>
+</td>
+<td align="center">
+<br/>Schwarzlose et Männlicher <br/>
+</td>
+<td align="center">
+<br/>1900 <br/>
+</td>
+<td align="center">
+<br/>7,63 mm Mannlicher <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Autriche <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Erika (petit et grand modèle) <br/>
+</p>
+</td>
+<td align="center">
+<br/>F-Pfannl <br/>
+</td>
+<td align="center">
+<br/>1910-1913 <br/>
+</td>
+<td align="center">
+<br/>4,25 mm Liliput <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Autriche <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Kolibri <br/>
+</p>
+</td>
+<td align="center">
+<br/>F-Grâbner <br/>
+</td>
+<td align="center">
+<br/>1913-1920 <br/>
+</td>
+<td align="center">
+<br/>2,7 et 3 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Belgique <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Clément <br/>
+</p>
+</td>
+<td align="center">
+<br/>Clément <br/>
+</td>
+<td align="center">
+<br/>1903 <br/>
+</td>
+<td align="center">
+<br/>5 mm Clément <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Espagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver semi-automatique Zulaica <br/>
+</p>
+</td>
+<td align="center">
+<br/>Zulaica <br/>
+</td>
+<td align="center">
+<br/>1910 <br/>
+</td>
+<td align="center">
+<br/>5,5 mm Velodog <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique, calibre 38 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Colt <br/>
+</td>
+<td align="center">
+<br/>1900 <br/>
+</td>
+<td align="center">
+<br/>9 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver Lady Smith , calibre 22 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Smith and Wesson <br/>
+</td>
+<td align="center">
+<br/>1902 <br/>
+</td>
+<td align="center">
+<br/>5,6 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Grande-Bretagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Gabbett-Fairfax Mars , calibre 45 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Webley-Mars <br/>
+</td>
+<td align="center">
+<br/>1900 <br/>
+</td>
+<td align="center">
+<br/>11,5 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Grande-Bretagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver automatique réglementaire Fosberry calibre 455 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Webley <br/>
+</td>
+<td align="center">
+<br/>1902 <br/>
+</td>
+<td align="center">
+<br/>11,5 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Suède <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet semi-automatique Hamilton <br/>
+</p>
+</td>
+<td align="center">
+<br/>Torrsin Sons Alingsas <br/>
+</td>
+<td align="center">
+<br/>1901 <br/>
+</td>
+<td align="center">
+<br/>6,5 mm Bergmann <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+B.-Ne sont pas classées au e du 2° de la catégorie D mais dans les catégories A, B, C ou 1° de la catégorie D en fonction de leurs caractéristiques techniques les armes dont le modèle est antérieur au 1er janvier 1900 qui figurent dans le tableau suivant :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> PAYS D'ORIGINE </p>
+</td>
+<td>
+<p align="center"> DÉNOMINATION</p>
+</td>
+<td>
+<p align="center"> MARQUE </p>
+</td>
+<td>
+<p align="center"> MODÈLE </p>
+</td>
+<td>
+<p align="center"> CALIBRE MÉTRIQUE </p>
+</td>
+</tr>
+<tr>
+<td colspan="5"> Toutes les armes automatiques quels que soient la dénomination, la marque, le modèle ou le calibre</td>
+</tr>
+<tr>
+<td colspan="5"> Armes de poing</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Allemagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Pistolet 1896 ou C96 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Mauser <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>France <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver français modèle 1892 <br/>
+</p>
+</td>
+<td align="center">
+<br/>MAS <br/>
+</td>
+<td align="center">
+<br/>Tous modèles à l'exception des modèles dits à pompe <br/>
+</td>
+<td align="center">
+<br/>8 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver Colt single action 1873 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Colt <br/>
+</td>
+<td align="center">
+<br/>Tous exemplaires dont les numéros de série sont supérieurs à 192 000 <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver Colt New service <br/>
+</p>
+</td>
+<td align="center">
+<br/>Colt <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver Smith and Wesson hand ejector <br/>
+</p>
+</td>
+<td align="center">
+<br/>Smith and Wesson <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Italie <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver italien Bodéo 1889 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Bodéo <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Russie <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver russe Nagant 1895 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Nagant <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>7,62 mm <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Suisse <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Revolver ordonnance Suisse 1882 et 1882-29 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Schmidt/ Sig <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td colspan="5"> Armes d'épaule</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="left">Toutes armes utilisant le système Mauser 1898 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Toutes marques <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="left">Toutes armes utilisant le système Mosin-Nagant 1891 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Toutes marques <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="left">Toutes armes françaises utilisant le système Berthier <br/>
+</p>
+</td>
+<td align="center">
+<br/>Toutes marques <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Belgique <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Browning 1892 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Browning <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Belgique <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Browning 1894 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Browning <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1873 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1886 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1892 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1894 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1895 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1897 Riot Gun <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Etats-Unis <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Winchester 1897 Trench gun <br/>
+</p>
+</td>
+<td align="center">
+<br/>Winchester <br/>
+</td>
+<td align="center">
+<br/>Tous modèles <br/>
+</td>
+<td align="center">
+<br/>Tous calibres<br/>
+</td>
+</tr>
+</tbody>
+</table>

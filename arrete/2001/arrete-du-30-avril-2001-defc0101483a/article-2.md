@@ -1,5 +1,5 @@
 # Article 2
 
-Est classée en 7e catégorie, I, paragraphe 3 :
+Est classée       au 3° de la catégorie C :
 
-- l'arme de calibre 44 mm fabriquée et commercialisée par la société Verney-Carron sous l'appellation  Flash-Ball modèle compact .
+-l'arme de calibre 44 mm fabriquée et commercialisée par la société Verney-Carron sous l'appellation Flash-Ball modèle compact.

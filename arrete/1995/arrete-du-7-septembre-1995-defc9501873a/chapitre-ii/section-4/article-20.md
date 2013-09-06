@@ -1,17 +1,5 @@
 # Article 20
 
-Les armes importées d'un autre Etat membre de la Communauté européenne qui ont été neutralisées par un procédé non approuvé ou reconnu à l'article 19 ci-dessus doivent être neutralisées comme il est dit aux articles 7 et 9 ci-dessus selon la procédure ci-après :
+Lorsqu'une arme à feu transférée d'un autre Etat membre ne répond pas aux conditions fixées à l'article 19, elle n'est pas considérée comme neutralisée au sens du d du 2° de la catégorie D du décret du 30 juillet 2013 déjà mentionné.
 
-a) L'importation en France de ces armes est précédée d'une demande d'autorisation préalable en vue d'obtenir un certificat provisoire d'importation.
-
-La demande d'autorisation est établie sur le formulaire d'autorisation d'importation de matériels de guerre, armes et munitions et adressée au ministère chargé des douanes (direction générale des douanes et droits indirects). Elle est accompagnée :
-
-- d'une note expliquant le procédé de neutralisation utilisé ;
-
-- d'une attestation par l'autorité publique habilitée de l'Etat membre dans lequel la neutralisation a été effectuée, certifiant que les armes y ont été légalement neutralisées et que, de ce fait, elles y sont librement commercialisables.
-
-b) Le certificat provisoire d'importation est délivré sur le formulaire d'autorisation d'importation. Ce document autorise l'envoi des armes au banc d'épreuve de Saint-Etienne, qui délivre un certificat définitif de neutralisation.
-
-Le certificat provisoire d'importation est délivré en deux exemplaires. Le premier est adressé au demandeur, le second au banc d'épreuve de Saint-Etienne.
-
-Il appartient au demandeur et au banc d'épreuve de respecter les quantités autorisées et le délai de validité du titre.
+En cas de litige sur le classement d'une arme à feu neutralisée dans un autre Etat membre, celle-ci peut être soumise à l'expertise de l'établissement technique visé à l'article 3.

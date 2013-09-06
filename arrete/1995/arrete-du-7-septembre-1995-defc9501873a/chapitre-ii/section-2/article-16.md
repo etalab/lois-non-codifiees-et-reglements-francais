@@ -1,3 +1,3 @@
 # Article 16
 
-Pour l'examen des contestations relatives aux opérations visées à l'article 7 ci-dessus, l'établissement désigné au même article remplit les fonctions d'expert. Les frais engagés à ce titre sont supportés par le demandeur et recouvrés par l'établissement ayant procédé à l'expertise.
+Les frais engagés au titre de l'examen des contestations relatives aux opérations visées à l'article 7 ci-dessus sont supportés par le demandeur. Lorsque l'établissement désigné dans le même article remplit les fonctions d'expert, il procède au recouvrement de ces frais.

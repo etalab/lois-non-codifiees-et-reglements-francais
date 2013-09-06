@@ -166,7 +166,6 @@
 - [Arrêté du 4 août 2009 (BCFL0910096A)](arrete-du-4-aout-2009-bcfl0910096a)
 - [Arrêté du 4 août 2009 (BCFL0910204A)](arrete-du-4-aout-2009-bcfl0910204a)
 - [Arrêté du 4 août 2009 (DEFC0912704A)](arrete-du-4-aout-2009-defc0912704a)
-- [Arrêté du 4 août 2009 (DEFC0912705A)](arrete-du-4-aout-2009-defc0912705a)
 - [Arrêté du 4 août 2009 (DEVP0913557A)](arrete-du-4-aout-2009-devp0913557a)
 - [Arrêté du 4 août 2009 (DEVP0913562A)](arrete-du-4-aout-2009-devp0913562a)
 - [Arrêté du 4 août 2009 (MENH0900625A)](arrete-du-4-aout-2009-menh0900625a)

@@ -1,4 +1,4 @@
-# Section 2 : Contrôle de l'importation et de la fabrication.
+# Section 2 : Contrôle de l'importation, du transfert et de la fabrication.
 
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)

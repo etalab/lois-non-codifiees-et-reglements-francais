@@ -1,4 +1,4 @@
-# Chapitre II : Transit, conduite en douane et dédouanement des armes destinées à être rendues inaptes au tir en vue de leur classement dans le paragraphe 2 de la 8e catégorie
+# Chapitre II : Transit, conduite en douane et dédouanement des armes destinées à être rendues inaptes au tir en vue de leur classement au d du 2° de la catégorie D
 
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)

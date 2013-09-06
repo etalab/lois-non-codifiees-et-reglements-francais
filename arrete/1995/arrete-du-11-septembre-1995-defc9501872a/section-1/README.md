@@ -1,4 +1,4 @@
-# Section 1 : Transformation des armes des particuliers en application de l'article 71 du décret n° 95-589 du 6 mai 1995.
+# Section 1 : Transformation des armes des particuliers.
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
