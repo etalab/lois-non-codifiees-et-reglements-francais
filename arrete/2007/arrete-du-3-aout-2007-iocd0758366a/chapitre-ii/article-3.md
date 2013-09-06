@@ -6,7 +6,7 @@ Ils doivent répondre aux conditions suivantes :
 
 1° Avoir exercé pendant quatre années dans les cadres d'emplois de la police municipale au 31 décembre de l'année de la sélection ;
 
-2° Etre autorisés au port d'un tonfa et d'une arme de poing de 4e catégorie depuis au moins deux ans et justifier du suivi de toutes les séances d'entraînement réglementairement exigées pour le port de cette dernière ;
+2° Etre autorisés au port d'un tonfa et d'une arme de poing du 1° de la catégorie B depuis au moins deux ans et justifier du suivi de toutes les séances d'entraînement réglementairement exigées pour le port de cette dernière ;
 
 3° Produire un certificat médical, datant de moins de quinze jours, attestant l'absence de contre-indication au port et à l'usage des armes ;
 

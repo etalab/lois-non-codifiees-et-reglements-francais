@@ -6,7 +6,7 @@ La formation préalable à la délivrance du port d'arme des agents de police mu
 
 2° Module relatif aux lanceurs de balles de défense, d'une durée de trois heures ;
 
-3° Module relatif aux revolvers et armes de poing de 4e catégorie, d'une durée de quarante-cinq heures ;
+3° Module relatif aux revolvers et armes de poing du 1° de la catégorie B, d'une durée de quarante-cinq heures ;
 
 4° Module relatif au tonfa, d'une durée de dix-huit heures.
 

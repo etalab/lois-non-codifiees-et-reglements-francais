@@ -4,28 +4,28 @@ Le certificat de qualification professionnelle comporte les éléments suivants 
 
 1° La définition des fonctions concernées et des compétences requises pour les exercer ;
 
-2° La présentation par thème et par objectifs pédagogiques détaillés et par durée d'enseignement, des compétences évaluées pour la délivrance du certificat, portant sur les savoir-faire prévus par l'article 121-1 du décret du 6 mai 1995 et précisés comme suit :
+2° La présentation par thème et par objectifs pédagogiques détaillés et par durée d'enseignement, des compétences évaluées pour la délivrance du certificat, portant sur les savoir-faire prévus par l'article 93 du décret n° 2013-700 du 30 juillet 2013 modifié portant application de la loi n° 2012-304 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif et précisés comme suit :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> MODULES </p>
+<p align="center">MODULES </p>
 </td>
 <td>
-<p align="center"> LIBELLÉ </p>
+<p align="center">LIBELLÉ </p>
 </td>
 <td>
-<p align="center"> OBJECTIFS <br/>pédagogiques <br/>généraux </p>
+<p align="center">OBJECTIFS <br/>pédagogiques <br/>généraux </p>
 </td>
 <td>
-<p align="center"> OBJECTIFS PÉDAGOGIQUES <br/>spécifiques </p>
+<p align="center">OBJECTIFS PÉDAGOGIQUES <br/>spécifiques </p>
 </td>
 <td>
-<p align="center"> ÉVALUATION <br/>des <br/>connaissances </p>
+<p align="center">ÉVALUATION <br/>des <br/>connaissances </p>
 </td>
 <td>
-<p align="center"> DURÉE MINIMALE </p>
+<p align="center">DURÉE MINIMALE </p>
 </td>
 </tr>
 <tr>
