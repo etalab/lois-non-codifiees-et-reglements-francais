@@ -1,7 +1,0 @@
-# Article 46-3
-
-1° Lorsqu'elle est faite en vue du transfert vers un autre Etat membre de la Communauté européenne ou de l'exportation vers un pays tiers, l'acquisition des armes des paragraphes 1 et 2 du I de la 7e catégorie et des munitions éléments de munition du III de la 7e catégorie n'est pas subordonnée à la présentation au vendeur d'un permis de chasser ou de l'un des titres prévus à l'article L. 423-21 du code de l'environnement revêtus de la validation de l'année en cours ou de l'année précédente, d'une licence d'une fédération sportive ayant reçu, au titre de l'article 17 de la loi du 16 juillet 1984 susvisée, délégation du ministre chargé des sports pour la pratique du tir délivrée dans les conditions du 4° du II de l'article 39.
-
-2° L'acquisition des armes du paragraphe 3 du I de la 7e catégorie, ainsi que l'acquisition des armes et des munitions du II de la 7e catégorie, n'est pas subordonnée à la présentation de l'un des titres prévus au 1°.
-
-3° L'acquisition des armes à percussion annulaire du paragraphe 1 du I de la 7e catégorie ou des éléments de ces armes ou des munitions et des éléments de munitions de ces armes n'est pas subordonnée à la présentation de l'un des titres mentionnés au 1° si elle est faite par une association agréée pour la pratique du tir sportif ou par un exploitant de tir en possession du récépissé de déclaration visé à l'article 6 du décret du 31 juillet 1970 susvisé ou du livret spécial de circulation prévu à l'article 10 de ce décret.

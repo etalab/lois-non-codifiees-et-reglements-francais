@@ -1,9 +1,0 @@
-# Titre III : Acquisition, détention, port, transport et conservation des armes et des munitions
-
-- [Chapitre Ier : Autorisation d'acquisition et détention.](chapitre-ier)
-- [Chapitre II : Procédures d'enregistrement et de déclaration d'acquisition et de détention.](chapitre-ii)
-- [Chapitre III : Conservation.](chapitre-iii)
-- [Chapitre IV : Autorisation de port et de transport des armes et munitions.](chapitre-iv)
-- [Chapitre V : Sécurité des expéditions et des transports des armes.](chapitre-v)
-- [Chapitre VI : Perte et transfert de la propriété des armes et des munitions.](chapitre-vi)
-- [Chapitre VII : La saisie d'arme et de munitions](chapitre-vii)

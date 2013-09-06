@@ -1,5 +1,0 @@
-# Article 71-7
-
-Le fichier de données à caractère personnel relatif aux personnes interdites d'acquisition et de détention d'armes institué par l'article L. 2336-6 du code de la défense est mis en œuvre par le ministère de l'intérieur (direction des libertés publiques et des affaires juridiques). Il est dénommé "fichier national des interdits d'acquisition et de détention d'armes” (FINIADA).
-
-Ce fichier a pour finalité la mise en œuvre et le suivi, au niveau national, des interdictions d'acquisition et de détention des armes en application de l'article L. 2336-6 du code de la défense.
