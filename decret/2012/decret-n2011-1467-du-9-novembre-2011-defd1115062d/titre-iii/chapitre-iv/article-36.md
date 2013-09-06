@@ -4,7 +4,7 @@ Les agréments préalables de transfert et les autorisations individuelles ou gl
 
 1° Lorsque leur maintien risque de porter atteinte aux intérêts fondamentaux de la nation, à la défense nationale, à la sécurité extérieure de l'Etat ou aux engagements internationaux de la France ;
 
-2° Lorsque leur maintien risque de porter atteinte à la sécurité publique ou à l'ordre public, à la sécurité des personnes ou lorsque son titulaire a commis des manquements aux obligations fixées par le titre III du livre III du code de la défense et le décret du 6 mai 1995 susvisé ;
+2° Lorsque leur maintien risque de porter atteinte à la sécurité publique ou à l'ordre public, à la sécurité des personnes ou lorsque son titulaire a commis des manquements aux obligations fixées par le titre III du livre III du code de la défense et le décret du 30 juillet 2013 susmentionné ;
 
 3° Lorsque les conditions d'utilisation de la licence générale de transfert ou lorsque les conditions auxquelles est subordonnée la délivrance de l'agrément préalable ou de l'autorisation de transfert ne sont plus réunies ;
 
