@@ -1,0 +1,3 @@
+# Article 188
+
+Le ministre des affaires étrangères, la garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, la ministre des affaires sociales et de la santé, le ministre de l'intérieur, la ministre du commerce extérieur, le ministre du redressement productif, le ministre de l'écologie, du développement durable et de l'énergie, le ministre de la défense, la ministre de la culture et de la communication et la ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
