@@ -1,3 +1,0 @@
-# Article 3
-
-Le délégué interministériel à la sécurité privée coordonne la veille des risques et des menaces susceptibles d'affecter ce secteur d'activités, notamment lorsque certaines entreprises s'affranchissent des règles imposées en la matière. Il saisit, autant que de besoin, l'instance de contrôle chargée de veiller au respect des normes édictées et fait, en cas de nécessité et en liaison avec les ministères intéressés, toute proposition utile en vue d'une modification de la réglementation en vigueur. Il est consulté sur l'élaboration de la norme dont il facilite l'application par les conseils et les rappels appropriés. Il favorise, notamment, la création de labels et de certifications et veille à leur harmonisation au niveau européen.
