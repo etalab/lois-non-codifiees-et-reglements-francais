@@ -3283,7 +3283,6 @@
 - [Arrêté du 1er mars 2012 (MENR1206483A)](arrete-du-1er-mars-2012-menr1206483a)
 - [Arrêté du 1er mars 2012 (MENR1206539A)](arrete-du-1er-mars-2012-menr1206539a)
 - [Arrêté du 1er mars 2012 (TRAT1206530A)](arrete-du-1er-mars-2012-trat1206530a)
-- [Arrêté du 1er octobre 2012 (AFSS1235633A)](arrete-du-1er-octobre-2012-afss1235633a)
 - [Arrêté du 1er octobre 2012 (AGRT1229326A)](arrete-du-1er-octobre-2012-agrt1229326a)
 - [Arrêté du 1er octobre 2012 (BUDB1235083A)](arrete-du-1er-octobre-2012-budb1235083a)
 - [Arrêté du 1er octobre 2012 (DEVD1226509A)](arrete-du-1er-octobre-2012-devd1226509a)
