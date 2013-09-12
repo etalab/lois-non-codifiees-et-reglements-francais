@@ -543,6 +543,30 @@
 </td>
 </tr>
 <tr>
+<td>Alpha-amylase issue d'une souche génétiquement modifiée de Trichoderma reesei (LOH4 AkAApaA) porteuse du gène codant une alpha-amylase d'Aspergillus kawachii.<br/>
+</td>
+<td>Enzymes<br/>
+</td>
+<td>Brasserie.<p>Industrie de l'alcool.</p>
+<p>Amidonnerie, production de sirop de glucose.</p>
+</td>
+<td>Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
+</td>
+</tr>
+<tr>
+<td>Alpha-amylase issue d'une souche non génétiquement modifiée de Microbacterium imperiale (FERM P-11315).<br/>
+</td>
+<td>Enzymes </td>
+<td>Production de sirop enrichi en maltotriose.<p>Panification.</p>
+</td>
+<td>Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p>Aminopeptidase d'Aspergillus niger EPD-4.</p>
 </td>
@@ -1284,19 +1308,23 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cellulase de Trichoderma longibrachiatum (ex-reesei) (souche A83).</p>
+<p>Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex reesei) A83.<br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td align="left" valign="top">
+<td align="left" valign="top">Brasserie.<p>Industrie de l'alcool.</p>
 <p>Amidonnerie, production de sirop de glucose.</p>
+<p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
+<br/>
 </td>
 <td align="left" valign="top">
 <p>Hydrolyse de la cellulose</p>
 </td>
 <td align="left" valign="top">
-<p>Dose techniquement inévitable.</p>
+<p>Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1547,6 +1575,19 @@
 </td>
 <td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Endo-bêta-glucanase issue d'une souche non génétiquement modifiée de Geosmithia emersonii (BWW1016.2).<br/>
+</td>
+<td>Enzymes </td>
+<td>Brasserie.<p>Industrie de l'alcool.</p>
+<p>Amidonnerie, production de sirop de glucose.</p>
+<br/>
+</td>
+<td>Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
@@ -3497,6 +3538,14 @@
 </td>
 </tr>
 <tr>
+<td>Protéase issue d'une souche génétiquement modifiée de Bacillus subtilisi (LMGS-23982) porteuse du gène codant une protéase de Thermus aquaticus. </td>
+<td>Enzymes </td>
+<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </td>
+<td>Hydrolyse des liaisons peptidiques des protéines. </td>
+<td>Teneur techniquement inévitable.<br/>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Protéine-glutaminase issue d'une souche de Chryseobacterium proteolyticum non génétiquement modifiée (FERM P-17664).<br/>
 </p>
@@ -3687,6 +3736,17 @@
 </td>
 <td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Thermolysine issue d'une souche de Geobacillus stearothermophilus non génétiquement modifiée (TP7).<br/>
+</td>
+<td>Enzymes </td>
+<td>Production d'extraits de levure hydrolysés et d'hydrolysats de protéines carnées. <br/>
+</td>
+<td>Hydrolyse des liaisons peptidiques des protéines.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
@@ -4000,6 +4060,17 @@
 </td>
 <td align="left" valign="top">
 <p align="left">Teneur techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Xylanase issue d'une souche génétiquement modifiée de Trichoderma logibrachiatum (CBS-114044) porteuse du gène muté codant une xylanase de Thermopolyspora flexuosa (synonyme antérieur de Nonomuraea flexuosa).<br/>
+</td>
+<td>Enzymes </td>
+<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie.<br/>
+</td>
+<td>Hydrolyse des liaisons osidiques des hémicelluloses.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 </tbody>
