@@ -1,0 +1,4 @@
+# Décret n° 2013-813 du 10 septembre 2013 portant simplification et clarification de certaines procédures relatives aux ouvrages des réseaux publics d'électricité et aux travaux sur ces réseaux
+
+- [Chapitre Ier : Dispositions modifiant le décret n° 2011-1697 du 1er décembre 2011 relatif aux ouvrages de réseaux publics d'électricité et des autres réseaux d'électricité et au dispositif de surveillance et de contrôle des ondes électromagnétiques](chapitre-ier)
+- [Chapitre II : Dispositions modifiant le décret n° 70-492 du 11 juin 1970 pris pour l'application de l'article 35 modifié de la loi du 8 avril 1946 concernant la procédure de déclaration d'utilité publique des travaux d'électricité et de gaz qui ne nécessitent que l'établissement de servitudes ainsi que les conditions d'établissement desdites servitudes](chapitre-ii)
