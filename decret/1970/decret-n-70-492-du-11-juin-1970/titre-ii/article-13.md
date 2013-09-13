@@ -1,6 +1,6 @@
 # Article 13
 
-A défaut d'accord amiable avec les propriétaires intéressés, le demandeur présente une requête accompagnée d'un plan et d'un état parcellaire par commune indiquant les propriétés qui doivent être atteintes par les servitudes.
+En cas de désaccord avec au moins un des propriétaires intéressés, le demandeur présente une requête accompagnée d'un plan et d'un état parcellaire par commune indiquant les propriétés qui doivent être atteintes par les servitudes.
 
 Cette requête est adressée au préfet et comporte les renseignements nécessaires sur la nature et l'étendue de ces servitudes. Le préfet, dans les quinze jours suivant la réception de la requête, prescrit par arrêté une enquête et désigne un commissaire enquêteur.
 
