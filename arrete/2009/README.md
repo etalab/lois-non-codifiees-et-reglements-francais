@@ -791,7 +791,6 @@
 - [Arrêté du 10 septembre 2009 (DEFD0921357A)](arrete-du-10-septembre-2009-defd0921357a)
 - [Arrêté du 10 septembre 2009 (ECET0913865A)](arrete-du-10-septembre-2009-ecet0913865a)
 - [Arrêté du 11 août 1980](arrete-du-11-aout-1980)
-- [Arrêté du 11 août 2009 (DEFD0919093A)](arrete-du-11-aout-2009-defd0919093a)
 - [Arrêté du 11 août 2009 (SASS0917745A)](arrete-du-11-aout-2009-sass0917745a)
 - [Arrêté du 11 avril 2006 (SANG0621107A)](arrete-du-11-avril-2006-sang0621107a)
 - [Arrêté du 11 avril 2006 (SANG0621108A)](arrete-du-11-avril-2006-sang0621108a)

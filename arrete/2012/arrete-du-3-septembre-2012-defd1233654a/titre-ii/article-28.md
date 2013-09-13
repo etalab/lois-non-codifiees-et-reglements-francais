@@ -32,7 +32,7 @@ XIV. ― Le Centre national des sports de la défense.
 
 XV. ― Le centre interarmées de concepts, de doctrines et d'expérimentations.
 
-XVI. ― Le commandement interarmées des hélicoptères.
+XVI. ― (Supprimé).
 
 XVII. ― Le commandement interarmées de l'espace.
 
