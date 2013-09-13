@@ -1172,7 +1172,6 @@
 - [Arrêté du 13 septembre 2004 (INDI0403671A)](arrete-du-13-septembre-2004-indi0403671a)
 - [Arrêté du 13 septembre 2004 (INDI0403672A)](arrete-du-13-septembre-2004-indi0403672a)
 - [Arrêté du 13 septembre 2012 (AGRT1202955A)](arrete-du-13-septembre-2012-agrt1202955a)
-- [Arrêté du 13 septembre 2012 (AGRT1208628A)](arrete-du-13-septembre-2012-agrt1208628a)
 - [Arrêté du 13 septembre 2012 (DEFH1233171A)](arrete-du-13-septembre-2012-defh1233171a)
 - [Arrêté du 13 septembre 2012 (DEVL1220189A)](arrete-du-13-septembre-2012-devl1220189a)
 - [Arrêté du 13 septembre 2012 (ESRH1234251A)](arrete-du-13-septembre-2012-esrh1234251a)
