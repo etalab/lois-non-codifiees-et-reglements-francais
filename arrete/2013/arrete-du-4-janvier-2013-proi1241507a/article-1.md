@@ -64,9 +64,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne.<br/>
+<p align="left">Secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Supprimé à compter du 28 octobre 2013)<br/>
 </p>
 </td>
+</tr>
+<tr>
+<td>Chargé de mission auprès du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Ajouté à compter du 28 octobre 2013)</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -613,8 +616,8 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin. (Ajouté le 1er février 2013)</p>
+<td align="left" valign="top">
+<p align="left">Chef du service appui au développement et à la pérennisation des entreprises et des emplois du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin. (Ajouté le 1er février 2013)</p>
 </td>
 </tr>
 <tr>
