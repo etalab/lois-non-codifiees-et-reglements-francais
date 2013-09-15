@@ -12,7 +12,9 @@ Semences de céréales ne devant être commercialisées que dans les catégories
 
 - blé tendre (froment) (Triticum aestivum L.) ;
 
-- maïs, à l'exception du pop-corn et maïs sucré (Zea maïs L. "partim") ;
+- épeautre (Triticum spelta L.) ;
+
+- maïs, à l'exception du pop-corn et maïs sucré (Zea mays L. " partim ") ;
 
 - orge (Hordeum vulgare L.) ;
 
@@ -22,10 +24,16 @@ Semences de céréales ne devant être commercialisées que dans les catégories
 
 - seigle (Secale cereale L.) ;
 
-- sorgho (Sorghum bicolor "L." Moench) ;
+- sorgho (Sorghum bicolor " L. " Moench) ;
 
-- sorgho du Soudan (Sorghum sudanense "Piper" Stapf) ;
+- sorgho du Soudan (Sorghum sudanense " Piper " Stapf) ;
 
-- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor "L." Moench X Sorghum sudanense "Piper" Stapf) ;
+- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor " L. " Moench × Sorghum sudanense " Piper " Stapf) ;
 
-- triticale (Triticosecale Wittm. ex A. Camus).
+- triticale (× Triticosecale Wittm. ex A. Camus).
+
+Semences de céréales ne devant être commercialisées que dans la catégorie semences sans aucun qualificatif :
+
+- seigle des montagnes (Secale montanum Guss.) ;
+
+- hybride résultant du croisement du seigle des montagnes avec le seigle (Secale montanum Guss. × Secale cereale L.).

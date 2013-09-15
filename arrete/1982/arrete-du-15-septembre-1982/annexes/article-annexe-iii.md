@@ -6,78 +6,123 @@ POIDS DES ECHANTILLONS
 <tbody>
 <tr>
 <td>
-<p align="center">ESPECES</p>
+<p align="center"> ESPÈCES</p>
 </td>
 <td>
-<p align="center">POIDS MINIMAL</p>
-<p align="center">à prélever sur un lot </p>
-<p align="center">(en grammes) </p>
+<p align="center">
+<br/>POIDS MINIMAL<br/>à prélever<br/>sur un lot<br/>(en grammes)</p>
 </td>
 <td>
-<p align="center">POIDS </p>
-<p>pour les dénombrements</p>
-<p align="center">(en grammes) </p>
+<p align="center"> POIDS<br/>pour les<br/>dénombrements<br/>(en grammes)</p>
 </td>
 </tr>
 <tr>
-<td>Avoine, blé dur, blé tendre, orge, seigle, triticale</td>
-<td>
-<p align="center">1 000</p>
+<td align="center">
+<p align="left">
+<br/>Avoine, avoine nue, avoine maigre, blé dur, blé tendre, épeautre, orge, seigle, triticale</p>
 </td>
-<td>
-<p align="center">500</p>
+<td align="center">
+<br/>1 000<br/>
 </td>
-</tr>
-<tr>
-<td>Riz</td>
-<td>
-<p align="center">500</p>
-</td>
-<td>
-<p align="center">500</p>
+<td align="center">
+<br/>500<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Maîs</p>
-<p>Semences de base de lignées inbred</p>
-<p>Semences de base autres que de lignées inbred et semences certifiées </p>
+<td align="center">
+<p align="left">
+<br/>Riz, seigle des montagnes, hybride Secale montanum Guss. × Secale cereale L</p>
 </td>
-<td>
-<p align="center">250</p>
-<p align="center">1 000</p>
+<td align="center">
+<br/>500<br/>
 </td>
-<td>
-<p align="center">250</p>
-<p align="center">1 000</p>
+<td align="center">
+<br/>500<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sorgho</p>
-<p>Sorgho du soudan </p>
-<p>Sorgho x sorgho du Soudan</p>
+<td align="center">
+<p align="left">
+<br/>Maïs :</p>
 </td>
-<td>
-<p align="center">1 000</p>
-<p align="center">1 000</p>
-<p align="center">1 000</p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">1 000</p>
-<p align="center">900</p>
-<p align="center">900</p>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Sarrasin</p>
+<td align="center">
+<p align="left">
+<br/>Semences de base de lignées inbred</p>
 </td>
-<td>
-<p align="center">600</p>
+<td align="center">
+<br/>250<br/>
 </td>
-<td>
-<p align="center">800</p>
+<td align="center">
+<br/>250<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Semences de base autres que de lignées inbred et semences certifiées</p>
+</td>
+<td align="center">
+<br/>1 000<br/>
+</td>
+<td align="center">
+<br/>1 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Sorgho</p>
+</td>
+<td align="center">
+<br/>1 000<br/>
+</td>
+<td align="center">
+<br/>900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Sorgho du Soudan</p>
+</td>
+<td align="center">
+<br/>1 000<br/>
+</td>
+<td align="center">
+<br/>900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Sorgho × Sorgho du Soudan.</p>
+</td>
+<td align="center">
+<br/>1 000<br/>
+</td>
+<td align="center">
+<br/>900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Sarrasin</p>
+</td>
+<td align="center">
+<br/>600<br/>
+</td>
+<td align="center">
+<br/>600<br/>
 </td>
 </tr>
 </tbody>

@@ -4,828 +4,890 @@ Conditions auxquelles doivent satisfaire les semences
 
 A. - Les semences doivent répondre aux normes et autres conditions suivantes, en ce qui concerne la pureté variétale, la faculté germinative, la pureté spécifique, la teneur en humidité et la teneur en semences d'autres espèces de plantes (voir tableau).
 
-B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des semences n'est tolérée que dans la mesure où elle n'empêche pas leur emploi normal par l'utilisateur.
-
-Les semences doivent répondre aux conditions suivantes :
-
-Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe n° IV ne doit pas excéder
-
-- un pour les semences de base ;
-
-- trois pour les semences certifiées.
-
 <table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p align="center">ESPÈCES</p>
+<p align="center">ESPÈCES </p>
 </td>
 <td rowspan="2">
 <p align="center">
-<br/>CATÉGORIES</p>
+<br/>CATÉGORIES </p>
 </td>
 <td rowspan="2">
 <p align="center">
-<br/>PURETÉ<br/>minimale variétale<br/>(% de graines)</p>
+<br/>PURETÉ </p>
+<p>minimale variétale </p>
+<p>(% de graines) </p>
 </td>
 <td rowspan="2">
 <p align="center">
-<br/>FACULTÉ<br/>germinative minimale<br/>(% de graines)</p>
+<br/>FACULTÉ </p>
+<p>germinative minimale </p>
+<p>(% de graines) </p>
 </td>
 <td rowspan="2">
 <p align="center">
-<br/>PURETÉ<br/>spécifique minimale<br/>(% du poids)</p>
+<br/>PURETÉ </p>
+<p>spécifique minimale </p>
+<p>(% du poids) </p>
 </td>
 <td rowspan="2">
 <p align="center">
-<br/>HUMIDITÉ<br/>maximale<br/>(% en teneur d'eau)</p>
+<br/>HUMIDITÉ </p>
+<p>maximale </p>
+<p>(% en teneur d'eau) </p>
 </td>
 <td colspan="3">
 <p align="center">
-<br/>TENEUR EN NOMBRE DE GRAINS<br/>d'autres espèces de plantes,<br/>y compris les grains rouges<br/>dans un échantillon du poids<br/>prévu à l'annexe IV</p>
+<br/>TENEUR EN NOMBRE DE GRAINS D'AUTRES ESPÈCES DE PLANTES, <br/>y compris les grains rouges dans un échantillon du poids <br/>prévu à l'annexe IV </p>
 </td>
 </tr>
 <tr>
-<td width="30">
-<p align="center">
-<br/>Total</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>Autres<br/>espèces<br/>de céréales</p>
+<td>
+<p align="center">Total </p>
 </td>
 <td>
-<p align="center">
-<br/>Autres<br/>espèces<br/>de plantes</p>
+<p align="center">Autres espèces <br/>de céréales </p>
+</td>
+<td>
+<p align="center">Autres espèces de plantes </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>
-<br/>Avoine, avoine maigre, blé dur, blé tendre, orge </p>
-</td>
-<td>
-<p>
-<br/>Semences de prébase et de base</p>
+<td rowspan="3" valign="top">
+<p>Avoine, avoine maigre, blé dur, blé tendre, épeautre, orge </p>
 </td>
 <td>
 <p align="center">
-<br/>99,9</p>
+<br/>Semences de prébase et de base </p>
 </td>
 <td>
 <p align="center">
-<br/>85 (a)</p>
+<br/>99,9 </p>
 </td>
 <td>
 <p align="center">
-<br/>99</p>
+<br/>85 </p>
 </td>
 <td>
 <p align="center">
-<br/>16,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>4</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>1 (b)</p>
+<br/>99 </p>
 </td>
 <td>
-<p>
-<br/>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)</p>
+<p align="center">
+<br/>16,5 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 (b) </p>
+</td>
+<td>
+<p>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
 <td>
-<p>
-<br/>Semences certifiées</p>
+<p align="center">
+<br/>Semences certifiées </p>
 </td>
 <td>
 <p align="center">
-<br/>1re génération<br/>99,7</p>
+<br/>1re génération </p>
+<p>99,7 </p>
 </td>
 <td>
 <p align="center">
-<br/>85</p>
+<br/>85 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>16,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>10</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>7</p>
+<br/>16,5 </p>
 </td>
 <td>
-<p>
-<br/>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
+<p align="center">
+<br/>10 </p>
+</td>
+<td>
+<p align="center">
+<br/>7 </p>
+</td>
+<td>
+<p>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">
-<br/>2e génération<br/>99,0</p>
+<br/>2e génération </p>
+<p>99,0 </p>
 </td>
 <td>
 <br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td width="30">
-<br/>
-</td>
-<td width="30">
 <br/>
 </td>
 <td>
 <br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="3" valign="top">
+<p>Avoine nue </p>
+</td>
+<td>
+<p align="center">
+<br/>Semences de prébase et de base </p>
+</td>
+<td>
+<p align="center">
+<br/>99,9 </p>
+</td>
+<td>
+<p align="center">
+<br/>75 </p>
+</td>
+<td>
+<p align="center">
+<br/>99 </p>
+</td>
+<td>
+<p align="center">
+<br/>16,5 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 (b) </p>
+</td>
+<td>
+<p>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>
-<br/>Avoine nue</p>
-</td>
 <td>
-<p>
-<br/>Semences de prébase et de base</p>
+<p align="center">
+<br/>Semences certifiées </p>
 </td>
 <td>
 <p align="center">
-<br/>99,9</p>
+<br/>1re génération </p>
+<p>99,7 </p>
 </td>
 <td>
 <p align="center">
-<br/>75 (a)</p>
+<br/>75 </p>
 </td>
 <td>
 <p align="center">
-<br/>99</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>16,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>4</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>1 (b)</p>
+<br/>16,5 </p>
 </td>
 <td>
-<p>
-<br/>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
+<p align="center">
+<br/>10 </p>
+</td>
+<td>
+<p align="center">
+<br/>7 </p>
+</td>
+<td>
+<p>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td>
 <br/>
-</td>
-<td>
-<p>
-<br/>Semences certifiées</p>
-</td>
-<td>
-<p align="center">
-<br/>1re génération<br/>99,7</p>
-</td>
-<td>
-<p align="center">
-<br/>75</p>
-</td>
-<td>
-<p align="center">
-<br/>98</p>
-</td>
-<td>
-<p align="center">
-<br/>16,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>10</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>7</p>
-</td>
-<td>
-<p>
-<br/>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
 <p align="center">
-<br/>2e génération<br/>99,0</p>
+<br/>2e génération </p>
+<p>99,0 </p>
 </td>
 <td>
 <br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td width="30">
-<br/>
-</td>
-<td width="30">
 <br/>
 </td>
 <td>
 <br/>
+<br/>
 </td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p>
-<br/>Riz</p>
-</td>
-<td>
-<p>
-<br/>Semences de prébase et de base</p>
+<p>Riz </p>
 </td>
 <td>
 <p align="center">
-<br/>99,9</p>
+<br/>Semences de prébase et de base </p>
 </td>
 <td>
 <p align="center">
-<br/>80 (a)</p>
+<br/>99,9 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>15,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>4</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>1 grain rouge</p>
+<br/>98 </p>
 </td>
 <td>
-<p>
-<br/>1 Panicum spp.</p>
+<p align="center">
+<br/>15,5 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 grain rouge </p>
+</td>
+<td>
+<p>1 Panicum spp. </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Semences certifiées</p>
+<p align="center">
+<br/>Semences certifiées </p>
 </td>
 <td>
 <p align="center">
-<br/>99,7</p>
+<br/>99,7 </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>15,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>10</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>3 grains rouges</p>
+<br/>15,5 </p>
 </td>
 <td>
-<p>
-<br/>3 Panicum spp.</p>
+<p align="center">
+<br/>10 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 grains rouges </p>
+</td>
+<td>
+<p>3 Panicum spp. </p>
 </td>
 </tr>
 <tr>
 <td rowspan="6" valign="top">
-<p>
-<br/>Sarrasin</p>
+<p>Sarrasin </p>
 </td>
 <td>
-<p>
-<br/>Semences de prébase et de base</p>
+<p align="center">
+<br/>Semences de prébase et de base </p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
 <br/>
-</td>
-<td width="30">
-<br/>
-</td>
-<td width="30">
 <br/>
 </td>
 <td>
-<p>
-<br/>Dont : 1 Fagopyrum tartaricum ou Rumex spp </p>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<p>Dont : 1 Fagopyrum tartaricum ou Rumex spp. </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Variété diploïde</p>
+<p align="center">
+<br/>Variété diploïde </p>
 </td>
 <td>
 <p align="center">
-<br/>(d)</p>
+<br/>(d) </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>15</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>3</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>15 </p>
 </td>
 <td>
-<p>
-<br/>ou graine de renonculacée ou graine</p>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p>ou graine de renonculacée  </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Variété tétraploïde</p>
+<p align="center">
+<br/>Variété tétraploïde </p>
 </td>
 <td>
 <p align="center">
-<br/>(d)</p>
+<br/>(d) </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>15</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>1 (e)</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>15 </p>
 </td>
 <td>
-<p>
-<br/>de caryophyllacée (f)</p>
+<p align="center">
+<br/>1 (e) </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p>ou graine de caryophyllacée (f) </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
+<p align="center">
 <br/>Semences certifiées </p>
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
 <br/>
-</td>
-<td>
-<br/>
-</td>
-<td width="30">
-<br/>
-</td>
-<td width="30">
 <br/>
 </td>
 <td>
-<p>
-<br/>Dont : 3 Fagopyrum tartaricum ou Rumex spp </p>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<p>Dont : 3 Fagopyrum tartaricum ou Rumex spp. </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Variété diploïde</p>
+<p align="center">
+<br/>Variété diploïde </p>
 </td>
 <td>
 <p align="center">
-<br/>(d)</p>
+<br/>(d) </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>97</p>
+<br/>97 </p>
 </td>
 <td>
 <p align="center">
-<br/>15</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>7</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>15 </p>
 </td>
 <td>
-<p>
-<br/>ou graine de renonculacée ou graine </p>
+<p align="center">
+<br/>7 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p>ou graine de renonculacée </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Variété tétraploïde.</p>
+<p align="center">
+<br/>Variété tétraploïde </p>
 </td>
 <td>
 <p align="center">
-<br/>(d)</p>
+<br/>(d) </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>97</p>
+<br/>97 </p>
 </td>
 <td>
 <p align="center">
-<br/>15</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>4</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>15 </p>
 </td>
 <td>
-<p>
-<br/>de caryophyllacée (f)</p>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p> ou graine de caryophyllacée  </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p>
-<br/>Seigle</p>
-</td>
-<td>
-<p>
-<br/>Semences de prébase et de base</p>
+<p>Seigle </p>
 </td>
 <td>
 <p align="center">
-<br/>-</p>
+<br/>Semences de prébase et de base </p>
 </td>
 <td>
 <p align="center">
-<br/>85 (a)</p>
+<br/>- </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>85 </p>
 </td>
 <td>
 <p align="center">
-<br/>15</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>4</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>1 (b)</p>
+<br/>98 </p>
 </td>
 <td>
-<p>
-<br/>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
+<p align="center">
+<br/>15 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 (b) </p>
+</td>
+<td>
+<p>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Semences certifiées</p>
+<p align="center">
+<br/>Semences certifiées </p>
 </td>
 <td>
 <p align="center">
-<br/>-</p>
+<br/>- </p>
 </td>
 <td>
 <p align="center">
-<br/>85</p>
+<br/>85 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>15</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>10</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>7</p>
+<br/>15 </p>
 </td>
 <td>
-<p>
-<br/>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
+<p align="center">
+<br/>10 </p>
+</td>
+<td>
+<p align="center">
+<br/>7 </p>
+</td>
+<td>
+<p>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
-<p>
-<br/>Maïs</p>
-</td>
-<td>
-<p>
-<br/>Semences de prébase et de base</p>
+<td valign="top">
+<p>Seigle des montagnes </p>
 </td>
 <td>
 <p align="center">
-<br/>-</p>
+<br/>Semences </p>
 </td>
 <td>
 <p align="center">
-<br/>90 (a)</p>
+<br/>- </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>85 </p>
 </td>
 <td>
 <p align="center">
-<br/>14</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>0</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>98 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>15 </p>
+</td>
+<td>
+<p align="center">
+<br/>10 </p>
+</td>
+<td>
+<p align="center">
+<br/>7 </p>
+</td>
+<td>
+<p>Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Semences certifiées</p>
+<td valign="top">
+<p>Secale montanum Guss. x Secale cereale L. </p>
 </td>
 <td>
 <p align="center">
-<br/>-</p>
+<br/>Semences </p>
 </td>
 <td>
 <p align="center">
-<br/>90 (a bis)</p>
+<br/>- </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>85 </p>
 </td>
 <td>
 <p align="center">
-<br/>14</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>0</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p>
-<br/>Triticale</p>
-</td>
-<td>
-<p>
-<br/>Semences de prébase et de base</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>99,7</p>
+<br/>15 </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>10 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>7 </p>
 </td>
 <td>
-<p align="center">
-<br/>16,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>4</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>1 (b)</p>
-</td>
-<td>
-<p>
-<br/>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Semences certifiées</p>
-</td>
-<td>
-<p align="center">
-<br/>99</p>
-</td>
-<td>
-<p align="center">
-<br/>80</p>
-</td>
-<td>
-<p align="center">
-<br/>98</p>
-</td>
-<td>
-<p align="center">
-<br/>16,5</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>10</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>7</p>
-</td>
-<td>
-<p>
-<br/>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
+<p>Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p>
-<br/>Sorghum spp</p>
-</td>
-<td>
-<p>
-<br/>Semences de prébase et de base</p>
+<p>Maïs </p>
 </td>
 <td>
 <p align="center">
-<br/>-</p>
+<br/>Semences de prébase et de base </p>
 </td>
 <td>
 <p align="center">
-<br/>80 (a)</p>
+<br/>- </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>90 </p>
 </td>
 <td>
 <p align="center">
-<br/>14</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>0</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>98 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>14 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Semences certifiées </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>90 </p>
+</td>
+<td>
+<p align="center">
+<br/>98 </p>
+</td>
+<td>
+<p align="center">
+<br/>14 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p>Triticale </p>
+</td>
+<td>
+<p align="center">
+<br/>Semences de prébase et de base </p>
+</td>
+<td>
+<p align="center">
+<br/>99,7 </p>
+</td>
+<td>
+<p align="center">
+<br/>80 </p>
+</td>
+<td>
+<p align="center">
+<br/>98 </p>
+</td>
+<td>
+<p align="center">
+<br/>16,5 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 (b) </p>
+</td>
+<td>
+<p>Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Semences certifiées</p>
+<p align="center">
+<br/>Semences certifiées </p>
 </td>
 <td>
 <p align="center">
-<br/>-</p>
+<br/>99 </p>
 </td>
 <td>
 <p align="center">
-<br/>80</p>
+<br/>80 </p>
 </td>
 <td>
 <p align="center">
-<br/>98</p>
+<br/>98 </p>
 </td>
 <td>
 <p align="center">
-<br/>14</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>0</p>
-</td>
-<td width="30">
-<p align="center">
-<br/>-</p>
+<br/>16,5 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>10 </p>
 </td>
+<td>
+<p align="center">
+<br/>7 </p>
+</td>
+<td>
+<p>Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p>Sorghum spp. </p>
+</td>
+<td>
+<p align="center">
+<br/>Semences de prébase et de base </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>80 </p>
+</td>
+<td>
+<p align="center">
+<br/>98 </p>
+</td>
+<td>
+<p align="center">
+<br/>14 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Semences certifiées </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>80 </p>
+</td>
+<td>
+<p align="center">
+<br/>98 </p>
+</td>
+<td>
+<p align="center">
+<br/>14 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td/>
 </tr>
 <tr>
 <td colspan="9">
-<p>
-<br/>(a) Les semences de base peuvent présenter une faculté germinative inférieure au taux prévu à condition que la faculté germinative réelle soit mentionnée dans le marquage.<br/>(a bis) La faculté germinative des semences certifiées peut être ramenée à 85 % à la condition que mention en soit faite dans le marquage.<br/>(b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.<br/>(c) La présence d'une graine d'Avena fatua, Avena ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.<br/>(d) L'identité variétale et le taux de ploïdie doivent être conformes respectivement au type déposé et au taux observé lors de l'inscription au catalogue.<br/>(e) Une deuxième graine n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d'autres plantes.<br/>(f) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces.</p>
+<p>(b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales. </p>
+<p>(c) La présence d'une graine d'Avena fatua, Avena ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces. </p>
+<p>(d) L'identité variétale et le taux de ploïdie doivent être conformes respectivement au type déposé et au taux observé lors de l'inscription au catalogue. </p>
+<p>(e) Une deuxième graine n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d'autres plantes. </p>
+<p>(f) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces. </p>
 </td>
 </tr>
 </tbody>
 </table>
+
+B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des semences n'est tolérée que dans la mesure où elle n'empêche pas leur emploi normal par l'utilisateur.
+
+Les semences doivent répondre aux conditions suivantes :
+
+Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe IV ne doit pas excéder :
+
+- un pour les semences de base ;
+
+- trois pour les semences certifiées ;
+
+- trois pour les semences sans aucun qualificatif.
