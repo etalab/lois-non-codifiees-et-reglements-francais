@@ -107,3 +107,5 @@ Questions administratives
 109. Limité aux véhicules de type quadricycle léger pour les titulaires de la catégorie AM.
 
 110. Non habilité à conduire un véhicule de la catégorie D qui relève du champ d'application de la directive 2003/59/ CE.
+
+111. Catégorie A limitée aux motocycles d'une puissance inférieure ou égale à 35 kW et dont le rapport puissance/poids est inférieure à 0,2 kW/kg.
