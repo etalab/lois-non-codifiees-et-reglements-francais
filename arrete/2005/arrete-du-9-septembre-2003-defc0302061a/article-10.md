@@ -10,6 +10,6 @@ Le sort détermine l'ordre dans lequel les candidats subissent les épreuves ora
 
 Chacun des exposés oraux, d'une durée comprise entre vingt-cinq et trente minutes, est suivi d'une période de questions de quinze à vingt minutes sur le sujet qui vient d'être traité ou sur tout autre sujet se rapportant aux matières de l'épreuve.
 
-Un intervalle de vingt-quatre heures au moins sépare deux épreuves successives, à l'exception, si le président en décide ainsi, de l'épreuve de dossier et de l'entretien avec le jury.
+Un intervalle de vingt-quatre heures au moins sépare deux épreuves successives.
 
 Le concours est public. Le président fixe les modalités d'accès dans la salle lors des épreuves orales. Cet accès est interdit aux candidats se présentant à la session en cours. Toutefois, les candidats qui n'ont pas été déclarés admissibles peuvent assister aux épreuves orales d'admission.

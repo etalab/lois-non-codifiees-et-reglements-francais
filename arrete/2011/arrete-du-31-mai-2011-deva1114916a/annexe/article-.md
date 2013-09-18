@@ -207,3 +207,7 @@ Dans la limite de trois fréquences hebdomadaires au total sur les liaisons suiv
 Lyon - Dakar (Sénégal) ;
 
 Marseille - Dakar (Sénégal).
+
+Jusqu'au 30 septembre 2018 :
+
+Paris-Pékin (Chine).

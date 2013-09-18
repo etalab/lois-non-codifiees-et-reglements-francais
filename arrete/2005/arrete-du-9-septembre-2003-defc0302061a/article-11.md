@@ -6,6 +6,8 @@ Les notes obtenues par les candidats lors des épreuves d'admissibilité sont mu
 
 - travail écrit : 10 ;
 
+- dossier : 5
+
 - premier exposé oral : 5 ;
 
 - deuxième exposé oral : 5.
@@ -17,7 +19,5 @@ Les notes obtenues par les candidats lors des épreuves d'admission sont multipl
 - travail écrit : 7 ;
 
 - exposé oral : 5 ;
-
-- dossier : 5 ;
 
 - entretien : 3.
