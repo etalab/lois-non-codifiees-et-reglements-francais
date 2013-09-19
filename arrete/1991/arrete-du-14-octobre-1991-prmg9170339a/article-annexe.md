@@ -17,100 +17,24 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
-<p>Chef de garage coordinateur du parc automobile</p>
-</td>
-<td rowspan="2">
-<p align="center">C</p>
-</td>
-<td valign="top" width="158">
-<p>1 (à compter du 1er-08-1990)</p>
-</td>
-<td valign="top" width="156">
-<p>15 (à compter du 1er-08-1990)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="158">
-<p>1 (à compter du 1er-08-1991)</p>
-</td>
-<td valign="top" width="156">
-<p>15 (à compter du 1er-08-1991)</p>
-</td>
-</tr>
-<tr>
 <td valign="top">
-<p>Agent assurant la gestion, le recrutement et la formation des personnels</p>
+<p align="center">Chef de garage coordonnateur du parc automobile </p>
 </td>
+<td align="center">C</td>
+<td align="center" valign="top" width="158">
+<p>1</p>
+</td>
+<td align="center" valign="top" width="156">
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td valign="top">Agent assurant la gestion, le recrutement et la formation des personnels </td>
 <td>
-<p align="center">C</p>
+<p align="center">C </p>
 </td>
 <td width="158">
-<p align="center">2 (à compter du 1er-08-1992)</p>
-</td>
-<td width="156">
-<p align="center">15 (à compter du 1er-08-1992)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p>Secrétaires particuliers (ères) du Secrétaire général</p>
-</td>
-<td rowspan="2">
-<p align="center">B ou C</p>
-</td>
-<td width="158">
-<p align="center">1</p>
-</td>
-<td width="156">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td width="158">
-<p align="center">2</p>
-</td>
-<td width="156">
-<p align="center">13</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Secrétaire particulier (ère) du Secrétaire général adjoint</p>
-</td>
-<td>
-<p align="center">B ou C</p>
-</td>
-<td width="158">
-<p align="center">1</p>
-</td>
-<td width="156">
-<p align="center">13</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de secrétariat de la coordination</p>
-</td>
-<td>
-<p align="center">B ou C</p>
-</td>
-<td width="158">
-<p align="center">1</p>
-</td>
-<td width="156">
-<p align="center">13</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de secrétariat des directions du SGDN</p>
-</td>
-<td>
-<p align="center">B ou C</p>
-</td>
-<td width="158">
-<p align="center">5</p>
+<p align="center">1 </p>
 </td>
 <td width="156">
 <p align="center">15</p>
@@ -118,45 +42,112 @@
 </tr>
 <tr>
 <td valign="top">
-<p>Chef de secrétariat au secrétariat permanent du comité interministériel du renseignement</p>
+<p>Secrétaires particuliers (ères) du secrétaire général </p>
 </td>
 <td>
-<p align="center">B ou C</p>
+<p align="center">B ou C </p>
 </td>
 <td width="158">
-<p align="center">1</p>
+<p align="center">3</p>
 </td>
 <td width="156">
-<p align="center">13</p>
+<p align="center">17 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Chef du bureau achat-marchés</p>
+<p>Secrétaire particulier (ère) du secrétaire général adjoint <br/>
+</p>
 </td>
 <td>
-<p align="center">B ou C</p>
+<p align="center">B ou C </p>
 </td>
 <td width="158">
 <p align="center">1</p>
 </td>
 <td width="156">
-<p align="center">15</p>
+<p align="center">17</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Responsable du suivi des crédits du SGDN</p>
+<p>Chef de secrétariat coordination </p>
 </td>
 <td>
-<p align="center">B ou C</p>
+<p align="center">B ou C </p>
 </td>
 <td width="158">
 <p align="center">1</p>
 </td>
 <td width="156">
-<p align="center">15</p>
+<p align="center">17 </p>
 </td>
+</tr>
+<tr>
+<td valign="top">
+<p>Chef de secrétariat des directions du SGDSN </p>
+</td>
+<td>
+<p align="center">B ou C </p>
+</td>
+<td width="158">
+<p align="center">3</p>
+</td>
+<td width="156">
+<p align="center">15 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Chef du secrétariat exportation des matériels de guerre <br/>
+</p>
+</td>
+<td>
+<p align="center">B ou C </p>
+</td>
+<td width="158">
+<p align="center">1</p>
+</td>
+<td width="156">
+<p align="center">15 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Chef du bureau courrier <br/>
+</p>
+</td>
+<td>
+<p align="center">B ou C </p>
+</td>
+<td width="158">
+<p align="center">1</p>
+</td>
+<td width="156">
+<p align="center">15 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Chef du secrétariat du chef du centre de formation à la sécurité des systèmes d'information <br/>
+</p>
+</td>
+<td>
+<p align="center">B ou C </p>
+</td>
+<td width="158">
+<p align="center">1</p>
+</td>
+<td width="156">
+<p align="center">15 </p>
+</td>
+</tr>
+<tr>
+<td>Responsable du suivi des crédits du SGDSN <br/>
+</td>
+<td align="center">B ou C </td>
+<td align="center">1</td>
+<td align="center">15 </td>
 </tr>
 </tbody>
 </table>
