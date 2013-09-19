@@ -16,6 +16,8 @@ Bulgarie
 
 Chypre
 
+Croatie : Diploma " magistar farmacije/ magistra farmacije " délivré par Farmaceutsko-biokemijski fakultet Sveuta u Zagrebu, ou par Medicinski fakultet Sveucilita u Splitu, ou par Kemijsko-tehnološki fakultet Sveucilita u Splitu postérieurement au 1er juillet 2013.
+
 Danemark
 
 Espagne

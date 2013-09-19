@@ -20,6 +20,8 @@ Bulgarie
 
 Chypre
 
+Croatie : Svjedodžba prvostupnik (baccalaureus) primaljstva/sveucilišna prvostupnica (baccalaurea) primaljstva délivré par Medicinski fakulteti sveucilišta u Republici Hrvatskoj, ou par Sveucilišta u Republici Hrvatskoj, ou par Veleucilišta i visoke škole u Republici Hrvatskoj postérieurement au 1er juillet 2013.
+
 Danemark
 
 Espagne

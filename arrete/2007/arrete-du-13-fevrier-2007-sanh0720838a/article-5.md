@@ -14,6 +14,8 @@ Ouvrent droit à l'exercice en France de la profession de pharmacien, en applica
 
 1er octobre 1994 pour l'Autriche, la Finlande et la Suède (ces trois Etats ont adhéré à l'Espace économique européen préalablement à leur adhésion, le 1er janvier 1995, à l'Union européenne) ;
 
-1er juin 2002 (date d'entrée en vigueur de l'accord entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part) pour la Suisse,
+1er juin 2002 (date d'entrée en vigueur de l'accord entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part) pour la Suisse ;
+
+1er juillet 2013 (date de l'adhésion) pour la Croatie,
 
 s'ils sont accompagnés d'une attestation délivrée par les autorités compétentes des Etats, membres ou parties, certifiant que les intéressés se sont consacrés effectivement et licitement aux activités en cause sur le territoire de ces Etats pendant au moins trois années consécutives au cours des cinq années précédant la date de délivrance de l'attestation.
