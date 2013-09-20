@@ -1,0 +1,3 @@
+# Article 2
+
+Une prime d'aide à la rénovation thermique peut être consentie aux personnes physiques à raison de travaux réalisés dans leur habitation principale lorsqu'elles en sont propriétaires. La somme des revenus fiscaux de référence, au sens du IV de l'article 1417 du code général des impôts, des personnes occupant le logement ne doit pas excéder un plafond, soit l'avant-dernière année, soit l'année précédant celle de demande de la prime. Ce plafond est égal à 25 000 € si le ménage est composé d'une personne et à 35 000 € si le ménage est composé de deux personnes. Au-delà de deux personnes, cette somme est majorée de 7 500 € par personne supplémentaire composant le ménage.
