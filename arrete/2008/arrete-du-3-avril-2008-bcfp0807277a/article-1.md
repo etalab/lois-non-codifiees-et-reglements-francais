@@ -1,6 +1,6 @@
 # Article 1
 
-I. - La direction générale des finances publiques comprend une direction et neuf services ainsi que, directement placées auprès du directeur général, une délégation aux simplifications, une mission nationale d'audit, une mission nationale " maîtrise des risques ", une mission " communication et relation avec les publics ", une délégation à la gestion des cadres et personnels de centrale et à la responsabilité des comptables, une mission de coopération internationale et une mission " animation du réseau et coordination ". Le directeur général dispose en outre d'un cabinet.
+I. - La direction générale des finances publiques comprend une direction et neuf services ainsi que, directement placées auprès du directeur général, une délégation aux simplifications, une mission nationale d'audit, une mission nationale " maîtrise des risques ", une mission " communication et relation avec les publics", une mission de coopération internationale et une mission " animation du réseau et coordination ". Le directeur général dispose en outre d'un cabinet.
 
 II. - La délégation aux simplifications est chargée de mettre en place une démarche de simplification des procédures et d'allégement des tâches, au bénéfice des agents, des usagers et des partenaires de la direction générale.
 
@@ -18,10 +18,8 @@ Elle assure le pilotage et l'animation des missions " maîtrise des risques " pl
 
 V. - La mission "communication et relation avec les publics" est chargée de définir et de mettre en œuvre la communication interne et externe dans toutes ses composantes. Elle est également chargée de concevoir et de piloter la relation aux usagers de la direction générale, notamment en matière d'accueil, quel que soit le mode de contact, et de qualité de service.
 
-VI. - La délégation à la gestion des cadres et personnels de centrale et à la responsabilité des comptables assure le suivi personnalisé des personnels de statut d'administration centrale. En matière de responsabilité des comptables publics et des régisseurs, elle conduit la politique générale et suit les questions de mise en débet ainsi que les demandes de constatation de la force majeure ou en remise gracieuse.
+VI. - La mission de coopération internationale est chargée d'organiser et de coordonner les actions de coopération internationale de la direction générale.
 
-VII. - La mission de coopération internationale est chargée d'organiser et de coordonner les actions de coopération internationale de la direction générale.
+VII. - La mission " animation du réseau et coordination " est chargée du suivi de l'animation du réseau au niveau départemental et infradépartemental ainsi que des relations entre l'administration centrale et le réseau. Elle est le point d'entrée unique pour tous les sujets liés à la fusion. Elle s'assure du bon fonctionnement des nouvelles structures fusionnées.
 
-VIII. - La mission " animation du réseau et coordination " est chargée du suivi de l'animation du réseau au niveau départemental et infradépartemental ainsi que des relations entre l'administration centrale et le réseau. Elle est le point d'entrée unique pour tous les sujets liés à la fusion. Elle s'assure du bon fonctionnement des nouvelles structures fusionnées.
-
-IX. - Au sein du cabinet, le cabinet international établit les relations entre le directeur général et ses homologues étrangers. Il réalise des études internationales en matière de gestion fiscale, de gestion publique et de gestion transversale.
+VIII. - Au sein du cabinet, le cabinet international établit les relations entre le directeur général et ses homologues étrangers. Il réalise des études internationales en matière de gestion fiscale, de gestion publique et de gestion transversale.
