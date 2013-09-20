@@ -1,7 +1,9 @@
 # Article 7
 
-Il est créé, auprès du ministre chargé de la culture et pour une durée de cinq ans, une commission nationale d'habilitation.
+Une commission nationale d'habilitation, instituée auprès du ministre chargé de la culture pour une durée de cinq ans, est chargée d'émettre un avis sur la demande d'habilitation ou de renouvellement d'habilitation présentée par l'établissement.
 
-Les modalités de fonctionnement de cette commission sont fixées par arrêté du ministre chargé de la culture.
+Elle vérifie que le projet de formation proposé par l'établissement répond aux conditions mentionnées à l'article 5.
 
-Elle est chargée d'émettre un avis sur les demandes d'habilitation ou de renouvellement d'habilitation des établissements.
+Lorsqu'elle examine une demande, la commission veille à l'équilibre de la répartition sur l'ensemble du territoire des formations supérieures pour le spectacle vivant relevant du ministère chargé de la culture.
+
+Lorsqu'elle rend son avis, elle se prononce sur la durée de l'habilitation accordée par le ministre chargé de la culture. Elle propose en outre les évolutions souhaitables de l'offre de formation, les objectifs et les contenus d'enseignement proposés.
