@@ -32,4 +32,6 @@ c) pour les actions de plantation réalisées dans le cadre des plans déposés 
 
 - à un montant de 1 600 €/ha pour le plan collectif local relevant du conseil de bassin viticole Val-de-Loire-Centre ;
 
+- et à partir des plantations de la campagne 2012-2013 à un montant revalorisé à 4 500 €/ha pour l'ensemble des plans collectifs locaux dans le respect des conditions prévues par l'arrêté du 3 janvier 2013 relatif aux modalités d'octroi de l'aide à la restructuration et à la reconversion du vignoble pour les plantations 2012-2013.
+
 _(1) Cette date pourra être adaptée pour les zones entrant dans le dispositif d'aide à la restructuration et à la reconversion du vignoble au cours de la campagne viticole 2010-2011._

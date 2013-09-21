@@ -18,4 +18,6 @@ Le complément irrigation n'est versé que si l'exploitant détient un récépis
 
 2 100 €/ ha pour les plans collectifs locaux relevant des conseils de bassin viticole Languedoc-Roussillon et vallée du Rhône-Provence ;
 
-1 600 €/ ha pour le plan collectif local relevant du conseil de bassin viticole Val de Loire-Centre.
+1 600 €/ ha pour le plan collectif local relevant du conseil de bassin viticole Val de Loire-Centre ;
+
+L'indemnité pour pertes de recettes pour les actions de plantation est revalorisée à 4 500 €/ha pour l'ensemble des superficies 2012-2013 des plans collectifs locaux. Les exploitants viticoles fournissent une garantie complémentaire portant leur garantie totale à hauteur de 9 700 €/ha, sans préjudice des dispositions fixées au paragraphe 4 bis de l'article 8 de l'arrêté du 26 mai 2009 modifié susvisé. De plus, l'ensemble des garanties des exploitants couvre pour chaque plan au moins 80 % du montant de la participation aux coûts de la plantation et de l'indemnité pour perte de recette liée aux plantations dudit plan.
