@@ -204,7 +204,6 @@
 - [Arrêté du 4 février 2011 (MCCK1033596A)](arrete-du-4-fevrier-2011-mcck1033596a)
 - [Arrêté du 4 février 2011 (MCCK1033621A)](arrete-du-4-fevrier-2011-mcck1033621a)
 - [Arrêté du 4 janvier 2011 (AGRG1100207A)](arrete-du-4-janvier-2011-agrg1100207a)
-- [Arrêté du 4 janvier 2011 (DEVA1100256A)](arrete-du-4-janvier-2011-deva1100256a)
 - [Arrêté du 4 janvier 2011 (ETSS1100280A)](arrete-du-4-janvier-2011-etss1100280a)
 - [Arrêté du 4 janvier 2011 (MENF1100236A)](arrete-du-4-janvier-2011-menf1100236a)
 - [Arrêté du 4 juillet 2003 (SANH0322472A)](arrete-du-4-juillet-2003-sanh0322472a)
