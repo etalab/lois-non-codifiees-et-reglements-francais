@@ -18,7 +18,7 @@ Pour l'application du 1° de l'article 4 du présent arrêté, sont considérés
 
 ― fruits et légumes frais dont les pommes de terre, les oignons et les aulx ;
 
-― fleurs coupées, plantes et fleurs en pots ;
+― fleurs, plantes coupées ou en pot ;
 
 ― miel ;
 
