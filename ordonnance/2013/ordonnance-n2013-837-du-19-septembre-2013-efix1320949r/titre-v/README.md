@@ -1,0 +1,4 @@
+# TITRE V : DISPOSITIONS EN MATIÈRE DE DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITÉ FONCIÈRE
+
+- [Article 24](article-24.md)
+- [Article 25](article-25.md)
