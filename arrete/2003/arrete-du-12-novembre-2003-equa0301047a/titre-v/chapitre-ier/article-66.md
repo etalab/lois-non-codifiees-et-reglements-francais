@@ -1,3 +1,0 @@
-# Article 66
-
-Le présent titre définit les obligations que respectent les entreprises et organismes autorisés à occuper ou utiliser la zone réservée d'un aérodrome dont le trafic annuel est supérieur à 70 000 passagers commerciaux ou figurant sur une liste fixée par décision du ministre chargé des transports. Il précise les connaissances en matière de sûreté dispensées aux personnes pour lesquelles les entreprises et organismes précités sollicitent un titre de circulation sur ces aérodromes ainsi que les tâches visées au troisième alinéa de l'article R. 213-1 qui ne peuvent être exécutées que par du personnel spécialement formé et entraîné.

@@ -1654,7 +1654,6 @@
 - [Arrêté du 20 avril 2005 (BUDL0500008A)](arrete-du-20-avril-2005-budl0500008a)
 - [Arrêté du 20 avril 2011 (DEFD1111060A)](arrete-du-20-avril-2011-defd1111060a)
 - [Arrêté du 20 avril 2011 (DEFP1127352A)](arrete-du-20-avril-2011-defp1127352a)
-- [Arrêté du 20 avril 2011 (DEVA1110835A)](arrete-du-20-avril-2011-deva1110835a)
 - [Arrêté du 20 avril 2011 (DEVA1111046A)](arrete-du-20-avril-2011-deva1111046a)
 - [Arrêté du 20 avril 2011 (EFIT1108213A)](arrete-du-20-avril-2011-efit1108213a)
 - [Arrêté du 20 avril 2011 (ETSH1111063A)](arrete-du-20-avril-2011-etsh1111063a)

@@ -1,3 +1,0 @@
-# Article 35
-
-Présentation des chiens au contrôle initial de l'administration. - L'exploitant d'aérodrome ou l'entreprise opérant pour son compte est tenu de soumettre chaque chien au contrôle initial des services compétents de l'Etat dans les 6 mois suivant sa première utilisation. Les chiens utilisés doivent satisfaire à des exigences de performance minimale portant sur leur capacité à détecter des substances explosives. En cas de performance insuffisante, un animal ne peut être maintenu en service. Toutefois, l'animal peut à nouveau être présenté au contrôle initial de l'administration après avoir subi un entraînement complémentaire.

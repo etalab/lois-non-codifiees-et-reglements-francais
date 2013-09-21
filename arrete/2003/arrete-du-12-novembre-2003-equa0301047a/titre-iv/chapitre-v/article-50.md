@@ -1,3 +1,0 @@
-# Article 50
-
-Vérification. - L'entreprise de transport aérien ou l'entreprise opérant pour son compte est tenue de réaliser une vérification des biens et produits remis par une entreprise ou un organisme autre qu'un établissement connu. Cette mesure peut être réalisée, dans les limites fixées pour chacun de ces examens par décision du ministre chargé des transports, par une fouille manuelle, par un examen visuel, par un examen cynotechnique, par l'utilisation d'un équipement radioscopique classique, d'un équipement de détection des masses métalliques ou d'un équipement de détection de traces ou de vapeurs d'explosifs, ou par une combinaison de ces moyens.

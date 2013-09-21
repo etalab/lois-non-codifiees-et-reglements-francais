@@ -1,5 +1,0 @@
-# Article 2
-
-Dans le cadre d'expérimentations opérationnelles, les passagers en correspondance peuvent se voir proposer, sur des terminaux désignés par l'exploitant d'aérodrome, le contrôle des liquides obtenus dans un aéroport d'un pays tiers ou à bord d'un aéronef d'une compagnie aérienne non communautaire, à condition que le liquide soit placé dans un sac conforme aux recommandations de l'Organisation de l'aviation civile internationale et non exempté au titre de l'article 1er, par le biais de dispositifs d'évaluation des LAG répondant aux normes prévues par le point 12.7 de l'annexe au règlement (UE) n° 185/2010. Les LAG ayant fait l'objet d'un contrôle satisfaisant sont rendus au passager après avoir été placés dans un nouveau sac à témoin d'intégrité, accompagnés d'un document attestant le contrôle des liquides sur l'aéroport.
-
-L'exploitant d'aérodrome sollicite l'autorisation de la direction du transport aérien de la direction générale de l'aviation civile après avis du préfet territorialement compétent, préalablement au déploiement de toute expérimentation opérationnelle portant sur l'inspection filtrage de LAG transportés par des passagers.

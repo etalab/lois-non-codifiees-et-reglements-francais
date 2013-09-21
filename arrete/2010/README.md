@@ -139,7 +139,6 @@
 - [Arrêté du 3 décembre 2010 (AGRT1029802A)](arrete-du-3-decembre-2010-agrt1029802a)
 - [Arrêté du 3 décembre 2010 (APPD1031409A)](arrete-du-3-decembre-2010-appd1031409a)
 - [Arrêté du 3 décembre 2010 (BCRD1025711A)](arrete-du-3-decembre-2010-bcrd1025711a)
-- [Arrêté du 3 décembre 2010 (DEVA1021678A)](arrete-du-3-decembre-2010-deva1021678a)
 - [Arrêté du 3 décembre 2010 (DEVO1021668A)](arrete-du-3-decembre-2010-devo1021668a)
 - [Arrêté du 3 décembre 2010 (EFII1030879A)](arrete-du-3-decembre-2010-efii1030879a)
 - [Arrêté du 3 décembre 2010 (ESRF1025238A)](arrete-du-3-decembre-2010-esrf1025238a)
