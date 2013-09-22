@@ -212,6 +212,8 @@ Bourg-en-Bresse.
 
 Caen.
 
+Cayenne.
+
 Chartres.
 
 Clermont-Ferrand.
