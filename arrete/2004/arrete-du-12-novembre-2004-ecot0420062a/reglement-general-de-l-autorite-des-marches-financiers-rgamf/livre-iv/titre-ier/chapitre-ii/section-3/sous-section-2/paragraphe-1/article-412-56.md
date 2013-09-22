@@ -18,4 +18,6 @@ c) Capitaux propres supérieurs à 2 000 000 d'euros ;
 
 5° Aux investisseurs dont la souscription initiale est supérieure ou égale 10 000 euros lorsque l'OPCVM ne garantit pas le capital souscrit ;
 
-6° A tout investisseur lorsque l'OPCVM garantit le capital souscrit et bénéficie lui-même d'une garantie, ou fait bénéficier ses porteurs d'une garantie.
+6° A tout investisseur lorsque l'OPCVM garantit le capital souscrit et bénéficie lui-même d'une garantie, ou fait bénéficier ses porteurs d'une garantie ;
+
+7° A tous autres investisseurs dès lors que la souscription ou l'acquisition est réalisée en leur nom et pour leur compte par un prestataire de services d'investissement agissant dans le cadre d'un service d'investissement de gestion de portefeuille, dans les conditions fixées au I de l'article L. 533-13 du code monétaire et financier et à l'article 314-60.

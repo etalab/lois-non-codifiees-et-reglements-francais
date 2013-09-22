@@ -28,7 +28,9 @@ b) Chiffre d'affaires supérieur à 40 000 000 euros ;
 
 c) Capitaux propres supérieurs à 2 000 000 euros ;
 
-8° Aux investisseurs dont la souscription initiale est supérieure ou égale à 500 000 euros.
+8° Aux investisseurs dont la souscription initiale est supérieure ou égale à 500 000 euros ;
+
+9° A tous autres investisseurs dès lors que la souscription ou l'acquisition est réalisée en leur nom et pour leur compte par un prestataire de services d'investissement agissant dans le cadre d'un service d'investissement de gestion de portefeuille, dans les conditions fixées au I de l'article L. 533-13 du code monétaire et financier et à l'article 314-60.
 
 Les seuils mentionnés au I ne sont pas applicables aux dirigeants, salariés et personnes physiques agissant pour le compte de la société de gestion de portefeuille lorsque le fonds est un FCPR allégé.
 
