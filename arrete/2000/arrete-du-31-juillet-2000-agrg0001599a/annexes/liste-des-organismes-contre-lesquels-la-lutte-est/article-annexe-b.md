@@ -62,6 +62,8 @@ Phthorimaea operculella (teigne de la pomme de terre) ;
 
 Quadraspidiotus perniciosus (pou de San José) ;
 
+Rhagoletis completa Cresson (mouche du brou de la noix) ;
+
 Scaphoideus titanus (vecteur du phytoplasme de la flavescence dorée) ;
 
 Scolytes non listés aux annexes de l'arrêté du 24 mai 2006 susmentionné ;
@@ -238,7 +240,7 @@ Mus musculus (souris domestique) ;
 
 Mussidia migrivenella (lépidoptère) ;
 
-Myndus spp. (cicadelles cixiidées vectrices du dépérissement foliaire viral  CFDV  et du jaunissement mortel) ;
+Myndus spp. (cicadelles cixiidées vectrices du dépérissement foliaire viral CFDV et du jaunissement mortel) ;
 
 Ochlerus spp. (punaises vectrices de dépérissements foliaires de palmacées à Phytomonas) ;
 
@@ -398,7 +400,7 @@ Pseudocercospora purpurea (cercosporiose de l'avocatier) ;
 
 Pyricularia oryzae ;
 
-Sclerophthora macrospora (charbon vêtu de la canne à sucre  covered smut ) ;
+Sclerophthora macrospora (charbon vêtu de la canne à sucre covered smut ) ;
 
 Sphaceloma perseae ;
 
@@ -562,9 +564,9 @@ Tomato spotted wilt virus (maladie bronzée de la tomate) ;
 
 Tomato yellow leaf curl virus (enroulement de la tomate, papaye, tabac) ;
 
-Vanilla mosaic potyvirus (potyvirus  Tahiti ) ;
+Vanilla mosaic potyvirus (potyvirus Tahiti ) ;
 
-Vanilla necrotic potyvirus (potyvirus  Tonga ) ;
+Vanilla necrotic potyvirus (potyvirus Tonga ) ;
 
 Watermelon mosaic virus II (cucurbitacées) ;
 
