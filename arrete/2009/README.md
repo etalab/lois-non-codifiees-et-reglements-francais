@@ -162,7 +162,6 @@
 - [Arrêté du 3 mai 1999 (AGRG9900673A)](arrete-du-3-mai-1999-agrg9900673a)
 - [Arrêté du 4 août 2009 (AGRG0918544A)](arrete-du-4-aout-2009-agrg0918544a)
 - [Arrêté du 4 août 2009 (AGRM0914131A)](arrete-du-4-aout-2009-agrm0914131a)
-- [Arrêté du 4 août 2009 (BCFL0909563A)](arrete-du-4-aout-2009-bcfl0909563a)
 - [Arrêté du 4 août 2009 (BCFL0910096A)](arrete-du-4-aout-2009-bcfl0910096a)
 - [Arrêté du 4 août 2009 (BCFL0910204A)](arrete-du-4-aout-2009-bcfl0910204a)
 - [Arrêté du 4 août 2009 (DEFC0912704A)](arrete-du-4-aout-2009-defc0912704a)

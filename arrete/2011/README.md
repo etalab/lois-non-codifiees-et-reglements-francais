@@ -447,7 +447,6 @@
 - [Arrêté du 7 juillet 2011 (AGRE1117554A)](arrete-du-7-juillet-2011-agre1117554a)
 - [Arrêté du 7 juillet 2011 (AGRE1117555A)](arrete-du-7-juillet-2011-agre1117555a)
 - [Arrêté du 7 juillet 2011 (AGRT1117137A)](arrete-du-7-juillet-2011-agrt1117137a)
-- [Arrêté du 7 juillet 2011 (BCRE1028319A)](arrete-du-7-juillet-2011-bcre1028319a)
 - [Arrêté du 7 juillet 2011 (DEVA1118878A)](arrete-du-7-juillet-2011-deva1118878a)
 - [Arrêté du 7 juillet 2011 (JUSK1120117A)](arrete-du-7-juillet-2011-jusk1120117a)
 - [Arrêté du 7 juillet 2011 (JUSK1120118A)](arrete-du-7-juillet-2011-jusk1120118a)

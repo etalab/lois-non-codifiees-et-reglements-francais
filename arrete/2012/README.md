@@ -1457,7 +1457,6 @@
 - [Arrêté du 17 janvier 2012 (AGRE1200369A)](arrete-du-17-janvier-2012-agre1200369a)
 - [Arrêté du 17 janvier 2012 (AGRE1200374A)](arrete-du-17-janvier-2012-agre1200374a)
 - [Arrêté du 17 janvier 2012 (AGRG1201665A)](arrete-du-17-janvier-2012-agrg1201665a)
-- [Arrêté du 17 janvier 2012 (BCRE1132953A)](arrete-du-17-janvier-2012-bcre1132953a)
 - [Arrêté du 17 janvier 2012 (DEVR1201666A)](arrete-du-17-janvier-2012-devr1201666a)
 - [Arrêté du 17 janvier 2012 (DEVR1201672A)](arrete-du-17-janvier-2012-devr1201672a)
 - [Arrêté du 17 janvier 2012 (IOCE1200167A)](arrete-du-17-janvier-2012-ioce1200167a)
