@@ -1239,7 +1239,6 @@
 - [Arrêté du 14 octobre 2011 (JUST1128451A)](arrete-du-14-octobre-2011-just1128451a)
 - [Arrêté du 14 septembre 2011 (EFII1125161A)](arrete-du-14-septembre-2011-efii1125161a)
 - [Arrêté du 14 septembre 2012 (AFSP1234499A)](arrete-du-14-septembre-2012-afsp1234499a)
-- [Arrêté du 14 septembre 2012 (DEFH1231315A)](arrete-du-14-septembre-2012-defh1231315a)
 - [Arrêté du 14 septembre 2012 (DEVA1222591A)](arrete-du-14-septembre-2012-deva1222591a)
 - [Arrêté du 14 septembre 2012 (DEVA1234546A)](arrete-du-14-septembre-2012-deva1234546a)
 - [Arrêté du 14 septembre 2012 (DEVA1234547A)](arrete-du-14-septembre-2012-deva1234547a)
