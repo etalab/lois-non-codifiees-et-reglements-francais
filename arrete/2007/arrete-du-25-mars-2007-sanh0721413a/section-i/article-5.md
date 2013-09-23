@@ -1,15 +1,19 @@
 # Article 5
 
-A l'issue des élections professionnelles des praticiens et en vue de la désignation des membres mentionnés au 1° de l'article R. 6152-325 du code de la santé publique, chacune des organisations syndicales les plus représentatives au plan national adresse au Centre national de gestion le nom des candidats titulaires et suppléants qu'elle propose par région. Le Centre national de gestion transmet ces propositions au directeur général de l'agence régionale de santé concerné.
-
-Sauf dérogation accordée par le directeur général de l'agence régionale de santé, les membres ainsi désignés exercent leurs fonctions dans la région.
+A l'issue des élections professionnelles des praticiens et en vue de la désignation des membres mentionnés au deuxième alinéa de l'article R. 6152-325 du code de la santé publique, chacune des organisations syndicales les plus représentatives au plan national adresse ses propositions au directeur général de l'agence régionale de santé concernée.
 
 Les organisations les plus représentatives au plan national mentionnées au premier alinéa du présent article sont, par ordre alphabétique, les suivantes :
 
--Confédération des praticiens des hôpitaux (CPH) ;
+- Avenir Hospitalier ;
 
--Coordination médicale hospitalière (CMH) ;
+- Confédération des praticiens des hôpitaux (CPH) ;
 
--Intersyndicat national des praticiens hospitaliers (INPH) ;
+- Coordination médicale hospitalière (CMH) ;
 
--Syndicat national des médecins, chirurgiens, spécialistes et biologistes des hôpitaux publics (SNAM-HP).
+- Intersyndicat national des praticiens hospitaliers (INPH) ;
+
+- Syndicat national des médecins, chirurgiens, spécialistes et biologistes des hôpitaux publics (SNAM-HP).
+
+Le représentant des chefs de clinique des universités-assistants des hôpitaux et assistants des hôpitaux mentionné au troisième alinéa de l'article R. 6152-325 et son suppléant sont désignés par l'organisation syndicale la plus représentative de ces personnels au niveau national.
+
+Le représentant des internes mentionné au quatrième alinéa de l'article R. 6152-325 et son suppléant sont désignés par le directeur général de l'agence régionale de santé sur proposition des internes siégeant au sein des conseils des unités de formation et de recherche liées par convention aux établissements publics de santé.
