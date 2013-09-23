@@ -2109,7 +2109,6 @@
 - [Arrêté du 25 août 2009 (IOCB0910545A)](arrete-du-25-aout-2009-iocb0910545a)
 - [Arrêté du 25 août 2009 (SASH0907299A)](arrete-du-25-aout-2009-sash0907299a)
 - [Arrêté du 25 février 2005 (INDI0404097A)](arrete-du-25-fevrier-2005-indi0404097a)
-- [Arrêté du 25 février 2009 (AGRG0903400A)](arrete-du-25-fevrier-2009-agrg0903400a)
 - [Arrêté du 25 février 2009 (DEFD0908038A)](arrete-du-25-fevrier-2009-defd0908038a)
 - [Arrêté du 25 février 2009 (DEVA0831417A)](arrete-du-25-fevrier-2009-deva0831417a)
 - [Arrêté du 25 février 2009 (DEVA0831427A)](arrete-du-25-fevrier-2009-deva0831427a)

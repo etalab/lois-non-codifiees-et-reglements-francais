@@ -10,9 +10,9 @@ Peuvent bénéficier de cette subvention les personnes physiques suivantes :
 
 Le demandeur doit satisfaire, à la date de décision de l'engagement juridique de l'aide, les conditions énumérées ci-après :
 
-1° Déclarer être âgé d'au moins 18 ans et de moins de 60 ans. Pour cette condition, la situation est appréciée au 1er janvier de l'année civile de dépôt de la demande ;
+1° Déclarer être âgé d'au moins 18 ans et ne pas avoir atteint l'âge prévu à l'article D. 161-2-1-9 du code de la sécurité sociale. Pour cette condition, la situation est appréciée au 1er janvier de l'année civile de dépôt de la demande ;
 
-2° Déclarer sur l'honneur être à jour des obligations fiscales et sociales légalement exigibles aux régimes de base obligatoires de protection sociale de salariés et de non-salariés, sauf accord d'étalement, ainsi que des redevances émises par les agences de l'eau ;
+2° Déclarer sur l'honneur être à jour des obligations fiscales et sociales légalement exigibles aux régimes de base obligatoires de protection sociale de salariés et de non-salariés, sauf accord d'étalement ;
 
 3° Déclarer respecter, dans le cadre de l'exploitation faisant l'objet de l'aide, les conditions minimales requises dans le domaine de l'environnement attachées à l'investissement concerné par la demande d'aide et mentionnées à l'article 26 du règlement (CE) n° 1698/2005 du Conseil. Les modalités de contrôle du respect des normes minimales sont mentionnées à l'article 18 de cet arrêté ;
 

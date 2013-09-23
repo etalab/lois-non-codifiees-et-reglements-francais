@@ -24,7 +24,7 @@ Sans préjudice de l'obligation de retrait et de destruction des matériels à r
 
 B. ― Autres dispositions :
 
-1. Interdiction pour l'éleveur, le détenteur ou le propriétaire des animaux de livrer à la consommation humaine le lait et les produits laitiers provenant, totalement ou en partie, des caprins de l'exploitation. Le lait et les produits ainsi écartés de la consommation humaine ne doivent pas non plus être destinés à l'alimentation des espèces de rente, excepté à l'alimentation des animaux du troupeau ;
+1. Interdiction d'utiliser le lait et les produits laitiers provenant des caprins destinés à être mis à mort ou détruits pour l'alimentation des ruminants, sauf au sein de cette exploitation.
 
 2. Interdiction d'introduire des caprins dans l'exploitation préalablement ou pendant la réalisation du nettoyage et de la désinfection ;
 
