@@ -1,13 +1,13 @@
 # Article 6
 
-Les bureaux suivants, relevant de l'ensemble des membres du comité exécutif de la marine, oeuvrent plus particulièrement dans le domaine fonctionnel des soutiens et des finances :
+Les bureaux suivants, relevant de l'ensemble des membres du comité exécutif de la marine, œuvrent plus particulièrement dans le domaine fonctionnel des soutiens et des finances :
 
-- le bureau "finances" ;
+- le bureau " finances " ;
 
-- le bureau "infrastructure" ;
+- le bureau " infrastructure " ;
 
-- le bureau "logistique générale" ;
+- le bureau " maintien en condition opérationnelle - transverse " ;
 
-- le bureau "soutiens de l'aéronautique navale" ;
+- le bureau " maintien en condition opérationnelle - aéronautique " ;
 
-- le bureau "soutiens navals".
+- le bureau " maintien en condition opérationnelle - naval ".

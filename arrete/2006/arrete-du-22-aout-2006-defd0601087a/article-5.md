@@ -10,4 +10,6 @@ Les bureaux suivants, relevant de l'ensemble des membres du comité exécutif de
 
 - le bureau "pilotage de la masse salariale" ;
 
-- le bureau "politique des ressources humaines".
+- le bureau "politique des ressources humaines" ;
+
+- le bureau "systèmes d'information d'administration et de gestion".

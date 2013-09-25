@@ -1,12 +1,12 @@
 # Article 6
 
-Le sous-chef d'état-major "plans et programmes" :
+Le sous-chef d'état-major " plans et programmes " :
 
 1. Prépare l'avenir de la marine et fait mener les études de prospective ;
 
 2. Elabore la politique générale de la marine et propose son organisation générale et son format ;
 
-3. En cohérence avec les directives du chef d'état-major des armées, formule la stratégie générale militaire de la marine ainsi que la stratégie navale et élabore le concept d'emploi des forces maritimes ;
+3. En cohérence avec les directives du chef d'état-major des armées, formule la  stratégie militaire générale de la marine ainsi que la stratégie navale et élabore le concept d'emploi des forces maritimes ;
 
 4. Veille à la cohérence globale de la marine à court, moyen et long termes ;
 
@@ -20,4 +20,4 @@ Le sous-chef d'état-major "plans et programmes" :
 
 9. Au titre des activités de la marine pour le contrôle des exportations, il est le correspondant de l'état-major des armées et des industriels.
 
-Le sous-chef d'état-major "plans et programmes" est assisté d'un adjoint et de l'officier de cohérence d'armée de la marine.
+Le sous-chef d'état-major " plans et programmes " est assisté d'un adjoint et de l'officier de cohérence d'armée de la marine.
