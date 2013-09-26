@@ -60,7 +60,6 @@
 - [Décret n°98-974 du 2 novembre 1998 (ECOP9800548D)](decret-n98-974-du-2-novembre-1998-ecop9800548d)
 - [Décret n°98-975 du 2 novembre 1998 (ECOP9800549D)](decret-n98-975-du-2-novembre-1998-ecop9800549d)
 - [Décret n°98-979 du 2 novembre 1998 (ECOP9800553D)](decret-n98-979-du-2-novembre-1998-ecop9800553d)
-- [Décret du 3 juin 1998 (ECOC9800029D)](decret-du-3-juin-1998-ecoc9800029d)
 - [Décret n°76-1167 du 3 décembre 1976](decret-n76-1167-du-3-decembre-1976)
 - [Décret n°98-148 du 3 mars 1998 (EQUT9800061D)](decret-n98-148-du-3-mars-1998-equt9800061d)
 - [Décret n°98-253 du 3 avril 1998 (INTA9800091D)](decret-n98-253-du-3-avril-1998-inta9800091d)
