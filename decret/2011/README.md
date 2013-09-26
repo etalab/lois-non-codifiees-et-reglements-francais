@@ -20,6 +20,7 @@
 - [Décret n°2011-1474 du 8 novembre 2011 (IOCB1111985D)](decret-n2011-1474-du-8-novembre-2011-iocb1111985d)
 - [Décret n°2011-1475 du 9 novembre 2011 (IOCS1101081D)](decret-n2011-1475-du-9-novembre-2011-iocs1101081d)
 - [Décret n°2011-1257 du 10 octobre 2011 (DEVL1114005D)](decret-n2011-1257-du-10-octobre-2011-devl1114005d)
+- [Décret n°2011-1508 du 10 novembre 2011 (AGRT1121356D)](decret-n2011-1508-du-10-novembre-2011-agrt1121356d)
 - [Décret n°2011-164 du 10 février 2011 (ESRS1014943D)](decret-n2011-164-du-10-fevrier-2011-esrs1014943d)
 - [Décret n°2011-954 du 10 août 2011 (ETSH1114682D)](decret-n2011-954-du-10-aout-2011-etsh1114682d)
 - [Décret n°86-1099 du 10 octobre 1986](decret-n86-1099-du-10-octobre-1986)
