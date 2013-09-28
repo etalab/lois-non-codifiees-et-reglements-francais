@@ -12,8 +12,11 @@ Les substances interdites ou réglementées au sens des I à IV de l'article L. 
 
 2. Marchandises dangereuses pour la sécurité publique
 
-Les matériels des 1re, 2e, 3e, 4e, 5e et 6e catégories mentionnés à l'article L. 2335-1 du code de la défense, à l'exclusion des
-fusils et carabines de chasse de la 5e catégorie ainsi que des projectiles et munitions de chasse, pour lesquels les détenteurs ou les transporteurs justifient qu'ils sont exclusivement affectés à leur usage personnel.
+Les matériels, armes, munitions et leurs éléments des catégories A, B et C, du 1° de la catégorie D et des a, b et c du 2° de la catégorie D soumis au régime d'autorisation d'importation mentionné au I de l'article L. 2335-1 du code de la défense, à l'exclusion :
+
+-des armes, munitions et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C ;
+
+-des fusils et carabines de chasse ainsi que des projectiles et munitions de chasse des 1°, 7° et 8° de la catégorie C et du 1° de la catégorie D, pour lesquels les détenteurs et transporteurs justifient qu'ils sont exclusivement affectés à leur usage personnel.
 
 Les produits chimiques du tableau I annexé à la convention de Paris et mentionnés à l'article L. 2342-8 du code de la défense.
 
@@ -39,7 +42,7 @@ Les substances classifiées en catégorie 1 par les annexes I du règlement (CE)
 
 Les matériels de guerre et matériels assimilés mentionnés à l'article L. 2335-2 du code de la défense.
 
-Les produits liés à la défense mentionnés à l'article L. 2335-10 du code de la défense.
+Les produits liés à la défense mentionnés à l'article L. 2335-9 du code de la défense.
 
 Les matériels mentionnés à l'article L. 2335-18 du code de la défense.
 

@@ -14,11 +14,11 @@ Les déchets définis à l'article L. 541-1-1 du code de l'environnement régis 
 
 2. Marchandises dangereuses pour la sécurité publique
 
-Les matériels des 1re, 2e, 3e, 4e, 5e et 6e catégories mentionnés à l'article L. 2335-1 du code de la défense.
+Les matériels, armes, munitions et leurs éléments des catégories A, B et C, du 1° de la catégorie D et des a, b et c du 2° de la catégorie D soumis au régime d'autorisation d'importation mentionné au I de l'article L. 2335-1 du code de la défense, à l'exclusion :
 
-Les produits chimiques du tableau I annexé à la convention de Paris et mentionnés à l'article L. 2342-8 du code de la défense.
+-des armes, munitions et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C ;
 
-Les produits explosifs mentionnés à l'article L. 2352-1 du code de la défense.
+-des fusils et carabines de chasse ainsi que des projectiles et munitions de chasse des 1°, 7° et 8° de la catégorie C et du 1° de la catégorie D, pour lesquels les détenteurs et transporteurs justifient qu'ils sont exclusivement affectés à leur usage personnel.
 
 3. Marchandises dangereuses pour la moralité publique.
 
