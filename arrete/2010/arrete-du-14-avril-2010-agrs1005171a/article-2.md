@@ -18,9 +18,9 @@ Section biochimie, microbiologie et biotechnologie ;
 
 Section génie des procédés des industries agricoles et agroalimentaires :
 
-― option A : génie industriel alimentaire ;
+― option A : génie alimentaire ;
 
-― option B : génie alimentaire ;
+― option B : génie industriel alimentaire ;
 
 Section sciences et techniques des aménagements de l'espace :
 

@@ -1023,11 +1023,7 @@ Option A : sciences économiques et gestion de l'entreprise
 
 Option B : sciences économiques et gestion commerciale
 
-Option C : sciences économiques et gestion de l'environnement
-
-Option D : sciences économiques et économie sociale et familiale
-
-Option E : sciences économiques et techniques comptables, bureautique
+Option C : sciences économiques et économie sociale et familiale
 
 Concours externe
 
@@ -2340,7 +2336,8 @@ Concours externe
 </td>
 <td align="center">
 <br/>Exposé : 30 minutes maximum<br/>
-<br/>Entretien : 30 minutes maximum<br/>
+<p>Entretien : 30 minutes maximum<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -2365,7 +2362,8 @@ Concours externe
 </td>
 <td align="center">
 <br/>Exposé : 15 minutes maximum<br/>
-<br/>Entretien : 30 minutes maximum<br/>
+<p>Entretien : 30 minutes maximum<br/>
+</p>
 </td>
 <td align="center">
 <br/>

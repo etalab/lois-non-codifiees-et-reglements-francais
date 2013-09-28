@@ -4,7 +4,7 @@
 
 Epreuve écrite d'admissibilité :
 
-Dans chaque section et option, l'épreuve est celle de la deuxième épreuve d'admissibilité décrite aux annexes I et II.
+Dans chaque section et option, l'épreuve est celle de la deuxième épreuve d'admissibilité décrite à l'annexe I.
 
 Epreuve orale d'admission :
 

@@ -1,0 +1,5 @@
+# Article 6-2
+
+<div align="left">Dans la première partie, le candidat décrit en trois pages dactylographiées maximum les fonctions et responsabilités qui lui ont été confiées dans le domaine de l'enseignement, en formation initiale (collège, lycée, apprentissage), en formation continue des adultes ou dans la direction d'une exploitation agricole ou d'un atelier technologique et les acquis professionnels qui en sont résultés. Le candidat développe dans la seconde partie, en sept pages dactylographiées maximum, l'une de ses réalisations pédagogiques dans la discipline concernée par le concours, relative à une situation d'apprentissage et à la conduite d'une classe qu'il a eue en responsabilité, étendue, le cas échéant, à la prise en compte de la diversité des élèves ainsi qu'à l'exercice de la responsabilité éducative et à l'éthique professionnelle. Sa présentation met en évidence les apprentissages, les objectifs, les progressions et les résultats obtenus ainsi que les problématiques rencontrées.<br/>
+<br/>
+</div>

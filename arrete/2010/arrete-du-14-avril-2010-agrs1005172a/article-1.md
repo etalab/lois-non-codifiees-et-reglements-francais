@@ -22,11 +22,7 @@ Section sciences économiques et sociales, et gestion :
 
 ― option B : sciences économiques et gestion commerciale ;
 
-― option C : sciences économiques et gestion de l'environnement ;
-
-― option D : sciences économiques et économie sociale et familiale ;
-
-― option E : sciences économiques et techniques comptables, bureautique ;
+― option C : sciences économiques et économie sociale et familiale ;
 
 Section transformation et sécurité des aliments ;
 

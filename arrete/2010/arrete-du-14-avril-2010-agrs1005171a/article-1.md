@@ -24,6 +24,4 @@ Section sciences économiques et sociales, et gestion :
 
 ― option B : sciences économiques et gestion commerciale ;
 
-― option C : sciences économiques et gestion de l'environnement ;
-
 Education physique et sportive.
