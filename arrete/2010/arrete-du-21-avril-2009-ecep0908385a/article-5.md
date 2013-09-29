@@ -26,19 +26,31 @@ Il est chargé de la politique d'aide au développement à l'égard des pays de 
 
 Il assure le suivi du Fonds européen de développement.
 
-Le bureau de l'aide au développement et des institutions multilatérales de développement
+Le bureau des institutions multilatérales de développement
 
-Il est chargé de l'aide au développement et à la préservation de l'environnement, notamment la représentation dans les instances interministérielles et la présentation de la politique française de coopération pour le développement au comité d'aide au développement de l'OCDE, ainsi que la tenue des statistiques de l'aide française.
+Il est chargé du suivi des banques multilatérales de développement et des autres institutions multilatérales de développement associées ainsi que des fonds visant à la préservation de l'environnement et au financement international de la lutte contre le changement climatique.
 
-Il est responsable des relations avec l'ensemble des institutions financières et multilatérales de développement auxquelles participe la France : Banque mondiale, banques régionales de développement, Fonds pour l'environnement mondial, Fonds international de développement agricole. Il suit en particulier la reconstitution et l'emploi de leurs ressources ainsi que la présence française dans ces institutions.
+Il est responsable des relations avec l'ensemble des institutions financières et multilatérales de développement auxquelles participe le ministère chargé de l'économie au nom de la France : groupe Banque mondiale, banques régionales de développement, Fonds international de développement agricole, Facilité internationale pour le financement de la vaccination, ainsi que des fonds centrés sur les questions environnementales et climatiques, notamment le Fonds pour l'environnement mondial, le Fonds vert, les Fonds climatiques d'investissement, le Fonds du protocole de Montréal et le Fonds d'adaptation. Il suit en particulier la reconstitution et l'emploi de leurs ressources ainsi que la présence française dans ces institutions. Il assure la liaison avec le réseau des administrateurs des institutions financières internationales.
 
-Il est responsable des aspects financiers des négociations internationales relatives à l'environnement et au nucléaire. Il participe aux relations avec les organismes des Nations unies et autres organisations internationales compétentes en matière de développement.
+Il participe aux relations avec les organismes des Nations unies et autres organisations internationales compétentes en matière de développement en lien avec le bureau de l'aide publique au développement et avec les services compétents du ministère des affaires étrangères.
 
-Il prépare le budget relatif à l'aide économique et financière au développement et assure, conjointement avec le ministère des affaires étrangères et européennes et le ministre chargé de l'immigration et du codéveloppement, le secrétariat du comité interministériel de la coopération internationale et du développement (CICID).
+Il assure, en lien avec le bureau de l'aide publique au développement, le suivi et la coordination des travaux relatifs au développement dans les enceintes internationales.
 
-Il assure la liaison avec le réseau des administrateurs des institutions financières internationales.
+Il est également responsable des aspects financiers des négociations internationales relatives au climat, à l'environnement en général et au nucléaire.
 
-Il suit les sujets relatifs aux transferts de fonds par les migrants.
+Le bureau de l'aide publique au développement
+
+Il formule des propositions et fournit des expertises en matière de politique d'aide publique au développement. Il participe à toutes les réflexions concernant cette politique avec l'ensemble des acteurs concernés, et coordonne, le cas échéant, les positions des différents bureaux de la direction générale.
+
+Il assure la présentation de la politique française pour le développement au comité d'aide au développement de l'OCDE, l'élaboration et la transmission de toutes les enquêtes déclaratives chiffrées afférentes ainsi que la tenue des statistiques de l'aide française.
+
+Il prépare et suit le budget relatif à l'aide économique et financière au développement et assure, conjointement avec le ministère des affaires étrangères et le ministère chargé du développement, le secrétariat du Comité interministériel de la coopération internationale et du développement (CICID). Il coordonne l'ensemble des relations de la direction générale avec le Parlement, la Cour des comptes et les autres diverses instances de suivi et de contrôle en matière d'aide au développement.
+
+Il participe, en lien avec le bureau des institutions multilatérales de développement, aux relations avec les organismes des Nations unies et autres organisations internationales compétentes en matière de développement. Il suit en particulier les questions relatives au financement du développement et les réflexions relatives aux grands objectifs et modalités de l'aide internationale.
+
+Il suit les questions relatives à l'efficacité de l'aide publique au développement et représente, le cas échéant, la direction générale dans les instances compétentes telles que le comité d'aide au développement de l'OCDE.
+
+Il suit et mobilise les connaissances, analyses, études et recherches pertinentes en économie du développement afin d'éclairer les décisions de la direction générale en matière d'aide publique au développement.
 
 Le bureau du système financier international et de la préparation des sommets
 
@@ -82,4 +94,4 @@ Il met en œuvre les sanctions financières internationales.
 
 IV. - L'unité d'évaluation des activités de développement évalue les activités de développement pilotées ou mises en œuvre par la direction générale. Elle contribue à l'évaluation de l'ensemble de l'aide publique française au développement aux côtés des autres unités administratives d'évaluation (en particulier du ministère des affaires étrangères et européennes et de l'Agence française de développement) ainsi qu'à l'harmonisation et à la mise au point de bonnes pratiques et à la réalisation de travaux d'évaluation organisés au niveau international.
 
-L'unité suit les questions relatives à l'évaluation et à l'efficacité de l'aide publique au développement et représente, le cas échéant, la direction générale dans les instances compétentes telles que le comité d'aide au développement de l'OCDE et le Groupe des responsables européens de l'évaluation de l'aide. L'unité suit et mobilise les connaissances, analyses, études et recherches pertinentes en économie du développement afin d'éclairer les décisions de la direction générale en matière d'aide publique au développement.
+L'unité suit les questions relatives à l'évaluation de l'aide publique au développement et représente, le cas échéant, la direction générale dans les instances compétentes telles que le Groupe des responsables européens de l'évaluation de l'aide.

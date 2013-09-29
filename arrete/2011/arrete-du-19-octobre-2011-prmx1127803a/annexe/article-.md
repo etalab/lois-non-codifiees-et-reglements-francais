@@ -46,4 +46,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture du site territorial de Fontainebleau de la direction départementale des territoires de Seine-et-Marne ;
 
-- fermeture du site d'inspection sanitaire permanente de l'abattoir de Nogent-le-Rotrou de la direction départementale de la cohésion sociale et de la protection des populations d'Eure-et-Loir.
+- fermeture du site d'inspection sanitaire permanente de l'abattoir de Nogent-le-Rotrou de la direction départementale de la cohésion sociale et de la protection des populations d'Eure-et-Loir ;
+
+- fermeture de l'implantation de Saint-André-les-Alpes de la direction départementale des territoires des Alpes-de-Haute-Provence ;
+
+- fermeture de la délégation territoriale de Gouzon de la direction départementale des territoires de la Creuse.

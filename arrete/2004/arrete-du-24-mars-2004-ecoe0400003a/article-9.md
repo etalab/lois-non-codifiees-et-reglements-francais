@@ -12,4 +12,4 @@ Les volontaires civils placés sous l'autorité du ministère chargé de l'écon
 
 -à apporter une assistance technique aux services d'affectation (informaticiens, architectes...).
 
-Les modalités relatives à l'affectation de ces volontaires civils auprès des missions économiques-Ubifrance et des bureaux de l'AFII à l'étranger sont précisées dans le cadre de conventions passées entre l'Agence de gestion du réseau international des finances et chacun des deux établissements.
+Les modalités relatives à l'affectation de ces volontaires civils auprès des missions économiques-Ubifrance et des bureaux de l'AFII à l'étranger sont précisées dans le cadre de conventions passées entre la direction générale du Trésor et chacun des deux établissements.

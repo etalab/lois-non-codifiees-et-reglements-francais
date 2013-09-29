@@ -12,9 +12,13 @@ Il est chargé du diagnostic et des prévisions macroéconomiques nationales, as
 
 Le bureau du diagnostic et des prévisions à l'international
 
-Il assure l'analyse de la zone euro et des grands pays étrangers développés. Il suit la conjoncture, réalise des études sur le fonctionnement de ces économies ainsi que sur l'évolution de l'économie mondiale. Il élabore les prévisions internationales dans le cadre des budgets économiques et assure leur diffusion. Il développe les outils macroéconomiques et les analyses utiles à l'élaboration du diagnostic et des prévisions internationales.
+Il assure l'analyse économique des principaux pays développés et de la zone euro. Il suit la conjoncture, analyse leur politique économique et réalise des études sur le fonctionnement de ces économies.
 
-Sur les questions relatives à la situation économique des grands pays développés, il contribue à la préparation des réunions du G7 et du groupe de travail n° 3 du comité de politique économique de l'Organisation de coopération et de développement économique (OCDE). Il travaille en lien étroit avec le bureau Union économique et monétaire, notamment sur les questions relatives à la zone euro.
+S'agissant des grands pays développés ou partenaires commerciaux de la France (Etats-Unis, Japon, Royaume-Uni, Allemagne, Italie et Espagne), il est chargé de l'élaboration des prévisions macroéconomiques, réalisées dans le cadre des budgets économiques, ainsi que de l'analyse structurelle et de la politique économique de ces pays.
+
+Il assure également l'analyse conjoncturelle de certaines économies européennes, notamment les Pays-Bas.
+
+Il produit les indicateurs sur les taux de change effectif réel et nominal de l'euro et des principales devises mondiales et établit les hypothèses pour les exercices de prévisions. Conjointement avec le bureau des politiques économiques et risques internationaux, il analyse l'impact du change sur l'économie.
 
 Le bureau de l'analyse conjoncturelle
 
@@ -28,11 +32,15 @@ III.-La sous-direction des affaires européennes comprend :
 
 Le bureau Union économique et monétaire
 
-Il suit les questions relatives à l'Union économique et monétaire, aux politiques monétaires et budgétaires dans les pays de l'Union européenne ; à ce titre, il suit la mise en œuvre du pacte de stabilité et de croissance dans les pays de l'Union européenne et participe à la préparation du programme de stabilité français, analyse la politique monétaire de la Banque centrale européenne et la politique de change de la zone euro ainsi que des autres pays de l'Union et des pays candidats. En lien avec le bureau du diagnostic et des prévisions à l'international, il traite les questions économiques liées à l'Union économique et monétaire.
+Il suit les questions relatives à l'Union économique et monétaire, aux politiques monétaires et budgétaires dans les Etats membres de l'Union européenne ainsi que les évolutions de l'Union économique et monétaire ; à ce titre, il suit la mise en œuvre du pacte de stabilité et de croissance et de la procédure pour déséquilibres macroéconomiques dans les Etats membres de l'Union européenne et participe à la préparation du programme de stabilité français. Il suit la définition et la mise en œuvre des instruments mis en place dans le cadre de la crise de la zone euro, et notamment le Fonds européen de stabilité financière (FESF) et le mécanisme européen de stabilité (MES). En lien avec le bureau du diagnostic et des prévisions à l'international, il traite les questions économiques liées à l'Union économique et monétaire.
 
-Sur les questions de change et sur l'évolution de la situation économique de la zone euro, il contribue à la préparation des réunions du G7 et du groupe de travail n° 3 du comité de politique économique de l'OCDE.
+Il analyse la politique monétaire de la Banque centrale européenne. Il est chargé du suivi du marché des changes (euro, devises des Etats membres de l'Union européenne et devises des pays du G7) et analyse la politique de change de la zone euro, des autres Etats membres de l'Union européenne et des autres devises du G7. Il suit notamment les actions de la Banque centrale européenne relatives à la politique de change de l'euro.
 
-Il détermine les taux de chancellerie et assure le suivi des réserves de change en liaison avec la Banque de France. Pour les pays de l'Union européenne et de l'Association européenne de libre-échange (AELE), il prépare les instructions réalisées dans le cadre de la mission de surveillance et des programmes du FMI relatifs à ces pays.
+Sur les questions de change et sur l'évolution de la situation économique de la zone euro, il contribue à la préparation des réunions des instances européennes compétentes (Conseil de l'Union européenne et Eurogroupe) et, en liaison avec le bureau du système financier international, à la préparation des réunions du G7 et du groupe de travail n° 3 du comité de politique économique de l'OCDE.
+
+Il détermine les taux de chancellerie et assure le suivi des réserves de change en liaison avec la Banque de France. Pour les Etats membres de l'Union européenne et de l'Association européenne de libre-échange (AELE), il prépare les instructions réalisées dans le cadre de la mission de surveillance et des programmes du FMI relatifs à ces pays.
+
+S'agissant des Etats membres de la zone euro bénéficiant d'une assistance financière dans le cadre de l'accord-cadre créant le Fonds européen de stabilité financière ou du traité sur le mécanisme européen de stabilité, il pilote et assure, en liaison avec le bureau du diagnostic et des prévisions à l'international lorsqu'il s'agit d'Etats membres suivis par ce dernier bureau, l'analyse du fonctionnement de l'économie et de la politique économique et monétaire.
 
 Le bureau de la coordination et de la stratégie européenne
 
@@ -66,7 +74,7 @@ Il prépare la présentation de la politique macroéconomique de la France aux o
 
 Le bureau des politiques économiques et risques internationaux.
 
-Il développe des analyses relatives aux politiques économiques des pays non membres de l'Union européenne et prépare les réunions du groupe de travail n° 3 du conseil de politique économique de l'OCDE.
+Il développe des analyses relatives aux politiques économiques des pays non membres de l'Union européenne, à l'exclusion des Etats-Unis et du Japon, et prépare les réunions du groupe de travail n° 3 du conseil de politique économique de l'OCDE.
 
 En coordination avec les autres services de la direction générale, il élabore et développe les outils nécessaires à la compréhension des déterminants des comportements des agents économiques et de l'évolution des équilibres mondiaux, en ce qui concerne les marchés de biens et services, du travail et des capitaux et les balances des paiements.
 
@@ -74,6 +82,16 @@ Il assure le suivi de la situation macroéconomique des principaux pays émergen
 
 Il mène des études transversales relatives à la situation macroéconomique des pays émergents.
 
-Il contribue à l'animation et à la formation permanente du réseau des " experts économiques ".
+Il contribue à l'animation et à la formation permanente du réseau des "experts économiques".
+
+Il analyse les déterminants de long terme de l'évolution des taux de changes. Il suit les questions relatives aux taux de change d'équilibre des monnaies.
+
+Il est chargé du suivi des politiques de changes des pays hors Union européenne et G7. A ce titre, il prépare les notes de positions et les éléments d'intervention utilisés dans les contacts bilatéraux et multilatéraux.
+
+Il contribue, à la réflexion et à la préparation de positions françaises sur le système monétaire international, en liaison avec le service des affaires multilatérales et du développement.
+
+Il participe, en liaison avec le bureau du diagnostic et des prévisions à l'international, aux analyses sur l'impact du change sur l'économie.
+
+S'agissant des pays émergents et des pays en développement, il est chargé, pour le compte du bureau du diagnostic et des prévisions, de l'élaboration des prévisions internationales réalisées dans le cadre des budgets économiques et de l'analyse structurelle du fonctionnement de l'économie et de la politique économique et monétaire.
 
 V.-La mission de coopération internationale est chargée de proposer et de mettre en œuvre les actions de coopération de la direction générale avec les services homologues des pays étrangers.

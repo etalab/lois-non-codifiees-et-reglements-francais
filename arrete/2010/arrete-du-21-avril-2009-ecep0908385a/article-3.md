@@ -1,8 +1,8 @@
 # Article 3
 
-I. ― Le service des politiques publiques comprend une sous-direction des finances publiques, une sous-direction des politiques sociales et de l'emploi et une sous-direction des politiques sectorielles.
+I. - Le service des politiques publiques comprend une sous-direction des finances publiques, une sous-direction des politiques sociales et de l'emploi et une sous-direction des politiques sectorielles.
 
-II. ― La sous-direction des finances publiques comprend :
+II. - La sous-direction des finances publiques comprend :
 
 Le bureau de la synthèse des finances publiques
 
@@ -10,19 +10,25 @@ Pour établir les prévisions économiques et financières de la direction gén�
 
 Il contribue, en liaison avec la direction générale de l'INSEE et la direction générale des finances publiques, à l'élaboration du compte provisoire des administrations publiques.
 
-Il élabore, en liaison avec la direction du budget, des projections pluriannuelles de finances publiques, notamment les programmes de stabilité dans le cadre des engagements européens de la France. Il prépare la notification à la Commission européenne des déficits et de la dette publics.
-
-Il analyse l'évolution de la dépense publique, et notamment son efficacité.
+Il élabore, en liaison avec la direction du budget, des projections pluriannuelles de finances publiques, notamment les programmes de stabilité dans le cadre des engagements européens de la France et les lois de programmation des finances publiques. Il prépare la notification à la Commission européenne des déficits et de la dette publics.
 
 Il assure une fonction d'analyse et de conseil de politique économique en matière de finances publiques.
 
-Le bureau des études fiscales
+Le bureau des prévisions des prélèvements obligatoires et de la fiscalité des entreprises
 
-Pour établir les prévisions économiques et financières de la direction générale, il réalise des prévisions des recettes fiscales et des prélèvements obligatoires de l'ensemble des administrations publiques : Etat, collectivités locales et administrations de sécurité sociale. En liaison avec les services compétents du ministère, il contribue au suivi du recouvrement des recettes fiscales et à leur prévision d'exécution ainsi qu'à l'évaluation des dépenses fiscales. Il assure l'établissement de la base TVA pour le calcul des ressources propres de l'Union européenne. Il établit le rapport retraçant l'ensemble des prélèvements obligatoires, ainsi que leur évolution, prévu à l'article 52 de la loi organique du 1er août 2001 précitée.
+Pour établir les prévisions économiques et financières de la direction générale, il réalise des prévisions des recettes fiscales et non fiscales de l'Etat et réalise la synthèse des prévisions des prélèvements obligatoires de l'ensemble des administrations publiques (Etat, collectivités locales et administrations de sécurité sociale). En liaison avec les services compétents du ministère, il contribue au suivi du recouvrement des recettes fiscales et à leur prévision d'exécution.
 
-Il assure une fonction d'analyse et de conseil de politique économique dans le domaine fiscal.
+Il assure une fonction d'analyse et de conseil de politique économique dans le domaine de la fiscalité des entreprises et participe à l'évaluation des mesures nouvelles.
 
-III.-La sous-direction des politiques sociales et de l'emploi comprend :
+Le bureau des études fiscales et de la dépense publique
+
+Il assure une fonction d'analyse et de conseil de politique économique dans le domaine de la fiscalité directe des ménages et de la TVA et participe à l'évaluation des mesures nouvelles.
+
+Il assure l'établissement de la base TVA pour le calcul des ressources propres de l'Union européenne.
+
+Il analyse l'évolution des dépenses publiques et des dépenses fiscales, et notamment de leur efficacité.
+
+III. - La sous-direction des politiques sociales et de l'emploi comprend :
 
 Le bureau du marché du travail et des politiques de l'emploi
 
@@ -54,7 +60,7 @@ Il contribue à l'évaluation des mesures de politiques sociales et d'emploi ou 
 
 Il intervient, en appui des autres bureaux de la sous-direction, sur des sujets comportant une forte dimension transversale, institutionnelle ou d'évaluation.
 
-IV.-La sous-direction des politiques sectorielles comprend :
+IV. - La sous-direction des politiques sectorielles comprend :
 
 Le bureau de la politique industrielle, de la recherche et de l'innovation
 

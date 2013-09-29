@@ -1,8 +1,8 @@
 # Article 6
 
-I.-Le service des affaires bilatérales et de l'internationalisation des entreprises comprend une sous-direction du financement international des entreprises et une sous-direction des relations économiques bilatérales.
+I. - Le service des affaires bilatérales et de l'internationalisation des entreprises comprend une sous-direction du financement international des entreprises, une sous-direction des relations économiques bilatérales ainsi que, directement placé auprès du chef de service, un pôle "secteurs prioritaires à l'international".
 
-II.-La sous-direction du financement international des entreprises comprend :
+II. - La sous-direction du financement international des entreprises comprend :
 
 Le bureau des crédits-export et des garanties à l'international
 
@@ -26,7 +26,7 @@ Il exerce la tutelle de l'Agence pour le développement international des entrep
 
 Il assure les relations de la direction générale avec les autres organismes publics ou privés intéressés par le développement international des entreprises et du territoire, tels que le Comité national des conseillers du commerce extérieur de la France, les organismes consulaires, les fédérations professionnelles et les collectivités territoriales. Il contribue à l'animation et à la coordination des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Il réalise la synthèse de la préparation des dossiers à caractère régional.
 
-III.-La sous-direction des relations économiques bilatérales comprend :
+III. - La sous-direction des relations économiques bilatérales comprend :
 
 Le bureau de la Méditerranée et de l'Afrique australe
 
@@ -44,4 +44,8 @@ Le bureau des Amériques
 
 Il est en charge des pays appartenant aux circonscriptions des chefs de service économiques régional du Canada, des Etats-Unis, du Brésil, du Cône sud, du Mexique et d'Amérique centrale ainsi que d'Amérique andine et des Caraïbes.
 
-IV.-Dans les pays relevant de sa zone de compétences, chaque bureau de la sous-direction des relations économiques, bilatérales assure la coordination des analyses sur la situation économique, commerciale et financière des pays de sa zone de compétence et en examine les conséquences pour la relation bilatérale avec la France. Il détermine et met en œuvre la stratégie des pouvoirs publics à l'égard des pays de son ressort et assure, avec l'appui du réseau des chefs de service économique régional et des services économiques, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs de service économique régional et des services économiques dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les services économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces services se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
+IV. - Dans les pays relevant de sa zone de compétences, chaque bureau de la sous-direction des relations économiques, bilatérales assure la coordination des analyses sur la situation économique, commerciale et financière des pays de sa zone de compétence et en examine les conséquences pour la relation bilatérale avec la France. Il détermine et met en œuvre la stratégie des pouvoirs publics à l'égard des pays de son ressort et assure, avec l'appui du réseau des chefs de service économique régional et des services économiques, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs de service économique régional et des services économiques dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les services économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces services se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
+
+V. - Le pôle "secteurs prioritaires à l'international" veille, pour chaque secteur ou catégorie de produits et services pertinent et en se concentrant sur les biens de consommation, à identifier l'offre française, à qualifier ses atouts et ses handicaps, à faciliter le travail de fédération des entreprises et à proposer des stratégies et des instruments pour développer les flux d'exportations. Il participe aux travaux des comités stratégiques de filières du Conseil national de l'industrie pour leur volet international. Il s'appuie sur les partenaires du commerce extérieur. Il réalise ses missions en lien avec les autres entités de la direction générale ainsi qu'avec les autres directions et ministères compétents, notamment la direction générale de la compétitivité, de l'industrie et des services.
+
+Il prépare les entretiens des ministres avec les dirigeants des entreprises et des fédérations professionnelles lorsqu'ils comportent une dimension internationale et sectorielle et contribue aux dossiers de préparation de la Commission interministérielle d'appui aux contrats internationaux (CIACI).

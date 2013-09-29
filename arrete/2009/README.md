@@ -2567,7 +2567,6 @@
 - [Arrêté du 28 novembre 2008 (DEFH0827868A)](arrete-du-28-novembre-2008-defh0827868a)
 - [Arrêté du 28 novembre 2008 (DEVL0827754A)](arrete-du-28-novembre-2008-devl0827754a)
 - [Arrêté du 28 octobre 1985](arrete-du-28-octobre-1985)
-- [Arrêté du 28 octobre 2008 (ECEP0812021A)](arrete-du-28-octobre-2008-ecep0812021a)
 - [Arrêté du 28 octobre 2009 (AGRG0925428A)](arrete-du-28-octobre-2009-agrg0925428a)
 - [Arrêté du 28 octobre 2009 (AGRG0925498A)](arrete-du-28-octobre-2009-agrg0925498a)
 - [Arrêté du 28 octobre 2009 (AGRT0920453A)](arrete-du-28-octobre-2009-agrt0920453a)
