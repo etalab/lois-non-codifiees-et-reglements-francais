@@ -1,0 +1,3 @@
+# Article 2
+
+En application de l'article 8 de l'ordonnance du 29 juin 2005 susvisée, les décisions du conseil d'administration et de l'assemblée générale des actionnaires de la société anonyme BPI-Groupe et de la filiale agréée mentionnée au IV de l'article 6 de cette ordonnance relatives aux activités mentionnées au 1° du I de l'article 6 de l'ordonnance ne deviennent exécutoires de plein droit que si le commissaire du Gouvernement n'y a pas opposé son veto. Ce dernier dispose pour cela d'un délai d'un mois suivant la réception des délibérations. Sa décision doit être motivée. Il en rend compte immédiatement aux ministres chargés de l'économie, de l'industrie, du budget et de la recherche.
