@@ -18,6 +18,6 @@ Elle comprend :
 
 ― le bureau du droit de la commande publique ;
 
-― le bureau de la législation générale ;
+- le bureau du droit des statuts et des organisations et de la législation générale ;
 
-― le bureau du contentieux général.
+- le bureau du conseil et du contentieux administratif général.

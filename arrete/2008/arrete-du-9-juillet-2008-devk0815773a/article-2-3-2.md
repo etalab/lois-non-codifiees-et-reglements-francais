@@ -18,9 +18,7 @@ Elle comprend :
 
 ― le bureau des affaires juridiques de l'urbanisme ;
 
-― le bureau du droit pénal et des polices de l'environnement ;
-
-― le bureau du droit communautaire et international de l'environnement ;
+- le bureau du droit général, du droit pénal et du droit européen et international de l'environnement ;
 
 ― le bureau des affaires juridiques des risques pour l'environnement ;
 

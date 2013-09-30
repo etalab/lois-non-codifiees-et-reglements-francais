@@ -24,8 +24,6 @@ Elle comprend :
 
 ― le bureau des établissements d'enseignement maritime ;
 
-― le bureau du travail maritime ;
+―le bureau du travail maritime, de la santé et de la sécurité au travail maritimes ;
 
-― le bureau de la sécurité sociale des marins ;
-
-― le bureau de la santé et de la sécurité au travail maritimes.
+― le bureau de la sécurité sociale des marins.

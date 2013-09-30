@@ -2214,7 +2214,6 @@
 - [Arrêté du 28 décembre 2012 (ETLL1240251A)](arrete-du-28-decembre-2012-etll1240251a)
 - [Arrêté du 28 décembre 2012 (ETLL1240255A)](arrete-du-28-decembre-2012-etll1240255a)
 - [Arrêté du 28 décembre 2012 (INTC1238785A)](arrete-du-28-decembre-2012-intc1238785a)
-- [Arrêté du 28 décembre 2012 (INTE1239500A)](arrete-du-28-decembre-2012-inte1239500a)
 - [Arrêté du 28 décembre 2012 (MAEA1239441A)](arrete-du-28-decembre-2012-maea1239441a)
 - [Arrêté du 28 décembre 2012 (MAEA1242115A)](arrete-du-28-decembre-2012-maea1242115a)
 - [Arrêté du 28 décembre 2012 (MENH1234217A)](arrete-du-28-decembre-2012-menh1234217a)
