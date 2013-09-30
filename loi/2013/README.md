@@ -33,3 +33,4 @@
 - [LOI n°2013-702 du 2 août 2013 (INTX1302509L)](loi-n2013-702-du-2-aout-2013-intx1302509l)
 - [LOI n°2013-711 du 5 août 2013 (JUSX1300230L)](loi-n2013-711-du-5-aout-2013-jusx1300230l)
 - [LOI n°2013-712 du 5 août 2013 (EFIX1312736L)](loi-n2013-712-du-5-aout-2013-efix1312736l)
+- [LOI n°2013-869 du 27 septembre 2013 (AFSX1317654L)](loi-n2013-869-du-27-septembre-2013-afsx1317654l)
