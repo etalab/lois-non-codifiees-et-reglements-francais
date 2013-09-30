@@ -3,6 +3,4 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre IV : Avancement.](chapitre-iv)
-- [Chapitre V : Détachement.](chapitre-v)
-- [Chapitre VI : Dispositions finales.](chapitre-vi)
 - [Article 29](article-29.md)
