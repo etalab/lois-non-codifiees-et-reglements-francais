@@ -5,7 +5,6 @@
 - [Décret n°76-304 du 2 avril 1976](decret-n76-304-du-2-avril-1976)
 - [Décret n°76-478 du 2 juin 1976](decret-n76-478-du-2-juin-1976)
 - [Décret n°76-990 du 2 novembre 1976](decret-n76-990-du-2-novembre-1976)
-- [Décret n°76-993 du 2 novembre 1976](decret-n76-993-du-2-novembre-1976)
 - [Décret n°75-903 du 3 octobre 1975](decret-n75-903-du-3-octobre-1975)
 - [Décret n°76-493 du 3 juin 1976](decret-n76-493-du-3-juin-1976)
 - [Décret n° 77-33 du 4 janvier 1977](decret-n-77-33-du-4-janvier-1977)

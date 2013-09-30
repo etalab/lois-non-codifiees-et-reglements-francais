@@ -179,7 +179,6 @@
 - [Décret n°2001-521 du 13 juin 2001 (ECOP0100277D)](decret-n2001-521-du-13-juin-2001-ecop0100277d)
 - [Décret n°2001-833 du 13 septembre 2001 (MESS0122805D)](decret-n2001-833-du-13-septembre-2001-mess0122805d)
 - [Décret n°2001-836 du 13 septembre 2001 (ECOU0100001D)](decret-n2001-836-du-13-septembre-2001-ecou0100001d)
-- [Décret n°2001-838 du 13 septembre 2001 (DEFD0101903D)](decret-n2001-838-du-13-septembre-2001-defd0101903d)
 - [Décret n°2001-840 du 13 septembre 2001 (MESP0122854D)](decret-n2001-840-du-13-septembre-2001-mesp0122854d)
 - [Décret n°2001-842 du 13 septembre 2001 (MENF0101118D)](decret-n2001-842-du-13-septembre-2001-menf0101118d)
 - [Décret n°2001-843 du 13 septembre 2001 (DEFP0101474D)](decret-n2001-843-du-13-septembre-2001-defp0101474d)
