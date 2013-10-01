@@ -2,104 +2,242 @@
 
 Les matières d’enseignement sur lesquelles portent les épreuves obligatoires du baccalauréat technologique ainsi que les coefficients attribués à chacune de ces matières sont fixés comme suit :
 
-SÉRIE SCIENCES ET TECHNOLOGIES DE LA SANTÉ ET DU SOCIAL (ST2S)
-
-Cette disposition est applicable à compter de la session 2009 et prend effet pour les épreuves anticipées passées en 2008.
+Série sciences et technologies de la santé et du social (ST2S)
 
 <table>
-<thead>
-<tr>
-<td valign="top">Désignation</td>
-<td valign="top">Coefficient</td>
-<td valign="top">Nature de l'épreuve</td>
-<td valign="top">Durée</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td colspan="4" valign="bottom">Epreuves anticipées </td>
+<th>
+<br/>DÉSIGNATION </th>
+<th>
+<br/>COEFFICIENT </th>
+<th>
+<br/>NATURE DE L'ÉPREUVE </th>
+<th>
+<br/>DURÉE<br/>
+</th>
 </tr>
 <tr>
-<td valign="bottom">1. Français </td>
-<td valign="bottom">2</td>
-<td valign="bottom">Ecrite</td>
-<td valign="bottom">4 heures</td>
-</tr>
-<tr>
-<td valign="bottom">2. Français </td>
-<td valign="bottom">2</td>
-<td valign="bottom">Orale</td>
-<td valign="bottom">20 minutes</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom">Epreuves terminales</td>
-</tr>
-<tr>
-<td valign="bottom">3. Histoire-géographie </td>
-<td valign="bottom">2</td>
-<td valign="bottom">Ecrite</td>
-<td valign="bottom">2H30</td>
-</tr>
-<tr>
-<td valign="bottom">4. Philosophie</td>
-<td valign="bottom">2</td>
-<td valign="bottom">Ecrite</td>
-<td valign="bottom">4 heures</td>
-</tr>
-<tr>
-<td valign="bottom">5. Langue vivante 1</td>
-<td valign="bottom">2</td>
-<td valign="bottom">Ecrite et orale (2)</td>
-<td valign="bottom">2 heures (partie écrite)<br/>
+<td align="center">
+<br/>Epreuves anticipées<br/>
 </td>
 </tr>
 <tr>
-<td valign="top">6. Mathématiques</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
+<td align="center">
+<br/>1. Français <br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>écrite <br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">7. Sciences physiques et chimiques</td>
-<td valign="bottom">3</td>
-<td valign="bottom">Ecrite</td>
-<td valign="bottom">2 heures</td>
+<td align="center">
+<br/>2. Français <br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>orale <br/>
+</td>
+<td align="center">
+<br/>20 minutes<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">8. Sciences et techniques sanitaires et sociales</td>
-<td valign="bottom">7</td>
-<td valign="bottom">Ecrite</td>
-<td valign="bottom">3 heures</td>
+<td align="center">
+<br/>3. Activités interdisciplinaires<br/>
+</td>
+<td align="center">
+<br/>- (1)<br/>
+</td>
+<td align="center">
+<br/>orale (2)<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">9. Sciences et techniques sanitaires et sociales</td>
-<td valign="bottom">7</td>
-<td valign="bottom">Pratique</td>
-<td valign="bottom">3 heures</td>
+<td align="center">
+<br/>Epreuves terminales<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">10. Biologie et physiopathologie humaines</td>
-<td valign="bottom">7</td>
-<td valign="bottom">Ecrite</td>
-<td valign="bottom">3H30</td>
+<td align="center">
+<br/>4. Education physique et sportive<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>CCF (3)<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">11. Education physique et sportive</td>
-<td valign="bottom">2</td>
-<td valign="bottom">CCF</td>
-<td valign="bottom"/>
+<td align="center">
+<br/>5. Histoire-géographie <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>écrite <br/>
+</td>
+<td align="center">
+<br/>2 h 30<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire) </td>
-<td valign="bottom">2</td>
-<td valign="bottom">CCF</td>
-<td valign="bottom"/>
+<td align="center">
+<br/>6. Langue vivante 1<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>écrite et orale (4)<br/>
+</td>
+<td align="center">
+<br/>2 heures (partie écrite)<br/>
+</td>
 </tr>
 <tr>
-<td valign="bottom">(2) La partie orale de l'épreuve est évaluée en cours d'année.</td>
-<td valign="bottom"/>
-<td valign="bottom"/>
-<td valign="bottom"/>
+<td align="center">
+<br/>7. Langue vivante 2<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>écrite et orale (4)<br/>
+</td>
+<td align="center">
+<br/>2 heures (partie écrite)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8. Mathématiques <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>écrite <br/>
+</td>
+<td align="center">
+<br/>2 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9. Philosophie <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>écrite <br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10. Sciences physiques et chimiques <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>écrite <br/>
+</td>
+<td align="center">
+<br/>2 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>11. Biologie et physiopathologie humaines <br/>
+</td>
+<td align="center">
+<br/>7<br/>
+</td>
+<td align="center">
+<br/>écrite <br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>12. Projet technologique<br/>
+</td>
+<td align="center">
+<br/>7<br/>
+</td>
+<td align="center">
+<br/>orale (5)<br/>
+</td>
+<td align="center">
+<br/>15 min (oral terminal)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>13. Sciences et techniques sanitaires et sociales <br/>
+</td>
+<td align="center">
+<br/>7<br/>
+</td>
+<td align="center">
+<br/>écrite<br/>
+</td>
+<td align="center">
+<br/>3 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- EPS de complément (6)<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>CCF (3)<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(1) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux. <p>(2) L'épreuve est évaluée en cours d'année.</p>
+<p>(3) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
+<p>(4) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p>(5) Evaluation en cours d'année et lors d'un oral terminal. L'évaluation en cours d'année est affectée d'un coefficient 4 et l'oral terminal est affecté d'un coefficient 3.</p>
+<p>(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.<br/>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -264,7 +402,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 </tr>
 <tr>
 <td valign="top" width="360">
-<p>9. Chimie-biochimie-sciences du vivant et enseignement spécifique à la spécialité (4)</p>
+<p>10. Chimie-biochimie-sciences du vivant et enseignement spécifique à la spécialité (4)</p>
 </td>
 <td valign="top" width="80">
 <p>8</p>
@@ -278,7 +416,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 </tr>
 <tr>
 <td valign="top" width="360">
-<p>10. Evaluation des compétences expérimentales</p>
+<p>11. Evaluation des compétences expérimentales</p>
 </td>
 <td valign="top" width="80">
 <p>6</p>
@@ -291,9 +429,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 </td>
 </tr>
 <tr>
-<td valign="top" width="360">
-<p>11. Projet en enseignement spécifique à la spécialité (4)</p>
-</td>
+<td valign="top" width="360">12. Projet en enseignement spécifique à la spécialité (4)</td>
 <td valign="top" width="80">
 <p>6</p>
 </td>
@@ -305,9 +441,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 </td>
 </tr>
 <tr>
-<td valign="top" width="360">
-<p>12. Enseignement technologique en LV1</p>
-</td>
+<td valign="top" width="360">13. Enseignement technologique en LV1</td>
 <td valign="top" width="80">
 <p>- (6)</p>
 </td>
@@ -326,9 +460,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 <td valign="top" width="100">
 <p>CCF (1)</p>
 </td>
-<td valign="top" width="140">
-<br/>
-</td>
+<td valign="top" width="140"/>
 </tr>
 <tr>
 <td colspan="4" width="680">
@@ -553,9 +685,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DU DESIGN ET DES ARTS APPLIQUÉS (STD2A)
 <td valign="top" width="105">
 <p>CCF (1)</p>
 </td>
-<td valign="top" width="141">
-<br/>
-</td>
+<td valign="top" width="141"/>
 </tr>
 <tr>
 <td colspan="4" width="680">
@@ -779,9 +909,7 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE (STI
 <td valign="top" width="100">
 <p>CCF (1)</p>
 </td>
-<td valign="top" width="141">
-<br/>
-</td>
+<td valign="top" width="141"/>
 </tr>
 <tr>
 <td colspan="4" width="680">
@@ -800,312 +928,167 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE (STI
 
 SÉRIE SCIENCES ET TECHNOLOGIES DE LA GESTION (STG)
 
-A compter de la session 2007 (épreuves anticipées en 2006) (à l'exception de l'épreuve d'Histoire-géographie qui entre en application à compter de la session 2008)
+Série sciences et technologies du management et de la gestion (STMG)
 
 <table>
-<thead>
-<tr>
-<td valign="top">Désignation</td>
-<td valign="top">Coefficient</td>
-<td valign="top">Nature de l'épreuve</td>
-<td valign="top">Durée</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td colspan="4" valign="top">Epreuves anticipées </td>
+<th>
+<br/>DÉSIGNATION<br/>
+</th>
+<th>
+<br/>COEFFICIENT<br/>
+</th>
+<th>
+<br/>NATURE DE L'ÉPREUVE<br/>
+</th>
+<th>
+<br/>DURÉE</th>
 </tr>
 <tr>
-<td valign="top">Toutes spécialités STG</td>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
+<td align="center">
+<br/>Epreuves anticipées</td>
 </tr>
 <tr>
-<td valign="top">1. Français </td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td align="center">
+<br/>1. Français </td>
+<td align="center">
+<br/>2 </td>
+<td align="center">
+<br/>écrite </td>
+<td align="center">
+<br/>4 heures</td>
 </tr>
 <tr>
-<td valign="top">2. Français </td>
-<td valign="top">2</td>
-<td valign="top">Orale</td>
-<td valign="top">20 minutes</td>
+<td align="center">
+<br/>2. Français </td>
+<td align="center">
+<br/>2 </td>
+<td align="center">
+<br/>orale </td>
+<td align="center">
+<br/>20 minutes</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Epreuves terminales</td>
-</tr>
-<tr>
-<td colspan="4" valign="top">Spécialité : communication et gestion des ressources humaines</td>
-</tr>
-<tr>
-<td valign="top">3. Histoire-géographie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2h30</td>
-</tr>
-<tr>
-<td valign="top">4. Philosophie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">5. Mathématiques</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">6. Langue vivante 1</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite et orale (2)</td>
-<td valign="top">2 heures (partie écrite)<br/>
+<td align="center">
+<br/>3. Etude de gestion</td>
+<td align="center">
+<br/>- (1)</td>
+<td align="center">
+<br/>orale (2)</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top">7. Langue vivante 2</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite et orale (2)</td>
-<td valign="top">2 heures (partie écrite)<br/>
+<td align="center">
+<br/>Epreuves terminales</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4. Education physique et sportive</td>
+<td align="center">
+<br/>2</td>
+<td align="center">
+<br/>CCF (3)</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top">8. Économie-droit</td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
+<td align="center">
+<br/>5. Histoire-géographie</td>
+<td align="center">
+<br/>2</td>
+<td align="center">
+<br/>écrite </td>
+<td align="center">
+<br/>2 h 30</td>
 </tr>
 <tr>
-<td valign="top">9. Management des organisations</td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
+<td align="center">
+<br/>6. Langue vivante 1</td>
+<td align="center">
+<br/>3</td>
+<td align="center">
+<br/>écrite et orale (4)</td>
+<td align="center">
+<br/>2 heures (partie écrite)</td>
 </tr>
 <tr>
-<td valign="top">10. Épreuve de la spécialité : communication et gestion des ressources humaines</td>
-<td valign="top">12 (7 + 5)</td>
-<td valign="top">Ecrite et pratique</td>
-<td valign="top">4 heures 45 minutes</td>
+<td align="center">
+<br/>7. Langue vivante 2</td>
+<td align="center">
+<br/>2</td>
+<td align="center">
+<br/>écrite et orale (4)</td>
+<td align="center">
+<br/>2 heures (partie écrite)</td>
 </tr>
 <tr>
-<td valign="top">11. Éducation physique et sportive</td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
+<td align="center">
+<br/>8. Mathématiques</td>
+<td align="center">
+<br/>3</td>
+<td align="center">
+<br/>écrite </td>
+<td align="center">
+<br/>3 heures</td>
 </tr>
 <tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire)</td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
+<td align="center">
+<br/>9. Philosophie</td>
+<td align="center">
+<br/>2</td>
+<td align="center">
+<br/>écrite </td>
+<td align="center">
+<br/>4 heures</td>
 </tr>
 <tr>
-<td colspan="4" valign="top">Spécialité : mercatique (marketing)</td>
+<td align="center">
+<br/>10. Economie-droit</td>
+<td align="center">
+<br/>5</td>
+<td align="center">
+<br/>écrite </td>
+<td align="center">
+<br/>3 heures</td>
 </tr>
 <tr>
-<td valign="top">3. Histoire-géographie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2h30</td>
+<td align="center">
+<br/>11. Management des organisations</td>
+<td align="center">
+<br/>5</td>
+<td align="center">
+<br/>écrite </td>
+<td align="center">
+<br/>3 heures</td>
 </tr>
 <tr>
-<td valign="top">4. Philosophie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
+<td align="center">
+<br/>12. Epreuve de spécialité </td>
+<td align="center">
+<br/>12</td>
+<td align="center">
+<br/>écrite et pratique (5)</td>
+<td align="center">
+<br/>4 heures (partie écrite)</td>
 </tr>
 <tr>
-<td valign="top">5. Mathématiques</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
+<td align="center">
+<br/>- EPS de complément (6) </td>
+<td align="center">
+<br/>2</td>
+<td align="center">
+<br/>CCF (3)</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top">6. Langue vivante 1</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite et orale (2)</td>
-<td valign="top">2 heures (partie écrite)</td>
-</tr>
-<tr>
-<td valign="top">7. Langue vivante 2</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite et orale (2)</td>
-<td valign="top">2 heures (partie écrite)</td>
-</tr>
-<tr>
-<td valign="top">8. Économie-droit</td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">9. Management des organisations</td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Épreuve de la spécialité : mercatique (marketing)</td>
-<td valign="top">12 (7 + 5)</td>
-<td valign="top">Ecrite et pratique</td>
-<td valign="top">4 heures 45 minutes</td>
-</tr>
-<tr>
-<td valign="top">11. Éducation physique et sportive</td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire) </td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">Spécialité : comptabilité et finance d'entreprise</td>
-</tr>
-<tr>
-<td valign="top">3. Histoire-géographie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2h30</td>
-</tr>
-<tr>
-<td valign="top">4. Philosophie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">5. Mathématiques</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">6. Langue vivante 1</td>
-<td valign="top">3</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">7. Langue vivante 2</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite et orale en CCF(2)</td>
-<td valign="top">2 heures</td>
-</tr>
-<tr>
-<td valign="top">8. Économie-droit</td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">9. Management des organisations</td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Épreuve de la spécialité : comptabilité et finance d'entreprise</td>
-<td valign="top">12 (7 + 5)</td>
-<td valign="top">Ecrite et pratique</td>
-<td valign="top">4 heures 45 minutes</td>
-</tr>
-<tr>
-<td valign="top">11. Éducation physique et sportive</td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire) </td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">Spécialité : gestion des systèmes d'information</td>
-</tr>
-<tr>
-<td valign="top">3. Histoire-géographie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">2h30</td>
-</tr>
-<tr>
-<td valign="top">4. Philosophie</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite</td>
-<td valign="top">4 heures</td>
-</tr>
-<tr>
-<td valign="top">5. Mathématiques</td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">6. Langue vivante 1</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite et orale (2)</td>
-<td valign="top">2 heures (partie écrite)</td>
-</tr>
-<tr>
-<td valign="top">7. Langue vivante 2</td>
-<td valign="top">2</td>
-<td valign="top">Ecrite et orale (2)</td>
-<td valign="top">2 heures (partie écrite)</td>
-</tr>
-<tr>
-<td valign="top">8. Économie-droit</td>
-<td valign="top">6</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">9. Management des organisations</td>
-<td valign="top">4</td>
-<td valign="top">Ecrite</td>
-<td valign="top">3 heures</td>
-</tr>
-<tr>
-<td valign="top">10. Épreuve de la spécialité : gestion des systèmes d'information</td>
-<td valign="top">12 (7 + 5)</td>
-<td valign="top">Ecrite et pratique</td>
-<td valign="top">4 heures 45 minutes</td>
-</tr>
-<tr>
-<td valign="top">11. Éducation physique et sportive</td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td valign="top">EPS de complément (Epreuve obligatoire pour les élèves ayant suivi l'enseignement d'EPS complémentaire) </td>
-<td valign="top">2</td>
-<td valign="top">CCF</td>
-<td valign="top"/>
-</tr>
-<tr>
-<td colspan="4" valign="top">(2) La partie orale de l'épreuve est évaluée en cours d'année.</td>
+<td colspan="4">
+<br/>(1) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.<br/>(2) L'épreuve est évaluée en cours d'année.<br/>(3) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).<br/>(4) La partie orale de l'épreuve est évaluée en cours d'année.<br/>(5) La partie pratique de l'épreuve est évaluée en cours d'année. Chacune des deux parties de l'épreuve est affectée d'un coefficient 6.<br/>(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</td>
 </tr>
 </tbody>
 </table>
-
-Les épreuves pratiques des séries technologiques consistent en une épreuve terminale organisée selon l'un des modes suivants :
-
-Travaux pratiques, précédés ou suivis, le cas échéant, d'une préparation écrite ;
-
-Interrogation orale, à partir d'un dossier, comportant une part d'activité pratique réalisée lors de l'épreuve.
-
-Dans les deux cas, les examinateurs disposent pour attribuer leur note :
-
-- des résultats de l'épreuve ;
-
-- des travaux ou comptes rendus des travaux effectués en cours d'année, le cas échéant, en milieu professionnel ;
-
-- des appréciations des professeurs.
