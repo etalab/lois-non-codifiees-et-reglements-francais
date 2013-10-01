@@ -1572,7 +1572,6 @@
 - [Arrêté du 18 juin 2010 (AGRT1015727A)](arrete-du-18-juin-2010-agrt1015727a)
 - [Arrêté du 18 juin 2010 (BCRD1016318A)](arrete-du-18-juin-2010-bcrd1016318a)
 - [Arrêté du 18 juin 2010 (BCRD1020511A)](arrete-du-18-juin-2010-bcrd1020511a)
-- [Arrêté du 18 juin 2010 (DEVS0928451A)](arrete-du-18-juin-2010-devs0928451a)
 - [Arrêté du 18 juin 2010 (ECES1016294A)](arrete-du-18-juin-2010-eces1016294a)
 - [Arrêté du 18 juin 2010 (ECES1016299A)](arrete-du-18-juin-2010-eces1016299a)
 - [Arrêté du 18 juin 2010 (ECES1016311A)](arrete-du-18-juin-2010-eces1016311a)
