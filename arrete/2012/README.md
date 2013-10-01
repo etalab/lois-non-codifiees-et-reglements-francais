@@ -564,7 +564,6 @@
 - [Arrêté du 8 août 2012 (INTE1232101A)](arrete-du-8-aout-2012-inte1232101a)
 - [Arrêté du 8 août 2012 (INTJ1220850A)](arrete-du-8-aout-2012-intj1220850a)
 - [Arrêté du 8 août 2012 (INTJ1220851A)](arrete-du-8-aout-2012-intj1220851a)
-- [Arrêté du 8 août 2012 (MCCB1231907A)](arrete-du-8-aout-2012-mccb1231907a)
 - [Arrêté du 8 décembre 2008 (DEVA0828775A)](arrete-du-8-decembre-2008-deva0828775a)
 - [Arrêté du 8 décembre 2011 (DEVP1132167A)](arrete-du-8-decembre-2011-devp1132167a)
 - [Arrêté du 8 décembre 2011 (ETSD1133828A)](arrete-du-8-decembre-2011-etsd1133828a)
