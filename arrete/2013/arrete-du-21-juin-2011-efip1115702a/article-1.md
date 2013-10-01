@@ -40,14 +40,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Agence du patrimoine immatériel de l'Etat </p>
-</td>
-<td align="center">
-<p align="left">Chargé de la mission "valorisation du patrimoine immatériel" </p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction des affaires juridiques </p>
 </td>
 <td align="center">
@@ -445,12 +437,8 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction générale de la compétitivité, de l'industrie et des services <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef de service "attractivité et mutation des territoires-animation territoriale" à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Lorraine </p>
+<td>Direction générale de la compétitivité, de l'industrie et des services </td>
+<td>Chef du service "développement économique des territoires, économie de proximité et tourisme" à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des Pays de la Loire <br/>
 </td>
 </tr>
 <tr>
@@ -459,7 +447,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </p>
 </td>
 <td align="center">
-<p align="left">Chef de service "développement local, tourisme, commerce, artisanat" à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Picardie </p>
+<p align="left">Chef de service "attractivité et mutation des territoires-animation territoriale" à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Lorraine </p>
 </td>
 </tr>
 <tr>

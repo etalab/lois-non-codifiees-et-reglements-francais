@@ -1,0 +1,5 @@
+# Article 15
+
+I. ― Les tableaux d'avancement établis au titre de l'année 2013 pour l'accès aux grades de contrôleur du travail de classe exceptionnelle et de contrôleur du travail de classe supérieure demeurent valables jusqu'au 31 décembre 2013.
+
+II. ― Les contrôleurs du travail de classe supérieure et les contrôleurs du travail de classe normale promus en application du I postérieurement à la date d'entrée en vigueur du présent décret sont classés dans le grade de contrôleur du travail hors classe en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé de relever, jusqu'à la date de leur promotion, du décret du 18 avril 1997 susvisé dans sa rédaction antérieure au présent décret, puis s'ils avaient été respectivement promus dans le grade de contrôleur du travail de classe exceptionnelle et dans le grade de contrôleur du travail de classe supérieure en application des articles 16 et 17 du décret du 18 avril 1997 susvisé, dans sa rédaction antérieure au présent décret, et enfin reclassés à la date de leur promotion conformément aux dispositions de l'article 10 du présent décret dans le grade de contrôleur du travail hors classe.

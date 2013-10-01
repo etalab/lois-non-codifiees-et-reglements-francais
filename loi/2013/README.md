@@ -13,6 +13,7 @@
 - [LOI n°2013-312 du 15 avril 2013 (DEVX1234078L)](loi-n2013-312-du-15-avril-2013-devx1234078l)
 - [LOI n°2013-316 du 16 avril 2013 (DEVX1240666L)](loi-n2013-316-du-16-avril-2013-devx1240666l)
 - [LOI n°2013-337 du 23 avril 2013 (OMEX1307188L)](loi-n2013-337-du-23-avril-2013-omex1307188l)
+- [LOI n°2013-343 du 24 avril 2013 (DEVX1029582L)](loi-n2013-343-du-24-avril-2013-devx1029582l)
 - [LOI n°2013-403 du 17 mai 2013 (INTX1238496L)](loi-n2013-403-du-17-mai-2013-intx1238496l)
 - [LOI n°2013-404 du 17 mai 2013 (JUSC1236338L)](loi-n2013-404-du-17-mai-2013-jusc1236338l)
 - [LOI n°2013-428 du 27 mai 2013 (INTX1237011L)](loi-n2013-428-du-27-mai-2013-intx1237011l)
