@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : L'activité de conducteur de taxi.](chapitre-ier)
+- [Article 1-1](article-1-1.md)
 - [Chapitre II : La profession d'exploitant de taxi.](chapitre-ii)
 - [Article 17](article-17.md)
