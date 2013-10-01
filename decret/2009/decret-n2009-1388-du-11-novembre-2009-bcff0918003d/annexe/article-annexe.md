@@ -50,6 +50,8 @@ Secrétaires de chancellerie.
 
 Secrétaires d'administration et de contrôle du développement durable.
 
+Secrétaires de documentation du ministère de la culture.
+
 Techniciens d'art.
 
 Techniciens de formation et de recherche du ministère de l'agriculture.

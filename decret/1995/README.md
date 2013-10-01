@@ -707,7 +707,6 @@
 - [Décret n°95-1052 du 25 septembre 1995 (DEFP9501701D)](decret-n95-1052-du-25-septembre-1995-defp9501701d)
 - [Décret n°95-1053 du 25 septembre 1995 (DEFP9501702D)](decret-n95-1053-du-25-septembre-1995-defp9501702d)
 - [Décret n°95-1059 du 25 septembre 1995 (EQUM9501840D)](decret-n95-1059-du-25-septembre-1995-equm9501840d)
-- [Décret n°95-1143 du 25 octobre 1995 (MCCB9500424D)](decret-n95-1143-du-25-octobre-1995-mccb9500424d)
 - [Décret n°95-447 du 25 avril 1995 (TEFE9500326D)](decret-n95-447-du-25-avril-1995-tefe9500326d)
 - [Décret n°95-453 du 25 avril 1995 (DOMP9500014D)](decret-n95-453-du-25-avril-1995-domp9500014d)
 - [Décret n°95-454 du 25 avril 1995 (DOMP9500016D)](decret-n95-454-du-25-avril-1995-domp9500016d)
