@@ -2,5 +2,4 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Avancement.](chapitre-ii)
-- [Chapitre IV : Avancement.](chapitre-iv)
 - [Article 29](article-29.md)
