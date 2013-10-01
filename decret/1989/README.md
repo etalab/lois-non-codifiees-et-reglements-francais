@@ -239,7 +239,6 @@
 - [Décret n°89-517 du 20 juillet 1989 (MERE8900028D)](decret-n89-517-du-20-juillet-1989-mere8900028d)
 - [Décret n°89-680 du 20 septembre 1989 (ECOC8900110D)](decret-n89-680-du-20-septembre-1989-ecoc8900110d)
 - [Décret n°89-914 du 20 décembre 1989 (MAEJ8930114D)](decret-n89-914-du-20-decembre-1989-maej8930114d)
-- [Décret n°89-927 du 20 décembre 1989 (DOMP8900033D)](decret-n89-927-du-20-decembre-1989-domp8900033d)
 - [Décret n°89-932 du 20 décembre 1989 (MAEJ8930117D)](decret-n89-932-du-20-decembre-1989-maej8930117d)
 - [Décret n°90-1132 du 20 décembre 1990 (MENN9002569D)](decret-n90-1132-du-20-decembre-1990-menn9002569d)
 - [Décret n°90-165 du 20 février 1990 (MENF9000023D)](decret-n90-165-du-20-fevrier-1990-menf9000023d)
