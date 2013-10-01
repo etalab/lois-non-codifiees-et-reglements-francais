@@ -1,1141 +1,959 @@
 # Article Annexe
 
-EMPLOIS OCCUPES PAR DES FONCTIONNAIRES CIVILS
+EMPLOIS OCCUPÉS PAR DES FONCTIONNAIRES CIVILS
 
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="329">
-<p align="center">Désignation de l'emploi</p>
+<td width="227">
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
-<td width="96">
-<p align="center">Niveau des responsabilités</p>
+<td width="151">
+<p align="center">NIVEAU<br/>des responsabilités</p>
 </td>
-<td width="86">
-<p align="center">Nombre d'emplois</p>
+<td width="151">
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
-<td width="95">
-<p align="center">Nombre de points majorés</p>
+<td width="151">
+<p align="center">NOMBRE DE POINTS<br/>majoré</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">1</p>
+<td width="227">
+<p>Chef de département assurance maladie </p>
 </td>
-<td valign="top" width="291">
-<p>Chef du bureau du personnel et des rémunérations. </p>
-</td>
-<td valign="top" width="96">
+<td width="151">
 <p align="center">A</p>
 </td>
-<td valign="top" width="86">
+<td width="151">
 <p align="center">1</p>
 </td>
-<td valign="top" width="95">
+<td width="151">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de département réglementation </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de département secrétariat général </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de département maîtrise d'ouvrage </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
 <p align="center">35</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">1</p>
+<td width="227">
+<p>Chef de département ressources humaines </p>
 </td>
-<td valign="top" width="291">
-<p>Chef de service (technique, production, affaires juridiques). </p>
-</td>
-<td valign="top" width="96">
+<td width="151">
 <p align="center">A</p>
 </td>
-<td valign="top" width="86">
-<p align="center">3</p>
+<td width="151">
+<p align="center">1</p>
 </td>
-<td valign="top" width="95">
+<td width="151">
 <p align="center">35</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">1</p>
+<td width="227">
+<p>Premier fondé de pouvoir adjoint à l'agent comptable </p>
 </td>
-<td valign="top" width="291">
-<p>Chef des services financiers. </p>
-</td>
-<td valign="top" width="96">
+<td width="151">
 <p align="center">A</p>
 </td>
-<td valign="top" width="86">
+<td width="151">
 <p align="center">1</p>
 </td>
-<td valign="top" width="95">
-<p align="center">35</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau documentation. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de service (identification, courrier, logistique, suivi et maintenance des projets). </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">3</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau administratif aux services logistiques. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau engagement liquidation. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau infrastructure aux services logistiques. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable des paiements et des archives à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">1</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau communication, formation, qualité. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef du service de production et du service technique. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">3</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef du bureau du personnel et des rémunérations. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Chargé d'affaires adjoint au chef du bureau infrastructure. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef du service identification. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef du bureau service technique de l'assurance maladie. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">17</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef du bureau documentation. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef du bureau communication, formation, qualité. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau justifications archives. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau comptabilité à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau technique de l'assurance maladie. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">4</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du service courrier. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de groupe au bureau du personnel et des rémunérations. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">2</p>
-</td>
-<td valign="top" width="95">
-<p align="center">16</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de section documentation aux services médicaux. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef d'équipe des services médicaux. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">5</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau paiements techniques à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau dépense à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau recouvrement à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau affaires juridiques. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">2</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de la section maintenance et entretien aux services logistiques. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable de l'imprimerie. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef d'atelier de contrôle à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">14</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau ordonnancement-budget. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable du standard. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">C</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">3</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de l'équipe ateliers . </p>
-</td>
-<td valign="top" width="96">
-<p align="center">C</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">4</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de division. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">8</p>
-</td>
-<td valign="top" width="95">
-<p align="center">17</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">4</p>
-</td>
-<td valign="top" width="291">
-<p>Chef des divisions de contrôle à l'agence comptable.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">4</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de division du contrôle à l'agence comptable.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">5</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">4</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de la division spéciale du contrôle à l'agence comptable.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">5</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint au chef de division affaires spéciales.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">17</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">6</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de salle ou de groupe.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">28</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">7</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de cabinet du directeur de la Caisse nationale militaire de sécurité sociale</p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">35</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">8</p>
-</td>
-<td valign="top" width="291">
-<p>1er fondé de pouvoir de l'agent comptable.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">35</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">9</p>
-</td>
-<td valign="top" width="291">
-<p>2e fondé de pouvoir de l'agent comptable.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">10</p>
-</td>
-<td valign="top" width="291">
-<p>Coordonnateur SESAM-VITALE.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">35</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">11</p>
-</td>
-<td valign="top" width="291">
-<p>Coordonnateur télétransmission</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">12</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable étude et formation à l'agence comptable. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">13</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable du contrôle des flux. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">14</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable de la formation professionnelle aux services médicaux. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">15</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable de la coordination médicale aux services médicaux. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">16</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable des antennes aux services médicaux. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">18</p>
-</td>
-<td valign="top" width="291">
-<p>Chef de secrétariat à la direction de l'assurance maladie, à l'agence comptable, au cabinet du directeur </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">3</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">19</p>
-</td>
-<td valign="top" width="291">
-<p>Animateur de la direction de l'assurance maladie. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">35</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">20</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable de la coordination des contrôles. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">21</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable de la coordination et de la gestion intégrée au bureau du personnel et des rémunérations.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">22</p>
-</td>
-<td valign="top" width="291">
-<p>Chargé d'affaires au bureau infrastructure. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">23</p>
-</td>
-<td valign="top" width="291">
-<p>Chef du bureau statistiques et bureautique au secrétariat général. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">24</p>
-</td>
-<td valign="top" width="291">
-<p>Liquidateur de marchés. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">25</p>
-</td>
-<td valign="top" width="291">
-<p>Adjoint administratif au chef de l'antenne de Paris. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">A</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">26</p>
-</td>
-<td valign="top" width="291">
-<p>Agent de sécurité. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">B</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">27</p>
-</td>
-<td valign="top" width="291">
-<p>Agent d'accueil. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">C</p>
-</td>
-<td valign="top" width="86">
-<p align="center">3</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">28</p>
-</td>
-<td valign="top" width="291">
-<p>Gérant du restaurant. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">C</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">29</p>
-</td>
-<td valign="top" width="291">
-<p>Responsable du courrier-vaguemestre. </p>
-</td>
-<td valign="top" width="96">
-<p align="center">C</p>
-</td>
-<td valign="top" width="86">
-<p align="center">1</p>
-</td>
-<td valign="top" width="95">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
+<td width="151">
 <p align="center">30</p>
 </td>
-<td valign="top" width="291">
-<p>Responsable du contrôle et du suivi des projets à l'agence comptable. </p>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au chef de département assurance maladie </p>
 </td>
-<td valign="top" width="96">
+<td width="151">
 <p align="center">A</p>
 </td>
-<td valign="top" width="86">
+<td width="151">
 <p align="center">1</p>
 </td>
-<td valign="top" width="95">
+<td width="151">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au chef de département maîtrise d'ouvrage </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">25</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de service communication </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
 <p align="center">20</p>
 </td>
 </tr>
-</tbody>
-</table>
-
-EMPLOIS OCCUPES PAR DES MILITAIRES
-
-<table>
-<tbody>
 <tr>
-<td width="329">
-<p align="center">Désignation de l'emploi</p>
+<td width="227">
+<p>Chef de service réglementation </p>
 </td>
-<td width="96">
-<p align="center">Niveau des responsabilités</p>
+<td width="151">
+<p align="center">A</p>
 </td>
-<td width="84">
-<p align="center">Nombre d'emplois</p>
+<td width="151">
+<p align="center">3</p>
 </td>
-<td width="96">
-<p align="center">Nombre de points majorés</p>
+<td width="151">
+<p align="center">25</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="329">
-<p>Chef du département systèmes d'information.</p>
+<td width="227">
+<p>Chef de service secrétariat général </p>
 </td>
-<td width="96">
-<p align="center">Officier</p>
+<td width="151">
+<p align="center">A</p>
 </td>
-<td width="84">
-<p align="center">1</p>
+<td width="151">
+<p align="center">3</p>
 </td>
-<td width="96">
-<p align="center">35</p>
+<td width="151">
+<p align="center">25</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="329">
-<p>Chargé du secrétariat particulier du directeur.</p>
+<td width="227">
+<p>Chef de service assurance maladie </p>
 </td>
-<td width="96">
-<p align="center">Sous-officier</p>
+<td width="151">
+<p align="center">A</p>
 </td>
-<td width="84">
-<p align="center">1</p>
+<td width="151">
+<p align="center">2</p>
 </td>
-<td width="96">
+<td width="151">
+<p align="center">25</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au chef de service secrétariat général </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
 <p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé de mission assurance qualité </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé de mission contrôle de gestion </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé de mission réglementation </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé de mission du directeur </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Fondé de pouvoir </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au chef de département ressources humaines </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au chef de service assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé de mission assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">A</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de l'accueil client </p>
+</td>
+<td width="151">
+<p align="center">A ou B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de site de La Garde </p>
+</td>
+<td width="151">
+<p align="center">A ou B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable formation assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">A ou B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au chef de bureau assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé de coordination des projets </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau action sanitaire et sociale </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">4</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau comptabilité </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">8</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau contentieux </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau maîtrise d'ouvrage </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">5</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau ressources humaines </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">5</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de bureau secrétariat général </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">4</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de pôle réglementation </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">5</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de salle assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">19</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de salle recours contre tiers </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de section secrétariat général </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de pôle soutien de l'assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable unité de prévention </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Animateur action sanitaire et sociale </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Animateur assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">25</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Animateur contentieux </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé d'études assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chargé d'études secrétariat général </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef de division de contrôle </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Conseiller carrière </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Correspondant informatique et liberté </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Expert action sanitaire et sociale </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Expert gestion du risque </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Expert prévention </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de pôle assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">5</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de pôle contentieux </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de pôle médical </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable des rémunérations </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable du SIRH </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Contrôleur interne </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Superviseur plateforme téléphonique </p>
+</td>
+<td width="151">
+<p align="center">B</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Adjoint au responsable installation maintenance </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Animateur de formation assurance maladie </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Chef d'équipe secrétariat général </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Encadrant de proximité médical </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">8</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Gérant du restaurant </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Gestionnaire des statistiques </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Pilote de projets </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">6</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Responsable de secrétariat </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">4</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Technicien d'études et d'intégration des logiciels </p>
+</td>
+<td width="151">
+<p align="center">B ou C</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Agent d'accueil </p>
+</td>
+<td width="151">
+<p align="center">C</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">10</p>
 </td>
 </tr>
 </tbody>
