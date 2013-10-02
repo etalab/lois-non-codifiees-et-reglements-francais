@@ -1,0 +1,5 @@
+# Article 32
+
+Jusqu'au prochain renouvellement général, la commission administrative paritaire du corps des conseillers d'administration scolaire et universitaire demeure compétente, le mandat de ses membres est maintenu et elle est placée, conformément aux dispositions prévues à l'article 6 du décret du 17 octobre 2011 susvisé, auprès du ministre chargé de l'éducation nationale.
+
+Durant cette même période, cette commission siège en formation conjointe avec la commission administrative paritaire du corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur mentionnée à l'article 38 du décret du 17 octobre 2011 susvisé. Les représentants du grade d'attaché principal du corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur et les représentants du grade unique du corps des conseillers d'administration scolaire et universitaire représentent les grades d'attachés principaux et de directeurs de service du corps interministériel des attachés d'administration de l'Etat dont l'autorité de rattachement est le ministre chargé de l'éducation nationale.
