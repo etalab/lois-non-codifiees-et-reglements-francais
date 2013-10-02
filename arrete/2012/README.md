@@ -1334,7 +1334,6 @@
 - [Arrêté du 16 décembre 2011 (MAEA1134446A)](arrete-du-16-decembre-2011-maea1134446a)
 - [Arrêté du 16 février 2012 (ETSR1206260A)](arrete-du-16-fevrier-2012-etsr1206260a)
 - [Arrêté du 16 février 2012 (IOCL1204264A)](arrete-du-16-fevrier-2012-iocl1204264a)
-- [Arrêté du 16 février 2012 (IOCV1204358A)](arrete-du-16-fevrier-2012-iocv1204358a)
 - [Arrêté du 16 février 2012 (MENG1135335A)](arrete-du-16-fevrier-2012-meng1135335a)
 - [Arrêté du 16 février 2012 (SPOR1206274A)](arrete-du-16-fevrier-2012-spor1206274a)
 - [Arrêté du 16 février 2012 (TRAT1128170A)](arrete-du-16-fevrier-2012-trat1128170a)

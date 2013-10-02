@@ -1688,7 +1688,6 @@
 - [Arrêté du 20 juillet 2011 (DEVL1118199A)](arrete-du-20-juillet-2011-devl1118199a)
 - [Arrêté du 20 juillet 2011 (DEVP1111999A)](arrete-du-20-juillet-2011-devp1111999a)
 - [Arrêté du 20 juillet 2011 (IOCV1117298A)](arrete-du-20-juillet-2011-iocv1117298a)
-- [Arrêté du 20 juillet 2011 (IOCV1117301A)](arrete-du-20-juillet-2011-iocv1117301a)
 - [Arrêté du 20 juillet 2011 (JUSA1119070A)](arrete-du-20-juillet-2011-jusa1119070a)
 - [Arrêté du 20 juillet 2011 (MCCE1107860A)](arrete-du-20-juillet-2011-mcce1107860a)
 - [Arrêté du 20 juillet 2011 (MCCE1107861A)](arrete-du-20-juillet-2011-mcce1107861a)
