@@ -27,5 +27,3 @@ Elle comprend :
 - le bureau de l'exploitation routière et de la sécurité ;
 
 - le bureau de l'information routière et de systèmes d'information.
-
-Le bureau de l'information routière et des systèmes d'information est mis à la disposition de la délégation à la sécurité et à la circulation routières pour l'exercice de ses compétences en matière de communication à destination du grand public sur la sécurité routière.
