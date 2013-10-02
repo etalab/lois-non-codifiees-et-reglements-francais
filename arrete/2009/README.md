@@ -1897,7 +1897,6 @@
 - [Arrêté du 23 décembre 2009 (ECEI0929491A)](arrete-du-23-decembre-2009-ecei0929491a)
 - [Arrêté du 23 décembre 2009 (IOCC0923357A)](arrete-du-23-decembre-2009-iocc0923357a)
 - [Arrêté du 23 décembre 2009 (IOCF0930628A)](arrete-du-23-decembre-2009-iocf0930628a)
-- [Arrêté du 23 décembre 2009 (IOCJ0930627A)](arrete-du-23-decembre-2009-iocj0930627a)
 - [Arrêté du 23 décembre 2009 (JUSC0914229A)](arrete-du-23-decembre-2009-jusc0914229a)
 - [Arrêté du 23 décembre 2009 (MAEF0931645A)](arrete-du-23-decembre-2009-maef0931645a)
 - [Arrêté du 23 décembre 2009 (MTSS0931592A)](arrete-du-23-decembre-2009-mtss0931592a)
