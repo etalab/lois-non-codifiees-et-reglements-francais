@@ -16,8 +16,6 @@ Outre le Conseil général de l'environnement et du développement durable, qui 
 
 ― la direction générale de la prévention des risques ;
 
-― la délégation à la sécurité et à la circulation routières ;
-
 ― la direction des pêches maritimes et de l'aquaculture ;
 
 ― la délégation à l'hébergement et à l'accès au logement.

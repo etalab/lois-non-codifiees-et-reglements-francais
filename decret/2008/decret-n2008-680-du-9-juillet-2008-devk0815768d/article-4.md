@@ -72,7 +72,7 @@ Au titre de cette politique, il réalise :
 
 ― le suivi de l'application des décisions prises par le Gouvernement.
 
-Il élabore et met en œuvre les réglementations techniques relatives aux véhicules, notamment en ce qui concerne la lutte contre l'effet de serre, et dans les domaines de la sécurité routière, en collaboration avec la délégation à la sécurité et à la circulation routières.
+Il élabore et met en œuvre les réglementations techniques relatives aux véhicules, tant en ce qui concerne leur sécurité que leur impact environnemental, et contribue en tant que de besoin à l'action interministérielle dans le domaine de la sécurité routière.
 
 Il propose, pour l'ensemble des usages de l'énergie, les mesures favorisant la maîtrise de la demande, et l'utilisation rationnelle de l'énergie.
 
