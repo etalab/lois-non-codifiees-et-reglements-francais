@@ -4,28 +4,18 @@
 <tbody>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>Grades et emplois</b>
-</p>
+<p align="center">Grades et emplois</p>
 </td>
 <td valign="top" width="113">
-<p align="center">
-<b>Classement hiérarchique</b>
-</p>
+<p align="center">Classement hiérarchique</p>
 </td>
 <td valign="top" width="279">
-<p align="center">
-<b>Observations</b>
-</p>
+<p align="center">Observations</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>
-<b>
-<font color="#0000ff" size="1">G - ADMINISTRATION ACADÉMIQUE ET UNIVERSITAIRE</font>
-</b>
-</p>
+<p>G - ADMINISTRATION ACADÉMIQUE ET UNIVERSITAIRE</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -84,9 +74,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>1. Services de l'administration scolaire et universitaire</b>
-</p>
+<p align="center">1. Services de l'administration scolaire et universitaire</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -104,21 +92,6 @@
 </td>
 <td valign="top" width="279">
 <p>Echelon spécial</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Conseiller d'administration</p>
-<p>hors classe</p>
-<p>classe normale</p>
-</td>
-<td valign="top" width="113">
-<p align="center">852 - 985</p>
-<p align="center">529 - 871</p>
-</td>
-<td valign="top" width="279">
-<p>A compter du 1er août 1995</p>
-<p>A compter du 1er août 1993</p>
 </td>
 </tr>
 <tr>
@@ -194,9 +167,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>2 - Services de l'intendance universitaire</b>
-</p>
+<p align="center">2 - Services de l'intendance universitaire</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -251,9 +222,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>2 ter - Personnel ouvrier des établissements d'enseignement et personnel technique</b>
-</p>
+<p align="center">2 ter - Personnel ouvrier des établissements d'enseignement et personnel technique</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -304,9 +273,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>3 - Bureau universitaire de statistiques et de documentation scolaire et professionnelle</b>
-</p>
+<p align="center">3 - Bureau universitaire de statistiques et de documentation scolaire et professionnelle</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -391,26 +358,18 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>Grades et emplois</b>
-</p>
+<p align="center">Grades et emplois</p>
 </td>
 <td valign="top" width="113">
-<p align="center">
-<b>Classement hiérarchique</b>
-</p>
+<p align="center">Classement hiérarchique</p>
 </td>
 <td valign="top" width="279">
-<p align="center">
-<b>Observations</b>
-</p>
+<p align="center">Observations</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>4 -Centre national et centres régionaux des œuvres universitaires et scolaires</b>
-</p>
+<p align="center">4 -Centre national et centres régionaux des œuvres universitaires et scolaires</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -473,9 +432,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>5 -Établissements publics d'enseignement supérieur</b>
-</p>
+<p align="center">5 -Établissements publics d'enseignement supérieur</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -518,9 +475,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>6 - Service de documentation</b>
-</p>
+<p align="center">6 - Service de documentation</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -539,9 +494,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>7 -Institut national de recherches pédagogiques (INRP)</b>
-</p>
+<p align="center">7 -Institut national de recherches pédagogiques (INRP)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -569,9 +522,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>8 - Office national d'information sur les enseignements et professions (ONISEP)</b>
-</p>
+<p align="center">8 - Office national d'information sur les enseignements et professions (ONISEP)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -608,9 +559,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>9 - Centre national de documentation pédagogique (CNDP)</b>
-</p>
+<p align="center">9 - Centre national de documentation pédagogique (CNDP)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -647,9 +596,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>9 bis- Centre régional de documentation pédagogique (CRDP)</b>
-</p>
+<p align="center">9 bis- Centre régional de documentation pédagogique (CRDP)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -668,9 +615,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>10 - Centre national d'enseignement à distance (CNED)</b>
-</p>
+<p align="center">10 - Centre national d'enseignement à distance (CNED)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -689,9 +634,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>11 - Personnels médicaux</b>
-</p>
+<p align="center">11 - Personnels médicaux</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -704,9 +647,7 @@
 <p align="center">Abrogé</p>
 </td>
 <td valign="top" width="113"/>
-<td valign="top" width="279">
-<br/>
-</td>
+<td valign="top" width="279"/>
 </tr>
 <tr>
 <td valign="top" width="331">
@@ -719,9 +660,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>12 - Centre d'études et de recherches sur les qualifications (CEREQ)</b>
-</p>
+<p align="center">12 - Centre d'études et de recherches sur les qualifications (CEREQ)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -756,26 +695,18 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>Grades et emplois</b>
-</p>
+<p align="center">Grades et emplois</p>
 </td>
 <td valign="top" width="113">
-<p align="center">
-<b>Classement hiérarchique</b>
-</p>
+<p align="center">Classement hiérarchique</p>
 </td>
 <td valign="top" width="279">
-<p align="center">
-<b>Observations</b>
-</p>
+<p align="center">Observations</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="331">
-<p align="center">
-<b>13 - Centre international d'études pédagogiques (CIEP)</b>
-</p>
+<p align="center">13 - Centre international d'études pédagogiques (CIEP)</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -812,13 +743,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>
-<b>
-<font color="#0000ff" size="1">
-<i>IV - BIBLIOTHÈQUE DE FRANCE</i>
-</font>
-</b>
-</p>
+<p>IV - BIBLIOTHÈQUE DE FRANCE</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -844,7 +769,7 @@
 <p>Conservateur général</p>
 <p>Conservateur en chef</p>
 <p>Conservateur</p>
-<p>1er<sup>e</sup> classe</p>
+<p>1ere classe</p>
 <p>2e classe</p>
 </td>
 <td valign="top" width="113">
@@ -874,7 +799,7 @@
 <td valign="top" width="331">
 <p>Bibliothécaire adjoint spécialisé</p>
 <p>hors classe</p>
-<p>1er<sup>e</sup> classe</p>
+<p>1ere classe</p>
 <p>2e classe</p>
 </td>
 <td valign="top" width="113">
@@ -986,13 +911,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>
-<b>
-<i>
-<font color="#0000ff" size="1">V - INSTITUT DE RECHERCHE POUR LE DÉVELOPPEMENT</font>
-</i>
-</b>
-</p>
+<p>V - INSTITUT DE RECHERCHE POUR LE DÉVELOPPEMENT</p>
 </td>
 <td valign="top" width="113">
 <br/>

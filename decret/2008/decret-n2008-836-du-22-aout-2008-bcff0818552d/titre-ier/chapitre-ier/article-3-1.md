@@ -5,18 +5,17 @@ L'échelonnement indiciaire applicable au corps interministériel des attachés 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS <br/>
-</th>
-<th colspan="2">
-<br/>INDICES BRUTS <br/>
-</th>
+<td>
+<p align="center">GRADES ET ÉCHELONS </p>
+</td>
+<td colspan="2">
+<p align="center"> INDICES BRUTS </p>
+</td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 <br/>Attaché d'administration hors classe <br/>
 </td>
-<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -83,10 +82,128 @@ L'échelonnement indiciaire applicable au corps interministériel des attachés 
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Attaché principal d'administration <br/>
+<td colspan="2">
+<p align="center">Directeur de service</p>
 </td>
-<td align="center"/>
+</tr>
+<tr>
+<td>
+<p align="center">14e échelon</p>
+</td>
+<td>
+<p align="center">985</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">13e échelon</p>
+</td>
+<td>
+<p align="center">946</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">12e échelon</p>
+</td>
+<td>
+<p align="center">916</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">11e échelon</p>
+</td>
+<td>
+<p align="center">875</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">10e échelon</p>
+</td>
+<td>
+<p align="center">841</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">9e échelon</p>
+</td>
+<td>
+<p align="center">811</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">8e échelon</p>
+</td>
+<td>
+<p align="center">780</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p align="center">728</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p align="center">681</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p align="center">639</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p align="center">604</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">569</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p align="center">549</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon</p>
+</td>
+<td>
+<p align="center">529</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="center">
+<br/>Attaché principal d'administration <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -169,10 +286,9 @@ L'échelonnement indiciaire applicable au corps interministériel des attachés 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 <br/>Attaché d'administration <br/>
 </td>
-<td align="center"/>
 </tr>
 <tr>
 <td align="center">
