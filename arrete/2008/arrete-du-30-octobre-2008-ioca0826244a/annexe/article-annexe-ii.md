@@ -4,17 +4,20 @@ CHEFS DES SERVICES DES SYSTÈMES D'INFORMATION
 
 ET DE COMMUNICATION ACCÉDANT À L'INDICE BRUT 1015
 
-_Préfectures_
+Préfectures
 
 <table>
 <tbody>
 <tr>
-<th colspan="2">LOCALISATION<br/>
-</th>
-<th>FONCTIONS<br/>
-</th>
-<th>POINTS NBI<br/>
-</th>
+<td colspan="2">
+<p align="center"> LOCALISATION</p>
+</td>
+<td>
+<p align="center"> FONCTIONS</p>
+</td>
+<td>
+<p align="center">POINTS NBI </p>
+</td>
 </tr>
 <tr>
 <td align="center">13<br/>
@@ -39,17 +42,20 @@ _Préfectures_
 </tbody>
 </table>
 
-_Service régional des systèmes d'information et de communication (SRSIC)_
+Service régional des systèmes d'information et de communication (SRSIC)
 
 <table>
 <tbody>
 <tr>
-<th colspan="2">LOCALISATION<br/>
-</th>
-<th>FONCTIONS<br/>
-</th>
-<th>POINTS NBI<br/>
-</th>
+<td colspan="2">
+<p align="center"> LOCALISATION</p>
+</td>
+<td>
+<p align="center"> FONCTIONS</p>
+</td>
+<td>
+<p align="center">POINTS NBI </p>
+</td>
 </tr>
 <tr>
 <td align="center" rowspan="2">78 </td>
@@ -69,17 +75,20 @@ _Service régional des systèmes d'information et de communication (SRSIC)_
 </tbody>
 </table>
 
-_Services de zone des systèmes d'information et de communication (SZSIC)_
+Services de zone des systèmes d'information et de communication (SZSIC)
 
 <table>
 <tbody>
 <tr>
-<th colspan="2">LOCALISATION<br/>
-</th>
-<th>FONCTIONS<br/>
-</th>
-<th>POINTS NBI<br/>
-</th>
+<td colspan="2">
+<p align="center"> LOCALISATION</p>
+</td>
+<td>
+<p align="center"> FONCTIONS</p>
+</td>
+<td>
+<p align="center"> POINTS NBI</p>
+</td>
 </tr>
 <tr>
 <td align="center">13<br/>
@@ -134,25 +143,27 @@ _Services de zone des systèmes d'information et de communication (SZSIC)_
 </tbody>
 </table>
 
-_Services de l'administration centrale_
+Services de l'administration centrale
 
 <table>
 <tbody>
 <tr>
-<th colspan="2">LOCALISATION<br/>
-</th>
-<th>FONCTIONS<br/>
-</th>
-<th>POINTS NBI<br/>
-</th>
+<td colspan="2">
+<p align="center"> LOCALISATION</p>
+</td>
+<td>
+<p align="center"> FONCTIONS</p>
+</td>
+<td>
+<p align="center"> POINTS NBI</p>
+</td>
 </tr>
 <tr>
 <td align="center">75<br/>
 </td>
 <td align="left">Direction des systèmes d'information et de communication<br/>
 </td>
-<td align="center">Chef du bureau opérateur à la sous-direction<br/>de l'exploitation et du soutien (SDES)<br/>
-</td>
+<td align="center">Adjoint au sous-directeur de la supervision et de la production (SDSP)</td>
 <td align="center">40<br/>
 </td>
 </tr>

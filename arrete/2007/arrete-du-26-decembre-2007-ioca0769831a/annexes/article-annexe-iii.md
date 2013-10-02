@@ -402,5 +402,17 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <p align="center">30</p>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center"> 69 </p>
+</td>
+<td> Ecole nationale supérieure de la police. </td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center"> 30</p>
+</td>
+</tr>
 </tbody>
 </table>

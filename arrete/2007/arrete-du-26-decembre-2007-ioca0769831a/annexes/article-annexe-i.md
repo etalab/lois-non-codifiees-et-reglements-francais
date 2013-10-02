@@ -140,7 +140,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <p>Chef du bureau des affaires juridiques. </p>
 <p align="left">Chef du bureau du budget et de la programmation financière. </p>
 <p>Chef du bureau du personnel et des compétences. </p>
-<p>Chef de cabinet. </p>
+<p>Chef de la coordination fonctionnelle.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">50 </p>
@@ -152,10 +152,10 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" rowspan="5" valign="top">
-<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières.</p>
+<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du bureau du budget et du fonctionnement.</p>
+<p align="left">Chef du bureau de la gestion des sites de l'administration centrale.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">60</p>
@@ -163,7 +163,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td>
-<p align="left">Chef du bureau du contrôle interne comptable. </p>
+<p align="left">Chef du bureau de la commande publique et de la performance des achats. </p>
 </td>
 <td>
 <p align="center">50 </p>
@@ -171,7 +171,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du centre de service Chorus pour l'administration générale.</p>
+<p align="left">Adjoint au chef du centre des prestations financières. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">30 </p>
@@ -179,7 +179,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du bureau de la synthèse budgétaire et financière. </p>
+<p align="left">Adjoint au chef du bureau de la synthèse budgétaire. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">30 </p>
@@ -187,32 +187,10 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du bureau des affaires immobilières d'administration centrale.</p>
+<p align="left">Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">30 </p>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="2" valign="top">
-<p align="left">Direction de la modernisation et de l'action territoriale. <br/>
-</p>
-</td>
-<td align="left">
-<p>Chef du bureau de la sécurité et de la réglementation routières. <br/>
-</p>
-</td>
-<td align="center">
-<br/>30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du service du fichier national des permis de conduire. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
 </td>
 </tr>
 <tr>
@@ -416,7 +394,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td>Adjoint au chef du bureau des affaires juridiques et statutaires. <br/>
 </td>
-<td align="center"> 30</td>
+<td align="center">30</td>
 </tr>
 <tr>
 <td align="left">Chef du bureau des politiques sociales. </td>
@@ -671,10 +649,10 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<p>Secrétariat général à l'immigration et à l'intégration.</p>
+<p>Direction générale des étrangers en France.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du bureau du droit de l'éloignement. </p>
+<p align="left">Chef du bureau de la circulation transfrontalière. </p>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -685,16 +663,15 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td>Chef du département de l'asile à la frontière et de l'admission au séjour. <br/>
-</td>
-<td align="center"> 30</td>
+<td>Chef du département de l'asile à la frontière et de l'admission au séjour.</td>
+<td align="center">30</td>
 </tr>
 <tr>
 <td>
 <p align="left">Agence nationale des titres sécurisés.</p>
 </td>
 <td>
-<p align="left">Chef du département qualité.</p>
+<p align="left">Responsable du centre d'appels, de l'acheminement et de la gestion des sites web.</p>
 </td>
 <td>
 <p align="center">30</p>
@@ -705,6 +682,20 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <td>Chef du bureau du personnel civil.</td>
 <td>
 <p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Délégation à la sécurité et à la circulation routières.</td>
+<td>Chef du bureau du permis de conduire. <br/>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>Chef du service du fichier national des permis de conduire.</td>
+<td>
+<p align="center">50</p>
 </td>
 </tr>
 </tbody>

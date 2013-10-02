@@ -117,7 +117,7 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <p align="left">Direction de l'évaluation de la performance et des affaires immobilières. </p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef du bureau des affaires immobilières de l'administration territoriale. </p>
+<p align="left">Chef du pôle synthèse du bureau de la synthèse, du patrimoine et de la stratégie. </p>
 </td>
 <td align="center">
 <p align="center">1 </p>
