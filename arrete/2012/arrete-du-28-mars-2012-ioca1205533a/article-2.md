@@ -2,25 +2,25 @@
 
 Le comité de la médaille de la sécurité intérieure institué à l'article 8 du décret susvisé est composé de dix membres :
 
-- le directeur du cabinet du ministre, président du comité ;
+-le directeur du cabinet du ministre, président du comité ;
 
-- le secrétaire général du ministère de l'intérieur ;
+-le secrétaire général du ministère de l'intérieur ;
 
-- le secrétaire général à l'immigration et à l'intégration ;
+-le          directeur général des étrangers en France ;
 
-- le directeur général de la police nationale ;
+-le directeur général de la police nationale ;
 
-- le directeur général de la gendarmerie nationale ;
+-le directeur général de la gendarmerie nationale ;
 
-- le directeur général de la sécurité civile et de la gestion des crises ;
+-le directeur général de la sécurité civile et de la gestion des crises ;
 
-- le directeur général des collectivités locales ;
+-le directeur général des collectivités locales ;
 
-- le directeur des libertés publiques et des affaires juridiques ;
+-le directeur des libertés publiques et des affaires juridiques ;
 
-- le délégué à la sécurité et à la circulation routières ;
+-le délégué à la sécurité et à la circulation routières ;
 
-- le chef du service de l'inspection générale de l'administration,
+-le chef du service de l'inspection générale de l'administration,
 
 ou, en cas d'empêchement, de leurs représentants respectifs.
 

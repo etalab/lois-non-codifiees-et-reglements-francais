@@ -1,6 +1,6 @@
 # Article 8
 
-I. ― Pour l'exercice de ses attributions relatives à l'immigration, à l'intégration et à l'asile, le ministre de l'intérieur a autorité sur le secrétaire général à l'immigration et à l'intégration mentionné à l'article 1er du décret du 26 décembre 2007 susvisé.
+I. ― Pour l'exercice de ses attributions relatives à l'immigration, à l'intégration et à l'asile, le ministre de l'intérieur a autorité sur le          directeur général des étrangers en France mentionné à l'article 1er du décret du 26 décembre 2007 susvisé.
 
 Il a également autorité sur le secrétaire général du comité interministériel de contrôle de l'immigration et sur le secrétaire général du comité interministériel à l'intégration.
 

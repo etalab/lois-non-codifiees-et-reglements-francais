@@ -401,7 +401,7 @@ Secteur travail
 
 Ministère de l'intérieur
 
-Secrétariat général à l'immigration et à l'intégration
+Direction générale des étrangers en France
 
 <table>
 <tbody>
@@ -455,7 +455,9 @@ Secrétariat général à l'immigration et à l'intégration
 </tr>
 <tr>
 <td align="center">
-<br/>Secrétariat général à l'immigration et à l'intégration<br/>
+<br/>
+<div align="left">Direction générale des étrangers en France<br/>
+</div>
 </td>
 <td align="center">
 <br/>Délégué général de la commission interministérielle pour le logement des populations immigrées<br/>

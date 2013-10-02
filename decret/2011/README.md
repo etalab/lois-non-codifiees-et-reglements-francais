@@ -24,6 +24,7 @@
 - [Décret n°2011-164 du 10 février 2011 (ESRS1014943D)](decret-n2011-164-du-10-fevrier-2011-esrs1014943d)
 - [Décret n°2011-954 du 10 août 2011 (ETSH1114682D)](decret-n2011-954-du-10-aout-2011-etsh1114682d)
 - [Décret n°86-1099 du 10 octobre 1986](decret-n86-1099-du-10-octobre-1986)
+- [Décret n°2011-1266 du 11 octobre 2011 (IOCN1126055D)](decret-n2011-1266-du-11-octobre-2011-iocn1126055d)
 - [Décret n°2011-45 du 11 janvier 2011 (ETST1023798D)](decret-n2011-45-du-11-janvier-2011-etst1023798d)
 - [Décret n°2011-49 du 12 janvier 2011 (EFIP1028377D)](decret-n2011-49-du-12-janvier-2011-efip1028377d)
 - [Décret n°2011-833 du 12 juillet 2011 (DEVD1113961D)](decret-n2011-833-du-12-juillet-2011-devd1113961d)

@@ -4,7 +4,7 @@ Les membres permanents du collège stratégique sont :
 
 ― le secrétaire général du ministère de l'intérieur ;
 
-― le secrétaire général à l'immigration et à l'intégration ;
+― le          directeur général des étrangers en France ;
 
 ― le directeur général des collectivités locales ;
 
@@ -14,7 +14,7 @@ Les membres permanents du collège stratégique sont :
 
 ― le directeur des libertés publiques et des affaires juridiques ;
 
-― le    directeur général de la sécurité civile et de la gestion des crises ;
+― le directeur général de la sécurité civile et de la gestion des crises ;
 
 ― le délégué général à l'outre-mer ;
 

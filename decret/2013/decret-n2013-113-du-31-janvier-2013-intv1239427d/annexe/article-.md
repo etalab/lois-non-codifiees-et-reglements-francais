@@ -2,13 +2,13 @@
 
 CONVENTION TYPE RELATIVE AU FONCTIONNEMENT
 
-DU CENTRE D'ACCUEIL POUR DEMANDEURS D'ASILE DE ...
+DU CENTRE D'ACCUEIL POUR DEMANDEURS D'ASILE DE...
 
 Entre :
 
 L'Etat, représenté par le préfet de
 
-Et  (nom de l'organisme)
+Et (nom de l'organisme)
 
 Vu la convention de Genève du 28 juillet 1951 et le protocole de New York du 31 janvier 1967 relatifs au statut des réfugiés ;
 
@@ -16,13 +16,13 @@ Vu le code de l'action sociale et des familles, notamment les articles L. 311-1 
 
 Vu le code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
-Vu l'arrêté du 22 octobre 2003 fixant les modèles de documents prévus aux articles 9, 12, 16, 18, 19, 47 du décret n° 2003-1010 du 22 octobre 2003 ;
+Vu l'arrêté du 22 octobre 2003 fixant les modèles de documents prévus aux articles 9,12,16,18,19,47 du décret n° 2003-1010 du 22 octobre 2003 ;
 
 Vu l'arrêté du 11 janvier 2006 relatif à la visite médicale des étrangers autorisés à séjourner en France ;
 
 Vu l'arrêté du 31 mars 2008 portant application de l'article R. 348-4 du code de l'action sociale et des familles ;
 
-Vu la circulaire ... relative aux missions des centres d'accueil pour demandeurs d'asile et aux modalités de pilotage du dispositif national d'accueil,
+Vu la circulaire... relative aux missions des centres d'accueil pour demandeurs d'asile et aux modalités de pilotage du dispositif national d'accueil,
 
 Il est convenu ce qui suit :
 
@@ -52,7 +52,7 @@ Objectifs assignés au centre
 
 Le centre poursuit les objectifs suivants :
 
-― organiser des conditions satisfaisantes de prise en charge de l'hébergement et d'accompagnement social du demandeur d'asile et de sa famille pendant cette période de procédure, conformément aux dispositions prévues par la circulaire du  susvisée et le cahier des charges annexé ;
+― organiser des conditions satisfaisantes de prise en charge de l'hébergement et d'accompagnement social du demandeur d'asile et de sa famille pendant cette période de procédure, conformément aux dispositions prévues par la circulaire du susvisée et le cahier des charges annexé ;
 
 ― mettre en œuvre des moyens adaptés d'aide et d'accompagnement administratif du demandeur d'asile, notamment s'agissant de la procédure de demande d'asile devant l'OFPRA, et le cas échéant devant la CNDA ;
 
@@ -66,7 +66,7 @@ Capacité d'accueil et caractéristiques
 
 de la prise en charge
 
-Le gestionnaire de l'établissement s'engage à accueillir au maximum ... personnes, conformément à la capacité autorisée par arrêté préfectoral en date du ... et à faire signer aux personnes hébergées un contrat individuel de séjour pris sur le modèle du contrat type figurant en annexe de la circulaire du ... relative aux missions des centres d'accueil pour demandeurs d'asile et aux modalités de pilotage du dispositif national d'accueil.
+Le gestionnaire de l'établissement s'engage à accueillir au maximum... personnes, conformément à la capacité autorisée par arrêté préfectoral en date du... et à faire signer aux personnes hébergées un contrat individuel de séjour pris sur le modèle du contrat type figurant en annexe de la circulaire du... relative aux missions des centres d'accueil pour demandeurs d'asile et aux modalités de pilotage du dispositif national d'accueil.
 
 La cohabitation de plusieurs personnes isolées ou ménages, impliquant le partage des pièces de vie, doit être organisée lorsque la structure des places, conçue pour des familles, n'est pas adaptée à la demande de personnes isolées.
 
@@ -148,15 +148,15 @@ Il tient un registre coté et paraphé comportant l'état civil des personnes h�
 
 2. Echanges d'informations.
 
-En application de l'article L. 348-3 III du CASF, le gestionnaire de l'établissement s'engage à renseigner le système d'information administré par l'OFII, appelé DN@, mis gracieusement à sa disposition. Ce système vise à offrir une connaissance précise et actualisée du dispositif national d'accueil (DNA) afin d'en permettre un meilleur pilotage. En contrepartie, l'organisme gestionnaire aura accès dans ce système d'informations à des informations consolidées relatives au fonctionnement du DNA au niveau départemental, régional et national.
+En application de l'article L. 348-3 III du CASF, le gestionnaire de l'établissement s'engage à renseigner le système d'information administré par l'OFII, appelé DN @, mis gracieusement à sa disposition. Ce système vise à offrir une connaissance précise et actualisée du dispositif national d'accueil (DNA) afin d'en permettre un meilleur pilotage. En contrepartie, l'organisme gestionnaire aura accès dans ce système d'informations à des informations consolidées relatives au fonctionnement du DNA au niveau départemental, régional et national.
 
-Le gestionnaire de l'établissement s'engage également à donner suite dans les meilleurs délais aux questionnaires qui lui seraient adressés par l'OFII ou l'Etat (administration centrale ou services déconcentrés) dans le cadre d'enquêtes ponctuelles, par exemple de type  jour donné .
+Le gestionnaire de l'établissement s'engage également à donner suite dans les meilleurs délais aux questionnaires qui lui seraient adressés par l'OFII ou l'Etat (administration centrale ou services déconcentrés) dans le cadre d'enquêtes ponctuelles, par exemple de type jour donné.
 
 Article 9
 
 Moyens en personnel
 
-Pour permettre la mise en œuvre de ses missions, l'établissement dispose de l'effectif en personnels défini selon des modalités précisées par la circulaire du ... Celui-ci est exprimé en ETP (dans une fourchette comprise entre 1 ETP pour 10 personnes accueillies et 1 ETP pour 15 personnes accueillies), dont 50 % au moins sont des travailleurs sociaux attestant des qualifications professionnelles requises.
+Pour permettre la mise en œuvre de ses missions, l'établissement dispose de l'effectif en personnels défini selon des modalités précisées par la circulaire du... Celui-ci est exprimé en ETP (dans une fourchette comprise entre 1 ETP pour 10 personnes accueillies et 1 ETP pour 15 personnes accueillies), dont 50 % au moins sont des travailleurs sociaux attestant des qualifications professionnelles requises.
 
 Conformément aux dispositions de l'article R. 314-19 du CASF, le tableau des effectifs du personnel, annexé aux propositions budgétaires, fait apparaître pour l'année considérée le nombre prévisionnel des emplois par grade ou qualification. Les suppressions, transformations et créations d'emploi font l'objet d'une présentation distincte.
 
@@ -206,7 +206,7 @@ En outre, le préfet et le gestionnaire évaluent, selon les modalités précis�
 
 Dans le rapport d'activité figurent des éléments sur la meilleure utilisation des capacités d'hébergement, sur la recherche de solutions de sortie des centres et les partenariats mis en œuvre à cette fin (recherche de logement pour les réfugiés, proposition de l'aide au retour aux personnes dont la demande d'asile a été définitivement rejetée), sur la qualité des prestations offertes aux personnes hébergées. Dans les rapports d'évaluation figurent notamment des éléments relatifs à l'impact des actions conduites au regard de leur utilité sociale ou de l'intérêt général.
 
-La fluidité de la gestion de l'établissement est un élément essentiel (mais non exclusif) de cette évaluation : le suivi et le signalement des places vacantes à l'OFII et la gestion des sorties dans le respect des dispositions de l'article R. 348-3 du CASF. A cet égard, les indicateurs de pilotage doivent tendre vers les taux cibles définis par une circulaire du secrétaire général à l'immigration et à l'intégration.
+La fluidité de la gestion de l'établissement est un élément essentiel (mais non exclusif) de cette évaluation : le suivi et le signalement des places vacantes à l'OFII et la gestion des sorties dans le respect des dispositions de l'article R. 348-3 du CASF. A cet égard, les indicateurs de pilotage doivent tendre vers les taux cibles définis par une circulaire du          directeur général des étrangers en France.
 
 Conformément aux dispositions prévues par l'article L. 313-9 du CASF, l'habilitation à recevoir des bénéficiaires de l'aide sociale peut être retirée pour des motifs fondés sur :
 
@@ -226,7 +226,7 @@ Article 13
 
 Durée et validité de la convention
 
-La présente convention est conclue pour une durée de cinq ans à compter de sa signature. Elle pourra être modifiée, durant cette période, par avenant conclu par accord entre les deux parties en cas notamment d'évolution substantielle des missions définies à l'article 1er et/ou des actions énumérées à l'article 7 de la présente convention.
+La présente convention est conclue pour une durée de cinq ans à compter de sa signature. Elle pourra être modifiée, durant cette période, par avenant conclu par accord entre les deux parties en cas notamment d'évolution substantielle des missions définies à l'article 1er et/ ou des actions énumérées à l'article 7 de la présente convention.
 
 Elle pourra, avant ce terme, être dénoncée par le gestionnaire du centre sous réserve d'un préavis de six mois notifié par lettre recommandée avec accusé de réception ou par l'Etat dans le cadre des dispositions de l'article L. 313-9 du CASF.
 

@@ -4,4 +4,4 @@ A Paris, le médecin agréé ou le médecin praticien hospitalier visé à l'art
 
 Par ailleurs, dès lors que l'intéressé porterait à sa connaissance des circonstances humanitaires exceptionnelles susceptibles de fonder une décision d'admission au séjour, le préfet de police saisit pour avis le directeur général de l'agence régionale de santé d'Ile-de-France, qui lui communique son avis motivé dans un délai d'un mois.
 
-Le médecin désigné par le préfet de police transmet chaque année, sous couvert du préfet de police, le bilan de cette activité au secrétariat général à l'immigration et à l'intégration du ministère chargé de l'immigration, qui l'adresse à la direction générale de la santé pour l'intégrer à la synthèse prévue à l'article 5.
+Le médecin désigné par le préfet de police transmet chaque année, sous couvert du préfet de police, le bilan de cette activité à          la direction générale des étrangers en France du ministère chargé de l'immigration, qui l'adresse à la direction générale de la santé pour l'intégrer à la synthèse prévue à l'article 5.

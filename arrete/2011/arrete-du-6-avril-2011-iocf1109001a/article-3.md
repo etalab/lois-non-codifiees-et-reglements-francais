@@ -12,13 +12,13 @@ a) En leur qualité de représentants des responsables de programme budgétaires
 
 ― un représentant du directeur général de la gendarmerie nationale ;
 
-― un représentant du    directeur général de la sécurité civile et de la gestion des crises ;
+― un représentant du directeur général de la sécurité civile et de la gestion des crises ;
 
 ― un représentant du délégué général à l'outre-mer ;
 
 ― un représentant du directeur général des collectivités locales ;
 
-― un représentant du secrétaire général à l'immigration et à l'intégration.
+― un représentant du          directeur général des étrangers en France.
 
 b) En leur qualité de principaux représentants du pouvoir adjudicateur :
 
@@ -26,7 +26,7 @@ b) En leur qualité de principaux représentants du pouvoir adjudicateur :
 
 ― un représentant du directeur général de la gendarmerie nationale ;
 
-― un représentant du    directeur général de la sécurité civile et de la gestion des crises ;
+― un représentant du directeur général de la sécurité civile et de la gestion des crises ;
 
 ― un représentant du directeur de la modernisation et de l'action territoriale ;
 

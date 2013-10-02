@@ -1,3 +1,0 @@
-# Article 9
-
-Le service des affaires internationales et du codéveloppement suit l'ensemble des affaires internationales intéressant le ministère. Il élabore les projets d'accords de gestion concertée des flux migratoires et de codéveloppement, participe à leur négociation et assure le suivi de leur application. Il élabore et propose les orientations générales de la politique de codéveloppement et s'assure de leur mise en oeuvre. Il participe, en liaison avec les services ministériels concernés, à la définition et à la mise en oeuvre des autres politiques de coopération et d'aide au développement qui concourent au contrôle des migrations.

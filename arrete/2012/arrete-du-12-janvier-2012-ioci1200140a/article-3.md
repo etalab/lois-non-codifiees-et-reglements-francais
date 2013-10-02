@@ -10,7 +10,7 @@ Sont, en outre, membres du comité :
 
 ― le secrétaire général du ministère ;
 
-― le secrétaire général à l'immigration et à l'intégration ;
+― le          directeur général des étrangers en France ;
 
 ― le chef de l'inspection générale de la police nationale ;
 

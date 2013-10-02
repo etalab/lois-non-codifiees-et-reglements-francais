@@ -38,6 +38,6 @@ c) Un représentant des communes et intercommunalités, désigné par l'Associat
 
 ― le directeur général de l'Institut national de la statistique et des études économiques ou son représentant ;
 
-― le secrétaire général à l'immigration et à l'intégration ou son représentant ;
+― le          directeur général des étrangers en France ou son représentant ;
 
 ― le directeur de l'Institut national des hautes études de la sécurité et de la justice ou son représentant.
