@@ -1,11 +1,87 @@
 # Article 333-1.10
 
-Spécifications des radeaux de la classe V-PRO
+1. Les radeaux de sauvetage gonflables sont soumis aux essais suivants :
 
-1. Le fond du radeau doit être muni d'un vide-vite automatique ne nécessitant pas d'intervention manuelle pour son ouverture ou sa fermeture.
+1.1. Essais de lancement et de gonflement dans les conditions ambiantes.
 
-2. Le vide-vite doit permettre d'évacuer l'eau embarquée dans un radeau vide d'occupants sans accumulation sensible d'eau dans le radeau de sauvetage. Il doit assurer sa fonction immédiatement lors du gonflement du radeau de sauvetage.
+Chaque prototype d'appareil soumis à l'approbation, équipé de l'armement réglementaire complet, est soumis pour chaque type d'emballage à au moins quatre lancements dont deux avec essais de gonflement automatique dans les conditions ci-après :
 
-3. Une lampe électrique d'une puissance minimale de 0,25 W ayant une intensité de 0,20 candela doit être fixée à l'extérieur du radeau, en partie supérieure du volume de flottabilité. Cette lampe doit fonctionner automatiquement dès que le radeau est à l'eau.
+Les essais sont effectués avec le même appareil : celui-ci sera replié après chaque essai de gonflement automatique, dans son conditionnement de stockage.
 
-4. La drisse de déclenchement du gonflement du radeau doit avoir une longueur de 10 mètres.
+Le radeau, après mise en service de la bouteille, doit être développé et utilisable en moins de deux minutes.
+
+Les essais de gonflement ne doivent donner lieu à aucune intervention des opérateurs autre que le jet à l'eau et la tension sur le câble.
+
+1.1.1. En complément, les radeaux de la classe V-PRO sont soumis à l'essai de flottabilité prévu au paragraphe 5.13 de la résolution MSC. 81 (70).
+
+1.1.2. Cet essai sera conduit selon la procédure suivante :
+
+- attacher le radeau sur un support et suspendre l'ensemble à un peson ;
+
+- mesurer le poids de l'ensemble à une profondeur de 4 mètres sous la surface de l'eau, après évacuation complète de l'air du conteneur ;
+
+- mesurer le poids du support seul à la même profondeur ;
+
+- calculer la différence de poids et en déduire la flottabilité du radeau.
+
+1.1.3. La valeur résultant du test doit être supérieure à deux fois la valeur nécessaire à la percussion de la bouteille de gonflement par tension sur la drisse.
+
+1.1.4. La force nécessaire pour déclencher le gonflement du radeau en tirant sur la drisse ne doit pas être supérieure à 150 N.
+
+1.1.5. L'essai de flottabilité doit être attesté par une société de classification.
+
+1.2. Essais de gonflement en températures.
+
+Un essai de gonflement pour chaque type d'emballage sera effectué dans les conditions suivantes :
+
+- le radeau doit séjourner au moins vingt-quatre heures en chambre froide par température de - 15° C ;
+
+- après mise en service de la bouteille, il doit en chambre froide être développé et utilisable en moins de cinq minutes ;
+
+- un essai de gonflement après un séjour de cinq heures en étuve à + 65° C est effectué. Le radeau doit être développé et utilisable en deux minutes.
+
+1.3. Essais de retournement.
+
+Le radeau gonflé, flottant en position renversée, doit pouvoir être retourné en bonne position par une seule personne.
+
+1.4. Essais de flottabilité.
+
+Le radeau étant entièrement gonflé et ayant à bord l'armement réglementaire complet et le nombre de personnes autorisées à être transportées doit répondre aux prescriptions de l'alinéa 9 de l'article 333-2.02.
+
+La chambre vide est regonflée au moyen de la pompe à air manuelle faisant partie de l'armement.
+
+Le radeau étant entièrement gonflé et ayant à son bord l'armement réglementaire complet et le nombre de personnes autorisées à être transportées doit flotter et conserver un franc-bord suffisant lorsqu'il est entièrement rempli d'eau.
+
+1.5. Essais de stabilité.
+
+Il est vérifié que l'embarquement d'un homme est immédiatement possible après le gonflement, sans provoquer un déjaugeage excessif. Il est également vérifié le bon fonctionnement des poches à eau ou de tous autres dispositifs prévus aux articles 333-2 02 (paragraphe 2) et 333-2.02 (paragraphe 7).
+
+1.6. Essais de solidité.
+
+Le radeau sans personne à bord doit supporter sans déchirure la chute d'un homme d'une masse de 75 kg tombant d'une hauteur minimale de 2 mètres ; le bon état du double fond est contrôlé s'il y a lieu.
+
+1.7. Essais de remorquage.
+
+Le radeau ayant à son bord l'armement complet et le nombre de personnes autorisées doit pouvoir être remorqué sur une distance de 300 mètres à la vitesse de 3 nœuds sans avarie. Les poches à eau ou tout autre dispositif équivalent peuvent être neutralisés pour cet essai.
+
+1.8. Essais du dispositif permettant l'embarquement.
+
+Une personne se trouvant dans l'eau et revêtue d'une brassière de sauvetage d'un modèle approuvé doit pouvoir embarquer par ses propres moyens dans le radeau en utilisant les échelles ou autres dispositifs prévus à cet effet.
+
+1.9. Dispositifs de sécurité.
+
+Les dispositifs de sécurité tels que dispositif destiné à maintenir la pression convenable, dispositif de sécurité de l'amarre, sont vérifiés.
+
+1.10. Essai d'étanchéité.
+
+Un essai d'étanchéité aux vagues sur le radeau est effectué pour contrôler le respect de la prescription de l'alinéa 6.2 de l'article 333-2.02. Il consiste dans la projection de 15 litres d'eau d'une hauteur de 3 mètres sur chaque accès du radeau. Cette expérience est renouvelée trois fois. La bonne étanchéité au ruissellement des sacs prescrits à l'alinéa 7 du même article est contrôlée.
+
+1.11. Essai de manœuvrabilité.
+
+Le radeau ayant à son bord l'armement complet et le nombre de personnes autorisées doit pouvoir être manœuvré à la vitesse de 0,5 nœud sur une distance de 25 mètres à l'aide des pagaies.
+
+1.12. Il est procédé au contrôle du maintien en forme de l'arceau de la tente après le dégonflement du flotteur d'alimentation.
+
+De même, il est procédé au contrôle du maintien en forme du flotteur d'alimentation après dégonflement de l'arceau.
+
+2. Les radeaux de sauvetage gonflables des classes IV et V sont soumis aux essais des radeaux de sauvetage gonflables de la classe II sous réserve que, pour la classe IV, les essais de gonflement doivent être, soit automatiques, soit manuels, et que, pour la classe V, la température pour l'essai en chambre froide est de 0° C et pour l'essai de l'étuve, 65° C.

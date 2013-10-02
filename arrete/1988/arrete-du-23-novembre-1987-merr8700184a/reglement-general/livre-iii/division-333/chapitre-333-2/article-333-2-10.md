@@ -2,7 +2,7 @@
 
 Procédures de contrôle
 
-L'approbation entraîne pour le fabricant l'obligation de mise en place d'un système de gestion de la qualité tel qu'exposé à l'article 311-1.06 de la division 311 du présent règlement, et de mise à la disposition des utilisateurs d'un réseau de stations de contrôle et d'entretien agréées conformément aux dispositions des articles 333-1.17, 333-1.18 et de l'annexe 333-1.A.2.
+L'approbation entraîne pour le fabricant l'obligation de mise en place d'un système de gestion de la qualité tel qu'exposé à l'article 311-1.06 de la division 311 du présent règlement, et de mise à la disposition des utilisateurs d'un réseau de stations de contrôle et d'entretien agréées conformément aux dispositions des articles 333-1.16, 333-1.17 et de l'annexe 333-1.A.2.
 
 La surveillance de la fabrication est régie par les procédures de l'article 310-1.11 de la division 310 du présent règlement.
 

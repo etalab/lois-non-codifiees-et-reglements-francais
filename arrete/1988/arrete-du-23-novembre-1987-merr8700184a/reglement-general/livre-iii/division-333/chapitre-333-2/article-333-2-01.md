@@ -2,4 +2,4 @@
 
 Application
 
-Les radeaux de sauvetage exigés par les divisions 224 et 225 du présent règlement doivent répondre aux conditions ci-dessous d'approbation et de contrôle.
+Les radeaux de survie exigés par les divisions 224 et 225 du présent règlement doivent répondre aux conditions ci-dessous d'approbation et de contrôle.

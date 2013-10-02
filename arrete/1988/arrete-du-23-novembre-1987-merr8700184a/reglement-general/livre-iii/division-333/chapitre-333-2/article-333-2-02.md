@@ -1,8 +1,8 @@
 # Article 333-2.02
 
-Spécifications des radeaux de sauvetage gonflables de la classe II
+Spécifications des radeaux de survie gonflables de la classe II
 
-Un radeau de sauvetage gonflable de la classe II doit satisfaire aux conditions suivantes :
+Un radeau de survie gonflable de la classe II doit satisfaire aux conditions suivantes :
 
 1. Etre construit de façon telle que, lorsqu'il est jeté à la mer, sa forme et ses caractéristiques soient obtenues automatiquement par une insufflation de gaz conservé sous pression ou tout autre procédé équivalent.
 

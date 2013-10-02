@@ -1,11 +1,9 @@
-# Chapitre 333-2 : Radeaux de sauvetage des navires de plaisance.
+# Chapitre 333-2 : Radeaux de survie des navires de plaisance.
 
 - [Article 333-2.01](article-333-2-01.md)
 - [Article 333-2.02](article-333-2-02.md)
 - [Article 333-2.03](article-333-2-03.md)
 - [Article 333-2.04](article-333-2-04.md)
-- [Article 333-2.05](article-333-2-05.md)
-- [Article 333-2.06](article-333-2-06.md)
 - [Article 333-2.07](article-333-2-07.md)
 - [Article 333-2.08](article-333-2-08.md)
 - [Article 333-2.09](article-333-2-09.md)
@@ -14,3 +12,4 @@
 - [Article 333-2.12](article-333-2-12.md)
 - [Article 333-2.13](article-333-2-13.md)
 - [Article Annexe 333-2.A.1](article-annexe-333-2-a-1.md)
+- [Article Annexe 333-2.A2](article-annexe-333-2-a2.md)

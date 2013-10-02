@@ -1,8 +1,8 @@
 # Article 333-2.03
 
-Armement normal des radeaux de sauvetage de la classe II
+Armement normal des radeaux de survie de la classe II
 
-L'armement normal des radeaux de sauvetage de la classe II comporte :
+L'armement normal des radeaux de survie de la classe II comporte :
 
 1. Matériel d'armement mobile.
 

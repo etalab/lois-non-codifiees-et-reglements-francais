@@ -1,31 +1,21 @@
 # Article 333-1.18
 
-Agrément des stations de contrôle et d'entretien
+Contrôles périodiques des radeaux gonflables
 
-Partie A - Procédure d'agrément
+1. Les radeaux de sauvetage gonflables sont contrôlés tous les ans selon les dispositions de la résolution OMI A.761(18) telle qu'amendée par la résolution MSC.55(66). Une mention de ce contrôle est portée au carnet d'entretien du radeau. Ce carnet doit être conservé à bord et présenté à toute réquisition.
 
-1. La station sollicitant l'agrément adresse au ministre chargé de la mer une demande d'agrément accompagnée des pièces suivantes :
+2.1. Le carnet d'entretien doit comporter les informations suivantes :
 
-- les informations nécessaires pour identifier l'organisme demandeur (raison sociale, objet, adresse) ;
+- numéro de série ;
 
-- un descriptif de l'activité ( type de radeaux, marques...) ;
+- références d'approbation ;
 
-- une copie de l'agrément en cours de validité du ou des fabricants à effectuer des contrôles et de l'entretien sur leurs radeaux en en précisant le type ;
+- date de fabrication ;
 
-- une copie des attestations de formation des techniciens en cours de validité ;
+- date de mise en service ;
 
-- une copie du rapport de visite spéciale effectué par le centre de sécurité des navires compétent avec un avis favorable pour l'agrément.
+- poids normal de la bouteille de gaz.
 
-2. Ces stations sont soumises à des visites de renouvellement tous les deux ans selon les dispositions de la résolution OMI A.761(18) telle qu'amendée par la résolution MSC.55(66), effectuées par des agents habilités pour les visites et contrôles de sécurité des navires ou un organisme dûment habilité à cette fin par le ministre chargé de la mer. Au cours de ces visites sont vérifiées les installations, les opérations de contrôle et l'état des radeaux contrôlés. Les visites donnent lieu à l'établissement d'un rapport conforme au modèle figurant à l'annexe 333-1.A.3. Les stations adressent une demande de visite 3 mois avant l'échéance de leur agrément. Dans l'intervalle de la durée de l'agrément, les agents habilités ont la possibilité d'effectuer des visites inopinées des stations.
+2.2. Sur ce document sont consignés : la date des contrôles périodiques, les constatations faites au cours de ces contrôles, les réparations effectuées, le résultat de la pesée des bouteilles de gaz, les remplacements, les essais effectués, le nom et la qualité de la personne qui aura procédé à ces opérations et son visa.
 
-3. Les stations de contrôle et d'entretien des radeaux de sauvetage sont agréées par arrêté du ministre chargé de la mer publié au JORF.
-
-4. Les conditions d'obtention de l'agrément sont précisées dans l'annexe 333-1.A.2 de la présente division.
-
-5. L'agrément est accordé pour une durée de 2 ans. Il est renouvelé à la suite de la visite de renouvellement par les agents habilités pour les visites et contrôles de sécurité des navires ou par un organisme dûment habilité à cette fin par le ministre chargé de la mer.
-
-6. Les stations agréées ne peuvent sous-traiter tout ou partie des activités qui font l'objet de l'agrément.
-
-Partie B - Procédure de retrait de l'agrément
-
-L'agrément est retiré lorsque la station ne se conforme pas à ses obligations ou ne remplit plus les conditions qui ont permis son agrément. La décision de retrait est prise par arrêté du ministre chargé de la mer après que la station a été invitée à présenter ses observations. Elle est publiée au JORF.
+3. En ce qui concerne les radeaux révisés à l'étranger, l'armateur exige de la station de contrôle un document attestant qu'elle est approuvée par le fabricant conformément à la résolution OMI A.761(18) telle qu'amendée par la résolution MSC.55(66). A défaut, le contrôle est réalisé sous la surveillance de la société de classification du navire.
