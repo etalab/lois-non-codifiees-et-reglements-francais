@@ -1,9 +1,0 @@
-# Article 5
-
-I. - Les fonctionnaires appartenant au corps des attachés de la Caisse nationale de crédit agricole détachés dans le corps des attachés d'administration centrale du ministère de l'économie, des finances et de l'industrie sont intégrés dans le corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie, en prenant en compte leur situation dans leur corps de détachement. Ils sont classés dans ce dernier corps en prenant en compte leur situation dans le corps conformément aux dispositions du tableau de correspondance figurant à l'article 4.
-
-II. - Les fonctionnaires appartenant au corps des attachés de la Caisse nationale de crédit agricole et affectés à la date de publication du présent décret dans les services déconcentrés du ministère de l'économie, des finances et de l'industrie ou dans les services relevant d'un autre ministère demeurent affectés dans les mêmes conditions dans ces mêmes services.
-
-III. - Les fonctionnaires appartenant à d'autres corps que celui mentionné au I et détachés dans le corps des attachés d'administration centrale du ministère de l'économie, des finances et de l'industrie sont placés pour la durée de leur détachement restant à courir en position de détachement dans le corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie créé par le présent décret. Ils sont classés dans ce dernier corps en prenant en compte leur situation dans le corps dans lequel ils étaient détachés et conformément aux dispositions du tableau de correspondance figurant à l'article 4.
-
-IV. - Les services accomplis en position de détachement dans le corps des attachés d'administration centrale du ministère de l'économie, des finances et de l'industrie sont assimilés à des services accomplis en détachement dans le corps et les grades créés par le présent décret.

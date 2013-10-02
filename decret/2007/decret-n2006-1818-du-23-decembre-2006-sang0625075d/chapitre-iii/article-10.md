@@ -1,3 +1,0 @@
-# Article 10
-
-Bénéficient des dispositions de l'article 29 du décret du 26 septembre 2005 susvisé, en vue d'une promotion par la voie de l'examen professionnel, les anciens attachés d'administration centrale des ministères chargés des affaires sociales qui remplissaient, dans leur précédent corps, les conditions fixées à l'article 22 du décret n° 95-888 du 7 août 1995 modifié fixant les dispositions statutaires communes applicables aux attachés d'administration centrale ou qui auraient rempli ces conditions au cours de la période de deux ans suivant la date de leur intégration dans le corps des attachés d'administration des affaires sociales.

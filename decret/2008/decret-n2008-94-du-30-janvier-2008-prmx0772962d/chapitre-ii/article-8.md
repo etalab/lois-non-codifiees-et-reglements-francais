@@ -1,9 +1,0 @@
-# Article 8
-
-Les fonctionnaires appartenant à un corps de catégorie A dont l'indice brut terminal est au plus égal à l'indice brut 1015, détachés à la date de création du corps des attachés d'administration des juridictions financières, pour exercer les fonctions définies à l'article 2 du présent décret, auprès de la Cour des comptes, d'une chambre régionale ou territoriale des comptes ou des institutions associées à la Cour des comptes prévues au livre III du code des juridictions financières, sont placés pour la durée de leur détachement restant à courir, en position de détachement dans le corps des attachés d'administration des juridictions financières créé par le présent décret.
-
-Ils sont classés à équivalence de grade par rapport au grade détenu dans leur corps ou cadre d'emplois d'origine et dans un échelon comportant un indice égal ou immédiatement supérieur à celui qu'ils détenaient dans leur précédente situation. Ils conservent l'ancienneté d'échelon acquise dans leur situation antérieure dans les conditions fixées aux deuxième et troisième alinéas de l'article 4 du décret du 23 décembre 2006 susvisé.
-
-Toutefois, ceux qui détenaient, dans leur précédente situation, un indice supérieur à l'indice terminal du grade d'attaché d'administration dans lequel ils sont détachés sont classés à l'échelon terminal de ce grade et conservent à titre personnel l'indice détenu antérieurement jusqu'à leur classement à un indice au moins égal dans le grade d'attaché principal.
-
-Les fonctionnaires qui détiennent un indice brut supérieur à l'indice brut terminal du grade d'attaché principal sont classés à l'échelon terminal du grade d'attaché principal d'administration et conservent, à titre personnel, le bénéfice de l'indice brut précité dans le cadre de leur accueil en détachement dans le corps des attachés d'administration des juridictions financières.

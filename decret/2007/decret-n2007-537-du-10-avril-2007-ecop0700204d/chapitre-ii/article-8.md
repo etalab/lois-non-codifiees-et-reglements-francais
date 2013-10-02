@@ -1,7 +1,0 @@
-# Article 8
-
-Jusqu'à l'installation de la commission administrative paritaire du corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie créé par le présent décret, qui interviendra dans un délai d'un an à compter de sa date d'entrée en vigueur ou dans les délais fixés par les dispositions du décret n° 82-451 du 28 mai 1982 susvisé, les membres des commissions administratives paritaires compétentes pour le corps des attachés d'administration centrale du ministère de l'économie, des finances et de l'industrie et pour le corps des attachés de la Caisse nationale de crédit agricole sont maintenus en fonction et siègent en formation commune :
-
-1° Les représentants des grades d'attaché du corps des attachés d'administration centrale du ministère de l'économie, des finances et de l'industrie et du corps des attachés de la Caisse nationale de crédit agricole représentent le grade d'attaché du corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie créé par le présent décret ;
-
-2° Les représentants des grades d'attaché principal de 1re et de 2e classe du corps des attachés d'administration centrale du ministère de l'économie, des finances et de l'industrie et du corps des attachés de la Caisse nationale de crédit agricole représentent le grade d'attaché principal du corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie créé par le présent décret.

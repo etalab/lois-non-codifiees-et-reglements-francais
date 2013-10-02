@@ -1,3 +1,0 @@
-# Article 12
-
-En vue d'une promotion par la voie de l'examen professionnel prévu à l'article 23 du décret du 26 septembre 2005 susvisé, peuvent bénéficier des dispositions de l'article 29 du même décret les membres de l'ancien corps des attachés d'administration centrale du ministère de l'éducation nationale qui remplissaient dans ce corps les conditions fixées à l'article 22 du décret n° 95-988 du 7 août 1995 fixant les dispositions statutaires communes aux attachés d'administration centrale, ou qui auraient rempli ces conditions au cours de la période de deux ans suivant la date d'entrée en vigueur du présent décret.

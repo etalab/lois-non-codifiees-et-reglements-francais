@@ -1,0 +1,9 @@
+# Article 25
+
+Les attachés principaux et les directeurs de service    nommés au grade d'attaché d'administration hors classe sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+
+Dans la limite de l'ancienneté exigée à l'article 18 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancien grade.
+
+Les attachés principaux et les directeurs de service    nommés attachés d'administration hors classe alors qu'ils ont atteint le dernier échelon de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'un avancement à ce dernier échelon.
+
+Par dérogation aux dispositions prévues au premier alinéa, les attachés principaux et les directeurs de service    qui ont été détachés dans l'un des emplois mentionnés au 1° de l'article 24 au cours des deux années précédant celle au titre de laquelle est établi le tableau d'avancement de grade sont classés, sous réserve que ce classement leur soit plus favorable, selon les modalités prévues aux deuxième et troisième alinéas du présent article, en tenant compte de l'échelon et de l'ancienneté d'échelon qu'ils ont ou avaient atteints dans cet emploi. Les agents classés en application du présent alinéa à un échelon comportant un indice inférieur à celui perçu dans cet emploi conservent à titre personnel le bénéfice de l'indice antérieur sans qu'il puisse toutefois dépasser celui afférent à l'échelon spécial d'attaché d'administration hors classe.
