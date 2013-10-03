@@ -783,3 +783,5 @@
 - [Décret n°2013-572 du 1er juillet 2013 (AFSR1311336D)](decret-n2013-572-du-1er-juillet-2013-afsr1311336d)
 - [Décret n°2013-703 du 1er août 2013 (EFIE1311049D)](decret-n2013-703-du-1er-aout-2013-efie1311049d)
 - [Décret n°2013-704 du 1er août 2013 (EFIE1311047D)](decret-n2013-704-du-1er-aout-2013-efie1311047d)
+- [Décret n°2013-879 du 1er octobre 2013 (ETLX1317290D)](decret-n2013-879-du-1er-octobre-2013-etlx1317290d)
+- [Décret n°2013-880 du 1er octobre 2013 (ETSD1324093D)](decret-n2013-880-du-1er-octobre-2013-etsd1324093d)
