@@ -1,6 +1,6 @@
 # Article 1
 
-A la date d'effet du décret du 24 août 2000 susvisé, les échelonnements indiciaires applicables aux personnels techniques et administratifs de l'Office national de l'eau et des milieux aquatiques sont fixés conformément aux tableaux suivants :
+Les échelonnements indiciaires applicables aux personnels techniques et administratifs de l'Office national de l'eau et des milieux aquatiques sont fixés conformément aux tableaux suivants :
 
 Groupe 1
 
@@ -676,7 +676,7 @@ Groupe 5
 <p align="center">3e</p>
 </td>
 <td width="188">
-<p align="center">449</p>
+<p align="center">479</p>
 </td>
 </tr>
 <tr>
@@ -684,7 +684,7 @@ Groupe 5
 <p align="center">2e</p>
 </td>
 <td width="188">
-<p align="center">427</p>
+<p align="center">446</p>
 </td>
 </tr>
 <tr>
@@ -692,7 +692,7 @@ Groupe 5
 <p align="center">1er</p>
 </td>
 <td width="188">
-<p align="center">396</p>
+<p align="center">424</p>
 </td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ Groupe 5
 <p align="center">11e</p>
 </td>
 <td width="188">
-<p align="center">427</p>
+<p align="center">446</p>
 </td>
 </tr>
 <tr>
@@ -711,7 +711,7 @@ Groupe 5
 <p align="center">10e</p>
 </td>
 <td width="188">
-<p align="center">396</p>
+<p align="center">424</p>
 </td>
 </tr>
 <tr>
@@ -719,7 +719,7 @@ Groupe 5
 <p align="center">9e</p>
 </td>
 <td width="188">
-<p align="center">379</p>
+<p align="center">398</p>
 </td>
 </tr>
 <tr>
@@ -727,7 +727,98 @@ Groupe 5
 <p align="center">8e</p>
 </td>
 <td width="188">
-<p align="center">363</p>
+<p align="center">380</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">7e</p>
+</td>
+<td width="188">
+<p align="center">364</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">6e</p>
+</td>
+<td width="188">
+<p align="center">351</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">5e</p>
+</td>
+<td width="188">
+<p align="center">336</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">4e</p>
+</td>
+<td width="188">
+<p align="center">322</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">3e</p>
+</td>
+<td width="188">
+<p align="center">307</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">2e</p>
+</td>
+<td width="188">
+<p align="center">302</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">1er</p>
+</td>
+<td width="188">
+<p align="center">299</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" width="189">
+<p align="center">2e classe</p>
+</td>
+<td width="191">
+<p align="center">11e</p>
+</td>
+<td width="188">
+<p align="center">413</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">10e</p>
+</td>
+<td width="188">
+<p align="center">389</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">9e</p>
+</td>
+<td width="188">
+<p align="center">374</p>
+</td>
+</tr>
+<tr>
+<td width="191">
+<p align="center">8e</p>
+</td>
+<td width="188">
+<p align="center">360</p>
 </td>
 </tr>
 <tr>
@@ -743,106 +834,15 @@ Groupe 5
 <p align="center">6e</p>
 </td>
 <td width="188">
-<p align="center">334</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">5e</p>
-</td>
-<td width="188">
-<p align="center">321</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">4e</p>
-</td>
-<td width="188">
-<p align="center">306</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">3e</p>
-</td>
-<td width="188">
-<p align="center">291</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">2e</p>
-</td>
-<td width="188">
-<p align="center">274</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">1er</p>
-</td>
-<td width="188">
-<p align="center">267</p>
-</td>
-</tr>
-<tr>
-<td rowspan="11" width="189">
-<p align="center">2e classe</p>
-</td>
-<td width="191">
-<p align="center">11e</p>
-</td>
-<td width="188">
-<p align="center">382</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">10e</p>
-</td>
-<td width="188">
-<p align="center">374</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">9e</p>
-</td>
-<td width="188">
-<p align="center">360</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">8e</p>
-</td>
-<td width="188">
-<p align="center">345</p>
-</td>
-</tr>
-<tr>
-<td width="191">
-<p align="center">7e</p>
-</td>
-<td width="188">
 <p align="center">333</p>
 </td>
 </tr>
 <tr>
 <td width="191">
-<p align="center">6e</p>
-</td>
-<td width="188">
-<p align="center">320</p>
-</td>
-</tr>
-<tr>
-<td width="191">
 <p align="center">5e</p>
 </td>
 <td width="188">
-<p align="center">307</p>
+<p align="center">323</p>
 </td>
 </tr>
 <tr>
@@ -850,7 +850,7 @@ Groupe 5
 <p align="center">4e</p>
 </td>
 <td width="188">
-<p align="center">294</p>
+<p align="center">310</p>
 </td>
 </tr>
 <tr>
@@ -858,7 +858,7 @@ Groupe 5
 <p align="center">3e</p>
 </td>
 <td width="188">
-<p align="center">277</p>
+<p align="center">303</p>
 </td>
 </tr>
 <tr>
@@ -866,7 +866,7 @@ Groupe 5
 <p align="center">2e</p>
 </td>
 <td width="188">
-<p align="center">268</p>
+<p align="center">299</p>
 </td>
 </tr>
 <tr>
@@ -874,7 +874,7 @@ Groupe 5
 <p align="center">1er</p>
 </td>
 <td width="188">
-<p align="center">259</p>
+<p align="center">298</p>
 </td>
 </tr>
 </tbody>
@@ -903,7 +903,7 @@ Groupe 6
 <p align="center">11e</p>
 </td>
 <td width="188">
-<p align="center">364</p>
+<p align="center">413</p>
 </td>
 </tr>
 <tr>
@@ -911,7 +911,7 @@ Groupe 6
 <p align="center">10e</p>
 </td>
 <td width="188">
-<p align="center">347</p>
+<p align="center">389</p>
 </td>
 </tr>
 <tr>
@@ -919,7 +919,7 @@ Groupe 6
 <p align="center">9e</p>
 </td>
 <td width="188">
-<p align="center">333</p>
+<p align="center">374</p>
 </td>
 </tr>
 <tr>
@@ -927,7 +927,7 @@ Groupe 6
 <p align="center">8e</p>
 </td>
 <td width="188">
-<p align="center">324</p>
+<p align="center">360</p>
 </td>
 </tr>
 <tr>
@@ -935,7 +935,7 @@ Groupe 6
 <p align="center">7e</p>
 </td>
 <td width="188">
-<p align="center">311</p>
+<p align="center">347</p>
 </td>
 </tr>
 <tr>
@@ -943,7 +943,7 @@ Groupe 6
 <p align="center">6e</p>
 </td>
 <td width="188">
-<p align="center">301</p>
+<p align="center">333</p>
 </td>
 </tr>
 <tr>
@@ -951,7 +951,7 @@ Groupe 6
 <p align="center">5e</p>
 </td>
 <td width="188">
-<p align="center">290</p>
+<p align="center">323</p>
 </td>
 </tr>
 <tr>
@@ -959,7 +959,7 @@ Groupe 6
 <p align="center">4e</p>
 </td>
 <td width="188">
-<p align="center">274</p>
+<p align="center">310</p>
 </td>
 </tr>
 <tr>
@@ -967,7 +967,7 @@ Groupe 6
 <p align="center">3e</p>
 </td>
 <td width="188">
-<p align="center">263</p>
+<p align="center">303</p>
 </td>
 </tr>
 <tr>
@@ -975,7 +975,7 @@ Groupe 6
 <p align="center">2e</p>
 </td>
 <td width="188">
-<p align="center">257</p>
+<p align="center">299</p>
 </td>
 </tr>
 <tr>
@@ -983,7 +983,7 @@ Groupe 6
 <p align="center">1er</p>
 </td>
 <td width="188">
-<p align="center">251</p>
+<p align="center">298</p>
 </td>
 </tr>
 <tr>
@@ -994,7 +994,7 @@ Groupe 6
 <p align="center">11e</p>
 </td>
 <td width="188">
-<p align="center">343</p>
+<p align="center">388</p>
 </td>
 </tr>
 <tr>
@@ -1002,7 +1002,7 @@ Groupe 6
 <p align="center">10e</p>
 </td>
 <td width="188">
-<p align="center">321</p>
+<p align="center">364</p>
 </td>
 </tr>
 <tr>
@@ -1010,7 +1010,7 @@ Groupe 6
 <p align="center">9e</p>
 </td>
 <td width="188">
-<p align="center">314</p>
+<p align="center">348</p>
 </td>
 </tr>
 <tr>
@@ -1018,7 +1018,7 @@ Groupe 6
 <p align="center">8e</p>
 </td>
 <td width="188">
-<p align="center">303</p>
+<p align="center">337</p>
 </td>
 </tr>
 <tr>
@@ -1026,7 +1026,7 @@ Groupe 6
 <p align="center">7e</p>
 </td>
 <td width="188">
-<p align="center">294</p>
+<p align="center">328</p>
 </td>
 </tr>
 <tr>
@@ -1034,7 +1034,7 @@ Groupe 6
 <p align="center">6e</p>
 </td>
 <td width="188">
-<p align="center">289</p>
+<p align="center">318</p>
 </td>
 </tr>
 <tr>
@@ -1042,7 +1042,7 @@ Groupe 6
 <p align="center">5e</p>
 </td>
 <td width="188">
-<p align="center">277</p>
+<p align="center">310</p>
 </td>
 </tr>
 <tr>
@@ -1050,7 +1050,7 @@ Groupe 6
 <p align="center">4e</p>
 </td>
 <td width="188">
-<p align="center">267</p>
+<p align="center">303</p>
 </td>
 </tr>
 <tr>
@@ -1058,7 +1058,7 @@ Groupe 6
 <p align="center">3e</p>
 </td>
 <td width="188">
-<p align="center">260</p>
+<p align="center">299</p>
 </td>
 </tr>
 <tr>
@@ -1066,7 +1066,7 @@ Groupe 6
 <p align="center">2e</p>
 </td>
 <td width="188">
-<p align="center">253</p>
+<p align="center">298</p>
 </td>
 </tr>
 <tr>
@@ -1074,7 +1074,7 @@ Groupe 6
 <p align="center">1er</p>
 </td>
 <td width="188">
-<p align="center">245</p>
+<p align="center">297</p>
 </td>
 </tr>
 </tbody>
