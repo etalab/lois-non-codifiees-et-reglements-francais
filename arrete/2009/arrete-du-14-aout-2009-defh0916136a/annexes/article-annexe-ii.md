@@ -853,7 +853,7 @@ Composition du conseil de la fonction militaire de la marine
 
 c) Armée de l'air
 
-Composition du conseil de la fonction militaire de l'armée de l'air
+Tableau 1. - Composition provisoire du conseil de la fonction militaire de l'armée de l'air de 2014 à 2016
 
 <table>
 <tbody>
@@ -862,52 +862,46 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
 <td rowspan="3">
-<p align="center">NOMBRE<br/>total<br/>de titulaires </p>
+<p align="center">
+<br/>NOMBRE <br/>total de <br/>titulaires </p>
 </td>
 <td colspan="4">
-<p align="center">RÉPARTITION PAR GROUPE </p>
+<p align="center">
+<br/>RÉPARTITION PAR GROUPE </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Groupe A </p>
+<p align="center">
+<br/>Groupe A </p>
 </td>
 <td colspan="2">
-<p align="center">Groupe B </p>
+<p align="center">
+<br/>Groupe B </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Titulaires </p>
+<p align="center">
+<br/>Titulaires </p>
 </td>
 <td>
-<p align="center">Suppléants </p>
+<p align="center">
+<br/>Suppléants </p>
 </td>
 <td>
-<p align="center">Titulaires </p>
+<p align="center">
+<br/>Titulaires </p>
 </td>
 <td>
-<p align="center">Suppléants </p>
+<p align="center">
+<br/>Suppléants </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">I. - Officiers supérieurs </p>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
+<td colspan="6">
+<p align="center">
+<br/>I. - Officiers supérieurs</p>
 </td>
 </tr>
 <tr>
@@ -915,19 +909,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>1.1. Officiers de l'air (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
@@ -935,19 +934,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>1.2. Officiers mécaniciens de l'air ou des bases de l'air (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
@@ -955,19 +959,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>1.3. Officiers tous corps, sauf de l'air (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
@@ -975,39 +984,30 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>1.4. Officiers tous corps (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">II. - Officiers subalternes </p>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
+<td colspan="6">
+<p align="center">
+<br/>II. - Officiers subalternes</p>
 </td>
 </tr>
 <tr>
@@ -1015,19 +1015,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.1. Officiers de l'air de carrière (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
@@ -1035,19 +1040,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.2. Officiers de l'air sous contrat (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
@@ -1055,19 +1065,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.3. Officiers mécaniciens de l'air de carrière (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
@@ -1075,19 +1090,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.4. Officiers mécaniciens de l'air sous contrat (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
@@ -1095,19 +1115,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.5. Officiers des bases de l'air de carrière (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
@@ -1115,19 +1140,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.6. Officiers des bases de l'air sous contrat (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
@@ -1135,19 +1165,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.7. Autres corps de carrière (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
@@ -1155,39 +1190,30 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>2.8. Tous corps sous contrat (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne </p>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
+<td colspan="6">
+<p align="center">
+<br/>III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne <br/>ou au sein d'une base de défense support de base aérienne</p>
 </td>
 </tr>
 <tr>
@@ -1195,19 +1221,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>3.1. Sous-officiers supérieurs de carrière du personnel navigant (*) </p>
 </td>
 <td>
-<p align="center">2 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
@@ -1215,19 +1246,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>3.2. Sous-officiers supérieurs de carrière du personnel non navigant (**) </p>
 </td>
 <td>
-<p align="center">13 </p>
+<p align="center">
+<br/>14 </p>
 </td>
 <td>
-<p align="center">6 </p>
+<p align="center">
+<br/>6 </p>
 </td>
 <td>
-<p align="center">18 </p>
+<p align="center">
+<br/>18 </p>
 </td>
 <td>
-<p align="center">7 </p>
+<p align="center">
+<br/>8 </p>
 </td>
 <td>
-<p align="center">21 </p>
+<p align="center">
+<br/>24 </p>
 </td>
 </tr>
 <tr>
@@ -1235,19 +1271,24 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>3.3. Sous-officiers subalternes de carrière (**) </p>
 </td>
 <td>
-<p align="center">5 </p>
+<p align="center">
+<br/>5 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">9 </p>
+<p align="center">
+<br/>9 </p>
 </td>
 <td>
-<p align="center">2 </p>
+<p align="center">
+<br/>2 </p>
 </td>
 <td>
-<p align="center">6 </p>
+<p align="center">
+<br/>6 </p>
 </td>
 </tr>
 <tr>
@@ -1255,59 +1296,55 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>3.4. Sous-officiers subalternes sous contrat (**) </p>
 </td>
 <td>
-<p align="center">9 </p>
+<p align="center">
+<br/>9 </p>
 </td>
 <td>
-<p align="center">4 </p>
+<p align="center">
+<br/>4 </p>
 </td>
 <td>
-<p align="center">12 </p>
+<p align="center">
+<br/>12 </p>
 </td>
 <td>
-<p align="center">5 </p>
+<p align="center">
+<br/>5 </p>
 </td>
 <td>
-<p align="center">15 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3.5. Militaires du rang engagés (**) </p>
-</td>
-<td>
-<p align="center">9 </p>
-</td>
-<td>
-<p align="center">5 </p>
-</td>
-<td>
-<p align="center">15 </p>
-</td>
-<td>
-<p align="center">4 </p>
-</td>
-<td>
-<p align="center">12 </p>
+<p align="center">
+<br/>15 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne) </p>
+<p>3.5. Militaires du rang (**) </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>9 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>5 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>15 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>4 </p>
 </td>
 <td>
-<br/>
+<p align="center">
+<br/>12 </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p align="center">
+<br/>IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées, <br/>directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne)</p>
 </td>
 </tr>
 <tr>
@@ -1315,79 +1352,74 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>4.1. Sous-officiers supérieurs (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>2 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4.2. Sous-officiers subalternes de carrière (*) </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">0 </p>
-</td>
-<td>
-<p align="center">0 </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>4.3. Sous-officiers sous contrat (*) </p>
+<p>4.2. Sous-officiers subalternes sous contrat (*) (***) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>4.4. Militaires du rang engagés (*) </p>
+<p>4.3. Militaires du rang (*) </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">0 </p>
+<p align="center">
+<br/>0 </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 <td>
-<p align="center">3 </p>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
@@ -1395,36 +1427,656 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <p>Total </p>
 </td>
 <td>
-<p align="center">54 </p>
+<p align="center">
+<br/>54 </p>
 </td>
 <td>
-<p align="center">27 </p>
+<p align="center">
+<br/>27 </p>
 </td>
 <td>
-<p align="center">81 </p>
+<p align="center">
+<br/>81 </p>
 </td>
 <td>
-<p align="center">27 </p>
+<p align="center">
+<br/>27 </p>
 </td>
 <td>
-<p align="center">81 </p>
+<p align="center">
+<br/>81 </p>
 </td>
 </tr>
 <tr>
 <td colspan="6">
-<p>Application du critère géographique :</p>
-<p>(*) Tirage au sort au niveau national (sans application d'un critère géographique) :</p>
-<p>- officiers et sous-officiers du personnel navigant ;</p>
-<p>- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne.</p>
-<p>(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) :</p>
-<p>- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne.</p>
-<p>L'ensemble des suppléants des corps et catégories de personnel constitue un "pool" qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :</p>
-<p>- critère géographique ou spécialité ;</p>
-<p>- ordre du tirage au sort ;</p>
-<p>- rang de suppléance ;</p>
-<p>- groupe de grade ;</p>
-<p>- lien juridique avec le service.</p>
+<p>Application du critère géographique : </p>
+<p>(*) Tirage au sort au niveau national (sans application d'un critère géographique) : </p>
+<p>- officiers et sous-officiers du personnel navigant ; </p>
+<p>- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne. </p>
+<p>(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) : sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense support de base aérienne. </p>
+<p>(***) La catégorie des sous-officiers de carrière a été supprimée, sans candidat dans le groupe A. </p>
+<p>L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant : </p>
+<p>- critère géographique ou spécialité ; </p>
+<p>- ordre du tirage au sort ; </p>
+<p>- rang de suppléance ; </p>
+<p>- groupe de grade ; </p>
+<p>- lien juridique avec le service. </p>
 <p>Toutefois, les grandes catégories, officiers, sous-officiers, militaires du rang, seront strictement respectées. </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tableau 2. - Composition définitive du conseil de la fonction militaire de l'armée de l'air à compter de 2016
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
+</td>
+<td rowspan="3">
+<p align="center">
+<br/>NOMBRE <br/>total de <br/>titulaires </p>
+</td>
+<td colspan="4">
+<p align="center">
+<br/>RÉPARTITION PAR GROUPE </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">
+<br/>Groupe A </p>
+</td>
+<td colspan="2">
+<p align="center">
+<br/>Groupe B </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Titulaires </p>
+</td>
+<td>
+<p align="center">
+<br/>Suppléants </p>
+</td>
+<td>
+<p align="center">
+<br/>Titulaires </p>
+</td>
+<td>
+<p align="center">
+<br/>Suppléants </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p align="center">
+<br/>I. - Officiers supérieurs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1. Officiers de l'air (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2. Officiers mécaniciens de l'air ou des bases de l'air (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3. Officiers tous corps, sauf de l'air (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4. Officiers tous corps (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p align="center">
+<br/>II. - Officiers subalternes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1. Officiers de l'air de carrière (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2. Officiers de l'air sous contrat (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3. Officiers mécaniciens de l'air de carrière (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4. Officiers mécaniciens de l'air sous contrat (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5. Officiers des bases de l'air de carrière (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6. Officiers des bases de l'air sous contrat (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.7. Autres corps de carrière (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.8. Tous corps sous contrat (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p align="center">
+<br/>III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne <br/>ou au sein d'une base de défense support de base aérienne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1. Sous-officiers supérieurs de carrière du personnel navigant (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2. Sous-officiers supérieurs de carrière du personnel non navigant (**) </p>
+</td>
+<td>
+<p align="center">
+<br/>14 </p>
+</td>
+<td>
+<p align="center">
+<br/>6 </p>
+</td>
+<td>
+<p align="center">
+<br/>18 </p>
+</td>
+<td>
+<p align="center">
+<br/>8 </p>
+</td>
+<td>
+<p align="center">
+<br/>24 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3. Sous-officiers subalternes de carrière (**) </p>
+</td>
+<td>
+<p align="center">
+<br/>5 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>9 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 </p>
+</td>
+<td>
+<p align="center">
+<br/>6 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.4. Sous-officiers subalternes sous contrat (**) </p>
+</td>
+<td>
+<p align="center">
+<br/>9 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>12 </p>
+</td>
+<td>
+<p align="center">
+<br/>5 </p>
+</td>
+<td>
+<p align="center">
+<br/>15 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.5. Militaires du rang (**) </p>
+</td>
+<td>
+<p align="center">
+<br/>9 </p>
+</td>
+<td>
+<p align="center">
+<br/>5 </p>
+</td>
+<td>
+<p align="center">
+<br/>15 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+<td>
+<p align="center">
+<br/>12 </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p align="center">
+<br/>IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées, <br/>directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.1. Sous-officiers supérieurs (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>2 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.2. Sous-officiers subalternes (*) (***) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.3. Militaires du rang (*) </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+<td>
+<p align="center">
+<br/>1 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total </p>
+</td>
+<td>
+<p align="center">
+<br/>54 </p>
+</td>
+<td>
+<p align="center">
+<br/>27 </p>
+</td>
+<td>
+<p align="center">
+<br/>81 </p>
+</td>
+<td>
+<p align="center">
+<br/>27 </p>
+</td>
+<td>
+<p align="center">
+<br/>81 </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p>Application du critère géographique : </p>
+<p>(*) Tirage au sort au niveau national (sans application d'un critère géographique) : </p>
+<p>- officiers et sous-officiers du personnel navigant ; </p>
+<p>- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne. </p>
+<p>(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) : </p>
+<p>- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense support de base aérienne. </p>
+<p>(***) La fusion des catégories sous-officiers subalternes de carrière et sous-officiers sous contrat est effective en 2016. </p>
+<p>L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant : </p>
+<p>- critère géographique ou spécialité ; </p>
+<p>- ordre du tirage au sort ; </p>
+<p>- rang de suppléance ; </p>
+<p>- groupe de grade ; </p>
+<p>- lien juridique avec le service. </p>
+<p>Toutefois, les grandes catégories officiers, sous-officiers, militaires du rang seront strictement respectées.</p>
 </td>
 </tr>
 </tbody>
