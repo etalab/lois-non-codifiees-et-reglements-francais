@@ -3,1588 +3,1498 @@
 <table>
 <tbody>
 <tr>
-<th>SERVICE<br/>
-</th>
-<th>
-<br/>OBJET DE L'ASTREINTE <br/>
-</th>
-<th>
-<br/>NOMBRE ET TYPE D'ASTREINTES <br/>
-</th>
-</tr>
-<tr>
-<td align="center" rowspan="2">
-<br/>Direction générale <br/>
-<br/>Pôle de la communication <br/>
+<td width="184">
+<p align="center">SERVICE</p>
 </td>
-<td align="center">
-<br/>Astreinte de direction générale <br/>
+<td width="185">
+<p align="center">OBJET DE L'ASTREINTE</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine (1) <br/>
+<td width="184">
+<p align="center">NOMBRE ET TYPE D'ASTREINTES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td rowspan="2" width="184">
+<p align="center">
+<br/>Direction générale</p>
+<p align="center">
+<br/>Pôle de la communication</p>
 </td>
-<td align="center">
-<br/>1 astreinte de fin de semaine et jours fériés <br/>
+<td width="185">
+<p>Astreinte de direction générale</p>
 </td>
+<td width="184">
+<p>1 astreinte de semaine (1)</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat général <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de fin de semaine et jours fériés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Logis <br/>
+<td width="184">
+<p align="center">
+<br/>Secrétariat général</p>
 </td>
-<td align="center">
-<br/>Astreinte technique <br/>
-</td>
-<td align="center">
-<br/>1 astreinte de fin de semaine et jours fériés <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Service des systèmes d'information <br/>
-<p>et de la modernisation (SSIM) </p>
-<p>(à compter de l'entrée en vigueur de l'arrêté </p>
-<p>portant création du SSIM de la DGAC) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Logis</p>
 </td>
-<td align="center">
-<br/>
-<p>Astreinte opérationnelle et technique <br/>
-</p>
+<td width="185">
+<p>Astreinte technique</p>
 </td>
-<td align="center">
-<br/>
-<p>3 astreintes de semaine <br/>
-</p>
+<td width="184">
+<p>1 astreinte de fin de semaine et jours fériés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Centre d'exploitation, de développement <br/>
-<p>et d'études du réseau d'information de gestion </p>
-<p>(jusqu'à l'entrée en vigueur de l'arrêté </p>
-<p>portant création du SSIM de la DGAC) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Service des systèmes d'information<br/>et de la modernisation (SSIM)</p>
 </td>
-<td align="center">
-<br/>
-<p>Astreinte opérationnelle et technique <br/>
-</p>
+<td width="185">
+<p>Astreinte opérationnelle et technique</p>
 </td>
-<td align="center">
-<br/>
-<p>2 astreintes de semaine <br/>
-</p>
+<td width="184">
+<p>3 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ecole nationale de l'aviation civile <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>Ecole nationale<br/>de l'aviation civile</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction de la formation au pilotage et des vols : <br/>
-<p>bureau des opérations centralisées (site de Muret) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Direction de la formation au pilotage et des vols :</p>
+<p>bureau des opérations centralisées (site de Muret)</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle et technique <br/>
+<td width="185">
+<p>Astreinte opérationnelle et technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de fin de semaine et jours fériés <br/>
+<td width="184">
+<p>1 astreinte de fin de semaine et jours fériés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Centre de Melun <br/>
+<td width="184">
+<p align="center">
+<br/>Centre de Melun</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle et technique <br/>
+<td width="185">
+<p>Astreinte opérationnelle et technique</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bureau d'enquêtes et d'analyses <br/>
-<p>pour la sécurité de l'aviation civile <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Bureau d'enquêtes et d'analyses <br/>pour la sécurité de l'aviation civile</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents (niveau central). <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents (niveau central)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-<p>et 2 astreintes de fin de semaine. <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine et 2 astreintes de fin de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction des opérations de la direction <br/>
-<p>des services de la navigation aérienne <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Direction des opérations de la direction<br/>des services de la navigation aérienne</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon central <br/>
+<td width="184">
+<p align="center">
+<br/>Echelon central</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>CESNAC <br/>
+<td width="184">
+<p align="center">
+<br/>CESNAC</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle et technique <br/>
+<td width="185">
+<p>Astreinte opérationnelle et technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3">
-<br/>CRNA Est <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td rowspan="3" width="184">
+<p align="center">
+<br/>CRNA Est</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique <br/>
+<td width="185">
+<p>Astreinte technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique (radar) <br/>
+<td width="185">
+<p>Astreinte technique (radar)</p>
 </td>
-<td align="center">
-<br/>2 astreintes de fin de semaine 4 fois par an <br/>
+<td width="184">
+<p>2 astreintes de fin de semaine 4 fois par an</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">
-<br/>CRNA Sud-Est <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="184">
+<p align="center">
+<br/>CRNA Sud-Est</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique <br/>
+<td width="185">
+<p>Astreinte technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique (antennes avancées) <br/>
+<td width="185">
+<p>Astreinte technique (antennes avancées)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de fin de semaine et jours fériés <br/>
+<td width="184">
+<p>1 astreinte de fin de semaine et jours fériés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique de centrale énergie <br/>
+<td width="185">
+<p>Astreinte technique de centrale énergie</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">
-<br/>CRNA Sud-Ouest <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="184">
+<p align="center">
+<br/>CRNA Sud-Ouest</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique <br/>
+<td width="185">
+<p>Astreinte technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique de centrale énergie <br/>
+<td width="185">
+<p>Astreinte technique de centrale énergie</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique (radar) <br/>
+<td width="185">
+<p>Astreinte technique (radar)</p>
 </td>
-<td align="center">
-<br/>2 astreintes de fin de semaine 4 fois par an <br/>
+<td width="184">
+<p>2 astreintes de fin de semaine 4 fois par an</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">
-<br/>CRNA Ouest <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="184">
+<p align="center">
+<br/>CRNA Ouest</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique <br/>
+<td width="185">
+<p>Astreinte technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique de maintenance CAUTRA <br/>
+<td width="185">
+<p>Astreinte technique de maintenance CAUTRA</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique de centrale énergie <br/>
+<td width="185">
+<p>Astreinte technique de centrale énergie</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Région parisienne <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>SNA région parisienne</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center" rowspan="4">
-<br/>CRNA Nord <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="184">
+<p align="center">
+<br/>CRNA Nord</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique <br/>
+<td width="185">
+<p>Astreinte technique</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique de maintenance CAUTRA <br/>
+<td width="185">
+<p>Astreinte technique de maintenance CAUTRA</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Astreinte technique (radar) <br/>
+<td width="185">
+<p>Astreinte technique (radar)</p>
 </td>
-<td align="center">
-<br/>2 astreintes de fin de semaine 4 fois par an <br/>
+<td width="184">
+<p>2 astreintes de fin de semaine 4 fois par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Paris-Charles-de-Gaulle (CDM) <br/>
+<td width="184">
+<p align="center">
+<br/>Paris - Charles-de-Gaulle (CDM)</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Paris-Charles-de-Gaulle <br/>
+<td width="184">
+<p align="center">
+<br/>Paris - Charles-de-Gaulle</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle et technique <br/>
+<td width="185">
+<p>Astreinte opérationnelle et technique</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Organisme d'Orly <br/>
+<td width="184">
+<p align="center">
+<br/>Organisme d'Orly</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle et technique <br/>
+<td width="185">
+<p>Astreinte opérationnelle et technique</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Organisme d'Orly <br/>
+<td width="184">
+<p align="center">
+<br/>Organisme d'Orly</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle (aviation générale) <br/>
+<td width="185">
+<p>Astreinte opérationnelle (aviation générale)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de fin de semaine et de jours fériés <br/>
+<td width="184">
+<p>1 astreinte de fin de semaine et de jours fériés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Nord <br/>
+<td width="184">
+<p align="center">
+<br/>SNA Nord</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Athis-Mons <br/>
+<td width="184">
+<p align="center">
+<br/>Athis-Mons</p>
 </td>
-<td align="center">
-<br/>Astreinte technique pour la maintenance <br/>
-<p>Ile-de-France <br/>
-</p>
+<td width="185">
+<p>Astreinte technique pour la maintenance Ile-de-France</p>
 </td>
-<td align="center">
-<br/>2 astreintes de fin de semaine et jours fériés <br/>
+<td width="184">
+<p>2 astreintes de fin de semaine et jours fériés</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Nord-Est <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>SNA Nord-Est</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aérodrome de Bâle-Mulhouse <br/>
+<td width="184">
+<p align="center">
+<br/>Aérodrome de Bâle-Mulhouse</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Ouest <br/>
+<td width="184">
+<p align="center">
+<br/>SNA Ouest</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aérodrome de Nantes-Atlantique <br/>
+<td width="184">
+<p align="center">
+<br/>Aérodrome de Nantes-Atlantique</p>
 </td>
-<td align="center">
-<br/>Astreinte technique de maintenance <br/>
+<td width="185">
+<p>Astreinte technique de maintenance</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Centre-Est <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>SNA Centre-Est</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aérodrome de Clermont-Ferrand <br/>
+<td width="184">
+<p align="center">
+<br/>Aérodrome de Clermont-Ferrand</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Sud-Est <br/>
+<td width="184">
+<p align="center">
+<br/>SNA Sud-Est</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ajaccio <br/>
+<td width="184">
+<p align="center">
+<br/>Ajaccio</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bastia <br/>
+<td width="184">
+<p align="center">
+<br/>Bastia</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Sud <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>SNA Sud</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Sud-Ouest <br/>
+<td width="184">
+<p align="center">
+<br/>SNA Sud-Ouest</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte technique pour la centrale énergie <br/>
+<td width="185">
+<p>Astreinte technique pour la centrale énergie</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Sud-Sud-Est <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>SNA Sud - Sud-Est</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Montpellier-Méditerranée <br/>
+<td width="184">
+<p align="center">
+<br/>Montpellier-Méditerranée</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA Antilles-Guyane <br/>
+<td width="184">
+<p align="center">
+<br/>SNA Antilles-Guyane</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aérodrome de Pointe-à-Pitre-Le Raizet <br/>
+<td width="184">
+<p align="center">
+<br/>Aérodrome de Pointe-à-Pitre - Le Raizet </p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aérodrome de Cayenne-Rochambeau <br/>
+<td width="184">
+<p align="center">
+<br/>Aérodrome de Cayenne-Félix Eboué</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SNA océan Indien <br/>
+<td width="184">
+<p align="center">
+<br/>SNA océan Indien</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Siège <br/>
+<td width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction de la sécurité de l'aviation civile <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p align="center">
+<br/>Service de l'aviation civile<br/>de Saint-Pierre-et-Miquelon</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Nord <br/>
+<td rowspan="2" valign="top" width="184">
+<p align="center">
+<br/>Siège</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte technique de maintenance</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
-</td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte technique de centrale énergie</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Direction de la sécurité de l'aviation civile</p>
 </td>
-<td align="center">
-<br/>Astreinte de direction <br/>
-</td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="185"/>
+<td width="184"/>
+</tr>
+<tr>
+<td width="184">
+<p align="center">
+<br/>DSAC Nord</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Nord-Pas-de-Calais <br/>
-<p>(Lille, Calais, Le Touquet et Merville) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Picardie (Beauvais) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Ile-de-France <br/>
+<td width="184">
+<p align="center">
+<br/>Région Nord - Pas-de-Calais (Lille, Calais,</p>
+<p>Le Touquet et Merville)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Sud-Ouest <br/>
+<td width="184">
+<p align="center">
+<br/>Région Picardie (Beauvais)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Région Ile-de-France</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 26 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Bordeaux) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC Sud-Ouest</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Aquitaine (Bordeaux) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 26 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Aquitaine (Pau) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Bordeaux)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Poitou-Charentes (Poitiers) <br/>
+<td width="184">
+<p align="center">
+<br/>Région Aquitaine (Bordeaux)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Sud <br/>
+<td width="184">
+<p align="center">
+<br/>Région Aquitaine (Pau)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Région Poitou-Charentes (Poitiers)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 26 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
-</td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC Sud</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Toulouse) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 26 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Midi-Pyrénées (Toulouse) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Ouest <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Toulouse)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Région Midi-Pyrénées (Toulouse)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 26 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Brest et Rennes) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">DSAC Ouest</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Bretagne (Brest) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 26 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Pays de la Loire (Nantes) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Brest et Rennes)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Centre (Tours) <br/>
+<td width="184">
+<p align="center">
+<br/>Région Bretagne (Brest)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Basse et Haute-Normandie <br/>
-<p>(Deauville, Le Havre et Rouen) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Région Pays de la Loire (Nantes)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Nord-Est <br/>
+<td width="184">
+<p align="center">
+<br/>Région Centre (Tours)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Région Basse et Haute-Normandie (Deauville, Le Havre et Rouen)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 26 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Strasbourg) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC Nord-Est</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Bourgogne et Franche-Comté (Dijon) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
-<p>(Bourgogne et Franche-Comté) <br/>
-</p>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 26 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Alsace (Strasbourg) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Strasbourg)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine. <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Lorraine et Champagne-Ardenne <br/>
-<p>(Metz-Nancy-Lorraine) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Région Bourgogne et Franche-Comté (Dijon)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents (Bourgogne et Franche-Comté)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Centre-Est <br/>
+<td width="184">
+<p align="center">
+<br/>Région Alsace (Strasbourg)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Région Lorraine et Champagne-Ardenne<br/>(Metz-Nancy-Lorraine)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 26 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Lyon) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC Centre-Est</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Rhône-Alpes (Lyon) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 26 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Auvergne (Clermont-Ferrand) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Lyon)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Sud-Est <br/>
+<td width="184">
+<p align="center">
+<br/>Région Rhône-Alpes (Lyon)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Région Auvergne</p>
+<p>(Clermont-Ferrand)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>2 astreintes de semaine dans la limite, <br/>
-<p>pour chaque astreinte, de 36 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Aix-en-Provence) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC Sud-Est</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Région PACA (Marseille-Provence) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>2 astreintes de semaine dans la limite, pour chaque astreinte, de 36 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région PACA (Nice-Côte d'Azur) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Aix-en-Provence)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Région Languedoc-Roussillon <br/>
-<p>(Montpellier-Méditerranée) <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Région PACA</p>
+<p>(Marseille-Provence)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Collectivité territoriale Corse (Corse) <br/>
+<td width="184">
+<p align="center">
+<br/>Région PACA<br/>(Nice-Côte d'Azur)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC Antilles-Guyane <br/>
+<td width="184">
+<p align="center">
+<br/>Région Languedoc-Roussillon<br/>(Montpellier-Méditerranée)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Collectivité territoriale Corse (Corse)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 26 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Fort-de-France) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">DSAC Antilles-Guyane</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Martinique (Fort-de-France) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 26 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Guadeloupe (Pointe-à-Pitre) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Fort-de-France)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Guyane (Cayenne) <br/>
+<td width="184">
+<p align="center">
+<br/>Martinique (Fort-de-France)</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC océan Indien <br/>
+<td width="184">
+<p align="center">
+<br/>Guadeloupe (Pointe-à-Pitre)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC <br/>
+<td width="184">
+<p align="center">
+<br/>Guyane (Cayenne)</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 18 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Saint-Denis) <br/>
-</td>
-<td align="center">
-<br/>Astreinte de direction <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC océan Indien</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
-</td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC (Saint-Denis) <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 18 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>DSAC et SNA océan Indien <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Saint-Denis)</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte de direction</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dzaoudzi-Pamandzi <br/>
+<td width="184">
+<p align="center">
+<br/>DSAC (Saint-Denis)</p>
+</td>
+<td width="185">
+<p>Astreinte enquêtes-accidents</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+</tr>
+<tr>
+<td width="184">
+<p align="center">DSAC et SNA océan Indien</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>SEAC Polynésie française <br/>
+<td width="184">
+<p align="center">
+<br/>Dzaoudzi-Pamandzi</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>SEAC <br/>
+<td width="184">
+<p align="center">
+<br/>SEAC Polynésie française</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185"/>
+<td width="184"/>
+</tr>
+<tr>
+<td width="184">
+<p align="center">
+<br/>SEAC</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 18 semaines par an <br/>
-</p>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 18 semaines par an</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tahiti-Faaa <br/>
+<td width="184">
+<p align="center">
+<br/>Tahiti - Faaa</p>
 </td>
-<td align="center">
-<br/>Astreinte de direction (SEAC) <br/>
+<td width="185">
+<p>Astreinte de direction (SEAC)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tahiti-Faaa <br/>
+<td width="184">
+<p align="center">
+<br/>Tahiti - Faaa</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents (territoire) <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents (territoire)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tahiti-Faaa <br/>
+<td width="184">
+<p align="center">
+<br/>Tahiti - Faaa</p>
 </td>
-<td align="center">
-<br/>Astreinte technique de maintenance <br/>
+<td width="185">
+<p>Astreinte technique de maintenance</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tahiti-Faaa <br/>
+<td width="184">
+<p align="center">
+<br/>Tahiti - Faaa</p>
+</td>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+</tr>
+<tr>
+<td width="184">
+<p align="center">
+<br/>Service mixte direction de l'aviation civile<br/>en Nouvelle-Calédonie </p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Service mixte  direction de l'aviation civile <br/>
-<p>en Nouvelle-Calédonie  <br/>
-</p>
+<td width="184">
+<p align="center">
+<br/>Service mixte DAC/NC </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td width="184">
+<p>1 astreinte de semaine dans la limite de 18 semaines par an</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Service mixte  DAC/ NC  <br/>
+<td width="184">
+<p align="center">
+<br/>Nouméa</p>
 </td>
-<td align="center">
-<br/>Astreinte de contrôle technique d'exploitation <br/>
+<td width="185">
+<p>Astreinte de direction (Service mixte DAC/NC )</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine dans la limite <br/>
-<p>de 18 semaines par an <br/>
-</p>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nouméa <br/>
+<td width="184">
+<p align="center">
+<br/>Nouméa</p>
 </td>
-<td align="center">
-<br/>Astreinte de direction (service mixte  DAC/ NC ) <br/>
+<td width="185">
+<p>Astreinte enquêtes-accidents (territoire)</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nouméa <br/>
+<td width="184">
+<p align="center">
+<br/>Nouméa</p>
 </td>
-<td align="center">
-<br/>Astreinte enquêtes-accidents (territoire) <br/>
+<td width="185">
+<p>Astreinte opérationnelle</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nouméa <br/>
+<td width="184">
+<p align="center">
+<br/>Nouméa</p>
 </td>
-<td align="center">
-<br/>Astreinte opérationnelle <br/>
+<td width="185">
+<p>Astreinte technique de centrale énergie</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine</p>
+</td>
+</tr>
+<tr>
+<td width="184">
+<p align="center">SEAC des îles Wallis et Futuna</p>
 </td>
+<td width="185"/>
+<td width="184"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Nouméa <br/>
+<td width="184">
+<p align="center">
+<br/>SEAC</p>
 </td>
-<td align="center">
-<br/>Astreinte technique de centrale énergie <br/>
+<td width="185">
+<p>Astreinte de contrôle technique d'exploitation</p>
 </td>
-<td align="center">
-<br/>1 astreinte de semaine <br/>
+<td width="184">
+<p>1 astreinte de semaine </p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<br/>(1) Une astreinte de semaine couvre une période de 7 jours sur 7.</td>
+<p>(1) Une astreinte de semaine couvre une période de 7 jours sur 7.</p>
+</td>
 </tr>
 </tbody>
 </table>
