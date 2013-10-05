@@ -8,7 +8,7 @@ Laboratoire national de métrologie et d'essais (LNE) ;
 
 Laboratoire central de la préfecture de police (LCPP) ;
 
-SNPE matériaux énergétiques (SME) ;
+Herakles groupe Safran ;
 
 Institut français du textile et de l'habillement (IFTH) ;
 

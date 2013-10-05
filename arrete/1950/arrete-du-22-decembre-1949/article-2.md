@@ -1,6 +1,6 @@
 # Article 2
 
-Le comité, qui se réunit à la diligence et sous la présidence du    directeur général de la sécurité civile et de la gestion des crises ou de son délégué, est composé comme suit :
+Le comité, qui se réunit à la diligence et sous la présidence du directeur général de la sécurité civile et de la gestion des crises ou de son délégué, est composé comme suit :
 
 Deux représentants de la direction générale de la sécurité civile et de la gestion des crises ;
 
@@ -20,7 +20,7 @@ Le directeur du laboratoire central de la préfecture de police ou son représen
 
 Le directeur du Laboratoire national de métrologie et d'essais ou son représentant ;
 
-Le directeur de la Société nationale des poudres et explosifs, Matériaux énergétiques ou son représentant ;
+Le directeur de la société Herakles groupe Safran ou son représentant ;
 
 Le directeur de l'Institut français du textile et de l'habillement ou son représentant ;
 
