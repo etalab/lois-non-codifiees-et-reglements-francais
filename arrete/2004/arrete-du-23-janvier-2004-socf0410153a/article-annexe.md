@@ -1,96 +1,74 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : technicien (ne) de fabrication de l'industrie chimique.
+Intitulé : technicien (ne) de fabrication de l'industrie chimique (ancien intitulé : technicien [ne] de fabrication de l'industrie chimique [niveau IV]).
 
 Niveau : IV.
 
 Code NSF : 222 s.
 
-**Résumé du référentiel d'emploi**
+Résumé du référentiel d'emploi
 
-Le technicien de fabrication de l'industrie chimique est un référent technique des installations de production de l'atelier. Ces installations réalisent aussi bien des transformations physiques (malaxage, granulation, filtration, distillation...) que chimiques (réaction, polymérisation...). Cette compétence technique lui permet :
+Le (la) technicien (ne) de fabrication de l'industrie chimique pilote, seul ou en équipe, une installation complexe de production chimique. Il a la responsabilité technique d'une ou plusieurs fabrications et un rôle de référent technique auprès des opérateurs. Placé sous la responsabilité d'un hiérarchique, il l'assiste dans la gestion des équipes et l'organisation de la production. Pour cela, il (elle) :
 
-1. De piloter, en équipe, des installations complexes ou automatisées à l'aide de synoptiques à partir de la salle de contrôle ;
+-prépare des opérations de productions chimiques, met en route et arrête une installation de production généralement à partir d'un système numérique de contrôle et de commande centralisé ;
 
-2. De participer à la gestion et à l'évolution technique des installations :
+-surveille un grand nombre de paramètres autorégulés et effectue des réglages du process en fonction d'écarts repérés ;
 
-Dans la première activité :
+-met en œuvre des méthodes de suivi de fabrication et assure la conformité des produits en prenant en compte les résultats d'analyses ;
 
--il surveille et régule le circuit des matières en fonction des consignes ;
+-diagnostique les dysfonctionnements sur les équipements et intervient lui-même ou fait intervenir le bon interlocuteur, principalement : instrumentiste, automaticien, technicien de maintenance, pour y remédier ;
 
--il corrige les écarts des paramètres de fabrication par rapport aux valeurs de consigne ;
+-participe à la réalisation d'essais et à des études techniques visant à l'amélioration de la qualité et de la productivité ;
 
--il gère techniquement les opérations de préparation des fabrications, de démarrage et d'arrêt des appareils ;
+-participe à la gestion technique et à l'optimisation de la production au quotidien en assistance ponctuelle à son agent de maîtrise.
 
--il effectue un diagnostic de premier niveau et réalise (ou fait réaliser) les opérations correctives.
+Le titulaire de l'emploi travaille généralement dans une unité de production, depuis une salle de contrôle d'où il commande les appareils à distance. Il peut également se rendre sur site pour effectuer des actions ou vérifications ponctuelles.
 
-De plus, il veille au réglage et à l'optimisation du fonctionnement des installations dans le respect des normes de sécurité et d'environnement.
+Il veille constamment à adapter ses interventions et son comportement aux exigences de sécurité, d'hygiène, de qualité, d'environnement et de développement durable inhérentes au site, aux produits et aux procédés, pour lui, les personnes et les biens. Une vigilance permanente et le port d'équipements de protection individuelle sont indispensables compte tenu des matières traitées et des techniques utilisées.
 
-Il accomplit la deuxième activité :
+Les horaires de travail sont majoritairement de type posté ou en continu : 2 × 8,3 × 8,5 × 8, plus rarement en journée. Il peut être parfois détaché de son poste pour travailler en journée lors de missions ponctuelles particulières, pour des études par exemple.
 
--en coordonnant techniquement les changements dans l'utilisation des appareils de l'atelier ;
+Capacités attestées et descriptif
 
--en proposant des mesures visant à améliorer la productivité, la qualité et la sécurité de la production ;
+des composantes de la certification
 
--en permettant que les résultats de ces changements et des essais découlant des mesures proposées soient portés à la connaissance des opérateurs sous forme de consignes ;
+1. Piloter une installation complexe de production
 
--en affectant les opérateurs aux différents postes dans l'atelier en fonction de la charge de travail ;
+de l'industrie chimique
 
--en formant des opérateurs à un poste de travail ou à de nouvelles technologies et / ou productions.
+Organiser et préparer une production chimique.
 
-En plus de cette compétence technique, le technicien de fabrication de l'industrie chimique peut, dans certaines entreprises, avoir des fonctions de gestion des moyens de production et de management (conduite d'équipe).
+Démarrer, réguler et arrêter une installation de production chimique.
 
-Sa polyvalence lui permet également de remplacer un opérateur absent. De même, il pourra suppléer de façon temporaire à son hiérarchique direct (agent de maîtrise de production) pour des sujets se rapportant à la gestion technique de l'atelier.
+Contrôler la conformité des flux matières d'une production chimique.
 
-**Capacités attestées et descriptif
+Diagnostiquer et résoudre des dysfonctionnements techniques d'une installation de production chimique.
 
-des composantes de la certification**
+2. Contribuer à l'organisation technique
 
-_1. Piloter une installation complexe
+et à l'optimisation d'un système de production chimique
 
-de production de l'industrie chimique_
+Participer à des études techniques relatives à une installation de production chimique.
 
-Préparer une opération de fabrication et participer, en équipe, au démarrage ou à l'arrêt des systèmes de production de l'industrie chimique.
-
-Contrôler le bon déroulement des étapes du process de production dans l'industrie chimique en exploitant des systèmes de conduite manuelle ou automatisée et centralisée.
-
-Contribuer à la conformité des produits utilisés ou élaborés en procédant aux ajustements nécessaires dans le cadre d'une production chimique et dans le respect des procédures.
-
-Analyser les dérives des procédés et mettre en œuvre les mesures correctives en cas de marche troublée, dans le cadre d'une production chimique.
-
-Communiquer avec les autres opérateurs et avec les intervenants externes à l'unité de production de l'industrie chimique.
-
-Répondre aux exigences de qualité et de sécurité et d'environnement dans le cadre d'une production chimique.
-
-_2. Contribuer à la disponibilité technique de l'outil de production
-
-de l'industrie chimique et à l'optimisation de la fabrication_
-
-Diagnostiquer des dysfonctionnements techniques et participer à leur résolution dans le cadre d'une fabrication de l'industrie chimique.
-
-Participer aux études et à l'élaboration de rapports techniques ou de consignes visant à l'amélioration de la qualité, de la productivité et de la sécurité dans le cadre de l'industrie chimique.
-
-Affecter les opérateurs aux différents postes en fonction de la charge de travail en tenant compte des contraintes de fabrication et des normes de sécurité, d'hygiène et de protection de l'environnement.
+Coordonner les activités techniques d'opérateurs de production de l'industrie chimique.
 
 Former des opérateurs à un poste de travail ou à de nouvelles technologies ou productions de l'industrie chimique.
 
-**Secteurs d'activités et types d'emploi
+Secteurs d'activités et types d'emploi
 
-accessibles par le détenteur du titre**
+accessibles par le détenteur du titre
 
-Toute industrie de procédés : chimie, chimie fine, pétrochimie, agroalimentaire, cosmétologie, pharmacie, ciments, verre, textile, peintures, colles, énergie...
+Les industries mettant en jeu un process dans les domaines de la chimie, la chimie fine, la pétrochimie, l'agroalimentaire, la cosmétique, la pharmacie, les ciments, le verre, les peintures, les colles, les colorants, l'énergie.
+
+Technicien de fabrication/ de production ; pilote d'installation (des industries chimiques) ; tableautiste/ opérateur tableau/ pupitreur ; chef de poste/ assistant chef de poste/ chef d'équipe.
 
 Codes ROME :
 
-52231-Technicien / technicienne de production des industries de process.
+H2301-Conduite d'équipement de production chimique ou pharmaceutique ;
 
-45111-Pilote d'installation des industries chimiques et de production d'énergie.
-
-51121-Agent / agente d'encadrement des industries de process.
+H2701-Pilotage d'installation énergétique et pétrochimique.
 
 Réglementation de l'activité :
 
@@ -104,5 +82,4 @@ Bases légales et réglementaires :
 
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Arrêté du 9 mars 2006
-relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

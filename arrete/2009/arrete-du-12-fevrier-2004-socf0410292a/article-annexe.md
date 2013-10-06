@@ -1,28 +1,28 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : cordonnier multiservices .
+Intitulé : cordonnier (ère) multiservices (ancien intitulé : cordonnier [ère] multiservices [niveau V]).
 
 Niveau : V.
 
-Code NSF : 243 r.
+Code NSF : 243 t.
 
 Résumé du référentiel d'emploi
 
-Le cordonnier multiservices réceptionne et propose aux clients des prestations courantes sur les produits à entretenir (chaussures, sacs, couteaux, ciseaux...) ou à fabriquer (plaques gravées, minéralogiques, clés). Il (elle) commande les services sous-traités (tampons, imprimerie...) et fournitures utiles, exécute les opérations correspondantes à la commande en mettant en oeuvre le matériel nécessaire. Dans les délais prévus, il (elle) restitue les travaux réalisés aux clients, vend des articles associés en encaissant le prix.
+Le (la) cordonnier (ère) multiservices propose aux clients des prestations courantes sur les produits à entretenir tels que les chaussures, sacs, ou à fabriquer comme les plaques gravées, les clés à reproduire. Il (elle) commande des tampons et de la petite imprimerie sous-traités, ainsi que les fournitures utiles à l'exécution des commandes, les articles destinés à la vente. Il (elle) réalise les opérations de fabrication ou de réparation en mettant en œuvre le matériel nécessaire et les techniques en usage dans le métier. Dans les délais prévus, il (elle) livre aux clients les commandes réalisées, propose et vend des articles associés, procède aux encaissements et rend compte journellement de sa tenue de caisse.
 
-Le (la) titulaire de l'emploi négocie avec les clients les prestations à réaliser et détermine lui-même les différentes fournitures à utiliser.
+La taille des entreprises se situe majoritairement entre une et trois personnes. Le (la) cordonnier (ère) multiservices peut donc se trouver en situation de gérance salariée d'un point de vente. Autonome dans son travail, il (elle) est garant (e) de la qualité de ses productions et prévoit son organisation en fonction des délais de livraison souhaités par la clientèle. Il (elle) rend compte de ses activités au chef d'entreprise.
 
-Il (elle) vend des articles associés et gère les délais de livraison en accord avec le client.
+Le (la) cordonnier (ère) multiservices travaille en boutique dans les zones urbaines ou en galerie marchande de centres commerciaux dans une ambiance parfois bruyante.
 
-Il (elle) exécute les travaux demandés en mettant en oeuvre les matériels nécessaires et en appliquant les techniques en vigueur.
+La position est le plus souvent debout nécessitant des petits déplacements pour les changements d'opérations et les relations avec la clientèle.
 
-Il (elle) s'assure de l'approvisionnement en services, articles et fournitures nécessaires à la pratique des activités.
+Le travail est très varié, mettant en œuvre des matériels très différents les uns des autres et soumis aux exigences de délais par la clientèle. L'usage de systèmes informatisés est courant.
+
+Le contact direct avec la clientèle implique une présentation adaptée.
+
+Les horaires sont généralement ceux des commerces de jour avec des amplitudes horaires d'ouverture variables, souvent le samedi.
 
 Capacités attestées et descriptif
 
@@ -32,97 +32,43 @@ des composantes de la certification
 
 en réparation de chaussures
 
-Remplacer tous types de bonbouts.
+Rénover les talons des chaussures.
 
-Poser des patins par collage sur toutes semelles.
+Rénover les semelles des chaussures.
 
-Changer des demi-semelles par collage.
+Rénover les éléments du dessus des chaussures.
 
-Changer et rénover les talons, enrobages et cambrures.
-
-Changer, poser et recoller des semelles entières en matériaux de synthèse.
-
-Rénover des éléments du dessus des chaussures par piquage et couture.
-
-Changer des accessoires sertis d'articles en cuir.
-
-Rénover la tige des chaussures par cirage, teinture.
-
-Réaliser des coutures de part en part à la machine Blake.
-
-Forcer des chaussures à la machine à conformer.
-
-2. Réaliser des prestations de services
+2. Réaliser les prestations de services
 
 complémentaires à la cordonnerie
 
-Reproduire des clés sur machine à tailler les clés plates.
+Reproduire tous types de clés.
 
-Reproduire des clés sur machine à tailler les clés à gorge et à pompe.
+Graver des objets sur machine assistée par ordinateur.
 
-Reproduire des clés sur machine à tailler les clés à points, à vague.
+3. Effectuer les ventes et la gestion
 
-Graver des plaques signalétiques et objets en matériaux divers sur machine assistée par ordinateur.
+des stocks et de la caisse
 
-Composer, emboutir et changer des plaques minéralogiques.
+Réaliser la vente-conseil de prestations et articles d'une cordonnerie multiservices.
 
-Réaliser l'affûtage d'ustensiles coupants par tranchage et cisaillement.
+Maintenir les approvisionnements d'une cordonnerie multiservices.
 
-3. Assurer l'accueil commercial et les approvisionnements
+Secteurs d'activités et types d'emploi
 
-d'une cordonnerie multiservices
+accessibles par le détenteur du titre
 
-Prendre une commande de prestations en cordonnerie ou de multiservices.
+Entreprises de cordonnerie et de multiservices, hôtellerie de luxe.
 
-Réaliser la vente-conseil d'articles connexes à la cordonnerie ou au multiservices.
+Cordonnier réparateur.
 
-Assurer l'encaissement des articles et prestations en cordonnerie ou multiservices.
+Reproducteur de clés.
 
-Suivre les approvisionnements en articles, services et fournitures en cordonnerie ou multiservices.
-
-Certificats complémentaires de spécialisation
-
-1. Réaliser les prestations complexes
-
-de réparation de chaussures
-
-Changer tous semelages cousus.
-
-Changer des semelles entières femme collées.
-
-Modifier des jambes de bottes.
-
-Réaliser des aménagements anatomiques simples.
-
-2. Assurer la gestion courante
-
-d'une cordonnerie multiservices
-
-Réaliser le compte de résultat prévisionnel d'une entreprise de cordonnerie.
-
-Elaborer un tarif de prestations de services et d'articles à vendre en l'état.
-
-Lister et chiffrer l'inventaire d'une cordonnerie multiservices.
-
-Assurer le suivi des factures clients, fournisseurs et déclarations de TVA d'une entreprise artisanale.
-
-Gérer la trésorerie d'une entreprise artisanale.
-
-Effectuer les tâches de gestion quotidienne sur système informatisé professionnel.
-
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Entreprises de réparation de chaussures et multiservices de cordonnerie.
-
-Artisan cordonnier.
-
-Artisan en cordonnerie et multiservices.
+Graveur.
 
 Code ROME :
 
-47222-Réparateur (réparatrice) d'articles en cuir et autres matériaux souples.
+D 1206-Réparation d'articles en cuir et matériaux souples.
 
 Réglementation de l'activité :
 
@@ -134,8 +80,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

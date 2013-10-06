@@ -1,10 +1,8 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : conducteur (trice) de machines de plasturgie.
+Intitulé : conducteur (trice) de machines de plasturgie (ancien intitulé : conducteur [trice] de machines de plasturgie [niveau V]).
 
 Niveau : V.
 
@@ -12,11 +10,35 @@ Code NSF : 225 u.
 
 Résumé du référentiel d'emploi
 
-A l'aide des différents documents techniques mis à sa disposition, le conducteur de machines de plasturgie conduit et surveille en toute sécurité la fabrication en série d'un produit en matière thermoplastique sur des machines assez ou fortement automatisées (presse à injecter, extrudeuse, extrudeuse-souffleuse, extrudeuse de gaine, thermoformeuse...). Il participe aussi, en appui et sous la responsabilité d'un technicien de production, aux opérations de préparation des équipements, montage des outillages, démarrage des nouvelles séries et au démontage des outillages en fin de fabrication.
+Le (la) titulaire de l'emploi réalise, seul (e) ou au sein d'une équipe, sur des machines et installations automatisées de plasturgie, l'ensemble des actions concourant à l'obtention d'une production de pièces plastiques conforme en qualité, coûts et délais, dans le respect des normes de qualité, d'hygiène, de sécurité et d'environnement définies par l'entreprise.
 
-En suivant des modes opératoires, il vérifie la conformité et assure la traçabilité des produits. Il réalise des contrôles réguliers sur certains paramètres du process. Sa réactivité aux aléas est une caractéristique de l'emploi (en cas de dysfonctionnements machines ou de produits non conformes). Dans ces situations, il décide seul d'intervenir ou de faire appel à un technicien pour résoudre le problème. En respectant des procédures, il assure la maintenance productive des équipements (nettoyage, graissage, changement de filtres...).
+Pour cela, à partir des différents documents techniques mis à sa disposition, il (elle) assure tout ou partie des tâches suivantes :
 
-Le but de son activité est la livraison, au client interne ou externe, d'un produit conforme aux spécifications du cahier des charges, en respectant les coûts et les délais demandés et en assurant le maintien en état de l'installation.
+-préparation du poste de travail et contribution à la mise en service des moyens de production ;
+
+-conduite et surveillance des moyens de production, contrôle des produits fabriqués ;
+
+-maintenance dédiée à la production ;
+
+-nettoyage des équipements et des outillages à la préparation, en cours et à l'arrêt de production ;
+
+-participation à l'amélioration technique et organisationnelle de son secteur de fabrication.
+
+Les moyens de production mis en œuvre regroupent généralement plusieurs technologies : mécanique, électricité, pneumatique, hydraulique, automatique et informatique.
+
+Le (la) titulaire de l'emploi travaille de façon autonome, sous la responsabilité de son hiérarchique direct. Il (elle) lui rend compte de son activité et l'informe de tout incident.
+
+Sa propre responsabilité est limitée à l'application stricte de consignes et de procédures.
+
+Il (elle) exerce son métier en atelier ; les horaires de travail sont souvent de type 3 × 8, rarement en journée.
+
+L'exécution des tâches s'effectue debout avec des déplacements fréquents autour de l'installation, voire aux divers magasins de stockage. Elle nécessite le port d'équipements de sécurité et, selon le secteur, de ceux de propreté. Les conditions environnementales varient en fonction de l'activité de l'entreprise : bruit, chaleur, milieu aseptisé.
+
+L'activité oblige à une vigilance permanente, à une réactivité immédiate à l'événement ; ce comportement est primordial pour la sécurité humaine et pour le maintien d'une bonne productivité des équipements.
+
+Les techniques de transformation des matières plastiques utilisées ont une influence sur le comportement professionnel du (de la) conducteur (trice) : il (elle) doit connaître les principaux paramètres ayant un effet sur la qualité de la production et, en particulier, ceux qui sont à surveiller régulièrement.
+
+Le poste requiert parfois la maîtrise de la conduite d'engins de manutention de type gerbeur ou chariot élévateur. Une certification comme le " CACES " est appréciée pour la tenue de l'emploi. Dans certaines entreprises, l'habilitation électrique pour non-électricien " B0 " est parfois requise pour tenir l'emploi.
 
 Capacités attestées et descriptif
 
@@ -24,55 +46,43 @@ des composantes de la certification
 
 1. Conduire et surveiller la production
 
-sur des machines de plasturgie
+sur une machine de plasturgie
 
-Prendre en compte les documents et informations nécessaires à la fabrication sur des machines de plasturgie.
+Exécuter les opérations de production sur une machine de plasturgie.
 
-Approvisionner la machine en matière, inserts et composants, en vérifier les références et réaliser si nécessaire la préparation de la matière.
+Réaliser les opérations de contrôle des pièces issues d'une fabrication sur une machine de plasturgie.
 
-Arrêter et redémarrer en cas de besoin des machines de plasturgie en conditions de fonctionnement stabilisé.
+Réaliser les opérations de maintenance dédiée à la production.
 
-Conduire et surveiller une production en série sur des machines de plasturgie dans le respect des procédures et modes opératoires et selon les conditions prévues (qualité, quantité, délais).
+Proposer des améliorations techniques et organisationnelles dans son secteur de production.
 
-Assurer le suivi qualitatif et quantitatif des produits issus d'une fabrication en série sur des machines de plasturgie et rendre compte (saisie informatique ou sur papier).
+2. Préparer le poste de travail et contribuer
 
-Adopter un comportement en cohérence avec les exigences de qualité, de sécurité et d'environnement, dans le cadre d'une fabrication en série sur des machines de plasturgie.
+à la mise en service d'une machine de plasturgie
 
-Proposer des améliorations techniques ou organisationnelles permettant d'améliorer les conditions de travail et les indicateurs industriels sur des machines de plasturgie.
+Préparer le poste de travail en fonction du changement de série sur une machine de plasturgie.
 
-2. Participer au montage des outillages, à la préparation
+Contribuer à la mise en service des moyens de production sur une machine de plasturgie.
 
-et au démarrage des machines de plasturgie
+Proposer des améliorations techniques et organisationnelles dans son secteur de production.
 
-Prendre en compte les documents et informations nécessaires à la fabrication sur des machines de plasturgie.
+Secteurs d'activités et types d'emploi accessibles
 
-Préparer le poste de travail en fonction du changement de série sur des équipements de plasturgie.
+par le détenteur du titre
 
-Participer à la préparation des outillages et des matériels périphériques, à leur montage ou raccordements sur des machines de plasturgie.
+Entreprises plasturgistes transformant des thermoplastiques par des procédés automatisés.
 
-Charger un programme et participer aux réglages sur des machines et équipements de plasturgie.
+Entreprises industrielles telles que fabricants de composants électriques, certaines entreprises du secteur agroalimentaire ayant un atelier dit " intégré " comportant des machines de plasturgie.
 
-Participer à la mise en route et arrêter la production en début et fin de série, selon les procédures établies, sur des machines de plasturgie.
-
-Réaliser les opérations simples de maintenance productive des machines et outillages de plasturgie, en fonction des documents techniques et des modes opératoires.
-
-Proposer des améliorations techniques ou organisationnelles permettant d'améliorer les conditions de travail et les indicateurs industriels sur des machines de plasturgie.
-
-Secteurs d'activités et types d'emploi
-
-accessibles par le détenteur du titre
-
-Entreprises plasturgistes transformant des matières thermoplastiques par des procédés automatisés.
-
-Entreprises industrielles d'autres secteurs d'activités ayant un atelier dit intégré qui comporte des machines de transformation de matière thermoplastique par un ou des procédés automatisés (ex : fabrication de composants électriques, certaines entreprises du secteur agroalimentaire...).
+Conducteur de presses à injecter, opérateur sur machines de plasturgie, conducteur d'extrudeuse.
 
 Code ROME :
 
-45113-Opérateur (trice) sur machines de formage des matières plastiques et du caoutchouc.
+H 3201-Conduite d'équipement de formage des plastiques et caoutchoucs
 
 Réglementation de l'activité :
 
-Néant.
+Sans objet.
 
 Autorité responsable de la certification :
 
