@@ -1,3 +1,0 @@
-# Article 20
-
-Des évaluations, organisées sous la responsabilité du directeur de l'établissement ou de l'organisme chargé de la formation, valident les connaissances, les aptitudes et le comportement des stagiaires et conduisent à la délivrance d'un diplôme ou d'une attestation dans les conditions définies dans chaque référentiel mentionné à l'article 2. Dans tous les cas, il est procédé à la mise à jour, d'une part, de la fiche ou du livret individuel de formation de l'agent et, d'autre part, de son dossier administratif. Le sapeur-pompier est informé de la mise à jour de sa fiche ou de son livret individuel de formation.
