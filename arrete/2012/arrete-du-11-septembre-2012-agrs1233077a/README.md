@@ -3,4 +3,4 @@
 - [Article 1](article-1.md)
 - [Annexe](annexe)
 - [A. ― Epreuves d'admissibilité](a)
-- [B. ― Epreuve d'admission](b)
+- [B. ― Epreuves d'admission](b)
