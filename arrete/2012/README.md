@@ -1902,7 +1902,6 @@
 - [Arrêté du 20 septembre 2011 (ETSD1123441A)](arrete-du-20-septembre-2011-etsd1123441a)
 - [Arrêté du 20 septembre 2011 (ETSD1123444A)](arrete-du-20-septembre-2011-etsd1123444a)
 - [Arrêté du 20 septembre 2012 (DEVK1234708A)](arrete-du-20-septembre-2012-devk1234708a)
-- [Arrêté du 20 septembre 2012 (MCCB1234605A)](arrete-du-20-septembre-2012-mccb1234605a)
 - [Arrêté du 20 septembre 2012 (OMEO1221518A)](arrete-du-20-septembre-2012-omeo1221518a)
 - [Arrêté du 20 septembre 2012 (TRAM1234257A)](arrete-du-20-septembre-2012-tram1234257a)
 - [Arrêté du 21 août 2012 (ACTI1228904A)](arrete-du-21-aout-2012-acti1228904a)
