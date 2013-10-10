@@ -93,7 +93,6 @@
 - [Arrêté du 4 janvier 1991 (BUDR9105003A)](arrete-du-4-janvier-1991-budr9105003a)
 - [Arrêté du 4 janvier 1991 (TEFO9103044A)](arrete-du-4-janvier-1991-tefo9103044a)
 - [Arrêté du 4 juillet 1991 (TEFF9103752A)](arrete-du-4-juillet-1991-teff9103752a)
-- [Arrêté du 4 juin 1991 (MENE9100793A)](arrete-du-4-juin-1991-mene9100793a)
 - [Arrêté du 4 mars 1985](arrete-du-4-mars-1985)
 - [Arrêté du 4 novembre 1991 (AGRE9102074A)](arrete-du-4-novembre-1991-agre9102074a)
 - [Arrêté du 4 novembre 1991 (EQUS9101642A)](arrete-du-4-novembre-1991-equs9101642a)
