@@ -12,8 +12,10 @@ Les éléments relatifs à l'entreprise de marché, mentionnés au 1° de l'arti
 
 Sont réputés exercer une telle influence les actionnaires qui détiennent, seuls ou de concert, directement ou indirectement, une fraction du capital ou des droits de vote égale ou supérieure à 10 % ;
 
-5° Un programme d'activité décrivant son organisation et ses moyens au regard de l'activité envisagée sur le marché réglementé concerné, incluant le type d'opérations envisagées ainsi que les moyens humains et techniques dont elle dispose ou qu'elle prévoit de mettre en oeuvre ;
+5° Un programme d'activité décrivant son organisation et ses moyens au regard de l'activité envisagée sur le marché réglementé concerné, incluant le type d'opérations envisagées et le modèle de marché ainsi que les moyens humains et techniques dont elle dispose ou qu'elle prévoit de mettre en oeuvre ;
 
 6° Les derniers comptes annuels, s'ils existent, et les moyens financiers dont elle dispose au moment de la reconnaissance du marché réglementé ;
 
-7° Le cas échéant, les accords de sous-traitance portant sur la gestion des systèmes de négociation et des systèmes de diffusion d'informations prévues au présent titre.
+7° La politique de gestion des conflits d'intérêts mentionnée à l'article 512-4 ;
+
+8° Le cas échéant, les accords de sous-traitance portant sur la gestion des systèmes de négociation et des systèmes de diffusion d'informations prévues au présent titre.

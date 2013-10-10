@@ -1,4 +1,4 @@
-# Chapitre III : Dépositaires d'organismes de placement collectif
+# Chapitre III : Dépositaires d'OPCVM
 
 - [Section 1 : Missions du dépositaire d'organismes de placement collectif](section-1)
 - [Section 2 : Organisation et moyens du dépositaire](section-2)

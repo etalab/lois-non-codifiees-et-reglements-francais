@@ -6,4 +6,4 @@ Le requérant joint au dossier d'agrément les informations mentionnées aux 1°
 
 L'AMF s'assure que les moyens prévus sont adaptés aux activités envisagées et que les règles du système sont conformes aux dispositions qui leur sont applicables.
 
-Après la délivrance de l'agrément, le prestataire de services d'investissement publie les règles du système sur son site. Il laisse également la possibilité à toute personne de consulter, à son siège social, les règles du système et d'en prendre ou de s'en faire adresser copie à ses frais.
+Après la délivrance de l'agrément, le prestataire de services d'investissement publie les règles du système sur son site internet. Il laisse également la possibilité à toute personne de consulter, à son siège social, les règles du système et d'en prendre ou de s'en faire adresser copie à ses frais.
