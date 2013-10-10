@@ -9,8 +9,7 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <p align="center">DISPENSATEUR DE FORMATION</p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">TYPES D'HABILITATION <br/>
-</p>
+<p align="center">TYPES D'HABILITATION</p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">HABILITATION</p>
@@ -213,16 +212,57 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 </td>
 </tr>
 <tr>
-<td> Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris <br/>
+<td>Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris <br/>
 </td>
-<td> Opérateur, bovins, manipulations et soins, mise à mort, complément sans étourdissement <br/>
-<br/>Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement <br/>
-<br/>Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement</td>
-<td>
-<p align="center"> 1er août 2013 </p>
+<td>Opérateur, bovins, manipulations et soins, mise à mort, complément sans étourdissement <p>Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement </p>
+<p>Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement</p>
 </td>
 <td>
-<p align="center"> 31 juillet 2018</p>
+<p align="center">1er août 2013 </p>
+</td>
+<td>
+<p align="center">31 juillet 2018</p>
+</td>
+</tr>
+<tr>
+<td>Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean-Rostand, BP 7,22440 Ploufragan </td>
+<td>RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement <p>RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement </p>
+<p>RPA et opérateur, porcins, manipulations et soins, mise à mort <br/>
+</p>
+</td>
+<td>
+<p align="center">30 septembre 2013 </p>
+</td>
+<td>
+<p align="center">29 septembre 2018 </p>
+</td>
+</tr>
+<tr>
+<td>SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire <br/>
+</td>
+<td>RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement <p>RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement </p>
+<p>RPA et opérateur, porcins, manipulations et soins, mise à mort <br/>
+</p>
+</td>
+<td>
+<p align="center">30 septembre 2013 </p>
+</td>
+<td>
+<p align="center">29 septembre 2018 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Avipole Formation, Zoopôle Les Croix, rue Camille-Guérin, 22400 Ploufragan </p>
+</td>
+<td>
+<p align="left">RPA et opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement </p>
+</td>
+<td>
+<p align="center">30 septembre 2013 </p>
+</td>
+<td>
+<p align="center">29 septembre 2018</p>
 </td>
 </tr>
 </tbody>
