@@ -494,7 +494,6 @@
 - [Décret n°2001-787 du 30 août 2001 (ECOB0160020D)](decret-n2001-787-du-30-aout-2001-ecob0160020d)
 - [Décret n°2001-788 du 30 août 2001 (MESG0121810D)](decret-n2001-788-du-30-aout-2001-mesg0121810d)
 - [Décret n°2002-132 du 30 janvier 2002 (AGRA0200036D)](decret-n2002-132-du-30-janvier-2002-agra0200036d)
-- [Décret n°69-765 du 30 juillet 1969](decret-n69-765-du-30-juillet-1969)
 - [Décret n°93-1146 du 30 septembre 1993 (DOMP9300030D)](decret-n93-1146-du-30-septembre-1993-domp9300030d)
 - [Décret n°93-1147 du 30 septembre 1993 (DOMP9300031D)](decret-n93-1147-du-30-septembre-1993-domp9300031d)
 - [Décret n°2001-466 du 30 mai 2001 (MJSK0170156D)](decret-n2001-466-du-30-mai-2001-mjsk0170156d)
