@@ -126,7 +126,6 @@
 - [Arrêté du 5 octobre 1998 (EQUS9801340A)](arrete-du-5-octobre-1998-equs9801340a)
 - [Arrêté du 5 octobre 1998 (MESP9823221A)](arrete-du-5-octobre-1998-mesp9823221a)
 - [Arrêté du 5 mai 1998 (ATEN9870176A)](arrete-du-5-mai-1998-aten9870176a)
-- [Arrêté du 5 mai 1998 (ECOL9800055A)](arrete-du-5-mai-1998-ecol9800055a)
 - [Arrêté du 5 mai 1998 (EQUS9800678A)](arrete-du-5-mai-1998-equs9800678a)
 - [Arrêté du 5 mai 1998 (JUSG9860021A)](arrete-du-5-mai-1998-jusg9860021a)
 - [Arrêté du 5 mai 1998 (MCCB9800377A)](arrete-du-5-mai-1998-mccb9800377a)
