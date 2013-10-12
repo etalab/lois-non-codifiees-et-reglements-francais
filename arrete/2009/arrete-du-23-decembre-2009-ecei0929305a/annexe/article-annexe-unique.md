@@ -150,11 +150,6 @@ B. Tableau de classement
 </tr>
 <tr>
 <td colspan="9" width="680">
-<p align="center">PRE-REQUIS : Pour pouvoir prétendre au classement en hôtel de tourisme, un hôtel doit compter 6 chambres au minimum</p>
-</td>
-</tr>
-<tr>
-<td colspan="9" width="680">
 <p align="center">CHAPITRE 1 : EQUIPEMENTS</p>
 </td>
 </tr>

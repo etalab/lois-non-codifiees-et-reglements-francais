@@ -16,7 +16,11 @@ Sont autorisés à procéder aux actes définis par l'article 706-25-2 du code d
 
 2. La direction centrale du renseignement intérieur ;
 
-3. La direction du renseignement de la préfecture de police ;
+3. Services et unités relevant de la préfecture de police :
+
+― la direction du renseignement ;
+
+― la direction de la police judiciaire ;
 
 4. Services et unités relevant de la direction générale de la gendarmerie nationale :
 
