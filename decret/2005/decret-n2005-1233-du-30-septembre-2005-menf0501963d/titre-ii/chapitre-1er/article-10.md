@@ -1,6 +1,8 @@
 # Article 10
 
-La gestion administrative et financière du régime additionnel de retraite est confiée à un organisme gestionnaire dans le cadre d'une délégation de service public consentie en application de la loi du 29 janvier 1993 susvisée.
+La gestion administrative et financière du régime additionnel de retraite est assurée par un organisme désigné à cet effet par arrêté conjoint pris par les ministres chargés de l'éducation nationale, de l'agriculture, de la sécurité sociale et du budget.
+
+Les frais de gestion du régime sont prélevés sur ses ressources.
 
 Une convention d'objectifs et de gestion, conclue pour une durée de cinq ans, entre l'Etat et l'organisme gestionnaire détermine les objectifs pluriannuels et les actions mises en oeuvre à ces fins par les signataires.
 
