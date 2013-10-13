@@ -412,7 +412,6 @@
 - [Arrêté du 6 juillet 2010 (JUSF1018656A)](arrete-du-6-juillet-2010-jusf1018656a)
 - [Arrêté du 6 juillet 2010 (JUSF1018659A)](arrete-du-6-juillet-2010-jusf1018659a)
 - [Arrêté du 6 juillet 2010 (JUSF1018660A)](arrete-du-6-juillet-2010-jusf1018660a)
-- [Arrêté du 6 juillet 2010 (JUSF1018661A)](arrete-du-6-juillet-2010-jusf1018661a)
 - [Arrêté du 6 juillet 2010 (JUSF1018663A)](arrete-du-6-juillet-2010-jusf1018663a)
 - [Arrêté du 6 juillet 2010 (JUSF1018664A)](arrete-du-6-juillet-2010-jusf1018664a)
 - [Arrêté du 6 juillet 2010 (JUSF1018665A)](arrete-du-6-juillet-2010-jusf1018665a)
