@@ -2,13 +2,13 @@
 
 I.-Sont inéligibles à l'assemblée de la Polynésie française :
 
-1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président et les membres de l'assemblée, le président de la Polynésie française et les autres membres du gouvernement de la Polynésie française qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ;
+1° (abrogé)
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en application des lois qui autorisent cette privation ;
 
 3° Les hauts-commissaires de la République, les secrétaires généraux, secrétaires généraux adjoints du haut-commissariat, les directeurs du cabinet du haut-commissaire et les chefs de subdivisions administratives en exercice ou qui ont exercé leurs fonctions en Polynésie française depuis moins de trois ans ;
 
-4° Les personnes déclarées inéligibles en application        des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 du code électoral ;
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 du code électoral ;
 
 5° Le Défenseur des droits (1).
 

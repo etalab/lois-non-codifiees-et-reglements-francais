@@ -6,4 +6,4 @@ L'assemblée de province ne peut procéder à ces élections que si les trois ci
 
 Le président et chacun des vice-présidents sont élus, au scrutin secret, à la majorité absolue des membres de l'assemblée. Si cette élection n'est pas acquise après les deux premiers tours de scrutin, il est procédé à un troisième tour de scrutin et l'élection a lieu à la majorité relative. A égalité de voix, l'élection est acquise au bénéfice de l'âge.
 
-Les présidents des assemblées de province et les vice-présidents de ces assemblées sont soumis à l'obligation de dépôt d'une déclaration de situation patrimoniale dans les conditions prévues par la législation relative à la transparence financière de la vie politique.
+Les présidents des assemblées de province et les vice-présidents de ces assemblées sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.

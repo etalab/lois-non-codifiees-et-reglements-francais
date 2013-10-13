@@ -10,6 +10,10 @@ Pour l'application des dispositions de l'alinéa précédent, les sénateurs rep
 
 Le Conseil constitutionnel doit s'assurer du consentement des personnes présentées qui, à peine de nullité de leur candidature, doivent lui remettre, sous pli scellé, une déclaration de leur situation patrimoniale conforme aux dispositions de l'article L. O. 135-1 du code électoral et l'engagement, en cas d'élection, de déposer deux mois au plus tôt et un mois au plus tard avant l'expiration du mandat ou, en cas de démission, dans un délai d'un mois après celle-ci, une nouvelle déclaration conforme à ces dispositions qui sera publiée au Journal officiel de la République française dans les huit jours de son dépôt.
 
+Les déclarations de situation patrimoniale remises par les candidats, dans les conditions prévues au quatrième alinéa du présent I, sont transmises à la Haute Autorité pour la transparence de la vie publique, qui les rend publiques au moins quinze jours avant le premier tour de scrutin, dans les limites définies au III de l'article LO 135-2 du code électoral.
+
+La déclaration de situation patrimoniale remise à l'issue des fonctions dans les conditions prévues au quatrième alinéa du présent I est transmise à la Haute Autorité pour la transparence de la vie publique.
+
 Le nom et la qualité des citoyens qui ont proposé les candidats inscrits sur la liste sont rendus publics par le Conseil constitutionnel huit jours au moins avant le premier tour de scrutin, dans la limite du nombre requis pour la validité de la candidature.
 
 II. Les opérations électorales sont organisées selon les règles fixées par les articles L. 1er, L. 2, L. 5 à L. 7, L. 9 à L. 21, L. 23, L. 25, L. 27 à L. 40, L. 42, L. 43, L. 45, L. 47 à L. 52-2, L. 52-4 à L. 52-11, L. 52-12, L. 52-14, L. 52-15, quatrième alinéa, L. 52-16 à L. 52-18, L. 53 à L. 55, L. 57 à L. 78, L. 85-1 à L. 111, L. 113 à L. 114, L. 116, L. 117, LO 127, L. 199, L. 200, L. 203, L. 385 à L. 387, L. 389, L. 393, L. 451 à L. 453, L. 477, L. 504 et L. 531 du code électoral, sous réserve des dispositions suivantes :

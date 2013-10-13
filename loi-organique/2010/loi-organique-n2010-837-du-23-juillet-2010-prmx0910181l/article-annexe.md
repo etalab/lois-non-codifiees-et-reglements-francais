@@ -260,6 +260,14 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Haute Autorité pour la transparence de la vie publique </p>
+</td>
+<td>
+<p align="center">Président</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>Haute Autorité de santé <br/>
 </td>

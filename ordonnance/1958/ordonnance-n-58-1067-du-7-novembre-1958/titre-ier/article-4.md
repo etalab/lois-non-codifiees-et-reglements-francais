@@ -6,4 +6,8 @@ Les membres du Gouvernement ou du Conseil économique, social et environnemental
 
 Les membres du Conseil constitutionnel nommés à des fonctions gouvernementales ou aux fonctions de Défenseur des droits, désignés comme membres du Conseil économique, social et environnemental ou qui acquièrent un mandat électoral sont remplacés dans leurs fonctions.
 
-Les incompatibilités professionnelles applicables aux membres du Parlement sont également applicables aux membres du Conseil constitutionnel.
+L'exercice des fonctions de membre du Conseil constitutionnel est incompatible avec l'exercice de toute fonction publique et de toute autre activité professionnelle ou salariée.
+
+Les membres du Conseil constitutionnel peuvent toutefois se livrer à des travaux scientifiques, littéraires ou artistiques.
+
+Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.

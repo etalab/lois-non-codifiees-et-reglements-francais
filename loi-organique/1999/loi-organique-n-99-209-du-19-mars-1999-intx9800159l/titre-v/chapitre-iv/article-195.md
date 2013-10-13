@@ -2,15 +2,13 @@
 
 I.-Sont inéligibles au congrès et aux assemblées de province :
 
-1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président et les membres du congrès, les membres du gouvernement de Nouvelle-Calédonie, le président et les vice-présidents d'une assemblée de province qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars 1988 ;
+1° (abrogé)
 
 2° Les individus privés par décision juridictionnelle de leur droit d'éligibilité, en application des lois qui autorisent cette privation ;
 
 3° Les hauts-commissaires de la République, les secrétaires généraux, secrétaires généraux adjoints du haut-commissariat, les directeurs du cabinet du haut-commissaire et les commissaires délégués de la République en exercice ou qui ont exercé leurs fonctions en Nouvelle-Calédonie depuis moins de trois ans ;
 
-4° Les personnes déclarées inéligibles en application        des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 du code électoral ;
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-410 DC du 15 mars 1999.]
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 du code électoral ;
 
 5° Le Défenseur des droits.
 

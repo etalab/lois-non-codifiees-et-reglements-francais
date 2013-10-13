@@ -26,4 +26,12 @@ e) Le montant des dépenses fiscales ;
 
 7° Le compte général de l'Etat, qui comprend la balance générale des comptes, le compte de résultat, le bilan et ses annexes parmi lesquelles la présentation du traitement comptable des opérations mentionnées au deuxième alinéa de l'article 8, une évaluation des engagements hors bilan de l'Etat, ainsi que la liste des contrats de partenariat et des baux emphytéotiques avec leurs montants et leurs dates d'échéances. Il est accompagné d'un rapport de présentation, qui indique notamment les changements des méthodes et des règles comptables appliqués au cours de l'exercice ;
 
-8° L'avis du Haut Conseil des finances publiques mentionné au I de l'article 23 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée.
+8° L'avis du Haut Conseil des finances publiques mentionné au I de l'article 23 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée ;
+
+9° La liste des subventions versées sur proposition du Parlement au moyen de crédits ouverts dans les lois de finances afférentes à l'année concernée. Cette liste présente, pour chaque département, collectivité d'outre-mer et pour la Nouvelle-Calédonie :
+
+a) L'ensemble des subventions pour travaux divers d'intérêt local versées à partir de programmes relevant du ministère de l'intérieur ;
+
+b) L'ensemble des subventions versées à des associations.
+
+Elle indique, pour chaque subvention, le nom du bénéficiaire, le montant versé, la nature du projet financé, le programme concerné et le nom du membre du Parlement, du groupe politique ou de la présidence de l'assemblée qui a proposé la subvention.
