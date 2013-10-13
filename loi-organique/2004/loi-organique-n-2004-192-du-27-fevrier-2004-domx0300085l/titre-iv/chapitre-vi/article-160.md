@@ -1,3 +1,5 @@
 # Article 160
 
-Le président et les autres membres du gouvernement de la Polynésie française, les représentants à l'assemblée de la Polynésie française sont tenus de déposer, dans le délai requis, une déclaration de situation patrimoniale dans les conditions prévues par la législation relative à la transparence financière de la vie politique.
+Le président et les autres membres du gouvernement de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.
+
+Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.

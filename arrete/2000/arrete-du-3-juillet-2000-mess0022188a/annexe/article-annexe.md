@@ -1086,6 +1086,8 @@ CABOT France SA puis CABOT France SAS, BP 39, CD 21, CS 30039, route départemen
 
 Castellano, 274, chemin du Littoral, 13015 Marseille : de 1946 à 1980 ;
 
+Cellulose de Sète 13151 Tarascon Cedex: de 1951 à 1952, puis, Cellulose du Rhône, 13151 Tarascon Cedex : de 1952 à 1981, puis CDRA (Cellulose du Rhône, et d'Aquitaine) BP 8, 13151 Tarascon Cedex : de 1981 à 1995, puis CELLURHONE BP 8, 13151 Tarascon Cedex : de 1995 à 2000, puis TEMBEC TARASCON SA 13156 Tarascon Cedex : de 2000 à 2001 ;
+
 Chassimetal SA, Item SA, Item Centre SA, Ceric Thermic, 2208, route de Grasse, 06600 Antibes, lieudit Font de Cine, chemin de Saint-Bernard, 06220 Vallauris, de 1953 à 1996 ;
 
 Chaud et Froid, Les Pennes, Mirabeau, 13170 La Gavotte : de 1970 à 1986 ;
@@ -1147,6 +1149,8 @@ SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 1
 SARL Plisson, Quartier du Trébon, route de Tarascon, 13200 Arles : de 1987 à 1996 ;
 
 SAS SAIT Centre d'exploitation de Château-Arnoux, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1981 à 1996 ;
+
+SATI - Gilles LIZZUL, puis SATI - Louis LIZZUL, puis SATI 8, boulevard des Romarins, 13400 Aubagne : de 1968 à 1969, de 1969 à 1992, de 1992 à 2002 ;
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
@@ -1226,7 +1230,7 @@ Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 4250
 
 Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Porte-lès-Valence : de 1950 à 1996 ;
 
-PRODUITS CHIMIQUES UGINE KUHLMANN puis AIDCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
+PRODUITS CHIMIQUES UGINE KUHLMANN puis ATOCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
 
