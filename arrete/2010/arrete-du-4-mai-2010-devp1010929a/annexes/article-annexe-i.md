@@ -122,11 +122,13 @@ j) Indication de tous les dispositifs et accessoires nécessaires et instruction
 
 Sauf indication contraire figurant dans les instructions du fabricant, les articles pyrotechniques contiennent la composition pyrotechnique au cours des opérations normales de transport et de manipulation.
 
-4. Les articles pyrotechniques ne contiennent :
+4. Les articles pyrotechniques ne doivent pas contenir d'explosifs détonants autres que de la poudre noire et de la composition éclair, exception faite des articles pyrotechniques appartenant aux catégories P1, P2 et T2 et des artifices de divertissement de la catégorie 4 qui remplissent les critères suivants :
 
-a) Ni substances explosives commerciales à l'exception de la poudre noire ou de la composition lumineuse ;
+a) L'explosif détonant ne peut être extrait aisément de l'article pyrotechnique ;
 
-b) Ni explosifs militaires.
+b) En ce qui concerne la catégorie P1, l'article pyrotechnique ne peut fonctionner de manière détonante ni, de par sa conception et sa fabrication, entraîner l'amorçage d'explosifs secondaires ;
+
+c) En ce qui concerne les catégories 4, T2 et P2, l'article pyrotechnique est conçu et prévu pour ne pas fonctionner de manière détonante ou, s'il est conçu pour détoner, il ne peut entraîner, de par sa conception et sa fabrication, l'amorçage d'explosifs secondaires.
 
 5. Les divers groupes d'articles pyrotechniques satisfont au minimum aux prescriptions suivantes :
 
