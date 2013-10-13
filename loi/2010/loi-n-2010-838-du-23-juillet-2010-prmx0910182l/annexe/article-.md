@@ -203,6 +203,11 @@
 </td>
 </tr>
 <tr>
+<td align="center"> Président de la Haute Autorité pour la transparence de la vie publique<br/>
+</td>
+<td align="center"> Commission permanente compétente en matière de lois constitutionnelles</td>
+</tr>
+<tr>
 <td align="center">Président de l'Institut national de la recherche agronomique<br/>
 </td>
 <td align="center">Commission compétente en matière de recherche appliquée<br/>
