@@ -20,7 +20,7 @@ Elle comprend en outre, avec voix consultative, le Défenseur des droits ou son 
 
 La commission élit en son sein un président et deux vice-présidents, dont un vice-président délégué. Ils composent le bureau.
 
-La fonction de président de la commission est incompatible avec toute activité professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur des communications électroniques ou de l'informatique (1).
+La fonction de président de la commission est incompatible avec toute activité professionnelle,     tout autre emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur des communications électroniques ou de l'informatique (1).
 
 La durée du mandat de président est de cinq ans (1).
 
