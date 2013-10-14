@@ -240,7 +240,6 @@
 - [Arrêté du 4 novembre 2008 (DEVA0826285A)](arrete-du-4-novembre-2008-deva0826285a)
 - [Arrêté du 4 novembre 2008 (DEVA0826287A)](arrete-du-4-novembre-2008-deva0826287a)
 - [Arrêté du 4 octobre 2012 (AFSH1236023A)](arrete-du-4-octobre-2012-afsh1236023a)
-- [Arrêté du 4 octobre 2012 (AGRT1233913A)](arrete-du-4-octobre-2012-agrt1233913a)
 - [Arrêté du 4 octobre 2012 (DEFH1236332A)](arrete-du-4-octobre-2012-defh1236332a)
 - [Arrêté du 4 octobre 2012 (DEVR1236190A)](arrete-du-4-octobre-2012-devr1236190a)
 - [Arrêté du 4 octobre 2012 (DEVR1236956A)](arrete-du-4-octobre-2012-devr1236956a)
