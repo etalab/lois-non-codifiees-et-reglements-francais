@@ -33,3 +33,5 @@ Ont accès aux données contenues dans le RPPS, dans les conditions définies en
 15° Les organismes et établissements scientifiques ayant pour mission d'agir pour le développement et la diffusion des connaissances dans le domaine sanitaire et social.
 
 16° Les autres régimes d'assurance maladie obligatoire et les organismes complémentaires d'assurance maladie.
+
+17° Pour l'application de l'article L. 1453-1 du code de la santé publique, les entreprises produisant ou commercialisant des produits mentionnés à l'article L. 5311-1 du même code ou assurant des prestations associées à ces produits ainsi que les syndicats professionnels d'entreprises, dans les conditions prévues au 1° du I de l'article 3 du décret n° 2013-414 du 21 mai 2013 relatif à la transparence des avantages accordés par les entreprises produisant ou commercialisant des produits à finalités sanitaire et cosmétique destinés à l'homme.
