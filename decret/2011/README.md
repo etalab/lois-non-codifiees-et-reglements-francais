@@ -8,7 +8,6 @@
 - [Décret n°2011-627 du 3 juin 2011 (IOCC1109096D)](decret-n2011-627-du-3-juin-2011-iocc1109096d)
 - [Décret n°83-1033 du 3 décembre 1983](decret-n83-1033-du-3-decembre-1983)
 - [Décret n°2011-1780 du 5 décembre 2011 (AGRT1127650D)](decret-n2011-1780-du-5-decembre-2011-agrt1127650d)
-- [Décret n°2011-499 du 5 mai 2011 (ETSG1106721D)](decret-n2011-499-du-5-mai-2011-etsg1106721d)
 - [Décret n°2011-1808 du 6 décembre 2011 (AGRT1127613D)](decret-n2011-1808-du-6-decembre-2011-agrt1127613d)
 - [Décret n°2011-1809 du 6 décembre 2011 (AGRT1127619D)](decret-n2011-1809-du-6-decembre-2011-agrt1127619d)
 - [Décret n°2011-1810 du 6 décembre 2011 (AGRT1127652D)](decret-n2011-1810-du-6-decembre-2011-agrt1127652d)
