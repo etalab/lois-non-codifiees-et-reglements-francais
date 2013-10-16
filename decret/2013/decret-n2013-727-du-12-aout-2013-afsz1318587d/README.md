@@ -1,0 +1,11 @@
+# Décret n° 2013-727 du 12 août 2013 portant création, organisation et attributions d'un secrétariat général des ministères chargés des affaires sociales
+
+- [TITRE Ier : LE SECRÉTAIRE GÉNÉRAL ET LE SECRÉTARIAT GÉNÉRAL](titre-ier)
+- [TITRE II : DIRECTION DES RESSOURCES HUMAINES](titre-ii)
+- [TITRE III : DIRECTION DES FINANCES, DES ACHATS ET DES SERVICES](titre-iii)
+- [TITRE IV : DIRECTION DES SYSTÈMES D'INFORMATION](titre-iv)
+- [TITRE V : DIRECTION DES AFFAIRES JURIDIQUES](titre-v)
+- [TITRE VI : DÉLÉGATION AUX AFFAIRES EUROPÉENNES ET INTERNATIONALES](titre-vi)
+- [TITRE VII : DÉLÉGATION À L'INFORMATION ET À LA COMMUNICATION](titre-vii)
+- [TITRE VIII : DÉLÉGATION À LA STRATÉGIE DES SYSTÈMES D'INFORMATION DE SANTÉ](titre-viii)
+- [TITRE IX : DISPOSITIONS FINALES](titre-ix)

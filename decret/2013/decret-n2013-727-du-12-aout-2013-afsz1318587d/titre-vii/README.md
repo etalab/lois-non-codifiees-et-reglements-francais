@@ -1,0 +1,3 @@
+# TITRE VII : DÉLÉGATION À L'INFORMATION ET À LA COMMUNICATION
+
+- [Article 9](article-9.md)

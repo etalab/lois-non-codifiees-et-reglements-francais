@@ -257,6 +257,7 @@
 - [Décret n°2013-637 du 12 juillet 2013 (EFIT1316700D)](decret-n2013-637-du-12-juillet-2013-efit1316700d)
 - [Décret n°2013-723 du 12 août 2013 (INTD1316640D)](decret-n2013-723-du-12-aout-2013-intd1316640d)
 - [Décret n°2013-724 du 12 août 2013 (INTD1306277D)](decret-n2013-724-du-12-aout-2013-intd1306277d)
+- [Décret n°2013-727 du 12 août 2013 (AFSZ1318587D)](decret-n2013-727-du-12-aout-2013-afsz1318587d)
 - [Décret n°2013-728 du 12 août 2013 (INTA1319026D)](decret-n2013-728-du-12-aout-2013-inta1319026d)
 - [Décret n°2013-729 du 12 août 2013 (MENF1315804D)](decret-n2013-729-du-12-aout-2013-menf1315804d)
 - [Décret n°2013-731 du 12 août 2013 (EFIE1302790D)](decret-n2013-731-du-12-aout-2013-efie1302790d)
