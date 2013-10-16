@@ -324,7 +324,6 @@
 - [Arrêté du 5 mai 2011 (DEVD1110810A)](arrete-du-5-mai-2011-devd1110810a)
 - [Arrêté du 5 mai 2011 (DEVR1113398A)](arrete-du-5-mai-2011-devr1113398a)
 - [Arrêté du 5 mai 2011 (ESRS1112776A)](arrete-du-5-mai-2011-esrs1112776a)
-- [Arrêté du 5 mai 2011 (ETSG1106731A)](arrete-du-5-mai-2011-etsg1106731a)
 - [Arrêté du 5 mai 2011 (ETSH1112696A)](arrete-du-5-mai-2011-etsh1112696a)
 - [Arrêté du 5 mai 2011 (ETSP1112336A)](arrete-du-5-mai-2011-etsp1112336a)
 - [Arrêté du 5 mai 2011 (MAEA1111240A)](arrete-du-5-mai-2011-maea1111240a)

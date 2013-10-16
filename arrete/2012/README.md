@@ -2019,7 +2019,6 @@
 - [Arrêté du 22 février 2012 (AGRT1205389A)](arrete-du-22-fevrier-2012-agrt1205389a)
 - [Arrêté du 22 février 2012 (EFIT1205992A)](arrete-du-22-fevrier-2012-efit1205992a)
 - [Arrêté du 22 février 2012 (ESRH1204076A)](arrete-du-22-fevrier-2012-esrh1204076a)
-- [Arrêté du 22 février 2012 (ETSZ1205848A)](arrete-du-22-fevrier-2012-etsz1205848a)
 - [Arrêté du 22 février 2012 (IOCA1205688A)](arrete-du-22-fevrier-2012-ioca1205688a)
 - [Arrêté du 22 juillet 2011 (MENE1120556A)](arrete-du-22-juillet-2011-mene1120556a)
 - [Arrêté du 22 juillet 2011 (MENE1120601A)](arrete-du-22-juillet-2011-mene1120601a)

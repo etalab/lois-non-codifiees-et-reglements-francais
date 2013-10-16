@@ -522,7 +522,6 @@
 - [Arrêté du 8 juin 2009 (JUSB0913010A)](arrete-du-8-juin-2009-jusb0913010a)
 - [Arrêté du 8 juin 2009 (JUSB0913016A)](arrete-du-8-juin-2009-jusb0913016a)
 - [Arrêté du 8 juin 2009 (JUSB0913018A)](arrete-du-8-juin-2009-jusb0913018a)
-- [Arrêté du 8 juin 2009 (SASG0908214A)](arrete-du-8-juin-2009-sasg0908214a)
 - [Arrêté du 8 mars 1999 (DEFD9901213A)](arrete-du-8-mars-1999-defd9901213a)
 - [Arrêté du 8 octobre 2009 (BCFS0923612A)](arrete-du-8-octobre-2009-bcfs0923612a)
 - [Arrêté du 8 octobre 2009 (BCFS0923636A)](arrete-du-8-octobre-2009-bcfs0923636a)
