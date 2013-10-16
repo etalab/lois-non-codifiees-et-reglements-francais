@@ -14,6 +14,8 @@ Belgique
 
 2° Diploma in de ziekenhuisverpleegkunde/Brevet d'infirmier(ère) hospitalier(ère)/Brevet eines (einer) Krankenpflegers (pflegerin), délivré par De bevoegde Examencommissie van de Vlaamse Gemeenschap/le jury compétent d'enseignement de la Communauté française/der zuständige "Prüfungsausschuss der Deutschsprachigen Gemeinschaft" postérieurement au 1er juin 1961.
 
+Croatie
+
 1° Svjedodžba medicinska sestra opce njege/ medicinski tehnicar opce njege, délivré par Srednje strukovne škole koje izvode program za stjecanje kvalifikacije medicinska sestra opce njege/ medicinski tehnicar opce njege postérieurement au 1er juillet 2013.
 
 2° Svjedodžba prvostupnik (baccalaureus) sestrinstva/ prvostupnica (baccalaurea) sestrinstva, délivré par Medicinski fakulteti sveucilišta u Republici Hrvatskoj, ou par Sveucilišta u Republici Hrvatskoj, ou par Veleucilišta u Republici Hrvatskoj postérieurement au 1er juillet 2013.
