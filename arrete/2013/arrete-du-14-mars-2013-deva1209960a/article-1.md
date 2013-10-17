@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article 12 du règlement (UE) n° 1178/2011 susvisé et de l'article 2 du règlement (UE) n° 290/2012 susvisé les dispositions suivantes du règlement (UE) n° 1178/2011 susvisé sont applicables à compter du 8 avril 2015 :
+En application de l'article 12 du règlement (UE) n° 1178/2011 susvisé et de l'article 2 du règlement (UE) n° 290/2012 susvisé les dispositions suivantes du règlement (UE) n° 1178/2011 susvisé       sont applicables au plus tard le 8 avril 2015 :
 
 1° Le paragraphe FCL 820 (Qualification pour les essais en vol) de l'annexe I (Partie FCL) ;
 
