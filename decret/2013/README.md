@@ -329,6 +329,8 @@
 - [Décret n°2013-54 du 15 janvier 2013 (VILV1238757D)](decret-n2013-54-du-15-janvier-2013-vilv1238757d)
 - [Décret n°2013-624 du 15 juillet 2013 (AFSS1303672D)](decret-n2013-624-du-15-juillet-2013-afss1303672d)
 - [Décret n°2013-625 du 15 juillet 2013 (DEVL1242028D)](decret-n2013-625-du-15-juillet-2013-devl1242028d)
+- [Décret n°2013-919 du 15 octobre 2013 (EFIT1310958D)](decret-n2013-919-du-15-octobre-2013-efit1310958d)
+- [Décret n°2013-920 du 15 octobre 2013 (TRAT1310276D)](decret-n2013-920-du-15-octobre-2013-trat1310276d)
 - [Décret n°72-483 du 15 juin 1972](decret-n72-483-du-15-juin-1972)
 - [Décret n°2013-399 du 15 mai 2013 (AFSS1306651D)](decret-n2013-399-du-15-mai-2013-afss1306651d)
 - [Décret n°2001-53 du 16 janvier 2001 (DEFP0002358D)](decret-n2001-53-du-16-janvier-2001-defp0002358d)
