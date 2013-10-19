@@ -16,4 +16,6 @@ Concarneau.
 
 Lorient.
 
+Loctudy.
+
 Saint-Jean-de-Luz.
