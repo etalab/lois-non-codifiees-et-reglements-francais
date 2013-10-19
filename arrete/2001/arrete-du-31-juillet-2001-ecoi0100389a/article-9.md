@@ -1,35 +1,31 @@
 # Article 9
 
-Chaque contrat d'achat comporte les dispositions relatives à l'indexation des tarifs qui lui sont applicables. Pour tous les éléments constituant les tarifs, à l'exception du terme de rémunération du gaz, cette indexation s'effectue annuellement au premier novembre par l'application du coefficient L défini ci-après :
+Chaque contrat d'achat comporte les dispositions relatives à l'indexation de la prime fixe définie aux annexes 2 ou 3 ainsi que du terme de rémunération proportionnelle (RP) défini au 1° de l'annexe 1 et de la prime à l'efficacité énergétique défini au 3° de l'annexe 1. Cette indexation s'effectue annuellement au 1er novembre par l'application du coefficient L défini ci-après :
 
-L = 0,2 + 0,6 (_ICHTTS / ICHTTS)_
-_+ 0,2 (LA/LA_
-_0_
-_)_
+L = 0,2 + 0,6 (ICHTrev-TS-IME / ICHTTS1o) + 0,2 (IA/IAo)
 
-formule dans laquelle :
+Formule dans laquelle :
 
-1° - ICHTTS1 est la dernière valeur connue au premier novembre de chaque année de l'indice du coût horaire du travail (tous salariés) dans les industries mécaniques et électriques,
+1° ICHTrev-TS1-IME est la dernière valeur connue au 1er novembre de chaque année de l'indice du coût horaire du travail révisé (tous salariés) dans les industries mécaniques et électriques ;
 
-2° - Avant le 15 novembre 2004, IA = PsdA, où PsdA est la dernière valeur connue au premier novembre de chaque année de l'indice des produits et services divers A.
+2° Avant le 15 novembre 2004, IA = PsdA, où PsdA est la dernière valeur connue au 1er novembre de chaque année de l'indice des produits et services divers A.
 
 Après le 15 novembre 2004 :
 
-LA = (0,65 _PPEI /PPEI<sub/>_
-_<sub>0704</sub>_
-_+ 0,35 (TCH/ TCH_
-_<sub>0704</sub> ) x_
-_PsdA_
-_<sub>0704</sub>_
+IA = (0,65 FM0ABE0000/PPEI<sub>0704</sub> + 0,35 (TCH/ TCH<sub>0704</sub>)) × PsdA<sub>0704</sub>)
 
-formule dans laquelle :
+Formule dans laquelle :
 
-a) TCH est la dernière valeur connue au 1er novembre de l'indice des services de transport, communications et hôtellerie, cafés, restauration ;
+a) TCH est la dernière valeur connue au 1er novembre de chaque année de l'indice des services de transport, communications et hôtellerie, cafés, restauration ;
 
-b) PPEI est la valeur définitive de la dernière valeur connue au 1er novembre de l'indice des prix à la production de l'industrie et des services aux entreprises pour l'ensemble de l'industrie (marché français) ;
+b) FM0ABE0000 est la dernière valeur connue au 1er novembre de chaque année de l'indice des prix à la production de l'industrie française pour la série marché français - ensemble de l'industrie - A10 BE - prix départ usine ;
 
-c) PPEI_<sub>0704</sub>_ ,TCH<sub>0704 </sub>sont les valeurs définitives des indices pour le mois de juillet 2004 ;
+c) TCH<sub>0704</sub> est la valeur définitive de l'indice des services de transport, communications et hôtellerie, cafés, restauration pour le mois de juillet 2004, après division par le coefficient adéquat (soit 112,3 au 1er septembre 2013) ;
 
-d) PsdA<sub>0704 </sub>est la valeur de l'indice des produits et services divers A pour le mois de juillet 2004.
+d) PPEI<sub>0704</sub> est la valeur définitive de l'indice PPEI pour le mois de juillet 2004, après division par les valeurs des coefficients de raccordement adéquats (soit 89,6 au 1er septembre 2013) ;
 
-3° - ICHTTS1o et IAo sont les dernières valeurs connues à la date de signature du contrat d'achat.
+e) PsdA<sub>0704</sub> est la valeur de l'indice des produits et services divers A pour le mois de juillet 2004 ;
+
+3° a) IAo est la dernière valeur de IA connue à la date de prise d'effet du contrat d'achat ;
+
+b) ICHTTS1o est la dernière valeur de l'indice ICHTTS1 ou de l'indice ICHTrev-TS-IME connue à la date de prise d'effet du contrat d'achat.

@@ -2,22 +2,16 @@
 
 L'installation du producteur est décrite dans le contrat d'achat, qui précise ses caractéristiques principales :
 
-1. Nombre et type de générateurs ;
+1. Nombre et types de générateurs.
 
-2. Puissance électrique maximale installée ;
+2. Puissance électrique maximale installée.
 
-3. Puissance électrique active maximale de fourniture (puissance électrique maximale produite par l'installation et fournie à l'acheteur) et, le cas échéant, puissance électrique active maximale d'autoconsommation (puissance électrique maximale produite par l'installation et consommée par le producteur pour ses besoins propres) ;
+3. Point de livraison.
 
-4. Productibilité moyenne annuelle estimée (quantité d'énergie électrique que l'installation est susceptible de produire en moyenne sur une période d'un an) ;
+4. Tension de livraison.
 
-5. Fourniture moyenne annuelle estimée (quantité d'énergie électrique que le producteur est susceptible de fournir à l'acheteur en moyenne sur une période d'un an) et, le cas échéant, autoconsommation moyenne annuelle estimée (quantité d'énergie électrique que le producteur est susceptible de consommer pour ses besoins propres en moyenne sur une période d'un an) ;
+5. Puissance électrique garantie en hiver.
 
-6. Point de livraison ;
+6. Zone de desserte en gaz à laquelle est raccordée l'installation (Nord H, Nord B, Sud et TIGF). Elle est attestée par une copie du contrat de raccordement avec le gestionnaire de réseau de transport ou de distribution de gaz communiquée à l'acheteur ou, à défaut, une attestation produite par le gestionnaire de réseau auquel l'installation est raccordée.
 
-7. Tension de livraison ;
-
-8. Les durées de fonctionnement envisagées en été et en hiver ;
-
-9. La puissance électrique garantie en hiver ;
-
-10. La puissance thermique produite et la quantité de chaleur moyenne annuelle produite estimée.
+7. Adresse de l'installation.
