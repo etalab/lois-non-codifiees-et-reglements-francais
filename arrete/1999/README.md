@@ -376,7 +376,6 @@
 - [Arrêté du 19 novembre 1999 (EQUT9901625A)](arrete-du-19-novembre-1999-equt9901625a)
 - [Arrêté du 19 octobre 1999 (AGRG9902168A)](arrete-du-19-octobre-1999-agrg9902168a)
 - [Arrêté du 19 octobre 1999 (EQUA9901215A)](arrete-du-19-octobre-1999-equa9901215a)
-- [Arrêté du 19 octobre 1999 (EQUA9901484A)](arrete-du-19-octobre-1999-equa9901484a)
 - [Arrêté du 19 octobre 1999 (MENF9901994A)](arrete-du-19-octobre-1999-menf9901994a)
 - [Arrêté du 19 mai 1999 (ATEN9980221A)](arrete-du-19-mai-1999-aten9980221a)
 - [Arrêté du 19 mai 1999 (ECOT9910371A)](arrete-du-19-mai-1999-ecot9910371a)
