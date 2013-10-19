@@ -155,14 +155,17 @@
 <br/>
 <br/>
 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-<br/>
 <br/>
 </td>
 <td align="left" valign="top">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
 <br/>
 <br/>
 <br/>
@@ -189,6 +192,7 @@
 <td/>
 <td>
 <br/>
+<br/>
 </td>
 <td/>
 <td/>
@@ -209,6 +213,7 @@
 <tr>
 <td/>
 <td>
+<br/>
 <br/>
 </td>
 <td/>
@@ -231,6 +236,7 @@
 <td/>
 <td>
 <br/>
+<br/>
 </td>
 <td/>
 <td/>
@@ -251,6 +257,7 @@
 <tr>
 <td/>
 <td>
+<br/>
 <br/>
 </td>
 <td/>
@@ -273,10 +280,12 @@
 <td/>
 <td>
 <br/>
+<br/>
 </td>
 <td/>
 <td/>
 <td>
+<br/>
 <br/>
 </td>
 <td colspan="4">
@@ -426,6 +435,42 @@
 <p>- dans une boîte ménageant une ou des ouvertures inférieures ou égales à 11 × 11 cm ;</p>
 <p>- en gueule de terrier et dans les bottes de paille et de foin ;</p>
 <p>- au bois, dans une enceinte ménageant une ou des ouvertures d'une largeur inférieure ou égale à 15 cm.</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center">15<br/>
+</td>
+<td>Piège "livre de messe" type "tapette" <br/>
+</td>
+<td>Etablissement MCL 59136 Wavrin<br/>
+</td>
+<td>Piège "TRM"<br/>
+<br/>
+</td>
+<td>Piège fermé :<p>Longueur 27 cm</p>
+<p>Largeur 17 cm</p>
+<p>Hauteur 5 cm</p>
+<p>Piège ouvert :</p>
+<p>Hauteur 10 cm</p>
+<br/>
+</td>
+<td align="center" colspan="2">917<br/>
+<br/>
+</td>
+<td>Conforme au descriptif adressé au ministère chargé de la chasse<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td colspan="4">1° Dans les marais et jusqu'à 200 m des cours d'eau, des étangs ou des marais uniquement avec appât végétal, pour le piégeage des rats musqués ;<p>2° A plus de 200 m des cours d'eau, des étangs ou des marais :</p>
+<p>- en gueule de terrier et dans les bottes de paille et de foin ;</p>
+<p>- au bois, dans une enceinte ménageant une ou des ouvertures d'une largeur inférieure ou égale à 15 cm ;</p>
+<p>- dans une boîte ménageant une ou des ouvertures inférieures ou égales à 11 x 11 cm.</p>
 </td>
 </tr>
 <tr>
@@ -660,6 +705,7 @@
 <td/>
 <td>
 <br/>
+<br/>
 </td>
 <td/>
 <td/>
@@ -801,8 +847,10 @@
 </td>
 <td align="center" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -882,20 +930,26 @@
 <td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top"/>
@@ -906,15 +960,19 @@
 <td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" colspan="2" valign="top"/>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2309,6 +2367,7 @@
 <td align="left" rowspan="3" valign="top">
 <br/>
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="center">cadre = 22cmx22cm ouverture 18cmx17 cm</p>
@@ -2341,6 +2400,7 @@
 </td>
 <td align="left" rowspan="3" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="center">145cmx165cm</p>
@@ -2349,6 +2409,7 @@
 <p align="center">913</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2512,6 +2573,7 @@
 </td>
 <td align="left" rowspan="2" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" rowspan="2" valign="top">
 <p align="center">
@@ -2525,6 +2587,7 @@
 <p align="center">915</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>

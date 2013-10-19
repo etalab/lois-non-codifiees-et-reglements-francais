@@ -57,11 +57,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="78" valign="top" width="15">
+<td rowspan="79" valign="top" width="15">
 <br/>
 <br/>
 </td>
-<td rowspan="78" valign="top" width="91"/>
+<td rowspan="79" valign="top" width="91"/>
 <td colspan="7">
 <p align="center">Caractères variant selon les modèles</p>
 <p>1. Dimensions :</p>
@@ -1432,6 +1432,16 @@
 </td>
 </tr>
 <tr>
+<td align="center"> 49</td>
+<td>Etablissement MCL 59136 Wavrin </td>
+<td/>
+<td colspan="2">Diamètre du lacet = 3 mm </td>
+<td align="center" colspan="2"> 781</td>
+<td colspan="2">a) Patte anti retour<p>b), c), d) Bagues métalliques serties</p>
+<p>e) Le collet dispose d'un double émerillon près de la butée d'ouverture </p>
+</td>
+</tr>
+<tr>
 <td valign="top">
 <p align="center">4</p>
 </td>
@@ -2045,6 +2055,51 @@
 <td align="left" colspan="2" valign="top"/>
 <td align="left" colspan="2" valign="top">
 <p align="left">Piège rond à déclenchement par une palette.</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center"> 18</td>
+<td>Piège à lacet de cou<br/>
+</td>
+<td>Etablissement MCL 59136 Wavrin<br/>
+</td>
+<td>Piège "Collarum"<br/>
+</td>
+<td colspan="2">Dimension du dispositif métallique déclenché :<p>30 × 25 cm</p>
+<p>Diamètre du collet : 8 mm</p>
+</td>
+<td align="center" colspan="2">827<br/>
+</td>
+<td colspan="2"> Ce piège est formé de trois parties : un dispositif métallique armé d'un bras à deux branches, un collet avec arrêtoir muni d'un amortisseur près de l'émerillon et un ressort permettant d'enserrer le lacet autour du cou.<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center"> 19</td>
+<td>Piège à lacet de patte<br/>
+</td>
+<td>Claude Roques, 27, Les Martels, 81240 Saint-Amans-Soult</td>
+<td>Piège "Maroq"<br/>
+</td>
+<td colspan="2">Dimension du piège tendu : 23 × 15 cm<p>Diamètre de la palette : 5 cm</p>
+</td>
+<td align="center" colspan="2"> 828</td>
+<td colspan="2">Piège à déclenchement par une palette projetant le lacet par un bras <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center"> 20</td>
+<td>Piège à lacet de patte<br/>
+</td>
+<td>André Maruejouls, La Grange Réauté, 35235 Thorigné-Fouillard<br/>
+</td>
+<td>Piège "Maruejouls" </td>
+<td colspan="2">Dimension du piège tendu : 27 × 8,5 cm<p>Dimension de la palette : 6,5 × 7 cm</p>
+</td>
+<td align="center" colspan="2"> 829</td>
+<td colspan="2">Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort<br/>
 </td>
 </tr>
 <tr>
