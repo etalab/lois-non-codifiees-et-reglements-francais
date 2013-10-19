@@ -137,7 +137,6 @@
 - [Arrêté du 6 janvier 1998 (DEFT9702258A)](arrete-du-6-janvier-1998-deft9702258a)
 - [Arrêté du 6 janvier 1998 (MCCB9800003A)](arrete-du-6-janvier-1998-mccb9800003a)
 - [Arrêté du 6 janvier 1998 (MENP9703797A)](arrete-du-6-janvier-1998-menp9703797a)
-- [Arrêté du 6 juillet 1998 (ECOC9800057A)](arrete-du-6-juillet-1998-ecoc9800057a)
 - [Arrêté du 6 juillet 1998 (EQUR9800810A)](arrete-du-6-juillet-1998-equr9800810a)
 - [Arrêté du 6 juin 1998 (ECOT9826219A)](arrete-du-6-juin-1998-ecot9826219a)
 - [Arrêté du 6 juin 1998 (ECOT9826220A)](arrete-du-6-juin-1998-ecot9826220a)

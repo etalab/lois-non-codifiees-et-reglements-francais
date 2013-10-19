@@ -1,3 +1,0 @@
-# TEMPERATURES MAXIMALES DE CONSERVATION DES DENREES ALIMENTAIRES.
-
-- [Article Annexe I](article-annexe-i.md)

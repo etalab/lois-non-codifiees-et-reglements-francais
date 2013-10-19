@@ -354,7 +354,6 @@
 - [Arrêté du 9 mai 1995 (BUDL9500040A)](arrete-du-9-mai-1995-budl9500040a)
 - [Arrêté du 9 mai 1995 (DOMP9500034A)](arrete-du-9-mai-1995-domp9500034a)
 - [Arrêté du 9 mai 1995 (ECOC9500015A)](arrete-du-9-mai-1995-ecoc9500015a)
-- [Arrêté du 9 mai 1995 (ECOC9500071A)](arrete-du-9-mai-1995-ecoc9500071a)
 - [Arrêté du 9 mai 1995 (EQUV9500912A)](arrete-du-9-mai-1995-equv9500912a)
 - [Arrêté du 9 mai 1995 (INDP9500606A)](arrete-du-9-mai-1995-indp9500606a)
 - [Arrêté du 9 mai 1995 (INDP9500607A)](arrete-du-9-mai-1995-indp9500607a)
