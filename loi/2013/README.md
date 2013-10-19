@@ -36,3 +36,4 @@
 - [LOI n°2013-712 du 5 août 2013 (EFIX1312736L)](loi-n2013-712-du-5-aout-2013-efix1312736l)
 - [LOI n°2013-869 du 27 septembre 2013 (AFSX1317654L)](loi-n2013-869-du-27-septembre-2013-afsx1317654l)
 - [LOI n°2013-907 du 11 octobre 2013 (PRMX1309699L)](loi-n2013-907-du-11-octobre-2013-prmx1309699l)
+- [LOI n°2013-921 du 17 octobre 2013 (INTX1303213L)](loi-n2013-921-du-17-octobre-2013-intx1303213l)
