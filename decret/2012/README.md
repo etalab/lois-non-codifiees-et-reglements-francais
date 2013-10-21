@@ -598,6 +598,7 @@
 - [Décret n°2012-539 du 20 avril 2012 (ETSD1203564D)](decret-n2012-539-du-20-avril-2012-etsd1203564d)
 - [Décret n°2012-540 du 20 avril 2012 (AGRT1208906D)](decret-n2012-540-du-20-avril-2012-agrt1208906d)
 - [Décret n°2012-541 du 20 avril 2012 (VILV1205119D)](decret-n2012-541-du-20-avril-2012-vilv1205119d)
+- [Décret n°2012-65 du 20 janvier 2012 (DEFH1127347D)](decret-n2012-65-du-20-janvier-2012-defh1127347d)
 - [Décret n°2012-897 du 20 juillet 2012 (FRAX1228206D)](decret-n2012-897-du-20-juillet-2012-frax1228206d)
 - [Décret n°2012-898 du 20 juillet 2012 (FEFX1228645D)](decret-n2012-898-du-20-juillet-2012-fefx1228645d)
 - [Décret n°2012-899 du 20 juillet 2012 (MENH1220348D)](decret-n2012-899-du-20-juillet-2012-menh1220348d)
