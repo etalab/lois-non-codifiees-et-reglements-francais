@@ -1,6 +1,6 @@
 # Article 8
 
-En application de l'article 54 du décret du 5 juillet 1973 susvisé, le président du conseil d'administration du Centre national de l'enseignement professionnel notarial convoque les candidats par lettre recommandée, avec demande d'avis de réception, à date fixe, en un lieu déterminé au moins quinze jours à l'avance.
+En application de l'article 54 du décret du 5 juillet 1973 susvisé, le président du conseil d'administration du Centre national de l'enseignement professionnel notarial convoque les candidats par lettre recommandée, avec demande d'avis de réception ou tout autre moyen équivalent, à date fixe, en un lieu déterminé au moins quinze jours à l'avance.
 
 Les candidats qui ne sont ni présents ni représentés à cette date sont réputés renoncer au bénéfice de l'examen de classement. S'il y a lieu, la représentation résulte d'un mandat authentique.
 
