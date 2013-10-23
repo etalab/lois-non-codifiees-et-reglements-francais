@@ -1,1446 +1,1127 @@
 # Article 
 
-REMUNERATION DES JURYS ET COMMISSIONS DES CONCOURS ET TRECRUTEMENTS
+RÉMUNÉRATION DES JURYS ET COMMISSIONS DES CONCOURS ET RECRUTEMENTS
+
+RÉMUNÉRATION DES JURYS DE VALIDATION ET COMMISSIONS DES CONCOURS ET RECRUTEMENTS
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="130">
-<p align="center">Concours ou examens</p>
+<td rowspan="2" width="189">
+<p align="center">CONCOURS OU EXAMENS</p>
 </td>
-<td rowspan="2" width="59">
-<p align="center">Catégorie</p>
+<td rowspan="2" width="95">
+<p align="center">CATEGORIE</p>
 </td>
-<td rowspan="2" width="130">
-<p align="center">Epreuves</p>
+<td colspan="2">
+<p align="center">TARIFS</p>
 </td>
-<td colspan="2" width="132">
-<p align="center">Tarifs</p>
+<td rowspan="2" width="95">
+<p align="center">REUNIONS</p>
 </td>
-<td rowspan="2" width="166">
-<p align="center">Réunions</p>
-</td>
-<td rowspan="2" width="64">
+<td rowspan="2" width="95">
 <p align="center">FORFAIT</p>
 </td>
 </tr>
 <tr>
-<td width="61">
-<p align="center">Écrits</p>
+<td>
+<p align="center">Écrits (par épreuve, et par copie corrigée)</p>
 </td>
-<td width="71">
-<p align="center">Oraux/Heure</p>
+<td>
+<p align="center">Oraux/ heure<br/>Examen des dossiers RAEP/heure</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Concours de conseillers<br/>techniques de service social<br/>(SG)</p>
+<td width="189">
+<p>Certificat d'aptitude aux fonctions de commissaire aux comptes</p>
 </td>
-<td width="59">
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">8, 00 €</p>
+</td>
+<td width="95">
+<p align="center">35, 00 €</p>
+</td>
+<td width="95">
+<p>Préparation de l'épreuve technique</p>
+</td>
+<td width="95">
+<p align="center">300, 00 €</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Epreuve d'aptitude aux fonctions de commissaire aux comptes</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">8, 00 €</p>
+</td>
+<td width="95">
+<p align="center">35,00 €</p>
+</td>
+<td width="95">
+<p>Sans objet</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Certificat préparatoire aux fonctions de commissaire aux comptes</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">6, 00 €</p>
+</td>
+<td width="95">
+<p align="center">35,00 €</p>
+</td>
+<td width="95">
+<p>Sans objet</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Examen d'accès au stage professionnel d'administrateur judiciaire</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">6,00 €</p>
+</td>
+<td width="95">
+<p align="center">35,00 €</p>
+</td>
+<td width="95">
+<p>Sans objet</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Examen d'accès au stage professionnel de mandataire judiciaire</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">6,00 €</p>
+</td>
+<td width="95">
+<p align="center">35,00 €</p>
+</td>
+<td width="95">
+<p>Sans objet</p>
+</td>
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="189">
+<p>Examen d'aptitude aux fonctions d'administrateur judiciaire ou épreuve écrite de l'article 108 du décret du 10/06/2004 modifié par le décret n°2006-1709 du 23/12/2006.</p>
+</td>
+<td rowspan="2" width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">8,00 €</p>
+</td>
+<td rowspan="2" width="95">
+<p align="center">35,00 €</p>
+</td>
+<td rowspan="2" width="95">
+<p>Sans objet</p>
+</td>
+<td rowspan="2" width="95">
+<p align="center">Sans objet</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">Lecture d'un mémoire : <br/>25,00 €</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="189">
+<p>Examen d'aptitude aux fonctions de mandataire judiciaire ou épreuve de l'article 108 du décret du 10/06/2004 modifié par le décret n°2006-1709 du 23/12/2006.</p>
+</td>
+<td rowspan="2" width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
+<p align="center">8,00 €</p>
+</td>
+<td rowspan="2" width="95">
+<p align="center">35,00 €</p>
+</td>
+<td rowspan="2" width="95">
+<p>Sans objet</p>
+</td>
+<td rowspan="2" width="95">
+<p align="center">Sans objet</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">Lecture d'un mémoire : <br/>25,00 €</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Concours des greffiers en chef des services judiciaires (DSJ)</p>
+</td>
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>rédaction d'une note</p>
-</td>
-<td width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">4,00 €</p>
 </td>
-<td width="71">
+<td nowrap="nowrap" width="95">
 <p align="center">15,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>réunion de cadrage</p>
-<p>préparation des sujets écrits</p>
-<p>distribution des copies</p>
-<p>admissibilité</p>
-<p>préparation des oraux</p>
-<p>admission</p>
-<p>rapport président du jury</p>
+<td width="95">
+<p>- Elaboration des sujets écrits et des grilles de correction<br/>- Distribution des copies<br/>- Admissibilité<br/>- Elaboration des sujets oraux et des grilles d'évaluation <br/>- Admission<br/>- Journées de formation <br/>- Bilan du concours par le président de jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" width="130">
-<p align="center">Greffiers en chef<br/>des services judiciaires</p>
+<td rowspan="2" width="189">
+<p>Concours des directeurs des services pénitentiaires (DAP)</p>
 </td>
-<td rowspan="5" width="59">
+<td rowspan="2" width="95">
 <p align="center">A</p>
 </td>
-<td valign="top" width="130">
-<p>note de synthèse</p>
-</td>
-<td valign="top" width="61">
+<td width="95">
 <p align="center">4,00 €</p>
 </td>
-<td rowspan="5" width="71">
+<td width="95">
 <p align="center">15,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td rowspan="2" width="95">
+<p>- Elaboration des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux</p>
+<p>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td rowspan="5" width="64">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="130">
-<p>culture générale</p>
-</td>
-<td valign="top" width="61">
-<p align="center">4,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>distribution copies</p>
+<td colspan="2">
+<p align="center">Correction des tests psychologiques : <br/>10 € par candidat</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="130">
-<p>composition de droit</p>
+<td rowspan="2" width="189">
+<p>Concours des directeurs d'insertion et de probation (DAP)</p>
 </td>
-<td valign="top" width="61">
-<p align="center">4,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>admissibilité + préparation oraux</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>questions portant sur le droit constitutionnel, le droit administratif et le droit judiciaire privé</p>
-</td>
-<td width="61">
-<p align="center">4,00 €</p>
-</td>
-<td width="166">
-<p>admission</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>épreuves écrites facultatives</p>
-</td>
-<td valign="top" width="61">
-<p align="center">3,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" width="130">
-<p align="center">Directeurs<br/>des services pénitentiaires</p>
-</td>
-<td rowspan="4" width="59">
+<td rowspan="2" width="95">
 <p align="center">A</p>
 </td>
-<td valign="top" width="130">
-<p>Epreuve de culture générale</p>
-</td>
-<td valign="top" width="61">
+<td width="95">
 <p align="center">3,00 €</p>
 </td>
-<td rowspan="4" width="71">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">15,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td rowspan="2" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td rowspan="4" width="64">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="130">
-<p>note de synthèse</p>
-</td>
-<td valign="top" width="61">
-<p align="center">3,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>distribution copies</p>
-</td>
+<td>Epreuve à caractère technique : 4 €</td>
 </tr>
 <tr>
-<td valign="top" width="130">
-<p>épreuve de QRC</p>
+<td rowspan="2" width="189">
+<p>Concours des directeurs techniques (DAP)</p>
 </td>
-<td valign="top" width="61">
-<p align="center">4,00 €</p>
-</td>
-<td rowspan="2" valign="top" width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="190">
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="4" width="130">
-<p align="center">Directeurs d'insertion<br/>et e probation</p>
-</td>
-<td rowspan="4" width="59">
+<td rowspan="2" width="95">
 <p align="center">A</p>
 </td>
-<td valign="top" width="130">
-<p>Epreuve de culture générale</p>
-</td>
-<td valign="top" width="61">
-<p align="center">3,00 €</p>
-</td>
-<td rowspan="4" width="71">
-<p align="center">15,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-</td>
-<td rowspan="4" width="64">
-<p align="center">70,00 €</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>note de synthèse</p>
-</td>
-<td valign="top" width="61">
-<p align="center">3,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>distribution copies</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td valign="top" width="61">
-<p align="center">4,00 €</p>
-</td>
-<td rowspan="2" valign="top" width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="190">
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="130">
-<p align="center">Directeurs techniques<br/>(DAP)</p>
-</td>
-<td rowspan="3" width="59">
-<p align="center">A</p>
-</td>
-<td valign="top" width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td valign="top" width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">5,00 €</p>
 </td>
-<td rowspan="3" width="71">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">15,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td rowspan="2" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides</p>
+<p>- Distribution des copies</p>
+<p>- Admissibilité</p>
+<p>- Préparation des oraux</p>
+<p>- Admission</p>
+<p>- Bilan du concours par le président du jury</p>
 </td>
-<td rowspan="3" width="64">
+<td rowspan="2" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="130">
-<p>épreuve de QRC</p>
-</td>
-<td rowspan="2" valign="top" width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">4,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>distribution copies</p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="130"/>
-<td valign="top" width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="189">
+<p>Concours des psychologues (DPJJ)</p>
 </td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Psychologue (DPJJ)</p>
-</td>
-<td width="59">
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">4,95 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">33,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Directeur de la protection judiciaire de la jeunesse</p>
+<td width="189">
+<p>Concours des directeurs de la protection judiciaire de la jeunesse (DPJJ)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,50 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">15,00 €</p>
 </td>
-<td valign="top" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jur</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">CSE<br/>(chef de service éducatif)</p>
+<td width="189">
+<p>Concours des chefs de service éducatifs (DPJJ)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,50 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">15,00 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examen professionnel<br/>pour l'accès<br/>au grade d'attaché principal<br/>d'administration</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au grade d'attaché principal</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130"/>
-<td width="61">
-<br/>
+<td width="95">
+<p align="center">Sans objet</p>
 </td>
-<td width="71">
+<td nowrap="nowrap" width="95">
 <p align="center">15,00 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>préparation des oraux</p>
-<p>admission</p>
-<p>rapport président du jury</p>
+<td width="95">
+<p>- Réunion de cadrage<br/>- Préparation des oraux<br/>- Admission<br/>- Rapport du président du jury</p>
 </td>
-<td width="64">
-<p>70,00 €</p>
+<td nowrap="nowrap" width="95">
+<p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examen professionnel<br/>pour l'accès au 1er grade<br/>des greffiers en chef<br/>des services judiciaires (A1)</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au premier grade des greffiers en chef des services judiciaires (A1) (DSJ)</p>
 </td>
-<td width="59">
+<td nowrap="nowrap" width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>rédaction d'une note à partir d'un dossier comportant une ou plusieurs questions de mise en situation professionnelle</p>
-</td>
-<td width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">4,00 €</p>
 </td>
-<td width="71">
+<td nowrap="nowrap" width="95">
 <p align="center">15,00 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Elaboration des sujets écrits et des grilles de correction<br/>- Distribution des copies<br/>- Préparation des oraux<br/>et des grilles d'évaluation <br/>- Admission<br/>- Journées de formation <br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="130">
-<p align="center">Examen professionnel<br/>pour l'accès<br/>au corps des directeurs<br/>des services pénitentiaires</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au corps des directeurs des services pénitentiaires (DAP)</p>
 </td>
-<td rowspan="3" width="59">
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>note de synthèse</p>
+<td nowrap="nowrap" width="95">
+<p align="center">4,00 €</p>
 </td>
-<td width="61">
-<p align="center">3,00 €</p>
-</td>
-<td rowspan="3" width="71">
+<td nowrap="nowrap" width="95">
 <p align="center">15, 00 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td rowspan="3" width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>épreuve à caractère technique</p>
+<td rowspan="2" width="189">
+<p>Examen professionnel pour l'accès au corps des directeurs d'insertion et de probation (DAP)</p>
 </td>
-<td width="61">
-<p align="center">4,00 €</p>
-</td>
-<td width="166">
-<p>distribution copies</p>
-</td>
-</tr>
-<tr>
-<td width="130"/>
-<td width="61"/>
-<td width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="130">
-<p align="center">Examen professionnel<br/>pour l'accès au corps<br/>des directeurs d'insertion<br/>et de probation</p>
-</td>
-<td rowspan="3" width="59">
+<td rowspan="2" width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p>note de synthèse</p>
-</td>
-<td width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">3,00 €</p>
 </td>
-<td rowspan="3" width="71">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">15, 00 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td rowspan="2" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides</p>
+<p>- Distribution des copies</p>
+<p>- Admissibilité</p>
+<p>- Préparation des oraux</p>
+<p>- Amission</p>
+<p>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td rowspan="3" width="64">
+<td rowspan="2" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
-<p align="center">4,00 €</p>
-</td>
-<td width="166">
-<p>distribution copies</p>
+<td width="95">
+<p align="center">Epreuve à caractère technique : 4 €</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="190"/>
-<td width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au grade des directeurs d'insertion et de probation hors classe (DAP)</p>
 </td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Examens professionnels<br/>pour l'accès - au corps<br/>des DPIP<br/>- au grade des DPIP<br/>hors classe</p>
-</td>
-<td width="59">
+<td width="95">
 <p align="center">A</p>
 </td>
-<td width="130">
-<p align="center">épreuve à caractère technique</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">4,00 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">15, 00 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Préparation des oraux<br/>- Admission<br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Concours secrétaire<br/>administratif</p>
+<td width="189">
+<p>Concours des secrétaires administratifs (généraliste et programmeur)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,20 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>préparation des sujets écrits</p>
-<p>distribution des copies</p>
-<p>admissibilité</p>
-<p>préparation des oraux</p>
-<p>admission</p>
-<p>rapport président du jury</p>
+<td width="95">
+<p>- Réunion de cadrage<br/>- Préparation des sujets écrits</p>
+<p>- Distribution des copies<br/>- Admissibilité<br/>- Préparation des oraux<br/>- Admission<br/>- Rapport du président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Concours sur titre<br/>d'assistants de service<br/>social (SG)</p>
+<td rowspan="2" width="189">
+<p>Concours de greffiers des services judiciaires<br/>- Greffiers de l'Etat pour l'administration de la Polynésie française (DSJ)</p>
 </td>
-<td width="59">
+<td rowspan="2" width="95">
 <p align="center">B</p>
 </td>
-<td width="130"/>
-<td width="61">
+<td width="95">
 <br/>
+<p align="center">3 €</p>
 </td>
-<td width="71">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>préparation des oraux</p>
-<p>admission</p>
-<p>rapport président du jury</p>
+<td rowspan="2" width="95">
+<p>- Elaboration des sujets écrits et des grilles de correction</p>
+<p>- Distribution des copies</p>
+<p>- Admissibilité</p>
+<p>- Elaboration des sujets oraux et des grilles d'évaluation</p>- Admission<p>- Journées de formation</p>
+<p>- Bilan du concours par le président du jury</p>
 </td>
-<td width="64">
-<p align="center">70 ,00 €</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" width="130">
-<p align="center">Greffiers des services judiciaires</p>
-</td>
-<td rowspan="4" width="59">
-<p align="center">B</p>
-</td>
-<td width="130">
-<p>résolution d'un cas pratique</p>
-</td>
-<td width="61">
-<p align="center">4,00 €</p>
-</td>
-<td rowspan="4" width="71">
-<p align="center">13,50 €</p>
-</td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-</td>
-<td rowspan="4" width="64">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>questions portant sur le droit civil, la procédure civile, le droit pénal, la procédure pénale, le droit du travail ou la procédure prud'homale</p>
+<td width="95">
+<p align="center">Epreuve à caractère technique : 4 €</p>
 </td>
-<td width="61">
+</tr>
+<tr>
+<td width="189">
+<p>Concours de conseillers pénitentiaires d'insertion et de probation (DAP)</p>
+</td>
+<td width="95">
+<p align="center">B</p>
+</td>
+<td width="95">
+<p align="center">2,20 €</p>
+</td>
+<td nowrap="nowrap" width="95">
+<p align="center">13,50 €</p>
+</td>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
+</td>
+<td nowrap="nowrap" width="95">
+<p align="center">70,00 €</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="189">
+<p>Concours de lieutenant pénitentiaire (DAP)</p>
+</td>
+<td rowspan="3" width="95">
+<p align="center">B</p>
+</td>
+<td nowrap="nowrap" width="95">
+<p align="center">2,20 €</p>
+</td>
+<td nowrap="nowrap" rowspan="2" width="95">
+<p align="center">13,50 €</p>
+</td>
+<td rowspan="3" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
+</td>
+<td nowrap="nowrap" rowspan="3" width="95">
+<p align="center">70,00 €</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">Epreuve à caractère technique : 3 €</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Correction des tests psychologiques : <br/>10,00 €<br/>par candidat</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Responsables de formation (DAP)</p>
+</td>
+<td width="95">
+<p align="center">B</p>
+</td>
+<td width="95">
 <p align="center">3,00 €</p>
 </td>
-<td width="166">
-<p>distribution copies</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p>questions relatives à l'organisation administrative et judiciaire française + questions, au choix du candidat après communication des sujets, portant sur le droit civil, la procédure civile, le droit pénal, la procédure pénale, le droit du travail ou la procédure prud'homale</p>
-</td>
-<td width="61">
-<p align="center">4,00 €</p>
-</td>
-<td width="166">
-<p>admissibilité + préparation oraux + admission</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>résumé d'un texte</p>
-</td>
-<td valign="top" width="61">
-<p align="center">3,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="130">
-<p align="center">Conseillers pénitentiaires d'insertion et de probation</p>
-</td>
-<td rowspan="3" width="59">
-<p align="center">B</p>
-</td>
-<td width="130">
-<p>Epreuve de culture générale</p>
-</td>
-<td width="61">
-<p align="center">2,20 €</p>
-</td>
-<td rowspan="3" width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td rowspan="3" width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>note de synthèse</p>
+<td width="189">
+<p>Concours des éducateurs de la protection judiciaire de la jeunesse (interne et externe) (DPJJ)</p>
 </td>
-<td width="61">
-<p align="center">2,20 €</p>
-</td>
-<td width="166">
-<p>distribution copies</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p>note administrative</p>
-</td>
-<td width="61">
-<p align="center">2,20 €</p>
-</td>
-<td width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" width="130">
-<p align="center">Lieutenant pénitentiaire</p>
-</td>
-<td rowspan="5" width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>épreuve de culture générale</p>
-</td>
-<td width="61">
-<p align="center">2,20 €</p>
-</td>
-<td rowspan="5" width="71">
-<p align="center">13,50 €</p>
-</td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-</td>
-<td rowspan="5" width="64">
-<p align="center">70,00 €</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>note de synthèse</p>
-</td>
-<td valign="top" width="61">
-<p align="center">2,20 €</p>
-</td>
-<td valign="top" width="166">
-<p>distribution copies</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td valign="top" width="61">
-<p align="center">3,00 €</p>
-</td>
-<td valign="top" width="166">
-<p>admissibilité + préparation oraux</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>correction des tests psychologiques</p>
-</td>
-<td valign="top" width="61">
-<p align="center">10,00 €<br/>par candidat</p>
-</td>
-<td valign="top" width="166">
-<p>admission</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="190">
-<br/>
-</td>
-<td valign="top" width="166">
-<p>bilan concours par Pdt Jury</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Technicien (DAP)</p>
-</td>
-<td width="59">
-<p align="center">B</p>
-</td>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
-<p align="center">4,00 €</p>
-</td>
-<td width="71">
-<p align="center">13,50 €</p>
-</td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-<td width="64">
-<p align="center">70,00 €</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Responsables de formation<br/>(DAP)</p>
-</td>
-<td width="59">
-<p align="center">B</p>
-</td>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
-<p align="center">3,00 €</p>
-</td>
-<td width="71">
-<p align="center">13,50 €</p>
-</td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-<td width="64">
-<p align="center">70,00 €</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Éducateur int/ext</p>
-</td>
-<td width="59">
-<p align="center">B</p>
-</td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,50 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Éducateur 3e voie</p>
+<td width="189">
+<p>Concours des éducateurs de la protection judiciaire de la jeunesse (3ème voie) (DPJJ)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,50 €</p>
 </td>
-<td width="71">
-<p align="center">13,50£</p>
-</td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-<td width="64">
-<p align="center">70,00 €</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Éducateur sur titre</p>
-</td>
-<td width="59">
-<p align="center">B</p>
-</td>
-<td width="130">
-<p>copie</p>
-</td>
-<td width="61">
-<p align="center">sans objet</p>
-</td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>étude dossiers d'inscription</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examen professionnel pour l'accès au grade de secrétaire administratif de classe supérieure(*)</p>
+<td width="189">
+<p>Concours sur titre des éducateurs de la protection judiciaire de la jeunesse (DPJJ)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>copie</p>
+<td width="95">
+<p align="center">Sans objet</p>
 </td>
-<td width="61">
+<td nowrap="nowrap" width="95">
+<p align="center">13,50 €</p>
+</td>
+<td width="95">
+<p>- Etude des dossiers d'inscription<br/>- Admission<br/>- Bilan du concours par le président du jury</p>
+</td>
+<td nowrap="nowrap" width="95">
+<p align="center">70,00 €</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Examen professionnel pour l'accès au 2ème grade de secrétaire administratif</p>
+</td>
+<td width="95">
+<p align="center">B</p>
+</td>
+<td width="95">
 <p align="center">2,20 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>préparation des sujets écrits</p>
-<p>distribution des copies</p>
-<p>admissibilité</p>
-<p>préparation des oraux</p>
-<p>admission</p>
-<p>rapport président du jury</p>
+<td width="95">
+<p>- Réunion de cadrage<br/>- Préparation des sujets écrits<br/>- Distribution des copies<br/>- Admissibilité<br/>- Préparation des oraux<br/>- Admission<br/>- Rapport du président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examen professionnel<br/>pour l'accès<br/>au grade de secrétaire<br/>administratif<br/>de classe exceptionnelle</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au 3ème grade de secrétaire administratif</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>rédaction d'une note administrative</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,20 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>préparation des sujets écrits</p>
-<p>distribution des copies</p>
-<p>admissibilité</p>
-<p>préparation des oraux</p>
-<p>admission</p>
-<p>rapport président du jury</p>
+<td width="95">
+<p>- Réunion de cadrage<br/>- Préparation des sujets écrits<br/>- Distribution des copies<br/>- Admissibilité<br/>- Préparation des oraux<br/>- Admission<br/>- Rapport du président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examen professionnel<br/>pour l'accès<br/>au 1er grade du corps<br/>des greffiers des services<br/>judiciaires (B1)</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au premier grade du corps des greffiers des services judiciaires (B1) (DSJ) - Accès au 1er grade du corps des greffiers de l'Etat pour l'administration de la Polynésie française (DSJ)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>questions pratiques portant sur des mises en situations (projet d'arrêté en cours de publication au Journal officiel de la République française)</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">4,00 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Elaboration des sujets écrits et des grilles de correction<br/>-Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux et élaboration des grilles d'évaluation <br/>- Admission<br/>- Journées de formation <br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examen professionnel de recrutement dans le corps des greffiers des services judiciaires (C en B)</p>
+<td width="189">
+<p>Examen professionnel de recrutement dans le corps des greffiers des services judiciaires (C en B) (DSJ) - corps des greffiers de l'Etat pour l'administration de la Polynésie française (C en B) (DSJ).</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>questions relatives à l'organisation judiciaire + questions portant sur la procédure civile, la procédure pénale ou la procédure prud'homale</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">3,00 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux + admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Elaboration des sujets écrits et des grilles de correction<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux et des grilles d'évaluation</p>
+<p>- Admission<br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Examens professionnels<br/>pour l'accès au grade<br/>de CPIP hors classe</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au grade de conseiller pénitentiaire d'insertion et de probation hors classe (DAP)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">B</p>
 </td>
-<td width="130"/>
-<td width="61"/>
-<td width="71">
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td nowrap="nowrap" width="95">
 <p align="center">13, 50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité et préparation des oraux<br/>- Admission<br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="130">
-<p align="center">Examen professionnel<br/>pour l'accès au grade de commandant pénitentiaire</p>
+<td rowspan="2" width="189">
+<p>Examen professionnel pour l'accès au grade de commandant pénitentiaire (DAP)</p>
 </td>
-<td rowspan="3" width="59">
+<td rowspan="2" width="95">
 <p align="center">B</p>
 </td>
-<td width="130">
-<p>note de synthèse</p>
+<td width="95">
+<p align="center">2, 20 €</p>
 </td>
-<td width="61">
-<p align="center">2,20 €</p>
+<td nowrap="nowrap" rowspan="2" width="95">
+<p align="center">13, 50 €</p>
 </td>
-<td rowspan="3" width="71">
-<p align="center">13,50 €</p>
+<td rowspan="2" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Préparation des oraux<br/>- Admission<br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td rowspan="3" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
-</td>
-<td rowspan="3" width="64">
+<td nowrap="nowrap" rowspan="2" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
-<p align="center">3,00 €</p>
+<td width="95">
+<p align="center">Epreuve à caractère technique : 3 €</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="190"/>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Concours adjoints<br/>administratifs<br/>et techniques<br/>de 1re classe</p>
+<td width="189">
+<p>Recrutement sans concours des adjoints administratifs et techniques de 2ème classe - adjoints administratifs de 2ème classe de l'Etat pour l'administration de la Polynésie française</p>
 </td>
-<td width="59">
+<td nowrap="nowrap" width="95">
 <p align="center">C</p>
 </td>
-<td colspan="5" width="492">
-<p align="center">SANS OBJET (pas d'arrêté d'organisation, nature et programmes des épreuves)</p>
+<td width="95">
+<p align="center">Études de 30 dossiers : <br/>une vacation de 4 heures soit 22,00 €</p>
 </td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Recrutement sans concours<br/>adjoints administratifs<br/>de 2e classe</p>
-</td>
-<td width="59">
-<p align="center">C</p>
-</td>
-<td width="130">
-<p>études des dossiers de candidatures</p>
-</td>
-<td width="61">
-<p>Études de 30 dossiers :</p>
-<p>1 vacation de 4 heures soit 22,00 €</p>
-</td>
-<td width="71">
+<td nowrap="nowrap" width="95">
 <p align="center">5,50 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>admissibilité</p>
-<p>préparation des entretiens</p>
-<p>admission</p>
-<p>Rapport président du jury</p>
+<td width="95">
+<p>- Réunion de cadrage</p>
+<p>- Elaboration des grilles de sélection et préparation des oraux<br/>- Elaboration des grilles d'évaluation<br/>- Journées de formation <br/>- Bilan du recrutement par le président de la commission</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Recrutement sans concours<br/>adjoints techniques<br/>de 2e classe</p>
+<td width="189">
+<p>Recrutement sans concours des adjoints techniques de 2ème classe</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">C</p>
 </td>
-<td width="130">
-<p>études des dossiers de candidatures</p>
+<td width="95">
+<p align="center">une vacation de 4 heures soit <br/>22, 00 €</p>
 </td>
-<td width="61">
-<p>Études de 30 dossiers :</p>
-<p>1 vacation de 4 heures soit 22, 00 €</p>
-</td>
-<td width="71">
+<td width="95">
 <p align="center">5,50 €</p>
 </td>
-<td width="166">
-<p>réunion de cadrage</p>
-<p>admissibilité</p>
-<p>préparation des entretiens</p>
-<p>admission</p>
-<p>Rapport président du jury</p>
+<td width="95">
+<p>- Réunion de cadrage<br/>- Admissibilité<br/>- Préparation des oraux<br/>- Admission<br/>- Rapport du président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Adjoint technique (DAP)</p>
+<td width="189">
+<p>Concours et examen professionnel des adjoints techniques de l'administration pénitentiaire (DAP)</p>
 </td>
-<td width="59">
+<td width="95">
 <p align="center">C</p>
 </td>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">3,00 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">9,50 €<br/>à 10,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Amission<br/>- Bilan du concours/de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td nowrap="nowrap" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="130">
-<p align="center">Premier surveillant</p>
+<td rowspan="3" width="189">
+<p>Concours professionnel d'accès au grade de premier surveillant (DAP)</p>
 </td>
-<td rowspan="3" width="59">
+<td rowspan="3" width="95">
 <p align="center">C</p>
 </td>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
+<td nowrap="nowrap" rowspan="3" width="95">
 <p align="center">2,20 €</p>
 </td>
-<td rowspan="3" width="71">
+<td rowspan="3" width="95">
 <p align="center">9,50 €</p>
 </td>
-<td rowspan="3" width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td rowspan="3" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité et préparation des oraux<br/>admission<br/>- Bilan du concours par le président du jury</p>
 </td>
-<td rowspan="3" width="64">
+<td nowrap="nowrap" rowspan="3" width="95">
 <p align="center">70,00 €</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>épreuve de QRC</p>
+<td rowspan="2" width="189">
+<p>Concours d'accès au grade de surveillant (DAP)</p>
 </td>
-<td width="61">
-<p align="center">2,20 €</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="190"/>
-</tr>
-<tr>
-<td rowspan="3" width="130">
-<p align="center">Surveillant</p>
-</td>
-<td rowspan="3" width="59">
+<td rowspan="2" width="95">
 <p align="center">C</p>
 </td>
-<td width="130">
-<p>épreuve de QRC</p>
-</td>
-<td width="61">
+<td nowrap="nowrap" width="95">
 <p align="center">1,00 €</p>
 </td>
-<td rowspan="3" width="71">
+<td nowrap="nowrap" width="95">
 <p align="center">5,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
+<td rowspan="2" width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides</p>
+<p>- Distribution des copies</p>
+<p>- Admissibilité</p>
+<p>- Préparation des oraux</p>
+<p>- Admission</p>
+<p>- Bilan du concours par le président du jury</p>
 </td>
-<td rowspan="3" width="64">
+<td rowspan="2" width="95">
 <p align="center">Sans objet</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p>correction des tests psychologiques</p>
-</td>
-<td width="61">
-<p align="center">10,00 €<br/>par candidat</p>
-</td>
-<td width="166">
-<p>distribution copies</p>
+<td colspan="2">
+<p align="center">Tests psychologiques : 10,00 € par candidat</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="190"/>
-<td valign="top" width="166">
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="189">
+<p>Examen professionnel pour l'accès au grade de major pénitentiaire (DAP)</p>
 </td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">Examen professionnel<br/>pour l'accès au grade de major pénitentiaire</p>
-</td>
-<td width="59">
+<td width="95">
 <p align="center">C</p>
 </td>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,20 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">9,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Bilan de l'examen professionnel par le président du jury</p>
 </td>
-<td width="64">
+<td width="95">
 <p align="center">Sans objet</p>
 </td>
 </tr>
 <tr>
-<td width="130">
-<p align="center">Formateurs (DAP)</p>
+<td width="189">
+<p>Sélection professionnelle des formateurs de l'administration pénitentiaire (DAP)</p>
 </td>
-<td width="59">
-<p align="center">C</p>
+<td width="95">
+<p align="center">Sans objet</p>
 </td>
-<td width="130">
-<p>épreuve à caractère technique</p>
-</td>
-<td width="61">
+<td width="95">
 <p align="center">2,20 €</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">9,50 €</p>
 </td>
-<td width="166">
-<p>préparation sujets écrits + barèmes et guides</p>
-<p>distribution copies</p>
-<p>admissibilité + préparation oraux</p>
-<p>admission</p>
-<p>bilan concours par Pdt Jury</p>
+<td width="95">
+<p>- Préparation des sujets écrits, des barèmes et des guides<br/>- Distribution des copies<br/>- Admissibilité</p>
+<p>- Préparation des oraux<br/>- Admission<br/>- Rapport du président du jury</p>
 </td>
-<td width="64">
-<p align="center">70,00 €</p>
-</td>
-</tr>
-<tr>
-<td width="130">
-<p align="center">ERIS (DAP)</p>
-</td>
-<td width="59">
+<td nowrap="nowrap" width="95">
+<br/>
 <br/>
 </td>
-<td width="130">
-<p>correction des tests psychologiques</p>
+</tr>
+<tr>
+<td width="189">
+<p>Equipes régionales d'intervention et de sécurité de l'administration pénitentiaire (DAP)</p>
 </td>
-<td width="61">
+<td width="95">
+<p align="center">Sans objet</p>
+</td>
+<td width="95">
 <p align="center">10, 00 €<br/>par candidat</p>
 </td>
-<td width="71">
+<td width="95">
 <p align="center">13,50 €</p>
 </td>
-<td width="166">
-<p>préparation oraux</p>
+<td nowrap="nowrap" width="95">
+<p>- Préparation des oraux</p>
 </td>
-<td width="64">
-<p align="center">Sans objet</p>
+<td width="95">
+<br/>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-PROPOSITION REMUNERATION DES JURYS ET COMMISSIONS DES CONCOURS ET RECRUTEMENTS
+.
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="112">
-<p align="center">Validation formation</p>
+<td width="189">
+<p align="center">VALIDATION DES FORMATIONS</p>
 </td>
-<td rowspan="2" width="58">
-<p align="center">Catégorie</p>
+<td width="95">
+<p align="center">CATEGORIE</p>
 </td>
-<td rowspan="2" width="153">
-<p align="center">Mémoire</p>
+<td width="95">
+<p align="center">MEMOIRE</p>
 </td>
-<td rowspan="2" width="60">
-<p align="center">Oraux</p>
+<td width="95">
+<p align="center">ORAUX</p>
 </td>
-<td rowspan="2" width="143">
-<p align="center">Réunions</p>
+<td width="95">
+<p align="center">REUNIONS</p>
 </td>
-<td colspan="2" width="155">
-<p align="center">Coefficient de vacation ou forfait</p>
-</td>
-</tr>
-<tr>
-<td width="79">
-<p align="center">0</p>
-</td>
-<td width="75">
-<p align="center">1</p>
+<td width="95">
+<p align="center">FORFAIT</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p align="center">Directeur (DPJJ)</p>
+<td rowspan="3" width="189">
+<p>Validation de la formation des directeurs de la protection judiciaire de la jeunesse (DPJJ)</p>
 </td>
-<td valign="top" width="58">
+<td rowspan="3" width="95">
 <p align="center">A</p>
 </td>
-<td valign="top" width="153">
-<p align="center">1 mémoire = <br/>10 copies directeur soit 25 €</p>
+<td rowspan="3" width="95">
+<p align="center">Un mémoire =10 copies directeur soit 25 €</p>
 </td>
-<td valign="top" width="60">
+<td rowspan="3" width="95">
 <p align="center">15, 00 €</p>
 </td>
-<td valign="top" width="143">
-<p align="center">distribution mémoires</p>
-<p align="center">bilan concours par Pdt Jury</p>
+<td rowspan="3" valign="top" width="95">
+<p>- Distribution des mémoires<br/>- Bilan par le président du jury</p>
 </td>
-<td colspan="2" valign="top" width="155">
+<td rowspan="3" width="95">
 <p align="center">Sans objet</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p align="center">Éducateur int/ext</p>
+<td rowspan="3" width="189">
+<p>Validation du passage en 2ème année de formation des éducateurs et des directeurs de la protection judiciaire de la jeunesse (DPJJ)</p>
 </td>
-<td valign="top" width="58">
+<td rowspan="3" width="95">
+<p align="center">A et B</p>
+</td>
+<td rowspan="3" width="95">
+<br/>
+<br/>
+</td>
+<td rowspan="3" width="95">
+<br/>
+<br/>
+</td>
+<td rowspan="3" width="95">
+<p>- Etude des dossiers des stagiaires</p>
+</td>
+<td rowspan="3" width="95">
+<p align="center">70 €</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="189">
+<p>Validation de la formation des responsables d'unité éducative (DPJJ)</p>
+</td>
+<td rowspan="3" width="95">
+<p align="center">A</p>
+</td>
+<td rowspan="3" valign="top" width="95">
+<br/>
+<p align="center">Un dossier d'expertise= 5 copies d'éducateur soit 12,50 €</p>
+</td>
+<td rowspan="3" width="95">
+<p align="center">15 €</p>
+</td>
+<td rowspan="3" valign="top" width="95">
+<p>- Préparation des sujets de mise en situation<br/>- Etude des fiches d'évaluation</p>
+</td>
+<td rowspan="3" width="95">
+<p align="center">70 €</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="189">
+<p>Validation de la formation des éducateurs interne/externe (DPJJ)</p>
+</td>
+<td rowspan="3" width="95">
 <p align="center">B</p>
 </td>
-<td valign="top" width="153">
-<p align="center">1 mémoire = <br/>10 copies éducateur soit 25 €</p>
+<td rowspan="3" width="95">
+<p align="center">Un mémoire =<br/>10 copies éducateur soit 25 €</p>
 </td>
-<td valign="top" width="60">
+<td rowspan="3" width="95">
 <p align="center">13,50 €</p>
 </td>
-<td valign="top" width="143">
-<p align="center">distribution mémoires</p>
-<p align="center">bilan concours par Pdt Jury</p>
+<td rowspan="3" width="95">
+<p>- Distribution des mémoires<br/>- Bilan par le président du jury</p>
 </td>
-<td colspan="2" valign="top" width="155">
+<td rowspan="3" width="95">
 <p align="center">Sans objet</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-...
+.
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="114">
-<p align="center">Commissions</p>
+<td valign="bottom" width="189">
+<p align="center">COMMISSIONS</p>
 </td>
-<td rowspan="2" width="57">
-<p align="center">Catégorie</p>
+<td valign="bottom" width="95">
+<p align="center">CATEGORIE</p>
 </td>
-<td rowspan="2" width="151">
-<p align="center">Mémoire</p>
+<td valign="bottom" width="95">
+<p align="center">MEMOIRE</p>
 </td>
-<td rowspan="2" width="66">
-<p align="center">Vacation</p>
+<td valign="bottom" width="95">
+<p align="center">VACATION</p>
 </td>
-<td rowspan="2" width="142">
-<p align="center">Réunions</p>
+<td valign="bottom" width="95">
+<p align="center">REUNIONS</p>
 </td>
-<td colspan="2" width="151">
-<p align="center">Coefficient vacation</p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<p align="center">0</p>
-</td>
-<td width="75">
-<p align="center">1</p>
+<td valign="bottom" width="95">
+<p align="center">FORFAIT</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="114">
+<td valign="top" width="189">
 <p>Emploi réservés (DPJJ)</p>
 </td>
-<td colspan="2" valign="top" width="208">
+<td valign="top" width="95">
 <p align="center">sans objet</p>
 </td>
-<td rowspan="2" width="66">
-<p align="center">15 00 €</p>
+<td width="95">
+<p align="center">15,00 €</p>
 </td>
-<td valign="top" width="142">
-<p align="center">réunion étude dossiers</p>
+<td valign="top" width="95">
+<p align="center">Réunion <br/>Etude des dossiers</p>
 </td>
-<td valign="top" width="76">
+<td valign="top" width="95"/>
+<td valign="top" width="95">
 <br/>
-</td>
-<td valign="top" width="75">
-<p align="center">X</p>
+<p align="center">Sans objet</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="114">
-<p>Équivalence diplômes étrangers (DPJJ)</p>
+<td valign="top" width="189">
+<p>Équivalence des diplômes étrangers (DPJJ)</p>
 </td>
-<td colspan="2" valign="top" width="208">
+<td valign="top" width="95">
 <p align="center">sans objet</p>
 </td>
-<td valign="top" width="142">
-<p align="center">réunion étude demandes</p>
+<td width="95">
+<p align="center">15,00 €</p>
 </td>
-<td valign="top" width="76">
+<td valign="top" width="95">
+<p align="center">Réunion <br/>Etude des demandes</p>
+</td>
+<td valign="top" width="95"/>
+<td valign="top" width="95">
 <br/>
-</td>
-<td valign="top" width="75">
-<p align="center">X</p>
+<p align="center">Sans objet</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+.
