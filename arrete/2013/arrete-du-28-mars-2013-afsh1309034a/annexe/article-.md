@@ -1,377 +1,387 @@
 # Article 
 
-MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS  AFFECTÉES AUX MISSIONS D'INTÉRÊT GÉNÉRAL ET D'AIDE À LA CONTRACTUALISATION
+MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT ET DES DOTATIONS
+
+AFFECTÉES AUX MISSIONS D'INTÉRÊT GÉNÉRAL ET D'AIDE À LA CONTRACTUALISATION
 
 <table>
 <tbody>
 <tr>
-<td align="center"> RÉGION </td>
-<td align="center">MONTANT <p>de la dotation MIGAC </p>(en milliers d'euros)</td>
-<td align="center"> MONTANT <p>de la dotation DAF hors USLD </p>(en milliers d'euros) </td>
-<td align="center"> MONTANT <p>de la dotation DAF USLD </p>(en milliers d'euros) </td>
-</tr>
-<tr>
-<td align="left">
-<br/>Alsace <br/>
+<td>
+<p align="center">RÉGION</p>
 </td>
-<td align="center">
-<br/>138 896,48 <br/>
+<td>
+<p align="center">MONTANT <br/>de la dotation MIGAC <br/>(en milliers d'euros)</p>
 </td>
-<td align="center">
-<br/>445 566,25 <br/>
+<td>
+<p align="center">MONTANT <br/>de la dotation <br/>DAF hors USLD <br/>(en milliers d'euros)</p>
 </td>
-<td align="center">
-<br/>33 248,39 <br/>
+<td>
+<p align="center">MONTANT <br/>de la dotation <br/>DAF USLD <br/>(en milliers d'euros)</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Aquitaine <br/>
+<td>
+<p>Alsace </p>
 </td>
-<td align="center">
-<br/>232 109,82 <br/>
+<td>
+<p align="center">138 896,48</p>
 </td>
-<td align="center">
-<br/>694 725,20 <br/>
+<td>
+<p align="center">445 566,25</p>
 </td>
-<td align="center">
-<br/>46 135,25 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Auvergne <br/>
-</td>
-<td align="center">
-<br/>111 381,19 <br/>
-</td>
-<td align="center">
-<br/>358 110,34 <br/>
-</td>
-<td align="center">
-<br/>30 978,74 <br/>
+<td>
+<p align="center">33 248,39</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Bourgogne <br/>
+<td>
+<p>Aquitaine </p>
 </td>
-<td align="center">
-<br/>110 925,54 <br/>
+<td>
+<p align="center">232 109,82</p>
 </td>
-<td align="center">
-<br/>332 530,48 <br/>
+<td>
+<p align="center">694 725,20</p>
 </td>
-<td align="center">
-<br/>24 477,50 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Bretagne <br/>
-</td>
-<td align="center">
-<br/>205 892,98 <br/>
-</td>
-<td align="center">
-<br/>853 219,75 <br/>
-</td>
-<td align="center">
-<br/>49 742,50 <br/>
+<td>
+<p align="center">46 135,25</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Centre <br/>
+<td>
+<p>Auvergne </p>
 </td>
-<td align="center">
-<br/>158 991,99 <br/>
+<td>
+<p align="center">116 381,19</p>
 </td>
-<td align="center">
-<br/>486 476,89 <br/>
+<td>
+<p align="center">358 110,34</p>
 </td>
-<td align="center">
-<br/>40 289,03 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Champagne-Ardenne <br/>
-</td>
-<td align="center">
-<br/>109 960,38 <br/>
-</td>
-<td align="center">
-<br/>271 526,21 <br/>
-</td>
-<td align="center">
-<br/>20 194,75 <br/>
+<td>
+<p align="center">30 978,74</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Corse <br/>
+<td>
+<p>Bourgogne </p>
 </td>
-<td align="center">
-<br/>30 587,36 <br/>
+<td>
+<p align="center">112 425,54</p>
 </td>
-<td align="center">
-<br/>65 725,96 <br/>
+<td>
+<p align="center">332 530,48</p>
 </td>
-<td align="center">
-<br/>5 152,06 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Franche-Comté <br/>
-</td>
-<td align="center">
-<br/>82 965,04 <br/>
-</td>
-<td align="center">
-<br/>282 047,71 <br/>
-</td>
-<td align="center">
-<br/>18 424,10 <br/>
+<td>
+<p align="center">24 477,50</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Ile-de-France <br/>
+<td>
+<p>Bretagne </p>
 </td>
-<td align="center">
-<br/>1 353 921,03 <br/>
+<td>
+<p align="center">205 892,98</p>
 </td>
-<td align="center">
-<br/>2 868 735,56 <br/>
+<td>
+<p align="center">853 219,75</p>
 </td>
-<td align="center">
-<br/>185 466,97 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Languedoc-Roussillon <br/>
-</td>
-<td align="center">
-<br/>196 288,07 <br/>
-</td>
-<td align="center">
-<br/>521 087,66 <br/>
-</td>
-<td align="center">
-<br/>44 896,12 <br/>
+<td>
+<p align="center">49 742,50</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Limousin <br/>
+<td>
+<p>Centre </p>
 </td>
-<td align="center">
-<br/>70 160,25 <br/>
+<td>
+<p align="center">158 991,99</p>
 </td>
-<td align="center">
-<br/>227 518,92 <br/>
+<td>
+<p align="center">486 476,89</p>
 </td>
-<td align="center">
-<br/>28 295,55 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Lorraine <br/>
-</td>
-<td align="center">
-<br/>163 172,94 <br/>
-</td>
-<td align="center">
-<br/>626 981,92 <br/>
-</td>
-<td align="center">
-<br/>37 382,81 <br/>
+<td>
+<p align="center">40 289,03</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Midi-Pyrénées <br/>
+<td>
+<p>Champagne-Ardenne </p>
 </td>
-<td align="center">
-<br/>241 261,50 <br/>
+<td>
+<p align="center">109 960,38</p>
 </td>
-<td align="center">
-<br/>650 781,47 <br/>
+<td>
+<p align="center">271 526,21</p>
 </td>
-<td align="center">
-<br/>52 914,37 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Nord-Pas-de-Calais <br/>
-</td>
-<td align="center">
-<br/>315 236,60 <br/>
-</td>
-<td align="center">
-<br/>931 608,65 <br/>
-</td>
-<td align="center">
-<br/>51 170,85 <br/>
+<td>
+<p align="center">20 194,75</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Basse-Normandie <br/>
+<td>
+<p>Corse </p>
 </td>
-<td align="center">
-<br/>110 949,07 <br/>
+<td>
+<p align="center">37 587,36</p>
 </td>
-<td align="center">
-<br/>351 709,28 <br/>
+<td>
+<p align="center">65 725,96</p>
 </td>
-<td align="center">
-<br/>20 392,50 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Haute-Normandie <br/>
-</td>
-<td align="center">
-<br/>131 747,82 <br/>
-</td>
-<td align="center">
-<br/>395 351,91 <br/>
-</td>
-<td align="center">
-<br/>27 625,66 <br/>
+<td>
+<p align="center">5 152,06</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Pays de la Loire <br/>
+<td>
+<p>Franche-Comté </p>
 </td>
-<td align="center">
-<br/>236 208,85 <br/>
+<td>
+<p align="center">82 965,04</p>
 </td>
-<td align="center">
-<br/>791 559,95 <br/>
+<td>
+<p align="center">282 047,71</p>
 </td>
-<td align="center">
-<br/>53 234,18 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Picardie <br/>
-</td>
-<td align="center">
-<br/>119 089,55 <br/>
-</td>
-<td align="center">
-<br/>485 045,30 <br/>
-</td>
-<td align="center">
-<br/>39 273,10 <br/>
+<td>
+<p align="center">18 424,10</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Poitou-Charentes <br/>
+<td>
+<p>Ile-de-France </p>
 </td>
-<td align="center">
-<br/>105 606,52 <br/>
+<td>
+<p align="center">1 368 921,03</p>
 </td>
-<td align="center">
-<br/>385 701,42 <br/>
+<td>
+<p align="center">2 868 735,56</p>
 </td>
-<td align="center">
-<br/>30 736,77 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Provence-Alpes-Côte d'Azur <br/>
-</td>
-<td align="center">
-<br/>395 184,94 <br/>
-</td>
-<td align="center">
-<br/>933 021,61 <br/>
-</td>
-<td align="center">
-<br/>51 530,50 <br/>
+<td>
+<p align="center">185 466,97</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Rhône-Alpes <br/>
+<td>
+<p>Languedoc-Roussillon </p>
 </td>
-<td align="center">
-<br/>464 860,86 <br/>
+<td>
+<p align="center">196 288,07</p>
 </td>
-<td align="center">
-<br/>1 420 759,38 <br/>
+<td>
+<p align="center">521 087,66</p>
 </td>
-<td align="center">
-<br/>93 755,11 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Guadeloupe <br/>
-</td>
-<td align="center">
-<br/>59 123,03 <br/>
-</td>
-<td align="center">
-<br/>103 361,38 <br/>
-</td>
-<td align="center">
-<br/>8 511,11 <br/>
+<td>
+<p align="center">44 896,12</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Guyane <br/>
+<td>
+<p>Limousin </p>
 </td>
-<td align="center">
-<br/>39 001,19 <br/>
+<td>
+<p align="center">70 160,25</p>
 </td>
-<td align="center">
-<br/>27 642,54 <br/>
+<td>
+<p align="center">227 518,92</p>
 </td>
-<td align="center">
-<br/>1 134,58 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Martinique <br/>
-</td>
-<td align="center">
-<br/>100 586,53 <br/>
-</td>
-<td align="center">
-<br/>118 721,17 <br/>
-</td>
-<td align="center">
-<br/>5 757,84 <br/>
+<td>
+<p align="center">28 295,55</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Océan Indien <br/>
+<td>
+<p>Lorraine </p>
 </td>
-<td align="center">
-<br/>61 796,39 <br/>
+<td>
+<p align="center">171 672,94</p>
 </td>
-<td align="center">
-<br/>254 124,92 <br/>
+<td>
+<p align="center">626 981,92</p>
 </td>
-<td align="center">
-<br/>3 927,39<br/>
+<td>
+<p align="center">37 382,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Midi-Pyrénées </p>
+</td>
+<td>
+<p align="center">243 261,50</p>
+</td>
+<td>
+<p align="center">650 781,47</p>
+</td>
+<td>
+<p align="center">52 914,37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nord-Pas-de-Calais </p>
+</td>
+<td>
+<p align="center">315 236,60</p>
+</td>
+<td>
+<p align="center">931 608,65</p>
+</td>
+<td>
+<p align="center">51 170,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Basse-Normandie </p>
+</td>
+<td>
+<p align="center">135 949,07</p>
+</td>
+<td>
+<p align="center">351 709,28</p>
+</td>
+<td>
+<p align="center">20 392,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Haute-Normandie </p>
+</td>
+<td>
+<p align="center">131 747,82</p>
+</td>
+<td>
+<p align="center">395 351,91</p>
+</td>
+<td>
+<p align="center">27 625,66</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pays de la Loire </p>
+</td>
+<td>
+<p align="center">240 208,85</p>
+</td>
+<td>
+<p align="center">791 559,95</p>
+</td>
+<td>
+<p align="center">53 234,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Picardie </p>
+</td>
+<td>
+<p align="center">119 089,55</p>
+</td>
+<td>
+<p align="center">485 045,30</p>
+</td>
+<td>
+<p align="center">39 273,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poitou-Charentes </p>
+</td>
+<td>
+<p align="center">105 606,52</p>
+</td>
+<td>
+<p align="center">385 701,42</p>
+</td>
+<td>
+<p align="center">30 736,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Provence-Alpes-Côte d'Azur </p>
+</td>
+<td>
+<p align="center">395 184,94</p>
+</td>
+<td>
+<p align="center">933 021,61</p>
+</td>
+<td>
+<p align="center">51 530,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rhône-Alpes </p>
+</td>
+<td>
+<p align="center">464 860,86</p>
+</td>
+<td>
+<p align="center">1 420 759,38</p>
+</td>
+<td>
+<p align="center">93 755,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guadeloupe </p>
+</td>
+<td>
+<p align="center">76 623,03</p>
+</td>
+<td>
+<p align="center">103 361,38</p>
+</td>
+<td>
+<p align="center">8 511,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guyane </p>
+</td>
+<td>
+<p align="center">39 001,19</p>
+</td>
+<td>
+<p align="center">27 642,54</p>
+</td>
+<td>
+<p align="center">1 134,58</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Martinique </p>
+</td>
+<td>
+<p align="center">100 586,53</p>
+</td>
+<td>
+<p align="center">123 721,17</p>
+</td>
+<td>
+<p align="center">5 757,84</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Océan Indien </p>
+</td>
+<td>
+<p align="center">61 796,39</p>
+</td>
+<td>
+<p align="center">254 124,92</p>
+</td>
+<td>
+<p align="center">3 927,39</p>
 </td>
 </tr>
 </tbody>
