@@ -904,7 +904,6 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
-<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">5</p>
@@ -918,7 +917,6 @@ LISTE II
 <p align="center">0</p>
 </td>
 <td valign="top" width="134">
-<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1336,7 +1334,6 @@ LISTE II
 <p>3° Bougies, crayons, ovules</p>
 </td>
 <td valign="top" width="117">
-<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2595,18 +2592,35 @@ LISTE II
 </tr>
 <tr>
 <td valign="top" width="186">
-<p>Estradiol (dihydrofolliculine) estrone (folliculine) et leurs esters</p>
+<p>Esoméprazole </p>
 </td>
 <td valign="top" width="163">
-<p>Toutes formes</p>
+<p>Voie orale </p>
 </td>
 <td valign="top" width="117">
-<p align="center">0,02</p>
+<br/>
 </td>
 <td valign="top" width="134">
-<p align="center">0,000 1</p>
+<p align="center">0,020</p>
 </td>
 <td valign="top" width="118">
+<p align="center">280</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Estradiol (dihydrofolliculine) estrone (folliculine) et leurs esters</p>
+</td>
+<td align="left" valign="top">
+<p>Toutes formes</p>
+</td>
+<td align="left" valign="top">
+<p align="center">0,02</p>
+</td>
+<td align="left" valign="top">
+<p align="center">0,000 1</p>
+</td>
+<td align="left" valign="top">
 <p align="center">0,01</p>
 </td>
 </tr>
