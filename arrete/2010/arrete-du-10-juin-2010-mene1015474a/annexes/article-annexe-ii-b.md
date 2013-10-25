@@ -101,7 +101,7 @@ IIb - Règlement d'examen
 <p align="center">Ponctuel Pratique</p>
 </td>
 <td width="58">
-<p align="center">1 h 25</p>
+<p align="center">1 h 35</p>
 </td>
 </tr>
 <tr>

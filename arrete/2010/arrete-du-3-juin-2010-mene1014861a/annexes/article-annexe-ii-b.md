@@ -237,7 +237,7 @@ Règlement d'examen
 <p align="center">Pratique</p>
 </td>
 <td width="59">
-<p align="center">1 h 40</p>
+<p align="center">2 h </p>
 </td>
 <td colspan="2" width="118">
 <p align="center">CCF</p>

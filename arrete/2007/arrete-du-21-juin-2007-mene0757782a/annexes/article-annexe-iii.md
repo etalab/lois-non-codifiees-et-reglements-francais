@@ -79,13 +79,13 @@ Règlement d'examen
 <p align="center">Ponctuelle pratique et orale</p>
 </td>
 <td width="69">
-<p align="center">1 h 40 maxi</p>
+<p align="center">2 h maxi</p>
 </td>
 <td width="113">
 <p align="center">Ponctuelle pratique et orale</p>
 </td>
 <td width="62">
-<p align="center">1 h 40 maxi</p>
+<p align="center">2 h maxi</p>
 </td>
 </tr>
 <tr>

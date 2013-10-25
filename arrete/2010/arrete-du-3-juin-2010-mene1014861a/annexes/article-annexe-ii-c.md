@@ -450,83 +450,9 @@ Après examen attentif des documents fournis, le jury formule toute remarque et 
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation, est tenu à la disposition du jury.
 
-Sous-épreuve E32 - Conduite d'un véhicule lourd articulé - unité 32 - coefficient 5
+Sous-épreuve E32 - Conduite d'un véhicule lourd articulé - unité 32
 
-1. Contenu de la sous-épreuve
-
-Cette sous-épreuve a pour objet de valider tout ou partie de la compétence C3.5 du référentiel.
-
-C3.5 : Conduire rationnellement et en sécurité le véhicule
-
-- Exploiter les caractéristiques techniques du véhicule en toute circonstance.
-
-- Conduire et manœuvrer le véhicule articulé en sécurité.
-
-- Utiliser le véhicule en fonction de son chargement, des forces physiques appliquées, du profil de la route et des conditions de circulation.
-
-- Identifier les anomalies et les incidents, les signaler.
-
-Les indicateurs de performances sont ceux définis dans le référentiel de certification.
-
-On notera que pour effectuer les tâches demandées, certaines autres compétences peuvent être mobilisées. En aucun cas, ces dernières ne donneront lieu à évaluation. Si ces compétences ne sont pas maîtrisées, les tâches correspondantes doivent être réalisées avec assistance.
-
-S'il est bien entendu que la mise en œuvre des compétences à évaluer nécessite la mobilisation des savoirs correspondants, il ne saurait être question d'évaluer les seuls savoirs.
-
-2. Conditions de réalisation
-
-Le support de l'épreuve est la réalisation des épreuves orales, pratiques de conduite et manœuvres d'un véhicule articulé du groupe lourd.
-
-Cette épreuve se déroule conformément à la nature et aux exigences des épreuves pratiques du permis de conduire de la catégorie EC après avoir validé en amont les niveaux des permis B et C.
-
-Le candidat réalise la phase circulation et la phase hors circulation correspondantes prévues par la réglementation du ministère en charge des Transports.
-
-La commission d'évaluation est composée obligatoirement de l'expert en charge des examens du permis de conduire, d'un enseignant de conduite routière. Un professionnel est associé à cette évaluation.
-
-Si le candidat n'obtient pas d'avis favorable lors de la première séance, deux séances de rattrapage lui seront proposées suivant les instructions prévues, définissant l'organisation de la validation de cette épreuve.
-
-Au terme de l'épreuve si le candidat obtient :
-
-- un avis favorable, il se voit attribuer une note comprise entre 10 et 20 en fonction de ses performances dans la démonstration des compétences visées par cette épreuve ;
-
-- un avis défavorable, il n'obtient pas de note, seule cette appréciation est portée sur son dossier ; il ne peut donc pas se voir délivrer le diplôme postulé.
-
-Le résultat de cette épreuve est consigné sur un dossier d'examen spécifique renseigné par l'expert en charge des examens du permis de conduire.
-
-Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'Éducation nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
-
-3. Mode d'évaluation
-
-3.1 Forme ponctuelle
-
-Épreuve pratique et orale d'une durée 1 h 40 minutes suivant la réglementation du ministère en charge des Transports.
-
-Cette intervention de conduite d'un véhicule articulé ou d'un ensemble de véhicules se déroule suivant les instructions définissant l'organisation et le contenu des épreuves de conduite dans cette filière.
-
-Les candidats individuels qui se présentent à cet examen doivent passer cette épreuve même s'ils possèdent le permis E(c) valide.
-
-Ceux qui possèdent ce permis E(c) et la qualification initiale ou une attestation admise en équivalence (ex FIMO) valides, peuvent être dispensés de cette épreuve et se voient attribuer une note de 10/20.
-
-3.2 Contrôle en cours de formation : Épreuve pratique et orale d'une durée 1 h 40 minutes suivant la réglementation du ministère en charge des Transports.
-
-L'évaluation se déroule au cours du dernier trimestre de la formation. La période choisie pour l'évaluation pouvant être différente pour chacun des candidats, son choix relève de la responsabilité des enseignants.
-
-Chaque candidat est informé à l'avance de la période prévue pour le déroulement de la situation d'évaluation qui le concerne.
-
-À l'issue de la situation d'évaluation, l'équipe pédagogique du centre de formation constitue pour chaque candidat un dossier comprenant :
-
-- l'ensemble des documents remis pour réaliser le travail demandé ;
-
-- les documents produits par l'expert en charge des examens du permis de conduire ;
-
-- une fiche d'analyse du travail effectivement réalisé par le candidat ;
-
-- la fiche d'évaluation renseignée ayant permis la proposition de note pour les candidats ayant obtenus un avis favorable.
-
-Seule cette fiche d'évaluation sera transmise au jury, accompagnée de la proposition de note.
-
-Après examen attentif des documents fournis, le jury formule toute remarque et observation qu'il juge utile et arrête la note.
-
-L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation, est tenu à la disposition du jury.
+(Remplacé)
 
 Sous-épreuve E33 - Conduite avec mise à quai. Conduite de chariot de manutention - unité 33 - coefficient 2
 
