@@ -4,8 +4,8 @@ Le quota de thon rouge (Thunnus thynnus) alloué à la France pour la zone océa
 
 Il est réparti dans les proportions suivantes :
 
-2 199 tonnes du quota français sont réparties entre les navires immatriculés en mer Méditerranée selon les modalités décrites à l'article 3 ;
+2 210 tonnes du quota français sont réparties entre les navires immatriculés en mer Méditerranée selon les modalités décrites à l'article 3 ;
 
 247 tonnes du quota français sont réparties entre les navires immatriculés en Atlantique selon les modalités décrites à l'article 4 ;
 
-25 tonnes du quota français sont réparties de façon collective entre les navires immatriculés en mer Méditerranée et en Atlantique dans le cadre de la pêche sportive et récréative. Les modalités de la répartition sont décrites à l'annexe III du présent arrêté.
+14 tonnes du quota français sont réparties de façon collective entre les navires immatriculés en mer Méditerranée et en Atlantique dans le cadre de la pêche sportive et récréative. Les modalités de la répartition sont décrites à l'annexe III du présent arrêté.
