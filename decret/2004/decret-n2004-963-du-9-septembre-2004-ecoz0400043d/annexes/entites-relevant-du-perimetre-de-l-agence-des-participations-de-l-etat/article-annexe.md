@@ -16,8 +16,6 @@ AREVA.
 
 Arte France.
 
-Audiovisuel extérieur de la France (AEF).
-
 BPI-Groupe.
 
 Caisse nationale des autoroutes.
@@ -38,21 +36,17 @@ Défense conseil international (DCI).
 
 Dexia.
 
-Entreprise minière et chimique.
-
 Electricité de France (EDF).
 
-ERAP.
+Eramet.
 
 Etablissement public de financement et de restructuration (EPFR).
 
-Etablissement public de réalisation de défaisance (EPRD).
-
 European Aeronautic Defence and Space Company (EADS NV).
 
-Fonds stratégique d'investissement (FSI).
+Fonds pour le développement d'une politique intermodale des transports dans le massif alpin (FDPITMA).
 
-France Télécom.
+France Médias Monde.
 
 France Télévisions.
 
@@ -70,6 +64,10 @@ La Monnaie de Paris.
 
 La Poste.
 
+ODAS.
+
+Orange.
+
 Ports autonomes et grands ports maritimes .
 
 Radio France.
@@ -86,7 +84,7 @@ SEMMARIS.
 
 Société concessionnaire française pour la construction et l'exploitation du tunnel routier sous le Mont-Blanc (ATMB-Autoroutes et tunnel du Mont-Blanc).
 
-Société de financement et d'investissement pour la réforme et le développement (SOFIRED).
+Société de financement local (SFIL)
 
 Société de gestion de garanties et de participations (SGGP).
 
@@ -113,8 +111,6 @@ Société de prise de participation de l'Etat (SPPE).
 Société de valorisation foncière et immobilière (SOVAFIM).
 
 Thales.
-
-Thermes nationaux d'Aix-les-Bains.
 
 TSA.
 
