@@ -42,7 +42,9 @@
 
 1450-1 Solides facilement inflammables, à l'exclusion des substances visées explicitement par d'autres rubriques (fabrication industrielle).
 
-1523-A Soufre (fabrication industrielle de).
+1523-A.1 Fabrication industrielle de soufre et mélanges à teneur en soufre supérieure à 70 % (fabrication industrielle, fusion, distillation, emploi, stockage).
+
+1523-A.2 Transformation ou distillation de soufre et mélanges à teneur en soufre supérieure à 70 % (fabrication industrielle, fusion, distillation, emploi, stockage). La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 2,5 t.
 
 1610 Acide chlorhydrique, acide formique à plus de 50 % en poids d'acide, acide nitrique à moins de 70 %, acide phosphorique, acide sulfurique, monoxyde d'azote, dioxyde d'azote à moins de 1 %, dioxyde de souffre à moins de 20 %, anhydride phosphorique (fabrication industrielle d').
 

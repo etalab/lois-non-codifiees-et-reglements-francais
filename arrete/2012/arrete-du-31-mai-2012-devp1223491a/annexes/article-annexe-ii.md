@@ -169,9 +169,7 @@
 <td valign="top" width="227">
 <p>Par laminage à chaud avec une capacité supérieure à 20 tonnes d'acier brut par heure, par forgeage à l'aide de marteaux dont l'énergie de frappe dépasse 50 kilojoules par marteau et lorsque la puissance calorifique mise en œuvre est supérieure à 20 MW</p>
 </td>
-<td valign="top" width="227">
-<br/>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="227">
@@ -242,10 +240,11 @@
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>2910-A Combustion (à l'exclusion des installations visées par les rubriques 2770 et 2771) - Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes</p>
+<p>2910-A Combustion (à l'exclusion des installations visées par les rubriques 2770 et 2771). - Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, à la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes <br/>
+<br/>A l'exclusion des installations de combustion de gaz naturel et de gaz de pétrole liquéfié, qui ne sont pas soumises aux garanties financières </p>
 </td>
 <td valign="top" width="227">
-<p>Si la puissance thermique maximale de l'installation est supérieure à 50 MW</p>
+<p>Si la puissance thermique maximale de l'installation est supérieure à 50 MW </p>
 </td>
 <td valign="top" width="227">
 <p>Si la puissance thermique maximale de l'installation est supérieure à 20 MW</p>
@@ -253,13 +252,15 @@
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>2910-B Combustion (à l'exclusion des installations visées par les rubriques 2770 et 2771) - Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en 2910-A et 2910-C </p>
+<p>2910-B Combustion (à l'exclusion des installations visées par les rubriques 2770 et 2771). - Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en 2910-A et 2910-C <br/>
+<br/>A l'exclusion des installations de combustion de biogaz, qui ne sont pas soumises aux garanties financières <br/>
+</p>
 </td>
 <td valign="top" width="227">
-<p>Si la puissance maximale de l'installation est supérieure à 50 MW</p>
+<p>Si la puissance maximale de l'installation est supérieure à 50 MW </p>
 </td>
 <td valign="top" width="227">
-<p>Si la puissance maximale de l'installation est supérieure à 0,1 MW</p>
+<p>Si la puissance maximale de l'installation est supérieure à 20 MW</p>
 </td>
 </tr>
 <tr>
