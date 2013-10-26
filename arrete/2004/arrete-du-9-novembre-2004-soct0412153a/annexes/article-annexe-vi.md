@@ -86,7 +86,9 @@ Oui ♦ Non ♦
 
 En cas de réponse négative, préciser le nom ou la désignation commerciale utilisé(e) dans les autres Etats membres :
 
-Belgique ;
+Belgique :
+
+Bulgarie ;
 
 République tchèque ;
 
@@ -96,11 +98,13 @@ Allemagne ;
 
 Estonie ;
 
+Irlande ;
+
 Grèce ;
 
 Espagne ;
 
-Irlande ;
+Croatie ;
 
 Italie ;
 
@@ -123,6 +127,8 @@ Autriche ;
 Pologne ;
 
 Portugal ;
+
+Roumanie ;
 
 Slovénie ;
 
