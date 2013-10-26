@@ -8,4 +8,6 @@ ORGANISMES AUTORISÉS À DÉLIVRER DES BAGUES DESTINÉES À L'IDENTIFICATION DES
 
 3° Fédération départementale des chasseurs du Pas-de-Calais ;
 
-4° Farago Indre.
+4° Farago Indre ;
+
+5° Fédération départementale des chasseurs des Bouches-du-Rhône.
