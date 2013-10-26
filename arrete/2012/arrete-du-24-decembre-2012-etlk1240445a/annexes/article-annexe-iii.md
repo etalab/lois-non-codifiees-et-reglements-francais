@@ -171,6 +171,20 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Direction des pêches maritimes et de l'aquaculture </p>
+</td>
+<td>
+<p align="left">Sous-directeur des ressources halieutiques </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction des pêches maritimes et de l'aquaculture </p>
+</td>
+<td>Sous-directeur de l'aquaculture et de l'économie des pêches </td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Délégation à la sécurité et à la circulation routière<br/>
 </p>

@@ -6,11 +6,11 @@ CHEFS DE SERVICE
 <tbody>
 <tr>
 <td>
-<p align="center"> ENTITÉ D'EMPLOI<br/>
+<p align="center">ENTITÉ D'EMPLOI<br/>
 </p>
 </td>
 <td>
-<p align="center"> INTITULÉ DE L'EMPLOI</p>
+<p align="center">INTITULÉ DE L'EMPLOI</p>
 </td>
 </tr>
 <tr>
@@ -41,6 +41,14 @@ CHEFS DE SERVICE
 <td align="center">
 <p align="left">Chef de service chargé des questions sociales<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction des pêches maritimes et de l'aquaculture </p>
+</td>
+<td>
+<p align="left">Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture </p>
 </td>
 </tr>
 <tr>
@@ -102,10 +110,10 @@ SOUS-DIRECTEURS
 <tbody>
 <tr>
 <td>
-<p align="center"> ENTITÉ D'EMPLOI</p>
+<p align="center">ENTITÉ D'EMPLOI</p>
 </td>
 <td>
-<p align="center"> INTITULÉ DE L'EMPLOI</p>
+<p align="center">INTITULÉ DE L'EMPLOI</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +282,7 @@ SOUS-DIRECTEURS
 </p>
 </td>
 <td align="center">
-<p align="left">Sous-directeur du climat et de la qualité de l'air<br/>
+<p align="left">Sous-directeur de l'efficacité énergétique et de la qualité de l'air <br/>
 </p>
 </td>
 </tr>
