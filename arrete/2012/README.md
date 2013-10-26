@@ -1569,7 +1569,6 @@
 - [Arrêté du 18 octobre 2012 (AFSA1220377A)](arrete-du-18-octobre-2012-afsa1220377a)
 - [Arrêté du 18 octobre 2012 (ESRS1237062A)](arrete-du-18-octobre-2012-esrs1237062a)
 - [Arrêté du 18 octobre 2012 (INTC1233030A)](arrete-du-18-octobre-2012-intc1233030a)
-- [Arrêté du 18 octobre 2012 (MCCC1237268A)](arrete-du-18-octobre-2012-mccc1237268a)
 - [Arrêté du 18 octobre 2012 (SPOF1237435A)](arrete-du-18-octobre-2012-spof1237435a)
 - [Arrêté du 18 octobre 2012 (SPOF1237437A)](arrete-du-18-octobre-2012-spof1237437a)
 - [Arrêté du 18 octobre 2012 (SPOF1237442A)](arrete-du-18-octobre-2012-spof1237442a)
