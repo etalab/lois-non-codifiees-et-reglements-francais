@@ -7,94 +7,76 @@ POUR LA PÊCHE PROFESSIONNELLE AU CHALUT (1) EN MER MÉDITERRANÉE
 <table>
 <tbody>
 <tr>
-<td/>
-<td>
-<p align="center"> NOMBRE DE JOURS DE PÊCHE </p>
-<p align="center">par année de gestion <br/>
-</p>
+<td width="454"/>
+<td width="227">
+<p align="center">NOMBRE DE JOURS DE PÊCHE <br/>par année de gestion</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires adhérant à l'Organisation de producteurs COPEMART (COPEMART) <br/>
-</p>
+<td width="454">
+<p align="left">Navires adhérant à l'organisation de producteurs <br/>COPEMART (COPEMART) </p>
 </td>
-<td align="center">
-<br/>1 595 <br/>
+<td width="227">
+<p align="center">1 640</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Organisation de producteurs du Sud (OP DU SUD) <br/>
-</p>
+<td width="454">
+<p align="left">Navires adhérant à l'organisation de producteurs Organisation de producteurs du Sud (OP DU SUD) </p>
 </td>
-<td align="center">
-<br/>6 037 <br/>
+<td width="227">
+<p align="center">6 209</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Société coopérative maritime PRO. QUA. PORT (PROQUAPORT) <br/>
-</p>
+<td width="454">
+<p align="left">Navires adhérant à l'organisation de producteurs Société coopérative maritime PRO. QUA. PORT (PROQUAPORT) </p>
 </td>
-<td align="center">
-<br/>598 <br/>
+<td width="227">
+<p align="center">615</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs SA coopérative maritime des pêcheurs de Sète-Mole (SATHOAN) <br/>
-</p>
+<td width="454">
+<p align="left">Navires adhérant à l'organisation de producteurs SA Coopérative maritime des pêcheurs de Sète-Mole (SATHOAN) </p>
 </td>
-<td align="center">
-<br/>3 121 <br/>
+<td width="227">
+<p align="center">3 111</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur <br/>
-</p>
+<td width="454">
+<p align="left">Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur </p>
 </td>
-<td align="center">
-<br/>855 <br/>
+<td width="227">
+<p align="center">763</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la région Languedoc-Roussillon <br/>
-</p>
+<td width="454">
+<p align="left">Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la région Languedoc-Roussillon </p>
 </td>
-<td align="center">
-<br/>726 <br/>
+<td width="227">
+<p align="center">543</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la collectivité territoriale de Corse <br/>
-</p>
+<td width="454">
+<p align="left">Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la collectivité territoriale de Corse </p>
 </td>
-<td align="center">
-<br/>1 794 <br/>
+<td width="227">
+<p align="center">1 845</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Total <br/>
-</p>
+<td width="454">
+<p align="left">Total </p>
 </td>
-<td align="center">
-<br/>14 726 <br/>
+<td width="227">
+<p align="center">14 726</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-(1) Le terme de chalut recouvre, au sens du présent arrêté, l'ensemble des engins recensés comme chaluts par la classification statistique internationale type des engins de pêche de la FAO, qu'il s'agisse de chaluts de fond (TBB, OTB, PTB, TBN, TBS, TB) ou de chaluts pélagiques (OTM, PTM, TMS, TM, OTT, OT, PT, TX).
+(1) Le terme de chalut recouvre, au sens du présent arrêté, l'ensemble des engins recensés comme "chaluts" par la classification statistique internationale type des engins de pêche de la FAO, qu'il s'agisse de chaluts de fond (TBB, OTB, PTB, TBN, TBS, TB) ou de chaluts pélagiques (OTM, PTM, TMS, TM, OTT, OT, PT, TX).
