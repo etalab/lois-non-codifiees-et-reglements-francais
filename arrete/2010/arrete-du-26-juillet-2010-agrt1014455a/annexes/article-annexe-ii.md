@@ -10,4 +10,6 @@ Sociétés mères des courses :
 
 - Société d'encouragement à l'élevage du cheval français.
 
-Centres de formalités des entreprises.
+Centres de formalités des entreprises ;
+
+Fédération française d'équitation.
