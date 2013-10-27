@@ -686,7 +686,6 @@
 - [Arrêté du 24 novembre 2003 (SOCS0324635A)](arrete-du-24-novembre-2003-socs0324635a)
 - [Arrêté du 24 octobre 2003 (AGRF0301672A)](arrete-du-24-octobre-2003-agrf0301672a)
 - [Arrêté du 24 octobre 2003 (AGRF0301674A)](arrete-du-24-octobre-2003-agrf0301674a)
-- [Arrêté du 24 octobre 2003 (AGRF0301676A)](arrete-du-24-octobre-2003-agrf0301676a)
 - [Arrêté du 24 octobre 2003 (AGRF0301677A)](arrete-du-24-octobre-2003-agrf0301677a)
 - [Arrêté du 24 octobre 2003 (AGRF0301682A)](arrete-du-24-octobre-2003-agrf0301682a)
 - [Arrêté du 24 octobre 2003 (AGRF0301684A)](arrete-du-24-octobre-2003-agrf0301684a)
