@@ -1,0 +1,3 @@
+# Article 7
+
+Pour les infractions qui relèvent de sa compétence, l'office, dans le cadre de la législation applicable, adresse, aux services de la police nationale, aux unités de la gendarmerie nationale, aux services de la direction générale des douanes et droits indirects, de la direction générale des finances publiques et de la direction générale de la concurrence, de la consommation et de la répression des fraudes et aux autorités judiciaires, toutes indications utiles à l'identification ou à la recherche des délinquants ainsi que, sur leur demande, tous renseignements nécessaires aux enquêtes dont ils sont saisis.
