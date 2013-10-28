@@ -1,6 +1,6 @@
 # Article 18
 
-Les missions opérationnelles de secours, de sécurité civile, de police et de douane ne sont pas soumises aux interdictions ou réglementations prévues par les dispositions des 5°, 6° et 9° du I de l'article 3, du 1° du I de l'article 15 en tant qu'il concerne les véhicules nautiques motorisés, du 1° du II, du 2° du II en tant qu'il concerne le bivouac et du IV.
+Les missions opérationnelles de secours, de sécurité civile, de police et de douane ne sont pas soumises aux interdictions ou réglementations prévues par les dispositions des 5°, 6° et 9° du I de l'article 3, du 1° du I de l'article 15 en tant qu'il concerne les véhicules nautiques motorisés,    du 3° du I, du 1° du II, du 2° du II en tant qu'il concerne le bivouac et du IV.
 
 Les missions d'entraînement des mêmes services sont soumises à des modalités particulières d'application des dispositions énumérées par l'alinéa précédent.
 

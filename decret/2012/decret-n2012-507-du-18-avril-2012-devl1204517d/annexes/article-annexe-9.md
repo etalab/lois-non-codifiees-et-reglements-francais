@@ -4,6 +4,6 @@
 
 (PORT-PIN)
 
-Point E : le point de coordonnée de latitude 05° 30 25'' (Est) et de longitude 43° 11 57'' (Nord) ;
+Point E : le point de coordonnée de longitude  05° 30 25'' (Est) et de latitude  43° 11 57'' (Nord) ;
 
-Point F : le point de coordonnée de latitude 05° 30 33'' (Est) et de longitude 43° 11 57'' (Nord).
+Point F : le point de coordonnée de longitude  05° 30 33'' (Est) et de latitude  43° 11 57'' (Nord).

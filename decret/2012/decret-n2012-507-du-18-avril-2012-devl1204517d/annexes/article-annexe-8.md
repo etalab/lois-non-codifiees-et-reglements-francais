@@ -4,6 +4,6 @@
 
 (EN VAU)
 
-Point E : le point de coordonnée de latitude 05° 30 16'' (Est) et de longitude 43° 11 56'' (Nord) ;
+Point E : le point de coordonnée de longitude  05° 30 16'' (Est) et de latitude  43° 11 56'' (Nord) ;
 
-Point F : le point de coordonnée de latitude 05° 30 19'' (Est) et de longitude 43° 12 00'' (Nord).
+Point F : le point de coordonnée de longitude  05° 30 19'' (Est) et de latitude  43° 12 00'' (Nord).

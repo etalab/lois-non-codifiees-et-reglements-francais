@@ -16,7 +16,7 @@ b) Dans la calanque de Port-Pin, entre le fond de la calanque et une ligne droit
 
 Cette interdiction n'est pas applicable aux navires de transport de passagers mentionnés à l'article 31, dans les conditions et limites définies par cet article ;
 
-5° Le débarquement et l'embarquement de passagers dans le cadre d'activités commerciales ou para-commerciales, à l'exception du débarcadère de l'île Verte.
+5° Le débarquement et l'embarquement de passagers dans le cadre d'activités commerciales ou para-commerciales,          à l'exception des débarcadères de l'île Verte et de l'île d'If.
 
 II. ― Sauf autorisation du directeur de l'établissement public, sont interdits :
 

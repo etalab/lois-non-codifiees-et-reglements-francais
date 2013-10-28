@@ -8,7 +8,7 @@ Point N : le point de coordonnée de longitude 05° 19 55'' (Est) et de latitude
 
 Point O : le point de coordonnée de longitude 05° 16 27'' (Est) et de latitude 43° 17 47'' (Nord) ;
 
-Point P : le point de coordonnée de longitude 04° 59 42'' (Est) et de latitude 43° 05 06'' (Nord) ;
+Point P : le point de coordonnée de longitude 04° 59 45'' (Est) et de latitude 43° 05 09'' (Nord)  ;
 
 Point Q : le point de coordonnée de longitude 05° 39 34'' (Est) et de latitude 42° 53 18'' (Nord) ;
 

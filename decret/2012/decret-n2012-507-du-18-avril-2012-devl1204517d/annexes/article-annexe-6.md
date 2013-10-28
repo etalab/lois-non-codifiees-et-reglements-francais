@@ -4,6 +4,6 @@ A DU 3° DU I DE L'ARTICLE 15
 
 (EN VAU)
 
-Point A : le point de coordonnée de latitude 05° 30 00'' (Est) et de longitude 43° 12 03'' (Nord) ;
+Point A : le point de coordonnée de longitude  05° 30 00'' (Est) et de latitude  43° 12 03'' (Nord) ;
 
-Point B : le point de coordonnée de latitude 05° 30 01'' (Est) et de longitude 43° 12 06'' (Nord).
+Point B : le point de coordonnée de longitude  05° 30 01'' (Est) et de latitude  43° 12 06'' (Nord).
