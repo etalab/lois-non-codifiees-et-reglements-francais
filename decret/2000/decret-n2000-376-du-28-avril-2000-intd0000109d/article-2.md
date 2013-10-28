@@ -22,7 +22,9 @@ II. - Les bijoux et les métaux précieux doivent être transportés :
 
 III. - La monnaie divisionnaire et l'or d'investissement au sens de l'article 298 sexdecies A du code général des impôts sont transportés dans des véhicules blindés, avec un équipage d'au moins trois personnes y compris le conducteur, conformes aux dispositions de l'article 4.
 
-Par dérogation à l'alinéa précédent, pour les transports de la Banque de France comprenant au maximum 115 000 euros en pièces de 1 ou 2 euros, la monnaie divisionnaire est transportée :
+Toutefois, pour l'application du règlement n° 1214/2011 du Parlement européen et du Conseil du 16 novembre 2011, les entreprises titulaires d'une licence de transport de fonds transfrontalier délivrée par le Conseil national des activités privées de sécurité peuvent assurer le transport de monnaie divisionnaire soit au moyen d'un véhicule blindé, dans les conditions prévues à l'alinéa précédent, soit au moyen d'un véhicule semi-blindé transportant uniquement des pièces, dans les conditions prévues à l'article 4 du présent décret. Le véhicule semi-blindé est muni d'un marquage très visible indiquant qu'il ne transporte que des pièces et correspondant au pictogramme représenté à l'annexe IV du règlement européen susvisé.
+
+Par dérogation au premier alinéa du présent III, pour les transports de la Banque de France comprenant au maximum 115 000 euros en pièces de 1 ou 2 euros, la monnaie divisionnaire est transportée :
 
 1° Dans des véhicules blindés sur lesquels ne figure pas la raison sociale de l'entreprise de transport de fonds, avec un équipage d'au moins deux personnes armées et en tenue, y compris le conducteur, dans les conditions prévues aux trois premiers alinéas de l'article 8 ;
 

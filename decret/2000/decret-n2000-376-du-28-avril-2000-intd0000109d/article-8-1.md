@@ -41,3 +41,5 @@ III. - Un arrêté du ministre de l'intérieur fixe :
 IV. - Aux fins d'agrément des dispositifs de neutralisation importés des autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, sont acceptés les rapports d'essais et les certificats établis par un organisme agréé ou accrédité dans ces Etats qui attestent la conformité de ces dispositifs à des conditions techniques et réglementaires assurant un niveau de protection équivalent à celui prévu par le présent décret et l'arrêté mentionné au III.
 
 IV. - Une entreprise de transport de fonds peut utiliser un dispositif de neutralisation de billets à condition de respecter le fonctionnement et les préconisations du constructeur en matière de maintenance tels que décrits dans l'agrément.
+
+VI. - Le dispositif de neutralisation, dont l'agrément a été délivré antérieurement au 1er décembre 2012 mais est venu à expiration, peut toutefois continuer à être utilisé pendant une durée maximale de quatre années après sa date d'acquisition, dès lors que cette date est antérieure à la date d'expiration de l'agrément.
