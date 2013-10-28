@@ -10,17 +10,17 @@ III. ― Les dispositions de l'antépénultième alinéa de l'article R. 5121-14
 
 IV. ― La première transmission à la Commission européenne des résultats de l'évaluation périodique du système de pharmacovigilance mis en œuvre par l'Agence nationale de sécurité du médicament et des produits de santé, mentionnés au premier alinéa de l'article R. 5121-154 du code de la santé publique, a lieu le 21 septembre 2013 au plus tard.
 
-V. ― Les dispositions prévues au 2° de l'article R. 5121-156 du code de la santé publique entrent en vigueur dans un délai de six mois à compter de l'annonce par l'Agence européenne du médicament de la mise en œuvre effective des nouvelles fonctionnalités de la base de données européenne "Eudravigilance”.
+V. ― Les dispositions prévues au 2° de l'article R. 5121-166 du code de la santé publique entrent en vigueur dans un délai de six mois à compter de l'annonce par l'Agence européenne du médicament de la mise en œuvre effective des nouvelles fonctionnalités de la base de données européenne " Eudravigilance ”.
 
 Jusqu'à l'expiration de ce délai, toute entreprise ou tout organisme exploitant un médicament ou un produit mentionné à l'article R. 5121-150, est tenu de déclarer :
 
 1° Tout effet indésirable grave suspecté d'être dû à un médicament ou à un produit, survenu en France, ayant été porté à sa connaissance, au directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, et ce, dans les quinze jours suivant la réception de l'information ;
 
-2° Tout effet indésirable grave suspecté d'être dû à un médicament ou à un produit, survenu dans un pays tiers, ayant été porté à sa connaissance, à la base de données « Eudravigilance », et ce, dans les quinze jours suivant la réception de l'information.
+2° Tout effet indésirable grave suspecté d'être dû à un médicament ou à un produit, survenu dans un pays tiers, ayant été porté à sa connaissance, à la base de données Eudravigilance, et ce, dans les quinze jours suivant la réception de l'information.
 
-Toutefois les entreprises ou organismes exploitant un médicament ou un produit mentionné à l'article R. 5121-150, qui déclarent pendant la période transitoire définie au V ces informations à la base « Eudravigilance », ne sont pas tenus aux obligations de déclaration à l'agence mentionnées aux 1° et 2°.
+Toutefois les entreprises ou organismes exploitant un médicament ou un produit mentionné à l'article R. 5121-150, qui déclarent pendant la période transitoire définie au V ces informations à la base Eudravigilance, ne sont pas tenus aux obligations de déclaration à l'agence mentionnées aux 1° et 2°.
 
-VI. ― Les dispositions de l'article R. 5121-156 entrent en vigueur à compter de l'annonce par l'Agence européenne du médicament de la mise en œuvre effective des nouvelles fonctionnalités de la base de données européennes « Eudravigilance ».
+VI. ― Les dispositions de l'article R. 5121-156 entrent en vigueur à compter de l'annonce par l'Agence européenne du médicament de la mise en œuvre effective des nouvelles fonctionnalités de la base de données européennes Eudravigilance.
 
 Jusqu'à cette annonce, les dispositions de l'article R. 5121-157 du code de la santé publique, dans leur rédaction antérieure au présent décret demeurent en vigueur.
 
