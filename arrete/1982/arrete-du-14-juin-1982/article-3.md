@@ -20,7 +20,9 @@ La direction générale des finances publiques utilise le fichier SIRENE pour ce
 
 Ces données sont conservées trois ans révolus après l'enregistrement de la clôture du compte pour les comptes dont le titulaire est une personne physique et dix ans révolus après l'enregistrement de la clôture du compte pour les comptes dont le titulaire est une personne morale.
 
-II. - Les données à caractère personnel utilisées pour permettre l'accès aux agents de la DGFiP, de la DGDDI, de TRACFIN, des branches maladie, famille, vieillesse et recouvrement du régime général de la sécurité sociale, du régime social des indépendants, de la mutualité sociale agricole, de la Caisse nationale des industries électriques et gazières, de la Caisse nationale militaire de sécurité sociale, des institutions chargées de mettre en œuvre les régime de retraite complémentaire et affiliées aux deux grandes fédérations ARRCO et AGIRC sont issues des annuaires de la direction générale des finances publiques. Ces informations sont les suivantes :
+II. - Les données à caractère personnel utilisées pour permettre l'accès aux agents de la DGFiP, de la DGDDI, de TRACFIN, des branches maladie, famille, vieillesse et recouvrement du régime général de la sécurité sociale, du régime social des indépendants, de la Mutualité sociale agricole, de la Caisse nationale des industries électriques et gazières, de la Caisse nationale militaire de sécurité sociale, des institutions chargées de mettre en œuvre les régimes de retraite complémentaire et affiliées aux deux grandes fédérations ARRCO et AGIRC et de l'institution mentionnée à l'
+article L. 5312-1 du code du travail
+sont issues des annuaires de la direction générale des finances publiques. Ces informations sont les suivantes :
 
 - nom, prénom ;
 

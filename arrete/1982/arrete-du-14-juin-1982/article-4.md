@@ -22,13 +22,15 @@ Indépendamment des autorités judiciaires, des officiers de police judiciaire a
 
 -les huissiers de justice chargés par le créancier de former une demande de paiement direct d'une pension alimentaire, visés à l'article L. 151 du livre des procédures fiscales, ou qui agissent aux fins d'assurer l'exécution d'un titre exécutoire visé par l'article L. 151 A du livre des procédures fiscales ;
 
--les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale, la direction générale des finances publique et les institutions de retraite complémentaire chargées de déterminer l'assiette, le montant et le recouvrement des cotisations et contributions, visées à l'article L. 152 du livre des procédures fiscales susvisé ;
+-les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale, les institutions de retraite complémentaire chargées de déterminer l'assiette, le montant et le recouvrement des cotisations et contributions, les services chargés de la gestion et du paiement des pensions aux fonctionnaires de l'Etat et assimilées et l'institution mentionnée à l'article L. 5312-1 du code du travail, visés à l'
+article L. 152 du livre des procédures fiscales
+;
 
 -les organismes débiteurs de prestations familiales chargés de poursuivre le recouvrement des créances alimentaires impayées, visés à l'article L. 162 A du livre des procédures fiscales ;
 
 -la Banque de France, l'Institut d'émission des départements d'outre-mer et l'Institut d'émission d'outre-mer, chargés d'assurer la centralisation des informations relatives aux titulaires de comptes, visées au deuxième alinéa de l'article 17-II de la loi n° 91-1382 du 30 décembre 1991 susvisée.
 
--les agents de la cellule de coordination chargée du traitement du renseignement et de l'action contre les circuits financiers clandestins (TRACFIN) en application de l'article L. 563-5 du code monétaire et financier susvisé ;
+-les agents de la cellule de coordination chargée du traitement du renseignement et de l'action contre les circuits financiers clandestins (TRACFIN) en application de l'article L. 561-27 du code monétaire et financier susvisé ;
 
 -les agents comptables du budget annexe de l'aviation civile en vertu de l'article L. 81, troisième alinéa, du livre des procédures fiscales ;
 
