@@ -676,11 +676,7 @@ Disposition équivalente pour l'application de la prescription relative aux plan
 
 Toute plate-forme de forage fixe ou flottante ou autre installation au large employée à l'exploration, l'exploitation ou le traitement associé au large de ressources minérales du fond marin, qui a un plan d'urgence contre la pollution par les hydrocarbures coordonné avec l'État côtier et approuvé conformément aux procédures établies par ce dernier devrait être considérée comme satisfaisant à la règle 37.
 
-Interprétation uniforme 60 - Installations de réception adéquates pour les substances auxquelles s'applique la règle 2.4
-
-Règle 38
-
-Les ports de déchargement qui reçoivent des substances auxquelles s'applique la règle 2.4 (lesquelles comprennent notamment les hydrocarbures à densité élevée) devraient avoir des installations adéquates spécialement adaptées à ces produits, qui permettent d'effectuer toute l'opération de nettoyage des citernes au port, et des installations de réception adéquates pour le déchargement et la réception appropriés des résidus de cargaison et des solvants nécessaires aux opérations de nettoyage conformément aux dispositions du paragraphe 6.2 des Interprétations uniformes.
+Interprétation uniforme 60 : sans objet
 
 Interprétation uniforme 61 - Dispositions applicables aux plates-formes fixes ou flottantes
 
