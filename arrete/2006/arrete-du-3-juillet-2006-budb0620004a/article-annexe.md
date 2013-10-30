@@ -17,7 +17,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>AFGHANISTAN</p>
+<p align="left">AFGHANISTAN</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -38,12 +38,14 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </td>
 </tr>
 <tr>
-<td>AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet </td>
 <td>
-<p align="center"> EURO</p>
+<p align="left">AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet </p>
 </td>
 <td>
-<p align="center"> 185</p>
+<p align="center">EURO</p>
+</td>
+<td>
+<p align="center">185</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +53,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>ALBANIE</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">147</p>
+<p align="center">180</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +111,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">260</p>
+<p align="center">208</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +122,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">288</p>
+<p align="center">230</p>
 </td>
 </tr>
 <tr>
@@ -300,14 +302,23 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </td>
 </tr>
 <tr>
+<td>BIRMANIE</td>
+<td>
+<p align="center">DOLLAR US</p>
+</td>
+<td>
+<p align="center">250</p>
+</td>
+</tr>
+<tr>
 <td width="33%">
 <p>BOLIVIE</p>
 </td>
 <td width="33%">
-<p align="center">EURO</p>
+<p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">70</p>
+<p align="center">135</p>
 </td>
 </tr>
 <tr>
@@ -337,10 +348,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>BRESIL</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">148</p>
+<p align="center">216</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +461,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">FRANC CFA</p>
 </td>
 <td width="33%">
-<p align="center">58 200</p>
+<p align="center">80 000</p>
 </td>
 </tr>
 <tr>
@@ -461,7 +472,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">150</p>
+<p align="center">217</p>
 </td>
 </tr>
 <tr>
@@ -476,17 +487,19 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </td>
 </tr>
 <tr>
-<td> Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010 </td>
+<td>
+<p align="left">Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010 </p>
+</td>
 <td>
 <p align="center">YUAN CHINOIS (CNY)</p>
 </td>
 <td>
-<p align="center"> 2,200</p>
+<p align="center">2,200</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>CHYPRE</p>
+<p align="left">CHYPRE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -497,7 +510,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COLOMBIE</p>
+<p align="left">COLOMBIE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -508,7 +521,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COMORES</p>
+<p align="left">COMORES</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -519,7 +532,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>CONGO</p>
+<p align="left">CONGO</p>
 </td>
 <td width="33%">
 <p align="center">FRANC CFA</p>
@@ -530,7 +543,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>CONGO (République démocratique du)</p>
+<p align="left">CONGO (République démocratique du)</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -541,7 +554,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COOK (îles)</p>
+<p align="left">COOK (îles)</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR NEO-ZELANDAIS</p>
@@ -552,7 +565,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COREE DU NORD</p>
+<p align="left">COREE DU NORD</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -563,7 +576,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COREE DU SUD</p>
+<p align="left">COREE DU SUD</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -574,7 +587,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COSTA RICA</p>
+<p align="left">COSTA RICA</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -585,7 +598,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>COTE D'IVOIRE</p>
+<p align="left">COTE D'IVOIRE</p>
 </td>
 <td width="33%">
 <p align="center">FRANC CFA</p>
@@ -596,7 +609,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>CROATIE</p>
+<p align="left">CROATIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -607,7 +620,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>CUBA</p>
+<p align="left">CUBA</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -618,7 +631,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>CURAÇAO</p>
+<p align="left">CURAÇAO</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -629,7 +642,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>DANEMARK</p>
+<p align="left">DANEMARK</p>
 </td>
 <td width="33%">
 <p align="center">COURONNE DANOISE</p>
@@ -640,7 +653,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>DJIBOUTI</p>
+<p align="left">DJIBOUTI</p>
 </td>
 <td width="33%">
 <p align="center">FRANC DJIBOUTI</p>
@@ -651,7 +664,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>DOMINICAINE (République)</p>
+<p align="left">DOMINICAINE (République)</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -662,18 +675,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>DOMINIQUE</p>
+<p align="left">DOMINIQUE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">134</p>
+<p align="center">201</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>EGYPTE</p>
+<p align="left">EGYPTE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -684,7 +697,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>EMIRATS ARABES UNIS</p>
+<p align="left">EMIRATS ARABES UNIS</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -695,7 +708,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>EQUATEUR</p>
+<p align="left">EQUATEUR</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -706,7 +719,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ERYTHREE</p>
+<p align="left">ERYTHREE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -717,7 +730,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ESPAGNE</p>
+<p align="left">ESPAGNE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -728,7 +741,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ESTONIE</p>
+<p align="left">ESTONIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -739,7 +752,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ETATS-UNIS D'AMERIQUE</p>
+<p align="left">ETATS-UNIS D'AMERIQUE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -750,7 +763,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>Ville de NEW YORK :</p>
+<p align="left">Ville de NEW YORK :</p>
 </td>
 <td width="33%">
 <br/>
@@ -763,7 +776,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>- période allant du 1er janvier au 31 août</p>
+<p align="left">- période allant du 1er janvier au 31 août</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -774,7 +787,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>- période allant du 1er septembre au 31 décembre</p>
+<p align="left">- période allant du 1er septembre au 31 décembre</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -785,7 +798,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ETHIOPIE</p>
+<p align="left">ETHIOPIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -796,7 +809,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>FIDJI</p>
+<p align="left">FIDJI</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR DE FIDJI</p>
@@ -807,7 +820,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>FINLANDE</p>
+<p align="left">FINLANDE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -818,18 +831,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GABON</p>
+<p align="left">GABON</p>
 </td>
 <td width="33%">
 <p align="center">FRANC CFA</p>
 </td>
 <td width="33%">
-<p align="center">79 040</p>
+<p align="center">100 000</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>GAMBIE</p>
+<p align="left">GAMBIE</p>
 </td>
 <td width="33%">
 <p align="center">DALASI</p>
@@ -840,7 +853,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GEORGIE</p>
+<p align="left">GEORGIE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -851,7 +864,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GHANA</p>
+<p align="left">GHANA</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -862,7 +875,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GRANDE-BRETAGNE</p>
+<p align="left">GRANDE-BRETAGNE</p>
 </td>
 <td width="33%">
 <p align="center">LIVRE STERLING</p>
@@ -873,7 +886,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GRECE</p>
+<p align="left">GRECE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -884,18 +897,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GRENADE</p>
+<p align="left">GRENADE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">181</p>
+<p align="center">199</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>GUATEMALA</p>
+<p align="left">GUATEMALA</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -906,18 +919,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GUINEE</p>
+<p align="left">GUINEE</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">160</p>
+<p align="center">170</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>GUINEE-BISSAU</p>
+<p align="left">GUINEE-BISSAU</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -928,7 +941,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GUINEE EQUATORIALE</p>
+<p align="left">GUINEE EQUATORIALE</p>
 </td>
 <td width="33%">
 <p align="center">FRANC CFA</p>
@@ -939,7 +952,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>GUYANA</p>
+<p align="left">GUYANA</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -950,7 +963,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>HAITI</p>
+<p align="left">HAITI</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -961,7 +974,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>HONDURAS</p>
+<p align="left">HONDURAS</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -972,7 +985,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>HONG KONG</p>
+<p align="left">HONG KONG</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR DE HONG KONG</p>
@@ -983,7 +996,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>HONGRIE</p>
+<p align="left">HONGRIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -994,7 +1007,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>INDE</p>
+<p align="left">INDE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1005,7 +1018,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>INDONESIE</p>
+<p align="left">INDONESIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1016,7 +1029,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>IRAN</p>
+<p align="left">IRAN</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -1027,7 +1040,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>IRAK</p>
+<p align="left">IRAK</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1038,7 +1051,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>IRLANDE</p>
+<p align="left">IRLANDE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1049,7 +1062,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ISLANDE</p>
+<p align="left">ISLANDE</p>
 </td>
 <td width="33%">
 <p align="center">COURONNE ISLANDAISE</p>
@@ -1060,18 +1073,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>ISRAEL</p>
+<p align="left">ISRAEL</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">222</p>
+<p align="center">230</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>ITALIE</p>
+<p align="left">ITALIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1082,7 +1095,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>JAMAIQUE</p>
+<p align="left">JAMAIQUE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -1093,18 +1106,27 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>JAPON</p>
+<p align="left">JAPON</p>
 </td>
 <td width="33%">
 <p align="center">YEN</p>
 </td>
 <td width="33%">
-<p align="center">34 000</p>
+<p align="center">25 500</p>
+</td>
+</tr>
+<tr>
+<td>Ville de TOKYO</td>
+<td>
+<p align="center">YEN</p>
+</td>
+<td>
+<p align="center">30 000 </p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>JORDANIE</p>
+<p align="left">JORDANIE</p>
 </td>
 <td width="33%">
 <p align="center">DINAR JORDANIEN</p>
@@ -1115,7 +1137,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>KAZAKHSTAN</p>
+<p align="left">KAZAKHSTAN</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1137,7 +1159,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>KIRGHIZISTAN</p>
+<p align="left">KIRGHIZISTAN</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1148,7 +1170,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>KIRIBATI</p>
+<p align="left">KIRIBATI</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR DE FIDJI</p>
@@ -1159,7 +1181,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>KOWEIT</p>
+<p align="left">KOWEIT</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1170,18 +1192,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LAOS</p>
+<p align="left">LAOS</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">88</p>
+<p align="center">150</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>LESOTHO</p>
+<p align="left">LESOTHO</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1192,7 +1214,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LETTONIE</p>
+<p align="left">LETTONIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1203,7 +1225,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LIBAN</p>
+<p align="left">LIBAN</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1214,10 +1236,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LIBERIA</p>
+<p align="left">LIBERIA</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR LIBERIEN</p>
+<p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
 <p align="center">230</p>
@@ -1225,18 +1247,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LIBYE</p>
+<p align="left">LIBYE</p>
 </td>
 <td width="33%">
 <p align="center">DINAR LIBYEN</p>
 </td>
 <td width="33%">
-<p align="center">125</p>
+<p align="center">280</p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>LIECHTENSTEIN</p>
+<p align="left">LIECHTENSTEIN</p>
 </td>
 <td width="33%">
 <p align="center">FRANC SUISSE</p>
@@ -1247,7 +1269,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LITUANIE</p>
+<p align="left">LITUANIE</p>
 </td>
 <td width="33%">
 <p align="center">LITAS</p>
@@ -1258,7 +1280,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>LUXEMBOURG</p>
+<p align="left">LUXEMBOURG</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1269,7 +1291,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MACAO</p>
+<p align="left">MACAO</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR DE HONG KONG</p>
@@ -1280,7 +1302,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MACEDOINE</p>
+<p align="left">MACEDOINE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1291,7 +1313,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MADAGASCAR</p>
+<p align="left">MADAGASCAR</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1302,7 +1324,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MALAISIE</p>
+<p align="left">MALAISIE</p>
 </td>
 <td width="33%">
 <p align="center">RINGGIT</p>
@@ -1313,7 +1335,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MALAWI</p>
+<p align="left">MALAWI</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -1324,7 +1346,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MALDIVES (îles)</p>
+<p align="left">MALDIVES (îles)</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1335,7 +1357,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MALI</p>
+<p align="left">MALI</p>
 </td>
 <td width="33%">
 <p align="center">FRANC CFA</p>
@@ -1346,7 +1368,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MALTE</p>
+<p align="left">MALTE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1357,7 +1379,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MAROC</p>
+<p align="left">MAROC</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1368,7 +1390,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MARSHALL (îles)</p>
+<p align="left">MARSHALL (îles)</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -1379,18 +1401,18 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MAURICE</p>
+<p align="left">MAURICE (île)</p>
 </td>
 <td width="33%">
-<p align="center">ROUPIE ILE MAURICE</p>
+<p align="center">ROUPIE MAURICIENNE</p>
 </td>
 <td width="33%">
-<p align="center">3 684</p>
+<p align="center">5 500 </p>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<p>MAURITANIE</p>
+<p align="left">MAURITANIE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1401,7 +1423,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MEXIQUE</p>
+<p align="left">MEXIQUE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1412,7 +1434,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MICRONESIE</p>
+<p align="left">MICRONESIE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -1434,7 +1456,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MONGOLIE EXTERIEURE</p>
+<p align="left">MONGOLIE EXTERIEURE</p>
 </td>
 <td width="33%">
 <p align="center">EURO</p>
@@ -1445,7 +1467,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p>MONTENEGRO</p>
+<p align="left">MONTENEGRO</p>
 </td>
 <td>
 <p align="center">EURO</p>
@@ -1456,7 +1478,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </tr>
 <tr>
 <td width="33%">
-<p>MOZAMBIQUE</p>
+<p align="left">MOZAMBIQUE</p>
 </td>
 <td width="33%">
 <p align="center">DOLLAR US</p>
@@ -1759,7 +1781,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">127</p>
+<p align="center">277</p>
 </td>
 </tr>
 <tr>
@@ -1771,6 +1793,15 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </td>
 <td width="33%">
 <p align="center">144</p>
+</td>
+</tr>
+<tr>
+<td>SAINT-CHRISTOPHE-ET-NIEVES</td>
+<td>
+<p align="center">DOLLAR US</p>
+</td>
+<td>
+<p align="center">202</p>
 </td>
 </tr>
 <tr>
@@ -1936,6 +1967,17 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 </td>
 <td width="33%">
 <p align="center">175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Sud SOUDAN</p>
+</td>
+<td>
+<p align="center">DOLLAR US</p>
+</td>
+<td>
+<p align="center">306</p>
 </td>
 </tr>
 <tr>
@@ -2243,7 +2285,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">118,50</p>
+<p align="center">180</p>
 </td>
 </tr>
 </tbody>
