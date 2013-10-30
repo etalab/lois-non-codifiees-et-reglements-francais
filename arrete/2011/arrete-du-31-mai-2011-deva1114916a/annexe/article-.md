@@ -2,60 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 septembre 2012
-
-Marseille-Bamako (Mali).
-
-Paris-Bamako (Mali).
-
-Jusqu'au 31 décembre 2012
-
-Lyon-Oujda (Maroc).
-
-Jusqu'au 31 mars 2013
-
-Lille-Alger (Algérie).
-
-Lyon-Alger (Algérie).
-
-Lyon-Constantine (Algérie).
-
-Mulhouse-Sétif (Algérie).
-
-Paris-Alger (Algérie).
-
-Paris-Annaba (Algérie).
-
-Paris-Béjaïa (Algérie).
-
-Paris-Constantine (Algérie).
-
-Paris-Djanet (Algérie).
-
-Paris-Oran (Algérie).
-
-Paris-Tamanghasset (Algérie).
-
-Paris-Tlemcen (Algérie).
-
-Jusqu'au 31 octobre 2013
-
-Lyon-Oran (Algérie).
-
-Marseille-Constantine (Algérie).
-
-Marseille-Oran (Algérie).
-
-Mulhouse-Alger (Algérie).
-
-Mulhouse-Constantine (Algérie).
-
-Paris-Hassi Messaoud (Algérie).
-
-Toulouse-Alger (Algérie).
-
-Toulouse-Oran (Algérie).
-
 Jusqu'au 31 janvier 2014
 
 Lille-Oran (Algérie).
@@ -211,3 +157,21 @@ Marseille - Dakar (Sénégal).
 Jusqu'au 30 septembre 2018 :
 
 Paris-Pékin (Chine).
+
+Jusqu'au 31 octobre 2018 :
+
+Lyon - Oran (Algérie) ;
+
+Marseille - Constantine (Algérie) ;
+
+Marseille - Oran (Algérie) ;
+
+Mulhouse - Alger (Algérie) ;
+
+Mulhouse - Constantine (Algérie) ;
+
+Paris - Hassi Messaoud (Algérie) ;
+
+Toulouse - Alger (Algérie) ;
+
+Toulouse - Oran (Algérie).
