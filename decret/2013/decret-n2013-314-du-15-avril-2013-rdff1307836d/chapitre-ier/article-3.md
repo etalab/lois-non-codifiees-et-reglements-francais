@@ -11,3 +11,5 @@ II. ― Le montant de l'indemnité attribuée aux fonctionnaires de l'Etat et au
 Les arrêtés mentionnés au I précisent la liste des postes éligibles à l'indemnité de sujétion géographique pour les personnels affectés à Saint-Martin et les taux applicables.
 
 III. ― Le montant de l'indemnité attribuée aux fonctionnaires de l'Etat et aux magistrats affectés à Saint-Pierre-et-Miquelon ou à Saint-Barthélemy est fixé à six mois du traitement indiciaire de base de l'agent.
+
+IV. - Le montant de l'indemnité attribuée aux fonctionnaires de l'Etat et aux magistrats affectés à Mayotte est fixé à vingt mois du traitement indiciaire de base de l'agent.
