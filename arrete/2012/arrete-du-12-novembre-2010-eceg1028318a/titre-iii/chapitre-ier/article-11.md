@@ -4,135 +4,143 @@ Les épreuves orales du concours pour la voie concours banque Mines-Ponts et les
 
 a) Filière MP :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>NATURE DE L'ÉPREUVE<br/>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
 </th>
-<th>COEFFICIENT<br/>
+<th>
+<br/>COEFFICIENT <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mathématiques</p>
+<br/>Mathématiques <br/>
 </td>
-<td align="center">14<br/>
+<td align="center">
+<br/>14 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Physique et chimie</p>
+<br/>Physique et chimie <br/>
 </td>
-<td align="center">10<br/>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Langue vivante</p>
+<br/>Anglais <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Entretien avec un jury</p>
+<br/>Entretien avec un jury <br/>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-b) Filière PC : <div align="center">
+b) Filière PC :
 
 <table>
 <tbody>
 <tr>
-<th>NATURE DE L'ÉPREUVE<br/>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
 </th>
-<th>COEFFICIENT<br/>
+<th>
+<br/>COEFFICIENT <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mathématiques</p>
+<br/>Mathématiques <br/>
 </td>
-<td align="center">8<br/>
+<td align="center">
+<br/>8 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Physique et chimie</p>
+<br/>Physique et chimie <br/>
 </td>
-<td align="center">16<br/>
+<td align="center">
+<br/>16 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Langue vivante</p>
+<br/>Anglais <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Entretien avec un jury</p>
+<br/>Entretien avec un jury <br/>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-c) Filière PSI : <div align="center">
+c) Filière PSI :
 
 <table>
 <tbody>
 <tr>
-<th>NATURE DE L'ÉPREUVE<br/>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
 </th>
-<th>COEFFICIENT<br/>
+<th>
+<br/>COEFFICIENT <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mathématiques</p>
+<br/>Mathématiques <br/>
 </td>
-<td align="center">9<br/>
+<td align="center">
+<br/>9 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Sciences industrielles</p>
+<br/>Sciences industrielles <br/>
 </td>
-<td align="center">15<br/>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Langue vivante</p>
+<br/>Anglais <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Entretien avec un jury</p>
+<br/>Entretien avec un jury <br/>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-Le programme des connaissances des épreuves orales de mathématiques, de physique et chimie, de sciences industrielles est le programme, défini par le ministre chargé de l'éducation nationale, de la filière indiquée par le candidat lors de son inscription au concours.
-
-La langue vivante est celle choisie par le candidat parmi les trois langues suivantes : allemand, anglais, espagnol, lors de son inscription aux épreuves orales du concours.
+Le programme des connaissances des épreuves orales de mathématiques, de physique et de chimie, de sciences industrielles est le programme, défini par le ministre chargé de l'éducation nationale, de la filière indiquée par le candidat lors de son inscription au concours.

@@ -1,62 +1,74 @@
 # Article 15
 
-L'admissibilité au concours pour la filière TSI est prononcée au vu des résultats obtenus par les candidats à certaines épreuves écrites du concours sur programme des classes préparatoires TSI organisé par le service des concours communs polytechniques. La nature et les coefficients de ces épreuves sont fixés comme suit :
-
-<div align="center">
+L'admissibilité au concours TSI est prononcée au vu des résultats obtenus par les candidats à certaines épreuves écrites du concours du programme des classes préparatoires TSI organisé par le service des concours communs polytechniques. La nature et le coefficient de ces épreuves sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
-<th>NATURE DE L'ÉPREUVE<br/>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
 </th>
-<th>COEFFICIENT<br/>
+<th>
+<br/>COEFFICIENT <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mathématiques I</p>
+<br/>Mathématiques I <br/>
 </td>
-<td align="center">2,5<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mathématiques II</p>
+<br/>Mathématiques II <br/>
 </td>
-<td align="center">2,5<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Physique</p>
+<br/>Physique <br/>
 </td>
-<td align="center">3<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Chimie</p>
+<br/>Chimie <br/>
 </td>
-<td align="center">2<br/>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Français</p>
+<br/>Français <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Projet : EEA + Mécanique</p>
+<br/>Projet : EEA + mécanique <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Langue vivante <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 La commission du concours visée à l'article 2 ci-dessus dresse la liste des candidats admissibles au concours pour la filière TSI.

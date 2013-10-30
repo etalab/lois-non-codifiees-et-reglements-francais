@@ -1,57 +1,58 @@
 # Article 17
 
-Les candidats déclarés admissibles passent les épreuves orales du concours sur programme des classes préparatoires TSI organisé par le service des concours communs polytechniques.
-
-Ces épreuves et les coefficients associés sont fixés comme suit :
-
-<div align="center">
+Les candidats déclarés admissibles passent les épreuves orales du concours sur programme des classes préparatoires TSI organisé par le service des concours communs polytechniques. Ces épreuves et les coefficients associés sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
-<th>NATURE DE L'ÉPREUVE<br/>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
 </th>
-<th>COEFFICIENT<br/>
+<th>
+<br/>COEFFICIENT <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mathématiques</p>
+<br/>Mathématiques <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Physique et chimie</p>
+<br/>Physique et chimie <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Langue vivante </p>
+<br/>Langue vivante <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>3 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Travaux pratiques de technologie</p>
+<br/>Travaux pratiques de technologie <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">TIPE </p>
+<br/>TIPE <br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>3 <br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 La langue vivante est celle choisie par le candidat parmi celles proposées par les concours communs polytechniques.
