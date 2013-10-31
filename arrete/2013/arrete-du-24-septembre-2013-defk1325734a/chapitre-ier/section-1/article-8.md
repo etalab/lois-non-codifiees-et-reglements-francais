@@ -1,0 +1,9 @@
+# Article 8
+
+La scolarité des élèves commissaires dure deux ans. Au cours de celle-ci, les élèves reçoivent une formation humaine et militaire d'officier ainsi qu'une formation professionnelle portant sur les domaines administratif, juridique, financier et logistique, adaptée à leur milieu d'emploi. La scolarité se répartit en trois périodes de formation :
+
+1. Une période de formation spécifique d'armée, qui donne aux élèves commissaires les bases nécessaires à l'état d'officier. Ce cycle de formation, d'une durée d'environ dix semaines, se déroule principalement au sein des écoles d'officiers de l'armée de terre, de la marine et de l'armée de l'air.
+
+2. Une période de formation d'administrateur, qui apporte aux élèves commissaires l'expertise nécessaire à l'exercice de fonctions d'encadrement supérieur dans le domaine de l'administration générale et des soutiens communs des armées et des formations rattachées du ministère de la défense. Cette formation interarmées commune à tous les ancrages et milieux d'emploi porte notamment sur l'administration, les finances, le droit, l'audit, le conseil, la logistique et l'environnement. Cette période de formation dure environ un an et se déroule principalement au sein de l'école des commissaires des armées.
+
+3. Une période de formation de milieu, qui permet aux élèves commissaires de se préparer à leur premier emploi au sein des unités opérationnelles des armées, directions et services en leur permettant d'appliquer à leur milieu d'emploi les compétences acquises lors de la période de formation d'administrateur. Cette période de formation, d'une durée d'environ huit mois, se déroule avec le concours d'unités et d'établissements relevant de l'armée de terre, de la marine, de l'armée de l'air, du service de santé des armées et de la direction générale de l'armement.
