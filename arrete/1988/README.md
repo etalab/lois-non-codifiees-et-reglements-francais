@@ -483,7 +483,6 @@
 - [Arrêté du 29 juillet 1988 (SPSP8801157A)](arrete-du-29-juillet-1988-spsp8801157a)
 - [Arrêté du 29 juillet 1988 (SPSS8801077A)](arrete-du-29-juillet-1988-spss8801077a)
 - [Arrêté du 29 mars 1988 (ASEH8800493A)](arrete-du-29-mars-1988-aseh8800493a)
-- [Arrêté du 29 mars 1988 (DEFD8801263A)](arrete-du-29-mars-1988-defd8801263a)
 - [Arrêté du 29 mars 1988 (PRMD8850008A)](arrete-du-29-mars-1988-prmd8850008a)
 - [Arrêté du 29 novembre 1988 (SPSH8801875A)](arrete-du-29-novembre-1988-spsh8801875a)
 - [Arrêté du 29 novembre 1988 (SPSS8801389A)](arrete-du-29-novembre-1988-spss8801389a)
