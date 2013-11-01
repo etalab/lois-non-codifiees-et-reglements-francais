@@ -6,4 +6,5 @@
 - [Chapitre IV : Dispositions applicables aux membres du corps de commandement du personnel de surveillance de l'administration pénitentiaire.](chapitre-iv)
 - [Chapitre V : Dispositions applicables aux directeurs techniques et techniciens de l'administration pénitentiaire.](chapitre-v)
 - [Chapitre VI : Dispositions applicables aux membres du corps d'encadrement et d'application du personnel de surveillance de l'administration pénitentiaire exerçant les fonctions de chef d'établissement et d'adjoint au chef d'établissement pénitentiaire.](chapitre-vi)
+- [Chapitre VI bis : Dispositions applicables aux directeurs fonctionnels des services pénitentiaires d'insertion et de probation, aux directeurs pénitentiaires d'insertion et de probation et aux chefs des services d'insertion et de probation](chapitre-vi-bis)
 - [Chapitre VII : Dispositions finales.](chapitre-vii)

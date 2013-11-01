@@ -72,7 +72,6 @@
 - [Décret n°2005-1602 du 19 décembre 2005 (JUSB0510679D)](decret-n2005-1602-du-19-decembre-2005-jusb0510679d)
 - [Décret n°2005-1603 du 19 décembre 2005 (JUSB0510681D)](decret-n2005-1603-du-19-decembre-2005-jusb0510681d)
 - [Décret n°2005-368 du 19 avril 2005 (AGRD0500695D)](decret-n2005-368-du-19-avril-2005-agrd0500695d)
-- [Décret n°2005-819 du 19 juillet 2005 (JUSK0540002D)](decret-n2005-819-du-19-juillet-2005-jusk0540002d)
 - [Décret du 20 octobre 2005 (AGRP0502060D)](decret-du-20-octobre-2005-agrp0502060d)
 - [Décret n°2004-1232 du 20 novembre 2004 (MCCX0400223D)](decret-n2004-1232-du-20-novembre-2004-mccx0400223d)
 - [Décret n°2004-836 du 20 août 2004 (JUSC0420451D)](decret-n2004-836-du-20-aout-2004-jusc0420451d)
