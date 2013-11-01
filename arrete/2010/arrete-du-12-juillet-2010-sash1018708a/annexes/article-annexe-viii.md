@@ -1,75 +1,95 @@
 # Article Annexe VIII
 
 <div align="center">RÉMUNÉRATION DES INTERNES ET DES RÉSIDENTS EN MÉDECINE, <br/>DES INTERNES EN PHARMACIE ET DES INTERNES EN ODONTOLOGIE </div>
-
 <div align="center">Articles R. 6153-1 à R. 6153-45 du code de la santé publique </div>
-
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>PERSONNELS CONCERNÉS <br/>
-</th>
-<th>MONTANTS <br/>au 1er juillet 2010 <br/>(en euros) <br/>
-</th>
+<td>
+<p align="center"> PERSONNELS CONCERNÉS </p>
+</td>
+<td>
+<p align="center"> MONTANTS <br/>au 1er juillet 2010 <br/>(en euros) <br/>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center">I. ― Montants bruts annuels de la rémunération : <br/>
+<td align="center">
+<p align="center">I. ― Montants bruts annuels de la rémunération : <br/>
+</p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">― des internes en médecine, des internes en pharmacie et des internes en odontologie : <br/>― des résidents en médecine : <br/>
+<td align="center">
+<p align="left">― des internes en médecine, des internes en pharmacie et des internes en odontologie : <br/>― des résidents en médecine : <br/>
+</p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">― internes de 5e année <br/>
+<td align="center">
+<p align="left">― internes de 5e année <br/>
+</p>
 </td>
 <td align="center">25 348, 46 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― internes de 4e année <br/>
+<td align="center">
+<p align="left">― internes de 4e année <br/>
+</p>
 </td>
 <td align="center">25 348, 46 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― internes et résidents de 3e année <br/>
+<td align="center">
+<p align="left">― internes et résidents de 3e année <br/>
+</p>
 </td>
 <td align="center">25 348, 46 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― internes et résidents de 2e année <br/>
+<td align="center">
+<p align="left">― internes et résidents de 2e année <br/>
+</p>
 </td>
 <td align="center">18 273, 81 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― internes et résidents de 1re année <br/>
+<td align="center">
+<p align="left">― internes et résidents de 1re année <br/>
+</p>
 </td>
 <td align="center">16 506, 09 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Montant brut mensuel de l'indemnité de sujétions particulières allouée : <br/>
+<td align="center">
+<p align="left">Montant brut mensuel de l'indemnité de sujétions particulières allouée : <br/>
+</p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">― aux internes et résidents pour les 1er, 2e, 3e et 4e semestres <br/>
+<td align="center">
+<p align="left">― aux internes et résidents de 1re et 2e année<br/>
+</p>
 </td>
-<td align="center">371, 23 <br/>
+<td align="center">430 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― aux FFI <br/>
+<td align="center">
+<p align="left">― aux FFI <br/>
+</p>
 </td>
-<td align="center">371, 23 <br/>
-</td>
+<td align="center">430</td>
 </tr>
 <tr>
 <td align="center">II. ― Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (montant brut annuel) <br/>
@@ -88,19 +108,25 @@
 </td>
 </tr>
 <tr>
-<td align="center">― majoration pour ceux qui sont non logés et non nourris <br/>
+<td align="center">
+<p align="left">― majoration pour ceux qui sont non logés et non nourris <br/>
+</p>
 </td>
 <td align="center">998, 62 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― majoration pour ceux qui sont non logés mais nourris <br/>
+<td align="center">
+<p align="left">― majoration pour ceux qui sont non logés mais nourris <br/>
+</p>
 </td>
 <td align="center">332, 32 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― majoration pour ceux qui sont non nourris mais logés <br/>
+<td align="center">
+<p align="left">― majoration pour ceux qui sont non nourris mais logés <br/>
+</p>
 </td>
 <td align="center">666, 29 <br/>
 </td>
@@ -111,13 +137,17 @@
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">― internes en médecine de 5e année <br/>
+<td align="center">
+<p align="left">― internes en médecine de 5e année <br/>
+</p>
 </td>
 <td align="center">4 020, 00 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">― internes en médecine de 4e année <br/>
+<td align="center">
+<p align="left">― internes en médecine de 4e année <br/>
+</p>
 </td>
 <td align="center">2 026, 11<br/>
 </td>

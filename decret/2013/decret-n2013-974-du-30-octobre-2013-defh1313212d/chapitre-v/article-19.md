@@ -1,0 +1,5 @@
+# Article 19
+
+Les fonctionnaires civils appartenant à un corps ou cadre d'emplois classé dans la catégorie B ou de niveau équivalent peuvent être détachés ou directement intégrés dans le corps des techniciens paramédicaux civils du ministère de la défense régi par le présent décret s'ils justifient de l'un des diplômes ou titres requis pour l'accès à ce corps.
+
+Le détachement ou l'intégration directe sont prononcés à équivalence de grade et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu par l'intéressé dans son grade d'origine. Dans la limite de l'ancienneté moyenne exigée à l'article 17 pour une promotion à l'échelon supérieur, les agents conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancien grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans l'ancien grade ou qui a résulté de leur nomination audit échelon, si cet échelon était le plus élevé de leur précédent grade.
