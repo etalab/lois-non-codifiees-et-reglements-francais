@@ -368,7 +368,6 @@
 - [Décret n°2003-460 du 21 mai 2003 (FPPA0310013D)](decret-n2003-460-du-21-mai-2003-fppa0310013d)
 - [Décret n°2003-461 du 21 mai 2003 (SANX0200142D)](decret-n2003-461-du-21-mai-2003-sanx0200142d)
 - [Décret n°2003-462 du 21 mai 2003 (SANP0321523D)](decret-n2003-462-du-21-mai-2003-sanp0321523d)
-- [Décret du 22 août 2003 (DEVN0310060D)](decret-du-22-aout-2003-devn0310060d)
 - [Décret n°2003-1010 du 22 octobre 2003 (SOCA0323026D)](decret-n2003-1010-du-22-octobre-2003-soca0323026d)
 - [Décret n°2003-1022 du 22 octobre 2003 (EQUK0301226D)](decret-n2003-1022-du-22-octobre-2003-equk0301226d)
 - [Décret n°2003-1236 du 22 décembre 2003 (ECOT0395116D)](decret-n2003-1236-du-22-decembre-2003-ecot0395116d)
