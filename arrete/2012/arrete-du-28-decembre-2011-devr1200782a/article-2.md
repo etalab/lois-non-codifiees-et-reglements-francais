@@ -427,6 +427,41 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">7,96</p>
 </td>
 </tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">10</p>
+</td>
+<td valign="top" width="75">
+<p align="center">1er juillet<br/>2013 - <br/>30 septembre 2013</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,035</p>
+</td>
+<td valign="top" width="75">
+<p align="center">0,095</p>
+</td>
+<td valign="top" width="75">
+<p align="center">29,69</p>
+</td>
+<td valign="top" width="75">
+<p align="center">supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">supprimé</p>
+</td>
+<td valign="top" width="75">
+<p align="center">15,21</p>
+</td>
+<td valign="top" width="75">
+<p align="center">14,45</p>
+</td>
+<td valign="top" width="75">
+<p align="center">7,76</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
