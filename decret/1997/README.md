@@ -133,7 +133,6 @@
 - [Décret n°97-838 du 8 septembre 1997 (MESH9722352D)](decret-n97-838-du-8-septembre-1997-mesh9722352d)
 - [Décret n°97-918 du 8 octobre 1997 (MESX9700116D)](decret-n97-918-du-8-octobre-1997-mesx9700116d)
 - [Décret n°97-924 du 8 octobre 1997 (JUSF9750031D)](decret-n97-924-du-8-octobre-1997-jusf9750031d)
-- [Décret n°97-925 du 8 octobre 1997 (JUSF9750032D)](decret-n97-925-du-8-octobre-1997-jusf9750032d)
 - [Décret n°97-935 du 8 octobre 1997 (MAEJ9730094D)](decret-n97-935-du-8-octobre-1997-maej9730094d)
 - [Décret n°97-936 du 8 octobre 1997 (MAEJ9730095D)](decret-n97-936-du-8-octobre-1997-maej9730095d)
 - [Décret n°97-11 du 9 janvier 1997 (ACVX9600147D)](decret-n97-11-du-9-janvier-1997-acvx9600147d)
