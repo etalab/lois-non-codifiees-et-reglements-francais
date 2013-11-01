@@ -88,7 +88,6 @@
 - [Arrêté du 6 juin 2001 (INTE0100327A)](arrete-du-6-juin-2001-inte0100327a)
 - [Arrêté du 6 juin 2001 (INTE0100328A)](arrete-du-6-juin-2001-inte0100328a)
 - [Arrêté du 6 juin 2001 (INTE0100329A)](arrete-du-6-juin-2001-inte0100329a)
-- [Arrêté du 6 mars 2001 (ATEE0090453A)](arrete-du-6-mars-2001-atee0090453a)
 - [Arrêté du 6 mars 2001 (EQUU0002024A)](arrete-du-6-mars-2001-equu0002024a)
 - [Arrêté du 6 mars 2001 (MCCE0100075A)](arrete-du-6-mars-2001-mcce0100075a)
 - [Arrêté du 6 mars 2001 (MCCE0100076A)](arrete-du-6-mars-2001-mcce0100076a)

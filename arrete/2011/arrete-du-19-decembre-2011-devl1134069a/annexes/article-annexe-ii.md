@@ -1,355 +1,297 @@
 # Article Annexe II
 
-NORMES D'EXCRÉTION D'AZOTE PAR ESPÈCE ANIMALE POUR LA MISE EN ŒUVRE DU 5 DE L'ANNEXE I DU PRÉSENT ARRÊTÉ
+Normes de production d'azote épandable par espèce animale
+
+pour la mise en œuvre du 5 de l'annexe I du présent arrêté
 
 Rappel :
 
 L'azote épandable est défini comme étant l'azote excrété par un animal d'élevage en bâtiment et à la pâture duquel est soustrait l'azote volatilisé lors de la présence de l'animal en bâtiment et lors du stockage des effluents. L'azote volatilisé à la pâture n'est pas soustrait de l'azote excrété (jurisprudence de la Cour de justice de l'Union européenne concernant la mise en œuvre de la directive 91/676/CEE dite directive nitrates ).
 
-A. ― Production d'azote épandable
+A. - Production d'azote épandable par les herbivores,
 
-par les herbivores, hors vaches laitières
+hors vaches laitières
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">ANIMAUX<br/>
-</p>
+<td width="340">
+<p align="center">ANIMAUX</p>
 </td>
-<td align="left" valign="top">
-<p align="center"> PRODUCTION N UNITAIRE<br/>
-</p>
+<td width="340">
+<p align="center">PRODUCTION N UNITAIRE</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="center">Herbivores<br/>
-</p>
+<td width="340">
+<p align="center">Herbivores</p>
 </td>
-<td align="left" valign="top">
-<p align="center">(kg d'azote/animal présent/an)<br/>
-</p>
+<td width="340">
+<p align="center">(Kg d'azote/animal présent/an)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Vache nourrice, sans son veau <br/>
-</p>
+<td width="340">
+<p align="center">Vache nourrice, sans son veau</p>
 </td>
-<td align="left" valign="top">
-<p align="center">67<br/>
-</p>
+<td width="340">
+<p align="center">68</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Femelle &gt; 2 ans <br/>
-</p>
+<td width="340">
+<p align="center">Femelle &gt; 2 ans</p>
 </td>
-<td align="left" valign="top">
-<p align="center">53<br/>
-</p>
+<td width="340">
+<p align="center">54</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Mâle &gt; 2 ans <br/>
-</p>
+<td width="340">
+<p align="center">Mâle &gt; 2 ans</p>
 </td>
-<td align="left" valign="top">
-<p align="center">72<br/>
-</p>
+<td width="340">
+<p align="center">73</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Femelle 1 - 2 ans, croissance <br/>
-</p>
+<td width="340">
+<p align="center">Femelle 1 - 2 ans, croissance</p>
 </td>
-<td align="left" valign="top">
-<p align="center">42<br/>
-</p>
+<td width="340">
+<p align="center">42,5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Mâle 1 - 2 ans, croissance <br/>
-</p>
+<td width="340">
+<p align="center">Mâle 1 - 2 ans, croissance</p>
 </td>
-<td align="left" valign="top">
-<p align="center">42<br/>
-</p>
+<td width="340">
+<p align="center">42,5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Bovin 1 - 2 ans, engraissement <br/>
-</p>
+<td width="340">
+<p align="center">Bovin 1 - 2 ans, engraissement</p>
 </td>
-<td align="left" valign="top">
-<p align="center">40<br/>
-</p>
+<td width="340">
+<p align="center">40,5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Vache de réforme <br/>
-</p>
+<td width="340">
+<p align="center">Vache de réforme</p>
 </td>
-<td align="left" valign="top">
-<p align="center">40<br/>
-</p>
+<td width="340">
+<p align="center">40,5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Femelle &lt; 1 an <br/>
-</p>
+<td width="340">
+<p align="center">Femelle &lt; 1 an</p>
 </td>
-<td align="left" valign="top">
-<p align="center">25<br/>
-</p>
+<td width="340">
+<p align="center">25</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Mâle 0 - 1 an, croissance <br/>
-</p>
+<td width="340">
+<p align="center">Mâle 0 - 1 an, croissance</p>
 </td>
-<td align="left" valign="top">
-<p align="center">25<br/>
-</p>
+<td width="340">
+<p align="center">25</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Mâle 0 - 1 an, engraissement <br/>
-</p>
+<td width="340">
+<p align="center">Mâle 0 - 1 an, engraissement</p>
 </td>
-<td align="left" valign="top">
-<p align="center">20<br/>
-</p>
+<td width="340">
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Broutard &lt; 1 an, engraissement </p>
+<td width="340">
+<p align="center">Broutard &lt; 1 an, engraissement</p>
 </td>
-<td align="left" valign="top">
-<p align="center">27<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Brebis <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">10<br/>
-</p>
+<td width="340">
+<p align="center">27</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Brebis laitière <br/>
-</p>
+<td width="340">
+<p align="center">Brebis</p>
 </td>
-<td align="left" valign="top">
-<p align="center">10<br/>
-</p>
+<td width="340">
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Bélier <br/>
-</p>
+<td width="340">
+<p align="center">Brebis laitière</p>
 </td>
-<td align="left" valign="top">
-<p align="center">10<br/>
-</p>
+<td width="340">
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Agnelle <br/>
-</p>
+<td width="340">
+<p align="center">Bélier</p>
 </td>
-<td align="left" valign="top">
-<p align="center">5<br/>
-</p>
+<td width="340">
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Chèvre <br/>
-</p>
+<td width="340">
+<p align="center">Agnelle</p>
 </td>
-<td align="left" valign="top">
-<p align="center">10<br/>
-</p>
+<td width="340">
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Bouc <br/>
-</p>
+<td width="340">
+<p align="center">Chèvre</p>
 </td>
-<td align="left" valign="top">
-<p align="center">10<br/>
-</p>
+<td width="340">
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Chevrette <br/>
-</p>
+<td width="340">
+<p align="center">Bouc</p>
 </td>
-<td align="left" valign="top">
-<p align="center">5<br/>
-</p>
+<td width="340">
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Cheval <br/>
-</p>
+<td width="340">
+<p align="center">Chevrette</p>
 </td>
-<td align="left" valign="top">
-<p align="center">44<br/>
-</p>
+<td width="340">
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Cheval (lourd) <br/>
-</p>
+<td width="340">
+<p align="center">Cheval</p>
 </td>
-<td align="left" valign="top">
-<p align="center">51<br/>
-</p>
+<td width="340">
+<p align="center">44</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Jument seule <br/>
-</p>
+<td width="340">
+<p align="center">Cheval (lourd)</p>
 </td>
-<td align="left" valign="top">
-<p align="center">37<br/>
-</p>
+<td width="340">
+<p align="center">51</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Jument seule (lourd) <br/>
-</p>
+<td width="340">
+<p align="center">Jument seule</p>
 </td>
-<td align="left" valign="top">
-<p align="center">44<br/>
-</p>
+<td width="340">
+<p align="center">37</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Jument suitée <br/>
-</p>
+<td width="340">
+<p align="center">Jument seule (lourd)</p>
 </td>
-<td align="left" valign="top">
-<p align="center">44<br/>
-</p>
+<td width="340">
+<p align="center">44</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Jument suitée (lourd) <br/>
-</p>
+<td width="340">
+<p align="center">Jument suitée</p>
 </td>
-<td align="left" valign="top">
-<p align="center">51<br/>
-</p>
+<td width="340">
+<p align="center">44</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Poulain 6 mois - 1 an <br/>
-</p>
+<td width="340">
+<p align="center">Jument suitée (lourd)</p>
 </td>
-<td align="left" valign="top">
-<p align="center">18<br/>
-</p>
+<td width="340">
+<p align="center">51</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Poulain 6 mois - 1 an (lourd) <br/>
-</p>
+<td width="340">
+<p align="center">Poulain 6 mois - 1 an</p>
 </td>
-<td align="left" valign="top">
-<p align="center">22<br/>
-</p>
+<td width="340">
+<p align="center">18</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Poulain 1 - 2 ans <br/>
-</p>
+<td width="340">
+<p align="center">Poulain 6 mois - 1 an (lourd)</p>
 </td>
-<td align="left" valign="top">
-<p align="center">37<br/>
-</p>
+<td width="340">
+<p align="center">22</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Poulain 1 - 2 ans (lourd) <br/>
-</p>
+<td width="340">
+<p align="center">Poulain 1 - 2 ans</p>
 </td>
-<td align="left" valign="top">
-<p align="center">44<br/>
-</p>
+<td width="340">
+<p align="center">37</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">
+<td width="340">
+<p align="center">Poulain 1 - 2 ans (lourd)</p>
+</td>
+<td width="340">
+<p align="center">44</p>
+</td>
+</tr>
+<tr>
+<td width="340">
 <br/>
-</p>
 </td>
-<td align="left" valign="top">
-<p align="center">(kg d'azote/animal produit)<br/>
-</p>
+<td width="340">
+<p align="center">(Kg d'azote/place)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Place veau de boucherie <br/>
-</p>
+<td width="340">
+<p align="center">Place veau de boucherie</p>
 </td>
-<td align="left" valign="top">
-<p align="center">6,3<br/>
-</p>
+<td width="340">
+<p align="center">6,3</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Agneau engraissé produit <br/>
-</p>
+<td width="340">
+<br/>
 </td>
-<td align="left" valign="top">
-<p align="center">1,5<br/>
-</p>
+<td width="340">
+<p align="center">(Kg d'azote/animal produit)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Chevreau engraissé produit <br/>
-</p>
+<td width="340">
+<p align="center">Agneau engraissé produit</p>
 </td>
-<td align="left" valign="top">
-<p align="center">1,5<br/>
-</p>
+<td width="340">
+<p align="center">1,5</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="center">Chevreau engraissé produit</p>
+</td>
+<td width="340">
+<p align="center">1,5</p>
 </td>
 </tr>
 </tbody>
@@ -361,13 +303,7 @@ B. ― Production d'azote épandable par les vaches laitières
 
 L'azote épandable des vaches laitières varie significativement selon le temps passé à l'extérieur des bâtiments et notamment à la pâture (volatilisation non soustraite de l'azote excrété et régime alimentaire riche en azote) et selon le niveau de production laitière.
 
-La production laitière est obtenue à partir de la quantité annuelle de lait livrée, y compris en vente directe, divisée par le nombre de vaches laitières présentes dans l'année puis multipliée par le coefficient 0,92 afin de prendre en compte les périodes de tarissement.
-
-Le temps passé à l'extérieur des bâtiments somme :
-
-― le nombre de mois pendant lesquels les animaux sont dehors en continu (jours et nuits). La traite n'est pas décomptée.
-
-― le temps cumulé (exprimé en mois) passé à l'extérieur des bâtiments pendant les périodes où les animaux passent une partie du temps en bâtiments et une autre dehors. La traite est décomptée.
+La production laitière en kg est obtenue à partir de la quantité annuelle de lait livrée, y compris en vente directe, exprimée en litres, divisée par le nombre de vaches laitières présentes dans l'année puis divisée par le coefficient 0,92 afin de prendre en compte la différence entre lait produit et lait livré et la conversion des litres en kg.
 
 Production d'azote épandable par les vaches laitières
 
@@ -449,13 +385,16 @@ Production d'azote épandable par les vaches laitières
 </tr>
 <tr>
 <td colspan="4">
-<p align="left">(*) Pour la période du 1er septembre 2012 au 31 août 2013, une valeur de 95 kg d'azote/an/vache s'applique aux élevages ayant plus de 75 % de surface en herbe dans la surface fourragère principale.<br/>
+<p align="left">(*) Pour la période du 1er septembre 2013 au 31 août 2014, une valeur de 95 kgN d'azote/ an/ vache s'applique aux élevages ayant plus de 75 % de surface en herbe dans la surface fourragère principale.<br/>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
+<div align="left">
+<br/>
+</div>
 C. ― Production d'azote épandable pour les volailles
 
 <table>
@@ -480,15 +419,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="4" valign="top">
 <p align="center">Caille<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -533,30 +463,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="9" valign="top">
 <p align="center">Canard<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -652,21 +558,6 @@ C. ― Production d'azote épandable pour les volailles
 <td align="left" rowspan="6" valign="top">
 <p align="center">Cane<br/>
 </p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Barbarie future reproductrice <br/>
@@ -731,15 +622,6 @@ C. ― Production d'azote épandable pour les volailles
 <td align="left" rowspan="4" valign="top">
 <p align="center">Canette<br/>
 </p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Barbarie label <br/>
@@ -783,15 +665,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="4" valign="top">
 <p align="center">Chapon<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -838,11 +711,7 @@ C. ― Production d'azote épandable pour les volailles
 <p align="center">Coquelet<br/>
 </p>
 </td>
-<td align="left" valign="top">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p align="center">13<br/>
 </p>
@@ -935,12 +804,6 @@ C. ― Production d'azote épandable pour les volailles
 <td align="left" rowspan="3" valign="top">
 <p align="center">Faisan<br/>
 </p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="left">22 semaines <br/>
@@ -974,18 +837,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="5" valign="top">
 <p align="center">Oie<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1041,12 +892,6 @@ C. ― Production d'azote épandable pour les volailles
 <td align="left" rowspan="3" valign="top">
 <p align="center">Perdrix<br/>
 </p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="left">15 semaines <br/>
@@ -1094,21 +939,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="6" valign="top">
 <p align="center">Pintade<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1173,30 +1003,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="9" valign="top">
 <p align="center">Poule<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1292,24 +1098,6 @@ C. ― Production d'azote épandable pour les volailles
 <td align="left" rowspan="7" valign="top">
 <p align="center">Poulet<br/>
 </p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Biologique (bâtiments fixes) <br/>
@@ -1383,12 +1171,6 @@ C. ― Production d'azote épandable pour les volailles
 <tr>
 <td align="left" rowspan="3" valign="top">
 <p align="center">Poulette<br/>
-</p>
-<p align="left">
-<br/>
-</p>
-<p align="left">
-<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1517,6 +1299,7 @@ E. ― Production d'azote épandable
 
 pour les porcins (kg d'azote/animal produit)
 
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -1587,14 +1370,10 @@ pour les porcins (kg d'azote/animal produit)
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -1611,14 +1390,10 @@ pour les porcins (kg d'azote/animal produit)
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -1635,14 +1410,10 @@ pour les porcins (kg d'azote/animal produit)
 </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -1822,3 +1593,4 @@ pour les porcins (kg d'azote/animal produit)
 </tr>
 </tbody>
 </table>
+</div>

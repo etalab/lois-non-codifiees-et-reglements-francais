@@ -1,6 +1,5 @@
 # 2005
 
-- [Arrêté du 1 août 2005 (DEVO0540227A)](arrete-du-1-aout-2005-devo0540227a)
 - [Arrêté du 1 décembre 2003 (SANY0324661A)](arrete-du-1-decembre-2003-sany0324661a)
 - [Arrêté du 1 décembre 2005 (EQUA0501849A)](arrete-du-1-decembre-2005-equa0501849a)
 - [Arrêté du 1 décembre 2005 (JUSF0550138A)](arrete-du-1-decembre-2005-jusf0550138a)
