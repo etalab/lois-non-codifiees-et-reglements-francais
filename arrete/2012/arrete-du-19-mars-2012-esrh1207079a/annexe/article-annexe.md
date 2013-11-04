@@ -170,6 +170,13 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Pour 2014 <br/>
+</p>
+</td>
+<td align="center">12 %</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="center">Corps des magasiniers des bibliothèques <br/>
 </p>
