@@ -6,16 +6,12 @@ I. - L'arrêté de création précise pour chaque établissement ou service :
 
 2° Sa localisation, ainsi que le nombre, la nature et la localisation de chacune de ses unités éducatives.
 
-II. - Pour chacune des unités éducatives accueillant des mineurs ou des jeunes majeurs en hébergement, l'arrêté de création de chaque établissement précise en outre :
+II. - Pour tout établissement ou service constitué d'au moins une des unités éducatives mentionnées aux articles 12 et 14 ou au 1° de l'article 15, l'arrêté de création précise en outre pour chacune d'entre elles :
 
-a) La capacité théorique d'hébergement ;
+a) La capacité d'accueil théorique ;
 
-b) Les modalités d'accueil et de prise en charge mises en oeuvre, en référence aux distinctions établies aux articles 5 et 12 ;
+b) Les conditions d'âge applicables ;
 
-c) Eventuellement, les conditions d'âge applicables ;
+c) Si, par exception au principe de mixité, ne sont pris en charge que les jeunes de l'un des deux sexes.  ;
 
-d) Si, par exception au principe de mixité, ne sont pris en charge que les jeunes de l'un des deux sexes.
-
-III. - Pour chacune des unités éducatives d'activités de jour, l'arrêté de création de chaque établissement ou service de rattachement précise en outre la capacité théorique d'activité de l'unité, ainsi que les conditions d'âge applicables au sein de l'unité.
-
-IV. - Les arrêtés de création, de transformation et de suppression sont publiés au Journal officiel de la République française.
+III. - Les arrêtés de création, d'extension, de transformation et de fermeture sont publiés au Journal officiel de la République française.
