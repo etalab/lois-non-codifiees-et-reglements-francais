@@ -18,4 +18,6 @@ Ces applications fournissent au traitement ILIAD les données nécessaires à so
 
 5. Le traitement Télédéclaration IR fournit à l'application ILIAD les éléments d'identification, le code de télédéclaration, l'ensemble des revenus et charges du foyer fiscal correspondant à l'année d'imposition des contribuables ayant déclaré leurs revenus par internet.
 
+6. Le traitement Mon profil fournit à l'application ILIAD l'adresse de messagerie électronique renseignée par l'usager.
+
 II.-L'application ILIAD communique à la base nationale des particuliers (ADONIS) les informations constitutives du dossier fiscal du contribuable.

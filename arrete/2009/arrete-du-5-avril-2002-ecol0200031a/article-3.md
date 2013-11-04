@@ -10,7 +10,7 @@ I.-Sont enregistrées dans la base ADONIS, les informations ou catégories d'inf
 
 -situation fiscale-marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité-, date et motif de changement de situation fiscale, du (des) contribuable (s) ;
 
--adresse d'imposition, adresse d'envoi des déclarations, nouvelle adresse en cas de déménagement, le cas échéant, numéro de téléphone ;
+-adresse d'imposition, adresse d'envoi des déclarations, nouvelle adresse en cas de déménagement, le cas échéant,  numéro de téléphone et adresse de messagerie électronique ;
 
 -coordonnées des services des impôts et des postes comptables de rattachement ;
 
@@ -22,4 +22,4 @@ I.-Sont enregistrées dans la base ADONIS, les informations ou catégories d'inf
 
 -données de gestion relatives aux réclamations, aux paiements des impositions supplémentaires et aux dégrèvements.
 
-II.-Les interrogations de la base ADONIS effectuées         par les agents de la direction générale des finances publiques et de la cellule de renseignement nationale font l'objet d'une journalisation qui se traduit par la conservation, pour chaque connexion, des éléments d'identification de l'auteur, des références du dossier fiscal consulté ainsi que des date et heure de la consultation.
+II.-Les interrogations de la base ADONIS effectuées par les agents de la direction générale des finances publiques et de la cellule de renseignement nationale font l'objet d'une journalisation qui se traduit par la conservation, pour chaque connexion, des éléments d'identification de l'auteur, des références du dossier fiscal consulté ainsi que des date et heure de la consultation.

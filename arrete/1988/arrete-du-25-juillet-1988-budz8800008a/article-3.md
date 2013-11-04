@@ -4,7 +4,7 @@ Les informations nominatives traitées sont les suivantes :
 
 1. Dossier " 2004 informatique et son résumé permanent (2011) :
 
--nom (s), prénom (s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), n° FIP, n° SPI du ou des contribuables, coordonnées de l'ancien et du nouveau centre des finances publiques compétent en cas de déménagement ;
+-nom (s), prénom (s), sexe, date et lieu de naissance,          adresses (ancienne et nouvelle en cas de déménagement), le cas échéant, adresse de messagerie électronique, n° FIP, n° SPI du ou des contribuables, coordonnées de l'ancien et du nouveau centre des finances publiques compétent en cas de déménagement ;
 
 -caractéristiques du dossier (codes du secteur d'assiette et éventuellement de l'inspection spécialisée gestionnaire, code " dossier complexe, renseignements divers sur l'état du dossier) ;
 
@@ -16,17 +16,17 @@ Les informations nominatives traitées sont les suivantes :
 
 -IR : revenu imposable, droits et pénalités ;
 
--CSG / CRDS : base, cotisations, pénalités ;
+-CSG/ CRDS : base, cotisations, pénalités ;
 
 -nature et montant des déficits, s'il y a lieu ;
 
 -nature des engagements et montant des déductions ou réductions d'impôt correspondantes, s'il y a lieu ;
 
--doubles d'avis et documents de taxation IR primitifs et correctifs, doubles d'avis CSG / CRDS ;
+-doubles d'avis et documents de taxation IR primitifs et correctifs, doubles d'avis CSG/ CRDS ;
 
 -zone bloc-notes : ne reçoit que les informations directement liées à la gestion des impositions des contribuables, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuelles apportées par le contribuable ou l'administration.
 
-2. " ILIAD IR-TH / redevance audiovisuelle et " Impositions supplémentaires :
+2. " ILIAD IR-TH/ redevance audiovisuelle et " Impositions supplémentaires :
 
 -nom (s) et prénom (s) ou raison sociale (pour les personnes morales et assimilées redevables de la taxe d'habitation, ou de la taxe annuelle sur les logements vacants), sexe, date et lieu de naissance, adresse du contribuable ;
 
@@ -40,7 +40,7 @@ Les informations nominatives traitées sont les suivantes :
 
 -revenus et charges pris en compte pour le calcul de l'assiette de l'impôt sur le revenu ;
 
--données portées sur les avis d'imposition IR, TH / redevance audiovisuelle, TLV et CSG / CRDS ;
+-données portées sur les avis d'imposition IR, TH/ redevance audiovisuelle, TLV et CSG/ CRDS ;
 
 -description des locaux d'habitation ;
 
