@@ -1,0 +1,3 @@
+# Article 38
+
+Il est institué une commission de recensement des votes des administrateurs des conseils d'administration, présidée par le directeur des affaires financières, sociales et logistiques ou son représentant, du directeur général de la Caisse centrale de la mutualité sociale agricole ou son représentant et de deux administrateurs de caisse de mutualité sociale agricole choisis par le directeur des affaires financières, sociales et logistiques. En cas de partage des voix, le président a voix prépondérante. Elle peut s'adjoindre des représentants des candidats ; ceux-ci ont voix consultative.
