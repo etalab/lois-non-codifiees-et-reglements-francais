@@ -1,0 +1,3 @@
+# Article 3
+
+Par dérogation aux dispositions de l'article 14 de l'arrêté du 26 avril 2013 susvisé, pour les personnes en cours de formation pour l'obtention du brevet d'Etat d'éducateur sportif du premier degré, option « ski nordique de fond », en possession d'une attestation de réussite au test de capacité technique datant de moins de cinq ans, le deuxième des trois temps de formation mentionnés à l'article 9 du même arrêté, d'une durée de trois ans, est délivré par le directeur régional de la jeunesse, des sports et de la cohésion sociale de Franche-Comté. Dans ce cas, la durée de trois ans est calculée à compter du 1er novembre 2013.
