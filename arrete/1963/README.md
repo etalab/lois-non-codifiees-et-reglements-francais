@@ -13,7 +13,6 @@
 - [Arrêté du 13 juillet 1963](arrete-du-13-juillet-1963)
 - [Arrêté du 13 novembre 1963](arrete-du-13-novembre-1963)
 - [Arrêté du 14 octobre 1963](arrete-du-14-octobre-1963)
-- [Arrêté du 17 septembre 1963](arrete-du-17-septembre-1963)
 - [Arrêté du 23 novembre 1962](arrete-du-23-novembre-1962)
 - [Arrêté du 25 septembre 1963](arrete-du-25-septembre-1963)
 - [Arrêté du 25 mai 1963](arrete-du-25-mai-1963)

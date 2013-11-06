@@ -1,3 +1,0 @@
-# Article 8
-
-Si elle ne se juge pas suffisamment éclairée sur les faits reprochés à l'intéressé ou les circonstances dans lesquelles ces faits ont été commis, la commission a la faculté d'ordonner un complément d'instruction, et notamment prescrire une enquête, qui peut être confiée soit au chef de la mission d'audit, d'évaluation et de contrôle de la protection sociale agricole ou son représentant, soit à un fonctionnaire de l'inspection générale de la sécurité sociale ; si l'agent en cause est un agent comptable, l'enquête peut également être confiée au trésorier-payeur général du département.
