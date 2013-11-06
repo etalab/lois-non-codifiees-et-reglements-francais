@@ -1,6 +1,6 @@
 # Article 5
 
-Seuls sont autorisés à se présenter à l'épreuve de démonstration technique les candidats ayant accompli le parcours de l'épreuve de performance dans un temps égal ou supérieur au seuil d'admissibilité établi à la note de 8 sur 20. Les modalités de calcul du seuil d'admissibilité sont précisées en annexe I au présent arrêté.
+Seuls sont autorisés à se présenter à l'épreuve de démonstration technique les candidats ayant accompli le parcours de l'épreuve de performance dans un temps  inférieur au seuil d'admissibilité établi à la note de 8 sur 20. Les modalités de calcul du seuil d'admissibilité sont précisées en annexe I au présent arrêté.
 
 Sont déclarés admis au test technique d'accès les candidats ayant obtenu une moyenne générale de 10 sur 20 sur les deux épreuves avec :
 

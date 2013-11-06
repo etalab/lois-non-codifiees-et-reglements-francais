@@ -32,7 +32,7 @@ OI 13 EC d'assurer la sécurité des pratiquants et des tiers :
 
 OI 131 EC d'évaluer les risques objectifs liés au contexte de pratique ;
 
-OI 132 EC d'évaluer le contexte juridique liés à la pratique et au milieu dans lequel il se pratique ;
+OI 132 EC d'évaluer le contexte juridique lié à la pratique et au milieu dans lequel il se pratique ;
 
 OI 133 EC de veiller à un équipement adapté des publics en fonction du milieu de pratique ;
 

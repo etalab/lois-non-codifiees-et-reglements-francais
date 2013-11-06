@@ -14,7 +14,7 @@ Pour faire acte de candidature à la sélection prévue à l'article précédent
 
 - un timbre fiscal dont le montant est fixé par arrêté ;
 
-- une copie du brevet d'Etat d'éducateur sportif du premier degré, option Ski alpin, ou du brevet d'Etat de ski, option Ski alpin, deuxième degré, ou de tout autre titre admis en équivalence ;
+- une copie du diplôme du brevet d'Etat d'éducateur sportif du premier degré, option "ski alpin", ou du brevet d'Etat de ski, option "ski alpin deuxième degré", ou de tout autre titre admis en équivalence ou du diplôme d'Etat de ski-moniteur national de ski alpin.
 
 - une copie du diplôme de traceur régional délivré par la Fédération française de ski ;
 

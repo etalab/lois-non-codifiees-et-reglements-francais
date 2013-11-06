@@ -1,8 +1,6 @@
 # Article Annexe V
 
-MODALITÉS D'ORGANISATION ET D'ÉVALUATION
-
-DES ÉPREUVES DU TEST DE CAPACITÉ TECHNIQUE
+MODALITÉS D'ORGANISATION ET D'ÉVALUATION DES ÉPREUVES DU TEST DE CAPACITÉ TECHNIQUE
 
 I. ― Composition du dossier d'inscription
 
@@ -46,10 +44,10 @@ Ta = temps correspondant à la note 10/20.
 
 Candidat :
 
-Ta = (Tb *0,22 + Tb = 10/20.
+Ta = Tb *0, 22 + Tb = 10/20.
 
 Candidates : (ouvreur masculin) :
 
 Tb = (Tc/coef) *1,20.
 
-Ta = (Tb*0, 22 + Tb.
+Ta = Tb *0, 22 + Tb.

@@ -14,7 +14,7 @@ Pour faire acte de candidature à la formation, les intéressés doivent dépose
 
 - un timbre fiscal dont le montant est fixé par arrêté ;
 
-- une copie du diplôme du brevet d'Etat d'éducateur sportif du premier degré, option Ski nordique de fond, ou du brevet d'Etat de ski du deuxième degré, option Ski nordique de fond/ou copie de l'agrément accordé par la section permanente du ski nordique à toute demande particulière concernant notamment les titulaires d'un brevet d'Etat d'éducateur sportif du premier degré, option Ski alpin ;
+- une copie du diplôme du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond", ou du brevet d'Etat de ski du deuxième degré, option "ski nordique de fond", ou du diplôme d'Etat de ski-moniteur national de ski nordique de fond, ou de l'agrément accordé par la section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne à toute demande particulière concernant, notamment, les titulaires du brevet d'Etat d'éducateur sportif du premier degré, option "ski alpin", ou du diplôme d'Etat de ski-moniteur national de ski alpin ;
 
 - une attestation de la Fédération française de ski précisant que le candidat a, dans une discipline nordique, obtenu un classement en point F.F.S. inférieur ou égal au nombre de points établi chaque année par la délégation aux formations sur proposition de la section permanente du ski nordique.
 

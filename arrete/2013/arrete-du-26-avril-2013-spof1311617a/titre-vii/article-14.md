@@ -18,12 +18,12 @@ Le pôle national des métiers de l'encadrement du ski et de l'alpinisme veille 
 
 A l'issue des épreuves, une attestation de réussite est délivrée aux candidats admis, par le président du jury mentionné à l'article 16 du présent arrêté.
 
-La réussite au test de capacité technique ouvre droit à l'ouverture du second des trois temps de formation mentionnés à l'article 9 du présent arrêté. Ce second temps de formation a une durée de trois ans, calculée à compter du 1er novembre suivant la date de réussite à l'épreuve de l'examen, pour continuer le stage de sensibilisation et se présenter pour la première fois au premier cycle. Il est délivré par le directeur régional de la jeunesse des sports et de la cohésion sociale organisateur du test de capacité technique.
+La réussite au test de capacité technique ouvre droit à l'ouverture du deuxième des trois temps de formation mentionnés à l'article 9 du présent arrêté. Ce deuxième temps de formation a une durée de trois ans calculée à compter du 1er novembre suivant la date de réussite à l'épreuve de l'examen pour continuer le stage de sensibilisation et achever la formation du premier cycle. Il est délivré par le directeur régional de la jeunesse, des sports et de la cohésion sociale organisateur du test de capacité technique.
 
 Sur demande motivée et argumentée du candidat, il peut être prorogé d'un an, par ce même directeur.
 
-Sont déclarés admis, les candidats ayant réalisé un temps égal ou supérieur à la moyenne de 10 sur 20 à l'épreuve de performance et ayant obtenu une note égale ou supérieure à 10 sur 20 à l'épreuve de démonstration technique.
+Sont déclarés admis les candidats ayant réalisé a minima un temps correspondant à la note de 10 sur 20 à l'épreuve de performance et ayant obtenu une note égale ou supérieure à 10 à l'épreuve de démonstration technique.
 
-Sont dispensés, à leur demande, de l'épreuve de performance du test de capacité technique les candidats ayant obtenu un classement égal ou inférieur à 200 points pour les hommes et 250 points pour les femmes sur l'échelle correspondant au classement « distance » fixée par la Fédération internationale de ski. Ce classement attesté par le président de la Fédération française de ski ou son représentant doit avoir été acquis dans les cinq années précédant la demande de validation de dispense du test de capacité technique par le candidat.
+Sont dispensés, à leur demande, de l'épreuve de performance du test de capacité technique les candidats ayant obtenu un classement égal ou inférieur à 200 points pour les hommes et 250 points pour les femmes sur l'échelle correspondant au classement distance fixée par la Fédération internationale de ski. Ce classement attesté par le président de la Fédération française de ski ou son représentant doit avoir été acquis dans les cinq années précédant la demande de validation de dispense du test de capacité technique par le candidat.
 
 L'attestation de dispense est délivrée, au niveau national, par le délégué national du pôle national des métiers de l'encadrement du ski et de l'alpinisme.
