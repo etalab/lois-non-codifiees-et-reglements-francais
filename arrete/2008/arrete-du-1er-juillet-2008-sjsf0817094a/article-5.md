@@ -11,3 +11,5 @@ Les exigences préalables à la mise en situation pédagogique sont les suivante
 ― être capable de mettre en œuvre une séance d'entraînement.
 
 Il est procédé à la vérification de ces exigences préalables lors de la mise en place d'une séance d'entraînement suivie d'un entretien.
+
+La réussite à cette épreuve organisée par le directeur technique national de la savate boxe française et disciplines associées fait l'objet d'une attestation délivrée par le directeur technique national de la savate boxe française et disciplines associées.

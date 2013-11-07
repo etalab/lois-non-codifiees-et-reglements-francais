@@ -20,10 +20,10 @@ Pour la mention parapente :
 
 - d'un classement dans la première moitié d'un championnat national ; ou
 
-- d'un classement dans le premier quart du "classement général officiel, toutes catégories" de la coupe fédérale de distance (CFD).
+- d'un classement, à la date de clôture de la saison régulière, "dans le premier quart du classement général officiel, toutes catégories" de la coupe fédérale de distance (CFD).
 
 Pour la mention deltaplane :
 
 - d'un classement dans la première moitié d'un championnat national ; ou
 
-- d'un classement dans le premier quart du "classement open individuel", de la coupe fédérale de distance (CFD).
+- d'un classement, à la date de clôture de la saison régulière, dans le premier quart du "classement open individuel", de la coupe fédérale de distance (CFD).

@@ -36,6 +36,8 @@ Le titulaire de l'épreuve technique de l'examen du brevet d'Etat d'éducateur s
 
 Le titulaire du certificat de qualification professionnelle (CQP) "animateur de savate" ou du brevet fédéral de moniteur de savate, qualification boxe française délivré par la fédération française savate boxe française et disciplines associées obtient de droit la validation des unités capitalisables 2, 4, 5, 6, 7B et 9B (UC 2, UC 4, UC 5, UC 6, UC7B et UC 9B) du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités pugilistiques", mention "savate boxe française".
 
+Le brevet d'Etat d'éducateur sportif du premier degré option "boxe française" spécialité "savate" est équivalent au brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités pugilistiques" mention "savate boxe française". Le titulaire du brevet d'Etat d'éducateur sportif du premier degré option "boxe française" spécialité "savate" obtient de droit les dix unités capitalisables du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités pugilistiques", mention "savate boxe française".
+
 Mention boxe :
 
 Est dispensé de la vérification des exigences préalables à la mise en situation pédagogique définies à l'annexe IV :

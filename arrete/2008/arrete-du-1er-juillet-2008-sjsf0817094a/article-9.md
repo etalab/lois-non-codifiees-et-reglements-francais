@@ -1,3 +1,3 @@
 # Article 9
 
-Le directeur de la vie associative, de l'emploi et des formations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 22 mai 1986 susvisé est abrogé à compter du 1er septembre 2011.

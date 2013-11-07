@@ -1,19 +1,17 @@
 # Article 3
 
-Les exigences préalables requises pour accéder à la formation prévues à l'article D. 212-60 du code du sport sont les suivantes :
+Les exigences préalables requises pour accéder à la formation prévues à l'
+article D. 212-60 du code du sport susvisé
+sont les suivantes :
 
-― être capable d'effectuer l'analyse technique d'une séquence de match de niveau national ou international ;
+- justifier d'une expérience d'entraînement de cent heures en squash ;
 
-― être capable de dégager des objectifs prioritaires d'entraînement pour les compétiteurs observés sur cette séquence vidéo ;
+- être capable d'attester d'une maîtrise technique en squash.
 
-― être capable de maîtriser la technique de la distribution de haut niveau.
+Il est procédé à la vérification de ces exigences préalables au moyen :
 
-Il est procédé à la vérification de ces exigences préalables au moyen d'un test, organisé par la Fédération française de squash comprenant :
+- de la production d'une attestation de cent heures d'expérience d'entraînement en squash délivrée par le responsable légal de la structure ou des structures dans lesquelles l'activité d'entraînement a été exercée ;
 
-― le visionnage d'une séquence vidéo de deux minutes maximum ;
-
-― un entretien d'une demi-heure ;
-
-― et une séance de distribution avec un joueur de première série.
+- d'un test technique organisé par la Fédération française de squash, portant sur la réalisation de gestes techniques de démonstration et distribution relatifs à la pratique du squash.
 
 La réussite à ce test fait l'objet d'une attestation délivrée par le directeur technique national du squash.
