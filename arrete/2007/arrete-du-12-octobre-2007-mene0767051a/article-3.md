@@ -1,3 +1,0 @@
-# Article 3
-
-Sont dispensés, à leur demande, de l'épreuve obligatoire anticipée d'histoire-géographie de la série scientifique du baccalauréat général, des séries sciences et technologies de laboratoire ou sciences et technologie de l'industrie et du développement durable ou sciences et technologies du design et des arts appliqués du baccalauréat technologique les candidats à l'examen dans l'une de ces séries qui ont suivi une classe de première des séries économique et sociale ou littéraire du baccalauréat général ou des séries hôtellerie, sciences et technologies de la gestion et sciences et technologies de la santé et du social du baccalauréat technologique.
