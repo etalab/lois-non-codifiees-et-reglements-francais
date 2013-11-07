@@ -85,6 +85,7 @@
 - [Décret n°2013-591 du 4 juillet 2013 (ACTI1308796D)](decret-n2013-591-du-4-juillet-2013-acti1308796d)
 - [Décret n°2013-895 du 4 octobre 2013 (MENE1319989D)](decret-n2013-895-du-4-octobre-2013-mene1319989d)
 - [Décret n°2013-896 du 4 octobre 2013 (INTA1317381D)](decret-n2013-896-du-4-octobre-2013-inta1317381d)
+- [Décret n°2013-983 du 4 novembre 2013 (MENE1315729D)](decret-n2013-983-du-4-novembre-2013-mene1315729d)
 - [Décret n° 2007-24 du 5 janvier 2007 (DEFD0601447D)](decret-n-2007-24-du-5-janvier-2007-defd0601447d)
 - [Décret n°2006-1117 du 5 septembre 2006 (ECOU0600001D)](decret-n2006-1117-du-5-septembre-2006-ecou0600001d)
 - [Décret n°2012-1029 du 5 septembre 2012 (DEFH1221117D)](decret-n2012-1029-du-5-septembre-2012-defh1221117d)
