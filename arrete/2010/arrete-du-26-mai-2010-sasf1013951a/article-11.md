@@ -1,6 +1,6 @@
 # Article 11
 
-Dans les cinq ans suivant la date de publication du présent arrêté, les titulaires de l'un des diplômes d'Etat suivants :
+Jusqu'au 31 décembre 2016, les titulaires de l'un des diplômes d'Etat suivants :
 
 ― brevet d'Etat d'éducateur sportif du premier degré option « escalade » délivré après le 1er janvier 1997 ;
 
