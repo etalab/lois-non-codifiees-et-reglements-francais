@@ -1,11 +1,11 @@
 # Article 3
 
-Le titre professionnel d'encadrant technique d'insertion est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel est composé des trois unités constitutives suivantes :
 
-1. Organiser et animer une activité de production ;
+1. Organiser et gérer une activité de production dans une structure d'insertion par l'activité économique (SIAE).
 
-2. Faire acquérir des règles et des gestes professionnels en situation de travail ;
+2. Participer à l'accompagnement socio-professionnel et au suivi des salariés dans leur parcours d'insertion.
 
-3. Participer au suivi de la personne dans son parcours d'insertion en relation avec les acteurs internes et externes.
+3. Faire acquérir des compétences et comportements professionnels en situation de production.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles  peuvent être sanctionnées par des certificats de compétences  professionnelles (CCP) dans les conditions prévues par l'arrêté du 9  mars 2006 susvisé.

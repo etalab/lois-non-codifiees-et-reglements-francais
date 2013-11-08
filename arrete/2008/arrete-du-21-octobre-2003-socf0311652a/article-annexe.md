@@ -1,12 +1,8 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel d'encadrant technique d'insertion.
+Intitulé : encadrant (e) technique d'insertion.
 
 Niveau : IV.
 
@@ -14,63 +10,75 @@ Code NSF : 332 t.
 
 Résumé du référentiel d'emploi
 
-L'encadrant technique d'insertion utilise des situations de production, notamment dans des structures d'insertion par l'activité économique, afin que les personnes en difficultés sociales et professionnelles acquièrent ou retrouvent des repères professionnels en vue de la construction ou de la consolidation d'un projet de réinsertion.
+L'encadrant  (e) technique d'insertion assure l'encadrement et l'accompagnement  professionnel de personnes éloignées du marché du travail, en contrat  temporaire dans une structure d'insertion par l'activité économique  (SIAE). Il (elle) a pour finalité l'atteinte des objectifs de production  en prenant en compte les impératifs de formation et d'insertion des  salariés.
 
-Par ailleurs, il est responsable de l'atteinte des objectifs de production de son unité.
+Sous l'autorité du responsable de la  structure, l'encadrant (e) technique d'insertion organise et gère tout  ou partie d'une activité de production en SIAE. Son action vise à  définir les conditions de réalisation d'un bien ou d'un service, à en  préparer et planifier la mise en œuvre et à en suivre la réalisation  afin de garantir une prestation conforme aux exigences qualitatives et  quantitatives. Il concilie objectifs de production et accompagnement des  salariés en insertion, qu'il encadre dans l'acquisition de compétences  professionnelles. Il (elle) présente le travail, explique les règles de  fonctionnement et s'assure de leur respect. Il (elle) donne les  consignes et vérifie leur compréhension et leur mise en œuvre. Il (elle)  anime l'équipe, en favorise la cohésion et suscite la motivation. Il  (elle) gère les relations interpersonnelles et les conflits.
 
-L'encadrant technique d'insertion organise des activités de travail liées aux exigences de la production de la structure d'insertion.
+L'encadrant  (e) technique d'insertion participe à l'accompagnement  socio-professionnel et au suivi du parcours du salarié en insertion. Il  facilite l'intégration au travail, rassure, écoute et construit la  relation avec le salarié en insertion. Il (elle) détecte les atouts,  potentiels et freins et contribue à leur prise de conscience par les  salariés en insertion. Il analyse les situations et transmet les  informations aux interlocuteurs impliqués dans le parcours d'insertion.  Il (elle) alerte dans les situations d'urgence. Dans la limite de son  champ d'intervention, il (elle) construit avec le salarié des pistes  d'actions pour faire évoluer les situations. Il (elle) rend compte des  évolutions aux acteurs internes (conseiller en insertion  professionnelle, coordinateur, responsable de la structure). Il (elle)  prépare et complète les outils de suivi des parcours et participe aux  bilans pendant lesquels il contribue aux prises de décision.
 
-Il s'appuie sur les situations de travail pour transmettre et faire acquérir aux personnes en insertion les comportements professionnels attendus dans une entreprise classique.
-
-Les organisations du travail et les horaires pourront dépendre des exigences de la production, de la commande du client et des statuts des personnes en insertion.
-
-L'ensemble des activités professionnelles de l'encadrant technique d'insertion se réalise au regard d'un public, adulte ou jeune, composé de femmes et d'hommes, valides ou handicapés, de niveaux de formation initiale différents, d'origines sociales, ethniques et confessionnelles différentes. L'encadrant technique d'insertion accueille, oriente et accompagne chaque personne sans discrimination.
+L'encadrant  (e) technique d'insertion fait acquérir des compétences et  comportements professionnels en situation de production en s'appuyant  sur son expertise technique. Il (elle) s'appuie sur les situations de  travail nécessaires à la réalisation de la production de la SIAE pour  organiser des séances d'apprentissage. Il (elle) en prépare le  déroulement et la mise en œuvre. Il (elle) anime les séances en étant  attentif à la pertinence des méthodes et contenus et s'assure de  l'acquisition des apprentissages à la fin de la séance. Il (elle) évalue  les acquis et acquisitions tout au long du contrat d'insertion. Il  (elle) complète les outils de suivi nécessaires à la traçabilité des  parcours et atteste des compétences acquises pendant le parcours  d'insertion dans la SIAE.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Organiser et animer une activité de production
+1. Organiser et gérer une activité de production
 
-A partir d'une commande adressée à la structure d'insertion, organiser la réalisation de la commande en prenant en compte les délais de réalisation, les critères de performance attendus et les caractéristiques des salariés en insertion (capacité, motivation, contrainte).
+dans une structure d'insertion par l'activité économique (SIAE)
 
-Assurer la progression de la réalisation de la commande auprès de la ou des personnes en insertion, en prenant en compte les difficultés qu'elles rencontrent ainsi que les contraintes liées à la réalisation et l'organisation prévue.
+Organiser l'activité de production dans une structure d'insertion par l'activité économique (SIAE).
 
-Réguler les relations entre les membres de l'équipe et créer un climat de travail favorable à la progression de la réalisation pour favoriser la resocialisation des personnes.
+Gérer l'activité de production dans une structure d'insertion par l'activité économique (SIAE)
 
-Rendre compte de son activité après l'avoir analysée.
+Encadrer et animer une équipe de salariés en insertion.
 
-2. Faire acquérir des règles et des gestes
+2. Participer à l'accompagnement socio-professionnel
 
-professionnels en situation de travail
+et au suivi des salariés dans leur parcours d'insertion
 
-Faciliter l'apprentissage, en situation de travail, des savoirs et savoir-faire à une ou des personnes en leur indiquant les méthodologies adaptées à la situation par une démonstration argumentée et en vérifiant leur acquisition.
+Accueillir le salarié en insertion et mettre en place les conditions favorables à son intégration dans la SIAE.
 
-Accompagner la (les) personne(s) dans leur mise en perspective professionnelle en les aidant à confronter leur comportement vis-à-vis de l'activité professionnelle et leur projet d'(re)insertion.
+Détecter et analyser les freins et les atouts du salarié dans son parcours d'insertion.
 
-Rendre compte de son activité après l'avoir analysée.
+Contribuer à la prise de conscience des atouts et des freins et définir avec le salarié des objectifs d'évolution.
 
-3. Participer au suivi de la personne dans son parcours d'insertion
+Participer aux bilans.
 
-en relation avec les autres acteurs internes et externes
+3. Faire acquérir des compétences et comportements
 
-Accueillir et suivre la personne pour faciliter son intégration au sein de la structure et de l'équipe de travail en préparation de son insertion professionnelle future.
+professionnels en situation de production
 
-Encadrer la personne dans ses relations sociales et affectives au sein de l'équipe pour qu'elle acquière des comportements sociaux adaptés.
+Préparer des séances d'apprentissage en situation de production.
 
-Assurer la médiation entre la personne et les partenaires (internes et externes) impliqués dans son projet d'insertion et/ou les personnes ressources pouvant l'aider à dépasser les difficultés rencontrées (administratives, sociales, affectives...).
+Animer des séances d'apprentissage en situation de production.
 
-Rendre compte de son activité après l'avoir analysée.
+Evaluer les compétences professionnelles des salariés en insertion.
 
-Secteurs d'activités ou types d'emploi
+Secteur d'activité ou types d'emploi accessibles
 
-accessibles par le détenteur du titre
+par le détenteur du titre
 
-L'encadrant technique d'insertion intervient dans des structures très diversifiées d'insertion par l'activité économique (IAE), des chantiers école, des collectivités territoriales, des organismes de formation ou des dispositifs d'aide à l'insertion des travailleurs handicapés.
+L'encadrant  (e) technique d'insertion intervient majoritairement dans le secteur de  l'insertion par l'activité économique (ateliers et chantiers  d'insertion, entreprises d'insertion, associations intermédiaires,  régies de quartier).
+
+Il (elle) peut également  intervenir auprès d'autres publics dans des structures et ateliers  d'insertion ou de resocialisation organisés par des collectivités  territoriales ou des associations.
+
+Les types d'emplois accessibles sont les suivants :
+
+― encadrant technique d'insertion ;
+
+― encadrant technique pédagogique et social ;
+
+― chef d'équipe en entreprise d'insertion ;
+
+― encadrant/ animateur en atelier de resocialisation ;
+
+― encadrant/ animateur en centre social.
+
+L'encadrant  (e) technique d'insertion peut intervenir dans des entreprises adaptées  ou des établissements et services d'aide par le travail (ESAT), sous  réserve d'une adaptation à ce secteur.
 
 Code ROME :
 
-23151 - Educateur/intervenant éducatif.
+K1203-Encadrement technique en insertion professionnelle.
 
 Réglementation de l'activité :
 
@@ -80,10 +88,16 @@ Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant.
+
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2 ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté  du 8 décembre 2008 modifié relatif au règlement général des sessions de  validation conduisant au titre professionnel du ministère chargé de  l'emploi ;
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 8 novembre 2013.
