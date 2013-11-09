@@ -34,7 +34,7 @@ d) les remplacements de tôles doivent être effectués lorsque l'épaisseur des
 
 7. Les cloisons d'abordage ne doivent pas avoir d'ouvertures ni de portes.
 
-8. Les cloisons visées au paragraphe 5 qui séparent les salles des machines des locaux à passagers ou des locaux du personnel de bord doivent être dépourvues de portes.
+8. Les cloisons qui séparent les salles des machines des zones réservées aux passagers ou des logements de l'équipage et du personnel de bord doivent être dépourvues de portes.
 
 9. Les portes de cloisons visées au paragraphe 5 manœuvrées à la main et non commandées à distance ne sont admissibles que là où les passagers n'ont pas accès. Elles doivent :
 

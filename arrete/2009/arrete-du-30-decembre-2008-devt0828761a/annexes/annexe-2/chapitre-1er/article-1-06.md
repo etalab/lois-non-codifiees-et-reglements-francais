@@ -232,6 +232,47 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">7.05, paragraphe 1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les feux de navigation, corps, accessoires et sources lumineuses </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les feux de navigation, corps, accessoires et sources lumineuses<br/>sont conformes aux prescriptions relatives à la couleur et à<br/>l'intensité lumineuse des feux, ainsi qu'à l'agrément des fanaux<br/>de signalisation lumineux pour la navigation du Rhin au 30 novembre 2009 peuvent encore être utilisés</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">7.06, paragraphe 1</p>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Appareils radar de navigation agréés avant le 1er janvier 1990 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les appareils radar de navigation agréés avant le 1er janvier 1990<br/>peuvent être montés et utilisés jusqu'à la délivrance ou au renouvellement<br/>du certificat communautaire après le 31 décembre 2009, en tout cas<br/>au plus tard jusqu'au 31 décembre 2011, s'il existe un certificat de<br/>montage valide conformément à la présente directive ou à la résolution CCNR 1989-II-35 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Indicateurs de vitesse de giration agréés après le 1er janvier 1990 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les indicateurs de vitesse de giration agréés après le 1er janvier 1990<br/>conformément aux prescriptions minimales et aux conditions d'essais<br/>relatives au montage des indicateurs de vitesse de giration utilisés pour<br/>la navigation rhénane intérieure peuvent encore être montés et exploités<br/>pour autant qu'il existe un certificat de montage conformément à la présente directive ou à la résolution CCNR<br/>1989-II-35 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
 <br/>
 </td>
@@ -428,6 +469,20 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">10.02, paragraphe 1, deuxième phrase,<br/>point b</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Récipient en acier ou d'une autre matière résistant aux chocs et non combustibles, d'une contenance d'au moins 10 l </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard au renouvellement du<br/>certificat communautaire </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
 <p align="left">10.02 paragraphe 2<br/>point a</p>
 </td>
@@ -545,6 +600,59 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 </tr>
 <tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">11.02, paragraphe 2, première phrase</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hauteur des bastingages et des hiloires et garde-corps </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1er janvier 2020 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Hauteur des hiloires </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1er janvier 2035 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">11.04, paragraphe 2</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Garde-corps sur les bateaux de L &lt; 55 m avec uniquement des logements arrière </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1er janvier 2020 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">11.12 paragraphes 2, 4, 5 et 9</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Plaque du fabricant, dispositifs de protection, documents à bord </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1er janvier 2015 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
 <p align="left">11.13</p>
 </td>
@@ -556,6 +664,28 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 <td valign="top" width="151">
 <p align="left">1.10.2002</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">CHAPITRE 14 BIS</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">14 bis 02, paragraphe 2, tableaux 1 et 2, et paragraphe 5 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Valeurs limites et de contrôle et agréments de type </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, tant que<br/>a) Les valeurs limites et de contrôle ne<br/>dépassent pas les valeurs selon l'article 14 bis 02<br/>d'un facteur supérieur à 2 ;<br/>b) La station d'épuration de bord dispose d'un<br/>certificat du constructeur ou de l'expert confirmant qu'elle peut faire face aux cycles de charge typiques<br/>de bord du bâtiment ; et<br/>c) Un système de gestion des boues d'épuration<br/>est en place et approprié pour les conditions d'exploitation d'une station d'épuration de bord d'un bateau à passagers </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
 </td>
 </tr>
 <tr>
@@ -686,7 +816,7 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.03 paragraphes 1 à 6</p>
+<p align="left">15.03<br/>paragraphes 1 à 6</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Stabilité à l'état intact</p>
@@ -700,49 +830,71 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">paragraphes 7 et 8</p>
+<p align="left">15.03,<br/>paragraphes 7 et 8</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Stabilité en cas d'avarie</p>
 </td>
 <td valign="top" width="227">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045</p>
 </td>
 <td valign="top" width="151">
-<p align="left">1.1.2006</p>
+<p align="left">1.12.2013</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
+<td rowspan="3" valign="top" width="113">
 <p align="left">paragraphe 9</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Statut de stabilité 2</p>
-</td>
-<td valign="top" width="227">
-<p align="left">N.R.T</p>
-</td>
-<td valign="top" width="151">
-<p align="left">1.1.2007</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p align="left">paragraphes 10 à 13</p>
-</td>
-<td valign="top" width="189">
 <p align="left">Stabilité en cas d'avarie</p>
 </td>
 <td valign="top" width="227">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045</p>
 </td>
 <td valign="top" width="151">
-<p align="left">1.1.2006</p>
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="189">
+<p align="left">Etendue verticale de la brèche au fond du bateau</p>
+</td>
+<td valign="top" width="227">
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045 NRT s'applique aux bateaux pourvus de ponts étanches à l'eau sur une distance minimale de 0,50 m et inférieure à 0,60 m du fond des bateaux ayant obtenu un certificat communautaire ou une autre licence de circulation avant le 31 décembre 2005</p>
+</td>
+<td valign="top" width="151">
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Statut de stabilité 2</p>
+</td>
+<td>
+<p align="left">NRT</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphes 10 à 13</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Stabilité en cas d'avarie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1er janvier 2045</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.05 paragraphe 2,<br/>point a</p>
+<p align="left">15.05<br/>paragraphe 2,<br/>point a</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Nombre des passagers pour lesquels l'existence d'une aire de rassemblement conforme à l'article 15.06, paragraphe 8 est attestée</p>
@@ -770,16 +922,30 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.06 paragraphe 1</p>
+<p align="left">15.06, paragraphe 1,<br/>1er alinéa</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Locaux à passagers situés sur tous les ponts derrière la cloison de poupe</p>
+<p align="left">Zones réservées aux passagers sous pont de cloisonnement et en face de la cloison du coqueron arrière. </p>
 </td>
 <td valign="top" width="227">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045 </p>
 </td>
 <td valign="top" width="151">
-<p align="left">1.1.2006</p>
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">15.06, paragraphe 1,<br/>deuxième alinéa</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Abris</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
 </td>
 </tr>
 <tr>
@@ -1063,17 +1229,28 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
+<td rowspan="2" valign="top" width="113">
 <p align="left">paragraphe 15</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Exigences relatives aux superstructures entièrement réalisées en vitres panoramiques ou dont la toiture est réalisée en vitres panoramiques</p>
+<p align="left">Prescriptions relatives aux abris dans les superstructures constitués entièrement ou en partie de fenêtres panoramiques </p>
 </td>
 <td valign="top" width="227">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045 </p>
 </td>
 <td valign="top" width="151">
-<p align="left">1.1.2006</p>
+<p align="left">1.12.2013</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Prescriptions relatives aux abris </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
 </td>
 </tr>
 <tr>
@@ -1607,6 +1784,20 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 <td valign="top" width="151">
 <p align="left">1.1.2006</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 7 bis</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Abris</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1er janvier 2045</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.12.2013</p>
 </td>
 </tr>
 <tr>

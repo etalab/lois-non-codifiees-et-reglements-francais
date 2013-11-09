@@ -18,24 +18,26 @@ L'agrément de type est accordé par une société de classification agréée ou
 
 6. Les installations doivent être contrôlées par un expert :
 
-a) avant la mise en service,
+a) Avant la première mise en service ;
 
-b) avant toute remise en service consécutive à leur déclenchement,
+b) Avant la remise en service consécutive à leur déclenchement ;
 
-c) après toute modification ou réparation,
+c) Avant la remise en service à la suite d'une modification ou réparation majeure ;
 
-d) régulièrement et au minimum tous les deux ans.
+d) Régulièrement et au minimum tous les deux ans.
 
-7. Au cours du contrôle visé au paragraphe 6, l'expert est tenu de vérifier la conformité des installations aux exigences du présent chapitre.
+Les contrôles visés au point d peuvent également être effectués par un spécialiste d'une société compétente spécialisée en installations d'extinction d'incendies.
+
+7. Au cours du contrôle visé au paragraphe 6, l'expert ou le spécialiste est tenu de vérifier la conformité des installations avec les prescriptions du présent paragraphe.
 
 Le contrôle comprend au minimum :
 
-a) une inspection externe de toute l'installation,
+a) Une inspection externe de toute l'installation ;
 
-b) un contrôle du bon fonctionnement des installations de sécurité et des buses,
+b) Un contrôle du bon fonctionnement des installations de sécurité et des buses ;
 
-c) un contrôle du système réservoirs sous pression - pompes.
+c) Un contrôle du bon fonctionnement des réservoirs de pression et du système de pompage.
 
-8. L'expert qui a effectué le contrôle établit et signe une attestation relative à la vérification, avec mention de la date du contrôle.
+8. L'expert ou le spécialiste qui a effectué le contrôle établit et signe une attestation relative à la vérification, avec mention de la date du contrôle.
 
 9. Le nombre des installations existantes doit être mentionné au certificat communautaire.

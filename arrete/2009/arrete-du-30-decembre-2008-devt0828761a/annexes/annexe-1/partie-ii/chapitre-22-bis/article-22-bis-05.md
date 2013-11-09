@@ -20,7 +20,7 @@ a) en cas d'avarie, peuvent être scindés au tiers central du bâtiment sans re
 
 b) possèdent une attestation d'une société de classification agréée relative à la flottabilité, à l'assiette correcte et à la stabilité des parties scindées du bâtiment, dans laquelle est indiqué aussi le degré de chargement à partir duquel la flottabilité des deux parties n'est plus assurée, cette attestation étant conservée à bord ;
 
-c) possèdent une double coque conforme à l'ADNR, les automoteurs étant conformes aux 9.1.0.91 à 9.1.0.95, les bateaux-citernes aux 9.3.2.11.7 et 9.3.2.13 à 9.3.2.15 de la partie 9 de l'ADNR ;
+c) posséder une double coque conforme à l'ADN. Les bateaux à marchandises sèches doivent être conformes aux sous-sections 9.1.0.91 à 9.1.0.95, les bateaux-citernes au paragraphe 9.3.2.11.7 et aux sous-sections 9.3.2.13 à 9.3.2.15 ou paragraphe 9.3.3.11.7 et sous-sections 9.3.3.13 à 9.3.3.15 de la partie 9 de l'ADN ;
 
 d) disposent d'une installation de propulsion à plusieurs hélices conformément au paragraphe 1, point a), première demi-phrase,
 

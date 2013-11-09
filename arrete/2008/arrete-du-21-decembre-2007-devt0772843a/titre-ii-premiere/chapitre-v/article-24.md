@@ -34,8 +34,8 @@ Le titre de navigation délivré par l'autorité compétente énonce notamment :
 
 16. Les agrès et apparaux spécialement imposés, s'il y a lieu ;
 
-17. Les dérogations mentionnées à l'article 16 du décret du 2 août 2007 susvisé, s'il y a lieu ;
+17. Les dérogations mentionnées à l'article D. 4220-4 du code des transports, s'il y a lieu ;
 
-18. Les équivalences et dérogations mentionnées à l'article 17 du décret du 2 août 2007 susvisé, s'il y a lieu ;
+18. Les équivalences et dérogations mentionnées à l'article D. 4211-3 du code des transports, s'il y a lieu ;
 
 19. Les prescriptions techniques non respectées, s'il y a lieu.

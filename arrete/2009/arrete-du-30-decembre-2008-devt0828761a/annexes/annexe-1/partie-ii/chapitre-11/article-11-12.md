@@ -28,30 +28,36 @@ Le déplacement ascendant du dispositif de levage et le dépassement de la charg
 
 La résistance à la rupture des câbles de charges mobiles doit correspondre à 5 fois la charge admissible du câble. La construction du câble doit être sans défaut et être appropriée à l'utilisation sur des grues.
 
-6. Avant la première mise en service ou avant la remise en service après modifications importantes, la preuve par le calcul ainsi que par un essai de charge doit être fournie pour la solidité et la stabilité suffisantes.
+6. Les grues doivent être contrôlées par un expert :
 
-Pour les grues dont la charge utile ne dépasse pas 2 000 kg, l'expert peut décider que la preuve par le calcul peut être remplacée en totalité ou en partie par un essai avec une charge de 1,25 fois la charge utile menée au plus long bras de chargement sur l'ensemble du secteur du pivotement. La réception visée au premier ou au deuxième alinéa doit être effectuée par un expert.
+a) Avant la première mise en service ;
 
-7. Les grues doivent être contrôlées régulièrement, toutefois au moins tous les douze mois, par une personne compétente. Ce contrôle doit comporter au moins une inspection visuelle et un contrôle de fonctionnement.
+b) Avant la remise en service à la suite d'une modification ou réparation importante ;
 
-8. Tous les dix ans au plus tard après une réception la grue doit à nouveau être soumise à une réception par un expert.
+c) Régulièrement, au moins une fois tous les dix ans.
+
+A cette occasion, la preuve par le calcul ainsi que par un essai de charge doit être fournie pour la solidité et de la stabilité suffisantes.
+
+Lorsque la charge utile d'une grue ne dépasse pas 2 000 kg, l'expert peut décider que la preuve par le calcul peut être remplacée en totalité ou en partie par un essai avec une charge de 1,25 fois la charge utile menée au plus long bras de chargement sur l'ensemble du secteur de pivotement.
+
+L'expert établit et signe une attestation relative à la vérification, avec mention de la date du contrôle.
+
+7. Les grues doivent être contrôlées régulièrement et au moins tous les douze mois, par un spécialiste. Ce contrôle doit comporter au moins une inspection visuelle et un contrôle de fonctionnement.
+
+Le spécialiste établit et signe une attestation relative à la vérification, avec mention de la date du contrôle..
+
+8. (Supprimé).
 
 9. Les grues à charge utile supérieure à 2 000 kg ou celles servant au transbordement de la cargaison ou installées à bord d'engins de levage, de pontons, d'autres engins flottants ou de bâtiments de chantier doivent en outre satisfaire aux prescriptions de l'un des Etats membres.
 
-10. Pour les grues au moins les documents suivants doivent se trouver à bord :
+10. Les instructions d'utilisation du fabricant de la grue doivent être conservées à bord. Celles-ci doivent fournir au moins les indications suivantes :
 
-a) instructions d'utilisation du fabricant de la grue. Ces instructions doivent fournir au moins les indications suivantes :
+a) Cas d'utilisation et fonction des organes de commande ;
 
-cas d'utilisation et fonction des organes de commande ;
+b) La charge utile maximale admissible en fonction du bras de chargement ;
 
-charge utile maximale admissible en fonction du bras de chargement ;
+c) L'inclinaison maximale admissible de la grue ;
 
-gîte et assiette maximale admissible de la grue ;
+d) La notice de montage et d'entretien ;
 
-notice de montage et d'entretien ;
-
-instructions pour les contrôles réguliers ;
-
-données techniques générales.
-
-b) attestations relatives aux contrôles effectués conformément aux paragraphes 6 à 8 ou 9.
+e) Les données techniques générales.

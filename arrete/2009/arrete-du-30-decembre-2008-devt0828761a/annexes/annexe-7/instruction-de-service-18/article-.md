@@ -22,6 +22,6 @@ et de la stabilité des différentes parties d'un bateau après séparation
 
 Le bras de levier d'inclinaison dû aux surfaces libres de liquides doit toujours être pris en compte conformément à la formule de l'article 22.02, paragraphe 1, lettre e).
 
-4. Les exigences fixées aux paragraphes 2 et 3 ci-dessus sont aussi réputées satisfaites si chacune des deux parties du bateau est conforme aux exigences relatives à la stabilité fixées au paragraphe 9.1.0.95.2 du Règlement pour le transport de marchandises dangereuses sur le Rhin (ADNR).
+4. Les exigences fixées aux points 2 et 3 ci-dessus sont aussi réputées satisfaites si chacune des deux parties du bateau est conforme aux exigences relatives à la stabilité fixées au paragraphe 9.1.0.95.2 de l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN).
 
 5. Pour la preuve de la stabilité des parties du bateau après séparation, on peut supposer que le chargement de ces parties est homogène car, si tel n'est pas encore le cas, le chargement peut être équilibré avant la séparation, à moins que le bateau soit en grande partie déchargé.

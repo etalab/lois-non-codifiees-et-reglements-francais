@@ -6,7 +6,7 @@ Les définitions ci-après sont applicables aux fins du présent arrêté :
 
 Types de bâtiment
 
-1. (sans objet)
+1. "Bâtiment" : un bateau ou un engin flottant ;
 
 2. (sans objet)
 
@@ -152,13 +152,13 @@ Termes de technique navale
 
 70. "longueur hors tout" ("LHT") la plus grande longueur du bâtiment en m, y compris toutes les installations fixes telles que des parties de l'installation de gouverne ou de l'installation de propulsion, des dispositifs mécaniques ou analogues ;
 
-71. "longueur dans la ligne de flottaison" ("LF" ou "LWL") la longueur de la coque en m, mesurée au niveau du plus grand enfoncement du bateau ;
+71. "Longueur dans la ligne de flottaison" ("LF") la longueur de la coque en mètres, mesurée au niveau du plus grand enfoncement du bateau ;
 
 72. (sans objet)
 
 73. "largeur hors tout" ("BHT") la plus grande largeur du bâtiment en m, y compris toutes les installations fixes telles que roues à aubes, plinthes, des dispositifs mécaniques ou analogues ;
 
-74. "largeur dans la ligne de flottaison" ("BF" ou "BWL") la largeur de la coque en m, mesurée à l'extérieur du bordé au niveau du plus grand enfoncement du bateau ;
+74. "Largeur dans la ligne de flottaison" ("BF") la largeur de la coque en mètres, mesurée à l'extérieur du bordé au niveau du plus grand enfoncement du bateau ;
 
 75. "hauteur latérale" ("H") la plus petite distance verticale en m entre l'arête inférieure des tôles de fond ou de la quille et le point le plus bas du pont sur le côté du bateau ;
 
@@ -212,11 +212,11 @@ Propriétés de parties de constructions et de matériaux
 
 Autres termes
 
-97. "société de classification agréée" une société de classification agréée conformément aux critères et procédures de l'annexe VII de la directive 2006/87/CE ;
+97. "Société de classification" : une société de classification agréée conformément aux critères et procédures de l'annexe VII ;
 
-97 bis. "Feux de signalisation" : périodes de lumière de fanaux de signalisation de bâtiments ;
+97 bis. "Feux de navigation" : éclairage émanant de lampes de signalisation pour indiquer les bateaux ;
 
-97 ter. "Signaux lumineux" : périodes de lumières destinées à renforcer des signaux visuels et sonores ;
+97 ter. "Signaux lumineux" : éclairage utilisé pour compléter les signaux visuels ou sonores ;
 
 98. "appareil radar" une assistance électronique à la navigation destinée à la détection et à la représentation de l'environnement et du trafic ;
 
@@ -232,4 +232,8 @@ Autres termes
 
 104. "personnes à mobilité réduite" les personnes rencontrant des problèmes particuliers lors de l'utilisation de transports en commun, telles que les personnes âgées, les personnes handicapées, les personnes souffrant d'un handicap sensoriel, les personnes utilisant un fauteuil roulant, les femmes enceintes et les personnes accompagnant des enfants en bas âge ;
 
-105. "certificat communautaire" certificat délivré par les autorités compétentes pour un bateau et qui atteste le respect des exigences techniques du présent arrêté.
+105. "certificat communautaire" certificat délivré par les autorités compétentes pour un bateau et qui atteste le respect des exigences techniques du présent arrêté ;
+
+106. "Expert" : une personne agréée par l'autorité compétente ou par une institution autorisée qui, du fait de sa formation spécialisée et de son expérience, possède des connaissances particulières dans le domaine d'intervention concerné et une connaissance étendue des règlements en la matière et des règles techniques généralement acceptées (par exemple : les normes EN, la législation en la matière, les règles techniques d'autres Etats membres de l'Union européenne) pour contrôler et expertiser les installations et dispositifs concernés ;
+
+107. "Spécialiste" : une personne qui, du fait de sa formation spécialisée et de son expérience, possède des connaissances suffisantes dans le domaine d'intervention concerné et une connaissance suffisante des règlements en la matière et des règles techniques généralement reconnues (par exemple : les normes EN, règlements spécifiques, les règles techniques d'autres Etats membres de l'Union européenne) pour évaluer la sécurité de fonctionnement des installations et dispositifs concernés.

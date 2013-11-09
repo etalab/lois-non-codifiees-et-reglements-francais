@@ -1,6 +1,6 @@
 # Article 25
 
-La durée de validité du titre définie au II de l'article 10 et au II de l'article 38 du décret du 2 août 2007 susvisé peut être réduite par l'autorité compétente dans les cas suivants :
+La durée de validité du titre définie aux articles D. 4221-8 et D. 4221-47 du code des transports peut être réduite par l'autorité compétente dans les cas suivants :
 
 1. Usure ou endommagement important de la coque ;
 

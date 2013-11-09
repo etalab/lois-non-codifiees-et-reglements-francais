@@ -4,11 +4,13 @@ Locaux et zones destinés aux passagers
 
 1. Les locaux à passagers doivent :
 
-a) sur tous les ponts, se trouver en arrière du plan de la cloison d'abordage et, s'ils sont situés sous le pont de cloisonnement, en avant du plan de la cloison de coqueron arrière et
+a) Sur tous les ponts, se trouver en arrière du plan de la cloison d'abordage et, lorsqu'elles sont en dessous du pont de cloisonnement, en avant du plan de la cloison du coqueron arrière ;
 
-b) être séparés des salles des machines et des chaudières de manière étanche au gaz.
+b) Etre séparées des salles des machines et des salles des chaudières de manière étanche au gaz ;
 
-c) être aménagés de manière à ne pas être traversés par une ligne de vision au sens de l'article 7.02.
+c) Etre aménagées de manière à ne pas être traversées par des lignes de vision au sens de l'article 7.02.
+
+Les zones de pont qui sont mises sous abri par des bâches ou autres aménagements mobiles et recouvertes non seulement par le haut mais aussi partiellement ou complètement latéralement doivent satisfaire aux mêmes exigences que les locaux à passagers fermés.
 
 2. Les armoires visées à l'article 11.13 et les locaux destinés au stockage de liquides inflammables doivent se trouver en dehors de la zone destinée aux passagers.
 
@@ -152,7 +154,7 @@ d) les lignes de vision définies à l'article 7.02 ne doivent pas être coupée
 
 Les portes transparentes et les cloisons transparentes allant jusqu'au sol sur les zones de circulation doivent porter un marquage bien visible.
 
-15. Les superstructures ou leurs toits intégralement réalisés en vitres panoramiques doivent uniquement être réalisés en des matériaux qui réduisent autant que possible les risques de blessure des personnes à bord en cas de sinistre.
+15. Les superstructures entièrement composées, ou dont le toit est entièrement composé de vitres panoramiques, ou les mises sous abri, par des bâches ou autres aménagements mobiles et ainsi que leurs sous-structures ne peuvent être réalisées que de telle sorte que le mode de construction et les matériaux utilisés ne représentent pas de risques de blessures des personnes à bord.
 
 16. Les installations d'eau potable doivent satisfaire au minimum aux exigences de l'article 12.05.
 

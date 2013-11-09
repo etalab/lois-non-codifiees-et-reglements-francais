@@ -1,5 +1,7 @@
 # Article 1.03
 
-Fixation
+Essais de type
 
-Les parties des fanaux assurant leur fixation à bord doivent être réalisées de manière qu'après leur ajustage la position des fanaux une fois fixée ne puisse se modifier en cours d'exploitation.
+1. L'observation des prescriptions minimales des chapitres 2 à 4 pour les indicateurs de vitesse de giration est attestée lors d'un essai de type.
+
+2. A la suite d'un essai de type satisfaisant, le service technique délivre une attestation de contrôle. Si l'équipement ne satisfait pas aux prescriptions minimales, les raisons du refus sont notifiées par écrit au demandeur.

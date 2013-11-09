@@ -8,4 +8,4 @@ Attestation
 
 3. La durée de validité de l'attestation est de trois ans au plus. Elle ne peut être renouvelée qu'à la suite d'une nouvelle réception conformément à l'article 14.13.
 
-Exceptionnellement, sur la demande motivée du propriétaire du bateau ou de son représentant, la commission de visite pourra prolonger de trois mois au plus la validité de cette attestation sans procéder à la réception visée à l'article 14.13. Cette prolongation doit être inscrite dans le certificat communautaire.
+Exceptionnellement, sur la demande motivée du propriétaire du bateau ou de son représentant, à la commission de visite pourra prolonger de trois mois au plus la validité de cette attestation sans procéder au contrôle visé à l'article 14.13. Cette prolongation doit être inscrite dans le certificat communautaire.

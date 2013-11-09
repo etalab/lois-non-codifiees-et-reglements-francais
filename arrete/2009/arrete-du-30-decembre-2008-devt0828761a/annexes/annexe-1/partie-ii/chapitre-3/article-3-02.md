@@ -6,7 +6,7 @@ Solidité et stabilité
 
 a) en cas de constructions neuves ou de transformations importantes affectant la solidité du bateau, la solidité suffisante doit être prouvée par la présentation d'une preuve par le calcul. Cette preuve n'est pas obligatoire en cas de présentation d'un certificat de classification ou d'une attestation d'une société de classification agréée ;
 
-b) En cas de visite de renouvellement, les épaisseurs minimales des tôles de fond, de bouchain et de bordé latéral doivent être contrôlées selon les modalités suivantes. Pour les bateaux construits en acier, l'épaisseur minimale t<sub>min</sub> est donnée par la plus grande des valeurs résultant des formules :
+b) En cas de visite de renouvellement, pour les bateaux construits en acier, les épaisseurs minimales des tôles de fond, de bouchain et de bordé latéral doivent correspondre au minimum à la plus grande des valeurs résultant des formules suivantes :
 
 1. pour les bateaux d'une longueur supérieure à 40 m :
 

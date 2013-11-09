@@ -458,6 +458,28 @@ Dispositions transitoires
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">7.05, paragraphe 1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les feux de navigation, corps, accessoires et sources lumineuses</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les feux de navigation, corps, accessoires et sources<br/>lumineuses sont conformes :<br/>- aux prescriptions relatives à la couleur et à l'intensité<br/>lumineuse des feux ainsi qu'à l'agrément des fanaux de<br/>signalisation lumineux pour la navigation du Rhin au<br/>30 novembre 2009 ; ou<br/>- les prescriptions respectives d'un Etat membre au<br/>30 novembre 2009 peuvent toujours être utilisées.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.06, paragraphe 1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Appareils radar de navigation agréés avant le 1er janvier 1990</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les appareils radars de navigation et les indicateurs<br/>de vitesse de giration agréés et montés conformément<br/>au règlement d'un Etat membre avant le 31 décembre 2012<br/>peuvent continuer à être montés et exploités jusqu'à la<br/>délivrance ou au renouvellement du certificat communautaire<br/>après le 31 décembre 2018. Il convient d'inscrire ces systèmes<br/>dans le certificat communautaire sous le numéro 52.<br/>Les appareils radars de navigation et les indicateurs de<br/>vitesse de giration agréés depuis le 1er janvier 1990 sur<br/>la base des prescriptions minimales et des conditions d'essai<br/>relatives aux appareils radar de navigation pour la navigation<br/>rhénane, ainsi que sur la base des prescriptions minimales<br/>et des conditions d'essai relatives aux indicateurs de vitesse<br/>de giration pour la navigation rhénane peuvent continuer<br/>à être maintenus en place et utilisés, à condition qu'une<br/>attestation de montage valide en conformité avec la présente<br/>directive ou la résolution CCNR 1989-II-35 soit disponible.</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="151">
 <p align="left">7.09</p>
 </td>
@@ -1107,24 +1129,46 @@ Dispositions transitoires
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="left">11.02 paragraphe 4</p>
+<p align="left">11.02, paragraphe 4, première phrase</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Équipement des bords extérieurs des ponts, des plats-bords et autres postes de travail</p>
+<p align="left">Equipement des bords extérieurs des ponts, des plats-bords et des postes de travail</p>
 </td>
 <td valign="top" width="265">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 30 décembre 2029</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2020 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="left">11.04</p>
+<br/>
 </td>
 <td valign="top" width="265">
-<p align="left">Plat-bord</p>
+<p align="left">Hauteur des hiloires</p>
 </td>
 <td valign="top" width="265">
-<p align="left">(1) Délivrance ou premier renouvellement du certificat communautaire après le 30 décembre 2049, si largeur supérieure à 7,30 m</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2035 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">11.04, paragraphe 1</p>
+</td>
+<td>
+<p align="left">Largeur libre du plat-bord</p>
+</td>
+<td>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement<br/>du certificat communautaire après le 1er janvier 2035<br/>pour les bateaux d'une largeur supérieure à 7,30 m</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 2</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Garde-corps sur les bateaux de L &lt; 55 m avec uniquement<br/>des logements arrière </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement<br/>du certificat communautaire après le 1er janvier 2020 </p>
 </td>
 </tr>
 <tr>
@@ -1357,7 +1401,7 @@ Dispositions transitoires
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="left">paragraphe 12 points a et b</p>
+<p align="left">paragraphe 12 points a<br/>et b</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Aménagement des escaliers</p>
@@ -1433,6 +1477,24 @@ Dispositions transitoires
 </td>
 </tr>
 <tr>
+<td/>
+<td>
+<p align="left">CHAPITRE 14 BIS</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">14 bis 02, paragraphe 2,<br/>tableaux 1 et 2, et paragraphe 5 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Valeurs limites et de contrôle et agréments de type</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, tant que<br/>a) Les valeurs limites et de contrôle ne dépassent pas les<br/>valeurs selon l'article 14 bis 02 d'un facteur supérieur à 2 ;<br/>b) La station d'épuration de bord dispose d'un certificat du<br/>constructeur ou de l'expert confirmant qu'elle peut faire face<br/>aux cycles de charge typiques de bord du bâtiment ; et<br/>c) Un système de gestion des boues d'épuration est en place et<br/>approprié pour les conditions d'exploitation d'une station<br/>d'épuration de bord d'un bateau à passagers </p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="151">
 <br/>
 </td>
@@ -1451,7 +1513,7 @@ Dispositions transitoires
 <p align="left">Bateaux à passagers</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Cf. article 31 du décret 2007/1168</p>
+<p align="left">Cf. articles D. 4221-34 à D. 4221-36 du code des transports et instruction de service n° 6 bis</p>
 </td>
 </tr>
 <tr>
@@ -1473,7 +1535,7 @@ Dispositions transitoires
 <p align="left">Bateaux à passagers à voiles</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Cf. article 31 du décret 2007/1168</p>
+<p align="left">Cf. articles D. 4221-34 à D. 4221-36 du code des transports et instruction de service n° 6 bis</p>
 </td>
 </tr>
 <tr>
@@ -1525,10 +1587,10 @@ Dispositions transitoires
 <br/>
 </td>
 <td valign="top" width="265">
-<p align="left">Engins flottants</p>
+<p align="left">Engin flottant</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Cf. article 31 du décret 2007/1168</p>
+<p align="left">Cf. articles D. 4221-34 à D. 4221-36 du code des transports</p>
 </td>
 </tr>
 <tr>

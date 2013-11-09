@@ -80,6 +80,18 @@ Généralités
 
 7.7 Les systèmes à alimentation électrique doivent offrir un degré minimal de protection de IP 55, conformément à la publication CEI 60529: 1992.
 
-8. Essais
+8. Contrôle
 
-La luminance de tous les systèmes LLL doit être contrôlée au moins une fois tous les cinq ans par un expert. L'expert établit et signe une attestation mentionnant la date du contrôle. Si la luminance lors d'une mesure particulière ne satisfait pas aux exigences de la présente instruction de service, des mesures doivent être effectuées à au moins dix emplacements équidistants. Si plus de 30 % des mesures ne sont pas conformes aux exigences de la présente instruction de service, les systèmes d'éclairage de sécurité doivent être remplacés. Si 20 % à 30 % des mesures ne satisfont pas aux exigences de la présente instruction de service, le contrôle des systèmes d'éclairage de sécurité doit être renouvelé dans un délai d'un an au plus.
+8.1. La luminance de tous les systèmes du LLL doit être contrôlée par un expert
+
+a) Avant la première mise en service ;
+
+b) Avant la remise en service à la suite d'une modification ou réparation majeure ;
+
+c) Régulièrement, au moins une fois tous les cinq ans.
+
+Les contrôles visés à la lettre c peuvent également être effectués par un spécialiste en systèmes de guidage de sécurité.
+
+8.2. L'expert ou le spécialiste établit et signe une attestation mentionnant la date du contrôle.
+
+8.3. Si la luminance lors d'une mesure particulière ne satisfait pas aux exigences de la présente instruction de service, des mesures doivent être effectuées à au moins dix emplacements équidistants. Si plus de 30 % des mesures ne sont pas conformes aux exigences de la présente instruction de service, les systèmes de guidage de sécurité doivent être remplacés. Si 20 % à 30 % des mesures ne satisfont pas aux exigences de la présente instruction de service, le contrôle des systèmes de guidage de sécurité doit être renouvelé dans un délai d'un an au plus.

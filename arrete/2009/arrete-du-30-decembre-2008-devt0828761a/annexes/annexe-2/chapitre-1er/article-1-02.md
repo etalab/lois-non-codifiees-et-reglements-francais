@@ -425,7 +425,8 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">paragraphe 9<br/>troisième<br/>phrase </p>
+<p align="left">paragraphe 9</p>
+<p>troisième<br/>phrase </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Commande par un levier</p>
@@ -446,6 +447,46 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">7.05,<br/>paragraphe 1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les feux de navigation, corps, accessoires et sources lumineuses </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les feux de navigation, corps, accessoires et sources lumineuses sont<br/>conformes aux prescriptions relatives à la couleur et à l'intensité lumineuse<br/>des feux, ainsi qu'à l'agrément des fanaux de signalisation lumineux pour<br/>la navigation du Rhin au 30 novembre 2009 peuvent encore être utilisés</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.06,<br/>paragraphe 1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Appareils radars de navigation agréés avant le 1er janvier 1990 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les appareils radar de navigation agréés avant le 1er janvier 1990 peuvent<br/>être montés et utilisés jusqu'à la délivrance ou au renouvellement du certificat<br/>communautaire après le 31 décembre 2009, en tout cas au plus tard jusqu'au<br/>31 décembre 2011, s'il existe un certificat de montage valide conformément à la présente directive ou à la résolution CCNR 1989-II-35.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Indicateurs de vitesse de giration agréés avant le 1er janvier 1990 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les indicateurs de vitesse de giration agréés avant le 1er janvier 1990 et montés<br/>avant le 1er janvier 2000 peuvent être utilisés jusqu'à la délivrance ou au<br/>renouvellement du certificat communautaire après le 1.1.2015 s'il existe un certificat de montage valide conformément à la présente directive ou à la résolution CCNR 1989-II-35.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Appareils radars de navigation et indicateurs de vitesse de giration agréés après le 1er janvier 1990 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Les appareils radar de navigation et les indicateurs de vitesse de giration agréés<br/>au ou après le 1er janvier 1990 conformément aux prescriptions minimales<br/>et aux conditions d'essais relatives au montage des radars utilisés pour la navigation rhénane intérieure, ainsi qu'aux prescriptions minimales et aux conditions d'essai relatives aux indicateurs de vitesse de giration utilisés pour la navigation rhénane intérieure peuvent encore être montés et exploités pour autant qu'il existe un certificat de montage en conformité avec la présente directive ou de la résolution CCNR 1989-II-35.</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
 <p align="left">7.09 </p>
 </td>
@@ -458,7 +499,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">7.12<br/>1er alinéa </p>
+<p align="left">7.12 1er alinéa </p>
 </td>
 <td valign="top" width="265">
 <p align="left">Timoneries télescopiques </p>
@@ -765,11 +806,11 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </td>
 <td align="left" valign="top">
 <p align="left">Pour les moteurs :</p>
-<p>a) installés à bord des bâtiments entre le 1.1.2003 et le 1.7.2007, les valeurs limites d'émission de gaz d'échappement énoncées à l'annexe XIV de la directive 97/68/CE s'appliquent ; </p>
-<p>b) installés à bord des bâtiments ou dans des machines installées à bord après le 30.6.2007, les valeurs limites d'émission de gaz d'échappement énoncées à l'annexe XV de la directive 97/68/CE s'appliquent.</p>
+<p>a) installés à bord des bâtiments entre le 1.1.2003<br/>et le 1.7.2007, les valeurs limites d'émission de gaz<br/>d'échappement énoncées à l'annexe XIV de la directive<br/>97/68/CE s'appliquent ; </p>
+<p>b) installés à bord des bâtiments ou dans des machines<br/>installées à bord après le 30.6.2007, les valeurs limites<br/>d'émission de gaz d'échappement énoncées à l'annexe XV<br/>de la directive 97/68/CE s'appliquent.</p>
 <p>Les exigences relatives aux catégories : </p>
-<p>aa) V pour les moteurs de propulsion et pour les moteurs auxiliaires d'une puissance supérieure à 560kW et </p>
-<p align="left">bb) D, E, F, G, H, I, J, K pour les moteurs auxiliaires visés par la directive 97/68/CE</p>
+<p>aa) V pour les moteurs de propulsion et pour les moteurs<br/>auxiliaires d'une puissance supérieure à 560kW et </p>
+<p align="left">bb) D, E, F, G, H, I, J, K pour les moteurs auxiliaires visés<br/>par la directive 97/68/CE</p>
 <p align="left">sont réputées équivalentes. </p>
 </td>
 </tr>
@@ -819,7 +860,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">9.02 paragraphes 1 à 3</p>
+<p align="left">9.02<br/>paragraphes 1 à 3</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Systèmes d'alimentation en énergie électrique</p>
@@ -919,7 +960,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">9.16 paragraphe 3<br/>2e phrase</p>
+<p align="left">9.16<br/>paragraphe 3<br/>2e phrase</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Répartition de l'éclairage sur deux circuits</p>
@@ -984,8 +1025,19 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">10.02,<br/>paragraphe 1, deuxième phrase, point b</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Récipient en acier ou d'une autre matière résistant aux chocs et non combustible, d'une contenance d'au moins 10 l </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard au renouvellement du certificat communautaire </p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
-<p align="left">10.02 paragraphe 2<br/>point a</p>
+<p align="left">10.02<br/>paragraphe 2<br/>point a</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Attestation pour les câbles et autres cordages</p>
@@ -997,7 +1049,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">10.03 paragraphe 1</p>
+<p align="left">10.03<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Norme européenne</p>
@@ -1063,7 +1115,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">10.05 paragraphe 2</p>
+<p align="left">10.05<br/>paragraphe 2</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Gilets de sauvetage gonflables</p>
@@ -1085,24 +1137,46 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">11.02<br/>paragraphe 4</p>
+<p align="left">11.02,<br/>paragraphe 4, première phrase</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Équipement des bords extérieurs des ponts, des plats-bords et autres postes de travail</p>
+<p align="left">Equipement des bords extérieurs des ponts, des plats-bords et des postes de travail </p>
 </td>
 <td valign="top" width="302">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2015</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2020</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Hauteur des hiloires</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du<br/>certificat communautaire après le 1er janvier 2035 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">11.04,<br/>paragraphe 1</p>
+</td>
+<td>
+<p align="left">Largeur libre du plat-bord</p>
+</td>
+<td>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2035 pour les bateaux d'une largeur supérieure à 7,30 m</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">11.04</p>
+<p align="left">paragraphe 2</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Plat-bord</p>
+<p align="left">Garde-corps sur les bateaux de L &lt; 55 m avec uniquement des logements arrière </p>
 </td>
 <td valign="top" width="302">
-<p align="left">(2) Première délivrance ou premier renouvellement du certificat communautaire après le 1.1.2035, si largeur supérieure à 7,30 m</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2020 </p>
 </td>
 </tr>
 <tr>
@@ -1120,7 +1194,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">11.05 paragraphe 1</p>
+<p align="left">11.05<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Accès des postes de travail</p>
@@ -1153,7 +1227,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">11.06 paragraphe 2</p>
+<p align="left">11.06<br/>paragraphe 2</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Issues et issues de secours</p>
@@ -1164,7 +1238,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">11.07 paragraphe 1<br/>2e phrase</p>
+<p align="left">11.07<br/>paragraphe 1<br/>2e phrase</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Dispositifs de montée</p>
@@ -1208,13 +1282,13 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">11.12 paragraphes 2 à 6 et paragraphes 8 à 10</p>
+<p align="left">11.12, paragraphes 2, 4, 5 et 9</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Grues: Plaque du fabricant, charge maximale admissible, dispositifs de protection, preuve par le calcul, contrôle par les experts, documents à bord</p>
+<p align="left">Plaque du fabricant, dispositifs de protection, documents à bord </p>
 </td>
 <td valign="top" width="302">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2015</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2015 </p>
 </td>
 </tr>
 <tr>
@@ -1241,7 +1315,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">12.01 paragraphe 1</p>
+<p align="left">12.01<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Logements pour les personnes vivant normalement à bord</p>
@@ -1252,7 +1326,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">12.02 paragraphe 3</p>
+<p align="left">12.02<br/>paragraphe 3</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Situation des planchers</p>
@@ -1395,13 +1469,31 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">12.07 paragraphe 1<br/>2e phrase</p>
+<p align="left">12.07<br/>paragraphe 1<br/>2e phrase</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Autres installations des logements</p>
 </td>
 <td valign="top" width="302">
 <p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2035</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">CHAPITRE 14 BIS</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">14 bis 02, paragraphe 2, tableaux 1 et 2, et paragraphe 5 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Valeurs limites et de contrôle et agréments de type</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, tant que a les valeurs limites et de contrôle ne dépassent pas les valeurs selon l'article 14 bis 02 d'un facteur supérieur à 2 ; b la station d'épuration de bord dispose d'un certificat du constructeur ou de l'expert confirmant qu'elle peut faire face aux cycles de charge typiques de bord du bâtiment ; et c un système de gestion des boues d'épuration est en place et approprié pour les conditions d'exploitation d'une station d'épuration de bord d'un bateau à passagers</p>
 </td>
 </tr>
 <tr>
@@ -1417,7 +1509,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">15.01 paragraphe 1,<br/>point c)</p>
+<p align="left">15.01<br/>paragraphe 1,<br/>point c)</p>
 </td>
 <td align="left" valign="top">
 <p align="left">L'article 8.08, paragraphe 2, deuxième phrase, ne s'applique pas</p>
@@ -1439,7 +1531,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.01 paragraphe 2<br/>point d</p>
+<p align="left">15.01<br/>paragraphe 2<br/>point d</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Interdiction des chauffages à combustibles solides visés à l'article 13.07</p>
@@ -1463,7 +1555,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.02 paragraphe 2</p>
+<p align="left">15.02<br/>paragraphe 2</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Nombre et disposition des cloisons</p>
@@ -1524,7 +1616,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 <p align="left">Stabilité en cas d'avarie</p>
 </td>
 <td valign="top" width="302">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045</p>
 </td>
 </tr>
 <tr>
@@ -1532,26 +1624,37 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 <p align="left">paragraphe 9</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Statut de stabilité 2</p>
-</td>
-<td valign="top" width="302">
-<p align="left">N.R.T.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p align="left">paragraphes 10 à 13</p>
-</td>
-<td valign="top" width="265">
 <p align="left">Stabilité en cas d'avarie</p>
 </td>
 <td valign="top" width="302">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1er janvier 2045</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Etendue verticale de l'avarie au fond du bateau </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement du<br/>certificat communautaire après le 1er janvier 2045 NRT s'applique<br/>aux bateaux pourvus de ponts étanches à l'eau sur une distance minimale<br/>de 0,50 m et inférieure à 0,60 m du fond des bateaux ayant obtenu un<br/>premier certificat communautaire ou un autre certificat de navigation<br/>avant le 31 décembre 2005</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">Statut de stabilité 2 </p>
+</td>
+<td>
+<p align="left">NRT</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.05 paragraphe 2,<br/>point a</p>
+<p align="left">15.05<br/>paragraphe 2,<br/>point a</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Nombre des passagers pour lesquels l'existence d'une aire de rassemblement conforme à l'article 15.06, paragraphe 8 est attestée</p>
@@ -1573,13 +1676,24 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.06 paragraphe 1, point a</p>
+<p align="left">15.06,<br/>paragraphe 1, alinéa 1</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Locaux à passagers sur tous les ponts situés derrière la cloison d'abordage et devant la cloison de coqueron arrière</p>
+<p align="left">Zones réservées aux passagers sous pont de cloisonnement et en face de la cloison du coqueron arrière </p>
 </td>
 <td valign="top" width="302">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard au renouvellement du certificat communautaire après le 1er janvier 2045 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">15.06,<br/>paragraphe 1, alinéa 2</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Abris </p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard au renouvellement du certificat communautaire </p>
 </td>
 </tr>
 <tr>
@@ -1606,7 +1720,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.06 paragraphe 3,<br/>point f, 1re phrase</p>
+<p align="left">15.06<br/>paragraphe 3,<br/>point f, 1re phrase</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Dimension des issues de secours</p>
@@ -1781,14 +1895,22 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
+<td rowspan="2" valign="top" width="113">
 <p align="left">paragraphe 15</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Exigences relatives aux superstructures entièrement réalisées en vitres panoramiques ou dont la toiture est réalisée en vitres panoramiques</p>
+<p align="left">Prescriptions relatives aux superstructures constituées entièrement ou partiellement réalisées en vitres panoramiques </p>
 </td>
 <td valign="top" width="302">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2045</p>
+<p align="left">NRT, au plus tard au renouvellement du certificat communautaire après le 1er janvier 2045 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Prescriptions relatives aux abris </p>
+</td>
+<td>
+<p align="left">NRT, au plus tard au renouvellement du certificat communautaire </p>
 </td>
 </tr>
 <tr>
@@ -1848,7 +1970,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.08 paragraphe 2</p>
+<p align="left">15.08<br/>paragraphe 2</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Exigences applicables aux installations de haut-parleurs dans les zones destinées aux passagers</p>
@@ -1914,7 +2036,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.09 paragraphe 3</p>
+<p align="left">15.09<br/>paragraphe 3</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Installations destinées à assurer un débarquement ou transbordement en toute sécurité</p>
@@ -1981,7 +2103,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.10 paragraphe 2</p>
+<p align="left">15.10<br/>paragraphe 2</p>
 </td>
 <td valign="top" width="265">
 <p align="left">L'article 9.16, paragraphe 3, est également applicable aux couloirs et locaux de séjour destinés aux passagers.</p>
@@ -2069,7 +2191,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.11 paragraphe 1</p>
+<p align="left">15.11<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Aptitude de matériaux et parties de constructions du point de vue de la protection contre l'incendie</p>
@@ -2145,6 +2267,17 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 7 bis</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Abris</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NRT, au plus tard à la délivrance ou au renouvellement<br/>du certificat communautaire</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
 <p align="left">paragraphe 8</p>
 </td>
@@ -2157,7 +2290,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.11 paragraphe 9</p>
+<p align="left">15.11<br/>paragraphe 9</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Cloisons</p>
@@ -2256,7 +2389,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.12 paragraphe 1<br/>point c</p>
+<p align="left">15.12<br/>paragraphe 1<br/>point c</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Extincteurs portatifs dans les cuisines</p>
@@ -2300,7 +2433,8 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.12 paragraphe 7</p>
+<p align="left">15.12</p>
+<p align="left">paragraphe 7</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Prévention du risque de gel des tuyaux et prises d'eau</p>
@@ -2355,7 +2489,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.14 paragraphe 1</p>
+<p align="left">15.14<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Citernes de collecte des eaux usées ou stations d'épuration de bord</p>
@@ -2377,7 +2511,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.15 paragraphe 1</p>
+<p align="left">15.15<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Stabilité en cas d'avarie</p>
@@ -2399,7 +2533,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.15 paragraphe 6</p>
+<p align="left">15.15<br/>paragraphe 6</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Présence d'un bachot, d'une plate-forme ou d'une installation similaire</p>
@@ -2443,7 +2577,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">16.01 paragraphe 2</p>
+<p align="left">16.01<br/>paragraphe 2</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Treuils spéciaux ou installations équivalentes à bord des bateaux aptes à pousser</p>
@@ -2454,7 +2588,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">16.01 paragraphe 3<br/>dernière phrase</p>
+<p align="left">16.01<br/>paragraphe 3<br/>dernière phrase</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Exigences relatives aux installations de propulsion</p>
@@ -2476,7 +2610,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">17.02 paragraphe 3</p>
+<p align="left">17.02<br/>paragraphe 3</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Dispositions complémentaires</p>
@@ -2487,7 +2621,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">17.03 paragraphe 1</p>
+<p align="left">17.03<br/>paragraphe 1</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Système d'alarme général</p>
@@ -2509,7 +2643,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">17.04 paragraphes 2 et 3</p>
+<p align="left">17.04 paragraphes 2<br/>et 3</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Distance de sécurité résiduelle aux ouvertures</p>
@@ -2520,7 +2654,7 @@ b) doivent répondre, avant leur mise en conformité, à la version du Règlemen
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">17.05 paragraphes 2 et 3</p>
+<p align="left">17.05 paragraphes 2<br/>et 3</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Franc-bord résiduel</p>

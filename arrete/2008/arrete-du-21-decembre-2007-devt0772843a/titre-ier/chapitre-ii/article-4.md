@@ -1,6 +1,6 @@
 # Article 4
 
-I.-La commission de visite définie à l'article 24 du décret du 2 août 2007 susvisé comprend au minimum :
+I.-La commission de visite définie à les articles D. 4221-21 et D. 4221-22 du code des transports comprend au minimum :
 
 1. Un membre assurant la fonction de président ;
 

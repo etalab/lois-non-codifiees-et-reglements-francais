@@ -2,7 +2,11 @@
 
 Appareils de navigation
 
-1. Les appareils radar et les indicateurs de vitesse de giration doivent être d'un type agréé par les autorités compétentes. Les prescriptions relatives à l'installation et au contrôle de fonctionnement d'appareils radar de navigation et d'indicateurs de vitesse de giration de l'annexe 3 au présent arrêté doivent être observées. Les appareils ECDIS intérieur qui peuvent être utilisés en mode navigation sont considérés comme étant des appareils radar. Ils doivent satisfaire en outre aux exigences du standard ECDIS intérieur.
+1. Les appareils radars de navigation et les indicateurs de vitesse de giration doivent être conformes aux prescriptions figurant dans les parties I et II de l'annexe 3 du présent arrêté. L'observation des prescriptions est attestée par un agrément de type délivré par l'autorité compétente. Les appareils du système électronique d'affichage de cartes et d'informations pour la navigation intérieure (ci-après dénommé "ECDIS") qui peuvent être utilisés en mode de navigation sont considérés comme étant des appareils radars de navigation.
+
+Les prescriptions de l'annexe 3 du présent arrêté, partie III, relatives au montage et au contrôle du fonctionnement des systèmes radars de navigation et des indicateurs de vitesse de giration utilisés à bord de bateaux exploités en navigation intérieure doivent être observées.
+
+La Commission européenne publie la liste des appareils radars de navigation et des indicateurs de vitesse de giration agréés comme indiqué dans l'annexe 3 du présent arrêté ou sur la base d'agréments de type dont l'équivalence est reconnue.
 
 L'indicateur de vitesse de giration doit être placé devant l'homme de barre dans son champ de vision.
 

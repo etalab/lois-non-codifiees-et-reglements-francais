@@ -1,5 +1,5 @@
 # Article 1.07
 
-Exigences relatives à la sécurité
+Déclaration du constructeur
 
-Les fanaux et leurs accessoires doivent être construits et dimensionnés de manière que leur exploitation, leur commande et leur surveillance ne puissent présenter de danger pour les personnes.
+Une déclaration du constructeur doit être fournie avec chaque appareil.

@@ -1,6 +1,6 @@
 # Article 8
 
-La commission de visite intervient conformément à l'article 24 du décret du 2 août 2007 susvisé dans les cas suivants :
+La commission de visite intervient conformément aux articles D. 4221-21 et D. 4221-22 du code des transports dans les cas suivants :
 
 1. Visite de mise en service ;
 

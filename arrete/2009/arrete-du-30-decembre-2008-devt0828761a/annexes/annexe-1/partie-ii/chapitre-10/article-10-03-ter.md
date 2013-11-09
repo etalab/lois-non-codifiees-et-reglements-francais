@@ -126,17 +126,19 @@ Si la quantité d'agent extincteur est prévue pour plus d'un local, il n'est pa
 
 a) Le montage ou la transformation de l'installation doit uniquement être assuré par une société spécialisée en installations d'extinction d'incendie. Les instructions (fiche technique du produit, fiche technique de sécurité) données par le fabricant de l'agent extincteur ou le constructeur de l'installation doivent être suivies.
 
-b) L'installation doit être contrôlée par un expert
+b) L'installation doit être contrôlée par un expert :
 
-aa) avant la mise en service,
+aa) Avant la première mise en service ;
 
-bb) avant toute remise en service consécutive à son déclenchement,
+bb) Avant la remise en service consécutive à son déclenchement ;
 
-cc) après toute modification ou réparation,
+cc) Avant la remise en service à la suite d'une modification ou réparation majeure ;
 
-dd) régulièrement et au minimum tous les deux ans.
+dd) Régulièrement et au minimum tous les deux ans.
 
-c) Au cours du contrôle, l'expert est tenu de vérifier la conformité de l'installation aux exigences du présent chapitre.
+Les contrôles visés au point dd peuvent également être effectués par un spécialiste d'une société compétente spécialisée en systèmes d'extinction d'incendies ;
+
+c) Pendant le contrôle, l'expert ou le spécialiste est tenu de vérifier la conformité de l'installation avec les prescriptions du présent article.
 
 d) Le contrôle comprend au minimum :
 
@@ -154,7 +156,7 @@ ff) un contrôle du système avertisseur d'incendie,
 
 gg) un contrôle de l'appareil avertisseur.
 
-e) L'expert qui a effectué le contrôle établit et signe une attestation relative à la vérification, avec mention de la date du contrôle.
+e) L'expert ou le spécialiste qui a effectué le contrôle établit et signe une attestation relative à la vérification, avec mention de la date du contrôle.
 
 f) Le nombre des installations d'extinction d'incendie fixées à demeure doit être mentionné au certificat communautaire.
 

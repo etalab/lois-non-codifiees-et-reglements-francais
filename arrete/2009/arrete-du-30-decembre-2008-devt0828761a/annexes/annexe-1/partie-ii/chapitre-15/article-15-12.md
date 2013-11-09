@@ -48,10 +48,10 @@ d) placées avant la cloison de coqueron arrière. Les pompes d'extinction d'inc
 
 9. Les salles des machines doivent être équipées d'une installation d'extinction fixée à demeure conformément à l'article 10.03 ter.
 
-10. A bord des bateaux à passagers doivent être présents
+10. A bord des bateaux à passagers à cabines doivent être présents :
 
-a) deux appareils respiratoires indépendants de l'air ambiant et conformes à la norme européenne EN 137: 1993 avec masque facial complet conforme à la norme européenne EN 136: 1998 ;
+a) Deux appareils respiratoires indépendants de l'air ambiant et conformes à la norme européenne EN 137:1993 avec masque facial complet conforme à la norme européenne EN 136:1998 ;
 
-b) deux lots d'équipement comportant au minimum une combinaison de protection, un casque, des bottes, des gants, une hache, un pied de biche, une lampe-torche et un câble de guidage ainsi que ;
+b) Deux lots d'équipement comportant au minimum une combinaison de protection, un casque, des bottes, des gants, une hache, un pied de biche, une lampe-torche et un câble de guidage ; ainsi que
 
-c) quatre masques d'évacuation.
+c) Quatre masques d'évacuation.

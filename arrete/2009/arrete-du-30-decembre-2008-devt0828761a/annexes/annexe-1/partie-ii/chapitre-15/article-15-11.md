@@ -32,454 +32,454 @@ e) La commission de visite peut, en conformité avec le code des méthodes d'ess
 
 2. Cloisonnements
 
-a) Les cloisonnements de séparation des locaux doivent être effectués conformément aux tableaux ci-après :
+2. Les cloisonnements de séparation :
 
-Tableau pour les cloisonnements de séparation des locaux dépourvus d'installation
+a) Entre les locaux doivent être conçus conformément aux tableaux ci-après :
 
-de pulvérisation d'eau sous pression visées à l'article 10.03 bis
+aa) Tableau pour les cloisonnements de séparation des locaux dépourvus d'installations
+
+de diffusion d'eau sous pression visées à l'article 10.03 bis
 
 <table>
 <tbody>
 <tr>
-<td width="125">
-<p align="center">Locaux</p>
+<td width="151">
+<p align="center">SALLES</p>
 </td>
-<td width="72">
-<p align="center">Postes de<br/>commande</p>
+<td width="76">
+<p align="center">STATIONS<br/>de contrôle</p>
 </td>
-<td width="68">
-<p align="center">Cages<br/>d'escaliers</p>
+<td width="76">
+<p align="center">CAGES<br/>d'escaliers</p>
 </td>
-<td width="101">
-<p align="center">Aires de<br/>rassemblement</p>
+<td width="76">
+<p align="center">AIRES DE<br/>rassemblement</p>
 </td>
-<td width="77">
-<p align="center">Locaux<br/>d'habitation</p>
+<td width="76">
+<p align="center">LOCAUX<br/>d'habitation</p>
 </td>
-<td width="74">
-<p align="center">Salles des<br/>machines</p>
+<td width="76">
+<p align="center">SALLES<br/>des machines</p>
 </td>
-<td width="77">
-<p align="center">Cuisines</p>
+<td width="76">
+<p align="center">CUISINES</p>
 </td>
-<td width="87">
-<p align="center">Magasins</p>
+<td width="76">
+<p align="center">MAGASINS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
-<p align="left">Postes de commande</p>
+<td width="151">
+<p align="left">Stations de contrôle</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <p align="center">-</p>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <p align="center">A0</p>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <p align="center">A0/B15 (1)</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A30</p>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="87">
-<p align="center">A60</p>
+<td width="76">
+<p align="center">A30/A60 (5)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
+<td width="151">
 <p align="left">Cages d'escaliers</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <p align="center">-</p>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <p align="center">A0</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A30</p>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="87">
-<p align="center">A60</p>
+<td width="76">
+<p align="center">A30</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
-<p align="left">Aires de<br/>rassemblement</p>
+<td width="151">
+<p align="left">Aires de rassemblement</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <p align="center">-</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A30/B15 (2)</p>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="87">
-<p align="center">A60</p>
+<td width="76">
+<p align="center">A30/A60 (5)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
-<p align="left">Locaux d'habitation</p>
+<td width="151">
+<p>Locaux d'habitation</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
-<p align="center">-/B15 (3)</p>
+<td width="76">
+<p align="center">-/A0/B15 (3)</p>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="87">
-<p align="center">A60</p>
+<td width="76">
+<p align="center">A30</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
+<td width="151">
 <p align="left">Salles des machines</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <p align="center">A60/A0 (4)</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">A60</p>
 </td>
-<td valign="top" width="87">
+<td width="76">
 <p align="center">A60</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
-<p align="left">Cuisines</p>
+<td width="151">
+<p>Cuisines</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
-<p align="center">A0</p>
+<td width="76">
+<p align="center">-</p>
 </td>
-<td valign="top" width="87">
-<p align="center">A60/B15 (5)</p>
+<td width="76">
+<p align="center">A30/B15 (6)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="125">
+<td width="151">
 <p align="left">Magasins</p>
 </td>
-<td valign="top" width="72">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="68">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="101">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="74">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="87">
+<td width="76">
 <p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="680">
-<p align="left">(1) Les cloisonnements entre les stations de contrôle et les aires de rassemblement intérieures doivent être conformes au type A0, pour les aires de rassemblement externes, seulement au type B15. </p>
-<p align="left">(2) Les cloisonnements entre les locaux d'habitation et les aires de rassemblement intérieures doivent être conformes au type A30, pour les aires de rassemblement externes, seulement au type B15.</p>
-<p align="left">(3) Les parois entre les cabines, les parois entre cabines et couloirs et les cloisonnements verticaux de séparation des locaux d'habitation visés au paragraphe 10 doivent être conformes au type B15, pour les locaux équipés d'installations de diffusion d'eau sous pression, seulement au type B0. </p>
-<p align="left">(4) Les cloisonnements entre les salles des machines au sens des articles 15.07 et 15.10, paragraphe 6, doivent être conformes au type A60 ; dans tous les autres cas elles doivent être conformes au type A0. </p>
-<p align="left">(5) B15 est suffisant pour les cloisonnements entre les cuisines d'une part et les chambres froides ou locaux à provisions alimentaires d'autre part.</p>
+<td colspan="8">
+<p align="left">(1) Les cloisonnements entre les stations de contrôle et les aires de rassemblement intérieures doivent correspondre au type A0, pour les aires de rassemblement externes uniquement au type B15.</p>
+<p align="left">(2) Les cloisonnements entre les locaux d'habitation et les aires de rassemblement intérieures doivent être conformes au type A30, pour les aires de rassemblement externes uniquement au type B15.</p>
+<p align="left">(3) Les parois entre les cabines, celles entre les cabines et les couloirs et les cloisonnements verticaux de séparation des locaux d'habitation visés au paragraphe 10 doivent être conformes au type B15, pour les locaux équipées de d'installations de diffusion d'eau sous pression de type B0. Les cloisonnements entre les cabines et les saunas doivent être conformes au type A0, pour les locaux équipés d'installations de diffusion d'eau sous pression de type B15.</p>
+<p align="left">(4) Les cloisonnements entre les salles des machines doivent en vertu des articles 15.07 et 15.10 (6) être conformes au type A60 ; dans les autres cas, elles doivent être conformes au type A0.</p>
+<p align="left">(5) Les cloisonnements entre les magasins destinés au stockage de liquides inflammables et les stations de contrôle et les aires de rassemblement doivent être conformes au type A60, pour les locaux équipés d'installations de diffusion d'eau sous pression de type A30.</p>
+<p align="left">(6) Pour les cloisonnements entre les cuisines et les chambres froides ou les magasins destinés au stockage d'aliments, B15 est suffisant.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Tableau pour les cloisonnements de séparation des locaux pourvus d'installation
+bb) Tableau relatif aux cloisonnements de séparation des locaux pourvus d'installations
 
-de pulvérisation d'eau sous pression aux termes visées à l'article 10.03 bis
+de diffusion d'eau sous pression conformément à l'article 10.03 bis
 
 <table>
 <tbody>
 <tr>
-<td width="109">
-<p align="center">Locaux</p>
+<td width="151">
+<p align="center">SALLES</p>
 </td>
-<td width="77">
-<p align="center">Postes de<br/>commande</p>
+<td width="76">
+<p align="center">STATIONS<br/>de contrôle</p>
 </td>
-<td width="78">
-<p align="center">Cages<br/>d'escaliers</p>
+<td width="76">
+<p align="center">CAGES<br/>d'escaliers</p>
 </td>
-<td width="98">
-<p align="center">Aires de<br/>rassemblement</p>
+<td width="76">
+<p align="center">AIRES DE<br/>rassemblement</p>
 </td>
-<td width="77">
-<p align="center">Locaux<br/>d'habitation</p>
+<td width="76">
+<p align="center">LOCAUX<br/>d'habitation</p>
 </td>
-<td width="79">
-<p align="center">Salles des<br/>machines</p>
+<td width="76">
+<p align="center">SALLES<br/>des machines</p>
 </td>
-<td width="55">
-<p align="center">Cuisines</p>
+<td width="76">
+<p align="center">CUISINES</p>
 </td>
-<td width="107">
-<p align="center">Magasins</p>
+<td width="76">
+<p align="center">MAGASINS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p align="left">Postes de<br/>commande</p>
+<td width="151">
+<p align="left">Stations de contrôle</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <p align="center">-</p>
 </td>
-<td valign="top" width="78">
-<p align="center">A 0</p>
+<td width="76">
+<p align="center">A0</p>
 </td>
-<td valign="top" width="98">
-<p align="center">A 0/ B 15 (1)</p>
+<td width="76">
+<p align="center">A0/B15 (1)</p>
 </td>
-<td valign="top" width="77">
-<p align="center">A 0</p>
+<td width="76">
+<p align="center">A0</p>
 </td>
-<td valign="top" width="79">
-<p align="center">A 60</p>
+<td width="76">
+<p align="center">A60</p>
 </td>
-<td valign="top" width="55">
+<td width="76">
 <p align="center">A30</p>
 </td>
-<td valign="top" width="107">
-<p align="center">A 30</p>
+<td width="76">
+<p align="center">A0/A30 (5)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
+<td width="151">
 <p align="left">Cages d'escaliers</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="78">
+<td width="76">
 <p align="center">-</p>
 </td>
-<td valign="top" width="98">
-<p align="center">A 0</p>
+<td width="76">
+<p align="center">A0</p>
 </td>
-<td valign="top" width="77">
-<p align="center">A 0</p>
+<td width="76">
+<p align="center">A0</p>
 </td>
-<td valign="top" width="79">
-<p align="center">A 60</p>
+<td width="76">
+<p align="center">A60</p>
 </td>
-<td valign="top" width="55">
-<p align="center">A 30</p>
+<td width="76">
+<p align="center">A30</p>
 </td>
-<td valign="top" width="107">
-<p align="center">A 0</p>
+<td width="76">
+<p align="center">A0</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p align="left">Aires de<br/>rassemblement</p>
+<td width="151">
+<p align="left">Aires de rassemblement</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="78">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="98">
+<td width="76">
 <p align="center">-</p>
 </td>
-<td valign="top" width="77">
-<p align="center">A 30/B15 (2)</p>
+<td width="76">
+<p align="center">A30/B15 (2)</p>
 </td>
-<td valign="top" width="79">
-<p align="center">A 60</p>
+<td width="76">
+<p align="center">A60</p>
 </td>
-<td valign="top" width="55">
-<p align="center">A 60</p>
+<td width="76">
+<p align="center">A30</p>
 </td>
-<td valign="top" width="107">
-<p align="center">A 30</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p align="left">Locaux<br/>d'habitation</p>
-</td>
-<td valign="top" width="77">
-<br/>
-</td>
-<td valign="top" width="78">
-<br/>
-</td>
-<td valign="top" width="98">
-<br/>
-</td>
-<td valign="top" width="77">
-<p align="center">- / B 0 (3)</p>
-</td>
-<td valign="top" width="79">
-<p align="center">A 60</p>
-</td>
-<td valign="top" width="55">
-<p align="center">A 30</p>
-</td>
-<td valign="top" width="107">
-<p align="center">A 0</p>
+<td width="76">
+<p align="center">A0/A30 (5)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p align="left">Salles des<br/>machines</p>
+<td width="151">
+<p>Locaux d'habitation</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="78">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="98">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
-<br/>
+<td width="76">
+<p align="center">-/B15/B0 (3)</p>
 </td>
-<td valign="top" width="79">
-<p align="center">A 60/A 0 (4)</p>
+<td width="76">
+<p align="center">A60</p>
 </td>
-<td valign="top" width="55">
-<p align="center">A 60</p>
+<td width="76">
+<p align="center">A30</p>
 </td>
-<td valign="top" width="107">
-<p align="center">A 60</p>
+<td width="76">
+<p align="center">A0</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p align="left">Cuisines</p>
+<td width="151">
+<p align="left">Salles des machines</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="78">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="98">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="79">
-<br/>
+<td width="76">
+<p align="center">A60/A0 (4)</p>
 </td>
-<td valign="top" width="55">
-<p align="center">-</p>
+<td width="76">
+<p align="center">A60</p>
 </td>
-<td valign="top" width="107">
-<p align="center">B15</p>
+<td width="76">
+<p align="center">A60</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
+<td width="151">
+<p>Cuisines</p>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<p align="center">A0</p>
+</td>
+<td width="76">
+<p align="center">A0/B15 (6)</p>
+</td>
+</tr>
+<tr>
+<td width="151">
 <p align="left">Magasins</p>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="78">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="98">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="77">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="79">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="55">
+<td width="76">
 <br/>
 </td>
-<td valign="top" width="107">
+<td width="76">
 <p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="680">
-<p align="left">(1) Les cloisonnements entre les stations de contrôle et les aires de rassemblement intérieures doivent être conformes au type A0, pour les aires de rassemblement externes, seulement au type B15. </p>
-<p align="left">(2) Les cloisonnements entre les locaux d'habitation et les aires de rassemblement intérieures doivent être conformes au type A30, pour les aires de rassemblement externes, seulement au type B15. </p>
-<p align="left">(3) Les parois entre les cabines, les parois entre cabines et couloirs et les cloisonnements verticaux de séparation des locaux d'habitation visés au paragraphe 10 doivent être conformes au type B15, pour les locaux équipés d'installations de diffusion d'eau sous pression, seulement au type B0. </p>
-<p align="left">(4) Les cloisonnements entre les salles des machines au sens des articles 15.07 et 15.10, paragraphe 6, doivent être conformes au type A60 ; dans tous les autres cas elles doivent être conformes au type A0.</p>
+<td colspan="8">
+<p align="left">(1) Les cloisonnements entre les stations de contrôle et les aires de rassemblement intérieures doivent correspondre au type A0, pour les aires de rassemblement externes uniquement au type B15.<br/>(2) Les cloisonnements entre les locaux d'habitation et les aires de rassemblement intérieures doivent être conformes au type A30, pour les aires de rassemblement externes uniquement au type B15.<br/>(3) Les parois entre les cabines, celles entre les cabines et les couloirs et les cloisonnements verticaux de séparation des locaux d'habitation visés au paragraphe 10 doivent être conformes au type B15, pour les locaux équipées de d'installations de diffusion d'eau sous pression de type B0. Les cloisonnements entre les cabines et les saunas doivent être conformes au type A0, pour les locaux équipés d'installations de diffusion d'eau sous pression de type B15.<br/>(4) Les cloisonnements entre les salles des machines doivent en vertu des articles 15.07 et 15.10 (6) être conformes au type A60 ; dans les autres cas, elles doivent être conformes au type A0.<br/>(5) Les cloisonnements entre les magasins destinés au stockage de liquides inflammables et les stations de contrôle et les aires de rassemblement doivent être conformes au type A60, pour les locaux équipés d'installations de diffusion d'eau sous pression de type A30.<br/>(6) Pour les cloisonnements entre les cuisines et les chambres froides ou les magasins destinés au stockage d'aliments, B15 est suffisant.</p>
 </td>
 </tr>
 </tbody>
@@ -515,13 +515,15 @@ cc) ils sont construits de telle sorte qu'ils empêchent le passage de flammes j
 
 3. Dans les locaux, à l'exception des salles des machines et des magasins, les peintures, vernis et autres produits pour le traitement de surface ainsi que les revêtements de pont doivent être difficilement inflammables. Les moquettes, les tissus, rideaux et autres textiles suspendus ainsi que les meubles capitonnés et la literie doivent être difficilement inflammables si les locaux dans lesquels ils se trouvent ne sont pas équipés d'une installation de diffusion d'eau sous pression visée à l'article 10.03 bis.
 
-4. Dans les locaux d'habitation, les plafonds et revêtements muraux, y compris leurs lambourdes, doivent, si ces locaux sont dépourvus d'une installation de diffusion d'eau sous pression visée à l'article 10.03 bis, être réalisés en des matériaux incombustibles à l'exception de leurs surfaces qui doivent être au moins difficilement inflammables.
+4. Dans les locaux d'habitation, les plafonds et les revêtements muraux, y compris leurs structures supports, doivent, si ces locaux sont dépourvus d'une installation de diffusion d'eau sous pression visée à l'article 10.03 bis, être réalisés en matériaux incombustibles, à l'exception de leurs surfaces qui doivent être au moins difficilement inflammables. La première phrase ne s'applique pas aux saunas.
 
 5. Les meubles et les encastrements placés dans les locaux d'habitation dans lesquels se trouvent des aires de rassemblement doivent être réalisés en des matériaux incombustibles si ces locaux ne disposent pas d'une installation de diffusion d'eau sous pression visée à l'article 10.03 bis.
 
 6. Les peintures, vernis et autres matériaux utilisés sur des surfaces intérieures à nu ne doivent pas donner lieu à un dégagement excessif de fumée ou de substances toxiques. Ceci doit être attesté conformément au Code des méthodes d'essai au feu.
 
-7. Les matériaux d'isolation dans les locaux d'habitation doivent être incombustibles. Cette prescription ne s'applique pas à l'isolation de tuyauteries contenant des agents frigorigènes. Les surfaces des isolations de ces tuyauteries doivent au moins être difficilement inflammables.
+7. Les matériaux d'isolation dans les locaux d'habitation doivent être incombustibles. Cette prescription ne s'applique pas à l'isolation de tuyauteries contenant des agents frigorigènes. Les surfaces des isolations de ces tuyauteries doivent au moins être difficilement inflammables
+
+7 bis. Les bâches ou autres aménagements mobiles ainsi que leurs sous-structures permettant de mettre partiellement recouvrant ou intégralement sous abri des zones du pont doivent être difficilement inflammables.
 
 8. Les portes dans les cloisonnements de séparation visés au paragraphe 2 doivent satisfaire aux exigences suivantes :
 

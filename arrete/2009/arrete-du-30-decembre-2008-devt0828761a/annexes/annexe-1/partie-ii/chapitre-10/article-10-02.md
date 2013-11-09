@@ -2,19 +2,31 @@
 
 Autres gréements
 
-1. Les gréements suivants prescrits selon les prescriptions de police de la navigation en vigueur dans les États membres doivent être à bord :
+1. Les gréements suivants au moins, conformément aux prescriptions de police de la navigation en vigueur dans les Etats membres, doivent se trouver à bord :
 
-a) installation de radiotéléphonie ;
+a) Installation de radiotéléphonie ;
 
-b) appareils et dispositifs nécessaires pour donner les signaux lumineux et sonores ou à la signalisation des bateaux ;
+b) Appareils et dispositifs nécessaires pour émettre des signaux visuels et sonores ou à la signalisation des bateaux ;
 
-c) des feux de secours indépendants du réseau de bord pour les feux de signalisation prescrits en stationnement ;
+c) Feux de secours indépendants pour les feux de signalisation prescrits en stationnement.
 
-d) un récipient marqué, résistant au feu, avec couvercle, pour la collecte de chiffons huileux ;
+Les récipients suivants doivent également se trouver à bord :
 
-e) un récipient marqué, résistant au feu, avec couvercle, pour la collecte des autres déchets spéciaux solides et un récipient marqué, résistant au feu, avec couvercle, pour la collecte des autres déchets spéciaux liquides définis selon les prescriptions de police de la navigation en vigueur ;
+a) Un récipient marqué pour les ordures ménagères ;
 
-f) un récipient marqué, résistant au feu, avec couvercle, pour la collecte de résidus (slops).
+b) Des récipients marqués séparés en acier ou dans une autre matière résistante aux chocs et non inflammable, munis de couvercles d'étanchéité, d'une dimension appropriée et dont la capacité s'élève à au moins 10 l pour la collecte :
+
+aa) De chiffons huileux ;
+
+bb) De déchets solides dangereux ou polluants ;
+
+cc) De déchets liquides dangereux ou polluants ;
+
+et, si ceux-ci sont susceptibles d'être produits,
+
+dd) De slops ;
+
+ee) D'autres déchets huileux ou graisseux.
 
 2. En outre, le gréement doit comprendre au minimum :
 

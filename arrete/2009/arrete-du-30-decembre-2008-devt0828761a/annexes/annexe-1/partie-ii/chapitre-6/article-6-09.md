@@ -1,6 +1,6 @@
 # Article 6.09
 
-Réception et contrôles périodiques
+Test d'homologation
 
 1. La conformité de montage de l'installation de gouverne doit être contrôlée par une commission de visite. À cet effet, celle-ci peut demander les documents suivants :
 

@@ -173,12 +173,14 @@ La commission de visite peut prescrire ou admettre d'autres distances sur la bas
 
 3. CONTROLE
 
-3.1 Les systèmes avertisseurs d'incendie doivent être contrôlés par un expert
+3.1. Les systèmes d'alarme incendie doivent être contrôlés par un expert :
 
-a) après leur installation,
+a) Avant la première mise en service ;
 
-b) régulièrement et au minimum tous les deux ans.
+b) Avant la remise en service à la suite d'une modification ou réparation majeure ;
 
-Dans les salles des machines et les salles des chaudières, ce contrôle doit être effectué pour différentes conditions d'exploitation des machines et d'aération.
+c) Régulièrement et au minimum tous les deux ans.
 
-3.2 L'expert doit signer une attestation relative à la vérification, avec mention de la date du contrôle.
+Dans les salles des machines et les salles des chaudières, ce contrôle doit être effectué pour différentes conditions d'exploitation des machines et d'aération. Les contrôles visés à la lettre c peuvent également être effectués par un spécialiste d'une société compétente spécialisée en systèmes d'extinction d'incendies.
+
+3.2. L'expert ou le spécialiste qui a effectué le contrôle établit et signe une attestation relative à la vérification, avec mention de la date du contrôle.

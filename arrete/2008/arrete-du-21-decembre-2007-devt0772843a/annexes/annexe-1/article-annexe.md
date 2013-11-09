@@ -6,99 +6,99 @@ I. ― Le rapport de chacun des organismes de contrôle doit être rédigé en f
 
 1. Pour les organismes de contrôle autres que les sociétés de classification et les organismes notifiés, un dossier d'identification composé des éléments suivants :
 
-- nom, prénom, coordonnées ;
+-nom, prénom, coordonnées ;
 
-- raison sociale pour les personnes morales ;
+-raison sociale pour les personnes morales ;
 
-- domaines de compétence parmi la liste du II de la présente annexe ;
+-domaines de compétence parmi la liste du II de la présente annexe ;
 
-- curriculum vitae des personnes ayant procédé au contrôle indiquant la liste des diplômes obtenus et l'expérience professionnelle dans les domaines de compétence cités.
+-curriculum vitae des personnes ayant procédé au contrôle indiquant la liste des diplômes obtenus et l'expérience professionnelle dans les domaines de compétence cités.
 
 2. Un dossier technique composé des éléments suivants :
 
-― identification, date et signature de l'organisme de contrôle ;
+-identification, date et signature de l'organisme de contrôle ;
 
-― sommaire du dossier ;
+-sommaire du dossier ;
 
-― informations concernant le bâtiment ou l'établissement flottant : devise, dimensions, année de construction et, le cas échéant, n° ENI, n° d'immatriculation, catégorie ;
+-informations concernant le bâtiment ou l'établissement flottant : devise, dimensions, année de construction et, le cas échéant, n° ENI, n° d'immatriculation, catégorie ;
 
-― informations sur l'historique du bâtiment ou de l'établissement flottant : modifications principales subies depuis la construction, dates des visites à sec et des visites à flot ;
+-informations sur l'historique du bâtiment ou de l'établissement flottant : modifications principales subies depuis la construction, dates des visites à sec et des visites à flot ;
 
-― références réglementaires applicables ;
+-références réglementaires applicables ;
 
-― domaine d'intervention de l'organisme de contrôle dans le cadre de l'expertise concernée ;
+-domaine d'intervention de l'organisme de contrôle dans le cadre de l'expertise concernée ;
 
-― indications détaillées sur la conformité du bâtiment ou de l'établissement flottant aux références réglementaires, sur la base de la liste des domaines détaillée au II de la présente annexe ;
+-indications détaillées sur la conformité du bâtiment ou de l'établissement flottant aux références réglementaires, sur la base de la liste des domaines détaillée au II de la présente annexe ;
 
-― attestation de conformité par laquelle l'organisme de contrôle s'engage sur la conformité du bâtiment ou de l'établissement flottant à la réglementation qui lui est applicable en matière de sécurité, précisant les éventuels travaux de mise en conformité à réaliser ;
+-attestation de conformité par laquelle l'organisme de contrôle s'engage sur la conformité du bâtiment ou de l'établissement flottant à la réglementation qui lui est applicable en matière de sécurité, précisant les éventuels travaux de mise en conformité à réaliser ;
 
-― suivi des réserves éventuelles ;
+-suivi des réserves éventuelles ;
 
-― annexes techniques : plans, photos, résultats des mesures, notes de calculs...
+-annexes techniques : plans, photos, résultats des mesures, notes de calculs...
 
 II. ― Les vérifications de la conformité réalisées par les organismes de contrôle portent sur les domaines suivants, en fonction des références réglementaires appliquées :
 
 1. Arrêté du 17 mars 1988 relatif aux conditions de délivrance des certificats communautaires et des certificats de bateaux pour les bateaux de navigation intérieure destinés au transport de marchandises :
 
-― stabilité ;
+-stabilité ;
 
-― solidité de la coque et de la structure ;
+-solidité de la coque et de la structure ;
 
-― appareils de chauffage, de cuisine et de réfrigération ;
+-appareils de chauffage, de cuisine et de réfrigération ;
 
-― salle des machines ;
+-salle des machines ;
 
-― installations de gouverne et timonerie ;
+-installations de gouverne et timonerie ;
 
-― franc-bord, distance de sécurité et échelles de tirant d'eau ;
+-franc-bord, distance de sécurité et échelles de tirant d'eau ;
 
-― construction de machines, et notamment installations d'assèchement ;
+-construction de machines, et notamment installations d'assèchement ;
 
-― installations électriques ;
+-installations électriques ;
 
-― gréements, et notamment moyens de lutte contre l'incendie et moyens de sauvetage ;
+-gréements, et notamment moyens de lutte contre l'incendie et moyens de sauvetage ;
 
-― installations à gaz liquéfié ;
+-installations à gaz liquéfié ;
 
-― aménagement de la timonerie ;
+-aménagement de la timonerie ;
 
-― hygiène et sécurité ;
+-hygiène et sécurité ;
 
-― dispositions particulières liées au type de bateau ;
+-dispositions particulières liées au type de bateau ;
 
-― dispositions particulières liées à la zone de navigation souhaitée.
+-dispositions particulières liées à la zone de navigation souhaitée.
 
 2. Arrêté du 2 septembre 1970 relatif à la sécurité des bateaux à passagers non soumis à la réglementation maritime :
 
-― solidité de la coque et de la structure ;
+-solidité de la coque et de la structure ;
 
-― stabilité à l'état intact ;
+-stabilité à l'état intact ;
 
-― flottabilité et stabilité en cas d'avarie ;
+-flottabilité et stabilité en cas d'avarie ;
 
-― franc-bord et marques d'enfoncement ;
+-franc-bord et marques d'enfoncement ;
 
-― moyens de sauvetage ;
+-moyens de sauvetage ;
 
-― installations d'assèchement et d'épuisement ;
+-installations d'assèchement et d'épuisement ;
 
-― moyens de lutte contre l'incendie et la panique ;
+-moyens de lutte contre l'incendie et la panique ;
 
-― installations de timonerie ;
+-installations de timonerie ;
 
-― sécurité des personnes ;
+-sécurité des personnes ;
 
-― accès de la salle des machines ;
+-accès de la salle des machines ;
 
-― gréement ;
+-gréement ;
 
-― dispositions particulières liées au type de bateau ;
+-dispositions particulières liées au type de bateau ;
 
-― dispositions particulières liées à la zone de navigation souhaitée.
+-dispositions particulières liées à la zone de navigation souhaitée.
 
 3. Décret n° 96-611 du 4 juillet 1996 modifié relatif à la sécurité des bateaux de plaisance et des pièces et éléments d'équipement :
 
-― dispositions techniques définies en annexe au décret.
+-dispositions techniques définies en annexe au décret.
 
 4. Arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires :
 
@@ -133,3 +133,27 @@ II. ― Les vérifications de la conformité réalisées par les organismes de c
 -installations à gaz liquéfiés ;
 
 -dispositions particulières liées au type de bâtiment, notamment la stabilité des bateaux transportant des conteneurs.
+
+6. Arrêté du 19 janvier 2009 relatif aux prescriptions techniques de sécurité applicables aux bateaux de plaisance naviguant ou stationnant sur les eaux intérieures :
+
+-solidité de la coque et de la structure ;
+
+-distance de sécurité, franc-bord et échelles de tirant d'eau ;
+
+-manœuvrabilité et installations de gouverne ;
+
+-construction des machines ;
+
+-installations électriques ;
+
+-gréement et équipement des bateaux ;
+
+-aménagement des salles des machines et des chaudières, des soutes ;
+
+-aménagement de la timonerie ;
+
+-installations de chauffage, de cuisine et de réfrigération fonctionnant aux combustibles ;
+
+-installations à gaz liquéfiés ;
+
+-dispositions particulières liées au type de bâtiment.

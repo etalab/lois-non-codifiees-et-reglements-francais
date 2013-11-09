@@ -1,4 +1,4 @@
-# Chapitre  1er : Dispositions générales
+# Chapitre  1er : Généralités
 
 - [Article 1.01](article-1-01.md)
 - [Article 1.02](article-1-02.md)
@@ -8,5 +8,3 @@
 - [Article 1.06](article-1-06.md)
 - [Article 1.07](article-1-07.md)
 - [Article 1.08](article-1-08.md)
-- [Article 1.09](article-1-09.md)
-- [Article 1.10](article-1-10.md)

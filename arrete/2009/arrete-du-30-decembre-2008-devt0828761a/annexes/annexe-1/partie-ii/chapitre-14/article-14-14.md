@@ -1,6 +1,6 @@
 # Article 14.14
 
-Épreuves
+Conditions des épreuves
 
 L'épreuve de l'installation doit être effectuée dans les conditions suivantes :
 
@@ -14,7 +14,7 @@ b) épreuve d'étanchéité, réalisée à l'air ou à un gaz inerte, sous une p
 
 épreuve d'étanchéité, réalisée à l'air ou à un gaz inerte, sous une pression de 1 bar au dessus de la pression atmosphérique.
 
-3. Canalisations situées entre le dispositif de fermeture, visé à l'article 14.09, paragraphe 4, du détendeur unique ou du détendeur de détente finale et les commandes des appareils  d'utilisation :
+3. Canalisations situées entre le dispositif de fermeture, visé à l'article 14.09, paragraphe 4, du détendeur unique ou du détendeur de détente finale et les commandes des appareils d'utilisation :
 
 épreuve d'étanchéité sous une pression de 0,15 bar au dessus de la pression atmosphérique.
 

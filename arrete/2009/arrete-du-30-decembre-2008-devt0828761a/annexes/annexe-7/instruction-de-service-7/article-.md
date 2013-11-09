@@ -14,18 +14,18 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 <tbody>
 <tr>
 <td width="227">
-<p align="center">Ancre</p>
+<p align="center">ANCRE</p>
 </td>
 <td width="227">
-<p align="center">Réduction admise de la masse<br/>de l'ancre en %</p>
+<p align="center">RÉDUCTION ADMISE DE LA MASSE<br/>de l'ancre en %</p>
 </td>
 <td width="227">
-<p align="center">Autorité compétente</p>
+<p align="center">AUTORITÉ COMPÉTENTE</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">1. HA-DU</p>
+<p>1. HA-DU</p>
 </td>
 <td valign="top" width="227">
 <p align="center">30 %</p>
@@ -36,7 +36,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">2. D'Hone Spezial</p>
+<p>2. D'Hone Spezial</p>
 </td>
 <td valign="top" width="227">
 <p align="center">30 %</p>
@@ -47,7 +47,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">3. Pool 1 (creuse)</p>
+<p>3. Pool 1 (creuse)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">35 %</p>
@@ -58,7 +58,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">4. Pool 2 (pleine)</p>
+<p>4. Pool 2 (pleine)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">40 %</p>
@@ -69,7 +69,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">5. De Biesbosch-Danforth</p>
+<p>5. De Biesbosch-Danforth</p>
 </td>
 <td valign="top" width="227">
 <p align="center">50 %</p>
@@ -80,7 +80,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">6. Vicinay-Danforth</p>
+<p>6. Vicinay-Danforth</p>
 </td>
 <td valign="top" width="227">
 <p align="center">50 %</p>
@@ -91,7 +91,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">7. Vicinay AC 14</p>
+<p>7. Vicinay AC 14</p>
 </td>
 <td valign="top" width="227">
 <p align="center">25 %</p>
@@ -102,7 +102,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">8. Vicinay Type 1</p>
+<p>8. Vicinay Type 1</p>
 </td>
 <td valign="top" width="227">
 <p align="center">45 %</p>
@@ -113,7 +113,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">9. Vicinay Type 2</p>
+<p>9. Vicinay Type 2</p>
 </td>
 <td valign="top" width="227">
 <p align="center">45 %</p>
@@ -124,7 +124,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">10. Vicinay Type 3</p>
+<p>10. Vicinay Type 3</p>
 </td>
 <td valign="top" width="227">
 <p align="center">40 %</p>
@@ -135,7 +135,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">11. Stockes</p>
+<p>11. Stockes</p>
 </td>
 <td valign="top" width="227">
 <p align="center">35 %</p>
@@ -146,7 +146,7 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">12. D'Hone-Danforth</p>
+<p>12. D'Hone-Danforth</p>
 </td>
 <td valign="top" width="227">
 <p align="center">50 %</p>
@@ -157,13 +157,57 @@ Les ancres spéciales à masse réduite admises par les autorités compétentes 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p align="left">13. Schmitt high holding anchor</p>
+<p>13. Schmitt high holding anchor</p>
 </td>
 <td valign="top" width="227">
 <p align="center">40 %</p>
 </td>
 <td valign="top" width="227">
 <p align="center">Pays-Bas</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>14. SHI high holding anchor, type ST (standard)</p>
+</td>
+<td valign="top" width="227">
+<p align="center">30 %</p>
+</td>
+<td valign="top" width="227">
+<p align="center">Pays-Bas</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>15. SHI high holding anchor type FB (fully balanced)</p>
+</td>
+<td valign="top" width="227">
+<p align="center">30 %</p>
+</td>
+<td valign="top" width="227">
+<p align="center">Pays-Bas</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>16. Klinsmann anchor</p>
+</td>
+<td valign="top" width="227">
+<p align="center">30 %</p>
+</td>
+<td valign="top" width="227">
+<p align="center">Pays-Bas</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>17. HA-DU-POWER Anker</p>
+</td>
+<td valign="top" width="227">
+<p align="center">30 %</p>
+</td>
+<td valign="top" width="227">
+<p align="center">Allemagne</p>
 </td>
 </tr>
 </tbody>

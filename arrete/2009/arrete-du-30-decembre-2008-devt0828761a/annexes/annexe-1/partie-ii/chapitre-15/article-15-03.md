@@ -177,19 +177,19 @@ F<sub>max</sub> = nombre maximal de passagers admissibles à bord
 
 y = B/2 [m]
 
-5. Le moment résultant de la pression du vent (Mv) est calculé comme suit :
+5. Le moment inclinant résultant de la pression du vent (Mv) est calculé comme suit :
 
-M<sub>v</sub> = p<sub>v</sub>.A<sub>v</sub>.(l<sub>v</sub>+T/2) [kNm]
+M<sub>v</sub> = p<sub>v</sub> A<sub>v</sub> (l<sub>v</sub> + T/2)[kNm]
 
-Dans cette formule :
+où :
 
-p<sub>v</sub> = pression spécifique du vent, de 0,25 kN/m<sup>2</sup> ;
+p<sub>v</sub> = pression spécifique du vent de 0,25 kN/m² ;
 
-A<sub>v</sub> = surface latérale du bateau en m2 au-dessus du plan de l'enfoncement, correspondant à la situation de chargement considérée ;
+A<sub>v</sub> = surface latérale du bateau en mètres carrés au-dessus du plan de l'enfoncement, correspondant à la situation de chargement considérée ;
 
-l<sub>v</sub> = distance en m du centre de gravité de la surface latérale A<sub>v</sub> au plan de l'enfoncement, correspondant à la situation de chargement considérée.
+l<sub>v</sub> = distance en mètres du centre de gravité de la surface latérale Av au plan de l'enfoncement, correspondant à la situation de chargement considérée.
 
-6. Le moment résultant de la force centrifuge (M<sub>gi</sub>) provoqué par la giration du bateau doit être calculé comme suit :
+Lors du calcul de la surface latérale il faudra tenir compte des mises sous abri prévues des ponts par des bâches ou autres aménagements mobiles. 6. Le moment résultant de la force centrifuge (M<sub>gi</sub>) provoqué par la giration du bateau doit être calculé comme suit :
 
 M<sub>gi</sub> = c<sub>gi</sub> . C<sub>B</sub>. v<sup>2</sup> . D/L<sub>F</sub> . (KG - T/2) [kNm]
 
@@ -214,85 +214,93 @@ Si le bateau à passagers est équipé d'un système de propulsion conforme à l
 <table>
 <tbody>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
+<td width="224">
+<br/>
+</td>
+<td width="224">
 <p align="center">Statut de stabilité 1</p>
 </td>
-<td valign="top" width="227">
+<td width="224">
 <p align="center">Statut de stabilité 2</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top" width="680">
-<p align="left">Étendue de la brèche latérale</p>
+<td colspan="3" valign="top" width="676">
+<p align="center">Etendue de la brèche latérale</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p align="left">longitudinale 1 [m] </p>
+<td width="224">
+<p align="center">Longitudinale 1 [m]</p>
 </td>
-<td valign="top" width="227">
-<p align="left">0,10.L<sub>WL</sub>, mais pas inférieure à 4,00 m </p>
+<td width="224">
+<p align="center">0,10 . LF, <br/>mais pas inférieure à 4,00 m</p>
 </td>
-<td valign="top" width="227">
-<p align="left">0,05.L<sub>WL</sub>, mais pas inférieure à 2,25 m </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>transversale b [m] </p>
-</td>
-<td valign="top" width="227">
-<p align="center">B/5 </p>
-</td>
-<td valign="top" width="227">
-<p align="center">0,59 </p>
+<td width="224">
+<p align="center">0,05 . LF, <br/>mais pas inférieure à 2,25 m</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p align="left">verticale h [m]</p>
+<td width="224">
+<p align="center">Transversale b [m]</p>
 </td>
-<td colspan="2" valign="top" width="454">
-<p align="left">du fond du bateau vers le haut, sans limite</p>
+<td width="224">
+<p align="center">B/5</p>
 </td>
-</tr>
-<tr>
-<td colspan="3" valign="top" width="680">
-<p align="left">Étendue de la brèche au fond du bateau</p>
+<td width="224">
+<p align="center">0,59</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p align="left">longitudinale 1 [m] </p>
+<td width="224">
+<p align="center">Verticale h [m]</p>
 </td>
-<td valign="top" width="227">
-<p align="left">0,10.L<sub>WL</sub>, mais pas inférieure à 4,00 m </p>
-</td>
-<td valign="top" width="227">
-<p align="left">0,05.L<sub>WL</sub>, mais pas inférieure à 2,25 m </p>
+<td colspan="2" width="450">
+<p align="center">Du fond du bateau vers le haut, sans limite</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">transversale b [m] </p>
+<td width="224">
+<p align="center">Etendue de la brèche au fond du bateau</p>
 </td>
-<td colspan="2">
+<td width="224">
+<br/>
+</td>
+<td width="224">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="224">
+<p align="center">Longitudinale 1 [m]</p>
+</td>
+<td width="224">
+<p align="center">0,10 LF, <br/>mais pas inférieure à 4,00 m</p>
+</td>
+<td width="224">
+<p align="center">0,05 LF, <br/>mais pas inférieure à 2,25 m</p>
+</td>
+</tr>
+<tr>
+<td width="224">
+<p align="center">Transversale b [m]</p>
+</td>
+<td colspan="2" width="450">
 <p align="center">B/5</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p align="left">verticale h [m]</p>
+<td width="224">
+<p align="center">Verticale h [m]</p>
 </td>
-<td colspan="2" valign="top" width="454">
-<p align="left">0,59; les tuyauteries posées conformément à l'article 15.02, paragraphe 13, point c, sont réputées intactes</p>
+<td colspan="2" width="450">
+<p align="center">0,59 ; les tuyauteries posées conformément à l'article 15.02,<br/>paragraphe 13, point c, sont réputées intactes</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-a) Pour le statut de stabilité 1, les cloisons sont réputées intactes si la distance entre deux cloisons successives est supérieure à l'étendue de la brèche. Les cloisons longitudinales situées à une distance de la coque inférieure à B/3, mesurée perpendiculairement à l'axe du bateau, dans le plan du plus grand enfoncement, ne doivent pas être prises en compte lors du calcul.
+a) Pour le statut de stabilité 1, les cloisons peuvent sont réputées intactes si la distance entre deux cloisons successives est supérieure à l'étendue de la brèche. Les cloisons longitudinales situées à une distance de la coque inférieure à B/3, mesurée perpendiculairement à la ligne médiane dans le plan du grand enfoncement ne doivent pas être prises en compte lors du calcul. Une niche ou baïonnette d'une longueur supérieure à 2,50 m dans une cloison transversale est considérée comme étant une cloison longitudinale.
 
 b) Pour le statut de stabilité 2, chaque cloison située dans l'étendue de la brèche est réputée endommagée. Cela signifie que l'emplacement des cloisons doit être choisi de manière à assurer la flottabilité du bateau à passagers après envahissement de deux ou de plusieurs compartiments contigus dans le sens de la longueur.
 

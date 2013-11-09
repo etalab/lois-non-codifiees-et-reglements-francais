@@ -2,7 +2,7 @@
 
 Feux de signalisation, signaux lumineux et signaux sonores
 
-1. Dans le présent article, le terme :
+1. Les feux de navigation ainsi que leurs corps et accessoires doivent porter la marque d'agrément prescrite par la directive 96/98/CE du Conseil du 20 décembre 1996 relative aux équipements marins.
 
 a) "feux de signalisation" désigne les feux de mât, les feux de côté, les feux de poupe, les feux visibles de tous les côtés, les feux clignotants bleus, les feux jaunes puissants clignotant rapidement pour les bateaux rapides et les feux bleus pour le transport de matières dangereuses ;
 

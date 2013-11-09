@@ -68,13 +68,19 @@ c) prévention des dysfonctionnements résultant de dommages mécaniques et de d
 
 3.4.4 Le montage doit être effectué de manière à exclure autant que possible toute manipulation non autorisée.
 
-4. Calibrage / contrôle de l'installation
+4. Le calibrage et le contrôle des détecteurs de fuite de gaz, le remplacement des pièces présentant une durée de vie limitée
 
-4.1 L'installation d'alarme pour les concentrations de gaz doit être calibrée avant sa mise en service conformément aux indications du fabricant.
+4.1. L'installation d'alarme pour les concentrations de gaz doit être calibrée et contrôlée par un expert ou un spécialiste conformément aux indications du fabricant :
 
-4.2 L'installation d'alarme pour les concentrations de gaz doit être calibrée et contrôlée régulièrement par un expert agréé ou un spécialiste conformément aux indications du fabricant. L'expert ou le spécialiste qui a effectué le contrôle établit et signe une attestation relative au contrôle, avec mention de la date du contrôle.
+a) Avant la première mise en service ;
 
-4.3 Les éléments de l'installation d'alarme pour les concentrations de gaz qui possèdent une durée de vie limitée doivent être remplacés avant que n'expire la durée de vie indiquée.
+b) Avant la remise en service à la suite d'une modification ou réparation majeure ;
+
+c) Régulièrement.
+
+L'expert ou le spécialiste établit et signe une attestation relative au calibrage et au contrôle, avec mention de la date du contrôle.
+
+4.2. Les éléments de l'installation d'alarme pour les concentrations de gaz qui ont une durée de vie limitée doivent être dûment remplacés avant que n'expire la durée de vie indiquée.
 
 5. Marquage
 

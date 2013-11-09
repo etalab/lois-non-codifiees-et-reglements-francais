@@ -80,6 +80,18 @@ Les points qui se comprennent d'eux-mêmes ne sont pas mentionnés ci-dessous :
 
 2. Le cas échéant, les termes visés à l'article 1.01 sont à inscrire. Les autres types de bateaux sont à inscrire sous leur appellation technique courante.
 
+10. Pour les bâtiments autorisés à naviguer sur le Rhin, c'est-à-dire :
+
+a) Qui satisfont intégralement aux exigences de l'annexe II, y compris les prescriptions transitoires du chapitre 24 ; et
+
+b) Qui ne font pas usage des prescriptions transitoires du chapitre 24 bis ni des allégements prévus à l'annexe IV.
+
+Doit être inscrit au tiret sur les voies navigables communautaires de la (des) zone(s) :
+
+a) Rhin ou
+
+b) Zone R.
+
 15. Cette rubrique est à remplir uniquement pour les bateaux dont une des aptitudes 1.1 ou 1.2 ou 3 du point 14 n'est pas rayée, si tel n'est pas le cas le tableau est à rayer dans sa totalité.
 
 15.1 Dans la colonne "croquis de formation" du tableau il faut inscrire le ou les numéros de la formation ou des formations admises, les lignes restant vides sont à rayer.
@@ -146,7 +158,7 @@ Colonne de gauche, ligne 6 : inscrire ici le nombre de trousses de secours prév
 
 Colonne de gauche, ligne 10: inscrire ici le nombre de récipients résistants au feu prévus par l'article 10.02, paragraphe 2, points d) à f).
 
-43. Les extincteurs portatifs exigibles en vertu d'autres prescriptions, par exemple l'ADNR, ne sont pas mentionnés ici.
+43. Les extincteurs portatifs exigibles en vertu d'autres règlements relatifs à la sécurité, par exemple l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN), ne sont pas mentionnés ici.
 
 44. Ligne 3: dans les certificats communautaires à prolonger avant le 1er janvier 2010, ou avant le 1er janvier 2025 si le chapitre 24bis s'applique, la rubrique "conformément à EN 395:1998 ou 396:1998" doit être biffée si aucun gilet de sauvetage conforme à cette norme ne se trouve à bord.
 

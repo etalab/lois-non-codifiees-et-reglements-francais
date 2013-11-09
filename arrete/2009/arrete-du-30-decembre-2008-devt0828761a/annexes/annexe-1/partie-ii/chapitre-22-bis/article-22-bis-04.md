@@ -2,68 +2,90 @@
 
 Flottabilité et stabilité
 
-1. Pour les bâtiments d'une longueur supérieure à 110 m, à l'exception des bateaux à passagers, les paragraphes 2 à 9 sont applicables.
+1. Pour les bâtiments d'une longueur supérieure à 110 m, à l'exception des bateaux à passagers, les paragraphes 2 à 10 sont applicables.
 
-2. La stabilité suffisante, y compris en cas d'avarie, doit être prouvée pour l'état de chargement le plus défavorable.
+2. Pour le calcul de la stabilité, les valeurs de base, masse du bateau à l'état lège et l'emplacement du centre de gravité doivent être déterminés par un essai de stabilité effectué en conformité avec l'annexe I de la résolution MSC 267 (85) de l'OMI.
 
-Pour le calcul de la stabilité, les valeurs de base - masse du bateau à l'état lège et emplacement du centre de gravité - doivent être déterminées par
+3. Le demandeur doit prouver par un calcul fondé sur la méthode de la carène perdue que la flottabilité et la stabilité du bateau sont appropriées en cas d'avarie. Tous les calculs doivent être effectués avec enfoncement et assiette libre.
 
-- une expérience de gîte, ou
+La preuve d'une flottabilité et d'une stabilité suffisantes en cas d'avarie doit être établie pour le bateau avec une cargaison correspondant à son enfoncement maximum et répartie de manière homogène dans toutes les cales et avec les approvisionnements maxima et le plein de carburant.
 
-- un calcul détaillé de la masse. À cette fin, le poids du bâtiment à l'état lège doit être vérifié au moyen d'une étude du poids à l'état lège avec la limite de tolérance ± 5 % entre la masse déterminée par le calcul et le poids du bateau à l'état lège déterminé par lecture du tirant d'eau.
+Si la cargaison n'est pas homogène, le calcul de stabilité doit être effectué pour l'état de chargement le plus défavorable. Ce calcul de stabilité doit être conservé à bord.
 
-3. La flottabilité en cas d'avarie doit être prouvée pour l'état de chargement maximal du bâtiment.
+A cette fin, la preuve mathématique d'une stabilité suffisante doit être apportée au moyen de calculs pour les stades intermédiaires d'envahissement (25 %, 50 % et 75 % du remplissage à l'état final de l'envahissement et, le cas échéant, pour le stade précédant immédiatement l'équilibrage transversal) et pour le stade final d'envahissement, dans les conditions de chargement indiquées ci-dessus.
 
-À cette fin, la preuve d'une stabilité suffisante doit être apportée au moyen de calculs pour les stades intermédiaires critiques d'envahissement et pour le stade final d'envahissement. Si des valeurs négatives de stabilité apparaissent dans des stades intermédiaires, elles peuvent être admises par l'autorité compétente au sens de l'article 6 du décret n° 2007-1168 du 2 août 2007 si une stabilité suffisante est établie pour les stades critiques intermédiaires suivants.
+4. Les hypothèses suivantes sont à prendre en compte en cas d'avarie :
 
-4. Les hypothèses suivantes doivent être prises en considération pour le stade après avarie :
+a) Etendue de l'avarie latérale du bateau :
 
-a) Étendue de l'avarie latérale du bateau :
+Etendue longitudinale : au moins 0,10 L ;
 
-étendue longitudinale : au moins 0,10 L,
+Etendue transversale : 0,59 m ;
 
-étendue transversale : 0,59 m,
+Etendue verticale : du fond vers le haut sans limitation ;
 
-étendue verticale : de la ligne de référence vers le haut sans limite.
+b) Etendue de l'avarie sur le fond du bateau :
 
-b) Étendue de l'avarie sur le fond du bateau :
+Etendue longitudinale : au moins 0,10 L ;
 
-étendue longitudinale : au moins 0,10 L,
+Etendue transversale : 3,00 m ;
 
-étendue transversale : 3,00 m,
+Etendue verticale : du fond jusqu'à 0,39 m, excepté le puisard ;
 
-étendue verticale : du fond jusqu'à 0,39 m, excepté le puisard.
+c) Tous les cloisonnements de la zone d'avarie doivent être considérés comme endommagées, c'est-à-dire que l'emplacement des cloisons doit être choisi de sorte que la flottabilité du bâtiment demeure assurée après l'envahissement par l'eau de deux ou plusieurs compartiments adjacents dans le sens longitudinal. Pour la salle des machines principale, on tiendra uniquement compte d'un seul compartiment ; c'est-à-dire que les cloisons d'extrémité de la salle des machines sont considérées comme intactes.
 
-c) Tous les cloisonnements de la zone d'avarie doivent être considérés comme endommagés. C'est-à-dire que l'emplacement des cloisons doit être choisi de sorte que la flottabilité du bâtiment demeure assurée après l'envahissement de deux ou plusieurs compartiments adjacents dans le sens longitudinal.
+Pour l'avarie de fond, les compartiments transversaux adjacents dans le sens transversal ont été aussi envahis ;
 
-Pour la salle des machines principales, on tiendra compte d'un seul compartiment ; c'est-à-dire que les cloisons d'extrémité de la salle des machines sont considérées comme intactes.
-
-Pour l'avarie de fond, on considérera que les compartiments adjacents dans le sens transversal ont aussi été envahis.
-
-d) Perméabilité
+d) Perméabilité :
 
 On considère que la perméabilité atteint 95 %.
 
-En dérogation à cette hypothèse, les valeurs de perméabilité suivantes peuvent être prises en compte :
+Lorsqu'un calcul prouve que la perméabilité moyenne d'un compartiment est inférieure à 95 %, la perméabilité calculée peut être substituée à cette valeur.
 
-- Salles de machines et locaux de service 85 %
+Les valeurs utilisées ne doivent pas être inférieures à :
 
-- Doubles fonds, soutes à combustibles et autres citernes, suivant que ces volumes doivent, d'après leur destination, être supposés remplis ou vides, le bâtiment étant sur sa ligne de flottaison maximale 0 % ou 95 %.
+- salles de machines et salles d'exploitation : 85 % ;
 
-Lorsqu'il est déterminé par un calcul que la perméabilité moyenne d'un quelconque compartiment est inférieure, la valeur calculée peut être retenue.
+- cales à marchandises : 70 % ;
 
-e) L'arête inférieure des ouvertures qui ne sont pas étanches à l'eau (par exemple portes, fenêtres, panneaux d'accès) ne doit pas être à moins de 100 mm au-dessus de la ligne de flottaison après l'avarie.
+- doubles fonds, réservoirs de carburant, citernes de ballastage, etc., suivant qu'ils doivent, d'après leur fonction, être considérés comme remplis ou vides, le bâtiment étant sur la ligne de flottaison maximale : 0 ou 95 %.
 
-5. La stabilité en cas d'avarie est suffisante, sur la base des hypothèses visées au paragraphe 4,
+5. Les critères ci-après doivent être observés pour tous les états intermédiaires d'envahissement par l'eau visés au paragraphe 3 :
 
-a) lorsque, au stade final de l'envahissement, il subsiste une distance de sécurité résiduelle de 100 mm et lorsque l'angle d'inclinaison du bâtiment ne dépasse pas 5° ou
+a) L'angle de gîte  φ à la position d'équilibre du stade intermédiaire en question ne doit pas dépasser 15° (5° pour les conteneurs non fixés) ;
 
-b) lorsque les calculs effectués suivant la procédure de calcul de la stabilité en cas d'avarie prescrite à la partie 9 de l'ADNR aboutissent à un résultat positif.
+b) La partie positive de la courbe du bras de levier de redressement au-delà de l'inclinaison correspondant à la position d'équilibre de l'état intermédiaire concerne doit présenter un bras de levier de redressement de GZ ≥ 0,02 m (0,03 m en cas de conteneurs non fixes) avant que ne soit immergée la première ouverture non protégée ou que ne soit un angle de gîte  φ de 27° (15° en cas de conteneurs non fixes) ;
 
-6. Lorsque des ouvertures d'équilibrage transversal sont prévues pour réduire l'envahissement asymétrique, le temps d'équilibrage ne doit pas dépasser 15 minutes si, pour le stade d'envahissement intermédiaire, une stabilité suffisante a été prouvée.
+c) Les ouvertures non étanches à l'eau ne doivent pas être immergées avant que l'inclinaison correspondant à la position d'équilibre de l'état intermédiaire en question ne soit atteinte.
 
-7. Si les ouvertures par lesquelles les compartiments non avariés peuvent également être envahis peuvent être fermées de façon étanche, les dispositifs de fermeture doivent porter une inscription correspondante.
+6. Les critères suivants doivent être respectés à état final de l'envahissement par l'eau :
 
-8. La preuve par le calcul visée aux paragraphes 2 à 5 est considérée comme fournie lorsque des calculs de la stabilité en cas d'avarie visés à la partie 9 de l'ADNR sont présentés avec un résultat positif.
+a) L'arête inférieure des ouvertures qui ne peuvent pas être fermées de manière étanche à l'eau (par exemple les portes, les fenêtres, les panneaux d'accès) ne doit pas être à moins de 0,10 m au-dessus de la ligne de flottaison après l'avarie ;
 
-9. Si nécessaire pour satisfaire aux paragraphes 2 ou 3, le plan du plus grand enfoncement devra être redéterminé.
+b) L'angle de gîte  φ à la position d'équilibre ne doit pas dépasser 12° (5° en cas de conteneurs non fixés) ;
+
+c) La partie positive de la courbe du bras de levier de redressement au-delà de l'inclinaison correspondant à la position d'équilibre doit présenter un bras de levier de redressement de GZ ≥ 0,05 m et l'aire sous la courbe doit atteindre au moins 0,0065 m . rad avant que ne soit immergée la première ouverture non protégée ou que ne soit atteint un angle de gîte  φ de 27° (10° en cas de conteneurs non fixes).
+
+Le diagramme n'est pas reproduit, vous pouvez le consulter à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20131108&numTexte=30&pageDebut=18221&pageFin=18257
+
+d) Si des ouvertures non étanches à l'eau sont immergées avant que la position d'équilibre ne soit atteinte, l'envahissement des locaux auxquels elles donnent accès sera pris en compte dans le calcul de stabilité.
+
+7. Lorsque des ouvertures d'équilibrage transversal sont prévues pour réduire l'envahissement asymétrique, les conditions suivantes doivent être respectées :
+
+a) Pour le calcul de l'envahissement transversal, il convient d'appliquer la résolution A.266 (VIII) de l'OMI ;
+
+b) Elles doivent fonctionner automatiquement ;
+
+c) Elles ne doivent pas être équipées de dispositifs de fermeture ;
+
+d) Le temps total d'équilibrage ne doit pas dépasser 15 minutes.
+
+8. Si les ouvertures par lesquelles les compartiments non avariés sont également susceptibles d'être envahis peuvent être fermées de façon étanche, les dispositifs de fermeture doivent mentionner des deux côtés les instructions suivantes de façon bien lisible :
+
+"Ouverture à refermer immédiatement après passage".
+
+9. La preuve par le calcul visée aux paragraphes 3 à 7 est considérée comme fournie lorsque des calculs de la stabilité en cas d'avarie visés à la partie 9 du règlement annexé à l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ci-après ADN) sont effectués avec un résultat positif.
+
+10. Lorsque cela est nécessaire pour satisfaire aux prescriptions du paragraphe 3, le plan du plus grand enfoncement devra être redéterminé.
