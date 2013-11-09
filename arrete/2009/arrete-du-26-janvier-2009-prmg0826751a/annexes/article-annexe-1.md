@@ -16,7 +16,7 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="224">
+<td rowspan="5" valign="top" width="224">
 <p>Secrétariat général du Gouvernement</p>
 </td>
 <td width="373">
@@ -47,6 +47,12 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 <p>Secrétaire général de la commission interministérielle de la politique immobilière de l'Etat </p>
 </td>
 <td width="75">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td>Chargé de mission coopération internationale au cabinet du secrétaire général du Gouvernement </td>
+<td>
 <p align="center">1</p>
 </td>
 </tr>
