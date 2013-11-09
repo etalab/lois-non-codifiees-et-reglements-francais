@@ -3,6 +3,7 @@
 - [Instruction de service n° 1](instruction-de-service-1)
 - [Instruction de service n° 2](instruction-de-service-2)
 - [Instruction de service n° 3](instruction-de-service-3)
+- [Instruction de service n° 4](instruction-de-service-4)
 - [Instruction de service n° 5](instruction-de-service-5)
 - [Instruction de service n° 6](instruction-de-service-6)
 - [Instruction de service n° 7](instruction-de-service-7)
@@ -20,4 +21,5 @@
 - [Instruction de service n° 23](instruction-de-service-23)
 - [Instruction de service n° 24](instruction-de-service-24)
 - [Instruction de service n° 25](instruction-de-service-25)
+- [Instruction de service n° 26](instruction-de-service-26)
 - [Article ](article-.md)

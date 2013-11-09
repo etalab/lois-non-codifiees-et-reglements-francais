@@ -13,6 +13,7 @@
 - [Chapitre 12 : Logements](chapitre-12)
 - [Chapitre  13 : Installations de chauffage, de cuisine et de réfrigération fonctionnant aux combustibles](chapitre-13)
 - [Chapitre 14 : Installations à gaz liquéfiés pour usages domestiques](chapitre-14)
+- [Chapitre 14 bis : Stations d'épuration de bord des bateaux à passagers](chapitre-14-bis)
 - [Chapitre 15 : Dispositions spéciales pour les bateaux à passagers](chapitre-15)
 - [Chapitre 15 bis : Dispositions spéciales pour les voiliers à passagers](chapitre-15-bis)
 - [Chapitre 16 : Dispositions particulières pour les bâtiments destinés à faire partie d'un convoi poussé, d'un convoi remorqué ou d'une formation à couple](chapitre-16)

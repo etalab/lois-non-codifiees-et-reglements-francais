@@ -1,5 +1,5 @@
 # Article 1.01
 
-Tensions nominales
+Domaine d'application
 
-Les tensions nominales des fanaux de signalisation pour la navigation intérieure sont les tensions de 230 V, de 115 V, de 110 V, de 24 V et de 12 V. Les appareils d'une tension de 24 V seront utilisés de préférence.
+Les présentes dispositions définissent les prescriptions minimales relatives aux indicateurs de vitesse de giration utilisés à bord des bateaux de la navigation intérieure ainsi que les conditions d'essais selon lesquelles la conformité à ces prescriptions minimales est vérifiée.
