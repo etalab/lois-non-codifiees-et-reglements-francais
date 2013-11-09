@@ -2,7 +2,6 @@
 
 - [Décret du 1 octobre 1999 (ATEN9970055D)](decret-du-1-octobre-1999-aten9970055d)
 - [Décret n°99-1006 du 1 décembre 1999 (MESS9923581D)](decret-n99-1006-du-1-decembre-1999-mess9923581d)
-- [Décret n°99-1021 du 1 décembre 1999 (INTM9900041D)](decret-n99-1021-du-1-decembre-1999-intm9900041d)
 - [Décret n°99-1022 du 1 décembre 1999 (INTM9900043D)](decret-n99-1022-du-1-decembre-1999-intm9900043d)
 - [Décret n°99-1023 du 1 décembre 1999 (INTM9900045D)](decret-n99-1023-du-1-decembre-1999-intm9900045d)
 - [Décret n°99-1024 du 1 décembre 1999 (INTM9900047D)](decret-n99-1024-du-1-decembre-1999-intm9900047d)
