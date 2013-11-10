@@ -175,7 +175,6 @@
 - [Arrêté du 6 mai 2008 (SJSP0810431A)](arrete-du-6-mai-2008-sjsp0810431a)
 - [Arrêté du 6 mai 2008 (SJSP0810731A)](arrete-du-6-mai-2008-sjsp0810731a)
 - [Arrêté du 7 août 2008 (AGRP0819677A)](arrete-du-7-aout-2008-agrp0819677a)
-- [Arrêté du 7 août 2008 (DEVL0819157A)](arrete-du-7-aout-2008-devl0819157a)
 - [Arrêté du 7 août 2008 (ECED0819525A)](arrete-du-7-aout-2008-eced0819525a)
 - [Arrêté du 7 août 2008 (ECEU0818845A)](arrete-du-7-aout-2008-eceu0818845a)
 - [Arrêté du 7 août 2008 (MTST0818228A)](arrete-du-7-aout-2008-mtst0818228a)
