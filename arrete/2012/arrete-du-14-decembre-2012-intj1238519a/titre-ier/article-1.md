@@ -46,7 +46,9 @@ II.-En application de l'article 14 du décret n° 2008-939 du 12 septembre 2008 
 
 -le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
--le commandant du groupe d'intervention de la gendarmerie nationale,
+-le commandant du groupe d'intervention de la gendarmerie nationale ;
+
+- le commandant du pôle judiciaire de la gendarmerie nationale,
 
 reçoivent, en ce qui concerne les officiers sous contrat de la gendarmerie nationale, délégation de pouvoirs du ministre de l'intérieur pour :
 

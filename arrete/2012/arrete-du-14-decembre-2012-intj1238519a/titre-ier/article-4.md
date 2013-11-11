@@ -44,7 +44,9 @@ En application de l'article 18 du décret n° 2008-959 du 12 septembre 2008 susv
 
 - le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
-- le commandant du groupe d'intervention de la gendarmerie nationale,
+- le commandant du groupe d'intervention de la gendarmerie nationale ;
+
+- le commandant du pôle judiciaire de la gendarmerie nationale,
 
 reçoivent délégation de pouvoirs du ministre de l'intérieur pour :
 

@@ -20,17 +20,19 @@ Branches de la subdivision d'arme de la gendarmerie mobile :
 
 - garde républicaine, orchestres et chœur ;
 
-- ensemble des formations de gendarmerie mobile placées sous l'autorité du commandant de chaque région de gendarmerie, situé au siège de la zone de défense.
+- ensemble des formations de gendarmerie mobile placées sous l'autorité du commandant de chaque région de gendarmerie situé au siège de la zone de défense.
 
 Branches communes aux deux subdivisions d'arme :
 
 - personnel servant en ambassade ;
 
-- personnel servant outre-mer, en assistance technique ;
+- personnel servant outre-mer, en assistance militaire technique ;
 
 - personnel servant au sein des écoles de la gendarmerie nationale ;
 
 - personnel servant au sein du groupe d'intervention de la gendarmerie nationale ;
+
+- personnel servant au sein du pôle judiciaire de la gendarmerie nationale ;
 
 - organismes centraux, branche administrative, les personnels composant cette branche sont :
 
@@ -43,8 +45,6 @@ Branches communes aux deux subdivisions d'arme :
 - organismes centraux, branche technique : les personnels composant cette branche sont :
 
 - les sous-officiers de gendarmerie servant au centre technique de la gendarmerie nationale ;
-
-- les sous-officiers de gendarmerie servant au pôle judiciaire de la gendarmerie nationale ;
 
 - les sous-officiers de gendarmerie servant à la direction de la coopération internationale ;
 

@@ -66,4 +66,6 @@ II. - En application de l'article 29 du décret n° 2008-952 du 12 septembre 200
 
 - le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
-- le commandant du groupe d'intervention de la gendarmerie nationale.
+- le commandant du groupe d'intervention de la gendarmerie nationale ;
+
+- le commandant du pôle judiciaire de la gendarmerie nationale.
