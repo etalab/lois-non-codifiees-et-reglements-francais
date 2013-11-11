@@ -668,7 +668,6 @@
 - [Décret n°2008-466 du 19 mai 2008 (JUSC0771988D)](decret-n2008-466-du-19-mai-2008-jusc0771988d)
 - [Décret n°2008-467 du 19 mai 2008 (MTST0802030D)](decret-n2008-467-du-19-mai-2008-mtst0802030d)
 - [Décret n°2008-468 du 19 mai 2008 (SJSS0802304D)](decret-n2008-468-du-19-mai-2008-sjss0802304d)
-- [Décret n°2006-324 du 20 mars 2006 (MCCK0600199D)](decret-n2006-324-du-20-mars-2006-mcck0600199d)
 - [Décret n°2008-1071 du 20 octobre 2008 (PRMX0825013D)](decret-n2008-1071-du-20-octobre-2008-prmx0825013d)
 - [Décret n°2008-1072 du 20 octobre 2008 (DEVE0819652D)](decret-n2008-1072-du-20-octobre-2008-deve0819652d)
 - [Décret n°2008-1204 du 20 novembre 2008 (DEVT0818827D)](decret-n2008-1204-du-20-novembre-2008-devt0818827d)
