@@ -10,4 +10,4 @@ Le minimum et le maximum de la part variable, mentionnés au deuxième alinéa d
 
 Le taux maximal de la part variable fixée dans la convention d'objectifs et de moyens est appliqué aux décaissements des charges de formation, dans la limite de la collecte comptabilisée.
 
-Au sein de cette part variable, les dépenses de rémunération des missions et services accomplis en vue d'assurer la gestion paritaire des organismes, visées au 3° de l'article R. 6332-37 sont exprimées en pourcentage des charges de formation dans la limite de 0,75 % de la collecte comptabilisée pour l'exercice considéré au titre de l'agrément congé individuel de formation.
+Au sein de cette part variable, les dépenses de rémunération des missions et services accomplis en vue d'assurer la gestion paritaire des organismes, visées au 3° de l'article R. 6332-37 sont exprimées dans la limite de 0,75 % de la collecte comptabilisée pour l'exercice considéré au titre de l'agrément congé individuel de formation.
