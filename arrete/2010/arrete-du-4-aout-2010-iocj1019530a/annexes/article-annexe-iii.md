@@ -115,6 +115,16 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Ensemble des formations de gendarmerie mobile placées sous l'autorité du commandant de chaque région de gendarmerie située au siège de la zone de défense et de sécurité. </p>
+</td>
+<td>Le commandant en second de la région de gendarmerie située au siège de la zone de défense et de sécurité. </td>
+<td>L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major. <br/>
+</td>
+<td>Les commandants de groupement ou les commandants de groupement par suppléance. <br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="151">
 <p>Garde républicaine. </p>
 </td>
@@ -125,7 +135,8 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 <p>L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major. </p>
 </td>
 <td valign="top" width="227">
-<p>Les commandants de régiment ou les commandants de régiment par suppléance. <br/>L'administrateur-régisseur des formations musicales de la garde républicaine. </p>
+<p>Les commandants de régiment ou les commandants de régiment par suppléance. <br/>
+<br/>L'administrateur, régisseur des formations musicales de la garde républicaine.</p>
 </td>
 </tr>
 </tbody>
