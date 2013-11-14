@@ -260,6 +260,7 @@
 - [Décret n°2013-913 du 11 octobre 2013 (INTD1313899D)](decret-n2013-913-du-11-octobre-2013-intd1313899d)
 - [Décret n°2013-914 du 11 octobre 2013 (ETST1318862D)](decret-n2013-914-du-11-octobre-2013-etst1318862d)
 - [Décret n°2013-915 du 11 octobre 2013 (ETST1318849D)](decret-n2013-915-du-11-octobre-2013-etst1318849d)
+- [Décret n°2013-1006 du 12 novembre 2013 (EFIE1324604D)](decret-n2013-1006-du-12-novembre-2013-efie1324604d)
 - [Décret n°2013-135 du 12 février 2013 (VILV1302204D)](decret-n2013-135-du-12-fevrier-2013-vilv1302204d)
 - [Décret n°2013-211 du 12 mars 2013 (JUSB1302828D)](decret-n2013-211-du-12-mars-2013-jusb1302828d)
 - [Décret n°2013-212 du 12 mars 2013 (DFEC1304721D)](decret-n2013-212-du-12-mars-2013-dfec1304721d)
