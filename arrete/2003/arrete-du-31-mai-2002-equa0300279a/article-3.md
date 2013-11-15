@@ -41,3 +41,21 @@ Fort-de-France - Saint-Martin Juliana (Etat de Saint-Martin) ;
 Pointe-à-Pitre - Saint-Martin Juliana (Etat de Saint-Martin) ;
 
 Saint-Barthélemy - Saint-Martin Juliana (Etat de Saint-Martin).
+
+Jusqu'au 31 octobre 2018 :
+
+Fort-de-France - Antigua (Antigua-et-Barbuda).
+
+Pointe-à-Pitre - Antigua (Antigua-et-Barbuda).
+
+Saint-Martin - Antigua (Antigua-et-Barbuda).
+
+Cayenne - Paramaribo (Surinam).
+
+Saint-Laurent-du-Maroni - Paramaribo (Surinam).
+
+Fort-de-France - San Juan (Puerto Rico).
+
+Pointe-à-Pitre - San Juan (Puerto Rico).
+
+Saint-Martin - San Juan (Puerto Rico).
