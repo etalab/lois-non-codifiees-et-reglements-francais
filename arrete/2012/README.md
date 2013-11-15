@@ -765,7 +765,6 @@
 - [Arrêté du 10 juillet 2012 (AFSS1229026A)](arrete-du-10-juillet-2012-afss1229026a)
 - [Arrêté du 10 juillet 2012 (AGRT1221929A)](arrete-du-10-juillet-2012-agrt1221929a)
 - [Arrêté du 10 juillet 2012 (DEFD1228821A)](arrete-du-10-juillet-2012-defd1228821a)
-- [Arrêté du 10 juillet 2012 (DEVA1228954A)](arrete-du-10-juillet-2012-deva1228954a)
 - [Arrêté du 10 juillet 2012 (DEVL1229143A)](arrete-du-10-juillet-2012-devl1229143a)
 - [Arrêté du 10 juillet 2012 (DEVL1229144A)](arrete-du-10-juillet-2012-devl1229144a)
 - [Arrêté du 10 juillet 2012 (EFIU1225477A)](arrete-du-10-juillet-2012-efiu1225477a)
