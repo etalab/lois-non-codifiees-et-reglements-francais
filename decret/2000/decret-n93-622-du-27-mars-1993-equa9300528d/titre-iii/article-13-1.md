@@ -6,14 +6,10 @@ Les techniciens supérieurs des études et de l'exploitation de l'aviation civil
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">
-<strong>TSEEAC DE CLASSE PRINCIPALE</strong>
-</p>
+<p align="center">TSEEAC DE CLASSE PRINCIPALE</p>
 </td>
 <td align="left" colspan="2" valign="middle">
-<p align="center">
-<strong>TSEEAC DE CLASSE EXCEPTIONNELLE</strong>
-</p>
+<p align="center">TSEEAC DE CLASSE EXCEPTIONNELLE</p>
 </td>
 </tr>
 <tr>
@@ -24,7 +20,7 @@ Les techniciens supérieurs des études et de l'exploitation de l'aviation civil
 <p align="center">Echelons</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">Ancienneté conservée dans la limite de la durée de l'échelon</p>
+<p align="center">Ancienneté conservée dans la limite <br/>de la durée de l'échelon</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +31,7 @@ Les techniciens supérieurs des études et de l'exploitation de l'aviation civil
 <p align="left">5e échelon</p>
 </td>
 <td align="left" valign="top">
-<p align="center">-</p>
+<p align="left">1/2 de l'ancienneté acquise -</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +53,7 @@ Les techniciens supérieurs des études et de l'exploitation de l'aviation civil
 <p align="left">3e échelon</p>
 </td>
 <td align="left" valign="top">
-<p align="left">6/7 de l'ancienneté acquise.</p>
+<p align="left">4/7 de l'ancienneté acquise.</p>
 </td>
 </tr>
 <tr>

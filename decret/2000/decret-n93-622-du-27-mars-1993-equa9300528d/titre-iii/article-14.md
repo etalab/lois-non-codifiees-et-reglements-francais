@@ -5,329 +5,365 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<strong>GRADES ET ECHELONS</strong>
+<td rowspan="2">
+<p align="center">  GRADES ET ÉCHELONS</p>
+</td>
+<td colspan="2">
+<p align="center"> DURÉE </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Moyenne </p>
+</td>
+<td>
+<p align="center"> Minimale </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Technicien de classe exceptionnelle <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7e échelon <br/>
 </p>
 </td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">
-<strong>DUREE</strong>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>6e échelon <br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Moyenne</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Minimale</p>
+<td align="center">
+<br/>2 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Technicien supérieur des études et de l'exploitation de l'aviation civile de classe exceptionnelle</i>
+<td align="center">
+<p align="left">
+<br/>5e échelon <br/>
 </p>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>2 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Technicien supérieur des études et de l'exploitation de l'aviation civile de classe principale</i>
+<td align="center">
+<p align="left">
+<br/>4e échelon <br/>
 </p>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">8e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>2 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 9 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 9 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Technicien supérieur des études et de l'exploitation de l'aviation civile de classe normale</i>
+<td align="center">
+<p align="left">
+<br/>3e échelon <br/>
 </p>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">11e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">10e échelon</p>
+<td align="center">
+<p align="left">
+<br/>2e échelon <br/>
+</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">9e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">8e échelon</p>
+<td align="center">
+<p align="left">
+<br/>1er échelon <br/>
+</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
+<td align="center">
+<br/>Technicien de classe principale <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>8e échelon <br/>
+</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>- <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
+<td align="center">
+<p align="left">
+<br/>7e échelon <br/>
+</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>4 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3e échelon</p>
+<td align="center">
+<p align="left">
+<br/>6e échelon <br/>
+</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>3 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>2 ans 9 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1er échelon</p>
+<td align="center">
+<p align="left">
+<br/>5e échelon <br/>
+</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>3 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>2 ans 9 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>4e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+<td align="center">
+<br/>2 ans 3 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>3e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>2e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>1er échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Technicien de classe normale <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>10e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>9e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>8e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+<td align="center">
+<br/>2 ans 3 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>6e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>2 ans 6 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>5e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>2 ans 6 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>4e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>3e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>2e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>1er échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois<br/>
 </td>
 </tr>
 </tbody>

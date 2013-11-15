@@ -1,20 +1,30 @@
 # Article 8
 
-1° Les candidats reçus aux concours prévus aux 1° et 2° de l'article 4 ci-dessus, à l'exception des candidats retenus à l'issue du concours prévu au b du 1° de l'article 4, sont nommés élèves techniciens supérieurs des études et de l'exploitation de l'aviation civile par arrêté du ministre chargé de l'aviation civile.
+Les conditions de formation et de stage sont les suivantes :
 
-Ils sont appelés à suivre une formation initiale de deux ans comportant une période de scolarité notamment à l'Ecole nationale de l'aviation civile et une période de stages dans les services de l'aviation civile.A titre exceptionnel, ils peuvent être autorisés à accomplir un complément de scolarité ou un complément de stage d'une durée d'un an au maximum sans que la durée totale de la formation puisse excéder trois ans. Les modalités de la formation sont fixées par arrêté du ministre chargé de l'aviation civile.
+1° Les candidats reçus à l'un des concours prévus au a du 1° et au 2° de l'article 4 sont nommés élèves techniciens supérieurs des études et de l'exploitation de l'aviation civile par arrêté du ministre chargé de l'aviation civile et perçoivent le traitement afférent à l'échelon d'élève.
 
-Dès leur entrée à l'école et pendant la durée d'un an et éventuellement pendant la durée du complément de scolarité, les élèves techniciens supérieurs des études et de l'exploitation de l'aviation civile perçoivent le traitement afférent à l'échelon d'élève.
+Ils sont appelés à suivre une formation initiale de trois ans à l'Ecole nationale de l'aviation civile et dans les services de la direction générale de l'aviation civile, dont les modalités sont fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique.
 
-L'année suivante et éventuellement pendant la durée du complément de stage, ils ont la qualité de technicien supérieur stagiaire des études et de l'exploitation de l'aviation civile et perçoivent le traitement afférent à l'échelon de stagiaire.
+Par dérogation à l'alinéa précédent, les candidats admis à l'un des concours prévus au a du 1° et au 2° de l'article 4, qui justifient de la validation d'une année d'études supérieures dans les domaines scientifique et technique et qui ont obtenu une note minimale à l'épreuve de connaissances aéronautiques dans les conditions définies par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique, sont nommés techniciens supérieurs stagiaires des études et de l'exploitation de l'aviation civile et suivent une formation de deux ans.
 
-A la fin de leur formation initiale, les techniciens supérieurs stagiaires sont soit titularisés dans les conditions prévues à l'article 9 ci-dessous, soit licenciés, soit réintégrés dans leurs anciens corps, cadre d'emplois ou emploi d'origine.
+Les élèves admis en deuxième année de formation sont nommés techniciens supérieurs stagiaires des études et de l'exploitation de l'aviation civile et perçoivent le traitement afférent au premier échelon de stagiaire.
 
-2° Les techniciens supérieurs des études et de l'exploitation de l'aviation civile recrutés par la voie des emplois réservés ou par la voie contractuelle prévue à l'article 27 de la loi du 11 janvier 1984 susvisée suivent pendant l'année de leur stage une formation à l'Ecole nationale de l'aviation civile.
+Les techniciens supérieurs stagiaires admis en troisième année de formation perçoivent le traitement afférent au deuxième échelon de stagiaire.
 
-3° Les candidats admis à l'examen professionnel prévu au 3° de l'article 4 sont nommés techniciens supérieurs stagiaires des études et de l'exploitation de l'aviation civile par arrêté du ministre chargé de l'aviation civile.
+A titre exceptionnel, ils peuvent être autorisés à accomplir un complément de scolarité ou de stage d'une durée d'un an au maximum. Cette année supplémentaire est sanctionnée dans les mêmes conditions qu'une année normale de formation et n'est pas prise en compte dans le calcul de l'ancienneté à retenir pour l'avancement.
 
-Ils effectuent un stage d'un an pour partie à l'Ecole nationale de l'aviation civile et pour partie dans les services de l'aviation civile. Les modalités du stage sont fixées par arrêté du ministre chargé de l'aviation civile.
+Pendant la durée de complément de scolarité ou de stage, les techniciens supérieurs des études et de l'exploitation de l'aviation civile conservent la qualité d'élève ou celle de stagiaire et perçoivent le traitement afférent à l'échelon correspondant à leur situation.
+
+A l'issue de leur formation initiale, les techniciens supérieurs stagiaires sont, soit titularisés dans les conditions prévues à l'article 9 ci-dessous, soit licenciés, soit réintégrés dans leur corps, cadre d'emplois ou emploi d'origine pour ceux qui avaient déjà la qualité de fonctionnaires.
+
+2° Les techniciens supérieurs des études et de l'exploitation de l'aviation civile recrutés par la voie des emplois réservés ainsi que ceux recrutés en application de l'article L. 4139-2 du code de la défense suivent pendant l'année de leur stage une formation pour partie à l'Ecole nationale de l'aviation civile et pour partie dans les services de l'aviation civile. Les modalités du stage sont fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique ;
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée suivent une formation de trois ans à l'Ecole nationale de l'aviation civile. Les modalités de la formation sont fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique.
+
+3° Les candidats admis à l'examen professionnel prévu au 3° de l'article 4 sont nommés techniciens supérieurs stagiaires des études et de l'exploitation de l'aviation civile par arrêté du ministre chargé de l'aviation civile. Ils perçoivent le traitement afférent au deuxième échelon de stagiaire.
+
+Ils effectuent un stage d'un an pour partie à l'Ecole nationale de l'aviation civile et pour partie dans les services de l'aviation civile. Les modalités du stage sont fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique.
 
 A la fin de cette période de stage, les techniciens supérieurs stagiaires sont soit titularisés dans les conditions prévues à l'article 9, soit réintégrés dans leur corps d'origine.
 
@@ -24,7 +34,7 @@ Toutefois, pour les élèves techniciens supérieurs et techniciens supérieurs 
 
 5° Les candidats reçus au concours mentionné au b du 1° de l'article 4 sont nommés techniciens supérieurs stagiaires des études et de l'exploitation de l'aviation civile par arrêté du ministre chargé de l'aviation civile.
 
-Ils effectuent un stage en partie à l'Ecole nationale de l'aviation civile et en partie dans leur centre d'affectation. Les modalités du stage sont fixées par arrêté du ministre chargé de l'aviation civile.
+Ils effectuent un stage en partie à l'Ecole nationale de l'aviation civile et en partie dans leur centre d'affectation. Les modalités du stage sont fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique.
 
 Le stage, dont la durée ne peut être supérieure à un an, prend fin avec la titularisation de l'agent. Cette titularisation est subordonnée à l'obtention des mentions d'unité de leur centre d'affectation.
 
