@@ -1,6 +1,6 @@
 # Article 4
 
-Le directeur assure la direction pédagogique, administrative et financière de l'institut.
+Le directeur de l'Institut de formation de l'environnement assure la direction pédagogique, administrative et financière de l'institut.
 
 Il propose et met en œuvre le programme d'activités de l'institut dans le cadre des orientations et directives définies par le directeur général de l'administration, des finances et des affaires internationales.
 
