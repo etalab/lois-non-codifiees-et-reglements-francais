@@ -1,0 +1,3 @@
+# Article 13
+
+Pour l'application des dispositions du deuxième alinéa de l'article R. 135-9 du code de l'aviation civile, les techniciens supérieurs des études et de l'exploitation de l'aviation civile qui détiennent, à la date d'entrée en vigueur du présent décret, le certificat d'aptitude à la maintenance technique sont, à compter de cette date, réputés détenteurs de la licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne mentionnée à l'article 2 du décret du 27 mars 1993 susvisé dans sa rédaction issue de l'article 1er du présent décret. Cette licence leur est délivrée de droit.
