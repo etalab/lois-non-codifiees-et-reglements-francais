@@ -8,4 +8,4 @@ Réunion.
 
 Groupe III :
 
-Guadeloupe, Martinique et Guyane.
+Guadeloupe, Martinique, Guyane et Mayotte.

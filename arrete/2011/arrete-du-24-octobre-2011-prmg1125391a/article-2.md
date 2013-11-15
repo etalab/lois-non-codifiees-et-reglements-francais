@@ -4,4 +4,4 @@ Le classement des emplois d'adjoint au secrétaire général pour les affaires r
 
 Groupe IV :
 
-Réunion, Guadeloupe, Martinique et Guyane.
+Réunion, Guadeloupe, Martinique, Guyane et Mayotte.
