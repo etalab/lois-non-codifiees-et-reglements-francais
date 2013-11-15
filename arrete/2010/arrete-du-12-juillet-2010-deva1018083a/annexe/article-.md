@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 octobre 2013 :
+Jusqu'au 31 octobre 2018 :
 
 Saint-Pierre de La Réunion - Maurice.
 
