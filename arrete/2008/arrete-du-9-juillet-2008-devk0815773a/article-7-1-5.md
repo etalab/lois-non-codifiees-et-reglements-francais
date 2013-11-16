@@ -2,7 +2,7 @@
 
 La sous-direction de la qualité du cadre de vie est chargée de l'élaboration, de la mise en œuvre et du suivi des législations relatives à l'urbanisme, à l'expropriation, à la protection des monuments naturels et des sites et à la protection et à la mise en valeur des paysages, ainsi qu'à la publicité extérieure et à l'affichage. Elle veille, en liaison avec les directions intéressées, à leur articulation avec les autres législations relatives à l'occupation des sols. Elle définit et met en œuvre les outils et méthodes de la planification territoriale. Elle veille aux conditions de la mise en œuvre locale de ces politiques et outils, et à la prise en compte, dans la planification des territoires, des politiques relatives aux déplacements, à l'habitat, à la prévention des risques et à l'environnement.
 
-Elle propose la législation et la réglementation en matière d'autorisations d'occupation des sols et suit leur mise en œuvre par les collectivités locales et les services de l'Etat.
+Elle propose la législation et la réglementation en matière d'autorisations d'occupation des sols et suit leur mise en œuvre par les collectivités locales et les services de l'Etat. Elle élabore la fiscalité et les participations d'urbanisme ayant comme fait générateur le permis de construire ou une autorisation en tenant lieu et veille aux conditions de sa mise en œuvre.
 
 Elle instruit les procédures relevant du niveau national de classement et d'inscription des sites et d'autorisation ministérielle de travaux en site classé, assure le secrétariat de la Commission supérieure des sites, perspectives et paysages et conduit la politique de mise en valeur des grands sites nationaux.
 
@@ -24,4 +24,4 @@ Elle comprend :
 
 ― le bureau de la législation de l'urbanisme ;
 
-― le bureau de l'application du droit des sols.
+― le bureau de l'application du droit des sols et de la fiscalité associée .

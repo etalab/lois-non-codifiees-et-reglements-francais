@@ -12,20 +12,24 @@ Elle est chargée de concevoir, suivre et évaluer les politiques de l'Etat dans
 
 Elle définit la politique foncière de l'Etat ainsi que les instruments de la politique foncière des collectivités territoriales et en assure le suivi. Elle exerce la tutelle des établissements publics fonciers de l'Etat relevant du code de l'urbanisme.
 
-Elle élabore la législation et la réglementation fiscale et financière applicables en matière d'urbanisme et d'aménagement. Elle assure en outre leurs évaluations et leurs évolutions.
+Elle anime et met en œuvre le plan de mobilisation du foncier public en faveur du logement et assure le suivi d'opérations d'aménagement complexes nécessitant la mise en œuvre d'une expertise nationale, aux côtés des services déconcentrés.
+
+En liaison avec la sous-direction de la qualité du cadre de vie, elle élabore la législation et la réglementation applicables en matière d'urbanisme et d'aménagement. Elle assure en outre leurs évaluations et leurs évolutions.
 
 Elle anime la réflexion sur l'évolution des domaines de l'urbanisme opérationnel et de l'aménagement durable.
 
 Elle est chargée des relations avec le réseau des professionnels de l'aménagement et de l'urbanisme opérationnel et représente le ministre chargé de l'urbanisme auprès de l'ordre des géomètres experts.
 
+Elle assure le secrétariat de la Commission nationale de l'aménagement, de l'urbanisme et du foncier.
+
 Elle comprend :
 
-― le bureau des stratégies territoriales ;
+- le bureau des stratégies territoriales ;
 
-― le bureau des grandes opérations d'urbanisme ;
+- le bureau des grandes opérations d'urbanisme ;
 
-― le bureau des politiques foncières ;
+- le bureau des politiques foncières ;
 
-― le bureau de l'aménagement opérationnel durable ;
+- le bureau de l'aménagement opérationnel durable ;
 
-― le bureau de la fiscalité de l'aménagement durable.
+- le bureau des opérations d'aménagement.

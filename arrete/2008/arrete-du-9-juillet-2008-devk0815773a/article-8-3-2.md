@@ -16,7 +16,7 @@ Il est chargé :
 
 ― d'assurer une mission d'animation, d'assistance, de conseil et de formation auprès des services déconcentrés dans les domaines cités au présent article.
 
-Le directeur du service technique de l'énergie électrique et des grands barrages et de l'hydraulique est nommé par arrêté conjoint du ministre chargé de l'énergie et du ministre chargé de l'environnement sur proposition du directeur général de la prévention des risques.
+Le directeur du service technique de l'énergie électrique et des grands barrages et de l'hydraulique assure la direction scientifique, technique et administrative du service.
 
 Le service technique de l'énergie électrique et des grands barrages et de l'hydraulique comprend :
 

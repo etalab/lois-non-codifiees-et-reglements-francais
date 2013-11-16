@@ -28,6 +28,6 @@ Elle comprend :
 
 ― le bureau de la normalisation et de la réglementation européenne ;
 
-― le bureau de l'économie de la construction ;
+― le bureau de l'économie de la construction et de l'outre-mer ;
 
 ― le bureau des professionnels du bâtiment.

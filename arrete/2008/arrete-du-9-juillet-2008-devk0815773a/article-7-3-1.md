@@ -20,8 +20,8 @@ Elle comprend :
 
 ― le bureau de la formation ;
 
-― le bureau des moyens généraux et de l'informatique ;
-
 ― le bureau du courrier parlementaire et réservé ;
 
-― le bureau de la comptabilité et des marchés.
+― le bureau de la comptabilité et des marchés ;
+
+― le pôle des moyens généraux.

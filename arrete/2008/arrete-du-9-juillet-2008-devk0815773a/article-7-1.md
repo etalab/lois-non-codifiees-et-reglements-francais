@@ -2,7 +2,7 @@
 
 La direction de l'habitat, de l'urbanisme et des paysages comprend :
 
-― la sous-direction du financement du logement ;
+― la sous-direction du financement et de l'économie du logement et de l'aménagement ;
 
 ― la sous-direction des politiques de l'habitat ;
 
