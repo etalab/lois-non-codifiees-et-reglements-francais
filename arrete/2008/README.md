@@ -831,7 +831,6 @@
 - [Arrêté du 22 décembre 2008 (SJSS0828076A)](arrete-du-22-decembre-2008-sjss0828076a)
 - [Arrêté du 22 février 2008 (ECED0804839A)](arrete-du-22-fevrier-2008-eced0804839a)
 - [Arrêté du 22 février 2008 (JUSG0807653A)](arrete-du-22-fevrier-2008-jusg0807653a)
-- [Arrêté du 22 février 2008 (MCCH0804967A)](arrete-du-22-fevrier-2008-mcch0804967a)
 - [Arrêté du 22 février 2008 (SJSH0804977A)](arrete-du-22-fevrier-2008-sjsh0804977a)
 - [Arrêté du 22 janvier 1992 (SANH9200213A)](arrete-du-22-janvier-1992-sanh9200213a)
 - [Arrêté du 22 janvier 2008 (SJSF0801981A)](arrete-du-22-janvier-2008-sjsf0801981a)
