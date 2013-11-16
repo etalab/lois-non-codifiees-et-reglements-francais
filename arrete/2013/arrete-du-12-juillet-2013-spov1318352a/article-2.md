@@ -10,6 +10,6 @@ Association Evian Thonon-Gaillard football-club.
 
 Association Chamois niortais football-club.
 
-Association Angers sporting-club de l'Ouest.
+SASP Angers Sporting Club de l'Ouest.
 
 EUSRL Athlétic-club ajaccien.
