@@ -79,5 +79,11 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 <p>Hautes-Alpes</p>
 </td>
 </tr>
+<tr>
+<td>DDT de Seine-et-Marne</td>
+<td>Seine-et-Marne <p>Essonne<br/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
