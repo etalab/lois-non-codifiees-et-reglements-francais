@@ -18,7 +18,7 @@ La principale source de financement de la société France Télévisions est con
 
 II. - Abrogé.
 
-III. - La société nationale de programme dénommée Radio France est chargée de concevoir et de programmer des émissions de radio à caractère national et local, destinées à être diffusées sur tout ou partie du territoire métropolitain. Elle favorise l'expression régionale sur ses antennes décentralisées sur l'ensemble du territoire. Elle valorise le patrimoine et la création artistique, notamment grâce aux formations musicales dont elle assure la gestion et le développement.
+III. - La société nationale de programme dénommée Radio France est chargée de concevoir et de programmer des émissions de radio à caractère national et local, destinées à être diffusées sur tout ou partie du territoire. Elle favorise l'expression régionale sur ses antennes décentralisées sur l'ensemble du territoire. Elle valorise le patrimoine et la création artistique, notamment grâce aux formations musicales dont elle assure la gestion et le développement.
 
 IV. - La société en charge de l'audiovisuel extérieur de la France, société nationale de programme, a pour mission de contribuer à la diffusion et à la promotion de la langue française, des cultures française et francophone, ainsi qu'au rayonnement de la France dans le monde, notamment par la programmation et la diffusion d'émissions de télévision et de radio ou de services de communication au public en ligne relatifs à l'actualité française, francophone, européenne et internationale.
 

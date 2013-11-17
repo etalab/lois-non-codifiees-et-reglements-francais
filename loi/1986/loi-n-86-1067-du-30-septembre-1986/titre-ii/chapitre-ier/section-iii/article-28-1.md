@@ -14,7 +14,7 @@ Les autorisations délivrées en application des articles 29, 29-1, 30 et 30-1 s
 
 5° Pour les services de radio, si le service ne remplit plus les critères propres à la catégorie pour laquelle il est autorisé.
 
-A compter du 1er janvier 2002, les autorisations prévues aux articles 30 et 30-1 ne sont reconduites, hors appel aux candidatures, qu'une seule fois pour une période maximale de cinq ans, sauf dans les cas visés aux 1° et 5° ci-dessus.
+A compter du 1er janvier 2002, les autorisations prévues aux articles 30 et 30-1 ne sont reconduites, hors appel aux candidatures, qu'une seule fois pour une période maximale de cinq ans, sauf dans les cas mentionnés aux 1° à 5° du présent I.
 
 I bis. - Par dérogation aux dispositions du I, les autorisations délivrées aux services de radio diffusés par voie hertzienne terrestre en Nouvelle-Calédonie avant le 1er janvier 2008 et en vigueur au 1er janvier 2009 sont reconduites jusqu'au 31 décembre 2011.
 

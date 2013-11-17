@@ -1,6 +1,6 @@
 # Article 34
 
-I. - Tout distributeur de services qui met à disposition du public, par un réseau n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel, une offre de services de communication audiovisuelle comportant des services de radio ou de télévision, dépose une déclaration préalable auprès du conseil.
+I. - Tout distributeur de services qui met à disposition du public, par un réseau n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel, une offre de services de communication audiovisuelle comportant des services de radio, de télévision ou de médias audiovisuels à la demande, dépose une déclaration préalable auprès du conseil.
 
 Seuls peuvent avoir la qualité de distributeur de services les sociétés, y compris les sociétés d'économie mixte locale, les organismes d'habitations à loyer modéré, les collectivités territoriales et leurs groupements dans les conditions prévues au II, ainsi que les régies prévues par la loi n° 46-628 du 8 avril 1946 sur la nationalisation de l'électricité et du gaz.
 

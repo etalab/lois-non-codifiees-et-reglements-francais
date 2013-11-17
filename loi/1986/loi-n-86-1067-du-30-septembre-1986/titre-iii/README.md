@@ -22,8 +22,6 @@
 - [Article 48-3](article-48-3.md)
 - [Article 48-4](article-48-4.md)
 - [Article 48-5](article-48-5.md)
-- [Article 48-6](article-48-6.md)
-- [Article 48-7](article-48-7.md)
 - [Article 48-8](article-48-8.md)
 - [Article 48-9](article-48-9.md)
 - [Article 48-10](article-48-10.md)

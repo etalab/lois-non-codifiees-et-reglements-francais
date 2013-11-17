@@ -61,3 +61,7 @@ La convention mentionnée au premier alinéa définit également les prérogativ
 Pour l'application des dispositions du 2° bis du présent article, le Conseil supérieur de l'audiovisuel adaptera, dans les six mois à compter de la publication de la loi n° 94-88 du 1er février 1994 modifiant la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, les conventions déjà conclues avec les services de radio autorisés.
 
 Sans préjudice des règles générales fixées en application de la présente loi et notamment de son article 27 et afin de faciliter le développement de la télévision numérique de terre, les conventions conclues avec les éditeurs de services autorisés en application de l'article 30-1 pourront être régulièrement révisées sur un ou plusieurs des points précédemment énumérés.
+
+Toute modification de convention d'un service national de télévision autorisé en application de l'article 30-1 ou d'un service de radio appartenant à un réseau de diffusion à caractère national au sens de l'article 41-3 susceptible de modifier de façon importante le marché en cause est précédée d'une étude d'impact, rendue publique.
+
+S'il l'estime utile, le Conseil supérieur de l'audiovisuel peut effectuer une telle étude pour les autres services autorisés.

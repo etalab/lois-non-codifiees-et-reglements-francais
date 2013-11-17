@@ -18,7 +18,6 @@
 - [Article 42-3](article-42-3.md)
 - [Article 42-4](article-42-4.md)
 - [Article 42-5](article-42-5.md)
-- [Article 42-6](article-42-6.md)
 - [Article 42-7](article-42-7.md)
 - [Article 42-8](article-42-8.md)
 - [Article 42-9](article-42-9.md)

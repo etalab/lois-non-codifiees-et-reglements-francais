@@ -33,3 +33,5 @@ Les autorisations comportent les éléments permettant d'assurer les conditions 
 Les services conventionnés sont regardés comme des services autorisés pour l'application des articles 28-1, 32 et 35 à 42-15.
 
 Toute modification des éléments au vu desquels l'autorisation a été délivrée au distributeur de services doit être préalablement notifiée au Conseil supérieur de l'audiovisuel.
+
+IV. - Dans la mesure de leur viabilité économique et financière, notamment au regard de la ressource publicitaire, le Conseil supérieur de l'audiovisuel favorise les services ne faisant pas appel à une rémunération de la part des usagers et contribuant à renforcer la diversité des opérateurs ainsi que le pluralisme de l'information.

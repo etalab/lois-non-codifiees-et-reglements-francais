@@ -6,4 +6,10 @@ Dans le respect des critères mentionnés à l'article 29, notamment le juste é
 
 Ce changement de titulaire de l'autorisation n'est pas ouvert aux services mentionnés à l'article 80 et aux services locaux, régionaux et thématiques indépendants.
 
-Le Conseil supérieur de l'audiovisuel peut, par décision motivée, donner son agrément à une modification substantielle des données au vu desquelles il a autorisé un service en télévision mobile personnelle, notamment lorsqu'elle porte sur la programmation ou les modalités de commercialisation. Préalablement à sa décision, il procède à l'audition publique du titulaire et entend les tiers qui le demandent.
+Sous réserve du respect des articles 1er et 3-1, le Conseil supérieur de l'audiovisuel peut, par décision motivée, donner son agrément à une modification des modalités de financement lorsqu'elle porte sur le recours ou non à une rémunération de la part des usagers. Préalablement à sa décision, il procède à une étude d'impact, notamment économique, rendue publique dans le respect du secret des affaires. Il procède aussi à l'audition publique du titulaire et entend les tiers qui le demandent. Cette modification de l'autorisation peut être agréée si les équilibres du marché publicitaire des services de télévision hertzienne terrestre sont pris en compte.
+
+Sans préjudice de l'application du premier alinéa, tout éditeur de services détenteur d'une autorisation délivrée en application des articles 29,29-1,30-1,30-5 et 96 doit obtenir un agrément du Conseil supérieur de l'audiovisuel en cas de modification du contrôle direct ou indirect, au sens de l'article L. 233-3 du code de commerce, de la société titulaire de l'autorisation. Cet agrément fait l'objet d'une décision motivée.
+
+Lorsque la modification du contrôle porte sur un service national de télévision autorisé en application de l'article 30-1 de la présente loi ou un service de radio appartenant à un réseau de diffusion à caractère national, au sens de l'article 41-3, et que cette modification est susceptible de modifier de façon importante le marché en cause, l'agrément est précédé d'une étude d'impact, notamment économique, rendue publique dans le respect du secret des affaires.
+
+S'il l'estime utile, le Conseil supérieur de l'audiovisuel peut effectuer une telle étude pour les autres services autorisés.
