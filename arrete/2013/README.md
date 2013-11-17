@@ -2270,7 +2270,6 @@
 - [Arrêté du 26 avril 2013 (SPOV1311402A)](arrete-du-26-avril-2013-spov1311402a)
 - [Arrêté du 26 décembre 2012 (AFSH1243373A)](arrete-du-26-decembre-2012-afsh1243373a)
 - [Arrêté du 26 décembre 2012 (BUDE1229766A)](arrete-du-26-decembre-2012-bude1229766a)
-- [Arrêté du 26 décembre 2012 (DEVA1242330A)](arrete-du-26-decembre-2012-deva1242330a)
 - [Arrêté du 26 décembre 2012 (DEVK1301511A)](arrete-du-26-decembre-2012-devk1301511a)
 - [Arrêté du 26 décembre 2012 (DEVP1240115A)](arrete-du-26-decembre-2012-devp1240115a)
 - [Arrêté du 26 décembre 2012 (DEVR1300250A)](arrete-du-26-decembre-2012-devr1300250a)
