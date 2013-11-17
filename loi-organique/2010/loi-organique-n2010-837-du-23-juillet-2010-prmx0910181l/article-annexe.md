@@ -245,14 +245,6 @@
 </tr>
 <tr>
 <td align="center">
-<br/>France Télévisions<br/>
-</td>
-<td align="center">
-<br/>Président<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Haut conseil des biotechnologies<br/>
 </td>
 <td align="center">
@@ -349,14 +341,6 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Radio France<br/>
-</td>
-<td align="center">
-<br/>Président<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Régie autonome des transports parisiens <br/>
 </td>
 <td align="center">
@@ -369,14 +353,6 @@
 </td>
 <td align="center">
 <br/>Président du conseil d'administration<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Société en charge de l'audiovisuel extérieur de la France<br/>
-</td>
-<td align="center">
-<br/>Président<br/>
 </td>
 </tr>
 <tr>
