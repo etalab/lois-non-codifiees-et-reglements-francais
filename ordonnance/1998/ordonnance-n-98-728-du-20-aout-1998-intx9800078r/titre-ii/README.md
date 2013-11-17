@@ -1,3 +1,0 @@
-# TITRE II : DISPOSITIONS RELATIVES A LA POLICE JUDICIAIRE.
-
-- [Article 4](article-4.md)

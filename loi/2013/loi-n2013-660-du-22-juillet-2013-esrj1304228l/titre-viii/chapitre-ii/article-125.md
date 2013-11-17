@@ -1,6 +1,6 @@
 # Article 125
 
-I.-Le chapitre Ier du titre Ier, le titre II et le titre III de la présente loi, à l'exception de l'article 33, du VI de l'article 38 et de l'article 39, s'appliquent dans les îles Wallis et Futuna.
+I.-Le chapitre Ier du titre Ier et les titres II, III et IV de la présente loi, à l'exception des articles 26 et 27, de l'article 33, du VI de l'article 38 et de l'article 39, s'appliquent dans les îles Wallis et Futuna.
 
 Le chapitre Ier du titre Ier, le titre II et le titre III de la présente loi, à l'exception du VI de l'article 38 et de l'article 39, s'appliquent en Polynésie française et en Nouvelle-Calédonie.
 

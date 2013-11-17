@@ -4,7 +4,7 @@ Le fonctionnaire en activité a droit :
 
 1° A un congé annuel avec traitement dont la durée est fixée par décret en Conseil d'Etat.
 
-Le fonctionnaire territorial originaire des départements de Guadeloupe, de Guyane, de Martinique, de la Réunion et de Saint-Pierre-et-Miquelon exerçant en métropole bénéficie du régime de congé institué pour les fonctionnaires de l'Etat ;
+Le fonctionnaire territorial originaire des départements de Guadeloupe, de Guyane, de Martinique, , de Mayotte, de la Réunion et de Saint-Pierre-et-Miquelon exerçant en métropole bénéficie du régime de congé institué pour les fonctionnaires de l'Etat ;
 
 2° A des congés de maladie dont la durée totale peut atteindre un an pendant une période de douze mois consécutifs en cas de maladie dûment constatée mettant l'intéressé dans l'impossibilité d'exercer ses fonctions. Celui-ci conserve alors l'intégralité de son traitement pendant une durée de trois mois ; ce traitement est réduit de moitié pendant les neuf mois suivants. Le fonctionnaire conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
