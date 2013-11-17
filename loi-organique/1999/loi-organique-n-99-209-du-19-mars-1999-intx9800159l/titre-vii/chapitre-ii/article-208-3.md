@@ -1,6 +1,6 @@
 # Article 208-3
 
-Si une dépense obligatoire a été omise ou si le crédit correspondant à cette dépense a été insuffisamment doté au budget de la Nouvelle-Calédonie ou d'une province, le haut-commissaire demande une seconde lecture à l'assemblée intéressée. Si, dans les quinze jours de la demande de seconde lecture, cette assemblée n'a pas rétabli les inscriptions de crédits nécessaires, le haut-commissaire saisit la chambre territoriale des comptes.
+Si une dépense obligatoire a été omise ou si le crédit correspondant à cette dépense a été insuffisamment doté au budget de la Nouvelle-Calédonie ou d'une province, le haut-commissaire demande une seconde lecture à l'assemblée intéressée. Si, dans les quinze jours de la demande de seconde lecture, cette assemblée n'a pas rétabli les inscriptions de crédits nécessaires, le haut-commissaire, le comptable public concerné ou toute personne y ayant intérêt  saisit la chambre territoriale des comptes.
 
 Si la chambre territoriale des comptes constate, dans le mois de sa saisine, que la dépense obligatoire n'a pas été inscrite au budget de la Nouvelle-Calédonie ou d'une province ou l'a été pour une somme insuffisante, elle adresse une mise en demeure au président de l'assemblée intéressée.
 

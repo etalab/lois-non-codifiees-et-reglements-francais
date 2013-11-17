@@ -42,7 +42,7 @@ II.-L'Etat est également compétent dans les matières suivantes, sous réserve
 
 4° Sûreté en matière aérienne ;
 
-5° Droit pénal, sous réserve des dispositions prévues aux articles 86, 87, 88 et au deuxième alinéa de l'article 157 ;
+5° Droit pénal, sous réserve des dispositions prévues aux articles 86,87,88 et au deuxième alinéa de l'article 157 ;
 
 6° Communication audiovisuelle ;
 
@@ -60,6 +60,6 @@ III.-L'Etat exerce également jusqu'à leur transfert à la Nouvelle-Calédonie,
 
 3° Enseignement primaire privé ;
 
-4° Droit civil, règles concernant l'état civil et droit commercial ;
+4° Droit civil, sous réserve des compétences des provinces en matière de chasse et d'environnement, règles concernant l'état civil et droit commercial ;
 
 5° Sécurité civile.

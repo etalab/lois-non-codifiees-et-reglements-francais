@@ -28,7 +28,7 @@ Le gouvernement :
 
 13° Détermine les servitudes administratives au profit du domaine et des ouvrages publics de la Nouvelle-Calédonie ;
 
-14° Assure le placement des fonds libres de la Nouvelle-Calédonie en valeurs d'Etat ou en valeurs garanties par l'Etat et autorise l'émission des emprunts de la Nouvelle-Calédonie ;
+14° Assure le placement des fonds libres de la Nouvelle-Calédonie en valeurs d'Etat ou en valeurs garanties par l'Etat et autorise l'émission des emprunts de la Nouvelle-Calédonie, et prend les décisions de déroger à l'obligation de dépôt des fonds auprès de l'Etat, dans les conditions prévues au II de l'article 52-1 ;
 
 15° Accepte ou refuse les dons et legs au profit de la Nouvelle-Calédonie ;
 

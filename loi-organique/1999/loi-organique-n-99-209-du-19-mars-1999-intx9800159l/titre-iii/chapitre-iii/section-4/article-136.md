@@ -8,4 +8,4 @@ Le président du gouvernement présente chaque année devant le congrès :
 
 Ces rapports sont transmis aux membres du congrès huit jours au moins avant l'ouverture des sessions.
 
-Dix jours au moins avant la séance, sauf en cas d'urgence, le président du gouvernement adresse au président du congrès un rapport sur chacune des affaires qui doivent être examinées par le congrès ainsi que, le cas échéant, les projets de loi du pays ou de délibération correspondants.
+Dix jours au moins avant la séance, sauf en cas d'urgence, le président du gouvernement adresse, le cas échéant par voie électronique, au président du congrès un rapport sur chacune des affaires qui doivent être examinées par le congrès ainsi que, le cas échéant, les projets de loi du pays ou de délibération correspondants.

@@ -22,7 +22,7 @@ La Nouvelle-Calédonie est compétente dans les matières suivantes :
 
 10° Réglementation et exercice des droits d'exploration, d'exploitation, de gestion et de conservation des ressources naturelles, biologiques et non biologiques de la zone économique exclusive ;
 
-11° Réglementation relative aux hydrocarbures, au nickel, au chrome et au cobalt ;
+11° Réglementation relative aux hydrocarbures, au nickel, au chrome, au cobalt et aux éléments des terres rares ;
 
 12° Circulation routière et transports routiers ;
 
@@ -42,7 +42,7 @@ La Nouvelle-Calédonie est compétente dans les matières suivantes :
 
 20° Réglementation des prix et organisation des marchés, sous réserve de la compétence des provinces en matière d'urbanisme commercial ;
 
-21° Principes directeurs du droit de l'urbanisme ; normes de constructions ; cadastre ;
+21° Principes directeurs du droit de l'urbanisme, sous réserve des compétences des provinces en matière d'environnement ; normes de constructions ; cadastre ;
 
 22° Réglementation zoosanitaire et phytosanitaire, abattoirs ;
 

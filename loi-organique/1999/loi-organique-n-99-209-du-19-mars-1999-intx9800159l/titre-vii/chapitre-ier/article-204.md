@@ -6,6 +6,8 @@ La transmission des actes mentionnés au II peut s'effectuer par tout moyen, y c
 
 Pour les décisions individuelles, cette transmission intervient dans un délai de quinze jours à compter de leur signature.
 
+Les actes mentionnés au II peuvent être publiés au Journal officiel de la Nouvelle-Calédonie par voie électronique dans des conditions de nature à garantir leur authenticité.
+
 II. - Sont soumis aux dispositions du I les actes suivants :
 
 A. - Pour le congrès :

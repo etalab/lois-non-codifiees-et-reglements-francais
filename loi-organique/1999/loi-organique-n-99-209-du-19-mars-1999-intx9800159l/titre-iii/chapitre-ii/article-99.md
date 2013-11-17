@@ -12,9 +12,9 @@ Les lois du pays interviennent dans les matières suivantes correspondant aux co
 
 4° Règles relatives à l'accès au travail des étrangers ;
 
-5° Statut civil coutumier, régime des terres coutumières et des palabres coutumiers ; limites des aires coutumières ; modalités de désignation au sénat coutumier et aux conseils coutumiers, sous réserve des dispositions des articles 137, 138 et 138-1;
+5° Statut civil coutumier, régime des terres coutumières et des palabres coutumiers ; limites des aires coutumières ; modalités de désignation au sénat coutumier et aux conseils coutumiers, sous réserve des dispositions des articles 137,138 et 138-1 ;
 
-6° Règles concernant les hydrocarbures, le nickel, le chrome et le cobalt ;
+6° Règles concernant les hydrocarbures, le nickel, le chrome  , le cobalt et les éléments des terres rares ;
 
 7° Règles du droit domanial de la Nouvelle-Calédonie et des provinces, sous réserve des dispositions du 13° de l'article 127 ;
 
@@ -26,4 +26,6 @@ Les lois du pays interviennent dans les matières suivantes correspondant aux co
 
 11° Répartition entre les provinces de la dotation de fonctionnement et de la dotation d'équipement mentionnées aux I et II de l'article 181 ;
 
-12° Compétences transférées et échéancier de ces transferts, dans les conditions prévues à la section 1 du chapitre Ier du titre II.
+12° Compétences transférées et échéancier de ces transferts, dans les conditions prévues à la section 1 du chapitre Ier du titre II ;
+
+13° Création d'autorités administratives indépendantes, en application de l'article 27-1, dans les domaines relevant de sa compétence.
