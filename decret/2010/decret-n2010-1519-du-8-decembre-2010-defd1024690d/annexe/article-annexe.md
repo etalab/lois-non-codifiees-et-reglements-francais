@@ -2,7 +2,7 @@
 
 LISTE DES DONNÉES À CARACTÈRE PERSONNEL ET DES INFORMATIONS
 
-RELATIVES AUX PERSONNELS MILITAIRES ET CIVILS ENREGISTRÉES DANS LE TRAITEMENT  RHAPSODIE
+RELATIVES AUX PERSONNELS MILITAIRES ET CIVILS ENREGISTRÉES DANS LE TRAITEMENT RHAPSODIE
 
 I. - Données relatives à l'identification des personnes
 
@@ -28,7 +28,7 @@ A. ― Identification du personnel
 
 10° Numéros de téléphone et de télécopie.
 
-11° Numéros et dates de validité du ou des passeport(s), de la carte d'identité militaire, de la carte nationale d'identité, des cartes de circulation, de la carte famille militaire, de la carte administrative du conjoint, de la carte  opération extérieure .
+11° Numéros et dates de validité du ou des passeport(s), de la carte d'identité militaire, de la carte nationale d'identité, des cartes de circulation, de la carte famille militaire, de la carte administrative du conjoint, de la carte opération extérieure .
 
 12° Numéro, type et date d'obtention du permis de conduire.
 
@@ -137,6 +137,8 @@ B. ― Carrière
 15° Ancienneté et avancement.
 
 16° Cessation de fonctions.
+
+17° Opérations extérieures.
 
 C. ― Sanctions
 

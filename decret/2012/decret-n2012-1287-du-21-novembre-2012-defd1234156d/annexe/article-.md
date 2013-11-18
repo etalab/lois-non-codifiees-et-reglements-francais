@@ -16,6 +16,8 @@ A. ― Identification de l'agent
 
 5° Adresses privée et professionnelle.
 
+5° bis Photographie d'identité.
+
 6° Courriel.
 
 7° Numéros de téléphone et de télécopie.

@@ -16,4 +16,8 @@ d) Du prélèvement pour les mutuelles des cotisations de leurs adhérents relev
 
 e) Du remboursement des frais engagés en raison de maladies, d'accidents ou de blessures imputables au service ;
 
-2° Les agents dûment habilités de la direction générale des finances publiques, chargés de la liquidation de la paye des agents relevant du ministère de la défense.
+2° Les agents dûment habilités de la direction générale des finances publiques, chargés de la liquidation de la paye des agents relevant du ministère de la défense ;
+
+3° Les agents dûment habilités de la sous-direction de la contre-ingérence et des directions zonales de la direction de la protection et de la sécurité de la défense, dans le cadre de leurs missions d'enquête et de recherche des atteintes à la sécurité nationale ;
+
+4° Les agents dûment habilités de l'Observatoire de la santé des vétérans, dans le cadre de leur mission de veille sanitaire au profit des militaires.

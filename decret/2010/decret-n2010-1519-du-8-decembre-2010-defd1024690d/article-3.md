@@ -22,7 +22,7 @@ de l'annexe au présent décret ;
 
 4° Du service du commissariat des armées, dans le cadre de leurs attributions administratives et logistiques, pour les données mentionnées :
 
-a) Aux 1° à 6° du A du I ;
+a) Aux 1° à 6° et au 8° du A du I ;
 
 b) Au 1° du B du I ;
 
@@ -71,5 +71,29 @@ c) Aux 2° et 3° du A du II ;
 d) Aux 1°, 2°, 4°, 5° et 9° du B du II ;
 
 e) Au 2° du IV,
+
+de l'annexe au présent décret.
+
+8° De la sous-direction de la contre-ingérence et des directions zonales de la direction de la protection et de la sécurité de la défense, dans le cadre de leurs missions d'enquête et de recherche des atteintes à la sécurité nationale, pour les données mentionnées :
+
+a) Aux 1° à 8° du A du I ;
+
+b) Aux 1° à 7° et au 10° du B du I ;
+
+c) Aux 1° à 3°, aux 6° et 7° et au 9° du A du II ;
+
+d) Aux 2° à 4°, au 7°, au 9°, au 13°, au 14° et au 17° du B du II ;
+
+e) Aux 1° à 3° du III,
+
+de l'annexe au présent décret ;
+
+9° De l'Observatoire de la santé des vétérans, dans le cadre de leur mission de veille sanitaire au profit des militaires, pour les données mentionnées :
+
+a) Aux 1° à 4° et aux 6° et 7° du A du I ;
+
+b) Au 3° du A du II ;
+
+c) Au 7° et au 17° du B du II,
 
 de l'annexe au présent décret.
