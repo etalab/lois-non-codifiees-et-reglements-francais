@@ -876,7 +876,6 @@
 - [Arrêté du 23 juillet 2008 (IOCC0818335A)](arrete-du-23-juillet-2008-iocc0818335a)
 - [Arrêté du 23 juillet 2008 (MCCB0817428A)](arrete-du-23-juillet-2008-mccb0817428a)
 - [Arrêté du 23 juillet 2008 (MCCL0818110A)](arrete-du-23-juillet-2008-mccl0818110a)
-- [Arrêté du 23 juillet 2008 (MTSS0818247A)](arrete-du-23-juillet-2008-mtss0818247a)
 - [Arrêté du 23 juin 2008 (DEVA0811297A)](arrete-du-23-juin-2008-deva0811297a)
 - [Arrêté du 23 juin 2008 (DEVA0815016A)](arrete-du-23-juin-2008-deva0815016a)
 - [Arrêté du 23 juin 2008 (ECET0801470A)](arrete-du-23-juin-2008-ecet0801470a)
