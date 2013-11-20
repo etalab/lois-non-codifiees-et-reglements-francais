@@ -1156,6 +1156,8 @@ Forges et chantiers de la Méditerranée/ACHDBAN (atelier chantier du Havre Dubi
 
 Fouré Lagadec, 76600 Le Havre : depuis 1922 à 1993.
 
+Fouré Lagagec, site de Lillebonne ZI de la Darse, 76170 Lillebonne De 1970 à 1993.
+
 GAD SAD (Glacière d'alimentation dieppoise - Société des ateliers Dechamps)/GAD SA/SO.NO.GAD (Société nouvelle du groupement d'ateliers dieppois), cour de Dakar, et 2 bis, rue d'Ecosse, 76200 Dieppe : depuis 1975
 
 GIMT (Générale industrielle maritime et technique), 44, cours Clemenceau, 76100 Rouen : depuis sa création.
