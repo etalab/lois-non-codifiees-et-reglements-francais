@@ -2648,7 +2648,6 @@
 - [Arrêté du 27 décembre 2012 (DEFD1241567A)](arrete-du-27-decembre-2012-defd1241567a)
 - [Arrêté du 27 décembre 2012 (DEVA1236208A)](arrete-du-27-decembre-2012-deva1236208a)
 - [Arrêté du 27 décembre 2012 (DEVR1239626A)](arrete-du-27-decembre-2012-devr1239626a)
-- [Arrêté du 27 décembre 2012 (ETLL1239881A)](arrete-du-27-decembre-2012-etll1239881a)
 - [Arrêté du 27 décembre 2012 (RDFF1238773A)](arrete-du-27-decembre-2012-rdff1238773a)
 - [Arrêté du 27 février 2012 (AGRS1203520A)](arrete-du-27-fevrier-2012-agrs1203520a)
 - [Arrêté du 27 février 2012 (DEFH1204103A)](arrete-du-27-fevrier-2012-defh1204103a)
