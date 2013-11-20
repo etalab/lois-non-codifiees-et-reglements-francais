@@ -3196,7 +3196,6 @@
 - [Arrêté du 31 octobre 2012 (AGRS1238438A)](arrete-du-31-octobre-2012-agrs1238438a)
 - [Arrêté du 31 octobre 2012 (AGRT1235758A)](arrete-du-31-octobre-2012-agrt1235758a)
 - [Arrêté du 31 octobre 2012 (DEFK1238917A)](arrete-du-31-octobre-2012-defk1238917a)
-- [Arrêté du 31 octobre 2012 (DEVA1237895A)](arrete-du-31-octobre-2012-deva1237895a)
 - [Arrêté du 31 octobre 2012 (DEVL1238048A)](arrete-du-31-octobre-2012-devl1238048a)
 - [Arrêté du 31 octobre 2012 (DEVL1238179A)](arrete-du-31-octobre-2012-devl1238179a)
 - [Arrêté du 31 octobre 2012 (DEVR1238556A)](arrete-du-31-octobre-2012-devr1238556a)
