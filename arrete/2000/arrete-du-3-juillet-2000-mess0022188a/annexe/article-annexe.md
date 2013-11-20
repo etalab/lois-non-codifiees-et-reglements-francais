@@ -626,6 +626,8 @@ Carel Fouche Industries, 22, place de Seine, tour Neptune, 92086 Paris-La Défen
 
 CEM Alsthom, 55, avenue Jean-Jaurès, 93350 Le Bourget, de sa création à 1984 ;
 
+Compagnie internationale de chauffage, devenue BAXI France, 157, avenue Charles-Floquet, 93158 Le Blanc-Mesnil : De1983 à 2005 ;
+
 Comptoir des matériaux acoustiques (CMA), rue d'Aguesseau, 92100 Boulogne-sur-Seine : de 1958 à 1982 ;
 
 Copris isolation, rue du Val-de-Richebourg, 95360 Montmagny : de 1964 à 1977 ;
@@ -812,6 +814,8 @@ Le Joint ADJI, boulevard Gambetta, 59200 Tourcoing, puis ZA Les Champs, rue Norb
 
 MAGNESIA, 215 G, route de Saint-Omer, 62100 Calais, de 1933 à 1996 ;
 
+Marichal Ketin, puis Lorraine Ketin, puis Chavanne Ketin, Rue de la Hayzette, 59145 Berlaimont : De 1945 à 1992 ;
+
 Marles Kuhlman, Produits chimiques Ugine Kuhlman (PCUK), Atochem/ICI France SA, 62920 Choques, de 1960 à 1990 ;
 
 Matériel de cuisson Delrue, 103, rue du Levant, 59200 Tourcoing, de 1947 à 1988 ;
@@ -821,6 +825,8 @@ Mineur Becourt, Avenue des bureaux, 59610 Fourmies : de 1912 à 1982 ;
 Mineur Becourt, 10, rue Jean-Jaurès, 59770 Marly : de 1965 à 1990 ;
 
 Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987 ;
+
+Penarroya, puis Metaleurop, puis Metaleurop Nord, 1, avenue Malfidano, BP 1, 62950 Noyelles-Godault : De 1962 à 1996 ;
 
 Ripolin Georget Freitag, puis Ripolin SA, usine de Ruitz, 62620 Barlin : de 1973 à 1981 ;
 
