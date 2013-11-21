@@ -88,8 +88,6 @@ Metz-Nancy-Lorraine.
 
 Nouméa-La Tontouta.
 
-Perpignan-Rivesaltes.
-
 Poitiers-Biard.
 
 Pontoise - Cormeilles-en-Vexin.
@@ -125,6 +123,8 @@ Lyon-Bron.
 Merville-Calonne.
 
 Paris - Issy-les-Moulineaux.
+
+Perpignan-Rivesaltes (à compter du 17 octobre 2013).
 
 Saint-Cyr-l'Ecole.
 
