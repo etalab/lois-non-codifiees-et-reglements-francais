@@ -1040,3 +1040,321 @@ Avec :
 DN : diamètre nominal de la tuyauterie aller.
 
 NE : non existant.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-07
+
+Isolation de points singuliers d'un réseau de chaleur
+
+1. Secteur d'application :
+
+Réseaux de chaleur et sous stations d'échanges existants.
+
+2. Dénomination :
+
+Installation  d'un matelas isolant pour l'isolation de points singuliers (robinets,  vannes, filtres, brides, etc.) existants sur les réseaux de fluides  caloporteurs (sur le circuit primaire ou secondaire du réseau).
+
+3. Conditions pour la délivrance de certificats :
+
+La résistance thermique du matelas est supérieure ou égale à :
+
+1 m ². K/ W, si DN (diamètre nominal en mm de la tuyauterie sur laquelle figure le point singulier) ≤ 50 mm ;
+
+1,2 m ². K/ W, si 65 mm ≤ DN ≤ 125 mm ;
+
+1,5 m ². K/ W, si 150 mm ≤ DN ≤ 350 mm ;
+
+2 m ². K/ W, si DN > 350 mm.
+
+Mise en place réalisée par un professionnel.
+
+La valeur de la résistance thermique est attestée par le professionnel.
+
+Le matelas est souple et démontable.
+
+Doivent être fournis pour chaque demande :
+
+- la référence du matériel et du constructeur ;
+
+- le type de réseau concerné ;
+
+-  la localisation de l'ouvrage concerné (sous-station, chambre de vanne,  segment de canalisation) sous forme d'une adresse ou nom de canalisation  ;
+
+- le nombre de points singuliers isolés et les diamètres associés.
+
+Un  même ouvrage ne peut pas faire l'objet d'une demande de CEE de ce type  plus d'une fois pendant la durée de vie conventionnelle de l'action.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">NOMBRE <br/>de points <br/>singuliers <br/>isolés  </td>
+<td align="center"/>
+<td align="center">DURÉE <br/>annuelle <br/>d'utilisation <br/>du réseau  </td>
+<td align="center">FACTEUR <br/>d'utilisation  </td>
+<td align="center"/>
+<td align="center" colspan="5">MONTANT UNITAIRE EN KWH CUMAC/ POINT SINGULIER  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">12 mois  </td>
+<td align="center">1  </td>
+<td align="center"/>
+<td align="center">DN (*) </td>
+<td align="center"> Vapeur (V) </td>
+<td align="center">ES (HP) </td>
+<td align="center">EAU (BP) </td>
+<td align="center">Retour/ circuit <br/>secondaire (R) </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">11 mois  </td>
+<td align="center">0,92 <br/>
+</td>
+<td align="center"/>
+<td align="center">20 <br/>
+</td>
+<td align="center">18   200  </td>
+<td align="center">11   100  </td>
+<td align="center">5   400  </td>
+<td align="center">3   500  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">10 mois  </td>
+<td align="center">0,83 <br/>
+</td>
+<td align="center"/>
+<td align="center">25 <br/>
+</td>
+<td align="center">21   600  </td>
+<td align="center">13   100  </td>
+<td align="center">6   400  </td>
+<td align="center">4   200  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">9 mois  </td>
+<td align="center">0,75 <br/>
+</td>
+<td align="center"/>
+<td align="center">32 <br/>
+</td>
+<td align="center">28   900  </td>
+<td align="center"> 17   500 </td>
+<td align="center">8   600  </td>
+<td align="center"> 5   600 </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">8 mois  </td>
+<td align="center">0,67 <br/>
+</td>
+<td align="center"/>
+<td align="center">40 <br/>
+</td>
+<td align="center">35   800  </td>
+<td align="center">21   700  </td>
+<td align="center">10   600  </td>
+<td align="center">6   900  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 7 mois </td>
+<td align="center">0,58 <br/>
+</td>
+<td align="center"/>
+<td align="center">50 <br/>
+</td>
+<td align="center">41   900  </td>
+<td align="center">25   300  </td>
+<td align="center">12   300  </td>
+<td align="center">8   000  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">6 mois  </td>
+<td align="center">0,5 <br/>
+</td>
+<td align="center"/>
+<td align="center">65 <br/>
+</td>
+<td align="center">50   700  </td>
+<td align="center">30   500  </td>
+<td align="center">14   800  </td>
+<td align="center">9   700  </td>
+</tr>
+<tr>
+<td align="center">N <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">x <br/>
+</td>
+<td align="center">80 <br/>
+</td>
+<td align="center">61   900  </td>
+<td align="center">37   200  </td>
+<td align="center">18   000  </td>
+<td align="center">11   800 </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">100 <br/>
+</td>
+<td align="center">82   200  </td>
+<td align="center">49   400  </td>
+<td align="center">23   900  </td>
+<td align="center">15   600  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">125 <br/>
+</td>
+<td align="center">100   200  </td>
+<td align="center">60   000  </td>
+<td align="center">29   000  </td>
+<td align="center">19   000  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">150 <br/>
+</td>
+<td align="center">137   100  </td>
+<td align="center">82   100  </td>
+<td align="center">39   600  </td>
+<td align="center">25   900  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">175 <br/>
+</td>
+<td align="center">183   000  </td>
+<td align="center">109   300  </td>
+<td align="center">52   800  </td>
+<td align="center">34   400  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">200 <br/>
+</td>
+<td align="center">232   200 </td>
+<td align="center">138   600  </td>
+<td align="center">66   900  </td>
+<td align="center"> 43   600 </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">250 <br/>
+</td>
+<td align="center">269   100  </td>
+<td align="center"> 160   300 </td>
+<td align="center">77   200  </td>
+<td align="center">50   400  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">300 <br/>
+</td>
+<td align="center">350   300  </td>
+<td align="center"> 208   500 </td>
+<td align="center">100   300  </td>
+<td align="center">65   400  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">350 <br/>
+</td>
+<td align="center">382   500  </td>
+<td align="center"> 227   300 </td>
+<td align="center">109   300  </td>
+<td align="center"> 71   300 </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">400 <br/>
+</td>
+<td align="center"> 475   000 </td>
+<td align="center">282   000  </td>
+<td align="center">135   500  </td>
+<td align="center">88   400  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">450 <br/>
+</td>
+<td align="center">543   700  </td>
+<td align="center">322   500  </td>
+<td align="center">154   800  </td>
+<td align="center">101   000  </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">500 <br/>
+</td>
+<td align="center">622   000  </td>
+<td align="center">368   700  </td>
+<td align="center">176   900  </td>
+<td align="center">115   400  </td>
+</tr>
+</tbody>
+</table>
+
+(*) DN est le diamètre nominal en mm de la tuyauterie sur laquelle figure le point singulier.

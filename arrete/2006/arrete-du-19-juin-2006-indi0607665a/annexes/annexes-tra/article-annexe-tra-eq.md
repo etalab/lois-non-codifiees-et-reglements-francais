@@ -1,10 +1,12 @@
 # Article Annexe TRA-EQ
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° TRA-EQ-01
 
-Unité de transport intermodal (UTI)
+Unité de transport intermodal
+
+pour le transport combiné rail-route
 
 1. Secteur d'application :
 
@@ -12,25 +14,46 @@ Transport combiné rail-route appliqué au transport interurbain de marchandises
 
 2. Dénomination :
 
-Acquisition   d'une unité de transport intermodal (UTI) neuve (caisse mobile ou   semi-remorque à prise par pinces) dédiée au transport combiné rail-route   (container maritime de type ISO exclu).
+Acquisition  (achat ou location) d'une unité de transport intermodal (UTI) neuve  (caisse mobile ou semi-remorque à prise par pinces) dédiée au transport  combiné rail-route (container maritime de type ISO exclu).
 
 3. Conditions pour la délivrance de certificats :
 
 Codification de l'UTI effectuée par un opérateur de transport combiné rail-route.
 
-Les voyages doivent se faire au départ ou à l'arrivée d'au moins un chantier de transport combiné localisé en France.
+Les voyages s'effectuent au départ ou à l'arrivée d'au moins un chantier de transport combiné localisé en France.
 
-Relevé   de trafic donnant le nombre de voyages réalisés en France par l'UTI   concernée, sur une période d'essai de 12 mois consécutifs, à réaliser   avant le dépôt de dossier de demande de CEE.
+Le demandeur présente :
 
-4. Durée de vie conventionnelle :
+-  un relevé de trafic donnant le nombre de voyages réalisés en France par  l'UTI concernée, sur une période d'essai de douze mois consécutifs, à  réaliser avant le dépôt de dossier de demande de CEE ;
 
-12 ans.
+- dans le cas d'un achat : la facture d'achat ou tout autre document équivalent ;
+
+- dans le cas d'une location :
+
+-  le contrat de location d'une durée supérieure à vingt-quatre mois  identifiant l'UTI par son numéro de série ou sa codification. Si le  contrat ne précise pas cette information, une attestation sur l'honneur  du constructeur peut être fournie ;
+
+- la justification que le  matériel loué est neuf : la copie du contrat de location spécifiant que  le produit est neuf ou la facture d'achat, datant de moins d'un an,  fournie par le loueur de l'UTI qui est louée au bénéficiaire.
+
+4. Durée de vie conventionnelle : 12 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
+<table>
+<tbody>
+<tr>
+<td align="center">LONGUEUR DE L'UTI  </td>
+<td align="center">MONTANT <br/>(en kWh cumac/ voyage) </td>
+</tr>
+<tr>
+<td align="center"> ≥ 9 m</td>
+<td align="center"> 16   000 </td>
+</tr>
+<tr>
+<td align="center"> &lt; 9 m</td>
+<td align="center">8   000  </td>
+</tr>
+</tbody>
+</table>
 
 <div align="left">Certificats d'économies d'énergie</div>
 
@@ -275,53 +298,59 @@ Le  demandeur apporte des éléments justifiant le kilométrage annuel moyen  pa
 </tbody>
 </table>
 
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="left"> Certificats d'économies d'énergie</div>
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° TRA-EQ-07
 
-Unité de transport intermodal pour le transport combiné fleuve-route
+Unité de transport intermodal
 
-1. Secteur d'application
+pour le transport combiné fleuve-route
+
+1. Secteur d'application :
 
 Transport combiné fluvial-route appliqué au transport de marchandises.
 
-2. Dénomination
+2. Dénomination :
 
-Acquisition  d'une unité de transport intermodal (UTI) neuve de toute taille dédiée  au transport combiné fluvial-route, hors conteneur maritime de type ISO.
+Acquisition  (achat ou location) d'une unité de transport intermodal (UTI) neuve de  toute taille dédiée au transport combiné fluvial-route, hors conteneur  maritime de type ISO.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance des certificats :
 
-Le demandeur fournit à l'administration les éléments suivants :
+Le demandeur présente :
 
-- 	une copie des factures définitives d'acquisition des UTI et une copie  de leur codification, effectuée par un opérateur de transport combiné ;
+-  dans le cas d'un achat : une copie des factures définitives  d'acquisition des UTI ou tout autre document équivalent et une copie de  leur codification, effectuée par un opérateur de transport combiné ;
 
-- 	un relevé de trafic, à réaliser avant le dépôt de dossier de demande de  CEE, mentionnant le nombre de voyages effectués sur 6 mois consécutifs  pour l'UTI achetée. Le relevé de trafic est certifié conforme par Voies  Navigables de France. Les voyages doivent être réalisés sur le  territoire français.
+- dans le cas d'une location :
 
-4. Durée de vie conventionnelle
+1.  Le contrat de location d'une durée supérieure à vingt-quatre mois  identifiant l'UTI par son numéro de série ou sa codification. Si le  contrat ne précise pas cette information, une attestation sur l'honneur  du constructeur peut être fournie ;
 
-12 ans.
+2. La justification que le  matériel loué est neuf : la copie du contrat de location spécifiant que  le produit est neuf ou la facture d'achat, datant de moins d'un an,  fournie par le loueur de l'UTI qui est louée au bénéficiaire ;
 
-<div align="center"/>
-<div align="left">5. Montant de certificats en kWh cumac</div>
+-  un relevé de trafic à réaliser avant le dépôt de dossier de demande de  CEE, mentionnant le nombre de voyages effectués sur six mois consécutifs  pour l'UTI achetée. Le relevé de trafic est certifié conforme par Voies  navigables de France. Les voyages sont réalisés sur le territoire  français.
 
-Ga x V
+4. Durée de vie conventionnelle : 12 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Ga × V
 
 avec :
 
-Ga = gain net actualisé du transport combiné en kWh cumac pour une UTI
+Ga = gain net actualisé en kWh cumac pour une UTI.
 
 <table>
 <tbody>
 <tr>
-<td align="left">Ga </td>
-<td align="center"> Seine</td>
-<td align="center">Rhône </td>
-<td align="center">Nord Pas-de-Calais </td>
-<td align="center"> Rhin/Moselle</td>
-<td align="center">Interbassin </td>
+<td align="left">
+<div align="center">GAIN NET ACTUALISÉ DU TRANSPORT COMBINÉ <br/>
+</div>
+<div align="center">(en kWh cumac [Ga]) </div>
+</td>
+<td align="center"> SEINE </td>
+<td align="center">RHÔNE </td>
+<td align="center">NORD-PAS-DE-CALAIS  </td>
+<td align="center"> RHIN/ MOSELLE </td>
+<td align="center">INTERBASSIN </td>
 </tr>
 <tr>
 <td align="left">Bateau DEK (1 000 t) </td>
@@ -358,11 +387,9 @@ Ga = gain net actualisé du transport combiné en kWh cumac pour une UTI
 <td align="center">7 300 </td>
 </tr>
 </tbody>
-</table>
+</table>V  = nombre de voyages relevés sur six mois sur l'UTI achetée × 2 = nombre  de voyages par an réalisés par UTI en transport combiné fluvial-route.
 
-V  = nombre de voyages relevés sur 6 mois sur l'UTI achetée x 2 (= nombre  de voyages par an réalisés par UTI en transport combiné fluvial-route)
-
-On considère que le trafic réalisé par les UTI sur 6 mois consécutifs est maintenu en moyenne sur la durée de vie des matériels.
+Il  est considéré que le trafic réalisé par les UTI sur six mois  consécutifs est maintenu en moyenne sur la durée de vie des matériels.
 
 Certificats d'économies d'énergie
 
@@ -902,11 +929,11 @@ C'est le chiffre indiqué dans la case jaune qu'il faut prendre en compte pour l
 </tbody>
 </table>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° TRA-EQ-15
 
-Tracteur routier optimisé
+Poids lourd optimisé supérieur à 40 tonnes
 
 1. Secteur d'application :
 
@@ -914,27 +941,31 @@ Transport routier professionnel.
 
 2. Dénomination :
 
-Remplacement  d'un tracteur routier pour véhicule articulé existant par un tracteur  routier pour véhicule articulé neuf optimisé (le tracteur optimisé doit  avoir un poids total roulant autorisé supérieur à 40 tonnes).
+Remplacement  (achat ou location) d'un poids lourd routier existant par un poids  lourd routier neuf optimisé (le poids lourd optimisé doit avoir un poids  total roulant autorisé supérieur à 40 tonnes).
 
 3. Conditions pour la délivrance de certificats :
 
-Le  tracteur routier neuf optimisé respecte les normes environnementales en  vigueur, à savoir Euro 5, et comporte les trois technologies suivantes :
+Le  poids lourd routier neuf optimisé respecte les normes environnementales  en vigueur et comporte les trois technologies suivantes :
 
 - boîte de vitesse robotisée ;
 
-- équipements pour l'aérodynamisme : déflecteur toit, carénage latéral de l'interface et carénage latéral du châssis tracteur ;
+- équipements pour l'aérodynamisme : déflecteur toit et carénage latéral de l'interface ;
 
 -  pneus basse résistance au roulement : ils doivent avoir une  classification énergétique au moins égale à C ainsi qu'une  classification en adhérence sur sol mouillé au moins égale à C  (classification au sens du règlement européen n° 1222/2009).
 
+Ces conditions sont détaillées dans la facture d'achat du poids lourd ou dans une documentation technique ou commerciale.
+
 Le demandeur présente :
 
--  la facture d'achat du tracteur routier optimisé indiquant et détaillant  les trois technologies demandées (pneus basse résistance au roulement  de classification énergétique au moins égale à C ainsi qu'une  classification en adhérence sur sol mouillé au moins égale à C ; pack  aérodynamisme précisant les équipements installés qui sont au minimum :  déflecteur de toit, carénage latéral de l'interface et carénage latéral  du châssis tracteur ; boîte de vitesse robotisée) ;
+- dans le cas d'un achat : la facture d'achat ou tout autre document équivalent ;
 
-- une copie de sa nouvelle carte grise ;
+-  dans le cas d'une location : le contrat de location d'une durée  supérieure ou égale à vingt-quatre mois du poids lourd routier optimisé  indiquant et détaillant les trois technologies demandées (étiquette  énergétique du pneu respectant le règlement européen n° 1222/2009 ; pack  aérodynamisme précisant les équipements installés qui sont au minimum :  déflecteur de toit et carénage latéral de l'interface ; boîte de  vitesse robotisée). Si le contrat de location ne décrit pas les produits  exigés par la fiche, une attestation du constructeur ou une  documentation technique/ commerciale sur le modèle de véhicule mentionné  dans le contrat sont acceptables ;
 
--  une copie de la carte grise barrée du tracteur routier remplacé et si  celui-ci a une date de première mise en circulation antérieure au 1er  janvier 1996, l'attestation de mise à la casse du véhicule.
+- la justification que le  matériel loué est neuf : la copie du contrat de location spécifiant que  le poids lourd est neuf ou la facture d'achat, datant de moins d'un an,  fournie par le loueur du poids lourd qui est loué au bénéficiaire ;
 
-Valable pour les opérations engagées jusqu'au 30 décembre 2013 (la veille de la mise en place d'Euro 6).
+- une copie du nouveau certificat d'immatriculation ;
+
+-  une copie du certificat d'immatriculation barrée ou tout document  équivalent du poids lourd routier remplacé et, si celui-ci a une date de  première mise en circulation antérieure au 1er janvier 1996,  l'attestation de mise à la casse du véhicule.
 
 4. Durée de vie conventionnelle : 10 ans.
 
@@ -943,14 +974,14 @@ Valable pour les opérations engagées jusqu'au 30 décembre 2013 (la veille de 
 <table>
 <tbody>
 <tr>
-<td align="center">ANNÉE DE MISE EN CIRCULATION <br/>du tracteur routier existant  </td>
-<td align="center">MONTANT <br/>en kWh cumac/ tracteur routier  </td>
+<td align="center">ANNÉE DE MISE EN CIRCULATION <br/>du poids lourd routier existant </td>
+<td align="center">MONTANT <br/>(en kWh cumac/ poids lourd routier)  </td>
 <td align="center"/>
-<td align="center">NOMBRE DE TRACTEURS ROUTIERS <br/>existants remplacés <br/>
+<td align="center">NOMBRE DE POIDS LOURDS ROUTIERS <br/>existants remplacés <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Jusqu'à 1992  </td>
+<td align="center">Jusqu'en 1992 </td>
 <td align="center">850   000  </td>
 <td align="center"/>
 <td align="center"/>
@@ -1368,9 +1399,190 @@ C'est le chiffre indiqué dans la case jaune qu'il faut prendre en compte pour l
 </tr>
 </tbody>
 </table>
+<div/>
+<div/>
 <div>
 <br/>
 </div>
+<div>Certificats d'économies d'énergie </div>
+
+Opération n° TRA-EQ-18
+
+Lubrifiant économiseur d'énergie
+
+pour la pêche professionnelle
+
+1. Secteur d'application :
+
+Pêche professionnelle.
+
+2. Dénomination :
+
+Utilisation d'un lubrifiant économiseur d'énergie.
+
+3. Conditions pour la délivrance de certificats :
+
+Les  performances en économie de carburant du lubrifiant (ou gain de  consommation du lubrifiant en % doivent avoir été mesurées par rapport à  un lubrifiant standard. Cette performance (Y %) est calculée et  justifiée par un test validé par un expert maritime selon le protocole  défini par l'ADEME. L'expert maritime doit être référencé dans  l'annuaire de l'Union professionnelle des experts maritimes, du CESAM ou  bien dans la liste d'experts indépendants élaborée par le Conseil  d'orientation de la recherche et de l'innovation pour la construction et  les activités navales (CORICAN).
+
+Sont éligibles les navires de pêche maritime professionnelle dont lalongueur hors tout est strictement supérieure à 6 mètres.
+
+Le demandeur doit fournir :
+
+-  une attestation sur l'honneur du responsable de l'approvisionnement en  carburant (par exemple coopérative, armateur, patron du navire...) afin  de s'assurer que cet approvisionnement se fait à plus de 50 % en France  métropolitaine et/ ou dans les DOM ;
+
+- une copie de l'acte de  francisation du navire de pêche maritime professionnelle afin de  justifier qu'il est immatriculé sous pavillon français ;
+
+- un  relevé annuel (12 mois consécutifs) des volumes de lubrifiants  économiseurs de carburant utilisés établi par le bénéficiaire. Ce relevé  mentionnera l'identité (nom et numéro d'immatriculation) des navires  utilisateurs avec leurs caractéristiques propres (type de pêche et  classe de longueur) et les volumes de lubrifiants consommés annuellement  pour chacun d'eux et le nom du lubrifiant ;
+
+- une attestation de  l'expert maritime validant la valeur du gain obtenu en utilisant le  lubrifiant désigné dans le relevé annuel ;
+
+- les factures d'achat/ de vente ou tout document équivalent (bon de livraison...) des lubrifiants utilisés.
+
+Une opération peut viser plusieurs navires à condition que le même type de lubrifiant soit utilisé.
+
+4. Durée de vie conventionnelle : 1 an.
+
+5. Montant de certificats en kWh cumac :
+
+Avec :
+
+Gi = gain en kWh par m ³ par catégorie (cf. tableau ci-dessous) pour chacun des navires.
+
+Xi = volumes de lubrifiants économiseurs de carburant en m ³ pour chacun des navires
+
+Y = gain de consommation du lubrifiant (en %).
+
+Le gain G en kWh cumac/ m ³/ navire pour 1 % d'économie d'énergie est mentionné dans le tableau suivant :
+
+<table>
+<tbody>
+<tr>
+<td align="center">FAÇADE MARITIME  </td>
+<td align="center" colspan="2">MANCHE  </td>
+<td align="center" colspan="2"> ATLANTIQUE </td>
+<td align="center" colspan="2">MÉDITERRANÉE  </td>
+<td align="center" colspan="2">DOM-TOM  </td>
+</tr>
+<tr>
+<td align="center">Taille des navires  </td>
+<td align="center">Arts <br/>trainants  </td>
+<td align="center"> Arts <br/>dormants </td>
+<td align="center">Arts <br/>trainants <br/>
+</td>
+<td align="center"> Arts <br/>dormants <br/>
+</td>
+<td align="center">Arts <br/>trainants <br/>
+</td>
+<td align="center"> Arts <br/>dormants <br/>
+</td>
+<td align="center">Arts <br/>trainants <br/>
+</td>
+<td align="center"> Arts <br/>dormants <br/>
+</td>
+</tr>
+<tr>
+<td align="center">&lt; 12 mètres  </td>
+<td align="center"> 10   425 </td>
+<td align="center">4   680  </td>
+<td align="center">13   119  </td>
+<td align="center">3   861  </td>
+<td align="center">7   655  </td>
+<td align="center"> 1   102 </td>
+<td align="center"> 11   628 </td>
+<td align="center"> 2   719 </td>
+</tr>
+<tr>
+<td align="center"> [12 - 16 mètres [</td>
+<td align="center"> 12   753 </td>
+<td align="center">6   174  </td>
+<td align="center">14   397  </td>
+<td align="center">6   314 <br/>
+</td>
+<td align="center">13   625  </td>
+<td align="center">6   267  </td>
+<td align="center"/>
+<td align="center">6   267  </td>
+</tr>
+<tr>
+<td align="center">[16 - 20 mètres [ </td>
+<td align="center"> 14   137 </td>
+<td align="center"> 5   876 </td>
+<td align="center">19   040  </td>
+<td align="center">6   285  </td>
+<td align="center">19   634  </td>
+<td align="center">3   691  </td>
+<td align="center">17   918  </td>
+<td align="center"> 5   953 </td>
+</tr>
+<tr>
+<td align="center">[20 - 24 mètres [ </td>
+<td align="center">20   918  </td>
+<td align="center"> 6   004 </td>
+<td align="center">19   456  </td>
+<td align="center"> 6   587 </td>
+<td align="center">14   056  </td>
+<td align="center">6   363  </td>
+<td align="center">19   395  </td>
+<td align="center">6   363  </td>
+</tr>
+<tr>
+<td align="center">≥ 24 mètres  </td>
+<td align="center">24   439  </td>
+<td align="center"/>
+<td align="center">30   399  </td>
+<td align="center">8   087  </td>
+<td align="center">17   346  </td>
+<td align="center">6   663  </td>
+<td align="center">23   559  </td>
+<td align="center">7   237  </td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-EQ-19
+
+Optimisation de la combustion
+
+et de la propreté des moteurs Diesel
+
+1. Secteur d'application :
+
+Transport  routier professionnel : véhicules de transport en commun de personnes  de catégories M2 ou M3, véhicules de transport de marchandises de  catégories N2 ou N3 et véhicules remorqués de catégories O3 et O4.
+
+2. Dénomination :
+
+Utilisation  d'un auxiliaire pour optimiser la combustion et le maintien de la  propreté des circuits d'alimentation, d'injection et des chambres de  combustion des moteurs Diesel.
+
+3. Conditions pour la délivrance de certificats :
+
+La  solution de traitement a un gain de consommation de carburant validé  par un programme d'essai réalisé sous contrôle UTAC-CERAM ou par un  laboratoire agréé équivalent, selon un cycle de conduite  60NERV  mis au  point par l'INRETS ou équivalent. Ce gain (Y) est mesuré en pourcentage  et est supérieur ou égal à 3 %.
+
+La mise en œuvre de l'additif ne conduit pas à une augmentation des émissions polluantes (CO, HC, NOx et particules).
+
+Le demandeur établit le montant des volumes d'auxiliaire de combustion utilisé annuellement.
+
+4. Durée de vie conventionnelle : 1 an.
+
+5. Montant de certificats en kWh cumac :
+
+10   000 × (X/ Z) × Y
+
+Avec :
+
+X = volume de la solution de traitement utilisée annuellement (m3) ;
+
+Y = gain de consommation associé à l'utilisation de l'auxiliaire de combustion (%) ;
+
+Z  = concentration de la solution de traitement utilisée figurant sur les  bordereaux de livraison (nombre de litres de la solution de traitement/  nombre de litres de gazole traités).
+
+<div>
+<br/>
+</div>
+<div/>
+<div/>
+<div/>
 <div/>
 <div/>
 <div/>

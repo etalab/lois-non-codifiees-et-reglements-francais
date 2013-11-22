@@ -276,3 +276,134 @@ Les lampes à LED mises en place respectent les critères suivants :
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-EQ-08
+
+Lampe de classe A
+
+(France d'outre-mer)
+
+1. Secteur d'application :
+
+Bâtiments résidentiels neufs ou existants en France d'outre-mer.
+
+2. Dénomination :
+
+Mise  en place d'une lampe de classe A au sens du règlement n° 244/2009 de  mise en application de la directive 2009/125/ CE du 21 octobre 2009  établissant un cadre pour la fixation d'exigences en matière  d'écoconception applicables aux produits liés à l'énergie.
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+110 kWh cumac par lampe installée
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-EQ-09
+
+Appareil de froid domestique performant
+
+(France d'outre-mer)
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants en France d'outre-mer.
+
+2. Dénomination :
+
+Mise  en place d'un appareil de froid domestique de classe A + + ou A + + +  au sens du règlement n° 643/2009 de mise en application de la directive  2009/125/ CE du 21 octobre 2009 établissant un cadre pour la fixation  d'exigences en matière d'écoconception applicables aux produits liés à  l'énergie.
+
+3. Conditions pour la délivrance de certificats :
+
+Le volume de l'appareil est limité à 350 litres.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">TYPE D'APPAREIL  </td>
+<td align="center">APPAREIL <br/>de classe A + + </td>
+<td align="center">APPAREIL <br/>de classe A + + + </td>
+</tr>
+<tr>
+<td align="center">Réfrigérateur  </td>
+<td align="center">2   700  </td>
+<td align="center">3   500  </td>
+</tr>
+<tr>
+<td align="center">Congélateur  </td>
+<td align="center">3   900 <br/>
+</td>
+<td align="center">4   600  </td>
+</tr>
+<tr>
+<td align="center">Combiné  </td>
+<td align="center">3   900  </td>
+<td align="center">4   900  </td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-EQ-10
+
+Luminaire LED avec dispositif de contrôle
+
+pour les parties communes
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants.
+
+2. Dénomination :
+
+Mise en place d'un luminaire LED avec dispositif de contrôle dans les parties communes.
+
+3. Conditions pour la délivrance de certificats :
+
+Les luminaires LED mis en place respectent les critères suivants :
+
+- luminaire à répartition directe ou directe-indirecte du flux lumineux ;
+
+- indice de rendu des couleurs (IRC ou RA) ≥ 80 ;
+
+- durée de vie (à 30 % de chute de flux lumineux) ≥ 40 000 heures ;
+
+- efficacité lumineuse ≥ 70 lumens/ W ;
+
+-  dispositif de contrôle intégré ou non au luminaire : détection de  présence/ mouvement (ou minuterie) ou détection de niveau d'éclairement.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center">LUMINAIRE LED AVEC DÉTECTION DE <br/>présence/ mouvement (ou minuterie) <br/>ou détection du niveau d'éclairement  </td>
+<td align="center">LUMINAIRE LED AVEC DÉTECTION DE <br/>présence/ mouvement (ou minuterie) <br/>et détection du niveau d'éclairement  </td>
+<td align="center"/>
+<td align="center">NOMBRE DE LUMINAIRES INSTALLÉS  </td>
+</tr>
+<tr>
+<td align="center">1 770 <br/>
+</td>
+<td align="center">2 070 <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center">N <br/>
+</td>
+</tr>
+</tbody>
+</table>
