@@ -460,7 +460,6 @@
 - [Arrêté du 7 décembre 2010 (BCRP1028614A)](arrete-du-7-decembre-2010-bcrp1028614a)
 - [Arrêté du 7 décembre 2010 (BCRS1031672A)](arrete-du-7-decembre-2010-bcrs1031672a)
 - [Arrêté du 7 décembre 2010 (DEFM1032036A)](arrete-du-7-decembre-2010-defm1032036a)
-- [Arrêté du 7 décembre 2010 (DEVK1030561A)](arrete-du-7-decembre-2010-devk1030561a)
 - [Arrêté du 7 décembre 2010 (DEVL1030796A)](arrete-du-7-decembre-2010-devl1030796a)
 - [Arrêté du 7 décembre 2010 (ETSD1031404A)](arrete-du-7-decembre-2010-etsd1031404a)
 - [Arrêté du 7 décembre 2010 (ETSD1031535A)](arrete-du-7-decembre-2010-etsd1031535a)
