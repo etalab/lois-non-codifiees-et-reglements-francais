@@ -50,7 +50,6 @@
 - [Décret n°86-323 du 6 mars 1986](decret-n86-323-du-6-mars-1986)
 - [Décret n°86-324 du 6 mars 1986](decret-n86-324-du-6-mars-1986)
 - [Décret n°86-349 du 6 mars 1986](decret-n86-349-du-6-mars-1986)
-- [Décret n°86-351 du 6 mars 1986](decret-n86-351-du-6-mars-1986)
 - [Décret n°86-941 du 6 août 1986](decret-n86-941-du-6-aout-1986)
 - [Décret n°86-947 du 6 août 1986](decret-n86-947-du-6-aout-1986)
 - [Décret n°86-955 du 6 août 1986](decret-n86-955-du-6-aout-1986)
