@@ -1,12 +1,10 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
-INFORMATION REQUISE POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel d'agent(e) d'hôtellerie.
+Intitulé : agent (e) d'hôtellerie.
 
 Niveau : V.
 
@@ -14,67 +12,85 @@ Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-L'agent(e) d'hôtellerie effectue les tâches d'entretien quotidien au service d'étage des clients d'un établissement hôtelier ou para-hôtelier : entretien des chambres, prise en charge de l'entretien du linge. Il (elle) prépare et sert également les petits déjeuners en salle et à l'étage.
+Dans le cadre des standards de qualité définis par l'établissement et à partir des consignes de sa hiérarchie, l'agent (e) d'hôtellerie effectue l'entretien des chambres, des parties communes et des locaux de service. Il (elle) choisit les produits et matériels d'entretien nécessaires à sa prestation. Il (elle) assure la réfection des lits, le changement des draps et du linge de toilette, nettoie, détartre, désinfecte les salles de bain et les sanitaires et vérifie le fonctionnement des équipements. Il (elle) met en œuvre les techniques et méthodes appropriées au nettoyage des différentes surfaces et réapprovisionne les locaux en consommables. Il (elle) compte et trie le linge sale, réceptionne et distribue le linge propre et peut assurer le suivi du service blanchisserie pour la clientèle.
 
-L'agent(e) d'hôtellerie reçoit des indications écrites ou orales de sa hiérarchie et doit les respecter. Il (elle) est tenu(e) de suivre des consignes de sécurité, d'hygiène et d'organisation du travail rigoureuses.
+Selon l'organisation des services de l'établissement, l'agent (e) d'hôtellerie peut également être affectée au service du petit déjeuner. Il (elle) met en place la salle petit déjeuner, dresse le buffet et prépare des plateaux de petit déjeuner en chambre à partir d'une commande préalable. Il (elle) accueille et renseigne la clientèle, veille à l'approvisionnement du buffet, débarrasse et redresse les tables ou monte le petit déjeuner en chambre. En fin de service, il (elle) nettoie et range le mobilier, le matériel et les machines, s'assure du stockage des denrées dans le respect de la réglementation en vigueur.
 
-Appelé(e) à entrer en contact avec la clientèle pour l'exercice de ses activités, il est requis de sa part une présentation et un comportement adaptés, notamment de discrétion. Il (elle) peut également avoir à s'exprimer dans un anglais professionnel très simple lors des contacts avec la clientèle étrangère.
+L'agent (e) d'hôtellerie travaille au service des étages d'un établissement hôtelier ou d'un établissement d'hébergement parahôtelier dans le cadre d'une prestation externalisée ou non.
 
-Il (elle) travaille seul(e) ou en équipe, selon la capacité de l'établissement ou la catégorie de l'hôtel. Il (elle) utilise du matériel et des produits professionnels.
+Il (elle) travaille seul (e) ou en équipe, sous la responsabilité et la supervision de sa hiérarchie. Il (elle) organise son travail en fonction du temps imparti à partir des consignes transmises par écrit ou oralement. L'agent (e) d'hôtellerie assure ses interventions de manière à limiter la gêne occasionnée à la clientèle et dans le respect des règles de la discrétion professionnelle. Il peut être amené (e) à réaliser le nettoyage mécanisé des sols et à manipuler des charges dans le respect des gestes et postures adaptés.
 
-Le travail requiert une bonne condition physique.
+L'emploi exige une station debout prolongée avec un rythme de travail soutenu et des pics d'activité. Les horaires sont continus ou en coupure avec une amplitude hebdomadaire englobant les week-ends et les jours fériés. Il (elle) respecte les mesures définies par la hiérarchie pour l'application de la politique de responsabilité sociétale de l'entreprise (RSE).
 
-Les horaires de travail sont souvent concentrés sur la matinée et s'effectuent par roulement les fins de semaine et les jours fériés.
+Capacités attestées et descriptif des composantes de la certification
 
-Le contrat de travail peut être un emploi saisonnier.
+1. Entretenir les chambres des clients, les parties communes
 
-L'agent(e) d'hôtellerie peut être spécialisé(e) en outre sur l'entretien des locaux communs en établissement hôtelier ou para-hôtelier.
+et les locaux de service d'un établissement hôtelier ou parahôtelier
 
-Capacités attestées et descriptif
+Entretenir quotidiennement les chambres, les salles de bain et les sanitaires des clients.
 
-des composantes de la certification
+Prendre en charge le linge du service des étages et le linge client.
 
-1. Effectuer les opérations d'entretien au service
+Entretenir les parties communes de l'établissement dédiées à la clientèle et les locaux à usage du service des étages.
 
-des étages d'un établissement hôtelier ou para-hôtelier
+2. Mettre en place et assurer le suivi du petit déjeuner
 
-Entretenir les chambres et les sanitaires en milieu hôtelier.
+d'un établissement hôtelier ou parahôtelier
 
-Prendre en charge l'entretien courant du linge à l'hôtel.
+Réaliser les travaux préalables au service du petit déjeuner.
 
-Répondre aux demandes des clients, le cas échéant en anglais, en milieu hôtelier.
+Assurer le suivi du service du petit déjeuner.
 
-2. Effectuer le service des petits déjeuners
+Réaliser les travaux de fin de service du petit déjeuner.
 
-d'un établissement hôtelier ou para-hôtelier
+Compétences transversales de l'emploi (le cas échéant)
 
-Entretenir les locaux, mobiliers et matériels mis à disposition pour le service des petits déjeuners.
+Communiquer avec la hiérarchie, les collaborateurs et la clientèle de l'établissement.
 
-Mettre en place la salle, le buffet et les petits déjeuners à l'étage.
+Organiser et préparer les éléments nécessaires à la réalisation des travaux au service des étages.
 
-Prendre la commande et servir le petit déjeuner en chambre et en salle.
+Appliquer les règles d'hygiène, de sécurité et de protection de la santé au travail dans la réalisation des travaux au service des étages.
 
-Vérifier, présenter et encaisser la note de petit déjeuner des clients.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Certificat complémentaire de spécialisation
+Les différents secteurs d'activités concernés sont principalement :
 
-Entretenir les locaux communs en établissement hôtelier ou para-hôtelier.
+-hôtels et résidences de tourisme ;
 
-Entretenir quotidiennement les locaux communs et les bureaux.
+-hôtels non classés ;
 
-Effectuer avec des moyens mécanisés l'entretien approfondi des locaux communs et des bureaux.
+-résidences hôtelières ;
 
-Secteur d'activité ou type d'emploi
+-villages vacances ;
 
-accessible par le détenteur du titre
+-maisons de retraite ;
 
-L'agent(e) d'hôtellerie est plus communément appelé(e) valet, femme de chambre, lingère ou équipier(ère).
+-maisons de repos ;
 
-L'emploi s'exerce principalement en hôtellerie traditionnelle dans des établissements de toutes catégories (0 à 4 étoiles luxe), dans des résidences de tourisme (villages de vacances, résidences hôtelières...). Il peut également s'exercer dans des établissements para-hôteliers (maisons de retraite, maisons de repos...).
+-hôtellerie de plein air ;
 
-Code ROME :
+-parcs résidentiels de loisirs ;
 
-13111 - Employé(e) d'étage.
+-gîtes et chambres d'hôtes.
+
+Les types d'emplois accessibles sont les suivants :
+
+-femme de chambre ;
+
+-valet de chambre ;
+
+-employé d'étage ;
+
+-personnel polyvalent d'hôtellerie ;
+
+-employé technique de collectivité (hébergement collectif, social).
+
+Codes ROME :
+
+G1501-Personnel d'étage.
+
+G1502-Personnel polyvalent d'hôtellerie.
 
 Réglementation de l'activité :
 
@@ -86,8 +102,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 24 mai 2014.

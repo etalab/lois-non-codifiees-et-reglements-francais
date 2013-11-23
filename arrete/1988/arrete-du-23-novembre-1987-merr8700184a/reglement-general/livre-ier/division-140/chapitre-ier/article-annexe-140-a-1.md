@@ -15,37 +15,31 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <table>
 <tbody>
 <tr>
-<td valign="top" width="38">
+<td width="38">
 <br/>
 </td>
-<td valign="top" width="208">
+<td width="265">
 <p align="center">CERTIFICATS/VISITES</p>
 </td>
-<td valign="top" width="95">
+<td width="95">
 <p align="center">BUREAU<br/>Veritas</p>
 </td>
-<td valign="top" width="95">
-<p align="center">DET NORSKE<br/>Veritas</p>
+<td width="95">
+<p align="center">DET NORSKE Veritas</p>
 </td>
-<td valign="top" width="95">
-<p align="center">GERMANISCHER<br/>Lloyd</p>
+<td width="95">
+<p align="center">GERMANISCHER Lloyd</p>
 </td>
-<td valign="top" width="95">
-<p align="center">LLOYD'S<br/>Register</p>
-</td>
-<td valign="top" width="95">
-<p align="center">RINA SERVICES<br/>SpA</p>
+<td width="95">
+<p align="center">RINA<br/>Services<br/>s. p. a.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="38">
 <p align="center">1</p>
 </td>
-<td width="208">
+<td valign="top" width="265">
 <p>Permis de navigation </p>
-</td>
-<td valign="top" width="95">
-<p align="center">-</p>
 </td>
 <td valign="top" width="95">
 <p align="center">-</p>
@@ -64,11 +58,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">2</p>
 </td>
-<td width="208">
-<p>Visites relatives au franc-bord/ Certificat de franc-bord </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives au franc-bord/Certificat de franc-bord </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -87,11 +78,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">3</p>
 </td>
-<td width="208">
-<p>Certificat d'exemption au titre de la Load Line </p>
-</td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td valign="top" width="265">
+<p align="left">Certificat d'exemption au titre de la Load Line </p>
 </td>
 <td valign="top" width="95">
 <p align="center">D</p>
@@ -110,11 +98,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">4</p>
 </td>
-<td width="208">
-<p>Visites relatives à la sécurité de construction/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la sécurité de construction/Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -133,11 +118,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">5</p>
 </td>
-<td width="208">
+<td valign="top" width="265">
 <p>Certificat d'exemption au titre de la Solas </p>
-</td>
-<td valign="top" width="95">
-<p align="center">D</p>
 </td>
 <td valign="top" width="95">
 <p align="center">D</p>
@@ -156,11 +138,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">6</p>
 </td>
-<td width="208">
-<p>Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -179,11 +158,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">7</p>
 </td>
-<td width="208">
-<p>Visites relatives à la sécurité du matériel d'armement/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -202,11 +178,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">8</p>
 </td>
-<td width="208">
-<p>Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/ Certificat international d'aptitude au transport de gaz liquéfié en vrac </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/Certificat international d'aptitude au transport de gaz liquéfié en vrac </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -225,11 +198,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">9</p>
 </td>
-<td width="208">
-<p>Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/ Certificat international d'aptitude au transport de produits chimiques dangereux en vrac </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/Certificat international d'aptitude au transport de produits chimiques dangereux en vrac </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -248,11 +218,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">10</p>
 </td>
-<td width="208">
-<p>Visites relatives à la prévention de la pollution par les hydrocarbures/ Certificat international de prévention de la pollution par les hydrocarbures </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la prévention de la pollution par les hydrocarbures/Certificat international de prévention de la pollution par les hydrocarbures </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -271,11 +238,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">11</p>
 </td>
-<td width="208">
-<p>Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/ Certificat international de prévention de la pollution liée au transport de substances liquides nocives en vrac </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/Certificat international de prévention de la pollution liée au transport de substances liquides nocives en vrac </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -294,11 +258,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">12</p>
 </td>
-<td width="208">
-<p>Visites relatives au registre des apparaux de levage/ Approbation du registre </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives au registre des apparaux de levage/Approbation du registre </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -317,11 +278,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">13</p>
 </td>
-<td width="208">
-<p>Visites relatives au registre des ordures/ Approbation plan et registre des ordures </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives au registre des ordures/ Approbation plan et registre des ordures </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -340,11 +298,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">14</p>
 </td>
-<td width="208">
-<p>Visites relatives à la prévention de la pollution de l'atmosphère par les navires/ Certificat international de prévention de la pollution de l'atmosphère </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la prévention de la pollution de l'atmosphère par les navires/Certificat international de prévention de la pollution de l'atmosphère </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -363,11 +318,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">15</p>
 </td>
-<td width="208">
-<p>Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -386,11 +338,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">16</p>
 </td>
-<td width="208">
-<p>Visites relatives à la prévention de la pollution par les eaux usées/ Certificat international de prévention de la pollution par les eaux usées </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la prévention de la pollution par les eaux usées/Certificat international de prévention de la pollution par les eaux usées </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -409,11 +358,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">17</p>
 </td>
-<td width="208">
-<p>Visites relatives à l'hygiène et à l'habitabilité </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à l'hygiène et à l'habitabilité </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -432,11 +378,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">18</p>
 </td>
-<td width="208">
-<p>Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -455,11 +398,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">19</p>
 </td>
-<td width="208">
-<p>Visite réalisée en vertu des dispositions d'une recommandation d'une organisation internationale </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visite réalisée en vertu des dispositions d'une recommandation d'une organisation internationale </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -478,11 +418,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">20</p>
 </td>
-<td width="208">
-<p>Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/ Document de conformité prescription spéciales applicables aux navires transportant des marchandises dangereuses </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescription spéciales applicables aux navires transportant des marchandises dangereuses </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -501,11 +438,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">21</p>
 </td>
-<td width="208">
-<p>Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE) </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visite relative à la prévention de la pollution atmosphérique/Certificat international de rendement énergétique (IEE) </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -531,41 +465,39 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 
 <div align="left"/>
 <div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <table>
 <tbody>
 <tr>
-<td valign="top" width="38">
+<td width="38">
 <br/>
 </td>
-<td valign="top" width="208">
-<p align="center">CERTIFICATS/ VISITES</p>
+<td width="265">
+<p align="center">CERTIFICATS/VISITES</p>
 </td>
-<td valign="top" width="95">
-<p align="center">BUREAU<br/>Veritas</p>
+<td width="95">
+<p align="center">BURAU <br/>Veritas</p>
 </td>
-<td valign="top" width="95">
-<p align="center">DET NORSKE<br/>Veritas</p>
+<td width="95">
+<p align="center">DET NORSKE <br/>Veritas</p>
 </td>
-<td valign="top" width="95">
-<p align="center">GERMANISCHER<br/>Lloyd</p>
+<td width="95">
+<p align="center">GERMANISCHER <br/>Lloyd</p>
 </td>
-<td valign="top" width="95">
-<p align="center">LLOYD'S<br/>Register</p>
-</td>
-<td valign="top" width="95">
-<p align="center">RINA SERVICES<br/>SpA</p>
+<td width="95">
+<p align="center">RINA <br/>Services <br/>s. p. a.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="38">
 <p align="center">1</p>
 </td>
-<td valign="top" width="208">
-<p>Visites relatives au certificat international ou national de Franc-Bord/ Certificat de franc-bord </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives au Certificat international ou national de franc-bord/Certificat de franc-bord </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -584,11 +516,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">2</p>
 </td>
-<td valign="top" width="208">
-<p>Certificat d'exemption au titre de la Load Line </p>
-</td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td valign="top" width="265">
+<p align="left">Certificat d'exemption au titre de la Load Line </p>
 </td>
 <td valign="top" width="95">
 <p align="center">D</p>
@@ -605,13 +534,12 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 </tr>
 <tr>
 <td valign="top" width="38">
-<p align="center">3</p>
+<p align="center">
+<br/>3</p>
 </td>
-<td valign="top" width="208">
-<p>Visites relatives au registre des apparaux de levage/ Approbation du registre </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">
+<br/>Visites relatives au registre des apparaux de levage/Approbation du registre </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -630,11 +558,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">4</p>
 </td>
-<td valign="top" width="208">
-<p>Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -653,11 +578,8 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <td valign="top" width="38">
 <p align="center">5</p>
 </td>
-<td valign="top" width="208">
-<p>Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td valign="top" width="265">
+<p align="left">Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs </p>
 </td>
 <td valign="top" width="95">
 <p align="center">H</p>
@@ -675,6 +597,7 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 </tbody>
 </table>
 </div>
+<div align="left"/>
 
 <div align="left"/>
 
@@ -685,80 +608,68 @@ H : Habilitation comprenant l'étude, la réalisation des visites à bord et la 
 <table>
 <tbody>
 <tr>
-<td/>
-<td>
-<p align="center">
-<br/>CERTIFICATS/ VISITES <br/>
-</p>
+<td width="38">
+<br/>
 </td>
-<td>
-<p align="center"> BUREAU </p>
-<p align="center">Veritas <br/>
-</p>
+<td width="265">
+<p align="center">CERTIFICATS/VISITES</p>
 </td>
-<td>
-<p align="center"> DET NORSKE </p>
-<p align="center">Veritas <br/>
-</p>
+<td width="95">
+<p align="center">BUREAU <br/>Veritas</p>
 </td>
-<td>
-<p align="center"> GERMANISCHER </p>
-<p align="center">Lloyd </p>
+<td width="95">
+<p align="center">DET NORSKE <br/>Veritas</p>
 </td>
-<td>
-<p align="center"> LLOYD'S </p>
-<p align="center">Register </p>
+<td width="95">
+<p align="center">GERMANISCHER <br/>Lloyd</p>
 </td>
-<td>
-<p align="center"> RINA </p>
-<p align="center">Services SpA </p>
+<td width="95">
+<p align="center">RINA <br/>Services <br/>s. p. a.</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>1 <br/>
+<td valign="top" width="38">
+<p align="center">1</p>
 </td>
-<td align="center">
-<br/>Visites relatives au certificat international de jaugeage des navires/ Certificat international de jaugeage des navires <br/>
+<td valign="top" width="265">
+<p align="left">Visites relatives au Certificat international de jaugeage des navires/Certificat international de jaugeage des navires </p>
 </td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
-<td align="center">
-<br/>H <br/>
-</td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>2 <br/>
+<td valign="top" width="38">
+<p align="center">2</p>
 </td>
-<td align="center">
-<br/>Visites relatives au certificat national de jaugeage des navires/ certificat national de jaugeage des navires <br/>
+<td valign="top" width="265">
+<p align="left">Visites relatives au Certificat national de jaugeage des navires/Certificat national de jaugeage des navires </p>
 </td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
-<td align="center">
-<br/>H <br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
-<td align="center">
-<br/>H <br/>
-</td>
-<td align="center">
-<br/>H<br/>
+<td valign="top" width="95">
+<p align="center">H</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
