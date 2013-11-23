@@ -38,9 +38,7 @@ Lorsqu'il n'en est pas disposé autrement, les conditions requises des candidats
 
 Pour chaque concours, le jury établit par ordre de mérite la liste des candidats admis. Il peut établir une liste complémentaire. Le nombre des nominations de candidats inscrits sur la liste complémentaire ne peut excéder le nombre total des emplois offerts.
 
-II.-Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves du concours externe doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
-
-Pour être titularisés, les candidats ayant subi avec succès les épreuves du concours interne et du troisième concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+II. - Pour être titularisés, les candidats ayant subi avec succès les épreuves du concours externe, du concours interne ou du troisième concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
 Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêté du ministre chargé de l'enseignement supérieur.
 

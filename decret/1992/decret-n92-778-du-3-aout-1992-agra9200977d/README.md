@@ -2,6 +2,6 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Recrutement.](chapitre-ii)
-- [CHAPITRE III : Avancement.](chapitre-iii)
+- [CHAPITRE III : Notation, avancement.](chapitre-iii)
 - [CHAPITRE IV : Dispositions diverses](chapitre-iv)
 - [Article 50](article-50.md)

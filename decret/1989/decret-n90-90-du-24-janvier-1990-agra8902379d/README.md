@@ -2,7 +2,7 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE III : Position de non-activité et délégation.](chapitre-iii)
-- [CHAPITRE IV : Avancement, mutation, reclassement.](chapitre-iv)
+- [CHAPITRE IV : Avancement, notation, mutation, reclassement.](chapitre-iv)
 - [CHAPITRE V : Obligations de service.](chapitre-v)
 - [CHAPITRE VI : Détachement.](chapitre-vi)
 - [Article 43](article-43.md)
