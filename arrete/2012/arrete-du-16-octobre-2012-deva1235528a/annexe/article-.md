@@ -4,7 +4,7 @@ LISTE MINIMALE D'ÉQUIPEMENTS (ARTICLE 3)
 
 Pour assurer le service AFIS sur un aérodrome, le prestataire AFIS doit disposer des équipements suivants en état de fonctionnement :
 
-a) Un local de type vigie permettant d'avoir une vue sur l'aire de mouvement et la circulation d'aérodrome ;
+a) Un local de type vigie permettant d'avoir une vue sur l'aire de manœuvre  et la circulation d'aérodrome ;
 
 b) Un émetteur-récepteur VHF permettant une communication bilatérale avec les aéronefs ;
 
@@ -20,7 +20,7 @@ g) Un ou des systèmes permettant d'enregistrer les communications radio et tél
 
 h) Un télécopieur ;
 
-i) Une horloge ;
+i) Une horloge indiquant les heures, les minutes et les secondes  ;
 
 j) Une paire de jumelles ;
 
