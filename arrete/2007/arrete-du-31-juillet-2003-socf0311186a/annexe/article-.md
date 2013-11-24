@@ -4,9 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
 AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : agent(e) de maintenance en chauffage.
+Intitulé : agent de maintenance en chauffage.
 
 Niveau : V.
 
@@ -14,19 +12,17 @@ Code NSF : 227 r.
 
 Résumé du référentiel d'emploi
 
-L'agent de maintenance en chauffage effectue la maintenance préventive et corrective des installations de chauffage et de production d'eau chaude sanitaire dans les logements individuels, pavillons ou logements collectifs équipés de chauffage central individuel conformément aux réglementations en vigueur et selon les clauses d'un contrat et les préconisations des constructeurs de matériels.
+L'agent de maintenance en chauffage effectue la mise en service et la maintenance préventive et corrective des installations de chauffage et de production d'eau chaude sanitaire individuelles équipées de générateurs muraux gaz, de générateurs au sol fioul, gaz ou bois ou d'équipements solaires.
 
-Il intervient sur les éléments de production de chaleur (générateurs, brûleurs, chaudières, systèmes solaires), les éléments de distribution (pompes, réseaux hydrauliques), les émetteurs de chaleur (radiateurs, aérothermes, planchers chauffants, production d'eau chaude sanitaire), les éléments de régulation, et les éléments annexes comme les robinetteries.
+Il intervient dans le respect des contrats, des réglementations et du développement durable.
 
-Il remplace les éléments défectueux et vérifie la conformité des dispositifs liés à la réglementation (ventilation, extraction). Il assure les contrôles nécessaires sur le plan de la sécurité, de la qualité des rejets dans l'environnement et des performances des appareils en terme de consommation énergétique. Il intervient dans un contexte à risques liés à la présence de gaz et de produits de combustion, à la manipulation d'appareils electriques sous tension et à la manutention de charges en espaces encombrés, ce qui nécessite une attention soutenue, le respect des normes de sécurité et l'application de la réglementation en vigueur. Pour certaines de ces interventions, il doit être habilité.
+Il assure les contrôles nécessaires sur le plan de la sécurité, de la qualité des rejets dans l'environnement et des performances des appareils en termes de consommation énergétique.
 
-L'agent de maintenance en chauffage effectue des déplacements fréquents et a des horaires irréguliers liés au mode et à la nature des interventions (urgences, astreintes...). Il travaille seul et de manière autonome, tout en étant placé sous le contrôle d'un chef d'équipe à qui il doit transmettre toute information relative à son activité. Il réalise en équipe certaines interventions délicates et réglementées. Dans tous les cas, il s'appuie sur les plans, schémas et valeurs de réglage indiqués par les documents techniques. Il doit être en mesure de fournir au client, auprès de qui il représente son entreprise, ainsi qu'à son supérieur hiérarchique, toute explication concernant ses interventions.
+Il intervient généralement seul chez l'utilisateur. Il est autonome tout en étant placé sous le contrôle direct d'un responsable à qui il retransmet toute information relative à son activité. Il peut intervenir en équipe lors d'interventions nécessitant la présence de plusieurs agents de maintenance. Il est amené à effectuer des interventions dans un contexte à risques : liés à la présence de gaz et de produits de combustion, à la manipulation d'équipements électriques sous tension, à des déplacements fréquents en voiture, à des positions de travail incommodes et à la manutention de charges en espaces encombrés. Ces interventions nécessitent une attention soutenue. Il devra, pour certaines de ces interventions, disposer d'une habilitation électrique. Il réalise son activité dans le respect des consignes de sécurité et de prévention de la santé, du PPSPS, s'il existe, ou du plan de prévention. L'exercice du métier comporte des horaires irréguliers liés aux urgences et aux astreintes. Il fournit au client, en sa qualité de représentant de son entreprise, toute explication concernant ses interventions. Il est confronté à des équipements caractérisés par de fortes évolutions technologiques et d'une large diversité qui l'obligent à se former en permanence. Il fait souvent face à des situations imprévues.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes de la certification
 
-des composantes de la certification
-
-1. Assurer la mise en service et la maintenance des installations de chauffage et d'eau chaude sanitaire de petite puissance équipées de générateurs fioul ou gaz au sol
+1. Assurer la mise en service et la maintenance des installations de chauffage et d'eau chaude sanitaire équipées de générateurs au sol
 
 Assurer les opérations de mise en service et de maintenance des circuits de chauffage et d'eau chaude sanitaire équipés d'un générateur au sol.
 
@@ -38,11 +34,7 @@ Assurer la mise en service et la maintenance des brûleurs gaz de petite puissan
 
 Assurer la mise en service et la maintenance des équipements de chauffage et d'eau chaude sanitaire de petite puissance utilisant l'énergie électrique, l'énergie solaire ou les combustibles solides.
 
-Informer le client sur l'utilisation, la conduite et la sécurité des équipements de chauffage et d'eau chaude sanitaire de petite puissance.
-
-Rédiger les documents afférents à la maintenance des équipements de chauffage et d'eau chaude sanitaire de petite puissance.
-
-2. Assurer la mise en service et la maintenance des installations de chauffage et d'eau chaude sanitaire de petite puissance équipées de générateurs muraux gaz
+2. Assurer la mise en service et la maintenance des installations de chauffage et d'eau chaude sanitaire équipées de générateurs muraux gaz
 
 Assurer les opérations de mise en service et de maintenance des circuits de chauffage et d'eau chaude sanitaire équipés d'un générateur mural.
 
@@ -52,31 +44,31 @@ Assurer la maintenance des générateurs muraux gaz de petite puissance.
 
 Assurer la mise en service et la maintenance des divers appareils gaz domestiques de petite puissance.
 
-Informer le client sur l'utilisation, la conduite et la sécurité des équipements de chauffage et d'eau chaude sanitaire de petite puissance.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Rédiger les documents afférents à la maintenance des équipements de chauffage et d'eau chaude sanitaire de petite puissance.
+Entreprises de maintenance assurant la gestion technique d'équipements, par contrat, pour le compte de leurs clients.
 
-Secteurs d'activités ou types d'emploi
+Entreprises d'installation d'équipements thermiques ayant un département maintenance.
 
-accessibles par le détenteur du titre
+Entreprises d'installation-maintenance chauffage de type artisanal, dans le cas où l'agent possède déjà une expérience de l'installation.
 
-Les entreprises d'installation d'équipements thermiques et de climatisation ayant un département maintenance.
+Constructeurs d'équipements thermiques lorsqu'ils possèdent un service montage ou un SAV.
 
-Les entreprises de maintenance, assurant la gestion technique d'équipements, par contrat, pour le compte de leurs clients.
+Collectivités territoriales.
 
-Les entreprises de type artisanal, dans le cas où le technicien possède déjà une expérience de l'installation.
+Agent technique de maintenance en chauffage.
 
-Les constructeurs d'équipements thermiques lorsqu'ils possèdent un service montage ou un service après-vente.
+Agent technique d'entretien et d'exploitation de chauffage.
 
 Codes ROME :
 
-42212 - installateur(trice) d'équipements sanitaires et thermiques.
+I1308-Maintenance d'installation de chauffage.
 
-52332 - maintenicien(ne) des systèmes thermiques, climatiques et frigorifiques.
+F1603-Installation d'équipements sanitaires et thermiques.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (norme C18-510).
+Articles R. 4544-9 et R. 4544-10 du code du travail : habilitation électrique délivrée par l'employeur pour intervenir sur des équipements de chauffage au niveau B2V pour la maintenance préventive, BE Mesures pour les relevés de mesures électriques et BR pour la maintenance corrective.
 
 Autorité responsable de la certification :
 
