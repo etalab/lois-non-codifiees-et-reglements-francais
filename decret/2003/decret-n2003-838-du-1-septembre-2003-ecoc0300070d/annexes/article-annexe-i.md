@@ -1,87 +1,123 @@
 # Article Annexe I
 
-DÉNOMINATIONS, DÉFINITIONS ET CARACTÉRISTIQUES DES PRODUITS
+DÉNOMINATIONS, DÉFINITIONS DES PRODUITS ET CARACTÉRISTIQUES
 
-I.-Définitions
+I. - Définitions
 
 1. a) Jus de fruits :
 
-Le produit fermentescible mais non fermenté, obtenu à partir de fruits sains et mûrs, frais ou conservés par le froid, d'une espèce ou de plusieurs espèces en mélange, possédant la couleur, l'arôme et le goût caractéristiques du jus des fruits dont il provient. Les arômes des fruits, les pulpes et les cellules provenant du jus et séparés pendant la transformation peuvent être restitués.
+Le produit fermentescible mais non fermenté obtenu à partir des parties comestibles de fruits sains et mûrs, frais ou conservés par réfrigération ou congélation, d'une espèce ou de plusieurs espèces en mélange, possédant la couleur, l'arôme et le goût caractéristiques du jus des fruits dont il provient.
 
-Dans le cas des agrumes, le jus de fruits doit provenir de l'endocarpe. Toutefois, le jus de limettes peut être obtenu à partir du fruit entier, conformément aux bonnes pratiques de fabrication qui doivent permettre de réduire au maximum la présence dans le jus de constituants des parties extérieures du fruit.
+Les arômes, les pulpes et les cellules obtenus par des moyens physiques appropriés à partir de fruits de la même espèce peuvent être restitués au jus de fruits.
 
-b) Jus de fruits obtenus à partir d'un concentré :
+Dans le cas des agrumes, le jus de fruits doit provenir de l'endocarpe. Toutefois, le jus de limette peut être obtenu à partir du fruit entier.
 
-Le produit obtenu en remettant dans le jus de fruits concentré l'eau extraite du jus lors de la concentration, ainsi qu'en restituant les arômes et, le cas échéant, les pulpes et les cellules que le jus a perdus mais qui ont été récupérés lors du processus de production du jus de fruits dont il s'agit ou de jus de fruits de la même espèce. L'eau ajoutée doit présenter des caractéristiques appropriées, notamment du point de vue chimique, microbiologique et organoleptique, de façon à garantir les qualités essentielles du jus.
+Lorsque les jus sont obtenus à partir de fruits comprenant des pépins, graines et peaux, les parties ou composantes des pépins, graines et peaux ne sont pas incorporées dans le jus. Cette disposition ne s'applique pas dans les cas où les parties ou composantes des pépins, graines et peaux ne peuvent être éliminées par les bonnes pratiques de fabrication.
 
-Le produit ainsi obtenu doit présenter des caractéristiques organoleptiques et analytiques au moins équivalentes à celles d'un type moyen de jus obtenu à partir de fruits de la même espèce au sens du point a. Les valeurs Brix minimales applicables aux jus de fruits à base de concentré figurent à l'annexe V.
+Le mélange de jus de fruits et de purée de fruits est autorisé dans la production de jus de fruits ;
+
+b) Jus de fruits à base de concentré :
+
+Le produit obtenu par reconstitution du jus de fruits concentré défini au point 2, avec de l'eau potable répondant aux critères établis par la directive 98/83/CE du Conseil du 3 novembre 1998 relative à la qualité des eaux destinées à la consommation humaine.
+
+La teneur en matière sèche soluble du produit fini correspond à la valeur Brix minimale du jus reconstitué, spécifiée à l'annexe V.
+
+Si un jus à base de concentré est obtenu à partir d'un fruit ne figurant pas à l'annexe V, la valeur Brix minimale du jus reconstitué équivaut à la valeur Brix du jus extrait à partir du fruit utilisé pour produire le concentré.
+
+Les arômes, les pulpes et les cellules obtenus par des moyens physiques appropriés à partir de fruits de la même espèce peuvent être restitués au jus de fruits à base de concentré.
+
+Le jus de fruits à base de concentré est préparé selon des processus de fabrication appropriés qui préservent les caractéristiques physiques, chimiques, organoleptiques et nutritionnelles essentielles d'un type moyen de jus des fruits dont il provient.
+
+Le mélange de jus de fruits et/ou de jus de fruits concentré avec de la purée de fruits et/ou de la purée de fruits concentrée est autorisé dans la production de jus de fruits à base de concentré.
 
 2. Jus de fruits concentré :
 
-Le produit obtenu à partir de jus de fruits d'une ou plusieurs espèces par l'élimination physique d'une partie déterminée de l'eau de constitution. Lorsque le produit est destiné à la consommation directe, cette élimination est d'au moins 50 %.
+Le produit obtenu à partir de jus de fruits d'une ou de plusieurs espèces de fruits par l'élimination physique d'une partie déterminée de l'eau de constitution. Lorsque le produit est destiné à la consommation directe, l'élimination est d'au moins 50 % de l'eau de constitution.
 
-3. Jus de fruits déshydraté/ en poudre :
+Les arômes, les pulpes et les cellules obtenus par des moyens physiques appropriés à partir de fruits de la même espèce peuvent être restitués au jus de fruits concentré.
 
-Le produit obtenu à partir de jus de fruits d'une ou plusieurs espèces par l'élimination physique de la quasi-totalité de l'eau de constitution.
+3. Jus de fruits obtenu par extraction hydrique :
 
-4. Nectar de fruits :
+Le produit obtenu par diffusion dans l'eau :
 
-a) Le produit fermentescible mais non fermenté, obtenu en ajoutant de l'eau et des sucres et/ ou du miel aux produits définis aux points 1, 2 et 3, à de la purée de fruits ou à un mélange de ces produits, et qui est en outre conforme à l'annexe IV.
+- du fruit à pulpe entier dont le jus ne peut être extrait par aucun moyen physique ; ou
 
-L'addition de sucres et/ ou de miel est autorisée dans une quantité non supérieure à 20 % en poids par rapport au poids total du produit fini.
+- du fruit entier déshydraté.
 
-Dans le cas de la fabrication de nectars de fruits sans addition de sucres ou à faible valeur énergétique, les sucres peuvent être remplacés totalement ou partiellement par des édulcorants, conformément au décret du 18 septembre 1989 susvisé ;
+4. Jus de fruits déshydraté/en poudre :
 
-b) Par dérogation au point a ci-dessus, les fruits figurant à l'annexe IV, parties II et III, ainsi que l'abricot, peuvent servir, individuellement ou en mélange, à la fabrication de nectars sans addition de sucres, de miel et/ ou d'édulcorants.
+Le produit obtenu à partir de jus de fruits d'une ou de plusieurs espèces de fruits par l'élimination physique de la quasi-totalité de l'eau de constitution.
 
-II.-Ingrédients, traitements et substances autorisés
+5. Nectar de fruits :
 
-1. Ingrédients autorisés :
+Le produit fermentescible mais non fermenté :
 
-Conformément à l'article 2 du décret, l'addition de vitamines et de minéraux peut être autorisée dans les produits définis à la partie I de la présente annexe.
+- qui est obtenu en ajoutant de l'eau, avec ou sans addition de sucres et/ou de miel, aux produits définis aux points 1 à 4, à de la purée de fruits et/ou à de la purée de fruits concentrée et/ou à un mélange de ces produits ; et
 
-Les arômes, les pulpes et les cellules définis à la partie I, point 1, paragraphe a, qui ont été restitués au jus de fruit doivent avoir été séparés de ce jus pendant la transformation, tandis que les arômes, les pulpes et les cellules définis à la partie I, point 1, paragraphe b, qui ont été restitués au jus de fruit peuvent également provenir d'un jus de fruit de la même espèce.
+- qui est conforme à l'annexe IV.
 
-Uniquement dans le cas du jus de raisin, les sels d'acides tartriques peuvent être restitués.
+Sans préjudice du règlement (CE) n° 1924/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant les allégations nutritionnelles et de santé portant sur les denrées alimentaires, dans le cas de la fabrication de nectars de fruits sans sucres ajoutés ou à valeur énergétique réduite, les sucres peuvent être remplacés totalement ou partiellement par des édulcorants conformément au règlement (CE) n° 1333/2008.
 
-Pour les produits définis dans la partie I, points 1, 2 et 3, autres que les jus de poires ou de raisins, l'addition de sucres est autorisée :
+Les arômes, les pulpes et les cellules obtenus par des moyens physiques appropriés à partir de fruits de la même espèce peuvent être restitués au nectar de fruits.
 
--pour corriger le goût acide, la quantité de sucres ajoutée, exprimée en matière sèche, ne peut dépasser 15 grammes par litre de jus ;
+II. - Ingrédients, traitements et substances autorisés
 
--à des fins d'édulcoration, la quantité de sucres ajoutée, exprimée en matière sèche, ne peut dépasser 150 grammes par litre de jus.
+1. Composition :
 
-La quantité totale de sucres ajoutée pour corriger le goût acide et à des fins d'édulcoration ne doit pas dépasser 150 grammes par litre.
+Les espèces correspondant aux noms botaniques figurant à l'annexe V sont utilisées dans la préparation des jus de fruits, des purées de fruits et des nectars de fruits portant la dénomination du fruit concerné ou le nom commun du produit. Pour les espèces de fruits qui ne figurent pas à l'annexe V, le nom botanique ou commun correct est utilisé.
 
-Pour les produits définis dans la partie I, points 1, 2, 3 et 4, dans le but de corriger le goût acide, l'addition de jus de citrons et/ ou de jus concentré de citrons, jusqu'à 3 grammes par litre de jus, exprimé en acide citrique anhydre, est autorisée.
+La valeur Brix pour le jus de fruits est celle du jus tel qu'il est extrait du fruit et ne peut être modifiée, sauf par mélange avec le jus d'un fruit de la même espèce.
 
-Le dioxyde de carbone, en tant qu'ingrédient, est autorisé.
+La valeur Brix minimale figurant à l'annexe V pour le jus de fruits reconstitué et la purée de fruits reconstituée ne tient pas compte des matières sèches solubles de tout ingrédient ou additif ayant éventuellement été ajouté.
 
-L'addition, au même jus de fruits, de sucres et de jus de citrons, concentré ou non, ou d'acidifiants, est interdite.
+2. Ingrédients autorisés :
 
-2. Traitements et substances autorisés :
+Seuls les ingrédients suivants peuvent être ajoutés aux produits visés à la partie I :
 
--procédés mécaniques d'extraction ;
+- les vitamines et les minéraux autorisés par le règlement (CE) n° 1925/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant l'adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires ;
 
--procédés physiques usuels et procédés d'extraction à l'eau (procédé in line, diffusion) de la partie comestible des fruits autres que le raisin pour la fabrication des jus de fruits concentrés, à condition que les jus de fruits concentrés ainsi obtenus soient conformes à la partie I, point 1 ;
+- les additifs alimentaires autorisés en vertu du règlement (CE) n° 1333/2008 ;
 
--pour les jus de raisins issus de raisins traités par sulfitage à l'aide d'anhydride sulfureux, le désulfitage par des procédés physiques est autorisé à condition que la quantité totale de SO2 présent dans le produit fini n'excède pas 10 mg/ l ;
+et en outre :
 
--enzymes pectolytiques conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ;
+- pour les jus de fruits, jus de fruits à base de concentré et jus de fruits concentrés : les arômes, les pulpes et les cellules restitués ;
 
--enzymes protéolytiques conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ;
+- dans le cas du jus de raisin : les sels d'acides tartriques restitués ;
 
--enzymes amylolitiques conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ;
+- pour les nectars de fruits : les arômes, les pulpes et les cellules restitués ; les sucres et/ou le miel jusqu'à 20 % du poids total des produits finis ; et/ou les édulcorants.
 
--gélatine alimentaire ;
+- Une allégation selon laquelle il n'a pas été ajouté de sucres à un nectar de fruits, ou toute autre allégation susceptible d'avoir le même sens pour le consommateur, ne peut être faite que si le produit ne contient pas de monosaccharides ou disaccharides ajoutés ou toute autre denrée alimentaire utilisée pour ses propriétés édulcorantes, y compris les édulcorants au sens du règlement (CE) n° 1333/2008. Si les sucres sont naturellement présents dans le nectar de fruits, l'indication suivante devrait également figurer sur l'étiquette : contient des sucres naturellement présents ;
 
--tanins ;
+- pour les produits figurant à l'annexe III, point a, point b, premier tiret, point c, point e, deuxième tiret, et point h : les sucres et/ou le miel ;
 
--bentonite ;
+- pour les produits définis à la partie I, points 1 à 5, dans le but de corriger le goût acide : le jus de citron et/ou le jus de limette et/ou le jus concentré de citron et/ou le jus concentré de limette jusqu'à 3 grammes par litre de jus, exprimé en acide citrique anhydre ;
 
--gel de silice ;
+- pour le jus de tomate et le jus de tomate à base de concentré : le sel, les épices et les herbes aromatiques.
 
--charbons ;
+3. Traitements et substances autorisés :
 
--adjuvants de filtration et adjuvants de précipitation chimiquement inertes (par exemple perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène), conformes aux textes réglementaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
+Seuls les traitements suivants peuvent être appliqués et seules les substances suivantes peuvent être ajoutées aux produits visés à la partie I :
 
--adjuvants d'adsorption chimiquement inertes conformes aux textes réglementaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
+- procédés mécaniques d'extraction ;
+
+- procédés physiques usuels, y compris les procédés d'extraction hydrique (procédé in line - diffusion) de la partie comestible des fruits autres que le raisin pour la fabrication des jus de fruits concentrés, à condition que les jus de fruits ainsi obtenus soient conformes à la partie I, point 1 ;
+
+- pour les jus de raisins issus de raisins traités par sulfitage à l'aide d'anhydride sulfureux, le désulfitage par des moyens physiques est autorisé à condition que la quantité totale de SO2 présent dans le produit fini n'excède pas 10 mg/l ;
+
+- les préparations enzymatiques : pectinases (pour fragmentation de la pectine), protéinases (pour fragmentation des protéines) et amylases (pour fragmentation de l'amidon) conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires ;
+
+- gélatine alimentaire ;
+
+- tanins ;
+
+- silice colloïdale ;
+
+- charbons ;
+
+- azote ;
+
+- bentonite en tant qu'argile adsorbante ;
+
+- adjuvants de filtration et adjuvants de précipitation chimiquement inertes (y compris perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène) conformes au règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
+
+- adjuvants d'adsorption chimiquement inertes conformes au règlement (CE) n° 1935/2004 et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
