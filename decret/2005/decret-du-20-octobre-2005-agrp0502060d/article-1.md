@@ -1,3 +1,0 @@
-# Article 1
-
-A titre expérimental jusqu'à la fin de la campagne 2013-2014 et par dérogation aux dispositions de l'article D. 641-80 du code rural, tout producteur peut produire un volume complémentaire individuel supérieur au rendement de base prévu à l'article D. 641-73 du code rural et, le cas échéant, au plafond limite de classement défini en application de l'article D. 641-76 du code rural pour les appellations d'origine contrôlées " Petit Chablis ", " Chablis ", " Chablis " complétée soit par le nom du climat d'origine, soit par l'expression premier cru, soit par l'un et l'autre et " Chablis grand cru ". La production de ce volume ne peut conduire au dépassement du rendement butoir défini à l'article D. 641-76 du code rural.
