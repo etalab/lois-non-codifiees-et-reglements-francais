@@ -584,7 +584,6 @@
 - [Décret n°2008-981 du 18 septembre 2008 (DEVQ0805476D)](decret-n2008-981-du-18-septembre-2008-devq0805476d)
 - [Décret n°2008-982 du 18 septembre 2008 (AGRF0812320D)](decret-n2008-982-du-18-septembre-2008-agrf0812320d)
 - [Décret n°2008-983 du 18 septembre 2008 (AGRF0819481D)](decret-n2008-983-du-18-septembre-2008-agrf0819481d)
-- [Décret n°2008-984 du 18 septembre 2008 (AGRP0814932D)](decret-n2008-984-du-18-septembre-2008-agrp0814932d)
 - [Décret n°2008-985 du 18 septembre 2008 (AGRP0817352D)](decret-n2008-985-du-18-septembre-2008-agrp0817352d)
 - [Décret n°2008-987 du 18 septembre 2008 (MTST0816621D)](decret-n2008-987-du-18-septembre-2008-mtst0816621d)
 - [Décret n°2008-988 du 18 septembre 2008 (MTSA0821304D)](decret-n2008-988-du-18-septembre-2008-mtsa0821304d)
