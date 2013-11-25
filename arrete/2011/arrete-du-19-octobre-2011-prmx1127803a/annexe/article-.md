@@ -50,4 +50,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'implantation de Saint-André-les-Alpes de la direction départementale des territoires des Alpes-de-Haute-Provence ;
 
-- fermeture de la délégation territoriale de Gouzon de la direction départementale des territoires de la Creuse.
+- fermeture de la délégation territoriale de Gouzon de la direction départementale des territoires de la Creuse ;
+
+- fermeture de l'antenne territoriale de Béziers de la direction départementale de la protection des populations de l'Hérault ;
+
+- fermeture de l'antenne territoriale de Dieppe de la direction départementale de la protection des populations de Seine-Maritime.
