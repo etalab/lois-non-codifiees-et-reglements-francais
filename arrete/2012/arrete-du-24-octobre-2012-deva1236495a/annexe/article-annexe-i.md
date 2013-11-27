@@ -136,6 +136,10 @@ Birmanie :
 
 Paris ― Rangoun ;
 
+Botswana :
+
+Paris - Gaborone ;
+
 Brésil :
 
 Paris ― Aracaju ;
@@ -606,6 +610,8 @@ Paris ― Mombasa ;
 
 Paris ― Nairobi ;
 
+Paris - Eldoret ;
+
 Koweït :
 
 Paris ― Koweït ;
@@ -734,6 +740,12 @@ Mongolie :
 
 Paris - Oulan-Bator ;
 
+Mozambique :
+
+Paris - Maputo ;
+
+Paris - Nampula ;
+
 Namibie :
 
 Paris ― Walvis Bay ;
@@ -800,9 +812,15 @@ Philippines :
 
 Paris ― Manille ;
 
+Qatar :
+
+Paris - Doha ;
+
 République démocratique du Congo :
 
 Paris-Kinshasa ;
+
+Paris - Lubumbashi ;
 
 République dominicaine :
 
@@ -884,6 +902,10 @@ Soudan :
 
 Paris ― Khartoum ;
 
+Sud-Soudan :
+
+Paris - Juba ;
+
 Sri Lanka :
 
 Paris ― Colombo ;
@@ -954,6 +976,10 @@ Toulouse ― Istanbul ;
 
 Nice ― Istanbul ;
 
+Paris - Bodrum ;
+
+Paris - Izmir ;
+
 Ukraine :
 
 Lyon ― Odessa ;
@@ -997,6 +1023,10 @@ Paris ― Sanaa ;
 Zambie :
 
 Paris ― Lusaka ;
+
+Paris - Livingston ;
+
+Paris - N'Dola ;
 
 Zimbabwe :
 
