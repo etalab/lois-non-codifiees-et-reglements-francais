@@ -5,10 +5,17 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <table>
 <tbody>
 <tr>
-<th>SERVICES OU DIRECTIONS <br/>
-</th>
-<th colspan="2">DÉSIGNATION DE L'EMPLOI <br/>
-</th>
+<td>
+<p align="center"> SERVICES OU DIRECTIONS </p>
+</td>
+<td colspan="2">
+<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
+</td>
+</tr>
+<tr>
+<td>Agence du patrimoine immatériel de l'Etat </td>
+<td colspan="2">Chargé de la mission "valorisation du patrimoine immatériel"<br/>
+</td>
 </tr>
 <tr>
 <td>
