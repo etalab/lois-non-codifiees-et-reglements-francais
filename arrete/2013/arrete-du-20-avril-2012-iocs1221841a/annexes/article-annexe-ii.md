@@ -620,7 +620,7 @@ Description : ce document sur papier rose compte six pages.
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>AM, A1*, B1, B, C1, C <br/>
+<br/>AM, A1*, B1, B, BE, C1, C <br/>
 </td>
 </tr>
 <tr>
@@ -720,7 +720,7 @@ Description : ce document sur papier rose compte six pages.
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>AM, A1*, B1, B, C1, C <br/>
+<br/>AM, A1*, B1, B, BE, C1, C <br/>
 </td>
 </tr>
 <tr>

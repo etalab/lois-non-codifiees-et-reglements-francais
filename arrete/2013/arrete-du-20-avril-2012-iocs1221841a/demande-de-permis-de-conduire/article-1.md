@@ -8,15 +8,13 @@ II. - Toute personne désirant obtenir le permis de conduire prévu aux articles
 
 Cette demande ne peut être effectuée avant l'âge de 16 ans révolus, à l'exception de la catégorie AM pour laquelle l'âge est de 14 ans révolus. Pour les personnes nées après le 31 décembre 1987, la demande de cette dernière catégorie intervient après obtention du brevet de sécurité routière prévu à l'article R. 211-1 du code précité.
 
-La demande concernant un mineur doit être formulée par la personne ou l'institution investie de l'autorité parentale ou du droit de garde. Le mineur émancipé doit en apporter la preuve.
-
-Cette demande, faite   sur le formulaire réglementaire CERFA référence 02 n° 14866*01 de demande de permis de conduire par inscription à l'examen ou attestation d'une formation, énonce les nom, prénom (s), nationalité, lieu de résidence, lieu et date de naissance, du demandeur. A l'exception de la seule catégorie AM, la demande doit comporter la déclaration sur l'honneur que le candidat n'est pas atteint d'une infirmité d'un ou de plusieurs membres ni d'une affection, dont il a connaissance, susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire, ou encore de donner lieu à la délivrance d'un permis de conduire de durée de validité limitée.
-
-A l'exception de la seule catégorie AM, le candidat doit indiquer également s'il est titulaire d'une pension d'invalidité à titre civil ou militaire.
+Cette demande énonce les nom, prénom(s), nationalité, lieu de résidence, lieu et date de naissance du demandeur et précise la ou les catégories de permis sollicitées.
 
 En outre, il précise la ou les catégories de permis sollicitées.
 
 Le candidat au permis de conduire ou le conducteur utilise le formulaire réglementaire adaptée à la nature de sa demande :
+
+- demande de permis de conduire par inscription à l'examen ou attestation d'une formation, le formulaire CERFA02 n° 14866*01. A l'exception de la seule catégorie AM, la demande doit comporter la déclaration sur l'honneur que le candidat n'est pas atteint d'une infirmité d'un ou de plusieurs membres ni d'une affection dont il a connaissance susceptible d'être incompatible avec l'obtention ou le maintien du permis de conduire ou encore de donner lieu à la délivrance d'un permis de conduire de durée de validité limitée et qu'il n'est pas titulaire d'une pension d'invalidité à titre civil ou militaire ;
 
 - demande de permis international, le formulaire CERFA n° 14881*01 ;
 
@@ -28,7 +26,15 @@ Le candidat au permis de conduire ou le conducteur utilise le formulaire réglem
 
 - demande de permis de conduire par échange, le formulaire CERFA n° 14879*01.
 
-A compter du 16 septembre 2013, chaque demande précédemment définie sera complétée par le formulaire de recueil complémentaire de données nécessaires à l'édition du titre de conduite au format de l'Union européenne, le formulaire CERFA référence 06 n° 14948*01.
+A compter du 16 septembre 2013, chaque demande précédemment définie, à l'exception des demandes de permis de conduire par inscription à l'examen et de permis international,  sera complétée par le formulaire de recueil complémentaire de données nécessaires à l'édition du titre de conduite au format de l'Union européenne, le formulaire CERFA référence 06 n° 14948*01.
+
+S'agissant de la demande de permis de conduire par inscription à l'examen, le CERFA référence 06 n° 14948*01 est joint au formulaire réglementaire CERFA référence 02 n° 14866*01 lors :
+
+- de l'épreuve théorique générale lorsque les candidats bénéficient des dispositions définies au R. 224-20 du code de la route ;
+
+- de l'épreuve pratique en circulation.
+
+A défaut, le candidat ou l'établissement d'enseignement de la conduite transmettra à la préfecture, par voie postale, le CERFA référence 06 n° 14948*01 accompagné des pièces justificatives prévues au D du III du présent article.
 
 Le candidat soumis à un contrôle médical en vertu des articles R. 226-1 à R. 226-4 du code de la route et qui a été reconnu apte adresse au préfet sa demande de permis de conduire accompagnée du dossier réglementaire.
 
