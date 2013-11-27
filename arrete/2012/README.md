@@ -2796,7 +2796,6 @@
 - [Arrêté du 28 février 2012 (MENE1206216A)](arrete-du-28-fevrier-2012-mene1206216a)
 - [Arrêté du 28 juin 2012 (AFSH1227894A)](arrete-du-28-juin-2012-afsh1227894a)
 - [Arrêté du 28 juin 2012 (AFSP1227710A)](arrete-du-28-juin-2012-afsp1227710a)
-- [Arrêté du 28 juin 2012 (AFSR1227145A)](arrete-du-28-juin-2012-afsr1227145a)
 - [Arrêté du 28 juin 2012 (AGRG1225395A)](arrete-du-28-juin-2012-agrg1225395a)
 - [Arrêté du 28 juin 2012 (ANCM1229785A)](arrete-du-28-juin-2012-ancm1229785a)
 - [Arrêté du 28 juin 2012 (DEFH1226213A)](arrete-du-28-juin-2012-defh1226213a)
