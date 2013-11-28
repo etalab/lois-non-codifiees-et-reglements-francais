@@ -7,335 +7,480 @@ I-1. Espèce bovine
 <table>
 <tbody>
 <tr>
-<td align="center"> NOM DE L'ORGANISME</td>
-<td align="center"> FORME JURIDIQUE</td>
-<td align="center"> ADRESSE</td>
-<td align="center"> NOM<br/>de la (des) race(s)<br/>pour la(es)quelle(s)<br/>il est agréé</td>
-<td align="center"> DATE DE FIN<br/>de validité de l'agrément</td>
+<td align="center" width="132">
+<p>NOM DE L'ORGANISME</p>
+</td>
+<td width="132">
+<p align="center">FORME JURIDIQUE </p>
+</td>
+<td width="132">
+<p align="center">ADRESSE </p>
+</td>
+<td width="132">
+<p align="center">NOM <br/>de la (des) race (s)pour la (es) quelle (s)<br/>il est agréé</p>
+</td>
+<td width="132">
+<p align="center">DATE DE FIN <br/>de validité de l'agrément </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Charolais France</td>
-<td align="center">
-<br/>Groupement d'intérêt économique (GIE)</td>
-<td align="center">
-<br/>8, rue de Lourdes, BP 222, 58002 Nevers Cedex</td>
-<td align="center">
-<br/>Charolaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Charolais France </p>
+</td>
+<td width="132">
+<p>Groupement d'intérêt économique (GIE) </p>
+</td>
+<td width="132">
+<p>8, rue de Lourdes, BP 222,58002 Nevers Cedex </p>
+</td>
+<td width="132">
+<p align="center">Charolaise </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Groupe gascon</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>09100 Villeneuve-du-Paréage</td>
-<td align="center">
-<br/>Gasconne</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Groupe gascon </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>09100 Villeneuve-du-Paréage </p>
+</td>
+<td width="132">
+<p align="center">Gasconne </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Organisme de sélection de la race montbéliarde</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>4, rue des Epicéas, 25640 Roulans</td>
-<td align="center">
-<br/>Montbéliarde</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Organisme de sélection de la race montbéliarde </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>4, rue des Epicéas, 25640 Roulans </p>
+</td>
+<td width="132">
+<p align="center">Montbéliarde </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Organisme de sélection de la race bovine vosgienne</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'agriculture, 11, rue Jean-Mermoz, BP 38, 68127 Sainte-Croix-en-Plaine</td>
-<td align="center">
-<br/>Vosgienne</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Organisme de sélection de la race bovine vosgienne </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison de l'agriculture, 11, rue Jean-Mermoz, BP 38,68127 Sainte-Croix-en-Plaine </p>
+</td>
+<td width="132">
+<p align="center">Vosgienne </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Institut de l'élevage</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12</td>
-<td align="center">
-<br/>Armoricaine<br/>Béarnaise<br/>Bleue de Bazougers<br/>Bordelaise<br/>Canadienne<br/>Casta<br/>Ferrandaise<br/>Froment du Léon<br/>Lourdaise<br/>Maraîchine<br/>Mirandaise<br/>Nantaise<br/>Saosnoise</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Organisme de sélection des races bovines locales à petits effectifs </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12 </p>
+</td>
+<td width="132">
+<p align="center">Armoricaine <br/>Béarnaise <br/>Bleue de Bazougers <br/>Bordelaise <br/>Canadienne <br/>Casta <br/>Ferrandaise <br/>Froment du Léon <br/>Lourdaise <br/>Maraîchine <br/>Mirandaise <br/>Nantaise <br/>Saosnoise <br/>Corse </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Institut de l'élevage</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Institut de l'élevage, Maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12</td>
-<td align="center">
-<br/>Autres races à effectif limité : Aurochs-reconstitué Hereford</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Institut de l'élevage </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12 </p>
+</td>
+<td width="132">
+<p align="center">Autres races à effectif limité : <br/>Aurochs-reconstitué <br/>Hereford </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Organisme de sélection de la race Prim'Holstein</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison nationale des éleveurs, 149, rue de Bercy, 75012 Paris Cedex 12</td>
-<td align="center">
-<br/>Prim'Holstein,<br/>y compris population<br/>Pie rouge</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Organisme de sélection de la race Prim'Holstein </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison nationale des éleveurs, 149, rue de Bercy, 75012 Paris Cedex 12 </p>
+</td>
+<td width="132">
+<p align="center">Prim'Holstein, <br/>y compris population <br/>Pie rouge </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Groupe salers évolution</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>La maison de la Salers, domaine du Fau, 15140 Saint-Bonnet-de-Salers</td>
-<td align="center">
-<br/>Salers</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Groupe salers évolution </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>La maison de la Salers, domaine du Fau, 15140 Saint-Bonnet-de-Salers </p>
+</td>
+<td width="132">
+<p align="center">Salers </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Organisme de sélection de la race aubrac</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>2, rue Pasteur, 12000 Rodez</td>
-<td align="center">
-<br/>Aubrac</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Organisme de sélection de la race aubrac </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>2, rue Pasteur, 12000 Rodez </p>
+</td>
+<td width="132">
+<p align="center">Aubrac </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>France blonde d'Aquitaine sélection</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'agriculture, 271, rue de Péchabout, BP 45, 47002 Agen Cedex</td>
-<td align="center">
-<br/>Blonde d'Aquitaine</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>France blonde d'Aquitaine sélection </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison de l'agriculture, 271, rue de Péchabout, BP 45,47002 Agen Cedex </p>
+</td>
+<td width="132">
+<p align="center">Blonde d'Aquitaine </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>France Limousin sélection</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Lanaud, 87220 Boisseuil</td>
-<td align="center">
-<br/>Limousine</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>France Limousin sélection </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Lanaud, 87220 Boisseuil </p>
+</td>
+<td width="132">
+<p align="center">Limousine </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Excellence bazadaise </td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>La Jardiasse Est, 33430 Bazas</td>
-<td align="center">
-<br/>Bazadaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Excellence bazadaise </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>La Jardiasse Est, 33430 Bazas </p>
+</td>
+<td width="132">
+<p align="center">Bazadaise </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Union bleue du Nord</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59022 Lille Cedex</td>
-<td align="center">
-<br/>Bleue du Nord</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Union bleue du Nord </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59022 Lille Cedex </p>
+</td>
+<td width="132">
+<p align="center">Bleue du Nord </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Union rouge flamande</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59013 Lille Cedex</td>
-<td align="center">
-<br/>Rouge flamande</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Union rouge flamande </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59013 Lille Cedex </p>
+</td>
+<td width="132">
+<p align="center">Rouge flamande </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Union des éleveurs de bovins brahman (UEBB)</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Exploitation agricole du Galion, 97220 Trinité</td>
-<td align="center">
-<br/>Brahman</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Union des éleveurs de bovins brahman (UEBB) </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Exploitation agricole du Galion, 97220 Trinité </p>
+</td>
+<td width="132">
+<p align="center">Brahman </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Sélection créole </td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Chambre d'agriculture de Guadeloupe, rond-point de Destrellan, 97122 Baie-Mahault</td>
-<td align="center">
-<br/>Créole</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Sélection créole </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Chambre d'agriculture de Guadeloupe, rond-point de Destrellan, 97122 Baie-Mahault </p>
+</td>
+<td width="132">
+<p align="center">Créole </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>OS de la race parthenaise</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'agriculture, BP 80004, 79231 Prahecq Cedex</td>
-<td align="center">
-<br/>Parthenaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>OS de la race parthenaise </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison de l'agriculture, CS 80004,79231 Prahecq Cedex </p>
+</td>
+<td width="132">
+<p align="center">Parthenaise </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Association des éleveurs français de taureaux de combat</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Mas du Pont de Rousty, 13200 Arles</td>
-<td align="center">
-<br/>Race de combat</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Association des éleveurs français de taureaux de combat </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Mas du pont de Rousty, 13200 Arles </p>
+</td>
+<td width="132">
+<p align="center">Race de combat </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Livre généalogique de la raço di biòu</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Mas du Pont de Rousty, 13200 Arles</td>
-<td align="center">
-<br/>Raço di Biòu</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Livre généalogique de la raço di biòu </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Mas du pont de Rousty, 13200 Arles </p>
+</td>
+<td width="132">
+<p align="center">Raço di Biòu </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>OS blanc bleu (Organisme de sélection de la race bovine blanc bleu)</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>5, avenue Bisiaux, 59530 Potelle</td>
-<td align="center">
-<br/>Blanc Bleu</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>OS blanc bleu (Organisme de sélection de la race bovine blanc bleu) </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>5, avenue Bisiaux, 59530 Potelle </p>
+</td>
+<td width="132">
+<p align="center">Blanc bleu </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Brune génétique services, BGS</td>
-<td align="center">
-<br/>Union de coopératives agricoles à capital variable</td>
-<td align="center">
-<br/>149, rue de Bercy, 75595 Paris Cedex 12</td>
-<td align="center">
-<br/>Brune jersiaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Brune génétique services, BGS </p>
+</td>
+<td width="132">
+<p>Union de coopératives agricoles à capital variable </p>
+</td>
+<td width="132">
+<p>149, rue de Bercy, 75595 Paris Cedex 12 </p>
+</td>
+<td width="132">
+<p align="center">Brune <br/>Jersiaise </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Simmental France</td>
-<td align="center">
-<br/>Union de coopératives agricoles</td>
-<td align="center">
-<br/>1, rue du Moulin-Goepp, 67170 Brumath</td>
-<td align="center">
-<br/>Simmental française</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Simmental France </p>
+</td>
+<td width="132">
+<p>Union de coopératives agricoles </p>
+</td>
+<td width="132">
+<p>1, rue du Moulin-Goepp, 67170 Brumath </p>
+</td>
+<td width="132">
+<p align="center">Simmental française </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Union bretonne pie noire</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>5, allée de Sully, 29109 Quimper Cedex</td>
-<td align="center">
-<br/>Bretonne pie noire</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Union bretonne pie noir </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>5, allée de Sully, 29109 Quimper Cedex </p>
+</td>
+<td width="132">
+<p align="center">Bretonne pie noire </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Organisme de sélection en race normande</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Le Gué Thibout, BP 43, 61700 Domfront</td>
-<td align="center">
-<br/>Normande</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Organisme de sélection en race normande </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Le Gué Thibout, BP 43,61700 Domfront </p>
+</td>
+<td width="132">
+<p align="center">Normande </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Domaine rouge des prés</td>
-<td align="center">
-<br/>Société coopérative d'intérêt collectif agricole (SICA)</td>
-<td align="center">
-<br/>Domaine des Rues, 49220 Chenillé-Changé</td>
-<td align="center">
-<br/>Rouge des prés</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Domaine rouge des prés </p>
+</td>
+<td width="132">
+<p>Société coopérative d'intérêt collectif agricole (SICA) </p>
+</td>
+<td width="132">
+<p>Domaine des rues, 49220 Chenillé-Changé </p>
+</td>
+<td width="132">
+<p align="center">Rouge des prés </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Unité nationale pour la race bovine tarentaise</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>40, rue du Terraillet, 73190 Saint-Baldoph</td>
-<td align="center">
-<br/>Tarentaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>Unité nationale pour la race bovine tarentaise </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>40, rue du Terraillet, 73190 Saint-Baldoph </p>
+</td>
+<td width="132">
+<p align="center">Tarentaise </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>OS races alpines réunies</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'agriculture, BP 9016, 74990 Annecy Cedex 9</td>
-<td align="center">
-<br/>Abondance,<br/>Hérens,<br/>Villard-de-Lans</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p>OS races alpines réunies </p>
+</td>
+<td width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td width="132">
+<p>Maison de l'agriculture, BP 9016,74990 Annecy Cedex 9 </p>
+</td>
+<td width="132">
+<p align="center">Abondance <br/>Hérens <br/>Villard-de-Lans </p>
+</td>
+<td width="132">
+<p align="center">30 juin 2014 </p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -345,231 +490,330 @@ I-2. Espèce ovine
 <table>
 <tbody>
 <tr>
-<td align="center"> NOM DE L'ORGANISME</td>
-<td align="center"> FORME JURIDIQUE</td>
-<td align="center"> ADRESSE</td>
-<td align="center"> NOM<br/>de la (des) race(s)<br/>pour la(es)quelle(s)<br/>il est agréé</td>
-<td align="center"> DATE DE FIN<br/>de validité de l'agrément</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Géode </td>
-<td align="center">
-<br/>Coopérative agricole</td>
-<td align="center">
-<br/>1, avenue de Chauvigny, BP 70104, 86501 Montmorillon Cedex</td>
-<td align="center">
-<br/>Berrichon de l'Indre<br/>Berrichon du Cher<br/>Charmoise<br/>Clun Forest<br/>Dorset Down<br/>Est à laine Mérinos<br/>Finnoise<br/>Hampshire<br/>Romanov<br/>Rouge de l'Ouest<br/>Solognote<br/>Suffolk</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Unité pour la race lacaune</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Carrefour de l'agriculture, 12026 Rodez Cedex 9</td>
-<td align="center">
-<br/>Lacaune lait<br/>Lacaune viande<br/>Caussenarde<br/>des garrigues<br/>Raïole<br/>Rouge du Roussillon</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Ovilot</td>
-<td align="center">
-<br/>Coopérative agricole, CAPEL</td>
-<td align="center">
-<br/>7, rue des Artisans, 46500 Gramat</td>
-<td align="center">
-<br/>Causses du Lot</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Races ovines des massifs - Sélection (ROM - Sélection)</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Route de Thiers-Marmilhat, 63370 Lempdes</td>
-<td align="center">
-<br/>Bizet<br/>Blanc du Massif central<br/>Grivette<br/>Limousine<br/>Noir du Velay<br/>Rava<br/>Southdown</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Société coopérative agricole Mouton vendéen</td>
-<td align="center">
-<br/>Coopérative agricole</td>
-<td align="center">
-<br/>Route de Dompière, Les Etablières, 85000 La Roche-sur-Yon</td>
-<td align="center">
-<br/>Mouton vendéen</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Organisme de sélection des trois races locales de brebis laitières des Pyrénées</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Centre départemental de l'élevage ovin, quartier Ahetzia, 64130 Ordiarp</td>
-<td align="center">
-<br/>Basco-béarnaise<br/>Manech noire<br/>Manech rousse</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Organisation de sélection ovine Nord</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>15, avenue Euphrasie-Guynemer, 02400 Verdilly</td>
-<td align="center">
-<br/>Ile-de-France<br/>Texel</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Organisme de sélection de la race ovine du mouton charollais</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>41, rue Général-Leclerc, BP 10, 71120 Charolles</td>
-<td align="center">
-<br/>Mouton charollais</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Organisme de sélection de la race ovine romane</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Les Nauzes, 81580 Soual</td>
-<td align="center">
-<br/>Romane </td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Unité nationale de sélection et de promotion des races avranchin, cotentin et roussin</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'agriculture, 50009 Saint-Lô</td>
-<td align="center">
-<br/>Avranchin<br/>Cotentin<br/>Roussin de La Hague</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Union pour la sélection de l'ovin Martinik (USOM)</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Habitation Bonne Mère, 97224 Ducos</td>
-<td align="center">
-<br/>Martinik</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Association maison régionale de l'élevage - PACA (MRE)</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison régionale de l'élevage, 480, route de la Durance, 04100 Manosque</td>
-<td align="center">
-<br/>Préalpes du Sud<br/>Mérinos d'Arles<br/>Mourérous</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Association Mouton boulonnais</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Ferme du Héron, chemin de la Ferme-Lenglet, 59650 Villeneuve-d'Ascq</td>
-<td align="center">
-<br/>Boulonnaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Organisme de sélection de la race ovine corse</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Domaine de Casabianda, 20270 Aléria</td>
-<td align="center">
-<br/>Corse (race ovine corse)</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Unité pyrénéenne des races allaitantes ovines</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>28, rue des Pyrénées, 31210 Montréjeau</td>
-<td align="center">
-<br/>Aure et Campan<br/>Barégeoise<br/>Castillonnaise<br/>Lourdaise<br/>Montagne noire<br/>Tarasconnaise</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Union des éleveurs de la race Thônes et Marthod</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Maison de l'agriculture, 40, rue du Terraillet, 73190 Saint-Baldoph</td>
-<td align="center">
-<br/>Thônes et Marthod</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Centre d'enseignement zootechnique Bergerie nationale de Rambouillet</td>
-<td align="center">
-<br/>Etablissement public national</td>
-<td align="center">
-<br/>Parc du château, CS 40609, 78514 Rambouillet Cedex</td>
-<td align="center">
-<br/>Mérinos de Rambouillet</td>
-<td align="center">
-<br/>30 juin 2014</td>
-</tr>
-<tr>
-<td align="center">
-<div align="left">
-<br/>
-</div>
-<div align="left">Organisation de sélection ovine Ouest-Maine</div>
+<td width="132">
+<p align="center">NOM DE L'ORGANISME </p>
 </td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>Chambre d'agriculture, 15, rue Jean-Grémillon, 72013 Le Mans</td>
-<td align="center">
-<br/>Bleu du Maine</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td width="132">
+<p align="center">FORME JURIDIQUE </p>
+</td>
+<td width="132">
+<p align="center">ADRESSE </p>
+</td>
+<td width="132">
+<p align="center">NOM<br/>de la (des) race (s)pour la (es) quelle (s)il est agréé </p>
+</td>
+<td width="132">
+<p align="center">DATE DE FIN <br/>de validité de l'agrément </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Géode </p>
+</td>
+<td valign="top" width="132">
+<p>Coopérative agricole </p>
+</td>
+<td valign="top" width="132">
+<p>1, avenue de Chauvigny, BP 70104,</p>
+<p>86501 Montmorillon Cedex </p>
+</td>
+<td width="132">
+<p align="center">Berrichon de l'Indre <br/>Berrichon du Cher <br/>Charmoise <br/>Clun Forest <br/>Dorset Down <br/>Est à laine mérinos <br/>Finnoise <br/>Hampshire <br/>Romanov <br/>Rouge de l'Ouest <br/>Solognote <br/>Suffolk </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Unité pour la race lacaune </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Carrefour de l'agriculture, 12026 Rodez Cedex 9 </p>
+</td>
+<td width="132">
+<p align="center">Lacaune lait <br/>Lacaune viande <br/>Caussenarde <br/>des garrigues <br/>Raïole <br/>Rouge du Roussillon </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Ovilot </p>
+</td>
+<td valign="top" width="132">
+<p>Coopérative agricole </p>
+<p>CAPEL </p>
+</td>
+<td valign="top" width="132">
+<p>7, rue des Artisans, 46500 Gramat </p>
+</td>
+<td width="132">
+<p align="center">Causses du Lot </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Races ovines des massifs - Sélection </p>
+<p>(ROM - Sélection) </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Route de Thiers, Marmilhat, 63370 Lempdes </p>
+</td>
+<td width="132">
+<p align="center">Bizet <br/>Blanc du Massif Central <br/>Grivette <br/>Limousine <br/>Noir du Velay <br/>Rava <br/>Southdown </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Société coopérative agricole mouton vendéen </p>
+</td>
+<td valign="top" width="132">
+<p>Coopérative agricole </p>
+</td>
+<td valign="top" width="132">
+<p>Route de Dompière, Les Etablières, 85000 La Roche-sur-Yon </p>
+</td>
+<td width="132">
+<p align="center">Mouton vendéen </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Organisme de sélection des trois races locales de brebis laitières des Pyrénées </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Centre départemental de l'élevage ovin, quartier Ahetzia, 64130 Ordiarp </p>
+</td>
+<td width="132">
+<p align="center">Basco-béarnaise <br/>Manech noire <br/>Manech rousse </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Organisation de sélection ovine Nord </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>15, avenue Euphrasie-Guynemer, 02400 Verdilly </p>
+</td>
+<td width="132">
+<p align="center">Ile-de-France <br/>Texel </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Organisme de sélection de la race ovine du mouton charolais </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>41, rue Général-Leclerc, BP 10,71120 Charolles </p>
+</td>
+<td width="132">
+<p align="center">Mouton charolais </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Organisme de sélection de la race ovine romane </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Les Nauzes, 81580 Soual </p>
+</td>
+<td width="132">
+<p align="center">Romane </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Unité nationale de sélection et de promotion des races avranchin, cotentin et roussin </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Maison de l'agriculture, 50009 Saint-Lô </p>
+</td>
+<td width="132">
+<p align="center">Avranchin <br/>Cotentin <br/>Roussin de la Hague </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Union pour la sélection de l'ovin Martinik (USOM) </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Habitation Bonne Mère, 97224 Ducos </p>
+</td>
+<td width="132">
+<p align="center">Martinik </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Association maison régionale de l'élevage - PACA (MRE) </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Maison régionale de l'élevage, 480, route de la Durance, 04100 Manosque </p>
+</td>
+<td width="132">
+<p align="center">Préalpes du Sud <br/>Mérinos d'Arles <br/>Mourérous </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Association mouton boulonnais </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Ferme du Héron, chemin de la Ferme, Lenglet, 59650 Villeneuve-d'Ascq </p>
+</td>
+<td width="132">
+<p align="center">Boulonnaise </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Organisme de sélection de la race ovine corse </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Domaine de Casabianda, 20270 Aléria </p>
+</td>
+<td width="132">
+<p align="center">Corse (race ovine corse) </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Unité pyrénéenne des races allaitantes ovines </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>28, rue des Pyrénées, 31210 Montréjeau </p>
+</td>
+<td width="132">
+<p align="center">Aure et Campan <br/>Barégeoise <br/>Castillonnaise <br/>Lourdaise <br/>Montagne noire<br/>. Tarasconnaise </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Union des éleveurs de la race Thônes et Marthod </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Maison de l'agriculture, 40, rue du Terraillet, 73190 Saint-Baldoph </p>
+</td>
+<td width="132">
+<p align="center">Thônes et Marthod </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Centre d'enseignement zootechnique, Bergerie Nationale de Rambouillet </p>
+</td>
+<td valign="top" width="132">
+<p>Etablissement public national </p>
+</td>
+<td valign="top" width="132">
+<p>Parc du Château, CS40609, 78514 Rambouillet Cedex </p>
+</td>
+<td width="132">
+<p align="center">Mérinos de Rambouillet </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="132">
+<p>Organisation de sélection ovine Ouest-Maine </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>Chambre d'Agriculture, 15, rue Jean-Gémillon-Grémillon, 72013 Le Mans </p>
+</td>
+<td width="132">
+<p align="center">Bleu du Maine </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -579,260 +823,328 @@ I-3. Espèce caprine
 <table>
 <tbody>
 <tr>
-<td align="center"> NOM DE L'ORGANISME</td>
-<td align="center"> FORME JURIDIQUE</td>
-<td align="center"> ADRESSE</td>
-<td align="center"> NOM<br/>de la (des) race(s)<br/>pour la(es)quelle(s)<br/>il est agréé</td>
-<td align="center"> DATE DE FIN<br/>de validité de l'agrément</td>
+<td width="132">
+<p align="center">NOM DE L'ORGANISME </p>
+</td>
+<td width="132">
+<p align="center">FORME JURIDIQUE </p>
+</td>
+<td width="132">
+<p align="center">ADRESSE </p>
+</td>
+<td width="132">
+<p align="center">NOM<br/>de la (des) race (s)<br/>pour la (es) quelle (s)<br/>il est agréé </p>
+</td>
+<td width="132">
+<p align="center">DATE DE FIN <br/>de validité de l'agrément </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<div align="left">CAPGENES</div>
+<td valign="top" width="132">
+<p>Capgènes </p>
 </td>
-<td align="center">
-<br/>Coopérative agricole</td>
-<td align="center">
-<br/>2135, route de Chauvigny, 86550 Mignaloux-Beauvoir</td>
-<td align="center">
-<br/>Alpine<br/>Angora des fossés<br/>du Massif central<br/>Corse<br/>Poitevine<br/>Provençale<br/>Pyrénéenne<br/>Rove<br/>Saanen</td>
-<td align="center">
-<br/>30 juin 2014</td>
+<td valign="top" width="132">
+<p>Coopérative agricole </p>
+</td>
+<td valign="top" width="132">
+<p>2135, route de Chauvigny, 86550 Mignaloux-Beauvoir </p>
+</td>
+<td width="132">
+<p align="center">Alpine <br/>Angora des fossés <br/>du Massif central <br/>Corse <br/>Poitevine <br/>Provençale <br/>Pyrénéenne <br/>Rove <br/>Saanen </p>
+</td>
+<td valign="top" width="132">
+<p>30 juin 2014 </p>
+</td>
 </tr>
 </tbody>
 </table>
 
-II. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR L'ESPÈCE PORCINE PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
+II. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR L'ESPÈCE PORCINE ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
 
 Date de fin de validité : 30 juin 2014
 
 <table>
 <tbody>
 <tr>
-<td align="center"> NOM DE L'ORGANISME</td>
-<td align="center"> FORME JURIDIQUE</td>
-<td align="center"> ADRESSE</td>
-<td align="center"> FONCTION AGRÉÉE</td>
-<td align="center"> TYPES GÉNÉTIQUES<br/>concernés</td>
+<td width="132">
+<p align="center">NOM DE L'ORGANISME</p>
+</td>
+<td width="132">
+<p align="center">FORME JURIDIQUE </p>
+</td>
+<td width="132">
+<p align="center">ADRESSE </p>
+</td>
+<td width="132">
+<p align="center">FONCTION AGRÉÉE </p>
+</td>
+<td width="132">
+<p align="center">TYPES GÉNÉTIQUES <br/>concernés </p>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="2">
-<br/>
-<div>ADN (Alliance de diffusion des nuclei)<br/>
-</div>
+<td rowspan="2" valign="top" width="132">
+<p>ADN (Alliance de diffusion des nuclei) </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société par actions simplifiée<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société par actions simplifiée </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Rue Maurice-de-Trésiguidy, 29190 Pleyben<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Rue Maurice-de-Trésiguidy, 29190 Pleyben </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Duochan<br/>Duroc ADN<br/>Euroc</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Duochan <br/>Duroc ADN <br/>Euroc </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Adénia<br/>ADN<br/>Kantor</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Adénia <br/>ADN <br/>Kantor </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Bretagne Porc Sélection</td>
-<td align="center">
-<br/>Syndicat professionnel agricole</td>
-<td align="center">
-<br/>Route de Saint-Brieuc, 22800 Saint-Donan</td>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Large White × Landrace français<br/>Large White × Piétrain</td>
+<td valign="top" width="132">
+<p>Bretagne porc sélection </p>
+</td>
+<td valign="top" width="132">
+<p>Syndicat professionnel agricole </p>
+</td>
+<td valign="top" width="132">
+<p>Route de Saint-Brieuc, 22800 Saint-Donan </p>
+</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Large White x Landrace français <br/>Large White x Piétrain </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Coopérative des producteurs de porcs de La Réunion</td>
-<td align="center">
-<br/>Coopérative agricole</td>
-<td align="center">
-<br/>ZI n° 5, avenue Charles-Isautier, 97410 Saint-Pierre</td>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Cadina<br/>Titan</td>
+<td valign="top" width="132">
+<p>Coopérative des producteurs de porcs de La Réunion </p>
+</td>
+<td valign="top" width="132">
+<p>Coopérative agricole </p>
+</td>
+<td valign="top" width="132">
+<p>ZI n° 5, avenue Charles-Isautier, 97410 Saint-Pierre </p>
+</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Cadina <br/>Titan </p>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="2">
-<br/>France Hybrides<br/>
+<td rowspan="2" valign="top" width="132">
+<p>France Hybrides </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société par actions simplifiée<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société par actions simplifiée </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Domaine du Grand Puits, 45110 Châteauneuf-sur-Loire<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Domaine du Grand Puits, 45110 Châteauneuf-sur-Loire </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>FH012<br/>FH016<br/>FH019<br/>FH025<br/>Lignée C<br/>Lignée D<br/>Magnus</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>FH012 <br/>FH016 <br/>FH019 <br/>FH025 <br/>Lignée C <br/>Lignée D <br/>Magnus </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Galaxy 300<br/>Hypor CD<br/>Maxter 304<br/>Maxter 16<br/>Maxter 19</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Galaxy 300 <br/>Galaxy 480 <br/>Galaxy 900 <br/>Hypor CD <br/>Maxter 304 <br/>Maxter 16 <br/>Maxter 19 </p>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="2">
-<br/>Gène +<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Gène + </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société par actions simplifiée<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société par actions simplifiée </p>
 </td>
-<td align="center" rowspan="2">
-<br/>12, rue du Moulin, 62134 Erin<br/>
+<td rowspan="2" valign="top" width="132">
+<p>12, rue du Moulin, 62134 Erin </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>DRB<br/>DRC<br/>Musclor<br/>Taï Zumu</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>DRB <br/>DRC <br/>Musclor <br/>Taï Zumu </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Alfa +<br/>Défi +<br/>DRX<br/>Piétrain × Musclor<br/>Syra<br/>Youli<br/>Youna</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Alfa + <br/>Défi + <br/>DRX <br/>Piétrain x Musclor <br/>Syra <br/>Youli <br/>Youna </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Horizon +</td>
-<td align="center">
-<br/>Société à responsabilité limitée</td>
-<td align="center">
-<br/>ZA du Moulin de Bourdinière, 28330 Coudray-au-Perche</td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Piétrain Horizon +</td>
+<td valign="top" width="132">
+<p>Horizon + </p>
+</td>
+<td valign="top" width="132">
+<p>Société à responsabilité limitée </p>
+</td>
+<td valign="top" width="132">
+<p>ZA du Moulin de Bourdinière, 28330 Coudray-au-Perche </p>
+</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Piétrain Horizon + </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Livres généalogiques porcins collectifs</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>149, rue de Bercy, MNE, 75595 Paris Cedex 12</td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Landrace français<br/>Large White lignée femelle<br/>Large White lignée mâle<br/>Piétrain</td>
+<td valign="top" width="132">
+<p>Livres généalogiques porcins collectifs </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>149, rue de Bercy, MNE, 75595 Paris Cedex 12 </p>
+</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Landrace français <br/>Large White lignée femelle <br/>Large White lignée mâle <br/>Piétrain </p>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Association des livres généalogiques collectifs des races locales de porcs (LIGERAL)</td>
-<td align="center">
-<br/>Association (loi 1901)</td>
-<td align="center">
-<br/>149, rue de Bercy, MNE, 75595 Paris Cedex 12</td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Basque<br/>Bayeux<br/>Cul noir Limousin<br/>Gascon<br/>Nustrale<br/>Porc blanc de l'Ouest</td>
+<td valign="top" width="132">
+<p>Association des livres généalogiques collectifs des races locales de porcs (LIGERAL) </p>
+</td>
+<td valign="top" width="132">
+<p>Association (loi 1901) </p>
+</td>
+<td valign="top" width="132">
+<p>149, rue de Bercy, MNE, 75595 Paris Cedex 12 </p>
+</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Basque <br/>Bayeux <br/>Cul noir limousin <br/>Gascon <br/>Nustrale <br/>Porc blanc de l'Ouest </p>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="2">
-<br/>Nucleus<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Nucleus </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société anonyme<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société anonyme </p>
 </td>
-<td align="center" rowspan="2">
-<br/>7, rue des Orchidées, 35650 Le Rheu<br/>
+<td rowspan="2" valign="top" width="132">
+<p>7, rue des Orchidées, 35650 Le Rheu </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Duroc Nucleus<br/>Nushan</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Duroc Nucleus <br/>Nushan </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Carlyne<br/>Durance<br/>Nucleus<br/>Nushan 33<br/>Porcneuf<br/>Porcneuf 81<br/>Rocland<br/>Sélune</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Carlyne <br/>Durance <br/>Nucleus <br/>Nushan 33 <br/>Porcneuf <br/>Porcneuf 81 <br/>Rocland <br/>Sélune </p>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="2">
-<br/>
-<div align="left">Pen ar Lan France<br/>
-</div>
+<td rowspan="2" valign="top" width="132">
+<p>Pen ar Lan France </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société civile agricole<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société civile agricole </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Route de Bovel, BP 3, 35380 Maxent<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Route de Bovel, BP 3,35380 Maxent </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Gallia<br/>P76<br/>Piétrain NN Pen ar Lan<br/>Redone</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Gallia <br/>P76 <br/>Piétrain NN Pen ar Lan <br/>Redone </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Naïma<br/>P88</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Naïma <br/>P88 </p>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="2">
-<br/>
-<div align="left">PIC France<br/>
-</div>
+<td rowspan="2" valign="top" width="132">
+<p>PIC France </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société anonyme<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société anonyme </p>
 </td>
-<td align="center" rowspan="2">
-<br/>17, rue du Sabot, zoopole, BP 48, 22440 Ploufragan<br/>
+<td rowspan="2" valign="top" width="132">
+<p>17, rue du Sabot, zoopole, BP 48,22440 Ploufragan </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>GP 1010<br/>GP 1020<br/>GP 1120 (ou PIC 408)<br/>GP 1125 (ou PIC 337)</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>GP 1010 <br/>GP 1020 <br/>GP 1120 (ou PIC 408) <br/>GP 1125 (ou PIC 337) </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Camborough hybride (ou GP1050)<br/>Camborough 15<br/>GP 1062<br/>PIC 359 (Virtus³59)<br/>PIC 410</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Camborough hybride (ou GP1050) <br/>Camborough 15 <br/>GP 1062 <br/>PIC 359 (Virtus ³ 59) <br/>PIC 410 </p>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="2">
-<div>
-<br/>
-</div>TOPIGS France<br/>
+<td rowspan="2" valign="top" width="132">
+<p>TOPIGS France </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Société par actions simplifiée<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Société par actions simplifiée </p>
 </td>
-<td align="center" rowspan="2">
-<br/>Linglaz, BP 76, 29470 Loperhet<br/>
+<td rowspan="2" valign="top" width="132">
+<p>Linglaz, BP 76,29470 Loperhet </p>
 </td>
-<td align="center">
-<br/>Tenue de livre généalogique</td>
-<td align="center">
-<br/>Topigs lignée B<br/>Topigs lignée D (Talent)<br/>Topigs lignée E (Tempo)<br/>Topigs lignée P (TOP Pi)<br/>Topigs lignée Z</td>
+<td valign="top" width="132">
+<p>Tenue de livre généalogique </p>
+</td>
+<td width="132">
+<p>Topigs lignée B <br/>Topigs lignée D (Talent) <br/>Topigs lignée E (Tempo) <br/>Topigs lignée P (TOP Pi) <br/>Topigs lignée Z </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tenue de registre zootechnique</td>
-<td align="center">
-<br/>Topigs 40</td>
+<td valign="top" width="132">
+<p>Tenue de registre zootechnique </p>
+</td>
+<td width="132">
+<p>Topigs 40 </p>
+</td>
 </tr>
 </tbody>
 </table>
 
-L'agrément pour la fonction de tenue de livre généalogique concernant des reproducteurs de l'espèce porcine correspond à celui visé par la décision 89/501/CEE.
+L'agrément pour la fonction de tenue de livre généalogique concernant des reproducteurs de l'espèce porcine correspond à celui visé par la décision 89/501/ CEE.
 
-L'agrément pour la fonction de tenue de registre zootechnique concernant des reproducteurs dits hybrides de l'espèce porcine correspond à celui visé par la décision 89/504/CEE.
+L'agrément pour la fonction de tenue de registre zootechnique concernant des reproducteurs dits hybrides de l'espèce porcine correspond à celui visé par la décision 89/504/ CEE.
