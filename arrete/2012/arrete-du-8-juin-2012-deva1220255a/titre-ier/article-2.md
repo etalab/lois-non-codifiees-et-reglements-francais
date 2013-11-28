@@ -4,7 +4,7 @@ Le concours pour l'admission des élèves pilotes de ligne comprend trois filiè
 
 Filière S :
 
-Etre âgé de plus de dix-sept ans et de moins de vingt-trois ans au 1er janvier de l'année du concours et, d'une part, satisfaire aux conditions d'accès aux études de licence, d'autre part, avoir suivi un cursus correspondant à 60 crédits ECTS, soit en classe préparatoire aux grandes écoles, soit dans un cursus de licence scientifique, soit dans une formation conduisant à un diplôme national de niveau III du répertoire national des certifications professionnelles dans le domaine des sciences et technologies.
+être âgé de plus de seize ans et de moins de vingt-trois ans au 1er janvier de l'année du concours et, d'une part, satisfaire aux conditions d'accès aux études de licence, d'autre part, avoir suivi un cursus correspondant à 60 crédits ECTS, soit en classe préparatoire aux grandes écoles, soit dans un cursus de licence scientifique, soit dans une formation conduisant à un diplôme national de niveau III du répertoire national des certifications professionnelles dans le domaine des sciences et technologies.
 
 Filière U :
 
@@ -12,7 +12,7 @@ Etre âgé de plus de dix-sept ans et de moins de vingt-huit ans au 1er janvier 
 
 Etre détenteur du certificat d'aptitude à l'examen théorique de la licence de pilote de ligne avion (ATPL [A]) délivré en application de l'arrêté du 29 mars 1999 modifié relatif aux brevets, licences et qualifications de membre d'équipage de conduite d'avions (FCL1) depuis moins d'un an au 1er janvier de l'année du concours.
 
-Avoir réussi l'examen spécifique d'utilisation de la langue anglaise de l'appendice 1 du FCL1200.
+Avoir réussi l'examen spécifique d'utilisation de la langue anglaise de l'appendice 1 du FCL055 D.
 
 Filière P :
 
@@ -28,7 +28,7 @@ Etre détenteur d'un certificat d'aptitude médicale de classe 1.
 
 Etre détenteur du certificat d'aptitude à l'examen théorique de la licence de pilote de ligne avion (ATPL [A]) délivré en application de l'arrêté du 29 mars 1999 modifié relatif aux brevets, licences et qualifications de membre d'équipage de conduite d'avions (FCL1) depuis moins de dix-huit mois au 1er janvier de l'année du concours. Cette condition ne s'applique pas pour les candidats titulaires de la qualification de vol aux instruments avion IR (A) en état de validité.
 
-Avoir réussi l'examen spécifique d'utilisation de la langue anglaise de l'appendice 1 du FCL1200.
+Avoir réussi l'examen spécifique d'utilisation de la langue anglaise de l'appendice 1 du FCL055 D.
 
 Le concours est ouvert aux ressortissants de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
