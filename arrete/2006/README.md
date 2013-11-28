@@ -294,7 +294,6 @@
 - [Arrêté du 28 décembre 2006 (AGRP0602555A)](arrete-du-28-decembre-2006-agrp0602555a)
 - [Arrêté du 28 décembre 2006 (JUSJ0690019A)](arrete-du-28-decembre-2006-jusj0690019a)
 - [Arrêté du 28 décembre 2006 (MCCB0601025A)](arrete-du-28-decembre-2006-mccb0601025a)
-- [Arrêté du 28 décembre 2006 (PRMX0609803A)](arrete-du-28-decembre-2006-prmx0609803a)
 - [Arrêté du 28 décembre 2006 (SANP0625175A)](arrete-du-28-decembre-2006-sanp0625175a)
 - [Arrêté du 28 février 2006 (EQUA0600569A)](arrete-du-28-fevrier-2006-equa0600569a)
 - [Arrêté du 28 février 2006 (SOCF0610512A)](arrete-du-28-fevrier-2006-socf0610512a)
