@@ -321,17 +321,6 @@
 </tr>
 <tr>
 <td width="113">
-<p align="center">71 </p>
-</td>
-<td width="284">
-<p>Clinique La Roseraie</p>
-</td>
-<td width="265">
-<p>Paray-le-Monial</p>
-</td>
-</tr>
-<tr>
-<td width="113">
 <p align="center">71</p>
 </td>
 <td width="284">
