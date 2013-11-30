@@ -1,48 +1,49 @@
 # Article 2
 
-<div>
-<br/>La hiérarchie des ingénieurs militaires des essences comporte, par correspondance aux grades de la hiérarchie militaire générale, les grades mentionnés dans le tableau suivant :<br/>
-<div align="center">
+La hiérarchie des ingénieurs militaires des essences comporte, par correspondance aux grades de la hiérarchie militaire générale, les grades mentionnés dans le tableau suivant :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES DE LA HIÉRARCHIE MILITAIRE GÉNÉRALE</th>
-<th>
-<br/>CORPS DES INGÉNIEURS MILITAIRES DES ESSENCES</th>
+<th>GRADES DE LA HIÉRARCHIE MILITAIRE GÉNÉRALE<br/>
+</th>
+<th>CORPS DES INGÉNIEURS MILITAIRES DES ESSENCES<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Commandant ou capitaine de corvette</td>
-<td align="center">
-<br/>Ingénieur principal</td>
+<td align="center">Commandant ou capitaine de corvette<br/>
+</td>
+<td align="center">Ingénieur principal<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lieutenant-colonel ou capitaine de frégate</td>
-<td align="center">
-<br/>Ingénieur en chef de 2e classe</td>
+<td align="center">Lieutenant-colonel ou capitaine de frégate<br/>
+</td>
+<td align="center">Ingénieur en chef de 2e classe<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Colonel ou capitaine de vaisseau</td>
-<td align="center">
-<br/>Ingénieur en chef de 1re classe</td>
+<td align="center">Colonel ou capitaine de vaisseau<br/>
+</td>
+<td align="center">Ingénieur en chef de 1re classe<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Général de brigade ou contre-amiral</td>
-<td align="center">
-<br/>Ingénieur général de 2e classe</td>
+<td align="center">Général de brigade ou contre-amiral<br/>
+</td>
+<td align="center">Ingénieur général de 2e classe<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Général de division ou vice-amiral</td>
-<td align="center">
-<br/>Ingénieur général de 1re classe</td>
+<td align="center">Général de division ou vice-amiral<br/>
+</td>
+<td align="center">Ingénieur général de 1re classe<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
-</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Un ingénieur général de 1re classe peut recevoir rang et appellation d'ingénieur général hors classe correspondant au rang et appellation de général de corps d'armée, de général de corps aérien ou de vice-amiral d'escadre.</div>

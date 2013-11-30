@@ -1,5 +1,8 @@
 # Article 17
 
-Les ingénieurs militaires des essences ne pouvant pas bénéficier d'une pension de retraite dans les conditions fixées par les dispositions du II de l'article L. 24 du code des pensions civiles et militaires de retraite peuvent déposer une demande de démission en application de l'article L. 4139-13 du code de la défense.
+Sans préjudice des dispositions prévues au
+deuxième alinéa de l'article L. 4139-13 du code de la défense
+, les ingénieurs militaires des essences ne pouvant pas bénéficier d'une pension de retraite dans les situations fixées par les dispositions du II de l'article L. 24 du code des pensions civiles et militaires de retraite
+peuvent déposer une demande de démission.
 
-Sous réserve des dispositions prévues au deuxième alinéa de l'article L. 4139-13, le nombre de démissions agréées chaque année par le ministre de la défense en application du présent article ne peut être inférieur à 5 pour 100, arrondis à l'unité supérieure, du nombre des nominations effectuées sur une période de cinq ans au grade d'ingénieur principal dans le corps. Ce nombre est au moins égal à un sur cette même période.
+Dans ce cas, le ministre de la défense est tenu d'agréer une demande de démission, dès lors que le nombre total de celles-ci ne représente pas un nombre au moins égal à 5 % arrondis à l'unité supérieure, du nombre des nominations effectuées chaque année au premier grade du corps.

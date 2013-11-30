@@ -1,6 +1,6 @@
 # Article 16
 
-La possession de l'un des brevets de l'enseignement militaire supérieur du deuxième degré donne droit à une bonification d'un an d'ancienneté de grade pour l'avancement d'échelon.
+La possession de l'un des brevets de l'enseignement militaire supérieur du deuxième degré donne droit, pour les ingénieurs militaires des essences qui n'en ont pas bénéficié dans leur corps d'origine, à une bonification d'un an d'ancienneté de grade pour l'avancement d'échelon.
 
 Cette bonification n'est pas prise en compte pour l'avancement de grade.
 

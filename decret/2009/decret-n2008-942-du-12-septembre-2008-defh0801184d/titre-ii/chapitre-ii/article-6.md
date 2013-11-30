@@ -1,7 +1,17 @@
 # Article 6
 
-Les ingénieurs militaires des essences sont recrutés, sur leur demande, au grade d'ingénieur en chef de 2e classe parmi les lieutenants-colonels du corps technique et administratif du service des essences des armées inscrits sur une liste d'aptitude établie dans l'ordre du classement d'un concours sur épreuves ouvert aux officiers mentionnés ci-dessus et âgés de quarante ans au moins au 1er janvier de l'année du concours.
+I. - Peuvent être recrutés sur leur demande au grade d'ingénieur en chef de 2e classe les commandants inscrits au tableau d'avancement et les lieutenants-colonels du corps technique et administratif du service des essences des armées, âgés de quarante-cinq ans au plus et titulaires :
 
-Les intéressés sont nommés dans le corps des ingénieurs militaires des essences au grade d'ingénieur en chef de 2e classe à raison d'une nomination après neuf promotions à ce grade. Ils conservent, dans la limite de deux ans, leur ancienneté de grade. A égalité d'ancienneté de grade, ils prennent rang après les autres ingénieurs en chef de 2e classe.
+1° D'un des brevets de l'enseignement militaire du deuxième degré ; et
 
-Si, après neuf promotions au grade d'ingénieur en chef de 2e classe, surviennent des vacances à pourvoir au titre du présent article alors que la liste d'aptitude est épuisée, ces vacances sont comblées par la promotion d'ingénieurs principaux. Dès l'établissement d'une nouvelle liste d'aptitude, la première vacance qui survient donne lieu à la nomination dans le corps du candidat inscrit en tête de cette dernière liste.
+2° D'un diplôme d'ingénieur ou d'un diplôme conférant le grade de master ou d'un titre ou diplôme reconnu comme équivalent dans les domaines de spécialité définis par arrêté du ministre de la défense.
+
+Un arrêté du ministre de la défense fixe la liste des titres ou diplômes reconnus comme équivalents aux diplômes exigés pour être candidat aux recrutements prévus par le présent article.
+
+II. - Après un examen professionnel, dont les modalités sont fixées par arrêté du ministère de la défense, les candidats sont recrutés, sur proposition d'une commission présidée par le directeur central du service des essences des armées ou son représentant et composée, en outre, d'un officier général du service des essences des armées et du président du jury de cet examen. Les modalités de fonctionnement de cette commission sont fixées par arrêté du ministre de la défense. La commission présente, par ordre de mérite, ses propositions de recrutement au ministre de la défense.
+
+III. - Les officiers recrutés au titre du présent article sont nommés ingénieurs en chef de 2e classe le 1er août de l'année de leur recrutement. Ceux d'entre eux qui étaient lieutenants-colonels conservent, dans la limite de deux ans, leur ancienneté de grade.
+
+Ils prennent rang après les ingénieurs en chef de 2e classe de carrière ayant la même ancienneté de grade. A égalité d'ancienneté de grade, ils prennent rang entre eux dans l'ordre établi par la commission précitée.
+
+Les nominations au titre du présent article sont prononcées dans la limite de 25 %, arrondis à l'entier supérieur, du nombre d'ingénieurs militaires des essences admis au stage de formation la même année.

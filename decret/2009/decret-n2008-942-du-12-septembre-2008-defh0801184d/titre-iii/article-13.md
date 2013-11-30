@@ -8,6 +8,8 @@ En cas de partage égal des voix, celle du président est prépondérante.
 
 La commission présente au ministre de la défense ses propositions d'inscription aux tableaux d'avancement.
 
+La commission est également consultée sur les propositions d'accès à un échelon exceptionnel de grade lorsque cet accès a pour conséquence d'interdire à son bénéficiaire toute promotion ultérieure.
+
 Les tableaux d'avancement sont établis par ordre de mérite.
 
 Les tableaux d'avancement sont arrêtés par le ministre de la défense et sont publiés au Journal officiel de la République française.
