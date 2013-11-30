@@ -717,6 +717,7 @@
 - [Décret n°2013-864 du 26 septembre 2013 (INTC1318003D)](decret-n2013-864-du-26-septembre-2013-intc1318003d)
 - [Décret n°2013-865 du 26 septembre 2013 (INTC1318002D)](decret-n2013-865-du-26-septembre-2013-intc1318002d)
 - [Décret n°2013-866 du 26 septembre 2013 (INTJ1317826D)](decret-n2013-866-du-26-septembre-2013-intj1317826d)
+- [Décret n°89-273 du 26 avril 1989 (MERP8900023D)](decret-n89-273-du-26-avril-1989-merp8900023d)
 - [Décret n°93-582 du 26 mars 1993 (ECOU9300001D)](decret-n93-582-du-26-mars-1993-ecou9300001d)
 - [Décret n°2012-1478 du 27 décembre 2012 (EFIT1224072D)](decret-n2012-1478-du-27-decembre-2012-efit1224072d)
 - [Décret n°2012-1481 du 27 décembre 2012 (AFSH1240451D)](decret-n2012-1481-du-27-decembre-2012-afsh1240451d)
