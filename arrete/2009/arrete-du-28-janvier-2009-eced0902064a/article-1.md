@@ -232,7 +232,6 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">
 <p>ECOLE SUPERIEURE D'ARTS APPLIQUES BOULLE - GRETA DE LA CREATION, DU DESIGN ET DES METIERS D'ART.</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -364,7 +363,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">INSTITUT SUPERIEUR D'ENSEIGNEMENT AU MANAGEMENT DES ENTREPRISES.<br/>
+<td align="center">Groupe ISEE<br/>
 </td>
 </tr>
 <tr>
@@ -376,8 +375,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">INSTITUT SUPERIEUR D'ENSEIGNEMENT AU MANAGEMENT DES ENTREPRISES.<br/>
-</td>
+<td align="center">Groupe ISEE</td>
 </tr>
 <tr>
 <td align="center">II<br/>

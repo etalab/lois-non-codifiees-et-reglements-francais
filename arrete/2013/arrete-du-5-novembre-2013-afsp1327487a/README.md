@@ -1,4 +1,4 @@
-# Décret n°89-273 du 26 avril 1989 relatif aux communications d'informations statistiques
+# Arrêté du 5 novembre 2013 relatif au contenu des plans d'intervention pour la gestion des urgences sanitaires dans les points d'entrée
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,3 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)
