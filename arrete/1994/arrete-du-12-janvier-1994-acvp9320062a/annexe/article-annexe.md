@@ -80,7 +80,6 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <tr>
 <td rowspan="4">
 <p>Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyong et Kéllé, Nyong et Sanaga, Djà et Lobo. </p>
-<br/>
 </td>
 <td colspan="2">
 <p align="center">1re période </p>
@@ -97,7 +96,6 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <tr>
 <td colspan="2">
 <p align="center">2e période </p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -217,9 +215,44 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p>Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage). </p>
 </td>
 <td colspan="2">
-<br/>
 <p align="center">A compter du 1er avril 1991 et jusqu'à cessation des hostilités </p>
-<br/>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>République du Kenya, République de Somalie, République du Yémen, Sultanat d'Oman et République de Djibouti</b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman et de la République de Djibouti et leurs eaux avoisinantes ainsi que sur les eaux de la mer Rouge</p>
+</td>
+<td>
+<p align="center">8 décembre 2008</p>
+</td>
+<td>
+<p align="center">7 décembre 2010</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>République du Kenya, République de Somalie, République du Yémen, Sultanat d'Oman, République de Djibouti, République de Tanzanie, République du Mozambique et de Madagascar</b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman, de la République de Djibouti, de la République de Tanzanie, de la République du Mozambique, de Madagascar et leurs eaux avoisinantes (limitées à l'est par le méridien Est 065°, au nord par le parallèle Nord 022° 30 et au sud par le parallèle Sud 015°) ainsi que les eaux de la mer Rouge limitées à la zone sud d'une ligne reliant la frontière Erythrée-Soudan à la frontière Yémen-Arabie saoudite</p>
+</td>
+<td>
+<p align="center">8 décembre 2010</p>
+</td>
+<td>
+<p align="center">7 décembre 2013</p>
 </td>
 </tr>
 <tr>
@@ -242,6 +275,17 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
+<p>Dans le cadre de l'opération Trident sur le territoire du Kosovo</p>
+</td>
+<td>
+<p align="center">1er janvier 2012</p>
+</td>
+<td>
+<p align="center">31 décembre 2013</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">
 <b>Liban </b>
 </p>
@@ -255,15 +299,15 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
-<p>
-<b>République du Liban et Israël</b>, pays et leurs eaux avoisinantes </p>
-<p>Opérations Daman (FINUL) et Baliste </p>
+<p align="center">
+<b>République du Liban et Israël</b>, pays et leurs eaux avoisinantes</p>
+<p>Opérations Daman (FINUL) et Baliste</p>
 </td>
 <td>
 <p align="center">2 septembre 2006 </p>
 </td>
 <td>
-<p align="center">31 août 2012 </p>
+<p align="center">31 août 2014 </p>
 </td>
 </tr>
 <tr>
@@ -285,6 +329,24 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<p align="center">
+<b>Grande Jamahiriya arabe libyenne populaire et socialiste</b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dans le cadre de l'opération Harmattan sur le territoire de la Grande Jamahiriya arabe libyenne populaire et socialiste, pays et eaux avoisinants</p>
+</td>
+<td>
+<p align="center">18 mars 2011</p>
+</td>
+<td>
+<p align="center">31 octobre 2011</p>
+</td>
+</tr>
+<tr>
 <td>
 <p align="center">
 <b>Madagascar </b>
@@ -302,11 +364,9 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">
 <b>Mauritanie </b>
 </p>
-<br/>
 </td>
 <td colspan="2">
 <p align="center">1re période : </p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -320,7 +380,6 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <tr>
 <td colspan="2">
 <p align="center">2e période </p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -402,7 +461,9 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <td>
 <p>Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT) </p>
 </td>
-<td colspan="2"/>
+<td colspan="2">
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -431,7 +492,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p>Dans le cadre de l'opération EUFOR Tchad/ RCA sur le territoire du Tchad, de la République centrafricaine et pays avoisinants </p>
 </td>
 <td>
-<p align="center">28 janvier 2009 </p>
+<p align="center">28 janvier 2008 </p>
 </td>
 <td>
 <p align="center">27 janvier 2010 </p>
@@ -510,7 +571,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">23 septembre 2008 </p>
 </td>
 <td>
-<p align="center">22 septembre 2012 </p>
+<p align="center">22 septembre 2014 </p>
 </td>
 </tr>
 <tr>
@@ -523,14 +584,16 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">15 mars 1969 </p>
 </td>
 <td>
-<p align="center">31 décembre 2011 </p>
+<p align="center">31 décembre 2013 </p>
 </td>
 </tr>
 <tr>
 <td>
 <p>Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT) </p>
 </td>
-<td colspan="2"/>
+<td colspan="2">
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -559,10 +622,21 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p>Dans le cadre de l'opération EUFOR Tchad/ RCA sur le territoire du Tchad, de la République Centrafricaine et pays avoisinants </p>
 </td>
 <td>
-<p align="center">28 janvier 2009 </p>
+<p align="center">28 janvier 2008 </p>
 </td>
 <td>
 <p align="center">27 janvier 2010 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dans le cadre de l'opération Epervier sur les territoires du Tchad et des pays avoisinants</p>
+</td>
+<td>
+<p align="center">1er janvier 2010</p>
+</td>
+<td>
+<p align="center">31 décembre 2013</p>
 </td>
 </tr>
 <tr>
@@ -613,7 +687,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p>Opération Trident </p>
 </td>
 <td>
-<p align="center">1er janvier 1995 </p>
+<p align="center">1er janvier 2010 </p>
 </td>
 <td>
 <p align="center">31 décembre 2011 </p>
@@ -621,7 +695,6 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
-<br/>
 <p align="center">
 <b>Zaïre (ex-Congo belge) </b>
 </p>
