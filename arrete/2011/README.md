@@ -2578,7 +2578,6 @@
 - [Arrêté du 28 mars 2011 (AGRT1106235A)](arrete-du-28-mars-2011-agrt1106235a)
 - [Arrêté du 28 mars 2011 (BCRE1108697A)](arrete-du-28-mars-2011-bcre1108697a)
 - [Arrêté du 28 mars 2011 (DEFH1100284A)](arrete-du-28-mars-2011-defh1100284a)
-- [Arrêté du 28 mars 2011 (DEVL1108168A)](arrete-du-28-mars-2011-devl1108168a)
 - [Arrêté du 28 mars 2011 (ESRH1105533A)](arrete-du-28-mars-2011-esrh1105533a)
 - [Arrêté du 28 mars 2011 (ESRH1105536A)](arrete-du-28-mars-2011-esrh1105536a)
 - [Arrêté du 28 mars 2011 (ETSH1021073A)](arrete-du-28-mars-2011-etsh1021073a)
