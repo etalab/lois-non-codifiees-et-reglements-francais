@@ -1439,7 +1439,6 @@
 - [Arrêté du 18 mai 2009 (AGRG0909211A)](arrete-du-18-mai-2009-agrg0909211a)
 - [Arrêté du 18 mai 2009 (BCFF0910900A)](arrete-du-18-mai-2009-bcff0910900a)
 - [Arrêté du 18 mai 2009 (BCFS0911381A)](arrete-du-18-mai-2009-bcfs0911381a)
-- [Arrêté du 18 mai 2009 (DEFD0910142A)](arrete-du-18-mai-2009-defd0910142a)
 - [Arrêté du 18 mai 2009 (DEFD0913897A)](arrete-du-18-mai-2009-defd0913897a)
 - [Arrêté du 18 mai 2009 (DEVT0828704A)](arrete-du-18-mai-2009-devt0828704a)
 - [Arrêté du 18 mai 2009 (DEVT0911552A)](arrete-du-18-mai-2009-devt0911552a)
