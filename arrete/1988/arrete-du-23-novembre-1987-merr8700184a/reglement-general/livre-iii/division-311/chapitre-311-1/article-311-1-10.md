@@ -4,7 +4,7 @@ Matériel dangereux ou nuisible
 
 1. Lorsqu'un inspecteur de la sécurité des navires et du travail maritime constate, pendant une visite ou de toute autre manière, qu'un équipement visé à l'annexe 311-1.A.1, bien qu'il soit porteur du marquage et correctement installé, entretenu et utilisé selon l'usage pour lequel il a été conçu, est susceptible de mettre en danger la santé ou la sécurité de l'équipage, des passagers et, le cas échéant, d'autres personnes, ou de nuire à l'environnement marin, il doit prendre toutes les mesures provisoires appropriées afin d'interdire ou de restreindre son utilisation à bord du navire considéré.
 
-Le chef du centre de sécurité des navires en rend compte au sous-directeur de la sécurité maritime, qui prend toutes les mesures provisoires appropriées afin de retirer l'équipement en question du marché ou d'interdire ou de restreindre sa mise sur le marché.
+Le chef du centre de sécurité des navires en rend compte au sous-directeur de la sécurité maritime. Le ministre chargé de la mer prend toutes les mesures provisoires appropriées afin de retirer l'équipement en question du marché ou d'interdire ou de restreindre sa mise sur le marché.
 
 Le sous-directeur de la sécurité maritime informe immédiatement les autres Etats membres et la Commission des mesures prises, en indiquant les motifs de cette décision et, en particulier, si la non-conformité à la directive 96/98/CE, transposée par la présente division, est due :
 
