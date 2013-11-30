@@ -187,7 +187,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">IV<br/>
 </td>
-<td align="center">Sommelier-conseil caviste .<br/>
+<td align="center">Sommelier-conseil caviste.<br/>
 </td>
 <td align="center">334t<br/>
 </td>
@@ -769,7 +769,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">GROUPE EDUCTIS - ÉCOLE SUPÉRIEURE DE GESTION ET COMMERCE INTERNATIONAL.<br/>
+<td align="center">ESGCV - ESGCI (Ecole supérieure de gestion et commerce international)<br/>
 </td>
 </tr>
 <tr>
@@ -781,8 +781,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">GROUPE EDUCTIS - ÉCOLE SUPÉRIEURE DE GESTION ET FINANCE.<br/>
-</td>
+<td align="center">ESGCV - MBA ESG</td>
 </tr>
 <tr>
 <td align="center">I<br/>
@@ -793,8 +792,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">GROUPE EDUCTIS - ÉCOLE SUPÉRIEURE DE GESTION ET MASTERS.<br/>
-</td>
+<td align="center">ESGCV - ESGF (Ecole supérieure de gestion et finance)</td>
 </tr>
 <tr>
 <td align="center">I<br/>

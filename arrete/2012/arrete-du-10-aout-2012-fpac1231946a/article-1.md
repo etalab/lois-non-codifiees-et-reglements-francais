@@ -356,8 +356,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Association lyonnaise pour la formation (ALPF) ― IDRAC ― (Ecole supérieure d'architecture intérieur) ESAIL<br/>
-</td>
+<td align="left" valign="top">Association internationale pour la formation (AIPF) </td>
 </tr>
 <tr>
 <td align="left" valign="top">III <br/>
@@ -680,7 +679,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">CRP consulting<br/>
+<td align="left" valign="top">BGE Sud-Ouest<br/>
 </td>
 </tr>
 <tr>
@@ -1146,7 +1145,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">Chambre de commerce et d'industrie de Bordeaux (CCIB) ― BEM Bordeaux management school<br/>
+<td align="left" valign="top">KEDGE business school<br/>
 </td>
 </tr>
 <tr>
@@ -1182,7 +1181,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">SRAES ― WESFORD<br/>
+<td align="left" valign="top">Savoie décision<br/>
 </td>
 </tr>
 <tr>

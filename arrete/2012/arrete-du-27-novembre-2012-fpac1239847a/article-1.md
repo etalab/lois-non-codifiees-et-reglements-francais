@@ -171,7 +171,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="left">3 ans</p>
 </td>
 <td align="left" valign="top">
-<p align="left">DOGS, institut de formation 31 </p>
+<p align="left">EAPAC</p>
 </td>
 </tr>
 <tr>

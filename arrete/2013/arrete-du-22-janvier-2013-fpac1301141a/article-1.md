@@ -397,7 +397,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Association lyonnaise pour la formation (ALPF) - IDRAC<br/>
+<td align="left" valign="top">Association internationale pour la formation (AIPF)<br/>
 </td>
 </tr>
 <tr>

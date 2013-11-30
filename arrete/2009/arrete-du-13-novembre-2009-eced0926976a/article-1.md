@@ -219,7 +219,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">Ecole supérieure d'architecture intérieure de Lyon (ESAIL) ― Association lyonnaise pour la formation (ALPF).<br/>
+<td align="center">Association internationale pour la formation (AIPF)<br/>
 </td>
 </tr>
 <tr>

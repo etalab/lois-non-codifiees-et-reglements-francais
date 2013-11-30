@@ -710,7 +710,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td align="center">
-<p align="left">Chambre de commerce et d'industrie de Bordeaux (CCIB) - BEM Bordeaux Management School</p>
+<p align="left">KEDGE business school</p>
 </td>
 </tr>
 <tr>
@@ -727,7 +727,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="center">
-<p align="left">Chambre de commerce et d'industrie de Bordeaux (CCIB) - BEM Bordeaux Management School</p>
+<p align="left">KEDGE business school</p>
 </td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="center">
-<p align="left">Chambre de commerce et d'industrie de Bordeaux (CCIB) - BEM Bordeaux Management School</p>
+<p align="left">KEDGE business school</p>
 </td>
 </tr>
 <tr>

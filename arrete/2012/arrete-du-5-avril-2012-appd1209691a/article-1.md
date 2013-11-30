@@ -1498,7 +1498,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Groupe Euromed Management</p>
+<p>KEDGE business school</p>
 </td>
 </tr>
 <tr>
@@ -1753,7 +1753,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Association lyonnaise pour la formation (ALPF) - IDRAC</p>
+<p>Association internationale pour la formation (AIPF)</p>
 </td>
 </tr>
 <tr>
@@ -2246,7 +2246,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Institut supérieur d'enseignement au management d'entreprise (ISEE)</p>
+<p>Groupe ISEE</p>
 </td>
 </tr>
 <tr>

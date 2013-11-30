@@ -1111,9 +1111,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">CCI Paris Ile-de-France, ITESCIA.<br/>
-<br/>
-</p>
+<p align="left">CCI Paris Ile-de-France, ITESCIA.</p>
 </td>
 </tr>
 <tr>
@@ -1244,7 +1242,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Institut international de la communication de Paris (IICP).<br/>
+<p align="left">ESGCV - IICP (Institut international de la communication de Paris)<br/>
 </p>
 </td>
 </tr>

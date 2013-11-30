@@ -392,7 +392,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">COSEMO, ESGCI (Ecole supérieure de gestion et commerce international)<br/>
+<td align="left" valign="top">ESGCV-ESGCI (Ecole supérieure de gestion et commerce international)<br/>
 </td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">GGI, IICP Paris (Institut international de communication de Paris)<br/>
+<td align="left" valign="top">ESGCV- IICP (Institut international de la communication de Paris)<br/>
 </td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Association régionale du travail social de Bretagne, Institut régional du travail social de Bretagne<br/>
+<td align="left" valign="top">ASKORIA<br/>
 </td>
 </tr>
 <tr>

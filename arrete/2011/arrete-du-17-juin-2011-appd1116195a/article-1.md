@@ -712,7 +712,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Association lyonnaise pour la formation (ALPF) - Institut de recherche et d'action commerciale (IDRAC)<br/>
+<p align="left">Association internationale pour la formation (AIPF)<br/>
 </p>
 </td>
 </tr>

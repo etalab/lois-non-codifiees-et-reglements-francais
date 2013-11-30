@@ -8,19 +8,19 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tbody>
 <tr>
 <td>
-<p align="center"> NIVEAU</p>
+<p align="center">NIVEAU</p>
 </td>
 <td>
-<p align="center"> INTITULÉ<br/>de la certification professionnelle</p>
+<p align="center">INTITULÉ<br/>de la certification professionnelle</p>
 </td>
 <td>
-<p align="center"> CODE NSF</p>
+<p align="center">CODE NSF</p>
 </td>
 <td>
-<p align="center"> DURÉE</p>
+<p align="center">DURÉE</p>
 </td>
 <td>
-<p align="center"> ORGANISME<br/>délivrant la certification professionnelle</p>
+<p align="center">ORGANISME<br/>délivrant la certification professionnelle</p>
 </td>
 </tr>
 <tr>
@@ -464,8 +464,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">Association lyonnaise pour la formation (ALPF) ― Institut de recherche et d'action commerciale (IDRAC)<br/>
-</td>
+<td align="center">Association internationale pour la formation (AIPF) </td>
 </tr>
 <tr>
 <td align="center">II<br/>
