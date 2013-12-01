@@ -78,15 +78,15 @@ Vous pouvez consulter le tableau à l'adresse suivante :
 
 http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026237147&fastPos=1&fastReqId=1320861869&categorieLien=id&oldAction=rechTexte
 
-Notice explicative pour le patient figurant au dos du devis :
+Notice explicative pour le patient figurant au dos du devis
 
-Ce devis s'applique à tout traitement, pour lequel un dispositif médical sur mesure est nécessaire (prothèse dentaire essentiellement). Le chirurgien-dentiste vous précisera la durée de validité de ce devis.
+Ce devis s'applique à tout traitement pour lequel un dispositif médical sur mesure est nécessaire (prothèse dentaire essentiellement). Le chirurgien-dentiste vous précisera la durée de validité de ce devis.
 
 Votre chirurgien-dentiste vous informera des différentes possibilités de traitement qui vous sont offertes.
 
 Si vous désirez transmettre ce devis à votre organisme complémentaire, vous pouvez renseigner le pavé correspondant.
 
-Dans ce devis, le chirurgien-dentiste décrit le traitement qu'il vous propose ainsi que les différents matériaux utilisés.
+Dans ce devis, le chirurgien-dentiste décrit le traitement qu'il vous propose ainsi que les différents matériaux utilisés. Il vous précise la nature de l'acte conformément à la classification commune des actes médicaux (CCAM) ou, pour les actes d'orthodontie, à la nomenclature générale des actes et prestations (NGAP). Lorsqu'un acte est non remboursable par l'assurance maladie obligatoire, le chirurgien-dentiste indique dans la colonne D, réservée à la base de remboursement de l'assurance maladie obligatoire, la mention " NR " (non-remboursable).
 
 Le chirurgien-dentiste doit indiquer le lieu de fabrication du dispositif médical (exemple : couronne), qui peut être :
 
@@ -98,6 +98,6 @@ Le chirurgien-dentiste doit indiquer le lieu de fabrication du dispositif médic
 
 En cas de sous-traitance de la fabrication du dispositif par le fournisseur, le chirurgien-dentiste en précisera le lieu.
 
-Si vous le souhaitez, une déclaration de conformité du dispositif médical, garantissant la traçabilité et la sécurité des matériaux utilisés, vous sera remise en fin de traitement.
+Une déclaration de conformité du dispositif médical, garantissant la traçabilité et la sécurité des matériaux utilisés, vous sera remise en fin de traitement.
 
-Ce devis vous informera du coût des traitements proposés par votre chirurgien-dentiste. Il précisera notamment le prix de vente du dispositif médical sur mesure proposé, correspondant au coût d'élaboration du dispositif médical incluant certaines charges du cabinet (A), le montant des prestations de soins assurées par le praticien lors du traitement (B1) ainsi que le montant des autres charges de structure du cabinet (B2). Les honoraires (C = A + B1 + B2) correspondent à la somme de ces trois montants. En outre, le devis précise le montant restant à votre charge avant remboursement par votre organisme complémentaire, si vous en avez un (E).
+Ce devis vous informe du coût des traitements proposés par votre chirurgien-dentiste. Il précise notamment le prix de vente du dispositif médical sur mesure proposé, correspondant au coût d'élaboration du dispositif médical incluant certaines charges du cabinet (A), le montant des prestations de soins assurées par le praticien lors du traitement (B1) ainsi que le montant des autres charges de structure du cabinet (B2). Les honoraires (C = A + B1 + B2) correspondent à la somme de ces trois montants. En outre, le devis précise le montant restant à votre charge avant remboursement par votre organisme complémentaire, si vous en avez un (E).

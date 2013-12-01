@@ -14,29 +14,29 @@ A cet effet, la présente convention vise notamment à améliorer la prévention
 
 En conséquence, les Parties signataires estiment nécessaire de procéder à :
 
-- la redéfinition du dispositif de prévention afin d'engager des actions vers des cibles prioritaires ;
+-la redéfinition du dispositif de prévention afin d'engager des actions vers des cibles prioritaires ;
 
-- la réévaluation des soins conservateurs et chirurgicaux les plus importants par une modification de certaines cotations de la nomenclature, dans l'attente de l'étude nécessaire à la mise en place de la classification commune des actes médicaux (CCAM) ; cette réévaluation devant se traduire par un meilleur équilibre entre les soins conservateurs, chirurgicaux et prothétiques ;
+-la réévaluation des soins conservateurs et chirurgicaux les plus importants par une modification de certaines cotations de la nomenclature, dans l'attente de l'étude nécessaire à la mise en place de la classification commune des actes médicaux (CCAM) ; cette réévaluation devant se traduire par un meilleur équilibre entre les soins conservateurs, chirurgicaux et prothétiques ;
 
-- dans un souci d'améliorer l'accès aux soins des plus démunis, l'aménagement conventionnel des dispositions de l'application de la loi CMU-C et une proposition de modification de la grille tarifaire des arrêtés du 31 décembre 1999, du 15 janvier 2000 et du 10 avril 2002.
+-dans un souci d'améliorer l'accès aux soins des plus démunis, l'aménagement conventionnel des dispositions de l'application de la loi CMU-C et une proposition de modification de la grille tarifaire des arrêtés du 31 décembre 1999, du 15 janvier 2000 et du 10 avril 2002.
 
 Par ailleurs, les Parties signataires s'accordent pour étudier des mesures d'accompagnement relatives à la démographie, la formation continue conventionnelle et pour mettre en place la commission de hiérarchisation des actes.
 
 En outre, les Parties signataires décident de se fixer les objectifs suivants :
 
-- garantir à tous les assurés l'accès à des soins de qualité et améliorer progressivement leur prise en charge ;
+-garantir à tous les assurés l'accès à des soins de qualité et améliorer progressivement leur prise en charge ;
 
-- garantir à tous les assurés sociaux une meilleure information sur les soins bucco-dentaires dont ils bénéficient ;
+-garantir à tous les assurés sociaux une meilleure information sur les soins bucco-dentaires dont ils bénéficient ;
 
-- responsabiliser les assurés et les patients dans le recours aux soins dentaires en leur offrant la possibilité de s'inscrire dans des dispositifs de prévention efficients et de bénéficier au plus tôt des soins conservateurs dont ils ont besoin ;
+-responsabiliser les assurés et les patients dans le recours aux soins dentaires en leur offrant la possibilité de s'inscrire dans des dispositifs de prévention efficients et de bénéficier au plus tôt des soins conservateurs dont ils ont besoin ;
 
-- prendre en compte la place spécifique du chirurgien-dentiste pour la mise en oeuvre du parcours de soins, dans le respect de sa capacité professionnelle ;
+-prendre en compte la place spécifique du chirurgien-dentiste pour la mise en oeuvre du parcours de soins, dans le respect de sa capacité professionnelle ;
 
-- garantir la forme libérale de l'exercice de la chirurgie dentaire.
+-garantir la forme libérale de l'exercice de la chirurgie dentaire.
 
 L'assurance maladie réaffirme son engagement à ne pas mettre en place une distribution de soins dentaires par les cabinets de caisses ;
 
-- respecter le libre choix du praticien par le malade. Dans ce cadre, les caisses s'engagent à ne faire aucune discrimination entre tous les chirurgiens-dentistes placés sous le régime de la présente convention et les médecins conventionnés qui dispensent les mêmes actes.
+-respecter le libre choix du praticien par le malade. Dans ce cadre, les caisses s'engagent à ne faire aucune discrimination entre tous les chirurgiens-dentistes placés sous le régime de la présente convention et les médecins conventionnés qui dispensent les mêmes actes.
 
 Les caisses s'engagent à donner à leurs ressortissants toutes informations utiles sur la situation, au regard de la présente convention, des chirurgiens-dentistes de leur circonscription.
 
@@ -44,11 +44,11 @@ Pour leur part, les chirurgiens-dentistes assurent cette information auprès de 
 
 Les caisses se réservent le droit de faire connaître aux assurés les sanctions non assorties de sursis comportant interdiction temporaire ou définitive pour les chirurgiens-dentistes de donner des soins aux bénéficiaires de l'assurance maladie :
 
-- respecter le principe du paiement direct à l'acte ;
+-respecter le principe du paiement direct à l'acte ;
 
-- organiser la maîtrise médicalisée de l'évolution des dépenses, qui doit être un des moyens nécessaires à la promotion de la santé, à la préservation de notre système de soins et de protection sociale ainsi qu'à une juste rémunération de l'activité des chirurgiens-dentistes. Les Parties signataires souhaitent tout mettre en oeuvre afin que les dépenses soient optimisées ;
+-organiser la maîtrise médicalisée de l'évolution des dépenses, qui doit être un des moyens nécessaires à la promotion de la santé, à la préservation de notre système de soins et de protection sociale ainsi qu'à une juste rémunération de l'activité des chirurgiens-dentistes. Les Parties signataires souhaitent tout mettre en oeuvre afin que les dépenses soient optimisées ;
 
-- améliorer la qualité des soins dispensés, notamment en s'appuyant sur des référentiels médicaux scientifiquement validés.
+-améliorer la qualité des soins dispensés, notamment en s'appuyant sur des référentiels médicaux scientifiquement validés.
 
 Les Parties signataires s'engagent à suivre et à évaluer régulièrement les actions qu'elles mettent en oeuvre.
 
@@ -76,7 +76,7 @@ Afin de poursuivre une politique préventive active et nécessaire pour les plus
 
 Les Parties signataires entendent rappeler leur attachement au financement de ce dispositif dans le cadre du Fonds national de prévention, d'éducation et d'information sanitaires (FNPEIS).
 
-Elles décident ainsi de mettre en place et de développer des actions incitatives de prévention vers des cibles prioritaires, correspondant aux âges les plus vulnérables au risque carieux, que sont les jeunes de 6, 9, 12, 15 et 18 ans.
+Elles décident ainsi de mettre en place et de développer des actions incitatives de prévention vers des cibles prioritaires, correspondant aux âges les plus vulnérables au risque carieux, que sont les jeunes de 6,9,12,15 et 18 ans.
 
 En outre, l'Union nationale des caisses d'assurance maladie (UNCAM) s'engage à mettre en place, en partenariat avec la profession, une gestion active du dispositif de prévention de manière à accompagner les bénéficiaires et les inciter à y participer.
 
@@ -88,7 +88,7 @@ De plus, les Parties signataires mettront en place un dispositif de prévention 
 
 1.1.1. Les bénéficiaires
 
-Le dispositif de prévention s'adresse aux enfants ou adolescents âgés de 6, 9, 12, 15 et 18 ans, ayants droit ou assurés sociaux et remplissant les conditions d'ouverture des droits aux prestations de l'assurance maladie.
+Le dispositif de prévention s'adresse aux enfants ou adolescents âgés de 6,9,12,15 et 18 ans, ayants droit ou assurés sociaux et remplissant les conditions d'ouverture des droits aux prestations de l'assurance maladie.
 
 1.1.2. Les chirurgiens-dentistes
 
@@ -98,31 +98,29 @@ Toutefois, les spécialistes qualifiés en orthopédie dento-faciale conventionn
 
 1.2. Contenu du dispositif
 
-Les jeunes de 6, 9, 12, 15 et 18 ans bénéficient d'un examen de prévention et des soins consécutifs éventuellement préconisés lors de cet examen.
+Les jeunes de 6,9,12,15 et 18 ans bénéficient d'un examen de prévention et des soins consécutifs éventuellement préconisés lors de cet examen.
 
 1.2.1. Le contenu de l'examen de prévention
 
 L'examen comprend obligatoirement :
 
-- une anamnèse ;
+-une anamnèse ;
 
-- un examen bucco-dentaire ;
+-un examen bucco-dentaire ;
 
-- des éléments d'éducation sanitaire : sensibilisation à la santé bucco-dentaire (hygiène bucco-dentaire, enseignement du brossage dentaire...), recommandations d'hygiène alimentaire.
+-des éléments d'éducation sanitaire : sensibilisation à la santé bucco-dentaire (hygiène bucco-dentaire, enseignement du brossage dentaire...), recommandations d'hygiène alimentaire.
 
 L'examen est complété, si nécessaire, par :
 
-- des radiographies intrabuccales ;
+-des radiographies intrabuccales ;
 
-- l'établissement d'un programme de soins.
+-l'établissement d'un programme de soins.
 
 Dans le cas où il n'y a qu'un acte à réaliser, celui-ci peut être exécuté au cours de la même séance que l'examen de prévention. Il ne peut y avoir au cours d'une même séance facturation d'une consultation et d'un examen de prévention.
 
 1.2.2. Les soins consécutifs à l'examen de prévention
 
-Entrent dans le champ du dispositif les seuls actes correspondant à des soins conservateurs, chirurgicaux et des actes radiographiques, cotés respectivement par les lettres clés SC, DC, Z de la NGAP.
-
-Les traitements orthodontiques et prothétiques sont exclus de ce dispositif.
+Entrent dans le champ du dispositif les seuls actes correspondant à des soins conservateurs, chirurgicaux et des actes radiographiques, conformément à la liste fixée en annexe III de l'avenant n° 3 à la convention nationale.
 
 1.2.3. Les tarifs d'honoraires du dispositif de prévention
 
@@ -154,41 +152,41 @@ Les caisses d'assurance maladie s'engagent à permettre la télétransmission de
 
 Le chirurgien-dentiste s'engage à :
 
-- respecter les clauses du présent texte et à faire bénéficier ses patients des tarifs conventionnels comme prévu à la convention nationale en s'interdisant l'usage des dépassements d'honoraires visés par la convention ;
+-respecter les clauses du présent texte et à faire bénéficier ses patients des tarifs conventionnels comme prévu à la convention nationale en s'interdisant l'usage des dépassements d'honoraires visés par la convention ;
 
-- permettre au patient d'accéder à l'ensemble des avantages prévus dans le dispositif ;
+-permettre au patient d'accéder à l'ensemble des avantages prévus dans le dispositif ;
 
-- informer son patient et son représentant légal, s'il est présent, de l'état bucco-dentaire constaté et, le cas échéant, du nombre de dents à traiter et de la nature des soins à engager, tout en précisant les priorités ;
+-informer son patient et son représentant légal, s'il est présent, de l'état bucco-dentaire constaté et, le cas échéant, du nombre de dents à traiter et de la nature des soins à engager, tout en précisant les priorités ;
 
-- accompagner sa démarche de conseils d'hygiène et de prévention en soulignant l'intérêt d'un traitement précoce, d'un suivi régulier et de la continuité des soins ;
+-accompagner sa démarche de conseils d'hygiène et de prévention en soulignant l'intérêt d'un traitement précoce, d'un suivi régulier et de la continuité des soins ;
 
-- participer à l'évaluation du dispositif en :
+-participer à l'évaluation du dispositif en :
 
-- conservant dans le dossier médical du patient les renseignements médicaux relatifs à l'examen de prévention et au programme de soins éventuels ;
+-conservant dans le dossier médical du patient les renseignements médicaux relatifs à l'examen de prévention et au programme de soins éventuels ;
 
-- transmettant ces renseignements au service médical à sa demande ;
+-transmettant ces renseignements au service médical à sa demande ;
 
-- répondant à toute enquête ou recueil d'informations réalisé selon les modalités définies entre les Parties signataires et conformément aux modalités de suivi indiquées ci-après ;
+-répondant à toute enquête ou recueil d'informations réalisé selon les modalités définies entre les Parties signataires et conformément aux modalités de suivi indiquées ci-après ;
 
-- participer à la campagne de prévention bucco-dentaire.
+-participer à la campagne de prévention bucco-dentaire.
 
 1.4.2. Les engagements de l'UNCAM
 
 L'UNCAM s'engage à :
 
-- faire bénéficier les patients concernés par le dispositif de la procédure de dispense d'avance des frais pour l'examen de prévention annuel et son complément radiologique éventuel ;
+-faire bénéficier les patients concernés par le dispositif de la procédure de dispense d'avance des frais pour l'examen de prévention annuel et son complément radiologique éventuel ;
 
-- honorer directement l'examen annuel de prévention et son complément radiologique éventuel aux chirurgiens-dentistes ;
+-honorer directement l'examen annuel de prévention et son complément radiologique éventuel aux chirurgiens-dentistes ;
 
-- mettre en place, en partenariat avec les syndicats signataires, une gestion active des bénéficiaires du dispositif de manière à les suivre au plus près et à les inciter à y participer ;
+-mettre en place, en partenariat avec les syndicats signataires, une gestion active des bénéficiaires du dispositif de manière à les suivre au plus près et à les inciter à y participer ;
 
-- accompagner, en partenariat avec les syndicats signataires, la mise en oeuvre du dispositif de prévention de campagnes d'information destinées aux assurés, aux bénéficiaires potentiels et aux chirurgiens-dentistes ;
+-accompagner, en partenariat avec les syndicats signataires, la mise en oeuvre du dispositif de prévention de campagnes d'information destinées aux assurés, aux bénéficiaires potentiels et aux chirurgiens-dentistes ;
 
-- restituer aux chirurgiens-dentistes dans le cadre des commissions paritaires conventionnelles les informations et analyses pertinentes résultant des évaluations ;
+-restituer aux chirurgiens-dentistes dans le cadre des commissions paritaires conventionnelles les informations et analyses pertinentes résultant des évaluations ;
 
-- émettre l'ordre de virement de la facturation dans un délai maximum de quinze jours à compter de la réception du support de facturation dûment complété ;
+-émettre l'ordre de virement de la facturation dans un délai maximum de quinze jours à compter de la réception du support de facturation dûment complété ;
 
-- en cas de support électronique, ce délai est ramené à cinq jours.
+-en cas de support électronique, ce délai est ramené à cinq jours.
 
 1.5. Evaluation du dispositif
 
@@ -204,29 +202,29 @@ Les Parties signataires doivent recueillir les éléments principaux permettant 
 
 1. Domaine médical :
 
-- nombre d'enfants ayant un besoin de soins/nombre total de bénéficiaires ayant eu un examen de prévention ;
+-nombre d'enfants ayant un besoin de soins/ nombre total de bénéficiaires ayant eu un examen de prévention ;
 
-- nombre de programmes de soins réalisés/nombre de programmes de soins proposés ;
+-nombre de programmes de soins réalisés/ nombre de programmes de soins proposés ;
 
-- analyse du type d'actes prodigués au cours de l'examen de prévention ;
+-analyse du type d'actes prodigués au cours de l'examen de prévention ;
 
-- analyse de l'indice CAO.
+-analyse de l'indice CAO.
 
 2. Domaine économique :
 
-- suivi de l'indice CAO ;
+-suivi de l'indice CAO ;
 
-- suivi du volume d'actes de soins conservateurs par cotation et par tranche d'âge.
+-suivi du volume d'actes de soins conservateurs par cotation et par tranche d'âge.
 
 3. Domaine social :
 
-- impact de la mise en oeuvre du dispositif sur l'activité des chirurgiens-dentistes ;
+-impact de la mise en oeuvre du dispositif sur l'activité des chirurgiens-dentistes ;
 
-- impact de la mise en oeuvre du dispositif sur le comportement des bénéficiaires (recours aux soins ou recours à l'examen par exemple) par tranche d'âge et par cible ;
+-impact de la mise en oeuvre du dispositif sur le comportement des bénéficiaires (recours aux soins ou recours à l'examen par exemple) par tranche d'âge et par cible ;
 
-- enquête de satisfaction auprès des chirurgiens-dentistes ;
+-enquête de satisfaction auprès des chirurgiens-dentistes ;
 
-- enquête de satisfaction auprès des bénéficiaires et des assurés.
+-enquête de satisfaction auprès des bénéficiaires et des assurés.
 
 1.5.3. La formalisation de l'évaluation
 
@@ -250,9 +248,75 @@ Elles confient, en tant que de besoin, à la formation chirurgiens-dentistes de 
 
 Les commissions dressent chaque année un bilan d'application du dispositif qu'elles adressent à la Commission paritaire nationale.
 
-1.7. Dispositions transitoires
+1.7. Prévention bucco-dentaire à destination des femmes enceintes
 
-Le bilan bucco-dentaire (BBD) demeure applicable dans les conditions prévues par la précédente convention nationale des chirurgiens-dentistes jusqu'à la mise en place avant le 1er janvier 2007 des présentes dispositions pour les jeunes de 6, 9, 12, 15 et 18 ans.
+1.7.1. Les bénéficiaires
+
+Le dispositif de prévention s'adresse aux femmes enceintes, ayants droit ou assurées sociales, remplissant les conditions d'ouverture des droits aux prestations de l'assurance maladie et maternité.
+
+1.7.2. Les chirurgiens-dentistes
+
+Les chirurgiens-dentistes libéraux et salariés relevant des dispositions de la convention nationale participent à cette action de prévention.
+
+Toutefois, les spécialistes qualifiés en orthopédie dento-faciale conventionnés, qui n'exécutent pas de soins bucco-dentaires en raison de leur spécialité, ne participent pas à cette action nationale de prévention.
+
+1.7.3. Contenu du dispositif
+
+Les femmes enceintes, bénéficient d'un examen de prévention pris en charge à 100 % avec dispense d'avance de frais, à compter du quatrième mois de grossesse jusqu'à douze jours après l'accouchement.
+
+1.7.3.1. Le contenu de l'examen de prévention
+
+L'examen comprend obligatoirement :
+
+- une anamnèse ;
+
+- un examen bucco-dentaire ;
+
+- des éléments d'éducation sanitaire : sensibilisation de la future mère à la santé bucco-dentaire (hygiène orale...), hygiène alimentaire, information sur l'étiologie et la prévention de la carie de la petite enfance (mesures d'hygiène nécessaires dès l'éruption des premières dents de l'enfant)...
+
+Ces informations et conseils d'éducation sanitaire sont délivrés oralement par le chirurgien-dentiste, lors de la consultation de prévention, et peuvent se matérialiser par la remise d'une plaquette synthétisant ces conseils.
+
+L'examen est complété, si nécessaire, par :
+
+- des radiographies intrabuccales ;
+
+- l'établissement d'un programme de soins.
+
+Dans le cas où il n'y a qu'un acte à réaliser, celui-ci peut être exécuté au cours de la même séance que l'examen de prévention. Il ne peut y avoir au cours d'une même séance facturation d'une consultation et d'un examen de prévention.
+
+1.7.3.2. Les tarifs d'honoraires de l'examen de prévention
+
+Cet examen est valorisé à 30 euros. Il est complété si nécessaire par des radiographies intrabuccales, quelle que soit la technique utilisée.
+
+Dans ce cas, la rémunération forfaitaire de l'examen et des radiographies est la suivante :
+
+- examen avec réalisation de 1 ou 2 clichés : 42 euros ;
+
+- examen avec réalisation de 3 ou 4 clichés : 54 euros.
+
+L'examen et les radiographies qui y sont associées, le cas échéant, sont facturés à tarifs opposables.
+
+1.7.4. Modalités pratiques
+
+1.7.4.1. Mise en œuvre du dispositif
+
+A compter de la réception de la déclaration de grossesse de l'assurée ou de l'ayant droit, la caisse d'assurance maladie dont elle relève lui envoie l'imprimé unique de prise en charge préidentifié accompagné d'une invitation à participer à cet examen de prévention.
+
+Pour bénéficier des avantages du dispositif, la femme enceinte doit consulter le chirurgien-dentiste de son choix, à compter de son quatrième mois de grossesse, et ce jusqu'à douze jours après l'accouchement. Elle présente alors au praticien l'imprimé de prise en charge préidentifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
+
+La facture de l'examen doit être télétransmise. En cas d'impossibilité, le chirurgien-dentiste complète la partie supérieure de l'imprimé de prise en charge et l'adresse à l'organisme d'affiliation de l'assurée pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure renseignements médicaux est à conserver par le chirurgien-dentiste dans le dossier de la patiente.
+
+Afin de permettre une mise en œuvre optimale, le dispositif entrera en vigueur au lendemain de la publication au Journal officiel du présent avenant.
+
+1.7.4.2. Evaluation et suivi du dispositif
+
+Les parties signataires considèrent qu'une évaluation de ce dispositif doit être réalisée.
+
+L'ensemble des acteurs étant amené à participer à cette évaluation, les praticiens s'engagent, en conséquence, à répondre le plus efficacement possible à toute sollicitation des caisses ou des tiers habilités afin de faciliter cette démarche. En contrepartie, les caisses d'assurance maladie conviennent de mettre à disposition des instances conventionnelles concernées les éléments analytiques d'évaluation du dispositif de prévention.
+
+Les partenaires conventionnels conviennent, à ce titre, d'étudier l'application et le suivi du dispositif dans le cadre des instances conventionnelles nationale et départementales.
+
+Un bilan annuel sera réalisé dans le cadre de l'observatoire conventionnel national, prévu à l'article 3.4 de la convention nationale.
 
 TITRE II
 
@@ -294,7 +358,7 @@ Les Parties signataires, soucieuses de répondre au mieux à l'accès des béné
 
 La réévaluation de ces actes est considérée comme une priorité sanitaire, en tenant compte des dotations financières accordées par le fonds CMU pour le périmètre de soins dentaires et en adéquation avec le dispositif de gestion des soins prothétiques.
 
-A cette fin, les partenaires conventionnels se sont accordés pour soumettre au ministre de la santé et des solidarités des propositions de revalorisation de ces soins en portant notamment une attention particulière aux actes d'orthopédie dento-faciale.
+A cette fin, le montant maximal de l'entente directe applicable aux bénéficiaires du droit à la protection complémentaire en matière de santé visés à l'article L. 861-3 du code de la sécurité sociale est fixé par l'annexe V de la convention.
 
 Les signataires de la présente convention souhaitent accompagner les bénéficiaires de la CMU-C comme l'ensemble des assurés afin qu'ils appréhendent pleinement leurs droits et obligations. Un groupe de travail est créé à cet effet.
 
@@ -306,9 +370,9 @@ LA MAÎTRISE MÉDICALISÉE DE L'ÉVOLUTION DES DÉPENSES ET LA QUALITÉ DES SOIN
 
 Les chirurgiens-dentistes, placés sous le régime de la présente convention, s'engagent à :
 
-- respecter les dispositions législatives et réglementaires relatives à l'exercice de leur profession ;
+-respecter les dispositions législatives et réglementaires relatives à l'exercice de leur profession ;
 
-- faire bénéficier leurs patients de soins suivis, consciencieux, éclairés, attentifs et prudents et conformes aux données avérées de la science.
+-faire bénéficier leurs patients de soins suivis, consciencieux, éclairés, attentifs et prudents et conformes aux données avérées de la science.
 
 Les caisses reconnaissent aux chirurgiens-dentistes placés sous le régime de la présente convention, la liberté du choix des thérapeutiques utilisées.
 
@@ -342,25 +406,25 @@ Pour la mise en oeuvre de la loi n° 2004-810 du 13 août 2004 relative à l'ass
 
 Dès lors, sur les thèmes retenus, les engagements pourront répondre notamment à :
 
-- la réduction des écarts de consommation de soins et de prestations non expliqués par l'état sanitaire des populations observées ;
+-la réduction des écarts de consommation de soins et de prestations non expliqués par l'état sanitaire des populations observées ;
 
-- l'optimisation des pratiques de diagnostic et de soins, notamment par le respect de recommandations et/ou de stratégies moins onéreuses à efficacité comparable.
+-l'optimisation des pratiques de diagnostic et de soins, notamment par le respect de recommandations et/ ou de stratégies moins onéreuses à efficacité comparable.
 
 A cet effet, les Parties signataires définissent pour 2006 les thèmes et objectifs de maîtrise médicalisée suivants :
 
 Sous forme d'engagements de maîtrise médicalisée :
 
-- respect des recommandations médicales et des indications thérapeutiques des reconstitutions préprothétiques à ancrage radiculaire coulées ou insérées en phase plastique, tout en favorisant la technique au plus faible coût à efficacité thérapeutique identique : augmentation de 8 points du ratio, à l'horizon d'un an, des reconstitutions préprothétiques à ancrage radiculaire insérées en phase plastique relativement aux reconstitutions préprothétiques à ancrage radiculaire coulées ;
+-respect des recommandations médicales et des indications thérapeutiques des reconstitutions préprothétiques à ancrage radiculaire coulées ou insérées en phase plastique, tout en favorisant la technique au plus faible coût à efficacité thérapeutique identique : augmentation de 8 points du ratio, à l'horizon d'un an, des reconstitutions préprothétiques à ancrage radiculaire insérées en phase plastique relativement aux reconstitutions préprothétiques à ancrage radiculaire coulées ;
 
-- amélioration de la prescription d'antibiotiques dans le cadre du traitement des affections de la cavité buccale afin de réduire le risque de développement des résistances bactériennes : diminution de 10 % des montants 2005, à l'horizon d'un an, des prescriptions d'antibiotiques à visée curative et à visée prophylactique réalisées pour le traitement d'affections bucco-dentaires. La Commission paritaire nationale visée à l'article 7.2.1 précisera la déclinaison régionale de cet objectif.
+-amélioration de la prescription d'antibiotiques dans le cadre du traitement des affections de la cavité buccale afin de réduire le risque de développement des résistances bactériennes : diminution de 10 % des montants 2005, à l'horizon d'un an, des prescriptions d'antibiotiques à visée curative et à visée prophylactique réalisées pour le traitement d'affections bucco-dentaires. La Commission paritaire nationale visée à l'article 7.2.1 précisera la déclinaison régionale de cet objectif.
 
 Pour l'année 2007, les Parties conviennent de reprendre les thèmes retenus pour 2006 et définissent un nouveau thème pour 2007 :
 
 Sous forme d'engagements de maîtrise médicalisée :
 
-- amélioration des choix thérapeutiques pour la réalisation des reconstitutions préprothétiques, avec ou sans ancrage radiculaire ;
+-amélioration des choix thérapeutiques pour la réalisation des reconstitutions préprothétiques, avec ou sans ancrage radiculaire ;
 
-- amélioration de la prise en charge des patients atteints de pathologies cardiaques ou diabétiques ou susceptibles de subir des interventions de chirurgie orthopédique et devant recevoir des soins bucco-dentaires : diminution des risques médicaux pour ces patients en liaison avec les autres professionnels concernés.
+-amélioration de la prise en charge des patients atteints de pathologies cardiaques ou diabétiques ou susceptibles de subir des interventions de chirurgie orthopédique et devant recevoir des soins bucco-dentaires : diminution des risques médicaux pour ces patients en liaison avec les autres professionnels concernés.
 
 Est joint en annexe V à la présente convention le tableau présentant la déclinaison régionale de l'engagement de maîtrise médicalisée sur le thème : reconstitutions préprothétiques à ancrage radiculaire, pour les douze mois à compter de l'entrée en vigueur de la présente convention.
 
@@ -376,7 +440,7 @@ Dispositif de suivi de l'évolution des dépenses dentaires
 
 La Commission paritaire nationale se réunit au moins deux fois par an pour suivre l'évolution de ces dépenses.
 
-Les commissions paritaires départementales se réunissent au moins deux fois par an pour examiner le suivi des dépenses de leur circonscription relatives aux actes dentaires présentés au remboursement de l'assurance maladie. Elles mettent en place notamment des actions d'information auprès des assurés et/ou des professionnels.
+Les commissions paritaires départementales se réunissent au moins deux fois par an pour examiner le suivi des dépenses de leur circonscription relatives aux actes dentaires présentés au remboursement de l'assurance maladie. Elles mettent en place notamment des actions d'information auprès des assurés et/ ou des professionnels.
 
 Observatoire des dépenses dentaires
 
@@ -404,7 +468,7 @@ Les chirurgiens-dentistes s'engagent à n'utiliser que les feuilles de soins, im
 
 L'UNCAM s'engage à consulter les organisations syndicales nationales signataires préalablement à toute création ou modification d'imprimés nécessaires à l'application de la législation et de la réglementation de la sécurité sociale.
 
-Les chirurgiens-dentistes s'engagent à porter toutes les informations rendues nécessaires par la réglementation en vigueur sur les documents électroniques et/ou papier ouvrant droit aux prestations d'assurance maladie-maternité et accident du travail.
+Les chirurgiens-dentistes s'engagent à porter toutes les informations rendues nécessaires par la réglementation en vigueur sur les documents électroniques et/ ou papier ouvrant droit aux prestations d'assurance maladie-maternité et accident du travail.
 
 Lorsqu'un chirurgien-dentiste réalise sur un même patient des actes imputables à des risques différents (AM, AT), il inscrit les actes imputables à chaque risque sur des feuilles de soins distinctes.
 
@@ -466,11 +530,11 @@ L'activité du remplaçant est assimilée à celle du remplacé dans le cadre de
 
 Lorsque les actes sont effectués par un chirurgien-dentiste salarié :
 
-- les feuilles de soins et de traitements bucco-dentaires, sur lesquelles sont inscrits les soins, doivent permettre l'identification nominale et codée de l'employeur, suivie de l'identification du chirurgien-dentiste salarié ;
+-les feuilles de soins et de traitements bucco-dentaires, sur lesquelles sont inscrits les soins, doivent permettre l'identification nominale et codée de l'employeur, suivie de l'identification du chirurgien-dentiste salarié ;
 
-- le chirurgien-dentiste salarié atteste la prestation de l'acte et le professionnel de santé employeur, le paiement des honoraires ; ils apposent respectivement leur signature dans la colonne réservée à l'exécution de l'acte et dans la colonne réservée à l'attestation du paiement des honoraires ;
+-le chirurgien-dentiste salarié atteste la prestation de l'acte et le professionnel de santé employeur, le paiement des honoraires ; ils apposent respectivement leur signature dans la colonne réservée à l'exécution de l'acte et dans la colonne réservée à l'attestation du paiement des honoraires ;
 
-- la signature du professionnel de santé employeur, sur la feuille de soins bucco-dentaires, engage sa responsabilité sur l'application, par le chirurgien-dentiste salarié, des cotations de la nomenclature en vigueur.
+-la signature du professionnel de santé employeur, sur la feuille de soins bucco-dentaires, engage sa responsabilité sur l'application, par le chirurgien-dentiste salarié, des cotations de la nomenclature en vigueur.
 
 4.1.7. Les actes dispensés dans un établissement
 
@@ -488,7 +552,7 @@ Tous les associés sont habilités à signer l'acquit des honoraires, en revanch
 
 Principe
 
-Les tarifs d'honoraires fixés en application de la présente convention sont déterminés d'après la liste des actes et prestations établie dans les conditions prévues à l'article L. 162-1-7 du code de la sécurité sociale et sont indiqués en annexe I.
+Les tarifs d'honoraires fixés en application de la présente convention sont déterminés d'après la liste des actes et prestations établie dans les conditions prévues à l'article L. 162-1-7 du code de la sécurité sociale et sont indiqués en annexe I de la convention nationale modifiés par l'avenant n° 2 et ceux fixés en annexe I de l'avenant n° 3 à la convention nationale.
 
 Les tarifs d'honoraires applicables aux consultations, aux soins conservateurs et chirurgicaux, aux actes radiologiques et de prévention sont déterminés par application de ce principe.
 
@@ -506,7 +570,7 @@ Le chirurgien-dentiste porte alors la mention ED sur la feuille de soins et de t
 
 Avant l'élaboration d'un traitement pouvant faire l'objet d'une entente directe sur les honoraires, le chirurgien-dentiste doit remettre à l'assuré un devis descriptif écrit, établi conformément à l'article L. 1111-3 modifié du code de la santé publique et comportant notamment :
 
-1° La description précise et détaillée du traitement envisagé et/ou les matériaux utilisés ;
+1° La description précise et détaillée du traitement envisagé et/ ou les matériaux utilisés ;
 
 2° Le montant des honoraires correspondant au traitement proposé à l'assuré ;
 
@@ -514,23 +578,23 @@ Avant l'élaboration d'un traitement pouvant faire l'objet d'une entente directe
 
 Ce devis doit être daté et signé par le praticien et l'assuré ou son représentant. Il peut être accepté par l'intéressé soit immédiatement, soit après la décision de la caisse pour les actes ou traitements soumis à entente préalable. Ce devis est la propriété de l'assuré qui peut donc en disposer.
 
-A noter : Un devis doit également être établi dans le cas de réparation de perte de substance dentaire par matériau incrusté (inlays/onlays) faisant appel à des techniques validées par la HAS. Dans l'attente des recommandations de la HAS, les partenaires conventionnels décident d'autoriser, transitoirement, le dépassement d'honoraires pour cet acte en cas d'utilisation d'une coulée métallique, d'une cuisson céramique ou d'un matériau composite faisant appel aux techniques de laboratoire. On distinguera notamment, tels que définis par les normes en vigueur, les métaux précieux, les métaux semi-précieux et les métaux non précieux.
+A noter : Un devis doit également être établi dans le cas de réparation de perte de substance dentaire par matériau incrusté (inlays/ onlays) faisant appel à des techniques validées par la HAS. Dans l'attente des recommandations de la HAS, les partenaires conventionnels décident d'autoriser, transitoirement, le dépassement d'honoraires pour cet acte en cas d'utilisation d'une coulée métallique, d'une cuisson céramique ou d'un matériau composite faisant appel aux techniques de laboratoire. On distinguera notamment, tels que définis par les normes en vigueur, les métaux précieux, les métaux semi-précieux et les métaux non précieux.
 
 3. Dépassements :
 
 Le chirurgien-dentiste ne peut pas appliquer de dépassements d'honoraires en dehors des cas indiqués ci-après :
 
-a) Circonstances exceptionnelles de temps ou de lieu dues à une exigence particulière du malade : DE . Il ne peut notamment pas être utilisé pour des motifs liés :
+a) Circonstances exceptionnelles de temps ou de lieu dues à une exigence particulière du malade : DE. Il ne peut notamment pas être utilisé pour des motifs liés :
 
-- à une tranche horaire définie arbitrairement par le praticien ;
+-à une tranche horaire définie arbitrairement par le praticien ;
 
-- au coût de fonctionnement du cabinet ;
+-au coût de fonctionnement du cabinet ;
 
-- à des raisons propres au praticien.
+-à des raisons propres au praticien.
 
 b) Entente directe entre le praticien et l'assuré telle que définie au 4.2.1. La fixation des honoraires.
 
-c) Bénéfice du droit permanent à dépassement accordé sous le régime des précédentes et de la présente convention : DP , sous réserve des dispositions que prévoit cette dernière.
+c) Bénéfice du droit permanent à dépassement accordé sous le régime des précédentes et de la présente convention : DP, sous réserve des dispositions que prévoit cette dernière.
 
 Dans ces cas, le chirurgien-dentiste indique le motif du dépassement ainsi que la totalité du montant des honoraires perçus sur la feuille de soins.
 
@@ -560,21 +624,21 @@ La feuille de soins, ou son support électronique, est alors transmise par le ch
 
 Cette procédure s'applique dans les cas suivants :
 
-- patients bénéficiant de pension militaire, relevant de la législation des accidents du travail et de l'aide médicale d'Etat :
+-patients bénéficiant de pension militaire, relevant de la législation des accidents du travail et de l'aide médicale d'Etat :
 
 Les chirurgiens-dentistes se conforment à la réglementation en vigueur ;
 
-- protocoles d'accord locaux :
+-protocoles d'accord locaux :
 
 Dans des cas exceptionnels justifiés par une situation sociale particulière, l'assuré peut être dispensé d'avancer la part des dépenses prises en charge par l'assurance maladie, dans les conditions prévues par des protocoles d'accord locaux.
 
 Les Parties signataires conviennent que ces protocoles locaux, qui leur sont soumis pour avis, doivent prendre en compte :
 
-- la situation sociale du patient appréciée par le praticien dispensateur de soins ;
+-la situation sociale du patient appréciée par le praticien dispensateur de soins ;
 
-- un contrôle strict d'utilisation de cette procédure ;
+-un contrôle strict d'utilisation de cette procédure ;
 
-- les modalités de facturation.
+-les modalités de facturation.
 
 Toute difficulté d'application est soumise à l'appréciation de la commission paritaire départementale.
 
@@ -586,23 +650,27 @@ Les protocoles précédemment conclus sous l'emprise de la précédente conventi
 
 Les partenaires conventionnels se réservent le droit de demander les protocoles locaux afin de les examiner ou de les réexaminer, et de mettre à la disposition des instances départementales un protocole type.
 
+Dispositif de prévention bucco-dentaire à destination des femmes enceintes
+
+Dans le cadre de la mise en place de la prévention bucco-dentaire à destination des femmes enceintes, les parties conventionnelles entendent promouvoir la dispense d'avance des frais pour cette catégorie de population, dont l'état de santé bucco-dentaire est rendu particulièrement fragile durant cette période. Ainsi, les femmes enceintes bénéficient de la dispense d'avance des frais pour la réalisation de l'examen de prévention bucco-dentaire.
+
 3. Modalités particulières :
 
 Pour les actes dentaires effectués au cours d'une hospitalisation dans un établissement de santé, la part garantie par la caisse peut, dans les conditions prévues par la législation en vigueur, être versée selon son choix :
 
-- soit à un praticien de l'établissement désigné par le praticien ;
+-soit à un praticien de l'établissement désigné par le praticien ;
 
-- soit individuellement à chaque chirurgien-dentiste.
+-soit individuellement à chaque chirurgien-dentiste.
 
 4.2.3. Le remboursement des traitements bucco-dentaires
 
-Les caisses s'engagent à rembourser les honoraires et frais accessoires correspondant aux soins délivrés par les chirurgiens-dentistes placés sous le régime de la présente convention, dans les conditions fixées au titre II, sur la base des tarifs en vigueur définis à l'annexe I.
+Les caisses s'engagent à rembourser les honoraires et frais accessoires correspondant aux soins délivrés par les chirurgiens-dentistes placés sous le régime de la présente convention, dans les conditions fixées au titre II, sur la base des tarifs en vigueur définis à l'annexe I de la convention nationale modifiés par l'avenant n° 2 et ceux fixés en annexe I de l'avenant n° 3 à la convention nationale.
 
 L'UNCAM s'engage à ce que le délai maximum de paiement, au patient ou au professionnel de santé, à compter de la réception de la feuille de soins, soit de :
 
-- quatorze jours pour les feuilles de soins papier ;
+-quatorze jours pour les feuilles de soins papier ;
 
-- cinq jours pour les feuilles de soins électroniques.
+-cinq jours pour les feuilles de soins électroniques.
 
 4.2.4. La révision des honoraires
 
@@ -654,19 +722,19 @@ Membres avec voix délibérative :
 
 Deux collèges comprenant autant de membres chacun :
 
-- le collège professionnel, composé de deux représentants pour chaque syndicat des chirurgiens-dentistes, avec pour chacun d'entre eux un titulaire et un suppléant ;
+-le collège professionnel, composé de deux représentants pour chaque syndicat des chirurgiens-dentistes, avec pour chacun d'entre eux un titulaire et un suppléant ;
 
-- le collège de l'UNCAM comprenant autant de membres (titulaires et suppléants) que le collège professionnel ;
+-le collège de l'UNCAM comprenant autant de membres (titulaires et suppléants) que le collège professionnel ;
 
-- un président désigné d'un commun accord par les membres de la commission.
+-un président désigné d'un commun accord par les membres de la commission.
 
 Peuvent assister aux travaux :
 
-- un représentant de l'Etat (et son suppléant) ;
+-un représentant de l'Etat (et son suppléant) ;
 
-- un représentant de l'Agence technique de l'information sur l'hospitalisation (ATIH) ou de la direction de l'hospitalisation et de l'organisation des soins (DHOS) ;
+-un représentant de l'Agence technique de l'information sur l'hospitalisation (ATIH) ou de la direction de l'hospitalisation et de l'organisation des soins (DHOS) ;
 
-- un représentant de la Haute Autorité de santé (HAS).
+-un représentant de la Haute Autorité de santé (HAS).
 
 Le secrétariat de cette commission est assuré par l'UNCAM.
 
@@ -674,19 +742,29 @@ Le secrétariat de cette commission est assuré par l'UNCAM.
 
 La commission élabore et adopte un règlement intérieur, qui précise notamment les règles de convocation aux réunions, de fixation de l'ordre du jour, de quorum et de vote.
 
-4.3.3. La classification commune des actes médicaux
+4.3.3. La classification commune des actes médicaux pour l'activité bucco-dentaire
 
-Les partenaires conventionnels entendent rappeler que les actes de chirurgie dentaire, actes médicaux, à part entière, sont concernés par la CCAM. La mise en place de la CCAM technique est donc un objectif à atteindre dans les deux ou trois années à venir.
+L'assurance maladie et les syndicats de chirurgiens-dentistes ont entrepris une refonte de la nomenclature des actes pour permettre, d'une part, de disposer d'une classification commune des actes médicaux pour l'activité bucco-dentaire quels que soient la spécialité médicale et le mode d'exercice des professionnels de santé et, d'autre part, d'objectiver et de permettre leur hiérarchisation. Cette classification doit concerner, dans un premier temps, les actes techniques, à l'exception des actes d'orthopédie dento-faciale.
 
-A cet effet, les Parties conviennent de mettre en place un groupe de travail chargé d'étudier l'impact de l'application de la CCAM technique sur l'exercice professionnel et ses effets financiers pour l'assurance maladie ; il devra en outre mener conjointement avec les services de la CNAMTS les études économiques nécessaires à la détermination du coût de la pratique des actes, ainsi que des surcoûts (notamment prothétiques).
+Les parties signataires s'entendent sur les tarifs correspondant à la hiérarchisation réalisée par les commissions de hiérarchisation des actes et prestations du 26 septembre 2012 pour les médecins et du 25 octobre 2012 pour les chirurgiens-dentistes. Compte tenu des contraintes de l'ONDAM, cette hiérarchisation se fait, dans un premier temps, par transposition à périmètre constant de la NGAP. Ainsi, les parties signataires conviennent, en conséquence, de procéder à la mise en œuvre de la CCAM pour l'activité bucco-dentaire avec les tarifs fixés en annexe I bis du présent avenant, et ce sous réserve de l'entrée en vigueur des mesures envisagées aux articles 2 et 8 du présent avenant, après application de l'article L. 162-14-1-1 du code de la sécurité sociale, soit au 1er juin 2014. Ces tarifs seront applicables, sous réserve de l'adoption par l'UNCAM de la décision modifiant la liste des actes et prestations pris en charge par l'assurance maladie précisée à l'article L. 162-1-7 du code de la sécurité sociale, intégrant les libellés des actes de la CCAM pour l'activité bucco-dentaire.
 
-Le groupe de travail devra également faire des propositions de modalité de mise en place, en tenant compte des résultats de l'étude d'impact.
+Cette première étape doit permettre une observation affinée de l'impact de la CCAM sur les honoraires des chirurgiens-dentistes. Les parties signataires réaffirment leur volonté de rééquilibrage de la rémunération et du financement des soins dentaires. Cela passe par la définition à terme d'une nouvelle hiérarchisation tenant compte des priorités de santé publique, de l'évolution des techniques, du travail médical et des coûts de l'activité bucco-dentaire, permettant de définir des modalités d'évolution des tarifs de la CCAM en adéquation avec l'économie des cabinets dentaires.
 
-Il sera composé en nombre égal d'experts désignés par le directeur de l'UNCAM et par les syndicats représentatifs.
+Le chirurgien-dentiste qui adhère à la convention code l'ensemble de son activité conformément à la codification de la base CCAM descriptive complète, y compris celle non prise en charge par l'assurance maladie obligatoire. Dans le respect des dispositions des articles L. 162-8, L. 162-4 et L. 161-33 du code de la sécurité sociale, le chirurgien-dentiste transmet à l'assurance maladie obligatoire uniquement les codes CCAM des actes pris en charge par celle-ci. La base est mise à disposition par la CNAMTS sur son site internet ameli. fr. Les évolutions de cette base CCAM descriptive complète pour l'activité bucco-dentaire sont réalisées après avis de la commission de hiérarchisation des actes et prestations visée à l'article L. 162-1-7 du code de la sécurité sociale.
 
-4.3.4. Les actes de chirurgie (anciennement cotés en KCC)
+Cette codification, commune à l'ensemble des professionnels conventionnés, permettra de réaliser des études, dans une optique de gestion du risque, de santé publique et d'éventuelles évolutions de la prise en charge des actes des chirurgiens-dentistes, dans le respect de la réglementation en vigueur en matière de collecte, de transmission et de traitement de données de santé. Le périmètre et la méthodologie de la collecte des informations pour les études devront être approuvés par les partenaires conventionnels.
 
-Dans l'attente de la mise en place de la CCAM, les partenaires conventionnels étudieront rapidement les modalités de codification et de tarification des actes de chirurgie réalisés par les chirurgiens-dentistes dans la limite de leur compétence définie à l'article L. 4141-1 du code de la santé publique anciennement cotés en KCC et ne figurant plus à la NGAP.
+Tout chirurgien-dentiste qui adhère à la convention s'engage à facturer les actes bucco-dentaires qu'il aura réalisés tels qu'ils sont inscrits à la CCAM et pris en charge conformément au livre II de la liste des actes et prestations, à compter de l'entrée en vigueur des mesures prévues aux articles 2 et 8 du présent avenant, après application de l'article L. 162-14-1-1 du code de la sécurité sociale, soit au 1er juin 2014.
+
+A ce titre, les chirurgiens-dentistes conventionnés s'engagent à installer la version Sesam Vitale qui constitue le socle technique de référence, 1.40, avant cette date.
+
+Afin de garantir l'évolutivité de la classification commune des actes pour l'activité bucco-dentaire, les parties signataires décident de suivre la montée en charge de cette mise en place dans le cadre de l'observatoire conventionnel national, prévu à l'article 3.4 de la convention nationale.
+
+4.3.4. Evolution de la CCAM
+
+Afin de satisfaire l'obligation de codage de l'ensemble de l'activité des chirurgiens-dentistes, les parties signataires s'accordent pour faire évoluer la base CCAM descriptive afin qu'elle puisse décrire l'ensemble des actes réalisés par les chirurgiens-dentistes, notamment les actes non encore décrits à la date de publication du présent avenant.
+
+Les partenaires conventionnels s'accordent pour réaliser, à l'issue d'un an d'application des forfaits de radiologie pour les traitements endodontiques, une étude détaillée de l'impact de la création de ces forfaits dans le cadre de la CCAM.
 
 4.3.5. La charte du praticien contrôlé
 
@@ -738,15 +816,15 @@ Les dispositions du présent titre ne font pas obstacle à des transmissions dir
 
 L'assurance maladie met en oeuvre les moyens nécessaires :
 
-- pour spécifier et organiser au mieux les évolutions du système SESAM-Vitale imposées par la réglementation, contraintes par des changements techniques ou demandées par les usagers ;
+-pour spécifier et organiser au mieux les évolutions du système SESAM-Vitale imposées par la réglementation, contraintes par des changements techniques ou demandées par les usagers ;
 
-- pour faciliter aux chirurgiens-dentistes les opérations de mise à jour du système qui les concernent.
+-pour faciliter aux chirurgiens-dentistes les opérations de mise à jour du système qui les concernent.
 
 Le chirurgien-dentiste met en oeuvre les moyens nécessaires :
 
-- pour intégrer en temps utile les évolutions de son équipement lui permettant de rester conforme à la réglementation et à la version en vigueur du système SESAM-Vitale ;
+-pour intégrer en temps utile les évolutions de son équipement lui permettant de rester conforme à la réglementation et à la version en vigueur du système SESAM-Vitale ;
 
-- pour assurer au mieux la continuité du service de la télétransmission au bénéfice des assurés sociaux, notamment pour respecter les délais réglementaires de transmission des feuilles de soins électronique, y compris en cas de dysfonctionnement de son équipement, sauf cas de force majeure.
+-pour assurer au mieux la continuité du service de la télétransmission au bénéfice des assurés sociaux, notamment pour respecter les délais réglementaires de transmission des feuilles de soins électronique, y compris en cas de dysfonctionnement de son équipement, sauf cas de force majeure.
 
 Ces moyens font l'objet d'une concertation entre les partenaires conventionnels.
 
@@ -766,11 +844,11 @@ Les feuilles de soins électroniques sont élaborées et émises par le chirurgi
 
 Pour assurer la télétransmission des feuilles de soins électroniques, les chirurgiens-dentistes ont l'obligation de :
 
-- se doter auprès du GIP CPS de la carte de professionnel de santé (CPS) prévue à l'article L. 161-33 du code de la sécurité sociale ;
+-se doter auprès du GIP CPS de la carte de professionnel de santé (CPS) prévue à l'article L. 161-33 du code de la sécurité sociale ;
 
-- se doter d'un module de logiciel d'élaboration et de transmission des feuilles de soins électroniques conforme à la dernière version du cahier des charges mise en oeuvre par les éditeurs, publié par le GIE SESAM-Vitale ;
+-se doter d'un module de logiciel d'élaboration et de transmission des feuilles de soins électroniques conforme à la dernière version du cahier des charges mise en oeuvre par les éditeurs, publié par le GIE SESAM-Vitale ;
 
-- s'assurer auprès de l'organisme compétent que le matériel utilisé pour télétransmettre répond globalement aux exigences de conformité requises pour la sécurisation de la télétransmission, et notamment aux spécifications SESAM-Vitale.
+-s'assurer auprès de l'organisme compétent que le matériel utilisé pour télétransmettre répond globalement aux exigences de conformité requises pour la sécurisation de la télétransmission, et notamment aux spécifications SESAM-Vitale.
 
 Le cahier des charges des spécifications externes des modules SESAM-Vitale faisant référence est celui publié par le GIE SESAM-Vitale créé conformément à l'article L. 115-5 du code de la sécurité sociale.
 
@@ -794,13 +872,13 @@ Afin de garantir la continuité du service de télétransmission des feuilles de
 
 5.4.2. L'absence ou dysfonctionnement de la carte lors de l'élaboration de la feuille de soins électronique
 
-Dans l'hypothèse où une des deux cartes à microprocesseur - carte d'assurance maladie mentionnée à l'article L. 161-31 du code de la sécurité sociale ou carte de professionnel de santé mentionnée à l'article L. 161-33 du code de la sécurité sociale - est absente ou ne fonctionne pas au moment de l'élaboration de la feuille de soins électronique, ou en cas de dysfonctionnement du lecteur de cartes, une feuille de soins électronique ne peut pas être constituée.
+Dans l'hypothèse où une des deux cartes à microprocesseur-carte d'assurance maladie mentionnée à l'article L. 161-31 du code de la sécurité sociale ou carte de professionnel de santé mentionnée à l'article L. 161-33 du code de la sécurité sociale-est absente ou ne fonctionne pas au moment de l'élaboration de la feuille de soins électronique, ou en cas de dysfonctionnement du lecteur de cartes, une feuille de soins électronique ne peut pas être constituée.
 
 Dans ce cas, le chirurgien-dentiste doit :
 
-- soit éditer une feuille de soins sur support papier et la remettre au patient ;
+-soit éditer une feuille de soins sur support papier et la remettre au patient ;
 
-- soit élaborer une feuille de soins non sécurisée et la télétransmettre, via le réseau de télécommunication qu'il utilise habituellement pour les télétransmissions de feuilles de soins électroniques, à la caisse gestionnaire de l'assuré selon la procédure de télétransmission IRIS, en lui adressant parallèlement la feuille de soins papier correspondante.
+-soit élaborer une feuille de soins non sécurisée et la télétransmettre, via le réseau de télécommunication qu'il utilise habituellement pour les télétransmissions de feuilles de soins électroniques, à la caisse gestionnaire de l'assuré selon la procédure de télétransmission IRIS, en lui adressant parallèlement la feuille de soins papier correspondante.
 
 En l'absence du matériel nécessaire homologué par le GIE SESAM-Vitale, cette procédure peut également être utilisée par le chirurgien-dentiste dans le cas de soins à domicile.
 
@@ -858,17 +936,17 @@ Au titre du régime d'assurance maladie, maternité, décès des praticiens et a
 
 Afin de déterminer l'assiette de la participation des caisses à cette cotisation, les Parties signataires définissent les termes suivants :
 
-- le taux de dépassement (hors forfait CMU-C) du praticien est le tauxURSSAF = (dépassements - montants remboursés forfaits CMU) / (montants remboursables actes + montants remboursés forfaits CMU).
+-le taux de dépassement (hors forfait CMU-C) du praticien est le tauxURSSAF = (dépassements-montants remboursés forfaits CMU)/ (montants remboursables actes + montants remboursés forfaits CMU).
 
 Cette dernière formule permet d'intégrer les dépassements plafonnés du périmètre CMU-C dans l'assiette de participation des caisses.
 
 Le taux de participation du praticien (TP) est défini comme suit :
 
-TP = taux URSSAF / (1 + taux URSSAF)
+TP = taux URSSAF/ (1 + taux URSSAF)
 
 Le taux de participation des caisses (TC) est défini comme suit :
 
-TC = (1 - TP)
+TC = (1-TP)
 
 La participation des caisses est assise sur la totalité du revenu lié à l'activité conventionnée du chirurgien-dentiste multiplié par le taux de participation des caisses (TC).
 
@@ -898,7 +976,7 @@ Pour faciliter cette déclaration, l'assurance maladie envoie au chirurgien-dent
 
 Taux URSSAF = (montants remboursables actes + montants remboursés forfaits CMU)
 
-(dépassements - montants remboursés forfaits CMU)
+(dépassements-montants remboursés forfaits CMU)
 
 Taux URSSAF =
 
@@ -906,17 +984,17 @@ Taux URSSAF =
 
 ainsi que les éléments permettant son contrôle :
 
-- montants remboursables actes ;
+-montants remboursables actes ;
 
-- montants remboursés forfaits CMU ;
+-montants remboursés forfaits CMU ;
 
-- dépassements.
+-dépassements.
 
 Pour les années suivantes, le RIAP modifié fera apparaître ce taux URSSAF calculé comme suit :
 
 Taux URSSAF = (montants remboursables actes + montants remboursés forfaits CMU)
 
-(dépassements - montants remboursés forfaits CMU)
+(dépassements-montants remboursés forfaits CMU)
 
 Taux URSSAF =
 
@@ -932,9 +1010,9 @@ Les partenaires conventionnels souhaitent être associés à la mise en oeuvre d
 
 La participation de l'assurance maladie est versée aux organismes de recouvrement, sur leur appel, par :
 
-- la CPAM du lieu d'installation des chirurgiens-dentistes pour la cotisation due au titre du régime d'assurance maladie, maternité et décès ;
+-la CPAM du lieu d'installation des chirurgiens-dentistes pour la cotisation due au titre du régime d'assurance maladie, maternité et décès ;
 
-- chacun des organismes participant au financement pour la cotisation due au titre du régime des avantages vieillesse.
+-chacun des organismes participant au financement pour la cotisation due au titre du régime des avantages vieillesse.
 
 Le montant annuel de la participation des caisses aux cotisations sociales des chirurgiens-dentistes est réparti entre les régimes d'assurance maladie selon les clefs fixés par arrêté interministériel pour les répartitions de la contribution prévue à l'article L. 138-1 du code de la sécurité sociale et des remises prévues à l'article L. 162-18 du code de la sécurité sociale.
 
@@ -970,9 +1048,9 @@ Le chirurgien-dentiste qui souhaite ne plus être régi par les dispositions de 
 
 La présente convention peut être résiliée soit par une décision de l'UNCAM, soit par décision conjointe des organisations syndicales représentatives signataires, dans les cas suivants :
 
-- pour non-respect grave et répété des engagements conventionnels du fait de l'une des deux parties ;
+-pour non-respect grave et répété des engagements conventionnels du fait de l'une des deux parties ;
 
-- en cas de modifications législatives ou réglementaires affectant substantiellement les rapports entre les organismes d'assurance maladie et les chirurgiens-dentistes.
+-en cas de modifications législatives ou réglementaires affectant substantiellement les rapports entre les organismes d'assurance maladie et les chirurgiens-dentistes.
 
 La résiliation s'effectue par lettre recommandée avec avis de réception adressée à tous les signataires de la convention.
 
@@ -982,83 +1060,111 @@ L'UNCAM invite alors les organisations syndicales représentatives à engager de
 
 Les Parties signataires réaffirment leur profond attachement à une gestion paritaire de la vie conventionnelle et mettent en place à cet effet les instances suivantes :
 
-- une Commission paritaire nationale ;
+-une Commission paritaire nationale ;
 
-- des commissions paritaires départementales ;
+-des commissions paritaires départementales ;
 
-- un comité paritaire permanent chargé du suivi de la télétransmission ;
+-un comité paritaire permanent chargé du suivi de la télétransmission ;
 
-- un Comité paritaire national de formation continue conventionnelle.
+-un Comité paritaire national de formation continue conventionnelle.
 
 7.2.1. La Commission paritaire nationale (CPN)
 
-1. Missions
+1. Missions.
 
 Il est institué une commission nationale composée paritairement.
 
-Elle a un rôle d'orientation et de coordination et décide des actions à mener afin d'assurer la réussite de la politique conventionnelle sur l'ensemble de son champ de compétence.
+Cette instance peut se réunir en formation plénièreou en formation restreinte. Elle se réunit au moins deux fois par an.
 
-Elle assure ainsi le suivi des différents aspects de la vie conventionnelle et décide de la conduite des études nécessaires aux adaptations à lui apporter.
+Elle a une mission générale de suivi, d'orientation, et de coordination des actions à mener afin d'assurer la réussite de la politique et de la vie conventionnelle.
 
-Ses missions portent sur l'ensemble du champ conventionnel :
+La CPN réunie en formation plénière est chargée de suivre la mise en œuvre des mesures conventionnelles et de préparer des propositions d'évolutions conventionnelles nécessaires à l'application de la convention. Elle est donc chargée notamment :
 
-- pilotage et suivi de la maîtrise médicalisée des dépenses de santé prévue par l'article 3.3 de la convention nationale ;
+- du suivi et de l'évaluation des mesures démographiques ;
 
-- la CPN se réunit au moins deux fois par an pour suivre l'évolution des dépenses ;
+- du suivi et de l'évaluation des mesures de prévention ;
 
-- la CPN mènera une réflexion sur l'installation des chirurgiens-dentistes dans les zones déficitaires en offre de soins ainsi que sur la permanence des soins, afin de favoriser ces installations sur la base notamment de données et des constats locaux relatifs à la démographie ;
+- de l'élaboration des avenants et annexes nécessaires à l'application de la convention nationale.
 
-- elle met en place un comité paritaire de suivi chargé de coordonner et de suivre l'application du dispositif bucco-dentaire ;
+La CPN réunie en formation restreinte traite de tous les sujets n'intéressant que les relations entre UNCAM et chirurgiens-dentistes. Elle est notamment chargée des missions suivantes :
 
-- la CPN est chargée également de prendre toutes les dispositions nécessaires au bon fonctionnement des instances locales et de gérer et régler notamment les carences des instances départementales. Elle accompagne ses décisions auprès de ces dernières ;
+- veiller au respect des dispositions conventionnelles par les chirurgiens-dentistes et les caisses au niveau régional et départemental, notamment statuer sur les cas de manquements individuels ;
 
-- en matière de formation professionnelle continue, la CPN installe le Comité paritaire national de FCC (CPN-FCC) et elle fixe les orientations nationales ;
+- prendre toutes les dispositions nécessaires au bon fonctionnement des instances locales ; gérer et régler les carences des instances départementales et régionales ;
 
-- la CPN installe et suit les travaux du comité technique paritaire permanent (CTPP) chargé du suivi de la télétransmission ;
+- installer et suivre les travaux du comité technique paritaire permanent (CTPP) chargé du suivi de la télétransmission.
 
-- enfin, il lui incombe d'élaborer les avenants et annexes nécessaires à la mise en oeuvre et à l'application de la convention.
-
-Pour remplir ses missions, la CPN peut faire appel à des experts ou constituer tous les groupes de travail qu'elle jugera nécessaires.
+Pour remplir ses missions, la CPN peut faire appel à des experts ou constituer tous les groupes de travail qu'elle jugera nécessaires..
 
 2. Composition
 
-La CPN est composée pour moitié :
+2. Composition.
 
-- de représentants de l'UNCAM qui constituent la section sociale ;
+La CPN est composée de :
 
-- de représentants des organisations nationales signataires de la présente convention, qui constituent la section professionnelle.
+- représentants de l'UNCAM, qui constituent la section sociale ;
 
-Les membres titulaires
+- représentant de l'UNOCAM (en formation plénière) ;
 
-Section professionnelle :
+- représentants des organisations syndicales nationales signataires de la présente convention, qui constituent la section professionnelle.
 
-La section professionnelle comprend 6 sièges et 2 sièges supplémentaires par syndicat au-delà de deux syndicats signataires, à répartir au sein de la section.
+Composition en formation plénière
 
-Les représentants des syndicats dentaires sont désignés parmi leurs adhérents placés sous le régime de la présente convention. Seuls des chirurgiens-dentistes conventionnés libéraux en exercice peuvent siéger dans cette instance.
+Section professionnelle
 
-Section sociale :
+La section professionnelle comprend 6 sièges et 2 sièges supplémentaires par syndicat au-delà de 2 syndicats signataires, à répartir au sein de la section.
 
-La section sociale comprend un nombre de sièges équivalents afin d'établir la parité, répartis comme suit :
+Les représentants des syndicats dentaires signataires sont désignés parmi leurs adhérents placés sous le régime de la présente convention. Seuls des chirurgiens-dentistes conventionnés libéraux en exercice peuvent siéger dans cette instance.
 
-- 3 représentants du régime général : 1 administratif, 1 conseiller, 1 praticien-conseil ;
+Section sociale
 
-- 2 représentants du régime agricole ;
+La section sociale comprend un nombre de sièges équivalent afin d'établir la parité, répartis comme suit :
 
-- 1 représentant du régime des professions indépendantes.
+3 représentants du régime général : 1 administratif, 1 conseiller, 1 praticien conseil ;
 
-Au-delà de deux syndicats signataires, les sièges supplémentaires de la section sociale sont attribués au régime général.
+2 représentants du régime agricole ;
+
+1 représentant du régime des professions indépendantes.
+
+Au-delà de 2 syndicats signataires, les sièges supplémentaires de la section sociale sont attribués au régime général.
+
+Siège également dans cette formation, avec voix délibérative, 1 représentant de l'UNOCAM.
+
+Pour les délibérations de la CPN composée en formation plénière et pour lesquelles l'UNOCAM participe aux votes, le président de la section professionnelle dispose de 2 voix.
+
+Composition en formation restreinte
+
+En formation restreinte, la CPN est composée de :
+
+Section professionnelle
+
+La section professionnelle comprend 6 sièges et 2 sièges supplémentaires par syndicat au-delà de 2 syndicats signataires, à répartir au sein de la section.
+
+Les représentants des syndicats dentaires signataires sont désignés parmi leurs adhérents placés sous le régime de la présente convention. Seuls des chirurgiens-dentistes conventionnés libéraux en exercice peuvent siéger dans cette instance.
+
+Section sociale
+
+La section sociale comprend un nombre de sièges équivalents afin d'établir la parité répartis comme suit :
+
+3 représentants du régime général : 1 administratif, 1 conseiller, 1 praticien conseil ;
+
+2 représentants du régime agricole ;
+
+1 représentant du régime des professions indépendantes.
+
+Au-delà de 2 syndicats signataires, les sièges supplémentaires de la section sociale sont attribués au régime général.
 
 Les membres suppléants
 
 Un nombre identique de suppléants est désigné dans les mêmes conditions que les membres titulaires afin de siéger en leur absence.
 
-Composition en " formation chirurgiens-dentistes "
+Composition en formation chirurgiens-dentistes
 
-En formation chirurgiens-dentistes , la CPN est composée :
+En formation chirurgiens-dentistes, la CPN est composée :
 
 - de la section professionnelle telle que décrite supra ;
 
-- des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
+- des praticiens de la section sociale de la formation restreinte de la CPN. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
 
 7.2.2. Les commissions paritaires départementales (CPD)
 
@@ -1066,31 +1172,31 @@ En formation chirurgiens-dentistes , la CPN est composée :
 
 Il est installé dans chaque département une commission paritaire départementale (CPD) dont les missions sont les suivantes :
 
-- elle facilite, dans toute la mesure du possible, l'application de la convention par une coopération permanente des caisses d'assurance maladie et des représentants de chirurgiens-dentistes appartenant à une organisation syndicale signataire de la présente convention ;
+-elle facilite, dans toute la mesure du possible, l'application de la convention par une coopération permanente des caisses d'assurance maladie et des représentants de chirurgiens-dentistes appartenant à une organisation syndicale signataire de la présente convention ;
 
-- elle s'efforce de régler les problèmes en conciliant les points de vue. Si, exceptionnellement, elle n'y parvient pas, l'une ou l'autre des parties peut soumettre le dossier à la Commission paritaire nationale ;
+-elle s'efforce de régler les problèmes en conciliant les points de vue. Si, exceptionnellement, elle n'y parvient pas, l'une ou l'autre des parties peut soumettre le dossier à la Commission paritaire nationale ;
 
-- elle conduit toute analyse concernant l'évolution de la consommation des soins bucco-dentaires dans la circonscription et les conditions d'accès aux soins dentaires ;
+-elle conduit toute analyse concernant l'évolution de la consommation des soins bucco-dentaires dans la circonscription et les conditions d'accès aux soins dentaires ;
 
-- elle assure la mise en oeuvre et le suivi de la maîtrise médicalisée tels que définis à l'annexe V ;
+-elle assure la mise en oeuvre et le suivi de la maîtrise médicalisée tels que définis à l'annexe V ;
 
-- elle examine les conditions d'application du dispositif de prévention bucco-dentaire ;
+-elle examine les conditions d'application du dispositif de prévention bucco-dentaire ;
 
-- elle donne un avis sur les dossiers qui lui sont soumis dans le cadre des procédures conventionnelles prévues à l'article 7.3 relatif au non-respect des dispositions conventionnelles ;
+-elle donne un avis sur les dossiers qui lui sont soumis dans le cadre des procédures conventionnelles prévues à l'article 7.3 relatif au non-respect des dispositions conventionnelles ;
 
-- elle mène, en lien avec les URCAM, les études relatives à la démographie des chirurgiens-dentistes ;
+-elle mène, en lien avec les URCAM, les études relatives à la démographie des chirurgiens-dentistes ;
 
-- elle informe régulièrement la CPN de ses travaux et lui établit annuellement un rapport d'activité, et notamment un bilan d'application du dispositif bucco-dentaire ;
+-elle informe régulièrement la CPN de ses travaux et lui établit annuellement un rapport d'activité, et notamment un bilan d'application du dispositif bucco-dentaire ;
 
-- elle est informée des dossiers relatifs à l'exercice illégal dans le cadre de l'article L. 4161-5 du code de la santé publique et des actions engagées dans le cadre des articles L. 377-1 et suivants du code de la sécurité sociale.
+-elle est informée des dossiers relatifs à l'exercice illégal dans le cadre de l'article L. 4161-5 du code de la santé publique et des actions engagées dans le cadre des articles L. 377-1 et suivants du code de la sécurité sociale.
 
 2. Composition
 
 La CPD est composée pour moitié :
 
-- de représentants des caisses d'assurance maladie, qui constituent la section sociale ;
+-de représentants des caisses d'assurance maladie, qui constituent la section sociale ;
 
-- de représentants des organisations départementales de syndicat national signataire et/ou de syndicats départementaux appartenant à une organisation nationale signataire, qui constituent la section professionnelle.
+-de représentants des organisations départementales de syndicat national signataire et/ ou de syndicats départementaux appartenant à une organisation nationale signataire, qui constituent la section professionnelle.
 
 Les membres titulaires
 
@@ -1098,7 +1204,7 @@ Section professionnelle :
 
 La section professionnelle comprend 6 sièges et 2 sièges supplémentaires par syndicat au-delà de deux syndicats signataires, à répartir au sein de la section.
 
-Chaque organisation départementale de syndicat national signataire et/ou chaque syndicat départemental appartenant à une organisation nationale signataire désigne ses représentant(s) chirurgiens-dentistes libéraux conventionnés exerçant à titre principal dans le département.
+Chaque organisation départementale de syndicat national signataire et/ ou chaque syndicat départemental appartenant à une organisation nationale signataire désigne ses représentant (s) chirurgiens-dentistes libéraux conventionnés exerçant à titre principal dans le département.
 
 Section sociale :
 
@@ -1108,11 +1214,11 @@ La qualité de membre d'une profession de santé libérale en exercice libéral 
 
 La section sociale comprend un nombre de sièges équivalents afin d'établir la parité, répartis comme suit :
 
-- 3 représentants du régime général : 1 administratif, 1 conseiller, 1 praticien-conseil ;
+-3 représentants du régime général : 1 administratif, 1 conseiller, 1 praticien-conseil ;
 
-- 2 représentants du régime agricole ;
+-2 représentants du régime agricole ;
 
-- 1 représentant du régime des professions indépendantes.
+-1 représentant du régime des professions indépendantes.
 
 Au-delà de deux syndicats signataires, les sièges supplémentaires de la section sociale sont attribués au régime général.
 
@@ -1122,11 +1228,11 @@ Un nombre identique de suppléants est désigné dans les mêmes conditions que 
 
 Composition en formation chirurgiens-dentistes
 
-En formation chirurgiens-dentistes , la CPD est composée :
+En formation chirurgiens-dentistes, la CPD est composée :
 
-- de la section professionnelle telle que décrite supra ;
+-de la section professionnelle telle que décrite supra ;
 
-- des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
+-des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
 
 7.2.2. bis Commission paritaire régionale (CPR)
 
@@ -1134,9 +1240,9 @@ Il est institué une commission paritaire dans chaque région, qui se réunit en
 
 Celle-ci est composée pour moitié :
 
-- de représentants des caisses d'assurance maladie, qui constituent la section sociale ;
+-de représentants des caisses d'assurance maladie, qui constituent la section sociale ;
 
-- de représentants des organisations régionales des syndicats signataires de la convention, qui constituent la section professionnelle.
+-de représentants des organisations régionales des syndicats signataires de la convention, qui constituent la section professionnelle.
 
 1. Composition
 
@@ -1146,7 +1252,7 @@ Section professionnelle
 
 La section professionnelle comprend 6 sièges et 2 sièges supplémentaires par syndicat au-delà de 2 syndicats signataires, à répartir au sein de la section.
 
-Chaque organisation régionale de syndicat national signataire et/ou chaque syndicat régional appartenant à une organisation nationale signataire désigne ses représentants chirurgiens-dentistes libéraux conventionnés exerçant à titre principal dans la région.
+Chaque organisation régionale de syndicat national signataire et/ ou chaque syndicat régional appartenant à une organisation nationale signataire désigne ses représentants chirurgiens-dentistes libéraux conventionnés exerçant à titre principal dans la région.
 
 Section sociale
 
@@ -1168,13 +1274,13 @@ Les membres suppléants
 
 Un nombre identique de suppléants est désigné dans les mêmes conditions que les membres titulaires afin de siéger en leur absence.
 
-Composition en "formation chirurgiens-dentistes"
+Composition en " formation chirurgiens-dentistes "
 
-En "formation chirurgiens-dentistes", la CPR est composée :
+En " formation chirurgiens-dentistes ", la CPR est composée :
 
-- de la section professionnelle telle que décrite supra ;
+-de la section professionnelle telle que décrite supra ;
 
-- des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
+-des praticiens de la section sociale. Afin d'assurer la parité, les praticiens de la section sociale se répartissent le même nombre de voix que les praticiens de la section professionnelle.
 
 2. Missions
 
@@ -1182,17 +1288,17 @@ La commission paritaire régionale exerce les attributions qui lui sont dévolue
 
 La commission paritaire est chargée notamment des missions suivantes :
 
-- elle facilite l'application de la convention par une concertation permanente sur le plan régional entre les caisses et les représentants des chirurgiens-dentistes. En cas de désaccord entre les parties, l'une ou l'autre peut soumettre le dossier à la commission paritaire nationale ;
+-elle facilite l'application de la convention par une concertation permanente sur le plan régional entre les caisses et les représentants des chirurgiens-dentistes. En cas de désaccord entre les parties, l'une ou l'autre peut soumettre le dossier à la commission paritaire nationale ;
 
-- elle suit et évalue au niveau régional l'impact des mesures d'incitation à l'installation et au maintien de l'activité, notamment dans les zones "très sous-dotées". Au regard des résultats régionaux et des éventuelles difficultés rencontrées dans l'application des mesures de rééquilibrage de l'offre en chirurgien-dentiste libéral, la commission peut proposer des adaptations ;
+-elle suit et évalue au niveau régional l'impact des mesures d'incitation à l'installation et au maintien de l'activité, notamment dans les zones " très sous-dotées ". Au regard des résultats régionaux et des éventuelles difficultés rencontrées dans l'application des mesures de rééquilibrage de l'offre en chirurgien-dentiste libéral, la commission peut proposer des adaptations ;
 
-- elle étudie les documents statistiques et économiques permettant de mieux identifier dans la région les besoins de santé de la population, l'activité des chirurgiens-dentistes, d'évaluer le coût des soins, la répartition de l'offre de soins en chirurgiens-dentistes ;
+-elle étudie les documents statistiques et économiques permettant de mieux identifier dans la région les besoins de santé de la population, l'activité des chirurgiens-dentistes, d'évaluer le coût des soins, la répartition de l'offre de soins en chirurgiens-dentistes ;
 
-- elle suit l'évolution régionale des dépenses de santé en rapport avec les actes dentaires et analyse ces dépenses au regard des besoins de santé de la population ;
+-elle suit l'évolution régionale des dépenses de santé en rapport avec les actes dentaires et analyse ces dépenses au regard des besoins de santé de la population ;
 
-- elle met en place des actions d'information et/ou de sensibilisation des professionnels, actions qui seront relayées par les caisses ;
+-elle met en place des actions d'information et/ ou de sensibilisation des professionnels, actions qui seront relayées par les caisses ;
 
-- elle informe régulièrement de ses travaux la CPN, qui fait le lien avec l'observatoire national sur ces sujets.
+-elle informe régulièrement de ses travaux la CPN, qui fait le lien avec l'observatoire national sur ces sujets.
 
 La CPR adresse à la CPN au cours du dernier trimestre de chaque année un rapport sur ses activités de l'année en cours.
 
@@ -1214,9 +1320,9 @@ Les instances sont mises en place dans un délai de deux mois suivant la date d'
 
 Les sièges de la section professionnelle sont répartis par accord entre les organisations syndicales signataires.
 
-A défaut d'accord, chaque organisation nationale signataire ou chaque organisation départementale et/ou syndicat départemental appartenant à une organisation nationale signataire dispose d'un siège et la répartition des sièges restants se fait au vu de l'enquête de représentativité prévue à l'article L. 162-33 du code de la sécurité sociale en utilisant le quotient électoral constitué par le nombre total de syndiqués attribués par ladite enquête aux organisations signataires divisé par le nombre de sièges à pourvoir, la répartition des restes s'effectuant au plus fort reste.
+A défaut d'accord, chaque organisation nationale signataire ou chaque organisation départementale et/ ou syndicat départemental appartenant à une organisation nationale signataire dispose d'un siège et la répartition des sièges restants se fait au vu de l'enquête de représentativité prévue à l'article L. 162-33 du code de la sécurité sociale en utilisant le quotient électoral constitué par le nombre total de syndiqués attribués par ladite enquête aux organisations signataires divisé par le nombre de sièges à pourvoir, la répartition des restes s'effectuant au plus fort reste.
 
-Chaque instance peut se réunir en formation chirurgiens-dentistes , c'est-à-dire en sous-commission paritaire composée de représentants de la section professionnelle et de représentants des services du contrôle médical, notamment lorsqu'il s'avère nécessaire d'entendre un chirurgien-dentiste sur sa pratique ou d'examiner des documents comportant des informations à caractère médical concernant des assurés.
+Chaque instance peut se réunir en formation chirurgiens-dentistes, c'est-à-dire en sous-commission paritaire composée de représentants de la section professionnelle et de représentants des services du contrôle médical, notamment lorsqu'il s'avère nécessaire d'entendre un chirurgien-dentiste sur sa pratique ou d'examiner des documents comportant des informations à caractère médical concernant des assurés.
 
 Elles adoptent un règlement intérieur reprenant a minima le règlement type défini en annexe IV, qui précise notamment les règles de convocations aux réunions de fixation de l'ordre du jour, de quorum et les procédures de vote. Dans le cas où un règlement intérieur ne serait pas adopté par la commission, le ou les règlements types en annexe de la convention doivent s'appliquer tels quels.
 
@@ -1252,15 +1358,15 @@ Dans ce domaine, la mission du comité technique paritaire comprendra notamment 
 
 Sous l'égide de la CPN, le Comité paritaire de formation continue conventionnelle (CPN-FCC) est chargé de mettre en oeuvre le dispositif de formation continue conventionnelle :
 
-- il arrête chaque année les thèmes de formation, qui doivent être en rapport avec les thèmes conventionnels de la maîtrise médicalisée des dépenses de santé et avec les objectifs de la loi de santé publique ;
+-il arrête chaque année les thèmes de formation, qui doivent être en rapport avec les thèmes conventionnels de la maîtrise médicalisée des dépenses de santé et avec les objectifs de la loi de santé publique ;
 
-- il rédige le cahier des charges annuel ;
+-il rédige le cahier des charges annuel ;
 
-- il définit les critères d'agrément des actions de formation ;
+-il définit les critères d'agrément des actions de formation ;
 
-- il agrée les actions de formation après leur validation pédagogique par le conseil scientifique, et dans la limite de la dotation allouée ;
+-il agrée les actions de formation après leur validation pédagogique par le conseil scientifique, et dans la limite de la dotation allouée ;
 
-- il évalue le dispositif mis en place.
+-il évalue le dispositif mis en place.
 
 Il définit son règlement intérieur.
 
@@ -1288,13 +1394,13 @@ Le conseil scientifique de la formation continue conventionnelle, conseiller sci
 
 Les missions du conseil scientifique sont fixées dans une lettre de mission rédigée par le CPN-FCC :
 
-- il peut proposer des thèmes de formation continue conventionnelle ;
+-il peut proposer des thèmes de formation continue conventionnelle ;
 
-- il procède à la validation scientifique et pédagogique des projets de formation, sur la base des critères définis dans le cahier des charges de l'appel d'offres FCC. Il transmet au CPN-FCC les résultats de la validation dans le respect du calendrier arrêté par ce dernier. Ces résultats s'imposent au CPN-FCC qui ne peut agréer que les formations ayant été validées sur le plan scientifique et pédagogique par le conseil scientifique ;
+-il procède à la validation scientifique et pédagogique des projets de formation, sur la base des critères définis dans le cahier des charges de l'appel d'offres FCC. Il transmet au CPN-FCC les résultats de la validation dans le respect du calendrier arrêté par ce dernier. Ces résultats s'imposent au CPN-FCC qui ne peut agréer que les formations ayant été validées sur le plan scientifique et pédagogique par le conseil scientifique ;
 
-- il met en place les groupes de travail qu'il juge nécessaires. Il participe à la mise en place de groupes de travail pour traiter, notamment, de la formation conventionnelle interprofessionnelle ;
+-il met en place les groupes de travail qu'il juge nécessaires. Il participe à la mise en place de groupes de travail pour traiter, notamment, de la formation conventionnelle interprofessionnelle ;
 
-- il participe aux dispositifs d'évaluation de la FCC et peut effectuer notamment des visites sur sites.
+-il participe aux dispositifs d'évaluation de la FCC et peut effectuer notamment des visites sur sites.
 
 Le conseil scientifique élabore son règlement intérieur.
 
@@ -1302,13 +1408,13 @@ Le conseil scientifique élabore son règlement intérieur.
 
 Ce conseil est constitué de 10 praticiens, experts permanents, choisis par le CPN-FCC pour leurs compétences en matière de formation :
 
-- 3 chirurgiens-dentistes du comité scientifique du CNFCO ;
+-3 chirurgiens-dentistes du comité scientifique du CNFCO ;
 
-- 3 chirurgiens-dentistes proposés par les syndicats signataires de la convention ;
+-3 chirurgiens-dentistes proposés par les syndicats signataires de la convention ;
 
-- 3 praticiens proposés par l'UNCAM ;
+-3 praticiens proposés par l'UNCAM ;
 
-- 1 praticien représentant la Haute Autorité de santé, siégeant avec voix consultative.
+-1 praticien représentant la Haute Autorité de santé, siégeant avec voix consultative.
 
 Il est précisé que les conseillers scientifiques, à l'exception du président du conseil scientifique qui est membre du CPN-FCC, ne peuvent être membres ni du CPN-FCC ni de la CPN.
 
@@ -1332,37 +1438,39 @@ Soucieux de préserver les droits des parties, et notamment ceux de la défense,
 
 En cas de constatation, par une caisse, du non-respect des dispositions de la présente convention par un chirurgien-dentiste libéral, et notamment :
 
-- application, de façon répétée, de tarifs supérieurs aux tarifs opposables en dehors des cas autorisés ;
+-application, de façon répétée, de tarifs supérieurs aux tarifs opposables en dehors des cas autorisés ;
 
-- non-utilisation ou mauvaise utilisation, de façon répétée, des documents auxquels sont subordonnées la constatation des soins et leur prise en charge par l'assurance maladie ;
+-non-utilisation ou mauvaise utilisation, de façon répétée, des documents auxquels sont subordonnées la constatation des soins et leur prise en charge par l'assurance maladie ;
 
-- non-inscription, de façon répétée, du montant des honoraires perçus, au sens du 4 de l'article 4.2.1 ;
+-non-inscription, de façon répétée, du montant des honoraires perçus, au sens du 4 de l'article 4.2.1 ;
 
-- utilisation abusive du DE ;
+-utilisation abusive du DE ;
 
-- utilisation abusive de la dispense d'avance des frais ;
+-utilisation abusive de la dispense d'avance des frais ;
 
-- manquement à l'obligation de fournir un devis préalable conforme à l'annexe III de la présente convention lorsqu'il est obligatoire ;
+-manquement à l'obligation de fournir un devis préalable conforme à l'annexe III de la présente convention lorsqu'il est obligatoire ;
 
-- non-respect de façon répétée :
+-non-respect de façon répétée :
 
-- de la liste visée à l'article L. 162-1-7 du code de la sécurité sociale ;
+-de la liste visée à l'article L. 162-1-7 du code de la sécurité sociale ;
 
-- du tact et de la mesure dans la fixation des honoraires perçus ;
+-du tact et de la mesure dans la fixation des honoraires perçus ;
 
-- des dispositions conventionnelles arrêtées en matière de prévention bucco-dentaire,
+-des dispositions conventionnelles arrêtées en matière de prévention bucco-dentaire,
 
 la procédure décrite ci-dessous peut être mise en oeuvre.
 
-En l'absence de modification de la pratique du professionnel dans un délai d'un mois après l'envoi par la caisse d'un avertissement par lettre recommandée avec avis de réception, la CPAM, pour le compte de l'ensemble des caisses, communique le relevé des constatations au chirurgien-dentiste concerné par lettre recommandée avec avis de réception, avec copie aux membres titulaires des deux sections de la CPD.
+La CPAM adresse au chirurgien-dentiste, par tout moyen permettant de rapporter la preuve de la date de réception, un courrier d'avertissement comportant les éléments permettant de caractériser le non-respect des dispositions de la présente convention.
 
-Le chirurgien-dentiste dispose d'un délai d'un mois à compter de la date de communication du relevé des constatations pour présenter ses observations éventuelles ou être entendu à sa demande par le directeur de la caisse ou son représentant. Le chirurgien-dentiste peut se faire assister par un confrère de son choix.
+Si, à l'issue d'un délai minimal de deux mois à compter de la réception du courrier d'avertissement, il est constaté que le praticien n'a pas modifié sa pratique, la CPAM de rattachement du chirurgien-dentiste, pour le compte de l'ensemble des régimes, communique le relevé des constatations au praticien concerné, par tout moyen permettant de rapporter la preuve de la date de réception, avec copie adressée aux présidents des deux sections de la CPD. Par exception, le délai est porté à huit mois pour les traitements d'orthopédie dento-faciale. Dans ce cas, la pratique est observée uniquement sur les semestres de traitements initiés après la réception du courrier d'avertissement.
+
+La CPAM procédera à ce même envoi et la procédure d'avertissement sera réputée effectuée si, dans un délai de trois ans maximum suivant la réception du courrier d'avertissement non suivi de sanction, le chirurgien-dentiste a renouvelé les mêmes faits reprochés.
+
+Le chirurgien-dentiste dispose d'un délai d'un mois à compter de la date de communication du relevé des constatations pour présenter ses observations éventuelles ou être entendu à sa demande par le directeur de la caisse ou son représentant. Le chirurgien-dentiste peut se faire assister par un confrère et/ou un avocat de son choix, inscrit au barreau.
 
 Lorsque la CPD juge nécessaire de recueillir, auprès du praticien concerné, des éléments d'information relatifs à sa pratique médicale, le relevé de constatations est transmis à la formation chirurgiens-dentistes de la CPD.
 
 La commission dans la formation retenue pour donner son avis peut inviter le praticien à lui faire connaître ses observations dans un délai qu'elle lui fixe. Elle peut également demander à l'entendre dans ce même délai.
-
-Durant cette période, le chirurgien-dentiste peut être entendu à sa demande par la formation concernée de la CPD ; il peut se faire assister par un confrère de son choix.
 
 L'avis de la formation concernée de la commission est rendu dans les quatre-vingt-dix jours de la saisine de la CPD. A l'issue de ce délai, l'avis est réputé rendu.
 
@@ -1372,11 +1480,11 @@ A l'issue de ce délai, les caisses décident de l'éventuelle sanction.
 
 Lorsqu'un chirurgien-dentiste ne respecte pas les dispositions de la présente convention, il peut, après mise en oeuvre des procédures prévues au présent titre, encourir une ou plusieurs des mesures suivantes :
 
-- suspension du droit à des dépassements autorisés (DE, DP) en cas d'abus répétés dûment constatés. La suspension est de trois, six, neuf ou douze mois, suivant l'importance des griefs ;
+-suspension du droit à des dépassements autorisés (DE, DP) en cas d'abus répétés dûment constatés. La suspension est de trois, six, neuf ou douze mois, suivant l'importance des griefs ;
 
-- suspension de la ou des participations des caisses à la prise en charge des avantages sociaux des chirurgiens-dentistes en bénéficiant. La suspension de la ou des participations des caisses est de un, trois, six, neuf ou douze mois dans le respect du code de la sécurité sociale ;
+-suspension de la ou des participations des caisses à la prise en charge des avantages sociaux des chirurgiens-dentistes en bénéficiant. La suspension de la ou des participations des caisses est de un, trois, six, neuf ou douze mois dans le respect du code de la sécurité sociale ;
 
-- suspension de la possibilité d'exercer dans le cadre conventionnel.
+-suspension de la possibilité d'exercer dans le cadre conventionnel.
 
 Cette suspension peut être temporaire (une semaine, un, trois, six, neuf, douze mois) ou prononcée pour la durée d'application de la convention, selon l'importance des griefs.
 
@@ -1386,15 +1494,15 @@ La mise hors convention de trois mois ou plus entraîne la suppression de la par
 
 Lorsque le conseil régional ou national ou la chambre régionale ou nationale de l'ordre des chirurgiens-dentistes, ou une autre juridiction, a prononcé à l'égard d'un professionnel une sanction devenue définitive :
 
-- d'interdiction de donner des soins aux assurés sociaux ;
+-d'interdiction de donner des soins aux assurés sociaux ;
 
-- d'interdiction d'exercer,
+-d'interdiction d'exercer,
 
 le professionnel se trouve placé de fait et simultanément hors convention, à partir de la date d'application de la sanction ordinale ou judiciaire et pour une durée équivalente.
 
 Lorsqu'une juridiction a prononcé à l'égard d'un chirurgien-dentiste une peine effective d'emprisonnement, le professionnel se trouve placé de fait et simultanément hors convention, à partir de la date d'application de la sanction judiciaire et pour une durée équivalente.
 
-Lorsque les faits sanctionnés par une instance ordinale ou judiciaire constituent en outre une infraction au regard des règles et/ou des pratiques conventionnelles, les caisses peuvent envisager à l'encontre du professionnel l'une des procédures prévue au 7.3.1.
+Lorsque les faits sanctionnés par une instance ordinale ou judiciaire constituent en outre une infraction au regard des règles et/ ou des pratiques conventionnelles, les caisses peuvent envisager à l'encontre du professionnel l'une des procédures prévue au 7.3.1.
 
 7.3.4. Les dispositions communes
 
@@ -1418,9 +1526,9 @@ Les Parties signataires entendent renforcer les moyens consacrés à la formatio
 
 Pour ce faire, il est créé :
 
-- un Comité paritaire national de formation continue conventionnelle, auquel sera déléguée la mise en oeuvre de la FCC dénommé CPN-FCC ;
+-un Comité paritaire national de formation continue conventionnelle, auquel sera déléguée la mise en oeuvre de la FCC dénommé CPN-FCC ;
 
-- un conseil scientifique de la formation continue conventionnelle, conseiller scientifique et pédagogique du CPN-FCC.
+-un conseil scientifique de la formation continue conventionnelle, conseiller scientifique et pédagogique du CPN-FCC.
 
 Un organisme gestionnaire (OG) est agréé en CPN-FCC et mandaté par les partenaires conventionnels pour mettre en oeuvre la formation continue conventionnelle de la profession dentaire et gérer la dotation allouée par l'UNCAM. Un protocole de financement est signé à cet effet entre cet organisme gestionnaire et l'UNCAM.
 
@@ -1432,9 +1540,9 @@ Les actions de formation continue conventionnelle se déroulent sur au moins une
 
 Les caisses nationales, chacune pour ce qui la concerne, participent au financement de la FCC des chirurgiens-dentistes, par le versement :
 
-- d'indemnités quotidiennes de formation compensatrices de perte de ressources, pour les chirurgiens-dentistes libéraux soumis à la convention, à l'exclusion des remplaçants ;
+-d'indemnités quotidiennes de formation compensatrices de perte de ressources, pour les chirurgiens-dentistes libéraux soumis à la convention, à l'exclusion des remplaçants ;
 
-- d'une dotation à l'organisme gestionnaire, comprenant la prise en charge des actions de formation titulaires de l'agrément conventionnel, et la prise en charge de ses frais de structure.
+-d'une dotation à l'organisme gestionnaire, comprenant la prise en charge des actions de formation titulaires de l'agrément conventionnel, et la prise en charge de ses frais de structure.
 
 8.2. Modalités de gestion et de mise en oeuvre de la FCC
 
@@ -1456,13 +1564,13 @@ Le cahier des charges relatif à cet appel d'offres est élaboré par le CPN-FCC
 
 En vue de l'agrément des projets déposés en réponse à l'appel d'offres, se tiennent les commissions suivantes :
 
-- une commission d'ouverture des plis, composée d'au moins un représentant de chacune des sections du CPN-FCC et du représentant de l'OG ;
+-une commission d'ouverture des plis, composée d'au moins un représentant de chacune des sections du CPN-FCC et du représentant de l'OG ;
 
-- le conseil scientifique, composé selon les dispositions prévues à l'article 7.2.6, qui procède à l'examen pédagogique anonymisé des projets de formation ;
+-le conseil scientifique, composé selon les dispositions prévues à l'article 7.2.6, qui procède à l'examen pédagogique anonymisé des projets de formation ;
 
-- une commission des marchés, composée d'au moins un représentant de chacune des sections du CPN-FCC et du représentant de l'OG, qui vérifie la conformité budgétaire des projets de formation ;
+-une commission des marchés, composée d'au moins un représentant de chacune des sections du CPN-FCC et du représentant de l'OG, qui vérifie la conformité budgétaire des projets de formation ;
 
-- le CPN-FCC, composé selon les dispositions prévues à l'article 7.2.5, a la possibilité de recourir à des experts, et attribue les agréments conventionnels au vu des projets ayant été validés pédagogiquement par le conseil scientifique et budgétairement par la Commission des marchés. Les agréments sont délivrés dans la limite de la dotation attribuée annuellement par l'UNCAM et définie au présent paragraphe.
+-le CPN-FCC, composé selon les dispositions prévues à l'article 7.2.5, a la possibilité de recourir à des experts, et attribue les agréments conventionnels au vu des projets ayant été validés pédagogiquement par le conseil scientifique et budgétairement par la Commission des marchés. Les agréments sont délivrés dans la limite de la dotation attribuée annuellement par l'UNCAM et définie au présent paragraphe.
 
 Le CPN-FCC confie le suivi et la gestion des actions de formation agréées à l'OG.
 
@@ -1494,13 +1602,13 @@ Le champ d'application.
 
 Les chirurgiens-dentistes peuvent prétendre au versement d'une indemnité forfaitaire pour perte de ressources, sous réserve de remplir les conditions suivantes :
 
-- exercer sous le régime de la présente convention dans le cadre libéral ;
+-exercer sous le régime de la présente convention dans le cadre libéral ;
 
-- suivre, dans son intégralité, une action de formation ayant reçu l'agrément conventionnel, se tenant lors de jours ouvrables, et d'une durée au moins égale à une journée ;
+-suivre, dans son intégralité, une action de formation ayant reçu l'agrément conventionnel, se tenant lors de jours ouvrables, et d'une durée au moins égale à une journée ;
 
-- ne pas avoir exercé, ni s'être fait remplacé pendant la durée effective de la formation ;
+-ne pas avoir exercé, ni s'être fait remplacé pendant la durée effective de la formation ;
 
-- ne pas avoir perçu dans l'année civile au cours de laquelle s'est tenue l'action de formation conventionnelle le nombre maximum d'indemnités forfaitaires pour perte de ressources, précisé ci-après.
+-ne pas avoir perçu dans l'année civile au cours de laquelle s'est tenue l'action de formation conventionnelle le nombre maximum d'indemnités forfaitaires pour perte de ressources, précisé ci-après.
 
 Montant individuel :
 
