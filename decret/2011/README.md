@@ -40,6 +40,7 @@
 - [Décret n°2011-1155 du 22 septembre 2011 (AGRT1108536D)](decret-n2011-1155-du-22-septembre-2011-agrt1108536d)
 - [Décret n°2011-1156 du 22 septembre 2011 (AGRT1108537D)](decret-n2011-1156-du-22-septembre-2011-agrt1108537d)
 - [Décret n°2011-1157 du 22 septembre 2011 (AGRT1108539D)](decret-n2011-1157-du-22-septembre-2011-agrt1108539d)
+- [Décret n°2011-1165 du 22 septembre 2011 (AGRT1107888D)](decret-n2011-1165-du-22-septembre-2011-agrt1107888d)
 - [Décret n°2011-1615 du 22 novembre 2011 (AGRT1127064D)](decret-n2011-1615-du-22-novembre-2011-agrt1127064d)
 - [Décret n°2011-199 du 22 février 2011 (IOCA1032643D)](decret-n2011-199-du-22-fevrier-2011-ioca1032643d)
 - [Décret n°2011-313 du 22 mars 2011 (MCCD1033128D)](decret-n2011-313-du-22-mars-2011-mccd1033128d)
