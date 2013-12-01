@@ -1330,7 +1330,6 @@
 - [Arrêté du 16 février 2012 (ETSR1206260A)](arrete-du-16-fevrier-2012-etsr1206260a)
 - [Arrêté du 16 février 2012 (IOCL1204264A)](arrete-du-16-fevrier-2012-iocl1204264a)
 - [Arrêté du 16 février 2012 (MENG1135335A)](arrete-du-16-fevrier-2012-meng1135335a)
-- [Arrêté du 16 février 2012 (SPOR1206274A)](arrete-du-16-fevrier-2012-spor1206274a)
 - [Arrêté du 16 février 2012 (TRAT1128170A)](arrete-du-16-fevrier-2012-trat1128170a)
 - [Arrêté du 16 janvier 2009 (ECEP0827533A)](arrete-du-16-janvier-2009-ecep0827533a)
 - [Arrêté du 16 janvier 2012 (BCRE1202951A)](arrete-du-16-janvier-2012-bcre1202951a)
