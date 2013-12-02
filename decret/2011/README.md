@@ -22,6 +22,7 @@
 - [Décret n°2011-632 du 7 juin 2011 (DEFD1108950D)](decret-n2011-632-du-7-juin-2011-defd1108950d)
 - [Décret n°2011-1081 du 8 septembre 2011 (AGRT1108533D)](decret-n2011-1081-du-8-septembre-2011-agrt1108533d)
 - [Décret n°2011-1474 du 8 novembre 2011 (IOCB1111985D)](decret-n2011-1474-du-8-novembre-2011-iocb1111985d)
+- [Décret n°2011-638 du 8 juin 2011 (IOCV1105627D)](decret-n2011-638-du-8-juin-2011-iocv1105627d)
 - [Décret n°2011-647 du 8 juin 2011 (AGRT1107266D)](decret-n2011-647-du-8-juin-2011-agrt1107266d)
 - [Décret n°2011-1475 du 9 novembre 2011 (IOCS1101081D)](decret-n2011-1475-du-9-novembre-2011-iocs1101081d)
 - [Décret n°2011-1257 du 10 octobre 2011 (DEVL1114005D)](decret-n2011-1257-du-10-octobre-2011-devl1114005d)
