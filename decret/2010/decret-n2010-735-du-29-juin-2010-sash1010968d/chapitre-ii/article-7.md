@@ -4,6 +4,6 @@ Au cours de la dernière année de leurs études, les signataires d'un contrat d
 
 Les signataires en fin de formation qui souhaitent exercer dans la région où se situe l'unité de formation et de recherche dans laquelle ils sont inscrits en font la demande auprès du directeur général de l'agence régionale de santé concernée. Ils bénéficient, à projet professionnel présentant un intérêt égal, d'une priorité de choix de leur lieu d'exercice dans cette région.
 
-Par dérogation aux dispositions du premier alinéa du présent article, les signataires d'un contrat d'engagement de service public en cours de formation qui bénéficient d'un report de l'installation ou de la prise de fonctions tel que mentionné au II de l'article 11 choisissent leur futur lieu d'exercice au cours de la dernière année de cette période de report.
+Par dérogation aux dispositions du premier alinéa du présent article, les signataires d'un contrat d'engagement de service public en cours de formation qui bénéficient d'un report de l'installation ou de la prise de fonctions tel que prévu à l'article R. 632-74 du code de l'éducation choisissent leur futur lieu d'exercice au cours de la dernière année de cette période de report.
 
 Les médecins qui n'auraient pas été recrutés au terme de la procédure définie par le présent article en informent par écrit le directeur général du Centre national de gestion et font à nouveau acte de candidature.
