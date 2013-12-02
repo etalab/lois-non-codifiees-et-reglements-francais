@@ -2007,7 +2007,6 @@
 - [Arrêté du 24 décembre 2003 (SOCF0312092A)](arrete-du-24-decembre-2003-socf0312092a)
 - [Arrêté du 24 décembre 2008 (ESRS0827975A)](arrete-du-24-decembre-2008-esrs0827975a)
 - [Arrêté du 24 décembre 2008 (ESRS0828463A)](arrete-du-24-decembre-2008-esrs0828463a)
-- [Arrêté du 24 décembre 2008 (JUSC0830156A)](arrete-du-24-decembre-2008-jusc0830156a)
 - [Arrêté du 24 décembre 2008 (MLVU0831393A)](arrete-du-24-decembre-2008-mlvu0831393a)
 - [Arrêté du 24 décembre 2008 (SJSF0831329A)](arrete-du-24-decembre-2008-sjsf0831329a)
 - [Arrêté du 24 décembre 2008 (SJSH0831429A)](arrete-du-24-decembre-2008-sjsh0831429a)

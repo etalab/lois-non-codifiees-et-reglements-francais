@@ -1,7 +1,0 @@
-# Article 1
-
-Les parties représentées par un avocat, un avocat au Conseil d'Etat et à la Cour de cassation ou par un avoué en exercice dans le ressort de la juridiction peuvent introduire devant les tribunaux administratifs de Cergy-Pontoise, Melun, Montreuil, Paris et Versailles, au moyen de la procédure électronique de transmission faisant l'objet de la présente expérimentation, des requêtes relevant du contentieux fiscal d'assiette, à l'exclusion des référés des articles L. 521-1 à L. 521-3 du code de justice administrative. Elles peuvent, par le même moyen, interjeter appel devant les cours administratives d'appel de Paris et de Versailles de jugements ou d'ordonnances rendus sur de telles requêtes.
-
-Les requêtes ainsi introduites sont communiquées, les mémoires et pièces sont adressés au greffe des juridictions mentionnées ci-dessus, et communiqués par le greffe aux parties ou à leur mandataire, et les décisions prises pour l'instruction sont notifiées aux parties ou à leur mandataire par le même moyen. Il en est de même de la notification des décisions juridictionnelles à l'administration, sous réserve de son accord exprès.
-
-Une requête introduite par la voie matérielle ordinaire peut être numérisée par le greffe des juridictions mentionnées ci-dessus puis communiquée aux services fiscaux par la voie électronique, sous réserve que l'auteur de la requête ait expressément accepté que la procédure électronique de transmission faisant l'objet de la présente expérimentation soit utilisée pour l'instruction de cette requête.
