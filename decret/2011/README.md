@@ -71,6 +71,7 @@
 - [Décret n°2011-340 du 29 mars 2011 (IOCD1026397D)](decret-n2011-340-du-29-mars-2011-iocd1026397d)
 - [Décret n°2011-341 du 29 mars 2011 (IOCD1026432D)](decret-n2011-341-du-29-mars-2011-iocd1026432d)
 - [Décret n°2011-1034 du 30 août 2011 (ETSS1123735D)](decret-n2011-1034-du-30-aout-2011-etss1123735d)
+- [Décret n°2011-1702 du 30 novembre 2011 (AGRT1114929D)](decret-n2011-1702-du-30-novembre-2011-agrt1114929d)
 - [Décret n°2011-1723 du 30 novembre 2011 (AGRT1122179D)](decret-n2011-1723-du-30-novembre-2011-agrt1122179d)
 - [Décret n°2011-795 du 30 juin 2011 (IOCJ1113072D)](decret-n2011-795-du-30-juin-2011-iocj1113072d)
 - [Décret n°2011-616 du 30 mai 2011 (BCRW1025336D)](decret-n2011-616-du-30-mai-2011-bcrw1025336d)
