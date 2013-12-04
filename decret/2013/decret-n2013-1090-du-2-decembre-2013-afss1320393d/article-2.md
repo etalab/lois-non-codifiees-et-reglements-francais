@@ -1,0 +1,3 @@
+# Article 2
+
+Les informations relatives à la santé, la situation sociale ou l'autonomie d'une personne en risque de perte d'autonomie susceptibles d'être transmises en application du IV de l'article 48 de la loi du 17 décembre 2012 susvisée ne peuvent l'être qu'à des professionnels mentionnés à l'article 1er et ayant signé une charte précisant, dans le respect des codes de déontologie des professions qui en sont dotées, les principes éthiques, déontologiques et de confidentialité afférents à la prise en charge des personnes âgées en risque de perte d'autonomie, qui est arrêtée par le ministre en charge de la santé après consultation des ordres professionnels intéressés.
