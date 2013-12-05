@@ -1,7 +1,5 @@
 # Chapitre III : Liste des titres et certificats requis pour les navires effectuant une navigation nationale
 
-- [Article 120.9](article-120-9.md)
-- [Article 120.10](article-120-10.md)
 - [Article 120.12](article-120-12.md)
 - [Article 120.13](article-120-13.md)
 - [Article 120.14](article-120-14.md)
