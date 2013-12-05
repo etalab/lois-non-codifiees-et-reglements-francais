@@ -6,10 +6,10 @@ Exigences dépendant des conditions climatiques
 <tbody>
 <tr>
 <td rowspan="2" width="372">
-<p align="center">PROPRIÉTÉ</p>
+<p align="center">PROPRIÉTÉS</p>
 </td>
 <td rowspan="2" width="149">
-<p align="center">UNITÉS</p>
+<p align="center">UNITÉ</p>
 </td>
 <td colspan="2" width="151">
 <p align="center">LIMITES</p>
@@ -25,10 +25,10 @@ Exigences dépendant des conditions climatiques
 </tr>
 <tr>
 <td width="372">
-<p align="left">Pression de vapeur, PV.</p>
+<p align="left">Pression de vapeur, PV</p>
 </td>
 <td width="149">
-<p align="center">kPa, min<br/>kPa, max</p>
+<p align="center">kPa, min.<br/>kPa, max.</p>
 </td>
 <td width="75">
 <p align="center">45,0<br/>60,0</p>
@@ -39,38 +39,38 @@ Exigences dépendant des conditions climatiques
 </tr>
 <tr>
 <td width="372">
-<p align="left">Pourcentage évaporé à 70 °C, E70.</p>
+<p align="left">Pourcentage évaporé à 70 °C, E70</p>
 </td>
 <td width="149">
-<p align="center">% (V/V), min<br/>% (V/V), max</p>
+<p align="center">% (V/V), min.<br/>% (V/V), max.</p>
 </td>
 <td width="75">
-<p align="center">20,0<br/>48,0</p>
+<p align="center">22,0<br/>50,0</p>
 </td>
 <td width="75">
-<p align="center">22,0<br/>50,0 (*)</p>
+<p align="center">24,0<br/>52,0</p>
 </td>
 </tr>
 <tr>
 <td width="372">
-<p align="left">Pourcentage évaporé à 100 °C, E100.</p>
+<p align="left">Pourcentage évaporé à 100 °C, E100</p>
 </td>
 <td width="149">
-<p align="center">% (V/V), min<br/>% (V/V), max</p>
+<p align="center">% (V/V), min.<br/>% (V/V), max.</p>
 </td>
 <td width="75">
-<p align="center">46,0<br/>71,0</p>
+<p align="center">46,0<br/>72,0</p>
 </td>
 <td width="75">
-<p align="center">46,0<br/>71,0 (*)</p>
+<p align="center">46,0<br/>72,0</p>
 </td>
 </tr>
 <tr>
 <td width="372">
-<p align="left">Pourcentage évaporé à 150 °C, E150.</p>
+<p align="left">Pourcentage évaporé à 150 °C, E150</p>
 </td>
 <td width="149">
-<p align="center">% (V/V), min</p>
+<p align="center">% (V/V), min.</p>
 </td>
 <td width="75">
 <p align="center">75,0</p>
@@ -81,10 +81,10 @@ Exigences dépendant des conditions climatiques
 </tr>
 <tr>
 <td width="372">
-<p align="left">Point final de distillation, PF.</p>
+<p align="left">Point final de distillation, PF</p>
 </td>
 <td width="149">
-<p align="center">°C, max</p>
+<p align="center">°C, max.</p>
 </td>
 <td width="75">
 <p align="center">210</p>
@@ -95,21 +95,16 @@ Exigences dépendant des conditions climatiques
 </tr>
 <tr>
 <td width="372">
-<p align="left">Résidu de distillation.</p>
+<p align="left">Résidu de distillation</p>
 </td>
 <td width="149">
-<p align="center">% (V/V), max</p>
+<p align="center">% (V/V), max.</p>
 </td>
 <td width="75">
 <p align="center">2</p>
 </td>
 <td width="75">
 <p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="676">
-<p align="left">(*) Valeurs provisoires.</p>
 </td>
 </tr>
 </tbody>
