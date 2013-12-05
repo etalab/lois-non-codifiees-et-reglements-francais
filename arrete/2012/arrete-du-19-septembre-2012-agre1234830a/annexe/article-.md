@@ -143,7 +143,7 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <td align="left" valign="top">
 <p align="left">RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement </p>
 </td>
-<td align="left" valign="top">
+<td align="left" valign="middle">
 <p align="center">1er février 2013 <br/>
 </p>
 </td>
@@ -263,6 +263,34 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 </td>
 <td>
 <p align="center">29 septembre 2018</p>
+</td>
+</tr>
+<tr>
+<td>RG Consulting France, La Martinais, 22130 Corseul</td>
+<td>RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement<br/>RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, complément sans étourdissement </td>
+<td valign="middle">
+<p align="center">15 novembre 2013 </p>
+</td>
+<td>14 novembre 2018</td>
+</tr>
+<tr>
+<td>AFORVIA, BP 20, 72401 La Ferté-Bernard Cedex </td>
+<td>Opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement<br/>Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement<br/>Opérateur, porcins, manipulations et soins, mise à mort</td>
+<td>
+<p align="center">15 novembre 2013 </p>
+</td>
+<td>
+<p align="center">14 novembre 2018</p>
+</td>
+</tr>
+<tr>
+<td>SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'Union </td>
+<td>RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement </td>
+<td>
+<p align="center">15 novembre 2013 </p>
+</td>
+<td>
+<p align="center">14 novembre 2018 </p>
 </td>
 </tr>
 </tbody>
