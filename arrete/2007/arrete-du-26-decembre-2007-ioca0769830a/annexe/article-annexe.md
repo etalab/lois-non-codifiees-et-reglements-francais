@@ -7,10 +7,12 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <table>
 <tbody>
 <tr>
-<th>SERVICES OU DIRECTIONS <br/>
-</th>
-<th>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
+<td>
+<p align="center"> SERVICES OU DIRECTIONS </p>
+</td>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -130,18 +132,14 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Val-d'Oise </p>
 </td>
 <td align="center">
-<p align="left">Directeur du respect des lois et des libertés locales. </p>
+<p align="left">Directeur de l'accueil du public, de l'immigration et de la citoyenneté. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivité territoriales : </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -161,12 +159,11 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières </p>
+<td align="left" valign="top">
+<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières</p>
 </td>
-<td align="center">
-<p align="left">Chef du bureau du budget et du fonctionnement.<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Chef du bureau de la gestion des sites de l'administration centrale.</p>
 </td>
 </tr>
 <tr>
@@ -186,17 +183,15 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" rowspan="2" valign="top">
 <p align="left">Direction de la police générale </p>
+<br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du 2e bureau. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <p align="left">Chef du 8e bureau. </p>
 </td>
@@ -210,10 +205,10 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Direction opérationnelle des services techniques et logistiques</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du service achats publics, finances, évaluation, adjoint au sous-directeur de l'administration et de la modernisation. </p>
 </td>
 </tr>
