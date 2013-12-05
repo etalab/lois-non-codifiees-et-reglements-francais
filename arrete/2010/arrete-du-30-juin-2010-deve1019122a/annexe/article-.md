@@ -4,281 +4,389 @@
 
 1. Propriétés
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>CARACTÉRISTIQUE<br/>
-</th>
-<th>UNITÉ<br/>
-</th>
-<th colspan="2">VALEURS LIMITES<br/>
-</th>
+<td rowspan="2">
+<p align="center">CARACTÉRISTIQUES</p>
+</td>
+<td rowspan="2">
+<p align="center">UNITÉ</p>
+</td>
+<td colspan="2">
+<p align="center">VALEURS LIMITES</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th/>
-<th>Min.<br/>
-</th>
-<th>Max.<br/>
-</th>
+<td>
+<p align="center">Min.</p>
+</td>
+<td>
+<p align="center">Max.</p>
+</td>
 </tr>
 <tr>
-<td align="center">Teneur en EMAG<br/>
-</td>
-<td align="center">% (m/m)<br/>
-</td>
-<td align="center">96,5<br/>
+<td align="center">
+<p>Teneur en EMAG <br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>96,5 <br/>
+</td>
+<td align="center">
+<br/>― <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Masse volumique à 15° C<br/>
+<td align="center">
+<p>Masse volumique à 15° C <br/>
+</p>
 </td>
-<td align="center">kg/m³<br/>
+<td align="center">
+<br/>kg/m ³ <br/>
 </td>
-<td align="center">860<br/>
+<td align="center">
+<br/>860 <br/>
 </td>
-<td align="center">900<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Viscosité à 40° C<br/>
-</td>
-<td align="center">mm²/s<br/>
-</td>
-<td align="center">3,50<br/>
-</td>
-<td align="center">5,00<br/>
+<td align="center">
+<br/>900 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Point éclair<br/>
+<td align="center">
+<p>Viscosité à 40° C <br/>
+</p>
 </td>
-<td align="center">° C<br/>
+<td align="center">
+<br/>mm ²/s <br/>
 </td>
-<td align="center">101<br/>
+<td align="center">
+<br/>3,50 <br/>
 </td>
-<td align="center">―<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Teneur en soufre<br/>
-</td>
-<td align="center">mg/kg<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">10,0<br/>
+<td align="center">
+<br/>5,00 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Résidu de carbone<br/>(sur résidu 10 % de distillation)<br/>
+<td align="center">
+<p>Point éclair<br/>
+</p>
 </td>
-<td align="center">% (m/m)<br/>
+<td align="center">
+<br/>°C <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>101 <br/>
 </td>
-<td align="center">0,30<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Indice de cétane<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">51,0<br/>
-</td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Teneur en cendres sulfatées<br/>
+<td align="center">
+<p>Teneur en soufre <br/>
+</p>
 </td>
-<td align="center">% (m/m)<br/>
+<td align="center">
+<br/>mg/kg <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">0,02<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Teneur en eau<br/>
-</td>
-<td align="center">mg/kg<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">500<br/>
+<td align="center">
+<br/>10,0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Contamination totale<br/>
+<td align="center">
+<p>Indice de cétane <br/>
+</p>
 </td>
-<td align="center">mg/kg<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>51,0 <br/>
 </td>
-<td align="center">24<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Corrosion à la lame de cuivre (3 h à 50 °C)<br/>
-</td>
-<td align="center">cotation<br/>
-</td>
-<td align="center">Classe 1<br/>
-</td>
-<td align="center">Classe 1<br/>
+<td align="center">
+<br/>― <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Stabilité à l'oxydation, 110 °C<br/>
+<td align="center">
+<p>Teneur en cendres sulfatées <br/>
+</p>
 </td>
-<td align="center">heures<br/>
+<td align="center">
+<br/>% (m/m) <br/>
 </td>
-<td align="center">6,0<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">―<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Indice d'acide<br/>
-</td>
-<td align="center">mg KOH/g<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">0,50<br/>
+<td align="center">
+<br/>0,02 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Indice d'iode<br/>
+<td align="center">
+<p>Teneur en eau <br/>
+</p>
 </td>
-<td align="center">g iode/100 g<br/>
+<td align="center">
+<br/>mg/kg <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">120<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Teneur en ester méthylique d'acide linolénique<br/>
-</td>
-<td align="center">% (m/m)<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">12,0<br/>
+<td align="center">
+<br/>500 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Esters méthyliques polyinsaturés ( 4 doubles liaisons)<br/>
+<td align="center">
+<p>Contamination totale <br/>
+</p>
 </td>
-<td align="center">% (m/m)<br/>
+<td align="center">
+<br/>mg/kg <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">1,00<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Teneur en méthanol<br/>
-</td>
-<td align="center">% (m/m)<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">0,20<br/>
+<td align="center">
+<br/>24 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Teneur en monoglycérides<br/>
+<td align="center">
+<p>Corrosion à la lame de cuivre (3 h à 50° C) <br/>
+</p>
 </td>
-<td align="center">% (m/m)<br/>
+<td align="center">
+<br/>cotation <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>Classe 1 <br/>
 </td>
-<td align="center">0,80<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Teneur en diglycérides<br/>
-</td>
-<td align="center">% (m/m)<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">0,20<br/>
+<td align="center">
+<br/>Classe 1 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Teneur en triglycérides<br/>
+<td align="center">
+<p>Stabilité à l'oxydation (à 110° C) <br/>
+</p>
 </td>
-<td align="center">% (m/m)<br/>
+<td align="center">
+<br/>heures <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>8,0 <br/>
 </td>
-<td align="center">0,20<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Glycérol libre<br/>
-</td>
-<td align="center">% (m/m)<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">0,02<br/>
+<td align="center">
+<br/>― <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Glycérol total<br/>
+<td align="center">
+<p>Indice d'acide <br/>
+</p>
 </td>
-<td align="center">% (m/m)<br/>
+<td align="center">
+<br/>mg KOH/g <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">0,25<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Métaux groupe I ( Na + K)<br/>
-</td>
-<td align="center">mg/kg<br/>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">5,0<br/>
+<td align="center">
+<br/>0,50 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Métaux groupe II ( Ca + Mg)<br/>
+<td align="center">
+<p>Indice d'iode <br/>
+</p>
 </td>
-<td align="center">mg/kg<br/>
+<td align="center">
+<br/>g iode/100 g <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">5,0<br/>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Teneur en phosphore<br/>
+<td align="center">
+<p>Teneur en ester méthylique d'acide linolénique <br/>
+</p>
 </td>
-<td align="center">mg/kg<br/>
+<td align="center">
+<br/>% (m/m) <br/>
 </td>
-<td align="center">―<br/>
+<td align="center">
+<br/>― <br/>
 </td>
-<td align="center">4,0<br/>
+<td align="center">
+<br/>12,0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Esters méthyliques polyinsaturés (≥ 4 doubles liaisons) <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>1,00 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Teneur en méthanol <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>0,20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Teneur en monoglycérides <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>0,70 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Teneur en diglycérides <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>0,20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Teneur en triglycérides <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>0,20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Glycérol libre <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>0,02 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Glycérol total <br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m) <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>0,25 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Métaux groupe I (Na + K) <br/>
+</p>
+</td>
+<td align="center">
+<br/>mg/kg <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>5,0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Métaux groupe II (Ca + Mg) <br/>
+</p>
+</td>
+<td align="center">
+<br/>mg/kg <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>5,0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Teneur en phosphore <br/>
+</p>
+</td>
+<td align="center">
+<br/>mg/kg <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>4,0<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 2. Spécifications supplémentaires
 
@@ -297,44 +405,73 @@ Les esters méthyliques d'acides gras doivent respecter les caractéristiques fi
 <table>
 <tbody>
 <tr>
-<th>PROPRIÉTÉ<br/>
-</th>
-<th>UNITÉ<br/>
-</th>
-<th colspan="2">LIMITES (max.)<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th/>
-<th>Eté<br/>
-</th>
-<th>Hiver<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Température limite de filtrabilité (TLF)<br/>
+<td rowspan="2">
+<p align="center">CARACTÉRISTIQUES<br/>
+</p>
 </td>
-<td align="center">°C, max.<br/>
+<td rowspan="2">
+<p align="center">UNITÉ</p>
 </td>
-<td align="center">0<br/>
-</td>
-<td align="center">― 5<br/>
+<td colspan="2">
+<p align="center">LIMITES (MAX.) </p>
 </td>
 </tr>
 <tr>
-<td align="center">Point de trouble<br/>
+<td>
+<p align="center">Eté</p>
 </td>
-<td align="center">°C, max.<br/>
+<td>
+<p align="center">Hiver</p>
 </td>
-<td align="center">+ 5<br/>
+</tr>
+<tr>
+<td align="center">
+<p>Température limite de filtrabilité (TLF)<br/>
+</p>
 </td>
-<td align="center">0<br/>
+<td align="center">
+<br/>°C, max.<br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>― 5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Point de trouble<br/>
+</p>
+</td>
+<td align="center">
+<br/>°C, max.<br/>
+</td>
+<td align="center">
+<br/>+ 5<br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Teneur en monoglycérides<br/>
+</p>
+</td>
+<td align="center">
+<br/>% (m/m), max.<br/>
+</td>
+<td align="center">
+<br/>0,70<br/>
+</td>
+<td align="center">
+<br/>0,70<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
+<p>Les esters méthyliques d'acides gras incorporés dans un gazole de qualité hiver doivent respecter les caractéristiques de tenue au froid de saison hiver.</p>
 
-Les esters méthyliques d'acides gras incorporés dans un gazole de qualité hiver doivent respecter les caractéristiques de tenue au froid de saison hiver.
+</div>
