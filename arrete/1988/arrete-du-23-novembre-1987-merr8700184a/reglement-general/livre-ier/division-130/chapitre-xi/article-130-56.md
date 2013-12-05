@@ -137,7 +137,7 @@ Inspection de la carène.
 <p>Navires de pêche et navires de charge <br/>L &lt; 12 mètres </p>
 </td>
 <td valign="top" width="224">
-<p>Date d'échéance du permis de navigation <br/>+ 6 mois </p>
+<p>Sans être inférieure à 24 mois, dans les 6 mois qui précèdent ou qui suivent l'échéance du permis de navigation</p>
 </td>
 <td valign="top" width="224">
 <p>Cale sèche </p>

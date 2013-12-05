@@ -130,8 +130,7 @@ Le présent article ne s'applique qu'aux navires à passagers, de charge et spé
 <br/>MSC. 1/Circ. 1266 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Tout navire à passagers <p>Tout navire de charge d'une jauge brute supérieure ou égale à 500 <br/>
-</p>
+<br/>Tout navire à passagers <p>Tout navire de charge </p>
 </td>
 </tr>
 <tr>
