@@ -7,6 +7,7 @@
 - [Décret n°2011-1759 du 2 décembre 2011 (AGRT1127609D)](decret-n2011-1759-du-2-decembre-2011-agrt1127609d)
 - [Décret n°2011-1760 du 2 décembre 2011 (AGRT1127610D)](decret-n2011-1760-du-2-decembre-2011-agrt1127610d)
 - [Décret n°2011-1762 du 2 décembre 2011 (AGRT1125190D)](decret-n2011-1762-du-2-decembre-2011-agrt1125190d)
+- [Décret n°2011-1764 du 2 décembre 2011 (AGRT1122633D)](decret-n2011-1764-du-2-decembre-2011-agrt1122633d)
 - [Décret n°2011-234 du 2 mars 2011 (DEVT1011008D)](decret-n2011-234-du-2-mars-2011-devt1011008d)
 - [Décret n°2011-1437 du 3 novembre 2011 (AGRT1114806D)](decret-n2011-1437-du-3-novembre-2011-agrt1114806d)
 - [Décret n°2011-1438 du 3 novembre 2011 (AGRT1123306D)](decret-n2011-1438-du-3-novembre-2011-agrt1123306d)
