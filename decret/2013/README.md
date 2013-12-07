@@ -77,6 +77,7 @@
 - [Décret n°2012-1351 du 4 décembre 2012 (MENE1238923D)](decret-n2012-1351-du-4-decembre-2012-mene1238923d)
 - [Décret n°2012-1352 du 4 décembre 2012 (EFIE1238652D)](decret-n2012-1352-du-4-decembre-2012-efie1238652d)
 - [Décret n°2013-11 du 4 janvier 2013 (AFSA1221570D)](decret-n2013-11-du-4-janvier-2013-afsa1221570d)
+- [Décret n°2013-1113 du 4 décembre 2013 (INTD1312013D)](decret-n2013-1113-du-4-decembre-2013-intd1312013d)
 - [Décret n°2013-115 du 4 février 2013 (PRMX1303293D)](decret-n2013-115-du-4-fevrier-2013-prmx1303293d)
 - [Décret n°2013-12 du 4 janvier 2013 (AFSS1238930D)](decret-n2013-12-du-4-janvier-2013-afss1238930d)
 - [Décret n°2013-187 du 4 mars 2013 (ETSD1304547D)](decret-n2013-187-du-4-mars-2013-etsd1304547d)
