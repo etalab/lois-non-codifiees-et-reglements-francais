@@ -118,7 +118,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="center">
-<p align="left">Adjoint administratif du chef de la base avions de la sécurité civile.</p>
+<p align="left">Chef de la base avions de la sécurité civile.</p>
 </td>
 <td align="center">30 <br/>
 </td>
@@ -191,17 +191,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 <td align="left" valign="top">
 <p align="center">30 </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Délégation aux affaires internationales et européennes. <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Coordonnateur de la délégation aux affaires internationales et européennes.</p>
-</td>
-<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
@@ -369,7 +358,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="center">
-<p align="left">Chef de la mission CHORUS de la police nationale. </p>
+<p align="left">Chef de la mission d'appui, de synthèse et de coordination.</p>
 </td>
 <td align="center">
 <p align="center">30</p>

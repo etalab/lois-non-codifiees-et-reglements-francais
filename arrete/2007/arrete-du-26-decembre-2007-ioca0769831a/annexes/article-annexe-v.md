@@ -90,5 +90,11 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <p align="center">50</p>
 </td>
 </tr>
+<tr>
+<td>Préfecture d'Ille-et-Vilaine </td>
+<td>Chargé(e) de mission pour la performance régionale sur le périmètre des préfectures de la région Bretagne. <br/>
+</td>
+<td align="center"> 30</td>
+</tr>
 </tbody>
 </table>
