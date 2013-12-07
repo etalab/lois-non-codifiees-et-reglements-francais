@@ -532,7 +532,6 @@
 - [Arrêté du 24 avril 2002 (MESH0221526A)](arrete-du-24-avril-2002-mesh0221526a)
 - [Arrêté du 24 avril 2002 (MESH0221527A)](arrete-du-24-avril-2002-mesh0221527a)
 - [Arrêté du 24 avril 2002 (MESS0221498A)](arrete-du-24-avril-2002-mess0221498a)
-- [Arrêté du 24 décembre 2002 (SANS0224310A)](arrete-du-24-decembre-2002-sans0224310a)
 - [Arrêté du 24 janvier 2002 (ECOP0100614A)](arrete-du-24-janvier-2002-ecop0100614a)
 - [Arrêté du 24 janvier 2002 (ECOP0100641A)](arrete-du-24-janvier-2002-ecop0100641a)
 - [Arrêté du 24 janvier 2002 (JUSA0200028A)](arrete-du-24-janvier-2002-jusa0200028a)

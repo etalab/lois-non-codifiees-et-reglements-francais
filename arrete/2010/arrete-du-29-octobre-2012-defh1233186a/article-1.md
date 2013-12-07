@@ -1,3 +1,0 @@
-# Article 1
-
-Ouvrent droit aux dispositions de l'article L. 4123-4 du code susvisé les services effectués dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, de la République de Djibouti, du Sultanat d'Oman, de la République de Tanzanie, de la République du Mozambique, de Madagascar et leurs eaux avoisinantes (limitées à l'est par le méridien Est 065°, au nord par le parallèle Nord 022° 30 et au sud par le parallèle Sud 015°) ainsi que les eaux de la mer Rouge limitées à la zone sud d'une ligne reliant la frontière Erythrée-Soudan à la frontière Yémen-Arabie saoudite à compter du 8 décembre 2010.
