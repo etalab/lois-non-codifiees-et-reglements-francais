@@ -12,6 +12,8 @@
 - [LOI n°2013-1005 du 12 novembre 2013 (RDFX1309049L)](loi-n2013-1005-du-12-novembre-2013-rdfx1309049l)
 - [LOI n°2013-1028 du 15 novembre 2013 (MCCE1228287L)](loi-n2013-1028-du-15-novembre-2013-mcce1228287l)
 - [LOI n°2013-1029 du 15 novembre 2013 (OMEX1312954L)](loi-n2013-1029-du-15-novembre-2013-omex1312954l)
+- [LOI n°2013-1117 du 6 décembre 2013 (JUSX1310649L)](loi-n2013-1117-du-6-decembre-2013-jusx1310649l)
+- [LOI n°2013-1118 du 6 décembre 2013 (AFSX1316565L)](loi-n2013-1118-du-6-decembre-2013-afsx1316565l)
 - [LOI n°2013-185 du 1er mars 2013 (ETSX1239711L)](loi-n2013-185-du-1er-mars-2013-etsx1239711l)
 - [LOI n°2013-312 du 15 avril 2013 (DEVX1234078L)](loi-n2013-312-du-15-avril-2013-devx1234078l)
 - [LOI n°2013-316 du 16 avril 2013 (DEVX1240666L)](loi-n2013-316-du-16-avril-2013-devx1240666l)
