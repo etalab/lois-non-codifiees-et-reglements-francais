@@ -9,3 +9,5 @@ S'il n'occupe pas déjà cet emploi lors de sa désignation en qualité de prés
 Nul ne peut exercer plus de sept années la fonction de président ou de procureur de la République d'un même tribunal de grande instance ou de première instance.
 
 A l'expiration de cette période, s'il n'a pas reçu une autre affectation, le magistrat est déchargé de cette fonction par décret du Président de la République et exerce au sein de la cour d'appel ou de la Cour de cassation les fonctions auxquelles il a été initialement nommé. Il en est de même dans le cas où, avant ce terme, il est déchargé de cette fonction sur sa demande ou en application de l'article 45.
+
+Le présent article est applicable au procureur de la République financier près le tribunal de grande instance de Paris dans les mêmes conditions qu'au procureur de la République près le même tribunal.
