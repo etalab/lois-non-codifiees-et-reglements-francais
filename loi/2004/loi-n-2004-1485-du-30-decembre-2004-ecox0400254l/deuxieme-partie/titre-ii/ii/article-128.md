@@ -18,7 +18,9 @@ L'opposition administrative emporte l'effet d'attribution immédiate prévu à l
 
 Les fonds doivent être reversés, dans les trente jours qui suivent la réception de l'opposition administrative, par le tiers détenteur au Trésor public sous peine de se voir réclamer cette somme majorée du taux d'intérêt légal. Le paiement consécutif à une opposition administrative libère à due concurrence la personne qui l'a effectué à l'égard du redevable de l'amende ou de la condamnation pécuniaire.
 
-3.L'effet de l'opposition administrative s'étend aux créances conditionnelles ou à terme. Dans ce cas, les fonds sont versés au Trésor public lorsque ces créances deviennent exigibles.
+2 bis. L'opposition administrative peut s'exercer sur les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des droits à la date de la notification de l'opposition.
+
+3. L'effet de l'opposition administrative s'étend aux créances conditionnelles ou à terme. Dans ce cas, les fonds sont versés au Trésor public lorsque ces créances deviennent exigibles.
 
 Lorsqu'une personne est simultanément destinataire de plusieurs oppositions administratives établies au nom du redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces demandes en proportion de leurs montants respectifs. Si les fonds détenus ou dus par le destinataire de l'opposition administrative sont indisponibles entre ses mains, il doit en aviser le Trésor public dès sa réception.
 
