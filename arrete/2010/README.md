@@ -1015,7 +1015,6 @@
 - [Arrêté du 12 octobre 2010 (AGRT1024619A)](arrete-du-12-octobre-2010-agrt1024619a)
 - [Arrêté du 12 octobre 2010 (AGRT1024699A)](arrete-du-12-octobre-2010-agrt1024699a)
 - [Arrêté du 12 octobre 2010 (BCRE1027238A)](arrete-du-12-octobre-2010-bcre1027238a)
-- [Arrêté du 12 octobre 2010 (DEVK1024360A)](arrete-du-12-octobre-2010-devk1024360a)
 - [Arrêté du 12 octobre 2010 (IOCD1026629A)](arrete-du-12-octobre-2010-iocd1026629a)
 - [Arrêté du 12 octobre 2010 (MTSC1018760A)](arrete-du-12-octobre-2010-mtsc1018760a)
 - [Arrêté du 12 octobre 2010 (MTSC1018768A)](arrete-du-12-octobre-2010-mtsc1018768a)
