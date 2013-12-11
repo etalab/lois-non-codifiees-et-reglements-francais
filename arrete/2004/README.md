@@ -278,8 +278,6 @@
 - [Arrêté du 12 juillet 1994 (AGRG9401407A)](arrete-du-12-juillet-1994-agrg9401407a)
 - [Arrêté du 12 juillet 2004 (DEFP0400607A)](arrete-du-12-juillet-2004-defp0400607a)
 - [Arrêté du 12 juillet 2004 (ECOP0400246A)](arrete-du-12-juillet-2004-ecop0400246a)
-- [Arrêté du 12 juillet 2004 (ECOP0400247A)](arrete-du-12-juillet-2004-ecop0400247a)
-- [Arrêté du 12 juillet 2004 (ECOP0400248A)](arrete-du-12-juillet-2004-ecop0400248a)
 - [Arrêté du 12 juillet 2004 (ECOP0400249A)](arrete-du-12-juillet-2004-ecop0400249a)
 - [Arrêté du 12 juillet 2004 (MJSK0470110A)](arrete-du-12-juillet-2004-mjsk0470110a)
 - [Arrêté du 12 mars 2004 (DEFD0400209A)](arrete-du-12-mars-2004-defd0400209a)
