@@ -49,6 +49,7 @@
 - [Décret n°2011-388 du 13 avril 2011 (IOCJ1104080D)](decret-n2011-388-du-13-avril-2011-iocj1104080d)
 - [Décret n°2011-661 du 14 juin 2011 (ETSH1105688D)](decret-n2011-661-du-14-juin-2011-etsh1105688d)
 - [Décret n°2011-275 du 16 mars 2011 (EFIT1103770D)](decret-n2011-275-du-16-mars-2011-efit1103770d)
+- [Décret du 17 octobre 2011 (IOCB1125397D)](decret-du-17-octobre-2011-iocb1125397d)
 - [Décret n°2011-1317 du 17 octobre 2011 (MFPF1113937D)](decret-n2011-1317-du-17-octobre-2011-mfpf1113937d)
 - [Décret n°2011-1597 du 21 novembre 2011 (DEVR1126147D)](decret-n2011-1597-du-21-novembre-2011-devr1126147d)
 - [Décret n°2011-1918 du 21 décembre 2011 (IOCD1123883D)](decret-n2011-1918-du-21-decembre-2011-iocd1123883d)
