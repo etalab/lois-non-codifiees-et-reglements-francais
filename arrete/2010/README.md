@@ -1118,7 +1118,6 @@
 - [Arrêté du 13 mai 1997 (INTA9700190A)](arrete-du-13-mai-1997-inta9700190a)
 - [Arrêté du 13 mai 2004 (SOCF0410986A)](arrete-du-13-mai-2004-socf0410986a)
 - [Arrêté du 13 mai 2004 (SOCF0410991A)](arrete-du-13-mai-2004-socf0410991a)
-- [Arrêté du 14 avril 2009 (DEFH0908749A)](arrete-du-14-avril-2009-defh0908749a)
 - [Arrêté du 14 avril 2010 (AGRS1005171A)](arrete-du-14-avril-2010-agrs1005171a)
 - [Arrêté du 14 avril 2010 (AGRS1005172A)](arrete-du-14-avril-2010-agrs1005172a)
 - [Arrêté du 14 avril 2010 (AGRS1011476A)](arrete-du-14-avril-2010-agrs1011476a)
