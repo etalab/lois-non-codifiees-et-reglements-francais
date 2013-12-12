@@ -624,7 +624,6 @@
 - [Décret n°94-945 du 25 octobre 1994 (ACVA9410086D)](decret-n94-945-du-25-octobre-1994-acva9410086d)
 - [Décret n°94-947 du 25 octobre 1994 (EQUA9401024D)](decret-n94-947-du-25-octobre-1994-equa9401024d)
 - [Décret n°90-439 du 25 mai 1990 (MENT9000074D)](decret-n90-439-du-25-mai-1990-ment9000074d)
-- [Décret n°87-695 du 26 août 1987 (RESP8700552D)](decret-n87-695-du-26-aout-1987-resp8700552d)
 - [Décret n°93-1018 du 26 août 1993 (EQUX9300131D)](decret-n93-1018-du-26-aout-1993-equx9300131d)
 - [Décret n°94-1139 du 26 décembre 1994 (PRMX9400531D)](decret-n94-1139-du-26-decembre-1994-prmx9400531d)
 - [Décret n°94-1143 du 26 décembre 1994 (BUDF9400015D)](decret-n94-1143-du-26-decembre-1994-budf9400015d)
