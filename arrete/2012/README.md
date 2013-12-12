@@ -307,7 +307,6 @@
 - [Arrêté du 5 juillet 2012 (EFIS1228298A)](arrete-du-5-juillet-2012-efis1228298a)
 - [Arrêté du 5 juillet 2012 (ETSD1226164A)](arrete-du-5-juillet-2012-etsd1226164a)
 - [Arrêté du 5 juillet 2012 (INTK1226358A)](arrete-du-5-juillet-2012-intk1226358a)
-- [Arrêté du 5 juillet 2012 (MCCE1227082A)](arrete-du-5-juillet-2012-mcce1227082a)
 - [Arrêté du 5 juillet 2012 (MENE1227954A)](arrete-du-5-juillet-2012-mene1227954a)
 - [Arrêté du 5 juillet 2012 (OMEO1228843A)](arrete-du-5-juillet-2012-omeo1228843a)
 - [Arrêté du 5 juillet 2012 (TRAT1227202A)](arrete-du-5-juillet-2012-trat1227202a)
