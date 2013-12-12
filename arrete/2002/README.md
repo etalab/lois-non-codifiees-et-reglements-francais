@@ -610,7 +610,6 @@
 - [Arrêté du 28 août 2002 (INDI0200568A)](arrete-du-28-aout-2002-indi0200568a)
 - [Arrêté du 28 décembre 2001 (AGRP0102526A)](arrete-du-28-decembre-2001-agrp0102526a)
 - [Arrêté du 28 décembre 2001 (ECOL0100203A)](arrete-du-28-decembre-2001-ecol0100203a)
-- [Arrêté du 28 décembre 2001 (ECOL0100209A)](arrete-du-28-decembre-2001-ecol0100209a)
 - [Arrêté du 28 décembre 2001 (EQUT0101817A)](arrete-du-28-decembre-2001-equt0101817a)
 - [Arrêté du 28 décembre 2001 (EQUU0101305A)](arrete-du-28-decembre-2001-equu0101305a)
 - [Arrêté du 28 décembre 2001 (EQUU0101642A)](arrete-du-28-decembre-2001-equu0101642a)
