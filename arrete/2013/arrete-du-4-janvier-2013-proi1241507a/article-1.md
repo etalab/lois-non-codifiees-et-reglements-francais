@@ -6,7 +6,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du bureau de la métrologie à la direction générale de la compétitivité, de l'industrie et des services.<br/>
+<p align="left">Chef du bureau de la métrologie à la direction générale de la compétitivité, de l'industrie et des services. (Supprimé le 1er octobre 2013)<br/>
 </p>
 </td>
 </tr>
@@ -24,7 +24,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services.</p>
+<p align="left">Responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services. (Supprimé le 1er février 2014)</p>
 </td>
 </tr>
 <tr>
@@ -33,10 +33,14 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Directeur des ressources humaines à Mines Paris Tech. (Ajouté le 14 juin 2013) </td>
+<td>
+<p align="left">Directeur des ressources humaines à Mines Paris Tech. (Ajouté le 14 juin 2013) </p>
+</td>
 </tr>
 <tr>
-<td>Chef du bureau de la qualité écologique des produits à la direction générale de la prévention des risques. (Ajouté le 1er septembre 2013) </td>
+<td>
+<p align="left">Chef du bureau de la qualité écologique des produits à la direction générale de la prévention des risques. (Ajouté le 1er septembre 2013) </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -69,7 +73,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Chargé de mission auprès du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Ajouté à compter du 28 octobre 2013)</td>
+<td>
+<p align="left">Chargé de mission auprès du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Ajouté à compter du 28 octobre 2013)</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -115,13 +121,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du pôle concurrence, consommation, répression des fraudes et métrologie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Poitou-Charentes.<br/>
+<p align="left">Chef du pôle concurrence, consommation, répression des fraudes et métrologie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Poitou-Charentes. (Supprimé le 1er juillet 2013)<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service développement économique et innovation au sein de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Provence-Alpes-Côte d'Azur.<br/>
+<p align="left">Chef du service développement économique et innovation au sein de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Provence-Alpes-Côte d'Azur. (Supprimé le 14 juin 2013)<br/>
 </p>
 </td>
 </tr>
@@ -137,7 +143,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai.</p>
+<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai. (Supprimé le 1er juin 2013)</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +163,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division de Douai de l'Autorité de sûreté nucléaire.</p>
+<p align="left">Chef de la division de Douai de l'Autorité de sûreté nucléaire. (Supprimé le 1er octobre 2013)</p>
 </td>
 </tr>
 <tr>
@@ -277,7 +283,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine.<br/>
+<p align="left">Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine. (Supprimé le 1er août 2013)<br/>
 </p>
 </td>
 </tr>
@@ -300,7 +306,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Chargé de mission à la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie. (Ajouté le 1er octobre 2013) </td>
+<td>
+<p align="left">Chargé de mission à la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie. (Ajouté le 1er octobre 2013) </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -316,8 +324,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale du Loiret à la direction régionale de l'environnement, de l'aménagement et du logement du Centre.<br/>
-</p>
+<p align="left">Chef de l'unité territoriale du Loiret à la direction régionale de l'environnement, de l'aménagement et du logement du Centre.(Supprimé le 1er février 2013)</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +340,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement du Centre. (Ajouté le 1er avril 2013) </td>
+<td>
+<p align="left">Secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement du Centre. (Ajouté le 1er avril 2013) </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -537,7 +546,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale d'Angers de la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire.<br/>
+<p align="left">Chef de l'unité territoriale d'Angers de la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire. (Supprimé le 1er juillet 2013)<br/>
 </p>
 </td>
 </tr>
@@ -608,11 +617,15 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013)<br/>
+<td>
+<p align="left">Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013)<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er septembre 2013) <br/>
+<td>
+<p align="left">Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er septembre 2013) <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +649,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td/>
+<td>
+<p align="left">Chargé de mission auprès du secrétaire général de la direction générale de la compétitivité, de l'industrie et des services. (Ajouté le 13 septembre 2013)</p>
+</td>
 </tr>
 </tbody>
 </table>
