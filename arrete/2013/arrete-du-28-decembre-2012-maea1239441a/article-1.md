@@ -10,9 +10,9 @@ La direction générale des affaires politiques et de sécurité est composée :
 
 ― la sous-direction des affaires économiques et budgétaires ;
 
-― la délégation des affaires francophones ;
+― la délégation aux affaires francophones ;
 
-― la délégation des fonctionnaires internationaux ;
+― la délégation aux fonctionnaires internationaux ;
 
 2° De la direction des affaires stratégiques, de sécurité et du désarmement, qui comprend :
 
