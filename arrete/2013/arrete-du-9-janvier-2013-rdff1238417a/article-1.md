@@ -1,3 +1,0 @@
-# Article 1
-
-En application de l'article 7 du décret du 3 mai 2012 susvisé, les modalités d'organisation générales des concours réservés pour l'accès aux corps des attachés d'administration et à certains corps analogues régis par le décret du 26 septembre 2005 susvisé, au corps interministériel des attachés d'administration de l'Etat régi par le décret du 17 octobre 2011 susvisé, aux corps des chargés d'études documentaires régis par le décret du 19 mars 1998 susvisé et aux corps des infirmiers de catégorie A des administrations de l'Etat régis par le décret du 9 mai 2012 susvisé sont fixées par les dispositions du présent arrêté.

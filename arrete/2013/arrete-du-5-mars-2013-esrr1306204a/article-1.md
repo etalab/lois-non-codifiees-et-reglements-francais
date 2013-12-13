@@ -1,3 +1,0 @@
-# Article 1
-
-Il est créé au sein de la direction générale pour la recherche et l'innovation du ministère de l'enseignement supérieur et de la recherche un traitement automatisé de données à caractère personnel dénommé « DUO » dont l'objet est de permettre à toute personne désireuse de mettre en œuvre un projet d'utilisation d'organismes génétiquement modifiés en milieu confiné à des fins d'enseignement, de recherche et de développement de déposer, via internet, un dossier d'agrément ou de déclaration auprès du ministre chargé de la recherche conformément aux dispositions du code de l'environnement.

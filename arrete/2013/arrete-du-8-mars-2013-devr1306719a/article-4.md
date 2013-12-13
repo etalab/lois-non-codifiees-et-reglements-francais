@@ -1,5 +1,0 @@
-# Article 4
-
-Peut bénéficier d'un contrat d'achat aux tarifs définis dans les conditions indiquées à l'article 3 ci-dessus, dans la mesure où elle respecte à la date de signature du contrat d'achat les conditions du code de l'énergie et des décrets du 6 décembre 2000 et du 10 mai 2001 susvisés et de l'annexe 2 du présent arrêté, une installation mise en service pour la première fois après la date de publication du présent arrêté et dont les éléments principaux (pales, multiplicateur, générateur électrique, stockage) n'ont jamais produit d'électricité à des fins d'autoconsommation ou dans le cadre d'un contrat commercial.
-
-Le contrat d'achat est conclu pour une durée de quinze ans à compter de la mise en service industrielle de l'installation. La mise en service doit avoir lieu dans un délai de trois ans à compter de la demande complète de contrat d'achat par le producteur. En cas de dépassement de ce délai, la durée du contrat d'achat est réduite d'autant, en commençant par la première période de dix années mentionnée à l'annexe 1 du présent arrêté.

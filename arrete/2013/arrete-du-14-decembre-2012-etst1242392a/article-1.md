@@ -1,5 +1,0 @@
-# Article 1
-
-Les travaux de retrait ou d'encapsulage d'amiante et de matériaux, d'équipements et de matériels ou d'articles en contenant tels que mentionnés à l'article R. 4412-94 (1°) du code du travail doivent être réalisés par des entreprises qui ont fait préalablement l'objet d'une certification tenant compte notamment des processus qu'elles mettent en œuvre dans le cadre de ces travaux. Cette certification doit être délivrée par un organisme certificateur accrédité à cet effet, tel que mentionné à l'article R. 4412-129 du code du travail.
-
-L'organisme certificateur évalue la capacité des entreprises à réaliser des travaux conformes aux exigences fixées par la norme NF X 46-010 : août 2012  Travaux de traitement de l'amiante. ― Référentiel technique pour la certification des entreprises. ― Exigences générales . Lorsque les exigences sont satisfaites, l'organisme certificateur délivre ou maintient un certificat, en langue française, dans les conditions fixées par la norme NF X 46-011 : août 2012  Travaux de traitement de l'amiante. ― Modalités d'attribution et de suivi des certificats des entreprises .

@@ -1,3 +1,0 @@
-# Article 11
-
-La confidentialité des informations communiquées par la juridiction et circulant entre le point de terminaison sécurisé de la plate-forme nationale d'échanges et de suivi sécurisée dénommée « i-greffes » et le lieu où l'avocat exerce son activité est assurée par les fonctions de sécurité mises en œuvre au sein du RPVA. La confidentialité des informations communiquées par les avocats et circulant entre le point de terminaison sécurisé de la plate-forme nationale et de suivi sécurisée et les greffiers des tribunaux de commerce est assurée par les fonctions de sécurité mises en œuvre au sein de la plate-forme nationale d'échanges et de suivi sécurisée dénommée « i-greffes ».

@@ -1,4 +1,0 @@
-# Article 22-1
-
-<div align="left">Aux fins de suivi du  dispositif, l'autorité administrative compétente est chargée du suivi  statistique du dispositif de validation des acquis de l'expérience. <br/>
-<br/>Dans  ce cadre, elle adresse au ministère chargé de la mer (direction des  affaires maritimes, sous-direction des gens de mer et de l'enseignement  maritime, bureau de la formation et de l'emploi maritimes), au cours du  premier trimestre de chaque année, un bilan arrêté au 31 décembre de  l'année précédente faisant état, notamment, du nombre de dossiers de  demande de validation des acquis de l'expérience déposés et refusés, en  précisant le motif pour ces derniers. Pour les candidats ayant obtenu  une validation partielle, elle évalue, dans ce même rapport, la réussite  de cette démarche à son terme.</div>

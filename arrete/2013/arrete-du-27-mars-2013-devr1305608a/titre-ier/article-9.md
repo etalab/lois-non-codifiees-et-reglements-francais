@@ -1,3 +1,0 @@
-# Article 9
-
-Le sous-programme « intempéries » a pour objet d'aider au renforcement anticipé de départs de réseaux sous maîtrise d'ouvrage d'autorités organisatrices d'un réseau public de distribution d'électricité endommagés par des phénomènes atmosphériques d'une ampleur exceptionnelle au regard de leur impact sur le réseau. Les aides de ce sous-programme peuvent également avoir pour objet l'enfouissement de ces départs si cette opération est de nature à réduire les risques de destruction en cas d'intempéries ultérieures. L'aide porte sur le coût relatif au renforcement ou à l'enfouissement des portions de réseaux endommagés.

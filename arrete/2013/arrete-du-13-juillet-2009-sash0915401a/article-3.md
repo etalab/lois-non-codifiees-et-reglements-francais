@@ -1,7 +1,0 @@
-# Article 3
-
-Ouvrent droit à l'exercice en France de la profession de chirurgien-dentiste aux ressortissants des Etats membres de  l'Union européenne ou parties à l'accord sur l'Espace économique européen, en application des dispositions du d du 3° de l'article L. 4141-3 du code de la santé publique, les titres de formation de praticien de l'art dentaire délivrés par l'ancienne Union soviétique ou qui sanctionnent une formation commencée avant le 20 août 1991 pour l'Estonie, le 21 août 1991 pour la Lettonie, le 11 mars 1990 pour la Lituanie, dates de leur indépendance, ou les titres de formation de praticien de l'art dentaire délivrés par l'ancienne Yougoslavie ou qui sanctionnent une formation commencée avant le 25 juin 1991, date de l'indépendance de la Slovénie, s'ils sont accompagnés :
-
-a) D'une attestation délivrée par les autorités compétentes de l'un des Etats membres précités certifiant que ces titres de formation ont, sur leur territoire, la même validité sur le plan juridique que les titres qu'elles délivrent, pour ce qui est de l'accès aux activités de praticien de l'art dentaire et de leur exercice ;
-
-b) Et d'un certificat délivré par ces mêmes autorités déclarant que les intéressés ont effectivement et licitement exercé les activités en cause sur leur territoire pendant au moins trois années consécutives au cours des cinq années précédant la date de délivrance du certificat.

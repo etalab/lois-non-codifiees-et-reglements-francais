@@ -1,5 +1,0 @@
-# Article 1
-
-Les équipements électroniques embarqués mentionnés au 1 de l'article 276 et du code des douanes doivent respecter a minima les exigences de la décision 2009/750/ CE susvisée, les caractéristiques prévues à l'article R. 111-2 du code de la voirie routière et dans l'arrêté du 8 juin 2012 susvisé. Toutefois, et par dérogation au point 2.1.2 de l'annexe III de la décision 2009/750/ CE susvisée, il n'est pas exigé que les applications des équipements électroniques embarqués soient conformes à la norme ETSI ES 200674-1.
-
-Les contrats conclus entre l'Etat ou le prestataire mentionné au B du III de l'article 153 de la loi de finances susvisée et les sociétés habilitées fournissant un service de télépéage mentionnées au 3 de l'article 276 du code des douanes peuvent prévoir des caractéristiques complémentaires auxquelles les équipements électroniques embarqués concernés doivent se conformer, sous réserve qu'elles soient compatibles avec les dispositions du premier alinéa du présent article.

@@ -1,7 +1,0 @@
-# Article 3
-
-Les données recueillies au cours d'un examen médical effectué en vue de déterminer une aptitude médicale sont traduites sous forme d'un profil médical défini par l'arrêté du 20 décembre 2012 susvisé. Ce profil rassemble sept rubriques identifiées par un sigle (SIGYCOP) affecté d'un coefficient variable de 0 à 6. Le coefficient « 0 » est réservé au sigle P : attribué provisoirement lors du recrutement, il permet l'engagement et l'évaluation de l'adaptation au milieu militaire, avant classement définitif du sigle P.
-
-L'éventail de ces coefficients couvre les différents degrés allant de l'absence de toute anomalie, entraînant l'aptitude médicale sans restriction, jusqu'à l'affection grave ou l'impotence fonctionnelle majeure, provoquant l'inaptitude totale. Ce mode de cotation permet d'intégrer tous les résultats du bilan médical puis de les transposer en niveaux d'aptitude et de déterminer l'aptitude médicale à servir ou à l'emploi, en référence aux critères ou normes d'emploi définis par le commandement. Le profil médical est donc un outil de dialogue entre le médecin et le commandement, communiqué à l'occasion des visites médicales des candidats déclarés aptes au recrutement ou à un changement de spécialité, de corps ou d'armée.
-
-En cas d'affection en cours d'évolution, d'incertitude sur le coefficient à attribuer ou de nécessité d'un complément d'expertise, l'indice temporaire « T » peut être attribué à un ou plusieurs coefficients.

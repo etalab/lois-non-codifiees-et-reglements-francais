@@ -1,5 +1,0 @@
-# Arrêté du 25 juillet 2013 portant application du premier alinéa de l'article 42 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et encadrant le contrôle sélectif de la dépense
-
-- [TITRE Ier : DISPOSITIONS COMMUNES AUX COMPTABLES ASSIGNATAIRES  DES PERSONNES MORALES VISÉES À L'ARTICLE 1er DU DÉCRET SUSVISÉ](titre-ier)
-- [TITRE II : DISPOSITIONS APPLICABLES AUX COMPTABLES PUBLICS ASSIGNATAIRES  DES PERSONNES MORALES VISÉES AUX 1°, 4°, 5° ET 6° DE L'ARTICLE 1er DU DÉCRET SUSVISÉ](titre-ii)
-- [TITRE III : DISPOSITIONS APPLICABLES AUX COMPTABLES ASSIGNATAIRES  DES PERSONNES MORALES VISÉES AUX 2° ET 3° DE L'ARTICLE 1er DU DÉCRET SUSVISÉ](titre-iii)

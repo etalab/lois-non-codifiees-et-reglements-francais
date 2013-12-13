@@ -1,3 +1,0 @@
-# Article 65
-
-Lorsque, après analyse, l'événement rapporté est relatif à une panne, un mauvais fonctionnement ou un défaut provenant d'une déficience de la définition de type, de la conception d'une modification ou d'une réparation, ou encore d'une déficience de production, le détenteur d'un certificat de type, d'un certificat de type supplémentaire ou d'une approbation pour la conception d'une réparation majeure recherche la cause de la déficience et rend compte à l'autorité technique des résultats de ses recherches et de toute action qu'il entreprend ou propose d'entreprendre afin de remédier à cette déficience.

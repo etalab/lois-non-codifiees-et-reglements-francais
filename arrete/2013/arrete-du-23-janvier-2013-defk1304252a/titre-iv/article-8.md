@@ -1,3 +1,0 @@
-# Article 8
-
-Le service régional de médecine de prévention est organisé autour d'un centre de médecine de prévention des armées qui se compose d'une portion centrale et d'antennes qui correspondent à des secteurs géographiques d'exercice confiés à des médecins de prévention civils et militaires. Ces médecins de prévention sont désignés par la direction centrale du service de santé des armées selon les dispositions prévues à l'article 39 du décret du 29 mars 2012 susvisé. Ce dispositif est complété par des prestations apportées par des médecins relevant, selon le cas, des organismes listés à l'article précité.

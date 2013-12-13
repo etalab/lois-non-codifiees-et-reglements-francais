@@ -1,3 +1,0 @@
-# Article 36
-
-Le LPO doit pouvoir à tout moment démontrer aux services compétents qu'il satisfait aux dispositions du présent arrêté. Le ministre chargé de l'aviation civile fait vérifier par les services compétents que les dispositions contenues dans le présent arrêté sont respectées. A ce titre, ils peuvent prendre part à des séances de contrôle. Lors de ces inspections, les services compétents ont accès aux locaux où se déroulent les contrôles, aux archives de l'organisme, aux documents d'approbation, aux dossiers de contrôles, aux dossiers d'examinateurs, et à tout autre document jugé utile. Le rapport d'inspection est communiqué à l'organisme.

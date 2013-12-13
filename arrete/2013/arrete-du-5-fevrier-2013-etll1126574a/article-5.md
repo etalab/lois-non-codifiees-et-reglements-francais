@@ -1,5 +1,0 @@
-# Article 5
-
-Dans les parties communes des bâtiments d'habitation de troisième et quatrième famille tels que définis à l'article 3 de l'arrêté du 31 janvier 1986 modifié susvisé, dont la demande de permis de construire ou de prorogation de permis de construire a été déposée avant le 5 mars 1987, des blocs-portes séparant les locaux poubelles des autres parties du bâtiment sont mis en place lorsque ces locaux ne s'ouvrent pas sur l'extérieur du bâtiment ou sur des coursives ouvertes. Ces blocs-portes sont coupe-feu de degré une demi-heure ou de classe EI 30 au moins. Les portes sont munies de ferme-porte et s'ouvrent sans clé de l'intérieur, dans le sens de la sortie en venant de ces locaux.
-
-Dans les bâtiments de troisième et quatrième famille, lorsqu'il n'existe pas de porte pour les escaliers mettant en communication les sous-sols et le reste du bâtiment, des blocs-portes sont installés. Ces blocs-portes sont coupe-feu de degré une demi-heure ou de classe EI 30 au moins. Les portes des blocs-portes sont munies de ferme-porte et s'ouvrent sans clé de l'intérieur, dans le sens de la sortie en venant de ces locaux.

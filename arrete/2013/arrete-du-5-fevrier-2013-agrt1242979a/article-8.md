@@ -1,3 +1,0 @@
-# Article 8
-
-Les listes des bénéficiaires résultant des critères d'attribution visés ci-dessus et des contingents fixés aux articles 1er, 2, 3, 4, 5, 6 et 7 du présent arrêté peuvent être consultées auprès du ministère de l'agriculture, de l'agroalimentaire et de la forêt, auprès de la direction générale des politiques agricoles, agroalimentaire et des territoires, 3, rue Barbet-de-Jouy, 75007 Paris, auprès des directions régionales de l'alimentation, de l'agriculture et de la forêt des départements concernés et des services régionaux de l'Institut national de l'origine et de la qualité. Ces listes comportent les parcelles et surfaces concernées.

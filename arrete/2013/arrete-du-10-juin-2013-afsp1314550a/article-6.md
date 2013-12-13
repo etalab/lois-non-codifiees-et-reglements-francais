@@ -1,3 +1,0 @@
-# Article 6
-
-La pharmacie à usage intérieur du centre hospitalier de Pau et, le cas échéant, les pharmacies à usage intérieur désignées par le directeur général de l'Agence régionale de santé sont autorisées à réaliser le stockage des doses de vaccin nécessaires à la campagne de vaccination par le MenBvac et à les distribuer aux services ou centres procédant à des vaccinations collectives ou, le cas échéant, aux collectivités territoriales et aux professionnels de santé, sous réserve, dans ces deux derniers cas, qu'ils disposent de lieux spécifiquement adaptés, placés sous la responsabilité d'un professionnel de santé.

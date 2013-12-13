@@ -1,3 +1,0 @@
-# Article 6
-
-Les préfets des départements de l'Ariège, de l'Aude, de l'Aveyron, du Cantal, de la Charente, de la Charente-Maritime, de la Corrèze, de la Creuse, de la Dordogne, du Gard, de la Haute-Garonne, du Gers, de la Gironde, de l'Hérault, des Landes, du Lot, de Lot-et-Garonne, de la Lozère, du Puy-de-Dôme, des Pyrénées-Atlantiques, des Hautes-Pyrénées, des Deux-Sèvres, du Tarn, de Tarn-et-Garonne, de la Vienne et de la Haute-Vienne, les directeurs régionaux de l'environnement, de l'aménagement et du logement et les directeurs départementaux des territoires (et de la mer) concernés sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

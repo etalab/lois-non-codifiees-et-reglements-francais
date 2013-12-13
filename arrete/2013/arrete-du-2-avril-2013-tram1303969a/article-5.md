@@ -1,5 +1,0 @@
-# Article 5
-
-Le demandeur, dès l'acceptation de sa demande par la direction interrégionale de la mer Méditerranée, s'engage à sortir de flotte son navire avant le 1er août 2013 (facture acquittée du chantier faisant foi). Pour les cas de force majeure dont la preuve documentaire est apportée par les bénéficiaires, le préfet de région peut accorder au demandeur un délai complémentaire pour la destruction. A l'expiration de ce délai, la convention est réputée caduque. Seule la destruction est retenue comme mode de sortie de flotte.
-
-Toutefois, si une administration de l'Etat français en exprime le besoin, une cession, à titre gratuit à l'Etat dans le but d'une reconversion en activité de service public sous pavillon français, pourra être envisagée comme alternative à la destruction. Dans ce cas, le délai pour effectuer la cession et obtenir les documents demandés au dernier alinéa de l'article 7 expire également le 1er août 2013. En cas de non-réalisation de l'opération de cession envisagée, le préfet de région peut accorder au demandeur un délai d'un mois supplémentaire pour conclure l'opération de cession ou pour procéder à la destruction du navire.

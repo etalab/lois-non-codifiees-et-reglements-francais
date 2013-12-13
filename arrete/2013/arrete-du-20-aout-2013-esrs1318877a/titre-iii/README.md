@@ -1,3 +1,0 @@
-# TITRE III : TAUX APPLICABLE AU DIPLÔME DE DOCTORAT
-
-- [Article 5](article-5.md)

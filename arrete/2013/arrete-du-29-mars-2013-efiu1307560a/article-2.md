@@ -1,3 +1,0 @@
-# Article 2
-
-Le contrôleur a entrée avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe consultatif existant en son sein. Il reçoit dans les mêmes conditions que les membres de ces instances les convocations, ordres du jour et tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur établissement. Il a également entrée, dans les mêmes conditions, aux instances chargées de préparer et de suivre l'exécution du contrat d'objectifs et de moyens et aux comités dont les décisions sont susceptibles d'avoir une incidence budgétaire importante.

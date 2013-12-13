@@ -1,3 +1,0 @@
-# Arrêté du 20 mars 2013 modifiant l'arrêté du 5 novembre 2002 relatif à l'aptitude physique et à la formation des personnes atteintes d'un handicap moteur sévère d'origine ostéo-articulaire, musculo-tendineuse ou neurologique pour l'exercice de fonctions de pilotage et l'arrêté du 24 novembre 2003 modifié relatif aux conditions d'aptitude physique et de formation des personnes atteintes d'un handicap moteur sévère d'origine musculo-tendineuse, ostéo-articulaire ou neurologique candidates à la délivrance ou au renouvellement d'un certificat médical de classe 1 associée à une licence de pilote professionnel avion
-
-- [Article 6](article-6.md)

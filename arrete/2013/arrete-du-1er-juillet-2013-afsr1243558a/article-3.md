@@ -1,3 +1,0 @@
-# Article 3
-
-Pour le recrutement des fonctionnaires mentionnés en annexe 2 du présent arrêté et ayant vocation à exercer leurs fonctions dans les services régionaux et départementaux mentionnés à l'article 1er du décret n° 2013-571 du 1er juillet 2013 susvisé, sont délégués aux préfets de région, au préfet de Mayotte et au préfet de Saint-Pierre-et-Miquelon les actes relatifs à l'organisation matérielle des concours, à l'exception de la nomination du jury, et les décisions relatives aux recrutements sans concours des personnels de catégorie C, à l'exception de la nomination des membres de la commission de sélection.

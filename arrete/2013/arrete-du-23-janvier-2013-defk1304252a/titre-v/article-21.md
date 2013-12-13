@@ -1,3 +1,0 @@
-# Article 21
-
-A l'exception des agents classés en catégorie A vis-à-vis des rayonnements ionisants qui bénéficient d'un suivi de leur état de santé au moins une fois par an, la surveillance médicale renforcée comprend au moins tous les vingt-quatre mois la réalisation d'un examen de nature médicale dont les modalités sont définies par le médecin de prévention dans le respect des recommandations de bonnes pratiques. En particulier, à l'issue des activités mentionnées à l'article 12 du présent arrêté et en fonction des moyens mis en œuvre pour assurer la maîtrise du risque, le médecin de prévention peut décider la réalisation d'une surveillance annuelle.

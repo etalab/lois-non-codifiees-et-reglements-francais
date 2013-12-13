@@ -1,3 +1,0 @@
-# Article 13
-
-Le bureau « relations presse et veille médias » a la responsabilité des relations des ministères avec l'ensemble des médias ― presse écrite, audiovisuelle et internet ― dont il assure une veille permanente. A ce titre, il coordonne les informations destinées aux médias, prépare les communiqués, dossiers de presse et autres supports de communication, dont il assure la diffusion. Il analyse l'actualité et son traitement, assiste les cabinets des ministres dans la réalisation de leurs opérations de presse et assure une fonction de conseil et d'appui auprès des cabinets, des directions et des services.

@@ -1,3 +1,0 @@
-# Article 1
-
-Les salariés qui engagent des frais de transport ou de séjour en application de l'article R. 717-24 du code rural et de la pêche maritime ont droit, sous réserve de produire toutes les pièces justificatives utiles, au remboursement par leur employeur de leurs frais de déplacement, de repas et de séjour selon les modalités prévues par la convention collective applicable à l'établissement ou, à défaut, selon les modalités prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.

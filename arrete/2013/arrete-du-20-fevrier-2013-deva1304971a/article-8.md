@@ -1,7 +1,0 @@
-# Article 8
-
-Dispositions spécifiques aux exploitants d'hélicoptères.
-
-Le ministre chargé de l'aviation civile peut accorder à un exploitant d'hélicoptères, à sa demande et dans les limites permises par les articles 14.4 à 14.7 du règlement (CE) n° 216/2008 susvisé, une dérogation au paragraphe SPA. HEMS. 130 « Exigences en matière d'équipage » de l'annexe V au règlement (UE) n° 965/2012 susvisé en vue de l'obtention d'un certificat de transport aérien conforme audit règlement, selon les modalités suivantes : à titre transitoire, les dispositions relatives à la composition des équipages effectuant des opérations de service médical d'urgence par hélicoptère contenues dans le paragraphe OPS 3.005 d et ses appendices 1 et 2 peuvent être conservées en lieu et place du paragraphe SPA. HEMS. 130 dès lors que ces opérations sont engagées à la date de conversion du certificat de transporteur aérien et que l'exploitant est en mesure de montrer que la mise en conformité avec les exigences du règlement (UE) n° 965/2012 susvisé demanderait un effort indu et disproportionné.
-
-L'appendice 1 au paragraphe OPS 3.005 e de l'arrêté du 21 mars 2011 susvisé est accepté comme moyen de conformité alternatif à l'étude de risque, à laquelle il est référé au paragraphe AMC1 CAT. POL. H. 420 (b) de la décision n° 2012/018/ R susvisée, pour la démonstration de conformité au paragraphe CAT. POL. H. 420 « Exploitation d'hélicoptères au-dessus d'un environnement hostile se trouvant en dehors d'une zone habitée » de l'annexe IV au règlement (UE) n° 965/2012 susvisé.

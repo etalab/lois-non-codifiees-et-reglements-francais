@@ -1,3 +1,0 @@
-# Article 2
-
-La décision d'ouverture de l'examen professionnel mentionné à l'article 1er du présent arrêté fixe, pour chaque examen professionnel, le nombre de postes offerts au recrutement, leur répartition par branche d'activité professionnelle et emplois types, ou, le cas échéant, par branche d'activité professionnelle, ou encore par regroupement de branches d'activité professionnelle, et la date limite de retrait et de dépôt des dossiers de candidature. Une décision du président de l'IRD fixe la date et le lieu de déroulement des épreuves ainsi que la liste des candidats admis à y prendre part.

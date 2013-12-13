@@ -1,3 +1,0 @@
-# Article 3
-
-Le rétablissement de crédits a pour objet d'annuler une dépense sur le programme qui a supporté la dépense initiale et a pour effet de reconstituer des crédits budgétaires disponibles pour engager et payer à hauteur des remboursements obtenus. Sauf dérogation du ministre chargé du budget, il s'exécute sur l'imputation budgétaire et comptable de la dépense initiale et, au sein de l'administration, le remboursement du cessionnaire suit la même imputation budgétaire et comptable que la dépense initiale du cédant, à l'exception des comptes spéciaux en matière de remboursement de dépenses de personnel.

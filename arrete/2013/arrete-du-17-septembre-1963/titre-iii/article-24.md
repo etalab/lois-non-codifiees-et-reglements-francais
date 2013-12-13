@@ -1,3 +1,0 @@
-# Article 24
-
-Il est institué une commission de recensement des votes des agents de direction et des agents comptables, présidée par le directeur des affaires financières, sociales et logistiques ou son représentant, du directeur général de la Caisse centrale de la mutualité sociale agricole ou son représentant et de deux représentants du personnel de la catégorie intéressée choisis par le directeur des affaires financières, sociales et logistiques.  Le président, en cas de partage des voix, a voix prépondérante. La commission de recensement des votes  peut s'adjoindre des représentants des candidats ; ceux-ci ont voix consultative.

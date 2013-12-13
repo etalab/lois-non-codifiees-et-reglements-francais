@@ -1,3 +1,0 @@
-# Article 16
-
-Tout établissement assujetti ayant son siège social sur le territoire de la France métropolitaine, dans les départements d'outre-mer ou à Saint-Martin, désirant établir une succursale, recourir à une personne pour la distribution de monnaie électronique, ou intervenir en libre prestation de services pour la première fois dans un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen pour émettre et gérer de la monnaie électronique, selon les dispositions des articles L. 526-22 à L. 526-24 du code monétaire et financier, communique à l'Autorité de contrôle prudentiel et de résolution les informations mentionnées aux articles 17 à 20.

@@ -1,3 +1,0 @@
-# Article 1
-
-Les entrepositaires agréés par l'administration des douanes pour la production, la transformation, la réception, l'expédition et la détention en suspension de droits et taxes des produits énergétiques visés à l'article 265 du code des douanes, ainsi que les destinataires et expéditeurs enregistrés auprès de l'administration des douanes et les redevables spécifiques de la taxe intérieure de consommation (RSTC), s'ils souhaitent bénéficier du report de paiement, sont tenus de souscrire auprès de la recette régionale des douanes de rattachement une soumission dénommée « soumission générale cautionnée produits énergétiques » conforme au modèle figurant à l'annexe I du présent arrêté.

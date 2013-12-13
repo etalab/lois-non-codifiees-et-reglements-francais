@@ -1,5 +1,0 @@
-# Article 20
-
-Dans le cas d'une installation de combustion à foyer mixte, autorisée avant le 31 juillet 2002 ou qui a fait l'objet d'une demande d'autorisation avant cette date, pour autant que l'installation ait été mise en service au plus tard le 27 novembre 2003, et qui utilise les résidus de distillation et de conversion du raffinage du pétrole brut, seuls ou avec d'autres combustibles, pour sa consommation propre, la valeur limite d'émission de l'installation est déterminée conformément aux dispositions de l'article 40.2 de la directive 2010/75/UE susvisée.
-
-Les arrêtés préfectoraux peuvent, à la demande de l'exploitant, prévoir pour le SO<sub>2</sub>, au lieu des dispositions qui précèdent, une valeur limite moyenne d'émission unique pour toutes les installations visées au précédent alinéa à l'exception des turbines à gaz et des moteurs à gaz, à condition que cela n'ait pas pour conséquence d'autoriser une augmentation des émissions polluantes des autres installations de la raffinerie. Cette valeur limite ne dépasse pas 1 000 mg/Nm³.

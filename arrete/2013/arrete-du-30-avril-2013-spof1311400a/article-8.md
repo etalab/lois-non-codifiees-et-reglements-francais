@@ -1,3 +1,0 @@
-# Article 8
-
-Dans les cinq ans suivant la date de publication du présent arrêté, le titulaire du brevet d'Etat d'éducateur sportif du premier degré, option « sport-boules », obtient sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « sport-boules », s'il a exercé la fonction de coordonnateur technique départemental, régional ou interrégional pendant au moins trois saisons sportives. L'expérience est attestée par le directeur technique national du sport-boules.

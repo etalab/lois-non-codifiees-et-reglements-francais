@@ -1,3 +1,0 @@
-# Article 
-
-Allégement des prophylaxies

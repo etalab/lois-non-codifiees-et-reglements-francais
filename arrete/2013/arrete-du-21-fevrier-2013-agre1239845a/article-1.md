@@ -1,5 +1,0 @@
-# Article 1
-
-L'accès à la classe de première de la série STAV " sciences et technologies de l'agronomie et du vivant : agronomie, alimentation, environnement, territoires " du baccalauréat technologique est ouvert aux élèves qui s'orientent dans cette série à l'issue de la classe de seconde générale et technologique. Cet accès ne peut pas être soumis à la condition d'avoir suivi un enseignement d'exploration particulier en classe de seconde générale et technologique.
-
-L'accès à la série STAV est aussi ouvert aux élèves parvenus au terme d'une classe de seconde professionnelle ou de première professionnelle, ou bien aux titulaires d'un brevet d'études professionnelles agricoles ou d'un brevet d'études professionnelles, ou d'un certificat d'aptitude professionnelle agricole ou d'un certificat d'aptitude professionnelle conformément aux dispositions des articles D. 341-7 et D. 341-27 du code de l'éducation. La période d'adaptation prévue à l'article D. 333-18 du code de l'éducation peut prendre la forme d'un stage passerelle dont le contenu, la durée et les modalités sont fixés par le chef d'établissement concerné.

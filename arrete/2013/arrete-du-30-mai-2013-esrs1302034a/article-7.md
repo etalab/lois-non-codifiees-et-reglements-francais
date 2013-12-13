@@ -1,3 +1,0 @@
-# Article 7
-
-L'original de l'attestation ainsi qu'une copie destinée au dossier de demande d'admission portant résultat des candidats au test destiné à évaluer le niveau de compréhension de la langue française et à l'épreuve d'expression écrite sont communiqués par le CIEP, dans les trois semaines suivant la transmission au CIEP des compositions, au service de coopération et d'action culturelle de l'ambassade de France ou à l'université où le dossier a été déposé. Le service de coopération et d'action culturelle de l'ambassade de France ou l'université où le dossier a été déposé communique l'original de l'attestation au candidat.

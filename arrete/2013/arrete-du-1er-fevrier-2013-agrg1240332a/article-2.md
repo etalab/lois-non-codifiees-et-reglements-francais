@@ -1,3 +1,0 @@
-# Article 2
-
-Le responsable de l'établissement utilisateur d'animaux à des fins scientifiques désigne la personne compétente exerçant les fonctions visées au 1° de l'article R. 214-114 du code rural et de la pêche maritime qui sera responsable de l'approvisionnement, de la gestion du stock et de l'utilisation de ces médicaments dans l'établissement. Une copie du document désignant cette personne est adressée à la direction départementale en charge de la protection des populations du département où se situe l'établissement et à l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.

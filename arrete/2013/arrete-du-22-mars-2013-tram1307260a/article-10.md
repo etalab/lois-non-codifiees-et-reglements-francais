@@ -1,5 +1,0 @@
-# Article 10
-
-Dispositions de contrôle et sanctions.
-
-Tout manquement aux dispositions du présent arrêté et aux dispositions réglementaires applicables à la pêche du thon rouge, notamment celles prévues par l'arrêté du 25 janvier 2012 définissant les mesures de contrôle de la pêcherie de thon rouge (Thunnus thynnus) dans le cadre du plan pluriannuel de reconstitution des stocks de thon rouge dans l'Atlantique Est et la Méditerranée, peut donner lieu, indépendamment des sanctions pénales susceptibles d'être prononcées, à l'application d'une sanction administrative prise conformément aux articles L. 946-1 et L. 946-4 du code rural et de la pêche maritime susvisés, pouvant conduire, outre l'application d'une amende administrative, à la suspension ou au retrait immédiat de l'AEP thon rouge ainsi que de la licence communautaire pour l'année en cours ainsi que pour tout ou partie de l'année suivante, dans les conditions définies par les articles L. 946-5 et L. 946-6 du code rural et de la pêche maritime.

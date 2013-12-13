@@ -1,3 +1,0 @@
-# Article 3
-
-Le quota d'effort de pêche, calculé en application de l'article 9 du règlement (UE) n° 40/2013 du Conseil du 21 janvier 2013, octroyé aux navires français titulaires d'un permis de pêche spécial « espèces d'eau profonde » s'élève, pour l'année 2013, à 6 893 057kW*jour, soit 65 % de l'effort de pêche déployé par les navires français titulaires d'un permis de pêche spécial « espèces d'eau profonde » en 2003 et/ou ayant pêché, en 2003, plus de 100 kg d'espèces d'eau profonde figurant aux annexes I et II du règlement CE n° 2347/2002, à l'exception de la grande argentine. Il est réparti intégralement conformément aux règles édictées par l'arrêté du 26 décembre 2006 comme fixé à l'annexe 4 du présent arrêté.

@@ -1,3 +1,0 @@
-# Article 4
-
-Les médicaments classés comme stupéfiants ou soumis à la réglementation des stupéfiants sont remis, par un pharmacien ou un interne en pharmacie ou un étudiant de cinquième année hospitalo-universitaire ayant reçu délégation du pharmacien chargé de la gérance de la pharmacie à usage intérieur, ou un préparateur en pharmacie sous le contrôle effectif d'un pharmacien, au cadre de santé ou à un infirmier diplômé d'Etat désigné, en établissement de santé, par le chef de pôle ou le médecin responsable de la structure interne, du service ou de l'unité fonctionnelle du pôle d'activité, ou désigné, en établissement médico-social par le directeur d'établissement ou, le cas échéant, remis au prescripteur lui-même.

@@ -1,3 +1,0 @@
-# Article 2
-
-Sous la direction de son chef, la base d'avions de la sécurité civile prépare et met en œuvre les moyens aériens de la sécurité civile qui lui sont confiés. Elle assure la sélection, la formation, la préparation et la mise en condition opérationnelle des personnels navigants. Elle assure également la sélection et la formation des personnels contractuels non navigants. Elle s'assure que le maintien en condition opérationnelle des avions qui lui sont confiés est effectué conformément à la réglementation aéronautique en vigueur par les titulaires des marchés de maintenance. Elle exécute les missions aériennes confiées aux avions de la sécurité civile.

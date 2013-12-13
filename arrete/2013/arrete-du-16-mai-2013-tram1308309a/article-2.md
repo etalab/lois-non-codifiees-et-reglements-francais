@@ -1,3 +1,0 @@
-# Article 2
-
-Une activité de pêche soumise à la délivrance d'une autorisation de pêche ORGP non contingentée est ajoutée à l'annexe I de l'arrêté du 25 février 2013 susvisé conformément à l'annexe du présent arrêté.

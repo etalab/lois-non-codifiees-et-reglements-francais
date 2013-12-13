@@ -1,3 +1,0 @@
-# Article 8
-
-Dans le cas où le dossier de demande d'admission a été déposé auprès du service de coopération et d'action culturelle de l'ambassade de France ou de l'université la plus proche du lieu de résidence lorsque l'université de premier choix se trouve dans une autre académie que celle du lieu de résidence, il est transmis, avant le 15 mars, à l'université figurant en premier choix, accompagné des pièces justificatives des titres et d'une copie de l'attestation des résultats au test destiné à évaluer la connaissance générale de la langue française et à l'épreuve d'expression écrite prévus à l'article 4 du présent arrêté.

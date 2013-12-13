@@ -1,3 +1,0 @@
-# Article 1
-
-La nouvelle bonification indiciaire prévue à l'article du décret de première référence est attribuée aux militaires de la gendarmerie nationale occupant l'un des emplois figurant en annexe au présent arrêté. Pour les emplois qui ne figureraient pas au sein de l'arrêté du 23 juin 2011 fixant pour la gendarmerie nationale, par département, la liste des emplois ouvrant droit au bénéfice d'une nouvelle bonification indiciaire au titre de la mise en œuvre de la politique de la ville, la date d'ouverture des droits à la nouvelle bonification indiciaire est précisée dans l'annexe du présent arrêté.

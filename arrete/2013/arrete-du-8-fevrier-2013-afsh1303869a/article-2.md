@@ -1,3 +1,0 @@
-# Article 2
-
-Les dispositions de l'arrêté du 9 mai 2012 fixant les montants de référence de la prime de fonctions et de résultats applicables aux corps ou emplois fonctionnels des personnels de direction et des directeurs des soins de la fonction publique hospitalière, notamment son article 2, relatif au corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux, et plus particulièrement les montants de référence relatifs à l'échelon fonctionnel, sont applicables, pour le régime indemnitaire de l'année 2012, aux personnels de direction occupant les emplois des établissements mentionnés à l'article 1er du présent arrêté.

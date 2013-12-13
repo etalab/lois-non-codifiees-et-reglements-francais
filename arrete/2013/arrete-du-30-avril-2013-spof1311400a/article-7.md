@@ -1,5 +1,0 @@
-# Article 7
-
-Le titulaire du brevet d'Etat d'éducateur sportif du premier degré, option « sport-boules », obtient de droit l'unité capitalisable trois (UC 3) « être capable de conduire une démarche de perfectionnement sportif dans la discipline du sport-boules » et l'unité capitalisable quatre (UC 4) « être capable d'encadrer les pratiquants du sport-boules en toute sécurité » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « sport-boules ».
-
-Le titulaire du certificat de spécialisation « sport-boules » associé au brevet professionnel de la jeunesse, de l'éducation populaire et du sport ou le titulaire du brevet fédéral d'entraîneur de club sportif ou du brevet fédéral de moniteur de centre de formation bouliste délivrés par la Fédération française du sport-boules obtient de droit l'unité capitalisable quatre (UC 4) « être capable d'encadrer les pratiquants du sport-boules en toute sécurité » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « sport-boules ».

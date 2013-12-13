@@ -1,3 +1,0 @@
-# Article 49
-
-Pour être inscrits en formation, les lieutenants de 1re classe doivent avoir suivi un module de compréhension des emplois d'équipier et de chef d'équipe. Le module de compréhension des emplois d'équipier et de chef d'équipe est organisé par le service départemental d'incendie et de secours d'affectation du lieutenant et sous sa responsabilité. Le volume horaire des enseignements est adapté par le président du conseil d'administration du service départemental d'incendie et de secours sur proposition du directeur départemental, après avis des instances consultatives compétentes, pour tenir compte du non-exercice de ces emplois par le lieutenant.

@@ -1,9 +1,0 @@
-# Arrêté du 9 septembre 2013 relatif aux modalités d'établissement, de conservation et de transmission sous forme dématérialisée des pièces justificatives et des documents de comptabilité des opérations de l'Etat pris en application des articles 51, 52, 150 et 164 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique
-
-- [TITRE Ier : DISPOSITIONS RELATIVES À LA DÉMATÉRIALISATION DES PIÈCES JUSTIFICATIVES DES OPÉRATIONS DE L'ÉTAT ET DES DOCUMENTS DE COMPTABILITÉ CONSTITUTIFS DES COMPTES DES COMPTABLES PUBLICS DE L'ÉTAT](titre-ier)
-- [TITRE II : DISPOSITIONS RELATIVES À LA DÉMATÉRIALISATION DES ACTES DE GESTION  DANS LES SYSTÈMES D'INFORMATION DE L'ÉTAT](titre-ii)
-- [TITRE III : DISPOSITIONS RELATIVES À LA CONSERVATION DES PIÈCES JUSTIFICATIVES  DES OPÉRATIONS DE L'ÉTAT](titre-iii)
-- [TITRE IV : DISPOSITIONS RELATIVES À LA CONSERVATION DES AUTRES PIÈCES JUSTIFICATIVES  ET DOCUMENTS DE COMPTABILITÉ](titre-iv)
-- [TITRE V : DISPOSITIONS RELATIVES AU CONTRÔLE BUDGÉTAIRE DANS LE CADRE DES MISSIONS  MENTIONNÉES À L'ARTICLE 99 DU DÉCRET DU 7 NOVEMBRE 2012 SUSVISÉ](titre-v)
-- [TITRE VI : DISPOSITIONS FINALES](titre-vi)
-- [Annexe](annexe)

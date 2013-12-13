@@ -1,3 +1,0 @@
-# Arrêté du 27 février 2013 modifiant l'arrêté du 17 avril 2001 relatif aux examens du certificat d'aptitude aux fonctions de directeur des écoles nationales de musique, danse et art dramatique et des conservatoires nationaux de région, du certificat d'aptitude aux fonctions de professeur chargé de la direction des écoles territoriales de musique, danse et art dramatique agréées ou non agréées, du certificat d'aptitude aux fonctions de professeur de musique et du certificat d'aptitude aux fonctions de professeur de danse dans les écoles territoriales de musique, danse et art dramatique
-
-- [Article 2](article-2.md)

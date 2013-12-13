@@ -1,3 +1,0 @@
-# TITRE IV : DISPOSITIONS TRANSITOIRES ET FINALES
-
-- [Article 28](article-28.md)

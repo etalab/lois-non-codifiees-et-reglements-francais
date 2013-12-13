@@ -1,3 +1,0 @@
-# Article 3
-
-Le traitement GARANCE alimente en temps réel une fiche de constatation réalisée (FCR) dans le système informatisé de lutte contre les fraudes (SILCF) à l'issue de la validation d'un procès-verbal constatant une infraction. Un fichier PDF de l'acte est joint à cette FCR. Le SILCF alimente à son tour en temps réel l'application ILLICO (inscription en ligne de l'information contentieuse). Les données relatives aux actes en cours de rédaction sont conservées dans le traitement GARANCE pour une durée maximale de trois ans. A la clôture de la procédure, les données ne sont conservées que dans le SILCF et ILLICO suivant les règles qui sont propres à ces traitements.

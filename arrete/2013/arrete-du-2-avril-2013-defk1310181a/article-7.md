@@ -1,5 +1,0 @@
-# Article 7
-
-Pour l'application de l'article L. 6147-8 susvisé, lors de l'établissement du schéma d'organisation des soins prévu à l'article L. 1434-7 susvisé, le directeur de l'agence régionale de santé reçoit, à sa demande, des hôpitaux d'instruction des armées les données relatives aux structures de soins, aux activités de soins, aux équipements matériels lourds ainsi que les données relatives à l'évolution des objectifs pluriannuels d'offre de soins des hôpitaux d'instruction des armées et à la réalisation des objectifs indicatifs d'activité pris en compte dans le protocole pluriannuel d'objectifs et de moyens fixé en application de l'article R. 174-34 susvisé.
-
-Ces objectifs pluriannuels d'offre de soins peuvent être modifiés en fonction des impératifs de la défense. Dans ce cas, sauf circonstances exceptionnelles ou cas d'urgence, le ministre de la défense avertit deux mois à l'avance le ministre chargé de la santé et le directeur général de l'agence régionale de santé concernée de la nature et, éventuellement, de la durée des modifications de l'offre de soins.

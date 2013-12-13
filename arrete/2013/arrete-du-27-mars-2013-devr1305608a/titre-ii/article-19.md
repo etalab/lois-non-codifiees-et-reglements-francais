@@ -1,3 +1,0 @@
-# Article 19
-
-Toute demande au titre du sous-programme « déclaration d'utilité publique » doit se rapporter à un projet de ligne ayant fait l'objet d'une déclaration d'utilité publique publiée au Journal officiel l'année de la demande ou l'année précédant celle-ci. Elle présente le projet de ligne, les travaux envisagés et les financements obtenus dans le cadre de l'accompagnement du projet auprès du gestionnaire du réseau de transport. Elle est accompagnée d'une attestation établie par le directeur régional de l'environnement, de l'aménagement et du logement certifiant que les travaux de construction des lignes très haute tension ont effectivement commencé. Elle comprend également l'avis du ou des gestionnaire de réseaux concernés.

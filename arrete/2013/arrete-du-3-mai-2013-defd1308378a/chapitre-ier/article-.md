@@ -1,3 +1,0 @@
-# Article 
-
-Documents d'acceptation

@@ -1,3 +1,0 @@
-# Article 6
-
-Lorsque le client a choisi de procéder lui-même à la clôture du ou des livrets A et comptes spéciaux sur livret du Crédit mutuel détenus par ailleurs, après avoir reçu le formulaire mentionné au II de l'article R. 221-123 du code monétaire et financier, l'établissement de crédit a la faculté d'engager à nouveau la procédure de vérification mentionnée à l'article L. 221-38 du code monétaire et financier et décrite aux articles R. 221-122 et R. 221-123 du code monétaire et financier, alors même que le client présente les attestations de clôture mentionnées au IV de l'article R. 221-123 du même code dans un délai de trois mois après la demande d'ouverture.

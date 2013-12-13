@@ -1,4 +1,0 @@
-# TITRE IV : CHANGEMENT DE NIVEAU OU D'EXTENTION DE PHASE  D'ACTIVITÉ : RÔLE DES ORGANISMES DE FORMATION
-
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)

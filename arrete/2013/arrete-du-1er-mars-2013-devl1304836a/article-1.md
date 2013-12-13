@@ -1,3 +1,0 @@
-# Article 1
-
-Sur l'unité de gestion de l'anguille " Loire, Sèvre niortaise, côtiers vendéens ", la pêche de l'anguille de moins de 12 centimètres par les pêcheurs professionnels en eau douce est réouverte, du 10 mars 2013 à midi au 13 mars 2013 à midi, de manière à permettre la réalisation du quota global fixé à l'article 3 de l'arrêté de 31 octobre 2012 susvisé. La quantité maximale de civelles susceptibles d'être pêchées pendant cette période est fixée à 158 kg sur l'ensemble de l'unité de gestion de l'anguille pendant cette période. La quantité maximale que chaque pêcheur est autorisé à pêcher est fixée à 7 kg.

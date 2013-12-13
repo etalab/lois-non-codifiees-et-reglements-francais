@@ -1,3 +1,0 @@
-# Article 10
-
-Le diplôme d'Etat de professeur de cirque peut être délivré, en application du décret du 21 juin 2004 susvisé, en tout ou partie par la validation des acquis de l'expérience aux candidats qui justifient de compétences acquises dans l'exercice d'activités salariées, non salariées ou bénévoles, de façon continue ou non, en rapport direct avec les activités et compétences définies par le référentiel, d'une durée cumulée d'au moins trois années, dont au moins l'équivalent de deux années d'enseignement, correspondant à un enseignement d'une durée de quinze heures par semaine sur trente semaines par année.

@@ -1,7 +1,0 @@
-# Article 7
-
-Transferts.
-
-Les droits des navires éligibles à une AEP senne tournante coulissante peuvent être transférés en faveur de navires non éligibles, sous réserve qu'il n'y ait pas d'augmentation du nombre. Cette limite sera appliquée par type d'engin pour les navires de pêche.
-
-Les transferts sont définitifs.

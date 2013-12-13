@@ -1,3 +1,0 @@
-# Article 4
-
-Lors de la demande de subvention, l'avis d'impôt sur le revenu de chaque personne constituant le ménage requérant, précisant sa situation au regard de l'impôt sur le revenu dû au titre de l'année mentionnée à l'article 3, doit être annexé au dossier de demande de subvention. Toutefois, lorsqu'il est disponible, l'avis d'impôt sur le revenu délivré au titre de la dernière année précédant celle de la demande de subvention peut être pris en compte, notamment en cas de baisse de revenus du demandeur. Les personnes non imposables à l'impôt sur le revenu doivent produire un avis de non-imposition pour l'année considérée.

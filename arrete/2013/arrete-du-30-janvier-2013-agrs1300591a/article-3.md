@@ -1,3 +1,0 @@
-# Article 3
-
-L'épreuve écrite d'admissibilité consiste en l'étude, à partir de documents fournis, d'un cas ou d'une situation susceptibles d'être rencontrés dans les services permettant de mettre en exergue la culture professionnelle des candidats. Elle donne lieu à la rédaction d'une note, d'un rapport ou d'une correspondance faisant appel, d'une part, à des connaissances administratives, juridiques et économiques en lien avec leur pratique professionnelle et, d'autre part, à des connaissances générales liées à l'exercice des fonctions (durée : quatre heures ; coefficient 3). Le jury peut proposer plusieurs sujets au choix des candidats.

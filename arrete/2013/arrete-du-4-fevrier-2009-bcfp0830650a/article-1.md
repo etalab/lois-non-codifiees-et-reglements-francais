@@ -1,5 +1,0 @@
-# Article 1
-
-Les fonctionnaires appartenant à des corps gérés par le ministère du budget, des comptes publics et de la fonction publique et par le ministère de l'économie, de l'industrie et de l'emploi, ou accueillis en détachement dans ces corps, les autres agents en fonction dans ces ministères et les services qui en dépendent, titulaires ou non titulaires de droit public, contraints de changer de résidence administrative dans le cadre d'une réforme, d'une transformation ou d'un abandon de mission, se traduisant par la suppression, le rapprochement, la restructuration ou la délocalisation d'un ou plusieurs services ou de parties de services, ou à la suite de la suppression de leur emploi, bénéficient, aux conditions du présent arrêté, de la prime de restructuration de service prévue par le décret du 17 avril 2008 susvisé.
-
-Les opérations de restructuration de service ouvrant droit à la prime sont fixées par arrêté ministériel, pris après avis des comités techniques paritaires compétents.

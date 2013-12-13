@@ -1,3 +1,0 @@
-# Article 2
-
-Lorsqu'un candidat relevant de l'une des catégories mentionnées aux 1°, 2°, 3°, 4°, 9°, 10° et 11° de l'article L. 5212-13 du code du travail n'est pas, en raison de son handicap, en mesure d'obtenir ces qualifications, il peut en être dispensé après qu'un médecin agréé mentionné à l'article 20 du décret du 14 mars 1986 susvisé aura constaté, d'une part, l'incompatibilité du handicap avec le respect de l'une ou l'autre ou les deux de ces conditions et, d'autre part, que l'absence de respect de celle-ci ne remet pas en cause l'aptitude du candidat à exercer les fonctions postulées, compte tenu des possibilités de compensation du handicap.

@@ -1,3 +1,0 @@
-# Article 1
-
-La prime de restructuration de service, l'allocation d'aide à la mobilité du conjoint et, le cas échéant, le complément indemnitaire ainsi que l'indemnité de départ volontaire peuvent être versés, dans les conditions fixées par les décrets du 17 avril 2008 susvisés, aux personnels titulaires de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (IRSTEA), mutés ou déplacés entre le 1er septembre 2013 et le 1er septembre 2014 à l'occasion du transfert du Laboratoire d'études et de recherches du matériel d'irrigation (LERMI), actuellement situé 3275, route de Cézanne, 13182 Aix-en-Provence, sur le centre de Montpellier de l'institut, situé sur la commune de Montpellier (Hérault).

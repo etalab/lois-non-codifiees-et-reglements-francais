@@ -1,3 +1,0 @@
-# Article 19
-
-Après accord du responsable pédagogique et sous réserve d'une cohérence pédagogique avec le déroulement de la formation, un étudiant peut effectuer une période d'études à l'étranger dans la limite d'un semestre. La période d'études, validée par l'établissement étranger, permet à l'étudiant d'acquérir les crédits européens correspondants.

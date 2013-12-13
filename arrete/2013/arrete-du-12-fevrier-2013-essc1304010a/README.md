@@ -1,4 +1,0 @@
-# Arrêté du 12 février 2013 modifiant l'arrêté du 16 mars 1989 portant application du décret n° 86-1037 du 15 septembre 1986 relatif aux produits et substances destinés à l'alimentation animale
-
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)

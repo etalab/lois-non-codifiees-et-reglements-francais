@@ -1,7 +1,0 @@
-# Article 5
-
-Le sous-quota consommation national défini à l'article 2, ou chacun des sous-quotas consommation figurant dans le tableau de l'article 3, est réputé épuisé si la totalité des prélèvements non commercialisés à des fins de repeuplement atteint 80 % de ce sous-quota ou si les données disponibles mettent en évidence un risque élevé de dépassement de ce sous-quota.
-
-L'épuisement de ce quota est constaté par avis du ministre chargé de la pêche en eau douce, publié au Journal officiel de la République française. Cet avis vaut interdiction de la pêche de l'anguille de moins de 12 centimètres destinée à la consommation sur la ou les unités de gestion de l'anguille concernée. L'avis est notifié aux associations agréées de pêcheurs professionnels concernées qui en informent leurs membres sans délai.
-
-Si les données reçues après la fermeture de la pêche mettent en évidence l'existence d'un reliquat de sous-quota consommation, la pêche de l'anguille de moins de 12 centimètres destinée à la consommation peut être réouverte sur l'unité de gestion de l'anguille concernée par avis du ministre chargé de la pêche en eau douce, publié au Journal officiel de la République française. Cet avis peut fixer les prescriptions à la pêche de l'anguille de moins de 12 centimètres destinée à la consommation, telles qu'une limitation dans le temps, une restriction à certains cours d'eau et un total admissible de capture par pêcheur.

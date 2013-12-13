@@ -1,5 +1,0 @@
-# Article 2
-
-Les tests ou recueils et traitements de signaux biologiques mentionnés à l'article 1er du présent arrêté ne constituent pas des examens de biologie médicale. Ils constituent des éléments d'orientation diagnostique sans se substituer au diagnostic réalisé au moyen d'un examen de biologie médicale. Le patient en est explicitement informé par le professionnel de santé qui les réalise. Il est également informé des moyens de confirmation par un examen de biologie médicale si la démarche diagnostique ou thérapeutique le justifie.
-
-Il relève de la responsabilité du professionnel de santé réalisant les tests ou recueils et traitements de signaux biologiques mentionnés aux 2°, 3°, 4° et 5° de l'article 1er du présent arrêté de prendre en compte les performances décrites par le fabricant en fonction de l'usage qu'il souhaite en faire. Ce professionnel est tenu au respect de la notice d'utilisation du dispositif médical de diagnostic in vitro et des recommandations de bonnes pratiques des tests fixées à l'annexe II du présent arrêté.

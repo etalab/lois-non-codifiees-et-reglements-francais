@@ -1,5 +1,0 @@
-# Article 18
-
-Les candidats peuvent toutefois solliciter la délivrance par la validation des acquis de l'expérience du certificat de formation de base à la sécurité, du certificat de qualification avancée à la lutte contre l'incendie et du certificat d'aptitude à l'exploitation des embarcations et radeaux de sauvetage (CAEERS). Pour cela, les candidats doivent, d'une part, justifier de la possession d'un brevet, d'un certificat ou d'une attestation de formation d'un niveau reconnu comme équivalent à celui de la formation        requise réglementairement pour la délivrance du certificat concerné  et, d'autre part, présenter un exemplaire du référentiel de la formation qu'ils ont suivie.
-
-Les autres qualifications professionnelles maritimes requises pour l'exercice de fonctions particulières ou pour le service à bord de certains types de navires de commerce, de navires de pêche maritime, de cultures marines ainsi que de navires de plaisance armés avec un rôle d'équipage, ne peuvent pas faire l'objet de dispense ni de délivrance par la validation des acquis de l'expérience.

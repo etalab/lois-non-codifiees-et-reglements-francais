@@ -1,5 +1,0 @@
-# Article 4
-
-En application de la dérogation prévue au premier alinéa de l'article 6 du décret n° 2009-1603 du 18 décembre 2009 modifié relatif aux tarifs réglementés de vente de gaz naturel, et afin de parvenir progressivement à un niveau uniforme des tarifs des locaux à usage d'habitation et des tarifs des locaux hors usage d'habitation, d'ici à juillet 2014, les variations des coûts d'approvisionnement, en euros par mégawattheures, pourront s'appliquer de manière différenciée concernant les tarifs en distribution publique, conformément aux modalités mentionnées au second alinéa du présent article.
-
-Les évolutions des tarifs B2S et TEL du barème locaux à usage d'habitation pourront être majorées chaque mois, dans la limite, chaque trimestre, de 0,7 €/MWh, et celles des tarifs B2I, B2S et TEL du barème locaux hors usage d'habitation pourront être minorées chaque mois, dans la limite, chaque trimestre, de ― 0,9 €/MWh, pour les tarifs B2I et dans la limite, chaque trimestre, de ― 0,3 €/MWh pour les tarifs B2S et TEL.

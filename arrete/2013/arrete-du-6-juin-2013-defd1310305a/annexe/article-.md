@@ -1,7 +1,0 @@
-# Article 
-
-MODÈLE DE DEMANDE DE PREMIÈRE UTILISATION D'UNE LICENCE GÉNÉRALE D'EXPORTATION CONFORMÉMENT À L'ARTICLE 10 DU DÉCRET DU 9 NOVEMBRE 2011
-
-Vous pouvez consulter le tableau à l'adresse suivante :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130608&numTexte=36&pageDebut=09584&pageFin=09586

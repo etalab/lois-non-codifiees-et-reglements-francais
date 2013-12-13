@@ -1,7 +1,0 @@
-# Article 3
-
-Affectations aux installations. ― Dispositions particulières.
-
-I. ― Le nombre annuel provisoire de quotas d'émission alloués à titre gratuit aux sous-installations ayant reçu de la chaleur mesurable en provenance de sous-installations fabriquant des produits couverts par les référentiels relatifs à l'acide nitrique figurant à l'annexe I est diminué de la consommation annuelle historique de ladite chaleur durant la période de référence visée au I de l'article R. 229-7 du code de l'environnement multipliée par la valeur du référentiel de chaleur pour cette chaleur mesurable indiquée à l'annexe I de la décision du 27 avril 2011 précitée.
-
-II. ― Lorsqu'une installation comprend des sous-installations produisant de la pâte à papier (pâte kraft fibres courtes, pâte kraft fibres longues, pâte thermomécanique et pâte mécanique, pâte au bisulfite ou autre pâte à papier non visée par un référentiel de produit) qui exportent de la chaleur mesurable vers d'autres sous-installations techniquement liées, la quantité totale provisoire de quotas d'émission alloués à titre gratuit, sans préjudice des nombres annuels provisoires de quotas d'émission alloués à titre gratuit aux autres sous-installations de l'installation concernée, ne tient compte du nombre annuel provisoire de quotas d'émission alloués à titre gratuit que si les produits à base de pâte à papier fabriqués par cette sous-installation sont mis sur le marché et ne sont pas transformés en papier dans la même installation ou dans des installations techniquement liées.

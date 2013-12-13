@@ -1,5 +1,0 @@
-# Article 4
-
-Pour la phase d'admissibilité de chaque examen professionnalisé réservé dans les corps classés en catégorie A, le jury est nommé par le ministre chargé de l'enseignement supérieur. Il établit au niveau national, par ordre alphabétique, la liste des candidats admissibles. Pour la phase d'admission, le jury est nommé par le recteur d'académie ou le vice-recteur ou le président, directeur ou responsable de l'établissement ou du service dans lequel le ou les emplois sont à pourvoir. Il établit la liste des candidats proposés à l'admission et, le cas échéant, une liste complémentaire.
-
-Pour chaque examen professionnalisé réservé dans les corps classés en catégories B et C, le jury est nommé par le recteur d'académie ou le vice-recteur ou le président, directeur ou responsable de l'établissement chargé de l'organisation de l'examen professionnalisé réservé. Il arrête la liste des candidats admis et, le cas échéant, une liste complémentaire. En cas d'organisation en commun d'examens professionnalisés réservés, le jury arrête, pour chaque académie ou vice-rectorat concerné, la liste des candidats admis et, le cas échéant, une liste complémentaire.
