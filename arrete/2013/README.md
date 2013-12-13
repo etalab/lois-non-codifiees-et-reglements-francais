@@ -226,7 +226,6 @@
 - [Arrêté du 4 mars 2013 (AGRE1305406A)](arrete-du-4-mars-2013-agre1305406a)
 - [Arrêté du 4 mars 2013 (AGRE1305410A)](arrete-du-4-mars-2013-agre1305410a)
 - [Arrêté du 4 mars 2013 (AGRE1305411A)](arrete-du-4-mars-2013-agre1305411a)
-- [Arrêté du 4 mars 2013 (AGRT1305704A)](arrete-du-4-mars-2013-agrt1305704a)
 - [Arrêté du 4 mars 2013 (BUDD1302263A)](arrete-du-4-mars-2013-budd1302263a)
 - [Arrêté du 4 mars 2013 (DEVK1305123A)](arrete-du-4-mars-2013-devk1305123a)
 - [Arrêté du 4 mars 2013 (EFIC1306154A)](arrete-du-4-mars-2013-efic1306154a)
