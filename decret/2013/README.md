@@ -226,6 +226,7 @@
 - [Décret n°2012-743 du 9 mai 2012 (ETSP1208705D)](decret-n2012-743-du-9-mai-2012-etsp1208705d)
 - [Décret n°2012-744 du 9 mai 2012 (ETSP1208750D)](decret-n2012-744-du-9-mai-2012-etsp1208750d)
 - [Décret n°2012-466 du 10 avril 2012 (ETSS1205632D)](decret-n2012-466-du-10-avril-2012-etss1205632d)
+- [Décret n°2013-1142 du 10 décembre 2013 (DEFD1322404D)](decret-n2013-1142-du-10-decembre-2013-defd1322404d)
 - [Décret n°2013-300 du 10 avril 2013 (JUSB1226253D)](decret-n2013-300-du-10-avril-2013-jusb1226253d)
 - [Décret n°2013-301 du 10 avril 2013 (DEVP1238299D)](decret-n2013-301-du-10-avril-2013-devp1238299d)
 - [Décret n°2013-302 du 10 avril 2013 (DEFH1304923D)](decret-n2013-302-du-10-avril-2013-defh1304923d)
