@@ -910,9 +910,9 @@ IV.-Service des phares et ports maritimes de commerce
 
 2° Officier de port
 
-H-Officier de port adjoint :
+H-Lieutenant de port :
 
-H-classe normale
+H-seconde classe
 
 284-463
 
