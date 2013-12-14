@@ -122,10 +122,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction régionale de Franche-Comté<br/>(ajouté à compter du 1er septembre 2013) </p>
+<p align="left">Direction régionale de Franche-Comté<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du service administration des ressources<br/>(ajouté à compter du 1er septembre 2013) </p>
+<p align="left">Chef du service administration des ressources<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
 </tr>
 <tr>
@@ -140,10 +140,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction régionale de Languedoc-Roussillon </p>
+<p align="left">Direction régionale de Languedoc-Roussillon<br/>(supprimé à compter du 1er septembre 2013)</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du service administration des ressources</p>
+<p align="left">Chef du service administration des ressources<br/>(supprimé à compter du 1er septembre 2013)</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,8 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction régionale de Picardie<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du service administration des ressources<br/>(supprimé à compter du 1er septembre 2013) </p>
+<p align="left">Chef du service administration des ressources </p>
+<p align="left">(supprimé à compter du 1er septembre 2013) </p>
 </td>
 </tr>
 <tr>
@@ -200,7 +201,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction régionale de Picardie<br/>(ajouté à compter du 1er septembre 2013) </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du service études et diffusion<br/>(ajouté à compter du 1er septembre 2013) </p>
+<p align="left">Chef du service études et diffusion <br/>(ajouté à compter du 1er septembre 2013) </p>
 </td>
 </tr>
 <tr>
@@ -293,6 +294,14 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Centre statistique de Metz<br/>(ajouté à comper du 1er octobre 2013)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef de la cellule gestion administrative et paie<br/>(ajouté à compter du 1er octobre 2013)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">Direction générale, département des services généraux<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
 <td align="left" valign="top">
@@ -328,7 +337,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Département de la gestion des ressources humaines(supprimé à compter du 1er septembre 2013) </p>
+<p align="left">Département de la gestion des ressources humaines<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Adjoint au chef de la division de la gestion des statuts<br/>(supprimé à compter du 1er septembre 2013) </p>
