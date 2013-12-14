@@ -80,7 +80,7 @@ TABLEAU D'ASSIMILATION N° 1
 <p>Officiers de port adjoints. </p>
 </td>
 <td valign="top">
-<p>Officier de port adjoint de classe normale dont l'indice brut de rémunération est au plus égal à 380. </p>
+<p>Lieutenant de port de seconde classe  dont l'indice brut de rémunération est au plus égal à 380. </p>
 </td>
 <td valign="top">
 <p>Agent du premier grade de la catégorie B dont l'indice de rémunération est au plus égal à 380. </p>

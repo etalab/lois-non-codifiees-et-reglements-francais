@@ -287,7 +287,7 @@ TABLEAU D'ASSIMILATION N° 2
 <p>Officiers de port adjoints. </p>
 </td>
 <td valign="top" width="226">
-<p>Lieutenant de port de classe fonctionnelle. </p>
+<p>Lieutenant de port de première classe. </p>
 </td>
 <td valign="top" width="151">
 <p align="center">3e catégorie </p>
@@ -295,7 +295,7 @@ TABLEAU D'ASSIMILATION N° 2
 </tr>
 <tr>
 <td valign="top" width="226">
-<p>Lieutenant de port de classe normale à compter du 2e échelon. </p>
+<p>Lieutenant de port de seconde classe à compter du 2e échelon. </p>
 </td>
 <td valign="top" width="151">
 <p align="center">3e catégorie </p>

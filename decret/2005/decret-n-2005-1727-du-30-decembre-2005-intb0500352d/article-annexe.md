@@ -824,7 +824,7 @@ du développement durable et de l'aménagement du territoire
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Lieutenant de port de classe fonctionnelle.</p>
+<p align="left">Lieutenant de port de première classe.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Technicien territorial principal de 2e classe.</p>
@@ -832,7 +832,7 @@ du développement durable et de l'aménagement du territoire
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Lieutenant de port de classe normale.</p>
+<p align="left">Lieutenant de port de seconde classe.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Technicien territorial.</p>
@@ -1031,7 +1031,7 @@ du développement durable et de l'aménagement du territoire
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">nfirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat </td>
+<td align="left" valign="top">Infirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat </td>
 <td align="left" valign="top">
 <p align="left">Infirmier territorial de classe supérieure.</p>
 </td>
@@ -1748,16 +1748,16 @@ Ministère de la culture et de la communication
 </td>
 </tr>
 <tr>
-<td> Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
-<td> Infirmier territorial en soins généraux de classe normale.</td>
+<td>Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux de classe normale.</td>
 </tr>
 <tr>
-<td> Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
-<td> Infirmier territorial en soins généraux de classe supérieure.</td>
+<td>Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux de classe supérieure.</td>
 </tr>
 <tr>
-<td> Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
-<td> Infirmier territorial en soins généraux hors classe.</td>
+<td>Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat.</td>
+<td>Infirmier territorial en soins généraux hors classe.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
