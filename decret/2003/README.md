@@ -555,7 +555,6 @@
 - [Décret n°2003-816 du 27 août 2003 (SANS0323017D)](decret-n2003-816-du-27-aout-2003-sans0323017d)
 - [Décret n°2003-825 du 27 août 2003 (JUSE0340033D)](decret-n2003-825-du-27-aout-2003-juse0340033d)
 - [Décret n°97-577 du 27 mai 1997 (TASH9721578D)](decret-n97-577-du-27-mai-1997-tash9721578d)
-- [Décret n°2004-455 du 27 mai 2004 (INTC0400118D)](decret-n2004-455-du-27-mai-2004-intc0400118d)
 - [Décret n°2003-1025 du 28 octobre 2003 (SOCS0321239D)](decret-n2003-1025-du-28-octobre-2003-socs0321239d)
 - [Décret n°2003-1045 du 28 octobre 2003 (DEVD0310067D)](decret-n2003-1045-du-28-octobre-2003-devd0310067d)
 - [Décret n°2003-1131 du 28 novembre 2003 (SOCS0324599D)](decret-n2003-1131-du-28-novembre-2003-socs0324599d)
