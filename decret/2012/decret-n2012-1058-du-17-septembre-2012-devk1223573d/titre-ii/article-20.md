@@ -1,51 +1,38 @@
 # Article 20
 
-L'échelonnement indiciaire applicable à l'emploi de chef de subdivision des services chargés de l'équipement régi par le décret du 24 février 1995 susvisé est fixé ainsi qu'il suit :
+L'échelonnement indiciaire applicable à l'emploi de responsable de capitainerie régi par le décret n° 2013-1147 du 12 décembre 2013 est fixé ainsi qu'il suit :
 
-<div align="center">
-
+<div>
+<br/>
 <table>
 <tbody>
 <tr>
-<td> GRADES ET ÉCHELONS</td>
-<td> INDICES BRUTS</td>
+<td align="center"> GRADES ET ÉCHELONS</td>
+<td align="center"> INDICES BRUTS </td>
 </tr>
 <tr>
-<td colspan="2">
-<p align="center"> Chef de subdivision</p>
+<td align="center">
+<br/>3e échelon <br/>
 </td>
-</tr>
-<tr>
-<td align="center">5e échelon <br/>
-</td>
-<td align="center">638<br/>
+<td align="center">
+<br/>675 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4e échelon <br/>
+<td align="center">
+<br/>2e échelon <br/>
 </td>
-<td align="center">605<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3e échelon <br/>
-</td>
-<td align="center">582<br/>
+<td align="center">
+<br/>646 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">2e échelon <br/>
+<td align="center">
+<br/>1e échelon <br/>
 </td>
-<td align="center">570<br/>
-</td>
-</tr>
-<tr>
-<td align="center">1er échelon <br/>
-</td>
-<td align="center">550<br/>
-</td>
+<td align="center">
+<br/>619</td>
 </tr>
 </tbody>
 </table>
-
 </div>
