@@ -1,9 +1,11 @@
 # Article 7
 
-Le directeur général exerce les attributions énumérées à l'article L. 712-2 du code de l'éducation et les textes pris pour son application, à l'exception de celles confiées au président de l'école par l'article 6, ainsi que de la présidence du conseil scientifique.
+Le président exerce les attributions confiées au président d'université par l'article L. 712-2 du code de l'éducation, à l'exception du 10°, et les textes pris pour son application. Il nomme également les membres des jurys.
 
-Il assiste aux séances du conseil d'administration et du conseil scientifique avec voix consultative.
+Il préside le conseil d'administration. En cas de partage égal des voix, il a voix prépondérante.
 
-Il est assisté de directeurs délégués qu'il nomme et dont il fixe les attributions respectives.
+Il assiste aux séances du conseil scientifique avec voix consultative.
 
-Il peut déléguer sa signature au secrétaire général, aux directeurs délégués et, pour les affaires concernant les instituts, les départements, les laboratoires de recherche et les services mentionnés à l'article 4, à leurs responsables respectifs.
+Il est assisté de vice-présidents qu'il nomme. Il fixe leurs attributions respectives après avis du conseil d'administration. Les fonctions de vice-président sont incompatibles avec l'exercice, au sein de l'école, de fonctions électives.
+
+Il peut déléguer sa signature aux vice-présidents, au directeur général des services, aux autres agents de catégorie A de l'établissement ainsi que, pour les affaires concernant les instituts, les départements, les laboratoires de recherche, les services mentionnés à l'article 4 et les unités de recherche constituées avec d'autres organismes d'enseignement supérieur ou de recherche, à leurs responsables.

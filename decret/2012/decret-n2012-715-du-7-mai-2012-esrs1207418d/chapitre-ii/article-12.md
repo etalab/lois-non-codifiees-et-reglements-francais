@@ -4,4 +4,4 @@ Dans le respect des dispositions législatives et réglementaires en vigueur, le
 
 Il définit en outre la liste des personnes qui peuvent assister aux séances des conseils avec voix consultative et les règles de publicité des délibérations.
 
-Il fixe également la composition du conseil d'orientation stratégique, ses modalités d'organisation et de désignation de son président et de ses membres.
+Il peut prévoir que les membres des conseils participent aux séances par des moyens de visioconférence ou de communication électronique satisfaisant à des caractéristiques techniques garantissant la transmission continue et simultanée des débats et la confidentialité des votes lorsque le scrutin est secret, permettant l'identification des intervenants et assurant la participation effective de ceux-ci à une délibération collégiale. Les membres qui participent par ces moyens aux séances sont réputés présents dans le calcul du quorum et de la majorité requise. .
