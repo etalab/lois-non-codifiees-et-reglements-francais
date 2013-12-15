@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée ainsi que les agents contractuels régis par le décret du 6 février 1991 susvisé ayant été, dans le cadre de leurs fonctions, exposés à un agent cancérogène, mutagène ou toxique pour la reproduction défini à l'article R. 4412-60 du code du travail dans les activités prévues à l'article R. 4412-94 du même code ou figurant aux tableaux mentionnés à l'article L. 461-2 du code de la sécurité sociale ont droit, après avoir cessé définitivement leurs fonctions, à un suivi médical post-professionnel.
