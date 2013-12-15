@@ -3,5 +3,4 @@
 - [Section 1 : Règles communes applicables aux jeux de contrepartie et aux jeux de cercle électroniques](section-1)
 - [Section 2 : Règles particulières applicables aux jeux de contrepartie électroniques](section-2)
 - [Section 3 : Règles particulières applicables aux jeux de cercle électroniques](section-3)
-- [Section 4 : Surveillance. ― Contrôle. ― Taxes](section-4)
 - [Article 67-1](article-67-1.md)
