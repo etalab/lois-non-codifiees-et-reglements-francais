@@ -28,7 +28,7 @@ Les dates et modalités d'inscription au tournoi sont fixées par le règlement.
 
 L'inscription à un tournoi de texas hold'hem poker est strictement réservée aux personnes majeures et non interdites de jeu. La direction du casino organisateur peut de même refuser l'inscription au tournoi aux personnes ayant fait l'objet d'une limitation volontaire d'accès avec cet établissement. L'inscription à un tournoi de poker impose l'achat de la cave initiale.
 
-Une seule préinscription ou inscription est admise par personne et par tournoi. Elle ne peut être cédée à un tiers, même à titre gracieux.
+Une préinscription ou inscription est admise par personne et par tournoi. Toutefois, le règlement du tournoi peut prévoir qu'un joueur éliminé du jeu puisse se réinscrire, une seule fois, en première partie de tournoi, et dans des conditions identiques à celles de son inscription initiale. La préinscription, inscription ou réinscription ne peut être cédée à un tiers, même à titre gracieux.
 
 Les demandes d'inscription sont formalisées par un bulletin comportant au minimum les renseignements relatifs à l'état civil et l'adresse de la personne.
 

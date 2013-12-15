@@ -8,7 +8,7 @@ L'exploitant doit transmettre au ministère de l'intérieur en double exemplaire
 
 3° Augmenter le nombre de machines à sous sans en porter le nombre total au-delà de 500 appareils ;
 
-4° Modifier la répartition des tables de jeux autorisés ;
+4° Modifier la répartition des tables de jeux autorisées ;
 
 5° Modifier le minimum des mises ou les horaires limites d'ouverture des jeux.
 

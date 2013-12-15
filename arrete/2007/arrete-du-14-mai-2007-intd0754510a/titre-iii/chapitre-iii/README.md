@@ -9,3 +9,7 @@
 - [Section 6 : Jackpot progressif aux jeux de cercle](section-6)
 - [Article 56-1](article-56-1.md)
 - [Article 56-2](article-56-2.md)
+- [Article 56-3](article-56-3.md)
+- [Article 56-3-1](article-56-3-1.md)
+- [Article 56-3-2](article-56-3-2.md)
+- [Article 56-3-3](article-56-3-3.md)

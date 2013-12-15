@@ -12,4 +12,4 @@ Le dossier de demande d'agrément adressé au ministre de l'intérieur comporte 
 
 - la présentation technique de l'appareil de jeu dont la commercialisation et la mise en service sont envisagées ;
 
-- le texte de l'engagement ou du contrat de concession conclu avec une SFM ou une société qui a la charge de sa commercialisation, de sa mise en service et de sa maintenance par ailleurs assujettie aux dispositions de l'article 68-5 du présent arrêté.
+- le texte de l'engagement ou du contrat de concession conclu avec une société de fourniture et de maintenance (SFM) ou une société qui a la charge de sa commercialisation, de sa mise en service et de sa maintenance par ailleurs assujettie aux dispositions de l'article 68-5 du présent arrêté.

@@ -12,8 +12,10 @@ Les sociétés agréées ont pour mission de fournir les appareils de jeux élec
 
 - vérifications systématiques lors de la mise en service et mise au point des systèmes de contrôle existant sur les appareils livrés ;
 
+- visites techniques quadrimestrielles de révision et de contrôle ;
+
 - intervention concernant la réparation des compteurs ;
 
 - maintenance et réparation des appareils.
 
-Un registre de suivi technique des appareils (modèle n° 26 ter) est annoté du compte rendu de leurs réparations ; il est également reporté sur ce document la valeur affichée par les compteurs avant le début et à l'issue de l'intervention.
+Un registre de suivi technique des appareils (modèle n° 26 bis) est annoté du compte rendu de leurs réparations et de leurs visites techniques périodiques ; il est également reporté sur ce document la valeur affichée par les compteurs avant le début et à l'issue de l'intervention.

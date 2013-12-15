@@ -162,7 +162,11 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 7 bis. Reproduisant les dispositions des articles 55-16, 55-17 et 55-18 du présent arrêté concernant le jeu de stud poker de casino.
 
-7 ter. Reproduisant les dispositions des articles 55-18-1, 55-18-2 et 55-18-3 du présent arrêté concernant le jeu du hold'em poker de casino.
+7 ter.
+
+a) Reproduisant les dispositions des articles 55-18-1, 55-18-2 et 55-18-3 du présent arrêté concernant le jeu du hold'em poker de casino ;
+
+b) Reproduisant les dispositions des articles 55-19, 55-19-1 et 55-19-2 du présent arrêté concernant le jeu de la bataille.
 
 7 quater. Reproduisant les dispositions des articles 57 et suivants du présent arrêté concernant le jeu du Texas hold'em poker.
 

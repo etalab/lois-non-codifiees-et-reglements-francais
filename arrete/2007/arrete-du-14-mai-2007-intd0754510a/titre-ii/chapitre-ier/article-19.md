@@ -10,11 +10,11 @@ Le directeur responsable du casino est tenu :
 
 3° D'adresser directement au ministre de l'intérieur, direction centrale de la police judiciaire (service central des courses et jeux) :
 
-Avant le 5 de chaque mois, un exemplaire de la situation mensuelle (modèle n° 5) ;
+Avant le 5 du mois, deux exemplaires de la situation mensuelle (modèle n° 5), dont un sous forme électronique ;
 
-Dans les huit jours de la clôture de la saison, l'état de répartition des pourboires (modèle n° 4) ;
+Dans les huit jours de la clôture de la saison, l'état de répartition des pourboires (modèle n° 4).
 
-Au commencement de chaque saison et huit jours au moins à l'avance, une note indiquant la date exacte où les jeux commenceront ;
+Au commencement de chaque saison et huit jours au moins à l'avance, une note indiquant la date exacte où les jeux débutent ainsi que les jours et heures d'exploitation de chaque jeu sur une base hebdomadaire ;
 
 Huit jours au moins à l'avance, une note indiquant la date exacte à laquelle les jeux cesseront lorsque cette date sera antérieure à celle fixée par l'arrêté d'autorisation.
 

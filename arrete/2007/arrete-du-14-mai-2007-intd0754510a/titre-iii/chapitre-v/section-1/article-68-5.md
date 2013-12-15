@@ -39,3 +39,11 @@ L'arrêté d'agrément du ministre de l'intérieur est notifié par le préfet a
 Les sociétés visées au 3° de l'article 68-2 du présent arrêté adressent leur demande d'agrément au ministre de l'intérieur. L'arrêté d'agrément est notifié au représentant qualifié de ces sociétés.
 
 Une société qui a obtenu l'agrément ministériel est seule titulaire de cet agrément qui est incessible et qui ne peut pas être exploité directement ou indirectement par des tiers.
+
+Toute évolution de la répartition du capital social et du contrôle, direct ou indirect, de la société titulaire de l'agrément prévu à l'article L. 321-5 du code de la sécurité intérieure est déclarée par cette société au ministre de l'intérieur, dès lors qu'en résulterait le fait pour une personne :
+
+1° Soit d'acquérir le contrôle de cette société, au sens de l'article L. 233-3 du code de commerce ;
+
+2° Soit de franchir le seuil du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, des trois dixièmes, du tiers ou de la moitié de détention, directe ou indirecte, du capital ou des droits de vote ;
+
+Le manquement à cette obligation peut justifier la suspension ou le retrait de l'agrément.

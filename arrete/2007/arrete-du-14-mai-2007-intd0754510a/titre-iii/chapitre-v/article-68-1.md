@@ -14,7 +14,7 @@ Le montant de la limite d'insertion des sommes permettant l'achat de crédits su
 
 Ces appareils ne peuvent être exploités que si les autres jeux autorisés par l'arrêté d'autorisation sont ouverts à la clientèle dans les conditions prévues à l'article 31 du présent arrêté.
 
-La combinaison est gagnante dans tous les cas où elle est conforme à une combinaison préétablie à cette fin. Le gain est délivré soit directement par la machine en pièces de monnaie, en jetons, par l'émission d'un ticket faisant apparaître le montant du gain, en unités électroniques créditant la carte de paiement ou tout autre système monétique agréé, soit indirectement en caisse, lorsqu'il s'agit de gros lots dits "jackpots” ou de gains cumulés dépassant les limites de paiement automatique de la machine.
+La combinaison est gagnante dans tous les cas où elle est conforme à une combinaison préétablie à cette fin. Toutefois, dans le cadre d'un jackpot progressif mystère, la combinaison peut être gagnante sans correspondre à une combinaison préétablie. Le gain est délivré soit directement par la machine en pièces de monnaie, en jetons, par l'émission d'un ticket faisant apparaître le montant du gain, en unités électroniques créditant la carte de paiement ou tout autre système monétique agréé, soit indirectement en caisse, lorsqu'il s'agit de gros lots dits "jackpots” ou de gains cumulés dépassant les limites de paiement automatique de la machine.
 
 Plusieurs machines peuvent être connectées entre elles afin d'alimenter un jackpot progressif dont le montant sera affiché et pourra faire l'objet de publicité à l'extérieur de l'établissement.
 

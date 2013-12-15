@@ -18,9 +18,7 @@ Le nombre de joueurs assis, seuls susceptibles d'avoir une main, correspond au n
 
 Si des places assises ne sont pas occupées, les joueurs assis peuvent miser sur les emplacements vacants avec l'accord du croupier, selon les règles de l'établissement.
 
-Un joueur debout peut miser sur la main d'un joueur assis avec l'accord de celui-ci et dans les limites du maximum de mise autorisé pour la main, sans pouvoir toutefois lui donner des instructions de jeu. En cas d'égalité, il subit ses initiatives.
-
-Le joueur debout peut indépendamment du joueur assis engager une mise bataille et/ou une mise égalité.
+Un joueur debout peut miser sur la main d'un joueur assis avec l'accord de celui-ci et dans les limites du maximum de mise autorisé pour la main, il ne peut toutefois lui donner des instructions ou des conseils et subit ses initiatives.
 
 Dans le cas où un joueur debout est autorisé à jouer sur la mise d'un joueur assis, la présence d'un chef de table est nécessaire.
 

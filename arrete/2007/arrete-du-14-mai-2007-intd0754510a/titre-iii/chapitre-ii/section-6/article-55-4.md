@@ -73,3 +73,110 @@ La direction du casino a la possibilité, dans son règlement intérieur affich�
 Quel que soit le nombre de points obtenu avec ses deux premières cartes, il peut doubler sa mise. Dans ce cas, il n'a droit qu'à une seule carte supplémentaire.
 
 La double mise est autorisée pour toutes les mains, y compris les paires. Toutefois, la direction du casino peut, dans son règlement intérieur, en exclure la possibilité en ce qui concerne les paires.
+
+5° Le black jack avec lucky ladies :
+
+Il peut être fait usage d'un tapis de black jack comportant, outre les sept cases destinées à recevoir les mises principales engagées par les joueurs, un emplacement supplémentaire, sur lequel les joueurs ont la possibilité d'engager une mise additionnelle dite lucky ladies permettant de gagner un bonus.
+
+Un bonus est gagné par le joueur lorsque la valeur des deux premières cartes distribuées est égale à 20. La valeur du bonus est déterminée en fonction de l'une des tables de paiement figurant ci-dessous :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> COMBINAISONS gagnantes</p>
+</td>
+<td>
+<p align="center"> TABLE<br/>de paiement A</p>
+</td>
+<td>
+<p align="center"> TABLE<br/>de paiement B</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>2 dames de cœur et BJ du croupier </p>
+</td>
+<td align="center">
+<br/>1 000 pour 1<br/>
+</td>
+<td align="center">
+<br/>1 000 pour 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Paire de dames de cœur</p>
+</td>
+<td align="center">
+<br/>125 pour 1<br/>
+</td>
+<td align="center">
+<br/>200 pour 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Paire totalisant 20</p>
+</td>
+<td align="center">
+<br/>19 pour 1<br/>
+</td>
+<td align="center">
+<br/>25 pour 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>2 cartes de même couleur totalisant 20 </p>
+</td>
+<td align="center">
+<br/>9 pour 1 <br/>
+</td>
+<td align="center">
+<br/>10 pour 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>2 cartes quelconques totalisant 20</p>
+</td>
+<td align="center">
+<br/>4 pour 1<br/>
+</td>
+<td align="center">
+<br/>4 pour 1<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Il appartient au directeur responsable de choisir la table de paiement qui sera en usage durant toute la partie et de l'afficher lisiblement sur la table de jeu, ainsi que le minimum et le maximum des mises additionnelles pratiqués.
+
+a) Fonctionnement du lucky ladies :
+
+Avant la distribution des cartes, les joueurs ont la possibilité de placer une mise sur le lucky ladies après avoir engagé leur mise principale. Dans son règlement intérieur, le casino peut limiter aux seuls joueurs assis la possibilité de miser sur le lucky ladies.
+
+Une fois que le croupier a distribué deux cartes à chaque joueur et tiré sa première carte, il détermine si les joueurs qui ont misé sur le lucky ladies ont une main totalisant 20 et annonce à haute et intelligible voix le nombre de bonus en jeu.
+
+En procédant de droite à gauche dans le sens inverse des aiguilles d'une montre, le croupier ramasse les mises lucky ladies perdantes puis paie la ou les mises gagnantes. Pour chaque joueur, seule la meilleure combinaison est payée.
+
+Une fois ces opérations réalisées, la partie se poursuit selon les règles habituelles du black jack. Toutefois, dans son règlement intérieur, le casino peut interdire à un joueur ayant obtenu une mise gagnante au lucky ladies de constituer deux mains séparées.
+
+b) Exception à cette procédure (paire de dames de cœur contre black jack du croupier) :
+
+Si un joueur ayant placé une mise sur le lucky ladies obtient une paire de dames de cœur et que la première carte du croupier est un as, roi, dame, valet ou 10, le croupier procède de la manière suivante :
+
+Il ramasse toutes les mises lucky ladies perdantes en procédant dans l'ordre prévu et paie les mises gagnantes sauf celle du joueur qui a une paire de dames de cœur.
+
+Le jeu se poursuit alors selon les règles habituelles.
+
+Après que le croupier a tiré sa deuxième carte, s'il n'a pas de black jack, il paie en premier le joueur qui a une paire de dames de cœur et paie les mises gagnantes du jeu de black jack.
+
+Si le croupier obtient un black jack, il ramasse, dans l'ordre prévu, les mises initiales perdantes ainsi que la mise initiale du joueur qui a une paire de dames de cœur et paie les assurances.
+
+Il ramasse ensuite toutes les cartes à l'exception de celles du joueur qui a une paire de dames de cœur et les dispose figure en dessous dans le réceptacle prévu à cet effet.
+
+Ne restent plus sur la table que les cartes du joueur détenteur des deux dames de cœur et ses mises, ainsi que les deux cartes du croupier formant black jack. Le croupier paie alors le joueur ayant obtenu la combinaison gagnante de deux dames de cœur puis ramasse les cartes du joueur et les siennes en dernier lieu.
+
+Lorsque deux voire trois joueurs obtiennent simultanément une paire de dames de cœur avec les deux premières cartes distribuées, le croupier observe le même mode opératoire que celui décrit ci-dessus.

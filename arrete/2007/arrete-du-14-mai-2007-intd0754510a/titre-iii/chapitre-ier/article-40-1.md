@@ -2,7 +2,7 @@
 
 Mélangeur-distributeur automatique de cartes de jeux.
 
-Les casinos peuvent utiliser un mélangeur automatique de cartes de jeu pour le stud poker, le black jack, le punto banco, le hold'em poker et le Texas hold'em poker.
+Les casinos peuvent utiliser un mélangeur automatique de cartes de jeu pour le stud poker, le black jack, le punto banco, le hold'em poker, le texas hold'em poker et la bataille.
 
 Les cartes agréées pour les mélangeurs-distributeurs le sont également pour les jeux conduits manuellement.
 

@@ -26,7 +26,7 @@ En cas de personne physique demanderesse, une fiche d'état civil accompagnée d
 
 9° Un récapitulatif indiquant l'état civil complet, la profession et le domicile du directeur responsable et des membres du comité de direction, accompagné de leurs dossiers individuels comprenant une notice individuelle et les pièces mentionnées par l'article 15 ;
 
-10° Dans l'hypothèse où l'exploitant est inchangé, pour les demandes d'autorisation après adoption d'un nouveau cahier des charges, une copie du dernier rapport d'exécution de la délégation de service public remis à la commune (art. L. 1411-3 du code général des collectivités territoriales) et un état détaillé, pour la saison en cours, des dépenses consacrées à l'animation (interne et externe) ainsi que des données économiques sur le secteur restauration (nombre de couverts, chiffre d'affaires) ;
+10° Dans l'hypothèse où l'exploitant est inchangé, pour les demandes d'autorisation après adoption d'un nouveau cahier des charges, une copie du dernier rapport d'exécution de la délégation de service public remis à la commune (art. L. 1411-3 du code général des collectivités territoriales) et un état détaillé, pour la saison en cours et la saison précédente, des dépenses consacrées à l'animation (interne et externe) ainsi que des données économiques sur le secteur restauration (nombre de couverts, chiffre d'affaires) pour les mêmes périodes ;
 
 11° Pour les demandes d'ouverture, les pièces de l'enquête commodo et incommodo (procès-verbal de l'enquête, certificat du maire constatant l'apposition des affiches ainsi que le dépôt à la mairie pendant la durée réglementaire des pièces soumises à l'enquête, registre d'observations et avis du commissaire enquêteur) ;
 

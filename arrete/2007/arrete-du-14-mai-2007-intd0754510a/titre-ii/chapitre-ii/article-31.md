@@ -6,13 +6,15 @@ Les heures limites d'ouverture et de fermeture des salles de jeux sont fixées p
 
 Le directeur responsable a la faculté de fixer, dans les limites prévues par l'arrêté d'autorisation et dans le respect du cahier des charges, les heures d'ouverture et de fermeture des salles de jeux et des jeux. Les horaires de fermeture des machines à sous sont ceux prévus pour les autres jeux par l'arrêté d'autorisation.
 
-Toutefois, après information du chef de service de la direction centrale de la police judiciaire territorialement compétent et dans le respect d'un préavis de huit jours, les horaires de fermeture de ces jeux peuvent intervenir avant ceux des machines à sous :
+Toutefois, après information du chef de service de la direction centrale de la police judiciaire territorialement compétent et dans le respect d'un préavis de huit jours :
 
-- dans les casinos de 75 machines à sous au plus, lorsque les jeux de table sont exploités au moins pendant quatre heures par jour ;
+a) Les horaires de fermeture des jeux de table peuvent intervenir avant ceux des machines à sous :
 
-- dans les casinos de plus 75 machines à sous, lorsque les jeux de table sont exploités au moins pendant six heures par jour.
+- dans les casinos de 75 machines à sous au plus, lorsque les tables de jeux sont exploitées au moins pendant quatre heures par jour ;
 
-L'exploitant qui souhaite bénéficier des dispositions prévues aux quatrième, cinquième et sixième alinéas communique au ministre de l'intérieur les horaires qu'il fixe pour la fermeture des jeux.
+- dans les casinos de plus de 75 machines à sous, lorsque les tables de jeux sont exploitées au moins pendant six heures par jour ;
+
+b) Les horaires de fermeture des machines à sous peuvent intervenir avant ceux des jeux de table à la condition que les opérations de comptée des machines à sous prévues à l'article 68-24 du présent arrêté ne débutent pas avant la fin de l'exploitation des jeux de table.
 
 Pour les jeux dits de cercle, les salles de jeux peuvent rester ouvertes au-delà des heures fixées par l'arrêté d'autorisation, toutes les fois que le nombre des joueurs présents et l'activité de la partie sont de nature à justifier cette tolérance mais sans toutefois que ces jeux puissent rester ouvertes plus de vingt heures sans interruption.
 

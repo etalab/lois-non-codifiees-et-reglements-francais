@@ -12,6 +12,6 @@ Un timbre à date est apposé de manière très lisible sur la souche du premier
 
 Il peut aussi être fait usage pour chaque table de jeux d'une machine automatique agréée qui permet au croupier de procéder à l'enregistrement automatisé de la retenue au profit de la cagnotte. Cet appareil relié au réseau informatique du casino fonctionne selon une procédure d'accès restreint et sécurisé et garantit la traçabilité des opérations. Il retrace, par table de jeux et par partie, l'heure, le montant du pot, de la retenue à opérer et du gain versé au joueur gagnant. La somme retenue est introduite dans la cagnotte par le croupier. Une sommation des retenues est effectuée en fin de séance par l'édition d'un historique.
 
-Le comptage et l'enregistrement de la cagnotte sont réalisés dans les conditions prévues aux articles 56-2 et 70 du présent arrêté.
+Le comptage et l'enregistrement de la cagnotte sont réalisés dans les conditions prévues aux articles 56-2 et 71 du présent arrêté.
 
 Chaque table de baccara ou d'écarté possède une cagnotte distincte, portant le même numéro que la table. Cette cagnotte est destinée à recevoir le montant des retenues opérées au profit de l'établissement.

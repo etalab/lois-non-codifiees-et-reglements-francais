@@ -8,7 +8,7 @@ Pour les demandes de renouvellement d'autorisation de jeux en cours de concessio
 
 2° L'avis du conseil municipal sur la demande de renouvellement ou de transfert ;
 
-3° Un état détaillé, pour la saison en cours, des dépenses consacrées à l'animation (interne et externe) ainsi que des données économiques sur le secteur restauration (nombre de couverts, chiffre d'affaires) ;
+3° Un état détaillé, pour la saison en cours et la saison précédente, des dépenses consacrées à l'animation (interne et externe) ainsi que des données économiques sur le secteur restauration (nombre de couverts, chiffre d'affaires) pour les mêmes périodes ;
 
 4° Pour les demandes de transfert, lorsque l'enquête initiale n'a pas porté sur le site définitif d'implantation, les pièces de l'enquête commodo et incommodo (procès-verbal de l'enquête, certificat du maire constatant l'apposition des affiches ainsi que le dépôt à la mairie pendant la durée réglementaire des pièces soumises à l'enquête, registre d'observations et avis du commissaire enquêteur), accompagnées, le cas échéant, d'une copie de la nouvelle délibération du conseil municipal adoptée après enquête ;
 

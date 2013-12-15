@@ -6,6 +6,8 @@ Préalablement à leur entrée en fonction, les employés de jeux, les personnes
 
 L'agrément est accordé par le ministre de l'intérieur au vu d'un dossier transmis par le casino, comprenant :
 
+- une photocopie de la pièce d'identité en cours de validité ;
+
 - une notice individuelle ;
 
 - une photographie d'identité récente ;

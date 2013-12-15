@@ -26,13 +26,25 @@ Le directeur responsable du casino conserve, lorsqu'il en est ainsi, la pleine r
 
 V. - Le directeur responsable et les membres du comité de direction sont agréés par le ministre de l'intérieur sous réserve de ne point remplir des fonctions électives dans la commune siège de l'établissement.
 
+L'agrément est accordé par le ministre de l'intérieur au vu d'un dossier transmis par le casino, comprenant :
+
+- une photocopie de la pièce d'identité en cours de validité ;
+
+- une notice individuelle ;
+
+- une photographie d'identité récente ;
+
+- une carte électorale récente ou une attestation du maire établissant qu'il est inscrit sur la liste électorale ou en a fait la demande, ou tout autre document établissant que le postulant jouit de ses droits civiques si le postulant est de nationalité française ; dans le cas où il est ressortissant d'un Etat de l'Union européenne, tout document permettant d'établir qu'il jouit de ses droits civiques et politiques ;
+
+- un extrait de son casier judiciaire remontant à moins de deux mois.
+
 L'agrément du directeur responsable est national. En cas de changement d'établissement, il en informe préalablement le ministre de l'intérieur. Le titulaire ne peut quitter son poste tant qu'un nouveau directeur responsable agréé, ou qu'un directeur responsable par intérim choisi obligatoirement parmi les membres du comité de direction du même casino détenant un mandat social, n'a pas été désigné. Dans ce dernier cas, la proposition d'un titulaire doit intervenir dans les trois mois.
 
 L'agrément des membres du comité de direction est national. Une carte d'agrément peut leur être délivrée, à leur demande, s'ils souhaitent être agréés dans plusieurs établissements. Lors de l'agrément initial, chaque membre du comité de direction doit faire connaître au ministère de l'intérieur le ou les casinos où il souhaite être agréé en cette qualité et préciser l'établissement où il exercera réellement ses fonctions. S'il souhaite compléter ou modifier ces données, il devra en informer préalablement le ministère de l'intérieur pour pouvoir, le cas échéant, exercer ses fonctions dans un nouvel établissement.
 
 Le ministre de l'intérieur peut donner un avertissement, suspendre ou révoquer le directeur responsable ou les membres du comité de direction, soit en cas d'inobservation du cahier des charges ou des prescriptions des arrêtés ministériels, soit pour des motifs d'ordre public.
 
-La suspension ou la révocation impliquent, pour les intéressés, incapacité d'accomplir aucun acte de leur fonction. La révocation entraîne interdiction de pénétrer dans les salles de jeux.
+La suspension ou la révocation impliquent, pour les intéressés, incapacité d'accomplir aucun acte de leur fonction. La révocation peut être assortie d'une interdiction de pénétrer dans les salles de jeux.
 
 Les décisions du ministre de l'intérieur comportant agrément, retrait d'agrément, avertissement, suspension ou révocation du directeur responsable ou d'un membre du comité de direction sont notifiées en toute hypothèse au directeur responsable et, le cas échéant, aux intéressés.
 

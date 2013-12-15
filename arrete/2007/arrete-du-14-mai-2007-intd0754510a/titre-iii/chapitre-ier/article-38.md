@@ -2,7 +2,7 @@
 
 Aux jeux de contrepartie énumérés à l'alinéa a du décret du 22 décembre 1959 précité, les enjeux sont constitués par des jetons ou des plaques.
 
-Aux jeux de contrepartie informatisés énumérés à l'alinéa c du même décret, les enjeux sont représentés par des billets, par des jetons, des ticket, des unités de paiement précréditées ou tout autre système monétique agréé.
+Aux jeux de contrepartie informatisés énumérés à l'alinéa c du même décret, les enjeux sont représentés par des billets, par des jetons, des tickets, des unités de paiement précréditées ou tout autre système monétique agréé.
 
 En ce qui concerne les machines à sous, les mises introduites sont représentées par des pièces de monnaie fiduciaire ayant cours en France, par des billets, par des jetons, des tickets, des unités de paiement précréditées ou tout autre système monétique agréé.
 
