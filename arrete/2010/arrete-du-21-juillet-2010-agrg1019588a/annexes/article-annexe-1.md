@@ -4,7 +4,7 @@ Dispositions générales :
 
 Sans préjudice du respect des conditions d'application prévues par la présente annexe, les utilisateurs des produits mentionnés respectent les préconisations faites par les services chargés de la protection des végétaux dans le département.
 
-Les traitements insecticides prévus contre Rhynchophorus ferrugineus aux articles 11 et 12 du présent arrêté sont réalisés conformément aux prescriptions de l'arrêté du 5 juin 2009 relatif à l'utilisation de traitements dans le cadre de la lutte obligatoire contre certains organismes nuisibles.
+Les traitements insecticides prévus contre Rhynchophorus ferrugineus aux articles 11 et 12 du présent arrêté sont réalisés conformément aux prescriptions de l'arrêté du 5 juin 2009 relatif à l'utilisation de traitements dans le cadre de la lutte obligatoire contre certains organismes nuisibles. Les inflorescences de tout palmier traité par pulvérisation foliaire ou traitement du sol en utilisant des produits phytopharmaceutiques à base d'imidaclopride, à l'exception des traitements effectués en serre, doivent être coupées et éliminées à leur émergence dans l'année de traitement.
 
 Traitements préventifs des palmiers en plantation :
 
