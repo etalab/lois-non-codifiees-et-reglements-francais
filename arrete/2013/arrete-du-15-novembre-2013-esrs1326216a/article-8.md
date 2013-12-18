@@ -1,0 +1,5 @@
+# Article 8
+
+Les correspondances entre les épreuves de l'examen organisées conformément à l'arrêté du 23 septembre 2003 modifié portant définition et fixant les conditions de délivrance du brevet de technicien supérieur « systèmes électroniques » et à l'arrêté du 19 juillet 2002 modifié portant définition et fixant les conditions de délivrance du brevet de technicien supérieur « informatique et réseaux pour l'industrie et les services techniques » et les épreuves de l'examen organisées conformément au présent arrêté sont précisées en annexe IV au présent arrêté.
+
+La durée de validité des notes égales ou supérieures à 10 sur 20 aux épreuves de l'examen subi selon les dispositions des arrêtés du 23 septembre 2003 et du 19 juillet 2002 précités et dont le candidat demande le bénéfice dans les conditions prévues à l'alinéa précédent est reportée dans le cadre de l'examen organisé selon les dispositions du présent arrêté conformément à l'article 17 du décret du 9 mai 1995 susvisé et à compter de la date d'obtention de ce résultat.

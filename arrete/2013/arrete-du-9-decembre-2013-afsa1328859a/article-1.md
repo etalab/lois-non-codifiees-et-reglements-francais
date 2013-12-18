@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'évaluation de la mise en œuvre d'action prévue au 1.3 de la section 1 du chapitre Ier de l'annexe 3-10 au code de l'action sociale et des familles, en application du 2° du 1.1 de la section 1 du chapitre IV de la même annexe, la correspondance entre le référentiel de certification de services Qualicert RE/SAP/06 pour les services aux particuliers en vigueur à compter du 1er novembre 2012 de la société SGS International Certification Services et les dispositions du chapitre II du contenu du cahier des charges pour la réalisation des évaluations externes prévues à l'annexe 3-10 au code de l'action sociale et des familles est établie conformément au récapitulatif annexé au présent arrêté.
