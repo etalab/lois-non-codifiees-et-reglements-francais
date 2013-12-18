@@ -1,6 +1,8 @@
 # Article 26
 
-La présente loi est applicable :
+La présente loi, dans sa rédaction résultant de la
+loi n° 2013-1159 du 16 décembre 2013
+transposant la directive 2013/1/ UE du Conseil, du 20 décembre 2012, modifiant la directive 93/109/ CE en ce qui concerne certaines modalités de l'exercice du droit d'éligibilité aux élections au Parlement européen pour les citoyens de l'Union résidant dans un Etat membre dont ils ne sont pas ressortissants, est applicable :
 
 1° A Saint-Pierre-et-Miquelon, dans les conditions prévues à l'article L. 531 du code électoral ;
 
