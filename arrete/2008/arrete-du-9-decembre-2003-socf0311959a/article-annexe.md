@@ -2,55 +2,35 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : technicien (ne) supérieur (e) en réseaux informatiques et télécommunications.
+Intitulé du titre professionnel : technicien (ne) supérieur (e) en réseaux informatiques et télécommunications.
 
 Niveau : III.
 
-Code NSF : 326 u (informatique, traitement de l'information, réseaux transmission).
+Code NSF : 326 r, informatique, traitement de l'information, réseaux de transmission.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) supérieur (e) en réseaux informatiques et télécommunications installe, met en service et assure le bon fonctionnement des réseaux informatiques et télécommunications, voix, données, images, souvent sous la responsabilité d'un ingénieur réseaux, dans le respect des consignes, des procédures et des contrats de services.
+Le (la) technicien (ne) supérieur (e) en réseaux informatiques et télécommunications (TSRIT) installe, met en service, sécurise et assure le bon fonctionnement des réseaux informatiques et télécommunications, voix, données, images, souvent sous la responsabilité d'un ingénieur réseaux, dans le respect des consignes, des procédures et des contrats de services.
 
-Conformément aux consignes de sécurité, il (elle) inspecte régulièrement l'état et l'accès des locaux techniques où s'entreposent baies de brassages, armoires d'équipements et serveurs réseaux.
+Il (elle) met en service des équipements et des logiciels de réseaux informatiques et de télécommunications. Il (elle) effectue les mises à jour et intervient pour la maintenance préventive.
 
-Il (elle) surveille sur écrans la cartographie des réseaux, analyse et traite les incidents pour répondre :
+Il (elle) diagnostique et assure la résolution d'incidents simples ou complexes jusqu'à leur clôture et enrichit la base de connaissances en utilisant l ` outil de suivi de l'entreprise.
 
--à l'attente de l'utilisateur : transparence, sécurité et disponibilité du service ;
+Lors d'une prestation de service, il (elle) analyse le cahier des charges des besoins clients puis assure l'intégration, l'installation, la mise en service, la sécurisation, le dépannage, la maintenance des matériels et les mises à jour des configurations des systèmes réseaux et télécommunications.
 
--aux performances des infrastructures et des services ;
+Dans le cas d'un dysfonctionnement du réseau, il (elle) utilise des outils d'analyse pour en identifier l'origine et dépanne ou met en place des solutions de contournement afin de ne pas perturber la production. Dans certains cas, à l'issue d'un audit approfondi, il contribue aux évolutions du réseau.
 
--aux exigences de production et de disponibilité, notamment celles de la messagerie et des applications téléphoniques.
+Il (elle) administre et surveille le réseau à l'aide de logiciels de supervision ou d'outils de remontée d'alarmes. Pour la sécurité du réseau, il relève quotidiennement les tentatives d'intrusion depuis l'internet, analyse les échanges et applique la politique de sécurité de l'entreprise.
 
-Dans le cadre d'une prestation de service, il (elle) analyse le cahier des charges des besoins clients puis assure l'intégration, l'installation, la mise en service, le dépannage, la maintenance des matériels et les mises à jour des configurations des systèmes réseaux et télécommunications.
+Il (elle) inspecte régulièrement l'état et l'accès des locaux techniques où sont installés les baies de brassages, les armoires d'équipements et les serveurs réseaux.
 
-Dans le cadre de sa contribution à l'administration des réseaux de l'entreprise, il (elle) intègre les outils de métrologie, de sécurité et de supervision utiles à :
+Dans le cadre d'un contrat de services, il met à jour le tableau de bord du réseau qui contient les indicateurs de performance, de flux et de qualité de service.
 
--l'élaboration d'indicateurs de performances ;
+Il (elle) assure une veille technique permanente. Sa connaissance de l'anglais lui permet d'exploiter des documents techniques et d'échanger avec des interlocuteurs étrangers. Il (elle) apporte un appui technique lors d'une démarche commerciale dans l'avant-vente ou dans toute forme de promotion des services de l'entreprise.
 
--la gestion des infrastructures et des services sous-jacents ;
+Il (elle) peut exercer son métier seul ou en équipe, dans une grande entreprise, une PME, un service public, une société de services en ingénierie informatique (SSII) ou une société de services en télécoms et réseaux (SSTR).
 
--la mesure de la qualité du service offert par le réseau ;
-
--la diffusion d'informations (tableaux de bord) visualisant les résultats obtenus.
-
-Dans le cadre de sa contribution aux évolutions du réseau, il (elle) :
-
--est en veille permanente vis-à-vis des nouveaux outils et produits du marché ;
-
--adopte les formes de concertation appropriées aux interlocuteurs et aux situations ;
-
--s'astreint à une organisation rigoureuse de façon à intervenir simultanément sur plusieurs tâches tout en respectant les délais exigés.
-
-Il (elle) est en relation avec presque tous les autres acteurs informatiques et télécoms.
-
-Il (elle) assiste le commercial pour identifier et / ou spécifier et / ou proposer des solutions techniques qui tiennent compte des contraintes de coûts, de temps et de qualité.
-
-Il (elle) utilise l'anglais pour exploiter les documents constructeurs, les notes d'application techniques, les aides en ligne, les sites consultés sur internet, ou recourir aux supports techniques.
-
-Les déplacements peuvent être fréquents. Les horaires sont adaptés à la nature de l'intervention et sont susceptibles d'atteindre une amplitude forte.
+Il (elle) adopte les formes de concertation appropriées aux interlocuteurs et aux situations ; apporte une assistance aux utilisateurs ; s'astreint à une organisation rigoureuse de façon à intervenir simultanément sur plusieurs tâches tout en respectant les délais exigés.
 
 Capacités attestées et descriptif
 
@@ -60,80 +40,90 @@ des composantes de la certification
 
 et maintenir la continuité de service
 
-Contrôler la conformité de l'infrastructure de connexion réseau, des locaux techniques, leur état, leurs accès, et signaler les anomalies.
+Installer un ordinateur et le connecter au réseau.
 
-Surveiller les réseaux, traiter les incidents et gérer l'exploitation sur incident.
+Déployer des postes de travail dans un contexte de virtualisation et de développement durable.
 
-Exploiter les équipements de téléphonie.
+Mettre en service des équipements et des logiciels de communication.
 
-Valider la conformité des installations et des équipements réseaux, après intervention.
+Gérer et sécuriser les infrastructures de réseau.
 
-Assister, conseiller les utilisateurs et assurer le support technique des clients.
+Assister les utilisateurs et assurer le support technique.
 
-Utiliser l'anglais dans son activité professionnelle en informatique et télécommunications.
+Utiliser l'anglais dans son activité professionnelle en informatique et télécommunication.
 
-2. Contribuer à l'administration des réseaux informatiques
+2. Mettre en œuvre et gérer des réseaux
 
-et de télécommunications
+informatiques et de télécommunications
 
-Installer et faire évoluer les infrastructures de transmission voix, données, images.
+Mettre en service les éléments actifs de réseaux LAN et WAN.
 
-Installer, faire évoluer les serveurs réseaux.
+Gérer l'interconnexion de réseaux TCP/ IP LAN et WAN.
 
-Mettre en œuvre et exploiter la sécurité du réseau informatique.
+Mettre en service et virtualiser des serveurs informatiques.
 
-Mettre en œuvre et exploiter des outils de supervision et d'analyse de réseaux.
+Installer et gérer les services de réseaux TCP/ IP.
 
-Gérer la configuration du réseau de l'entreprise.
+Intervenir sur un système de messagerie informatique.
 
-Administrer les services de téléphonie classique, de téléphonie IP et de messagerie unifiée.
+Intervenir sur les services de la téléphonie.
 
-Utiliser l'anglais dans son activité professionnelle en informatique et télécommunications.
+3. Sécuriser, administrer et proposer des solutions
 
-3. Proposer aux décideurs des solutions techniques
+de réseaux informatiques et de télécommunications
 
-répondant aux besoins du client à l'interne ou à l'externe
+Mettre en œuvre et gérer la sécurité du réseau informatique.
 
-Assurer sa veille technologique.
+Superviser et assurer la disponibilité et la qualité de service du réseau.
+
+Contribuer à la conduite des nouveaux projets de réseaux.
 
 Apporter un appui technique dans une démarche commerciale.
 
-Contribuer à la conduite des nouveaux projets.
-
-Rechercher et évaluer des solutions techniques nouvelles en tenant compte de la sécurité, de la qualité et des coûts.
-
-Proposer des scénarios d'évolution de mise en œuvre et argumenter leur choix.
-
-Utiliser l'anglais dans son activité professionnelle en informatique et télécommunications.
+Assurer sa veille technologique.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) TSRIT travaille seul (e) ou en équipe dans l'un des contextes suivants :
+L'emploi de TSRIT se situe dans différents contextes :
 
--structure utilisatrice, de type grand compte, qui possède un service dédié aux réseaux et télécommunications ;
+- structure utilisatrice, de type grand compte, qui possède un service dédié aux réseaux et télécommunications ;
 
--société de service en télécommunications et réseaux (SSTR), en plate-forme d'intégration et sur les sites clients et peut aussi intervenir à distance ;
+- société de service en télécommunications et réseaux (SSTR), en plate-forme d'intégration et sur les sites clients et peut aussi intervenir à distance ;
 
--société de services et d'ingénierie informatique (SSII) réalisant des prestations en régie ou ponctuellement.
+- société de services et d'ingénierie informatique (SSII) réalisant des prestations en régie ou ponctuellement, sur les équipements informatiques, réseaux et télécommunications.
 
-Code ROME :
+Les types d'emplois accessibles sont les suivants :
 
-32311-Informaticien (ne) d'exploitation.
+Administrateur réseau informatique ;
+
+Administrateur réseaux-télécoms ;
+
+Administrateur système et réseau ;
+
+Codes ROME :
+
+M1801-Administration de systèmes d'information ;
+
+M1810-Production et exploitation de systèmes d'information.
 
 Réglementation de l'activité :
 
 Néant.
 
-Cette certification est accessible à compter du 18 décembre 2008.
-
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications : néant.
+
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 18 décembre 2013.

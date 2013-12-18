@@ -1,116 +1,102 @@
 # Article Annexe
 
-Intitulé : concepteur-développeur informatique.
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Niveau : II.
+Intitulé :
 
-Code NSF : 326 t (informatique, traitement de l'information, réseaux transmission).
+Titre professionnel : concepteur (trice)-développeur (se) informatique (ancien intitulé : concepteur-développeur informatique)
+
+Niveau : II
+
+Code NSF : 326 t
 
 Résumé du référentiel d'emploi
 
-Le concepteur-développeur informatique prend en charge le développement d'applications informatiques suite à l'expression des exigences fournies par un client ou un chef de projet.
+Le (la) concepteur (trice)-développeur (se) informatique prend en charge la conception et le développement d'applications informatiques. Il (elle) agit avec autonomie et, le cas échéant, avec des responsabilités d'animation et de coordination, dans le cadre de projets visant à automatiser un ou plusieurs processus de l'entreprise. Ces projets font suite à des demandes formulées directement par un client, par une maîtrise d'ouvrage ou par l'intermédiaire d'un chef de projet, afin de réaliser de nouvelles applications ou la maintenance évolutive d'applications existantes.
 
-Il (elle) intervient sur les différentes phases du processus de développement logiciel :
+Il (elle) peut travailler en tant que salarié (e) d'une entreprise, pour un client de la société de services qui l'emploie, ou en tant qu'indépendant, directement pour un client. Ses activités diffèrent selon la taille et l'organisation du projet. Pour les projets de petite taille, il (elle) peut mener en autonomie la conception et le développement de l'application. Dans le cas de moyens et de grands projets, il (elle) travaille soit au sein d'une équipe hiérarchisée sous la responsabilité d'un chef de projet, soit en équipe pluridisciplinaire. Il (elle) applique et fait appliquer les normes de qualité et de sécurité logicielle de son entreprise ou de son prestataire de services.
 
-- il (elle) définit ou participe à la définition de l'architecture (technique et logicielle) de l'application. Il (elle) modélise les données de l'application et réalise les diagrammes liés aux traitements en s'appuyant sur les exigences exprimées par le client ou par le chef de projet. Il (elle) met en place la base de données de tests ;
+Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique.
 
-- dans l'architecture multiniveaux (appelée architecture x-tiers), il (elle) conçoit et réalise les composants de la couche présentation de façon conviviale pour l'utilisateur, les composants assurant la persistance des données dans des systèmes de gestion de base de données et les composants " métiers " qui automatisent les processus propres à l'entreprise cliente ;
+La connaissance du métier du client pour lequel il (elle) réalise l'application est le plus souvent demandée.
 
-- il (elle) assure les tests d'intégration et le déploiement des composants réalisés.
+La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps, ainsi que, le cas échéant, le suivi des développeurs affectés au projet.
 
-Il (elle) applique une " démarche qualité " tout au long du processus de développement. Il (elle) peut être force de proposition pour l'évolution des pratiques mises en oeuvre.
+Il (elle) prend en compte les contraintes économiques, en termes de coûts et de délais.
 
-Il (elle) peut travailler pour une unité organisationnelle de l'entreprise où il (elle) est salarié, ou pour un client de la société de services qui l'emploie, ou pour un client direct, s'il est indépendant.
+Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.
 
-Il (elle) doit s'adapter rapidement aux évolutions technologiques du secteur informatique. La connaissance du métier du client pour lequel il (elle) réalise l'application est souvent demandée.
-
-La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps, ainsi que, le cas échéant, le suivi des développeurs affectés au projet. Il (elle) prend en compte des contraintes économiques (coûts et délais).
-
-Etant appelé(e) à assurer sa mission dans des entreprises et contextes professionnels extrêmement divers, il (elle) doit pouvoir s'adapter, être mobile géographiquement, faire preuve de capacités relationnelles, notamment l'écoute active des différents interlocuteurs (maîtrise d'ouvrage, utilisateurs, chef de projet, experts techniques, développeurs...) et la faculté d'arbitrer entre des besoins contradictoires.
+Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, l'architecte logiciel, les experts techniques et les autres développeurs, tout en conciliant des exigences contradictoires.
 
 Capacités attestées et descriptif des composantes de la certification
 
 1. Développer des composants d'interface
 
-Maquetter l'application.
+Maquetter une application.
 
-Programmer des formulaires et des états.
+Développer une interface utilisateur.
 
-Programmer des pages Web.
+Développer des composants d'accès aux données.
 
-Manipuler les données avec le langage de requête SQL.
-
-Développer les composants d'accès aux données.
-
-Installer les composants.
-
-Assister les utilisateurs.
-
-Organiser son temps.
-
-Communiquer dans un contexte professionnel.
-
-Utiliser l'anglais dans son activité professionnelle en informatique.
-
-Actualiser ses compétences techniques.
+Développer des pages web en lien avec une base de données.
 
 2. Développer la persistance des données
 
-Modéliser les données.
+Concevoir une base de données.
 
-Mettre en place la base de données.
+Mettre en place une base de données.
 
-Manipuler les données avec le langage de requête SQL.
-
-Programmer dans le langage du SGBD : triggers et procédures stockées.
-
-Organiser son temps.
-
-Communiquer dans un contexte professionnel.
+Développer des composants dans le langage d'une base de données.
 
 Utiliser l'anglais dans son activité professionnelle en informatique.
 
-Actualiser ses compétences techniques.
+3. Développer une application n-tiers
 
-3. Développer une application x-tiers
+Concevoir une application.
 
-Définir l'architecture de l'application.
+Collaborer à la gestion d'un projet informatique.
 
-Modéliser l'application à développer en utilisant UML.
+Développer des composants métier.
 
-Appliquer une démarche qualité.
+Construire une application organisée en couches.
 
-Développer les composants métier.
+Développer une application de mobilité numérique.
 
-Manipuler les données réparties dans une architecture client/serveur x-tiers.
+Préparer et exécuter les plans de tests d'une application.
 
-Développer les composants de la couche de présentation (IHM).
+Préparer et exécuter le déploiement d'une application.
 
-Développer des composants intégrés à l'informatique nomade.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Réaliser un test d'intégration.
+Société de services et d'ingénierie informatique (SSII) réalisant des prestations de développement d'applications, en régie ou au forfait.
 
-Déployer l'application.
-
-Animer l'équipe de développement.
-
-Communiquer dans un contexte professionnel.
-
-Utiliser l'anglais dans son activité professionnelle en informatique.
-
-Actualiser ses compétences techniques.
-
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
-
-Société de services et d'ingénierie informatique (SSII) réalisant des prestations en régie ou en forfait dans le développement d'applications informatiques.
-
-Structure utilisatrice, de type grand compte, qui possède un service dédié aux études et développements informatiques.
+Structure utilisatrice, de type entreprise du secteur privé ou public, possédant un service dédié aux études et aux développements informatiques.
 
 Activité d'informaticien d'études indépendant.
 
+Développeur informatique.
+
+Développeur en nouvelles technologies.
+
+Développeur d'applications mobiles.
+
+Développeur web.
+
+Analyste programmeur.
+
+Informaticien d'application.
+
+Informaticien de développement.
+
+Concepteur d'applications.
+
+Concepteur développeur.
+
+Ingénieur d'études et développement.
+
 Code ROME :
 
-3232 - Informaticien(ne) d'étude.
+M1805-Etudes et développement informatique.
 
 Réglementation de l'activité :
 
@@ -122,6 +108,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 du code de l'éducation ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 18 décembre 2013.
+
+Vous pouvez consulter la fiche de suivi du projet en entreprise dans le JO n° 42 du 19/02/2013 texte numéro 39 à l'adresse suivante : http :// www. legifrance. gouv. fr/ jopdf/ common/ jo _ pdf. jsp ? numJO = 0 & dateJO = 20130219 & numTexte = 39 & pageDebut = 02807 & pageFin = 02809
