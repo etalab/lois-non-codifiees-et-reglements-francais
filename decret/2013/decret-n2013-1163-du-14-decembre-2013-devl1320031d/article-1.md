@@ -1,0 +1,11 @@
+# Article 1
+
+Sont classés en parc naturel régional, pour une durée de douze ans à compter de la date de publication du présent décret, sous la dénomination de " parc naturel régional des Caps et marais d'Opale " :
+
+1. Dans le département du Nord, en totalité les territoires des communes de Nieurlet, Noordpeene, Watten.
+
+2. Dans le département du Pas-de-Calais ;
+
+En totalité les territoires des communes de Acquin-Westbécourt, Affringues, Alembon, Alincthun, Alquines, Ambleteuse, Andres, Audembert, Audinghen, Audrehem, Audresselles, Baincthun, Bainghen, Balinghem, Bayenghem-les-Seninghem, Bayenghem-lez-Eperlecques, Bazinghen, Bellebrune, Belle-et-Houllefort, Beuvrequen, Bléquin, Boisdinghem, Bonningues-lès-Ardres, Bouquehault, Bournonville, Boursin, Bouvelinghem, Brunembert, Caffiers, Campagne-les-Guînes, Carly, Clairmarais, Clerques, Cléty, Colembert, Condette, Conteville-lès-Boulogne, Coulomby, Courset, Crémarest, Dannes, Desvres, Dohem, Doudeauville, Echinghen, Elnes, Eperlecques, Equihen-Plage, Escalles, Escœuilles, Esquerdes, Ferques, Fiennes, Guînes, Halinghen, Hallines, Hardinghen, Haut-Loquin, Helfaut, Henneveux, Herbinghen, Hermelinghen, Hervelinghen, Hesdigneul-les-Boulogne, Hesdin-l'Abbé, Hocquinghen, Houlle, Isques, Journy, La Capelle-lès-Boulogne, Lacres, Landrethun-le-Nord, Landrethun-lès-Ardres, Ledinghem, Leubringhen, Leulinghem, Leulinghen-Bernes, Le Wast, Licques, Longfossé, Longuenesse, Longueville, Lottinghen, Lumbres, Maninghen-Henne, Marquise, Menneville, Mentque-Nortbécourt, Moringhem, Moulle, Nabringhen, Nesles, Neufchâtel-Hardelot, Nielles-les-Bléquin, Nordausques, Nort-Leulinghem, Offrethun, Ouve-Wirquin, Pernes-lès-Boulogne, Pihem, Pittefaux, Polincove, Quelmes, Quercamps, Quesques, Questrecques, Rebergues, Recques-sur-Hem, Remilly-Wirquin, Réty, Rinxent, Rodelinghem, Ruminghem, Saint-Etienne-au-Mont, Saint-Inglevert, Saint-Martin-au-Laërt, Saint-Martin-Choquel, Saint-Omer, Salperwick, Samer, Sangatte, Sanghen, Selles, Seninghem, Senlecques, Serques, Setques, Surques, Tardinghen, Tatinghem, Tilques, Tingry, Tournehem-sur-la-Hem, Vaudringhem, Verlincthun, Vieil-Moutier, Wacquinghen, Wavrans-sur-l'Aa, Wierre-au-Bois, Wierre-Effroy, Wimereux, Wimille, Wirwignes, Wismes, Wisques, Wissant, Wizernes, Zouafques, Zudausques ;
+
+En partie les territoires des communes de Arques, Blendecques.
