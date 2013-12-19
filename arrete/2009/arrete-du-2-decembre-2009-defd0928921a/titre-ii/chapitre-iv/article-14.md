@@ -1,6 +1,6 @@
 # Article 14
 
-La direction des opérations a autorité sur les organismes extérieurs suivants dont les missions et l'organisation sont fixées par instruction :
+La direction des opérations a autorité directe sur les organismes extérieurs suivants dont les missions et l'organisation sont fixées par instruction :
 
 1. Le service centralisé des achats ;
 

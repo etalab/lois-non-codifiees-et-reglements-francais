@@ -6,6 +6,8 @@ la sous-direction de la politique d'exportation :
 
 2. Prépare, actualise et met en œuvre le plan national stratégique pour les exportations de défense ;
 
+2-1. Assure le secrétariat de la commission interministérielle d'appui aux contrats internationaux dans son format propre aux exportations de défense ;
+
 3. Conduit, dans les domaines de compétence du ministère de la défense et en liaison avec les organismes concernés de ce ministère, les négociations à caractère général liées aux exportations de défense et assure les relations correspondantes avec les organismes gouvernementaux ;
 
 4. Propose et met en œuvre toute action propre à promouvoir les matériels de défense français à l'étranger ainsi que les services associés ;

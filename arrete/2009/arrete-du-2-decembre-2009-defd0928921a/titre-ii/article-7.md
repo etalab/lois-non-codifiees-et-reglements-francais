@@ -8,4 +8,4 @@ Pour l'exercice des attributions fixées par le décret du 5 octobre 2009 susvis
 
 3. La sous-direction des affaires générales et de la qualité ;
 
-Elle a autorité sur les organismes extérieurs dont la liste est précisée à l'article 14.
+Elle a autorité directe sur les organismes extérieurs dont la liste est précisée à l'article 14.

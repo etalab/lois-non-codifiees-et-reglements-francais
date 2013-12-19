@@ -16,4 +16,6 @@ La sous-direction du soutien à la production :
 
 7. Fait assurer la mise en œuvre, dans la direction, de la réglementation en matière de sécurité pyrotechnique et en contrôle l'application ;
 
-8. Anime la démarche de qualité interne, conduit ou fait conduire les actions de contrôle interne de la direction.
+8. Anime la démarche de qualité interne, conduit ou fait conduire les actions de contrôle interne de la direction ;
+
+9. Prépare, pour le délégué général pour l'armement, les autorisations ou les déclarations en matière de protection et contrôle des matières nucléaires, autres que celles affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion.
