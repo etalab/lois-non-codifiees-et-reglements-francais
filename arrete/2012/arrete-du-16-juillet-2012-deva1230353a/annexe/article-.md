@@ -14,13 +14,11 @@ Jusqu'au 31 mai 2013 :
 
 Cayenne―Saint-Domingue (République dominicaine).
 
-Jusqu'au 30 novembre 2013 :
+Jusqu'au 30 novembre 2018 :
 
-Cayenne―Port-au-Prince (Haïti) ;
+Fort-de-France - Port-au-Prince (Haïti) ;
 
-Fort-de-France―Port-au-Prince (Haïti) ;
-
-Pointe-à-Pitre―Port-au-Prince (Haïti).
+Pointe-à-Pitre - Port-au-Prince (Haïti).
 
 Jusqu'au 28 février 2014 :
 
