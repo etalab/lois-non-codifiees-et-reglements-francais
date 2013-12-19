@@ -1102,7 +1102,6 @@
 - [Arrêté du 13 décembre 2012 (DEVK1239244A)](arrete-du-13-decembre-2012-devk1239244a)
 - [Arrêté du 13 décembre 2012 (DEVK1239245A)](arrete-du-13-decembre-2012-devk1239245a)
 - [Arrêté du 13 décembre 2012 (DEVK1239246A)](arrete-du-13-decembre-2012-devk1239246a)
-- [Arrêté du 13 décembre 2012 (EFIS1238443A)](arrete-du-13-decembre-2012-efis1238443a)
 - [Arrêté du 13 décembre 2012 (TRAT1241078A)](arrete-du-13-decembre-2012-trat1241078a)
 - [Arrêté du 13 décembre 2012 (TRAT1241767A)](arrete-du-13-decembre-2012-trat1241767a)
 - [Arrêté du 13 février 2012 (DEFH1202415A)](arrete-du-13-fevrier-2012-defh1202415a)
