@@ -52,4 +52,6 @@ V. ― Dans le cadre de l'exercice de ses missions :
 
 2° Contribue aux travaux de maîtrise des armements et de non-prolifération et signe les actes correspondants de sa compétence ;
 
-3° Exerce, pour le ministre de la défense, les attributions qui sont dévolues à ce dernier dans le domaine des essais et des réceptions d'aéronefs.
+3° Exerce, pour le ministre de la défense, les attributions qui sont dévolues à ce dernier dans le domaine des essais et des réceptions d'aéronefs ;
+
+4° Assure, pour les établissements placés sous son autorité, la protection et le contrôle des matières nucléaires, autres que celles affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion, au sens des articles R. 1333-1 et suivants du code de la défense.
