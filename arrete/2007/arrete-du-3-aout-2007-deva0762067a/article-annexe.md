@@ -34,7 +34,9 @@ Toulouse-Punta Cana (République dominicaine).
 
 Jusqu'au 31 décembre 2013 :
 
-Paris-Nassau (Bahamas).
+Paris-Nassau (Bahamas) ;
+
+Paris-Dzaoudzi (Mayotte).
 
 Jusqu'au 31 mars 2014 :
 

@@ -704,7 +704,6 @@
 - [Arrêté du 10 décembre 2009 (DEVS0927451A)](arrete-du-10-decembre-2009-devs0927451a)
 - [Arrêté du 10 décembre 2009 (DEVU0927946A)](arrete-du-10-decembre-2009-devu0927946a)
 - [Arrêté du 10 décembre 2009 (JUSB0930020A)](arrete-du-10-decembre-2009-jusb0930020a)
-- [Arrêté du 10 décembre 2009 (JUSF0930349A)](arrete-du-10-decembre-2009-jusf0930349a)
 - [Arrêté du 10 décembre 2009 (JUSF0930350A)](arrete-du-10-decembre-2009-jusf0930350a)
 - [Arrêté du 10 décembre 2009 (JUSF0930351A)](arrete-du-10-decembre-2009-jusf0930351a)
 - [Arrêté du 10 décembre 2009 (JUSF0930353A)](arrete-du-10-decembre-2009-jusf0930353a)
