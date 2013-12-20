@@ -9,6 +9,7 @@
 - [Décret n°2006-780 du 3 juillet 2006 (INTB0600134D)](decret-n2006-780-du-3-juillet-2006-intb0600134d)
 - [Décret n°2006-501 du 3 mai 2006 (FPPA0600034D)](decret-n2006-501-du-3-mai-2006-fppa0600034d)
 - [Décret n°2006-504 du 3 mai 2006 (INTB0600033D)](decret-n2006-504-du-3-mai-2006-intb0600033d)
+- [Décret n°2006-8 du 4 janvier 2006 (AGRS0502639D)](decret-n2006-8-du-4-janvier-2006-agrs0502639d)
 - [Décret n°2006-1118 du 5 septembre 2006 (INDI0608223D)](decret-n2006-1118-du-5-septembre-2006-indi0608223d)
 - [Décret n°97-446 du 5 mai 1997 (EQUT9700688D)](decret-n97-446-du-5-mai-1997-equt9700688d)
 - [Décret n°2006-1341 du 6 novembre 2006 (EQUG0601210D)](decret-n2006-1341-du-6-novembre-2006-equg0601210d)

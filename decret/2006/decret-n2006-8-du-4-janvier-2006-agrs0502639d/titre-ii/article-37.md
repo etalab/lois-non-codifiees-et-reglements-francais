@@ -1,0 +1,3 @@
+# Article 37
+
+Les ingénieurs des travaux agricoles, les ingénieurs des travaux ruraux et les ingénieurs des travaux des eaux et forêts qui ont été recrutés par la voie de l'examen professionnel ou de la liste d'aptitude prévus par les décrets portant statut particulier de leur corps dans les six années précédant la date de publication du présent décret peuvent demander dans un délai de six mois à compter de cette date à être reclassés dans le grade d'ingénieur de l'agriculture et de l'environnement dans les mêmes conditions que s'ils avaient été promus à cette même date et reclassés conformément aux dispositions de l'article 16.

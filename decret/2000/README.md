@@ -10,7 +10,6 @@
 - [Décret n°2000-194 du 3 mars 2000 (INTC0000059D)](decret-n2000-194-du-3-mars-2000-intc0000059d)
 - [Décret n°2000-967 du 3 octobre 2000 (EQUU0001322D)](decret-n2000-967-du-3-octobre-2000-equu0001322d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
-- [Décret n°96-1073 du 4 décembre 1996 (AGRA9602161D)](decret-n96-1073-du-4-decembre-1996-agra9602161d)
 - [Décret n°2000-497 du 5 juin 2000 (DEFP0001403D)](decret-n2000-497-du-5-juin-2000-defp0001403d)
 - [Décret n°2000-1196 du 6 décembre 2000 (ECOI0000505D)](decret-n2000-1196-du-6-decembre-2000-ecoi0000505d)
 - [Décret n°2000-200 du 6 mars 2000 (MAEF9910042D)](decret-n2000-200-du-6-mars-2000-maef9910042d)

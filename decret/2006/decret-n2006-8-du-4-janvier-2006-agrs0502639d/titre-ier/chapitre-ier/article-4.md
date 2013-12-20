@@ -1,0 +1,5 @@
+# Article 4
+
+Les membres du corps des ingénieurs de l'agriculture et de l'environnement exercent leurs fonctions dans les services du ministère de l'agriculture ou du ministère de l'environnement, dans les établissements publics de l'Etat qui en dépendent ou dans les établissements publics locaux d'enseignement et de formation professionnelle mentionnés à l'article L. 811-8 du code rural et de la pêche maritime.
+
+Ils peuvent également exercer leurs fonctions dans les services d'autres ministères ou dans d'autres établissements publics de l'Etat. Dans ces cas, des arrêtés conjoints du ministre chargé de l'agriculture, du ministre chargé de l'environnement et du ministre intéressé déterminent les administrations et les établissements publics de l'Etat dans lesquels les ingénieurs de l'agriculture et de l'environnement sont placés en position d'activité et leur affectation est prononcée par arrêté du ministre chargé de l'agriculture, après avis du ministre ou du directeur de l'établissement public intéressé.

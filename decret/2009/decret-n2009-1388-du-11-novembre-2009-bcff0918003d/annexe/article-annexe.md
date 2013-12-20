@@ -97,3 +97,5 @@ Techniciens de la recherche de l'Institut national de recherche en informatique 
 Techniciens de la recherche de l'Institut national de la santé et de la recherche médicale.
 
 Techniciens sanitaires et de sécurité sanitaire.
+
+Techniciens supérieurs forestiers de l'Office national des forêts
