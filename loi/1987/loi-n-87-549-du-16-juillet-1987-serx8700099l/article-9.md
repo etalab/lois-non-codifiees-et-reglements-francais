@@ -1,6 +1,6 @@
 # Article 9
 
-Une allocation de 60 000 F est versée, à raison de 25 000 F en 1989 et 1990, et de 10 000 F en 1991, aux anciens harkis, moghaznis et personnels des diverses formations supplétives ayant servi en Algérie, qui ont fixé leur domicile en France.
+Une allocation de 60 000 F est versée, à raison de 25 000 F en 1989 et 1990, et de 10 000 F en 1991, aux anciens harkis, moghaznis et personnels des diverses formations supplétives de statut civil de droit local ayant servi en Algérie, qui ont fixé leur domicile en France.
 
 En cas de décès de l'intéressé, l'allocation est versée sous les mêmes conditions au conjoint survivant.
 

@@ -6,7 +6,7 @@ En cas d'insuffisance des effectifs, la représentation du personnel d'un établ
 
 II.-Les comités techniques connaissent des questions relatives à l'organisation et au fonctionnement des services, des questions relatives aux effectifs, aux emplois et aux compétences, des projets de statuts particuliers ainsi que des questions prévues par un décret en Conseil d'Etat. Les incidences des principales décisions à caractère budgétaire sur la gestion des emplois font l'objet d'une information des comités techniques.
 
-Les comités techniques établis dans les services du ministère de la défense, ou du ministère de l'intérieur pour la gendarmerie nationale, employant des personnels civils ne sont pas consultés sur les questions relatives à l'organisation et au fonctionnement des services.
+Les comités techniques établis dans les services du ministère de la défense, ou du ministère de l'intérieur pour la gendarmerie nationale, employant des personnels civils ne sont pas consultés sur les questions relatives à l'organisation et au fonctionnement des organismes militaires à vocation opérationnelle, dont la liste est fixée par décret en Conseil d'Etat.
 
 III.-Les comités techniques comprennent des représentants de l'administration et des représentants du personnel. Seuls les représentants du personnel sont appelés à prendre part aux votes.
 
