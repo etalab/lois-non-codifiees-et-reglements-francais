@@ -26,7 +26,6 @@
 - [Arrêté du 2 décembre 2011 (DEVT1104552A)](arrete-du-2-decembre-2011-devt1104552a)
 - [Arrêté du 2 décembre 2011 (EFIU1028370A)](arrete-du-2-decembre-2011-efiu1028370a)
 - [Arrêté du 2 décembre 2011 (ESRR1132332A)](arrete-du-2-decembre-2011-esrr1132332a)
-- [Arrêté du 2 décembre 2011 (OMEO1132879A)](arrete-du-2-decembre-2011-omeo1132879a)
 - [Arrêté du 2 février 2011 (BCRB1100582A)](arrete-du-2-fevrier-2011-bcrb1100582a)
 - [Arrêté du 2 février 2011 (BCRE1102806A)](arrete-du-2-fevrier-2011-bcre1102806a)
 - [Arrêté du 2 février 2011 (DEVA1103124A)](arrete-du-2-fevrier-2011-deva1103124a)
