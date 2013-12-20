@@ -1,3 +1,0 @@
-# Article 26
-
-Pour les officiers admis au concours qui sont titulaires d'un diplôme d'ingénieur de l'Ecole nationale supérieure du pétrole et des moteurs dans l'une des options : « produits pétroliers et moteurs » ou « économie et gestion de l'entreprise », le stage vise à leur faire acquérir en une année scolaire un diplôme d'ingénieur ou du grade de master dans un établissement délivrant un diplôme intéressant le service des essences des armées. Ceux-ci peuvent aussi effectuer, le cas échéant, leur année scolaire au sein de l'Ecole nationale supérieure du pétrole et des moteurs dans une option différente de celle au titre de laquelle ils ont été diplômés.
