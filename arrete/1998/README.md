@@ -743,7 +743,6 @@
 - [Arrêté du 26 juin 1998 (EQUU9800664A)](arrete-du-26-juin-1998-equu9800664a)
 - [Arrêté du 26 juin 1998 (FPPA9810015A)](arrete-du-26-juin-1998-fppa9810015a)
 - [Arrêté du 26 juin 1998 (MAEA9820261A)](arrete-du-26-juin-1998-maea9820261a)
-- [Arrêté du 26 juin 1998 (MCCB9800454A)](arrete-du-26-juin-1998-mccb9800454a)
 - [Arrêté du 26 juin 1998 (MESH9821895A)](arrete-du-26-juin-1998-mesh9821895a)
 - [Arrêté du 26 juin 1998 (MESS9822183A)](arrete-du-26-juin-1998-mess9822183a)
 - [Arrêté du 26 mars 1998 (ECOA9730015A)](arrete-du-26-mars-1998-ecoa9730015a)

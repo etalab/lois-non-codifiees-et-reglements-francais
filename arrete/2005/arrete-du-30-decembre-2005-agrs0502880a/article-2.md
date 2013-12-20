@@ -110,7 +110,7 @@ Les montants de base annuels de la prime spéciale et de résultats prévue aux 
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Technicien opérationnel forestier (tous grades) </p>
+<p>B2 </p>
 </td>
 <td valign="top" width="227">
 <p align="center">5 065</p>
@@ -175,4 +175,4 @@ Les montants de base annuels de la prime spéciale et de résultats prévue aux 
 </tbody>
 </table>
 
-Lorsque des postes classés A0 ou A1 sont tenus par des techniciens supérieurs forestiers, le montant de base de la prime spéciale et de résultats est de 8 600 Euros.
+Lorsque des postes classés A0 ou supérieurs sont tenus par des techniciens supérieurs forestiers, le montant de base de la prime spéciale et de résultats est de 8 600 Euros.

@@ -87,7 +87,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Chef technicien </p>
+<p>Chef technicien forestier  </p>
 </td>
 <td valign="top" width="227">
 <p align="center">5</p>
@@ -95,7 +95,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Technicien principal </p>
+<p align="left">Technicien forestier principal</p>
 </td>
 <td valign="top" width="227">
 <p align="center">5</p>
@@ -103,7 +103,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Technicien </p>
+<p align="left">Technicien forestier</p>
 </td>
 <td valign="top" width="227">
 <p align="center">4,5</p>
@@ -115,14 +115,6 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </td>
 <td valign="top" width="227">
 <p align="center">4,5</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p align="left">Technicien opérationnel forestier (tous grades) </p>
-</td>
-<td valign="top" width="227">
-<p align="center">3</p>
 </td>
 </tr>
 <tr>
