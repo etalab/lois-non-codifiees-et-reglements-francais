@@ -2166,13 +2166,13 @@ Composition du conseil de la fonction militaire de la gendarmerie
 <p>1.2. Officiers des autres corps (**) </p>
 </td>
 <td>
-<p align="center">1 (a) </p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">1 (a) </p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">3 (a) </p>
+<p align="center">3 </p>
 </td>
 <td>
 <p align="center">0 </p>
@@ -2413,7 +2413,7 @@ Composition du conseil de la fonction militaire de la gendarmerie
 <p>- 2 représentants, de groupes différents, pour l'ensemble des personnels des organismes centraux (DGGN, CAGN, CTGN) et des satellites ;</p>
 <p>- 2 représentants, de groupes différents, pour toutes les autres formations.</p>
 <p>(**) Autres catégories : tirage au sort au niveau national.</p>
-<p>(a) Ce poste doit être attribué en priorité à un officier du corps technique et administratif de la gendarmerie.</p>
+<p>(a) Supprimé.</p>
 <p>(b) A défaut, sous-officier supérieur CSTAGN.</p>
 <p>Nota. - Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat. </p>
 </td>
