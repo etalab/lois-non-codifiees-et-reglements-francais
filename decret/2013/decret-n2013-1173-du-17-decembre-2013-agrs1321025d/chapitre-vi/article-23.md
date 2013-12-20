@@ -1,0 +1,5 @@
+# Article 23
+
+I. ― Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de technicien du corps des techniciens opérationnels forestiers de l'Office national des forêts sont maintenus en fonctions et ont vocation à être titularisés dans le grade de technicien forestier du corps des techniciens supérieurs forestiers de l'Office national des forêts régi par le présent décret.
+
+II. ― Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de technicien du corps des techniciens supérieurs forestiers de l'Office national des forêts régi par le décret du 4 décembre 1996 susmentionné sont maintenus en fonction et ont vocation à être titularisés dans le grade de technicien forestier principal du corps des techniciens supérieurs forestiers de l'Office national des forêts régi par le présent décret.

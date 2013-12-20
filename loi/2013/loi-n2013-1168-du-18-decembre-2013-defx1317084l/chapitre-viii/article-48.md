@@ -1,0 +1,3 @@
+# Article 48
+
+Jusqu'au 31 décembre 2019, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense avant le 31 décembre 2008 a lieu soit par adjudication publique, soit à l'amiable, selon des modalités définies par décret en Conseil d'Etat. L'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense après le 31 décembre 2008 et compris dans un site ayant fait l'objet d'une décision de restructuration prise par ce ministre a lieu dans les mêmes conditions jusqu'au 31 décembre 2019. Le décret mentionné à la première phrase du présent article précise les cas dans lesquels cette aliénation peut être consentie sans publicité ni mise en concurrence.
