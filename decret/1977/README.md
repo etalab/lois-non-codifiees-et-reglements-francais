@@ -39,7 +39,6 @@
 - [Décret n°77-962 du 11 août 1977](decret-n77-962-du-11-aout-1977)
 - [Décret n°77-493 du 11 mai 1977](decret-n77-493-du-11-mai-1977)
 - [Décret n°77-494 du 11 mai 1977](decret-n77-494-du-11-mai-1977)
-- [Décret n°77-1067 du 12 septembre 1977](decret-n77-1067-du-12-septembre-1977)
 - [Décret n°77-44 du 12 janvier 1977](decret-n77-44-du-12-janvier-1977)
 - [Décret n°69-662 du 13 juin 1969](decret-n69-662-du-13-juin-1969)
 - [Décret n°77-810 du 13 juillet 1977](decret-n77-810-du-13-juillet-1977)
