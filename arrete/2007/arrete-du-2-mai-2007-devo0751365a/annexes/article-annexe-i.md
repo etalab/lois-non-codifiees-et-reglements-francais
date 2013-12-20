@@ -56,33 +56,45 @@ Pour ce qui concerne les paramètres physico-chimiques :
 
 patrimoniale des réseaux d'eau potable
 
-La valeur de cet indice est comprise entre 0 et 100, avec le barème suivant :
+La valeur de cet indice est comprise entre 0 et 120, avec le barème suivant :
 
-0 point : absence de plan du réseau ou plans couvrant moins de 95 % du linéaire estimé du réseau de desserte ;
+0 point : absence de plan des réseaux de transport et de distribution d'eau ou plan incomplet ;
 
-10 points : existence d'un plan du réseau couvrant au moins 95 % du linéaire estimé du réseau de desserte ;
++ 10 points : existence d'un plan des réseaux de transport et de distribution d'eau potable mentionnant, s'ils existent, la localisation des ouvrages principaux (ouvrage de captage, station de traitement, station de pompage, réservoir) et des dispositifs généraux de mesures que constituent par exemple le compteur du volume d'eau prélevé sur la ressource en eau, le compteur en aval de la station de production d'eau, ou les compteurs généraux implantés en amont des principaux secteurs géographiques de distribution d'eau potable.
 
-20 points : mise à jour du plan au moins annuelle.
++ 5 points : définition d'une procédure de mise à jour du plan des réseaux afin de prendre en compte les travaux réalisés depuis la dernière mise à jour (extension, réhabilitation ou renouvellement de réseaux) ainsi que les données acquises notamment en application de l'article R. 554-34 du code de l'environnement. La mise à jour est réalisée au moins chaque année.
 
-Les 20 points ci-dessus doivent être obtenus avant que le service puisse bénéficier des points supplémentaires suivants :
+L'obtention des 15 points précédents est nécessaire avant de pouvoir ajouter les points suivants :
 
-+ 10 : informations structurelles complètes sur chaque tronçon (diamètre, matériau) ;
++ 10 points : existence d'un inventaire des réseaux identifiant les tronçons de réseaux avec mention du linéaire de la canalisation, de la catégorie de l'ouvrage définie en application de l'article R. 554-2 du code de l'environnement ainsi que de la précision des informations cartographiques définie en application du V de l'article R. 554-23 du même code et pour au moins la moitié du linéaire total des réseaux, les informations sur les matériaux et les diamètres des canalisations de transport et de distribution.
 
-+ 10 : connaissance pour chaque tronçon de l'âge des canalisations ;
+Lorsque les informations sur les matériaux et les diamètres sont rassemblées pour la moitié du linéaire total des réseaux, un point supplémentaire est attribué chaque fois que sont renseignés 10 % supplémentaires du linéaire total, jusqu'à 90 %. Le cinquième point est accordé lorsque les informations sur les matériaux et les diamètres sont rassemblées pour au moins 95 % du linéaire total des réseaux.
 
-+ 10 : localisation et description des ouvrages annexes (vannes de sectionnement, ventouses, compteurs de sectorisation...) et des servitudes ;
+La procédure de mise à jour du plan des réseaux est complétée en y intégrant la mise à jour de l'inventaire des réseaux.
 
-+ 10 : localisation des branchements sur la base du plan cadastral ;
++ 10 points : l'inventaire des réseaux mentionne la date ou la période de pose les tronçons identifiés à partir du plan des réseaux, la moitié du linéaire total des réseaux étant renseigné.
 
-+ 10 : localisation et identification des interventions (réparations, purges, travaux de renouvellement) ;
+Lorsque les informations sur les dates ou périodes de pose sont rassemblées pour la moitié du linéaire total des réseaux, un point supplémentaire est attribué chaque fois que sont renseignés 10 % supplémentaires du linéaire total, jusqu'à 90 %. Le cinquième point est accordé lorsque les informations sur les dates ou périodes de pose sont rassemblées pour au moins 95 % du linéaire total des réseaux.
 
-+ 10 : existence et mise en oeuvre d'un programme pluriannuel de renouvellement des branchements ;
+Un total de 40 points est nécessaire pour considérer que le service dispose du descriptif détaillé des ouvrages de transport et de distribution d'eau potable mentionné à l'article D. 2224-5-1 du code général des collectivités locales. Ces 40 points doivent être obtenus pour que le service puisse bénéficier des points supplémentaires suivants :
 
-+ 10 : existence d'un plan pluriannuel de renouvellement des canalisations (programme détaillé assorti d'un estimatif portant sur au moins 3 ans) ;
++ 10 points : le plan des réseaux précise la localisation des ouvrages annexes (vannes de sectionnement, ventouses, purges, poteaux incendie...) et, s'il y a lieu, des servitudes instituées pour l'implantation des réseaux ;
 
-+ 10 : mise en oeuvre d'un plan pluriannuel de renouvellement des canalisations.
++ 10 points : existence et mise à jour au moins annuelle d'un inventaire des pompes et équipements électromécaniques existants sur les ouvrages de stockage et de distribution ;
 
-Les grands ouvrages-réservoir, stations de traitement, pompages...-ne sont pas pris en compte pour le calcul de cet indice.
++ 10 points : le plan des réseaux mentionne la localisation des branchements ;
+
++ 10 points : un document mentionne pour chaque branchement les caractéristiques du ou des compteurs d'eau incluant la référence du carnet métrologique et la date de pose du compteur ;
+
++ 10 points : un document identifie les secteurs où ont été réalisées des recherches de pertes d'eau, la date de ces recherches et la nature des réparations ou des travaux effectués à leur suite ;
+
++ 10 points : maintien à jour d'un document mentionnant la localisation des autres interventions sur le réseau telles que réparations, purges, travaux de renouvellement... ;
+
++ 10 points : existence et mise en œuvre d'un programme pluriannuel de renouvellement des canalisations (programme détaillé assorti d'un estimatif portant sur au moins trois ans) ;
+
++ 5 points : existence et mise en œuvre d'une modélisation des réseaux, portant sur au moins la moitié du linéaire de réseaux et permettant notamment d'apprécier les temps de séjour de l'eau dans les réseaux et les capacités de transfert des réseaux.
+
+La description des grands ouvrages (puits, réservoirs, stations de traitement, pompages...) n'est pas prise en compte pour le calcul de cet indice.
 
 3. Rendement du réseau de distribution
 
@@ -146,31 +158,43 @@ On estime qu'un abonné est desservi par un réseau d'assainissement dès lors q
 
 des réseaux de collecte des eaux usées
 
-La valeur de cet indice est comprise entre 0 et 100, avec le barème suivant :
+La valeur de cet indice est comprise entre 0 et 120, avec le barème suivant :
 
-0 point : absence de plans du réseau ou plans couvrant moins de 95 % du linéaire estimé du réseau de collecte hors branchements ;
+0 point : absence de plan des réseaux de collecte et de transport des eaux usées ou plan très incomplet ;
 
-10 points : existence d'un plan du réseau couvrant au moins 95 % du linéaire estimé du réseau de collecte hors branchements ;
++ 10 points : existence d'un plan des réseaux de collecte et de transport des eaux usées mentionnant la localisation des ouvrages annexes (postes de relèvement ou de refoulement, déversoirs d'orage...), et s'ils existent, des points d'autosurveillance du fonctionnement des réseaux d'assainissement ;
 
-20 points : mise à jour du plan au moins annuelle.
++ 5 points : définition d'une procédure de mise à jour du plan afin de prendre en compte les travaux réalisés depuis la dernière mise à jour (extension, réhabilitation ou renouvellement de réseaux) ainsi que les données acquises notamment en application de l'article R. 554-34 du code de l'environnement. La mise à jour est réalisée au moins chaque année.
 
-Les 20 points ci-dessus doivent être obtenus avant que le service puisse bénéficier des points supplémentaires suivants :
+L'obtention des 15 points précédents est nécessaire avant de pouvoir ajouter les points suivants :
 
-+ 10 : informations structurelles complètes sur chaque tronçon (diamètre, matériau, année approximative de pose) ;
++ 10 points : existence d'un inventaire des réseaux identifiant les tronçons de réseaux avec mention du linéaire de la canalisation, de la catégorie de l'ouvrage définie en application de l'article R. 554-2 du code de l'environnement ainsi que de la précision des informations cartographiques définie en application du V de l'article R. 554-23 du même code et, pour au moins la moitié du linéaire total des réseaux, les informations sur les matériaux et les diamètres des canalisations de collecte et de transport des eaux usées.
 
-+ 10 : existence d'une information géographique précisant l'altimétrie des canalisations ;
+Lorsque les informations sur les matériaux et les diamètres sont rassemblées pour la moitié du linéaire total des réseaux, un point supplémentaire est attribué chaque fois que sont renseignés 10 % supplémentaires du linéaire total, jusqu'à 90 %. Le cinquième point est accordé lorsque les informations sur les matériaux et les diamètres sont rassemblées pour au moins 95 % du linéaire total des réseaux.
 
-+ 10 : localisation et description de tous les ouvrages annexes (postes de relèvement, déversoirs...) ;
+La procédure de mise à jour du plan des réseaux est complétée en y intégrant la mise à jour de l'inventaire des réseaux.
 
-+ 10 : dénombrement des branchements pour chaque tronçon du réseau (nombre de branchements entre deux regards de visite) ;
++ 10 points : l'inventaire des réseaux mentionne pour chaque tronçon la date ou la période de pose des tronçons identifiés à partir du plan des réseaux, la moitié du linéaire total des réseaux étant renseigné.
 
-+ 10 : définition et mise en oeuvre d'un plan pluriannuel d'enquête et d'auscultation du réseau ;
+Lorsque les informations sur les dates ou périodes de pose sont rassemblées pour la moitié du linéaire total des réseaux, un point supplémentaire est attribué chaque fois que sont renseignés 10 % supplémentaires du linéaire total, jusqu'à 90 %. Le cinquième point est accordé lorsque les informations sur les dates ou périodes de pose sont rassemblées pour au moins 95 % du linéaire total des réseaux.
 
-+ 10 : localisation et identification des interventions (curage curatif, désobstruction, réhabilitation, renouvellement) ;
+Un total de 40 points est nécessaire pour considérer que le service dispose du descriptif détaillé des ouvrages de collecte et de transport des eaux usées mentionné à l'article D. 2224-5-1 du code général des collectivités locales. Ils doivent être obtenus pour que le service puisse bénéficier des points supplémentaires suivants :
 
-+ 10 : existence d'un plan pluriannuel de travaux de réhabilitation et de renouvellement (programme détaillé assorti d'un estimatif chiffré portant sur au moins 3 ans) ;
++ 10 points : le plan des réseaux comporte une information géographique précisant l'altimétrie des canalisations, la moitié au moins du linéaire total des réseaux étant renseignée.
 
-+ 10 : mise en oeuvre d'un plan pluriannuel de travaux de réhabilitation et de renouvellement.
+Lorsque les informations disponibles sur l'altimétrie des canalisations sont rassemblées pour la moitié du linéaire total des réseaux, un point supplémentaire est attribué chaque fois que sont renseignés 10 % supplémentaires du linéaire total, jusqu'à 90 %. Le cinquième point est accordé lorsque les informations sur l'altimétrie des canalisations sont rassemblées pour au moins 95 % du linéaire total des réseaux.
+
++ 10 points : localisation et description des ouvrages annexes (postes de relèvement, postes de refoulement, déversoirs...).
+
++ 10 points : existence et mise à jour au moins annuelle d'un inventaire des équipements électromécaniques existants sur les ouvrages de collecte et de transport des eaux usées ;
+
++ 10 points : le plan ou l'inventaire mentionne le nombre de branchements pour chaque tronçon du réseau (nombre de branchements entre deux regards de visite) ;
+
++ 10 points : l'inventaire récapitule et localise les interventions et travaux réalisés sur chaque tronçon de réseaux (curage curatif, désobstruction, réhabilitation, renouvellement...) ;
+
++ 10 points : mise en œuvre d'un programme pluriannuel d'enquête et d'auscultation du réseau, un document rendant compte de sa réalisation. Y sont mentionnés les dates des inspections de l'état des réseaux, notamment par caméra, et les réparations ou travaux effectuées à leur suite.
+
++ 10 points : mise en œuvre d'un programme pluriannuel de travaux de réhabilitation et de renouvellement (programme détaillé assorti d'un estimatif chiffré portant sur au moins trois ans).
 
 3. Conformité de la collecte des effluents, des équipements des stations d'épuration et de la performance des ouvrages d'épuration
 
@@ -240,9 +264,9 @@ A.-Eléments obligatoires pour l'évaluation de la mise en oeuvre du service pub
 
 + 20 : application d'un règlement du service public d'assainissement non collectif approuvé par une délibération ;
 
-+ 30 : mise en oeuvre de la vérification de conception et d'exécution des installations réalisées ou réhabilitées depuis moins de huit ans ;
++ 30 : pour les installations neuves ou à réhabiliter, la délivrance de rapports de vérification de l'exécution évaluant la conformité de l'installation au regard des prescriptions réglementaires, conformément à l'article 3 de l'arrêté du 27 avril 2012 relatif à l'exécution de la mission de contrôle des installations d'assainissement non collectif.
 
-+ 30 : mise en oeuvre du diagnostic de bon fonctionnement et d'entretien des autres installations ;
++ 30 : pour les autres installations, la délivrance de rapports de visite établis dans le cadre de la mission de contrôle du fonctionnement et de l'entretien, conformément à l'article 4 de l'arrêté susmentionné.
 
 B.-Eléments facultatifs du service public d'assainissement non collectif :
 
@@ -254,4 +278,4 @@ B.-Eléments facultatifs du service public d'assainissement non collectif :
 
 2. Taux de conformité des dispositifs d'assainissement non collectif
 
-L'indicateur mesure le niveau de conformité du parc de dispositifs d'assainissement non collectif en zone d'assainissement non collectif. Exprimé en pourcentage, il est égal au rapport entre le nombre d'installations contrôlées jugées conformes ou ayant fait l'objet d'une mise en conformité connue et validée par le service à la fin de l'année considérée et le nombre total d'installations contrôlées depuis la création du service.
+L'indicateur est le rapport, exprimé en pourcentage, entre, d'une part, le nombre d'installations déclarées conformes suite aux contrôles prévus à l'article 3 de l'arrêté du 27 avril 2012 relatif à l'exécution de la mission de contrôle des installations d'assainissement non collectif auquel est ajouté le nombre d'installations ne présentant pas de dangers pour la santé des personnes ou de risques avérés de pollution de l'environnement suite aux contrôles prévus à l'article 4 du même arrêté et, d'autre part, le nombre total d'installations contrôlées depuis la création du service.
