@@ -1,3 +1,0 @@
-# Article 421-1
-
-Sont soumis aux dispositions du présent chapitre les fonds communs de créance, constitués avant la date de publication de l'ordonnance n° 2008-556 du 13 juin 2008 transposant la directive 2005/68/ CE du Parlement européen et du Conseil du 16 novembre 2005 relative à la réassurance et réformant le cadre juridique des fonds communs de créance, régis par les articles L. 214-43 à L. 214-49, R. 214-92 à R. 214-115, R. 732-6, R. 742-6, R. 752-6 et R. 762-6 du code monétaire et financier, dans leur rédaction antérieure à cette date, sauf modifications de leur règlement destinées à les soumettre aux dispositions législatives et réglementaires applicables en qualité de fonds communs de titrisation.
