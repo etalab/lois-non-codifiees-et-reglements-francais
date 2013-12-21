@@ -377,6 +377,7 @@
 - [Décret n°2013-916 du 14 octobre 2013 (AFSH1313294D)](decret-n2013-916-du-14-octobre-2013-afsh1313294d)
 - [Décret n°2013-917 du 14 octobre 2013 (AFSS1313611D)](decret-n2013-917-du-14-octobre-2013-afss1313611d)
 - [Décret n°2013-918 du 14 octobre 2013 (RDFF1305090D)](decret-n2013-918-du-14-octobre-2013-rdff1305090d)
+- [Décret n°69-942 du 14 octobre 1969](decret-n69-942-du-14-octobre-1969)
 - [Décret n°86-583 du 14 mars 1986](decret-n86-583-du-14-mars-1986)
 - [Décret n°2013-395 du 14 mai 2013 (JUSX1311608D)](decret-n2013-395-du-14-mai-2013-jusx1311608d)
 - [Décret n°2013-1031 du 15 novembre 2013 (DEVR1316323D)](decret-n2013-1031-du-15-novembre-2013-devr1316323d)
