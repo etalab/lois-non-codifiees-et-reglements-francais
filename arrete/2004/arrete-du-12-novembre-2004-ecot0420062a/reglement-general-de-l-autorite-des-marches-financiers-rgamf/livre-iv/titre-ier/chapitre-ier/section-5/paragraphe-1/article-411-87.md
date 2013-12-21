@@ -2,7 +2,7 @@
 
 Lorsque l'OPCVM maître et l'OPCVM nourricier sont agréés par l'AMF, l'accord entre ces deux OPCVM est soumis au droit français et relève de la compétence exclusive des juridictions françaises.
 
-Lorsque l'OPCVM maître ou l'OPCVM nourricier est établi dans un autre Etat membre de l'Union européenne, l'accord doit stipuler que le droit applicable est le droit du lieu où est établi l'OPCVM maître ou celui du lieu où est établi l'OPCVM nourricier et que les deux parties reconnaissent la compétence exclusive des juridictions de l'Etat dont le droit est désigné comme applicable à cet accord.
+Lorsque l'OPCVM maître ou l'OPCVM nourricier est établi dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, l'accord doit stipuler que le droit applicable est le droit du lieu où est établi l'OPCVM maître ou celui du lieu où est établi l'OPCVM nourricier et que les deux parties reconnaissent la compétence exclusive des juridictions de l'Etat dont le droit est désigné comme applicable à cet accord.
 
 Lorsque l'OPCVM maître et l'OPCVM nourricier sont gérés par la même société de gestion, l'accord peut être remplacé par des règles de conduite internes assurant le respect des exigences énoncées dans la présente section.
 

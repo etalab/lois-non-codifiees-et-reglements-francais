@@ -1,6 +1,6 @@
 # Article 314-82
 
-Les frais d'intermédiation mentionnés à l'article 314-79 rémunèrent des services qui présentent un intérêt direct pour les mandants ou l'OPCVM. Ces services font l'objet d'une convention écrite soumise aux articles 314-59 et 314-64.
+Les frais d'intermédiation mentionnés à l'article 314-79 rémunèrent des services qui présentent un intérêt direct pour les mandants ou le placement collectif mentionné à l'article 311-1 A. Ces services font l'objet d'une convention écrite soumise aux articles 314-59 et 314-64.
 
 Ces frais font l'objet d'une évaluation périodique par la société de gestion de portefeuille.
 
@@ -12,7 +12,7 @@ Lorsqu'elle a recours à des services d'aide à la décision d'investissement et
 
 Cette clé de répartition, formulée en pourcentage, est fondée sur une méthode établie selon des critères pertinents et objectifs. Elle peut être appliquée :
 
-1° Soit à l'ensemble des actifs d'une même catégorie d'OPCVM ;
+1° Soit à l'ensemble des actifs d'une même catégoried'un placement collectif mentionné à l'article 311-1 A ;
 
 2° Soit à l'ensemble des actifs gérés sous mandat par la société de gestion de portefeuille d'une même catégorie de mandants ;
 
@@ -22,4 +22,4 @@ Le document " Compte rendu relatif aux frais d'intermédiation " précise, le ca
 
 Il rend compte également des mesures mises en œuvre pour prévenir ou traiter les conflits d'intérêts éventuels dans le choix des prestataires.
 
-Ce document est disponible sur le site de la société de gestion de portefeuille lorsque cette dernière dispose d'un tel site. Le rapport de gestion de chaque OPCVM et le compte rendu de gestion de chaque portefeuille géré sous mandat renvoient alors expressément à ce document. Lorsque la société de gestion de portefeuille ne dispose pas d'un site, ce document est diffusé dans le rapport de gestion de chaque OPCVM et le compte rendu de gestion de chaque portefeuille, géré sous mandat.
+Ce document est disponible sur le site de la société de gestion de portefeuille lorsque cette dernière dispose d'un tel site. Le rapport de gestion de chaque placement collectif mentionné à l'article 311-1 A et le compte rendu de gestion de chaque portefeuille géré sous mandat renvoient alors expressément à ce document. Lorsque la société de gestion de portefeuille ne dispose pas d'un site, ce document est diffusé dans le rapport de gestion de chaque placement collectif mentionné à l'article 311-1 A et le compte rendu de gestion de chaque portefeuille, géré sous mandat.

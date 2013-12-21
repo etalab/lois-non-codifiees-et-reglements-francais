@@ -12,6 +12,6 @@ I. - Un OPCVM qui devient nourricier d'un OPCVM maître, ou encore un OPCVM nour
 
 Cette information est fournie au moins trente jours avant la date mentionnée au 3°.
 
-II. - Si l'OPCVM nourricier est un OPCVM étranger coordonné autorisé à commercialisation en France en application de la procédure de passeport, les informations mentionnées au I sont fournies dans la langue officielle ou dans l'une des langues officielles de l'Etat membre d'accueil de l'OPCVM nourricier, ou dans une langue acceptée par ses autorités compétentes. L'OPCVM nourricier est responsable de la réalisation de la traduction. Cette traduction est le reflet fidèle de l'original.
+II. - Si l'OPCVM nourricier est un OPCVM étranger autorisé à commercialisation en France en application de la procédure de passeport, les informations mentionnées au I sont fournies dans la langue officielle ou dans l'une des langues officielles de l'Etat d'accueil de l'OPCVM nourricier, ou dans une langue acceptée par ses autorités compétentes. L'OPCVM nourricier est responsable de la réalisation de la traduction. Cette traduction est le reflet fidèle de l'original.
 
 III. - L'OPCVM nourricier n'investit pas dans les parts de l'OPCVM maître concerné au-delà de la limite de 20 % de son actif prévue à l'article R. 214-24 du code monétaire et financier, avant la fin de la période de trente jours mentionnée au dernier alinéa du I.

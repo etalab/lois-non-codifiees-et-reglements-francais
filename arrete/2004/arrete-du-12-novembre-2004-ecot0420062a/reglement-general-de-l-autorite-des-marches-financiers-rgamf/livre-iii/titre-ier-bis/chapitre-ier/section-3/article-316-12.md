@@ -6,7 +6,7 @@ Sans préjudice de l'article L. 532-9 du code monétaire et financier, aucun agr
 
 2° Le gestionnaire a désigné un représentant légal établi en France ;
 
-3° Le représentant légal est, avec le gestionnaire, le point de contact du gestionnaire pour les porteurs de parts ou actionnaires des FIA concernés, pour l'Autorité européenne des marchés financiers ainsi que pour l'AMF et les autorités compétentes en ce qui concerne les activités pour lesquelles le gestionnaire est agréé dans l'Union européenne et est équipé de manière suffisante pour exercer sa fonction de vérification de conformité en vertu des dispositions législatives et réglementaire applicables aux sociétés de gestion de portefeuille ;
+3° Le représentant légal est, avec le gestionnaire, le point de contact du gestionnaire pour les porteurs de parts ou actionnaires des FIA concernés, pour l'Autorité européenne des marchés financiers ainsi que pour l'AMF et les autorités compétentes en ce qui concerne les activités pour lesquelles le gestionnaire est agréé dans l'Union européenne et est équipé de manière suffisante pour exercer sa fonction de vérification de conformité en vertu des dispositions législatives et réglementaires applicables aux sociétés de gestion de portefeuille ;
 
 4° Des modalités de coopération appropriées existent entre la France, les autorités compétentes de l'Etat membre d'origine des FIA de l'Union européenne concernés et les autorités de surveillance du pays tiers où le gestionnaire est établi afin d'assurer un échange d'informations efficace, qui permette à l'AMF et aux autorités compétentes d'exécuter les missions qui leur incombent ;
 

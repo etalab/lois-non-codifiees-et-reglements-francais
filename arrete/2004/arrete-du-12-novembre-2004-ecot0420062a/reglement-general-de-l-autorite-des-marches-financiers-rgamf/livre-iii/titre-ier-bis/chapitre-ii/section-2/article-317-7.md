@@ -12,7 +12,7 @@ Le programme d'activité contient également des informations sur les politiques
 
 4° Des informations sur les modalités prévues pour la désignation du dépositaire pour chaque FIA concerné ;
 
-5° Pour chaque FIA que la société de gestion de portefeuille gère ou prévoit de gérer, toute information supplémentaire mise à la disposition des investisseurs application du troisième alinéa de l'article L. 214-24-19 du code monétaire et financier et précisées par une instruction de l'AMF.
+5° Pour chaque FIA que la société de gestion de portefeuille gère ou prévoit de gérer, toute information supplémentaire mise à la disposition des investisseurs en application du troisième alinéa de l'article L. 214-24-19 du code monétaire et financier et précisées par une instruction de l'AMF.
 
 Outre la gestion de FIA, la société de gestion de portefeuille ne peut fournir que les services d'investissement de réception transmission d'ordres pour compte de tiers, de gestion de portefeuille pour compte de tiers et de conseil en investissement.
 

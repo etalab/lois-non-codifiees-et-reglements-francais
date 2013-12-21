@@ -1,6 +1,6 @@
 # TITRE Ier : Organismes de placement collectif en valeurs mobilières
 
-- [Chapitre Ier : Organismes de placement collectif en valeurs mobilières conformes à la directive 2009/65/ CE du 13 juillet 2009](chapitre-ier)
+- [Chapitre Ier : Organismes de placement collectif en valeurs mobilières](chapitre-ier)
 - [Chapitre II : Autres OPCVM](chapitre-ii)
 - [Chapitre III : Organismes de placement collectifs en valeurs mobilières réservés à certains investisseurs](chapitre-iii)
 - [Chapitre IV : Fonds communs de placement à risques](chapitre-iv)

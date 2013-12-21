@@ -34,7 +34,7 @@ Lorsque l'ordre est exécuté par tranches, le prestataire de services d'investi
 
 15° La mention, le cas échéant, que la contrepartie du client était le prestataire de services d'investissement lui-même, ou une personne quelconque membre du même groupe, ou un autre client du prestataire de services d'investissement, à moins que l'ordre n'ait été exécuté par l'intermédiaire d'un système de négociation facilitant la négociation anonyme.
 
-II. - Pour les ordres de souscription et de rachat de parts ou actions d'OPCVM, l'avis mentionné au 2° de l'article 314-86 contient les informations énumérées ci-après dans les cas pertinents :
+II. - Pour les ordres de souscription et de rachat de parts ou actions d'un placement collectif mentionné à l'article 311-1 A, l'avis mentionné au 2° de l'article 314-86 contient les informations énumérées ci-après dans les cas pertinents :
 
 1° L'identification de la société de gestion de portefeuille ;
 
@@ -44,7 +44,7 @@ II. - Pour les ordres de souscription et de rachat de parts ou actions d'OPCVM, 
 
 4° La date d'exécution ;
 
-5° L'identification de l'OPCVM ;
+5° L'identification du placement collectif mentionné à l'article 311-1 A ;
 
 6° La nature de l'ordre (souscription ou rachat) ;
 

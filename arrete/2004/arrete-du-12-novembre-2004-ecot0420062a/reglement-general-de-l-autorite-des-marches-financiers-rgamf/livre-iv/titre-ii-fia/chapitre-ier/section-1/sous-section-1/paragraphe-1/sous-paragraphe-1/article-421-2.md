@@ -1,0 +1,5 @@
+# Article 421-2
+
+Au plus tard vingt jours ouvrables après réception d'une notification complète conformément au I de l'article L. 214-24-1 du code monétaire et financier, l'AMF indique à la société de gestion de portefeuille si elle peut commencer à commercialiser le FIA qui a fait l'objet de la notification. L'AMF ne s'oppose à la commercialisation du FIA que si la gestion dudit FIA par la société de gestion de portefeuille n'est pas ou ne sera pas conforme aux dispositions législatives et réglementaires applicables aux sociétés de gestion de portefeuille ou aux livres II et V du code monétaire et financier. En cas de décision positive, la société de gestion de portefeuille peut commencer la commercialisation du FIA en France dès la date de notification à cet effet par l'AMF.
+
+Lorsque les autorités compétentes du FIA sont différentes de celle de la société de gestion de portefeuille, l'AMF informe également les autorités compétentes du FIA que la société de gestion de portefeuille peut commencer à commercialiser des parts ou des actions du FIA en France.

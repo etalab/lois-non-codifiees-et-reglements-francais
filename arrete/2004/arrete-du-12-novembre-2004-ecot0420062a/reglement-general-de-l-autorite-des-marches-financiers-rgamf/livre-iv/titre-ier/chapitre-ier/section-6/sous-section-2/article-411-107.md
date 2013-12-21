@@ -2,7 +2,7 @@
 
 Le document d'information clé pour l'investisseur, dont le contenu est précontractuel, remplit les conditions suivantes :
 
-1° Il comporte les mots " informations clés pour l'investisseur " mentionnés clairement en français.
+1° Il comporte les mots "informations clés pour l'investisseur" mentionnés clairement en français.
 
 2° Il contient des informations correctes, claires et non trompeuses et cohérentes avec les parties correspondantes du prospectus de l'OPCVM.
 
@@ -32,4 +32,4 @@ Ils sont tenus à jour.
 
 8° Il est présenté de telle manière qu'il puisse être compris par les clients non professionnels.
 
-9° Hormis sa traduction, il est utilisé sans adaptation ni ajout, dans tous les Etats membres de l'Union européenne où l'OPCVM a fait l'objet d'une notification pour la commercialisation de ses parts ou actions conformément à l'article 411-137.
+9° Hormis sa traduction, il est utilisé sans adaptation ni ajout, dans tous les Etats membres de l'Union européenne ou dans tous les Etats parties à l'accord sur l'Espace économique européen où l'OPCVM a fait l'objet d'une notification pour la commercialisation de ses parts ou actions conformément à l'article 411-137.

@@ -1,4 +1,4 @@
-# Section 1 : Missions du dépositaire d'organismes de placement collectif
+# Section 1 : Missions du dépositaire d'OPCVM
 
 - [Article 323-1](article-323-1.md)
 - [Article 323-2](article-323-2.md)

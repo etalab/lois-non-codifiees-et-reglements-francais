@@ -8,4 +8,4 @@ En cas de retrait de l'agrément du prestataire de services d'investissement, l'
 
 L'AMF peut, dans des circonstances exceptionnelles, exiger du prestataire de services d'investissement qu'il conserve tout ou partie de ces enregistrements sur une période plus longue, dans la limite justifiée par la nature de l'instrument ou de la transaction, si cela lui est indispensable pour exercer ses fonctions de contrôle.
 
-Lorsque la gestion de l'OPCVM est assurée par un nouveau prestataire de services d'investissement, celui-ci doit avoir accès aux enregistrements des cinq dernières années.
+Lorsque la gestion du placement collectif mentionné à l'article 311-1 A est assurée par un nouveau prestataire de services d'investissement, celui-ci doit avoir accès aux enregistrements des cinq dernières années.

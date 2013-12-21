@@ -1,0 +1,5 @@
+# Article 422-141
+
+Le projet de fusion, scission ou absorption est déposé au greffe du tribunal de commerce du siège des sociétés concernées.
+
+Le conseil d'administration ou le directoire de chacune des sociétés concernées communique le projet aux commissaires aux comptes de chaque société ou de chaque SPPICAV concernée au moins quarante-cinq jours avant les assemblées générales extraordinaires des SPPICAV se prononçant sur l'opération ou la date arrêtée par le conseil d'administration ou le directoire de la société de gestion de portefeuille des FPI concernés. L'opération est effectuée par les conseils d'administration ou les directoires des SPPICAV concernées, ou leurs mandataires ainsi que, le cas échéant, par les sociétés de gestion des FPI, sous le contrôle des commissaires aux comptes respectifs des OPCI concernés. Les rapports des contrôleurs légaux mentionnés à l'article R. 214-126 du code monétaire et financier sont tenus à la disposition des porteurs au plus tard huit jours avant la date arrêtée par les assemblées générales extraordinaires ou, dans le cas des FPI, par la ou les société (s) de gestion.

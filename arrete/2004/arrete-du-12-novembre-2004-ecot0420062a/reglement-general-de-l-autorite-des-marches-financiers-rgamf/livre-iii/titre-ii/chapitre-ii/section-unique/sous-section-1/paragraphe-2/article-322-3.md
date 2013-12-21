@@ -12,6 +12,6 @@ Pour la conservation des avoirs correspondant aux titres financiers mentionnés 
 
 -ouvre un ou plusieurs comptes auprès du dépositaire central, ou ouvre un ou plusieurs comptes auprès d'un autre teneur de compte-conservateur ou d'une entité étrangère ayant un statut équivalent ;
 
--ouvre un ou plusieurs comptes auprès de l'émetteur ou de la personne agissant pour le compte de ce dernier, si les titres financiers sont des parts ou actions d'OPCVM non admises aux opérations du dépositaire central.
+-ouvre un ou plusieurs comptes auprès de l'émetteur ou de la personne agissant pour le compte de ce dernier, si les titres financiers sont des parts ou actions d'un placement collectif non admises aux opérations du dépositaire central.
 
 3° A traiter les événements intervenant dans la vie des titres financiers conservés.

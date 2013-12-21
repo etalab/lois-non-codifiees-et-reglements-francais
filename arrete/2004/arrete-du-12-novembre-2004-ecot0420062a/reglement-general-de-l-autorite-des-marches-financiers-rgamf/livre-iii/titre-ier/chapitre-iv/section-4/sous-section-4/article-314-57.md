@@ -8,7 +8,7 @@ I. - Pour l'application du 1° du III de l'article L. 533-13 du code monétaire 
 
 3° Les obligations et autres titres de créance, à l'exception des obligations et autres titres de créance qui comportent un instrument dérivé ;
 
-4° Les parts ou actions d'OPCVM conformes à la directive 2009/65/ CE du 13 juillet 2009.
+4° Les parts ou actions d'OPCVM.
 
 II. - Pour l'application du 1° du III de l'article L. 533-13 du code monétaire et financier, un instrument financier est également réputé non complexe s'il remplit les conditions suivantes :
 

@@ -6,4 +6,3 @@
 - [Section 4 : Information délivrée par la SCPI](section-4)
 - [Section 5 : Des parts et du fonds de remboursement](section-5)
 - [Section 6 : Expertise immobilière](section-6)
-- [Section 7 : Transformation des sociétés civiles de placement immobilier en organismes de placement collectif immobilier](section-7)

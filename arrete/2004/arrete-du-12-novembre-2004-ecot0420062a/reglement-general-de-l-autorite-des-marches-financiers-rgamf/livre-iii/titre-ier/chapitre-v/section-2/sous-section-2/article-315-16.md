@@ -18,6 +18,6 @@ La liste de surveillance comporte le motif de l'inscription d'un émetteur ou d'
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas lorsqu'en sa qualité d'émetteur d'instruments financiers le prestataire de services d'investissement tient la liste prévue à l'article 223-27.
 
-Les entités concernées informent le responsable de la conformité lorsqu'elles estiment que les informations qu'elles avaient transmises en application du troisième alinéa ont cessé d'avoir un caractère privilégié.
+Les entités concernées informent le responsable de la conformité lorsqu'elles estiment que les informations qu'elles avaient transmises en application du sixième alinéa ont cessé d'avoir un caractère privilégié.
 
 Les éléments contenus dans la liste de surveillance sont confidentiels ; leur diffusion est restreinte aux personnes nommément désignées dans les procédures mentionnées au premier alinéa de l'article 315-15.

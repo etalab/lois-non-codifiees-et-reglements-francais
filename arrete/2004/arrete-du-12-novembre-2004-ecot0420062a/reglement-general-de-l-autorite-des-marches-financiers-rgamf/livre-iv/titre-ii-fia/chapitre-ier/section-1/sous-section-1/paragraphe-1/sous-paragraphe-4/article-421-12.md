@@ -1,0 +1,3 @@
+# Article 421-12
+
+Au plus tard vingt jours ouvrables après réception d'une notification complète conformément au I de l'article L. 214-24-1 du code monétaire et financier, l'AMF indique au gestionnaire s'il peut commencer à commercialiser le FIA qui a fait l'objet de la notification en France. L'AMF ne s'oppose à la commercialisation du FIA que si la gestion dudit FIA par le gestionnaire n'est ou ne sera conforme aux dispositions législatives et réglementaires applicables aux sociétés de gestion de portefeuille. En cas de décision positive, le gestionnaire peut commencer la commercialisation du FIA en France dès la date de notification à cet effet par l'AMF.

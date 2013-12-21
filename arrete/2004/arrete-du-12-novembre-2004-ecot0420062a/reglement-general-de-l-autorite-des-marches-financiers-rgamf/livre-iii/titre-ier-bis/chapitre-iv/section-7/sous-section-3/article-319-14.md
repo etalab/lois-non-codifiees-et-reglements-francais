@@ -16,7 +16,7 @@ a) A une société ayant reçu la délégation de la gestion financière du port
 
 b) Aux personnes auxquelles le dépositaire du FIA a délégué tout ou partie de l'exercice de la conservation de l'actif du portefeuille ;
 
-c) A une société liée exerçant exclusivement l'activité de gestion de FIA, les services de réception et de transmission d'ordres et d'exécution d'ordres principalement pour le compte des FIA a par la société de gestion de portefeuille ou une société liée pour son activité de gestion de FIA.
+c) A une société liée exerçant exclusivement l'activité de gestion de FIA, les services de réception et de transmission d'ordres et d'exécution d'ordres principalement pour le compte des FIA gérés par la société de gestion de portefeuille ou une société liée pour son activité de gestion de FIA.
 
 Ces dispositions ne s'appliquent pas aux frais et commissions supportés à l'occasion de prestations de conseil et de montage, d'ingénierie financière, de conseil en stratégie industrielle, de fusion et d'acquisition et d'introduction en bourse de titres non cotés dans lesquels est investi un fonds de capital investissement, un fonds professionnel spécialisé ou un fonds professionnel de capital investissement.
 

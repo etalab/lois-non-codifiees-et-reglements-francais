@@ -10,18 +10,18 @@ Le montant des fonds propres requis n'excède pas 10 millions d'euros.
 
 Les actifs pris en compte pour le calcul du complément de fonds propres mentionné au troisième alinéa sont ceux :
 
-a) Des SICAV qui ont globalement délégué à la société de gestion de portefeuille la gestion de leur portefeuille ;
+a) Des placements collectifs de droit français ou étranger, sous forme de société, qui ont globalement délégué à la société de gestion de portefeuille la gestion de leur portefeuille ;
 
-b) Des FCP gérés par la société de gestion de portefeuille, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation ;
-
-c) Des fonds d'investissement gérés par la société de gestion de portefeuille, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation.
+b) Des placements collectifs de droit français ou étranger sous forme de fonds, gérés par la société de gestion de portefeuille, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation.
 
 Le complément de fonds propres peut être constitué dans la limite de 50 % d'une garantie donnée par un établissement de crédit ou une entreprise d'assurance dont le siège social est établi dans un Etat partie à l'accord sur l'Espace économique européen ou dans un Etat non partie à l'accord sur l'Espace économique européen pour autant qu'il soit soumis à des règles prudentielles que l'AMF juge équivalentes à celles applicables aux établissements de crédit et aux entreprises d'assurance dont le siège social est établi dans un Etat partie à l'accord sur l'Espace économique européen ;
 
 2° Le quart des frais généraux annuels de l'exercice précédent.
 
+Lorsque la société de gestion de portefeuille est également agréée pour gérer un organisme de titrisation mentionné au I de l'article L. 214-167 du code monétaire et financier, elle n'est pas soumise au présent II.
+
 III. - Lors de l'agrément, le montant des fonds propres est calculé sur la base de données prévisionnelles.
 
-Pour les exercices suivants, le montant des frais généraux et la valeur totale des portefeuilles pris en compte pour la détermination des fonds propres sont calculés sur la base du plus récent des documents de la société de gestion de portefeuille suivants : les comptes annuels de l'exercice précédent, une situation intermédiaire attestée par le contrôleur légal des comptes ou la fiche de renseignements mentionnée à l'article 313-53-1.
+Pour les exercices suivants, le montant des frais généraux et la valeur totale des portefeuilles pris en compte pour la détermination des fonds propres sont calculés sur la base du plus récent des documents de la société de gestion de portefeuille suivants : les comptes annuels de l'exercice précédent, une situation intermédiaire attestée par le commissaire aux comptes ou la fiche de renseignements mentionnée à l'article 313-53-1.
 
 Les éléments composant les frais généraux, les fonds propres et les portefeuilles d'une société de gestion de portefeuille sont précisés dans une instruction de l'AMF.

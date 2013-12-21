@@ -1,0 +1,13 @@
+# Article 422-101
+
+I. - Pour les opérations concernant des SICAV, le projet est déposé au greffe du tribunal de commerce du siège des SICAV concernées. Au plus tard dans les huit jours qui suivent cette date, les commissaires aux comptes établissent un rapport complémentaire sur les conditions de réalisation de l'opération, sauf si les actionnaires ont fait application du II de l'article L. 236-10 du code de commerce.
+
+Le conseil d'administration ou le directoire de chacune des SICAV concernées communique le projet aux commissaires aux comptes de chaque SICAV au moins quarante-cinq jours avant les assemblées générales extraordinaires des SICAV se prononçant sur l'opération. L'opération est effectuée par les conseils d'administration ou les directoires des SICAV concernées, ou leurs mandataires sous le contrôle des commissaires aux comptes respectifs des SICAV concernées. Les rapports des commissaires aux comptes sur les conditions de réalisation de l'opération sont tenus à la disposition des actionnaires au plus tard quinze jours avant la date arrêtée par les assemblées générales extraordinaires.
+
+Les créanciers des SICAV participant à l'opération de fusion et dont la créance est antérieure à la publicité donnée au projet de fusion peuvent former opposition à celui-ci dans le délai de trente jours à compter de la publication de l'avis au Bulletin officiel des annonces civiles et commerciales. Au plus tard dans les huit jours qui suivent la réalisation de l'opération, les commissaires aux comptes établissent un rapport complémentaire sur les conditions définitives de l'opération.
+
+II. - Pour les opérations concernant des FCP, le projet est déposé au greffe du tribunal de commerce du siège des sociétés de gestion de portefeuille de FCP concernées.
+
+Le conseil d'administration ou le directoire de chacune des sociétés de gestion de portefeuille de FCP concernées communique le projet aux commissaires aux comptes de chaque FCP concerné au moins quarante-cinq jours avant la date arrêtée par le conseil d'administration ou le directoire de la société de gestion de portefeuille des FCP concernés. L'opération est effectuée par les sociétés de gestion de portefeuille des FCP, sous le contrôle des commissaires aux comptes respectifs des FCP concernés.
+
+Les créanciers des FCP participant à l'opération de fusion et dont la créance est antérieure à la publicité donnée au projet de fusion peuvent former opposition à celui-ci, dans un délai de quinze jours avant la date prévue pour l'opération. Au plus tard dans les huit jours qui suivent la réalisation de l'opération, les commissaires aux comptes établissent un rapport complémentaire sur les conditions définitives de l'opération.

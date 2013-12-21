@@ -8,7 +8,7 @@ II. - Le teneur de compte-conservateur transmet dans les meilleurs délais à ch
 
 2° Les informations relatives aux autres opérations sur titres financiers qui entraînent une modification sur les avoirs inscrits sur le compte du client, qu'il reçoit individuellement des émetteurs de titres financiers ;
 
-3° Sous réserve qu'elles aient été identifiées comme telles par l'OPCVM ou la société de gestion qui, le cas échéant, le représente, et dans les conditions prévues au 6° de l'article 411-70, les informations particulières qui doivent être, en application des dispositions de l'article 411-15, adressées individuellement aux porteurs d'OPCVM, qu'il reçoit dudit OPCVM ou de sa société de gestion.
+3° Sous réserve qu'elles aient été identifiées comme telles par le placement collectif ou la société de gestion qui, le cas échéant, le représente, et dans les conditions prévues au 6° de l'article 411-70, les informations particulières qui doivent être, en application des dispositions de l'article 411-15, adressées individuellement aux porteurs du placement collectif , qu'il reçoit dudit placement collectif ou de sa société de gestion.
 
 III. - Le teneur de compte-conservateur est tenu d'informer dans les meilleurs délais chaque titulaire de compte-titres :
 

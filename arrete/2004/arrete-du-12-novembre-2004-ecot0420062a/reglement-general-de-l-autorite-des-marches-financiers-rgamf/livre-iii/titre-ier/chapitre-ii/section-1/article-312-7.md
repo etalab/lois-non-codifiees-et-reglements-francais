@@ -2,9 +2,9 @@
 
 Une société de gestion de portefeuille peut, par dérogation à l'article 312-6, n'être dirigée effectivement que par une seule personne lorsque les conditions suivantes sont remplies :
 
-1° La société de gestion de portefeuille ne gère aucun OPCVM conforme à la directive 2009/65/ CE du 13 juillet 2009 ;
+1° La société de gestion de portefeuille ne gère aucun OPCVM ;
 
-2° Le montant total des encours gérés par la société de gestion de portefeuille est inférieur à 20 millions d'euros ou, si ce montant est supérieur, la société de gestion n'est agréée que pour gérer des fonds communs de placement à risques bénéficiant d'une procédure allégée ;
+2° Le montant total des encours gérés par la société de gestion de portefeuille est inférieur à 20 millions d'euros ou, si ce montant est supérieur, la société de gestion de portefeuille n'est agréée que pour gérer des fonds professionnels de capital investissement ;
 
 3° Les organes sociaux collégiaux ou les statuts de la société de gestion de portefeuille ont désigné une personne aux fins de remplacer immédiatement et dans toutes ses fonctions le dirigeant mis dans l'impossibilité de les exercer ;
 

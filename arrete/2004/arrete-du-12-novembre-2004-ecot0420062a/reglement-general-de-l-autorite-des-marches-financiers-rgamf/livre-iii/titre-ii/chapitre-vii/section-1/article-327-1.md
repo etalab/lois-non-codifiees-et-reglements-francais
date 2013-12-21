@@ -8,8 +8,4 @@ I.-Le présent chapitre détermine, en application du VIII et du IX de l'article
 
 3° Les dispositions propres à assurer l'indépendance d'appréciation des analystes financiers et la prévention des conflits d'intérêts.
 
-II.-Les analystes financiers concernés sont les personnes " physiques ou morales " autres que :
-
-1° Les prestataires de services d'investissement qui produisent ou diffusent une recommandation d'investissement à caractère général dans les conditions de l'article 313-25 ;
-
-2° Les sociétés de gestion d'OPC autres que les sociétés de gestion de portefeuille, et qui exercent l'activité décrite à l'article L. 544-1 du code monétaire et financier.
+II.-Les analystes financiers concernés sont les personnes physiques ou morales autres que les prestataires de services d'investissement qui produisent ou diffusent une recommandation d'investissement à caractère général dans les conditions de l'article 313-25.

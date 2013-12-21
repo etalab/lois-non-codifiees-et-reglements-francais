@@ -1,6 +1,6 @@
 # Article 314-2
 
-Lorsqu'une association professionnelle élabore un code de bonne conduite destiné à s'appliquer aux prestations de services d'investissement ou à la gestion d'OPCVM, l'AMF s'assure de la compatibilité de ses dispositions avec celles du présent règlement.
+Lorsqu'une association professionnelle élabore un code de bonne conduite destiné à s'appliquer aux prestations de services d'investissement ou à la gestiond'un placement collectif mentionné à l'article 311-1 A, l'AMF s'assure de la compatibilité de ses dispositions avec celles du présent règlement.
 
 L'association professionnelle peut demander à l'AMF d'approuver tout ou partie de ce code en qualité de règles professionnelles.
 

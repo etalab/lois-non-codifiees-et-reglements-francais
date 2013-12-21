@@ -1,8 +1,8 @@
 # Article 323-10
 
-Le contrôleur légal des comptes du dépositaire remplit une mission particulière annuelle portant sur le contrôle des comptes ouverts au nom des OPC dans les livres du dépositaire.
+Le contrôleur légal des comptes du dépositaire remplit une mission particulière annuelle portant sur le contrôle des comptes ouverts au nom des OPCVM dans les livres du dépositaire.
 
-Dans un délai de sept semaines à compter de la clôture de chaque exercice de l'OPC, le dépositaire atteste :
+Dans un délai de sept semaines à compter de la clôture de chaque exercice de l'OPCVM, le dépositaire atteste :
 
 1° De l'existence des actifs dont il assure la tenue de compte conservation ;
 

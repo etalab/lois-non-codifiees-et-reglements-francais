@@ -1,6 +1,6 @@
 # Article 411-135
 
-L'OPCVM de droit étranger ayant fait l'objet d'une notification conformément aux dispositions du deuxième alinéa du II de l'article L. 214-1 du code monétaire et financier désigne un ou plusieurs correspondants, dont un correspondant centralisateur, établis en France dans les conditions fixées par une instruction de l'AMF.
+L'OPCVM de droit étranger ayant fait l'objet d'une notification conformément aux dispositions de l'article L. 214-2-2 du code monétaire et financier désigne un ou plusieurs correspondants, dont un correspondant centralisateur, établis en France dans les conditions fixées par une instruction de l'AMF.
 
 Le ou les correspondants doivent appartenir à l'une des catégories mentionnées à l'article 1er de l'arrêté du 6 septembre 1989.
 

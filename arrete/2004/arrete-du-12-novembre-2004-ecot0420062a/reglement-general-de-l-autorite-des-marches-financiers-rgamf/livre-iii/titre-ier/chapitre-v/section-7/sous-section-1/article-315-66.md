@@ -1,7 +1,7 @@
 # Article 315-66
 
-Les dispositions de l'article 314-79 ne s'appliquent pas aux frais et commissions rémunérant des prestations de conseil et de montages immobiliers attachées à l'acquisition ou à la cession d'actifs mentionnés aux a à c du I de l'article L. 214-92 du code monétaire et financier dans lesquels est investi l'actif d'un OPCI ou d'un mandat de gestion spécifique.
+Les dispositions des chapitres III, IV et V du présent titre s'appliquent aux personnes concernées mentionnées au II de l'article 313-2.
 
-La nature et les modalités de calcul de ces frais et commissions sont expressément mentionnées dans le mandat ou dans le prospectus simplifié et la note détaillée de l'OPCI.
+Les règles adoptées en vertu des chapitres III, IV et V du présent titre par le prestataire de services d'investissement et s'appliquant aux personnes concernées mentionnées au II de l'article 313-2 constituent pour celles-ci une obligation professionnelle.
 
-En application de l'article 314-79, les rétrocessions qui ne bénéficieraient pas exclusivement et directement à l'OPCI ou au mandant sont interdites. Constituent de telles rétrocessions, les accords par lesquels, à l'occasion d'une opération portant sur un actif mentionné aux a à c du I de l'article L. 214-92 du code monétaire et financier, le courtier, l'intermédiaire ou la contrepartie reverse une partie des frais mentionnés au 1° de l'article 314-79 ou des frais mentionnés au premier alinéa du présent article.
+Les dispositions des chapitres IV et V du présent titre s'appliquent aux personnes concernées mentionnées au II de l'article 313-2 des succursales établies en France par des prestataires de services d'investissement agréés dans d'autres Etats parties à l'accord sur l'Espace économique européen.

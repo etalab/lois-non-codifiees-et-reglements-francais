@@ -1,6 +1,6 @@
 # Article 411-91
 
-Lorsque l'OPCVM maître ou l'OPCVM nourricier est établi dans un autre Etat membre de l'Union européenne, l'accord d'échange d'informations conclu entre les dépositaires doit comporter les mêmes prévisions que l'accord d'échange d'informations entre l'OPCVM maître et l'OPCVM nourricier en matière de loi applicable au contrat et de compétence juridictionnelle.
+Lorsque l'OPCVM maître ou l'OPCVM nourricier est établi dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, l'accord d'échange d'informations conclu entre les dépositaires doit comporter les mêmes prévisions que l'accord d'échange d'informations entre l'OPCVM maître et l'OPCVM nourricier en matière de loi applicable au contrat et de compétence juridictionnelle.
 
 Lorsque l'échange de documents et d'informations entre l'OPCVM maître et l'OPCVM nourricier est prévu par les règles de conduite internes de la société de gestion, l'accord entre le dépositaire de l'OPCVM maître et celui de l'OPCVM nourricier stipule que le droit applicable à l'accord d'échange d'informations entre les deux dépositaires est soit celui de l'Etat d'établissement de l'OPCVM nourricier, soit, s'il est différent, celui de l'Etat d'établissement de l'OPCVM maître, et que les deux dépositaires reconnaissent la compétence exclusive des juridictions de l'Etat dont le droit s'applique à cet accord.
 

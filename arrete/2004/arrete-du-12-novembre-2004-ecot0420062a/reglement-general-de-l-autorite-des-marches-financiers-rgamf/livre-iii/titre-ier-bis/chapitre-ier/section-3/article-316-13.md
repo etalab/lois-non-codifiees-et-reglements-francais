@@ -14,8 +14,8 @@ d) Le nom du représentant légal du gestionnaire et le lieu où il est établi 
 
 2° Les informations mentionnées aux 1° à 6° de l'article 316-3 peuvent se limiter aux FIA de l'Union européenne que le gestionnaire a l'intention de gérer et aux FIA qu'il gère et qu'il a l'intention de commercialiser dans l'Union européenne avec un passeport ;
 
-3° L'alinéa 2 du II de l'article L. 532-9 du code monétaire et financier est sans préjudice de l'article L. 532-31 du même code ;
+3° Le deuxième alinéa  du II de l'article L. 532-9 du code monétaire et financier est sans préjudice de l'article L. 532-31 du même code ;
 
 4° Le 1° du II de l'article L. 532-9 du code monétaire et financier n'est pas applicable ;
 
-5° Le cinquième alinéa de l'article 316-4 est compris comme incluant une référence aux  informations mentionnées à l'article L. 532-37 du code monétaire et financier .
+5° Le cinquième alinéa de l'article 316-4 est compris comme incluant une référence aux informations mentionnées à l'article L. 532-37 du code monétaire et financier .

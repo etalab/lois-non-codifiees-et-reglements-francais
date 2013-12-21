@@ -14,7 +14,7 @@ a) Les règles de calcul des commissions de mouvement ;
 
 b) Les règles de calcul de la part des revenus des opérations d'acquisition ou cession temporaires de titres non affectée à l'OPCVM ;
 
-c) Les frais et commissions maximum pouvant être supportés au titre d'OPCVM ou de fonds d'investissement au sens du II de l'article R. 214-9 du code monétaire et financier acquis par l'OPCVM ;
+c) Les frais et commissions maximum pouvant être supportés au titre de placements collectifs de droit français ou de droit étranger ou de fonds d'investissement de pays tiers acquis par l'OPCVM ;
 
 d) Les règles de calcul de la commission de gestion variable.
 

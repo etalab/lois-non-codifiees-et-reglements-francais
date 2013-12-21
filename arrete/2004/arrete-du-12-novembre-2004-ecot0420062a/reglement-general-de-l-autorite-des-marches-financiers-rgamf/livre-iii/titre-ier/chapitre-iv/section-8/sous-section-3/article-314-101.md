@@ -8,7 +8,7 @@ Ce rapport précise notamment :
 
 2° Les cas dans lesquels la société de gestion de portefeuille a estimé ne pas pouvoir respecter les principes fixés dans son document " politique de vote " ;
 
-3° Les situations de conflits d'intérêts que la société de gestion de portefeuille a été conduite à traiter lors de l'exercice des droits de vote attachés aux titres détenus par les OPCVM qu'elle gère.
+3° Les situations de conflits d'intérêts que la société de gestion de portefeuille a été conduite à traiter lors de l'exercice des droits de vote attachés aux titres détenus par les placements collectifs mentionnés à l'article 311-1 A qu'elle gère.
 
 Le rapport est tenu à la disposition de l'AMF. Il doit pouvoir être consulté sur le site de la société de gestion de portefeuille ou au siège de celle-ci selon les modalités précisées sur le prospectus.
 

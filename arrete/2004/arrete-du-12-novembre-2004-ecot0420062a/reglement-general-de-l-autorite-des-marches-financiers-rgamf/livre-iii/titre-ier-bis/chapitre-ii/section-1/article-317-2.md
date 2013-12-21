@@ -30,6 +30,6 @@ IV. - Afin de couvrir les risques éventuels de mise en cause de sa responsabili
 
 2° Soit être couverte par une assurance de responsabilité civile professionnelle, adaptée aux risques couverts, au titre de l'engagement de sa responsabilité pour négligence professionnelle.
 
-Les articles 12 à 15 du règlement (UE) n° 231/2013 de la Commission du 19 décembre 2012 les exigences en matière de fonds propres supplémentaires et d'assurance de responsabilité civile.
+Les articles 12 à 15 du règlement (UE) n° 231/2013 de la Commission du 19 décembre 2012 précisent les exigences en matière de fonds propres supplémentaires et d'assurance de responsabilité civile.
 
 V. - Lorsque la société de gestion de portefeuille est également agréée conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 par l'AMF, elle n'est pas soumise aux I, II et III du présent article.

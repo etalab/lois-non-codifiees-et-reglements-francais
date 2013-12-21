@@ -16,8 +16,8 @@ La procédure de traitement des réclamations est proportionnée à la taille et
 
 II. - Pour les sociétés de gestion de portefeuille, les dispositions du I s'appliquent :
 
-1° Aux réclamations de l'ensemble des porteurs de parts ou actionnaires d'OPCVM lorsque aucun service d'investissement ne leur est fourni à l'occasion de la souscription ;
+1° Aux réclamations de l'ensemble des porteurs de parts ou actionnaires d'un placement collectif mentionné à l'article 311-1 A lorsque aucun service d'investissement ne leur est fourni à l'occasion de la souscription ;
 
-2° Aux réclamations des porteurs de parts ou actionnaires d'OPCVM émanant de clients non professionnels lorsqu'un service d'investissement leur est fourni par la société de gestion de portefeuille lors de la souscription.
+2° Aux réclamations des porteurs de parts ou actionnaires d'un placement collectif mentionné à l'article 311-1 A émanant de clients non professionnels lorsqu'un service d'investissement leur est fourni par la société de gestion de portefeuille lors de la souscription.
 
 III. - Une instruction de l'AMF précise les modalités d'application du présent article.

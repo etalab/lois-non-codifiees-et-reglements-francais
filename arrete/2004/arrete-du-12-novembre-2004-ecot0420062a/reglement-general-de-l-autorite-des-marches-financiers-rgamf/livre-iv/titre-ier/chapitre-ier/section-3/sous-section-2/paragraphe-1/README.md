@@ -2,7 +2,6 @@
 
 - [Article 411-24](article-411-24.md)
 - [Article 411-25](article-411-25.md)
-- [Article 411-26](article-411-26.md)
 - [Article 411-27](article-411-27.md)
 - [Article 411-28](article-411-28.md)
 - [Article 411-29](article-411-29.md)

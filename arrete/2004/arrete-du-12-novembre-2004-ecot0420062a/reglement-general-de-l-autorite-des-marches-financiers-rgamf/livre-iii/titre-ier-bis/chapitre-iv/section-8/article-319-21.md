@@ -1,6 +1,6 @@
 # Article 319-21
 
-La société de gestion de portefeuille élabore un document intitulé " politique de vote ", mis à jour en tant que de besoin, qui présente les conditions dans lesquelles elle entend exercer les droits de vote attachés aux titres détenus par les FIA relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier elle assure la gestion.
+La société de gestion de portefeuille élabore un document intitulé " politique de vote ", mis à jour en tant que de besoin, qui présente les conditions dans lesquelles elle entend exercer les droits de vote attachés aux titres détenus par les FIA relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier dont elle assure la gestion.
 
 Ce document décrit notamment :
 

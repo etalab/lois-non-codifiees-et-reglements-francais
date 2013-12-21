@@ -1,0 +1,3 @@
+# Article 422-119
+
+Lorsqu'un fonds d'investissement à vocation générale, un fonds de fonds alternatifs, un fonds professionnel à vocation générale, un fonds commun de placement d'entreprise ou une SICAV d'actionnariat salarié est nourricier et qu'il change d'OPCVM ou de FIA maître consécutivement à la liquidation, fusion ou division de son OPCVM ou FIA maître, il ne doit pas porter atteinte au droit de sortie sans frais des porteurs en suspendant provisoirement les rachats ou les remboursements, sauf si des circonstances exceptionnelles obligent à une telle suspension afin de protéger les intérêts des porteurs.

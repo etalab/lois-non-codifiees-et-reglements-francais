@@ -10,7 +10,7 @@ III.-Aux sociétés de gestion de portefeuille agréées pour fournir des servic
 
 IV.-Aux sociétés de gestion de portefeuille mentionnées au second alinéa du III de l'article L. 532-9 du code monétaire et financier.
 
-V.-Aux personnes morales mentionnées au IV de l'article L. 532-9 du code monétaire et financier. En outre, ces personnes morales adressent à l'AMF les informations mentionnées aux I et II de l'article L. 214-24-20 du code monétaire et financier et aux dispositions pertinentes du livre IV du présent règlement dans les conditions fixées par l'article 110 et les pages 71 à 77 de l'annexe IV du règlement délégué (UE) n° 231/2013 de la Commission du 19 décembre 2012.
+V.-Aux personnes morales mentionnées au IV de l'article L. 532-9 du code monétaire et financier. En outre, ces personnes morales adressent à l'AMF les informations mentionnées aux I et II de l'article L. 214-24-20 du code monétaire et financier et à l'article 421-36 dans les conditions fixées par l'article 110 et les pages 71 à 77 de l'annexe IV du règlement délégué (UE) n° 231/2013 de la Commission du 19 décembre 2012. Ces personnes se conforment également aux obligations d'information des investisseurs prévues à l'article L. 214-24-19 du code monétaire et financier et aux articles 421-33 à 421-35.
 
 Elles se conforment aux articles 2 à 5 du règlement délégué (UE) n° 231/2013 précité.
 
@@ -20,7 +20,7 @@ Ces personnes morales peuvent choisir de soumettre les FIA qu'elles gèrent au t
 
 VI.-Aux sociétés de gestion de portefeuille d'organismes de titrisation mentionnés au I de l'article L. 214-167 du code monétaire et financier.
 
-1° Par dérogation à l'article 317-2, la société de gestion de portefeuille qui gère au moins un ou plusieurs organismes de titrisation mentionnés au I de l'article L. 214-167 du code monétaire et financier doit pouvoir justifier à tout moment d'un niveau de fonds propres au moins égal au plus élevé des deux montants mentionnés aux a et b ci-après :
+1° Par dérogation à l'article 312-3, la société de gestion de portefeuille qui gère au moins un ou plusieurs organismes de titrisation mentionnés au I de l'article L. 214-167 du code monétaire et financier doit pouvoir justifier à tout moment d'un niveau de fonds propres au moins égal au plus élevé des deux montants mentionnés aux a et b ci-après :
 
 a) 125 000 euros complété de la somme de :
 
@@ -53,7 +53,5 @@ a) Soit disposer de fonds propres supplémentaires d'un montant suffisant pour c
 b) Soit être couverte par une assurance de responsabilité civile professionnelle, adaptée aux risques couverts, au titre de l'engagement de sa responsabilité pour négligence professionnelle.
 
 Les articles 12 à 15 du règlement délégué (UE) n° 231/2013 précité précisent les exigences en matière de fonds propres supplémentaires et d'assurance de responsabilité civile.
-
-Lorsque la société de gestion de portefeuille est également agréée conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 par l'AMF, elle n'est pas soumise aux 1° et 2° du présent VI.
 
 VII.-Aux sociétés de gestion de portefeuille d'" Autres placements collectifs ".

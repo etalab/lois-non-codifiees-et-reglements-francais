@@ -1,7 +1,7 @@
 # TITRE II : Autres prestataires
 
 - [Chapitre II : Teneurs de compte-conservateurs](chapitre-ii)
-- [Chapitre III : Dépositaires d'OPCVM](chapitre-iii)
+- [Chapitre III : Dépositaires d'organismes de placement collectif en valeurs mobilières](chapitre-iii)
 - [Chapitre III bis : Dépositaires de FIA](chapitre-iii-bis)
 - [Chapitre V : Conseillers en investissements financiers](chapitre-v)
 - [Chapitre VII : Les analystes financiers ne relevant pas d'un prestataire de services d'investissement](chapitre-vii)

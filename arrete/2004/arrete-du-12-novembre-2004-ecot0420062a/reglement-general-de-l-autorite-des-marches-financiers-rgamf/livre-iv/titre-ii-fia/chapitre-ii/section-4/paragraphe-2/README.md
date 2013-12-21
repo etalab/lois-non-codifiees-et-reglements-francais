@@ -1,0 +1,16 @@
+# Paragraphe 2 : Dispositions particulières aux sociétés civiles de placement immobilier
+
+- [Article 422-223](article-422-223.md)
+- [Article 422-224](article-422-224.md)
+- [Article 422-225](article-422-225.md)
+- [Article 422-226](article-422-226.md)
+- [Article 422-227](article-422-227.md)
+- [Article 422-228](article-422-228.md)
+- [Article 422-229](article-422-229.md)
+- [Article 422-230](article-422-230.md)
+- [Article 422-231](article-422-231.md)
+- [Article 422-232](article-422-232.md)
+- [Article 422-233](article-422-233.md)
+- [Article 422-234](article-422-234.md)
+- [Article 422-235](article-422-235.md)
+- [Article 422-236](article-422-236.md)

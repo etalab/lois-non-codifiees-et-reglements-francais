@@ -1,6 +1,6 @@
 # Article 313-19
 
-En vue de détecter, en application de l'article 313-18, les situations de conflits d'intérêts dont l'existence peut porter atteinte aux intérêts d'un client, le prestataire de services d'investissement prend au moins en compte l'éventualité que les personnes mentionnées à l'article 313-18 se trouvent dans l'une des situations suivantes, que celle-ci résulte de la fourniture de services d'investissement ou de services connexes, ou de la gestion d'OPCVM ou de l'exercice d'autres activités :
+En vue de détecter, en application de l'article 313-18, les situations de conflits d'intérêts dont l'existence peut porter atteinte aux intérêts d'un client, le prestataire de services d'investissement prend au moins en compte l'éventualité que les personnes mentionnées à l'article 313-18 se trouvent dans l'une des situations suivantes, que celle-ci résulte de la fourniture de services d'investissement ou de services connexes, ou de la gestion d'un placement collectif mentionné à l'article 311-1 A ou de l'exercice d'autres activités :
 
 1° Le prestataire ou cette personne est susceptible de réaliser un gain financier ou d'éviter une perte financière aux dépens du client ;
 
