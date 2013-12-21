@@ -20,7 +20,7 @@ g) Le ministre chargé de l'outre-mer ou son représentant ;
 
 h) Le ministre chargé de l'industrie ou son représentant ;
 
-i) Le directeur général du Trésor et de la politique économique ou son représentant ;
+i) Le directeur général du Trésor ou son représentant ;
 
 j) Le président d'Ubifrance ou son représentant ;
 
