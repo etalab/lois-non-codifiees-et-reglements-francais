@@ -91,9 +91,3 @@ f) A la direction générale de l'enseignement et de la recherche :
 -sous-directeur de l'enseignement supérieur et de la recherche ;
 
 -sous-directeur de l'innovation.
-
-g) A la direction des pêches maritimes et de l'aquaculture :
-
--sous-directeur des ressources halieutiques ;
-
--sous-directeur de l'aquaculture et de l'économie des pêches.

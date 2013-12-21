@@ -49,7 +49,3 @@ c) A la direction générale de l'alimentation :
 d) A la direction générale de l'enseignement et de la recherche :
 
 - chef du service de l'enseignement supérieur, de la recherche et de l'innovation.
-
-e) A la direction des pêches maritimes et de l'aquaculture :
-
-- chef de service, directeur adjoint des pêches maritimes et de l'aquaculture.
