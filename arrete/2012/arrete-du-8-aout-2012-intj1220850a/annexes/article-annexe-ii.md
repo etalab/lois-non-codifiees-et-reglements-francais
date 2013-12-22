@@ -82,7 +82,7 @@ La sécurité des casernes.
 
 Les missions de maintien de l'ordre et de défense de l'unité.
 
-L'intervention professionnelle.
+La défense et l'autoprotection.
 
 Les systèmes d'information et de communication en usage dans les unités de gendarmerie départementale et de gendarmerie mobile.
 
@@ -90,7 +90,7 @@ La coordination d'une action avec des intervenants externes.
 
 Le suivi des effectifs.
 
-L'enregistrement, le suivi et la transmission des  procédures judiciaires (transmis, commission rogatoire, transmission  des procédures au parquet...).
+L'enregistrement, le suivi et la transmission des procédures judiciaires (transmis, commission rogatoire, transmission des procédures au parquet...).
 
 Le plan de sécurité routière.
 
@@ -116,13 +116,13 @@ L'application et le suivi des normes HSIE.
 
 II. ― Le programme spécifique à chaque spécialité
 
-1. Spécialité  Administration et gestion du personnel .
+1. Spécialité Administration et gestion du personnel .
 
 La détermination du montant des droits individuels dans des cas complexes.
 
 Les indemnités de déplacement et de changement de résidence.
 
-Le  trop-perçu .
+Le trop-perçu .
 
 Les sources réglementaires des indemnités, primes et éléments constitutifs de la solde.
 
@@ -150,9 +150,9 @@ La mobilité.
 
 L'avancement.
 
-La jurisprudence applicable au domaine des  ressources humaines (notation, avancement, mobilité, rémunération et  indemnités, changement de résidence, chancellerie).
+La jurisprudence applicable au domaine des ressources humaines (notation, avancement, mobilité, rémunération et indemnités, changement de résidence, chancellerie).
 
-2. Spécialité  affaires immobilières .
+2. Spécialité affaires immobilières .
 
 Les différentes phases d'une opération de construction (maîtrise d'ouvrage).
 
@@ -190,7 +190,7 @@ Les notions fondamentales du droit de l'urbanisme et du domaine de l'Etat.
 
 Les notions fondamentales du droit des contrats privés.
 
-3. Spécialité  armurerie et pyrotechnie .
+3. Spécialité armurerie et pyrotechnie .
 
 Le régime des matériels de guerre, armes et munitions.
 
@@ -234,11 +234,11 @@ Les contrôles et les inspections de l'armement et des munitions dans les unité
 
 Le rapport de contrôle d'inspection.
 
-4. Spécialité  automobile et engins blindés .
+4. Spécialité automobile et engins blindés .
 
 La valorisation des stocks.
 
-Les règles de prévention HSIE au sein d'un centre  de soutien automobile (traitement des déchets, appareils de levage,  équipements individuels et collectifs, autorisations de conduite,  électricité, ingrédients et carburants, incendie, outillage dangereux,  peinture, lavage).
+Les règles de prévention HSIE au sein d'un centre de soutien automobile (traitement des déchets, appareils de levage, équipements individuels et collectifs, autorisations de conduite, électricité, ingrédients et carburants, incendie, outillage dangereux, peinture, lavage).
 
 Les règles de stockage et d'évacuation en vue d'une destruction des déchets.
 
@@ -280,11 +280,11 @@ Le contenu des pièces du dossier contentieux en cas d'accident d'un véhicule d
 
 Les outils d'analyse du contrôle de gestion.
 
-Les statuts des personnels militaires (statuts  des corps de sous-officiers du corps de soutien technique et  administratif de la gendarmerie nationale et de sous-officiers de  gendarmerie, des volontaires) et civils.
+Les statuts des personnels militaires (statuts des corps de sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale et de sous-officiers de gendarmerie, des volontaires) et civils.
 
 Les grands principes et la terminologie en matière de réglementation des marchés publics.
 
-5. Spécialité  gestion logistique et financière  et spécialité  imprimerie .
+5. Spécialité gestion logistique et financière et spécialité imprimerie .
 
 Les outils du contrôle de gestion.
 
@@ -318,7 +318,7 @@ Les litiges complexes et le pré-contentieux.
 
 Les pièces d'un marché.
 
-6. Spécialité  restauration collective .
+6. Spécialité restauration collective .
 
 Les responsabilités du directeur de cercle et de son adjoint.
 
