@@ -2952,8 +2952,10 @@ B.-Emplois en administration territoriale
 </td>
 <td colspan="2">
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2965,7 +2967,7 @@ B.-Emplois en administration territoriale
 <p align="center">1</p>
 </td>
 <td>
-<p align="left">100</p>
+<p align="center">100</p>
 </td>
 </tr>
 <tr>
@@ -3106,8 +3108,10 @@ B.-Emplois en administration territoriale
 </td>
 <td colspan="2">
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3139,9 +3143,22 @@ B.-Emplois en administration territoriale
 </td>
 <td colspan="2">
 <br/>
+<br/>
 </td>
 <td>
 <br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>Coordonnateur pour la sécurité auprès des préfets de Haute-Corse et de Corse-du-Sud </td>
+<td align="right" colspan="2">
+<p align="center">1 <br/>
+</p>
+</td>
+<td align="right">
+<p align="center">120 <br/>
+</p>
 </td>
 </tr>
 <tr>
