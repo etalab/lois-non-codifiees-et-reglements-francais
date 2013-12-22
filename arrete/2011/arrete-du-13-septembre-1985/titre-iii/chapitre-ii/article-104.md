@@ -4,10 +4,10 @@ Les ordres transmis par le parieur, par téléphone  sont reçus tous les jours.
 
 Des services complémentaires peuvent être proposés dans le cadre d'un abonnement spécifique dont les modalités de souscription sont portées à la connaissance des parieurs.
 
-Le parieur peut, s'il le souhaite, choisir un montant total maximum d'approvisionnement par carte bancaire pour une période qu'il choisit parmi celles portées à sa connaissance.
+Le parieur peut choisir un montant total maximum d'approvisionnement par semaine.
 
-Si ce montant est atteint durant la période fixée, le parieur peut, selon son choix, soit être alerté, soit se voir refuser tout nouvel approvisionnement dépassant le seuil qu'il a choisi jusqu'à la fin de la période retenue.
+Si ce montant est atteint, le parieur en est informé et se voit refuser tout nouvel approvisionnement dépassant le seuil qu'il a choisi jusqu'à la fin de la semaine concernée.
 
-De la même façon, un parieur peut bloquer l'utilisation de son compte soit temporairement pour une période qu'il choisit parmi une sélection offerte, soit définitivement. Dans ce dernier cas, le compte est clôturé.
+Le titulaire du compte peut modifier le montant total maximum d'approvisionnement qu'il a choisi. Toutefois, un délai minimum, porté à sa connaissance, peut être nécessaire à la prise en compte de cette modification si elle est à la hausse.
 
-Le titulaire du compte peut s'il le souhaite mettre fin ou modifier ces aménagements. Toutefois, un délai minimum, porté à sa connaissance, pourra être nécessaire à la prise en compte technique de cette modification.
+Le titulaire peut bloquer l'utilisation de son compte soit temporairement pour une période qu'il choisit parmi celles qui lui sont proposées par le Pari mutuel urbain, soit définitivement. Dans ce dernier cas, le compte est clôturé.

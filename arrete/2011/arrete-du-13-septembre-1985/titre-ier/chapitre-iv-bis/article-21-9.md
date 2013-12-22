@@ -1,6 +1,6 @@
 # Article 21-9
 
-Le titulaire peut approvisionner son compte, dans les postes d'enregistrement du pari mutuel urbain et aux guichets des hippodromes connectés au système central du pari mutuel urbain, par carte de paiement à son nom ou par chèques ou virements bancaires auprès des services du pari mutuel urbain.
+Le titulaire peut approvisionner son compte, dans les postes d'enregistrement du Pari mutuel urbain et aux guichets des hippodromes connectés au système central du Pari mutuel urbain ou en se connectant sur le site dédié, par carte de paiement à son nom ou par chèques ou virements bancaires auprès des services du Pari mutuel urbain.
 
 Le montant des gains ou des remboursements relatifs à chacun des ordres transmis par le parieur est porté au crédit de son compte. Les sommes déposées en compte courant ou portées au crédit de ce compte courant ne bénéficient d'aucun intérêt.
 
