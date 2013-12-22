@@ -4,7 +4,7 @@ LIAISONS RÉGULIÈRES DE PASSAGERS,
 
 DE COURRIER ET DE FRET
 
-Jusqu'au 30 novembre 2013 :
+Jusqu'au 31 décembre 2018 :
 
 Saint-Barthélemy―Saint-Martin Juliana (Antilles néerlandaises) ;
 
