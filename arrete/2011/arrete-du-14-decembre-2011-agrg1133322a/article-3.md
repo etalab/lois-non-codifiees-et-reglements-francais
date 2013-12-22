@@ -21,30 +21,14 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 <tr>
 <td align="left" rowspan="9" valign="top">
 <p align="left">Blé tendre d'hiver</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Alienor</p>
@@ -108,7 +92,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 <p align="left">Syngenta Seeds Limited (GB).</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).</p>
+<p align="left">Syngenta France (FR).</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +103,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 <p align="left">Syngenta Seeds SAS (FR).</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).</p>
+<p align="left">Syngenta France (FR).</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +139,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 <p align="left">Syngenta Seeds Limited (GB).</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).</p>
+<p align="left">Syngenta France (FR).</p>
 </td>
 </tr>
 <tr>
@@ -175,12 +159,8 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 <tr>
 <td align="left" rowspan="3" valign="top">
 <p align="left">Orge d'hiver à 6 rangs</p>
-<p align="left">
 <br/>
-</p>
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Drakkar</p>
@@ -211,15 +191,13 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 <p align="left">Syngenta Seeds SAS (FR).</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).</p>
+<p align="left">Syngenta France (FR).</p>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="2" valign="top">
 <p align="left">Triticale</p>
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Joyenval</p>

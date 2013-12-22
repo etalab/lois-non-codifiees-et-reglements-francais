@@ -41,16 +41,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </tr>
 <tr>
 <td align="left" rowspan="9" valign="top">
-<p align="left">Blé dur<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</p>
+<p align="left">Blé dur</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Actisur<br/>
@@ -89,7 +80,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Eurodur (FR).<br/>
+<p align="left">Limagrain Europe (FR).<br/>
 </p>
 </td>
 </tr>
@@ -173,43 +164,13 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).<br/>
+<p align="left">Syngenta France (FR).<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="30" valign="top">
-<p align="left">Blé tendre d'hiver lignée<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</p>
+<p align="left">Blé tendre d'hiver lignée</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Artdeco<br/>
@@ -556,7 +517,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).<br/>
+<p align="left">Syngenta France (FR).<br/>
 </p>
 </td>
 </tr>
@@ -570,7 +531,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).<br/>
+<p align="left">Syngenta France (FR).<br/>
 </p>
 </td>
 </tr>
@@ -584,7 +545,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).<br/>
+<p align="left">Syngenta France (FR).<br/>
 </p>
 </td>
 </tr>
@@ -598,7 +559,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).<br/>
+<p align="left">Syngenta France (FR).<br/>
 </p>
 </td>
 </tr>
@@ -650,10 +611,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </tr>
 <tr>
 <td align="left" rowspan="3" valign="top">
-<p align="left">Blé tendre d'hiver hybride<br/>
-<br/>
-<br/>
-</p>
+<p align="left">Blé tendre d'hiver hybride</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Hyteck<br/>
@@ -716,13 +674,7 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </tr>
 <tr>
 <td align="left" rowspan="6" valign="top">
-<p align="left">Orge d'hiver à 2 rangs<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</p>
+<p align="left">Orge d'hiver à 2 rangs</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Augusta<br/>
@@ -803,22 +755,13 @@ Sont inscrites au Catalogue officiel des espèces et variétés de plantes culti
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Syngenta Seeds SAS (FR).<br/>
+<p align="left">Syngenta France (FR).<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="9" valign="top">
-<p align="left">Orge d'hiver à 6 rangs<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</p>
+<p align="left">Orge d'hiver à 6 rangs</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Atlantick<br/>
