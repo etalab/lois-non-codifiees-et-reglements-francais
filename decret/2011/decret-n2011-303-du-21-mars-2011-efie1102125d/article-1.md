@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article 1658 du code général des impôts, les rôles d'impôts directs et de taxes assimilées résultant de l'engagement par la direction nationale des vérifications de situations fiscales d'une procédure de rectification ou d'une      procédure d'imposition d'office ou du traitement par cette direction d'actes ou de déclarations liés à la détention d'avoirs à l'étranger sont homologués par le représentant de l'Etat dans le département de Paris, à l'exclusion des rôles de taxe professionnelle, de cotisation foncière des entreprises et de l'imposition forfaitaire sur les entreprises de réseaux.
