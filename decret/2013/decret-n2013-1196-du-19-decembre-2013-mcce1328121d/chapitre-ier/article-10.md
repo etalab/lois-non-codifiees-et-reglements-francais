@@ -1,0 +1,5 @@
+# Article 10
+
+I. ― Lorsque, pour l'exercice des droits de la défense ou pour les besoins de la séance devant le Conseil supérieur de l'audiovisuel prévue au 6° de l'article 42-7 de la loi du 30 septembre 1986 susvisée, le rapporteur envisage de porter à la connaissance d'une personne un élément du dossier de la procédure protégé par le secret des affaires, il en informe, selon les modalités prévues à l'article 4, toute personne ayant demandé que cet élément fasse l'objet de cette protection. Il lui fixe un délai pour présenter ses observations avant de statuer sur la communicabilité dudit élément. La décision du rapporteur est notifiée aux intéressés.
+
+II. ― Lorsqu'une personne mise en cause n'a pas eu accès à un élément du dossier de la procédure protégé par le secret des affaires et qu'elle estime cet accès nécessaire à l'exercice de ses droits, elle peut en demander communication au rapporteur. Si celui-ci envisage d'accueillir favorablement cette demande, il est procédé comme au I.
