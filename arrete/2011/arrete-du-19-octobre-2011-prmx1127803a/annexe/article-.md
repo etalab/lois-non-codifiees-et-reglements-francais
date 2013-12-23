@@ -56,4 +56,6 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'antenne territoriale de Dieppe de la direction départementale de la protection des populations de Seine-Maritime ;
 
-- fermeture du site d'inspection sanitaire permanente de l'abattoir de Lampaul-Guimiliau de la direction départementale de la protection des populations du Finistère.
+- fermeture du site d'inspection sanitaire permanente de l'abattoir de Lampaul-Guimiliau de la direction départementale de la protection des populations du Finistère ;
+
+- fermeture de l'implantation territoriale de Gien de la direction départementale des territoires du Loiret.
