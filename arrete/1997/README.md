@@ -455,7 +455,6 @@
 - [Arrêté du 15 octobre 1997 (ECOS9750037A)](arrete-du-15-octobre-1997-ecos9750037a)
 - [Arrêté du 15 octobre 1997 (EQUP9701542A)](arrete-du-15-octobre-1997-equp9701542a)
 - [Arrêté du 15 septembre 1997 (EQUM9702217A)](arrete-du-15-septembre-1997-equm9702217a)
-- [Arrêté du 15 septembre 1997 (MCCB9700691A)](arrete-du-15-septembre-1997-mccb9700691a)
 - [Arrêté du 15 mai 1997 (INTB9700211A)](arrete-du-15-mai-1997-intb9700211a)
 - [Arrêté du 15 mai 1997 (JUSB9710216A)](arrete-du-15-mai-1997-jusb9710216a)
 - [Arrêté du 16 avril 1997 (BUDD9770986A)](arrete-du-16-avril-1997-budd9770986a)
