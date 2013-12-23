@@ -40,13 +40,7 @@ Montpellier-Méditerranée.
 
 Nantes-Atlantique.
 
-Pointe-à-Pitre - Le Raizet.
-
 Strasbourg-Entzheim.
-
-Tahiti-Faa'a.
-
-Paris-Le Bourget (à compter du 1er janvier 2012).
 
 Groupe D
 
@@ -64,9 +58,15 @@ Martinique-Aimé Césaire.
 
 Melun-Villaroche.
 
+Paris-Le Bourget.
+
+Pointe-à-Pitre - Le Raizet.
+
 Pyrénées.
 
 Rennes - Saint-Jacques.
+
+Tahiti-Faa'a.
 
 Groupe E
 
@@ -113,6 +113,8 @@ Cannes-Mandelieu.
 Chavenay-Villepreux.
 
 Etampes-Mondésir.
+
+Figari-Sud - Corse (à compter du 1er janvier 2013).
 
 Grenoble-Le Versoud.
 
@@ -173,8 +175,6 @@ Dinard - Pleurtuit - Saint-Malo.
 Dole-Tavaux.
 
 Dzaoudzi-Pamandzi.
-
-Figari-Sud - Corse.
 
 Huahine.
 
