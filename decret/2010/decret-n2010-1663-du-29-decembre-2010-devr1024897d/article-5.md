@@ -1,6 +1,6 @@
 # Article 5
 
-Afin de se libérer de ses obligations, une personne visée à l'article 3 du présent décret peut adhérer à une structure collective prévue au deuxième alinéa du II de l'article 14 de la loi du 13 juillet 2005 susvisée. Dans ce cas, le transfert d'une obligation d'économie d'énergie mentionnée à l'article 2 est global et vaut pour la totalité de la période visée à l'article 1er du présent décret.
+Afin de se libérer de ses obligations, une personne visée à l'article 3 du présent décret peut adhérer à une structure collective prévue au deuxième alinéa du II de l'article 14 de la loi du 13 juillet 2005 susvisée. Dans ce cas, le transfert d'une obligation d'économie d'énergie mentionnée à l'article 2   vaut soit pour les trois premières années, soit pour la totalité de la période visée à l'article 1er du présent décret.
 
 L'adhérent à une structure collective notifie son adhésion au ministre chargé de l'énergie dans un délai d'un mois à compter de la date d'acceptation par la structure collective de cette adhésion.
 
