@@ -1,8 +1,8 @@
 # Article 11
 
-I. ― Les candidats reçus à l'un des concours mentionnés au 1° et au 2° du I et au II de l'article 4 sont nommés fonctionnaires stagiaires du corps concerné et accomplissent un stage d'une durée d'une année. Ils peuvent, pendant la durée du stage, être astreints à suivre une période de formation professionnelle.
+I. ― Les candidats reçus à l'un des concours mentionnés au 1° et au 2° du I et au II de l'article 4 ou recrutés en application du 3° du I du même article, sont nommés fonctionnaires stagiaires du corps concerné et accomplissent un stage d'une durée d'une année. Ils peuvent, pendant la durée du stage, être astreints à suivre une période de formation professionnelle.
 
-II. ― Les candidats reçus à l'un des concours mentionnés au 1° et au 2° du I et au II de l'article 6 sont nommés fonctionnaires stagiaires du corps concerné et accomplissent un stage d'une durée d'une année. Ils peuvent, pendant la durée du stage, être astreints à suivre une période de formation professionnelle.
+II. ― Les candidats reçus à l'un des concours mentionnés au 1° et au 2° du I et au II de l'article 6 ou recrutés en application du 3° du I du même article, sont nommés fonctionnaires stagiaires du corps concerné et accomplissent un stage d'une durée d'une année. Ils peuvent, pendant la durée du stage, être astreints à suivre une période de formation professionnelle.
 
 III. ― L'organisation du stage mentionné au I et au II est fixée par arrêté du ministre chargé de la santé. Pendant le stage, les intéressés sont soumis aux dispositions du décret du 12 mai 1997 susvisé.
 
