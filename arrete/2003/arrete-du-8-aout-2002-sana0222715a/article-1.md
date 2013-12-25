@@ -40,7 +40,7 @@ b) Le groupe II "Autres produits relatifs à l'exploitation" comprenant les comp
 
 - chapitres 70, 71, 72, 74 et 75 ;
 
-- comptes 603 (en recettes), 609, 619, 629, 6419, 6429, 6459, 6489 et 6611 (en recettes) ;
+- comptes 603 (en recettes), 609, 619, 629, 6419, 6429, 6439, 6459, 6469, 6479, 6489 et 6611 (en recettes) ;
 
 c) Le groupe III "Produits financiers et produits non encaissables" comprenant les comptes suivants :
 
