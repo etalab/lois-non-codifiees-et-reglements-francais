@@ -652,7 +652,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">CRS n° 29 Lannemezan (6)<br/>
+<td align="center">CRS n° 29 Lannemezan <br/>
 </td>
 <td align="center">
 <br/>
@@ -663,6 +663,12 @@
 <td align="center">
 <br/>
 </td>
+</tr>
+<tr>
+<td>CRS Pyrénées (section Lannemezan et détachement Perpignan)</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="center">CRS autoroutière Aquitaine (Cenon) Bordeaux<br/>
@@ -775,7 +781,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="center">CRS n° 6 Nice<br/>(Saint-Laurent-du-Var) (1) (6) <br/>
+<p align="center">CRS n° 6 Nice<br/>(Saint-Laurent-du-Var) (1)  <br/>
 </p>
 </td>
 <td align="center">
@@ -1141,8 +1147,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="center">CRS Alpes (détachements de Grenoble, Alberville, Briançon)<br/>
-</p>
+<p align="center">CRS Alpes (section Grenoble, détachements d'Albertville, Briançon, Nice) </p>
 </td>
 <td align="center">
 <br/>
@@ -1463,8 +1468,7 @@
 </tr>
 <tr>
 <td colspan="4">
-<p align="left">(1) Où réside un détachement de l'unité motocycliste zonale (DUMZ).<br/>(2) Où réside un détachement de la CRS autoroutière Nord - Pas-de-Calais.<br/>(3) Où réside un détachement de la CRS autoroutière Provence.<br/>(4) Où réside un détachement de la CRS autoroutière Rhône-Alpes-Auvergne.<br/>(5) Où réside un détachement de la CRS autoroutière Lorraine-Alsace.<br/>(6) Dont une section montagne.<br/>
-</p>
+<p align="left">(1) Où réside un détachement de l'unité motocycliste zonale (DUMZ).<br/>(2) Où réside un détachement de la CRS autoroutière Nord - Pas-de-Calais.<br/>(3) Où réside un détachement de la CRS autoroutière Provence.<br/>(4) Où réside un détachement de la CRS autoroutière Rhône-Alpes-Auvergne.<br/>(5) Où réside un détachement de la CRS autoroutière Lorraine-Alsace.</p>
 </td>
 </tr>
 </tbody>

@@ -4,7 +4,7 @@ La direction centrale des CRS est organisée comme suit :
 
 1. La direction centrale
 
-Chargée de l'organisation et du contrôle des unités et des personnels, de leur mise opérationnelle en fonction des missions, de la formation des personnels ainsi que de la gestion et de la répartition des moyens qui lui sont alloués, la direction centrale des CRS se compose d'une structure de contrôle dénommée  inspection technique  et de trois sous-directions.
+Chargée de l'organisation et du contrôle des unités et des personnels, de leur mise opérationnelle en fonction des missions, de la formation des personnels ainsi que de la gestion et de la répartition des moyens qui lui sont alloués, la direction centrale des CRS se compose d'une structure de contrôle dénommée inspection technique et de trois sous-directions.
 
 L'inspection technique et les trois sous-directions de la DCCRS sont dirigées par des fonctionnaires du corps de conception et de direction de la police nationale. Chaque sous-direction comprend un certain nombre de bureaux dirigés, chacun, par un fonctionnaire de ce même corps ou par un fonctionnaire du corps de commandement de la police nationale. Sont placés auprès du directeur central des chargés de mission, membres soit du corps de conception et de direction, soit du corps de commandement de la police nationale.
 
@@ -30,13 +30,13 @@ Unité organique administrative et tactique, elle est dirigée par un fonctionna
 
 Le commandant de compagnie est responsable de la formation et de la discipline du personnel placé sous ses ordres, de l'administration de son unité et de l'exécution des missions qui lui sont confiées.
 
-La compagnie peut être une compagnie de service général ou une compagnie autoroutière.
+La compagnie peut être une compagnie de service général, une compagnie autoroutière ou une compagnie de montagne.
 
 La compagnie de service général est constituée de quatre ou six sections commandées par des lieutenants de police ou des brigadiers-majors de police et d'une section chargée de la gestion et du soutien opérationnel, dont le chef est un brigadier-major de police.
 
 La compagnie autoroutière est constituée de sections de roulement, d'une section motocycliste d'appui, d'un bureau de circulation routière et d'une section de commandement et des services. Un brigadier-major de police peut commander un tel bureau ou l'une de ces sections.
 
-La compagnie républicaine de sécurité  Alpes  est constituée de détachements.
+La compagnie républicaine de sécurité montagne est constituée de sections et de détachements.
 
 6. L'unité motocycliste zonale (UMZ)
 
