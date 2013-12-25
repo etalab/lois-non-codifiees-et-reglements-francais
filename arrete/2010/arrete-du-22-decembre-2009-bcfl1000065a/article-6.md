@@ -2,6 +2,6 @@
 
 Des liaisons informatisées sont mises en place avec :
 
-― les applications de la direction générale des finances publiques HELIOS et « annuaire DGCP » ;
+― l'application HELIOS et l'annuaire des agents de la direction générale des finances publiques ;
 
 ― les ordonnateurs.
