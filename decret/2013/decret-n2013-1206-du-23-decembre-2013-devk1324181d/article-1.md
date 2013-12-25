@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les conditions prévues à l'article 104 de la loi du 13 août 2004 susvisée et à l'article 6 de la loi du 24 janvier 2012 susvisée, sont transférés à compter du 1er janvier 2014 au département des Alpes-Maritimes les parties de services de l'Etat qui, au sein de la direction départementale des territoires et de la mer des Alpes-Maritimes, participent à l'exercice des compétences d'aménagement, de gestion et d'entretien du domaine public fluvial du Var, dont l'emprise s'étend de la confluence de la Vésubie à l'embouchure en mer et dont la propriété a été transférée au département le 15 mars 2013, en application des articles L. 3113-1 et L. 3113-3 du code général de la propriété des personnes publiques.

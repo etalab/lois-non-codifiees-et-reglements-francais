@@ -1,0 +1,3 @@
+# Article 3
+
+A titre exceptionnel, il est prélevé, au 31 décembre 2013 au plus tard, au profit de la Caisse nationale de retraites des agents des collectivités locales, une somme de 200 millions d'euros sur les réserves, constatées au 31 décembre 2012, du fonds pour l'emploi hospitalier institué par l'article 14 de la loi n° 94-628 du 25 juillet 1994 relative à l'organisation du temps de travail, aux recrutements et aux mutations dans la fonction publique. Le recouvrement, le contentieux et les garanties relatifs à ce prélèvement sont régis par les règles applicables en matière de taxes sur les salaires.
