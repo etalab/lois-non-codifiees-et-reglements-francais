@@ -1,6 +1,6 @@
 # Article 22
 
-I. - 1. Lorsqu'ils doivent connaître les ressources ou un élément quelconque de la situation fiscale ou immobilière de leurs prestataires ou de leurs assujettis, les organismes [*de sécurité sociale*] ou services qui ont besoin de ces informations pour asseoir des cotisations, pour accorder ou maintenir des prestations ou avantages quelconques prévus par les dispositions législatives et réglementaires en vigueur font souscrire une déclaration par les intéressés.
+I. - 1. Lorsqu'ils doivent connaître les ressources ou un élément quelconque de la situation fiscale ou immobilière de leurs prestataires ou de leurs assujettis, les organismes ou services qui ont besoin de ces informations pour asseoir des cotisations, pour accorder ou maintenir des prestations ou avantages quelconques prévus par les dispositions législatives et réglementaires en vigueur font souscrire une déclaration par les intéressés.
 
 2. Les services de la direction générale des impôts assurent le contrôle de cette déclaration par rapprochement avec les renseignements de toute nature qu'ils détiennent.
 
@@ -12,6 +12,4 @@ I. - 1. Lorsqu'ils doivent connaître les ressources ou un élément quelconque 
 
 6. L'Etat, les collectivités locales et les organismes ou services visés au paragraphe 4 ci-dessus peuvent poursuivre, dans les conditions et limites prévues par la législation et la réglementation applicables aux organismes en cause, la restitution des sommes indûment perçues, le versement des sommes dont le paiement a été éludé ou la contrepartie des avantages abusivement obtenus du fait d'un défaut de déclarations, d'une omission ou inexactitude dans ladite déclaration.
 
-II. - Quiconque aura fourni sciemment des renseignements inexacts ou incomplets dans la déclaration exigée en vue d'obtenir de l'Etat, des collectivités locales, de l'un des services ou organismes visés au paragraphe 4, un paiement ou avantage quelconque indû sera puni d'un emprisonnement de quatre ans [*durée*] et d'une peine d'amende de 60.000 F [*montant*] ou de l'une de ces deux peines seulement.
-
-(1) Amende applicable depuis le 3 août 1968.
+II. - (Abrogé)

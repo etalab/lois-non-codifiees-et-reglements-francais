@@ -1,3 +1,3 @@
 # Article 20-10
 
-Les articles L. 114-13 et L. 377-2 à L. 377-5 du code de la sécurité sociale sont applicables aux prestations instituées par la présente section.
+Sans préjudice des sanctions pénales encourues, le chapitre VII du titre VII du livre III du code de la sécurité sociale est applicable aux prestations instituées par la présente section.

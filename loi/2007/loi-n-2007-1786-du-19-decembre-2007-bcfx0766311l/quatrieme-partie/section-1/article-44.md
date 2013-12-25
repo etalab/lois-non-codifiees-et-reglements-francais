@@ -1,10 +1,11 @@
 # Article 44
 
-I.-Des expérimentations peuvent être menées, à compter du 1er janvier 2008 et pour une période n'excédant pas six ans, portant sur de nouveaux modes de rémunération des professionnels de santé ou de financement des centres de santé prévus à l'article L. 6323-1 du code de la santé publique et des maisons de santé mentionnées à l'article L. 6323-3 du même code, complétant le paiement à l'acte ou s'y substituant, sur le fondement d'une évaluation quantitative et qualitative de leur activité réalisée à partir des informations transmises par l'organisme local d'assurance maladie dont ils dépendent.
+I.-Des expérimentations peuvent être menées, à compter du 1er janvier 2008 et pour une période n'excédant pas sept ans, portant sur de nouveaux modes de rémunération des professionnels de santé ou de financement des centres de santé prévus à l'article L. 6323-1 du code de la santé publique et des maisons de santé mentionnées à l'article L. 6323-3 du même code, complétant le paiement à l'acte ou s'y substituant, sur le fondement d'une évaluation quantitative et qualitative de leur activité réalisée à partir des informations transmises par l'organisme local d'assurance maladie dont ils dépendent.
 
 En tant que de besoin, l'expérimentation peut déroger aux dispositions suivantes du code de la sécurité sociale :
 
-1° Articles L. 162-5, L. 162-5-9, L. 162-9, L. 162-11, L. 162-12-2, L. 162-12-9, L. 162-14, L. 162-14-1 et L. 162-32-1 en tant qu'ils concernent les tarifs, honoraires, rémunérations et frais accessoires dus aux professionnels de santé par les assurés sociaux et par l'assurance maladie ;
+1° Articles L. 162-5, L. 162-5-9, L. 162-9, L. 162-11, L. 162-12-2, L. 162-12-9,
+L. 162-14, L. 162-14-1 et L. 162-32-1 en tant qu'ils concernent les tarifs, honoraires, rémunérations et frais accessoires dus aux professionnels de santé par les assurés sociaux et par l'assurance maladie ;
 
 2° 1°, 2°, 6° et 9° de l'article L. 321-1 en tant qu'ils concernent les frais couverts par l'assurance maladie ;
 

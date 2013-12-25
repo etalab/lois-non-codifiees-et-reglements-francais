@@ -1,10 +1,10 @@
 # Article 73
 
-I.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement du fonds pour la modernisation des établissements de santé publics et privés est fixé à 370,27 millions d'euros pour l'année 2013.
+I.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement du fonds pour la modernisation des établissements de santé publics et privés est fixé à 343,47 millions d'euros  pour l'année 2013.
 
-II.-Le montant de la dotation globale pour le financement de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales, mentionnée à l'article L. 1142-23 du code de la santé publique, est fixé à 124 millions d'euros pour l'année 2013.
+II.-Le montant de la dotation globale pour le financement de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales, mentionnée à l'article L. 1142-23 du code de la santé publique, est fixé à 139 millions d'euros  pour l'année 2013.
 
-III.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement de l'Etablissement de préparation et de réponse aux urgences sanitaires est fixé à 22,2 millions d'euros pour l'année 2013.
+III.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement de l'Etablissement de préparation et de réponse aux urgences sanitaires est fixé à 32,2 millions d'euros  pour l'année 2013.
 
 IV.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement des agences régionales de santé au titre de leur budget de gestion est fixé, pour l'année 2013, à 160 millions d'euros, selon une répartition entre les régimes fixée par arrêté des ministres chargés de la santé, de la sécurité sociale et de l'agriculture.
 
