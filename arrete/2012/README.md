@@ -1869,7 +1869,6 @@
 - [Arrêté du 20 mars 2012 (ETSH1208471A)](arrete-du-20-mars-2012-etsh1208471a)
 - [Arrêté du 20 mars 2012 (IOCE1208681A)](arrete-du-20-mars-2012-ioce1208681a)
 - [Arrêté du 20 mars 2012 (IOCJ1207357A)](arrete-du-20-mars-2012-iocj1207357a)
-- [Arrêté du 20 mars 2012 (JUSB1206575A)](arrete-du-20-mars-2012-jusb1206575a)
 - [Arrêté du 20 mars 2012 (JUST1206628A)](arrete-du-20-mars-2012-just1206628a)
 - [Arrêté du 20 mars 2012 (MAEF1206427A)](arrete-du-20-mars-2012-maef1206427a)
 - [Arrêté du 20 mars 2012 (PRMX1207960A)](arrete-du-20-mars-2012-prmx1207960a)
