@@ -44,12 +44,8 @@ CHEFS DE SERVICE
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction des pêches maritimes et de l'aquaculture </p>
-</td>
-<td>
-<p align="left">Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture </p>
-</td>
+<td>Direction des pêches maritimes et de l'aquaculture </td>
+<td>Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture </td>
 </tr>
 <tr>
 <td align="center">
@@ -342,7 +338,7 @@ SOUS-DIRECTEURS
 </p>
 </td>
 <td align="center">
-<p align="left">Sous-directeur du financement du logement<br/>
+<p align="left">Sous-directeur du financement et de l'économie du logement et de l'aménagement<br/>
 </p>
 </td>
 </tr>
@@ -362,7 +358,7 @@ SOUS-DIRECTEURS
 </p>
 </td>
 <td align="center">
-<p align="left">Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières<br/>
+<p align="left">Sous-directeur de l'action territoriale et de la législation de l'eau <br/>
 </p>
 </td>
 </tr>

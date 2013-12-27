@@ -8,11 +8,11 @@
 </tr>
 <tr>
 <td>
-<p align="center"> ENTITÉ D'EMPLOI<br/>
+<p align="center">ENTITÉ D'EMPLOI<br/>
 </p>
 </td>
 <td>
-<p align="center"> INTITULÉ DE L'EMPLOI</p>
+<p align="center">INTITULÉ DE L'EMPLOI</p>
 </td>
 </tr>
 <tr>
@@ -52,16 +52,6 @@
 </td>
 <td align="center">
 <p align="left">Chef de service, délégué à l'action foncière et immobilière<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Délégation à la sécurité et à la circulation routière<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef de service, adjoint au délégué à la sécurité et à la circulation routière<br/>
 </p>
 </td>
 </tr>

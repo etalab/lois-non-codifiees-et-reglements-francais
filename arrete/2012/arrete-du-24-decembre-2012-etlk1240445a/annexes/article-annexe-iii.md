@@ -186,36 +186,6 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Délégation à la sécurité et à la circulation routière<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Sous-directeur de l'éducation routière<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Délégation à la sécurité et à la circulation routière<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Sous-directeur des actions transversales et des ressources<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Délégation à la sécurité et à la circulation routière<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Sous-directeur de l'action interministérielle<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Commissariat général au développement durable/direction de la recherche et de l'innovation<br/>
 </p>
 </td>
