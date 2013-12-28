@@ -1,0 +1,5 @@
+# Article 2
+
+L'épreuve d'admissibilité consiste en l'étude par le jury d'un dossier de reconnaissance des acquis de l'expérience professionnelle établi par le candidat. Ce dossier comporte deux parties, détaillées à l'annexe I du présent arrêté. Dans une première partie, le candidat décrit les responsabilités qui lui ont été confiées durant les différentes étapes de son parcours professionnel dans les domaines de l'enseignement technique, de la formation professionnelle et de l'insertion des mineurs. Dans une seconde partie, le candidat développe plus particulièrement l'expérience professionnelle qui plus paraît la plus significative de l'activité d'enseignement professionnel et l'insertion qu'il a dispensée aux mineurs dont il a assuré le suivi, suivant les modalités décrites en annexe II du présent arrêté.
+
+Après avoir examiné le dossier de reconnaissance des acquis de l'expérience professionnelle des candidats, le jury établit, par ordre alphabétique, la liste de ceux déclarés aptes qui seront autorisés à se présenter à l'épreuve d'admission.

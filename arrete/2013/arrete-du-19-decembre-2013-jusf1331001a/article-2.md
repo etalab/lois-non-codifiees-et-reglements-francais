@@ -1,0 +1,5 @@
+# Article 2
+
+L'épreuve d'admissibilité consiste en l'étude par le jury d'un dossier de reconnaissance des acquis de l'expérience professionnelle établi par le candidat comportant deux parties, détaillées à l'annexe I du présent arrêté. Dans une première partie, le candidat décrit les responsabilités qui lui ont été confiées dans la prise en compte de la réalité psychique afin de promouvoir l'autonomie des mineurs confiés à la protection judiciaire de la jeunesse durant les différentes étapes de son parcours professionnel. Dans une seconde partie, le candidat développe l'expérience de travail clinique qui lui paraît la plus significative de l'activité qu'il a conduit auprès des mineurs confiés aux établissements et services de la protection judiciaire de la jeunesse, suivant les modalités décrites en annexe II du présent arrêté.
+
+Après avoir examiné le dossier de reconnaissance des acquis de l'expérience professionnelle des candidats, le jury établit, par ordre alphabétique, la liste de ceux déclarés aptes qui seront autorisés à sa présenter à l'épreuve d'admission.
