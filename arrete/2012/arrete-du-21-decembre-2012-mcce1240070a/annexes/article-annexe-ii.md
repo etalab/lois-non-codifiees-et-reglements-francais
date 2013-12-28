@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Liste des départements dans lesquels le tarif des annonces légales en 2013 est égal au tarif de base minoré de 0,05 €, soit 3,95 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base minoré de 0,04 €, soit 4 € hors taxe la ligne
 
 16 Charente.
 

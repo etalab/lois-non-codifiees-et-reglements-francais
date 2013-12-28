@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Liste des départements dans lesquels le tarif des annonces légales en 2013 est égal au tarif de base majoré de 0,12 €, soit 4,12 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base majoré de 0,10 €, soit 4,14 € hors taxe la ligne
 
 01 Ain.
 

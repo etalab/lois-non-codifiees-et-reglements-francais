@@ -6,4 +6,4 @@ Si le nombre de signes par ligne est différent de celui de la ligne de référe
 
 Le prix de l'annonce peut également être établi au millimètre-colonne du filet supérieur au filet inférieur de l'annonce sur la base de la hauteur de ligne du corps employé et compte tenu, le cas échéant, du nombre de signes par ligne s'il est différent de celui de la ligne de référence.
 
-L'adjonction dans une annonce d'éléments personnalisés d'identification ou de reconnaissance ne peut concerner que l'annonceur. Ces éléments ne sont ajoutés qu'à la demande expresse de celui-ci.
+L'adjonction dans une annonce d'éléments personnalisés d'identification ou de reconnaissance ne peut concerner que l'annonceur en tant que personne soumise à cette obligation de publicité. Ces éléments ne sont ajoutés qu'à la demande expresse de celui-ci.

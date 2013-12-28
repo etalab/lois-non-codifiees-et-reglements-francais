@@ -1,6 +1,6 @@
 # Article Annexe IV
 
-Liste des départements dans lesquels le tarif des annonces légales en 2013 est égal au tarif de base majoré de 0,25 €, soit 4,25 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base majoré de 0,23 €, soit 4,27 € hors taxe la ligne
 
 07 Ardèche.
 

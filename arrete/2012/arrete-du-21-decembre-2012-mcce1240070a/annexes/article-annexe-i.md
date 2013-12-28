@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2013 est égal au tarif de base, soit 4 € hors taxe la ligne
+Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base, soit 4,04 € hors taxe la ligne
 
 03 Allier.
 
