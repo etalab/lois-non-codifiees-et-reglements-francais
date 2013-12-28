@@ -368,12 +368,12 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 </tr>
 <tr>
 <td>
-<p align="center"> Kourou</p>
+<p align="center">Kourou</p>
 </td>
 <td>
-<p align="center"> Guyane</p>
+<p align="center">Guyane</p>
 </td>
-<td> Réservé aux aéronefs basés et aux pilotes autorisés pour une utilisation dans le cadre des activités opérationnelles de la base spatiale et pour des évacuations sanitaires en situation de crise accidentelle majeure.</td>
+<td>Réservé aux aéronefs basés et aux pilotes autorisés pour une utilisation dans le cadre des activités opérationnelles de la base spatiale et pour des évacuations sanitaires en situation de crise accidentelle majeure.</td>
 </tr>
 <tr>
 <td align="center">
@@ -718,14 +718,6 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Aude</td>
 <td align="center">
 <br/>L'aérodrome ne peut être utilisé par un pilote que s'il a effectué une reconnaissance préalable du site avec un instructeur utilisateur du terrain.</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Nuits-Saint-Georges</td>
-<td align="center">
-<br/>Côte-d'Or</td>
-<td align="center">
-<br/>Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.<br/>Utilisable par les hélicoptères et les aéronefs ultralégers motorisés dans des conditions définies par le directeur de la sécurité de l'aviation civile Nord-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -1145,5 +1137,3 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 </tr>
 </tbody>
 </table>
-
-aux Antilles).

@@ -2063,6 +2063,15 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> Nuits-Saint-Georges</p>
+</td>
+<td>
+<p align="center"> Côte-d'Or</p>
+</td>
+<td/>
+</tr>
+<tr>
 <td align="center">
 <br/>Oloron-Herrère</td>
 <td align="center">
