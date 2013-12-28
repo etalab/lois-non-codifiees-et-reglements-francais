@@ -1796,7 +1796,6 @@
 - [Arrêté du 20 décembre 2012 (ACTI1238968A)](arrete-du-20-decembre-2012-acti1238968a)
 - [Arrêté du 20 décembre 2012 (BUDE1240831A)](arrete-du-20-decembre-2012-bude1240831a)
 - [Arrêté du 20 décembre 2012 (BUDE1241647A)](arrete-du-20-decembre-2012-bude1241647a)
-- [Arrêté du 20 décembre 2012 (BUDS1243089A)](arrete-du-20-decembre-2012-buds1243089a)
 - [Arrêté du 20 décembre 2012 (DEFH1240648A)](arrete-du-20-decembre-2012-defh1240648a)
 - [Arrêté du 20 décembre 2012 (DEFH1240896A)](arrete-du-20-decembre-2012-defh1240896a)
 - [Arrêté du 20 décembre 2012 (DEFH1240904A)](arrete-du-20-decembre-2012-defh1240904a)
