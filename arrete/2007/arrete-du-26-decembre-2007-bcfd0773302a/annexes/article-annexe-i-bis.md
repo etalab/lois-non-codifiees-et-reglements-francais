@@ -4,9 +4,7 @@ Raison sociale et adresse du fournisseur : ............................ Mois de 
 
 Numéro d'agrément du fournisseur : ..............................................................................
 
-Déclaration des quantités de tabacs manufacturés
-
-livrés aux débitants de Corse
+Déclaration des quantités de tabacs manufacturés livrés aux débitants de Corse
 
 I.-Détail des opérations relatives aux livraisons de tabac :
 
@@ -50,7 +48,7 @@ I.-Détail des opérations relatives aux livraisons de tabac :
 <p align="center">4</p>
 </td>
 <td width="488">
-<p>Remise brute due aux débitants au titre des autres produits du tabac (11,520 %) </p>
+<p>Remise brute due aux débitants au titre des autres produits du tabac (11,653 %) </p>
 </td>
 <td width="97">
 <p align="right">€ </p>
@@ -72,7 +70,7 @@ I.-Détail des opérations relatives aux livraisons de tabac :
 <p align="center">6</p>
 </td>
 <td width="488">
-<p>Remise nette due aux débitants au titre des autres produits du tabac (8,93 %) </p>
+<p>Remise nette due aux débitants au titre des autres produits du tabac (9,07 %) </p>
 </td>
 <td width="97">
 <p align="right">€ </p>
@@ -147,7 +145,9 @@ I.-Détail des opérations relatives aux livraisons de tabac :
 <tr>
 <td colspan="3">
 <p>(1) Il s'agit des livraisons "brutes" après des corrections des livraisons mais non diminuées des reprises. </p>
-<p>Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 € ; corrections des livraisons d'une valeur de 20 € ; reprise de produits d'une valeur de 50 € ; la valeur qui devra être reportée est de 80 € (valeur livraisons initiales-corrections des livraisons). </p>
+<p>Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 € ; corrections des livraisons d'une valeur de 20 € ; reprise de produits d'une valeur de 50 €.</p>
+<br/>
+<p>La valeur qui devra être reportée est de 80 € (valeur livraisons initiales-corrections des livraisons). </p>
 </td>
 </tr>
 </tbody>
