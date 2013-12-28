@@ -77,6 +77,7 @@
 - [Décret n°2011-1383 du 25 octobre 2011 (AGRT1122691D)](decret-n2011-1383-du-25-octobre-2011-agrt1122691d)
 - [Décret n°93-511 du 25 mars 1993 (PTTX9300034D)](decret-n93-511-du-25-mars-1993-pttx9300034d)
 - [Décret n°2011-1966 du 26 décembre 2011 (DEFD1126787D)](decret-n2011-1966-du-26-decembre-2011-defd1126787d)
+- [Décret n°2011-119 du 27 janvier 2011 (OMEO1034008D)](decret-n2011-119-du-27-janvier-2011-omeo1034008d)
 - [Décret n°2011-746 du 27 juin 2011 (ETSH1111863D)](decret-n2011-746-du-27-juin-2011-etsh1111863d)
 - [Décret n°2011-748 du 27 juin 2011 (ETSH1111851D)](decret-n2011-748-du-27-juin-2011-etsh1111851d)
 - [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
