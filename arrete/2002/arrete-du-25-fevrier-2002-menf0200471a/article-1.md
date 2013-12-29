@@ -6,152 +6,99 @@ Pour les ministères chargés de l'éducation nationale et de l'enseignement sup
 <tbody>
 <tr>
 <td>
-<p align="center">FONCTIONNAIRES APPARTENANT </p>
-<p>à un corps relevant des ministères chargés de l'éducation nationale et de l'enseignement supérieur </p>
+<p align="center"> FONCTIONNAIRES APPARTENANT À UN CORPS </p>
+<p align="center">relevant des ministères chargés de l'éducation nationale et de l'enseignement supérieur </p>
 </td>
 <td>
-<p align="center">FONCTIONNAIRES </p>
-<br/>
+<p align="center"> FONCTIONNAIRES </p>
 <p align="center">à statut commun </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Magasiniers spécialisés de 2e classe. </p>
-<br/>
-<p>Agents d'administration de recherche et de formation de 2e classe </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 2 </p>
+<td align="center" colspan="2">
+<p align="center">Fonctionnaires de catégorie C </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Magasiniers spécialisés de 1re classe </p>
-<br/>
-<p>Agents d'administration de recherche et de formation de 1re classe </p>
+<td align="center">
+<p align="left">Magasiniers des bibliothèques de 2e classe. </p>
+<p align="left">Adjoints techniques de recherche et de formation de 2e classe. </p>
+<p align="left">Adjoints techniques des établissements d'enseignement de 2e classe. <br/>
+</p>
 </td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 3 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Magasiniers spécialisés hors classe </p>
-<br/>
-<p>Adjoints administratifs de recherche et de formation </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 4 </p>
+<td align="center">
+<p align="left">
+<br/>Agents de catégorie C rémunérés en échelle 3. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Magasiniers en chef </p>
-<br/>
-<p>Adjoints administratifs de recherche et de formation principaux de 2e classe </p>
+<td align="center">
+<p align="left">Magasiniers des bibliothèques de 1re classe. </p>
+<p align="left">Adjoints techniques de recherche et de formation de 1re classe. </p>
+<p align="left">Adjoints techniques des établissements d'enseignement de 1re classe <br/>
+</p>
 </td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 5 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Magasiniers en chef principaux </p>
-<br/>
-<p>Adjoints administratifs de recherche et de formation principaux de 1re classe </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés dans le nouvel espace indiciaire </p>
+<td align="center">
+<p align="left">
+<br/>Agents de catégorie C rémunérés en échelle 4. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents techniques de laboratoire de 2e classe </p>
-<br/>
-<p>Ouvriers d'entretien et d'accueil de 2e classe </p>
+<td align="center">
+<p align="left">Magasiniers principaux des bibliothèques de 2e classe </p>
+<p align="left">Adjoints techniques principaux de recherche et de formation de 2e classe. </p>
+<p align="left">Adjoints techniques principaux des établissements d'enseignement de 2e classe. <br/>
+</p>
 </td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 2 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents techniques de laboratoire de 1re classe </p>
-<br/>
-<p>Aides de laboratoire </p>
-<br/>
-<p>Ouvriers d'entretien et d'accueil de 1re classe </p>
-<br/>
-<p>Ouvriers professionnels </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 3 </p>
+<td align="center">
+<p align="left">
+<br/>Agents de catégorie C rémunérés en échelle 5. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Aides principaux de laboratoire </p>
-<br/>
-<p>Ouvriers professionnels principaux </p>
+<td align="center">
+<p align="left">Magasiniers principaux des bibliothèques de 1re classe. </p>
+<p align="left">Adjoints techniques principaux de recherche et de formation de 1re classe. </p>
+<p align="left">Adjoints techniques principaux des établissements d'enseignement de 1re classe. <br/>
+</p>
 </td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 4 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Aides techniques de laboratoire </p>
-<br/>
-<p>Maîtres-ouvriers </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 5 </p>
+<td align="center">
+<p align="left">
+<br/>Agents de catégorie C rémunérés en échelle 6. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Aides techniques principaux de laboratoire </p>
-<br/>
-<p>Maîtres-ouvriers principaux </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés dans l'espace indiciaire spécifique </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents spécialistes </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 2 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents chefs de 1re catégorie </p>
-</td>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 4 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
+<td colspan="2">
 <p align="center">Fonctionnaires de catégorie B dont la rémunération indiciaire est au plus égale à celle correspondant à l'indice brut 380 </p>
-<p>Bibliothécaires adjoints spécialisés </p>
-<br/>
-<p>Infirmières et infirmiers de classe normale </p>
-<br/>
-<p>Assistants des bibliothèques </p>
-<br/>
-<p>Secrétaires d'administration scolaire et universitaire </p>
-<br/>
-<p>Secrétaires de documentation </p>
-<br/>
-<p>Secrétaires d'administration de recherche et de formation </p>
 </td>
-<td rowspan="2">
-<p>Agents du premier grade de la catégorie B</p>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Technicien de recherche et formation de classe normale. </p>
+<p align="left">Bibliothécaire assistant spécialisé de classe normale. </p>
+<p align="left">Infirmières et infirmiers de classe normale du ministère chargé de l'éducation nationale. <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Agents du premier grade de la catégorie B. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Technicien de recherche et formation de classe supérieure. </p>
+<p align="left">Bibliothécaire assistant spécialisé de classe supérieure. <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Agents du deuxième grade de la catégorie B.<br/>
+</p>
 </td>
 </tr>
 </tbody>

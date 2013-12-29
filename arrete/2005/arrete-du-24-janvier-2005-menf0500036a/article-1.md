@@ -5,166 +5,74 @@ Pour les ministères chargés de l'éducation nationale, de l'enseignement supé
 <table>
 <tbody>
 <tr>
-<td width="189">
-<p align="center">GRADES</p>
-<p align="center">d'assimilation</p>
+<td align="center">GRADES D'ASSIMILATION </td>
+<td align="center">AGENTS DE CATÉGORIE C D'ADMINISTRATION CENTRALE</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Echelle 6 <br/>
 </td>
-<td width="416">
-<p align="center">AGENTS DE CATEGORIE C</p>
-<p align="center">d'administration centrale ou de services déconcentrés</p>
+<td align="left">
+<br/>Magasinier principal des bibliothèques de 1re classe <p>Adjoint technique principal de recherche et de formation de 1re classe <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="189">
-<p>NEI</p>
+<td align="center">
+<br/>Echelle 5 <br/>
 </td>
-<td valign="top" width="416">
-<p>Magasinier en chef principal</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Adjoint technique principal de recherche et de formation</p>
+<td align="left">
+<br/>Magasinier principal des bibliothèques de 2e classe <p>Adjoint technique principal de recherche et de formation de 2e classe <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="189">
-<p>Echelle 5</p>
+<td align="center">
+<br/>Echelle 4 <br/>
 </td>
-<td valign="top" width="416">
-<p>Magasinier en chef</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Adjoint technique de recherche et de formation</p>
+<td align="left">
+<br/>Magasinier des bibliothèques de 1re classe <p>Adjoint technique de recherche et de formation de 1re classe </p>
+<p>Agent contractuel de 4e catégorie <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="189">
-<p>Echelle 4</p>
+<td align="center">
+<br/>Echelle 3 <br/>
 </td>
-<td valign="top" width="416">
-<p>Magasinier spécialisé hors classe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent technique principal de recherche et de formation</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent contractuel de 4e catégorie</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Assistant contractuel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="189">
-<p>Echelle 3</p>
-</td>
-<td valign="top" width="416">
-<p>Magasinier spécialisé de 1re classe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent des services techniques de recherche et de formation de 1re classe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent technique de recherche et de formation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="189">
-<p>Echelle 2</p>
-</td>
-<td valign="top" width="416">
-<p>Magasinier spécialisé de 2e classe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent des services techniques de recherche et de formation de 2e classe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Auxiliaire</p>
+<td align="left">
+<br/>Magasinier des bibliothèques de 2e classe <p>Adjoint technique de recherche et de formation de 2e classe <br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div align="left"> .</div>
 
 <table>
 <tbody>
 <tr>
-<td width="189">
-<p align="center">GRADES</p>
-<p align="center">d'assimilation</p>
+<td align="center">GRADES D'ASSIMILATION </td>
+<td align="center">AGENTS DE CATÉGORIE B <br/>dont la rémunération est au plus égale à celle <br/>qui correspond à l'indice brut 380 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Agent du premier grade <br/>de la catégorie B <br/>
 </td>
-<td width="416">
-<p align="center">AGENTS DE CATEGORIE B</p>
-<p align="center">dont la rémunération est au plus égale à celle qui correspond à l'indice brut 380, en administration centrale ou en services déconcentrés</p>
+<td align="left">
+<br/>Technicien de recherche et formation de classe normale <p>Bibliothécaire assistant spécialisé de classe normale </p>
+<p>Infirmières et infirmiers de classe normale du ministère chargé <br/>de l'éducation nationale </p>
+<p>Agent contractuel de 2e et 3e catégorie. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="10" valign="top" width="189">
-<p>Agent du premier grade de la catégorie B</p>
+<td align="center">
+<br/>Agent du deuxième grade <br/>de la catégorie B <br/>
 </td>
-<td valign="top" width="416">
-<p>Secrétaire administratif de recherche et de formation</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Maître auxiliaire</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Bibliothécaire adjoint spécialisé de 2e classe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Assistant des bibliothèques de classe normale</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Infirmière et infirmier de classe normale</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent contractuel de 2e et 3e catégorie</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Agent contractuel des bibliothèques de 2e et 3e catégorie</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Sous-bibliothécaire contractuel</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Secrétaire d'administration scolaire et universitaire de classe normale</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p>Technicien de recherche et de formation de classe normale</p>
+<td align="left">
+<br/>Technicien de recherche et formation de classe supérieure <p>Bibliothécaire assistant spécialisé de classe supérieure<br/>
+</p>
 </td>
 </tr>
 </tbody>

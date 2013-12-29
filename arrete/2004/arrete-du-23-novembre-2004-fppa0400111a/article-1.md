@@ -2,91 +2,69 @@
 
 Les montants de référence annuels de l'indemnité d'administration et de technicité prévus à l'article 4 du décret du 14 janvier 2002 susvisé sont fixés par grade, pour les personnels du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, conformément au tableau ci-dessous :
 
+<div>
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">GRADES</p>
+<td align="center">GRADES </td>
+<td align="center">MONTANTS DE RÉFÉRENCE <br/>(en euros) </td>
+</tr>
+<tr>
+<td align="left">
+<br/>Agents de catégorie C classés dans un grade rémunéré en échelle 3 <br/>
 </td>
-<td>
-<p align="center">MONTANTS </p>
-<br/>
-<p align="center">de référence </p>
-<br/>
-<p align="center">(en euros)</p>
+<td align="center">
+<br/>449,31 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 2</p>
+<td align="left">
+<br/>Agents de catégorie C classés dans un grade rémunéré en échelle 4 <br/>
 </td>
-<td>
-<p align="center">415,39</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 3</p>
-</td>
-<td>
-<p align="center">426,59</p>
+<td align="center">
+<br/>464,30 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 4</p>
+<td align="left">
+<br/>Agents de catégorie C classés dans un grade rémunéré en échelle 5 <br/>
 </td>
-<td>
-<p align="center">440,84</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents de catégorie C rémunérés en échelle 5</p>
-</td>
-<td>
-<p align="center">445,93</p>
+<td align="center">
+<br/>469,67 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents de catégorie C rémunérés en nouvelle échelle indiciaire</p>
+<td align="left">
+<br/>Agents de catégorie C classés dans un grade rémunéré en échelle 6 <br/>
 </td>
-<td>
-<p align="center">452,04</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents de catégorie C rémunérés en espace indiciaire spécifique</p>
-</td>
-<td>
-<p align="center">465,27</p>
+<td align="center">
+<br/>490,04 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents du premier grade de la catégorie B</p>
+<td align="left">
+<br/>Agents du 1er grade de la catégorie B <br/>
 </td>
-<td>
-<p align="center">558,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents du deuxième grade de la catégorie B</p>
-</td>
-<td>
-<p align="center">670,93</p>
+<td align="center">
+<br/>588,69 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Agents du troisième grade de la catégorie B</p>
+<td align="left">
+<br/>Agents du 2e grade de la catégorie B <br/>
 </td>
-<td rowspan="2">
-<p align="center">690,28</p>
+<td align="center">
+<br/>706,64 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Agents du 3e grade de la catégorie B <br/>
+</td>
+<td align="center">
+<br/>727,02<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
