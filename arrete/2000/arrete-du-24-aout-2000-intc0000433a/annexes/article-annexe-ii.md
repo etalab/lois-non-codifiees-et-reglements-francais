@@ -1,8 +1,7 @@
 # Article Annexe II
 
-<div align="center">PROGRAMME DE LA SCOLARITÉ DES ADJOINTS DE SÉCURITÉ<br clear="none"/>
-<br clear="none"/>
-</div>
+<div align="center">PROGRAMME DE LA SCOLARITÉ DES ADJOINTS DE SÉCURITÉ</div>
+<div align="center"/>
 <div align="center">I. ― Les fondamentaux </div>
 
 Fondamentaux 1 : relatifs à l'institution :
@@ -30,6 +29,16 @@ Fondamentaux 1 : relatifs à l'institution :
 ― les règles générales d'emploi des ADS ;
 
 ― les règles relatives à la déontologie policière ;
+
+― les caractéristiques du facteur humain en intervention ;
+
+― les causes, mécanismes et conséquences du stress ;
+
+― les stratégies relationnelles adaptées ;
+
+― les dynamiques de groupes dans le cadre des relations professionnelles et des relations avec la population ;
+
+― réagir face aux détresses ; .
 
 ― les fondements démocratiques ;
 

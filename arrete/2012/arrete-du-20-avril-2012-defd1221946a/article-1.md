@@ -12,7 +12,7 @@ La direction des ressources humaines comprend :
 
 Relèvent par ailleurs de la direction des ressources humaines du ministère de la défense :
 
-1° L'agence de reconversion de la défense, service à compétence nationale, dénommé  défense mobilité  ;
+1° L'agence de reconversion de la défense, service à compétence nationale, dénommé défense mobilité ;
 
 2° Les organismes extérieurs suivants :
 
@@ -24,4 +24,6 @@ Relèvent par ailleurs de la direction des ressources humaines du ministère de 
 
 ― le centre expert pour les ressources humaines du personnel civil du ministère de la défense ;
 
-- le service ministériel des systèmes d'information de fonctionnement-ressources humaines.
+― le service ministériel des systèmes d'information de fonctionnement-ressources humaines ;
+
+― le centre de rattachement des agents isolés.
