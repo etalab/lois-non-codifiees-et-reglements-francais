@@ -1,12 +1,10 @@
 # Article Annexe
 
-A N N E X E
-
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES  POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien(ne) d'intervention en froid industriel.
+Titre professionnel : technicien d'intervention en froid industriel (ancien intitulé : technicien [ne] d'intervention en froid industriel [niveau IV])
 
 Niveau : IV.
 
@@ -14,93 +12,75 @@ Code NSF : 227 r.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) d'intervention en froid industriel met en service et assure la maintenance des installations frigorifiques utilisées par l'industrie agroalimentaire, l'industrie chimique, la récupération d'énergie, les patinoires, la climatisation de grande puissance ainsi que des installations frigorifiques utilisées en froid commercial.
+Le technicien d'intervention en froid industriel assure la mise en service, la maintenance et l'optimisation énergétique des équipements frigorifiques industriels, tels que systèmes mono et bi-étagés, équipements à circuit frigorifique à l'ammoniac, au CO2 ou à circuit secondaire de refroidissement et systèmes de récupération de chaleur. Il intervient, entre autres, pour l'industrie agro-alimentaire, chimique et pétrochimique, les process industriels et le conditionnement de salles de production en agroalimentaire.
 
-Il (elle) peut également, sous la responsabilité de son hiérarchique, assurer le suivi de la réalisation d'un montage d'installation frigorifique industrielle par les sous-traitants.
+Il peut être amené à intervenir pour l'installation, la mise en service et la maintenance d'équipements frigorifiques de faible puissance nécessaires à la conservation des denrées et au refroidissement de petits process industriels.
 
-Il (elle) assure, par son intervention, la fonctionnalité et la fiabilité des installations qu'il (elle) a mises en service ou pour lesquelles il (elle) a réalisé la maintenance, en rapport avec le cahier des charges ou les besoins du client.
+Il travaille souvent seul et se rend sur les sites avec un véhicule de service. Il peut être soumis à des contraintes horaires et des astreintes particulières. Il est exposé aux risques liés au travail sur site : manutention, travail en hauteur, utilisation des postes à souder, risques électriques, risques liés à l'utilisation des fluides frigorigènes, en particulier l'ammoniac, et aux appareils sous pression.
 
-Lors de ses interventions, le (la) technicien(ne) d'intervention en froid industriel travaille souvent seul(e), ce qui nécessite une attention soutenue. Il (elle) doit respecter les normes de sécurité et appliquer la réglementation en vigueur.
-
-Il (elle) est amené(e) à effectuer certaines opérations dans un contexte à risques. L'exercice du métier comporte de fréquents travaux sur sites client (en milieu fermé), des déplacements fréquents et des horaires irréguliers liés aux modes et à la nature des interventions (urgences, astreintes).
+Il tient l'emploi dans le respect des règles de sécurité individuelles et collectives et, s'il existe, en application du plan de prévention sinon du plan particulier de sécurité et de protection de la santé (PPSPS), des règles sur la protection de l'environnement concernant les fluides frigorigènes et de la réglementation des équipements sous pression.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Mettre en service des installations frigorifiques à compression monoétagée à fluides fluorés utilisant des compresseurs à pistons de faible puissance
+1. Installer et mettre en service des équipements
 
-Manutentionner et monter des chambres froides, vitrines frigorifiques ainsi que leurs équipements.
+frigorifiques mono-étagés de faible puissance
 
-Démonter une installation frigorifique existante pour sa rénovation.
+Préparer l'installation d'un équipement frigorifique mono-étagé de faible puissance.
 
-Organiser l'exécution du montage, façonner et mettre en place des châssis, tuyauteries et accessoires d'une installation de froid commercial monoposte.
+Réaliser l'installation d'un équipement frigorifique mono-étagé de faible puissance.
 
-Réaliser le tableau électrique, le montage de la câblerie ainsi que les raccordements électriques d'une installation de froid commercial monoposte.
+Réaliser la mise en service d'un équipement frigorifique mono-étagée de faible puissance.
 
-Mettre en service une installation frigorifique neuve.
+2. Assurer la maintenance des équipements
 
-Modifier une installation frigorifique simple en vue d'améliorer sa fiabilité.
+frigorifiques mono-étagés de faible puissance
 
-2. Maintenir des installations frigorifiques mono et multipostes à compression monoétagée utilisant des compresseurs à pistons de faible puissance
+Réaliser la maintenance corrective d'un équipement frigorifique mono-étagé de faible puissance.
 
-Prendre en compte les aspects techniques et environnementaux d'une installation frigorifique.
+Réaliser la maintenance préventive d'un équipement frigorifique mono-étagé de faible puissance.
 
-Diagnostiquer les causes de dysfonctionnement d'une installation frigorifique.
+3. Assurer la mise en service des équipements
 
-Remplacer les éléments défectueux d'une installation frigorifique et la remettre en service.
+frigorifiques industriels
 
-Réaliser des interventions de maintenance sur les installations équipées d'automates programmables.
+Préparer la mise en service d'un équipement frigorifique industriel.
 
-Réaliser des interventions de maintenance sur les centrales frigorifiques.
+Réaliser la mise en service d'un équipement frigorifique industriel.
 
-Réaliser des interventions de maintenance sur les centrales de traitement d'air industriel.
+4. Assurer la maintenance des équipements frigorifiques industriels
 
-3. Mettre en service des installations de froid industriel
+Réaliser la maintenance corrective d'un équipement frigorifique industriel.
 
-mono et multipostes à compression biétagée
+Réaliser la maintenance préventive d'un équipement frigorifique industriel.
 
-Prendre en compte les aspects techniques et environnementaux d'une installation frigorifique industrielle.
-
-Réaliser, en collaboration avec une équipe de dépanneurs et sous la responsabilité du hiérarchique, la maintenance des compresseurs frigorifiques industriels.
-
-Mettre en service une installation frigorifique industrielle neuve.
-
-4. Maintenir des installations de froid industriel
-
-mono et multipostes à compression biétagée
-
-Réaliser la maintenance corrective de niveau III (norme NFX 60-010) des installations frigorifiques industrielles.
-
-Réaliser, en collaboration avec une équipe de dépanneurs et sous la responsabilité du hiérarchique, la maintenance des équipements frigorifiques industriels.
-
-Réaliser la maintenance préventive des équipements de froid industriels.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Les entreprises du froid commercial et du froid industriel et du conditionnement d'air.
+Le froid industriel : maintien de la chaîne du froid des produits agroalimentaires et industriels pour leur production et leur entreposage.
 
-Les constructeurs d'équipement de froid, lorsqu'ils possèdent un service montage ou un service après-vente.
+Le froid commercial : maintien de la chaîne du froid des produits dans leurs points de vente, pour des activités de construction, d'installation, de maintenance et d'exploitation.
 
-Les entreprises de maintenance assurant la gestion technique d'équipements, par contrat, pour le compte de leurs clients
+Technicien en froid, dépanneur en installations de froid et climatisation, électricien frigoriste, électromécanicien frigoriste, frigoriste.
 
-Les gros utilisateurs, lorsque ceux-ci assurent eux-mêmes la maintenance de leurs équipements.
+Code ROME :
 
-Codes ROME :
-
-44341 - Polymaintenicien.
-
-52332 - Maintenicien des systèmes thermiques, climatiques et frigorifiques.
+I1306-Installation et maintenance en froid, conditionnement d'air.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (norme C18-510).
+- articles R. 4544-9 et R. 4544-10 du code du travail : habilitation électrique délivrée par l'employeur au niveau :
 
-Agrément pour la manipulation de fluides frigorigènes.
+- BR pour la mise en service et la maintenance ;
 
-Certification de braseur pour les appareils sous pression (directive 97/23).
+- B1V pour le montage électrique ;
+
+- article R. 543-106 du code de l'environnement : attestation d'aptitude à la manipulation des fluides frigorigènes, catégorie I ;
+
+- article 54 de l'arrêté du 16 juillet 1997 relatif aux installations de réfrigération employant l'ammoniac comme fluide frigorigène : formation de sécurité à la conduite et la surveillance des installations frigorifiques contenant de l'ammoniac.
 
 Autorité responsable de la certification :
 
@@ -108,8 +88,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

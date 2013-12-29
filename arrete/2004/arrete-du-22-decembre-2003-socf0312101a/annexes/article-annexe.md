@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : contrôleur(se) technique automobile.
+Titre professionnel : contrôleur technique automobile (ancien intitulé : contrôleur technique automobile niveau V).
 
 Niveau : V.
 
@@ -12,67 +12,107 @@ Code NSF : 252 r.
 
 Résumé du référentiel d'emploi
 
-Le (la) contrôleur(se) technique automobile est un(e) ouvrier(ère) qualifié(e) qui effectue, au sein d'un centre de contrôle technique des véhicules de moins de 3,5 tonnes, conformément à la réglementation du ministère des transports.
+Le contrôleur technique automobile est un ouvrier qualifié qui réalise, au sein d'un centre agréé de contrôle technique automobile, le contrôle périodique des véhicules légers, conformément aux dispositions réglementaires du ministère en charge des transports.
 
-La finalité de sa fonction consiste à s'assurer, par différents contrôles et essais, de la conformité des véhicules aux critères de sécurité et, le cas échéant, à délivrer une autorisation de circuler.
+Sa mission consiste à établir des procès-verbaux de visites techniques réglementaires de véhicules, précisant leur état et conformité selon des critères établis par le ministère des transports.
 
-En respectant un protocole établi, il (elle) examine les différents points de contrôle des éléments de sécurité en utilisant des bancs et matériels de contrôle et statue sur leur conformité et leur état.
+En suivant une procédure donnée, il examine l'ensemble des points de contrôle définis dans le lexique officiel, effectue des relevés et des mesures, apprécie et enregistre les altérations qu'il constate.
 
-Sur un fichier informatisé, il (elle) consigne le résultat concernant chacun des points vérifiés, porte ses appréciations en s'aidant d'un lexique préétabli et rédige une synthèse des différentes observations sur le rapport de contrôle. En présence d'avaries ou de dysfonctionnements, il (elle) n'est pas autorisé(e) à établir un diagnostic ou à intervenir pour y remédier. Pour les véhicules spéciaux, il (elle) recherche dans la documentation et la réglementation les données techniques et les modalités spécifiées pour réaliser leur contrôle.
+Il met en œuvre des bancs d'essai et des équipements de mesure selon une méthodologie prescrite.
 
-Lors de la restitution du véhicule, il (elle) présente les résultats au client et explicite les différentes constatations et préconisations mentionnées dans le rapport de contrôle. Il (elle) assure la traçabilité et la transmission des résultats au réseau et à l'organisme technique central.
+Il consigne sur informatique ses résultats et observations pour éditer le procès-verbal de contrôle.
 
-Le (la) contrôleur(se) technique automobile veille à l'entretien et à la maintenance des matériels de mesure et de contrôle et s'assure de leur conformité en faisant régulièrement vérifier ces appareils par un organisme agréé.
+En restituant le véhicule, il commente au client les altérations mentionnées sur le rapport de contrôle.
 
-Il (elle) est encadré(e) sur le plan hiérarchique par un chef de centre, mais il (elle) est responsable de la chaîne de contrôle sur laquelle il (elle) opère et conduit ses opérations en relative autonomie. Il (elle) assume la responsabilité des contrôles qu'il (elle) effectue, conformément à l'agrément qu'il (elle) a obtenu de la préfecture et il (elle) est porté(e) garant(e) de la sécurité des véhicules sur lesquels il (elle) appose une vignette. Sa responsabilité étant engagée, il (elle) doit s'assurer de la pertinence de ses décisions et de leur objectivité, dans le strict respect des règles déontologiques et des procédures définies par la réglementation. A ce titre, il (elle) doit assurer une veille technologique et réglementaire pour actualiser le fonds documentaire et se perfectionner chaque année dans un centre agréé, conformément aux exigences de la législation.
+Dans le cadre de l'assurance qualité, il procède à des opérations de gestion administrative.
+
+Il rend compte à l'OTC (organisme technique central, en charge de la surveillance des contrôles) en transmettant l'ensemble de ses résultats de contrôle et en répondant aux observations qui lui sont faites.
+
+Le contrôleur technique est encadré sur le plan hiérarchique par un chef de centre.
+
+L'emploi s'exerce :
+
+- dans des centres de contrôle technique ou des centres auxiliaires sous enseigne d'un réseau ;
+
+- dans des centres indépendants non rattachés à un réseau.
+
+Conditions d'exercice de l'emploi :
+
+L'emploi nécessite le strict respect de la réglementation et des règles déontologiques du métier.
+
+La responsabilité individuelle du contrôleur est engagée par les procès-verbaux qu'il délivre.
+
+Il est tenu de s'informer des évolutions réglementaires pour actualiser ses pratiques.
+
+Le permis B est nécessaire pour manœuvrer les véhicules.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Conduire les opérations de contrôle technique
+1. Effectuer les visites techniques de contrôle des véhicules légers,
 
-des véhicules légers
+conformément aux dispositions réglementaires en vigueur
 
-Prendre en charge les véhicules et procéder à leur identification dans le cadre de la réglementation du contrôle technique automobile.
+Procéder à l'identification réglementaire de véhicules légers.
 
-Contrôler les organes mécaniques et leur fonctionnement, conformément à la réglementation du contrôle technique automobile.
+Contrôler le système de freinage de véhicules légers.
 
-Contrôler, à l'aide de bancs de mesure, les organes de freinage et de liaison au sol, conformément à la réglementation du contrôle technique automobile.
+Contrôler le système de direction de véhicules légers.
 
-Contrôler les équipements de visibilité et d'éclairage des véhicules.
+Contrôler les équipements de visibilité de véhicules légers.
 
-Effectuer le contrôle des structures de la carrosserie et des équipements, conformément à la réglementation du contrôle technique automobile.
+Contrôler les équipements d'éclairage et de signalisation de véhicules légers.
 
-2. Réaliser les opérations administratives et les démarches commerciales relatives au contrôle technique des véhicules automobiles
+Contrôler les équipements de liaison au sol de véhicules légers.
 
-Rédiger les rapports de contrôle technique des véhicules, assurer leur communication et leur traçabilité, conformément aux règles éditées par l'OTC (organisme technique central).
+Contrôler l'état de la structure et de la carrosserie de véhicules légers.
 
-Gérer la relation clientèle et établir le planning des interventions de contrôle technique des véhicules.
+Contrôler l'état et la conformité des équipements de sécurité de véhicules légers.
 
-Effectuer la gestion informatisée du contrôle technique des véhicules, conformément aux procédures d'assurance qualité.
+Contrôler les organes mécaniques de véhicules légers.
 
-Secteurs d'activités ou types d'emploi
+Contrôler la pollution et le niveau sonore de véhicules légers.
+
+Contrôler les équipements de véhicules électriques ou hybrides.
+
+Collecter les résultats de mesure et éditer un procès-verbal de contrôle technique.
+
+2. Réaliser les opérations de gestion administrative du contrôle technique réglementaire des véhicules légers, dans le cadre de l'assurance qualité
+
+Rendre compte au client des altérations relevées en restituant le véhicule.
+
+Exploiter les fonctions d'un logiciel de contrôle technique et vérifier ses mises à jour.
+
+S'assurer de l'état, de la conformité et de la validité des équipements de contrôle.
+
+Assurer le suivi qualité et la traçabilité des visites techniques effectuées.
+
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) contrôleur(se) technique automobile exerce :
+Par mesure réglementaire, l'emploi est limité aux seules entreprises inscrites sous le code NAF 7120A (contrôle périodique de tous types de véhicules avec la délivrance d'un procès-verbal).
 
-Dans un centre de contrôle technique.
+Contrôleur technique de véhicules légers (uniquement).
 
-Dans un centre auxiliaire rattaché à un réseau de contrôle.
-
-Dans un centre indépendant.
-
-Réglementation de l'activité :
-
-L'activité est soumise à un agrément, tant pour le centre que pour le contrôleur.
-
-Sa délivrance par la préfecture du lieu d'exercice est subordonnée à des conditions d'expérience et de formation.
+Chef de centre de contrôle technique VL, moyennant une formation réglementaire complémentaire.
 
 Code ROME :
 
-44321 - Mécanicien de véhicules particuliers et industriels.
+I1604-Mécanique automobile.
+
+Réglementation de l'activité :
+
+L'emploi est régi par l'arrêté référencé AM. 42.00.01 du ministère des transports qui définit les missions, les procédures de travail, les obligations de résultat, de rendu compte, les conditions d'exercice ainsi que les limites de l'activité, dont l'annexe IV précise les conditions à satisfaire pour accéder à la qualification de contrôleur technique automobile.
+
+Pour exercer, le contrôleur technique doit être titulaire d'un agrément délivré par le préfet de département.
+
+Pour conserver son agrément, il effectue chaque année un stage obligatoire de maintien de qualification.
+
+Toute intervention, diagnostic, devis ou expertise de véhicule lui sont strictement interdits.
+
+Une habilitation de type B1XL ou B2XL est requise pour le contrôle des véhicules électriques ou hybrides.
 
 Autorité responsable de la certification :
 
@@ -80,8 +120,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
