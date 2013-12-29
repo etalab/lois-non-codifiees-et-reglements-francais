@@ -3,5 +3,4 @@
 - [Chapitre Ier : Compétences](chapitre-ier)
 - [Chapitre II : Composition](chapitre-ii)
 - [Chapitre III : Organisation et fonctionnement](chapitre-iii)
-- [Chapitre IV : Dispositions transitoires et finales](chapitre-iv)
 - [Chapitre V : Dispositions transitoires et finales](chapitre-v)

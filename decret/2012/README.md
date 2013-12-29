@@ -627,7 +627,6 @@
 - [Décret n°2012-1074 du 21 septembre 2012 (AFSS1232787D)](decret-n2012-1074-du-21-septembre-2012-afss1232787d)
 - [Décret n°2012-1075 du 21 septembre 2012 (BUDD1208380D)](decret-n2012-1075-du-21-septembre-2012-budd1208380d)
 - [Décret n°2012-1287 du 21 novembre 2012 (DEFD1234156D)](decret-n2012-1287-du-21-novembre-2012-defd1234156d)
-- [Décret n°2012-1439 du 21 décembre 2012 (ETST1239149D)](decret-n2012-1439-du-21-decembre-2012-etst1239149d)
 - [Décret n°2012-1440 du 21 décembre 2012 (DEFH1233552D)](decret-n2012-1440-du-21-decembre-2012-defh1233552d)
 - [Décret n°2012-244 du 21 février 2012 (DEFF1201027D)](decret-n2012-244-du-21-fevrier-2012-deff1201027d)
 - [Décret n°2012-246 du 21 février 2012 (EFII1128752D)](decret-n2012-246-du-21-fevrier-2012-efii1128752d)

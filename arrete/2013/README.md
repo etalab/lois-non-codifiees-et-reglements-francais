@@ -198,3 +198,4 @@
 - [Arrêté du 28 novembre 2013 (JUSF1329701A)](arrete-du-28-novembre-2013-jusf1329701a)
 - [Arrêté du 28 novembre 2013 (MENE1329365A)](arrete-du-28-novembre-2013-mene1329365a)
 - [Arrêté du 30 juin 1992 (INDM9200552A)](arrete-du-30-juin-1992-indm9200552a)
+- [Arrêté du 31 décembre 2012 (EFIE1238702A)](arrete-du-31-decembre-2012-efie1238702a)
