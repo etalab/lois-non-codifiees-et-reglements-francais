@@ -14,11 +14,11 @@ Les cidres, poirés et pommeau qui ont fait l'objet d'une notification de refus 
 
 Les installations d'irrigation mises en place avant le 6 décembre 2006 et ne répondant pas aux conditions fixées à l'article D. 644-23 peuvent être utilisées jusqu'à la campagne 2009-2010 incluse.
 
-II. ― A titre transitoire, jusqu'à homologation du cahier des charges et au plus tard le  31 décembre 2013 :
+II. ― A titre transitoire, jusqu'à homologation du cahier des charges et au plus tard le 31 décembre 2016 :
 
 1° Pour les produits relevant du comité national des appellations laitières, agro-alimentaires et forestiers, les obligations déclaratives et de tenue de registres sont celles prévues par les dispositions réglementaires en vigueur le 30 juin 2008 ;
 
-2° Pour les produits relevant des secteurs de la production de pommes de terre, à l'exception des pommes de terre bénéficiant de l'appellation d'origine « pomme de terre primeur du Roussillon », de l'oléiculture et de la nuciculture, les obligations déclaratives et de tenue de registre sont les suivantes :
+2° Pour les produits relevant des secteurs de la production de pommes de terre, à l'exception des pommes de terre bénéficiant de l'appellation d'origine  " pomme de terre primeur du Roussillon " , de l'oléiculture et de la nuciculture, les obligations déclaratives et de tenue de registre sont les suivantes :
 
 a) Les pommes de terre :
 
@@ -98,7 +98,7 @@ Tout lot de noix susceptible de revendiquer l'appellation d'origine et vendu à 
 
 ― le lieu d'entreposage où seront stockées les noix.
 
-Les exploitations qui conditionnent et commercialisent des produits bénéficiant d'une appellation d'origine et dénommées « producteurs expéditeurs » doivent tenir à jour un registre d'entrées et sorties de leur produit. Ce registre doit permettre d'identifier les acheteurs, les quantités vendues par type de produits : noix fraîches, noix sèches et cerneaux.
+Les exploitations qui conditionnent et commercialisent des produits bénéficiant d'une appellation d'origine et dénommées " producteurs expéditeurs " doivent tenir à jour un registre d'entrées et sorties de leur produit. Ce registre doit permettre d'identifier les acheteurs, les quantités vendues par type de produits : noix fraîches, noix sèches et cerneaux.
 
 Les entreprises (coopératives ou négociants) achetant aux exploitations mentionnées au premier alinéa du III du présent article et qui commercialisent des produits bénéficiant d'une appellation d'origine doivent tenir à jour un registre d'entrées. Ce registre doit permettre d'identifier ces exploitations, les références du bon d'enlèvement et les quantités achetées par type de produits : noix fraîches, noix sèches et cerneaux.
 
