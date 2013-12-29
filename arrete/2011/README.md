@@ -2935,7 +2935,6 @@
 - [Arrêté du 31 octobre 2011 (SCSA1127877A)](arrete-du-31-octobre-2011-scsa1127877a)
 - [Arrêté du 31 octobre 2011 (TRAA1119083A)](arrete-du-31-octobre-2011-traa1119083a)
 - [Arrêté du 31 mai 2010 (MENH1014357A)](arrete-du-31-mai-2010-menh1014357a)
-- [Arrêté du 31 mai 2011 (AGRG1108198A)](arrete-du-31-mai-2011-agrg1108198a)
 - [Arrêté du 31 mai 2011 (AGRT1113333A)](arrete-du-31-mai-2011-agrt1113333a)
 - [Arrêté du 31 mai 2011 (BCRE1118283A)](arrete-du-31-mai-2011-bcre1118283a)
 - [Arrêté du 31 mai 2011 (DEVA1114916A)](arrete-du-31-mai-2011-deva1114916a)

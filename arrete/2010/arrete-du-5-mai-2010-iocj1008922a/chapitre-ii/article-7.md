@@ -1,6 +1,6 @@
 # Article 7
 
-La liste des candidats admis à la classe préparatoire intégrée est arrêtée par décision du directeur général de la gendarmerie nationale sur proposition du directeur des personnels militaires de la gendarmerie nationale.
+La liste des candidats admis à la classe préparatoire intégrée est arrêtée par décision du directeur des personnels militaires de la gendarmerie nationale.
 
 Cette liste peut être complétée par une liste complémentaire dont la validité cesse le premier jour du deuxième mois qui suit le début de la classe préparatoire intégrée.
 

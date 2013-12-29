@@ -4,10 +4,8 @@ La sélection des candidats à la classe préparatoire intégrée est effectuée
 
 ― du directeur des personnels militaires de la gendarmerie nationale, ou de son représentant, président de la commission ;
 
-― du commandant de la garde républicaine, ou de son représentant ;
-
 ― du commandant de l'Ecole des officiers de la gendarmerie nationale, ou de son représentant ;
 
 ― du sous-directeur des compétences, ou de son représentant ;
 
-― d'une personnalité qualifiée désignée par le directeur général de la gendarmerie nationale.
+― d'une personnalité qualifiée désignée par le sous-directeur des compétences.

@@ -1,3 +1,0 @@
-# Article 2
-
-L'épandage de produits mentionnés à l'article L. 253-1 du code rural et de la pêche maritime par voie aérienne ne peut être autorisé que lorsque la hauteur des végétaux, la topographie (reliefs accidentés, fortes pentes), les enjeux pédologiques des zones à traiter (portance des sols), la réactivité ou la rapidité d'intervention sur des surfaces importantes ne permettent pas l'utilisation des matériels de pulvérisation terrestres. L'épandage de ces produits par voie aérienne peut également être autorisé s'il présente des avantages manifestes pour la santé ou pour l'environnement dûment justifiés par rapport à l'utilisation de matériels de pulvérisation terrestres.

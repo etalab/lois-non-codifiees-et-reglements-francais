@@ -12,13 +12,13 @@ Le dossier de demande d'habilitation est composé des éléments suivants :
 
 a) Un formulaire de demande d'habilitation ;
 
-b) Chacun des programmes de formation portant sur les points liés à la bien-traitance des animaux, en référence à l'annexe IV du règlement (CE) n° 1099/2009, et leurs durées ;
+b) Chacun des programmes de formation et leurs contenus détaillés, portant sur les points liés à la bien-traitance des animaux, en référence à l'annexe IV du règlement (CE) n° 1099/2009 et leurs durées ;
 
-c) La présentation des moyens pédagogiques, techniques et d'encadrement mis en œuvre ;
+c) La présentation de moyens pédagogiques, techniques et d'encadrement mis en œuvre, suffisants pour former un large public ;
 
 d) Un exemplaire du dossier remis au stagiaire conformément à l'article L. 6353-8 du code du travail ;
 
-e) La liste des intervenants, leurs qualifications en matière de formation à la bien-traitance des animaux ainsi que les supports de formation.
+e) La liste des intervenants et leurs qualifications en matière de formation à la bien-traitance des animaux.
 
 Le dispensateur de formation s'engage à respecter le cahier des charges suivant :
 

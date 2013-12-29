@@ -4,7 +4,7 @@
 
 I.-Calendrier
 
-Date de dépôt des dossiers de candidature entre le 1er avril et le 15 mai de chaque année.
+Date de dépôt des dossiers de candidature entre le 15 février  et le 15 mai de chaque année.
 
 II.-Lieu de dépôt
 
