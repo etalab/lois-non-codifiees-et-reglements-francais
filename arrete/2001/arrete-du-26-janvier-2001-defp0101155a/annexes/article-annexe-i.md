@@ -10,11 +10,7 @@ En vue de son inscription au concours, chaque candidat doit fournir les pièces 
 
 3. Le certificat médical prévu à l'article 3 du décret du 9 mai 1995 susvisé ;
 
-4. Un chèque libellé à l'ordre de l'agent comptable de l'Ecole polytechnique, en règlement des droits d'inscription mentionnés à l'article 2 du présent arrêté ;
-
-5. Une attestation de bourse pour les candidats boursiers (dispensés de droit d'inscription) ;
-
-6. Un dossier académique constitué de pièces décrivant, de manière détaillée, son cursus à compter de la fin des études secondaires :
+4. Un dossier académique constitué de pièces décrivant, de manière détaillée, son cursus à compter de la fin des études secondaires :
 
 a) Un mémoire personnel, rédigé par le candidat, présentant ses centres d'intérêts scientifiques et autres (associatifs, sportifs, etc.) et précisant ses intentions d'études et ses motivations. A ce texte peuvent être joints, le cas échéant, tous mémoires ou rapports de stage établis par le candidat ;
 

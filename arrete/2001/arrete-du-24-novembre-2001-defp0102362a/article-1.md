@@ -10,6 +10,6 @@ Les candidats ne peuvent, au titre d'une année, se présenter qu'à une seule d
 
 Les candidats à la première voie du concours ne peuvent pas s'y présenter plus de trois fois.
 
-Les candidats à la seconde voie du concours ne doivent pas avoir subi les épreuves de l'autre voie du concours lors d'une session antérieure. Ils ne doivent pas être ou avoir été inscrits en seconde année d'une classe préparatoire aux écoles d'ingénieurs, ni dans une préparation aux études d'ingénieur universitaires, ni dans une grande école française, ni en deuxième année de master ou en doctorat.
+Les candidats à la seconde voie du concours ne doivent pas avoir subi les épreuves de l'autre voie du concours lors d'une session antérieure. Ils ne doivent pas être ou avoir été inscrits en seconde année d'une classe préparatoire aux écoles d'ingénieurs, ni dans une préparation aux études d'ingénieur universitaires, ni dans une grande école scientifique française, ni en deuxième année de master ou en doctorat.
 
-Les candidats à la seconde voie du concours ne peuvent s'y présenter qu'une seule fois. Toutefois, le jury d'admission peut autoriser un candidat admissible, et non admis, à passer une seconde fois les épreuves orales d'admission. Il n'est pas nécessaire dans ce cas que le candidat se réinscrive ou remplisse un nouveau dossier de candidature. Le candidat pourra néanmoins compléter son relevé de notes.
+Les candidats à la seconde voie du concours ne peuvent s'y présenter qu'une seule fois.

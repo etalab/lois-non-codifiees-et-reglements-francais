@@ -1,6 +1,6 @@
 # Article 14
 
-Les opérations de la seconde voie du concours comportent :
+Les opérations de la seconde voie du concours d'admission des candidats n'ayant pas poursuivi leurs études supérieures scientifiques dans un établissement d'enseignement supérieur français comportent :
 
 - une admissibilité sur dossier académique ;
 

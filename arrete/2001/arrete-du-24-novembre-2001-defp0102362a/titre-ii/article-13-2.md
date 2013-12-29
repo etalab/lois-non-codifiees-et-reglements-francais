@@ -1,0 +1,5 @@
+# Article 13-2
+
+L'admission à l'Ecole polytechnique d'élèves étrangers poursuivant leurs études supérieures scientifiques en France est organisée, sous réserve des dispositions spécifiques faisant l'objet de l'article 13-3 ci-dessous, dans les mêmes conditions que celles des candidats français définies par l'arrêté du 26 janvier 2001 relatif aux conditions d'admission des élèves français par la filière universitaire.
+
+Sont considérés comme candidats étrangers poursuivant leurs études supérieures en France, au sens des dispositions relatives au concours d'admission à l'Ecole polytechnique, les candidats étrangers ayant effectué leur deuxième année de licence de sciences ou de sciences et technologie dans un établissement d'enseignement supérieur français et inscrits, l'année du concours, dans une université en troisième année de licence de sciences ou de sciences et technologie ou en magistère portant sur l'une ou plusieurs des mentions suivantes : mathématiques, informatique, mécanique, physique, chimie ou une mention jugée équivalente par la commission prévue à l'article 7 de l'arrêté du 26 janvier 2001 précité.
