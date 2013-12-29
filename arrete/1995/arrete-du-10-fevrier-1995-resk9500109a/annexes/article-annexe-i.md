@@ -2,14 +2,14 @@
 
 Horaire hebdomadaire des filières mathématique et physique, physique et chimie, physique et sciences de l'ingénieur, physique et technologie
 
-Première année : classes de " mathématiques, physique et sciences de l'ingénieur ", " physique, chimie et sciences de l'ingénieur ",
+Première année : classes de " mathématique, physique et sciences de l'ingénieur ", " physique, chimie et sciences de l'ingénieur ",
 
 " physique, technologie et sciences de l'ingénieur "
 
 <table>
 <tbody>
 <tr>
-<td>
+<td rowspan="2">
 <p align="center">DISCIPLINES</p>
 </td>
 <td colspan="15">
@@ -17,7 +17,6 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 </td>
 </tr>
 <tr>
-<td/>
 <td colspan="3">
 <p align="center">Mathématique, physique et sciences de l'ingénieur</p>
 </td>
@@ -30,9 +29,11 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 </tr>
 <tr>
 <td>
-<br/>
+<p align="center">Première période</p>
 </td>
-<td colspan="3" valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
 <td colspan="9">
 <p align="center">Enseignements communs</p>
 </td>
@@ -41,8 +42,27 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td valign="top"/>
 </tr>
 <tr>
-<td valign="top">
-<p>Première période</p>
+<td valign="top"/>
+<td>
+<p align="center">Cours</p>
+</td>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="center">TP</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">Cours</p>
@@ -53,21 +73,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">TP</p>
 </td>
-<td/>
-<td/>
-<td/>
 <td>
-<p align="center">Cours</p>
+<br/>
+<br/>
 </td>
 <td>
-<p align="center">TD</p>
+<br/>
+<br/>
 </td>
 <td>
-<p align="center">TP</p>
+<br/>
+<br/>
 </td>
-<td/>
-<td/>
-<td/>
 <td>
 <p align="center">Cours</p>
 </td>
@@ -88,10 +105,22 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">7 (f)</p>
 </td>
@@ -99,16 +128,28 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <p align="center">3</p>
 </td>
 <td valign="top"/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">6</p>
 </td>
 <td>
 <p align="center">3</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -120,10 +161,22 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">5 (f)</p>
 </td>
@@ -133,9 +186,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">4</p>
 </td>
@@ -153,11 +215,26 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
@@ -167,13 +244,25 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1,5</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -188,10 +277,22 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -201,9 +302,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
@@ -221,27 +331,54 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -253,24 +390,60 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -279,24 +452,60 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -305,24 +514,60 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -337,9 +582,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">3</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">22</p>
 </td>
@@ -349,14 +603,23 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">6,5</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">20</p>
 </td>
 <td>
-<p align="center">7,5</p>
+<p align="center">8</p>
 </td>
 <td>
 <p align="center">5,5</p>
@@ -369,32 +632,77 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
 <p align="center">2e période</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td colspan="3">
 <p align="center">Option physique et chimie</p>
 </td>
@@ -404,9 +712,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td colspan="3">
 <p align="center">Option physique et sciences de l'ingénieur</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top"/>
@@ -466,27 +783,54 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">7 (f)</p>
 </td>
 <td>
 <p align="center">3</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">6 (e)</p>
 </td>
 <td>
 <p align="center">3</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -501,9 +845,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">5 (f)</p>
 </td>
@@ -513,9 +866,18 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">4</p>
 </td>
@@ -533,7 +895,10 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -546,20 +911,35 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">1,5</p>
 </td>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
 <td>
-<p align="center">1</p>
+<br/>
+<br/>
 </td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -577,12 +957,30 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">(a)(b)</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -609,27 +1007,54 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td valign="top">
 <p align="center">1</p>
 </td>
-<td valign="top"/>
+<td valign="top">
+<br/>
+<br/>
+</td>
 <td valign="top">
 <p align="center">1</p>
 </td>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
+<td valign="top">
+<br/>
+<br/>
+</td>
+<td valign="top">
+<br/>
+<br/>
+</td>
+<td valign="top">
+<br/>
+<br/>
+</td>
 <td valign="top">
 <p align="center">1</p>
 </td>
-<td valign="top"/>
+<td valign="top">
+<br/>
+<br/>
+</td>
 <td valign="top">
 <p align="center">1</p>
 </td>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
+<td valign="top">
+<br/>
+<br/>
+</td>
+<td valign="top">
+<br/>
+<br/>
+</td>
+<td valign="top">
+<br/>
+<br/>
+</td>
 <td valign="top">
 <p align="center">1</p>
 </td>
-<td valign="top"/>
+<td valign="top">
+<br/>
+<br/>
+</td>
 <td valign="top">
 <p align="center">1</p>
 </td>
@@ -641,24 +1066,60 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -667,52 +1128,118 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td valign="top"/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
 <p>Travaux d'initiative personnelle encadrés</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">1</p>
 </td>
 <td>
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -721,24 +1248,60 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -748,10 +1311,10 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <p align="center">23</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">6</p>
 </td>
 <td>
-<p align="center">4</p>
+<p align="center">3</p>
 </td>
 <td>
 <p align="center">2</p>
@@ -784,7 +1347,7 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <p align="center">20</p>
 </td>
 <td>
-<p align="center">9,5</p>
+<p align="center">10</p>
 </td>
 <td>
 <p align="center">5,5</p>
@@ -797,24 +1360,60 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 <td>
 <p align="center">2</p>
 </td>
-<td/>
-<td/>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td colspan="16" valign="top">
@@ -849,7 +1448,7 @@ Première année : classes de " mathématiques, physique et sciences de l'ingén
 </tbody>
 </table>
 
-Deuxième année : classes de " mathématiques et physique ", " physique et chimie ", " physique et sciences de l'ingénieur ",
+Deuxième année : classes de " mathématique et physique ", " physique et chimie ", " physique et sciences de l'ingénieur ",
 
 " physique et technologie ", affectées ou non d'une étoile (*)
 
@@ -1306,7 +1905,7 @@ Deuxième année : classes de " mathématiques et physique ", " physique et chim
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">20,5</p>
+<p align="center">21</p>
 </td>
 <td>
 <p align="center">5,5</p>
@@ -1327,7 +1926,7 @@ Deuxième année : classes de " mathématiques et physique ", " physique et chim
 <p align="center">18</p>
 </td>
 <td>
-<p align="center">9,5</p>
+<p align="center">10</p>
 </td>
 <td>
 <p align="center">5,5</p>
