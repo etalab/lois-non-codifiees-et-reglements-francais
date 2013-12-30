@@ -10,7 +10,7 @@ Les coefficients multiplicateurs de la taxe additionnelle à la taxe sur les ins
 </th>
 <th>
 <br/>COEFFICIENTS <p>multiplicateurs </p>
-<p>Recherche <br/>
+<p>recherche <br/>
 </p>
 </th>
 </tr>
@@ -19,7 +19,7 @@ Les coefficients multiplicateurs de la taxe additionnelle à la taxe sur les ins
 <br/>Réacteurs nucléaires de production d'énergie autres que ceux consacrés à titre principal à la recherche (par tranche) <br/>
 </td>
 <td align="center">
-<br/>4,3 <br/>
+<br/>5,08 <br/>
 </td>
 </tr>
 <tr>
@@ -27,7 +27,7 @@ Les coefficients multiplicateurs de la taxe additionnelle à la taxe sur les ins
 <br/>Réacteurs nucléaires de production d'énergie consacrés à titre principal à la recherche <br/>
 </td>
 <td align="center">
-<br/>4,8 <br/>
+<br/>6,5 <br/>
 </td>
 </tr>
 <tr>
@@ -35,16 +35,25 @@ Les coefficients multiplicateurs de la taxe additionnelle à la taxe sur les ins
 <br/>Autres réacteurs nucléaires <br/>
 </td>
 <td align="center">
-<br/>4,8 <br/>
+<br/>6,5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Usines de traitement de combustibles nucléaires usés <br/>
+<br/>Usines de traitement de combustibles usés <br/>
 </td>
 <td align="center">
-<br/>4,4<br/>
+<br/>5,14<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="left">
+
+<div align="left"/>
+</div>
+
+<div align="left">
+
+</div>
