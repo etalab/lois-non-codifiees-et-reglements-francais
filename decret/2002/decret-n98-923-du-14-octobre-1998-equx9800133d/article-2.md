@@ -1,9 +1,7 @@
 # Article 2
 
-Cet établissement est habilité, dans l'ensemble du département de la Loire, ainsi que dans les cantons des départements de l'Ardèche, de la Drôme, de l'Isère et du Rhône dont la liste est annexée au présent décret :
+Conformément aux dispositions de l'article L. 321-1 du code de l'urbanisme, l'établissement est habilité à procéder à toutes acquisitions foncières et opérations immobilières et foncières de nature à faciliter l'aménagement. Il peut aussi effectuer les études et travaux nécessaires à leur accomplissement et, le cas échéant, participer à leur financement.
 
-1° A procéder à toutes acquisitions foncières et toutes opérations immobilières et foncières de nature à faciliter l'aménagement au sens de l'article L. 300-1 du code de l'urbanisme et, spécialement, la reconversion des friches industrielles et des emprises militaires et la réhabilitation des sites urbains dégradés et de leurs abords, et à contribuer à l'aménagement du territoire ;
+Ces missions peuvent être réalisées par l'établissement public foncier soit pour son compte ou celui de l'Etat et de ses établissements publics, soit pour celui des collectivités territoriales, de leurs groupements, ou de leurs établissements publics en application de conventions passées avec eux.
 
-2° A procéder à la réalisation des études et travaux nécessaires à l'accomplissement des missions définies au 1° ci-dessus ;
-
-Les missions définies aux 1° et 2° ci-dessus peuvent être réalisées par l'établissement public soit pour son compte ou celui de l'Etat et de ses établissements publics, soit pour le compte des collectivités territoriales et de leurs groupements conformément à des conventions passées avec eux.
+Pour la préservation des espaces naturels et agricoles, l'Etablissement public foncier de l'Ouest Rhône-Alpes peut passer avec la société d'aménagement foncier et d'établissement rural de la région Rhône-Alpes et tout établissement public exerçant des compétences en matière foncière des conventions-cadres qui définissent leurs modalités de coopération.
