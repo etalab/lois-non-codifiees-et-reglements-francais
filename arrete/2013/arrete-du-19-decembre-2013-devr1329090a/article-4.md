@@ -1,0 +1,5 @@
+# Article 4
+
+a) La période hivernale s'étend du 1er novembre au 31 mars. La période estivale s'étend du 1er avril au 31 octobre. La durée totale d'engagement de disponibilité sur le contrat ne peut excéder trois ans.
+
+b) Pour chacune des périodes définies au a, l'installation de cogénération s'engage à rendre disponible une puissance garantie, avec un taux de disponibilité minimum de 90 %, calculé selon les modalités de l'article 9. La valeur de la puissance garantie est définie contractuellement pour chaque période et peut être modifiée par avenant avant le début de chaque période. La puissance garantie en été peut être différente de la puissance garantie en hiver. Elle peut être nulle en été. Les puissances garanties hiver et été sont dans tous les cas inférieures à la puissance électrique maximale installée Pmax déclarée conformément à l'article 3. Les puissances garanties hiver et été sont communiquées par Electricité de France au gestionnaire du réseau de transport d'électricité afin de permettre le calcul de disponibilité tel que décrit à l'article 8.
