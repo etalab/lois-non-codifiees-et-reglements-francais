@@ -1,3 +1,3 @@
 # Article Annexe
 
-Les annexes I, II, III et IV sont publiées au Bulletin officiel du ministère du travail, de l'emploi et de la santé sous les références respectives n°s 2012-1 bis, 2012-2 bis et 2012-3 bis.
+Les annexes I, II et III seront publiées au Bulletin officiel du ministère des affaires sociales et de la santé sous les références respectives n°s 2014-8 bis, 2014-2 bis et 2014-3 bis.

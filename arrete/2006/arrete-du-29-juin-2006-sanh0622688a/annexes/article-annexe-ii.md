@@ -1,3 +1,3 @@
 # Article Annexe II
 
-L'annexe II sera publiée au Bulletin officiel du ministère sous la référence n° 2011-4 bis.
+L'annexe sera publiée au Bulletin officiel du ministère des affaires sociales et de la santé sous la référence 2014-4 bis.
