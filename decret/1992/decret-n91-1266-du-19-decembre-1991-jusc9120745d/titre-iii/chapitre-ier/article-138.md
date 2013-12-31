@@ -8,6 +8,6 @@ Elle est présidée par le président du conseil national et, en cas d'empêchem
 
 Elle comprend en outre :
 
-1. Deux membres choisis parmi ceux mentionnés aux 1° à 5° et 11° à 14° de l'article 134 ;
+1. Deux membres choisis parmi ceux mentionnés aux 1° à 5° et 10° à 13° de l'article 134 ;
 
-2. Trois membres choisis parmi ceux mentionnés aux 6° à 10° de l'article 134, dont au moins un parmi ceux mentionnés au 6°.
+2. Trois membres choisis parmi ceux mentionnés aux 6° à 9° de l'article 134, dont au moins un parmi ceux mentionnés au 6°.

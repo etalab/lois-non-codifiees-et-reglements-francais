@@ -18,9 +18,7 @@ Conformément aux dispositions des articles 27,64-1,64-2 et 64-3 de la loi n° 9
 
 4° Les missions d'assistance aux détenus au cours de procédures disciplinaires en relation avec leur détention, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Conformément aux dispositions du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, la Carpa reçoit également le produit de la contribution pour l'aide juridique instaurée par l'article 1635 bis Q du code général des impôts. Cette dotation, qui est arrêtée par le Conseil national des barreaux et versée par l'Union nationale des caisses de règlements pécuniaires des avocats dans le cadre de la convention de gestion prévue au deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, est intégralement affectée à la rétribution des avocats pour les missions d'aide juridictionnelle.
-
-Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat. Les enregistrements distinguent également l'origine des fonds affectés à l'aide juridictionnelle (dotation de l'Etat, produit de la contribution de l'aide juridique).
+Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat.
 
 Une dotation complémentaire peut être versée conformément aux articles 91 et 132-6 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal de grande instance près duquel il est établi un protocole relatif à l'organisation de la défense, homologué par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas il convient de se référer aux dispositions contenues dans ledit protocole (cf. chapitre IV).
 
@@ -49,8 +47,6 @@ c) (s'il y a lieu) protocole articles 91 et 132-6.
 Article 3
 
 Les fonds sont versés par l'Etat sur le compte Carpa-aide juridictionnelle dont les références ont été communiquées à l'ordonnateur compétent ou son délégataire. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
-
-Les fonds sont versés par l'Union nationale des caisses de règlements pécuniaires des avocats sur le compte " Carpa-aide juridictionnelle " dont les références lui ont été communiquées.
 
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
@@ -81,8 +77,6 @@ Article 8
 Les placements de fonds correspondant aux dotations reçues au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat doivent être distincts des autres placements effectués par la Carpa.
 
 Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
-
-Les fonds versés en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle.
 
 Article 9
 
@@ -312,7 +306,7 @@ Transmission des états liquidatifs et comptables
 
 Article 36
 
-La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire ainsi qu'au Conseil national des barreaux et à l'Union nationale des caisses des règlements pécuniaires des avocats :
+La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire :
 
 1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 118 du décret du 19 décembre 1991 précité ;
 

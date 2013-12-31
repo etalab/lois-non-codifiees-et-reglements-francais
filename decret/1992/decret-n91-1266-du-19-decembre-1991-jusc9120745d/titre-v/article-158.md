@@ -6,6 +6,6 @@ Le premier président de la cour d'appel et le procureur général près cette c
 
 -aux frais avancés par l'Etat au titre de l'aide juridictionnelle afférents aux instances devant les juridictions situées dans leur ressort et à l'exécution d'une décision de justice ou de tout autre titre exécutoire dans leur ressort ;
 
--à la rétribution des avocats inscrits aux barreaux établis près des tribunaux de grande instance de leur ressort prêtant leur concours au titre de l'aide juridictionnelle ou de l'aide à l'intervention de l'avocat prévue par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée.
+Ils sont également institués ordonnateurs secondaires des recettes se rapportant à la rétribution des avocats inscrits aux barreaux établis près des tribunaux de grande instance de leur ressort prêtant leur concours au titre de l'aide juridictionnelle ou de l'aide à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée.
 
 Ils peuvent déléguer conjointement leur signature, sous leur responsabilité, aux magistrats ou aux agents en fonction dans le ressort de la cour d'appel.
