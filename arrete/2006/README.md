@@ -307,7 +307,6 @@
 - [Arrêté du 28 septembre 2006 (MENE0601959A)](arrete-du-28-septembre-2006-mene0601959a)
 - [Arrêté du 29 décembre 2005 (BUDB0510048A)](arrete-du-29-decembre-2005-budb0510048a)
 - [Arrêté du 29 décembre 2005 (BUDB0510056A)](arrete-du-29-decembre-2005-budb0510056a)
-- [Arrêté du 29 décembre 2005 (BUDB0510060A)](arrete-du-29-decembre-2005-budb0510060a)
 - [Arrêté du 29 décembre 2005 (SOCF0610022A)](arrete-du-29-decembre-2005-socf0610022a)
 - [Arrêté du 29 décembre 2006 (PRMX0609799A)](arrete-du-29-decembre-2006-prmx0609799a)
 - [Arrêté du 29 juin 2006 (ECOZ0600106A)](arrete-du-29-juin-2006-ecoz0600106a)
