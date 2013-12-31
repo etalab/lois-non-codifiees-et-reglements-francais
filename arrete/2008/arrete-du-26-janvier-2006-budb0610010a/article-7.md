@@ -1,3 +1,0 @@
-# Article 7
-
-L'autorité chargée du contrôle financier met en place un programme annuel de contrôle a posteriori qu'elle arrête en fonction des risques budgétaires évalués et qu'elle transmet à la direction de l'évaluation de la performance et des affaires financières et immobilières, aux responsables de programme et de BOP concernés, avant le 1er mars de chaque année. Indépendamment de ce programme, elle peut, à tout moment, procéder au contrôle a posteriori d'un acte dispensé de visa ou d'avis. L'ordonnateur est tenu de communiquer, à la demande de l'autorité chargée du contrôle financier, tous les documents nécessaires au bon accomplissement de ce contrôle. Le contrôle a posteriori s'exerce après paiement de la dépense.
