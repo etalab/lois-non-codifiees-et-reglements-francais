@@ -170,7 +170,6 @@
 - [Arrêté du 6 février 2007 (ECOS0750007A)](arrete-du-6-fevrier-2007-ecos0750007a)
 - [Arrêté du 6 février 2007 (INTA0700095A)](arrete-du-6-fevrier-2007-inta0700095a)
 - [Arrêté du 6 février 2007 (SANS0720594A)](arrete-du-6-fevrier-2007-sans0720594a)
-- [Arrêté du 6 juillet 2007 (AGRP0756242A)](arrete-du-6-juillet-2007-agrp0756242a)
 - [Arrêté du 6 juin 1979](arrete-du-6-juin-1979)
 - [Arrêté du 6 juin 2007 (DEVU0755832A)](arrete-du-6-juin-2007-devu0755832a)
 - [Arrêté du 6 juin 2007 (MTSA0756264A)](arrete-du-6-juin-2007-mtsa0756264a)
