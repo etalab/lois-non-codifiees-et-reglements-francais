@@ -48,6 +48,6 @@ Les références statistiques utilisées pour la détermination de ces territoir
 
 Les contrats de redynamisation de site de défense sont conclus entre, d'une part, l'Etat et, d'autre part, les communes ou groupements de collectivités territoriales correspondant aux sites les plus affectés par la réorganisation du fait d'une perte nette de nombreux emplois directs et d'une grande fragilité économique et démographique. Ils sont d'une durée de trois ans, reconductible une fois pour deux ans.
 
-Les zones de restructuration de la défense sont délimitées par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'aménagement du territoire qui détermine, pour chaque zone, celle des années comprises entre 2009 et 2013 au titre de laquelle elle est reconnue.
+Les zones de restructuration de la défense sont délimitées par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'aménagement du territoire qui détermine, pour chaque zone, celle des années comprises entre 2009 et 2019 au titre de laquelle elle est reconnue.
 
 4. Les régions ultrapériphériques françaises recouvrent les départements d'outre-mer.
