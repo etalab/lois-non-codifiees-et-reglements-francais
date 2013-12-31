@@ -909,7 +909,6 @@
 - [Arrêté du 28 janvier 1997 (MENU9602831A)](arrete-du-28-janvier-1997-menu9602831a)
 - [Arrêté du 28 juillet 1997 (MCCB9700593A)](arrete-du-28-juillet-1997-mccb9700593a)
 - [Arrêté du 28 juillet 1997 (MEST9711121A)](arrete-du-28-juillet-1997-mest9711121a)
-- [Arrêté du 28 juillet 1997 (MJSK9770092A)](arrete-du-28-juillet-1997-mjsk9770092a)
 - [Arrêté du 28 juillet 1997 (SCOL9702102A)](arrete-du-28-juillet-1997-scol9702102a)
 - [Arrêté du 28 mars 1996 (ECOT9690071A)](arrete-du-28-mars-1996-ecot9690071a)
 - [Arrêté du 28 mars 1997 (BUDD9770971A)](arrete-du-28-mars-1997-budd9770971a)
