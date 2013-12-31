@@ -1,3 +1,0 @@
-# Article 6
-
-L'autorité chargée du contrôle financier met en place, en tant que de besoin, un programme annuel de contrôle a posteriori qu'elle arrête en fonction des risques budgétaires évalués, notamment par la volumétrie et les risques sur les processus, et qu'elle transmet au gestionnaire, avant le 1er mars de chaque année. Indépendamment de ce programme, elle peut, à tout moment, contrôler a posteriori un acte qui n'a pas été soumis au visa ou à l'avis. L'ordonnateur est tenu de communiquer, à la demande de l'autorité chargée du contrôle financier, tous les documents nécessaires au bon accomplissement de ce contrôle. Ce dernier s'exerce, après paiement de la dépense.
