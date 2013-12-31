@@ -68,33 +68,7 @@ II. ― Les vérifications de la conformité réalisées par les organismes de c
 
 -dispositions particulières liées à la zone de navigation souhaitée.
 
-2. Arrêté du 2 septembre 1970 relatif à la sécurité des bateaux à passagers non soumis à la réglementation maritime :
-
--solidité de la coque et de la structure ;
-
--stabilité à l'état intact ;
-
--flottabilité et stabilité en cas d'avarie ;
-
--franc-bord et marques d'enfoncement ;
-
--moyens de sauvetage ;
-
--installations d'assèchement et d'épuisement ;
-
--moyens de lutte contre l'incendie et la panique ;
-
--installations de timonerie ;
-
--sécurité des personnes ;
-
--accès de la salle des machines ;
-
--gréement ;
-
--dispositions particulières liées au type de bateau ;
-
--dispositions particulières liées à la zone de navigation souhaitée.
+2. (Supprimé)
 
 3. Décret n° 96-611 du 4 juillet 1996 modifié relatif à la sécurité des bateaux de plaisance et des pièces et éléments d'équipement :
 
