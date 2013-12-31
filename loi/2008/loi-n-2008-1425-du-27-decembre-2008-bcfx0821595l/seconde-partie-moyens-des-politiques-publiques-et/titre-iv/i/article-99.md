@@ -18,4 +18,4 @@ A modifié les dispositions suivantes :
 
 VI. ― Un décret fixe les modalités d'application des II à IV.
 
-VII. ― les I à IV s'appliquent aux avances remboursables émises entre le premier jour du premier mois suivant la publication du décret en Conseil d'Etat prévu au VII de l'article 244 quater U du code général des impôts et le 31 décembre 2013.
+VII. ― les I à IV s'appliquent aux avances remboursables émises entre le premier jour du premier mois suivant la publication du décret en Conseil d'Etat prévu au VII de l'article 244 quater U du code général des impôts et le 31 décembre 2015.

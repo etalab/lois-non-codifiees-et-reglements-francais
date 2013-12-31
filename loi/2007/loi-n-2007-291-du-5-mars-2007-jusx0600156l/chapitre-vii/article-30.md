@@ -4,7 +4,7 @@ I.-Les articles 9, 10, 11, 17, 18, 19 et 21 et le chapitre VI de la présente lo
 
 Toutefois, les dispositions des articles 173, 175 et 184 du code de procédure pénale, dans leur rédaction antérieure à celle résultant de l'article 19 de la présente loi, demeurent applicables aux informations ayant fait l'objet, avant cette date, de l'avis de fin d'information prévu par l'article 175 du même code.
 
-II.-Le chapitre Ier entre en vigueur le premier jour de la septième année suivant la date de publication de la présente loi. A compter de l'entrée en vigueur de ce chapitre, sont abrogés :
+II.-Le chapitre Ier entre en vigueur le premier jour de la huitième année suivant la date de publication de la présente loi. A compter de l'entrée en vigueur de ce chapitre, sont abrogés :
 
 -les articles 83-1 et 83-2 du code de procédure pénale ;
 
