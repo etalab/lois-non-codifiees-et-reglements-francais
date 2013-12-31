@@ -1,0 +1,5 @@
+# Article 56
+
+Pour les contribuables relevant du régime des micro-entreprises prévu à l'article 50-0 du code général des impôts ou du régime déclaratif spécial prévu à l'article 102 ter du même code qui sont imposés à la cotisation foncière des entreprises, au titre de l'année 2013, sur la base minimum prévue à l'article 1647 D dudit code et dont le montant du chiffre d'affaires ou des recettes hors taxes réalisé au cours de la période de référence définie à l'article 1467 A du même code est inférieur à 10 000 €, la somme de la cotisation foncière des entreprises et de ses taxes annexes dues au titre de l'année 2013 ne peut excéder le montant de 500 €.
+
+Le dégrèvement résultant du plafonnement prévu au premier alinéa du présent article est calculé après prise en compte, le cas échéant, du montant pris en charge par la commune ou l'établissement public de coopération intercommunale à fiscalité propre dans les conditions prévues au III de l'article 76 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014.

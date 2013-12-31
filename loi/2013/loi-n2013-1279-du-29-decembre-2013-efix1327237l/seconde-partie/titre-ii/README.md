@@ -1,0 +1,3 @@
+# TITRE II : RATIFICATION DES DÉCRETS D'AVANCE  PUBLIÉS EN 2013
+
+- [Article 8](article-8.md)
