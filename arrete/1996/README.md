@@ -312,8 +312,6 @@
 - [Arrêté du 11 juillet 1996 (EQUT9600961A)](arrete-du-11-juillet-1996-equt9600961a)
 - [Arrêté du 11 juillet 1996 (INTC9600326A)](arrete-du-11-juillet-1996-intc9600326a)
 - [Arrêté du 11 juillet 1996 (MENL9602014A)](arrete-du-11-juillet-1996-menl9602014a)
-- [Arrêté du 11 juillet 1996 (MENL9602015A)](arrete-du-11-juillet-1996-menl9602015a)
-- [Arrêté du 11 juillet 1996 (MENL9602016A)](arrete-du-11-juillet-1996-menl9602016a)
 - [Arrêté du 11 juillet 1996 (MENL9602017A)](arrete-du-11-juillet-1996-menl9602017a)
 - [Arrêté du 11 juin 1996 (FCEC9600107A)](arrete-du-11-juin-1996-fcec9600107a)
 - [Arrêté du 11 juin 1996 (INTD9600324A)](arrete-du-11-juin-1996-intd9600324a)
