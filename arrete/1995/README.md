@@ -936,7 +936,6 @@
 - [Arrêté du 25 avril 1995 (INTD9500226A)](arrete-du-25-avril-1995-intd9500226a)
 - [Arrêté du 25 avril 1995 (MCCB9500218A)](arrete-du-25-avril-1995-mccb9500218a)
 - [Arrêté du 25 avril 1995 (MENA9401575A)](arrete-du-25-avril-1995-mena9401575a)
-- [Arrêté du 25 avril 1995 (MENL9500169A)](arrete-du-25-avril-1995-menl9500169a)
 - [Arrêté du 25 janvier 1995 (EQUS9500182A)](arrete-du-25-janvier-1995-equs9500182a)
 - [Arrêté du 25 janvier 1995 (INDP9500108A)](arrete-du-25-janvier-1995-indp9500108a)
 - [Arrêté du 25 janvier 1995 (MENE9500086A)](arrete-du-25-janvier-1995-mene9500086a)
