@@ -2,7 +2,7 @@
 
 DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES
 
-Les dispositions des annexes I, II, III et V du présent arrêté sont applicables aux installations existantes précédemment déclarées ou autorisées après le 4 août 2003 au titre de la rubrique 1434 de la nomenclature des installations classées, au lendemain de sa date de publication, à l'exception :
+Les dispositions des annexes I, II et III du présent arrêté sont applicables aux installations existantes précédemment déclarées ou autorisées après le 4 août 2003 au titre de la rubrique 1434 de la nomenclature des installations classées, au lendemain de sa date de publication, à l'exception :
 
 - des points 2.1.A (sauf premier alinéa), 2.1.B, 2.1.D et 6.1 qui font l'objet de modalités d'application explicitées dans ces points ;
 

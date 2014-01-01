@@ -48,4 +48,4 @@ AU 1er OCTOBRE 2001
 
 AU 30 JUIN 2008
 
-1.8. Contrôles périodique.
+1.1.2. Contrôles périodiques

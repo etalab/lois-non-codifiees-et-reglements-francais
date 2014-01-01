@@ -50,6 +50,7 @@
 - [Arrêté du 6 décembre 1999 (MENT9902140A)](arrete-du-6-decembre-1999-ment9902140a)
 - [Arrêté du 6 février 2006 (AGRS0600124A)](arrete-du-6-fevrier-2006-agrs0600124a)
 - [Arrêté du 6 janvier 2006 (MJSK0570273A)](arrete-du-6-janvier-2006-mjsk0570273a)
+- [Arrêté du 6 juillet 2006 (DEVP0650389A)](arrete-du-6-juillet-2006-devp0650389a)
 - [Arrêté du 6 juillet 2006 (EQUP0601457A)](arrete-du-6-juillet-2006-equp0601457a)
 - [Arrêté du 6 juin 2006 (INTC0600544A)](arrete-du-6-juin-2006-intc0600544a)
 - [Arrêté du 6 mars 2006 (MENS0600741A)](arrete-du-6-mars-2006-mens0600741a)

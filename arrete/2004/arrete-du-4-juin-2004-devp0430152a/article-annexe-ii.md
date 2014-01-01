@@ -33,7 +33,7 @@ Les dispositions ci-après sont applicables aux installations existantes selon l
 <p align="center">6.2.b).2.).II (<sup>5</sup>). Air-odeur : valeurs limites et conditions de rejets</p>
 </td>
 <td>
-<p align="center">1.8. Contrôles périodiques </p>
+<p align="center">1.1.2. Contrôles périodiques </p>
 </td>
 </tr>
 <tr>
