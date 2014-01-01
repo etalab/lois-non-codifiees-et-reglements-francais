@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué une carte nationale certifiant l'identité de son titulaire. Cette carte a une durée de validité de dix ans.
+Il est institué une carte nationale certifiant l'identité de son titulaire. Cette carte a une durée de validité de quinze ans lorsqu'elle est délivrée à une personne majeure et de dix ans lorsqu'elle est délivrée à une personne mineure.
 
 La carte nationale d'identité mentionne :
 

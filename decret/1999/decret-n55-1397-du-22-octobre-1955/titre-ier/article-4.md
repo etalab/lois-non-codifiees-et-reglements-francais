@@ -2,9 +2,9 @@
 
 I.-En cas de première demande, la carte nationale d'identité est délivrée sur production par le demandeur :
 
-a) De son passeport, de son passeport de service ou de son passeport de mission délivrés en application des articles 4 à 17 du décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux passeports. La production de l'un de ces passeports dispense le demandeur d'avoir à justifier de son état civil et de sa nationalité française ;
+a) De son passeport, de son passeport de service ou de son passeport de mission délivrés en application des articles 4 à 17 du décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux passeports valides ou périmés depuis moins de cinq ans à la date de la demande, sans préjudice, le cas échéant, de la vérification des informations produites à l'appui de la demande de cet ancien titre . La production de l'un de ces passeports dispense le demandeur d'avoir à justifier de son état civil et de sa nationalité française ;
 
-b) Ou de son passeport délivré en application des dispositions antérieures au décret du 30 décembre 2005 susmentionné, valide ou périmé depuis moins de deux ans à la date de la demande. En pareil cas, sous réserve de la vérification des informations produites à l'appui de la demande de cet ancien titre, la production de ce passeport dispense le demandeur d'avoir à justifier de son état civil et de sa nationalité française ;
+b) Ou de son passeport délivré en application des dispositions antérieures au décret du 30 décembre 2005 susmentionné, valide ou périmé depuis moins de deux ans à la date de la demande. En pareil cas, sans préjudice, le cas échéant, de la vérification des informations produites à l'appui de la demande de cet ancien titre, la production de ce passeport dispense le demandeur d'avoir à justifier de son état civil et de sa nationalité française ;
 
 c) Ou, à défaut de produire l'un des passeports mentionnés aux deux alinéas précédents, de son extrait d'acte de naissance de moins de trois mois, comportant l'indication de sa filiation ou, lorsque cet extrait ne peut pas être produit, de la copie intégrale de son acte de mariage ;
 
