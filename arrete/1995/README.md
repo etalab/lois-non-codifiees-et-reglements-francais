@@ -424,7 +424,6 @@
 - [Arrêté du 11 décembre 1995 (BUDF9500021A)](arrete-du-11-decembre-1995-budf9500021a)
 - [Arrêté du 11 décembre 1995 (ECOR9505013A)](arrete-du-11-decembre-1995-ecor9505013a)
 - [Arrêté du 11 juillet 1995 (DEFP9501804A)](arrete-du-11-juillet-1995-defp9501804a)
-- [Arrêté du 11 juillet 1995 (INDB9500806A)](arrete-du-11-juillet-1995-indb9500806a)
 - [Arrêté du 11 juillet 1995 (MENA9501691A)](arrete-du-11-juillet-1995-mena9501691a)
 - [Arrêté du 11 octobre 1995 (INTA9520207A)](arrete-du-11-octobre-1995-inta9520207a)
 - [Arrêté du 11 septembre 1991 (AGRB9101548A)](arrete-du-11-septembre-1991-agrb9101548a)
