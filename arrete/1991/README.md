@@ -589,7 +589,6 @@
 - [Arrêté du 24 juin 1991 (ECOC9100054A)](arrete-du-24-juin-1991-ecoc9100054a)
 - [Arrêté du 24 juin 1991 (EQUA9101030A)](arrete-du-24-juin-1991-equa9101030a)
 - [Arrêté du 24 juin 1991 (EQUS9100879A)](arrete-du-24-juin-1991-equs9100879a)
-- [Arrêté du 24 juin 1991 (JUSC9120501A)](arrete-du-24-juin-1991-jusc9120501a)
 - [Arrêté du 24 juin 1991 (MENZ9101048A)](arrete-du-24-juin-1991-menz9101048a)
 - [Arrêté du 24 juin 1991 (MENZ9101051A)](arrete-du-24-juin-1991-menz9101051a)
 - [Arrêté du 24 octobre 1991 (INDB9100903A)](arrete-du-24-octobre-1991-indb9100903a)
