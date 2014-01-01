@@ -1,72 +1,92 @@
 # Article 1
 
-<div>
-<br/>La liste des emplois de chef des services techniques accédant à l'échelon fonctionnel HEA et bénéficiant de la nouvelle bonification indiciaire est la suivante : <br/>
-<div align="center">
+La liste des emplois de chef des services techniques accédant à l'échelon fonctionnel HEA et bénéficiant de la nouvelle bonification indiciaire est la suivante :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>SERVICES </th>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI </th>
-<th>
-<br/>NOMBRE <br/>d'emplois </th>
-<th>
-<br/>NOMBRE <br/>de points <br/>de NBI </th>
+<td>
+<p align="center"> SERVICES </p>
+</td>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center"> NOMBRE <br/>d'emplois </p>
+</td>
+<td>
+<p align="center"> NOMBRE de points <br/>de NBI </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>SGAP de Marseille. </td>
+<p align="left">SGAP de Marseille. </p>
+</td>
 <td align="center">
-<br/>Directeur de la logistique. </td>
+<p align="left">Directeur de la logistique. </p>
+</td>
 <td align="center">
-<br/>1 </td>
+<p align="center">1 </p>
+</td>
 <td align="center">
-<br/>60 </td>
+<p align="center">60 </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>SGAP de Rennes. </td>
+<p align="left">SGAP de Rennes. </p>
+</td>
 <td align="center">
-<br/>Directeur de la logistique. </td>
+<p align="left">Directeur de la logistique. </p>
+</td>
 <td align="center">
-<br/>1 </td>
+<p align="center">1 </p>
+</td>
 <td align="center">
-<br/>60 </td>
+<p align="center">60 </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>SGAP de Versailles. </td>
+<p align="left">SGAP de Versailles. </p>
+</td>
 <td align="center">
-<br/>Directeur de la logistique. </td>
+<p align="left">Directeur de la logistique. </p>
+</td>
 <td align="center">
-<br/>1 </td>
+<p align="center">1 </p>
+</td>
 <td align="center">
-<br/>60 </td>
+<p align="center">60 </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>SGAP de Bordeaux. </td>
+<p align="left">SGAP de Bordeaux. </p>
+</td>
 <td align="center">
-<br/>Directeur de la logistique. </td>
+<p align="left">Directeur de la logistique. </p>
+</td>
 <td align="center">
-<br/>1 </td>
+<p align="center">1 </p>
+</td>
 <td align="center">
-<br/>60</td>
+<p align="center">60</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>        Direction des ressources et des compétences de la police nationale. </td>
+<p align="left">Service de l'achat, des équipements et de la logistique de la sécurité intérieure. </p>
+</td>
 <td align="center">
-<br/>Chef de l'établissement central logistique de la police nationale. </td>
+<p align="left">Chef de l'établissement central logistique de la police nationale. </p>
+</td>
 <td align="center">
-<br/>1 </td>
+<p align="center">1 </p>
+</td>
 <td align="center">
-<br/>60</td>
+<p align="center">60</p>
+</td>
 </tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>

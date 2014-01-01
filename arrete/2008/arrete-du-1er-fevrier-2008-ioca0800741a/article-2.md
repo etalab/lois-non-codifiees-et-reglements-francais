@@ -5,14 +5,19 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <table>
 <tbody>
 <tr>
-<th>SERVICES <br/>
-</th>
-<th>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>NOMBRE <br/>d'emplois <br/>
-</th>
-<th>NOMBRE <br/>de points <br/>de NBI <br/>
-</th>
+<td>
+<p align="center">SERVICES</p>
+</td>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
+<td>
+<p align="center">NOMBRE de points <br/>de NBI <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -58,10 +63,10 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction des ressources et des compétences de la police nationale. </p>
+<p align="left">Service de l'achat, des équipements et de la logistique de la sécurité intérieure.</p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef de l'établissement central logistique de la police nationale. </p>
+<p align="left">Adjoint au chef de l'établissement central logistique de la police nationale.</p>
 </td>
 <td align="center">
 <p align="center">1 </p>
@@ -72,10 +77,11 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction des ressources et des compétences de la police nationale.</p>
+<p align="left">
+<br/>Direction des ressources et des compétences de la police nationale.</p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau du soutien logistique à la sous-direction de l'équipement et de la logistique.</p>
+<p align="left">Chef du bureau du soutien logistique (cabinet de la DRCPN).</p>
 </td>
 <td align="center">
 <p align="center">1 </p>

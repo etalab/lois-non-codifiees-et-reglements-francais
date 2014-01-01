@@ -73,7 +73,6 @@
 - [Arrêté du 4 novembre 1987 (PTTT8700593A)](arrete-du-4-novembre-1987-pttt8700593a)
 - [Arrêté du 4 novembre 1987 (RESY8700778A)](arrete-du-4-novembre-1987-resy8700778a)
 - [Arrêté du 4 mai 1987 (ASEE8703334A)](arrete-du-4-mai-1987-asee8703334a)
-- [Arrêté du 4 mai 1987 (ASES8700684A)](arrete-du-4-mai-1987-ases8700684a)
 - [Arrêté du 4 mai 1987 (BUDR8703058A)](arrete-du-4-mai-1987-budr8703058a)
 - [Arrêté du 4 mai 1987 (MERM8700057A)](arrete-du-4-mai-1987-merm8700057a)
 - [Arrêté du 5 août 1987 (ASEH8701142A)](arrete-du-5-aout-1987-aseh8701142a)

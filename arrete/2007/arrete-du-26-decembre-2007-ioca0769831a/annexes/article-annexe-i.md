@@ -284,7 +284,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="13" valign="top">
+<td align="left" rowspan="12" valign="top">
 <p align="left">Direction générale de la police nationale. <br/>
 </p>
 </td>
@@ -319,15 +319,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 <td align="center">
 <br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du bureau de l'habillement. <br/>
-</p>
-</td>
-<td align="center">
-<br/>30 <br/>
 </td>
 </tr>
 <tr>
@@ -674,17 +665,22 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td rowspan="2">Délégation à la sécurité et à la circulation routières.</td>
-<td>Chef du bureau du permis de conduire. <br/>
+<td rowspan="2">Délégation à la sécurité et à la circulation routières. <br/>
 </td>
-<td>
-<p align="center">30</p>
+<td>Chef du bureau du permis de conduire.  <br/>
 </td>
+<td align="center"> 30</td>
 </tr>
 <tr>
-<td>Chef du service du fichier national des permis de conduire.</td>
-<td>
-<p align="center">50</p>
+<td>Chef du service du fichier national des permis de conduire. <br/>
+</td>
+<td align="center"> 50</td>
+</tr>
+<tr>
+<td>Service de l'achat, des équipements et de la logistique de la sécurité intérieure.  <br/>
+</td>
+<td>Chef du bureau de la maintenance des équipements.  </td>
+<td align="center">30 <br/>
 </td>
 </tr>
 </tbody>
