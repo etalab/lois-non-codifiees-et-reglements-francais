@@ -5,3 +5,4 @@
 - [Article Annexe Ia](article-annexe-ia.md)
 - [Article Annexe Ib](article-annexe-ib.md)
 - [Article Annexe IIIa](article-annexe-iiia.md)
+- [Article Annexe IIIb](article-annexe-iiib.md)
