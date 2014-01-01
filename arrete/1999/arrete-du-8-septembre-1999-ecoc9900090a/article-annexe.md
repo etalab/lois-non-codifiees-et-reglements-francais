@@ -200,21 +200,7 @@ dans laquelle n correspond à environ 225, est assimilé aux alcools gras polyé
 
 L'hexylglucoside de formule : RO-(C<sub>6</sub>O<sub>5</sub>H<sub>10</sub>)<sub>n</sub>-C<sub>6</sub>O<sub>5</sub>H<sub>11</sub>, avec n = 1 à 5 et R = 6 atomes de carbone, est assimilée aux alcools gras polyéthoxylés précités.
 
-3. Dérivés carboxylés d'alkylphénols polyéthoxylés, ou leurs sels alcalins.
-
-Les dérivés carboxylés des alkylphénols polyéthoxylés ou leurs sels répondent à la formule suivante :
-
-Vous pouvez consulter la formule à l'adresse suivante :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19991127&numTexte=9&pageDebut=17644&pageFin=17653
-
-dans laquelle R correspond à une chaîne linéaire dont le nombre d'atomes de carbone est compris entre 6 inclus à 22 inclus et n > 2.
-
-4. Alkylphénols polyéthoxylés, les sels alcalins de leurs dérivés sulfatés et leurs éthers benzyliques.
-
-Les sels alcalins de ces substances sont à ranger dans la catégorie des agents de surface anioniques.
-
-5. Copolymères d'alkyl-éthers et d'oxydes d'éthylène et de propylène.
+3. Copolymères d'alkyl-éthers et d'oxydes d'éthylène et de propylène.
 
 Ces constituants doivent répondre à la formule suivante :
 
@@ -226,27 +212,27 @@ dans laquelle R est un radical hydrocarboné de huit à dix-huit atomes de carbo
 
 Lesdits constituants peuvent également être désignés comme étant des "copolymères d'alcools et d'oxydes d'éthylène et de propylène". Les constituants commercialisés doivent contenir plus de 99 % de copolymères d'alkyl-éther et d'oxydes d'éthylène et de propylène autorisés. En particulier leur teneur maximale résiduelle en oxyde d'éthylène monomère ne doit pas dépasser 5 milligrammes par kilogramme.
 
-6. Propylèneglycols polyéthoxylés.
+4. Propylèneglycols polyéthoxylés.
 
-7. Lanoline polyéthoxylée.
+5. Lanoline polyéthoxylée.
 
-8. Sucroglycéride de suif oxyéthyléné.
+6. Sucroglycéride de suif oxyéthyléné.
 
-9. Alcanolamides d'acides gras.
+7. Alcanolamides d'acides gras.
 
-10. Esters d'acides gras de saccharose et sucroglycérides :
+8. Esters d'acides gras de saccharose et sucroglycérides :
 
-10.1. Mono et di-stéarates de saccharose ;
+8.1. Mono et di-stéarates de saccharose ;
 
-10.2. Mono et di-palmitates de saccharose ;
+8.2. Mono et di-palmitates de saccharose ;
 
-10.3. Mono et di-oléates de saccharose ;
+8.3. Mono et di-oléates de saccharose ;
 
-10.4. Sucroglycérides des acides gras et des corps gras alimentaires.
+8.4. Sucroglycérides des acides gras et des corps gras alimentaires.
 
-11. Oxyde de dodécyl-diméthyl-amine.
+9. Oxyde de dodécyl-diméthyl-amine.
 
-12. Monolaurate de polyoxyéthylène 20 sorbitane, ou polysorbate 20.
+10. Monolaurate de polyoxyéthylène 20 sorbitane, ou polysorbate 20.
 
 Ce constituant a pour formule :
 
@@ -258,7 +244,7 @@ dans laquelle OCR représente l'acide laurique et a + b + c + d = environ 20.
 
 Il doit répondre aux spécifications de la pharmacopée française ou européenne.
 
-13. Ethoxylats d'alcools gras bloqués en bout de chaîne par un radical butyle.
+11. Ethoxylats d'alcools gras bloqués en bout de chaîne par un radical butyle.
 
 Ces agents de surface répondent à la formule suivante :
 
@@ -268,7 +254,7 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19991127&nu
 
 avec n = 8 à 20 et x = 2 à 12 ;
 
-14. Caprylil capryl glucoside.
+12. Caprylil capryl glucoside.
 
 Ces agents de surface répondent à la formule suivante :
 
@@ -278,15 +264,15 @@ avec n = 1 à 5 et R = chaîne hydrocarbonée de huit à dix atomes de carbone.
 
 Leurs poids moléculaires est d'environ 700. La concentration pondérale de ces agents de surface en alcool décylique n'excède pas 2 %.
 
-15. Esters de polyol-polyéthoxylés.
+13. Esters de polyol-polyéthoxylés.
 
 Ces constituants comportent un radical (-CH<sub>2</sub>-CH<sub>2</sub>-O-)<sub>n</sub> dans lequel n est généralement compris entre 20 et 200. Le polyol, de ces esters de polyol-polyéthoxylés, est une chaîne carbonée courte de l'un des types suivants : éthylène glycol, propylène glycol, glycérol et méthylglucose. Les esters de ces mêmes polyol-polyéthoxylés comportent une chaîne grasse de six à vingt-deux atomes de carbone saturée ou non. La teneur maximale de ces constituants en oxyde d'éthylène libre est de 1 milligramme par kilogramme.
 
-16. Condensats d'alcools oxo avec des molécules d'oxyde d'éthylène et d'oxyde de butylène.
+14. Condensats d'alcools oxo avec des molécules d'oxyde d'éthylène et d'oxyde de butylène.
 
 Ces constituants, présentés ou non en solution aqueuse, correspondent à des condensats d'alcools oxo, de C9 à C15, avec jusqu'à treize molécules d'oxyde d'éthylène et jusqu'à quatre molécules d'oxyde de butylène, les groupes terminaux de ces condensats étant bloqués ou non par des groupes méthyles.
 
-17. Alkylglucosides.
+15. Alkylglucosides.
 
 La structure de ce constituant est schématiquement représentée ainsi :
 
@@ -296,7 +282,7 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19991127&nu
 
 avec x = 1 à 6 et n = 10 à 18.
 
-18. Copolymères d'oxydes d'éthylène et de propylène.
+16. Copolymères d'oxydes d'éthylène et de propylène.
 
 Ce constituant répond à la formule générale :
 
@@ -304,7 +290,7 @@ Vous pouvez consulter la formule à l'adresse suivante :
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19991127&numTexte=9&pageDebut=17644&pageFin=17653
 
-19. Alkylglucosamides dérivés d'acides gras en C12-C14.
+17. Alkylglucosamides dérivés d'acides gras en C12-C14.
 
 Ces agents de surface non ioniques se présentent sous la forme de deux produits, commercialisés en solutions hydroalcooliques à 40 % ou 50 %, qui diffèrent par les proportions respectives d'acides laurique et myristique.
 
@@ -412,7 +398,7 @@ Les solutions commercialisées répondent aux caractéristiques suivantes :
 </tbody>
 </table>
 
-20. 2-éthylhexylglucoside.
+18. 2-éthylhexylglucoside.
 
 Ce constituant répond à la formule générale :
 
@@ -422,7 +408,7 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19991127&nu
 
 avec x = 1 à 16 et n = 8.
 
-21. Sel de sodium du mélange de monoéthanol amides d'acide gras polyéthoxylé et carboxylé.
+19. Sel de sodium du mélange de monoéthanol amides d'acide gras polyéthoxylé et carboxylé.
 
 Ce constituant répond à la formule générale :
 
@@ -432,7 +418,7 @@ Il contient au maximum 1 milligramme par kilogramme de dioxane, 20 milligrammes 
 
 Ce constituant peut être utilisé à la concentration maximale de 7 % dans les formulations de nettoyage mises en vente.
 
-22. Alcools alcooxylés.
+20. Alcools alcooxylés.
 
 Ce constituant répond à la formule générale suivante :
 
@@ -521,6 +507,8 @@ Ils sont utilisables à la concentration maximale de 5 %, dans les préparations
 
 Constituants du type "désinfectants" ou "conservateurs"
 
+Les constituants suivants peuvent être utilisés s'ils sont autorisés dans le cadre du règlement (UE) n° 528/2012
+
 1. Eau oxygénée.
 
 2. Acide peracétique.
@@ -533,29 +521,17 @@ L'utilisation d'acide peracétique (CH<sub>3</sub>-CO<sub>3</sub>H) est subordon
 
 4. Acides chlorocyanuriques et leurs sels de sodium.
 
-5. Chlorure de chaux.
+5. Paratoluène chlorosulfamide sodée.
 
-6. Dichloroglycolurile.
-
-7. Paratoluène chlorosulfamide sodée.
-
-8. Acide hydroxyacétique.
-
-9. Alcool éthylique.
+6. Alcool éthylique.
 
 Cet alcool peut éventuellement être dénaturé par l'acétate d'amyle ou l'acétate d'éthyle additionné de méthyl-éthylcétone.
 
-10. Alcool isopropylique.
+7. Alcool isopropylique.
 
 Cet alcool peut éventuellement être dénaturé par l'acétate d'amyle ou l'acétate d'éthyle additionné de méthyl-éthylcétone. L'acool isopropylique peut également être éventuellement dénaturé par 0,5 % en volume de méthyl-éthylcétone.
 
-11. Butylglycol.
-
-12. Aldéhyde formique.
-
-Cette substance est utilisable en solutions acqueuses.
-
-13. Glutaraldéhyde.
+8. Glutaraldéhyde.
 
 Cette substance, qui a pour formule :
 
@@ -563,110 +539,21 @@ CHO-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CHO,
 
 est utilisable dans des solutions acqueuses.
 
-14. Iodophores mentionnés ci-dessous :
-
-Ces iodophores ne peuvent être employés que si la quantité d'iode actif ne dépasse pas 1 % dans la préparation mise en vente. L'utilisation d'un iodophore comme constituant d'un produit de nettoyage est subordonnée au contrôle de l'efficacité du rinçage de ce produit à l'aide d'un réactif approprié.
-
-14.1. Complexe iodé du polyéthoxypolypropoxypolyéthoxyéthanol ;
-
-14.2. Complexe iodé du nonylphénoxypolyéthoxyéthanol ;
-
-14.3. Complexe iodé du tri-isopropanolaminepolyoxypropylénée.
-
-15. 3,5,4'-tribromosalicylanilide.
-
-16. Bromure de potassium.
-
-Cette substance ne peut être employée qu'à une dose inférieure à 3 % en poids dans la préparation mise en vente.
-
-Le bromure de potassium peut être associé au permanganate de potassium, à condition que la quantité de permanganate de potassium ne dépasse pas 1 % de la quantité de bromure de potassium.
-
-17. Permanganate de potassium.
-
-Cette substance ne peut être employée que dans la proportion maximum de 1 % du produit de nettoyage tel que mis en vente. Il faut en outre que son emploi soit suivi d'un rinçage à l'eau, puis d'un traitement par une solution acqueuse d'anhydride sulfureux ou de bisulfite alcalin acidifiée à l'acide chlorhydrique et, enfin, d'un rinçage abondant.
-
-18. Chlorhydrate de poly-(hexaméthylènebiguanide).
+9. Chlorhydrate de poly-(hexaméthylènebiguanide).
 
 A utiliser en solutions acqueuses à 20 %.
 
-19. Chlorhydrate de décyloxy-3-hydroxy-2-amino-1-propane.
-
-La formule brute de cette substance est la suivante :
-
-C<sub>10</sub>H<sub>21</sub>-OCH<sub>2</sub>-CHOH-CH<sub>2</sub>-NH<sub>2</sub>-HCI.
-
-Cette substance est obtenue à 95 % de pureté environ. Elle doit répondre aux critères ci-dessous :
-
-<table>
-<tbody>
-<tr>
-<td valign="top" width="378">
-<p>Décanol</p>
-</td>
-<td valign="top" width="227">
-<p>moins de 0,1 % en poids ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Décyloxy-3-chloro-1-propanol-2</p>
-</td>
-<td valign="top" width="227">
-<p>moins de 0,2 % en poids ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Décyloxy-3-propanediol-1,2</p>
-</td>
-<td valign="top" width="227">
-<p>moins de 0,2 % en poids ;</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Traces éventuelles de dérivés phtaliques : inférieures ou égales à 50 milligrammes par kilogramme.
-
-20. Acide lauryl-diéthylène-triamino-acétique.
-
-Au radical lauryle (dodécyl) de ce constituant peut être substitué un radical alkyle comportant au moins deux tiers en radical lauryle C<sub>12</sub>H<sub>25</sub> et le reste en radical myristique C<sub>14</sub>H<sub>29</sub>.
-
-21. Acide lauryl-propylène-diamino-acétique.
-
-Au radical lauryle (dodécyl) de ce constituant peut être substitué un radical alkyle comportant au moins deux tiers en radical lauryle C<sub>12</sub>H<sub>25</sub> et le reste en radical myristique C<sub>14</sub>H<sub>29</sub>.
-
-22. Lauryl-diéthylène-triamine.
-
-Au radical lauryle (dodécyl) de ce constituant peut être substitué un radical alkyle comportant au moins deux tiers en radical lauryle C<sub>12</sub>H<sub>25</sub> et le reste en radical myristique C<sub>14</sub>H<sub>29</sub>.
-
-23. Lauryl-propylène-diamine.
-
-Au radical lauryle (dodécyl) de ce constituant peut être substitué un radical alkyle comportant au moins deux tiers en radical lauryle C<sub>12</sub>H<sub>25</sub> et le reste en radical myristique C<sub>14</sub>H<sub>29</sub>.
-
-24. Dioctyl-diéthylène-triamine.
-
-25. Trioctyl-diéthylène-triamine.
-
-26. Chlorure d'iode.
-
-La concentration maximale pondérale en chlorure d'iode des préparations ne doit pas excéder 1,5 %.
-
-27. Acide sorbique.
+10. Acide sorbique.
 
 Cet acide, pur à 99 % minimum en poids, répond aux caractéristiques de pureté de l'additif alimentaire E 200.
 
 Il est utilisable à la concentration maximale pondérale de 3 % dans des solutions hydroalcooliques, elles-mêmes employées par trempage.
 
-28. Acide octylphosphonique.
+11. N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine.
 
-Ce constituant, dit aussi acide octane-1-phosphonique, est utilisable à la concentration maximale pondérale de 5 %.
+Ce constituant, de numéro CAS 2372-82-9, est accompagné des produits de sa polymérisation, de laurylamine et de laurylpropylène-diamine, l'ensemble de ces matières étant en proportion inférieure à 2,5 % par rapport à la substance principale, la N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine.
 
-29. Di-(aminopropyl)-laurylamine.
-
-Ce constituant, dit également N,N-bis-3-aminopropyl-laurylamine, est accompagné des produits de sa polymérisation, de laurylamine et de laurylpropylène-diamine, l'ensemble de ces matières étant en proportion inférieure à 2,5 % par rapport à la substance principale, la di-(aminopropyl)-laurylamine.
-
-30. Acide hydroxy-acétique.
+12. Acide hydroxy-acétique.
 
 L'acide hydroxy-acétique, dit également "acide glycolique", répond aux caractéristiques suivantes :
 
@@ -715,7 +602,7 @@ L'acide hydroxy-acétique, dit également "acide glycolique", répond aux caract
 </tbody>
 </table>
 
-31. Acide monobromoacétique.
+13. Acide monobromoacétique.
 
 L'acide monobromoacétique utilisé est au moins pur à 98 %. Sa teneur cumulée en acide dibromoacétique et en acide bromhydrique est inférieure ou égale à 2 %.
 
@@ -723,7 +610,7 @@ Il est utilisable dans les conditions suivantes :
 
 La concentration en acide monobromoacétique de la solution désinfectante prête à l'emploi ne dépasse pas 0,7 gramme par litre. Les préparations contenant ce constituant sont réservées aux industries des boissons (lait exclus) et sont utilisées sur des surfaces préalablement nettoyées. Leur emploi, après un temps de contact d'au moins 30 minutes, est suivi par un rinçage complet à l'eau potable, selon une procédure écrite adaptée aux conditions de chaque unité utilisatrice, l'efficacité de cette procédure de rinçage devant être vérifiée par une méthode d'analyse appropriée. La concentration en acide monobromoacétique dans la dernière eau de rinçage est inférieure à 10 microgrammes par litre pour que l'efficacité du rinçage soit considérée comme suffisante. Les préparations désinfectantes contenant de l'acide monobromoacétique comportent, sur une étiquette ou une notice, une mention rappelant la nécessité d'un rinçage dont la procédure écrite a été vérifiée par une méthode appropriée et une mention rappelant que la dernière eau de rinçage ne doit pas contenir plus de 10 microgrammes par litre de cet acide.
 
-32. Acide salicylique.
+14. Acide salicylique.
 
 Autres désignations : acide ortho-hydroxybenzoïque, acide hydroxy-2 benzoïque.
 
@@ -793,37 +680,35 @@ C. - Sels minéraux solubles
 
 4. Percarbonates alcalins.
 
-5. Perborate de sodium.
+5. Phosphates alcalins.
 
-6. Phosphates alcalins.
-
-7. Phosphate trisodique chloré.
+6. Phosphate trisodique chloré.
 
 Le phosphate trisodique chloré est obtenu par cristallisation simultanée de ses composants : phosphate trisodique et hypochlorite de sodium.
 
-8. Sulfates alcalins.
+7. Sulfates alcalins.
 
-9. Sulfate d'aluminium.
+8. Sulfate d'aluminium.
 
 Il s'agit du sulfate d'aluminium hydraté à 18 molécules d'eau. Les critères de pureté sont ceux du sulfate d'aluminium utilisé comme additif alimentaire.
 
-10. Sulfate de magnésium.
+9. Sulfate de magnésium.
 
-11. Bisulfates alcalins.
+10. Bisulfates alcalins.
 
-12. Bisulfites alcalins (anhydride sulfureux).
+11. Bisulfites alcalins (anhydride sulfureux).
 
 L'emploi de ces constituants est admis uniquement dans les industries mettant en oeuvre des denrées alimentaires où la présence de telles substances est autorisée.
 
-13. Silicates alcalins.
+12. Silicates alcalins.
 
-14. Silico aluminate de sodium.
+13. Silico aluminate de sodium.
 
-15. Chlorures alcalins.
+14. Chlorures alcalins.
 
-16. Chlorure d'aluminium.
+15. Chlorure d'aluminium.
 
-17. Citrates d'ammonium.
+16. Citrates d'ammonium.
 
 D. - Charges et adjuvants insolubles
 
@@ -898,6 +783,12 @@ Ils ont un poids moléculaire moyen compris entre 50 000 et 70 000 et sont const
 - le même copolymère que le précédent mais partiellement neutralisé par la soude ;
 
 - le sel de sodium d'un copolymère d'acide acrylique et d'acide maléique dans le rapport pondéral de 1 à 1.
+
+12. N, N-bis (carboxymethyl)-DL-alanine, triple sel de sodium ("Na3MGDA" - n° CAS : 164462-16-2).
+
+Pour des formulations solides de 20,5 % de Na3MGDA au maximum et n'excédant pas 0,21 % de Na3MGDA après dilution dans les eaux de lavage.
+
+13. Sel de sodium de l'iminodisuccinate de sodium ("IDS Na" - n° CAS 144538-83-0).
 
 F. - Agents antimousse, antiredéposition ou épaississants
 
@@ -1164,11 +1055,11 @@ Il ne peut être employé dans des préparations qu'à la concentration pondéra
 
 Ce constituant répond aux caractéristiques de pureté de l'additif alimentaire E 420 i.
 
-5. Acide borique.
+5. 2,2,6,6-tétraméthylpipéridine-N-oxyle ("TEMPO", n° CAS 2564-83-2), pour une utilisation en tant qu'agent auxiliaire de nettoyage facilitant la solubilisation de salissures à base d'hydrates de carbone portées sur des matériaux membranaires destinés à entrer au contact de la bière.
 
-Cet acide, ou ses sels de sodium, doivent répondre aux critères de pureté définis dans la pharmacopée française ou européenne. Ils ont un taux de sulfates inférieur ou égal à 450 milligrammes par kilogramme et une teneur totale en métaux lourds inférieure ou égale à 15 milligrammes par kilogramme.
+Uniquement pour un usage de régénération de membranes en acier inoxydable après filtration de la bière.
 
-Cet acide, ou ses sels de sodium, sont utilisables dans des produits désinfectants à titre d'agents effervescents. Les quantités mises en œuvre doivent être juste nécessaires pour obtenir les effets technologiques recherchés.
+Pour une concentration de TEMPO de 25 mg/ L dans la formulation (n'excédant pas 10 % de TEMPO après dilution) et avec des conditions d'emploi prévoyant 5 lavages successifs à l'eau.
 
 6. Stéarate d'aluminium.
 
@@ -1253,17 +1144,9 @@ Ces agents de surface non ioniques dits "polymères", ou agents de surface dispe
 
 B. - Conservateurs
 
-1. Alcool benzylique.
+Les constituants suivants peuvent être utilisés s'ils sont autorisés dans le cadre du règlement (UE) n° 528/2012
 
-Cette substance, dont la formule est : C<sub>6</sub>H<sub>5</sub>-CH<sub>2</sub>OH, ne peut être employée dans des préparations qu'à la dose pondérale maximale de 0,5 %.
-
-2. Acide benzoïque et ses sels de sodium, potassium et calcium.
-
-Ces constituants répondent aux caractéristiques de pureté des additifs alimentaires E 210, E 211, E 212 et E 213.
-
-Ces substances sont utilisables à la concentration maximale totale de 500 milligrammes par litre.
-
-3. 2-bromo-2-nitropropane-1,3-diol.
+1. 2-bromo-2-nitropropane-1,3-diol.
 
 Cette substance répond à la formule suivante :
 
@@ -1275,27 +1158,19 @@ La concentration pondérale en substance pure du constituant commercialisé est 
 
 Ce constituant est utilisable à la concentration maximale pondérale de 0,1 %, dans des préparations ne contenant pas d'amines, destinées à être employées dans les industries agroalimentaires, à l'exception des laiteries, du matériel de laiterie et des produits de fermentation du lait.
 
-4. 1,2-benzisothiazoline-3-one.
-
-La substance commerciale a une teneur pondérale minimale de 90 % en 1,2-benzisothiazoline-3-one et de 93 % en 1,2-benzisothiazoline-3-one et en 2,2'-dithiobisbenzamide. Sa teneur pondérale maximale en 2,2'-dithiobisbenzamide ne dépasse pas 6 % et celle en chlorobenzisothiazolone n'excède pas 1 %.
-
-Elle est utilisable dans les préparations à la concentration strictement nécessaire permettant d'obtenir l'effet conservateur recherché.
-
-5. Orthophényl-phénolate de sodium.
+2. Orthophényl-phénolate de sodium.
 
 Cette substance est utilisable à titre de conservateur antifongique à la concentration pondérale maximale de 0,3 %. L'orthophénylphénol (ou biphényl-2-ol) peut également être utilisé en complément ou en remplacement de l'orthophényl-phénolate de sodium jusqu'à la concentration pondérale maximale de 0,3 %.
 
-6. 5-chloro-2-méthyl-4-isothiasoline-3-one, 2-méthyl-4-isothiasoline-3-one et 2-N-octyl-4-isothiasoline-3-one.
+3. 5-chloro-2-méthyl-2H-isothiazole-3-one et 2-méthyl-2H-isothiazole-3-one.
 
-Les préparations utilisées comme conservateur contiennent au maximum 3 % d'un mélange de 5-chloro-2-méthyl-4-isothiasoline-3-one et de 2-méthyl-4-isothiasoline-3-one, et 0,6 % de 2-N-octyl-4-isothiasoline-3-one.
+Les préparations utilisées comme conservateur contiennent au maximum 3 % d'un mélange de 5-chloro-2-méthyl-2H-isothiazole-3-one et de 2-méthyl-2H-isothiazole-3-one.
 
-Les quantités maximales de ces matières actives par kilogramme de produit de nettoyage ou de rinçage doivent être telles que, dans le liquide obtenu après dilution aqueuse de ces produits de nettoyage ou de rinçage, les concentrations en matières actives soient au maximum de 150 microgrammes du mélange de 5-chloro-2-méthyl-4-isothiasoline-3-one et de 2-méthyl-4-isothiasoline-3-one et au maximum de 30 microgrammes de 2-N-octyl-4-isothiasoline-3-one, par kilogramme de liquide mis directement au contact des surfaces à nettoyer ou à rincer.
+Les quantités maximales de cette matière active par kilogramme de produit de nettoyage ou de rinçage doivent être telles que, dans le liquide obtenu après dilution aqueuse de ces produits de nettoyage ou de rinçage, la concentration en matière active soit au maximum de 150 microgrammes du mélange de 5-chloro-2-méthyl-2H-isothiazole-3-one et de 2-méthyl-2H-isothiazole-3-one par kilogramme de liquide mis directement au contact des surfaces à nettoyer ou à rincer.
 
 C. - Enzymes
 
-1. Enzymes déjà autorisées dans les industries alimentaires.
-
-Ces préparations enzymatiques sont celles mentionnées par l'arrêté du 5 septembre 1989 modifié relatif à l'emploi de préparations enzymatiques dans la fabrication de certaines denrées et boissons destinées à l'alimentation humaine.
+1. Enzymes déjà autorisées dans les denrées alimentaires. Ces préparations enzymatiques sont celles autorisées dans les conditions prévues par le règlement n° 1332/2008 du Parlement et du Conseil du 16 décembre 2008.
 
 2. Préparations d'enzyme protéolytique obtenue à partir de Bacillus lentus.
 
@@ -1339,9 +1214,9 @@ Ces préparations sont utilisables dans des détergents pour lave-vaisselle à u
 
 D. - Constituants dont l'emploi dans des denrées alimentaires est autorisé
 
-1. Constituants, autres que les colorants, autorisés à titre d'additifs alimentaires par les dispositions prises en application du décret n° 89-674 du 18 septembre 1989 relatif aux additifs pouvant être employés dans les denrées destinées à l'alimentation humaine.
+Constituants, autres que les colorants, autorisés à titre d'additifs alimentaires dans les conditions prévues par le règlement n° 1333/2008 du Parlement et du Conseil du 16 décembre 2008.
 
-Sauf lorsque des teneurs plus élevées sont prévues par les dispositions spécifiques à certains de ces constituants qui sont mentionnées dans la présente section I a, la concentration en additifs alimentaires présentée par la solution, ou par le produit, destinés à être placés directement au contact des matériaux et des objets ne doit pas excéder la plus forte des teneurs admises dans les aliments par la réglementation en vigueur.
+Sauf lorsque des teneurs plus élevées sont prévues par les dispositions spécifiques à certains de ces constituants mentionnées dans la présente section I a, la concentration en additifs alimentaires présentée par la solution ou par le produit, destinés à être placés directement au contact des matériaux et des objets, ne doit pas excéder la plus forte des teneurs admises dans les aliments par la réglementation en vigueur.
 
 E. - Matières aromatiques
 
@@ -1353,7 +1228,7 @@ F. - Colorants
 
 Sans préjudice des dispositions spécifiques à chacun d'eux, les colorants ne doivent être introduits dans des produits de nettoyage qu'en quantités strictement suffisantes pour donner à une spécialité un caractère destiné à la distinguer des autres produits.
 
-1. Colorants autorisés dans des denrées alimentaires par les dispositions prises en application du décret n° 89-674 du 18 septembre 1989 relatif aux additifs pouvant être employés dans les denrées destinées à l'alimentation humaine.
+1. Colorants autorisés dans les denrées alimentaires dans les conditions prévues par le règlement n° 1333/2008 du Parlement et du Conseil du 16 décembre 2008.
 
 2. Bleu brillant FCF.
 
@@ -1417,7 +1292,9 @@ ou (parasulfamidophényl-1) (parachlorophényl-3)-pyrazoline.
 
 15. Alpha (benzimidazolyl 2) béta (N-hydroxyéthylbenzimidazolyl 2) éthylène.
 
-H. - Répulsifs
+H. - Répulsifs sensoriels
+
+Ces constituants sont destinés à empêcher la consommation du produit de nettoyage par une dénaturation organoleptique.
 
 1. Benzoate de dénatonium.
 
@@ -1436,6 +1313,8 @@ SECTION I b
 Constituants des produits de nettoyage, autres que ceux destinés au rinçage de la vaisselle, présentés comme pouvant ne pas être rincés à l'eau potable après usage
 
 Sauf dispositions particulières qui, le cas échéant, accompagnent les désignations mentionnées ci-dessous, les constituants de la présente section, quels que soient leurs effets, désinfectant ou autres, sont réservés à des utilisations industrielles.
+
+Les constituants suivants peuvent être utilisés sous réserve, s'ils présentent un effet désinfectant, qu'ils soient autorisés dans le cadre du règlement (UE) n° 528/2012
 
 1. Eau oxygénée.
 
@@ -1473,21 +1352,9 @@ Ce constituant répond aux caractéristiques pondérales suivantes :
 
 Il est employé exclusivement dans des solutions hydroalcooliques contenant au plus 3 % d'acide sorbique. La proportion en polyvinylpyrrolidone desdites solutions ne doit pas être plus forte que celle strictement nécessaire à l'effet recherché.
 
-5. Aldéhyde formique.
+5. Préparation à base d'alcool éthylique (n° CAS : 64-17-5) et de glutaraldéhyde (n° CAS : 111-30-8), destinée à être utilisée par pulvérisation pour la désinfection sans rinçage à l'eau potable de matériaux entrant au contact des denrées alimentaires.
 
-Ce constituant peut notamment être obtenu, sur le lieu de sa mise en oeuvre, par dépolymérisation.
-
-Sous sa forme gazeuse, le formaldéhyde ne peut être employé pour traiter des matériaux entrant en contact d'aliments, ou des locaux comportant de tels matériaux, qu'en respectant les dispositions suivantes :
-
-Ce traitement est réalisé en absence d'aliment.
-
-Il est précédé d'un lavage et d'un rinçage destinés à éliminer les salissures des matériaux qui entreront au contact d'aliments.
-
-Il est suivi, éventuellement, par l'emploi d'une substance neutralisante autorisée, comme l'ammoniac ; dans tous les cas, le mélange gazeux couvrant les matériaux doit être remplacé par de l'air, de façon que la teneur résiduelle de l'air en formaldéhyde soit inférieure à 3 mg/m3 lorsque des denrées alimentaires seront mises au contact des matériaux ainsi traités.
-
-6. Parahydroxyphénylsalicylamide.
-
-Cette substance antifongique est utilisable à sec pour la désinfection de surfaces par voie aérienne à la dose maximale de 0,15 gramme par mètre cube du volume des locaux à traiter, tels que hâloirs à fromages et à saucissons ainsi que entrepôts de céréales, fruits et légumes secs. Les opérations de dispersion de la substance active sont réalisées, hors de toute présence humaine ou animale, dans des locaux ne contenant pas d'aliments. La base de fumigation comburante qui, le cas échéant, est utilisée pour assurer la dispersion de la parahydroxyphénylsalicylamide ne peut être composée que de substances présentes en quantités strictement nécessaires à l'effet recherché et ne produisant pas de résidus susceptibles de contaminer anormalement les locaux ainsi traités.
+6. Alkyl (C10-16) benzène sulfonate de sodium (n° CAS : 68411-30-3).
 
 SECTION II
 

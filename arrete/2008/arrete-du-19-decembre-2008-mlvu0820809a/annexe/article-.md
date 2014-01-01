@@ -225,10 +225,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">26.<br/>
+<td align="center">26 (hors 2678).<br/>
 </td>
 <td align="center">Participations et créances rattachées à des participations.<br/>
 </td>
+</tr>
+<tr>
+<td align="center"> 269</td>
+<td>  Versements restant à effectuer sur titres de participation non libérés  (chapitre ouvert en ressources)</td>
 </tr>
 <tr>
 <td align="center">27 (hors 2768 et 278).<br/>

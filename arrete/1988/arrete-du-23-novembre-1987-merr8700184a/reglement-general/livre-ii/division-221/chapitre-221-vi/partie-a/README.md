@@ -8,3 +8,4 @@
 - [Article 221-VI/04](article-221-vi-04.md)
 - [Article 221-VI/05](article-221-vi-05.md)
 - [Article 221-VI/05-1](article-221-vi-05-1.md)
+- [Article 221-VI-05-2](article-221-vi-05-2.md)

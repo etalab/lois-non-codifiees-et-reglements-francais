@@ -100,7 +100,9 @@ Les conteneurs, consoles, supports ou autres endroits analogues prévus pour l'a
 
 .2 être soumis, pendant les visites prescrites aux règles 7 et 8 du chapitre I de la convention SOLAS en vigueur, à un examen approfondi et à des essais de fonctionnement effectués par des personnes qualifiées connaissant bien le dispositif ; et
 
-.3 être mis à l'essai avec une charge égale à 1,1 fois la masse totale de l'embarcation avec son plein chargement en personnes et en armement chaque fois que le dispositif de largage est révisé. Cette révision et cet essai doivent être effectués au moins une fois tous les cinq ans (8).
+.3 être mis à l'essai avec une charge égale à 1,1 fois la masse totale de l'embarcation avec son plein chargement en personnes et en armement chaque fois que le dispositif de largage est révisé. Cette révision et cet essai doivent être effectués au moins une fois tous les cinq ans (8) ;
+
+4. Nonobstant les dispositions de l'alinéa 3 ci-dessus, il faut mettre à l'essai en cours d'exploitation les dispositifs de largage des embarcations de sauvetage à mise à l'eau en chute libre soit en mettant l'embarcation à l'eau en chute libre avec, à son bord, uniquement le membre d'équipage chargé de la faire fonctionner, soit en effectuant une simulation de la mise à l'eau en tenant compte des directives élaborées par l'OMI (2).
 
 11.3 Les crocs de dégagement automatique des radeaux de sauvetage sous bossoirs doivent :
 
