@@ -8,4 +8,4 @@ Cette formation professionnelle est sanctionnée, pour chaque catégorie de perm
 
 Cette qualification est obligatoire pour faire passer les épreuves de l'examen du permis de conduire correspondant.
 
-Les modalités et le contenu de la formation professionnelle ainsi que les compétences attendues d'un inspecteur du permis de conduire et de la sécurité routière sont fixés par arrêté conjoint des ministres chargés des transports, de la sécurité et de l'éducation routières et de la fonction publique.
+Les modalités et le contenu de la formation professionnelle ainsi que les compétences attendues d'un inspecteur du permis de conduire et de la sécurité routière sont fixés par arrêté conjoint des ministres chargés de la sécurité et de l'éducation routières et de la fonction publique.

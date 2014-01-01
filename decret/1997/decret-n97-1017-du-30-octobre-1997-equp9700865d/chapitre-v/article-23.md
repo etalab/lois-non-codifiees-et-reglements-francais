@@ -1,6 +1,6 @@
 # Article 23
 
-Peuvent être placés en position de détachement dans le corps des délégués au permis de conduire et à la sécurité routière les fonctionnaires civils appartenant à un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent titularisés en cette qualité depuis trois ans au moins, et après vérification de leurs aptitudes professionnelles selon des modalités définies par arrêté du ministre chargé des transports.
+Peuvent être placés en position de détachement dans le corps des délégués au permis de conduire et à la sécurité routière les fonctionnaires civils appartenant à un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent titularisés en cette qualité depuis trois ans au moins, et après vérification de leurs aptitudes professionnelles selon des modalités définies par arrêté du  ministre chargé de la sécurité et de l'éducation routières.
 
 Ils doivent en outre répondre aux obligations mentionnées à l'article 4 du présent décret et être titulaire de deux des catégories de permis de conduire prévues à l'article 124 du code de la route.
 

@@ -2,7 +2,7 @@
 
 Les délégués au permis de conduire et à la sécurité routière sont recrutés :
 
-a) Pour 40 % au moins des emplois à pourvoir par concours, par la voie d'un concours externe ouvert aux candidats titulaires d'une licence, d'un autre titre ou diplôme classé au moins au niveau II ou d'une qualification reconnue équivalente à l'un de ces titres ou diplômes dans les conditions fixées par arrêté du ministre chargé de la fonction publique et du ministre chargé de l'équipement ;
+a) Pour 40 % au moins des emplois à pourvoir par concours, par la voie d'un concours externe ouvert aux candidats titulaires d'une licence, d'un autre titre ou diplôme classé au moins au niveau II ou d'une qualification reconnue équivalente à l'un de ces titres ou diplômes dans les conditions fixées par arrêté du ministre chargé de la fonction publique et du ministre chargé de la sécurité et de l'éducation routières ;
 
 b) Pour 40 % au moins des emplois à pourvoir par concours, par la voie d'un concours interne ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, ainsi qu'aux militaires et magistrats. Ce concours est également ouvert aux candidats en fonction dans une organisation internationale intergouvernementale.
 
