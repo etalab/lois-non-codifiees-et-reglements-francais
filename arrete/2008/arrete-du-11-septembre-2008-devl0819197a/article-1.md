@@ -48,7 +48,7 @@ La directrice du laboratoire des ponts et chaussées.
 
 Le directeur de l'Ecole nationale des travaux publics de l'Etat.
 
-Le directeur de l'  Institut national de l'information géographique et forestière.
+Le directeur de l'Institut national de l'information géographique et forestière.
 
 Le directeur de l'établissement public Parcs nationaux de France.
 
@@ -56,7 +56,7 @@ Le directeur général de l'Office national de la chasse et de la faune sauvage.
 
 Une directrice régionale de l'environnement, de l'aménagement et du logement.
 
-Un directeur de centre d'études techniques de l'équipement.
+Un directeur de        centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
 
 Un directeur régional des affaires maritimes.
 

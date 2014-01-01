@@ -12,24 +12,24 @@ La délégation de pouvoirs est consentie :
 
 5° En ce qui concerne les agents affectés dans l'un des services énumérés ci-après, au chef de ce service :
 
-- service technique des bases aériennes ;
+-service technique des bases aériennes ;
 
-- service de contrôle des sociétés concessionnaires d'autoroutes ;
+-service de contrôle des sociétés concessionnaires d'autoroutes ;
 
-- service d'études techniques des routes et autoroutes ;
+-service d'études techniques des routes et autoroutes ;
 
-- centre d'études des tunnels ;
+-centre d'études des tunnels ;
 
-- centre national des ponts de secours ;
+-centre national des ponts de secours ;
 
-- service technique des remontées mécaniques et des transports guidés ;
+-service technique des remontées mécaniques et des transports guidés ;
 
-- centre d'études techniques maritimes et fluviales ;
+-       centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
-- école nationale des travaux publics de l'Etat ;
+-école nationale des travaux publics de l'Etat ;
 
-- école nationale des techniciens de l'équipement ;
+-école nationale des techniciens de l'équipement ;
 
-- centre d'évaluation, de documentation et d'innovation pédagogiques ;
+-centre d'évaluation, de documentation et d'innovation pédagogiques ;
 
 6° En ce qui concerne les agents affectés dans une direction interdépartementale des routes, au préfet désigné à l'article 2 du décret n° 2006-304 du 16 mars 2006 portant création et organisation des directions interdépartementales des routes comme préfet coordonnateur des itinéraires routiers.

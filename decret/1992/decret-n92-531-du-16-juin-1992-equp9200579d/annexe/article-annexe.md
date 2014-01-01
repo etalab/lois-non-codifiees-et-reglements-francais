@@ -30,7 +30,7 @@ Fonction administrative, de gestion, d'application de réglementation ou de pupi
 
 Fonction technique ou de pupitreur, programmeur, chef opérateur, chef programmeurTechnicien des T. P. E.
 
-4. Agents non titulaires relevant des dispositions du règlement du 14 mai 1973 régissant les personnels non titulaires de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centres d'études techniques de l'équipement :
+4. Agents non titulaires relevant des dispositions du règlement du 14 mai 1973 régissant les personnels non titulaires de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centres d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement :
 
 -agents administratifs des classes B, C et D.
 

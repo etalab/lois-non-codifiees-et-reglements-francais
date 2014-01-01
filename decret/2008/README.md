@@ -255,7 +255,6 @@
 - [Décret n°2008-542 du 9 juin 2008 (DEVA0806405D)](decret-n2008-542-du-9-juin-2008-deva0806405d)
 - [Décret n°2008-543 du 9 juin 2008 (MAEF0774276D)](decret-n2008-543-du-9-juin-2008-maef0774276d)
 - [Décret n°2008-544 du 9 juin 2008 (JUSC0807339D)](decret-n2008-544-du-9-juin-2008-jusc0807339d)
-- [Décret n°2008-678 du 9 juillet 2008 (DEVL0764190D)](decret-n2008-678-du-9-juillet-2008-devl0764190d)
 - [Décret n°2008-679 du 9 juillet 2008 (DEVK0815780D)](decret-n2008-679-du-9-juillet-2008-devk0815780d)
 - [Décret n°2008-680 du 9 juillet 2008 (DEVK0815768D)](decret-n2008-680-du-9-juillet-2008-devk0815768d)
 - [Décret n°2008-681 du 9 juillet 2008 (DEVK0815785D)](decret-n2008-681-du-9-juillet-2008-devk0815785d)

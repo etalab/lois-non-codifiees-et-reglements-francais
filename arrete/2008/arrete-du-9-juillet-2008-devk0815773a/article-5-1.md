@@ -12,4 +12,4 @@ La direction des infrastructures de transport comprend :
 
 ― la mission de coordination des affaires européennes et internationales.
 
-La direction des infrastructures de transport s'appuie, en tant que de besoin, sur les compétences du service d'études sur les transports, les routes et leurs aménagements, du centre d'études des tunnels, du centre d'études techniques maritimes et fluviales et du centre d'études sur les réseaux, le transport, l'urbanisme et la construction.
+La direction des infrastructures de transport s'appuie, en tant que de besoin, sur les compétences du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement, du centre d'études des tunnels et du centre d'études sur les réseaux, le transport, l'urbanisme et la construction.

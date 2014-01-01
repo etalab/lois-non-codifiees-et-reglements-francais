@@ -18,4 +18,4 @@ La direction des services de transport comprend :
 
 ― le secrétariat général au tunnel sous la Manche.
 
-La direction des services de transport s'appuie, en tant que de besoin, sur les compétences de l'Etablissement public de sécurité ferroviaire, du service technique des remontées mécaniques et des transports guidés, de l'organisme de régulation ferroviaire, du service d'études sur les transports, les routes et leurs aménagements, du centre d'études sur les réseaux de transport et de l'urbanisme et du centre d'études techniques maritimes et fluviales.
+La direction des services de transport s'appuie, en tant que de besoin, sur les compétences de l'Etablissement public de sécurité ferroviaire, du service technique des remontées mécaniques et des transports guidés, de l'organisme de régulation ferroviaire, du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement, du centre d'études sur les réseaux de transport et de l'urbanisme.

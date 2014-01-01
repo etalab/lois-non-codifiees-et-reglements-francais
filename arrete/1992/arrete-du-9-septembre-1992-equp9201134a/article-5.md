@@ -4,4 +4,4 @@ Un arrêté conjoint du ministre chargé de la fonction publique et du ministre 
 
 La date des épreuves est fixée par arrêté du ministre chargé de l'équipement.
 
-Les postes à pourvoir dans une implantation géographique d'un service technique central de l'équipement distincte du siège de ce service peuvent être offerts aux concours ouverts pour ce service ou pour le centre d'études techniques de l'équipement le plus proche.
+Les postes à pourvoir dans une implantation géographique d'un service technique central de l'équipement distincte du siège de ce service peuvent être offerts aux concours ouverts pour ce service ou pour le        centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement le plus proche.

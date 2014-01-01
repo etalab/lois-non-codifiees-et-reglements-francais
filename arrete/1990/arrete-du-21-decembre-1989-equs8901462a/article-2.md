@@ -52,6 +52,6 @@ Sont consultés par la commission et associés à ses travaux en fonction de l'o
 
 - l'inspecteur général Routes concerné ;
 
-- le directeur du Centre d'études techniques de l'équipement (C.E.T.E.) ou son représentant.
+- le directeur du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ou son représentant.
 
 Le secrétariat est assuré par la direction de la sécurité et de la circulation routières, sous-direction de l'exploitation et de la sécurité de la route, bureau SR/R2.

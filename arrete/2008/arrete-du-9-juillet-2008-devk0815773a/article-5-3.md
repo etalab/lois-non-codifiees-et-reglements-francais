@@ -16,4 +16,4 @@ La direction des affaires maritimes comprend :
 
 En outre, lui est rattaché le service de santé des gens de mer.
 
-La direction des affaires maritimes s'appuie, en tant que de besoin, sur les compétences du centre d'études techniques maritimes et fluviales.
+La direction des affaires maritimes s'appuie, en tant que de besoin, sur les compétences du       centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.

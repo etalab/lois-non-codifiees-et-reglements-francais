@@ -30,7 +30,7 @@ Ne relèvent pas de cette commission les services à compétence nationale autre
 
 ― le Centre national des ponts de secours ;
 
-― le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
+― le                 centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 ― la sous-direction des systèmes d'information de la direction générale des infrastructures, des transports et de la mer ;
 

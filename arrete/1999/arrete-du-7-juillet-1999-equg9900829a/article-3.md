@@ -26,11 +26,11 @@ Le directeur de l'habitat, de l'urbanisme et des paysages ou son représentant ;
 
 Le président du Conseil supérieur de la marine marchande ou son représentant ;
 
-Le directeur du centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ou son représentant ;
+Le directeur du                 centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ou son représentant ;
 
 Le directeur de l'Institut national de recherche sur les transports et leur sécurité ou son représentant ;
 
-Le directeur du service d'études sur les transports, les routes et leurs aménagements ou son représentant ;
+Le directeur du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ou son représentant ;
 
 Le président de la commission spécialisée de terminologie et de néologie de l'automobile ou son représentant ;
 

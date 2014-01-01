@@ -12,4 +12,4 @@ Pour les chauffe-eau collectifs, la procédure d'admission est déléguée aux d
 
 Ces admissions concernent alors des installations collectives de production d'eau chaude sanitaire et sont prononcées cas par cas.
 
-Les directeurs départementaux de l'équipement consultent à cet effet les services compétents des centres d'études techniques de l'équipement qui leur fourniront un avis au vu du dossier technico-économique complet de chaque opération.
+Les directeurs départementaux de l'équipement consultent à cet effet les services compétents des centres d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement qui leur fourniront un avis au vu du dossier technico-économique complet de chaque opération.

@@ -46,7 +46,7 @@ I. ― Le haut comité de la qualité de service dans les transports comprend tr
 
 4° Un collège de personnalités qualifiées ainsi réparties :
 
-― une personnalité choisie en raison de sa compétence dans le domaine des transports, au sein du Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
+― une personnalité choisie en raison de sa compétence dans le domaine des transports, au sein du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 ― une personnalité choisie en raison de sa compétence dans le domaine de l'évaluation de la qualité des services publics ;
 

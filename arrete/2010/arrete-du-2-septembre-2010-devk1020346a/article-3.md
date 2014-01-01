@@ -4,7 +4,7 @@ Il est institué auprès du directeur des ressources humaines une commission adm
 
 ― Centre d'évaluation, de documentation et d'innovation pédagogiques (CEDIP) ;
 
-― Centre d'études sur les réseaux les transports, l'urbanisme et les constructions publiques (CERTU) ;
+― Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement  ;
 
 ― Centre d'études des tunnels (CETU) ;
 

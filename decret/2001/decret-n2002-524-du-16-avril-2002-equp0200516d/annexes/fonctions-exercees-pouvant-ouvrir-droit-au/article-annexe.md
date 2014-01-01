@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1. Vice-président du Conseil général de l'environnement et du développement durable.
 
@@ -12,7 +12,7 @@ A. - Fonctions exercées en administration centrale
 
 B.-Fonctions exercées dans un service déconcentré
 
-1° Directeur régional de l'environnement, de l'aménagement et du logement .
+1° Directeur régional de l'environnement, de l'aménagement et du logement.
 
 2° Directeur départemental de l'équipement.
 
@@ -20,7 +20,7 @@ B.-Fonctions exercées dans un service déconcentré
 
 4° Chef de service navigation, chef de service navigation délégué, chef de service maritime, chef de service maritime et de navigation, chef de service spécial des bases aériennes.
 
-5° Directeur de centre d'études techniques de l'équipement.
+5° Directeur de        centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
 
 6° Contrôleur général ou directeur régional du travail des transports des régions Ile-de-France, Provence-Alpes-Côte d'Azur, Nord-Pas-de-Calais, Rhône-Alpes et Aquitaine.
 
@@ -30,6 +30,6 @@ B.-Fonctions exercées dans un service déconcentré
 
 9° Directeur interdépartemental des routes.
 
-C. - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
+C.-Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
 Directeur ou délégué ou chef de service ou chef de centre.

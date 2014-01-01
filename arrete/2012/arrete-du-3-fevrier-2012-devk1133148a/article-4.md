@@ -32,7 +32,7 @@ Il est créé, auprès de la directrice des ressources humaines du secrétariat 
 
 ― institut de formation de l'environnement (IFORE) ;
 
-― service d'études sur les transports, les routes et leurs aménagements (SETRA) ;
+― centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (SETRA) ;
 
 ― centre interministériel de gestion des ingénieurs des ponts, des eaux et des forêts (CEIGIPEF) ;
 
@@ -46,7 +46,7 @@ Il est créé, auprès de la directrice des ressources humaines du secrétariat 
 
 ― armement des phares et balises (APB) ;
 
-― centre d'études techniques maritimes et fluviales (CETMEF) ;
+―       centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CETMEF) ;
 
 ― centre d'études sur les réseaux, le transport, l'urbanisme et la construction (CERTU) ;
 

@@ -1,5 +1,3 @@
 # Article 1
 
-Il est statué par le directeur régional des impôts dont dépend le lieu de situation de l'entreprise sur les demandes d'agrément présentées en application du troisième alinéa de l'article 151 octies II du code général des impôts lorsque la valeur brute des éléments de l'actif immobilisé apportés en société n'excède pas 10 millions de francs.
-
-La décision est prise par le ministre de l'économie, des finances et du budget, lorsque la condition prévue au premier alinéa ci-dessus n'est pas remplie ou lorsque l'affaire est évoquée par le ministre.
+Les logements neufs en accession à la propriété financés au moyen de prêts aidés par l'Etat, à l'exclusion de ceux construits par des personnes physiques qui assurent elles-mêmes la maîtrise d'ouvrage, doivent répondre aux conditions du présent arrêté.

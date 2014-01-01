@@ -1,10 +1,10 @@
 # Article 2
 
-I. - Le ministre de l'égalité des territoires et du logement a autorité sur le secrétariat général du comité interministériel des villes.
+I.-Le ministre de l'égalité des territoires et du logement a autorité sur le secrétariat général du comité interministériel des villes.
 
-Pour l'exercice de ses attributions, il a autorité, conjointement avec le ministre de l'écologie, du développement durable et de l'énergie, sur la direction générale de l'aménagement, du logement et de la nature et le secrétariat général mentionnés dans le décret du 9 juillet 2008 susvisé, ainsi que sur le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques.
+Pour l'exercice de ses attributions, il a autorité, conjointement avec le ministre de l'écologie, du développement durable et de l'énergie, sur la direction générale de l'aménagement, du logement et de la nature et le secrétariat général mentionnés dans le décret du 9 juillet 2008 susvisé, ainsi que sur le                 centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
 
-II. - Le ministre de l'égalité des territoires et du logement dispose :
+II.-Le ministre de l'égalité des territoires et du logement dispose :
 
 1° De la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale, du délégué à l'information et à l'orientation, du délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées, du secrétaire général du comité interministériel de prévention de la délinquance et de la mission interministérielle de lutte contre la drogue et la toxicomanie ;
 
@@ -26,7 +26,7 @@ II. - Le ministre de l'égalité des territoires et du logement dispose :
 
 10° De la direction des sports et de la direction de la jeunesse, de l'éducation populaire et de la vie associative.
 
-III. - Le ministre de l'égalité des territoires et du logement peut faire appel :
+III.-Le ministre de l'égalité des territoires et du logement peut faire appel :
 
 1° A l'inspection générale des finances et au Conseil général de l'économie, de l'industrie, de l'énergie, et des technologies ;
 

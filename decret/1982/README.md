@@ -150,7 +150,6 @@
 - [Décret du 24 décembre 1981](decret-du-24-decembre-1981)
 - [Décret n°82-1004 du 24 novembre 1982](decret-n82-1004-du-24-novembre-1982)
 - [Décret n°82-264 du 24 mars 1982](decret-n82-264-du-24-mars-1982)
-- [Décret n°82-642 du 24 juillet 1982](decret-n82-642-du-24-juillet-1982)
 - [Décret n°82-745 du 24 août 1982](decret-n82-745-du-24-aout-1982)
 - [Décret n°82-991 du 24 novembre 1982](decret-n82-991-du-24-novembre-1982)
 - [Décret n°82-993 du 24 novembre 1982](decret-n82-993-du-24-novembre-1982)

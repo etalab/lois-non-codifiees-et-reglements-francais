@@ -20,7 +20,6 @@
 - [Décret n°99-767 du 1 septembre 1999 (ECOD9970016D)](decret-n99-767-du-1-septembre-1999-ecod9970016d)
 - [Décret n°99-768 du 1 septembre 1999 (MCCB9900522D)](decret-n99-768-du-1-septembre-1999-mccb9900522d)
 - [Décret n°99-852 du 1 octobre 1999 (MESP9922814D)](decret-n99-852-du-1-octobre-1999-mesp9922814d)
-- [Décret n°98-980 du 2 novembre 1998 (EQUP9800078D)](decret-n98-980-du-2-novembre-1998-equp9800078d)
 - [Décret n°99-161 du 2 mars 1999 (MAEA9820438D)](decret-n99-161-du-2-mars-1999-maea9820438d)
 - [Décret n°99-169 du 2 mars 1999 (FPPA9910001D)](decret-n99-169-du-2-mars-1999-fppa9910001d)
 - [Décret n°99-260 du 2 avril 1999 (ECOC9800092D)](decret-n99-260-du-2-avril-1999-ecoc9800092d)

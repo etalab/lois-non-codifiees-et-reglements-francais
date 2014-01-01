@@ -28,6 +28,6 @@ Directions interdépartementales des routes ;
 
 Directions de l'environnement, de l'aménagement et du logement ;
 
-Centres d'études techniques de l'équipement ;
+Centres d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 Services de navigation.

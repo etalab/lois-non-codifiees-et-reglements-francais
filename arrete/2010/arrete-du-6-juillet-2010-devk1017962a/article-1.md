@@ -34,7 +34,7 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 ― directeur de CIFP ;
 
-― responsable d'un département ou d'une division à enjeux particuliers, rattaché à l'équipe de direction d'un centre d'études techniques de l'équipement ;
+― responsable d'un département ou d'une division à enjeux particuliers, rattaché à l'équipe de direction d'un        centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 ― directeur d'un laboratoire régional des ponts et chaussées ;
 

@@ -2,7 +2,7 @@
 
 Les opérations de restructuration de service listées ci-après ouvrent droit au bénéfice de la prime de restructuration de service et, le cas échéant, de l'allocation d'aide à la mobilité du conjoint :
 
-1° La réorganisation des services d’administration centrale et des services à compétence nationale qui leur sont rattachés ;
+1° La réorganisation des services d ’ administration centrale et des services à compétence nationale qui leur sont rattachés ;
 
 2° Les restructurations des directions régionales de l'industrie, de la recherche et de l'environnement, des directions régionales de l'environnement et des directions régionales de l'équipement dans le cadre de leur regroupement au sein des directions régionales de l'environnement, de l'aménagement et du logement, ainsi que dans le cadre d'opérations de mutualisation de fonctions supports ;
 
@@ -20,7 +20,7 @@ Les opérations de restructuration de service listées ci-après ouvrent droit a
 
 9° Les réorganisations des directions départementales de l'équipement et des directions départementales de l'équipement et de l'agriculture dans le cadre de la création des directions départementales interministérielles ;
 
-10° La délocalisation du service d'études sur les transports, les routes et leurs aménagements donnant lieu à des départs du site de Bagneux à compter du 1er janvier 2010 ;
+10° La délocalisation du            centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement donnant lieu à des départs du site de Bagneux à compter du 1er janvier 2010 ;
 
 11° La délocalisation de l'Etablissement national des invalides de la marine donnant lieu à des départs du site de Paris à compter du 1er septembre 2009 ;
 

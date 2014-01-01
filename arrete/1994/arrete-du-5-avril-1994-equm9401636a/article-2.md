@@ -50,7 +50,7 @@ M. Denby-Wilkes (Vincent), directeur général de l'Agence de l'environnement et
 
 M. Gérondeau (Christian), président de l'Union routière de France ; suppléant : M. Lacaille (Jean), secrétaire général de l'Union routière de France.
 
-M. Lauer (André), directeur du Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques (C.E.R.T.U.) ; suppléant : Mme Duchène (Chantal), chef du département Mobilité, transports et services urbains du C.E.R.T.U.
+M. Lauer (André), directeur du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ; suppléant : Mme Duchène (Chantal), chef du département Mobilité, transports et services urbains du C.E.R.T.U.
 
 Mme Luciani-Degenève (Anne-Marie), président du syndicat des transports routiers de la Haute-Savoie.
 

@@ -10,7 +10,7 @@ Direction de l'équipement de Saint-Pierre-et-Miquelon ;
 
 Direction de l'équipement de Mayotte ;
 
-Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
+Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 Service technique des remontées mécaniques et des transports guidés ;
 
@@ -34,6 +34,6 @@ Agence nationale de l'habitat.
 
 Le calendrier et les modalités pratiques d'organisation des élections sont précisés par circulaire.
 
-Pour l'application du présent arrêté, l'expression : « responsable du scrutin » désigne chaque directeur des directions et services susvisés.
+Pour l'application du présent arrêté, l'expression :  responsable du scrutin  désigne chaque directeur des directions et services susvisés.
 
 La date de cette consultation est fixée au jeudi 6 mai 2010.

@@ -32,7 +32,7 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 ― directeur adjoint de CIFP ;
 
-― responsable d'un département ou d'une division, rattaché à l'équipe de direction ou adjoint au responsable d'un département ou d'une division à enjeux particuliers d'un centre d'études techniques de l'équipement ;
+― responsable d'un département ou d'une division, rattaché à l'équipe de direction ou adjoint au responsable d'un département ou d'une division à enjeux particuliers d'un        centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 ― chargé d'audits routiers ;
 

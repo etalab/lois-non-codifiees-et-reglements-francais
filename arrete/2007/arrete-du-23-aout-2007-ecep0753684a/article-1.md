@@ -110,9 +110,9 @@ Les services statistiques des établissements publics et organismes suivants :
 
 -le centre d'études prospectives et d'informations internationales ;
 
--le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
+-le                 centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
--la mission INSEE du   Conseil économique, social et environnemental ;
+-la mission INSEE du Conseil économique, social et environnemental ;
 
 -le centre d'études de l'emploi ;
 

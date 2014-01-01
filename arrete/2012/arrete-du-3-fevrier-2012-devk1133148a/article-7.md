@@ -28,6 +28,6 @@ Il est créé, auprès du responsable de chacun des services déconcentrés ment
 
 ― directions de l'environnement, de l'aménagement et du logement ;
 
-― centres d'études techniques de l'équipement ;
+― centres d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 ― services de navigation.

@@ -26,7 +26,7 @@ Les directeurs des services de la navigation (SN).
 
 Les directeurs régionaux des affaires maritimes.
 
-Les directeurs des centres d'études techniques de l'équipement (CETE).
+Les directeurs des centres d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
 
 Les directeurs des centres interrégionaux de formation professionnelle (CIFP).
 
