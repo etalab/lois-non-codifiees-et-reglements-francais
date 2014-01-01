@@ -17,6 +17,7 @@ Comités techniques paritaires spéciaux des services à compétence nationale
 <tr>
 <td align="left" valign="middle">
 <pre/>
+<br/>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">De l'administration </p>
@@ -28,6 +29,7 @@ Comités techniques paritaires spéciaux des services à compétence nationale
 <tr>
 <td align="left" valign="middle">
 <pre/>
+<br/>
 </td>
 <td align="left" valign="middle">
 <p align="center">Titulaires </p>
@@ -44,7 +46,7 @@ Comités techniques paritaires spéciaux des services à compétence nationale
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques </p>
+<p align="left">Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement </p>
 </td>
 <td align="left" valign="middle">
 <p align="center">6 </p>
