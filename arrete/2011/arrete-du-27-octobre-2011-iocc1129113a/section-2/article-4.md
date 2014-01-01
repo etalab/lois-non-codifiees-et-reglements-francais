@@ -6,4 +6,4 @@ En cas de rappel, et quand les missions l'exigent, le réserviste volontaire doi
 
 ― être médicalement apte à un service actif de jour comme de nuit ;
 
-― être apte au port et à l'usage de l'arme individuelle pour les réservistes mentionnés aux articles 5 et 8 du décret du 27 octobre 2011 susvisé.
+― être apte au port et à l'usage de l'arme individuelle pour les réservistes mentionnés aux articles R. 411-23 et R. 411-27  du code de la sécurité intérieure.
