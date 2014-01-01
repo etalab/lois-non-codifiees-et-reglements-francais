@@ -30,9 +30,9 @@ V.-Le taux de la taxe est fixé à :
 
 2° 0,06 % pour les produits transformés d'origine animale.
 
-VI.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 120 Euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
+VI.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 500 €, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
-2. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 120 Euros, les redevables déposent, au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au cours de l'année précédente.
+2. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 1 500 €, les redevables déposent, au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au cours de l'année précédente.
 
 3. L'année de création de l'entreprise, les redevables déposent la déclaration de leur chiffre d'affaires imposable au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de taxe dû.
 
