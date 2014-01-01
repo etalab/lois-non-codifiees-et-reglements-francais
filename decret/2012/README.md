@@ -540,7 +540,6 @@
 - [Décret n°2012-1271 du 19 novembre 2012 (ETSD1236960D)](decret-n2012-1271-du-19-novembre-2012-etsd1236960d)
 - [Décret n°2012-1423 du 19 décembre 2012 (PRMX1241367D)](decret-n2012-1423-du-19-decembre-2012-prmx1241367d)
 - [Décret n°2012-1428 du 19 décembre 2012 (ETLL1234343D)](decret-n2012-1428-du-19-decembre-2012-etll1234343d)
-- [Décret n°2012-1429 du 19 décembre 2012 (ETSX1242365D)](decret-n2012-1429-du-19-decembre-2012-etsx1242365d)
 - [Décret n°2012-1430 du 19 décembre 2012 (DEFH1239895D)](decret-n2012-1430-du-19-decembre-2012-defh1239895d)
 - [Décret n°2012-1431 du 19 décembre 2012 (MCCB1236704D)](decret-n2012-1431-du-19-decembre-2012-mccb1236704d)
 - [Décret n°2012-377 du 19 mars 2012 (IOCD1128516D)](decret-n2012-377-du-19-mars-2012-iocd1128516d)
