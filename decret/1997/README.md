@@ -140,7 +140,6 @@
 - [Décret n°97-1135 du 9 décembre 1997 (INTM9700007D)](decret-n97-1135-du-9-decembre-1997-intm9700007d)
 - [Décret n°97-1137 du 9 décembre 1997 (EQUP9701394D)](decret-n97-1137-du-9-decembre-1997-equp9701394d)
 - [Décret n°97-1148 du 9 décembre 1997 (MENU9702429D)](decret-n97-1148-du-9-decembre-1997-menu9702429d)
-- [Décret n°97-319 du 9 avril 1997 (MENU9700256D)](decret-n97-319-du-9-avril-1997-menu9700256d)
 - [Décret n°97-327 du 9 avril 1997 (BUDF9700019D)](decret-n97-327-du-9-avril-1997-budf9700019d)
 - [Décret n°97-328 du 9 avril 1997 (MIPP9700054D)](decret-n97-328-du-9-avril-1997-mipp9700054d)
 - [Décret n°97-842 du 9 septembre 1997 (ATEN9750077D)](decret-n97-842-du-9-septembre-1997-aten9750077d)
