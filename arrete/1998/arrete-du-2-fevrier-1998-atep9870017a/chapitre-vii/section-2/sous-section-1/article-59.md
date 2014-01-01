@@ -51,3 +51,13 @@ d) Antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, vanadium et zi
 9° Acide cyanhydrique, ammoniac, brome, chlore, hydrogène sulfuré : si le flux horaire d'acide cyanhydrique ou de brome ou de chlore ou d'hydrogène sulfuré dépasse 1 kg/h, la mesure en permanence des émissions est réalisée.
 
 Le flux horaire est porté à 10 kg/h pour l'ammoniac.
+
+10° Les dispositions suivantes sont applicables à la fabrication du dioxyde de titane :
+
+Une surveillance continue des émissions dans l'air est mise en œuvre pour les émissions :
+
+a) Des rejets gazeux de dioxydes et de trioxyde de soufre provenant de la digestion et de la calcination dans les installations de concentration d'acides usés qui utilisent le procédé au sulfate ;
+
+b) De chlorures dans les installations utilisant le procédé au chlore ;
+
+c) De poussières provenant des sources principales.
