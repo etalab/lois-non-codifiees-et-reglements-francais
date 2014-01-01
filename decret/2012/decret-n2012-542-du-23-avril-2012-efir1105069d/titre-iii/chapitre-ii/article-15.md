@@ -1,5 +1,0 @@
-# Article 15
-
-I. ― L'ANDRA tient à jour un inventaire des sources radioactives scellées usagées, en tenant compte des déclarations faites à l'Institut de radioprotection et de sûreté nucléaire conformément à l'article R. 1333-50 du code de la santé publique. Cet inventaire est intégré dans l'inventaire des matières et déchets radioactifs prévu au 1° de l'article L. 542-12 du code de l'environnement.
-
-II. ― Les détenteurs de sources radioactives scellées usagées considérées comme des déchets poursuivent, en concertation avec l'ANDRA, les études concernant les procédés de traitement des sources scellées liquides et gazeuses en vue de leur élimination, et les procédés de conditionnement adaptés aux filières de stockage. Afin de proposer des modalités de gestion optimisée pour les sources radioactives scellées usagées considérées comme des déchets, un programme d'études et son calendrier de réalisation sont définis par arrêté des ministres chargés de l'énergie, de l'environnement, de la sûreté nucléaire et de la radioprotection.

@@ -1,3 +1,0 @@
-# Article 9
-
-Les propriétaires de matières radioactives, à l'exclusion des matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion visée à l'article L. 1333-1 du code de la défense, informent avant le 31 décembre 2012 les ministres chargés de l'énergie, de l'environnement, de la sûreté nucléaire et de la radioprotection des procédés de valorisation qu'ils envisagent ou, s'ils ont déjà fourni ces éléments, des changements envisagés. Sur cette base, les ministres, après avis de l'ANDRA et de l'Autorité de sûreté nucléaire, peuvent requalifier les matières en déchets.

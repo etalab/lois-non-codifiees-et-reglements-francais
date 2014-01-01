@@ -1,7 +1,0 @@
-# Article 5
-
-Les matières radioactives sont entreposées dans des installations spécialement aménagées à cet effet ou gérées sur site dans des conditions de sûreté appropriées dans l'attente de leur valorisation.
-
-Les déchets radioactifs ne disposant pas de filière de gestion à long terme sont entreposés dans des installations spécialement aménagées et autorisées à cet effet ou gérés sur site dans des conditions de sûreté appropriées, dans l'attente de la disponibilité de telles filières.
-
-Afin d'améliorer les conditions d'entreposage ou de gestion sur site des matières radioactives en attente de valorisation et des déchets radioactifs en attente de filières de gestion à long terme, au regard de l'objectif de gestion durable des matières et déchets radioactifs et, en particulier, des exigences de protection de la santé des personnes et de l'environnement, le ministre chargé de l'énergie et les ministres chargés de la sûreté nucléaire et de la radioprotection peuvent définir, par arrêté, un programme d'études. Cet arrêté fixe, le cas échéant, la liste des détenteurs de matières et des producteurs de déchets devant réaliser ces études, en tenant compte des quantités de matières détenues et des quantités de déchets radioactifs produits. Sont exclues du champ d'application de ces études les matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion visées à l'article L. 1333-1 du code de la défense.
