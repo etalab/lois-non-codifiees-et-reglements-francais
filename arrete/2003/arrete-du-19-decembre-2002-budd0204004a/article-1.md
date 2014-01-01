@@ -487,10 +487,10 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="8" valign="top">
-<p align="left">Vins blancs du Val de Loire, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (sauf vins mousseux et pétillants).</p>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins blancs du Val de Loire, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % volume, avec AOP (sauf vins mousseux et pétillants). </p>
 </td>
-<td align="left" rowspan="8" valign="top">
+<td align="left" rowspan="9" valign="top">
 <p align="center">2204 21 17</p>
 </td>
 <td align="left" valign="top">
@@ -549,6 +549,12 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
+<td>Centre-Loire autre que Sancerre.  <br/>
+</td>
+<td align="center"> 2204 21 17 8 <br/>
+</td>
+</tr>
+<tr>
 <td>
 <p align="left">Autres AOP blancs du Val de Loire.</p>
 </td>
@@ -558,7 +564,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="6" valign="top">
-<p align="left">Vins blancs produits dans la Communauté, en<br/>récipientsd'une contenance n'excédant 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants, du Vinho<br/>Verde et des vins d'Alsace, de Bordeaux, de Bourgogne,<br/>du Val de Loire, de Mosel, du Palatinat, de Hesse rhénane,<br/>de Tokaj, du Latium, de Toscane, du Trentin, du Haut-Adige,<br/>du Frioul, de Vénétie, de Penedés, de la Rioja et de Valencia).</p>
+<p align="left">Vins blancs produits dans la Communauté, en<br/>récipients d'une contenance n'excédant 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants, du Vinho<br/>Verde et des vins d'Alsace, de Bordeaux, de Bourgogne,<br/>du Val de Loire, de Mosel, du Palatinat, de Hesse rhénane,<br/>de Tokaj, du Latium, de Toscane, du Trentin, du Haut-Adige,<br/>du Frioul, de Vénétie, de Penedés, de la Rioja et de Valencia).</p>
 </td>
 <td align="left" rowspan="6" valign="top">
 <p align="center">2204 21 38</p>
@@ -1092,13 +1098,13 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
-<p align="left">Vins blancs produits dans la Communauté,<br/>en récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique volumique<br/>acquis n'excédant pas 15 % vol, avec indication<br/>géographique protégée (IGP) (à l'exclusion des<br/>vins mousseux et des vins pétillants).</p>
+<p align="left">Vins blancs produits dans la Communauté, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % volume, avec IGP (à l'exclusion des vins mousseux et des vins pétillants). </p>
 </td>
 <td align="left" rowspan="7" valign="top">
 <p align="center">2204 21 79 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins à IGP de la région Midi-Pyrénées.</p>
+<p align="left">Vins à IGP du bassin Sud-Ouest. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 79 2</p>
@@ -1154,13 +1160,13 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
-<p align="left">Vins produits dans la Communauté, en<br/>récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique volumique<br/>acquis n'excédant pas 15 % vol, avec IGP<br/>(à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
+<p align="left">Vins produits dans la Communauté, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % volume, avec IGP (à l'exlusion des vins mousseux, des vins pétillants et des vins blancs). </p>
 </td>
 <td align="left" rowspan="7" valign="top">
 <p align="center">2204 21 80</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins à IGP de la région Midi-Pyrénées.</p>
+<p align="left">Vins à IGP du bassin Sud-Ouest. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 80 2</p>
@@ -1591,8 +1597,8 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="8" valign="top">
-<p align="left">Vins blancs du Val de Loire, en récipients<br/>d'une contenance excédant 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux et des vins pétillants).</p>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins blancs du Val de Loire, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % volume, avec AOP (à l'exclusion des vins mousseux et des vins pétillants). </p>
 <br/>
 <br/>
 <br/>
@@ -1601,7 +1607,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 <br/>
 </td>
-<td align="left" rowspan="8" valign="top">
+<td align="left" rowspan="9" valign="top">
 <p align="center">2204 29 17</p>
 <br/>
 <br/>
@@ -1664,6 +1670,12 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 <td>
 <p align="center">2204 29 17 7</p>
+</td>
+</tr>
+<tr>
+<td>Centre-Loire autre que Sancerre. <br/>
+</td>
+<td align="center">2204 29 17 8 <br/>
 </td>
 </tr>
 <tr>
@@ -2224,7 +2236,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
-<p align="left">Vins blancs de raisins frais, produits dans la<br/>Communauté, en récipients d'une contenance<br/>excédant 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % vol, avec IGP (à l'exclusion des vins mousseux et des vins pétillants). </p>
+<p align="left">Vins blancs de raisins frais, produits dans la Communauté, en récipients d'une contenance supérieure à 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % volume, avec IGP (à l'exclusion des vins mousseux et des vins pétillants). </p>
 <br/>
 <br/>
 <br/>
@@ -2242,7 +2254,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins à IGP de la région Midi-Pyrénées. </p>
+<p align="left">Vin à IGP du bassin Sud-Ouest.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 29 79 2 </p>
@@ -2298,7 +2310,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
-<p align="left">Vins produits dans la Communauté, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec IGP (à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
+<p align="left">Vins de raisins frais, produits dans la Communauté, en récipients d'une contenance supérieure à 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % volume, avec IGP (à l'exclusion des vins mousseux, des vins pétillants et des vins blancs). </p>
 <br/>
 <br/>
 <br/>
@@ -2307,7 +2319,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 </td>
 <td align="left" rowspan="7" valign="top">
-<p align="center">2204 21 80</p>
+<p align="center">2204 29 80</p>
 <br/>
 <br/>
 <br/>
@@ -2316,10 +2328,10 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Vins à IGP de la région Midi-Pyrénées.</p>
+<p align="left">Vins à IGP du bassin Sud-Ouest. </p>
 </td>
 <td align="left" valign="top">
-<p align="center">2204 21 80 2</p>
+<p align="center">2204 29 80 2</p>
 </td>
 </tr>
 <tr>
@@ -2327,7 +2339,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Vins à IGP Pays d'Oc.</p>
 </td>
 <td>
-<p align="center">2204 21 80 3</p>
+<p align="center">2204 29 80 3</p>
 </td>
 </tr>
 <tr>
@@ -2335,7 +2347,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Vins à IGP du Val de Loire.</p>
 </td>
 <td>
-<p align="center">2204 21 80 4</p>
+<p align="center">2204 29 80 4</p>
 </td>
 </tr>
 <tr>
@@ -2343,7 +2355,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Vins à IGP de la région Languedoc-Roussillon sauf Oc.</p>
 </td>
 <td>
-<p align="center">2204 21 80 5</p>
+<p align="center">2204 29 80 5</p>
 </td>
 </tr>
 <tr>
@@ -2351,7 +2363,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Vins à IGP des régions Provence-Alpes-Côte d'Azur, Rhône-Alpes et Corse.</p>
 </td>
 <td>
-<p align="center">2204 21 80 6</p>
+<p align="center">2204 29 80 6</p>
 </td>
 </tr>
 <tr>
@@ -2359,7 +2371,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Autres vins rouges et rosés français à IGP.</p>
 </td>
 <td>
-<p align="center">2204 21 80 8</p>
+<p align="center">2204 29 80 8</p>
 </td>
 </tr>
 <tr>
@@ -2367,7 +2379,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Autres vins rouges et rosés à IGP produits dans la Communauté.</p>
 </td>
 <td>
-<p align="center">2204 21 80 9</p>
+<p align="center">2204 29 80 9</p>
 </td>
 </tr>
 <tr>
