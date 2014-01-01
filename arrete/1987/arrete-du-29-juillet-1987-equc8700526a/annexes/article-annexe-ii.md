@@ -5,119 +5,143 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CATÉGORIE DE MÉNAGES <br/>
-</th>
-<th>
-<br/>PARIS ET COMMUNES LIMITROPHES <br/>
-<br/>(en euros) <br/>
-</th>
-<th>
-<br/>ÎLE-DE-FRANCE <br/>
-<br/>hors Paris et communes limitrophes <br/>
-<br/>(en euros) <br/>
-</th>
-<th>
-<br/>AUTRES RÉGIONS <br/>
-<br/>(en euros) <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>1 <br/>
+<td>
+<p align="center">CATÉGORIE DE MÉNAGES </p>
 </td>
-<td align="center">
-<br/>12   549 <br/>
+<td>
+<p align="center">PARIS <br/>et communes limitrophes <br/>(en euros)</p>
 </td>
-<td align="center">
-<br/>12   549 <br/>
+<td>
+<p align="center">ÎLE-DE-FRANCE <br/>hors Paris <br/>et communes limitrophes <br/>(en euros) </p>
 </td>
-<td align="center">
-<br/>10   908 <br/>
+<td>
+<p align="center">AUTRES RÉGIONS <br/>(en euros) </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>2 <br/>
+<td>
+<p>
+<br/>1 </p>
 </td>
-<td align="center">
-<br/>20   459 <br/>
+<td>
+<p align="center">
+<br/>12 662 </p>
 </td>
-<td align="center">
-<br/>20   459 <br/>
+<td>
+<p align="center">
+<br/>12 662 </p>
 </td>
-<td align="center">
-<br/>15   894 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>26   818 <br/>
-</td>
-<td align="center">
-<br/>24   591 <br/>
-</td>
-<td align="center">
-<br/>19   111 <br/>
+<td>
+<p align="center">
+<br/>11 006 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>4 <br/>
+<td>
+<p>
+<br/>2 </p>
 </td>
-<td align="center">
-<br/>29   354 <br/>
+<td>
+<p align="center">
+<br/>20 643 </p>
 </td>
-<td align="center">
-<br/>27   002 <br/>
+<td>
+<p align="center">
+<br/>20 643 </p>
 </td>
-<td align="center">
-<br/>21   266 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>5 <br/>
-</td>
-<td align="center">
-<br/>34   919 <br/>
-</td>
-<td align="center">
-<br/>31   967 <br/>
-</td>
-<td align="center">
-<br/>24   881 <br/>
+<td>
+<p align="center">
+<br/>16 037 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>6 <br/>
+<td>
+<p>
+<br/>3 </p>
 </td>
-<td align="center">
-<br/>39   296 <br/>
+<td>
+<p align="center">
+<br/>27 059 </p>
 </td>
-<td align="center">
-<br/>35   971 <br/>
+<td>
+<p align="center">
+<br/>24 812 </p>
 </td>
-<td align="center">
-<br/>28   040 <br/>
+<td>
+<p align="center">
+<br/>19 283 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Par personne supplémentaire <br/>
+<td>
+<p>
+<br/>4 </p>
 </td>
-<td align="center">
-<br/>4   378 <br/>
+<td>
+<p align="center">
+<br/>29 618 </p>
 </td>
-<td align="center">
-<br/>4   007 <br/>
+<td>
+<p align="center">
+<br/>27 245 </p>
 </td>
-<td align="center">
-<br/>3   127<br/>
+<td>
+<p align="center">
+<br/>21 457 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>5 </p>
+</td>
+<td>
+<p align="center">
+<br/>35 233 </p>
+</td>
+<td>
+<p align="center">
+<br/>32 255 </p>
+</td>
+<td>
+<p align="center">
+<br/>25 105 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>6 </p>
+</td>
+<td>
+<p align="center">
+<br/>39 650 </p>
+</td>
+<td>
+<p align="center">
+<br/>36 295 </p>
+</td>
+<td>
+<p align="center">
+<br/>28 292 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Par personne supplémentaire </p>
+</td>
+<td>
+<p align="center">
+<br/>4 417 </p>
+</td>
+<td>
+<p align="center">
+<br/>4 043 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 155</p>
 </td>
 </tr>
 </tbody>
