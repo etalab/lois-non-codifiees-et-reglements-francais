@@ -448,8 +448,6 @@
 - [Arrêté du 29 mars 2001 (INTF0100203A)](arrete-du-29-mars-2001-intf0100203a)
 - [Arrêté du 29 novembre 2001 (DEFD0102254A)](arrete-du-29-novembre-2001-defd0102254a)
 - [Arrêté du 29 novembre 2001 (MCCB0100081A)](arrete-du-29-novembre-2001-mccb0100081a)
-- [Arrêté du 29 octobre 2001 (ATEN0100367A)](arrete-du-29-octobre-2001-aten0100367a)
-- [Arrêté du 29 octobre 2001 (ATEN0100368A)](arrete-du-29-octobre-2001-aten0100368a)
 - [Arrêté du 29 octobre 2001 (MENE0102236A)](arrete-du-29-octobre-2001-mene0102236a)
 - [Arrêté du 29 octobre 2001 (MESH0123427A)](arrete-du-29-octobre-2001-mesh0123427a)
 - [Arrêté du 29 octobre 2001 (MESH0123431A)](arrete-du-29-octobre-2001-mesh0123431a)
