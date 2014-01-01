@@ -414,7 +414,6 @@
 - [Arrêté du 14 décembre 1993 (INTB9300713A)](arrete-du-14-decembre-1993-intb9300713a)
 - [Arrêté du 14 décembre 1994 (ECOT9410224A)](arrete-du-14-decembre-1994-ecot9410224a)
 - [Arrêté du 14 décembre 1994 (RESM9401952A)](arrete-du-14-decembre-1994-resm9401952a)
-- [Arrêté du 14 décembre 1995 (DEFP9502162A)](arrete-du-14-decembre-1995-defp9502162a)
 - [Arrêté du 14 décembre 1995 (DEFP9502163A)](arrete-du-14-decembre-1995-defp9502163a)
 - [Arrêté du 14 février 1994 (ENVG9430043A)](arrete-du-14-fevrier-1994-envg9430043a)
 - [Arrêté du 14 février 1994 (SPSS9400603A)](arrete-du-14-fevrier-1994-spss9400603a)

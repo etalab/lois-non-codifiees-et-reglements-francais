@@ -56,10 +56,10 @@ Toutefois, au titre de ce dernier point, les entreprises qui effectuent des opé
 
 5. Rapport annuel :
 
-5.1. Le rapport annuel mentionné au 1.8.3.3 quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller et doit également comporter un résumé de ses actions conformément aux tâches reprises au 1.8.3.3 et des propositions faites pour l'amélioration de la sécurité, ainsi qu'un résumé des accidents survenus ayant donné lieu à un rapport au titre du 1.8.3.6.
+5.1. Le rapport annuel mentionné au 1.8.3.3 est basé sur une ou plusieurs visites dans l'entreprise du conseiller à la sécurité désigné ou d'un mandataire lui-même titulaire d'un certificat de conseiller à la sécurité et quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller. Ce rapport comprend un résumé des actions menées par le conseiller à la sécurité, conformément aux tâches reprises au 1.8.3.3 et des propositions qu'il a faites pour l'amélioration de la sécurité ainsi qu'un résumé des accidents survenus ayant donné lieu à un rapport au titre du 1.8.3.6.
 
 5.2. Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise, comportant, en annexe, les rapports de ses différents conseillers.
 
-5.3. Ce rapport annuel est établi en s'inspirant du Guide pour l'élaboration du rapport annuel du conseiller à la sécurité pour les transports de marchandises dangereuses disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( http://www.developpement-durable.gouv.fr/), et comporte une rubrique pour chacune des tâches prévues au 1.8.3.3.
+5.3. Le rapport annuel est élaboré conformément à l'appendice IV.4 de l'annexe IV du présent arrêté, en respectant au minimum les rubriques et tableaux de cet appendice.
 
 5.4. Le rapport annuel est conservé par l'entreprise pendant cinq ans et doit être disponible à partir du 31 mars de l'année suivant celle concernée par le rapport.

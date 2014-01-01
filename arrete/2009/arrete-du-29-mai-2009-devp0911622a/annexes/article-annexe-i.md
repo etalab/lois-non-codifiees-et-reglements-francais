@@ -450,7 +450,7 @@ La mention suivante doit figurer sur le document de transport : Transport effect
 
 3.6. Certificats d'agrément des véhicules admis à circuler en France en dérogation à certaines dispositions de l'annexe B de l'ADR.
 
-Les véhicules immatriculés en France qui, en application soit des 3.3.2 ou 3.5 de la présente annexe I, soit des articles 22, 23 ou 25, sont admis pour l'exécution de transports intérieurs à la France en dérogation à certaines dispositions des annexes A et B mais qui sont néanmoins soumis à un agrément se voient délivrer un certificat d'agrément national barré d'une diagonale de couleur jaune.
+Les véhicules immatriculés en France qui, en application soit du 3.5 de la présente annexe I, soit des articles 22, 23 ou 25, sont admis pour l'exécution de transports intérieurs à la France en dérogation à certaines dispositions des annexes A et B mais qui sont néanmoins soumis à un agrément se voient délivrer un certificat d'agrément national barré d'une diagonale de couleur jaune.
 
 Toutes les règles définies par le présent arrêté et applicables aux certificats d'agrément ADR sont également applicables aux documents nationaux mentionnés ci-dessus, notamment en ce qui concerne les conditions dans lesquelles ils sont délivrés ou renouvelés et leur présence parmi les documents de bord.
 
@@ -491,225 +491,132 @@ Les durées minimales de la formation de base, des spécialisations, ainsi que c
 <table>
 <tbody>
 <tr>
-<td/>
-<td>
+<td width="227">
+<br/>
+</td>
+<td width="227">
 <p align="center">FORMATION INITIALE </p>
 </td>
-<td>
+<td width="227">
 <p align="center">FORMATION DE RECYCLAGE </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Formation de base <br/>
+<td width="227">
+<p>Formation de base </p>
 </td>
-<td align="center">
-<br/>24 séances, comprenant au moins 18 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>24 séances, comprenant au moins 18 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
-<td align="center">
-<br/>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Spécialisation citernes <br/>
-</td>
-<td align="center">
-<br/>32 séances, comprenant au moins 16 séances d'enseignement théorique, et des exercices pratiques <br/>
-</td>
-<td align="center">
-<br/>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Spécialisation classe 1 <br/>
+<td width="227">
+<p>Spécialisation citernes </p>
 </td>
-<td align="center">
-<br/>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>32 séances, comprenant au moins 16 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
-<td align="center">
-<br/>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Spécialisation classe 7 <br/>
+<td width="227">
+<p>Spécialisation classe 1 </p>
 </td>
-<td align="center">
-<br/>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
-<td align="center">
-<br/>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques </p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Spécialisation classe 7 </p>
+</td>
+<td width="227">
+<p>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques </p>
+</td>
+<td width="227">
+<p>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
 </tr>
 </tbody>
 </table>
+
+.
+
+<div align="left"/>
 
 4.4.2. Formations restreintes de spécialisation citernes.
 
 <table>
 <tbody>
 <tr>
-<td/>
-<td>
+<td width="227">
+<br/>
+</td>
+<td width="227">
 <p align="center">FORMATION INITIALE </p>
 </td>
-<td>
+<td width="227">
 <p align="center">FORMATION DE RECYCLAGE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Spécialisation GPL <br/>
+<td width="227">
+<p>Spécialisation GPL </p>
 </td>
-<td align="center">
-<br/>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
-<td align="center">
-<br/>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Spécialisation produits pétroliers <br/>
+<td width="227">
+<p>Spécialisation produits pétroliers </p>
 </td>
-<td align="center">
-<br/>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>16 séances, comprenant au moins 8 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
-<td align="center">
-<br/>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques <br/>
+<td width="227">
+<p>8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques </p>
 </td>
 </tr>
 </tbody>
 </table>
-
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">4.4.3. Le conducteur titulaire d'un certificat de formation spécialisée peut suivre une formation de recyclage restreinte dont le champ est entièrement couvert par son certificat précédent. Dans ce cas, le certificat est renouvelé pour les spécialisations couvertes par le recyclage. </div>
-
-4.5. Dispositions transitoires concernant les certificats de formation.
-
-4.5.1. (supprimé)
-
-4.5.2. (supprimé)
-
-4.5.3. Les conducteurs titulaires d'un certificat correspondant à une seule des spécialisations "citernes" ou "citernes gaz" en vigueur au 31 décembre 2010, qui souhaitent obtenir un certificat correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, suivent une formation de recyclage adaptée dont les modalités sont précisées par le cahier des charges mentionné à l'article 20.
-
-4.5.4. Les conducteurs titulaires de certificats correspondant aux deux spécialisations "citernes" et "citernes gaz" en vigueur au 31 décembre 2010 peuvent obtenir un certificat de formation correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, en suivant une formation de recyclage comme précisé au 4.4.1 ci-dessus.
-
-5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses
-
-5.1. Les contrôles mentionnés au 1.8.1 sont effectués conformément à l'article 3 du règlement (CEE) n° 4060/89 et à l'article 1er du règlement (CEE) n° 3912/92, ainsi qu'aux dispositions des 5.1 à 5.6 de la présente annexe I.
-
-5.2. Une proportion représentative des transports routiers de marchandises dangereuses est soumise à contrôle, afin de vérifier leur conformité avec la législation sur le transport de marchandises dangereuses par route. Cette proportion pourra être fixée en fonction de la part de transport de marchandises dangereuses constatée régionalement dans le trafic routier.
-
-5.3. Les contrôles sont basés sur la liste de contrôle figurant à l'appendice IV. 2 du présent arrêté. Un exemplaire de cette liste ou un document constatant l'exécution du contrôle établi par l'autorité qui a effectué ce contrôle doit être remis au conducteur du véhicule et être présenté sur demande afin de simplifier ou d'éviter, dans la mesure du possible, d'autres contrôles ultérieurs.
-
-Les contrôles sont effectués par sondage et couvrent dans toute la mesure du possible une partie étendue du réseau routier.
-
-Les endroits choisis pour ces contrôles doivent permettre la mise en conformité des véhicules trouvés en infraction ou, lorsque l'autorité qui effectue le contrôle le juge approprié, leur immobilisation sur place ou à un endroit désigné à cet effet par ladite autorité, sans que cela constitue un danger pour la sécurité.
-
-Les contrôles ne doivent pas dépasser un temps raisonnable. La durée du contrôle doit néanmoins permettre la vérification des points mentionnés dans la liste de l'appendice IV.2 du présent arrêté. Le temps d'immobilisation d'un véhicule dans le cadre du 5.4 de la présente annexe I n'est pas pris en compte pour la durée du contrôle du présent alinéa.
-
-5.4. Sans préjudice d'autres sanctions qui pourraient être appliquées, lorsqu'une ou plusieurs infractions mentionnées à l'article 1er bis du décret n° 77-1331 susvisé ont été constatées au cours de transports de marchandises dangereuses par route, les véhicules concernés peuvent être immobilisés, sur place ou à un endroit désigné à cet effet par les agents mentionnés à l'article R. 325-3 du code de la route, et obligés de se mettre en conformité avant de poursuivre leur voyage, ou faire l'objet d'autres mesures appropriées en fonction des circonstances ou des impératifs de sécurité, y compris, le cas échéant, le refus d'entrée de ces véhicules sur le territoire national ou de la Communauté européenne.
-
-Pour l'application des dispositions de l'article 1er bis du décret n° 77-1331 susvisé, les dispositions dont la méconnaissance entraîne une infraction respectivement de catégorie de risque I, II ou III sont définies comme suit :
-
-Catégorie de risque I : risque élevé de décès, de dommages corporels graves ou de dommages environnementaux importants et devant normalement amener à prendre immédiatement des mesures correctives appropriées.
-
-Relèvent de cette catégorie les faits suivants :
-
-1) Le transport de marchandises dangereuses interdites au transport ;
-
-2) Toute fuite de substances dangereuses ;
-
-3) L'utilisation d'un mode de transport interdit ou d'un moyen de transport inapproprié ;
-
-4) Le transport en vrac dans un conteneur qui n'est pas structurellement en bon état ;
-
-5) Le transport dans un véhicule dépourvu d'un certificat d'agrément ;
-
-6) Le fait que le véhicule ne soit plus conforme aux normes d'agrément et présente un danger immédiat (si cette dernière condition n'est pas remplie, on se trouve dans la catégorie de risque II) ;
-
-7) L'utilisation de colis non agréés ;
-
-8) Le fait que l'emballage ne soit pas conforme à l'instruction d'emballage applicable ;
-
-9) Le non-respect des dispositions spéciales relatives à l'emballage en commun ;
-
-10) Le non-respect des règles régissant la fixation et l'arrimage du chargement ;
-
-11) Le non-respect des règles régissant le chargement en commun de colis ;
-
-12) Le non-respect des degrés de remplissage autorisés des citernes ou des colis ;
-
-13) Le non-respect des dispositions limitant les quantités transportées par unité de transport ;
-
-14) Le transport de marchandises dangereuses sans indication de leur présence (documents, marquage et étiquetage des colis, placardage et marquage des véhicules, etc.) ;
-
-15) Le transport sans aucun placardage ou marquage sur le véhicule ;
-
-16) L'absence d'informations relatives à la substance transportée permettant de déterminer l'existence d'un risque de la catégorie I (n° ONU, dénomination, groupe d'emballage, etc.) ;
-
-17) Le fait que le conducteur ne détienne pas un certificat de formation professionnelle valide ;
-
-18) L'utilisation de feu ou d'ampoules à nu ;
-
-19) Le non-respect de l'interdiction de fumer.
-
-Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours.
-
-Relèvent de cette catégorie les faits suivants :
-
-1) Le fait que l'unité de transport soit composée de plus d'une remorque / semi-remorque ;
-
-2) Le fait que le véhicule ne soit plus conforme aux normes d'agrément sans toutefois présenter un danger immédiat ;
-
-3) Le fait que le véhicule ne transporte pas d'extincteurs d'incendie en état de fonctionner tels que prescrits ; un extincteur peut être jugé en état de fonctionner s'il n'y a que le plomb prescrit et / ou la date d'expiration qui manquent ; cependant, cela ne vaut pas si l'extincteur est visiblement devenu inutilisable, par exemple si le manomètre est à zéro ;
-
-4) Le fait que le véhicule ne transporte pas les équipements prescrits dans l'ADR ou dans les consignes écrites ;
-
-5) Le fait que les dates d'essai et d'inspection et les durées d'utilisation des colis, des GRV ou des grands emballages n'aient pas été respectées ;
-
-6) Le fait de transporter des emballages contenant des colis, des GRV et de grands emballages endommagés ou des emballages vides, non nettoyés et endommagés ;
-
-7) Le transport de marchandises en colis dans un conteneur qui n'est pas structurellement en bon état ;
-
-8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement ;
-
-9) Le transport d'un emballage combiné avec un emballage extérieur non convenablement fermé ;
-
-10) Un étiquetage, marquage ou placardage incorrect ;
-
-11) L'absence de consignes écrites conformes à l'ADR ou la présence de consignes écrites non pertinentes pour les marchandises transportées ;
-
-12) Le fait que le véhicule ne soit pas convenablement surveillé ou garé.
-
-Catégorie de risque III : faible risque de dommages corporels ou de dommages environnementaux et n'amenant pas à prendre des mesures correctives appropriées sur place, celles-ci pouvant être prises ultérieurement dans l'entreprise.
-
-Relève de cette catégorie le fait de méconnaître toute disposition réglementaire non mentionnée aux alinéas précédents comme relevant des catégories I ou II. Notamment :
-
-1) Le fait que la taille des panneaux ou des étiquettes, ou des lettres, chiffres ou symboles figurant sur les panneaux ou les étiquettes ne soit pas réglementaire ;
-
-2) Le fait que certaines informations, autres que celles visées au point 16 de la catégorie de risque I, ne figurent pas dans les documents de transport ;
-
-3) Le fait que le certificat de formation ne se trouve pas à bord du véhicule mais que d'autres éléments indiquent que le conducteur en est détenteur.
-
-5. 5. Des contrôles sont également effectués dans les entreprises à titre préventif ou lorsque des infractions mettant en danger la sécurité du transport de marchandises dangereuses auront été constatées sur la route.
-
-Ces contrôles, effectués conformément au 1.8.1.3, doivent viser à assurer que les conditions de sécurité dans lesquelles s'effectuent les transports de marchandises dangereuses sont conformes à la législation applicable en la matière.
-
-Lorsqu'une ou plusieurs infractions ont été constatées en matière de transports de marchandises dangereuses par route, les transports concernés doivent être mis en conformité avant de quitter l'entreprise ou faire l'objet d'autres mesures appropriées.
-
-5. 6. Les informations suivantes permettant de renseigner le tableau de l'appendice IV.3 du présent arrêté :
-
-- nombre de contrôles effectués ;
-
-- nombre de véhicules contrôlés, selon l'immatriculation (véhicules immatriculés sur le territoire national, d'autres Etats membres ou d'Etats tiers) ;
-
-- nombre d'infractions constatées et type d'infractions ;
-
-- nombre et type des sanctions infligées,
-
-sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
-
-Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
+<div align="left">4.5. Dispositions transitoires concernant les certificats de formation. </div>
+<div align="left">4.5.1. (supprimé)</div>
+<div align="left">4.5.2. (supprimé) </div>
+<div align="left">4.5.3. Les conducteurs titulaires d'un certificat correspondant à une seule des spécialisations "citernes" ou "citernes gaz" en vigueur au 31 décembre 2010, qui souhaitent obtenir un certificat correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, suivent une formation de recyclage adaptée dont les modalités sont précisées par le cahier des charges mentionné à l'article 20. </div>
+<div align="left">4.5.4. Les conducteurs titulaires de certificats correspondant aux deux spécialisations "citernes" et "citernes gaz" en vigueur au 31 décembre 2010 peuvent obtenir un certificat de formation correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, en suivant une formation de recyclage comme précisé au 4.4.1 ci-dessus. </div>
+<div align="left"/>
+<div align="center">5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses </div>
+<div align="left"/>
+<div align="left">5.1. Les contrôles mentionnés au 1.8.1 sont effectués conformément à l'article 3 du règlement (CEE) n° 4060/89 et à l'article 1er du règlement (CEE) n° 3912/92, ainsi qu'aux dispositions des 5.1 à 5.6 de la présente annexe I. </div>
+<div align="left">5.2. Une proportion représentative des transports routiers de marchandises dangereuses est soumise à contrôle, afin de vérifier leur conformité avec la législation sur le transport de marchandises dangereuses par route. Cette proportion pourra être fixée en fonction de la part de transport de marchandises dangereuses constatée régionalement dans le trafic routier. </div>
+<div align="left">5.3. Les contrôles sont basés sur la liste de contrôle figurant à l'appendice IV. 2 du présent arrêté. Un exemplaire de cette liste ou un document constatant l'exécution du contrôle établi par l'autorité qui a effectué ce contrôle doit être remis au conducteur du véhicule et être présenté sur demande afin de simplifier ou d'éviter, dans la mesure du possible, d'autres contrôles ultérieurs. </div>
+<div align="left">Les contrôles sont effectués par sondage et couvrent dans toute la mesure du possible une partie étendue du réseau routier. </div>
+<div align="left">Les endroits choisis pour ces contrôles doivent permettre la mise en conformité des véhicules trouvés en infraction ou, lorsque l'autorité qui effectue le contrôle le juge approprié, leur immobilisation sur place ou à un endroit désigné à cet effet par ladite autorité, sans que cela constitue un danger pour la sécurité. </div>
+<div align="left">Les contrôles ne doivent pas dépasser un temps raisonnable. La durée du contrôle doit néanmoins permettre la vérification des points mentionnés dans la liste de l'appendice IV.2 du présent arrêté. Le temps d'immobilisation d'un véhicule dans le cadre du 5.4 de la présente annexe I n'est pas pris en compte pour la durée du contrôle du présent alinéa. </div>
+<div align="left">5.4. Sans préjudice d'autres sanctions qui pourraient être appliquées, lorsqu'une ou plusieurs infractions mentionnées à l'article 1er bis du décret n° 77-1331 susvisé ont été constatées au cours de transports de marchandises dangereuses par route, les véhicules concernés peuvent être immobilisés, sur place ou à un endroit désigné à cet effet par les agents mentionnés à l'article R. 325-3 du code de la route, et obligés de se mettre en conformité avant de poursuivre leur voyage, ou faire l'objet d'autres mesures appropriées en fonction des circonstances ou des impératifs de sécurité, y compris, le cas échéant, le refus d'entrée de ces véhicules sur le territoire national ou de la Communauté européenne. </div>
+<div align="left">Pour l'application des dispositions de l'article 1er bis du décret n° 77-1331 susvisé, les dispositions dont la méconnaissance entraîne une infraction respectivement de catégorie de risque I, II ou III sont définies comme suit : <br/>Catégorie de risque I : risque élevé de décès, de dommages corporels graves ou de dommages environnementaux importants et devant normalement amener à prendre immédiatement des mesures correctives appropriées. </div>
+<div align="left">Relèvent de cette catégorie les faits suivants : </div>
+<div align="left">1) Le transport de marchandises dangereuses interdites au transport ; <br/>2) Toute fuite de substances dangereuses ; <br/>3) L'utilisation d'un mode de transport interdit ou d'un moyen de transport inapproprié ; <br/>4) Le transport en vrac dans un conteneur qui n'est pas structurellement en bon état ; <br/>5) Le transport dans un véhicule dépourvu d'un certificat d'agrément ; <br/>6) Le fait que le véhicule ne soit plus conforme aux normes d'agrément et présente un danger immédiat (si cette dernière condition n'est pas remplie, on se trouve dans la catégorie de risque II) ; <br/>7) L'utilisation de colis non agréés ; <br/>8) Le fait que l'emballage ne soit pas conforme à l'instruction d'emballage applicable ; <br/>9) Le non-respect des dispositions spéciales relatives à l'emballage en commun ; <br/>10) Le non-respect des règles régissant la fixation et l'arrimage du chargement ; <br/>11) Le non-respect des règles régissant le chargement en commun de colis ; <br/>12) Le non-respect des degrés de remplissage autorisés des citernes ou des colis ; <br/>13) Le non-respect des dispositions limitant les quantités transportées par unité de transport ; <br/>14) Le transport de marchandises dangereuses sans indication de leur présence (documents, marquage et étiquetage des colis, placardage et marquage des véhicules, etc.) ; <br/>15) Le transport sans aucun placardage ou marquage sur le véhicule ; <br/>16) L'absence d'informations relatives à la substance transportée permettant de déterminer l'existence d'un risque de la catégorie I (n° ONU, dénomination, groupe d'emballage, etc.) ; <br/>17) Le fait que le conducteur ne détienne pas un certificat de formation professionnelle valide ; <br/>18) L'utilisation de feu ou d'ampoules à nu ; <br/>19) Le non-respect de l'interdiction de fumer. </div>
+<div align="left">Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours. </div>
+<div align="left">Relèvent de cette catégorie les faits suivants : <br/>1) Le fait que l'unité de transport soit composée de plus d'une remorque / semi-remorque ; <br/>2) Le fait que le véhicule ne soit plus conforme aux normes d'agrément sans toutefois présenter un danger immédiat ; <br/>3) Le fait que le véhicule ne transporte pas d'extincteurs d'incendie en état de fonctionner tels que prescrits ; un extincteur peut être jugé en état de fonctionner s'il n'y a que le plomb prescrit et / ou la date d'expiration qui manquent ; cependant, cela ne vaut pas si l'extincteur est visiblement devenu inutilisable, par exemple si le manomètre est à zéro ; <br/>4) Le fait que le véhicule ne transporte pas les équipements prescrits dans l'ADR ou dans les consignes écrites ; <br/>5) Le fait que les dates d'essai et d'inspection et les durées d'utilisation des colis, des GRV ou des grands emballages n'aient pas été respectées ; <br/>6) Le fait de transporter des emballages contenant des colis, des GRV et de grands emballages endommagés ou des emballages vides, non nettoyés et endommagés ; <br/>7) Le transport de marchandises en colis dans un conteneur qui n'est pas structurellement en bon état ; <br/>8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement ; <br/>9) Le transport d'un emballage combiné avec un emballage extérieur non convenablement fermé ; <br/>10) Un étiquetage, marquage ou placardage incorrect ; <br/>11) L'absence de consignes écrites conformes à l'ADR ou la présence de consignes écrites non pertinentes pour les marchandises transportées ; <br/>12) Le fait que le véhicule ne soit pas convenablement surveillé ou garé. </div>
+<div align="left">Catégorie de risque III : faible risque de dommages corporels ou de dommages environnementaux et n'amenant pas à prendre des mesures correctives appropriées sur place, celles-ci pouvant être prises ultérieurement dans l'entreprise. </div>
+<div align="left">Relève de cette catégorie le fait de méconnaître toute disposition réglementaire non mentionnée aux alinéas précédents comme relevant des catégories I ou II. Notamment : <br/>1) Le fait que la taille des panneaux ou des étiquettes, ou des lettres, chiffres ou symboles figurant sur les panneaux ou les étiquettes ne soit pas réglementaire ; <br/>2) Le fait que certaines informations, autres que celles visées au point 16 de la catégorie de risque I, ne figurent pas dans les documents de transport ; <br/>3) Le fait que le certificat de formation ne se trouve pas à bord du véhicule mais que d'autres éléments indiquent que le conducteur en est détenteur. <br/>5. 5. Des contrôles sont également effectués dans les entreprises à titre préventif ou lorsque des infractions mettant en danger la sécurité du transport de marchandises dangereuses auront été constatées sur la route. <br/>Ces contrôles, effectués conformément au 1.8.1.3, doivent viser à assurer que les conditions de sécurité dans lesquelles s'effectuent les transports de marchandises dangereuses sont conformes à la législation applicable en la matière. <br/>Lorsqu'une ou plusieurs infractions ont été constatées en matière de transports de marchandises dangereuses par route, les transports concernés doivent être mis en conformité avant de quitter l'entreprise ou faire l'objet d'autres mesures appropriées. <br/>5. 6. Les informations suivantes permettant de renseigner le tableau de l'appendice IV.3 du présent arrêté :<br/>- nombre de contrôles effectués ;<br/>- nombre de véhicules contrôlés, selon l'immatriculation (véhicules immatriculés sur le territoire national, d'autres Etats membres ou d'Etats tiers) ;<br/>- nombre d'infractions constatées et type d'infractions ;<br/>- nombre et type des sanctions infligées, <br/>sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer. <br/>Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.</div>
+<div align="left"/>
+<div align="left"/>
