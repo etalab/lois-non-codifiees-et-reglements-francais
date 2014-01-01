@@ -1,3 +1,0 @@
-# Article 7
-
-Les fonctionnaires nommés à l'emploi de directeur ou de chef de service de laboratoire sont classés à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine. Ils conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur de leur nouvel emploi, l'ancienneté d'échelon acquise dans leur corps. Les fonctionnaires nommés à ces emplois alors qu'ils avaient atteint l'échelon le plus élevé de leur grade conservent leur ancienneté d'échelon dans les mêmes conditions et dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que procure la nomination audit échelon.

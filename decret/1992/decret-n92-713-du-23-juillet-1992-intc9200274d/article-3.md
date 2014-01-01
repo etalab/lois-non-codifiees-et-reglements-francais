@@ -1,3 +1,0 @@
-# Article 3
-
-Peuvent être nommés à l'emploi de directeur de laboratoire de la police technique et scientifique de la police nationale les chefs de service de laboratoire de la police technique et scientifique de la police nationale ou les sous-directeurs du laboratoire central de la préfecture de police ayant occupé leur emploi depuis un an au moins. Peuvent également être nommés à cet emploi les ingénieurs de recherche et d'étude des établissements publics scientifiques et technologiques, les professeurs des universités et les maîtres de conférences de faculté, à la condition qu'ils aient atteint un échelon doté d'un indice au moins égal à l'indice brut 801.
