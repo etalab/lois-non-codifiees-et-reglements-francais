@@ -8,6 +8,4 @@ I. - L'étiquetage des fromages fondus et des spécialités fromagères fondues 
 
 3° " Triple crème " lorsque le produit renferme au moins 75 grammes de matière grasse pour 100 grammes de produit après complète dessiccation.
 
-II. - Dans la dénomination " fromage fondu ", complétée le cas échéant par une des mentions prévues au I ci-dessus, le mot :
-
-" fromage " peut être remplacé par le nom d'un fromage défini à l'annexe lorsque celui-ci constitue au moins 50 % des matières premières mises en oeuvre.
+II. - Dans la dénomination " fromage fondu ", complétée le cas échéant, par une des mentions prévues au I, le mot : " fromage " peut être remplacé par le nom d'un fromage défini à l'annexe ou dans une norme internationale lorsque celui-ci constitue au moins 50 % du poids total des matières premières laitières mises en œuvre.
