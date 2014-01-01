@@ -1,105 +1,115 @@
 # Article 1
 
-Les fonctionnaires actifs de la police nationale en application des textes susvisés bénéficient de l'indemnité de sujétions spéciales de police dont les taux sont fixés conformément au tableau ci-dessous à compter du 1er juillet 2013 :
-
-<div align="center">
+Les fonctionnaires actifs de la police nationale en application des textes susvisés bénéficient de l'indemnité de sujétions spéciales de police dont les taux sont fixés conformément au tableau ci-dessous :
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
-<p align="center">CORPS OU EMPLOIS</p>
-</td>
-<td colspan="2">
-<p align="center"> TAUX DES INDEMNITÉS,<br/>en pourcentage des émoluments soumis à retenues pour pension</p>
-</td>
+<td align="center" rowspan="2"> CORPS OU EMPLOIS </td>
+<td align="center" colspan="2"> TAUX DES INDEMNITÉS <p>en pourcentage des émoluments </p>soumis à retenues pour pension </td>
 </tr>
 <tr>
-<td>
-<p align="center"> Indice brut de rémunération<br/>inférieur ou égal à l'indice 583</p>
-</td>
-<td>
-<p align="center"> Indice brut de rémunération<br/>supérieur à l'indice 583</p>
-</td>
+<td align="center"> Indice brut de rémunération inférieur ou égal à l'indice 583 </td>
+<td align="center"> Indice brut de rémunération supérieur à l'indice 583 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>Directeur des services actifs de la police nationale, chef du service de l'inspection générale de la police nationale <br/>
+</td>
 <td align="center">
-<p align="left">Directeurs des services actifs de la police nationale, chef du service de l'inspection générale de la police nationale</p>
+<br/>- <br/>
 </td>
-<td align="center">―<br/>
-</td>
-<td align="center">15<br/>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>Chefs de service, inspecteurs généraux, directeurs adjoints, sous-directeurs, contrôleurs généraux <br/>
+</td>
 <td align="center">
-<p align="left">Chefs de service, inspecteurs généraux, directeurs adjoints, sous-directeurs, contrôleurs généraux</p>
+<br/>- <br/>
 </td>
-<td align="center">―<br/>
-</td>
-<td align="center">19<br/>
+<td align="center">
+<br/>19 <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>Fonctionnaires du corps de conception et de direction <br/>
+</td>
 <td align="center">
-<p align="left">Fonctionnaires du corps de conception et de direction</p>
+<br/>20 <br/>
 </td>
-<td align="center">20<br/>
-</td>
-<td align="center">19<br/>
+<td align="center">
+<br/>19 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctionnaires du corps de commandement :</p>
+<td align="left">
+<br/>Fonctionnaires du corps de commandement : <br/>
+<p>Commandant de police </p>
+<p>Capitaine de police </p>
+<p>Lieutenant de police <br/>
+</p>
 </td>
 <td align="center">
 <br/>
+<p>
+<br/>- </p>
+<p>- </p>
+<p>25 <br/>
+</p>
 </td>
 <td align="center">
+<br/>
+<p>
+<br/>21 </p>
+<p>25 </p>
+<p>25 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Elèves durant la formation initiale à l'Ecole nationale supérieure de la police <br/>
+</td>
+<td align="center" colspan="2">
+<br/>10 <br/>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>Emplois fonctionnels de responsable d'unité locale de police <br/>
+</td>
+<td align="center" colspan="2">
+<br/>26 <br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Fonctionnaires du corps d'encadrement et d'application <br/>
+</td>
+<td align="center" colspan="2">
+<br/>26 <br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Elèves gardiens de la paix <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de police</p>
+<br/>12 <br/>
 </td>
-<td align="center">―<br/>
-</td>
-<td align="center">21<br/>
-</td>
-</tr>
-<tr>
 <td align="center">
-<p align="left">Capitaine de police</p>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">23,5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Lieutenant de police</p>
-</td>
-<td align="center">24<br/>
-</td>
-<td align="center">23,5<br/>
-</td>
-</tr>
-<tr>
-<td>Emplois fonctionnels de responsable d'unité locale de police</td>
-<td colspan="2">
-<p align="center"> 26</p>
-</td>
-</tr>
-<tr>
-<td>Fonctionnaires du corps d'encadrement et d'application</td>
-<td colspan="2">
-<p align="center">26 </p>
+<br/>- <br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
