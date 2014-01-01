@@ -253,6 +253,7 @@
 - [Arrêté du 24 novembre 2005 (AGRG0502608A)](arrete-du-24-novembre-2005-agrg0502608a)
 - [Arrêté du 24 novembre 2006 (FPPA0600138A)](arrete-du-24-novembre-2006-fppa0600138a)
 - [Arrêté du 24 novembre 2006 (FPPA0600139A)](arrete-du-24-novembre-2006-fppa0600139a)
+- [Arrêté du 24 octobre 2005 (CETX0508825A)](arrete-du-24-octobre-2005-cetx0508825a)
 - [Arrêté du 24 octobre 2006 (INDI0608781A)](arrete-du-24-octobre-2006-indi0608781a)
 - [Arrêté du 24 octobre 2006 (MCCB0600785A)](arrete-du-24-octobre-2006-mccb0600785a)
 - [Arrêté du 24 mai 2006 (AGRG0600999A)](arrete-du-24-mai-2006-agrg0600999a)
