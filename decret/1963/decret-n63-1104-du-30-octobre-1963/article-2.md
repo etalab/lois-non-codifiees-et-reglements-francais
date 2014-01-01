@@ -2,11 +2,51 @@
 
 Le régime institué à l'article précédent est financé par :
 
-a) Une cotisation de :
+a) Une cotisation basée sur la remise visée au 3° du I de l'article 570 du code général des impôts, dont les taux sont fixés conformément au tableau ci-après :
 
-1,778 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les cigares et les cigarillos ;
-
-1,852 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les autres produits du tabac.
+<table>
+<tbody>
+<tr>
+<td align="center">ANNÉES  <br/>
+</td>
+<td align="center"> CIGARES <br/>et cigarillos</td>
+<td align="center"> AUTRES <br/>produits du tabac</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2014 <br/>
+</td>
+<td align="center">
+<br/>1,778 % <br/>
+</td>
+<td align="center">
+<br/>1,831 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2015 <br/>
+</td>
+<td align="center">
+<br/>1,778 % <br/>
+</td>
+<td align="center">
+<br/>1,820 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2016 <br/>
+</td>
+<td align="center">
+<br/>1,778 % <br/>
+</td>
+<td align="center">
+<br/>1,809 % <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 Le taux de cotisation des gérants peut être modifié par décret du ministre chargé du budget, après avis ou sur proposition de la commission consultative mentionnée à l'article 5 ;
 
