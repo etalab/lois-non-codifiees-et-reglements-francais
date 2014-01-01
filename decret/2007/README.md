@@ -68,7 +68,6 @@
 - [Décret n°2007-1060 du 3 juillet 2007 (IOCB0752587D)](decret-n2007-1060-du-3-juillet-2007-iocb0752587d)
 - [Décret n°2007-1173 du 3 août 2007 (ECER0759563D)](decret-n2007-1173-du-3-aout-2007-ecer0759563d)
 - [Décret n°2007-1177 du 3 août 2007 (DEVU0756371D)](decret-n2007-1177-du-3-aout-2007-devu0756371d)
-- [Décret n°2007-1178 du 3 août 2007 (IOCD0758231D)](decret-n2007-1178-du-3-aout-2007-iocd0758231d)
 - [Décret n°2007-1179 du 3 août 2007 (ECEL0760226D)](decret-n2007-1179-du-3-aout-2007-ecel0760226d)
 - [Décret n°2007-1180 du 3 août 2007 (MTST0758695D)](decret-n2007-1180-du-3-aout-2007-mtst0758695d)
 - [Décret n°2007-1181 du 3 août 2007 (IOCD0758731D)](decret-n2007-1181-du-3-aout-2007-iocd0758731d)

@@ -1,6 +1,6 @@
 # Article 1
 
-La formation préalable à la délivrance du port d'arme des agents de police municipale, mentionnée à l'article 4 du décret du 24 mars 2000 susvisé, comprend des enseignements théoriques et pratiques, dispensés en modules fixés comme suit :
+La formation préalable à la délivrance du port d'arme des agents de police municipale, mentionnée à l'article R. 511-19 du code de la sécurité intérieure, comprend des enseignements théoriques et pratiques, dispensés en modules fixés comme suit :
 
 1° Module général relatif à l'environnement juridique du port d'arme, d'une durée de douze heures ;
 

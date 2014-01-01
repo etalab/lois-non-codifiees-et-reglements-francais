@@ -108,7 +108,6 @@
 - [Décret n°88-928 du 19 septembre 1988 (BUDF8800009D)](decret-n88-928-du-19-septembre-1988-budf8800009d)
 - [Décret n°88-1004 du 20 octobre 1988 (TRST8800542D)](decret-n88-1004-du-20-octobre-1988-trst8800542d)
 - [Décret n°88-1005 du 20 octobre 1988 (SPSN8801021D)](decret-n88-1005-du-20-octobre-1988-spsn8801021d)
-- [Décret n°88-379 du 20 avril 1988 (INTC8800116D)](decret-n88-379-du-20-avril-1988-intc8800116d)
 - [Décret n°88-830 du 20 juillet 1988 (INTB8800231D)](decret-n88-830-du-20-juillet-1988-intb8800231d)
 - [Décret n°88-930 du 20 septembre 1988 (TEFT8803948D)](decret-n88-930-du-20-septembre-1988-teft8803948d)
 - [Décret n°88-1142 du 21 décembre 1988 (AGRB8802034D)](decret-n88-1142-du-21-decembre-1988-agrb8802034d)

@@ -126,6 +126,7 @@
 - [Décret n°2005-582 du 27 mai 2005 (PRMX0400267D)](decret-n2005-582-du-27-mai-2005-prmx0400267d)
 - [Décret n°2005-600 du 27 mai 2005 (MAEC0500008D)](decret-n2005-600-du-27-mai-2005-maec0500008d)
 - [Décret n°2005-613 du 27 mai 2005 (DEVD0530031D)](decret-n2005-613-du-27-mai-2005-devd0530031d)
+- [Décret n°2005-425 du 28 avril 2005 (INTD0500096D)](decret-n2005-425-du-28-avril-2005-intd0500096d)
 - [Décret n°2004-1158 du 29 octobre 2004 (JUSC0420832D)](decret-n2004-1158-du-29-octobre-2004-jusc0420832d)
 - [Décret n°2004-1159 du 29 octobre 2004 (JUSC0420812D)](decret-n2004-1159-du-29-octobre-2004-jusc0420812d)
 - [Décret n°2005-1054 du 29 août 2005 (SOCF0511451D)](decret-n2005-1054-du-29-aout-2005-socf0511451d)

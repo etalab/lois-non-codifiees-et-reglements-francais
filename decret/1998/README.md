@@ -343,8 +343,6 @@
 - [Décret n°98-374 du 14 mai 1998 (ECOD9870014D)](decret-n98-374-du-14-mai-1998-ecod9870014d)
 - [Décret n°98-375 du 14 mai 1998 (ECOT9813976D)](decret-n98-375-du-14-mai-1998-ecot9813976d)
 - [Décret n°98-376 du 14 mai 1998 (MCCT9800294D)](decret-n98-376-du-14-mai-1998-mcct9800294d)
-- [Décret n°97-46 du 15 janvier 1997 (INTD9700005D)](decret-n97-46-du-15-janvier-1997-intd9700005d)
-- [Décret n°97-47 du 15 janvier 1997 (INTD9700006D)](decret-n97-47-du-15-janvier-1997-intd9700006d)
 - [Décret n°98-1141 du 15 décembre 1998 (ECOF9800014D)](decret-n98-1141-du-15-decembre-1998-ecof9800014d)
 - [Décret n°98-283 du 15 avril 1998 (AGRP9800645D)](decret-n98-283-du-15-avril-1998-agrp9800645d)
 - [Décret n°98-284 du 15 avril 1998 (AGRA9800274D)](decret-n98-284-du-15-avril-1998-agra9800274d)

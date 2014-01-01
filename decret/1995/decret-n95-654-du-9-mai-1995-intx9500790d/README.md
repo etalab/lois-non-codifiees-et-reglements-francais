@@ -4,7 +4,6 @@
 - [Section 1 : Recrutement.](section-1)
 - [Article 2](article-2.md)
 - [Section 2 : Formation.](section-2)
-- [Article 3](article-3.md)
 - [Section 3 : Déroulement de carrière.](section-3)
 - [Section 4 : Disponibilité et temps de travail.](section-4)
 - [Section 5 : Durée d'affectation et mobilité.](section-5)

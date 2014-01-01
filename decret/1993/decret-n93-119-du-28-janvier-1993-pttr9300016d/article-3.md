@@ -1,6 +1,6 @@
 # Article 3
 
-Le ministre chargé des télécommunications établit la liste des responsables compétents pour recevoir la réquisition ou l'ordre prévus aux articles 2 et 11 de la loi du 10 juillet 1991 susvisée.
+Le ministre chargé des communications électroniques établit la liste des responsables compétents pour recevoir la réquisition prévue par l'article 100-3 du code de procédure pénale.
 
 Ne peuvent être retenus que des responsables :
 

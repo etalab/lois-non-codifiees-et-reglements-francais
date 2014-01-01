@@ -1,6 +1,6 @@
 # Article 1
 
-Ne peuvent être tenus pour qualifiés, pour répondre soit aux réquisitions du juge d'instruction prévues à l'article 2 de la loi du 10 juillet 1991 susvisée, soit aux ordres du ministre chargé des télécommunications prévus à l'article 11 de la même loi, que les agents techniquement compétents qui :
+Ne peuvent être tenus pour qualifiés, pour répondre à la réquisition du juge d'instruction ou de l'officier de police judiciaire commis par lui prévue par l'article 100-3 du code de procédure pénale, que les agents techniquement compétents qui :
 
 1° Sont employés depuis au moins deux ans chez la même personne, qu'il s'agisse de l'exploitant public, d'un exploitant de réseau de télécommunications autorisé ou d'un fournisseur de services de télécommunications autorisé ;
 

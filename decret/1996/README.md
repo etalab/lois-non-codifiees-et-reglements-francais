@@ -441,7 +441,6 @@
 - [Décret n°96-566 du 19 juin 1996 (MENU9601663D)](decret-n96-566-du-19-juin-1996-menu9601663d)
 - [Décret n°96-826 du 19 septembre 1996 (MAEC9610014D)](decret-n96-826-du-19-septembre-1996-maec9610014d)
 - [Décret n°96-827 du 19 septembre 1996 (INTC9600186D)](decret-n96-827-du-19-septembre-1996-intc9600186d)
-- [Décret n°96-828 du 19 septembre 1996 (INTC9600248D)](decret-n96-828-du-19-septembre-1996-intc9600248d)
 - [Décret n°96-838 du 19 septembre 1996 (TASP9623272D)](decret-n96-838-du-19-septembre-1996-tasp9623272d)
 - [Décret n°96-845 du 19 septembre 1996 (DEFD9601848D)](decret-n96-845-du-19-septembre-1996-defd9601848d)
 - [Décret n°98-185 du 19 mars 1998 (FPPA9700183D)](decret-n98-185-du-19-mars-1998-fppa9700183d)

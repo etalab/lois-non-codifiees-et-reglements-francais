@@ -1,6 +1,6 @@
 # Article 3
 
-Pour être admis à suivre la formation prévue pour l'obtention du certificat de moniteur mentionnée à l'article 5-1 du décret du 24 mars 2000 susvisé, les agents de police municipale sont proposés par leur autorité d'emploi au Centre national de la fonction publique territoriale, qui détermine annuellement les besoins en effectif.
+Pour être admis à suivre la formation prévue pour l'obtention du certificat de moniteur mentionnée à l'article R. 511-22 du code de la sécurité intérieure, les agents de police municipale sont proposés par leur autorité d'emploi au Centre national de la fonction publique territoriale, qui détermine annuellement les besoins en effectif.
 
 Ils doivent répondre aux conditions suivantes :
 
