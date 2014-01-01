@@ -9,14 +9,19 @@ Direction de la sécurité de la police de l'agglomération parisienne (DSPAP)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center"> DIFFICULTÉ DU poste<br/>
+</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -609,14 +614,19 @@ Direction de l'ordre public et de la circulation (DOPC)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center"> DIFFICULTÉ DU <br/>poste<br/>
+</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -714,14 +724,18 @@ Direction de la police judiciaire (DPJ)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center"> DIFFICULTÉ DU<br/>poste</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -797,14 +811,18 @@ Direction du renseignement (DR)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center">DIFFICULTÉ DU<br/>poste</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">D<br/>
@@ -825,24 +843,17 @@ Direction centrale de la sécurité publique (DCSP)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
-</tr>
-<tr>
-<td align="center">TD<br/>
+<td>
+<p align="center">DIFFICULTÉ <br/>du poste</p>
 </td>
-<td align="center">
-<p align="left">Chef de circonscription</p>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
 </td>
-<td align="center">Soissons<br/>
+<td>
+<p align="center">  VILLE</p>
 </td>
-<td align="center">02<br/>
+<td>
+<p align="center">DÉPARTEMENT</p>
 </td>
 </tr>
 <tr>
@@ -1118,17 +1129,6 @@ Direction centrale de la sécurité publique (DCSP)
 <td align="center">Grenoble<br/>
 </td>
 <td align="center">038<br/>
-</td>
-</tr>
-<tr>
-<td align="center">TD<br/>
-</td>
-<td align="center">
-<p align="left">Chef de circonscription</p>
-</td>
-<td align="center">Ondaine<br/>
-</td>
-<td align="center">042<br/>
 </td>
 </tr>
 <tr>
@@ -2382,14 +2382,18 @@ Direction centrale de la police aux frontières (DCPAF)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center"> DIFFICULTÉ DU poste</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -2487,14 +2491,18 @@ Direction centrale du renseignement intérieur (DCRI)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>INTITULÉ DU POSTE<br/>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center"> DIFFICULTÉ DU poste</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -2625,15 +2633,18 @@ Direction centrale des compagnies républicaines de sécurité (DCCRS)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>
+<td>
+<p align="center">DIFFICULTÉ DU poste</p>
+</td>
+<td>
 <p align="center">INTITULÉ DU POSTE</p>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -2698,15 +2709,19 @@ Direction centrale de la police judiciaire (DCPJ)
 <table>
 <tbody>
 <tr>
-<th>DIFFICULTÉ DU POSTE<br/>
-</th>
-<th>
-<p align="center">INTITULÉ DU POSTE</p>
-</th>
-<th>VILLE<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
+<td>
+<p align="center"> DIFFICULTÉ DU poste</p>
+</td>
+<td>
+<p align="center">  INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE<br/>
+</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">TD<br/>
@@ -2904,6 +2919,57 @@ Direction centrale de la police judiciaire (DCPJ)
 <td align="center">Versailles<br/>
 </td>
 <td align="center">078<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Direction générale de la police nationale (DGPN)
+
+Cabinet du directeur général de la police nationale (CAB-DGPN)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> DIFFICULTÉ DU <br/>poste</p>
+</td>
+<td>
+<p align="center"> INTITULÉ DU POSTE</p>
+</td>
+<td>
+<p align="center"> VILLE</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>TD<br/>
+</td>
+<td align="center">
+<p align="left">Directeur de cabinet</p>
+</td>
+<td align="center">
+<br/>Paris<br/>
+</td>
+<td align="center">
+<br/>075<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>TD<br/>
+</td>
+<td align="center">
+<p align="left">Conseiller, chef du pôle ressources humaines</p>
+</td>
+<td align="center">
+<br/>Paris<br/>
+</td>
+<td align="center">
+<br/>075<br/>
 </td>
 </tr>
 </tbody>
