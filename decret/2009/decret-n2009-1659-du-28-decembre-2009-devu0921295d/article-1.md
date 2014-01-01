@@ -9,3 +9,5 @@ Les organismes mentionnés au troisième alinéa de l'article 22-1 de la loi du 
 ― les associations auxquelles un fonds de solidarité pour le logement ou un fonds local accorde sa garantie en application des dispositions de l'article 6 de la loi du 31 mai 1990 susvisée ;
 
 ― tous les organismes ou associations qui apportent, à titre gratuit, leur caution à un candidat à la location afin de favoriser son accès au logement.
+
+Le présent décret s'applique à Mayotte

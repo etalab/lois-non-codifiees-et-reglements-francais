@@ -5,6 +5,7 @@
 - [Décret n°2004-1172 du 2 novembre 2004 (SANS0422912D)](decret-n2004-1172-du-2-novembre-2004-sans0422912d)
 - [Décret n°2005-1096 du 2 septembre 2005 (MCCT0500408D)](decret-n2005-1096-du-2-septembre-2005-mcct0500408d)
 - [Décret n°2005-1490 du 2 décembre 2005 (JUSK0540138D)](decret-n2005-1490-du-2-decembre-2005-jusk0540138d)
+- [Décret n°2005-212 du 2 mars 2005 (SOCU0510093D)](decret-n2005-212-du-2-mars-2005-socu0510093d)
 - [Décret n°2005-900 du 2 août 2005 (SANH0522858D)](decret-n2005-900-du-2-aout-2005-sanh0522858d)
 - [Décret n°2005-902 du 2 août 2005 (FPPA0500066D)](decret-n2005-902-du-2-aout-2005-fppa0500066d)
 - [Décret n°2005-904 du 2 août 2005 (INTX0500219D)](decret-n2005-904-du-2-aout-2005-intx0500219d)
