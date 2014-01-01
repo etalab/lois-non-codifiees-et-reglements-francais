@@ -2,7 +2,7 @@
 
 I. ― Tout contrat de partenariat passé par une personne mentionnée aux articles 1er, 19 et 25 de l'ordonnance du 17 juin 2004 susvisée doit être précédé d'une publicité suffisante permettant une mise en concurrence effective dans les conditions définies ci-après.
 
-II. ― Lorsque le montant du contrat de partenariat est égal ou supérieur à 130 000 € HT, la personne mentionnée au I est tenue de publier un avis d'appel public à la concurrence dans le Bulletin officiel des annonces des marchés publics et au Journal officiel de l'Union européenne.
+II. ― Lorsque le montant du contrat de partenariat est égal ou supérieur à 134 000 € HT, la personne mentionnée au I est tenue de publier un avis d'appel public à la concurrence dans le Bulletin officiel des annonces des marchés publics et au Journal officiel de l'Union européenne.
 
 Elle peut choisir de faire paraître, en plus de ces avis, un avis d'appel public à la concurrence dans une autre publication.
 

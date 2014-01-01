@@ -1,6 +1,6 @@
 # Article 7
 
-I.-Au-dessus du seuil de 400 000 € HT pour les marchés de fournitures et de services et du seuil de 5 000 000 € HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes, librement choisie par l'entité adjudicatrice :
+I.-Au-dessus du seuil de 414 000 € HT pour les marchés de fournitures et de services et du seuil de 5 186 000 € HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes, librement choisie par l'entité adjudicatrice :
 
 1° La procédure négociée avec mise en concurrence préalable ;
 

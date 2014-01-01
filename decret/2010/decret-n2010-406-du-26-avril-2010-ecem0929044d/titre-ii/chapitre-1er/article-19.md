@@ -1,6 +1,6 @@
 # Article 19
 
-I. ― Le pouvoir adjudicateur qui se propose de conclure un contrat de concession de travaux publics d'un montant égal ou supérieur à 5 000 000 € HT fait connaître son intention au moyen d'un avis conforme au modèle fixé par le règlement communautaire pris à cette fin
+I. ― Le pouvoir adjudicateur qui se propose de conclure un contrat de concession de travaux publics d'un montant égal ou supérieur à    5 186 000 € HT fait connaître son intention au moyen d'un avis conforme au modèle fixé par le règlement communautaire pris à cette fin
 
 II. ― Pour la détermination du montant mentionné au I, est pris en compte l'ensemble des produits prévisibles de l'exécution de la concession, incluant le cas échéant la valeur des installations et fournitures que le pouvoir adjudicateur se propose de mettre à la disposition du concessionnaire.
 

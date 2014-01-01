@@ -1,6 +1,6 @@
 # Article 47
 
-I. - Pour les marchés donnant lieu à l'une des procédures formalisées ou à un accord-cadre, et pour les marchés de services relevant de l'article 9 d'un montant égal ou supérieur à 200 000 € HT, le pouvoir adjudicateur envoie pour publication, dans un délai maximal de quarante-huit jours à compter de la notification du marché ou de l'accord-cadre, un avis d'attribution. Le pouvoir adjudicateur est dispensé d'envoyer un avis d'attribution pour les marchés fondés sur un accord-cadre.
+I. - Pour les marchés donnant lieu à l'une des procédures formalisées ou à un accord-cadre, et pour les marchés de services relevant de l'article 9 d'un montant égal ou supérieur à 207 000 € HT, le pouvoir adjudicateur envoie pour publication, dans un délai maximal de quarante-huit jours à compter de la notification du marché ou de l'accord-cadre, un avis d'attribution. Le pouvoir adjudicateur est dispensé d'envoyer un avis d'attribution pour les marchés fondés sur un accord-cadre.
 
 Le pouvoir adjudicateur envoie un avis sur le résultat de la passation des marchés fondés sur un système d'acquisition dynamique au plus tard quarante-huit jours après la notification de chaque marché. Toutefois, il peut n'envoyer qu'un avis global chaque trimestre, au plus tard quarante-huit jours après la fin de chaque trimestre.
 

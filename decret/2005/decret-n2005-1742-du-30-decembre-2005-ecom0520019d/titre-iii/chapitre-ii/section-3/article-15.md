@@ -1,6 +1,6 @@
 # Article 15
 
-I. - A partir du seuil de 750 000 € HT pour les fournitures et les services et de 5 000 000 € HT pour les travaux, un avis de préinformation, conforme au modèle fixé par le règlement communautaire n° 1564/2005 susvisé, peut être soit adressé pour publication à l'Office des publications officielles de l'Union européenne, soit publié sur le profil d'acheteur du pouvoir adjudicateur. Le profil d'acheteur du pouvoir adjudicateur est le site dématérialisé auquel il a recours pour ses achats.
+I. - A partir du seuil de 750 000 € HT pour les fournitures et les services et de 5 186 000 € HT pour les travaux, un avis de préinformation, conforme au modèle fixé par le règlement communautaire n° 1564/2005 susvisé, peut être soit adressé pour publication à l'Office des publications officielles de l'Union européenne, soit publié sur le profil d'acheteur du pouvoir adjudicateur. Le profil d'acheteur du pouvoir adjudicateur est le site dématérialisé auquel il a recours pour ses achats.
 
 Le pouvoir adjudicateur qui publie l'avis de préinformation sur son profil d'acheteur envoie au préalable, par voie électronique à l'Office des publications officielles de l'Union européenne, un avis annonçant la publication de cet avis. La date de cet envoi est mentionnée sur l'avis de préinformation publié sur le profil d'acheteur.
 
