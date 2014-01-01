@@ -6,7 +6,7 @@ I. ― Le financement du régime d'assurance maladie, maternité, invalidité et
 
 2° Sur les pensions, allocations de retraite ou d'invalidité, allocations chômage ainsi que sur tous les autres revenus de remplacement, sous réserve des exonérations accordées aux titulaires de ces revenus dont les ressources sont insuffisantes ; la définition et les modalités de ces exonérations sont fixées par décret ;
 
-3° Sur les revenus du patrimoine ou de placement tels que pris en compte pour la détermination du revenu imposable dans les conditions applicables à Mayotte.
+3° (Abrogé)
 
 II. ― Le taux de la contribution est fixé à 2 % jusqu'au 31 décembre 2019.
 
