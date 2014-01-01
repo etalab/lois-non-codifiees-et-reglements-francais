@@ -1,3 +1,0 @@
-# Annexes
-
-- [CONTRAT DE BON USAGE DES MÉDICAMENTS : ET DES PRODUITS ET PRESTATIONS.](contrat-de-bon)
