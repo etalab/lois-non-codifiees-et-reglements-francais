@@ -2,7 +2,7 @@
 
 I. ― Les dispositions du présent arrêté sont prises pour l'application :
 
-― des dispositions des articles R. 111-22 à R. 111-22-2 du code de la construction et de l'habitation, en ce qui concerne les bâtiments neufs ou parties nouvelles de bâtiment ou toute opération de construction de bâtiments, dont la surface de plancher totale nouvelle est supérieure à 1 000 mètres carrés ;
+― des dispositions des articles R. 111-22 à R. 111-22-2 du code de la construction et de l'habitation, en ce qui concerne les bâtiments neufs, dont la surface de plancher totale nouvelle est supérieure ou égale à 50 mètres carrés ;
 
 ― des dispositions de l'article R. 131-27 du code de la construction et de l'habitation, en ce qui concerne les rénovations de bâtiments existants concernés par l'article R. 131-26 du code de la construction et de l'habitation.
 

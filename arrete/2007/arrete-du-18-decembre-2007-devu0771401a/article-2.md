@@ -31,3 +31,5 @@ II. ― Dans le cas où les travaux sont des travaux de rénovation portant uniq
 ― les systèmes solaires photovoltaïques ;
 
 ― les systèmes éoliens.
+
+III. - Dans le cas d'un bâtiment neuf dont la surface de plancher est inférieure à 1 000 mètres carrés, le maître d'ouvrage réalise l'étude de faisabilité comparant le système pressenti défini au I à au moins quatre variantes, dont au moins trois parmi celles figurant aux quatrième à douzième alinéas du même I.
