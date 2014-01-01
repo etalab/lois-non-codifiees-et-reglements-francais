@@ -1,12 +1,12 @@
 # Article 1
 
-Les montants moyens annuels de la prime de fonctions, prévus à l'article 2 du décret du 29 juin 2005 susvisé, sont fixés pour l'année 2013 ainsi qu'il suit :
+Les montants moyens annuels de la prime de fonctions, prévus à l'article 2 du décret du 29 juin 2005 susvisé, sont fixés, ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">CADRE D'EMPLOIS</p>
+<p align="center">CADRE D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">MONTANT MOYEN ANNUEL </p>
@@ -90,3 +90,9 @@ Les montants moyens annuels de la prime de fonctions, prévus à l'article 2 du 
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>

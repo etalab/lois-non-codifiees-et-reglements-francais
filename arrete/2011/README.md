@@ -1910,7 +1910,6 @@
 - [Arrêté du 22 décembre 2011 (BCRE1134340A)](arrete-du-22-decembre-2011-bcre1134340a)
 - [Arrêté du 22 décembre 2011 (DEVL1133593A)](arrete-du-22-decembre-2011-devl1133593a)
 - [Arrêté du 22 décembre 2011 (ETSH1135625A)](arrete-du-22-decembre-2011-etsh1135625a)
-- [Arrêté du 22 décembre 2011 (INDR1133012A)](arrete-du-22-decembre-2011-indr1133012a)
 - [Arrêté du 22 décembre 2011 (INDR1134973A)](arrete-du-22-decembre-2011-indr1134973a)
 - [Arrêté du 22 décembre 2011 (JUST1135362A)](arrete-du-22-decembre-2011-just1135362a)
 - [Arrêté du 22 décembre 2011 (MAEA1131423A)](arrete-du-22-decembre-2011-maea1131423a)

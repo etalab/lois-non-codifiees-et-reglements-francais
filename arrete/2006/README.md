@@ -270,7 +270,6 @@
 - [Arrêté du 26 décembre 2005 (DEFP0501738A)](arrete-du-26-decembre-2005-defp0501738a)
 - [Arrêté du 26 décembre 2005 (MENR0502778A)](arrete-du-26-decembre-2005-menr0502778a)
 - [Arrêté du 26 décembre 2006 (EQUA0602482A)](arrete-du-26-decembre-2006-equa0602482a)
-- [Arrêté du 26 janvier 2006 (BUDB0610009A)](arrete-du-26-janvier-2006-budb0610009a)
 - [Arrêté du 26 janvier 2006 (SANP0620487A)](arrete-du-26-janvier-2006-sanp0620487a)
 - [Arrêté du 26 juillet 2006 (EQUP0601571A)](arrete-du-26-juillet-2006-equp0601571a)
 - [Arrêté du 26 septembre 2006 (JUSK0640203A)](arrete-du-26-septembre-2006-jusk0640203a)
