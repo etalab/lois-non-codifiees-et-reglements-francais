@@ -23,4 +23,6 @@ Lors de toute modification d'une directive territoriale d'aménagement approuvé
 
 Les directives peuvent être supprimées, selon les modalités prévues au deuxième alinéa du présent III, par décret en Conseil d'Etat.
 
+Les directives peuvent être adaptées dans les conditions définies à l'article L. 300-6-1 du code de l'urbanisme.
+
 VII.-Les projets de schéma d'aménagement régional qui ont été arrêtés avant la date de publication de la présente loi peuvent être approuvés sans être soumis à enquête publique dans les conditions définies par le chapitre III du titre II du livre Ier du code de l'environnement.
