@@ -12,30 +12,10 @@ Les biens non compris dans ce champ d'application et dont la dépréciation est 
 
 Sauf décision contraire de l'établissement, l'amortissement est linéaire, sans pro rata temporis.
 
-Les durées maximales d'amortissement des biens meubles et immeubles sont les suivantes :
+Les durées d'amortissement des immobilisations corporelles et incorporelles qui doivent correspondre à leur durée probable d'utilisation sont fixées pour chaque bien ou chaque catégorie de biens par l'assemblée délibérante, à l'exception :
 
-- frais d'études non suivis de réalisation : 5 ans ;
+- des frais d'études non suivies de réalisations, obligatoirement amorties sur une durée maximum de cinq ans ;
 
-- frais de recherche et de développement : 5 ans ;
+- des frais de recherche et de développement amortis sur une durée maximum de cinq ans en cas de réussite du projet et immédiatement, pour leur totalité, en cas d'échec ;
 
-- brevets : durée du privilège dont ils bénéficient ou durée effective de leur utilisation si elle est plus brève ;
-
-- logiciels : 2 ans ;
-
-- véhicules : 5 ans ;
-
-- mobilier : 10 ans ;
-
-- matériel informatique : 5 ans ;
-
-- matériels classiques : 10 ans ;
-
-- coffre-fort : 30 ans ;
-
-- installations et appareils de chauffage : 20 ans ;
-
-- appareils de levage-ascenseurs : 30 ans ;
-
-- équipements de cuisine : 15 ans ;
-
-- immeubles : 50 ans.
+- des brevets amortis sur la durée du privilège dont ils bénéficient ou la durée effective de leur utilisation si elle est plus brève.

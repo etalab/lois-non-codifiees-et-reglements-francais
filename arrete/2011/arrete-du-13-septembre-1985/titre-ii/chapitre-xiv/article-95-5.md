@@ -4,7 +4,7 @@ Calcul des rapports.
 
 Le montant de la déduction proportionnelle sur enjeux et des paris remboursés est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
 
-3 % au maximum de cette masse à partager peuvent être réservés pour constituer un " Fonds Tirelire  "    selon les dispositions du 4 de l'article 95.9. Le taux effectif appliqué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari " Quinté Plus ".
+3 % au maximum de cette masse à partager peuvent être réservés pour constituer un " Fonds Tirelire " selon les dispositions du 4 de l'article 95.9. Le taux effectif appliqué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari " Quinté Plus " par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement du PMU.
 
 33,75 % du solde de cette masse à partager, appelés masse à partager "Quinté plus", sont affectés au calcul des rapports "Quinté plus ; 15 % du solde de cette masse, appelés masse à partager "Bonus 4", sont affectés au calcul des rapports "Bonus 4" ; 25 % du solde de cette masse, appelés masse à partager "Bonus 4 sur 5", sont affectés au calcul du rapport "Bonus 4 sur 5" ; 26,25 % du solde de cette masse, appelés masse à partager "Bonus 3", sont affectés au calcul des rapports "Bonus 3".
 

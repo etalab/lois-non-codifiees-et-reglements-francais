@@ -1124,11 +1124,15 @@ CLASSE 6. - COMPTES DE CHARGES
 
 6542 Créances éteintes.
 
-655. Indemnités de logement versées aux instituteurs
+655. Contributions obligatoires
 
 Comptes ouverts uniquement dans le budget de l'IRL.
 
 6551. Indemnités de logement versées aux instituteurs.
+
+6556 : Indemnités de logement versées aux instituteurs.
+
+6558 : Autres contributions.
 
 6559. Reversements d'indemnités de logement versées aux instituteurs.
 
