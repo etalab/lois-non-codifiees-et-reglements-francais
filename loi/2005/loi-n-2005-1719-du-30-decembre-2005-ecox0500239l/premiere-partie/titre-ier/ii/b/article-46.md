@@ -44,7 +44,11 @@ Le montant total du droit à compensation de chaque département mentionné au 2
 
 a) Pour l'ensemble des départements autres que le Département de Mayotte et pour Saint-Pierre-et-Miquelon, du droit à compensation au titre de l'allocation de revenu de solidarité active, déterminé dans les conditions prévues par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion ;
 
-b) Pour le Département de Mayotte, du droit à compensation au titre de l'allocation de revenu de solidarité active, de la gestion et du financement du fonds de solidarité pour le logement et du financement des formations sociales initiales et des aides aux étudiants inscrits dans ces formations, déterminé dans les conditions prévues, respectivement, par l'ordonnance n° 2011-1641 du 24 novembre 2011 portant extension et adaptation du revenu de solidarité active au Département de Mayotte, par l'ordonnance n° 2012-576 du 26 avril 2012 portant extension et adaptation à Mayotte du code de la construction et de l'habitation ainsi que de diverses lois relatives au logement et par l'ordonnance n° 2012-785 du 31 mai 2012 portant extension et adaptation du code de l'action sociale et des familles au Département de Mayotte.
+b) Pour le Département de Mayotte, du droit à compensation des charges résultant des créations de compétences mentionnées au I de l'article 39 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+
+A compter de 2014, la seconde section mentionnée au cinquième alinéa retrace également le versement des recettes définies au I de l'article 41 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 aux régions, à la collectivité territoriale de Corse et au Département de Mayotte. Ce versement est attribué mensuellement, à raison d'un douzième du montant dû à chacune de ces collectivités dans les conditions prévues à l'article L. 4331-2-1 du code général des collectivités territoriales, à l'exclusion des troisième et avant-dernier alinéas de ce même article.
+
+A compter de 2014, la seconde section mentionnée au même cinquième alinéa retrace également le versement aux départements des recettes définies au I de l'article 42 de la loi n° 2013-1278 du 29 décembre 2013 précitée. Ce versement est attribué mensuellement, à raison d'un douzième du montant dû dans les conditions prévues à l'article L. 3332-1-1 du code général des collectivités territoriales, à l'exclusion des troisième et dernier alinéas de ce même article.
 
 III.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
@@ -102,7 +106,7 @@ Ce compte retrace :
 
 1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
 
-2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 544,1 millions d'euros en 2013.
+2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 527,3 millions d'euros en 2014.
 
 Les frais d'assiette et de recouvrement sont calculés conformément au XI de l'article 1647 du code général des impôts.
 
@@ -114,7 +118,7 @@ Le solde est versé lors des opérations de répartition des recettes arrêtées
 
 Les versements ne peuvent avoir pour effet de porter les avances effectuées pendant l'année civile à un montant supérieur aux recettes effectives du compte.
 
-3. Si les encaissements de contribution à l'audiovisuel public nets en 2013 sont inférieurs à 2 903,6 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
+3. Si les encaissements de contribution à l'audiovisuel public nets en 2014 sont inférieurs à 3 023,8 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
 
 VII.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 

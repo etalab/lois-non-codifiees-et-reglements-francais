@@ -44,7 +44,7 @@ Le comité médical établit ses conclusions motivées et les adresse au fonctio
 
 Les décisions prises par l'administration en application du II peuvent être contestées par les voies de recours gracieux ou hiérarchique et de recours contentieux devant la juridiction administrative compétente.
 
-IV. - L'expérimentation prévue au présent article prend effet à compter de la signature de la convention prévue au dernier alinéa du I, pour une durée de quatre ans. Le Gouvernement transmet au Parlement un rapport d'évaluation, au plus tard six mois avant la fin de l'expérimentation.
+IV. - L'expérimentation prévue au présent article prend effet à compter de la signature de la convention prévue au dernier alinéa du I et s'achève au 31 décembre 2015. Le Gouvernement transmet au Parlement un rapport d'évaluation, au plus tard six mois avant la fin de l'expérimentation.
 
 V. - L'expérimentation prévue au présent article s'applique également aux personnes mentionnées à l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, par dérogation à l'article 58 de la même loi, dès lors qu'elles relèvent d'une collectivité territoriale volontaire pour y participer et répondant aux critères du nombre de fonctionnaires minimal fixé par la convention-cadre nationale, prévue à l'alinéa suivant.
 
@@ -58,4 +58,4 @@ La liste des caisses primaires d'assurance maladie et des services du contrôle 
 
 Des conventions locales, signées entre les caisses et établissements publics de santé expérimentateurs, déterminent les modalités pratiques de mise en œuvre de l'expérimentation dans le respect de la convention-cadre précitée. Elles doivent être signées dans un délai de trois mois après signature de la convention mentionnée à l'alinéa précédent.
 
-VI. ― Les collectivités territoriales qui ont signé des conventions en application du V entre la fin du délai de signature prévu au présent article et le 31 décembre 2011 sont autorisées à participer à l'expérimentation à compter du 1er janvier 2012.
+VI. - Les collectivités territoriales qui ont signé des conventions en application du V entre la fin du délai de signature prévu au présent article et le 31 décembre 2011 sont autorisées à participer à l'expérimentation à compter du 1er janvier 2012.

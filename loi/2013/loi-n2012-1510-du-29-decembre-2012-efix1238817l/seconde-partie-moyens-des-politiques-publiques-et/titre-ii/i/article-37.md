@@ -44,7 +44,7 @@ III. A.
 > -Code général des impôts, CGI.
 > > Art. 1640 C, Art. 1501
 
-B.-Le A du présent III s'applique à compter des impositions dues au titre de 2014.
+B.-Le A du présent III s'applique à compter des impositions dues au titre de 2015.
 
 IV. A.
 
@@ -58,8 +58,6 @@ A modifié les dispositions suivantes :
 > -Code général des impôts, CGI.
 
 > Art. 1638-0 bis, Art. 1609 nonies C
-
->
 
 A modifié les dispositions suivantes :
 
@@ -107,8 +105,6 @@ VII. A.
 > -Loi n° 72-657 du 13 juillet 1972
 
 > Art. 3
-
->
 
 B.-Loi n° 2009-1673
 

@@ -4,9 +4,9 @@ Il est institué, pour les années scolaires 2013-2014 et 2014-2015, un fonds en
 
 Les aides apportées par le fonds sont calculées en fonction du nombre d'élèves éligibles scolarisés dans la commune et comportent :
 
-1° Un montant forfaitaire par élève, versé aux communes dont les écoles organisent les enseignements sur neuf demi-journées à la rentrée scolaire 2013-2014. Le versement de ce montant forfaitaire ne peut être renouvelé au titre de l'année 2014-2015 ;
+1° Un montant forfaitaire par élève, versé aux communes dont les écoles organisent les enseignements sur neuf demi-journées ;
 
-2° Une majoration forfaitaire par élève, réservée aux communes mentionnées aux articles L. 2334-18-4 et L. 2334-22-1 du code général des collectivités territoriales ainsi qu'aux communes des départements d'outre-mer et de Saint-Pierre-et-Miquelon bénéficiant de la quote-part de la dotation d'aménagement prévue au quatrième alinéa de l'article L. 2334-13 du même code et à la collectivité de Saint-Martin. Pour les communes dont les écoles organisent les enseignements sur neuf demi-journées à la rentrée scolaire 2013-2014, le versement de cette majoration forfaitaire est reconduit au titre de l'année 2014-2015. Les communes dont les écoles organisent les enseignements sur neuf demi-journées à compter de la rentrée 2014-2015 bénéficient de la majoration au titre de cette année.
+2° Une majoration forfaitaire par élève, réservée aux communes mentionnées aux articles L. 2334-18-4 et L. 2334-22-1 du code général des collectivités territoriales ainsi qu'aux communes des départements d'outre-mer et de Saint-Pierre-et-Miquelon bénéficiant de la quote-part de la dotation d'aménagement prévue au quatrième alinéa de l'article L. 2334-13 du même code et à la collectivité de Saint-Martin.
 
 Les communes qui ont transféré la compétence en matière de dépenses de fonctionnement des écoles à un établissement public de coopération intercommunale reversent à cet établissement les aides qu'elles ont perçues au titre des 1° et 2°.
 

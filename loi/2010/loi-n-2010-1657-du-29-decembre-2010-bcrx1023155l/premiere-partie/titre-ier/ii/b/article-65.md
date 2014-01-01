@@ -28,6 +28,6 @@ a) Les contributions de l'Etat liées à l'exploitation des services nationaux d
 
 b) Les contributions de l'Etat liées au financement du matériel roulant des services nationaux de transport de voyageurs conventionnés par l'Etat.
 
-c)Le financement des frais exposés par l'Etat, dans l'exercice de sa responsabilité d'autorité organisatrice des services nationaux de transport conventionnés de voyageurs, au titre de la réalisation d'enquêtes de satisfaction sur la qualité de service, d'études et de missions de conseil juridique, financier ou technique.
+c) Le financement des frais exposés par l'Etat, dans l'exercice de sa responsabilité d'autorité organisatrice des services nationaux de transport conventionnés de voyageurs, au titre de la réalisation d'enquêtes de satisfaction sur la qualité de service, d'études et de missions de conseil juridique, financier ou technique.
 
-IV.-Le montant du produit de la taxe mentionnée à l'article 302 bis ZB du code général des impôts affecté chaque année au compte d'affectation spéciale " Services nationaux de transport conventionnés de voyageurs " en application de ce même article est de 35 millions d'euros.
+IV.-Le montant du produit de la taxe mentionnée à l'article 302 bis ZB du code général des impôts affecté chaque année au compte d'affectation spéciale " Services nationaux de transport conventionnés de voyageurs " en application de ce même article est de 19 millions d'euros.

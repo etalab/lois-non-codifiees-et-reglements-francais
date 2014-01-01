@@ -1,4 +1,4 @@
-# Section 1 : Dispositions relatives aux dépenses  d'assurance maladie
+# Section 1 : Dispositions relatives aux recettes des régimes obligatoires  de base et des organismes concourant à leur financement
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

@@ -2,7 +2,7 @@
 
 I. A à F. - Paragraphe modificateur.
 
-I. G. - Les dispositions du présent I s'appliquent aux résultats des exercices ouverts à compter du 1er janvier 2004 par les jeunes entreprises innovantes réalisant des projets de recherche et de développement créées à cette date ou qui se créent entre cette date et le 31 décembre 2013.
+I. G. - Les dispositions du présent I s'appliquent aux résultats des exercices ouverts à compter du 1er janvier 2004 par les jeunes entreprises innovantes réalisant des projets de recherche et de développement créées à cette date ou qui se créent entre cette date et le 31 décembre 2016.
 
 II. A. - Paragraphe modificateur.
 

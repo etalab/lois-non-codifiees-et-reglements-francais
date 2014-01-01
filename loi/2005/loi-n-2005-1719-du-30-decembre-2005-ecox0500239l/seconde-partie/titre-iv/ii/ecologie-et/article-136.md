@@ -1,6 +1,6 @@
 # Article 136
 
-I.-Dans la limite de 20 millions d'euros par an, et jusqu'au 31 décembre 2016, les dépenses afférentes à la préparation et à l'élaboration des plans de prévention des risques naturels prévisibles et aux actions d'information préventive sur les risques majeurs peuvent être financées par le fonds de prévention des risques naturels majeurs mentionné à l'article L. 561-3 du code de l'environnement. Le fonds prend en charge 90 % de la dépense.
+I.-Dans la limite de 20 millions d'euros par an, et jusqu'au 31 décembre 2016, les dépenses afférentes à la préparation et à l'élaboration des plans de prévention des risques naturels prévisibles et aux actions d'information préventive sur les risques majeurs peuvent être financées par le fonds de prévention des risques naturels majeurs mentionné à l'article L. 561-3 du code de l'environnement. Le fonds prend en charge 100 % de la dépense.
 
 II.-Paragraphe modificateur.
 
@@ -15,3 +15,5 @@ VI. ― Jusqu'au 31 décembre 2016, le fonds de prévention des risques naturels
 VII. ― Dans la limite de 5 millions d'euros par an et jusqu'au 31 décembre 2016, le fonds de prévention des risques naturels majeurs mentionné à l'article L. 561-3 du code de l'environnement peut contribuer au financement de l'aide financière et des frais de démolition définis à l'article 6 de la loi n° 2011-725 du 23 juin 2011 portant dispositions particulières relatives aux quartiers d'habitat informel et à la lutte contre l'habitat indigne dans les départements et régions d'outre-mer.
 
 VIII.-Dans la limite de six millions d'euros par an et jusqu'au 31 décembre 2019, le fonds de prévention des risques naturels majeurs peut contribuer au financement de l'élaboration et de la mise à jour des cartes des surfaces inondables et des cartes des risques d'inondation prévues à l'article L. 566-6 du code de l'environnement.
+
+IX.-Dans la limite de 60 millions d'euros, le fonds de prévention des risques naturels majeurs mentionné à l'article L. 561-3 du code de l'environnement peut contribuer au financement des études, équipements et travaux de prévention contre les risques naturels majeurs et de protection des lieux habités exposés à des risques naturels, réalisés ou subventionnés par l'Etat, dès lors qu'ils ont fait l'objet d'un engagement de l'Etat avant le 1er janvier 2014. Les ministres chargés de l'économie, du budget et de l'environnement arrêtent conjointement, dans cette limite, la liste des opérations qui, entrant dans son objet, peuvent être financées par ce fonds ainsi que les montants correspondants.

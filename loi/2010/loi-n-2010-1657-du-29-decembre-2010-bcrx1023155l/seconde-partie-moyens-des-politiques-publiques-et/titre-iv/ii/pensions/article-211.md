@@ -6,11 +6,11 @@ II. - La valeur du point de pension des pensions militaires d'invalidité et des
 
 III. - Les indices servant au calcul des pensions militaires d'invalidité, des pensions civiles et militaires de retraite et des retraites du combattant concédées au titre du code des pensions militaires d'invalidité et des victimes de la guerre et du code des pensions civiles et militaires de retraite et visées au I sont égaux aux indices des pensions et retraites de même nature servies aux ressortissants français tels qu'ils résultent de l'application des articles L. 9 et L. 256 du code des pensions militaires d'invalidité et des victimes de la guerre et des articles L. 15 et L. 16 du code des pensions civiles et militaires de retraite.
 
-Les pensions en paiement mentionnées au précédent alinéa sont révisées à compter de la demande des intéressés, présentée dans un délai de trois ans à compter de la publication du décret mentionné au VIII et auprès de l'administration qui a instruit leurs droits à pension.
+Les pensions en paiement mentionnées au précédent alinéa sont révisées à compter de la demande des intéressés, présentée dans un délai de quatre ans à compter de la publication du décret mentionné au VIII et auprès de l'administration qui a instruit leurs droits à pension.
 
 IV. - Les indices servant au calcul des pensions servies aux conjoints survivants et aux orphelins des pensionnés militaires d'invalidité et des titulaires d'une pension civile ou militaire de retraite visés au I sont égaux aux indices des pensions des conjoints survivants et des orphelins servies aux ressortissants français, tels qu'ils sont définis en application du code des pensions militaires d'invalidité et des victimes de la guerre et du code des pensions civiles et militaires de retraite.
 
-Les pensions en paiement mentionnées au précédent alinéa sont révisées à compter de la demande des intéressés, présentée dans un délai de trois ans à compter de la publication du décret mentionné au VIII et auprès de l'administration qui a instruit leurs droits à pension.
+Les pensions en paiement mentionnées au précédent alinéa sont révisées à compter de la demande des intéressés, présentée dans un délai de quatre ans à compter de la publication du décret mentionné au VIII et auprès de l'administration qui a instruit leurs droits à pension.
 
 V. - Les demandes de pensions présentées en application du présent article sont instruites dans les conditions prévues par le code des pensions militaires d'invalidité et des victimes de la guerre et par le code des pensions civiles et militaires de retraite.
 

@@ -30,7 +30,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Agence de l'environnement et de la maîtrise de l'énergie (ADEME) <br/>
 </td>
 <td align="left" valign="top">
-<br/>498 600 <br/>
+<br/>448 700 <br/>
 </td>
 </tr>
 <tr>
@@ -77,24 +77,13 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Article 43 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999) <br/>
+<br/>V de l'article 43 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999) <br/>
 </td>
 <td align="left" valign="top">
 <br/>Agence nationale pour la gestion des déchets radioactifs (ANDRA) <br/>
 </td>
 <td align="left" valign="top">
 <br/>120 000 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Article 12 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine <br/>
-</td>
-<td align="left" valign="top">
-<br/>Agence nationale pour la rénovation urbaine (ANRU) <br/>
-</td>
-<td align="left" valign="top">
-<br/>95 000 <br/>
 </td>
 </tr>
 <tr>
@@ -110,13 +99,13 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Article 134 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2008 <br/>
+<br/>III de l'article 134 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2008 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Agence nationale des titres sécurisés (ANTS) <br/>
 </td>
 <td align="left" valign="top">
-<br/>12 500 <br/>
+<br/>11 250<br/>
 </td>
 </tr>
 <tr>
@@ -127,45 +116,55 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>ANTS <br/>
 </td>
 <td align="left" valign="top">
-<br/>107 500 <br/>
+<br/>96 750<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Article 46 de la loi n° 2006-1666 du 21 décembre 2006 de finances pour 2007 (IV et V de l'article 953 du code général des impôts) <br/>
+<br/>Article 46 de la loi n° 2006-1666 du 21 décembre 2006 de finances pour 2007 (IV et V de l'article 953 du code général des impôts et article L. 311-16 du code de l'entrée et du séjour des étrangers et du droit d'asile ) <br/>
 </td>
 <td align="left" valign="top">
 <br/>ANTS <br/>
 </td>
 <td align="left" valign="top">
-<br/>16 100 <br/>
+<br/>14 490 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Article 135 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 <br/>
+<br/>VI de l'article 135 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 <br/>
 </td>
 <td align="left" valign="top">
 <br/>ANTS <br/>
 </td>
 <td align="left" valign="top">
-<br/>43 000 <br/>
+<br/>38 700<br/>
 </td>
 </tr>
 <tr>
 <td>Article 1605 nonies du code général des impôts </td>
 <td>Agence de services et de paiement </td>
-<td>20 000 </td>
+<td>12 000</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Article L. 2132-13 du code des transports <br/>
+<td>Article L. 612-20 du code monétaire et financier <br/>
 </td>
-<td align="left" valign="top">
-<br/>Autorité de régulation des activités ferroviaires (ARAF) <br/>
+<td>Autorité de contrôle prudentiel et de résolution (ACPR)</td>
+<td>205 000 </td>
+</tr>
+<tr>
+<td>Articles L. 621-5-3 et suivants du code monétaire et financier <br/>
 </td>
-<td align="left" valign="top">
-<br/>11 000 <br/>
+<td>Autorité des marchés financiers (AMF) <br/>
+</td>
+<td>95 000 </td>
+</tr>
+<tr>
+<td>Article L. 2132-13 du code des transports </td>
+<td>
+<br/>Autorité de régulation des activités ferroviaires (ARAF)</td>
+<td>
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
@@ -176,7 +175,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Association pour le soutien du théâtre privé <br/>
 </td>
 <td align="left" valign="top">
-<br/>9 000 <br/>
+<br/>8 000 <br/>
 </td>
 </tr>
 <tr>
@@ -209,18 +208,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre d'étude et de recherche de l'industrie du béton (CERIB) ; Centre technique de matériaux naturels de construction (CTMNC) <br/>
 </td>
 <td align="left" valign="top">
-<br/>16 300 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Article 302 bis ZI du code général des impôts <br/>
-</td>
-<td align="left" valign="top">
-<br/>Centre des monuments nationaux <br/>
-</td>
-<td align="left" valign="top">
-<br/>8 000 <br/>
+<br/>15 000<br/>
 </td>
 </tr>
 <tr>
@@ -236,7 +224,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Article 1609 novovicies du code général des impôts <br/>
+<br/>Premier alinéa de l'article 1609 novovicies du code général des impôts <br/>
 </td>
 <td align="left" valign="top">
 <br/>CNDS <br/>
@@ -244,6 +232,12 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <td align="left" valign="top">
 <br/>176 300 <br/>
 </td>
+</tr>
+<tr>
+<td>Troisième alinéa de l'article 1609 novovicies du code général des impôts <br/>
+</td>
+<td>CNDS</td>
+<td>24 000 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -286,7 +280,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre national de la chanson, des variétés et du jazz (CNV) <br/>
 </td>
 <td align="left" valign="top">
-<br/>27 000 <br/>
+<br/>24 000 <br/>
 </td>
 </tr>
 <tr>
@@ -319,7 +313,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Chambres de commerce et d'industrie</p>
 </td>
 <td>
-<p align="left">819 000 </p>
+<p align="left">719 000 </p>
 </td>
 </tr>
 <tr>
@@ -330,7 +324,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Chambres de métiers et de l'artisanat</p>
 </td>
 <td align="left" valign="top">
-<p align="left">280 000 </p>
+<p align="left">245 000 </p>
 </td>
 </tr>
 <tr>
@@ -338,9 +332,9 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>D de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
 <td align="left" valign="top">
-<br/>Comité de développement et de promotion de l'habillement</td>
+<br/>Comité de développement et de promotion de l'habillement (DEFI)</td>
 <td align="left" valign="top">
-<br/>10 000</td>
+<br/>9 500</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -350,8 +344,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Comité professionnel de développement des industries françaises de l'ameublement et du bois (CODIFAB) ; Institut technologique filière cellulose, bois, ameublement (FCBA) ; Centre technique des industries mécaniques (CETIM) <br/>
 </td>
 <td align="left" valign="top">
-<br/>16 500 <br/>
-</td>
+<br/>14 000</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -383,8 +376,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centres techniques industriels de la mécanique (CETIM, Centre technique de l'industrie du décolletage, Centre technique industriel de la construction métallique, Centre technique des industries aérauliques et thermiques, Institut de soudure) <br/>
 </td>
 <td align="left" valign="top">
-<br/>70 200 <br/>
-</td>
+<br/>70 000</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -405,8 +397,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Etablissement public de sécurité ferroviaire (EPSF) <br/>
 </td>
 <td align="left" valign="top">
-<br/>17 500 <br/>
-</td>
+<br/>15 800</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -424,11 +415,17 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">I de l'article 22 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Fonds de solidarité pour le développement </p>
+<p align="left">Fonds de solidarité pour le développement (FSD)</p>
 </td>
 <td align="left" valign="top">
-<p align="left">60 000</p>
+<p align="left">100 000</p>
 </td>
+</tr>
+<tr>
+<td>VI de l'article 302 bis K du code général des impôts <br/>
+</td>
+<td>FSD</td>
+<td>210 000 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -438,18 +435,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>FranceAgriMer <br/>
 </td>
 <td align="left" valign="top">
-<br/>4 500 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Article 1609 septvicies du code général des impôts </p>
-</td>
-<td>
-<p align="left">FranceAgriMer</p>
-</td>
-<td>
-<p align="left">84 000 </p>
+<br/>4 100 <br/>
 </td>
 </tr>
 <tr>
@@ -471,7 +457,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie, de l'orfèvrerie et des arts de la table (Francéclat) <br/>
 </td>
 <td align="left" valign="top">
-<br/>13 500 <br/>
+<br/>13 000 <br/>
 </td>
 </tr>
 <tr>
@@ -482,7 +468,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Institut national de l'origine et de la qualité (INAO) <br/>
 </td>
 <td align="left" valign="top">
-<br/>6 000 <br/>
+<br/>7 000 <br/>
 </td>
 </tr>
 <tr>
@@ -526,7 +512,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Office français de l'immigration et de l'intégration (OFII) <br/>
 </td>
 <td align="left" valign="top">
-<br/>108 000 <br/>
+<br/>105 000 <br/>
 </td>
 </tr>
 <tr>
@@ -537,7 +523,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>OFII <br/>
 </td>
 <td align="left" valign="top">
-<br/>29 000 <br/>
+<br/>23 000 <br/>
 </td>
 </tr>
 <tr>
@@ -581,7 +567,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>OFII <br/>
 </td>
 <td align="left" valign="top">
-<br/>4 000 <br/>
+<br/>3 000 <br/>
 </td>
 </tr>
 <tr>
@@ -592,18 +578,18 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Office national de la chasse et de la faune sauvage</p>
 </td>
 <td>
-<p align="left">72 000 </p>
+<p align="left">69 000 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Article 31 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 <br/>
+<br/>C du I de l'article 31 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Société du Grand Paris (SGP) <br/>
 </td>
 <td align="left" valign="top">
-<br/>168 000 <br/>
+<br/>350 000 <br/>
 </td>
 </tr>
 <tr>
@@ -636,8 +622,14 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Voies navigables de France (VNF) <br/>
 </td>
 <td align="left" valign="top">
-<br/>148 600 <br/>
+<br/>142 600 <br/>
 </td>
+</tr>
+<tr>
+<td>Article 1609 quatervicies A du code général des impôts <br/>
+</td>
+<td>Personnes publiques ou privées exploitant des aérodromes </td>
+<td>49 000 </td>
 </tr>
 </tbody>
 </table>

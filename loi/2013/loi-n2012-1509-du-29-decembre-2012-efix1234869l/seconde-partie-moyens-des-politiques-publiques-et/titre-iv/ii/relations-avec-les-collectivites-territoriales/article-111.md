@@ -31,4 +31,4 @@ A abrogé les dispositions suivantes :
 > - Loi n°2006-436 du 14 avril 2006
 > > Art. 20
 
-IV. - A compter de 2013, le montant de la dotation de développement urbain prévue à l'article L. 2334-40 du code général des collectivités territoriales est fixé à 75 millions d'euros.
+IV. - En  2013, le montant de la dotation de développement urbain prévue à l'article L. 2334-40 du code général des collectivités territoriales est fixé à 75 millions d'euros.

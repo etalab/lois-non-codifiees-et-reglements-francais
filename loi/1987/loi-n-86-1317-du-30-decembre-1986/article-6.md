@@ -2,21 +2,21 @@
 
 I a) Alinéa modificateur.
 
-b) La moyenne des bases de taxe professionnelle par habitant retenue pour l'application en 1987 du paragraphe I de l'article 1648 A du code général des impôts est réduite de 16 p. 100.
+b) La moyenne des bases de taxe professionnelle par habitant retenue pour l'application en 1987 du paragraphe I de l'article 1648 A du code général des impôts est réduite de 16 %.
 
 Pour l'application de l'article 1647 bis du code général des impôts aux impositions établies au titre de 1986, la diminution de base résultant de l'article 1472 A bis du même code n'est pas prise en compte.
 
-Pour l'application en 1987 des 2° et 3° du paragraphe II de l'article 1648 B du même code, les pertes de base d'imposition à la taxe professionnelle sont calculées sans tenir compte de la diminution de 16 p. 100 prévue à l'article 1472 A bis du même code.
+Pour l'application en 1987 des 2° et 3° du paragraphe II de l'article 1648 B du même code, les pertes de base d'imposition à la taxe professionnelle sont calculées sans tenir compte de la diminution de 16 % prévue à l'article 1472 A bis du même code.
 
 Alinéa modificateur
 
 II et III Paragraphes modificateurs
 
-IV-Il est institué une dotation compensant la perte de recettes résultant, pour les collectivités locales ou les groupements dotés d'une fiscalité propre, du paragraphe I de l'article 13, du paragraphe I de l'article 14 et du paragraphe I de l'article 18 de la loi de finances rectificative pour 1982 (n° 82-540 du 28 juin 1982), ainsi que de l'article 1472 A bis du code général des impôts.
+IV.-Il est institué une dotation compensant la perte de recettes résultant, pour les collectivités locales ou les groupements dotés d'une fiscalité propre, du paragraphe I de l'article 13, du paragraphe I de l'article 14 et du paragraphe I de l'article 18 de la loi de finances rectificative pour 1982 (n° 82-540 du 28 juin 1982), ainsi que de l'article 1472 A bis du code général des impôts.
 
 Les sommes destinées à compenser en 1987 la perte de recettes résultant, pour chaque collectivité locale ou groupement doté d'une fiscalité propre, du paragraphe I de l'article 13, du paragraphe I de l'article 14 et du paragraphe I de l'article 18 de la loi de finances rectificative pour 1982 précitée sont celles définies respectivement au paragraphe II de l'article 13, au paragraphe II de l'article 14 et au paragraphe II de l'article 18 de la même loi.
 
-La somme destinée à compenser en 1987 la perte de recettes résultant, pour chaque collectivité locale ou groupement doté d'une fiscalité propre ou fonds départemental de la taxe professionnelle, de l'article 1472 A bis du code général des impôts est égale au montant de la diminution de 16 p. 100 de la base imposable figurant dans les rôles généraux établis au titre de 1987, prévue à cet article, multipliée par le taux de la taxe professionnelle de la collectivité, du groupement ou du fonds pour 1986.
+La somme destinée à compenser en 1987 la perte de recettes résultant, pour chaque collectivité locale ou groupement doté d'une fiscalité propre ou fonds départemental de la taxe professionnelle, de l'article 1472 A bis du code général des impôts est égale au montant de la diminution de 16 % de la base imposable figurant dans les rôles généraux établis au titre de 1987, prévue à cet article, multipliée par le taux de la taxe professionnelle de la collectivité, du groupement ou du fonds pour 1986.
 
 A compter de 1992, la dotation instituée au premier alinéa du présent paragraphe, est actualisée en fonction de l'indice de variation des recettes fiscales de l'Etat, nettes des remboursements et dégrèvements et des prélèvements sur recettes, tel que cet indice résulte des évaluations de la loi de finances initiale de l'année de versement, corrigé le cas échéant de l'incidence d'éventuels transferts de recettes liés à des transferts de compétences aux collectivités locales et territoriales, à d'autres personnes morales publiques ainsi qu'aux communautés européennes.
 
@@ -30,9 +30,9 @@ b) Les communes qui ont bénéficié, au titre de l'année précédente, d'une a
 
 En 1995, la compensation versée aux communes progresse comme l'indice prévisionnel du prix de la consommation des ménages (hors tabac) figurant dans la projection économique annexée au projet de loi de finances. La différence avec le montant résultant de l'application du quatrième alinéa est affectée au fonds national de péréquation institué à l'article 1648 B bis du code général des impôts.
 
-Pour chacune des années 1996,1997 et 1998, le montant de la dotation instituée par le premier alinéa du présent IV est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995), majoré de 300 millions de francs.
+Pour chacune des années 1996, 1997 et 1998, le montant de la dotation instituée par le premier alinéa du présent IV est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995), majoré de 300 millions de francs.
 
-Pour chacune des années 1999,2000,2001,2002 et 2003 le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
+Pour chacune des années 1999, 2000, 2001, 2002 et 2003 le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
 
 En 2004, en 2005, en 2006 et en 2007, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au II de l'article 57 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), compte tenu du montant total des autres dotations énumérées au même II. En 2008, l'évolution de la dotation est celle résultant de l'application du II de l'article 36 de la loi n° 2007-1822 du 24 décembre 2007 de finances pour 2008 et de l'article L. 1613-6 du code général des collectivités territoriales. En 2009, le montant de la dotation, avant prise en compte de l'article L. 1613-6 du même code, est minoré par application d'un taux correspondant à l'écart entre le montant total versé en 2008 au titre de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article. En 2010, le montant de la dotation, avant prise en compte du même article L. 1613-6, est minoré par application d'un taux correspondant à l'écart entre le montant total à verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce même article.
 
@@ -64,11 +64,11 @@ En 2009, toute diminution de cette dotation par rapport au montant de l'année p
 
 A compter de 2011, les prélèvements sur les recettes de l'Etat destinés à compenser les pertes de recettes subies par les collectivités territoriales et leurs groupements dotés d'une fiscalité propre sont intégrés aux dotations définies pour les départements au XVIII du 8 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, pour les régions au XIX du même 8 et pour les communes ou leurs groupements dotés d'une fiscalité propre au I du III de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
-IV bis-A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.
+IV bis.-A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.
 
 La compensation prévue à l'alinéa précédent est égale au produit obtenu en multipliant la perte de bases résultant, chaque année et pour chaque collectivité bénéficiaire, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts, par le taux de taxe professionnelle de la collectivité ou du groupement pour 1986 multiplié par 0,960.
 
-Cette compensation est diminuée jusqu'en 2010 d'un montant égal à 2 p. 100 des recettes fiscales de la collectivité ou du groupement bénéficiaire, sauf pour :
+Cette compensation est diminuée jusqu'en 2010 d'un montant égal à 2 % des recettes fiscales de la collectivité ou du groupement bénéficiaire, sauf pour :
 
 a) Les collectivités locales et leurs groupements dont les bases de taxe professionnelle par habitant sont, l'année précédente, inférieures à la moyenne des bases de taxe professionnelle par habitant constatée la même année pour les collectivités ou groupements de même nature ;
 
@@ -78,7 +78,7 @@ b) Les communes qui remplissent, au titre de l'année précédente ou de la pén
 
 c) Les communes de moins de 10 000 habitants dont le nombre de logements sociaux tels que définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales est, l'année précédente, supérieur à 1 445 ;
 
-d) Les communes de 10 000 habitants et plus dans lesquelles le rapport entre le nombre de logements sociaux tels que définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales et la population de la commune telle qu'elle résulte des recensements généraux et complémentaires est, l'année précédente, supérieur à 14,45 p. 100 ;
+d) Les communes de 10 000 habitants et plus dans lesquelles le rapport entre le nombre de logements sociaux tels que définis au sixième alinéa de l'article L. 2334-17 du code général des collectivités territoriales et la population de la commune telle qu'elle résulte des recensements généraux et complémentaires est, l'année précédente, supérieur à 14,45 % ;
 
 e) Les communes bénéficiaires, au titre de l'année précédente ou de la pénultième année, d'une attribution du Fonds de solidarité des communes de la région d'Ile-de-France institué par les articles L. 2531-12 à L. 2531-16 du code général des collectivités territoriales ;
 
@@ -100,6 +100,6 @@ A compter de 2011, les taux à prendre en compte pour les communes et les groupe
 
 Les dispositions relatives à cette majoration au profit des communes ou des groupements de communes sont fixées au VI du 8 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
-Au titre de 2011, la compensation calculée selon les dispositions qui précèdent et à laquelle sont appliqués le taux d'évolution fixé au titre de l'année 2008, le taux d'évolution fixé au titre de l'année 2009 et le taux d'évolution fixé au titre de l'année 2010 est minorée par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011. Au titre de 2012, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2008,2009,2010 et 2011, est minorée par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. Au titre de 2013, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2008,2009,2010,2011 et 2012, est minorée par application du taux prévu pour 2013 au IV de l'article 31 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013.
+Au titre de 2011, la compensation calculée selon les dispositions qui précèdent et à laquelle sont appliqués le taux d'évolution fixé au titre de l'année 2008, le taux d'évolution fixé au titre de l'année 2009 et le taux d'évolution fixé au titre de l'année 2010 est minorée par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011. Au titre de 2012, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2008, 2009, 2010 et 2011, est minorée par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. Au titre de 2013, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2008, 2009, 2010, 2011 et 2012, est minorée par application du taux prévu pour 2013 au IV de l'article 31 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013. Au titre de 2014, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2008, 2009, 2010, 2011, 2012 et 2013, est minorée par application du taux prévu pour 2014 au IV de l'article 37 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014.
 
 V. Alinéa modificateur

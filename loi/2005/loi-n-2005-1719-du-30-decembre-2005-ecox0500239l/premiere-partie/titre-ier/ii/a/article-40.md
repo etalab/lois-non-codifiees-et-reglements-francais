@@ -12,188 +12,256 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <table>
 <tbody>
 <tr>
+<th>RÉGION <br/>
+</th>
 <th>
-<br/>RÉGION</th>
+<br/>GAZOLE <br/>
+</th>
 <th>
-<br/>GAZOLE</th>
-<th>
-<br/>SUPERCARBURANT<br/>sans plomb</th>
+<br/>SUPERCARBURANT <br/>
+<br/>sans plomb <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Alsace</td>
+<br/>Alsace <br/>
+</td>
 <td align="center">
-<br/>4,74 </td>
+<br/>4,76 <br/>
+</td>
 <td align="center">
-<br/>6,71</td>
+<br/>6,72 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Aquitaine</td>
+<br/>Aquitaine <br/>
+</td>
 <td align="center">
-<br/>4,41 </td>
+<br/>4,42 <br/>
+</td>
 <td align="center">
-<br/>6,23</td>
+<br/>6,25 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Auvergne</td>
+<br/>Auvergne <br/>
+</td>
 <td align="center">
-<br/>5,74 </td>
+<br/>5,76 <br/>
+</td>
 <td align="center">
-<br/>8,13</td>
+<br/>8,14 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bourgogne</td>
+<br/>Bourgogne <br/>
+</td>
 <td align="center">
-<br/>4,13 </td>
+<br/>4,14 <br/>
+</td>
 <td align="center">
-<br/>5,84</td>
+<br/>5,85 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bretagne</td>
+<br/>Bretagne <br/>
+</td>
 <td align="center">
-<br/>4,82 </td>
+<br/>4,83 <br/>
+</td>
 <td align="center">
-<br/>6,83</td>
+<br/>6,85 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Centre</td>
+<br/>Centre <br/>
+</td>
 <td align="center">
-<br/>4,29 </td>
+<br/>4,30 <br/>
+</td>
 <td align="center">
-<br/>6,06</td>
+<br/>6,07 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Champagne-Ardenne</td>
+<br/>Champagne-Ardenne <br/>
+</td>
 <td align="center">
-<br/>4,84 </td>
+<br/>4,85 <br/>
+</td>
 <td align="center">
-<br/>6,83</td>
+<br/>6,85 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corse</td>
+<br/>Corse <br/>
+</td>
 <td align="center">
-<br/>9,72 </td>
+<br/>9,72 <br/>
+</td>
 <td align="center">
-<br/>13,73</td>
+<br/>13,75 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Franche-Comté</td>
+<br/>Franche-Comté <br/>
+</td>
 <td align="center">
-<br/>5,89 </td>
+<br/>5,90 <br/>
+</td>
 <td align="center">
-<br/>8,34</td>
+<br/>8,36 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ile-de-France</td>
+<br/>Ile-de-France <br/>
+</td>
 <td align="center">
-<br/>12,08 </td>
+<br/>12,10 <br/>
+</td>
 <td align="center">
-<br/>17,07</td>
+<br/>17,10 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Languedoc-Roussillon</td>
+<br/>Languedoc-Roussillon <br/>
+</td>
 <td align="center">
-<br/>4,13 </td>
+<br/>4,15 <br/>
+</td>
 <td align="center">
-<br/>5,86</td>
+<br/>5,86 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Limousin</td>
+<br/>Limousin <br/>
+</td>
 <td align="center">
-<br/>7,99 </td>
+<br/>8,01 <br/>
+</td>
 <td align="center">
-<br/>11,31</td>
+<br/>11,31 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lorraine</td>
+<br/>Lorraine <br/>
+</td>
 <td align="center">
-<br/>7,25 </td>
+<br/>7,27 <br/>
+</td>
 <td align="center">
-<br/>10,26</td>
+<br/>10,30 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Midi-Pyrénées</td>
+<br/>Midi-Pyrénées <br/>
+</td>
 <td align="center">
-<br/>4,69 </td>
+<br/>4,70 <br/>
+</td>
 <td align="center">
-<br/>6,63</td>
+<br/>6,66 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Nord - Pas-de-Calais</td>
+<br/>Nord-Pas-de-Calais <br/>
+</td>
 <td align="center">
-<br/>6,78 </td>
+<br/>6,80 <br/>
+</td>
 <td align="center">
-<br/>9,60</td>
+<br/>9,61 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Basse-Normandie</td>
+<br/>Basse-Normandie <br/>
+</td>
 <td align="center">
-<br/>5,10 </td>
+<br/>5,12 <br/>
+</td>
 <td align="center">
-<br/>7,21</td>
+<br/>7,23 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Normandie</td>
+<br/>Haute-Normandie <br/>
+</td>
 <td align="center">
-<br/>5,04 </td>
+<br/>5,05 <br/>
+</td>
 <td align="center">
-<br/>7,12</td>
+<br/>7,13 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pays de la Loire</td>
+<br/>Pays de la Loire <br/>
+</td>
 <td align="center">
-<br/>3,98 </td>
+<br/>3,99 <br/>
+</td>
 <td align="center">
-<br/>5,64</td>
+<br/>5,64 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Picardie</td>
+<br/>Picardie <br/>
+</td>
 <td align="center">
-<br/>5,32 </td>
+<br/>5,34 <br/>
+</td>
 <td align="center">
-<br/>7,54</td>
+<br/>7,54 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Poitou-Charentes</td>
+<br/>Poitou-Charentes <br/>
+</td>
 <td align="center">
-<br/>4,20 </td>
+<br/>4,21 <br/>
+</td>
 <td align="center">
-<br/>5,95</td>
+<br/>5,96 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Provence-Alpes-Côte d'Azur</td>
+<br/>Provence-Alpes-Côte d'Azur <br/>
+</td>
 <td align="center">
-<br/>3,94 </td>
+<br/>3,95 <br/>
+</td>
 <td align="center">
-<br/>5,56</td>
+<br/>5,58 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Rhône-Alpes</td>
+<br/>Rhône-Alpes <br/>
+</td>
 <td align="center">
-<br/>4,14 </td>
+<br/>4,16 <br/>
+</td>
 <td align="center">
-<br/>5,87</td>
+<br/>5,87 </td>
 </tr>
 </tbody>
 </table>
