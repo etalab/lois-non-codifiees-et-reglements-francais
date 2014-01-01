@@ -1,3 +1,0 @@
-# TITRE III : PRÉVENTION DE LA POLLUTION DES EAUX.
-
-- [Article 16](article-16.md)

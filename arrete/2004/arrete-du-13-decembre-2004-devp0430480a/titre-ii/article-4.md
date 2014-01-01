@@ -1,7 +1,0 @@
-# Article 4
-
-L'installation doit être conçue pour faciliter les opérations de vidange, nettoyage, désinfection et les prélèvements pour analyses microbiologiques et physico-chimiques. Elle doit être conçue de façon à ce qu'en aucun cas, il n'y ait des tronçons de canalisations constituant des bras morts, c'est-à-dire dans lesquels soit l'eau ne circule pas, soit l'eau circule en régime d'écoulement laminaire. L'installation est équipée d'un dispositif permettant la purge complète de l'eau du circuit. L'exploitant doit disposer des plans de l'installation tenus à jour, afin de justifier des dispositions prévues ci-dessus.
-
-Les matériaux en contact avec l'eau sont choisis en fonction des conditions de fonctionnement de l'installation afin de ne pas favoriser la formation de biofilm, de faciliter le nettoyage et la désinfection et en prenant en compte la qualité de l'eau ainsi que le traitement mis en oeuvre afin de prévenir les phénomènes de corrosion, d'entartrage ou de formation de biofilm.
-
-La tour doit être équipée d'un dispositif de limitation des entraînements vésiculaires constituant un passage obligatoire du flux d'air potentiellement chargé de vésicules d'eau, immédiatement avant rejet : le taux d'entraînement vésiculaire attesté par le fournisseur du dispositif de limitation des entraînements vésiculaires est inférieur à 0,01 % du débit d'eau en circulation dans les conditions de fonctionnement normales de l'installation.
