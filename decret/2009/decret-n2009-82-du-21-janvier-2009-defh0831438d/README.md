@@ -1,6 +1,0 @@
-# Décret n° 2009-82 du 21 janvier 2009 pris pour l'application de l'article 149 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009
-
-- [CHAPITRE IER : DISPOSITIONS GENERALES](chapitre-ier)
-- [CHAPITRE II : DISPOSITIONS RELATIVES AUX OFFICIERS DE CARRIERE](chapitre-ii)
-- [CHAPITRE III : DISPOSITIONS RELATIVES AUX SOUS OFFICIERS DE CARRIERE](chapitre-iii)
-- [CHAPITRE IV : DISPOSITIONS RELATIVES AUX MILITAIRES ENGAGES](chapitre-iv)

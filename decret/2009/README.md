@@ -782,7 +782,6 @@
 - [Décret n°2009-450 du 21 avril 2009 (IOCO0902218D)](decret-n2009-450-du-21-avril-2009-ioco0902218d)
 - [Décret n°2009-451 du 21 avril 2009 (IOCO0902241D)](decret-n2009-451-du-21-avril-2009-ioco0902241d)
 - [Décret n°2009-81 du 21 janvier 2009 (MENF0829057D)](decret-n2009-81-du-21-janvier-2009-menf0829057d)
-- [Décret n°2009-82 du 21 janvier 2009 (DEFH0831438D)](decret-n2009-82-du-21-janvier-2009-defh0831438d)
 - [Décret n°2009-83 du 21 janvier 2009 (DEFH0820804D)](decret-n2009-83-du-21-janvier-2009-defh0820804d)
 - [Décret n°2009-84 du 21 janvier 2009 (BCFF0827759D)](decret-n2009-84-du-21-janvier-2009-bcff0827759d)
 - [Décret n°2009-881 du 21 juillet 2009 (MTSS0913201D)](decret-n2009-881-du-21-juillet-2009-mtss0913201d)
