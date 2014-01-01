@@ -1,10 +1,10 @@
 # Article 21
 
-I. ― Il est ouvert, à compter du 1er septembre 2012 et jusqu'au 31 décembre 2020, un compte d'affectation spéciale intitulé : « Participation de la France au désendettement de la Grèce ».
+I. ― Il est ouvert, à compter du 1er septembre 2012 et jusqu'au 31 décembre 2020, un compte d'affectation spéciale intitulé :  Participation de la France au désendettement de la Grèce .
 
 Ce compte retrace :
 
-1° En recettes : le produit de la contribution spéciale versée par la Banque de France au titre de la restitution des revenus qu'elle a perçus sur les titres grecs détenus en compte propre ;
+1° En recettes : le produit de la contribution spéciale versée par la Banque de France au titre de la restitution des revenus qu'elle a perçus sur les titres grecs qu'elle détient ;
 
 2° En dépenses :
 

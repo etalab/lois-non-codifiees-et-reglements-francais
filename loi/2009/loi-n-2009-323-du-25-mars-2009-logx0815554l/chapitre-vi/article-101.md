@@ -10,4 +10,4 @@ Le contrat de résidence temporaire est conclu ou renouvelé pour une durée min
 
 L'agrément de l'Etat peut être subordonné à des engagements de l'organisme qui a reçu la disposition des locaux quant aux caractéristiques des résidents temporaires.
 
-Les conventions et contrats de résidence temporaire passés en application du présent article ne peuvent porter effet au-delà du 31 décembre 2013. Le présent dispositif expérimental est suivi et évalué par les services de l'Etat chargés d'agréer les opérations. Un rapport de suivi et d'évaluation est déposé annuellement au Parlement à partir de 2010.
+Les conventions et contrats de résidence temporaire passés en application du présent article ne peuvent porter effet au-delà du 31 décembre 2018. Le présent dispositif expérimental est suivi et évalué par les services de l'Etat chargés d'agréer les opérations. Un rapport de suivi et d'évaluation est déposé annuellement au Parlement à partir de 2010.

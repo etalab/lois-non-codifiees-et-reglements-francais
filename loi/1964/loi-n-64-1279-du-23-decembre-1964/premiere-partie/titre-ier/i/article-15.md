@@ -10,12 +10,8 @@ Un décret en Conseil d'Etat fixe les modalités d'application des dispositions 
 
 Les présentes dispositions s'appliquent pour la première fois à l'augmentation des recettes nettes de l'exercice 1978 par rapport à celles de l'exercice 1977.
 
-II -  (Dispositions périmées au 31 mai 1965).
+II - (Dispositions périmées au 31 mai 1965).
 
-III. - Les sociétés de courses de chevaux remplissant les conditions prescrites par la loi du 2 juin 1891 et autorisées à organiser le pari mutuel en dehors des hippodromes peuvent être habilitées à recevoir des paris engagés à l'étranger sur les courses qu'elles organisent en France, ainsi que des paris engagés en France sur des courses étrangères, dans la mesure où les paris enregistrés sont centralisés et incorporés dans la répartition en liaison directe avec le ou les organismes chargés de gérer le pari mutuel dans le pays considéré.
+III. - Les sociétés de courses de chevaux remplissant les conditions prescrites par la loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux, autorisées à organiser le pari mutuel en dehors des hippodromes, sont habilitées à recevoir et à répartir des paris engagés depuis l'étranger sur les courses qu'elles organisent en France, ainsi que des paris engagés ou regroupés en France sur des courses étrangères répartis par un organisme étranger habilité. Ces paris sont incorporés dans une masse commune et répartis selon le principe du pari mutuel.
 
-Les paris ainsi recueillis sont soumis aux prélèvements légaux et fiscaux en vigueur dans le pays où la course est organisée.
-
-Le produit de ces prélèvements est réparti entre le pays où les paris sont recueillis et celui où la course est disputée ; la répartition ainsi effectuée peut comprendre une part spéciale consacrée aux frais de gestion et prélevée avant versement aux attributaires légaux de chaque pays.
-
-Les modalités d'application du présent paragraphe seront fixées par décret.
+Les sociétés de courses précitées sont également habilitées à recevoir et à répartir, selon le principe du pari mutuel, des paris engagés ou regroupés en France sur des courses étrangères avec l'accord de leur organisateur.

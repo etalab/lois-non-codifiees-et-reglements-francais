@@ -122,9 +122,13 @@ b. Pour chaque commune membre d'un établissement public de coopération interco
 
 c. Lorsque, à la suite de la dissolution d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la part de dotation de compensation de la réforme de la taxe professionnelle, calculée selon les conditions prévues aux a et b du présent D, est versée au profit de cet établissement public de coopération intercommunale.
 
+d. En cas de dissolution d'un ou de plusieurs établissements publics de coopération intercommunale à fiscalité propre au 1er janvier 2011, les a à c s'appliquent, à compter du 1er janvier 2014 et pour les années ultérieures, aux communes et aux établissements publics de coopération intercommunale à fiscalité propre auxquels il a été fait application, jusqu'au 31 décembre 2013, des troisième à cinquième alinéas du présent IV, dans leur rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
+
 E.-En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part de dotation de compensation de la réforme de la taxe professionnelle de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux a et b du D et la dotation de compensation de l'établissement public concerné est diminuée de cette part.
 
 Lorsque, à la suite de son retrait d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la part de dotation de compensation de la réforme de la taxe professionnelle, calculée selon les conditions prévues aux a et b du D du présent IV, est versée au profit de cet établissement public de coopération intercommunale.
+
+En cas de retrait d'une commune d'un établissement public de coopération intercommunale à fiscalité propre au 1er janvier 2011, les deux premiers alinéas du présent E s'appliquent, à compter du 1er janvier 2014 et pour les années ultérieures, aux communes et aux établissements publics de coopération intercommunale à fiscalité propre auxquels il a été fait application, jusqu'au 31 décembre 2013, des troisième à cinquième alinéas du présent IV, dans leur rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
 F.-Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le montant de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III du présent 1.1 et au présent IV est versé au profit de cet établissement.
 
@@ -238,7 +242,7 @@ B.-En cas de scission de commune, le montant du prélèvement sur les ressources
 
 C.-En cas de fusion d'établissements publics de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement issu de la fusion est égal à la somme des prélèvements et reversements calculés conformément au présent 2 des établissements publics de coopération intercommunale participant à la fusion.
 
-D.- a. En cas de dissolution d'un établissement public de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement dissous est réparti entre ses communes membres selon les modalités suivantes :
+D.-a. En cas de dissolution d'un établissement public de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement dissous est réparti entre ses communes membres selon les modalités suivantes :
 
 1° Si l'établissement public de coopération intercommunale bénéficie d'un reversement mentionné au présent 2.1 :
 
@@ -260,11 +264,15 @@ b. Lorsque, à la suite de la dissolution d'un établissement public de coopéra
 
 Lorsque, à la suite de la dissolution d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, le prélèvement sur les ressources, calculé selon les conditions prévues aux mêmes 1° et 2°, est mis à la charge de cet établissement public.
 
+c. En cas de dissolution d'un ou de plusieurs établissements publics de coopération intercommunale à fiscalité propre au 1er janvier 2011, les a et b s'appliquent, à compter du 1er janvier 2014 et pour les années ultérieures, aux communes et aux établissements publics de coopération intercommunale à fiscalité propre auxquels il a été fait application jusqu'au 31 décembre 2013 des troisième à cinquième alinéas du présent IV, dans leur rédaction résultant de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
+
 E. En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part du montant du prélèvement ou du reversement de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux 1° et 2° du a du D du présent IV et le prélèvement ou le reversement de l'établissement public concerné est diminué de cette part.
 
 Lorsque, à la suite de son retrait d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, la fraction de reversement sur les ressources, calculée selon les conditions prévues aux mêmes 1° et 2°, est versée au profit de cet établissement public.
 
 Lorsque, à la suite de son retrait d'un établissement public de coopération intercommunale auquel elle adhérait, une commune est devenue membre d'un nouvel établissement public de coopération intercommunale dans le cadre d'une procédure de fusion, de modification de périmètre ou d'adhésion individuelle, le prélèvement sur les ressources, calculé selon les conditions prévues auxdits 1° et 2°, est mis à la charge de cet établissement public.
+
+En cas de retrait d'une commune d'un établissement public de coopération intercommunale à fiscalité propre au 1er janvier 2011, les trois premiers alinéas du présent E s'appliquent, à compter du 1er janvier 2014 et pour les années ultérieures, aux communes et aux établissements publics de coopération intercommunale à fiscalité propre auxquels il a été fait application jusqu'au 31 décembre 2013 des troisième à cinquième alinéas du présent IV, dans leur rédaction résultant de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
 F.-a. Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le reversement sur les ressources calculé conformément au III du présent 2.1 et au présent IV, minoré des reversements perçus par la commune au titre de 2009 en vertu du 2° du II de l'article 1648 A du même code dans sa rédaction en vigueur au 31 décembre 2009, est versé au profit de cet établissement public.
 
@@ -332,13 +340,15 @@ Pour l'application du premier alinéa du présent 1°, les recettes fiscales s'e
 
 Les pertes de base ou de produit liées au rattachement d'une commune à un établissement public de coopération intercommunale à fiscalité propre, au changement de périmètre ou de régime fiscal d'un établissement public de coopération intercommunale à fiscalité propre ou à la modification de la fraction de cotisation sur la valeur ajoutée revenant, suivant le cas, à la commune ou à l'établissement public de coopération intercommunale en application de l'article 1609 quinquies BA du code général des impôts ne donnent pas lieu à compensation ;
 
+Les pertes de base ou de produit consécutives à la prise en charge de tout ou partie de la fraction de la cotisation minimum de cotisation foncière des entreprises due au titre de 2012, prévue à l'article 46 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, ne donnent pas lieu à compensation. Il en va de même des pertes de base ou de produit consécutives à la prise en charge de tout ou partie de la fraction de la cotisation minimum de cotisation foncière des entreprises due au titre de 2013, prévue au III de l'article 76 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 (1) ;
+
 2° Aux départements et régions qui comprennent sur leur territoire au moins une commune ou un établissement public de coopération intercommunale doté d'une fiscalité propre qui bénéficie de la compensation prévue au 1°, sous réserve qu'ils enregistrent la même année, par rapport à l'année précédente, une perte importante, au regard de leurs recettes fiscales, de produit de cotisation sur la valeur ajoutée des entreprises afférent aux entreprises situées sur le territoire de ces communes ou établissements publics de coopération intercommunale dotés d'une fiscalité propre et à l'origine de la perte de base de cotisation foncière des entreprises.
 
 Pour l'application du premier alinéa du présent 2°, sont prises en compte les impositions mentionnées, respectivement, pour les départements et les régions, aux articles 1586 et 1599 bis du code général des impôts, majorées ou minorées des ressources perçues ou prélevées au titre du 2 du présent article.
 
 II.-La compensation prévue au I est assise :
 
-1° Pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre, sur la perte de produit de contribution économique territoriale calculée conformément au 1° du même I ;
+1° Pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre, sur la perte de produit de contribution économique territoriale calculée conformément au 1° du même I, déduction faite, le cas échéant, de la perte de produit résultant de la prise en charge de tout ou partie de la fraction de la cotisation minimum de cotisation foncière des entreprises prévue à l'article 46 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 ainsi qu'au III de l'article 76 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 ;
 
 2° Pour les départements, sur le montant de la perte de produit de cotisation sur la valeur ajoutée des entreprises constatée la même année par les communes et les établissements publics de coopération intercommunale situés sur leur territoire et ayant ouvert droit à compensation, multiplié par un rapport égal à 48,5 sur 26,5 ;
 
@@ -419,6 +429,7 @@ A modifié les dispositions suivantes :
 >
 >
 >
+>
 > Art. 1648 AA
 >
 >
@@ -437,6 +448,7 @@ A modifié les dispositions suivantes :
 >
 >
 > > -Code général des impôts, CGI.
+> >
 > >
 > >
 > >
