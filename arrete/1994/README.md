@@ -279,7 +279,6 @@
 - [Arrêté du 9 mars 1994 (SPSS9400781A)](arrete-du-9-mars-1994-spss9400781a)
 - [Arrêté du 9 novembre 1994 (ECOC9400131A)](arrete-du-9-novembre-1994-ecoc9400131a)
 - [Arrêté du 9 novembre 1994 (EQUZ9401747A)](arrete-du-9-novembre-1994-equz9401747a)
-- [Arrêté du 9 novembre 1994 (INDB9401374A)](arrete-du-9-novembre-1994-indb9401374a)
 - [Arrêté du 9 novembre 1994 (INTB9400604A)](arrete-du-9-novembre-1994-intb9400604a)
 - [Arrêté du 9 novembre 1994 (MENL9401934A)](arrete-du-9-novembre-1994-menl9401934a)
 - [Arrêté du 9 septembre 1994 (AGRG9401749A)](arrete-du-9-septembre-1994-agrg9401749a)

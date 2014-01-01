@@ -335,7 +335,6 @@
 - [Arrêté du 6 avril 2011 (MENE1109651A)](arrete-du-6-avril-2011-mene1109651a)
 - [Arrêté du 6 avril 2011 (MENE1109663A)](arrete-du-6-avril-2011-mene1109663a)
 - [Arrêté du 6 avril 2011 (MENE1109664A)](arrete-du-6-avril-2011-mene1109664a)
-- [Arrêté du 6 décembre 2005 (EQUP0501982A)](arrete-du-6-decembre-2005-equp0501982a)
 - [Arrêté du 6 décembre 2010 (DEVA1031166A)](arrete-du-6-decembre-2010-deva1031166a)
 - [Arrêté du 6 décembre 2010 (ETSD1031155A)](arrete-du-6-decembre-2010-etsd1031155a)
 - [Arrêté du 6 décembre 2010 (ETSS1031279A)](arrete-du-6-decembre-2010-etss1031279a)

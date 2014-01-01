@@ -575,7 +575,6 @@
 - [Décret n°2009-190 du 17 février 2009 (LOGA0902137D)](decret-n2009-190-du-17-fevrier-2009-loga0902137d)
 - [Décret n°2009-299 du 17 mars 2009 (MTSA0827500D)](decret-n2009-299-du-17-mars-2009-mtsa0827500d)
 - [Décret n°2009-300 du 17 mars 2009 (BCFP0826067D)](decret-n2009-300-du-17-mars-2009-bcfp0826067d)
-- [Décret n°2009-424 du 17 avril 2009 (DEVU0811478D)](decret-n2009-424-du-17-avril-2009-devu0811478d)
 - [Décret n°2009-429 du 17 avril 2009 (JUSC0902660D)](decret-n2009-429-du-17-avril-2009-jusc0902660d)
 - [Décret n°2009-718 du 17 juin 2009 (SJSP0823708D)](decret-n2009-718-du-17-juin-2009-sjsp0823708d)
 - [Décret n°2009-719 du 17 juin 2009 (SASV0912920D)](decret-n2009-719-du-17-juin-2009-sasv0912920d)

@@ -896,7 +896,6 @@
 - [Décret n°2012-1101 du 28 septembre 2012 (RDFF1220741D)](decret-n2012-1101-du-28-septembre-2012-rdff1220741d)
 - [Décret n°2012-1325 du 28 novembre 2012 (AGRT1235600D)](decret-n2012-1325-du-28-novembre-2012-agrt1235600d)
 - [Décret n°2012-1326 du 28 novembre 2012 (BUDB1232623D)](decret-n2012-1326-du-28-novembre-2012-budb1232623d)
-- [Décret n°2012-1496 du 28 décembre 2012 (ETSD1242315D)](decret-n2012-1496-du-28-decembre-2012-etsd1242315d)
 - [Décret n°2012-1497 du 28 décembre 2012 (ETSD1240740D)](decret-n2012-1497-du-28-decembre-2012-etsd1240740d)
 - [Décret n°2012-1505 du 28 décembre 2012 (OMEO1241792D)](decret-n2012-1505-du-28-decembre-2012-omeo1241792d)
 - [Décret n°2012-1512 du 28 décembre 2012 (MENF1235646D)](decret-n2012-1512-du-28-decembre-2012-menf1235646d)
