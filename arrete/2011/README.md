@@ -362,7 +362,6 @@
 - [Arrêté du 6 janvier 2011 (IOCC1027995A)](arrete-du-6-janvier-2011-iocc1027995a)
 - [Arrêté du 6 janvier 2011 (IOCC1028005A)](arrete-du-6-janvier-2011-iocc1028005a)
 - [Arrêté du 6 janvier 2011 (IOCC1028008A)](arrete-du-6-janvier-2011-iocc1028008a)
-- [Arrêté du 6 janvier 2011 (MAEA1100290A)](arrete-du-6-janvier-2011-maea1100290a)
 - [Arrêté du 6 janvier 2011 (MCCB1033369A)](arrete-du-6-janvier-2011-mccb1033369a)
 - [Arrêté du 6 janvier 2011 (MENH1031004A)](arrete-du-6-janvier-2011-menh1031004a)
 - [Arrêté du 6 juillet 2011 (AGRS1118614A)](arrete-du-6-juillet-2011-agrs1118614a)
