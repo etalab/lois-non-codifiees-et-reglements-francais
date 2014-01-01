@@ -10,17 +10,35 @@ Le dossier de demande d'attestation de capacité délivrée en application de l'
 
 4° Les types et les quantités d'outillages que l'opérateur détient, dans l'établissement pour lequel il a demandé une attestation, pour exercer les différentes activités prévues, ainsi que les justificatifs de la détention de ces outillages et de la dernière vérification dont ils ont fait l'objet ;
 
-5° L'engagement de l'opérateur de transmettre, au plus tard le 31 janvier de chaque année, à l'organisme agréé visé à l' article R. 543-108 du code de l'environnement  qui lui a délivré l'attestation de capacité, une déclaration concernant l'établissement pour lequel il sollicite l'attestation de capacité, et précisant, pour chaque fluide frigorigène contenant des substances mentionnées à l'article R. 543-75 du code de l'environnement :
+5° L'engagement de l'opérateur de transmettre, au plus tard le 31 janvier de chaque année, à l'organisme agréé visé à l'article R. 543-108 du code de l'environnement qui lui a délivré l'attestation de capacité, une déclaration concernant l'établissement pour lequel il sollicite l'attestation de capacité, et précisant, pour chaque type de fluide énuméré à l'article R. 543-75 du code de l'environnement, les quantités qu'il a :
 
-― les quantités de fluides achetées au cours de l'année civile précédente ;
+1. Acquises à titre onéreux ou gratuit au cours de l'année civile précédente ;
 
-― les quantités de fluides chargées dans des équipements au cours de l'année civile précédente ;
+2. Chargées dans des équipements au cours de l'année civile précédente en distinguant les quantités :
 
-― les quantités de fluides récupérées au cours de l'année civile précédente, en distinguant celles destinées à être traitées sous leur responsabilité, remises aux distributeurs ou conservées pour une réutilisation ;
+a) Chargées dans des équipements neufs ;
 
-― les quantités de fluides détenues au 1er janvier et au 31 décembre de l'année civile précédente ;
+b) Chargées lors de la maintenance des équipements ;
 
-― les quantités de fluides cédées au cours de l'année civile précédente à un autre opérateur attesté en précisant le nom de ce dernier.
+3. Récupérées au cours de l'année civile précédente en distinguant les quantités :
+
+a) Récupérées dans des équipements hors d'usage ;
+
+b) Récupérées lors d'opérations de maintenance des équipements ;
+
+4. Remises à un distributeur pour être traitées ;
+
+5. Traitées sous la propre responsabilité de l'opérateur en distinguant les quantités :
+
+a) Recyclées ;
+
+b) Régénérées, en précisant les coordonnées de l'installation de régénération ;
+
+c) Détruites, en précisant les coordonnées de l'installation de destruction ;
+
+6. Cédées au cours de l'année civile précédente à un autre opérateur attesté, distributeur ou producteur d'équipements identifié à l'article R. 543-76 du code de l'environnement ;
+
+7. Stockées au 1er janvier et au 31 décembre de l'année civile précédente, en distinguant les fluides neufs des déchets de fluides frigorigènes.
 
 Cette déclaration mentionne en outre l'identité, la dénomination ou la raison sociale, l'adresse et le numéro SIRET de l'établissement ainsi que son numéro d'attestation de capacité ;
 
