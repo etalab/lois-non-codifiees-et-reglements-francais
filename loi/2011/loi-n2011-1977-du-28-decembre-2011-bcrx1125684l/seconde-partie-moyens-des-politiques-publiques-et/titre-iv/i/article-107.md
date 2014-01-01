@@ -2,7 +2,7 @@
 
 Est jointe au projet de loi de finances de l'année une annexe récapitulant les engagements financiers pris par les organismes français, autres que l'Etat, la Caisse d'amortissement de la dette sociale et la Caisse de la dette publique, relevant de la catégorie des administrations publiques centrales au sens du règlement (CE) n° 2223/96 du Conseil, du 25 juin 1996, relatif au système européen des comptes nationaux et régionaux dans la Communauté.
 
-Les engagements financiers au sens du présent article s'entendent des emprunts contractés auprès d'un établissement de crédit, des titres de créance émis ainsi que des garanties et cautions accordées.
+Les engagements financiers au sens du présent article s'entendent des emprunts contractés auprès     d'un établissement de crédit ou d'une société de financement, des titres de créance émis ainsi que des garanties et cautions accordées.
 
 Cette annexe précise, pour chacun de ces engagements, son montant, sa durée et l'objectif qui le justifie. Elle indique le bénéficiaire de chacune des garanties, cautions et engagements de même nature.
 

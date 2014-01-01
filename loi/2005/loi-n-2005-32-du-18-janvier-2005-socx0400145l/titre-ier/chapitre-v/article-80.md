@@ -1,6 +1,6 @@
 # Article 80
 
-I. - L'aide apportée par l'Etat aux maisons de l'emploi, en application de l'article L. 311-10 du code du travail, est financée par des crédits ouverts par les lois de finances des années 2005 à 2009 selon la programmation suivante :
+I.-L'aide apportée par l'Etat aux maisons de l'emploi, en application de l'article L. 311-10 du code du travail, est financée par des crédits ouverts par les lois de finances des années 2005 à 2009 selon la programmation suivante :
 
 (En millions d'euros valeur 2004)
 
@@ -24,7 +24,7 @@ I. - L'aide apportée par l'Etat aux maisons de l'emploi, en application de l'ar
 
 !--------------------------------!------!------!------!------!
 
-II. - 1. Le nombre de contrats d'avenir proposés entre 2005 et 2009 s'élève à un million, selon l'échéancier suivant :
+II.-1. Le nombre de contrats d'avenir proposés entre 2005 et 2009 s'élève à un million, selon l'échéancier suivant :
 
 !--------------------------------------------------------------!
 
@@ -52,11 +52,11 @@ II. - 1. Le nombre de contrats d'avenir proposés entre 2005 et 2009 s'élève �
 
 !---------------!--------!--------!--------!--------!--------!
 
-III. - 1. L'Etat finance, par des crédits ouverts en loi de finances, un fonds ayant pour objet de garantir des prêts à des fins sociales. Les établissements de crédit, les collectivités territoriales et les organismes de sécurité sociale peuvent également contribuer à son financement.
+III.-1. L'Etat finance, par des crédits ouverts en loi de finances, un fonds ayant pour objet de garantir des prêts à des fins sociales. Les établissements de crédit, les sociétés de financement, les collectivités territoriales et les organismes de sécurité sociale peuvent également contribuer à son financement.
 
 2. Les prêts garantis par le fonds sont :
 
-a) Les prêts destinés à participer au financement de projets d'insertion accordés à des personnes physiques confrontées à des difficultés de financement, dont les capacités de remboursement de ces prêts sont jugées suffisantes par les prêteurs et qui bénéficient d'un accompagnement social. Ces prêts sont accordés afin de permettre l'accès, le maintien ou le retour à un emploi.L'inscription des personnes intéressées au fichier national recensant les informations sur les incidents de paiement caractérisés liés aux crédits accordés aux personnes physiques pour des besoins non professionnels prévu à l'article L. 333-4 du code de la consommation ne peut constituer en soi un motif de refus de ces prêts. Ces prêts peuvent également être accordés pour la réalisation de projets d'insertion sociale qui ne sont pas directement liés à un objectif professionnel ;
+a) Les prêts destinés à participer au financement de projets d'insertion accordés à des personnes physiques confrontées à des difficultés de financement, dont les capacités de remboursement de ces prêts sont jugées suffisantes par les prêteurs et qui bénéficient d'un accompagnement social. Ces prêts sont accordés afin de permettre l'accès, le maintien ou le retour à un emploi. L'inscription des personnes intéressées au fichier national recensant les informations sur les incidents de paiement caractérisés liés aux crédits accordés aux personnes physiques pour des besoins non professionnels prévu à l'article L. 333-4 du code de la consommation ne peut constituer en soi un motif de refus de ces prêts. Ces prêts peuvent également être accordés pour la réalisation de projets d'insertion sociale qui ne sont pas directement liés à un objectif professionnel ;
 
 b) Les prêts alloués par les organismes habilités au titre du 5 de l'article L. 511-6 du code monétaire et financier aux entreprises durant les cinq premières années suivant leur création ou leur reprise et n'employant pas plus de trois salariés ;
 
@@ -72,7 +72,7 @@ e) Les prêts alloués aux entreprises d'insertion, aux entreprises adaptées et
 
 A la dernière phrase du 1, les mots : ", les collectivités territoriales et les organismes de sécurité sociale " sont remplacés par les mots : " et les collectivités territoriales ".
 
-IV. - La programmation des aides aux structures d'insertion par l'activité économique s'établit comme suit :
+IV.-La programmation des aides aux structures d'insertion par l'activité économique s'établit comme suit :
 
 1° Le nombre de postes aidés dans les entreprises d'insertion en application de l'article L. 322-4-16 du code du travail, et dans les groupements d'employeurs mentionnés à l'article L. 127-1 du même code, qui conduisent une action d'insertion, est fixé comme suit pour les années 2005 à 2009 :
 
@@ -114,6 +114,6 @@ IV. - La programmation des aides aux structures d'insertion par l'activité éco
 
 !------------------!------!------!------!------!------!
 
-! Dotation de l'Etat ! 13, 4 ! 18 ! 21 ! 21 ! 21 !
+! Dotation de l'Etat ! 13,4 ! 18 ! 21 ! 21 ! 21 !
 
 !------------------!------!------!------!------!------!

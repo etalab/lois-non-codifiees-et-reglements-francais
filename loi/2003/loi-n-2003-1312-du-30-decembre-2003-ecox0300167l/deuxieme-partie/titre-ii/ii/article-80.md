@@ -1,6 +1,6 @@
 # Article 80
 
-I. - Sont autorisés au sens de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances les garanties suivantes, accordées par l'Etat :
+I.-Sont autorisés au sens de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances les garanties suivantes, accordées par l'Etat :
 
 1° (Abrogé) ;
 
@@ -30,13 +30,13 @@ I. - Sont autorisés au sens de l'article 61 de la loi organique n° 2001-692 du
 
 14° La garantie accordée à la Caisse nationale de crédit agricole en application de l'article 673 du code rural ancien ;
 
-15° Les garanties accordées à des établissements de crédit en application de l'article 10 de la loi n° 87-549 du 16 juillet 1987 relative au règlement de l'indemnisation des rapatriés ;
+15° Les garanties accordées à des établissements de crédit ou des sociétés de financement en application de l'article 10 de la loi n° 87-549 du 16 juillet 1987 relative au règlement de l'indemnisation des rapatriés ;
 
 16° Les garanties accordées aux prêts octroyés par la Banque européenne d'investissement sur ses ressources propres en vue de réaliser des investissements sur le territoire français ainsi que dans les Etats d'Afrique, des Caraïbes, du Pacifique et dans les pays et territoires d'outre-mer ;
 
 17° La garantie accordée en application de la loi n° 93-20 du 7 janvier 1993 relative à l'institution d'une garantie de l'Etat pour certaines expositions temporaires d'oeuvres d'art ;
 
-18° La garantie accordée au Crédit d'équipement des petites et moyennes entreprises en application de la loi n° 53-80 du 7 février 1953 relative au développement des dépenses d'investissements pour l'exercice 1953 (Equipement des services civils. - Investissements économiques et sociaux. - Réparations des dommages de guerre) ;
+18° La garantie accordée au Crédit d'équipement des petites et moyennes entreprises en application de la loi n° 53-80 du 7 février 1953 relative au développement des dépenses d'investissements pour l'exercice 1953 (Equipement des services civils.-Investissements économiques et sociaux.-Réparations des dommages de guerre) ;
 
 19° Les garanties d'emprunts accordées à la Société financière des sociétés de développement régional (FINANSDER) en application de la loi n° 53-80 du 7 février 1953 précitée ;
 
@@ -48,7 +48,7 @@ I. - Sont autorisés au sens de l'article 61 de la loi organique n° 2001-692 du
 
 23° La garantie de l'Etat accordée au financement des régimes spécifiques de retraites versées aux personnels de chemins de fer secondaires d'intérêt général ou de voies ferrées d'intérêt local :
 
-le chemin de fer de La Mure et la ligne Lyon - Croix-Rousse, les pensions des anciens agents des chemins de fer d'Afrique du Nord et du Niger-Méditerranée, des transports urbains tunisiens et marocains et du chemin de fer franco-éthopien ;
+le chemin de fer de La Mure et la ligne Lyon-Croix-Rousse, les pensions des anciens agents des chemins de fer d'Afrique du Nord et du Niger-Méditerranée, des transports urbains tunisiens et marocains et du chemin de fer franco-éthopien ;
 
 24° La garantie de l'Etat accordée au financement d'un complément de pensions aux conducteurs routiers, partis à la retraite à soixante ans, soit à l'issue de leur activité pour ce qui est notamment de certains salariés des transports routiers, soit à l'issue de leur congé de fin d'activité s'ils ont un nombre insuffisant de trimestres pour bénéficier d'une pension à taux plein du régime général ;
 
@@ -60,7 +60,7 @@ le chemin de fer de La Mure et la ligne Lyon - Croix-Rousse, les pensions des an
 
 28° La garantie de l'Etat accordée par le ministre chargé de l'économie dans le cadre des concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes, conformément aux dispositions des cahiers des charges des concessions aéroportuaires établis en conformité avec le cahier des charges type approuvé par le décret n° 97-547 du 29 mai 1997 ;
 
-29° La garantie accordée par l'Etat, en application de la loi n° 53-80 du 7 février 1953 relative au développement des dépenses d'investissements pour l'exercice 1953 (équipement des services civils - investissements économiques et sociaux - réparation des dommages de guerre), aux emprunts de la Compagnie nationale d'aménagement de la région du Bas-Rhône et du Languedoc souscrits entre 1980 et 1994 ;
+29° La garantie accordée par l'Etat, en application de la loi n° 53-80 du 7 février 1953 relative au développement des dépenses d'investissements pour l'exercice 1953 (équipement des services civils-investissements économiques et sociaux-réparation des dommages de guerre), aux emprunts de la Compagnie nationale d'aménagement de la région du Bas-Rhône et du Languedoc souscrits entre 1980 et 1994 ;
 
 30° La garantie accordée par l'Etat aux emprunts contractés par le Crédit foncier de France, en application de la loi n° 53-80 du 7 février 1953 précitée et des arrêtés des 1er avril 1982 et 27 juin 1985, et transférés à la Compagnie de financement foncier en application de l'article 110 de la loi n° 99-532 du 25 juin 1999 relative à l'épargne et à la sécurité financière ;
 
@@ -70,13 +70,13 @@ le chemin de fer de La Mure et la ligne Lyon - Croix-Rousse, les pensions des an
 
 33° La garantie de l'Etat accordée pour couvrir les pertes de change subies par la Banque de France dans les conditions prévues par l'article L. 141-2 du code monétaire et financier telles que précisées par la convention du 31 mars 1999 entre l'Etat et la Banque de France.
 
-II. - Sont garanties par l'Etat, dans le cadre des engagements pris par lui, à raison de leurs interventions au titre de l'accord global de financement de la société Alstom :
+II.-Sont garanties par l'Etat, dans le cadre des engagements pris par lui, à raison de leurs interventions au titre de l'accord global de financement de la société Alstom :
 
-a) La Caisse française de développement industriel (CFDI), au titre des opérations de contre-garantie de cautions émises par des établissements de crédit et des entreprises d'assurance au profit de la société Alstom, et de sa participation à un prêt syndiqué subordonné souscrit le 30 septembre 2003 au bénéfice de cette même société ;
+a) La Caisse française de développement industriel (CFDI), au titre des opérations de contre-garantie de cautions émises par des établissements de crédit, des sociétés de financement et des entreprises d'assurance au profit de la société Alstom, et de sa participation à un prêt syndiqué subordonné souscrit le 30 septembre 2003 au bénéfice de cette même société ;
 
 b) La Caisse des dépôts et consignations, pour le capital des billets de trésorerie qu'elle a souscrits au profit de la société Alstom, dans la limite de 1 200 millions d'euros jusqu'à la mise en place des financements subordonnés auxquels l'Etat s'est engagé et, ultérieurement, jusqu'au 8 février 2005, dans la limite de 400 millions d'euros, sous réserve des remboursements prévus par l'accord.
 
-III. - A. - Pour les exercices 2004 et 2005, est jointe au compte général de l'administration des finances déposé à l'appui du projet de loi de règlement une annexe récapitulant, pour chaque dispositif de garantie de l'Etat :
+III.-A.-Pour les exercices 2004 et 2005, est jointe au compte général de l'administration des finances déposé à l'appui du projet de loi de règlement une annexe récapitulant, pour chaque dispositif de garantie de l'Etat :
 
 1° Le régime de la garantie autorisée, y compris son éventuelle rémunération ;
 
@@ -88,6 +88,6 @@ III. - A. - Pour les exercices 2004 et 2005, est jointe au compte général de l
 
 Pour l'exercice 2004, l'annexe précise les conditions dans lesquelles il semble possible au Gouvernement de faire rémunérer les garanties de l'Etat.
 
-B. - (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003.)
+B.-(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003.)
 
 C. Paragraphe modificateur

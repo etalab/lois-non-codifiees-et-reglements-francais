@@ -4,7 +4,7 @@ Les instruments éligibles en tant que sûreté visés à l'article 164-1 doiven
 
 a) La qualité de crédit du débiteur et la valeur de l'instrument ne sont pas corrélées positivement de manière significative. Les instruments émis par le débiteur, ou par toute entité appartenant au même groupe, ne sont pas éligibles.
 
-Les obligations foncières, ou autres ressources bénéficiant du privilège mentionnées au 2° du I de l'article L. 515-13 du code monétaire et financier, émises par le débiteur sont éligibles lorsqu'elles sont reçues en pension et lorsque la qualité de crédit du débiteur et la valeur de ces obligations ou ressources ne sont pas corrélées positivement de manière significative ;
+Les obligations foncières, ou autres ressources bénéficiant du privilège mentionnées au 2° du I de l'article    L.513-2 du code monétaire et financier, émises par le débiteur sont éligibles lorsqu'elles sont reçues en pension et lorsque la qualité de crédit du débiteur et la valeur de ces obligations ou ressources ne sont pas corrélées positivement de manière significative ;
 
 b) Les établissements assujettis prennent les mesures nécessaires pour assurer la mise en oeuvre effective des sûretés en cause, notamment en satisfaisant à l'ensemble des obligations contractuelles et dispositions réglementaires applicables. Ils procèdent à un examen juridique pour s'assurer que lesdites sûretés peuvent être effectivement mises en oeuvre dans toutes les juridictions concernées. Cet examen est reconduit autant que nécessaire ;
 

@@ -36,7 +36,7 @@ Peuvent être mobilisés en application du présent article :
 
 2° Les prêts exclusivement affectés au financement d'un bien immobilier situé en France, sous la forme d'une opération de crédit-bail ou assortis d'un cautionnement d'un établissement de crédit ou d'une entreprise d'assurance ;
 
-3° Les prêts mentionnés aux I et II de l'article L. 515-15 du code monétaire et financier ;
+3° Les prêts mentionnés aux I et II de l'article L. 513-4 du code monétaire et financier ;
 
 4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel et de résolution conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément aux articles L. 511-41 et L. 613-20-4 dudit code ;
 

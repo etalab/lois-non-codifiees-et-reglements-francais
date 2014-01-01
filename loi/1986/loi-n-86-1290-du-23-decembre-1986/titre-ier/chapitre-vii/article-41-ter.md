@@ -4,13 +4,13 @@ Des accords collectifs de location peuvent être conclus, pour un ou plusieurs s
 
 Les secteurs locatifs sont les suivants :
 
-- logements appartenant ou gérés par les organismes d'habitations à loyer modéré ;
+-logements appartenant ou gérés par les organismes d'habitations à loyer modéré ;
 
-- logements appartenant aux sociétés d'économie mixte, aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations, aux collectivités publiques, aux sociétés filiales d'un organisme collecteur de la contribution des employeurs à l'effort de construction et aux filiales de ces organismes autres que celles mentionnées à l'alinéa ci-dessus ;
+-logements appartenant aux sociétés d'économie mixte, aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations, aux collectivités publiques, aux sociétés filiales d'un organisme collecteur de la contribution des employeurs à l'effort de construction et aux filiales de ces organismes autres que celles mentionnées à l'alinéa ci-dessus ;
 
-- logements appartenant aux entreprises d'assurance, aux établissements de crédit et aux filiales de ces organismes et aux personnes morales autres que celles mentionnées aux deux alinéas précédents ;
+-logements appartenant aux entreprises d'assurance, aux établissements de crédit, aux sociétés de financement et aux filiales de ces organismes et aux personnes morales autres que celles mentionnées aux deux alinéas précédents ;
 
-- logements appartenant aux bailleurs personnes physiques et aux sociétés civiles immobilières constituées exclusivement entre parents et alliés jusqu'au quatrième degré inclus.
+-logements appartenant aux bailleurs personnes physiques et aux sociétés civiles immobilières constituées exclusivement entre parents et alliés jusqu'au quatrième degré inclus.
 
 Ces accords portent notamment sur les suppléments de loyers pour les organismes d'habitations à loyer modéré, la maîtrise de l'évolution des charges récupérables, la grille de vétusté, l'amélioration et l'entretien des logements et des parties communes, les locaux résidentiels à usage commun.
 
