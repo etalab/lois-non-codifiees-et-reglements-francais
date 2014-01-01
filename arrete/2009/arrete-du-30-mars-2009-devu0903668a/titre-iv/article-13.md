@@ -1,10 +1,10 @@
 # Article 13
 
-Les justifications prévues à l'article R. 319-19 à l'appui de la demande de prêt sont fournies par l'emprunteur à l'établissement de crédit selon le modèle donné en annexe 3 du présent arrêté.
+Les justifications prévues aux articles R. 319-19 et R319-33 à l'appui de la demande de prêt sont fournies par l'emprunteur à l'établissement de crédit selon le modèle donné en annexe 3 du présent arrêté ou, dans le cas d'une demande effectuée au titre de l'article R. 319-23, en annexe 5 du présent arrêté.
 
 L'emprunteur certifie l'exactitude des renseignements déclarés et reconnaît les obligations qui lui incombent au titre de l'avance remboursable sans intérêt. En outre, il renseigne le montant et la durée de l'avance qu'il demande en application des dispositions des articles R. 319-5 et R. 319-8.
 
-Les entreprises réalisant les travaux ou, le cas échéant, le syndic de copropriété pour le seul montant prévisionnel revenant au logement remplissent ce formulaire dans les champs prévus à cet effet en précisant :
+Les entreprises réalisant les travaux ou, le cas échéant, le syndic de copropriété pour le seul montant prévisionnel revenant au logement ou, dans le cas d'une demande effectuée au titre de l'article R. 319-23, pour le seul montant prévisionnel revenant aux logements appartenant aux copropriétaires participant à l'avance, remplissent ce formulaire dans les champs prévus à cet effet en précisant :
 
 ― le nom de l'entreprise ;
 
@@ -16,7 +16,7 @@ Les entreprises réalisant les travaux ou, le cas échéant, le syndic de coprop
 
 ― la description et la performance des ouvrages ou équipements installés ;
 
-― le montant prévisionnel revenant au logement de ces travaux, pour la fourniture et pour la main-d'œuvre.
+― le montant prévisionnel revenant au logement ou aux logements de ces travaux pour la fourniture et pour la main-d'œuvre.
 
 Les entreprises visent le formulaire et certifient sur l'honneur que les équipements, appareils et matériaux visés par l'attestation respectent les conditions prévues par le présent arrêté.
 

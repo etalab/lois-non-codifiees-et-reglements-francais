@@ -101,8 +101,6 @@
 - [Arrêté du 7 décembre 2005 (SOCU0512086A)](arrete-du-7-decembre-2005-socu0512086a)
 - [Arrêté du 7 décembre 2005 (SOCU0512087A)](arrete-du-7-decembre-2005-socu0512087a)
 - [Arrêté du 7 février 2005 (DEVO0430401A)](arrete-du-7-fevrier-2005-devo0430401a)
-- [Arrêté du 7 février 2005 (DEVP0540077A)](arrete-du-7-fevrier-2005-devp0540077a)
-- [Arrêté du 7 février 2005 (DEVP0540078A)](arrete-du-7-fevrier-2005-devp0540078a)
 - [Arrêté du 7 février 2005 (EQUA0500250A)](arrete-du-7-fevrier-2005-equa0500250a)
 - [Arrêté du 7 juillet 2005 (ECOT0551042A)](arrete-du-7-juillet-2005-ecot0551042a)
 - [Arrêté du 7 juillet 2005 (SANA0522349A)](arrete-du-7-juillet-2005-sana0522349a)

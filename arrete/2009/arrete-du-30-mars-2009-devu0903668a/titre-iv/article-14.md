@@ -1,10 +1,10 @@
 # Article 14
 
-Les justifications prévues à l'article R. 319-20 qui permettent d'attester de la réalisation effective des travaux sont fournies par l'emprunteur à l'établissement de crédit selon le modèle donné en annexe 4 du présent arrêté dans le délai prévu à ce même article.
+Les justifications prévues à l'article R. 319-20 qui permettent d'attester de la réalisation effective des travaux sont fournies par l'emprunteur à l'établissement de crédit selon le modèle donné en annexe 4 du présent arrêté dans le délai prévu à ce même article ou, dans le cas d'une demande effectuée au titre de l'article R. 319-23, selon le modèle donné en annexe 6 du présent arrêté, dans le délai prévu à l'article R. 319-20.
 
 L'emprunteur certifie l'exactitude des renseignements déclarés et reconnaît les obligations qui lui incombent au titre de l'avance remboursable sans intérêt. En outre, il atteste du montant et de la durée de l'avance dont il a effectivement bénéficié.
 
-Les entreprises ayant réalisé les travaux ou, le cas échéant, le syndic de copropriété pour le seul montant revenant au logement remplissent ce formulaire dans les champs prévus à cet effet en précisant :
+Les entreprises ayant réalisé les travaux ou, le cas échéant, le syndic de copropriété pour le seul montant revenant au logement ou, dans le cas d'une demande effectuée au titre de l'article R. 319-23, pour le seul montant prévisionnel revenant aux logements appartenant aux copropriétaires participant à l'avance, remplissent ce formulaire dans les champs prévus à cet effet en précisant :
 
 ― le nom de l'entreprise ;
 
@@ -16,7 +16,7 @@ Les entreprises ayant réalisé les travaux ou, le cas échéant, le syndic de c
 
 ― la description et la performance des ouvrages ou équipements installés ;
 
-― le montant revenant au logement de ces travaux, pour la fourniture et pour la main-d'œuvre.
+― le montant revenant au logement ou aux logements de ces travaux, pour la fourniture et pour la main-d'œuvre.
 
 Les entreprises visent le formulaire et certifient sur l'honneur que les équipements, appareils et matériaux visés par l'attestation respectent les conditions prévues par le présent arrêté.
 

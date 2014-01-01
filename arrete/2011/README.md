@@ -2172,7 +2172,6 @@
 - [Arrêté du 24 octobre 2011 (BCRB1122786A)](arrete-du-24-octobre-2011-bcrb1122786a)
 - [Arrêté du 24 octobre 2011 (BCRD1130249A)](arrete-du-24-octobre-2011-bcrd1130249a)
 - [Arrêté du 24 octobre 2011 (DEVA1125417A)](arrete-du-24-octobre-2011-deva1125417a)
-- [Arrêté du 24 octobre 2011 (DEVP1126934A)](arrete-du-24-octobre-2011-devp1126934a)
 - [Arrêté du 24 octobre 2011 (EFIP1128325A)](arrete-du-24-octobre-2011-efip1128325a)
 - [Arrêté du 24 octobre 2011 (ESRH1129351A)](arrete-du-24-octobre-2011-esrh1129351a)
 - [Arrêté du 24 octobre 2011 (ETSH1122259A)](arrete-du-24-octobre-2011-etsh1122259a)

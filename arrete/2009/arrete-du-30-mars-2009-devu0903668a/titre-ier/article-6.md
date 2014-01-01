@@ -1,6 +1,6 @@
 # Article 6
 
-Les travaux d'installation, de régulation ou de remplacement de systèmes de chauffage ou de production d'eau chaude sanitaire performants sont réalisés à l'aide d'une des solutions suivantes :
+Les travaux d'installation, de régulation ou de remplacement de systèmes de chauffage ou de production d'eau chaude sanitaire performants sont réalisés à l'aide des solutions suivantes :
 
 ― pose d'une chaudière à combustible fossile à condensation au sens de la directive européenne 92/42/CE, accompagnée d'un dispositif de programmation du chauffage ;
 
