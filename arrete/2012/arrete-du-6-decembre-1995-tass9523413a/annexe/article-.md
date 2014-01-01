@@ -114,18 +114,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>65.1AA</p>
+<p>65.1AB</p>
 </td>
 <td valign="top" width="550">
-<p>Organismes financiers. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>65.2AA</p>
-</td>
-<td valign="top" width="550">
-<p>Crédit-bail mobilier, location de brevets. </p>
+<p>Organismes et auxiliaires financiers. Bourse de commerce </p>
 </td>
 </tr>
 <tr>
@@ -138,26 +130,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>66.0AA</p>
+<p>66.0AB</p>
 </td>
 <td valign="top" width="550">
-<p>Assurances. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>67.1AA</p>
-</td>
-<td valign="top" width="550">
-<p>Auxiliaires financiers, bourse de commerce. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>67.2ZA</p>
-</td>
-<td valign="top" width="550">
-<p>Auxiliaires d'assurances. </p>
+<p>Assurances et auxiliaires d'assurances </p>
 </td>
 </tr>
 <tr>
@@ -170,26 +146,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>74.1AA</p>
+<p>74.1GD</p>
 </td>
 <td valign="top" width="550">
-<p>Cabinets juridiques et offices publics ou ministériels. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>74.1CA</p>
-</td>
-<td valign="top" width="550">
-<p>Cabinets d'expertise comptable et d'analyse financière. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>74.1GA</p>
-</td>
-<td valign="top" width="550">
-<p>Cabinets d'études informatiques et d'organisation. </p>
+<p>Crédit-bail mobilier et immobilier, location de brevets. Cabinets juridiques et offices publics ou ministériels. Cabinets d'expertise comptable et d'analyse financière. Cabinets d'études informatiques et d'organisation </p>
 </td>
 </tr>
 <tr>
@@ -202,18 +162,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>75.1AB</p>
+<p>75.1AF</p>
 </td>
 <td valign="top" width="550">
-<p>Administration centrale (agents de toutes catégories, membres des cabinets ministériels). </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>75.1AC</p>
-</td>
-<td valign="top" width="550">
-<p>Services extérieurs des administrations (y compris leurs établissements publics). </p>
+<p>Administration centrale et services extérieurs des administrations (y compris leurs établissements publics) </p>
 </td>
 </tr>
 <tr>
@@ -226,18 +178,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>75.3BA</p>
+<p>75.3BB</p>
 </td>
 <td valign="top" width="550">
-<p>Caisses de retraite ne relevant pas de la législation sur les assurances. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>75.3CD</p>
-</td>
-<td valign="top" width="550">
-<p>Couverture du risque chômage et autres garanties du maintien du revenu, y compris la Caisse nationale de surcompensation du bâtiment et des travaux publics. </p>
+<p>Couverture du risque chômage et autres garanties du maintien du revenu, y compris la Caisse nationale de surcompensation du bâtiment et des travaux publics et caisses de retraite ne relevant pas de la législation sur les assurances </p>
 </td>
 </tr>
 <tr>
@@ -326,10 +270,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>85.3KD</p>
+<p>85.3KL</p>
 </td>
 <td valign="top" width="550">
-<p>Association intermédiaire (personnes dépourvues d'emploi et mises à disposition pour une durée supérieure à celle prévue à l'article D. 241-6 du code de la sécurité sociale).</p>
+<p>Association intermédiaire (personnes dépourvues d'emploi et mises à disposition) </p>
 </td>
 </tr>
 <tr>
@@ -342,22 +286,6 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.1AC</p>
-</td>
-<td valign="top" width="550">
-<p>Ordres, syndicats et organisations professionnels d'employeurs et de non-salariés. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>91.1AD</p>
-</td>
-<td valign="top" width="550">
-<p>Organisations économiques. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
 <p>91.1AE</p>
 </td>
 <td valign="top" width="550">
@@ -366,18 +294,10 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>91.2ZA</p>
+<p>91.1AF</p>
 </td>
 <td valign="top" width="550">
-<p>Syndicats de salariés. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
-<p>91.3AA</p>
-</td>
-<td valign="top" width="550">
-<p>Organisations religieuses et philosophiques. </p>
+<p>Ordres. Syndicats et organisations professionnelles, économiques, religieuses, philosophiques, politiques </p>
 </td>
 </tr>
 <tr>
