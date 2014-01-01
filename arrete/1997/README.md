@@ -389,7 +389,6 @@
 - [Arrêté du 13 janvier 1997 (TASH9623745A)](arrete-du-13-janvier-1997-tash9623745a)
 - [Arrêté du 13 janvier 1997 (TASS9720009A)](arrete-du-13-janvier-1997-tass9720009a)
 - [Arrêté du 13 mars 1997 (ACVA9710014A)](arrete-du-13-mars-1997-acva9710014a)
-- [Arrêté du 13 mars 1997 (AGRM9700537A)](arrete-du-13-mars-1997-agrm9700537a)
 - [Arrêté du 13 mars 1997 (ECOR9705005A)](arrete-du-13-mars-1997-ecor9705005a)
 - [Arrêté du 13 mars 1997 (ECOT9720010A)](arrete-du-13-mars-1997-ecot9720010a)
 - [Arrêté du 13 mars 1997 (ENVE9760102A)](arrete-du-13-mars-1997-enve9760102a)

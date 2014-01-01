@@ -148,7 +148,6 @@
 - [Arrêté du 28 avril 2000 (INTD0000237A)](arrete-du-28-avril-2000-intd0000237a)
 - [Arrêté du 28 décembre 1999 (DEFP0001021A)](arrete-du-28-decembre-1999-defp0001021a)
 - [Arrêté du 28 décembre 2000 (ECOA0020031A)](arrete-du-28-decembre-2000-ecoa0020031a)
-- [Arrêté du 28 février 2000 (AGRM0000509A)](arrete-du-28-fevrier-2000-agrm0000509a)
 - [Arrêté du 28 février 2000 (MJSK9970083A)](arrete-du-28-fevrier-2000-mjsk9970083a)
 - [Arrêté du 28 juillet 2000 (EQUP0000696A)](arrete-du-28-juillet-2000-equp0000696a)
 - [Arrêté du 28 juin 2000 (DEFD0001720A)](arrete-du-28-juin-2000-defd0001720a)
