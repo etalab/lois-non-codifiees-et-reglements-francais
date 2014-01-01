@@ -1,60 +1,222 @@
 # Article 2
 
-<div>
-<br/>Les montants annuels de la part fonctionnelle de l'indemnité de responsabilité du corps préfectoral attribués aux sous-préfets sont fixés conformément au tableau ci-après :<br/>
-<div align="center">
+Les montants annuels de la part fonctionnelle de l'indemnité de responsabilité du corps préfectoral attribués aux sous-préfets sont fixés comme suit :
+
+a) Pour les agents nommés sur un poste territorial de sous-préfet ou changeant d'affectation après l'entrée en vigueur du présent arrêté :
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>SOUS-PRÉFET</th>
+<br/>SOUS-PRÉFET <br/>
+</th>
 <th>
-<br/>MONTANT ANNUEL DE LA PART FONCTIONNELLE<br/>de l'indemnité de responsabilité du corps préfectoral</th>
+<br/>MONTANT ANNUEL DE LA PART <br/>
+<br/>fonctionnelle (en euros) <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-préfet occupant un poste territorial de 1re catégorie :</td>
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle I <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>13 930 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>― classe 1</td>
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle II <br/>
+</td>
 <td align="center">
-<br/>13 930 €</td>
+<br/>12 000 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>― classe 2</td>
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle III <br/>
+</td>
 <td align="center">
-<br/>11 090 €</td>
+<br/>11 000 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-préfet occupant un poste territorial de 2e catégorie :</td>
+<br/>Sous-préfet occupant un poste territorial un poste territorial de classe IV <br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>8 910 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>― classe 3</td>
+<br/>Sous-préfet occupant un poste territorial de classe V <br/>
+</td>
 <td align="center">
-<br/>9 570 €</td>
+<br/>8 250 <br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>― classe 4</td>
-<td align="center">
-<br/>8 910 €</td>
-</tr>
-<tr>
-<td align="center">
-<br/>― classe 5</td>
-<td align="center">
-<br/>8 250 €</td>
-</tr>
+</tbody>
 </table>
 
-</div>
+b) A titre provisoire, pour les agents occupant un poste territorial de sous-préfet avant l'entrée en vigueur du présent arrêté :
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">
+<br/>SOUS-PRÉFET <br/>
+</th>
+<th>
+<br/>MONTANT ANNUEL <br/>
+<br/>de la part fonctionnelle <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Classement avant l'entrée <br/>
+<br/>en vigueur de l'arrêté <br/>
+<br/>du 4 janvier 2012 susvisé <br/>
+</th>
+<th colspan="2">
+<br/>Classement après l'entrée <br/>
+<br/>en vigueur de l'arrêté <br/>
+<br/>du 4 janvier 2012 susvisé <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-préfet occupant un poste <br/>
+<br/>territorial de classe 1 <br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle I <br/>
+</td>
+<td align="center">
+<br/>13 930 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <br/>
-<br/> Le montant annuel de référence de la part variable susceptible d'être versé aux sous-préfets en fonction de leur manière de servir et des résultats obtenus représente 65 % du montant annuel de la part fonctionnelle.</div>
+<br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle II <br/>
+</td>
+<td align="center">
+<br/>13 930 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle III <br/>
+</td>
+<td align="center">
+<br/>13 930 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-préfet occupant un poste <br/>
+<br/>territorial de classe 2 <br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle II <br/>
+</td>
+<td align="center">
+<br/>12 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle III <br/>
+</td>
+<td align="center">
+<br/>11 090 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-préfet occupant un poste <br/>
+<br/>territorial de classe 3 <br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial relevant de la classe fonctionnelle III <br/>
+</td>
+<td align="center">
+<br/>11 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial un poste territorial de classe IV <br/>
+</td>
+<td align="center">
+<br/>9 570 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-préfet occupant un poste <br/>
+<br/>territorial de classe 4 <br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial un poste territorial de classe IV <br/>
+</td>
+<td align="center">
+<br/>8 910 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial un poste territorial de classe V <br/>
+</td>
+<td align="center">
+<br/>8 910 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-préfet occupant un poste <br/>
+<br/>territorial de classe 5 <br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial un poste territorial de classe IV <br/>
+</td>
+<td align="center">
+<br/>8 910 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Sous-préfet occupant un poste territorial un poste territorial de classe V <br/>
+</td>
+<td align="center">
+<br/>8 250 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Le montant annuel de la part variable susceptible d'être versé aux sous-préfets en fonction de leur manière de servir et des résultats obtenus représente 65 % du montant annuel de la part fonctionnelle.

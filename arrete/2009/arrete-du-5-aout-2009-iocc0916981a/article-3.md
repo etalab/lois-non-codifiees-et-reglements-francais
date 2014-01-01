@@ -2,7 +2,7 @@
 
 La direction centrale de la police judiciaire comprend :
 
-― l'état-major, chargé notamment de la centralisation et de la diffusion de l'information opérationnelle ;
+― l'état-major, chargé notamment de la centralisation et de la diffusion de l'information opérationnelle ainsi que des relations avec le service d'information et de communication de la police nationale pour les actions de communication de la direction centrale ;
 
 ― la division des relations internationales ;
 

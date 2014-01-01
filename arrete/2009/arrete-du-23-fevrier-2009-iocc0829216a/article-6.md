@@ -6,6 +6,6 @@ La direction centrale des compagnies républicaines de sécurité comprend, outr
 
 - la brigade de direction ;
 
-- la cellule communication ;
+- la cellule partenariats ;
 
 - la cellule des problèmes humains.
