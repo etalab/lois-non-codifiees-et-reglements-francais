@@ -33,6 +33,7 @@
 - [Décret n°2006-1142 du 13 septembre 2006 (EQUU0601557D)](decret-n2006-1142-du-13-septembre-2006-equu0601557d)
 - [Décret n°2006-1143 du 13 septembre 2006 (EQUU0601558D)](decret-n2006-1143-du-13-septembre-2006-equu0601558d)
 - [Décret n°2006-1267 du 16 octobre 2006 (ECOP0600454D)](decret-n2006-1267-du-16-octobre-2006-ecop0600454d)
+- [Décret n°2006-304 du 16 mars 2006 (EQUX0500317D)](decret-n2006-304-du-16-mars-2006-equx0500317d)
 - [Décret n°2006-1280 du 19 octobre 2006 (EQUU0601637D)](decret-n2006-1280-du-19-octobre-2006-equu0601637d)
 - [Décret n°2006-1281 du 19 octobre 2006 (EQUU0601638D)](decret-n2006-1281-du-19-octobre-2006-equu0601638d)
 - [Décret n°2006-1282 du 19 octobre 2006 (EQUU0601639D)](decret-n2006-1282-du-19-octobre-2006-equu0601639d)
