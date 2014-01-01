@@ -346,7 +346,6 @@
 - [Décret n°95-179 du 20 février 1995 (FPPA9500025D)](decret-n95-179-du-20-fevrier-1995-fppa9500025d)
 - [Décret n°98-617 du 20 juillet 1998 (INTM9800005D)](decret-n98-617-du-20-juillet-1998-intm9800005d)
 - [Décret n°2003-458 du 20 mai 2003 (MENR0300706D)](decret-n2003-458-du-20-mai-2003-menr0300706d)
-- [Décret n°2001-1242 du 21 décembre 2001 (MESH0124179D)](decret-n2001-1242-du-21-decembre-2001-mesh0124179d)
 - [Décret n°2003-1006 du 21 octobre 2003 (DEFP0301968D)](decret-n2003-1006-du-21-octobre-2003-defp0301968d)
 - [Décret n°2003-1007 du 21 octobre 2003 (DEFP0301970D)](decret-n2003-1007-du-21-octobre-2003-defp0301970d)
 - [Décret n°2003-1103 du 21 novembre 2003 (ECOT0320020D)](decret-n2003-1103-du-21-novembre-2003-ecot0320020d)
