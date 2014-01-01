@@ -100,21 +100,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="307">
+<td valign="top" width="307">
 <p>Bordeaux-II</p>
 </td>
 <td width="307">
 <p>Sciences médicales I.</p>
-</td>
-</tr>
-<tr>
-<td width="307">
-<p>Sciences médicales II.</p>
-</td>
-</tr>
-<tr>
-<td width="307">
-<p>Sciences médicales III.</p>
 </td>
 </tr>
 <tr>

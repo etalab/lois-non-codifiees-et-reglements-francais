@@ -20,13 +20,9 @@ Article 2
 
 Au moment de sa création, l'établissement comprend les membres fondateurs suivants :
 
--l'université Bordeaux-I ;
-
--l'université Bordeaux-II ;
+-l'université Bordeaux ;
 
 -l'université Bordeaux-III ;
-
--l'université Bordeaux-IV ;
 
 -l'institut polytechnique de Bordeaux ;
 
@@ -64,13 +60,7 @@ L'établissement a pour mission de :
 
 -mener une réflexion prospective et une politique active dans le domaine du développement et la structuration de l'enseignement supérieur et de la recherche sur le site bordelais ;
 
--améliorer l'organisation et l'insertion de l'enseignement supérieur et de la recherche bordelais dans le tissu urbain, en particulier assurer la gouvernance, piloter, mettre en œuvre et suivre l'exécution de l'opération Campus ;
-
 -coordonner les activités des écoles doctorales ;
-
--assurer le portage et la mise en œuvre opérationnelle des programmes d'investissements d'avenir pour le compte des membres partenaires de l'IdEx tels que définis dans la convention n° ANR-10-IDEX-03-02 et dans le respect des règles de gouvernance et d'organisation adoptées par son conseil de gestion ;
-
--assurer la préparation opérationnelle de la création de la nouvelle Communauté d'universités et établissements d'Aquitaine ;
 
 -assurer la préparation opérationnelle de l'évolution du pôle de recherche et d'enseignement supérieur (PRES) Communauté d'universités et établissements d'Aquitaine vers un PRES à vocation régionale ;
 
@@ -98,8 +88,6 @@ L'établissement a pour mission de :
 
 -promouvoir à l'échelon régional, national et international les activités du pôle et le label Communauté d'universités et établissements d'Aquitaine ;
 
--contribuer à la coordination et au développement des services offerts aux étudiants en matière de santé, de culture et de sport ;
-
 -contribuer à l'amélioration des infrastructures et des services numériques ;
 
 -représenter ses membres au sein d'institutions sur leur demande.
@@ -118,9 +106,7 @@ Dans l'accomplissement de ses missions, l'établissement peut en particulier :
 
 -se voir confier par les établissements membres un mandat de négociation pour contractualiser, au nom des établissements, avec des partenaires publics ou privés ;
 
--confier ou se voir confier par un ou plusieurs des établissements l'exercice d'une de ses compétences, notamment dans le domaine de la gestion immobilière des biens confiés en gestion ;
-
--consolider et coordonner la politique documentaire et appuyer la mutualisation de certaines ressources en ce domaine.
+-confier ou se voir confier par un ou plusieurs des établissements l'exercice d'une de ses compétences, notamment dans le domaine de la gestion immobilière des biens confiés en gestion.
 
 Ces missions sont exercées dans le respect de l'autonomie des établissements membres.
 
@@ -182,7 +168,7 @@ Le conseil d'administration comprend au maximum vingt et un membres :
 
 1° Au titre des membres fondateurs :
 
--les quatre présidents en exercice des universités fondatrices ;
+-les deux présidents en exercice des universités fondatrices ;
 
 -un autre représentant de chacune de ces universités, désigné par elles ;
 
