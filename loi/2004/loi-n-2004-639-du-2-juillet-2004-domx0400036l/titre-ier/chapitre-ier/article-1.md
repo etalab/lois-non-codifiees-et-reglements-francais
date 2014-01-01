@@ -1,6 +1,6 @@
 # Article 1
 
-Dans les régions de Guadeloupe, de Guyane, de Martinique et de La Réunion, les opérations suivantes sont soumises à une taxe dénommée octroi de mer :
+Dans les régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de La Réunion, les opérations suivantes sont soumises à une taxe dénommée octroi de mer :
 
 1° L'importation de marchandises ;
 

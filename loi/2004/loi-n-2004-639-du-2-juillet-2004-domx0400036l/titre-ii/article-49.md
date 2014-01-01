@@ -1,6 +1,6 @@
 # Article 49
 
-Le fonds régional pour le développement et l'emploi créé dans chacune des régions de Guadeloupe, de Guyane, de Martinique et de La Réunion est alimenté par le solde du produit de l'octroi de mer, après affectation à la dotation globale garantie prévue à l'article 47.
+Le fonds régional pour le développement et l'emploi créé dans chacune des régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de La Réunion est alimenté par le solde du produit de l'octroi de mer, après affectation à la dotation globale garantie prévue à l'article 47.
 
 Les ressources disponibles du fonds régional pour le développement et l'emploi sont affectées, chaque année, à une part communale et à une part régionale :
 
