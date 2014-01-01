@@ -1,13 +1,56 @@
 # Article 9
 
-Les exigences de pureté de l'air et de confort thermique en saison chaude doivent pouvoir être assurées tout en conservant pour les logements l'isolement acoustique requis par le présent arrêté, donc en maintenant fermées les fenêtres exposées au bruit dans les pièces suivantes :
+Dans le cas de zones exposées à la fois au bruit des infrastructures de transports terrestres et aériens, la valeur minimale de l'isolement acoustique standardisé pondéré DnT, A, tr des locaux vis-à-vis de l'espace extérieur est calculée en prenant en compte les différentes sources de bruit de transports (terrestres et aériens).
 
-- dans toutes les pièces principales et la cuisine lorsque l'isolement prévu est supérieur ou égal à 40 dB (A) ;
+<div>
+<br/>
+<br/>La valeur minimale de l'isolement acoustique est déterminée à partir des deux valeurs calculées pour les infrastructures de transports terrestres et pour le trafic aérien. Pour la valeur concernant les infrastructures de transports terrestres, il s'agit de la valeur calculée selon les articles 6 ou 7 qui peut être inférieure à 30 dB. Pour le trafic aérien, il s'agit de la valeur définie à l'article 8. Ces deux valeurs sont comparées. La valeur minimale de l'isolement est la valeur la plus élevée des deux, augmentée de la correction figurant dans le tableau ci-dessous : <br/>
+<br/>
 
-- dans toutes les pièces principales lorsque l'isolement prévu est supérieur ou égal à 35 dB (A) ;
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÉCART ENTRE DEUX VALEURS <br/>
+<br/>
+</th>
+<th>
+<br/>CORRECTION <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Ecart de 0 à 1 dB <br/>
+</td>
+<td align="center">
+<br/>+ 3 dB <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ecart de 2 à 3 dB <br/>
+</td>
+<td align="center">
+<br/>+ 2 dB <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ecart de 4 à 9 dB <br/>
+</td>
+<td align="center">
+<br/>+ 1 dB <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ecart &gt; 9 dB <br/>
+</td>
+<td align="center">
+<br/>0 dB<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-- uniquement dans les chambres lorsque l'isolement prévu est compris entre 30 et 35 dB (A).
-
-La satisfaction de l'exigence de pureté de l'air consiste à respecter l'arrêté du 24 mars 1982 relatif à l'aération des logements, les fenêtres mentionnées ci-dessus restant closes.
-
-La satisfaction de l'exigence de confort thermique en saison chaude est ainsi définie : la construction et l'équipement sont tels que l'occupant peut maintenir la température des pièces principales et cuisines à une valeur au plus égale à 27 °C, du moins pour tous les jours où la température extérieure moyenne n'excède pas la valeur donnée dans l'annexe au présent arrêté. La température d'une pièce est la température de l'air au centre de la pièce à 1,50 mètre au-dessus du sol.
+</div>
