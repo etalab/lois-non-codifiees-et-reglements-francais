@@ -1,0 +1,3 @@
+# Article 6
+
+Le ministre de l'économie et des finances, la ministre des affaires sociales et de la santé, le ministre du redressement productif, le ministre de l'écologie, du développement durable et de l'énergie, le ministre délégué auprès du ministre de l'économie et des finances, chargé du budget, et la ministre déléguée auprès du ministre du redressement productif, chargée des petites et moyennes entreprises, de l'innovation et de l'économie numérique, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

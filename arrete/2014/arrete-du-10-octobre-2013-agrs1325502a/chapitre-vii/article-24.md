@@ -1,0 +1,7 @@
+# Article 24
+
+L'agent de direction inscrit sur la deuxième ou la troisième liste de la catégorie B au titre des dispositions antérieures à l'entrée en vigueur du présent arrêté est réputé inscrit sur la liste B pour la durée restant à courir en vertu des dispositions antérieures.
+
+L'agent de direction ou le cadre inscrit sur la quatrième liste des catégories A ou B au titre des dispositions antérieures à l'entrée en vigueur du présent arrêté est réputé inscrit sur la liste B pour la durée restant à courir en vertu des dispositions antérieures s'il est titulaire du titre d'ancien élève de l'Ecole nationale supérieure de la sécurité sociale (EN3S), de l'attestation délivrée à l'issue du cycle d'études spécialisées des métiers de dirigeant (CESDIR), du cycle de perfectionnement ou de l'attestation de suivi fournie par le Centre national d'études supérieures de la sécurité sociale (CNESSS) avant le 31 décembre 2003.
+
+L'agent de direction inscrit sur la deuxième, troisième ou quatrième liste de la catégorie C au titre des dispositions antérieures à l'entrée en vigueur du présent arrêté est réputé inscrit sur la liste B pour la durée restant à courir en vertu des dispositions antérieures s'il est titulaire du titre d'ancien élève de l'Ecole nationale supérieure de la sécurité sociale (EN3S) ou de l'attestation délivrée à l'issue du cycle d'études spécialisées des métiers de dirigeant (CESDIR) ou du cycle de perfectionnement.

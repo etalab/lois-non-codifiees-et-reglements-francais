@@ -1,0 +1,5 @@
+# Article 8
+
+Le secrétaire général du ministère chargé du développement durable exerce les fonctions de commissaire du Gouvernement auprès du CEREMA. En cas d'empêchement, il est suppléé par un fonctionnaire placé sous son autorité.
+
+Le commissaire du Gouvernement assure la mise en cohérence de la position de l'Etat au sein du conseil d'administration et du conseil stratégique de l'établissement et veille à la compatibilité des orientations et des décisions adoptées par ces instances avec les intérêts dont l'Etat a la charge. Il peut s'opposer à toute décision du conseil d'administration à l'exception des délibérations soumises à l'approbation des ministres de tutelle et du ministre chargé du budget en application du dernier alinéa de l'article 7. Il dispose pour cela d'un délai de quinze jours suivant la réunion du conseil d'administration et en rend compte immédiatement aux ministres de tutelle. A défaut de confirmation expresse par l'un des ministres dans le mois suivant leur information, cette opposition est réputée levée.

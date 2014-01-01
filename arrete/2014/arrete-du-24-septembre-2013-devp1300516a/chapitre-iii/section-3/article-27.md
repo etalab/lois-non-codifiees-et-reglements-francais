@@ -1,0 +1,7 @@
+# Article 27
+
+Un dispositif de détection de gaz déclenchant selon une procédure préétablie une alarme en cas de dépassement des seuils de danger est mis en place dans les installations utilisant un combustible gazeux, exploitées sans surveillance permanente ou bien implantées en sous-sol. Ce dispositif coupe l'arrivée du combustible et interrompt l'alimentation électrique, à l'exception de l'alimentation des matériels et des équipements destinés à fonctionner en atmosphère explosive, de l'alimentation en très basse tension et de l'éclairage de secours, sans que cette manœuvre puisse provoquer d'arc ou d'étincelle pouvant déclencher une explosion. Un dispositif de détection d'incendie équipe les installations implantées en sous-sol.
+
+L'emplacement des détecteurs est déterminé par l'exploitant en fonction des risques de fuite et d'incendie. Leur situation est repérée sur un plan. Ils sont contrôlés régulièrement et les résultats de ces contrôles sont consignés par écrit. La fiabilité des détecteurs est adaptée aux exigences de l'article 29 du présent arrêté. Des étalonnages sont régulièrement effectués.
+
+Toute détection de gaz, au-delà de 60 % de la LIE, conduit à la mise en sécurité de toute installation susceptible d'être en contact avec l'atmosphère explosive, sauf les matériels et équipements dont le fonctionnement pourrait être maintenu conformément aux dispositions prévues à l'article 24. Cette mise en sécurité est prévue dans les consignes d'exploitation.

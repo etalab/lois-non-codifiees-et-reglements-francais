@@ -1,0 +1,3 @@
+# Article 3
+
+Les fonds mutuels de garantie sont éligibles en tant qu'instruments de fonds propres de base de catégorie 1, au sens de l'article 26 du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 susvisé, dans les conditions de l'article 29 dudit règlement si les conditions énoncées à l'article 28 de ce même règlement, à l'exception des conditions énoncées à son paragraphe 1, point c, sont remplies. Par exception aux dispositions du paragraphe 4 de l'article 29 de ce règlement, les fonds mutuels de garantie peuvent ne donner aucun droit aux participants sur les réserves de la société de financement ou, le cas échéant, donner des droits d'un montant limité. Ils n'accordent aucun droit de vote à leurs participants.

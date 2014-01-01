@@ -2,8 +2,8 @@
 
 Les centres de ressources, d'expertise et de performance sportives sont classés selon les catégories suivantes :
 
-Première catégorie : Ile-de-France, Provence-Alpes-Côte d'Azur, Voiron, Toulouse, Wattignies, Montpellier ;
+Première catégorie : Ile-de-France, Montpellier, Provence-Alpes-Côte d'Azur, Toulouse, Wattignies ;
 
-Deuxième catégorie : Bordeaux, Nancy, Poitiers, Dinard, Dijon, Strasbourg, Franche-Comté, Mâcon, Pays de la Loire, Centre ;
+Deuxième catégorie : Bordeaux, Centre, Dijon, Nancy, Pays de la Loire, Poitiers, Rhône-Alpes, Strasbourg ;
 
-Troisième catégorie : Réunion, Reims, Houlgate, Vichy, Pointe-à-Pitre, Ajaccio, Limousin.
+Troisième catégorie : La Réunion, Pointe-à-Pitre, Reims, Vichy.

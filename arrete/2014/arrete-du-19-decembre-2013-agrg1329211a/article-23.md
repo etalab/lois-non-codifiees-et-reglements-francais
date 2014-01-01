@@ -1,0 +1,7 @@
+# Article 23
+
+Le matériel issu de vignes mères de porte-greffe situées à une distance inférieure à 500 mètres d'une parcelle faisant l'objet d'un arrachage en application de l'article 9 est mis en circulation après avoir subi un traitement à l'eau chaude, pour la campagne de production concernée.
+
+Tout autre matériel issu de vignes mères de porte-greffe situées à une distance inférieure à 500 mètres d'un cep découvert contaminé est mis en circulation après avoir subi un traitement à l'eau chaude, pour la campagne de production concernée par l'année de découverte. A moins que l'évaluation des risques ne s'y oppose en application de l'article 21, le traitement à l'eau chaude n'est pas requis lorsqu'a été réalisée pour la campagne de production concernée une surveillance par ou sous le contrôle d'un organisme à vocation sanitaire reconnu dans le domaine végétal visant à la détection de symptômes de flavescence dorée de toute vigne, autre qu'un matériel en pépinière viticole ou qu'une vigne mère de porte-greffe ou de greffons, située dans un rayon de 500 mètres autour de la parcelle de vignes mères de porte-greffe concernée.
+
+Pour répondre à ces obligations, tout propriétaire ou détenteur de vignes mères de porte-greffe situées dans un périmètre de lutte peut demander au service régional chargé de la protection des végétaux, compte tenu de sa localisation, de lui communiquer les données relatives à la situation épidémiologique de la zone concernée.

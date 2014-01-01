@@ -1,0 +1,7 @@
+# Article 15
+
+I. ― Dans les cours administratives d'appel qui n'étaient pas dotées d'un tableau des experts, en application de l'article R. 222-5 du code de justice administrative dans sa rédaction antérieure à l'entrée en vigueur du présent décret, les experts désignés pour participer à la commission mise en place en application de l'article R. 221-10 du même code sont choisis parmi les experts inscrits sur l'une des listes prévues par la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires ou sur la liste nationale prévue par l'article L. 1142-10 du code de la santé publique, qui justifient d'une pratique de l'expertise devant les juridictions administratives.
+
+II. ― Dans les cours administratives d'appel dotées d'un tableau des experts, en application de l'article R. 222-5 du code de justice administrative dans sa rédaction antérieure à l'entrée en vigueur du présent décret, les experts désignés pour participer à la commission prévue à l'article R. 221-10 du même code sont choisis parmi les experts inscrits à ce tableau.
+
+III. ― Les experts inscrits à un tableau en application de l'article R. 222-5 du code de justice administrative dans sa rédaction antérieure à l'entrée en vigueur du présent décret qui sollicitent leur inscription au tableau prévu par l'article R. 221-9 du même code, dans sa rédaction issue des dispositions du présent décret, sont réputés remplir les conditions énoncées au 1° et au 4° de l'article R. 221-11 de ce code et sont dispensés de la période probatoire de trois ans prévue par l'article R. 221-11 de celui-ci.

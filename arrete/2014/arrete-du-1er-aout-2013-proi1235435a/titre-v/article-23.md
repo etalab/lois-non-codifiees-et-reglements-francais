@@ -1,0 +1,15 @@
+# Article 23
+
+En application de l'article 33 du décret du 3 mai 2001 susvisé, la vérification périodique des compteurs appartenant à un parc entretenu par un organisme gestionnaire, qui endosse la responsabilité de leur maintien dans leur état réglementaire, peut être effectuée sur la base d'un contrôle statistique de lots, dans les conditions prévues à l'article 33 du décret du 3 mai 2001 susvisé et aux articles 31 et 32 de l'arrêté du 31 décembre 2001 susvisé.
+
+Ce contrôle statistique requiert la répartition des compteurs du parc en lots homogènes, au sein desquels les compteurs présentent des caractéristiques métrologiques analogues. Pour chaque lot, les plans d'échantillonnages applicables sont précisés en annexe 7. Lorsque le contrôle statistique d'un lot est impossible, la vérification porte sur chaque compteur du lot.
+
+Le dossier, prévu à l'article 31 de l'arrêté du 31 décembre 2001 susvisé, établissant les règles de constitution et de gestion des lots est soumis pour validation à l'autorité locale en charge de la métrologie légale concernée, au moins trois mois avant la date envisagée pour le début des contrôles. Toute modification ultérieure susceptible de remettre en cause la constitution des lots est soumise pour validation au moins trois mois avant la date envisagée pour l'entrée en vigueur des modifications.
+
+Après validation des règles de constitution et de gestion des lots par l'autorité locale en charge de la métrologie légale, l'organisme gestionnaire dépose auprès du vérificateur, en même temps que sa demande de vérification, les éléments des carnets métrologiques permettant au vérificateur de tirer au sort les compteurs susceptibles d'être prélevés en vue de constituer l'échantillon à vérifier. Si le vérificateur ne participe pas aux opérations de prélèvement, cette opération est effectuée dans des conditions donnant l'assurance que les compteurs prélevés ne font pas l'objet de manipulations qui permettraient d'altérer, dans un sens ou dans l'autre, la qualité globale de l'échantillon.
+
+Pour chaque lot constitué, l'organisme gestionnaire demande au vérificateur l'application du plan d'échantillonnage en contrôle normal défini à l'annexe 7. Si ce plan d'échantillonnage conduit à un refus, il peut demander l'application du plan d'échantillonnage en contrôle renforcé défini à l'annexe 7. Le contrôle renforcé intervient dans les trois mois suivant le contrôle normal. L'organisme gestionnaire peut, préalablement au contrôle renforcé, avoir procédé à des opérations destinées à améliorer la qualité du lot.
+
+Lorsque le critère d'acceptation défini à l'annexe 7 correspondant au plan d'échantillonnage appliqué en mode normal ou renforcé est satisfait, tous les compteurs du lot sont acceptés à la vérification périodique, à l'exception des compteurs non conformes de l'échantillon qui doivent être retirés du lot ou remis en conformité.
+
+Lorsque le critère d'acceptation n'est pas satisfait à l'issue du contrôle renforcé si celui-ci est appliqué ou sinon à l'issue du contrôle normal, tous les compteurs du lot sont refusés. Le retrait du lot ou sa mise en conformité doivent se faire sans délai.

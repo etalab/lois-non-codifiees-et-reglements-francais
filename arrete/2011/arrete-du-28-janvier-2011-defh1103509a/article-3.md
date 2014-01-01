@@ -20,7 +20,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au sous-directeur de l'agence de reconversion de la défense ;
 
-- chef de la division " administration générale et soutien " de l'agence comptable des services industriels de l'armement ;
+- chef de la division "administration générale et soutien" de l'agence comptable des services industriels de l'armement ;
 
 - chef de l'observatoire du personnel civil de l'inspection de l'armée de terre ;
 
@@ -28,7 +28,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef de pôle ministériel d'action sociale de Bordeaux ;
 
-- chef du bureau du contentieux contractuel et domanial à la direction des affaires juridiques ;
+- adjoint au chef du département de la gestion ministérielle des ressources humaines civiles de la direction des ressources humaines du ministère de la défense ;
 
 - chef du bureau des dommages généraux à la direction des affaires juridiques ;
 
@@ -36,9 +36,9 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau de la réglementation des primes et des indemnités à la direction des ressources humaines du ministère de la défense ;
 
--chef du bureau des régies et déplacements au service parisien de soutien de l'administration centrale ;
+- chef du bureau des régies et déplacements au service parisien de soutien de l'administration centrale ;
 
--chef du bureau de la correspondance parlementaire et affaires générales à la sous-direction des bureaux des cabinets ;
+- chef du bureau de la correspondance parlementaire et affaires générales à la sous-direction des bureaux des cabinets ;
 
 - chef du bureau de la gestion et de la rémunération des ingénieurs cadres technico-commerciaux et techniciens du service parisien de soutien de l'administration centrale ;
 
@@ -46,7 +46,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef de l'organe liquidateur de la direction des statuts, des pensions et de la réinsertion sociale ;
 
-- chargé de mission auprès du sous-directeur des pensions de la direction des ressources humaines du ministère de la défense ;
+- chef de la division gestion administrative et paie du centre ministériel de gestion de Toulon ;
 
 - chef du département identification-prestations à la Caisse nationale militaire de sécurité sociale ;
 
@@ -118,7 +118,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - responsable de la direction de site de Paris intra-muros au service parisien de soutien de l'administration centrale ;
 
-- responsable du dispositif dédié à la réparation des conséquences sanitaires des essais nucléaires à la direction des ressources humaines du ministère de la défense ;
+- chef du secrétariat du comité d'indemnisation des victimes des essais nucléaires français ;
 
 - secrétaire général de l'Ecole nationale supérieure de techniques avancées Bretagne ;
 
@@ -129,3 +129,5 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 - sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand ;
 
 - sous-directeur régional sud-ouest du centre de prestations de proximité des ressources humaines de la direction générale de l'armement ;
+
+- chef de la division gestion administrative et paie du centre ministériel de gestion de Rennes.

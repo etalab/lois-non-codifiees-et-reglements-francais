@@ -1,0 +1,3 @@
+# Article 3
+
+Sans préjudice des dispositions du chapitre II du titre II du livre II et du chapitre II du titre Ier du livre IV de la quatrième partie du code du travail, les sources d'émission de poussières tant silicogènes que non silicogènes sont identifiées et des moyens propres à éviter que les poussières ne se répandent dans l'atmosphère des lieux de travail qui se trouvent à l'extérieur sont mis en œuvre. La permanence de ces moyens fait l'objet de vérifications périodiques dont le résultat est reporté dans le document unique d'évaluation prévu par l'article R. 4121-1 et tenu à la disposition de l'agent exerçant les missions d'inspection du travail.

@@ -1,0 +1,3 @@
+# Article 6
+
+A compter de l'entrée en vigueur du présent décret et jusqu'au prochain renouvellement général des instances représentatives du personnel de la fonction publique et au plus tard jusqu'au 1er janvier 2015, la délégation de pouvoir accordée, en application des dispositions des décrets du 6 novembre 1995 et du 23 décembre 2006 susvisés, au préfet sous l'autorité duquel sont placés les secrétariats généraux pour l'administration de la police de Paris et de Versailles s'applique, dans les mêmes conditions, au bénéfice du préfet sous l'autorité duquel est placé le secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris.

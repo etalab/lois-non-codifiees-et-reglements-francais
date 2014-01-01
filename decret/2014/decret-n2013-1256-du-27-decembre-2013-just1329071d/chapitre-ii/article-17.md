@@ -1,0 +1,3 @@
+# Article 17
+
+Les membres du corps d'encadrement et d'application du personnel de surveillance de l'administration pénitentiaire inscrits aux tableaux d'avancement établis au titre de l'année 2014 sont classés, à la date de leur promotion au grade supérieur, conformément aux dispositions de l'article 19 du décret du 14 avril 2006 susvisé en tenant compte de la situation qui aurait été la leur jusqu'à la date de leur avancement de grade, avant l'intervention du présent décret et du décret n° 2013-1257 du 27 décembre 2013 modifiant le décret n° 2010-1641 du 23 décembre 2010 portant classement hiérarchique des grades et emplois des personnels placés sous statut spécial des services déconcentrés de l'administration pénitentiaire.

@@ -1,6 +1,6 @@
 # Article Annexe Outre mer
 
-Direction départementale de l'équipement de la Martinique
+Direction de l'environnement, de l'aménagement et du logement de la Martinique
 
 <table>
 <tbody>
@@ -20,7 +20,7 @@ Direction départementale de l'équipement de la Martinique
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chargé de mission "politique de la ville" et animateur du réseau des différents acteurs de la politique de la ville et des dispositifs interministériels</p>
+<p align="left">Chef de l'unité aménagement et renouvellement urbain </p>
 </td>
 <td>
 <p align="center">A</p>
@@ -29,12 +29,12 @@ Direction départementale de l'équipement de la Martinique
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">50 points</p>
+<p align="center">50</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Adjoint au chargé de mission politique de la ville, chargé du suivi des relations avec les associations</p>
+<p align="left">Chargé d'études aménagement et renouvellement urbain </p>
 </td>
 <td>
 <p align="center">B</p>
@@ -43,12 +43,12 @@ Direction départementale de l'équipement de la Martinique
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">30 points</p>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p align="left">Secrétariat accueil du public et des associations et montage des dossiers de subventions</p>
+<p align="left">Assistant de l'unité aménagement et renouvellement urbain </p>
 </td>
 <td rowspan="2">
 <p align="center">C</p>
@@ -57,7 +57,7 @@ Direction départementale de l'équipement de la Martinique
 <p align="center">1</p>
 </td>
 <td rowspan="2">
-<p align="center">20 points</p>
+<p align="center">20</p>
 </td>
 </tr>
 </tbody>
@@ -83,7 +83,7 @@ Direction de l'environnement, de l'aménagement et du logement de Guyane
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du service aménagement, urbanisme, construction et logement  </p>
+<p align="left">Chef du service aménagement, urbanisme, construction et logement </p>
 </td>
 <td>
 <p align="center">A</p>

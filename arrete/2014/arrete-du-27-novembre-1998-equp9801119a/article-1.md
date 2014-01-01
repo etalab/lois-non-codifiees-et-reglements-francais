@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée la création, au Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques, d'un modèle national de traitement automatisé dénommé " Base de données TCU " (transports en commun urbains) ayant pour finalité de recueillir par une enquête annuelle des informations sur les réseaux de transports urbains de province. Cette base de données contient pour chaque réseau les correspondants/rédacteurs des questionnaires de l'enquête. Le traitement sera mis en oeuvre au Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques et dans les centres d'études techniques de l'équipement.

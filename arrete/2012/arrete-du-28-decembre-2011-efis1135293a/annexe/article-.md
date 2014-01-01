@@ -1,47 +1,56 @@
 # Article 
 
-Annexe
-
-<div align="center">
+.
 
 <table>
 <tbody>
 <tr>
-<td rowspan="3">
-<p align="center">COLLECTIVITÉ<br/>et commune</p>
+<td>
+<p align="center"> COLLECTIVITÉ </p>
+<p align="center">et commune </p>
 </td>
 <td colspan="4">
-<p align="center">ANCIENNE POPULATION<br/>(recensement complémentaire de 2009)</p>
+<p align="center"> ANCIENNE POPULATION </p>
+<p align="center">(recensement complémentaire de 2011)</p>
 </td>
-<td colspan="3" width="253">
-<p align="center">NOUVELLE POPULATION<br/>(recensement complémentaire de 2011)</p>
+<td colspan="3">
+<p align="center"> NOUVELLE POPULATION </p>
+<p align="center">(recensement complémentaire 2013) </p>
 </td>
-<td rowspan="2" width="72">
-<p align="center">POPULATION<br/>fictive</p>
+<td>
+<p align="center"> POPULATION </p>
+<p align="center">fictive </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p align="center">Année</p>
+<td rowspan="2"/>
+<td rowspan="2"> Année </td>
+<td>
+<p align="center"> Population totale </p>
 </td>
 <td>
-<p align="center">Population<br/>totale</p>
+<p align="center"> Population </p>
+<p align="center">municipale <br/>
+</p>
 </td>
 <td>
-<p align="center">Population<br/>municipale</p>
+<p align="center"> Population comptée </p>
+<p align="center">à part <br/>
+</p>
 </td>
 <td>
-<p align="center">Population<br/>comptée à part</p>
+<p align="center"> Population totale </p>
 </td>
 <td>
-<p align="center">Population<br/>totale</p>
+<p align="center"> Population </p>
+<p align="center">municipale </p>
 </td>
 <td>
-<p align="center">Population<br/>municipale</p>
+<p align="center"> Population comptée </p>
+<p align="center">à part <br/>
+</p>
 </td>
-<td>
-<p align="center">Population<br/>comptée à part</p>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -67,43 +76,34 @@ Annexe
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">988 - Nouvelle-Calédonie</p>
+<td align="left">
+<p>988-Nouvelle-Calédonie </p>
+<p>98811 Koné </p>
 </td>
-<td colspan="8">
-<br/>
+<td align="center" valign="bottom">
+<br/>2011 <br/>
 </td>
-</tr>
-<tr>
-<td>
-<p>98811 Koné</p>
+<td align="center" valign="bottom">
+<br/>6 992 <br/>
 </td>
-<td>
-<p align="center">2009</p>
+<td align="center" valign="bottom">
+<br/>5 772 <br/>
 </td>
-<td>
-<p align="center">6 416</p>
+<td align="center" valign="bottom">
+<br/>1 220 <br/>
 </td>
-<td>
-<p align="center">5 199</p>
+<td align="center" valign="bottom">
+<br/>7 648 <br/>
 </td>
-<td>
-<p align="center">1 217</p>
+<td align="center" valign="bottom">
+<br/>6 424 <br/>
 </td>
-<td>
-<p align="center">6 992</p>
+<td align="center" valign="bottom">
+<br/>1 224 <br/>
 </td>
-<td>
-<p align="center">5 772</p>
-</td>
-<td>
-<p align="center">1 220</p>
-</td>
-<td>
-<p align="center">952</p>
+<td align="center" valign="bottom">
+<br/>748<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>

@@ -1,0 +1,3 @@
+# Article 50
+
+La représentation des personnels au sein du conseil d'administration, du conseil scientifique et technique, du comité technique d'établissement public et du comité d'hygiène, de sécurité et des conditions de travail de l'établissement se fait de façon transitoire, jusqu'aux élections qui seront organisées fin 2014, au prorata des voix obtenues par chaque organisation syndicale lors des élections des comités techniques de proximité organisées en octobre 2011 dans les services constituant le Cérema et dont au moins 80 % des agents rejoignent le Cérema. Les comités techniques de proximité existant dans ces services sont maintenus en fonctions pendant cette période.

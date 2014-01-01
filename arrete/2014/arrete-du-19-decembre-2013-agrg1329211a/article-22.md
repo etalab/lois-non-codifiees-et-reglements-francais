@@ -1,0 +1,3 @@
+# Article 22
+
+Par arrêté préfectoral, il peut être ordonné, en sus des obligations de surveillance à l'intérieur des périmètres de lutte définies à l'article 7, que tout propriétaire ou détenteur de vigne, autre qu'un matériel en pépinière viticole ou qu'une vigne mère de porte-greffe ou de greffons, située hors de tout périmètre de lutte et dans un rayon de 500 mètres autour d'une parcelle de vignes mères de porte-greffe, soit tenu, sans que cela ne le dispense de l'obligation de surveillance générale mentionné à l'article 3, de faire réaliser par ou sous le contrôle d'un organisme à vocation sanitaire reconnu dans le domaine végétal une surveillance visant à la détection de symptômes de flavescence dorée.

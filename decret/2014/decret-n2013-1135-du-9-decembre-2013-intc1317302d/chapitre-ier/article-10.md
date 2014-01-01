@@ -1,0 +1,3 @@
+# Article 10
+
+Sauf en cas de renouvellement ou de prolongation exceptionnelle de détachement du fonctionnaire ou militaire occupant un emploi de directeur ou de directeur adjoint de laboratoire de l'Institut national de police scientifique, la nomination dans un tel emploi est précédée de la publication d'un avis de vacance au Journal officiel de la République française ainsi que par voie électronique sur le service de la communication publique en ligne du ministre chargé de la fonction publique. Dans un délai de trente jours à compter de la publication de la vacance au Journal officiel de la République française, les candidatures à l'emploi intéressé sont transmises au directeur de l'Institut national de police scientifique.

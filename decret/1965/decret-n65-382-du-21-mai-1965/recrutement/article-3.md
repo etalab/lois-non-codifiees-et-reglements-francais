@@ -4,7 +4,7 @@ Ne peuvent être recrutés comme ouvriers des parcs et ateliers des ponts et cha
 
 Au cas où il y a plus de candidats remplissant les conditions requises que de postes à pourvoir, il est procédé à un essai professionnel.
 
-Le choix du ou des candidats à recruter est fait par le chef de service ou par le directeur général de Voies navigables de France ou par délégation de celui-ci par le directeur territorial de VNF, la commission prévue à l'article 4 ci-après ayant été consultée.
+Le choix du ou des candidats à recruter est fait par le chef de service ou par le directeur général de Voies navigables de France ou par délégation de celui-ci par le directeur territorial de VNF ou par le directeur général du Cérema, la commission prévue à l'article 4 ci-après ayant été consultée.
 
 Lorsqu'il n'existe pas de certificat d'aptitude professionnelle pour la profession, le ou les candidats sont appelés à subir un examen dont le programme est fixé comme suit :
 

@@ -5,955 +5,598 @@ EMPLOIS OCCUPÉS PAR DES FONCTIONNAIRES CIVILS
 <table>
 <tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
-</td>
-<td width="151">
-<p align="center">NIVEAU<br/>des responsabilités</p>
-</td>
-<td width="151">
-<p align="center">NOMBRE D'EMPLOIS</p>
-</td>
-<td width="151">
-<p align="center">NOMBRE DE POINTS<br/>majoré</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de département assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de département réglementation </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de département secrétariat général </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de département maîtrise d'ouvrage </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">35</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de département ressources humaines </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">35</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Premier fondé de pouvoir adjoint à l'agent comptable </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Adjoint au chef de département assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Adjoint au chef de département maîtrise d'ouvrage </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de service communication </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de service réglementation </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">3</p>
-</td>
-<td width="151">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de service secrétariat général </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">3</p>
-</td>
-<td width="151">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chef de service assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">2</p>
-</td>
-<td width="151">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Adjoint au chef de service secrétariat général </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">2</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chargé de mission assurance qualité </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chargé de mission contrôle de gestion </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chargé de mission réglementation </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chargé de mission du directeur </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Fondé de pouvoir </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">2</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Adjoint au chef de département ressources humaines </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">2</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Adjoint au chef de service assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">3</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chargé de mission assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">A</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Responsable de l'accueil client </p>
-</td>
-<td width="151">
-<p align="center">A ou B</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Responsable de site de La Garde </p>
-</td>
-<td width="151">
-<p align="center">A ou B</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Responsable formation assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">A ou B</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Adjoint au chef de bureau assurance maladie </p>
-</td>
-<td width="151">
-<p align="center">B</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Chargé de coordination des projets </p>
-</td>
-<td width="151">
-<p align="center">B</p>
-</td>
-<td width="151">
-<p align="center">1</p>
-</td>
-<td width="151">
-<p align="center">15</p>
-</td>
+<th>
+<br/>DÉSIGNATION DE L'EMPLOI JUSTIFIANT DE L'OBTENTION <br/>
+<br/>de la nouvelle bonification indiciaire <br/>
+</th>
+<th>
+<br/>NIVEAU DE L'EMPLOI <br/>
+<br/>justifiant de l'obtention <br/>
+<br/>de la nouvelle <br/>
+<br/>bonification indiciaire <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+<br/>éligibles <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+<br/>par emploi <br/>
+<br/>(points en indice majoré) <br/>
+</th>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau action sanitaire et sociale </p>
+<td>
+<br/>Responsable du budget et/ ou du contrôle de gestion et/ ou des moyens généraux et/ ou du service du personnel et/ ou du contentieux d'une direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>40 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau assurance maladie </p>
+<td>
+<br/>Chargé d'études financières et/ ou analyste de contreparties <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="151">
-<p align="center">4</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>40 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau comptabilité </p>
+<td>
+<br/>Juriste spécialisé <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="151">
-<p align="center">8</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau contentieux </p>
+<td>
+<br/>Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau maîtrise d'ouvrage </p>
+<td>
+<br/>Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="151">
-<p align="center">5</p>
+<td align="center">
+<br/>44 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau ressources humaines </p>
+<td>
+<br/>Chef de projet <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="151">
-<p align="center">5</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de bureau secrétariat général </p>
+<td>
+<br/>Assistant marketing <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">4</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de pôle réglementation </p>
+<td>
+<br/>Gestionnaire de clientèle <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">5</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de salle assurance maladie </p>
+<td>
+<br/>Développeur d'applications sur bases de données RH <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">19</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de salle recours contre tiers </p>
+<td>
+<br/>Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de section secrétariat général </p>
+<td>
+<br/>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">3</p>
+<td align="center">
+<br/>9 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable de pôle soutien de l'assurance maladie </p>
+<td>
+<br/>Chargé du recrutement et/ ou des carrières et/ ou de la mobilité et/ ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable unité de prévention </p>
+<td>
+<br/>Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Animateur action sanitaire et sociale </p>
+<td>
+<br/>Technicien de maintenance des installations de climatisation et de chauffage (site parisien) <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Animateur assurance maladie </p>
+<td>
+<br/>Opérateur de marchés. <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">25</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Animateur contentieux </p>
+<td>
+<br/>Contrôleur des risques <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chargé d'études assurance maladie </p>
+<td>
+<br/>Technicien des opérations post-marché ou d'opérations bancaires et/ ou financières sur secteurs prioritaires <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">3</p>
+<td align="center">
+<br/>42 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chargé d'études secrétariat général </p>
+<td>
+<br/>Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>25 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef de division de contrôle </p>
+<td>
+<br/>Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Conseiller carrière </p>
+<td>
+<br/>Comptable responsable de service opérationnel important <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Correspondant informatique et liberté </p>
+<td>
+<br/>Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>10 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Expert action sanitaire et sociale </p>
+<td>
+<br/>Gestionnaire de plusieurs systèmes d'information <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>38 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Expert gestion du risque </p>
+<td>
+<br/>Assistant de direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>68 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Expert prévention </p>
+<td>
+<br/>Assistant de contrôle budgétaire et/ ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>35 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable de pôle assurance maladie </p>
+<td>
+<br/>Documentaliste spécialisé au niveau fédéral ou au niveau d'une direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">5</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable de pôle contentieux </p>
+<td>
+<br/>Conducteur d'opérations BTP (site parisien) <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable de pôle médical </p>
+<td>
+<br/>Responsable exploitation transport <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable des rémunérations </p>
+<td>
+<br/>Chargé de la communication d'un département ou d'une direction <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>10 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable du SIRH </p>
+<td>
+<br/>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions  système  <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Contrôleur interne </p>
+<td>
+<br/>Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ ou dans le domaine des prestations de services <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">3</p>
+<td align="center">
+<br/>7 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Superviseur plateforme téléphonique </p>
+<td>
+<br/>Assistant de gestion statutaire et/ ou financière et/ ou de formation des personnels au niveau d'une branche ou au niveau fédéral <br/>
 </td>
-<td width="151">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>37 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Adjoint au responsable installation maintenance </p>
+<td>
+<br/>Responsable d'une unité de gestion ou de production de contrats d'assurance <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Animateur de formation assurance maladie </p>
+<td>
+<br/>Chargé d'études et de coordination <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">3</p>
+<td align="center">
+<br/>8 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Chef d'équipe secrétariat général </p>
+<td>
+<br/>Analyste financier <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">3</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Encadrant de proximité médical </p>
+<td valign="bottom">
+<br/>Responsable prestations téléphoniques ou audiovisuelles <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center" valign="bottom">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">8</p>
+<td align="center" valign="bottom">
+<br/>2 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center" valign="bottom">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Gérant du restaurant </p>
+<td>
+<br/>Adjoint au responsable d'unité à la direction des retraites <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>37 <br/>
 </td>
-<td width="151">
-<p align="center">15</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Gestionnaire des statistiques </p>
+<td>
+<br/>Gestionnaire expert <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">1</p>
+<td align="center">
+<br/>64 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Pilote de projets </p>
+<td>
+<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">6</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Responsable de secrétariat </p>
+<td>
+<br/>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">4</p>
+<td align="center">
+<br/>16 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Technicien d'études et d'intégration des logiciels </p>
+<td>
+<br/>Animateur de groupe <br/>
 </td>
-<td width="151">
-<p align="center">B ou C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>155 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="227">
-<p>Agent d'accueil </p>
+<td>
+<br/>Gestionnaire logistique polyvalent <br/>
 </td>
-<td width="151">
-<p align="center">C</p>
+<td align="center">
+<br/>C <br/>
 </td>
-<td width="151">
-<p align="center">2</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td width="151">
-<p align="center">10</p>
+<td align="center">
+<br/>15<br/>
 </td>
 </tr>
 </tbody>

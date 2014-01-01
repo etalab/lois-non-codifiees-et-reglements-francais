@@ -2,14 +2,12 @@
 
 Les montants de référence annuels de l'indemnité d'administration et de technicité prévus à l'article 4 du décret du 14 janvier 2002 susvisé sont fixés par grade conformément au tableau ci-dessous :
 
-<div align="center">
-
-</div>
+<div align="left">
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> GRADES</p>
+<p align="center">GRADES</p>
 </td>
 <td>
 <p align="center">MONTANTS DE RÉFÉRENCE <br/>(en euros) </p>
@@ -17,39 +15,46 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </tr>
 <tr>
 <td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 3 <br/>
+<p align="left">
+<br/>Agents de catégorie C rémunérés en échelle 3 </p>
 </td>
 <td align="center">
-<br/>521 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 4 <br/>
-</td>
-<td align="center">
-<br/>536 <br/>
+<br/>757 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
+<p align="left">
+<br/>Agents de catégorie C rémunérés en échelle 4<br/>
+</p>
+</td>
+<td align="center">
+<br/>777<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
 <br/>Agents de catégorie C rémunérés en échelle 5 <br/>
+</p>
 </td>
 <td align="center">
-<br/>541 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Agents de catégorie C rémunérés en échelle 6 avec échelon spécial <br/>
-</td>
-<td align="center">
-<br/>562 <br/>
+<br/>802 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
+<p align="left">Agents de catégorie C rémunérés en échelle 6 avec échelon spécial </p>
+</td>
+<td align="center">
+<br/>820 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
 <br/>Agents du 1er grade de la catégorie B <br/>
+</p>
 </td>
 <td align="center">
 <br/>586 <br/>
@@ -57,7 +62,9 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </tr>
 <tr>
 <td align="center">
+<p align="left">
 <br/>Agents du 2e grade de la catégorie B <br/>
+</p>
 </td>
 <td align="center">
 <br/>703 <br/>
@@ -65,7 +72,9 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </tr>
 <tr>
 <td align="center">
+<p align="left">
 <br/>Agents du 3e grade de la catégorie B <br/>
+</p>
 </td>
 <td align="center">
 <br/>723<br/>
@@ -73,3 +82,4 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </tr>
 </tbody>
 </table>
+</div>

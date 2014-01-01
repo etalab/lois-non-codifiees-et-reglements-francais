@@ -12,11 +12,11 @@ L'échelle des mesures disciplinaires est la suivante :
 
 4° Le licenciement définitif.
 
-L'avertissement et le blâme sont prononcés par l'ingénieur d'arrondissement ou l'ingénieur des travaux publics de l'Etat délégué ou par le directeur général de Voies navigables de France ou, par délégation de celui-ci, le directeur territorial de VNF.
+L'avertissement et le blâme sont prononcés par l'ingénieur d'arrondissement ou l'ingénieur des travaux publics de l'Etat délégué ou par le directeur général de Voies navigables de France ou, par délégation de celui-ci, le directeur territorial de VNF ou par le directeur général du Cérema.
 
-La mise à pied et le licenciement définitif sont prononcés par le chef de service ou par le directeur général de Voies navigables de France ou, par délégation de celui-ci, par le directeur territorial de VNF après avis de la commission prévue à l'article 4 du présent décret, siégeant en formation disciplinaire, l'intéressé ayant été préalablement entendu.
+La mise à pied et le licenciement définitif sont prononcés par le chef de service ou par le directeur général de Voies navigables de France ou, par délégation de celui-ci, par le directeur territorial de VNF ou par le directeur général du Cérema après avis de la commission prévue à l'article 4 du présent décret, siégeant en formation disciplinaire, l'intéressé ayant été préalablement entendu.
 
-Si les nécessités du service l'exigent, le chef de service ou le directeur général de Voies navigables de France ou, par délégation de celui-ci, le directeur territorial de VNF peut suspendre de ses fonctions l'ouvrier déféré au conseil de discipline. La suspension est obligatoire lorsque l'ouvrier est sous le coup de poursuite pénale pour crime ou délit entachant l'honneur ou la probité. L'ouvrier suspendu reçoit au minimum la moitié de son salaire et la totalité des prestations de caractère social.
+Si les nécessités du service l'exigent, le chef de service ou le directeur général de Voies navigables de France ou, par délégation de celui-ci, le directeur territorial de VNF ou le directeur général du Cérema peut suspendre de ses fonctions l'ouvrier déféré au conseil de discipline. La suspension est obligatoire lorsque l'ouvrier est sous le coup de poursuite pénale pour crime ou délit entachant l'honneur ou la probité. L'ouvrier suspendu reçoit au minimum la moitié de son salaire et la totalité des prestations de caractère social.
 
 Nonobstant l'application des mesures disciplinaires définies ci-dessus, tout ouvrier en état d'ivresse est immédiatement expulsé du chantier ou de l'atelier et son salaire n'est pas payé pendant la durée de l'interruption de service.
 

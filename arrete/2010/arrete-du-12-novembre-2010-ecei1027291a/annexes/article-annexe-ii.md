@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Affichage de l'information destinée à la clientèle touristique
+**Affichage de l'information destinée à la clientèle touristique**
 
 A. - Mentions devant figurer obligatoirement sur l'affiche informant les clients de l'office de tourisme classé dans la catégorie III
 

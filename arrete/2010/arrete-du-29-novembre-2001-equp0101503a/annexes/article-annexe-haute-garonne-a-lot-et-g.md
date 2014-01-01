@@ -301,7 +301,7 @@ Direction départementale de l'équipement d'Indre-et-Loire
 </tbody>
 </table>
 
-Direction départementale de l'équipement de l'Isère
+Direction départementale des territoires de l'Isère
 
 <table>
 <tbody>
@@ -320,73 +320,150 @@ Direction départementale de l'équipement de l'Isère
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Référent pour le contrat de ville de l'agglomération grenobloise</p>
-</td>
 <td>
-<p align="center">A</p>
+<br/>Chef du service logement et construction <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">30 points</p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Délégué de l'Etat</p>
-</td>
 <td>
-<p align="center">A</p>
+<br/>Référent pour le contrat ville de l'agglomération grenobloise-Bureau rénovation urbaine-Service logement et construction <br/>
 </td>
-<td>
-<p align="center">4</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">30 points</p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Gestionnaire au sein du service interministériel d'actions pour le logement des personnes en difficulté</p>
-</td>
 <td>
-<p align="center">B</p>
+<br/>Chef du bureau politique de l'habitat-Service logement et construction <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">30 points</p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Instructeur de dossiers relatifs à l'élaboration des contrats de ville</p>
-</td>
 <td>
-<p align="center">B</p>
+<br/>Chef du bureau logement public-Service logement et construction <br/>
 </td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">30 points</p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
-<p align="left">Chargé de la préparation et du suivi des dossiers de financement</p>
+<td>
+<br/>Référent parc privé et plans de sauvegarde-Bureau logement privé/ ANAH-Service logement et construction <br/>
 </td>
-<td rowspan="2">
-<p align="center">C</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td rowspan="2">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">30 points</p>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Instructreur dossier politique de la ville-Bureau rénovation urbaine-Service logement et construction <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Instructeur du suivi et de la contractualisation avec les organismes HLM-Bureau rénovation urbaine-Service logement et construction <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Instructeur dossier politique de la ville-Bureau logement public-Service logement et construction <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Direction départementale de la cohésion sociale de l'Isère
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">FONCTIONS EXERCEES</p>
+</td>
+<td>
+<p align="center">NIVEAU<br/>de qualification de l'emploi</p>
+</td>
+<td>
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS (IM)<br/>par emploi</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chargé de mission-gestion du contingent préfectoral de la métropole grenobloise-Bureau d'accès au logement des personnes défavorisées-Pôle hébergement et logement social <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30<br/>
 </td>
 </tr>
 </tbody>
@@ -439,24 +516,24 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
-<td>Chef du service aménagement habitat environnement et construction  </td>
+<td>Chef du service aménagement habitat environnement et construction </td>
 <td>
 <p align="center">A</p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">35 points</p>
 </td>
 </tr>
 <tr>
-<td>Chef du bureau habitat accessibilité bâtiment durable  </td>
+<td>Chef du bureau habitat accessibilité bâtiment durable </td>
 <td>
 <p align="center">A</p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">35 points</p>
@@ -505,7 +582,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
-<td>Chargé de suivi du PDALPD et financement ANRU  </td>
+<td>Chargé de suivi du PDALPD et financement ANRU </td>
 <td>
 <p align="center">B</p>
 </td>
@@ -517,7 +594,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
-<td>Instructeur ANAH  </td>
+<td>Instructeur ANAH </td>
 <td>
 <p align="center">B</p>
 </td>
@@ -529,7 +606,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Jura
 </td>
 </tr>
 <tr>
-<td>Instructeur ANAH et gens du voyage/ habitat indigne  </td>
+<td>Instructeur ANAH et gens du voyage/ habitat indigne </td>
 <td>
 <p align="center">B</p>
 </td>

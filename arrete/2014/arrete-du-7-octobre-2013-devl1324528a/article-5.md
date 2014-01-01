@@ -1,0 +1,5 @@
+# Article 5
+
+Pour pouvoir participer aux séances de l'examen préalable à la délivrance du permis de chasser, chaque candidat doit disposer d'un certificat individuel ou être inscrit sur une liste attestant le suivi de la formation à l'examen, conformément aux dispositions de l'article R. 423-3 du code de l'environnement. Cette formation inclut la manipulation et l'utilisation de l'arme à canons basculants, de l'arme à rechargement semi-automatique et de l'arme à canon rayé. Le certificat individuel de suivi de la formation à l'examen, ou la liste attestant le suivi de la formation à l'examen sur laquelle le candidat est inscrit, est signé par le président de la fédération départementale ou interdépartementale des chasseurs ou son représentant.
+
+Le candidat doit se présenter muni de sa convocation et d'une pièce d'identité avec photographie (carte nationale d'identité, passeport, pour les étrangers toute pièce en tenant lieu). Ces pièces sont vérifiées, avant l'examen, par un agent de l'Office national de la chasse et de la faune sauvage chargé de l'inspection du permis de chasser.
