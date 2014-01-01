@@ -6,6 +6,6 @@ Sont éligibles dans leur collège tous les personnels mentionnés aux articles 
 
 ― être âgé d'au moins dix-huit ans ;
 
-― travailler, depuis au moins un an, à Voies navigables de France ou dans les services ou parties de services mentionnés à l'article 7 de la loi du 24 janvier 2012 susvisée.
+― travailler, depuis au moins un an, à Voies navigables de France.
 
 Toutefois, ne sont pas éligibles le directeur général, le directeur général délégué et les directeurs généraux adjoints.
