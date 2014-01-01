@@ -353,6 +353,7 @@
 - [Décret n°2003-1108 du 21 novembre 2003 (MENS0301259D)](decret-n2003-1108-du-21-novembre-2003-mens0301259d)
 - [Décret n°2003-1109 du 21 novembre 2003 (ECOT0320019D)](decret-n2003-1109-du-21-novembre-2003-ecot0320019d)
 - [Décret n°2003-1128 du 21 novembre 2003 (SOCS0324407D)](decret-n2003-1128-du-21-novembre-2003-socs0324407d)
+- [Décret n°2003-60 du 21 janvier 2003 (INTX0200160D)](decret-n2003-60-du-21-janvier-2003-intx0200160d)
 - [Décret n°2003-666 du 21 juillet 2003 (FPPA0310017D)](decret-n2003-666-du-21-juillet-2003-fppa0310017d)
 - [Décret n°2003-776 du 21 août 2003 (INTC0300168D)](decret-n2003-776-du-21-aout-2003-intc0300168d)
 - [Décret n°2003-777 du 21 août 2003 (INTC0300169D)](decret-n2003-777-du-21-aout-2003-intc0300169d)
