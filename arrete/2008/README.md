@@ -1130,7 +1130,6 @@
 - [Arrêté du 29 août 2008 (DEVP0821048A)](arrete-du-29-aout-2008-devp0821048a)
 - [Arrêté du 29 août 2008 (MLVU0814886A)](arrete-du-29-aout-2008-mlvu0814886a)
 - [Arrêté du 29 avril 2008 (DEVO0811992A)](arrete-du-29-avril-2008-devo0811992a)
-- [Arrêté du 29 décembre 2005 (BUDB0510047A)](arrete-du-29-decembre-2005-budb0510047a)
 - [Arrêté du 29 février 2008 (DEVO0804503A)](arrete-du-29-fevrier-2008-devo0804503a)
 - [Arrêté du 29 février 2008 (DEVP0800186A)](arrete-du-29-fevrier-2008-devp0800186a)
 - [Arrêté du 29 juillet 2008 (AGRG0818015A)](arrete-du-29-juillet-2008-agrg0818015a)
