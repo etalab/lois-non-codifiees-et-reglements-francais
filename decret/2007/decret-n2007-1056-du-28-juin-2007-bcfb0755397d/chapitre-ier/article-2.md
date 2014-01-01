@@ -28,46 +28,50 @@ III. - Le taux T2 est destiné à contribuer forfaitairement au financement des 
 
 IV. - Le taux T2 est fixé à :
 
--11, 96 % pour l'année 2007 ;
+- 11, 96 % pour l'année 2007 ;
 
--12, 27 % pour l'année 2008 ;
+- 12, 27 % pour l'année 2008 ;
 
--12, 62 % pour l'année 2009 ;
+- 12, 62 % pour l'année 2009 ;
 
--12, 73 % pour l'année 2010 ;
+- 12, 73 % pour l'année 2010 ;
 
 - 11,26 % pour l'année 2011.
 
 Après le 31 décembre 2011, le taux T2 évolue au 1er janvier de chaque année comme le rapport, pour un salarié non cadre, entre le montant des cotisations d'assurance vieillesse assis sur le montant maximum des rémunérations ou gains à prendre en compte pour la fixation du montant des cotisations d'assurance vieillesse prévu par l'article D. 242-16 du code de la sécurité sociale et ce montant maximum. Les cotisations prises en compte sont :
 
--la cotisation d'assurance vieillesse du régime de droit commun prévue par l'article D. 242-4 du code de la sécurité sociale ;
+- la cotisation d'assurance vieillesse du régime de droit commun prévue par l'article D. 242-4 du code de la sécurité sociale ;
 
--la cotisation du régime de retraite complémentaire prévue par l'article 13 de l'accord national interprofessionnel de retraite complémentaire du 8 décembre 1961 ;
+- la cotisation du régime de retraite complémentaire prévue par l'article 13 de l'accord national interprofessionnel de retraite complémentaire du 8 décembre 1961 ;
 
--la cotisation de l'association pour la gestion du fonds de financement de l'AGIRC et de l'ARCCO prévue par l'accord du 10 février 2001 " Retraites complémentaires AGIRC et ARRCO ".
+- la cotisation de l'association pour la gestion du fonds de financement de l'AGIRC et de l'ARCCO prévue par l'accord du 10 février 2001 "Retraites complémentaires AGIRC et ARRCO".
 
 V. - L'assiette du taux T2 est la même que celle du taux T1.
 
-VI. - Le taux de la cotisation à la charge des agents du cadre permanent de la Société nationale des chemins de fer français est égal à un pourcentage de l'assiette définie au V fixé :
+VI. - Le taux de la cotisation à la charge des agents du cadre permanent de la Société nationale des chemins de fer français est égal à un pourcentage de l'assiette définie au V fixé à :
 
-- à 7,85 % jusqu'au 31 décembre 2016 ;
+a) 8,05 % pour l'année 2014 ;
 
-- à 8,12 % en 2017 ;
+b) 8,10 % pour l'année 2015 ;
 
-- à 8,39 % en 2018 ;
+c) 8,10 % pour l'année 2016 ;
 
-- à 8,66 % en 2019 ;
+d) 8,37 % pour l'année 2017 ;
 
-- à 8,93 % en 2020 ;
+e) 8,64 % pour l'année 2018 ;
 
-- à 9,20 % en 2021 ;
+f) 8,91 % pour l'année 2019 ;
 
-- à 9,47 % en 2022 ;
+g) 9,18 % pour l'année 2020 ;
 
-- à 9,74 % en 2023 ;
+h) 9,45 % pour l'année 2021 ;
 
-- à 10,01 % en 2024 ;
+i) 9,72 % pour l'année 2022 ;
 
-- à 10,28 % en 2025 ;
+j) 9,99 % pour l'année 2023 ;
 
-- à 10,55 % à compter du 1er janvier 2026.
+k) 10,26 % pour l'année 2024 ;
+
+l) 10,53 % pour l'année 2025 ;
+
+m) 10,80 % à compter de l'année 2026.
