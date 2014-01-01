@@ -40,7 +40,25 @@ b) Aux entreprises d'assurance et de réassurance, aux mutuelles et aux institut
 
 c) Aux organismes mentionnés à l'article L. 214-1 du code monétaire et financier ;
 
-d) A titre exceptionnel pour tenir compte des pratiques de la concurrence, à toute société ayant son siège en France ou dans un autre Etat membre de l'Union européenne ou de l'Organisation de coopération et de développement économiques ayant procédé auprès d'investisseurs à l'émission d'obligations en vue du financement d'opérations d'exportation, ainsi qu'aux personnes morales de droit français ou relevant du droit d'un autre Etat membre de l'Union européenne ou de l'Organisation de coopération et de développement économiques agissant pour le compte de détenteurs de titres émis pour assurer le financement du contrat, pour garantir le paiement des sommes dues pour ces titres en cas de défaillance de l'entité ayant procédé à leur émission.
+d) A titre exceptionnel pour tenir compte des pratiques de la concurrence, à toute société ayant son siège en France ou dans un autre Etat membre de l'Union européenne ou de l'Organisation de coopération et de développement économiques ayant procédé auprès d'investisseurs à l'émission d'obligations en vue du financement d'opérations d'exportation, ainsi qu'aux personnes morales de droit français ou relevant du droit d'un autre Etat membre de l'Union européenne ou de l'Organisation de coopération et de développement économiques agissant pour le compte de détenteurs de titres émis pour assurer le financement du contrat, pour garantir le paiement des sommes dues pour ces titres en cas de défaillance de l'entité ayant procédé à leur émission ;
+
+e) A la société anonyme BPI-Groupe et à ses filiales au sens de l'article L. 233-1 du code de commerce ;
+
+f) A la Caisse des dépôts et consignations et à ses filiales au sens du  même article L. 233-1, susceptibles d'intervenir pour réaliser des  opérations de financement d'exportations ;
+
+g) Aux  banques centrales parties intégrantes du Système européen de banques  centrales et à la Banque centrale européenne. Dans ce cas, le critère  relatif à l'échelon de qualité de crédit mentionné au deuxième alinéa du  présent 3° ne s'applique pas ;
+
+h) Aux institutions de retraite professionnelle de droit français ou étranger ;
+
+i) Aux banques centrales et à leurs filiales spécialisées intégralement  possédées ou contrôlées par elles quand elles agissent en tant  qu'investisseur ainsi qu'aux fonds d'investissements et organismes  intégralement possédés ou contrôlés par un Etat dont la mission est de  gérer des actifs financiers dès lors qu'ils répondent aux conditions  cumulatives suivantes :
+
+― être constitué conformément aux lois de l'Etat de leur siège ;
+
+― ne pas être situé dans un Etat ou territoire non coopératif, au sens du 1 de l'article 238-0 A du code général des impôts ;
+
+― en cas de dissolution, leurs actifs reviennent aux Etats, aux  organismes d'Etat ou aux banques centrales qui les possèdent ou qui les  contrôlent ;
+
+j) Aux Etats, à condition qu'il ne s'agisse pas d'Etats non coopératifs, au sens du 1 de l'article 238-0 A du code général des impôts.
 
 Les garanties mentionnées aux 1°, 2° et 3° du présent I sont accordées par le ministre chargé de l'économie après avis de la commission des garanties et du crédit au commerce extérieur instituée par l'article 15 de la loi n° 49-874 du 5 juillet 1949 relative à diverses dispositions d'ordre économique et financier.
 

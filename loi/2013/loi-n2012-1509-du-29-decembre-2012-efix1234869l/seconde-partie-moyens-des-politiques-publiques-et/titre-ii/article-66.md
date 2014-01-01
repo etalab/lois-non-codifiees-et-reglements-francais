@@ -1,157 +1,155 @@
 # Article 66
 
-<div>
-<br/>Le plafond des autorisations d'emplois de l'Etat, pour 2013, exprimé en équivalents temps plein travaillé, est réparti comme suit :<br/>
+Le plafond des autorisations d'emplois de l'Etat, pour 2013, exprimé en équivalents temps plein travaillé, est réparti comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>
-<br/>DÉSIGNATION DU MINISTÈRE<br/>ou du budget annexe</th>
-<th>
-<br/>PLAFOND<br/>exprimé<br/>en équivalents<br/>temps plein travaillé</th>
+<br/> 										DÉSIGNATION DU MINISTÈRE<br/> 										ou du budget annexe<br/>
+</th>
+<th> 										PLAFOND<br/> 										exprimé<br/> 										en équivalents<br/> 										temps plein travaillé<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>I. ― Budget général</td>
-<td align="center">
-<br/>1 903 061</td>
+<td align="center"> 										I. ― Budget général<br/>
+</td>
+<td align="center"> 										1 903 060<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Affaires étrangères</td>
-<td align="center">
-<br/>14 798</td>
+<td align="center"> 										Affaires étrangères<br/>
+</td>
+<td align="center"> 										14 798<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Affaires sociales et santé</td>
-<td align="center">
-<br/>11 157</td>
+<td align="center"> 										Affaires sociales et santé<br/>
+</td>
+<td align="center"> 										11 157<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Agriculture, agroalimentaire et forêt</td>
-<td align="center">
-<br/>31 007</td>
+<td align="center"> 										Agriculture, agroalimentaire et forêt<br/>
+</td>
+<td align="center"> 										31 006 									</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Culture et communication</td>
-<td align="center">
-<br/>10 928</td>
+<td align="center"> 										Culture et communication<br/>
+</td>
+<td align="center"> 										10 928<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Défense</td>
-<td align="center">
-<br/>285 253</td>
+<td align="center"> 										Défense<br/>
+</td>
+<td align="center"> 										285 253<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ecologie, développement durable et énergie</td>
-<td align="center">
-<br/>38 198</td>
+<td align="center"> 										Ecologie, développement durable et énergie<br/>
+</td>
+<td align="center"> 										38 198<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Economie et finances</td>
-<td align="center">
-<br/>150 238</td>
+<td align="center"> 										Economie et finances<br/>
+</td>
+<td align="center"> 										150 238<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Education nationale</td>
-<td align="center">
-<br/>955 434</td>
+<td align="center"> 										Education nationale<br/>
+</td>
+<td align="center"> 										955 434<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Egalité des territoires et logement</td>
-<td align="center">
-<br/>14 194</td>
+<td align="center"> 										Egalité des territoires et logement<br/>
+</td>
+<td align="center"> 										14 194<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enseignement supérieur et recherche</td>
-<td align="center">
-<br/>11 253</td>
+<td align="center"> 										Enseignement supérieur et recherche<br/>
+</td>
+<td align="center"> 										11 253<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Intérieur</td>
-<td align="center">
-<br/>277 008</td>
+<td align="center"> 										Intérieur<br/>
+</td>
+<td align="center"> 										277 008<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Justice</td>
-<td align="center">
-<br/>77 542</td>
+<td align="center"> 										Justice<br/>
+</td>
+<td align="center"> 										77 542<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Outre-mer</td>
-<td align="center">
-<br/>5 086</td>
+<td align="center"> 										Outre-mer<br/>
+</td>
+<td align="center"> 										5 086<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Redressement productif</td>
-<td align="center">
-<br/>1 253</td>
+<td align="center"> 										Redressement productif<br/>
+</td>
+<td align="center"> 										1 253<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Réforme de l'Etat, décentralisation et fonction publique</td>
-<td align="center">
-<br/>―</td>
+<td align="center"> 										Réforme de l'Etat, décentralisation et fonction publique<br/>
+</td>
+<td align="center"> 										―<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Services du Premier ministre</td>
-<td align="center">
-<br/>9 640</td>
+<td align="center"> 										Services du Premier ministre<br/>
+</td>
+<td align="center"> 										9 640<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sports, jeunesse, éducation populaire et vie associative</td>
-<td align="center">
-<br/>―</td>
+<td align="center"> 										Sports, jeunesse, éducation populaire et vie associative<br/>
+</td>
+<td align="center"> 										―<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Travail, emploi, formation professionnelle et dialogue social</td>
-<td align="center">
-<br/>10 072</td>
+<td align="center"> 										Travail, emploi, formation professionnelle et dialogue social<br/>
+</td>
+<td align="center"> 										10 072<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>II. ― Budgets annexes</td>
-<td align="center">
-<br/>11 860</td>
+<td align="center"> 										II. ― Budgets annexes<br/>
+</td>
+<td align="center"> 										11 860<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Contrôle et exploitation aériens</td>
-<td align="center">
-<br/>11 025</td>
+<td align="center"> 										Contrôle et exploitation aériens<br/>
+</td>
+<td align="center"> 										11 025<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Publications officielles et information administrative</td>
-<td align="center">
-<br/>835</td>
+<td align="center"> 										Publications officielles et information administrative<br/>
+</td>
+<td align="center"> 										835<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   Total général</td>
-<td align="center">
-<br/>1 914 921</td>
+<td align="center"> 										   Total général<br/>
+</td>
+<td align="center"> 										1 914 920 									</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>

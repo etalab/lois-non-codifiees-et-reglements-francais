@@ -10,7 +10,7 @@ b) La désignation des pôles de compétitivité est effectuée par un comité i
 
 - les perspectives et les modalités de coopération entre les entreprises, les organismes publics ou privés et les collectivités territoriales et leurs établissements publics de coopération intercommunale dotés d'une fiscalité propre.
 
-La désignation d'un pôle de compétitivité peut être assortie de la désignation par le comité d'une zone de recherche et de développement regroupant l'essentiel des moyens de recherche et de développement.
+La désignation d'un pôle de compétitivité peut être assortie de la désignation d'une zone de recherche et de développement regroupant l'essentiel des moyens de recherche et de développement. Cette zone est définie par un arrêté du ministre chargé de l'industrie.
 
 Un décret en Conseil d'Etat fixe les modalités d'application de ces dispositions.
 
@@ -40,7 +40,7 @@ b) Les projets de recherche et de développement sont agréés par les services 
 
 - implication, notamment financière, des collectivités territoriales et de leurs établissements publics de coopération intercommunale dotés d'une fiscalité propre.
 
-3. Les projets de recherche et de développement ne peuvent être présentés après le 31 décembre 2011.
+3. Abrogé.
 
 II. - Paragraphe modificateur
 
