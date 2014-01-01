@@ -65,7 +65,6 @@
 - [Arrêté du 2 octobre 2009 (DEVE0923035A)](arrete-du-2-octobre-2009-deve0923035a)
 - [Arrêté du 2 octobre 2009 (DEVT0921862A)](arrete-du-2-octobre-2009-devt0921862a)
 - [Arrêté du 2 octobre 2009 (JUSB0921194A)](arrete-du-2-octobre-2009-jusb0921194a)
-- [Arrêté du 2 octobre 2009 (MTSS0922945A)](arrete-du-2-octobre-2009-mtss0922945a)
 - [Arrêté du 2 septembre 2009 (AGRE0916832A)](arrete-du-2-septembre-2009-agre0916832a)
 - [Arrêté du 2 septembre 2009 (AGRG0920469A)](arrete-du-2-septembre-2009-agrg0920469a)
 - [Arrêté du 2 septembre 2009 (DEVA0920255A)](arrete-du-2-septembre-2009-deva0920255a)

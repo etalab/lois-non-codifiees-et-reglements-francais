@@ -181,7 +181,6 @@
 - [Arrêté du 12 juillet 2005 (EQUT0500587A)](arrete-du-12-juillet-2005-equt0500587a)
 - [Arrêté du 12 juillet 2005 (MAEA0520200A)](arrete-du-12-juillet-2005-maea0520200a)
 - [Arrêté du 12 octobre 2005 (BUDR0507078A)](arrete-du-12-octobre-2005-budr0507078a)
-- [Arrêté du 12 octobre 2005 (SANS0523743A)](arrete-du-12-octobre-2005-sans0523743a)
 - [Arrêté du 12 mai 2004 (SANY0421802A)](arrete-du-12-mai-2004-sany0421802a)
 - [Arrêté du 13 décembre 2005 (AGRG0502808A)](arrete-du-13-decembre-2005-agrg0502808a)
 - [Arrêté du 13 décembre 2005 (EQUP0501479A)](arrete-du-13-decembre-2005-equp0501479a)

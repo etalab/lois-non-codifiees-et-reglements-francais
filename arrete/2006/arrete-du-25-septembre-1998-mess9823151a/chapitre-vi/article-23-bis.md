@@ -1,3 +1,0 @@
-# Article 23 bis
-
-Lorsqu'un agent de direction nommé dans une agence régionale de santé a, antérieurement à sa nomination, été agréé sur des fonctions de niveau équivalent ou a été inscrit sur la liste d'aptitude pour une classe d'emploi équivalent, il peut, sans inscription préalable sur la liste d'aptitude, accéder, dans un organisme de sécurité sociale ou dans un des établissements cités à l'article 1er, à un emploi relevant de la même classe que celle de l'emploi occupé dans l'agence régionale de santé ou à un tout autre emploi auquel il peut accéder en application de l'article 21 du présent arrêté.
