@@ -1527,7 +1527,6 @@
 - [Arrêté du 18 décembre 2012 (BUDW1237313A)](arrete-du-18-decembre-2012-budw1237313a)
 - [Arrêté du 18 décembre 2012 (DEVL1240631A)](arrete-du-18-decembre-2012-devl1240631a)
 - [Arrêté du 18 décembre 2012 (EFIC1238435A)](arrete-du-18-decembre-2012-efic1238435a)
-- [Arrêté du 18 décembre 2012 (EFIC1238437A)](arrete-du-18-decembre-2012-efic1238437a)
 - [Arrêté du 18 décembre 2012 (EFIT1238658A)](arrete-du-18-decembre-2012-efit1238658a)
 - [Arrêté du 18 décembre 2012 (INTC1236313A)](arrete-du-18-decembre-2012-intc1236313a)
 - [Arrêté du 18 décembre 2012 (JUSK1243157A)](arrete-du-18-decembre-2012-jusk1243157a)
