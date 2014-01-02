@@ -29,6 +29,7 @@
 - [Décret n°2013-1213 du 23 décembre 2013 (JUSC1327355D)](decret-n2013-1213-du-23-decembre-2013-jusc1327355d)
 - [Décret n°2013-1221 du 23 décembre 2013 (DEVL1231897D)](decret-n2013-1221-du-23-decembre-2013-devl1231897d)
 - [Décret n°2013-1223 du 23 décembre 2013 (AGRS1318720D)](decret-n2013-1223-du-23-decembre-2013-agrs1318720d)
+- [Décret n°2013-1225 du 23 décembre 2013 (BUDE1324834D)](decret-n2013-1225-du-23-decembre-2013-bude1324834d)
 - [Décret n°2013-1243 du 23 décembre 2013 (DEVK1319574D)](decret-n2013-1243-du-23-decembre-2013-devk1319574d)
 - [Décret n°2013-1244 du 23 décembre 2013 (DEVK1319710D)](decret-n2013-1244-du-23-decembre-2013-devk1319710d)
 - [Décret n°2013-1264 du 23 décembre 2013 (ETLL1304430D)](decret-n2013-1264-du-23-decembre-2013-etll1304430d)
