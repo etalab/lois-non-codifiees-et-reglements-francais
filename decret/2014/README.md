@@ -81,3 +81,7 @@
 - [Décret n°2013-1295 du 30 décembre 2013 (AFSA1330243D)](decret-n2013-1295-du-30-decembre-2013-afsa1330243d)
 - [Décret n°2013-1306 du 30 décembre 2013 (ETST1330209D)](decret-n2013-1306-du-30-decembre-2013-etst1330209d)
 - [Décret n°2013-979 du 30 octobre 2013 (ETLL1308546D)](decret-n2013-979-du-30-octobre-2013-etll1308546d)
+- [Décret n°2013-1328 du 31 décembre 2013 (PRMX1328609D)](decret-n2013-1328-du-31-decembre-2013-prmx1328609d)
+- [Décret n°2013-1329 du 31 décembre 2013 (INTD1240321D)](decret-n2013-1329-du-31-decembre-2013-intd1240321d)
+- [Décret n°2013-1330 du 31 décembre 2013 (AGRG1325807D)](decret-n2013-1330-du-31-decembre-2013-agrg1325807d)
+- [Décret n°2013-1331 du 31 décembre 2013 (PROI1315793D)](decret-n2013-1331-du-31-decembre-2013-proi1315793d)
