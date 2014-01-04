@@ -6,14 +6,14 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <tbody>
 <tr>
 <td>
-<p align="center"> TYPE D'ÉTABLISSEMENT</p>
+<p align="center">TYPE D'ÉTABLISSEMENT</p>
 </td>
 <td>
-<p align="center"> ÉTABLISSEMENT</p>
+<p align="center">ÉTABLISSEMENT</p>
 </td>
 </tr>
 <tr>
-<td rowspan="16" valign="top">
+<td rowspan="19" valign="top">
 <p align="center">Maison d'arrêt </p>
 </td>
 <td>
@@ -42,12 +42,22 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 </tr>
 <tr>
 <td>
+<p>CAHORS </p>
+</td>
+</tr>
+<tr>
+<td>
 <p>LE HAVRE</p>
 </td>
 </tr>
 <tr>
 <td>
 <p>LE MANS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LOOS</p>
 </td>
 </tr>
 <tr>
@@ -77,6 +87,11 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 </tr>
 <tr>
 <td>
+<p>ORLEANS </p>
+</td>
+</tr>
+<tr>
+<td>
 <p>POITIERS</p>
 </td>
 </tr>
@@ -97,14 +112,6 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 </tr>
 <tr>
 <td>
-<p align="center">Maison d'arrêt </p>
-</td>
-<td>
-<p>LOOS</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Centre de détention </p>
 </td>
 <td>
@@ -117,14 +124,6 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 </td>
 <td>
 <p>DRAGUIGNAN</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Maison d'arrêt </p>
-</td>
-<td>
-<p> CAHORS</p>
 </td>
 </tr>
 </tbody>
