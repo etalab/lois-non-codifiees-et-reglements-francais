@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'application des dispositions du deuxième alinéa de l'article R. 135-9 du code de l'aviation civile, les ingénieurs électroniciens des systèmes de la sécurité aérienne qui détiennent, à la date d'entrée en vigueur du présent décret, le certificat d'aptitude spécialisé dans les systèmes de sécurité de la navigation aérienne sont, à compter de cette date, réputés détenteurs de la licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne mentionnée à l'article 4 du décret du 16 janvier 1991 susvisé dans sa rédaction issue de l'article 1er du présent décret. Cette licence leur est délivrée de droit.
