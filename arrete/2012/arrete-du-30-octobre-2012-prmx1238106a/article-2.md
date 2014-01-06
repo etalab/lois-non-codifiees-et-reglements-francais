@@ -8,25 +8,21 @@ I. - La direction interministérielle pour la modernisation de l'action publique
 
 II. - Le service "innovation et services aux usagers" élabore, en lien avec les usagers, les ministères, les collectivités territoriales et les autres partenaires de l'administration, la stratégie d'amélioration du service aux usagers, d'administration numérique et de développement de l'innovation publique. Il coordonne et appuie les travaux de modernisation de l'action publique en faveur des usagers et conduit des projets interministériels structurants.
 
-Il comprend deux départements et trois missions.
+Il comprend un département et trois missions.
 
 1° Le département "simplifications et relations de service" :
 
 Il propose le cadre stratégique de l'amélioration des services aux usagers. Il anime le réseau des associations d'usagers. Il analyse et conçoit avec les partenaires les propositions de simplification administrative et d'amélioration de la relation de service en s'assurant de l'adéquation entre l'offre et le besoin de service des usagers. Il anime et coordonne les travaux liés à la simplification administrative et favorise le partage des meilleures pratiques. Il appuie les partenaires dans la mise en œuvre des projets et, le cas échéant, assure la conduite de ces projets.
 
-2° Le département "projets d'administration électronique" :
-
-Il conduit des projets interministériels dans le domaine de l'administration numérique. Il organise le transfert des projets à un tiers lorsqu'ils sont en état d'être exploités.
-
-3° La mission "dites-le-nous une fois" :
+2° La mission "dites-le-nous une fois" :
 
 Elle est chargée de piloter et mettre en œuvre le projet "dites-le-nous une fois" destiné à simplifier les relations entre les entreprises et les administrations en évitant aux entreprises de produire plusieurs fois la même information aux administrations.
 
-4° La mission "développement de l'administration numérique" :
+3° La mission "développement de l'administration numérique" :
 
 Elle définit les orientations stratégiques relatives au développement de l'administration numérique et fournit un appui aux projets numériques des administrations.
 
-5° La mission "méthodes d'écoute et d'innovation" :
+4° La mission "méthodes d'écoute et d'innovation" :
 
 Elle développe les outils et méthodes d'innovation et d'écoute des usagers et des agents. Elle assure des actions de veille et de prospective pour valoriser les meilleures pratiques et développer les démarches d'innovation.
 
