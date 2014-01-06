@@ -1,19 +1,15 @@
 # Article 3
 
-L'évaluation de la formation initiale est établie conformément à la grille de notation figurant en annexe. Elle porte sur les connaissances théoriques fondamentales et les savoir-faire professionnels en situation ainsi que sur les capacités techniques et physiques.
+L'évaluation de la formation initiale est établie conformément à la grille de notation figurant en annexe. Elle porte sur les connaissances théoriques fondamentales, les savoir-faire professionnels en situation et les capacités techniques et physiques.
 
-Ces différents domaines de formation peuvent être évalués à travers des contrôles écrits, des mises en situation pratiques en école ou sur le terrain, des interrogations orales.
+Les différents domaines de formation peuvent être évalués par des contrôles écrits, des mises en situation pratiques et des interrogations orales.
 
-Elle se décline de la manière suivante :
+Ces évaluations sont organisées au cours de la première période de formation avant le stage en service opérationnel de la façon suivante :
 
-a) Un contrôle national est organisé au cours de la première séquence en école (séquence A) ;
+a) Deux contrôles nationaux écrits portant sur le domaine général et le domaine judiciaire ;
 
-b) Des contrôles nationaux sont organisés au cours de la seconde séquence en école (séquence C) ;
+b) Un contrôle national de simulation d'une situation professionnelle ;
 
-c) Des contrôles dans les domaines techniques sont organisés pendant les séquences A et C ;
+c) Des contrôles dans les domaines techniques ;
 
-d) Des contrôles « école », dont les modalités sont arrêtées par chaque chef d'établissement en lien avec le bureau de la formation initiale et des écoles, sont organisés au cours de la scolarité ;
-
-e) Avant la séquence en service opérationnel, une évaluation des compétences acquises dans les domaines techniques est organisée au sein de chaque établissement ;
-
-f) Des contrôles de l'acquisition des objectifs professionnels sont organisés au cours de la séquence en service opérationnel. Ces contrôles associent les formateurs et les tuteurs.
+d) Des contrôles "école" dont les modalités sont arrêtées par chaque chef d'établissement en lien avec le département des formations de la sous-direction de la formation et du développement des compétences de la direction des ressources et des compétences de la police nationale.

@@ -1,5 +1,11 @@
 # Article 21
 
-Le livret d'évaluation définit les compétences à acquérir durant la séquence en service opérationnel, les activités à réaliser à cet effet et le résultat constaté.
+Le livret de suivi permet aux services opérationnels recevant l'élève en stage de découverte ou d'application :
 
-Destiné à l'évaluation périodique de l'élève, il est renseigné par le tuteur en collaboration avec le formateur. Il est visé par la hiérarchie du service d'accueil et de la structure de formation.
+- d'identifier les compétences individuelles acquises ou en voie d'acquisition par l'élève ;
+
+- d'informer la structure de formation des capacités observées chez l'élève lors de sa participation aux missions de police du service d'accueil.
+
+Le livret de suivi est renseigné par le tuteur et visé par la hiérarchie du service d'accueil et de la structure de formation.
+
+Au terme de la scolarité, il est remis au premier service d'affectation afin de faciliter l'intégration de l'élève.
