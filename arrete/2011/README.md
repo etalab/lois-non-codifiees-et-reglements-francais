@@ -2671,7 +2671,6 @@
 - [Arrêté du 29 juillet 2011 (JUSC1027630A)](arrete-du-29-juillet-2011-jusc1027630a)
 - [Arrêté du 29 juillet 2011 (MCCE1119215A)](arrete-du-29-juillet-2011-mcce1119215a)
 - [Arrêté du 29 juillet 2011 (SPOV1121392A)](arrete-du-29-juillet-2011-spov1121392a)
-- [Arrêté du 29 juin 2004 (DEVP0430217A)](arrete-du-29-juin-2004-devp0430217a)
 - [Arrêté du 29 juin 2011 (DEVL1104273A)](arrete-du-29-juin-2011-devl1104273a)
 - [Arrêté du 29 juin 2011 (DEVT1117993A)](arrete-du-29-juin-2011-devt1117993a)
 - [Arrêté du 29 juin 2011 (EFIT1116522A)](arrete-du-29-juin-2011-efit1116522a)
