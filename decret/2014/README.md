@@ -6,6 +6,7 @@
 - [Décret n°2014-4 du 3 janvier 2014 (TRAA1313855D)](decret-n2014-4-du-3-janvier-2014-traa1313855d)
 - [Décret n°2013-1112 du 4 décembre 2013 (INTD1312041D)](decret-n2013-1112-du-4-decembre-2013-intd1312041d)
 - [Décret n°2013-475 du 5 juin 2013 (DEVL1305385D)](decret-n2013-475-du-5-juin-2013-devl1305385d)
+- [Décret n°2014-5 du 7 janvier 2014 (DEVR1331930D)](decret-n2014-5-du-7-janvier-2014-devr1331930d)
 - [Décret n°2013-1135 du 9 décembre 2013 (INTC1317302D)](decret-n2013-1135-du-9-decembre-2013-intc1317302d)
 - [Décret n°2013-1136 du 9 décembre 2013 (INTC1326250D)](decret-n2013-1136-du-9-decembre-2013-intc1326250d)
 - [Décret n°2013-1010 du 12 novembre 2013 (ESSC1305378D)](decret-n2013-1010-du-12-novembre-2013-essc1305378d)
