@@ -70,6 +70,10 @@ Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées ém
 
 La conformité du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1. 5. 1 est démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO / CEI 17025.
 
+1.6. Outil de mesure de la résistance électrique.
+
+Un outil de mesure de la résistance électrique disposant au minimum d'un calibre de 200 Ohm, avec une erreur maximale de justesse de ± 3 % sur l'étendue de mesure de ce calibre.
+
 1.7. Spécifications générales.
 
 1.7.1. L'ensemble des matériels fait l'objet de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
