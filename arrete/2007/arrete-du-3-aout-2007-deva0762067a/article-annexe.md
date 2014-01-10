@@ -22,16 +22,6 @@ Paris-Chiangmai (Thaïlande) ;
 
 Paris-Phuket (Thaïlande).
 
-Jusqu'au 31 juillet 2013 :
-
-Lyon-Punta Cana (République dominicaine) ;
-
-Marseille-Punta Cana (République dominicaine) ;
-
-Nantes-Punta Cana (République dominicaine) ;
-
-Toulouse-Punta Cana (République dominicaine).
-
 Jusqu'au 31 décembre 2013 :
 
 Paris-Nassau (Bahamas) ;
@@ -101,3 +91,13 @@ Dans la limite de deux fréquences hebdomadaires au total sur les liaisons suiva
 Paris - Cap-Skirring (Sénégal) ;
 
 Paris - Saint-Louis (Sénégal).
+
+Jusqu'au 30 novembre 2018 :
+
+Lyon-Punta Cana (République dominicaine) ;
+
+Marseille-Punta Cana (République dominicaine) ;
+
+Nantes-Punta Cana (République dominicaine) ;
+
+Toulouse-Punta Cana (République dominicaine).
