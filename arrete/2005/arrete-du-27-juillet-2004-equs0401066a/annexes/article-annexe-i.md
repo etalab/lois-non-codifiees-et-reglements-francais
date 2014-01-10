@@ -30,7 +30,7 @@ La vérification des points de contrôle est réalisée conformément aux métho
 
 Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine des méthodes ou prescriptions particulières adaptées à la technologie dudit véhicule, le constructeur (ou son représentant) les transmet à l'organisme technique central qui les met à la disposition des organismes agréés.
 
-Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés, hormis le contrôle de l'opacité des fumées sur les véhicules disposant d'un échappement vertical latéral. En conséquence, les opérations suivantes ne sont pas réalisées :
+Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés, hormis le contrôle de l'opacité des fumées sur les véhicules disposant d'un échappement vertical latéral En conséquence, les opérations suivantes ne sont pas réalisées :
 
 - les vérifications des équipements nécessitant de monter sur le véhicule ou qui imposent un engagement sous celui-ci en dehors de la fosse prévue à cet effet et qui entrent dans le cadre de l'entretien du véhicule ;
 
@@ -1047,6 +1047,40 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 13.3.4. RETROVISEUR INTERIEUR COMPLEMENTAIRE (si obligatoire)
 
 13.3.5. RETROVISEUR EXTERIEUR COMPLEMENTAIRE
+
+14. CONTRÔLES COMPLEMENTAIRES DES VEHICULES ELECTRIQUES OU HYBRIDES
+
+14.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES).
+
+14.1.1. COFFRE(S) À BATTERIE(S) DE TRACTION
+
+14.1.2. BATTERIE(S) DE TRACTION
+
+14.1.3. ORIFICE(S) D'AERATION DU COFFRE À BATTERIE(S) DE TRACTION
+
+14.2. CIRCUITS ELECTRIQUES HAUTE TENSION, AUTRES QUE SERVITUDES
+
+14.2.1. CÂBLAGES ET CONNECTEURS HAUTE TENSION
+
+14.2.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS
+
+14.2.3. CONTINUITE DE MASSE
+
+14.3. EQUIPEMENTS ELECTRIQUES OU ELECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+14.3.1. EQUIPEMENT ELECTRIQUES ET ELECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+14.4. DISPOSITIFS DE SECURITE
+
+14.4.1. DISPOSITIF ANTI-DEMARRAGE (câble de charge connecté)
+
+14.5. SYSTEME DE CHARGE
+
+14.5.1. PROTECTION DE LA PRISE SUR VEHICULE
+
+14.5.2. PRISE(S) SUR VEHICULE
+
+14.5.3. CÂBLE DE CHARGE
 
 15 CONTROLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES
 

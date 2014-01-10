@@ -46,6 +46,27 @@ Véhicules de transport en commun de personnes
 
 Véhicules de transport de marchandises dangereuses
 
+C. Catégories de véhicules soumis à réglementation complémentaire.
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">FONCTIONS COMPLÉMENTAIRES</p>
+</td>
+<td>
+<p align="center">VÉHICULES CONCERNÉS</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FONCTION 14. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE</td>
+<td align="center">
+<br/>TOUT VÉHICULE ÉLECTRIQUE OU HYBRIDE</td>
+</tr>
+</tbody>
+</table>
+
 D. Périodicité et validité des visas
 
 <table>

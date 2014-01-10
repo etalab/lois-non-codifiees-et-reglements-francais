@@ -110,11 +110,7 @@ Catégories de véhicules soumis à réglementation spécifique
 <p align="center">1 an </p>
 </td>
 <td width="132">
-<br/>Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme <p>
-<br/>Arrêté préfectoral<br/>
-<br/>
-<br/>
-</p>
+<br/>Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme <p>Arrêté préfectoral</p>
 </td>
 </tr>
 <tr>
@@ -147,8 +143,8 @@ Catégories de véhicules soumis à d'autres réglementations relatives au contr
 <table>
 <tbody>
 <tr>
-<td valign="top" width="301">
-<p align="center">CATEGORIE DE VEHICULE </p>
+<td align="center" valign="top" width="301">
+<p>CATEGORIE DE VEHICULE </p>
 </td>
 <td valign="top" width="303">
 <p align="center">REFERENCE REGLEMENTAIRE </p>
@@ -190,22 +186,33 @@ PARTIE C
 
 Autres véhicules soumis à des contrôles supplémentaires
 
+<div align="center">
+<br/>
+</div>
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">FONCTIONS COMPLEMENTAIRES</p>
+<td align="center">
+<p>FONCTIONS COMPLEMENTAIRES </p>
 </td>
 <td>
-<p align="center">VEHICULES CONCERNES</p>
+<p align="center">VÉHICULES CONCERNES</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>G. - Contrôle de l'installation gaz carburant sur véhicule </p>
+<td align="center">
+<br/>G. CONTRÔLE DE L'INSTALLATION GAZ CARBURANT SUR VÉHICULE <br/>
 </td>
-<td>
-<p>Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes : EG, GP, PE, FG, EN, GN, NE, FN </p>
+<td align="center">
+<br/>Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes EG, ER, EQ, GP, PE, PH, FG, EN, EM, EP, GN, NE, NH, FN, GF, GM, GQ <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>J. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE <br/>
+</td>
+<td align="center">
+<br/>Tout véhicule électrique ou hybride<br/>
 </td>
 </tr>
 </tbody>

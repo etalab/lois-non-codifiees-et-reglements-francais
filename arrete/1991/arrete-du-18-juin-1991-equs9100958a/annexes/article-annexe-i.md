@@ -18,17 +18,17 @@ Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine
 
 Au cours du contrôle technique périodique, le contrôleur effectue les contrôles suivants, pour les fonctions définies à la partie A de la présente annexe :
 
-- véhicules non soumis à réglementation spécifique : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule ;
+- véhicules non soumis à réglementation spécifique : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / J. Contrôle des équipements d'un véhicule électrique ou hybride.
 
-- véhicules de dépannage : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / A. Véhicules de dépannage.
+- véhicules de dépannage : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / J. Contrôle des équipements d'un véhicule électrique ou hybride / A. Véhicules de dépannage.
 
-- véhicules utilisés pour les transports sanitaires terrestres : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / B. Véhicules utilisés pour les transports sanitaires terrestres.
+- véhicules utilisés pour les transports sanitaires terrestres : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / J. Contrôle des équipements d'un véhicule électrique ou hybride / B. Véhicules utilisés pour les transports sanitaires terrestres.
 
-- véhicules utilisés pour l'enseignement de la conduite : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / C. Véhicules utilisés pour l'enseignement de la conduite.
+- véhicules utilisés pour l'enseignement de la conduite : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / J. Contrôle des équipements d'un véhicule électrique ou hybride/ C. Véhicules utilisés pour l'enseignement de la conduite.
 
-- taxis et voitures de tourisme avec chauffeur : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / D. taxis et voitures de tourisme avec chauffeur.
+- taxis et voitures de tourisme avec chauffeur : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / J. Contrôle des équipements d'un véhicule électrique ou hybride / D. taxis et voitures de tourisme avec chauffeur.
 
-- véhicule de moins de dix places, conducteur compris, affecté au transport public de personnes : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / E. Véhicules légers affectés au transport public de personnes.
+- véhicule de moins de dix places, conducteur compris, affecté au transport public de personnes : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / J. Contrôle des équipements d'un véhicule électrique ou hybride / E. Véhicules légers affectés au transport public de personnes.
 
 - véhicule de collection : 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / H. Véhicule de collection.
 
@@ -545,6 +545,44 @@ G.2.1. RESERVOIR DE GAZ
 G.2.2. ACCESSOIRES FIXES SUR LE RESERVOIR
 
 G.2.3. CIRCUIT DE GAZ CARBURANT
+
+G.3. PROTECTION
+
+G.3.1. PROTECTION, CARTER DE PROTECTION DU RÉSERVOIR GAZ
+
+J. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE
+
+J.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES)
+
+J.1.1. COFFRE(S) À BATTERIE(S) DE TRACTION
+
+J.1.2. BATTERIE(S) DE TRACTION
+
+J.1.3. ORIFICE(S) D'AÉRATION DU COFFRE À BATTERIE(S) DE TRACTION
+
+J.2. CIRCUITS ÉLECTRIQUES HAUTE TENSION, AUTRES QUE SERVITUDES
+
+J.2.1. CÂBLAGES ET CONNECTEURS HAUTE TENSION
+
+J.2.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS
+
+J.2.3. CONTINUITÉ DE MASSE
+
+J.3. ÉQUIPEMENTS ÉLECTRIQUES OU ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+J.3.1. ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+J.4. DISPOSITIFS DE SÉCURITÉ
+
+J.4.1. DISPOSITIF ANTIDÉMARRAGE (câble de charge connecté)
+
+J.5. SYSTÈME DE CHARGE
+
+J.5.1. PROTECTION DE LA PRISE SUR VÉHICULE
+
+J.5.2. PRISE(S) SUR VÉHICULE
+
+J.5.3. CÂBLE DE CHARGE
 
 III. - LISTE DES POINTS DE CONTROLE SE SUBSTITUANT AUX FONCTIONS IDENTIFICATION (0), FREINAGE (1) ET LIAISON AU SOL (5) DE LA PARTIE I POUR LES VEHICULES DE COLLECTION
 

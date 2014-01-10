@@ -251,3 +251,13 @@ e) Equipements.
 Ceintures de sécurité.
 
 Dans le cas particulier des véhicules équipés de ceintures à harnais, et à défaut de présentation d'une attestation mentionnant cet équipement délivrée soit par le constructeur ou son représentant, soit par les services en charge de la réception des véhicules, soit par la FFVE, le défaut 7.1.2.1.1 est signalé sur le procès-verbal de contrôle.
+
+Véhicules électriques ou hybrides :
+
+a) Continuité de masse pour les véhicules rechargeables :
+
+La valeur de résistance n'excède pas 100 ohms ;
+
+b) Dispositif antidémarrage (câble de charge connecté) :
+
+Le fonctionnement du dispositif est contrôlé sur les véhicules mis en circulation à compter du 10 janvier 2014.
