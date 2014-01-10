@@ -40,6 +40,9 @@ Directeur central du service de soutien de la flotte (1).
 
 Directeur central du service industriel de l'aéronautique (2).
 
+Directeur général de l'Ecole polytechnique (3).
+
 <font color="#808080" size="1">
-<em>(1) Lorsque ce directeur central est un ingénieur général de l'armement, en application de l'article 2 de l'arrêté du 28 juin 2000 portant organisation du service de soutien de la flotte. (2) Lorsque ce directeur central est un ingénieur général de l'armement. </em>
+<em>(1) Lorsque ce directeur central est un ingénieur général de l'armement, en application de l'article 2 de l'arrêté du 28 juin 2000 portant organisation du service de soutien de la flotte. (2) Lorsque ce directeur central est un ingénieur général de l'armement. (3) Lorsque le directeur général de l'Ecole polytechnique est un ingénieur général de l'armement. <br/>
+</em>
 </font>
