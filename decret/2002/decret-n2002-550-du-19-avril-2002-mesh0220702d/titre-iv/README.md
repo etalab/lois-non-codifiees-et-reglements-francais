@@ -1,6 +1,7 @@
 # TITRE IV : MUTATION, DÉTACHEMENT, INTEGRATION DIRECTE, MISE À DISPOSITION, RECHERCHE D'AFFECTATION ET EVALUATION.
 
 - [Article 22](article-22.md)
+- [Article 22-1](article-22-1.md)
 - [Article 23](article-23.md)
 - [Article 23-1](article-23-1.md)
 - [Article 24](article-24.md)
@@ -10,3 +11,5 @@
 - [Article 24-4](article-24-4.md)
 - [Article 24-5](article-24-5.md)
 - [Article 24-6](article-24-6.md)
+- [Article 24-7](article-24-7.md)
+- [Article 24-8](article-24-8.md)

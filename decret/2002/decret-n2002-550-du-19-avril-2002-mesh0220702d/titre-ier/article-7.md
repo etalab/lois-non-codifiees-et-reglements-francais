@@ -8,4 +8,4 @@ Au niveau régional, la fonction de conseiller technique s'exerce auprès de l'a
 
 Au niveau national, la fonction de conseiller technique s'exerce auprès de l'administration centrale du ministère chargé de la santé dans le même champ de compétence.
 
-Les fonctions prévues au présent article ne sont accessibles qu'aux directeurs des soins de 1re classe.
+Les fonctions prévues au présent article ne sont accessibles qu'aux directeurs des soins  hors classe.

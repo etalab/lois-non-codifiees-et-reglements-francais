@@ -1,10 +1,10 @@
 # Article 5
 
-Le directeur des soins, directeur d'institut de formation ou coordonnateur général d'instituts de formation, exerce les responsabilités et missions définies par la réglementation relative au fonctionnement des instituts de formation paramédicaux et à l'agrément des directeurs de ces instituts. Sous l'autorité du directeur d'établissement, il est responsable :
+Le directeur des soins, directeur d'institut de formation ou coordonnateur général d'instituts de formation, est agréé selon les modalités prévues aux articles R. 4383-4 et R. 4383-5 du code de la santé publique et exerce les responsabilités et missions définies par la réglementation relative au fonctionnement des instituts de formation paramédicaux. Sous l'autorité du directeur d'établissement, il est responsable :
 
 1. De la conception du projet d'institut ;
 
-2. De l'organisation de la formation initiale et continue dispensée dans l'institut ainsi que des sessions de préparation à l'entrée dans ces instituts ; il propose et coordonne la politique de formation en lien avec l'agence régionale de santé et les universités ;
+2. De l'organisation de la formation initiale et continue dispensée dans l'institut ainsi que des sessions de préparation à l'entrée dans ces instituts ; il contribue, en lien avec l'agence régionale de santé et les universités, à la politique de formation définie par la région ;
 
 3. De l'organisation de l'enseignement théorique et pratique ;
 

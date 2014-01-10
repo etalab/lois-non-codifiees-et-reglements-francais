@@ -1,6 +1,6 @@
 # Article 17
 
-Lors de leur titularisation dans le grade de directeur des soins de 2e classe, les élèves directeurs des soins sont classés dans ce grade à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps ou cadre d'emplois d'origine.
+Lors de leur titularisation dans le grade de directeur des soins de classe normale, les élèves directeurs des soins sont classés dans ce grade à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps ou cadre d'emplois d'origine.
 
 Lorsque ce mode de classement ne leur procure pas une augmentation de traitement égale ou supérieure à celle qu'ils auraient obtenue par un avancement d'échelon dans leur précédente situation, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade dans la limite de la durée de l'ancienneté moyenne exigée pour un avancement d'échelon dans leur nouveau grade.
 

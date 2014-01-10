@@ -8,6 +8,4 @@ Après avis de la commission administrative paritaire nationale, le directeur g�
 
 Le directeur général du Centre national de gestion peut toutefois décider, à titre exceptionnel, et sur avis du directeur de l'Ecole des hautes études en santé publique, de prolonger la période de formation de l'élève directeur des soins pour une période allant de trois à douze mois. Si le stage complémentaire a été jugé satisfaisant, l'élève directeur des soins est inscrit sur une liste d'aptitude complémentaire par le directeur général du Centre national de gestion. L'élève directeur des soins est ensuite titularisé et nommé dans les conditions susmentionnées.
 
-Toutefois, la période effectuée en qualité de stagiaire n'est prise en compte dans l'ancienneté que dans la limite d'une année.
-
 Lorsque, à l'issue du cycle de formation de douze mois ou de la période de prolongation précitée, l'élève directeur des soins n'a pas satisfait aux épreuves de fin de formation, il est soit licencié, s'il n'avait pas auparavant la qualité de fonctionnaire, soit réintégré dans son corps ou cadre d'emplois d'origine.

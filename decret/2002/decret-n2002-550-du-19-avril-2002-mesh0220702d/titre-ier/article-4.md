@@ -25,5 +25,3 @@ III. - Sous l'autorité du directeur d'établissement :
 9° Il formule des propositions auprès du directeur d'établissement sur les programmes de recherche en soins infirmiers, de rééducation et médico-techniques ;
 
 10° Il remet au directeur d'établissement un rapport annuel des activités de soins infirmiers, médico-techniques et de rééducation, qui est intégré au rapport annuel d'activité de l'établissement présenté aux différentes instances.
-
-IV. - A l'Assistance publique-hôpitaux de Paris, aux Hospices civils de Lyon et à l'Assistance publique-hôpitaux de Marseille, le nombre des emplois de coordonnateur général des soins est fixé par un arrêté du ministre chargé de la santé.
