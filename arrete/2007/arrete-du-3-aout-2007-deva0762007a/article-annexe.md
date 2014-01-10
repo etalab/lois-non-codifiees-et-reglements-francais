@@ -149,3 +149,9 @@ Paris - Fès (Maroc) ;
 Paris - Marrakech (Maroc) ;
 
 Paris - Rabat (Maroc).
+
+Jusqu'au 31 août 2018 :
+
+Fort-de-France - Saint-John's (Antigua-et-Barbuda) ;
+
+Pointe-à-Pitre - Saint-John's (Antigua-et-Barbuda).
