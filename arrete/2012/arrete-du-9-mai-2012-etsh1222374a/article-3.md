@@ -1,6 +1,6 @@
 # Article 3
 
-En application de l'article 4 du décret du 9 mai 2012 susvisé, les montants annuels de référence de la prime de fonctions et de résultats applicables au corps des directeurs des soins de la fonction publique hospitalière sont fixés comme suit :
+En application de l'article 4 du décret du 9 mai 2012 susvisé, les montants annuels de référence de la prime de fonctions et de résultats applicables au corps des directeurs des soins de la fonction publique hospitalière ou aux emplois fonctionnels de directeur des soins relevant du décret n° 2014-8 du 7 janvier 2014 relatif aux conditions de nomination et d'avancement dans les emplois fonctionnels de directeur des soins de certains établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière sont fixés comme suit :
 
 <div align="center">
 
@@ -8,6 +8,7 @@ En application de l'article 4 du décret du 9 mai 2012 susvisé, les montants an
 <tbody>
 <tr>
 <td rowspan="2" width="167">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="337">
@@ -27,7 +28,7 @@ En application de l'article 4 du décret du 9 mai 2012 susvisé, les montants an
 </tr>
 <tr>
 <td width="167">
-<p>Échelon fonctionnel</p>
+<p>Emplois fonctionnels </p>
 </td>
 <td width="168">
 <p align="center">4 000</p>
@@ -41,7 +42,7 @@ En application de l'article 4 du décret du 9 mai 2012 susvisé, les montants an
 </tr>
 <tr>
 <td width="167">
-<p>1re classe</p>
+<p>Hors-classe </p>
 </td>
 <td width="168">
 <p align="center">3 800</p>
@@ -55,7 +56,7 @@ En application de l'article 4 du décret du 9 mai 2012 susvisé, les montants an
 </tr>
 <tr>
 <td width="167">
-<p>2e classe</p>
+<p>Classe normale </p>
 </td>
 <td width="168">
 <p align="center">3 600</p>
