@@ -25,14 +25,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -42,14 +39,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -59,14 +53,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -76,14 +67,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -92,7 +80,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.1.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -108,14 +95,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -124,7 +108,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.1.1.4.2. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -140,7 +123,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">C</p>
@@ -155,14 +137,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -172,14 +151,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -188,7 +164,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.1.2.4.1. Non concordance avec la carte violette ou l'attestation d'aménagement nécessitant une RTI</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -204,7 +179,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -218,7 +192,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.1.2.4.3. A présenter en configuration couchette (prochaine VT)</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -336,14 +309,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -353,14 +323,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -370,14 +337,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -386,7 +350,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -402,14 +365,9 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
-<td valign="top" width="69">
-<br/>
-<br/>
-</td>
+<td valign="top" width="69"/>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -418,7 +376,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.1.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -434,7 +391,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -449,14 +405,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -465,7 +418,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -481,7 +433,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -496,14 +447,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -513,14 +461,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -529,7 +474,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -545,7 +489,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -559,7 +502,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.2.4.3. Défaut de signalisation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -575,7 +517,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -589,7 +530,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.2.4.5. Vérification périodique annuelle</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -605,14 +545,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -622,14 +559,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -638,7 +572,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -654,7 +587,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -668,7 +600,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.2.3.4.4. Défaut de signalisation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -684,14 +615,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -701,14 +629,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -718,14 +643,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -734,7 +656,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1.1.1. Détérioration notable</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -750,7 +671,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -765,14 +685,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -781,7 +698,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -797,7 +713,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -811,7 +726,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1.2.3. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -827,14 +741,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -843,7 +754,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1.3.1. Défaut notable de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -859,7 +769,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -874,14 +783,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -890,7 +796,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1.4.1. Non conforme</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -906,7 +811,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">R</p>
@@ -920,7 +824,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1.4.3. Contrôle impossible</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -936,7 +839,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -950,7 +852,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.1 4.5. Défaut d'éclairage</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -966,14 +867,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -983,14 +881,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1028,14 +923,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1087,14 +979,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1132,7 +1021,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -1147,14 +1035,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1164,14 +1049,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1180,7 +1062,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.3.4.1. Passage insuffisant</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1224,14 +1105,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1241,14 +1119,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1257,7 +1132,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.4.1.1. Détérioration notable</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1273,7 +1147,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -1288,14 +1161,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1304,7 +1174,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.4.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1320,7 +1189,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -1334,7 +1202,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.4.2.3. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1350,14 +1217,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1366,7 +1230,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.4.3.1. Défaut notable de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1382,7 +1245,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -1397,14 +1259,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1413,7 +1272,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.4.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1429,7 +1287,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">R</p>
@@ -1443,7 +1300,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.4.4.3. Défaut de signalisation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1459,7 +1315,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -1474,14 +1329,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1491,14 +1343,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1522,14 +1371,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1567,14 +1413,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1612,14 +1455,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1629,14 +1469,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1645,7 +1482,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.6.4.1. Passage insuffisant</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -1661,14 +1497,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1678,14 +1511,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1723,14 +1553,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1782,14 +1609,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1827,14 +1651,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1886,14 +1707,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1903,14 +1721,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1934,14 +1749,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1993,14 +1805,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2052,14 +1861,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2069,14 +1875,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2085,7 +1888,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.3.9.4.2. Passage insuffisant</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2101,14 +1903,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2118,14 +1917,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2149,14 +1945,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2180,14 +1973,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2211,14 +2001,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2228,14 +2015,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2245,14 +2029,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2261,7 +2042,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.1.4.1. Passage insuffisant</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2277,14 +2057,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2294,14 +2071,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2310,7 +2084,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.2.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2326,14 +2099,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2342,7 +2112,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.2.2.2. Mauvais fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2358,7 +2127,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -2373,14 +2141,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2389,7 +2154,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.2.3.2. Défaut notable de positionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2405,7 +2169,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -2419,7 +2182,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.2.3.4. Défaut de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2435,14 +2197,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2451,7 +2210,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.2.4.2. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2467,7 +2225,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -2482,14 +2239,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2499,14 +2253,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2515,7 +2266,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.3.4.4. Présence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -2531,14 +2281,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2548,14 +2295,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2579,14 +2323,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2624,14 +2365,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2669,14 +2407,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2714,14 +2449,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2731,14 +2463,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2762,14 +2491,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2821,14 +2547,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2852,14 +2575,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2869,14 +2589,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2900,14 +2617,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2945,14 +2659,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2962,14 +2673,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2993,14 +2701,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3010,14 +2715,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3041,14 +2743,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3058,14 +2757,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3089,14 +2785,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3134,14 +2827,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3150,7 +2840,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.9.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3166,14 +2855,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3183,14 +2869,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3214,14 +2897,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3259,14 +2939,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3275,7 +2952,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.10.4.1. Absence de plusieurs poignées</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3291,7 +2967,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -3306,14 +2981,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3323,14 +2995,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3339,7 +3008,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.11.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3355,14 +3023,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3372,14 +3037,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3388,7 +3050,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.12.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3404,14 +3065,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3421,14 +3079,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3437,7 +3092,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.13.4.1. Champ de vision du conducteur insuffisant</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3453,14 +3107,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3470,14 +3121,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3486,7 +3134,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.14.1.1. Détérioration notable</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3502,7 +3149,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -3517,14 +3163,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3533,7 +3176,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.14.2.1. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3549,14 +3191,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3565,7 +3204,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.14.3.1. Défaut notable de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3581,7 +3219,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -3596,14 +3233,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3612,7 +3246,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.4.14.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3628,7 +3261,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -3643,14 +3275,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3660,14 +3289,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3677,14 +3303,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3693,7 +3316,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3709,14 +3331,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3725,7 +3344,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3741,7 +3359,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -3756,14 +3373,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3773,14 +3387,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3789,7 +3400,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.2.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3805,14 +3415,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3821,7 +3428,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3837,7 +3443,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -3851,7 +3456,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.2.4.5. Non concordance avec la carte violette ou l'attestation d'aménagement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3867,7 +3471,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -3882,14 +3485,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3899,14 +3499,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3915,7 +3512,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.3.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3931,14 +3527,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3947,7 +3540,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.3.2.1. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3963,14 +3555,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3979,7 +3568,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.3 4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -3995,14 +3583,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4012,14 +3597,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4028,7 +3610,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.5.4.2.1. Non fonctionnement batterie coupée</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4044,14 +3625,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4061,14 +3639,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4078,14 +3653,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4094,7 +3666,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4110,14 +3681,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4126,7 +3694,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.1.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4142,7 +3709,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -4156,7 +3722,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.1.2.3. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4172,14 +3737,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4188,7 +3750,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4204,7 +3765,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">R</p>
@@ -4219,14 +3779,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4236,14 +3793,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4252,7 +3806,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.2.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4268,7 +3821,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -4282,7 +3834,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.2.2.3. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4298,14 +3849,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4314,7 +3862,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4330,14 +3877,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4347,14 +3891,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4363,7 +3904,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.3.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4379,14 +3919,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4395,7 +3932,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.3.3.1. Défaut de positionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4411,7 +3947,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -4426,14 +3961,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4442,7 +3974,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.6.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4486,14 +4017,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4503,14 +4031,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4520,14 +4045,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4536,7 +4058,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4552,14 +4073,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4568,7 +4086,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.1.2.1. Non fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4584,7 +4101,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -4598,7 +4114,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.1.2.3. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4614,14 +4129,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4630,7 +4142,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4646,14 +4157,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4663,14 +4171,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4679,7 +4184,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.2.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4695,14 +4199,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4711,7 +4212,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.2.3.3. Défaut notable de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4727,7 +4227,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -4742,14 +4241,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4758,7 +4254,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.7.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4774,14 +4269,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4791,14 +4283,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4808,14 +4297,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4824,7 +4310,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.8.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4840,14 +4325,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4856,7 +4338,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.8.1.2.2. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4872,14 +4353,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4888,7 +4366,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.8.1.4.1. Absence (si compartiment séparé du conducteur)</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4904,14 +4381,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4921,14 +4395,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4938,14 +4409,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4954,7 +4422,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.9.1.2.1. Mauvais alignement des parties avant et arrière</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -4970,14 +4437,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4987,14 +4451,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5003,7 +4464,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>10.9.2.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5019,14 +4479,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5036,14 +4493,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5053,14 +4507,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5084,14 +4535,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5101,14 +4549,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5118,14 +4563,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5135,14 +4577,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5151,7 +4590,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.1.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5167,14 +4605,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5183,7 +4618,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.1.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5199,7 +4633,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">C</p>
@@ -5214,14 +4647,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5231,14 +4661,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5247,7 +4674,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.1.2.4.1. Non concordance avec la carte blanche nécessitant une RTI</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5263,7 +4689,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -5278,14 +4703,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5295,14 +4717,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5312,14 +4731,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5328,7 +4744,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5344,14 +4759,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5360,7 +4772,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5376,7 +4787,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -5391,14 +4801,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5408,14 +4815,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5424,7 +4828,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.2.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5440,14 +4843,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5456,7 +4856,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.2.2.2. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5472,14 +4871,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5488,7 +4884,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5504,14 +4899,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5521,14 +4913,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5537,7 +4926,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.3.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5553,14 +4941,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5569,7 +4954,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.3.2.2. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5585,14 +4969,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5601,7 +4982,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.2.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5617,14 +4997,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5634,14 +5011,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5651,14 +5025,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5667,7 +5038,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.3.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5683,14 +5053,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5700,14 +5067,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5716,7 +5080,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.3.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5732,14 +5095,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5749,14 +5109,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5765,7 +5122,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.3.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5781,14 +5137,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5798,14 +5151,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5814,7 +5164,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.3.4.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5830,14 +5179,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5847,14 +5193,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5863,7 +5206,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.3.5.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5879,14 +5221,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5896,14 +5235,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5912,7 +5248,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>11.3.6.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -5928,14 +5263,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5945,14 +5277,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5962,14 +5291,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5979,14 +5305,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5995,7 +5318,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6011,14 +5333,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6027,7 +5346,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.1.2.2. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6043,14 +5361,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6059,7 +5374,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6075,14 +5389,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6092,14 +5403,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6108,7 +5416,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.2.2.2. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6124,14 +5431,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6140,7 +5444,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6156,14 +5459,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6173,14 +5473,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6189,7 +5486,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.3.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6205,14 +5501,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6221,7 +5514,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>12.1.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6237,7 +5529,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -6252,14 +5543,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6269,14 +5557,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6286,14 +5571,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6303,14 +5585,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6319,7 +5598,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.1.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6335,14 +5613,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6351,7 +5626,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.1.1.4.2. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6367,14 +5641,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6384,14 +5655,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6401,14 +5669,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6432,14 +5697,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6477,14 +5739,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6508,7 +5767,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -6523,14 +5781,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6540,14 +5795,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6557,14 +5809,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6573,7 +5822,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.1.1.2. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6589,14 +5837,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6605,7 +5850,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.1.2.2. Fonctionnement anormal</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6621,14 +5865,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6637,7 +5878,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6653,14 +5893,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6670,14 +5907,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6686,7 +5920,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.2.1.2. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6702,14 +5935,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6718,7 +5948,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.2.2.1. Efficacité globale insuffisante</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6734,7 +5963,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">R</p>
@@ -6748,7 +5976,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.2.2.3. Mauvais fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6764,14 +5991,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6780,7 +6004,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6796,14 +6019,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6813,14 +6033,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6829,7 +6046,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6845,14 +6061,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6862,14 +6075,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6878,7 +6088,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.4.1.1. Visibilité insuffisant du moniteur</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6894,7 +6103,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -6909,14 +6117,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6925,7 +6130,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.4.3.1. Défaut de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6941,14 +6145,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6957,7 +6158,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>13.3.4.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -6973,14 +6173,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -6990,14 +6187,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7063,14 +6257,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7094,14 +6285,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7120,19 +6308,541 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 </tr>
 <tr>
+<td>
+<p>14. CONTRÔLES COMPLÉMENTAIRES DES VÉHICULES ÉLECTRIQUES OU HYBRIDES</p>
+</td>
+<td>
+<br/>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES)</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.1.1. COFFRE(S) À BATTERIE(S) DE TRACTION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.1.1.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.1.1.1.1. Détérioration notable</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.1.1.1.2. Détérioration</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.1.1.3. FIXATION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.1.1.3.1. Défaut notable de fixation</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.1.2. BATTERIE(S) DE TRACTION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.1.2.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.1.2.1.1. Détérioration notable</p>
+</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.1.3. ORIFICE(S) D'AÉRATION DU COFFRE À BATTERIE(S) DE TRACTION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.1.3.4. DIVERS</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.1.3.4.1. Obstrué(s)</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.2. CIRCUITS ÉLECTRIQUES HAUTE TENSION, AUTRES QUE SERVITUDES</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.2.1. CABLAGES ET CONNECTEURS HAUTE TENSION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.2.1.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.2.1.1.1. Détérioration notable</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.2.1.1.2. Détérioration</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.2.1.3. FIXATION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.2.1.3.1. Défaut notable de fixation</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.2.1.3.2. Défaut de fixation</td>
+<td>
+<p align="center">236</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.2.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.2.2.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.2.2.1.1. Détérioration notable</td>
+<td/>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.2.2.1.2. Détérioration</td>
+<td/>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.2.3. CONTINUITÉ DE MASSE</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.2.3.4. DIVERS</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.2.3.4.1. Non conforme</td>
+<td/>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.2.3.4.2. Essai non réalisé</td>
+<td/>
+<td>
+<p align="center">C</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.3. ÉQUIPEMENTS ÉLECTRIQUES OU ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.3.1. ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>
+<br/>14.3.1.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.3.1.1.1. Détérioration notable</td>
+<td/>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.3.1.1.2. Détérioration</td>
+<td/>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.3.1.3. FIXATION</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.3.1.3.1. Défaut notable de fixation</td>
+<td/>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.4. DISPOSITIFS DE SÉCURITÉ</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.4.1. DISPOSITIF ANTI-DÉMARRAGE (câble de charge connecté)</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.4.1.2. FONCTIONNEMENT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.4.1.2.1. Non fonctionnement</td>
+<td/>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.5. SYSTÈME DE CHARGE</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.5.1. PROTECTION DE LA PRISE SUR VÉHICULE</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.5.1.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.5.1.1.1. Détérioration</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.5.1.4. DIVERS</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.5.1.4.1. Absence pour prise extérieure</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.5.2. PRISE(S) SUR VÉHICULE</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.5.2.1. ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.5.2.1.1. Détérioration notable</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>14.5.2.1.2. Détérioration</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.5.3. CÂBLE DE CHARGE</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14.5.3.1.ÉTAT</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.5.3.1.1. Détérioration</td>
+<td/>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.5.3.4. DIVERS</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>14.5.3.4.1. Essai non réalisé</td>
+<td/>
+<td>
+<p align="center">C</p>
+</td>
+<td>
+<p align="center">M</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="399">
 <p>15. CONTROLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES</p>
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7142,14 +6852,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7159,14 +6866,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7176,14 +6880,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7191,10 +6892,7 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <td valign="top" width="399">
 <p>15.1.1.1.1. Détérioration</p>
 </td>
-<td valign="top" width="73">
-<br/>
-<br/>
-</td>
+<td valign="top" width="73"/>
 <td valign="top" width="69">
 <p align="center">O</p>
 </td>
@@ -7208,14 +6906,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7224,7 +6919,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.1.4.4. Citerne non ADR réformée (art 49-4 arrêté ADR) Retrait autorisation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7240,7 +6934,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">X</p>
@@ -7254,7 +6947,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.1.4.6. Absence de liste matières, si citerne non codé</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7270,7 +6962,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">X</p>
@@ -7284,7 +6975,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.1.4.8. Non concordance avec la citerne</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7300,7 +6990,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -7314,7 +7003,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.1.4.11. Certificat d'agrément périmé</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7330,7 +7018,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">C</p>
@@ -7345,14 +7032,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7362,14 +7046,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7378,7 +7059,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.2.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7394,14 +7074,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7410,7 +7087,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.2.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7426,14 +7102,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7443,14 +7116,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7459,7 +7129,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.3.4.1. RTI nécessaire au titre de l'ADR</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7475,7 +7144,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -7489,7 +7157,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.1.3.4.3. Dispositif de freinage anti-blocage non conforme</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7505,7 +7172,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -7520,14 +7186,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7537,14 +7200,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7554,14 +7214,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7570,7 +7227,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.1.1.1. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7586,14 +7242,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7603,14 +7256,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7619,7 +7269,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.3.1.2. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7635,14 +7284,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7651,7 +7297,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.3.3.1. Défaut de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7667,14 +7312,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7683,7 +7325,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.3 4.1. Non ventilé</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7699,7 +7340,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -7714,14 +7354,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7731,14 +7368,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7762,14 +7396,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7778,7 +7409,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.4.3.1. Défaut de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7794,14 +7424,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7881,14 +7508,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7898,14 +7522,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7914,7 +7535,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.5.1.2. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7930,14 +7550,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7946,7 +7563,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.5.3.1. Défaut de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7962,14 +7578,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -7978,7 +7591,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.5.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -7994,7 +7606,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -8008,7 +7619,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.4.6. CHRONOTACHYGRAPHE</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10181,14 +9791,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10197,7 +9804,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.9.12.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10213,14 +9819,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10230,14 +9833,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10246,7 +9846,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.9.13.1.2. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10262,14 +9861,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10278,7 +9874,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.9.13.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10294,7 +9889,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -10309,14 +9903,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10326,14 +9917,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10371,14 +9959,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10444,14 +10029,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10461,14 +10043,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10520,14 +10099,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10536,7 +10112,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.9.15.4.3. Absence du procès-verbal d'épreuve hydraulique</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10552,7 +10127,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -10566,7 +10140,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.9.15.4.5. Absence de contrôle visuel annuel</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10582,7 +10155,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -10596,7 +10168,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.9.15.4.7. Absence de fiche de suivi</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10640,14 +10211,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10657,14 +10225,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10674,14 +10239,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10733,14 +10295,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10749,7 +10308,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.10.2.3.1. Défaut notable de fixation</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10765,7 +10323,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -10780,14 +10337,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10797,14 +10351,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10842,14 +10393,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10858,7 +10406,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.10.3.4.2. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10874,14 +10421,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10891,14 +10435,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10907,7 +10448,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.10.4.1.2. Détérioration</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10923,14 +10463,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10939,7 +10476,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.10.4.2.2. Mauvais fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -10970,14 +10506,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -10986,7 +10519,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.10.4.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11002,7 +10534,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">S</p>
@@ -11017,14 +10548,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11034,14 +10562,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11051,14 +10576,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11067,7 +10589,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.1.1.1. Détérioration notable</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11083,7 +10604,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -11098,14 +10618,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11114,7 +10631,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.1.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11130,14 +10646,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11147,14 +10660,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11192,14 +10702,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11223,14 +10730,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11240,14 +10744,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11256,7 +10757,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.3.2.2. Mauvais fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11272,7 +10772,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -11287,14 +10786,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11303,7 +10799,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.3.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11319,14 +10814,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11336,14 +10828,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11352,7 +10841,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.4.1.1. Détérioration notable</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11368,7 +10856,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -11383,14 +10870,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11399,7 +10883,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.4.2.2. Mauvais fonctionnement</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11415,7 +10898,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <p align="center">O</p>
@@ -11430,14 +10912,11 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 </td>
 <td valign="top" width="73">
 <br/>
-<br/>
 </td>
 <td valign="top" width="69">
 <br/>
-<br/>
 </td>
 <td valign="top" width="66">
-<br/>
 <br/>
 </td>
 </tr>
@@ -11446,7 +10925,6 @@ II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE AP
 <p>15.11.4.4.1. Absence</p>
 </td>
 <td valign="top" width="73">
-<br/>
 <br/>
 </td>
 <td valign="top" width="69">
@@ -11498,22 +10976,16 @@ L'efficacité du frein de service mesurée ou calculée est considérée comme i
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>
-</p>Véhicules de la catégorie M1. <br/>
+<p align="center">Véhicules de la catégorie M1 </p>
 </td>
 <td>
-<p align="center">
-<br/>
-</p>
 <p align="center">Toutes dates </p>
-<br/>
 </td>
 <td>
-<p align="center">50 %</p>
+<p align="center">50 % </p>
 </td>
 <td>
-<p align="center">5 m/s²</p>
+<p align="center">5 m/s² </p>
 </td>
 </tr>
 <tr>
@@ -11522,7 +10994,8 @@ L'efficacité du frein de service mesurée ou calculée est considérée comme i
 <br/>Véhicules de transport en commun de personnes (catégories M2 et M3)</p>
 </td>
 <td>
-<p align="center">Toutes dates</p>
+<p align="center">
+<br/>Toutes dates</p>
 </td>
 <td>
 <p align="center">
@@ -11735,20 +11208,16 @@ L'efficacité du frein de secours mesurée ou calculée est considérée comme i
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>Véhicules de la catégorie M1.</p>
+<p align="center">Véhicules de la catégorie M1 </p>
 </td>
 <td>
-<p align="center">
-<br/>Toutes dates </p>
+<p align="center">Toutes dates</p>
 </td>
 <td>
-<p align="center">
-<br/>25 %</p>
+<p align="center">25 % </p>
 </td>
 <td>
-<p align="center">
-<br/>2,5 m/s²</p>
+<p align="center">2,5 m/s² </p>
 </td>
 </tr>
 <tr>
@@ -11933,6 +11402,16 @@ Les valeurs limites sont définies dans l'arrêté de 5 juillet 1994 susvisé.
 Véhicules-écoles
 
 Tout véhicule-école pour lequel une contre-visite a été prescrite au titre de l'un des points de contrôle de la fonction 1. Freinage ou du point de contrôle 13. 3. 2. Double commande au pied fait l'objet, lors de la contre-visite, des contrôles prescrits par les points de contrôle de la fonction 1. Freinage et par le point de contrôle 13. 3. 2. Double commande au pied .
+
+Véhicules électriques ou hybrides
+
+_a)_Continuité de masse pour les véhicules rechargeables.
+
+La valeur de résistance n'excède pas 100 ohms.
+
+_b)_Dispositif anti-démarrage (câble de charge connecté).
+
+Le fonctionnement du dispositif est contrôlé sur les véhicules mis en circulation à compter du 10 janvier 2014.
 
 APPENDICE 2
 
