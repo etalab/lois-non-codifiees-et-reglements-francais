@@ -8,7 +8,7 @@ La délégation de pouvoirs peut être accordée :
 
 3° En ce qui concerne les agents affectés dans une direction interrégionale de la mer, au préfet de la région dans laquelle se trouve le siège de cette direction ;
 
-4° En ce qui concerne les agents affectés dans un centre d'études techniques de l'équipement, au préfet de la région dans laquelle se trouve le siège de ce service ;
+4° (Supprimé) ;
 
 5° En ce qui concerne les agents affectés dans une direction interdépartementale des routes, au préfet désigné à l'article 2 du décret du 16 mars 2006 susvisé ;
 

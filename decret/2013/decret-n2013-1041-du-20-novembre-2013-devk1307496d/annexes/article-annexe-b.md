@@ -13,9 +13,3 @@ Ecole nationale des techniciens de l'équipement (ENTE).
 Service national d'ingénierie aéroportuaire (SNIA).
 
 Centre ministériel de valorisation des ressources humaines (CMVRH).
-
-Service d'études sur les transports, les routes et leurs aménagements (SETRA).
-
-Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques (CERTU).
-
-Centre d'études techniques maritimes et fluviales (CETMEF).
