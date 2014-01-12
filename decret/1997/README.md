@@ -539,7 +539,6 @@
 - [Décret n°97-282 du 25 mars 1997 (AGRA9700387D)](decret-n97-282-du-25-mars-1997-agra9700387d)
 - [Décret n°97-285 du 25 mars 1997 (INTC9700045D)](decret-n97-285-du-25-mars-1997-intc9700045d)
 - [Décret n°97-409 du 25 avril 1997 (DOME9700002D)](decret-n97-409-du-25-avril-1997-dome9700002d)
-- [Décret n°97-410 du 25 avril 1997 (TAST9710112D)](decret-n97-410-du-25-avril-1997-tast9710112d)
 - [Décret n°97-411 du 25 avril 1997 (FPPA9700042D)](decret-n97-411-du-25-avril-1997-fppa9700042d)
 - [Décret n°97-412 du 25 avril 1997 (FPPA9700043D)](decret-n97-412-du-25-avril-1997-fppa9700043d)
 - [Décret n°97-413 du 25 avril 1997 (FPPA9700044D)](decret-n97-413-du-25-avril-1997-fppa9700044d)
