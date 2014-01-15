@@ -1,0 +1,3 @@
+# Article 10
+
+Lorsque l'éloignement des services d'un comptable de l'Etat, l'existence d'une régie située à l'étranger ou d'autres motifs d'intérêt général le justifient, les régisseurs peuvent être autorisés à titre dérogatoire à ouvrir un compte courant auprès d'un établissement autorisé à effectuer des opérations de banque en vertu du code monétaire et financier. La dérogation est accordée par une autorisation du ministre chargé du budget. Si une telle dérogation est octroyée, l'usage de ce compte est limité aux opérations énumérées dans le cadre de la dérogation et son solde fait l'objet d'un reversement au Trésor selon la périodicité prévue par la décision octroyant la dérogation.
