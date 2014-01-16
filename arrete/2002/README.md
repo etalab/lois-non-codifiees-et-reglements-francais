@@ -336,7 +336,6 @@
 - [Arrêté du 15 février 2002 (AGRG0200357A)](arrete-du-15-fevrier-2002-agrg0200357a)
 - [Arrêté du 15 février 2002 (SANS0220607A)](arrete-du-15-fevrier-2002-sans0220607a)
 - [Arrêté du 15 janvier 2002 (AGRE0200158A)](arrete-du-15-janvier-2002-agre0200158a)
-- [Arrêté du 15 janvier 2002 (DEFP0201093A)](arrete-du-15-janvier-2002-defp0201093a)
 - [Arrêté du 15 janvier 2002 (ECOP0200012A)](arrete-du-15-janvier-2002-ecop0200012a)
 - [Arrêté du 15 janvier 2002 (EQUS0200101A)](arrete-du-15-janvier-2002-equs0200101a)
 - [Arrêté du 15 janvier 2002 (MENF0102685A)](arrete-du-15-janvier-2002-menf0102685a)
