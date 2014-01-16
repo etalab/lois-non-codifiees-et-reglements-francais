@@ -1,60 +1,114 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+<div align="center">INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE </div>
 
-Intitulé :
+NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Titre professionnel de manager d'univers marchand.
+Intitulé : manager d'univers marchand.
 
 Niveau : III.
 
-Code NSF : 312 p.
+Code NSF : 312 t.
 
 Résumé du référentiel d'emploi
 
-Le manager d'univers marchand développe et gère les ventes d'un rayon ou d'un ensemble de rayons de la distribution de produits alimentaires ou non alimentaires et encadre l'équipe qui approvisionne et vend les produits des rayons.
+Le (la) manager d'univers marchand assure la responsabilité d'un univers, d'un secteur ou de l'ensemble d'un point de vente. Il (elle) favorise la dynamique commerciale de son univers marchand. Il (elle) fait évoluer les ventes et gagne des parts de marché sur la concurrence. Il intègre la stratégie marketing multicanal de l'enseigne afin de développer les ventes complémentaires et fidéliser la clientèle.
 
-Il (elle) organise le marchandisage du rayon afin d'en optimiser les ventes. A cette fin, il (elle) analyse et synthétise les informations commerciales et les études de marché relatives à la consommation et à son environnement professionnel. Gestionnaire d'un centre de profit, il (elle) analyse les indicateurs de gestion du tableau de bord et détermine les moyens nécessaires pour atteindre les objectifs de chiffre d'affaires, de marge et de frais généraux. Il (elle) organise et contrôle le travail de ses collaborateurs. Il (elle) contribue à leur recrutement et à leur formation. Il (elle) fédère son équipe autour de projets en créant un climat professionnel favorable.
+Il (elle) organise l'approvisionnement du rayon, assure la présentation marchande des produits et optimise les ventes.
 
-Il (elle) négocie les objectifs de vente avec sa hiérarchie et lui rend compte de ses résultats. Il (elle) dispose d'une large autonomie dans le cadre des responsabilités qui lui sont conférées.
+Il (elle) gère le centre de profit, recueille les informations commerciales, analyse les indicateurs de gestion et bâtit des plans d'action pour atteindre les objectifs négociés. Il (elle) établit les prévisions de chiffres d'affaires et de marges.
 
-Capacités attestées et descriptif
+Il (elle) anime l'équipe, la dirige, la fait progresser et adhérer aux projets et aux valeurs de l'entreprise.
 
-des composantes de la certification
+Le (la) manager d'univers marchand exerce en moyenne ou grande surface, alimentaire ou non alimentaire sous la responsabilité du (de la) directeur (trice) du magasin ou d'un (e) chef de secteur avec qui il (elle) communique de manière permanente. Il (elle) participe et rend compte au comité de direction. Il (elle) dispose d'une large autonomie de décision et d'organisation dans le cadre des politiques et stratégies définies.
+
+Il (elle) gère une équipe composée d'adjoint (e) s, d'employé (e) s commerciaux, de vendeurs (ses) et parfois d'hôtes (ses) de caisse. Organisateur (trice) et animateur (trice), il (elle) collabore avec les autres services du magasin tels que le service administratif, l'accueil, le service caisse, la réception marchandise. Il (elle) collabore aussi avec les services centraux tels que la direction des achats, la direction marketing, la centrale d'achats, le service logistique et est en relation avec les clients, fournisseurs, représentants-marchandiseurs et livreurs du magasin.
+
+Son travail s'effectue au bureau et sur la surface de vente. Ses horaires sont flexibles du lundi au samedi en fonction de l'activité du rayon ou de l'espace de vente et il (elle) peut travailler certains jours fériés et dimanches.
+
+L'emploi nécessite des déplacements fréquents à l'intérieur et à l'extérieur du magasin, une station debout quasi permanente dans une ambiance animée. Un rythme de travail soutenu, un relationnel humain important font partie du quotidien du (de la) manager d'univers marchand.
+
+Capacités attestées et descriptif des composantes de la certification
 
 1. Développer la dynamique commerciale d'un univers marchand
 
-Organiser le marchandisage du rayon et des produits.
+Organiser et garantir la présentation marchande des produits en magasin.
 
-Gérer les stocks et garantir la présence des assortiments permanents et saisonniers préconisés par l'entreprise.
+Gérer les achats des marchandises de l'univers marchand, veiller à la gestion des stocks et au rangement des produits en réserve.
 
-Animer et optimiser les ventes d'un univers marchand.
+Dynamiser les ventes des produits et garantir la qualité du service client.
 
 2. Gérer les résultats économiques d'un univers marchand
 
-Etablir des prévisions en tenant compte des préconisations de l'enseigne et de son marché potentiel.
+Analyser les résultats économiques et bâtir les plans actions pour atteindre les objectifs de l'univers marchand.
 
-Analyser les indicateurs de gestion du tableau de bord et bâtir des plans d'action pour atteindre les objectifs de l'univers marchand.
+Etablir les prévisions économiques de l'univers marchand.
 
 3. Manager l'équipe d'un univers marchand
 
-Planifier et vérifier le travail de l'équipe de l'univers marchand.
+Planifier et organiser l'activité de l'équipe de l'univers marchand.
 
-Former et faire évoluer les collaborateurs de l'univers marchand.
+Gérer l'équipe de l'univers marchand.
 
-Faire adhérer l'équipe aux projets commerciaux de l'univers marchand.
+Mener et animer un projet de l'univers marchand ou de l'enseigne.
 
-Secteurs d'activités ou types d'emploi
+Compétences transversales de l'emploi (le cas échéant)
 
-accessibles par le détenteur du titre
+Diriger une équipe.
 
-Tout secteur du commerce et de la distribution de produits alimentaires ou non alimentaires, dans les grandes et moyennes surfaces ou dans les magasins spécialisés, fonctionnant en libre service ou en vente conseil assistée.
+Organiser, préparer une action.
 
-L'emploi visé est aussi dénommé : manager de rayon, d'espace commercial, de surface de vente ou de magasin, responsable des ventes, chef des ventes, chef de rayon.
+Evaluer des performances et/ ou des résultats.
+
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+
+Les différents secteurs d'activités concernés sont principalement :
+
+-grandes et moyennes surfaces alimentaires ou spécialisées ;
+
+-boutiques ;
+
+-négoces interentreprises.
+
+Les types d'emplois accessibles sont les suivants :
+
+-manager de rayon ;
+
+-manager d'espace commercial ;
+
+-manager de surface de vente ;
+
+-manager d'univers commercial ;
+
+-manager en magasin ;
+
+-manager métier ;
+
+-manager commercial ;
+
+-responsable d'univers marchand ;
+
+-responsable de magasin ;
+
+-responsable des ventes ;
+
+-responsable d'exploitation ;
+
+-gestionnaire d'univers marchand ;
+
+-gestionnaire de centre de profit ;
+
+-chef des ventes ;
+
+-chef de rayon ;
+
+-chef de secteur.
 
 Codes ROME :
 
-14113,14114.
+D 1502-Management/ gestion de rayon produits alimentaires ;
+
+D 1503-Management/ gestion de rayon produits non alimentaires.
 
 Réglementation de l'activité :
 
@@ -66,8 +120,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 4 mars 2014.
