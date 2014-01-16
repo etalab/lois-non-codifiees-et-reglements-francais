@@ -1,0 +1,7 @@
+# Article 6
+
+Pour l'épreuve obligatoire de langue vivante, les candidats ont à choisir entre les langues vivantes énumérées ci-après : allemand, anglais, arabe littéral, arménien, cambodgien, chinois, danois, espagnol, finnois, grec moderne, hébreu moderne, italien, japonais, néerlandais, norvégien, persan, polonais, portugais, russe, suédois, turc, vietnamien.
+
+Au titre de l'épreuve de langue vivante facultative, les candidats peuvent choisir les langues énumérées ci-après : allemand, amharique, anglais, arabe, arménien, berbère (chleu ou rifain ou kabyle), bulgare, cambodgien, chinois, créole, danois, espagnol, finnois, grec moderne, hébreu moderne, hongrois, islandais, italien, japonais, laotien, malgache, néerlandais, norvégien, persan, polonais, portugais, roumain, russe, serbe, croate, suédois, tchèque, turc, vietnamien, basque, breton, catalan, corse, gallo, occitan, tahitien, langues régionales d'Alsace, langues régionales des pays mosellans, langues mélanésiennes (ajië, drehu, nengone, paicî).
+
+Cette interrogation n'est autorisée que dans les académies où il est possible d'adjoindre au jury un examinateur compétent.
