@@ -53,7 +53,6 @@
 - [Arrêté du 2 novembre 2011 (DEFH1116907A)](arrete-du-2-novembre-2011-defh1116907a)
 - [Arrêté du 2 novembre 2011 (DEVA1130078A)](arrete-du-2-novembre-2011-deva1130078a)
 - [Arrêté du 2 novembre 2011 (DEVR1130045A)](arrete-du-2-novembre-2011-devr1130045a)
-- [Arrêté du 2 novembre 2011 (IOCE1129957A)](arrete-du-2-novembre-2011-ioce1129957a)
 - [Arrêté du 2 novembre 2011 (TRAT1128150A)](arrete-du-2-novembre-2011-trat1128150a)
 - [Arrêté du 2 octobre 2011 (ETSD1122830A)](arrete-du-2-octobre-2011-etsd1122830a)
 - [Arrêté du 2 septembre 2004 (SOCF0411803A)](arrete-du-2-septembre-2004-socf0411803a)
