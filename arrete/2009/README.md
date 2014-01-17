@@ -1934,7 +1934,6 @@
 - [Arrêté du 23 juin 2009 (MTSS0914399A)](arrete-du-23-juin-2009-mtss0914399a)
 - [Arrêté du 23 juin 2009 (SASH0907264A)](arrete-du-23-juin-2009-sash0907264a)
 - [Arrêté du 23 juin 2009 (SASP0907157A)](arrete-du-23-juin-2009-sasp0907157a)
-- [Arrêté du 23 juin 2009 (SASP0907163A)](arrete-du-23-juin-2009-sasp0907163a)
 - [Arrêté du 23 juin 2009 (SASS0912227A)](arrete-du-23-juin-2009-sass0912227a)
 - [Arrêté du 23 mars 2009 (DEFH0906776A)](arrete-du-23-mars-2009-defh0906776a)
 - [Arrêté du 23 mars 2009 (DEFP0950789A)](arrete-du-23-mars-2009-defp0950789a)
