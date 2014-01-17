@@ -1,35 +1,27 @@
 # Article 7
 
-La sous-direction de l'enseignement supérieur et de la recherche est chargée des pôles de compétences, de la recherche et de l'enseignement supérieur.
+La sous-direction de l'enseignement supérieur prépare les dispositions législatives et réglementaires relatives à l'enseignement supérieur agricole et suit leur mise en œuvre. Elle exerce la tutelle sur les établissements publics d'enseignement supérieur, pour le compte du ministère.
 
-Elle est chargée d'impulser et de coordonner la politique de contractualisation avec les pôles de compétences et d'animer les missions de recherche des établissements et des pôles de compétences.
+Elle veille, par la coordination et l'orientation des activités - notamment de formation et de recherche - des établissements d'enseignement supérieur agricole, à leur contribution aux politiques portées par le ministère chargé de l'agriculture, en cohérence avec les priorités nationales, européennes et internationales en matière d'enseignement supérieur et de recherche. Dans ce cadre, elle veille particulièrement aux conditions d'insertion de ces établissements dans les politiques de sites.
 
-Elle assure la cotutelle de l'Institut national de la recherche agronomique (INRA) et du Centre national du machinisme agricole, du génie rural, des eaux et forêts (CEMAGREF). Elle participe au conseil d'administration du Centre de coopération internationale en recherche agronomique pour le développement (CIRAD) et de l'Agence française de sécurité sanitaire des aliments (AFSSA).
+Elle conduit le dialogue de gestion avec les établissements publics d'enseignement supérieur agricole. Elle détermine les besoins en personnels de l'ensemble de ces établissements et participe à la préparation des textes statutaires des personnels.
 
-Elle prépare et suit les évaluations en relation avec l'Agence d'évaluation de la recherche et de l'enseignement supérieur (AERES).
+Elle exerce les prérogatives du ministère chargé de l'agriculture à l'égard des établissements privés d'enseignement supérieur. Dans ce cadre, elle prépare et met en œuvre la politique de contractualisation entre l'Etat et ces établissements.
 
-Elle conduit les politiques relatives à l'ensemble des formations postérieures au baccalauréat, en liaison avec le ministère chargé de l'enseignement supérieur. Elle veille à leur cohérence dans une perspective nationale, européenne et internationale. Elle est chargée de la définition, de la mise en œuvre et du suivi des politiques de recherche dans les pôles de compétences.
+Elle conduit les politiques relatives à l'ensemble des formations de l'enseignement agricole postérieures au baccalauréat, en liaison avec le ministère chargé de l'enseignement supérieur et veille à leur cohérence dans une perspective nationale, européenne et internationale.
 
-Elle exerce la tutelle sur les établissements publics d'enseignement supérieur et les prérogatives du ministère chargé de l'agriculture à l'égard des établissements d'enseignement supérieur privés.
+Elle prépare les dispositions législatives et réglementaires relatives au recrutement des étudiants dans les établissements publics.
 
-Elle prépare les textes statutaires des établissements publics d'enseignement supérieur.
+Elle coordonne la définition et l'actualisation des référentiels conduisant aux diplômes. Elle veille à la mise en œuvre de la délivrance des diplômes.
 
-Elle prépare et met en œuvre la politique de contractualisation entre l'Etat et les établissements d'enseignement supérieur.
+Elle prépare et suit les évaluations en relation avec le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (HCERES).
 
-Elle détermine les besoins en personnels de l'ensemble des établissements.
+Elle assure le pilotage et le suivi du système national d'appui à l'enseignement agricole.
 
-Elle participe à la préparation des textes statutaires des personnels.
+La sous-direction de l'enseignement supérieur comprend :
 
-Elle coordonne la définition et l'actualisation des référentiels conduisant aux diplômes.
+- le bureau de la stratégie territoriale et de l'appui ;
 
-Elle veille à la mise en œuvre de la délivrance des diplômes.
+- le bureau des formations de l'enseignement supérieur ;
 
-Elle prépare la réglementation relative au contrôle du recrutement des étudiants dans les établissements publics.
-
-La sous-direction de l'enseignement supérieur et de la recherche comprend :
-
-― le bureau des pôles de compétences et de la recherche ;
-
-― le bureau des formations de l'enseignement supérieur ;
-
-― le bureau des établissements et des contrats.
+- le bureau des établissements et des contrats.

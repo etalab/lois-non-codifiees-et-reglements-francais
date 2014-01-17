@@ -8,7 +8,7 @@ Les principes communs aux deux modalités de tarification sont fixés en annexe 
 
 Les modalités de tarification expérimentées sont :
 
-― une tarification à l'activité et aux services rendus sous la forme d'un forfait global en application d'un cahier des charges national fixé en annexe 2 du présent arrêté ;
+― une tarification à l'activité et aux services rendus sous la forme d'un forfait global en application d'un cahier des charges national fixé en annexe 2 ou 2 bis du présent arrêté ;
 
 ― une tarification horaire en fonction du type de prestations rendues en application de l'annexe 3 du présent arrêté.
 

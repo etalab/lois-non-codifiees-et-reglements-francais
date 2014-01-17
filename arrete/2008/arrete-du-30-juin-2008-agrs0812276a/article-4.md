@@ -4,6 +4,8 @@ La sous-direction des politiques de formation et d'éducation est chargée de la
 
 Elle définit les orientations pédagogiques et l'action éducatrice des établissements d'enseignement technique publics et privés.
 
+Elle pilote les politiques d'innovation pédagogique et assure le suivi des initiatives correspondantes dans les établissements.
+
 Elle définit et actualise les référentiels conduisant aux diplômes, titres et certificats de capacité professionnelle nationaux de l'enseignement général, technologique et professionnel agricole.
 
 Elle assure l'intégration de l'éducation au développement durable au sein des dispositifs de formation mis en œuvre par le ministère chargé de l'agriculture.
@@ -20,7 +22,7 @@ Elle contribue à la définition et au suivi de la mise en œuvre des parcours �
 
 Elle assure le secrétariat de la commission professionnelle consultative et la liaison avec la Commission nationale des certifications professionnelles.
 
-Elle assure l'orientation et la réglementation relative à la vie scolaire et étudiante.
+Elle assure l'orientation et la réglementation relative à la vie scolaire et étudiante dans l'enseignement technique et dans l'enseignement supérieur agricoles.
 
 Elle élabore les orientations et coordonne les actions en matière de santé publique, d'hygiène et de sécurité réalisées à destination des publics en formation.
 
@@ -34,10 +36,10 @@ Elle anime la politique d'orientation scolaire et professionnelle, et met en œu
 
 La sous-direction des politiques de formation et d'éducation comprend :
 
-― le bureau des diplômes de l'enseignement technique ;
+- le bureau des diplômes de l'enseignement technique ;
 
-― le bureau des partenariats professionnels ;
+- le bureau des partenariats professionnels ;
 
-― le bureau de la vie scolaire, étudiante et de l'insertion ;
+- le bureau de la vie scolaire, étudiante et de l'insertion ;
 
-― la mission des examens.
+- la mission des examens.
