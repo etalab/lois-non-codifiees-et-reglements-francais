@@ -24,8 +24,8 @@ Elle participe aux politiques européennes et internationales dans l'ensemble de
 
 La sous-direction de l'autonomie des personnes handicapées et des personnes âgées comprend :
 
-1° Le bureau des services et des établissements ;
+1° Le bureau de la prévention de la perte d'autonomie et du parcours de vie des personnes âgées ;
 
-2° Le bureau de l'insertion et de la citoyenneté ;
+2° Le bureau de l'insertion, de la citoyenneté et du parcours de vie des personnes handicapées ;
 
 3° Le bureau des droits et des aides à la compensation.
