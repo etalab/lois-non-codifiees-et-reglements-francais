@@ -14,7 +14,9 @@ La commission d'aptitude professionnelle est composée :
 
 ― du directeur de greffe ;
 
-― du responsable de la gestion de la formation auprès d'une cour d'appel.
+― du responsable de la gestion de la formation auprès d'une cour d'appel ;
+
+― de deux personnalités extérieures choisies en raison de leurs compétences  en matière de formation ou de gestion des ressources humaines.
 
 Le président de la commission peut convoquer à titre d'expert toute personne susceptible d'apporter un complément d'informations sur le dossier.
 
