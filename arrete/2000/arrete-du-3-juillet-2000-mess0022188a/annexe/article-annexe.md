@@ -148,6 +148,8 @@ Ateliers Henri Lardet, puis lardet Babcock, puis Babcock entreprise, puis CNIM :
 
 Buflon, ZI Sud, rue des Aviots, BP 61, 88152 Thaon-les-Vosges Cedex : de 1960 à 1986 ;
 
+Compagnie des Cristalleries de Baccarat, Rue des Cristalleries, 54120 Baccarat De 1949 à 1995, puis Manufactures de Baccarat De 1995 à 1996
+
 EDC/Société Ed. Durand et Cie, 7, route de Pont-à-Mousson, 54518 Thiaucourt-Regniéville : de 1935 à 1995 ;
 
 Eurofrein/Beral France/Textar/BBA Friction, 10, rue Denis-Papin, 57150 Creutzwald : de 1962 à 1994 ;
