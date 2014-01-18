@@ -475,7 +475,6 @@
 - [Arrêté du 7 juin 1994 (COMA9400009A)](arrete-du-7-juin-1994-coma9400009a)
 - [Arrêté du 7 juin 2010 (AGRG1014598A)](arrete-du-7-juin-2010-agrg1014598a)
 - [Arrêté du 7 juin 2010 (DEFD1009939A)](arrete-du-7-juin-2010-defd1009939a)
-- [Arrêté du 7 juin 2010 (DEVK1015187A)](arrete-du-7-juin-2010-devk1015187a)
 - [Arrêté du 7 juin 2010 (DEVN1012658A)](arrete-du-7-juin-2010-devn1012658a)
 - [Arrêté du 7 juin 2010 (DEVT1014749A)](arrete-du-7-juin-2010-devt1014749a)
 - [Arrêté du 7 juin 2010 (ECES1015100A)](arrete-du-7-juin-2010-eces1015100a)
