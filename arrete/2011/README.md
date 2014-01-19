@@ -1750,7 +1750,6 @@
 - [Arrêté du 21 avril 2011 (BCRD1111183A)](arrete-du-21-avril-2011-bcrd1111183a)
 - [Arrêté du 21 avril 2011 (DEVA1105137A)](arrete-du-21-avril-2011-deva1105137a)
 - [Arrêté du 21 avril 2011 (DEVP1111424A)](arrete-du-21-avril-2011-devp1111424a)
-- [Arrêté du 21 avril 2011 (ETSP1109113A)](arrete-du-21-avril-2011-etsp1109113a)
 - [Arrêté du 21 avril 2011 (IOCJ1031500A)](arrete-du-21-avril-2011-iocj1031500a)
 - [Arrêté du 21 décembre 2010 (DEVA1031669A)](arrete-du-21-decembre-2010-deva1031669a)
 - [Arrêté du 21 décembre 2010 (DEVL1025356A)](arrete-du-21-decembre-2010-devl1025356a)
