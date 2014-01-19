@@ -1116,7 +1116,6 @@
 - [Arrêté du 13 janvier 2012 (EFII1200133A)](arrete-du-13-janvier-2012-efii1200133a)
 - [Arrêté du 13 janvier 2012 (EFII1200134A)](arrete-du-13-janvier-2012-efii1200134a)
 - [Arrêté du 13 janvier 2012 (ETSH1201367A)](arrete-du-13-janvier-2012-etsh1201367a)
-- [Arrêté du 13 janvier 2012 (ETSP1201303A)](arrete-du-13-janvier-2012-etsp1201303a)
 - [Arrêté du 13 janvier 2012 (MFPF1200428A)](arrete-du-13-janvier-2012-mfpf1200428a)
 - [Arrêté du 13 janvier 2012 (PRMX1204276A)](arrete-du-13-janvier-2012-prmx1204276a)
 - [Arrêté du 13 juillet 2012 (AGRG1229148A)](arrete-du-13-juillet-2012-agrg1229148a)
