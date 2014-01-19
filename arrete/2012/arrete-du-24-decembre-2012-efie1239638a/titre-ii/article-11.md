@@ -16,7 +16,7 @@ d) Par l'une des formes de carte de paiement suivantes :
 
 e) Par carte bancaire, dans certains cas, pour les timbres fiscaux, à distance ou au guichet d'un comptable public ou d'un distributeur de timbre, lorsqu'ils sont dotés de l'équipement de lecture de carte ;
 
-f) En espèces lorsque le montant unitaire de la recette est inférieur au plafond fixé par l'article D. 112-3 du code monétaire et financier ;
+f) En espèces lorsque le montant unitaire de la recette est inférieur au plafond fixé par l'article 1680 du code général des impôts ;
 
 g) Par mandat postal ;
 

@@ -4,7 +4,7 @@ Sur la base du rapport décrit à l'article 2 et conformément au IX de l'articl
 
 Cette convention, visant le présent arrêté, indique notamment :
 
-1° Le montant unitaire des mandats en dessous duquel l'ordonnateur est dispensé de produire au comptable les pièces justificatives prévues pour la dépense correspondante dans la liste définie à l'annexe I du code général des collectivités territoriales ;
+1° Le montant de la dépense mandatée au profit d'un créancier en dessous duquel l'ordonnateur est dispensé de produire au comptable les pièces justificatives prévues pour la dépense correspondante dans la liste définie à l'annexe I du code général des collectivités territoriales ;
 
 2° Les rubriques et leurs subdivisions de la liste figurant en annexe I du même code afin de définir le périmètre d'application du contrôle allégé en partenariat ;
 
