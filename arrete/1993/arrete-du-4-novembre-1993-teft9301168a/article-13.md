@@ -1,6 +1,6 @@
 # Article 13
 
-Lorsqu'en application des articles R. 235-3-11 ou R. 232-1-9 du code du travail les voies de circulation doivent être clairement identifiées, ces voies doivent être bordées par des bandes continues d'une couleur bien visible, de préférence blanche ou jaune, compte tenu de la couleur du sol.
+Lorsqu'en application des articles R. 4214-11 ou R. 4224-3 du code du travail les voies de circulation doivent être clairement identifiées, ces voies doivent être bordées par des bandes continues d'une couleur bien visible, de préférence blanche ou jaune, compte tenu de la couleur du sol.
 
 L'emplacement des bandes doit tenir compte des distances de sécurité nécessaires entre les véhicules qui peuvent y circuler et tout objet pouvant se trouver à proximité et entre les piétons et les véhicules.
 

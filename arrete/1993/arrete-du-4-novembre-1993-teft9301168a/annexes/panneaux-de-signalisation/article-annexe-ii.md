@@ -20,7 +20,13 @@ En cas de mauvaises conditions d'éclairage naturel, des couleurs phosphorescent
 
 Un panneau doit être enlevé lorsque la situation le justifiant disparaît.
 
-Les panneaux conformes à la norme NF X 08-003 ou à toute autre norme en vigueur dans un autre Etat membre de la communauté économique européenne et justifiant d'une équivalence avec la norme française sont réputés satisfaire aux prescriptions de la présente annexe.
+Jusqu'au 31 décembre 2013, les panneaux conformes à la norme NF X 08-003 ou à toute autre norme en vigueur dans un autre Etat membre de l'Union européenne justifiant d'une équivalence avec la norme française ou à la norme NF EN ISO 7010, version avril 2013, sont réputés satisfaire aux prescriptions de la présente annexe ;
+
+Au 1er janvier 2014 :
+
+- les panneaux déjà installés, conformes à la norme NF X 08-003 ou à toute autre norme en vigueur dans un autre Etat membre de l'Union européenne justifiant d'une équivalence avec la norme française ou à la norme NF EN ISO 7010, version avril 2013, sont réputés satisfaire aux prescriptions de la présente annexe ;
+
+- les nouveaux panneaux installés, conformes à la norme NF EN ISO 7010, version avril 2013, ou à toute autre norme en vigueur dans un autre Etat membre de l'Union européenne justifiant d'une équivalence avec la norme française, sont réputés satisfaire aux prescriptions de la présente annexe.
 
 2. Panneaux d'interdiction.
 
