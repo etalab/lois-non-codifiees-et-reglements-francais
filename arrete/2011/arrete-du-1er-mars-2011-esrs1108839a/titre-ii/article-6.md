@@ -14,7 +14,7 @@ La banque d'épreuves de la filière MP comporte les épreuves suivantes :
 
 La banque d'épreuves de la filière PC comporte les épreuves suivantes :
 
-― chimie ;
+-chimie A et B ;
 
 ― mathématiques ;
 
