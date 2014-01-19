@@ -912,7 +912,7 @@ SNEF Electric Flux, 43 bis, rue Hippolyte-de-Tocqueville, 50100 Cherbourg de 195
 
 SNIFI/EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968 ; SNIFI/EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994 ; SNIFI/EFI, chemin de la Darse, BP 32, 76330 Notre-Dame-de-Gravenchon, de 1969 à 1994 ; SNIFI/EFI, ZI, BP 5042, 76071 Le Havre, de 1973 à 1994 ;
 
-SA AKIS, ZI, 76220 Gournay-en-Bray : de 1977 à 1983 ;
+AKIS, ZI, 76220 Gournay-en-Bray : de 1968 à 1983 ;
 
 Société européenne des asphaltes, boulevard de Stalingrad Le Grand-Quevilly : de 1972 à 1981 ;
 

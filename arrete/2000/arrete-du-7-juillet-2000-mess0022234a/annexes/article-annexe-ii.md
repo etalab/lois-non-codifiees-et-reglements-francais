@@ -278,7 +278,7 @@ Ateliers mécaniques Bougar :
 
 Ateliers mécaniques de Keroman, rue Maurice-Le Léon, 56100 Lorient : de 1967 à 1994
 
-Ateliers mécaniques lorientais, 2, rue Fulvy, 56100 Lorient, de 1994 à 1996.
+Ateliers mécaniques lorientais 2, rue Fulvy, 56100 Lorient de 1994 à 1996 puis 13, boulevard Louis-Nail, 56100 Lorient de 1997 à 2012
 
 Atelier motonautique, Port-la-Forêt, 29940 La Forêt-Fouessant : depuis 1977.
 
