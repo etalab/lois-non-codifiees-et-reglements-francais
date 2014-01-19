@@ -7,4 +7,3 @@
 - [Chapitre VI : Des mandats](chapitre-vi)
 - [Chapitre VII : Surveillance, contrôle et discipline.](chapitre-vii)
 - [Chapitre VIII : Des activités d'entremise et de gestion immobilières permises aux sociétés de géomètres experts.](chapitre-viii)
-- [Chapitre IX : Dispositions transitoires et mise en oeuvre.](chapitre-ix)

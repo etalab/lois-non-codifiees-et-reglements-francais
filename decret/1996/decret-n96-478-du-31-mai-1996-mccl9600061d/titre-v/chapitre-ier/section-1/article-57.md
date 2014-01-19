@@ -14,6 +14,8 @@ Clermont-Ferrand : Allier, Cantal, Corrèze, Creuse, Haute-Loire, Puy-de-Dôme, 
 
 Dijon : Côte-d'Or, Doubs, Jura, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, territoire de Belfort.
 
+Le Lamentin : Martinique, Guadeloupe, Guyane et les collectivités territoriales de Saint-Martin et Saint-Barthélemy.
+
 Lyon : Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie.
 
 Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Var, Vaucluse.
@@ -31,6 +33,8 @@ Poitiers : Charente, Charente-Maritime, Deux-Sèvres, Vienne.
 Rennes : Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
 
 Rouen : Calvados, Eure, Manche, Orne, Seine-Maritime.
+
+Saint-Denis de La Réunion : La Réunion.
 
 Strasbourg : Moselle, Bas-Rhin, Haut-Rhin.
 

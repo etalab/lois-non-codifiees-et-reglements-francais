@@ -2,6 +2,8 @@
 
 Dans sa composition résultant du renouvellement par tiers et à l'issue de l'assemblée générale qui y a procédé, le conseil régional élit successivement en son sein, sous la présidence du commissaire du Gouvernement ou de son délégué, le président, le premier vice-président, le trésorier et le secrétaire. Il peut en outre élire un deuxième vice-président.
 
+Le conseil régional élit en son sein, à l'exception du président, une ou deux personnes exerçant les fonctions de chargé de la déontologie.
+
 L'élection a lieu au scrutin secret et en présence des deux tiers au moins des membres du conseil régional.
 
 Seuls les présents prennent part au vote.

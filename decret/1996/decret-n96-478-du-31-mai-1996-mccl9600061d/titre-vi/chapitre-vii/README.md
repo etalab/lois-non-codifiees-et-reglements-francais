@@ -1,3 +1,3 @@
-# Chapitre VII : De l'application de la surveillance, du contrôle et de la discipline aux géomètres experts stagiaires et associés et aux sociétés de géomètres experts.
+# Chapitre VII : Du champ d'application de la surveillance, du contrôle et de la discipline.
 
 - [Article 120](article-120.md)

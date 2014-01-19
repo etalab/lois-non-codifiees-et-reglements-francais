@@ -24,4 +24,4 @@ b) Ou lorsqu'une ou plusieurs des activités professionnelles mentionnées au 1�
 
 Préalablement à sa décision, le ministre vérifie si les connaissances acquises par le ressortissant ou la personne physique mentionnés à l'article 7 au cours de son expérience professionnelle sont de nature à couvrir tout ou partie des différences mentionnées aux a et b.
 
-Le ressortissant ou la personne physique mentionnés à l'article 7 a le choix entre le stage d'adaptation et l'épreuve d'aptitude.
+Seul le ressortissant mentionné à l'article 7 a le choix entre le stage d'adaptation et l'épreuve d'aptitude.
