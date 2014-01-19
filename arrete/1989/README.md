@@ -205,7 +205,6 @@
 - [Arrêté du 13 avril 1989 (ACVA8910030A)](arrete-du-13-avril-1989-acva8910030a)
 - [Arrêté du 13 avril 1989 (MERG8900030A)](arrete-du-13-avril-1989-merg8900030a)
 - [Arrêté du 13 avril 1989 (SPSH8900829A)](arrete-du-13-avril-1989-spsh8900829a)
-- [Arrêté du 13 décembre 1988 (DEFP8801734A)](arrete-du-13-decembre-1988-defp8801734a)
 - [Arrêté du 13 décembre 1988 (TEFT8804182A)](arrete-du-13-decembre-1988-teft8804182a)
 - [Arrêté du 13 décembre 1989 (ECOT8910060A)](arrete-du-13-decembre-1989-ecot8910060a)
 - [Arrêté du 13 février 1989 (PTTT8900160A)](arrete-du-13-fevrier-1989-pttt8900160a)
