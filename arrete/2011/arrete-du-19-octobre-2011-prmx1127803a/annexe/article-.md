@@ -58,4 +58,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture du site d'inspection sanitaire permanente de l'abattoir de Lampaul-Guimiliau de la direction départementale de la protection des populations du Finistère ;
 
-- fermeture de l'implantation territoriale de Gien de la direction départementale des territoires du Loiret.
+- fermeture de l'implantation territoriale de Gien de la direction départementale des territoires du Loiret ;
+
+- fermeture des implantations territoriales de Barr, Soufflenheim, Wasselonne et Bouxwiller de la direction départementale des territoires du Bas-Rhin ;
+
+- fermeture des implantations territoriales de Fécamp, Forges-les-Eaux, Neufchâtel-en-Bray, Pavilly et Yvetot de la direction départementale des territoires et de la mer de Seine-Maritime.

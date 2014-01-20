@@ -1,16 +1,14 @@
 # Article 1
 
-La liste des Etats et territoires mentionnée au deuxième alinéa du 1 de l'article 238-0 A du code général des impôts est, à compter du 1er janvier 2013, composée des Etats et territoires suivants :
+La liste des Etats et territoires mentionnée au deuxième alinéa du 1 de l'article 238-0 A du code général des impôts est, à compter du 1er janvier 2014, composée des Etats et territoires suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">Bermudes </p>
-<br/>
-</td>
+<td align="center">
+<br/>Botswana</td>
 <td>
 <p align="center">Iles Vierges britanniques</p>
 <br/>
@@ -18,34 +16,25 @@ La liste des Etats et territoires mentionnée au deuxième alinéa du 1 de l'art
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Botswana </p>
-</td>
-<td>
-<p align="center">Jersey</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Brunei </p>
-</td>
+<td align="center">
+<br/>Brunei</td>
 <td>
 <p align="center">Montserrat </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Guatemala </p>
-</td>
+<td align="center">
+<br/>Guatemala</td>
 <td>
 <p align="center">Nauru </p>
 </td>
 </tr>
 <tr>
+<td align="center">
+<br/>Iles Marshall</td>
 <td>
-<p align="center">Iles Marshall </p>
+<p align="center">Niue</p>
 </td>
-<td align="center"> Niue</td>
 </tr>
 </tbody>
 </table>
