@@ -1,3 +1,3 @@
 # Article 5
 
-Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susvisée ne s'applique pas au présent traitement.
+Le directeur du service à compétence nationale dénommé « Systèmes d'information budgétaire, financière et comptable de l'Etat » est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

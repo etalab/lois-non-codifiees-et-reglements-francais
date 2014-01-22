@@ -8,62 +8,34 @@ Pour les tiers (fournisseurs ou clients de l'Etat) :
 
 2. Identifiant fonctionnel composé de :
 
-― pour les personnes immatriculées : SIRET ;
+Pour les personnes immatriculées : SIRET ;
 
-― pour les personnes physiques immatriculées des collectivités d'outre-mer : RIDET ;
+Pour les personnes physiques immatriculées des collectivités d'outre-mer : RIDET ;
 
-― pour les agents de l'Etat : nom, prénom, jour, mois, année de naissance ;
+Pour les personnes physiques immatriculées en métropole y compris les agents de l'Etat : l'IREP, constitué de la manière suivante : le sexe (1 pour les hommes et 2 pour les femmes), les deux derniers chiffres de l'année de naissance, les deux chiffres du mois de naissance, lieu de naissance, le nom, le prénom.
 
-― pour les personnes physiques hors agents de l'Etat : nom, prénom, jour, mois, année de naissance ;
+Comptable public : SIRET.
 
-― pour les comptables publics : SIRET ;
-
-― pour les tiers clients débiteurs : un identifiant baptisé « Identité REP » ou « IREP » ;
-
-― dans le cadre de la tenue des comptabilités, pour les bénéficiaires des impôts et taxes à recouvrer : SIRET et/ou SIREN et/ou code INSEE, ainsi que la catégorie juridique à laquelle ils appartiennent ;
-
-― dans le cadre de la comptabilité développée du recouvrement : l'identifiant fiscal du redevable.
-
-3. Adresse, numéro de téléphone fixe, numéro de téléphone portable, télécopie, adresse électronique, nom du représentant du fournisseur, numéro d'identification TVA.
+3. Adresse, numéro de téléphone fixe, numéro de portable, télécopie, adresse électronique, nom du représentant du fournisseur, numéro d'identification TVA.
 
 4. RIB ou IBAN.
 
-Pour les occupants ou partenaires des biens immobiliers de l'Etat dans le cadre de la gestion des actifs :
+5. Date de naissance (uniquement pour la récupération des indus).
 
-― nom, prénom, adresse ;
+Pour les utilisateurs de Chorus :
 
-― qualification (occupant ou partenaire) ;
+- nom et prénom ;
 
-― coordonnées bancaires.
+- code utilisateur (douze caractères alphanumériques/basé sur le nom et le prénom) ;
 
-Pour les utilisateurs de CHORUS :
+- matricule (numéro séquentiel propre à l'outil de formation) ;
 
-― nom et prénom ;
+- fonction ;
 
-― code utilisateur ;
+- adresse professionnelle ;
 
-― matricule ;
+- numéro de téléphone fixe, portable et numéro de télécopie professionnels ;
 
-― fonction ;
+- adresse électronique professionnelle ;
 
-― adresse professionnelle et localisation ;
-
-― numéro de téléphone fixe professionnel ;
-
-― numéro de téléphone portable professionnel ;
-
-― numéro de télécopie professionnel ;
-
-― adresse électronique professionnelle ;
-
-― date et heure de l'évènement applicatif ;
-
-― identification de l'auteur de l'opération ;
-
-― date et heure de l'entrée, du traitement, et de la sortie du flux (pour le système d'échange) ;
-
-― pour l'infocentre de CHORUS ;
-
-― suivi des connexions interactives ;
-
-― date et heure de l'événement applicatif.
+- date et heure de l'évènement applicatif sur la solution Cœur (connexion, déconnexion, transaction SAP) et sur l'infocentre et le système d'échange.
