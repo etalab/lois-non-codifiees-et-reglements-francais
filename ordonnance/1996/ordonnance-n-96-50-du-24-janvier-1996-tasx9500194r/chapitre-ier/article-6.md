@@ -8,4 +8,4 @@ Les ressources de la Caisse d'amortissement de la dette sociale sont constituée
 
 3° Une fraction du produit des prélèvements mentionnés aux articles L. 245-14 et L. 245-15 du même code, fixée à l'article L. 245-16 dudit code ;
 
-4° Les versements du Fonds de réserve pour les retraites dans les conditions fixées au quatrième alinéa de l'article L. 135-6 du même code.
+4° Les versements du Fonds de réserve pour les retraites dans les conditions fixées au dernier alinéa du I et au II de l'article L. 135-6 du même code.

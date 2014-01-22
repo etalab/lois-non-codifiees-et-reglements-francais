@@ -10,4 +10,4 @@ Parmi les thèmes de cette réflexion, figurent :
 
 3° Les moyens de faciliter le libre choix par les assurés du moment et des conditions de leur cessation d'activité.
 
-II. ― En s'appuyant sur un rapport préparé par le Conseil d'orientation des retraites, le Comité de pilotage des régimes de retraite remet au Parlement et au Gouvernement les conclusions de cette réflexion dans le respect des principes de pérennité financière, de lisibilité, de transparence, d'équité intergénérationnelle et de solidarité intragénérationnelle.
+II (Abrogé)

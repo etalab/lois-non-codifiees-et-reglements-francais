@@ -1,6 +1,6 @@
 # Article 5
 
-I. - La durée d'assurance nécessaire pour bénéficier d'une pension de retraite au taux plein et la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum d'une pension civile ou militaire de retraite applicables, respectivement, aux personnes mentionnées aux V et VI évoluent de manière à maintenir constant, jusqu'en 2020, le rapport constaté, à la date de publication de la présente loi, entre ces durées et la durée moyenne de retraite.
+I. - La durée d'assurance nécessaire pour bénéficier d'une pension de retraite au taux plein et la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum d'une pension civile ou militaire de retraite applicables, respectivement, aux personnes mentionnées aux V et VI évoluent de manière à maintenir constant, jusqu'en 2017, le rapport constaté, à la date de publication de la présente loi, entre ces durées et la durée moyenne de retraite.
 
 Pour le calcul du rapport entre la durée d'assurance ou de services et bonifications et la durée moyenne de retraite des années 2003 à 2007, la durée d'assurance nécessaire pour bénéficier d'une pension de retraite au taux plein et la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum d'une pension civile ou militaire de retraite sont fixées à cent soixante trimestres.
 

@@ -11,4 +11,4 @@ IV.-Par dérogation aux dispositions des articles L. 732-25 et L. 762-30 du code
 
 V.-Par dérogation aux dispositions des articles L. 732-25 et L. 762-30 du même code, l'âge mentionné auxdits articles est fixé à soixante-cinq ans pour les assurés ayant interrompu leur activité professionnelle pour s'occuper d'un membre de leur famille en raison de leur qualité d'aidant familial dans des conditions déterminées par décret en Conseil d'Etat.
 
-VI.-Par dérogation aux dispositions des articles L. 732-25 et L. 762-30 du même code, l'âge mentionné auxdits articles est fixé à soixante-cinq ans pour les assurés handicapés.
+VI.-Par dérogation aux dispositions des articles L. 732-25 et L. 762-30 du même code, l'âge mentionné auxdits articles est, pour les assurés justifiant d'une incapacité permanente au moins égale à un taux fixé par décret, celui prévu à l'article L. 161-17-2 du code de la sécurité sociale.
