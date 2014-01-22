@@ -1,6 +1,6 @@
 # Article 1
 
-Le service technique de l'aviation civile est dirigé par un chef de service assisté d'un adjoint. Il comprend :
+Le service technique de l'aviation civile est dirigé par un directeur assisté d'un adjoint. Il comprend :
 
 a) Quatre départements techniques :
 

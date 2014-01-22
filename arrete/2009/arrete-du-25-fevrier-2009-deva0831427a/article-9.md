@@ -40,4 +40,4 @@ Chaque membre du conseil d'orientation, à l'exception des personnalités qualif
 
 Il émet des avis sur le rapport d'activité qui lui est présenté annuellement et formule des propositions sur les orientations du service.
 
-Le chef du service technique de l'aviation civile assiste aux réunions du conseil d'orientation. Il en assure le secrétariat.
+Le directeur du service technique de l'aviation civile assiste aux réunions du conseil d'orientation. Il en assure le secrétariat.
