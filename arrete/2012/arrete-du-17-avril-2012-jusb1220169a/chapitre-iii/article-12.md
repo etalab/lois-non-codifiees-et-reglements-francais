@@ -12,7 +12,7 @@ Les membres ayant voix délibérative :
 
 ― le sous-directeur des ressources humaines des greffes ou son adjoint ;
 
-― les directeurs adjoints et les sous-directeurs de l'école ;
+― le directeur adjoint et les sous-directeurs de l'école ;
 
 ― le secrétaire général ou le secrétaire général adjoint de l'école ;
 
