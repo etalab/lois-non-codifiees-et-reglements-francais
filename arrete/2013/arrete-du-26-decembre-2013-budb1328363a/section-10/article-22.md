@@ -8,10 +8,4 @@ Dans les services centraux du ministère des affaires sociales et de la santé, 
 
 3. Du directeur des ressources humaines ou se son représentant.
 
-4. Des responsables de budgets opérationnels de programmes centraux ou nationaux ou de leurs représentants.
-
-5. Du contrôleur budgétaire et comptable ministériel ou de son représentant.
-
-Le secrétariat du comité est assuré par la direction des finances, des achats et des services.
-
-L'ordre du jour est communiqué aux membres du comité au moins quinze jours avant la réunion du comité.
+4. Du contrôleur budgétaire et comptable ministériel ou de son représentant.

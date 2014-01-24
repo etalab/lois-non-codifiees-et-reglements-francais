@@ -6,7 +6,7 @@ I. ― Sont soumis au visa :
 
 1° Toutes les circulaires relatives :
 
-a) A la politique indemnitaire envisagée dans le cadre des textes existants ainsi que les instructions données aux services et les barèmes indemnitaires associés ;
+a) A la politique indemnitaire envisagée dans le cadre des textes existants et les barèmes indemnitaires associés ;
 
 b) Au cadre de gestion relatif aux conditions et modalités de recrutement et de rémunération des contractuels.
 
