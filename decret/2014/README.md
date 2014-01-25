@@ -61,6 +61,7 @@
 - [DÉCRET n°2014-1074 du 22 septembre 2014 (AFSH1418724D)](decret-n2014-1074-du-22-septembre-2014-afsh1418724d)
 - [DÉCRET n°2014-1574 du 22 décembre 2014 (RDFF1428416D)](decret-n2014-1574-du-22-decembre-2014-rdff1428416d)
 - [Décret n°2014-46 du 22 janvier 2014 (PREX1402037D)](decret-n2014-46-du-22-janvier-2014-prex1402037d)
+- [Décret n°2014-51 du 22 janvier 2014 (AFSP1329037D)](decret-n2014-51-du-22-janvier-2014-afsp1329037d)
 - [Décret n°2013-1213 du 23 décembre 2013 (JUSC1327355D)](decret-n2013-1213-du-23-decembre-2013-jusc1327355d)
 - [Décret n°2013-1221 du 23 décembre 2013 (DEVL1231897D)](decret-n2013-1221-du-23-decembre-2013-devl1231897d)
 - [Décret n°2013-1223 du 23 décembre 2013 (AGRS1318720D)](decret-n2013-1223-du-23-decembre-2013-agrs1318720d)
