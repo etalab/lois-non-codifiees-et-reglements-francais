@@ -208,7 +208,6 @@
 - [Décret n°95-684 du 9 mai 1995 (SPSS9501272D)](decret-n95-684-du-9-mai-1995-spss9501272d)
 - [Décret n°95-685 du 9 mai 1995 (SPSS9501273D)](decret-n95-685-du-9-mai-1995-spss9501273d)
 - [Décret n°95-692 du 9 mai 1995 (JUSB9510142D)](decret-n95-692-du-9-mai-1995-jusb9510142d)
-- [Décret du 10 janvier 1994 (ECOC9300209D)](decret-du-10-janvier-1994-ecoc9300209d)
 - [Décret du 10 janvier 1994 (ECOC9300210D)](decret-du-10-janvier-1994-ecoc9300210d)
 - [Décret n°2003-33 du 10 janvier 2003 (INTE0300003D)](decret-n2003-33-du-10-janvier-2003-inte0300003d)
 - [Décret n°94-206 du 10 mars 1994 (INTA9400079D)](decret-n94-206-du-10-mars-1994-inta9400079d)
