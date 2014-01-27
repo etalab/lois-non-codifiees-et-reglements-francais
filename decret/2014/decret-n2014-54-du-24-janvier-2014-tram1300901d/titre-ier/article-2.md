@@ -1,0 +1,3 @@
+# Article 2
+
+Les autorités administratives mentionnées à l'article 1er du décret n° 90-94 du 25 janvier 1990 susvisé, le préfet de Mayotte, le représentant de l'Etat à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie et l'administrateur supérieur dans les Terres australes et antarctiques françaises sont responsables, dans leur zone de compétence, de la mise en œuvre du système de points de pénalité prévu par l'article 92 du règlement (CE) n° 1224/2009 du Conseil du 20 novembre 2009, qui inclut notamment l'attribution de points et l'application des mesures qui en découlent, le transfert des points et la tenue des relevés.
