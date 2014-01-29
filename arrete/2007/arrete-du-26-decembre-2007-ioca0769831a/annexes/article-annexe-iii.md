@@ -1,13 +1,275 @@
 # Article Annexe III
 
-LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER DANS LES SERVICES DE POLICE ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
+LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER DANS LES SERVICES DE POLICE
+
+ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
+
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td colspan="3">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DANS LES SERVICES DE LA PRÉFECTURE <br/>de police et du secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris les fonctions suivantes </td>
+</tr>
+<tr>
+<td align="center">Directions et services </td>
+<td align="center">Fonctions </td>
+<td align="center">Points NBI</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Service du cabinet. <br/>
+</td>
+<td align="left">
+<br/>Chef du bureau des expulsions locatives et de la voie publique. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Service des affaires juridiques et du contentieux. <br/>
+</td>
+<td align="left">
+<br/>Chef du bureau de la protection juridique et de l'assurance. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2">
+<br/>Direction des finances, de la commande publique et de la performance. <br/>
+</td>
+<td align="left">
+<br/>Chargé de mission pour la mise en place du centre de services partagés Chorus. <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation. <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="4">
+<br/>Direction des ressources humaines. <br/>
+</td>
+<td align="left">
+<br/>Chargé de mission pour la mise en place du pôle d'expertise et de services (PESE). <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du service de la modernisation et de la performance. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Adjoint au chef du service de gestion des personnels de la police nationale. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Adjoint au chef du service de gestion des personnels administratifs, techniques et scientifiques, chef du bureau du dialogue social, des affaires statutaires et indemnitaires. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Service des affaires immobilières. <br/>
+</td>
+<td align="left">
+<br/>Adjoint au chef du département stratégie immobilière et budgétaire, chef du bureau de synthèse budgétaire. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9">
+<br/>Direction de la police générale. <br/>
+</td>
+<td align="left">
+<br/>Chef du 2e bureau. <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 3e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 4e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 5e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 6e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 7e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 8e bureau. <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 9e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du 10e bureau. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6">
+<br/>Direction des transports et de la protection du public. <br/>
+</td>
+<td align="left">
+<br/>Chef du bureau des taxis et des transports publics. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du bureau des objets trouvés et des fourrières. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du bureau des actions contre les nuisances. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du bureau des actions de santé mentale. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du bureau des établissements recevant du public. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef du bureau de la sécurité de l'habitat. <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Direction de la sécurité de proximité de l'agglomération parisienne. <br/>
+</td>
+<td align="left">
+<br/>Chef du service de gestion opérationnelle des personnels et des équipements. <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Direction opérationnelle des services techniques et logistiques. <br/>
+</td>
+<td align="left">
+<br/>Chef du service des finances, de l'achat et du contrôle de gestion. <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Direction de l'ordre public et de la circulation. <br/>
+</td>
+<td align="left">
+<br/>Chef de la mission rationalisation des missions support. <br/>
+</td>
+<td align="center">
+<br/>50 </td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <table>
 <tbody>
 <tr>
 <td colspan="4">
 <p align="center">
-<font size="1">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE DIRECTEUR, DÉLÉGUÉ RÉGIONAL<br/>ou de chargé de mission dans les secrétariats généraux d'administration de la police (SGAP) suivants</font>
+<font size="1">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE DIRECTEUR, <br/>délégué régional ou de chargé de mission dans les secrétariats généraux d'administration de la police (SGAP) suivants</font>
 </p>
 </td>
 </tr>
@@ -94,8 +356,10 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -146,8 +410,10 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -196,20 +462,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 <td align="center">
 <p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">78</p>
-</td>
-<td>
-<p align="left">SGAP de Versailles</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">60 </p>
 </td>
 </tr>
 </tbody>
@@ -404,14 +656,16 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td>
-<p align="center"> 69 </p>
-</td>
-<td> Ecole nationale supérieure de la police. </td>
-<td>
-<p align="center"> 1</p>
+<p align="center">69 </p>
 </td>
 <td>
-<p align="center"> 30</p>
+<p align="left">Ecole nationale supérieure de la police. </p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
