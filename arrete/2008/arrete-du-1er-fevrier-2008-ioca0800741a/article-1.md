@@ -6,16 +6,16 @@ La liste des emplois de chef des services techniques accédant à l'échelon fon
 <tbody>
 <tr>
 <td>
-<p align="center"> SERVICES </p>
+<p align="center">SERVICES </p>
 </td>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
-<p align="center"> NOMBRE <br/>d'emplois </p>
+<p align="center">NOMBRE <br/>d'emplois </p>
 </td>
 <td>
-<p align="center"> NOMBRE de points <br/>de NBI </p>
+<p align="center">NOMBRE de points <br/>de NBI </p>
 </td>
 </tr>
 <tr>
@@ -48,10 +48,10 @@ La liste des emplois de chef des services techniques accédant à l'échelon fon
 </tr>
 <tr>
 <td align="center">
-<p align="left">SGAP de Versailles. </p>
+<p align="left">Direction opérationnelle des services techniques et logistiques.</p>
 </td>
 <td align="center">
-<p align="left">Directeur de la logistique. </p>
+<p align="left">Chargé de la sous-direction de la logistique.</p>
 </td>
 <td align="center">
 <p align="center">1 </p>
