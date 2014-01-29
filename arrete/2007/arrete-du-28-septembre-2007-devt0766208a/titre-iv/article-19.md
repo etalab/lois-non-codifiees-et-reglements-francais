@@ -4,7 +4,7 @@ Le livret d'apprentissage visé à l'article 3 du présent arrêté est composé
 
 Le livret d'apprentissage visé à l'article 5 du présent arrêté est composé du livret de certification.
 
-Les modèles de ces livrets sont établis par les ministères chargés de la mer et des transports. Ces livrets sont édités et diffusés par la Documentation française.
+Tout livret d'apprentissage doit être conforme au contenu défini par les annexes X et XI du présent arrêté.
 
 Les établissements de formation agréés doivent conserver, pendant une période de cinq ans à compter de la date de la fin de la formation, le livret de certification établi au nom de l'élève.
 

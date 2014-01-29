@@ -14,4 +14,4 @@ Il est chargé de l'élaboration du droit du recouvrement et de l'harmonisation 
 
 Le bureau modernisation de la gestion de la fiscalité des professionnels et du recouvrement ;
 
-Il est chargé de la maîtrise d'ouvrage et de la conduite du changement relatives aux projets informatiques de gestion de la fiscalité professionnelle et du recouvrement. Il assure la coordination entre maîtrises d'ouvrage, maîtrises d'œuvre et tierces maintenances applicatives. Il conduit des projets d'organisation dans le domaine de la fiscalité des professionnels et du recouvrement.
+Il est chargé de la maîtrise d'ouvrage et de la conduite du changement relatives aux évolutions informatiques de gestion de la fiscalité professionnelle et du recouvrement. Il assure la coordination entre maîtrises d'ouvrage, maîtrises d'œuvre et tierces maintenances applicatives. Il conduit des projets d'organisation dans le domaine de la fiscalité des professionnels et du recouvrement.

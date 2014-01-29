@@ -38,6 +38,8 @@ Le candidat conserve le bénéfice de la réussite à l'épreuve théorique pend
 
 - la protection de l'environnement : l'entretien du navire, les rejets, la protection des berges, de la faune et de la flore ;
 
+- l'équipement de sécurité des bateaux de plaisance en navigation intérieure ; les bonnes réactions du chef de bord en cas de danger grave ou de détresse lors de la navigation ;
+
 - connaissances élémentaires du service radiotéléphonique fluvial, de ses spécificités et du bon usage d'une station radioélectrique fonctionnant dans la gamme des ondes métriques (VHF) : réseaux du service radiotéléphonique fluvial, fréquences et voies ; code ATIS (Automatic Transmitter Identification System), réglementation spécifique ; communications liées à la détresse et à la sécurité, protection des fréquences de détresse.
 
 2.3. La durée de formation théorique en salle et en présence du formateur, qui peut être collective, ne peut être inférieure à cinq heures. Les candidats titulaires de l'option " côtière " 0 du permis de conduire des bateaux de plaisance à moteur ou d'un titre équivalent ne sont pas soumis à cette obligation.
