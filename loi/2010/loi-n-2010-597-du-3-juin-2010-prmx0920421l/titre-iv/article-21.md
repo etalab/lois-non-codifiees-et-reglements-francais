@@ -8,7 +8,7 @@ La région et les départements territorialement concernés peuvent également, 
 
 Les contrats définissent, dans le respect des principes énoncés aux articles L. 110 et L. 121-1 du code de l'urbanisme, les objectifs et les priorités en matière d'urbanisme, de logement, de transports, de déplacements et de lutte contre l'étalement urbain, d'équipement commercial, de développement économique, sportif et culturel, de protection des espaces naturels, agricoles et forestiers et des paysages et des ressources naturelles.
 
-Ces contrats font l'objet, préalablement à leur signature, d'une enquête publique réalisée conformément aux dispositions du chapitre III du titre II du livre Ier du code de l'environnement. La décision d'ouverture de cette enquête intervient au plus tard le 31 décembre 2013.
+Ces contrats font l'objet, préalablement à leur signature, d'une enquête publique réalisée conformément aux dispositions du chapitre III du titre II du livre Ier du code de l'environnement. La décision d'ouverture de cette enquête intervient au plus tard le 31 décembre 2014.
 
 Chaque contrat porte sur le développement d'un territoire inclus dans un ensemble de communes d'un seul tenant et sans enclave. Il fixe la liste des communes concernées.
 
