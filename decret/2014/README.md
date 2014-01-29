@@ -113,6 +113,7 @@
 - [Décret n°2013-1319 du 27 décembre 2013 (SPOV1331046D)](decret-n2013-1319-du-27-decembre-2013-spov1331046d)
 - [Décret n°2013-1320 du 27 décembre 2013 (BUDB1323461D)](decret-n2013-1320-du-27-decembre-2013-budb1323461d)
 - [Décret n°2013-1321 du 27 décembre 2013 (BUDB1329618D)](decret-n2013-1321-du-27-decembre-2013-budb1329618d)
+- [Décret n°2014-60 du 27 janvier 2014 (MCCE1331721D)](decret-n2014-60-du-27-janvier-2014-mcce1331721d)
 - [DÉCRET n°2014-985 du 28 août 2014 (ETSD1414360D)](decret-n2014-985-du-28-aout-2014-etsd1414360d)
 - [Décret n°2013-439 du 28 mai 2013 (INTJ1308249D)](decret-n2013-439-du-28-mai-2013-intj1308249d)
 - [Décret n°2013-1282 du 29 décembre 2013 (MCCE1330371D)](decret-n2013-1282-du-29-decembre-2013-mcce1330371d)

@@ -1,0 +1,5 @@
+# Article 87
+
+A la date d'entrée en vigueur des décrets en Conseil d'Etat fixant les transferts définitifs des services ou parties de service auxquels ils sont affectés, les agents non titulaires de l'Etat et de ses établissements publics deviennent agents non titulaires de la fonction publique territoriale. Ils conservent, à titre individuel, le bénéfice des stipulations de leur contrat. Les services antérieurement accomplis en qualité d'agent non titulaire de l'Etat et de ses établissements publics sont assimilés à des services accomplis dans la collectivité territoriale ou le groupement de collectivités territoriales d'accueil.
+
+Les dispositions des articles 3 à 3-3 de la loi n° 84-53 du 26 janvier 1984 précitée, en ce qu'elles déterminent les conditions de recrutement des agents non titulaires, et l'article 41 de la même loi ne sont pas applicables au recrutement des agents non titulaires de droit public de l'Etat et de ses établissements publics à des emplois des services ou parties de service transférés à une collectivité territoriale ou à un groupement de collectivités territoriales en application de la présente loi.
