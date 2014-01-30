@@ -1,148 +1,151 @@
 # Article 1
 
-<div>
-<br/>La liste nominative des centres de ressources, d'expertise et de performance sportives régis par le décret du 3 juin 2011 susvisé ainsi que leurs sièges et nombre de sites sont fixés comme suit :<br/>
+La liste nominative des centres de ressources, d'expertise et de performance sportives régis par le décret du 3 juin 2011 susvisé ainsi que leurs sièges et nombre de sites sont fixés comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>NOM DU CENTRE<br/>de ressources,<br/>d'expertise et de<br/>performance sportives</th>
-<th>
-<br/>NOM DU SIÈGE</th>
-<th>
-<br/>NOMBRE<br/>de sites</th>
+<td align="center"> NOM DU CENTRE<br/> 										de ressources,<br/> 										d'expertise et de<br/> 										performance sportives</td>
+<td align="center"> NOM DU SIÈGE</td>
+<td align="center"> NOMBRE<br/> 										de sites</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bordeaux</td>
-<td align="center">
-<br/>Talence</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Bordeaux<br/>
+</td>
+<td align="center"> 										Talence<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Centre</td>
-<td align="center">
-<br/>Bourges</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Centre<br/>
+</td>
+<td align="center"> 										Bourges<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dijon</td>
-<td align="center">
-<br/>Dijon</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Dijon<br/>
+</td>
+<td align="center"> 										Dijon<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ile-de-France</td>
-<td align="center">
-<br/>Châtenay-Malabry</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Ile-de-France<br/>
+</td>
+<td align="center"> 										Châtenay-Malabry<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Montpellier</td>
-<td align="center">
-<br/>Montpellier</td>
-<td align="center">
-<br/>2</td>
+<td align="left"> 										Montpellier<br/>
+</td>
+<td align="center"> 										Montpellier<br/>
+</td>
+<td align="center"> 										2<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nancy</td>
-<td align="center">
-<br/>Essey-lès-Nancy</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Nancy<br/>
+</td>
+<td align="center"> 										Essey-lès-Nancy<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pays de la Loire</td>
-<td align="center">
-<br/>Nantes</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Pays de la Loire<br/>
+</td>
+<td align="center"> 										Nantes<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pointe-à-Pitre</td>
-<td align="center">
-<br/>Les Abymes</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Pointe-à-Pitre<br/>
+</td>
+<td align="center"> 										Les Abymes<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Poitiers</td>
-<td align="center">
-<br/>Vouneuil-sous-Biard</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Poitiers<br/>
+</td>
+<td align="center"> 										Vouneuil-sous-Biard<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Reims</td>
-<td align="center">
-<br/>Reims</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Reims<br/>
+</td>
+<td align="center"> 										Reims<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>La Réunion</td>
-<td align="center">
-<br/>Sainte-Clotilde</td>
-<td align="center">
-<br/>2</td>
+<td align="left"> 										La Réunion<br/>
+</td>
+<td align="center"> 										Sainte-Clotilde<br/>
+</td>
+<td align="center"> 										2<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Strasbourg</td>
-<td align="center">
-<br/>Strasbourg</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> Rhône-Alpes</td>
+<td align="center"> Vallon-Pont-d'Arc</td>
+<td align="center">1 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sud-Est (1)</td>
-<td align="center">
-<br/>Aix-en-Provence</td>
-<td align="center">
-<br/>4</td>
+<td align="left"> 										Strasbourg<br/>
+</td>
+<td align="center"> 										Strasbourg<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Toulouse</td>
-<td align="center">
-<br/>Toulouse</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Provence-Alpes-Côte d'Azur <br/>
+</td>
+<td align="center"> 										Aix-en-Provence<br/>
+</td>
+<td align="center"> 										3<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vichy</td>
-<td align="center">
-<br/>Bellerive-sur-Allier</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Toulouse<br/>
+</td>
+<td align="center"> 										Toulouse<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Wattignies</td>
-<td align="center">
-<br/>Wattignies</td>
-<td align="center">
-<br/>1</td>
+<td align="left"> 										Vichy<br/>
+</td>
+<td align="center"> 										Bellerive-sur-Allier<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
 </tr>
+<tr>
+<td align="left"> 										Wattignies<br/>
+</td>
+<td align="center"> 										Wattignies<br/>
+</td>
+<td align="center"> 										1<br/>
+</td>
+</tr>
+</tbody>
 </table>
 
 </div>
-<br/>
-<br/> (1) Ex-centre de ressources, d'expertise et de performance sportives de Provence-Alpes-Côte d'Azur.</div>
