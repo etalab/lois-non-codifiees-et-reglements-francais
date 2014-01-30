@@ -2,91 +2,83 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
+Intitulé : technicien (ne) des matériaux composites (ancien intitulé : technicien (ne) d'atelier des matériaux composites)
 
-Titre professionnel : technicien (ne) d'atelier des matériaux composites.
+Niveau : IV
 
-Niveau : IV.
-
-Code NSF : 225 s.
+Code NSF : 225 s
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) d'atelier des matériaux composites prépare, organise, conduit et contrôle la fabrication, en petites et moyennes séries, de pièces en matériaux composites (mariage de renforts en fibres de verre et de résine synthétique durcissant après application dans un moule). Les objets fabriqués sont de tailles diverses : mobilier urbain, éléments de sanitaires, coffrets électriques, pièces élémentaires pour l'industrie nautique et aéronautique, coques de bateaux, citernes, éléments de carrosseries...
+Le (la) titulaire de l'emploi encadre une équipe d'opérateurs pour la fabrication en petites et moyennes séries de pièces en matériaux composites, dans une entreprise travaillant pour des secteurs professionnels tels que l'industrie, l'aéronautique, l'éolien, la construction nautique, automobile et ferroviaire, le sanitaire, le mobilier urbain.
 
-Au sein de la production, il (elle) exerce généralement les activités suivantes :
+A partir d'instructions techniques et d'un planning de production, il (elle) est chargé (e) de réaliser avec son équipe la fabrication prévue, en suit les résultats qualitatifs et quantitatifs, et participe à l'amélioration continue de son secteur de production. Il (elle) met en place les postes de travail, règle les équipements et en effectue l'entretien préventif, démarre les productions, conduit la majorité des opérations délicates et celles nécessitant un niveau de responsabilité élevé, comme le transfert de la résine pour la fabrication des pièces en moule fermé.
 
--fabrication de pièces : lancement de la première fabrication et réajustement des paramètres de fabrication ;
+Son expertise technique l'amène à participer à la définition, à la réalisation et à la mise au point des moyens de production pour les nouvelles pièces, en particulier pour la fabrication des moules.
 
--fabrication et entretien des outillages de moulage ;
+Quand les pièces fabriquées ont une valeur importante, par exemple pales d'éoliennes ou coques de bateaux, et qu'elles présentent des défauts locaux, il (elle) peut être chargé (e) de réaliser des réparations de structure, en atelier ou sur site, de manière à garantir la conformité des pièces concernées.
 
--organisation et gestion de la production (mise en place des postes de travail, rédaction des fiches d'instruction et de contrôle de la fabrication, encadrement d'un îlot de production).
+Le (la) technicien (ne) est responsable d'une équipe de production constituée majoritairement de stratifieurs dans un atelier comportant généralement plusieurs procédés de moulage. Les postes de travail qu'il (elle) supervise peuvent être regroupés en îlots suivant leur taille, le type de moulage ou celui des produits fabriqués. Il (elle) rend compte régulièrement des résultats et des problèmes rencontrés au chef d'atelier.
 
-Il (elle) alterne souvent entre une activité pratique manuelle ou d'assistance technique à la production (en utilisant des procédés artisanaux, semi-industriels ou industriels) et une action de suivi et d'encadrement du personnel de fabrication (qualifié ou non).
+L'exécution des tâches s'effectue le plus souvent debout avec des déplacements fréquents entre les différents postes de travail. Elle nécessite le port d'équipements de sécurité, en particulier pour éviter le contact avec les produits allergisants tels que les résines et les solvants, et se protéger contre les poussières d'usinage et de ponçage.
 
-Le travail se déroule en atelier, dans un environnement comprenant des produits dangereux ou allergisants (fibres de verre, résine, catalyseur, solvants...).
+Les moules, les outillages portatifs et les outils manuels représentent les équipements les plus utilisés. Les principales machines, sont celles destinées à la mise en œuvre des résines.
+
+La quasi-totalité des entreprises du secteur fonctionnent en 2 × 8.
+
+Le poste requiert une grande vigilance au maintien de la propreté des postes de travail et au respect des règles de qualité, l'hygiène, de sécurité et de protection de l'environnement.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Assurer la fabrication de pièces
+1. Organiser et animer un îlot de fabrication de pièces composites
 
-en matériaux composites
+Mettre en œuvre les techniques du moulage au contact et de la projection simultanée.
 
-Préparer les résines, les renforts et les outillages pour une production de pièces en matériaux composites.
+Mettre en œuvre les techniques des procédés d'injection éco et d'infusion.
 
-Gelcoater au pinceau ou au pistolet sur un moule et stratifier au contact des pièces en matériaux composites, composées de différents types de renforts et matrices.
+Conduire les opérations d'usinage et de finition de pièces composites.
 
-Usiner à l'aide d'outillages portatifs et réaliser l'assemblage et la finition de pièces en matériaux composites.
+Agencer les postes de travail d'un îlot de fabrication de pièces composites.
 
-Fabriquer des pièces en matériaux composites par projection simultanée.
+Animer une équipe de fabrication de pièces composites.
 
-Fabriquer des pièces en matériaux composites en moule fermé par injection basse pression, injection sous vide, infusion et compression avec vide.
+Optimiser en atelier un process de fabrication d'une pièce composite.
 
-Participer aux opérations de maintenance de l'outil de production de pièces en matériaux composites.
+2. Participer à la réalisation d'un moule pour pièce composite et préparer sa mise en production
 
-2. Réaliser et entretenir les outillages de moulage
+Ajuster la définition de la fabrication d'un moule composite pour pièce composite.
 
-pour pièces en matériaux composites
+Fabriquer un moule composite pour pièce composite.
 
-Réaliser un modèle prêt à mouler, destiné à la fabrication d'un moule pour pièces en matériaux composites de formes simples.
+Mettre au point la fabrication d'une pièce composite.
 
-Réaliser, préparer et équiper un moule poinçon-matrice destiné à la fabrication de pièces en matériaux composites.
+3. Réparer une pièce composite avec défauts de structure, en atelier ou sur site
 
-Réaliser une pièce type en matériaux composites destinée à valider un outillage de moulage.
+Préparer le poste de travail de réparation sur site d'une pièce composite.
 
-Etablir le devis matières et assurer le suivi de réalisation pour la fabrication ou la modification d'un moule pour pièces en matériaux composites.
+Réparer localement la structure et la surface d'une pièce composite.
 
-3. Organiser et gérer un îlot de production
-
-de pièces en matériaux composites
-
-Mettre en place un poste de travail de fabrication de pièces en matériaux composites.
-
-Préparer et utiliser les documents de travail de fabrication de pièces en matériaux composites.
-
-Gérer des stocks de matières premières et de composants pour une production de pièces en matériaux composites.
-
-Gérer la production d'un îlot de fabrication de pièces en matériaux composites.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprises de plasturgie (matériaux composites) sous-traitantes, généralement de petite taille, ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie (automobile, ferroviaire).
+Entreprises de fabrication de pièces en matériaux composites pour l'industrie, la construction nautique, automobile et ferroviaire, le sanitaire, le mobilier urbain, les loisirs.
+
+Technicien en matériaux composites, technicien d'atelier composites, chef d'équipe composites, technicien mouliste.
 
 Codes ROME :
 
-H3203-Fabrication de pièces en matériaux composites.
+H 3203-Fabrication de pièces en matériaux composites ;
 
-H2908-Modelage de matériaux non métalliques.
+H 2504-Encadrement d'équipe en industrie de transformation ;
 
-H2504-Encadrement d'équipe en industrie de transformation.
+H 2908-Modelage de matériaux non métalliques.
 
 Réglementation de l'activité :
 
-Néant.
+Sans objet.
 
 Autorité responsable de la certification :
 
