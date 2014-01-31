@@ -922,7 +922,6 @@
 - [Arrêté du 28 août 2007 (SJSH0764148A)](arrete-du-28-aout-2007-sjsh0764148a)
 - [Arrêté du 28 août 2007 (SJSS0764307A)](arrete-du-28-aout-2007-sjss0764307a)
 - [Arrêté du 28 décembre 2006 (AGRP0602549A)](arrete-du-28-decembre-2006-agrp0602549a)
-- [Arrêté du 28 décembre 2006 (AGRP0602655A)](arrete-du-28-decembre-2006-agrp0602655a)
 - [Arrêté du 28 décembre 2006 (AGRP0602659A)](arrete-du-28-decembre-2006-agrp0602659a)
 - [Arrêté du 28 décembre 2007 (ECET0769263A)](arrete-du-28-decembre-2007-ecet0769263a)
 - [Arrêté du 28 février 2000 (AGRG0000462A)](arrete-du-28-fevrier-2000-agrg0000462a)
