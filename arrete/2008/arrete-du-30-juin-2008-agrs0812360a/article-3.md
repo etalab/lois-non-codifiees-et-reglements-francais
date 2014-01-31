@@ -10,10 +10,6 @@ Le service des affaires financières, sociales et logistiques comprend :
 
 3. La sous-direction du travail et de la protection sociale.
 
-4. (Supprimé).
-
-5. La mission d'audit d'évaluation et de contrôle des organismes de protection sociale agricole créée par l'arrêté du 8 décembre 2009 susvisé.
-
 I.-La sous-direction des affaires budgétaires et comptables est responsable de la préparation, de la programmation et de l'exécution du budget. Elle assure la mise à disposition des crédits dans les budgets opérationnels de programme et les rattachements budgétaires, y compris ceux d'origine communautaire. Elle détermine les règles budgétaires et comptables applicables aux opérateurs, vérifie et approuve leurs comptes et gère les subventions pour charges de service public, sauf celles destinées aux établissements d'enseignement ou de recherche.
 
 Elle expertise les questions fiscales intéressant les exploitations et les entreprises ; elle prépare les dispositions législatives ou réglementaires à caractère fiscal.
@@ -31,8 +27,6 @@ La sous-direction des affaires budgétaires et comptables comprend :
 ― le bureau du budget et des opérateurs ;
 
 ― le bureau de la fiscalité ;
-
-― le bureau de l'information financière et de la performance ;
 
 ― le centre de service comptable et financier ;
 
