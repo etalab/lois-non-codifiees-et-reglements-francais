@@ -32,8 +32,6 @@ Afin de tenir compte des temps d'inaction, il est institué un régime d'équiva
 
 ― directeur de la photographie cinéma ;
 
-― auxiliaire de régie cinéma ;
-
 3° Une durée de quarante-six heures équivalente à une durée de quarante-trois heures (sur cinq jours) ou une durée de cinquante-six heures équivalente à une durée de cinquante-deux heures (sur six jours) pour les salariés exerçant les fonctions suivantes :
 
 ― auxiliaire de réalisation cinéma ;
@@ -75,6 +73,8 @@ Afin de tenir compte des temps d'inaction, il est institué un régime d'équiva
 ― premier assistant réalisateur cinéma ;
 
 ― chef costumier cinéma ;
+
+― auxiliaire de régie cinéma ;
 
 4° Une durée de quarante-sept heures équivalente à une durée de quarante-six heures (sur cinq jours) ou une durée de cinquante-sept heures équivalente à une durée de cinquante-six heures (sur six jours) pour les salariés exerçant les fonctions suivantes :
 
