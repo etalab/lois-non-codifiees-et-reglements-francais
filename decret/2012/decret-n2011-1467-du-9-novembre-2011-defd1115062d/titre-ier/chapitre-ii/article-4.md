@@ -32,6 +32,6 @@ i) Les matériels de guerre classés aux 8°, 9°, 10°, 12°, 13° et 14° de l
 
 Ce régime est prévu par le règlement du Conseil du 12 octobre 1992 susvisé ;
 
-j) Les armes à feu, munitions et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C mentionnés à l'article 2 du décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif ;
+j) Les armes à feu et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C mentionnés à l'article 2 du décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif ;
 
-k) Les douilles non amorcées et non chargées du c du 1° de la catégorie D et les projectiles des munitions classées en catégorie B, aux 6° et 7° de la catégorie C et en catégorie D du même décret.
+k) Les douilles non amorcées et non chargées du c du 1° de la catégorie D et les projectiles des munitions classées aux 6° et 7° de la catégorie C et en catégorie D du même décret.

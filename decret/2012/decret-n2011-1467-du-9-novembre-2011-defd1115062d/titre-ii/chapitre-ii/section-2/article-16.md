@@ -24,7 +24,7 @@ e) Les armes, munitions et parachutes exportés temporairement à l'occasion de 
 
 f) Les matériels exportés sous le régime douanier du perfectionnement passif pour réparation tel que ce régime est prévu par les textes cités au deuxième alinéa du b précédent. La dispense ne peut, dans ce cas, bénéficier qu'aux exportations à destination du fabricant ;
 
-g) Les fusils et carabines à canon rayé et à percussion centrale mentionnés au 1° de la catégorie C du décret du 30 juillet 2013 susmentionné et leurs éléments ainsi que leurs munitions et les éléments de celles-ci ;
+g) (abrogé)
 
 h) Les dispositifs de visée optiques dépourvus de traitement électronique de l'image, d'un grossissement supérieur à 4, non spécialement conçus pour l'usage militaire ;
 

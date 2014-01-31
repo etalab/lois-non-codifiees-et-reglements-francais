@@ -14,6 +14,8 @@ II. ― Par dérogation au premier alinéa du I ci-dessus, sont dispensés de l'
 
 2° Le transfert temporaire en France des armes de poing et des munitions, dont le port est autorisé par arrêté du ministre de l'intérieur en application de l'article 124 ;
 
-3° Le transfert définitif ou temporaire des armes à feu, munitions et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C.
+3° Le transfert définitif ou temporaire des armes à feu et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C ;
+
+4° Le transfert des douilles non chargées et non amorcées du c du 1° de la catégorie D et des projectiles des munitions classées aux 6° et 7° de la catégorie C et en catégorie D.
 
 III. ― Le permis ou la déclaration de transfert accompagnant les biens transférés d'un autre Etat membre vers la France doit être présenté à toute réquisition des autorités habilitées.
