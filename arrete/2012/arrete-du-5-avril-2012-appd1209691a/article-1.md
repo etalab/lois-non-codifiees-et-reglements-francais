@@ -1396,7 +1396,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Bureau de contrôle 02 diagnostics</p>
+<p>Bureau de contrôle O2 diagnostics - O2 formations</p>
 </td>
 </tr>
 <tr>
@@ -1753,7 +1753,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Association internationale pour la formation (AIPF)</p>
+<p>Association internationale pour la formation (AIPF) </p>
 </td>
 </tr>
 <tr>
@@ -2247,6 +2247,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td valign="top" width="263">
 <p>Groupe ISEE</p>
+<br/>
 </td>
 </tr>
 <tr>
