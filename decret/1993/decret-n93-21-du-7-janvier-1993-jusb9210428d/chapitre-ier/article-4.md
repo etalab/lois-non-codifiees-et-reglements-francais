@@ -6,11 +6,11 @@ Les magistrats du premier grade sont appelés à exercer les fonctions suivantes
 
 2° Premier vice-président et procureur de la République adjoint d'un tribunal de grande instance ou d'un tribunal de première instance ;
 
-2° bis Premier vice-président adjoint et premier vice-procureur de la République d'un tribunal de grande instance ou d'un tribunal de première instance ;
+2° bis Premier vice-président adjoint et premier vice-procureur de la République d'un tribunal de grande instance ou d'un tribunal de première instance, premier vice-procureur de la République financier près le tribunal de grande instance de Paris ;
 
 3° Vice-président d'un tribunal supérieur d'appel, d'un tribunal de grande instance ou de première instance, vice-président d'un tribunal de grande instance ou de première instance chargé de la présidence d'une chambre détachée d'un tribunal de grande instance, de l'instruction, des fonctions de juge des enfants, de l'application des peines, du service d'un tribunal d'instance ou de la présidence d'une section détachée ;
 
-4° Vice-procureur de la République d'un tribunal de grande instance ou de première instance ;
+4° Vice-procureur de la République d'un tribunal de grande instance ou de première instance, vice-procureur de la République financier près le tribunal de grande instance de Paris ;
 
 5° Vice-président placé auprès d'un premier président de cour d'appel et vice-procureur de la République placé auprès d'un procureur général de cour d'appel ;
 
