@@ -17,10 +17,10 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td width="224">
-<p>Secrétariat général du Gouvernement</p>
+<p align="left">Secrétariat général du Gouvernement</p>
 </td>
 <td width="373">
-<p>Chef du cabinet du secrétaire général du Gouvernement</p>
+<p align="left">Chef du cabinet du secrétaire général du Gouvernement</p>
 </td>
 <td width="75">
 <p align="center">1</p>
@@ -28,10 +28,10 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="224">
-<p>Direction des services administratifs et financiers</p>
+<p align="left">Direction des services administratifs et financiers</p>
 </td>
 <td width="373">
-<p>Chef du bureau des achats ministériels </p>
+<p align="left">Chef du bureau des achats ministériels </p>
 </td>
 <td width="75">
 <p align="center">1</p>
@@ -39,7 +39,7 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td width="373">
-<p>Chef du bureau de la gestion administrative et de la paie des personnels </p>
+<p align="left">Chef du bureau du budget </p>
 </td>
 <td width="75">
 <p align="center">1</p>
@@ -47,10 +47,10 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="224">
-<p>Direction de l'information légale et administrative</p>
+<p align="left">Direction de l'information légale et administrative</p>
 </td>
 <td width="373">
-<p>Responsable du département de la qualité et du contrôle interne</p>
+<p align="left">Responsable du département de la qualité et du contrôle interne</p>
 </td>
 <td width="75">
 <p align="center">1</p>
@@ -58,7 +58,7 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td width="373">
-<p>Responsable du département de l'édition</p>
+<p align="left">Responsable du département de l'édition</p>
 </td>
 <td width="75">
 <p align="center">1</p>
@@ -66,7 +66,7 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td width="373">
-<p>Directeur du centre d'appels interministériel</p>
+<p align="left">Directeur du centre d'appels interministériel</p>
 </td>
 <td width="75">
 <p align="center">1</p>

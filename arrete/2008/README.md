@@ -41,7 +41,6 @@
 - [Arrêté du 3 décembre 2008 (AGRP0825406A)](arrete-du-3-decembre-2008-agrp0825406a)
 - [Arrêté du 3 décembre 2008 (DEVL0822780A)](arrete-du-3-decembre-2008-devl0822780a)
 - [Arrêté du 3 décembre 2008 (MTST0828676A)](arrete-du-3-decembre-2008-mtst0828676a)
-- [Arrêté du 3 décembre 2008 (SJSH0823331A)](arrete-du-3-decembre-2008-sjsh0823331a)
 - [Arrêté du 3 décembre 2008 (SJSP0829095A)](arrete-du-3-decembre-2008-sjsp0829095a)
 - [Arrêté du 3 janvier 2008 (DEVT0774008A)](arrete-du-3-janvier-2008-devt0774008a)
 - [Arrêté du 3 janvier 2008 (DEVT0774013A)](arrete-du-3-janvier-2008-devt0774013a)

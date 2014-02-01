@@ -1,261 +1,464 @@
 # Article 1
 
-<div>
-<br/>L'échelonnement indiciaire applicable au corps des techniciens et techniciens supérieurs hospitaliers de l'Assistance publique-hôpitaux de Paris régi par le décret du 23 janvier 2012 susvisé est fixé ainsi qu'il suit :<br/>
-<div align="center">
+L'échelonnement indiciaire applicable au corps des techniciens et techniciens supérieurs hospitaliers de l'Assistance publique-hôpitaux de Paris régi par le décret du 23 janvier 2012 susvisé est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
+<td rowspan="2">
+<p align="center">ÉCHELONS</p>
+</td>
+<td colspan="2">
+<p align="center">INDICES BRUTS</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Troisième grade : technicien supérieur hospitalier de 1re classe</td>
-<td align="center">
+<td>
+<p align="center">A compter du 1er février 2014</p>
+</td>
+<td>
+<p align="center">A compter du 1er janvier 2015</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Troisième grade : technicien supérieur<br/>hospitalier de 1re classe</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon</td>
-<td align="center">
-<br/>675</td>
+<td>
+<p align="center">11e échelon</p>
+</td>
+<td>
+<p align="center">675</p>
+</td>
+<td>
+<p align="center">675</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon</td>
-<td align="center">
-<br/>646</td>
+<td>
+<p align="center">10e échelon</p>
+</td>
+<td>
+<p align="center">646</p>
+</td>
+<td>
+<p align="center">646</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon</td>
-<td align="center">
-<br/>619</td>
+<td>
+<p align="center">9e échelon</p>
+</td>
+<td>
+<p align="center">619</p>
+</td>
+<td>
+<p align="center">619</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>585</td>
+<td>
+<p align="center">8e échelon</p>
+</td>
+<td>
+<p align="center">585</p>
+</td>
+<td>
+<p align="center">585</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>555</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p align="center">555</p>
+</td>
+<td>
+<p align="center">555</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>524</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p align="center">524</p>
+</td>
+<td>
+<p align="center">524</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>497</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p align="center">497</p>
+</td>
+<td>
+<p align="center">497</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>469</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p align="center">469</p>
+</td>
+<td>
+<p align="center">469</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>450</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
+<td>
+<p align="center">450</p>
+</td>
+<td>
+<p align="center">450</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>430</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p align="center">430</p>
+</td>
+<td>
+<p align="center">430</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon </td>
-<td align="center">
-<br/>404</td>
+<td>
+<p align="center">1er échelon</p>
+</td>
+<td>
+<p align="center">404</p>
+</td>
+<td>
+<p align="center">404</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Deuxième grade : technicien supérieur hospitalier de 2e classe</td>
-<td align="center">
+<td>
+<p align="center">Deuxième grade : technicien supérieur<br/>hospitalier de 2e classe</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13e échelon</td>
-<td align="center">
-<br/>614</td>
+<td>
+<p align="center">13e échelon</p>
+</td>
+<td>
+<p align="center">614</p>
+</td>
+<td>
+<p align="center">614</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>12e échelon</td>
-<td align="center">
-<br/>581</td>
+<td>
+<p align="center">12e échelon</p>
+</td>
+<td>
+<p align="center">581</p>
+</td>
+<td>
+<p align="center">581</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon </td>
-<td align="center">
-<br/>551</td>
+<td>
+<p align="center">11e échelon</p>
+</td>
+<td>
+<p align="center">551</p>
+</td>
+<td>
+<p align="center">551</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon </td>
-<td align="center">
-<br/>518</td>
+<td>
+<p align="center">10e échelon</p>
+</td>
+<td>
+<p align="center">518</p>
+</td>
+<td>
+<p align="center">518</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon</td>
-<td align="center">
-<br/>493</td>
+<td>
+<p align="center">9e échelon</p>
+</td>
+<td>
+<p align="center">493</p>
+</td>
+<td>
+<p align="center">493</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>463</td>
+<td>
+<p align="center">8e échelon</p>
+</td>
+<td>
+<p align="center">463</p>
+</td>
+<td>
+<p align="center">463</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon </td>
-<td align="center">
-<br/>444</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p align="center">444</p>
+</td>
+<td>
+<p align="center">444</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon </td>
-<td align="center">
-<br/>422</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p align="center">422</p>
+</td>
+<td>
+<p align="center">422</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>397</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p align="center">397</p>
+</td>
+<td>
+<p align="center">397</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>378</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p align="center">378</p>
+</td>
+<td>
+<p align="center">378</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>367</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
+<td>
+<p align="center">367</p>
+</td>
+<td>
+<p align="center">367</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>357</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p align="center">357</p>
+</td>
+<td>
+<p align="center">357</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>350</td>
+<td>
+<p align="center">1er échelon</p>
+</td>
+<td>
+<p align="center">350</p>
+</td>
+<td>
+<p align="center">350</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Premier grade : technicien hospitalier</td>
-<td align="center">
+<td>
+<p align="center">Premier grade : technicien hospitalier</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13e échelon</td>
-<td align="center">
-<br/>576</td>
+<td>
+<p align="center">13e échelon</p>
+</td>
+<td>
+<p align="center">576</p>
+</td>
+<td>
+<p align="center">576</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>12e échelon</td>
-<td align="center">
-<br/>548</td>
+<td>
+<p align="center">12e échelon</p>
+</td>
+<td>
+<p align="center">548</p>
+</td>
+<td>
+<p align="center">548</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon </td>
-<td align="center">
-<br/>516</td>
+<td>
+<p align="center">11e échelon</p>
+</td>
+<td>
+<p align="center">516</p>
+</td>
+<td>
+<p align="center">516</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon </td>
-<td align="center">
-<br/>486</td>
+<td>
+<p align="center">10e échelon</p>
+</td>
+<td>
+<p align="center">486</p>
+</td>
+<td>
+<p align="center">488</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon</td>
-<td align="center">
-<br/>457</td>
+<td>
+<p align="center">9e échelon</p>
+</td>
+<td>
+<p align="center">457</p>
+</td>
+<td>
+<p align="center">457</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>436</td>
+<td>
+<p align="center">8e échelon</p>
+</td>
+<td>
+<p align="center">436</p>
+</td>
+<td>
+<p align="center">438</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon </td>
-<td align="center">
-<br/>418</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p align="center">418</p>
+</td>
+<td>
+<p align="center">418</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon </td>
-<td align="center">
-<br/>393</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p align="center">393</p>
+</td>
+<td>
+<p align="center">393</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>374</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p align="center">374</p>
+</td>
+<td>
+<p align="center">374</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>359</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p align="center">359</p>
+</td>
+<td>
+<p align="center">360</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>347</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
+<td>
+<p align="center">347</p>
+</td>
+<td>
+<p align="center">356</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>333</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p align="center">342</p>
+</td>
+<td>
+<p align="center">352</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>325</td>
+<td>
+<p align="center">1er échelon</p>
+</td>
+<td>
+<p align="center">340</p>
+</td>
+<td>
+<p align="center">348</p>
+</td>
 </tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
