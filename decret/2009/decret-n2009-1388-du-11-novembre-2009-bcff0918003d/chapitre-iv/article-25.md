@@ -4,15 +4,15 @@ I. ― Peuvent être promus au deuxième grade de l'un des corps régis par le p
 
 1° Par la voie d'un examen professionnel, les fonctionnaires justifiant d'au moins un an dans le 4e échelon du premier grade et d'au moins trois années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau ;
 
-2° Par la voie du choix, après inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, les fonctionnaires justifiant d'au moins un an dans le 6e échelon du premier grade et d'au moins cinq années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau.
+2° Par la voie du choix, après inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, les fonctionnaires ayant au moins atteint le 7e échelon du premier grade et justifiant d'au moins cinq années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau.
 
 Le nombre de promotions susceptibles d'être prononcées au titre du 1° ou du 2° ne peut être inférieur au quart du nombre total des promotions.
 
 II. ― Peuvent être promus au troisième grade de l'un des corps régis par le présent décret :
 
-1° Par la voie d'un examen professionnel, les fonctionnaires justifiant d'au moins deux ans dans le 5e échelon du deuxième grade et d'au moins trois années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau ;
+1° Par la voie d'un examen professionnel, les fonctionnaires ayant au moins atteint le 6e échelon du deuxième grade et justifiant d'au moins trois années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau ;
 
-2° Par la voie du choix, après inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, les fonctionnaires justifiant d'au moins un an dans le 6e échelon du deuxième grade et d'au moins cinq années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau.
+2° Par la voie du choix, après inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, les fonctionnaires ayant au moins atteint le 7e échelon du deuxième grade et justifiant  d'au moins cinq années de services effectifs dans un corps, cadre d'emplois ou emploi de catégorie B ou de même niveau.
 
 Le nombre de promotions susceptibles d'être prononcées au titre du 1° ou du 2° ne peut être inférieur au quart du nombre total des promotions.
 
