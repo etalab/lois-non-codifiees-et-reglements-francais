@@ -1,0 +1,3 @@
+# Article 14
+
+La situation, à la date d'entrée en vigueur du présent décret, des chefs techniciens des installations mentionnés à l'article 13 ne peut être moins favorable, en ce qui concerne tant leur échelon que l'ancienneté détenue dans cet échelon, que celle qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur grade d'origine jusqu'à la date d'entrée en vigueur du présent décret, et été reclassés, à cette même date, dans ce grade d'origine en application de l'article 13, puis promus dans le grade de chef technicien des installations en application de l'article 10 du présent décret.
