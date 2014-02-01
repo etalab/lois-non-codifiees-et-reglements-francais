@@ -1,0 +1,3 @@
+# Article 12
+
+Les fonctionnaires, inscrits sur un tableau d'avancement établi au titre de l'année 2014, promus au grade supérieur dans l'un des corps régis par le décret du 29 septembre 2005 susvisé, postérieurement à la date d'entrée en vigueur du présent décret, sont classés dans le grade d'avancement en tenant compte de la situation qui aurait été la leur s'ils avaient poursuivi, jusqu'à la date de leur promotion, leur carrière et avaient été classés dans ce grade selon les dispositions applicables avant l'entrée en vigueur du présent décret, puis reclassés à la date de leur promotion dans les conditions fixées, selon le cas, par les tableaux correspondant à leur grade d'avancement, figurant sous l'un des articles 9, 10 ou 11 du présent décret.

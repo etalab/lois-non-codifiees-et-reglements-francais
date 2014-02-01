@@ -1,0 +1,3 @@
+# Article 8
+
+Les fonctionnaires inscrits sur un tableau d'avancement établi au titre de l'année 2014, promus dans l'un des grades d'avancement d'un corps régi par le décret n° 2006-227 du 24 février 2006 susvisé, postérieurement à la date d'entrée en vigueur du présent décret, sont classés dans le grade d'avancement en tenant compte de la situation qui aurait été la leur s'ils avaient poursuivi, jusqu'à la date de leur promotion, leur carrière et avaient été classés dans ce grade selon les dispositions applicables avant l'entrée en vigueur du présent décret, puis reclassés à la date de leur promotion dans les conditions fixées par les tableaux correspondant à leur grade, figurant sous l'un des articles 5, 6 ou 7 du présent décret.
