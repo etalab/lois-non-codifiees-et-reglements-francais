@@ -2,9 +2,9 @@
 
 La part des sommes misées qui est dévolue au jeu se compose de la part affectée aux gagnants (pour les jeux de contrepartie, celle-ci est fondée sur le calcul des probabilités de gains et sur l'expérience statistique) et de la part affectée à la dotation structurelle du fonds de contrepartie, en application de l'article 14 du décret n° 78-1067 du 9 novembre 1978 et de l'article 15 du décret n° 85-390 du 1er avril 1985. Ces parts sont les suivantes :
 
-1. Pour Loto et Super Loto, la part affectée aux gagnants est de 53,000 % et la part affectée à la dotation structurelle du fonds de contrepartie de 0,500 %. Pour les options complémentaires " Compte double ", " Duo " et " Double chance ", les parts affectées aux gagnants sont respectivement de 62,9 %, 61,71 % et 61,45 % et les parts affectées à la dotation structurelle du fonds de contrepartie de 0,50 % ;
+1. Pour Loto et Super Loto, la part affectée aux gagnants est de 53,000 % et la part affectée à la dotation structurelle du fonds de contrepartie de 0,500 %. Pour les options complémentaires "Compte double", "Duo" et "Double chance", les parts affectées aux gagnants sont respectivement de 62,9 %, 61,71 % et 61,45 % et les parts affectées à la dotation structurelle du fonds de contrepartie de 0,50 % ;
 
-2. Pour Euro Millions, la part affectée aux gagnants est de 50,000 % ;
+2. Pour Euro Millions, la part affectée aux gagnants est de 50,000 %. Pour My Million, la part affectée aux gagnants est de 50,000 % ;
 
 3. Pour Joker +, la part affectée aux gagnants est de 56,600 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1,000 % ;
 
