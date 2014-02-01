@@ -1,130 +1,130 @@
 # Article 12
 
-La durée maximale et minimale du temps passé dans chacun des échelons du grade mentionné au deuxième alinéa de l'article 11 est fixée ainsi qu'il suit :
+La durée maximale et minimale du temps passé dans chacun des échelons du grade  mentionné au second alinéa de l'article 11 est fixée ainsi qu'il suit :
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<strong>ECHELONS</strong>
-</p>
+<td align="center" rowspan="2"> ÉCHELONS</td>
+<td align="center" colspan="2"> DURÉE</td>
+</tr>
+<tr>
+<td align="center"> Maximale</td>
+<td align="center"> Minimale</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10e échelon<br/>
 </td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">
-<strong>DUREES</strong>
-</p>
+<td align="center">
+<br/>―<br/>
+</td>
+<td align="center">
+<br/>―<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>9e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Maximale</p>
+<td align="center">
+<br/>4 ans<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Minimale</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">9e échelon</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans 4 mois<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">8e échelon</p>
+<td align="center">
+<br/>8e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
+<td align="center">
+<br/>2 ans 6 mois<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
+<td align="center">
+<br/>7e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>2 ans 6 mois<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">4e échelon</p>
+<td align="center">
+<br/>6e échelon<br/>
 </td>
-<td align="left" valign="top">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans<br/>
 </td>
-<td align="left" valign="top">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">3e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">2 ans</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>1 an 8 mois<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon</p>
+<td align="center">
+<br/>5e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>2 ans<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>1 an 8 mois<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<td align="center">
+<br/>4e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>2 ans<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>1 an 8 mois<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon<br/>
+</td>
+<td align="center">
+<br/>2 ans<br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon<br/>
+</td>
+<td align="center">
+<br/>1 an<br/>
+</td>
+<td align="center">
+<br/>1 an<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon<br/>
+</td>
+<td align="center">
+<br/>1 an<br/>
+</td>
+<td align="center">
+<br/>1 an<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>

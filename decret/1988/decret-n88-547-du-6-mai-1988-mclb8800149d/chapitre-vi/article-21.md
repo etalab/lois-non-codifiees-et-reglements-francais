@@ -1,3 +1,0 @@
-# Article 21
-
-Par dérogation au 1° de l'article 6, et pendant une durée de 3 ans calculée à compter de la date d'entrée en vigueur du décret n° 2006-1694 du 22 décembre 2006, peuvent également être inscrits sur la liste d'aptitude prévue au 1° de l'article 5 les agents appartenant aux grades d'agent technique territorial et de gardien d'immeuble territorial, intégrés dans le grade d'adjoint technique de 2e classe en application des articles 18 et 20 du décret n° 2006-1694 du 22 décembre 2006, qui comptent au moins onze ans de services effectifs, y compris la période normale de stage, et qui ont atteint au moins le 6e échelon de leur grade.
