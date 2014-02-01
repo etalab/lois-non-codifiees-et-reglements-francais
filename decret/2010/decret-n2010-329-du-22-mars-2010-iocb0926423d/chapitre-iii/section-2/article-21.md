@@ -7,179 +7,413 @@ II. ― Les personnes placées, avant leur nomination, dans l'une des situations
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">SITUATION THÉORIQUE DANS LE PREMIER GRADE<br/>du cadre d'emplois d'intégration de la catégorie B</p>
+<td align="center"> SITUATION THÉORIQUE <p>dans le premier grade </p>
+<p>du cadre d'emplois d'intégration </p>de la catégorie B </td>
+<td align="center"> SITUATION <p>dans le deuxième grade </p>
+<p>du cadre d'emplois d'intégration </p>de la catégorie B </td>
+<td align="center"> ANCIENNETÉ CONSERVÉE<br/> dans la limite de la durée de l'échelon</td>
+</tr>
+<tr>
+<td align="center">
+<br/>13e échelon <br/>
 </td>
-<td>
-<p align="center">SITUATION DANS LE DEUXIÈME GRADE<br/>du cadre d'emplois d'intégration de la catégorie B</p>
+<td align="center">
+<br/>12e échelon <br/>
 </td>
-<td>
-<p align="center">ANCIENNETÉ CONSERVÉE<br/>dans la limite de la durée de l'échelon</p>
+<td align="center">
+<br/>Ancienneté acquise majorée de deux ans <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">13e échelon</p>
+<br/>12e échelon : <br/>
 </td>
 <td align="center">
-<p align="center">12e échelon</p>
+<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<p align="left">Ancienneté acquise majorée de deux ans.</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">12e échelon :<br/>― à partir de deux ans<br/>― avant deux ans</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>12e échelon<br/>11e échelon</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée de deux ans.</p>
+<br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">11e échelon :<br/>― à partir de deux ans<br/>― avant deux ans</p>
+<br/>- à partir de deux ans <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11e échelon<br/>10e échelon</p>
+<br/>12e échelon <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>Ancienneté acquise au-delà de deux ans <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">10e échelon : <br/>― à partir de deux ans<br/>― avant deux ans</p>
+<br/>- avant deux ans <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>10e échelon <br/>9e échelon</p>
+<br/>11e échelon <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>Ancienneté acquise majorée de deux ans <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">9e échelon : <br/>― à partir de deux ans<br/>― avant deux ans</p>
+<br/>11e échelon : <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>9e échelon <br/>8e échelon </p>
+<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée d'un an.</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">8e échelon :<br/>― à partir de deux ans<br/>― avant deux ans</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>8e échelon<br/>7e échelon</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">7e échelon :<br/>― à partir de deux ans<br/>― avant deux ans</p>
+<br/>- à partir de deux ans <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>7e échelon<br/>6e échelon</p>
+<br/>11e échelon <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>Ancienneté acquise au-delà de deux ans <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">6e échelon :<br/>― à partir de deux ans<br/>― avant deux ans</p>
+<br/>- avant deux ans <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>6e échelon<br/>5e échelon</p>
+<br/>10e échelon <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>Ancienneté acquise majorée d'un an <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">5e échelon :<br/>― à partir de deux ans<br/>― avant deux ans</p>
+<br/>10e échelon : <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>5e échelon <br/>4e échelon</p>
+<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà de deux ans.<br/>Ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">4e échelon :<br/>― à partir d'un an<br/>― avant un an</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>4e échelon<br/>3e échelon</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Sans ancienneté.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">3e échelon :<br/>― à partir d'un an<br/>― avant un an</p>
+<br/>- à partir de deux ans et huit mois <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>3e échelon<br/>2e échelon</p>
+<br/>10e échelon <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà d'un an.<br/>Ancienneté acquise majorée d'un an.</p>
+<br/>3/4 de l'ancienneté acquise au-delà de deux ans huit mois <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">2e échelon :<br/>― à partir d'un an<br/>― avant un an</p>
+<br/>- avant deux ans et huit mois <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>2e échelon<br/>1er échelon</p>
+<br/>9e échelon <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ancienneté acquise au-delà d'un an.<br/>Ancienneté acquise.</p>
+<br/>3/4 de l'ancienneté acquise majorée d'un an <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">1er échelon </p>
+<br/>9e échelon : <br/>
 </td>
 <td align="center">
-<p align="center">1er échelon</p>
+<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<p align="left">Sans ancienneté.</p>
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir de deux ans <br/>
+</td>
+<td align="center">
+<br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà de deux ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant deux ans <br/>
+</td>
+<td align="center">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir de deux ans <br/>
+</td>
+<td align="center">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà de deux ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant deux ans <br/>
+</td>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>1/2 de l'ancienneté acquise, majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir d'un an et quatre mois <br/>
+</td>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>3/2 de l'ancienneté acquise au-delà d'un an et quatre mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant un an et quatre mois <br/>
+</td>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise, majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir d'un an et quatre mois <br/>
+</td>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>3/2 de l'ancienneté acquise au-delà d'un an et quatre mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant un an et quatre mois <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise, majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir d'un an et quatre mois <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>3/2 de l'ancienneté acquise au-delà d'un an et quatre mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant un an et quatre mois <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>3/2 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir d'un an <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Sans ancienneté <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant un an <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir d'un an <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant un an <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>1/2 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 </tbody>

@@ -7,277 +7,324 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
-<p align="center"> GRADES ET ÉCHELONS</p>
+<td align="center" rowspan="2">  GRADES ET ECHELONS</td>
+<td align="center" colspan="2"> DURÉES </td>
+</tr>
+<tr>
+<td align="center"> MAXIMALES </td>
+<td align="center"> MINIMALES </td>
+</tr>
+<tr>
+<td align="center"> Moniteur-éducateur <br/>et intervenant familial principal </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>13e échelon <br/>
 </td>
-<td colspan="2">
-<p align="center"> DURÉES</p>
+<td align="center">
+<br/>
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center"> Minimale</p>
+<td align="left">
+<br/>12e échelon <br/>
 </td>
-<td>
-<p align="center"> Maximale</p>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Moniteur-éducateur et intervenant familial principal<br/>
+<td align="left">
+<br/>11e échelon <br/>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+<td align="center">
+<br/>3 ans 3 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>10e échelon <br/>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+<td align="center">
+<br/>3 ans 3 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+<td align="center">
+<br/>2 ans 7 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+<td align="center">
+<br/>2 ans 7 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+<td align="center">
+<br/>1 an 8 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Moniteur-éducateur<p>et intervenant familial <br/>
+</p>
 </td>
 <td align="center">
 <br/>
 </td>
 <td align="center">
 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">13e échelon</p>
-</td>
-<td align="center">―<br/>
-</td>
-<td align="center">―<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">12e échelon</p>
-</td>
-<td align="center">3 ans 3 mois<br/>
-</td>
-<td align="center">4 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">11e échelon</p>
-</td>
-<td align="center">3 ans 3 mois<br/>
-</td>
-<td align="center">4 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">10e échelon</p>
-</td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">9e échelon</p>
-</td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">8e échelon</p>
-</td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">7e échelon</p>
-</td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">6e échelon</p>
-</td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">5e échelon</p>
-</td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">4e échelon</p>
-</td>
-<td align="center">2 ans<br/>
-</td>
-<td align="center">2 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">3e échelon</p>
-</td>
-<td align="center">2 ans<br/>
-</td>
-<td align="center">2 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">2e échelon</p>
-</td>
-<td align="center">2 ans<br/>
-</td>
-<td align="center">2 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">1er échelon</p>
-</td>
-<td align="center">1 an<br/>
-</td>
-<td align="center">1 an<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">Moniteur-éducateur et intervenant familial</p>
-</td>
-<td align="center">
 <br/>
-</td>
-<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>13e échelon <br/>
+</td>
 <td align="center">
-<p align="left">13e échelon</p>
+<br/>
+<br/>-<br/>
 </td>
-<td align="center">―<br/>
-</td>
-<td align="center">―<br/>
+<td align="center">
+<br/>
+<br/>-<br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>12e échelon <br/>
+</td>
 <td align="center">
-<p align="left">12e échelon</p>
+<br/>4 ans <br/>
 </td>
-<td align="center">3 ans 3 mois<br/>
-</td>
-<td align="center">4 ans<br/>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>11e échelon <br/>
+</td>
 <td align="center">
-<p align="left">11e échelon</p>
+<br/>4 ans <br/>
 </td>
-<td align="center">3 ans 3 mois<br/>
-</td>
-<td align="center">4 ans<br/>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>10e échelon <br/>
+</td>
 <td align="center">
-<p align="left">10e échelon</p>
+<br/>4 ans <br/>
 </td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>9e échelon <br/>
+</td>
 <td align="center">
-<p align="left">9e échelon</p>
+<br/>3 ans <br/>
 </td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
+<td align="center">
+<br/>2 ans 7 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>8e échelon <br/>
+</td>
 <td align="center">
-<p align="left">8e échelon</p>
+<br/>3 ans <br/>
 </td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
+<td align="center">
+<br/>2 ans 7 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>7e échelon <br/>
+</td>
 <td align="center">
-<p align="left">7e échelon</p>
+<br/>2 ans <br/>
 </td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
+<td align="center">
+<br/>1 an 8 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>6e échelon <br/>
+</td>
 <td align="center">
-<p align="left">6e échelon</p>
+<br/>2 ans <br/>
 </td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
+<td align="center">
+<br/>1 an 8 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<p align="left">5e échelon</p>
+<br/>2 ans <br/>
 </td>
-<td align="center">2 ans 7 mois<br/>
-</td>
-<td align="center">3 ans<br/>
+<td align="center">
+<br/>1 an 8 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<p align="left">4e échelon</p>
+<br/>2 ans <br/>
 </td>
-<td align="center">2 ans<br/>
-</td>
-<td align="center">2 ans<br/>
+<td align="center">
+<br/>1 an 8 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<p align="left">3e échelon</p>
+<br/>2 ans <br/>
 </td>
-<td align="center">2 ans<br/>
-</td>
-<td align="center">2 ans<br/>
+<td align="center">
+<br/>1 an 8 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<p align="left">2e échelon</p>
+<br/>2 ans <br/>
 </td>
-<td align="center">2 ans<br/>
-</td>
-<td align="center">2 ans<br/>
+<td align="center">
+<br/>1 an 8 mois <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<p align="left">1er échelon</p>
+<br/>1 an <br/>
 </td>
-<td align="center">1 an<br/>
-</td>
-<td align="center">1 an<br/>
+<td align="center">
+<br/>1 an <br/>
 </td>
 </tr>
 </tbody>
 </table>
+<br/>
 
 </div>
