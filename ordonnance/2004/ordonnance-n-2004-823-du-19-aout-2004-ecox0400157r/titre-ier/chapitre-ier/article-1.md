@@ -6,4 +6,4 @@ Sont également applicables les modifications apportées par ces articles à la 
 
 II. - alinéa modificateur.
 
-III. - Indépendamment de leur application de plein droit à Mayotte, les modifications et adjonctions apportées au code de procédure pénale en ses articles 704 et 704-1 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction issue de l'article 15 de la loi du 1er août 2003 susvisée.
+III. - Abrogé.
