@@ -1,8 +1,8 @@
 # Article 3
 
-Le Conseil stratégique de la recherche comprend de seize à vingt-quatre membres, répartis à nombre égal d'hommes et de femmes de la façon suivante :
+Le Conseil stratégique de la recherche comprend de seize à vingt-six membres, répartis à nombre égal d'hommes et de femmes de la façon suivante :
 
-1° Treize à vingt et une personnalités qualifiées représentant la recherche, l'économie et l'innovation, dont deux au moins exerçant ou ayant exercé leur activité hors de France ;
+1° Treize à  vingt-trois personnalités qualifiées représentant la recherche, l'économie et l'innovation, dont deux au moins exerçant ou ayant exercé leur activité hors de France ;
 
 2° Un membre du bureau de l'Association des régions de France, désigné par son président ;
 
