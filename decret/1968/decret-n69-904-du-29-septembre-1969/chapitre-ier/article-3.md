@@ -2,6 +2,10 @@
 
 A chacun des groupes mentionnés à l'article précédent correspond un grade.
 
-Les grades des troisième et deuxième groupes comprennent chacun onze échelons. Le grade du premier groupe comprend huit échelons.
+Le grade correspondant au troisième groupe est classé dans l'échelle 4 de rémunération prévue au deuxième alinéa de l'article 1er du décret du 29 septembre 2005 susmentionné.
 
-Le nombre maximum d'agents des systèmes d'information et de communication de chacun des groupes pouvant être promus au groupe supérieur est déterminé en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
+Le grade correspondant au deuxième groupe est classé dans l'échelle 5 de rémunération prévue au deuxième alinéa de l'article 1er du décret du 29 septembre 2005 susmentionné.
+
+Le grade correspondant au premier groupe est classé dans l'échelle 6 de rémunération prévue au troisième alinéa de l'article 1er du décret du 29 septembre 2005 susmentionné.
+
+La durée des échelons de ces grades est celle prévue à l'article 2 du décret du 29 septembre 2005 susmentionné pour chacune des échelles correspondantes.

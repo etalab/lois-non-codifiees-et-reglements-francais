@@ -10,6 +10,6 @@ I. ― Le corps des aides-soignants et des agents des services hospitaliers qual
 
 ― le grade d'aide-soignant de classe exceptionnelle classé à l'échelle 6 de rémunération.
 
-II. - Les grades situés dans les échelles 3, 4 et 5 comportent 11 échelons.
+II. - Supprimé.
 
-III. - Le grade situé dans l'échelle 6 comporte 7 échelons.
+III. - Supprimé.
