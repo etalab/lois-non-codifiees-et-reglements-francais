@@ -5,33 +5,55 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> GRADES ET ÉCHELONS </p>
+<td align="center" rowspan="2"> ÉCHELONS </td>
+<td align="center" colspan="2">
+<br/>INDICES BRUTS </td>
+</tr>
+<tr>
+<td align="center"> Au 1er février 2014 </td>
+<td align="center"> Au 1er janvier 2015 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Troisième grade <br/>
 </td>
-<td colspan="2">
-<p align="center"> INDICES BRUTS </p>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Troisième grade <p>11e échelon (1)<br/>
-</p>
+<br/>11e échelon <br/>
 </td>
 <td align="center">
-<br/>660 <br/>
+<br/>675 <br/>
+</td>
+<td align="center">
+<br/>675 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>10e échelon (1)<br/>
+<br/>10e échelon <br/>
 </td>
 <td align="center">
-<br/>640 <br/>
+<br/>646 <br/>
+</td>
+<td align="center">
+<br/>646 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>619 <br/>
 </td>
 <td align="center">
 <br/>619 <br/>
@@ -44,10 +66,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>585 <br/>
 </td>
+<td align="center">
+<br/>585 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>555 <br/>
 </td>
 <td align="center">
 <br/>555 <br/>
@@ -60,10 +88,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>524 <br/>
 </td>
+<td align="center">
+<br/>524 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>497 <br/>
 </td>
 <td align="center">
 <br/>497 <br/>
@@ -76,10 +110,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>469 <br/>
 </td>
+<td align="center">
+<br/>469 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
 </td>
 <td align="center">
 <br/>450 <br/>
@@ -92,10 +132,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>430 <br/>
 </td>
+<td align="center">
+<br/>430 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>404 <br/>
 </td>
 <td align="center">
 <br/>404 <br/>
@@ -105,10 +151,21 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>Deuxième grade <br/>
 </td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>13e échelon <br/>
+</td>
+<td align="center">
+<br/>614 <br/>
 </td>
 <td align="center">
 <br/>614 <br/>
@@ -121,10 +178,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>581 <br/>
 </td>
+<td align="center">
+<br/>581 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>11e échelon <br/>
+</td>
+<td align="center">
+<br/>551 <br/>
 </td>
 <td align="center">
 <br/>551 <br/>
@@ -137,10 +200,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>518 <br/>
 </td>
+<td align="center">
+<br/>518 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>493 <br/>
 </td>
 <td align="center">
 <br/>493 <br/>
@@ -153,10 +222,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>463 <br/>
 </td>
+<td align="center">
+<br/>463 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>444 <br/>
 </td>
 <td align="center">
 <br/>444 <br/>
@@ -169,10 +244,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>422 <br/>
 </td>
+<td align="center">
+<br/>422 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>397 <br/>
 </td>
 <td align="center">
 <br/>397 <br/>
@@ -185,10 +266,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>378 <br/>
 </td>
+<td align="center">
+<br/>378 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>367 <br/>
 </td>
 <td align="center">
 <br/>367 <br/>
@@ -201,10 +288,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>357 <br/>
 </td>
+<td align="center">
+<br/>357 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>350 <br/>
 </td>
 <td align="center">
 <br/>350 <br/>
@@ -214,10 +307,21 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>Premier grade <br/>
 </td>
+<td align="center">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>13e échelon <br/>
+</td>
+<td align="center">
+<br/>576 <br/>
 </td>
 <td align="center">
 <br/>576 <br/>
@@ -230,10 +334,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>548 <br/>
 </td>
+<td align="center">
+<br/>548 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>11e échelon <br/>
+</td>
+<td align="center">
+<br/>516 <br/>
 </td>
 <td align="center">
 <br/>516 <br/>
@@ -246,10 +356,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>486 <br/>
 </td>
+<td align="center">
+<br/>488 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>9e échelon <br/>
+</td>
+<td align="center">
+<br/>457 <br/>
 </td>
 <td align="center">
 <br/>457 <br/>
@@ -262,10 +378,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>436 <br/>
 </td>
+<td align="center">
+<br/>438 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>418 <br/>
 </td>
 <td align="center">
 <br/>418 <br/>
@@ -278,10 +400,16 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>393 <br/>
 </td>
+<td align="center">
+<br/>393 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>374 <br/>
 </td>
 <td align="center">
 <br/>374 <br/>
@@ -294,6 +422,9 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>359 <br/>
 </td>
+<td align="center">
+<br/>360 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -302,13 +433,19 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <td align="center">
 <br/>347 <br/>
 </td>
+<td align="center">
+<br/>356 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>333 <br/>
+<br/>342 <br/>
+</td>
+<td align="center">
+<br/>352 <br/>
 </td>
 </tr>
 <tr>
@@ -316,7 +453,11 @@ L'échelonnement indiciaire applicable aux membres des corps régis par le décr
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>325</td>
+<br/>340 <br/>
+</td>
+<td align="center">
+<br/>348<br/>
+</td>
 </tr>
 </tbody>
 </table>
