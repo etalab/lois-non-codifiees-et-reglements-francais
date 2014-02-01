@@ -50,6 +50,7 @@
 - [Décret n°2006-595 du 23 mai 2006 (PMEX0600053D)](decret-n2006-595-du-23-mai-2006-pmex0600053d)
 - [Décret n°2006-604 du 23 mai 2006 (INDI0607464D)](decret-n2006-604-du-23-mai-2006-indi0607464d)
 - [Décret n°2006-227 du 24 février 2006 (SANH0620210D)](decret-n2006-227-du-24-fevrier-2006-sanh0620210d)
+- [Décret n°2006-228 du 24 février 2006 (SANH0620214D)](decret-n2006-228-du-24-fevrier-2006-sanh0620214d)
 - [Décret n°2000-815 du 25 août 2000 (FPPA0000085D)](decret-n2000-815-du-25-aout-2000-fppa0000085d)
 - [Décret n°2006-608 du 26 mai 2006 (EQUT0600697D)](decret-n2006-608-du-26-mai-2006-equt0600697d)
 - [Décret n°2006-237 du 27 février 2006 (INTE0600032D)](decret-n2006-237-du-27-fevrier-2006-inte0600032d)

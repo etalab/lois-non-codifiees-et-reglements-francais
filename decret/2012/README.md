@@ -700,6 +700,7 @@
 - [Décret n°2012-554 du 23 avril 2012 (TRAT1200241D)](decret-n2012-554-du-23-avril-2012-trat1200241d)
 - [Décret n°2012-555 du 23 avril 2012 (TRAD1202152D)](decret-n2012-555-du-23-avril-2012-trad1202152d)
 - [Décret n°2012-556 du 23 avril 2012 (TRAT1121043D)](decret-n2012-556-du-23-avril-2012-trat1121043d)
+- [Décret n°2012-79 du 23 janvier 2012 (ETSH1135313D)](decret-n2012-79-du-23-janvier-2012-etsh1135313d)
 - [Décret n°2012-903 du 23 juillet 2012 (MENE1209765D)](decret-n2012-903-du-23-juillet-2012-mene1209765d)
 - [Décret n°2012-905 du 23 juillet 2012 (DEFH1206447D)](decret-n2012-905-du-23-juillet-2012-defh1206447d)
 - [Décret n°2012-906 du 23 juillet 2012 (ESRS1221657D)](decret-n2012-906-du-23-juillet-2012-esrs1221657d)
