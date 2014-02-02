@@ -476,7 +476,6 @@
 - [Arrêté du 19 novembre 2004 (JUSG0460099A)](arrete-du-19-novembre-2004-jusg0460099a)
 - [Arrêté du 19 novembre 2004 (SANY0423939A)](arrete-du-19-novembre-2004-sany0423939a)
 - [Arrêté du 19 mai 2004 (AGRF0401312A)](arrete-du-19-mai-2004-agrf0401312a)
-- [Arrêté du 19 mai 2004 (DEFP0400580A)](arrete-du-19-mai-2004-defp0400580a)
 - [Arrêté du 19 mai 2004 (DEVP0430135A)](arrete-du-19-mai-2004-devp0430135a)
 - [Arrêté du 19 mai 2004 (SANG0421373A)](arrete-du-19-mai-2004-sang0421373a)
 - [Arrêté du 20 août 2004 (DOMB0400034A)](arrete-du-20-aout-2004-domb0400034a)
