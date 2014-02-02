@@ -16,7 +16,7 @@ En cas de signature de la convention en cours d'exercice, la redevance annuelle 
 
 Seule la différence (lorsqu'elle est positive) de contribution est due par l'établissement de crédit si celui-ci, le groupe ou le réseau auquel il appartient en acquitte déjà une du fait de son adhésion au dispositif du (nouveau) FGAS en métropole ou dans les départements d'outre-mer.
 
-De même, l'établissement de crédit ne sera tenu que du paiement du différentiel, dès lors que cette redevance continue à être acquittée dans le cadre de la convention relative au nouveau prêt à 0 % prévu à l'article R. 318-1 du code de la construction et de l'habitation, et ce pendant toute la période de cumul des deux conventions. En cas de résiliation de la convention nouveau PTZ, la redevance extranet deviendra exigible au titre de la seule convention éco-prêt à 0 %.
+De même, l'établissement de crédit ne sera tenu que du paiement du différentiel, dès lors que cette redevance est acquittée dans le cadre d'une autre convention relative au nouveau prêt à 0 % ou au PTZ + ou à tout nouveau produit (PTZ) qui viendrait s'y substituer, et ce pendant toute la période de cumul des conventions. En cas de résiliation des conventions relatives aux PTZ, la redevance extranet deviendra exigible au titre de la seule convention éco-prêt à 0 %.
 
 En cas de groupe, le montant des redevances est déterminé forfaitairement à 8 000 € pour l'ensemble du groupe.
 

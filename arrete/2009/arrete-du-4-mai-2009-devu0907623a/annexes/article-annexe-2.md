@@ -6,7 +6,7 @@ DE CRÉDIT-ORGANISATION ET SUIVI DES MISSIONS D'INSPECTION
 
 Conformément aux dispositions des articles 1er et 6 de la convention conclue entre les établissements de crédit et la SGFGAS, cette dernière peut effectuer à son initiative, chez l'organisme prêteur, les contrôles visant à s'assurer du respect de la réglementation relative aux éco-prêts à taux zéro. Ces contrôles portent sur :
 
-- la conformité du dossier de prêt aux déclarations transmises par l'établissement de crédit (véracité et sincérité des informations télétransmises) ;
+- la conformité du dossier de prêt aux déclarations transmises par l'établissement de crédit (véracité et sincérité des informations déclarées) ;
 
 - le respect des conditions d'éligibilité ;
 
@@ -62,7 +62,7 @@ Lors de la mission, les inspecteurs sont amenés à :
 
 - appréhender les procédures mises en place par les établissements de crédit pour gérer les éco-prêts à taux zéro ;
 
-- vérifier les données télétransmises par les établissements et les conditions d'éligibilité des dossiers sélectionnés.
+- vérifier les données déclarées par les établissements et les conditions d'éligibilité des dossiers sélectionnés.
 
 A la fin de la mission sur place, les inspecteurs rendent compte oralement de leurs observations au responsable de l'établissement ou à son représentant. Le responsable de l'établissement peut faire assister les inspecteurs de la SGFGAS par un membre du personnel de l'établissement durant la durée de l'inspection.
 
@@ -108,6 +108,6 @@ Ce comité comprend :
 
 - le directeur général de la SGFGAS qui en assure le secrétariat ;
 
-- trois représentants des établissements de crédit habilités à distribuer des éco-prêts à taux zéro.
+- six représentants des établissements de crédit, dont trois suppléants, habilités à distribuer des éco-prêts à taux zéro.
 
-Les représentants des établissements de crédit sont désignés par les membres du comité sortant, pour une période de deux ans, parmi une liste de cinq établissements de crédit proposée par l'Association française des établissements de crédit. Les mandats des représentants des établissements de crédit ne sont pas renouvelables. Le comité consultatif de l'éco-prêt à taux zéro se réunit trimestriellement selon un ordre du jour défini par la SGFGAS.
+Les représentants des établissements de crédit sont désignés par les membres du comité sortant, pour une période de deux ans, d'après une liste d'établissements de crédit proposée par l'Association française des Etablissements de crédit. Le comité consultatif de l'éco-prêt à taux zéro se réunit trimestriellement selon un ordre du jour défini par la SGFGAS.

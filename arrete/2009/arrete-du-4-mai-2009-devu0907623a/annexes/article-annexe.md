@@ -12,9 +12,7 @@ D'une part, et
 
 D'autre part.
 
-Vu la
-loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009, modifiée par la
-loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009, et notamment son article 99 ;
+Vu la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009, modifiée par la loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009, et notamment son article 99 ;
 
 Vu les articles R. 319-1 et suivants du code de la construction et de l'habitation ;
 
@@ -76,7 +74,7 @@ Article 2
 
 Prêts éligibles
 
-Le prêt est défini au I de l'article 244 quater U du code général des impôts complété par les articles R. 319-1 à R. 319-22 du code de la construction et de l'habitation et par les textes d'application.
+Le prêt est défini au I et au VI ter de l'article 244 quater U du code général des impôts complété par les articles R. 319-1 à R. 319-22 du code de la construction et de l'habitation et par les textes d'application.
 
 Article 3
 
@@ -114,7 +112,7 @@ Article 6
 
 Contrôles
 
-Pour chaque prêt, l'établissement de crédit constitue un dossier de prêt. Il y recueille l'ensemble des pièces justificatives définies par la réglementation. Il conserve le dossier jusqu'à l'extinction de la créance et, en cas de passage en perte ou de remboursement anticipé total volontaire ou faisant suite au prononcé de la déchéance du terme, pendant une période de trois ans à compter de celui-ci.
+Pour chaque prêt, l'établissement de crédit constitue un dossier de prêt. Il y recueille l'ensemble des pièces justificatives définies par la réglementation. Il conserve le dossier jusqu'à l'extinction de la créance et, en cas de passage en perte ou de remboursement anticipé total volontaire ou faisant suite au prononcé de la déchéance du terme, pendant une période de trois ans à compter de la déclaration à la SGFGAS de cet événement.
 
 L'établissement de crédit s'engage, pendant la durée susvisée, à répondre à toute demande de renseignements concernant les prêts et à accepter de recevoir des missions de contrôle de la SGFGAS effectuées par des agents mandatés à cet effet par le directeur général du Trésor et le directeur de l'habitat, de l'urbanisme et des paysages.
 
@@ -130,7 +128,7 @@ Remises en cause du crédit d'impôt
 
 Si la déclaration dite de clôture visée au c de l'article 5 de la présente convention n'a pas été faite à la SGFGAS au plus tard à la date visée au c du II de l'article R. 319-14 du code de la construction et de l'habitation malgré relance de l'établissement de crédit, la SGFGAS notifie à l'établissement de crédit le reversement des crédits d'impôt relatifs aux prêts concernés par le non-respect de cette obligation déclarative.
 
-Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est pas intégralement remboursée, il apparaît que les conditions mentionnées au I de l'article 244 quater U du code général des impôts fixées pour l'octroi de l'avance remboursable n'ont pas été respectées, le crédit d'impôt est reversé par l'établissement de crédit. Par exception, lorsque la justification de la réalisation ou de l'éligibilité n'est pas apportée par le bénéficiaire dans le délai prévu au 5 du même I, l'Etat exige de ce dernier le remboursement de l'avantage indûment perçu tel que défini par l'article R. 319-14 du code de la construction et de l'habitation.
+Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est pas intégralement remboursée, il apparaît que les conditions mentionnées au I ou au VI ter de l'article 244 quater U du code général des impôts fixées pour l'octroi de l'avance remboursable n'ont pas été respectées, le crédit d'impôt est reversé par l'établissement de crédit. Par exception, lorsque la justification de la réalisation ou de l'éligibilité n'est pas apportée par le bénéficiaire dans le délai prévu au 5 du même I, l'Etat exige de ce dernier le remboursement de l'avantage indûment perçu tel que défini par l'article R. 319-14 du code de la construction et de l'habitation.
 
 Les modalités de restitution de l'avantage indu par le bénéficiaire de l'avance remboursable sans intérêt sont définies par ce même article R. 319-14.
 
@@ -168,7 +166,7 @@ Article 10
 
 Durée. - Résiliation
 
-La présente convention est valable jusqu'au 31 décembre 2013.
+La présente convention est valable jusqu'au 30 juin 2014.
 
 La présente convention peut être résiliée par chaque partie sous réserve qu'elle en informe l'autre partie par courrier recommandé avec accusé de réception, avec un préavis de trois (3) mois.
 
