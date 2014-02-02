@@ -288,9 +288,7 @@ Valenciennes.
 
 **TABLEAU C
 
-Emplois de premier vice-président adjoint
-
-et de premier vice-procureur de tribunal de grande instance**
+Emplois de premier vice-président adjoint, de premier vice-procureur et de premier vice-procureur financier de tribunal de grande instance**
 
 Bobigny.
 
